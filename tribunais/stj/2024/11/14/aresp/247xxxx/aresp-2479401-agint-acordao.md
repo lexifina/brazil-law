@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ANÁLISE DE COMPATIBILIDADE DO CONTEÚDO DAS QUESTÕES DO CONCURSO COM O PREVISTO NO EDITAL DO CERTAME. TRIBUNAL DE ORIGEM QUE CONCLUIU PELA DEMONSTRAÇÃO DO DIREITO LÍQUIDO E CERTO. ANÁLISE QUE DEMANDA O REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO E DE CLÁSULAS DO EDITAL DO CONCURSO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Afasta-se a ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como de cláusulas do edital do concurso, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado do Paraná desafiando decisão que negou provimento ao agravo em recurso especial, ante a ausência de negativa de prestação jurisdicional e com base na incidência das Súmulas 5 e 7 do STJ (fls. 886/889).
+A parte agravante, em suas razões, reitera a ocorrência de negativa de prestação jurisdicional, sob o argumento de que "nos acórdãos da origem não foi concretamente apreciado o alcance do que é discutido: "efetivamente apreciar o conteúdo do parecer do Ministério Público no movimento 31.1 dos autos em que se destaca a ausência de direito líquido e certo à pretensão de alterar o gabarito da prova objetiva dada a peculiaridade das alterações." Sem qualquer manifestação complementar de integração do julgado aos dispositivos de lei invocados, os embargos de declaração foram rejeitados" (fl. 899).
+Sustenta a inaplicabilidade dos referidos óbices, sob o argumento de que " n ão se discute aqui a tese da incidência da Súmula n. 07 e 05 do STJ, mas tão somente a não comprovação de direito líquido e certo, bem como a aplicação do quanto decidido em repercussão geral pelo STF, no RE 632.853/CE RG/CE, da relatoria do Ministro Gilmar Mendes, onde se assentou que não compete ao Poder Judiciário, no controle de legalidade, substituir a banca examinadora para avaliar respostas dadas pelos candidatos, bem como as notas a elas atribuídas" (fl. 904).
+As razões do recurso foram impugnadas (fls. 911/920).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ANÁLISE DE COMPATIBILIDADE DO CONTEÚDO DAS QUESTÕES DO CONCURSO COM O PREVISTO NO EDITAL DO CERTAME. TRIBUNAL DE ORIGEM QUE CONCLUIU PELA DEMONSTRAÇÃO DO DIREITO LÍQUIDO E CERTO. ANÁLISE QUE DEMANDA O REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO E DE CLÁSULAS DO EDITAL DO CONCURSO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Afasta-se a ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como de cláusulas do edital do concurso, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Consoante anteriormente mencionado, verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, de acordo com a jurisprudência deste Superior Tribunal, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1.678.312/PR, rel. Ministro Raul Araújo, Quarta Turma, julgado em 22/3/2021, DJe de 13/4/2021).
+A tanto, verifica-se, pela fundamentação do acórdão recorrido (fls. 475/479), integrada em sede de embargos declaratórios (fls. 507/510), que o Tribunal de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Outrossim, não se descortina negativa de prestação jurisdicional, ao tão só argumento de o aresto recorrido ter decidido em sentido contrário à pretensão da parte.
+No mais, extrai-se do decisório colegiado recorrido a seguinte fundamentação (fls. 298/299):
+Objetiva o impetrante a nulidade da questão n. 35 da prova objetiva, tipo 3 do Concurso para Ingresso na Magistratura do Estado do Paraná, edital nº 001/2021- TJPR (mov. 1.6/1.8), devendo ser atribuída a respectiva nota aos candidatos.
+Aduz que a questão possui duas respostas corretas (alternativas "c" e "d"), tendo a banca examinadora considerado correta a alternativa "d". Contudo, a alternativa "c", encontra-se de acordo com a nova redação do artigo 154-A do Código Penal.
+Anota-se que o controle judicial de questões de concurso público está limitado ao aspecto da legalidade e, excepcionalmente, quanto à análise da compatibilidade das questões com o edital, conforme o Tema 485 do STF e Enunciado n. 54 da 4 e 5 Câmaras Cíveis deste Tribunal:
+ ..
+Alega violação ao item 12.28 do edital, pois a banca examinadora considerou como correta a redação anterior do Código Penal O item dispôs (mov. 1.3):
+ ..
+Assim, conforme o item acima contido no edital, as alterações legislativas antes da publicação do edital, devem ser levadas em consideração.
+A questão em discussão dispôs (mov. 1.6):
+ ..
+No caso em tela, o impetrante assinalou como resposta correta a opção "c", tendo a banca examinadora no gabarito definitivo apontado como correta a opção "d".
+Observa-se, que o impetrante, diante da alteração do artigo ocorrido pela Lei 14.155/2021, com vigência a partir de 28/05/2021 (anterior ao edital - 01/06/2021), aponta alternativa correta, utilizando-se de norma vigente antes da publicação do edital do concurso, existindo dualidade de respostas.
+Assim, estando vigente a nova regra do artigo 154-A do Código Penal, correta a alternativa assinalada pelo impetrante.
+Posto isso, manifesta-se o voto no sentido conhecer o recurso e conceder a segurança, existindo comprovação do direito líquido e certo do impetrante, com a manutenção da decisão liminar anteriormente concedida (mov. 11.1).
+Nesse contexto, inarredável a incidência das Súmulas 5 e 7/STJ, pois a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como de cláusulas do edital do concurso, providência vedada em recurso especial.
+Nessa mesma linha de compreensão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MATÉRIA FÁTICA. REEXAME.
+IMPOSSIBILIDADE.
+1. Não é possível, em sede de recurso especial, o reexame de matéria fático- probatória, o que enseja a incidência da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 2. Muito embora a jurisprudência desta Corte restrinja, em matéria de concurso público, a substituição da banca examinadora do certame pelo judiciário, para alterar os métodos de avaliação e os critérios de correção das provas, situações concretas dos concursos públicos podem sinalizar que aspectos de legalidade foram vulnerados, exigindo o controle jurisdicional do ato administrativo. (AgInt no REsp n. 1.928.649/SC, rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 14/12/2021) 3. Hipótese em que a Corte de origem, ao majorar a nota da prova prático profissional da parte demandante, louvou-se nas circunstâncias fáticas delineadas no feito, de modo que o acolhimento da pretensão recursal fica obstado pelo enunciado referido.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.157.831/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+ADMINISTRATIVO. AGRAVO INTERNO. EXAME DE ORDEM. REVISÃO DE CORREÇÃO DE PROVA. EXCEÇÃO. FLAGRANTE ILEGALIDADE CONSTATADA PELO TRIBUNAL DE ORIGEM. REEXAME DE MATÉRIA FÁTICA IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Segundo entendimento consolido desta Corte e do STF, é vedado ao Poder Judiciário, como regra, substituir a banca examinadora do concurso público para se imiscuir nos critérios de correção de provas e de atribuição de notas.
+Em verdade, entende-se que atuação do julgador deve cingir-se ao controle jurisdicional da leg alidade do certame.
+2. No caso dos autos, rever o entendimento da Corte local, que concluiu haver, na espécie, flagrante ilegalidade a permitir a intervenção do Poder Judiciário, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.159.680/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+ADMINISTRATIVO. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÃO. EXISTÊNCIA DE ERRO GROSSEIRO NO GABARITO DE RESPOSTAS. TEORIA DOS MOTIVOS DETERMINANTES. CONTROLE DE LEGALIDADE PELO JUDICIÁRIO. POSSIBILIDADE.
+1. A tese sustentada pela União não fora propriamente negada pela instância recorrida, que fez constar no item 3 da ementa a menção de que, regra geral, "O Poder Judiciário é incompetente para, substituindo-se à banca examinadora de concurso público, reexaminar o conteúdo das questões formuladas e os critérios de correção das provas, consoante pacificado na jurisprudência do Supremo Tribunal Federal".
+2. In casu, todavia, o Tribunal Regional Federal da 5ª Região identificou particularidade que excepciona aquela regra, consistente na existência de erro grosseiro no gabarito apresentado, e determinou que "o próprio doutrinador que a comissão examinadora invocou para justificar a validade da questão afirmou, pessoalmente, que a questão é nula".
+3. Nesse cenário, a instância a quo justificou a intervenção jurisdicional com amparo na teoria dos motivos determinantes e estabeleceu que "se a Administração Pública norteou sua conduta em função de parâmetro que se revelou inexistente, o ato administrativo não pode ser mantido, e o controle jurisdicional, nesse tocante, é plenamente autorizado pela ordem jurídica, com afastamento da alegação de intocabilidade da discricionariedade administrativa." 4. Estando as conclusões das instâncias ordinárias assentadas sobre premissas fáticas vinculadas ao conjunto probatório, não há como ultrapassar o óbice da Súmula 7/STJ, sendo certo que os fundamentos recursais trazidos pela agravante também não arredam a aplicação desse óbice formal.
+5. Agravo Regimental não provido.
+(AgRg no AREsp n. 500.567/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/6/2014, DJe de 18/8/2014.)
+Deve, portanto, ser mantida a decisão agravada, por seus próprios fundamentos.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
