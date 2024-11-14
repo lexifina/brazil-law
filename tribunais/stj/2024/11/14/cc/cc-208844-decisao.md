@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 2ª VARA DE ITARARE (SP) e o JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE BRASÍLIA (DF).
+Inicialmente, o JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE BRASÍLIA (DF) declinou de sua competência em razão dos seguintes fundamentos (fls. 429-432):
+A parte autora reside em Itararé/SP e o Banco do Brasil, embora tenha sede no Distrito Federal, possui agências e escritórios de advocacia contratados para a sua defesa em todo território nacional, inclusive na residência da autora.
+Dessa forma, forçoso concluir que não faz nenhum sentido o ajuizamento da ação nesta circunscrição judiciária. O caso extrapola a mera competência territorial relativa, cuja declinação de ofício é vedada pela Súmula 33 do STJ, e atinge a organização do Poder Judiciário, que possui envergadura constitucional, conforme previsto no teor do art. 93, inciso XIII, da Constituição Federal:
+ ..
+É notório o ajuizamento em massa de ações da mesma natureza apresentadas nesta circunscrição, em que os autores residem nos mais diversos estados do país. Tal discrepância prejudica a gestão do TJDFT, compromete a celeridade dos processos que envolvem a população do DF e impede o cumprimento das metas impostas pelo CNJ.
+Neste sentido, não reputo presente qualquer requisito que justifique o ajuizamento da ação em Brasília/DF, fato este que faz suplantar o interesse meramente privado das partes, exaltando-se, pois, o princípio do juiz natural.
+Advirto que não se aplica a vedação estabelecida pela Súmula 33 do Superior Tribunal de Justiça, considerando que a Corte Cidadã possui entendimento afirmando ser "inadmissível, todavia, a escolha aleatória de foro sem justificativa plausível e pormenorizadamente demonstrada, possibilitando o declínio de competência em situações semelhantes a do presente feito."
+ ..
+Destaco ainda que existem pessoas jurídicas, tais como o Banco do Brasil, que possuem sucursais e agências espalhadas em milhares de cidades do Brasil, apesar de suas sedes serem em Brasília. Ou mesmo pessoas jurídicas "virtuais", que prestam seus serviços de maneira totalmente disseminada, sem relacionamentos face a face com o consumidor.
+ ..
+Contudo, a leitura do artigo 53, III, "a" e "b", do CPC não pode mais se dar de maneira desvinculada do § 5o do artigo 63 do CPC, pois, uma vez definida a concepção de foro aleatório (uma demanda, seja em virtude de eleição de foro ou não, proposta em local diverso daquele onde domiciliadas as partes ou onde se dá o negócio jurídico discutido na demanda) e de abuso à administração da justiça, que conduz à declinação de ofício, neste novo horizonte compreensivo não se admite a propositura de uma causa, indiscriminadamente, tanto na sede, quanto nas agências/sucursais.
+O contexto pós-moderno, em que pessoas jurídicas são virtuais e/ou concretamente onipresentes em todo o território nacional, não pode ser uma porta aberta para que o foro da "sede" formal de uma pessoa jurídica se torne um juízo universal para todos os processos em que aquela pessoa jurídica for requerida. O novel § 5o do artigo 63 do CPC impede exatamente essa distorção, corrigindo-a enquanto caminha ao encontro do princípio constitucional da eficiência e do juiz natural.
+Ante o exposto, DECLINO DA COMPETÊNCIA em favor do Juízo Cível da Comarca de Itararé/SP.
+Recebidos os autos, o JUÍZO DE DIREITO DA 2ª VARA DE ITARARE (SP) suscitou o presente conflito defendendo que (fl. 484):
+1. O Superior Tribunal de Justiça firmou o entendimento de que a liquidação e a execução individual de sentença coletiva podem ser propostas no foro onde a ação foi julgada ou no foro do domicílio do autor, a critério deste, conforme preceituam os arts. 98, § 2o, I e 101,1, ambos da Lei nº 8.078/1990 (REsp 1.243.887, Rei. Ministro Luis Felipe Salomão, Corte Especial, j. 19.10.2011).
+No caso em apreço, os autores buscam a liquidação individual da sentença coletiva proferida pelo juízo da 3a Vara Federal do Distrito Federal no processo autuado sob o nº 0008465-28.1994.4.01.3400. Logo, nada impede que a demanda seja processada no foro do Distrito Federal, mormente porque a escolha feita pelos autores nada tem de aleatório: além de a sentença ter sido proferida pelo juízo brasiliense, o réu Banco do Brasil tem sua sede naquela localidade.
+Ao negar o processamento da demanda, o juízo da 23a Vara Cível de Brasília não só deixou de observar a regra de competência concorrente, como também se afastou da Súmula nº 33 do Superior Tribunal de Justiça, que é clara ao enunciar "M incompetência relativa não pode ser declarada de ofício".
+Por essas razões, suscito conflito, nos termos do art. 953,1 do CPC.
+Parecer do MPF, às fls. 543-545, opinando pelo prosseguimento do feito, prescindindo-se de opinião meritória.
+É, no essencial, o relatório.
+A jurisprudência sedimentada do STJ admite que, nas demandas envolvendo relações de consumo, a competência territorial assume caráter absoluto ou relativo a depender da posição do consumidor no feito. Assim, na hipótese em que ocupa o polo ativo da demanda, pode o consumidor eleger o foro que melhor atenda seus interesses, observadas as limitações legais. Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. CUMPRIMENTO DE SENTENÇA. CONSUMIDOR. POLO ATIVO. FORO COMPETENTE. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O Superior Tribunal de Justiça entende que, em se tratando de relação consumerista, a competência é absoluta ou relativa, dependendo da posição processual ocupada pelo consumidor. Desse modo, se a autoria do feito pertence ao consumidor, cabe a ele ajuizar a demanda no foro do seu domicílio, no de domicílio do réu, no foro de eleição ou do local e cumprimento da obrigação.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.877.552/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. AÇÃO REVISIONAL PROPOSTA PELO CONSUMIDOR. DOMICÍLIO DO RÉU. POSSIBILIDADE.
+1. A jurisprudência sedimentada da Segunda Seção do Superior Tribunal de Justiça é firme no sentido de que é facultado ao consumidor, quando autor da ação, eleger, dentro das limitações impostas pela lei, a comarca que melhor atende seus interesses.
+2. A competência, em casos tais, deve ser tida por relativa, somente podendo ser alterada caso o réu apresente, a tempo e modo oportunos, exceção de incompetência, não sendo possível sua declinação de ofício nos moldes da Súmula nº 33/STJ.
+3. A norma protetiva, erigida em benefício do consumidor, não o obriga a demandar em seu domicílio, sendo-lhe possível renunciar ao direito que possui de ali demandar e ser demandado, optando por ajuizar a ação no foro do domicilio do réu, com observância da regra geral de fixação de competência do art. 94 do CPC.
+4. Agravo regimental não provido.
+(AgRg no CC n. 129.294/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 24/9/2014, DJe de 1º/10/2014.)
+No presente caso, o consumidor optou por ajuizar a demanda no local da sede do banco réu, que é uma das hipóteses concorrentes de foro à disposição do consumidor para a liquidação de sentença coletiva, não havendo que se falar, assim, em opção aleatória ou imotivada.
+Tratando-se de competência territorial, de natureza relativa, não poderia o Juízo suscitado declarar-se incompetente, de ofício, a teor da Súmula n. 33 do STJ: "A incompetência relativa não pode ser declarada de ofício".
+Nesse mesmo sentido, em casos similares, confiram-se: CC n. 199.710, Ministro João Otávio de Noronha, DJe de 19/2/2024; CC n. 201.202, Ministro Antonio Carlos Ferreira, DJe de 20/12/2023.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE BRASÍLIA (DF).
+Comunique-se aos Juízos envolvi dos o teor da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. RELAÇÃO DE CONSUMO. DECLINAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. COMPETÊNCIA RELATIVA. SÚMULA 33/STJ. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
