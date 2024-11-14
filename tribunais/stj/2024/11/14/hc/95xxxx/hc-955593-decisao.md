@@ -1,0 +1,34 @@
+DECISÃO
+RICARDO OSCAR DA SILVA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco na Apelação Criminal n. 0003237-93.2020.8.17.0001.
+A defesa pretende, em síntese, novo cômputo da pena privativa de liberdade relativa ao crime de roubo majorado por concurso de pessoas e emprego de arma de fogo.
+Decido.
+I. Contextualização
+Trata-se de postulante condenado, em primeira instância, à pena de 12 anos e 3 meses de reclusão, no regime fechado, mais 133 dias-multa, à razão mínima, pela prática do delito de roubo majorado - art. 157, §§ 2º, II, 2º-A, I, do Código Penal (concurso de pessoas e emprego de arma de fogo).
+Verifico que o writ foi impetrado contra acórdão de apelação criminal proferido pelo Tribunal de Justiça do Estado de Pernambuco, com julgamento do recurso ocorrido em 22/10/2024.
+Na oportunidade, o órgão fracionário negou provimento ao recurso defensivo (fls. 12-41).
+Não houve o ajuizamento de recurso especial e não há informação sobre a ocorrência do trânsito em julgado (fls. 96-98).
+Diante do quadro narrado, a defesa impetrou este habeas corpus no âmbito deste Superior Tribunal em 23/10/2024, ocasião em que requer novo cálculo da pena privativa de liberdade.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do writ, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+No caso, reitero que, a defesa não interpôs recurso especial e o writ, portanto, visa substituir o apelo especial.
+Assim, não está em curso processo do qual o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a eventualidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Todavia, observo manifesta ilegalidade no cômputo da derradeira etapa da reprimenda, razão pela qual a hipótese comporta a concessão da ordem de habeas corpus, nos termos que passo a justificar:
+II. Dosimetria
+A defesa insurge-se contra a elevação da pena da terceira fase do cálculo dosimétrico (delito de roubo majorado pelo concurso de pessoas e uso de arma de fogo), ao sustentar o cúmulo material das referidas causas de aumento, haja vista não haver a indispensável fundamentação, nos moldes da Súmula n. 443 do STJ.
+O acórdão consignou o que se segue (fl. 35):
+ ..  Já na terceira etapa, observa-se que a reprimenda deverá ser aumentada em 1/3 (um terço) pelo reconhecimento da majorante do concurso de pessoas e em 2/3 (dois terços) pela majorante do emprego de arma de fogo, de modo que a pena atinge o patamar de 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão  .. .
+No caso em apreço, assiste razão à defesa, pois é inexistente a necessária justificação concreta a fim de recrudescer a sanção, cumulando-se as duas majorantes.
+Por oportuno, a jurisprudência desta Corte entende que:
+ ..  é possível a aplicação das majorantes de forma cumulada na terceira etapa do cálculo da reprimenda. O art. 68, parágrafo único, do Código Penal não obriga que o magistrado aplique apenas uma causa de aumento quando estiver diante de concurso de majorantes" (AgRg no HC n. 615.932/SP, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 27/10/2020).3. Ademais, de acordo com o enunciado da Súmula n. 443 do STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes  ..  (AgRg no HC n. 806.159/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 18/4/2024).
+Nos termos da Súmula n. 443 desta Corte, a fração da causa de aumento do crime de roubo, na terceira etapa, obriga o julgador a fundamentar concretamente a razão para elevar a pena, pois é insuficiente a simples menção à quantidade de majorantes, como é a hipótese dos autos.
+A pena inicial foi fixada no mínimo legal de 4 anos de reclusão. Na fase intermediária, conservou-se esse patamar, pois ausentes agravantes ou atenuantes. E, na derradeira etapa da individualização da pena, faço incidir, tão somente, o aumento à razão de 2/3, pois é a causa de aumento mais grave (emprego de arma de fogo) e estabilizo a sanção em 6 anos e 8 meses de reclusão.
+Nessa perspectiva, é a compreensão do Subprocurador-Geral da República Eliane de Albuquerque Oliveira Recena nos autos (fls. 100-106):
+ ..  Resta caracterizada, portanto, uma ilegalidade no acórdão a quo, devendo ser concedida uma ordem de habeas corpus ex officio para se promover o devido ajuste na terceira fase da dosimetria da pena corporal do ora paciente. Contudo, resta saber qual das frações deve ser afastada, uma vez que o artigo 157 do Código Penal estabelece distinção entre as causas de aumento contidas no § 2º e no § 2º-A. E, quanto a isso, entendemos que, nos termos do contido no parágrafo único do artigo 68 do Código Penal, deve ser aplicada a causa que mais aumenta, afastando-se, por via de consequência, a menor fração aplicada.
+ ..  em atenção ao princípio da proporcionalidade e à jurisprudência dessa Corte Superior, deve ser mantida apenas a fração de aumento de 2/3 (dois terços), relativa ao emprego de arma de fogo, com o subsequente redimensionamento da pena imposta ao paciente  .. .
+III. Dispositivo
+À vista do exposto, não conheço do habeas corpus. Todavia, concedo a ordem de ofício para reduzir a pena para 6 anos e 8 meses de reclusão em virtude de ilegalidade da dosimetria na terceira fase.
+Comunique-se o teor da decisão, com urgência, às instâ ncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
