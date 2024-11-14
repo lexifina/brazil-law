@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela União, contra decisão que determinou a suspensão deste feito até o julgamento da AR 6.436/DF.
+Alega a parte embargante que "a decisão ora embargada determinou a suspensão do feito até o julgamento da AR 6.436/DF, ao invés de aplicar de imediato o entendimento da e. Primeira Seção acerca da matéria. Com a devida licença, ao assim proceder, a r. decisão incorre em omissão ao desconsiderar entendimento reiterado desta c. Corte que vem aplicando de imediato a conclusão firmada na AR 6.436/DF, independentemente do trânsito em julgado. Isso porque, os processos nessa Corte já aguardaram por anos a finalização do julgamento da AR 6.436/DF, não merecendo guarida, portanto, nova suspensão do processo, diante da ausência de previsão legal." (fl. 879)
+As razões do recurso foram impugnadas, às fls. 885/887.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado que "referida celeuma se encontra em franca discussão junto a este Excelso STJ na Ação Rescisória nº 6.436-DF - sob a relatoria do Ministro Francisco Falcão -, cuja pretensão é a desconstituição do título executivo em questão (AgInt no Recurso Especial nº 1.585.353/DF), justamente porque ele traz em seu bojo o reconhecimento do direito do percebimento da GAT como vencimento básico, em atenção a sua verdadeira natureza jurídica, garantindo sua repercussão nos demais consectários vencimentais que o tenham como base. De fato, constata-se, portanto, que há efetiva relação de prejudicialidade entre o recurso pendente de julgamento nos presente autos e a referida ação rescisória proposta pela UNIÃO." (fl. 875)
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
+EMENTA
