@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUCAS SILVA SOUSA contra decisão monocrática que conheceu parcialmente do recurso ordinário em habeas corpus interposto contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS e negou-lhe provimento.
+Nas razões do recurso ordinário a defesa requereu o reconhecimento da nulidade da prisão preventiva do embargante, com a sua consequente revogação.
+Nas razões dos embargos, a defesa alega que houve omissão e obscuridade no julgado, afirmando que a decisão embargada não se manifestou acerca dos seguintes pontos:
+1. O J uízo de primeiro grau teria afirmado que não segue a orientação do Superior Tribunal de Justiça;
+2. A Polícia Militar teria se negado a fornecer imagens da prisão, que a defesa alega ter ocorrido em ação controlada que não teria sido sequer comunicada ao Poder judiciário;
+3. As condições pessoais favoráveis do embargante, que seria primário e de bons antecedentes;
+4. O flagrante teria sido preparado, tornando o crime impossível.
+Requer, ao final, o acolhimento dos aclaratórios, para sanar os supostos vícios apontados, com efeitos infringentes, para que seja provido o recurso ordinário.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+São inadmissíveis, portanto, quando a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada objetivam, em essência, novo julgamento do caso.
+No caso, é inviável o acolhimento da pretensão recursal, porquanto conforme consignado na decisão embargada, a irresignação movida contra os fundamentos da prisão preventiva também é objeto do HC n. 925.389/MG. Constata-se, assim, a inadmissível reiteração, conforme a jurisprudência do Superior Tribunal de Justiça. A discussão acerca da existência de condições pessoais favoráveis do embargante deve ser analisada em conjunto com os fundamentos da prisão, o que não foi tratado na decisão ora embargada.
+No que refere à tese de ilegalidade da prisão em flagrante por ausência de comunicação de ação controlada pela polícia ao juízo competente, bem como de negativa de autoria, o Tribunal de origem, arrimado nas provas documentais que guarneceram os autos do writ lá impetrado, constatou que não houve ação controlada pela Polícia Militar no caso concreto, mas sim o exercício de atividade de rotina, típica daquele órgão de segurança pública, mostrando-se descabida, portanto, a exigência de prévia comunicação à autoridade judicial.
+Não bastasse isso, o reconhecimento da "ausência, ou não, de elementos de autoria e materialidade delitiva acarretaria, inevitavelmente, aprofundado reexame do conjunto fático-probatório, impróprio na via do recurso ordinário em habeas corpus" (AgRg no RHC n. 155.981/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/11/2021, DJe de 25/11/2021.).
+Quanto à alegação de nulidade por violação do direito constitucional ao silêncio, na contramão do que se alegou no recurso em análise, houve o registro formal de que os policiais informaram ao recorrente o seu direito de permanecer em silêncio por ocasião de sua prisão em flagrante.
+Ademais, segundo a jurisprudência desta Corte Superior, "a legislação processual penal não exige que os policiais, no momento da abordagem, cientifiquem o abordado quanto ao seu direit o em permanecer em silêncio (Aviso de Miranda), uma vez que tal prática somente é exigida nos interrogatórios policial e judicial" - AgRg no HC n. 809.283/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Por fim, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Portanto, inexistindo vício a ser sanado, a pretensão do recurso é de rediscussão dos fundamentos da decisão embargada, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
