@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interno interposto por TARSO ANTONIO CHIMINAZZO contra decisão que negou provimento ao recurso ordinário, mantido em sede de embargos de declaração (fls. 429-433).
+Inconformada, a Parte agravante sustenta a subsistência do decisum agravado, porquanto o mérito do recurso "consiste no afastamento da prescrição decretada nas decisões administrativas" (fl. 469).
+Defende que:
+ ..  somente após a análise do pedido de cassação da decisão administrativa é que se poderia averiguar a possibilidade de pagamento de valores através do mandamus. Eventual impossibilidade de fazê-lo através da referida ação constitucional, não afasta a necessidade de julgamento do pedido principal, qual seja a cassação da decisão administrativa pelos fundamentos jurídicos expostos nas razões do writ, em seu item 4 (reproduzida no item 1.2 deste recurso): da inexistência de prescrição da pretensão do impetrante. (fl. 470)
+Pugna, assim, pela reconsideração da decisão agravada ou pela apresentação do recurso para a análise do Órgão Colegiado, a fim de que seja provido o recurso ordinário interposto pela Parte impetrante.
+Intimada, a parte agravada apresentou contrarrazões (fls. 481-486).
+É o relatório.
+Decido.
+Considerando a relevância dos argumentos expostos pela parte agravante, RECONSIDERO as decisões de fls. 429-433 e 453-455 e passo ao reexame do recurso.
+Na origem, mandado de segurança impetrado pelo ora agravante contra decisão do Conselho da Magistratura do Tribunal de Justiça do Estado do Rio Grande do Sul que, nos autos do processo administrativo n. 8.2021.0029/000023-4, negou a remuneração pleiteada pelo impetrante, "enquanto escrivão substituto junto à 8ª Vara Cível do Foro Central de Porto Alegre, no período de 3 de julho de 2006 a 12 de outubro de 2014, quando estatizada, sob o fundamento de que transcorridos mais de cinco anos entre o ato de extinção de sua designação e o pedido administrativo formulado" (fl. 315).
+O Tribunal estadual denegou a segurança, em razão da incidência da Súmula n. 269 do STF (fls. 314-326).
+Nas razões dos embargos, o impetrante alegou a existência de omissão no julgado, nos seguintes termos, no que interessa (fls. 395-400):
+ ..
+A fundamentação jurídica do mandado de segurança possui apenas um capítulo no tocante ao mérito, qual seja o item 4 da petição inicial: 4. DA INEXISTÊNCIA DE PRESCRIÇÃO DA PRETENSÃO DA IMPETRANTE.
+Ou seja, o mérito do mandamus trata exclusivamente da prescrição decretada pela Autoridade Coatora.
+ ..
+Ao examinar os declaratórios, assim decidiu a Corte a quo, in verbis (fls. 404-405):
+A interpretação do julgado é ônus da parte, desnecessário que o julgador explicite exaustivamente e explique minuciosamente o conteúdo e alcance do decidido.
+No caso dos autos, a decisão foi clara ao referir que:
+ ..  da análise dos pedidos formulados na inicial, constata-se que o autor requer, na verdade, a destinação de todos os valores pagos a partir da estatização da 8ª Vara Cível do Foro Central de Porto Alegre, referentes às custas judiciais de escrivão condizentes aos atos praticados nos processos em que atuou, seja nos processos em que as custas foram pagas ao Estado, seja nos processos que estão pendentes de pagamento e/ou que ainda não foram lançadas as custas.
+Assim, tem-se que a apreciação da matéria trazida à baila na presente ação não pode ser adequadamente verificada e analisada dentro da estreita via do mandamus, pois necessária dilação probatória tanto que o próprio autor discorre a respeito da necessidade que se realize uma triagem no relatório fornecido por esta Corregedoria-Geral, de modo a separar os processos..
+ ..
+Ou seja, inequívoco que o fim almejado com a impetração do writ é a cobrança de valores, o que demonstra a inadequação da via eleita.
+ ..
+Não se desconhece que este Colegiado já admitiu, em situações semelhantes, mandados de segurança buscando o repasse de custas judiciais para escrivães aposentados (MS nº 70059241364 e 70057618993).
+Contudo, em ambos casos, a Primeira Turma do Superior Tribunal de Justiça reconheceu se tratarem de substitutivos de ação de cobrança, RMS 51.660 e 49.845, respectivamente, ambos de relatoria do Ministro Gurgel de Faria
+ ..
+Nos termos do art. 1.022 do CPC vigente, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material", vícios existentes no aresto ora embargado.
+Com efeito, da análise dos pedidos e decisões formulados no presente feito, verifica-se que o acórdão recorrido deixou de se manifestar acerca da ocorrência ou não da prescrição administrativa.
+De fato, a questão foi bem delineada no voto divergente vencido, o qual transcrevo, in verbis (fls. 322-323):
+Neste caso concreto, verifico que a decisão administrativa combatida sequer examinou o mérito da postulação relativa a repasse de custas recolhidas após a estatização de serventia judicial (em que o Impetrante trabalhou como substituto designado), porquanto reconheceu a prescrição quinquenal da pretensão (a estatização ocorreu em 13/10/2014) e o pedido administrativo do Impetrante somente aportou em 14/10/2019.
+Nestes contornos, e de forma sensivelmente diversa daquela observada em precedentes similares analisados por este Colendo Grupo, também versando sobre repasses de custas a serventuários judiciais após aposentadoria ou após a estatização da respectiva serventia, aqui a legalidade da decisão administrativa pode ser aferida sem que haja necessidade de dilação probatória ou inadequação processual, porquanto nem mesmo a Administração cogitou de apreciar o mérito do pedido de repasses.
+Assim, o que deve ser apreciado é, tão-somente, se a prescrição da pretensão do servidor inativo operou-se ou não cinco anos após a estatização da serventia, ainda que as custas supostamente de sua titularidade sejam aquelas recolhidas depois da estatização e, pois, menos de cinco anos da data em que protocolou seu pedido administrativo, como sustenta o Impetrante.
+Como a Administração reconheceu a existência de tal questão prejudicial, nem mesmo verificou se haveria direito subjetivo a repasses, de modo que entendo que eventual cobrança nem mesmo integra o pedido judicial aqui formulado (ainda que a formulação da exordial não seja a mais clara): afastada judicialmente a prescrição declarada pela Administração, tudo o mais voltaria para exame administrativo, o que então revela a aptidão da via processual do mandado de segurança - já que sobre o direito subjetivo aos repasses não houve análise administrativa.
+Com tais fundamentos, pois, com a devida vênia à respeitável compreensão diversa, estou afastando a prefacial acolhida no voto do eminente Relator, votando para que seja apreciado o mérito do writ (resumido à questão da ocorrência ou não da prescrição acolhida na cena administrativa).
+É o voto.
+Assim, constata-se ofensa ao art. 1.022 do CPC, porquanto não efetuada integralmente a prestação jurisdicional, visto que a Corte estadual, por maioria, incorreu em omissão ao deixar de examinar questão essencial para o deslinde da controvérsia, acerca da inocorrência da prescrisão administrativa da matéria, o que, em tese, poderá levá-la a conclusão diversa.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. QUESTÃO RELEVANTE. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC. CONFIGURAÇÃO.
+1. Há violação ao art. 1.022 do CPC quando, a despeito dos embargos de declaração, o Tribunal de origem remanesce omisso acerca das alegações veiculadas a respeito do direito ao arbitramento da verba honorária de sucumbência, tanto sobre o pedido correspondente à condenação por dano moral quanto sobre o pedido correspondente ao benefício econômico relativamente à reversão das medidas de indisponibilidade, tendo em vista a existência de pedidos cumulativos, a qual teria o condão de influenciar no juízo acerca da extensão da base de cálculo dos honorários no caso dos autos.
+2. Agravo interno não provido. (AgInt no AgInt no AREsp n. 2.048.699/RS,
+relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ADESÃO A PARCELAMENTO. DESISTÊNCIA DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO, NO ACÓRDÃO RECORRIDO, SOBRE QUESTÃO FÁTICA RELEVANTE À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE ALEGADA PELO ORA RECORRENTE, NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. AGRAVO CONHECIDO, PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+VI. Constata-se a omissão quando o Tribunal deixa de apreciar questões relevantes para a solução da controvérsia, suscitadas pelas partes ou examináveis de ofício, ou quando deixa de se pronunciar acerca de algum tópico importante da matéria submetida à sua cognição, em causa de sua competência originária ou obrigatoriamente sujeita ao duplo grau de jurisdição.
+VII. Nesse contexto, não tendo sido apreciadas, no acórdão dos Embargos Declaratórios opostos, em 2º Grau, pela ora recorrente, as alegações por ela expendidas sobre matéria fática relevante à solução da controvérsia, merece ser provido o recurso, reconhecendo-se a ofensa ao art. 1.022 do CPC/2015, com a anulação do acórdão recorrido, determinando-se o retorno dos autos ao Tribunal de origem, para que profira nova decisão, com a
+análise das alegações da contribuinte.
+ ..
+IX. Agravo conhecido, para dar provimento ao Recurso Especial e anular o acórdão proferido no julgamento dos Embargos de Declaração opostos pela ora recorrente, devolvendo-se os autos ao Tribunal de origem, a fim de que seja proferido novo julgamento, suprindo a omissão apontada. (AREsp n. 1.715.965/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 20/10/2020, DJe de 28/10/2020.)
+Por fim, ainda que haja pedido subsequente de pagamento dos valores que entende devidos ao impetrante, o que é incabível em sede de mandado de segurança (Súmula n. 269 do STF), se acolhida a tese de inocorrência da prescrição administrativa, caberá ao Conselho da Magistratura do Tribunal de Justiça do Estado do Rio Grande do Sul a manifestação sobre o referido pleito.
+Nesse contexto, reconhecida a violação dos art. 1.022 do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração (fls. 403-406), ficando prejudicada a análise dos demais tópicos do recurso.
+Ante o exposto, DOU PROVIMENTO ao recurso ordinário em mandado de segurança para, assentando a nulidade do acórdão recorrido por violação do art. 1.022 do CPC, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO APLICANDO A SÚMULA N. 568 DO STJ. RECONSIDERAÇÃO. SERVIDOR PÚBLICO. ESCRIVÃO. ALEGADA INOCORRÊNCIA DA PRESCRIÇÃO ADMINISTRATIVA. TEMA NÃO ENFRENTADO PELO TRIBUNAL. ART. 1.022 DO CPC. OMISSÃO CARACTERIZADA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO, COM RETORNO DOS AUTOS À ORIGEM PARA REJULGAMENTO. RECURSO EM MANDADO DE SEGURANÇA PROVIDO .
