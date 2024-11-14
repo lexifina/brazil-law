@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em benefício de GUILHERME DE PAULA CASSEMIRO - condenado como incurso no crime de tráfico de drogas privilegiado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500032-57.2021.8.26.0498), comporta parcial acolhimento.
+Com efeito, busca a impetração o reconhecimento da ilicitude das provas, sustentando a ausência de justa causa para a violação de domicílio. Aponta a possibilidade de incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima, bem como a fixação de regime inicial de cumprimento de pena mais brando e a substituição da pena privativa de liberdade por restritiva de direitos.
+Ocorre que a questão atinente à suscitada nulidade nem sequer foi debatida pela Corte estadual, de forma que a revisão por este Superior Tribunal configuraria indevida supressão de instância.
+Contudo, o acórdão a quo deve ser reformado acerca da incidência da minorante do tráfico privilegiado, pois adotou fração menor (1/3) apenas levando em conta a quantidade, diversidade e natureza das drogas (fl. 112), o que destoa da jurisprudência do STJ.
+De acordo com a orientação fixada pela Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.887.511/SP, a quantidade e a natureza das drogas apreendidas não são circunstâncias que permitem aferir, por si sós, o grau de envolvimento do Acusado com a criminalidade organizada ou de sua dedicação às atividades delituosas. Assim, inexistentes outras características idôneas da conduta deletéria aptas a amparar conclusão nesse sentido, não há falar em afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006 ou modular a fração dessa aquém do máximo legal com base somente na quantidade, natureza ou diversidade dos entorpecentes apreendidos (AgRg no AREsp n. 1.963.517/RS, Ministra Laurita Vaz, Sexta Turma, julgado em 26/10/2021, DJe 4/11/2021).
+Redimensionando-se a pena, temos: mantida a fixação da pena-base no mínimo legal, ante a ausência de circunstâncias agravantes e atenuantes na segunda fase, e, incidindo a fração de 2/3 prevista no art. 33, § 4º, da Lei n. 11.343/2006, chega-se a uma reprimenda definitiva de 1 ano e 8 meses de reclusão, e o pagamento de 166 dias-multa.
+Fixada a pena-base no mínimo legal e verificada a primariedade, cabível o regime inicial aberto de expiação.
+Não verifico ser a substituição da privativa de liberdade por restritiva de direitos socialmente recomendável, em razão da quantidade e diversidade da droga apreendida (82 porções de maconha e 12 porções de cocaína ).
+Em face do exposto, concedo parcialmente a ordem impetrada para reconhecer a incidência da minorante do tráfico privilegiado em sua fração máxima (2/3), resultando a reprimenda definitiva em 1 ano e 8 meses de reclusão, e o pagamento de 166 dias-multa, no regime inicial aberto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. NULIDADE. INVASÃO DE DOMICÍLIO. DEBATE DA QUESTÃO PELA CORTE ESTADUAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. APLICAÇÃO DE FRAÇÃO INTERMEDIÁRIA SEM JUSTIFICATIVA. REDIMENSIONAMENTO QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem parcialmente concedida nos termos do dispositivo.
