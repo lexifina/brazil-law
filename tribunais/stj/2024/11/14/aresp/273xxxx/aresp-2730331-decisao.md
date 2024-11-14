@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto pela HAPVIDA ASSISTENCIA MEDICA S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CUSTEIO DE PROCEDIMENTO CIRÚRGICO EM HOSPITAL NÃO CREDENCIADO. AUSÊNCIA DE PRESTADOR INTEGRANTE DA REDE ASSISTENCIAL. APELO DESPROVIDO.
+Em caso de inexistência de prestador apto a oferecer o serviço integrante da rede assistencial no Município pertencente à área de abrangência do consumidor, caberá à operadora do plano de saúde garantir o atendimento através de prestador não integrante da rede assistencial no mesmo município ou em municípios limítrofes, nos termos do art. 4º da citada Resolução Normativa 566/2022 da ANS.
+In casu, o plano de saúde apelante não possuía hospital e médico especialista credenciado na cidade de São Luís para a realização de procedimento cirúrgico de angioplastia intracraniana e embolização de aneurisma prescrito à autora/apelada, sendo devido o custeio do tratamento.
+O STJ tem entendido que nos casos de indisponibilidade do tratamento pleiteado na rede credenciada, "não há como se falar em aplicação da tabela da operadora do plano de saúde para atendimentos semelhantes, devendo o reembolso ser realizado de forma integral" (AgInt no AgInt nos E Dcl no AR Esp 1.704.048/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/8/2021, D Je 1º/9/2021).
+No que tange aos danos extrapatrimoniais, restou comprovado o inadimplemento contratual da operadora do plano de saúde, ao não disponibilizar prestador no município da parte autora ou nos municípios limítrofes, nos termos da Resolução Normativa 566/2022 da Agência Nacional de Saúde Suplementar.
+Indenização fixada em montante razoável e proporcional à reparação da lesão sofrida, pelo que não deve ser reduzida.
+Apelo desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 692/706).
+No recurso especial, a recorrente sustenta afronta ao art. 12, VI, da Lei nº 9.656/1998, ante a inexistência de razões a justificar o atendimento por profissional descredenciado.
+Pleiteia, ainda, que, na eventualidade de manutenção da obrigatoriedade de custeio, seja o reembolso limitado à tabela de preços praticada pela operadora de plano de saúde.
+Sem contrarrazões (e-STJ fl. 814).
+O recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Alega a agravante que, "através de todos os documentos anexados aos autos comprova que sempre autorizou e forneceu todo atendimento especializado a paciente, possuindo médicos especialistas em sua rede credenciada e estrutura para realizar o procedimento, portanto, não há que se falar em condenação para custear tratamento em rede não credenciada" (e-STJ fl. 715).
+Na espécie, o Tribunal de origem, ao analisar as circunstâncias fático-probatórias, consignou a inexistência de profissionais habilitados na rede credenciada em São Luís-MA.
+Por oportuno, transcreve-se trecho da fundamentação adotada:
+"In casu, é incontroverso o fato de que o plano apelante não possuía hospital e médicos especialistas credenciados para a realização dos procedimentos cirúrgicos de angioplastia intracraniana e embolização de aneurisma cerebral no município de São Luís e, por este motivo, disponibilizou o tratamento na cidade de Fortaleza-CE, local onde possui hospital e médico conveniado com a especialidade exigida.
+Todavia, referidos prestadores já foram disponibilizados à autora/apelada anteriormente, em 2018, quando diagnosticada com aneurisma, oportunidade em que se deslocou para a cidade de Fortaleza-CE, a fim de realizar o tratamento necessário, mas não obteve êxito, conforme laudo médico de Id. 8493380, o qual consta a seguinte conclusão:
+ ..
+Nesse contexto, verifica-se que o primeiro procedimento realizado pelo prestador credenciado junto ao plano de saúde apelante e localizado em Fortaleza-CE não foi satisfatório, devendo ser refeito.
+Portanto, é mais que justificada a necessidade da correção do procedimento na área de abrangência da autora, ou seja, em São Luís, mesmo que não exista prestador conveniado, sobretudo em razão da existência de previsão normativa sobre a possibilidade de custeio de prestador não integrante da rede assistencial no mesmo município (Art. 4º, I, da Resolução Normativa 566/2022 da Agência Nacional de Saúde Suplementar), não se tratando de mera liberalidade da consumidora" (e-STJ fls. 653/654).
+Com efeito, o acolhimento das alegações recursais para concluir pela existência de profissional habilitado na rede credenciada demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Cumpre ressaltar que as conclusões adotadas pelo Tribunal estadual estão em consonância com a orientação jurisprudencial do Superior Tribunal de Justiça firmada no sentido de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento, e, nessas circunstâncias, poderá ser limitado aos preços e às tabelas efetivamente contratados com o plano de saúde" (AgInt no AREsp 2.541.292/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+Noutro giro, no tocante ao montante a ser pago a título do reembolso, não se desconhece o entendimento do Superior Tribunal de Justiça no sentido de que esse "deve ser limitado aos preços e tabelas efetivamente contratados com a operadora de saúde" (AgInt nos EDcl no REsp 2.086.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024).
+Todavia, no caso concreto, o Tribunal estadual assentou que, "embora a Lei nº 9.656/98 possibilite a limitação dos valores custeados àqueles constantes da tabela de preços e serviços praticados pelo plano recorrente, não se constata no contrato firmado pelas partes (Id. 8493411) qualquer cláusula limitativa de reembolso ou custeio" (e-STJ fl. 655).
+Assim, a modificação do julgado, para determinar a limitação do reembolso à relação de preços praticados pelo plano de saúde, em detrimento do custeio integral de tratamento com profissional não credenciado, reclamaria a interpretação de cláusulas contratuais, providência obstaculizada pela Súmula 5/STJ.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. SITUAÇÃO DE EMERGÊNCIA E URGÊNCIA CONFIGURADA PELO TRIBUNAL DE ORIGEM. REEMBOLSO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior, à luz do disposto no art. 12, VI, da Lei n. 9.656/1998, assevera que o reembolso de despesas médico-hospitalares realizadas pelo beneficiário do plano de saúde, com internação em estabelecimento não conveniado, em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada), deve ser limitado aos preços e tabelas efetivamente contratados com a operadora de saúde.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e a análise das cláusulas contratuais pactuadas entre as partes, providências vedadas em recurso especial, conforme o óbice previsto nos enunciados sumulares n. 5 e 7 deste Tribunal Superior.
+3. Agravo interno desprovido"
+(AgInt no REsp 2.136.938/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
