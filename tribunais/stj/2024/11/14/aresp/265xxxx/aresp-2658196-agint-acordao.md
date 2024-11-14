@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REGULARIDADE DA NOTIFICAÇÃO DE CANCELAMENTO POR INADIMPLÊNCIA E VALOR DO DANO MORAL FIXADO. REVER A CONCLUSÃO A QUE CHEGOU A CORTE LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+A modificação do entendimento lançado no acórdão recorrido quanto a alegação de que a notificação de cancelamento foi feita em tempo hábil e dentro dos parâmetros legais e quanto ao valor do quantum indenizatório, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por HAPVIDA ASSISTENCIA MEDICA S.A. contra decisão monocrática de minha relatoria que conheceu do agravo para negar provimento ao recurso especial em razão da incidência da Súmula n. 7/STJ (fls. 365/368).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fl. 267):
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. PLANO DE SAÚDE. CANCELAMENTO UNILATERAL. PRÉVIA NOTIFICAÇÃO PESSOAL DO CONSUMIDOR. AUSÊNCIA. ABUSIVIDADE. DANOS MORAIS CONFIGURADOS. VALOR ARBITRADO. RAZOABILIDADE. MANUTENÇÃO DA DECISÃO RECORRIDA. RECURSO CONHECIDO E NÃO PROVIDO. 1. A controvérsia recursal consiste na revisão da decisão monocrática proferida por esta Relatoria, na qual neguei provimento à Apelação Cível interposta pelo plano de saúde, a fim de manter a condenação da agravante no restabelecimento, em definitivo, do plano de saúde cujo ora agravado é beneficiário e no seu ressarcimento por danos morais, fixados em R$ 5.000,00 (cinco mil reais). 2. Apesar do plano de saúde aduzir conformidade com as disposições legais, restou-se comprovado que a notificação pessoal do agravado acerca da inadimplência não se deu no prazo fixado contratualmente, visto que o contratante deveria ter sido notificado até o dia 11/03/2022, o que ocorreu comprovadamente apenas em 23/03/2022. Abusividade configurada. 3. O valor indenizatório de R$ 5.000,00 (cinco mil reais) ratificado na decisão recorrida se revela proporcional e suficiente a reparar o dano moral sofrido pelo agravado, tendo em vista que foi fixado de forma razoável para reparar os danos decorrentes do cancelamento indevido do contrato do plano de saúde. 4. Recurso conhecido e não provido.
+Sem embargos de declaração.
+Alega a agravante que "o que quer no recurso não é a reapreciação de fatos e provas, mas declaração de que a conduta da Operadora teve lastro legal evidente e não pode ser tida como indevida ou ilícita, muito menos quando isso representar o cumprimento de uma obrigação de fazer ilegal" (fl. 374).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 422/424).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REGULARIDADE DA NOTIFICAÇÃO DE CANCELAMENTO POR INADIMPLÊNCIA E VALOR DO DANO MORAL FIXADO. REVER A CONCLUSÃO A QUE CHEGOU A CORTE LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+A modificação do entendimento lançado no acórdão recorrido quanto a alegação de que a notificação de cancelamento foi feita em tempo hábil e dentro dos parâmetros legais e quanto ao valor do quantum indenizatório, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de pedido de indenização por danos morais diante do cancelamento unilateral indevido do plano de saúde por parte da operadora.
+O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao analisar a apelação, entendeu que não ficou caracterizada a regularidade da notificação da parte agravada, conforme os requisitos exigidos pela Súmula Normativa n. 28 da ANS e pela Lei n. 9656/98, e que "No caso concreto, o agravado recebeu notificação sobre a mensalidade em atraso na data de 23/03/2022 (fl. 09 do recurso principal). Contudo, deveria ter recebido até o dia 11/03/2022, visto ser necessário que o consumidor seja notificado até o quinquagésimo dia da inadimplência" (fl. 270).
+Assim, a modificação de tal entendimento lançado no acórdão recorrido para entender, como quer a parte recorrente, que a notificação de cancelamento foi feita em tempo hábil e dentro dos parâmetros legais, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em recurso especial, a teor do que dispõe a Súmula n. 7 deste Pretório.
+Mesmo raciocínio aplicado quanto ao pedido de revaloração do quantum indenizatório, pois a Corte local concluiu que "O valor indenizatório de R$ 5.000,00 (cinco mil reais) ratificado na decisão monocrática, se revela proporcional e suficiente a reparar o dano moral sofrido pelo autor, tendo em vista que foi fixado de forma razoável para reparar os danos decorrentes do cancelamento indevido do contrato do plano de saúde, além de se encontrar em consonância com a jurisprudência". Portanto, rever a conclusão a que chegou o TJCE demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula n.7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
