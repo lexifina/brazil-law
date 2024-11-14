@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEAN DOS SANTOS MOTA contra o acórdão de TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido nos autos do HC n. 2262839-09.2024.8.26.0000.
+Consta dos autos que, em 28/8/2024, o paciente foi preso em flagrante pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006. Ao que se tem dos autos, foram apreendidos 98,21 g de cocaína, 3,61 g de crack e 18,46 g de maconha, balança de precisão e colher, ambas com resquícios de cocaína e maconha, eppendorfs vazios, R$ 17.734,00 (dezessete mil, setecentos e trinta e quatro reais) em espécie (fls. 49/50).
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 12/21).
+Neste writ, o impetrante sustenta desvio de finalidade no cumprimento de mandado de prisão, no qual foi utilizado exclusivamente como pretexto para pesca probatória no domicílio do paciente (fl. 7).
+Destaca que o mandado de prisão para cumprimento de pena definitiva em regime aberto foi expedido de forma equivocada (fl. 6).
+Requer, inclusive liminarmente, a declaração de nulidade das provas da materialidade delitiva do crime de tráfico de drogas e, assim, o trancamento da ação penal.
+É o relatório.
+O Tribunal de origem afastou a alegação de nulidade nos seguintes termos (fls. 15/17 - grifo nosso):
+ ..  no caso dos autos vê-se que na tarde de 26 de agosto de 2024 agentes policiais em cumprimento de mandado prisional dirigiram-se à residência do paciente (Jean), e diante de alegada ausência, ingressaram, mediante permissão da moradora, no interior do imóvel. Ocorre que constatando de imediato a existência de 221 (duzentos e vinte um) "eppendorffs" vazios, procederam os agentes da lei, diante de fundadas razões, à busca no local, encontrando considerável quantidade de porções de "maconha", cocaína e "crack", balança, embalagens plásticas para acondicionamento de entorpecente, telefone celular, petrechos e R$ 17.734,00 em dinheiro, comparecendo em seguida o paciente no local confessando a propriedade das drogas e dos petrechos, bem como da quantia em dinheiro, assim efetuada a prisão em flagrante.
+ ..
+Em verdade, consta que ao ingressar legitimamente na residência os policiais tiveram a atenção despertada por uma sacola no chão contendo centenas de tubos "eppendorfs" vazios, comumente utilizados na comercialização de cocaína.
+ ..
+Cuidou-se, assim, de encontro fortuito de objetos relacionados à prática da traficância que sedimentou suspeição sobre a possível existência de material ilícito no local, e, por conseguinte, de ocorrência de crime permanente, de sorte que viabilizada a efetivação de buscas independente de mandado judicial específico ou de autorização do morador.
+Com efeito,  n os termos do disposto no art. 293 do CPP, o mandado de prisão expedido por autoridade competente é suficiente para autorizar o ingresso dos policiais no domicílio  do paciente , durante o dia, independentemente de permissão específica para a entrada na residência ou do consentimento do morador (HC n. 559.652/MA, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/6/2020).
+Ademais, o fenômeno jurídico da serendipidade, circunstância em que o cumprimento de uma medida judicial produz, fortuitamente, a localização de indícios do cometimento de outro crime, é admitido na jurisprudência pátria (ver, nesse sentido, o AgRg no HC n. 876.898/SC, Ministro Ribeiro Dantas, DJe 20/3/2024).
+No caso em exame, a partir da análise do contexto fático delineado no acórdão impugnado, verifica-se que, embora a medida invasiva tenha sido autorizada judicialmente no curso de processo relativo a delito diverso - em que a busca e apreensão visava ao cumprimento de mandado prisional -, os agentes de polícia encontraram fortuitamente eppendorfs vazios (indícios da prática do delito de tráfico de drogas), com desdobramento das diligências diante do estado de flagrância. Nesse contexto, não há falar em desvio de finalidade no cumprimento do mandado judicial, mas, sim, em descoberta eventual de provas, não se verificando irregularidade na referida medida.
+A propósito, mutatis mutandis: AgRg no HC n. 909.611/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/8/2024; e AgRg no HC n. 832.882/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 27/6/2024.
+Em conclusão, sobre a eventual expedição "equivocada" do mandado de prisão, verifico que o Tribunal local nem sequer examinou tal questão, o que impede a manifestação desta Corte, sob pena de indevida supressão de instância. Ilustrativamente: HC n. 792.041/MS, Ministra Daniela Teixeira, Quinta Turma, DJe 11/11/2024.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA DOMICILIAR. CUMPRIMENTO DE MANDADO DE PRISÃO. ENCONTRO FORTUITO DE PROVAS. SERENDIPIDADE. PRECEDENTES.
+Petição inicial indeferida liminarmente.
