@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS SOBRE O EXCESSO. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp 1.711.262/SE, rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp 1.679.006/SP, rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado do Maranhão desafiando decisão que não conheceu do recurso especial, ante a incidência da Súmula 283/STF (fls. 120/122).
+O agravante defende a inaplicabilidade da referida súmula, sob o argumento de que "refutou o referido argumento em todos os seus petitórios, bem como realizou o devido cotejo entre os dispositivos violados e o acórdão recorrido. Neste passo, fora suscitado expressamente que a coisa julgada observará a cláusula rebus sic stantibus, de maneira que permanecerá intacta apenas se os fatos que levaram a prolação da sentença também permanecerem no mesmo estado de coisas. Contudo, com a edição da Lei nº 8.186/04 e, posteriormente, com a tese fixada no IAC nº 18.193/2018, as diretrizes foram devidamente alteradas, de modo que a decisão homologada deixou de ter aplicabilidade" (fl. 128).
+A parte agravada apresentou impugnação às fls. 137/147.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS SOBRE O EXCESSO. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp 1.711.262/SE, rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp 1.679.006/SP, rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Consoante anteriormente mencionado, no presente caso, o recurso especial não impugnou alicerce basilar que ampara o acórdão recorrido, qual seja, o de que "a agravada demonstrou que os cálculos anexados à inicial da Ação de Cumprimento nº 0012829-69.2014.8.10.0001, que foi ajuizada em 26/03/2014, tiveram por base elementos extraídos dos autos da Ação Coletiva nº 14.440/2000, na qual foi prolatada a sentença que norteia o pedido de cumprimento, dentre os quais destacou um acordo extrajudicial que ali teria sido homologado por decisão judicial, e que lhe convencia, à época, de que o termo final da cobrança das diferenças remuneratórias de que trata a aludida ação coletiva seria dezembro de 2012  ..  Logo, não há que se falar em excesso de execução, quer por erro, quer por má-fé da parte exequente, já que a definição do período correto da cobrança deu-se por força de decisão judicial superveniente do Tribunal de Justiça, com força vinculante, interpretando todos os fatos que permearam aquele processo coletivo" (fl. 26, grifo nosso), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp 1.711.262/SE, rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021;AgInt no AREsp 1.679.006/SP, rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS SOBRE O EXCESSO. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp n. 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp n. 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.151.280/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Deve, portanto, ser mantida a decisão agravada por seus próprios fundamentos.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
