@@ -1,0 +1,21 @@
+DECISÃO
+EMENTA
+CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RELAÇÃO JURÍDICA ENTRE O PODER PÚBLICO E SERVIDOR REGIDA PELA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. COMPETÊNCIA DO JUÍZO TRABALHISTA.
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DA 6ª VARA DO TRABALHO DE VITÓRIA/ES e o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, nos autos de Ação Civil Pública ajuizada, também, contra CARLOS MAGNO RODRIGUES VIEIRA, em que não foi possível a conciliação.
+O Juízo estadual, suscitado, deu provimento aos embargos opostos por Carlos Magno Rodrigues Vieira, no intuito de anular o acórdão e determinar a remessa do processo para a Justiça do Trabalho, em atenção ao disposto no art. 114, inciso I, da CF/88. O interessado foi contratado em janeiro de 1986, pelo Município de Vila Velha, sob o regime celetista.
+Suscitou-se o conflito por entender-se que a competência para tratar das questões relacionadas ao acordo firmado é da Justiça comum, devendo os autos permanecer sob sua competência.
+O Ministério Público Federal emitiu o parecer de fls. 36-41, no sentido de declarar a competência do Juízo da 6ª Vara do Trabalho de Vitória/ES, o qual foi sintetizado na seguinte ementa (fl. 36):
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA DO TRABALHO. AÇÃO CIVIL PÚBLICA. EXONERAÇÃO SERVIDOR DE VÍNCULO CELETISTA. CONTRATADO ANTES DA VIGÊNCIA DA CF/88. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. Pelo conhecimento e improcedência do conflito, declarando-se a competência do Juízo da 6ª Vara do Trabalho de Vitória-ES, ora suscitante.
+É o relatório. Decido.
+Destaque-se que a Suprema Corte já decidiu que, "ao examinar a Medida Cautelar na Ação Direta de Inconstitucionalidade 3.395, não excluiu da Justiça Trabalhista a competência para apreciar relação jurídica entre o Poder Público e servidor regida pela Consolidação das Leis do Trabalho". (AgR Rcl 8.406, relator Ministro Marco Aurélio, Primeira Turma, DJe de 29/5/2014).
+Assim, se o vínculo estabelecido entre o Poder Público e o servidor fosse estatutário, a competência para análise das controvérsias trabalhistas seria da Justiça Comum Estadual ou Federal, conforme o caso, ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberia à Justiça Laboral o julgamento dos litígios daí advindos.
+Recentemente, a Corte Suprema, apreciando o Tema 1.143/STF em repercussão geral, fixou a tese de que "a Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela pecuniária de natureza administrativa". O respectivo acórdão foi proferido no RE 1.288.440/SP, relator Ministro Roberto Barroso, Tribunal Pleno, DJe 28/8/2023.
+Contudo, no caso em exame, é incontroversa a natureza trabalhista dos vínculos entre o reclamante e o município, por terem sido firmados por meio de contratos de trabalho registrados em CTPS. Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO SOB O REGIME CELETISTA. VERBAS TRABALHISTAS RELATIVAS EXCLUSIVAMENTE A PERÍODO LABORADO SOB A VIGÊNCIA DA CLT. INCIDÊNCIA DA SÚM. N. 97/STJ. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA DOTRABALHO AGRAVO INTERNO NÃO PROVIDO
+1. Na inicial, o reclamante afirma que a sua contratação temporária foi realizada, inicialmente, sob a égide da CLT.
+2. Ademais, não se ignora que após a vigência da LM 3.513/2017, o vínculo entre servidores temporários e o poder público passou a ser eminentemente administrativo. Contudo, a juntada da legislação promovida pelo próprio agravante indica o vínculo entre servidores públicos temporários e a administração pública foi celetista
+3. Portanto, com razão a decisão ora impugnada, quando declarou que o vínculo coma Administração, no período abrangido pelo pedido, ostentava caráter contratual, regido, pois, pela CLT, já que referente a verbas trabalhistas decorrentes de contrato de trabalho, o que implica a atribuição de competência ao Juízo Trabalhista.
+4. Agravo interno não provido. (AgInt no CC n. 168.401/RJ, rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe de 17/2/2022.)
+Ante o exposto, CONHEÇO do conflito para declarar competente o JUÍZO DA SEXTA VARA DO TRABALHO DE VITÓRIA/ES.
+Publique-se. Intimem-se.
