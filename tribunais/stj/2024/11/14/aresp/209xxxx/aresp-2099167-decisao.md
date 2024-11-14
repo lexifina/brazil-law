@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual por WADIS VITORIO BENVENUTTI e OUTRO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, se insurgiram contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ de fls. 4.786/4.794, complementado pelo acórdão que rejeitou os embargos de declaração opostos (fls. 4.905/4.911).
+Nas razões de seu recurso especial, a parte agravante alega que o Tribunal de origem violou o art. 1.022, II, do Código de Processo Civil porque, a despeito de provocado por meio de embargos de declaração, não supriu a omissão referente à desproporcionalidade das sanções diante da ausência de enriquecimento ilícito e da efetiva prestação dos serviços reconhecidos pelo juízo criminal e à inexistência do fato que ensejou a condenação por improbidade, questões essas que são importante para a resolução da controvérsia.
+A parte adversa apresentou contrarrazões (fls. 4.946/4.950).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A insurgência merece prosperar quanto à preliminar de negativa de prestação jurisdicional.
+A parte recorrente pretende que seja anulado o acórdão proferido pelo Tribunal de origem em embargos de declaração ao argumento de que remanesce omisso o julgamento da controvérsia.
+Analisando os autos, verifico que a parte recorrente requereu a manifestação do órgão julgador quanto aos seguintes pontos:
+(I) à desproporcionalidade das sanções diante da ausência de enriquecimento ilícito e da efetiva prestação dos serviços reconhecidos pelo juízo criminal;
+(II) à inexistência do fato que ensejou a condenação por improbidade.
+O Tribunal de origem, mesmo após a oposição dos embargos de declaração, deixou de apreciar as alegações de omissão, limitando-se a reafirmar o acórdão que julgou improcedente a ação rescisória sob o argumento de independência das esferas cível e penal, salvo em caso de absolvição por inexistência de fato criminoso ou afastamento da autoria, sem examinar as circunstâncias fáticas apresentadas pelos recorrentes.
+Evidencio que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022 do CPC, enseja a anulação do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. O acórdão embargado incorreu em omissão na extensão da análise da afronta aos arts. 489 e 1.022 do CPC/2015, tendo em vista que os pontos suscitados como omissos nos Embargos de Declaração opostos na origem (fls. 534-537, e-STJ) e, também, no Recurso Especial e no Agravo Interno, são, em tese, relevantes para o julgamento da Apelação.
+2. Não houve tratamento, pelo TJPR, do alegado cerceamento de defesa invocado e, mais do que isso, das particularidades do caso presente que, supostamente, poderiam afastar a compreensão pela aplicação do art. 185 do CTN sob a ótica do quanto decidido no REsp 1.141.990-PR (ocorrência de alienação fiduciária em garantia do bem antes da inscrição do débito na dívida ativa).
+3. Observe-se que a Corte de origem, ao julgar os aclaratórios opostos, manteve-se silente, apresentando decisão genérica em manifesta ofensa ao art. 489, § 1º, III, do CPC/2015 (vide fls. 582/583, e-STJ).
+4. A hipótese, portanto, é de acolhimento, em caráter prejudicial, da tese de violação dos arts. 489 e 1.022 do CPC/2015 suscitada no Recurso Especial de Rodosafe Transportes Eireli - Microempresa, com o retorno dos autos à origem para novo julgamento dos Aclaratórios que aborde as questões acima indicadas. Precedente: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016.
+5. Embargos de Declaração acolhidos, com efeitos infringentes, para se dar parcial provimento ao Recurso Especial de Rodosafe Transportes Eireli - Microempresa. apenas quanto à violação dos arts. 489 e 1.022 do CPC/2015, determinando-se o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração de fls. 534-537, e-STJ. (EDcl no AgInt no REsp n. 1.909.266/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/10/2021, DJe de 4/11/2021.)
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial a fim de anular o acórdão proferido no julgamento dos embargos de declaração; determino a baixa dos autos para que o Tribunal de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+ EMENTA
