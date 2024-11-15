@@ -2,3 +2,5 @@ Art. 10. A educação ambiental será desenvolvida como uma prática educativa i
 § 1º A educação ambiental não deve ser implantada como disciplina específica no currículo de ensino.
 § 2º Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto metodológico da educação ambiental, quando se fizer necessário, é facultada a criação de disciplina específica.
 § 3º Nos cursos de formação e especialização técnico-profissional, em todos os níveis, deve ser incorporado conteúdo que trate da ética ambiental das atividades profissionais a serem desenvolvidas.
+§ 4º Será assegurada a inserção de temas relacionados às mudanças do clima, à proteção da biodiversidade, aos riscos e emergências socioambientais e a outros aspectos referentes à questão ambiental nos projetos institucionais e pedagógicos da educação básica e da educação superior, conforme diretrizes estabelecidas pelo Conselho Nacional de Educação, no uso de suas atribuições legais.
+§ 5º Para fins do disposto no caput deste artigo, as autoridades competentes supervisionarão o teor e a execução dos projetos institucionais e pedagógicos dos estabelecimentos de educação básica e superior.

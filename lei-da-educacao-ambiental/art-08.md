@@ -13,6 +13,7 @@ V - o atendimento da demanda dos diversos segmentos da sociedade no que diz resp
 § 3º As ações de estudos, pesquisas e experimentações voltar-se-ão para:
 I - o desenvolvimento de instrumentos e metodologias, visando à incorporação da dimensão ambiental, de forma interdisciplinar, nos diferentes níveis e modalidades de ensino;
 II - a difusão de conhecimentos, tecnologias e informações sobre a questão ambiental;
+II-A - o desenvolvimento de instrumentos e de metodologias com vistas a assegurar a efetividade das ações educadoras de prevenção, de mitigação e de adaptação relacionadas às mudanças do clima e aos desastres socioambientais, bem como ao estancamento da perda de biodiversidade;
 III - o desenvolvimento de instrumentos e metodologias, visando à participação dos interessados na formulação e execução de pesquisas relacionadas à problemática ambiental;
 IV - a busca de alternativas curriculares e metodológicas de capacitação na área ambiental;
 V - o apoio a iniciativas e experiências locais e regionais, incluindo a produção de material educativo;
