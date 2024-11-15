@@ -7,3 +7,4 @@ IV - a sensibilização da sociedade para a importância das unidades de conserv
 V - a sensibilização ambiental das populações tradicionais ligadas às unidades de conservação;
 VI - a sensibilização ambiental dos agricultores;
 VII - o ecoturismo.
+VIII - a sensibilização da sociedade para a relevância das ações de prevenção, de mitigação e de adaptação relacionadas às mudanças do clima e aos desastres socioambientais, bem como ao estancamento da perda de biodiversidade.
