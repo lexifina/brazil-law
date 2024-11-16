@@ -1,0 +1,65 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 4ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 205, p. 1):
+
+    “AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. DISPONIBILIZAÇÃO DE ESTABELECIMENTO PARA ARMAZENAMENTO DE AGROTÓXICOS. PRODUTOS APREENDIDOS PELA RECEITA FEDERAL. PRINCÍPIO DO POLUIDOR-PAGADOR. INAPLICABILIDADE. AUXÍLIO DO IBAMA. POSSIBILIDADE. 1. Com base nos arts. 3º e 9º da Lei nº 7.802/89 e no art. 1º, XLII, do Decreto nº 4.074/02, sendo a União a Pessoa Jurídica competente para, através de seus órgãos, conceder o registro, bem como controlar e fiscalizar a correta importação dos agrotóxicos, é também responsável e competente para cumprir todas as demais fases dessa fiscalização, inclusive e, diga-se, principalmente, naqueles casos referentes à importação irregular de tais substâncias, s sejam armazenados em local adequado durante o trâmite dos processos, podendo cobrar do infrator o custo por tal atuação. 2. O princípio do poluidor-pagador, previsto no art. 18, parágrafo único da Lei 7.802/89, não encontra fundamento por restarem evidentes os riscos à saúde e ao meio ambiente para toda a coletividade quando do armazenamento inadequado dos agrotóxicos. 3. Não há óbice de que a União posteriormente ao armazenamento adequado dos produtos, uma vez identificado o infrator, busque sua responsabilização pelos custos que teve de arcar, através de ação regressiva, ou mesmo em ação penal, como efeito da condenação. 4. Nos termos do art. 6º da Lei nº 6.938/81, o IBAMA é órgão executor do Sistema Nacional do Meio Ambiente - SISNAMA que, embora não mencionado pela legislação (Lei 7.802 e Decreto 4.074), constitui-se em Pessoa Jurídica de Direito Público com papel relevante dentro da Política Nacional do Meio Ambiente, por atuar como órgão executor e com poder de polícia ambiental.”
+
+    Os primeiros embargos de declaração opostos foram acolhidos apenas para fins de prequestionamento. Já os segundos aclaratórios não foram conhecidos (eDOC 225 e eDOC 244).
+
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 2º, 5º, XXXV, LIV e LV, 225, §3º, da Constituição Federal.
+
+    Nas razões recursais, sustenta-se que (eDOC 254, p. 6):
+
+    “(...) o acórdão recorrido, ao manter a sentença de 1º Grau, determinou que a União, através da Receita Federal do Brasil, proceda o armazenamento temporário e manuseio dos agrotóxicos e defensivos agrícolas apreendidos na esfera administrativa e criminal em toda a região abrangida pela Subseção Judiciária de Bagé/RS, durante a pendência dos processos administrativos e judiciais, até a conclusão do procedimento administrativo e do processo judicial correlatos, que definirão quanto à destinação final.
+
+    (...)
+
+    Com a devida vênia, ao contrário do que entendeu o E. Tribunal no aresto ora recorrido, inexiste responsabilidade da União, através da Receita Federal do Brasil (RFB) pelo armazenamento e manuseio dos agrotóxicos e defensivos agrícolas apreendidos na Subseção Judiciária de Bagé/RS, enquanto aguardam a conclusão do procedimento administrativo e judicial correlatos, devendo ser restabelecida a vigência dos artigos 2º e 225, § 3° da Constituição da República para que julgados improcedentes os pedidos veiculados inicialmente em face da União.
+
+    No caso, não se está a discutir a importância do armazenamento adequado dos agrotóxicos e dos resíduos químicos para a preservação do meio ambiente; porém, não se insere na esfera de responsabilidade da União o armazenamento e a destinação final dos produtos apreendidos, de acordo com normas da Constituição da República, especialmente as que tratam da distribuição de competências em matéria de preservação do meio ambiente e do princípio do poluidor pagador.”
+
+    A Vice-Presidência do TRF da 4ª Região inadmitiu o recurso ante a necessidade de análise de norma infraconstitucional, o que tornaria indireta eventual ofensa (eDOC 281).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Verifica-se que o Tribunal de origem, quando do julgamento das apelações, assim asseverou (eDOC 205, pp. 6-10):
+
+    “Em síntese, a apreensão de produtos agrotóxicos importados ilicitamente é comum e frequente em região de fronteira e, considerando o volume, as autoridades locais vinham encontrando dificuldades para o respectivo armazenamento durante o trâmite de processos administrativos e criminais. Para que o armazenamento dos agrotóxicos seja realizado de forma adequada, visando garantir a qualidade do produto, bem como a prevenção de acidentes, a Fundação Estadual de Proteção Ambiental - FEPAM estabeleceu as condições/critérios para o licenciamento ambiental de depósitos e agrotóxicos com base nas especificações contidas na norma da ABNT/NBR 9843/2004 para o estoque destes produtos (...).
+
+    (...)
+
+    Os agrotóxicos trazem preocupação devido à periculosidade do produto à saúde humana e ao meio ambiente. Dessa forma, as normas acima citadas trazem, entre outras disposições, a orientação de que o local de armazenamento do produto seja construído em alvenaria, tenha boa ventilação e iluminação natural e não seja permitido o acesso de animais e pessoas não autorizadas. Deve ser observado que o piso seja cimentado, o telhado resistente e sem goteiras e as instalações elétricas estejam em bom estado. No local, ainda, devem ter afixadas placas com símbolos de perigo, sob pena de risco às pessoas, aos animais e ao meio, inclusive mediante contaminação pelo ar ou de lençol freático.
+
+    Diante destas especificações, como bem apontou o Juízo a quo, as condições físicas do depósito existente nas dependências da Inspetoria da Receita Federal em Bagé, onde estavam sendo armazenados os agrotóxicos apreendidos em procedimentos criminais e fiscais, se mostram totalmente inadequadas e são incompatíveis para este fim.
+
+    (...)
+
+    Ademais, a pretensão de que seja aplicado o princípio do poluidor pagador com lastro no parágrafo único do art. 18 da Lei nº 7.802/89, que prevê que "os custos referentes a quaisquer dos procedimentos mencionados neste artigo correrão por conta do infrator", ou seja, os custos referentes à inutilização ou outro destino a ser dado a agrotóxicos e afins apreendidos, não encontra fundamento eis que, como a sentença enfatiza, "restam evidentes os inúmeros riscos à saúde e ao meio ambiente que o inadequado armazenamento provisório dos agrotóxicos irregularmente importados gera para toda a coletividade". Assim, como bem indicou o Juízo de Primeiro Grau, "diante de tais riscos iminentes e concretos é dever do Poder Público - no caso, mais especificamente da União - agir de forma imediata, armazenando e depois destruindo de forma adequada os agrotóxicos apreendidos, a fim de bem tutelar o direito à vida, à saúde e ao meio ambiente. Nada obsta que, posteriormente a isso, uma vez identificado o infrator, este seja responsabilizado pelos custos com os quais a União teve que arcar, através de ação regressiva, ou mesmo em ação penal, como efeito da condenação".
+
+     Ou seja, nada obsta que o infrator seja condenado ao ressarcimento dos órgãos públicos pelos procedimentos de armazenamento e destruição/inutilização do produto. O que não se pode autorizar é que, enquanto tramita os processos administrativos ou judiciais, os agrotóxicos fiquem em espaço inadequado ao seu armazenamento, colocando em risco a saúde pública e o meio ambiente. Neste ínterim, portanto, a UNIÃO deve cumprir com sua responsabilidade de guarda do meio ambiente e da população e, após, nenhum óbice existe a que possa buscar seu ressarcimento junto ao infrator.”
+
+    Na espécie, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o exame da legislação infraconstitucional pertinente e do conjunto fático-probatório dos autos. Dessa forma, resta demonstrado a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. Nesse sentido:
+
+    “Agravo regimental em recurso extraordinário. 2. Legitimidade ad causam. Controvérsia infraconstitucional. 3. Direito Administrativo. 4. Responsabilidade civil do Estado. Perigo de dano ambiental. Depósito de agrotóxicos em local inapropriado. Periclitação da saúde pública e do ambiente. 5. Ofensa meramente reflexa ao texto constitucional. Controvérsia decidida com base nas legislações Federal e local. Incidência do Enunciado 280 da Súmula desta Corte. Leis federais 6.938/81 e 7.802/89; Lei estadual 12.493/99. Precedentes. 6. Dever do Estado de prevenção e reparação dos danos causados ao ambiente. Acordão recorrido em conformidade com a jurisprudência do Supremo Tribunal Federal. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental a que se nega provimento. (RE 559622 AgR, rel. min. Gilmar Mendes, Segunda Turma DJe 22-08-2013) (grifei).
+
+     “EMENTA AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. PRELIMINAR. AUSÊNCIA DE DEMONSTRAÇÃO FUNDAMENTADA. OBSERVÂNCIA DO DEVER DE FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. VIOLAÇÃO DO ART. 5º, XXXV, XXXVI E LV, DA CARTA DA REPÚBLICA. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. TEMA N. 660/RG. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. IMPLEMENTAÇÃO DE POLÍTICA PÚBLICA. INTERVENÇÃO DO PODER JUDICIÁRIO. EXCEPCIONALIDADE COMPROVADA. REEXAME DE FATOS E PROVAS. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO. LIMITAÇÃO ORÇAMENTÁRIA. NECESSIDADE DE DEMONSTRAÇÃO DE MOTIVO OBJETIVAMENTE MENSURÁVEL. 1. É inadmissível recurso extraordinário em que não apresentada fundamentação suficientemente apta a demonstrar a repercussão geral das questões constitucionais suscitadas. 2. Uma vez observado o dever de fundamentação das decisões judiciais, inexiste contrariedade ao art. 93, IX, da Carta da República (Tema n. 339/RG). 3. A invocação de ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório não tem repercussão geral, por articular a matéria impugnada, em casos tais, ofensa meramente reflexa à Constituição Federal (Tema n. 660/RG). 4. O Supremo firmou entendimento pela possibilidade de o Judiciário, ante inadimplência e em situações excepcionais, determinar ao poder público o implemento de políticas públicas constitucionalmente previstas. 5. Dissentir da conclusão alcançada na origem demandaria revolvimento de elementos fático-probatórios. Incidência do enunciado n. 279 da Súmula do Supremo. 6. A ótica consolidada no Supremo acerca da limitação orçamentária para o cumprimento da obrigação de fazer é no sentido de que o poder público, ressalvada a ocorrência de motivo objetivamente mensurável, não pode se furtar à observância de seus encargos constitucionais (RE 820.910 AgR, ministro Ricardo Lewandowski). 7. Agravo interno desprovido. (ARE 1452886 AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 24-09-2024).
+
+    De último, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, a qual firmou o entendimento no sentido de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes, uma vez que não se trata de ingerência ilegítima de um Poder na esfera de outro. Confira-se, a propósito, os seguintes acórdãos:
+
+    “Agravo regimental no agravo de instrumento. Constitucional. Ação civil pública. Obrigação de fazer. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Precedentes. 1. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes. 2. Agravo regimental não provido.” (AI 708.667-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 10.4.2012).
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. SANEAMENTO BÁSICO. INTERVENÇÃO EXCEPCIONAL DO PODER JUDICIÁRIO NA IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS: POSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INOCORRÊNCIA.. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.” (ARE 1.389.864-AgR-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 07.11.2022).
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do CPC.
+
+    Sem honorários, por se tratar de ação civil pública (art. 18 da Lei 7.347/1985).
+
+    Publique-se. Intime-se.
+
+    Brasília, 16 de novembro de 2024.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
