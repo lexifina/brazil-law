@@ -1,0 +1,85 @@
+DECISÃO
+Trata-se de agravo interposto por Corina Cristofani de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná.
+Narram os autos que a ora agravante ajuizou a subjacente reclamação em face do acórdão proferido em sede de apelação pela eg. 7ª Câmara Cível do Tribunal de origem, nos autos do Processo n. 0005692-35.2009.8.16.0004, com o escopo de obter a observância da tese objeto do Tema 03/TJPR- NUGEP (IAC n. 1.511.082-0/01 - 0003634-43.2014.8.16.0179) e do Tema 439/STF (RE n. 606.199/PR), com a consequente cassação do v. acórdão reclamado.
+A reclamação não foi conhecida nos termos da ementa que segue (fl. 318):
+RECLAMAÇÃO CÍVEL - AÇÃO ORDINÁRIA - PEDIDO DE REENQUADRAMENTO FUNCIONAL. - PRESCRIÇÃO RECONHECIDA - INSURGÊNCIA - ALEGADA INOBSERVÂNCIA DO TEMA Nº 03 NUGEP (IAC Nº 1.511.082-0/01) - ATO RECLAMADO ANTERIOR À DECISÃO PROFERIDA EM INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA - PRECEDENTES - RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+É incognoscível a Reclamação judicializada com vista a discutir violação da autoridade de paradigma vinculante, quando o ato de que se reclama precede ao julgamento do recurso que ensejou o próprio paradigma firmado.
+No recurso inadmitido, sustenta a parte ora agravante violação ao art. 985, I, do CPC, "o qual autoriza que o julgamento proferido em IAC seja aplicado, não só a casos futuros, mas também aos processos que ainda tramitem na área de jurisdição do respectivo tribunal, sem trânsito em julgado" (fl. 419).
+Nessa linha de ideias, afirma que (fl. 419):
+ ..  se a tese contemplada em um IAC deve ser aplicada a processos que ainda estejam tramitando no Tribunal (e não apenas a casos futuros), isso significa dizer que o IAC julgado por um determinado Tribunal pode também ser aplicado a julgamentos de apelação já ocorridos, desde que os autos ainda estejam na área de jurisdição do Tribunal, sem trânsito em julgado.
+Essa é precisamente a situação dos presentes autos, em que se busca aplicar o entendimento do IAC a um processo de apelação que, embora julgado, ainda estava sob a jurisdição do TJPR.
+Segue afirmando que (fl. 420):
+A jurisdição do TJPR não estava encerrada porque havia recursos ajuizados ao STJ e ao STF após o julgamento da apelação alvo da presente reclamação. E os autos ainda estavam sob a jurisdição do TJPR, que poderia inclusive alterar seu entendimento do caso ou readequá-lo ao proceder ao juízo de admissibilidade dos recursos endereçados à 3ª Instância.
+Não se olvide que a lei não faz restrição à aplicação do julgamento do IAC a casos ainda sob a jurisdição do respectivo Tribunal, tal como ocorre em relação à hipótese em tela, e por isso incide o princípio de hermenêutica segundo o qual "não pode o intérprete restringir onde a lei não restringe ou excepcionar quando a lei não excepciona" (R Esp 663.562/RJ, 2ª Turma, Rel. Min. Castro Meira, DJ de 5/9/2005).
+E, além disso, as restrições do artigo 988, §5º, do CPC, quanto ao manejo da reclamação, limitam-se ao trânsito em julgado da decisão reclamada e ao não esgotamento das instâncias ordinárias, não restringido seu emprego nos processos ainda em andamento perante o respectivo Tribunal.
+E complementa (fl. 421):
+Não se olvide que a jurisprudência do STJ entende viável o conhecimento do mérito da Reclamação ainda que sobrevenha o trânsito em julgado do acórdão reclamado após o ajuizamento da Reclamação, não importando em perda de objeto (vide AgInt na Rcl n. 31.959/PE, Rel. Mini. Jorge Mussi, Corte Especial, D Je de 18/12/2020).
+Outra solução, entendendo-se pela incidência do IAC 003/TJPR apenas a casos futuros, poderia implicar a perda da finalidade do próprio IAC, porquanto permaneceria, nos inúmeros casos ainda sob jurisdição do TJPR, o convívio de entendimentos destoantes e incoadunáveis sobre uma matéria já pacificada internamente, violando princípios constitucionais da proporcionalidade, da razoabilidade e da isonomia.
+Aliado a isso, o IAC constitui inclusive fato novo que autoriza o cabimento da reclamação, pois o processo principal, reitera-se, ainda estava tramitando sob jurisdição do TJPR à vista dos recursos aviados à 3ª Instância.
+O julgamento do IAC 03 pelo TJPR constitui fato novo superveniente capaz de interferir no mérito da causa, cabendo ao Magistrado considerá-lo de ofício ou a requerimento, a teor do art. 493 do CPC, circunstância que também justificaria a readequação do acórdão da apelação, via reclamação. Nesse sentido, o STJ entende que tema de repercussão geral constitui fato novo que enseja a readequação do acórdão de 2º Grau anterior a ele (R Esp 1.919.275/SC, Rel. Min. Manoel Erhardt - Des. Conv., J. 17/2/22). Confira-se (grifou-se):
+ ..
+Já nas razões do agravo aduz que, ao contrário do que consignado pela Corte de origem, o apelo nobre efetivamente impugnou todos os fundamentos contidos no acórdão recorrido, devendo ser afastado o óbice da Súmula 283/STF.
+Contraminutas às fls. 457/461 e 462/466.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Preenchidos os pressupostos de admissibilidade do agravo, passo ao exame do próprio recurso especial.
+O dispositivo de lei federal tido por contrariado, oriundo do Código de Processo Civil, dispõe o seguinte:
+Art. 985. Julgado o incidente, a tese jurídica será aplicada:
+I - a todos os processos individuais ou coletivos que versem sobre idêntica questão de direito e que tramitem na área de jurisdição do respectivo tribunal, inclusive àqueles que tramitem nos juizados especiais do respectivo Estado ou região;
+ ..
+Sucede que esse dispositivo legal encontra-se inserido no Capítulo VIII (Do Incidente de Resolução de Demandas Repetitivas) do Livro III (Dos Processos nos Tribunais e dos Meios de Impugnação das Decisões Judiciais) do Código de Processo Civil, que nada estabelece a respeito do Incidente de Assunção de Competência (IAC).
+Com efeito, a disciplina legal a respeito do IAC encontra-se no Capítulo III (Do Incidente de Assunção de Competência) do referido Livro III, in litteris:
+Art. 947. É admissível a assunção de competência quando o julgamento de recurso, de remessa necessária ou de processo de competência originária envolver relevante questão de direito, com grande repercussão social, sem repetição em múltiplos processos.
+§ 1º Ocorrendo a hipótese de assunção de competência, o relator proporá, de ofício ou a requerimento da parte, do Ministério Público ou da Defensoria Pública, que seja o recurso, a remessa necessária ou o processo de competência originária julgado pelo órgão colegiado que o regimento indicar.
+§ 2º O órgão colegiado julgará o recurso, a remessa necessária ou o processo de competência originária se reconhecer interesse público na assunção de competência.
+§ 3º O acórdão proferido em assunção de competência vinculará todos os juízes e órgãos fracionários, exceto se houver revisão de tese.
+§ 4º Aplica-se o disposto neste artigo quando ocorrer relevante questão de direito a respeito da qual seja conveniente a prevenção ou a composição de divergência entre câmaras ou turmas do tribunal.
+Em relação às teses firmadas em sede de IAC, também aplica-se a regra contida no art. 988, IV, do CPC, in verbis:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+ ..
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+Nessa linha de ideias, conclui-se que o art. 985, I, do CPC não guarda pertinência temática com a questão sub judice - alegado descumprimento, pela autoridade reclamada, da tese objeto do Tema 03/TJPR- NUGEP (IAC n. 1.511.082-0/01 - 0003634-43.2014.8.16.0179). Destarte, incide na espécie a Súmula 284/STF.
+A propósito, os seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA OFENSA AOS ARTS. 489, § 1º, E 1.022, PARÁGRAFO ÚNICO, II, DO CPC. QUESTÃO SUPERADA. AUSÊNCIA DE INTERESSE RECURSAL. AFRONTA AO ART. 949, PARÁGRAFO ÚNICO, DO CPC. NÃO OCORRÊNCIA. MATÉRIA LOCAL E CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE.
+ ..
+5. Eventual discussão a respeito da inaplicabilidade dos fundamentos determinantes extraídos do acórdão da ADI 4.900/BA ao caso concreto vincula-se a um possível error in judicando do Tribunal de origem. Logo, além de não guardar pertinência temática com o art. 949, parágrafo único, do CPC - o que autoriza a aplicação da Súmula 284/STF -, tem-se, ainda, que o deslinde dessa questão esbarra na impossibilidade de se examinar, em recurso especial, matéria legal e constitucional.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.011.732/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/8/2023 - grifo nosso)
+PROCESSUAL CIVIL. HONORÁRIOS RECURSAIS. APELAÇÃO PARCIALMENTE PROVIDA. MAJORAÇÃO. DESCABIMENTO. APELO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Esta Corte Superior firmou a compreensão de que a sucumbência recursal disciplinada pelo art. 85, § 11, do atual CPC somente é devida quando presentes, simultaneamente, as seguintes condições:
+(i) publicação do julgado recorrido a partir de 18/03/2016, data da entrada em vigor do Código de Processo Civil de 2015; (ii) recurso não conhecido integralmente ou desprovido; e (iii) condenação na verba honorária desde a origem no feito em que interposto o recurso.
+2. Caso em que, ainda que fosse possível superar o óbice da Súmula 7 do STJ para redefinir o grau de sucumbência da parte agravada, o provimento parcial da sua apelação pela Corte de origem já afasta a pretendida majoração dos honorários advocatícios.
+3. A falta de pertinência temática ente o decidido pelo Tribunal a quo e as razões recursais denota deficiência de fundamentação a permitir a incidência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.586.750/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 7/10/2021 - grifo nosso)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONCURSO PÚBLICO. LEI DE LICITAÇÕES E CONTRATOS. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. PRECEDENTES DO STJ.
+1. O art. 41 da Lei 8.666/93 não guarda pertinência temática com os fundamentos adotados pelo acórdão recorrido, pois estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios. Desse modo, aplica-se o óbice previsto na Súmula 284/STF.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.529.923/AC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 24/8/2015 - grifo nosso)
+Em obiter dictum, sobreleva pontuar que mesmo se possível fosse admitir a incidência, por analogia, do art. 985, I, do CPC, ainda assim não mereceria prosperar a irresignação da parte recorrente.
+Como se extrai do acórdão recorrido, a subjacente reclamação foi ajuizada passados mais de 4 (quatro) anos do julgamento da demanda principal pelo Tribunal de origem e, inclusive, da interposição de recursos especial e extraordinário. Senão vejamos (fls. 319/322):
+A Reclamante sustenta que o v. acórdão proferido pela c. 7ª Câm. Cível (Apelação Cível nº 5692-35.2009.8.16.0004) diverge da tese que deu origem ao Tema nº 03/ TJPR-NUGEP, decorrente do julgamento do Incidente de Assunção de Competência sob nº 1.511.082-0. Perante o reportado órgão fracionário, culminou reconhecida a prescrição quanto ao pedido de reenquadramento funcional.
+Vale menção, assim dispõe o Tema nº 03/TJPR-NUGEP:
+"As vantagens financeiras reconhecidas com fundamento no direito à paridade aos aposentados e pensionistas do Estado do Paraná pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário nº 606.199/PR, decorrentes de progressão e promoção concedidas com base nos critérios objetivos de tempo de serviço e titulação, constituem relação de trato sucessivo e submetem-se à prescrição das prestações anteriores a 5 (cinco) anos do ajuizamento das respectivas ações, desde que não tenham sido negadas expressamente pela Administração
+Do quanto se extrai, pois, a decisão proferida no referenciado Incidente de Assunção de Competência foi lançada a 14.06.2019 ; contudo, o acórdão reclamado foi julgado na sessão de 7  07.04.2015 (mov. 1.7), ou seja, mais de quatro anos antes do decisum paradigmático.
+Logo, não havia como o Relator julgar em conformidade com o precedente que, à toda evidência, sequer existia.
+Dessarte, malgrado o esforço argumentativo, a presente Reclamação é manifestamente inadmissível, porquanto ao tempo da prolação da decisão em sede de Apelo sequer havia precedente obrigatório qualquer a ser seguido pelo órgão fracionário prolator, e, por inferência lógica, não há qualquer descumprimento de precedente obrigatório firmado por julgamento em Incidente de Assunção de Competência.
+Outrossim, quando o art. 985, inc. I e II do CPC dispõe que a tese jurídica do Incidente de Assunção de Competência será aplicada a todos os processos que versem (incluídos casos futuros) sobre questão idêntica em trâmite na área de jurisdição do respectivo Tribunal, certamente isso não abarca os processos já julgados, pois encerrada, ipso facto, a jurisdição desta Corte.
+ ..
+No mais, não se olvida a argumentação tocantemente à não consolidação de trânsito em julgado do v. Acórdão proferido por esta 7ª C. Cível naqueles autos de Apelação Cível nº 5692- 35.2009.8.16.0004.
+Todavia, a inexistência de trânsito em julgado na decisão colegiada, repostada por meio de Recurso Especial e Recurso Extraordinários aos Tribunais Superiores, não autoriza a admissão da Reclamação Cível para reformar posicionamento aderido por esta Corte de Justiça à época do julgamento dos autos de Apelação Cível nº 5692-35.2009.8.16.0004.
+Ora, a alteração jurisprudencial deste Tribunal de Justiça, especificamente quanto à prescrição da pretensão autoral em obter a revisão de seus proventos, implicou no chamado overruling, o que culminou na consolidação do Tema 03/TJPR-NUGEP.
+Portanto, não há dúvida de que a prestação jurisdicional do Tribunal a quo havia se exaurido antes mesmo do julgamento do IAC, conclusão esta que não se altera pelo fato de os recursos excepcionais interpostos nos autos do processo em tela, direcionados a este Superior Tribunal ao Supremo Tribunal Federal. ainda estejam (ou estivessem) aguardando processamento naquela Corte de Justiça.
+Vale ressaltar, ademais, que a regra contida no art. 988, § 6º, do CPC ("A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação") não tem o condão de afastar o entendimento acima esposado.
+De fato, a questão relevante para o deslinde da presente controvérsia reside no fato de que não há como se imputar ao acórdão reclamado um eventual desrespeito à tese firmada no Tema 03/TJPR- NUGEP (IAC n. 1.511.082-0/01 - 0003634-43.2014.8.16.0179), julgado mais de 4 (quatro) anos depois, quando há esgotada a prestação jurisdicional do Sodalício paranaense.
+Sobreleva ainda pontuar que a situação observada no presente caso não se confunde com a hipótese em que, diante da existência de recurso representativo de controvérsia repetitiva em tramitação neste Superior Tribunal ou de repercussão geral no Supremo Tribunal Federal, é permitido ao Órgão Fracionário prolator do acórdão recorrido a realização de juízo de conformação, nos termos dos arts. 1.040, II, e 1.041 do CPC, in verbis:
+Art. 1.040. Publicado o acórdão paradigma:
+ ..
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º .
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+De fato, a reabertura da jurisdição da Corte de origem para que ela possa realizar o referido juízo de conformação, à luz de tese firmada em recurso especial representativo de controvérsia repetitiva ou de repercussão geral, por se tratar de uma exceção, deve ser interpretada restritivamente, o que inviabiliza sua aplicação à espécie.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
