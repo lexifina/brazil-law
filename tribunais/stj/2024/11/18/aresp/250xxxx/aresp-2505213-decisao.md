@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por EVARISTO SOARES DIAS contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado em desfavor de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 678):
+Ação de conhecimento objetivando o Autor anulação de alteração de contrato social, com o seu retorno à sociedade com as suas 1.750.000 cotas e a restituição ao status quo ante. Sentença que julgou improcedente o pedido inicial. Apelação do Autor. Recurso que deve ser conhecido, pois, ao contrário do que sustentaram os Apelados, em preliminar, foi observado o artigo 1.010, incisos II, III e IV do CPC. Alegação de cerceamento de defesa que não merece ser acolhida, uma vez que instado a se manifestar em provas, no curso da lide, o Apelante nada requereu. Juiz que é o destinatário da prova, cabendo a ele decidir pela produção daquelas que entender necessárias à instrução do processo e à formação de sua convicção, nos termos do artigo 370 do CPC. Prova pericial contábil que não se mostrava adequada ao deslinde da controvérsia ante a presunção de veracidade dos termos previstos no instrumento de cessão de cotas arquivado na junta comercial, no qual consta o pagamento integral do valor acordado para o negócio com irrevogável quitação. Alteração contratual na qual o sócio que adquiriu as cotas do Apelante, assumiu todo o passivo da empresa, isentando-o de responsabilidade por qualquer débito passado, presente ou futuro da empresa, o que tem repercussão financeira. Eventual inadimplemento do valor pactuado para venda das cotas sociais do Apelante que não enseja vício de consentimento a ensejar a anulação do negócio jurídico. Aumento do capita social no mesmo momento em que o Apelante se retirou da sociedade que não o beneficia. Sentença que, com acerto, julgou improcedente o pedido inicial. Desprovimento da apelação.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 711-713).
+Nas razões recursais, a parte recorrente alegou violação aos arts. 218, § 4 e 1.022, II, do CPC, sustentando ser a prova pericial indispensável para a solução da controvérsia.
+Defendeu que o acolhimento da preclusão acerca das provas não se aplica ao caso em tela.
+Asseverou que o processo deve ser baixado para a realização de prova pericial contábil, além da produção de prova oral consubstanciada nos depoimentos pessoais e testemunhais, sob pena de cerceamento de defesa, e que requereu por diversas vezes a produção da prova pericial contábil, a qual é essencial para o deslinde do processo.
+Contrarrazões às fls. 737-748 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+Em relação à alegada violação ao art. 1.022 do CPC, verifica que não há na fundamentação do recurso a indicação adequada da questão federal controvertida, tendo deixado a parte de apresentar a demonstração lógica e analítica dos fundamentos pelos quais se acredita que a legislação infraconstitucional tenha sido malferida. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstrem, de forma clara, os fundamentos de violação dos dispositivos apontados como malferidos ou interpretados distintamente de outro tribunal pela decisão recorrida, sob pena de inadmissão.
+Nesse passo, a simples e genérica referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não é suficiente para o conhecimento do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284 DO STF. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS IRRISÓRIOS. ART. 20, § 4º, DO CPC. MAJORAÇÃO.
+1. Na instância especial não basta a mera indicação do dispositivo supostamente violado, pois as razões recursais devem exprimir com clareza e objetividade os motivos pelos quais o recorrente visa a reforma da decisão. Súmula 284 do STF.
+2. O posicionamento desta Corte é pacífico no sentido de que é possível a revisão da verba honorária arbitrada pelas instâncias ordinárias quando demonstrado se tratar de valor irrisório ou exorbitante. Precedentes.
+3. Honorários majorados para valores mais dignos ao exercício da advocacia.
+4. Recurso especial interposto pelo embargante não provido, provido o recurso interposto pela embargada. (REsp n. 1.395.227/SP, Relator o Ministro Moura Ribeiro, DJe 17/12/2014)
+Quanto à violação ao art. 218, § 4º, do CPC, verifica-se que a tese invocada nas razões do apelo especial acerca do dispositivo não foi apreciada pelo Tribunal estadual, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Assim, em face da ausência do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Ressalta-se que o disposto no art. 1.025 do CPC/15, com efeito, estabeleceu perante o Superior Tribunal de Justiça o prequestionamento ficto, anteriormente já admitido pelo Supremo Tribunal Federal por meio da Súmula n. 356. Entretanto, para sua configuração é necessário que a Corte de origem tenha sido provocada a se manifestar por meio de razões ou contrarrazões e embargos de declaração, quedando-se inerte, bem como apontado, no mesmo recurso, violação ao art. 1.022 do CPC vigente.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. PREQUESTIONAMENTO. EXIGÊNCIA CONSTITUCIONAL. ART. 1.025 DO CPC/15. NATUREZA FICTA. POSSIBILIDADE. REQUISITOS NÃO CUMPRIDOS. SÚMULA Nº 282/STF. USUCAPIÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA.
+1. O prequestionamento é exigência constitucional, devendo ser observado quando da interposição de recurso especial.
+2. O prequestionamento ficto previsto no art. 1025 do CPC/15 exige a oposição de embargos de declaração na origem e a indicação do art.
+1022 do CPC/15 como violado. Precedentes.
+3. Verificar se caracterizado ou não o usucapião somente se processa mediante reexame do acervo fático-probatório, o que é vedado em sede de recurso especial, diante do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1187992/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/04/2018, DJe 02/05/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. AÇÃO DE BUSCA E APREENSÃO. 1. VIOLAÇÃO AO ART. 128 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 2. BUSCA E APREENSÃO. DESCABIMENTO. BENS ESSENCIAIS ÀS ATIVIDADES ECONÔMICO-PRODUTIVAS. PERMANÊNCIA COM A EMPRESA RECUPERANDA. ACÓRDÃO RECORRIDO QUE SE REVELA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA ORTE. SÚMULAS 7 E 83/STJ. 3. AGRAVO IMPROVIDO.
+1. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (art. 128 do CPC/1973), mesmo tendo sido opostos embargos de declaração a fim de ver suprida eventual omissão, incide a Súmula 211 do STJ. Ademais, a parte insurgente não interpôs seu recurso especial alegando a ofensa ao art. 535 do CPC/1973.
+2.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 966.814/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 27/10/2016)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte recorrida em 2% sobre o valor fixado na origem, ressalvado o benefício da assistência judiciária gratuita.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DSE CONHECIMENTO. ANULAÇÃO DE CONTRATO SOCIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. ART. 218, § 4º, DO CPC. TESE NÃO PREQUESTIONADA. AUSÊNCIA DE EMBARGOS DE DECLARAÇÃO PARA SANAR EVENTUAL OMISSÃO. APLICAÇÃO DAS SÚMULAS N. 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
