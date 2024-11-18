@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por GILDSON BATISTA FERREIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim resumido:
+APELAÇÃO CÍVEL. ACIDENTE DE TRÂNSITO. AUTOMÓVEL DE PROPRIEDADE DO FALECIDO. IMPOSSIBILIDADE DE RESPONSABILIZAR A IRMÃ DO MORTO QUE SEQUER RECEBEU A HERANÇA. ILEGITIMIDADE PASSIVA AD CAUSAM.
+I - O fato de ser colateral e constar na ordem de vocação hereditária prevista no art. 1.829, do Código Civil, não pode tornar a apelante, por si só, obrigada a pagar dívida que, supostamente seria do de cujus, ainda mais quando não restou provada a abertura de processo de inventário para apurar os bens, as dívidas e os herdeiros do morto;
+II - Raimundo do Rosário Nogueira, faleceu no dia 16 de abril de 2012, em nome de quem consta a propriedade do veículo Placa JXO-2700, e que, segundo consta, colidiu com o veículo do apelado no dia 22 de agosto de 2017; III - Resta patente a ilegitimidade passiva ad causam da apelante porque é necessário que o apelado, com a sentença condenatória, quando tornar-se credor do espólio, se for o caso, adote as providências necessárias, podendo, inclusive requerer a abertura do respectivo processo de inventário para o recebimento de seu crédito;
+IV - Ocorrendo o falecimento não podem os herdeiros serem diretamente demandados e sofrerem os efeitos do débito do transmitente da sucessão;
+V Apelação conhecida provida.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 613 e 614 do CPC, no que concerne à legitimidade passiva da parte recorrente na qualidade de administradora provisória dos bens do de cujus, trazendo a seguinte argumentação:
+Se é verdade que a herdeira colateral não pode ser pessoalmente responsabilizada pelo passivo do falecido antes da partilha dos bens, não subsiste, por outro lado, nenhum óbice para que ela venha a ser nomeada como administradora provisória do espólio, até o futuro ingresso do inventário e a posterior definição do inventariante.
+A parte, durante o trâmite processual de origem, apenas teve acesso ao nome da irmã do de cujus, fato este que levou à sua citação para responder à demanda na qualidade de herdeira, haja vista a ausência de esposa/companheira ou filhos.
+Digno de nota que a citação da herdeira nunca teve o escopo de direcionar a responsabilidade da condenação apenas para ela, em nome próprio, mas sim para a pessoa na qualidade de herdeira, o que autoriza, nesses termos, que a mesma seja nomeada administradora provisória do espólio.
+O que se combate por meio do apelo especial é a extinção do feito, sem que o Tribunal de origem reconheça a possibilidade de nomeação de administrador provisório do espólio, para arcar com a indenização devida e reconhecida em juízo.
+Em sentido contrário do que preconiza o Código de Processo Civil, o TJAM apenas declarou a ilegitimidade passiva da recorrida, extinguindo o processo sem resolução do mérito, à míngua da possibilidade de se proferir decisão de mérito justa e efetiva, uma vez que a legislação reconhece a possibilidade de nomeação de administrador provisório, que representa o espólio, e pode ser demandado judicialmente.
+A recorrida informou a existência de outros irmãos, mas não ofereceu subsídios para que os mesmos fossem citados ou mesmo qual deles está sob a posse dos bens do de cujus.
+Nesse espeque, pela ausência de maiores informações, é totalmente plausível que a irmã, responsável pela lavratura da certidão de óbito, seja a representante provisória do espólio (fls. 234/235).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+02.07. No mais, o acórdão embargado manifestou-se expressamente sobre a questão da ilegitimidade e o porquê da impossibilidade de condenação da embargada nos danos moral e material, essenciais para o deslinde da causa.
+ ..
+02.08. Fincadas tais premissas, evidente a intenção da parte Embargante em questionar matéria referente ao mérito do acórdão, sendo inviável a utilização dos Embargos de Declaração, sob a alegação de pretenso vício, quando o que se almeja é, em verdade, reapreciar o julgado, objetivando a alteração do conteúdo meritório do decisum embargado.
+02.09. Ademais, a afirmação de pré-questionamento dos artigos 613, 614, §4º e 6 o , do CPC, também não prevalece uma vez inexistem nos autos prova de que a embargada é administradora provisória do espólio do falecido porque, para tanto, é necessário que esteja na administração dos bens, conforme determina o art. 1.797, do Código Civil.
+ ..
+02.10. Repisa-se que o recorrente não comprovou que a embargada está ou estava na posse e administração dos bens do falecido, e, assim, não há como condenar pessoa estranha ao evento danoso a indenizá- lo com seus bens próprios, porque o administrador provisório é aquele que está na posse e administração dos bens do espólio (fls. 206/213).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
