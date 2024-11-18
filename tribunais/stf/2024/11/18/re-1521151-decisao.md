@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Estado do Tocantins, em face do acórdão do Tribunal de Justiça do Estado do Tocantins assim ementado:
+
+    “APELAÇÃO CÍVEL. DECLARATÓRIA. ICMS. OPERAÇÃO DE TRANSFERÊNCIA DE BOVINOS PARA IMÓVEL RURAL DO MESMO PROPRIETÁRIO LOCALIZADO EM OUTRO ESTADO DA FEDERAÇÃO. SÚMULA 166/STJ. TEMA 1.099/STF. Comprovado nos autos que versa sobre deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos. A matéria já foi decidida em Repercussão Geral em sede de RECURSO EXTRAORDINÁRIO COM AGRAVO - ARE 1255885, inaugurando o TEMA nº 1.099/STF, estabelecendo a seguinte tese: “Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia.”. O teor da súmula nº 166 do STJ, que estabelece que “Não constitui fato gerador do ICMS o simples deslocamento de mercadoria de um para outro estabelecimento do mesmo contribuinte". Apelo não provido.”
+
+    Na minuta, sustenta-se violação do art. 103 da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos verifica-se que a Corte de origem não analisou a matéria constitucional versada no arts. 103 da Lei Fundamental, porquanto, embora mencionada nos embargos de declaração opostos para satisfazer o requisito do prequestionamento, não foi oportunamente levada ao conhecimento da Corte a quo quando da interposição do recurso que deu ensejo à interposição do apelo extremo. A jurisprudência desta Suprema Corte é firme no sentido de que os embargos de declaração que versam questão nova não suprem o requisito do prequestionamento, pois nesses casos não existem omissão, obscuridade ou contradição a sanar. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 282 e 356/STF: “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada”e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012 e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, DJe 07.11.2011, cuja ementa transcrevo:
+
+    “RECURSO EXTRAORDINÁRIO prequestionamento CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.”
+
+    Ademais, o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte. Ao julgamento do Tema 1099 da repercussão geral, o Plenário do Supremo Tribunal Federal fixou a seguinte tese: “Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia”. Eis a ementa do paradigma:
+
+    “Recurso extraordinário com agravo. Direito Tributário. Imposto Sobre Circulação de Mercadorias e Serviços (ICMS). Deslocamento de mercadorias. Estabelecimentos de mesma titularidade localizados em unidades federadas distintas. Ausência de transferência de propriedade ou ato mercantil. Circulação jurídica de mercadoria. Existência de matéria constitucional e de repercussão geral. Reafirmação da jurisprudência da Corte sobre o tema. Agravo provido para conhecer em parte do recurso extraordinário e, na parte conhecida, dar-lhe provimento de modo a conceder a segurança. Firmada a seguinte tese de repercussão geral: Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia.” (ARE 1255885 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 15-09-2020)
+
+    Ademais, não há falar na incidência da modulação de efeitos da ADC 49 para processos administrativos e judiciais pendentes de conclusão até a data de publicação da ata de julgamento da decisão de mérito. A propósito, veja-se a ementa dos embargos de declaração:
+
+    “EMBARGOS DE DECLARAÇÃO EM RECURSO AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS- ICMS. TRANSFERÊNCIAS DE MERCADORIAS ENTRE ESTABELECIMENETOS DA MESMA PESSOA JURÍDICA. AUSÊNCIA DE MATERIALIDADE DO ICMS . MANUTENÇÃO DO DIREITO DE CREDITAMENTO. (IN)CONSTITUCIONALIDADE DA AUTONOMIA DO ESTABELECIMENTO PARA FINS DE COBRANÇA. MODULAÇÃO DOS EFEITOS TEMPORAIS DA DECISÃO. OMISSÃO. PROVIMENTO PARCIAL. 1. Uma vez firmada a jurisprudência da Corte no sentido da inconstitucionalidade da incidência de ICMS na transferência de mercadorias entre estabelecimentos da mesma pessoa jurídica (Tema 1099, RG) inequívoca decisão do acórdão proferido. 2. O reconhecimento da inconstitucionalidade da pretensão arrecadatória dos estados nas transferências de mercadorias entre estabelecimentos de uma mesma pessoa jurídica não corresponde a não-incidência prevista no art.155, §2º, II, ao que mantido o direito de creditamento do contribuinte. 3. Em presentes razões de segurança jurídica e interesse social (art.27, da Lei 9868/1999) justificável a modulação dos efeitos temporais da decisão para o exercício financeiro de 2024 ressalvados os processos administrativos e judiciais pendentes de conclusão até a data de publicação da ata de julgamento da decisão de mérito. Exaurido o prazo sem que os Estados disciplinem a transferência de créditos de ICMS entre estabelecimentos de mesmo titular, fica reconhecido o direito dos sujeitos passivos de transferirem tais créditos. 4. Embargos declaratórios conhecidos e parcialmente providos para a declaração de inconstitucionalidade parcial, sem redução de texto, do art. 11, § 3º, II, da Lei Complementar nº87/1996, excluindo do seu âmbito de incidência apenas a hipótese de cobrança do ICMS sobre as transferências de mercadorias entre estabelecimentos de mesmo titular.” (ADC 49 ED, Relator(a): EDSON FACHIN, Tribunal Pleno, DJe 15-08-2023)
+
+    No caso concreto, a ação foi ajuizada em 22/08/2019 (dedcaf32), em momento anterior à data da publicação da ata do julgamento da decisão de mérito da ADC 49 (04/05/2021), de modo que a modulação de efeitos não deve ser aplicada ao presente caso.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 18 de novembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
