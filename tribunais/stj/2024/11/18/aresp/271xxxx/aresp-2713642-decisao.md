@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Mossoró contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 497):
+DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. DESAPROPRIAÇÃO. UTILIDADE PÚBLICA. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA CONTRA O VALOR DA INDENIZAÇÃO. VALOR ATRIBUÍDO PELA PERÍCIA. CONFIRMAÇÃO. INEXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA CAPAZES DE AFASTAR AS CONCLUSÕES DO LAUDO OFICIAL. PERÍCIA TÉCNICA VÁLIDA. INTELIGÊNCIA DO ART. 26 DO DECRETO Nº 3.365/41. PRECEDENTES DO STJ. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. SUPERVENIÊNCIA DA EC Nº 113/2021. PREVISÃO DE INCIDÊNCIA DA TAXA SELIC COMO ÍNDICE ÚNICO DE JUROS DE MORA E CORREÇÃO MONETÁRIA. REFORMA DA SENTENÇA NESTE PARTICULAR. REEXAME OBRIGATÓRIO E APELO DO MUNICÍPIO DE MOSSORÓ CONHECIDOS E PARCIALMENTE PROVIDOS.
+Nas razões do recurso especial, a parte agravante aponta violação ao arts. 26 do Decreto-Lei n. 3.365/41. Sustenta que o valor da indenização deve ser apurado com base no valor do bem à época da imissão na posse, ressaltando que decorreu longo período desde o apossamento administrativo até a realização da perícia judicial, tendo sido verificada "flagrante valorização do imóvel objeto desta demanda judicial." (fl. 513).
+O Ministério Público Federal opinou pelo não provimento do agravo, nos termos assim resumidos (fl. 569):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. DESAPROPRIAÇÃO. VALOR DA INDENIZAÇÃO. MATÉRIA FÁTICOPROBATÓRIA.
+- Como regra geral, o valor da indenização deve ser contemporâneo à avaliação do bem, a teor do que dispõe o art. 26 do Decreto-Lei nº 3.365/41.
+- A reversão do julgado supõe a reapreciação dos elementos fáticos e probatórios, o que é vedado no recurso especial, nos termos da Súmula nº 7/STJ.
+- Parecer pela negativa de provimento ao agravo em recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Em relação ao valor devido ao expropriado, a jurisprudência deste Sodalício trilha o entendimento de que "O valor da indenização será contemporâneo à data da avaliação judicial, não sendo relevante a data em que ocorreu a imissão na posse, tampouco a data em que se deu a vistoria do expropriante" (REsp 1.724.398/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/4/2018, DJe de 19/11/2018).
+No mesmo sentido, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. LAUDO PERICIAL. CONTEMPORANEIDADE À DATA DA AVALIAÇÃO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. "O valor da indenização será contemporâneo à data da avaliação judicial, não sendo relevante a data em que ocorreu a imissão na posse, tampouco a data em que se deu a vistoria do expropriante" (REsp 1.724.398/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/4/2018, DJe de 19/11/2018). Nesse sentido: AgInt no AREsp 1.939.816/TO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; REsp 1.777.813/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/8/2019, DJe de 5/9/2019).
+2. Agravo interno improvido.
+(AgInt no REsp n. 1.240.783/ES, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. NULIDADE DO LAUDO JUDICIAL. PRECLUSÃO. DEFICIÊNCIA RECURSAL. JUSTA INDENIZAÇÃO. CONTEMPORANEIDADE. REVISÃO. SÚMULA 7 DO STJ.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Os dispositivos apontados como violados, nas razões do recurso especial, não contêm comandos normativos para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, no que tange ao reconhecimento da preclusão do direito de alegar a nulidade da prova pericial, circunstância que atrai a incidência da Súmula 284 do STF.
+3. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que o valor da indenização deve ser contemporâneo à avaliação do imóvel, tendo como parâmetro o laudo adotado pelo juiz para a fixação do justo preço, sendo irrelevante a data da imissão na posse ou mesmo da avaliação administrativa, exceto nos casos em que há longo período de tramitação do processo e/ou valorização exagerada do bem, de forma a acarretar evidente desequilíbrio no pagamento do que realmente é devido.
+4. Hipótese em que o Tribunal de origem, apesar de reconhecer a diferença temporal entre o esbulho/ato expropriatório (1976 e 1978) e a data da confecção do laudo oficial (2015), ocorrida devido a nulidade da primeira sentença e de 2 (duas) perícias, manteve a regra da contemporaneidade, por entender que não há elementos nos autos para estimar a situação dos imóveis à época do apossamento administrativo, tampouco para desconstituir o último laudo judicial, devidamente embasado e respaldado em argumentos técnicos.
+5. A modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.230.230/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/4/2024, DJe de 18/4/2024.)
+Ora, desse entendimento não dissentiu a Corte de origem. A propósito, vale transcrever o seguinte excerto do acórdão recorrido (fl. 500):
+Quanto ao montante a ser indenizado, o Colendo STJ entende que o valor da indenização deve ser contemporâneo à avaliação, nos termos do art. 26 do Decreto-lei 3.365/41, tendo como base o laudo adotado pelo juiz para a fixação do justo preço, pouco importando a data da imissão na posse ou mesmo a da avaliação administrativa, a saber:
+ ..
+Nesse contexto, deve ser confirmado o acórdão recorrido em virtude da conformidade com a jurisprudência do Superior Tribunal de Justiça.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
