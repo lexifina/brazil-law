@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto pela COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SAO PAULO - CDHU, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 18/06/2024.
+Concluso ao gabinete em: 14/08/2024.
+Ação: indenização por perdas e danos ajuizada por JUCILAINE FLORAO, em face da parte agravante e outra, em razão de vícios construtivos.
+Sentença: julgou parcialmente procedentes os pedidos para condenar a agravante e outra, solidariamente, "ao pagamento de R$ 18.525,51 (dezoito mil, quinhentos e vinte e cinco reais e cinquenta e um centavos), referente ao valor da conversão em perdas e danos para execução das obras necessárias aos reparos do imóvel objeto da perícia."
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Apelação Cível - Cerceamento de defesa - Inocorrência - Matéria dos autos que permitiu ao juiz o julgamento antecipado da lide - Suficiência dos elementos dos autos para o julgamento da ação - Devido processo legal observado na íntegra Juiz que, na qualidade de destinatário final da prova, está incumbindo do poder-dever de velar pela rápida solução do litígio, indeferindo as diligências inúteis (arts. 139, II e 370, pár. ún. do CPC) - Adoção, pelo direito processual, do sistema da livre apreciação da prova ou da persuasão racional - Oitiva de representante da corré CDHU que não restou justificada, tendo em vista a suficiência da prova documental e pericial Prova pericial - Laudo elaborado por perito de engenharia, com resposta a quesitos formulados pelas partes e prestação de esclarecimentos complementares -Existência de subjetividades e impressões pessoais no laudo técnico que não restou evidenciada - Preliminares afastadas.
+Apelação Cível - Indenização - Vícios de construção - Decadência - Inocorrência - Pretensão indenizatória - Aplicabilidade do prazo prescricional decenal (art. 205, do CC) - Existência de danos permanentes e progressivos que dificultam o estabelecimento do momento exato de seu surgimento.
+Dano material - Adoção do cálculo do montante necessário para obras de recuperação do imóvel nos exatos termos de planilha constante do laudo pericial - Perito judicial que apresentou os parâmetros utilizados para a quantificação e precificação de materiais e serviços necessários à realização dos reparos - Acréscimo de BDI - Possibilidade - Percentual utilizado para contemplar custos indiretos que surgem em razão da realização de reformas - Precedentes - Sentença mantida - RECURSO DA RÉ ALCANCE IMPROVIDO.
+Apelação Cível - Litisconsórcio passivo necessário - Preliminar que não pode ser conhecida - Construtora Alcance que já integra o polo passivo da lide - RECURSO DA RÉ CDHU, NESTA PARTE, NÃO CONHECIDO.
+Preliminares - Legitimidade Ré - que detém legitimidade para figurar no polo passivo da demanda - Aplicabilidade do CDC aos contratos relacionados ao SFH - Ré CDHU que se insere na cadeia de fornecimento de serviço Responsabilidade solidária caracterizada - Ré que se qualifica como fornecedora (art. 3º, do CDC) - Preliminares afastadas.
+Indenização - Dano material configurado - Vícios construtivos que restaram confirmados por laudo pericial - Atividade de fiscalização e controle de manutenção de imóveis que competia à ré CDHU - Responsabilidade da ré em relação aos vícios constatados no imóvel dos apelados que não pode ser afastada - Impossibilidade da culpabilização exclusiva da corré Alcance pelos vícios verificados - Circunstância que não pode ser oposta à parte autora - Sentença mantida - RECURSO DA RÉ CDHU, NESTA PARTE, IMPROVIDO.
+Sucumbência Recursal Honorários advocatícios Majoração do quantum arbitrado Observância do artigo 85, §§ 8º e 11, do CPC. (e-STJ, fls. 850/851)
+Recurso especial: alega violação do art. 3º do CDC, bem como divergência jurisprudencial, aduzindo, em síntese, que "o Estado não está na condição de fornecedor de produto de consumo, mas sim cumprindo sua função social, a qual está intimamente ligada ao cumprimento da obrigação, por parte do comprador, circunstância que torna evidente a inaplicabilidade das regras do direito do consumidor neste caso concreto."
+Afirma, ainda, que "as decisões dos Tribunais Pátrios divergem do entendimento exposto pelo Tribunal a quo."
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido teria violado o art. 3º do CDC. A deficiência na fundamentação impede a perfeita compreensão da controvérsia, o que enseja o não conhecimento do recurso, nos termos da Súmula 284/STF.
+- Do reexame de fatos e provas
+Ademais alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva da agravante para responder pela indenização nos presentes autos, tendo em vista que figurou no contrato, fazendo parte dos fornecedores integrantes da cadeia de consumo, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º do CPC/15 e 255, § 1º, do RISTJ.
+Ademais, verifica-se que a agravante utilizou acórdão da lavra do próprio TJ/SP, o qual, todavia, não se presta à comprovação da divergência, nos termos da Súmula 13 do STJ.
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente, em R$ 1.500,00 (mil e quinhentos reais), ressalvada a eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. ALEGAÇÃO GENÉRICA DE OFENSA DE OFENSA À LEI. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de indenização por perdas e danos.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva da agravante para responder pela indenização nos presentes autos, tendo em vista que figurou no contrato, fazendo parte dos fornecedores integrantes da cadeia de consumo, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A divergência entre julgados do mesmo Tribunal não enseja recurso especial. Súmula 13/STJ.
+6. Agravo conhecido. Recurso especial não conhecido.
