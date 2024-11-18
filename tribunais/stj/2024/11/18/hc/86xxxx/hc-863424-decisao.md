@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VITOR RIBEIRO DE SOUZA, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em virtude do julgamento da apelação criminal n.0035009-80.2021.8.19.0002.
+Consta nos autos que o paciente foi condenado pelo crime de roubo majorado pelo concurso de pessoas e emprego de arma de fogo (157, § 2º, II, e § 2º- A, I, do CP) à pena de 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial de cumprimento semiaberto, e a 17 (dezessete) dias-multa.
+A Defensoria Pública alega às fls. 03-14 que a prova que ensejou a condenação teve por base o reconhecimento fotográfico em sede policial sem observância dos requisitos legais e diante disso pede a absolvição do condenado: " .. assim, ao contrário do afirmado pelo Tribunal Estadual, no caso aqui discutido, não existe provas suficientes para ensejar um decreto condenatório, uma vez que inválido o único elemento de prova - reconhecimento realizado na delegacia por meio de fotografia .. " .
+Parecer do Ministério Público pela denegação da ordem (fls.88-90).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da condenação do paciente por meio em prova produzida inicialmente em sede policial baseada exclusivamente em reconhecimento fotográfico segundo a impetrante.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Nesse sentido a manifestação do Ministério Público Federal:
+" .. Dessa forma, o entendimento adotado pela Instância de origem, ao admitir como prova da autoria delitiva a prova testemunhal, vai ao encontro da orientação da Corte Superior de Justiça no sentido de que não há falar em ilegalidade quando a autoria delitiva não tem, como único elemento de prova, o reconhecimento fotográfico .. .Diante do exposto ficou claro que a impetração do habeas corpus constitui tentativa de substituir o recurso próprio, o que não é admissível, especialmente diante de caso em que não se constata qualquer tipo de ilegalidade que autorize a concessão de ordem de ofício. Por conta disso, opino pelo não conhecimento do habeas corpus."
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
