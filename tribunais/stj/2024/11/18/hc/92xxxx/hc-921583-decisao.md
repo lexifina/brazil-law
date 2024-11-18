@@ -1,0 +1,21 @@
+DECISÃO
+O presente writ, impetrado em benefício de DANIEL CABRAL SILVA - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5014515-07.2023.8.24.0033), comporta acolhimento.
+Busca a impetração a anulação da condenação imposta ao paciente pelo Juízo de Direito da 2ª Vara Criminal da comarca de Itajaí/SC, ao argumento de nulidade das provas obtidas mediante violação do domicílio. Subsidiariamente, postula a revisão da dosimetria.
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial, a saber:
+ ..
+1. Na hipótese de suspeita de crime em flagrante, exige-se, em termos de standard probatório para ingresso no domicílio do suspeito sem mandado judicial, a existência de fundadas razões (justa causa), aferidas de modo objetivo e devidamente justificadas, de maneira a indicar que dentro da casa ocorre situação de flagrante delito.
+2. O tráfico ilícito de entorpecentes, em que pese ser classificado como crime de natureza permanente, nem sempre autoriza a entrada sem mandado no domicílio onde supostamente se encontra a droga. Apenas será permitido o ingresso em situações de urgência, quando se concluir que do atraso decorrente da obtenção de mandado judicial se possa objetiva e concretamente inferir que a prova do crime (ou a própria droga) será destruída ou ocultada.
+3. O consentimento do morador, para validar o ingresso de agentes estatais em sua casa e a busca e apreensão de objetos relacionados ao crime, precisa ser voluntário e livre de qualquer tipo de constrangimento ou coação.
+4. A prova da legalidade e da voluntariedade do consentimento para o ingresso na residência do suspeito incumbe, em caso de dúvida, ao Estado, e deve ser registrada em áudio-video e preservada tal prova enquanto durar o processo.
+5. A violação a essas regras e condições legais e constitucionais para o ingresso no domicílio alheio resulta na ilicitude das provas obtidas em decorrência da medida, bem como das demais provas que dela decorrerem em relação de causalidade, sem prejuízo de eventual responsabilização penal do(s) agente(s) público(s) que tenha(m) realizado a diligência.
+(HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021 - grifo nosso).
+A moldura fática delineada no acórdão atacado é de que a violação de domicílio foi efetivada em um contexto de patrulhamento, motivada por denúncias anônimas, quando os agentes policiais teriam visualizado o paciente vendendo drogas na via pública, razão pela qual eles teriam feito a abordagem e alegam ter tido a entrada na residência franqueada pelo próprio réu (fl. 407).
+Embora as instâncias ordinárias tenham asseverado que o acesso dos policiais ao domicílio do acusado foi franqueado, não há comprovação de que tal acesso tenha ocorrido nos moldes delimitados no julgado acima exposto.
+Tal o contexto, é ilícita a prova obtida na diligência em comento, bem como aquelas que dela derivaram (art. 157, § 1º, do CPP).
+Logo, é o caso de anular a condenação e, desde logo, absolver o paciente com fundamento no art. 386, II, do CPP, pois inexiste prova independente daquela tida como ilícita apta a manter a condenação pelo crime de tráfico de drogas.
+Ante o exposto, concedo a ordem para reconhecer a nulidade do flagrante em razão da invasão de domicílio e, por conseguinte, das provas obtidas em derivação, bem como para absolver o paciente dos fatos delineados na Ação Penal n. 5014515-07.2023.8.24.0033.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. AUSÊNCIA DE MANDADO JUDICIAL OU AUTORIZAÇÃO DO MORADOR. CONTEXTO FÁTICO ANTERIOR. JUSTA CAUSA. AUSÊNCIA. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
