@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal - CPP.
+No caso dos autos, a pretexto da necessidade de afastar omissão, contradição e obscuridade no julgado, o embargante busca a rediscussão da matéria, o que é vedado na via eleita. Precedentes.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MAICON DOUGLAS BENEDITO ROBERTO contra o acórdão que negou provimento ao agravo regimental de fls. 221/243, nos termos da seguinte ementa:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. VÍNCULO ASSOCIATIVO ESTÁVEL E PERMANENTE. ABSOLVIÇÃO. IMPOSSIBILIDADE. PENAS-BASE NO MÍNIMO. FALTA DE INTERESSE DE AGIR. MINORANTE DO § 4º DO ART. 33 DA LEI DE DROGAS. NÃO CABIMENTO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. AGRAVO PARCIALMENTE PROVIDO.
+1. Quanto ao vínculo associativo estável e permanente necessário à configuração do delito do art. 35 da Lei de Drogas, as instâncias ordinárias asseveraram que os policiais, após denúncias anônimas, passaram a monitorar o imóvel e presenciaram o ora agravante junto com o corréu Kennedy por inúmeras vezes, convivendo pacificamente, inclusive no dia dos fatos, em que foram apreendidas 9 porções de maconha (18,25g) e 57 de cocaína (68,92g).
+A fundamentação apresentada mostra-se idônea e em conformidade com a jurisprudência desta Corte. Para afastá-la é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus.
+2. Resta constatada a falta de interesse de agir da defesa no tocante à alegação de que as penas-base teriam sido majoradas de forma desproporcional, pois, ao que consta dos autos, as basilares foram fixadas no mínimo legal para ambos os delitos.
+3. Diante da manutenção da condenação pela prática do crime previsto no art. 35 da Lei n. 11.343/06, não há possibilidade de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei Antidrogas. Isso porque a condenação pela prática do crime de associação para o tráfico obsta o reconhecimento da minorante, ante a dedicação à atividade criminosa inerente ao delito.
+4. Considerando a fixação das penas-base no mínimo, a primariedade do agravante e o quantum de pena, não superior a 8 anos, mostra-se cabível a fixação do regime inicial semiaberto, nos termos do art. 33 c/c o art. 59, ambos do Código Penal - CP.
+5. Agravo regimental parcialmente provido para fixar o regime inicial semiaberto" (fl. 253).
+O embargante reitera a tese de que as circunstâncias fáticas apontam ter havido mero concurso de pessoas no delito de tráfico de drogas (art. 33 da Lei n. 11.343/06), estando ausentes a estabilidade e a permanência necessárias para caracterizar o delito de associação (art. 35).
+Requer a atribuição de efeitos modificativos aos presentes embargos para que seja afastada a condenação pelo referido delito.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal - CPP.
+No caso dos autos, a pretexto da necessidade de afastar omissão, contradição e obscuridade no julgado, o embargante busca a rediscussão da matéria, o que é vedado na via eleita. Precedentes.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal.
+Na hipótese dos autos, o embargante não comprovou a existência de omissão, contradição e obscuridade no julgado. Seus argumentos demonstram tão somente o inconformismo com o resultado do julgamento.
+Confira-se, a propósito, o seguinte trecho do acórdão embargado:
+"No que diz respeito ao delito de associação para o tráfico, foi asseverado que os policiais, após denúncias anônimas, passaram a monitorar o imóvel e presenciaram o ora agravante junto com o corréu Kennedy por inúmeras vezes, convivendo pacificamente, inclusive no dia dos fatos, em que foram apreendidas 9 porções de maconha (18,25g) e 57 de cocaína (68,92g).
+Confiram-se, a propósito, os seguintes trechos:
+Sentença:
+" ..
+Da mesma forma, ficou devidamente comprovada a associação para o tráfico de drogas, prevista no artigo 35, da Lei nº 11.343/06.
+Como informado pelos policiais, foram feitas várias campanas no local dos fatos, em virtude de denúncia anônima de tráfico de drogas. Desse modo, os policiais presenciaram os réus juntos por inúmeras vezes, convivendo pacificamente, inclusive no dia da abordagem, quando os acusados receberam as drogas juntos.
+Embora a residência de Kennedy seja incerta, isso não afasta a caracterização da associação, uma vez que frequentemente estava na casa, como verificado pelos policiais, e, por certo, pernoitava lá, já que no quarto em que Amanda dormia havia pertences de seu marido, como vestes e RG, conforme os depoimentos dos policiais e as palavras de Amanda, enquanto narrava o ocorrido em juízo.
+Por oportuno, cumpre acentuar que a testemunha Amanda ofereceu duas versões do ocorrido, sendo que em sede policial afirmou que as drogas pertenciam a Kennedy, gerente das biqueiras do Parque dos Pinus por um período de três meses antes dos fatos, de forma que Maicon apenas o estava auxiliando.
+Dessa maneira, ficou perfeitamente evidenciada a habitualidade da conduta dos agentes ao se associarem para a prática do crime de tráfico de drogas, assim como a permanência, sendo de rigor a procedência da presente ação.
+Com efeito, não se pode dizer que as provas sejam insuficientes.
+Ademais, prova suficiente é a que, reduzindo ao mínimo desejável a margem de erro, conduz à formulação de juízo de certeza possível. Significa dizer: juízo revestido de confortadora probabilidade de exatidão.(TACRIM-SP rel. Souza Nery, Apel. N. 1.067.349-1Comarca de Ribeirão Preto).
+ .. " (fls. 88/89)
+Acórdão:
+" ..
+Diante desse cenário, patente a responsabilidade penal dos apelantes quanto a ambos os delitos recepcionados na r. sentença, observando-se que os policiais civis forneceram relatos harmônicos, objetivos e coerentes acerca das circunstâncias que envolveram o caso concreto, tendo ambos narrado que, após o recebimento de denúncia anônima dando conta da prática do narcotráfico no endereço descrito na exordial, que inclusive contava com expressa referência ao nome de Kennedy (fl. 11), passaram a monitorar o local de forma velada, oportunidade em que constataram que, por diversas vezes, os recorrentes atuavam em conjunto na promoção de atos típicos dessa atividade ilícita, a denotar, portanto, que mantinham vinculo associativo estável, tanto que, na data dos fatos, ambos foram flagrados recebendo das mãos de um varão não identificado sacolas plásticas contendo drogas, que posteriormente foram apreendidas pelas testemunhas policiais compromissadas, não existindo nenhum indício de que essas tivessem interesse em incriminá-los falsamente, a teor do que dispõe o artigo 156, do Código de Processo Penal.
+Aliás, tendo a Defesa do corréu Kennedy arrolado, também, esses policiais (fl. 77), a demonstrar a importância de suas narrativas, e não os tendo contraditado, motivo não há para que seus depoimentos sejam recebidos com a parcialidade pretendida em suas razões de apelo, além do que nenhuma razão concreta foi apontada, que se mostrasse apta a invalidar os seus relatos, não se prestando, por óbvio, por si só, a profissão dos mesmos para tanto, principalmente quando tal não foi fator impeditivo para que os arrolasse como depoentes de seu interesse.
+ ..
+Frise-se que o próprio acusado Maicon, a par de negar seu envolvimento com a mercancia espúria, confirmou a existência de drogas no interior da residência, e apontou que seu cunhado, o apelante Kennedy, já condenado definitivamente por tráfico de drogas (fl. 63), não só estava nesse local, como empreendeu fuga com a chegada da Polícia, não havendo que se descurar, ainda, que Maicon também confirmou que Kennedy ocupava, na época, a função de gerente de diversos pontos de vendas de drogas da Comarca, fato confirmado nos depoimentos dos policiais.
+Já a insubsistente versão exculpatória apresentada por Kennedy, dando conta de que não estava presente no imóvel em questão, sintomaticamente corroborada apenas por Amanda, sua amásia, que sequer presta compromisso, e que gritou para alertar os réus da chegada da polícia, não foi concretamente demonstrada, como bem exige a disciplina do artigo 156, do CPP, não tendo o mesmo sequer invocado, muito menos provado, a existência de álibi, daí porque em nada altera o quadro probatório indicativo das práticas criminosas a ele imputadas, pois não tem o condão de se sobrepor às narrativas, repita-se, sempre harmônicas, dos agentes públicos.
+Demais, como bem ressaltado pelo MM. Juiz a fl. 205, a informante Amanda em nenhum momento negou a existência de drogas e petrechos vinculados ao narcotráfico na residência, muito embora tenha procurado atribuir a propriedade exclusiva de todo esse material ao próprio irmão Maicon, pretendendo, com tal forma de proceder, isentar seu amásio, o corréu Kennedy, da responsabilidade penal.
+Indiferente ao deslinde do caso a alegação formulada em prol de Maicon, no sentido de que não foram juntadas imagens, conversas telefônicas, trocas de mensagens ou cadernos de contabilidade de vendas, vez que o estreito vínculo associativo que mantinha com o corréu Kennedy para a promoção do crime de tráfico de drogas, conforme antes já salientado, restou sobejamente comprovado pela prova oral. Demais, nem sempre traficantes habituais se comunicam de forma a deixar vestígios, acrescentando-se a tal a desnecessidade disso, diante da proximidade dos dois, inclusive porque um morava com a irmã do outro.
+Portanto, era mesmo de rigor a condenação dos acusados na forma recepcionada no édito monocrático, no qual foi realizada minuciosa análise do conjunto probatório produzido.
+ .. " (fls. 99/103).
+A fundamentação apresentada mostra-se idônea e em conformidade com a jurisprudência desta Corte. Para afastá-la é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA INVIÁVEL EM SEDE DE HABEAS CORPUS. PEDIDO DE RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DOS CRIMES QUE INDICAM O TRÁFICO HABITUAL. FUNDAMENTAÇÃO IDÔNEA. PEDIDOS SUBSIDIÁRIOS PREJUDICADOS. AGRAVO NÃO PROVIDO.
+- Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei n. 11.343/2006. Na espécie, tendo a Corte local, com arrimo no conjunto probatório produzido nos autos, constatado que os agravantes praticaram o delito de associação para o tráfico, é inviável desconstituir tal premissa em sede de habeas corpus, diante da necessidade de revolvimento fático-probatório, vedado na estreita via do mandamus, de cognição sumária. Precedentes.
+ ..
+- Agravo regimental não provido.
+(AgRg no HC 420.808/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 8/3/2018.)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.  ..  ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO QUANTO AO DELITO DO ARTIGO 35 DA LEI 11.343/2006. ESTABILIDADE E PERMANÊNCIA RECONHECIDAS NO ACÓRDÃO IMPUGNADO. COAÇÃO ILEGAL NÃO CARACTERIZADA.
+1. Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei 11.343/2006. Doutrina. Precedentes.
+2. Tendo as instâncias de origem reconhecido, com arrimo no conjunto probatório produzido nos autos, que o paciente integraria organização criminosa estável e permanente, está caracterizado o delito de associação para o tráfico, afastando-se a coação ilegal suscitada na impetração.
+3. Para se entender de modo diverso e desconstituir o édito repressivo, como pretendido no writ, seria necessário o exame aprofundado do conjunto probatório produzido nos autos, providência que é inadmissível na vi a estreita do habeas corpus.
+ ..
+REGIME INICIAL FECHADO DETERMINADO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS. ELEMENTOS PRÓPRIOS DO TIPO PENAL VIOLADO. DESCABIMENTO. ENUNCIADOS 718 E 719 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. CONCESSÃO DA ORDEM DE OFÍCIO.  ..
+2. Habeas corpus não conhecido. Ordem concedida de ofício para fixar o regime semiaberto para o cumprimento inicial da pena imposta ao paciente.
+(HC 392.153/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 7/6/2017.)" (fls. 257/261).
+Ante o exposto, voto no sentido de rejeitar os embargos de declaração.
