@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL E CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRATOS DO SFH. CELEBRAÇÃO ANTERIOR AO CDC. CONTRATOS DE MÚTUO HABITACIONAL REGIDOS PELO FCVS. NÃO APLICAÇÃO. TE ORIA DAS CARGAS DINÂMICAS. INVERSÃO DO ÔNUS DA PROVA. REEXAME. ÓBICE DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. Esta Corte tem o entendimento de que "o Código de Defesa do Consumidor não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação quando celebrados antes de sua entrada em vigor; e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS" (AgInt no AREsp 1.465.591/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/9/2019, DJe de 10/9/2019).
+3. A conclusão do Tribunal de origem, que atribuiu à parte autora o ônus da prova, está alinhada com o entendimento desta Corte firmado no sentido de impossibilidade da inversão do ônus da prova, devido à inaplicabilidade do Código de Defesa do Consumidor (CDC) ao presente caso. Ademais, a aplicação da teoria das cargas dinâmicas exige análise do caso concreto quanto à capacidade de produção de provas, e o reexame dessa questão esbarra na Súmula 7 do Superior Tribunal de Justiça (STJ).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALEJANDRO RUBEN VILLALOBOS PEREZ e SÔNIA MARIA TERESA MOENEN STROBEL da decisão em que que conheci do agravo para negar provimento ao recurso especial (fls. 701/706).
+A parte agravante alega que:
+(1) há prequestionamento implícito da matéria;
+(2) não foi considerada a consignação em pagamento do valor, conforme os arts. 890, 892 e 899 do Código de Processo Civil de 1973 (CPC/1973);
+(3) o Código de Defesa do Consumidor (CDC) deveria ser aplicado, porque o contrato é de execução diferida e de duração; e
+(4) o Tribunal de origem não aplicou a teoria das cargas dinâmicas, imputando à parte agravante o ônus exclusivo da prova, o que desrespeitou os princípios de equidade e colaboração processual, resultando em desvantagem injusta por conta de sua vulnerabilidade técnica e econômica.
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 741/753).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRATOS DO SFH. CELEBRAÇÃO ANTERIOR AO CDC. CONTRATOS DE MÚTUO HABITACIONAL REGIDOS PELO FCVS. NÃO APLICAÇÃO. TE ORIA DAS CARGAS DINÂMICAS. INVERSÃO DO ÔNUS DA PROVA. REEXAME. ÓBICE DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. Esta Corte tem o entendimento de que "o Código de Defesa do Consumidor não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação quando celebrados antes de sua entrada em vigor; e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS" (AgInt no AREsp 1.465.591/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/9/2019, DJe de 10/9/2019).
+3. A conclusão do Tribunal de origem, que atribuiu à parte autora o ônus da prova, está alinhada com o entendimento desta Corte firmado no sentido de impossibilidade da inversão do ônus da prova, devido à inaplicabilidade do Código de Defesa do Consumidor (CDC) ao presente caso. Ademais, a aplicação da teoria das cargas dinâmicas exige análise do caso concreto quanto à capacidade de produção de provas, e o reexame dessa questão esbarra na Súmula 7 do Superior Tribunal de Justiça (STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Verifico que os arts. 890, 892 e 899 do Código de Processo Civil (CPC) de 1973 não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do Tribunal de origem sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 535 do CPC de 1973, o que não foi feito no caso dos autos.
+No que diz respeito à suposta incidência das normas previstas no CDC, razão não assiste aos agravantes. Esta Corte tem o entendimento de que "o Código de Defesa do Consumidor não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação quando celebrados antes de sua entrada em vigor; e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS" (AgInt no AREsp 1.465.591/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/9/2019, DJe de 10/9/2019).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. IMÓVEL. SISTEMA FINANCEIRO DA HABITAÇÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. CONTRATO POSTERIOR. APLICAÇÃO. DENUNCIAÇÃO DA LIDE. DESCABIMENTO. ARTIGO 88 DO CDC. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA N. 568/STJ. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação indenizatória.
+2. A jurisprudência desta Corte consolidou-se no sentido de que o " ..  Código de Defesa do Consumidor não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação quando celebrados antes de sua entrada em vigor; e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS  .. " (AgInt no AREsp n. 1.465.591/MT, Quarta Turma, DJe de 10/9/2019). Precedentes.
+3. O Superior Tribunal de Justiça pacificou entendimento segundo o qual, em " ..  se tratando de relação de consumo, descabe a denunciação da lide, nos termos do artigo 88 do Código de Defesa do Consumidor  .. " (AgInt no AREsp n. 997.269/BA, Quarta Turma, DJe de 29/8/2018). Precedentes.
+4. Agravo interno no recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+(AgInt no REsp n. 2.105.692/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/4/2024, DJe de 10/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DAS TURMAS DA SEGUNDA SEÇÃO. SÚMULA N. 168/STJ. DECISÃO MANTIDA.
+1. Os embargos de divergência "têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum" (AgInt nos EREsp 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+2 Além disso, a inadmissibilidade dos embargos decorre, no caso, da ausência de similitude entre o acórdão embargado e o paradigma.
+3. O julgado paradigma AgRg no AgRg nos EDcl no REsp n. 323.519/MT considerou que haveria incidência do CDC em contrato de trato sucessivo que teria sido renovado durante a vigência do Código de Defesa do Consumidor, tema que não foi analisado pelo aresto da Terceira Turma.
+4. Ademais, os embargos de divergência são o recurso voltado para a uniformização de entendimento entre órgãos fracionários do STJ. Nesse sentido, tendo a jurisprudência se uniformizado no mesmo sentido do acórdão embargado, revelam-se incabíveis os embargos de divergência (Súmula n. 168/STJ).
+5. "O STJ possui firme o entendimento no sentido de que o Código de Defesa do Consumidor não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação quando celebrados antes de sua entrada em vigor; e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS, como no caso em apreço. Precedentes" (AgInt no AREsp 1465591/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/09/2019, DJe 10/09/2019).
+6. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.822.962/MT, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 10/2/2021, DJe de 17/2/2021.)
+Quanto à discussão relativa à não aplicação da teoria das cargas dinâmicas e da distribuição do ônus das provas, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fl. 564):
+Compulsando os autos, verifica-se que inexiste elemento de prova suficiente a demonstrar que o segundo réu tenha reajustado as prestações mediante a utilização de sistema diverso do pactuado, não servindo para tanto a mera alegação inicial de inobservância do contrato, sem que fique configurada de forma cabal a violação da cláusula contratual, cabendo ressaltar que a pertinente prova pericial deixou de ser produzida em razão da inércia da parte autora em cumprir a determinação de fl. 323 no sentido de juntar aos autos os comprovantes de reajuste de seus rendimentos de forma discriminada mensalmente (conforme certificado à fl. 338, verso), inexistindo, portanto, o alegado cerceamento de defesa.
+Deve se ver, assim, que não lograram os Autores comprovar suas alegações, sendo certo que lhes cabia tal ônus, nos termos do art. 333, I, do Código de Processo Civil, impondo-se a improcedência do pedido autoral.
+A conclusão do Tribunal de origem, que atribuiu à parte autora o ônus da prova, está alinhada com o entendimento desta Corte firmado no sentido de impossibilidade da inversão do ônus da prova, em razão da inaplicabilidade do CDC ao presente caso. Ademais, a aplicação da teoria das cargas dinâmicas exige análise do caso concreto quanto à capacidade de produção de provas, e o reexame dessa questão esbarra na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL. SEGURO HABITACIONAL. SFH. OMISSÃO. AUSÊNCIA. INVERSÃO DO ÔNUS DA PROVA. INAPLICABILIDADE DO CDC AOS CONTRATOS FIRMADOS ANTES DA SUA VIGÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DESTA CORTE. SÚMULA Nº 568 DO STJ. NECESSIDADE DA JUNTADA DE CONTRATOS E OUTROS DOCUMENTOS. INVERSÃO DE ENTENDIMENTO. REEXAME DOS ELEMENTOS DE CONVICÇÃO DOS AUTOS. VEDAÇÃO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. MATÉRIA ACERCA DA QUAL NÃO SE DECLINOU DISPOSITIVO DE LEI VIOLADO. FALTA DE COTEJO. APLICAÇÃO DA SÚMULA Nº 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Qualquer outra análise acerca da necessidade da juntada do contrato de financiamento, da forma como trazida no recurso especial, reclamaria o reexame dos elementos de convicção dos autos, procedimento sabidamente vedado em recurso especial, a teor do enunciado nº 7 da Súmula do STJ.
+4. Esta Corte pacificou o entendimento de que o Código de Defesa do Consumidor não se aplica aos contratos regidos pelo SFH, quando celebrados antes de sua entrada em vigor, e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS (AgInt no AREsp 1.558.363/MT, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 9/3/2020, DJe 11/3/2020).
+ ..
+7. Agravo interno não provido.
+(AgInt no REsp n. 1.852.301/SE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/5/2022, DJe de 1º/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pelas recorrentes, quanto à distribuição do ônus da prova, demandaria o reexame da matéria fática, o que é vedado em recurso especial.
+4. Nos termos da jurisprudência desta Corte, o Código de Defesa do Consumidor não se aplica aos contratos do SFH celebrados antes da entrada em vigor da Lei n. 8.078/1990.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.848.995/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/11/2020, DJe de 9/12/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
