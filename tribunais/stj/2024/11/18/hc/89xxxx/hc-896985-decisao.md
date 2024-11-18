@@ -1,0 +1,23 @@
+DECISÃO
+O presente writ, impetrado em benefício de GABRIEL DOS SANTOS FERREIRA - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 5002840-20.2021.8.21.0027) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 5002840-20.2021.8.21.0027), comporta parcial acolhimento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de nulidade da prisão em flagrante, em razão da busca domiciliar efetivada sem fundada suspeita. Subsidiariamente, postula a revisão da dosimetria, ao argumento de exasperação indevida da pena-base.
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+No caso dos autos, a Corte local, ao afastar a alegação de violação de domicílio, considerou que, na ocasião, os policiais civis adentraram ao apartamento para cumprir um mandado de prisão preventiva em face de Gabriel, além do fato de que Jéssica franqueou a entrada dos policiais ao apartamento (fl. 326).
+Evidenciada a existência da justificativa idônea para a entrada no recinto, consistente em cumprimento de mandado de prisão e autorização da moradora, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita.
+Todavia, em relação ao pleito dosimétrico, razão assiste à defesa. De fato, ao revisar a condenação, o Tribunal estadual ajustou a fração para negativar os 3 vetores destacados pelo Magistrado singular, consignando que (fl. 330 - grifo nosso):
+ ..
+Contudo, no presente caso, o julgador avaliou em desfavor do acusado as elementares da culpabilidade, circunstâncias e consequências.
+Destacou o juízo que "A culpabilidade, entendida como o grau de censurabilidade e reprovabilidade que o crime e o autor do fato merecem, encontra-se em grau ordinário, porque o réu era imputável e perfeitamente capaz de entender o caráter ilícito de sua conduta, bem como de determinar-se de acordo com este entendimento, de forma a possibilitar que pautasse seu agir de forma diversa", destacando que "As consequências do delito são reprováveis, vez que estimulam o consumo de entorpecentes pelos cidadãos, o que causa enormes prejuízos à saúde dos usuários e à segurança da comunidade", bem como reforçando que " As circunstâncias em que os fatos ocorreram, por fim, apresentam particularidades dignas de nota. Isso ocorre porque a grande quantidade de substância foi encontrada em cumprimento de uma prisão preventiva em face do acusado ".
+Vai mantida a apreciação acima, pelos seus próprios fundamentos, com mera readequação da pena a patamar mais ameno.
+Com efeito, as três vetoriais em desfavor do réu permitem uma mensuração da pena-base em 07 anos e 06 meses de reclusão, adotando-se critério mais afeito ao que esta Câmara normalmente fixa em casos afins.
+ ..
+Conforme ressaltado pelo Subprocurador-Geral da República Dr. Francisco Xavier Pinheiro Filho, as consequências são normais à espécie e não há culpabilidade exacerbada a justificar a exasperação, no que as referidas circunstâncias judiciais devem ser revistas (fl. 412).
+Redimensionando-se a pena: na primeira fase, com a manutenção da negativação de apenas 1 vetor (circunstâncias do delito), exaspera-se a pena-base em 1/6, chegando-se a 5 anos e 10 meses de reclusão, e 583 dias-multa. Na segunda fase, aplica-se a atenuante da confissão em 1/6, voltando-se a pena ao patamar mínimo, em razão da Súmula 231/STJ. Na terceira fase, ausentes causas de aumento ou de diminuição da pena, fixo a pena definitiva em 5 anos de reclusão e ao pagamento de 500 dias-multa.
+Mantido o regime inicial semiaberto de expiação.
+Em face do exposto, concedo parcialmente a ordem impetrada para redimensionar a pena imposta em 5 anos de reclusão, em regime semiaberto, e ao pagamento de 500 dias-multa.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. CUMPRIMENTO DE MANDADO DE PRISÃO EM DESFAVOR DO PACIENTE E ENTRADA FRANQUEADA PELA MORADORA DO IMÓVEL. DOSIMETRIA. PENA-BASE. NEGATIVAÇÃO DE TRÊS VETORIAIS. FUNDAMENTAÇÃO. AUSÊNCIA. REDIMENSIONAMENTO QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL MANIFESTO, NO PONTO.
+Ordem parcialmente concedida nos termos do dispositivo.
