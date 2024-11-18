@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA COLETIVA. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AFERIÇÃO DA LEGITIMIDADE DA PARTE EXEQUENTE. PRECLUSÃO. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. AGRAVO INTERNO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.  A legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegada a qualquer tempo e grau de jurisdição ou mesmo declarada de ofício. Precedentes.
+3. Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto por MARIA RAIMUNDA SILVA FRANCA contra  a  decisão  que  conheceu do agravo para negar provimento ao recurso especial.
+A parte agravante insiste na ocorrência de omissão no acórdão proferido pela Corte de origem, em especial, no que se refere à "violação ao art. 508 do CPC e a distinção sobre o precedente superior indicado" (fl. 326).
+Defende a inaplicabilidade da Súmula 7/STJ.
+Acrescenta que "a matéria de ordem pública pode ser apreciada a qualquer tempo e em qualquer grau de jurisdição, porém isto não significa que seu debate estará aberto ad eternum, pois estas questões também se sujeitam à preclusão e formação da coisa julgada material" (fl. 326).
+Por fim, pugna pela reconsideração da decisão agravada ou submissão da questão ao Colegiado.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA COLETIVA. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AFERIÇÃO DA LEGITIMIDADE DA PARTE EXEQUENTE. PRECLUSÃO. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. AGRAVO INTERNO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.  A legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegada a qualquer tempo e grau de jurisdição ou mesmo declarada de ofício. Precedentes.
+3. Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação ao art. 1.022 do CPC/2015, a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, conforme se extrai do excerto do acórdão recorrido:
+Compulsando os autos, depreende-se que a Apelante é servidora da rede de educação pública estadual e representada por outro sindicato, o SINPROESEMMA (Sindicato dos Trabalhadores da Educação Básica das Redes Públicas Estadual e Municipais do Estado do Maranhão).
+Com efeito, a Carta Magna, em seu art.8º, inciso II, veda "a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município".
+Logo, havendo entidade sindical mais específica que atue na mesma base territorial e que represente diretamente os servidores da educação do Estado do Maranhão, qual seja, o SINPROESEMMA, forçoso reconhecer a ilegitimidade ativa dos Apelantes, tendo em vista a vedação decorrente do princípio da unicidade sindical.
+Ressalta-se que, embora o SINTSEP possua legitimidade para a defesa dos direitos de todos os trabalhadores no serviço público do Estado do Maranhão, aquela configura-se como uma entidade "subsidiária", abrangendo apenas os trabalhadores cujas categorias não possuam uma entidade específica.
+O caso em apreço trata de professores da rede pública estadual, os quais possuem sindicato próprio para a defesa de seus direitos, qual seja, o SINPROESSEMMA (fl. 167).
+N ão se constata a existência de vícios, pois o acórdão explicitou claramente as razões pelas quais reconheceu a ilegitimidade ativa da recorrente, revelando-se, em verdade, mero inconformismo da parte.
+Concorde-se ou não com o resultado do julgamento, o acórdão não é omisso, porque a solução apresentada resolveu suficientemente a questão.
+Na jurisprudência do STJ:
+Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+No tocante à ilegitimidade da recorrente para o cumprimento individual da sentença coletiva, o entendimento adotado pela Corte de origem não destoa da jurisprudência do STJ, segundo a qual a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegado a qualquer tempo e grau de jurisdição ou mesmo declarada de ofício.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. HOMOLOGAÇÃO DOS CÁLCULOS TRANSITADOS EM JULGADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEGITIMIDADE. NÃO PRECLUSÃO. AGRAVO INTERNO DESPROVIDO.
+1. Não há se falar em violação aos arts. 489 e 1.022 do CPC/2015 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+2. Consoante a orientação jurisprudencial do STJ, a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegado a qualquer tempo e grau de jurisdição ou mesmo declarado de ofício.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO (AgInt no AREsp n. 2.264.116/MA, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/3/2024, DJe de 6/3/2024).
+PROCESSUAL CIVIL. FUNDAMENTAÇÃO CONSTITUCIONAL NÃO IMPUGNADA. SÚMULA Nº 126/STJ. CUMPRIMENTO DE SENTENÇA. AFERIÇÃO DA LEGITIMIDADE PARA A EXECUÇÃO DO TÍTULO EXECUTIVO JUDICIAL. PRECLUSÃO. REVISÃO DE FATOS E PROVAS. SÚMULA Nº 7/STJ.
+1. O Tribunal de origem, ao analisar a controvérsia, fundou o seu entendimento em preceito de natureza constitucional (princípio da unicidade recursal). Entretanto, em relação à referida fundamentação constitucional, não houve a interposição de recurso extraordinário, o que atrai a incidência da Súmula 126/STJ.
+2. "Esta Corte firmou orientação no sentido de não ser possível, em recurso especial, rever o entendimento do tribunal de origem acerca do teor do título em execução, para aferir eventual ofensa à coisa julgada, à luz do enunciado da Súmula 7/STJ". Precedente.
+3. "A legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegado a qualquer tempo e grau de jurisdição ou mesmo declarado de ofício, sem que se tenha configurada a reformatio in pejus". Precedente.
+4. Agravo interno não provido (AgInt no AREsp n. 2.260.975/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. PRECLUSÃO. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Afasta-se a ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+3. No mais, o acórdão recorrido foi proferido em harmonia com a jurisprudência desta Corte, firme no sentido de que a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição ou mesmo declarada de ofício.
+4. Agravo interno não provido (AgInt no AREsp n. 2.075.944/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe de 9/6/2022).
+Isso posto, nego provimento ao recurso.
