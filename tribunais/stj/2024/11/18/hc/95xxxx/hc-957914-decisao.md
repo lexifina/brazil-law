@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+APELAÇÃO CRIMINAL Roubo majorado (art. 157, §2º, II, c. c. art. 70, caput, ambos do Código Penal). Sentença Condenatória. Materialidade e autoria delitivas sobejamente comprovadas. Credibilidade dos relatos das vítimas e das testemunhas. Condenação mantida. Dosimetria escorreita. Particularidades do caso concreto que justificam a fixação da pena-base acima do mínimo legal. Majorante bem reconhecida (concurso de agentes). Cúmulo formal configurado (crimes praticados contra patrimônios de vítimas distintas). Exegese do art. 70, caput, do Código Penal. Regime inicial fechado mantido. Correção da sanção pecuniária. Recurso improvido, corrigido, ex officio, o erro material apontado.
+O paciente foi condenado às penas de 06 anos de reclusão, no regime inicial fechado, e à pena de 15 dias-multa, pela prática de roubo majorado, crime previsto no art. 157, §2º, II, na forma dos arts. 29 e 70, caput, todos do Código Penal.
+A defesa alega, em síntese, ilegalidades na dosimetria de pena, argumentando que a pena base foi elevada em 1/5 sem a devida fundamentação.
+Aduz que "diante da quantidade punitiva aplicada e das condições pessoais do agente, bem como do tempo de custódia cautelar, o regime semiaberto se mostra adequado, justo e proporcional à situação concreta, não havendo peculiaridade específica apta a indicar a maior gravidade da conduta e a justificar a necessidade de aplicação de regime prisional mais severo, destacando-se, ainda, que fora do sistema penitenciário o Acusado terá melhores condições de regeneração" (e-STJ fl. 18).
+Ao final, requer a concessão da ordem para reduzir a pena do paciente e fixar o regime inicial semiaberto.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024 e da jurisprudência desta Corte.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. PERÍODO NOTURNO E VÍTIMA IDOSA. FUNDAMENTAÇÃO IDÔNEA. NEGATIVAÇÃO DAS CONSEQUÊNCIAS DO DELITO. MOTIVAÇÃO CONCRETA. TERCEIRA FASE. CAUSA DE AUMENTO. FRAÇÃO DE 3/8. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O refazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+2. A valoração negativa das circunstâncias do crime de roubo se deu com fundamentação idônea, observando-se o modus operandi empregado na prática delitiva, pois o Tribunal estadual considerou o fato de que o crime foi praticado no período noturno - por volta das 5h -, quando normalmente as pessoas estão descansando e a vigilância é reduzida, aduzindo, ainda, que o ingresso do agente na residência da vítima - pessoa idosa e que morava sozinha - facilitou a prática do delito, estando em harmonia com a jurisprudência desta Corte Superior de Justiça.
+3. As consequências do crime devem ser entendidas como o resultado da ação do agente, sendo certo que "o trauma causado à vítima, que não se confunde com mero abalo passageiro, também é elemento hábil a justificar a avaliação negativa do vetor consequências do crime" (AgRg no HC n. 785.572/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/3/2023).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 804.611/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. OFENSA AO ART. 226 DO CPP. CONDENAÇÃO BASEADA EM RECONHECIMENTO FOTOGRÁFICO. PRESENÇA DE OUTRAS PROVAS PARA A MANTENÇA DE CONDENAÇÃO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MOTIVAÇÃO CONCRETA DECLINADA PARA FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. AGRAVO DESPROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+ ..
+4. O crime de roubo apresentou circunstâncias que fogem à normalidade dessa infração penal, tendo sido bem ponderadas na condenação ".. a ousadia destes agentes em abordar e render diversas vítimas em plena luz do dia no interior de um shopping center, bem como o elevado prejuízo causado à empresa vítima (cerca de 80 celulares novos e 4 tablets), produtos eletrônicos de substancial valor econômico".
+5. A premeditação do crime é fundamento idôneo para justificar a majoração da pena pela culpabilidade do réu, porquanto o fato de ter premeditado o crime desborda do tipo penal.
+6. Deve ser afastada a valoração negativa dos processos em andamento na dosagem das penas do três delitos, sendo, porém, descabido falar em redução da pena-base ao mínimo legal.
+7. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 862.570/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024, grifos acrescidos).
+Nesse contexto, a presença de circunstâncias judiciais desfavoráveis justifica a fixação de regime inicial mais gravoso, nos termos dos arts. 33, § 3º, e 59 do Código Penal.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
