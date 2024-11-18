@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ROGÉRIO DE SOUZA RONDON contra decisão da Presidência desta Corte Superior que, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do recurso especial (fls. 244-245).
+Na origem, a parte agravante se insurge contra acórdão proferido pelo TJSP, assim ementado (fls. 184-188):
+"APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. MANUTENÇÃO DO REGIME INICIAL SEMIABERTO. IMPOSSIBILIDADE DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INSUFICIÊNCIA DA MEDIDA. RECURSO DESPROVIDO.
+1. A valoração negativa das circunstâncias judiciais justifica a imposição de regime inicial imediatamente mais rigoroso, nos termos do art. 33, § 3º, CP (STJ. AgRg no HC n. 856.960/MS; AgRg no HC n. 732.043/DF).
+2. Os maus antecedentes do apelante também denotam a insuficiência da substituição da pena privativa de liberdade por restritivas de direitos e, consequentemente, impedem a concessão da medida, nos termos do art. 44, III, CP.
+3. Recurso desprovido".
+Nas razões de seu recurso especial, a parte recorrente suscita violação aos arts. 33, § 3º, e 44, do Código Penal, aduzindo, em síntese, que não há fundamento idôneo para o agravamento do regime prisional. Afirma que, em relação à condenação oriunda dos autos do processo nº 0071093-68.2003.8.26.0050, que tramitou perante a 14ª Vara Criminal da Capital, já se passou o período depurador de 5 (cinco) anos, previsto no art. 64, inciso I, do Código Penal, não havendo que se falar em reincidência (fl. 202). Além disso, destaca estarem preenchidos os requisitos necessários para substituição da pena privativa de liberdade por pena restritiva de direitos.
+Com contrarrazões (fls. 208-213), o recurso foi inadmitido na origem (fls. 216-219), ao que se seguiu a interposição de agravo (fls. 222-228). O recurso especial não foi conhecido pela decisão ora impugnada (fls. 244-245).
+No agravo regimental, a parte recorrente argumenta, em suma, ter indicado os dispositivos federais alvos da controvérsia, pugnando pelo afastamento da Súmula 284/STF.
+Instado a se manifestar, o MPF opinou pelo não provimento do agravo regimental (fls. 278-284).
+É o relatório.
+Decido.
+À luz das razões apresentadas pela parte agravante, reconsidero a decisão de fls. 244-245. Portanto, conheço do agravo e passo ao exame do recurso especial propriamente dito.
+Em relação à tese de ausência de fundamento idôneo para agravamento do regime prisional, há uma deficiência de compreensão, no recurso especial, dos reais argumentos que embasaram o aresto recorrido. Com efeito, embora o Tribunal local tenha entendido que a existência de circunstância judicial negativa (antecedentes) é suficiente para tal finalidade, nos termos da previsão contida no art. 33, § 3º, do Código Penal, a parte recorrente se restringe a afirmar que a reincidência teria sido alcançada pelo período depurador previsto no art. 64, I, do Código Penal. Assim, as razões recursais encontram-se dissociadas do que efetivamente restou decidido na origem, o que reclama incidência da Súmula 284/STF. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DUPLAMENTE QUALIFICADO. RAZÕES RECURSAIS QUE NÃO IMPUGNAM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. As razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia. Incidência da Súmula n. 284/STF.
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.482.371/TO, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 5/3/2024, DJe de 15/3/2024.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO APELO EXTREMO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 284 DO STF. INCIDÊNCIA. REGIME INICIAL FECHADO. PENA DEFINITIVA SUPERIOR A 8 ANOS DE RECLUSÃO. ARTIGO 33, § 2º, A, DO CÓDIGO PENAL. APLICAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se conhece de recurso especial cujas razões encontram-se dissociadas do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+ ..
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.812.405/CE, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 11/5/2021, DJe de 13/5/2021.)
+De todo modo, no que se refere ao regime prisional, não se infere desproporcionalidade na imposição de meio inicialmente mais gravoso para o desconto da reprimenda, pois, embora a pena seja inferior a 4 anos de reclusão, as circunstâncias judiciais implicaram majoração da pena-base (antecedentes), tratando-se de fundamento idôneo para fixação do regime inicial semiaberto. A propósito:
+"DIREITO PENAL. HABEAS CORPUS. FURTO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. DOSIMETRIA. PENA-BASE. CULPABILIDADE E MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM NÃO CONHECIDA. I. CASO EM EXAME
+ ..
+6. Quanto ao regime prisional, "a despeito do estabelecimento de sanção penal inferior a 4 (quatro) anos de reclusão, o Paciente é reincidente e foram reconhecidas circunstâncias judiciais desfavoráveis. Assim, a fixação do regime fechado para o início do cumprimento da pena foi devidamente fundamentado" (AgRg no HC n. 722.608/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/4/2022, DJe de 8/4/2022.)
+IV. Habeas corpus não conhecido".
+(HC n. 816.289/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 29/10/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. ESTELIONATO. REGIME PRISIONAL INICIAL FECHADO. PACIENTE REINCIDENTE. RECONHECIMENTO DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. PENA MENOR DE QUATRO ANOS DE RECLUSÃO. IRRELEVÂNCIA. PRECEDENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA DE DIREITOS. INCABÍVEL. ART. 44, INCISOS II E III, DO CÓDIGO PENAL. DETRAÇÃO. IRRELEVÂNCIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Não há manifesta ilegalidade a reclamar a concessão da ordem de ofício. Com efeito, a fixação do regime fechado para o início do cumprimento da pena foi devidamente fundamentada, visto que, mesmo tendo sido imposta sanção penal inferior a 4 (quatro) anos de reclusão, o agravante é reincidente e foi reconhecida circunstância judicial desfavorável (art. 33, §§ 2.º e 3.º, c/c o art. 59, ambos do Código Penal).
+ ..
+5. Agravo regimental não provido".
+(AgRg no HC n. 894.475/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 17/6/2024, DJe de 21/6/2024.)
+Por fim, sobre o pleito de substituição da pena privativa de liberdade por restritiva de direitos, saliento que a existência de circunstância judicial negativa (antecedentes) afasta a possibilidade de substituição da pena, além de ser indicativa de que a medida alternativa não se mostra socialmente recomendável, conforme bem destacado pelo Tribunal de origem (fls. 187-188). Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO TENTADO E AMEAÇA. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA E MULTIRREINCIDÊNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 44, § 3º, do Código Penal possibilita a concessão da substituição da pena ao condenado reincidente, desde que atendidos dois requisitos cumulativos: a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime, isto é, não seja reincidência específica.
+2. A presença de circunstâncias judiciais negativas justifica a não substituição da pena privativa de liberdade pela restritiva de direitos, uma vez que demonstra que a medida não se mostra socialmente recomendável nem suficiente para a prevenção e repressão do crime.
+3. Na espécie, em que pese estabelecida a reprimenda em menos de 4 anos de reclusão, o acusado é multirreincidente, a pena-base fora mantida acima do mínimo legal, em razão da presença de circunstância judicial desfavorável (antecedentes), e houve o emprego de ameaça à pessoa, tudo a tornar inviável a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44, do CP, uma vez que demonstra não ser a medida socialmente recomendável, nem suficiente à prevenção e repressão do crime.
+4. Agravo regimental não provido".
+(AgRg no AREsp n. 2.150.896/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE MUNIÇÕES DE USO RESTRITO. DECISÃO MONOCRÁTICA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DE MUNIÇÕES. FUNDAMENTAÇÃO IDÔNEA. REPRIMENDA RESTRITIVA DE DIREITOS. NÃO RECOMENDÁVEL. DETRAÇÃO. COMPETÊNCIA. CORTE DE ORIGEM. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. Não se caracteriza a alegada ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, recurso especial, com esteio em óbices processuais e na jurisprudência dominante desta Corte, hipótese ocorrida nos autos.
+2. A apreensão de elevada quantidade de munições (145 cartuchos de fuzil, calibre 7.62, marca CBC) efetivamente evidencia maior reprovabilidade na conduta do agente, motivo pelo qual autoriza a conclusão pela desfavorabilidade da circunstância judicial relativa à culpabilidade.
+3. As peculiaridades do caso concreto - notadamente a existência de circunstância judicial desfavorável - justifica, à luz do inciso III do art. 44 do Código Penal, que a substituição da reprimenda reclusiva por restritiva de direitos não se mostra medida socialmente recomendável.
+4. Haja vista que o Tribunal de origem alterou a sentença condenatória no tocante à dosimetria da reprimenda, cabe a ele a análise do instituto da detração, nos termos do art. 387, § 2º, do Código de Processo Penal, mormente porque esta Corte Superior não tem informações precisas acerca de por quanto tempo o acusado efetivamente esteve preso provisoriamente.
+5. Agravo regimental parcialmente provido tão somente para determinar que a Corte estadual aplique o instituto da detração em favor do recorrente, mantendo, quanto ao mais, a decisão impugnada".
+(AgRg no AREsp n. 848.928/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/2/2021, DJe de 18/2/2021.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, reconsidero a decisão agravada para conhecer do agravo e conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
