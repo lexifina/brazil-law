@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA DA COSTA NOVAIS -ESPÓLIO (ESPÓLIO) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 161/168)
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, o recorrente alegou violação aos arts. 1.022 e 647, parágrafo único e 648, I, do CPC, além de dissídio jurisprudencial, ao sustentar (1) negativa de prestação jurisdicional; (2) a antecipação do quinhão hereditário em favor do recorrido não respeita a necessária igualdade quanto ao valor, natureza e qualidade dos bens na partilha em relação aos demais herdeiros.
+(1) Da negativa de prestação jurisdicional
+O recorrente sustenta que o acórdão recorrido quedou-se silente relativamente ao período em que deverá perdurar a pensão fixada em favor do recorrido.
+No entanto, o Tribunal estadual foi claro ao consignar (1) não prosperar a intenção de limitar o tempo de pagamento da antecipação do quinhão e condições dos aluguéis do imóveis que compõem o Espólio; (2) o acervo hereditário é de elevado valor e o adiantamento perseguido não trará prejuízo ao Espólio nem aos herdeiros; sendo a quantia pleiteada pelo recorrido módica em relação à vastidão do acervo; confira-se:
+A alegação de omissão quanto ao tempo limite de pagamento da antecipação do quinhão e condições dos aluguéis dos imóveis que compõem o Espólio, do mesmo modo, não deve prosperar.
+O Acórdão impugnado destacou claramente que "comprova-se nos autos do Inventário a vastidão do acervo hereditário que compõe o espólio, cujo monte é de elevado valor, não havendo que se falar em impossibilidade de aferição da cota parte do Agravante, bem como de que o adiantamento perseguido trará prejuízo para o espólio ou para os demais herdeiros, havendo, neste ponto, situação diametralmente oposta que evidencia a possibilidade da antecipação tal como pretendida. Do mesmo modo, não há qualquer prejuízo à Fazenda Pública em razão de valores suficientes para pagamento dos tributos relativos aos bens do acervo".
+E ainda que "Como exemplo, pode-se citar os frutos de um único imóvel, de tantos que guarnecem o espólio, que somava a quantia mensal de R$ 32.000,00 (trinta e dois mil reais), no ano de 2017, o que denota que em verdade a pretensão da Parte Agravante torna-se além de justa, módica, frente aos frutos e bens que lhe pertencem a título de quinhão hereditário". (e-STJ, fls. 82/83 -sem destaque no original)
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+Afasta-se, portanto, a alegada violação.
+(2) Dos arts. 647, parágrafo único e 648, I, do CPC
+O recorrente reclama da impossibilidade de antecipação do quinhão hereditário, pois não observa a máxima igualdade possível quanto ao valor, natureza e qualidade dos bens na partilha em razão da antecipação do quinhão em valores monetários a apenas um dos herdeiros, sem que ainda se tenham apurados os débitos do espólio.
+No entanto, verifica-se que o recurso especial foi interposto de acórdão que deferiu tutela de urgência em favor do recorrido por entender configurados os seus requisitos, nos termos assim expressos:
+De acordo com os documentos colacionados a este recurso, comprova-se que o Requerente passa por tratamento médico que decorrem custos financeiros, além de comprovar as alegações de que está em dificuldades financeiras, já que, conforme a declaração de imposto de renda colacionado aos autos, residindo em Portugal, possui renda mensal de  1.144,00 (mil, cento e quarenta e quatro euros) - ID nº. 23845416.
+O documento de ID nº. 23845297, comprova que o Agravante paga mensalmente a título de aluguel do imóvel em que reside, a importância de  750,00 (setecentos e cinquenta euros), cuja vigência vige até julho de 2023.
+Por óbvio que nesta estreita via instrumental não há possibilidade de imiscuir-se quanto à exata apuração dos valores devidos a cada herdeiro a título de quinhão hereditário, todavia, certo é também que diante da situação urgente por que passa o Agravante, comprovada documentalmente neste recurso, comprovados o perigo da demora e o risco ao resultado útil do processo, além da probabilidade do direito, deve ser aplicada ao caso a regra insculpida no parágrafo único do art. 647, do CPC, de modo a possibilitar, excepcionalmente, o adiantamento de parte do quinhão que lhe pertence, com vistas à preservação de sua saúde e da condição digna de sobrevivência própria e se sua família.(e-STJ, fl. 50)
+O pacífico entendimento desta Corte, em sintonia com o disposto na Súmula nº 735 do STF, segue no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+Ademais, rever as conclusões adotadas pelo Tribunal estadual quanto ao preenchimento dos requisitos para a concessão da tutela de urgência, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula nº 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUCESSÕES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ARTS. 647, PARÁGRAFO ÚNICO E 648, I, DO CPC. ADIANTAMENTO DE QUINHÃO HEREDITÁRIO. ACÓRDÃO QUE DEFERE TUTELA DE URGÊNCIA. SÚMULAS NºS 735 DO STF E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
