@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO SÉRGIO DE SOUSA contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, nos autos do HC n. 1007801-98.2022.8.11.0000.
+Consta que o paciente foi condenado pela prática do crime de roubo majorado pelo emprego de arma de fogo e concurso de agentes (artigo 157, § 2, incisos I e II, do CP), à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto.
+Expedida a guia de execução penal (SEEU 0017576-03.2012.8.11.0002), o paciente não foi encontrado para dar início ao cumprimento da pena no regime fixado, e o juízo da execução determinou a expedição de mandado de prisão.
+A defesa impetrou habeas corpus pedindo a declaração da extinção da punibilidade pela prescrição da pretensão executória, e o Tribunal de Justiça denegou a ordem, pois não havia transcorrido o prazo prescricional desde a data do trânsito em julgado para a acusação.
+No presente habeas corpus contra o acórdão do Tribunal de Justiça, a defesa pede a declaração da extinção da punibilidade pela prescrição da pretensão executória.
+Foi postergada a análise do pedido liminar (fls. 143).
+O Ministério Público Federal apresentou parecer pela denegação da ordem. (fls. 197).
+A autoridade coatora prestou informações (fls. 201).
+É o relatório. DECIDO.
+Na presente impetração, a defesa busca o reconhecimento da prescrição da pretensão punitiva.
+Ocorre que o presente habeas corpus investe contra acórdão em substituição ao recurso próprio cabível, não podendo ser conhecido.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO. 1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.  ..  3. Agravo regimental desprovido" (AgRg no HC n. 738.224/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023).
+" ..  1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.  ..  6. Agravo regimental não provido" (AgRg no HC n. 857.913/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1/12/2023).
+Entretanto, tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, analiso a pretensão defensiva.
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento do AgRg no REsp n. 1.983.259, Rel. Ministro Sebastião Reis Júnior, DJe 3/11/2022, estabeleceu que o marco inicial para a contagem da prescrição da pretensão executória é a data do trânsito em julgado para ambas as partes.
+No caso dos autos, o paciente foi condenado à pena privativa de liberdade de 5 anos e 4 meses, a sentença transitou em julgado para a defesa em 19/03/2012 e para a acusação em 02/04/2012.
+Na data da prolação do acórdão recorrido (23/05/2022), ainda não havia transcorrido o prazo prescricional da pretensão executória, que é de 12 anos (art. 109, II, do Código Penal), razão pela qual não há ilegalidade na decisão impugnada, que está em consonância com o entendimento jurisprudencial do Superior Tribunal de Justiça.
+Embora no decorrer da tramitação deste habeas corpus já tenha transcorrido o prazo de 12 anos da data do trânsito em julgado, não é o caso de declaração de ofício de eventual prescrição da pretensão executória , pois tal decisão depende também da aferição de outras possíveis intercorrências cujas informações não constam no processo, tais como aquelas previstas no parágrafo único do art. 116 e incisos V e VI do art. 117, ambos do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Determino a expedição de ofício ao juízo de primeiro grau para que, ouvido o Ministério Público, analise a possível ocorrência da prescrição da pretensão executória.
+Publique-se. Intimem-se.
+EMENTA
