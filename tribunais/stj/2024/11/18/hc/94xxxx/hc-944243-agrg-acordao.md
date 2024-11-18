@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DENUNCIAÇÃO CALUNIOSA. ACORDO DE NÃO PERSEUÇÃO PENAL - ANPP. DISCRICIONARIEDADE DO MINISTÉRIO PÚBLICO. INEXISTÊNCIA DE DIREITO SUBJETIVO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. De acordo com entendimento já esposado pela Primeira Turma do Supremo Tribunal Federal, a possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado. A propósito: AgRg no REsp n. 2.018.531/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/10/2023.) Tendo o Parquet concluído que o ANPP é insuficiente para a prevenção e reprovação do crime, descabe ao Poder Judiciário impor ao Ministério Público a obrigação de ofertar o acordo em âmbito penal. (AgRg no AgRg no AREsp n. 2.481.691/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024.)
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ELISA MEDEIROS PEREIRA XAVIER contra decisão de minha relatoria que não conheceu do habeas corpus e afastou o apontado constrangimento ilegal (e-STJ fls. 141/145).
+Foi impetrado habeas corpus neste Superior Tribunal de Justiça contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ fl. 129):
+APELAÇÃO RECEBIDA COMO RECURSO EM SENTIDO ESTRITO. ART. 581, INC. I, C/C ART.395, DO CPP. PRECEDENTES. ART 339, CAPUT, DO CP. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, DO CPP. RECUSA MINISTERIAL EM VIRTUDE DE AÇÃO PENAL EM CURSO POR CRIMES RELEVANTES E PELO BENEFÍCIO NÃO SER CAPAZ DE REPRIMIR E PREVENIR O CRIME.
+A não aplicação do ANPP pelo titular da ação penal se deu pelo fato da ré já responder ação penal por delitos graves contra pessoas idosas, bem como por estar sendo denunciada por atribuir a policial civil a prática de crimes no cumprimento de diligências, na apuração dos crimes que ela responde no outro processo em curso, revelando que o benefício não alcançaria o objetivo de repressão e prevenção do crime, fundamentos que reputo suficientes para sua negativação, importando no prosseguimento da ação penal.
+RECURSO EM SENTIDO ESTRITO PROVIDO.
+Consta dos autos que a paciente, ora agravante, foi denunciada por denunciação caluniosa. O juízo de primeiro grau rejeitou a denúncia. Em sede recursal, a Corte de origem determinou o recebimento da denúncia, "sendo descabido o oferecimento do acordo de não persecução penal, no caso, considerando que a ré, à época da denúncia, já respondia a ação penal nº 5000672-82.2016.8.21.0039, pelos delitos de associação criminosa majorada, tortura, cárcere privado qualificado, expor a perigo pessoas idosas, retardar/deixar de prestar assistência à saúde de idoso, corrupção de menores, por fatos ocorridos no residencial de idosos sob sua responsabilidade, envolvendo fatos significativos de desrespeito a direitos de pessoa idosa. De igual modo, o benefício não alcançaria o objetivo de prevenção e repreensão do crime, eis que a ré atribuiu ao policial civil os crimes de ameaça, lesão corporal e supressão de documentos, que sabia não serem verdadeiros, quando a vítima cumpria diligências no residencial de idosos de propriedade da acusada para a apuração dos fatos objeto da ação penal acima referida" (e- STJ fls. 127/128).
+Sustentou a defesa que a paciente, ora agravante, preencheu todos os requisitos legais para a concessão da ANPP.
+Pleiteou, liminarmente, a suspensão da ação penal na origem. No mérito, pleiteia a concessão do benefício legal.
+Não conhecido e afastado o apontado constrangimento ilegal, a defesa interpôs o presente agravo regimental, no qual renova os argumentos da impetração. Argumenta, em suma, que o Ministério Público não motivou a recusa ao oferecimento da ANPP.
+Requer, ao final, seja reconsiderada a decisão agravada ou que o feito seja levado ao Colegiado, a fim de conceder a ordem pleiteada.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DENUNCIAÇÃO CALUNIOSA. ACORDO DE NÃO PERSEUÇÃO PENAL - ANPP. DISCRICIONARIEDADE DO MINISTÉRIO PÚBLICO. INEXISTÊNCIA DE DIREITO SUBJETIVO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. De acordo com entendimento já esposado pela Primeira Turma do Supremo Tribunal Federal, a possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado. A propósito: AgRg no REsp n. 2.018.531/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/10/2023.) Tendo o Parquet concluído que o ANPP é insuficiente para a prevenção e reprovação do crime, descabe ao Poder Judiciário impor ao Ministério Público a obrigação de ofertar o acordo em âmbito penal. (AgRg no AgRg no AREsp n. 2.481.691/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024.)
+2. Agravo regimental a que se nega provimento.
+VOTO
+Em que pese o esforço da combativa defesa, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Busca-se, no caso, seja deferido à paciente o acordo de não persecução penal.
+Ocorre que, tendo o Parquet concluído que o ANPP é insuficiente para a prevenção e reprovação do crime, descabe ao Poder Judiciário impor ao Ministério Público a obrigação de ofertar o acordo em âmbito penal.
+De acordo com entendimento já esposado pela Primeira Turma do Supremo Tribunal Federal, a possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado. A propósito: AgRg no REsp n. 2.018.531/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, D Je de 11/10/2023.)
+De minha relatoria:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO ART. 180, § 1º, DO CP. ACORDO DE NÃO PERSEUÇÃO PENAL - ANPP. DISCRICIONARIEDADE DO MINISTÉRIO PÚBLICO. REQUISITOS NÃO PREENCHIDOS. ART. 59 DO CP. AUMENTO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. REGIME PRISIONAL SEMIABERTO. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. De acordo com entendimento já esposado pela Primeira Turma do Supremo Tribunal Federal, a possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado. A propósito: AgRg no REsp n. 2.018.531/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/10/2023.)
+2. Tendo o Parquet concluído que o ANPP é insuficiente para a prevenção e reprovação do crime, descabe ao Poder Judiciário impor ao Ministério Público a obrigação de ofertar o acordo em âmbito penal.
+3. O fato do recorrente, após receber o veículo, produto de crime anterior, clonar a placa, gerando dezenas de multa em nome de terceiro que, por isso, perdeu sua CNH e teve que contratar advogado para anular as infrações administrativas, extrapola em muito o tipo penal e autoriza o aumento na primeira fase da dosimetria.
+4. O regime prisional semiaberto é mesmo o adequado ao caso, considerando a pena aplicada (3 anos, 2 meses e 15 dias de reclusão) e a existência de circunstância judicial desfavorável.
+5. Agravo regimental improvido. (AgRg no AgRg no AREsp n. 2.481.691/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024.)
+Veja-se, ainda:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACORDO DE NÃO PERSECUSSÃO PENAL. ANPP. RECEBIMENTO DA DENÚNCIA. INEXISTÊNCIA DE DIREITO SUBJETIVO AO ANPP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A irresignação da Defesa não merece prosperar, pois não foram apresentados argumentos novos, aptos a infirmar os fundamentos da decisão agravada, a qual está em consonância com o entendimento jurisprudencial do Superior Tribunal de Justiça quanto ao tema.
+2. Não há direito subjetivo do investigado ao ANPP. Cabe ao Ministério Público a opção de ofertá-lo ou não, conforme análise do caso concreto, caso preenchidos os requisitos legais, e se considerar necessário e suficiente para reprovação e prevenção do crime.
+3. Agravo regimental não provido. (AgRg no REsp n. 2.056.036/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26/8/2024, D Je de 29/8/2024.)
+EMENTA PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). DIREITO SUBJETIVO INEXISTENTE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do STJ firmou entendimento segundo o qual não há direito subjetivo do réu à celebração do ANPP, cabendo ao órgão de acusação, exercendo sua discricionariedade de maneira motivada, optar pela oferta ou não da proposta do acordo, com possibilidade de controle pelo órgão superior do Ministério Público na forma do art. 28-A, § 14, do CPP.
+2. Agravo regimental não provido. (AgRg no AR Esp n. 2.545.491/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, D Je de 20/8/2024.)
+Assim, não há como reconhecer o apontado constrangimento ilegal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
