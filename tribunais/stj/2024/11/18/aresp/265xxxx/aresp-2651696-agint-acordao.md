@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/11/2024 a 18/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE CONSUMO. QUEDA DE PASSAGEIRO EM COLETIVO. PROVA MÍNIMA. INVERSÃO DO ÔNUS PROBATÓRIO. SENTENÇA ANULADA. INSTRUÇÃO PROCESSUAL REABERTA. ACÓRDÃO LOCAL EM SINTONIA COM A JURISPRUDÊNCIA (SÚMULA 83/STJ). AGRAVO INTERNO DESPROVIDO.
+1. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+2. No caso, o Tribunal de Justiça anulou a sentença de improcedência, determinando a reabertura da fase de instrução processual, concluindo que "o autor se desincumbiu de comprovar minimamente os fatos constitutivos do seu direito, por meio dos documentos anexados à inicial, quais sejam boletim de ocorrência e relatórios médicos conformando as lesões alegadas".
+3. Acórdão recorrido em sintonia com a jurisprudência do STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por VEGA S.A. TRANSPORTE URBANO contra decisão proferida por esta Relatoria (e-STJ, fls. 334-338), que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nas razões do agravo interno (e-STJ, fls. 342-355), a agravante aduz a ocorrência de violação dos dispositivos apontados no recurso especial, alegando a ocorrência de omissão no acórdão recorrido; e a não incidência da Súmula 7/STJ. Repisa os argumentos do recurso especial apontando a ausência de prestação jurisdicional; a ilegitimidade passiva; a vedação de decisão surpresa, sem ouvir previamente as partes sobre as questões de fato ou de direito conhecidas de ofício; ofensa ao princípio do contraditório e da ampla defesa.
+Não foi apresentada impugnação (e-STJ, fl. 359).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE CONSUMO. QUEDA DE PASSAGEIRO EM COLETIVO. PROVA MÍNIMA. INVERSÃO DO ÔNUS PROBATÓRIO. SENTENÇA ANULADA. INSTRUÇÃO PROCESSUAL REABERTA. ACÓRDÃO LOCAL EM SINTONIA COM A JURISPRUDÊNCIA (SÚMULA 83/STJ). AGRAVO INTERNO DESPROVIDO.
+1. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+2. No caso, o Tribunal de Justiça anulou a sentença de improcedência, determinando a reabertura da fase de instrução processual, concluindo que "o autor se desincumbiu de comprovar minimamente os fatos constitutivos do seu direito, por meio dos documentos anexados à inicial, quais sejam boletim de ocorrência e relatórios médicos conformando as lesões alegadas".
+3. Acórdão recorrido em sintonia com a jurisprudência do STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar, porquanto não foram apresentados argumentos aptos a modificar a decisão vergastada.
+Conforme consignado na decisão agravada, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. INEXISTÊNCIA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+ ..
+9. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.090.707/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022)
+O eg. Tribunal de origem, ao analisar o recurso, consignou o seguinte (e-STJ, fls. 192-197):
+"Inicialmente, não merece acolhimento a preliminar de ilegitimidade passiva ad causam suscitada nas contrarrazões, considerando que a mesma deve ser analisada de acordo com a teoria da asserção, ou seja, à luz das afirmações do demandante, enquanto a responsabilidade da promovida quanto aos danos alegados pelo autor consiste em questão de mérito, a ser aferida de acordo com as provas constantes dos autos.
+No caso em análise, verifica-se a existência de relação de consumo entre as partes, com a aplicação das regras do Código de Defesa do Consumidor (Lei nº. 8.078/90), cuja causa de pedir consiste em fato do serviço, segundo o qual o autor, na qualidade de passageiro de coletivo da Linha Borges de Melo, teria sido vítima de acidente causado por preposto da empresa promovida.
+Na origem, o magistrado julgou extinto o feito com resolução de mérito, julgando improcedente o feito, sob a fundamentação, em suma, de que o autor não se desincumbiu de comprovar os fatos constitutivos do seu direito.
+No entanto, apesar da existência da relação de consumo entre as partes, tratando-se a promovida de concessionária de serviço público, o magistrado de piso deixou de observar as regras do Código de Defesa do Consumidor, especificamente no tocante à inversão do ônus da prova.
+A inversão do ônus da prova pode decorrer da lei (ope legis), quando se tratar da responsabilidade pelo fato do produto ou do serviço (arts. 12 e 14 do CDC), ou por determinação judicial (ope judicis), na hipótese de responsabilidade por vício no produto ou no serviço (art. 18 do CDC).
+ ..
+Assim, na hipótese de responsabilidade por fato do serviço (acidente de consumo), como no caso dos autos, a inversão do ônus da prova se constitui ope legis e, no sentido de elidir a sua responsabilidade, incumbe ao fornecedor de serviços provar que, tendo prestado o serviço, o defeito inexiste ou a culpa exclusivado consumidor ou de terceiro, nos termos do art. 14, § 3º, do CDC, in verbis:
+ ..
+Assim, por se operar-se automaticamente, nos termos da lei, a inversão do ônus da prova, quando tratar-se a demanda de acidente de consumo, independe de requerimento da parte ou de determinação judicial, consistindo em norma de ordem púbica e de interesse social, cuja inobservância enseja a nulidade da sentença, em razão da configuração de cerceamento de defesa.  ..
+Desta feita,, considerando que o autor se desincumbiu de comprovar minimamente os fatos constitutivos do seu direito, por meio dos documentos anexados à inicial, quais sejam boletim de ocorrência e relatórios médicos conformando as lesões alegadas, conclui-se pela imprescindibilidade de cassação da sentença, no sentido de que seja reaberta a fase de instrução processual, seguindo as regras de inversão do ônus da prova." (Sem grifo no original)
+Reitera-se que, a despeito de toda a argumentação, a parte recorrente não demonstrou de que forma o Tribunal de origem teria violado os dispositivos apontados. Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. MATÉRIA DE OR DEM PÚBLICA. PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS NºS 283 E 284/STF. MULTA. ART. 523, § 1º, DO CPC/2015. AFASTAMENTO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de discussão, pelo tribunal de origem, acerca das questões ventiladas no recurso especial (arts. 525, § 1º, e 485, VI, do CPC/2015) acarreta falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que mesmo as questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional e não houver insurgência da questão no momento oportuno.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Aplicação das Súmulas nºs 283 e 284/STF.
+6. Conforme entendimento desta Corte Superior, a multa a que se refere o art. 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a discussões a respeito do débito, o que não é o caso dos autos.
+7. Agravo interno não provido.
+(AgInt no AgInt no AR Esp n. 1.877.822/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, D Je de 31/8/2022.)
+Demais disso, constata-se que o entendimento sufragado pelo Tribunal de Justiça está em sintonia com a jurisprudência do STJ, senão vejamos:
+AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ACIDENTE DE CONSUMO. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. RELAÇÃO DE CONSUMO. ART. 14, § 3º, DO CDC. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015.
+2. "O CDC, com o objetivo de facilitar a defesa, em juízo, dos direitos dos consumidores-vítimas dos acidentes de consumo, conferindo-lhes maior proteção, estabeleceu hipótese legal de inversão do ônus da prova, determinando que cabe ao fornecedor, no desiderato de se eximir de responsabilidade, comprovar alguma das excludentes previstas no § 3º do art. 14 do CDC, ou seja, que o defeito inexiste ou que o dano resulta de culpa exclusiva do consumidor ou de terceiro" (REsp 1.875.164/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/11/2020, DJe 19/11/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.830.885/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/4/2022, DJe de 7/4/2022.)
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. FALHA NA PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. ALUNO PORTADOR DO TRANSTORNO DO ESPECTRO AUTISTA. ALEGAÇÃO DE QUE FOI "CONVIDADO A SE RETIRAR" DA ESCOLA. RESPONSABILIDADE POR FATO DO SERVIÇO. EXCLUDENTES. ÔNUS DA PROVA. FORNECEDOR. ART. 14, § 3º, DO CDC.
+1. Ação ajuizada em 08/06/2015. Recurso especial interposto em 04/04/2019 e concluso ao Gabinete em 28/11/2019.
+2. O propósito recursal consiste em dizer a qual das partes incumbe o ônus de comprovar a falha na prestação dos serviços educacionais ou, por outro lado, a ausência de defeito, no que concerne ao tratamento dispensado ao aluno portador de Transtorno do Espectro Autista e ao alegado "convite" para se retirar da instituição de ensino.
+3. De acordo com o disposto no art. 14 do CDC, o fornecedor responde, independentemente de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+4. O defeito do serviço se apresenta como pressuposto especial à responsabilidade civil do fornecedor pelo acidente de consumo, devendo ser averiguado conjuntamente com os demais pressupostos da responsabilidade civil objetiva, quais sejam, a conduta, o nexo de causalidade e o dano efetivamente sofrido pelo consumidor.
+5. O CDC, com o objetivo de facilitar a defesa, em juízo, dos direitos dos consumidores-vítimas dos acidentes de consumo, conferindo-lhes maior proteção, estabeleceu hipótese legal de inversão do ônus da prova, determinando que cabe ao fornecedor, no desiderato de se eximir de responsabilidade, comprovar alguma das excludentes previstas no § 3º do art. 14 do CDC, ou seja, que o defeito inexiste ou que o dano resulta de culpa exclusiva do consumidor ou de terceiro.
+6. Demonstrando o consumidor, na ação por si ajuizada, que o dano sofrido decorreu do serviço prestado pelo fornecedor, a esse último compete comprovar, por prova cabal, que o evento danoso não derivou de defeito do serviço, mas de outros fatores.
+7. Recurso especial conhecido e provido.
+(REsp n. 1.875.164/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/11/2020, DJe de 19/11/2020.)
+Incide, no ponto, o óbice da Súmula 83/STJ.
+Por fim, ratifica-se que rever o entendimento lançado no v. acórdão recorrido quanto às questões apontadas demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do STJ.
+A propósito, guardadas as devidas particularidades:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALTA DE PERTINÊNCIA TEMÁTICA. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. OFENSA AO PRINCÍPIO DA NÃO SURPRESA. INEXISTÊNCIA. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. É firme a orientação do STJ de que a impertinência temática do dispositivo legal apontado como ofendido resulta na deficiência das razões do recurso especial, fazendo incidir a Súmula n. 284 do STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. "Inexiste violação ao princípio da não-surpresa, porquanto as questões relativas à análise dos pressupostos processuais e das condições da ação constituem decorrência lógica da propositura da demanda inicial, que são analisados à luz da teoria da asserção, a partir da narrativa da petição inicial" (AgInt no AR Esp n. 2.250.065/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, D Je de 25/10/2023).
+6. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AR Esp n. 2.446.525/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/4/2024, D Je de 2/5/2024.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
