@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL DE FLS. 13.284/13.285. PEDIDO DE RETIRADA DO FEITO DA PAUTA DE JULGAMENTO EM SESSÃO VIRTUAL. INDEFERIMENTO. INTERPOSIÇÃO APÓS O PRAZO DE 5 DIAS PREVISTO NA LEI N. 8.038/1990. RECURSO INTEMPESTIVO E INCABÍVEL. PRONUNCIAMENTO JURISDICIONAL SEM CONTEÚDO DECISÓRIO. NATUREZA JURÍDICA DE DESPACHO. IRRECORRIBILIDADE. PRECEDENTES.
+Agravo regimental não conhecido.
+RELATÓRIO
+Sérgio Ribeiro Cavalcante interpõe agravo regimental às fls. 13.284/13.285 contestando, em intricada petição, o despacho de fls. 13.270/13.271, que indeferiu o pedido de retirada dos agravos regimentais de fls. 10.159/10.165; 10.166/10.172; e 10.186/10.203 das pautas de julgamento virtual.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL DE FLS. 13.284/13.285. PEDIDO DE RETIRADA DO FEITO DA PAUTA DE JULGAMENTO EM SESSÃO VIRTUAL. INDEFERIMENTO. INTERPOSIÇÃO APÓS O PRAZO DE 5 DIAS PREVISTO NA LEI N. 8.038/1990. RECURSO INTEMPESTIVO E INCABÍVEL. PRONUNCIAMENTO JURISDICIONAL SEM CONTEÚDO DECISÓRIO. NATUREZA JURÍDICA DE DESPACHO. IRRECORRIBILIDADE. PRECEDENTES.
+Agravo regimental não conhecido.
+VOTO
+De plano, além de incabível, o recurso é manifestamente intempestivo.
+Consoante disciplinam os arts. 258 do RISTJ e 39 da Lei n. 8.038/1990, o prazo para a interposição do agravo regimental no âmbito criminal é de 5 dias.
+Confiram-se: AgRg nos EDcl no AREsp n. 1.998.322/PB, Ministra Laurita Vaz, Sexta Turma, DJe 15/2/2022; AgRg no HC n. 630.581/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020; AgRg no AREsp n. 1.716.560/SE, Ministro Felix Fischer, Quinta Turma, DJe 17/12/2020; AgRg no AREsp 1.625.414/SP, de minha relatoria, Sexta Turma, DJe 3/11/2020; entre outros.
+Com efeito, depreende-se dos autos que o despacho agravado foi disponibilizado no Diário da Justiça eletrônico em 6/3/2023, considerando-se publicado no dia 7/3/2023, terça-feira (fl. 13.273). Contudo, a petição de agravo regimental foi recebida neste Superior Tribunal tão somente em 23/3/2023 (fl. 13.284), ou seja, quando já havia decorrido o prazo legal de 5 dias para a sua interposição (art. 258 do RISTJ).
+Na mesma linha: RCD no RHC n. 172.645/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2023; AgRg no AREsp n. 2.212.301/RO, Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe 17/2/2023; AgRg no HC n. 754.006/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 17/2/2023; e RCD no AREsp n. 2.149.797/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/11/2022.
+Além disso, conforme o art. 1.001 do Código de Processo Civil, não cabe recurso contra despacho desprovido de conteúdo decisório.
+No caso, o ato ordinatório ora impugnado apenas manteve o julgamento dos agravos regimentais em sessão virtual, não tendo nenhum conteúdo decisório sobre o mérito da causa; possui simplesmente natureza jurídica de despacho, sendo, por isso, ato irrecorrível.
+A esse respeito: AgRg no AgRg no AREsp n. 2.380.806/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 24/11/2023; AgRg no RtPaut no HC n. 707.060/RS, Ministra Laurita Vaz, Sexta Turma, DJe 28/3/2023; AgRg no RtPaut no AREsp n. 2.186.572/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 15/12/2022; AgRg no AREsp n. 1.959.628/SP, de minha relatoria, Sexta Turma, DJe 25/4/2022; AgInt no RtPaut no CC n. 171.408/MG, Ministro Herman Benjamin, Primeira Seção, DJe 28/3/2022; AgInt no AgInt no RtPaut no REsp n. 1.825.459/BA, Ministro Gurgel de Faria, Primeira Turma, DJe 26/2/2021; EDcl nos EDcl no AgRg no REsp n. 1.765.139/PR, Ministro Felix Fischer, Quinta Turma, DJe 18/2/2021; e AgRg no AREsp n. 374.202/RJ, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 20/8/2019.
+Ante o exposto, não conheço do agravo regimental de fls. 13.284/13.285.
