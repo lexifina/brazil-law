@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FACTA FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO (outro nome: FACTA FINANCEIRA S.A. ), com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda, no que toca ao tema recursal, os seguintes termos (fls. 155-157):
+APELAÇÕES CÍVEIS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL.
+ ..
+HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. A QUESTÃO DOS HONORÁRIOS NAS AÇÕES REVISIONAIS DEVE SEGUIR A TESE FIRMADA PELO EGRÉGIO STJ, EM SEDE DE RECURSO REPETITIVO, AO APRECIAR O TEMA 1076.
+NO CASO, A AUTORA, AO AJUIZAR A DEMANDA, ATRIBUIU À CAUSA O VALOR DE R$ 157.377,50, O QUE INDICA SER O PROVEITO ECONÔMICO OBTIDO (DIFERENÇA ENTRE O VALOR TOTAL COBRADO E O DEVIDO APÓS A REVISÃO DOS JUROS), CONFORME CÁLCULOS E TABELA COLACIONADA NA PETIÇÃO INICIAL.
+ASSIM, OBSERVADOS OS CRITÉRIOS SUPRARREFERIDOS, CONSIDERANDO QUE A AÇÃO FOI AJUIZADA EM 01/07/2022, COM A REVISÃO DE CINCO CONTRATOS, BEM COMO A SUCUMBÊNCIA MÍNIMA DA AUTORA, CABÍVEL A A MODIFICAÇÃO DA VERBA, A FIM DE FIXÁ-LA NOS TERMOS DO ARTIGO 85, §2º, DO CPC, EM 12% SOBRE O VALOR DA CAUSA, JÁ INCLUÍDOS OS HONORÁRIOS RECURSAIS, DE ACORDO COM OS PARÂMETROS DESTA CÂMARA EM CASOS ANÁLOGOS. NO PONTO, RECURSO DA AUTORA PROVIDO.
+APELAÇÃO DA RÉ DESPROVIDA.
+APELAÇÃO DA AUTORA PARCIALMENTE PROVIDA.
+UNÂNIME.
+Nas razões do recurso especial, a recorrente alega ofensa ao art. 85, § 2º, do CPC, visto que a verba honorária deveria ser fixada "sobre o valor da condenação ou do proveito econômico", observado o patamar máximo de 10%.
+Sem contrarrazões (fl. 198), sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 201-205).
+É, no essencial, o relatório.
+O recurso comporta provimento em parte.
+As alegações da recorrente quanto à análise das variantes legais para sopesamento da fixação da verba honorária ("para a fixação dos honorários do advogado, incumbe ao juiz atentar para o grau de zelo do profissional, ao lugar da prestação do serviço, à natureza e importância da causa, ao trabalho realizado pelo advogado e ao tempo exigido para o seu serviço" - fl. 167) não tem nenhuma relevância na análise posta, visto que o provimento dado à apelação da ora recorrida caminhou na sua fixação pelo mínimo legal previsto no art. 85, § 2º, que expressamente determina que os "honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento".
+Depreende-se facilmente das razões do acórdão recorrido que o Tribunal de origem fixou a verba honorária dentro do mínimo legal (10% sobre o valor da causa), tendo acrescido 2% em razão do desprovimento da apelação da recorrente, o que também não comporta censura, visto que a majoração pelo desprovimento ou não conhecimento de eventual recurso é imposição legal contida no § 11 do art. 85 do CPC.
+Isso porque o aumento da verba honorária prevista no art. 85, § 11, do CPC tem cabimento quando presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Inclusive, a comprovação de trabalho adicional não é sequer requisito para legitimar a majoração da verba:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO RECURSAL. AUSÊNCIA DO NÚMERO DE CÓDIGO DE BARRAS NO COMPROVANTE DE PAGAMENTO BANCÁRIO. REGULARIZAÇÃO QUE DEPENDE DO RECOLHIMENTO EM DOBRO NO PRAZO ESTIPULADO. DUPLO JUÍZO DE ADMISSIBILIDADE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. Aplica-se o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), impondo a majoração do percentual já fixado, relativo aos honorários advocatícios, independe de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo, portanto, devida mesmo quando não apresentadas contrarrazões.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.145.179/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/11/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. CABIMENTO. OMISSÃO RECONHECIDA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+ ..
+2. A Segunda Seção, no julgamento do AgInt nos EREsp 1.539.725/DF, concluiu ser devida a majoração da verba honorária sucumbencial, nos termos do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: "a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (Rel. Ministro ANTONIO CARLOS FERREIRA, DJe de 19.10.2017).
+ ..
+4. Embargos de declaração acolhidos, para majorar os honorários advocatícios.
+(EDcl no AgInt no AREsp n. 2.572.154/MS, relator Ministro Raul Araújo, Quarta Turma, DJe de 13/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS DE TERCEIRO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO DEVIDA.
+ ..
+3. Impõe-se a majoração do percentual já fixado, relativo aos honorários advocatícios, independentemente de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo, portanto, devida mesmo quando não apresentadas contrarrazões.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.536.654/GO, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 11/9/2024.)
+Por seu turno, observado o mínimo e máximo legal e a necessidade de majoração, a revisão do percentual aplicado ou mesmo da majoração empregada não comporta conhecimento, pois demandaria reexame do acervo fático dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+5. Modificar o entendimento do Tribunal local (acerca do percentual fixado como honorários advocatícios e da distribuição da sucumbência) exigiria reexame de matéria fático-probatória, também inviável devido ao óbice da Súmula 7/STJ.
+(AgInt no REsp n. 2.155.885/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/10/2024.)
+1. O acolhimento da pretensão recursal, para revisar o entendimento do tribunal de origem quanto ao percentual fixado a título de honorários advocatícios, tendo sido observado o limite legal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+(AgInt no AREsp n. 2.587.032/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 25/9/2024.)
+Por outro lado, cabível a reforma do acórdão recorrido para readequação da base de incidência da verba honorária.
+Iss o porque o Tribunal de origem partiu da presunção de que o valor da causa equivaleria ao proveito econômico, sendo que, em situações análogas à dos autos (ações revisionais de contratos bancários), o STJ legítima a fixação da verba honorária sobre o proveito econômico, substanciado na diferença entre o valor originalmente cobrado e o apurado como efetivamente devido, a ser apurado em liquidação de sentença.
+Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REVISIONAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. APLICAÇÃO DO ART. 85, § 2º, DO CPC/2015. CONDENAÇÃO À REPETIÇÃO DE INDÉBITO QUE DEVE PAUTAR OS HONORÁRIOS ADVOCATÍCIOS. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência desta Corte se firmou no sentido de que "Os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo artigo 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, por exemplo, porque irrisória, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (REsp 1.746.072/PR, Segunda Seção, DJe de 29/03/2019). Assim, havendo condenação à repetição do indébito, esse valor é que deverá servir de base de cálculo dos honorários advocatícios, porquanto reflete o proveito econômico obtido pelo recorrente (autor) na demanda, por corresponder ao resultado da diferença entre o valor originalmente cobrado e o apurado como efetivamente devido" (REsp 1.986.909/RS, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023).
+2. Agravo interno provido. Recurso especial provido, para determinar que a base de cálculo dos honorários advocatícios devidos ao patrono do agravante corresponda ao proveito econômico obtido na demanda.
+(AgInt nos EDcl no REsp n. 2.057.250/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/8/2023.)
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO C/C REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. OBSERVÂNCIA DOS LIMITES DA LIDE. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TERMO INICIAL. ASSINATURA DO CONTRATO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+1. Ação revisional de contratos de empréstimo c/c repetição de indébito ajuizada em 12/12/2018, da qual foi extraído o presente recurso especial interposto em 25/01/2021 e concluso ao gabinete em 24/03/2022.
+ ..
+6. Os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo artigo 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, por exemplo, porque irrisória, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (REsp 1.746.072/PR, Segunda Seção, DJe de 29/03/2019). Assim, havendo condenação à repetição do indébito, esse valor é que deverá servir de base de cálculo dos honorários advocatícios, porquanto reflete o proveito econômico obtido pelo recorrente (autor) na demanda, por corresponder ao resultado da diferença entre o valor originalmente cobrado e o apurado como efetivamente devido.
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.986.909/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 2/3/2023.)
+Assim, dou provimento em parte ao recurso especial para, mantido o percentual fixado na origem (12%), fixar a incidência da verba honorária sobre o valor atualizado do proveito econômico.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS. LIMITE LEGAL OBSERVADO. MAJORAÇÃO DEVIDA. REVISÃO DE PERCENTUAL. SÚMULA N. 7/STJ. REVISIONAL DE CONTRATO BANCÁRIO. HONORÁRIOS ADVOCATÍCIOS. BASE OPONÍVEL: PROVEITO ECONÔMICO. PRECEDENTES. RECURSO ESPECIAL PROVIDO EM PARTE.
