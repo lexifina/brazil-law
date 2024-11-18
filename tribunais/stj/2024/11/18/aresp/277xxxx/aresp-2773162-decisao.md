@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - RECURSO DA DEFENSORIA PÚBLICA ESTADUAL - HONORÁRIOS ADVOCATÍCIOS CONTRA A PESSOA JURÍDICA DE DIREITO PÚBLICO À QUAL PERTENCE - POSSIBILIDADE - REPERCUSSÃO GERAL - TESE FIXADA NO JULGAMENTO DO LEADING CASE (RE 1.140.005-RJ) - TEMA 1002 - VALOR DOS HONORÁRIOS MAJORADOS NOS TERMOS DO ART. 85, §2º, DO CPC - . RECURSO CONHECIDO E PROVIDO (fl. 220).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 85, § 2º, § 3º e § 4º, do CPC e art. 4º, XXI, da LC n. 80/94, no que concerne à impossibilidade de apreciação equitativa na fixação dos honorários advocatícios em causas envolvendo a Fazenda Pública, com fundamento na existência de regra específica e objetiva quanto ao referido arbitramento, havendo alíquota mínima e máxima para cada faixa pecuniária. Traz a seguinte argumentação:
+Destarte, nota-se que o Código de Processo Civil criou regra específica e objetiva sobre a fixação de honorários sucumbenciais em causas envolvendo a Fazenda Pública, pois estabeleceu uma alíquota mínima e máxima para cada faixa pecuniária, não conferindo margem para apreciação equitativa pelo magistrado.
+No caso vertente, constata-se que o valor atribuído à causa é de R$ 77.445,00 (setenta e sete mil quatrocentos e quarenta e cinco reais), a totalizar, considerado o salário mínimo vigente, aproximadamente 59 (cinquenta e nove) salários mínimos, sendo certo que os honorários fixados em R$ 800,00 (oitocentos reais) para cada ente, equivalem a aproximadamente apenas 2,5% do valor da causa.
+Portanto, considerando o entendimento firmado por essa egrégia Corte da Cidadania, por ocasião do julgamento do REsp 1.850.512 / SP nº (Tema 1.076), o valor a ser fixado a título de honorários de sucumbência deverá enquadrar-se no disposto no artigo 85, § 3º, inciso I, do Código de Processo Civil; senão, confira (fls. 308).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Fede ral alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
