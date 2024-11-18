@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/11/2024 a 18/11/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NA TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. SÚMULA N. 182 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. Em observância ao princípio da dialeticidade, os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Embora seja possível a impugnação parcial de capítulos autônomos em sede de agravo interno, reconhecendo-se a preclusão apenas dos capítulos não impugnados; quando não há autonomia entre os capítulos ou no caso de decisão judicial proferida em capítulo único, é indispensável que o recorrente apresente impugnação específica e fundamentada, conforme dispõe o princípio da dialeticidade, sob pena de não conhecimento do recurso.
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, não se conhece de agravo interno que não impugna o fundamento da decisão agravada.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto JOSE OLAVO BOARIN BOECHAT contra a decisão de fls. 481-483, que não conheceu de agravo em recurso especial com fundamento na incidência, por analogia, da Súmula n. 182 do STJ, por não ter o agravante impugnado, especificamente, os fundamentos de inadmissibilidade da decisão que não admitiu o recurso especial interposto na origem.
+O agravante alega que houve "suficiente fundamentação das questões legais no recurso especial interposto"; demonstrando a ocorrência de violação dos seguintes artigos: a) 80 do CPC, porquanto ausente dolo processual apto a caracterizar a litigância de má-fé; b) 798 do CPC, pela impossibilidade de juntada extemporânea de documento considerado indispensável para a propositura da ação; c) 661, § 1º, do Código Civil, por ser nulo o título assinado por mandatário sem poderes especiais.
+Sustenta ainda não ser aplicável à espécie o óbice da Súmulas n. 7 do STJ, uma vez que busca apenas a adequada valoração jurídica da matéria.
+Requer seja reconsiderada a decisão agravada ou seja o agravo submetido ao colegiado.
+Contrarrazões pelo não conhecimento ou pelo desprovimento do recurso (fl. 506-517).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NA TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. SÚMULA N. 182 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. Em observância ao princípio da dialeticidade, os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Embora seja possível a impugnação parcial de capítulos autônomos em sede de agravo interno, reconhecendo-se a preclusão apenas dos capítulos não impugnados; quando não há autonomia entre os capítulos ou no caso de decisão judicial proferida em capítulo único, é indispensável que o recorrente apresente impugnação específica e fundamentada, conforme dispõe o princípio da dialeticidade, sob pena de não conhecimento do recurso.
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, não se conhece de agravo interno que não impugna o fundamento da decisão agravada.
+4. Agravo interno não conhecido.
+VOTO
+A irresignação não reúne condições de prosperar.
+No caso, a decisão agravada não conheceu do recurso especial por deserção, nestes termos (fls. 481-483):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando a ausência de violação dos arts. 798 do CPC e 661, § 1º, do CC e Súmula n. 7/STJ (litigância de má-fé).
+Entretanto, a parte agravante deixou de impugnar especifica e suficientemente o óbice relativo à Súmula n. 7/STJ (litigância de má-fé).
+Tal se dá porque, no caso em tela, o ora Agravante propôs exceção de pré-executividade objetivando o reconhecimento da ausência de título por falta de sua assinatura e por faltar ao mandatário poderes específicos. Ao julgar o agravo de instrumento, o Tribunal de origem pronunciou-se nos seguintes termos:  ..
+Caberia ao Agravante, para afastar o óbice aplicado, demonstrar que as circunstâncias fáticas abstraídas no acórdão recorrido não caracterizam litigância de má-fé.
+Entretanto, limitou-se a afirmar que: (i) o reconhecimento da ofensa aos dispositivos apontados não depende do reexame de provas, sendo suficiente a comprovação das razões recursais com os fundamentos do acórdão impugnado; (ii) é possível o afastamento da penalidade por ausência dos requisitos para sua caracterização (fl. 179).
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.  ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Nada obstante a discussão provocada pelo agravante, não atentou para os termos do § 1º do art. 1.021 do CPC, segundo o qual, na petição de agravo interno, o recorrente deve impugnar especificamente os fundamentos da decisão agravada.
+Neste agravo interno, o agravante, sem refutar o único fundamento da decisão agravada - de que, no caso concreto, o agravo em recurso especial não impugnou, especificamente, os fundamentos da decisão de inadmissibilidade do recurso especial, atraindo a aplicação da Súmula n. 182 do STJ -, restringiu-se a reproduzir o teor do anterior recurso especial, abordando, exclusivamente, a matéria de mérito concernente à demonstração de violação dos arts. 80, 798 do CPC, 661, § 1º, do Código Civil, sem qualquer referência à incidência do mencionado óbice sumular, cuja aplicação está relacionada à deficiência de fundamentação verificada nas razões do agravo em recurso especial, e não no anterior recurso especial.
+Conforme pacífica jurisprudência desta Corte, em observância ao princípio da dialeticidade, os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia (AgInt nos EREsp n. 1.841.540/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/8/2022, DJe de 16/9/2022).
+Como regra, é possível a impugnação parcial de capítulos autônomos em agravo interno, admitindo-se a desnecessidade de impugnação específica de todos os fundamentos da decisão recorrida e reconhecendo-se a preclusão apenas dos capítulos não impugnados (AgInt nos EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, relator para o acórdão Ministro Herman Benjamin, Corte Especial, julgado em 4/3/2020, DJe de 17/9/2020).
+Por outro lado, quando não há autonomia entre os capítulos ou quando a decisão judicial é proferida em capítulo único, hipótese dos autos, é indispensável que o recorrente apresente impugnação específica e fundamentada, em conformidade com o princípio da dialeticidade, sob pena de não conhecimento do recurso (EREsp n. 1.738.541/RJ, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 2/2/2022, DJe de 8/2/2022).
+Assim, em observância ao disposto no art. 1.021, § 1º, do CPC, é inviável o conhecimento de agravo interno que não impugna o fundamento da decisão agravada.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
