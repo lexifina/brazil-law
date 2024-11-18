@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/11/2024 a 18/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. TUTELA DE URGÊNCIA. INDEFERIMENTO. REQUISITOS. SÚMULA 735/STF.
+1. O provimento judicial que analisa a concessão de tutela de urgência ou liminar, por possuir caráter precário, passível, portanto, de alteração no curso do processo principal, não é considerado de última instância para efeito de interposição de recurso especial. Aplicação, por analogia, da Súmula 735/STF. Precedentes.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Com este agravo interno o autor busca a reforma da decisão que negou provimento ao seu agravo em recurso especial.
+Queixa-se da aplicação da Súmula 735 do Supremo Tribunal Federal (STF), afirmando o cabimento de recurso especial para discutir o indeferimento de tutela de urgência.
+Reafirma a tese articulada no recurso especial, no sentido de que o acórdão recorrido diverge de julgados de outros tribunais quanto à aplicação e interpretação dos artigos 465, 468, 506 e 674 da Lei 13.105/2015 (Código de Processo Civil - CPC/2015).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. TUTELA DE URGÊNCIA. INDEFERIMENTO. REQUISITOS. SÚMULA 735/STF.
+1. O provimento judicial que analisa a concessão de tutela de urgência ou liminar, por possuir caráter precário, passível, portanto, de alteração no curso do processo principal, não é considerado de última instância para efeito de interposição de recurso especial. Aplicação, por analogia, da Súmula 735/STF. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+A fim de facilitar a compreensão das matérias suscitadas no agravo interno, apresento, resumidamente, o contexto em que elas estão inseridas.
+Nos autos de embargos de terceiro, foi indeferida a tutela de urgência pleiteada pelo embargante, ora agravante, que interpôs agravo de instrumento, sobrevindo acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EMBARGOS DE TERCEIRO EM AÇÃO DE REINTEGRAÇÃO DE POSSE. DECISÃO QUE INDEFERIU A TUTELA ANTECIPADA. CONTINUIDADE DA REINTEGRAÇÃO NO PROCESSO DE ORIGEM. ALEGAÇÃO DE IMÓVEL DIVERSO NÃO EVIDENCIADA EM AUTO DE VERIFICAÇÃO LAVRADO NA ORIGEM. POSSE DISPUTADA COM BASE EXCLUSIVAMENTE NO DOMÍNIO. SÚMULA 487/STF. AÇÃO DE ANULAÇÃO DE TÍTULO TRANSITADA EM JULGADO QUE RECONHECE VÁLIDO O NEGÓCIO JURÍDICO IMOBILIÁRIO ENTABULADO COM O AUTOR DA POSSESSÓRIA. POSSE TRANSMITIDA PELO RÉU DA POSSESSÓRIA COM MESMO CARÁTER COM QUE FOI ADQUIRIDA. VEROSSIMILHANÇA NÃO EVIDENCIADA. AUSÊNCIA DOS REQUISITOS DO ART. 300, CPC. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos a esse acórdão não foram providos.
+O autor interpôs recurso especial, no qual alegou que o acórdão recorrido deu aos artigos 465, 468, 506 e 674 do CPC/2015 interpretação que diverge da conferida por outros tribunais. Explicou, no recurso, que o Tribunal estadual, ao confirmar decisão que havia indeferido tutela de urgência pleiteada em embargos de terceiro (visando a obstar a reintegração de posse de imóveis rurais, dos quais o autor afirma ser possuidor e proprietário), ignorou que:
+1) o autor não é parte na ação de reintegração de posse, da qual advinda a ordem de imissão na posse dos imóveis mencionados (ordem concedida em favor do autor da ação);
+2) a decisão que determinara a imissão na posse baseara-se em auto de verificação assinado por oficial de justiça, ato unilateral que não equivale a prova pericial;
+3) o autor não possui relação jurídica com as partes da ação referida;
+4) os imóveis mencionados são distintos dos que são objeto da ação referida;
+5) a sentença na ação referida faz coisa julgada entre as partes, não prejudicando terceiros.
+A Corte de origem não admitiu o recurso especial, o que motivou a interposição de agravo em recurso especial. Esse agravo foi registrado à Presidência do Superior Tribunal de Justiça (STJ), que dele não conheceu, seguindo-se a interposição de agravo interno.
+Vindo-me distribuído esse agravo interno, reconsiderei a decisão da Presidência do STJ e neguei provimento ao agravo em recurso especial.
+Na sequência, o autor interpôs o presente agravo interno.
+Com o merecido respeito às objeções articuladas no agravo interno, não consigo delas extrair motivo suficiente para alterar a convicção manifestada na decisão agravada, que, segundo penso, deve ser mantida.
+Não vinga convencer-me a argumentação em prol da viabilidade de recurso especial que discute indeferimento de tutela de urgência.
+Conforme a jurisprudência do STJ, o provimento judicial que analisa a concessão de tutela de urgência ou liminar, por possuir caráter precário, passível, portanto, de alteração no curso do processo principal, não é considerado de última instância para efeito de interposição de recurso especial. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TUTELA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO. ART. 919, §1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 735 STF POR ANALOGIA. NÃO ESGOTAMENTO DAS VIAS ORDINÁRIAS. REQUISITOS NÃO PREENCHIDOS. SÚMULA 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento dessa Corte é de que as decisões que concedem ou indeferem liminares, bem como efeito suspensivo a embargos do devedor (cf. STJ, Segunda Turma, RESp n. 1.676.515/DF, Rel. Ministro Herman Benjamin, DJe de 3.8.2021), ainda são passíveis de alteração no curso do processo principal, não podendo, por isso, ser consideradas de única ou última instância a ensejar a interposição dos recursos constitucionais. Precedentes.
+2. Aplicação, por analogia, do óbice da Súmula 735 do STF, no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+3. Tribunal de origem reputou que não houve o preenchimento dos requisitos para tutela de urgência. Ausência da probabilidade do direito invocado.
+4. Rever as conclusões adotadas pelo Tribunal de origem quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame de provas, o que é vedado em razão da incidência da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.130.128/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA PROVISÓRIA. SENTENÇA SUPERVENIENTE. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. PRECEDENTES. REQUISITOS DA ANTECIPAÇÃO DE TUTELA. SÚMULA N. 735/STF. PRETENSÃO DE REEXAME DA MATÉRIA FÁTICA. SÚMULA N. 7/STJ.
+ .. .
+2. Ademais, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula n. 735 do STF. Precedentes.
+3. Rever a conclusão a respeito do preenchimento dos requisitos da tutela de urgência demandaria revolvimento de fatos e provas, o que encontra óbice na Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.232.728/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+No caso, o Tribunal de origem não identificou a presença dos requisitos ensejadores do deferimento da tutela de urgência, nestes termos:
+Como visto, trata-se de Agravo de Instrumento interposto por MARCIO JIOVANE MATIAZI em face de decisão que, nos autos de Embargos de Terceiro 8000347-67.2019.8.05.0210, indeferiu a tutela de urgência pleiteada pelo Agravante, determinando o prosseguimento da reintegração de posse objeto no processo 0000635-69.2010.8.05.0210. "Pelo exposto, conforme a documentação constante dos autos, INDEFIRO a tutela de urgência requerida pelo embargante por faltarem os requisitos do art. 300, do CPC, determinando o prosseguimento da reintegração de posse objeto no processo 0000635-69.2010.8.05.0210.
+Pois bem, conforme brevemente relatado, insurge-se a agravante contra decisão que indeferiu a tutela de urgência vindicada pelo terceiro embargante, ora agravante, para obstar a reintegração de posse dos imóveis que aponta ser possuidor e proprietário, em favor de Valdevan Silva dos Santos, conforme determinado em sentença naqueles autos.
+Certo ainda que a relevância a se aferir, neste momento, é a do agravo interposto, e não a da ação principal, o que restringe o alcance da discussão.
+Inicialmente cumpre-se esclarecer que nas ações possessórias o que se discute é a posse, à exceção do previsto na Súmula 487 do STF que consignou que somente incide quando a disputa da posse é baseada exclusivamente no domínio, "Será deferida a posse a quem, evidentemente, tiver o domínio, se com base neste for ela disputada", sendo este o caso dos autos.
+Pois bem, compulsando os autos da ação possessória de origem, verifica-se a existência de Auto de Verificação id.39261479 no qual os oficiais de justiça designados, em visita ao local em fevereiro de 2012, atestam que encontraram arrendatários dos imóveis desde 2011, decorrente de contrato de arrendamento firmado com Márcio Jiovani Matiaze, para quem os imóveis foram vendidos por Ivan de tal que por sua vez os adquiriu de Almério Sampaio Barreto Sobrinho, réu na ação de reintegração de posse de origem.
+"O autor Sr. Valdevan da Silva Santos acompanhado do seu advogado, Hélcio Moacyr Arbo, informou que quando comprou o imóvel que encontra em litígio, ali só havia uma casa e uma área de 400 hectares aberta para plantio, perfurou um poço artesiano, colocou um grupo gerador e plantou vários pés de eucaliptos em frente a casa. Posteriormente, o Sr. Almério Sampaio Barreto Sobrinho, vendeu o imóvel para o Ivan e o Ivan vendeu para o Márcio Jiovani Matiaze e o Márcio arrendou para o seu tio José Humberto Uzuffa e para o Sr. Alex, que estavam no local e nos foi apresentado. O arrendatário disse que arrendou o imóvel em outubro de 2011, por cinco anos, construiu uma caixa d"água para abastecimento da sede, uma Galpão para colocar máquinas, um galpão para colocar tanque de óleo diesel, colocou energia elétrica, fez correção do solo, e plantou soja, como também colocou uma placa em frente à entrada da Fazenda para identificar e facilitar a entrada dos caminhões que traziam calcário e que nenhum vizinho lhe procurou para informar a quem pertencia aquele imóvel, que não tem tido muito contato com os vizinhos, pois mora em Luiz Eduardo Magalhães, e quem realmente mora na fazenda é seu funcionário Eduardo."
+No referido Auto de Verificação, os oficiais atestam ainda, apresentando foto, que os arrendatários declararam ter afixado placa de identificação dos imóveis denominando-se de Fazenda Murilo I e Murilo II.
+Patente, portanto, a ausência de verossimilhança nas alegações acerca da não identidade dos imóveis levantada pelo réu.
+Quanto a legitimidade da posse do agravante, não se mostra demonstrada de plano, tendo em vista que transmitida da posse defendida pelo réu na origem, considerada ilegítima nos moldes da sentença que reintegrou Valdevan Silva dos Santos na posse dos imóveis, in verbis:
+"Assim, verifico que a posse do requerido Almério Sampaio Barreto Sobrinho é ilegítima, vez que usurpara a posse do autor, o qual a obtivera com fundamento em negócio jurídico convalidado pelo tempo, conforme decisão exarada nos autos do processo 0000436- 47.2010.805.0210 e, compulsando as informações contidas nos dois processos, pode-se facilmente concluir que o Almério usurpou a posse de Valdevan, sob o fundamento de nulidade das dações em pagamento.":
+Note-se que a Ação de Anulação de título 0000436-47.2010.805.0210, transitada em julgado em 23 de Abril de 2019, reconheceu válido o negócio jurídico convalidado com o tempo, conforme decisão exarada naqueles autos, o que ensejou a reintegração do Agravado na posse dos mencionados imóveis.
+Assim, como bem realçado pelo Parquet:
+"a posse é transmitida com o mesmo caráter com que foi adquirida, resta evidenciado o caráter ilegítimo da posse do Agravante. Nesse sentido previsão do Código Civil de 2002:
+Art. 1.200 - É justa a posse que não for violenta, clandestina ou precária.
+Art. 1.203 - Salvo prova em contrário, entende-se manter a posse o mesmo caráter com que foi adquirida. (grifamos)
+Desse modo, consignada a ilegitimidade da posse do Agravante, sobre os bens objetos da Ação de Reintegração de Posse, se afasta a alegação de direito incompatível com o ato constritivo, não havendo razão para se suspender os mandados de reintegração de posse ou demais medidas constritivas determinadas pelo Juízo."
+Nesta senda, não estando demonstrada de plano a probabilidade do direito, impõe-se, por hora, indeferir o pedido liminar, até ulterior determinação judicial pelo magistrado de origem que, estando mais próximo dos fatos e das partes e ao longo da instrução processual que certamente terá mais elementos, estará apto a decidir acerca da posse discutida na origem.
+Nenhum equívoco há, portanto, quanto à aplicação da Súmula 735 do STF ao caso concreto.
+Em face do exposto, nego provimento ao agravo interno. Fica prejudicado o agravo interno (e-STJ fls. 968-991) i nterposto da decisão que indeferiu o pedido de tutela provisória (e-STJ fls. 961-964).
+É como voto.
