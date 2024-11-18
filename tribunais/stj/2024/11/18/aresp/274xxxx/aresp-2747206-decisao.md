@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VALDEMIR HOLANDA GOMES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. DETERMINAÇÃO DE QUEBRA DE SIGILO BANCÁRIO ENTRE JANEIRO DE 2019 E DEZEMBRO DE 2020. INSURGÊNCIA DO EXECUTADO, QUE ALEGA ALEATORIEDADE NA FIXAÇÃO DO PERÍODO. MANUTENÇÃO. PERÍODO DE QUEBRA DE SIGILO BANCÁRIO QUE NÃO SE MOSTRA DE SARRAZOADO PARA CUMPRIR O OBJETIVO DO INCIDENTE DE LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE DE COMPARAÇÃO COM SUA RENDA ANTES DO INÍCIO DE QUALQUER ATIVIDADE ILÍCITA. DETERMINAÇÃO DE IMPOSIÇÃO DE SIGILO AOS REFERIDOS DOCUMENTOS. DIREITO DE PROTEÇÃO DE DADOS PESSOAIS QUE IMPÕE A TOMADA DE PROVIDÊNCIAS PARA EVITAR ACESSO DE TERCEIROS A INFORMAÇÕES SIGILOSAS DO EXECUTADO. RECURSO NÃO PROVIDO, COM DETERMINAÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 187 do CC, no que concerne à demonstração de abuso de direito no cálculo da liquidação, tendo em vista que observou corretamente o período do uso indevido da marca, trazendo a seguinte argumentação:
+5. Como dito alhures, cinge-se a controvérsia jurídica em saber se está correto a luz do artigo 187 do Código Civil, o período estabelecido para a investigação patrimonial a fim de apurar os danos materiais no tocante ao uso indevido de marca.
+ ..
+5.3 Estabelece a lei, que o abuso de direito é considerado um ato ilícito, mesmo quando o titular do direito está formalmente dentro dos limites de sua titularidade;
+sendo, portanto, uma extensão do conceito de ato ilícito.
+5.4 Defende-se que a investigação patrimonial financeira deva ocorrer entre o período que foi concedida a ordem liminar para que fosse cessado o uso da marca ocorrido em 10/08/2020 e a citação válida em 14/12/2020.
+5.5 Justifica-se, o pedido, porquanto, os marcos da investigação patrimonial estão bem definidos na ação principal e são o momento da concessão da liminar para a cessação do uso da marca e a citação válida. Não há razão fática ou legal que autorize a pesquisa pretérita. O ano do último registro em carteira de trabalho não pode ser tomado como marco inicial para a investigação, pois, sequer havia ordem judicial impedindo o uso da marca, daí, configurando o abuso de direito posto que o fim econômico pretendido está a extrapolar o exercício regular do direito que é a apuração dos danos materiais a partir do momento em que houve a determinação para que o Recorrente se abstivesse do uso da marca (fls. 30/31).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Isso porque o período escolhido não é desarrazoado.
+É preciso ter em mente que o propósito do incidente de liquidação é calcular montante devido à título de danos materiais, o que se fará por arbitramento, nos termos do art. 210 , II, da Lei de Propriedade Industrial (a partir do que foi auferido em benefício do violador do direito). Contudo, para se chegar ao valor justo, é necessária pesquisa do que auferiu o executado enquanto utilizou indevidamente a marca da agravada, comparando-se como trabalhador registrado e como agenciador de apostas.
+Ademais, nos autos de conhecimento há diversas provas de que o executado usou indevidamente da marca da exequente pelo menos desde março de 2020, conforme conversa de WhatsApp naquela fase juntada, nada tendo sido comprovado no sentido de que tal violação não teria se iniciado ainda antes:
+ ..
+Portanto, mantem-se a r. decisão agravada, tal como lançada, adicionando-se apenas determinação de sigilo quanto aos documentos bancários do executado, em observância ao direito constitucional de proteção de dados pessoais, evitando-se o acesso de terceiros desautorizados às informações obtidas pelo ofício expedido (fls. 22/23).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
