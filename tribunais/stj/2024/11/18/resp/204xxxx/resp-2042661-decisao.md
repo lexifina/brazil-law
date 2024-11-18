@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MATO GROSSO DO SUL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 462):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - AÇÃO DE OBRIGAÇÃO DE FAZER C.C. COBRANÇA - IMPLANTAÇÃO DE VANTAGEM PECUNIÁRIA EM RAZÃO DO EXERCÍCIO DA FUNÇÃO DE COMANDANTE DE EQUIPE DE SERVIÇO PREVISTA NO ARTIGO 23, V, DA LEI COMPLEMENTAR ESTADUAL N. 127/08 - ALTERAÇÃO DO PERCENTUAL DA INDENIZAÇÃO PELA LEI COMPLEMENTAR 291/2021 - VIGÊNCIA A PARTIR DE 01/01/2022 - PRETENSÃO DE INCIDÊNCIA DA TAXA SELIC - REJEITADA - RECURSO DO ESTADO DE MATO GROSSO DO SUL CONHECIDO E PARCIALMENTE PROVIDO - MESMA SOLUÇÃO EMPRESTADA À REMESSA NECESSÁRIA.
+I) A Lei Complementar Estadual 127/2008 foi alterada pela Lei Complementar 291/2021, tendo sido estabelecido um novo percentual para indenização por exercício da função Comandante de Equipe de Serviço por militares da ativa, assim, a partir de 01/01/2022, data de início da vigência da LC 291/2021, o adicional para o exercício da referida função deverá ser implementado no percentual de 5%, conforme estabelecido em razão da alteração legal.
+II) Em se tratando de condenações judiciais referentes a servidores e empregadores públicos devem ser atualizadas da seguinte maneira: correção monetária pelo IPCA-E e juros de mora equivalentes aos da caderneta de poupança, sendo inaplicável a taxa SELIC, por incidir apenas sobre débitos de natureza tributária.
+III) Recurso do Estado de Mato Grosso do Sul conhecido e parcialmente provido.
+IV) Mesma solução emprestada à remessa necessária.
+Os embargos de declaração opostos foram rejeitados (fls. 494/505).
+Em suas razões recursais, a parte recorrente, preliminarmente, afirma haver violação dos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil (CPC), porque foi omisso o acórdão recorrido quanto (fl. 513):
+(i) ao desrespeito do art. 23, §4º, da LCE 127/2008, com nova redação dada pela LCE 291/2021, ao que se revela em não respeito a fato novo, e (ii) à promulgação da EC 113/2021, caracterizada como fato novo, que determinou a incidência de novo regramento acerca da atualização monetária das dívidas da Fazenda Pública.
+Afirma também haver violação do art. 493 do CPC, porque (fl. 515):
+(1) o acórdão recorrido " ..  desconsiderou a edição da EC 113/2021 como fato novo nos termos do art. 493 do CPC, deixando de aplicá-lo ao caso emoldurado, mantendo, desta feita, o comando sentencial que determinou a atualização monetária do débito pelo IPCA-E"; e
+(2)" ..  houve desrespeito ao art. 23, §4º, da LCE 127/2008, com nova redação dada pela LCE 291/2021, ao que se revela em não respeito a fato novo, e portanto, causa ofensa ao art. 493, do CPC".
+Sustenta, ainda, nesse sentido, que (fl. 516):
+Cumpre ainda esclarecer sobre o equívoco presente no acórdão no que tange ao ônus do Estado de comprovação do não preenchimento dos requisitos legais de acordo com a legislação vigente no decorrer do processamento dos autos.
+ ..
+Em que pese o discorrido, sabe-se que a alteração legislativa atingiu a todos os militares estaduais em momento no qual o presente processado encontrava-se em curso, o que se constitui por fato novo. No caso, a redação dada pela nova norma (LCE n. 291/2021) exigiu novo requisito para auferimento da verba indenizatória pleiteada na exordial (art. 23, §4º, da LCE 127/20085).
+É preciso notar ainda que, não há nos autos inversão do ônus da prova, de modo que continua sendo do autor o dever de comprovar os requisitos legais para recebimento da verba indenizatória - art. 373, I, do CPC. Com a mudança legislativa, e consequente acréscimo de requisito legal, há que se promover a reiteração da comprovação dos requisitos normativos, já que o instituto jurídico fato novo por si só, reclama reanálise dos pontos que circundam a controvérsia, sejam eles fáticos ou legais.
+Dessa forma, o apontamento de que o Estado não comprovou a não continuidade do autor na função não merece prosperar, já que ao momento em que aduzido em sede de embargos de declaração o não cumprimento do requisito legal pelo autor, caberia a este, em contraminuta, comprovar o efetivo desempenho da função em acordo à alteração da norma, após a entrada em vigor da mesma - art. 373, I, do CPC.
+Não há que se exigir do Estado réu a produção de prova negativa, especialmente em casos nos quais não houve sequer prova suficiente pelo autor. É, portanto, insuficiente a comprovação do preenchimento dos requisitos legais ao tempo do ingresso da ação quando emerge fato novo no seu transcorrer.
+Por fim, defende que, "tendo em vista que os juros moratórios e a correção monetária se renovam a cada mês em que não quitado o crédito principal, a eles deve ser aplicada a regra vigente, que, no caso, é a SELIC nos termos do art. 3º da EC 113/2021, a partir de 09/12/2021" (fl. 517).
+A parte adversa apresentou contrarrazões (fls. 521/530).
+O recurso foi admitido na origem (fls. 532/535).
+É o relatório.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Quanto aos aspectos tidos por omissos pela parte ora recorrente, a Corte de origem decidiu (fls. 465/467):
+O apelante alega, inicialmente, que a recente Lei Complementar n. 291/2021 promoveu algumas alterações na Lei Complementar n. 127/2008, dentre as quais alterou o percentual de gratificação para comandante de equipe de serviço, razão pela qual a condenação correspondente à obrigação de fazer/implantação ou incorporação do valor da função gratificada nos vencimentos da parte recorrida no percentual estabelecido se revela ilegal.
+O recurso merece parcial provimento neste ponto.
+De fato a Lei Complementar Estadual 127/2008 foi alterada pela Lei Complementar 291/2021, tendo sido estabelecido um novo percentual para indenização por exercício da função Comandante de Equipe de Serviço por militares da ativa. Confira-se a nova redação dada ao artigo 23 da LC 127/2008 na parte em que interessa a esse julgamento.
+ ..
+Por conseguinte, a partir de 01/01/2022, data de início da vigência da LC 291/2021, o adicional para o exercício da função de Comandante de Equipe de Serviço deverá ser implementado no percentual de 5%, conforme estabelecido em razão da alteração legal.
+O apelante alega que para a atualização do valor devido, deve incidir a Taxa Selic, uma única vez, até o efetivo pagamento.
+Não lhe assiste razão.
+Ao contrário da fundamentação exposta pelo apelante, penso que a Taxa Selic somente deve ser aplicada nas restituições ou compensações de débitos tributários, ainda que esteja prevista, atualmente, nas Leis Federais n. arts. 13 da Lei 9.065/95, 84 da Lei 8.981/95, 39, § 4º, da Lei 9.250/95, 61, § 3º, da Lei 9.430/96 e 30 da Lei 10.522/02, uma vez que o Código Tributário Nacional dispõe em seu art. 161 que:
+ ..
+Assim, deve ser afastada a pretensão de incidência da Taxa Selic como índice de correção monetária e juros de mora.
+No referido ponto, aliás, o douto magistrado sentenciante bem aplicou o direito à espécie, na medida em que os juros e a correção monetária foram fixados com base no REsp 1495146/MG, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 02/03/2018, o qual estabelece que as condenações judiciais referentes a servidores e empregadores públicos devem ser atualizadas da seguinte maneira: correção monetária pelo IPCA-E e juros de mora equivalentes aos da caderneta de poupança.
+Ao apreciar os embargos de declaração da parte ora recorrente, a Corte de origem reiterou (fls. 497/498):
+Primeiramente, consigno que foi dado parcial provimento ao recurso do Estado de Mato Grosso do Sul para o fim de adequar a condenação aos parâmetros estabelecidos pela LCE 291/2021 para o cálculo do valor da gratificação devida ao embargado.
+Do mesmo modo, constato que embargado apresentou documento apto a demonstrar que estava exercendo a função no momento do ajuizamento da demanda (f. 17 dos autos de origem), não tendo sido tal situação desconstituída pelo embargante durante o processamento do feito.
+Deveras, convém mencionar que o requerido/embargante possui meios para acesso das informações profissionais referentes ao servidor, policial militar de carreira, de sorte que caberia ao aqui recorrente, portanto, apresentar qualquer prova referente à não continuidade do exercício da função pelo período mencionado na sentença.
+Por fim, o voto condutor foi expresso ao afastar a incidência da taxa SELIC no caso em apreço, vez que não se trata débito tributário, de modo que a pretensão do embargante é apenas rediscutir questão já decidida.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+No que tange à alegada violação do art. 493 do CPC, não é possível conhecer do recurso quanto ao ponto porque o dispositivo em questão não contém comando normativo capaz de sustentar a alegação deduzida e infirmar a validade dos fundamentos do acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+Ademais, a Corte de origem deu parcial provimento ao recurso de apelação da parte ora recorrente com o intuito de aplicar ao caso concreto a alteração promovida na legislação local.
+Por isso, constato que o mérito recursal foi decidido à luz da interpretação da Lei Complementar 127/2008 com a alteração promovida pela Lei Complementar 291/2021.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, a ele nego provimento.
+Publique-se. Intimem-se.
+ EMENTA
