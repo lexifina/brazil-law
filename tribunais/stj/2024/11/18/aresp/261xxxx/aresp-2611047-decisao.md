@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RAIMUNDO RODRIGUES DOS SANTOS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: declaratória de nulidade contratual cumulada com indenizatória ajuizada por RAIMUNDO RODRIGUES DOS SANTOS em desfavor do BANCO CELETEM S/A.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. EMPRÉSTIMO CONSIGNADO. ALEGAÇÃO DE FRAUDE E NEGATIVA DE CONTRATAÇÃO. IMPUGNAÇÃO GENÉRICA DA IMPRESSÃO DIGITAL. EXISTÊNCIA DE PROVA DA CONTRATAÇÃO. CENÁRIO INCOMPATÍVEL COMA TESE DE FRAUDE OU DESCONHECIMENTO DA CONTRATAÇÃO, A AFASTAR A NECESSIDADE DE PERÍCIA GRAFOTÉCNICA. AUSÊNCIA DE ATO ILÍCITO. INEXISTÊNCIA DO DEVER DE INDENIZAR. IMPROCEDÊNCIA AÇÃO. SENTENÇA MANTIDA. APELA O NÃO CONHECIDO.
+1. Diferentemente do que exposto pela apelante, a instituição financeira demonstrou, deforma clara, a legalidade do empréstimo consignado firmado entre as partes ao apresentar o contrato assinado juntamente com documentos de identificação da autora, bem como comprovante bancário de que a quantia firmado em contrato fora devidamente creditada na conta da apelante.
+2. Resta claro a legalidade do empréstimo consignado objeto da lide diante da apresentação do contrato assinado pela parte autora acompanhado de documento pessoal.
+3. Quanto à suposta ilegitimidade da digital aposta no documento, instada a se manifestar em réplica à contestação, logo após a juntada do contrato, a autora se limitou a fazer alegações genéricas de que a digital não era sua, sem se basear em argumentação específica (art. 436, parágrafo único, do CPC) ou elementos comparativos que permitisse a necessidade de averiguação pericial. Sentença de Improcedência mantida.
+4. Apelo Conhecido e Não Provido." (e-STJ, fl. 175)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação do art. 1.022 do CPC, sustentando omissão do julgado quanto à inexistência de assinatura de uma das testemunhas. Sustenta ofensa aos arts. "166, IV e V e 595 do Código Civil e à jurisprudência dominante dessa Corte que não admite contrato de empréstimo firmado com analfabeto sem a subscrição de três pessoas diversa: um assinante a rogo e outras duas testemunhas. Pugna pela anulação do julgado.
+Decisão de admissibilidade do recurso especial: inadmitiu o recurso especial por violação da Súmula 07 do STJ.
+Agravo em recurso especial: Argumenta que a matéria somente é de direito, sendo desnecessário o reexame de fatos e provas.
+RELATADO O PROCESSO, DECIDO.
+- Da ofensa ao art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de16/02/2018.
+No particular, a agravante alega omissão do julgado no que se refere à falta pronunciamento acerca da validade de contrato firmado por pessoa analfabeta e sem a presença de testemunhas.
+Contudo, da análise dos autos, depreende-se que houve manifestação expressa sobre a matéria:
+"Contudo, o Banco embargado (Banco Celetem S/A) acostou no ID 22087802 a Cópia do Contrato, com aposição de digital devidamente acompanhado de assinatura e identificação de duas testemunhas (cópias de RG) de Geovane Gomes dos Santos (filho do contratante) e Cheila dos Reis Amorim, onde consta a ciência inequívoca dos valores e condições da contratação, pelo que se conclui que o banco se desincumbiu do ônus de provar a regularidade do contrato celebrado. Ressalvo que, a despeito da assinatura não constar no espaço denominado "testemunhas" e sim no espaço denominado "emitente" não tem o condão de desnaturar a validade, vez que se trata de mera irregularidade, já que o importante em casos assim, é correta identificação das pessoas que presenciaram a negociação jurídica, justamente o que ocorreu no caso que ora se analisa. Ademais, cumpre esclarecer que o art. 595, CC não exige a formalidade de que conste escrito de forma extensa o nome da pactuante, até mesmo porque na dicção da norma, consta a expressão " (..) o instrumento PODERÁ ser assinado a rogo e subscrito por duas testemunhas", contendo-se com a aposição de digital da pessoa analfabeta, sendo imprescindível à validade da avença a assinatura de duas testemunhas que presenciaram a contratação, com sua devida identificação, o que de fato ocorreu no presente caso, pois foram acostados nos autos cópias de seus documentos de identidade."
+Dessarte, o acórdão recorrido decidiu, fundamentada e expressamente acerca das questões suscitadas. Neste passo, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Do reexame de fatos e provas
+Conforme exposto no trecho referido do acórdão recorrido, houve afirmação expressa no sentido de que o contrato foi subscrito por duas testemunhas. Sendo essa a exigência do art. 595 do Código Civil, não resta configurada violação a lei federal que justifique o provimento do recurso especial.
+Ademais, alterar o entendimento do acórdão recorrido, no sentido de que não foram duas as testemunha constantes no contrato, exigiria o reexame de fato e provas, o que viola a Súmula 07 deste STJ.
+- Do dissídio jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, não bastando, para tanto, transcrever ementas ou destacar trechos de decisões (REsp 1.421.371/SC, Terceira Turma, julgado em 12/12/2017, DJe de 18/12/2017; AgInt nos EREsp 1.377.705/SP, Segunda Seção, julgado em 14/09/2016, DJe de 19/09/2016; AgInt nos EAREsp 740.220/SP, Corte Especial, julgado em 17/08/2016, DJE de 21/09/2016).
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, isto é, a subscrição de duas testemunhas no contrato, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. DISSÍDIO PREJUDICADO.
+1. Ação declaratória de nulidade contratual cumulada com indenizatória.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. O reexame de fatos e provas em recurso especial, é inadmitido, ante o óbice da Súmula 7 desta Corte.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial conhecido em parte e não provido.
