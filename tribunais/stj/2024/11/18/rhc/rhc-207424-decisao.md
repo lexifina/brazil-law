@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por ROGÉRIO DE PAULA CUSTÓDIO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o recorrente foi condenado a 7 anos de reclusão no regime fechado e a 700 dias-multa como incurso nas sanções do art. 33 da Lei n. 11.343/2006, tendo sido negado o direito de recorrer em liberdade.
+O recorrente sustenta que o fundamento utilizado pelo Juízo sentenciante para a manutenção da prisão preventiva foi o fato de estar preso por outro processo, no entanto, alega que já houve a expedição de alvará de soltura no referido feito.
+Salienta que a manutenção da custódia cautelar se baseou na gravidade abstrata do delito e destaca a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Frisa que o fundamento relativo à natureza e à diversidade das drogas apreendidas, por si só, não justifica a manutenção da prisão preventiva e afirma que a quantidade de entorpecentes apreendidos é inexpressiva (4,30 g de crack).
+Aduz a ilicitude das provas, incluindo as derivadas, decorrentes da busca domiciliar sem mandado judicial ou do consentimento do morador, devendo ser reconhecida a nulidade do flagrante.
+Defende, ainda, a ausência de contemporaneidade na decretação da prisão preventiva.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+Em relação à alegada ilicitude de provas decorrentes da busca domiciliar, assim constou no acórdão recorrido (fls. 777-778, grifei):
+De início, pondero que o reconhecimento da nulidade de provas na via estreita da ação constitucional exige comprovação, de plano, do constrangimento ilegal aventado, o que já foi objeto de exame por esta Turma Julgadora no HC n.º 1.0000.23.153144-3/000, não sendo acolhida tal irresignação do impetrante.
+Demais disso, a tese de ilicitude de provas desafia, agora, recurso próprio, a apelação criminal (art. 593, inciso I, do CPP), via adequada para questionar a sentença condenatória proferida e mais ampla que o habeas corpus. E o apelo foi interposto pela defesa, conforme se infere do documento de ordem n.º 56.
+O writ deve ser manejado apenas como instrumento final para obtenção do que ora se pretende, depois de esgotados os recursos cabíveis, exceto quando for flagrante a coação ilegal, o que, como salientado, não é o caso.
+Conforme ressaltado pela Corte de origem, a tese de ilicitude de provas já foi aventada pela defesa por meio de apelação criminal, que é o recurso adequado, razão pela qual não cabe a impetração de habeas corpus para discutir questões afetas ao apelo criminal, como no caso.
+Nesse sentido: AgRg no HC n. 821.311/MA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023; AgRg no HC n. 818.310/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/6/2023, DJe de 15/6/2023.
+Por outro lado, em relação à prisão preventiva do recorrente, assim constou da sentença condenatória (fls. 724-725, grifei):
+11. Direito de recorrer em liberdade.
+Indefiro a ROGÉRIO DE PAULA CUSTODIO o direito de recorrer em liberdade pois está preso nos autos 0002141-83.2024.8.13.0625, e caso seja posto em liberdade o acusado poderá pôr em risco a ordem pública.
+A ordem pública é expressão de tranquilidade e paz no seio social. Haverá necessidade da garantia da ordem pública quando soma da gravidade concreta da infração, mais repercussão social, aliado à periculosidade do agente ficar demonstrado, de modo que havendo risco do infrator, se solto permanecer delinquindo.
+Outro fator preponderante para o indeferimento é que o delito praticado pelo(s) acusado(s) é gravíssimo, com repercussão social negativa, classificado como crime hediondo e possui a mínima cominada superior a 04 (quatro) anos de reclusão.
+Sobre o tema trago à colação:
+ ..  - O agente preso em flagrante delito, tendo a situação perdurada inclusive após ter sido prolatada a sentença, não faz jus a aguardar o julgamento em liberdade, pois esta fase restou superada e encontram-se presentes os requisitos da prisão preventiva.  .. . (TJMG - Apelação Criminal 1.0073.18.005713-2/001, Relator (a): Des.(a) IGOR Cézar Dias, 3ª CÂMARA CRIMINAL, julgamento em 05/05/2020, publicação da súmula em 22/05/2020) (grifei).
+Expeça-se mandado de prisão e, após, guia de execução provisória.
+Recomende ROGÉRIO DE PAULA CUSTODIO ao Diretor da Unidade Prisional.
+O acórdão recorrido está assim entabulado quanto ao ponto (fl. 777, grifei):
+Segundo os laudos periciais (doc. n.º 04, p. 37, doc. n.º 05, p. 09), tratava-se, ao todo, de 4,30g (quatro gramas e trinta centigramas) de crack.
+A leitura da sentença condenatória revela que a custódia cautelar foi mantida com fundamento no risco à ordem pública, tendo ressaltado o Juízo singular que o recorrente está preso nos Autos n. 0002141-83.2024.8.13.0625.
+Nesse contexto, apesar de constar na sentença que o acusado está preso em outros autos, verifica-se que o delito não envolveu o uso de violência ou grave ameaça e que a quantidade de droga apreendida não é exorbitante - 4,30 g de crack.
+Ademais, verifica-se que o Juiz de primeiro grau, ao tratar dos requisitos e da necessidade da custódia cautelar, não trouxe nenhuma motivação concreta para a prisão, valendo-se de fundamentação abstrata e com genérica regulação da prisão preventiva, circunstância que por si só impõe a sua revogação.
+Por essas razões, a manutenção da prisão preventiva não se mostra proporcional. Conforme a jurisprudência desta Corte, a apreensão de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social, o que não é o caso dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DESPROPORCIONALIDADE. QUANTIDADE DE ENTORPECENTE INSIGNIFICANTE. RENITÊNCIA DELITIVA. AUSENTES ELEMENTOS DE RISCO CONCRETO EMBORA SEJA O RÉU REINCIDENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312 do CPP.
+2. O perigo do estado de liberdade do agente não pode ser mensurado, tão somente, com lastro na reincidência delitiva, em especial quando se afiguram frágeis os elementos trazidos aos autos para fins de justificar o risco de renitência da atividade ilícita e ser ínfima a quantidade de droga apreendida.
+3. A imposição das medidas cautelares diversas da prisão preventiva, consoante as diretrizes do art. 319 do Código de Processo Penal, se adequa ao acautelamento da ordem pública.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 183.705/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+AGRAVO REGIM ENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS ILÍCITAS. INIDONEIDADE DO REPUTADO PERICULUM LIBERTATIS. RECURSO DO MP/RS NÃO PROVIDO.
+1. Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, o juízo de primeira instância concluiu que a prisão preventiva do ora agravado seria imprescindível para garantir a ordem pública, diante de sua prisão em flagrante após suposta venda de 8g de maconha, considerando que condenação transitada em julgado pelo mesmo crime de tráfico de drogas ilícitas constituiria indício de contumácia delitiva.
+2. A fundamentação da custódia processual alicerçada na simples aparência do delito é evidentemente nula, ao passo que os indícios de risco à ordem pública apresentados no caso destes autos não podem ser considerados adequados e suficientes.
+3. Com efeito, o registro de condenação anterior se refere ao mesmo crime não violento, sendo que nesta oportunidade a conduta teria envolvido quantidade ínfima de tóxicos proscritos (8g de maconha), sem apreensão de arma de fogo e sem registro de que o investigado integrasse organização criminosa.
+4. No caso em tela, ao considerar que a gravidade abstrata do tráfico de drogas ilícitas e a existência de condenação anterior impediriam o ora agravado de responder a eventual ação penal em liberdade, as instâncias ordinárias parecem haver se divorciado da orientação constante em incontáveis precedentes desta Corte, para os quais a prisão cautelar é invariavelmente excepcional, subordinando-se à demonstração de sua criteriosa imprescindibilidade, à luz dos fatos concretos da causa, e não em relação à percepção do julgador a respeito da gravidade abstrata do tipo penal.
+5. De fato, o aparente cometimento do delito, por si só, não evidencia "periculosidade" exacerbada do agente ou "abalo da ordem pública", a demandar a sua segregação antes de qualquer condenação definitiva.
+6. Também vale reforçar que determinadas quantidades de tóxicos ilegais, ainda que não possam ser consideradas insignificantes, não autorizam, isoladamente, a conclusão de que o réu apresenta periculum libertatis.
+ ..
+9. Assim, apesar dos argume ntos apresentados pelo órgão ministerial, não há elementos que justifiquem a reconsideração do decisum.
+10. Agravo regimental do MP/RS não provido.
+(AgRg no HC n. 879.114/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024 - grifei.)
+Assim, suficiente mostra-se a imposição das seguintes medidas cautelares penais diversas da prisão processual: (a) apresentação a cada dois meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando o acusado ao processo; (c) manutenção de endereço e telefone atualizados para futuros atos de intercâmbio processual; e (d) proibição de qualquer forma de contato com pessoas envolvidas com o tráfico e outras atividades criminosas, como garantia à instrução e proteção contra a reiteração criminosa, sem prejuízo de eventual fixação de outras medidas cautelares pelo Juízo de origem, desde que devidamente fundamentadas.
+Ante o exposto, nos termos do art. 34, XVIII, c, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso em habeas corpus para revogar a prisão preventiva decretada em desfavor do recorrente, salvo se por outro motivo estiver preso, mediante a prévia assunção do compromisso de cumprir as medidas cautelares descritas, sendo possível a fixação de outras medidas alternativas ao cárcere, a serem definidas pelo Juízo de primeiro grau, sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada.
+Comunique-se, com urgência, às instâncias ordinárias.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
