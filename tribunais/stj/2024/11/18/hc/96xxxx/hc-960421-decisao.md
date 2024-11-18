@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de BRIAN MARTINELI PARREIRA (ou BRAYAN MARTINELI PARREIRA), pronunciado (ao lado de Jose Tayrone Freitas Santana e Marcio Gomes Oliveira) como incurso nos delitos descritos no art. 121, § 2º, I, e no art. 146, § 1º, c/c o art. 29, todos do Código Penal (Processo n. 0003258-34.2015.8.08.0021, da 1ª Vara Criminal da comarca de Guarapari/ES).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que, em 1º/2/2023, negou provimento ao Recurso em Sentido Estrito n. 0004759-13.2021.8.08.0021, interposto pela defesa.
+Requer-se a concessão da ordem de habeas corpus em sua plenitude e em definitivo, para reformar o v. acórdão objurgado, corrigindo a ilegalidade contida nos autos, para despronunciar o recorrente, nos termos do art. 414 do CPP (fl. 15).
+Estes autos foram a mim distribuídos por prevenção (HC n. 711.030/ES).
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, já que não é possível verificar quais foram os fundamentos adotados no acórdão ora impugnado, uma vez que a cópia juntada aos autos está praticamente ilegível.
+Afora isso, no caso, o acórdão ora combatido foi impugnado no AREsp n. 2.546.851/ES, do qual a então Ministra Presidente Maria Thereza de Assis Moura não conheceu, ocasionando o trânsito em julgado da pronúncia aqui tratada. Após essa data, foi impetrado o presente writ, versando sobre as mesmas questões objeto do recurso especial. Nesse contexto, tem-se que a apreciação anterior do Superior Tribunal de Justiça em outros autos impede a realização de novo exame da questão, ante o princípio da unirrecorribilidade das decisões e da indevida reiteração de pedidos (AgRg no HC n. 923.521/SC, Ministro Og Fernandes, Sexta Turma, DJe 21/10/2024).
+Em outras palavras, a violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato. À exceção da interposição conjunta de recurso especial e extraordinário, que obedece a regramento próprio, verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas  ..  (AgRg no HC n. 824.855/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/10/2024).
+Assim sendo, não tem cabimento o habeas corpus que, além de deficientemente instruído, subverte o sistema recursal e viola o princípio da unirrecorribilidade das decisões judiciais (AgRg no HC n. 875.330/SP, da minha relatoria, Sexta Turma, DJe 6/9/2024).
+Assim, indefiro liminarmente o presente writ .
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA TRANSITADA EM JULGADO. AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. TESTEMUNHOS INDIRETOS. WRIT DEFICIENTEMENTE INSTRUÍDO. ACÓRDÃO COMBATIDO IMPUGNADO EM ARESP ANTERIORMENTE JULGADO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE.
+Petição inicial indeferida liminarmente.
