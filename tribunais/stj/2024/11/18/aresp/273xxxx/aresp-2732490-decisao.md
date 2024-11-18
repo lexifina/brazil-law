@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARIA DO CARMO FERREIRA PANSANI SIMOES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA QUE JULGOU PARCIALMENTE PROCEDENTE O INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DE INSURGÊNCIA QUANTO AO RECONHECIMENTO DA EXISTÊNCIA DE GRUPO ECONÔMICO FAMILIAR. TESE DE NÃO PREENCHIMENTO REQUISITOS DO ARTIGO 50 DO CÓDIGO CIVIL PREENCHIDOS PARA A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. FORTES INDÍCIOS DE CONFUSÃO PATRIMONIAL E UTILIZAÇÃO DAS SOCIEDADES EMPRESÁRIAS PARA O ESVAZIAMENTO DO PATRIMÔNIO DA PESSOA NATURAL EXECUTADA. CRIAÇÃO DE EMPRESA E POSTERIOR CESSÃO DAS QUOTAS PARA OS FILHOS DA AGRAVANTE. MANUTENÇÃO DA ADMINISTRAÇÃO DAS EMPRESAS PELO DEVEDOR E PELA AGRAVANTE, NA QUALIDADE DE ADMINISTRADORES DELEGADOS, COM AMPLOS PODERES, INCLUSIVE PARA ONERAR E ALIENAR BENS, SEM NECESSIDADE DE AUTORIZAÇÃO DOS SÓCIOS. AUSÊNCIA DE COMPROVAÇÃO DE QUALQUER ATO ADMINISTRATIVO PRATICADO PELOS SÓCIOS DE DIREITO. INTEGRALIZAÇÃO DO IMÓVEL UTILIZADO PELA RECORRENTE COMO RESIDÊNCIA AO CAPITAL SOCIAL DA EMPRESA. POSSIBILIDADE DE INCLUSÃO DA ANTIGA SÓCIA NO POLO PASSIVO DA AÇÃO DE EXECUÇÃO. DECISÃO MANTIDA. REC URSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 49 e 50 do CC, no que concerne à ilegalidade da desconsideração da personalidade jurídica, tendo em vista a ausência da demonstração de desvio do patrimônio ou de desvio da finalidade das empresas da qual figura como sócia, trazendo a seguinte argumentação:
+Isso porque, temos que o v. acórdão, autorizou a desconsideração da personalidade jurídica da parte Recorrente, sendo que não houve qualquer prova nos autos ligando a parte Recorrente com eventual abuso patrimonial ou desvio.
+ ..
+Excelências, inicialmente, nota-se que a decisão que desproveu o agravo de instrumento interposto pela parte Recorrente, deixou de analisar as questões trazidas nos artigos 49 e 50 do Código Civil.
+Nota-se, que evidentemente a Recorrente não obteve para si qualquer vantagem patrimonial, tratava-se apenas de uma sócia das empresas e conforme preceitua o art. 49-A, CC 3 , "a pessoa jurídica não se confunde com os seus sócios". E mais, o art. 49-A, parágrafo único, CC, não reprova a alocação de riscos, muito pelo contrário, reconhece a sua licitude.
+Ou seja, o mero fato de terem parentesco, não é razão para desconsiderar a autonomia patrimonial.
+ ..
+Isto posto, quanto à ausência de confusão patrimonial entre as empresas e pessoas físicas suscitadas, as provas documentais nos autos aliados aos depoimentos das testemunhas, corroboram integralmente a ausência de confusão patrimonial.
+Neste caminho, acerca da distribuição do lucro da empresa em anos anteriores ao da crise, notadamente, 2007 até 2012, o Sr. Marcos Roberto fora categórico ao demonstrar a saúde financeira da empresa, que crescera de faturamento mais de 20x no decorrer da sua história, e que, ao licitamente promover a distribuição de lucros em favor do Sr. Ezio Simões, não incorria em qualquer espécie de ato fraudulento.  ..
+ ..
+Ora, Excelências, nota-se que a criação das referidas empresas se deu em momento no qual a empresa Plant Bem gerava lucro, não sendo essa causa de sua insolvência, mas sim a alta imprevisível do dólar que elevou em quase 50% o endividamento da empresa.
+Quanto à ausência de confusão patrimonial entre as empresas e pessoas físicas suscitadas, as provas documentais nos autos aliados aos depoimentos das testemunhas, corroboram integralmente a ausência de confusão patrimonial.
+ ..
+Cabe expor que não ficou demonstrado o desvio de patrimônio, por exemplo, ou tampouco o desvio de finalidade das empresas da qual figura como sócia. O que não restou demonstrado nos autos perante à Recorrente (fls. 69/83).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O que se conclui é que a família Simões, em razão das dificuldades empresariais sofridas com a crise econômica mundial de 2008, decidiu constituir uma série de sociedades empresárias com a finalidade de blindagem patrimonial, com o esvaziamento do patrimônio das pessoas naturais.
+Desse modo, restou devidamente comprovada a confusão patrimonial, consubstanciada na transferência de bem particular de Ézio e Maria do Carmo para a sociedade empresária e uso desse pelas pessoas naturais, como se seu fossem. Ainda, demonstrou-se que, mesmo após a saída do casal do quadro societário da Simões Invest, permaneceram ambos como sócios de fato, com amplos poderes de gerência, inclusive de oneração e alienação de bens (fl. 56).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
