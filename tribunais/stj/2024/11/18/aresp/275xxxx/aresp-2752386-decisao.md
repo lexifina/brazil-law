@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo interposto por HASSE ADVOCACIA E CONSULTORIA contra decisão que inadmitiu recurso especial (e-STJ, fls. 2.243-2.245) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 2.132):
+APELAÇÃO CÍVEL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CELEBRADO COM INSTITUIÇÃO FINANCEIRA. REVOGAÇÃO UNILATERAL. SENTENÇA DE PROCEDÊNCIA. RECURSO DA REQUERIDA. SUSCITAÇÃO DA COMPETÊNCIA DAS CÂMARAS DE DIREITO PÚBLICO PARA PROCESSAR E JULGAR O RECURSO. TESE REJEITADA. COMPETÊNCIA PARA JULGAR O CASO QUE É DAS CÂMARAS DE DIREITO CIVIL. PROCESSO QUE TRATA SOBRE CONTRATOS E PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. APLICAÇÃO DO CÓDIGO 9596 DO ANEXO III DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA (RITJSC). SUSCITADA A PRESCRIÇÃO DA PRETENSÃO DE COBRAR OS HONORÁRIOS. ACOLHIMENTO. LUSTRO TRANSCORRIDO EM 19.10.2022. AÇÃO AJUIZADA EM 23.11.2022. PRAZO PRESCRICIONAL JÁ CONSUMADO NA HIPÓTESE. EXTINÇÃO DO FEITO, COM RESOLUÇÃO DO MÉRITO, NOS MOLDES DO ART. 487, INC. II, DO CPC. RECURSO PROVIDO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 2.154):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. ERRO MATERIAL APONTADO NO JULGADO. NÃO OCORRÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PRETENDIDA MODIFICAÇÃO DO JULGADO. VIA INADEQUADA. PREQUESTIONAMENTO. INVIABILIDADE. ACLARATÓRIOS REJEITADOS.
+Nas razões do recurso especial, a recorrente alegou, com base nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação aos arts. 1.022, II, parágrafo único, I, do CPC/2015; 25, II e V, da Lei 8.906/1994; 3º da Lei 10.010/2020; e 486 do CC/2002.
+Apontou erro material no julgado recorrido.
+Sustentou que a ação proposta para recebimento da verba honorária não está prescrita.
+Frisou que "a interpelação judicial n. 5015561- 27.2020.8.24.0036 é o marco a ser utilizado, não havendo que se falar na ação 5016412-61.2023.8.24.0036para análise do prazo prescricional" (e-STJ, fl. 2.175).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 2.243-2.245.
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 2.253-2.259).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No recurso especial, a agravante apontou erro material no acórdão recorrido, passível de justificar a ofensa ao art. 1.022 do CPC/2015.
+Todavia, do exame das razões recursais, constata-se que a recorrente apresentou argumentos genéricos.
+Desse modo, ausente a deficiência na argumentação, aplica-se o disposto na Súmula 284/STF.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. AUSÊNCIA DE CITAÇÃO. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. DESNECESSIDADE DE INTIMAÇÃO PESSOAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência do STJ reconsiderada.
+2. A parte ora agravante não desenvolveu argumentação que evidenciasse a ofensa ao artigo 1.022, inciso II, do CPC/2015, apontado como violado, caracterizando-se a deficiência na fundamentação do apelo especial, circunstância que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal.
+3. "Segundo o entendimento do Superior Tribunal de Justiça, a extinção do processo, por falta de providência do ato citatório, prescinde de prévia intimação pessoal do autor" (AgInt no AREsp n. 1.361.546/SC, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 7/5/2019, DJe de 22/5/2019).
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.580.495/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. PORTADOR DE PARALISIA INFANTIL. MEDICAMENTO PRESCRITO À BASE DE CANABIDIOL. OBRIGATORIEDADE DE COBERTURA. PRECEDENTE DA TAXATIVIDADE DO ROL.
+1. A controvérsia cinge-se à cobertura pelo plano de saúde do fornecimento da medicação à base de canabidiol prescrita a paciente portador de paralisia infantil, retardo mental grave e traços de Síndrome de West.
+2. Insurge-se a parte agravante, em agravo interno, contra a obrigatoriedade de cobertura de medicamento à base de Canabidiol prescrito a paciente diagnosticado com Transtorno do Espectro Autista - TEA.
+3. A alegada afronta ao art. 1.022 do CPC não prospera, porquanto, em suas razões recursais, o recorrente limitou-se a apontar a existência de omissões genéricas quanto a questões relevantes, sem indicar, contudo, quais teriam sido os pontos omissos da decisão impugnada, tampouco a forma pela qual o dispositivo fora violado, o que atrai, nesse ponto específico, a incidência da Súmula n. 284 do STF.
+4. Quanto à ausência de debate em torno dos arts. 757 e 760 do Código Civil e a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o óbice das Súmulas n. 282 e 356 do STF.
+5. O entendimento do STJ está consolidado no sentido de que a autorização da ANVISA para a importação do medicamento para uso próprio, sob prescrição médica, é medida que, embora não substitua o devido registro, evidencia a segurança sanitária do fármaco, porquanto pressupõe a análise da Agência Reguladora quanto à sua segurança e eficácia, além de excluir a tipicidade das condutas previstas no art. 10, IV, da Lei n. 6.437/1977, bem como no art. 12, c/c o art. 66 da Lei n. 6.360/1976.
+Agravo interno improvido.
+(AgInt no REsp n. 2.089.266/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+No que se refere à análise da suposta afronta aos arts. 25, II e V, da Lei 8.906/1994; e 3º da Lei 10.010/2020, do exame dos fundamentos do aresto objurgado, constata-se que o conteúdo normativo dos mencionados dispositivos legais não foi prequestionado.
+Com efeito, nesse caso, aplica-se o disposto na Súmula 211/STJ.
+A respeito da prescrição da ação de cobrança dos honorários sucumbenciais, o Tribunal de origem assim se manifestou (e-STJ, fls. 2.130-2.131):
+De acordo com o disposto no art. 206, § 5º, II do Código Civil, a pretensão dos profissionais liberais em geral pelos seus honorários prescreve em 5 (cinco anos), contados da conclusão dos serviços, da cessação dos respectivos contratos ou mandato.
+In casu, o marco inicial da contagem do prazo prescricional se deu com a substituição do procurador encarregado pela condução do processo ora em discussão, ocorrida em 29.02.2016 (Evento 1, Anexo 9, fl. 2).
+Inobstante, o transcurso da prescrição foi interrompido pelo protocolo de aditamento à inicial no bojo dos autos n. 0303816-04.2016.8.24.0036, pelo qual o ora autor/apelado requereu a condenação do banco réu ao pagamento dos honorários sucumbenciais devidos pela atuação nos mais de 40.000 (quarenta mil) processos patrocinados pelo causídico em favor da instituição financeira.
+O curso do prazo de prescrição somente foi retomado após o trânsito em julgado da sentença proferida em sede de embargos de declaração (CNJ 0002028-91.2017.8.24.0036) opostos na ação supracitada, em 29.05.2017.
+Outrossim, o transcurso da prescrição foi suspenso entre 12.06.2020 e 30.10.2020, ou seja, por 4 (quatro) meses e 19 (dezenove) dias, em razão do disposto no art. 3º da Lei n. 14.010 de 2020, que cuidou do Regime Jurídico Emergencial e Transitório das relações jurídicas de Direito Privado (RJET) no período da pandemia do coronavírus (Covid-19):
+"Os prazos prescricionais consideram-se impedidos ou suspensos, conforme o caso, a partir da entrada em vigor desta Lei até 30 de outubro de 2020."
+Em que pese tenha havido interpelação judicial (autos n. 5015561-27.2020.8.24.0036) em 19.11.2020, tem-se que esta não pode interromper novamente o prazo prescricional, o qual somente pode ser interrompido uma única vez (REsp 1.924.436).
+Diante disso, entende-se que o lustro transcorreu em 19.10.2022.
+Tendo a presente ação sido ajuizada somente em 23.11.2022, é certo que foi fulminada pela prescrição temporal.
+Da citada passagem, depreende-se que o Tribunal local entendeu que a demanda proposta pela recorrente está prescrita, considerando a Corte local a interrupção e as suspensões do prazo prescricional apreciadas no caso concreto.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Em virtude da incidência do citado óbice sumular, fica prejudicada a análise da divergência jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/20 15, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. VIOLAÇÃO AOS ARTS. 25, II E V, DA LEI 8.906/1994; E 3º DA LEI 10.010/2020. DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRESCRIÇÃO RECONHECIDA. REEXAME. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
