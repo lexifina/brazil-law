@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Tocantins com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 471):
+JUÍZO DE RETRATAÇÃO NA APELAÇÃO CÍVEL. RECURSO EXTRAORDINÁRIO E ESPECIAL INTERPOSTO PELA DEFENSORIA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 421 DO STJ SUPERADA. TEMA 1.002/STF. JUÍZO DE RETRATAÇÃO PROVIDO.
+1. Em decisão unânime, o Plenário do Supremo Tribunal Federal (STF) decidiu que é devido o pagamento de honorários à Defensoria Pública nas demandas em que ela representa a parte vencedora contra qualquer ente público, inclusive aqueles aos quais está vinculada.
+2. O valor recebido, entretanto, deve ser destinado exclusivamente ao aperfeiçoamento das próprias Defensorias e não pode ser rateado entre seus membros.
+3. A decisão se deu no Recurso Extraordinário (RE) 114005, com repercussão geral (Tema 1.002), julgado na sessão virtual encerrada em 23/06/2023. 4. Acórdão reformado em sede de Juízo de Retratação, para fixar os honorários advocatícios em 10% (dez por cento) sobre o valor atualizado da causa em desfavor do Estado do Tocantins. Tema 1.002/STF.
+Opostos embargos declaratórios, foram desprovidos.
+A parte recorrente aponta violação ao art. 85, § 8º, do CPC. Sustenta, em síntese, que "nos processos em que se busca prestações positivas de saúde, tal como na ação originária, deve ser observado o que determina o artigo 85, § 8º do CPC/15 para a fixação dos honorários advocatícios de sucumbência, eis que, o bem da vida pretendido, a saúde, é inestimável, de forma que não cabe a fixação dos honorários de sucumbência com base no preço do tratamento pretendido, ou no valor atribuído arbitrariamente à causa." (fl. 556).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, a matéria de fundo debatida nos autos quanto à Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral (RE 1.412.069 - Tema 1255).
+Mostra-se conveniente, assim, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Confira-se, a propósito, precedente desta Corte:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO CONSTATADA. TEMA AFETADO AO RITO DA REPERCUSSÃO GERAL (RE 928.984/SP - TEMA 914). EXEGESE DOS ARTS. 1.040 e 1.041 DO CPC/2015. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM.
+1. A matéria de fundo debatida nos autos, referente à constitucionalidade da Contribuição de Intervenção no Domínio Econômico - CIDE sobre remessas ao exterior, instituída pela Lei 10.168/2000, posteriormente alterada pela Lei 10.332/2001, foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral (RE 928.984/SP - Tema 914).
+2. Mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores, com a restituição dos autos ao Tribunal de origem, para que, no momento oportuno, seja observado o disposto nos arts. 1.040 e 1.041 do CPC/2015.
+(EDcl no AgInt no AREsp 584.511/RJ, R elator Ministro Sérgio Kukina, Primei ra Turma, julgado em 11/2/2020, DJe de 20/2/2020.)
+EM RAZÃO DO EXPOSTO, julgo prejudicado o recurso e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido pela Excelsa Corte.
+Publique-se.
+EMENTA
