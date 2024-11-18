@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOSE HECIO SIQUEIRA FROES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do Agravo de Execução Penal n. 1.0000.23.315513-4/001.
+Extrai-se dos autos que o juízo da execução penal determinou a conversão da pena restritiva de direitos em privativa de liberdade, tendo em vista a inviabilidade de intimação do paciente para o início do cumprimento da pena - o que ensejou a expedição de mandado prisional em seu desfavor (fls. 24/25).
+Irresignada, a defesa interpôs agravo de execução perante o Tribunal de origem, que lhe negou provimento, nos termos do acórdão que restou assim ementado (fl. 10):
+"AGRAVO EM EXECUÇÃO PENAL - CONVERSÃO CAUTELAR DA PENA RESTRITIVA DE DIREITOS EM PENA PRIVATIVA DE LIBERDADE - REEDUCANDO NÃO LOCALIZADO - INTIMAÇÃO POR EDITAL - DESNECESSIDADE - 1. Nos termos do artigo 181, §1º, alínea "a" da Lei de Execução Penal, a pena restritiva de direitos será convertida em privativa de liberdade quando o reeducando não for encontrada por estar em lugar incerto e não sabido, ou desatender a intimação por edital. - 2. É dever do reeducando manter o seu endereço atualizado e informá-lo ao Juízo alguma alteração, no curso da execução penal. - 3. É cabível a intimação por edital na fase da execução penal quando o reeducando for declarada revel durante o processo de conhecimento."
+Os embargos de declaração opostos pelo paciente foram rejeitados (fls. 18/23).
+No presente writ, a impetrante sustenta o cabimento de habeas corpus, nos termos do art. 5º, LXVIII, da Constituição Federal, a fim de garantir a liberdade de locomoção do paciente, diante de flagrante ilegalidade promovida em seu desfavor.
+Nesse sentido, faz considerações sobre a inviabilidade de conversão da pena restritiva de direitos em privativa de liberdade, sem que tenha havido o esgotamento de diligências necessárias à localização do condenado.
+Requer, em liminar e no mérito, a concessão da ordem para que seja determinada a intimação do paciente por edital, a fim de que seja iniciado o cumprimento da pena restritiva de direitos, com respectivo recolhimento do mandado de prisão.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O Tribunal de origem assim se manifestou acerca da irresignação (fls. 12/16).
+"Em aspecto inicial, considere-se que é dever do reeducando manter seu endereço atualizado. Em se tratando de ofício às citadas instituições ou de outras diligências no sentido de se obter o endereço do reeducando, cabe à Defesa, no patrocínio dos interesses do agente diligenciar-se nesse sentido.
+A expedição dos ofícios requeridos é medida excepcional, pois o ônus de fornecer o endereço do reeducando não cabe ao juízo da execução (repita-se).
+Nesse sentido colaciona-se precedente do Superior Tribunal de Justiça  ..
+Em outro aspecto, a intimação por edital requerida é medida excepcional, a ser avaliada em cada caso e não isenta de responsabilidade o reeducando que deixa de informar ao Juízo eventual mudança de endereço.
+Mencione-se, ainda, a regra contida no artigo 367 do Código de Processo Penal que estabelece que o processo deve seguir sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao Juízo.
+Sendo assim, frustrada a intimação pessoal do reeducando no endereço por ele fornecido nos autos, torna-se desnecessário a intimação por edital para dar prosseguimento ao processo.
+Nesse sentido colaciona-se precedente do Superior Tribunal de Justiça:  ..
+Nesse prumo, em interpretação analógica, considerando o que dispõe o artigo 181, §1º, alínea "a", da Lei de Execução Penal, a pena restritiva de direitos será reconvertida em privativa de liberdade se o reeducando não for encontrado por estar em lugar incerto e não sabido, ou desatender a intimação por edital.
+No caso em exame, observa-se que aportou aos autos da execução a informação de que o agravante não vinha cumprindo as penas restritivas de direitos. Em seguida, foi realizada tentativa de intimação pessoal do agravante no endereço por ele informado nos autos, a qual restou infrutífera. Cerificou-se, portanto, que ele está em local incerto e não sabido (sequenciais 42 - SEEU).
+O Juízo de origem, então, reconverteu cautelarmente as penas restritivas de direitos em pena privativa de liberdade e determinou a expedição de mandado de recaptura.
+A Defesa se insurgiu contra a decisão, pugnando pela intimação por edital, argumentando, em síntese, que antes das penas restritivas de direitos serem reconvertidas em pena privativa de liberdade, deve ser realizada intimação por edital.
+Os Tribunais Superiores já pacificaram entendimento no sentido de que a intimação por edital só será necessária quando o réu for revel na ação penal originária. Nesse sentido, verifica-se entendimento do Superior Tribunal de Justiça:  ..
+Diante desse cenário, verifica-se que o reeducando não é revel na ação penal originária e encontra-se em endereço incerto ou não sabido.
+Conclui-se, portanto, que a decisão agravada deve ser mantida por estar em conformidade com os precedentes dos tribunais superiores e deste egrégio Tribunal de Justiça."
+Da leitura do excerto supra, verifica-se que a Corte de origem manteve a conversão da pena restritiva de direitos em privativa de liberdade , em virtude da não localização do paciente, no endereço cadastrado nos autos, para o início do cumprimento da reprimenda.
+É cediço que a amplitude cognitiva do habeas corpus confere maior discricionariedade ao julgador para apreciar eventual ilegalidade manifesta da decisão impugnada, ainda que de ofício. Essa característica, todavia, não ilide o ônus do impetrante de demonstrar, satisfatoriamente, o equívoco do comando judicial, sob pena de ofensa ao princípio da dialeticidade.
+Considerando que o referido axioma é corolário das categorias lógicas e abstratas do processo, incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus.
+Dessa forma, a insurgência apresentada pelo impetrante deve deduzir os motivos pelos quais entende equivocada a ratio decidendi, por meio de cotejo entre os fundamentos da decisão combatida e as razões que justifiquem sua reforma.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA DIALETICIDADE. APLICABILIDADE A HABEAS CORPUS. FUNDAMENTOS DA DECISÃO ATACADA. REMISSÃO OBRIGATÓRIA. REQUISITO NÃO ATENDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus.
+2. Se a parte se insurge contra decisão judicial, deve referir-se aos seus fundamentos antes de deduzir as teses defensivas.
+3. Ao não se remeterem ao que foi concretamente decidido na instância antecedente, as razões da impetração configuram alegações abstratas que, à guisa de se aplicarem a diversos processos, não se referem a nenhum especificamente, o que impede o seu conhecimento.
+4. Agravo regimental não provido.
+(AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+Com efeito, a insurgência apresentada pela defesa não atende aos pressupostos mínimos derivados do princípio da dialeticidade, pois se limita a fazer considerações sobre a necessidade da intimação do paciente por edital, desprovidas de fundamentos legais ou jurisprudenciais que amparem a irresignação apresentada.
+A bem da verdade, a tese principal apresentada pela impetrante diz respeito ao próprio cabimento do "habeas corpus de ofício", esta sim desenvolvida com dialética suficiente à sua apreciação, mas que não se sobrepõe ao mérito da controvérsia.
+Ainda que assim não fosse, encontra-se em harmonia com a jurisprudência desta Corte Superior a orientação adotada pelo Tribunal local, no sentido de que a intimação por edital para o início do cumprimento da pena se faz imprescindível, tão somente, nas hipóteses em que constatada a revelia do réu na ação penal originária - o que não ocorreu na espécie.
+A propósito:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PENAS RESTRITIVAS DE DIREITOS. PACIENTE EM LOCAL INCERTO E NÃO SABIDO. DESCUMPRIMENTO DA REPRIMENDA. CONVERSÃO EM PENA PRIVATIVA DE LIBERDADE. POSSIBILIDADE. CITAÇÃO POR EDITAL.
+DESNECESSIDADE. WRIT NÃO CONHECIDO. 1. O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+2. A Lei de Execução Penal, em seu art. 181, § 1º, "a", determina que se convertam as penas restritivas de direito impostas em respectivas penas privativas de liberdade, com a notícia de que o condenado se encontra em local incerto e não sabido ou que desatenda à intimação por edital.
+3. O próprio acusado deixou de cumprir, espontaneamente, com a obrigação de atualização do seu endereço, motivo pelo qual não poderia, agora, arguir nulidade a que ele mesmo deu causa.
+4. A intimação por edital para o início do cumprimento da pena restritiva de direitos é cabida apenas para o réu julgado à revelia (Precedentes).
+5. Habeas corpus não conhecido.
+(HC n. 379.336/MA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/5/2017, DJe de 9/5/2017.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO DA PENA. CONVERSÃO DA PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. AUSÊNCIA DE AUDIÊNCIA DE JUSTIFICAÇÃO. AUSÊNCIA DE INTIMAÇÃO. LUGAR INCERTO E NÃO SABIDO. ENDEREÇO DESATUALIZADO. AFRONTA AO CONTRADITÓRIO E À AMPLA DEFESA. NÃO VERIFICADA.
+1. Não há que falar em violação aos princípios do contraditório e da ampla defesa, se a reconversão da pena restritiva de direitos em privativa de liberdade se deu sem oitiva do paciente por não haver nos autos, "à época, qualquer informação relativa ao novo endereço, tudo a evidenciar que se encontrava em local incerto e não sabido, descumprindo a obrigação legal de manter seu endereço atualizado".
+2. De acordo com a jurisprudência desta Corte, " é  inviável a expedição de ofícios ou a realização de diligências outras tendentes a descobrir o paradeiro do condenado, pois é sua obrigação comunicar a nova residência ao Juízo, sob pena de arcar com o ônus de sua desídia, que é o seguimento do processo sem sua presença" (AgRg no HC n. 761.122/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022).
+3. Além disso, "não se exige a intimação por edital do condenado não localizado em seu endereço constante dos autos para a conversão da pena restritiva de direitos em privativa de liberdade" (AgRg no REsp n. 1.496.711/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe 13/2/2017).
+4. Assim, "frustrado o início do cumprimento das penas restritivas de direitos e a realização da audiência de justificação em razão de desídia do Condenado, que não informou outro endereço diverso daquele declinado nos autos - ônus legal que lhe compete - deve ocorrer a reconversão em sanção privativa de liberdade" (HC n. 493.068/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/5/2019, DJe de 30/5/2019). Evidenciado o descumprimento de obrigação judicial imposta, não há ilegalidade a ser reparada por esta Corte.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 750.619/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
