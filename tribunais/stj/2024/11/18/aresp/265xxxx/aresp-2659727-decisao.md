@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Pernambuco assim ementado (e-STJ, fls. 546-547):
+DIREITO DO CONSUMIDOR - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO AO CUMPRIMENTO ACOLHIDA PARCIALMENTE - ALEGAÇÃO DE AUSÊNCIA DE DESCUMPRIMENTO EXAUSTIVAMENTE DECLARADO NOS AUTOS E CONFIRMADO EM SENTENÇA - REDUÇÃO DO VALOR TOTAL DA MULTA DE R$ 948.551,57 PARA R$ 152.850,00 - CORRETA - DEPÓSITO EM GARANTIA QUE NÃO ELIDE A MULTA PREVISTA NO ART 523 DO CPC - DECISÃO CORRETA E MANTIDA - AGRAVO IMPROVIDO.
+- Não cabe mais a discussão acerca da ausência de descumprimento da liminar quando tal assunto já foi exaustivamente debatido nos autos tendo sido, inclusive, confirmado em sentença.
+- Evidenciado o excesso e considerando a possibilidade de o Julgador reduzir, inclusive, de ofício, o valor da multa judicial, deve ser reduzido e consolidado em patamares razoáveis, o que foi devidamente realizado na decisão ora recorrida.
+- O montante da condenação ao pagamento de quantia certa será acrescido de multa e de honorários, ambos no percentual de dez por cento (10%), se o devedor não realizar o pagamento de forma espontânea no prazo de quinze (15) dias, conforme expresso no art. 523, § 1º, do CPC. - Recurso a que nega provimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 571-577).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 537, § 1º, I e II, e 1.022 do CPC; e 884 do CC.
+Esclareceu que se opôs ao acórdão por não reconhecer o caráter excessivo da multa fixada por descumprimento de obrigação de fazer.
+Afirmou a ausência de apreciação de matéria relevante, qual seja, a necessidade de redução do valor das astreintes, tendo em vista a desproporcionalidade da quantia fixada.
+Destacou ter sido condenada ao pagamento de multa no valor de R$ 152.850,00 (cento e cinquenta e dois mil, oitocentos e cinquenta reais), em razão do suposto descumprimento de ordem judicial, montante que se qualifica como exorbitante. Ponderou que a referida penalidade arbitrada foi transmuda, de natureza jurídica de multa coercitiva para ressarcitória.
+Frisou que a manutenção da condenação enseja enriquecimento ilícito da parte segurada, o que não se pode admitir. Requereu o provimento do recurso especial (e-STJ, fls. 587-596).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 614-618).
+Contraminuta não apresentada (e-STJ, fl. 620).
+Brevemente relatado, decido.
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+O julgamento entendeu que o valor objeto de cumprimento de sentença, oriundo de multa por descumprimento de obrigação de fazer, não seria excessivo nem desproporcional.
+Argumentou-se que o montante a que chegaram as astreintes já teria sido reduzido, para patamar adequado, não cabendo, dessa forma, a alegação de enriquecimento sem causa.
+Leia-se (e-STJ, fls. 574-575):
+Não assiste razão ao Embargante. Isso porque, da análise do voto condutor do acórdão, verifica-se que a alegação de desproporcionalidade do valor da multa (astreintes) foi devidamente enfrentada, conforme trecho a seguir transcrito:
+"Finalizando, em relação ao valor da multa, como já dito no Agravo de Instrumento nº 014172-93.2022.8.17.9000 interposto pelo ora Agravado, filio-me a corrente que admite não só a modificação da multa vincenda, mas também da multa vencida.
+Todavia, o juiz de piso já reduziu o valor na decisão recorrida, enfatizando que o valor final da multa cominatória chegou ao montante de R$ 764.250,00 (setecentos e sessenta e quatro mil, duzentos e cinquenta reais), o que, com a devida atualização, resulta na quantia de R$ 948.551,57 (novecentos e quarenta e oito mil, quinhentos e cinquenta e um reais e cinquenta e sete centavos), mostrando-se efetivamente excessivo, motivo pelo qual o reduziu para R$152.850,00 (cento e cinquenta e dois mil, oitocentos e cinquenta reais).
+Ou seja, houve uma redução do valor inicial de R$1.000,00/dia depois majorado para R$1.500,00/dia para R$ 300,00 (trezentos reais) por dia de descumprimento total e R$ 150,00 (cento e cinquenta reais) por dia de descumprimento parcial.
+Assim, pelo fato de o valor final ter se mostrado efetivamente excessivo, indo na posição contrária aos princípios da razoabilidade, adequação e proporcionalidade, a ponto de acarretar o enriquecimento ilícito da parte, entendo que tal redução foi correta e deve ser mantida".
+Ressalto, ainda, que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis para rediscutir matéria já decidida, assim como para dar suporte ao descontentamento e inconformismo da parte, proveniente do seu ponto de vista sobre o assunto, os quais devem ser objeto de Recurso Especial ou Extraordinário.
+Essas ponderações foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional.
+A insurgente não busca a mera qualificação jurídica desse quadro, mas sua reanálise, o que é vedado em recurso especial.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. ASTREINTES. VALOR ARBITRADO. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. MULTA. ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE.
+1. A revisão das conclusões da Corte de origem quanto à proporcionalidade e à razoabilidade do montante fixado à título de astreintes devido ao descumprimento de obrigação de fazer demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que a aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+3. Indispensável que o agravo interno se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.696.927/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ASTREINTES. REVISÃO. AGRAVO INTERNO DESPROVIDO.
+1. Não houve ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. O eg. Superior Tribunal de Justiça tem entendimento de que o exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância da importância arbitrada em relação à obrigação principal, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, a ora agravante pretende majorar a multa por descumprimento da obrigação de fazer, reduzida de R$ 1.000,00 (mil reais) para R$ 500,00 (quinhentos reais) por dia. Não obstante, tendo em vista que a obrigação de restabelecer o plano de saúde da recorrente foi cumprida, ainda que em atraso, as astreintes não devem ser majoradas, máxime porque fixadas em valor compatível com os danos sofridos.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.539.699/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/10/2024, DJe de 23/10/2024.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, na extensão conhecida, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA - ASTREINTES. OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE JUSTIFICADO. MULTA FIXADA EM VALOR ADEQUADO E PROPORCIONAL. MONTANTE ATINGIDO QUE NÃO OCASIONA ENRIQUECIMENTO SEM CAUSA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
