@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por Pedro Felipe de Carvalho Fermanian contra ato atribuído à Ministra de Estado da Gestão e da Inovação em Serviços Públicos.
+O impetrante, em suas razões, informa que prestou o concurso público para o cargo de Auditor-Fiscal do Trabalho (AFT), incluído no Bloco 4 do Concurso Nacional Unificado (CNU), em 18/agosto, logrando a nota de 84,15. Destaca que:
+A despeito do próprio edital consignar que "Cada questão das provas objetivas apresentará cinco alternativas (A; B; C; D; E) e uma única resposta correta." (item 7.1.1.1.) a questão nº 35 do caderno de questões do impetrante - caderno nº 1 e de igual teor na questão nº 36 do caderno nº 2, e nº 37 do caderno nº 3 do período da tarde, Bloco 4 - apresenta triplicidade de respostas corretas.
+O enunciado da questão aborda áreas da ergonomia. A sua redação, por ser demasiadamente ampla e abrangente, permite três respostas corretas:
+organizacional; cognitiva; e física. Essas hipóteses correspondem a três respostas diferentes. A banca examinadora, contudo, considerou somente a alternativa "física" como correta (alternativas E, C e A, respectivamente, nos tipos de prova 1, 2 e 3).
+ ..  como outros candidatos, interpôs recurso perante a banca organizadora, mas não logrou êxito, uma vez que esta não anulou a questão nº 35 do caderno nº 01, e suas respectivas correspondências nos demais cadernos.
+a despeito do erro grosseiro cometido, os recursos interpostos e o parecer emitido pela ABERGO, não foi suficiente para que a Administração, em autotutela 3 , anulasse a questão.
+ ..  a despeito do erro grosseiro cometido, os recursos interpostos e o parecer emitido pela ABERGO, não foi suficiente para que a Administração, em autotutela 3 , anulasse a questão.
+Nesse contexto, deduz que, "sendo caracterizado erro grosseiro na elaboração da questão, é manifesta a necessidade de sua anulação. De forma que não tendo sido este o atuar da Administração Pública, resta o Poder Judiciário para sanar a ilegalidade". Assim, "pede a anulação da questão nº 35 do caderno nº 01, garantindo-se a devida ordem classificatória do certame". Defende que os requisitos legais para a concessão da liminar (plausibilidade do direito e o periculum in mora) estariam preenchidos.
+É o relatório. Passo a decidir.
+Nos termos do art. 105, I, b, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal", cuja interpretação é restritiva.
+Por sua vez, o § 3º do art. 6º da Lei n. 12.016/2009 estabelece que a autoridade coatora é a quela "que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+No caso, em síntese, o impetrante consigna que "interpôs recurso perante a banca organizadora, mas não logrou êxito, uma vez que esta não anulou a questão nº 35 do caderno nº 01, e suas respectivas correspondências nos demais cadernos".
+Nesse contexto, evidencia-se que o ato coator foi praticado pela Banca CESGRANRIO, e não pela Ministra da Gestão e da Inovação em Serviços Públicos - MGI.
+Inquestionavelmente, "o fato de a Ministra de Estado da Gestão e Inovação em Serviços Públicos ser responsável pela expedição do edital não é suficiente para torná-la responsável pela execução de todo e qualquer ato relacionado à execução do certame" (MS n. 30.598, Ministro Francisco Falcão, DJe de 18/9/2024.).
+Dessa forma, sendo notório que a autoridade apontada como coatora não possui legitimidade para compor o polo passivo da ação mandamental, resta afastada a competência originária desta Corte Superior de Justiça para o processamento e julgamento do feito, nos termos do art. 105, I, b, da Constituição da República.
+No mesmo sentido, em situação que se assemelha ao caso dos autos, destacam-se: MS n. 30.750/DF, Ministro Afrânio Vilela, DJe de 13/11/2024; MS n. 30.740/DF, Ministra Maria Thereza de Assis Moura, DJe de 06/11/2024; MS n. 30.698/DF, Ministro Sérgio Kukina, DJe de 6/11/2024, dentre outros julgados.
+Ante o exposto, declaro a ilegitimidade passiva da Ministra de Estado da Gestão e da Inovação em Serviços Públicos e, por conseguinte, com fulcro no art. 6º, § 5º, da Lei n. 12.016/2009 e nos arts. 34, XIX, e 212 do RI/STJ, extingo o feito sem resolução do mérito. Prejudicado o pedido liminar.
+Custas pela parte. Sem condenação em honorários advocatícios - art. 25 da Lei 12.016/2009 e Súmula 105/STJ.
+Publique-se. Intimem-se.
+EMENTA
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO. INCOMPETÊNCIA DESTA CORTE.
