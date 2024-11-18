@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado por NAIARA DE OLIVEIRA ALMEIDA, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que, em primeiro grau (Processo nº 0001727-45.2021.8.19.0004), o paciente foi condenada à pena de 06 anos de reclusão 10 dias-multa, a ser cumprida inicialmente em regime fechado, ante a suposta prática do crime previsto no artigo 2º, §4º, inciso I, da Lei 12.850/2013, tendo o Tribunal de Justiça do Estado do Rio de Janeiro negado provimento à apelação interposta pela defesa.
+Na presente impetração, busca-se a concessão da ordem, para que seja absolvida a paciente ou, subsidiariamente, para que seja redimensionada a dosimetria, bem como fixado o regime aberto de cumprimento da pena, com substituição da pena privativa de liberdade por restritivas de direitos.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida dos autos, extrai-se da petição inicial do habeas corpus que o impetrante interpôs Recurso Especial e, posteriormente, Agravo em Recurso Especial para impugnar o acórdão lavrado pelo Tribunal de Justiça do Estado de São Paulo, sem êxito.
+No particular, é remansosa a jurisprudência desta Corte no sentido de ser inadmissível o manejo de recursos e de habeas corpus contra a mesma decisão, por se tratar de indevida subversão do sistema recursal e afronta ao princípio da unirrecorribilidade, circunstância que, por si só, enseja o não conhecimento do habeas corpus.
+Confira-se o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS JULGADO PREJUDICADO. PRETENSÃO DE REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL DEDUZIDA CONCOMITANTEMENTE NO WRIT E EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. QUESTÃO ANALISADA NO MEIO PRÓPRIO. PERDA DO OBJETO. PRECEDENTES.
+ ..
+4. Ao impetrar habeas corpus após a interposição de recurso especial, cujo fundamento abrange o constante no writ, a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais (AgR no HC n. 560.166/RO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/3/2020).
+5. Em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus para tratar de máculas já suscitadas em recurso especial. Precedentes (AgRg no HC n. 573.510/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/8/2020).
+6. Agravo regimental desprovido (STJ, AgRg no HC 590.414/SC, relator o ministro Sebastião Reis Júnior, DJe de 10.05.2021).
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Nesta toada, a pretensão de absolvição resvala na via estreita do habeas corpus, que impossibilita o revolvimento de matéria fático-probatória nestes autos, consoante jurisprudência sedimentada desta Corte, devendo ser observadas as escorreitas conclusões do Tribunal local, soberano no enfrentamento de fatos e provas.
+A propósito:
+GRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO NO TOCANTE AO DELITO DE ASSOCIAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES. 1/6. PROPORCIONALIDADE. PRIVILÉGIO. INAPLICABILIDADE. CONDENAÇÃO CONCOMITANTE PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - No presente caso, as instâncias ordinárias fundamentaram devidamente a condenação pelo crime de associação para o tráfico, com fulcro em robusto conjunto probatório, restando configurada a estabilidade e a permanência da associação, bem como a função da agravante e dos demais integrantes, com hierarquia e divisão de tarefas. IV - O rito do habeas corpus não admite o revolvimento de matéria fático probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local. (..) Agravo regimental desprovido (AgRg no HC 895457 / SC, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 16/05/2024).
+Desta feita, portanto, "o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita" (AgRg no HC 910455 / SP, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 13/09/2024).
+De outro giro, no que toca à fração concernente à causa de aumento de pena, como bem pontuado pelo Parquet em seu parecer, verifica-se que a questão sequer foi objeto de apreciação por parte do Tribunal de origem no acórdão impugnado, circunstância que, por si só, impede a esta Corte Superior de decidir diretamente a matéria, sob pena de indevida supressão de instância.
+Logo, "não debatida a questão pela Corte a quo, é firme o entendimento de que fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (AgRg no HC 901793 / RN, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 13/09/2024).
+Ademais, uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para reduzir a reprimenda-base estabelecida ao réu (AgRg no HC 927292 / ES, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 19/09/2024).
+Os demais pleitos subsidiários destoam de texto expresso do Código Penal.
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
