@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2.  Agravo  interno  não  conhecido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por JOSÉ CARLOS ELIAS contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento (fls. 4.970-4.977).
+O agravante sustenta, em síntese, que:
+ ..  as teses arguidas no presente não objetivam o reexame do conjunto fático-probatório e sim a correta aplicação do devido processo legal ao procedimento de improbidade administrativa que culminou no pagamento de elevadas multas e um excesso de pena referente à perda de direitos políticos do Sr. José Carlos Elias (fl. 4.988).
+Afirma que:
+ ..  foi condenado à suspensão dos direitos políticos pelo período de 10 (dez) anos, a serem contados após o trânsito em julgado do procedimento. Consoante já exaustivamente arguido, a referida decisão ofendeu frontalmente o disposto no artigo 966, incisos II e IV, do Código de Processo Civil; artigos 23 e 29 da Convenção Americana de Direitos Humanos; artigos 185, 392, inciso II, 564, do Código de Processo Penal e artigo 5º, incisos LIV e LV, e §2º, da Constituição Federal (fl. 4.992).
+Aduz que "foi SENTENCIADO SEM A ABERTURA DE PRAZO PARA OFERECIMENTO DE ALEGAÇÕES FINAIS. Nesse sentido, em nenhum momento, portanto, o ora Agravante efetivamente pode se manifestar em contraditório" (fl. 4.993).
+Sustenta que, "além dos diversos equívocos procedimentais ocorridos nos autos da ação civil questionada, verificou-se, ainda, que o acórdão recorrido violou frontalmente o artigo 966, inciso V, do Código de Processo Civil, quanto à desproporcionalidade da sanção aplicada" (fl. 4.995).
+Alega que "os oito anos de inelegibilidade devem ser computados uma única vez, iniciando da publicação do acórdão proferido por órgão colegiado. Se entre tal decisão e o trânsito em julgado se passarem mais de oito anos, a inelegibilidade estará findada" (fl. 4.998).
+Conclui afirmando que:
+ ..  merece provimento o presente Agravo Interno, para que seja dado provimento à totalidade do Recurso Especial interposto, considerando a clara ofensa ao artigo 966, incisos II, IV e V, do Código de Processo Civil; aos artigos 23 e 29 da Convenção Americana de Direitos Humanos; artigos 185, 392, inciso II, 564, do Código de Processo Penal e artigo 5º, incisos II, LIV e LV, e §2º, da Constituição Federal, de modo que seja dado provimento à ação rescisória originária (fl. 5.000).
+A parte agravada não apresentou impugnação ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2.  Agravo  interno  não  conhecido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): O agravo interno não merece conhecimento, porquanto não observado o princípio da dialeticidade recursal.
+Conforme dispõe o § 1º do art. 1.021 do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No caso, a decisão agravada conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento, com base nos seguintes fundamentos:
+a) levando em consideração as teses fixadas no Tema 1.199/STF, as disposições da Lei 14.230/2021 não são aplicáveis ao caso, pois "a sentença que condenou o recorrente pela prática de ato de improbidade administrativa transitou em julgado em 23/09/2016 (fl. 9) e a ação rescisória que deu origem ao presente recurso foi ajuizada em 13/11/2017 (fl. 2)" (fl. 4.973);
+b) no que se refere à alegada impossibilidade de imposição da sanção de suspensão dos direitos políticos em ação civil pública por ato de improbidade, "o acórdão recorrido possui fundamento exclusivamente constitucional, cujo exame não cabe a este Superior Tribunal em recurso especial, sob pena de usurpação dos poderes conferidos ao Supremo Tribunal Federal" (fl. 4.974);
+c) quanto à alegada ofensa aos arts. 185, 392, II, e 564 do CPP, "infirmar as conclusões do acórdão recorrido, no tocante à ausência de cerceamento de defesa, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ" (fls. 4.974-4.975);
+d) mesmo que o óbice da Súmula 7/STJ pudesse ser superado, o acórdão recorrido não destoa da jurisprudência deste Superior Tribunal, no sentido de que ""as intimações efetuadas em nome do Advogado que apresentou a defesa preliminar são válidas, presumindo-se que ele seria o patrono a defender a parte até o final da causa ou até a superveniência de eventual revogação de mandato e veiculação de nova procuração nos autos. A nulificação não se conforme na espécie" (AgInt no REsp n. 1.547.188/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 27/6/2017, DJe de 8/8/2017)  ..  "É válida a admissão ao processo de prova emprestada, desde que respeitado o contraditório na demanda em que a prova venha a ser utilizada" (REsp n. 1.601.868/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/8/2024, DJe de 29/8/2024)" (fl. 4.975); e
+e) este Superior Tribunal possui jurisprudência no sentido de que ""os critérios de proporcionalidade, de justeza, de razoabilidade, utilizados como parâmetros na aplicação das sanções ao ato ímprobo não são passíveis de serem revistos na via estrita de ação rescisória, porquanto não se constituem como violação "literal" de dispositivo legal" (AgRg no AREsp n. 256.135/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/12/2014, DJe de 3/2/2015)" (fls. 4.975-4.976).
+Todavia, no presente agravo interno, não  houve  impugnação  específica  desses fundamentos.
+Conforme jurisprudência:
+ ..  inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão (AgInt no AREsp n. 1.991.801/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 17/3/2023).
+A respeito da aplicação da Súmula 83/STJ pelo juízo prévio de admissibilidade, em casos análogos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+Com efeito, a dialeticidade recursal é um princípio fundamental da validade dos recursos, a partir do qual entende-se que o agravante deve atacar os argumentos da decisão, e não somente manifestar a vontade de recorrer, ou aduzir razões genéricas.
+A propósito:
+AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO DOS TERMOS DO PEDIDO ORIGINÁRIO. AGRAVO NÃO CONHECIDO.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. O princípio da dialeticidade recursal impõe à parte agravante o dever de impugnar de forma clara, objetiva e concreta os fundamentos da decisão agravada de modo a demonstrar o desacerto do julgado.
+3. Agravo interno não conhecido (AgInt na SS n. 3.430/MA, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 12/9/2023, DJe de 15/9/2023).
+Portanto, conforme jurisprudência desta Corte, à luz do que dispõem o art. 1.021, § 1º, do CPC/2015; e a Súmula 182/STJ, não se conhece do agravo interno quando ausente impugnação específica dos fundamentos da decisão agravada.
+Isso posto, não conheço do recurso.
