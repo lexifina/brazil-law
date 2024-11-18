@@ -1,0 +1,66 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 341/342, in verbis:
+Trata-se de recurso especial fundado na alínea "a" do art. 105, III, da CF, contra acórdão da 12ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento da Apelação Criminal n. 1500589-58.2021.8.26.0558.
+ROGÉRIO DE SOUZA FERREIRA foi condenado à pena de dois anos e quatro meses de reclusão, em regime inicial fechado, e ao pagamento de 11 dias-multa, no valor unitário mínimo, pelo crime do art. 155, §4º, inciso I, do CP.
+A defesa apelou da sentença. O TJ/SP deu parcial provimento ao recurso, para redimensionar a pena do recorrente, fixando-a definitivamente em dois anos de reclusão, no regime inicial semiaberto, e pagamento de 10 dias-multa, nos termos da seguinte ementa:
+Furto qualificado Autoria demonstrada Conjunto probatório satisfatório Redução das penas Modificação para o regime SEMIABERTO Recurso da defesa PARCIALMENTE PROVIDO (f. 251).
+O MP opôs embargos de declaração com a finalidade de prequestionamento da matéria infraconstitucional., os quais foram rejeitados (f. 277).
+Na sequência, o Parquet interpôs recurso especial, com fundamento na alínea "a", do art. 105, III, da CF, em que alega que o acórdão recorrido contrariou o art. 387 do CPP. Relata que o Tribunal a quo afastou a caracterização dos maus antecedentes, com consequente decote da circunstância judicial desfavorável, redução da pena base e fixação do regime inicial semiaberto diante da ausência de indicação, na sentença, do número dos feitos que geraram os maus antecedentes e de documento em que se fundava essa conclusão caracteriza falta de fundamentação e impede a subsistência do reconhecimento dessa circunstância; que os maus antecedentes estão demonstrados pelas certidões devidamente juntada aos autos; que " a r. sentença, ao reconhecer a reincidência, fez menção apenas às fls.
+32/34 sem, contudo, indicar o número do processo"; que " no tocante à agravante genérica da reincidência, o v. acórdão integrou a r. sentença e indicou o número do processo caracterizador da reincidência"; que " nas mesmas folhas 32/34 dos autos constam as quatro condenações geradoras dos maus antecedentes e, outra, geradora da reincidência". Requer o provimento do recurso para cassar parcialmente a decisão hostilizada, reconhecendo os maus antecedentes do acusado, restabelecendo a pena-base aplicada em primeiro grau de jurisdição, bem como o regime prisional fechado, ante os maus antecedentes e a reincidência (f. 287-300).
+Contrarrazões às f. 322-326.
+O recurso foi admitido na origem (f. 333).
+Vieram os autos ao MPF para parecer.
+Ao final, o Parquet Federal opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da dosimetria da pena, o Juízo de primeiro grau assim se manifestou (e-STJ fl. 209):
+APLICAÇÃO DA PENA.
+1. Tendo em vista as circunstâncias judiciais do delito (art. 59, CP), considerando os maus antecedentes, a pena-base deve ser fixada em 02 (dois) anos e 04 (quatro) meses de reclusão.
+2. Na segunda fase da dosimetria, há a circunstância atenuante da confissão espontânea.
+Lado outro, há uma circunstância legal agravante de reincidência (fls. 32/34). Logo, havendo uma circunstância atenuante e uma agravante, ambas se compensam.
+3. Por fim, na terceira fase da dosimetria, não há causas de aumento ou diminuição da pena.
+Incabível, no presente caso, a substituição da pena privativa de liberdade pela pena restritiva de direitos, haja vista que o réu é reincidente.
+Já a Corte de origem, no ponto, assim consignou (e-STJ fl. 254, grifei):
+As penas, todavia, comportam correção.
+Na primeira fase, a pena-base foi fixada em 1/6 (um sexto) acima do seu valor mínimo, em decorrência da presença de maus antecedentes.
+No entanto, forçoso reconhecer que não foi apresentada a devida fundamentação para a majoração da pena-base, posto que sequer foram indicadas as folhas das quais constam os maus antecedentes do réu, e poderiam ter sido descritos os números dos processos eventualmente considerados, incumbência que competia ao juízo sentenciante, ocorrendo violação ao disposto no artigo 93, inciso IX, da Constituição Federal, e ao direito do acusado à individualização da pena, nos termos do artigo 5º, inciso XLVI, da Constituição Federal.
+Assim, a pena-base deve ser fixada no mínimo legal, de 02 (dois) anos de reclusão e o pagamento de 10 (dez) dias-multa, no valor mínimo legal.
+Por outro lado, na segunda fase, não há apenas menção à reincidência do réu, mas indicação das folhas 32/34, nas quais consta a condenação com trânsito em julgado em 13/10/2020 nos autos de nº 1500116-44.2019.8.26.0396, motivo pelo qual é possível manter o reconhecimento da agravante, que foi compensada com a atenuante da confissão espontânea, permanecendo a pena no mínimo legal.
+Na terceira fase, ausentes causas de aumento ou de diminuição de pena, a qual fica definitivamente fixada em 02 (dois) anos de reclusão e pagamento de 10 (dez) dias-multa, no valor mínimo legal.
+Diante do montante da pena aqui aplicada, menor que 04 (quatro) anos, e considerando que foram afastados os maus antecedentes e reconhecida uma só reincidência, além de o réu ter adotado uma postura colaborativa ao confessar os fatos, altero o regime inicial de cumprimento de pena para o semiaberto, que considero mais proporcional e adequado ao caso.
+Pois bem.
+Com razão o Parquet estadual.
+É que, na hipótese, reconhecidos os maus antecedentes do paciente às e-STJ fls. 30/36 e a sua condição de reincidente às e-STJ fls. 32/34, é imperioso o restabelecimento da sentença, no ponto, não havendo que se falar em ausência de fundamentação idônea pelo Juízo de primeiro grau.
+Afinal, segundo o entendimento consolidado desta Corte Superior, é desnecessária até mesmo "a juntada de certidão cartorária como prova de maus antecedentes ou reincidência, admitindo, inclusive, informações extraídas do sítio eletrônico de Tribunal como evidência nesse sentido" (AgRg no AREsp n. 549.303/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/5/2015, DJe de 29/5/2015).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. PRAZO PARA A INTERPOSIÇÃO DO RECURSO CABÍVEL NA CAUSA PRINCIPAL QUE AINDA NÃO FLUIU. INADEQUAÇÃO DA PRESENTE VIA IMPUGNATIVA. PRECEDENTE DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA: HC 733.563/RS, REL. MINISTRO ROGERIO SCHIETTI CRUZ. AUSÊNCIA DE PATENTE ILEGALIDADE APTA A ENSEJAR A CONCESSÃO DA ORDEM DE OFÍCIO. IMPOSSIBILIDADE DE ESTA CORTE EXAMINAR A CONTROVÉRSIA NA VIA ELEITA, ANTE TEMPUS. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus foi impetrado antes do dies ad quem para a interposição do recurso especial. Portanto, o manejo do writ consubstancia inadequada substituição ao recurso cabível, porquanto prematuro, não se podendo excluir, por ora, a possibilidade de a matéria ser arguida perante esta Corte na via de impugnação própria, qual seja, o recurso especial, a ser eventualmente interposto na causa principal. Assim, não compete ao Superior Tribunal de Justiça, ante tempus, examinar a controvérsia. Precedentes.
+2. Não há evidente ilegalidade apta a ensejar a concessão da ordem de ofício. De fato, a Corte estadual ressaltou que, em consulta aos autos, há, no inquérito, certidão comprobatória de condenação pela prática de crime cometido no dia 31/03/2014, com trânsito em julgado em 02/10/2018, antes do fato ora em apuração, o que evidencia a reincidência do Agravante. Nesse sentido, conforme entendimento desta Corte Superior de Justiça, é " d esnecessária a prova de certidão cartorária visando atestar a reincidência, sendo possível referida comprovação por intermédio de consulta ao sítio eletrônico adotado pelo Tribunal  .. "(AgRg no AREsp n. 1.902.790/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 779.864/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/3/2023, DJe de 20/3/2023.)
+E, por oportuno, colaciono o seguinte trecho do parecer acostado pelo Ministério Público Federal (e-STJ fl. 344):
+No caso, houve, no máximo, insuficiência de fundamentação na sentença condenatória, mas tal fato, por si só, não justifica o afastamento dos maus antecedentes.
+Do regime inicial
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis.
+E, no caso dos autos, em razão da existência de circunstância judicial desvalorada na primeira fase da dosimetria (maus antecedentes), bem como da condição de reincidente do recorrido, é de rigor a fixação do regime prisional imediatamente mais gravoso do que aquele que a quantidade de pena atrairia, o semiaberto, e não o fechado.
+Nesse sentido mesmo sentido caminha a jurisprudência consolidada desta Corte Superior:
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EFEITOS INFRINGENTES. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. EMBRIAGUEZ AO VOLANTE E RESISTÊNCIA. REGIME PRISIONAL MAIS GRAVOSO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. MAUS ANTECEDENTES E REINCIDÊNCIA. AGRAVO DESPROVIDO.
+1. Embargos declaratórios com nítidos intuitos infringentes devem ser recebidos como agravo regimental, em observância ao princípio da fungibilidade recursal.
+2. Consoante a jurisprudência desta Corte Superior, é possível a fixação do regime inicial mais gravoso em virtude dos maus antecedentes e da reincidência em crime doloso.
+3. A despeito de a pena ter sido fixada em 1 ano, 5 meses e 2 dias de detenção, correta a imposição do regime prisional mais gravoso - semiaberto - , em razão dos maus antecedentes e da reincidência, nos termos dos arts. 33 e 59 do Código Penal, sendo também descabida a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do Código Penal.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no HC n. 896.777/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 6/8/2024, DJe de 8/8/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL. EMBRIAGUEZ AO VOLANTE. RÉU PRIMÁRIO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA IGUAL OU INFERIOR A 4 ANOS. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É cabível a imposição do regime inicial semiaberto aos condenados a pena igual ou inferior a quatro anos, que sejam primários, mas com circunstâncias judiciais desfavoráveis.
+2. Na espécie, deve ser mantido o modo intermediário de cumprimento de pena para o agravante, primário e condenado a 10 meses e 10 dias de detenção, em virtude dos maus antecedentes.
+3. Agravo regimental não provido.
+(AgRg no HC n. 848.045/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/11/2023, DJe de 1º/12/2023, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE E DIREÇÃO INABILITADA. PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE. DELITOS AUTÔNOMOS. REGIME PRISIONAL MAIS GRAVOSO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. RE INCIDÊNCIA. AGRAVO IMPROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, "os crimes previstos nos artigos 306 e 309 do CTB são autônomos, com objetividades jurídicas distintas, motivo pelo qual não incide o postulado da consunção. Dessarte, o delito de condução de veículo automotor sem habilitação não se afigura como meio necessário nem como fase de preparação ou de execução do crime de embriaguez ao volante" (AgRg no REsp n. 1.745.604/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/8/2018, DJe 24/8/2018).
+2. A despeito de as penas terem sido fixadas em 8 meses e 5 dias de detenção, correta a imposição do regime prisional mais gravoso - semiaberto -, em razão da reincidência, nos termos dos arts. 33 e 59 do Código Penal, sendo também descabida a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 4 4 do Código Penal.
+3. Agravo regimental improvido.
+(AgRg no HC n. 784.789/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023, grifei.)
+À vista do exposto, acolho o parecer ministerial e dou parcial provimento ao recurso especial para restabelecer a reprimenda de 2 anos e 4 meses de reclusão, prevista na sentença, e fixar o regime inicial semiaberto, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
