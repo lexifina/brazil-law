@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por ALEXANDRE AUGUSTO OLIVEIRA CARDOSO e LEIDINEY DE OLIVEIRA DE MELO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO PARÁ, que inadmitiu o recurso especial por eles interposto, contra acórdão prolatado nos autos da Apelação Criminal n. 0800331-79.2023.8.14.0000 (fls. 311/326):
+RECURSO DE APELAÇÃO PENAL. ARTIGO 157, §2º, II E §2º-A, I DO CÓDIGO PENAL BRASILEIRO. SENTENÇA PENAL CONDENATÓRIA. RECURSO DO APELANTE ALEXANDRE AUGUSTO OLIVEIRA CARDOSO. PRELIMINAR. ILEGALIDADE NO RECONHECIMENTO DE PESSOA. AUSÊNCIA DOS REQUISITOS DO ART. 226 DO CPP. REJEITADA. MÉRITO. DA ALMEJADA ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS PARA A CONDENAÇÃO. NÃO APREENSÃO DA ARMA DE FOGO. INCABIMENTO. RECURSO COMUM A AMBOS OS APELANTES. DA REFORMA DA DOSIMETRIA DA PENA. PENA-BASE NO MÍNIMO LEGAL. APLICAÇÃO EM 1/6. IMPOSSIBILIDADE. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+1. Recurso do apelante Alexandre Augusto Oliveira Cardoso.
+1.1. Preliminar. Ilegalidade no reconhecimento de pessoa. Ausência dos requisitos do art. 226 do CPP. Conforme novo paradigma da Corte Superior de Justiça, o mero reconhecimento de pessoa não pode servir como única prova a lastrear o édito condenatório, ainda que ratificado em juízo;
+2. Mérito.
+2.1. Da Almejada Absolvição por ausência de provas para a condenação. Não apreensão da arma de fogo. A alegação de insuficiência de provas da prática do crime de roubo qualificado, pelo qual foi o apelante condenado, se afasta, sobremaneira, do contexto probatório existente nos autos, o qual satisfaz plenamente o édito repressivo e elide todos os argumentos expendidos pelo recorrente;
+3. Recurso comum a ambos os apelantes.
+3.1. Da reforma da dosimetria da pena. Pena-base no mínimo legal. Aplicação em 1/6. Segundo entendimento jurisprudencial pátrio, que o quantum de exasperação para cada moduladora do Art. 59 do CP não resulta de uma operação aritmética, mas sim da seara da discricionariedade, ainda que vinculada, de cada magistrado, observada fundamentação idônea, razoabilidade e proporcionalidade, como se deu no presente caso;
+4. Recurso conhecido e improvido, nos termos do voto da Desa. Relatora.
+No recurso especial, a defesa requereu, em síntese, o redimensionamento da pena imposta, reduzindo-se as frações relativas ao vetor culpabilidade para cada um dos recorrentes, visto que desproporcionais e em descompasso com o entendimento desta Corte (fls. 344/350).
+Inadmitido o recurso na origem (fls. 362/367), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 371/377).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 405/409).
+É o relatório.
+Presentes os pressupostos de admissibilidade, conheço do recurso. Os agravantes lograram infirmar de maneira suficiente os argumentos da decisão recorrida, que inadmitiu o especial.
+Todavia, não colhem seus fundamentos no sentido de não se haver mostrado suficientemente fundamentada a fixação das penas-base dos agravantes, quando da análise das circunstâncias judiciais.
+A análise das circunstâncias do fato, devidamente explicitada nos fundamentos da sentença, quando da fixação das respectivas penas-base, foi realizada com base em dados do caso concreto, e tendo em vista a especificidade da situação.
+Esta Corte tem o entendimento de que não existe critério matemático impositivo para fixação da pena na primeira fase, só sendo viável um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+Neste sentido, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PENA-BASE. FIXADA NA ORIGEM A FRAÇÃO DE 1/8 SOBRE O INTERVALO DA PENA ABSTRATAMENTE COMINADA. DESPROPORCIONALIDADE NÃO EVIDENCIADA.
+1. A lei não fixa parâmetros aritméticos para a exasperação da pena-base ou para a aplicação de atenuantes e de agravantes, cabendo ao magistrado, utilizando-se da discricionariedade motivada e dos critérios de razoabilidade e proporcionalidade, fixar o patamar que melhor se amolde à espécie.
+2. "Não há direito subjetivo do réu à elevação da pena-base em somente 1/6 para cada vetorial desfavorável. O critério adotado pela Corte de origem (exasperação de 1/8 sobre o intervalo entre as penas máxima e mínima do preceito secundário), ademais, é considerado válido pela jurisprudência deste STJ" (AgRg no AREsp n. 1.873.693/TO, Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/9/2021, DJe 20/9/2021).
+3. Não há ilegalidade na exasperação da pena-base na aplicação da fração de 1/8 entre a variação mínima e máxima das penas fixadas abstratamente ao delito, porquanto fixada dentro dos critérios de razoabilidade e proporcionalidade considerados pela jurisprudência desta Corte.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 1.871.732/TO, Ministro Olindo Menezes, Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe 19/11/2021).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO MAJORADO. VIOLAÇÃO DO ART. 59 DO CP. SUPOSTA DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA-BASE. IMPROCEDÊNCIA. DOSIMETRIA QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE.
+1. O legislador não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria (pena-base).
+2. O critério aludido pelo agravante (1/6 por cada vetorial negativa), embora utilizado como referência em alguns precedentes desta Corte (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018), não traduz uma imposição, mesmo porque há precedentes que reputam justificada a fixação de fração de aumento em 1/8 por vetorial negativa (a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador) - HC n. 544.961/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020.
+3. Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+4. Considerando que a instância ordinária utilizou de fundamentação idônea para aumentar a pena e aplicou um critério, dentro da discricionariedade vinculada que lhe é assegurada pela lei, não há falar em violação do art. 59 do Código Penal.
+5. Agravo regimental improvido.
+(AgRg no REsp n. 1.852.272/PA, de minha relatoria, Sexta Turma, DJe 4/6/2020).
+A análise da culpabilidade como circunstância judicial exige a ponderação do grau de censura da ação do agente, valorada a partir da existência de um plus de reprovação social de sua conduta, levando-se em conta o contexto fático em que foi cometido o delito e, para a valoração negativa dessa vetorial, o Magistrado indicou, com base em elementos concretos e objetivos, constantes dos autos, circunstâncias excepci onais a demonstrar que o comportamento do condenado é merecedor de maior reprovabilidade, de forma a restar caracterizado que a conduta delituosa extrapolou os limites naturais próprios à execução do crime.
+Pelo exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. VIOLAÇÃO DO ART. 59 DO CP. DOSIMETRIA. FIXAÇÃO DA PENA-BASE. VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS. DESPROPORCIONALIDADE NÃO EVIDENCIADA. FUNDAMENTAÇÃO IDÔNEA. DOSIMETRIA QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
