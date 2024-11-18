@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra decisão proferida pela Câmara de Direito Criminal do Tribunal de Justiça do Estado de Roraima, que, em julgamento sede de habeas corpus, denegou a ordem Impetrada em favor de LUCINEI ALVES DE OLIVEIRA, ora recorrente, preso preventivamente pela prática de crime de homicídio qualificado por motivo fútil, tipificado no artigo 121, § 2o, II, do Código Penal, nos termos do acórdão que restou assim ementado (e-STJ Fl. 148/161):
+HABEAS CORPUS. ARTIGO 121, § 2o, II, DO CÓDIGO PENAL. TESE DE INOCÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. NÃO CONHECIMENTO NESSA PARTE. REVOGAÇÃO DE MANDADO DE PRISÃO PREVENTIVA SOB O ARGUMENTO DE AUSÊNCIA DE FUNDAMENTAÇÃO E AUSÊNCIA DOS REQUISITOS DO ART. 312 DO CPP. INVIABILIDADE. DECRETO PREVENTIVO FUNDAMENTADO NA GARANTIA DA ORDEM PÚBLICA E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. PACIENTE FORAGIDO. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM CONHECIDA EM PARTE E, NA PARTE CONHECIDA, DENEGADA, EM CONSONÂNCIA TOTAL COM O PARECER DO MINISTÉRIO PÚBLICO GRADUADO.
+1. De início, é de se notar que a tese de insuficiência das provas de autoria consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório. o
+2. Da mesma forma, a tese de que a arma utilizada no crime não pertencia  ao Paciente e foi localizada no veículo de ARILSON SAMUEL BEZERRA S DA SILVA, trata-se de análise dos fatos e provas e é providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo processual.
+3. As alegações de que o Paciente já estava com a viagem marcada antes do crime e as fotografias juntadas no intutito de comprovar que não realizou qualquer procedimento de harmonização facial a fim de dificultar sua identificação também constituem aprofundado exame do acervo processual.
+4. Em relação aos documentos juntados, comprovantes de passagens e fotografias do Paciente, conforme asseverou a i. Procuradora de Justiça: estes documentos, por si sós, não são capazes de desconstituir a decisão que decretou a prisão preventiva, apoiada na prova da materialidade delitiva e nos indícios suficientes de autoria, sendo importante repetir que a análise dos referidos documentos demandam o exame do conjunto probatório, o que é incabível na presente via.
+5. Ademais, o Paciente foi apontado pelo correu como o mandante do crime o que não necessitaria da sua presença no local dos fatos.
+6. Por fim, cabe destacar que o mandado de prisão não foi cumprido em razão do Paciente se encontrar foragido.
+7. Ordem conhecida em parte e, na parte conhecida, denegada.
+Nas razões do presente recurso (e-STJ Fls. 170/180), a defesa reitera os argumentos apresentados no writ originário e pugna pela reforma do acórdão, com a expedição de salvo-conduto, nos termos do artigo 660, §4º, do CPP, ou, subsidiariamente, a concessão de liberdade provisória, com ou sem a imposição de medidas cautelares diversas da prisão, conforme o artigo 319 do CPP.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso do habeas corpus.
+Em síntese, o relatório.
+Decido.
+Em matéria penal, o prazo para a interposição do recurso em habeas corpus é de 5 (cinco) dias corridos, art. 30 da Lei n. 8.038/1990.
+Consta dos autos que o recorrente foi intimado do acórdão em 16/09/2024 (e-STJ Fl. 168), no entanto, protocolou o recurso apenas em 01/10/2024, em descumprimento ao prazo legal estabelecido.
+Assim, o recurso é manifestamente intempestivo, uma vez interposto após o prazo legal de 5 (cinco) dias, logo não preenche os requisitos gerais de admissibilidade razão pela qual não deve ser conhecido.
+Nesse sentido:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. RECURSO INTEMPESTIVO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. INTEGRANTE DE GRUPO DE EXTERMÍNIO. RECURSO ORDINÁRIO NÃO CONHECIDO.
+I - O recurso não deve ser conhecido porque interposto após o transcurso do prazo de 5 (cinco) dias previsto no artigo 30 da Lei 8.038/1990, e haja vista que o v. acórdão objurgado foi publicado em 24/2/2016 e o presente recurso protocolado em 3/3/2016 (precedentes) .
+II - Ademais, não é possível receber o presente recurso como habeas corpus substitutiv o de recurso ordinário, considerando que a Terceira Seção desta Corte, na mesma linha de entendimento da Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem da ordem de ofício .
+III - In casu, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora recorrente acarretaria risco à ordem pública, notadamente em virtude de notícias de que o recorrente integra grupo de extermínio, circunstância que evidencia a real necessidade da prisão cautelar decretada, em virtude do fundado receio de reiteração delitiva (precedentes).
+IV - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Recurso ordinário não conhecido.
+(RHC n. 69.852/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/8/2016, DJe de 17/8/2016.)
+Ante o exposto, não conheço do recurso em habeas corpus.
+É como voto.
+EMENTA
