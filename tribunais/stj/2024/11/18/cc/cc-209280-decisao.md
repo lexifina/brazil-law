@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE PRAIA GRANDE - SP, suscitante, e o JUÍZO FEDERAL DA 1ª VARA DE SÃO VICENTE - SJ/SP, suscitado.
+O Juízo Federal da 1ª Vara de São Vicente - SJ/SP determinou a devolução da carta precatória ao Juízo da 2ª Vara Criminal da Comarca de Praia Grande/SP ao argumento de que os endereços indicados na diligência para cumprimento são situados no município de Praia Grande/SP, município distinto da sede do Juízo Federal, e, conforme art. 387, § 2º, do Provimento CORE 01/2020, a atuação dos oficiais de justiça lotados na Subseção Judiciária de São Vicente/SP está restrita aos limites deste município (fls. 42-43).
+Por sua vez, o Juízo de Direito da 2ª Vara Criminal de Praia Grande - SP, por sua vez, suscitou o conflito, sustentando que a Comarca de Praia Grande é abrangida pela competência territorial do Juízo suscitado, bem como que os dois integram a mesma zona metropolitana , razão pela qual a carta precatória deve ser cumprida pelo Juízo Federal da 1ª Vara de São Vicente - SJ/SP. Destacou que esta Corte nos autos do CC n. 179.542-SP adotou este entendimento envolvendo as mesmas comarcas (fls. 44 e 11).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo Federal da 1ª Vara de São Vicente - SJ/SP, o suscitado (fls. 63-68).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Na espécie, o conflito é relativo à competência para prática de atos processuais em município que não é sede de Vara da Justiça Federal, mas que estaria abrangido pela Subseção Judiciária do suscitado.
+Seguindo o entendimento da Terceira Seção desta Corte, entendo que a competência deve ser fixada perante a justiça estadual, tendo em vista que a Comarca de Praia Grande - SP não é sede de Vara da Justiça Federal.
+Nesse sentido:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. CUMPRIMENTO DE CARTA PRECATÓRIA EXPEDIDA PELA JUSTIÇA FEDERAL. COMARCA QUE NÃO É SEDE DE VARA FEDERAL. ARTS. 209 E 1.213 DO CÓDIGO DE PROCESSO CIVIL - CPC. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+I - O entendimento da jurisprudência desta Corte é pacífico no sentido de que as cartas precatórias expedidas pela Justiça Federal, nos termos do art. 1.213 do CPC, deverão ser cumpridas pela Justiça Estadual, sempre que a comarca não for sede de vara federal, somente admitindo-se a recusa por parte do Juízo deprecado, a fim de garantir celeridade processual e reduzir despesas e ônus às partes.
+Somente se admite a recusa por parte do Juízo deprecado quando evidenciada uma das hipóteses do art. 209 do CPC, o que não ocorre no caso.
+II - Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara Criminal de Conceição do Araguaia- PA, o suscitado.
+(CC n. 127.561/PA, relator Ministro Ericson Maranho (Desembargador Convocado do Tj/sp), Terceira Seção, julgado em 11/3/2015, DJe de 20/3/2015)".
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL. JUSTIÇA ESTADUAL.CUMPRIMENTO DE CARTA PRECATÓRIA EXPEDIDA PELA JUSTIÇA FEDERAL PELA JUSTIÇAESTADUAL. APLICAÇÃO ANALÓGICA DO ART. 1.213 DO CPC AO PROCESSO PENAL.POSSIBILIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Nos termos do art. 1.213 do Código de Processo Civil e do art. 42 da Lei n. 5.010/1966, o cumprimento das cartas precatórias expedidas pela Justiça Federal pode ser feito, nas comarcas situadas no interior, pela Justiça estadual. A regra é aplicada por analogia, ao processo penal, nos termos do art. 3º do Código de Processo Penal.
+2. No caso vertente, a carta precatória foi expedida à Justiça estadual para citação do acusado, em comarca do interior, que não era sede da Justiça Federal. Assim, forçoso reconhecer a competência da Justiça estadual.
+3. Conflito conhecido para declarar competente o Juízo de Direito da Vara Crime de Camamu/BA, ora suscitado. (CC n. 131.298/BA, Terceira Seção, relator Ministro Rogerio Schietti Cruz, DJe de 17/12/2013.)
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO FEDERAL E JUÍZO ESTADUAL.CUMPRIMENTO DE CARTA PRECATÓRIA EM COMARCA ONDE INEXISTE VARA DA JUSTIÇAFEDERAL. COMPETÊNCIA DO JUÍZO ESTADUAL.
+1. O cumprimento de cartas precatórias expedidas pela Justiça Federal poderão ser realizadas perante a Justiça Estadual quando a Comarca não for sede de Vara Federal.
+2. De acordo com o art. 209 do Código de Processo Civil, a providência somente poderá ser recusada nas hipóteses em que a carta precatória não estiver revestida dos requisitos legais; quando o Juízo deprecado entenda carecer de competência em razão da matéria ou da hierarquia e quando tiver dúvida acerca da autenticidade do documento.
+3. No caso vertente, das razões invocadas pelo Juízo suscitante, não se verifica que a recusa tenha se dado por alguma das justificativas acima elencadas, o que firma a competência da Justiça Estadual para o prosseguimento do feito.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Criminal de São Vicente/SP, ora suscitante. (CC n.125.261/SP, Terceira Seção, relatora Ministra Alderita Ramos de Oliveira(Desembargadora Convocada do TJ/PE), DJe de 11/3/2013, grifei)
+Ante o exposto, conheço do conflito de competência e declaro competente o Juízo de Direito da 2ª Vara Criminal de Praia Grande - SP.
+Publique-se. Intimem-se.
+EMENTA
