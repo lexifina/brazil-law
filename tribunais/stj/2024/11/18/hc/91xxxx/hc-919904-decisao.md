@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUIZ FERNANDO DA SILVA DUTRA e GILBERTO DA SILVA - condenados como incursos no crime de tráfico de drogas (Ação Penal n. 5001402- 48.2015.8.21.0033) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta aos pacientes pelo Tribunal de Justiça do Rio Grande do Sul, buscando aplicar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo de 2/3, ao argumento de que a quantidade da droga apreendida, considerada de forma isolada, não pode ser utilizada como fundamento idôneo para negar a aplicação da minorante em seu patamar máximo (fl. 5).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação im posta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, diferentemente do que foi afirmado pela impetrante, as instâncias ordinárias aplicaram o patamar de 1/6 ao redutor em razão da quantidade da droga e, ainda, com fundamento no fato de que houve considerável quantia de dinheiro apreendida, conforme trecho a seguir (fl. 60 - grifo nosso):
+ ..
+No apenamento dos réus, apesar de não haver razão para valorar negativamente o vetor consequências, a grande quantidade de maconha imporia por si só a exasperação acima do mínimo legal. No entanto, tal vetor será avaliado na terceira fase. Portanto, fica a basilar redimensionada para o menor patamar.
+Na terceira fase, mantenho a aplicação do privilégio em grau mínimo, como corolário da razão supramencionada, bem como em função da grande quantidade de dinheiro apreendida, a qual demonstra que o tráfico exercido pelos réus era de grande monta. Assim, a definitiva é redosada para 4 (quatro) anos e 02 (dois) meses de reclusão e 416 (quatrocentos e dezesseis) dias- multa, à razão de 1/30 do salário mínimo vigente ao tempo do fato.
+ ..
+A combinação de elementos concretos dos autos, consistentes na apreensão de 403 g de maconha e a apreensão de R$ 1.500,00 (mil e quinhentos reais), permite ao julgador a aplicação do patamar de 1/6 - que se encontra dentro da margem legal de 1/6 a 2/3 -, pois se trata de ato discricionário vinculado do julgador, desde que haja a fundamentação concreta, como ocorre no caso em tela. (Precedentes) - (AgRg no HC n. 918.863/RS, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+Ademais, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreit a do habeas corpus.
+Por fim, quanto à alegação de que os fundamentos trazidos não obstam a aplicação da minorante, não há interesse de agir da defesa, uma vez que o privilégio foi reconhecido pelas instâncias ordinárias.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. REDUÇÃO DA PENA COM BASE NO ART. 33, § 4º, DA LEI N. 11.343/2006. DISCRICIONARIEDADE DO JULGADOR. FRAÇÃO DO TRÁFICO PRIVILEGIADO DE 1/6 MANTIDA.
+Ordem denegada.
