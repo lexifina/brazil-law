@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de divergência apresentado por Artur Falcão Vaz contra acórdão proferido pela Terceira Turma do STJ, por divergir do entendimento da Corte Especial do STJ e da jurisprudência dominante das demais Turmas deste Egrégio Tribunal, o qual foi ementado nestes termos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INDEFERIMENTO DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO. CABIMENTO.
+1. A Terceira Turma do STJ, no julgamento do REsp n. 1.925.959/SP, adotou nova orientação no sentido de que "o indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo". (REsp n. 1.925.959/SP, relator Ministro Paulo de Tarso Sanseverino, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2023, DJe de 22/9/2023).
+2. Hipótese em que os honorários advocatícios foram fixados na origem em 10% sobre o valor do débito exequendo. Manutenção do acórdão recorrido.
+Agravo interno improvido.
+No caso dos autos, o recorrente suscita que, no âmbito do cumprimento de sentença n. 0006633-05.2018.8.26.0161, houve a instauração do incidente de desconsideração da personalidade jurídica n. 2131854-20.2022.8.26.0000 para buscar a sucessão empresarial da empresa Jetfox Com. de Autopeças e Acessórios ltda pela Felipe Gomes Moreira ME. Narra a rejeição do incidente e a apresentação de pedido de reconsideração do microempresário pela fixação de honorários advocatícios. No âmbito de agravo de instrumento sobre essa questão, houve o arbitramento de verba honorária em 10% em divergência ao entendimento dominante do STJ. Ressalta ter interposto o recurso especial para reconhecer o não cabimento dos honorários advocatícios em incidentes processuais, com exceção daqueles que podem extinguir ou alterar substancialmente o processo principal.
+Nos embargos de divergência, o recorrente defende ser indevida a condenação ao pagamento de honorários advocatícios no âmbito de incidentes processuais como o de desconsideração da personalidade jurídica por ausência de previsão legal, exceto em casos que são capazes de extinguir ou alterar substancialmente o próprio processo principal. Como paradigma, menciona o EREsp n. 1.366.014/SP, da Corte Especial, o AgInt no AREsp n. 2342291/SP e o REsp 2075977/PR, ambos da Quarta Turma, o AgInt no REsp n. 2114186/SE.
+Em impugnação, a parte recorrida suscita que o entendimento da Terceira Turma do STJ é o que melhor se compatibiliza com princípios processuais.
+Em parecer, o Ministério Público Federal manifestou-se pelo conhecimento e não provimento dos embargos de divergência.
+É o relatório. Passo a decidir.
+O acórdão recorrido declarou a possibilidade de honorários advocatícios sucumbenciais serem fixados no âmbito do incidente de desconsideração de personalidade jurídica.
+Porém, especificamente no caso dos autos, há precedentes do STJ reconhecendo que a impossibilidade de fixação de honorários nessas hipóteses. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO MANTIDA. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL ESPECÍFICA. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A condenação a verba honorária é incabível em incidente de desconsideração de personalidade jurídica, ante a ausência de previsão legal específica.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.930.160/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/4/2024, DJe de 24/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - IDPJ. AUSÊNCIA DE RESULTADO FAVORÁVEL À PARTE REQUERENTE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É incabível a condenação em honorários advocatícios sucumbenciais no Incidente da Consideração da Personalidade Jurídica - IDPJ, salvo quando capaz de provocar alteração substancial do processo em relação à parte que o apresentou, a exemplo da extinção do processo principal ou alteração significativa no seu conteúdo. o que não é a hipótese dos autos. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 2.114.186/SE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ante o exposto, admito os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AFERIÇÃO DE POSSIBILIDADE. EMBARGOS DE DIVERGÊNCIA ADMITIDOS.
