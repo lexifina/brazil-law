@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado pela DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS, em favor dos pacientes KEVERTON DOS SANTOS, ALLAN HENRIQUE RIBEIRO ESTEVES, JAIME CESAR DE OLIVEIRA DELFARO e ELIZEU DIAS DOS SANTOS, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que os pacientes foram denunciados pelo crime de receptação (art. 180, caput, do CP) em razão de fatos ocorridos em 20/05/2021, tendo o Juízo a quo, quando do recebimento da denúncia, em 12/07/2022, indeferido o requerimento de prisão preventiva, decisão que fora reformada pelo Tribunal de Justiça do Estado de Minas Gerais na via do recurso em sentido estrito interposto pela acusação (Processo nº 0023814-90.2021.8.13.0479).
+Na presente impetração, busca-se a concessão da ordem, para que seja revogada a prisão preventiva dos pacientes, com aplicação de medidas cautelares diversas da prisão.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, Relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Na espécie, reputo presentes o fumus comissi delicti e o periculum libertatis, de sorte que a custódia cautelar é essencial para a garantia da ordem pública, com fulcro no art. 312 do Código de Processo Penal, considerando que se trata de pacientes reincidentes em crimes dolosos, com risco concreto de reiteração delitiva.
+Por certo, "é firme a jurisprudência desta Corte no sentido de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no AREsp 2451465 / PR, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 13/08/2024), exatamente como se tem na espécie.
+Com efeito, diante da necessidade de resguardo da ordem pública, não se afigura aconselhável, por ora, a substituição da custódia cautelar por nenhuma das medidas cautelares diversas da prisão enumeradas no art. 319 do Código de Processo Penal.
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
