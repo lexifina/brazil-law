@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+Habeas corpus Roubo impróprio e furto Condenação Prisão preventiva Comprovação de descumprimento de medidas cautelares diversas do cárcere Prisão necessária para acautelamento da ordem pública e da futura aplicação da lei penal Inteligência do art. 282, §4º, do CPP Presentes os requisitos autorizadores da custódia cautelar Constrangimento ilegal não evidenciado Ordem denegada.
+Imputa-se aos recorrentes a prática do crime de furto.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ Fl. 71-72):
+Como visto quando da análise do pedido liminar, a r. decisão que, acolhendo o pleito ministerial decretou a prisão preventiva dos Pacientes, reproduzida a fl. 44, apresenta-se bem fundamentada. Destaca que, nos termos da certidão cartorária já referida, os Pacientes abandonaram o cumprimento das medidas cautelares antes impostas e que a tentativa de contato com eles foi frustrada.
+Diante desse quadro, o procedimento adotado pela d. Magistrada foi exatamente o descrito no artigo 282, §4º, do Código de Processo Penal, segundo o qual no "caso de descumprimento de qualquer das obrigações impostas, o juiz, mediante requerimento do Ministério Público, de seu assistente ou do querelante, poderá substituir a medida, impor outra em cumulação, ou, em último caso, decretar a prisão preventiva, nos termos do parágrafo único do art. 312 deste Código".
+Nota-se que a previsão legal não impõe prévia manifestação a defesa, circunstância aliás, compatível com o caráter urgente típico da prisão preventiva, cuja decretação pressupõe a necessidade de rápido acautelamento da ordem pública, da instrução criminal ou da futura aplicação da lei penal.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a segregação encontra-se adequadamente fundamentada.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+No presente feito, "A prisão preventiva foi adequadamente restabelecida pelo Tribunal estadual dada a gravidade dos fatos apurados, (..) assim como diante da necessidade de se assegurar a conveniência da instrução criminal e a aplicação da lei penal, pois o recorrente descumpriu as medidas cautelares anteriormente aplicadas quando beneficiado com o relaxamento da prisão pelo juiz de primeiro grau, em razão de suposto excesso na instrução do feito." (AgRg no HC 840263 / RJ, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 04/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 11/12/2023)
+Ademais, "No que tange à nulidade absoluta pela não intimação prévia do recorrente para se manifestar acerca da decretação da prisão cautelar, importando em consequente anulação dos atos subsequentes, esta Corte firmou jurisprudência no sentido de que "a regra do art. 282, § 3º, do CPP não se aplica ao decreto de prisão preventiva, ante a sua natureza emergencial, mas tão somente às medidas cautelares diversas da prisão, sendo permitido ao magistrado, inclusive, decretar a constrição cautelar de ofício no curso do processo" ." (RHC n. 93.601/AL, relator Ministro Felix Fischer, Quinta Turma, julgado em 24/4/2018, DJe de 2/5/2018.)
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
