@@ -1,0 +1,41 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VALE S.A. contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" e/ou "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/05/2024.
+Concluso ao gabinete em: 17/07/2024.
+Ação: obrigação de indenização ajuizada por J A C DOS S e outros, em face da agravante, devido a ocorrência de suspensão do benefício de auxílio emergencial.
+Sentença: julgou parcialmente procedentes os pedidos para condenar a agravante ao pagamento do auxílio emergencial em favor dos autores/agravados a partir de setembro/2020 até o término das prorrogações do auxílio, ocorrida e outubro/2021, no valor a ser apurado em liquidação de sentença e atualizado pela tabela do CGJ/TJMG desde o vencimento e acrescido de juros legais desde a citação.
+Acórdão: negou provimento à apelação da agravante e deu parcial provimento à apelação adesiva dos autores/agravados, nos termos da seguinte ementa:
+"APELAÇÕES CÍVEIS - APELAÇÃO ADESIVA - AÇÃO INDENIATÓRIA - ROMPIMENTO DE BARRAGEM EM BRUMADINHO - PRELIMINAR - COISA JULGADA - PRELIMINAR REJEITADA - INDENIZAÇÃO EMERGENCIAL AJUSTADA EM TERMO DE ACORDO - PREENCHIMENTO DOS REQUISITOS - DANO MORAL - INOCORRÊNCIA - SUCUMBÊNCIA RECÍPROCA - DISTRIBUIÇÃO PROPORCIONAL - SENTENÇA PARCIALMENTE REFORMADA. I - O alegado término das prestações do auxílio emergencial firmado no Termo de Acordo Preliminar (TAP) implica apenas no encerramento dos pagamentos, remanescendo a obrigação em relação às parcelas vencidas durante o período de vigência do ajuste. Logo, não há que se falar em coisa julgada. II - A parte autora cumpre os requisitos previstos no TAP, uma vez que apresentou documento expressamente previsto no acordo, comprovando que residia nas proximidades do Rio Paraopeba antes mesmo do rompimento da barragem. III - Ante a comprovação de residência em local contemplado pelo acordo, é devido o recebimento pelos autores das verbas relacionadas ao auxílio emergencial. IV - Não foram comprovados danos de natureza moral sofridos pelos autores em decorrência do rompimento da barragem. V- Diante da sucumbência recíproca, os ônus sucumbenciais devem ser suportados proporcionalmente por ambas as partes."
+Embargos de Declaração: opostos pela agravante, foram rejeitados com aplicação de multa do art. 1.026, § 2º, do CPC.
+Recurso especial: alega violação dos arts. 485, V, § 3º, 489, II, 503, 932, IV, 1.022 e 1026 CPC. Além de negativa de prestação jurisdicional, sustenta que:
+i) "o acordo homologado, devidamente revestido pelo manto da coisa julgada, determinou a extinção do Termo de Acordo Preliminar para Pagamento Emergencial e da respectiva renovação" (e-STJ, fl. 1303);
+ii) "a juíza da 3ª Vara Cível da Comarca de Ibirité, Dra. Fernanda Machado de Moura Leite, no julgamento da Ação de Indenização nº 5000614-60.2022.8.13.0114, após profundo entendimento sobre o Acordo Judicial para Reparação Integral (AJRI), aplicou de maneira precisa os institutos da Quitação e da Coisa Julgada, não deixando dúvidas sobre sua aplicação ao caso"
+iii) é indevida a multa aplicada, pois os embargos declaratórios não foram opostos com intuito protelatório, mas visava sanar suposta omissão e prequestionar a matéria para eventual interposição de recursos nos tribunais superiores.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente sobre as obrigações decorrentes do extinto pagamento emergencial, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1022 do CPC.
+- Da fundamentação deficiente.
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido teria violado o art. 932, IV do CPC. A deficiência na fundamentação impede a perfeita compreensão da controvérsia, o que enseja o não conhecimento do recurso, nos termos da Súmula 284, do STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais.
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que "os autores fazem jus ao recebimento das parcelas do auxílio emergencial nos termos em que estabelecido na sentença, considerando que comprovaram, por meio de documentação expressamente prevista no termo, que residiam em local contemplado pelo acordo quando do rompimento da barragem de rejeitos." (e-STJ, fl. 1170), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alh eias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+- Da existência de fundamento não impugnado.
+Ademais, a parte agravante não impugnou os fundamentos utilizados pelo TJ/MG para afastar a pretensão, qual seja: "O alegado término das prestações do auxílio emergencial firmado no Termo de Acordo Preliminar (TAP) implica apenas no encerramento dos pagamentos, remanescendo a obrigação em relação às parcelas vencidas durante o período de vigência do ajuste. Logo, não há que se falar em coisa julgada." (e-STJ, fl. 1167).
+Como tais fundamentos não foram impugnados, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+- Da multa por embargos de declaração protelatórios.
+Da análise dos autos, percebe-se que os embargos de declaração opostos pela agravante não possuem intuito protelatório, razão pela qual, de acordo com a Súmula 98/STJ, a aplicação da multa prevista no parágrafo único do art. 1026, §2º do CPC deve ser afastada.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para afastar a multa imposta pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA DE OFENSA À LEI. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. INTUITO PROTELATÓRIO. AUSÊNCIA. MULTA AFASTADA.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+7. Afasta-se a multa imposta pelo Tribunal de origem quando não se caracteriza o intuito protelatório na oposição dos embargos de declaração.
+8. Agravo conhecido. Recurso especial parcialmente conhecido e provido.
