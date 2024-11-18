@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Jose Alves,. em face de decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região que inadmitiu o recurso especial com base nos seguintes fundamentos (I) Inexistência de negativa de prestação jurisdicional e (II) incidência das Súmulas 283 e 284/STF.
+Neste agravo, a parte agravante afirma que, "A r. decisão recorrida inadmite o recurso especial interposto pela parte com o fundamento que para revolver as conclusões firmadas pelas instâncias ordinárias no tocante à alegada natureza especial do trabalho desenvolvido pelo segurado, bem como para reapreciar as provas amealhadas ao processo relativas ao caráter permanente ou ocasional, habitual ou intermitente, da exposição do segurado a agentes nocivos à saúde ou à integridade física" (fl. 502)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foram impugnados todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+  No  caso,  deixou  o  ora  agravante  de  refutar,  especificamente,  o s  fundamentos  da  decisão  que  inadmitiu  o  recurso  especial:  incidência das Súmulas 283 e 284 do STF. Em outras palavras, não declinou os motivos pelos quais, no seu entender, os referidos óbices não seria aplicável ao caso concreto.
+Logo, considerando que a parte agravante não rebateu, de modo específico, os fundamento adotados pela decisão recorrida para negar trânsito ao apelo especial, limitando-se a repisar as razões de mérito do apelo especial, incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se, ainda, que ao contrário do que alega a parte agravante, a decisão agravada sequer mencionou a incidência da Súmula 7/STJ à espécie, o que leva a concluir que as razões estão dissociadas do decisum que não admitiu o recurso especial.
+Por fim, registre-se que essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o AREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro João Otávio de Noronha, Rel. P/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018), na qual se reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
