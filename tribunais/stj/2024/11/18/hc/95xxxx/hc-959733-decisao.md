@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de TIAGO D"AVILA FLORES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5281482-51.2024.8.21.7000).
+Segundo o apurado, o "paciente foi preso em flagrante durante patrulhamento de rotina, após informações de que o indivíduo conhecido como "JURA", liderança do tráfico no Campo da Tuca, estava no campo de futebol, juntamente com vários seguranças armados ostensivamente. Em diligências ao local, foi feita averiguação e a abordagem de vários indivíduos, dentre eles o paciente, com quem localizada uma pistola Glock, calibre 9mm, com numeração suprimida, municiada com 30 cartuchos, e um carregador estendido" (e-STJ fl. 17).
+Em suas razões, sustenta a defesa o desrespeito ao princípio da isonomia, pois o Tribunal de Justiça teria conferido tratamento diferente ao paciente e ao corréu, em situações idênticas, "acusados da prática do mesmo crime e, mais, sem que tenha sido observado que este Paciente (TIAGO DAVILA FLORES) é pessoa doente/paraplégico e o mais grave ainda, quanto ao excesso de prazo para formação de possível culpa" (e-STJ fl. 8).
+Entende que o paciente, "TIAGO DAVILA FLORES, deva receber o mesmo tratamento dado ao corréu TAYLOR, o qual  ..  foi  beneficiado com aplicação de medidas cautelares" (e-STJ fl. 8).
+Acrescenta que, "no dia 07.11.2024, o Corréu JOAO EMANUEL LAURIANO DOS SANTOS, que  ..  ficou  FORAGIDO durante toda a instrução processual também foi beneficiado com a concessão da ordem de liberdade conforme Habeas Corpus de nº 5330179-06.2024.8.21.7000 (cópia anexa), impetrado no dia 06.11.2024 e com r. despacho de concessão da ordem no dia 07.11.2024, todavia, SOMENTE PARA ESTE PACIENTE NÃO  ..  foi  CONSTATADO PELO TRIBUNAL "A QUO" O EXCESSO DE PRAZO" (e-STJ fl. 9).
+Diante dessas considerações, busca "a concessão da presente ordem de HABEAS CORPUS EM CARÁTER LIMINAR, resguardando o Direito Constitucional do Paciente de IR e VIR, para que TIAGO DAVILA FLORES, com a REVOGAÇÃO DA PRISÃO PREVENTIVA e concessão de sua liberdade provisória, por questão de Justiça e ISONOMIA AO TRATAMENTO DAS PARTES, diante do já manifestado EXCESSO DE PRAZO aos corréus" (e-STJ fl. 10).
+É o relatório.
+Decido.
+Consoante se depreende das informações obtidas no endereço eletrônico do Tribunal de Justiça, a instrução criminal foi encerrada, estando pendente apenas a apresentação dos memoriais pelas partes. Diante desse cenário, é caso de aplicação do disposto no enunciado n. 52 da Súmula desta Corte Superior: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo." (Terceira Seção, julgado em 17/9/1992, DJ 24/9/1992.)
+Ademais, "consoante jurisprudência desta corte, a análise de pedido de extensão compete ao órgão que proferiu a decisão que concedeu o benefício cuja ampliação se pretende. Assim, o pedido de extensão dos efeitos da ordem concedida em habeas corpus que tramitou perante o Tribunal de origem, deve ser dirigido àquela Corte Estadual, e não a este Superior Tribunal de Justiça" (RHC n. 118.412/RJ, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 19/12/2019).
+Por derradeiro, esclareço que o pedido de prisão domiciliar humanitária não foi apreciado pelo Tribunal de Justiça.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..
+(HC 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+No mesmo sentido, a orientação do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento.
+(RHC 133.585 AgR, relator Ministro GILMAR MENDES, Segunda Turma, julgado em 21/6/2016, DJe 1º/8/2016.)
+Ante o exposto, não conheço do habeas corpus.
+Fica prejudicado o pedido formulado na petição de e-STJ fls. 66/71.
+Publique-se. Intimem-se.
+EMENTA
