@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONSELHO REGIONAL DE ARQUITETURA E URBANISMO DE SANTA CATARINA. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA. REGISTRO DE RESPONSABILIDADE TÉCNICA PELO DESEMPENHO DE CARGO E FUNÇÃO TÉCNICA. COBRANÇA ÚNICA. PROVIMENTO NEGADO.
+1. O reconhecimento de litisconsórcio passivo necessário, nos termos do art. 114 do Código de Processo Civil (CPC), além da hipótese de expressa previsão legal, pressupõe o reconhecimento da existência de vínculo natural que, dada a relação jurídica entre as partes, torna o objeto da lide incindível.
+2. O Conselho Regional de Arquitetura e Urbanismo, entidade autárquica detentora da capacidade tributária ativa, ou seja, responsável pela arrecadação e pela fiscalização da taxa do Registro de Responsabilidade Técnica (RRT), é parte legítima para figurar no polo passivo da demanda. O mero repasse de parte dos valores arrecadados não torna o objeto da lide, no caso a eventual restituição de valores indevidamente recolhidos, indivisível de modo a impor a presença do Conselho Federal no processo.
+3. A taxa pelo Registro de Responsabilidade Técnica (RRT), decorrente do exercício do poder de polícia pelos Conselhos de Arquitetura e Urbanismo, é cobrada em razão da realização de trabalho de competência privativa de arquitetos e urbanistas ou da atuação conjunta desses profissionais compartilhada com outras profissões, conforme estabelece o art. 45, caput, da Lei 12.378/2010, que regulamenta o exercício da profissão.
+4. A Resolução CAU/BR 91, de 9 de outubro de 2014, estabelece o Registro de Responsabilidade Técnica para projetos, obras e serviços técnicos em Arquitetura e Urbanismo, incluindo a atividade de Desempenho de Cargo ou Função, mas sem especificar sua abrangência. No exercício de suas funções, o servidor público arquiteto realiza diversas atividades privativas da profissão, conforme o art. 2º da Lei 12.378/2010, o que impede a cobrança de RRT tanto pelo desempenho de cargo quanto por outras atividades cobertas pelo primeiro registro, evitando assim o bis in idem.
+5. Recurso especial a que se nega provimento.
+RELATÓRIO
+Trata-se de recurso especial interposto por CONSELHO DE ARQUITETURA E URBANISMO DE SANTA CATARINA - CAU/SC, com fundamento na alínea a do permissivo constitucional, do acórdão do Tribunal Regional Federal da 4ª Região proferido com a seguinte ementa:
+TRIBUTÁRIO. CONSELHO REGIONAL DE ARQUITETURA E URBANISMO DE SANTA CATARINA - CAU/SC. LEGITIMIDADE PASSIVA. REGISTRO DE RESPONSABILIDADE TÉCNICA - RRT. 45 DA LEI Nº 12.378/2010.
+1. Cabe aos Conselhos Regionais arrecadar anuidades, multas e emolumentos e adotar todas as medidas destinadas à efetivação de sua receita e a do Conselho Federal, sendo parte legítima para integrar o polo passivo da demanda.
+2. Não há necessidade de litisconsórcio passivo com o CAU/BR.
+3. No caso do "desempenho de cargo e função técnica", a cobrança da taxa do Registro de Responsabilidade Técnica - RRT deve ocorrer apenas uma vez, porquanto a atividade em questão contempla todas as demais atribuições do profissional da arquitetura e urbanismo.
+Opostos embargos de declaração, foram eles rejeitados.
+A parte recorrente alega ofensa aos arts. 30, I, e 37, I, da Lei 12.378/2010 e 114 do Código de Processo Civil (CPC), sustentando, em preliminar, ser indispensável sua presença no polo passivo da demanda em razão da suposta configuração de litisconsórcio passivo necessário com o Conselho de Arquitetura e Urbanismo do Brasil.
+No mérito, aponta violação dos arts. 2º, 45, 46 e 48 da Lei 12.378/2010, assim como do art. 176 do Código Tributário Nacional (CTN), defendendo a necessidade de emissão de Registro de Responsabilidade Técnica (RRT) para cada trabalho técnico produzido pelos servidores públicos arquitetos e urbanistas do Instituto Nacional do Seguro Social (INSS), com o recolhimento da respectiva taxa.
+Contrarrazões às fls. 388/390.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONSELHO REGIONAL DE ARQUITETURA E URBANISMO DE SANTA CATARINA. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA. REGISTRO DE RESPONSABILIDADE TÉCNICA PELO DESEMPENHO DE CARGO E FUNÇÃO TÉCNICA. COBRANÇA ÚNICA. PROVIMENTO NEGADO.
+1. O reconhecimento de litisconsórcio passivo necessário, nos termos do art. 114 do Código de Processo Civil (CPC), além da hipótese de expressa previsão legal, pressupõe o reconhecimento da existência de vínculo natural que, dada a relação jurídica entre as partes, torna o objeto da lide incindível.
+2. O Conselho Regional de Arquitetura e Urbanismo, entidade autárquica detentora da capacidade tributária ativa, ou seja, responsável pela arrecadação e pela fiscalização da taxa do Registro de Responsabilidade Técnica (RRT), é parte legítima para figurar no polo passivo da demanda. O mero repasse de parte dos valores arrecadados não torna o objeto da lide, no caso a eventual restituição de valores indevidamente recolhidos, indivisível de modo a impor a presença do Conselho Federal no processo.
+3. A taxa pelo Registro de Responsabilidade Técnica (RRT), decorrente do exercício do poder de polícia pelos Conselhos de Arquitetura e Urbanismo, é cobrada em razão da realização de trabalho de competência privativa de arquitetos e urbanistas ou da atuação conjunta desses profissionais compartilhada com outras profissões, conforme estabelece o art. 45, caput, da Lei 12.378/2010, que regulamenta o exercício da profissão.
+4. A Resolução CAU/BR 91, de 9 de outubro de 2014, estabelece o Registro de Responsabilidade Técnica para projetos, obras e serviços técnicos em Arquitetura e Urbanismo, incluindo a atividade de Desempenho de Cargo ou Função, mas sem especificar sua abrangência. No exercício de suas funções, o servidor público arquiteto realiza diversas atividades privativas da profissão, conforme o art. 2º da Lei 12.378/2010, o que impede a cobrança de RRT tanto pelo desempenho de cargo quanto por outras atividades cobertas pelo primeiro registro, evitando assim o bis in idem.
+5. Recurso especial a que se nega provimento.
+VOTO
+O recurso especial não merece prosperar.
+Inicialmente, discute-se nos autos acerca da existência de litisconsórcio passivo necessário entre a parte recorrente, Conselho de Arquitetura e Urbanismo de Santa Catarina, e o Conselho de Arquitetura e Urbanismo do Brasil.
+O reconhecimento de litisconsórcio passivo necessário, nos termos do art. 114 do Código de Processo Civil (CPC), além da hipótese de expressa previsão legal, pressupõe o reconhecimento da existência de vínculo natural que, dada a relação jurídica entre as partes, torna o objeto da lide incindível.
+Conquanto 20% (vinte por cento) da arrecadação das receitas com anuidades, contribuições, multas, taxas e tarifas de serviços sejam destinadas ao Conselho Federal de Arquitetura e Urbanismo (CAU/BR), conforme prevê o art. 30, I, da Lei 12.378/2010, constitui atribuição dos conselhos regionais promover o recolhimento dessas receitas, notadamente das taxas de Registro de Responsabilidade Técnica (RRT), nos termos do art. 34, VI, desse mesmo diploma legal.
+Na interpretação do art. 119 do Código Tributário Nacional (CTN), o Superior Tribunal de Justiça firmou seu posicionamento a favor da legitimidade passiva da pessoa jurídica detentora da capacidade tributária ativa, responsável pela arrecadação e pela fiscalização, como no caso dos autos.
+Pela pertinência, cito o julgado que, embora verse primordialmente sobre as contribuições destinadas aos serviços sociais autônomos, hipótese distinta da do caso dos autos, é plenamente aplicável à controvérsia ora em análise no que tange ao reconhecimento da legitimidade passiva do ente autárquico:
+PROCESSUAL CIVIL, FINANCEIRO E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SERVIÇOS SOCIAIS AUTÔNOMOS. DESTINAÇÃO DO PRODUTO. SUBVENÇÃO ECONÔMICA. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA.
+1. O ente federado detentor da competência tributária e aquele a quem é atribuído o produto da arrecadação de tributo, bem como as autarquias e entidades às quais foram delegadas a capacidade tributária ativa, têm, em princípio, legitimidade passiva ad causam para as ações declaratórias e/ou condenatórias referentes à relação jurídico-tributária.
+2. Na capacidade tributária ativa, há arrecadação do próprio tributo, o qual ingressa, nessa qualidade, no caixa da pessoa jurídica.
+3. Arrecadado o tributo e, posteriormente, destinado seu produto a um terceiro, há espécie de subvenção.
+4. A constatação efetiva da legitimidade passiva deve ser aferida caso a caso, conforme a causa de pedir e o contexto normativo em que se apoia a relação de direito material invocada na ação pela parte autora.
+5. Hipótese em que não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica.
+6. Embargos de divergência providos para declarar a ilegitimidade passiva ad causam do SEBRAE e da APEX e, por decorrência do efeito expansivo, da ABDI.
+(EREsp n. 1.619.954/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 10/4/2019, DJe de 16/4/2019, destaque acrescido.)
+O mero repasse de parte dos valores arrecadados não torna o objeto da lide, neste caso, a eventual restituição de valores indevidamente recolhidos, indivisível de modo a impor a presença do Conselho Federal no processo. A ausência de litisconsórcio passivo necessário não inviabilizada a discussão sobre o impacto financeiro em demanda própria e oportuna.
+Quanto ao mais, discute-se a necessidade de emissão de Registro de Responsabilidade Técnica para cada trabalho técnico produzido pelos servidores públicos arquitetos e urbanistas do INSS.
+A taxa pelo Registro de Responsabilidade Técnica, decorrente do exercício do poder de polícia pelos Conselhos de Arquitetura e Urbanismo, é cobrada em razão da realização de trabalho de competência privativa de arquitetos e urbanistas ou da atuação conjunta desses profissionais compartilhada com outras profissões, conforme estabelece o art. 45, caput, da Lei 12.378/2010, que regulamenta o exercício da profissão.
+Ferramenta de fiscalização do exercício profissional, o Registro de Responsabilidade Técnica, segundo consta na guia de RRT, do Conselho de Arquitetura e Urbanismo do Brasil, "é o documento que comprova que projetos, obras ou serviços técnicos de Arquitetura e Urbanismo possuem um responsável devidamente habilitado e com situação regular perante o Conselho para realizar tais atividades".
+O art. 2º, VII, da Lei 12.378/2010 estabelece as atividades e as atribuições privativas do arquiteto e urbanista, ou hipóteses de incidência da taxa RRT:
+Art. 2º As atividades e atribuições do arquiteto e urbanista consistem em:
+I - supervisão, coordenação, gestão e orientação técnica;
+II - coleta de dados, estudo, planejamento, projeto e especificação;
+III - estudo de viabilidade técnica e ambiental;
+IV - assistência técnica, assessoria e consultoria;
+V - direção de obras e de serviço técnico;
+VI - vistoria, perícia, avaliação, monitoramento, laudo, parecer técnico, auditoria e arbitragem;
+VII - desempenho de cargo e função técnica;
+VIII - treinamento, ensino, pesquisa e extensão universitária;
+IX - desenvolvimento, análise, experimentação, ensaio, padronização, mensuração e controle de qualidade;
+X - elaboração de orçamento;
+XI - produção e divulgação técnica especializada; e
+XII - execução, fiscalização e condução de obra, instalação e serviço técnico. (Destaque acrescido.)
+A Resolução CAU/BR 91, de 9 de outubro de 2014, ao dispor sobre o Registro de Responsabilidade Técnica (RRT) referente a projetos, obras e demais serviços técnicos no âmbito da Arquitetura e Urbanismo, institui a RRT da atividade de Desempenho de Cargo ou Função, sem, contudo, dispor sobre sua abrangência.
+O servidor público, no exercício de suas funções inerentes ao cargo público ocupado exercerá evidentemente várias outras atividades/atribuições privativas do arquiteto e urbanista listadas no art. 2º da Lei 12.378/2010, fato esse que impede a cobrança do recolhimento da RRT pelo desempenho de cargo e função técnica concomitantemente com o Registro de Responsabilidade Técnica por outras atividades abrangidas pelo primeiro registro, sob pena de configurar bis in idem.
+Ademais, o recolhimento da taxa na forma como pretende o conselho ora recorrente, de certa forma, tornaria inócua a própria existência do RRT pelo desempenho de cargo e função técnica.
+No caso em análise, verifico que o Tribunal a quo analisou a controvérsia alinhado ao entendimento ora exposto, afastando a preliminar de litisconsórcio passivo necessário e concluindo que "o pagamento correto é correspondente a um RRT - Cargo-Função, sendo que na mencionada RRT devem ser registradas todas as atividades desempenhadas no exercício do cargo" (fl. 327).
+Ante o exposto, nego provimento ao recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+É o voto.
