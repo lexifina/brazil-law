@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado por FREDERICO APARECIDO BATISTA, em favor de JEFERSON DE ARAÚJO MOTA, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado de Rondônia.
+Consta dos autos que, ao final da instrução processual, o paciente foi condenado, em primeiro grau, como incurso no art. 158, § 1º e § 2º c/c § 3º, inciso II, do art. 157, ambos do Código Penal por três vezes, na forma do art. 69, do mesmo diploma legal, à pena de 58 (cinquenta e oito) anos e 06 (seis) meses de reclusão e 190 (cento e noventa) dias-multa, a ser cumprida em regime inicialmente fechado.
+No âmbito do Tribunal de Justiça do Estado de Rondônia, a Câmara Criminal competente, após interposição do recurso de apelação por parte da defesa, redimensionou a pena definitiva para 46 (quarenta e seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão e 42 dias-multa (1/30 do salário-mínimo), a ser cumprida em regime inicialmente fechado (Processo nº 00001120-25.2019.8.22.0002).
+Na presente impetração, busca-se a concessão da ordem, para absolver o impetrante por atipicidade da conduta ou por falta de provas ou, subsidiariamente, para desclassificar a conduta para extorsão simples, para aplicação do crime continuado em razão das três vítimas e, ainda, para reconhecer neutras as consequências do crime na primeira fase da dosimetria da pena.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+No caso dos autos, o presente habeas corpus foi impetrado contra acórdão com trânsito em julgado, como sucedâneo de revisão criminal.
+Diante disso, não deve ser conhecido, porquanto foi utilizado como substitutivo de revisão criminal, no afã, por via oblíqua, de afastar a competência do Tribunal de Justiça de origem para julgamento de revisão criminal e de instar esta Corte a apreciar a matéria sem que se esteja diante de hipótese de competência originária.
+Nesta ordem de ideias, conforme preconiza o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..
+1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..
+3. Agravo regimental desprovido. (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+Em verdade, "o habeas corpus não é admitido como substituto de revisão criminal, conforme entendimento consolidado pelo Superior Tribunal de Justiça e pelo Supremo Tribunal Federal, salvo em casos de flagrante ilegalidade" (AgRg no HC 947334 / SP, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 22/10/2024).
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Nesta toada, as pretensões de absolvição, de desclassificação do crime e de reconhecimento do crime continuado na forma pretendida resvalam na via estreita do habeas corpus, que impossibilita o revolvimento de matéria fático-probatória nestes autos, consoante jurisprudência sedimentada desta Corte, devendo ser observadas as escorreitas conclusões do Tribunal local, soberano no enfrentamento de fatos e provas.
+A propósito:
+GRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO NO TOCANTE AO DELITO DE ASSOCIAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES. 1/6. PROPORCIONALIDADE. PRIVILÉGIO. INAPLICABILIDADE. CONDENAÇÃO CONCOMITANTE PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - No presente caso, as instâncias ordinárias fundamentaram devidamente a condenação pelo crime de associação para o tráfico, com fulcro em robusto conjunto probatório, restando configurada a estabilidade e a permanência da associação, bem como a função da agravante e dos demais integrantes, com hierarquia e divisão de tarefas. IV - O rito do habeas corpus não admite o revolvimento de matéria fático probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local. (..) Agravo regimental desprovido (AgRg no HC 895457 / SC, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 16/05/2024).
+Desta feita, portanto, "o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita" (AgRg no HC 910455 / SP, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 13/09/2024).
+Ademais, inexiste ilegalidade na exasperação da pena-base em razão das consequências gravosas do crime na espécie, que não são elementares ao tipo penal, haja vista que, em relação à vítima IGOR, foi obrigado a deixar sua cidade, família, trabalho e amigos e fugiu para outra cidade, ao passo que, no que tange à vítima CARLOS, além de perder o filho Jean, ainda foi obrigado ver o filho Igor fugir da Cidade para não ser assinado.
+Sendo assim, uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para reduzir a reprimenda-base estabelecida ao acusado" (AgRg no HC 927292 / ES, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 19/09/2024).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
