@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Embargos de Divergência, autuados na classe PETIÇÃO interpostos por ABEL MEDINA LOURENÇO com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em virtude da divergência com o julgado no Conflito de Competência n. 184.269, proferido pela Terceira Seção.
+É o relatório.
+Decido.
+Dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça que " ..  cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal".
+Também os incisos I e II do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, " ..  em recurso extraordinário ou em Recurso Especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal".
+Conforme transcrito nos dispositivos acima, os Embargos de Divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de Recurso Especial, não sendo possível sua oposição em face de julgados proferidos em outras classes processuais, como no caso dos autos. Nesse sentido: AgRg na Pet n. 14.960/SC, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 24.3.2023.
+Ressalte-se que a revogação do inciso IV do art. 1.043 do Código de Processo Civil pela Lei n. 13.256/2016 teve por escopo exatamente vedar o cabimento dos Embargos de Divergência em processos originários do Superior Tribunal de Justiça.
+Por outro lado, da análise dos autos verifica-se que a parte embargante apresenta como paradigma julgado proferido em CC - Conflito de competência.
+Com efeito, o Superior Tribunal de Justiça tem entendido que não é cabível a indicação de julgado proferido em conflito de competência como paradigma para comprovar o dissídio jurisprudencial em Embargos de Divergência.
+Ressalte-se que "Em que pese o § 1º do art. 1.043 do Código de Processo Civil de 2015 dispor que " ..  poderão ser confrontadas teses jurídicas contidas em julgamentos de recursos e de ações de competência originária  .. ", a jurisprudência desta Corte Superior é uníssona no sentido de que o Conflito de Competência ostenta natureza jurídica de " ..  incidente processual que visa solucionar apenas a questão de competência entre juízos envolvidos (relacionada a determinado processo ou processos em tramitação)", de sorte que " ..  não possui, portanto, natureza de recurso, ainda que apresentado pela parte interessada". (AgInt no RE no AgInt no CC n. 174.675/PR, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe de 17/6/2022.) 3. Desse modo, considerando a natureza jurídica de incidente processual - e não de recurso, tampouco de ação originária, no termos da expressa dicção do § 1º do art. 1.043 do CPC de 2015 -, conclui-se que acórdãos proferidos em conflito de competência não se revelam aptos para a demonstração de dissídio em Embargos de Divergência." (AgInt nos EAREsp n. 1.086.606/PR, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe de 30/8/2022.)
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - RECUPERAÇÃO JUDICIAL - CONFLITO DE COMPETÊNCIA - DIVERGÊNCIA JURISPRUDENCIAL - PARADIGMA PROFERIDO EM CONFLITO DE COMPETÊNCIA - IMPRESTABILIDADE - DELIBERAÇÃO UNIPESSOAL QUE NEGOU CONHECIMENTO AO APELO RECURSAL - INSUSRGÊNCIA DA AGRAVANTE.
+1. Nos termos da jurisprudência firmada nesta Corte, o paradigma oriundo da Segunda Seção proferido em Conflito de Competência não serve para comprovação da alegada divergência, à luz do disposto nos arts. 546, I, do CPC e 266 do RISTJ. Precedentes da Segunda Seção e da Corte Especial.
+2. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.514.121/DF, relator Ministro Marco Buzzi, Segunda Seção, DJe de 2.12.2022.)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os Embargos de Divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+ EMENTA
