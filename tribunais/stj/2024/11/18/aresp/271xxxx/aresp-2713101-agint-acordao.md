@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO DE INDENIZAÇÃO. DANOS MORAIS E MATERIAIS.  INTEMPESTIVIDADE  DO  RECURSO  ESPECIAL.
+1  .  Hipótese  em  que  o  recurso  especial  não  foi  conhecido  em  razão  da  intempestividade.
+2. O Superior Tribunal de Justiça possui orientação no sentido de que "o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido" (AgInt no AREsp n. 1.937.634/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe 25/11/2021).
+3. No  direito  brasileiro,  predomina  a  teoria  do  isolamento  dos  atos  processuais,  segundo  a  qual ,  sobrevindo  lei  processual  nova,  os  atos  ainda  pendentes  dos  processos  em  curso  sujeitar-se-ão  aos  seus  comandos,  respeitada  a  eficácia  daqueles  já  praticados  de  acordo  com  a  legislação  revogada  (princípio  do  tempus  regit  actum).
+4.  A  decisão  de  intempestividade  do  recurso  especial  observou  os  preceitos  do  art.  1.003,  §  6º ,  do  CPC,  na  redação  vigente  à  época  da  interposição  do  recurso,  o  que  torna  inviável  a  pretensão  de  aplicação  da  nova  redação  do  referido  dispositivo,  estabelecida  pela  Lei  n.  14.939/2024.
+5.  Considerando  que  o  recurso  especial  foi  interposto  sob  a  égide  da  redação  antiga  do  art.  1.003,  §  6º,  do  CPC/2015  e  que  não  houve  a  comprovação  do feriado local  no  Tribunal  de origem  quando  de  sua  interposição,  não  há  como  ser  afastada  a  intempestividade  do  recurso.
+Agravo  interno  improvido.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  agravo  interno  interposto  por  ASSOCIAÇÃO DOS PRODUTORES RURAIS DA REGIÃO DA FAZ. JACUBA e JOSE ALVES DE OLIVEIRA  contra  decisão  monocrática  de  minha  relatoria ,  por meio da qual não conheci  do  recurso  especial  em  razão  da  manifesta  intempestividade  (fls.  453-458).
+Extrai-se  dos  autos  que  o  recurso  especial  foi  interposto,  com  fundamento  no  art.  105,  inciso  III,  alínea  "a" ,  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS nos termos da seguinte ementa (fl. 328):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE AUTOMOBILÍSTICO. VEÍCULO QUE COLIDE NA TRASEIRA DE TRATOR, INVADE A PISTA CONTRÁRIA E ABALROA O AUTOMÓVEL DO APELANTE. CAPOTAMENTO. CAUSA DETERMINANTE. DANOS MATERIAIS E ESTÉTICOS, PENSIONAMENTO E DANOS MORAIS DEVIDOS. SUCUMBÊNCIA ALTERADA.
+1. O conjunto probatório revela a atitude descurada e proibida do trator com engate que, ao trafegar à noite por Rodovia, sem sinalização, propiciou a colisão em sua traseira de um veículo que, com o impacto, desgovernou-se e invadiu a pista contrária, colhendo frontalmente o automóvel do apelante, capotando. Responsabilização solidária evidenciada.
+2. Os danos materiais restaram comprovados, expressos em R$ 16.257,00 (dezesseis mil e duzentos e cinquenta e sete reais), valor do veículo sinistrado, com perda total, conforme a Tabela FIPE.
+3. Diante do trágico sinistro, o recorrente deve ser reparado pelos danos morais sofridos, ao ser envolvido no acidente juntamente com a passageira que conduzia, sendo nítida a situação de abalo emocional decorrente de tal fato, os quais arbitro em R$ 20.450,00 (vinte mil e quatrocentos e cinquenta reais), conforme sua pretensão.
+4. Sucumbência alterada.
+APELAÇÃO CONHECIDA E PROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 368-375).
+Sustenta  a  parte  agravante  que  (fl.  464):
+Diante do previsto no CPC, a Lei nº 21.268, de 5 de abril de 2022, que dispõe sobre o Código de Organização Judiciária do Estado de Goiás e dá outras providências, estabelece em seu artigo 91, inciso IV, que:
+Art. 91. Não haverá expediente nos órgãos do Poder Judiciário:
+IV - quarta, quinta e sexta- feira da Semana Santa;
+Deste modo, se tratando de lei que estabelece que a semana santa, bem como a quarta, quinta e sexta-feira são feriados e não haverá expediente, a decisão do Tribunal viola a própria legislação que instituiu sua organização judiciária.
+Percebam Excelências que se trata de uma Lei, portanto, deve ser respeitada e, como não houve expediente, a contagem do prazo não poderia se dar no dia seguinte a publicação (27/03/2024), mas, no primeiro dia útil subsequente, conforme estabelece o art. 232, VII, do CPC.
+ ..
+Além disso, a decisão do Ministro Presidente também deixou de analisar também que o próprio Regimento Interno do Tribunal de Justiça do Estado de Goiás (Resolução 170/2021 TJGO) também dispõe que não haverá expediente no Tribunal nos dias da Semana Santa (quarta, quinta e sexta).
+Pugna,  caso  não  seja  reconsiderada  a  decisão  agravada,  pela  submissão  do  presente  agravo  à  apreciação  da  Turma.
+A parte agravada, instada a manifestar-se, silenciou (fl. 470).
+É,  no  essencial,  o  relatório.
+EMENTA
+CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO DE INDENIZAÇÃO. DANOS MORAIS E MATERIAIS.  INTEMPESTIVIDADE  DO  RECURSO  ESPECIAL.
+1  .  Hipótese  em  que  o  recurso  especial  não  foi  conhecido  em  razão  da  intempestividade.
+2. O Superior Tribunal de Justiça possui orientação no sentido de que "o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido" (AgInt no AREsp n. 1.937.634/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe 25/11/2021).
+3. No  direito  brasileiro,  predomina  a  teoria  do  isolamento  dos  atos  processuais,  segundo  a  qual ,  sobrevindo  lei  processual  nova,  os  atos  ainda  pendentes  dos  processos  em  curso  sujeitar-se-ão  aos  seus  comandos,  respeitada  a  eficácia  daqueles  já  praticados  de  acordo  com  a  legislação  revogada  (princípio  do  tempus  regit  actum).
+4.  A  decisão  de  intempestividade  do  recurso  especial  observou  os  preceitos  do  art.  1.003,  §  6º ,  do  CPC,  na  redação  vigente  à  época  da  interposição  do  recurso,  o  que  torna  inviável  a  pretensão  de  aplicação  da  nova  redação  do  referido  dispositivo,  estabelecida  pela  Lei  n.  14.939/2024.
+5.  Considerando  que  o  recurso  especial  foi  interposto  sob  a  égide  da  redação  antiga  do  art.  1.003,  §  6º,  do  CPC/2015  e  que  não  houve  a  comprovação  do feriado local  no  Tribunal  de origem  quando  de  sua  interposição,  não  há  como  ser  afastada  a  intempestividade  do  recurso.
+Agravo  interno  improvido.
+VOTO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se de ação de indenização por danos morais e materiais interposta por TEREZA ALVES DE CARVALHO FREIRE e SIMONE ALVES DE CARVALHO FREIRE contra ASSOCIAÇÃO DOS PRODUTORES RURAIS DA REGIÃO DA FAZ. JACUBA e JOSE ALVES DE OLIVEIRA, em decorrência de acidente de trânsito.
+O Juízo de primeiro grau julgou improcedentes os pedidos autorais (fls. 230-234).
+Quando da apreciação da apelação, o Tribunal de origem deu-lhe provimento para julgar procedentes os pedidos autorais e condenar os requeridos ao pagamento de indenização por danos materiais, no valor de R$ 16.257,00, e por danos morais, no valor de R$ 20.450,00 (fls. 313-334), o que ensejou a interposição de recurso especial por ASSOCIAÇÃO DOS PRODUTORES RURAIS DA REGIÃO DA FAZ. JACUBA e JOSE ALVES DE OLIVEIRA (fls. 383-392).
+Sobreveio juízo de admissibilidade negativo no Tribunal de origem, com fundamento na intempestividade (fls. 413-417), ensejando a interposição de agravo.
+Monocraticamente,  conheci do agravo para não conhecer  do  recurso  especial  em  razão  da  manifesta  intempestividade  (fls.  453-458),  o  que  ensejou  a  interposição  do  presente  agravo  interno.
+A  respeito  da  intempestividade  do  recurso  especial,  a  decisão  agravada  consignou  o  seguinte  (fls.  455-457):
+
+Mediante análise dos autos, verifica-se que o recurso especial é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 219, caput, 1.003, § 5º, e 1.029 do CPC, porquanto o acórdão recorrido foi publicado em 26/3/2024 (fl. 379), sendo o recurso especial interposto apenas em 22/4/2024 (fl. 383).
+Da análise dos autos, observa-se que o prazo para interposição do recurso especial teve seu exaurimento ocorrido antes da entrada em vigor da Lei n. 14.939/2024, que alterou o disposto no art. 1.003, § 6º, do CPC para prever que o "recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+Nesse contexto, com fundamento na teoria do isolamento dos atos processuais, aplica-se ao caso a redação vigente à época da interposição do recurso especial, segundo a qual a comprovação da ocorrência de feriado local deveria ser feita no momento da interposição do recurso. No mesmo sentido, cito: EDcl no AREsp n. 2.635.599, Ministro Herman Benjamin, DJe de 29/08/2024; AREsp n. 2.690.886/PE, Ministra Nancy Andrighi, DJe de 28/8/2024.
+ ..
+Tendo em vista que as partes recorrentes não apresentaram nenhum documento oficial ou certidão expedida pelo Tribunal de origem para comprovar a ocorrência de feriado ou a suspensão do expediente referente aos dois dias da Semana Santa que antecedem a Sexta-Feira da Paixão, está obstado o conhecimento do recurso especial.
+ ..
+Ademais, cumpre destacar que aos recursos interpostos na instância de origem, como no caso em análise, aplica-se o calendário de funcionamento do Tribunal local, sendo irrelevante a suspensão do expediente no âmbito do STJ, como alegado pelas partes agravantes. Também cumpre destacar que a Lei n. 5.010/1966 estabelece feriados no âmbito da Justiça Federal e dos Tribunais Superiores, não sendo aplicável aos Tribunais estaduais, pois não fixa feriados nacionais.
+No  caso  dos  autos,  verifica-se  que  o  recurso  especial protocolado em 22/4/2024 (fl. 383)  é  manifestamente  intempestivo,  tendo  em  vista  que  o  acórdão  dos  embargos  de  declaração  foi  publicado  em  26/3/2024  (fl.  379),  de  forma  que  a  contagem  do  prazo  recursal  teve  início  em  27/3/2023, considerando o disposto no art. 224, § 3º, do CPC, que prevê que "A contagem do prazo terá início no primeiro dia útil que seguir ao da publicação".
+Conforme já esclarecido na decisão agravada,  nos  termos  da  jurisprudência  do  STJ,  os dias da Semana Santa que antecedem a Sexta-Feira da Paixão são considerados  feriados  locais para comprovação da tempestividade recursal,  sendo  necessária  a  sua  demonstração  por  meio  de  documento  idôneo.
+ Nesse contexto, a parte recorrente deveria ter juntado aos autos certidão do Tribunal de origem ou documento oficial que comprovasse a ocorrência do feriado local, como constante no Regimento Interno do Tribunal de Justiça do Estado de Goiás e na Lei n. 21.268/2022, quando da interposição do recurso especial, de forma que a documentação apresentada a destempo não possui o condão d e regularizar o óbice. A  propósito,  cito  precedentes:
+AGRAVO  REGIMENTAL  EM  AGRAVO  EM  RECURSO  ESPECIAL.  INTEMPESTIVIDADE  DO  AGRAVO  EM  RECURSO  ESPECIAL.  PRAZO  RECURSAL  DECORRIDO.  CONFIRMAÇÃO  DA  DECISÃO  DA  PRESIDÊNCIA.  AGRAVO  NÃO  PROVIDO.
+1.  A  jurisprudência  desta  Corte  de  Justiça  é  no  sentido  de  que  a  segunda-feira  de  carnaval,  a  quarta-feira  de  cinzas,  dias  da  Semana  Santa  que  antecedem  a  Sexta-Feira  da  Paixão,  Corpus  Christi  e  Dia  do  Servidor  Público  são  considerados  feriados  locais  para  fins  de  comprovação  da  tempestividade  recursal.  Precedentes.
+2.  No  caso,  a  parte  foi  intimada  da  decisão  de  inadmissão  do  recurso  especial  no  dia  12  de  fevereiro  de  2024,  e  o  agravo  em  recurso  especial  interposto  no  dia  28  de  fevereiro  de  2024,  sem  a  comprovação,  no  ato  da  interposição,  da  suspensão  do  prazo  para  o  dia  12  e  14  de  fevereiro  de  2024,  segunda-feira  de  carnaval  e  quarta-feira  de  cinzas  respectivamente,  no  tribunal  de  origem,  após  escoado  o  período  de  15  dias  corridos,  conforme  estabelecem  o  art.  994,  VIII,  c/c  os  arts.  1.003,  §  6  º,  1.042,  caput,  e  §  3º  do  Código  de  Processo  Civil,  bem  como  o  art.  798  do  Código  de  Processo  Penal.
+Precedentes.
+3.  Conforme  entende  esta  Corte,  o  juízo  de  admissibilidade  realizado  pelo  Tribunal  a  quo  não  vincula  este  Tribunal  Superior,  a  quem  compete  o  juízo  definitivo  acerca  dos  requisitos  extrínsecos  e  intrínsecos  do  recurso.  Precedentes.
+3.  Agravo  regimental  não  provido.
+(AgRg  no  AREsp  n.  2.590.021/PR,  relatora  Ministra  Daniela  Teixeira,  Quinta  Turma,  julgado  em  1/7/2024,  DJe  de  3/7/2024,  grifo  meu.)
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  COMPROVAÇÃO  DA  SUSPENSÃO  DE  EXPEDIENTE  FORENSE  NO  ATO  DE  INTERPOSIÇÃO.  PRAZO  DE  15  DIAS  ÚTEIS.  INTEMPESTIVIDADE.  INTIMAÇÃO  PARA  REGULARIZAÇÃO  POSTERIOR.  IMPOSSIBILIDADE.  VÍCIO  INSANÁVEL.  AGRAVO  INTERNO  DESPROVIDO.
+1.  É  intempestivo  o  recurso  especial  protocolizado  após  o  prazo  de  15  dias  úteis,  de  acordo  com  o  art.  1.003,  §  5º,  c/c  o  art.  219,  caput,  do  CPC  de  2015.
+2.  Na  vigência  do  Código  de  Processo  Civil  de  2015,  a  ocorrência  de  feriado  local  ou  de  suspensão  dos  prazos  processuais  deve  ser  comprovada  por  meio  de  documento  hábil  no  ato  de  interposição  do  recurso,  não  sendo  possível  fazê-lo  posteriormente.
+3.  A  segunda-feira  de  carnaval,  a  quarta-feira  de  cinzas,  os  dias  da  Semana  Santa  que  antecedem  a  Sexta-Feira  da  Paixão,  o  dia  de  Corpus  Christi  e  o  do  servidor  público  são  considerados  feriados  locais  para  fins  de  comprovação  da  tempestividade  recursal.
+ ..
+6.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  2.535.805/SP,  relator  Ministro  João  Otávio  de  Noronha,  Quarta  Turma,  julgado  em  17/6/2024,  DJe  de  19/6/2024,  grifo  meu.)
+Tendo  em  vista  que  a  parte  recorrente  não  apresentou  nenhum  documento  oficial  ou  certidão  expedida  pelo  Tribunal  de  origem  para  comprovar  os  feriados  locais  dos  dias  27/3/2024 e 28/3/2024 ,  no  ato  da  interposição  do  recurso  especial,  não  há  como  ser  afastado  o  seu  decreto  de  intempestividade.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  como  penso.  É  como  voto.
