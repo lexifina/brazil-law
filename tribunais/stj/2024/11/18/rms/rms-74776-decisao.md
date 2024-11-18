@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Recurso Ordinário em Mandado de Segurança, com pedido liminar, interposto por JJ São Bento Empreendimentos Imobiliários Ltda., com fundamento no art. 105, I, "b", da CF, contra o acórdão do Tribunal de Justiça do Estado de São Paulo.
+O aresto impugnado foi assim ementado (fl. 375):
+MANDADO DE SEGURANÇA APELAÇÃO EM AÇÃO DE RESCISÃO DE COMPROMISSO DE COMPRA E VENDA SENTENÇA QUE DETERMINOU DEVOLUÇÃO DE 80% DAS CONTRAPRESTAÇÕES PAGAS PELO RÉU/COMPROMISSÁRIO COMPRADOR - DECISÃO MONOCRÁTICA DO RELATOR, DETERMINANDO COMPLEMENTAÇÃO DO PREPARO, EQUIVALENTE A 4% SOBRE O VALOR ATUALIZADO DA CAUSA, DADA A PRETENSÃO DE ANULAR O JULGADO E ACOLHER A INTEGRALIDADE DOS PEDIDOS FORMULADOS NA EXORDIAL, VEZ QUE A MAIORIA FOI AFASTADO NA SENTENÇA DECISÃO CONFIRMADA ATRAVÉS DE ACÓRDÃO, PROFERIDO EM AGRAVO INTERNO ALEGAÇÃO DE VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO DE RECOLHER PREPARO COM BASE NA TAXA MÍNIMA FIXAÇÃO POR EQUIDADE EM R$ 1.000,00, POR SE TRATAR DE APELAÇÃO CONTRA SENTENÇA ILÍQUIDA INOCORRÊNCIA TAXA FIXADA SOBRE O VALOR DA CAUSA, EQUIVALENTE AO PROVEITO ECONÔMICO PRETENDIDO COM A NULIDADE DA SENTENÇA E ACOLHIMENTO INTEGRAL DOS PEDIDOS FORMULADOS NA EXORDIAL AUSÊNCIA DE DECISÃO JUDICIAL TERATOLÓGICA E, POR CONSEGUINTE, VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO DA IMPETRANTE.
+Opostos embargos declaratórios, o recurso foi rejeitado em acórdão assim ementado (fl. 402):
+EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE QUAISQUER DOS VÍCIOS TAXATIVAMENTE ELENCADOS NOS INCISOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL, PASSÍVEIS DE COMPROMETER O ENTENDIMENTO E, POR CONSEGUINTE, O RESULTADO DO ACÓRDÃO DO JULGAMENTO - SIMPLES MANIFESTAÇÃO DE INCONFORMISMO, COM PEDIDO DE EFEITOS INFRINGENTES IMPOSSIBILIDADE PREQUESTIONAMENTO DESNECESSIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+No pórtico do recurso, a recorrente reitera a tese rejeitada pelo TJSP, no sentido de que, por se tratar de sentença ilíquida e não haver arbitramento de nenhum valor de forma equitativa para que pudesse recolher o valor da taxa judiciária, possui o direito líquido e certo de recolher o valor mínimo de 5 UFESPs, ou a fixação equitativa da quantia de R$ 1.000,00 a ser recolhido a título de custas de apelação, em conformidade com o disposto no art. 4º da Lei estadual n. 11.608/2003.
+Requer a concessão de efeito suspensivo ao Recurso Ordinário, com ordem para suspensão do processo principal e também do Mandado de Segurança, até julgamento definitivo perante esta Corte Superior.
+No mérito, requereu a anulação do acórdão impugnado.
+Em decisão de fls. 499-501, foi indeferida a concessão de efeito suspensivo ao recurso.
+Instado a se manifestar, o Ministério Público Federal emitiu parecer pelo desprovimento do recurso, por entender que, em conformidade com o disposto na Súmula STF n. 267, não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+É, no essencial, o relatório.
+O recurso ordinário não comporta provimento.
+Isso porque, conforme ressaltado pelo Tribunal recorrido, o recolhimento do preparo da apelação interposta pela parte recorrente foi feito pelo valor mínimo, não obstante pretender a procedência integral dos pleitos formulados na petição inicial, o que justifica o recolhimento do preparo sobre o valor atualizado da causa, não havendo que se falar em outra base de cálculo ou fixação equitativa do valor do preparo.
+Tal entendimento não traduz, em nenhum sentido, teratologia jurídica, tampouco configura um provimento judicial irrecorrível, passível de ser atacado pela via excepcional do mandado de segurança, de modo que a pretensão de reforma do julgado desfavorável não autoriza a impetração do writ, nos termos da Súmula STF n. 267.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE SUSTENTAÇÃO ORAL EM JULGAMENTO VIRTUAL. INOCORRÊNCIA. FALTA QUE DECORREU DE DESÍDIA DA PARTE. MANDADO DE SEGURANÇA DENEGADO POR INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE TERATOLOGIA. ATO JUDICIAL IMPUGNÁVEL POR MEIO PRÓPRIO. INCIDÊNCIA DA SÚMULA N.º 267 DO STF. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. O fato de haver petição informando a intenção de realização de sustentação oral não impede a realização do julgamento virtual, cabendo aos patronos das partes observar os procedimentos necessários para a realização de suas sustentações orais.
+2. Inocorrência de nulidade processual, pois a ausência da sustentação oral decorreu da desídia do impetrante ao não providenciar o agendamento necessário para a sua sustentação oral.
+3. Ausência de teratologia da decisão objeto do writ que também era suscetível de impugnação própria a impor a aplicação do enunciado da Súmula n.º 267 do STF: Não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no RMS n. 69.806/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
