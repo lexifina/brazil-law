@@ -1,0 +1,110 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/11/2024 a 18/11/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial.
+II. Questão em discussão
+2. Verificar se a parte agravante impugnou especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+IV. Dispositivo e tese
+4. Agravo interno não conhecido.
+Tese de julgamento: 1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno.
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.822/1.834) interposto contra decisão desta relatoria que negou provimento a agravo em recurso especial.
+Em suas razões, a parte agravante afirma que impugnou todos os fundamentos da decisão de inadmissibilidade proferida na origem, demonstrando a ofensa aos arts. 489 e 1.022 do CPC/2015 e a inaplicabilidade da Súmula n. 7 do STJ.
+Reitera argumentos do especial.
+Sustenta que está presente situação excepcional a justificar a utilização da ação rescisória, pois houve transgressão à lei e foi utilizado como fundamento de decidir um documento ideologicamente falso.
+Ao final, pede o provimento do recurso.
+Não foi apresentada impugnação (e-STJ fls. 1.838/1.839).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial.
+II. Questão em discussão
+2. Verificar se a parte agravante impugnou especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+IV. Dispositivo e tese
+4. Agravo interno não conhecido.
+Tese de julgamento: 1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno.
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.813/1.818):
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, porque ausente ofensa aos arts. 489 e 1.022 do CPC/2015 e por incidência da Súmula n. 7 do STJ (e-STJ fls. 1.755/1.771).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.504):
+AGRAVO INTERNO. AÇÃO RESCISÓRIA. USUCAPIÃO. BENS IMÓVEIS. DOLO. NORMA JURÍDICA. VIOLAÇÃO. ERRO. CARÊNCIA.
+O remédio rescisório não comporta reexame de teses, fatos e provas que não se ajustam às hipóteses do art. 966 do CPC/15. O dolo da parte em prejuízo da adversa ou a colusão prevista no inc. III somente se configura quando comprovada sua utilização de modo a influenciar no convencimento e julgamento da ação; a violação prevista no inc. V do art. 966 do CPC/15 deve ser literal, frontal, apta a dispensar o reexame dos fatos da causa e não simples divergência de interpretação ou inconformidade com a aplicação da lei; e o erro de fato admitido no inc. VIII presume um fato inexistente ou de decisão que tenha considerado inexistente outro que efetivamente tenha ocorrido, mas sob os quais não tenha havido pronunciamento judicial. A petição inicial de ação rescisória submete-se ao indeferimento quando seus fundamentos não se ajustam aos dispositivos que são invocados à ação. - Circunstância dos autos em que os fundamentos não se ajustam às condições da ação rescisória; e se impõe manter a decisão do relator por adequada aplicação da regra contida no art. 932, I do CPC/15.
+RECURSO DESPROVIDO, POR MAIORIA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.674/1.702).
+No recurso especial (e-STJ fls. 1.715/1.732), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta ofensa aos arts. 489 e 1.022 do CPC/2015, aduzindo que (e-STJ fl. 1.720) :
+ ..  a omissão no julgamento persiste, muito embora provocada a Corte a quo. Isto porque, como expressamente consta da petição dos aclaratórios, a Corte de Origem foi chamada a se pronunciar de forma expressa em relação ao art. 966, inc. V do CPC (alcance do cabimento da ação rescisória por violação à norma jurídica e não meramente disposição literal de Lei); arts. 447 do CC; 109; 114; 125, inc. II, e 239, § 1º, todos do CPC (alienação da coisa litigiosa em meio à lide não altera a legitimidade, vendedor, no mínimo, tem legitimidade por responder pela evicção e o comparecimento espontâneo aos autos que supre a nulidade ou falta de citação é aquele que acompanhado de defesa efetiva ou procuração com poderes específicos); arts. 141 e 492 do CPC (violação ao princípio da demanda na medida em que deferido pedido de usucapião por fundamento diverso do pedido); arts. 17; 502; 503; 504; 505; 506; 507 e 508, todos do CPC (coisa julgada em relação à legitimidade ativa por conta do julgamento na ação rescisória anterior) e art. 966, inc. VI, do CPC (documento ideologicamente falso usado como base para o julgamento da decisão rescindenda).
+Ocorre que, a despeito de tais confrontações nos aclaratórios, o Tribunal de origem se limitou a transcrever as razões da decisão anterior sem, no entanto, examinar a controvérsia sob o prisma exposto nos aclaratórios.
+Indica violação do art. 966, V, do CPC/2015, sustentando que "a violação da norma que dá ensejo à ação rescisória abrange o error in judicando e o error in procedendo, ou seja, envolve a violação de normas tanto de direito material quanto processual" (e-STJ fl. 1.723).
+Suscita contrariedade aos arts. 447 do CC/2002, 109, 114, 125, II, e 239, § 1º, do CPC/2015, porque o acórdão rescindendo considerou que a alienação superveniente do bem objeto da ação retira a legitimidade passiva dos alienantes, em manifesta afronta ao art. 109 do CPC/2015, além de deixar de considerar a responsabilidade do alienante pela evicção (arts. 125, II, do CPC/2015 e 447 do CC/2002). Defende que no mínimo deveria se ter determinado o litisconsórcio passivo do alienante e do adquirente (art. 114 do CPC/2015).
+Alega que houve ofensa aos arts. 141 e 492 do CPC/2015 porque não foi observado o princípio da congruência, uma vez que foi deferida usucapião com fundamento diverso do requerido na petição inicial.
+Afirma que foram violados os arts. 17, 502, 503, 504, 505, 506, 507 e 508 do CPC/2015 porque não observada a ocorrência de violação de coisa julgada.
+Argumenta que a rescisória também deve ser provida por uso de documento ideologicamente falso.
+No agravo (e-STJ fls. 1.782/1.791), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 1.799).
+É o relatório.
+Decido.
+Ausente ofensa aos arts. 489 e 1.022 do CPC/2015, pois as questões que a parte aponta como omitidas foram expressamente analisadas pela Corte estadual, que assim concluiu (e-STJ fl. 1.525):
+ ..  a parte agravante busca, pela via da rescisória, reabrir a discussão sobre a ilegitimidade passiva e análise de provas; não há demonstração de erro de fato, dolo e violação a norma jurídica na decisão transitada em julgado; e em análise dos requisitos da ação verifica-se que a parte busca a revisão do mérito do acórdão rescindendo e os fatos narrados não se ajustam à hipótese prevista no artigo 966, incisos III, V e VIII do CPC.
+Assim, resulta no desatendimento das condições específicas da rescisória; e a decisão monocrática aplicou medida adequada ao caso concreto.
+Com efeito, o remédio rescisório não comporta reexame de teses, fatos e provas que não se ajustam às hipóteses do art. 966 do CPC/15. O dolo da parte em prejuízo da adversa ou a colusão prevista no inc. III somente se configura quando comprovada sua utilização de modo a influenciar no convencimento e julgamento da ação; a violação prevista no inc. V do art. 966 do CPC/15 deve ser literal, frontal, apta a dispensar o reexame dos fatos da causa e não simples divergência de interpretação ou inconformidade com a aplicação da lei; e o erro de fato admitido no inc. VIII presume um fato inexistente ou de decisão que tenha considerado inexistente outro que efetivamente tenha ocorrido, mas sob os quais não tenha havido pronunciamento judicial. A petição inicial de ação rescisória impõe indeferimento quando seus fundamentos não se ajustam aos dispositivos que são invocados à ação.
+Circunstância dos autos em que os fundamentos não se ajustam às condições da ação rescisória; e se impõe manter a decisão do relator por adequada aplicação da regra contida no art. 932, I do CPC/15.
+O simples fato de a decisão ter sido contrária aos interesses da parte não configura ofensa aos dispositivos processuais invocados.
+A pretensão de rescindir o acórdão transitado em julgado foi rechaçada pelo Tribunal de origem, que examinou cada tese deduzida.
+Em relação aos arts. 447 do CC/2002, 109, 114, 125, II, e 239, § 1º, do CPC/2015, indicados para alegar que a alienação do imóvel não modifica a legitimidade das partes, a responsabilidade por evicção e a possibilidade de litisconsórcio passivo entre o alienante e o adquirente do bem, entendeu a Corte estadual que (e-STJ fls. 1.515/1.518):
+No entanto, o acordão reconheceu a ilegitimidade passiva dos ora autores, eis que após a primeira sentença ter sido rescindida, o imóvel já pertencia a Rota Industria Gráfica e tal situação sequer foi impugnada. Constou do acordão no ponto:
+ ..  Adianto que o estou provendo.
+Para melhor elucidação da questão, entendo pela necessidade de um breve relato histórico do feito, o qual tramita desde 2002.
+Em 14/08/2002, os apelantes ajuizaram a presente ação de usucapião, que restou contestada unicamente por terceiros interessados que alegam propriedade de parte da área que os autores pretendem usucapir (fls. 43-46).
+O feito tramitou, inclusive com produção de prova testemunhal, culminando em 19/10/2004 com o julgamento de procedência da ação (fls. 245/248).
+Os interessados seguiram com a apresentação de recursos em face do resultado, chegando inclusive ao Superior Tribunal de Justiça, sem sucesso.
+Em meados de 2008 (fl. 414), sobreveio manifestação dos antigos proprietários registrais e da proprietária adquirente, alegando ausência de citação, quando o feito pendia de julgamento pelo Tribunal Superior.
+Junto à referida manifestação, foi juntada cópia da matrícula do bem, onde registrada a propriedade em favor de ROTA INDÚSTRIA GRAFICA LTDA (fl. 468), datada de 22/10/2006.
+Transitada em julgada a demanda, os autos retornaram à origem em 01/02/2013, tendo sido os réus intimados para recolhimento das custas.
+Em 14/10/2013, os antigos proprietários registrais ajuizaram ação rescisória, nº 70056943723, alegando nulidade de citação. A demanda rescisória foi julgada procedente, uma vez que não nomeado curador especial para os proprietários registrais citados por edital.
+Ocorre que, reaberta a instrução processual, contestaram o feito apenas Laci Dulce Vier Pereira e José Antônio da Fonseca, que, embora na data do ajuizamento da demanda ainda fossem os proprietários registrais, não mais detinham legitimidade para figurar no pólo passivo, uma vez que o bem em 02/10/2014 já pertencia, há muito, à Rota Indústria Gráfica LTDA, que de forma inequívoca, tinha ciência da tramitação deste feito (fl. 448), e ainda assim, deixou de contestá-lo.
+Após oitiva de novas testemunhas e de testemunha antiga, o feito foi julgado improcedente, sob fundamento de que não comprovada a posse dos autores (fls. 912-915v.) Pois bem.
+Neste contexto, primeiramente, tenho que seja necessário afastar a legitimidade de Laci e José para contestarem o feito, uma vez que não mais detém a propriedade do bem.
+Neste sentido:
+ ..
+Destarte, trata-se de ação de procedimento especial que tem a particularidade de citar todos os interessados, conhecidos ou não, por via de edital; e no caso, a empresa adquirente deixou de contestar, como destacado no acórdão:
+ ..
+Cabe detalhar que a empresa veio aos autos quando do ajuizamento do incidente de nulidade processual, nos autos da ação de usucapião (fls. 556- 571 da ação rescisória), juntando procuração (fl. 206 daquela ação); e não há falar em irregularidade processual a ser suscitada por outrem.
+Assim, a relação jurídica processual passou a ser legítima com o novo proprietário e erga omnes; e não é o fato do anterior estar sujeito a responder por vício na transação que irá justificar sua legitimidade ao polo passivo, em nome próprio ou do novo proprietário.
+Quanto ao argumento de que não foi observado o princípio da congruência e tampouco coisa julgada, concluiu o Tribunal a quo (e-STJ fls. 1.518/1.524):
+ ..  Por outro lado, os autores sustentam, ainda, que ao considerar como válida a prova em processo cuja nulidade foi declarada em rescisória exatamente pela ausência de defesa, o aresto também contrariou a coisa julgada representado pelo acordão que julgou procedente a primeira rescisória; que é falsa a declaração dos ora réus de que não possuem imóvel qualquer; que juntaram duas certidões (FALSAS) do registro de Imóveis atestado não serem proprietários de qualquer imóvel; que os réus usucapiram três área de terra num total de 25.412,12m2.
+Observa-se que a primeira sentença foi rescindida em razão da ausência de nomeação de curador especial ao proprietário registral e não por nulidade de prova. Constou da emenda da ação rescisória n. 70056943723:
+AÇÃO RESCISÓRIA. USUCAPIÃO. CITAÇÃO POR EDITAL. AUSÊNCIA DE NOMEAÇÃO DE CURADOR ESPECIAL. NULIDADE CONFIGURADA.
+A falta de nomeação de curador especial ao proprietário registral do imóvel, citado por edital, caracteriza nulidade absoluta, violando o disposto nos artigos 942 e 9º, inciso II, ambos do CPC. Prejuízo caracterizado. Acórdão e sentença desconstituídas.
+AÇÃO JULGADA PROCEDENTE. UNANIME.
+ ..
+Verifica-se que as certidões das fls. 38 e 40 foram emitidas pela escrevente designada do Serviço de Registro de Imóveis de Estrela que tem fé pública; e não há prova de alteração do conteúdo das certidões e nem de eventual fraude envolvendo a escrevente.
+Por fim, aduzem que o adquirente se opôs a posse dos autores, contra esse manejando ação possessória (processo 047/10700032294); que o tribunal decretou a espécie de usucapião que não foi demandada; que o acordão afirma que a ação proposta pelos ora réus está embasada na usucapião extraordinária, mas a enquadra no art. 1.242.
+No entanto, não houve violação a normas legais a ensejar a reanálise dos fatos; a decisão atacada enfrentada expressamente os dispositivos de lei referente ao caso em discussão; não há prova de dolo e nem erro de fato na decisão atacada da qual cabe transcrever:
+ ..
+Ainda, verifica-se que a ação de usucapião foi embasada no art. 550 do CC/16 (fls. 21-24); e o ponto foi analisado na decisão objeto de rescisão, com base naquele artigo e na Constituição Federal:
+ ..
+No recurso especial, a parte repisa os mesmos argumentos da inicial e dos embargos de declaração (e-STJ fls. 1.559/1571), sem apresentar impugnação suficiente aos fundamentos do acórdão recorrido.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar as razões pelas quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão julgador cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+Em consequência, a discrepância entre as razões recursais e os fundamentos do acórdão recorrido impede o conhecimento do especial, ante a incidência, por analogia, das Súmulas n. 283 e 284 do STF.
+Acrescente-se que, consoante entendimento do STJ, "a ação rescisória é via processual excepcional e não pode ser utilizada como sucedâneo de recurso, tendo lugar apenas nos casos em que a transgressão à lei se mostrar relevante ou, ao menos, suficientemente duvidosa a ponto de justificar novo debate, pois é preciso respeitar a estabilidade das relações jurídicas acobertadas pela coisa julgada, em favor da segurança jurídica"" (AgInt no REsp n. 2.017.368/PR, minha relatoria, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No agravo interno, todavia, a parte agravante insurge-se contra o resultado que lhe foi adverso sem proceder à impugnação do fundamento da decisão monocrática.
+A decisão ora agravada aplicou as Súmulas n. 283 e 284 do STF por verificar que o recurso especial não impugnou os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade.
+Contudo, no presente recurso, a parte alegou que teria impugnado os fundamentos da decisão de inadmissibilidade proferida na origem, portanto, deixou de atacar corretamente o fundamento da decisão recorrida.
+Deixando a parte recorrente de rebater especificamente o ponto da decisão ora agravada, incide a Súmula n. 182/STJ.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
