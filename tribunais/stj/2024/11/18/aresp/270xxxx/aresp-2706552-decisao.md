@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIETE DE CASSIA BERTUCCI (ELIETE) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta (e-STJ, fls. 336).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ELIETE alegou a violação dos arts. 406 do CC, 161, § 1º, do CTN, 26 da Lei 10.931/2004, ao sustentar que o caso se trata de instrumento particular de confissão de dívida, o que acarreta a limitação dos juros à 1% ao mês, por não se tratar de típico documento bancário.
+Dos juros remuneratórios
+ELIETE sustentou que a confissão de dívida, objeto da presente execução, não é um contrato bancário típico, sendo de rigor a incidência do art. 406 do CC, que determina que os juros devem observar o teto das disposições impostas à Fazenda Pública (art. 161, § 1º, do CTN), qual seja, 12% ao ano.
+O Tribunal de Justiça de São Paulo refutou referido argumento de abusividade, por entender que não há impedimento para cobrança de taxa de juros em percentual superior a 12% ao ano, conforme trechos que ora se transcrevem:
+E, no caso, não se justifica o pleito da embargante de limitação da taxa de juros remuneratórios convencionada no instrumento de confissão de dívida impugnado na causa (fls. 76/79), valendo anotar que tal encargo foi estipulado de forma expressa e válida em referido ajuste  1,20 % ao mês e 15,38% ao ano, campo f.5 (fls. 76) , de sorte que não há respaldo legal para a limitação dos juros à taxa de 12% ao ano como requer o recorrente, haja vista que tal providência importaria em modificação unilateral do que foi pactuado pelas partes, em afronta ao princípio do pacta sunt servanda, inolvidável a circunstância de que as cláusulas contratuais em que estipuladas as taxas de juros em análise não vulneram o ordenamento jurídico vigente.
+Com efeito, há muito tempo os nossos tribunais superiores já consolidaram entendimento no sentido de que "as disposições do Decreto 22.626/33 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional" (Súmula n. 596, do C. Supremo Tribunal Federal), por isso que "a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade. São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (julgamento sob o regime dos repetitivos do R Esp n. 1.061.530/RS, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008).
+Destarte, não comprovada a abusividade das taxas de juros remuneratórios pactuadas, não há se cogitar da limitação alvitrada pela embargante. (e-STJ, fls. 306).
+E ao contrário do que defende ELIETE, o simples fato de a execução ter como objeto um instrumento particular de confissão de dívida não atrai a limitação dos juros em 12% ao ano, visto que uma das partes (BANCO BRADESCO S/A) compõe o Sistema Financeiro Nacional, submetendo-se à legislação própria, qual seja, a Lei 4.595/64.
+Portanto, aplica-se no caso a Súmula 596 do Supremo Tribunal Federal, que estabelece: "As disposições do Decreto 22.626 de 1933 não se aplicam as taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o Sistema Financeiro Nacional".
+Considerando que o Tribunal estadual reconheceu a legalidade dos juros contratuais fixados em 1,20 % ao mês e 15,38% ao ano, incide também o teor da Súmula 382 do STJ: A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Desse modo, reconhecida a inexistência de abusividade dos juros remuneratórios, deve ser mantida a taxa contratada. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DO MERCADO. REFERÊNCIA. REVISÃO. SÚM. 7/STJ.
+1. A jurisprudência desta Corte é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.
+2. Esse abusividade não decorre do simples fato da taxa cobrada ser um pouco acima da média de mercado. Isso porque a taxa média de mercado não é um limitador, mas mero referencial. Precedentes.
+3.  .. .
+4. Agravo interno não provido.
+(AgInt no AREsp 1.192.525/MS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 21/3/2018 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor do BANCO BRADESCO S/A, limitados a 20%, nos termos do art. 85, § 11, do CPC, ressalvada a gratuidade da justiça.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. CONFISSÃO DE DÍVIDA. EMBARGOS À EXECUÇÃO. TAXA DE JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO CONFIGURADA. LIMITAÇÃO. IMPOSSIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO .
