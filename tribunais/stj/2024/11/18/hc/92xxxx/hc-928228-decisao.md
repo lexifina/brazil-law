@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de CARLOS MAGNO DUARTE SILVA JUNIOR contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que o writ originário teve a ordem denegada em 10/06/2024 (e-STJ, fls. 21-23).
+Nesta insurgência, o impetrante busca, em suma, que seja anulada a decisão do Tribunal de origem para que seja analisado o mérito da ilegalidade da prisão em flagrante realizada por guardas municipais, bem como a ilicitude probatória decorrente da busca veicular realizada.
+O pleito liminar foi indeferido às fls. 702-704 (e-STJ).
+As informações foram prestadas às fls. 719-723 (e-STJ).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ, fls. 725-728).
+É o relatório.
+Decido.
+O acórdão impugnado foi julgado em 10/06/2024, nos seguintes termos:
+Conforme relatado, trata-se de habeas corpus, com pedido liminar, impetrado em favor do paciente CARLOS MAGNO DUARTE SILVA JUNIOR, em face de ato coator praticado pelo MM. Juiz de Direito da 2ª Vara Criminal de Vila Velha/ES, nos autos da ação penal nº 0001729- 54.2023.8.08.0035.
+O impetrante requer o trancamento a ação penal originária por ausência de justa causa. Para tanto alega ausência de indícios de autoria e nulidade da prova produzida durante a prisão em flagrante procedida por Agentes da Guarda Civil Municipal.
+O paciente foi denunciado, processado e condenado pela prática do crime de tráfico de drogas.
+Conforme constou da denúncia, o paciente foi preso em flagrante por agentes da Guarda Civil Municipal de Vela Velha junto a outros dois corréus, sendo com eles apreendidos quatro tabletesde maconha, com massa total de 1.890,0 kg (um quilo, oitocentos e noventa gramas), 23 (vinte e três) pinos de cocaína, pesando ao todo 52,6g (cinquenta e dois gramas e seis decigramas)e 02 (dois) envelopes plásticos contendo MDA (tenanfetamina), pesando 2,8g (dois gramas e oito decigramas).
+O impetrante postula pelo trancamento da ação penal alegando ausência de indícios mínimos de autoria. Todavia, referida alegação não veio acompanhada de correspondente prova pré- constituída que autorize a concessão da ordem, sendo que tal matéria, já foi, inclusive, objeto de sentença penal condenatória, na qual houve incursão verticalizada sobre a prova de autoria.
+Apreciando o tema o Colendo STJ já decidiu que "o argumento acerca da negativa de autoria não encontra resguardo em sede de habeas corpus, considerando que a via estreita caracteriza-se, sobretudo, pela cognição sumária e pela celeridade, incompatibilizando o mandamus com o reexame fático probatório, objeto a ser averiguado no curso de instrução criminal" (STJ - AgRg no HC n. 719.196/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/8/2022, D Je de 16/8/2022).
+Na sequência, a defesa postula pelo trancamento da ação penal alegando nulidade da prova produzida durante a prisão em flagrante procedida por Agentes da Guarda Civil Municipal.
+A pretensão do impetrante esbarra no entendimento jurisprudencial sumulado pelo c. STJ através do enunciado de nº 648: "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+Portanto, diante da presença de prova de autoria e da superveniência de sentença penal condenatória, a qual inclusive já foi objeto de recurso de apelação, não prospera a tese de ausência de justa causa, sendo inviável o acolhimento da tese de trancamento.
+Ante o exposto, DENEGO A ORDEM.
+Observa-se que o Juízo da 2ª Vara Criminal de Vila Velha, em 05/10/2023, proferiu sentença condenatória.
+Assim sendo, o Tribunal agiu de forma correta quando asseverou que, com relação à ausência de indícios mínimos de autoria, deve incidir o entendimento de que: "o argumento acerca da negativa de autoria não encontra resguardo em sede de habeas corpus, considerando que a via estreita caracteriza-se, sobretudo, pela cognição sumária e pela celeridade, incompatibilizando o mandamus com o reexame fático probatório, objeto a ser averiguado no curso de instrução criminal" (STJ - AgRg no HC n. 719.196/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/8/2022, D Je de 16/8/2022).
+No que diz respeito à nulidade da prova, escorreito o entendimento de que deve ser aplicada a súmula nº 648 do STJ, a qual dispõe: "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+Nesse contexto, conclui-se, pois, pela impossibilidade de exame, por ora, da alegada nulidade, porque o Tribunal local precisa delinear o quadro fático no acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre a tese se manifeste.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABE AS CORPUS. TRÁFICO DE DROGAS E FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS. NULIDADE. BUSCAS PESSOAL E DOMICILIAR. TRANCAMENTO. IMPOSSIBILIDADE. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA. CONTROVÉRSIA DA ALEGAÇÃO. NECESSIDADE DE PRONUNCIAMENTO CONCLUSIVO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do Enunciado n. 648, da Súmula do STJ, "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+2. Impende consignar que o trancamento da ação penal somente é possível em situações excepcionais, em que há inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+3. Nesse particular, deve-se reservar tal providência apenas aos casos de inequívoca e irrefutável demonstração, sob pena de usurpação da competência própria das instâncias ordinárias, soberanas que são na análise da prova processual, cujo teor, inclusive, não se revisa pelo Superior Tribunal de Justiça ou pelo Supremo Tribunal Federal.
+4. Conclui-se, pois, pela impossibilidade de exame, no caso e por ora, da alegada nulidade pela busca pessoal, com vistas ao trancamento da ação penal, pois controversa a alegação ora formulada, haja vista que houve vislumbre externo da prática de crime, sendo estritamente necessário que as instâncias ordinárias, à luz do contraditório, delineiem o quadro fático sobre o qual se aponta a nulidade, tanto em sentença quanto em acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre ele se manifeste.
+5. Agravo regimental desprovido. (AgRg no HC n. 855.517/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Além disso, com a superveniência do decreto condenatório, observa-se a existência de novo título que examinou com profundidade as arguições defensivas, cabendo, por ora, nova análise do Tribunal local, sob pena de supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
