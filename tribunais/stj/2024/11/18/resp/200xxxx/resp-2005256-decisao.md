@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICIPIO DE RIALMA contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 579):
+APELAÇÃO CÍVEL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. CONTRATAÇÃO DE SERVIÇO DE ADVOCACIA COM INEXIGIBILIDADE DE LICITAÇÃO. AUSÊNCIA DE SINGULARIDADE DA ATIVIDADE DESENVOLVIDA. CONDUTA QUE ATENTA CONTRA OS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA
+01. Nos termos do art. 13, V c/c art. 25, II, § 1º, ambos da Lei nº 8.666/1993, é possível a contratação de serviços relativos ao patrocínio ou defesa de causas judiciais ou administrativas sem procedimento licitatório. Contudo, para tanto, deve haver a notória especialização do prestador de serviço e a singularidade deste.
+02. Existindo outros profissionais que poderiam concorrer para a obtenção do contrato público, quiçá a partir de proposta mais vantajosa e menos custosa aos cofres públicos, resta evidenciada a viabilidade da concorrência que afasta a hipótese de inexigibilidade de licitação.
+APELAÇÃO CONHECIDA E DESPROVIDA
+Os embargos de declaração opostos foram rejeitados (fls. 619/627).
+Em suas razões recursais, o recorrente sustenta que a contratação foi realizada mediante inexigibilidade de licitação, com base no art. 25, II da Lei 8.666/93, por se tratar de serviços técnicos de natureza singular, com profissionais ou empresas de notória especialização.
+Argumenta que, por se tratar de serviços jurídicos, não é possível realizar licitação, não havendo competição de acordo com o Código de Ética do Advogado, que proíbe a mercantilização de serviços.
+É o relatório.
+Na origem, o Ministério Público do Estado de Goiás ajuizou ação civil pública visando à condenação do Município de Rialma/GO à obrigação de fazer e não fazer por entender que a contratação de advogados e contadores de forma temporária e por longo período viola o princípio constitucional da ocupação e exercício de funções públicas por concurso público, já que não se trata de situação excepcional de serviço temporário ou de vínculo de confiança.
+O MP pede que o Município seja condenado a: criar os cargos de Procurador e Contador, com provimento efetivo por concurso público; abster-se de renovar contratos para terceirização de serviços jurídicos e contábeis de natureza ordinária e permanente, e contratar os serviços de profissionais qualificados para suprir a falta dos cargos de Procurador e Contador; realizar concurso público para a escolha de Procurador e Contador em até 60 dias, a contar da publicação da lei criando os cargos.
+O juiz de primeiro grau julgou parcialmente procedente o pedido e condenou o Município de Rialma/GO à obrigação de fazer consistente na realização de procedimento licitatório, no prazo de 90 dias do trânsito em julgado, para a contratação dos serviços técnicos jurídicos e contábeis demandados pelas atividades que lhe são inerentes, ou a realização de procedimento próprio a fim de fundamentar eventual inexigibilidade de licitação, sob pena de multa diária de R$ 1.000,00, pois os serviços advocatícios e contábeis são ordinários e não exigem notória especialização, logo, a contratação sem licitação é ilegal.
+O Tribunal de Justiça manteve a decisão condenatória, considerando configurados os elementos da prática de improbidade administrativa.
+O recurso especial defende que o procedimento licitatório é incompatível com a contratação de serviços de advocacia, na forma do art. 5º da Lei 8906/94, e que os serviços são singulares, exigindo notória especialização dos profissionais e experiência.
+O art. 5º da Lei 8.906/1994 não foi apreciado pelo Tribunal de origem, e apesar de opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida, o Tribunal, ainda assim, não a analisou.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Por outro lado, o recurso não pode ser conhecido com base na alegação de afronta aos arts. 13 e 25 da Lei 8.666/1993.
+O recurso especial tem como uma de suas características a fundamentação vinculada, sendo imprescindível que em suas razões sejam apontados os dispositivos de lei que teriam sido violados pelo acórdão recorrido, com a indicação, de forma clara e direta, da interpretação que se entende deva ser dada à norma, não bastando a mera citação dos dispositivos de lei.
+A sentença, é preciso ressaltar, não condenou os réus por improbidade administrativa, a menção à configuração de ato ímprobo ocorreu no acórdão recorrido, mas como argumento de reforço e em tese a manter a condenação à obrigação de fazer.
+A condenação ora impugnada, aliás, comina obrigações alternativas ao ente municipal. O juízo determinou que se realize procedimento licitatório ou que se formule procedimento de inexigibilidade de licitação, rechaçando o estado de coisas ilegal instalado no Município em que havia a prática de contratação de profissionais para a prestação de serviços contábeis e jurídicos sem a necessária formalização do processos de inexigibilidade de licitação.
+O recurso, assim, não pode ser conhecido, na forma da Súmula 284/STF, aplicada por analogia.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE ERRO NOS CÁLCULOS DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. ADEQUAÇÃO DA MEMÓRIA DE CÁLCULO AO TÍTULO JUDICIAL EXECUTIVO. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+ ..
+3. O recorrente não enfrentou especificamente os fundamentos da decisão agravada, limitando-se a apresentar argumentação genérica sobre a suposta violação legal, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal, por analogia, em razão da deficiência na fundamentação do Recurso.
+4. A jurisprudência do STJ é pacífica no sentido de ser inadmissível o Recurso Especial quando o agravante não demonstra de forma adequada e específica o equívoco na decisão que não admitiu o Recurso, conforme princípio da dialeticidade.
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.409.038/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/3/2024, DJe de 7/5/2024, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. CONSELHO PROFISSIONAL. ANUIDADE. REGULAR CONSTITUIÇÃO DO CRÉDITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+II - Revela-se deficiente a argumentação quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.921.863/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021, sem destaque no original.)
+Não se pode esquecer, finalmente, que o Supremo Tribunal Federal, recentemente, manifestou-se no âmbito da repercussão geral reconhecida no RE 656.558/SP (Tema 309) acerca da inegibilidade de licitação para a contratação de serviços jurídicos em processo a discutir a existência de improbidade administrativa.
+As conclusões lá alcançadas, no entanto, não alteram a presente condenação.
+É que não se verifica na hipótese dos autos pretensão condenatória com base na Lei 8.429/1992 e nem foi o Município condenado com base na Lei de Improbidade.
+A primeira das teses fixadas no precedente qualificado aqui tratado manifestou-se acerca da necessidade de dolo para a condenação por ato de improbidade administrativa e da inconstitucionalidade das figuras culposas anteriormente previstas, conclusão que em nada afeta a presente decisão, pois não houve aplicação de sanção relativa à Lei 8.429/1992, senão a determinação de obrigação de fazer, sob pena de astreintes.
+A segunda tese fixada pelo STF analisa a constitucionalidade dos arts. 13, V, e 25, II, da Lei 8.666/1993, aclarando o que se deverá considerar no âmbito de procedimento administrativo voltado à declaração da inexibilidade de licitação.
+Eis as teses lá fixadas:
+a) O dolo é necessário para a configuração de qualquer ato de improbidade administrativa (art. 37, § 4º, da Constituição Federal), de modo que é inconstitucional a modalidade culposa de ato de improbidade administrativa prevista nos arts. 5º e 10 da Lei nº 8.429/92, em sua redação originária.
+b) São constitucionais os arts. 13, V, e 25, II, da Lei nº 8.666/1993, desde que interpretados no sentido de que a contratação direta de serviços advocatícios pela Administração Pública, por inexigibilidade de licitação, além dos critérios já previstos expressamente (necessidade de procedimento administrativo formal; notória especialização profissional; natureza singular do serviço), deve observar:
+(i) inadequação da prestação do serviço pelos integrantes do Poder Público; e
+(ii) cobrança de preço compatível com a responsabilidade profissional exigida pelo caso, observado, também, o valor médio cobrado pelo escritório de advocacia contratado em situações similares anteriores.
+Mantém-se, pois, a condenação do ente público a realizar, a partir do trânsito em julgado, procedimento licitatório ou procedimento de inexigibilidade de licitação para a contratação de serviços jurídicos e contábeis, quando, então, considerará os requisitos agora previstos na Lei 14.133, que discorreu longamente acerca do procedimento licitatório e das hipóteses de inexigibilidade.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
