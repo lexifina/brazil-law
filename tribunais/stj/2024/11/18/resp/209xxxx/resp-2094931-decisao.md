@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDINALDO VICENTE CARDOSO com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Em suas razões recursais (fls. 328-335), o recorrente aponta violação do artigo 59, caput e inciso III, do Código Penal para requerer a fixação do regime aberto para cumprimento inicial de sua pena, ao argumento de ser desproporcional o estabelecimento do regime intermediário imposto, ante o quantum fixado.
+Apresentadas as contrarrazões (fls. 339-343), o recurso especial foi admitido na origem (fl. 346) e encaminhado a esta Corte Superior de Justiça.
+O Ministério Público Federal opina pelo não conhecimento do recurso (fl. 354).
+É o relatório. DECIDO.
+A controvérsia consiste em verificar a existência de fundamentação concreta e suficiente para a fixação de regime inicial semiaberto para o cumprimento da pena fixada em 8 (oito) meses e 5 (cinco) dias de detenção. A defesa postula, em síntese, o abrandamento do regime inicial de cumprimento da reprimenda para o aberto.
+Inicialmente, registro que a jurisprudência desta Corte se firmou no sentido de que a fixação do regime inicial para cumprimento de pena não está vinculado, de forma absoluta, ao quantum da reprimenda imposto.
+Logo, ainda que a sanção seja fixada em patamar igual ou inferior a 4 (quatro) anos, a negativação de circunstâncias judiciais na primeira fase da dosimetria, além da reincidência reconhecida, autorizam a fixação do regime inicial semiaberto para cumprimento da pena de detenção.
+Nesse sentido:
+" ..  2. Malgrado o paciente tenha sido condenado a pena inferior a 4 anos de detenção, é reincidente e tem como desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, logo, correta a fixação de regime semiaberto para cumprimento de pena, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal e da Súmula 269/STJ.
+3. A concessão do perdão judicial não tem qualquer relação com a realização de perícia, sendo esta, inclusive despicienda para a condenação pelo crime em análise, de modo que incorrer-se-ia em indevido revolvimento fático proba tório a concessão do perdão judicial, o que é vedado nesta estreita via.
+4. Agravo regimental desprovido." (AgRg no HC n. 852.901/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/2/2024)
+" ..  1. Os requisitos para a imposição do regime aberto constam no art. 33, § 2º, "c", e § 3º, do Código Penal; são eles: ausência de reincidência, condenação por período igual ou inferior a 4 anos e inexistência de circunstâncias judiciais desfavoráveis. Na hipótese, sendo o agravante reincidente e havendo sido a pena fixada em 1 mês de detenção, o regime inicial semiaberto é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, "c", do Código Penal.
+2. Agravo regimental não provido." (AgRg no AREsp n. 1.654.903/SE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1/10/2020)
+Na espécie, verifico que, embora a pena do agravante tenha sido fixada definitivamente em 8 (oito) meses e 5 (cinco) dias de detenção, houve a exasperação da pena-base em razão da existência de maus antecedentes, além do reconhecimento da agravante da reincidência, o que é fundamento idôneo para justificar a fixação do regime inicial semiaberto, a teor do art. 33, §§ 2º e 3º, do Código Penal.
+Portanto, não há que se falar em desproporcionalidade ou inidoneidade de fundamentação pelas instâncias ordinárias, já que fixaram o regime intermediário para cumprimento da pena após análise das condições pessoais do agravante, que além de ser reincidente possui circunstâncias judiciais valoradas negativamente na pena-base.
+Dessarte, destaco que o acórdão recorrido está em consonância com o entendimento desta Corte Superior, razão por que deve incidir o óbice da Súmula n. 83, STJ, que dispõe: "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Por fim, destaco que "também é pacífico o entendimento neste Pretório no sentido de que o Enunciado n. 83 da Súmula do STJ se aplica aos recursos especiais interpostos tanto pela alínea "c" quanto pela alínea "a" do permissivo constitucional" (AgRg no AREsp 1.241.318/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 25/04/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro, consoante art. 253, parágrafo único, inciso II, alínea "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
