@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL COM RESULTADO MORTE. EXASPERAÇÃO DA PENA-BASE. REGIME INICIAL FECHADO. ILEGALIDADE. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pleito aventado consubstancia mera reiteração de pedido formulado no HC n. 788.736/SP, no qual a defesa aponta ilegalidade na exasperação da pena-base e na fixação do regime inicial fechado, mantidos pelo Tribunal de origem em sede de apelação e de revisão criminal.
+2. Agravo Regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MAXIMILIANO SOARES PEREIRA contra decisão de minha relatoria (fls. 78/82), que indeferiu liminarmente o habeas corpus, ante a reiteração de pedido já examinado por esta Corte Superior.
+No presente recurso, a defesa insurge-se contra o óbice processual, sob o argumento de que os pedidos formulados no presente mandamus e no HC n. 788.736/SP são diversos, já que no primeiro a irresignação se volta contra a dosimetria da pena e o regime prisional fixado pelas instâncias de origem e neste último o objeto foi a absolvição do agravante.
+No mérito, ratifica a ilegalidade na exasperação da pena-base e no recrudescimento do regime prisional imposto ao agravante, destacando que a primariedade do sentenciado não fora reconhecida pelos órgãos julgadores.
+Requer a reconsideração do decisum ou seja o feito levado a julgamento pela Turma competente.
+O Ministério Público Federal - MPF requereu a intimação do Parquet Estadual para apresentar contraminuta ao presente recurso (fl. 122).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL COM RESULTADO MORTE. EXASPERAÇÃO DA PENA-BASE. REGIME INICIAL FECHADO. ILEGALIDADE. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pleito aventado consubstancia mera reiteração de pedido formulado no HC n. 788.736/SP, no qual a defesa aponta ilegalidade na exasperação da pena-base e na fixação do regime inicial fechado, mantidos pelo Tribunal de origem em sede de apelação e de revisão criminal.
+2. Agravo Regimental desprovido.
+VOTO
+Inicialmente, tendo em vista que a decisão agravada foi publicada em 3/10/2024 (fl. 84), cumpre ressaltar a tempestividade do recurso, já que protocolizado no dia 4/10/2024 (fl. 109), ou seja, dentro do prazo previsto no art. 258, caput, do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+Esclareço, ainda, que, encaminhados os autos ao Ministério Público para manifestação sobre o recurso interposto, o Parquet Federal pediu a intimação do Ministério Público Estadual para contraminutar o agravo regimental.
+Não há previsão legal ou regimental de contrarrazões ao agravo regimental em habeas corpus, sendo prescindível a intimação do Ministério Público Estadual para apresentar resposta ao recurso da defesa.
+A intervenção do Ministério Público, órgão uno e indivisível (CF, art. 127, § 1º), nos procedimentos de habeas corpus nos tribunais, fundada no Decreto-lei n. 552/69, é efetivada pela concessão de oportunidade para manifestação do Subprocurador-Geral da República atuante nesta Corte Superior. É irrelevante, segundo a melhor exegese dos objetivos da norma, ser de custo s legis o perfil dessa atuação.
+Em que pese o esforço da defesa, a decisão deve ser mantida por seus próprios fundamentos, a conferir (fls. 81/82):
+"Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada ao presente caso, considerando que o objeto do presente mandamus consiste em reiteração de pedido formulado no HC n. 788.736/SP, transitado em julgado em 15/5/2023.
+Na hipótese em exame, embora os acórdãos impugnados sejam diversos (apelação criminal e revisão criminal perante o Tribunal de origem), em ambas as irresignações busca-se a redução da pena-base.
+Nesse contexto, a jurisprudência do Superior Tribunal de Justiça - STJ pacificou orientação pela inviabilidade do enfrentamento da controvérsia, porquanto reconhecida a litispendência. A propósito, os seguintes julgados:
+ ..
+Sobre o ponto, de rigor destacar o asseverado pelo Ministro Messod Azulay Neto na apreciação do AgRg no HC n. 777.969/SP (Quinta Turma, D Je de 6/11/2023) no sentido de que "Trata-se de hipótese, inclusive, que ocorre até mesmo quando a reiteração de pedidos é realizada contra acórdãos diferentes ou em tipos de recursos e ações diversos (AgRg no RHC n. 156.181/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, D Je de 24/2/2022; e E Dcl no AgRg nos E Dcl nos E Dcl no AR Esp n. 2.249.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, D Je de 30/6/2023)".
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus."
+Com efeito, o presente habeas corpus traz pedido idêntico ao formulado no HC n. 788.736/SP, também indeferido liminarmente, o que ensejou a interposição de agravo regimental, julgado em sessão virtual encerrada no dia 24/4/2023, cujo acórdão transitou em julgado em 15/5/2023. Eis a ementa da decisão colegiada:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL COM RESULTADO MORTE. DOSIMETRIA. POSSIBILIDADE DE RECONHECIMENTO DA PRIMARIEDADE COMO ATENUANTE GENÉRICA. SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. REVISÃO FÁTICO-PROBATÓRIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. A decisão agravada indeferiu liminarmente a impetração por ser substitutiva de recurso próprio e deixou de conceder a ordem de ofício uma vez que a possibilidade de reconhecimento da primariedade como atenuante genérica não foi debatida na origem e que afastar as conclusões das instâncias ordinárias sobre autoria e materialidade do crime demandaria aprofundado revolvimento fático-probatório. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental desprovido."
+Muito embora a presente impetração ataque acórdão diverso do writ mencionado (apelação criminal e revisão criminal manejados perante o Tribunal de origem), em ambos se discute a suposta ilegalidade na fixação da pena-base e do regime prisional imposto ao ora agravante.
+Vale salientar que, ao contrário do alegado pela defesa, a tese relativa à absolvição do paciente em face de nulidade prevista no art. 564, IV, do Código de Processo Penal - CPP foi objeto de outro habeas corpus impetrado em favor do ora agravante, por causídico diverso, (HC n. 781.218/SP), e não do mandamus que deu azo ao óbice processual aqui impugnado.
+Assim, considerando que a controvérsia objeto deste habeas corpus já foi analisada por esta Corte Superior e diante de inadmissível reiteração de pedidos, de rigor a manutenção da litispendência reconhecida n a decisão atacada.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. RECURSO NÃO CONHECIDO. MERA REITERAÇÃO DO HC 837.242/SP. PENDÊNCIA DE JULGAMENTO DO REGIMENTAL. IRRELEVÂNCIA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A pendência do julgamento do agravo regimental interposto contra a decisão proferida no Habeas Corpus n. 837.242/SP não tem o condão de descaracterizar a constatação de que o presente recurso se trata de mera reiteração. De fato, a reiteração se verifica pela repetição dos pedidos e a indicação do mesmo ato coator - Habeas Corpus nº 2061064-74-23.2022.8.26.0000. Dessa forma, não é possível conhecer do recurso em habeas corpus.
+- "O fato de a defesa haver buscado, por dois meios distintos - habeas corpus autônomo (já conhecido e denegado, repita-se) e posterior recurso especial - obter manifestação desta Corte Superior sobre a mesma tese, evidencia abuso do direito de litigar, o que acarreta um desnecessário gasto de recursos humanos e uma odiosa perda de tempo do órgão judicante, que já se vê sobrecarregado pela grande quantidade de feitos distribuídos e julgados diariamente." (AgRg no R Esp n. 2.025.772/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/4/2023, D Je de 26/4/2023.).
+2. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 184.017/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/9/2023, D Je de 13/9/2023.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020).
+Ante o exposto, voto no sentido de negar provimento ao presente agravo regimental.
