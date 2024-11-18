@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL  NÃO  CONHECIDO.  AUSÊNCIA  DE  PROCURAÇÃO.  MANUTENÇÃO  DA  DECISÃO  RECORRIDA.  DESPROVIMENTO  DO  AGRAVO  INTERNO.
+I  -  Trata-se  de  agravo  de  instrumento  contra  decisão  que  acolheu pedido liminar.  No  Tribunal  de  origem,  a  decisão  foi  parcialmente reformada,  e  negado  seguimento  a  recurso  especial.  No  Superior  Tribunal  de  Justiça,  foi  interposto  agravo  interno  contra  decisão  da  Presidência  que  não  conheceu  de  agravo  em  recurso  especial.
+II  -  Verificou-se  que  a  parte  recorrente  não  procedeu  à  juntada  da  procuração  e/ou  cadeia  completa  de  substabelecimento  conferindo  poderes  ao  subscritor  do  recurso.  Ainda,  embora  regularmente  intimada  para  sanar  referido  vício,  apresentou mandato outorgado em data posterior à interposição do recurso.
+III  -  A  decisão  deve  ser  mantida  pelos  seus  próprios  fundamentos,  pois  aplicou  jurisprudência  consolidada,  firme  no  sentido  de  que  não  é  possível  o  conhecimento  do  recurso  dirigido  ao  STJ  quando  ausente  a comprovação  da  representação  processual,  aplicação  da  Súmula  n.  115  do  STJ.  Nesse  sentido:  AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.
+IV  -  Agravo  interno  improvido.
+RELATÓRIO
+Trata-se  de  agravo  de  instrumento  contra  decisão  que  acolheu pedido liminar.  No  Tribunal  de  origem,  a  decisão  foi  parcialmente reformada,  e  negado  seguimento  a  recurso  especial.  No  Superior  Tribunal  de  Justiça,  foi  interposto  agravo  interno  contra  decisão  da  Presidência  que  não  conheceu  de  agravo  em  recurso  especial.
+A  decisão  recorrida  tem  o  seguinte  dispositivo:  "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso."
+No  agravo  interno,  a  parte  recorrente  traz,  resumidamente,  os  seguintes  argumentos:
+A referida súmula é inaplicável ao caso em concreto uma vez que o patrono do Condomínio ora Agravante, o advogado Rogério Carlos Behnken, POSSUI procuração nos autos e FOI INTIMADO de todos os atos processuais, pela instância inicial, pela instância revisora e pela Terceira Vice-Presidência do TJRJ, tornando o recurso regular e admissível, somado ao fato de que não ocorreu nenhuma circunstância que o tornasse prejudicado e considerando que os fundamentos que a Exmª Srª Ministra utilizou para proferir a v. decisão estão sendo especificamente impugnados.
+ ..
+Ora, a constatação exposta na certidão foi a de que "Não há nos autos procuração ou cadeia completa de substabelecimento.." ao que seguiu-se ordem de "regularizar a prepresentação processual", circunstâncias e comando que não deixou dúvidas quanto à necessária juntada de procuração atualizada.
+Considerando que não houve substabelecimento nos autos, caso o patrono não juntasse procuração atualizada e simplesmente apontasse a procuração existente nos autos em primeira instância, estaria passível da sanção disposta no CPC, art. 76, §2º, inciso I, qual seja, o não conhecimento do recurso por descumprimento de ordem judicial.
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL  NÃO  CONHECIDO.  AUSÊNCIA  DE  PROCURAÇÃO.  MANUTENÇÃO  DA  DECISÃO  RECORRIDA.  DESPROVIMENTO  DO  AGRAVO  INTERNO.
+I  -  Trata-se  de  agravo  de  instrumento  contra  decisão  que  acolheu pedido liminar.  No  Tribunal  de  origem,  a  decisão  foi  parcialmente reformada,  e  negado  seguimento  a  recurso  especial.  No  Superior  Tribunal  de  Justiça,  foi  interposto  agravo  interno  contra  decisão  da  Presidência  que  não  conheceu  de  agravo  em  recurso  especial.
+II  -  Verificou-se  que  a  parte  recorrente  não  procedeu  à  juntada  da  procuração  e/ou  cadeia  completa  de  substabelecimento  conferindo  poderes  ao  subscritor  do  recurso.  Ainda,  embora  regularmente  intimada  para  sanar  referido  vício,  apresentou mandato outorgado em data posterior à interposição do recurso.
+III  -  A  decisão  deve  ser  mantida  pelos  seus  próprios  fundamentos,  pois  aplicou  jurisprudência  consolidada,  firme  no  sentido  de  que  não  é  possível  o  conhecimento  do  recurso  dirigido  ao  STJ  quando  ausente  a comprovação  da  representação  processual,  aplicação  da  Súmula  n.  115  do  STJ.  Nesse  sentido:  AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.
+IV  -  Agravo  interno  improvido.
+VOTO
+O  agravo  interno  não  merece  provimento.
+A  parte  agravante  repisa  os  mesmos  argumentos  já  analisados  na  decisão  recorrida.
+Verificou-se  que  a  parte  recorrente  não  procedeu  à  juntada  da  procuração  e/ou  cadeia  completa  de  substabelecimento  conferindo  poderes  ao  subscritor  do  recurso.  Ainda,  embora  regularmente  intimada  para  sanar  referido  vício,  apresentou mandato outorgado em data posterior à interposição do recurso.
+A jurisprudência desta Corte entende que, para suprir eventual vício de representação processual, não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Nesse sentido: AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AR Esp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.
+Portanto,  a  decisão  deve  ser  mantida  pelos  seus  próprios  fundamentos,  pois  aplicou  jurisprudência  consolidada,  firme  no  sentido  de  que  não  é  possível  o  conhecimento  do  recurso  dirigido  ao  STJ  quando  ausente  comprovação  da  representação  processual,  aplicação  das  Súmula  n.  115  do  STJ.
+Ante  o  exposto,  não  havendo  razões  para  modificar  a  decisão  recorrida,  nego  provimento  ao  agravo  interno.
+É  o  voto.
