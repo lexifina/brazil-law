@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 374/380) opostos à decisão desta relatoria (e-STJ fls. 368/371) que negou provimento ao agravo em recurso especial.
+A parte embargante sustenta, em síntese, que a decisão embargada "limitou-se a invocar enunciados de Súmulas sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos" (e-STJ fl. 377).
+Impugnação não apresentada.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando na decisão judicial houver obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Em regra, o recurso integrativo não permite o rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+De fato, concluiu-se não haver falar em violação do art. 1.022 do CPC/2015 por parte do Tribunal de origem, porquanto "a parte agravante nem sequer opôs, na origem, embargos de declaração para fins de sanar o vício apontado em sede de recurso especial" (e-STJ fl. 370), o que impede a alegação de prestação jurisdicional deficiente por parte da Corte estadual.
+Verificou-se, ademais, que "as teses aventadas sob a alegação de violação dos arts. 373, II, e § 1º, 396, 397, I e II, 783 e 784 do CPC/2015 e 6º, IV, 39, V, e 51, IV, do CDC (ilegalidade da cobrança da TAC), nos termos em que aduzidas, não foram enfrentadas pelo Tribunal de origem, que, repita-se, nem sequer foi instado a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento" (e-STJ fl. 370), o que justifica a aplicação das Súmulas n. 282 e 356 do STF.
+Quanto à apontada violação do art. 1.034, caput, do CPC/2015, consignou-se que referido dispositivo legal "não possui alcance normativo apto a lastrear as teses de (i) excesso dos juros remuneratórios, (ii) abuso na cobrança de capitalização de juros e (iii) indevida cumulação de correção monetária com comissão de permanência" (e-STJ fl. 371), o que configura a deficiência da fundamentação recursal, que, por sua vez, implica a inadmissibilidade do especial, conforme dispõe a Súmula n. 284 do STF.
+Relativamente ao apontamento de afronta a enunciados de súmulas, destacou-se que ""não cabe ao Superior Tribunal de Justiça apreciar violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte" (AgInt no AgInt no AR Esp n. 2.225.058/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/4/2023, D Je de 10/4/2023)" (e-STJ fl. 371).
+Por fim, acerca da pretensão de descaracterização da mora, observou-se que, "ausente o reconhecimento de abusividade dos encargos exigidos no período da normalidade contratual, não há falar, consequentemente, em descaracterização da mora" (e-STJ fl. 371), conforme se depreende do que definido no Tema n. 28 do STJ.
+Havendo motivação satisfatória para dirimir o litígio nos moldes do juízo embargado, não se constata nenhuma das hipóteses de cabimento dos declaratórios, não configurando nenhum dos vícios previstos nos arts. 489, § 1º, e 1.022 do CPC/2015 o fato de a decisão recorrida ser contrária aos interesses da parte embargante.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
