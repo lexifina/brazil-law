@@ -1,0 +1,23 @@
+DECISÃO
+THIAGO CARDOSO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul (Apelação Criminal n. 0001108-67.2015.8.12.0054).
+Consta dos autos que o paciente foi condenado pela prática do crime de tráfico interestadual de drogas.
+A defesa pleiteia (fl. 16):
+1) A concessão da ordem de habeas corpus, com a consequente aplicação do redutor previsto no §4º do art. 33 da Lei 11.343/2006, reconhecendo a primariedade, os bons antecedentes e a ausência de provas concretas de participação do Paciente em organização criminosa, restabelecendo a pena de 07 anos, 01 mês e 10 dias de reclusão em regime semiaberto, conforme fixado na sentença de primeiro grau.
+2) Subsidiariamente, caso não seja este o entendimento, requer-se a reavaliação das circunstâncias judiciais, com a fixação de regime menos gravoso, preferencialmente o regime semiaberto, em respeito aos princípios da individualização da pena e da proporcionalidade, conforme estabelecido no art. 33, §2º, do Código Penal.
+3) A revisão da pena imposta pelo Tribunal de Justiça, majorada para 10 anos e 08 meses de reclusão, além de 400 dias-multa, por se mostrar desproporcional e desnecessária, devendo ser adequada às circunstâncias pessoais do Paciente e à gravidade do delito, em conformidade com os princípios constitucionais da individualização da pena e da proporcionalidade.
+4) O reconhecimento da ilegalidade da decisão que afastou a aplicação do redutor do §4º do art. 33 da Lei 11.343/2006, por ausência de fundamentação concreta e específica, violando os princípios da individualização da pena e da proporcionalidade, conforme jurisprudência do Superior Tribunal de Justiça (STJ) e do Supremo Tribunal Federal (STF).
+5) A aplicação do princípio do in dubio pro reo, diante da ausência de provas concretas e irrefutáveis que demonstrem a participação do Paciente em organização criminosa, garantindo assim uma decisão justa e conforme os ditames legais.
+Decido.
+Este habeas corpus foi impetrado em 6/11/2024 e se insurge contra acórdão de apelação proferido em 28/6/2018. A decisão transitou em julgado e, pelos documentos constantes dos autos, não se verifica o ajuizamento de revisão criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+No caso em apreço, a defesa deixou de solicitar ao Tribunal de Justiça a revisão de condenação.
+Assim, não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP).
+Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..
+(AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
