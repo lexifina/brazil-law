@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIO JOSE MAGALHÃES (ANTONIO JOSÉ), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, de relatoria do Des. PEDRO BERNARDES DE OLIVEIRA, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA NO CADASTRO DE EMITENTES DE CHEQUES SEM FUNDOS DO BANCO CENTRAL. PRÉVIA COMUNICAÇÃO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. ILEGITIMIDADE PASSIVA DO ÓRGÃO MANTENEDOR DO CADASTRO.
+- É do banco sacado, e não do órgão administrador do cadastro, a responsabilidade de notificar previamente o consumidor sobre a inscrição de seu nome no Cadastro de Emitentes de Cheques sem Fundos do Banco Central do Brasil. Hipótese em que se reconhece a ilegitimidade passiva ad causam do órgão mantenedor do cadastro (e-STJ, fl. 309).
+Nas razões do presente recurso, ANTONIO JOSÉ alegou a violação aos arts. 10 do CPC, 43, § 2º, da Lei nº 8.078/1990, ao sustentar (1) que não houve intimação sobre a possibilidade de extinção do processo, sem resolução de mérito, vedando-se a decisão surpresa; e, (2) que não houve notificação prévia da inscrição no Cadastro de Emitentes de Cheques sem Fundos, responsabilidade do órgão mantenedor do cadastro (e-STJ, fls. 321/348)
+Foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+(1) Da suscitada decisão surpresa
+Por primeiro, verifica-se que o Tribunal Mineiro não emitiu pronunciamento sobre o tema do art. 10 do CPC, tampouco foram opostos embargos de declaração, especificamente, a fim de que fosse suprida a exigência do prequestionamento, sendo inviável a insurgência dessa questão em sede de recurso especial.
+Assim, não há como ser analisada a tese trazida no recurso especial, em virtude da falta de prequestionamento.
+Deste modo, inafastável, a incidência das Súmulas nºs 282 e 356, ambas do STF.
+A propósito, vejam-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. HONORÁRIOS ADVOCATÍCIOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n. 282 e 356/STF.
+ ..
+4.Agravo interno improvido.
+(AgInt no AREsp 1.593.485/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, J. 11/5/2020, DJe 19/5/2020 - sem destaques no original)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MENSALIDADE ESCOLAR. COBRANÇA. ACTIO NATA. AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+ ..
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.614.973/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 31/8/2020, DJe 8/9/2020 - sem destaques no original)
+Há que se ressaltar que, nos termos do art. 1.025 do CPC, consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+De forma que, para que fosse admitido o prequestionamento ficto, ANTONIO JOSÉ deveria ter oposto embargos de declaração especificamente a respeito deste tema, o que inocorreu no presente caso.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ART. 1.021, § 3º, DO CPC/2015. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. APELAÇÃO INTEMPESTIVA. PRAZO SUSPENSO EM DIA QUE RECAIU NO CURSO DO LAPSO RECURSAL. AUSÊNCIA DE PRORROGAÇÃO. AGRAVO IMPROVIDO.
+1. Não tendo sido enfrentadas a questão ou a tese relacionada ao artigo apontado como violado pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento, incidindo os óbices das Súmulas n. 282 e 356 do STF.
+2. De fato, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.171.590/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 6/3/2018, DJe 13/3/2018 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DEVEDORA EM PROCESSO DE LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA EXECUÇÃO. CABIMENTO. PRETENSÃO DE DEVOLUÇÃO DE QUANTIAS JÁ LEVANTADAS E DESCONSTITUIÇÃO DE PENHORA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS. INTERPRETAÇÃO CONFERIDA AO ART. 1.025 DO CPC/2015. AGRAVO NÃO PROVIDO.
+1. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017), o que não se verifica na hipótese dos autos.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.120.645/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, j. 20/2/2018, DJe 27/2/2018 - sem destaque no original)
+Incide, portanto, quanto ao ponto, o óbice da Súmula nº 282 do STF, por analogia.
+O recurso, portanto, neste ponto, não pode ser conhecido.
+(2) Da alegada legitimidade do órgão mantenedor do cadastro para notificação prévia
+O Tribunal de Justiça do Estado de Minas Gerais, soberano na análise do conteúdo fático-probatório, concluiu que o consumidor deve ser comunicado previamente sobre a inclusão de seu nome nos órgãos de restrição ao crédito, cabendo ao órgão mantenedor do cadastro a referida notificação, todavia, como a inscrição se deu junto ao Cadastro de Emitentes de Cheques sem Fundos, a responsabilidade passa a ser, de fato, da instituição financeira sacada, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+No presente caso, infere-se que o autor comprovou a inscrição de seu nome no CCF (doc. 8). Por outro lado, conforme consignado na sentença, o autor não negou a dívida. Ressalta-se que o CCF submete-se às normas do Código de Defesa do Consumidor e é regulamentado pela Resolução nº 1.682/90 e pela Circular nº 2.989/2000, do Banco Central do Brasil. Tanto o CDC quanto as demais normas sobreditas dispõem a respeito do direito do consumidor de ser comunicado previamente sobre a inclusão de seu nome nos cadastros de restrição ao crédito, para que possa tomar as providências que entender cabíveis. Em regra, cabe ao órgão mantenedor do cadastro a notificação prévia do devedor, conforme preceituam a Súmula 359/STJ e o art. 43, §2º do CDC, ..  Em que pese isto, no presente caso, diante da peculiaridade da inscrição do nome do devedor no Cadastro de Emitentes de Cheques sem Fundos, a responsabilidade pela notificação prévia é, de fato, da instituição financeira sacada, e não do órgão mantenedor do cadastro, conforme previsão expressa do art. 10 da Resolução nº 1.682/90 e do art. 3º da Circular nº 2.989 de 2000 do BACEN  ..  Urge assinalar que o STJ pacificou o entendimento sobre a legitimidade passiva do banco sacado em hipóteses de inscrição no Cadastro de Emitentes de Cheques Sem Fundos - CCF ao julgar o Resp 1.354.590/RS sob a ótica dos Recursos Repetitivos. ..  Com efeito, no caso em questão, como a ação foi ajuizada em desfavor do órgão mantenedor do cadastro, é de se reconhecer a ilegitimidade passiva dele (e-STJ, fls. 312/315 - sem destaques no original)
+Pelo que se dessume dos autos, o entendimento do acórdão recorrido está em consonância com o desta Corte, no sentido de que cabe ao banco sacado promover a notificação de inclusão do correntista no Cadastro de Emitentes de Cheques sem Fundos.
+Neste sentido, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. CADASTRO DE EMITENTES DE CHEQUES SEM FUNDO - CCF. INSCRIÇÃO. NOTIFICAÇÃO PRÉVIA. AUSÊNCIA. BANCO SACADO. LEGITIMIDADE PASSIVA. SÚMULA Nº 568/STJ.
+1. Discute-se nos autos acerca da legitimidade passiva para responder à ação de indenização por danos morais decorrentes da ausência de notificação prévia de inscrição no Cadastro de Emitentes de Cheques sem Fundos - CCF.
+2. O Superior Tribunal de Justiça, no julgamento de recurso repetitivo, consolidou o entendimento de que cabe ao banco sacado promover a notificação da inclusão de correntista no CCF no momento da devolução do cheque (Tema nº 874/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.412.335/BA, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 13/5/2024, DJe de 15/5/2024 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANO MORAL. INSCRIÇÃO NO CADASTRO DE EMITENTES DE CHEQUES SEM FUNDOS - CCF. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. BANCO SACADO. LEGITIMIDADE PASSIVA. TESE FIRMADA EM RECURSO ESPECIAL REPETITIVO (RESP 1.354.590/RS). AGRAVO INTERNO PROVIDO.
+1. A Segunda Seção do Superior Tribunal de Justiça, em julgamento de recurso representativo da controvérsia, firmou o entendimento de que é do banco sacado, com o qual o correntista mantém relação contratual, a legitimidade para responder por danos resultantes da ausência de notificação prévia acerca de inscrição no Cadastro de Emitentes de Cheques Sem Fundos - CCF (REsp 1.354.590/RS, Relator Ministro Raul Araújo, julgado em 09/09/2015, DJe de 15/09/2015).
+2. Agravo interno provido para dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem.
+(AgInt no REsp n. 1.455.708/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, j. 27/8/2019, DJe de 12/9/2019 - sem destaques no original)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da parte recorrente, limitados a 20%, nos termos do art. 85, § 11, do CPC, observado, se o caso, o art. 98, § 3º do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AÇÃO. INDENIZAÇÃO. DANOS MORAIS. OFENSA AO ART. 10 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC. NECESSIDADE DE SE OPÔR EMBARGOS DE DECLARAÇÃO E APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC. CADASTRO DE EMITENTES DE CHEQUES SEM FUNDO - CCF. INSCRIÇÃO. NOTIFICAÇÃO PRÉVIA. AUSÊNCIA. BANCO SACADO. LEGITIMIDADE PASSIVA. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O DESTA CORTE. RECURSO ESPECIAL NÃO CONHECIDO.
