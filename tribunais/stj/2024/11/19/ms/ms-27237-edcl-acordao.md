@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/11/2024 a 19/11/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos pelo ABDALLA CHAMMUS ACHCAR contra acórdão da Primeira Seção deste STJ, assim ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DE PERSEGUIÇÃO POLÍTICA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. A Portaria n. 1.104/GM3/64 não é, por si só, ato de exceção, tendo a administração pública o poder-dever de conceder as anistias desde que haja robusta comprovação individualizada de atos de perseguição política, cuidado salutar que interessa a toda a sociedade para pagamentos, resultantes de reconhecimento de anistias políticas, tão somente em casos legítimos.
+2. O mandado de segurança não configura a via adequada para o reexame das provas produzidas no processo administrativo, o que demandaria dilação probatória em tal ação constitucional.
+3. A decisão tomada no âmbito do processo administrativo, não reconhecimento de perseguição política e consequente negativa de concessão de anistia política, goza de presunção de legitimidade, conforme a instrução probatória realizada com garantia de contraditório e ampla defesa, não podendo, assim, haver interferência indevida na análise técnico-administrativa, sem a caracterização flagrante de erro, que poderia justificar, excepcionalmente, uma tomada de decisão substitutiva.
+Agravo interno improvido (fl. 445).
+A parte embargante sustenta, em síntese, que:
+O ínclito Relator - não tendo como rebater ou sequer lançar frágil dúvida sobre a VERDADE ABSOLUTA DOS AUTOS, EVIDENTE POR SI MESMA, ERIGINDO-SE EM AXIOMA - dela procurou se afastar, apresentando argumentos genéricos, aplicáveis a qualquer outro processo.
+Deu, assim, ensejo a GRAVES E CLAMOROSOS ERROS DE FATO E DE APRECIAÇÃO, constatados no VOTO, os quais, em Sessão Virtual de mera convalidação, acabaram contaminando a EMENTA, e, de forma unânime, o ACÓRDÃO do julgamento Colegiado.
+Confira-se para exemplificar algumas das inúmeras distorções:
+V.1 O impetrante foi demitido pelo Ato Institucional n-9 - 5 / 6 8, o mais conhecido e violento ato de exceção da ditadura.
+ERRO GRAVE E CLAMOROSO CONSTATADO NO VOTO, EMENTA E ACÓRDÃO: "A Portaria n. 1104/GM3/64 não é, por si só, ato de exceção" ( !)
+Por incrível ou absurdo que pareça, o Relator confundiu o AI-5, que, no caso, atingiu servidor civil da Segurança Pública do Estado de São Paulo, com a Portaria referente aos afastamentos de -Cabos da Aeronáutica!
+V.2 É incontroverso, nos autos, que o embargante é ANISTIADO POLITICO, há 39 (trinta e nove), desde 30 de dezembro de 1983, nos termos da Lei de Anistia 6683/1979 (fl. 465).
+A UNIÃO apresentou impugnação aos embargos de declaração.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno deveria ser desprovido, constando, expressamente, que:
+Destaque-se que a Portaria n. 1.104/GM3/64 não é, por si só, ato de exceção, tendo a administração pública o poder-dever de conceder as anistias desde que haja robusta comprovação individualizada de atos de perseguição política, cuidado salutar que interessa a toda a sociedade para pagamentos, resultantes de reconhecimento de anistias políticas, tão somente em casos legítimos.
+Sabe-se que não se deve descurar que o controle jurisdicional da decisão administrativa diz respeito tão somente ao exame da regularidade do procedimento, levando-se em conta os princípios do contraditório, da ampla defesa e do devido processo legal, o que não autoriza, portanto, nenhuma imersão no mérito administrativo.
+E, na hipótese em epígrafe, a administração pública, conforme instrução probatória realizada, decidiu não estar configurada hipótese apta à concessão da anistia política em decorrência da ausência da comprovação de perseguição política.
+E, ressalte-se, que a decisão tomada no âmbito do processo administrativo goza de presunção de legitimidade, conforme a instrução probatória realizada com garantia do contraditório e da ampla defesa, não podendo, assim, haver interferência indevida na análise técnico-administrativa, sem a caracterização flagrante de erro, que poderia justificar, excepcionalmente, uma tomada de decisão substitutiva, infringindo, portanto, o princípio da separação dos Poderes, imprescindível para assegurar concretamente o Estado Democrático de Direito.
+Bem assim, não foram colacionadas aos autos provas inequívocas pré-constituídas no sentido de que houve perseguição política que justifique o deferimento do pleito realizado de reconhecimento da condição de anistiado político.
+Nesse sentido, trago à colação os seguintes precedentes da Primeira Seção do Superior Tribunal de Justiça:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. PLEITO DE RECEBIMENTO DE EFEITOS FINANCEIROS RETROATIVOS A PORTARIA DE RECONHECIMENTO DA CONDIÇÃO DE ANISTIADO. DEMANDAS ORDINÁRIAS PENDENTES. OBJETOS APARENTEMENTE COINCIDENTES. FALTA DE COMPROVAÇÃO DOCUMENTAL. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO DIREITO LÍQUIDO E CERTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. EXTINÇÃO DO MANDAMUS SEM RESOLUÇÃO DO MÉRITO.
+1. A medida extrema tirada de mandado de segurança não admite a juntada posterior da prova documental que supostamente evidencia o direito líquido e certo.
+2. Agravo regimental não provido.
+(AgRg no MS 19059/DF, Relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 17/08/2016, grifei.)
+ADMINISTRATIVO. SERVIDORA PÚBLICA. DEPENDÊNCIA. COMPROVAÇÃO. IMPOSSIBILIDADE EM MANDADO DE SEGURANÇA. REDUÇÃO EM 50% DA JORNADA. AUSÊNCIA DE PREVISÃO LEGAL. ATENÇÃO À REALIDADE LOCAL E ÀS NECESSIDADES DO SERVIÇO. DISCRICIONARIEDADE NA ESCOLHA DAS ALTERNATIVAS POSSÍVEIS.
+1. A impetrante fundamentou seu pedido no fato de que possui dependente com deficiência física, o que, desde já, pressupõe a comprovação do estado de dependência e da situação de saúde, quiçá por provas testemunhais ou periciais.
+2. O Mandado de Segurança não constitui o meio processual adequado para provar um fato. Exige-se prova pré-constituída como condição essencial à verificação do direito líquido e certo, de modo que a dilação probatória mostra-se incompatível com a natureza dessa ação constitucional. Nesse sentido: RMS 53.485/BA, Relator Ministro Herman Benjamin, Segunda Turma, DJe 13/9/2017, e AgInt no RMS 57.059/BA, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 9/8/2018.
+3. O pedido realizado, de redução de 50% da carga horária sem compensação, não tem embasamento legal direto no dispositivo acima transcrito. A redução da carga horária deve ser fixada pela Administração também em atenção à realidade local e às necessidades do serviço prestado.
+4. É certo que a jurisprudência do STJ entende que o Poder Judiciário no exercício do controle jurisdicional dos atos administrativos, além de aferir a legalidade dos aspectos formais do procedimento, pode anular ou reformar atos administrativos quando contrários aos princípios da proporcionalidade e da razoabilidade. Entretanto, no caso concreto, há lacunas a serem preenchidas não com a aplicação direta de normas impositivas, mas com a apreciação discricionária das circunstâncias do caso posto.
+5. A dependência foi expressamente rechaçada pelo Ministério das Relações Exteriores por ausência de provas: "Tendo a requerente falhado em demonstrar a dependência econômica da sua genitora, não resta configurado direito à redução de jornada pretendida". Não houve, contudo, sequer a tentativa de comprovação da dita dependência, o que, examinado o mérito, seria outro óbice à concessão da ordem.
+6. Agravo Interno não provido (AgInt no MS 24635/DF, Relator Ministro Herman Benjamin, Primeira Seção, DJe de 1/7/2019, grifo meu).
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência deste STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
