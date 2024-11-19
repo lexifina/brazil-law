@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRADESCO SAÚDE S.A. (BRADESCO) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a, da CF, BRADESCO alegou a violação dos arts. 1.022 do CPC; 13 da Lei n. 9.656/98; e 473 e 599 do CC, aduzindo, em síntese, (1) negativa de prestação jurisdicional; e (2) que é permitida a rescisão unilateral imotivada de contrato firmado por tempo indeterminado, desde que haja prévia notificação, tal como cláusula prevista contratualmente.
+Pois bem !
+(1) Da violação ao art. 1.022, II, do CPC
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte bandeirante apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Afasta-se, portanto, a prefacial.
+(2) Do mérito
+No que se refere à alegada validade da cláusula que estabelece a possibilidade de resilição do contrato coletivo empresarial de plano de saúde, o Tribunal bandeirante assentou que, diante da circunstância de que o grupo dos beneficiários da avença seria restrito a três pessoas da mesma família, a sua natureza também seria familiar, sendo abusiva a disposição que autoriza a rescisão unilateral pela operadora, exceto as ressalvas do art. 13, parágrafo único, II, da Lei 9.656/98, nos seguintes termos:
+ ..
+cinge-se a controvérsia à possibilidade de rescisão unilateral imotivada do contrato de plano de saúde firmado entre as partes.
+A sentença recorrida, conforme relatado, julgou procedente o pedido inicial, para declarar abusiva a cláusula contratual que permite à requerida a rescisão unilateral imotivada do plano de saúde e, por conseguinte, determinou a manutenção do plano de saúde nos termos pactuados entre as partes.
+A apelante reitera, nesta oportunidade, que, conforme cláusula contratual, a rescisão do contrato poderia ocorrer 12 meses após a sua vigência, desde que notificado por escrito com no mínimo 60 dias de antecedência, o que ocorreu, de modo que não adotou qualquer conduta abusiva.
+Contudo, respeitadas as razões recursais, a sentença não comporta qualquer reparo.
+No caso dos autos, o plano de saúde é destinado apenas a três beneficiários, do mesmo grupo familiar (fls. 35).
+Embora se trate, contratualmente, de plano coletivo empresarial, há entendimento jurisprudencial da Corte Superior no sentido de que é possível, excepcionalmente, que nessa circunstância seja tratado como plano individual ou familiar, por apresentar natureza de contrato coletivo atípico, o que afasta a possibilidade de rescisão unilateral imotivada pela operadora.
+ ..
+Dessa forma, ausentes as hipóteses, por analogia, que permitem a rescisão unilateral do contrato individual ou familiar (art. 13, parágrafo único, inciso II, da Lei 9.656/1998), não se verifica motivação idônea para rescisão pretendida pela apelante.
+Não bastasse, no caso dos autos, observa-se que dois dos três beneficiários se encontram em acompanhamento médico contínuo, vez que a apelada ROBERTA foi diagnosticada com doença de crohn (fls. 105) e o seu filho GABRIEL, menor de idade, é portador da síndrome de down, necessitando de "tratamentos ambulatoriais cotidianos e ininterruptos, assim como estimulação precoce (Fonoaudiologia, Fisioterapia, Terapia Ocupacional, Psicomotricidade, Psicopedagogia, entre outras formas de ampliar seu universo de informações neurosensoriais quando necessárias", conforme declaração médica de fls. 106.
+Por conseguinte, a rescisão imotivada pretendida pela operadora, na hipótese em tela, é ainda mais grave, pois implicaria na interrupção da cobertura de tratamentos médicos, em afronta aos princípios da boa-fé objetiva e da função social do contrato, o que não pode ser admitido.
+Há, ademais, evidente afronta à legislação consumerista, em razão da desvantagem exagerada aos consumidores neste caso (art. 51, IV, do CDC), diante das peculiaridades da situação em tela, em que inquestionável a vulnerabilidade do plano, caracterizado como "falso coletivo".
+Portanto, por essas considerações, a procedência do pedido inicial foi bem decretada (e-STJ, fls. 308/311.).
+Não obstante a possibilidade de desfazimento unilateral, em se tratando de contrato coletivo de plano de saúde, após a vigência do período de 12 (doze) meses e mediante prévia notificação da outra parte, a Agência Nacional de Saúde Suplementar (ANS), ao regulamentar tal modalidade, efetuou distinção entre os que tenham menos de 30 (trinta) beneficiários e guardem semelhantes bases atuariais às dos planos individuais e familiares e as demais avenças coletivas, exigindo daqueles motivação idônea para o encerramento unilateral do vínculo.
+A propósito, vejam-se os seguintes precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESILIÇÃO IMOTIVADA. NÚMERO DE BENEFICIÁRIOS INFERIOR A 30 (TRINTA).VULNERABILIDADE CARACTERIZADA. APLICAÇÃO DAS NORMAS DO CDC. NECESSIDADE DE MOTIVAÇÃO. PRECEDENTES. NÃO PROVIMENTO.
+1. "2. Inquestionável a vulnerabilidade dos planos coletivos com quantidade inferior a 30 (trinta) beneficiários, cujos estipulantes possuem pouco poder de negociação diante da operadora, sendo maior o ônus de mudança para outra empresa caso as condições oferecidas não sejam satisfatórias. 3. Não se pode transmudar o contrato coletivo empresarial com poucos beneficiários para plano familiar a fim de se aplicar a vedação do art. 13, parágrafo único, II, da Lei n. 9.656/1998, porém, a rescisão deve ser devidamente motivada, incidindo a legislação consumerista." (EREsp 1692594/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 12/2/2020, DJe 19/2/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1846403/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 08/06/2020, DJe 12/06/2020)
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. CATEGORIA. MENOS DE 30 (TRINTA) BENEFICIÁRIOS. RESCISÃO UNILATERAL. PLANO INDIVIDUAL E COLETIVO. CARACTERÍSTICAS HÍBRIDAS. APLICAÇÃO DO CDC. VULNERABILIDADE CONFIGURADA. MOTIVAÇÃO IDÔNEA. NECESSIDADE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. As avenças coletivas com número pequeno de usuários possuem natureza híbrida, pois ostentam valores similares aos planos individuais, já que há reduzida diluição do risco, além de possuírem a exigência do cumprimento de carências e, em contrapartida, estão sujeitos à rescisão unilateral pela operadora e possuem reajustes livremente pactuados, o que lhes possibilita a comercialização no mercado por preços mais baixos e atraentes.
+2. Inquestionável a vulnerabilidade dos planos coletivos com quantidade inferior a 30 (trinta) beneficiários, cujos estipulantes possuem pouco poder de negociação diante da operadora, sendo maior o ônus de mudança para outra empresa caso as condições oferecidas não sejam satisfatórias.
+3. Não se pode transmudar o contrato coletivo empresarial com poucos beneficiários para plano familiar a fim de se aplicar a vedação do art. 13, parágrafo único, II, da Lei n. 9.656/1998, porém, a rescisão deve ser devidamente motivada, incidindo a legislação consumerista.
+4. Embargos de divergência providos.
+(EREsp 1692594/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, j. 12/02/2020, DJe 19/02/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A decisão proferida pelo Tribunal de origem está em consonância com o entendimento desta Corte, no sentido de que embora intitulado empresarial, o contrato coletivo de plano de saúde que possua número ínfimo de participantes, como no caso - apenas sete beneficiários -, dado o seu caráter de contrato coletivo atípico, justifica a incidência do CDC e o tratamento excepcional como plano individual ou familiar. Precedentes. 2. Incidência da Súmula 83 do STJ, aplicável para o recurso interposto por ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1430929/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 25/06/2019, DJe 28/06/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. PLANO DE SAÚDE. 1. PLANO COLETIVO EMPRESARIAL QUE BENEFICIA APENAS DUAS PESSOAS FÍSICAS. CONDUTA ABUSIVA. FALTA DE MOTIVAÇÃO IDÔNEA. DEVER DE MANUTENÇÃO DO CONTRATO. OBSERVÂNCIA DA BOA-FÉ. SÚMULA N. 83/STJ. 2. PEDIDO DE NOVA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. 3. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 4. AGRAVO IMPROVIDO.
+1. A jurisprudência do STJ é no sentido de que "é válida a cláusula que prevê resilição unilateral de contrato de plano de saúde coletivo empresarial com menos de trinta beneficiários, condicionada a motivação idônea" (AgInt no AREsp n. 1.132.794/SP, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 12/3/2019, DJe 20/3/2019).
+1.1. No caso, não se admite a resilição sem motivação idônea do contrato de plano de saúde coletivo, uma vez que a empresa conta apenas com dois beneficiários - a sócia-administradora e sua mãe -, estando, portanto, em observância aos princípios da função social do contrato e da boa-fé objetiva.
+2. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+3. Conforme entendimento desta Corte, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+4. Agravo interno desprovido.
+(AgInt no REsp 1834839/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/11/2019, DJe 29/11/2019.).
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor de VITBERTO em 5%, limitados a 20% sobre o valor da condenação, nos termos do art. 85, § 11 do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DE PLANO DE SAÚDE COLETIVO EMPRESARIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICAÇÃO. FALSO COLETIVO. DESFAZIMENTO UNILATERAL PELA OPERADORA. ABRANGÊNCIA DE MENOS DE TRINTA BENEFICIÁRIOS. CONTRATO COLETIVO ATÍPICO. RESCISÃO UNILATERAL E IMOTIVADA. CLÁUSULA CONTRATUAL. MITIGAÇÃO. MOTIVAÇÃO IDÔNEA. NECESSIDADE. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
