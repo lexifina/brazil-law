@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por JOEL BATISTA DE OLIVEIRA contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 1.070/1.071).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 948):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA SECURITÁRIA. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS INICIAIS. INSURGÊNCIA DA PARTE AUTORA. PRETENSÃO DE RECONHECIMENTO DO DEVER DE INDENIZAR. LAUDO PERICIAL QUE RECONHECE A EFETIVA EXISTÊNCIA DE VÍCIOS CONSTRUTIVOS. AUSÊNCIA DE PREVISÃO EXPRESSA QUE NÃO AFASTA A RESPONSABILIDADE DA SEGURADORA, NOS CONTRATOS DE SEGURO HABITACIONAL, PELOS VÍCIOS CONSTRUTIVOS EXISTENTES NOS IMÓVEIS ADQUIRIDOS NO ÂMBITO DO SISTEMA FINANCEIRO DE HABITAÇÃO (SFH), À LUZ DA BOA-FÉ OBJETIVA E FUNÇÃO SOCIAL DO CONTRATO, POR SE TRATAREM DE VÍCIOS CAPAZES DE GERAR DANOS NÃO CONDIZENTES A SITUAÇÃO DE NORMALIDADE DE FRUIÇÃO DO IMÓVEL. ENTENDIMENTO PACIFICADO PELO STJ NO RESP 1.804.965/SP. JULGAMENTO QUE SE DEU PELA SEGUNDA SEÇÃO DA CORTE SUPERIOR E M RAZÃO DA RELEVÂNCIA DA QUESTÃO E PARA FIM DE EVITAR DIVERGÊNCIA ENTRE AS TURMAS. ALTERAÇÃO DO ENTENDIMENTO DESTE RELATOR. MULTA DECENDIAL. APRECIAÇÃO DO PEDIDO COM FULCRO NO ART. 1.013, § 3º, III, CPC. EXPRESSA PREVISÃO CONTRATUAL PARA O CASO DE ATRASO NO PAGAMENTO DA INDENIZAÇÃO DEVIDA. NÃO CONFIGURAÇÃO DE ENRIQUECIMENTO ILÍCITO. LIMITAÇÃO AO VALOR DA OBRIGAÇÃO PRINCIPAL. SENTENÇA REFORMADA. CONDENAÇÃO DA RÉ AO PAGAMENTO DOS ÔNUS SUCUMBENCIAIS. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração de fls. 974/977 (e-STJ) foram rejeitados e os de fls. 1.031/1.033 (e-STJ) não foram conhecidos.
+Nas razões do recurso especial (e-STJ fls. 1.037/1.048), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 17 do CPC/2015, 771 do CC/2002, 1.457 do CC/1916, 47 e 51, I, da Lei n. 8.078/1990, sob alegação de que "a multa decendial está claramente comprovada pela mora da Recorrida, o que no caso é totalmente incontestável, e que dada a desídia desta fica obrigada a arcar com o ônus decorrente de seu espontâneo atraso" (e-STJ fl. 1.042). Afirma que "o termo inicial para incidência da multa decendial deve ser a data de 20/07/2010, data em que a seguradora tomou ciência dos danos" (e-STJ fl. 1.045).
+No agravo (e-STJ fls. 1.074/1.081), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.085/1.100).
+É o relatório.
+Decido.
+Segundo o Tribunal de origem, o termo inicial da multa decendial "deve ser a partir da data do laudo pericial, momento em que a seguradora tomou pleno conhecimento dos danos" (e-STJ fl. 958).
+Modificar o entendimento do acórdão impugnado quanto à a data em que houve o pleno conhecimento dos danos pela seguradora, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+ EMENTA
