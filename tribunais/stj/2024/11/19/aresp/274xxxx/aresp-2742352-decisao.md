@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado pela DEFENSORIA PUBLICA GERAL DO ESTADO DE MATO GROSSO DO SUL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL - DIREITO À SAÚDE (ART. 196 DA CF) - PROCEDIMENTO CIRÚRGICO - HONORÁRIOS ADVOCATÍCIOS - PROVEITO ECONÔMICO INESTIMÁVEL - POSSIBILIDADE DE FIXAÇÃO POR EQUIDADE - RECURSO PROVIDO. SENTENÇA RETIFICADA PARCIALMENTE EM REMESSA NECESSÁRIA.
+1. As ações em face da Fazenda Pública cujo objeto envolva a tutela do direito à saúde possuem proveito econômico inestimável, possibilitando o arbitramento de honorários advocatícios sucumbenciais por apreciação equitativa.
+Precedentes do STJ.
+2. Apelação conhecida e provida. Sentença retificada parcialmente em Remessa Necessária.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 85, § 3º, I, e § 4º, III, do CPC, no que concerne à necessidade de que, nos casos em que não for possível mensurar o proveito econômico obtido, a verba honorária sucumbencial seja fixada com base no valor atualizado da causa, na forma prevista pelo art. 85, § 4º, III, do CPC, trazendo a seguinte argumentação:
+Destarte, nota-se que o Novo Código de Processo Civil criou regra específica e objetiva sobre a fixação de honorários advocatícios em causas envolvendo a Fazenda Pública, pois estabeleceu alíquotas mínima e máxima para cada faixa pecuniária, de modo que não conferiu margem para apreciação equitativa pelo magistrado.
+Além disso, também estabelece o diploma processual que, não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa, nos termos do art. 85, § 4º, III, do NCPC.
+No caso vertente, constata-se que o valor atribuído à causa é de R$ R$ 137.900,00 (cento e trinta e sete mil e novecentos reais), correspondente a aproximadamente 113 salários mínimos. Assim, enquadra-se a hipótese dos autos na disposição do artigo 85, § 3º, inciso I do Código de Processo Civil.
+Além disso, mesmo que se entenda ser o valor almejado pela parte inestimável economicamente, a aplicação do art. 85, § 4º, III, do CPC, tornaria necessário utilizar, como parâmetro para a fixação dos honorários de sucumbência, o valor atualizado da causa.
+Não se olvide, nesse sentido, que o STJ e também o próprio E. Tribunal de Justiça de Mato Grosso do Sul tem se posicionado favoravelmente a ambas essas teses: (fls. 187).
+Ressalta-se, por fim, que não se desconhece a existência de certa corrente jurisprudencial no STJ firmada no sentido de que demandas relacionadas ao direito à saúde (como as que veiculam pedidos de medicamentos e tratamentos específicos) possuem valor inestimável, podendo, portanto, ser o valor dos honorários de sucumbência firmado com base no § 8º do art. 85 do CPC (equidade).
+No entanto, essa orientação ignora completamente a existência do já mencionado § 4º, III, do art. 85 do CPC, responsável por estabelecer regra expressa (e de clareza solar) a respeito da fixação de honorários de sucumbência em casos de proveito econômico inestimável, quando a fazenda pública figura como Ré. Segundo o dispositivo, nessas hipóteses, deve a estipulação dos honorários ocorrer com base no valor atualizado da causa. (fls. 190).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente, no sentido de que, nos casos de impossibilidade de verificação do proveito econômico obtido , a verba honorária sucumbencial deve ser fixada com base no valor atualizado da causa, conforme prec onizado pelo art. 85, § 4º, III, do CPC.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
