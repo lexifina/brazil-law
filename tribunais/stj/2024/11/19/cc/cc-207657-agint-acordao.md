@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/11/2024 a 19/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONFLITO ENTRE JUÍZOS. AÇÃO DE DESPEJO. CONTRATO DE LOCAÇÃO. EMPRESA LOCATÁRIA EM REGIME DE RECUPERAÇÃO JUDICIAL. RETOMADA DO IMÓVEL. COMPETÊNCIA DO JUÍZO DA AÇÃO DE DESPEJO.
+1. A Segunda Seção desta Corte possui entendimento firmado no sentido de que eventuais questões concernentes à ação de despejo movida pelo proprietário em face de sociedade empresária em recuperação judicial não se inserem na esfera de competência do juízo da recuperação judicial.
+2. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por SPA ONLINE ASSESSORIA DE MODA E APOIO ADMINISTRATIVO LTDA. e ALVARO JABUR MALUF JUNIOR, contra decisão que declarou a competência do Juízo de Direito da Seção B da 19ª Vara Cível de Recife - PE (suscitante) para prosseguir no julgamento da ação de despejo.
+Ação em trâmite no juízo de Cuiabá - MT: recuperação judicial de SPA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. e OUTRAS.
+Ação em trâmite no juízo de Recife - PE: despejo por falta de pagamento de aluguéis e acessórios da locação ajuizada por IMOBILIÁRIA CM LTDA. em face dos agravantes, no qual foi deferida liminar de despejo.
+Decisão do Juízo de Cuiabá - MT (suscitado): determinou a suspensão de eventuais ordens de despejo oriundas de ações propostas por locadores contra as recuperandas e a submissão obrigatória da questão ao crivo do juízo recuperacional.
+Decisão do Juízo de Recife - PE (suscitante): afirmou que "a recuperação judicial não constitui óbice ao prosseguimento da  ..  ação de despejo, que visa a retomada do bem locado por inadimplência e, ainda, não se sujeita à competência do juízo universal" (e-STJ, fl. 200) e , assim, que "há duas decisões conflitantes, proferidas por juízos de igual hierarquia, de estados da federação diversos, cada um entendendo ser competente para a tomada da decisão" acerca da retomada do bem locado (e-STJ, fl. 200), suscitando o conflito de competência.
+Decisão agravada: declarou a competência do juízo suscitante.
+Agravo interno: alegam que a controvérsia não pode ser analisada "somente quanto à retomada do bem, mas sim, considerando a essencialidade da manutenção dos contratos de locação, para que os agravantes possam atender ao princípio da recuperação judicial - a preservação da empresa" (e-STJ, fl. 227). Pugnam, assim, pelo reconhecimento da competência do juízo recuperacional para determinar a suspensão ou manutenção das ordens de despejo nas ações bilaterais.
+É O RELATÓRIO.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONFLITO ENTRE JUÍZOS. AÇÃO DE DESPEJO. CONTRATO DE LOCAÇÃO. EMPRESA LOCATÁRIA EM REGIME DE RECUPERAÇÃO JUDICIAL. RETOMADA DO IMÓVEL. COMPETÊNCIA DO JUÍZO DA AÇÃO DE DESPEJO.
+1. A Segunda Seção desta Corte possui entendimento firmado no sentido de que eventuais questões concernentes à ação de despejo movida pelo proprietário em face de sociedade empresária em recuperação judicial não se inserem na esfera de competência do juízo da recuperação judicial.
+2. Agravo interno não provido.
+VOTO
+Consoante anteriormente consignado, a Segunda Seção desta Corte possui entendimento firmado no sentido de que eventuais questões concernentes à ação de despejo movida pelo proprietário em face de sociedade empresária em recuperação judicial não se inserem na esfera de competência do juízo da recuperação judicial.
+Deveras, "o credor proprietário de imóvel, quanto à retomada do bem, não está sujeito aos efeitos da recuperação judicial, (Lei 11.101/2005, art. 49, § 3º)" (CC 122.440/SP, Segunda Seção, DJe 15/10/2014). Nesse sentido, ainda: AgInt nos EDcl no REsp 1.925.508/RJ, Quarta Turma, DJe 10/3/2023; AgInt no CC 181.436/SP, Segunda Seção, DJe 6/5/2022; CC 170.421/PR, Segunda Seção, DJe 14/10/2020.
+Assim, partindo-se das premissas delimitadas pelos juízes em confronto, os quais apontaram, de um lado, a tramitação perante o Juízo de Recife - PE de ação de despejo em face de empresa em recuperação judicial, com o deferimento de liminar de despejo, e do outro lado, o processamento no Juízo de Cuiabá - MT da recuperação judicial de SPA Empreendimentos Imobiliários SPE Ltda. e outras, no bojo da qual foi determinada a suspensão de eventuais ordens de despejo oriundas de ações propostas por locadores contra a recuperanda, foi reconhecida, nos termos da aludida jurisprudência, a competência do Juízo de Direito da Seção B da 19ª Vara Cível de Recife - PE para prosseguir no julgamento da ação de despejo que deu origem ao presente conflito.
+Com efeito, em relação ao imóvel locado, a recuperanda figura apenas como titular da cessão temporária e onerosa de uso, de modo que o Juízo recuperacional não tem competência para determinar a disposição ou indisposição do bem imóvel de propriedade do locador em ações de despejo propostas contra empresa em recuperação judicial.
+Aliás, o cerne da controvérsia estabelecida no presente incidente não envolvia a análise da essencialidade da manutenção dos contratos de locação para a preservação da empresa e, por isso, não há razão para a insurgência dos agravantes no particular.
+Ademais, cabe salientar, apenas para registro, que esta Corte Superior de Justiça já decidiu que "os bens cuja essencialidade deve ser apreciada pelo juízo da recuperação são os integrantes do patrimônio da empresa e não imóvel de terceiro" (AgInt no REsp 1.715.416/SP, Terceira Turma, DJe 30/8/2023)
+Assim, não compete ao juízo recuperacional determinar a submissão obrigatória das ordens de despejo ao seu crivo, como ocorreu na hipótese, impondo-se a manutenção da competência estabelecida pela agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
