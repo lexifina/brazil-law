@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAULO VITOR MANOEL LEITE DA SILVA e OUTROS contra decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido, por não incidir o óbice sumular mencionado.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Parecer do Ministério Público Federal opinando pelo não provimento do agravo em recurso especial (fls. 464-470).
+É o relatório.
+A conclusão sobre a inadmissibilidade do recurso deve ser mantida, conforme se expõe a seguir.
+O recurso especial tem como objetivo a restituição de bens e veículos, o levantamento de restrições sobre veículos e bens imóveis, e o desbloqueio de valores depositados em contas correntes.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de reexame do conjunto fático-probatório dos autos, aí considerando a fundamentação posta pelo Tribunal de origem nestes termos (fls. 381-383):
+Infere-se, portanto, que o motivo que ensejou o indeferimento da restituição dos itens (envelopes de correspondências, veículos, cheques e contratos - itens 1 a 3 do doc. APREENSAO11; itens 6 a 12 do doc. APREENSAO12), na forma do item "2.1"; e dos bens relacionados nas letras "b" a "f" dos pedidos dos Requerentes, envolvendo o levantamento das restrições dos veículos de propriedade de PAULO V M L DA SILVA TRANSPORTES, de STEFANI ROBERTA SANTOS DE FREITAS e PAULO VITOR MANOEL LEITE DA SILVA e daqueles apreendidos no momento das buscas, cadastradas no sistema Renajud, o desbloqueio dos valores depositados nas contas bancárias de titularidade de STEFANI ROBERTA SANTOS DE FREITAS e PAULO VITOR MANOEL LEITE DA SILVA, o levantamento das restrições averbadas junto às matrículas dos bens imóveis dos Requerentes, a devolução dos veículos que porventura já tenham sido cedidos provisoriamente à Polícia Federal e o depósito em conta dos valores obtidos com a alienação antecipada dos automóveis dos requerentes, caso já tenha sido efetivada, na forma do item "2.2"; foi a falta de comprovação da origem lícita dos mesmos.
+Pois bem.
+Diz o artigo 118 do Código de Processo Penal:
+Art. 118. Antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas enquanto interessarem ao processo.
+O art. 118 do Código de Processo Penal permite a restituição dos bens apreendidos antes do trânsito em julgado da sentença final, salvo enquanto interessarem ao processo.
+Por outro lado, o art. 91, II, "a" e "b", do Código Penal prevê, como efeito da condenação, a perda, em favor da União, de bens que sejam instrumentos ou produtos do crime, impedindo, a contrario sensu, sua restituição.
+Assim, a restituição de coisas apreendidas no curso de inquérito ou de ação penal condiciona-se a três requisitos: demonstração cabal da propriedade do bem pelo requerente (artigo 120, caput, do CPP); ausência de interesse no curso do inquérito ou da instrução judicial na manutenção da apreensão (artigo 118 do CPP); e não estar o bem sujeito à pena de perdimento (artigo 91, inciso II, do CP).
+ ..
+Como se viu do relatório, rigorosamente os requerentes abdicaram de investir na comprovação da origem lícita, sob a perspectiva de que o falecimento de PAULO VITOR MANOEL LEITE DA SILVA, e o fato da viúva STEFANI ROBERTA SANTOS DE FREITAS não haver sido denunciada, tal contexto fático-processual seria bastante e suficiente para a liberação das constrições e a perfectibilização das restituições.
+Sem razão os apelantes.
+O falecimento de PAULO VITOR MANOEL LEITE DA SILVA, que opera a extinção da punibilidade do investigado, por si só, não convalida eventuais delitos praticados anteriormente, somente afastando a possibilidade de sanção penal ao réu, e não transforma os bens suspeitos de serem propriedade de fato de Rogério Marchiori, em restituíveis. O não oferecimento de denúncia em desfavor de STEFANI ROBERTA SANTOS DE FREITAS, por outro lado, também não torna os bens móveis (veículos apreendidos) e submetidos a restrições, e os imóveis indisponibilizados no CNBI, liberados de restrições e restituíveis.
+Isso porque, em face dos delitos investigados na Operação Parasitas, compreendendo lavagem, e a prática de colocação de bens em nome de terceiros para ocultar-lhes a real propriedade, não estão esses bens à salvo de, no futuro, virem a ser objeto da imposição da pena de perdimento em favor da União.
+Então, para o caso, em que os requerentes, na prática, abdicaram de fazer o investimento probatório capaz de comprovar a licitude de origem, a solução para o presente incidente de restituição, é o desacolhimento.
+Não é outro o entendimento do i. Procurador Regional da República Ipojucan Corvello Borba, firmatário do parecer da Procuradoria Regional da República, cujo trecho colaciono:
+ ..
+CONCLUSÃO Com essas considerações, porque não comprovada a licitude de origem dos bens pretendidos ver restituídos e liberados de constrições patrimoniais, e porque os bens interessam para o processo, é desprovida a apelação.
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+Vale registrar que o papel do Superior Tribunal de Justiça, definido pela Constituição Federal, não é o de promo ver um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, do recurso especial não se pode conhecer, pois não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE RESTITUIÇÃO DE COISAS APREENDIDAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
