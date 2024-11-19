@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/11/2024 a 19/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - DIREITO BANCÁRIO - TARIFA DE LIQUIDAÇÃO ANTECIPADA - NEGÓCIO ENTABULADO COM PESSOA JURÍDICA - VIABILIDADE DA COBRANÇA - MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE - DELIBERAÇÃO UNIPESSOAL QUE NEGOU PROVIMENTO AO APELO RECURSAL ANTE A AUS NCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL - INSURGÊNCIA DO AGRAVANTE.
+1. Nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ. Ausência na hipótese dos autos.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno manejado por OFM SYSTEMS LTDA e OUTRO contra decisão, da lavra deste signatário, acostada às fls. 621/624, que negou provimento ao apelo recursal ante à inexistência de demonstração de seus correlatos requisitos.
+Em síntese, os embargos de divergência voltam-se contra acórdão da eg. Terceira Turma, de Relatoria do e. Min. Marco Aurélio Bellizze, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO BANCÁRIO. TARIFA DE LIQUIDAÇÃO ANTECIPADA. NEGÓCIO ENTABULADO COM PESSOA JURÍDICA. VIABILIDADE DA COBRANÇA. ENTENDIMENTO DA TERCEIRA TURMA DO STJ. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A mais recente orientação jurisprudencial da Terceira Turma deste Superior Tribunal de Justiça é no sentido de que a vedação à cobrança da Tarifa de Liquidação Antecipada, prevista na Resolução Normativa n. 3.516/2007 do Conselho Monetário Nacional (CMN), é aplicável apenas às pessoas físicas, às microempresas e às empresas de pequeno porte.
+2. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+3. Agravo interno desprovido.
+Nas razões do presente apelo recursal indica-se dissídio em relação aos seguintes julgados: REsp 1.325.857/RS, Rel. Min. Luis Felipe Salomão, Dje de 30/11/2021; Agint no Agint no AREsp 1606893/BA, Rel. Min. Maria Isabel Gallotti, D Je de 07/12/2020.
+Argumenta-se, em síntese, que "(..) a cobrança de tarifa de liquidação antecipada é proi bida, independe do enquadramento da parte contratante." Acrescenta, nesse contexto, que "(..) a vedação da cobrança de tarifa de liquidação antecipada é proibida em qualquer situação."
+Requer, assim, o provimento da insurgência a fim de reformar o acórdão impugnado. (fls. 429/566)
+Impugnação juntada às fls. 578/614.
+O MPF ofertou parecer no sentido do não conhecimento do apelo recursal. (fls. 616/618)
+Às fls. 621/624, este signatário negou provimento ao apelo recursal ante à inexistência de demonstração de seus correlatos requisitos.
+Em suas razões, os insurgentes repisam os fundamentos no sentido do cabimento do presente apelo recursal. Destacam o dissídio jurisprudencial acerca da matéria. Dizem, nesse contexto, que "(..) a vedação da cobrança de tarifa de liquidação antecipada é proibida em qualquer situação." Pedem, assim, o provimento do agravo interno. (fls. 644/650)
+A impugnação está juntada às fls. 654/669.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - DIREITO BANCÁRIO - TARIFA DE LIQUIDAÇÃO ANTECIPADA - NEGÓCIO ENTABULADO COM PESSOA JURÍDICA - VIABILIDADE DA COBRANÇA - MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE - DELIBERAÇÃO UNIPESSOAL QUE NEGOU PROVIMENTO AO APELO RECURSAL ANTE A AUS NCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL - INSURGÊNCIA DO AGRAVANTE.
+1. Nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ. Ausência na hipótese dos autos.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A insurgência não merece prosperar.
+1. Isso porque, consoante destacado na oportunidade do exame unipessoal, nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+Nesse contexto, registra-se que a jurisprudência do Superior Tribunal de Justiça é pacífica quanto à imperiosa necessidade de confrontação analítica dos arestos entre os quais se alega existir conflito de tese jurídica, o que não se desincumbiu os ora insurgentes.
+Confiram-se, nessa linha, os seguintes julgados: AgRg nos ER Esp 1.196.175/ES, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, julgado em 02/05/2012, DJe 15/05/2012; AgInt nos EAR Esp 971.729/PR, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 31/10/2017; AgInt nos EREsp 1.321.606/MS, Rel. Min. Moura Ribeiro, D Je de 15/05/2017; AgRg nos EAR Esp 739.649/SP, Rel. Min. Luis Felipe Salomão, Dje de 05/11/2015.
+Com esse norte hermenêutico, observa-se, consoante destacado pelo parecer ministerial (fls. 616/618), a ausência de similitude entre os acórdãos ora confrontados.
+O v. acórdão embargado entendeu, por unanimidade de votos, que, na hipótese em liça, diante das circunstâncias do caso, "(..) A mais recente orientação jurisprudencial da Terceira Turma deste Superior Tribunal de Justiça é no sentido de que a vedação à cobrança da Tarifa de Liquidação Antecipada, prevista na Resolução Normativa n. 3.516/2007 do Conselho Monetário Nacional (CMN), é aplicável apenas às pessoas físicas, às microempresas e às empresas de pequeno porte."
+Com efeito, os arestos trazidos a confronto enfrentaram temática distinta porquanto no REsp 1.325.857/RS, Rel. Min. Luis Felipe Salomão, Dje de 30/11/2021, no âmbito de processo coletivo, entendeu que "(..) A cobrança da tarifa por quitação (ou liquidação) antecipada de contrato de financiamento é permitida para as antecipações realizadas antes de 10/12/2007, desde que constante informação clara e adequada no instrumento contratual (Res. CMN n. 2.303/96 e n. 3.516/2007), circunstância que deverá ser comprovada na fase de liquidação, particularmente por cada consumidor exequente.", circunstância diferente ao caso dos autos, o que afasta a alegada similitude.
+Por sua vez, no Agint no Agint no AREsp 1606893/BA, Rel. Min. Maria Isabel Gallotti, D Je de 07/12/2020, este definiu que "durante a vigência da Resolução CMN nº 2.303/1996 era lícita a cobrança pela prestação de quaisquer tipos de serviços pelas instituições financeiras, entre eles o de liquidação antecipada de operação de crédito, desde que efetivamente contratados e prestados e, somente com o advento da Resolução CMN nº 3.516, de 10 de dezembro de 2007, é que foi expressamente vedada a cobrança de tarifa em decorrência de liquidação antecipada de contratos de concessão de crédito e de arrendamento mercantil financeiro."
+Essas circunstâncias aqui examinadas e devidamente enfrentadas ensejam a inexistência de similitude entre os acórdãos confrontados, sendo de rigor, portanto, a rejeição dos presentes embargos de divergência, valendo destacar, por oportuno, consoante destacou o parecer ministerial que "(..) em relação à pessoa natural que ora figura como embargante, que, nos termos do decisum impugnado, tal recorrente consta apenas "como avalista da cédula de crédito bancário - que possui como único emitente a pessoa jurídica-, o que é insuficiente para afastar a aplicação do posicionamento jurisprudencial" colacionado pelo órgão colegiado embargado (fls. 422/423, e-STJ)"
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
