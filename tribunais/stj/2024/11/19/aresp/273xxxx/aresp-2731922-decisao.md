@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE RIO DE JANEIRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. NOTIFICAÇÃO JUDICIAL PARA REGULARIZAÇÃO DE LOTEAMENTO. MUNICÍPIO DO RIO DE JANEIRO. SENTENÇA DE EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. INSURGÊNCIA DA EDILIDADE. PRETENSÃO DE LEVANTAMENTO DE VALORES DEPOSITADOS. AUSÊNCIA DE DOCUMENTOS NOS AUTOS SUFICIENTES À DEMONSTRAÇÃO DA REGULARUIZAÇÃO DO LOTEAMENTO. DOCUMENTOS NOVOS. MATÉRIA ALEGADA NO RECURSO JAMAIS DEDUZIDA PELA EDILIDADE. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. ART. 1.013 CAPUT DO CPC. OFENSA AO PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO. RECURSO NÃO PROVIDO, NA PARTE EM QUE CONHECIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa e divergência jurisprudencial d o art. 40, § 1º, Lei nº 6.766/1979, no que concerne à necessidade de se reconhecer o direito ao levantamento dos valores depositados tendo sido comprovado que o loteamento foi regularizado, trazendo a seguinte argumentação:
+V. RAZÕES PARA A REFORMA DO ACÓRDÃO RECORRIDO A GRAVE OFENSA À LEGISLAÇÃO FEDERAL E DIVERGÊNCIA JURISPRUDENCIAL
+15. Nos termos do art. 40, §1º, Lei nº 6766/1979 - que versa sobre o parcelamento do solo urbano - caberá à municipalidade o levantamento dos valores depositados a título de ressarcimentos pelos custos da regularização do loteamento ou desmembramento.
+ ..
+16. Diante desse direito garantido em âmbito federal, assim requereu a municipalidade a efetividade da citada normativa de direito nacional.
+17. Contudo, teve seu pedido negado sob o fundamento de que não restou demonstrado que o loteamento foi regularizado.
+18. No entanto, não é isso que se extrai dos autos judiciais. Observa-se que o Município comprovou nos autos com a íntegra do processo administrativo nº 16/000563/2005 que foram executadas as obras e o loteamento encontra-se devidamente regularizado:
+ ..
+(fls. 150-151).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Isso anotado, como se vê, o apelante pretende a reforma parcial da sentença, apenas para que seja autorizado o levantamento dos valores depositados pelo notificante em juízo, ao argumento de que tanto a inicial, quanto o documento de índice 15 comprovam a regularização do loteamento.
+Sem razão o apelante. Isso porque, da análise do documento em referência, juntado pelo notificante com a inicial, verifica-se que a informação fornecida pelo notificado foi no sentido da PARCIAL regularização do Loteamento:
+ ..
+(fls. 112-113).
+Destarte, o acórdão enfrentou expressamente o tema, dando-lhe a solução que lhe pareceu mais adequada, tendo em vista que ausente a justificativa para o levantamento dos valores pela edilidade, uma vez que, ao contrário do que afirma, a regularização do loteamento ainda não foi concluída.
+(fls. 136).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ademais, quanto à divergência jurisprudencial, incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Esse entendimento possui respaldo em recente julgado desta Corte Superior de Justiça:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão.
+ .. . (AgInt no AREsp n. 1.479.509/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/11/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AgInt no AREsp n. 1.015.487/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/8/2017; AgRg nos EDcl no AREsp n. 604.337/RJ, relator Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe de 11/5/2015; e AgRg no AREsp n. 165.022/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 3/9/2013; AgRg no Ag 205.379/SP, relator Ministro José Delgado, Primeira Turma, DJ de 29/3/1999; AgInt no AREsp n. 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira turma, DJe de 21/06/2021; AgInt no AREsp n. 1.776.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 11/06/2021.
+Ainda, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
