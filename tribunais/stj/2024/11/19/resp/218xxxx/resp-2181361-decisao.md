@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto de Previdência dos Servidores do Estado de Minas Gerais (IPSEMG), com base no 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim sintetizado:
+EMENTA: CONTRIBUIÇÃO COMPULSÓRIA PARA CUSTEIO DA ASSISTÊNCIA À SAÚDE - NATUREZA TRIBUTÁRIA - INCONSTITUCIONALIDADE - RESTITUIÇÃO - SOLIDARIEDADE INEXISTENTE ENTRE O IPSEMG E O ESTADO DE MINAS GERAIS
+- O STF declarou a natureza tributária e a inconstitucionalidade da contribuição compulsória para o custeio da assistência à saúde (ADI 3. I06IMG). Cabível, consequentemente, a repetição do indébito (CTN, ad. 165), independentemente da disponibilidade do serviço.
+- Sendo o IPSEMG uma autarquia e o único destinatário das contribuições previdenciárias indevidamente descontadas dos servidores, não existe responsabilidade solidária do Estado de Minas Gerais na restituição do indébito.
+- A restituição deve observar a prescrição quinquenal e limitar-se a abril de 2010, uma vez que a contribuição tornou-se facultativa em 5.5.2010 (Instrução Normativa SCAP 0212010).
+- Sobre os valores restituídos deverão incidir os índices de reajustamento das tabelas editadas pela Corregedoria-Geral de Justiça, desde cada desconto indevido até o trânsito em julgado da sentença, a partir de quando incidirá, exclusivamente, a Taxa Selic (Súmulas 162 e 188 do STJ).
+Na sequência foram opostos embargos declaratórios, os quais foram considerados protelatórios pela Corte local, que aplicou multa de 1% do valor da causa, nos termos do art. 538, parágrafo único, do CPC/73.
+Nas suas razões recursais, o Instituto recorrente alega ofensa aos arts. 535, II e 538, parágrafo único, do CPC/73, ao fundamento de que a Corte estadual foi omissa quanto ao disposto no art. 1º-F da Lei n. 9.494/97, com redação dada pela Lei n. 11.960/2009. Pede o reconhecimento da nulidade do acórdão, com o afastamento da multa aplicada.
+No mérito, indica ofensa ao art. 884 do Código Civil, aduzindo que deve ser julgado improcedente o pedido de devolução da contribuição, que foi objeto da ADI n. 3106.
+Após o sobrestamento do feito até julgamento do REsp n. 1.348.679/MG pelo STJ, submetido à sistemática dos recursos repetitivos (Tema n. 588), em juízo de retratação decidiu o TJMG pela improcedência do pedido autoral, em acórdão ementado nos termos abaixo (fl. 155):
+EMENTA: IPSEMG - CONTRIBUIÇÃO DE ASSISTÊNCIA À SAÚDE - LC N. 64102 - DESCONTO COMPULSÕRIO - ADI 3.106/MO - INCONSTITUCIONALIDADE - MODULAÇÃO DOS EFEITOS - RESP 1.348.679/MC (TEMA N. 588) - MANIFESTAÇÃO DE VONTADE DO SERVIDOR - JUÍZO DE RETRATAÇÃO.
+Conferida eficácia pelo Supremo Tribunal Federal à declaração de inconstitucionalidade apenas a partir do julgamento final da ADI n. 3.106, são legítimas as contribuições recolhidas no período anterior a 14 de abril de 2010. A partir do referido marco é cabível a cobrança na hipótese em que haja manifestação de vontade ou utilização dos serviços pelo servidor, segundo orientação firmada pelo Superior Tribunal de Justiça no julgamento do REsp 1.348.679/MG.
+É o relatório.
+Extrai-se dos autos que o recurso especial foi admitido na origem apenas no tocante à "inaplicabilidade da multa fixada no julgamento dos embargos de declaração" (fl. 170), por estar prejudicado quanto à discussão sobre a restituição dos valores pagos a título de contribuição para o custeio da assistência à saúde, prevista no art. 85 da Lei Complementar Estadual n. 64/2002 (Tema n. 588/STJ ).
+Da leitura da petição dos embargos de declaração opostos na origem pelo ora recorrente , não se verifica a presença de intuito protelatório, razão pela qual prospera a pretensão de afastamento da multa prevista no art. 538, parágrafo único, do CPC/73, conforme entendimento contido na Súmula 98/STJ.
+Com efeito, "a oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 538, parágrafo único, do CPC de 1973, nos termos da Súmula 98/STJ" (AgInt no REsp n. 1.667.497/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024.).
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. HONORÁRIOS DE ADVOGADO. CABIMENTO. PRINCÍPIO DA CAUSALIDADE. EMBARGOS DE DECLARAÇÃO OPOSTOS PARA PREQUESTIONAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA 98/STJ.
+1. O Tribunal a quo está em sintonia com a jurisprudência do STJ consoante o qual, nas hipóteses de extinção do processo sem resolução do mérito, por perda de objeto superveniente ao ajuizamento da ação, a parte que deu causa à instauração do processo deverá suportar o pagamento dos honorários advocatícios.
+2. Os Embargos de Declaração opostos na origem visavam ao prequestionamento para fins de acesso às instâncias superiores. Nos termos da Súmula 98/STJ, afasta-se a multa imposta com base no art. 538, parágrafo único, do CPC/1973.
+3. Recurso Especial parcialmente provido, apenas para excluir a multa imposta com base no art. 538, parágrafo único, do CPC/1973.
+(REsp n. 1.681.186/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/9/2017, DJe de 9/10/2017.)
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a multa aplicada com base no art. 538, parágrafo único, do CPC/73.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. OFENSA AO ART. 538, PAR. ÚNICO, DO CPC/73. APLICAÇÃO DE MULTA. EDCL OPOSTOS NA ORIGEM COM FINS DE PREQUESTIONAMENTO. CARÁTER PROTELATÓRIO NÃO DEMONSTRADO. MULTA AFASTADA. RECURSO ESPECIAL PROVIDO.
