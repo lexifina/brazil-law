@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer parcialmente do habeas corpus e, nessa parte, denegar.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. HABEAS CORPUS. FRAGILIDADE DAS PROVAS DA AUTORIA DELITIVA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. ART. 312 DO CPP. GARANTIA DA ORDEM PÚBLICA. PACIENTE REINCIDENTE ESPECÍFICO, EM CUMPRIMENTO DE PENA NO REGIME ABERTO. FUNDADO RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente preso preventivamente pela prática de tráfico de drogas, requerendo a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão, sob alegação de ausência de fundamentação idônea para a custódia cautelar, predicados pessoais favoráveis, suficiência das medidas cautelares alternativas e fragilidade das provas da autoria delitiva.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se estão presentes os requisitos legais para a decretação da prisão preventiva, conforme os artigos 312 e 313 do CPP, e se é possível a substituição da prisão por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. Quanto à alegada fragilidade de provas da autoria delitiva, destaca-se que a tese não foi examinada pelo Tribunal de origem no acórdão ora impugnado, o que impede a manifestação por esta Corte acerca dos pontos, sob pena de indevida supressão de instância.
+4. A prisão preventiva foi decretada com base em elementos concretos que demonstram a reincidência específica do paciente, que cometeu o crime de tráfico de drogas enquanto cumpria pena em regime aberto, reforçando a necessidade de segregação cautelar para garantir a ordem pública.
+5. A reincidência, em especial nos crimes de tráfico de drogas, justifica a decretação da prisão preventiva, conforme jurisprudência consolidada do STJ e STF, sendo a reiteração delitiva e a periculosidade do agente suficientes para fundamentar a medida extrema.
+6. As condições pessoais favoráveis, como primariedade ou residência fixa, não são suficientes para afastar a prisão preventiva quando a gravidade concreta da conduta e o risco de continuidade das atividades criminosas estão evidenciados.
+7. A aplicação de medidas cautelares diversas da prisão é inadequada no caso em exame, uma vez que não seriam eficazes para proteger a ordem pública e interromper a atividade delitiva do paciente.
+IV. DISPOSITIVO
+8. Ordem denegada.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos.
+A defesa alega, em síntese, ausência de requisitos para a decretação da prisão preventiva, condições pessoais favoráveis do paciente, suficiência das medidas cautelares mais brandas e fragilidade das provas da autoria delitiva.
+Requer a concessão da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. HABEAS CORPUS. FRAGILIDADE DAS PROVAS DA AUTORIA DELITIVA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. ART. 312 DO CPP. GARANTIA DA ORDEM PÚBLICA. PACIENTE REINCIDENTE ESPECÍFICO, EM CUMPRIMENTO DE PENA NO REGIME ABERTO. FUNDADO RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente preso preventivamente pela prática de tráfico de drogas, requerendo a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão, sob alegação de ausência de fundamentação idônea para a custódia cautelar, predicados pessoais favoráveis, suficiência das medidas cautelares alternativas e fragilidade das provas da autoria delitiva.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se estão presentes os requisitos legais para a decretação da prisão preventiva, conforme os artigos 312 e 313 do CPP, e se é possível a substituição da prisão por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. Quanto à alegada fragilidade de provas da autoria delitiva, destaca-se que a tese não foi examinada pelo Tribunal de origem no acórdão ora impugnado, o que impede a manifestação por esta Corte acerca dos pontos, sob pena de indevida supressão de instância.
+4. A prisão preventiva foi decretada com base em elementos concretos que demonstram a reincidência específica do paciente, que cometeu o crime de tráfico de drogas enquanto cumpria pena em regime aberto, reforçando a necessidade de segregação cautelar para garantir a ordem pública.
+5. A reincidência, em especial nos crimes de tráfico de drogas, justifica a decretação da prisão preventiva, conforme jurisprudência consolidada do STJ e STF, sendo a reiteração delitiva e a periculosidade do agente suficientes para fundamentar a medida extrema.
+6. As condições pessoais favoráveis, como primariedade ou residência fixa, não são suficientes para afastar a prisão preventiva quando a gravidade concreta da conduta e o risco de continuidade das atividades criminosas estão evidenciados.
+7. A aplicação de medidas cautelares diversas da prisão é inadequada no caso em exame, uma vez que não seriam eficazes para proteger a ordem pública e interromper a atividade delitiva do paciente.
+IV. DISPOSITIVO
+8. Ordem denegada.
+VOTO
+Ab initio, destaco, quanto à alegada fragilidade de provas da autoria delitiva, que a tese não foi examinada pelo Tribunal de origem no acórdão ora impugnado, o que impede a manifestação por esta Corte acerca dos pontos, sob pena de indevida supressão de instância.
+Por outro lado, sabe-se que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (RHC 174.619/ES, Relator Ministro Sebastião Reis Júnior, 6ª Turma, j. em 11/04/2023, DJe 16/05/2023).
+O ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus comissi delicti", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do CPP" (AgRg no HC 716.740/BA, Relator Ministro Joel Ilan Paciornik, 5ª Turma, j. em 22/03/2022, DJe 07/04/2022).
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos:
+Para decretar a prisão preventiva a r. decisão de primeira instância, além de ressaltar a existência de prova da materialidade do delito e de indícios suficientes de autoria dos fatos pelo ora paciente, expôs (mov. 32.2 dos autos nº 0006178-79.2024.8.16.0170):
+"Na hipótese, vê-se da análise dos antecedentes criminais, que o autuado possui condenação transitada em julgado justamente pela prática do crime de tráfico de drogas (autos n.º 0005337-94.2018.8.16.0170).
+A reincidência, portanto, é específica.
+Registro, nesse ponto, que existe uma pletora de decisões oriundas do STJ e do STF afirmando, de modo claro, que a reincidência, para além de ser constitucional, pode e deve ser levada em consideração para fins de segregação cautelar do indivíduo, como garantia da ordem pública.
+(..)
+Há de se considerar, na hipótese, as particularidades do caso concreto, que evidenciam a gravidade da situação, uma vez que o autuado cometeu o delito enquanto purgava pena em regime aberto (o que pode, inclusive, ensejar o reconhecimento de falta grave na execução da pena).
+Vale relembrar que, embora a quantidade das substâncias entorpecentes apreendidas seja pequena, a natureza, o local e às condições em que a ação se desenvolveu apontam para o crime de tráfico de drogas. Desse modo, as circunstâncias em que os entorpecentes foram apreendidos - após a abordagem de usuário- comprador que apontou a identidade do vendedor -, bem como o fato de que já haviam denúncias dando conta do envolvimento do veículo Ford/Focus, pilotado pelo autuado, com a comercialização de entorpecentes, permitem, neste momento, concluir que o autuado não é mero usuário, especialmente porque foi flagrado entregando drogas para um terceiro.
+Ao que tudo indica, o autuado comercializava entorpecentes em detrimento da saúde alheia, sendo, pois, necessária sua segregação cautelar para assegurar a ordem pública e assim por fim a continuidade do tráfico de drogas por eles iniciado. (..)".
+Como se pode perceber, ao contrário do sustentado pelo impetrante, a r. decisão foi devidamente fundamentada na necessidade da prisão para a garantia da ordem pública em razão dos indicativos de reiteração delituosa, eis que o paciente foi preso em flagrante pela suposta prática do delito apurado no inquérito policial de origem enquanto cumpria pena por condenação anterior.
+Isso demonstra a existência de elementos indicativos da maior gravidade da conduta e é suficiente para autorizar a prisão cautelar.
+Ademais, salienta-se que a prisão com fundamento na reincidência é hipótese prevista no inciso II do artigo 313 do Código de Processo Penal e, exatamente porque o ora paciente já foi condenado por outros crimes dolosos, com sentenças transitadas em julgado, o seu envolvimento em novo crime é indicativo de risco à ordem pública.
+Assim, não pode ser acolhida a alegação de ausência dos requisitos dos artigos 312 e 313 do Código de Processo Penal, nem a de insuficiência de fundamentação da decisão proferida pelo MM. Juízo de origem.
+E, porque a prisão preventiva é para a garantia da ordem pública, não se mostra necessária possível a fixação de medidas cautelares alternativas, eis que nenhuma outra medida será eficaz no caso em exame.
+A análise realizada pelo Tribunal de origem encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto - paciente, reincidente específico e em cumprimento de pena no regime aberto, teria sido surpreendido praticando o comércio espúrio de drogas, em plena luz do dia e em praça pública -, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+Com efeito, em situações similares, a jurisprudência deste Superior Tribunal de Justiça tem se firmado no sentido de que "a periculosidade dos acusados, evidenciada pelas suas reiterações delitivas, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública" (AgRg no HC 888.639/SP, Relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª Turma, j. em 09/04/2024, DJe 18/04/2024).
+Justifica-se, então, a prisão preventiva fundada na garantia da ordem pública "quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC 771.822/SC, Relator Ministro Reynaldo Soares da Fonseca, 5ª Turma, j. em 13/12/2022, DJe 19/12/2022; e AgRg no HC 711.406/RS, Relator Ministro Antônio Saldanha Palheiro, 6ª Turma, j. em 02/08/2022, DJe 08/08/2022).
+Por fim, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC 844.095/PE, Relator Ministro Ribeiro Dantas, 5ª Turma, j. em 18/12/2023, DJe 20/12/2023).
+Pelo exposto, conheço em parte do habeas corpus e, na extensão, denego-lhe a ordem.
+É o voto.
