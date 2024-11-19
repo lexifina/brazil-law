@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Leandro Junio Brito contra decisão que não admitiu recurso especial, este, por sua vez, manejado com fundamento no art. 105, III, a, da Constituição Federal, desafiando o acórdão assim ementado (e-STJ, fl. 284):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença - Decisão de origem que deferiu a penhora no rosto dos autos, bem como sobre as cotas sociais do executado junto a três empresas - Irresignação do demandado - Embora a execução deva ser guiada pelo modo menos oneroso ao executado, há necessidade de sopesamento com os interesses do exequente - Hipótese em que, à luz dos princípios da celeridade e economia processual, não se mostram prematuras as penhoras deferidas - Irrazoável compelir o exequente a realizar novas pesquisas de bens e reiterar tentativas de bloqueio via Sisbajud se o próprio executado indicou expressamente não possuir outros bens penhoráveis - Possibilidade de penhora de cotas de sociedade unipessoal - Precedente desta C. Câmara - Penhora no rosto dos autos que por suas próprias características é baseada em expectativa futura, sendo limitada aos eventuais direitos do executado - Decisão mantida - RECURSO DESPROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 292-304), a parte recorrente apontou violação aos arts. 805 e 835 do CPC/2015, insurgindo-se contra a conclusão do acórdão recorrido, o qual manteve a penhora das cotas sociais de empresas que lhe pertencem.
+Sustentou que tal medida foi adotada sem que houvesse o prévio esgotamento de outros meios, revelando-se extremamente gravosa e desproporcional. Assim, aduziu a inobservância, pelo Tribunal de origem, do princípio da menor onerosidade ao executado e da ordem de preferência definida pela legislação processual civil.
+Sem contrarrazões (e-STJ, fl. 309).
+O processamento do apelo especial não foi admitido pela Corte local (e-STJ, fls. 310-311), levando a parte insurgente à interposição do presente agravo.
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O Tribunal de origem, ao dirimir a controvérsia, assim fundamentou (e-STJ, fls. 285-289):
+ ..
+Pois bem. A irresignação não comporta acolhimento.
+Embora, de fato, a execução deva ser guiada pelo modo menos oneroso ao executado, há necessidade de sopesamento com os interesses do exequente, que faz jus à prestação jurisdicional adequada e efetiva.
+Nesse contexto e com base nos princípios da celeridade e economia processual, mostra-se irrazoável compelir o demandante a realizar pesquisas de bens ou reiteradas tentativas de bloqueio via Sisbajud quando há manifestação expressa do próprio executado indicando sob as penas da lei que não possui bens penhoráveis (fls. 131/132 de origem).
+ ..
+Assim, caberia ao exequente que indicasse os meios menos onerosos e mais eficazes que deveriam ser constritos em substituição às cotas sociais (art. 805, pár. ún. do CPC), o que deixou de fazer.
+No mais, plenamente possível a penhora das cotas de empresa unipessoal, da qual o agravante seja detentor da totalidade das cotas, pois mencionada medida encontra amparo legal no art. 835, IX, do CPC. Não bastasse isso, a Lei nº 14.382/22 revogou o art. 980-A do CC (que disciplinava a empresa individual de responsabilidade limitada), ao passo que, nos termos do art. 41 da Lei nº 14.195/2021, "As empresas individuais de responsabilidade limitada existentes na data da entrada em vigor desta Lei serão transformadas em sociedades limitadas unipessoais independentemente de qualquer alteração em seu ato constitutivo.". Nesse ponto, à sociedade limitada unipessoal aplicam- se os artigos 1.026, 1.052 e 1.053 do CC, que fundamentam a penhora das cotas sociais.
+ ..
+Ademais, no que se refere ao deferimento de penhora no rosto dos autos, observo que é mesmo baseada na expectativa futura de recebimento de bem economicamente apreciável, segundo seu próprio conceito, o que não a impede ser realizada (art. 860 do CPC), devendo sempre ser limitada aos direitos pertencentes ao executado.
+Deve, portanto, ser mantida a r. decisão atacada.
+Forte nessas razões, meu voto nega provimento ao agravo de instrumento.
+Observa-se que o colegiado estadual, após análise dos atos processuais e do acervo fático-probatório constante nos autos, entendeu ser irrazoável compelir o exequente a adotar outras medidas executivas diversas na tentativa de ver satisfeito o seu crédito quando, de fato, há manifestação expressa do executado, ora recorrente, no sentido de não possuir bens penhoráveis.
+Asseverou também que caberia ao recorrente, ao alegar ser a medida adotada a mais gravosa, indicar os meios executivos menos onerosos e mais eficazes, sob pena de manutenção dos atos executivos já determinados, o que não ocorreu.
+Todavia, da análise das razões do recurso especial apresentado, constata-se que os fundamentos supracitados nem sequer foram tangenciados.
+Registre-se que não se conhece do recurso especial quando a decisão recorrida se assenta em mais de um fundamento autônomo e o reclamo não abrange todos eles, como na hipótese dos autos. Portanto, incide, por analogia, o óbice da Súmula n. 283/STF.
+Ilustrativamente (sem destaques no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE BENEFÍCIO. INDENIZAÇÃO DE HORAS TRABALHADAS. SUPLEMENTAÇÃO DE APOSENTADORIA. MATÉRIA REPETITIVA. JUÍZO DE CONFORMIDADE. DISTINGUISHING REALIZADO. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 211/STJ. LINDB. ÍNDOLE CONSTITUCIONAL.
+1. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+2. Na espécie a recorrente não impugnou o fundamento do acórdão recorrido que fez a distinção entre o presente caso concreto e aquele decidido no recurso especial repetitivo 1.312.736/RS, destacando que a verba em questão, denominada Indenização de Horas Trabalhadas (IHT), sempre integrou a remuneração do beneficiário, não se tratando, portanto, de uma parcela salarial reconhecida pela Justiça do Trabalho.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Constituição Federal de 1988, os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro foram alçados a status constitucional, motivo pelo qual esta Corte não pode apreciar eventual violação do referido preceito.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.020.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DAS COTAS SOCIAIS DO EXECUTADO JUNTO A EMPRESAS. SUSCITAÇÃO DO NÃO ESGOTAMENTO DE OUTROS MEIOS MENOS ONEROSOS PARA O DEVEDOR. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO, SUFICIENTE PARA SUA MANUTENÇÃO, NÃO IMPUGNADO NO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
