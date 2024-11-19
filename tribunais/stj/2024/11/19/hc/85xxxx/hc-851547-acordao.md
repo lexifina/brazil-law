@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, denegar a ordem.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E DIREITO PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. EXISTÊNCIA DE FUNDADAS SUSPEITAS. RÉU DIRIGIA EM ALTA VELOCIDADE E DE FORMA PERIGOSA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS DENEGADO.
+I. Caso em exame
+1. Habeas corpus visando ao reconhecimento de nulidade da condenação por tráfico de drogas, alegando ilicitude da prova obtida em busca pessoal e veicular sem fundada suspeita.
+II. Questão em discussão
+2. A questão em discussão consiste na legalidade da busca pessoal e veicular realizada sem mandado judicial, com base em fundada suspeita.
+III. Razões de decidir
+3. A busca pessoal e veicular é válida quando há fundada suspeita de posse de arma proibida ou objetos que constituam corpo de delito, conforme art. 244 do CPP.
+4. No caso, a abordagem foi justificada por atitude suspeita do réu, que dirigia em alta velocidade e de forma perigosa, configurando fundada suspeita.
+5. A jurisprudência desta Corte é pacífica ao exigir elementos objetivos para a configuração de fundada suspeita, não bastando impressões subjetivas.
+IV. HABEAS CORPUS DENEGADO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 53-54 (e-STJ):
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de AGNALDO BARBOSA GREGATTI TACHIKAWA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, na APELAÇÃO CRIMINAL nº 0063078-36.2022.8.16.0014.
+Consta nos autos que o paciente foi condenado às penas de 3 anos e 9 meses de reclusão, em regime inicial aberto, além do pagamento de 375 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/06.
+Irresignada, a defesa apelou, tendo a 3ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná, por unanimidade, dado parcial provimento ao recurso, nos termos do acórdão assim ementado (fl. 26):
+APELAÇÃO CRIME - TRÁFICO DE DROGAS - ART. 33, CAPUT, DA LEI Nº 11.343/06 - SENTENÇA CONDENATÓRIA - ALEGADA NU- LIDADE DAS PROVAS - ILEGALIDADE NA ATUAÇÃO DA EQUIPE POLICIAL - AFASTAMENTO - FUNDADAS RAZÕES PARA A BUSCA PESSOAL - VEÍCULO QUE ESTAVA EM ALTA VELOCIDADE, FAZENDO ULTRAPASSAGENS EM ZIGUE-ZAGUE - PRELIMINAR AFASTADA - MÉRITO - PEDIDO DE APLICAÇÃO DA FRAÇÃO MÁXIMA RELATIVA AO TRÁFICO PRIVILEGIADO - ALEGADA OCORRÊNCIA DE BIS IN IDEM - DESPROVIDO - QUANTIDADE DA DROGA QUE CONSTITUI FUNDAMENTAÇÃO IDÔNEA PARA MODULAR A FRAÇÃO DE DIMINUIÇÃO DE PENA NO TRÁFICO PRIVILEGIADO - POSSIBILIDADE DE UTILIZAR A NATUREZA DA DROGA NA PRIMEIRA FASE E A QUANTIDADE NA TERCEIRA FASE DOSIMÉTRICA - PRECEDENTES - PRETEN- DIDA RESTITUIÇÃO DO VEÍCULO - ACOLHIMENTO - OMISSÃO DO JUÍZO A QUO NA SENTENÇA EM RELAÇÃO À DESTINAÇÃO DO BEM - NECESSIDADE DE MANIFESTAÇÃO EXPRESSA QUE ENSEJA A OBRIGATORIEDADE DA DEVOLUÇÃO DO BEM - TEOR DO ART. 63 DA LEI Nº 11.343/2006 - SENTENÇA PARCIAL- MENTE REFORMADA - RECURSO CONHECIDO E PARCIAL- MENTE PROVIDO.
+Daí o presente writ, no qual o impetrante alega a ocorrência de constrangimento ilegal em razão da condenação baseada em provas decorrentes da busca pessoal/veicular ilegal, pois desamparada de fundadas suspeitas. Argumenta que "ao realizar a não somente a abordagem do paciente, como também a busca pessoal e a veicular sem diligência prévia e ou demonstração de fundadas suspeitas concretas, mas sim sob o pretexto de existência de elementos meramente subjetivos, agiram em desconformidade com o previsto no artigo 244 do CPP." (fl. 10).
+É a síntese do necessário.
+A defesa alega, em síntese, o emprego de meio de prova ilícito, decorrente de busca pessoal e veicular sem fundadas suspeitas, porquanto não houve qualquer diligência prévia à abordagem policial.
+Requer a concessão da ordem para obter a declaração de nulidade da prova impugnada.
+O parecer do MPF é pelo não conhecimento do habeas corpus, na forma da seguinte ementa (fl. 53):
+HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. BUSCA VEICULAR. DESNECESSIDADE DE MANDADO JUDICIAL. PODER DE POLÍCIA. EXISTÊNCIA DE "FUNDADA SUSPEITA" PARA LEGITIMAR A DILIGÊNCIA. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA. NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+EMENTA
+PENAL E DIREITO PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. EXISTÊNCIA DE FUNDADAS SUSPEITAS. RÉU DIRIGIA EM ALTA VELOCIDADE E DE FORMA PERIGOSA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS DENEGADO.
+I. Caso em exame
+1. Habeas corpus visando ao reconhecimento de nulidade da condenação por tráfico de drogas, alegando ilicitude da prova obtida em busca pessoal e veicular sem fundada suspeita.
+II. Questão em discussão
+2. A questão em discussão consiste na legalidade da busca pessoal e veicular realizada sem mandado judicial, com base em fundada suspeita.
+III. Razões de decidir
+3. A busca pessoal e veicular é válida quando há fundada suspeita de posse de arma proibida ou objetos que constituam corpo de delito, conforme art. 244 do CPP.
+4. No caso, a abordagem foi justificada por atitude suspeita do réu, que dirigia em alta velocidade e de forma perigosa, configurando fundada suspeita.
+5. A jurisprudência desta Corte é pacífica ao exigir elementos objetivos para a configuração de fundada suspeita, não bastando impressões subjetivas.
+IV. HABEAS CORPUS DENEGADO.
+VOTO
+A Constituição Federal elenca como uma das garantias dos indivíduos a inviolabilidade da intimidade e da vida privada (art. 5º, X, CF/1988). Essa garantia, no entanto, pode sofrer restrições em determinadas hipóteses, como, por exemplo, a realização da busca pessoal (BADARÓ, Gustavo. Processo penal  livro eletrônico . 9 ed., São Paulo: Thomson Reuters Brasil, 2023, p. 1.091).
+É assente na Quinta Turma deste Tribunal que "Ressalvadas as hipóteses em que o automóvel é utilizado para fins de habitação, equipara-se a busca veicular à busca pessoal, sem exigência de mandado judicial, sendo suficiente a presença de fundada suspeita de crime" ( AgRg no HC 913.154/CE, Relator Ministro Ribeiro Dantas, Quinta Turma, j. em 26/08/2024, DJe 30/08/2024).
+Por ausência de disposição constitucional e legal específica acerca do tema, aplica-se à busca veicular os mesmos ditames de garantia da busca pessoal. Ou seja: "Como é de conhecimento, nos termos do art. 240, §2º, e art. 244, ambos do CPP, a busca pessoal ou veicular será válida quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito." ( AgRg no HC 917.273/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, j. em 19/08/2024, DJe 22/08/2024).
+Nesse sentido, a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar: " N ão satisfazem a exigência legal, por si sós  para a realização de busca pessoal/veicular , meras informações de fonte não identificada (e. g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP" (RHC n. 158.580/BA, Relator Ministro Rogério Schietti Cruz, Sexta Turma, j. em 19/4/2022, DJe 25/4/2022) - grifos acrescidos.
+Por fim, cumpre ressaltar que o direito penal e o processo penal, enquanto instrumentos legais dotados de racionalidade, possuem como principal função, num Estado Democrático, a contenção do poder punitivo do Estado, pois a legitimidade deste poder está condicionada ao seu exercício controlado, à luz do arcabouço normativo (regras e princípios) de tais Diplomas. Nesse sentido, não é demais relembrar as lições de Luigi Ferrajoli, a partir de Ana Cláudia Pinho e Fernando da Silva Albuquerque:
+ ..  Ferrajoli demonstra que a tutela dos direitos fundamentais somente poderá ser efetivada a partir da minimização do exercício do poder, evitando-se o arbítrio (com a adoção de regras racionais de limitação e controle), e da maximização das garantias e liberdades individuais. Para tanto, propõe como critério metodológico o uso irrenunciável da razão nos sentidos epistemológico, axiológico e normativo  .. ". ALBUQUERQUE, Fernando da Silva; PINHO, Ana Cláudia Bastos. Precisamos falar cobre garantismo: limites e resistência ao poder de punir. Empório do direito, p. 38. "
+Esta Corte Superior, "por ocasião do julgamento do RHC n. 158.580/BA (rel. Min. Rogerio Schietti, 6ª T, DJe 25/4/2022), propôs criteriosa análise sobre a realização de buscas pessoais. Conforme o referido julgado, "o art. 244 do CPP não autoriza buscas pessoais praticadas como "rotina" ou "praxe" do policiamento ostensivo, com finalidade preventiva e motivação exploratória, mas apenas buscas pessoais com finalidade probatória e motivação correlata" (HC n. 852.356/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023).
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. AUSÊNCIA DE FUNDADA SUSPEITA. ILICITUDE DA PROVA. TRANCAMENTO DA AÇÃO PENAL DEVIDO. RECURSO NÃO PROVIDO.
+1. De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+2. No caso, não houve a indicação de qualquer atitude suspeita de estar o réu na posse de material objeto de ilícito ou na prática de algum crime. Logo, é ilegal a busca pessoal realizada sem fundadas razões, e, por conseguinte, toda a prova recolhida em consequência dessa medida arbitrária.
+3. Recurso não provido.
+(AgRg no HC n. 884.607/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+No caso, a Corte de origem tratou da temática da busca pessoal/ veicular com base nos seguintes argumentos (fls. 31-32-grifei):
+Pois bem.
+A respeito da busca pessoal, dispõe o art. 244 do Código de Processo Penal::
+ ..
+Como visto, em juízo, os policiais militares que efetuaram o flagrante foram uníssonos em afirmar que a equipe policial estava em patrulhamento quando avistou o veículo Honda CR- V, cor preta, conduzido pelo réu, em alta velocidade e dirigindo em "zigue-zague" por entre os outros veículos, fazendo uma série de ultrapassagens, razão pela qual procederam à abordagem.
+Durante a revista, os policiais localizaram um tablete de "crack" no porta-luvas do automóvel, além da quantia de R$708,00 (setecentos e oito reais) na carteira do ora recorrente.
+Por tais razões, conforme bem pontuado em sentença, o acusado estava trafegando de forma anômala, colocando em risco a segurança do trânsito e praticando infrações de trânsito, razão pela qual não houve ilegalidade na busca pessoal e prisão em flagrante realizada, tendo restado devidamente comprovado que os agentes agiram mediante fundadas razões.
+A análise realizada encontra-se em linha com a jurisprudência desta Corte acerca da validade da diligência, uma vez que o fato do paciente estar dirigindo em velocidade incompatível com a via eleita constitui standard probatório idôneo à realização de abordagem e busca pessoal/veicular, como ocorreu no presente caso.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NULIDADE. BUSCA VEICULAR E PESSOAL. FUNDADA SUSPEITA. FUGA EM ALTA VELOCIDADE. DESCLASSIFICAÇÃO. SÚMULA 7 DO STJ. DOSIMETRIA. MINORANTE. FRAÇÃO DE INCIDÊNCIA. QUANTIDADE DE ENTORPECENTES. AGRAVO DESPROVIDO.
+1. Nos termos do art. 240, §2º, e art. 244, ambos do CPP, a busca pessoal ou veicular será válida quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, como ocorreu na hipótese dos autos.
+2. No caso, os policiais receberam informações sobre o uso de um veículo para o transporte de drogas, e o seu condutor, ao perceber a presença deles, empreendeu fuga em alta velocidade, circunstâncias que justificam a abordagem, bem como a busca veicular e pessoal.
+3. No que tange ao pedido de desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, com amparo na prova oral, na quantidade das drogas, na variedade e forma de fracionamento, assim como na apreensão de dinheiro em espécie.
+4. Para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+5. A Terceira Seção, em decisão proferida nos autos do HC n. 725.534/SP, de minha relatoria, julgado em 27/4/2022, DJe 1º/6/2022, reafirmou seu posicionamento anterior, conforme estabelecido no ARE 666.334/AM, do Supremo Tribunal Federal, sobre a possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido consideradas na primeira fase do cálculo da pena.
+6. Agravo desprovido.
+(AgRg no REsp n. 2.100.083/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA VEICULAR. OFENSA AO ART. 157 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O habeas corpus foi liminarmente indeferido em virtude da constatação da interposição concomitante, mediante idênticos fundamentos, de recurso especial pela defesa contra o mesmo acórdão proferido pelo Tribunal de Justiça.
+2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+3. Mesmo que superado o óbice de processamento da ação, não prospera a alegação de flagrante ilegalidade. De acordo com o consignado pelas instâncias ordinárias, policiais militares receberam informações acerca da prática de tráfico de drogas, na modalidade de "tele-entregas", com a utilização de veículo do mesmo modelo daquele dirigido pelo agravante. Após avistarem automóvel com referidas características saindo em alta velocidade de uma residência procederam o acompanhamento e posterior abordagem do condutor, encontrando em seguida cerca de 330g de maconha, R$ 14.150,00 (quatorze mil cento e cinquenta reais) em espécie, embalagens zip lock e balanças de precisão.
+4. A fim de desconstituir as conclusões das instâncias ordinárias a respeito da dinâmica dos fatos que culminaram com a busca veicular, seria necessário aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 833.593/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/12/2023, DJe de 12/12/2023.)
+Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória em sede de habeas corpus.
+Pelo exposto, denego a ordem de habeas corpus pleiteada.
+É o voto.
