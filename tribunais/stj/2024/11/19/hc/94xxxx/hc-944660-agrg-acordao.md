@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/11/2024 a 19/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. SONEGAÇÃO FISCAL. DOSIMETRIA. SEGUNDA FASE. REINCIDÊNCIA. ALEGAÇÃO DE CONDENAÇÃO ATINGIDA PELO PERÍODO DEPURADOR. MATÉRIA NÃO ANALISADA NA CORTE ESTADUAL. SUPRESSÃO DE INTÂNCIA. FRAÇÃO DE 1/3. EXISTÊNCIA DE DUAS CONDENAÇÕES. POSSIBILIDADE. REGIME INICIAL SEMIABERTO. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se indeferiu liminarmente a inicial da impetração, quando não evidenciado constrangimento ilegal manifesto, capaz de justificar a superação do óbice decorrente da utilização do writ como substitutivo de recurso próprio, para revisar a condenação imposta e mantida pelas instâncias ordinárias. Precedente.
+2. Hipótese em que não foi demonstrado constrangimento ilegal, pois a alegação recursal utilização de condenação atingida pelo período depurador para configurar reincidência nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+3. A existência de duas condenações anteriores, justifica a utilização da fração 1/3 para o agravamento da pena. Precedente.
+4. Mantida a reprimenda corpórea em patamar superior a 4 anos de reclusão, correta a fixação do regime inicial semiaberto (art. 33, § 2º, do CP).
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 830.643/2024), tempestivo, interposto por Jucelio Rocha de Lima contra a decisão, da lavra deste Relator (fls. 124/125), em que indeferi liminarmente a inicial, a seguir ementada:
+PENAL. PEDIDO DE RECONSIDERAÇÃO EM HABEAS CORPUS NÃO CONHECIDO. SONEGAÇÃO FISCAL. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. DOSIMETRIA E REGIME. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Decisão reconsiderada. Inicial indeferida liminarmente.
+Sustenta o agravante, inicialmente, a possibilidade de utilização do writ como substitutivo de revisão criminal  aduzindo que a supressão de instância é um requisito importante para o trânsito ou não de processos perante as Cortes Superiores, todavia, no caso em questão, o feito tem uma decisão da autoridade coatora e comporta até mesmo eventual relativização, em razão da manifesta ilegalidade aqui debatida (fl. 134)  e, no mérito, ratifica os argumentos da impetração, pretendendo a revisão da dosimetria, com o afastamento da agravante da reincidência, ao argumento de que foi aplicada a agravante da reincidência na fração de 1/3 por condenações anteriores com lapso temporal superior a 8 (oito) anos (fl. 138).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. SONEGAÇÃO FISCAL. DOSIMETRIA. SEGUNDA FASE. REINCIDÊNCIA. ALEGAÇÃO DE CONDENAÇÃO ATINGIDA PELO PERÍODO DEPURADOR. MATÉRIA NÃO ANALISADA NA CORTE ESTADUAL. SUPRESSÃO DE INTÂNCIA. FRAÇÃO DE 1/3. EXISTÊNCIA DE DUAS CONDENAÇÕES. POSSIBILIDADE. REGIME INICIAL SEMIABERTO. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se indeferiu liminarmente a inicial da impetração, quando não evidenciado constrangimento ilegal manifesto, capaz de justificar a superação do óbice decorrente da utilização do writ como substitutivo de recurso próprio, para revisar a condenação imposta e mantida pelas instâncias ordinárias. Precedente.
+2. Hipótese em que não foi demonstrado constrangimento ilegal, pois a alegação recursal utilização de condenação atingida pelo período depurador para configurar reincidência nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+3. A existência de duas condenações anteriores, justifica a utilização da fração 1/3 para o agravamento da pena. Precedente.
+4. Mantida a reprimenda corpórea em patamar superior a 4 anos de reclusão, correta a fixação do regime inicial semiaberto (art. 33, § 2º, do CP).
+5. Agravo regimental improvido.
+VOTO
+A decisão repreendida  que indeferiu liminarmente a impetração, mantendo a condenação do agravante por sonegação fiscal a 4 anos, 10 meses e 1 dia de reclusão, e 21 dias-multa, proferida na Ação Penal n. 0006436-84.2019.8.15.0011 (da 4ª Vara Criminal da comarca de Campina Grande/PB), retificada em grau de apelação (fls. 51/63)  não comporta reparos.
+Primeiro, por se tratar de utilização indevida da via eleita como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Ademais, porque não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) quanto à ocorrência do período depurador para configuração da reincidência, tem-se que a alegação nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado  não tendo sido conhecido nos embargos declaratórios opostos, ao fundamento de ser inovação recursal: a tese sobre o período depurador dessas condenações passadas não foi veiculada inicialmente pela defesa do embargante (fl. 29)  , o que configuraria prestação jurisdicional em indevida supressão de instância;
+b) a existência de duas condenações anteriores  o requerente ostenta duas condenações anteriores, conforme ressaltado pelo magistrado de primeiro grau e pelo Tribunal, o que autoriza o incremento na pena em uma fração de (um terço) dela (fl. 115)  justifica a utilização da fração de agravamento da pena (AgRg no HC n. 791.590/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/2/2023); e
+c) mantida a reprimenda corpórea (4 anos, 10 meses e 1 dia de reclusão), correta a fixação do regime inicial semiaberto (art. 33, § 2º, do CP).
+Em razão disso, nego provimento ao presente agravo regimental.
