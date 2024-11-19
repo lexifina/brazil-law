@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto pelo autor contra a decisão que não admitiu o seu recurso especial, apresentado em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA c/c REPETIÇÃO DO INDÉBITO. PEDIDO DE RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE TARIFAS BANCÁRIAS DECLARADAS ILEGAIS. CONTRATO DE LEASING (ARRENDAMENTO MERCANTIL). CAPITALIZAÇÃO DE JUROS. JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE COBRANÇA NESSA ESPÉCIE DE CONTRATO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO. - "O contrato de arrendamento mercantil não se confunde com os típicos contratos de financiamento, preservando as suas particularidades, dentre elas, aquela que se refere ao fato de não contemplar os juros remuneratórios. Exatamente por não haver a incidência de juros remuneratórios, por decorrência lógica, não há se cogitar de capitalização desses".
+Os embargos de declaração opostos a esse acórdão não foram providos.
+No recurso especial, alega-se que o acórdão recorrido contrariou:
+1) os artigos 489 e 1.022 da Lei 13.105/2015 (Código de Processo Civil - CPC/2015) porque deixou de sanar os vícios apontados nos embargos de declaração;
+2) os artigos 374, 389, 391 e 489 do CPC/2015 porque, tendo a ré (instituição financeira) confessado a cobrança de juros remuneratórios no contrato de arrendamento mercantil, recusou-se a reconhecer a pactuação de tais juros.
+Inicialmente, observo que o Tribunal de origem, para repelir o pleito de recebimento de juros remuneratórios incidentes sobre tarifas (declaradas indevidas em título judicial transitado em julgado), fundamentou, seguindo a linha de entendimento plasmada na sentença, que em contrato de leasing não se pode falar em cobrança de juros remuneratórios. Leia-se:
+Todavia, o presente processo foi extinto sem resolução de mérito, sob o fundamento de que:
+"não havendo estipulação de taxa de juros remuneratórios nos contratos de arrendamento mercantil, mas sim previsão de uma contraprestação fixa para vigorar durante toda a vigência do contrato, não há que se falar em cobrança de devolução dos juros remuneratórios incidentes sobre as tarifas excluídas.".
+Analisando os autos, observa-se que o contrato estabelecido entre as partes foi de Arrendamento Mercantil, não possuindo, portanto, nenhuma cláusula prevendo a cobrança de juros capitalizados e remuneratórios (Id. 6299509).
+O contrato de "Leasing" - Arrendamento Mercantil constitui modalidade que não envolve financiamento, mas mero arrendamento, com opção de compra ao final do prazo fixado contratualmente, não podendo se falar em pagamento de juros remuneratórios e capitalizados, uma vez que não existe previsão para essa cobrança.
+Dessa forma, as prestações pagas pelo arrendatário, ao longo do contrato, representam tão somente o valor referente a locação do bem e ao parcelamento do Valor Residual Garantido (VRG), acrescidos de encargos administrativos.
+Coadunando com tal entendimento vejamos o que disse o magistrado a quo na sentença:
+"No arrendamento mercantil há a locação de um bem, com a possibilidade de compra ao final do pacto, pagando o arrendatário mensalmente um valor a título de aluguel, acrescida, eventualmente, de parte do preço estimado para a aquisição (VRG). Assim, nesse tipo de contrato, não há cobrança de juros remuneratórios, pois não há o empréstimo de capital, de modo que, por questão óbvia, não se pode falar em incidência de juros remuneratórios sobre as tarifas.
+ ..
+Por oportuno e pertinente, não é demais lembrar que segundo a Súmula nº 293, do STJ - "A cobrança antecipada do valor residual garantido (VRG) não descaracteriza o contrato de arrendamento mercantil".
+Portanto, não havendo estipulação de taxa de juros remuneratórios nos contratos de arrendamento mercantil, mas sim previsão de uma contraprestação fixa para vigorar durante toda a vigência do contrato, não há que se falar em cobrança de devolução dos juros remuneratórios incidentes sobre as tarifas excluídas."
+A jurisprudência do Superior Tribunal de Justiça (STJ), no aspecto, é diversa. Vejam-se:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. EXISTÊNCIA. EFEITOS INFRINGENTES. ACOLHIMENTO. AGRAVO REGIMENTAL. INCIDÊNCIA DE ÓBICES PROCESSUAIS. AFASTAMENTO. RECURSO ESPECIAL. CONTRATO DE ARRENDAMENTO MERCANTIL. JULGAMENTO EXTRA PETITA. TAXA DE JUROS REMUNERATÓRIOS. AUSÊNCIA DE PREVISÃO CONTRATUAL. TAXA MÉDIA DE MERCADO. PRECEDENTES. REVISÃO DE MATÉRIA FÁTICA E CONTRATUAL. CAPITALIZAÇÃO DE JUROS. PERIODICIDADE. COBRANÇA ANTECIPADA DO VALOR RESIDUAL DE GARANTIA. NÃO DESCARACTERIZAÇÃO DO LEASING. COMPENSAÇÃO DE VALORES. POSSIBILIDADE. ENUNCIADOS 5, 7, 281, 293 DA SÚMULA DO STJ.
+1. "Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas" (Enunciado 381 da Súmula do STJ).
+2. Ausente no contrato o percentual dos juros remuneratórios, circunstância fática e contratual alheia à instância especial, a jurisprudência do STJ firmou seu posicionamento no sentido de que prevalece a taxa média de mercado (2ª Seção, REsp 1.112.880/PR, Rel. Ministra Nancy Andrighi, DJe de 19.5.2010).
+3. A capitalização mensal de juros somente é permitida em contratos bancários celebrados posteriormente à edição da MP 1.963-17/2000, de 31/3/2000, e desde que expressamente pactuada.
+4. "A cobrança antecipada do valor residual garantido (VRG) não descaracteriza o contrato de arrendamento mercantil" (Enunciado 293 da Súmula do STJ).
+5. A cobrança a maior importa na restituição dos valores, podendo operar-se por intermédio da compensação com o débito remanescente.
+6. Embargos de declaração acolhidos para permitir o julgamento do agravo regimental, com o consequente provimento parcial do recurso especial em parte conhecido.
+(EDcl no AgRg no REsp n. 681.439/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/8/2012, DJe de 15/8/2012.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE ARRENDAMENTO MERCANTIL. EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO DE JUROS. PREVISÃO NO CONTRATO. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, deve ser afastada a alegada violação ao art. 535 do Código de Processo Civil de 1973.
+2. Demanda indevido reexame do conteúdo fático e contratual dos autos, com óbice processual nos enunciados 5 e 7 da Súmula do STJ, reverter as conclusões da Corte estadual, que identificou a cláusula prevendo juros remuneratórios e a capitalização dos juros no contrato celebrado entre as partes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 833.362/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/6/2016, DJe de 15/6/2016.)
+Verifico, ademais, que o contrato em discussão nos autos contém cláusula prevendo cobrança de juros remuneratórios (ainda que para o período de inadimplência), nestes termos (e-STJ fl. 24):
+10 - Mora
+10.1 - Na hipótese de inadimplemento ou mora, até a data em que ocorra o efetivo pagamento, o Arrendador cobrará, sobre a totalidade, dos débitos em atraso, juros de mora de 1% (um) por cento ao mês ou fração, mais juros remuneratórios às taxas de mercado vigentes divulgadas pela Central de Atendimento do Banco e multa de 2% (dois) por cento sobre o valor corrigido.
+Nesse quadro, evidencia-se que a fundamentação do acórdão recorrido colide com a realidade do processo, pois desconsidera a existência de previsão contratual de cobrança de juros remuneratórios. Além disso, ela destoa da jurisprudência do STJ, que admite a possibilidade de cobrança de juros remuneratórios em contrato de leasing. Impõe-se, assim, o retorno dos autos à Corte de origem para que prossiga no julgamento da apelação, como entender de direito.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para determinar ao Tribunal de origem prosseguir no julgamento da apelação, conforme indicado n a fundamentação desta decisão.
+Quanto ao mais, fica prejudicado o recurso especial.
+Intimem-se.
+EMENTA
