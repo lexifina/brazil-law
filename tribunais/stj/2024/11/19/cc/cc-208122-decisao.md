@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo de Direito da 2ª Vara Criminal de São José dos Campos/SP, tendo por suscitado o Juízo Auditor da 1ª Auditoria da Justiça Militar do Estado de São Paulo.
+Autuado procedimento inquisitivo a fim de apurar suposta prática do delito de lesão corporal praticada por policial militar, o juízo suscitado declinou de sua competência aduzindo as seguintes razões: "a denúncia trata de fato que ocorreu quando o policial militar estava fora do serviço, no interior do condomínio onde reside, quando ocorreram os fatos. A questão que se desdobrou em agressões, esses fatos se constituem em crime comum" (e-STJ Fl.248)
+O juízo suscitante, a seu turno, afirma que "os fatos se deram quando o réu, embora retomando para sua casa após seu turno laborai, estava devidamente fardado. A abordagem contra o civil se iniciou em via pública e se prolongou para, o interior do condomínio." (e-STJ Fl.252)
+O Ministério Público Federal promove a competência do juízo suscitado (e-STJ Fl.272-277).
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A competência criminal da Justiça Militar Estadual possui natureza absoluta, encontrando previsão constitucional no art. 125, §§ 4º e 5º da CRFB/88, "verbis":
+Art. 125. Os Estados organizarão sua Justiça, observados os princípios estabelecidos nesta Constituição.
+(..)
+§ 4º Compete à Justiça Militar estadual processar e julgar os militares dos Estados, nos crimes militares definidos em lei e as ações judiciais contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças.
+§ 5º Compete aos juízes de direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares.
+No presente feito, o cerne da controvérsia diz respeito à definição da competência para apurar suposta prática do delito de lesões corporais, praticado por policial militar estadual em desfavor de civil.
+Nestas hipóteses, o art. 9º, II, do Código Penal Militar (Decreto- Lei n. 1001/1969), com a reduação dada pela Lei n. 13.491/2017, passou a atribuir à competência da justiça especializada, na alínea "c", os crimes previstos no Código Penal Militar com igual descrição na lei penal comum, praticados por militar atuando em razão da função, ainda que fora do lugar sujeito à administração militar contra civil.
+Diante disso, a competência do STJ tem sido uníssona no sentido de que "Diante da constatação de que o denunciado se anunciou como policial militar no momento em que efetuou a abordagem e, portanto, atuava em razão da função, revela-se irrelevante que estivesse de folga, em trajes civis e usando armamento particular quando ocorreu o fato delituoso, pois sua conduta se amolda, em tese, à descrita na alínea "c" do inciso II do art. 9º do Código Penal Militar. " (CC n. 152.341/MG, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 22/11/2017, DJe de 30/11/2017.)
+Com efeito, estando o agente fardado e tendo se utilizado da arma da corporação como elemento de intimidação, o fato de sua jornada ter terminado não afasta a competência da justiça castrense diante do novo panorama legal.
+Há, portanto, de se reconhecer, na hipótese, a competência da Justiça Militar Estadual.
+Ante o exposto, CONHEÇO do conflito para DECLARAR a competência do Juízo Auditor da 1ª Auditoria da Justiça Militar do Estado de São Paulo, o Suscitado, para processar e decidir a Ação Penal n. 0800750-52.2023.9.26.0010 .
+Publique-se. Intimem-se.
+EMENTA
