@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ADRIANO SILVÉRIO DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente foi preso em flagrante em 17/9/2024, pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, sendo-lhe concedida a liberdade provisória, com medidas cautelares alternativas à prisão.
+Em sequência, foi ajuizada medida cautelar inominada com pedido liminar pelo Ministério Público para atribuição de efeito suspensivo ativo a recurso em sentido estrito contra a decisão que concedeu liberdade provisória ao paciente, a qual foi deferida, com expedição do mandado de prisão (fls. 23-28).
+A defesa argumenta que a decisão do relator do RESE, que decretou a prisão preventiva, não se justifica, uma vez que o paciente não representa risco à ordem pública e já foi beneficiado com a liberdade provisória anteriormente.
+Invoca os arts. 312 e 316 do Código de Processo Penal, sustentando que não estão presentes os requisitos legais para a manutenção da prisão preventiva.
+Defende a ausência de indícios de autoria e materialidade, bem como sustenta que a quantidade de entorpecentes apreendida poderia se enquadrar na conduta prevista no art. 28 da Lei n. 11.343/2006, hipótese em que não se impõe a restrição da liberdade.
+Requer, em liminar, a concessão da ordem para revogar a medida que decretou a prisão preventiva do paciente.
+É o relatório.
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Ao deferir a ação cautelar inominada para atribuir efeito suspensivo ao recurso em sentido estrito, o Tribunal de Justiça restabeleceu a prisão preventiva do paciente pelos seguintes fundamentos (fl. 27, grifei):
+No caso em tela, respeitada a convicção do culto Magistrado a quo, faz-se presente a situação de urgência e excepcionalidade que impede se aguarde o regular processamento e julgamento do recurso ministerial destinado à reforma da r. decisão.
+Ao que consta, Adriano vinha sendo investigado por tráfico de entorpecentes. Foi filmado em pleno ato de adquirir, em dinheiro, mais de um quilo de maconha. Em seu poder foram apreendidos, ainda, balança de precisão e três celulares.
+A grande quantidade do entorpecente, adquirido em dinheiro, bem como a presença de balança de precisão e de vários celulares, indicam a prática do tráfico com habitualidade, em escala considerável, tudo indicando que o requerido, em liberdade, tornará a delinquir.
+Assim, a prisão preventiva se faz necessária, como único meio de impedir novas práticas criminosas, sendo insuficientes a tanto quaisquer medidas cautelares diversas.
+Por isso, sem prejuízo de melhor avaliação quando do julgamento do recurso em sentido estrito, atribui-se a esse reclamo efeito ativo, decretando-se a prisão preventiva do interessado.
+3. Isto posto, pelo meu voto, confirmada a tutela antecipada, defere-se a medida cautelar, a fim de atribuir-se efeito ativo ao recurso em sentido estrito no. 0000525-93.2024.8.26.0275, decretando-se a prisão preventiva de ADRIANO SILVÉRIO DOS SANTOS.
+A leitura do acórdão revela que a custódia cautelar foi decretada em virtude da quantidade de droga apreendida, tratando-se, no caso, de aproximadamente 1 kg de maconha (fl. 29).
+Nesse contexto, ao examinar as circunstâncias do caso, constata-se que o delito não envolveu o uso de violência ou grave ameaça, o paciente é réu primário e a quantidade de droga apreendida, embora não se possa considerar ínfima, tampouco revela-se exorbitante, sobretudo se considerada sua natureza menos deletéria que a de outros entorpecentes .
+Por essas razões, a manutenção da prisão preventiva não se mostra proporcional. Conforme a jurisprudência desta Corte Superior, a apreensão de quantidade irrelevante de drogas, apenas com especial justificativa, permitiria a prisão por risco social, o que não se verifica no caso dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS ILÍCITAS. INIDONEIDADE DO REPUTADO PERICULUM LIBERTATIS. RECURSO DO MP/RS NÃO PROVIDO.
+1. Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, o juízo de primeira instância concluiu que a prisão preventiva do ora agravado seria imprescindível para garantir a ordem pública, diante de sua prisão em flagrante após suposta venda de 8g de maconha, considerando que condenação transitada em julgado pelo mesmo crime de tráfico de drogas ilícitas constituiria indício de contumácia delitiva.
+2. A fundamentação da custódia processual alicerçada na simples aparência do delito é evidentemente nula, ao passo que os indícios de risco à ordem pública apresentados no caso destes autos não podem ser considerados adequados e suficientes.
+3. Com efeito, o registro de condenação anterior se refere ao mesmo crime não violento, sendo que nesta oportunidade a conduta teria envolvido quantidade ínfima de tóxicos proscritos (8g de maconha), sem apreensão de arma de fogo e sem registro de que o investigado integrasse organização criminosa.
+4. No caso em tela, ao considerar que a gravidade abstrata do tráfico de drogas ilícitas e a existência de condenação anterior impediriam o ora agravado de responder a eventual ação penal em liberdade, as instâncias ordinárias parecem haver se divorciado da orientação constante em incontáveis precedentes desta Corte, para os quais a prisão cautelar é invariavelmente excepcional, subordinando-se à demonstração de sua criteriosa imprescindibilidade, à luz dos fatos concretos da causa, e não em relação à percepção do julgador a respeito da gravidade abstrata do tipo penal.
+5. De fato, o aparente cometimento do delito, por si só, não evidencia "periculosidade" exacerbada do agente ou "abalo da ordem pública", a demandar a sua segregação antes de qualquer condenação definitiva.
+6. Também vale reforçar que determinadas quantidades de tóxicos ilegais, ainda que não possam ser consideradas insignificantes, não autorizam, isoladamente, a conclusão de que o réu apresenta periculum libertatis.
+ ..
+9. Assim, apesar dos argumentos apresentados pelo órgão ministerial, não há elementos que justifiquem a reconsideração do decisum.
+10. Agravo regimental do MP/RS não provido.
+(AgRg no HC n. 879.114/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CUSTÓDIA PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MEDIDA DESPROPORCIONAL. QUANTIDADE DE DROGA QUE NÃO FOGE AO PADRÃO. ADEQUAÇÃO E SUFICIÊNCIA DE MEDIDAS CAUTELARES MENOS GRAVOSAS. PRECEDENTES.
+1. De acordo com as peculiaridades do caso concreto, que diz respeito apenas à quantidade de entorpecente (2.491,37 g de maconha), a manutenção da prisão cautelar é desproporcional, pois se trata de quantidade que, apesar de não ser insignificante, não foge ao padrão do tráfico de drogas, e, ainda, o réu, ao que parece, é primário, e não há menção ao fato de ele integrar organização criminosa.
+2. Não se pode perder de vista que as condições pessoais favoráveis do agente, no caso, primário e sem antecedentes criminais, "conquanto não sejam garantidoras de eventual direito à soltura, merecem ser devidamente valoradas, quando não for demonstrada a real indispensabilidade da medida constritiva" (RHC n. 108.638/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 20/5/2019), o que deixou de ser sopesado pelas instâncias antecedentes (AgRg no RHC n. 162.506/PA, Ministro Messod Azulay Neto, Quinta Turma, DJe 2/3/2023).
+3. Agravo regimental improvido.
+(AgRg no HC n. 797.689/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/5/2023, DJe de 16/5/2023, grifei.)
+Assim, suficiente mostra-se o restabelecimento da decisão de primeiro grau em que concedida ao paciente a liberdade provisória cumulada com medidas cautelares diversas da prisão.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, concedo o habeas corpus para revogar a prisão preventiva decretada em desfavor do paciente, salvo se por outro motivo estiver preso, mediante a prévia assunção do compromisso de cumprir as medidas cautelares fixadas pelo juízo de primeiro grau, sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada.
+Comunique-se, com urgência, às instâncias ordinárias.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
