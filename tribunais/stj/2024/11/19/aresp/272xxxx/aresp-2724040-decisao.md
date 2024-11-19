@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação de lei federal e de demonstração do dissídio pretoriano (e-STJ fls. 5.217/5.219) .
+O acórdão recorrido está assim ementado (e-STJ fls. 1.955/1.956):
+AGRAVO DE INSTRUMENTO RECUPERAÇÃO JUDICIAL - Pretensão à reserva de valores para saldar créditos trabalhistas não habilitados, porém sujeitos à recuperação judicial Tutela antecipada recursal parcialmente deferida ao determinar o processamento do agravo Legitimidade da agravante presente na condição de tomadora de serviços, responsabilizada nos termos do Enunciado 331 TST Questões não esclarecidas, em especial, a noticiada omissão no QGC pela recuperanda, não averiguada a contento pelo administrador judicial Superveniente publicação do QGC, homologação e prolação da sentença de encerramento da recuperação judicial Preliminares de não conhecimento rejeitadas Relevantes argumentos devolvidos acerca dos acumulados prejuízos aos credores trabalhistas Reforço ao entendimento do Julgador acerca da necessidade de impedir a desmoralização do instituto da recuperação judicial A habilitação é providência que cabe ao credor, mas não pode ser imposta a ele Ausente vedação ao prosseguimento da execução após o término da r ecuperação Mantida a reserva deferida pagamento dos créditos preferenciais sujeitos ao concurso Preliminares rejeitadas Agravo parcialmente provido com determinação quanto à expedição de ofício à E. Justiça do Trabalho para disponibilização dos valores reservados aos credores trabalhistas concursais omitidos pelas recuperandas.
+EMBARGOS DE DECLARAÇÃO Decisão que autorizou o processamento de agravo de instrumento e deferiu a antecipação dos efeitos da tutela recursal postulada Declaração pretendida diante da alegada impossibilidade de cumprir a determinação sem comprometer o adimplemento dos créditos conforme destinação aprovada em AGC Vício não constatado Fundamentos insuficientes ao afastamento do efeito excepcional deferido Inconformismo das embargantes, ademais, recorrível por meio de agravo interno (CPC/2015, art. 1021) Omissão ausente Embargos rejeitados.
+Dispositivo: Rejeitam as preliminares, dão parcial provimento ao agravo de instrumento, com determinação e rejeitam os embargos de declaração.
+Os embargos de declaração foram rejeitados (e-STJ fls. 4.985/4.955).
+No recurso especial (e-STJ fls. 415/428), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta violação dos arts. 141, 489, § 1º, IV, 492, 1.022, I, II, do CPC/2015.
+Suscita que o Tribunal de origem teria deixado de apreciar matérias imprescindíveis ao deslinde da controvérsia, relativamente à alegação de decisão extra ou ultra petita.
+Argui que o acórdão proferido pelo Tribunal a quo teria ultrapassado os limites do pedido.
+Alega, ainda, ofensa ao art. 47 da Lei n. 11.101/2005.
+Sustenta que "só a reserva de valores pretendida pela Recorrida para fim que, como visto, sequer será devidamente atendido, como a sua transferência para outros Juízos, é o mesmo que tolher o direito de as Recorrentes cumprirem com as obrigações assumidas não só no Plano de Recuperação Judicial homologado pelo MM. Juízo a quo, como com a destinação do produto obtido com a venda de ativos expressamente autoriza da pelos credores reunidos em Assembleia Geral de Credores realizada em 10/11/2016, o que, claramente, está desalinhado com o princípio da preservação da empresa" (e-STJ fl. 5.013).
+Foram apresentadas contrarrazões (e-STJ fls. 5.154/5.173).
+No agravo (e-STJ fls. 5.222/5.245), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 5.253/5.270).
+Juízo negativo de retratação (e-STJ fl. 5.273).
+Nesta Corte, o Ministério Público Federal se manifestou pelo não provimento do agravo em recurso especial.
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Não há falar em ofensa aos arts. 489, 1.022 do CPC/2015, quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como no caso em comento.
+O fato de a parte não concordar com a conclusão do acórdão recorrido não configura nenhum dos vícios previstos nos referidos dispositivos processuais.
+Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que a fundamentação tenha sido suficiente para dirimir a controvérsia.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 1.965/1.967):
+ ..  De outro lado, não se pode olvidar os relevantes argumentos devolvidos pela recorrente acerca dos acumulados prejuízos aos credores trabalhistas.
+O contexto apresentado reforça o entendimento deste Magistrado acerca da necessidade de impedir a desmoralização do instituto da recuperação judicial, uma vez que os efeitos para a sociedade são nefastos.
+Sob a errônea e ultrapassada ideia de que a recuperação judicial tem por objetivo a preservação da empresa, indistintamente, "algumas distorções acabaram por ecoar no interesse dos credores e, de relanço, na própria segurança jurídica aspirada pela legislação especial" (Recuperação Judicial: panorama de 14 anos da jurisprudência do STJ. Revista do Advogado, n. 141, abril de 2019, p. 26).
+Diante de tudo o que restou processado, persistem as razões que motivaram o deferimento da antecipação da tutela recursal, razão pela qual são ratificadas, pois ausente o trânsito em julgado da r. decisão de encerramento.
+Não há, portanto, que se atender à pretensão de não conhecimento formulada pelas recuperandas.
+ ..  Ao contrário do que defende a recuperanda, todos os instrumentos colacionados aos autos trazem a exigência de respeito à legislação trabalhista pelas recuperandas, na qualidade de prestadora de serviços.
+Há expressa indicação acerca do dever de saldar tais réditos alimentares por natureza, sempre de forma a permitir a exclusão da tomadora (cláusula quarta - das responsabilidades da contratada). Portanto, não litigam de boa-fé as recuperandas ao suscitarem a solidariedade, pois sabidamente decorrem de lei ou do contrato.
+As demandas trabalhistas noticiadas nestes autos indicam que as recuperandas, desde o ajuizamento da recuperação judicial, furtam-se ao cumprimento de obrigações mínimas de seus trabalhadores, como saldos salariais, horas extraordinárias, férias, recolhimentos fiscais, previdenciários e fundiários.
+Na Justiça Especializada, por meio do Enunciado n. 331 do E. Tribunal Superior do Trabalho, o direcionamento das reclamatórias às Tomadoras de Serviço é uma alternativa ao prejuízo experimentado pelos trabalhadores. Porém, não significa que as empresas originalmente responsáveis pelo contrato de trabalho devem esquivar-se de suas responsabilidades perante os credores e sociedade.
+Os créditos estão constituídos por sentença e não são desconhecidos pelas recuperandas.
+Portanto, ante o notório interesse da agravante em razão do direcionamento das demandas para si, não há que se revogar a reserva determinada, mesmo diante da decisão de encerramento.
+Sabe-se que havendo crédito ilíquido, a ação deve prosseguir no Juízo trabalhista até a apuração do respectivo valor (art. 6º, § 2º, Lei 11.101/2005). Porém, se o crédito já foi apurado, pode ser habilitado na recuperação judicial.
+Ocorre que a habilitação é providência que cabe ao credor, mas não pode ser imposta a ele. Inexiste vedação ao prosseguimento da execução após o término da recuperação. E, assim sendo, uma vez deferida a reserva para os créditos preferenciais sujeitos ao concurso, não haveria razão para liberá-los a favor das devedoras.
+Justamente para preservar o recebimento do crédito ilíquido que o § 3º do art. 6º da Lei n. 11.101/2005 dispõe que "o juiz competente para as ações referidas nos §§ 1 o e 2 o deste artigo poderá determinar a reserva da importância que estimar devida na recuperação judicial ou na falência, e, uma vez reconhecido líquido o direito, será o crédito incluído na classe própria".
+Melhor alternativa diante do atual estado do processo é a transferência desses valores às E. Varas do Trabalho a fim de que deliberem sobre o rateio entre os credores sujeitos ao concurso recuperacional e não habilitados por inércia da recuperanda.
+Nesse contexto, para rever os fundamentos do acórdão impugnado e sopesar as razões recursais seria indispensável o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial. Assim, inafa stável a Súmula 7 do STJ, aplicável também ao dissídio jurisprudencial.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
