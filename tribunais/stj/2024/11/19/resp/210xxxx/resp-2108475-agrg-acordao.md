@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. dosimetria da pena. pequena quantidade de drogas. pena-base no mínimo legal. RECONHECIMENTO DO Tráfico privilegiado. aplicação de fração máxi ma. regime aberto. súmula vinculante n. 59. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que redimensionou a pena-base para 5 anos de reclusão, aplicou o redutor de pena na fração de 2/3, resultando a pena em 1 ano e 8 meses de reclusão, em regime aberto, e substituiu a pena privativa de liberdade por duas restritivas de direito.
+2. O Parquet sustenta que a quantidade de drogas encontradas é expressiva, suficiente para afastar a minorante do tráfico privilegiado na fração máxima e alega dedicação do agravado a atividades criminosas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a quantidade de drogas apreendidas e a suposta dedicação do agravado a atividades criminosas justificam a não aplicação da minorante do tráfico privilegiado na fração máxima e a alteração da pena basilar.
+III. Razões de decidir
+4. A pequena quantidade de droga apreendida, consistente em 128,0g de maconha e 0,22g de cocaína, e a ausência de elementos concretos que indiquem a dedicação à atividade criminosa autorizam a fixação da minorante do tráfico privilegiado em seu grau máximo.
+5. A jurisprudência desta Corte Superior considera que a quantidade e a natureza das drogas, quando não expressivas, não justificam a exasperação da pena-base.
+6. O regime inicial deve ser o aberto, conforme a Súmula Vinculante n. 59 do STF, devido ao reconhecimento do tráfico privilegiado e à fixação da pena-base no mínimo legal.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A pequena quantidade de droga e a ausência de elementos concretos de dedicação à atividade criminosa autorizam a aplicação da minorante do tráfico privilegiado em seu grau máximo. "2. A jurisprudência desta Corte Superior considera que a quantidade e a natureza das drogas, quando não expressivas, não justificam a exasperação da pena-base." "3. O regime inicial deve ser o aberto quando reconhecida a figura do tráfico privileg iado e fixada a pena-base no mínimo legal."
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; Código Penal, art. 33, § 2º, alínea c; Código Penal, art. 44.
+Jurisprudência relevante citada: AgRg no AREsp n. 2.063.668/SP, Rel. Min. Olindo Menezes, Sexta Turma, DJe 13/5/2022; AgRg no AREsp n. 2.391.762/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/9/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL - MPF em face de decisão de minha relatoria (fls. 388/398), em que conheci do recurso especial e, com fundamento na Súmula n. 568 do STJ, dei-lhe provimento para redimensionar a pena-base para 5 anos de reclusão e, com fundamento nos arts. 647-A e 654, § 2º, ambos do CPP, e concedi a ordem de habeas corpus de ofício, para aplicar o redutor de pena na fração de 2/3, resultando a pena em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa, fixando o regime aberto e substituindo a pena privativa de liberdade por duas restritivas de direito, a serem impostas pelo Juízo da Execução.
+No presente agravo regimental, o Parquet sustenta que a quantidade de drogas encontradas com o ora agravado é expressiva, sendo suficiente para afastar a minorante do tráfico privilegiado na fração máxima.
+Alega que há prova cabal de que o agravado se dedica a atividades de traficância e outras práticas criminosas.
+Aduz que tanto o acréscimo da pena-base quanto a manutenção da causa especial de diminuição de pena (art. 33, §4º, da Lei n. 11.343/2006) no mínimo legal foram devidamente justificados.
+Requer a reconsideração ou o julgamento pela Quinta Turma, para que seja dado provimento ao agravo regimental e provimento ao recurso especial.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. dosimetria da pena. pequena quantidade de drogas. pena-base no mínimo legal. RECONHECIMENTO DO Tráfico privilegiado. aplicação de fração máxi ma. regime aberto. súmula vinculante n. 59. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que redimensionou a pena-base para 5 anos de reclusão, aplicou o redutor de pena na fração de 2/3, resultando a pena em 1 ano e 8 meses de reclusão, em regime aberto, e substituiu a pena privativa de liberdade por duas restritivas de direito.
+2. O Parquet sustenta que a quantidade de drogas encontradas é expressiva, suficiente para afastar a minorante do tráfico privilegiado na fração máxima e alega dedicação do agravado a atividades criminosas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a quantidade de drogas apreendidas e a suposta dedicação do agravado a atividades criminosas justificam a não aplicação da minorante do tráfico privilegiado na fração máxima e a alteração da pena basilar.
+III. Razões de decidir
+4. A pequena quantidade de droga apreendida, consistente em 128,0g de maconha e 0,22g de cocaína, e a ausência de elementos concretos que indiquem a dedicação à atividade criminosa autorizam a fixação da minorante do tráfico privilegiado em seu grau máximo.
+5. A jurisprudência desta Corte Superior considera que a quantidade e a natureza das drogas, quando não expressivas, não justificam a exasperação da pena-base.
+6. O regime inicial deve ser o aberto, conforme a Súmula Vinculante n. 59 do STF, devido ao reconhecimento do tráfico privilegiado e à fixação da pena-base no mínimo legal.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A pequena quantidade de droga e a ausência de elementos concretos de dedicação à atividade criminosa autorizam a aplicação da minorante do tráfico privilegiado em seu grau máximo. "2. A jurisprudência desta Corte Superior considera que a quantidade e a natureza das drogas, quando não expressivas, não justificam a exasperação da pena-base." "3. O regime inicial deve ser o aberto quando reconhecida a figura do tráfico privileg iado e fixada a pena-base no mínimo legal."
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; Código Penal, art. 33, § 2º, alínea c; Código Penal, art. 44.
+Jurisprudência relevante citada: AgRg no AREsp n. 2.063.668/SP, Rel. Min. Olindo Menezes, Sexta Turma, DJe 13/5/2022; AgRg no AREsp n. 2.391.762/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/9/2023.
+VOTO
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, razão pela qual mantenho a decisão agravada por seus próprios fundamento.
+Conforme consignado, a pequena quantidade da droga apreendida, consistente em 128,0g de maconha e 0,22g de cocaína, bem como a ausência de elementos concretos que indiquem a dedicação do recorrente à atividade criminosa, autoriza a fixação da minorante do tráfico privilegiado em seu grau máximo (2/3).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MINISTERIAL. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIA JUDICIAL. NATUREZA DA DROGA. PEQUENA QUANTIDADE. FUNDAMENTO INIDÔNEO . PRECEDENTES DE AMBAS AS TURMAS DA TERCEIRA SEÇÃO. DECISÃO MONOCRÁTICA MANTIDA.
+Deve ser mantido o decisum monocrático recorrido, pois, nos termos da moderna jurisprudência desta eg. Corte Superior " ..  Não obstante a natureza das drogas apreendidas (cocaína e crack), a quantidade de 39g cocaína, dividida em 33 porções, e 18g de crack, na forma de 64 pedras, não se mostra relevante, somada à ausência de circunstâncias adicionais desfavoráveis, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, entre outras, não justificando, portanto, a negativa da minorante do tráfico privilegiado" (AgRg no AREsp n. 2.063.668/SP, Sexta Turma, Rel. Min. Olindo Menezes - Desembargador Convocado do TRF 1ª Região, DJe de 13/5/2022).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.465.871/MS, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 15/12/2023.)
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. HABEAS CORPUS. PENA-BASE. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA A EXASPERAÇÃO. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO PARA REDUZIR A PENA-BASE DO ACUSADO. EXTENSÃO DOS EFEITOS PARA OS CORRÉUS (ART. 580 DO CPP).
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Em relação à exasperação da pena-base, verifica-se a ocorrência de flagrante ilegalidade, sendo necessária a concessão de ofício de habeas corpus.
+3. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+4. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+5. No presente caso, a quantidade total dos entorpecentes apreendidos (33 pedras de crack pesando 9g e 4 porções de maconha pesando 14,1g), apesar da natureza altamente deletéria de um deles (crack), não justifica a majoração da pena-base, por não extrapolar o tipo penal, devendo ser afastado tal fundamento.
+6. Agravo regimental não conhecido. Habeas corpus concedido para reduzir a pena-base do agravante ao mínimo legal. Aplicado o artigo 580 do CPP, para determinar a extensão da presente decisão para os corréus.
+(AgRg no AREsp n. 2.391.762/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 18/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO DO MPF. NÃO CONHECIMENTO PELO TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA. AGRAVADO NÃO RECORREU DA SENTENÇA. TRÂNSITO EM JULGADO NÃO VERIFICADO. MATÉRIA APRESENTADA AO TRIBUNAL DE ORIGEM PELA CORRÉ. POSSIBILIDADE DE CORREÇÃO DE OFÍCIO. MAJORAÇÃO DA PENA-BASE. PEQUENA QUANTIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, não há de se falar em supressão de instância, mediante alegação de trânsito em julgado da sentença condenatória em face do agravado, pois esta não se encontra certificada nos autos. Ademais, a Defesa da corré interpôs recurso de apelação, no qual questionou a utilização do vetor da qualidade das drogas na primeira etapa. Assim, considerando que esta circunstância foi utilizada de forma idêntica para ambos os réus, foi possível o conhecimento da irresignação do ora agravado.
+2. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+3. Embora a espécie da droga constitua elemento idôneo para exasperar a sanção básica (4,6g de cocaína e 10,7g de crack), o quantum apreendido não é suficiente para denotar maior reprovabilidade na conduta do agente.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.069.336/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA. QUANTIDADE E NATUREZA DA DROGA. NÃO EXPRESSIVIDADE. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Embora a quantidade e a natureza da substância entorpecente constituam circunstâncias preponderantes a serem consideradas na dosimetria da pena - a teor do que estabelecido no art. 42 da Lei n. 11.343/2006 - e não obstante a cocaína seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o agravante não foi tão elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base" (AgRg no AREsp n. 1867011/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/9/2021, DJe 30/9/2021).
+2. Agravo regimental desprovido.
+(AgRg no HC n. 862.252/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 14/3/2024.)
+Quanto ao regime, tendo em vista o reconhecimento da redutora do tráfico privilegiado, a fixação da pena-base no mínimo legal e a quantidade de pena de 1 ano e 8 meses de reclusão, o regime inicial deve ser o aberto, nos termos da Súmula Vinculante n. 59 do STF, a qual dispõe "É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado e ausentes vetores negativos na primeira fase da dosimetria, observados os requisitos do art. 33, § 2º, alínea c e do art. 44, ambos do Código Penal".
+Confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. INCIDÊNCIA DO ART. 33, §4º, DA LEI Nº 11.343/06. REGIME ABERTO E SUBSTITUIÇÃO. SÚMULA VINCULANTE Nº 59. ANPP. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE. RECEBIMENTO DA DENÚNCIA. PRECLUSÃO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. No que se refere ao regime de cumprimento de pena, a Súmula Vinculante nº 59/STF dispõe que é impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/06) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP), observados os requisitos do art. 33, § 2º, alínea c, e do art. 44, ambos do Código Penal. Assim, fixada a pena-base no mínimo legal e reconhecido ao recorrente o benefício do tráfico privilegiado, necessária a fixação do regime regime aberto e a substituição da pena privativa de liberdade por duas penas restritivas de direito a serem fixadas pelo Juízo das execuções.
+2. O Superior Tribunal de Justiça possui entendimento segundo o qual a possibilidade de aplicação retroativa do instituto previsto no art. 28-A do Código de Processo Penal, inserido pela Lei n. 13.964/2019, é restrita aos processos em curso até o recebimento da denúncia, situação não verificada na espécie (ut, AgRg no REsp n. 2.021.432/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 15/12/2023.). Tal posição está alinhada ao entendimento fixado pela Primeira Turma do STF.
+3. Agravo parcialmente provido.
+(AgRg nos EDcl no AREsp n. 2.418.802/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
