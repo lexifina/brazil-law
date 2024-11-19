@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCIO LUIS RAMPIN e JULIANA PEVERARI RAMPIN contra decisão que inadmitiu recurso especial com fundamento na ausência de violação do dispositivo legal indicado e na incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1000358-09.2020.8.26.0531) assim ementado (fl. 337):
+EMENTA - USUCAPIÃO EXTRAORDINÁRIO - Autores que buscam o reconhecimento da prescrição aquisitiva relativa ao imóvel que ocupam, segundo a inicial, há mais de 20 anos - Carência da ação decretada - Posse advinda de enfiteuse e que, por conta disso, não se reveste de animus domini - Inviável o reconhecimento da prescrição aquisitiva - Precedentes, inclusive desta Câmara, envolvendo demandas situadas na mesma área - Sentença mantida - Recurso desprovido.
+Nas razões do recurso especial (fls. 345-357), a parte recorrente aponta violação dos arts. 1.013 e 1.238 do Código Civil, bem como dissídio jurisprudencial.
+Em relação ao art. 1.013 do CC, alega que o Tribunal a quo não se manifestou sobre a enfiteuse e, "se não houve fundamentação, em sentença, a respeito da enfiteuse, evidentemente o recurso de Apelação interposto não devolveu referida matéria ao Tribunal a quo" (fl. 352).
+Reforça a ocorrência de decisão surpresa, visto que houve desrespeito ao alcance objetivo do recurso de apelação, porquanto colacionados à solução da lide elementos estranhos ao tema debatido na irresignação.
+Conclui acerca desse tema pela "violação ao art. 1.013 do Código de Processo Civil, haja vista a extrapolação dos limites da matéria recorrida, implica, invariavelmente, em violação ao contraditório, já que os recorrentes não tiveram oportunidade processual adequada de debater a questão referente à enfiteuse, o que evidentemente lhes causou prejuízo" (fl. 354).
+No tocante ao art. 1.238 do CC, destaca que se mostram preenchidos os pressupostos legais à usucapião extraordinária, ao contrário do que foi decidido pelo Tribunal a quo.
+Discorre que a alegada enfiteuse não teria o condão de rechaçar a usucapião, pois foi resgatada em 23/1/2001, há mais de 23, não obstaculizando, portanto, o cumprimento do lapso temporal exigido à prescrição aquisitiva do bem imóvel.
+Requer o provimento do recurso para que seja declarada a nulidade do acórdão recorrido, devolvendo-se a matéria para novo exame pelo Tribunal de origem. Subsidiariamente, busca a reforma do acórdão para reconhecer preenchidos os requisitos do art. 1.238 do CC.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+O Juízo de primeiro gr au, na sentença da ação de usucapião extraordinária (fls. 302-303), com esteio no conjunto probatório dos autos, extinguiu o processo sem julgamento de mérito, ao considerar que a existência de pendências relacionadas ao imóvel impediria o exame da pretensão deduzida.
+Veja-se a fundamentação desenvolvida pelo magistrado (fls. 302-303) :
+O processo deve ser extinto, sem resolução do mérito.
+Pesam sobre o imóvel usucapiendo questões registrais que merecem ser resolvidas no plano extrajudicial para que os autos possam promover demanda declaratória de domínio.
+Tais questões estão descritas na manifestação do Oficial de Registro de Imóveis da Comarca de Santa Adélia (fls. 203/204).
+Neste sentido:
+"USUCAPIÃO. Imóvel objeto de doação e herança. Inadmissibilidade, Necessária regularização pelas vias administrativas. A posse exercida pelo autor, nas condições que a exerceu, caracteriza- se como uma simples detenção, fruto de liberalidade e da tolerância dos demais condôminos, sem, destarte, o animus domini exigido em lei" (TJSP - Apelação no. 0001115-28.2012.8.26.0037 - rel. Des. Teixeira Leite - julgado em 26.02.2014).
+Destarte, evidente, por ora e enquanto não resolvidas as pendências registrais do imóvel usucapiendo, a ausência de interesse processual.
+Diante do exposto, EXTINGO O PROCESSO, SEM RESOLUÇÃO DO MÉRITO, com fundamento no art. 485, inciso VI, do Novo Código de Processo Civil.
+Inter posta apelação, o Tribunal a quo, ao negar provimento ao recurso, destacou, com base no contexto fático-probatório colacionado aos autos, que não há que se cogitar da usucapião extraordinária, em razão do fato de a posse advir de enfiteuse, o que afasta o animus domini sobre o imóvel, conforme se observa do seguinte excerto do decisum impugnado (fls. 336-342, destaquei):
+De início, recebo o apelo interposto, no duplo efeito, na forma do artigo 1.012, "caput", do CPC, passando ao seu julgamento, conforme autoriza o inciso II do artigo 1.011 do mesmo Estatuto.
+ ..
+Quanto ao mais e em que pesem os reclamos dos apelantes, reputo correta a r. sentença recorrida ao julgar extinta, sem exame do mérito, a ação de usucapião por eles ajuizada. Fê-lo, especialmente, à luz da prova documental trazida com a inicial, indicativa de que sobre a posse exercida junto ao imóvel usucapiendo recaía enfiteuse, conforme ofício do Cartório de Registro de Imóveis (fls. 203 e seguintes), dele também se extraindo a informação de que se cuida de terreno foreiro ao Patrimônio da Fábrica Matriz de São João da Ariranha, atualmente pertencente à Diocese de Catanduva.
+Disso se depreende que se cuida de exercício de posse sem "animus domini".
+E, como é sabido, a ausência de posse "ad usucapionem" (ou segundo alguns doutrinadores, posse imprópria), não gera prescrição aquisitiva, diante de sua precariedade, ausente por conta disso o "animus domini".
+ ..
+De rigor, portanto, a manutenção da r. sentença recorrida por seus bem lançados fundamentos.
+Nesse viés, alterar a solução dada pela origem à lide para afastar o não reconhecimento da usucapião extraordinária implicaria d ilação probatória, medida obstada nesta via especial.
+Nesse sentido, a orientação jurisprudencial do STJ:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PRODUÇÃO DE PROVA PERICIAL. PRINCÍPIO DO LIVRE CONVENCIMENTO DO MAGISTRADO. REINTEGRAÇÃO DE POSSE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil quando a prestação jurisdicional foi dada na medida da pretensão deduzida, Na hipótese, o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. É entendimento assente nesta Corte Superior de Justiça que compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências cuja realização pretendem as partes, segundo as normas processuais, e afastar o pedido de produção de provas se forem inúteis ou meramente protelatórias, ou, ainda, se já tiver ele firmado sua convicção, nos termos dos arts. 370 e 371 do Código de Processo Civil (arts. 130 e 131 do CPC/1973).
+3. A Corte de origem concluiu que a parte não logrou êxito em comprovar o alegado esbulho que lhe conferiria o direito à reintegração da posse do imóvel, objeto da lide. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ ("a pretensão de simples reexame de prova não enseja recurso especial").
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.124.767/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/6/2024, DJe de 26/6/2024, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+3. Consoante asseverado pelo Tribunal de origem, o magistrado pode proceder à correção do valor da causa, como o fez, todavia, a impugnação pela parte deveria ter ocorrido no momento oportuno, de modo que se operou a preclusão quanto à matéria. Incidência da Súmula 83/STJ.
+4. No caso, para acolher a tese recursal no sentido de se afastar o esbulho reconhecido pelo Tribunal de origem, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai a Súmula 7 do STJ.
+5. Agravo interno provido para reconsiderar a decisão de fls. 869-871, e-STJ. Agravo em recurso especial conhecido para, de plano, não conhecer do apelo extremo. (AgInt no AREsp n. 2.281.877/R O, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023, destaquei.)
+Aplica-se ao caso, pois, a Súmula n. 7 do STJ.
+Ante o exposto, nego provimento a o agravo em recurso espec ial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
