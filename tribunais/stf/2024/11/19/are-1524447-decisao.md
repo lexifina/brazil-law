@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Estado de Santa Catarina, em face do acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. ICMS. CISÃO PARCIAL DE EMPRESAS. PRETENSÃO DE TRANSFERÊNCIA DE SALDO CREDOR DE ICMS A COMPENSAR PERTENCENTE AO PATRIMÔNIO DE EMPRESA CINDIDA PARA A EMPRESA CINDENDA. POSSIBILIDADE. SUCESSÃO EM DIREITOS E OBRIGAÇÕES RELACIONADOS NO ATO DA CISÃO. APURAÇÃO E TRANSFERÊNCIA DO SALDO CREDOR QUE DEVERÁ SER POSTULADA EM PROCEDIMENTO ESPECÍFICO NA ESFERA ADMINISTRATIVA. SENTENÇA CONCESSIVA DA ORDEM MANTIDA. RECURSOS E REMESSA NECESSSÁRIA DESPROVIDOS.”
+
+    Na minuta sustenta-se violação dos arts. 100 e 155, § 2º, I e II, da Constituição da República. Argumenta-se, em síntese, violação ao tema 1262/STF e burla ao princípio da não cumulatividade.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    A matéria constitucional versada no art. 100 da Lei Maior não foi analisada pelas instâncias ordinárias, porquanto, embora mencionada nos embargos de declaração opostos para satisfazer o requisito do prequestionamento, não foi oportunamente levada ao conhecimento da Corte a quo quando do manejo do recurso que ensejou a interposição do apelo extremo. Sobre a questão, a jurisprudência desta Corte entende que os embargos de declaração inovatórios não suprem o requisito do prequestionamento, inexistente omissão, obscuridade ou contradição a sanar. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 282 e 356/STF: “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012 e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 07.11.2011, cuja ementa transcrevo:
+
+    “RECURSO EXTRAORDINÁRIO prequestionamento CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.”
+
+    Noutro giro, a revisão das premissas adotadas pelo Tribunal de origem demandaria o exame da moldura fática delineada, bem como da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ICMS. TRANSFERÊNCIA DE CRÉDITO A TERCEIRO. LIMITES AO APROVEITAMENTO. OFENSA REFLEXA. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional local (Súmulas 279 e 280 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1335856 AgR, Relator(a): LUIZ FUX (Presidente), Tribunal Pleno, julgado em 27-09-2021, PROCESSO ELETRÔNICO DJe-201 DIVULG 07-10-2021 PUBLIC 08-10-2021)
+
+    “Agravo regimental no recurso extraordinário com agravo. Princípios da ampla defesa e do contraditório. Tema 660. Questão infraconstitucional. Ausência de repercussão geral. Direito Tributário. ICMS. Não cumulatividade. Transferências de créditos entre estabelecimentos de mesma titularidade. Fatos e provas. Reexame. Impossibilidade. Matéria de direito local. Ofensa reflexa. Precedentes. 1. A afronta aos princípios do contraditório, da ampla defesa e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF), bem como a análise da legislação local (Súmula nº 280/STF). 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1246717 AgR, Relator(a): DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 22-05-2020, PROCESSO ELETRÔNICO DJe-162 DIVULG 26-06-2020 PUBLIC 29-06-2020)
+
+    Por seu turno, o caso dos autos trata do “registro e transferência de saldo credor de ICMS da parcela de patrimônio cindido da Free Trade para a Impetrante, no âmbito fiscal, em decorrência da transferência já ocorrida no âmbito societário”, matéria diversa daquela tratada no Tema 1262 da repercussão geral, no qual se debate acerca da “Possibilidade de restituição administrativa do indébito reconhecido na via judicial por mandado de segurança“. Ademais, não há, no acórdão recorrido, qualquer determinação para restituição administrativa do indébito reconhecido na via judicial, razão pela qual, ausente identidade, não há que se falar em aplicação do Tema 1262.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 19 de novembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
