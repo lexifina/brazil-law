@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/11/2024 a 19/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - ARTIGO 66, DO CPC - REQUISITOS DO INCIDENTE - AUSÊNCIA DE DECISÕES CONFLITANTES - DELIBERAÇÃO UNIPESSOAL QUE NÃO CONHECEU DO CONFLITO - INSURGÊNCIA DA AGRAVANTE.
+1. Nos termos do art. 66 do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias. Inexistência de tais requisitos na hipótese dos autos.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno interposto por MARIA JOSÉ FARINACCI DE FREITAS contra decisão, da lavra deste signatário, acostada às fls. 522/524, que não conheceu do incidente em epígrafe em razão da ausência dos requisitos previstos no art. 66, do CPC.
+Em síntese, o conflito foi manejado pela ora insurgente tendo como suscitados o r. juízo da 1ª Vara Cível de Valinhos/SP (processo n.º 0001688-27.1999.8.26.0650) e o r. juízo da 13ª Vara do Trabalho de São Paulo/SP (reclamação trabalhista n.º 0275200-82.1998.5.02.0013 e carta precatória n.º 0123000-55.2008.5.15.0053)
+Argumentou, em síntese, que "(..) A Renegociação das cédulas de custeio agrícola contrato credicomp 778-1 00426981-7, no valor de R$ 1.140.000,00, venceu na data de 01.08.97,e os tomadores de empréstimos abandonaram a atividade agrícola e a propriedade rural matricula 35.634 objeto desta demanda, recaindo a obrigação das cédulas rurais pignoratícias aos garantidores em 1998, ora Suscitante, que primeiramente requisitou administrativamente em cumprimento a Lei 9138/95 junto ao banco Itaú o pedido de alongamento rural que foi negado e a Suscitante ingressou com o processo judicial junto ao Juiz da 1ª Vara Cível da Comarca de Valinhos processo 0001688-27.1999.8.26.0650, apresentando a garantia hipotecária crédito rural -imóvel matricula 35.634 junto ao 1º Cartório de Registro de Imóveis de Campinas/SP e a necessidade dos do deferimento do alongamento rural."
+Contudo, segundo alegou, "(..) surgiu a ação trabalhista de dívidas dos tomadores de empréstimos posterior a dívida rural que antes de perseguir bens dos tomadores querem a qualquer custo tomar esta propriedade rural para satisfazer a dívida trabalhista, propriedade esta que os tomadores abandonaram em 1998 por dívidas de crédito rural ficando a encargo da Suscitante que no processo estadual obteve judicialmente o direito ao alongamento rural das 56 cédulas pignoratícias rurais."
+Nesse contexto, aduziu a existência de conflito porquanto, em sua argumentação, ambos os juízes suscitados impuseram multas em face da suscitante de modo que, segundo afirmou, "(..) não assinou o contrato de alongamento rural, não assinou diante da insegurança jurídica da ação trabalhista que quer retirar a propriedade da Suscitante por dívidas de natureza trabalhista contraída pelos tomadores de empréstimos posteriores as cédulas pignoratícias rurais e toda vez que a Suscitante informa o Juiz Trabalhista do crédito rural o Juiz Trabalhista aplica multa a Suscitante."
+Requereu, assim, o conhecimento do presente incidente declarando-se a competência do r. juízo estadual.
+Às fls. 522/524, este signatário não conheceu do incidente em epígrafe.
+Nas razões do apelo recursal, a insurgente repisa os fundamentos da exordial. Adiciona a presença dos elementos do conflito positivo de competência. Requer, finalmente, a declaração de competência do r. juízo estadual. (fls. 528/538)
+Sem impugnação. (fl. 544)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - ARTIGO 66, DO CPC - REQUISITOS DO INCIDENTE - AUSÊNCIA DE DECISÕES CONFLITANTES - DELIBERAÇÃO UNIPESSOAL QUE NÃO CONHECEU DO CONFLITO - INSURGÊNCIA DA AGRAVANTE.
+1. Nos termos do art. 66 do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias. Inexistência de tais requisitos na hipótese dos autos.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A insurgência não merece prosperar.
+1. Consoante destacado na oportunidade do exame unipessoal, nos termos do art. 66 do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias. O parágrafo único do referido dispositivo legal em epígrafe determina ainda que "o juiz que não acolher a competência declinada deverá suscitar o conflito, salvo se a atribuir a outro juízo."
+Com efeito, somente se instaura o conflito de competência quando 2 (dois) juízos se declaram competentes ou incompetentes para processamento/julgamento de uma mesma demanda ou quando, por regra de conexão, houver controvérsia entre eles acerca da reunião ou separação dos processos (ut. AgInt nos EDcl no CC 164.461/TO, Rel. Min. Moura Ribeiro, DJe de 7/5/2020; Agint no CC 182.943/AM, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 05/11/2021).
+A corroborar a referida assertiva, destacam-se os seguintes estudos doutrinários: Teoria geral do processo: comentários ao CPC 2015: parte geral. Gajardoni, Fernando da Fonseca. Rio de Janeiro/RJ. Método. pag. 255; Nery Junior, Nelson. Código de Processo Civil comentado. São Paulo/SP. RT, 2019, p. 274/275, dentre outros.
+E essas circunstâncias, requisitos para manejo do conflito de competência, não se encontram presentes na hipótese.
+Isso porque, segundo o caderno processual, ambos os juízos indicados como suscitados, proferiram decisões no mesmo sentido, ou seja, acerca do objeto da controvérsia subjacente ao conflito ora em liça, aplicaram multas em face da ora suscitante/agravante, não havendo se falar, portanto, em conflito de competência, a teor do art. 66, do CPC, supracitado .
+Vale ressaltar, por oportuno, que o conflito de competência não constitui sucedâneo recursal (ut. AgInt no CC 192372/RS, Rel. Min. Antonio Carlos Ferreira, Dje de 28/9/2023; AgInt no CC 188030/AM, Rel. Min. Marco Aurélio Bellizze, Dje de 20/04/2023), de modo que a insurgente poderá, se assim o desejar, impugnar, por meio de instrumento jurídico próprio, as deliberações exaradas pelos r. juízos suscitados.
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
