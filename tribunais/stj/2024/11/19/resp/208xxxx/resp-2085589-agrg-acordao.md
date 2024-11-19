@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/11/2024 a 19/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. REVOLVIMENTO DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente.
+2. Nos autos em exame, as instâncias ordinárias concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas. Assim, para entender-se pela desclassificação da conduta do réu, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível em recurso especial, a teor do que estabelecido na Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MAGNO PEREIRA DOS SANTOS interpõe agravo regimental contra decisão de minha relatoria, em que conheci do agravo para não conhecer do recurso especial, a fim de preservar sua condenação por tráfico de drogas.
+Nas razões do regimental, a defesa reitera a ausência de provas que comprovem a materialidade do delito de tráfico de entorpecentes.
+Pleiteia, assim, a reconsideração da decisão anteriormente proferida. Subsidiariamente, pugna pelo encaminhamento deste agravo para julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. REVOLVIMENTO DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente.
+2. Nos autos em exame, as instâncias ordinárias concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas. Assim, para entender-se pela desclassificação da conduta do réu, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível em recurso especial, a teor do que estabelecido na Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator) :
+Não obstante as razões defensivas, mantenho a decisão impugnada.
+O Tribunal de origem corroborou o entendimento firmado pelo Juízo singular de que ficou devidamente caracterizado o tráfico de drogas com base nos seguintes argumentos (fls. 248-250):
+Requer o apelante a desclassificação do crime de tráfico de drogas para o delito previsto no art. 28 da Lei de Drogas.
+Todavia, não merece guarida tal alegação.
+Inicialmente, convém destacar, por oportuno, que, a Lei nº 11.343/2006 faz distinção entre traficante e usuário. O primeiro visa entregar a droga ao consumo de terceiros, enquanto o segundo a detém para o seu próprio uso.
+A doutrina brasileira adota critérios para identificar/distinguir o tráfico do consumo, a exemplo do §2º do art. 28 da mencionada lei, podendo o magistrado analisar a natureza da substância apreendida, a quantidade, o local, as circunstâncias sociais e pessoais, a conduta e os antecedentes do agente.
+In casu, não há lugar para a desclassificação requerida, pois tudo converge no sentido de ter o mesmo cometido o crime previsto no artigo 33 da Lei 11.343/2006 (guardar substância entorpecente), ou seja, a mercancia do entorpecente de que detinha a posse.
+Cumpre também consignar, que deve-se levar em consideração, a materialidade e a autoria delitiva, que restaram suficientemente demonstradas nos autos, através do Auto de Apresentação de Objeto que atesta que foram apreendidos, na residência do apelante, 48 (quarenta e oito) invólucros confeccionados em plástico transparente, fechados como linha preta, contendo substância esbranquiçada, além da quantia de R$ 50 (cinquenta reais) em cédulas trocadas, sendo duas notas de R$ 5,00 (cinco reais), três notas de R$ 10,00 (dez reais) e cinco notas de R$ 2,00 (dois reais). Além disso, o Laudo Toxicológico Definitivo atestou que a substância apreendida com o apelante se tratava do entorpecente conhecido como "cocaína".
+Ainda, há, nos autos, os depoimentos dos policiais que realizaram as diligências, Wilton e Marcos Adriano, que relataram detalhes da operação que culminou na prisão em flagrante do apelante, confirmando que a droga apreendida estava embalada em "petecas", pronta para a comercialização. Logo, estes são considerados válidos, como o de qualquer outra pessoa, gozando, ainda, de boa-fé (enquanto não provado o contrário) quanto às ações provenientes do exercício de suas atividades laborais.
+Assim, vejo que o fato de o réu afirmar que é usuário de droga, não é causa suficiente para excluir a caracterização do tráfico, pois como cediço, corriqueiramente, os usuários passam a traficar para sustentar seus próprios vícios, o que não deixa de configurar o delito, não havendo, portanto, como realizar a desclassificação do ilícito para o de uso.
+Conveniente esclarecer, que a alegada condição de usuário, a qual não foi provada, não desqualifica o crime de tráfico de entorpecente que lhes é imputado, pois tal conduta não é incompatível com a traficância.
+Outrossim, em nenhum instante o acusado foi surpreendido fazendo uso do material tóxico, ou encontrado algum material, que evidenciasse o uso da substância química. Logo, demonstrado que o réu transportava a droga e não tendo ele feito qualquer prova da condição de usuário, nem desconstituído as provas existentes em seu desfavor, sendo este um ônus exclusivo da Defesa, impõe-se a manutenção da sentença condenatória proferida, nesse ponto.
+ ..
+Ademais, a doutrina brasileira adota critérios para identificar/distinguir o tráfico do consumo, a exemplo do §2º do art. 28 da mencionada lei, podendo o magistrado analisar a natureza da substância apreendida, a quantidade, o local, as circunstâncias sociais e pessoais, a conduta e os antecedentes do agente.
+Desta forma, não há que se falar em desclassificação do crime de tráfico de drogas para o crime de uso, não merecendo a r. sentença a quo qualquer reparo por parte desta Corte de Justiça neste ponto.
+Pelo trecho anteriormente transcrito e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão recorrido, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Por essas razões, mostra-se inviável a desclassificação da conduta imputada ao réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Ademais, esclareço que, para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente - até porque o próprio tipo penal aduz "ainda que gratuitamente" -, bastando, portanto, que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância, tal como ocorreu no caso.
+Por fim, esclareço que, para entender-se pela desclassificação da conduta para o delito descrito no a rt. 28 da Lei n. 11.343/2006, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível em recurso especial, a teor do que estabelecido na Súmula n. 7 do STJ.
+À vista do exposto, nego provimento ao agravo regimental.
