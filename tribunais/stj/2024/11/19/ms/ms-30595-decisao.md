@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado por SERGIO EDUARDO URT ALMEIDA DE MORAES contra ato que atribui ao MINISTRO DA EDUCAÇÃO, ao FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO, à CAIXA ECONÔMICA FEDERAL e à UNIÃO.
+A parte impetrante afirma ser estudante do curso de bacharelado em medicina em instituição privada de ensino superior.
+Narra dificuldade para arcar com o valor das mensalidades, buscando, por isso, os benefícios do Fundo de Financiamento Estudantil (FIES).
+Relata, todavia, não ter obtido pontuação suficiente no Exame Nacional do Ensino Médio (ENEM), razão pela qual não pôde celebrar contrato com o fundo e a instituição de ensino superior para obtenção de financiamento, consoante os critérios do Edital 10/2024, expedido pelo Secretário de Educação Superior, publicado em 7/3/2024, na edição 46, Seção 3, do Diário Oficial da União.
+Argumenta ter direito de acesso à educação e de permanência no ensino superior, consoante disposições da Constituição Federal, e, especificamente, cumprir os requisitos legais e infralegais para obtenção de financiamento estudantil, notadamente a nota mínima de 450 pontos no ENEM.
+Pede, liminar e definitivamente, a concessão do financiamento estudantil.
+A gratuidade de justiça foi deferida pelo Ministro Presidente desta Corte (fl. 370), e o pedido de liminar foi indeferido por decisão de minha relatoria (fls. 378/379).
+A autoridade indicada como coatora prestou informações, alegando, em síntese: a) a decadência do direito à impetração; b) a ilegitimidade do Ministro da Educação; c) a necessidade de obediência à ordem de classificação, considerando que o impetrante está classificado na posição 1.313 na lista para obtenção do financiamento da respectiva instituição de ensino superior, que ofereceu 13 vagas (fls. 827/828), de modo que a concessão da ordem como requerida violaria a isonomia entre os candidato; d) o fato de o impetrante já possuir graduação em curso de nível superior, estando, por isso, fora do escopo de priorização do FIES (fls. 822/830).
+O Ministério Público Federal se manifestou às fls. 859/863, defendendo a denegação da ordem, com base na Súmula 266 do Supremo Tribunal Federal.
+É o relatório.
+No presente caso, o ato apontado como coator é a classificação da parte impetrante em posição fora do quadro de vagas para obtenção de financiamento estudantil (FIES) junto à instituição de ensino superior onde está matriculado.
+Conforme o disposto no art. 6º, § 3º, da Lei 12.016/2009, a autoridade coatora é aquela "que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática". Contudo, a parte não indica a autoridade responsável pela situação descrita na petição inicial, e nem é possível essa identificação, diante das alegações e dos documentos juntados.
+Não havendo identificação de conduta, comissiva ou omissiva, do Ministro da Educação, não merece prosperar o mandado de segurança impetrado nesta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. ADMINISTRATIVO. PROUNI. PROCESSO SELETIVO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DA EDUCAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Narra a exordial, ter o impetrante se submetido ao Exame Nacional do Ensino Médio em outubro de 2014, tendo feito inscrição no Programa Nacional Universidade Para Todos de 2015. Como primeira opção de bolsa integral escolheu o curso de engenharia química e, como segunda, engenharia civil, ambos ofertados pela Universidade de Salvador - UNIFACS.
+2. Aprovado apenas para a segunda alternativa, quedou-se inerte na efetivação de sua matrícula por acreditar que ainda lhe restaria a possibilidade de ser convocado em sua primeira opção, por meio de lista de espera.
+3. Como já sedimentado no âmbito desta Corte, a legitimidade para figurar no pólo passivo do mandamus é da autoridade que detém atribuição para adoção das providências tendentes a executar o ato combatido e não daquele responsável pela edição da norma geral e abstrata.
+4. A Lei n. 11.096/2005, que instituiu o Programa Universidade para Todos - ProUni, destinado à concessão de bolsas de estudo em cursos de graduação, foi regulamentada pelo Decreto n. 5.493/2005 - que conferiu à Secretaria de Educação Superior do Ministério da Educação - SESu - competência para implementar e conduzir inteiramente o processo seletivo de candidatos.
+5. Em casos análogos, envolvendo discussão acerca dos critérios para seleção de candidatos à bolsa do ProUni, a Primeira Seção já se posicionou pela ilegitimidade passiva do Ministro de Estado da Educação. Nessa linha, citam-se os seguintes julgados: Precedentes da Primeira Seção: MS 14242 / DF, rel. Ministra Eliana Calmon, DJe 18/6/2009; MS 13280 / DF, rel. Ministro Herman Benjamin, DJe 19/12/2008.
+6. Agravo regimental não provido.
+(AgRg no MS n. 21.656/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 13/5/2015, DJe de 19/5/2015.)
+Assim, diante da ilegitimidade passiva do Ministro da Educação, consequentemente, tenho por incompetente esta Corte Superior para processar e julgar o mandamus.
+Ainda que se entenda ser o Edital 10/2024 (fls. 279/294) o ato coator, esse ato administrativo foi praticado pelo Secretário de Educação Superior e não pelo Ministro de Estado da Educação, o que, por si, já seria motivo suficiente para o indeferimento do writ.
+Ademais, como afirma o Ministério P úblico Federal no seu parecer (fls. 859/863), o edital é ato administrativo normativo, geral e abstrato, o que atrai a incidência do entendimento segundo o qual "Há que se fixar o entendimento jurídico de que o ato coator, a ensejar a propositura do remédio constitucional do Mandado de Segurança, deve efetivamente agir em desfavor do direito líquido e certo do impetrante. Tal ação coatora, como não poderia ser diferente, sob pena de instauração de paradoxo insolúvel, deve possuir efeitos concretos na realidade, não podendo resumir-se em proposições abstratas dispostas em editais" (AgInt no RMS n. 65.507/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/2/2022, DJe de 15/3/2022).
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. PORTARIAS NORMATIVAS DO MINISTÉRIO DA EDUCAÇÃO QUE DISCIPLINAM O PROGRAMA DE FINANCIAMENTO ESTUDANTIL DENOMINADO FIES. ALEGADA INCONSTITUCIONALIDADE. IMPETRAÇÃO CONTRA LEI EM TESE. IMPOSSIBILIDADE. SÚMULA 266/STF.
+1. Caso em que a impetração se limita a sustentar a inconstitucionalidade de portarias editadas pela apontada autoridade coatora (Portarias Normativas nºs 10, de 2013, e 3, de 2014, ambas do Ministério da Educação ), sem demonstrar o modo pelo qual tais atos teriam, concretamente, atingido o direito líquido e certo da parte impetrante. 2. Nesse contexto, em que voltado o writ contra atos normativos genéricos e abstratos, não há como afastar a incidência da Súmula 266/STF, assim redigida: "Não cabe mandado de segurança contra lei em tese".
+3. Agravo regimental desprovido.
+(AgRg no MS n. 20.807/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 27/9/2017, DJe de 6/10/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. PROGRAMA DE FINANCIAMENTO ESTUDANTIL - FIES. PORTARIA N. 10/2010. NORMA GENÉRICA E ABSTRATA. SÚMULA 266 DO STF.
+1. Tratando a Portaria Normativa n. 10/2010-MEC, que instituiu as condições para a concessão e obtenção de financiamento do FIES, de diploma com feição genérica e abstrata, afigura-se inviável a sua impugnação mediante ação mandamental, a teor da Súmula 266 da Suprema Corte.
+2. Precedentes da Primeira Seção.
+3. Segurança denegada.
+(MS n. 20.076/DF, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 10/8/2016, DJe de 12/9/2016.)
+Ante o exposto, indefiro a petição inicial do mandado de segurança, com fundamento nos arts. 10 da Lei 12.016/2009 e 212 do Regimento Interno desta Corte.
+Publique-se. Intimem-se.
+EMENTA
