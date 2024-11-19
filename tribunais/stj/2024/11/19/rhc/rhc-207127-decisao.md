@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. DENÚNCIAS ANÔNIMAS. ELEMENTOS SUFICIENTES DE AUTORIA E MATERIALIDADE. GARANTIA DA ORDEM PÚBLICA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES. ORDEM DENEGADA.
+I. CASO EM EXAME
+1.1. Trata-se de habeas corpus impetrado em favor de paciente preso preventivamente após operação policial por envolvimento nos crimes de tráfico de drogas e associação criminosa, tipificados nos artigos 33 e 35 da Lei nº 11.343 /06.
+1.2. A defesa sustenta que a prisão preventiva se baseou em denúncias anônimas, sem provas suficientes de autoria e materialidade, que o paciente não estava em flagrante e que é dependente químico, merecendo a substituição da prisão por medidas cautelares alternativas.
+II. QUESTÕES EM DISCUSSÃO
+2.1. Legalidade da prisão preventiva, considerando os indícios de autoria e materialidade do delito.
+2.2. Possibilidade de substituição da prisão por medidas cautelares, nos termos do art. 319 do Código de Processo Penal.
+2.3. Aplicação da recomendação nº 62 do CNJ, que sugere medidas alternativas em casos de pandemia, e o pedido de tratamento ambulatorial devido à condição de dependência química do paciente.
+III. RAZÕES DE DECIDIR
+3.1. A prisão preventiva foi devidamente fundamentada pela autoridade judicial, com base nos requisitos previstos no artigo 312 do Código de Processo Penal, especialmente para a garantia da ordem pública, face à gravidade concreta dos delitos e à periculosidade do paciente, vinculado a uma associação criminosa estruturada para o tráfico de entorpecentes.
+3.2. A decisão que decretou a prisão cautelar não se baseou unicamente em denúncias anônimas, mas em uma investigação robusta conduzida pela Polícia Civil, corroborada por boletins de ocorrência, relatórios técnicos, apreensões de drogas e indícios de articulação com outros investigados.
+3.3. As condições pessoais favoráveis, como residência fixa e ausência de antecedentes criminais, não afastam a necessidade da prisão preventiva, especialmente diante do risco de reiteração delitiva e da insuficiência de medidas cautelares alternativas, conforme previsto no artigo 319 do CPP.
+3.4. O pedido de tratamento ambulatorial não pode ser analisado na via estreita do habeas corpus, devendo ser apreciado pelo juízo de primeiro grau, não se constatando ilegalidade no decreto prisional que justifique sua revogação.
+IV. DISPOSITIVO E TESE
+4.1. Ordem de habeas corpus parcialmente conhecida e, nesta parte, denegada.
+4.2. Tese de julgamento: "A prisão preventiva fundamentada para garantir a ordem pública e evitar a reiteração delitiva, em crimes de tráfico de drogas e associação criminosa, atende aos requisitos do art. 312 do CPP. Condições pessoais favoráveis não afastam a necessidade de segregação cautelar, sendo incabível a substituição por medidas cautelares alternativas."
+Imputa-se ao recorrente a prática do crime de associação para o tráfico de drogas (art. 35, da Lei n.º 11.343/06).
+A defesa alega, em síntese:
+a) que a decretação da prisão preventiva foi baseada em falácias e presunções, através de denúncias anônimas, argumentando que o paciente seria apenas usuário de drogas, além de ser réu primário, não reincidente;
+b) "A busca realizada na residência do acusado não resultou na apreensão de qualquer material ilícito, reforçando a ausência de envolvimento do Acusado com o tráfico de drogas ilícitas na cidade" (e-STJ fl. 362).
+Ao final, requer o provimento do recurso para que seja concedida a liberdade provisória ao recorrente.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ fls. 393-395):
+Depreende-se que a referida decisão se pautou na motivação concreta em relação à necessidade da medida por para conveniência de instrução criminal e acautelar a ordem pública, ancorando-se, sobretudo na gravidade concreta dos crimes imputados ao paciente (comercializando, inclusive, "crack", substância entorpecente de efeito altamente deletério), sopesando o contexto de supostamente praticá-los dentro de uma associação criminosa com outros 18 (dezoito) investigados.
+Assim, não acolho a tese de que a prisão preventiva se sustentou somente em denúncias anônimas, por supostamente inexistir investigação prévia e se fundamentar em suspeitas da existência da traficância.
+A decisão inquinada de ilegal se amparou não apenas nos elementos indiciários relativos à denúncia do disque denúncia 181, mas também nas mensagens de textos trocadas entre os envolvidos Andrei e Bruno (mov. 1.6, p.26), e nas anotações do tráfico de Andrei.
+Além disso, sustentou que o paciente foi mencionado no boletim de ocorrência nº 279173 /2024 (mov. 1.3, p.65), no qual Ronaldo foi abordado pela autoridade policial em situação que indicava sua atuação no tráfico de drogas.
+Trata-se de condições que, analisadas e sopesadas de maneira harmônica e conjunta, delineiam contexto que insere o paciente/investigado em plausível situação de mercância de entorpecentes em contexto de associação criminosa com a "gerência" de Andrei e em articulação com os demais investigados.
+Durante a operação "Reforço", também foram realizadas apreensões de drogas ilícitas, além de valores em dinheiro e aparelhos telefônicos de propriedade de Andrei Manoel de Oliveira Gomes, cuja perícia contribuiu para demonstrar a materialidade delitiva e indícios suficientes de autoria do ilícito imputado ao paciente (fummus delicti comissi).
+ ..
+Pontua-se, ainda, que, ao contrário do que aduziu o impetrante, não se vislumbra a existência de mera investigação preliminar, mas de extensa investigação da Polícia Civil, envolvendo múltiplos órgãos de Segurança Pública, deflagrada por operação "Reforço", em que são investigados 19 indivíduos que supostamente atuam com o tráfico de drogas no Município e Comarca de Teixeira Soares.
+Logo, a liberdade do paciente, neste momento processual, é necessária para a instrução criminal e coloca em risco a garantia da ordem pública, pois é evidente a periculosidade ostentada pelo paciente Ronaldo, em razão do contexto de organização criminosa em que está inserido. Presente, portanto, o periculum libertatis.
+Em que pese seja investigado pelos delitos de narcotráfico e homicídio, o paciente é tecnicamente primário e de bons antecedentes, não devendo seu histórico criminal pesar em seu desfavor (o que, aliás, não foi utilizado pela magistrada para fundamentar a prisão).
+Embora o impetrante tenha aduzido que a ausência de flagrância criminal inviabiliza a decretação da ordem de prisão, sabe-se que tal fato não constitui óbice para sua segregação cautelar, quando cumpridos os requisitos do art. 312 do CPP e demonstrados a materialidade delitiva e indícios de autoria por outros meios.
+Em conclusão, no mesmo tecido da decisão objurgada, entende-se que a prisão preventiva do paciente também está amparada na gravidade concreta dos delitos supostamente praticados (associação criminosa voltada ao comércio ilícito de drogas e tráfico de entorpecentes), pelo demonstrado risco de reiteração delitiva (diante da existência de elementos indiciários que apontam a contumácia na mercância de drogas movimentando elevada quantia financeira), não se pode falar em ausência de seus requisitos autorizadores.
+ ..
+Aliás, não se olvida que, conforme o impetrante sustentou, Ronaldo "trabalha em uma indústria de calçados  ..  com carteira assinada", possui residência fixa e é primário. No entanto, eventuais condições pessoais favoráveis, por si só, não têm o condão de afastar a prisão cautelar quando presentes os requisitos autorizadores do art. 312 do CPP.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu pela existência de materialidade e indícios suficientes de autoria por parte do recorrente, a partir da investigação em curso, que indica sua participação em organização criminosa voltada ao tráfico de drogas.
+Também concluiu pela manutenção da custódia cautelar do recorrente em virtude do risco concreto de reiteração e continuidade delitiva por parte da referida organização criminosa, o que constitui inegavelmente risco à ordem pública.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Ademais, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Por fim, questões relativas à fragilidade das provas de autoria/materialidade delitiva, em princípio, não podem ser dirimidas em recurso em habeas corpus por demandarem reexame aprofundado das provas coletadas no curso da instrução criminal. A temática deve ser solucionada na ação penal a que responde o ora recorrente.
+Ante o exposto, conheço em parte do recurso em habeas corpus e, n a parte conhecida, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
