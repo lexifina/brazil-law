@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Maike da Silva Matos, apontando-se como autoridade coatora o Tribunal de Justiça de Goiás (HC n. 5931367-66.2024.8.09.0000).
+Narram os autos que o paciente está preso preventivamente em razão da suposta prática do crime de homicídio qualificado tentado, ocorrido em 22/2/2024. Ele foi denunciado e, ao final da instrução processual, foi pronunciado, oportunidade em que a prisão cautelar foi mantida.
+Neste mandamus, o impetrante alega, em síntese, ausência de fundamentos concretos para a manutenção da prisão, destacando que o paciente não representa nenhum perigo a sociedade e, com certeza, a lei será cumprida, caso venha ser condenado (fl. 9).
+Aduz, ainda, a existência de excesso de prazo na formação da culpa, pois a sessão do Tribunal do Júri foi designada para 17/4/2025 (fl. 117).
+Requer, inclusive em liminar, a revogação da prisão preventiva.
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso dos autos, ao decretar a prisão preventiva, disse o Juízo de piso o seguinte (fl. 37 - grifo nosso):
+ ..
+Aqui, os fatos trazidos são graves por si só, em abstrato, uma vez que se trata de crime com pena alta. Além disso, há nítida gravidade em concreto na conduta do autuado, eis que desferiu vários golpes com uma barra de concreto contra a cabeça da vítima. Ainda, demonstrando a maior gravidade da conduta, a testemunha ocular dos fatos, ouvida na delegacia, narrou que acreditou que o autuado estava desferindo golpes contra um cachorro em razão da tamanha violência dos golpes e pela grande quantidade de sangue. Tal gravidade em concreto dos fatos demonstra o risco à ordem pública na liberdade do autuado.  ..
+Ao indeferir o pedido de revogação da prisão cautelar, o Magistrado de piso disse que, conforme descrito na decisão de pronúncia (mov. 124 dos autos principais), MAIKE deve ser mantido preso, por garantia da ordem pública; a suposta motivação do crime revela traços de comportamento violento, ou seja, a liberdade potencializa oportunidades de reiteração de ações violentas contra a população LGBTQIA , incluindo a própria vítima Dyanna, respaldando tal segregação não só pela gravidade do crime perpetrado, mas também no intuito de resguardar a integridade física e psíquica da vítima (fl. 121 - grifo nosso).
+Como se vê, a custódia cautelar está corretamente motivada, principalmente, no modus operandi e na gravidade concreta do crime de tentativa de homicídio qualificado, supostamente praticado pelo ora paciente por motivo de homofobia, já que, segundo consta da denúncia, a vítima era travesti (fl. 42).
+Com efeito, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+E, ainda: RHC n. 115.460/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 10/9/2019.
+Acerca do excesso de prazo, agiu com acerto o Tribunal local quando destacou que consoante o enunciado da Súmula 21 do Superior Tribunal de Justiça, "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução (fl. 21).
+Nesse sentido, a propósito: AgRg no HC n. 938.680/TO, Ministra Daniela Ribeiro, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 188.074/BA, Ministro Og Fernandes, Sexta Turma, DJe 10/10/2024.
+Por fim, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva. Da mesma forma, concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, à vista dos precedentes, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI (GOLPES DE BARRA DE CONCRETO NA CABEÇA DA VÍTIMA, TRAVESTI). FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. PACIENTE PRONUNCIADO. INCIDÊNCIA DA SÚMULA 21/STJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus indeferido liminarmente.
