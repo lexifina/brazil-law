@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. NÃO OCORRÊNCIA. MERA IRRESIGNAÇÃO. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradiç ão ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão impugnada, objetivam nova apreciação do caso.
+2. Na espécie, o acórdão embargado esclarece que "infirmar a conclusão da Corte local - de "confusão patrimonial gerada pelo esquema de lavagem e/ou ocultação de capitais ilícitos engendrado pela organização criminosa" - demanda a análise de provas, a atrair a incidência da Súmula n. 7 do STJ", motivo pelo qual, revela-se insuficiente, para pedir o afastamento do mencionado óbice recursal, alegar genericamente que não se pretende o reexame de provas, devendo-se indicar qual premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permita o acolhimento do pedido, ônus do qual a defesa não se desincumbiu, conforme se verifica das razões deduzidas pela defesa.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+ANGELICA ALENCAR DE AZAMBUJA opõe embargos declaratórios em face de acórdão proferido por esta Sexta Turma que negou provimento do agravo regimental.
+A defesa repisa argumento anteriormente expendido.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. NÃO OCORRÊNCIA. MERA IRRESIGNAÇÃO. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradiç ão ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão impugnada, objetivam nova apreciação do caso.
+2. Na espécie, o acórdão embargado esclarece que "infirmar a conclusão da Corte local - de "confusão patrimonial gerada pelo esquema de lavagem e/ou ocultação de capitais ilícitos engendrado pela organização criminosa" - demanda a análise de provas, a atrair a incidência da Súmula n. 7 do STJ", motivo pelo qual, revela-se insuficiente, para pedir o afastamento do mencionado óbice recursal, alegar genericamente que não se pretende o reexame de provas, devendo-se indicar qual premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permita o acolhimento do pedido, ônus do qual a defesa não se desincumbiu, conforme se verifica das razões deduzidas pela defesa.
+3. Embargos de declaração rejeitados.
+VOTO
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+Na espécie, o acórdão embargado esclarece o seguinte:
+ ..
+Inicialmente, consigno que, ao contrário do alegado pela defesa, os elementos dos autos oferecem indícios de que o objeto da medida assecuratória integra o conjunto de bens adquiridos em decorrência dos crimes imputados, conforme se verifica na seguintes transcrição:
+ ..
+Neste contexto, tem-se que a recorrente emprestava seu nome paraocultar ou dissimular a natureza, origem, localização, disposição,movimentação ou propriedade dos bens, direitos ou valores provenientesdireta ou indiretamente das infrações penais anteriores, exercendo, assim,a função de "laranja" na organização criminosa.
+A atuação da recorrente como "laranja" na organização criminosa ea ocultação de patrimônio levada a cabo por meio do imóvel sobre o qual recai a medida assecuratória foram expressamente descritas na denúncia, cuja redação deixa clara a confusão patrimonial gerada pelo esquema de lavagem e/ou ocultação de capitais ilícitos engendrado pela organização criminosa, que contou com o envolvimento consciente da apelante não apenas no que toca ao imóvel em discussão nesta apelação, mas também diversos outros bens e valores, que foram pormenorizadamente descritos na denúncia.  ..  (fls. 205-206)
+Portanto, forçoso concluir que infirmar a conclusão da Corte local - de "confusão patrimonial gerada pelo esquema de lavagem e/ou ocultação de capitais ilícitos engendrado pela organização criminosa" - demanda a análise de provas, a atrair a incidência da Súmula n. 7 do STJ.
+Ademais, segundo o entendimento desta Corte Superior, revela-se insuficiente, para pedir o afastamento da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas, devendo-se indicar qual premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permita o acolhimento do pedido, ônus do qual a defesa não se desincumbiu, conforme se verifica das razões ofertadas neste regimental, in verbis:
+Na verdade, a pretensão esboçada pelo embargante é ver reexaminado o caso, o que é inviável pela via escolhida. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+À vista do exposto, rejeito os embargos de declaração.
