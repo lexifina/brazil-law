@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/11/2024 a 19/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CIVIL. EXECUÇÃO DE ALIMENTOS. AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO. SÚMULA N. 182/STJ. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. SÚMULA N. 315/STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e os paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, o que não se verifica nestes autos, tendo em vista que o acórdão recorrido, diversamente dos paradigmas, não apreciou matéria de mérito recursal, em razão da Súmula n. 182/STJ.
+2. Os embargos são incabíveis quando o acórdão embargado, proferido em agravo interno, não conhece do mérito do recurso especial, realizando somente a análise concreta dos requisitos de admissibilidade recursal, como ocorre no aresto recorrido no ponto específico. Aplicável a Súmula n. 315/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão desta relatoria, que indeferiu liminarmente embargos de divergência.
+Em suas razões, a parte agravante sustenta que "estão presentes, in casu, os dois pressupostos gerais para a interposição dos embargos, quais sejam, decisão colegiada em recurso especial. Os presentes Embargos de Divergência merecem ser conhecidos e providos, maiormente quando foi comprovada a similitude fática entre os acórdãos enfrentados, bem como divergentes resultados para dissídios idênticos em Turmas distintas desta Corte" (e-STJ fl. 637).
+Por fim, requer o provimento do recurso (e-STJ fls. 637/638).
+Foi apresentada impugnação às fls. 642/643 (e-STJ), e requerida a aplicação de multa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CIVIL. EXECUÇÃO DE ALIMENTOS. AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO. SÚMULA N. 182/STJ. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. SÚMULA N. 315/STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e os paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, o que não se verifica nestes autos, tendo em vista que o acórdão recorrido, diversamente dos paradigmas, não apreciou matéria de mérito recursal, em razão da Súmula n. 182/STJ.
+2. Os embargos são incabíveis quando o acórdão embargado, proferido em agravo interno, não conhece do mérito do recurso especial, realizando somente a análise concreta dos requisitos de admissibilidade recursal, como ocorre no aresto recorrido no ponto específico. Aplicável a Súmula n. 315/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+A parte agravante não desenvolveu nenhum argumento apto à modificação da decisão agravada.
+Os embargos de divergência foram indeferidos liminarmente sob os seguintes fundamentos, os quais devem ser mantidos (e-STJ fls. 618/620):
+Trata-se de embargos de divergência em agravo em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Relator Ministro HUMBERTO MARTINS, assim ementado (e-STJ fl. 575):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local.
+3. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+A parte embargante defende que o acórdão recorrido contrariou os seguintes julgados:
+a) AgInt no AREsp n. 2.005.278/GO, QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 15/08/2022; e
+b) AgInt nos EDcl no REsp n. 1.750.059/PR, QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 15/08/2022.
+Assevera que, "No que tange ao previsto na Súmula 182 do STJ, é certo que no presente caso não paira tal óbice, visto que foi impugnada todos os fundamentos da decisão agravada, consoante se demonstrará abaixo.  ..  A pretensão da embargante enseja tão somente mera valoração das provas produzidas na instância ordinária. Não há necessidade reexame, pois os fatos são incontroversos. O que há, na realidade, é a necessidade de correta aplicação do Direito ao caso concreto.  ..  No caso específico dos autos não há dúvidas de para se reconhecer que a embargante faz jus à inversão do ônus da prova não é necessário que se reexamine fatos e provas.  ..  Desde a inicial a embargante pleiteou que as instâncias ordinárias determinassem que o banco apresentasse o contrato firmado entre as partes, para comprovar os encargos abusivos contidos no mesmo. O pedido foi feito com base no instituto da inversão do ônus da prova, previsto no Art. 6º, VIII, do CDC, o qual estabelece que a parte mais fraca da relação, no caso o consumidor, tem a seu favor a facilitação da defesa de seus direitos.  ..  Em face do princípio da inversão do ônus da prova, deveria o banco embargado juntar aos autos, cópia do contrato reclamada na inicial, já que tem o dever de possuir em sua guarda todos os contratos firmados, o que não fez, sofrendo as penas do artigo 400 do NCPC.  ..  Por decorrência lógica, tem-se que o acórdão recorrido violou manifestadamente o artigo 6º, inc. VIII, do CDC, ao negar a inversão do ônus da prova.  ..  Para se verificar isso, não há necessidade de reaver provas e fatos. É incontroverso que a casa bancária não juntou cópia do contrato. Assim, com base no art. 6º, VIII, do CDC e 400, do NCPC, devem os juros ser limitados de acordo com a taxa média de mercado, capitalizados anualmente, com a exclusão da cobrança da comissão de permanência.  ..  Nesse compasso, demonstrou a embargante, inclusive, que o STJ, vem decidindo que a ausência de contrato resulta NA LIMITAÇÃO DOS JUROS REMUNERATÓRIOS A TAXA MÉDIA DE MERCADO, CAPITALIZAÇÃO ANUAL DE JUROS, E AFASTAMENTO DA COMISSAO DE PERMANENCIA, EIS QUE ANTE A INEXISTENCIA DA JUNTADA DO CONTRATO NÃO RESTOU EVIDENCIADA A PACTUAÇÃO DA MESMA.  ..  Como se vê, não há como compreender a decisão da 3ªTurma deste C. STJ que determinou a aplicação de juros remuneratórios acima do patamar legal, com a capitalização mensal de juros e a cobrança da comissão de permanência quando o banco não trouxe aos autos o contrato para se apurar a pactuação destes encargos" (e-STJ fls. 590/594).
+Reitera as razões para conhecimento do recurso especial e pede a reforma do acórdão embargado (e-STJ fls. 594/595).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA, e os paradigmas da QUARTA TURMA: AgInt no AREsp n. 2.005.278/GO e AgInt nos EDcl no REsp n. 1.750.059/PR, QUARTA TURMA, ambos tendo como Relator o Ministro RAUL ARAÚJO.
+O acórdão recorrido não conheceu de agravo nos próprios autos, em razão do óbice da Súmula n. 182/STJ, tendo em vista a falta de impugnação específica de um dos tópicos do juízo de admissibilidade do recurso especial, feito no Tribunal de origem. Por outro lado, os paradigmas adentraram no mérito do recurso especial (e-STJ fls. 596/602 e 603/612).
+Portanto, não há similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se e intimem-se.
+Conforme dispõem os arts. 1.043, I, do CPC/2015 e 266, I, do RISTJ, os embargos de divergência se destinam à uniformização da jurisprudência desta Corte, eliminando eventuais discrepâncias de teses entre acórdãos de turmas ou seções distintas, acerca do mesmo tema jurídico.
+Os embargos, assim, são incabíveis quando o acórdão embargado, proferido em agravo nos próprios autos, não conhece do mérito do recurso especial, realizando somente a análise concreta dos requisitos de admissibilidade recursal, como ocorre no aresto recorrido no ponto específico. Aplicável a Súmula n. 315/STJ.
+Ademais, inexiste similitude fático-jurídica entre os casos confrontados, tendo em vista que o acórdão recorrido, diversamente dos paradigmas, não apreciou matéria de mérito, em razão da Súmula n. 182/STJ.
+Dessa forma, mantenho a decisão impugnada, ante a ausência de razões novas capazes de alterar seus fundamentos.
+Ante o exposto, NEG O PROVIMENTO ao agravo interno.
+Deixo de aplicar multa processual, uma vez que a parte apenas exerceu seu direito de petição, o que não constitui ato protelatório que enseje sanção, tampouco se evidencia, até o momento, conduta maliciosa ou temerária a justificar a punição.
+É como voto.
