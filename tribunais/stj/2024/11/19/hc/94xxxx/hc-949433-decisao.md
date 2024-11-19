@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WALLACE RODRIGUES SALOTO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, em razão do acórdão proferido na Apelação Criminal n. 0001280-84.2017.8.08.0010.
+Consta dos autos que o paciente foi condenado às penas de 1 ano de reclusão no regime aberto, e de 10 dias-multa, no valor unitário mínimo, pela prática do crime previsto no art. 155, caput, do Código Penal.
+A impetrante sustenta a atipicidade material da conduta, aduzindo a possibilidade de aplicação do princípio da insignificância ao caso concreto.
+Alega que o valor reduzido do objeto subtraído, uma botija de gás avaliada em R$ 60,00, permitiria a incidência da causa supralegal de exclusão da tipicidade penal, mesmo se levado em consideração a reincidência do agente.
+Requer a concessão da ordem de habeas corpus para se reconhecer a atipicidade da conduta atribuída ao paciente, absolvendo-o da imputação relativa à prática do crime de furto.
+As informações foram prestadas às fls. 34-37.
+O parecer do Ministério Público Federal é pelo não conhecimento do habeas corpus.
+É o relatório.
+Esta Corte Superior já firmou a compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nessa direção: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+Com efeito, o afastamento do princípio da insignificância foi justificado, no acórdão impetrado, com os seguintes fundamentos (fls. 14-15, destaques acrescidos):
+A defesa pretende, lado outro, o reconhecimento da excludente de tipicidade relativa ao Princípio da Insignificância. Contudo, a insignificância pressupõe a existência de circunstâncias judiciais favoráveis, e a concomitância de "a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica provocada.
+E no caso em apreço, não é possível concluir pela mínima ofensividade da conduta, como pretende a defesa, pois o crime em questão não representa fato isolado na vida do apelante.
+Da documentação constante dos autos é possível extrair que o apelante, à época dos fatos, já ostentava o registro de 12 (doze) ações penais tramitando em seu desfavor (fls. 24/34) e, dentre elas, já havia sido condenado nos autos nº 0001125- 70.2017.8.08.0046 (crime de furto qualificado - art. 155, §4º, incisos I e II, do CP), e nº 0004048-16.2013.8.19.0010 (crime de furto - art. 155, caput, do CP - Comarca de Bom Jesus do Itabapoana/), dado que reputo suficiente para demonstrar maior grau de reprovabilidade do comportamento, e afastar a incidência da excludente de tipicidade.
+A propósito, o Superior Tribunal de Justiça, apreciando o habeas corpus nº 716.883/SP, julgado em 22/02/2022, sob a relatoria do Ministro Ribeiro Dantas, decidiu que, não há que se falar em atipicidade material da conduta, se os autos indicarem a habitualidade delitiva do réu, pois a reincidência demonstra desprezo sistemático, pelo cumprimento do ordenamento jurídico.
+Importante ressaltar que não se trata de furto famélico, ou seja, aquele destinado a saciar a fome da pessoa que não tem condições de prover seu sustento. Na hipótese vertente, ao contrário, o réu subtraiu o item, "para ver se vendia ou conseguia encher", sem qualquer justificativa idônea para tal comportamento.
+Nessa medida, não prospera o pedido de aplicação do Princípio da Insignificância.
+Como se observa, o entendimento do Tribunal de origem está em consonância com o entendimento desta Corte Superior, no tocante à impossibilidade de aplicação do princípio da insignificância, porque o paciente é contumaz na prática de crimes patrimoniais, o que evidencia a habitualidade delitiva.
+Nesse sentido (destaques acrescidos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERAÇÃO EM DELITOS CONTRA O PATRIMÔNIO. REGIME SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS E REINCIDÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, a reiteração em delitos contra o patrimônio afasta a aplicação do princípio da insignificância.
+2. No caso dos autos, os pacientes possuem, cada um, três condenações definitivas pela prática de crimes patrimoniais, situação que denota sua habitualidade na prática delitiva.
+3. A pretensão de abrandar o regime prisional também é contrária à jurisprudência desta Corte e ao texto expresso da lei (art. 33, § 2º, "c" e § 3º, do CP), pois os pacientes são reincidentes e as penas-bases foram majoradas em razão da presença de circunstâncias judiciais negativas (maus antecedentes e conduta social, para Vitor, e maus antecedentes, para Erinalva).
+4. Agravo regimental não provido.
+(AgRg no HC n. 920.750/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADE DELITIVA NA PRÁTICA DE CRIMES CONTRA O PATRIMÔNIO. DELITO COMETIDO NA MODALIDADE QUALIFICADA. INVIABILIDADE. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, constata-se habitualidade delitiva em crimes contra o patrimônio, uma vez que há em desfavor do agravante oito ações penais em andamento, sendo uma, inclusive, de roubo, logo, o reconhecimento do princípio da insignificância, na hipótese, implicaria em impunidade e incentivo ao desrespeito das regras jurídicas. E além disso, trata-se de furto qualificado com rompimento de obstáculo à subtração da coisa, outro fator impeditivo à aplicação do princípio da bagatela.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 904.088/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
