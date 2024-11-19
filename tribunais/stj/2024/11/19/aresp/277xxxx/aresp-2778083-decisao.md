@@ -1,0 +1,31 @@
+DECISÃO
+Na origem, trata-se de ação anulatória de ato administrativo referente a alteração de local de avaliação física sem a devida comunicação dos candidatos ao concurso público, objetivando a determinação de nova convocação. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 1.320,00 (um mil e trezentos e vinte reais).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. CONCURSO PÚBLICO. EDITAL N. 002/CGCP/2023. CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR. INAPTIDÃO NA ETAPA DE AVALIAÇÃO FÍSICA. IMPROCEDÊNCIA NA ORIGEM.
+IRRESIGNAÇÃO DA AUTORA. PRELIMINAR. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. DITA NECESSIDADE DE PRODUÇÃO DE OUTRAS PROVA. INSUBSISTÊNCIA. COMPROVAÇÕES DOCUMENTAIS SUFICIENTES AO CONVENCIMENTO DO JULGADOR.
+MÉRITO. MODIFICAÇÃO DO LOCAL DE PROVA. PISTA DE CORRIDA DA APMT QUE ESTAVA INUNDADA PELAS FORTES CHUVAS, FICANDO FORA DE CONDIÇÕES RAZOÁVEIS PARA REALIZAÇÃO DO TESTE. INFORMAÇÃO PRÉVIA REALIZADA DE FORMA VERBAL. ATO ADMINISTRATIVO DEVIDAMENTE EXAURIDO. AUSÊNCIA DE PREJUDICIALIDADE AOS CANDIDATOS. LOCOMOÇÃO DE AP ENAS 950 (NOVECENTOS E CINQUENTA) METROS DO LOCAL ANTERIOR. NÃO COMPROVADO PELA DEMANDANTE QUALQUER PREJUÍZO CONCRETO EM RAZÃO DA MUDANÇA.
+SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No caso vertente, o Magistrado a quo entendeu haver por completo os elementos suficientes ao seu juízo de convencimento, até porque já foi taxativo, em sua decisão, ao suscitar a falta de necessidade na produção de outras provas, além daquelas documentais trazidas ao caderno processual.
+ ..
+A insurgência recursal lastreia-se na tentativa da insurgente em ser convocada para a realização da inspeção, nos termos dispostos no instrumento editalício, bem como, seja impedida de ser eliminada do certame.
+Como se depreende dos autos, o edital descrevia a etapa do concurso e previa expressamente que os candidatos deveriam se apresentar ao local para realização do exame, com uma hora de antecedência, sob pena de exclusão do certame:
+ ..
+Com efeito, a realização de novo teste vai contra o Tema 335 do STF que define: "Inexiste direito dos candidatos em concurso público à prova de segunda chamada nos teste de aptidão física, salvo contrária disposição editalícia, em razão de circunstâncias pessoais, ainda que de caráter fisiológico ou de força maior, mantida a validade das provas de segunda chamada realizadas até 15/5/2013, em nome da segurança jurídica".
+ ..
+De outro ponto, restou igualmente prevista a possibilidade de alteração do local de prova, em caso de força maior, em endereço previamente designado.
+Conforme confirmado pela própria apelante, a pista de corrida da APMT restou inundada pelas fortes chuvas, ficando fora de condições razoáveis para a realização das provas.
+Além disso, também inconteste que a autora foi devidamente cientificada da alteração da localidade, tanto é que conseguiu realizar o teste.
+Como bem consignado pelo Juízo a quo, "a informação prévia, ainda que verbal, é suficiente para que o ato de alteração de local não ofenda o princípio da legalidade".
+Embora a demandante tenha alegado supostos prejuízos à ampla defesa e ao contraditório, diante da impossibilidade de impugnar a alteração do local de provas, bem como em razão da diferença de material da pista de atletismo, não houve, bem como não ficou demonstrado nos autos, qualquer dano à realização da prova, decorrente do deslocamento de um ponto a outro, o qual perfazia a distância de apenas 950 (novecentos e cinquenta) metros.
+De fato, a candidata não esclareceu qual foi o fato concreto que teria causado alguma desvantagem na realização do seu teste.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, bem como o edital do certame. Assim, para se chegar à conclusão diversa seria necessário o reexame tanto de cláusulas editalícias quanto do conjunto fático-probatório, o que é vedado pelos enunciados ns. 5 e 7 das Súmulas do STJ, segundo os quais, respectivamente, "A simples interpretação de cláusula contratual não enseja recurso especial" e "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
