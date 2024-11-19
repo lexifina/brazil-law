@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL . Associação para o tráfico de entorpecentes. Prova suficiente. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, mantendo a condenação do agravante pelo crime de associação para o tráfico de entorpecentes, previsto no art. 35, caput, da Lei 11.343/06.
+2. A condenação foi fundamentada em interceptações telefônicas e depoimentos policiais que demonstraram a associação estável e permanente do agravante com outros corréus para a prática de narcotraficância.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se as provas apresentadas são suficientes para caracterizar o animus associativo estável e permanente entre o agravante e os demais corréus para a prática do tráfico de drogas.
+4. Outra questão é se a revaloração das provas poderia levar à conclusão de que não há liame associativo estável e permanente, mas apenas conluio eventual.
+III. Razões de decidir
+5. O Tribunal de origem concluiu que as interceptações telefônicas e os depoimentos policiais são suficientes para demonstrar a associação estável e permanente para o tráfico de drogas.
+6. A revisão do entendimento adotado pela instância ordinária demandaria o revolvimento fático-probatório, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+7. Não se verifica flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. As interceptações telefônicas e depoimentos policiais podem ser suficientes para demonstrar a associação estável e permanente para o tráfico de drogas. 2. A revisão de provas para alterar a conclusão sobre a associação criminosa é vedada em recurso especial, conforme a Súmula 7 do STJ."
+Dispositivos relevantes citados: Lei 11.343/06, art. 35; CF/1988, art. 144.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.568.140/DF, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 14/5/2024.
+RELATÓRIO
+Trata-se de agravo regimental (e-STJ, fls. 6669-6689) interposto por DIVINO DA SILVA, contra decisão que conheceu do agravo a fim de não conhecer do recurso especial (e-STJ, fls. 6637-6644).
+Em suas razões recursais, o agravante sustenta que basta a mera revaloração de provas para se concluir que inexiste o liame associativo estável e permanente entre o agente e os demais corréus. Sustenta que os poucos contatos esporádicos não podem caracterizar a associação para o tráfico, mas tão somente o conluio eventual para a prática de tráfico de drogas.
+Aduz que " e mbora todo o processo tenha sido alicerçado apenas nas gravações das conversas mantidas pelos réus nada se prestam no campo das provas, uma vez que afigura-se impossível a identificação segura da compra e venda de drogas, tratando-se de meras interpretações baseadas em suposições." (e-STJ, fl. 6678).
+Ao final, requer a reconsideração da decisão agravada ou a submissão do presente agravo ao órgão colegiado. Subsidiariamente, pleiteia a conversão do recurso em habeas corpus originário e a concessão de ofício.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL . Associação para o tráfico de entorpecentes. Prova suficiente. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, mantendo a condenação do agravante pelo crime de associação para o tráfico de entorpecentes, previsto no art. 35, caput, da Lei 11.343/06.
+2. A condenação foi fundamentada em interceptações telefônicas e depoimentos policiais que demonstraram a associação estável e permanente do agravante com outros corréus para a prática de narcotraficância.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se as provas apresentadas são suficientes para caracterizar o animus associativo estável e permanente entre o agravante e os demais corréus para a prática do tráfico de drogas.
+4. Outra questão é se a revaloração das provas poderia levar à conclusão de que não há liame associativo estável e permanente, mas apenas conluio eventual.
+III. Razões de decidir
+5. O Tribunal de origem concluiu que as interceptações telefônicas e os depoimentos policiais são suficientes para demonstrar a associação estável e permanente para o tráfico de drogas.
+6. A revisão do entendimento adotado pela instância ordinária demandaria o revolvimento fático-probatório, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+7. Não se verifica flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. As interceptações telefônicas e depoimentos policiais podem ser suficientes para demonstrar a associação estável e permanente para o tráfico de drogas. 2. A revisão de provas para alterar a conclusão sobre a associação criminosa é vedada em recurso especial, conforme a Súmula 7 do STJ."
+Dispositivos relevantes citados: Lei 11.343/06, art. 35; CF/1988, art. 144.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.568.140/DF, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 14/5/2024.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada, razão pela qual a mantenho por seus próprios fundamentos.
+A Corte de origem manteve a condenação do agravante no crime do art. 35, caput, da Lei 11.343/06 nos seguintes termos:
+"A materialidade delitiva foi comprovada pelas interceptações telefônicas realizadas e prova oral existente, associou-se para o tráfico ilícito de entorpecentes. A autoria é atribuível aos recorrentes Rafael, Leonardo, Divino, Jenifer Erica, Victor e Emanuel.
+ ..
+2-) No Relatório de Monitoramento Telefônico, 9.1.2019, intercepta-se linhas telefônicas de Divino da Silva, Leonardo Alisson, Maria Alexandra, Vítor Anderson, Jady Desirre (filha de Divino), Tais Alessandra, Merilin, Carla Regina, Ana Paula Honorato, Ivair dos Santos, Kethliyn, "Rosa", "Luma" e pessoas não identificadas. De relevante, vê-se Divino pedir a Vítor levar as "meninas para pegar drogas". Jady avisa que tem polícia no bairro, Divino pergunta se ela pegou R$ 115,00 com Merilin. Ele fala para Jady pegar dinheiro com Merilin para poder visitar o Murilo. Vítor pede para passar na casa de Divino para pegar drogas. Divino pede 30 de maconha para Leonardo e diz que ele, Jady e Merilin estão esperando a droga. Divino avisa que Nico vai lá pegar 50 com a Jady. Leonardo, quado solicitado, diz que a droga acabou, depois, que arrumou mais para Divino. Taís pede para Divino arrumar droga para ela. Em dado momento, Divino avisa que tem policia, civil, no bairro (fls. 186/223). O envolvimento com o tráfico, em associação, por Divino, Leonardo, Victor e Jady está claro.
+ ..
+7-) No Relatório de Monitoramento Telefônico, 9.1.2019, fls. 349/396, interceptam- se linhas telefônicas de Leonardo Alisson, Rafael Simão e Divino da Silva, além de outras pessoas identificadas e não identificadas. Dos exemplos, vê-se que HNI pede para Leonardo avisar Rafael que tem um pessoa querendo 200 gramas de maconha. Lucas faz ligação e alerta Leonardo que há alguém que quer 50 de crack, ele responde só mais tarde. Lucas diz que não pode pegar com Matheus. Leonardo diz que as drogas "estão no jeito" para Natan ir buscá-las. Lara avisa seu irmão, Leonardo, que há polícia no bairro. Ela pede-lhe maconha. Rafael avisa que Natan está querendo drogas. Divino liga para comprar maconha com Leonardo e diz que vai mandar a Merilin buscar. Leonardo diz que Churck quer drogas. Novamente, Divino ligar para comprar maconha e Leonardo diz que só o Mates que tem no jeito agora e vai pedir para ele levar. HNI pede drogas para Leonardo. Lara pergunta se Leonardo está com o Mateus, porque Rafael mandou Mateus levar maconha para a Gabriele. Rafael avisa que tem polícia no bairro. Leonardo diz que deu fuga para a Baixinha, pois a casa dela é biqueira dele. Gustavo pede 20 de drogas para Leonardo e diz que Jean mandou avisar que a polícia pegou o número do telefone de Leonardo. Depois, Divino ligar para comprar maconha de Leonardo e ele diz que vai descer no mato para buscar e leva mais tarde. Ele quer 20 de maconha e Leonardo diz que ainda está no meio do mato. Rafael alerta que há polícia no bairro e pede para Leonardo levar maconha para ele na hora da janta. Leonardo e Rafael conversam sobre clientes que querem drogas. Rafael usa o telefone de Leonardo para ligar para Gordão. HNI pede para Leonardo levar dorgas no "Serve Festas". Vê-se que Leonardo, Rafael e Divino estão traficando drogas, em associação. Existe um vínculo estável e permanente entre eles.
+ ..
+11-) No Relatório de Monitoramento Telefônico, 3.12.2018, fls. 507/518, foram escutados Divino da Silva, Jady, dentre outras pessoas parcial e totalmente identificação, além das que não foram identificadas. Dentre as conversas existentes destacam-se algumas para caracterização da prática da associação para o tráfico de Divino e Jady. Ana Paula pede a Merilin ir à cada dela que vai ser de 50 para cima. Merilin diz que vai mandar a Jady e pede para confirmar se é de 100, que 50 ela já tem. Merilin avisa Paula que não poderia ter falado que a droga era de Divino. Merilin conversa com Michael e comentam sobre a prisão de Divino que pegaram uma mulher com uma bala de R$ 50 na casa dele. Jady também conversa com Michael sobre a prisão de Divino. Ela diz que, juntamente com Merilin, estão vendendo drogas, mas a policia está na "cola" delas. Jady diz que mudarão para Votuporanga. Ana Paula avisa Vítor para pegar droga, porém, a dela acabou.
+ ..
+As escutas telefônicas realizadas, resultando em conversas gravadas, mostram que Divino, Emanuel, Rafael, Jenifer Erica, Leonardo Alisson e Victor Fosneca realizavam a associação para o tráfico, com ordens diretas ou indiretas de Artur, vindas de Presidio Estadual, com envolvimento de menores.
+Existem diagramas para ilustrar de que maneira era realizada a associação: Artur, "Matusalem", estaria preso no CPP de são Jose do Rio Preto, para ele trabalhavam diretamente Luana Beatriz (G1) (adolescente), Rosilene (G2), Irailson ("Veio") (G3) e Rafael Simão ("Japa") (G4) (fls. 700). Faz-se menção a um G5, com Ediscley Júnior, Jenifer Erica e Maria Eduarda (adolescente) (fls. 701).
+ ..
+O Grupo 4, abaixo de Artur, está Rafael Simão ("Japa"). A seu lado tem-se Washington Ferreira. Logo depois, há Leonardo Pereira, Rubens Pereira, Márcio L ("Gordão"), Luciano Donizete, Leandro Reis, Márcio José, Divino da Silva, Jady Silva, Merilin Batista, Tais, Ana Paula Cruz e Kethliyn ("Carol") (fls. 703).
+ ..
+Após o término das interceptações, constatou-se que Artur estava no CPP de Rio Preto, Divino ("Vinão") no CDP Riolândia, Emanuel no CDP Riolância, Jady na Penitenciária Feminina de Tupi Paulista, Leonardo Alisson no CDP Riolândia, Victor Fonseca ("Vitinho") no CDP Riolândia (fls. 707/708). Gleyce tem endereço (fls. 726), além de Jenifer Erica (fls. 729), Jenifer Guedes (fls. 730), Rafael Simão ("Japa") (fls. 736) e Tais (fls. 740/741),
+Documentou-se, igualmente, os adolescentes envolvidos na associação para o tráfico:  .. .
+A prova oral obtida, eminentemente os testemunhos policiais, reforça essa convicção.  ..
+Como se vê, os policiais, em depoimentos coesos e seguros, incriminam os recorrentes. Com efeito, inexiste razão para rechaçar as suas narrativas, prevalecendo a presunção de legitimidade dos atos em favor da segurança pública.
+Não há motivos para desmerecer os depoimentos. Ao contrário, destaque-se, desde já, o apelante não mostrou que quisessem prejudicá-lo gratuitamente. Inexiste indícios de que queiram mentir. Eles desejam, sim, apresentar o resultado de seu trabalho para inibir a disseminação de crimes.
+Seria um contrassenso exigir que a policia interviesse na proliferação de infrações penais e, quando vem em Juízo, não dar credibilidade a palavras de seus agentes, que gozam da presunção de legitimidade, como servidores da segurança pública (art. 144, incisos IV e V, da Constituição Federal).
+A função de policiais civis é de policia judiciária e apuração de infrações penais, exceto as militares (art. 144, § 4º). Os policiais militares devem realizar a polícia ostensiva e a preservação da ordem pública (art. 144, § 5º). Não se verifica que os integrantes da Polícia Civil tenham desviado de suas atribuições.
+Se fosse alguma situação de abuso de poder ou arbitrariedade, com certeza, nos tempos hodiernos, saber-se-ia de algo desde o início, porque no distrito existe uma grande preocupação com isso.
+ ..
+Houve configuração do crime tipificado no art. 35 da Lei nº 11.343/2006. Para existir, deve haver comprovação de estabilidade e continuidade da parceira na realização do crime.
+Para a existência do crime, deve haver estabilidade e continuidade, não pode pode haver parceria ou parcerias momentâneas. Deve-se ter a continuidade do cometimento de alguma infração penal durante o tempo, com envolvimento continuo entre todos os associados.
+No caso dos autos, pelo testemunhado pelos policiais, documentados nos autos, sem contraprovas suficientes, identificou-se a ação conjunta entre os envolvidos. Eles agiam todos juntos para a consecução do tráfico de drogas. Muitas deles eram traficantes e, unidos, disseminaram mais ainda a droga pela região. Estão comprovados o "animus" associativo, com durabilidade e estabilidade." (e-STJ, fls. 6132-6163)
+Na espécie, o Tribunal Estadual, soberano na análise dos fatos, concluiu existirem elementos suficientes para caracterização do animus associativo estável e permanente entre o agravante e os demais corréus para a prática da narcotraficância, podendo-se destacar o conteúdo das interceptações telefônicas, que contém diversos diálogos acerca da tratativa de drogas, corroboradas pelos depoimentos dos policiais.
+Dessa forma, reformar o entendimento adotado pela instância ordinária a fim de dar os contornos pretendidos pela defesa e absolver o agravante demandaria maior revolvimento fático-probatório, o que é vedado nesta via especial, por força da Súmula 7/STJ.
+Nesses termos, colaciono o seguinte julgado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. NULIDADE POR IMPOSSIBILIDADE DE ACESSO À MÍDIA. REITERAÇÃO DE TESE ANALISADA NO HC 834.303/DF. INTERCEPTAÇÕES TELEFÔNICAS NULAS. INOCORRÊNCIA. MEDIDA DEVIDAMENTE AUTORIZADA. IRREGULARIDADE DE DECISÕES QUE AUTORIZARAM A PRORROGAÇÃO DA INTERCEPTAÇÃO TELEFÔNICA. AUSÊNCIA DE PREQUESTIONAMENTO. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. EXACERBAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO VÁLIDA. PROPORCIONALIDADE. AFASTAMENTO DA REINCIDÊNCIA. IMPOSSIBILIDADE. SÚMUJLA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado - notadamente o conteúdo extraído das interceptações telefônicas autorizadas nos autos - demonstram a existência de uma associação estável e permanente entre o recorrente e os outros investigados, para o fim de praticar a narcotraficância. Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do recorrente seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+5. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+6. No caso, a aferição da culpabilidade do agente, tendo como fundamento a sua posição de destaque no grupo criminoso, não merece reparo, pois encontra respaldo na jurisprudência desta Corte.
+7. Não há se falar em afastamento da reincidência, tendo em vista que a denúncia descreve que as atividades da associação criminosa se estenderam até fevereiro/2021 e a condenação utilizada para configurar a reincidência transitou em julgado em 6/5/2019. Nesse sentido, para acolher a alegação do recorrente de que sua conduta na associação teria se estendido somente até 8/4/2019, seria necessário o reexame do conteúdo probatório dos autos, incidindo à hipótese a Súmula 7/STJ.
+8. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.568.140/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2024, D Je de 20/5/2024; destacou-se.)
+No mais, a concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando se depara com flagrante ilegalidade, o que não se verifica no caso
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
