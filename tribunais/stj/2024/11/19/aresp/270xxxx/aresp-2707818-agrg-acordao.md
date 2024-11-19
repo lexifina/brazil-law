@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental. Receptação e adulteração de sinal identificador de veículo. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7/STJ.
+2. A decisão agravada manteve a condenação por receptação e adulteração de sinal identificador de veículo, com base em provas testemunhais, auto de prisão em flagrante, boletim de ocorrência, auto de exibição e apreensão, e laudos periciais.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que manteve a condenação por receptação e adulteração de sinal identificador de veículo deve ser reformada, considerando a alegação de que não se aplica a Súmula 7/STJ.
+III. Razões de decidir
+4. A Corte de origem constatou a presença de todos os elementos típicos configuradores dos delitos de receptação e adulteração de sinal identificador do veículo, com base em provas robustas e suficientes para demonstrar a autoria e a materialidade delitivas.
+5. A inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável nesta instância especial, conforme a Súmula 7/STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "A revisão de decisão que mantém condenação por receptação e adulteração de sinal identificador de veículo é inviável em instância especial quando demanda reexame de provas, conforme Súmula 7/STJ".
+Dispositivos relevantes citados: Código Penal, arts. 180 e 311.
+Jurisprudência relevante citada: Súmula 7/STJ.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DIOGO APARECIDO MESSALIRA, contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 931-934).
+Em suas razões, a defesa afirma, em síntese, não ser o caso da incidência da Súmula 7/STJ.
+Pede, ao final, o provimento deste agravo regimental, para prover também o recurso especial.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Receptação e adulteração de sinal identificador de veículo. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7/STJ.
+2. A decisão agravada manteve a condenação por receptação e adulteração de sinal identificador de veículo, com base em provas testemunhais, auto de prisão em flagrante, boletim de ocorrência, auto de exibição e apreensão, e laudos periciais.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que manteve a condenação por receptação e adulteração de sinal identificador de veículo deve ser reformada, considerando a alegação de que não se aplica a Súmula 7/STJ.
+III. Razões de decidir
+4. A Corte de origem constatou a presença de todos os elementos típicos configuradores dos delitos de receptação e adulteração de sinal identificador do veículo, com base em provas robustas e suficientes para demonstrar a autoria e a materialidade delitivas.
+5. A inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável nesta instância especial, conforme a Súmula 7/STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "A revisão de decisão que mantém condenação por receptação e adulteração de sinal identificador de veículo é inviável em instância especial quando demanda reexame de provas, conforme Súmula 7/STJ".
+Dispositivos relevantes citados: Código Penal, arts. 180 e 311.
+Jurisprudência relevante citada: Súmula 7/STJ.
+VOTO
+A decisão agravada deve ser mantida, pois a defesa não trouxe argumentos suficientes para sua alteração.
+No que se refere à comprovação da prática dos delitos previstos nos arts. 180 e 311 do Código Penal destaco trechos do acórdão (e-STJ, fls. 771-784):
+"A materialidade restou evidenciada através dos boletins de ocorrência de fls. 13/22 e 51/52, auto de exibição e apreensão de fls. 28/29, auto de entrega de fls. 169, relatório policial final de fls. 218/226, laudo pericial de fls. 283/292 (veículo capotado), laudo pericial do local de fls. 293/301, laudo pericial dos projéteis encontrados de fls. 302/307, laudo do revólver e munições de fls. 326/331, laudo residuográfico de fls. 332/335 (Gabriel), laudo residuográfico de fls. 336/339 (Diogo), laudo residuográfico de fls. 340/344 (Luan).
+Já as autorias também são indiscutíveis.
+O guarda municipal Wilker de Melo Lopes, sob o manto do contraditório (mídia SAJ), disse que foram solicitados por um transeunte que informou que um roubo a um ônibus estava em andamento. Afirmou que se dirigiram até o local e se depararam com três pessoas retirando mercadorias do ônibus. Informou que uma delas, Diogo, atirou contra a guarnição, que revidou. Esclareceu que eles ingressaram em um veículo e tentaram se evadir, todavia, no bairro Jardim D"Abril, o carro capotou, sendo que continuaram a fuga a pé. Mencionou que os três estavam com o rosto descoberto e foram detidos nas proximidades.
+Citou que Gabriel foi preso uma rua acima ao local do capotamento, em um ponto de ônibus, quando afirmou que estava traficando e uma arma de fogo foi encontrada no seu bolso. Asseverou que sua equipe e a equipe da Romu chegaram juntos no local do capotamento. Disse que com a descrição de Wilker (moleton escuro), a guarnição da Romu deteve Gabriel e o colocou na viatura. Afirmou que Luan era o motorista (o que foi citado pela equipe da Romu), recordando-se apenas que estava com roupa clara. Informou que Luan estava escondido dentro de um terreno.
+Esclareceu que Diogo estava com blusa manga longa e usava um colete a prova de balas. Mencionou que diversos produtos eletrônicos, roupas, perfumes estavam em caixas no interior do veículo, sendo que, realizaram consulta e constataram que os produtos haviam sido roubados horas antes. Citou que não conseguiram identificar vítimas do ônibus porque foram recebidos com tiros e o ônibus não permaneceu no local. Asseverou que a placa do veículo estava adulterada.
+O guarda municipal Anarailton de Araújo Gomes, sob o crivo do contraditório (mídia SAJ), disse que foram solicitados por um munícipe, que informava um roubo em andamento. Afirmou que chegando ao local, foram recebidos com tiros efetuados por Diogo e revidaram. Informou que Diogo estava com um colete. Esclareceu que, em seguida, os acusados tentaram se evadir, quando fizeram breve acompanhamento. Mencionou que a equipe de Romu foi solicitada. Citou que o veículo dos assaltantes capotou.
+Asseverou que Gabriel foi detido nas proximidades pela Romu com uma arma no bolso, enquanto os dois outros também foram detidos pela mesma equipe algum tempo depois. Disse que visualizou dois indivíduos, mas havia um terceiro agente dentro do veículo. Afirmou que perdeu o veículo de vista no momento da perseguição, por isso, não presenciaram o capotamento. Informou que apenas uma arma foi encontrada. Esclareceu que o veículo era produto de ilícito e que a placa estava adulterada com uma fita preta. Mencionou que Gabriel estava com uma blusa preta ou cinza. O guarda municipal Alexandre Tavares, sob os preceitos constitucionais (mídia SAJ), disse que participou da prisão dos três. Afirmou que foram solicitados via rede, também sendo irradiada troca de tiros. Informou que seguiram para dar apoio e localizaram o veículo. Esclareceu que iniciaram acompanhamento e viu quando o veículo capotou, sendo que os três saíram correndo. Mencionou que Gabriel subiu as escadas correndo, mas foi detido nas proximidades. Citou que Gabriel estava com uma arma e uma jaqueta escura. Asseverou que os outros dois, estavam no quintal de uma residência.
+Asseverou que foram encontrados na varredura, dez, quinze minutos após o capotamento. Disse que Diogo estava com um colete. Afirmou que o veículo estava com uma placa adulterada. Informou que dentro do carro havia eletrônicos, perfumes.
+ ..
+O acusado Luan foi detido logo após a perseguição, em um quintal, próximo a uma residência. Na ocasião se escondia com Diogo, o qual, efetivamente, atirou contra os policiais e vestia um colete, o que sintomático. Já Gabriel foi abordado ao fugir para perto de um escadão.
+ ..
+Ainda, seguindo a cronologia, o veículo que estava com os acusados havia sido roubado apenas dois dias antes dos fatos em exame (17/05/2022, fls. 51/52).
+O fato dos acusados terem utilizado o automóvel para cercar o ônibus, sem o menor cuidado quanto a segurança daquele bem, que poderia assim ser abalroado, algo que um proprietário legítimo jamais deixaria ocorrer, pois quando produto lícito de seu trabalho sabe o quanto de suor lhe custou, e isso por volta das 5 horas da manhã, tudo evidencia que sabiam que era produto de ilícito anterior, se não estiveram envolvidos em mais esse crime, o que a investigação não verificou, mas o princípios da lógica dão suporte a tal possibilidade.
+Tanto é assim, que adulteraram as placas do veículo, com uma fita adesiva, capaz de transformar a letra "F" em um "E", para dificultar rastreio policial imediato, com a verificação de se tratar de determinado e específico produto de crime.
+A circunstância é constatada através das fotos acostadas às fls. 291 e 293. Ou seja, para além de evidenciado o dolo do crime patrimonial, até pela posse do bem poucos dias depois de roubado, a adulteração denota que queriam ocultar sua origem ilícita.
+ ..
+Aliás, quanto ao emprego da fita adesiva, para além da prova pericial, os policiais atestaram o método para ludibriar a identificação do veículo."
+A Corte de origem constatou a presença de todos os elementos típicos configuradores dos delitos de receptação e adulteração de sinal identificador do veículo, asseverando, com base em provas testemunhais, auto de prisão em flagrante delito, boletim de ocorrência, auto de exibição apreensão e laudos periciais estarem suficientemente demonstradas a autoria e a materialidade delitivas. Assim, a inversão do julgado, nesses pontos, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
