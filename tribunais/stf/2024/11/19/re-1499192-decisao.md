@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, a, da Constituição Federal, interposto pela União, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+
+    “DIREITO TRIBUTÁRIO. IPI. BENEFÍCIO FISCAL. PORTADOR DE NECESSIDADES ESPECIAIS. MEDIDA PROVISÓRIA 1.034/2021. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. 1. O IPI é tributo sujeito à anterioridade nonagesimal do art. 150, III, c, da CF. Quando da revogação de isenção que lhe diz respeito, tal garantia deve ser observada. 2. Logo, as alterações promovidas pela Medida Provisória 1.034/2021, relativas à compra de carros novos com redução de IPI por pessoa com deficiência, devem obedecer à anterioridade nonagesimal, restando aplicável somente 90 (noventa) dias após sua publicação.”
+
+    Na minuta, sustenta-se violação dos arts. 93, IX, 97, 145, §1º, 150, II, III, “a” e “c”, §1º, 153, §§1º e 3º, I, 195, §6º, da Constituição da República e contrariedade à Súmula Vinculante nº 10.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, não se visualiza a alegada violação do art. 93, IX, da Carta da República. Tal dispositivo exige que sejam fundamentadas, ainda que sucintamente, todas as decisões dos órgãos do Poder Judiciário, sem determinar, contudo, o exame pormenorizado de todas as alegações das partes, nem a correção dos fundamentos da decisão. No presente caso, o órgão julgador enfrentou as causas de pedir veiculadas pela parte, motivou adequadamente sua decisão e solucionou a controvérsia aplicando o direito que entendeu pertinente na hipótese. Nesse sentido:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+
+    Por sua vez, da análise dos autos, verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido de que a anterioridade tributária visa a assegurar a previsibilidade da carga tributária, protegendo a segurança jurídica, a não surpresa e a confiança legítima, razão pela qual deve ser aplicada à revogação ou alteração de benefício fiscal. Nessa linha, a revogação de benefício fiscal que importe majoração indireta de tributo está sujeita ao princípio da anterioridade tributária, razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. REVOGAÇÃO DE BENEFÍCIO FISCAL. MAJORAÇÃO INDIRETA DE TRIBUTO. PRINCÍPIO DA ANTERIORIDADE. 1. Agravo regimental no recurso extraordinário com agravo interposto em face de decisão que, monocraticamente, conheceu do recurso e deu-lhe provimento. O acórdão do TJSP, reformado pelo relator, havia determinado que decreto estadual que revoga benefício fiscal de ICMS produza efeitos apenas a partir do ano seguinte a sua edição, respeitando a anterioridade anual e a noventena, por configurar aumento de carga tributária, nos termos da jurisprudência desta Corte. 2. O ato normativo questionado pelo contribuinte extinguiu benefício fiscal que possibilitava a geração de créditos de ICMS ainda que a circulação de mercadorias fosse isenta. No entanto, seus efeitos começaram a ser produzidos quando da publicação. A anterioridade tributária visa a assegurar a previsibilidade da carga tributária, protegendo a segurança jurídica, a não surpresa e a confiança legítima. Por isso, também deve ser aplicada à revogação ou alteração de benefício fiscal, conforme já reconhecido por esta Corte. 3. Desse modo, divirjo do relator e dou provimento ao agravo interno para negar provimento ao recurso do Estado de São Paulo, a fim de manter o acórdão recorrido.” (ARE 1322395 AgR, Relator(a): ALEXANDRE DE MORAES, Relator(a) p/ Acórdão: ROBERTO BARROSO, Primeira Turma, DJe 23-03-2022)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IPI. ISENÇÃO. AQUISIÇÃO DE VEÍCULO AUTOMOTOR POR PESSOA PORTADORA DE DEFICIÊNCIA. LIMITAÇÕES. MEDIDA PROVISÓRIA 1.034/2021. ANTERIORIDADE NONAGESIMAL. BENEFÍCIO FISCAL. ALTERAÇÃO OU REVOGAÇÃO. MAJORAÇÃO INDIRETA DE TRIBUTO. SUJEIÇÃO AO PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. PRECEDENTES. ARTIGO 93, INCISO IX, DA CONSTITUIÇÃO. VIOLAÇÃO. NÃO OCORRÊNCIA. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MANIFESTO INTUITO PROTELATÓRIO. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.” (RE 1402188 AgR, Relator(a): LUIZ FUX, Primeira Turma, DJe 01-12-2022)
+
+    Havendo pronunciamento do Supremo Tribunal Federal sobre a matéria, dispensável a submissão da arguição de inconstitucionalidade ao plenário ou ao órgão especial do Tribunal de origem, razão pela qual não há falar em ofensa ao art. 97 da Carta Magna ou em contrariedade à Súmula Vinculante 10/STF. Nesse sentido: RE 593.948-AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 09.5.2011; RE 440.458-AgR/RS, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 06.5.2005; RE 594.515-AgR/RN, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 22.5.2012; e ARE 914.045-RG, Rel. Min. Edson Fachin, Pleno, DJe 19.11.2015, cuja ementa transcrevo:
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO TRIBUTÁRIO E DIREITO PROCESSUAL CIVIL. CLÁUSULA DA RESERVA DE PLENÁRIO. ART. 97 DA CONSTITUIÇÃO FEDERAL. JURISPRUDÊNCIA DO TRIBUNAL PLENO DO STF. RESTRIÇÕES IMPOSTAS PELO ESTADO. LIVRE EXERCÍCIO DA ATIVIDADE ECONÔMICA OU PROFISSIONAL. MEIO DE COBRANÇA INDIRETA DE TRIBUTOS. 1. A jurisprudência pacífica desta Corte, agora reafirmada em sede de repercussão geral, entende que é desnecessária a submissão de demanda judicial à regra da reserva de plenário na hipótese em que a decisão judicial estiver fundada em jurisprudência do Plenário do Supremo Tribunal Federal ou em Súmula deste Tribunal, nos termos dos arts. 97 da Constituição Federal, e 481, parágrafo único, do CPC. 2. O Supremo Tribunal Federal tem reiteradamente entendido que é inconstitucional restrição imposta pelo Estado ao livre exercício de atividade econômica ou profissional, quanto aquelas forem utilizadas como meio de cobrança indireta de tributos. 3. Agravo nos próprios autos conhecido para negar seguimento ao recurso extraordinário, reconhecida a inconstitucionalidade, incidental e com os efeitos da repercussão geral, do inciso III do §1º do artigo 219 da Lei 6.763/75 do Estado de Minas Gerais.”
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 19 de novembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
