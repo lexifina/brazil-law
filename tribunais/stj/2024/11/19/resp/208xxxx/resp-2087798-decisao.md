@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por R7 TELECOMUNICAÇÕES LTDA. (outro nome R7 TELECOMUNICAÇÕES EIRELI ME), com base nas alíneas a e c do permissivo constitucional, contra acórdão proferido Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 511-512):
+AGRAVO DE INSTRUMENTO. Cumprimento provisório de sentença. Impugnação. Multa diária. Fixação em decisão interlocutória que concedeu tutela de urgência. Execução provisória das astreintes que não está condicionada ao julgamento final da ação de conhecimento e tampouco ao seu trânsito em julgado. Valor, contudo, que dever ser depositado em juízo, permitido o levantamento somente após o trânsito em julgado da sentença. Art. 537, § 3º, do CPC. Precedentes. Descabimento da alegação de nulidade da execução provisória em razão d a ausência de regular citação, no processo principal, bem como da intimação da decisão liminar, que fixou as astreintes. Matéria que foi decidida nos autos principais e objeto do recurso de apelação, que será analisada por este Tribunal no momento oportuno. Decisão mantida. Recurso improvido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 542):
+EMBARGOS DE DECLARAÇÃO. Inexistência de vícios. Ausência das situações do artigo 1022 do Novo Código de Processo Civil a autorizar a propositura de embargos declaratórios Alegações com o intuito de atribuir caráter infringente aos embargos. Embargos rejeitados.
+Nas razões do recurso, a recorrente alega divergência jurisprudencial e violação aos arts. 238, 239, 242, 248, 489, 537 e 1.022 do CPC/2015; e 461, § 4º, do CPC/1973.
+Sustenta que a execução provisórida de multa diária aplicada durante a vigência de medida liminar só é possível quando houver a confirmação em sentença de mérito e desde que não haja recurso com efeito suspensivo.
+Afirma que, no caso em exame, a sentença proferida nos autos não tornou definitiva a tutela provisória que fixou a penalidade.
+Destaca ainda que a cobrança da multa e a condenação ao pagamento de custas e despesas processuais não são válidas, pois não houve a devida citação.
+Sendo assim, requer o provimento ao presente recurso especial.
+Decisão de admissibilidade às fls. 603-604 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos às decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, em relação à análise da afronta aos arts. 238, 239, 242, 248, 489 e 1.022 do CPC/2015, do exame das razões recursais, verifica-se que a recorrente não demonstrou de que forma os dispositivos legais foram ofendidos.
+Desse modo, constatada deficiência na argumentação, aplica-se o disposto na Súmula 284/STF.
+A respeito da execução provisórida da multa, o Tribunal de origem assim se manifestou (e-STJ, fls. 516-517):
+De início, insta deixar consignado que a multa diária (astreinte), prevista no art. 537, do Código de Processo Civil, tem por objetivo compelir aquele contra quem foi exarada a ordem judicial a cumprir a respectiva obrigação e, assim, incide a partir da ciência do obrigado e da sua recalcitrância.
+Por conseguinte, a exigibilidade da multa não fica condicionada ao resultado final da ação de conhecimento e tampouco ao seu trânsito em julgado, mas apenas à irrecorribilidade ou ao julgamento em última instância da decisão que a determinou.
+Com efeito, o artigo 537, parágrafo 3º, do Código de Processo Civil autoriza a execução provisória da multa fixada em decisão concessiva de tutela de urgência, devendo o respectivo valor ser depositado em juízo, permitido o seu levantamento somente após o trânsito em julgado da sentença. Aqui, cabe ressaltar que se a r. sentença julgou procedente a ação de obrigação de fazer e não fazer em relação à agravante, a antecipação da tutela deferida à exequente restou logicamente ratificada, ainda que não mencionado expressamente.
+E, como restou incontroverso o descumprimento da obrigação, no caso dos autos, de rigor a incidência e efetivação da multa cominatória, não havendo que se falar em impossibilidade de execução provisória.
+Do excerto acima transcrito, depreende-se que o Tribunal local entendeu que é possível executar provisoriamente a multa aplicada em decisão que defere tutela antecipada, sendo prescindível a confirmação em sentença.
+Todavia, esse posicionamento diverge da jurisprudência recente do Superior Tribunal de Justiça, a qual se manifesta no sentido de que é inviável o cumprimento provisório da multa sem que haja o trânsito em julgado da sentença de mérito que confirmar a medida antecipatória na qual foi aplicada a penalidade.
+A esse respeito:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ASTREINTES. TUTELA DE URGÊNCIA CONFIRMADA EM SENTENÇA POSTERIORMENTE ANULADA. CUMPRIMENTO PROVISÓRIO. NECESSIDADE DE CONFIRMAÇÃO DA MULTA COMINATÓRIA POR SENTENÇA DEFINITIVA DE MÉRITO. TRAMITAÇÃO INADEQUADA DA EXECUÇÃO PROVISÓRIA. INEXISTÊNCIA DE TÍTULO EXECUTIVO.
+1. A Corte Especial, em âmbito de recurso repetitivo - REsp n. 1.200.856/RS, Relator Ministro Sidnei Beneti -, entendeu que a "multa diária prevista no § 4º do art. 461 do CPC  1973 , devida desde o dia em que configurado o descumprimento, quando fixada em antecipação de tutela, somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo".
+2. Não houve modificação desse entendimento com o advento do novo Código de Processo Civil.
+3. Com efeito, a eficácia e a exigibilidade da multa não se confundem, sendo imediata a produção de efeitos das astreintes, devidas desde a fixação pelo juízo, porém com a exigibilidade postergada para após o trânsito em julgado da sentença de mérito que confirmar a medida.
+4. Ademais, o novo Código de Processo Civil (Lei n. 13.105, de 16 de março de 2015) não dispensou a confirmação da multa (obrigação condicional) pelo provimento final (art. 515, I).
+5. Assim, no caso, é inviável o cumprimento provisório das astreintes, pois estas não foram ainda confirmadas pela sentença final de mérito.
+6. Embargos de divergência conhecidos e não providos.
+(EAREsp n. 1.883.876/RS, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 23/11/2023, DJe de 7/8/2024.)
+Desse modo, merece reparo o aresto recorrido.
+Ante o exposto, conheço em parte do recurso especial para, nessa extensão, dar-lhe provimento, a fim de determinar a extinção da execução provisória da multa aplicada durante a vigência de tutela antecipada.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresenta ção de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 238, 239, 242, 248, 489 E 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. TUTELA ANTECIPADA. MULTA DIÁRIA. EXECUÇÃO PROVISÓRIA. AUSÊNCIA DE CONFIRMAÇÃO EM SENTENÇA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO.
