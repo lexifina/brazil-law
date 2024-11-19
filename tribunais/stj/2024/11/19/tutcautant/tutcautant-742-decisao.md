@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de tutela provisória formulado por Alberto Henrique Ouchana, buscando a concessão de efeito suspensivo ao recurso especial interposto nos autos da Apelação nº 1008718-39.2021.8.26.0161, cujo acórdão ficou assim ementado:
+COISA COMUM. IMÓVEL. ALUGUÉIS DEVIDOS. CABIMENTO. PRELIMINARES RECHAÇADAS, IMPROCEDÊNCIA DA RECONVENÇÃO. RECURSOS NÃO PROVIDOS.
+Coisa comum. Preliminares rechaçadas. Aluguéis devidos ao condômino que não usa o bem. Manutenção da sentença. Reconvenção improcedente. Patrono da parte que não tem legitimidade para impugnar valor da causa e definição judicial emprestada à lide.
+Recursos não providos.
+Quanto à plausibilidade do direito, o requerente alega que "houve violação ao art. 49-A do Código Civil, pois Alberto foi condenado a pagar aluguéis devidos pela empresa da qual é sócio, sem que haja solidariedade, sucessão ou desconsideração da personalidade jurídica. Também houve ofensa aos arts. 7º e 373, II, do CPC, devido à falta de prova pericial (a qual foi re querida por ambas as partes), com aceitação de laudos unilaterais. Além disso, foi negado seu direito à indenização por benfeitorias no imóvel e à divisão proporcional das despesas do Imóvel em condomínio, conforme os arts. 1.219, 1.315 e 1.316 do CC. Ao negar vigência aos dispositivos mencionados, o e. TJSP viola o art. 1.022 do CPC" (e-STJ, fl. 4).
+Em relação ao perigo na demora do provimento jurisdicional almejado, sustenta que o recorrido iniciou o cumprimento provisório de sentença "e apresentou novo pedido de penhora após o protocolo do referido agravo, o que impõe graves riscos a Alberto e aos demais herdeiros do Sr. André Aimé, pai das partes, considerando que o pedido de penhora tem como objeto valores bloqueados na conta do espólio do de cujus" (e-STJ, fl. 4).
+Às fls. 218-263 (e-STJ), o requerido informou que não formulou pedido de penhora "até este momento, tampouco há pedido de bloqueio de valores na conta do espólio relativo ao inventário no qual o requerente é inventariante. Trata-se de alegação visando trazer/demonstrar urgência onde não há. Tanto assim, que o requerente não fez prova do alegado pedido de penhora em contas pertencentes ao espólio".
+Brevemente relatado, decido.
+Para o deferimento de tutela provisória, a fim de conceder efeito suspensivo a recurso especial, a parte requerente deve demonstrar a presença dos requisitos do fumus boni iuris, caracterizado pela probabilidade de êxito do recurso, e do periculum in mora, que consiste no risco de dano grave com a eventual demora do provimento jurisdicional almejado.
+Na hipótese, independentemente da análise da plausibilidade do direito alegado (fumus boni iuris), o requerente não comprovou a presença do periculum in mora, pois se limitou a alegar que houve o início do cumprimento provisório de sentença.
+Ocorre que, sem a ocorrência de algum ato concreto que possa, de fato, causar risco de dano grave e irreversível para as partes, não há como conceder o efeito suspensivo pleiteado.
+Ante o exposto, indefiro o pedido de tutela provisória.
+Publique-se.
+EMENTA
