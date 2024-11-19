@@ -1,0 +1,30 @@
+DECISÃO
+Trata- se de agravo interposto por SILVIO BARREIRA BORGES FILHO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO TOCANTINS, que inadmitiu o recurso especial por ele interposto, contra o acórdão prolatado nos autos da Apelação Criminal n. 0002617-21.2023.8.27.2710 (fls. 322/323):
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. FURTO E FALSIDADE IDEOLÓGICA. RECURSO DA DEFESA. DOSIMETRIA. 1º FASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA PARA VALORAÇÃO NEGATIVA. INOCORRÊNIA BIS IN IDEM. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO EQUIVOCADA. CIRCUNSTÂNCIA AFASTADA. PENA REDIMENSIONADA. RECURSO PARCIALMENTE PROVIDO.
+1. A culpabilidade deve ser aferida lembrando-se principalmente o grau de reprovabilidade da conduta praticada e a censurabilidade do ato, considerando-se não só as condições pessoais do réu, mas também o contexto fático que o levou a praticar o delito.
+2. As circunstâncias do crime, segundo a doutrina, são "elementos acidentais não participantes da estrutura do tipo, embora envolvendo o delito"; "o lugar do crime, o tempo de sua duração, o relacionamento existente entre autor e vítima, a atitude assumida pelo delinqüente no decorrer da realização do fato criminoso".
+3. No caminho desse entendimento, no caso dos autos, a fundamentação para valorar negativamente as circunstâncias culpabilidade e circunstância do crime foi idônea, eis que existem elementos concretos nos autos que justificam um juízo de reprovabilidade mais rigoroso.
+4. Além de adequadas as valorações feitas pelo douto julgador, não há que se cogitar em bis in idem, uma vez que evidente a distinção entre as motivações, sendo a culpabilidade lastreada na facilidade da fuga do réu por estar em meio a uma multidão, e as circunstâncias fundada na distração das pessoas por estarem em um evento festivo.
+5. A despeito do prejuízo patrimonial da vítima, decorrente da não recuperação do celular furtado, por ser inerente ao tipo penal, não influencia negativamente as consequências do crime, uma vez que não extrapola o previsto legalmente, sendo ilegítima, portanto, a fundamentação para valorá-la como desfavorável ao réu.
+6. Recurso conhecido e parcialmente provido.
+No recurso especial, a defesa requereu, em síntese, o provimento do recurso para fins de redimensionamento da pena, afastando-se a valoração negativa em relação à culpabilidade, visto que fundada em mesma justificativa para a valoração das circunstâncias do crime (fls. 335/342).
+Inadmitido o recurso na origem (fls. 357/360), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 369/380).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 401/407):
+AGRAVO EM RECURSO ESPECIAL. FURTO. DOSIMETRIA. DISCRICIONARIEDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. PROVAS. REEXAME. SÚMULA 7/STJ. IMPROVIMENTO DO AGRAVO.
+"A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito".(AgRg no AR Esp 268420/PR, Relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 19/04/2018, D Je 30/04/2018).
+- Agravo que deve ser desprovido.
+É o relatório.
+Presentes os pressupostos de admissibilidade, conheço do agravo, visto que o agravante logrou infirmar, de forma suficiente e adequada, os fundamentos da inadmissão do especial.
+O agravante pretende redimensionamento da pena, excluindo-se a valoração negativa relativamente à culpabilidade, pois consideradas como mesma justificativa, configurando evidente bis in idem com a negativação das circunstâncias do crime.
+Destaquem-se os fundamentos utilizados (fl. 377):
+Desse modo, analisando o caso em julgamento, entendo que a culpabilidade do acusado deve ser valorada negativamente, posto que os crimes foram praticados quando as pessoas estão em meio à multidão, facilitando a dispersão do agente em meio dos populares, fato a ser sopesado.
+As circunstâncias em que os crimes foram cometidos caminham desfavoravelmente ao acusado, vez que as condutas delitivas foram praticadas durante a apresentação de show em evento festivo, momento que as vítimas estavam dispersas na vigia de seus bens, fato a ser sopesado.
+Afirma o agravante, portanto, tratar-se das mesmas justificativas para valoração de circunstâncias diversas, configurando evidente bis in idem, a ensejar provimento.
+Todavia, não colhem os fundamentos nesse sentido. A análise das circunstâncias judiciais, devidamente explicitada nos fundamentos da sentença quando da fixação da pena-base, foi realizada com base em dados do caso concreto e levando em consideração circunstâncias diversas, uma relacionada ao estado em que as vítimas se encontravam em relação aos seus bens, e outra relacionada ao ambiente no qual ocorreu o delito, que facilitou a dispersão em meio a multidão.
+Esta Corte tem o entendimento de que não existe critério matemático impositivo para fixação da pena na primeira fase, só sendo viável um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+No caso concreto, o Magistrado indicou, com base em elementos concretos e diversos entre si, objetivamente considerados, elementos que demonstram que o comportamento do condenado é aferido com maior intensidade, o que justifica a exacerbação da pena-base relativamente aos vetores considerados.
+Pelo exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. FIXAÇÃO DA PENA-BASE. VALORAÇÃO DE VETORES JUDICIAIS. TESE DE BIS IN IDEM NA NEGATIVAÇÃO DA CULPABILIDADE E DAS CIRCUNSTÂNCIAS DO CRIME. VERIFICAÇÃO. NÃO OCORRÊNCIA.
+Agravo conhecido para negar provimento ao recurso especial.
