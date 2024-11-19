@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ALEXANDRE TORRACA DA SILVEIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO REVISIONAL C/C OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. SÚMULA  63, DESTE TRIBUNAL DE JUSTIÇA. DISTINGUISHING. DANO MORAL INCABÍVEL. DECISÃO MANTIDA. AUSÊNCIA DE FATOS NOVOS. 1. ANTE O RECONHECIMENTO DA CONTRATAÇÃO COMO SENDO DE CARTÃO DE CRÉDITO CONSIGNADO, OU SEJA, DA REGULARIDADE DA RELAÇÃO NEGOCIAI HAVIDA ENTRE OS LITIGANTES, NÃO HÁ FALAR EM CONDENAÇÃO DO BANCO INSURGIDO EM INDENIZAÇÃO A TÍTULO DE DANOS MORAIS, VISTO QUE NÃO HOUVE A PRÁTICA DE ATO ILÍCITO INDENIZÁVEL. 2. TORNA-SE NECESSÁRIO O DESPROVIMENTO DO AGRAVO INTERNO QUANDO ESTE NÃO EVIDENCIA EM SUAS RAZÕES QUALQUER NOVO ARGUMENTO QUE JUSTIFIQUE A MODIFICAÇÃO DA DECISÃO MONOCRÁTICA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 51, IV, 52 e 54 do CDC, no que concerne à ocorrência de vício de consentimento por parte do recorrente, tendo em vista que o contrato de adesão não contém informações claras e possui cláusulas excessivamente onerosas, trazendo a seguinte argumentação:
+Dessa forma, demonstra-se que houve violação de Lei Federal, Lei nº 8.078/90 - Código de Defesa do Consumidor, o qual dispõe sobre a abusividade das cláusulas que onerem excessivamente o consumidor, bem como sobre os contratos de adesão, sendo que, como será demonstrado adiante, o recorrente possui o direito a conversão de modalidade e restituição de valores, visto que o contrato entabulado entre as partes é excessivamente oneroso a recorrente, bem como é um típico contrato de adesão com cláusulas abusivas.
+ ..
+De início, é importante esclarecer que o recorrente apenas realizou saque com o cartão, não tendo utilizado o cartão para realizar comparas. Assim, demonstra-se a boa-fé do recorrente ao entender que havia contratado um empréstimo consignado, visto que há disponibilidade de valores diretamente na conta bancária para saque e há desconto mensal no benefício previdenciário como se empréstimo consignado fosse.
+ ..
+O recorrente entende que contratou um empréstimo consignado e não um cartão de crédito consignado que possui refinanciamentos mês a mês tornado a dívida do cartão uma "bola de neve".
+Ora, como poderia o consumidor ser conhecedor de cláusulas do empréstimo, pelas próprias características do produto e que mesmo sem utilizar o cartão para compras, REFINACIARIA A DÍVIDA todo mês, e isto seria do seu inteiro conhecimento, crível não é que toda essas informações é mesmo entendida pela parte mais frágil da relação aqui guerreada.
+Assim, verifica-se o VÍCIO DE CONSENTIMENTO, visto que o recorrente não recebeu informações claras da contratação, muito menos imaginava que entrava em uma dívida impagável.
+ ..
+Aqui resta evidenciada a abusividade em onerar o consumidor sem conceder as informações claras referente ao funcionamento do cartão e pagamento do débito, que nunca tem fim, o que é comprovado nos autos pelo contracheque do recorrente.
+ ..
+Outrossim, cabe a restituição em dobro no presente caso, uma vez que não se trata de engano justificável, visto que a oferta de cartão de crédito consignado já vem com abusividade embutida, sendo esta a intenção da instituição bancária desde o início, conforme o artigo 42 do Código de Defesa do Consumidor impõe (fls. 413/419).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Isso porque observa-se pelas faturas acostadas em sede contestatória (movimentação nº 37), que o limite de crédito foi utilizado pelo consumidor, por meio de saques e compras.
+Nessa senda, o conjunto probatório dos autos evidencia, portanto, a ciência do consumidor a respeito da modalidade contratada, uma vez que utilizou o cartão para realizar inúmeras compras, conforme se extrai dos documentos juntados com a contestação e que não foram desconstituídos pela recorrida.
+Por exemplo, extrai-se que foram realizados saques complementares na fatura com vencimento em 12/2022. Da mesma maneira, verifica-se que foram realizadas compras, conforme visto nas faturas com vencimento em 10/11/2021; 10/12/2021; 10/01/2022; 10/03/2022, dentre outras. Destarte, não se pode falar que a parte autora tenha sido induzida em erro substancial, sobretudo porque demonstrado que os termos pactuados foram capazes de lhe proporcionar a formação de vontade e o entendimento dos efeitos de sua declaração.
+Assim, inviável o acolhimento da tese de nulidade do negócio jurídico firmado.
+Na hipótese, constatando-se que o desconto diretamente em seus proventos se refere à fatura mínima do cartão de crédito e decorre de expressa autorização concedida pela consumidor a autora, não há falar em ressarcimento, na forma simples ou em dobro, de valores que por ele foram conscientemente usufruídos e, todavia, não pagos na integralidade, o que justifica o acréscimo progressivo do saldo devedor.
+ ..
+Nessa guisa, não há que se considerar irregular a cobrança do banco apelante, muito menos existente o dever de indenizar (fls. 360/361).
+Tal o contexto, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 9.10.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3.10.2019; AgInt no AREsp 1.165.518/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.10.2019; AgInt no AREsp 481.971/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25.9.2019; AgInt no REsp 1.815.585/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 23.9.2019; e AgInt no AREsp 1.480.197/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 25.9.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
