@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Marildo Soares dos Santos contra a decisão que julgou prejudicado o habeas corpus, assim ementada (fl. 284):
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. FURTO QUALIFICADO. COMÉRCIO ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. NOVO TÍTULO JUDICIAL. SENTENÇA NÃO JUNTADA AOS AUTOS. PERDA DO OBJETO.
+Writ prejudicado.
+Alega o agravante que a decisão agravada incorreu em equívoco, pois a sentença condenatória, anteriormente juntada aos autos, concedeu-lhe o direito de recorrer em liberdade.
+Aduz que ficou quase dois anos cumprindo medida cautelar de monitoração eletrônica, tendo, durante esse período, 4 decisões jurisdicionais prolatadas pelo Juízo de piso reconhecendo expressamente a suficiência da referida medida. Fere de morte a razoabilidade querer cumprir, agora, uma decisão prolatada há quase dois anos (fl. 287).
+Contrarrazões às fls. 305/311.
+É o relatório.
+Assiste razão ao agravante, motivo pelo qual reconsidero a decisão agravada.
+Para uma melhor elucidação da controvérsia, transcrevo os seguintes trechos da impugnação do Ministério Público do Estado do Paraná (fls. 306/309 - grifo nosso):
+Conforme informações prestadas pelo juízo de origem a esta Corte (fl. 279, e-STJ), a Autoridade Policial representou pela decretação da prisão preventiva de Marildo Soares dos Santos (mov. 18.1, autos nº 0008191-22.2022.8.16.0170), o que foi reiterado pelo Ministério Público (mov. 126.1, autos n.º 0008575-82.2022.8.16.0170). Expedido novos mandados de prisão, o paciente foi preso em 05.09.2022 (mov. 153, autos nº 0008191-22.2022.8.16.0170).
+O recorrente formulou pedido de revogação o da prisão, que restou indeferido pelo d. Magistrado da 1ª Vara Criminal de Toledo (autos nº 0009465- 21.2022.8.16.0170, mov. 13.1).
+Sob o argumento de Marildo estar sofrendo constrangimento ilegal pelo Juízo da 1ª Vara Criminal de Toledo, que decretou sua prisão preventiva e indeferiu pedido de revogação da prisão, foi impetrado, perante o TJPR, habeas corpus em favor do paciente.
+O d. Relator deferiu a medida liminar para substituir a prisão o preventiva de Marildo Soares dos Santos por medida cautelar de monitoramento eletrônico pelo prazo de 90 (noventa) dias (mov. 12.1, autos nº 0056429-97.2022.8.16.0000). Em razão da concessão da liminar, foi expedido alvará de soltura em favor do paciente, em 19/09/2022.
+Porém, na data de 10/11/2022, a Segunda Câmara Criminal do TJPR denegou a ordem de habeas corpus, revogando a liminar, sob o entendimento de que "(..) há risco de reiteração delitiva, denotando o perigo de que seja posto em liberdade, não se mostrando suficiente a imposição de medidas cautelares diversas da prisão.". (mov. 36.1, autos nº 0056429-97.2022.8.16.0000)
+Não obstante, no dia 18.01.2023, houve renovação do monitoramento eletrônico imposto ao acusado Marildo Soares dos Santos, pelo prazo de 180 dias (mov. 186.1, autos nº 0008191-22.2022.8.16.0170).
+Na data de 31.07.2023, novamente foi renovado o monitoramento eletrônico imposto ao acusado Marildo Soares dos Santos, pelo prazo de 180 dias (mov. 371.1, autos nº 0008191-22.2022.8.16.0170).
+No dia 17.01.2024, houve nova renovação do monitoramento eletrônico imposto ao acusado Marildo Soares dos Santos, pelo prazo de 180 dias (mov. 447.1, autos nº 0008191-22.2022.8.16.0170).
+No dia 09.04.2024, foi proferida sentença (mov. 519.1, autos nº 0008191- 22.2022.8.16.0170), julgando procedente a pretensão condenatória para fins de condenar o acusado Marildo Soares dos Santos pelos crimes de associação criminosa (art. 288, do CP - 1º Fato da denúncia); furto qualificado, por duas vezes (art. 155, §4º, I, II e IV, na forma do art. 71, ambos do CP - 1º e 2º Fatos da denúncia); e comércio ilegal de arma de fogo (art. 17, caput e §1º, da Lei n. º 10.826/2003 - 4º Fato da denúncia).
+Na ocasião, o juízo de piso concedeu ao sentenciado o direito de recorrer em liberdade.
+Ocorre que, em 12/06/2024, o d. Magistrado proferiu decisão interlocutória informando o recebimento de comunicação recursal, referente a denegação da ordem de Habeas Corpus nos autos n. 0056429-97.2022.8.16.0000 e consequente revogação da liminar que substituiu a prisão preventiva do paciente por medida cautelar de monitoramento eletrônico. Em razão disso, determinou a expedição de mandado de prisão em face do paciente Marildo Soares dos Santos. (autos nº 0008191-22.2022.8.16.0170, mov. 588.1).
+O mandado de prisão foi cumprido em 13/06/2024 e, em 14/06/2024, foi realizada audiência de custódia. (0008191-22.2022.8.16.0170, mov. 594 e mov. 610.1). Em audiência de custódia, o juízo de origem entendeu pela manutenção da prisão preventiva de Marildo, justificando que:
+ ..
+No âmbito do STJ, foi impetrado habeas corpus em favor de Marildo, no qual se apontou, como órgão coator, o Tribunal de Justiça do Paraná, em razão da decisão o proferida nos autos de Habeas Corpus nº 0056429-97.2022.8.16.0000.
+O Ministro Relatou julgou o HC prejudicado, sustentando, para tanto, que:
+ ..
+Ocorre que, ao contrário do afirmado na decisão agravada, a sentença condenatória concedeu ao sentenciado o direito de recorrer em liberdade, conforme documento juntado pelo paciente na f. 217 (e-STJ).
+No entanto, em que pese tenha sido oportunizado ao paciente o direito de recorrer em liberdade, o próprio magistrado sentenciante, como já dito, informou posteriormente o recebimento de comunicação recursal, referente à denegação da ordem de Habeas Corpus n. 0056429-97.2022.8.16.0000 e consequente revogação da liminar que substituiu a prisão preventiva do paciente por medida cautelar de monitoramento eletrônico
+Em razão disso, determinou a expedição de mandado de prisão em face do paciente Marildo Soares dos Santos e, em audiência de custódia, entendeu pela manutenção da prisão.
+Dito isso, verifica-se qu e o paciente não juntou cópia da decisão que determinou a expedição de mandado de prisão em seu desfavor, tampouco da decisão proferida em audiência de custódia, que entendeu pela manutenção da prisão. Com isso, não há como se examinar os motivos ensejadores da manutenção da medida constritiva extrema pelo TJPR.
+Com efeito, o writ não pode ser conhecido, pois a defesa não se desincumbiu do ônus de instruir adequadamente o habeas corpus com cópia da decisão proferida na audiência de custódia que entendeu pela manutenção da prisão, após acórdão do Tribunal a quo que denegou a ordem do writ ali impetrado, revogando a liminar que havia sido concedida (fls. 32/56).
+Tal circunstância, por óbvio, inviabiliza a exata compreensão da controvérsia, bem como a aferição da alegada existência de constrangimento ilegal.
+Ademais, a defesa também não demonstra se tal decisão, proferida na audiência de custó dia e que manteve a prisão, foi ou não primeiramente submetida ao crivo do Tribunal de origem, para que não haja a configuração de indevida supressão de instância.
+Ora, como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ: HC n. 437.808/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 28/6/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019).
+Ante o exposto, dou provimento ao agravo regimental, a fim de, reconsiderada a decisão agravada, não conhecer do habeas corpus.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. FURTO QUALIFICADO. COMÉRCIO ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. DECISÃO RECONSIDERADA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PEÇA ESSENCIAL. INVIABILIDADE DE VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES.
+Agravo regimental provido a fim de, reconsiderada a decisão agravada, não conhecer do writ.
