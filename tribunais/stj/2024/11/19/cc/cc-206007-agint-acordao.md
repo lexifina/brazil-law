@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/11/2024 a 19/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO FALIMENTAR. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade devedora não pode, em regra, ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência, situação não verificada na hipótese.
+2. O conflito de competência não pode ser utilizado como sucedâneo recursal.
+3. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por VIA CAPITALIZAÇÃO S/A contra decisão que não conheceu do conflito de competência que suscitara.
+Ação em trâmite no juízo cível: falência da ASSOCIAÇÃO DOS PROFISSIONAIS LIBERAIS UNIVERSITÁRIOS DO BRASIL - APLUB PREV.
+Ação em trâmite no juízo trabalhista: execução trabalhista n. 0000023- 82.2020.5.14.0404, movida por MACLEY PEREIRA DE BARROS.
+Conflito de competência: alegou, em síntese, que a Aplub Capitalização S/A (atual Via Capitalização S/A), compunha os ativos da massa falida APLUB PREV, tendo sido levada a leilão judicial, nos autos da falência e arrematada por HEALTHPAR ADMINISTRAÇÃO E PARTICIPAÇÕES S/A, livre de qualquer ônus, de modo que todo o passivo anterior à alienação judicial, por disposição da Vara de Falências, é de responsabilidade da APLUB PREV (e-STJ, fl. 8). Defendeu, assim, que o redirecionamento da execução em desfavor da agravante acaba por burlar o concurso de credores, além de usurpar a competência legal do juízo falimentar.
+Decisão monocrática: não conheceu do incidente.
+Agravo interno: reitera a alegação de que os débitos anteriores à arrematação são de responsabilidade da massa falida e defende a competência do juízo falimentar para dispor sobre os bens e interesses da massa falida, acentuando que foi determinado o bloqueio de valores nas contas bancárias da agravante. Pugna, assim, pela reforma da decisão que não conheceu do conflito de competência.
+É O RELATÓRIO.
+EMENTA
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO FALIMENTAR. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade devedora não pode, em regra, ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência, situação não verificada na hipótese.
+2. O conflito de competência não pode ser utilizado como sucedâneo recursal.
+3. Agravo interno não provido.
+VOTO
+Consoante salientado na decisão agravada, o STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade não pode ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência.
+Vale dizer, em hipóteses como a dos autos, o conflito de competência somente fica caracterizado quando algum Juízo, diverso daquele que conduz o processo de falência, pratica atos constritivos sobre o acervo patrimonial da devedora-falida.
+Ocorre que não foram prolatadas decisões dessa natureza. Ademais, observa-se da carta de arrematação da Aplub Capitalização S/A pela Healthpar Administração e Participações S/A que culminou na mudança da sua denominação social para Via Capitalização S/A, a determinação de que caberia ao arrematante assumir a def esa das ações judiciais envolvendo a Aplub-CAP. (e-STJ, fls. 70/71)
+Deveras, não se verifica a existência de decisão do juízo laboral dispondo sobre o patrimônio da empresa falida, de modo que o prosseguimento da execução trabalhis ta, tal como realizado na espécie, não enseja decisões conflitantes, tendo em vista o teor da carta de arrematação, mostrando-se correto, portanto, o não conhecimento do incidente.
+Vale acrescentar, por fim, que "o conflito de competência tem seu âmbito de cognição restrito à definição do juízo apto a prestar a jurisdição em determinado processo, não podendo este incidente ser utilizado como sucedâneo recursal para se obter, por via transversa, pronunciamento judicial acerca de aspectos relacionados a outros temas passíveis de recurso próprio (AgInt nos EDcl no CC n. 167.456/MG, Segunda Seção, DJe de 17/12/2020.) Assim, a decisão agravada não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
