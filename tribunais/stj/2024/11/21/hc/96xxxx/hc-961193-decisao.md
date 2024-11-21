@@ -1,0 +1,14 @@
+DECISÃO
+ALLAN VITOR GIACOMELI DA SILVA, acusado por tráfico de drogas, alega ser vítima de constrangimento ilegal em decorrência de decisão proferida por Desemabrgador do Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar em habeas corpus impetrado na origem, na qual pretendia a revogação da preventiva, objetivo este reiterado liminarmente nesta oportunidade.
+De início, registro que o caso supera o óbice da Súmula n. 691 do STF, visto que o constrangimento ilegal é manifesto. Deveras, ao se examinar de modo mais acurado o conteúdo da decisão do Magistrado de primeiro grau, verifica-se que não houve fundamentação suficiente para justificar nem sequer a imposição de cautelares.
+Com efeito, extrai-se, do referido decisum que a prisão preventiva foi decretada com fundamento apenas na gravidade abstrata do delito de tráfico de drogas, nestes termos, no que interessa (fls. 15-16):
+ ..
+Instado a se manifestar, o Dr. Promotor de Justiça manifestou-se favoravelmente ao pedido, sustentando que há provas da materialidade e indícios suficientes de autoria do crime.
+Além disso, trata-se de crime grave, que demonstra a periculosidade do agente, além de incutir pânico e insegurança no meio social, e nos termos atuais, constitui uma das ações criminosas que mais conturba a normalidade da vida coletiva e tem levado à intranquilidade a população.
+Assim, os requisitos autorizadores da prisão estão presentes, fundamentando-se ainda a necessidade da segregação na garantia da ordem pública e para assegurar a aplicação da lei penal.
+Ressalte-se ainda, que em caso de eventual condenação penas graves serão aplicadas, e provavelmente com aplicação de regime inicial fechado, o que justifica a necessidade da prisão desde já, conforme dispõe o artigo 313 do Código de Processo Penal.
+A permanência do acusado em liberdade demonstrará perante a sociedade que, mesmo quem comete um delito considerado de extrema gravidade, está impune. Não pode a Administração da Justiça deixar que fatos como estes venham refletir negativamente quanto à credibilidade da instituição.
+Como se observa, não houve nem sequer a indicação das circunstâncias concretas (quantidade e espécie de droga ou quadro fatico etc) que justificariam a decretação da preventiva. Em outras palavras, em nenhum momento foi explicitado, com base em elementos concretos dos autos, os motivos pelos quais estaria evidenciada a necessidade da medida coercitiva, situação que não chancela nem mesmo a imposição de medidas cautelares alternativas (não demonstrada a existência de mínima necessidade de cautelaridade).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, supero a Súmula n. 691 do STF e concedo a ordem in limine para revogar a prisão preventiva do paciente, sem prejuízo da possibilidade de nova decretação, se concretamente demonstrada sua necessidade cautelar, ou de imposição de medida alternativa, nos termos do art. 319 do CPP.
+Publique-se e intimem-se.
+EMENTA
