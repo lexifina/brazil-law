@@ -1,0 +1,39 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    RECURSO ORDINÁRIO ADESIVO DO SINDICATO EM AÇÃO RESCISÓRIA AJUIZADA NA VIGÊNCIA DO CPC/15. INVERSÃO DA ORDEM DE JULGAMENTO. Diante do conhecimento do recurso ordinário principal e do caráter prejudicial da matéria objeto do recurso ordinário adesivo, inverte-se a ordem de julgamento dos recursos. PREJUDICIAL DE DECADÊNCIA. 1.Não se acolhe prejudicial de decadência, arguida com fundamento no item III da Súmula 100 desta Corte, quando se verifica que o agravo regimental em recurso extraordinário não fora conhecido pela Suprema Corte, por falta de dialeticidade recursal, e não porque era intempestivo ou inadmissível. 2. Por ser a última decisão proferida na causa, referente a recurso extraordinário em que se tratou de preliminar que poderia tornar insubsistente a decisão recorrida (ilegitimidade ativa do sindicato como substituto processual), o prazo decadencial deve fluir a partir do momento em que transitada em julgado (Súmula 100, II/TST), que, conforme certificado, ocorreu em 5/04/2016. 3.Logo, ajuizada a ação rescisória em 2/04/2018, não há decadência a ser pronunciada, posto que observado o prazo previsto no art. 975 do CPC/15, conforme constou da decisão recorrida. Recurso ordinário adesivo conhecido e desprovido.
+
+    RECURSO ORDINÁRIO DO BANCO. DIVISOR APLICÁVEL. SALÁRIO-HORA DO BANCÁRIO. PRETENSÃO DESCONSTITUTIVA FUNDADA NO ART. 966, V, DO CPC/15. CORTE RESCISÓRIO INDEVIDO. 1. A pretensão desconstitutiva dirige-se contra o v. acórdão do eg. TRT da 3º Região, por meio do qual se manteve a incidência do divisor 150 e 200 para o cálculo das horas extras deferidas aos empregados bancários. 2. Trata-se de v. acórdão rescindendo prolatado em 13/11/2014 (transitado em julgado em 5/04/2016) e que, em face do previsto na Cláusula 8º da Convenção Coletiva dos Bancários e, ainda, em prestígio ao disposto no art. 7º, XXVI, da CR, entendeu aplicável a antiga redação da Súmula 124, I, desta Corte (Res. 185/2012). 3.Por se tratar de decisão amparada, à época, por orientação jurisprudencial desta Corte, não há se falar em manifesta afronta a dispositivo de lei e/ou da Constituição Federal. 4.Ainda que a SBDI Plena desta Corte, na ocasião do julgamento do IRRR-849- 83.2013.03.0138, em 21/11/2016 (DEJT 19/12/2016), tenha alterado a redação da Súmula 124 para aplicar os divisores 180 e 220 para o cálculo do salário-hora do empregado bancário submetido à jornada de seis e oito horas, respectivamente, mesmo que haja norma coletiva incluindo o sábado como dia de repouso semanal remunerado, houve modulação dos efeitos da decisão, com definição de que as novas teses jurídicas fixadas no incidente não serviram de fundamento para a procedência de pedidos formulados em ações rescisórias dirigidas contra decisões proferidas “no período de 27/09/2012 (DEJT em que se publicou a nova redação da Súmula 124, I do TST) até 21/11/2016, dada a aplicação da Súmula 83/TST. 5.Como a decisão rescindenda transitou em julgado em 5/04/2016, antes da tese firmada no julgamento do IRRR (21/11/2016), inviável que se reconheça o corte rescisório pelas ofensas indicadas pelo recorrente. Precedentes desta c. Subseção. Recurso ordinário desprovido. AGRAVO INTERNO E PETIÇÃO AVULSA. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ORDINÁRIO. LIMINAR INDEFERIDA. EXAME PREJUDICADO. Evidenciada a ausência de plausibilidade de êxito do recurso ordinário, confirma-se o indeferimento da tutela de urgência requerida pelo ora Autor, conforme decisão publicada em 01/02/2021, e julga-se prejudicado o exame do agravo interno e da petição avulsa anexada, por meio da qual o Autor buscou subsidiar as alegações do agravo interno. Agravo interno e petição prejudicados.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, caput, incisos II, XXXVI, LIV e LV, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário interpretar a legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 454 desta Corte. Sobre o tema, os seguintes precedentes:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Trabalho. Horas extras. Repouso semanal remunerado. Divisor. Fatos e provas. Cláusulas de acordo coletivo. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos, bem como da legislação infraconstitucional e das cláusulas firmadas pelas partes em acordo coletivo. Incidência das Súmulas nºs 279, 454 e 636/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC)” (ARE nº 1.185.025/ES – AgR, Tribunal Pleno, Rel. Min. Dias Toffoli , DJe de 15/4/2019).
+
+    No mesmo sentido: ARE nº 1.124.018/PR-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 1º/8/2018 e ARE nº 971.983/RJ-AgR, Primeira Turma, Rel. Min. Luís Roberto Barroso, DJe de 30/8/2016).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 21 de novembro de 2024.
+
+Ministro EDSON FACHIN
+
+Vice-Presidente no exercício da Presidência
+
+Documento assinado digitalmente
