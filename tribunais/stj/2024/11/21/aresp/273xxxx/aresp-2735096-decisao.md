@@ -1,0 +1,28 @@
+DECISÃO
+JULIA ROSE PEAKE agrava de decisão que não admitiu o seu recurso especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região (Apelação Criminal n. 5006710-96.2023.4.03.6119).
+Consta dos autos que a recorrente foi condenada à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, c/c art. 40, I, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa pede a fixação da pena intermediária abaixo do mínimo legal, ante o reconhecimento da atenuante da confissão, e a aplicação da causa de diminuição de pena prevista no art. 33, 4º, da Lei n. 11.343/2006 na fração máxima.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do agravo em recurso especial.
+Decido.
+I. Atenuante da confissão
+O Tribunal de origem, ao negar a redução da pena aquém do mínimo legal na segunda fase da dosimetria, registrou o seguinte (fl. 330, grifei):
+Na segunda fase, o juízo não reconheceu nenhuma circunstância agravante e reconheceu a atenuante da confissão espontânea (CP, art. 65, III, "d"), o que confirmo.
+A atenuação da pena deveria ser fixada em 1/6 (um sexto). Todavia, tendo em vista a orientação da Súmula nº 231 do Superior Tribunal de Justiça (STJ), que é consentânea com o posicionamento jurisprudencial do Supremo Tribunal Federal (STF), com repercussão geral (REQORG 597270, Pleno, Rel. Ministro Cezar Peluso, j. 26.3.2009, Publicação DJe 04.6.2009), a pena, nesta fase, não pode ficar aquém do mínimo legal, razão pela qual confirmo a pena intermediária em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+A Terceira Seção desta Corte Superior, ao apreciar os REsps n. 2.052.085/TO, 2.057.181/SE e 1.869.794/MS, em sessão realizada no dia 14/8/2024, rejeitou, por maioria, a proposta de cancelamento do enunciado da Súmula n. 231 do Superior Tribunal de Justiça.
+Embora minha compreensão pessoal, externada em voto escrito, seja diversa daquela a que chegou o Colegiado, submeto-me à maioria, em nome da segurança jurídica e da fidelidade aos precedentes qualificados.
+Desse modo, não há reparos a serem realizados no cálculo dosimétrico, porquanto a instância ordinária, ao deixar de reduzir a pena aquém do mínimo legal na segunda fase da dosimetria, observou o entendimento sumulado desta Corte Superior.
+II. Fração da minorante
+O Tribunal de origem manteve a fração da minorante no patamar de 1/6, pelos seguintes fundamentos (fl. 331, grifei):
+No caso, a apelante é primária, sem antecedentes e não há prova de que se dedique a atividades criminosas ou que integre organização criminosa, tratando-se de "mula" do tráfico. Contudo, ao aceitar transportar a droga, tinha plena consciência que estava cooperando (ainda que de modo circunstancial) com organização criminosa voltada ao tráfico de drogas. Além disso, para burlar a fiscalização, transportou a droga em 16 (dezesseis) invólucros em caixas de maizena dentro de sua bagagem, em voo para o exterior, o que mostra que teve auxílio (especializado) para a consecução do delito.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal traz apenas os requisitos necessários para a aplicação da minorante nele prevista; deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, tendo em vista que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Veja-se, portanto, que as instâncias de origem fundamentaram concretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6, salientando, para tanto, a posição da ré na cadeia criminosa, como uma "mula" do tráfico, e noticiando que, "para burlar a fiscalização, transportou a droga em 16 (dezesseis) invólucros em caixas de maizena dentro de sua bagagem, em voo para o exterior, o que mostra que teve auxílio (especializado) para a consecução do delito" (fl. 331, grifei).
+Entendo que a redução na fração mínima é, de fato, a mais adequada ao caso. Isso porque a ora recorrente se trata, na verdade, de verdadeira "mula" no transporte dos entorpecentes e desempenhou papel imprescindível na cadeia delitiva de distribuição das drogas internacionalmente. Sua conduta foi, sem o menor equívoco, de especial relevância, haja vista que, assentiu em praticar tráfico internacional de entorpecentes, tentando levar drogas para Maputo/Moçambique.
+Assim, não identifico a contrariedade ao § 4º do art. 33 da Lei n. 11.343/2006.
+III. Dispositivo
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Em tempo, corrija-se a autuação para fazer constar o nome da recorrente por extenso, tendo em vista que, na espécie, não há motivo legal para a ocultação da sua identidade.
+Publ ique-se e intimem-se.
+EMENTA
