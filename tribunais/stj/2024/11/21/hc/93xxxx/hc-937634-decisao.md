@@ -1,0 +1,19 @@
+DECISÃO
+JOSÉ OSMAR DE MORAES alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Revisão Criminal n. 0003305-79.2023.8.21.7000.
+A defesa pretende a aplicação da continuidade delitiva aos crimes pelos quais o paciente foi condenado, ao argumento de que estão preenchidos os requisitos previstos no art. 71 do CP. Aduz que "o nosso código penal, nessa matéria, adotou a teoria puramente objetiva" (fl. 8).
+Requer o redimensionamento da pena.
+O MPF opinou pelo não conhecimento do habeas corpus.
+Decido.
+Consta dos autos que o paciente foi condenado à pena de 29 anos e 20 dias de reclusão, no regime inicial fechado, mais multa, pela prática de três homicídios qualificados tentados e porte ilegal de arma de fogo.
+Em relação ao pleito de aplicação do art. 71 do CP aos crimes contra a vida, o Tribunal estadual assim se manifestou (fls. 45-46, destaquei):
+Por conseguinte, não assiste razão as defesas quando buscam o reconhecimento do crime continuado entre os delitos de homicídio.
+O juízo de piso reconheceu a regra do concurso material (art. 69 do CP) e a consequência deste é a soma das penas.
+Entretanto, reconheço no agir dos acusados a presença de desígnios autônomos e a prática de uma só ação (disparos de arma de fogo) impondo a incidência do concurso formal impróprio da parte final do art. 70 do CP. Isto porque os réus efetuaram disparos de arma de fogo contra as vítimas José Nunes, Jandira e Rogélio, visando ceifar a vida de cada uma delas, em vista do desentendimento ocorrido dois dias antes. Da prova dos autos, é possível evidenciar que o dolo dos agentes era dirigido, autonomamente, a cada um dos ocupantes do veículo alvo, qual seja, a morte de cada um dos ofendidos.
+Acrescento que a hipótese não permite o reconhecimento do concurso formal perfeito de crimes justamente porque não revela a unicidade de desígnios; também não comporta o reconhecimento da continuidade delitiva, porque não se observa que o condenado tivesse agido com intuito global de cometer um crime, ou que desde o princípio, ou pelo menos durante o iter criminis, tinha o propósito de cometer um delito único ao efetuar os inúmeros disparos contra as três vítimas.
+Consoante entendimento consolidado no STJ, para a caracterização da continuidade delitiva, é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e o de ordem subjetiva, assim entendido como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos. Vale dizer, diversamente do que afirma o impetrante, adota-se a Teoria Mista ou Objetivo-subjetiva.
+Ilustrativamente: "Conforme a teoria objetivo-subjetiva adotada pela jurisprudência desta Corte, para o reconhecimento da continuidade delitiva, além da pluralidade de ações, mesmas condições de tempo, lugar e modo de execução, é necessário o vínculo subjetivo entre os delitos, ou seja, a unidade de desígnios" (AgRg no HC n. 936.829/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024).
+No caso, a Corte local concluiu que o réu havia agido com desígnios autônomos, de modo que visava ceifar a vida de cada uma das três vítimas. Portanto, é correta não aplicação da regra prevista no art. 71 do CP.
+Não há como o STJ entender de maneira diversa das conclusões do Juízo de origem, haja vista a necessária - todavia, inadmissível - desconstituição das premissas fático-probatórias dos autos. Nesse sentido: "O reexame da matéria, com o propósito de reconhecimento da continuidade delitiva, demanda o revolvimento do conjunto fático-probatório, providência inadmissível na estreita via do writ" (AgRg no HC n. 426.556/MS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 3/4/2018).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
