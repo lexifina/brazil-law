@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de PAULO VITOR GABRIEL DOS REIS e THIAGO DA SILVA VALIM, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em virtude do julgamento dos embargos infringentes e de nulidade nº 0000200-32.2022.8.19.0066.
+Consta dos autos que os pacientes foram inicialmente absolvidos quanto à imputação de suposta prática dos crimes previstos nos artigos 33, caput, e 35, ambos combinados com o artigo 40, inciso IV, todos da Lei nº 11.343/06, e do artigo 146, §1º, tudo na forma do artigo 69 do Código Penal, com incidência da agravante prevista no artigo 61, inciso II, alínea "j", do mesmo diploma legal (fls. 27-33).
+Interposta apelação pelo Ministério Público, foi provida para condenar os acusados por violação do artigo 33, caput, combinado com o artigo 40, inciso IV, da Lei n. 11.343/06, fixando a pena de Thiago da S. Valim em 7 (sete) anos de reclusão, sob regime fechado, e 699 dias-multa; e de Paulo V. G. dos Reis em 6 (seis) anos de reclusão, em regime semiaberto, e 600 dias-multa.
+Na sequência, considerando a prolação de voto-vencido favorável à defesa, foram ajuizados embargos infringentes e de nulidade, os quais foram desprovidos (fls. 14-17).
+Na presente impetração, busca-se o reconhecimento da nulidade da busca pessoal e veicular sem fundadas razões e em fishing expedition.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a fundamentação das instâncias de origem embasou-se em situação concreta e apta a demonstrar as fundadas suspeitas para a medida (fls. 16-17):
+Conforme destacado no voto condutor do julgado embargado, "quando avistaram a viatura da polícia militar, os réus, que estavam no banco traseiro dum automóvel, se "abaixaram". Essa conduta, OBJETIVAMENTE CONSIDERADA, despertou a atenção dos policiais militares, que SUSPEITARAM de OCULTAÇÃO DE ARMA DE FOGO, de COISAS OBTIDAS POR MEIOS CRIMINOSOS ou de POSSE DE DROGAS".
+Ora, se abaixar no interior do veículo ao avistar a presença de policiais, evidentemente, caracteriza conduta que justifica a busca pessoal e veicular em via pública, nos termos do art. 244 do CPP, tornando lícito o flagrante constatado.
+A propósito, relevante destacar o entendimento do eminente Ministro Gilmar Mendes nos autos do RHC nº 229.514/PE, ao afirmar que "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública".
+A esse respeito:
+1. Tem-se manifesta a existência de fundadas razões para a realização da diligência, uma vez que os policiais visualizaram a paciente em atitude suspeita, consistente em tentar se esconder no interior do veículo ao notar a presença policial no local, o que demonstra a nítida intenção da paciente de se evadir da abordagem.
+Desse modo, a busca pessoal traduziu exercício regular do policiamento ostensivo promovido pelas autoridades policiais.
+- Nas palavras do Ministro Gilmar Mendes, "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública" (RHC 229.514/PE, julgado em 28/8/2023).
+ ..
+(AgRg no HC n. 908.597/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024.)
+Ante o exposto, indefiro liminarmente o habeas corpus com fulcro no artigo 34, inciso XX c/c o artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
