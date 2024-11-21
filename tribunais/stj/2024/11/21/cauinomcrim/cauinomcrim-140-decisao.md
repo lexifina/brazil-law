@@ -1,0 +1,16 @@
+DECISÃO
+ASSOCIAÇÃO HOSPITAL SANTA MARIA DE ANANINDEUA ajuizou Medida Cautelar Inominada contra decisão proferida por Desembargador do Tribunal de Justiça do Estado do Pará no PIC n. 0814506-44.2024.8.14.0000.
+Consta dos autos a existência de suposto envolvimento em esquema criminoso de desvio de recursos públicos das contas do Instituto de Assistência dos Servidores do Estado do Pará (IASEP) por meio de fraudes praticadas nos serviços prestados pelo Hospital Santa Maria de Ananindeua.
+A investigação começou, inicialmente, no primeiro grau de jurisdição, mas, durante a investigação, surgiu a notícia de possível envolvimento do prefeito de Ananindeua, razão pela qual os autos foram remetidos ao Tribunal de Justiça para tramitação.
+O desembargador relator deferiu pedido do Ministério Público estadual para aplicar medidas cautelares diversas da prisão contra o Hospital Santa Maria de Ananindeua, consistentes em "PROIBIÇÃO DE FIRMAR NOVOS CONTRATOS COM O PODER PÚBLICO, bem como a PROIBIÇÃO DE PARTICIPAÇÃO EM NOVAS LICITAÇÕES PÚBLICAS" (fl. 81).
+A defesa do Hospital, então, formulou pedido de revogação das medidas, o qual foi indeferido pelo relator (fls. 424-430), razão pela qual interpôs o competente agravo regimental e, ao mesmo tempo, ajuizou este pedido de medida cautelar inominada.
+Argumenta, em síntese, que: a) é cabível medida cautelar inominada para atribuir efeito suspensivo a recurso que não o tem; b) a decisão impugnada é nula porque não houve contraditório prévio; c) a persecução penal foi inaugurada com base apenas em denúncia anônima; d) houve acesso e compartilhamento de dados sigilosos sem autorização judicial; e) não estão presentes os requisitos cautelares para justificar as medidas; f) há grave risco à higidez financeira do hospital decorrente da proibição de contratar com o poder público e, por consequência, há risco à continuidade do serviço de saúde no município.
+Requer, assim, o acolhimento do pedido cautelar para que seja atribuído efeito suspensivo ao agravo regimental interposto perante o tribunal de origem.
+Decido.
+O pedido não pode ser conhecido.
+Conforme se depreende dos autos, a defesa pretende a concessão de efeito suspensivo a agravo regimental que não tramita e nem está em vias de vir a tramitar perante o STJ, de modo que ainda não foi inaugurada a competência deste Superior Tribunal para apreciar a medida cautelar.
+Deveras, embora a parte requerente afirme ser inviável aguardar o julgamento colegiado do agravo regimental, registro que ela acionou diretamente este Superior Tribunal sem nem sequer tentar a concessão de efeito suspensivo ao agravo regimental perante o próprio Tribunal de origem ou mesmo a impetração de mandado de segurança também perante aquela Corte, para, só depois, dirigir-se ao STJ por meio do recurso próprio, o qual, aí sim, poderia ser objeto de pedido de tutela cautelar para atribuição de efeito suspensivo, caso ausente a possibilidade de êxito em tempo hábil.
+Observo, a propósito, que o primeiro dos contratos cujo vencimento se aproxima ainda vigerá até 31/12/2024 e os outros dois contratos vencerão somente em fevereiro de 2025, de modo que, também sob este prisma, não se justifica a intervenção prematura desta Corte Superior de Justiça.
+À vista do exposto, não conheço do pedido.
+Publique-se e intimem-se.
+EMENTA
