@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ÁLVARO CASTRO MORAIS contra decisão de minha lavra em que neguei provimento ao recurso especial por entender inexistente o alegado vício de integração no acórdão recorrido.
+O embargante alega, em síntese, que a omissão do acórdão do Tribunal estadual do Tocantins decorre da má aplicação de precedente descrito em enunciado sumular, uma vez que a Corte de origem aplicou ao caso concreto a orientação esposada na Súmula 436 do STJ sem promover a correta distinção entre os contextos fáticos.
+Defende que a súmula trata da entrega de declarações por parte do contribuinte, o que não se aplica ao embargante, que nunca entregou declarações fiscais, uma vez que não é contribuinte, mas sim terceiro.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+Como consignei na decisão embargada, apelo nobre se originou de agravo de instrumento interposto contra decisão em execução fiscal que não acolheu exceção de pré-executividade em que se afirma a ilegitimidade do sócio para responder por crédito objeto de execução fiscal sem que tenha havido processo administrativo para sua inclusão como coobrigado ou a notificação administrativa para tal.
+A Corte estadual estabeleceu dois fundamentos para o não acolhimento da objeção de pré-executividade apresentada pelo sócio coobrigado:
+i) que é incabível, segundo a jurisprudência do Superior Tribunal de Justiça, o conhecimento de exceção de pré-executividade em que se discute a ilegitimidade passiva de sócio cujo nome consta registrado no título executivo como coobrigado, uma vez que a análise da controvérsia exigiria dilação probatória, circunstância incompatível com o rito da exceção; e
+ii) que, quanto aos tributos sujeitos ao lançamento por homologação declarados e não pagos, a inscrição em dívida ativa independeria de processamento administrativo do crédito, notificação ou qualquer outro procedimento e que o entendimento sumulado (Súmula 436 do STJ) seria aplicável inclusive aos sócios coobrigados.
+Sem adentrar no mérito destas afirmações, não se pode afirmar que houve omissão por parte da Corte estadual, especialmente diante da manifestação expressa, tanto no voto condutor quanto no voto vencido, acerca das questões suscitadas pelos recorrentes e reiteradas em embargos de declaração.
+Com efeito, no recurso especial, o particular alegou violação do art. 1.022, II do CPC, aduzindo a existência de vício de integração no acórdão, que teria permanecido omisso, mesmo após a oposição de embargos de declaração na origem, quanto a algumas das teses suscitadas pelo recorrente na origem (nulidade da lavratura do título em face da necessidade do processamento administrativo e notificação específica para a responsabilização de terceiro - sócio - não diretamente relacionado ao fato gerador do tributo mesmo no lançamento por homologação de imposto declarado e não recolhido).
+Em atenção às afirmações formuladas nos presentes embargos de declaração, a alegação de que houve por parte da Corte estadual má aplicação de precedente descrito em enunciado sumular por ausência de promoção de distinguishing representa alegação meritória, não vício de julgamento .
+Com efeito, a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
