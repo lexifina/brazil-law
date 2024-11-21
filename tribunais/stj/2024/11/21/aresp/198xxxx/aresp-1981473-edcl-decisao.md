@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEXANDRE COSTA DE CERQUEIRA à decisão desta relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos presentes aclaratórios (e-STJ, fls. 638-640), o embargante sustenta que "a decisão não apreciou a violação ao art. 206, §3º, incisos IV e V do Código Civil, em razão do pleito para reconhecimento da prescrição de parte das parcelas relativas a taxa de fruição. Isto porque, a inadimplência contratual deu-se em 2014, porém, a propositura da respectiva ação judicial pela parte interessada ocorreu apenas em 2017" (e-STJ fl. 638).
+Aduz que também houve omissão no exame do art. 86 do Código de Processo Civil e do pedido de fixação de honorários em favor do seu advogado, decorrente do êxito parcial na apelação, na origem.
+Afirma, ademais, que a decisão contém erro material, porquanto, ao contrário do nela consignado, não foi notificado pessoalmente e tampouco a notificação foi recebida por terceiros, razão pela qual não se pode considerar ter ocorrido a constituição da mora, que tem natureza ex persona.
+A impugnação foi apresentada, na qual a embargada pleiteia a imposição de multa ao embargante, em razão do caráter protelatório dos seus embargos (e-STJ fls. 644/647).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar em parte.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição,  (b)  suprir  omissão  de  ponto  ou  questão  acerca  da  qual  deveria  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  art.  489,  §  1º,  do  CPC,  que  configurariam  a  carência  de  fundamentação  válida,  e  (c)  corrigir  o  erro  material.
+No  caso,  a decisão  embargada  não  examinou  a  aventada violação do art. 206, § 3º, V, do Código Civil, correspondente à alegada ocorrência de prescrição da cobrança da taxa de fruição, tampouco a sugerida contrariedade ao art. 86 do Código de Processo Civil, relacionada à falta de fixação de honorários em decorrência do provimento parcial da apelação do embargante.
+Entretanto,  observa-se que não houve debate pelas instâncias ordinárias acerca das normas versadas nos referidos dispositivos, sequer de modo implícito, porquanto o Tribunal de origem não apreciou as teses de que se trata de responsabilidade extracontratual e de que deveriam ser arbitrados honorários em razão do provimento parcial da apelação e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria. Ademais, a despeito disso, não foi alegada a violação do art. 1.022 do Código de Processo Civil, com a finalidade de sanar omissão porventura existente.
+Portanto, ausente o requisito do prequestionamento deste tema, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"(..) A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AR Esp n. 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, D Je de 19/10/2022).
+Por sua vez, quanto à constituição em mora, a decisão embargada consignou, de modo expresso e claro, que o embargante não refutou, nas suas razões de recurso espcecial, os fundamentos adotados pela Corte local, segundo os quais houve duas tentativas de notificação no endereço informado no contrato, o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Registrou, ademais, que rever o entendimento firmado pelas instâncias ordinárias acerca dessa matéria demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ..
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação, tanto mais quando abordados todos os pontos relevantes da controvérsia, como no caso.
+Observa-se que, quanto ao ponto, o embargante deseja, em verdade, rediscutir matéria julgada de maneira inequívoca, além de afirmar a existência de erro material sem comprovar suas alegações.
+Nesse contexto, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição ou o erro material, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de reparação de danos materiais e compensação de danos morais, em virtude da aquisição de veículo usado e que, logo após a compra, apresentou diversos vícios que impediam seu pleno uso.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados" (EDcl no REsp 1.837.436/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 4/6/2020).
+"EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. ALEGAÇÃO. ARREMATAÇÃO. IMPOSSIBILIDADE. VÍCIOS DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados" (EDcl no AgInt nos EDcl no REsp 1.536.888/GO, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 28/5/2020).
+Ante o exposto,  acolho parcialmente os embargos de declaração,  sem  efeitos modificativos, apenas  para  sanar  a  omissão  em relação às apontadas violações dos arts. 206, § 3º, V, do Código Civil e 86 do Código de Processo Civil.
+Em razão do acolhimento parcial dos presentes embargos declaratórios, não cabe aplicar a multa requerida pela embargada, ante a ausência de caráter protelatório.
+Publique-se.
+Intimem-se.
+EMENTA
