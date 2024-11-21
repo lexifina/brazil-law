@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA PAULISTA DE FORÇA E LUZ contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado:
+CONSUMIDOR. AUTORES QUE SÀO PEQUENOS PRODUTORES RURAIS DE PIMENTÕES. SERVIÇO ESSENCIAL DE ENERGIA ELÉTRICA QUE FOI SUSPENSO SEM PRÉVIO AVISO, COM DEMORA DE RESTABELECIMENTO. RELAÇÃO DE CONSUMO E DEFEITO DO SERVIÇO EVIDENCIADOS. PRODUÇÃO COMPROMETIDA. LUCROS CESSANTES DESCORTINADOS POR PERÍCIA, EM VALOR INCLUSIVE MAIOR QUE A PROJEÇÃO INICIAL. IRRELEVÂNCIA. INTERPRETAÇÃO DO PEDIDO QUE DEVE CONSIDERAR O CONJUNTO DA POSTULAÇÃO, COM A OBSERV ÂNCIA DA BOA-FÉ. INTELIGÊNCIA DO ART. 322, § 2O, DO CPC. HIPÓTESE EM QUE A CAUSA DE PEDIR, DE MODO EXPRESSO, DESCREVEU AQUILO QUE "APROXIMADAMENTE" O POLO ATIVO DEIXOU DE LUCRAR. AUTORES QUE NÀO PODEM SER PUNIDOS PORQUE ESTIMARAM O DANO QUE SUPORTARAM. PREVALÊNCIA DO QUANTUM APURADO TECNICAMENTE. TERMO INICIAL DA CORREÇÃO MONETÁRIA AJUSTADO. E INDUVIDOSO QUE ELES, NESSE CONTEXTO DE INJUSTIFICADA PRIVAÇÃO DE SERVIÇO ESSENCIAL, AINDA SOFRERAM CONCRETAMENTE ABALO ANÍMICO, A DEMANDAREM COM BASE EM DIREITO PRÓPRIO. DANO MORAL TAMBÉM IN RE IPSA, COMO NO OBJETIVO DANO EVENTO DOS ITALIANOS, QUE ADVÉM DA AGRESSÃO À ESFERA JURÍDICA DA PESSOA, QUE SOFRE PARA SUPERAR OU ANULAR O ABUSO, COROLÁRIO DO DESVIO PRODUTIVO, AQUI CONCRETAMENTE PROVADO. PREVALÊNCIA DO RISCO PROVEITO. PRECEDENTES ESPECÍFICOS RELATADOS POR TODOS OS INTEGRANTES DESTA CÂMARA. INDENIZAÇÃO GLOBAL FIXADA EM RS 22.000,00, POIS O CASO É MAIS GRAVE DO QUE UMA MERA NEGATIVAÇÃO SEM CAUSA. SUCUMBÊNCIA REDIMENSIONADA. APELAÇÃO DESPROVIDA, PROVIDO EM PARTE O ADESIVO.
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 324 e 492 do CPC/2015, aduzindo, em suma, a nulidade do acórdão por julgamento ultra petita (e-STJ fls. 683/689)).
+Sem contrarrazões (e-STJ fl. 792).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Da leitura do acórdão recorrido, observa-se que o Tribunal de origem não analisou, ainda que implicitamente, o disposto nos arts. 324 e 492 do CPC/2015, tampouco foram opostos embargos de declaração com esse desiderato, o que demonstra a carência do requisito constitucional do prequestionamento.
+Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Com efeito, nos termos da jurisprudência desta Corte, para que se configure o prequestionamento, mister se faz que a tese jurídica vinculada no recurso especial tenha sido decidida à luz da legislação federal indicada, o que não ocorreu no presente caso.
+Acerca da hipótese:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. INDENIZAÇÃO POR DANO MORAL E MATERIAL. DECISÃO CITRA PETITA. FALTA
+DE PREQUESTIONAMENTO. SÚMULAS N.os 282 E 356 DO STF. RESPONSABILIDADE OBJETIVA DO BANCO. NÃO OCORRÊNCIA. ÔNUS DA PROVA QUE CABE A AUTORA. DANO MORAL. NÃO COMPROVADO. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre os preceitos legais alegadamente violados, o que não ocorreu na hipótese examinada, sendo de rigor a aplicação, por analogia, das Súmulas n.os 282 e 356 do STF.
+2. O exame da conduta ilícita do Banco depende, na hipótese, da análise do conteúdo fático da demanda, providência que esbarra no óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.588.517/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.).
+PROCESSUAL CIVIL. JULGAMENTO EXTRA PETITA. PREQUESTIONAMENTO. AUSÊNCIA. CRÉDITO TRIBUTÁRIO. SUSPENSÃO. PEDIDO DE COMPENSAÇÃO SEM
+PREVISÃO EM LEI. IMPOSSIBILIDADE. 1. Nos termos da Súmula 282 do STF, o recurso não pode ser conhecido quanto à tese da ocorrência de julgamento extra petita, tendo em vista a ausência de prequestionamento do tema.
+2. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior, segundo a qual, inexistindo específica lei autorizativa, o pedido de compensação de tributo com precatório não suspende a exigibilidade do crédito tributário, atrai o óbice de conhecimento estampado na Súmula 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 745.790/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/8/2017, DJe de 6/10/2017.).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
