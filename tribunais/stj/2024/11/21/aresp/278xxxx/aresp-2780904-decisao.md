@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado por JÉSSICA BRASÍLIA APARECIDA DE FREITAS e OUTROS contra decisão que inadmitiu apelo nobre, interposto com fundamento no art. 105, inciso III, da Constituição Federal, que desafia acórdão assim ementado (e-STJ fls. 925/926):
+APELAÇÃO CÍVEL. PROCESSOS CONEXOS. AÇÕES DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. SENTENÇA DE IMPROCEDÊNCIA. RESPONSABILIDADE CIVIL DO DEPARTAMENTO DE ESTRADAS E RODAGENS DO ESTADO DO PARANÁ - DER. ART. 37, § 6º, DA CF E ART. 1º E 2º, INC. II, DO DECRETO N. 2.458/2000. DEPARTAMENTO QUE PRESTA SERVIÇO . UTI UNIVERSI IMPOSSIBILIDADE DE APLICAÇÃO DO CDC. AUSÊNCIA DE SERVIÇO REMUNERADO. INTELIGÊNCIA DO ART. 3º, §2º DO CDC. ENTENDIMENTO DESSA CORTE. ALAGAMENTO DA PISTA. TRANSBORDAMENTO DO RIO TAGUARUÇU. VEÍCULOS ARRASTADOS PELA ÁGUA. MANILHAS DE ESCOLAMENTO ADEQUADAS. ELEVAÇÃO EXCEPCIONAL DO NÍVEL DA ÁGUA. FORÇA MAIOR. EXCLUDENTE DE RESPONSABILIDADE. DEVER DE INDENIZAR AFASTADO. MANUTENÇÃO DA SENTENÇA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. RECURSOS NÃO PROVIDOS.
+Os recorrentes alegam que houve ofensa ao disposto nos arts. 1º, §2º, e 80, §1º, do Código de Trânsito Brasileiro. Defendem a responsabilidade estatal pelo evento danoso.
+Contrarrazões.
+Passo a decidir.
+Cumpre ressaltar, inicialmente, que o Tribunal de origem, ao r ealizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Mediante análise dos autos, verifico que a inadmissão do recurso se deu com base na incidência da Súmula 7 do STJ.
+Embora tenham os recorrentes impugnado especific amente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento à vista da necessidade do exame das provas que repousam nos autos.
+É que, tendo o Tribunal de origem reconhecido que o conjunto probatório não foi hábil a evidenciar a responsabilidade do DER/PR pelo acidente automobilístico que vitimou familiares dos recorrentes, a reforma desse julgado demandaria o reexame fático-probatório dos autos, o que seria inviável em sede de recurso especial.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO dos agravos para NÃO CONHECER dos recursos especiais .
+Publique-se. Intimem-se.
+EMENTA
