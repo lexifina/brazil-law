@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de EVERTON RODRIGUES SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0004776-18.2015.8.26.0196).
+Colhe-se dos autos que o paciente foi condenado, como incurso nas sanções dos arts. 331 e 344 do Código Penal, às penas de 1 ano e 2 meses de reclusão e 7 meses de detenção, em regime inicial semiaberto, mais pagamento de 11 dias-multa (e-STJ fls. 82/90).
+Segundo consta da sentença, o paciente, em 6/10/2014 (e-STJ fl. 82):
+ ..  opôs-se à execução de ato legal mediante violência a funcionários competentes para executá-lo; desacatou funcionários públicos no exercício da função e usou de grave ameaça, com o fim de favorecer interesse próprio e alheio, contra Leandro Eduardo Camponi e Paulo Adriano Bertanha, chamados a intervir em processo administrativo que era movido em face daquele e de seu irmão, Saulo Rodrigues Silva.
+Irresignada, a defesa apelou, tendo sido negado provimento ao recurso em acórdão cuja ementa foi definida nos seguintes termos (e-STJ fl. 110):
+APELAÇÃO CRIMINAL - Desacato e coação no curso do processo - Autoria e materialidade delitiva perfeitamente demonstradas - Prova robusta a admitir a condenação do réu - Impossibilidade de absolvição - Penas e regime inicial fixados com critério - Recurso desprovido.
+Neste writ, aduz a defesa que o paciente está sofrendo constrangimento ilegal, sustentando, inicialmente, a atipicidade da coação, ao argumento de que "no caso em tela não havia ainda processo policial, judicial ou administrativo instalado. Portanto, não poderia ter havido o crime de coação no curso do processo" (e-STJ fl. 6).
+Afirma que não ficou "comprovado nos autos que o Paciente proferiu os xingamentos - tidos como ameaça - com o fim de obter vantagem em processo que ainda estava para ser instaurado, tendo em vista que não houve a exigência de nenhum tipo de benefício" (e-STJ fl. 6).
+Assere, ademais, que o paciente foi absolvido do crime de resistência, e que "o crime de resistência e o crime de desacato, no caso em tela, estão intimamente ligados, pois ocorreram dentro do mesmo contexto fático. Assim, pelo que leciona o princípio da consunção, deve ser o crime de desacato absorvido pelo crime de resistência" (e-STJ fl. 7).
+Acrescenta, ainda, que, "quando da fixação do regime, NOVAMENTE o MM. Juiz de primeiro grau utilizou a reincidência para fixar o regime inicial de cumprimento da pena privativa de liberdade como sendo o semiaberto, e para negar a substituição da pena privativa de liberdade por restritiva de direitos, em total dissonância a jurisprudência, a lei e ao princípio do ne bis in idem" (e-STJ fl. 9).
+Requer a concessão de liminar a fim de que seja permitido ao paciente aguardar em liberdade o julgamento do presente writ. No mérito, pugna pela concessão da ordem nos termos da inicial, com a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos (e-STJ fl. 15).
+O pedido liminar foi indeferido (e-STJ fls. 127/130).
+Informações prestadas.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 165):
+HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. COAÇÃO NO CURSO DO PROCESSO. DESACATO. CONSUNÇÃO. AB- SOLVIÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. CONSTRANGIMENTO ILE- GAL NÃO CONFIGURADO.
+1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não é cabível apreciar as teses de que não haveria indícios mínimos de autoria e de materialidade e de aplicação do princípio da consunção para absolver o paciente, pois o reexame aprofundado de provas não se revela admissível na via estreita do HC.
+3. Não há bis in idem na utilização da reincidência para agravar a pena-base, fixar o regime inicial e negar a substituição da pena privativa de liberdade por restritivas de direitos, uma vez que decorre de imposição legal.
+4. Parecer pelo não conhecimento. Se conhecido, pela denegação da ordem.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ, especialmente porque a análise das teses defensivas trazidas no presente habeas corpus demandariam sensível incursão na seara fático-probatória dos autos, providência sabidamente incompatível com os estreitos limites de cognição do writ, bem como porque algumas das teses aqui trazidas nem sequer foram apreciadas pela Corte de origem, o que, por si só, impediria o conhecimento do habeas corpus sob pena de indevida supressão de instância.
+Demais disso, não se verifica ilegalidade ou bis in idem na imposição do regime inicial semiaberto e no afastamento da substituição da sanção corporal por medidas restritivas de direitos, com base na reincidência, tendo em vista os requisitos insertos nos arts. 33, § 2º, alínea b, e § 3º; 44, inciso II; e 59, todos do CP.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
