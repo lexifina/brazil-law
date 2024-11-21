@@ -1,0 +1,5 @@
+DECISÃO
+Tendo em vista a superveniência do julgamento da apelação, em 7/11/2024, conforme informações obtidas no site do TJSC, está caracterizada a prejudicialidade desta impetração, a qual se voltava contra a mora na apreciação do recurso.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
