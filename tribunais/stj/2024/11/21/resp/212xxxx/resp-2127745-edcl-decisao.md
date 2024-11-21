@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VM EMPREENDIMENTOS LTDA. contra decisão de minha lavra, que deu parcial provimento ao recurso especial, a fim de anular o acórdão prolatado em sede de embargos declaratórios e determinar o retorno dos autos ao Tribunal de origem, para que seja analisada a questão omissa, atinente aos critérios de fixação dos honorários advocatícios (e-STJ fls. 985/989).
+Sustenta o embargante que o julgado omitiu-se quanto à impossibilidade de fixação dos honorários advocatícios em 10% sobre o valor da condenação e a preliminar de nulidade da sentença por estar desprovida de fundamentação.
+Aponta, ainda, contradição do acórdão quanto à alegação de cerceamento de defesa, visto que indeferiu a produção de prova testemunhal e "argumentou que as provas documentais são suficientes à formação do seu convencimento, mas condenou a Recorrente exatamente sob o argumento de que "a empresa juntou aos autos documentos insuficientes para comprovar os fatos impeditivos do direito de regresso da autarquia previdenciária"" (e-STJ fls. 995/996).
+Intimada, a parte embargada não formulou impugnação.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados, visto que a decisão de minha relatoria foi de encontro aos interesses da parte embargante, já que anulou o acórdão proferido em sede de embargos de declaração a fim de que fossem esclarecidas as questões atinentes ao cerceamento de defesa e aos critérios para fixação da verba honorária.
+Assim, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO DE INDENIZAÇÃO POR DANO MORAL, EM RAZÃO DE ATRASO NA CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. DANO NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, A, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, em razão da incidência das Súmula 283 e 284 do STF e 7 do STJ.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp 1558418/SE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/03/2021, DJe 26/03/2021).
+Com essas considerações, REJEITO os embargos de declaração. Cumpra-se a decisão de fls. 985/989.
+Publique-se. Intimem-se.
+EMENTA
