@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de KAYNAN SOARES DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que deu provimento a recurso em sentido estrito para revogar a liberdade provisória que lhe foi concedida, restabelecendo sua prisão preventiva.
+Alega a defesa que houve cerceamento de defesa, haja vista que "iniciou-se julgamento virtual do feito em tela, sem qualquer prévia intimação da Defesa Técnica", e que "também não foi intimada do Acordão proferido, não havendo, oportunidade para sanar a inequívoca omissão" (e-STJ fl. 6). Acrescenta ainda que "não estão presentes os requisitos e pressupostos da custódia cautelar e, em especial, a necessidade da medida de caráter de excepcional", uma vez que o paciente é portador de asma crônica e que no momento "está sendo submetido a Fisioterapia respiratória, em decorrência da suspeita de COVID-19" (e-STJ fl. 12). Requer, liminarmente, a expedição de contramandado de prisão e, no mérito, pleiteia "seja reconhecido o cerceamento de Defesa e consequentemente anulando do julgamento do Recurso em Sentido Estrito, sendo designada nova pauta de julgamento, possibilitando a sustentação oral da patrona do ora Paciente" (e-STJ fl. 9).
+Liminar deferida "para suspender os efeitos do acórdão impugnado até o julgamento de mérito do presente writ, salvo se por outro motivo estiver preso" (e-STJ fls. 166-168).
+As informações foram prestadas (e-STJ fls. 177-225).
+O Ministério Público Federal manifestou-se "pela concessão parcial da ordem, para que o paciente se mantenha em prisão domiciliar até o fim de seu tratamento para covid-19" (e-STJ fls. 229-232).
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, verifico que já houve a prolação de sentença condenatória em desfavor do paciente, em 16/2/2021, que lhe concedeu o direito de recorrer em liberdade, já tendo sido os autos remetidos ao Tribunal de origem para julgamento das apelações interpostas em face da referida sentença.
+Sendo assim, entendo que a discussão acerca do julgamento do recurso em sentido estrito perdeu o seu objeto, haja vista que o paciente teve o direito de recorrer em liberdade da sentença condenatória proferida, encontrando-se os autos já na instância recursal para o julgamento das apelações interpostas. Nesse sentido :
+"Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, vedada a supressão de instância."
+(AgRg no RHC n. 158.359/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022)
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
