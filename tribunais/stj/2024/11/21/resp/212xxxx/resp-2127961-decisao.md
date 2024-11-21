@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JANDIRA MARIA DE SOUSA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ fls. 200):
+PENAL. PROCESSUAL PENAL. CONTRABANDO. CIGARROS. INSIGNIFICÂNCIA PENAL. INAPLICABILIDADE. TEMA 1143/STJ. TIPICIDADE RECONHECIDA. SENTENÇA ANULADA. RETORNO À ORIGEM.
+1. O princípio da insignificância é aplicável ao crime de contrabando de cigarros quando a quantidade apreendida não ultrapassar 1.000 (mil) maços, seja pela diminuta reprovabilidade da conduta, seja pela necessidade de se dar efetividade à repressão ao contrabando de vulto, excetuada a hipótese de reiteração da conduta, circunstância apta a indicar maior reprovabilidade e periculosidade social da ação (Tema 1143 do STJ). O que não é o caso dos autos.
+2. Apelação criminal provida, para anular a sentença e determinar o retorno dos autos à origem para prosseguimento da análise dos demais fundamentos apresentados pela Defesa.
+Nas razões do recurso especial, a defesa aponta violação ao art. 334-A, § 1º, inciso I, do Código Penal Brasileiro c/c artigo 3º, do Decreto-Lei 399/68 e art. 397, III, do Código de Processo Penal, aduzindo que é cabível a aplicação do princípio da insignificância no caso, com aplicação do entendimento pacificado no Tema 1143 do STJ, pois "se considerarmos que um maço de cigarros contém 20 (vinte) cigarros, a quantidade de 20 maços de cigarros que faltam para os 1000 (mil) maços de cigarros ou afins, seria de 400 peças de afins. No caso dos autos temos 18 embalagens com 5 unidades de fumo cada e 30 cigarrilha, quantidade inferior ao limite objetivo fixado para aferição da insignificância penal" (e-STJ fls. 214).
+Requer o provimento do recurso com a reforma do acórdão impugnado.
+Contrarrazões às e-STJ fls. 221/230.
+Admitido o recurso (e-STJ fls. 233/234), o Ministério Público Federal, nesta instância, opinou pelo não conhecimento do recurso especial (e-STJ fls. 247/249).
+É o relatório. Decido.
+No caso dos autos, observa-se que conforme consignado pelo Tribunal de origem "foram contrabandeados 980 maços de cigarros, 18 embalagens de fumo com 5 unidades cada, além de 30 caixas de cigarrilhas "café cr me", quantidade superior ao limite objetivo fixado para aferição da insignificância penal" (e-STJ fl. 198).
+No contexto, o aresto recorrido está em consonância com a jurisprudência desta Corte, que no julgamento do REsp n. 1.971.993/SP e do REsp n. 1.977.652/SP, sob o rito dos recursos repetitivos, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Sebastião Reis Júnior, DJe de 19/9/2023, fixou o Tema n. 1143, com o seguinte teor: " o  princípio da insignificância é aplicável ao crime de contrabando de cigarros quando a quantidade apreendida não ultrapassar 1.000 (mil) maços, seja pela diminuta reprovabilidade da conduta, seja pela necessidade de se dar efetividade à repressão ao contrabando de vulto, excetuada a hipótese de reiteração da conduta, circunstância apta a indicar maior reprovabilidade e periculosidade social da ação".
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. CONTRABANDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. NÃO INCIDÊNCIA DO TEMA REPETITIVO N. 1.143 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Mesmo sob a ótica do novo entendimento firmado no Tema Repetitivo n. 1.143 do STJ, o princípio da insignificância não é aplicável ao caso dos autos, uma vez que a quantidade de cigarros apreendida é superior a mil maços.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 2.083.453/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+Por oportuno, vale esclarecer que, embora a defesa afirme que as embalagens de fumo e as caixas de cigarrilha não são suficientes para ultrapassar o limite considerado para aplicação do princípio da insignificância, verifica-se que a questão não foi analisada pela Corte de origem sob o enfoque defendido no recurso especial e não foram opostos, oportunamente, embargos de declaração, carecendo, portanto, do necessário prequestionamento. Incidência da Súmula 282/STJ.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Intimem-se.
+EMENTA
