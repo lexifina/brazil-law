@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAIANE FEIJÓ LOPES, com fundamento no art. 105, III, "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. SENTENÇA QUE HOMOLOGOU PEDIDO DE DESISTÊNCIA DO AUTOR E JULGOU EXTINTO O PROCESSO NOS TERMOS DO ART. 485, VIII, DO CPC/2015. INCONFORMISMO DA RÉ.
+HONORÁRIOS ADVOCATÍCIOS. REQUERIDA CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA. NÃO ACOLHIMENTO. DESISTÊNCIA HOMOLOGADA ANTES DA CITAÇÃO DA RÉ. APRESENTAÇÃO DE CONTESTAÇÃO ANTES DA EXPEDIÇÃO DO MANDADO DE BUSCA E APREENSÃO E DA CITAÇÃO. INEXISTÊNCIA DE TRIANGULARIZAÇÃO PROCESSUAL. EXEGESE DO ART. 90 DO CPC. TEMA 1040 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA ESCORREITA.
+RECURSO CONHECIDO E NÃO PROVIDO" (fl. 227 e-STJ).
+Em suas razões, a recorrente aponta violação dos arts. 90 e 485, VI e VIII, do Código de Processo Civil, sustentando que homologada a desistência, os honorários e as despesas processuais são devidos pela parte desistente.
+Sem contrarrazões (fls. 244 e 248 e-STJ).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De início, registra-se que o recurso especial cumpriu os requisitos legais e constitucionais exigidos para a sua admissão, além de não haver necessidade de reapreciação do conjunto fático-probatório dos autos e de a matéria recursal encontrar-se bem delineada e prequestionada.
+Ao solucionar a controvérsia, o Tribunal de origem dispôs o seguinte:
+"(..)
+Da análise dos autos, observa-se que a ação de busca e apreensão tem por objeto o Contrato de Financiamento n. 560425627, firmado em 01/06/2022 para aquisição do veículo HAOJUE, Modelo DK150, ano e modelo 2020 e 2021, placa RDZ9A85, no valor financiado de R$ 15.169,72 (quinze mil cento e sessenta e nove reais e setenta e dois centavos), com previsão de restituição do capital, pagamento dos juros e demais encargos em 48 (quarenta e oito) parcelas de R$ 573,51 (quinhentos e setenta e três reais e cinquenta e um centavos).
+O cerne da controvérsia gira em torno da obrigação de pagamento de honorários advocatícios, que deixaram de ser atribuídos à parte autora, tendo esta expressamente requerido desistência do processo por não mais possuir interesse na lide.
+Em seu apelo, a autora, invocando o princípio da legalidade, requer a condenação da demandante ao pagamento em honorários advocatícios, sob argumento de que foi esta quem deu causa ao ajuizamento da ação, bem como ter aparecido espontaneamente nos autos e realizado diversos atos processuais por aproximadamente 1 (um) ano.
+Razão, todavia, não lhe assiste.
+No tocante ao art. 90 do CPC, cita-se lição de Nelson Nery Júnior e Rosa Maria de Andrade Nery:
+A desistência da ação é ato privativo do autor e enseja a extinção do processo sem julgamento de mérito (CPC 485 VIII). Se a desistência ocorre antes da citação, o autor responde apenas pelas custas e despesas processuais, mas não por honorários de advogado. Requerida depois da citação, a desistência da ação acarreta para o autor o dever de suportar os honorários de advogado da parte contrária. (Código de Processo Civil comentado. 17. ed., São Paulo: Revista dos Tribunais, 2018, p. 552) (grifou-se).
+Com efeito, analisando detidamente os autos e, diante da própria afirmação da apelante, esta compareceu espontaneamente aos autos, mais precisamente antes do próprio autor realizar o pagamento das diligencias para expedição de mandado de busca e apreensão e citação.
+Destaca-se do Tema 1040, decidido pelo Superior Tribunal de Justiça no âmbito das demandas repetitivas que "Na ação de busca e apreensão de que trata o Decreto-Lei nº 911/1969, a análise da contestação somente deve ocorrer após a execução da medida liminar".
+Isso demonstra que, antes do cumprimento do mandado de busca e apreensão, sequer haverá angularização da relação processual, sendo que eventual comparecimento da parte devedora, conforme ocorrido nos presentes autos, não enseja a aplicabilidade do princípio da causalidade.
+(..)
+Assim, é de se manter incólume a sentença extintiva" (fls. 225/226 e-STJ).
+O aresto combatido encontra-se em confronto com a jurisprudência do Superior Tribunal de Justiça no sentido de que, para o efeito da aplicação do artigo 90 do Código de Processo Civil, é cabível a condenação do autor em honorários advocatícios na hipótese de o pedido de desistência da ação ter sido protocolado após o comparecimento espontâneo do réu apresentando defesa, pois aperfeiçoada a relação processual.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. DESISTÊNCIA DA AÇÃO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ÔNUS DE SUCUMBÊNCIA. ART. 90 DO CPC/2015. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração.
+2. A desistência do processo atrai a norma do art. 90 do CPC/2015, que atribui à parte que desistiu o ônus pelo pagamento das despesas processuais e honorários advocatícios.
+3. O comparecimento espontâneo do réu, com a apresentação de defesa, importa angularização da relação processual, sendo devidos os honorários advocatícios em seu favor, pela parte autora que desistiu da ação, haja vista que a referida verba tem por escopo remunerar o esforço laboral desenvolvido pelo procurador da parte adversa.
+Precedentes.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial" (AgInt no AREsp nº 1.943.130/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HOMOLOGAÇAO DE PEDIDO DE DESISTÊNCIA DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO RÉU. CABIMENTO. EXEGESE DO ART. 90 DO CPC. CASO CONCRETO. DEMANDADO QUE OFERTOU RESISTÊNCIA AO PEDIDO DE ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DE CITAÇÃO FORMAL. DESINFLUÊNCIA.
+1. No caso concreto, a Corte de origem consignou que, embora o ente estatal tenha manifestado resistência ao pedido liminar formulado pela parte autora, os honorários advocatícios não poderiam ser arbitrados em virtude de uma questão formal, qual seja, a de que o pedido de desistência da ação foi requerido e homologado ainda antes de operada a citação.
+2. Porém, de acordo com a orientação deste Superior Tribunal, qualquer modalidade de resistência oposta à pretensão deduzida em juízo ensejará a condenação da parte autora em honorários advocatícios, ainda que seu pedido de desistência tenha sido formulado e homologado antes da citação do demandado, haja vista que a referida verba tem por fato gerador o esforço laboral desenvolvido pelo procurador da parte adversa.
+3. De resto, o cabimento de honorários advocatícios em favor do réu, em caso de desistência da ação, encontra expressa previsão no artigo 90 do CPC: "Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu".
+4. Agravo interno não provido" (AgInt no REsp nº 1.874.815/AC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. OFENSA À COISA JULGADA. INEXISTÊNCIA. INDEFERIMENTO LIMINAR. AÇÃO DE NULIDADE DE REGISTRO DE MARCA E AÇÃO INDENIZATÓRIA. FALTA DE IDENTIDADE DE CAUSA DE PEDIR E PEDIDO. DECISÃO MANTIDA.
+1. Não há falar em coisa julgada envolvendo ação cominatória e indenizatória por uso indevido de marca proposta contra empresa que utiliza marca semelhante à da autora, que tramitou na Justiça Comum estadual, e ação de nulidade de registro marca, proposta pela mesma autora contra a idêntica empresa e contra o INPI, decidida na Justiça Federal. Os elementos da demandas são diversos (art. 337, §§ 1º e 2º, do CPC/2015).
+2. Admite-se o indeferimento liminar da ação rescisória quando manifestamente improcedente o pedido (AgInt na AR n. 5.974/RN, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 2/6/2020, DJe 5/6/2020).
+3. Inadmitida liminarmente a ação rescisória, o comparecimento espontâneo da parte ré para se defender, mediante impugnação ao agravo interno, resulta na angularização da relação processual (art.
+239, § 1º, do CPC/2015), devendo ser arbitrados honorários em seu favor. Precedentes.
+4. Agravo interno a que se nega provimento" (AgInt na AR nº 6.868/DF, relator Ministro Antônio Carlos Ferreira, Segunda Seção, julgado em 9/11/2022, DJe de 14/11/2022).
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO COLETIVA. EXPURGOS INFLACIONÁRIOS. TRANSAÇÃO. EXEQUENTE. NÃO PARTICIPAÇÃO. CUMPRIMENTO INDIVIDUAL E PROVISÓRIO DA SENTENÇA. EXTINÇÃO. HONORÁRIOS SUCUMBENCIAIS. INDEVIDOS. PRINCÍPIO DA CAUSALIDADE.
+1. Trata-se de definir (i) a existência de omissão na prestação jurisdicional e (ii) a correta distribuição dos honorários sucumbenciais na hipótese em que o cumprimento individual da sentença coletiva, sob o rito do cumprimento provisório, é extinto sem atendimento da pretensão satisfativa, pela substituição, na ação coletiva, do título executivo judicial pendente de recurso por transação, celebrada entre o legitimado extraordinário e o devedor, excluindo-se por completo a pretensão ressarcitória até então reconhecida no título judicial provisório, com fundamento em um recorte temporal, e pondo fim à ação coletiva.
+(..)
+4. De ordinário, o sucumbente é considerado responsável pela instauração do processo e, assim, condenado nas despesas processuais. O princípio da causalidade, contudo, não permite a oneração da parte que não deu causa à extinção do processo.
+5. Caso concreto em que o cumprimento individual e provisório da sentença, que havia condenado ao pagamento de expurgos inflacionários, foi extinto, por transação entre o próprio devedor e o legitimado extraordinário, homologada na ação coletiva, em prejuízo do exequente e com fundamento em um recorte temporal, cuja causa de extinção não lhe pode ser atribuída.
+6. Nos cumprimentos provisórios e individuais de sentença propostos até a publicação da decisão de homologação do Acordo Coletivo nos autos do REsp nº 253.589/SP deverá ser aplicado o princípio da causalidade, para não se responsabilizar os poupadores pela verba honorária.
+7. Recurso especial parcialmente conhecido e, nessa extensão, não provido" (REsp 2.053.653/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/5/2023, DJe de 6/6/2023 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. DESISTÊNCIA DO PROCESSO. ART. 90 DO CÓDIGO DE PROCESSO CIVIL. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, o princípio da causalidade orienta que a sucumbência ficará a cargo daquele que deu causa à instauração da demanda ou do incidente. Precedentes.
+2. Se o autor desistir da demanda, será dele a responsabilidade pelo custo do processo (art. 90, caput, CPC).
+3. Agravo interno a que se nega provimento" (AgInt nos EDcl no AREsp 2.239.324/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023 - grifou-se).
+Ante o exposto, dou provimento ao recurso especial e determino o retorno dos autos ao Tribunal de origem para que fixe os honorários advocatícios em favor do recorrente, conforme entender de direito.
+Publique-se.
+Intimem-se.
+EMENTA
