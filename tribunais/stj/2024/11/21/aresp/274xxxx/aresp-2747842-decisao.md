@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por MARILENE RIBEIRO DA SILVA, PAULO PAULINO DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 156):
+APELAÇÃO. CONSTITUCIONAL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO, COM MORTE, ENVOLVENDO ANIMAL NA ESTRADA. INEXISTÊNCIA DE OMISSÃO ESPECÍFICA DO ESTADO. DANO MORAL NÃO CONFIGURADO. APELO PROVIDO. DECISÃO UNÂNIME.
+1. Em regra, a responsabilidade civil das pessoas jurídicas de direito público e das pessoas jurídicas de direito privado prestadoras de serviço público é de cunho objetivo e tem por base a teoria do risco administrativo, nos termos do art. 37, § 6º, da CF/88.
+2. Por outro lado, a responsabilidade civil do Estado por ato omissivo deve passar pela análise acerca da natureza dessa omissão, notadamente se específica ou genérica. No caso de uma omissão específica - quando a Administração Pública tem o dever legal de agir e não o faz - há de se aplicar a responsabilidade civil objetiva. Entretanto, sendo genérica a omissão, a responsabilidade deve ser tratada como de caráter subjetivo, com necessária comprovação da culpa, do dano e do nexo de causalidade (entre o dano e a omissão estatal).
+3. Ao Estado não cumpre ostensivamente fiscalizar a presença de animais nas estradas. O dever de impedir o avanço de animais e de cercá-los dentro de propriedades deve recair sobre o proprietário do animal e do respectivo imóvel. Apesar do dever de sinalizar e conservar as vias, não se pode atribuir ao ente público a qualidade de "garantidor universal", vale dizer, tornando de sua responsabilidade todo e qualquer evento ocorrido dentro do seu território, sem qualquer tipo de critério de consideração do nexo causal entre eventual omissão e o dano ocorrido.
+4. Recurso provido. Decisão unânime.
+No recurso especial obstaculizado, os recorrentes apontaram, além de dissídio pretoriano, violação dos arts. 20, 21 e 24 do CTB e do art. 82 da Lei n. 10.233/2001.
+Defendem que o DNIT e a União devem manter a rodovia devidamente sinalizada, estruturada e principalmente segura, trafegável e livre da circulação de animais e, por isso, são devidos danos morais e materiais no caso concreto.
+Contrarrazões às e-STJ fls. 185/191.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+No caso, o Tribunal a quo decidiu integralmente a controvérsia nos seguintes termos (e-STJ fls. 153/156):
+O cerne da controvérsia paira na responsabilidade estatal por morte decorrente de acidente automobilístico envolvendo animal na pista. Analisa-se, pois, eventual omissão estatal.
+Pois bem.
+Como se sabe, nos termos do art. 37, §6º, da CF/88, "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa".
+Nessa caminhada, em regra, a responsabilidade civil das pessoas jurídicas de direito público e das pessoas jurídicas de direito privado prestadoras de serviço público é de cunho objetivo e tem por base a teoria do risco administrativo, de sorte que, para a sua configuração - e o consequente dever de indenizar, faz-se necessário o preenchimento dos seguintes requisitos:
+a) ocorrência do dano;
+b) ação ou omissão administrativa;
+c) existência de nexo causal entre o dano e a ação ou omissão administrativa; e d) ausência de causa excludente da responsabilidade estatal.
+Por outro lado, no caso de ato omissivo do Estado, há divergências jurisprudenciais e doutrinárias acerca da responsabilidade civil aplicável.
+A meu sentir, a responsabilidade civil do Estado por ato omissivo deve passar pela análise acerca da natureza dessa omissão, notadamente se específica ou genérica. No caso de uma omissão específica - quando a Administração Pública tem o dever legal de agir e não o faz - há de se aplicar a responsabilidade civil objetiva.
+Entretanto, sendo genérica a omissão, a responsabilidade deve ser tratada como de caráter subjetivo, com necessária comprovação da culpa, do dano e do nexo de causalidade (entre o dano e a omissão estatal).
+À vista do caso ora em análise, tem-se que ao Estado não cumpre ostensivamente fiscalizar a presença de animais nas estradas. O dever de impedir o avanço de animais e de cercá-los dentro de propriedades deve recair sobre o proprietário do animal e do respectivo imóvel.
+Ora, a responsabilidade civil do Estado deve levar em conta a possibilidade de atuação estatal, levando em conta eventuais limites materiais que tornem impossível a sua intervenção.
+Nessa pensar, apesar do dever de sinalizar e conservar as vias, não se pode atribuir ao ente público a qualidade de "garantidor universal", vale dizer, tornando de sua responsabilidade todo e qualquer evento ocorrido dentro do seu território, sem qualquer tipo de critério de consideração do nexo causal entre eventual omissão e o dano ocorrido.
+ ..
+Diante do exposto, há de se concluir que a presença do animal na pista deflagrou nítido caso fortuito ou de força maior, situação que foge da esfera de controle da atuação estatal, rompendo o nexo causal. Assim, reforma da sentença é medida que se impõe.
+Por tais razões, VOTO pelo PROVIMENTO do apelo, para reformar a sentença impugnada, no sentido de julgar improcedente os pedidos formulados na inicial, condenando a parte autora no pagamento das custas e honorários advocatícios, estes no percentual de 10% sobre o valor atualizado da causa. (Grifos acrescidos)
+Considerado isso, observo que a contrariedade dos preceitos legais mencionados no apelo extremo não foi alvo de debate no julgado impugnado, nem foram opostos embargos de declaração na origem, o que denota a falta do indispensável prequestionamento e faz incidir, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Não bastasse isso, como se vê dos excertos acima transcritos, o Tribunal a quo decidiu a controvérsia à luz de fundamento eminentemente constitucional - interpretação do art. 37, § 6º, da CF/1988 - cujo exame compete, tão somente, ao Supremo Tribunal Federal por meio de recurso extraordinário.
+Assim, dada a incompetência desta Corte para a revisão da matéria, o apelo extremo manejado revela-se manifestamente inadmissível. Nesse sentido, consulte-se o AgRg no REsp 1.455.859/PR, rel. Ministro Sérgio Kukina, Primeira Turma, DJe 30/06/2016, e AgRg no REsp 1.576.158/DF, rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/09/2016.
+Com isso, fica prejudicada a análise do dissenso jurisprudencial suscitado (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
