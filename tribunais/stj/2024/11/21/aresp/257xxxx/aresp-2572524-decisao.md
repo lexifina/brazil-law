@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por ITA BRASIL CONSTRUTORA E INCORPORADORA LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. PRESTAÇÃO DE SERVIÇOS DE LAVANDERIA. NOTAS FISCAIS. DOCUMENTAÇÃO IDÔNEA. TAXA SELIC. INAPLICABILIDADE.
+1. De acordo com o artigo 700 do Código de Processo Civil-CPC, a ação monitória garante, com base em prova escrita sem eficácia de título executivo, o pagamento de quantia em dinheiro, entrega de coisa fungível ou infungível ou de bem móvel ou imóvel, bem como o adimplemento de obrigação de fazer ou de não fazer.
+2. Caracteriza-se pela inversão do contraditório. Cabe ao autor trazer prova escrita que permita um juízo de probabilidade em relação à existência do crédito. Ao réu cumpre, em embargos, afastar a presunção em favor do autor, com base na regra geral de distribuição dos ônus da prova.
+3. Embora a ré/apelante sustente a inviabilidade dos documentos apresentados pelas autoras/apeladas, a notificação extrajudicial, as notas fiscais, as planilhas e os e-mails trocados entre as partes constituem prova escrita da dívida. São suficientes ao ajuizamento da ação monitória.
+4. O que se verifica é uma relação jurídica bem estabelecida, estruturada e de trato sucessivo entre as partes. A ré/apelante sempre esteve ciente dos serviços prestados: as trocas de e-mails traduzem o negócio jurídico existente, com correção de planilhas (conferência realizada pela ré/apelante) e aval para emissão de notas fiscais e respectivos boletos. Ressalte-se que, por vezes, os ajustes requeridos pela ré eram tardios, o que ocasionou emissão de novas notas fiscais, com retificação do valor anterior ou, até mesmo, o cancelamento de outras notas quando não realizado o pagamento pelo serviço prestado.
+5. Os esclarecimentos prestados pelas apeladas são satisfatórios. Por outro lado, a apelante não se desincumbiu de seu ônus probatório. Não trouxe aos autos nenhum elemento apto a comprovar a existência de fato impeditivo, modificativo ou extintivo do direito das autoras (art. 373, I e II, do CPC).
+6. Os juros de mora devem ser calculados em 1% ao mês. "Em síntese, a Taxa de juros legais de que trata o art. 406 do CC/02 não pode corresponder a Taxa SELIC, porque (i) reflete os juros remuneratórios pagos nos empréstimos contraídos entre duas instituições bancárias e não os juros de mora devidos em caso de atraso no pagamento de tributos federais, como expressamente indicado no dispositivo em referência, (ii) seu valor fica demasiadamente sujeito ao arbítrio governamental, (iii) não se aproxima das taxas de juros reais praticadas em operações cotidianas, (iv) não é suficiente, muitas vezes, nem mesmo para vencer a inflação e, finalmente, (v) sua utilização torna incompatíveis, em muitas situações, as normas sintetizadas pelas Súmulas 54 e 362 do STJ." (Acórdão 1695863, 07038225520228070020, Relator: VERA ANDRIGHI, 6ª Turma Cível, data de julgamento: 26/4/2023, publicado no DJE: 15/5/2023).
+7. Recurso conhecido e não provido. Honorários majorados" (e-STJ fls. 368/369).
+No recurso especial (e-STJ fls. 388/395), a recorrente aponta violação do artigo 406 do Código Civil.
+Aduz, em síntese, que deve ser aplicada ao caso a Taxa Selic como critério único de juros e correção monetária, visto que não houve pactuação expressa de juros moratórios.
+Após a apresentação das contrarrazões (e-STJ fls. 402/409), o recurso foi inadmitido na origem, sobrevindo daí a interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+Discute-se no presente recurso o índice de atualização que deve incidir ao débito reconhecido na ação monitória ajuizada por Sunfresh Lavanderia Ltda. e RFPY Alimentos Eireli ME., ora recorridas, em desfavor de Ita Brasil Construtora e Incorporadora Ltda. ME, ora recorrente.
+O Tribunal de origem, mantendo a sentença proferida pelo magistrado de primeiro grau de jurisdição, entendeu pela inaplicabilidade da Taxa Selic sob o fundamento de que os juros de mora, nas condenações decorrentes de responsabilidade contratual e extracontratual civil, devem ser de 1% (um por cento ao mês).
+Sobre o tema, a jurisprudência do STJ consolidou-se no sentido de que, após a entrada do novo Código Civil, a incidência de juros moratórios submeter-se-á à regra contida no art. 406 deste último diploma, a qual, de acordo com precedente da Corte Especial, corresponde à Taxa Selic, ressalvando-se a não-incidência de correção monetária, pois é fator que já compõe a referida taxa.
+A propósito:
+"DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. NOTA PROMISSÓRIA. JUROS DE MORA. SENTENÇA ANTERIOR AO CÓDIGO CIVIL DE 2002. APLICAÇÃO DO NOVEL DIPLOMA LEGAL APÓS SUA VIGÊNCIA. POSSIBILIDADE. PRECEDENTE QUALIFICADO DA CORTE ESPECIAL. ART. 406 DO CC/2002. TAXA SELIC. CUMULAÇÃO COM CORREÇÃO MONETÁRIA. DESCABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.111.117/PR, Rel. p/ acórdão Min. Mauro Campbell Marques, DJ de 02.09.2010, sob o rito do art. 543-C do CPC/73, decidiu que o percentual de 6% ao ano deve incidir até 11 de janeiro de 2003. A partir daí, deve-se observar o disposto no art. 406 do CC/2002, "seguindo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional" (atualmente, a taxa SELIC).
+2. De acordo com o entendimento do STJ, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que se revela insuscetível de cumulação com quaisquer índices de correção monetária, sob pena de bis in idem.
+3. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no REsp n. 1.716.709/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/8/2024, DJe de 2/9/2024)
+De fato, a orientação jurisprudencial é no sentido de que "os juros moratórios devem ser pagos com base na taxa Selic, a não ser que outra taxa tenha sido contratada" (AgInt no REsp n. 1.995.734/AM, de minha relatoria, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de fixar a SELIC como índice de atualização do título executivo, sem cumulação com outro índice de correção monetária.
+Mantida a sucumbência fixada na origem.
+Publique-se.
+Intimem-se.
+EMENTA
