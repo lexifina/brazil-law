@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por SPE ORLA 1 LTDA - EM RECUPERACAO JUDICIAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fls. 1.218-1.219):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PEDIDO DE SUSPENSÃO DO FEITO EXECUTIVO. DEFERIMENTO RECUPERAÇÃO JUDICIAL. STAY PERIOD. CRÉDITO CONCURSAL. PROCESSO EM FASE DE ARREMATAÇÃO DE BENS PENHORADOS. COMPETÊNCIA DO JUÍZO UNIVERSAL. 1. Nos termos do art. 6º, § 4º, da lei 11.101/05, tratando-se de crédito concursal (art. 49, § 3º) e estando a execução individual em período de suspensão (stay period), compete ao juízo da recuperação judicial dispor acerca dos atos constritivos realizados em processo executivo individual, ainda que esteja em fase final de expropriação. Precedentes do STJ e desta Corte Estadual. 2. A Lei nº 14.112/2020 promoveu duas substanciais alterações na ordem de pagamento dos credores concursais, sujeitando-os ao concurso falimentar de credores e aos credores extraconcursais, quer dizer, os créditos extraconcursais devem ser pagos prioritariamente aos credores concursais. 3. No caso em tela, o crédito que se pretende assegurar a exequibilidade foi constituído antes da determinação de suspensão realizada pelo juízo recuperacional e não se caracteriza como extraconcursal, diante do rol taxativo da norma supra, mas, sim, como crédito concursal, devendo ser submetido ao juízo universal. 4. Os atos expropriatórios, inclusive a arrematação, devem ser mantidos e submetidos ao juízo competente, não havendo que se falar em desconstituição ou invalidade, diante da suspensão operada. AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO REFORMADA.
+Os embargos de declaração opostos pelo recorrente recorrido foram acolhidos em parte, sem efeitos modificativos, tão somente para esclarecer que houve a assinatura do auto de arrematação, mas que compete ao J uízo da recuperação judicial analisar o pleito relativo à nulidade do auto de arrematação (fls. 1.250 - 1.257).
+No recurso especial, alega violação do art. 76 da Lei n. 11.101/2005 e o art. 903 do CPC, visto que o acórdão "deixou de decretar a nulidade da assinatura do auto de arrematação, realizada após o deferimento de sua recuperação judicial" (fl. 1.266).
+Aduz que (fl. 1.270):
+14. Se, neste e. STJ, foi consolidado o entendimento de que a assinatura do auto de arrematação enseja a transferência da propriedade do bem alienado ao arrematante e, consequentemente, conclui a função jurisdicional executória, não pode o E. TJGO dispor de forma diversa nestes autos.
+15. Absolutamente necessária, por conseguinte, a reforma do referido entendimento, especialmente porque não se pode admitir a perfectibilização de arrematação levada a cabo por juízo incompetente.
+16. Ressalte-se, porque imprescindível, que o art. 76 da Lei 11.101/2005 estabelece a competência exclusiva do juízo da recuperação judicial para emanar atos constritivos a partir do deferimento da recuperação judicial, de forma que jamais poderia a d. juíza a quo ter prosseguido com o cumprimento de sentença em referência, assinando o auto de arrematação.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.281 - 1.286).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1291 - 1294), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1312 - 1317).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A respeito da alegada nulidade do auto de arrematação, o Tribunal de origem registrou que sua análise compete ao juízo da recuperação judicial, ainda que tenha sido assinado por juízo incompetente (fl. 1.255):
+Apesar de informar que houve omissão na análise do pleito de anulação do auto de arrematação relativo ao lote nº 17 (mov. 193), o acórdão foi suficientemente esclarecedor no sentido de que compete ao juízo recuperacional a análise da questão, diante do disposto no artigo 6º da Lei de Recuperação Judicial, haja vista que o caso versa sobre crédito concursal.
+Ademais, a título de complementação de fundamentação, o art. 64 , § 4º , do CPC, introduzindo dinâmica distinta daquela do CPC/1973, previu que os atos decisórios praticados por juízo incompetente conservam sua validade e eficácia até posterior manifestação do juízo competente, o qual, observados o contraditório e a ampla defesa, poderá ratificá-los ou não.
+Portanto, compete ao juízo da recuperação judicial analisar o pleito relativo à nulidade do auto de arrematação, à vista das alegações da parte agravante.
+O acórdão recorrido está de acordo com a jurisprudência desta Corte, no sentido de que os atos decisórios e instrutórios praticados por juízo incompetente podem ser ratificados pelo juiz natural competente e conservam conservam o seu efeito, até que outra decisão seja proferida pelo juízo declarado competente.
+Nesse sentido:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. VIOLAÇÃO NÃO CONFIGURADA. NÃO CABIMENTO. EFEITO DA DECISÃO DO JUÍZO INCOMPETENTE. ART. 64, § 4º, DO CPC/15. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Nos termos do art. 64, § 4º, do CPC/2015, as decisões proferidas em juízo incompetente em regra conservam o seu efeito, até que outra seja proferida pelo juízo declarado competente. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt nos EDcl no AREsp n. 1.958.905/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. RELAÇÃO DE CONSUMO. COMPETÊNCIA ABSOLUTA. DOMICILIO DO CONSUMIDOR. EFEITO DA DECISÃO DO JUÍZO INCOMPETENTE. EXEGESE DO ART. 64, §4º, DO CPC.
+1. Ação de busca e apreensão.
+2. Tratando-se de relação de consumo, na qual a competência para julgamento da demanda é de natureza absoluta, deve a ação ser interposta no domicílio do consumidor.
+3. Não compete a esta Corte proceder a cassação da decisão do juiz singular incompetente que deferiu o pedido de liminar formulado pela parte agravada, uma vez que, conforme preceitua o art. 64, § 4º, do CPC, as decisões proferidas em juízo incompetente em regra conservam o seu efeito, até que outra seja proferida pelo juízo declarado competente.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.449.023/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/4/2020, DJe de 23/4/2020.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CRÉDITO CONCURSAL. PROCESSO EM FASE DE ARREMATAÇÃO DE BENS PENHORADOS. COMPETÊNCIA DO JUÍZO UNIVERSAL DA RECUPERAÇÃO JUDICIAL. EFEITO DA DECISÃO DO JUÍZO INCOMPETENTE. EXEGESE DO ART. 64, §4º, DO CPC. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
