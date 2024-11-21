@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por KELY TATIANA COSTA RODRIGUES contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 55):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA. REGRA DO ART. 833, INCISO IV, DO CPC. FLEXIBILIZAÇÃO. POSSIBILIDADE. NÃO COMPROVAÇÃO DE QUE OS VALORES CONSTRITOS CONSTITUEM REMUNERAÇÃO DE TRABALHO AUTÔNOMO. DECISÃO MANTIDA.
+1. Ausente a comprovação de que os valores penhorados em contas de titularidade da agravante constituem remuneração de trabalho autônomo ou verba de natureza salarial, a teor do artigo 833, inciso IV, do CPC, acertada se mostra a manutenção da penhora do numerário a fim de saldar dívida contraída voluntariamente pela executada.
+2. O Superior Tribunal de Justiça caminha no sentido da relativa flexibilização da norma inserta no artigo 833, inciso IV, do CPC. Como qualquer regra, a norma protetiva do salário, conquanto vise garantir a dignidade do ser humano, não pode ser inflexível, pois o crédito do exequente também possui proteção do ordenamento jurídico. Assim, não pode o exequente ser privado do direito de obter a satisfação de seu crédito sob a premissa inexorável de que o salário não pode ser penhorado, notadamente quando outros bens e direitos do devedor não são localizados.
+3. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 92/97).
+No recurso especial (e-STJ fls. 110/124), a parte recorrente aponta violação do art. 833, IV, e § 2º, do CPC/2015, alegando a impenhorabilidade dos valores penhorados, uma vez que decorrentes do exercício de trabalho autônomo.
+As contrarrazões foram oferecidas.
+O recurso especial não foi admitido (art. 1.030, V do CPC/2015) em razão da incidência da Súmula 7 do STJ (e-STJ fls. 149/150).
+No agravo em recurso especial (e-STJ fls. 154/162), a parte agravante alega que, "ao indeferir o processamento do Recurso Especial, o TJDFT realizou análise do mérito do recurso, usurpando a competência do Tribunal ad quem, ou seja, do STJ" (e-STJ fl. 157). Afirma, ainda, que "não se encontra no Recurso Especial inadmitido pretensão alguma de reabrir discussão fatídica e exame das provas, mas, tão somente, repita-se, do emprego acertado da interpretação de lei federal e sua aplicação, bem como da jurisprudência pacificada do Superior Tribunal de Justiça no que tange à configuração do exercício de penhora em situação protegida pela legislação vigente" (e-STJ fl. 158).
+A contraminuta foi apresentada.
+Passo a decidir.
+O Tribunal de origem não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+Contudo, nas razões do agravo, a parte agravante limita-se a sustentar genericamente que "não há que se falar em óbice da Súmula 7, haja vista que não se encontram presentes os requisitos restritivos do seu enunciado" (e-STJ fl. 158). Embora tenha transcrito trecho do acórdão recorrido, não evidenciou que as premissas fáticas estariam delineadas de forma suficiente para a apreciação da tese recursal.
+Assim, constata-se que a parte não impugnou específica e adequadamente a incidência do referido enunciado.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp 1.694.099/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022.).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
