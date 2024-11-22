@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por WAGNER VINICIUS PESSOA BRANDAO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento. Execução de título extrajudicial. Incidente de desconsideração da personalidade jurídica. Abuso caracterizado. Inadimplemento e esvaziamento patrimonial da empresa executada. Coexistência de empresas, constituídas pelos mesmos sócios, com atividades idênticas. Decisão mantida. Recurso improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 50, caput e § 4º do CC; e 134, § 4º, do CPC, no que concerne à ausência de demonstração dos requisitos autorizativos para a desconsideração da personalidade jurídica da empresa pela parte recorrida, porquanto, esta não se desincumbiu de seu ônus de comprovar suposto abuso de personalidade, desvio de finalidade ou confusão patrimonial para fins de responsabilização de sócio de maneira pessoal, trazendo a seguinte argumentação:
+A desconsideração da personalidade jurídica foi criada para punir fraudes e abusos cometidos pelos sócios de empresas, valendo-se da autonomia patrimonial da pessoa jurídica.
+Os requisitos para a desconsideração da personalidade jurídica incluem o desvio de finalidade, que sugere uma fuga dos objetivos sociais da pessoa jurídica, e a confusão patrimonial, que pode ser caracterizada quando o sócio utiliza o patrimônio da pessoa jurídica para realizar pagamentos pessoais e vice-versa.
+ ..
+No presente caso, a recorrida não se desincumbiu de seu ônus de comprovar o abuso da personalidade jurídica, o desvio de finalidade, a confusão patrimonial ou o uso da sociedade empresária para ocultar seu patrimônio no momento da propositura do incidente. A mera alegação, desprovida de provas substanciais, não é suficiente para autorizar a desconsideração da personalidade jurídica e a responsabilização do sócio de forma pessoal.
+ ..
+Portanto, não havendo os requisitos legais para a desconsideração da personalidade jurídica, o presente recurso requer que seja julgado totalmente improcedente o incidente de desconsideração, com a consequente condenação da recorrida ao pagamento de custas processuais e honorários advocatícios (fls. 49-52).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+"In casu", o acervo probatório coligido informa elementos suficientes ao apontamento do uso abusivo da personalidade jurídica da empresa executada, eis que, ao lado do inadimplemento e do esvaziamento patrimonial, a exequente logrou demonstrar que as empresas Brandão & Destro Ltda. (executada) e WF Circuitos Impressos Ltda. apresentam identidade entre os sócios Fernando e Wagner, estão localizadas em endereços e imóveis contíguos (Rua Caetano Alberti, números 76 e 62), além de ostentarem a mesma atividade principal e secundária ("Fabricação de componentes eletrônicos" e "Fabricação de adesivos e selantes").
+Destarte, resta caracterizado o abuso da personalidade jurídica, com inadimplemento de valores, esvaziamento patrimonial da empresa executada e constituição de empresas, pelos mesmos sócios, com atividades idênticas, de forma que se impõe a manutenção da r. decisão agravada (fl. 28, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
