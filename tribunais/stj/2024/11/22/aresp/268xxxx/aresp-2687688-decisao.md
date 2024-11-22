@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SUL AMÉRICA SEGUROS DE PESSOAS E PREVIDÊNCIA S.A. (SUL AMÉRICA) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta.
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, alínea a, da CF, SUL AMÉRICA alegou ofensa aos arts. (1) 757 e 789, ambos do CC/02, defendendo que, considerando que o Capital Segurado vigente na data do sinistro era de R$ 25.799,00, o qual foi integralmente pago pela Cia. seguradora na via administrativa, não há qualquer complementação devida ao segurado", sendo que "ao aplicar a correção monetária desde a data da Tabela (29/09/2006) e não considerar o valor do Capital Segurado já atualizado para a última renovação (01/05/2020), o Acórdão recorrido impôs a seguradora o pagamento de Capital Segurado em valor muito superior ao contratado, desproporcionalmente ao valor do prêmio recebido; (2) 801 do CC/02, alegando que o acórdão recorrido foi baseado em tabela diversa da contratada, bem como era da estipulante o dever de informação; e (3) 405 do CC/02 e 240 do CPC, aduzindo que os juros de mora devem ser contados a partir da citação (e-STJ, fls. 1.280/1.291).
+No mais, verifica-se, de plano, que o conteúdo normativo referente a todos os dispositivos de lei apontados no apelo nobre não foi objeto de debate no v. acórdão recorrido, carecendo, portanto, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pela Corte de origem, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que se tenha emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo tendo sido opostos embargos de declaração.
+Incide, quanto ao ponto, o óbice da Súmula n. 282 do STF, por analogia, a qual estabelece que é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Além disso, destaca-se que, nas razões do especial, SUL AMÉRICA não apresentou argumentos claros e concatenados que pudessem esclarecer os fundamentos ou motivos pelos quais entendeu violado os mencionados dispositivos. Por conseguinte, não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula n. 284 do STF, por analogia.
+Ainda que superados os óbices acima, o Tribunal paranaense, soberano na análise da prova, asseverou que
+ ..  Cinge-se a discussão quanto ao dever de complementação da indenização securitária.
+Sobre o dever de informação do estipulante perante os segurados, o STJ fixou a seguinte tese no do julgamento do tema repetitivo nº 1.112:
+"(i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre, e
+(ii) não se incluem, no âmbito da matéria afetada, as causas originadas de estipulação imprópria e de falsos estipulantes, visto que as apólices coletivas nessas figuras devem ser consideradas apólices individuais, no que tange ao relacionamento dos segurados com a sociedade seguradora" - grifei.
+Todavia, na espécie, a própria cláusula oitava do contrato de seguro de vida em grupo firmado com a Associação dos Funcionários Municipais Londrina, do qual o falecido era segurado, prevê que "os SEGURADOS PRINCIPAIS que estavam na apólice anterior da SulAmérica nr 205, no início deste seguro seu CAPITAL SEGURADO é o do mesmo valor do capital segurado, que estavam na apólice anterior da SulAmérica nr 205" (págs. 8/9 do mov. 23.4 dos autos conexos sob nº 0072300-96.2020.8.16.0014).
+Ou seja, aos segurados que já possuíam apólice anterior, sob nº 205, que foi migrada para a apólice sob nº 14959 junto à apelante, deveriam permanecer com o mesmo valor do capital segurado anteriormente previsto, não cabendo a atualização anual prevista para os novos segurados.
+Inclusive, em caso muito semelhante, envolvendo também a ora apelante, este Tribunal de Justiça já se posicionou no sentido da prevalência da cláusula contratual expressa no sentido de manutenção da quantia prevista em apólice anterior após migração de contrato.
+ ..
+Logo, a sentença comporta manutenção.
+Com relação à correção monetária, de acordo com o entendimento deste Tribunal de Justiça ( 1 ), ela deve incidir, nos casos de migração de apólice, desde a data do documento que comprova o valor do capital segurado, qual seja, 29.09.2006 (mov. 1.11), conforme constou da sentença.
+Igualmente correta a sentença, ao fixar os juros de mora desde a data do pagamento a menor na via administrativa ( 2 ).
+Por fim, com o resultado aqui proposto, aplico ao caso o art. 85, § 11, do CPC e majoro os honorários advocatícios para 15% sobre o valor da condenação (e-STJ, fl. 1.272/1.275 - sem destaques no original).
+Desse modo, modificar o entendimento do acórdão impugnado, da forma como trazida no apelo nobre, demandaria o reexame do contrato e do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7, ambas do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO de 15% para 20% o valor dos honorários advocatícios anteriormente fixados em favor de ISOEL CARRARA, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO DE VIDA EM GRUPO. COMPLEMENTAÇÃO DA INDENIZAÇÃO SECURITÁRIA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 282 E 284, AMBAS DO STF. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
