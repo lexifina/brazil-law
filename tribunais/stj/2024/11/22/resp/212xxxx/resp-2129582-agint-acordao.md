@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. IRRESIGNAÇÃO RECURSAL. DEFICIÊNCIA
+1. A Corte regional não emitiu juízo de valor sobre os arts. 281 e 283 do CPC/2015, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Hipótese em que a parte recorrente fez menção genérica a dispositivo de lei federal, sem demonstrar em que medida teria havido ofensa, incidindo, por analogia, o óbice da Súmula 284 do STF.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por JOSÉ CARLOS GRATZ contra decisão de minha lavra, em que não conheci do recurso especial ante a incidência da Súmula 211 do STJ e Súmula 284 do STF (e-STJ fls. 3.948/3.952).
+O agravante sustenta que "a violação aduzida neste apelo se refere apenas ao conteúdo normativo dos artigos 281 e 283 do CPC/2015, que trata justamente do aproveitamento dos atos processuais nos casos de nulidades, e, conforme bem destacado nos pedidos recursais, é possível perceber que, de fato, a questão foi devidamente prequestionada nos autos" (e-STJ fl. 3.964).
+Esclarece que a Corte regional "ao tratar da possibilidade de nulidade apenas parcial do julgamento da apelação, consignou frontalmente pela inaplicabilidade dos dispositivos dos arts. 281 e 283 do CPC, por entender que eventual declaração de nulidade de forma parcial prejudicaria a técnica de julgamento ampliado do art. 942 do CPC" (e-STJ fl. 3.965).
+Afirma que, para configuração de prequestionamento ficto, basta apenas a oposição dos embargos declaratórios.
+Aduz, ainda, que "a violação ao art. 135, III, do CTN, mencionada apenas para efeito de fundamentação, dá-se apenas de forma reflexa aos direitos do Recorrente, não se confundindo, no entanto, com a questão efetivamente recorrida, restrita à ofensa dos arts. 281 e 283 do CPC/2015, pelo que prescinde de expressa fundamentação" (e-STJ fl. 3.972).
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo legal, a agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. IRRESIGNAÇÃO RECURSAL. DEFICIÊNCIA
+1. A Corte regional não emitiu juízo de valor sobre os arts. 281 e 283 do CPC/2015, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Hipótese em que a parte recorrente fez menção genérica a dispositivo de lei federal, sem demonstrar em que medida teria havido ofensa, incidindo, por analogia, o óbice da Súmula 284 do STF.
+3. Agravo interno desprovido.
+VOTO
+A irresignação recursal não merece prosperar.
+Cuida-se, na origem, de embargos à execução fiscal em que se objetiva a declaração de ilegitimidade para figurar no polo passivo do feito executivo.
+Em primeiro grau de jurisdição, o Juízo da 4ª Vara Federal de Execução Fiscal do Espírito Santo julgou procedentes os embargos apenas para afastar a responsabilidade tributária do embargante pelo débito fiscal versado na execução fiscal de n. 2007.50.01.009047-4, determinando sua exclusão do polo passivo daquela ação (e-STJ fl. 3.615).
+Irresignada, a Fazenda Nacional interpôs recurso de apelação, o qual foi provido "para julgar improcedente o pedido formulado na inicial, sem condenação da parte aos honorários de sucumbência, em razão da cobrança do encargo de 20% contido no título executivo embargado, substitutivo da verba honorária" (e-STJ fls. 3.791).
+Em sede de embargos declaratórios foi anulado o julgamento da apelação, com a inclusão do feito em pauta para novo julgamento, nos seguintes termos (e-STJ fls. 3.837/3.838):
+Nos termos do artigo 1.022 do CPC, cabem embargos de declaração contra qualquer decisão judicial para o esclarecimento de obscuridade, para eliminar contradição e suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz, ou para correção de erro material.
+É de se destacar, portanto, que os embargos de declaração não se prestam a corrigir possíveis erros de julgamento (STF, RE nº 194.662, Min. Marco Aurélio, Pleno, julgado em 14/05/2015, Info-785). O efeito modificativo ou infringente dos embargos de declaração é uma medida excepcional, porquanto sua função típica não é a de modificar o resultado da decisão, mas sim esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material.
+Consoante relatado, sustenta o embargante, inicialmente, a existência de omissão no acórdão por não examinar a arguição de nulidade do voto proferido pela Des. Federal Carmen Silva Lima de Arruda, sob o fundamento de que o julgamento foi retomado por aplicação da técnica do julgamento estendido sem prévia intimação dos advogados, bem como que a magistrada não presenciou a sustentação oral, tampouco os votos anteriores.
+Quanto a este vício suscitado, tem-se que o artigo 942 do CPC, que dispõe sobre a técnica do julgamento ampliado, prevê no § 1º a possibilidade de prosseguimento do julgamento na mesma sessão, in verbis: § 1º. Sendo possível, o prosseguimento do julgamento dar-se-á na mesma sessão, colhendo-se os votos de outros julgadores que porventura componham o órgão colegiado.
+Logo, afasta-se a suscitada nulidade por falta de intimação dos patronos, tendo em vista que os advogados foram devidamente intimados da sessão de julgamento por meio da disponibilização em 06/10/2022 no diário eletrônico (evento 18), ocasião em que é legalmente prevista a possibilidade de prosseguimento do julgamento com base na aludida técnica de julgamento ampliado.
+No que tange à nulidade do julgamento em razão de a Desembargadora Federal Carmen Silvia Lima de Arruda, que compôs o quórum ampliado in casu, ter proferido seu voto sem ter presenciado a manifestação oral do patrono, reconheço que assiste razão ao embargante.
+Isso porque vislumbra-se que, após o resultado parcial do julgamento da apelação pela Quarta Turma, que se deu de forma não unânime, ampliou-se o quórum nos termos do artigo 942 do CPC, tendo sido prolatado na sequência o voto da Juíza Federal Convocada Geraldine Vital, acompanhando a divergência, e aguardou-se o retorno da Desembargadora Federal Carmem Silvia para proferimento de seu voto, que o fez posteriormente, consoante se verifica das notas taquigráficas constantes do evento 23.
+Também depreende-se deste documento que, durante a sessão estendida, não foi oportunizado ao embargante a possibilidade de expor novamente sua manifestação oral ante esta magistrada, que compôs o quórum de julgamento ampliado e que não estava presente quando da primeira sustentação oral, como está assegurado pela disposição final do caput do artigo 942 do CPC, in verbis:  ..
+Sendo assim, não há como não ser acolhida a nulidade suscitada pela parte embargante, motivo pelo qual deve ser anulado o acórdão de julgamento da apelação, com a posterior inclusão do feito em pauta para realização de novo julgamento, respeitando-se as regras processuais.
+Por conseguinte, deixa-se de apreciar os demais argumentos ventilados nas razões recursais do embargante.
+Ante o exposto, voto no sentido de conhecer dos embargos de declaração e dar-lhes provimento, com atribuição de efeitos infringentes, para determinar a anulação do acórdão embargado, nos termos da fundamentação acima exposta.
+Conforme assentado na decisão agravada, a Corte regional não emitiu juízo de valor sobre o disposto nos arts. 281 e 283 do CPC/2015, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incide na espécie, assim, o óbice da Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", ao prescrever :
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017), o que não ocorreu no caso.
+Além disso, registro que houve sim a indicação de ofensa ao art. 135, III, do CTN nas razões de recurso especial, consoante se extrai do seguinte trecho (e-STJ 3.917/3.918):
+Consoante já dito alhures, o presente recurso especial está calcado nos permissivos contidos no artigo 105, III, alínea "a", da Constituição Federal, tendo em vista que o v. Acórdão de Evento de Processo n. 150 contrariou os artigos 76 e 272, §5º do CPC; e o art. 135, III do CTN (grifos acrescidos).
+Dito isso, cumpre destacar que, quanto à alegada afronta ao referido dispositivo, não há nas razões recursais a necessária demonstração de como teria o acórdão recorrido vulnerado o art. 135, III, do CTN, o que atrai o óbice contido na Súmula 284 do STF.
+Irreparável, portanto, a decisão agravada.
+Por último, d eixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
