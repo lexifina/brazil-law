@@ -1,0 +1,33 @@
+DECISÃO
+INTECNIAL S. A. -EM RECUPERAÇÃO JUDICIAL suscita conflito de competência com pedido de liminar em que aponta como suscitados o Juízo de Direito da 1ª Vara Cível de Erechim/RS e o Juízo da 3ª Vara do Trabalho de Lages/SC.
+A suscitante afirma que, em 17/5/2016, foi deferido o processamento da recuperação judicial pelo Juízo de Direito da 1ª Vara Cível de Erechim.
+Relata que foi realizada a assembleia geral de credores e homologada a aprovação do plano de recuperação judicial. Afirma que, em 13/12/2017, o Juízo Direito da 1ª Vara Cível de Erechim concedeu-lhe a recuperação judicial.
+Sustenta que o Juízo da Juízo da 3ª Vara do Trabalho de Lages/SC determinou o prosseguimento dos atos executórios em desfavor da empresa recuperanda.
+Aponta a existência de conflito positivo de competência e defende a exclusividade do Juízo da recuperação judicial para a adoção de atos constritivos relativos a seu patrimônio.
+Postula, liminarmente, o sobrestamento da "reclamatória trabalhista nº 0000964-80.2022.5.12.0060 até a decisão do presente conflito de competência, designando-se, em caráter provisório, o E. Juízo da Recuperação Judicial (Juízo da 1ª Vara Cível do Foro da Comarca de Erechim/RS), com a imediata suspensão de qualquer ordem de pagamento e/ou medida de constrição, penhora ou levantamento de bens da suscitante pelo credor Reclamante" (fl. 16 e-STJ).
+Na decisão de fls. 241/243 e-STJ , foi deferido parcialmente o pedido de liminar.
+Os juízos suscitados prestaram as informações solicitadas (fls. 248/255 e 257/261 e-STJ).
+O Ministério Público Federal, em parecer (fls. 263/267 e-STJ), opinou pela declaração de competência do juízo universal.
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Verifica-se que o tema não é novo nesta Corte, que já firmou entendimento no sentido de que, após o deferimento da recuperação judicial, é do Juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa.
+O Superior Tribunal de Justiça também já decidiu que, no caso de deferimento da recuperação judicial, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito, sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação.
+Nesse sentido:
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. ATOS DE CONSTRIÇÃO. PROSSEGUIMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça considera ser da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento.
+2. Agravo interno desprovido."
+(AgInt nos EDcl no CC 165.079/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 5/5/2020, DJe 85/2020)
+"AGRAVO INTERNO NO PEDIDO DE RECONSIDERAÇÃO NO CONFLITO DE COMPETÊNCIA. CONFLITO POSITIVO. SOCIEDADE CUJOS BENS ESTÃO SOB CONSTRIÇÃO DO JUÍZO FALIMENTAR. MEDIDAS DE CONSTRIÇÃO DETERMINADAS, TAMBÉM, PELO JUÍZO TRABALHISTA, DE BENS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. SUSTAÇÃO QUE SE IMPÕE. ARREMATAÇÃO DE IMÓVEL DE TITULARIDADE DA SUSCITANTE. DECISÃO DE EXPEDIÇÃO DA CARTA DE ARREMATAÇÃO E DO MANDADO DE IMISSÃO DE POSSE POSTERIOR AO JULGADO QUE SUBMETEU A EMPRESA REQUERENTE A PROCESSO FALIMENTAR, BEM COMO POSTERIOR À DATA DE PROPOSITURA DO RESPECTIVO INCIDENTE. POSSIBILIDADE DE DESCONSTITUIÇÃO. CONFLITO CONHECIDO, COM DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR. QUESTÕES LEVANTADAS APENAS NO AGRAVO INTERNO. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É iterativo o entendimento do STJ, no sentido de que compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento. Precedentes.
+2. Há que se deixar assente, ainda, que, a despeito de o art. 49 da Lei n. 11.101/2005 assegurar que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", deve ser garantido o direito de preferência do crédito nascido após o pedido de recuperação e, ao mesmo tempo, direcionar o pagamento desses créditos ao Juízo recuperacional que, ciente da não submissão dos referidos valores à recuperação judicial, deverá sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, bem como a solidez do fluxo de caixa da empresa em recuperação. Precedentes.
+3. Nos termos da jurisprudência desta Corte Superior, pode ser desconstituída a arrematação de bens da empresa submetida à recuperação judicial ou à falência, quando o deferimento do pedido de soerguimento e o decreto de indisponibilidade de bens no processo falimentar forem anteriores ao aperfeiçoamento da arrematação, com a expedição da respectiva carta de arrematação, como na hipótese. Precedente.
+4. As questões levantadas apenas no âmbito do agravo interno são insuscetíveis de conhecimento, por caracterizarem indevida inovação recursal e, com isso, preclusão consumativa.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido."
+(AgInt no RCD no CC 155.496/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 31/3/2020, DJe 6/4/2020)
+Caberá, portanto, ao juízo universal a prática de qualquer ato de execução voltado contra o patrimônio da empresa recuperanda.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Cível de Erechim/RS.
+Intimem-se.
+Oficiem-se.
+Publique-se.
+EMENTA
