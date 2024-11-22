@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO VERIFICADA. ARTS. 489 E 1.022 DO CPC NÃO VIOLADOS. FALHA. PRESTAÇÃO DE SERVIÇOS. INEXISTÊNCIA. CULPA EXCLUSIVA DA RECORRENTE.
+1.  Na espécie, não houve violação dos artigos 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+2. Na hipótese, ao decidir os embargos de declaração, o tribunal de justiça concluiu que não houve falha na prestação dos serviços por parte do fornecedor. Não importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RENATA APARECIDA POCRIFKA BENATTI contra decisão que conheceu do agravo para conhecer do recurso especial e negar-lhe provimento (e-STJ fls. 326/329).
+Nas razões do agravo (e-STJ fls. 333/337), a agravante alega, em síntese, que há omissão no aresto atacado, tendo em vista que deixou de analisar falha da recorrida no dever de prestar informação, pois "transmitiu uma mensagem imprecisa ao consumidor, o que lhe gerou uma série de transtornos, incluindo a impossibilidade de usufruir de um bem essencial como o aparelho telefônico" (e-STJ, fl. 335).
+Salienta que o recurso não visa à rediscussão das matérias, mas, sim, que seja analisado se houve ou não o enfrentamento das questões, "sendo que tais pontos, por si só, seriam suficientes para que o resultado do julgamento fosse diferente, demonstrando a afronta ao art. 489, § 1º, IV do CPC" (e-STJ fl. 336).
+Ao final, requer a reforma da decisão atacada.
+Devidamente intimada, a parte agravada não ofereceu impugnação (e-STJ fl. 341).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO VERIFICADA. ARTS. 489 E 1.022 DO CPC NÃO VIOLADOS. FALHA. PRESTAÇÃO DE SERVIÇOS. INEXISTÊNCIA. CULPA EXCLUSIVA DA RECORRENTE.
+1.  Na espécie, não houve violação dos artigos 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+2. Na hipótese, ao decidir os embargos de declaração, o tribunal de justiça concluiu que não houve falha na prestação dos serviços por parte do fornecedor. Não importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta.
+3. Agravo interno não provido.
+VOTO
+A irresignação não merece acolhida.
+Nas razões do especial (e-STJ fls. 273/279), a recorrente aponta negativa de vigência dos arts. 489, § 1º, IV, 1.022 e 1.025 do CPC. Sustenta, em síntese, a nulidade do acórdão por não suprir a omissão apontada nos aclaratórios, qual seja, a falha no dever de informação ao consumidor.
+Ao contrário do que alega a ora agravante, o aresto atacado não padece de omissão, pois o tribunal de origem, ao decidir os embargos de declaração, concluiu que não houve falha na prestação dos serviços por parte do fornecedor. É o que se extrai da seguinte passagem:
+"(..) portanto, que a responsabilidade do fornecedor no mercado de consumo é objetiva, fundada na teoria do risco da atividade, independendo da comprovação de culpa. Ademais, extrai-se do referido dispositivo legal que o dever de reparar os danos abrange tanto os causados no âmbito patrimonial, como na esfera moral do consumidor.
+Todavia, o fornecedor de produtos não será responsabilizado quando provar que não houve falha ou que o evento ocorreu por culpa exclusiva da vítima ou de terceiros, conforme preconiza o artigo 18 do Código de Defesa do Consumidor.
+(..)
+Assim sendo, compulsando os autos, denota-se que a autora, embora tenha procurado solucionar o problema por diversas vezes com a empresa ré, deixou de apresentar os documentos necessários para proceder ao desbloqueio do seu aparelho celular, com a apresentação de nota fiscal e documento com foto.
+Veja bem, a exigência de apresentação da nota fiscal, para casos como este, não pode ser considerado como indevida. Isso porque protege o consumidor da liberação inadequada a terceiros, porquanto havendo o relaxamento desta exigência, facilitaria que fraudadores fizessem uso do bem móvel.
+Ademais, a parte autora sequer apresentou justificativa plausível para a negativa de expor a nota fiscal. Aliás, o simples argumento de não possuir o documento não se mostra viável, visto que poderia solicitar umas segunda via junto ao estabelecimento comercial.
+Assim sendo, resta imperioso ressaltar que a exclusão da responsabilidade se verifica quando o fornecedor prova que, tendo prestado o serviço, o defeito inexiste ou que a culpa é exclusiva de terceiro ou do próprio consumidor, concernindo esta última à hipótese dos autos.
+In casu, a ré afirma quanto à impossibilidade de desbloqueio do aparelho, em razão da obrigação do usuário, qual seja, apresentação dos documentos de segurança necessários, consoante se extrai de todo o pleito processual. Veja bem, a operadora de telefonia ré não se insurge em relação ao desbloqueio do aparelho, entretanto segue normas de segurança inerentes ao serviço prestado, sendo, portanto, imprescindíveis para a eficiência e a proteção dos usuários. Isso porque, na situação hipotética de desbloquear o aparelho para um terceiro fraudador, aí sim haveria falha na prestação do serviço.
+Em diálogo de fontes, sobre o tema, o art. 186 do Código Civil dispõe: "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito".
+Ainda, conforme preceitua o art. 927 do Código Civil, são necessários três requisitos para configurar a obrigação de reparar o dano: a conduta ilícita, a demonstração da ocorrência do dano e o nexo causal entre o primeiro e o segundo.
+Entretanto, como visto alhures, não há, no presente caso, conduta ilícita da ré, tendo em vista a culpa exclusiva da consumidora, que não apresentou os documentos necessários para o desbloqueio do aparelho.
+A esse respeito, ainda que o diploma consumerista preveja inversão do ônus da prova em favor do consumidor, não o isenta de trazer ao processo judicial um lastro probatório mínimo acerca dos fatos constitutivos do seu direito, Além disso, a empresa, ora apelada, demonstrou fato extintivo do direito da autora, a qual, diga-se, sequer nega a falta de apresentação do documento" (e-STJ fl. 254- grifou-se).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+As razões do presente agravo não são suficientes para reformar a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
