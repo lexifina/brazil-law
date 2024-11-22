@@ -1,0 +1,12 @@
+DECISÃO
+MARCOS OTORIBIO MACHADO DA ROSA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0001746-53.2024.8.21.7000, em que foi mantida a determinação de transferência do recorrente para o Complexo Prisional de Canoas.
+Assere a defesa que, "ausente fundamento idôneo para manter a transferência decretada em relação ao recorrente para a PECAN, necessário o provimento do recurso para que o recorrente retorne imediatamente para a Penitenciária Modulada Estadual de Osório - PMEO" (fl. 100).
+Com efeito, a Corte de origem, ao examinar o writ lá impetrado, destacou que "pelo que se pode observar, houve pedido expresso do Diretor da Penitenciária Modulada Estadual de Osório para transferência dos presos, dentre eles o paciente, devido as situações inaceitáveis de ameaças a Agentes de Segurança em serviço, tanto da Polícia Penal, quando da Polícia Civil, de forma direta durante intervenção ou supostamente se utilizando de meio ilícito, aparelho celular, enquanto preso, solicitando a transferência temporária dos apenados anteriormente citados, como medida cabível a segurança organizacional e funcional desta Penitenciária" (fl. 70, sublinhei).
+A esse respeito, afirmou o Superior Tribunal de Justiçae, em situação assemelhada, que " o s fundamentos adotados no v. acórdão, se coadunam com a jurisprudência desta Corte de Justiça no sentido de que, em casos de extrema e comprovada necessidade, é possível a autorização imediata de transferência do preso e sua inclusão cautelar no RDD, pois a ausência de oitiva prévia não é capaz de macular o procedimento, considerando o caráter emergencial da medida que poderá ser posteriormente suprida com o contraditório diferido" (RHC n. 103.368/BA, Rel. Ministro Felix Fischer, 5ª T., DJe 12/12/2018, grifei).
+No mesmo sentido:
+ ..
+4. A ausência de oitiva prévia da defesa da decisão que determina a transferência provisória de apenados para estabelecimento penitenciário federal não implica em ofensa aos princípios do contraditório e da ampla defesa. Precedentes  ..  (AgRg no REsp n. 1.732.152/RN, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/5/2018).
+Portanto, dado o caráter emergencial da medida adotada pelo Juízo de primeira instância, não há que se falar em constrangimento ilegal diante da supressão do contraditório prévio.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
