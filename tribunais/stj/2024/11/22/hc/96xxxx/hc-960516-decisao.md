@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Rafael da Silva Pereira, em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, que, por maioria, denegou o Habeas Corpus criminal n. 5215442-87.2024.8.21.7000/RS, mantendo a prisão preventiva do paciente imposta pelo 1º Juízo da 2ª Vara Estadual de Processo e Julgamento dos Crimes de Organização Criminosa e Lavagem de Dinheiro/RS (fls. 230/242).
+Neste writ, sustenta-se, a ausência de fundamentos concretos a justificar a medida constritiva, visto que: 1) os indicativos de autoria são meras suposições retiradas a partir de conversas de terceiros que sugerem que o paciente é responsável pelo recebimento de drogas, sem, no entanto, qualquer apreensão de qualquer objeto ilícito; 2) em relação aos predicados pessoais, é notório que paciente ostenta condições pessoais favoráveis, pois é réu primário, sem antecedentes criminais; 3) o delito que recai sobre ele é fato sem violência ou grave ameaça, além de possuir residência fixa, não podendo tais elementos serem absolutamente ignorados, e 4) a restrição da liberdade, através do encarceramento provisório, é a medida cautelar extrema, não podendo servir também como uma antecipação de cumprimento de pena, nem ser aplicada quando há possibilidade de medidas cautelares diversas da prisão (fl. 9/10).
+Pontua-se que Rafael Moretti Mollerke e Wagner Selbach Oliveira, encontram-se na mesma situação que o paciente RAFAEL DA SILVA PEREIRA, razão pela qual deve ser aplicada a concessão de efeito extensivo , nos termos do Art. 580, do CPP (fl. 12).
+Requer-se, assim, seja analisada a e concedida a decisão liminar no sentido de conceder a liberdade, com base nos artigos 282, 312 e seguintes do Código de Processo Penal, frente ao constrangimento ilegal quanto a prisão atual do Paciente Rafael da Silva Pereira (fl. 13).
+É o relatório.
+O presente habeas corpus não comporta processamento.
+Isso porque o impetrante não se desincumbiu do ônus de instruir suficientemente o writ com cópia do decreto prisional , peça essencial para a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa.
+Como é sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante.
+Nesse sentido: AgRg no HC n. 484.988/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/2/2019.
+Ante o exposto, indefiro liminarmente a petição inicial do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE.
+Petição inicial indeferida liminarmente.
