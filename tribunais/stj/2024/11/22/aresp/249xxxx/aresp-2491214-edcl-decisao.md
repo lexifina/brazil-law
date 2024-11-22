@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+(..)
+A decisão monocrática ora embargada, data maxima venia, carece de esclarecimentos a respeito da distinção ou superação de precedentes expressamente invocados pela Recorrida e citados na decisão agravada, de acordo com os quais, a assinatura de aditivos contratuais de prorrogação do prazo do contrato, não impedem a ulterior cobrança de reajuste do preço; bem como, que neste mérito, alterar as conclusões das cortes de origem exige o reexame da matéria fático-probatória.
+(..)
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+(..)
+Está incontroverso nos autos que, em negociação de termo aditivo de contrato administrativo, não houve tratativa sobre reajuste de preços, conforme estava previsto em cláusula contratual inicial. Logo, não é necessário revolver matéria fática ou analisar conteúdo contratual, eis que tais fatos já foram definidos nos autos e julgados pelas instâncias ordinárias.
+(..)
+Com efeito, o equilíbrio econômico-financeiro do contrato administrativo é um imperativo da equidade contratual, assegurado pelo art. 37, XXI, da Constituição, que dispõe:
+(..)
+Assim, o "reajustamento dos preços" constitui-se em um dos instrumentos legais aptos a readequar a equação econômico-financeira contratual, com previsão no art. 40, XI, art. 55, III e art. 65, §8º da Lei Federal n. 8.666/93, compreendendo, por sua vez, o "reajuste de preços em sentido estrito" e a "repactuação", destinados à recomposição de perdas inflacionárias no contrato, apresentando como data-base a data prevista para apresentação da proposta ou do orçamento a que essa proposta se referir.
+O reajuste é, portanto, instrumento apto a reequilibrar economicamente contrato em razão da variação de custos de produção no curso normal da economia, provocada, em especial, pelo processo inflacionário.
+Vincula-se a um índice específico, definido previamente no instrumento contratual, com observância da Lei Federal n. 10.192/2001 (art. 3º, §1º), de forma que, alcançado o prazo de 12 (doze) meses entre a data da apresentação da proposta ou do orçamento a que ela se refere e o adimplemento da prestação, assegura-se o reajustamento em sentido estrito pela Administração, podendo considerar o "reajuste em sentido estrito" como um direito do contratado, decorrente da garantia constitucional de preservação do equilíbrio econômico-financeiro do contrato administrativo (art. 37, XXI, CF).
+De fato, a Lei n. 10.192/2001, prevê:
+(..)
+Lado outro, realizada a contratação, qualquer mudança superveniente da situação fática contratada remete ao reequilíbrio econômico-financeiro do contrato, na esteira do que dispõem os artigos 57, § 1º, 58, inciso I e §§ 1º e 2º, e 65, inciso II, alínea d e § 6º, da Lei 8.666/1993:
+(..)
+Portanto, uma vez que a finalidade da prorrogação do contrato é a obtenção de condição mais favorável para a Administração, como bem salientou o recorrente, o reequilíbrio econômico e financeiro do contrato é intangível à Administração, porém constitui direito disponível do particular e comporta renúncia.
+Neste sentido, ao aceitar as sucessivas prorrogações do contrato, o contratado está vinculado ao instrumento, em observância à força obrigatória dos contratos. Nessa linha, não basta a mera previsão do pedido administrativo de repactuação da avença, porquanto essa espécie de cláusula não assegura que o pleito do particular será atendido, considerado o melhor interesse da Administração Pública.
+Não por outro motivo, o Tribunal de Contas da União, em análise de situação semelhante, no acórdão n. 477/2010, editou o seguinte enunciado: "Se à época da prorrogação do contrato de prestação de serviços contínuos, mediante termo aditivo, a contratada não pleiteou a repactuação a que fazia jus e a Administração decidiu prorrogar a avença com base neste quadro, não pode a contratada, após a assinatura do mencionado aditivo, requisitar o reequilíbrio, pois isso implicaria negar à Administração a faculdade de avaliar se, com a repactuação, seria conveniente, do ponto de vista financeiro, manter o ajuste".
+Deste modo, o momento adequado para a Administração e o particular verificarem a conveniência da prorrogação é quando discutem, de forma consensual, seus termos e condições.
+Firmado o termo de aditivo, com a fixação do valor devido pela Administração Pública, não cabe ao particular pleitear a recomposição financeira, sob pena de violação a boa-fé que também rege a relação dos contratos administrativos. E nem se diga, que a Administração teria se obrigado a rever os valores dos contratos atuais e passados, por força de cláusula contratual: primeiro, porque seria nula de pleno direito; segundo, o compromisso seria de análise dos pedidos de reajuste e não o seu deferimento.
+A cláusula seria nula, porque violaria o princípio da legalidade, da isonomia, moralidade, impessoalidade, publicidade e probidade administrativa, inspiradores da Lei no. 8.666/93 (art. 3º). E a razão para se assim concluir, resulta justamente pelo fato da Administração deixar de abrir a possibilidade de obter proposta mais vantajosa para si, optando por renovar o contrato chegado a seu termo e celebrado à época em condição mais vantajosa para si, e igualmente aceita pelo particular ou prestador do serviço ofertante do serviço.
+Tanto é assim que se houvesse cláusula inserida no contrato a pedido do particular, em relação ao reajuste por novo período, na época de aditamento, exigiria análise pelo órgão contratante acerca do seu pedido de reajustamento dos preços dos serviços contratos, pois, só sua previsão, por parte do particular, não possui o condão de obrigar seu acolhimento e a revisão dos respectivos valores, pela Administração.
+(..)
+Diante de todo o exposto, não se tratando de alteração unilateral do contrato, nem tampouco da ocorrência de fatos supervenientes imprevisíveis, ou previsíveis, cujas consequências não poderiam ser planejadas e nem estimadas, quando da formalização dos aditamentos, não há falar em prejuízos se não constou expressamente a repactuação dos reajustes.
+Com efeito, como não houve previsão expressa de reajustes nos instrumentos livremente firmados pelas partes, tendo os aditivos sido celebrados de forma consensual, não há fundamento legal para que a contratada pleiteie indenização sob pretexto de reequilíbrio contratual.
+(..)
+Merece registro, ainda - e a título meramente ilustrativo - que a recorrida abdicou de seu direito ao reajuste em momento oportuno para obter a renovação da relação contratual e posteriormente, após o final da vigência do contrato, cobra tais reajustes de maneira retroativa. Diante desse contexto, malferiu aos postulados da probidade e da boa fé, de forma que o acórdão que tutelou a pretensão da recorrida também vilipendiou os artigos 133 e 422, do Código Civil.
+Assim, à luz das premissas fixadas no acórdão objurgado, a recorrida, após o encerramento da relação contratual, veio a juízo pleitear o pagamento de diferenças retroativas relativas a reajustes que seriam previstos no contrato. Todavia, como igualmente assentado nas mesmas premissas, não houve qualquer manifestação da recorrida no sentido de exercer seu direito ao reajuste em momento oportuno, somente vindo a fazê-lo quando se aproximava o termo final da relação contratual.
+(..)
+Consequentemente, deve prevalecer no caso, diante das particularidades da causa, o dever de boa-fé que deve nortear as relações, antes, durante e após a execução dos contratos, não observado pela parte recorrida, sobretudo em relação a vedação ao comportamento contraditório (venire in contra factum proprium) e da supressio, subprincípios da boa-fé objetiva.
+(..)
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
