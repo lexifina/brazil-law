@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por AURUCELIO MARTINS LOPES JUNIOR contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SANTA CATARINA que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 5007111-89.2022.8.24.0080 (fls. 167/171), com a seguinte ementa:
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. TENTATIVA DE FURTO QUALIFICADO MEDIANTE ESCALADA (ART. 155, § 4º, II, C/C ART. 14, II, AMBOS DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+RECURSO ADSTRITO À DOSIMETRIA. PLEITO PELO AFASTAMENTO DO AUMENTO DA PENA EM VIRTUDE DA CONDUTA SOCIAL DO ACUSADO. CIRCUNSTÂNCIA VALORADA DE FORMA NEGATIVA COM BASE NOS REGISTROS POLICIAIS E AÇÕES PENAIS EM CURSO. AFRONTA AO ENUNCIADO SUMULAR N. 444 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECOTE NECESSÁRIO.
+PEDIDO DE RECONHECIMENTO DA FRAÇÃO MÁXIMA CORRESPONDENTE À REDUTORA DA TENTATIVA. INVIABILIDADE, DIANTE DO ITER CRIMINIS PERCORRIDO. ATOS DE EXECUÇÃO INICIADOS. INEXISTÊNCIA DE CONSUMAÇÃO POR TER SIDO O APELANTE SURPREENDIDO PELA CHEGADA DA VÍTIMA EM SUA RESIDÊNCIA, JÁ TENDO DADO INÍCIO À SEPARAÇÃO DA RES FURTIVAE . PATAMAR DE REDUÇÃO DEVIDAMENTE MOTIVADO PELO JUÍZO A QUO. MANUTENÇÃO DA FRAÇÃO APLICADA (1/3).
+SUBSTITUIÇÃO DA REPRIMENDA POR UMA PENA RESTRITIVA DE DIREITO E MULTA. INVIABILIDADE. MAGISTRADO QUE SUBSTITUIU A PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. INTELIGÊNCIA DO ART. 44, § 2º, DO CP. DISCRICIONARIEDADE DO JULGADOR PARA ESCOLHER SANÇÃO QUE MELHOR SE ADEQUA AO CASO CONCRETO. REPRIMENDA MANTIDA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No recurso especial, a defesa requereu, em síntese, o reconhecimento da violação do art. 44, § 2º, do Código Penal, readequando-se a pena substitutiva imposta ao recorrente para uma restritiva de direitos e multa (fls. 176/184).
+Inadmitido o recurso na origem (fls. 203/206), em razão dos óbices previstos nas Súmulas 7/STJ e 83/STJ, subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 212/220).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 253/254).
+É o relatório.
+Conheço do agravo, porquanto presentes os pressupostos de admissibilidade. O agravante logrou infirmar de forma adequada os fundamentos para inadmissão do especial.
+Todavia, não prospera seu pleito de substituição da pena privativa de liberdade por uma restritiva de direitos e multa, visto já haver previsão da multa no preceito secundário do tipo penal pelo qual ele foi condenado, de forma que o julgador tem a discricionariedade para fixar a pena da maneira como foi feito na hipótese dos autos, com a substituição por duas penas restritivas de direitos.
+Esta Corte tem o entendimento firme de que a escolha das penas substitutivas às privativas de liberdade obedece a critério de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão no caso de evidente desproporcionalidade, o que não se vislumbra no presente caso.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. PLEITO DE ALTERAÇÃO NA DOSIMETRIA, POR REFORMATIO IN PEJUS. AUSÊNCIA DE ILEGALIDADE. PENA REDUZIDA. NÃO OCORRÊNCIA DE PREJUÍZO. DESLOCAMENTO DA CAUSA DE AUMENTO RELATIVA AO REPOUSO NOTURNO PARA CIRCUNSTÂNCIA JUDICIAL. POSSIBILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. AUSÊNCIA DE ILEGALIDADE.
+1. Não há ilegalidade em deslocar a causa de aumento como circunstância judicial na primeira fase. Da mesma forma, não prospera o pleito de substituição da pena privativa de liberdade por por uma restritiva de direitos e multa, pois já há previsão de multa no preceito secundário do tipo penal de furto, de forma que o julgador tem discricionariedade para fixar a pena da maneira que foi feito na hipótese dos autos.
+2. Agravo regimental improvido.
+(AgRg no HC n. 857.841/SC, da minha relatoria, Sexta Turma, DJe 14/03/2024).
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO. PLEITO DE APLICAÇÃO DO ACORDO DE NÃO PERSECUÇÃO PENAL. LEI N. 13.964/2019. INAPLICÁVEL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. LEGALIDADE. DISCRICIONARIDADE. SUBSTITUIÇÃO POR PENA DE MULTA. NÃO RECOMENDÁVEL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V - De todo modo, observa-se nos autos que o v. acórdão impugnado se manteve adstrito ao quanto disposto no art. 44, § 2º, do Código Penal, o qual consigna ao arbítrio do julgador substituir a pena privativa de liberdade por multa ou pena restritiva de direitos. Assinale-se que "é firme neste Superior Tribunal de Justiça o entendimento de que, fixada a pena corporal nos patamares delineados no art. 44, § 2º, do Código Penal, a escolha do modo de aplicação da benesse legal "insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC 313.675/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 9/12/2015)" (AgRg no HC n. 435.512/PB, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 05/08/2019).
+Agravo regimental desprovido.
+(AgRg no HC n. 626.582/SC, Ministro Felix Fischer, Quinta Turma, DJe 8/2/2021).
+Pelo exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TENTATIVA DE FURTO QUALIFICADO MEDIANTE ESCALADA. VIOLAÇÃO DO ART. 44, § 2º, DO CP. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR UMA RESTRITIVA DE DIREITOS E MULTA. DISCRICIONARIEDADE. DESPROPORCIONALIDADE NÃO EVIDENCIADA.
+Agravo conhecido para negar provimento ao recurso especial.
