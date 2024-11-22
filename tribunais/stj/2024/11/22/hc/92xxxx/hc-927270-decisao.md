@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ORLANDO DA SILVA GOULART apontando como autoridade coatora o TRIBUNAL DE TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 0245792-96.2024.3.00.0000).
+O feito foi assim relatado pela Presidência por ocasião do indeferimento da liminar (e-STJ fl. 284):
+Consta dos autos que o paciente cumpre pena de 8 anos, 6 meses e 2 dias de reclusão, tendo sido homologada falta grave em seu desfavor.
+Segundo a impetrante, foram instaurados procedimentos disciplinares e não houve comunicação ao juízo da execução penal. Por conta disso, as supostas faltas disciplinares imputadas ao paciente não foram homologadas dentro do prazo.
+Defende que, ante a inexistência de previsão legal específica acerca do prazo prescricional de falta disciplinar de natureza grave, deve ser adotado, por analogia, o prazo de dois anos previsto no art. 114, I, do Código Penal.
+Nesse sentido, argumenta que as faltas graves se encontram prescritas.
+Requer, liminarmente e no mérito, o reconhecimento da prescrição da falta grave, declarando nulos os procedimentos disciplinares instaurados.
+Indeferida a liminar (e-STJ fls. 284/285) e prestadas as informações (e-STJ fls. 291/312), manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus (e-STJ fls. 316/317)
+É, em síntese, o relatório.
+Decido.
+São estes os fundamentos do acórdão recorrido (e-STJ fls. 277/281):
+Diante da omissão legislativa no Direito de Execução Penal quanto ao prazo prescricional para homologação judicial de faltas disciplinares, a jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal firmou entendimento de que se deve utilizar, por analogia, o menor prazo prescricional previsto no artigo 109 do Código Penal, qual seja, três anos.
+Na hipótese dos autos as faltas disciplinares foram cometidas entre 23/04/2021 e 12/10/2021 e a decisão do Juízo de Primeiro Grau que homologou a conclusão das sindicâncias foi proferida em 02/02/2024, menos de três anos após as infrações disciplinares, não havendo que se falar, portanto, em prescrição. Nesse sentido, STF (RHC 237649 AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, julgado em 04-04-2024, D Je - Divulg 05-04-2024, Public 08-04-2024) e STJ (AgRg no HC nº 753.298/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, D Je de 14/3/2023; AgRg nos E Dcl no HC nº 750.397/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/2/2023, D Je de 16/2/2023; AgRg no HC nº 778.949/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, D Je de 14/12/2022; AgRg no HC n. 724.598/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/4/2022, D Je de 29/4/2022).
+ .. .
+Outrossim, no caso dos autos, não demonstrada a ocorrência de prejuízo ao direito de defesa do agravante, eventual excesso de prazo para a conclusão do procedimento disciplinar implica em mera irregularidade administrativa, sem resultar, contudo, em nulidade procedimental ou preclusão do direito administrativo sancionador.  .. .
+Destarte, uma vez configuradas as faltas graves praticadas pelo recorrente, com resultados danosos a toda coletividade prisional, de rigor a imposição da perda de 1/3 (um terço) dos dias eventualmente trabalhados ou estudados, anteriormente à data da falta reconhecida, remidos ou a remir, com fulcro no artigo 127 da Lei de Execução Penal, bem como a determinação para que a data do cometimento da falta grave seja considerada como termo inicial de contagem de benefícios de progressão, ponderando-se a gravidade, a natureza e as circunstâncias do ato de indisciplina, a qual reclama do Estado atuação enérgica.
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o acórdão recorrido está alinhado à jurisprudência do Superior Tribunal de Justiça, segundo a qual, na apuração de falta disciplinar de natureza grave, deve ser aplicado o prazo prescricional previsto no inciso VI do art. 109 do Código Penal, ou seja, após a vigência da Lei n. 12.234/2010, o prazo prescricional a ser considerado é de 3 (três) anos.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PRESCRIÇÃO. PRAZO TRIENAL. ART. 109, INCISO VI, DO CÓDIGO PENAL. RECURSO DESPROVIDO.
+1. Ante a ausência de norma legal expressa sobre o tema, aplica-se às faltas graves o menor dos prazos prescricionais gerais previstos no art. 109 do Código Penal, qual seja, 3 (três) anos (inciso VI).
+Precedentes.
+2. Na espécie, a prática da falta grave, consistente em fuga, ocorreu em 01/06/2019, e a decisão homologatória do seu reconhecimento se deu em 26/04/2021 (fls. 68-73). Portanto, não transcorreu o triênio necessário à consumação do prazo prescricional.
+3. O art. 83, inciso III, alínea b, do Código Penal, como se sabe, dispõe sobre os requisitos para a concessão do livramento condicional, sendo inaplicável para a contagem do prazo de prescrição para apuração de falta disciplinar. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 724.598/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. AUSÊNCIA DE OITIVA JUDICIAL. NULIDADE NÃO CONSTATADA. PRESCRIÇÃO. NÃO OCORRÊNCIA. NO MÉRITO, REQUER A ABSOLVIÇÃO DO RÉU. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em relação à alegada nulidade por ausência de oitiva judicial, foi consignado pelo Tribunal a quo que o procedimento administrativo transcorreu dentro dos ditames da legalidade, observados o contraditório e a ampla defesa, e que o agravante foi devidamente assistido por advogado, também presente durante a oitiva das testemunhas, conforme se verifica no procedimento administrativo. Desse modo, ausente qualquer ilegalidade.
+2. Consoante a jurisprudência desta Corte, "a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109 do Código Penal, qual seja, 3 anos, nos termos do disposto na Lei n. 12.234/2010" (RHC n. 51.678/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/6/2016). Na espécie, não houve o transcurso do lapso prescricional, porquanto a falta grave foi cometida em 12/03/2021 e a decisão homologada em 04/08/2021.
+3. Por fim, é incabível a pretendida absolvição do paciente, uma vez que, conforme os relatos dos agentes de segurança e as provas amealhadas, ficou evidente a desobediência do reeducando ao comando dado por servidor público no exercício regular de suas funções.
+4. Agravo regimental não provido.
+(AgRg no HC 711.457, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022, grifei.)
+HABEAS CORPUS. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. PRAZO PRESCRICIONAL. APLICAÇÃO DO ART. 109, VI, DO CP. ACÓRDÃO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A decisão agravada está amparada na jurisprudência desta Corte, que entende que o prazo prescricional para apuração de falta grave é de 3 anos, nos termos do art. 109, VI, do Código Penal, aplicado por analogia, devendo assim ser mantida.
+2.  ..  as alterações introduzidas no ordenamento jurídico, no § 7º do art. 112 da Lei de Execução Penal ("O bom comportamento é readquirido após 1 (um) ano da ocorrência do fato, ou antes, após o cumprimento do requisito temporal exigível para a obtenção do direito") se referem à reabilitação da falta grave, e não ao prazo prescricional para a sua apuração (HC n. 706.507/MG, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe de 15/2/2022).
+3. Agravo regimental improvido.
+(AgRg no HC n. 730.493/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/6/2022, DJe de 30/6/2022.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. FUGA DO ESTABELECIMENTO PRISIONAL. COMUTAÇÃO DE PENAS. INDEFERIMENTO. INFRAÇÃO DISCIPLINAR. APURAÇÃO. AUSÊNCIA DE INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO DISCIPLINAR - PAD. ILEGALIDADE MANIFESTA. PRESCRIÇÃO. INOCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça - STJ, seguindo o entendimento da Primeira Turma do Supremo Tribunal Federal - STF, passou a inadmitir habeas corpus substitutivo de recurso próprio, ressalvando, porém, a possibilidade de concessão da ordem de ofício nos casos de flagrante ilegalidade.
+- Após a vigência da Lei n. 12.234/2010, o prazo prescricional para apuração da falta disciplinar será de 3 (três) anos, de acordo com o art. 109, inciso VI, do Código Penal.
+- No REsp n. 1.378.557/RS, processado sob o rito dos feitos representativos de controvérsia, a Terceira Seção desta Corte Superior decidiu que é imprescindível a instauração de procedimento administrativo disciplinar para o reconhecimento da prática de falta grave no curso da execução penal.
+- Writ não conhecido. Ordem concedida de ofício para afastar a infração disciplinar em exame, em todos seus consectários, ressalvada a possibilidade de apuração em PAD.
+(HC 335.994/RS, Rel. Ministro Ericson Maranho, Desembargador convocado do TJSP, Sexta Turma, julgado em 23/2/2016, DJe 3/3/2016, grifei.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA GRAVE. PRESCRIÇÃO. NÃO OCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. Uma vez que não transcorreu lapso superior a 3 anos entre a data em que praticada a falta disciplinar mencionada (fuga ocorrida em 15/11/2012) e a decisão judicial que reconheceu o seu cometimento, dúvidas não há de que não ocorreu a prescrição da pretensão de apuração da falta disciplinar.
+2. Agravo regimental não provido.
+(AgRg no REsp 1459359/RS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/9/2015, DJe 13/10/2015, grifei.)
+Na espécie, verifica-se que as faltas foram praticadas entre 23/4/2021 e 12/10/2021 e homologadas em 2/2/2024 . Desse modo, constata-se que, não tendo transcorrido o lapso de 3 (três) anos, não se pode cogitar a ocorrência da prescrição.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
