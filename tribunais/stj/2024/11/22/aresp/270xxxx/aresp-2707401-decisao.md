@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RENAN SUCONIC REZENDE, contra inadmissão, na origem, de recurso especial fundamentado no art. 105, a e c, III, da CF, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 1.321-1.322):
+RECURSOS DE APELAÇÃO E ADESIVO AÇÃO DE PROCEDIMENTO COMUM RESPONSABILIDADE CIVIL DO ESTADO VEÍCULO AUTOMOTOR ACIDENTE NA RODOVIA COLISÃO COM CAMINHÃO CANAVIEIRO PARADO NA PISTA DE ROLAMENTO - FISCALIZAÇÃO E CONSERVAÇÃO DAS CONDIÇÕES DA VIA PÚBLICA OMISSÃO DA ADMINISTRAÇÃO PÚBLICA - "FAUTE DU SERVICE" PRETENSÃO AO RECEBIMENTO DE INDENIZAÇÃO A TÍTULO DE DANOS MATERIAIS E MORAIS - IMPOSSIBILIDADE.
+1. Ausência de demonstração do direito ora postulado e, também, do necessário e imprescindível nexo de causalidade, entre os fatos, a conduta dos agentes públicos e o resultado alcançado.
+2. As provas produzidas nos autos, durante a fase de instrução do processo, sob o crivo do contraditório (documental, pericial e oral), são inaptas à comprovação do evento, por ausência ou falha na prestação do serviço público.
+3. Inexistência de prova no sentido de que o veículo automotor (caminhão canavieiro) causador do acidente automobilístico teria permanecido na pista de rolamento, por lapso temporal considerável.
+4. Ao contrário, a prova dos autos é no sentido de que o referido bem móvel interrompeu a marcha da respectiva trajetória, na pista de rolamento, apenas e tão somente, para a checagem dos pneus.
+5. Ônus da parte autora, quanto à prova do fato constitutivo do direito, nos termos do disposto no artigo 373, I, do CPC/15, descumprido, não havendo falar na respectiva inversão.
+6. Precedentes da jurisprudência deste E. Tribunal de Justiça.
+7. Danos materiais e morais, passíveis de reconhecimento e reparação, não caracterizados.
+8. Ação de procedimento comum, julgada parcialmente procedente, em Primeiro Grau de Jurisdição.
+9. Sentença recorrida, reformada.
+10. Ação, julgada improcedente, invertido o resultado inicial da lide e arbitrados os ônus decorrentes da sucumbência.
+11. Recurso de apelação, apresentado pela parte ré, Centrovias Sistemas Rodoviários S. A., provido.
+12. Recurso adesivo, oferecido pela parte autora, prejudicado.
+Em seu recurso especial de fls. 1.419-1.436, sustenta a parte recorrente suposta violação, pelo Tribunal de origem, aos arts. 6º , X, 14 e 22 do CDC; e 7º da Lei n. 8.987/95, porquanto:
+" ..  ao reformar a r. sentença, o v. acórdão foi de encontro não só à legislação vigente, como também ao entendimento da jurisprudência dominante, fundamentando sua decisão com base na teoria subjetiva, o que no entanto, não se pode admitir  ..  os Tribunais Superiores se manifestam a favor da adoção da Teoria do Risco Administrativo, consubstanciando a responsabilidade objetiva nas hipóteses em que há falha ou omissão na prestação de serviço.  ..  tratando-se de relação de consumo entre prestadora de serviço e usuário da via sob sua concessão, por certo que estamos diante de um caso de responsabilidade objetiva, não havendo como aplicar ao caso a teoria subjetiva e imputar ao recorrente o ônus da prova correspondente a culpa da concessionária." (fls. 1.424-1.433).
+O Tribunal de origem, às fls. 1.563-1.565, inadmitiu o recurso especial sob o seguinte fundamento:
+O recurso não merece trânsito pela alínea "a".
+Com efeito, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, isso sem falar que busca a recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior.
+Quanto à letra "c" do permissivo constitucional, deixou o recorrente de atender suficientemente ao requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ. Cumpre ressaltar, por oportuno, o entendimento da Corte Superior, verbis:
+"Para a caracterização da divergência, nos termos do art. 541, parágrafo único, do CPC e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, não sendo bastante a mera transcrição de ementas ou excertos de votos." (AgRg no REsp nº 1.512.655/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe de 04/09/2015).
+No mesmo sentido: AgInt nos EDcl no AREsp 1095391/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe de 28.05.2019; AgInt nos EDcl nos EDcl nos EDcl no AREsp 1535106/RJ, Rel. Min. MOURA RIBEIRO, DJe de 23.04.2020.
+Inadmito, pois, o recurso especial (págs. 1419-1436) com fundamento no art. 1.030, inciso V, do Código de Processo Civil, restando, por consequência, prejudicado o pedido de efeito suspensivo requerido.
+Em seu agravo, às fls. 1.583-1.596, a parte agravante reitera os argumentos apresentados quando da interposição do recurso especial.
+Requer, ao fim, que seja conhecido do agravo em recurso especial para conhecer do recurso especial e, no mérito, provê-lo.
+Contraminuta das partes agravadas CENTROVIAS SISTEMAS RODOVIARIOS S/A, pelo não provimento do agravo e pela inadmissão do recurso especial (fls. 1.614-1.623), e AIG SEGUROS BRASIL S.A, pelo não conhecimento do agravo, requerendo a majoração dos honorários advocatícios, consoante ao disposto no art. 85, § 11, do CPC (fls. 1.625-1.633).
+É o relatório.
+De pronto, verifico a existência dos requisitos intrínsecos de admissibilidade relativos à regularidade formal do agravo em recurso especial interposto e à tempestividade.
+No entanto, quanto aos requisitos extrínsecos, entendo que não houve ataque específico ao fundamento quanto à incidência do enunciado da Súmula n. 7 do STJ ao presente caso nem quanto à insuficiência ao cumprimento dos requisitos previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ, para a comprovação ao permissivo constitucional na interposição do recurso especial pela alínea "c" nas razões apresentadas quando da interposição do agravo em recurso especial.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos arts. 932, III, do CPC, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide, à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10 % sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, PARÁGRAFO ÚNICO, DO RISTJ, E ENUNCIADO DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
