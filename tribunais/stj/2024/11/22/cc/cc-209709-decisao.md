@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE BELFORD ROXO - RJ suscita conflito de competência, em processo penal, diante do JUÍZO DE DIREITO DA 2ª VARA CRIMINAL E ANEXO DA INFÂNCIA E DA JUVENTUDE DE CATANDUVA - SP.
+Cinge-se este incidente processual em saber qual o juízo competente para processar e julgar processo penal deflagrado por extorsão - local onde a vítima teria sofrido a ameaça ou onde foi obtida a vantagem econômica pelo infrator -, perpetrado por meio de comunicação por telefone de falso sequestro, com exigência de valor pecuniário a título de resgate.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 2ª Vara Criminal e Anexo da Infância e da Juventude de Catanduva - SP, ora suscitado (fls. 26-30).
+Decido.
+Consoante pacífico entendimento desta Corte, o delito de extorsão se consuma independentemente da obtenção da vantagem indevida, nos termos da Súmula n. 96 do STJ. Logo, a competência, no caso, não deveria se firmar pelo local da obtenção da vantagem, mas onde a vítima sofreu as ameaças e efetuou os depósitos, tal como consignou o Ministério Público Federal em seu parecer.
+Nesse sentido: " ..  o crime em análise se consumou no município de Santo Antônio das Missões - RS, onde a vítima se encontrava no momento em que sofreu a primeira ameaça e realizou o primeiro depósito, de forma que o recebimento da vantagem indevida pelo meliante, em agência bancária situada no Rio de Janeiro, caracteriza mero exaurimento do delito" (CC n. 163.854/RJ, relator Ministro Joel Ilan Paciornik, Terceira Seção, DJe de 9/9/2019).
+Correto, portanto, o Parquet Federal, quando assinalou: " ..  entendendo ser caso de extorsão, o mesmo é crime de natureza formal, sendo que a consumação se dá no momento e local em que ocorre o constrangimento ilegal, no teor da Súmula 96 do STJ: "O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida.". No caso de extorsão, utilizando-se de ligação telefônica, a consumação se dá no local onde se encontra a vítima" (fl. 28).
+À vista do exposto, conheço do conflito para declarar competente do Juízo de Direito da 2ª Vara Criminal e Anexo da Infância e da Juventude de Catanduva - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
