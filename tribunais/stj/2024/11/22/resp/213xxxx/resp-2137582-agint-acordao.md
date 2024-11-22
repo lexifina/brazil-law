@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INATACADO. DEFICIÊNCIA.
+1. A ausência de impugnação específica dos fundamentos do acórdão recorrido atrai a incidência analógica das Súmulas 283 e 284 do STF.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO PARANÁ contra decisão, de minha lavra, em que não conheci do recurso especial interposto em razão da aplicação dos óbices das Súmulas 283 e 284 do STF.
+O agravante alega, em síntese, que impugnou corretamente a aplicação do art. 34 da Lei n. 13.410/2015 no caso concreto pelo Tribunal a quo.
+Aduz que "a tese recursal almeja justamente reconhecer que a execução da obrigação de fazer proposta pelo sindicato com fundamento no art. 536 do CPC não suspende ou interrompe o prazo prescricional da obrigação de pagar" e que "nenhum ato lá praticado (e aqui se inclui eventual i) impossibilidade prática de se iniciarem as execuções individuais sem os documentos de posse da administração pública; ii) suspensão em razão de início de autocomposição: art. 34, §§, da Lei n. 13.410/2015; iii) proteção da boa-fé e da confiança legítima a ensejar efeito suspensivo da prescrição às determinações de suspensão da ação de execução pelo legitimado extraordinário da sentença coletiva), seria capaz de interferir no prazo prescricional da execução de pagar, pois referentes aos atos executórios da obrigação de fazer, e apenas desta".
+Por fim, defende inexistir comportamento contraditório do ESTADO no curso do cumprimento da obrigação de pagar e da obrigação de fazer, visto que distintas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INATACADO. DEFICIÊNCIA.
+1. A ausência de impugnação específica dos fundamentos do acórdão recorrido atrai a incidência analógica das Súmulas 283 e 284 do STF.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Como assinalado na decisão agravada, o apelo nobre se origina de agravo de instrumento interposto pelo ESTADO contra decisão em cumprimento individual de sentença coletiva que indeferiu a impugnação do ente federado, afastando a alegação de prescrição da pretensão executória.
+O Tribunal paranaense, apesar de reconhecer a existência da orientação jurisprudencial firmada pela sistemática dos recursos repetitivos (Tema 880 do STJ), afirmou não ser possível a sua aplicação ao caso concreto em face de peculiaridades verificadas nos autos.
+Consignou que, transitada em julgado a sentença coletiva e iniciada a execução individual, não seria possível o reconhecimento da prescrição. Sustentou, quanto a isso, 3 fundamentos:
+(i) a impossibilidade prática de se iniciarem as execuções individuais sem os documentos de posse da administração pública, com previsão expressa no art. 524, § 3, do CPC/2015;
+(ii) a impossibilidade de decurso do prazo prescricional enquanto pendente procedimento de autocomposição instaurado no âmbito do processo judicial, atraindo a aplicação do art. 34 da Lei n. 13.140/2015; e
+(iii) a proteção da boa-fé e da confiança legítima a ensejar efeito suspensivo da prescrição às determinações de suspensão da ação de execução pelo legitimado extraordinário da sentença coletiva.
+Opostos embargos de declaração, foram eles rejeitados.
+O Estado, em seu recurso especial, alegou violação dos arts. 197 e 202 do CC/2002, 509, §2º, 524, §§3º, 4º e 5º, 534, 536 e 802 do CPC/2015 e dissídio jurisprudencial, por entender que a conclusão alcançada no acórdão está em desconformidade com o precedente repetitivo formado no julgamento dos Temas 877 e 880 do STJ.
+Sustentou que, iniciado o prazo da prescrição da pretensão executória com o trânsito em julgado da sentença coletiva, a execução individual só veio a ter início após o decurso do prazo prescricional, não havendo como afastar a tese firmada no Tema 880 do STJ ou incluir a controvérsia no âmbito da modulação de efeitos desta decisão.
+Defendeu que os prazos prescricionais das obrigações de fazer e das obrigações de pagar são independentes e que a interrupção do primeiro não impede o decurso do segundo.
+Concluiu, assim, que o início do cumprimento de sentença coletiva pelo sindicato em desfavor do ESTADO, na parte relativa à obrigação de dar, não interferiu no prazo prescricional para a propositura das execuções individuais de obrigação de pagar presentes na sentença coletiva.
+Por fim, defendeu que não pode ser afastada a prescrição, em razão seja da suspensão, seja da interrupção do lapso temporal, sem o respaldo disso em dispositivo legal.
+Pois bem.
+A controvérsia relativa à contagem da prescrição para a execução de dívida da administração pública, quando depende de apresentação de documentos (demonstrativos ou fichas financeiras, por exemplo) em posse do devedor na vigência do CPC/1973, foi dirimida pelo STJ no julgamento do Recurso Especial repetitivo 1.336.026/PE, fixando-se a seguinte tese:
+A partir da vigência da Lei n. 10.444/2002, que incluiu o § 1º ao art. 604, dispositivo que foi sucedido, conforme Lei n. 11.232/2005, pelo art. 475-B, §§ 1º e 2º, todos do CPC/1973, não é mais imprescindível, para acertamento da conta exequenda, a juntada de documentos pela parte executada, ainda que esteja pendente de envio eventual documentação requisitada pelo juízo ao devedor, que não tenha havido dita requisição, por qualquer motivo, ou mesmo que a documentação tenha sido encaminhada de forma incompleta pelo executado. Assim, sob a égide do diploma legal citado e para as decisões transitadas em julgado sob a vigência do CPC/1973, a demora, independentemente do seu motivo, para juntada das fichas financeiras ou outros documentos correlatos aos autos da execução, ainda que sob a responsabilidade do devedor ente público, não obsta o transcurso do lapso prescricional executório, nos termos da Súmula 150 do STF. (Tema 880 do STJ).
+Em razão da alteração do entendimento anteriormente esposado na jurisprudência, esta Corte Superior decidiu promover, em sede de embargos de declaração, a modulação de efeitos da tese fixada nos seguintes termos:
+Os efeitos decorrentes dos comandos contidos neste acórdão ficam modulados a partir de 30/6/2017, com fundamento no § 3º do art. 927 do CPC/2015. Resta firmado, com essa modulação, que, para as decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017." (acórdão que acolheu parcialmente os embargos de declaração, publicado no DJe de 22/06/2018). Súmula 150/STF - " Prescreve a execução no mesmo prazo de prescrição da ação.
+Especificamente quanto à execução individual de sentença coletiva, fixou-se, ainda, a tese do Tema 877 do STJ, segundo a qual a prescrição da pretensão da execução individual de sentença coletiva inicia-se da data do seu trânsito em julgado.
+Não obstante esse arcabouço jurídico, na hipótese dos autos, a Corte paranaense consignou que, transitada em julgado a sentença coletiva e iniciada a execução individual, não seria possível o reconhecimento da prescrição.
+Sustentou, quanto a isso, 3 fundamentos autônomos e capazes de, sozinhos, dar sustentação à conclusão pela inexistência de prescrição:
+(i) a impossibilidade prática de se iniciarem as execuções individuais sem os documentos de posse da administração pública, com previsão expressa no art. 524, §3, do CPC/2015;
+(ii) a impossibilidade de decurso do prazo prescricional enquanto pendente procedimento de autocomposição instaurado no âmbito do processo judicial, atraindo a aplicação do art. 34 da Lei n. 13.140/2015; e
+(iii) a proteção da boa-fé e da confiança legítima a ensejar efeito suspensivo da prescrição às determinações de suspensão da ação de execução pelo legitimado extraordinário da sentença coletiva.
+No entanto, o recurso especial do ESTADO deixou de rebater alguns desses fundamentos.
+Como afirmado na decisão monocrática ora agravada, apesar de o recorrente defender a independência entre os prazos prescricionais das obrigações de fazer e de pagar, afirmar que não se verifica a interrupção ou suspensão do prazo prescricional pelo início do cumprimento de sentença coletiva pelo sindicato e que a suspensão decorrente do art. 34 da Lei n. 13.140/2015 demanda rito especial em processo administrativo de autocomposição, esses fundamentos não são suficientes para infirmar as demais razões de decidir do Tribunal de origem postas no acórdão recorrido, notadamente o referente à proteção da boa-fé objetiva, o que atrai a aplicação do óbice das Súmulas 283 e 284 do STF ao caso concreto.
+Quanto às afirmações formuladas no agravo interno, anoto que a alegação de que inexiste comportamento contraditório imputável ao ESTADO no curso do cumprimento da obrigação de pagar e da obrigação de fazer é tentativa extemporânea de impugnação dos fundamentos do acórdão do Tribunal de origem, motivo por que o tema não deve ser conhecido.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
