@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se embargos de declaração interpostos por Orlando Cesar Julio contra acórdão que negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. SÚMULA 284/STF. INCIDÊNCIA. FATOS E PROVAS. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. 1. Ação de arbitramento e cobrança de honorários advocatícios. 2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC. 3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. 4. É imprescindível que no recurso especial sejam apontadas com precisão as violações aos dispositivos legais indicados como infringidos. A parte interessada deve evidenciar de forma clara e objetiva os dispositivos supostamente violados, além de apresentar as razões que justifiquem a alegada violação. 5. Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ. 6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte. 7. Agravo interno não provido.
+Nas razões do presente recurso, a parte embargante afirma que interpôs o recurso especial com o intuito de adequar o arbitramento dos honorários ao disposto no art. 22 da Lei 8.906/96. Aduz que os parágrafos e incisos do art. 85 do CPC devem ser observados no arbitramento da verba honorária. Sustenta que não deve incidir ao caso a Súmula 83, uma vez que a questão tratada nos autos é diferente dos precedentes apontados na decisão que negou seguimento ao recurso especial. Reitera a tese de que o acórdão proferido pelo Tribunal de origem não trouxe qualquer parâmetro para arbitrar os honorários em quantia inferior a cinco salários mínimos. Requer, assim, o acolhimento dos embargos de declaração para que se complemente o decisum embargado, "em especial sobre o enfrentamento das razões que trazem a fundamentação e o detalhamento sintático sobre a conjunção aditiva "e", do disposto no § 2º, do art. 22, da Lei 8.906/94 (2º. Na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão (..), associando "trabalho e valor econômico", bem como sobre a conjugação "ou" , lançada no parágrafo segundo, do art. 85, do C. P. C. (§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos):, cujo § 20, do mesmo art. 85, remete o disposto nos §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9º e 10 aos honorários fixados por arbitramento judicial". Requer também que se esclareça em que consiste a necessidade de rediscussão de matéria fática.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Verifica-se, nessa linha, que a questão apontada pela parte embargante, resume-se a pedido de reanálise das suas razões apresentadas no agravo interno, não se constituindo, portanto, em pontos omissos, contraditórios ou obscuros do julgado, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+De fato, o acórdão foi claro ao negar provimento ao agravo interno para manter a decisão monocrática que inadmitiu o recurso especial.
+Ademais, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. No entanto, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que impediu a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo tratada no recurso especial.
+Assim, revela-se nítida a pretensão da parte embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso.
+Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto erro de julgamento, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Por fim, advirto a parte de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+Forte nessas razões, REJEITO os embargos de declaração.
