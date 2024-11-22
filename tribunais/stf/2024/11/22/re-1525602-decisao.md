@@ -1,0 +1,63 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PAGAMENTO DE HONORÁRIOS À DEFENSORIA PÚBLICA ESTADUAL. INAPLICABILIDADE DO TEMA 1.002 DA REPERCUSSÃO GERAL. PROIBIÇÃO DA REFORMATIO IN PEJUS. PRECLUSÃO DA QUESTÃO PROCESSUAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA NESTA SEDE RECURSAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DESTE SUPREMO TRIBUNAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça da Bahia:
+
+    “APELAÇÃO CÍVEL EM AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA MUNICIPAL. CARREIRA DO MAGISTÉRIO. INDENIZAÇÃO DE LICENÇA-PRÊMIO NÃO USUFRUÍDA. EMBASAMENTO NA LEI MUNICIPAL Nº 6.677/94. SENTENÇA DE PROCEDÊNCIA PARCIAL. PREVISÃO LEGAL. POSSIBILIDADE, SOB PENA DE ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO. CONVERSÃO EM PECÚNIA DE PERÍODOS DE LICENÇA-PRÊMIO NÃO GOZADOS, NEM UTILIZADOS PARA CONTAGEM DE TEMPO DE SERVIÇO, RESTRITO A DOIS QUINQUÊNIOS. ALEGAÇÃO DEMONSTRADA QUANTO A UTILIZAÇÃO DE DEMAIS PERÍODOS, CONFORME HISTÓRICO FUNCIONAL. EVIDÊNCIA. BASE DE CÁLCULO. EXCLUSÃO DAS VANTAGENS DE CARÁTER TRANSITÓRIO/PRECÁRIO. RECURSO PROVIDO, EM PARTE. CONSECTÁRIOS LEGAIS. MATÉRIA DE ORDEM PÚBLICA. ADEQUAÇÃO DEVIDA. SENTENÇA PARCIALMENTE REFORMADA, INCLUSIVE EM SEDE DE REEXAME NECESSÁRIO. 1. Com efeito, o Estatuto dos Servidores Públicos Estaduais (Lei Estadual n.º 6.667/94), em seu art. 107, assegurava, à época na qual a servidora ainda estava em atividade (28/09/1981 a 09/03/2007), o direito à licença prêmio por 03 (três) meses, a cada período de 05 (cinco) anos de efetivo exercício. O direito postulado também encontra expressa previsão na Lei Estadual nº 7.937/01 e em Decreto nº 8.573/03, art. 1º, a dispôr sobre o gozo e conversão em pecúnia das licenças prêmio dos professores do Magistério Público Estadual da Bahia. 2. Como cediço, a licença-prêmio deve incorporar ao patrimônio do servidor público, razão pela qual este benefício pode ser convertido em pecúnia, de modo a evitar o enriquecimento sem causa da administração pública. 3.Não prospera a arguição do recorrente no sentido acerca de ônus, supostamente atribuível à parte autora, de provar que a não fruição do benefício teria decorrido ‘de conduta culposa do Estado da Bahia, de modo a evidenciar o nexo de causalidade’. Isto porque, além de não incumbir ao servidor tal ônus, é evidente que quando o servidor deixa de usufruir do benefício por motivo alheio à sua vontade, como decorrente do serviço, imposto pela própria Administração, não pode ser penalizado, sob pena de configurar enriquecimento sem causa o Estado. 4. No caso concreto, verifica-se que a autora foi admitida no cargo de ‘PROFESSORA’ (NIVEL 02, CLASSE A, REFERENCIA 1, 40 H, em 28/09/1981, nele permanecendo até 09/03/2007, conforme comprovado em ‘histórico funcional’, id 34636673. Extrai-se, ainda, do referido histórico, a utilização dos seguintes quinquênios: de 25/10/1981 a 24/10/1986; de 25/10/1986 a 24/10/1991; e 28/09/1991 a 27/09/1996, este último inclusive para ‘fins de aposentadoria’, à época em tramitação. Portanto, a condenação deve abranger tão somente dois quinquênios, abarcados no período compreendido entre a 1996 a até 2006. 5. Quanto ao valor pecuniário impõe-se considerar a última remuneração percebida antes da data da aposentadoria do servidor, de acordo com as leis então vigentes observado o princípio tempus regit actum, aplicável em nosso ordenamento jurídico. Da base de cálculo da indenização em questão devem ser excluídas apenas as vantagens de natureza transitória e de caráter precário. 6. Cabível a incidência de consectários legais sobre parcelas, em observância ao precedente repetitivo pertinente, Tema 905 do STJ. A partir da entrada em vigor da EC 113/2021, em 09/12/2021, incidirão correção monetária e os juros de mora pela taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC), acumulada mensalmente, uma única vez, até o efetivo pagamento, conforme disposto no art. 3º da EC nº 113/2021. Adequação devida. precedentes. RECURSO CONHECIDO E PROVIDO, EM PARTE” (fls. 1-2, e-doc. 10).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 18).
+
+    2. A Defensoria Pública da Bahia alega ter o Tribunal de origem contrariado os §§ 2º e 4º do art. 134 da Constituição da República.
+
+    Assevera que, “mais recentemente, o Min. Luís Roberto Barroso, nos autos do Resp n. 1140005/RJ (Tema1002 STF), votou pela possibilidade de condenação dos entes estatais, afastando a aplicação do instituto da confusão, prestigiando a autonomia financeira, administrativa e funciona” (fl. 10, e-doc. 22).
+
+    Argumenta “que a Defensoria Pública tem o direito de receber as verbas sucumbenciais, independentemente de quem as deva, nos termos do disposto no art. 134, § 2º e § 4º da CRFB/88” (fl. 11, e-doc. 22).
+
+    Ressalta que “o acórdão, ora vergastado, além de contrário a dispositivo constitucional (Art. 134, § 2º e § 4º da CRFB/88), também compromete a própria Defensoria Pública, instituição essencial à Justiça, que necessita das verbas sucumbenciais para o seu aparelhamento” (fl. 12, e-doc. 22).
+
+    Pede o provimento do presente recurso extraordinário, “com o consequente reconhecimento da violação ao artigo 134, § 2º e § 4º da CF/88 e o artigo4º, XXI, Lei Complementar Federal nº 80/1994, com as alterações da Lei Complementar Federal nº 132 de 2009, reformando-se o v. Acórdão recorrido, a fim de que seja condenado o Estado da Bahia a pagar honorários sucumbenciais devidos à Defensoria Pública do Estado da Bahia, na condição de parte vencedora” (fl. 12, e-doc. 22).
+
+    3. Em juízo de retratação do Tema 1.002 da repercussão geral, o Tribunal de origem manteve o acórdão recorrido, em julgado com a seguinte ementa:
+
+    “APELAÇÃO CÍVEL. RETORNO DOS AUTOS PARA JUÍZO DE RETRATAÇÃO. DESCABIMENTO. PRETENSÃO DE CONDENAÇÃO DO ESTADO DA BAHIA AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS À DEFENSORIA PÚBLICA DO ESTADO DA BAHIA. IMPOSSIBILIDADE. TRÂNSITO EM JULGADO DO CAPÍTULO DA SENTENÇA RELATIVO AOS HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DO PRINCÍPIO DA NON REFORMATIO IN PEJUS. MANUTENÇÃO DA CONFIRMAÇÃO DA SENTENÇA. 1. Embora intimada, via portal eletrônico, a Defensoria Pública não interpôs recurso de apelação, dessa forma o capítulo da sentença que isentou o Estado da Bahia do pagamento de honorários advocatícios à Defensoria Pública transitou em julgado, por ausência de impugnação recursal. 2. Dessa forma, não há retratação a ser feita, já que não houve interposição de recurso de apelação pela Defensoria Pública e o acórdão, ao julgar o recurso interposto apenas pelo Estado da Bahia, não promoveu alteração da sentença quanto a questão relacionada a fixação de honorários. 3. Destaca-se, por fim, que não se mostra possível, neste quadro fático, a reforma da sentença para condenar o Estado da Bahia ao pagamento de honorários, em virtude da proibição da ‘reformatio in pejus’, princípio que veda a revisão do ‘decisum’ para piorar a situação da parte Recorrente” (fl. 1, e-doc. 27).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    4. Razão jurídica assiste não assiste à recorrente.
+
+    5. No julgamento do Recurso Extraordinário n. 1.140.005-RG, Tema 1.002 da repercussão geral, Relator o Ministro Luís Roberto Barroso, este Supremo Tribunal fixou a tese ser “devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra” (Plenário, DJe 16.8.2023).
+
+    Não é o caso, entretanto, de acolhimento dos argumentos da Defensoria Pública sobre o direito ao recebimento dos honorários sucumbenciais à tese fixada no Tema 1.002 da repercussão geral, pois o Tribunal de origem, em juízo de retratação, afastou, de forma correta, a aplicação do paradigma, com fundamento na impossibilidade de reapreciação de matéria preclusa, nestes termos:
+
+    “(...) o Juízo a quo decidiu, em sentença, pelo não cabimento da condenação do Estado da Bahia ao pagamento de honorários advocatícios à Defensoria Pública do Estado da Bahia, por integrar a mesma pessoa jurídica de direito público. Id 34636722.
+
+    Embora intimada, via portal eletrônico, a Defensoria Pública não interpôs recurso de apelação, dessa forma o capítulo da sentença que isentou o Estado da Bahia do pagamento de honorários advocatícios à Defensoria Pública transitou em julgado, por ausência de impugnação recursal.
+
+    A sentença, assim, foi encaminhada ao TJBA para apreciação de recurso interposto exclusivamente pelo Estado da Bahia, resultando no provimento parcial da sentença, para reformar parcialmente a sentença, inclusive em reexame necessário, a fim de limitar a condenação ‘a dois quinquênios’, e excluir ‘da base de cálculo da indenização em questão, apenas as vantagens de natureza transitória e de caráter precário’, promovendo, ainda, ‘a adequação de consectários legais incidentes sobre o valor da condenação’. A sentença, portanto, restou confirmada em seus demais termos.
+
+    Dessa forma, não há retratação a ser feita, já que não houve interposição de recurso de apelação pela Defensoria Pública e o acórdão, ao julgar o recurso interposto apenas pelo Estado da Bahia, não promoveu alteração da sentença quanto a questão relacionada a fixação de honorários.
+
+    Destaca-se, por fim, que não se mostra possível, neste quadro fático, a reforma da sentença para condenar o Estado da Bahia ao pagamento dos honorários, em virtude da proibição da ‘reformatio in pejus’, princípio que veda a revisão do ‘decisum’ para piorar a situação da parte Recorrente” (fl. 5, e-doc. 27).
+
+    A conclusão do acórdão recorrido harmoniza-se com o decidido pelo Supremo Tribunal Federal no julgamento dos Embargos de Declaração no Recurso Extraordinário n. 1.140.005-RG, Tema 1.002, Relator o Ministro Luís Roberto Barroso, no qual se assentou que “a tese de julgamento firmada não deve atingir decisões já transitadas em julgados ou processos em trâmite nos quais a questão relacionada aos honorários advocatícios sucumbenciais esteja preclusa” (Plenário, DJe 19.10.2023).
+
+    6. Para rever a conclusão adotada pelas instâncias ordinárias sobre a impossibilidade de pagamento de honorários advocatícios à Defensoria Pública estadual, seria necessário o reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “Recurso extraordinário com agravo. Direito Processual Civil. Honorários advocatícios sucumbenciais. Defensoria pública. Litígio com ente federado diverso daquele ao qual se vincula. Matéria infraconstitucional. Ausência de repercussão geral. 1. É infraconstitucional a controvérsia fundada na possibilidade de condenação de ente federado ao pagamento de honorários advocatícios sucumbenciais em favor de defensoria pública vinculada a ente diverso. 2. Matéria distinta daquela tratada no Tema 1.002 da Repercussão Geral (RE nº 1.140.005, Rel. Min. Roberto Barroso), na qual se discute o pagamento de honorários à defensoria pública em litígio com o ente público ao qual vinculada. 3. Ausência de repercussão geral” (ARE n. 1.217.850-RG, Relator o Dias Toffoli, Plenário, DJe 10.12.2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS DEVIDOS À DEFENSORIA PÚBLICA. AÇÃO DE COBRANÇA. LEGITIMIDADE ATIVA. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIAS COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 950.104-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 4.4.2018).
+
+    Nada há a prover em relação às alegações da recorrente.
+
+    7. Pelo exposto, nego provimento ao presente recurso extraordinário (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 22 de novembro de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
