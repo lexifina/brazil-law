@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado de Sergipe contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 986):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA E OBRIGAÇÃO DE FAZER - ESTADO DE SERGIPE - SERVIDORES QUE DESEMPENHAM FUNÇÃO DE VIGILANTE - JORNADA DE TRABALHO - REGIME DE PLANTÃO NOTURNO - ESCALA DE 12H POR 36H - AUTORES QUE FAZEM JUS AO PAGAMENTO DE HORAS EXTRAORDINÁRIAS E SEUS REFLEXOS - ÔNUS DA PROVA ACERCA DAS HORAS EXTRAORDINÁRIAS - ENTE PÚBLICO NÃO SE DESICUMBIU - ART. 373, II DO CPC - SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA - RECURSO CONHECIDO E DESPROVIDO - POR UNANIMIDADE.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 373, II, do CPC. Sustenta que: "o Estado de Sergipe se incumbiu do seu ônus probatório em demonstrar fato extintivo do direito do autor  ..  O Estado de Sergipe impugnou todas as teses autorais juntando TODAS as escalas de serviço dos recorridos, comprovando que nem todos possuem direito ao adicional noturno e hora extra, porque não laboram no período compreendido entre as 22h e as 05h do dia seguinte nem ultrapassam a carga horária mensal prevista no Estatuto.  ..  Conclui-se, pois, que a Corte de Justiça Sergipana incorreu em error in judicando, por negar provimento a Apelação, com fundamento na ausência de prova do quanto alegado pelo recorrente, quando em verdade o réu trouxe todos os documentos necessários para comprovar o fato extintivo do direito autoral" (fls. 1.001/1.006).
+Foram ofertadas contrarrazões às fls. 1.019/1.022.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Com efeito, colhe-se do aresto recorrido a seguinte fundamentação (fls. 986/988):
+Os pleitos autorais se devem por conta da ausência de pagamento das horas extraordinárias e do adicional de periculosidade devidos pelo Estado. Os documentos acostados aos autos pelos autores corroboram a tese sustentada, restando a análise meramente do direito dos requerentes em perceberem as verbas vindicadas.
+Nesse ponto, observo que quando da apresentação de sua defesa (fls. 130/143), o Estado de Sergipe não impugnou especificamente a jornada de trabalho alegada pelos autores, razão pela qual se mostra fato incontroverso a jornada apontada na exordial, ou seja, em jornada de trabalho de 12x36 e desenvolvendo suas atividades laborais das 18hs de um dia às 6hs do dia seguinte.
+Não se pode atribuir aos Autores/apelados, com fundamento no ônus da prova, a obrigação de demonstrar que não receberam, oportunamente, a quantia reclamada na presente ação.
+Logo, a falta de pagamento é impossível de ser provada, dado constituir fato negativo. Ao reverso, o que é passível de ser provada é a efetivação do pagamento e, por isso, o ônus cabe à parte que a invoca, haja vista se tratar de fato extintivo do direito do autor, a teor do art. 373, II, do CPC.
+É certo que o fato alegado deve ficar devidamente comprovado pela parte a quem incumbe a produção probatória, mas não há que se falar em obrigação do autor em produzir prova dos fatos negativos alegados. Em casos como tais, quando o fato alegado pelo autor é negativo, converte-se em positivo para o réu, cabendo-lhe a sua comprovação.
+ ..
+Assim, não tendo o ente Estatal demonstrado qualquer fato impeditivo, modificativo ou extintivo do direito dos autores, as horas extras trabalhadas serão calculadas conforme a jornada de trabalho dos demandantes, uma vez reconhecido o direito.
+Conforme anteriormente mencionado, não há qualquer controvérsia acerca da jornada enfrentada pelos servidores, qual seja, 12 horas trabalhadas por 36 horas de folga.
+Levando-se em consideração que o fato alegado é o não pagamento pelo Estado (fato negativo) dos valores devidos a título de hora extra e hora noturna, caberia a este impugnar especificamente os pleitos iniciais, o que não o fez em tempo hábil.
+Assim, como o ônus da prova é do ente público e este não o fez em tempo hábil, os autores fazem jus às verbas pleiteadas, nos termos deferidos na sentença de origem.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
