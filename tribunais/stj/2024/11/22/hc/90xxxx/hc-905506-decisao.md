@@ -1,0 +1,15 @@
+DECISÃO
+O presente writ, impetrado em benefício de RENAN FELIPE DA SILVA SANTOS - condenado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500348-80.2020.8.26.0603), comporta parcial acolhimento.
+Busca a impetração a anulação da condenação imposta ao paciente na ação penal que tramitou perante o Juízo de Direito da 2ª Vara da comarca de Buritama/SP, ao argumento de que a busca pessoal/veicular foi realizada sem fundada suspeita, com abuso de poder por parte dos policiais, que agiram de forma arbitrária, pautados somente por uma denúncia anônima e uma suposta atitude suspeita, sem prévia investigação, mandado judicial de busca e apreensão ou qualquer situação de flagrante delito que autorizasse ou justificasse a medida (fl. 9). Subsidiariamente, postula a revisão da dosimetria e do regime inicial.
+Ocorre que a via eleita foi ajuizada contra condenação transitada em julgado, objetivando revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+No caso em questão, conforme destacado no acórdão a quo, além da denúncia anônima, os apelantes tentaram se evadir ao verem a viatura, de modo que se configuraram sérios indícios de que os acusados estavam de fato transportando entorpecentes, o que justificou a abordagem dos policiais (fl. 89), circunstâncias que justificam a medida.
+A busca veicular não necessita de mandado judicial, sendo válida desde que realizada com fundada suspeita, conforme o entendimento do Superior Tribunal de Justiça (HC n. 861.672/RJ, Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe 12/11/2024).
+Contudo, verifica-se ilegalidade na consideração de ações penais em curso para negativar os antecedentes do paciente, em violação da Súmula 444/STJ. Apenas condenações com trânsito em julgado podem ser utilizadas para tal fim. Assim, deve a pena-base permanecer no mínimo legal, o que não altera a reprimenda final imposta pela Corte estadual, em razão da Súmula 231/STJ.
+Por fim, ausente fundamentação para a imposição de regime inicial mais gravoso do que a pena aplicada (5 anos de reclusão e 500 dias-multa), fixo o regime inicial semiaberto.
+Ante o exposto, concedo parcialmente a ordem impetrada para readequar a pena-base ao mínimo legal, ficando a reprimenda definitiva em 5 anos de reclusão e 500 dias-multa, no regime inicial semiaberto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. BUSCA PESSOAL E VEICULAR. ALEGAÇÃO DA AUSÊNCIA DE JUSTA CAUSA. ACUSADOS QUE EMPREENDERAM FUGA. DOSIMETRIA. PENA-BASE. CONSIDERAÇÃO INDEVIDA DE AÇÕES PENAIS EM CURSO COMO MAUS ANTECEDENTES. SÚMULA 444/STJ. REGIME INICIAL MAIS GRAVOSO DO QUE A PENA APLICADA. FUNDAMENTAÇÃO. AUSÊNCIA. IMPOSIÇÃO DO REGIME INTERMEDIÁRIO QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem parcialmente concedida nos termos do dispositivo.
