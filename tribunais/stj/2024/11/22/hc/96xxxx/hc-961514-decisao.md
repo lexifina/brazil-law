@@ -1,0 +1,23 @@
+DECISÃO
+O presente writ, impetrado em benefício de JEFFERSON MUNHOZ MAGALHAES - preso preventivamente pela prática, em tese, do crime de roubo circunstanciado (Processo n. 1501456-43.2024.8.26.0559) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 2325864-93.2024.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta pelo Juízo Plantonista (fls. 53/54) e mantida pelo magistrado da 2ª Vara Criminal da comarca de São José do Rio Preto/SP, ao argumento de ausência de fundamentação idônea e dos requisitos necessários para a manutenção prisão preventiva.
+Ocorre que inexiste o alegado constrangimento.
+No caso, o Juízo Plantonista converteu a prisão em flagrante em preventiva, sob os seguintes fundamentos (fls. 53/54 - grifo nosso):
+ ..
+O caso concreto autoriza a prisão preventiva. A materialidade do crime, para o qual se prevê pena máxima de reclusão superior a 4 anos, decorre do auto de exibição e apreensão e as declarações e demais elementos de convicção constantes do auto de prisão em flagrante revelam a existência de indícios de autoria. Destaque-se que o custodiado é reincidente, o que autoriza a conversão da prisão em flagrante em prisão preventiva (art. 313, II do CPP). Desse modo, considerando a folha de antecedentes do autuado e tendo o crime sido praticado com violência e grave ameaça contra a pessoa, com emprego de uma faca, a prisão cautelar revela-se necessária para garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração delitiva (arts. 312 e 314, CPP), de forma que as medidas cautelares diversas da prisão mostram-se insuficientes (art. 282, § 6º do CPP).
+O magistrado singular, ao manter a custódia preventiva, concluiu que (fl. 55 - grifo nosso):
+ ..
+Verifico que não foram apresentados fatos novos ou novas provas capazes de alterar a decisão que converteu a prisão em flagrante do acusado em preventiva às págs. 72/73.
+Trata-se de réu reincidente, preso em flagrante delito por roubo, com emprego de grave ameaça exercida com uma faca, conforme consta nos autos. As alegações defensivas referem- se ao mérito e serão analisadas oportunamente.
+Portanto, persistindo os motivos ensejadores da prisão preventiva, não há que se falar em sua revogação, bem como por se revelarem inadequadas e insuficientes as medidas cautelares diversas da prisão, indefiro o pedido formulado.
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Observa-se da análise dos trechos transcritos que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao modus operandi e ao risco de reiteração delitiva, a justificar a necessidade de manutenção da medida extrema.
+A propósito, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019) - (AgRg no HC n. 813.512/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/6/2023).
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+Por fim, vale destacar que, concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas (AgRg no HC n. 573.598/SC, da minha relatoria, Sexta Turma, DJe 30/6/2020).
+Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publiqu e-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. CONSTRANGIMENTO ILEGAL AUSENTE.
+Inicial indeferida liminarmente.
