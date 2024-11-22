@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ARTIGO  932,  INCISO  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  DECISÃO  NÃO  CINDÍVEL.  PRECEDENTE.  CORTE.
+1.  Não  pode  ser  conhecido  o  recurso  que  não  infirma  especificamente  os  fundamentos  da  decisão  agravada,  atraindo  o  disposto  no  artigo  932,  inciso  III,  do  Código  de  Processo  Civil.
+2.  É  inafastável  o  dever  da  parte  recorrente  de  impugnar  especificamente  todos  os  fundamentos  que  levaram  à  inadmissão  do  apelo  extremo,  não  se  podendo  falar,  na  hipótese,  em  decisão  cindível  em  capítulos  autônomos  e  independentes.  Precedente.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CLÁUDIO  GONÇALVES  PRATA  e  OUTRO  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  agravo  em  recurso  especial  em  virtude  da  falta  de  impugnação  específica  dos  fundamentos  da  decisão  atacada,  a  saber:  Súmula  nº  7/STJ  (e-STJ  fls.  498/499).
+Em  suas  razões  (e-STJ  fls.  507/522),  a  parte  agravante  alega,  em  síntese,  que  não  impugnou  a  matéria  alusiva  ao  valor  do  dano  moral,  pois  ela  não  foi  objeto  da  decisão  que  inadmitiu  o  recurso  especial.  Por  esse  motivo,  interpôs  embargos  de  declaração,  cuja  omissão  não  suprida.
+Alega  que,  no  agravo,  a  "(..)  discussão  seria,  exatamente,  sobre  a  omissão  do  recurso  de  apelação  do  ETJMT  que  deixou  de  julgar  tal  item,  analisando  apenas  a  existência  do  alegado  dano  moral"  (e-STJ  fl.  519).  Assim,  é  equivocada  a  decisão  que  afirma  que  "(..)  o  RESP  teria  de  atacar  os  dois  fatos  -  existência  do  dano  moral  e  o  valor  atribuído"  (e-STJ  fl.  519).
+Defende  que  a  matéria  está  suficientemente  detalhada  e  apta  para  conhecimento  da  Corte,  já  que  existem  precedentes  flexibilizando  o  rigorismo.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Devidamente  intimada,  a  parte  contrária  ofereceu  impugnação  (e-STJ  fls.  528/533).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ARTIGO  932,  INCISO  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  DECISÃO  NÃO  CINDÍVEL.  PRECEDENTE.  CORTE.
+1.  Não  pode  ser  conhecido  o  recurso  que  não  infirma  especificamente  os  fundamentos  da  decisão  agravada,  atraindo  o  disposto  no  artigo  932,  inciso  III,  do  Código  de  Processo  Civil.
+2.  É  inafastável  o  dever  da  parte  recorrente  de  impugnar  especificamente  todos  os  fundamentos  que  levaram  à  inadmissão  do  apelo  extremo,  não  se  podendo  falar,  na  hipótese,  em  decisão  cindível  em  capítulos  autônomos  e  independentes.  Precedente.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+O  artigo  932,  inciso  III,  do  Código  de  Processo  Civil  impõe  ao  relator  não  conhecer  do  recurso  "(..)  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida".
+No  caso,  a  decisão  atacada  não  conheceu  do  agravo  em  recurso  especial  ,  visto  que  os  recorrentes  deixaram  de  refutar  especificamente  a  Súmula  nº  7/STJ.
+Cumpre  destacar  que  a  impugnação  da  decisão  atacada  deve  ser  clara  e  suficiente  para  demonstrar  o  equívoco  em  sua  negativa,  o  que  não  ocorreu  na  espécie,  tendo  em  vista  que  os  agravantes  se  limitaram  a  defender  o  cabimento  dos  embargos  de  declaração,  opostos  à  decisão  que  não  admitiu  o  apelo  nobre.
+Esse  é,  inclusive,  o  entendimento  pacífico  desta  Corte  Superior,  formulado  no  sentido  de  que  é  dever  da  parte  agravante  atacar  especificamente  todos  os  fundamentos  da  decisão  agravada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo,  não  bastando  para  tanto  a  impugnação  genérica,  parcial  ou  a  reiteração  das  razões  do  recurso  anterior.
+Registra-se  que,  no  que  diz  respeito  ao  agravo  disciplinado  pelo  artigo  1.042  do  CPC,
+ "(..)  a  Corte  Especial  fixou  a  orientação  no  sentido  de  ser  inafastável  o  dever  do  recorrente  de  impugnar  especificamente  todos  os  fundamentos  que  levaram  à  inadmissão  do  apelo  extremo,  não  se  podendo  falar,  na  hipótese,  em  decisão  cindível  em  capítulos  autônomos  e  independentes "  (EAREsps  701.404/SC,  746.775/PR  e  831.326/SP,  Relator  Ministro  João  Otávio  de  Noronha,  Relator  para  acórdão  Ministro  Luis  Felipe  Salomão,  Corte  Especial,  julgado  em  19.9.2018,  DJe  30.11.2018  -  grifou-se).
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ART.  932,  III,  DO  CPC.  RAZÕES  GENÉRICAS.  PRINCÍPIO  DA  DIALETICIDADE.  IMPOSSIBILIDADE.  DISPOSITIVO  CONSTITUCIONAL.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  Código  de  Processo  Civil).
+2.  No  tocante  às  Súmulas  nºs  5  e  7/STJ,  não  basta  a  parte  sustentar  genericamente  a  não  aplicação  do  óbice,  sem  explicitar,  à  luz  do  contexto  fático  delineado  no  acórdão  e  da  tese  recursal  trazida  no  recurso  especial,  de  que  maneira  a  análise  não  dependeria  do  reexame  fático-probatório  e  da  interpretação  de  cláusula  contratual.
+3.  Não  cabe  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial,  o  exame  de  eventual  ofensa  a  dispositivo  da  Constituição  Federal,  ainda  que  para  o  fim  de  prequestionamento,  sob  pena  de  usurpação  da  competência  reservada  ao  Supremo  Tribunal  Federal.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.497.076/DF,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  24/6/2024,  DJe  de  26/6/2024  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  AOS  FUNDAMENTOS  DA  DECISÃO  PROFERIDA  PELO  TRIBUNAL  DE  ORIGEM.  PRINCIPIO  DA  DIALETICIDADE.  ART.  932,  III,  DO  CPC  DE  2.015.  INSUFICIÊNCIA  DE  ALEGAÇÃO  GENÉRICA.  RECURSO  MANIFESTAMENTE  INADMISSÍVEL.  MULTA  DO  ART.  1.021,  §  4º,  DO  CPC.
+1.  O  agravo  que  objetiva  conferir  trânsito  ao  recurso  especial  obstado  na  origem  reclama,  como  requisito  objetivo  de  admissibilidade,  a  impugnação  específica  aos  fundamentos  utilizados  para  a  negativa  de  seguimento  do  apelo  extremo,  consoante  expressa  previsão  contida  no  art.  932,  III,  do  CPC  de  2.015  e  art.  253,  I,  do  RISTJ,  ônus  da  qual  não  se  desincumbiu  a  parte  insurgente,  sendo  insuficiente  alegações  genéricas  de  não  aplicabilidade  do  óbice  invocado.
+2.  Para  afastar  o  fundamento,  da  decisão  agravada,  de  incidência  dos  óbices  das  Súmulas  n.  5/STJ  e  n.  7/STJ  não  basta  apenas  deduzir  alegação  genérica  de  inaplicabilidade  dos  referidos  óbices  ou  que  a  tese  defensiva  não  demanda  reexame  de  provas  ou  nova  interpretação  de  cláusulas  contratuais.  Para  tanto,  o  recorrente  deve  desenvolver  argumentação  que  demonstre  como  seria  possível  modificar  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  nova  análise  do  conjunto  fático-probatório  ou  de  cláusulas  contratuais,  deixando  claro  que  os  fatos  foram  devidamente  consignados  no  acórdão  objurgado,  ônus  do  qual,  contudo,  não  se  desobrigou.  Precedentes.
+(..)
+4.  Agravo  interno  não  provido,  com  aplicação  de  multa"  (AgInt  no  AREsp  2.092.341/MS,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  23/6/2022,  DJe  de  28/6/2022  -  grifou-se).
+As  razões  do  agravo  não  são  suficientes  para  reformar  a  decisão  atacada,  que  merece  ser  mantida  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
