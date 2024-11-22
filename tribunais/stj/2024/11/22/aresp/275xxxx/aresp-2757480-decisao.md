@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARCELO ANDRADE BARBOSA 00115038159 à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE INDEFERIU A GRATUIDADE PROCESSUAL, AUTORIZANDO. TODAVIA O PARCELAMENTO DO PREPARO. INSURGÊNCIA DA RÉ APELANTE. HIPOSSUFICIÊNCIA NÃO COMPROVADA. MANUTENÇÃO. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 99, § 7º, do CPC, no que concerne à presença dos requisitos para a concessão do benefício da gratuidade de justiça, porquanto, devidamente demonstrado nos autos a sua hipossuficiência econômica para arcar com as custas judiciais da demanda, trazendo a seguinte argumentação:
+No caso do Recorrente, por se tratar de microempreendedor individual, as finanças da empresa se misturam com as do sócio. Dessa forma, estando o salário bruto do Recorrente pouco acima de 01 (um) salário mínimo, resta comprovada a hipossufiência de recursos financeiros que embasa o deferimento da justiça gratuita.
+Como dito antes, o défict da pessoa jurídica é tão grande, que a pessoa física do Sr. Marcelo teve que sujeitar a retornar para o mercado de trabalho no dia 04/03/2024, na função de agente de Aeroporto, para ganhar salário mensal de míseros R$ 1.564,65 (hum mil quinhentos e ses senta e quatro reais e sessenta e cinco centavos), a teor do que se observa dos documentos que compõe o acervo de provas.
+A pessoa jurídica não apresenta condições de honrar com o pagamento das custas de preparo de apelação, nem mesmo de forma parcelada, como determinada na decisão monocrática do relator, visto que o valor das parcelas compromete praticamente um terço do novo salário do proprietário da Agravante.
+ ..
+Em desfecho, deve ser provido o presente recurso de revista para reformar o v. acórdão de fls. 670/673, de modo a viabilizar a concessão dos benefícios da justiça gratuita ao Recorrente em sede de recurso recursal, possibilitando o recebimento e julgamento do recurso de apelação por esta desta 1ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça do Estado de São Paulo (TJSP) (fls. 683-687).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+De acordo com a agravante, a condição de hipossuficiente restou devidamente comprovada nos autos, em razão dos documentos apresentados. Todavia, o conjunto probatório e as informações existentes não são hábeis a demonstrar o alegado comprometimento de renda.
+A agravante aduz que o déficit da pessoa jurídica é tão grande que a pessoa física do Sr. Marcelo teve que se sujeitar a retornar para o mercado de trabalho no dia 04/03/2024, na função de agente de Aeroporto, para ganhar salário mensal de míseros R$ 1.564,65 (mil quinhentos e sessenta e quatro reais e sessenta e cinco centavos).
+Entretanto, a agravada apresentou diversas imagens de viagens, inclusive internacionais, realizadas por Marcelo Andrade Barbosa recentemente, de forma que não se sustenta o argumento de que se afigura um estado de miserabilidade, mormente ao se considerar que as atividades comerciais realizadas no espaço físico que outrora estava sob a influência de um contrato de franquia entre a agravante e a agravada continua funcionando e proporcionando rendimentos (fls. 21/22)
+Os documentos apresentados não são suficientes para o deferimento da justiça gratuita, tendo em vista que não permitem que se verifique a real situação patrimonial e financeira da agravante, não sendo possível sequer aferir a relação entre seus rendimentos e despesas.
+ ..
+Conclui-se, portanto, que a r. decisão agravada deve ser mantida em sua integralidade (fl. 672, grifos meus).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
