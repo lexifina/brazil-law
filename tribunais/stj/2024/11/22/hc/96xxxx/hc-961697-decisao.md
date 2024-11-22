@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUIZ EDUARDO CABRAL FERREIRA DOS SANTOS - condenado como incurso no crime de roubo majorado (em continuidade delitiva) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação n. 0003155-80.2020.8.17.0480), não comporta processamento.
+Com efeito, busca a impetração o reconhecimento da forma tentada do crime, ao argumento de que durante a execução do crime, antes da inversão da posse dos bens, a polícia chegou ao local, interrompendo o iter criminis (fl. 9). Defende, assim, que, considerando que o agente foi surpreendido durante a execução do delito, tendo sido impedido de obter a posse do bem, impõe-se o reconhecimento da tentativa (fl. 9).
+Ocorre que, além de a via eleita ter sido indevidamente utilizada para revisar condenação transitada em julgado, o entendimento do Tribunal a quo se encontra em consonância com a jurisprudência do Superior Tribunal de Justiça, sintetizada na Súmula 582: Consuma-se o crime de roubo com a inversão da posse do bem mediante o emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+Nesse contexto, tendo o Tribunal a quo afirmado que a vítima foi abordada mediante grave ameaça, e que se vê claramente que os apelantes recolheram os objetos subtraídos, assim como a quantia em dinheiro do caixa da loja, havendo a inversão da posse (depoimentos disponíveis no sistema de audiência digital TJPE) - (fl. 37), alcançar conclusão diversa exigiria o revolvimento do conjunto fático-probatório produzido nos autos, providência inviável na estreita via do habeas corpus, ação constitucional de rito célere e de cognição sumária.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE RECONHECIMENTO DA FORMA TENTADA DO CRIME. IMPROCEDÊNCIA. ADOÇÃO DA TEORIA DA AMOTIO. INVERSÃO DO JULGADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE NA VIA ELEITA.
+Inicial indeferida liminarmente.
