@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  LEGITIMIDADE  ATIVA.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  CERCEAMENTO  DE  DEFESA.  NÃO  OCORRÊNCIA.  MULTA  DO  ARTIGO  1.026,  §  2º,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  AFASTAMENTO.  SÚMULA  Nº  7/STJ.
+1.  Rever  a  conclusão  do  tribunal  local  acerca  da  ilegitimidade  ativa,  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  na  Súmula  nº  7/STJ.
+2.  Cabe  ao  magistrado,  destinatário  da  prova,  valorar  sua  necessidade,  conforme  o  princípio  do  livre  convencimento  motivado.
+3.  Rever  o  entendimento  firmado  pela  instância  ordinária  em  relação  à  multa  aplicada,  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  pelo  óbice  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CINÉSIO  SOUZA  DA  SILVA  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento  em  virtude  da  incidência  da  Súmula  nº  7/STJ  (e-STJ  fls.  521/525).
+Nas  presentes  razões,  o  agravante  alega  que  não  incide  o  óbice  sumular  apontado  e  repisa  os  fundamentos  do  recurso  especial  não  admitido.
+Por  fim,  requer  que  o  processo  seja  submetido  ao  órgão  julgador  colegiado  (e-STJ  fls.  529/553).
+Houve  impugnação  às  e-STJ  fls.  558/563.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  LEGITIMIDADE  ATIVA.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  CERCEAMENTO  DE  DEFESA.  NÃO  OCORRÊNCIA.  MULTA  DO  ARTIGO  1.026,  §  2º,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  AFASTAMENTO.  SÚMULA  Nº  7/STJ.
+1.  Rever  a  conclusão  do  tribunal  local  acerca  da  ilegitimidade  ativa,  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  na  Súmula  nº  7/STJ.
+2.  Cabe  ao  magistrado,  destinatário  da  prova,  valorar  sua  necessidade,  conforme  o  princípio  do  livre  convencimento  motivado.
+3.  Rever  o  entendimento  firmado  pela  instância  ordinária  em  relação  à  multa  aplicada,  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  pelo  óbice  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Em  relação  à  ilegitimidade  ativa  da  parte  adversa,  a  decisão  singular  ressaltou  a  incidência  do  óbice  previsto  na  Súmula  nº  7/STJ.
+A  compreensão  da  decisão  agravada  acompanha  a  jurisprudência  do  Superior  Tribunal  de  Justiça  no  sentido  de  que  rever  a  decisão  do  Tribunal  de  Justiça  esbarra  no  óbice  previsto  na  Súmula  nº  7/STJ.
+Confiram-se:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DIREITO  DE  VIZINHANÇA.  AÇÃO  DE  INDENIZAÇÃO.  CONSTRUÇÃO  DE  PRÉDIO  LINDEIRO  AO  IMÓVEL  DOS  APELADOS.  ALEGAÇÃO  DE  ILEGITIMIDADE  ATIVA.  SÚMULA  7/STJ.  INOBSERVÂNCIA  DE  PREVENÇÃO.  NULIDADE  RELATIVA.  DEMONSTRAÇÃO  DE  PREJUÍZO.  LUCROS  CESSANTES.  SÚMULA  7/STJ.
+1.  Afastar  o  reconhecimento  da  ilegitimidade  ativa  ad  causam  do  recorrente  demanda  o  reexame  do  acervo  fático-probatório.  Incidência  da  Súmula  n.  7/STJ.
+2.  Esta  Corte  Superior  compreende  que  a  inobservância  da  regra  de  competência  por  prevenção  do  Juízo  se  traduz  em  nulidade  relativa,  que  deve  ser  suscitada  na  forma  e  no  momento  processual  adequados,  com  a  demonstração  do  efetivo  prejuízo.
+3.  O  Tribunal  deixou  claro  que  a  parte  não  apontou  a  nulidade  na  primeira  oportunidade  de  se  pronunciar,  e  também  não  foi  capaz  de  demonstrar  qualquer  prejuízo  decorrente  da  inobservância  da  prevenção.  Modificar  essas  conclusões  demandaria  nova  incursão  nos  aspectos  fáticos  da  causa,  o  que,  mais  uma  vez,  esbarra  na  Súmula  n.  7/STJ.
+4.  Verifica-se  do  resumo  de  julgamento  que  houve  a  ampliação  de  quorum  de  julgamento  na  Segunda  Turma  de  Direito  Privado  do  TJ/PA,  em  razão  da  divergência.  Carece  o  recorrente  de  interesse  recursal.
+5.  As  instâncias  originárias  entenderam,  consoante  análise  do  acervo  fático-probatório,  que  houve  a  caracterização  de  lucros  cessantes  porque  o  imóvel  sofreu  interdição  e  teve  de  ser  desocupado,  o  que  resultou  na  perda  de  seus  rendimentos,  devido  a  paralisação  da  atividade  comercial  desenvolvida  no  imóvel  e  a  perda  do  ponto  comercial,  sendo  comprovado  o  prejuízo  financeiro  dos  autores.
+Incidência  da  Súmula  n.  7/STJ.
+Agravo  interno  improvido"  (AgInt  no  REsp  2.115.411/PA,  Relator  Ministro  HUMBERTO  MARTINS,  Terceira  Turma,  julgado  em  12/8/2024,  DJe  de  15/8/2024).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  SIMULAÇÃO.  SIMULAÇÃO.  NULIDADE  ABSOLUTA.  DECADÊNCIA  NÃO  CONFIGURADA.  HARMONIA  ENTRE  O  ACÓRDÃO  RECORRIDO  E  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  568/STJ.  REEXAME  DE  FATOS  E  PROVAS.  INADMISSIBILIDADE.  SÚMULA  7  DO  STJ.
+1.  Ação  declaratória  de  simulação.
+2.  A  simulação  é  insuscetível  de  prescrição  ou  de  decadência,  por  ser  causa  de  nulidade  absoluta  do  negócio  jurídico  simulado,  nos  termos  dos  arts.  167  e  169  do  Código  Civil.  Precedentes.
+3.  Alterar  o  decidido  no  acórdão  impugnado  no  que  se  refere  às  teses  atinentes  à  alegada  ilegitimidade  ativa  do  autor  e  à  sustentada  inépcia  da  petição  inicial,  envolve  o  reexame  de  fatos  e  provas,  o  que  é  vedado  em  recurso  especial  pela  Súmula  7/STJ.
+4.  Agravo  interno  no  agravo  em  recurso  especial  não  provido"  (AgInt  no  AREsp  2.326.370/RS,  Relatora  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  9/10/2023,  DJe  de  11/10/2023).
+Quanto  ao  cerceamento  de  defesa,  o  julgado  agravado  foi  expresso  ao  consignar  que  cabe  ao  magistrado,  destinatário  da  prova,  valorar  sua  necessidade,  conforme  o  princípio  do  livre  convencimento  motivado.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECONSIDERAÇÃO  DA  DECISÃO  DA  PRESIDÊNCIA.  AFASTAMENTO  DA  SÚMULA  N.  182  DO  STJ.  NOVA  ANÁLISE.  AÇÃO  INDENIZATÓRIA.  FALHA  NA  PRESTAÇÃO  DE  SERVIÇO.  CLÍNICA  ODONTOLÓGICA.  RESPONSABILIDADE  CIVIL.  VIOLAÇÃO  DOS  ARTS.  489  E  1.022  DO  CPC.  NÃO  OCORRÊNCIA.  PRODUÇÃO  DE  PROVA.  CERCEAMENTO  DE  DEFESA.  NÃO  OCORRÊNCIA.  ELEMENTOS  CONSTANTES  NOS  AUTOS  SUFICIENTES  À  FORMAÇÃO  DO  LIVRE  CONVENCIMENTO  MOTIVADO  DO  JUÍZO.  APLICAÇÃO  DA  SÚMULA  N.  7  DO  STJ.  QUANTUM  INDENIZATÓRIO.  REVISÃO.  PROPORCIONALIDADE.  SÚMULA  N.  7  DO  STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Não  há  ofensa  aos  arts.  489  e  1.022  do  CPC  quando  o  tribunal  de  origem  decide,  de  modo  claro,  objetivo  e  fundamentado,  as  questões  essenciais  ao  deslinde  da  controvérsia,  embora  sem  acolher  a  tese  do  insurgente.
+2.  O  magistrado  é  o  destinatário  das  provas,  cabendo-lhe  apreciar  a  necessidade  de  sua  produção,  sendo  soberano  para  formar  seu  convencimento  e  decidir  fundamentadamente,  em  atenção  ao  princípio  da  persuasão  racional.
+3.  Não  se  admite  a  revisão  do  entendimento  do  tribunal  de  origem  quando  a  situação  de  mérito  demandar  o  reexame  do  acervo  fático-probatório  dos  autos,  tendo  em  vista  o  óbice  da  Súmula  n.  7  do  STJ.
+4.  Rever  a  convicção  formada  pelo  tribunal  de  origem  acerca  da  prescindibilidade  de  produção  da  prova  pericial  requerida  e  da  não  comprovação  do  excesso  de  execução  demandaria  reexame  do  conjunto  fático-probatório,  o  que  é  vedado  em  recurso  especial,  devido  ao  óbice  da  Súmula  n.  7  do  STJ.
+5.  Somente  em  hipóteses  excepcionais,  quando  irrisório  ou  exorbitante  o  valor  da  indenização  por  danos  morais  arbitrado  na  origem,  a  jurisprudência  desta  Corte  permite  o  afastamento  do  óbice  da  Súmula  n.  7  do  STJ  para  possibilitar  a  revisão  do  quantum  arbitrado.  No  caso,  o  valor  estabelecido  pelo  Tribunal  a  quo  não  se  mostra  excessivo,  a  justificar  sua  reavaliação  em  recurso  especial.
+6.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.652.913/SP,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  7/10/2024,  DJe  de  9/10/2024).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  1.  CERCEAMENTO  DE  DEFESA.  SUFICIÊNCIA  DE  PROVAS  ATESTADA  PELAS  INSTÂNCIAS  ORDINÁRIAS.  LIVRE  CONVENCIMENTO  MOTIVADO  DO  JULGADOR.  INVERSÃO  DO  JULGADO.  IMPOSSIBILIDADE.  REEXAME  DE  PROVAS.  SÚMULA  7/STJ.  2.  NEXO  CAUSAL,  DANOS  MORAIS  E  ESTÉTICOS  CONFIGURADOS.  QUANTUM  INDENIZATÓRIO.  REVOLVIMENTO  DO  CONJUNTO  FÁTICO  PROBATÓRIO.  NÃO  CABIMENTO.  SÚMULA  N.  7/STJ.  3.  JUROS.  TERMO  INICIAL.  AUSÊNCIA  DE  PREQUESTIONAMENTO  DA  MATÉRIA.  4.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Nos  termos  da  jurisprudência  vigente  nesta  Corte  Superior,  a  prova  constitui  elemento  de  formação  da  convicção  do  magistrado  acerca  dos  fatos,  tendo  como  destinatário  o  juiz,  o  qual  possui  a  prerrogativa  de  livremente  apreciá-la  através  de  motivada  decisão.
+2.  Modificar  as  conclusões  do  Tribunal  local,  acerca  da  prescindibilidade  de  produção  de  outras  provas,  da  comprovação  do  nexo  causal  e  do  quantum  indenizatório,  incorrerá  em  reexame  de  matéria  fático-probatória,  o  que  é  inviável,  devido  ao  óbice  da  Súmula  7/STJ.
+3.  A  indicação  de  dispositivos  sem  que  esses  tenham  sido  debatidos  pelo  Tribunal  de  origem  obsta  o  conhecimento  do  recurso  especial  pela  ausência  de  prequestionamento.
+4.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.674.495/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  7/10/2024,  DJe  de  9/10/2024).
+Por  fim,  em  relação  à  multa  imposta,  consoante  destacado  na  decisão  monocrática,  rever  o  entendimento  firmado  pela  instância  ordinária  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  pelo  óbice  da  Súmula  nº  7/STJ.
+Nesse  sentido:
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AUSÊNCIA  DE  VIOLAÇÃO  DO  ART.  1.022  DO  CPC.  CONTRATO  DE  MÚTUO.  DESCONTO  EM  CONTA-CORRENTE.  TEMA  N.  1.085  DO  STJ.  AUTORIZAÇÃO  EXPRESSA  DOS  DESCONTOS  PELO  CONSUMIDOR.  REVOGAÇÃO.  IMPOSSIBILIDADE.  REEXAME  DE  FATOS  E  PROVAS.  SÚMULA  N.  7/STJ.  MULTA  DO  ART.  1.026,  §  2º,  DO  CPC.  AFASTAMENTO.  SÚMULA  N.  7  DO  STJ.
+1.  Não  há  que  falar  em  violação  do  artigo  1.022  do  CPC,  porquanto  depreende-se  do  acórdão  recorrido  que  o  Tribunal  de  origem,  de  forma  clara  e  fundamentada,  se  manifestou  sobre  os  pontos  alegados  como  omissos.
+2.  O  Tribunal  de  origem  manifestou-se  no  mesmo  sentido  da  pacífica  jurisprudência  desta  Corte,  incidindo,  portanto,  a  Súmula  n.  83/STJ.
+3.  O  acórdão  local  não  fere  o  entendimento  fixado  no  julgamento  do  Tema  Repetitivo  1.085,  porquanto  a  conclusão  do  Tribunal  de  origem  foi  alcançada  a  partir  dos  elementos  informativos  do  processo  fundamentando-se  no  fato  de  que,  na  espécie,  há  expressa  autorização  do  recorrente  para  tais  descontos.
+4.  A  modificação  do  julgado,  nos  moldes  pretendidos  pelo  agravante,  requer  o  reexame  do  conjunto  fático-probatório  dos  autos,  o  que  é  vedado  ao  STJ,  em  recurso  especial,  por  esbarrar  no  óbice  da  Súmula  n.  7  do  STJ.
+5.  O  afastamento  da  multa  do  art.  1.026,  §  2º,  do  CPC,  aplicada  pelo  Tribunal  de  origem  por  considerar  protelatórios  os  embargos  de  declaração  opostos  com  a  finalidade  de  rediscutir  tema  que  já  havia  sido  apreciado  naquela  instância,  é  inviável  de  análise  na  via  do  recurso  especial  por  demandar  reexame  de  matéria  fático-probatória.  Precedentes.
+Agravo  interno  improvido"  (AgInt  no  REsp  2.146.642/DF,  Relator  Ministro  HUMBERTO  MARTINS,  Terceira  Turma,  julgado  em  7/10/2024,  DJe  de  9/10/2024).
+Nesse  con  texto,  correto  o  conhecimento  parcial  do  recurso  especial  e,  nessa  extensão,  o  seu  desprovimento.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
