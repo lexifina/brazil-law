@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto em favor de TED JUNIOR DE LIMA SOUZA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que não conheceu da ordem pleiteada no HC n. 1.0000.24.358131-1/000.
+Consta dos autos que o recorrente se encontra em cumprimento de pena privativa de liberdade, totalizada em 11 (onze) anos e 06 (seis) meses e foi preso preventivamente, em razão de prática de novo delito.
+Neste recurso, a Defesa alega constrangimento ilegal configurado porque o paciente faz jus ao cômputo do período de reclusão, para fins de detração, a fim de atualizar a pena remanescente, de modo que deve ser considerado o período em que o mesmo permaneceu preso preventivamente, nos termos do art. 42 do Código Penal.
+Sustenta que o reeducando satisfaz os requisitos legais a justificar o benefício da comutação de pena, tais como, o cumprimento de mais da metade da pena imposta, não há registro do cometimento de falta grave, possui bom comportamento carcerário.
+Aduz que é cabível a concessão de ofício da ordem para determinar a apreciação do pedido em habeas corpus pelo Tribunal de origem como substitutivo ao agravo em execução.
+Requer, liminarmente e no mérito, o provimento do recurso, a fim de que seja aplicada a comutação de pena ou que seja determinado ao Tribunal de Minas Gerais a análise do mérito como entender de direito.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus (e-STJ fls. 1438/1441).
+É o relatório.
+DECIDO.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada (e-STJ fls. 1352/1354 - grifamos):
+Ora, no caso dos autos, percebe-se que a situação da paciente está sendo devidamente acompanhada pela magistrada a quo, não sendo demostrada nenhuma irregularidade na execução da pena, conforme seu relatório da situação processual executória acostado nos documentos de ordem 09. Vejamos as informações prestadas pela douta magistrada:
+"(..) Em 23/05/2024, foi designada audiência de justificação em razão da notícia do descumprimento das condições do regime aberto.
+Antes da realização da audiência sobreveio comunicado de prisão em flagrante referente aos autos nº 500518.93.2024.8.13.0043, com a informação de que o paciente se encontra recolhido no Presídio de Campos Gerais/MG.
+A Defensoria Pública e o Ministério Público requereram a declinação da competência e a remessa dos autos da execução penal para a Comarca em que o paciente se encontra recolhido.
+A Defesa constituída requereu que fosse oficiada à APAC de Perdões/MG para informar o período trabalhado para fins de remição de pena. Além disso, pediu a atualização do cálculo de pena e a aplicação da detração, sob o argumento de que foi proferida sentença no processo em que paciente estava preso preventivamente.
+Em julho de 2024 foi impetrado Habeas Corpus nº 1.0000.24.340503-2/000, alegando que o paciente não possui faltas graves nos últimos 12 (doze) meses e faz jus à comutação de pena, cuja liminar foi indeferida, no entanto, foi informado a Vossa Senhoria, que nos autos da Execução Penal não havia pedido de comutação de pena formulado pela Defesa.
+Em 06/08/2024, foram prestadas as informações do Habeas Corpus e proferida decisão determinando a suspensão do feito e o lançamento de interrupção do cumprimento da pena, considerando que o sentenciado se encontrava preso preventivamente em processo que não integrava a presente execução penal. Ainda, foi declinada a competência para a Comarca de Campos Gerais/MG, onde o paciente se encontra recolhido. Por fim, foi determinado que fosse oficiada a APAC de Perdões/MG para informar os dias eventualmente trabalhados pelo sentenciado, para fins de remição.
+Em 08/08/2024 foi juntada aos autos nova Guia de Recolhimento Provisória, referente ao processo de conhecimento nº 0000299-68.2024.8.13.0043.
+Em 11/08/2024 a Defesa novamente requereu a atualização do cálculo da pena do sentenciado, considerando a detração penal pelo período de prisão; a concessão da comutação de pena com base no Decreto nº 11.846, de 22 de dezembro de 2023; a expedição do alvará de soltura em caso de progressão de regime e a remessa dos autos para Comarca de Campos Gerais.
+Na presente data, foi proferida decisão homologando a falta grave em razão da prática de crime no curso da execução penal, sendo unificadas as penas do sentenciado e regredido seu regime prisional. Ademais, foi constatado que a detração já foi devidamente concedida ao sentenciado, bem como não foi analisado o pedido de comutação em razão da ausência de manifestação prévia do Ministério Público. Por fim, determinada novamente a remessa dos autos à Comarca de Campos Gerais/MG. (..)" (vide documento de ordem 09)
+Pelo exposto, não se verifica, de plano, flagrante e manifesta ilegalidade a configurar ofensa, ainda que indireta, ao direito de ir e vir do paciente, o que impõe o não conhecimento do presente habeas corpus.
+Conforme se verifica, quanto ao pedido de detração, o Juízo das Execuções Penais informou que o benefício foi devidamente concedido, assim sendo, nenhuma ilegalidade configurada.
+Por sua vez, em relação ao pedido de indulto, conforme informações prestadas pelo Juízo de Direito de Campos Gerais/MG, consignou que (e-STJ fls. 1416/1417):
+Do requerimento de indulto
+0 art. 2º, X do Decreto n. 11.846/23 dispõe que o indulto será concedido às pessoas "condenadas a pena de multa, ainda que não quitada, independentemente da fase executória ou do juízo em que se encontre, aplicada isolada ou cumulativamente com pena privativa de liberdade, desde que não supere o valor mínimo para o ajuizamento de execuções fiscais de débitos com a Fazenda Nacional, estabelecido em ato do Ministro de Estado da Fazenda, ou que não tenham capacidade econômica de quitá-la, ainda que supere o referido valor".
+O decreto estabelece critérios alternativos: não superar o valor de alçada para ajuizamento de execução fiscal de débito com a Fazenda Nacional ou não ter capacidade econômica para quitar a pena. Com relação ao primeiro critério, a secretaria deverá atualizar o cálculo da pena de multa.
+Com relação ao segundo critério, o reeducando é representado por advogado constituído, o que indica que possui capacidade econômica para adimplir a pena. Assim, derruída a presunção de pobreza, cabe ao reeducando juntar documentos que demonstrem meios de vida, patrimônio e renda mensal familiar média, pena de indeferimento do pedido.
+Ante o exposto:
+1. Remeta-se cópia desta decisão ao Exmo. Ministro Relator do HC 205.544/MG. Visto que o relatório da decisão menciona a alegação de que não houve detração e que o reeducando possui bom comportamento, instrua-se as informações com seq. 131, 134 e 347, que retificaram o atestado para excluir a interrupção de pena e reconheceram a ocorrência de falta grave;
+2. Desentranhe-se seq. 369;
+3. Intime-se a defesa para juntar documentos que demonstrem a situação econômica do reeducando e para, caso queira, formular pedido de remição devidamente instruído e fundamentado com base nas remições já registradas na aba "incidentes concedidos- em 10 dias;
+4. Dê-se vista ao MP por 10 dias;
+5. Após, conclusos para análise dos pedidos pendentes.
+Verifica-se regular o trâmite do processo no Juízo da Execução Penal, em que inclusive em 15/10/ 2024 fora prolatada decisão requisitando à defesa apresentação de documentos referentes ao indulto do Decreto Presidencial n. 11.846/2023 e apresentação de pleito por remição devidamente instruído.
+Nesse contexto, o presente caso não se enquadra nas hipóteses excepcionais passíveis de provimento do recurso, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
