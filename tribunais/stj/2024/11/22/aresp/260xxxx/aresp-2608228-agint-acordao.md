@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. LIQUIDAÇÃO DE SENTENÇA.
+1. O entendimento adotado pelo Tribunal de origem se encontra em conformidade com a jurisprudência desta Corte, firme no sentido de que "a liquidação é fase do processo de cognição, só sendo possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se líquido. Logo, o lapso prescricional da ação de execução só tem início quando finda a liquidação (Súmula 83/STJ)" (AgRg no AREsp 214.471/RS, rel. Ministro Castro Meira, Segunda Turma, julgado em 4/12/2012, DJe de 4/2/2013).
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado do Maranhão desafiando decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) ausência de prestação jurisdicional; e (II) em razão de o acórdão recorrido ter sido proferido em consonância com a jurisprudência desta Corte (177/179).
+Em suas alegações, a parte agravante sustenta que "a jurisprudência do Superior Tribunal de Justiça está consolidada no sentido que a prescrição para liquidação e/ou execução da sentença coletiva tem início do trânsito em jugado da sentença coletiva, ilidindo a aplicação do óbice previsto na Súmula nº 83 do STJ, na medida em que, data máxima vênia, o acórdão recorrido encontra-se em total dissonância com a jurisprudência pacificada pela Corte Especial do C. STJ.  ..  Desta feita, verifica-se que o caso em questão se diferencia dos paradigmas colacionados pela relatoria do feito para embasar a harmonia de entendimentos entre o acórdão do tribunal local e o STJ, pois segundo pode se inferir dos precedentes acima destacados não se aplica às ações coletivas a compreensão de que o prazo prescricional para cumprimento de sentença só começa a fluir após a liquidação de sentença, o que é suficiente, por si só, para afastar possível incidência do óbice da Súmula 83/STJ" (fls. 189/191).
+Transcorrido in albis o prazo para impugnação (fl. 198).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. LIQUIDAÇÃO DE SENTENÇA.
+1. O entendimento adotado pelo Tribunal de origem se encontra em conformidade com a jurisprudência desta Corte, firme no sentido de que "a liquidação é fase do processo de cognição, só sendo possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se líquido. Logo, o lapso prescricional da ação de execução só tem início quando finda a liquidação (Súmula 83/STJ)" (AgRg no AREsp 214.471/RS, rel. Ministro Castro Meira, Segunda Turma, julgado em 4/12/2012, DJe de 4/2/2013).
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pelo decisório recorrido.
+Como antes afirmado, o Tribunal de origem afastou a ocorrência da prescrição, sob a seguinte fundamentação (fl. 84):
+ ..
+Compulsando os autos, verifico que a pretensão não resta fulminada pela prescrição.
+Com efeito, conforme entendimento do STJ quando se tratar de título ilíquido, o prazo prescricional para a propositura da demanda executiva inicia-se somente após a liquidação da sentença, momento em que não mais se discute a sua certeza e liquidez.
+Vejamos:
+Quanto à prescrição da sentença ilíquida, o entendimento desta Corte Superior é de que, sendo a liquidação ainda fase do processo de cognição, só é possível iniciar a Execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se também líquido.
+Assim, o lapso prescricional só se inicia quando finda a liquidação (AgRg no REsp. 1.212.834/PR, Rel. Min. HUMBERTO MARTINS, DJe 13.4.11)
+No presente caso, a liquidez da sentença proferida na Ação Coletiva nº 14.440/2000, ajuizada pelo SINPROESEMMA, ocorreu apenas em 09/12/2013, conforme decisão de homologação dos cálculos, de modo que, a partir daí, iniciou-se a contagem do prazo prescricional.
+No caso, o cumprimento de sentença de origem encontra-se dentro do prazo prescricional de 05 (cinco) anos, a contar da data da liquidação da sentença, eis que foi ajuizado na data de julho/2016.
+Destarte, reitera-se que o entendimento adotado pelo Tribunal de origem se encontra em conformidade com a jurisprudência desta Corte, firme no sentido de que "a liquidação é fase do processo de cognição, só sendo possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se líquido. Logo, o lapso prescricional da ação de execução só tem início quando finda a liquidação (Súmula 83/STJ)" (AgRg no AREsp 214.471/RS, rel. Ministro Castro Meira, Segunda Turma, julgado em 4/12/2012, DJe de 4/2/2013).
+Em reforço:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA COLETIVA. TERMO INICIAL DA PRESCRIÇÃO. SENTENÇA ILÍQUIDA. TESE QUE SUSTENTA QUE A LIQUIDAÇÃO DEPENDIA DE MEROS CÁLCULOS ARITMÉTICOS. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A jurisprudência desta Corte é firme no sentido de que "a liquidação é fase do processo de cognição, só sendo possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se líquido. Logo, o lapso prescricional da ação de execução só tem início quando finda a liquidação" (AgRg no AREsp 214.471/RS, Rel. Ministro Castro Meira, Segunda Turma, DJe 4/2/2013).
+2. Com efeito, alterar o entendimento firmado pelo órgão julgador quanto ao termo inicial da prescrição executória, acolhendo-se, para tanto, a alegação recursal de que a liquidação se deu por simples cálculos aritméticos, demandaria o revolvimento do acervo fático-probatório do caso vertente, o que encontra óbice na Súmula 7/STJ.
+3. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.752.806/MA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/4/2021, DJe de 23/4/2021.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONTRARIEDADE À COISA JULGADA E ILEGALIDADE DA INVERSÃO DO ÔNUS DA PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. PRESCRIÇÃO. INOCORRÊNCIA. PRAZO QUE TEM INÍCIO APÓS A LIQUIDAÇÃO DO TÍTULO. SÚMULA 83/STJ. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA "A". DISSÍDIO PRETORIANO PREJUDICADO. 1.
+Constata-se que não se configura a ofensa aos arts. 489, § 1º, e 1.022, I, do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Quanto à alegação de contrariedade à coisa julgada e ilegalidade da inversão do ônus da prova, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ.
+3. O Superior Tribunal de Justiça possui jurisprudência consolidada de que a liquidação é fase do processo de cognição, só sendo possível iniciar a execução se o título, certo pelo trânsito em julgado da sentença de conhecimento, estiver também líquido.
+4. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, do inciso III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+6. Agravo Interno não provido.
+(AgInt no AREsp 1.365.447/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/8/2019, DJe de 13/9/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. PRESCRIÇÃO. TERMO INICIAL DO PRAZO. LIQUIDAÇÃO. INOVAÇÃO RECURSAL. NÃO CABIMENTO.
+1. A liquidação é fase do processo de cognição, só sendo possível iniciar-se a execução se o título, certo pelo trânsito em julgado da sentença de conhecimento, estiver também líquido. Precedentes.
+2. Na origem, inexiste discussão quanto à necessidade ou não de simples cálculo aritmético para a apuração do valor executado, tampouco da repercussão da entrega de planilhas para a contagem do prazo prescricional.
+Além disso, os precedentes citados pela agravante não guardam relação com o caso e, por fim, essa tese não é estabelecida no recurso especial. Assim, carecem de qualquer sentido as alegações trazidas pela União no presente recurso.
+3. Também não consta do apelo nobre a alegação de que o protesto interruptivo, apresentado pelo SINDISPREV/RS, não aproveita aos servidores beneficiados pelo título executivo. Tendo surgido apenas neste agravo interno, a matéria configura inovação recursal, descabendo o seu exame neste momento do processo.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 316.478/PR, rel. Ministra Diva Malerb, Desembargadora convocada TRF da 3ª Região, Segunda Turma, julgado em 16/8/2016, DJe de 23/8/2016.)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
