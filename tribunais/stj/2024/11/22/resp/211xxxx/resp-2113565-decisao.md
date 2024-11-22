@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial no qual o INSTITUTO ESTADUAL DE FLORESTAS - IEF se insurgiu, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO - EMBARGOS À EXECUÇÃO - MULTA - PROCESSO ADMINISTRATIVO - DESÍDIA DA ADMINISTRAÇÃO - VIOLAÇÃO AO PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO - PRESCRIÇÃO INTERCORRENTE CONSUMADA.
+1 - A ausência de previsão legal quanto à prescrição intercorrente não leva à conclusão de que o processo administrativo pode tramitar indefinidamente, sob pena de violação ao disposto no art. 5º, LXXVIII, da CR/88, segundo o qual "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação".
+2 - No caso, entre a interposição do recurso administrativo e o julgamento pelo órgão competente houve o transcurso de 07 (sete) anos, inexistindo qualquer motivo a justificar tal desídia da Administração, o que atrai a aplicação da prescrição intercorrente ao caso.
+3 - Agravo de instrumento provido.
+A questão debatida nos autos, qual seja, "definir se, na falta de previsão em lei específica nos Estados e Municípios, o Decreto n. 20.910/1932 pode ser aplicado para reconhecer a prescrição intercorrente no processo administrativo", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tem a 1.294), dos Recursos Especiais 2.002.589/PR e 2.137.071/MG, de relatoria do Ministro Afrânio Vilela.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Reg imento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim d e que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
