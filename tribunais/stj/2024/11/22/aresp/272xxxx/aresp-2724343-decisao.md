@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por Vanda Maria Pinheiro Martins contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 984):
+APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. FUNCIONÁRIO PÚBLICO VINCULADO A EMARHP/MAPA. SOCIEDADE DE ECONOMIA MISTA. REGIME CELETISTA. DECISÃO QUE ABRANGE SERVIDOR PÚBLICO STRICTU SENSU, OU SEJA, ESTATUTÁRIO. ILEGITIMIDADE ATIVA. SENTENÇA MANTIDA.
+1. O ponto nodal do presente recurso é saber o alcance do título executivo judicial proveniente da Ação Coletiva nº 6.542/2005, promovida pelo SINTSEP e, ainda, se o apelante é parte legitima para executá-lo.
+2. Na espécie, malgrado a recorrente seja filiada ao referido sindicato, o que se extrai da decisão exarada na demanda coletiva que a mesma trata de servidor público stricto sensu, vez que em nenhuma passagem trata de funcionários ou empregados públicos, exercentes de empregos em sociedade de economia mista, regido pela CLT, por exemplo, como é o caso do autor.
+3. Apelo conhecido e não provido.
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação ao art. 508 do CPC. Sustenta que: "além de não ocorrer ilegitimidade in casu, como já falado, porém, sem adentrar nesse ponto especificamente por ser uma temática que dependa de análise de provas e fatos, a matéria acolhida pelo Tribunal Estadual, embora se trate, especificamente de legitimidade ad causam, sendo matéria de ordem pública relacionada às condições da ação, este Superior Tribunal de Justiça já se posicionou no sentido de que ela também está sujeita a PRECLUSÃO e é exatamente o que ocorreu na espécie.  ..  a matéria foi atingida pela PRECLUSÃO, na medida em que transitou em julgado a parte da decisão proferida na fase de conhecimento e liquidação que condenou e homologou os percentuais devidos, reconhecendo, assim, ainda que implicitamente, a legitimidade ativa ad causam" (fls. 1.004/1.005).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Com efeito, colhe-se do aresto de origem a seguinte fundamentação (fls. 983/1.011):
+O ponto nodal do presente recurso é saber o alcance do título executivo judicial proveniente da Ação Coletiva nº 6.542/2005, promovida pelo SINTSEP e, ainda, se o apelante é parte legitima para executá-lo, já que, assenta, é filiado ao referido sindicato.
+Sobre isso, eis o teor da decisão proferida na demanda coletiva, no que importa para o deslinde da demanda:
+ ..
+Diante disso, extrai-se da mencionada decisão que a mesma trata de servidor público stricto sensu, em especial, quando da sua fundamentação. Sendo assim, como assentado na sentença vergastada, verifico que o texto legal contempla somente os servidores públicos stricto sensu, vez que em nenhuma passagem trata de funcionários ou empregados públicos, exercentes de empregos em sociedade de economia mista, regido pela CLT, por exemplo.
+Nesse toar, verifico, no contracheque acostado no ID 30789956, fl. 4 de 6, que a apelante é vinculada à EMARPH/MAPA sob o regime celetista, no cargo TEC. INFORMAT. 2, e, por essa razão, não possui a qualidade de servidor público, visto que o seu regime de contrato de trabalho difere daqueles que mantém o vínculo estatutário com a parte executada e que, por essa razão, detém legitimidade para executar o título executivo judicial proveniente da Ação Coletiva nº 6.542/2005, promovida pelo SINTSEP, à exceção dos servidores regidos pela CLT, como é o caso do demandante.
+Ou seja, não se trata simplesmente de estar ou não filiado ao SINTSEP, mas do alcance da decisão proferida na demanda coletiva que, repiso, contempla somente os servidores públicos stricto sensu, não regidos pela CLT.
+ ..
+Nesse passo, mostrar-se-ia indevido compelir o Estado do Maranhão a arcar com responsabilidade que não seria de sua alçada, uma vez que é a própria MAPA que deve responder aos pleitos concernentes à remuneração dos seus empregados públicos, possuindo esta a capacidade jurídica necessária para atuar na defesa de seus interesses.
+Nesse contexto, verifica-se que o Tribunal de origem não se manifestou sobre a alegação de que encontra-se preclusa a controvérsia acerca da legitimidade, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
