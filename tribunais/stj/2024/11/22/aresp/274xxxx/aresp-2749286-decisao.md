@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DE NIGRIS DISTRIBUIDORA DE VEICULOS LTDA. (DE NIGRIS) pretendendo a reforma da decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, Relator MILTON CARVALHO, assim ementado:
+AGRAVO DE INSTRUMENTO. Tutela de urgência deferida para determinar que as rés mantenham a cobertura de garantia do veículo até julgamento final ou segunda ordem e, quando acionadas, promovam os reparos dos defeitos apresentados ou, em não sendo possível, disponibilizem veículo similar para uso pela autora. Veículo adquirido zero quilômetro que passou a apresentar diversos problemas após poucos meses de uso. Inexistência de elementos indicativos de que os problemas decorreram de mau uso. Serviços necessários para reparação do veículo de valores elevados. Manutenção da garantia que se justifica para a manutenção do equilíbrio contratual. Probabilidade do direito alegado pela agravada evidenciado. Perigo de dano configurado, uma vez que o veículo é utilizado para o desenvolvimento de atividade econômica pela agravada (transporte escolar) e os problemas mecânicos, se não solucionados, poder gerar riscos à segurança da própria agravada, dos passageiros que ela transporte e de terceiros.
+Requisitos autorizadores da medida pleiteada vislumbrados em sede de cognição sumária. Decisão mantida. Recurso desprovido. (e-STJ, fl. 17)
+Os embargos de declaração opostos por DE NIGRIS foram rejeitados (e-STJ, fls. 27/32).
+Irresignada, DE NIGRIS interpôs recurso especial, com base no art. 105, III, alíneas a e c, da CF, apontando violação dos arts. 300 e 1.022, II, do CPC; e 26, II, do CDC, bem como dissídio jurisprudencial, afirmando que (1) houve omissão acerca da necessidade de análise do previsto no art. 26, II, do CDC (2) não ficou evidenciada a probabilidade do direto da Recorrida (e-STJ, fl. 39), não havendo que se falar em concessão da tutela de urgência (3) a dilatação do prazo de garantia lhe acarretará evidente prejuízo, não sendo razoável a determinação judicial (4) necessária a dilação probatória para que se chegue à conclusão de qual tipo de defeito está acontecendo com o veículo.
+O recurso não foi admitido pelo Tribunal estadual.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) omissão
+Verifica-se que devidamente esclarecidas as razões de decidir pelo Tribunal de origem, não se configurando o alegado vício. Confira-se:
+Pretende a embargante seja declarado o venerando acórdão de fls. 16/23 sustentando omissão em relação à delimitação dos consertos que poderão ser feitos no veículo da embargada, já que estes devem estar restritos aos que constam expressamente na garantia. Requer seja o tema enfrentado, bem como seja prequestionada a aplicação do artigo 26, II do Código de Defesa do Consumidor.
+ ..
+Restaram suficiente e especificamente debatidos os motivos pelos quais esta Colenda Câmara manteve a decisão agravada que determinou a prorrogação da garantia contratual e que as rés promovam novos reparos eventualmente necessários ou, em não sendo possível, disponibilizem veículo similar à embargada.
+Destacou-se ainda, que, por força do disposto no artigo 302 e parágrafo único do Código de Processo Civil, caso eventualmente venha a se apurar que os problemas surgidos no veículo após o término da garantia contratual não decorreram de defeito de fabricação, a agravada pode ser responsabilizada pelo custeio dos serviços realizados. (fls. 21) (realces não originais). (e-STJ, fls. 28/29)
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. PRESCRIÇÃO. INTERRUPÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, §1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+5. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.842.775/RS, de minha relatoria, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022)
+(2) tutela de urgência
+Quanto ao ponto, o Tribunal de origem, concluiu que
+Os documentos que instruíram a petição inicial demonstram que a agravada adquiriu da agravante veículo novo (fls. 47) e que, apenas poucos meses de uso, passou a apresentar diversos problemas (fls. 52/72), a evidenciar a probabilidade do direito alegado pela agravada.
+Com efeito, em se tratando de veículo zero quilômetro com pouco tempo de utilização, não era de se esperar o aparecimento de diversos problemas a justificar a necessidade de reiterados reparos.
+A agravada apresentou diversas ordens de serviço referentes aos reparos realizados no veículo (fls. 57/72) e, em nenhuma delas há observação no sentido de que os problemas constatados decorreram do mau uso pela consumidora.
+O pedido de tutela de urgência formulado pela agravada se justificou inclusive pelo alto custo dos serviços que até então foram realizados sem que ela arcasse com o seu pagamento, em razão da garantia contratual vigente, o que é corroborado pelas notas de serviço apresentadas. Naquela emitida em 24/08/2023, por exemplo, a substituição das peças danificadas correspondeu ao total de R$18.041,21 (fls. 66/67).
+A alegação de que todos os problemas até então apresentados pelo veículo foram solucionados não afasta a probabilidade do direito alegado, uma vez que foram necessários muitos consertos em curto espaço de tempo, a corroborar a argumentação de que o veículo que, reitera-se, foi adquirido novo e utilizado pela agravada por poucos meses antes do aparecimento dos problemas apresenta vícios ocultos cuja origem provém de defeitos de fabricação.
+Nesse contexto, a determinação de prorrogação da garantia contratual e de que as rés promovam novos reparos eventualmente necessários ou, em não sendo possível, disponibilizem veículo similar à agravada se justifica para a manutenção do equilíbrio contratual.
+Vislumbra-se, também perigo de dano em prejuízo da agravada, tendo em vista que ela utiliza o veículo como instrumento de trabalho (para transporte escolar), e que os problemas mecânicos, se não sanados, representam risco à segurança pessoal da agravada, dos passageiros que ela transporta e de outros motoristas.
+Em contrapartida, não se identifica perigo de dano em prejuízo da agravante, pois, caso eventualmente venha a se apurar que os problemas surgidos no veículo após o término da garantia contratual não decorreram de defeito de fabricação, a agravada pode ser responsabilizada pelo custeio dos serviços realizados. (e-STJ, fls. 19/21)
+A conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ.
+Acrescente-se que o pacífico entendimento desta Corte, em sintonia com o disposto na Súmula nº 735 do STF, determina que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+De qualquer forma, rever as conclusões adotadas pelo Tribunal Estadual quanto ao preenchimento dos requisitos para a concessão da tutela antecipada, bem como quanto à desproporcionalidade entre o dano e a medida reparatória, demandaria, necessariamente, o reexame do conjunto fático- probatório dos autos, o que é vedado em razão da incidência da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. TUTELA DE URGÊNCIA. DECISÃO PRECÁRIA. RECURSO ESPECIAL. INADMISSIBILIDADE. SÚMULA Nº 735 DO STF. REQUISITOS DA TUTELA. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INVIABILIDADE. SÚMULAS Nºs 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. É inviável o recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, a teor do disposto na Súmula nº 735 do STF.
+3. O Tribunal estadual concluiu que estão presentes os requisitos para concessão da tutela de urgência, na medida em que o Plano de Equacionamento é precário, conforme reconhecido pela PETROS, e impõe redução remuneratória de 40% que importa em prejuízo da sobrevivência do beneficiário, sem justificativa e demonstração plausíveis. A revisão deste entendimento, para reconhecer ausentes os requisitos da tutela de urgência, ensejaria reexame de fatos e provas e a interpretação de cláusula contratual, vedados nos termos das Súmulas nºs 5 e 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1.883.812/RJ, de minha relatoria, Terceira Turma, j. em 29/11/2021, DJe 1º/12/2021)
+(3) prejuízo pela dilatação da garantia legal e da obrigatoriedade de fornecer veículo adaptado
+Verifique-se que o Tribunal de origem não emitiu pronunciamento específico sobre o citado tema, até porque não foi abordada a questão específica do prejuízo nos embargos de declaração que, apenas, solicitou o prequestionamento do previsto no art. 26, II, do CDC.
+Incidem quanto ao ponto, portanto, as Súmulas nºs 282 e 356 do STF. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREJUDICIALIDADE EXTERNA. SUSPENSÃO. PRAZO LIMITE. CPC/2015, ART. 313, § 4º. EXTRAPOLAÇÃO. RETOMADA DO CURSO PROCESSUAL. ILEGITIMIDADE. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. SÚMULAS N. 282 E 356/STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. Sobre a cogitada ilegitimidade ativa, o tema não foi objeto de exame pelo TJ local, carecendo o recurso, no ponto, do necessário prequestionamento (súmulas n. 282 e 356/STF), requisito exigível ainda que se trate de matéria de ordem pública. Precedentes.
+3. O recurso especial não comporta o reexame de elementos fático-probatórios dos autos. Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.359.593/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+(4) necessidade de dilação probatória
+O TJSP deixou claro que haverá a dilação probatória necessária à comprovação de todos os argumentos elencados por ambas as partes, o que se pode verificar do seguinte trecho.
+ ..  neste momento, somente é possível analisar a existência ou não dos requisitos legais que autorizam a medida, sob pena de se antecipar o julgamento de mérito, que depende de observância do devido processo legal, ou seja, do pleno exercício do contraditório e da ampla defesa, com a produção de todas as provas que se fizerem necessárias. (e-STJ, fl. 19
+Importante destacar, ainda, que a viabilidade do recurso especial pela alínea c do art. 105, III, da Constituição Federal pressupõe que, além da transcrição dos acórdãos aptos à comprovação da alegada divergência, se proceda ao cotejo analítico entre o aresto recorrido e o trazido como paradigma, com a demonstração da identidade fática entre eles e da interpretação divergente dada ao mesmo dispositivo legal, o que não ocorreu na espécie. A propósito:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE NULIDADE DE ESCRITURA PÚBLICA DE DOAÇÃO. JULGAMENTO FORA DO PEDIDO. INOCORRÊNCIA. OBSERVÂNCIA DOS LIMITES TRAÇADOS PELA CAUSA DE PEDIR E PELOS PEDIDOS. RECONHECIMENTO INCIDENTAL E DE OFÍCIO DE CAUSA DE NULIDADE DO NEGÓCIO NÃO ARGUIDA. POSSIBILIDADE. RESPEITO AO CONTRADITÓRIO, À AMPLA DEFESA E AO DIREITO À PROVA. DOAÇÃO REMUNERATÓRIA. RESPEITO AOS LIMITES DE DISPOSIÇÃO DELINEADOS PELO LEGISLADOR. IMPOSSIBILIDADE DE DISPOSIÇÃO, A ESSE TÍTULO, DA TOTALIDADE DO PATRIMÔNIO OU DE PARTE QUE AFRONTE À LEGÍTIMA DOS HERDEIROS NECESSÁRIOS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+ ..
+5- A ausência de cotejo analítico entre o acórdão recorrido e o acórdão paradigma impede o conhecimento do recurso especial interposto pela divergência.
+6- Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 1.708.951/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 14/5/2019, DJe 16/5/2019)
+No caso em análise, não foram preenchidos os requisitos dos arts. 1.029, § 1º, do CPC, e 255 do RISTJ, o que inviabiliza o exame de dissídio interpretativo.
+De outra parte, a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. DEVOLUÇÃO EM DOBRO. MÁ-FÉ DO CREDOR. INEXISTÊNCIA. REEXAME. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. APRECIAÇÃO EQUITATIVA. LIMITES. VALOR FIXO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+3. Não há como rever a conclusão do tribunal de origem, acerca da ausência de má-fé do credor a justificar a devolução em dobro dos valores pagos indevidamente, sem a análise de fatos e provas, o que é inviável no recurso especial devido à incidência da Súmula nº 7/STJ.
+ ..
+6. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.231.900/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 8/5/2018, DJe 15/5/2018)
+Dessa forma, não há interesse de agir da parte em relação ao citado tema, tendo em vista a anterior conclusão em que já atendida sua pretensão.
+Nessas condições, CONHEÇO o agravo para NEGAR PROVIMENTO ao recurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VEÍCULO ZERO QUILÔMETRO. DEFEITOS DE FABRICAÇÃO. ART. 26, II, DO CDC. OMISSÃO. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA. CONCESSÃO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 7/STJ E 735/STF . AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. DILATAÇÃO DA GARANTIA LEGAL. PREJUÍZO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DAS SÚMULAS NºS 282 E 356 DO STJ. DILAÇÃO PROBATÓRIA. AUSÊNCIA DE INTERESSE. SOLICITAÇÃO JÁ CONCEDIDA. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. IMPOSSIBILIDADE DE ANÁLISE. CONCLUSÃO BASEADA EM PREMISSA FÁTICO-PROBATÓRIA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
