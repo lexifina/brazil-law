@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. LEI Nº 10.436/2004. ARTS. 46 E 47. PRAZO. AMPLIAÇÃO ABUSIVA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. SÚMULA Nº 283/STF. MÁ-FÉ. RESTITUIÇÃO EM DOBRO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Se o artigo apontado como violado não apresenta conteúdo normativo suficiente para fundamentar a tese desenvolvida no recurso especial, incide, por analogia, a Súmula nº 284/STF.
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Na hipótese, rever a conclusão do aresto impugnado acerca da existência de má-fé a ensejar a restituição em dobro dos valores cobrados demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ONE ALVES GUIMARAES EMPREENDIMENTO IMOBILIÁRIO SPE LTDA.  contra  a  decisão  que  conheceu  do  agravo  para  não conhecer do recurso especial em virtude da incidência das Súmulas nºs 283 e 284/STF e nº 211/STJ  ( e-STJ fls. 389/393).
+Em  suas  razões,  a  agravante  afirma que, ao revés do que consta na decisão recorrida, todos os fundamentos do acórdão vergastado foram impugnados de forma detida e clara.
+Ratifica a tese defendida no apelo nobre, no sentido de que houve violação do art. 46 da Lei nº 10.931/2002, considerando que o referido dispositivo legal não faz restrição ou exigência sobre como devem ser distribuídas as 36 (trinta e seis) parcelas de financiamento imobiliário. Logo, o fato de haver parcelas espaçadas não fere o texto legal.
+Aduz, ainda, que o acórdão recorrido menciona expressamente o art. 42 do Código de Defesa do Consumidor ao condená-la, equivocadamente, à restituição em dobro do valor relativo à correção monetária mensal, não havendo falar em ausência de prequestionamento.
+A parte contrária não ofereceu impugnação (e-STJ fl. 409).
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. LEI Nº 10.436/2004. ARTS. 46 E 47. PRAZO. AMPLIAÇÃO ABUSIVA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. SÚMULA Nº 283/STF. MÁ-FÉ. RESTITUIÇÃO EM DOBRO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Se o artigo apontado como violado não apresenta conteúdo normativo suficiente para fundamentar a tese desenvolvida no recurso especial, incide, por analogia, a Súmula nº 284/STF.
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Na hipótese, rever a conclusão do aresto impugnado acerca da existência de má-fé a ensejar a restituição em dobro dos valores cobrados demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+4. Agravo interno não provido.
+VOTO
+A insurgência não merece prosperar.
+A agravante não trouxe argumentos capazes de infirmar a conclusão registrada na decisão atacada.
+Trata-se, na origem, de ação de revisão de contrato de compra e venda de imóvel e devolução de valores julgada procedente nos seguintes termos:
+"Ante o exposto, JULGO PROCEDENTE o pedido do autor para DECLARAR NULA a cláusula 6 e subitens do contrato e CONDENAR a ré a devolver a quantia R$ 47.134,73 (EM DOBRO) pagos a título de correção monetária. Sobre os valores a serem devolvidos (em dobro) incidirá correção monetária de acordo com os índices da tabela do TJSP a partir de cada desembolso e com juros de mora a contar da citação" (e-STJ fl. 149).
+O Tribunal local julgou parcialmente procedente o recurso apelatório apenas para determinar que as parcelas contratuais sejam corrigidas com periodicidade anual, pelos índices previstos contratualmente.
+Restou mantido o entendimento de que a conduta da agravante de inserir uma última parcela do preço, equivalente a 0,3% (zero vírgula três por cento) do valor total do contrato, com vencimento após mais de um ano da quitação das parcelas anteriores, é abusiva e denota ausência de lealdade e boa-fé contratual.
+Por oportuno, colhe-se do julgado:
+"(..)
+Depreende-se dos autos que as partes celebraram, em 22/02/20, compromisso de compra e venda de imóvel, sendo os pagamentos acertados da seguinte forma:
+"A) R$ 4.131,02 a vista;
+B) 24 parcelas mensais e consecutivas de R$ 4.000,00, corrigidas monetariamente, vencendo-se a primeira no dia 10/02/2020 e a última em 10/01/2022.
+C) 2 parcelas anuais de R$ 10.000,00, corrigidas monetariamente, vencendo-se a primeira em 10/12/2020 e a segunda em 10/12/2021;
+D) R$ 20.000,000, corrigida monetariamente, com vencimento em 05/01/2022;
+E) R$ 30.000,00, corrigida monetariamente, com vencimento em 05/01/2022;
+F) R$ 165.644,00, corrigida monetariamente, com vencimento em 05/01/2022 e
+G) R$ 1.000,00, corrigida monetariamente e com juros de 12% ao ano, com vencimento em 05/02/2023."
+Ou seja, entre a primeira parcela (vencida em fev/20) e a penúltima (vencida em jan/22), transcorreram 24 meses, sendo que neste interregno foi quitado 99,70% do preço.
+Entretanto, havia a previsão contratual de uma única parcela, no valor diminuto de R$1.000,00, com vencimento 12 meses após a anterior, em fev/23, o que fez com que o contrato passasse a ter vigência superior a 36 meses, autorizando a cobrança de correção monetária mensal com base no artigo 46 da Lei 10436/04:
+"Art. 46. Nos contratos de comercialização de imóveis, de financiamento imobiliário em geral e nos de arrendamento mercantil de imóveis, bem como nos títulos e valores mobiliários por eles originados, com prazo mínimo de trinta e seis meses, é admitida estipulação de cláusula de reajuste, com periodicidade mensal, por índices de preços setoriais ou gerais ou pelo índice de remuneração básica dos depósitos de poupança."
+Verifica-se que o artigo 47 da citada norma estipula que:
+"Art. 47. São nulos de pleno direito quaisquer expedientes que, de forma direta ou indireta, resultem em efeitos equivalentes à redução do prazo mínimo de que trata o caput do art. 46".
+Noutras palavras, a vendedora não pode deliberadamente ampliar o prazo do contrato, com a previsão de uma parcela em valor correspondente a 0,3% do preço total, cobrada mais de um ano após o vencimento da imediatamente anterior, justamente 36 meses após o vencimento da primeira parcela, o que, coincidentemente ou não, permite a incidência da correção mensal.
+A atitude, no mínimo, denota ausência de lealdade e boa-fé contratual, além de violar indiretamente o artigo 47 da já citada Lei, uma vez que a vendedora não pode, deliberadamente, "esticar" o prazo do contrato a fim de que se enquadre na previsão do artigo 46.
+Logo, correta a nulidade da cláusula que estabelece o reajuste mensal e a restituição à autora do valor excedente" (e-STJ fls. 270/272).
+Diante desses contornos fáticos, resta claro que a alegação de ofensa ao art. 46 da Lei nº 10. 436/2004 não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula nº 284/STF.
+Ademais, o fundamento adotado pela Corte local, no sentido de que o contrato discutido viola o art. 47 da citada lei não foi impugnado pela recorrente, o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NA TUTELA PROVISÓRIA NO RECURSO ESPECIAL. COMPRA E VENDA DE BEM IMÓVEL. PERDA DA POSSE PELO COMPRADOR. VIOLAÇÃO DOS ARTS. 535 E 128 DO CPC/1973 NÃO OCORRÊNCIA. AUSÊNCIA DE DEFICIÊNCIA DE FUNDAMENTAÇÃO. RESPONSABILIDADE DOS SÓCIOS DA PESSOA JURÍDICA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. CULPA CONCORRENTE. ENRIQUECIMENTO ILÍCITO. DEVER DE INDENIZAR. FUNDAMENTOS NÃO ATACADOS. APLICAÇÃO DAS SÚMULA N. 283 E 284 DO STF POR ANALOGIA. TERMO INICIAL DOS JUROS MORATÓRIOS A PARTIR DA CITAÇÃO. AGRAVO INTERNO DESPROVIDO.
+(..) 5. O recurso especial que não ataca especificamente o fundamento adotado pela instância ordinária suficiente para manter o acórdão recorrido atrai, por analogia, a incidência das Súmulas n. 283 e 284 do STF. (..)" (AgInt na TutPrv no REsp n. 1.602.477/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 EFETUADA POR MEIO DE ARGUMENTOS GENÉRICOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. FUNDAMENTO NÃO ATACADO E RAZÕES DISSOCIADAS. SÚMULAS 283 E 284/STF. AGRAVO INTERNO DESPROVIDO.
+(..) 3. A falta de impugnação a fundamento suficiente para manter, por si só, o acórdão impugnado e a argumentação dissociada das razões adotadas pela Corte local impedem o conhecimento do recurso, na esteira das Súmulas n. 283 e 284 da Súmula do Supremo Tribunal Federal. (..)" (AgInt no AREsp n. 2.165.685/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/3/2023, DJe de 22/3/2023 - grifou-se).
+No que concerne à tese de que houve violação ao art. 42 do CDC, ainda que se reconheça o prequestionamento da matéria, impossível conhecer do recurso no ponto, pois rever a conclusão do tribunal local acerca da existência de má-fé e deslealdade processual demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial. (..)." (AgInt no AREsp n. 1.663.414/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/8/2020, DJe de 31/8/2020 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA COMBINADA COM REPETIÇÃO DE INDÉBITO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DA SÚMULA 283/STF. COBRANÇA INDEVIDA. RESTITUIÇÃO EM DOBRO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356, AMBAS DO STF. AGRAVO DESPROVIDO.
+(..) 2. O Tribunal de origem, à luz das provas carreadas aos autos, concluiu que a cobrança realizada pela agravante foi indevida, devendo ser restituída em dobro. Nesse contexto, considerando as circunstâncias do caso, a pretensão de revisar tal entendimento demandaria o revolvimento fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ.
+3. A tese do apelo nobre referente à boa-fé da ora recorrente ao realizar as cobranças, reconhecidas como indevidas, não foi objeto de debate pelo eg. Tribunal a quo, tampouco foram opostos embargos de declaração para fins de prequestionamento. Incidência das Súmulas 282 e 356, ambas do col. STF.
+4. Agravo interno desprovido." (AgInt no AREsp n. 499.174/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2019, DJe de 2/4/2019 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DANO MORAL. EMPRÉSTIMOS. DESCONTOS INDEVIDOS SOBRE A FOLHA DE PAGAMENTO DO AGRAVADO. MÁ-FÉ. REPETIÇÃO DO INDÉBITO EM DOBRO. CONCLUSÃO DO COLEGIADO ESTADUAL FIRMADA COM BASE NA ANÁLISE DOS ELEMENTOS FÁTICOS-PROBATÓRIOS. REVISÃO OBSTADA PELA SÚMULA STJ/7. INSCRIÇÃO DESABONADORA DO NOME DO AGRAVADO. RESPONSABILIDADE DO AGRAVANTE PELO DANO MORAL. INCIDÊNCIA DA SÚMULA STJ/7. QUANTUM INDENIZATÓRIO FIXADO COM RAZOABILIDADE. REVISÃO OBSTADA EM SEDE DE RECURSO ESPECIAL. REDIMENSIONAMENTO DOS ÔNUS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA STJ/7.
+1.- Conforme assentado na jurisprudência desta Corte, a repetição será em dobro quando existir má-fé do credor. A revisão do Acórdão recorrido, que concluiu pela ma-fé do Agravante, demandaria o reexame do conjunto fático-probatório delineado nos autos, providência inviável em âmbito de Recurso Especial, incidindo o óbice da Súmula 7 deste Tribunal.(..)" (AgRg no AREsp n. 406.086/DF, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 21/11/2013, DJe de 6/12/2013 - grifou-se).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  a  decisão que não conheceu do recurso especial.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
