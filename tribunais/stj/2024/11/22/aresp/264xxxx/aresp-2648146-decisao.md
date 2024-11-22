@@ -1,0 +1,19 @@
+DECISÃO
+Em exame, agravo interposto contra decisão que inadmitiu recurso especial interposto por JOAO FRANCISCO PEREIRA DE CASTRO, pela incidência das Súmulas 7, 13 e 211/STJ.
+Em suas razões, a parte agravante alega que:
+Por isso, a Corte Superior de Justiça, quando do julgamento do AgRg no REsp 606.165/DF, decidira que, assim como está a ocorrer na espécie, quando os fatos relevantes para a apreciação do Especial encontram-se, todos, delineados no acórdão recorrido, não incidente se mostra o óbice da Súmula 7 do STJ, pois, dessa forma, está- se a tratar, única e exclusivamente, de questão de direito, cuja solução exige, apenas, o cotejo da causa de pedir e do pedido com a decisão de procedência ou improcedência da pretensão do Agravante, com o objetivo de se verificar a observância ou não do princípio da congruência (CPC, arts. 141, 489, III, e § 1º, IV, e 492), juízo que independe da análise do contexto fático-probatório.
+Nesse descortino, descabido o argumento da incidência do óbice do verbete da Súmula 7 do STJ.
+Não menos descabido se mostra o argumento de que inviável seria o Especial no tocante à interposição fundada na alínea "c" do permissivo constitucional. Tal se dá porque, diferentemente do que alegado, o Agravante não fundara o seu inconformismo única e exclusivamente na divergência jurisprudencial existente entre os órgãos fracionários do próprio Estadual, mas, em especial, em julgados (precedentes) advindos dessa Corte Superior de Justiça e do Supremo Tribunal Federal.
+Registre-se que, ainda que o argumento de que fora utilizada a divergência jurisprudencial existente no âmbito do próprio Estadual fosse considerado válido e legítimo, ainda assim não se justificaria a obstaculização imposta ao Especial, vez que, violada estaria a regra do art. 926 do CPC e, por conseguinte, autorizada a abertura da via extraordinária (art. 105, III, letra "a", CF/88 e art. 1.029, § 1º, CPC).
+Portanto, não há se falar também, na incidência do óbice da Súmula 13 do STJ.
+Nem se pretenda dizer, por fim, que o apelo Especial, quanto à indicada afronta aos artigos 42, 44 e 86, todos da Lei 8.213/1991, 43, 44, inciso II, letra "a", do Decreto 3.048/99, e 3º, 141, 369, 371, 375, 480, § 3º, 489, inciso IV, e § 1º, incisos IV a VI, e 492, todos do CPC, restaria inviabilizado "porque referidos dispositivos de lei não foram objeto de decisão por parte do órgão julgador, ficando caracterizado o desatendimento ao indispensável prequestionamento" e que, por esse motivo, incidiriam os enunciados 211 da Súmula do STJ e 282 da Súmula do STF a obstaculizá-lo (fls. 856-857).
+Requer, ao final, o provimento do recurso.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+A Primeira Seção do STJ, no julgamento do Tema 1.246/STJ, sob o rito dos recursos repetitivos, firmou compreensão segundo a qual "é inadmissível recurso especial interposto para rediscutir as conclusões do acórdão recorrido quanto ao preenchimento, em caso concreto em que se controverte quanto a benefício por incapacidade (aposentadoria por invalidez, auxílio-doença ou auxílio-acidente), do requisito legal da incapacidade do segurado para o exercício de atividade laborativa, seja pela vertente de sua existência, de sua extensão (total ou parcial) e/ou de sua duração (temporária ou permanente)" (REsp 2.082.395/SP e REsp 2.098.629/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 13/11/2024, DJe de 18/11/2024).
+No caso dos autos, a parte agravante pretende a reforma do acórdão que indeferira o pedido de concessão de benefício previdenciário acidentário , por considerar que o laudo pericial atestou que não há nexo causal entre a incapacidade e o trabalho que o segurado exercia.
+Assim sendo, revela-se manifestamente inadmissível o presente recurso especial, vez que a questão jurídica posta em debate enquadra-se no Tema 1.246/STJ.
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
