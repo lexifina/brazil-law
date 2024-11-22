@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica ao fundamento da decisão de inad missão do recurso especial impõe o não conhecimento do agravo. Observância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno, interposto por MARIA LUIZA DE LIMA e outros, contra a decisão de fls. 558/559e, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Inconformada, sustenta a parte agravante, em resumo, que "o entendimento de que "a parte agravante não impugnou, especificamente, a aplicação do óbice sumular pela Corte de origem" encontra-se equivocado, posto que no, presente caso, a inaplicabilidade da súmula 7/STJ foi O SEGUNDO TÓPICO DO RECURSO DO AGRAVO (e o primeiro da fundamentação) (..) A impugnação específica ao apontado óbice sumular (súmula 7/STJ) contou com 2,5 página de fundamentação, posto que o Recurso Especial interposto não busca a reanálise dos fatos e provas (até porque o réu assumiu os fatos narrados pelo autor, no tocante a ausência de barreiras de proteção na área do acidente discutido em lide), mas discute unicamente questão de direito (afronta ao Decreto nº 1.832; à Lei 6.766; e ao Código Civil); Interpretação divergente da que lhe foi atribuída por este STJ no Tema Repetitivo 518; R Esp 622715 SP 2003/0224428-5; R Esp. 633.036/MG; e AR Esp 1447727 / RJ. 2019/0036999-9; e existência de omissão no próprio julgado recorrido (afronta ao art. 489, §1º, IV, CPC)" (fl. 565e).
+Por fim, "requer-se ao Exmo. Min. Relator que reconsidere sua decisão com fulcro no juízo de retratação para conhecer e prover o Agravo Interno interposto. Alternativamente, caso assim não entenda, que seja remetido este Agravo Interno para o julgamento colegiado com o seu consequente reconhecimento e provimento das questões suscitadas (impugnação específica a aplicação do óbice sumular pela Corte de origem)" (fl. 569e).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica ao fundamento da decisão de inad missão do recurso especial impõe o não conhecimento do agravo. Observância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+A decisão ora agravada não conheceu do agravo em recurso especial, ao fundamento de que, "além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade. No caso dos autos, a decisão de não admissão do recurso especial está motivada pela incidência da Súmula 7/STJ. Ocorre que a parte agravante não impugnou, especificamente, a aplicação do óbice sumular pela Corte de origem, o que acarreta o não conhecimento do agravo" (fl. 558e).
+A decisão não merece reforma, pois em relação ao óbice da Súmula 7/STJ, é necessário que a parte desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação jurídica e aí deve comprovar tal circunstância, não apenas alega-la, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
