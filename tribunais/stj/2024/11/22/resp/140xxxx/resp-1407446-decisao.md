@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por COAGRISOL COOPERATIVA AGROINDUSTRIAL, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 410):
+TRIBUTÁRIO. PIS. COFINS. NÃO-CUMULATIVIDADE. LEIS Nº 10.637/2002 E 10.833/2003. RESTRIÇÕES AO APROVEITAMENTO DE CRÉDITOS. ABRANGÊNCIA DO TERMO "INSUMOS". IN/SRF Nº 247/02. IN/SRF Nº 404/2004.
+1. A nova sistemática de tributação não-cumulativa do PIS e da COFINS, prevista nas Leis nº 10.637/2002 e 10.833/2003, confere ao sujeito passivo do tributo o aproveitamento de determinados créditos previstos na legislação, excluídos os contribuintes sujeitos à tributação pelo lucro presumido.
+2. A aplicação do princípio da não-cumulatividade do PIS e da COFINS em relação aos insumos utilizados na fabricação de bens e serviços não implica estender sua interpretação, de modo a permitir que sejam deduzidos, sem restrição, todos e quaisquer custos da empresa despendidos no processo de industrialização e comercialização do produto fabricado.
+3. O conceito de insumo, para fins de creditamento no regime não cumulativo das contribuições PIS e COFINS, abrange os elementos que se relacionam diretamente à atividade da empresa, com restrições.
+4. A IN/SRF nº 247/02 e a IN/SRF nº 404/2004 não ampliam o conteúdo legal, apenas reforçam o modo legalmente previsto de aproveitamento dos créditos no sistema não cumulativo do PIS e da COFINS, de modo que não incorrem em vícios de ilegalidade ou de inconstitucionalidade.
+Os embargos de declaração opostos foram rejeitados (fls. 426/428).
+A parte recorrente alega violação aos arts. 3º, II, das Leis 10.833/2003 e 10.637/2002 e 290 e 299 do Decreto 3.000/1999 (Regulamento do Imposto de Renda então vigente). Sustenta, em síntese:
+(1) A ilegalidade das Instruções normativas 247/2002 e 404/2004 pois "restringiram demasiadamente o conceito de insumo previsto na legislação do PIS e COFINS, definindo-o apenas como sendo os produtos e os serviços aplicados ou consumidos diretamente no processo de industrialização" (fl. 442)";
+(2) "deflui-se que a interpretação mais adequada ao conceito de insumo previsto no art. 3º, II, é a que alberga toda e qualquer despesa necessária para a formação da receita e manutenção do processo produtivo. Por isso, o critério que se mostra consentâneo com a noção de receita é o adotado pela legislação do imposto de renda, em que os custos e as despesas necessárias para a realização das atividades operacionais da empresa podem ser deduzidos. Eis o teor dos arts. 290 e 299 do Decreto nº 3.000/1999, que definem, respectivamente, custos e despesas operacionais" (fl. 446); e
+(3) A possibilidade de compensação dos valores indevidamente recolhidos porque " a  autorização para compensação dos valores recolhidos indevidamente a título de contribuição para o PIS e de COFINS pode se dar com quaisquer tributos federais que sejam administrados pela Secretaria da Receita Federal está prevista no art. 74, da Lei nº 9.430/96" (fl. 453).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 465/475).
+O recurso foi admitido na origem (fl. 478).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso especial (fls. 492/495).
+É o relatório.
+No caso em questão, o Tribunal de origem decidiu o seguinte (fl. 405):
+Como já foi acima mencionado, o regime da não cumulatividade do PIS e da COFINS aplica-se tão somente aos contribuintes optantes pela tributação pelo lucro real. O sistema de tributação pelo lucro presumido é uma opção conferida ao contribuinte que poderá escolher o regime de tributação menos oneroso. Assim, o próprio sujeito passivo escolhe a modalidade de apuração da COFINS e do PIS mais vantajosa. Os benefícios da não cumulatividade foram conferidos aos optantes pela tributação pelo lucro real, acompanhados de uma alíquota superior (7,6% e 1,65%), enquanto que a alíquota menor (3% para a COFINS e 0,65% para o PIS) aplica-se às empresas optantes pelo sistema do lucro presumido, inexistindo, nesse caso, vantagens fiscais semelhantes.
+Com isso conclui-se que, se a carga tributária das contribuições não cumulativas é excessiva para a parte autora, essa desigualdade se deve não à natureza da empresa, mas sim a sua escolha do regime de tributação.
+A peça recursal, todavia, não se insurge contra aquele fundamento, limitando-se a questionar o conceito restrito de insumo trazido pelas Instruções Normativas 247/2002 e 404/2004.
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
