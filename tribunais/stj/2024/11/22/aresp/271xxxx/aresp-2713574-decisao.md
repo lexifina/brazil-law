@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, da Constituição Federal.
+Na origem, o Estado do Maranhão interpôs agravo de instrumento contra decisão, em cumprimento individual de sentença coletiva, que determinou a implantação nos vencimentos do exequente do percentual de 4,36%, decorrente da procedência da ação coletiva 6542/2005, ajuizada pelo Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão - SINTSEP contra o Estado do Maranhão.
+O Tribunal de Justiça do Estado do Maranhão, em decisão monocrática, deu provimento ao agravo de instrumento do ente público, ficando consignado que o exequente pertence à categoria não abrangida pelo SINTSEP-MA. Logo, conclui-se pela ilegitimidade ativa da exequente para executar a obrigação de fazer contida na sentença da ação ordinária proposta pelo SINTSEP-MA, tendo em vista a vedação decorrente do princípio da unicidade sindical.
+Interposto agravo interno, este foi desprovido, ficando assim ementado o respectivo acórdão, in verbis:
+EMENTA: AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. ILEGITIMIDADE ATIVA. SERVIDOR INTEGRANTE DE SINDICATO ESPECÍFICO E DIVERSO DO QUE AJUIZOU A DEMANDA QUE DEU ORIGEM AO TÍTULO EXECUTADO. RECURSO DESPROVIDO.
+1) A existência de sindicato específico representando determinada categoria profissional inviabiliza que outros de maior abrangência, na mesma base territorial, atuem na defesa dos interesses dos representados por aquele, em atenção aos princípios da unicidade e da liberdade sindicais, previstos no artigo 8º, inciso II da CF. Precedentes do TJMA.
+2) No caos, o recorrente associado a sindicato específico, qual seja, ao SINDSAÚDE/MA - Sindicato dos Auxiliares e Técnicos em Enfermagem e Trabalhadores em Estabelecimentos de Saúde do Estado do Maranhão, de modo que deve ser mantida a decisão agravada que reconheceu a sua ilegitimidade ativa para a propor o presente cumprimento de sentença, já que não possui representatividade em relação ao SINTSEP, de maior abrangência.
+3) Agravo desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto recurso especial, apontando violação do art. 508 do CPC, que assim dita: "Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido."
+Para tanto, sustenta, em síntese, que a questão referente à legitimidade ativa já teria sido solvida em liquidação coletiva, não podendo ser novamente discutida em cumprimento individual de sentença coletiva, dada a preclusão.
+Alega, ainda, violação ao art. 1.022 do CPC, argumentando que, mesmo instado a tanto, o Tribunal de origem se manteve omisso quanto à preclusão da discussão acerca da legitimidade ativa do exequente.
+Aponta ofensa ao art. 1.015 do CPC, uma vez que a ilegitimidade ativa não foi tratada no primeiro grau, incorrendo em supressão de instância.
+Apresentadas contrarrazões.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 535 DO CPC DE 1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DO TERMO DE TRANSAÇÃO HOMOLOGADO PELO JUIZ. DOCUMENTO EMITIDOS PELO SIAPE. IMPOSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a assertiva de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se na hipótese o óbice da Súmula 284 do STF.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1492093/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/08/2020, DJe 13/08/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. IPI. SAÍDA DO ESTABELECIMENTO DO CONTRIBUINTE. AUSÊNCIA. MERO DESLOCAMENTO DO PRODUTO PARA PRESTAÇÃO DE SERVIÇOS. NÃO INCIDÊNCIA.
+(..)
+2. A alegação genérica de ofensa ao art. 535 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+(..)
+8. Recurso especial conhecido em parte e desprovido.
+(REsp 1402138/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/05/2020, DJe 22/05/2020.)
+Quanto ao mérito, não merece provimento a presente irresignação.
+No caso dos autos, a parte ora recorrente busca o afastamento do reconhecimento da ilegitimidade paga figurar no polo ativo do presente cumprimento individual de sentença coletiva, ao argumento de que, uma vez que ele tenha figurado em lista de cálculos da Contadoria Judicial na fase de liquidação coletiva e não tendo sido impugnada sua participação naquele momento processual, não cabe mais se discutir sua legitimidade dada a preclusão da referida discussão.
+Assim se manifestou a Corte de origem, às fls. 74-88 quanto à questão debatida no presente recurso, ipsis litteris:
+Isso porque a jurisprudência do TJMA é pacífica no sentido de que a existência de sindicato específico representando certa categoria profissional inviabiliza que outros de maior abrangência, na mesma base territorial, atuem na defesa dos interesses dos representados por aquele, em atenção aos princípios da unicidade e da liberdade sindicais, previstos no artigo 8º, inciso II da Constituição Federal - CF, in verbis:
+(..)
+Realizado esse esclarecimento, verifico que, no caso, o recorrente é pertencente a sindicato específico, qual seja, ao SINTAREMA - SINDICATO DOS TÉCNICOS E AUXILIARES EM RADIOLOGIA DO ESTADO DO MARANHÃO.
+Assim, deve ser mantida a decisão agravada que reconheceu a sua ilegitimidade ativa para a propor o presente cumprimento de sentença, já que não possui representatividade em relação ao SINTSEP, de maior abrangência.
+Por derradeiro, registro que a legitimidade ativa do cumprimento de sentença é matéria de ordem pública, cognoscível de ofício pelo Magistrado, portanto, não há que se falar em supressão de instância.
+A agravante, nas razões de recurso especial, defende que houve apreciação da legitimidade do ora agravante na fase de liquidação coletiva, uma vez que houve decisão homologatória de lista de cálculos da Contadoria Judicial, em que figurava o exequente.
+Ademais, aponta que as matérias de ordem pública, embora possam ser tratadas a qualquer tempo, também estão sujeitas à preclusão.
+Confira-se:
+Na origem, o processo de conhecimento 6542/2005 dependeu de liquidação coletiva por arbitramento, tendo como um dos participantes a parte Exequente. Fase essa que durou cerca de 10 anos.
+Também houve apuração do seu percentual de perda salarial pela Contadoria Judicial, e houve decisão posterior homologando e transitando em julgado.
+Ressalte-se, o recorrido concordou com a lista onde se individualizou o crédito da recorrente, em liquidação por arbitramento (momento processual oportuno à aferição de legitimidade), porém não manifestou qualquer irresignação sobre legitimidade.
+E esse relato pode ser extraído facilmente das decisões colacionadas no processo de cumprimento de sentença.
+Com isso, conclui-se que a matéria foi atingida pela preclusão, na medida em que transitou em julgado a parte da decisão proferida na fase de conhecimento e liquidação que condenou e homologou o percentual devido a parte, reconhecendo, assim, ainda que implicitamente, a legitimidade ativa ad causam. Nesse sentido:
+(..)
+A preclusão impede que, no processo de execução judicial sejam alegadas matérias superadas pela resolução final, razão por que a Lei é clara no sentido de que, no cumprimento da decisão somente é possível suscitar-se matérias supervenientes à sentença.
+A titularidade do crédito, por força do pagamento reconhecido pela sentença, impede que seja rediscutida a questão sob o pálio da legitimidade para a execução, porquanto a questão não é formal, mas material e inerente à própria relação material.
+O Art. 535 do CPC, ao permitir que a Impugnação ao Cumprimento de Sentença verse sobre a ilegitimidade das partes, refere-se aos Arts. 778 a 779 do Diploma Processual.
+Isto porque eventual nulidade processual ocorrida no processo de conhecimento, mesmo que absoluta - salvo aquela relacionada a vício na citação - torna-se inatacável em sede de impugnação ao cumprimento de sentença, porquanto houve a sentença com trânsito em julgado, e confere-lhe a imutabilidade inerente à autoridade da coisa julgada (precedentes do STJ REsp 871166 SP 2006/0163068-0).
+Então, pode-se dizer que a preclusão pro judicato pode significar inclusive apreciação implícita ou presumida da matéria no momento do julgamento, como ocorre na hipótese do artigo 508 do Código de Processo Civil, in litteris:
+(..)
+E é o que ocorre no caso ora em análise, à medida que as partes constam dos autos desde 2009, visto que a decisão final fase cognitiva se deu em 2008 e o fim da fase de liquidação por arbitramento se deu em 2018, conforme também decisão transitada em julgado. Seguem agora em anexo.
+Com isso, não há o que se falar em ilegitimidade a essa altura, por restar caracterizada a preclusão, conforme entendimento firmado pelo STJ no sentido de que as matérias de ordem pública - embora possam ser tratadas a qualquer tempo - também estão sujeitas a preclusão.
+Diante disso, o debate sobre legitimidade ativa deve se dar logo quando possível, na fase processual em que se consegue averiguar a legitimidade, a fase processual em que o servidor público substituído processual passa a constar da demanda coletiva, caso contrário, o longo tempo de tramitação em que o substituído processual aguarda na liquidação torna-se em vão, violando a segurança jurídica.
+Nessa penosa e morosa fase de liquidação, constaram os documentos pessoais, relativos aos dados financeiros, e que trouxeram as informações sobre a lotação e o cargo exercido pela parte Exequente e de vários outros servidores públicos que instruíram os autos, e que foram necessários para a individualização do crédito ou apuração do decréscimo salarial que foram apurados pela Contadoria Judicial.
+Informações essas que foram utilizadas para se determinar a representação ou vínculo sindical.
+Ou seja, aquele era o momento de se aferir a legitimidade ativa, ou qualquer outro possível vínculo à sindicato diverso, por ter sido o momento em que o servidor público ingressou nos autos, lá no ano de 2009. E o ente público quedou-se inerte, não se tratando dessa matéria naquela fase.
+Após pouco mais de 10 anos, houve finalmente o trânsito em julgado da decisão que homologou o índice que representa a perda salarial da parte Exequente.
+(..)
+Diante disso, em nome da segurança jurídica, é que resta preclusa a aferição da legitimidade a essa altura, por já se ter passado a fase processual mais adequada para isso, que foi o momento em que o servidor público passou a compor a lide 6542/2005, não sendo o caso de - mais de 10 anos depois - após o trânsito em julgado da decisão que homologou os cálculos do servidor público ora exequente, vir o judiciário e determinar que ele é ilegítimo para promover o cumprimento da decisão homologatória.
+Portanto, ao discutir novamente matéria já preclusa, é nítida a violação ao art. 508, CPC, já transcrito acima, pois trata-se de postura conflituosa com o disposto na norma processual, ferindo inclusive a coisa julgada dos autos, não podendo o juízo se sobrepor à segurança jurídica daquilo que á foi decidido.
+Ademais, como já assentado por esta Corte Especial, é incabível rediscutir sobre os cálculos quando tiver havido discussão e decisão sobre os mesmos, operando-se a coisa julgada entra as partes participantes, in verbis:
+(..)
+Além de que a decisão que homologa os cálculos em fase de liquidação de sentença tem força de sentença e transita em julgado, conforme também precedentes do Superior Tribunal de Justiça. (STJ - Relatório e Voto. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL: Aglnt no AREsp 1419490 SC 2018/0340353-0 Jurisprudência - Data de publicação: 03/06/2019).
+Por isso, uma vez existindo a coisa julgada da decisão que homologou os cálculos, sendo a Recorrente participante dessa fase de liquidação, a coisa julgada passou a vinculá-la, e o título e sua liquidez passou a ser seu patrimônio jurídico.
+Assim, conclui-se pela preclusão, ainda que seja matéria de ordem pública (art. 485, VI, § 3º, do CPC/15). (fls. 142-146)
+É necessário apontar, desde logo, que não se desconhece que esta Segunda Turma possui precedente quanto ao assunto trazido pelo recorrente, em que também se buscava discutir a questão da preclusão pro judicato acerca da legitimidade ativa do exequente, qual seja, o AREsp n. 2.399.352/MA, da relatoria do Ministro Teodoro Silva Santos.
+Todavia, a Segunda Turma em julgados recentes (AgInt no AREsp n. 2.514.570/MA e AgInt no AREsp n. 2.531.955/MA, ambos de relatoria do Ministro Afrânio Vilela), em que se discutiu a legitimidade ativa da parte exequente em cumprimentos individuais de sentença decorrente do mesmo título coletivo, alinhou o entendimento no sentido de que "A legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegada a qualquer tempo e grau de jurisdição ou mesmo declarada de ofício".
+Na mesma linha, os seguintes julgados: AgInt no AREsp n. 2.075.944/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe de 9/6/2022; AgInt no REsp n. 1.448.327/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2018, DJe de 22/8/2018; e AgRg nos EDcl no AREsp n. 568.904/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 28/5/2018.
+Ademais, sendo possível analisar a legitimidade ativa a qualquer tempo e grau de jurisdição, não há falar, igualmente, em supressão de instância.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com fundamento no art. 85, § 11, do CPC/2015, majoro a condenação da verba honorária fixada pelo Tribunal de origem em 1 ponto percentual, sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados, cuja condenação ficará suspensa por ser a parte autora beneficiária da Justiça Gratuita, com fulcro no art. 98, § 3º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
