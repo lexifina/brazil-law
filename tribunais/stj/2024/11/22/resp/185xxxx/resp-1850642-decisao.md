@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, recurso especial interposto por ROBERTO LADISLAU TOMAZ, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo , assim ementado:
+EMENTA: APELAÇÃO CÍVEL - Acidentária - ASMA OCUPACIONAL- Concessão de beneficio "Auxílio- Acidente" - Inadmissibilidade - Ausência de nexo causal e incapacidade parcial e permanente que dá ensejo ao beneficio acidentado pretendido - Precedente - Ação julgada improcedente - Sentença mantida - Recurso não provido, cancelada, de oficio a condenação quanto aos anus da sucumbência, em razão da isenção legal (fl. 369).
+Opostos embargos de declaração pelo INSS, foram rejeitados (fls. 415-417).
+No Recurso Especial, o segurada apontou violação aos arts. 130, 131, 165, 302, 330, I, 332, 333, I, 334, II e III, 335, 400, 420, II, 426, 427, 436, 458, I e II, 485, IX, § 1º, e 535 do CPC/73; arts. 5º, II, LIV e LV, 6º, 7º, XXVIII, 93, IX, 201, § 10, da Constituição Federal; c) arts. 19, 20, I e II, 86 da Lei 8.213/91; d) art. 5º da LINDB.
+Para tanto, alega que "o Tribunal de origem não concluiu pela ausência da redução da capacidade para o trabalho, com fundamento na análise de elementos fáticos-probatórios, mas porque desprezou a prova pericial e as demais provas produzidas e, demais disso, negou o nexo de causalidade com fundamento em um laudo pericial que expressamente afirmou ser necessária a vistoria do local de trabalho que o IMESC não realiza, duas ponderações merecem ser feitas" (fl. 445).
+Não apresentadas as contrarrazões (fl. 485), o recurso especial foi inadmitido (fl. 486).
+Interposto agravo em recurso especial (fls. 489-522), a decisão de fl. 546 determinou a sua conversão em recurso especial.
+É o relatório.
+Passo a decidir.
+Inicialmente, não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+Quanto à apontada violação aos arts. 535 do CPC/73, o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+No que diz respeito ao mérito, a Primeira Seção do STJ, no julgamento do Tema 1.246/STJ, sob o rito dos recursos repetitivos, firmou compreensão segundo a qual, "é inadmissível recurso especial interposto para rediscutir as conclusões do acórdão recorrido quanto ao preenchimento, em caso concreto em que se controverte quanto a benefício por incapacidade (aposentadoria por invalidez, auxílio-doença ou auxílio-acidente), do requisito legal da incapacidade do segurado para o exercício de atividade laborativa, seja pela vertente de sua existência, de sua extensão (total ou parcial) e/ou de sua duração (temporária ou permanente)" (REsp 2.082.395/SP e REsp 2.098.629/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 13/11/2024, DJe de 18/11/2024).
+No caso dos autos, a parte recorrente pretende a reforma do acórdão que indeferira o pedido de concessão do benefício previdenciário requerido, tendo em vista a ausência de comprovação da incapacidade laborativa.
+Assim sendo, revela-se manifestamente inadmissível o presente recurso especial, vez que a questão jurídica posta em debate enquadra-se no Tema 1.246/STJ.
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
