@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida. É o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Incide a Súmula 283 do Supremo Tribunal Federal (STF), por analogia, quando a parte deixa de impugnar, nas razões recursais, fundamento autônomo do acórdão recorrido.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL da decisão em que não reconheci a ocorrência de negativa de prestação jurisdicional e concluí pela incidência da Súmula 283 do Supremo Tribunal Federal (fls. 414/418).
+A parte agravante alega que o acórdão recorrido violou o art. 1.022 do Código de Processo Civil (CPC), assim como aduz que houve impugnação específica do fundamento tido por não refutado.
+Requer a reconsideração da decisão agravada, para que seja dado provimento ao recurso especial.
+A parte adversa apresentou impugnação (fls. 432/447).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida. É o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Incide a Súmula 283 do Supremo Tribunal Federal (STF), por analogia, quando a parte deixa de impugnar, nas razões recursais, fundamento autônomo do acórdão recorrido.
+3. Agravo interno a que se nega provimento.
+VOTO
+Não há motivo para reformar a decisão agravada.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A Corte local expressamente consignou no acórdão recorrido (fls. 223/230):
+Conforme se verifica dos autos, a autora requereu que o valor da FGP- VII (incorporado aos vencimentos) fosse substituído pelo valor da FG-11, de Gerente de Previdência e Saúde.
+Julgada procedente a ação, o réu foi condenado ao pagamento dos valores correspondentes à diferença entre a função gratificada percebida pela autora e a de gerente de Previdência e Saúde desde a edição da Lei 13.415/10 nos termos da inicial de conhecimento, conforme decisão transitada em julgado em 26/09/2017.
+No entanto, em desacordo ao comando sentencial, a autora executa valores correspondentes à FGE-11.
+A função gratificadaFG-11 foi criada pela Lei nº13.415/10, a qual reorganiza o Quadro de Pessoal do Instituto de Previdência do Estado do Rio Grande do Sul e se refere, em relação aos vencimentos, à Lei nº4.914/64 a qual instituiu a função gratificada originária da agravada. Por sua vez, a função gratificada em regime especial foi instituída pela Lei nº 5.786/69, tratando de cargos a serem providos individualmente mediante ato do Chefe do Poder Executivo, com remuneração maior do que as funções sem regime especial.
+Ou seja, tratam-se de funções gratificadas diversas com requisitos e remuneração que não se confundem, devendo ser revisto o cálculo para que se utilize os valores previstos para Função Gratificada 11 (FG-11) e não os valores da Função Gratificada Especial 11 (FGE-11).
+Não se pode equiparar a FG11 (função gratificada) com a FGE11 (função gratificada em regime especial), pois se tratam de institutos diversos, já que a função gratificada FG-11 foi criada pela Lei nº 13.415/10, a qual reorganiza o Quadro de Pessoal do Instituto de Previdência do Estado do Rio Grande do Sul ao passo que a FGE-11 (gratificação em regime especial) visa remunerar àqueles ocupantes de cargos providos por ato do Governador a fim de que exerçam atividades de diretoria ou presidência, no caso em tela, do IPERGS, nos termos da Lei nº 5.786/69.
+ ..
+Ainda, requer o recorrente que seja afastada a invocação da autoridade da coisa julgada no tocante à aplicação dos critérios da Lei 11.960/09, dado que, além da imediatidade da vigência da lei em comento, cabe ressaltar que se trata de erro de cálculo, o qual é passível de correção a qualquer tempo, nos moldes do artigo 1-E da Lei 9.494/97.
+Postula o provimento do recurso, para os fins de reformar a decisão, determinando a aplicação da TR como índice de correção monetária desde a vigência da lei 11.960/09, 30/06/2009, até 25/03/15, e juros na taxa da caderneta de poupança e seja observado o decréscimo dos juros.
+Entretanto, a sentença condenou o recorrente nos seguintes termos:
+ ..  Isso Posto, JULGO PROCEDENTE o pedido para condenar o requerido ao pagamento dos valores correspondentes à diferença entre a função gratificada percebida pela autora e a de Gerente de Previdência e Saúde desde a alteração da nomenclatura das funções, ou seja, desde a edição da Lei 13.415, em 05/04/2010, corrigidos pelo IGP-M desde a edição da referida lei, acrescido de juros moratórios de 6% ao ano, a contar da citação.
+E desta decisão não foi interposto qualquer recurso. Assim, o índice de correção monetária, a ser adotado nos cálculos que aparelharam o cumprimento de sentença, devem refletir o critério estabelecido pelo título judicial exequendo, não podendo ser alterado para fins de adequação à tese firmada no Tema 810 do STF e 905 do STJ, sob pena de afronta à coisa julgada, na esteira da compreensão sedimentada no Tema 733 do STF, no sentido de que, a despeito da natureza vinculante dos precedentes, sua aplicabilidade imediata não é indistinta, na medida em que depende da interposição de recurso próprio ou, se for o caso, do ajuizamento de ação rescisória.
+ ..
+No caso dos autos o título executivo, determinando a incidência da correção monetária de acordo com o IGP-M, acrescido de juros moratórios de6% ao ano, a contar da citação, quanto aos índices de correção monetária, transitou em julgado antes do julgamento do Tema 810 do STF (20/09/2017) e do Tema 905 do STJ (22/02/2018),já que, como referido anteriormente, as partes não interpuseram qualquer recurso em relação ao tema.
+Então, não há dúvidas de que tendo o título judicial transitado em julgado antes do julgamento do Recurso Extraordinário nº 870.947-SE/RG (Tema nº 810), inviável, nesta fase, a rediscussão da matéria, sob pena de violação às normas insertas nos artigos 502, 503 e 505, todos do Código de Processo Civil/2015, e art. 5º, inciso XXXVI, da Constituição Federal, porquanto envolveria reexame, em sede de cumprimento de sentença, de questão de questão definitivamente sepultada pela coisa julgada.
+Deve, na hipótese, ser reconhecida a existência da coisa julgada, porquanto descabida a alteração de índices fixados na fase de conhecimento por sentença transitada em julgado, a despeito das superveniência das teses firmadas pelo STF no Tema 810, e pelo STJ, no Tema 905, pois estas não ensejam na reforma e/ou rescisão automática das decisões proferidas em datas anteriores, abarcadas pela coisa julgada, ainda que nestas tenham sido adotados entendimentos diverso, em atenção ao decidido no Tema 733 (RE 730462) da repercussão geral do STF.
+Ademais, quando do julgamento do Tema 905 pelo Superior Tribunal de Justiça, restou assentando a necessidade de observância da coisa julgada e dos índices nela estabelecidos.
+ ..
+Ante o exposto, voto por dar parcial provimento ao agravo de instrumento.
+E, por ocasião do julgamento dos embargos de declaração opostos, fundamentou no seguinte sentido (fls. 286/287):
+Sem razão o embargante ao requerer a reforma da decisão para que os juros demora nas parcelas posteriores à citação incidam de forma decrescente, a partir do vencimento de cada obrigação.
+Isso porque, o título executivo judicial determinou a incidência de juros de mora de 6% ao ano a partir da citação, nos seguintes termos:
+Isso Posto, JULGO PROCEDENTE o pedido para condenar o requerido ao pagamento dos valores correspondentes à diferença entre a função gratificada percebida pela autora e a de Gerente de Previdência e Saúde desde a alteração da nomenclatura das funções, ou seja, desde a edição da Lei 13.415, em 05/04/2010, corrigidos pelo IGP-M desde a edição da referida lei, acrescido de juros moratórios de 6% ao ano, a contar da citação.
+Da análise dos autos, verifica-se que não foi interposto qualquer recurso pelo executado a respeito do termo inicial dos juros de mora na fase de conhecimento.
+Somente em sede de impugnação ao cumprimento de sentença veio à baila tal discussão. Portanto, a matéria deduzida pelo IPERGS encontra óbice ante a preclusão ocorrida, não sendo passível de rediscussão neste momento processual.
+Assim, evidenciado que o cálculo que embasou a execução atualizou as parcelas vencidas em conformidade com o disposto no título executivo, não há se falar em excesso.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto ao cerne recursal, o Tribunal de origem decidiu que "o cálculo que embasou a execução atualizou as parcelas vencidas em conformidade com o disposto no título executivo"(fl. 287), e não foi interposto recurso no momento oportuno. Assim sendo, não haveria possibilidade de se rediscutir o tópico, uma vez que incidira a preclusão consumativa.
+A peça recursal, todavia, não se insurge contra aquele fundamento, limitando-se a afirmar, em síntese, que " o cálculo apresentado pela parte autora, aplicou juros calculados de forma integral desconsiderando a redução da mora, de molde a incidir cálculo forma decrescente " (fl. 315).
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
