@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO . AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANDRE DOS REIS CLEMENTE da decisão da Presidência do Superior Tribunal de Justiça (STJ) que não conheceu de seu agravo em recurso especial porque não foram impugnados todos os fundamentos de inadmissão do recurso especial.
+A parte agravante requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 482).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO . AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno não conhecido.
+VOTO
+A decisão recorrida não conheceu do agravo em recurso especial por deixar a parte agravante de impugnar a decisão de admissibilidade relativamente ao não cabimento de recurso especial para o reexame fático-probatório e à divergência não comprovada.
+Nas razões do agravo interno, a parte agravante alega:
+(1) "Busca-se o afastamento da súmula 182 e da arguição de necessidade de reexame do conjunto fático probatório ou/e a produção de pronunciamento conhecendo do agravo em recurso especial, pois, o direito reivindicado na exordial carece de recusa formal da Administração e o recorrente detém a condição de segundo-sargento do quadro de carreira da Marinha e não há nos autos a íntegra do procedimento administrativo instaurado para restringir o direito do recorrente de inclusão no Curso de Aperfeiçoamento Avançado para Praças ou/e de progressão a graduação de primeiro-sargento em conformidade com a turma do quadro de carreira - fls.: 214/7 e 275/82" (fl. 449);
+(2) "As turmas do Egrégio Superior Tribunal de Justiça, por tais razões, estruturam o seguinte entendimento repetitivo: A promoção do militar é ato administrativo vinculado e está atrelada única e exclusivamente ao critério de antiguidade na graduação, consoante disposto nos art.: 17 da Lei Federal 6.880/1980 e art.: 24 do Decreto 4.034/2001- R Esp 1.740.693/RJ e AgRg no R Esp 1.554.785/RJ" (fl. 449);
+(3) "A interpretação produzida em sede de segundo grau - fls.: 275/82, por tais razões, evidencia a ocorrência de vício de iniciativa e de julgamento surpresa e configura ofensa as normas estruturadas no art.: 10; no art.: 10; no art.: 492; no art.: 1.013 e no art.: 1.022 da Lei Federal 13.105/2015 e tais premissas fornecem admissibilidade ao recurso especial e permitem ao Ilmo.: Relator do Superior Tribunal de Justiça o estudo do caso ou/e a efetivação do instituto da retratação para conhecimento do agravo em recurso especial ou/e novo pronunciamento revalorando as questões apreciadas na origem para aplicar o respectivo direito a espécie ou/e invalidar o acórdão por configuração de divergência com o entendimento reverenciado no REsp 1.740.693/RJ e AgRg no REsp 1.554.785/RJ - fls.: 275/82" (fls. 451/452);
+(4) "O Agravo Interno, por tais razões, preenche os pressupostos de admissibilidade e de procedibilidade e permite ao Ilmo.: Relator do Superior Tribunal de Justiça o estudo do caso concreto afastando a arguição de necessidade de reexame do conjunto fático probatório e a incidência da súmula 182 ou/e a devida correção de eventuais vícios processuais com nova interpretação conhecendo do agravo em recurso especial para aplicar o respectivo direito a espécie tendo em vista a autoridade do entendimento reverenciado no R Esp 1.740.693/RJ e inobservado na origem - fls.: 275/82; ou/e" (fl. 452);
+(5) "Nova tomada de decisão consignando a inexistência de recusa formal da Administração ao direito reivindicado na exordial ou/e devolvendo os autos ao Tribunal Regional Federal da 2ª Região para que a instância competente produza novo julgamento enfrentando as questões processuais e de direito arguidas em sede de embargos de declaração nas fls.: 294/305 ou/e integralizando a jurisdição ao entendimento reverenciado no R Esp 1.740.693/RJ - fls.: 342/9" (fl. 452).
+Como se vê, a parte agravante, no recurso ora examinado, igualmente não refuta as razões expostas na decisão que visa impugnar, repetindo o vício anteriormente detectado.
+É devida a aplicação ao caso em questão da Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A fim de rebater a decisão que não conheceu de seu recurso porque não rebatidos todos os fundamentos da decisão de admissibilidade, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que no agravo em recurso especial ela havia impugnado toda a decisão que não admitiu seu recurso especial, proferida pelo Tribunal de origem - o que não ocorreu.
+Registro, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil (CPC) como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
