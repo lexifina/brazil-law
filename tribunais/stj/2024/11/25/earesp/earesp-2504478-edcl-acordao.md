@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INVENTÁRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO DEMANDANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, não há razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de embargos de declaração, opostos por WILLIAMS JOÃO DA SILVA, contra o acórdão de fls. 769-770, e-STJ, de relatoria deste signatário, que negou provimento ao reclamo.
+O aresto em questão está assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INVENTÁRIO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1. In casu, para derruir as conclusões contidas no decisum recorrido a respeito da possibilidade de divisão cômoda do imóvel, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte. Precedentes.
+2. É deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, o que atrai a incidência da Súmula 284 do STF, por analogia.
+3. Agravo interno desprovido.
+Daí os presentes embargos de declaração (fls. 785-788, e-STJ), no qual o embargante alega existência de omissão no julgado, repisando as alegações do recurso nobre, reafirmando argumentos a fim de combater a incidência das Súmulas 7/STJ e 284/STF, sustentando a desnecessidade de incursão ao substrato fático dos autos, tratando-se de revaloração jurídica das circunstâncias contidas no aresto impugnado, bem como que houve indicação correta da legislação federal afrontada. Requer, por fim, o acolhimento dos embargos com efeitos modificativos.
+Sem impugnação (fls. 794-800, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INVENTÁRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO DEMANDANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, não há razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Os embargos de declaração não merecem acolhimento, visto que a parte não demonstrou a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Nos estreitos lindes do artigo 1.022 do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a parte ora embargante.
+Nesse sentido, precedentes desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso. 2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.  ..  4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 860.920/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 07/06/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO OPOSTOS SOB A ÉGIDE DO CPC/2015. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO. CORREÇÃO DE VÍCIO FORMAL. ENUNCIADO ADMINISTRATIVO N. 5/STJ.  ..  2. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015. 3. Os embargos de declaração não se prestam para provocar o reexame de matéria já apreciada. 4. Primeiros embargos de declaração rejeitados. Segundos embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 02/06/2016, DJe 09/06/2016)  grifou-se
+No caso, não há infringência ao artigo 1022, CPC, em razão da suficiente fundamentação exarada no acórdão embargado (fls. 773-779, e-STJ).
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado por meio de embargos de declaração, visto que esta eg. Quarta Turma decidiu a controvérsia com base no entendimento adotado no âmbito desta Corte, sendo clara na sustentação das razões do desprovimento do reclamo. É o que se extrai do seguinte trecho do julgado:
+ ..
+1. O recorrente pleiteia o afastamento do óbice da Súmula 7/STJ, sob a alegação de que o debate trazido à baila não importa reexame de matéria fático-probatória, tratando-se de revaloração jurídica das circunstâncias contidas no aresto impugnado.
+Conforme fundamentado na decisão recorrida, a Corte estadual, ao analisar a controvérsia, diante das peculiaridades fáticas da demanda, de forma expressa, entendeu pela possibilidade de divisão cômoda do imóvel, condicionando a adjudicação pelo herdeiro a uma avaliação atualizada do bem, porquanto os herdeiros discordam do valor oferecido para fins de aquisição da quota parte, inexistindo fundamento legal a justificar a pretendida imposição de aceite.
+Eis o que se colhe, quanto ao tema, do aresto hostilizado (fls. 412-414, e-STJ):
+ ..
+Resta verificar o pleito de adjudicação dos bens do espólio, mediante o depósito judicial do valor correspondente.
+Inicialmente, pondera esclarecer que após a apresentação da partilha de f. 184-198, o magistrado determinou a intimação do apelante para se manifestar (f.
+221) que, em resposta, concordou expressamente com o plano de partilha apresentado pelo inventariante (f. 224-227).
+Somente após (f. 246-249) foi que o apelante passou a requerer a homologação da partilha e, após seu trânsito em julgado, a "adjudicação" dos quinhões, mediante o depósito em juízo da importância de R$ 83.876,53 constante da f. 189 do plano de partilha apresentado pelo inventariante.
+Para que não restem dúvidas, vejamos:
+5. Desta forma, para os fins descritos na partilha amigável com a concordância de todos os herdeiros, e não sendo óbice intransponível as irregularidades apontadas, requer de plano sua homologação nos termos do art. 659, caput, § 2º, do CPC. Após o trânsito em julgado e efetuado o pagamento dos quinhões hereditários requer expedição de carta de adjudicação dos direitos hereditários da metade dos três imóveis do espolio pertencentes à genitora meeira falecida ou, se V.Exa. entender, o formal de partilha com ponto circunstanciado da aquisição dos quinhões; requer ainda despacho para o cadastro da subconta para que o R. possa efetuar o deposito judicial, cf. recomendação do e. TJMS.
+Daqui decorre o acerto do juízo ao rejeitar os embargos de declaração opostos por ausência de omissão já que, como visto, o próprio apelante requereu a homologação da partilha nos termos apresentados pelo inventariante e a análise da aquisição dos bens após o trânsito em julgado da sentença homologatória.
+Não bastasse isso, o apelante fundamentou seu pedido no disposto no artigo 649, do CPC, verbatim:
+ ..
+A leitura do dispositivo em comento não deixa dúvidas de que será possibilitado que um dos herdeiros adquira a quota parte destinada aos demais, sempre que o bem for insuscetível de divisão cômoda, o que não é o que caso telado, uma vez que se está diante de 03 lotes distintos, tendo o imóvel residencial sido edificado sobre apenas um deles (matrícula 2.559).
+E ainda que se estivesse diante de bens insuscetíveis de divisão cômoda, observa-se que o artigo 2.019, do Código Civil condiciona a adjudicação pelo herdeiro à prévia avaliação dos bens, ao afirmar que "Não se fará a venda judicial se o cônjuge sobrevivente ou um ou mais herdeiros requererem lhes seja adjudicado o bem, repondo aos outros, em dinheiro, a diferença, após avaliação atualizada".
+Consoante se infere da sentença de f. 258, o magistrado de origem homologou a partilha de f. 184-198 dos autos, datada de dezembro de 2020, que dividiu de forma igualitária entre os herdeiros os bens deixados pela de cujus. A cada herdeiro coube a fração ideal de 1/5 de 50% de cada imóvel, uma vez que os outros 50% foram objeto de partilha dos autos de inventário n. 0007634-85.2010.8.12.0002.
+Observa-se, ainda, os herdeiros não concordaram com o valor oferecido pelo apelante para fins de aquisição das quotas partes (f. 265-266), inexistindo fundamento legal a justificar a pretendida imposição de aceite neste momento, principalmente em razão de que a quantia depositada não reflete o valor atual dos bens.  grifou-se
+Assim, para o acolhimento da tese veiculada nas razões do apelo extremo, no sentido de acolher a pretensão do agravante, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido, precedentes, mutattis mutandis:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE EXECUÇÃO. EMBARGOS DE TERCEIRO. IMPENHORABILIDADE. ART. 1º DA LEI Nº 8.009/90. LOTES DE TERRENO. DIVISÃO CÔMODA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ART. 87 DO CC. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO NÃO PROVIDO.
+ ..
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A matéria referente à violação do tema inserido no dispositivo do art. 87 do CC não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF.
+4. Agravo regimental não provido. (AgRg no AREsp n. 817.563/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/5/2017, DJe de 23/5/2017.)  grifou-se
+AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.CARTA PRECATÓRIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AVALIAÇÃO. ALEGAÇÃO DE PROCEDIMENTO DE OFÍCIO. IMPROCEDÊNCIA. ANÁLISE PONDERADA DO JULGADOR, TENDO COMO ÍNDICE O VALOR DA SACA DE SOJA. DIVISÃO CÔMODA, IMPROCEDÊNCIA DO ARGUMENTO DE QUE NÃO SE OBSERVOU A POSSIBILIDADE DE AVALIAÇÃO PERICIAL. COMANDO JUDICIAL QUE INDICA EXATAMENTE NESTE SENTIDO. REVISÃO DESTE ENTENDIMENTO.IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA.AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp n. 1.332.785/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/9/2019, DJe de 25/9/2019.)  grifou-se
+Portanto, inafastável, no ponto, o teor da Súmula 7 do STJ.
+2. O recorrente pleiteia o afastamento do óbice da Súmula 284/STF, sob a alegação de constar nas respectivas razões recursais as impugnações específicas acerca da decisão impugnada.
+Consoante anteriormente decidido, verifica-se que que o recurso especial apresenta deficiência em sua fundamentação, uma vez que, tocante ao afastamento da multa por oposição de embargos manifestamente protelatórios, a parte agravante deixou de indicar qual dispositivo legal foi violado pelo acórdão recorrido.
+Ressalte-se que a admissibilidade do presente recurso pela alínea a do inciso III do art. 105 da Constituição Federal pressupõe a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, de maneira a demonstrar a devida correlação jurídica entre o fato e o mandamento legal - o que não ocorreu na hipótese em exame.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. PRINCÍPIO DA FUNGIBILIDADE. ACLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. APELO NOBRE. NÃO INDICAÇÃO DOS ARTIGOS DE LEI FEDERAL TIDOS POR VIOLADOS. INADEQUADA FUNDAMENTAÇÃO. QUESTÃO FEDERAL CONTROVERTIDA NÃO DEMONSTRADA. ÓBICE DA SÚMULA 284/STF. EMBARGOS DECLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL, MAS NÃO CONHECIDO.
+1. É deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, o que atrai a incidência, por analogia, do enunciado n.º 284 da Súmula do Supremo Tribunal Federal.
+2. Embargos de declaração recebidos como agravo regimental, mas não conhecido. (EDcl no AREsp 374.221/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/11/2014, DJe 11/11/2014)
+Incide, portanto, o enunciado da Súmula 284/STF.
+De rigor, portanto, a manutenção da decisão agravada.
+3. Deixa-se de aplicar a multa recursal prevista no art. 1021, § 4º, do CPC, pois não se observa, no presente momento, o intuito meramente protelatório do presente agravo interno.
+Desde já, entretanto, adverte-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+4. Do exposto, nego provimento ao agravo interno.
+É como voto. (fls. 775-779, e-STJ)  grifos do original
+Dos supracitados trechos do decisum, denota-se que o acórdão apontou de forma expressa as deficiências no recurso da parte insurgente e as razões do desprovimento do recurso, motivo pelo qual se verifica que os aclaratórios ora apresentados pela parte recorrente visam unicamente atribuir desfecho favorável a sua tese, com a rediscussão do julgado, o que resta vedado na estreita via recursal sob foco.
+Portanto, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeitam-se os presentes embargos de declaração.
+É como voto.
