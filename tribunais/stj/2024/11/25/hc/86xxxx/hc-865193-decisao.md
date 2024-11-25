@@ -1,0 +1,20 @@
+DECISÃO
+O presente writ, impetrado em benefício de ELON DOS REIS SABINO ALVES - condenado como incurso no crime de roubo simples -, em que se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO (Apelação Criminal n. 0847985-21.2023.8.19.0001), não comporta acolhimento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 43ª Vara Criminal da comarca da Capital/RJ e mantida pelo Tribunal estadual, ao argumento de que causa efetivo prejuízo à ampla defesa e ao contraditório, na medida em que o recorrente se defendia da versão apresentada pela acusação, e houve a condenação com base em fatos que não lhe foram imputados pelo Ministério Público, em afronta ao princípio da correlação, o qual impede a condenação por fatos que não constam na denúncia (fl. 8). Subsidiariamente, postula a revisão da dosimetria, alegando que a exasperação da pena-base foi feita sem a correspondente fundamentação.
+Ocorre que é inviável a utilização da via eleita para revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias.
+Ademais, não se verifica a ocorrência do alegado constrangimento, pois o acórdão a quo está em consonância com a jurisprudência desta Corte Superior de Justiça, tendo destacado que o réu se defende dos fatos objetivamente imputados na denúncia, razão pela qual eventual equívoco na classificação dos delitos incorrido pelo Ministério Público na peça exordial permite a correção pelo Magistrado quando da prolação da sentença nos moldes preconizados pelo art. 393 do CPP2 (emendatio libelli), sem que tal depuração resulte em inobservância aos princípios da correlação e do contraditório e ampla defesa (fl. 22).
+Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. OFENSA AO PRINCÍPIO DA CORRELAÇÃO. INEXISTÊNCIA. FATOS DESCRITOS NA DENÚNCIA. PERDA DO CARGO PÚBLICO. FUNDAMENTAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A irresignação da Defesa não merece prosperar, pois não foram apresentados argumentos novos, aptos a infirmar os fundamentos da decisão agravada, a qual está em consonância com o entendimento jurisprudencial do Superior Tribunal de Justiça quanto ao tema.
+2. O instituto da emendatio libelli previsto no art. 383 do Código de Processo Penal consiste na atribuição de definição jurídica diversa daquela descrita na inicial acusatória e, ainda que isso possa agravar a situação jurídica do réu, não implica ofensa ao princípio da correlação fática entre denúncia e sentença, visto que o acusado se defende dos fatos descritos na peça acusatória.
+3. Perda do cargo público como efeito da condenação, nos termos do art. 92, I, "a" e "b", do Código Penal, não havendo falar em ausência de fundamentação do decisum.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.582.736/RS, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 4/9/2024 - grifo nosso).
+Por fim, é inviável a utilização da via eleita para revisar a reprimenda, em especial quando ausente flagrante ilegalidade, dada a margem de discricionariedade ínsita à fase de dosimetria da pena.
+No caso, as instâncias ordinárias entenderam cabível a exasperação da pena-base em 1/6, apresentando fundamentação idônea, pois, pelo relato da vítima, verifica-se que o réu empregou violência física consubstanciada em um empurrão que levou a vítima ao solo, ocasionando-lhe ainda lesão no joelho ao bater no chão, razão pela qual verifico escorreita a sentença ao reconhecer tal circunstância judicial negativa relativa à maior culpabilidade do acusado, uma vez que excede o grau de reprovabilidade usual inerente ao tipo penal (fl. 29).
+Tal o contexto, não vislumbro o alegado constrangimento.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO SIMPLES. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. PEDIDO DE ABSOLVIÇÃO. FALTA DE CORRELAÇÃO ENTRE A DENÚNCIA E A SENTENÇA. IMPROCEDÊNCIA. FATOS DESCRITOS NA DENÚNCIA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO EM 1/6. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
