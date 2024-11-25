@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KARSTEN S.A. contra a decisão que indeferiu liminarmente os embargos de divergência.
+A parte embargante sustenta que não foi observada a necessidade de cisão do julgamento deste recurso uniformizador, uma vez que o acórdão proferido nos autos do AgInt nos EDcl nos EDcl no AREsp n. 2.015.437/PA é proveniente da Primeira Turma, tratando-se de divergência entre duas Turmas integrantes da mesma Seção.
+Defende, portanto, a competência da Primeira Seção para apreciar o dissídio jurisprudencial existente entre o acórdão recorrido e o mencionado paradigma.
+A parte embargada apresentou impugnação às fls. 1.685-1.688.
+É o relatório.
+O art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, da mesma norma, que configurariam a carência de fundamentação válida; e d) erro material.
+No caso, não há vício de fundamentação na decisão embargada, pois o indeferimento liminar dos embargos de divergência foi devidamente justificado em virtude do não preenchimento dos requisitos de admissibilidade recursais.
+Confira-se, no ponto, a seguinte transcrição (fls. 1.672-1.676):
+No caso, a conclusão do acórdão embargado pela ausência de pressuposto de admissibilidade do recurso especial resultou na ausência de questão de mérito decidida no recurso, seja de direito material ou de direito processual, contexto no qual a pretensão dos embargos de divergência se resume a rediscutir a conclusão do acórdão embargado pela aplicação do óbice sedimentado na Súmula n. 284 do STF.
+ ..
+A conclusão em comento, como se permitiu entrever, encontra-se sedimentada na Súmula n. 315 desta Corte Superior, segundo a qual: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+ ..
+Além disso, a jurisprudência do STJ entende que não são admissíveis os embargos de divergência para rediscutir, no caso concreto, a existência de vício de fundamentação passível de nulidade (art. 1.022 do CPC).
+ ..
+Quanto à aplicação da multa prevista no art. 1.026, § 2º, do CPC, o recurso uniformizador também não preenche os requisitos de admissibilidade recursais, uma vez que a referida sanção processual foi aplicada com base nas particularidades do caso concreto, não sendo possível compará-la abstratamente às conclusões tecidas pelos acórdãos indicados como paradigmas.
+ ..
+No presente caso, verifica-se que a aplicação da mencionada multa está fundamentada na oposição de segundos embargos de declaração considerados descabidos, tendo sido reconhecido o caráter protelatório da irresignação. De acordo com o acórdão embargado, mesmo após terem sido rejeitados os anteriores embargos declaratórios, por ausência de vícios de fundamentação do jugado, a parte reiterou novo recurso integrativo para rediscutir os pontos que já tinham sido oportunamente rechaçados pela turma julgadora. Em razão disso, houve a aplicação da multa processual. Não é possível identificar, portanto, a existência de divergência de teses jurídicas entre o acórdão embargado e os julgados paradigmas, seja porque o juízo de valor a respeito do caráter protelatório dos embargos de declaração partiu de uma análise casuística, seja, ainda, porque não houve a demonstração de que os acórdãos confrontados apresentaram conclusões dissonantes sobre uma mesma situação fática.
+Saliente-se que, na situação em apreço, não há necessidade de realizar a cisão do julgamento e remessa do feito para a Seção. Tal providência apenas seria justificável, caso o mérito da divergência tivesse de ser examinado.
+Portanto, inaugurada a competência da Corte Especial, cumpre a este Ó rgão julgador examinar os requisitos de admissibilidade dos embargos de divergência, ainda que o apontado dissídio jurisprudencial envolva órgãos fracionários integrantes da mesma Seção.
+Essa é a orientação da jurisprudência do Superior Tribunal de Justiça que privilegia, em tais ocasiões , os princípios da razoável duração do processo e da celeridade processual.
+A propósito:
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA. CORTE ESPECIAL. ADMISSIBILIDADE. CISÃO DO JULGAMENTO. DESNECESSIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. FRAUDE À EXECUÇÃO FISCAL CONFIGURADA. PRESUNÇÃO ABSOLUTA. FRAUDE À EXECUÇÃO. ALIENAÇÕES SUCESSIVAS. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. INCIDÊNCIA DA SÚMULA 168/STJ. RETROATIVIDADE DA LEI. PRECLUSÃO. IMPOSSIBILIDADE DE ANÁLISE.
+1. A Corte Especial tem competência para o exame, no âmbito dos embargos de divergência, dos aspectos de admissibilidade do recurso uniformizador, ainda que envolva julgados a serem analisados por Seções, só se justificando a cisão do julgamento se o mérito da divergência tiver de ser analisado, sob pena de desrespeito aos princípios da razoável duração do processo e da celeridade processual. Precedentes.
+2. Não há como abrigar agravo interno que não logra desconstituir o fundamento da decisão atacada.
+3. Não tendo sido ultrapassado o juízo de admissibilidade dos embargos de divergência - recurso de fundamentação vinculada e de cognição restrita -, descabe a apreciação de questões meritórias, ainda que se trate de matéria de ordem pública. Precedentes.
+4. Agravo interno improvido.
+(AgInt nos EAREsp n. 930.482/SP, relator Ministro Sebastião Reis Júnior, Corte Especial, julgado em 7/8/2024, DJe de 12/8/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO ADENTRA AO MÉRITO RECURSAL. INCIDÊNCIA DE ÓBICES PROCESSUAIS AO CONHECIMENTO. SÚMULA 315/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "A Corte Especial tem competência para o exame, no âmbito dos embargos de divergência, dos aspectos de admissibilidade do recurso uniformizador, ainda que envolva julgados a serem analisados por Seções, só se justificando a cisão do julgamento se o mérito da divergência tiver de ser analisado, sob pena de desrespeito aos princípios da razoável duração do processo e da celeridade processual" (AgInt nos EDcl nos EREsp n. 1.850.796/SP, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 27/9/2022, DJe de 6/10/2022).
+3. "Não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais" (AgInt nos EAREsp n. 1.924.581/MG, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023).
+4. Na hipótese dos autos, a decisão monocrática de fls. 230/242, confirmada em sede de agravo interno e não alterada no julgamento de embargos de declaração, concluiu por não conhecer o recurso especial interposto pela ora embargante. Impediram o conhecimento do recurso especial os óbices das Súmulas 7 e 211 do STJ, bem como da Súmula 284/STF. Incide ao caso o entendimento da Súmula 315/STJ.
+5. Agravo interno não provido.
+(AgInt nos EREsp n. 1.983.808/RJ, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 9/4/2024, DJe de 17/4/2024.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
