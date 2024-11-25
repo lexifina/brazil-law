@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de MARCIO AURELIO MENDONCA PRIVADO e CLEDSON SILVA OLIVEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO (HC n. 0819800-25.2023.8.10.0000).
+Os pacientes foram condenados pela prática do crime previsto no art. 33, § 1º, II, da Lei n. 11.343/2006, tendo sido a pena do paciente Marcio Aurélio Mendonça Privado fixada em 5 anos, 2 meses e 15 dias de reclusão, em regime semiaberto, além da multa, e tendo sido a pena do paciente Cledson Silva Oliveira fixada em 7 anos, 3 meses e 15 dias de reclusão, em regime fechado, além da multa.
+Impetrado o habeas corpus, o Tribunal local concedeu a ordem, em parte, apenas para revogar a prisão preventiva do paciente Marcio Aurélio Mendonça Privado.
+A liminar foi indeferida (e-STJ fls. 515-516).
+As informações foram prestadas (e-STJ fls. 523-1045 e 1046-1052).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 1056-1060).
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022) (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+A leitura da inicial revela que os impetrantes trouxeram os seguintes argumentos: (i) quanto ao paciente Marcio Aurélio Mendonça Privado, não havendo estabelecimento para o cumprimento do regime semiaberto, deve ser fixado o regime aberto ou a prisão domiciliar e (ii) quanto ao paciente Cledson Silva Oliveira, foi fixado o regime fechado de maneira equivocada, de forma que deve ser fixado o regime semiaberto e, caso não haja estabelecimento para tanto, deve ser fixado o regime aberto.
+Quanto ao paciente Marcio Aurélio Mendonça Privado, é preciso registrar que a sentença condenatória fixou o regime semiaberto para o cumprimento da pena privativa de liberdade.
+Todavia, por força da determinação inserida no habeas corpus impetrado no Tribunal local, o referido paciente está em liberdade, sendo certo que, no dia 13/09/23, o juiz sentenciante determinou a expedição do alvará de soltura e fixou medidas cautelares em desfavor do aludido paciente.
+O exame dos autos de nº 0800437-91.2023.8.10.0084, através do sistema próprio, revela que o último despacho foi lançado no dia 08/03/2024, pelo Relator do apelo defensivo, com o seguinte teor:
+Da análise dos autos, verifica-se que não houve a publicação da sentença condenatória (Id. n.º 31279922) no Diário de Justiça Eletrônico Nacional, tampouco a apresentação das contrarrazões recursais por parte do Mistério Público Estadual de 1º Grau.
+Desse modo, converto o julgamento em diligência, determino o retorno dos autos ao ao Juízo de origem para que, no prazo de 10 (dez) dias, seja providenciada a publicação, no Diário da Justiça Eletrônico, da sentença recorrida (art. 205, § 3º, do CPC e art. 8º, II, da Resolução nº 38/2018 do TJMA1) ou, se for o caso, certificada a observância dessa formalidade legal.
+Em seguida, intime-se o apelado para contra-arrazoar, no prazo de 8 (oito) dias.
+Transcorrido o prazo, apresentadas, ou não, as contrarrazões, retornem os autos à Procuradoria Geral de Justiça, para emissão de parecer conclusivo, nos termos do art. 671 do RITJMA.
+Cumpra-se.
+Logo, sequer foi julgada a apelação defensiva, de modo que descabe neste momento, especialmente porque o paciente está em liberdade, avaliar se o regime semiaberto, eventualmente mantido em grau recursal, será efetivado em estabelecimento adequado.
+Quanto ao paciente Cledson Silva Oliveira, verifico que a sentença fixou o regime fechado, de maneira fundamentada, inclusive destacando o status de reincidente do referido paciente.
+Vale a transcrição.
+Desta feita, não concorrendo causas de aumento ou diminuição da reprimenda, OBTENHO a pena de 07 (sete) anos, 03 (três) meses e 15 (quinze) dias de reclusão, a ser cumprida inicialmente no REGIME FECHADO3, em consonância com o disposto no art. 33, § 2º e §3º c/c art. 59, ambos do Código Penal, sendo oportuno ressaltar que o réu é reincidente na prática do crime de tráfico de drogas.
+Veja-se que a nota de rodapé apontada pelo número 3, logo após a palavra fechado, faz expressa menção a julgado desta Corte, igualmente valendo a sua transcrição.
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INADMISSIBILIDADE. REINCIDÊNCIA. FORMA QUALIFICADA. REGIME FECHADO. RÉU REINCIDENTE. PENA-BASE ACIMA DO MÍNIMO LEGAL. ILEGALIDADE INEXISTENTE. AGRAVO IMPROVIDO. 1. Nos termos da jurisprudência desta Corte, a habitualidade delitiva do réu, caracterizada pela reincidência, e a prática do delito em sua forma qualificada, constituem fundamento suficiente para afastar a aplicação do princípio da insignificância. Precedentes. 2. Ainda que a pena final não supere 4 anos de reclusão, trata-se de réu primário, cuja pena-base foi fixada acima do mínimo legal, inexistindo, pois, ilegalidade na fixação do regime fechado, 3. Agravo regimental improvido. (STJ - AgRg no REsp: 1894601 SP 2020/0233613-5, Relator: Ministro NEFI CORDEIRO, Data de Julgamento: 02/03/2021, T6 - SEXTA TURMA, Data de Publicação: DJe 05/03/2021)
+Portanto, não há qualquer extravagância na fixação do regime fechado a ser reparada neste momento, sobretudo porque o tema ainda será enfrentado e decidido em grau recursal, sendo certo que, conforme acima transcrito, o apelo defensivo ainda não foi julgado no Tribunal de origem.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
