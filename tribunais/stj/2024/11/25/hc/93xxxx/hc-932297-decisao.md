@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão proferido pelo Tribunal de Justiça de São Paulo.
+Consta dos autos que o pedido de remição de pena em favor da paciente, em decorrência da aprovação no ENCCEJA, foi indeferido pelo Juízo de primeiro grau. Interposto agravo em execução pela defesa, foi desprovido pelo TJSP.
+Neste writ, sustenta a defesa, em síntese, que "a paciente obteve a aprovação em quatro disciplinas, somando-se 20 (vinte) dias cada uma, contabilizam-se 100 (cem) dias a remir, de modo que, com o acréscimo de um terço sobre referida quantia, chega-se ao total de 133 dias a remir" (e-STJ, fl. 7), requerendo, liminarmente e no mérito, a concessão da ordem nesse sentido.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+O Tribunal de origem assim dispôs quanto à pretensão aqui trazida (fls. 33-36):
+ ..  Conforme se depreende dos autos, o documento juntado à fl. 09 comprova que a sentenciada foi aprovada em apenas parte das matérias que compreendem o Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), uma vez que não obteve a nota mínima de 100 pontos na área de "Matemática e suas Tecnologias", além do que entregou a redação "em branco".
+O d. Magistrado indeferiu o pedido, sob o fundamento de que não há previsão legal a sustentar a pretensão da agravante.
+A Resolução nº 391, de 10.05.2021, do Conselho Nacional de Justiça revogou expressamente a Recomendação nº 44/2013, passando a regular integralmente as disposições das orientações antecedentes sobre o instituto da remição de penas e, em se tratando de aprovação no ENCCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos), aduz o seguinte:
+ ..
+Embora meu entendimento seja de que a remição em pauta há de ser plenamente admitida, na medida em que preenche os objetivos da Lei de Execução Penal, e que culmina por caracterizar uma extensão da previsão legal contida no art. 126, da LEP seguindo os preceitos da Resolução 391/2021 do CNJ, certo é que o dispositivo em comento é claro em exigir a aprovação em exame nacionalmente reconhecido como apto a certificar a conclusão de todo o ensino fundamental, vale dizer, na sua integralidade, ainda que a agravante não estivesse regularmente vinculada a uma instituição escolar.
+Desse modo, a fim de que se evite perigoso precedente e em respeito ao princípio da isonomia em relação às detentas e aos detentos que, de fato, são aprovados no ensino fundamental por meio da conclusão do ENCCEJA, faz-se impossível o acolhimento do pleito formulado pela agravante, na medida em que ela não foi integralmente aprovada no exame em comento e não há qualquer previsão para que se opere a declaração de dias remidos de forma proporcional apenas em relação a parte das matérias que o compõem. ..
+Como  se  vê,  ressaltou a  Corte  de  origem  ser "impossível o acolhimento do pleito formulado pela agravante, na medida em que ela não foi integralmente aprovada no exame em comento e não há qualquer previsão para que se opere a declaração de dias remidos de forma proporcional apenas em relação a parte das matérias que o compõem".
+Contudo, nos termos da jurisprudência desta Corte, não existe obrigatoriedade de aprovação em todas as matérias do ENCCEJA, podendo ser concedida a remição de pena, proporcionalmente, em relação às disciplinas em que o apenado obteve a nota mínima exigida. Nesse sentido:
+PROCESSO PENAL. PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO DE PENA. APROVAÇÃO NO ENCCEJA APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. DIREITO À REMIÇÃO DE 20 DIAS DE PENA POR MATÉRIA EM QUE O EXECUTADO FOI APROVADO. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP, fixou o entendimento de que é possível a remição da pena, mesmo nos casos de aprovação parcial no Enem ou em caso de anterior aprovação no grau de ensino.
+II - No que se refere à base de cálculo a ser utilizada, a Resolução n. 391/2021/CNJ determina que, para a remição decorrente do estudo individual com a aprovação total no Enem ou no Encceja, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, o que corresponde o montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio.
+III - Firmou-se, ainda, o entendimento de que o total de 1.200 horas, pela aprovação em exame que certifica a conclusão do ensino médio deve incidir na proporção de 1 dia de pena para cada 12 horas de estudo, resultando em 100 dias de remição, o que equivale a 20 dias de remição para cada uma das cinco áreas de conhecimento avaliadas no exame.
+IV - No caso concreto, o apenado obteve aprovação parcial, ou seja, em 3 (três) das 5 (cinco) áreas de conhecimento no ENCCEJA 2022, o que corresponde a 60 dias de remição.
+V - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no HC n. 872.350/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/10/2024, DJe de 29/10/2024.)
+Nesse contexto, aprovada a paciente em quatro áreas de conhecimento em nível médio (e-STJ, fl. 18) - nota mínima de 100 pontos (e-STJ, fl. 33) -, faz jus a 80 dias de remição de sua pena.
+Ante o exposto, concedo o habeas corpus a RAFAELA BELAGAMBA DO NASCIMENTO, devendo ser remidos 80 dias de sua pena, pela aprovação parcial por estudo (ENCCEJA), consoante a fundamentação acima (Processo n. 002642-44.2022.8.26.0496 - RIBEIRÃO PRETO/DEECRIM UR6).
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
