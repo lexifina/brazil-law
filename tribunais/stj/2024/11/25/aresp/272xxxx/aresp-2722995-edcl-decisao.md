@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TRANSPORTES PARANAPUAN S.A. contra decisão em que não conheci do agravo em recurso especial, pois não impugnados especificamente todos os fundamentos da decisão agravada, particularmente, a incidência das Súmulas 7 e 83 do STJ (e-STJ fls. 298/300).
+Nas razões destes embargos declaratórios (e-STJ fls. 306/314), a parte embargante visa "sanar omissões presentes na decisão que inadmitiu seu Recurso Especial, confirmada pela decisão de não conhecimento do Agravo interposto com fulcro no artigo 1.030, §1º, c/c artigo 1.042, ambos do Código de Processo Civil" (e-STJ fl. 312). Alega que "não há que se falar em falta de impugnação específica aos fundamentos da decisão recorrida, considerando que o Agravo interposto contra a decisão que inadmitiu o Recurso Especial foi claro em expor que a decisão recorrida não aplicou o entendimento deste E. Superior Tribunal de Justiça sobre o tema aqui tratado, bem como não há provas nos autos a serem analisadas, tratando-se de matéria exclusivamente de direito" (e-STJ fl. 311). Ao final, requer sejam sanados os vícios apontados.
+Impugnação às e-STJ fl. 320/321.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+O agravo em recurso especial não foi conhecido porque não impugnados especificamente todos os fundamentos da decisão do Tribunal de origem que não admitiu o apelo extremo. Eis os fundamentos da decisão ora agravada (e-STJ fls. 299/300):
+O Tribunal de origem não admitiu o recurso especial, dentre outros motivos, em razão da incidência das Súmulas 7 e 83 do STJ.
+Contudo, nas razões do agravo, o agravante limita-se a alegar genericamente que "não exige o reexame de suporte fático-probatório" (e-STJ fl. 241).
+Sendo assim, constata-se que a parte não impugnou específica e adequadamente a incidência do referido enunciado.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+ ..
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp 1.694.099/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022).
+Ademais, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Nas razões destes embargos declaratórios, a pretexto da existência de omissão, o embargante sustenta, em síntese, que "o recurso interposto foi objetivo em tratar da inexistência de discussão de caráter fático, demonstrando que para sua análise não há necessidade de revolver qualquer prova" (e-STJ fl. 311).
+Logo, vê-se que as alegações da parte embargante, na realidade, manifestam seu inconformismo com o não conhecimento de seu recurso.
+No entanto, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos declaratórios são cabíveis quando houver omissão, contradição ou obscuridade no acórdão embargado, ou ainda para correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. A pretensão aclaratória tem por objeto apenas os vícios constantes no julgado embargado, não servindo para sanar eventual falha de fundamentação existente em decisão anterior, diante da ocorrência de preclusão. Nesse sentido: EDcl no AgRg no RE no AgRg no AREsp 1.212.307/PE, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 6/2/2019.
+3. No caso, o acórdão embargado limitou-se a não conhecer do agravo interno, uma vez que a parte deixou de impugnar, de maneira especificada, os fundamentos da decisão agravada. Todavia, a embargante ignora que o agravo interno por ela manejado não foi conhecido, pretendendo o reexame de questões atinentes ao próprio mérito da impugnação ao valor da causa, o que não se admite no presente momento processual.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na AR 5.848/RJ, Relator Ministro Og Fernandes, Primeira Seção, julgado em 14/05/2019, DJe 30/05/2019)
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
