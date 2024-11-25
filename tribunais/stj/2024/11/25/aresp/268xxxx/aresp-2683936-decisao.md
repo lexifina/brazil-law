@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São Paulo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 25):
+Honorários - Nos termos do artigo 85, §7º, do Código de Processo Civil são devidos os honorários advocatícios, vez que impugnado o cumprimento de sentença - Depreende-se dos autos que impugnação ao cumprimento de sentença, diante disso, cabível a fixação de honorários advocatícios em favor da agravada - Devem ser fixados honorários advocatícios por equidade, remunerando de maneira digna o causídico vencedor, devem os honorários recursais agora fixados em R$ 3.000,00 (três mil reais) Recurso parcialmente provido.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 85, § 7º, do Código de Processo Civil. Sustenta, em síntese, que "o acórdão recorrido considera que a mera apresentação de Impugnação pela Fazenda Pública enseja a condenação ao pagamento de honorários advocatícios. Contudo, há que se ressaltar que, na hipótese, a Impugnação apresentada pela Fazenda Pública foi acolhida, sendo este ponto incontroverso. A correta interpretação do artigo 85, §7º, do Código de Processo Civil aponta no sentido de que a fixação de honorários advocatícios em desfavor da Fazenda Pública só é cabível na hipótese de rejeição da Impugnação." (fl. 33)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Inicialmente, observa-se que, mesmo em feitos que tramitam sob a égide do atual CPC, é pacífica a jurisprudência desta Corte no sentido de que "a rejeição da impugnação ao cumprimento de sentença não enseja a condenação em honorários advocatícios, nos termos da Súmula 519/STJ" (AgInt no REsp 1.668.737/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 3/6/2020).
+Entretanto, no caso dos autos, a impugnação ao cumprimento de sentença restou acolhida, em razão do excesso de execução. Nestes casos, a jurisprudência desta Corte Superior é remansosa quanto ao cabimento da fixação de honorários advocatícios, e o acórdão recorrido está em consonância com tal entendimento.
+No mesmo sentido, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC.
+2. A jurisprudência desta Corte Superior, firmada no julgamento do REsp 1.134.186/RS, sob a sistemática dos recursos repetitivos, é no sentido de que a fixação dos honorários em favor do executado/impugnante é possível quando o acolhimento da impugnação ao cumprimento de sentença resultar na extinção do procedimento executivo ou na redução do montante executado. (Súmula 83/STJ).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.536.348/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. REJEIÇÃO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO
+1. Esta Corte definiu, sob a égide do CPC/1973, que, quanto aos honorários advocatícios: a) são cabíveis na fase de cumprimento de sentença, haja ou não impugnação, depois de transcorrido o prazo para o pagamento voluntário (Tema n. 407 e Súmula n. 517 do STJ); b) não são cabíveis quando rejeitada a impugnação ao cumprimento de sentença (Tema n. 408 e Súmula n. 519 do STJ); e c) são cabíveis quando acolhida, integral ou parcialmente, a impugnação, com extinção do processo (Temas n. 409 e 410).
+2. O acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça, a qual é firme no sentido de não serem cabíveis honorários advocatícios pela rejeição à impugnação da Fazenda Pública, consoante o teor da Súmula n. 519 do STJ, ressalvando-se à parte exequente pleitear a fixação da sucumbência ao final do cumprimento de sentença, nos termos do art. 85, § 7º, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 2.076.095/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. IMPUGNAÇÃO ACOLHIDA EM PARTE. PAGAMENTO DE CRÉDITO POR PRECATÓRIO. ARBITRAMENTO DE HONORÁRIOS. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Consoante o entendimento do STJ, o acolhimento da impugnação ao cumprimento de sentença, ainda que de forma parcial, enseja a fixação de honorários advocatícios em favor do executado.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 2.101.641/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/6/2024, DJe de 13/6/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
