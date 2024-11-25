@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de FLAVIO SIQUEIRA DIAS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.23.126698-2/000).
+Depreende-se dos autos que o paciente foi condenado às penas de 42 anos, 7 meses e 10 dias de reclusão, no regime inicialmente fechado, e 3 anos e 6 meses de detenção, no regime semiaberto, pela prática dos crimes inscritos nos arts. 158, § 1º, do Código Penal (extorsão, por sete vezes), 2º, § 2º, da Lei n. 12.850/2013 (organização criminosa), e 4º, alínea a, da Lei n. 1.521/1951 (usura, por sete vezes), em concurso material (e-STJ fls. 127/146).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu da impetração, por considerar inadequada a via eleita para a análise do pleito, porquanto substitutiva de recurso próprio. Eis a ementa do acórdão (e-STJ fl. 22):
+EMENTA: HABEAS CORPUS - EXTORSÃO QUALIFICADA, USURA E ORGANIZAÇÃO CRIMINOSA - NULIDADE DA SENTENÇA PENAL CONDENATÓRIA - REMÉDIO HEROICO - VIA INADEQUADA - EXISTÊNCIA DE RECURSO PRÓPRIO - PRINCÍPIO DA UNIRRECORRIBILIDADE. WRIT NÃO CONHECIDO. 1. O Habeas Corpus possui seus limites delineados pela Constituição Federal de 1988 (art. 5º, LXVIII) e pelo Código de Processo Penal (arts. 647 e 648), destinando-se, exclusivamente, à preservação do direito de liberdade do cidadão, seja quando já violado, ou para preservá-lo, em casos de ameaça concreta, atual ou iminente de ilegalidade ou abuso de poder. 2. Inviável o manuseio do Habeas Corpus como sucedâneo recursal, a fim de obter o reconhecimento da nulidade da sentença penal condenatória, haja vista tratar-se de matéria atacável por recurso próprio, nos exatos termos do art. 593, inc. I, do Código de Processo Penal.
+Neste writ, alega a defesa que o paciente sofre constrangimento ilegal, porquanto a condenação lastreou-se em provas ilícitas. Acrescenta que, após o trânsito em julgado, "a defesa obteve provas novas que demonstram a inocência do paciente, bem como a ocorrência de ilegalidades processuais e ausência de fundamentação quanto à sua condenação" (e-STJ fl. 6).
+Sustenta ter havido flagrante preparado, de modo que a indução à prática delituosa por parte dos policiais, aliada à ineficácia absoluta do meio empregado, tornou impossível a consumação dos delitos.
+Pondera que, "não se considerando a hipótese de crime como impossóvel (sic), resta incontroverso, pelas provas dos autos que houve apenas tentativa de extorsão, a aliás não sendo possível precisar realmente a autoria, pois se ocorreu por telefone, não há certeza de que a voz do interlocutor era a voz do Revisonando. E ainda que fosse o revisionando, independentemente, não se consuma o crime de extorsão quando, apesar de ameaçada, a vitima não se submete à vontade do agente. No caso concreto em análise conforme está escrito nos autos, a suposta vítima não se submete hora nenhuma à vontade do apelante, posto que acompanhada de policiais não se amedrontaria a ponto de efetivamente realizar o pagamento" (e-STJ fl. 11).
+Aduz que, "mesmo diante da ausência de tipificação e responsabilidade pessoal feita pelo MP, não há como sustentar o insustentável. E nisto reside a responsabilidade do apelante quanto aos delitos de usura na modalidade participativa" (e-STJ fl. 20).
+Diante dessas considerações, requer (e-STJ fl. 21):
+Liminarmente, a suspensão da execução penal imposta ao paciente, considerando a plausibilidade jurídica das alegações e o perigo da demora.
+No mérito, a concessão da ordem para:
+Anular a condenação do paciente, determinando a exclusão das provas ilícitas obtidas no flagrante preparado e suas derivações;
+Reconhecer a desclassificação do crime de extorsão para tentativa, com redução da pena;
+Subsidiariamente, determinar que o Tribunal de origem analise o pedido de revisão criminal, com o devido enfrentamento das teses defensivas.
+É o relatório.
+Decido.
+De início, cumpre esclarecer que o Superior Tribunal de Justiça não pode conhecer das questões suscitadas no presente habeas corpus, diante da falta de manifestação do Tribunal de origem sobre os temas.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS . PRISÃO PREVENTIVA. AUTORIA DELITIVA. DILAÇÃO PROBATÓRIA. INDÍCIOS SUFICIENTES. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. DECISÃO DEVIDAMENTE FUNDAMENTADA. ILEGALIDADE DA BUSCA PESSOAL E VEICULAR. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. A alegação de ilegalidade da busca pessoal e veicular, bem como o pedido de prisão domiciliar não foram apreciados no acórdão originário, logo, é inviável o conhecimento dos temas diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância.
+6. Agravo regimental não provido. (AgRg no HC n. 868.444/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA BUSCA PESSOAL E DOMICILIAR. MATÉRIA NÃO SUBMETIDA À APRECIAÇÃO DO TRIBUNAL DE ORIGEM. IRRESIGNAÇÃO PER SALTUM. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. DOSIMETRIA. PENA-BASE. QUANTIDADE DE DROGA. ILEGALIDADE. AUSÊNCIA. AGRAVO DESPROVIDO.
+ ..
+2. Conforme consignado na decisão agravada, não tendo sido a tese de nulidade da busca pessoal e domiciliar submetida à apreciação do Tribunal de origem, no apelo criminal, tampouco opostos embargos de declaração, não cabe a esta Corte a análise inaugural da matéria.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC n. 817.178/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
