@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de embargos de declaração opostos por CONDOMINIO DO EDIFICIO FUSION WORK & LIVE contra o acórdão de fls. 784-785 (e-STJ), proferido pela Quarta Turma sob a relatoria deste signatário, que negou provimento ao agravo interno interposto pela parte ora embargante.
+O aresto em questão recebeu a seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA. 1. No caso, derruir a conclusão da Corte local acerca da interrupção do prazo prescricional e de qual seria o seu termo inicial, como pretende a parte recorrente, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior. 2. Agravo interno desprovido.
+Nos presentes aclaratórios (fls. 794-795, e-STJ), o embargante alega a existência de omissão quanto à não incidência da Súmula 7/STJ ao presente caso.
+Sem impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/2015, os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material.
+Entretanto, a presente insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VÍCIO DO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015. 2. No caso concreto, não se constata o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios. 3. Embargos de declaração rejeitados. (EDcl no AgInt no REsp 1303182/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/10/2019, DJe 21/11/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC. 1. De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão impugnado, bem assim para corrigir-lhe erro material. 2. Nesse panorama, não se descortinando nenhum dos referidos vícios, impõe-se a rejeição da súplica integrativa. 3. Embargos de declaração rejeitados. (EDcl no REsp 1395692/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+No que tange à alegação do embargante, cumpre asseverar que o acórdão que julgou o agravo interno foi suficientemente claro nas suas razões ao desprover o recurso. Assim, contrariamente ao consignado nas razões dos aclaratórios, inexiste omissão a macular o julgado, possuindo o recurso nítido caráter infringente.
+Assim constou do acórdão (e-STJ, fls. 784):
+1. Não merece reparos a decisão agravada que aplicou o óbice da Súmula 7/STJ à pretensão recursal relativa aos artigos 189, 202, inciso I, 206, § 3º, inciso V, e 934, todos do Código Civil. Compulsando os autos, denota-se que o Tribunal de origem consignou estar prescrita a pretensão da parte, nos seguintes termos (e-STJ, fl. 537-538):
+Cinge-se a controvérsia na verificação da ocorrência da prescrição da pretensão de ressarcimento decorrente de suposto ilícito civil. Trata-se, na origem, de ação de ressarcimento ajuizada pelo CONDOMÍNIO DO EDIFÍCIO FUSION WORK & LIVE em face de LFVAG PARTICIPAÇÕES EDITORAÇÃO E EDUCACIONAL EIRELI, objetivando indenização em virtude do de obra que gerou danos em área comum do condomínio. De acordo com a teoria da actio nata, a prescrição fluirá a partir do conhecimento inequívoco da lesão ou violação do direito. Na presente hipótese, conforme narrado pelo autor apelante na petição inicial (ID. 35173029), houve a realização de obras que geraram danos em 14/05/2016 e, inequivocamente, o condomínio teve ciência da ocorrência e da extensão dos prejuízos em 1º/06/2016, conforme o laudo e orçamento da empresa contratada para realizar o reparo dos danos (ID. 35173033). Dessa forma, levando-se em conta o prazo prescricional de 3 anos, nos termos do art. 206, §3º, V, do CC, bem como o marco inicial para a contagem do prazo prescricional o mês de junho de 2016, tendo sido a primeira ação ajuizada em agosto de 2019, resta evidente a ocorrência da prescrição. Uma vez decorrido o prazo prescricional, o ajuizamento de ação posterior não tem o efeito de interromper e fazer recomeçar a contagem como quer o apelante.
+Nesse contexto, derruir a conclusão da Corte local acerca da interrupção do prazo prescricional e de qual seria o seu termo inicial, como pretende a parte recorrente, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+Portanto, na hipótese ora em foco, o r. decisum embargado não possui vício a ser sanado por meio de embargos de declaração, uma vez que esta eg. Quarta Turma, ao examinar a controvérsia, foi clara ao sustentar as razões do desprovimento do recurso interposto, tendo em vista que aferir eventual interrupção do prazo prescricional e qual seria o seu termo inicial atrai a incidência da Súmula 7/STJ.
+Dessa forma, não cabe alegação de violação do artigo 1.022 do NCPC, quando a decisão embargada está devidamente fundamentada, apenas não se adotando a tese do embargante.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
