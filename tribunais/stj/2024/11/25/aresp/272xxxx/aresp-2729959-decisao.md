@@ -1,0 +1,31 @@
+DECISÃO
+Na origem, trata-se de ação de rito comum ajuizada pelo ora Agravante contra o ora Agravado, requerendo sua regular participação no concurso, ante a irregularidades no teste psicológico. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi reformada, para julgar improcedente o pedido. O valor da causa foi fixado em R$ 1.000,00 (Mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO. DECISÃO DA 2ª VICE-PRESIDÊNCIA QUE NEGOU SEGUIMENTO A RECURSO EXTRAORDINÁRIO, NA FORMA DO ART. 1.030, I, "A", DO CPC. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO REPROVADO NA ETAPA DE AVALIAÇÃO PSICOLÓGICA. RECONHECIDA A REGULARIDADE DO EXAME APLICADO PELA BANCA EXAMINADORA. AUSÊNCIA DE REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO ARE 748.371-RG/MT, PARA DISCUTIR MATÉRIA RELACIONADA À OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA (ART. 5 , LV, DA CF), QUANDO A ANÁLISE DA ALEGAÇÃO DEPENDER DO PRÉVIO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL (TEMA 66O/STF). TESE PARADIGMA ADEQUADAMENTE APLICADA AO CASO CONCRETO. RECURSO DESPROVIDO. O PRETÓRIO EXCELSO SEDIMENTOU INEXISTIR REPERCUSSÃO GERAL QUANDO ALEGADA "SUPOSTA VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL", E O JULGAMENTO DA CAUSA FOR "DEPENDENTE DE PRÉVIA ANÁLISE DA ADEQUADA APLICAÇÃO DAS NORMAS INFRACONSTITUCIONAIS"  ..  (STF, ARE 748.371 RG/MT, REI. MINISTRO GILMAR MENDES, TRIBUNAL PLENO, J. 06- 06-2013 - TEMA 660/STF).
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Como visto, inobstante mereça deferência a legislação de regência que desponta do Conselho Federal de Psicologia, compactua-se igualmente tangível observar os elementos contidos no instrumento convocatório, que exortam, sabidamente, emprego de análises objetivas.
+É a dicção, outrossim do Tema n. 338 do STF: "A exigência do exame psicotécnico em concurso depende de previsão em lei e no edital, e deve seguir critérios objetivos".
+Logo, se ocioso o edital quanto a incrustar "análise conjunta dos testes" (2º, inc. II, da Resolução n. 2/2016 do CFP), não cabe ao judiciário sindicar tal elemento subjetivo, avalizando-se a opção da administração por sopesar o resultado numérico de cada teste, individualmente.
+ ..
+À vista do exposto, a sentença deve ser alterada.
+Com a reforma da sentença, necessária a redistribuição do ônus sucumbencial e, portanto, o autor passa a responder pelas custas e honorários.
+Finalmente, não há espaço para fixação de honorários recursais, na forma da parte final do § 11 do artigo 85 do CPC, porque não atendidos os requisitos estipulados pela jurisprudência do STJ, consoante publicado na Edição 129 do Jurisprudência em Teses daquela Corte:
+ ..
+Em sede de aclaratórios:
+ ..
+Nessa toada, a despeito de eventuais singularidades casuísticas ou de elementos periféricos circunstancialmente debatidos, há clara identidade entre o caso concreto e a ratio decidendi estabelecida no paradigma (ARE n. 748.371/MT - Tema 660).
+Nas duas oportunidades, torna-se obrigatório o revolvimento analítico do panorama infraconstitucional subjacente ao dispositivo constitucional alegadamente desrespeitado.
+Em suma, embora a tese esposada no apelo extremo exiba como referência o art. 5º, LV, da CF/88, a matéria suscitada demanda a verificação, concreta e circunstancialmente, de eventual transgressão a dispositivos do Edital n. 042/CGCP/2019; da Resolução n. 002/2016 do Conselho Federal de Psicologia; e da 7ª Diretriz do Grupo de Câmaras de Direito Público do TJSC, sendo que ausente tal averiguação não se mostra possível apurar a alegada mácula às garantias constitucionais invocadas.
+E se assim o é, não há que se falar em juízo de adequação equivocado, haja vista inexistir divergência entre a compreensão firmada no aresto paradigma do Pretório Excelso (Tema 660/STF) e o que restou decidido por este Tribunal de Justiça.
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
