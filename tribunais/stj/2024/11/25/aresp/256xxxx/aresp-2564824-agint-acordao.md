@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 141 E 492 DO CPC. RAZÕES DE DECIDIR. AUSÊNCIA DE IMPUGNAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. SÚMULA N. 284 DO STF. INEXISTÊNCIA DE SIMILITUDE. AGRAVO INTERNO DESPROVIDO.
+1. Incide a Súmula n. 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações que não guardam correlação com o decidido nos autos.
+2. A falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+3. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+4. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MÁRCIA AZEVEDO MELO DA SILVA contra julgado da Presidência que, com amparo no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheceu do agravo para não conhecer do recurso especial com base na Súmula n. 284 do STF.
+A agravante sustenta que o recurso especial não apresentou argumentação dissociada do decido no acórdão recorrido quanto à violação dos arts. 141 e 492 do CPC, pois consta de suas razões que o julgado extrapolou os limites da lide (fl. 307).
+Defende que o dissídio jurisprudencial fez referência clara e expressa ao art. 536, caput, do CPC, tendo sido demonstrada a similitude fática entre os julgados (fl. 308).
+Pontuou também (fl. 309):
+Foram invocados três julgados STJ -REsp: 1967587 PE 2021/03261103 (Terceira Turma), STJ - AgRg no REsp: 1972845 SP 2021/03558454 (Quinta Turma) e STJ - REsp: 1840280 BA 2019/0155135-1 (Terceira Turma). Os três expressamente mencionam suposta pretensão exagerada no recebimento de astreintes - exatamente o contido nas razões recursais invocadas pela ora Agravante.
+Requer, assim, seja a decisão reconsiderada ou o agravo interno julgado pelo colegiado para que do recurso especial se conheça.
+Contrarrazões não apresentadas (fl. 317).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 141 E 492 DO CPC. RAZÕES DE DECIDIR. AUSÊNCIA DE IMPUGNAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. SÚMULA N. 284 DO STF. INEXISTÊNCIA DE SIMILITUDE. AGRAVO INTERNO DESPROVIDO.
+1. Incide a Súmula n. 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações que não guardam correlação com o decidido nos autos.
+2. A falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+3. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+4. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+5. Agravo interno desprovido.
+VOTO
+A irresignação do apelo nobre não reúne condições de prosperar.
+No recurso especial, a parte recorrente apontou violação dos arts. 141 e 492 do CPC.
+Afirmou que o Tribunal a quo julgou o agravo de instrumento de forma diversa do pedido. Destacou que, no referido agravo, suscitou apenas a cessação de bloqueios judiciais e a necessidade de fornecimento de caução, ou seja, em momento algum teria requerido a redução das astreintes.
+Sustentou que as astreintes foram eliminadas, já que foi julgado como suficiente o valor determinado a título de pagamento pela cirurgia realizada em rede particular (R$ 102.477,50) e de indenização por danos morais (R$ 14.481,83).
+Ponderou que julgados do STJ consideram abusiva a resistência ao cumprimento de ordens judiciais, fixando multas diárias, não sendo cabível a eliminação da multa, pois descumprida a ordem judicial por 891 dias.
+Defendeu a ocorrência de dissídio jurisprudencial nesse ponto.
+Requereu o provimento do recurso especial para que o acórdão seja anulado ou seja restabelecida a multa diária fixada em R$ 500 mil.
+Assim, verifica-se que a controvérsia diz respeito à redução das astreintes, sob a alegação de ser extra petita a decisão recorrida.
+A Corte estadual, no acórdão proferido no agravo de instrumento, ressal tou que o valor da multa poderia ser alterado a qualquer tempo, inclusive de ofício, em caso de incompatibilidade com a obrigação imposta. E, atenta às circunstâncias do caso concreto, considerou que o valor final das astreintes em R$ 500 mil seria elevado e em desacordo com os princípios da proporcionalidade e da razoabilidade, podendo, inclusive, ocasionar o enriquecimento ilícito da outra parte. Assim, reduziu o valor a R$ 116.959,33. Confira-se trecho do acórdão (fls. 146-148):
+Contudo, após o seu arbitramento, o valor da multa pode ser modificado a qualquer tempo, de ofício, inclusive, se demonstrada, no curso do processo, sua incompatibilidade com a obrigação discutida no processo.
+ ..
+No caso, respeitado o entendimento do douto Juízo de origem, tenho para mim que o valor final das astreintes em R$500.000,00 é de fato elevada, em desacordo com os princípios da razoabilidade e proporcionalidade, podendo acarretar enriquecimento ilícito.
+Embora longo o período de descumprimento das decisões judiciais, o valor final ficou desproporcional principalmente se considerado a obrigação de fazer discutida nos autos (cirurgia para reconstrução óssea da maxila e mandíbula). Assim, diante das circunstâncias do caso concreto e em atenção aos princípios da razoabilidade e proporcionalidade, bem como em observância aos critérios acima mencionados, o valor final das astreintes deve ser reduzido para R$ 116.959,33, cujos valores já foram levantados pela agravada (R$102.477,50 fls. 334 do incidente nº 0004580-64.2022.8.26.0037 e R$ 14.481,83 fls. 21/22 do incidente nº 0009308-80.2022.8.26.0037).
+Os demais valores eventualmente levantados a este título pela agravada que excederam a quantia de R$ 116.959,33 deverão ser restituídos à agravante. O mesmo raciocínio se aplica aos valores que se encontrem bloqueados, os quais deverão ser liberados.
+Nas razões do recurso especial, a parte restringiu-se a defender que o acórdão teria sido extra petita, pois, no agravo de instrumento, não teria sido pleiteada a redução das astreintes. Em momento algum rebateu o fundamento do acórdão recorrido, a saber, a possibilidade de redução das astreintes a qualquer tempo e inclusive de ofício e ter sido fixada multa incompatível com a obrigação imposta, ofendendo os princípios da razoabilidade e da proporcionalidade, podendo ocasionar o enriquecimento ilícito da parte adversa.
+Assim, a análise da alegada violação dos arts. 141 e 492 do CPC fica obstada pela incidência da Súmula n. 284 do STF, devendo ser mantida a decisão nesse ponto.
+No tocante ao apontado dissídio quanto à interpretação do art. 536 do CPC, em que foi indicado como paradigma o Agravo de Instrumento n. 08341-35.2020.8.17.9000, do TJPE, consta da decisão agravada o seguinte (fl. 295):
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do dispositivo legal objeto do dissídio jurisprudencial, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser expressamente indicada  ..
+No caso, é im positiva a manutenção da incidência da Súmula. 284 do STF, pois a parte ora agravante, no recurso especial, limitou-se a alegar a divergência jurisprudencial em relação ao art. 536, caput, do CPC, que não possui comando normativo que sustente a alegada tese de função coercitiva da multa imposta, que teria sido confundida com verbas de natureza distinta (ressarcitória), configurando, pois, deficiência de fundamentação.
+Além disso, ao aduzir ofensa ao caput do referido dispositivo de lei federal, deixou de indicar qual seria a ofensa a seus desdobramentos.
+Também não foi demonstrou a identidade entre o acórdão recorrido e o paradigma mencionado, pois a Corte de origem (fls. 146-148) concluiu que o valor das astreintes poderia ser alterado a qualquer tempo e de ofício, quando incompatível com a obrigação imposta.
+No recurso especial, entretanto, a parte, a título de divergência pretoriana, argumenta que o acórdão recorrido teria fixado multa de caráter ressarcitório, colacionando julgado que manteve as astreintes em razão de seu caráter coercitivo.
+Nesse contexto, não há semelhança entre as bases jurídicas dos acórdãos confrontados, razão pela qual não são aptos para demonstrar o dissídio jurisprudencial.
+Quanto ao dissídio jurisprudencial apresentado tendo como paradigmas o REsp n. 1.967.587, o AgRg no REsp n. 1.972.845 e o REsp n. 1.840.280, também não foram indicados, de forma inequívoca, os dispositivos legais supostamente violados pelo acórdão impugnado, o que caracteriza deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF, in verbis:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO A ENUNCIADO SUMULAR. ANÁLISE. IMPOSSIBILIDADE. SÚMULA N. 518 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL OBJETO DA DIVERGÊNCIA. SÚMULA N. 284 DO STF. VIOLAÇÃO AOS ARTS. 80 E 81 DO CPC. MATÉRIA RELATIVA Ã POSSIBILIDADE DE APRESENTAÇÃO REITERADA DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE. SÚMULA N. 284 DO STF. LITIGÂNCIA DE MÁ-FÉ. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Quanto ao suposto dissídio jurisprudencial, as razões do recurso especial não indicaram o dispositivo de lei federal cuja interpretação seria controvertida entre tribunais diversos, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284/STF.
+ ..
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.386.678/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024, destaquei.)
+Ainda que assim não fosse, registre-se que a alegação de que os valores não são relativos ao pagamento de multa diária, mas, respectivamente, destinaram-se ao pagamento da cirurgia particular e à reparação moral, não tem similitude com os casos examinados n os acórdãos paradigma colacionados, que tratam especificamente da manutenção do valor da multa imposta.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
