@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUA L CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 678/682) interposto contra decisão desta relatoria, que conheceu do agravo e deu parcial provimento ao recurso apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015 (e-STJ fls. 670/674).
+Em suas razões, a parte reitera a violação à coisa julgada, pois é "evidente que a forma de pagamento do débito pela devedora/recorrida já foi devidamente apreciada. Para isso, basta comparar a decisão dos embargos declaratórios nº 70081124190 (que transitou em julgado) com o acórdão do agravo de instrumento nº 70083945360, que é objeto deste recurso especial" (e-STJ fl. 681).
+Aduz que, "quanto à segunda parte da decisão, que trata de matéria recursal subsidiária sobre o tema repetitivo que estabelece que a existência do crédito é determinada pela data do fato gerador, a recorrente expressa discordância. No presente caso, o crédito foi constituído em 18/07/2017, enquanto o pedido de recuperação da recorrida ocorreu em 16/11/2015. Portanto, não se aplica a tese repetitiva ao caso em questão" (e-STJ fl. 682).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 690/698), requerendo a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+DIREITO PROCESSUA L CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+3. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 670/674):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da aplicação do entendimento firmado em recurso especial repetitivo e incidência das Súmulas n. 7 do STJ e 283 e 284 do STF (e-STJ fls. 445/461).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 270):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. IMPOSSIBILIDADE DE HABILITAÇÃO RETARDATÁRIA. LEVANTAMENTO DA QUANTIA PELA DEVEDORA. PAGAMENTO A SER REALIZADO NAS MESMAS CONDIÇÕES DO PLANO. PRINCÍPIO DA IGUALDADE ENTRE CREDORES. Hipótese em que, apesar da natureza concursal do crédito, inviável sua habilitação retardatária no plano de recuperação judicial, uma vez que esta já foi encerrada, vigendo apenas o prazo para pagamento dos demais credores, de forma parcelada, como previsto o plano. Priorizando-se o tratamento igualitário, o saldo da quantia penhorada deve ser levantada pela empresa devedora, após o pagamento de parte do crédito exequendo, a ser realizada nas mesmas condições do plano a que se submeteram os demais credores (deságio, parcelamento e consectários). Antes da adesão ao parcelamento, justamente visando ao tratamento paritário do credores, deve a exequente receber em parcela única o montante equivalente ao somatório das cotas mensais a que faria jus caso houvesse aderido ao plano de recuperação ao tempo em que os demais o fizeram (equivalente às parcelas já percebidas pelos demais credores). Liberação parcial da quantia constrita ao devedor, após pagamento parcial do devido. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados, com imposição de multa (e-STJ fls. 302/307).
+Nas razões do recurso especial (e-STJ fls. 317/333), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 485, VI, 493, 505 e 508 do CPC/2015, sob alegação de que "a tese de se o crédito pretendido na fase de cumprimento de sentença ficaria ou não submetido ao plano de recuperação judicial já fora alvo de análise no agravo de instrumento nº 70080666159 e embargos de declaração nº 70081124190, mesmo que de forma implícita, porque a Câmara Julgadora decidiu validar o bloqueio e liberar a quantia constrita à credora/recorrente. Na decisão dos embargos declaratórios nº 70081124190, o desembargador manifestou claramente que seria mais útil à credora/recorrente dar continuidade no cumprimento de sentença por conta do encerramento da recuperação judicial em março/2019, e mais razoável a manutenção do bloqueio do valor nos autos do cumprimento de sentença devido a ausência de prova que demonstre que tal quantia comprometa as atividades da empresa.  .. . Após tal decisão, a devedora/recorrida chegou a interpor o recurso especial nº 70083077552 contra essa decisão, não tendo sido recebido com efeito suspensivo no STJ, e fez com que a exequente/recorrente peticionasse nos autos de 1ª instância, requerendo a liberação da quantia, que fora deferida pelo juízo singular. Ocorre que a executada/recorrida, concomitantemente (enquanto tramitava o REsp nº 1862589/RS - o qual não provido), interpôs outro agravo de instrumento nº 70083945360, a fim de reformar a decisão de 1ª instância que determinou a liberação da quantia - frisa-se que essa decisão estava amparada pela decisão dos embargos declaratórios nº 70081124190 - a qual já tinha transitado em julgado. E aqui se ressalta, Nobres Julgadores, que a matéria discutida no último agravo de instrumento está totalmente superada, não podendo simplesmente a devedora, em 2ª instância, apontar que a forma de pagamento do crédito estaria equivocado, após a decisão de 1ª instância determinar a liberação de valor bloqueado, diante da nítida supressão de instância. E mais, o supracitado tema que está gerando controvérsia (forma de pagamento do crédito) entre as partes já fora tratado em outra oportunidade, o que invoca a coisa julgada, não cabendo sua rediscussão" (e-STJ fls. 322/323);
+(ii) art. 49 da Lei n. 11.101/2005, defende que "a tese levantada pela devedora/recorrida, qual seja, que o pagamento da dívida deveria se dar nos mesmos moldes do plano de recuperação judicial não merece prosperar, porque a constituição do crédito desta lide se deu em momento posterior ao pedido de recuperação judicial. O crédito da credora/recorrente fora constituído em decisão que transitou em julgado no dia 18/07/2017 e o pedido de recuperação judicial da devedora/recorrida datou em 16/11/2015. Ou seja, a recuperação judicial é anterior ao trânsito em julgado e até mesmo anterior a sentença da presente lide (27/06/2017), a qual constituiu o crédito da recorrente. Nessa seara, a decisão recorrida viola diretamente o caput do art. 49 da lei nº 11.101/05, já que o crédito da presente lide só fora constituído em sentença/trânsito em julgado" (e-STJ fl. 326); e
+(iii) art. 1.026, § 2º, do CPC/2015, devendo ser afastada a multa imposta no julgamento dos embargos de declaração, pois não houve manifesto propósito protelatório.
+No agravo (e-STJ fls. 624/634), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 648/659).
+É o relatório.
+Decido.
+Da coisa julgada
+O Tribunal de origem afastou a tese, por entender que "em relação à alegação de trânsito em julgado da questão atinente à forma de pagamento, na decisão vergastada constou expressamente que o julgamento do AI nº 70080666159 e dos Eds nº 70081124190 não influencia o tópico em tela porquanto a discussão lá travada dizia respeito à (im)possibilidade de constrição dos valores, enquanto aqui discute-se a forma de pagamento do crédito, exatamente o que reconhecido na Superior Instância (REsp nº 1.862.589/RS)" (e-STJ fl. 305).
+Portanto, tratando-se de questões distintas, não há violação a coisa julgada.
+Ressalte-se que "os motivos e fundamentos da decisão judicial não se submetem à coisa julgada, de forma que a imutabilidade própria das decisões com trânsito em julgado somente se adere à parte dispositiva do julgado" (AgInt no AREsp n. 2.457.381/PI, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2024, DJe de 23/8/2024).
+No mais, a análise de questões discutidas em outro recurso demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Da submissão do crédito à recuperação judicial
+Segundo o Tribunal de origem, "o crédito exequendo tem natureza concursal, como já referido no julgamento do AI nº 70080666159, pois o fato jurídico que deu origem à cobrança ocorreu no ano de 2014, anteriormente ao deferimento da recuperação judicial (18/11/2015)" (e-STJ fl. 274).
+O acórdão recorrido encontra-se em consonância com o julgamento do recurso especial repetitivo, segundo o qual "para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador" (REsp n. 1.840.531/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 9/12/2020, DJe de 17/12/2020). Confira-se ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REGRESSIVA. RECUPERAÇÃO JUDICIAL. CRÉDITOS TRABALHISTAS. FATOS GERADORES ANTERIORES AO PEDIDO DE RECUPERAÇÃO JUDICIAL. DECISÃO EM SENTIDO CONTRÁRIO AO DA JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. "O crédito derivado de atos praticados em período anterior ao pedido de recuperação judicial, concursal, portanto, deve-se submeter à forma de satisfação preconizada perante o Juízo universal, a despeito de a decisão condenatória eventualmente ter sido proferida em momento posterior" (AgInt no CC 172.671/PR, Relator Ministro Raul Araújo, Segunda Seção, julgado em 30/3/2021, DJe de 19/4/2021).
+2. Hipótese em que, a despeito de a constituição do crédito ter ocorrido após o deferimento da recuperação judicial, os fatos geradores ocorreram em momento anterior, de forma que, no caso, há que se submeter o crédito trabalhista aos ditames do Plano de Recuperação Judicial.
+3. Agravo interno provido. Recurso especial provido, a fim de submeter o crédito, que possui natureza concursal, ao Plano de Recuperação Judicial.
+(AgInt no REsp n. 1.977.587/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+Da multa
+Por fim, os embargos foram opostos apenas com a finalidade de prequestionamento da matéria, razão pela qual deve ser afastada a multa do art. 1.026, § 2º, do CPC/2015. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182 DO STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. EXTINÇÃO. SUCUMBÊNCIA. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. MULTA DO § 2º DO ART. 1.026 DO CPC/2015 AFASTADA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+ ..
+2. Os embargos de declaração foram opostos com o intuito de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios; daí que, em conformidade com a Súmula 98/STJ, deve ser afastada a multa aplicada pelo Tribunal local.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para dar parcial provimento ao recurso especial, a fim de afastar a multa do art. 1.026, § 2º, do CPC/2015.
+(AgInt nos EDcl no AREsp n. 2.543.473/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se.
+O Tribunal de Justiça do Rio Grande do Sul rejeitou a alegação de ofensa à coisa julgada, afirmando que o julgamento do AI n. 70080666159 e dos Embargos de Declaração n. 70081124190 não afeta a questão em análise. Isso porque a discussão nesses casos envolvia a (im)possibilidade de constrição dos valores, enquanto nos presentes autos se debate a forma de pagamento do crédito.
+Assim, por se tratar de questões distintas , não ocorre violação da coisa julgada.
+No mais, rever a conclusão do acórdão, quanto à ausência de violação à coisa julgada, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+E ainda, segundo o Tribunal de origem, "o crédito exequendo tem natureza concursal, como já referido no julgamento do AI nº 70080666159, pois o fato jurídico que deu origem à cobrança ocorreu no ano de 2014, anteriormente ao deferimento da recuperação judicial (18/11/2015)" (e-STJ fl. 274).
+Por sua vez, a parte alega que "o crédito foi constituído em 18/07/2017, enquanto o pedido de recuperação da recorrida ocorreu em 16/11/2015. Portanto, não se aplica a tese repetitiva ao caso em questão" (e-STJ fl. 682).
+Eventual conclusão desta Corte Superior em sentido contrário ao das instâncias ordinárias - de que o fato jurídico que originou o crédito ocorreu em 2014 - exigiria incursão no campo fático-probatório, providência vedada na via especial, também nos termos da Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno e de embargos de declaração.
+É como voto.
