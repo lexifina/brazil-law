@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo DISTRITO FEDERAL contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (fls. 167-192), assim ementado:
+APELAÇÃO. TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. INTERRUPÇÃO DA PRESCRIÇÃO. PARCELAMENTO NÃO COMPROVADO. ÔNUS DA PROVA DA FAZENDA PÚBLICA. RECURSO CONHECIDO E DESPROVIDO.
+1. Trata-se de apelação interposta pelo Distrito Federal contra a sentença que extinguiu a execução fiscal pelo reconhecimento da prescrição. O apelo almeja a reforma parcial da sentença, para afastar a prescrição em relação a alguns créditos.
+2. Nos termos do art. 174, caput, do Código Tributário Nacional (CTN), "a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva".
+3. O pedido de parcelamento do débito tributário interrompe a prescrição, pois indica confissão da existência da dívida e atrai a aplicação do disposto no art. 174, parágrafo único, IV, do CTN. Se descumprido o parcelamento, o prazo é retomado por inteiro a contar da data do inadimplemento.
+4. Os espelhos retirados do sistema SITAF, sem estar acompanhados do alegado pedido de parcelamento do débito ou do processo administrativo correspondente, não são considerados como reconhecimento inequívoco da dívida pela parte executada. Para fins de interrupção do prazo prescricional, é ônus da Fazenda Pública comprovar o parcelamento tributário a pedido do devedor, pois não é possível transferir ao executado o ônus de provar fato negativo. Sentença mantida.
+5. Recurso conhecido e desprovido.
+A parte recorrente interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado os arts. 174, parágrafo único, IV, do CTN; 7º; 8º e 40 da Lei n. 6.830/80.
+O recurso especial foi pela aplicação da Súmula n. 7/STJ (fls. 216-217), tendo a parte interposto o presente agravo.
+É o relatório.
+Passo a decidir.
+O recurso não merece ser conhecido, uma vez que o tribunal local traçou balizas fáticas que inviabilizam a pretensão recursal de afastar a prescrição intercorrente.
+Sobre a inexistência de comprovação do parcelamento, apto a suspender o prazo prescricional, o TJDFT se manifestou da seguinte forma (fl. 175):
+Nesse aspecto, alega o Distrito Federal que, em 27/11/2009, houve o parcelamento do débito administrativamente, cancelado em 26/9/2018 por inadimplemento, período em que deve ser reconhecida a interrupção da prescrição.
+Com efeito, o parcelamento do débito tributário é causa interruptiva da prescrição. Contudo, na situação em análise, a própria existência do parcelamento foi impugnada pela parte executada, que sustentou a ausência de comprovação acerca da negociação da dívida tributária, consoante se depreenda do ID 54973635, p. 4.
+Assim, com a finalidade de comprovar a interrupção do prazo, cabia ao Distrito Federal comprovar o efetivo parcelamento do débito a pedido da parte devedora. Isso porque a transferência do ônus da prova às executadas não é possível, sob risco de impor-lhes a produção de prova de fato negativo, consistente na inexistência de pedido administrativo de parcelamento.
+Contudo, da análise dos autos, verifica-se que os únicos documentos acostados são referentes às telas do SITAF, que não são hábeis, isoladamente, a comprovar o fato.
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado, a respeito da ausência de causa suspensiva da prescrição intercorrente, passa por revisitar o acervo probatório, o que é vedado na via eleita ante a Súmula n. 7/STJ.
+A irresignação do recorrente, que pretende ver reconhecida a existência de parcelamento administrativo, vai de encontro às convicções do julgador a quo, que, com lastro o conjunto fático-probatório constante dos autos, entendeu que não havia prova nesse sentido. Nesse diapasão, para rever esta posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide nesta situação a Súmula n. 7/STJ.
+Vale ressaltar o entendimento no sentido de que "A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp 970.049/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 9/5/2017).
+Isso posto, com fundamento no art. 932, III, do CPC e art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial, pois inadmissível.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
