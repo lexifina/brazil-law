@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EVANDRO MATHEUS GOMES REIS MONTOVANELLI, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Revisão Criminal n. 2232356-93.2024.8.26.0000).
+Consta dos autos que o paciente foi condenado à pena de 3 anos, 4 meses e 25 dias de reclusão, em regime fechado, e pagamento de 15 dias-multa, pela prática dos delitos tipificados nos arts. 155, § 4º, I (por duas vezes), 155, caput, e 171, caput, na forma do art. 71, todos do Código Penal (Processo n. 0009429-15.2014.8.26.0482, da 1ª Vara Criminal da comarca de Presidente Prudente/SP).
+Após o trânsito em julgado da condenação, o pedido revisional foi indeferido pelo Sexto Grupo de Direito Criminal da Corte paulista. Eis a ementa do acórdão proferido em 5/11/2024 (fl. 15):
+Revisão criminal. Estelionato e furtos. Pedido defensivo para absolver o peticionário quanto ao crime de furto mediante aplicação do princípio da consunção. Impossibilidade. Outros objetos também furtados, para além dos cheques. Crimes autônomos, com desígnios distintos. Pedido revisional indeferido.
+Aqui, a impetrante alega, em síntese, que o delito de furto deve ser absorvido pelo crime de estelionato pois foi o meio utilizado para se chegar ao crime fim (fl. 9).
+Requer, em liminar, sejam suspensos os efeitos da condenação até o julgamento deste feito; no mérito, confirmando-se a liminar, seja concedida a ordem para estabelecer o regime de cumprimento aberto (fl. 12).
+Estes autos foram a mim distribuídos por prevenção (HC n. 838.889/SP).
+É o relatório.
+Este writ não tem cabimento, por consubstanciar substitutivo do recurso próprio, tratando-se de indevida subversão do sistema recursal.
+Além disso, não vislumbro, pela leitura do julgado proferido pelo Tribunal de Justiça de São Paulo, a ocorrência de patente ilegalidade a ponto de justificar a concessão da ordem de ofício.
+Conforme já dito no HC n. 933.330/SP, impetrado em favor do ora paciente e contra o acordão da apelação, a aplicação do princípio da consunção pressupõe, necessariamente, a análise da existência de um nexo de dependência entre as condutas ilícitas, para que se verifique a possibilidade de absorção da conduta menos grave pela mais danosa. Assim, é inviável sua aplicação automática, desconsiderando as circunstâncias fáticas do caso concreto.
+Na espécie, consta do acórdão que o réu adentrou no estabelecimento comercial e na casa da vítima à procura de quaisquer itens de valor, sem nenhuma consciência de que encontraria cheques no local e poderia repassá-los a terceiros de forma fraudulenta no futuro, além de ter subtraídos diversos outros itens descritos na inicial acusatória (fls. 16/17).
+Concluiu, assim, que o furto dos cheques não constitui um ante factum impunível do crime de estelionato (fl. 16), já que a dinâmica fática demonstra a existência de condutas autônomas, com dolos distintos, praticadas em contextos e com vítimas diferentes, não guardando, entre si, relação de crime-meio e crime-fim, como quer fazer crer a d. Defesa (fl. 17).
+Com efeito, para decidir de modo diverso e afastar a conclusão a que chegou a Corte a quo sobre os desígnios autônomos e, por conseguinte, considerar o furto ante factum impunível pelo princípio da consunção, seria necessária a incursão no acervo fático-probatório dos autos, providência inadmissível na via eleita. Nessa linha, por exemplo: AgRg no HC n. 836.383/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe 21/3/2024; e HC n. 478.982/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/9/2020.
+No que tange ao regime fixado, ao lado de não ter cabimento a reiteração de pedidos já analisados nesta Casa (HC n. 838.889/SP e HC n. 933.330/SP), o que decidido pela Corte local não destoou da nossa jurisprudência.
+Enfim, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Indefiro liminarmente a petição de habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTOS QUALIFICADOS E ESTELIONATO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL EM AÇÃO REVISIONAL. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. INVIABILIDADE. DESÍGNIOS AUTÔNOMOS. CIRCUNSTÂNCIAS FÁTICAS CONSIDERADAS NA ORIGEM. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO NA VIA ELEITA. REGIME FECHADO. CABIMENTO. REITERAÇÃO DE PEDIDOS. INADMISSIBILIDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ indeferido liminarmente.
