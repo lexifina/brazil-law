@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUÉIS E ENCARGOS DE LOCAÇÃO. TAXAS CONDOMINIAIS QUE JÁ FORAM OBJETO DE AÇÃO DE COBRANÇA AJUIZADA EM FACE DE TERCEIRO. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Não obstante o locatário tenha responsabilidade pelo pagamento da taxa de condomínio, nos termos do contrato celebrado pelas partes, no caso dos autos o juiz de primeiro grau acentuou que o débito condominial já foi objeto de ação de cobrança proposta em face de terceiro.
+3. A reforma do julgado demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno provido para conhecer do agravo para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por WAGNER CANHEDO AZEVEDO contra decisão da eminente Ministra Presidente do STJ, que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório (Súmula 7/STJ).
+O agravante sustenta que, no tópico II.1 do Agravo em Recurso Especial (e-STJ fls. 434/439), o agravante impugnou especificamente a inadmissão do Apelo Nobre pelo óbice da Súmula 7/STJ.
+Embora devidamente intimados, os agravados não apresentaram impugnação (e-STJ, fls. 471/474).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUÉIS E ENCARGOS DE LOCAÇÃO. TAXAS CONDOMINIAIS QUE JÁ FORAM OBJETO DE AÇÃO DE COBRANÇA AJUIZADA EM FACE DE TERCEIRO. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Não obstante o locatário tenha responsabilidade pelo pagamento da taxa de condomínio, nos termos do contrato celebrado pelas partes, no caso dos autos o juiz de primeiro grau acentuou que o débito condominial já foi objeto de ação de cobrança proposta em face de terceiro.
+3. A reforma do julgado demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno provido para conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+A insurgência merece prosperar, tendo em vista que todos os fundamentos da decisão de admissibilidade foram devidamente impugnados no agravo em recurso especial, inclusive quanto à incidência da Súmula 7/STJ. Reconsidera-se, portanto, a decisão de fls. 458/459 (e-STJ), passando-se a novo exame do feito.
+Trata-se de agravo interposto por WAGNER CANHEDO AZEVEDO desafiando decisão que inadmitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 385):
+"APELAÇÃO DESPEJO POR FALTA DE PAGAMENTO C. C. COBRANÇA. O contrato e o débito locatício estão incontroversos nos autos. Tratando-se de dívida em dinheiro, somente a prova de quitação regular elide a pretensão do autor. Responsabilidade solidária do fiador pelos encargos locatícios até a entrega das chaves.
+Ausência de provada exoneração da fiança.
+Responsabilidade do fiador que se estende até a entrega das chaves. Exoneração que deve atender às exigências previstas no art. 835 do Cód. Civil. Incidência, ademais, do art. 828, incs. I e II, do C. Civil. Situação dos autos que não revela se tratar de moratória concedida pelo credor ao locatário, tampouco se trata de hipótese para aplicação da teoria da supressio/surrectio. Sentença mantida. RECURSOS DESPROVIDOS."
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 401/404).
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 784, VIII, do CPC e 23, XII, da Lei 8.245/91. Sustenta que a sentença não apreciou o conjunto probatório colhido nos autos, pois o contrato de locação formalizado pelas partes prevê a responsabilidade do locatário (requeridos) pelo pagamento da taxa de condomínio. Assim, os encargos da locação (entre eles a taxa de condomínio do imóvel) podem e devem ser objeto de cobrança em ação de execução proposta pelo locador, independentemente do pagamento.
+No que se refere à cobrança das taxas condominiais dos réus relativamente ao imóvel locado, assim dispôs o eg. Tribunal de origem (e-STJ, fl. 392):
+"Por fim, não há qualquer reproche a ser feito quanto ao capítulo do julgado que determinou ao credor a comprovação dos pagamentos das despesas condominiais.
+Malgrado haja previsão em contrato quanto à obrigação do locatário pelo seu pagamento, é certo que, ao contrário do que acontece com os alugueres que são a contraprestação pela coisa locada -, as despesas condominiais têm natureza propter rem, e são de responsabilidade do proprietário, no caso, o locador. Assim, trata-se de reembolso das despesas, as quais, logicamente, necessitam da prova de sua quitação, sob pena de enriquecimento indevido do locador (Cód. Civil, art. 884)."
+Com efeito, consta da sentença de primeiro grau que o pagamento das taxas condominiais "é objeto de cobrança na 3ª Vara Cível local (Processo nº 1030841-52.2018.8.26.0576), porém, em consulta realizada por este Juízo no Sistema SAJ, constatou-se que figura no polo passivo daquela ação, na condição de devedora, a empresa Transportadora Fadel Ltda. Desse modo, nada obstante a dívida relativa às taxas condominiais tenha origem na locação havida entre as partes, o autor somente poderá exigi-las dos réus, se comprovar o seu pagamento em liquidação de sentença" (e-STJ, fl. 262).
+Nesse contexto, não obstante a responsabilidade do locatário pelo pagamento da taxa de condomínio, a qual resulta da norma prevista no art. 23, XII, da Lei nº 8.245/91, além de expressa previsão de tal responsabilidade no contrato de locação celebrado pelas partes, consta dos autos que o débito condominial já foi objeto de cobrança proposta em face de outra devedora (Transportadora Fadel Ltda).
+Assim, em razão de tal particularidade, não se sabendo se tal débito foi pago por outrem, poderia haver enriquecimento ilícito do locador. Realmente a situação demanda esclarecimento em liquidação de sentença, tal como decidiu o juiz de primeiro grau.
+É inequívoco que a reforma do julgado demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Ante o exposto, dá-se provimento a o agravo interno para reconsiderar a decisão de fls. 458/459 (e-STJ), a fim de conhecer do agravo para negar provimento ao recurso especial.
+É como voto.
