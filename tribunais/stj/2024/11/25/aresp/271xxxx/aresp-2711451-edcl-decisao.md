@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por LUCAS PALHANO DE ALBUQUERQUE à decisão de fls. 867/868, que não conheceu do recurso.
+Sustenta a parte embargante:
+De fato, no momento da interposição do Recurso Especial (id 57367312), os Sistemas Informatizados Judiciais do STJ se encontravam indisponíveis (23/03/2024 00:01 a 31/03/2024 23:59), conforme relatório de indisponibilidade (id 57367312 - Pág. 15).
+Diante disso, o Embargante solicitou o prazo de 5 (cinco) dias para efetuar o preparo.
+Após, em 22/04/2024, sobreveio r. despacho (id. 58015950) intimado o Embargante para efetuar o preparo recursal no prazo de 05 (cinco) dias. O Embargante registrou ciência do r. despacho acima em 02/05/2024, tendo como data final para a juntada do comprovante do preparo recursal até o dia 09/05/2024 Contudo, observa-se que, os sistemas informatizados judiciais do STJ também ficaram indisponíveis durante todo o prazo concedido para o recolhimento do preparo (26/04/2024 11:48 à 09/05/2024 15:00), conforme se extrai do site do STJ (https://www.stj.jus.br/out/in/indisponibilidade/lista/ aplicacao=indisponibilidade) e ilustrado abaixo:
+ ..
+Ou seja, dede a ciência do referido despacho (02/05/2024) até o prazo fatal para manifestação do Recorrente/Embargante (09/05/2024) os Sistemas Informatizados Judiciais do STJ também ficaram indisponíveis, o que resultou no justo impedimento da ausência de recolhimento do preparo.
+Assim, verifica-se que, a r. decisão foi omissa quanto à alegação de que os sistemas informatizados judiciais do STJ também ficaram indisponíveis durante todo o prazo concedido para o recolhimento do preparo (26/04/2024 11:48 à 09/05/2024 15:00) (fls. 872/873).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de Recurso Especial foi protocolada, na origem, sem a comprovação do recolhimento das custas judiciais. No caso, não foram juntados o comprovante de pagamento e a guia de custas devidas ao STJ.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22.6.2020; e AgRg no AREsp 570.469/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020.
+Percebido, no Tribunal a quo, haver irregularidade no recolhimento do preparo, a parte foi intimada para sanear o vício (fl. 814), e mesmo assim, não regularizou, porquanto deixou o prazo transcorrer in albis, conforme decisão de fls. 821/823.
+Observe que a parte foi intimada em 3.4.2024 e mesmo excluindo o período de 26.4.2024 a 9.5.2024 referente a indisponibilidade de sistema, que impediu o preenchimento da guia para que fosse efetuado o pagamento, ainda assim, a parte só se manifestou em 31.5.2024, ou seja, quando já havia esgotado o prazo.
+Ressalta-se que trazer em momento posterior o devido comprovante de pagamento e a guia de recolhimento devidas ao STJ com o fim de regularizar o preparo, não pode ser aceito, em virtude da preclusão" (AgInt no AREsp 1.399.586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1.454.030/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 26/11/2019).
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do Recurso Especial, ou mesmo dentro do prazo concedido para regularização do vício. A questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória.
+Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+No caso, como a parte não comprovou o recolhimento, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
