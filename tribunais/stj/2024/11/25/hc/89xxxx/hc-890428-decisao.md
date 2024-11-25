@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RONAIR ALVES DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO MATO GROSSO DO SUL.
+O paciente foi condenado a 9 meses de detenção, mais o pagamento de R$ 1000,00 reais a título de indenização, no regime semiaberto, pela prática delitiva tipificada no art. 150, § 1º, do Código Penal.
+O impetrante alega, em suma, a existência de constrangimento ilegal, consistente na inidoneidade da fundamentação utilizada para agravar o regime prisional, requerendo, ao final, a alteração para o modo aberto.
+As informações foram prestadas e o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+"Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade" (HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Inviável, portanto, o conhecimento do writ em análise, porquanto manejado como substitutivo de recurso. Também não cabe conceder a ordem de ofício diante da inexistência de ilegalidade do ato impugnado, extraindo-se do aresto impugnado (e-STJ, fl. 185):
+ ..  No caso em tela, embora a pena imposta ao Apelante seja inferior a 4 anos de reclusão, a pena-base foi fixada acima do mínimo legal, ante o reconhecimento da vetorial dos antecedentes, fato que indica a necessidade de imposição do regime semiaberto para o cumprimento inicial da pena, nos moldes do art. 33, do Código Penal.
+Ademais, é assente no Superior Tribunal de Justiça que, na hipótese em que a pena definitiva seja inferior a 4 anos, havendo circunstância judicial desfavorável, é cabível a fixação de regime inicial mais gravoso. ..
+Considero que os elementos apresentados pelas instâncias ordinárias são idôneos e encontram-se de acordo com a jurisprudência desta Corte, de forma que inexistente o constrangimento ilegal.
+"A imposição do regime semiaberto foi devidamente fundamentada na existência de antecedentes criminais, o que justifica a adoção de regime mais gravoso, mesmo para penas inferiores a 4 anos, conforme entendimento consolidado no STJ" (AgRg no HC n. 778.807/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024).
+Ressalto que é uníssona a jurisprudência do Superior Tribunal de Justiça no sentido de que " a  individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade" (AgRg no REsp n. 2.118.260/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+A revisão da dosimetria somente é possível em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (AgRg no REsp n. 2.042.325/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Dessa forma, diante da inexistência de flagrante ilegalidade, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
