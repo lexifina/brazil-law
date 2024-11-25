@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL  CIVIL.  DEFENSOR  DATIVO.  HONORÁRIOS  PREVISTOS  NA  LEI  .  NATUREZA  CONTRATUAL.  HONORÁRIOS  SUCUMBENCIAIS.  CUMULAÇÃO.
+1.  A  orientação  jurisprudencial  desta  Corte  Superior  é  no  sentido  de  que  os  honorários  pagos  ao  defensor  dativo  assemelham-se  aos  contratuais,  não  se  confundindo  com  aqueles  devidos  em  razão  da  sucumbência  em  demandas  judiciais.
+2.  É  devido  o  direito  à  cumulação  de  verba  honorária  fixada  pela  atuação  do  causídico  como  defensor  dativo,  em  substituição  à  defensoria,  com  aquela  verba  a  ser  fixada  em  razão  do  êxito  na  demanda  judicial  (sucumbencial)  .
+3.  Agravo  interno  desprovido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pelo  ESTADO  DE  GOIÁS  contra  decisão  de  minha  lavra  em  que  conheci  do  recurso  especial  do  defensor  dativo  e  dei-lhe  provimento  para  reformar  o  acórdão  e  reconhecer  aos  honorários  legais  destinados  a  este  defensor  a  natureza  de  contratuais,  bem  como  a  possibilidade  de  cumulação  destes  com  os  de  sucumbência  fixados  na  sentença:
+  O  ESTADO  agrava  informando  que  a  forma  de  remuneração  do  curador  nomeado  pelo  juízo  naquele  estado  é  regulada  por  legislação  local  e  no  estatuto  da  advocacia  e  que  a  sua  atuação,  em  razão  da  sua  natureza  de  munus  público,  não  pode  ser  equiparada  à  do  advogado  do  vencedor.
+Aduz  ainda  que  os  precedentes  arrolados  na  decisão  monocrática  são  inaplicáveis  ao  caso  concreto,  por  tratarem  de  questão  diversa.
+Pleiteia  a  submissão  do  recurso  ao  colegiado.
+Sem  contrarrazões.
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  DEFENSOR  DATIVO.  HONORÁRIOS  PREVISTOS  NA  LEI  .  NATUREZA  CONTRATUAL.  HONORÁRIOS  SUCUMBENCIAIS.  CUMULAÇÃO.
+1.  A  orientação  jurisprudencial  desta  Corte  Superior  é  no  sentido  de  que  os  honorários  pagos  ao  defensor  dativo  assemelham-se  aos  contratuais,  não  se  confundindo  com  aqueles  devidos  em  razão  da  sucumbência  em  demandas  judiciais.
+2.  É  devido  o  direito  à  cumulação  de  verba  honorária  fixada  pela  atuação  do  causídico  como  defensor  dativo,  em  substituição  à  defensoria,  com  aquela  verba  a  ser  fixada  em  razão  do  êxito  na  demanda  judicial  (sucumbencial)  .
+3.  Agravo  interno  desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Como assinalado na decisão agravada, o apelo nobre se origina de agravo de instrumento interposto contra decisão que acolheu exceção ritual sem extinguir a execução, mas deixou de fixar honorários de sucumbência.
+O Tribunal goiano deu provimento ao agravo de instrumento para fixar honorários de sucumbência em desfavor do exequente, mas consignou que a legislação estadual teria indicado valor de honorários em remuneração dos defensores dativos, reconhecendo o direito do curador especial nomeado à verba honorária consistente em UHD"s, cujo arbitramento deverá ocorrer nos termos do art. 85, 4º, inciso II, do Código de Processo Civil.
+Opostos os segundos embargos de declaração, foram eles rejeitados, reiterando-se que a legislação estadual teria fixado os honorários de defensores dativos como única forma de remuneração, não cumulativa, daqueles advogados nomeados pelo Juízo, sendo inaplicável a cumulação com os honorários do art. 85 do CPC/2015.
+O particular alega violação do art. 85 do CPC/2015, aduzindo que o acórdão recorrido teria deixado de fixar honorários advocatícios na forma da Lei processual, sustentando, ainda, que o critério para o arbitramento da verba honorária é regra processual de competência exclusiva da UNIÃO, não podendo a legislação estadual tratar do tema sob pena de usurpação de competência privativa constitucional.
+Como consignado na decisão ora atacada, a controvérsia versa acerca da natureza dos honorários fixados pela Lei ao defensor dativo (curador especial nomeado pelo juiz) e a possibilidade de sua cumulação com os honorários de sucumbência fixados na sentença para o caso de vitória.
+Quanto ao tema central, relativo à natureza dos honorários tabelados, a orientação jurisprudencial desta Corte Superior é no sentido de que os honorários pagos ao defensor dativo assemelham-se aos contratuais, não se confundindo com aqueles devidos em razão da sucumbência em demandas judicias.
+Exemplifico:
+TRIBUTÁRIO. RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO CPC/1973. ENUNCIADO ADMINISTRATIVO Nº 2/STJ. HONORÁRIOS PAGOS AO ADVOGADO POR ATUAÇÃO COMO DEFENSOR DATIVO. INAPLICABILIDADE DO ART. 46, § 1º, DA LEI Nº 8.541/1992. RETENÇÃO DO IMPOSTO DE RENDA NA FONTE. LEGALIDADE. CLÁUSULA GERAL DE RETENÇÃO. ART. 7º, § 1º, DA LEI Nº 7.713/1988. SOMA DOS VALORES DEVIDOS NO MÊS DE COMPETÊNCIA PARA FINS DE APLICAÇÃO DA ALÍQUOTA RESPECTIVA. POSSIBILIDADE.
+1. Os honorários do defensor dativo, por se assemelharem aos honorários contratuais, não se enquadram no art. 46, § 1º, II, da Lei nº 8.541/1992, o qual se refere aos honorários de sucumbência, pois estes é que são efetivamente "rendimentos pagos em cumprimento de decisão judicial".
+2. Ainda que o art. 46, § 1º, II, da Lei nº 8.541/1992 não se aplique ao caso dos autos, subsiste a obrigação de retenção do Imposto de Renda na fonte quando do pagamento pelo Estado dos honorários devidos ao defensor dativo, haja vista a aplicação da cláusula geral de retenção de Imposto de Renda na fonte pagadora prevista no art. 717 do Regulamento do Imposto de Renda, Decreto nº 3.000/1999.
+3. Excepcionadas as hipóteses em que a lei determina a tributação em separado, ou seja, dispensadas da soma das verbas pagas no mês pela mesma fonte (dentre as quais aquelas previstas nas alíneas do § 1º do art. 46 da Lei nº 8.541/1992 e no art. 12-A da Lei nº 7.713/1988, com redação incluída pela MP nº 497/2010, convertida na Lei nº 12.350/2010, posteriormente alterado pela Lei nº 13.149/2015), os demais pagamentos ou créditos a serem efetuados pela mesma fonte pagadora no mês devem ser somados para fins de aplicação da alíquota de Imposto de Renda da tabela vigente a data do pagamento, consoante a previsão do art. 7º, § 1º, da Lei nº 7.713/1988. Por óbvio que não haverá tributação pelo Imposto de Renda se a base de cálculo resultante da soma dos valores pagos pela mesma fonte pagadora no mês da competência não alcançar o valor tributável previsto na tabela vigente à data do fato gerador.
+4. O que não se admite é a aplicação de alíquota única de Imposto de Renda sobre o total dos rendimentos recebidos acumuladamente, pois nesses casos devem ser observadas as tabelas e as alíquotas vigentes à época em que os valores deveriam ter sido pagos, na sistemática do regime de competência (REsp 1.118.429/SP, julgado pelo rito do art. 543-C do CPC, de relatoria do Ministro Herman Benjamin, DJe 14/05/2010), respeitada a legislação aplicável à data do fato gerador, nos termos dos arts. 43, 105 e 144 do CTN.
+5. Recurso especial conhecido e provido.
+(REsp n. 1.589.324/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/5/2016, DJe de 31/5/2016.)  Grifos acrescidos .
+Por esclarecedor, veja-se o seguinte trecho extraído do voto supra:
+Cumpre ressaltar que o Estatuto da Ordem dos Advogados do Brasil (Lei nº 8.906/1984) determina em seu art. 22, § 1º, que os honorários de advogado dativo serão arbitrados com base na tabela do Conselho Seccional respectivo, o que corrobora com a assertiva de que tais honorários se assemelham aos honorários contratuais. Além disso, o arbitramento dos honorários do defensor dativo não exclui o arbitramento dos honorários de sucumbência, tal como expressamente previsto no art. 39 da Resolução nº 305, de 7 de outubro de 2014, do Conselho da Justiça Federal, havendo disposição semelhante nas legislações estaduais, como é o caso do Estado de Minas Gerais, ora recorrente (Lei Estadual nº 13.166/1999).
+Assim, os honorários do defensor dativo, por se assemelharem aos honorários contratuais, não se enquadram no art. 46, § 1º, II, da Lei nº 8.541/1992, o qual se refere aos honorários de sucumbência, pois estes é que são efetivamente "rendimentos pagos em cumprimento de decisão judicial".
+No mesmo sentido:
+TRIBUTÁRIO. IMPOSTO DE RENDA. RETENÇÃO SOBRE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Os honorários contratuais, por sua natureza, não se enquadram na previsão legal do art. 46, § 1º, II, da Lei n. 8.541/1992, norma referente aos honorários de sucumbência, os quais são os rendimentos efetivamente pagos em cumprimento de decisão judicial (AgInt no REsp 1.862.786/PR, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 27/11/2020).
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.565.171/PR, de minha relatoria, Primeira Turma, julgado em 23/8/2021, DJe de 31/8/2021.)
+Anoto que a previsão na norma para uma remuneração tabelada na figura de honorários legais devidos ao defensor dativo representa uma dupla garantia: (i) ao advogado, de ser remunerado de forma digna não importando o resultado da lide, motivando-o a trabalhar plenamente; e, (ii) ao representado, que terá acesso a uma defesa justa por um advogado motivado, independente do prognostico de vitória.
+Isso considerado, é perfeitamente compatível a cumulação desses honorários com aqueles fixados na sentença pela sucumbência em favor do vencedor da ação, devidos ainda que o vencedor seja representado por curador especial nomeado pelo juízo ou defensor dativo em substituição da defensoria, possuindo esses honorários origem, natureza e fundamentos diversos.
+Com efeito, mostra-se devido o direito à cumulação de verba honorária fixada pela atuação do causídico como defensor dativo, em substituição à defensoria, com aquela verba a ser fixada em razão do êxito na demanda judicial.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADVOGADO DATIVO EM SUBSTITUIÇÃO À DEFENSORIA. HONORÁRIOS SUCUMBENCIAIS. FAZENDA RESPONSÁVEL PELOS HONORÁRIOS CONTRATUAIS. CUMULAÇÃO. POSSIBILIDADE.
+1. A matéria alusiva aos honorários sucumbenciais foi o único objeto do acórdão recorrido, favorável ao ora agravante, sendo descabida a alegação de ausência de prequestionamento.
+2. Os regimes remuneratórios da defensoria e da advocacia dativa não se confundem. As verbas sucumbenciais devidas àquela têm destinação institucional (art. 4º, XXI, da Lei Complementar 80/94), podendo-se falar, analogicamente, em confusão patrimonial entre devedor e credor, o que não ocorre no caso do advogado particular, mesmo que dativo.
+3. É cabível a condenação do Estado por sucumbência em favor de advogado dativo atuante em substituição a defensoria, cumulado com os honorários contratuais devido ao causídico.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.730.791/SE, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/10/2021, DJe de 22/10/2021.)
+Em atenção à alegação formulada no agravo interno, anoto que os precedentes arrolados são inteiramente aplicáveis para a solução da controvérsia ora trazida a julgamento, uma vez que ajudam a esclarecer qual a natureza real dos diferentes honorários advocatícios sob exame (decorrentes da atuação como defensor dativo e da sucumbência ), bem como resolvem a possibilidade de cumulação entre eles .
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo interno não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
