@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SOCIEDADE BENEF ISRALEITABRAS HOSPITAL ALBERT EINSTEIN de decisão que inadmitiu recurso especial interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. SOCIEDADE BENEF. ISRAELITA-BRAS. HOSPITAL ALBERT EINSTEIN. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PEDIDO DE DESISTÊNCIA. EXTINTO SEM MÉRITO. ALEGA OUTRA AÇÃO PENDENTE. INCOMPROVADA LITISPENDÊNCIA. CONVERSÃO DOS DEPÓSITOS EM RENDA DA UNIÃO. MANTIDA. QUESTÃO EXAUSTIVAMENTE ANALISADA POR ESTA TURMA. RECURSO DESPROVIDO.
+1. Insurge-se a agravante contra decisão que revogou anterior proferida, qual autorizava transferência dos depósitos judiciais para conta vinculada à Ação nº 0000924-35.2017.4.01.3400, em trâmite perante a Justiça Federal da 1ª Região, face à homologação do pedido de desistência do mandado de segurança (ID origem 249720465).
+2. Houve a prolação de sentença concedendo a segurança, porém reformada nesta Corte recursal. Na pendência de análise de recursos perante os Tribunais Superiores, requereu a desistência do feito, o que foi homologado pelo C. Superior Tribunal de Justiça - STJ.
+3. Distribuiu, neste ínterim, Ação de Procedimento Comum na qual busca que se respeite a sua imunidade tributária para toda e qualquer importação que realizar, e não especificamente ao caso abordado no Mandado de Segurança de uma operação de importação de certos produtos, o que se vê claramente dos pedidos daquela exordial. Isto é, o objeto da lide que corre em Brasília é muito mais amplo e, no mais, não há comprovação de litispendência entre as demandas.
+4. No caso em apreço, a extinção do feito, sem a resolução de mérito, em face da homologação do pedido de desistência - notadamente após acórdão desfavorável à pretensão meritória - impõe a conversão dos valores depositados em renda da Fazenda Pública.
+5. Em primeiro lugar porque, ao analisar a preliminar de litispendência, o digno Juízo da 6ª Vara Federal do Distrito Federal delimitou os termos daquela decisão, explicitando referir-se a atuações futuras da Receita Federal.
+6. Ademais, permanece pendente naquele feito a análise da apelação pelo Tribunal Regional Federal da 1ª Região. Até este momento processual, não há informação de trânsito em julgado de eventual título judicial favorável à agravante.
+7. Idênticos casos da agravante foram recentemente julgados por esta Turma, confira-se: AI nº 5025124-40.2021.4.03.0000/SP, Rel(a). Juíza Fed. Conv. NOEMI MARTINS, 6ª Turma, j. 27/02/2024, Intimação via sistema DATA: 01/03/2024 e AI nº 5006350-88.2023.4.03.0000/SP, Rel. Des. Fed. JOHONSOM DI SALVO, 6ª Turma, j. 16/09/2023, Intimação via sistema DATA: 20/09/2023.
+8. Desta feita, bem sabe a agravante inexistir a omissão aventada em Embargos Declaratórios, pois sua argumentação já foi exaustivamente analisada e rejeitada por este Colegiado, do que se adverte que não prossiga em litigância de má-fé.
+9. Agravo de Instrumento a que se nega provimento. Embargos Declaratórios prejudicados. (fls. 197/198)
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 485, VIII, 487, I, 489, § 1º, 502, 525, § 1º, VIII, IV e VI, 926, 927, III, 1.022, II, e parágrafo único, II, do CPC; 1º, 6º, § 6º, e 19, da Lei 12.016/2009; e 1º, § 3º, da Lei 9.703/1998.
+Contrarrazões às fls. 320/324.
+O Recurso Especial foi inadmitido pelo Tribunal de origem (fls. 326/328), daí a interposição do presente agravo (fls. 332/343).
+Sem impugnação.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que não merece conhecimento.
+De acordo com a jurisprudência do STJ, para a configuração do prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 7/12/2023).
+No caso, os dispositivos legais apontados não foram objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão perante o órgão colegiado de origem. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
