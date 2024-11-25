@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento do Agravo de Execução Penal n. 000713-27.2024.8.26.0521, que manteve a decisão do Juízo da DEECRIM da 10ª RAJ da comarca de Sorocaba/SP que homologou a conclusão de sindicância instaurada em desfavor de Jonathan da Cruz ante o cometimento de falta grave e, em consequência, determinou a alteração da data-base e a perda de 1/12 dos dias remidos.
+Nas razões do recurso especial, o agravante suscitou violação dos arts. 158, caput, e 386, VIII, ambos do Código de Processo Penal (fls. 135/150).
+A Corte de origem, no entanto, inadmitiu o recurso com fundamento na Súmula 7/STJ (fls. 161/162).
+Contra o decisum o agravante interpôs o presente agravo (fls. 165/176).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo pelo conhecimento do agravo; e, no mérito, pelo desprovimento do recurso (fls. 196/202).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+De outra parte, no que se refere ao recurso especial em si, verifico que a insurgência é inadmissível.
+Ora, a tese deduzida no recurso especial é no sentido de que houve ofensa ao contraditório e à ampla defesa, pois as testemunhas de acusação teriam sido ouvidas na ausência da defesa técnica, por não ter havido perícia grafotécnica nas anotações apreendidas, além de não terem sido juntadas as imagens das câmeras de monitoramento da unidade prisional. No mérito, requer a absolvição, por insuficiência probatória. De forma subsidiária, pleiteia a desclassificação da falta grave para outra de natureza leve (fl. 137).
+Sucede que, ao rechaçar tal alegação, a Corte de origem consignou que as questões preliminares de nulidade do procedimento, por desrespeito ao contraditório e à ampla defesa, não comportam acolhimento (fls. 126/129 - grifo nosso):
+ ..
+De início, não procede a afirmação de que a oitiva das testemunhas se deu na ausência de defesa técnica, uma vez que consta de todos os termos de declarações a presença, durante o ato, do Doutor Roskild Andrade Neto (OAB/SP nº 137.539), Advogado da FUNAP (cf. fls. 56 e 57). O reeducando foi citado em 18/09/2023 e declarou possuir advogado constituído, sendo-lhe informado que, caso o defensor não comparecesse, seria nomeado um dativo para o patrocínio de seus interesses (cf. fl. 53), que foi o que de fato ocorreu. O Advogado constituído se manifestou pela primeira vez, em defesa escrita, somente 02 (dois) meses depois, em 22/11/2023 (cf. fls. 59/71).
+Igualmente, a elaboração de perícia grafotécnica nas anotações apreendidas e a juntada de imagens das câmeras de monitoramento eram diligências prescindíveis, pois a materialidade da infração foi comprovada pela apreensão da droga, bem como a autoria demonstrada pela prova testemunhal. Ressalte-se que a falta consistiu em portar o entorpecente, sendo irrelevante, para a sua configuração, a comprovação de que o interno pretendia repassá-lo a outros reeducandos.
+ ..
+Rejeitam-se, portanto, as prejudiciais arguidas.
+No mérito, o recurso igualmente não procede.
+A decisão que atribuiu ao agravante a responsabilidade pelo cometimento da falta disciplinar de natureza grave foi bem fundamentada, pois considerou, para tanto, os depoimentos dos agentes de segurança penitenciária Ricardo Medeiros da Silva e Thiago Guilherme Gomes de Queiroz, nos quais confirmaram que, na data dos fatos, enquanto realizavam a revista dos pertences do agravante, localizaram um pote pequeno com 05 (cinco) invólucros contendo maconha, que o reeducando admitiu serem de sua propriedade (cf. fls. 56 e 57).
+A autoria e a materialidade da infração estão, portanto, suficientemente demonstradas no procedimento administrativo instaurado, de sorte que a responsabilização do agravante era mesmo de rigor.
+A defesa também não trouxe ao procedimento administrativo qualquer prova capaz de confirmar que o agravante teria sido vítima dos agentes públicos responsáveis pela segurança no interior do estabelecimento prisional, cujos depoimentos, a propósito, gozam de presunção de veracidade.
+Ficou comprovado, assim, de maneira segura, que o agravante, ao portar invólucros contendo maconha, praticou falta grave, merecendo, por isso mesmo, ser punido, conforme prevê expressamente o artigo 52, caput, da Lei de Execução Penal, tanto que já iniciado o procedimento investigativo na esfera criminal (cf. fl. 42), não se sustentando as teses defensivas de absolvição ou mesmo de desclassificação da falta disciplinar.
+Insta registrar, por oportuno, que segundo o princípio do livre convencimento motivado do Juiz, este possui ampla liberdade para analisar as provas trazidas aos autos para formação de seu convencimento, exigindo-se apenas que suas decisões sejam fundamentadas, exatamente como na hipótese em apreço.
+Nessa esteira, entendo adequada, também, a perda da fração de 1/3 (um terço) dos dias eventualmente remidos anteriores à falta disciplinar praticada, posto que a infração cometida pelo sentenciado é relevante, conduta grave que rebaixa o nível de disciplina e segurança no sistema prisional, causando instabilidade no ambiente carcerário; sem contar o fato de que tal medida se mostra, in casu, necessária e suficiente para a repressão e prevenção de novas infrações disciplinares.
+Em suma, as pretensões do agravante eram mesmo inviáveis, como visto acima, daí por que a decisão objurgada deve ser integralmente preservada.
+Ante o exposto, rejeitadas as preliminares de nulidade, nega- se provimento ao agravo.
+ ..
+Convicção essa que, enquanto calcada no exame de matéria de prova, não comporta reexame em sede especial.
+Nesse sentido, confiram-se:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. FALTA GRAVE. AFASTAMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que concerne à aduzida usurpação de competência dos órgãos colegiados, como é cediço, é possível o julgamento monocrático quando manifestamente inadmissível, prejudicado, com fundamento em súmula ou, ainda, na jurisprudência dominante desta Corte Superior, como no caso vertente, exegese do art. 932, inciso III, do CPC c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ e da Súmula n. 568/STJ. Ademais, a possibilidade de interposição de agravo regimental, com a reapreciação do recurso pelo órgão colegiado, torna superada eventual nulidade da decisão monocrática por suposta ofensa ao princípio da colegialidade.
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova que comprovam que o ora agravado praticou falta disciplinar de natureza grave consistente na participação de movimento de subversão à ordem à disciplina da unidade prisional (art. 50, I, da Lei de Execução Penal). Assim, rever os fundamentos utilizados pela Corte Estadual, para desconstituir a decisão ora impugnada, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.338.808/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2023 - grifo nosso).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. FALTA GRAVE. PRESCRIÇÃO. NÃO OCORRÊNCIA. ABSOLVIÇÃO. PROVA. SÚMULA N. 7/STJ. DATA-BASE PARA NOVOS BENEFÍCIOS. FUGA. DIA DA RECAPTURA. CONSECTÁRIOS LEGAIS. REGRESSÃO DE REGIME.
+ ..
+2. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam que o recorrente praticou falta grave. Dessa forma, a alteração do entendimento para proclamar a absolvição - seja por insuficiência probatória, seja por supostamente ter agido em legítima defesa - ou a desclassificação, implica em reexame do material fático-probatório, inviável em recurso especial, conforme a Súmula n. 7/STJ.
+3. A jurisprudência desta Corte já se firmou no sentido de que o termo a quo para aferição dos benefícios, no caso de fuga, é a data em que foi recapturado o apenado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 2.016.844/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2023, DJe 26/10/2023 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESCUMPRIMENTO DE ORDEM DE AGENTE PENITENCIÁRIO. FALTA DISCIPLINAR DE NATUREZA GRAVE. PRECEDENTES. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO DESPROVIDO.
+1. Esta Corte possui entendimento segundo o qual o descumprimento de ordem emitida por agente penitenciário é apto, em princípio, a ensejar o reconhecimento de falta grave cometida pelo reeducando, nos termos dos arts. 50, VI e 39, II e V, ambos da Lei de Execução Penal. Precedentes.
+2. Revisar os elementos de prova para concluir pela atipicidade ou pela desclassificação da falta grave exigiria o revolvimento do contexto fático-probatório, procedimento incompatível com a estreita via do habeas corpus, na qual não se admite dilação probatória.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 895.251/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe 3/5/2024 - grifo nosso).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. ALEGADA NULIDADE. PLEITO ABSOLUTÓRIO (INSUFICIÊNCIA PROBATÓRIA). PEDIDO SUBSIDIÁRIO DE DESCLASSIFICAÇÃO DE FALTA GRAVE PARA LEVE. INADMISSIBILIDADE. PRETENSÃO QUE DEMANDARIA O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
