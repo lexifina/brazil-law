@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de KELVIN YURI LASSALI PASSOS, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução penal interposto pela defesa, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO ALEGAÇÃO DE QUE O AGRAVANTE PREENCHE OS REQUISITOS NECESSÁRIOS PARA QUE SEJA BENEFICIADO COM INDULTO PREVISTO NO DP 11.846/2023, EM RELAÇÃO AO CRIME DE RECEPTAÇÃO. CASO EM QUE ELE FOI CONDENADO AO MONTANTE DE 16 ANOS E 08 MESES DE RECLUSÃO, NÃO TENDO DESCONTADO A FRAÇÃO NECESSÁRIA DAS PENAS IMPOSTAS.
+Recurso desprovido." (e-STJ, fls. 9-13).
+Neste writ, a impetrante alega constrangimento ilegal sofrido pelo paciente em decorrência do indeferimento do indulto previsto no art. 2º, XV, do Decreto n. 11.846/2023 em relação ao crime de receptação objeto da condenação nos autos do Processo n. 1501090-62.2022.8.26.0530.
+Sustenta que o pedido de aplicação do indulto foi indeferido pelo Juízo da execução penal pelo fundamento de que o paciente não reparou o dano e também com base nos arts. 5º e 9º do Decreto, uma vez que a soma das penas impostas nas guias de recolhimento excediam o limite do art. 2º, I e II, do mesmo diploma.
+Argumenta que deve ser reconhecido o direito ao indulto especificamente para a pena pelo crime de receptação, pois já cumpriu período superior ao limite previsto. Afirma que não houve valor mínimo de reparação do dano previsto na sentença, não podendo ser um óbice para o deferimento do indulto.
+A liminar foi indeferida (e-STJ, fls. 58-59).
+Prestadas as informações (e-STJ, fls. 65-86 e 88-98).
+Os autos foram encaminhados ao Ministério Público Federal, que opinou pela denegação da ordem (e-STJ, fls. 101-103).
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo ao exame da impetração, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem de ofício.
+Quanto à pretensão de aplicação do indulto, o acórdão do Tribunal de origem se manifestou nos seguintes termos:
+"(..) Da minuta recursal denota-se que a Defensoria pretende ver indultada a pena de um ano, quatro meses e dez dias de reclusão imposta ao condenado pela prática de receptação, embasando seu pedido no artigo 2º, XV, do Decreto Presidencial nº 11.846/2023, mencionando impossibilidade de reparação do dano.
+Ainda que superada a questão relativa a impossibilidade de reparação do dano como alegado, necessário observar que o mesmo diploma legal, em seu artigo 9º, estabelece, in verbis:
+"Art. 9º As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2023", situação não experimentada pelo agravante, já que condenado ao cumprimento da pena total de dezesseis anos e oito meses de reclusão, pela prática de roubo qualificado, duas vezes por adulteração de sinal identificador de veículo automotor, e duas vezes por receptação, sendo certo que, iniciado o desconto dessas penas em 01/05/2022, não descontou a fração necessária para que seja agraciado com o indulto de quaisquer das condenações, sendo consignado o cumprimento, até a data da elaboração do referido cálculo, o montante de um ano, um mês e doze dias.
+Assim, não há como ser acolhido o reclamo defensivo." (e-STJ, fls. 9-13).
+Como se extrai da Guia de Execução (e-STJ, fls. 19-22), o paciente foi condenado em duas ações penais, Processos n. 0026467-65.2014.8.26.0506 e 0007283-75.2022.8.26.0496. A primeira condenação transitou em julgado para a acusação em 10.6.2020, enquanto a segunda teve sentença proferida em 15.8.2022, com unificação das penas em 2.9.2022.
+O trânsito em julgado das condenações ocorreu, portanto, antes de 25.12.2023, data-limite de aplicação do Decreto n. 11.846/2023.
+De fato, como ressaltado no acórdão de origem, independentemente da reparação do dano, o Decreto n. 11.846/2023 possui previsão expressa, no art. 9º, de que "as penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2023".
+O paciente é reincidente e não demonstrou o cumprimento, até 25/12/2023, de 1/4 (um quarto) da pena privativa de liberdade total, como previsto no art. 2º, XV, do Decreto n. 11.846/2023. Na data de emissão da Ficha do Réu (e-STJ, fls. 19-22), verifica-se a pena inicial de 16 (dezesseis) anos e 8 (oito) meses e, deduzida o total cumprido e a remição, ainda restava pendente o total de 14 (quatorze) anos, 3 (três) meses e 14 (quatorze) dias.
+A jurisprudência desta Corte, em casos análogos referentes à aplicação do indulto previsto no Decreto n. 11.302/2002, já consolidou o entendimento de que devem ser consideradas as condenações com trânsito em julgado na data do decreto, sendo irrelevante que a decisão de unificação seja posterior.
+Neste sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO N. 11.302/2022. REQUISITO OBJETIVO. CONDENAÇÕES COM TRÂNSITO EM JULGADO ATÉ A DATA DA PUBLICAÇÃO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com entendimento assente nesta Corte Superior, "para análise do preenchimento do requisito objetivo para fins de concessão do benefício do indulto, devem ser consideradas todas as condenações com trânsito em julgado até a data da publicação do Decreto Presidencial" (AgRg no REsp n. 1.792.365/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/2/2020, DJe de 17/2/2020).
+2. O benefício aludido foi negado ao sentenciado em razão de a condenação e, em consequência, o trânsito em julgado desta, ser posterior à data da publicação do Decreto Presidencial n. 11.302/2002, entendimento que vai ao encontro da jurisprudência deste Tribunal Superior.
+3. Agravo regimental não provido."
+(AgRg no HC n. 905.019/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO N.º 7.046/2009. REQUISITO OBJETIVO. CONSIDERAÇÃO DE GUIA DE EXECUÇÃO EXPEDIDA EM MOMENTO POSTERIOR AO DECRETO. POSSIBILIDADE. TRÂNSITO EM JULGADO DA CONDENAÇÃO EM DATA ANTERIOR À PREVISTA NO DECRETO PRESIDENCIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, em sua missão constitucional de unificar a interpretação do direito federal infraconstitucional, não se limita a repetir acriticamente seus próprios precedentes.
+Contudo, se o caso concreto não traz nenhum distinguish , inexiste razão para se deixar de aplicar entendimento jurisprudencial consolidado após a análise de diversos casos semelhantes.
+2. Na análise do preenchimento do requisito objetivo para fins de concessão do benefício do indulto, devem ser consideradas todas as condenações com trânsito em julgado até a data da publicação do Decreto Presidencial, sendo indiferente o fato da juntada da guia de execução penal ocorrido em momento posterior à publicação do decreto.
+3. A circunstância de a sentença concessiva do indulto ter natureza declaratória não modifica o referido entendimento, uma vez que a nova sentença condenatória transitada em julgado que impede a concessão da benesse já existia na data em que editado o decreto, consistindo a correspondente guia de execução apenas a formalização do início processo de execução da pena.
+4. Agravo regimental desprovido."
+(AgRg no REsp n. 1.792.365/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/2/2020, DJe de 17/2/2020.)
+Assim, não há hipótese de ilegalidade que permita a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
