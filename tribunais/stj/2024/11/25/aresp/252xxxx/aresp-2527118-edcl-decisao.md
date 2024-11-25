@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se dos segundos embargos de declaração opostos por ADRIANA CONCEIÇÃO DO CARMO, em causa própria, contra decisão de minha lavra, que não conheceu de prévios aclaratórios, por aplicação do enunciado 284 da Súmula do STF, por analogia, estes opostos contra decisum que não conheceu do agravo em recurso especial, por aplicação do enunciado 182 da Súmula do STJ (fls. 158-160). Confira-se a ementa da última decisão (fl. 188):
+CONFLITO DE COMPETÊNCIA. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEGRATIVO QUE NÃO APONTA ONDE RESIDE O VÍCIO DE CONTRADIÇÃO INTERNA. FUNDAMENTAÇÃO RECURSAL MANIFESTAMENTE DEFICIENTE. SÚMULA 284/STF. ACLARATÓRIOS NÃO CONHECIDOS.
+Insurge-se a embargante, em seus segundos embargos às fls. 195-200, contra a decisão que aplicou o enunciado 182 da Súmula do STJ, por entender que o julgado seria contraditório, na medida em que a recorrente teria impugnado devidamente o óbice do enunciado 7 da Súmula do STJ. Acrescenta que "a questão é apenas de direito, eis que, as ofensas à lei federal foram impugnadas no Recurso Especial e os motivos de seguimento do recurso, foram apresentadas no Agravo, incluindo a impugnação da súmula 7".
+Requer, ao final, o conhecimento e acolhimento dos segundos embargos de declaração, a fim de que seja sanada a pecha de contradição existente na decisão que não conheceu do agravo em recurso especial.
+Intimada, a parte embargada não ap resentou impugnação (fl. 208).
+É o relatório.
+Decido.
+Os segundos embargos declaratórios não comportam conhecimento, por serem, novamente, manifestamente incabíveis/inadmissíveis.
+De plano, nota-se que a embargante, em seus segundos aclaratórios, reprisa, ipsis litteris, o teor dos seus primeiros embargos, que não foram conhecidos, por aplicação do enunciado 284 da Súmula do STF, por analogia, diante da fundamentação recursal manifestamente deficiente. Além do mais, verifica-se que os segundos integrativos voltam-se contra a decisão que não conheceu do agravo em recurso especial, por incidência do enunciado 182 da Súmula do STJ, e não contra o decisum que não conheceu dos primeiro embargos, que seria a única opção possível .
+De fato, consoante jurisprudência mansa e pacífica neste Tribunal Superior, "os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois a oportunidade para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa". (AgInt no REsp 1.897.694/ES, rel. Min. Regina Helena Costa, Primeira Turma, DJe 11/02/2021) Nessa mesma linha cognitiva:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE EFEITO SUSPENSIVO. JUÍZO PRECÁRIO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+(..)
+3. Os segundos embargos de declaração devem impugnar vícios contidos no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada.
+4. Embargos de declaração não conhecidos com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EDcl na Pet n. 14.821/RJ, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+(..)
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, "os segundos embargos de declaração devem limitar-se a apontar os vícios porventura constatados no acórdão que julgou os primeiros embargos, sendo inadmissíveis quando se contrapõem aos argumentos delineados no aresto anteriormente impugnado" (EDcl nos EDcl no AgRg na AR n. 3.817/MG, relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 23/4/2008, DJe de 12/5/2008). Nesse sentido: EDcl nos EDcl nos EAg n. 884.487/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/12/2017, DJe de 20/2/2018.
+4. A reiteração de alegações já expressamente enfrentadas demonstra o caráter protelatório desses segundos embargos de declaração, a ensejar a imposição de multa ao embargante, fixada em 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC/2015.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt no AREsp n. 1.534.942/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 26/6/2024)
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. REITERAÇÃO DE TESE REJEITADA NOS PRIMEIROS ACLARATÓRIOS. MERO INCONFORMISMO.
+1. Nos termos da jurisprudência desta Corte Superior, "os segundos embargos de declaração opostos devem versar sobre um dos vícios do art. 1.022 do CPC surgidos no julgamento dos primeiros aclaratórios, não podendo simplesmente reproduzir o que fora alegado - já decidido - por ocasião da interposição dos primeiros embargos" (AgInt nos EDcl nos EDcl no AgInt nos EREsp n. 1.241.826/RS, Rel. Min. Mauro Campbell Marques, Corte Especial, DJe de 22/6/2022).
+2. Embargos de Declaração rejeitados, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+(EDcl nos EDcl na AR n. 6.201/CE, rel. Min. Herman Benjamin, Primeira Seção, DJe de 24/6/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. SEGUNDOS EMBARGOS DE DECLARAÇÃO. EFEITO INTERRUPTIVO. AUSÊNCIA. NÃO PROVIDO.
+1. "Os segundos embargos de declaração são servis para se veicular vícios contidos no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, porquanto o prazo para a respectiva impugnação extinguiu-se por força da preclusão consumativa" (EDcl nos EDcl nos EAg 884.487/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2017, DJe 20/02/2018).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.326.271/SP, rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe de 4/6/2024)
+Constatado, pois, o intento reiterado e infundado da embargante de rediscutir matéria já apreciada e decidida, protelando o desfecho final da demanda e sobrecarregando, indevidamente, os trabalhos a cargo deste Superior Tribunal de Justiça, é de rigor a aplicação da penalidade legalmente cabível.
+Com efeito, "a oposição dos segundos embargos de declaração reproduzindo os argumentos fulcrais do primeiro já examinados e rejeitados traduz mau uso do recurso integrativo e configura intuito protelatório passível de repreensão com a multa prevista no §2º do art. 1.026 do CPC". (AgInt no AREsp n. 2.333.503/SP, rel. Min. Moura Ribeiro, Terceira Turma, DJe de 22/8/2024)
+Ante o exposto, não conheço dos segundos embargos de declaração, por serem manifestamente incabíveis/inadmissíveis e, nos termos dos artigo 1.026, §2º, do CPC, condeno a ora embargante ao pagamento de multa de 1% sobre o valor atualizado da causa.
+Registre-se que a insistência da embargante em eventual oposição de novos embargos, importará na majoração da multa, determinação do trânsito em julgado e baixa dos autos à origem.
+Publique-se.
+Intime-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA INTERNO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS ACLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. SEGUNDOS EMBARGOS QUE SE LIMITAM A REITERAR OS ARGUMENTOS DOS PRIMEIROS. CARÁTER PROTELATÓRIO. APLICAÇÃO DE MU LTA COM BASE NO ART. 1.02 6, §2º, DO CPC/2015. SEGUNDOS INTEGRATIVOS NÃO CONHECIDOS, COM APLICAÇÃO DE MULTA.
