@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por TIAGO WANDER DE FREITAS ALMEIDA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que denegou a ordem pleiteada no HC n. 1.0000.24.331291-15/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante, em 15/03/2024, com posterior conversão da custódia em preventiva, em razão da suposta prática dos ilícitos tipificados no art. 155, § 4º, inciso IV, c.c. o art. 155, § 4.º, na forma do art. 14, inciso II, como disposto no art. 69, todos do Código Penal, pelos quais foi denunciado (fls. 361-367) pois, em tese, em concurso com corréu, em 05/03/2024, furtou vigas de aço do pátio da empresa Ansal e, em 14/03/2024, nove dias após, voltou ao local do crime com o intuito de promover novo furto. Nessa oportunidade o alvo seria a caixa d"água da mesma empresa. No entanto, mesmo tendo contratado um terceiro indivíduo para ajudá-lo a transportar a mencionada caixa d"água em um caminhão, essa última empreitada não obteve êxito por circunstâncias alheias à vontade de TIAGO.
+A Defesa impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 692-697.
+Em suas razões, o recorrente sustenta que há um claro excesso de prazo para a formação da culpa.
+Requer, liminarmente, a revogação da prisão preventiva do recorrente, com a aplicação de medidas cautelares diversas da prisão, e, no mérito, a concessão definitiva da ordem para que o recorrente possa aguardar o julgamento em liberdade.
+O pedido liminar foi indeferido às fls. 721-723.
+Informações processuais às fls. 725-1078.
+O Ministério Público Federal opinou pelo desprovimento do recurso às fls. 1082-1087.
+É o relatório.
+DECIDO.
+No tocante ao alegado excesso de prazo, pontuo que
+a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as peculiaridades da causa ou quaisquer fatores que possam influir na tramitação (HC 541.104/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/02/2020, DJe 27/02/2020).
+Quanto a esse tema, o Tribunal estadual refutou a ocorrência de eventual desídia estatal, por meio das seguintes razões (fls. 694-697; grifamos):
+ ..  Todavia, ao exame da inicial e dos documentos juntados ao presente Habeas Corpus, observa-se que, em nenhum momento, a impetrante demonstrou a inércia ou, mesmo, descaso do Judiciário com a situação do paciente.
+A propósito, extrai-se das informações prestadas pela autoridade apontada coatora que: (..)
+Com efeito, analisando detidamente os autos e as informações de praxe, conclui-se que as diligências necessárias foram realizadas em prazo razoável, demonstrando que a marcha processual segue de forma regular. Denota-se que a audiência de instrução e julgamento já está designada para a data de 09/10/2024, de modo que a instrução processual segue em regular andamento, após a citação do acusado e apresentação de resposta à acusação. Sendo assim, não há que se falar, neste momento, em relaxamento da custódia preventiva em razão de excesso de prazo para formação da culpa. A propósito, já se manifestou esse e. Tribunal de Justiça nos seguintes julgado (..)
+Ademais, observa-se que a manutenção da prisão do denunciado já foi apreciada e reavaliada em diversos momentos pelo juízo primevo, o qual, em 15 de julho de 2024, manteve a custódia do autuado considerando, especialmente, que ainda se faziam presentes os requisitos legais autorizadores da medida extrema.
+Nas informações processuais que requisitei ao Juízo de primeira instância, foi reiterada a designação da audiência de instrução e julgamento para o dia 09/10/2024 e reafirmado que o processo criminal segue seu trâmite regular, sem qualquer intercorrência relevante.
+Nesse cenário, entendo plausíveis as razões consignadas pelas instâncias ordinárias para afastar a tese de ocorrência de desídia estatal, até porque não é constatável ofensa ao princípio da razoabilidade na formação da culpa, mormente se considerado o tempo concreto de prisão preventiva frente à pena abstrata dos delitos pelos quais o recorrente foi denunciado - no caso: art. 155, § 4º, inciso IV, c.c. o art. 155, § 4.º, na forma do art. 14, inciso II, como disposto no art. 69, todos do Código Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO. EXTORSÃO. PRISÃO PREVENTIVA. (..) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+5. No caso, a tramitação processual ocorre dentro da razoabilidade de tempo esperada, todavia marcada por suas particularidades, já que se trata de três denunciados e duas vítimas, não havendo nenhum elemento que evidencie a desídia dos órgãos estatais na condução feito, razão pela qual não se vislumbra, por ora, o alegado constrangimento ilegal, ainda que o agravante esteja preso desde julho de 2022. Além disso, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a audiência de instrução e julgamento foi designada para o dia 3/6/2024.
+6. Agravo regimental desprovido. (AgRg no RHC n. 181.749/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024; grifamos).
+PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EFEITOS INFRINGENTES. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. OPERAÇÃO "EFIALTES". CRIMES DE ORGANIZAÇÃO CRIMINOSA, CORRUPÇÃO ATIVA, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E LAVAGEM DE DINHEIRO. ALEGADA CONTRADIÇÃO. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO CONSTATADO.
+ ..
+2.  ..  , a própria defesa-técnica deu azo a atrasos injustificados no âmbito da ação penal originária, o que acabou por retardar a marcha processual.
+3. O excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional.
+4. Incide o disposto na Súmula 64 desta Corte, segunda a qual "não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa."
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no HC n. 877.898/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024; grifamos).
+Por fim, em consulta ao site do Tribunal de Justiça do Estado de Minas Gerais, pude constatar nos autos da Ação Penal em comento (n. 0010846-55.2024.8.13.0145) que o feito caminha para a sua conclusão, uma vez que as partes - Ministério Público e Defesa - já foram intimados para apresentarem as suas respectivas alegações finais.
+Assim, não mais persiste a alegação de excesso de prazo ora tratada.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+ EMENTA
