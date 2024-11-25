@@ -1,0 +1,16 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto em parte o relatório de fls. 99/101 (e-STJ).
+Decido.
+Em que pese o respeito pelas alegações, não há nada a reparar na aludida decisão.
+Manifesta-se o paciente requerendo seja reinserido em pauta na sessão de julgamento presencial na 5ª Turma do STJ, ante a decisão em que julgo prejudicado o presente agravo regimental em habeas corpus (e-STJ fl. 139).
+Cabe mencionar que, de acordo com consulta realizada na página eletrônica do Tribunal de origem, verifica-se que sobreveio sentença condenatória em face do paciente (e-STJ fl. 139).
+Assim, confo rme a jurisprudência deste Superior Tribunal, o pedido de revisão da decisão de pronúncia está prejudicado. Nesta perspectiva: "a superveniência de sentença condenatória esvazia a alegação de nulidade da pronúncia, seja por excesso de linguagem ou por ausência de fundamentação das qualificadoras na decisão de pronúncia" (AgRg nos EDcl no HC n. 791.173/CE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/9/2023, DJe de 2/10/2023 e HC 688.594/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/09/2021, DJe 04/10/2021).
+Reforço a possibilidade de conhecimento do habeas corpus substitutivo quando houver flagrante ilegalidade apta a justificar a concessão de ofício da ordem.
+Nesse sentido, "o STJ, na esteira do que vem decidindo o STF, tem restringido o uso do remédio constitucional em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), bem como à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus" (AgRg no HC n. 903.113/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024.) e AgRg no HC n. 893.612/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2024, DJe de 24/4/2024). Vejamos:
+HABEAS CORPUS. PACIENTE PRONUNCIADO POR HOMICÍDIO DUPLAMENTE QUALIFICADO E FORMAÇÃO DE QUADRILHA (ARTS. 121, § 2o., I E V, E 288 DO CPB). ABSOLVIÇÃO PELO TRIBUNAL DO JÚRI. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. VERSÃO DO CONSELHO DE SENTENÇA DESTITUÍDA DE QUALQUER APOIO NAS PROVAS PRODUZIDAS. CASSAÇÃO PELO TRIBUNAL A QUO, COM DETERMINAÇÃO DE NOVO JULGAMENTO. EXCESSO DE LINGUAGEM NÃO VERIFICADO. NECESSIDADE LÓGICA DE CONSIGNAR QUE A DECISÃO ANTERIOR FORA PROFERIDA EM CONTRADIÇÃO COM O ACERVO PROBATÓRIO. MANUTENÇÃO DO ARESTO IN TOTUM. ORDEM DENEGADA.
+1. A fundamentação contida no acórdão não incide em qualquer aberração, pois o reconhecimento de que a decisão do Tribunal do Júri seja manifestamente contrária à prova dos autos exige que o Tribunal analise a prova e diga se ela conduz, ou não, a um juízo sobre a participação do paciente nos fato criminoso.
+2. Ordem denegada.
+(HC n. 172.097/PR, relatora Ministra Laurita Vaz, relator para acórdão Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 22/2/2011, DJe de 20/5/2011.)
+Diante do exposto, indefiro o pedido de reconsideração.
+Certifique-se o trânsito em julgado com posterior baixa dos autos.
+EMENTA
