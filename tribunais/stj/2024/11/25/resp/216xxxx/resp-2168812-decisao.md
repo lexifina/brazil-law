@@ -1,0 +1,40 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 202e):
+TRIBUTÁRIO. CRÉDITO PRESUMIDO. ARTIGO 55 DA LEI Nº 12.350 DE 2010. RECEITA DE EXPORTAÇÃO. ZONA FRANCA DE MANAUS. ÁREAS DE LIVRE-COMÉRCIO.
+1. O artigo 5 5 da Lei nº 12.350 de 2010 autorizou a apuração de créditos presumidos de PIS/COFINS em relação à receita de exportação decorrente das mercadorias classificadas nos códigos 02.03, 0206.30.00, 0206.4, 02.07 e 0210.1 da NCM.
+2. O artigo 4º do Decreto-Lei nº 288/67 equiparou as vendas realizadas para empresas situadas na Zona Franca de Manaus às operações de exportação.
+3. As vendas efetuadas pelas empresas estabelecidas fora das ALC para as empresas sediadas nas Áreas de Livre Comércio de Boa Vista (RR) e de Bonfim (RR) são equiparadas à exportação.
+4. A parte impetrante tem direito a apurar o crédito presumido a que se refere o "caput" do art. 55 da Lei nº 12.350/2010 em relação às as receitas das vendas efetuadas para a Zona Franca de Manaus e para as ALC - de Boa Vista e Bonfim.
+Opostos embargos de declaração, foram rejeitados.
+Com amparo no art. 105, III, a , da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, a impossibilidade de estender o benefício fiscal concedido à Zona Franca de Manaus (ZFM) às Áreas de Livre Comércio (ALC).
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Esta Corte tem posicionamento consolidado segundo o qual as Áreas de Livre Comércio (ALC) de Boa Vista/RR e Bonfim/RR equiparam-se à Zona Franca de Manaus (ZFN) para fruição de benefícios fiscal, de modo que as vendas de produtos destinados a tais áreas equivalem-se à exportação.
+Nessa linha:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. PIS E COFINS. OPERAÇÕES DE VENDA DE MERCADORIAS DESTINADAS ÀS EMPRESAS SITUADAS NAS ÁREAS DE LIVRE COMÉRCIO DE MACAPÁ/AP E SANTANA/AP. NÃO EQUIVALÊNCIA À EXPORTAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. O benefício fiscal relativo à venda de produtos para empresas situadas na Zona Franca de Manaus não pode ser estendido de forma automática para as vendas destinadas a toda e qualquer Área de Livre Comércio.
+2. As vendas de produtos destinados às empresas situadas nas áreas de Boa Vista/RR e Bonfim/RR são equivalentes à exportação, não alcançando, o benefício em questão, as mercadorias com destino à ALC de Macapá/AP e Santana/AP.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.418.814/AP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+TRIBUTÁRIO. CONTRIBUIÇÃO AO PIS E COFINS. OPERAÇÕES DE VENDAS DESTINADAS À ZONA FRANCA DE MANAUS - ZFM. EQUIVALÊNCIA. ÁREAS DE LIVRE COMÉRCIO - ALC. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência desta Corte superior, a possibilidade de extensão do benefício fiscal assegurado à Zona Franca de Manaus, referente à equivalência da venda feita naquela região àquela efetivada para empresa estabelecida no exterior, deve se dar em conformidade com os atos normativos de cada Área de Livre Comércio, estando tal benefício limitado às ALCs de Boa Vista/RR e Bonfim/RR, excluídas as cidades de Santana/AP e Macapá/AP, caso dos autos.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.113.120/AP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REINTEGRA. VENDAS EFETUADAS NAS ÁREAS DE LIVRE COMÉRCIO-ALC. IMPOSSIBILIDADE DE EXTENSÃO AUTOMÁTICA DO BENEFÍCIO FISCAL. NECESSIDADE DE EXAME DA LEGISLAÇÃO ESPECÍFICA DE CADA ÁREA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Ambas as Turmas que compõem a Primeira Seção desta Corte firmaram o entendimento de que, para efeitos fiscais, a venda de mercadorias para empresas estabelecidas na Zona Franca de Manaus equivale à venda efetivada para empresas estabelecidas no exterior, razão pela qual o contribuinte faz jus ao benefício do REINTEGRA (AgInt no REsp 1.903.850/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2021, DJe 16/3/2021; e REsp 1.579.967/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2020, DJe 9/10/2020).
+2. Quanto às Áreas de Livre Comércio-ALC, a jurisprudência do Superior Tribunal de Justiça manifestou-se no sentido de que o benefício em questão não pode ser estendido de forma automática, porque cada área possui sua própria lei de regência.
+3. Assim, ao analisar a legislação específica de cada ALC, este Tribunal concluiu que apenas as vendas de mercadorias destinadas às empresas situadas nas áreas de Boa Vista/RR e Bonfim/RR são equivalentes a uma exportação; desse modo, o benefício em questão não alcança as mercadorias destinadas às cidades de Tabatinga/AM, Guajará-Mirim/RO, Macapá/AP, Santana/AP, Brasiléia/AC, Epitaciolândia/AC e Cruzeiro do Sul/AC.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.893.714/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento no art. 932, IV, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, CONHEÇO DO RECURSO ESPECIAL E NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
+EMENTA
