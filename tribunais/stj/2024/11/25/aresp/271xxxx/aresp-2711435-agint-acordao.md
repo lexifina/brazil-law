@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. As questões levadas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1.022 do CPC/15. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por PORTOCRED SA - CREDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL , contra decisão monocrática que conheceu do agravo para, de plano, negar provimento ao recurso especial interposto pela parte ora recorrente.
+O apelo nobre, amparado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 513, e-STJ):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. RETORNO DOS AUTOS DO STJ PARA EXAME DO TEMA RELATIVO AOS JUROS REMUNERATÓRIOS. ABUSIVIDADE. CARACTERIZAÇÃO. MANUTENÇÃO DO JULGAMENTO ANTERIOR. APELO DESPROVIDO.
+Os aclaratórios opostos foram rejeitados (fls. 533-538, e-STJ).
+Em suas razões de recurso especial (fls. 545-570, e-STJ), a recorrente apontou, além de dissídio jurisprudencial, ofensa aos artigos 1.022, II, do CPC, 51, IV e § 1º, III, do CDC. Sustentou, em síntese: a) a negativa de prestação jurisdicional; b) que a taxa de juros pactuada deve ser observada, não havendo falar em abusividade no caso dos autos.
+Sem contrarrazões.
+Em juízo prévio de admissibilidade (fls. 798-803, e-STJ), a Corte de origem inadmitiu o apelo nobre, dando ensejo na interposição do agravo de fls. 910-829, e-STJ, contra o qual não fora apresentada contraminuta.
+Em decisão monocrática (fls. 886-890, e-STJ), negou-se provimento ao recurso especial, afastando-se a tese de negativa de prestação jurisdicional e aplicando-se o teor dos enunciados contidos nas Súmula 5 e 7/STJ.
+Daí o presente agravo interno (fls. 894-908, e-STJ), no qual a recorrente insiste na tese de negativa de prestação jurisdicional e sustenta a inaplicabilidade da Súmula 83/STJ.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. As questões levadas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1.022 do CPC/15. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1. A parte ora agravante limitou-se a repisar os argumentos relativos à tese de negativa de prestação jurisdicional e sustentar, de forma dissociada da decisão atacada, a inaplicabilidade da Súmula 83/STJ, restando preclusas as demais questões não impugnadas no presente agravo interno.
+Consoante asseverado na decisão agravada, a insurgente apontou violação ao artigo 1.022 do CPC/15, ao argumento de que o Tribunal a quo "limitou-se novamente a estabelecer como fundamento principal a comparação entre a taxa média divulgada pelo BACEN e a taxa praticada no caso concreto", deixando de considerar os requisitos para a aplicação de tal entendimento.
+Todavia, da leitura do acórdão recorrido (fls. 510-512, e-STJ), denota-se que, ao reapreciar a controvérsia, o julgador analisou a questão de forma ampla e fundamentada, consoante se infere dos seguintes trechos:
+Dos juros remuneratórios:
+Os juros não estão limitados, regulando-se a atividade bancária pelo disposto na Lei nº 4.595/64, o que é aplicável às empresas administradoras de cartão de crédito.
+A respeito a Súmula nº 283 do Superior Tribunal de Justiça: "As empresas administradoras de cartão de crédito são instituições financeiras e, por isso, os juros remuneratórios por elas cobrados não sofrem as limitações da Lei de Usura."
+Nestes termos, ainda, a Súmula 382 do STJ: "A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade."
+Contudo, na esteira do entendimento do Superior Tribunal de Justiça, em sede de recursos repetitivos, é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto (REsp repetitivo 1.061.530-RS).
+Constou no acórdão original:
+No caso trazido para desate, de acordo com as informações constantes nos autos, verifica-se que os juros remuneratórios praticados na Cédula de Crédito Bancário nº 3811698483 foram de 4,04% ao mês e 60,81% ao ano (evento 1 - CONTR7). Todavia, para a mesma modalidade e período (set/2020 - crédito pessoal consignado para trabalhadores do setor público), a taxa média apurada pelo Banco Central foi de 1,26% ao mês e 16,28% ao ano.
+Conforme visto, a taxa contratual supera demasiadamente a média do mercado (cerca de 300%) sem que o réu tenha apresentado justificativa para tal, considerando que contratos da mesma espécie, com os riscos inerentes, segundo levantamento do BACEN, indicaram taxas muito mais reduzidas à época da contratação. Caracterizada, assim, a abusividade da instituição financeira, pois a situação colocou o consumidor em desvantagem excessiva.
+Note-se que não há comprovação por meio de prova documental a respeito do custo da captação do numerário, tampouco demonstração financeira, atuarial e contábil das razões pelas quais o percentual praticado discrepa da média do BACEN, valendo notar tratar-se de mútuo consignado para servidor público, com remota hipótese de inadimplemento.
+Em se tratando de relação de consumo, vale notar a presença de hipervulnerabilidade técnica da parte autora, que não detém de meios para comprovar que o custo da captação do numerário por parte da ré, do "spread" e das taxas de manutenção do negócio, diferem daquelas de outras instituições.
+Reitero que a relação é de consumo a parte autora está em desvantagem excessiva, na medida em que os juros cobrados são bastante superiores à média praticada por outras instituições.
+Na sociedade brasileira contemporânea, fruto de um desenvolvimento permeado, historicamente, por profundas desigualdades econômicas e sociais, não se pode ignorar que o consumidor, parte vulnerável da relação (vulnerabilidade técnica, informacional e socioeconômica), não detém meio técnicos para comprovar a) custo da captação dos recursos no local; b) época do contrato; c) valor e o prazo do financiamento; d) fontes de renda do cliente; e) as garantias ofertadas; f) a existência de prévio relacionamento do cliente com a instituição financeira; g) a análise do perfil de risco de crédito do tomador e h) forma de pagamento da operação.
+Do exposto, no caso concreto, ao exame da prova específica dos autos, está caracterizada a abusividade capaz de colocar o consumidor em desvantagem exagerada, como dito, confirmando-se a sentença, desprovendo-se o apelo, no ponto. (fl. 511-512, e-STJ)  grifou-se
+Não se vislumbra, portanto, a omissão apontada.
+Ademais, o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, tampouco mencionar todos os dispositivos legais apontados nas razões recursais, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu no caso em apreço. Nesse sentido, precedentes:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE DE VEÍCULOS.  ..  OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO DO JULGADO. IMPROCEDÊNCIA DA ALEGAÇÃO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ESBULHO. SÚMULA N. 7/STJ. 1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Deve ser afastada a alegada violação aos arts. 165, 458, II e 535 do Código de Processo Civil.  ..  4. Agravo regimental a que se nega provimento. (AgRg no Ag 1067781/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/04/2015, DJe 17/04/2015)  grifou-se
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTIGOS 165, 458 E 535 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. 1. Não viola os artigos 165, 458 e 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.  ..  5. Agravo regimental não provido. (AgRg no REsp 1417828/AC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/09/2014, DJe 01/10/2014)  grifou-se
+Afasta-se, portanto, a alegada ofensa ao artigo 1.022 do CPC/15 e a tese de negativa de prestação jurisdicional.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
