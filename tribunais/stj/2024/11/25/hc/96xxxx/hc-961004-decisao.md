@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PABLO ALEXANDRE OLIVEIRA DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0008098-30.2015.8.19.0038, relator Desembargador Marcelo Castro Anátocles da Silva Ferreira).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 121, § 2º, I, do Código Penal, à pena de 21 anos de reclusão, em regime fechado (e-STJ fls. 12/14).
+A apelação defensiva foi parcialmente provida pelo Tribunal de origem, em acórdão cuja ementa foi assim definida (e-STJ fl. 67):
+APELAÇÃO. TRIBUNAL DE JÚRI. DECISÃO PROFERIDA PELO CONSELHO DE SENTENÇA QUE RECONHECEU A AUTORIA QUANTO AO DELITO PREVISTO NO ARTIGO 121, §2º, I, DO CÓDIGO PENAL. SENTENÇA DE PROCEDÊNCIA DA PRETENSÃO QUE FIXOU A PENA DEFINITIVA EM 21 (VINTE E UM) ANOS DE RECLUSÃO, NO REGIME INICIAL FECHADO. RECURSO DA DEFESA PRETENDENDO A ANULAÇÃO DO JÚRI AO ARGUMENTO DE SER A DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS, ALÉM DE REFORMA NA DOSIMETRIA. OS JURADOS, COM AMPARO NA PROVA DOS AUTOS, ACOLHERAM A TESE ACUSATÓRIA A ELES APRESENTADA, TENDO REFUTADA A ALEGAÇÃO DEFENSIVA. PREVALÊNCIA DA SOBERANIA DOS VEREDICTOS PROFERIDOS PELO TRIBUNAL DO JÚRI. DOSIMETRIA QUE COMPORTA REPARO. REDUZIDA A PENA-BASE PARA O MÍNIMO LEGAL. READEQUAÇÃO DA RESPOSTA PENAL DEFINITIVA. MANTIDO O REGIME INICIAL FECHADO. PARCIAL PROVIMENTO DO RECURSO.
+Daí o presente writ, no qual alega a defesa que o paciente sofre constrangimento ilegal, argumentando que estaria "claro, nítido, que não se pode auferir, com fulcro probante, que foi o paciente autor dos delitos analisados neste processo, e que, devido a isso, o decreto condenatório dos autos, deverá ser anulado, uma vez que todos os depoimentos apontam no sentido de que teria sido outra pessoa com o mesmo vulgo" (e-STJ fl. 6).
+Aduz que "a justificativa de que os jurados são soberanos não pode autorizar uma condenação com base na dúvida", e que "não logrou êxito o Ministério Público em arregimentar aos autos elementos probatórios mínimos capazes de atribuir à conduta do paciente os caracteres de reprovabilidade jurídico-penal necessários à prolação do decreto de pronúncia" (e-STJ fl. 8).
+Requer, ao final, a concessão da ordem para absolver o paciente.
+É o relatório.
+Decido.
+A condenação do paciente está transitada em julgado desde o ano de 2022.
+Em casos como o presente, a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus, seja como sucedâneo de recurso próprio ou seja de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Evidentemente, não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
