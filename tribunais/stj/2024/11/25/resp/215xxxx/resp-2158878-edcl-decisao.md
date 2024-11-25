@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela ITAMIR BRATZ LTDA. contra decisão de minha lavra em que conheci parcialmente do recurso especial e, nessa extensão, dei-lhe parcial provimento para restabelecer a sentença denegatória da segurança. (e-STJ fls. 461/466)
+A embargante sustenta que o julgado padece de omissão, porquanto "não há como se perder de vista o contido no art. 394 -A, §3º, da CLT, que garante à empregada gestante ou lactante que não puder exercer suas atividades em local salubre na empresa o direito ao recebimento de salário maternidade."(e-STJ fl. 473)
+Impugnação não apresentada.
+Às e-STJ fls. 485/487, a embargante atravessa petição, em que requer a suspensão do trâmite recursal ante a afetação do Tema 1.290 do STJ.
+Passo a decidir.
+Exerço juízo de retratação.
+A Primeira Seção do STJ decidiu afetar à sistemática dos recursos repetitivos os REsps 2.160.674/RS e 2.153.347/PR, com a seguinte tese controvertida (Tema 1.290): "a) decidir sobre a legitimidade passiva ad causam (se do INSS ou da Fazenda Nacional) nas ações em que empregadores pretendem reaver valores pagos a empregadas gestantes durante a pandemia de Covid-19; b) definir se é possível enquadrar como salário-maternidade a remuneração de empregadas gestantes que foram afastadas do trabalho presencial durante o período da pandemia de Covid-19, nos termos da Lei n. 14.151/2021, a fim de autorizar restituição ou compensação tributária desta verba com tributos devidos pelo empregador".
+Na ocasião, foi determinada a suspensão da tramitação de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Ministro Regina Helena Costa, DJe 17/03/2016; REsp 1.502.464/RS, AREsp 848.627/PB, REsp 1.574.944/PB; e AREsp 779.676/PB, todos da relatoria do em. Ministro BENEDITO GONÇALVES, DJe 02/12/2015, 08/03/2016, 04/03/2016 e 03/02/2016, respectivamente.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto:
+(i) ACOLHO os embargos de declaração, atribuindo-lhes efeitos modificativos, para RECONSIDERAR a decisão de fls. 461/466 ;
+(ii) DETERMINO a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no regime dos recursos repetitivos, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo;
+(iii) PREJUDICADO o exame da petição de e-STJ fls. 485/487.
+Publique-se. Intimem-se.
+EMENTA
