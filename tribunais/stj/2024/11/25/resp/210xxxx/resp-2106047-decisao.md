@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado por FAZENDA NACIONAL com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 597):
+AGRAVO INTERNO. APELAÇÃO. ART. 1.021, § 3º DO NCPC. REITERAÇÃO. RECURSO DESPROVIDO.
+- A vedação insculpida no art. 1.021, §3º do CPC/15 contrapõe-se ao dever processual estabelecido no §1º do mesmo dispositivo.
+- Se a parte agravante apenas reitera os argumentos ofertados na peça anterior, sem atacar com objetividade e clareza os pontos trazidos na decisão que ora se objurga, com fundamentos novos e capazes de infirmar a conclusão ali manifestada, decerto não há que se falar em dever do julgador de trazer novéis razões para rebater alegações genéricas ou repetidas, que já foram amplamente discutidas.
+- Agravo interno desprovido.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Quanto ao tema de fundo tratado nos autos, observa-se que a Primeira Seção deste Sodalício decidiu pela afetação, para julgamento sob a sistemática dos recursos repetitivos, da matéria relativa a "Definir se incide a prescrição intercorrente prevista no art. 1º, § 1º, da Lei 9.873/1999 quando paralisado o processo administrativo de apuração de infrações aduaneiras, de natureza não tributária, por mais de 3 anos" (Tema 1.293/STJ).
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese por este STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+Ressalte-se que, nos termos do art. 256-L, I, do RISTJ: "Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator".
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do CPC, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou a manutenção do acórdão local frente ao que vier a ser decidido por este Superior Tribunal de Justiça sob a sistemática dos recursos repetitivos (Tema 1.293/STJ).
+Publique-se.
+ EMENTA
