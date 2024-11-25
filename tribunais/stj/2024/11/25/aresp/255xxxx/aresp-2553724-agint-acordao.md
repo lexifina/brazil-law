@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. EXPURGOS INFLACIONÁRIOS. JUSTIÇA FEDERAL. COMPETÊNCIA. UNIÃO. BACEN. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. SÚMULA N. 83/STJ. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. Nos termos da jurisprudência desta Corte, não há litisconsórcio necessário nos casos de responsabilidade solidária, porquanto facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. Precedentes.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 224/226 e-STJ.
+A parte agravante reitera as razões do seu especial, apontando a violação dos arts. 489, inciso II, § 1º, inciso IV, e 1.022, inciso II, parágrafo único, do Código de Processo Civil e arts. 130, inciso III, 131 e 132 do Código Civil, sustentando negativa de prestação jurisdicional e que não poderia ter ocorrido a recusa de chamamento ao processo dos devedores solidários.
+Impugnação às fls. 254/262 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. EXPURGOS INFLACIONÁRIOS. JUSTIÇA FEDERAL. COMPETÊNCIA. UNIÃO. BACEN. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. SÚMULA N. 83/STJ. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. Nos termos da jurisprudência desta Corte, não há litisconsórcio necessário nos casos de responsabilidade solidária, porquanto facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. Precedentes.
+3. Agravo interno a que se nega provimento.
+VOTO
+A decisão recorrida julgou agravo contra o juízo de admissibilidade que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS. CÉDULA RURAL PIGNORATÍCIA.
+AÇÃO COLETIVA. LIQUIDAÇÃO DE SENTENÇA. FUNDAMENTO: CÉDULA RURAL REGISTRO Nº 16.927, NO VALOR DE NCZ$ 99.641,00. REATIVAÇÃO DO FEITO. O MINISTRO JORGE MUSSI, ATUAL VICE-PRESIDENTE DO STJ, EM 24/03/2021, REVOGOU O EFEITO SUSPENSIVO ATRIBUÍDO AO RECURSO EXTRAORDINÁRIO INTERPOSTO PELO BANCO DO BRASIL NOS AUTOS DO ERESP Nº 1319232/DF, TENDO EM VISTA QUE O MINISTRO ALEXANDRE DE MORAES, RELATOR DO RE Nº1.101.937 (TEMA 1075/STF), REVOGOU A SUSPENSÃO NACIONAL DOS PROCESSOS QUE TRATAM DA MESMA CONTROVÉRSIA. ADEMAIS, O JULGAMENTO DO RE Nº 1.101.937 (TEMA 1075) FOI CONCLUÍDO PELO STF EM 07/04/2021. A EXISTÊNCIA DE PRECEDENTE FIRMADO PELO PLENÁRIO DA CORTE AUTORIZA O JULGAMENTO IMEDIATO DOS PROCESSOS VINCULADOS AO TEMA, INDEPENDENTE DO TRÂNSITO EM JULGADO DO PARADIGMA, CONSOANTE ENTENDIMENTO DE AMBAS AS TURMAS DO STF (RCL 38051/GO; MS 35446/DF). DIANTE DISSO, CONSIDERANDO, AINDA, QUE JÁ HOUVE O JULGAMENTO DOS EMBARGOS DE DIVERGÊNCIA INTERPOSTOS PELA UNIÃO FEDERAL NO RECURSO ESPECIAL Nº 1.319.232-DF, BEM COMO DA REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS DESTA DECISÃO, POSSÍVEL O PROSSEGUIMENTO DO FEITO. NO PONTO, RECURSO DESPROVIDO.
+CHAMAMENTO AO PROCESSO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. NÃO HÁ QUE SE FALAR EM INCLUSÃO DA UNIÃO E DO BANCO CENTRAL NO FEITO, POIS SENDO A CONDENAÇÃO SOLIDÁRIA E TENDO EM VISTA QUE FOI A INSTITUIÇÃO FINANCEIRA QUE CELEBROU O CONTRATO COM A PARTE, É PLENAMENTE LEGÍTIMA PARA FIGURAR NO POLO PASSIVO DA DEMANDA, PODENDO O CREDOR EXIGIR O PAGAMENTO INTEGRAL DE QUALQUER UM DOS DEVEDORES SOLIDÁRIOS. NO PONTO, RECURSO DESPROVIDO.
+AGRAVO DE INSTRUMENTO DESPROVIDO, POR UNANIMIDADE.
+Quanto à alegada violação aos arts. 489, § 1º, IV, e 1.022, I, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Além disso, verifica-se que o acórdão está em consonância com a jurisprudência desta Corte Superior no sentido de que, "em se tratando de condenação solidária, é possível ao credor escolher cobrar a condenação de quaisquer dos devedores" (AgInt no REsp n. 2.045.527/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/8/2023, DJe de 25/8/2023). Nesse sentido, confira-se:
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. BANCO DO BRASIL. LIQUIDAÇÃO DE SENTENÇA COLETIVA. PROVA PERICIAL. SUFICIÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. EXPURGOS INFLACIONÁRIOS. JUSTIÇA FEDERAL. COMPETÊNCIA. UNIÃO. BACEN. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA .
+(..)
+3. O acórdão recorrido decidiu a controvérsia de acordo com a jurisprudência pacífica do STJ de que não há falar em litisconsórcio necessário entre o Banco do Brasil, a União e o BACEN, pois, "em se tratando de condenação solidária, é possível ao credor escolher cobrar a condenação de quaisquer dos devedores" (AgInt no REsp n. 2.045.527/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/8/2023, DJe de 25/8/2023). Ademais, "compete à Justiça estadual o julgamento da execução individual de sentença coletiva cuja demanda foi dirigida exclusivamente contra o Banco do Brasil S.A." (AgInt no AREsp n. 2.175.006/DF, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/9/2023, DJe de 15/9/2023), entendimento aplicado pelo Tribunal a quo.
+3.1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. Agravo interno a que se nega provimento" (AgInt no REsp n. 2.077.683/DF, relator Ministro Antonio Carlos Ferreira, QUARTA TURMA, DJe de 7/12/2023.)
+Aplica-se, pois, a Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
