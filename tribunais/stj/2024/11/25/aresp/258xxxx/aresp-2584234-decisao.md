@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de agravo interposto por Belmmen Group Participações Ltda. contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ, fl. 1.196):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C/C INDENIZAÇÃO POR DANOS MORAIS. ASSEMBLEIA CONDOMINIAL. SENTENÇA DE EXTINÇÃO COM RELAÇÃO AO PLEITO DE NULIDADE, E DE IMPROCEDÊNCIA QUANTO À PRETENSÃO COMPENSATÓRIA.
+INSURGÊNCIA DA AUTORA.
+PRELIMINARES.
+CERCEAMENTO DE DEFESA EM VIRTUDE DO JULGAMENTO ANTECIPADO DA LIDE. REJEIÇÃO. ELEMENTOS HÁBEIS À SEGURA FORMAÇÃO DA CONVICÇÃO. INTELIGÊNCIA DOS ARTIGOS 370 E 371 DO CPC. AUTORA QUE NÃO COLACIONOU AOS AUTOS CÓPIA DA ATA ASSEMBLEAR QUE OBJETIVAVA INVALIDAR. ELEMENTO INDISPENSÁVEL PARA DEMONSTRAÇÃO DOS FATOS CONSTITUTIVOS DO SEU DIREITO. PROVA DOCUMENTAL QUE DEVERIA TER SIDO JUNTADA COM A PROPOSITURA DA DEMANDA. INTELIGÊNCIA DOS ARTIGOS 434 E 435 DO CPC. ALEGAÇÃO DE QUE OS DANOS DECORRENTES DO ABALO ANÍMICO SERIAM COMPROVADOS EM AUDIÊNCIA, COM A OITIVA DO SÍNDICO E TESTEMUNHAS. TESE RECHAÇADA. AUSENTE A PRÁTICA DE ATO ILÍCITO, DESNECESSÁRIA A INCURSÃO OU ANÁLISE A RESPEITO DE EVENTUAL DANO DECORRENTE DA CONDUTA.
+NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO ACOLHIMENTO. ALEGAÇÕES GENÉRICAS, SEM INDICAR UMA TESE OU FATO SEQUER QUE TENHA SIDO DESCONSIDERADO PELA MAGISTRADA NA SENTENÇA. DECISUM SUFICIENTEMENTE FUNDAMENTADO. ADEMAIS, JULGADOR QUE TEM O DEVER DE ENFRENTAR APENAS AS QUESTÕES QUE FOREM CAPAZES DE INFIRMAR A CONCLUSÃO ADOTADA. ORIENTAÇÃO DO STJ.
+MÉRITO.
+INSISTÊNCIA NAS TESES DE QUE HOUVE ILEGALIDADE POR PARTE DO RÉU, AO IMPEDI- LA DE PARTICIPAR DA ASSEMBLEIA CONDOMINIAL, E DE OCORRÊNCIA DE DANO MORAL PASSÍVEL DE COMPENSAÇÃO PECUNIÁRIA. IMPOSSIBILIDADE DE VERIFICAÇÃO DA VALIDADE DO ATO, VEZ QUE NÃO JUNTADA DA ATA ASSEMBLEAR. ATO ILÍCITO NÃO CARACTERIZADO.
+SENTENÇA MANTIDA.
+FIXAÇÃO DE HONORÁRIOS RECURSAIS.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.229-1.236).
+Nas razões do recurso especial (e-STJ, fls. 1.249-1.266), a recorrente apontou violação aos arts. 6º, 355, I, 357, § 3º, 373, I, 437, §§ 1º e 2º, 489, § 1º, IV e VI, 1.022, II, parágrafo único, II e 1.023, § 2º, do CPC/2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese: i) negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido; ii) cerceamento de defesa pelo julgamento antecipado da lide, sem a produção da prova requerida; e iii) ocorrência de dano moral.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.276-1.278).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pela recorrente, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Confira-se o seguinte excerto do voto dos aclaratórios (e-STJ, fls. 1.231-1.232):
+No atinente à prova documental, ficaram devidamente esclarecidos os fundamentos que respaldaram o desprovimento do apelo da embargante nesse tocante. A produção da referida prova não foi novamente oportunizada porque é dever da parte instruir a inicial com a documentação necessária para subsidiar o seu pedido (ou seja, o momento oportuno é o da propositura da demanda). Beira ao absurdo colocar pedido de nulidade de assembleia condominial e não juntar a ata assemblear que se objetiva invalidar, mormente estando esse documento disponível e não havendo justificativa plausível que excepcionasse a regra do artigo 434 do CPC.
+( )
+Também descabida a argumentação no que respeita à possibilidade de a pessoa jurídica sofrer dano moral, e infundadas as insistentes alegações no sentido de que o abalo anímico estaria demonstrado.
+Em nenhum momento constou no acórdão embargado que a pessoa jurídica não pode sofrer dano moral.
+O pleito indenizatório foi rechaçado porque: a) a tese de que o preposto da autora/embargante (pessoa física) teria sofrido humilhação (ofensa à honra subjetiva) não tem lugar quando a demanda foi proposta pela pessoa jurídica, esta que pode ser atingida na sua honra objetiva; b) os argumentos atinentes à ofensa do seu bom nome foram tidos por descabidos, eis que existentes inúmeras outras ações contra a empresa discutindo a sua responsabilidade pelas taxas condominiais em atraso (algumas julgadas procedentes), de modo que existia intensa controvérsia quanto ao fato de ser efetivamente devedora, por isso se entendeu que não havia como considerar ilícitas as cobranças que lhe foram dirigidas pelo condomínio.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+(..)
+3. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.015.401/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+Em relação ao alegado cerceamento de defesa, depreende-se que o Tribunal de origem não reconheceu a sua ocorrência, sob os seguintes fundamentos (e-STJ, fl. 1.191, sem grifo no original):
+In casu, os elementos existentes nos autos se mostravam suficientes ao deslinde da controvérsia, em observância ao princípio da persuasão racional, nos termos do artigo 355, I, do CPC/15.
+Isso porque, como bem pontuou a togada, tratando-se de pedido de nulidade da assembleia condominial realizada em 31/10/2009, imprescindível que a autora trouxesse aos autos cópia da ata assemblear que objetivava invalidar - prova documental indispensável à demonstração dos fatos constitutivos do direito alegado na inicial, já que materializa o ato cuja anulação é almejada.
+O momento processual adequado para que a parte autora produza a prova documental é a petição inicial (artigo 434, caput, do CPC), salvo quando se tratar de documentos novos, quando destinados a fazer prova de fatos supervenientes ou para contrapô-los aos que foram produzidos nos autos, ou se, à época, eram desconhecidos, inacessíveis ou indisponíveis (artigo 435 do CPC).
+Nenhuma dessas hipóteses se amolda à situação dos autos.
+O documento era preexistente à propositura da demanda e em momento algum a recorrente alegou estar-lhe inacessível. Ademais, mesmo que tais fossem as circunstâncias, deveria ela ter formulado requerimento de produção de prova documental ou de exibição de documentos tão logo ajuizou a demanda.
+A não juntada da referida prova inviabiliza o exame do próprio pedido de nulidade - consoante consignado na sentença -, porquanto obsta que seja apreciado o teor do ato cuja validade é contestada.
+Diante disso, afasto a prefacial suscitada, neste tocante.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente fundamentado, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PROVA ORAL. DESNECESSIDADE. CERCEAMENTO DE DEFESA. NÃO VERIFICADO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. EDIDO DE ARBITRAMENTO DE ALUGUÉIS. DESPESAS DE MANUTENÇÃO. AERONAVE. POSSE EXERCIDA POR UM DOS CONDÔMINOS. NÃO INDICAÇÃO PRECISA DE DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+3. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova oral requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+4. A falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+5. Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.644.907/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+Além disso , o acórdão recorrido encontra-se em perfeita consonância com a jurisprudência desta Corte no sentido de que "a parte deve instruir a petição inicial ou a contestação com os documentos que entende aptos à comprovação de suas alegações, conforme a dicção do art. 434 do CPC/2015. Tal regra encontra exceção quando, após o ajuizamento da ação, surgirem documentos novos (assim considerados aqueles decorrentes de fatos supervenientes aos articulados ou os destinados a contrapor prova posteriormente produzida nos autos), nos termos do art. 435 do CPC/2015" (AgInt no AREsp n. 1.781.313/PR, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 29/3/2021, DJe de 5/4/2021).
+Confira-se o seguinte julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A redefinição do enquadramento jurídico dos fatos expressamente mencionados no acórdão hostilizado constitui mera revaloração, afastando a incidência da Súmula 7 desta Corte Superior.
+1.1. "A regra prevista no art. 396 do CPC/73 (art. 434 do CPC/2015), segundo a qual incumbe à parte instruir a inicial ou a contestação com os documentos que forem necessários para provar o direito alegado, somente pode ser excepcionada se, após o ajuizamento da ação, surgirem documentos novos, ou seja, decorrentes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior, nos termos do art. 397 do CPC/73 (art. 435 do CPC/2015)" (AgInt no AREsp 1734438/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/03/2021, DJe 07/04/2021).
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.987.680/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+No tocante aos danos morais, a Corte local assim se manifestou (e-STJ, fl. 1.192, sem destaque no original):
+Também não merece acolhida a alegação de cerceamento de defesa ao fundamento de que os danos morais seriam comprovados em audiência, mediante a oitiva do síndico e demais testemunhas a serem arroladas.
+Primeiramente, sobreleva mencionar que ação foi ajuizada por empresa (pessoa jurídica), de modo que não há espaço para argumentações alusivas à suposta humilhação a que foi submetido o representante da autora (pessoa física) por ter sido impedido de participar da assembleia condominial.
+Em se tratando de pedido de indenização por dano moral formulado por pessoa jurídica, cabe demonstrar ofensa à honra objetiva, ou seja, à imagem que possui perante à sociedade e clientela, ao seu bom nome.
+( )
+Sucede que a análise da ocorrência de dano ocasionado pela conduta da ré (impedir a participação da autora na assembleia por conta de inadimplência de débitos condominiais) somente se justificaria se, antes disso, fosse demonstrada a prática de ato ilícito, com a presença de todos os pressupostos caracterizadores da responsabilidade civil (ato ilícito, dano e nexo de causalidade). Sendo que, no caso, não ficou evidenciada a prática de ato ilícito pelo condomínio réu.
+Conforme expressamente abordado na sentença, a existência de inúmeras ações entre as partes, discutindo justamente a responsabilidade pelo pagamento das taxas condominiais em atraso, demonstra que à época da realização da assembleia havia intensa controvérsia nesse sentido. E o fato de que em muitas dessas demandas o condomínio se sagrou vencedor (Apelação nº 0080167- 77.2009.8.24.0023, rel. Osmar Nunes Júnior, Sétima Câmara de Direito Civil, j. 25/8/2022) evidencia que efetivamente a questão não é pacífica, o que afasta a possibilidade de se reconhecer qualquer abuso de direito por parte do apelado.
+Desse modo, diante da ausência de ato ilícito, desnecessária qualquer incursão ou análise a respeito da ocorrência, ou não, de dano decorrente da conduta do condomínio réu.
+Destarte, a Corte local concluiu pela ausência de qualquer ato ilícito por parte do condomínio. Portanto, não teria ficado minimamente comprovado o suposto dano moral decorrente da conduta do agravado.
+Essas premissas foram extraídas da análise fático-probatória da demanda, a ocasionar a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional. Não se nota intenção por mera qualificação jurídica de fatos e provas, mas sua reapreciação, o que é mesmo vedado a esta Corte Superior.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Cabe ao juiz, como destinatário da prova, indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa.
+Rever as conclusões do órgão julgador quanto à suficiência das provas apresentadas demanda o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+(..)
+7. A revisão do fundamento que ensejou a improcedência do pedido de indenização/compensação por dano moral à pessoa jurídica autora, qual seja, a inexistência de abalo à honra objetiva, exige o reexame de conteúdo fático-probatório constante dos autos, inviável por esta via especial, ante o óbice do enunciado da Súmula 7 desta Corte.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.358.169/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO VISLUMBRADA. CERCEAMENTO DE DEFESA COM O JULGAMENTO ANTECIPADO DA LIDE. NÃO OCORRÊNCIA. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE DANOS MORAIS. INEXISTÊNCIA DE OFENSA À HONRA OBJETIVA DA PESSOA JURÍDICA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
