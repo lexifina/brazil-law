@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por AUTO TÉCNICA PRESIDENTE LTDA. (AUTO TÉCNICA), em demanda em que contende com o BANCO SANTANDER (SANTANDER), contra o acórdão da relatoria da Ministra MARIA ISABEL GALLOTTI, prolatado pela Quarta Turma do STJ, assim ementado:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO AO CÁLCULO DA CONTADORIA/PERÍCIA. TAXA SELIC. PRECEDENTES. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, "A taxa de juros moratórios a que se refere o art. 406 do Código Civil de 2002 é a SELIC" (AgInt no REsp 1717052/AL, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, D Je 08/03/2019).
+2. Segundo entendimento deste Tribunal Superior, a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício, não caracterizando preclusão consumativa. Precedentes.
+3. Agravo interno a que se nega provimento (e-STJ, fl. 1.652).
+Opostos embargos de declaração foram eles acolhidos parcialmente, mas sem efeitos infringentes (e-STJ, fls. 1.692/1.695).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a interpretação do art. 406 do Código Civil de 2002 sobre qual é a taxa de juros de mora aplicável às dívidas de natureza civil.
+Sustentou a embargante que enquanto o acórdão embargado entendeu que a taxa de juros de mora aplicável é a SELIC, o acórdão paradigma, em sentido contrário, definir em 1% a.m. a taxa de juros incidente sobre obrigação contratual de cobertura securitária de danos patrimoniais.
+Apontou como paradigma julgado da Terceira Turma prolatado no REsp nº 1.943.335/RS, da minha relatoria, julgado aos 14/12/2021 (e-STJ, fls. 1.701/1.782).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a interpretação do art. 406 do Código Civil de 2002, sobre qual é a taxa de juros de mora aplicável às dívidas de natureza civil.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+O acórdão embargado está em consonância com a jurisprudência atual do STJ quanto a incidência da SELIC como a taxa de juros de mora aplicável às dívidas de natureza civil.
+A propósito, confira-se o precedente da Corte Especial que pacificou o tema:
+CIVIL. RECURSO ESPECIAL. INTERPRETAÇÃO DO ART. 406 DO CÓDIGO CIVIL. RELAÇÕES CIVIS. JUROS MORATÓRIOS. TAXA LEGAL. APLICAÇÃO DA SELIC. RECURSO PROVIDO.
+1. O art. 406 do Código Civil de 2002 deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa "em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional".
+2. A SELIC é taxa que vigora para a mora dos impostos federais, sendo também o principal índice oficial macroeconômico, definido e prestigiado pela Constituição Federal, pelas Leis de Direito Econômico e Tributário e pelas autoridades competentes. Esse indexador vigora para todo o sistema financeiro-tributário pátrio.
+Assim, todos os credores e devedores de obrigações civis comuns devem, também, submeter-se ao referido índice, por força do art. 406 do CC.
+3. O art. 13 da Lei 9.065/95, ao alterar o teor do art. 84, I, da Lei 8.981/95, determinou que, a partir de 1º de abril de 1995, os juros moratórios "serão equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC para títulos federais, acumulada mensalmente".
+4. Após o advento da Emenda Constitucional 113, de 8 de dezembro de 2021, a SELIC é, agora também constitucionalmente, prevista como única taxa em vigor para a atualização monetária e compensação da mora em todas as demandas que envolvem a Fazenda Pública. Desse modo, está ainda mais ressaltada e obrigatória a incidência da taxa SELIC na correção monetária e na mora, conjuntamente, sobre o pagamento de impostos devidos à Fazenda Nacional, sendo, pois, inconteste sua aplicação ao disposto no art. 406 do Código Civil de 2002.
+5. O Poder Judiciário brasileiro não pode ficar desatento aos cuidados com uma economia estabilizada a duras penas, após longo período de inflação galopante, prestigiando as concepções do sistema antigo de índices próprios e independentes de correção monetária e de juros moratórios, justificável para uma economia de elevadas espirais inflacionárias, o que já não é mais o caso do Brasil, pois, desde a implantação do padrão monetário do Real, vive-se um cenário de inflação relativamente bem controlada.
+6. É inaplicável às dívidas civis a taxa de juros moratórios prevista no art. 161, § 1º, do CTN, porquanto este dispositivo trata do inadimplemento do crédito tributário em geral. Diferentemente, a norma do art. 406 do CC determina mais especificamente a fixação dos juros pela taxa aplicável à mora de pagamento dos impostos federais, espécie do gênero tributo.
+7. Tal entendimento já havia sido afirmado por esta Corte Especial, por ocasião do julgamento do EREsp 727.842/SP, no qual se deu provimento àqueles embargos de divergência justamente para alinhar a jurisprudência dos Órgãos Colegiados internos, no sentido de que "a taxa dos juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, por ser ela a que incide como juros moratórios dos tributos federais" (Rel. Min. TEORI ALBINO ZAVASCKI, julgado em 8/9/2008 e publicado no DJe de 20/11/2008). Deve-se reafirmar esta jurisprudência, mantendo-a estável e coerente com o sistema normativo em vigor.
+8. Recurso especial provido.
+(REsp nº 1.795.982/SP, relator Ministro LUIS FELIPE SALOMÃO, relator para acórdão Ministro RAUL ARAÚJO, Corte Especial, j. 21/8/2024, DJe de 23/10/2024)
+Desse modo, considerando que o acórdão embargado se baseou em entendimento pacificado por esta Corte Superior, incide no caso o óbice da Súmula nº 168 do STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de dissenso do acórdão embargado com a jurisprudência desta Corte Superior.
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Deixo de majorar os honorários advocatícios com fundamento no art. 85, § 11, do CPC, porque este recurso é oriundo de acórdão proferido por ocasião do julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. JUROS MORATÓRIOS. TAXA SELIC. ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA Nº 168 DO STJ. EMBARGOS REJEITADOS LIMINARMENTE.
