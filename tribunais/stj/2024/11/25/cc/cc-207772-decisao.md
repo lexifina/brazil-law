@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo JUÍZO FEDERAL DA 1A VARA DE SÃO LUÍS - SJ/MA, tendo por suscitado o JUÍZO FEDERAL DA 9A VARA CRIMINAL DE SÃO PAULO - SJ/SP .
+O juízo suscitante afirma, em suma, que "não há conexão probatória a justificar a reunião dos processos. Isso porque o Inquérito Policial n.º 2021.0036506-SR/PF/MA foi instaurado a partir de representação fiscal para fins penais proveniente da Receita Federal do Brasil, visando apurar a ocorrência do crime de descaminho (CP, artigo 34) supostamente cometido pelos representantes da empresa NEW MAGIC COMERCIO DE VESTUÁRIOS EIRELI (CNPJ 17.272.572/0001-22). Porém, encerradas as investigações, concluiu-se que não ocorreu o crime de descaminho, uma vez que os produtos apreendidos foram adquiridos em território nacional junto à empresa MYX COMERCIAL IMPORTACAO E EXPORTACAO EIRELI, motivo pelo qual o Inquérito Policial n.º 2021.0036506-SR/PF/MA (Processo PJE n.º 1043989-94.2021.4.01.3700) foi arquivado neste juízo. " (e-STJ Fl. 101)
+O Ministério Público Federal manifesta-se pelo acolhimento das razões invocadas pelo suscitante. (e-STJ Fl. 107-110)
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais federais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+Sabe-se que, nos termos do art. 70 do CPP, a competência será de regra determinada pelo lugar em que se consumou a infração.
+No presente feito, contudo, o juízo suscitado aduzIU a ocorrência de conexão.
+O Código Processual Penal define as regras da conexão em seu art. 76, que assim estabelece:
+Art. 76. A competência será determinada pela conexão:
+I - se, ocorrendo duas ou mais infrações, houverem sido praticadas, ao mesmo tempo, por várias pessoas reunidas, ou por várias pessoas em concurso, embora diverso o tempo e o lugar, ou por várias pessoas, umas contra as outras;
+II - se, no mesmo caso, houverem sido umas praticadas para facilitar ou ocultar as outras, ou para conseguir impunidade ou vantagem em relação a qualquer delas;
+III - quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração.
+Trata-se, no inciso I, de conexão intersubjetiva por simultaneidade (no mesmo tempo, por várias pessoas reunidas), concurso (várias pessoas em concurso, embora diverso o tempo e o lugar) ou reciprocidade (várias pessoas, umas contra as outras).
+No inciso II, a seu turno, afere-se a conexão objetiva, também conhecida como consequencial, lógica ou teleológica, onde, mesmo sem liame antecedente entre os agentes, o resultado de uma infração facilita, oculta ou garante a impunidade de outra.
+Por fim, no inciso III, cuida-se da conexão instrumental ou processual, na qual os casos são unidos quando a prova de uma infração contribui de alguma forma para provar outra, ou quando as circunstâncias de uma infração ajudam a provar outra.
+A relação havida entre o delito de lavagem e o crime que lhe antecede é, em geral, de natureza objetiva, dispondo a Lei nº 9.613/98, expressamente, em seu art. 2º, II, que cabe "ao juiz competente para os crimes previstos nesta Lei a decisão sobre a unidade de processo e julgamento".
+No presente feito, contudo, o juízo suscitante apontou não só o arquivamento do suposto crime antecedente, mas também a ausência de conexão entre os fatos investigados.
+Efetivamente, é cediço que "(..) A prorrogação de competência, por força de conexão probatória, é aceita quando houver dependência ou vínculo existente entre os fatos, desde que formem uma espécie de unidade, para que o julgador tenha visão uniforme do quadro probatório, evitando-se decisões díspares.(..)" (RHC 93.295/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/08/2018, DJe 28/08/2018)
+A análise dos autos indica que inexistem elementos que sustentem a reunião por conexão no juízo prevento, em especial porque sobrevindo o trânsito em julgado da ação antecedente, não se pode cogitar da reunião de processos, na forma do § 1º , do art. 55 , do CPC c/c art. 3ºdo CPP, conforme farta jurisprudência desta corte (p. ex. o CC n. 161.003/SP, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 14/8/2019, DJe de 22/8/2019).
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o JUÍZO FEDERAL DA 9A VARA CRIMINAL DE SÃO PAULO - SJ/SP, o Suscitado, para processar e decidir o Inquérito Policial de nº 5001306-72.2023.4.03.6181.
+Publique-se. Intimem-se.
+EMENTA
