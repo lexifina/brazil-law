@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCIO JOSE CAPETTI apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500059-69.2022.8.26.0574).
+Depreende-se dos autos que o paciente foi condenado à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, como incurso no art. 33, § 4º, da Lei n. 11.343/2006, ante a apreensão de cerca de 22g (vinte e dois gramas) de cocaína.
+Irresignada, a defesa interpôs apelação, tendo o Tribunal de origem dado parcial provimento ao recurso para redimensionar a pena para 4 anos e 2 meses de reclusão, conforme acórdão ementado à e-STJ fl. 15.
+Daí o presente writ, no qual a defesa alega que o acusado sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada. Argumenta, no ponto, ser devida a incidência da minorante do tráfico privilegiado na fração de 2/3.
+Assim, requer, inclusive liminarmente, o refazimento da terceira etapa da dosimetria.
+É o relatório.
+Decido.
+Cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+Com relação à controvérsia em questão, assim se manifestou a Corte de origem (e-STJ fls. 22/23, grifei):
+Assim, para afastar a ocorrência de bis in idem, de rigor a redução das bases para o linde inferior, vale dizer, em 05 anos de reclusão e 500 dias-multa, no piso, mantidas na segunda fase diante da ausência de agravantes e atenuantes.
+Na terceira fase, o d. Magistrado a quo aplicou o benefício do redutor (art. 33, § 4º, da Lei nº 11.343/06), em grau 1/6, reduzidas agora as penas para 04 (quatro) anos e 02 (dois) meses de reclusão e 416 dias-multa, no piso legal, tornando-as definitivas, o que está de acordo com a condição do acusado, primário, sem antecedentes, apesar da elevada quantidade de entorpecentes apreendidos, além de sua nocividade, o que impediria a concessão do benefício em maior grau, considerado aqui o teor do artigo 42 da Lei de Drogas.
+Por fim, bem aplicado o regime semiaberto na hipótese diante do quantum da reprimenda, observado o teor da Súmula Vinculante nº 59 aprovada pelo STF, segundo a qual "É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/06) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP), observados os requisitos do art. 33, § 2º, alínea c, e do art. 44, ambos do Código Penal.".
+Também se afigura descabido falar em substituição da pena corporal por restritivas de direitos, porque não recomendável, ausentes os requisitos legais (art. 44 do CP).
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Nos termos do aludido dispositivo legal, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+N o caso, assiste razão à defesa, uma vez que a quantidade de droga apreendida - cerca de 22g (vinte e dois gramas) de cocaína - não se mostra significativa o suficiente para amparar a não aplicação da minorante na fração de 2/3.
+Ilustrativamente, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO VERIFICADA. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO EM 2/3. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. São cabíveis os embargos de declaração quando evidenciada deficiência no acórdão recorrido diante de efetiva obscuridade, contradição, ambiguidade ou omissão, conforme preceitua o art. 619 do CPP, o que configurou-se na hipótese.
+2. Ocorrendo o trânsito em julgado da condenação, junto à instância ordinária, é indevida a impetração de habeas corpus diretamente no STJ, cuja competência prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados. Contudo, ressalvam-se casos de flagrante ilegalidade, a qual autoriza a concessão da ordem de ofício.
+3. A quantidade não expressiva de drogas e a ausência de elementos que permitam concluir, sem sombra de dúvida, que o acusado se dedica a atividade criminosa ou pertence a organização desta espécie, exigem a aplicação da minorante do tráfico privilegiado em patamar máximo (2/3).
+4. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgRg no HC n. 722.090/RN, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 14/2/2023, DJe de 17/2/2023, grifei.)
+Assim, presentes os requisitos legais, faço incidir a minorante do tráfico privilegiado de drogas na fração de 2/3, o que reduz a pena definitiva a 1 ano e 8 meses de reclusão.
+Do regime inicial de cumprimento da pena
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis, a primariedade e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Assim, tendo em vista a primariedade do paciente, o quantum de pena definitiva e a ausência de circunstâncias judiciais desvaloradas na primeira etapa da dosimetria, é adequado o regime inicial aberto.
+Por fim, preenchidos os requisitos do art. 44 do CP, mormente em função da análise favorável das circunstâncias judiciais, o acusado faz jus à substituição da pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo da execução penal.
+Ante o exposto, concedo liminarmente a ordem de habeas corpus para redimensionar a reprimenda do paciente para 1 ano e 8 meses de reclusão, no regime inicial aberto, substituída a pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo da execução penal, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
