@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por THOMAS SILVA SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que negou seguimento ao recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, e multa, pela prática do delito previsto no art. 33, caput, da Lei de Drogas.
+A defesa apresentou recurso de apelação perante o Tribunal de origem, o qual lhe negou provimento, em acórdão assim ementado (e-STJ fls. 317/318):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. RECURSO DA DEFESA. MATERIALIDADE E AUTORIA. COMPROVADAS. CONDENAÇÃO MANTIDA. COMPROVAÇÃO. COMERCIALIZAÇÃO. SENTENÇA MANTIDA.
+1. Demonstradas a materialidade e a autoria do crime de tráfico de drogas, conforme auto de prisão em flagrante, laudo de exame químico positivo, forma de armazenamento do material no momento da apreensão e depoimento coeso das testemunhas policiais que participaram da prisão do réu - cuja presunção de veracidade não foi desconstituída -, mantém-se o decreto condenatório pela conduta do art. 33, "caput", da Lei n.º 11.343/06.
+2. Sobre a fração a ser aplicada na primeira fase da dosimetria, o entendimento jurisprudencial é no sentido de que, para cada circunstância judicial desfavorável prevista no art. 59, caput, do Código Penal, soma-se 1/8, uma vez que há 8 (oito) delas relacionadas no artigo, calculado sobre o termo médio e aplicado a partir da pena mínima em abstrato.
+3. Nos termos do Tema Repetitivo 1172-STJ: "A reincidência específica como único fundamento só justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso". Assim, não existe razão para se quantificar abaixo do teto mínimo de 1/6 a causa agravante da reincidência.
+4. Recurso da Defesa conhecido e desprovido.
+No recurso especial, interposto com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou que a conduta do réu deveria ser desclassificada para o art. 28 da Lei de Drogas.
+Apontou que a pena-base teria sido exasperada não obstante a pequena quantidade de entorpecente apreendido.
+Afirmou que a reprimenda inicial teria sido aumentada de maneira desproporcional.
+O recurso especial foi inadmitido pela aplicação das Súmulas n. 7 e 83, ambas do STJ (e-STJ fls. 390/393).
+Daí o presente agravo em recurso especial, no qual a defesa aponta que não se discute o reexame de fatos, mas apenas a correta aplicação da norma jurídica ao fato.
+Aduz, ainda, a necessidade de fundamentos concretos para a fixação da pena-base em 1/8 do intervalo entre a pena mínima e máxima.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+É o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+O Tribunal de origem, ao manter a condenação do agravante, consignou que (e-STJ fls. 337/339):
+Em juízo, o condutor do flagrante - PMDF BERNARDO - esclarece a justa causa para a TORRES FROSSARD DE ALMEIDA abordagem (ID 56409980):
+"QUE patrulhava o local, o qual é conhecido ponto de tráfico de drogas; QUE visualizou e abordou alguns rapazes; QUE, ao emitir comando de parada, SANDRO prontamente colocou as mãos na cabeça; QUE o acusado dispensou um objeto antes QUE, na busca pessoal, nada dede cumprir o procedimento; ilícito foi encontrado, somente dinheiro com o acusado; QUE, na busca no perímetro, houve a localização de uma porção de crack; QUE SANDRO afirmou que foi abordado pelo acusado lhe oferecendo droga, quando decidiu adquirir uma porção de crack por dez reais no exato momento que foram abordados pelos policiais;"  s. n.
+A testemunha presencial - PMDF ALEXANDRE (ID 56409981) - sob o crivo do contraditório, RODRIGUES CRUZ reforça a dispersão da droga e a "venda" de uma pedra de crack para SANDRO por dez reais.
+Destaca-se que a versão deduzida no interrogatório judicial: "QUE realmente estava no local fumando maconha, quando foi surpreendido pelos policiais, ficou com medo e ;arremessou a maconha  ..  , QUE tinha saído da escola, portava apenas o dinheiro da ;"  (ID 56409982) - é contraditória e se distancia das passagem s. n. conclusões do Laudo de Perícia Criminal: Exame Físico-Químico (ID 56409986) e do suporte fático: R$ 113,00 (ID 56409127).
+Como é cediço, compete ao Magistrado, destinatário e intérprete das provas - e, por conseguinte, o ator que detém as melhores condições de avaliá-las - definir o alcance de seu valor e credibilidade dentro do suporte probatório, notadamente a prova oral: linguagem verbal e não verbal. Assim, ao valorar a prova testemunhal, o Juiz sopesando o acervo documental, é capaz de avaliar o depoente em si (avaliação subjetiva) e o conteúdo (avaliação objetiva).
+Realçando a higidez da abordagem policial, as provas dos autos revelam que os depoimentos prestados pelos policiais responsáveis pela prisão em flagrante, tanto do condutor - PMDF (ID 56409980), BERNARDO TORRES FROSSARD DE ALMEIDA quanto da testemunha presencial - PMDF ALEXANDRE RODRIGUES CRUZ (ID 56409981), são hígidos e harmônicos, não existindo prova capaz de afastar a idoneidade das declarações prestadas por esses agentes.
+Em reforço, com as devidas adaptações:
+ ..
+Rememore-se que o delito do art. 33, "caput", da Lei n. 11.343/06 e ação múltipla ou de conteúdo variado, bastando, pois, para a sua consumação, a prática de quaisquer das ações ali descritas, a saber: "adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar".
+Sob esse panorama, a dinâmica em que se desenvolveu a conduta ilícita, não permite a desclassificação para o crime de uso, previsto no Art. 28 da Lei n. 11.343/06.
+Ressalte-se que a circunstância de o Acusado também ser usuário de drogas não torna incompatível suas responsabilizações também pelo crime de tráfico.
+ ..
+Logo, é de se manter o decreto condenatório que julgou procedente a pretensão punitiva estatal pela figura do Art. 33, (tráfico de drogas)."caput", da Lei n. 11.343/2006.
+Observa-se que a condenação foi mantida com indicação de elementos concretos baseados em prova produzida em inquérito e em juízo, de modo que a alteração da conclusão das instâncias de origem demandaria incursão em elementos de fatos e provas, o que é vedado pelo enunciado sumular 7 desta Corte Superior.
+No tocante ao pedido de redução da pena-base, assiste razão à defesa.
+Consoante dispõe o art. 42 da Lei n. 11.343/2006, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Não constitui demasia enfatizar, no particular, que, "como se trata de crime contra a saúde pública, quanto mais nociva a substância ou quanto maior a quantidade de droga apreendida, maior será o juízo de censura a recair sobre a conduta delituosa. De fato, não se pode equiparar a conduta daquele indivíduo que é flagrado trazendo consigo um quilograma de maconha com a daquele que é preso com um quilograma de cocaína, já que esta droga tem um caráter viciante e destrutivo bem mais elevado que aquela" (LIMA. Renato Brasileiro. Legislação Criminal Especial Comentada. Salvador: editora Juspodivm. 2015, p. 808).
+A jurisprudência desta Casa é pacífica nesse sentido, senão vejamos:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DO VERBETE N. 7 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ATENUANTE DA MENORIDADE. PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. ENUNCIADO N. 231 DO STJ. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. CAUSA DE AUMENTO PELA TRANSNACIONALIDADE DO DELITO. BIS IN IDEM. INOCORRÊNCIA. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DOS REQUISITOS DO ART. 44, I, DO CÓDIGO PENAL - CP. REPRIMENDA SUPERIOR A 4 ANOS. AGRAVO REGIMENTAL DESPROVIDO.
+- A fixação da pena-base em patamar acima do mínimo legal foi devidamente fundamentada pelas instâncias ordinárias que, a teor do art. 42 da Lei n. 11.343/2006, consideraram, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da droga apreendida (3,5kg de cocaína).
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 487.774/SP, relator Ministro Ericson Maranho, Desembargador convocado do TJSP, Sexta Turma, julgado em 6/8/2015, DJe 28/8/2015, grifei.)
+No caso do autos, contudo, conquanto a pena-base tenha sido estabelecida acima do mínimo em consideração à natureza do entorpecente apreendido, em observância ao disposto no art. 42 da Lei n. 11.343./2006, verifico que tal exasperação mostrou-se desproporcional, sobretudo em razão da quantidade de drogas apreendidas - 5,83g (cinco gramas e oitenta e três centigramas) de crack -, que não se revela expressiva o suficiente a justificar a negativação da referida vetorial.
+Diante desse cenário, entendo que o aumento operado na primeira etapa da dosimetria deve ser afastado.
+Ilustrativamente:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. PENA-BASE. NOCIVIDADE DAS DROGAS APREENDIDAS. CRACK E COCAÍNA. QUANTIDADES PEQUENAS. FUNDAMENTO INIDÔNEO A JUSTIFICAR A EXASPERAÇÃO DA SANÇÃO INICIAL. MAUS ANTECEDENTES. CONDENAÇÕES PRETÉRITAS ATINGIDAS PELO PERÍODO DEPURADOR. POSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. Este Superior Tribunal de justiça firmou entendimento no sentido de que o art. 42 da Lei de Drogas permite o aumento da pena-base com fundamento na quantidade e natureza do entorpecente apreendido, de forma que esses dois quesitos devem ser interpretados em conjunto. Assim, a apreensão de pequena quantidade de cocaína, não obstante seja considerada uma das mais nocivas, não justifica, por si só, o aumento da reprimenda na primeira fase da dosimetria.
+2. A jurisprudência desta Corte superior entende que condenações anteriores transitadas em julgado, alcançadas pelo período depurador de 5 anos, consoante o art. 64, I, do CP, embora afastem os efeitos da reincidência, não impedem, em princípio, a configuração de maus antecedentes, permitindo o incremento da sanção inicial.
+3. Agravo regimental parcialmente provido para reduzir a reprimenda dos recorrentes a 6 anos, 9 meses e 20 dias de reclusão, mais 680 dias-multa.
+(AgInt no HC n. 403.668/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/11/2017, DJe 14/11/2017, grifei.)
+Assim, a pena-base deve ser reduzida ao mínimo legal, qual seja, 5 anos de reclusão, e multa, a qual aumenta-se em 1/6 pela agravante da reincidência, restando a sanção de 5 anos e 10 meses de reclusão, e multa, e que, à míngua de outras causas modificativas, torna-se definitiva.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e prover-lhe parcialmente, nos termos acima.
+Publique-se. Intimem-se.
+EMENTA
