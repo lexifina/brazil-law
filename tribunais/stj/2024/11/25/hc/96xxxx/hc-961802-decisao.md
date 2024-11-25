@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO PACIENTE. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO INSUFICIENTES. SUPRESSÃO DE INSTÂNCIA. ORDEM DENEGADA.
+I . Caso em Exame
+1. Habeas corpus impetrado em favor de Bruno dos Santos Beserra, preso preventivamente pela prática de homicídio qualificado (art. 121, § 2º, IV, do CP). Alega-se ausência de fundamentação concreta da prisão e a possibilidade de aplicação de medidas cautelares diversas.
+II. Questão em Discussão
+2. A questão consiste em saber se a decisão que decretou a prisão preventiva foi devidamente fundamentada e se as medidas cautelares previstas no art. 319 do CPP seriam suficientes para garantir a ordem pública.
+III. Razões de Decidir
+3. A prisão preventiva foi decretada com base na gravidade concreta do delito e na periculosidade do paciente, que estava monitorado eletronicamente no momento do crime. A fundamentação da decisão é idônea e não se mostra ilegal.
+4. A existência de condições pessoais favoráveis não impede a manutenção da prisão preventiva quando presentes os requisitos do art. 312 do CPP. Ademais, a análise sobre a aplicação de medidas cautelares diversas não foi apreciada na instância inferior, configurando supressão de instância.
+IV. Dispositivo e Tese
+5. Ordem parcialmente conhecida e denegada. Tese de julgamento: "A prisão preventiva deve ser mantida quando há fundamentação concreta baseada na gravidade do delito e na periculosidade do agente, sendo inadequadas medidas cautelares diversas da prisão."
+Imputa-se ao paciente a prática do crime de homicídio qualificado, crime previsto no art. 121, § 2º, IV, do Código Penal.
+A defesa alega, em síntese:
+a) a decretação da prisão preventiva foi desprovida de fundamentação, pois não traz indícios concretos de que a soltura do paciente implicaria ofensa à garantia da ordem pública, à conveniência da instrução criminal e à aplicação da lei penal;
+b) ausência de fundamentação concreta para indeferir a substituição da prisão por medidas cautelares diversas, em inobservância ao art. 282, § 6º, do CPP;
+Ao final, requer a concessão da ordem para que a prisão seja substituída por medidas cautelares diversas, previstas no art. 319 do CPP.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+No caso, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a manutenção da prisão preventiva seria necessária para garantia da ordem pública, em razão da gravidade em concreto do crime supostamente praticado, e para evitar a evitar a reiteração delitiva, considerando que o paciente estaria em cumprimento de medida cautelar no momento da suposta prática delitiva.
+Destaca-se que esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, RESISTÊNCIA E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE DO FATO. MEDIDAS CAUTELARES. INVIABILIADADE. AGRAVO DESPROVIDO.
+1. Havendo prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, a custódia cautelar está suficientemente fundamentada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do réu está evidenciada no modus operandi do ato criminoso. Com efeito, o recorrente, juntamente com outros indivíduos, teria tentado matar policiais militares, mediante disparos de arma de fogo, durante patrulhamento na Comunidade do Viradouro/RJ. Com os acusados foram apreendidos arma de fogo e radiotransmissor.
+3. Diante desse contexto, tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do recorrente indicam que a ordem pública não estaria acautelada com sua soltura, ainda mais quando há notícias de que violou o monitoramento eletrônico.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 193.748/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - No caso, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta, consistente em tentativa de homicídio qualificado; haja vista que, em tese, o Agravante teria concorrido para a empreitada criminosa perpetrada com o objetivo de ceifar a vida da vítima; não se olvidando o risco de reiteração criminosa, constando nos autos que ele -possui a ação de nº 1012284-06.2022.8.11.0055 em andamento, pela suposta prática do crime previsto no artigo 14, caput, da Lei 10.826/03, bem como possui Inquérito Policial de nº 1013605-76.2022.8.11.0055, por indícios a prática do crime de roubo-. Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública. Precedente.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 915.175/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+Por fim, esta Corte entende que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendim ento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
