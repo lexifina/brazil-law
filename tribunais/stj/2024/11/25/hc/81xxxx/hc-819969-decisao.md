@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de YURI ORCINO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento ao apelo defensivo, mantendo a condenação do paciente à pena de 9 anos e 4 meses de reclusão em regime inicial fechado e 1.383 dias multa, como incurso nos artigos 33 e 35 da Lei n. 11.343/2006.
+A defesa requer a absolvição do paciente, arguindo diversas ilegalidades praticadas pelos policiais durante a diligência que levou à prisão do acusado. Subsidiariamente, pugna pelo redimensionamento da pena (e-STJ fls. 3-41).
+A liminar foi indeferida (e-STJ fls. 896-898).
+As informações foram prestadas (e-STJ fls. 919-974).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fl. 976).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus.
+Verifico que algumas teses suscitadas no presente habeas corpus - de "nulidade quanto a busca veicular e pessoal" e de "invasão domiciliar no imóvel do paciente" - não foram apresentadas na apelação defensiva e tampouco apreciadas pelo acórdão impugnado, tratando-se de teses inovadoras suscitadas diretamente nesta Corte, o que torna inviável a sua análise diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Nesse sentido:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. NULIDADE DAS PROVAS. ALEGADA VIOLAÇÃO DE DOMICÍLIO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado como substitutivo de revisão criminal contra decisão transitada em julgado, buscando efeitos similares aos da revisão criminal. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste na possibilidade de conhecimento de habeas corpus substitutivo de revisão criminal em face de decisão transitada em julgado e; na possibilidade de análise da controvérsia quando ausente manifestação na instância de origem. III. RAZÕES DE DECIDIR
+3. A competência do tribunal para revisão criminal limita-se aos seus próprios julgados, conforme art. 105, I, e, da CF.
+6. A ausência de matéria elencada no art. 621 do CPP impede o conhecimento do writ.
+4. A questão acerca da nulidade das provas decorrentes de alegada violação de domicílio não foi debatida na instância de origem, configurando supressão de instância.
+IV. HABEAS CORPUS NÃO CONHECIDO."
+(HC n. 778.328/MA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 21/10/2024)
+Em relação às demais questões suscitadas no presente habeas corpus substitutivo de revisão criminal, a pretensão da defesa é o mero reexame de teses já arguidas e apreciadas no julgamento da apelação criminal, o que não é admissível na via estreita do habeas corpus, remédio constitucional de rito célere e cognição sumária.
+Com efeito, "o Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes" (HC n. 206.847/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe de 25/2/2016).
+Da mesma forma, esta Corte vem entendendo que, em respeito à coisa julgada e à segurança jurídica, bem como em atenção ao dever de lealdade processual e à boa-fé objetiva, mesmo em se tratando de alegada nulidade absoluta, o habeas corpus não pode ser manejado como uma segunda apelação criminal, como intenta a defesa no presente feito. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ALEGADA NULIDADE DA ABORDAGEM POLICIAL. CONDENAÇÃO TRANSITADA EM JULGADO. INADMISSIBILIDADE DO WRIT. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - O trânsito da decisão condenatória impede a impetração de habeas corpus ou a interposição de recurso ordinário perante esta Corte, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal, restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados. Precedentes.
+III - Acerca da preclusão da matéria, já conhecida pela defesa quando do processo principal, esta Corte Superior entende, sob o prisma do princípio da lealdade processual e do respeito à coisa julgada (segurança jurídica), que mesmo se tratando de alegada nulidade absoluta, o habeas corpus não pode ser utilizado como uma segunda apelação criminal, como deseja a defesa neste feito.
+Agravo regimental desprovido.
+(AgRg no HC n. 919.606/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 16/9/2024)
+Ademais, como bem salientado pelo Ministério Público Federal em seu parecer, "a decisão recorrida transitou em julgado no dia 05/04/2018 e não comporta reparos, uma vez que se encontra devidamente fundamentada, havendo provas suficientes de autoria e materialidade dos crimes praticados (tráfico e associação para o tráfico). As teses de invasão de domicílio, ausência de justo motivo na busca pessoal e acesso indevidos a dados telemáticos já foram analisadas e afastadas pelas instâncias anteriores. Por fim, mas não menos importante, o presente habeas corpus, cuja análise é célere e não exauriente, não é a ferramenta processual adequada para desconstituição da decisão vergastada" (e-STJ fl. 976). Nesse sentido:
+"A condenação do agravante transitou em julgado em 11/6/2018 sem que houvesse alegação de nulidade processual. Em observância aos postulados da segurança jurídica e da lealdade processual, o tempo decorrido não pode ser tido por razoável, motivo pelo qual fica absolutamente inviável a declaração de qualquer nulidade."
+(AgRg nos EDcl no AgRg no RHC n. 151.275/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
