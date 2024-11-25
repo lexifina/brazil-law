@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. SEGURO. AÇÃO DE COBRANÇA. DOENÇA DEGENERATIVA. AGRAVAMENTO PELAS CONDIÇÕES DA ATIVIDADE EXERCIDA. INVALIDEZ NÃO COMPROVADA NOS MOLDES DA APÓLICE. DECISÃO REFORMADA. RECURSO PROVIDO.
+1. A cláusula que exclui doenças profissionais do conceito de acidente pessoal é válida, não sendo possível equiparar microtraumas repetitivos a acidente pessoal.
+2. A cláusula que condiciona a cobertura de invalidez funcional permanente total por doença à perda da existência independente do segurado é considerada legal.
+3. Agravo interno provido para se conhecer do recurso especial e dar-lhe provimento para restabelecer a sentença.
+RELATÓRIO
+MAPFRE VIDA S.A. interpõe agravo interno contra a decisão de fls. 989-992, que negou provimento ao agravo em recurso especial com base na aplicação da Súmula n. 7 do STJ em relação às alíneas a e c do permissivo constitucional.
+Sustenta que não incide na espécie a referida súmula, porquanto o caso não demanda reexame ou alteração de provas, mas somente a revaloração do acervo probatório constante dos autos para se concluir que não é cabível a condenação ao pagamento do seguro, uma vez que a hipótese não estaria abrangida pela cobertura securitária contratada.
+Acrescenta que "os fatos necessários para a análise do recurso são (a) o estado de saúde do segurado: doença degenerativa; e (b) a cobertura para invalidez total ou parcial por acidente. Conforme apontado pela R. decisão agravada, o E. Tribunal de Justiça a quo apontou que o "evento danoso" tem "origem em doença degenerativa  ..  agravada pelo esforço físico realizado pela parte segurada no desempenho de suas funções no Exército Brasileiro" (e-STJ fls. 991). O mesmo ocorre com o fato de a cobertura contratual ser para "acidente pessoal" (e-STJ fls. 991)" (fl. 999).
+Defende a impossibilidade de equiparação jurídica da doença degenerativa, causa inicial da invalidez permanente, a acidente de trabalho para fins de cobertura securitária por invalidez por acidente, sob pena de esse entendimento violar os arts. 757, 759, 760 e 801 do Código Civil, que estabelecem o pagamento do seguro dentro dos limites em que contratado.
+Alega que, "ao entender equivocadamente que o fato (doença degenerativa agravada em razão da atividade laboral) poderia receber valoração jurídica de acidente, o E. Tribunal de Justiça a quo negou vigência ao disposto nos referidos dispositivos legais" (fl. 1.000).
+Afirma, em relação aos arts. 757 e 759 do CC, que a seguradora somente arcará com o pagamento do prêmio caso ocorra um dos riscos previstos em contrato, situação não abrangida no caso. Ademais, o contrato estabelece, de modo expresso, os riscos assumidos, impedindo a interpretação extensiva para custear outro prejuízo sofrido (art. 760 do CC), limitando-se o ônus da seguradora aos termos do contrato.
+Pondera que o Superior Tribunal de Justiça, em alguns julgados, assentou "ser indevida a equiparação entre a invalidez por doença profissional e a invalidez por acidente para fins securitários" (fl. 1.002), estando evidente o suscitado dissídio jurisprudencial.
+Insurge-se contra a condenação ao pagamento de seguro pela invalidez total, visto que foi reconhecida pelo Tribunal de origem a invalidez somente parcial do segurado, que lhe poderia garantir indenização proporcional ao dano sofrido, situação cuja análise não demanda dilação probatória. Assim, "uma vez reconhecida a invalidez parcial do segurado, o E. Tribunal de Justiça deveria ao menos ter reduzido o valor do capital segurado de acordo com a tabela SUSEP" (fl. 1.005).
+Requer o provimento do recurso para que o acórdão impugnado seja modificado nos termos das razões apresentadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. SEGURO. AÇÃO DE COBRANÇA. DOENÇA DEGENERATIVA. AGRAVAMENTO PELAS CONDIÇÕES DA ATIVIDADE EXERCIDA. INVALIDEZ NÃO COMPROVADA NOS MOLDES DA APÓLICE. DECISÃO REFORMADA. RECURSO PROVIDO.
+1. A cláusula que exclui doenças profissionais do conceito de acidente pessoal é válida, não sendo possível equiparar microtraumas repetitivos a acidente pessoal.
+2. A cláusula que condiciona a cobertura de invalidez funcional permanente total por doença à perda da existência independente do segurado é considerada legal.
+3. Agravo interno provido para se conhecer do recurso especial e dar-lhe provimento para restabelecer a sentença.
+VOTO
+No caso, o ora agravado buscou indenização securitária alegando invalidez permanente causada por acidente. Alternativamente, pleiteou um valor menor caso o acidente não ficasse caracterizado.
+O contrato de seguro prevê coberturas específicas para invalidez total permanente por acidente e invalidez permanente total por doença, desde que o evento seja coberto pela apólice e não esteja entre os riscos excluídos.
+Conforme a sentença, a referida doença não se caracteriza como acidente pessoal nem gera perda de existência independente, de modo que o ora agravado não cumpre os requisitos para cobertura securitária, seja por acidente, seja por doença.
+Confira-se trecho da sentença sobre essa conclusão (fls. 692-694):
+De acordo com o expert, trata-se de "doença degenerativa", "joelhos com alteração anatômica congênita de displasia troquelar associada a excesso de esforço físico" causando "incapacidade parcial e definitiva, apresentando redução de capacidade de esforço físico de ambos joelhos em 25%".
+ ..
+Expresso, no item 2.1, que acidente pessoal configura "evento com data caracterizada, exclusivo e diretamente externo, súbito, involuntário, violento e causador de lesão física que, por si só e independente de toda e qualquer outra causa, tenha como consequência direta a invalidez total do segurado ou que torne necessário tratamento médicos  .. ".
+ ..
+Portanto, na hipótese, em que a conclusão do Perito foi expressa no sentido de que se trata de doença degenerativa e, ainda que tenha afirmado a possibilidade de agravamento da patologia já existente pelas atividades típicas praticadas pelo autor em sua atividade, não há como equipará-la a acidente pessoal para fins de cobertura securitária.
+Em seguimento, o instrumento contratual, ao tratar da "cobertura adicional de invalidez permanente e total funcional por doença (IFPD)" (fl. 209), garante o pagamento antecipado do capital segurado da cobertura de morte, desde que contratado ao próprio segurado, em caso de invalidez permanente e total por doença, durante a vigência do seguro e consequente de doença que cause a perda de sua existência independente sob critérios devidamente especificados no item 4 - RISCOS COBERTOS - desta condição, excetuando-se os riscos excluídos previstos nas condições contratuais, seguro este cujo capital segurado será limitado no contrato e indicado no certificado individual.
+Conforme item 3.1, "a perda da existência independente será caracterizada de quadro clínico incapacitante decorrente de doença que inviabilize de forma irreversível o pleno exercício das relações autonômicas do segurado comprovadas na forma definitiva nas condições gerais e/ou especiais".
+Sob tal cenário, observa-se que a enfermidade apresentada pelo autor de "condropatia patelar bilateral M 22.4" não caracteriza a perda da existência independente, o que, inclusive, foi objeto de apreciação pelo profissional ao responder o item "3.2" dos quesitos apresentados pela parte requerida.
+Todavia, a sentença foi reformada pelo acórdão da apelação, que reconheceu que, apesar da conclusão do laudo pericial, o autor apresenta doença degenerativa, agravada por esforços físicos, e que o fato de as demais enfermidades serem degenerativas não afasta o nexo causal. Observe-se (fls. 801-802):
+Note-se que a perícia realizada em juízo conclui que, embora o evento danoso tenha origem em doença degenerativa, esta foi agravada pelo esforço físico realizado pela parte segurada no desempenho de suas funções no Exército Brasileiro (fls. 315/317).
+ ..
+Dessa forma, além do dano direto provocado pelo trabalho, o fato das demais enfermidades serem degenerativas não afasta o nexo causal explicitado anteriormente, porquanto se trata de concausa preexistente, em que o acidente contribuiu para o agravamento do quadro de saúde, mas a enfermidade, por si só, poderia não teria gerado o evento descrito na inicial, ao menos neste momento.
+A conclusão adotada pelo Tribunal de origem diverge do entendimento do Superior Tribunal de Justiça de que, havendo cláusula expressa que afaste a cobertura de invalidez parcial por doença laboral, é inviável a equiparação desta a acidente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. IMPOSSIBILIDADE DE EQUIPARAÇÃO ENTRE DOENÇA PROFISSIONAL E ACIDENTE PESSOAL. LIMITES DA APÓLICE. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSU LAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de cobrança de indenização securitária.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A jurisprudência desta Corte Superior é no sentido de que a existência de cláusula que exclui as "doenças profissionais" do conceito de acidente pessoal é válida, sendo descabido, nessa hipótese, equiparar os microtraumas repetitivos decorrentes da atividade laboral a um acidente pessoal, para fins de cobertura securitária.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.569.645/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Aliás, conforme orientação firmada no julgamento do Tema n. 1.068 do STJ, não é ilegal ou abusiva a cláusula que estabelece a cobertura adicional de invalidez funcional permanente e total por doença (IFPD) no contrato de seguro de vida em grupo, condicionando o pagamento da indenização ao requisito de perda da autonomia do segurado (independência), devidamente comprovada por laudo médico.
+A propósito:
+RECURSO ESPECIAL REPETITIVO. CIVIL. SEGURO DE VIDA EM GRUPO. ADICIONAL DE COBERTURA POR INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA - IFPD. ARTROSE DEGENERATIVA. INCAPACIDADE PARA A PROFISSÃO. APOSENTADORIA POR INVALIDEZ. INSS. INSUFICIÊNCIA. INVALIDEZ FUNCIONAL. DEFINIÇÃO PRÓPRIA. LEGALIDADE. ATIVIDADES AUTONÔMICAS DA VIDA DIÁRIA. DECLARAÇÃO MÉDICA. NECESSIDADE. INDENIZAÇÃO SECURITÁRIA INDEVIDA.
+ ..
+8. Tese para os fins do art. 1.040 do CPC/2015: Não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado, comprovada por declaração médica.
+9. No caso concreto, recurso especial provido. (REsp n. 1.867.199/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 13/10/2021, DJe de 18/10/2021, destaquei.)
+Ante o exposto, dou provimento ao agravo interno para conhecer do recurso especial e dar-lhe provimento a fim de restabelecer a sentença em todos os seus termos.
+É o voto.
