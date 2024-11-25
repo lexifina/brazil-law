@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra julgado da Presidência que, com amparo no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em razão da aplicação analógica da Súmula n. 182 do STJ.
+O agravante afirma que "houve sim a impugnação específica à Súmula n. 284 Supremo Tribunal Federal e a demonstração de que a interposição do Re- curso Especial não se deu por violação a norma constitucional" (fl. 537).
+Sustenta que em momento algum fundamentou seu recurso especial em violação de norma constitucional, referenciando a Constituição Federal apenas para demonstrar o cabimento e a previsão legal do recurso especial interposto.
+Alega também que não há qualquer deficiência na fundamentação do recurso especial apresentado, cujo objetivo "é garantir a reparação dos danos morais sofridos pelo Agravante, que foi vítima de incontroversa fraude bancária em razão de empréstimo consignado contratado sem seu consentimento" (fl. 538).
+Requer a reforma do decisum agravado para o destrancamento do recurso especial.
+As contrarrazões não foram apresentadas, conforme as certidões de fls. 556-557.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+O recurso especial foi inadmitido pelas seguintes razões: não cabimento de recurso especial em que se alega violação de norma constitucional; aplicação da Súmula n. 284 do STF, porquanto não indicado qualquer dispositivo infraconstitucional violado; e ausência de similitude fática entre os acórdãos comparados para demonstrar o alegado dissídio jurisprudencial.
+O ora agravante interpôs agravo em recurso especial contra a decisão do Tribunal a quo. O Superior Tribunal de Justiç a não conheceu do recurso por concluir que a parte deixara de impugnar o não cabimento de recurso especial em que se alega violação de norma constitucional e a aplicação da Súmula n. 284 do STF.
+Conforme exposto na decisão de fls. 529-530, a parte agravante não contestou adequadamente todos os fundamentos da decisão então agravada, na medida em que, no agravo em recurso especial, limitou-se a alegar que demonstrara a divergência jurisprudencial nos moldes exigidos pela legislação de regência, tendo os acórdãos comparados total similitude fática, a defender a inaplicabilidade da Súmula n. 7 do STJ e a afirmar que teve seu direito à justa reparação por danos morais ceifado, diante da violação dos arts. 186, 187, 927 e 944 do CC e 6º e 14 do CDC.
+Ainda que se possa mitigar o rebatimento específico do fundamento relativo ao não cabimento do recurso especial em que se alega violação de norma constitucional, conforme o entendimento retratado no julgamento do AgInt no AREsp n. 1.389.028/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2019, DJe de 8/5/2019, o que se observa nas razões do agravo em recurso especial apresentado é que, em relação à incidência da Súmula n. 284 do STF e à deficiência de fundamentação afirmada pela decisão denegatória, o referido fundamento nem sequer foi identificado, não sendo, portanto, impugnado.
+Agora, no agravo interno, o agravante afirma "que não há qualquer deficiência na fundamentação do Recurso Especial interposto que não permita a compreensão da controvérsia" (fl. 538), ao argumento de que busca a reparação por danos morais, pois foi vítima de fraude bancária. Alega também que seu recurso especial não foi fundamentado em violação de dispositivos constitucionais, tendo apenas feito referência à Constituição Federal em seu recurso especial para demonstrar o cabimento deste.
+Todavia, referida argumentação deveria ter sido apresentada quando da interposição do agravo em recurso especial.
+Ressalte-se que, segundo entendimento do Superior Tribunal de Justiça, as "razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois, convém frisar, não é admitida a impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa" (AgInt no AREsp n. 2.207.433/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023).
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Portanto, o agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
