@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROSEMERI DA SILVA GAVONSKI contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que negou provimento ao apelo defensivo, mantendo a condenação da paciente à pena de 8 anos e 10 meses de reclusão em regime inicial fechado, como incursa nos artigos 33 e 35 da Lei n. 11.343/2006.
+A defesa requer (e-STJ fls. 3-44).
+A liminar foi indeferida (e-STJ fls. 229-230).
+As informações foram prestadas (e-STJ fls. 236-259).
+O Ministério Público Federal manifestou-se "pelo não conhecimento da ordem" (e-STJ fls. 263-267).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus.
+O acórdão recorrido apresenta extensa fundamentação, suficientemente idônea na apreciação do arcabouço fático e das provas colhidas, para manter a condenação da paciente pelos crimes de tráfico de drogas e de associação para o tráfico. A desconstituição das premissas fáticas adotadas na origem demandaria ampla incursão no conjunto fático-probatório dos autos, o que é vedado em sede de habeas corpus, remédio constitucional de rito célere e cognição sumária. Nesse sentido:
+"O Tribunal a quo concluiu que foram devidamente comprovados os elementos necessários à condenação pelo delito de associação para o tráfico. Portanto, a inversão do julgado, de maneira a fazer prevalecer o pleito absolutório, demandaria revolvimento dos fatos e provas que instruem o caderno processual, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça."
+(AgRg no REsp n. 1.869.383/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/8/2020, DJe de 4/9/2020)
+A elevação da pena-base em razão da quantidade, da natureza e da variedade da droga apreendida está em consonância com o entendimento desta Corte, que se consolidou no sentido de que "a teor do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado" (AgRg no AgRg no AREsp n. 2.695.009/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2024, DJe de 20/9/2024).
+No caso ora analisado, não vislumbro flagrante ilegalidade a ser sanada no que diz respeito ao quantum aplicado a título de exasperação da pena-base, que deve ser mantido.
+Po r fim, não pode ser acolhido o pleito de reconhecimento do tráfico privilegiado, com aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, uma vez que "a condenação por associação para o tráfico de drogas obsta a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, uma vez que demanda a existência de animus associativo estável e permanente da agente no cometimento do delito, evidenciando, assim, a dedicação à atividade criminosa. Precedentes" (AgRg no HC n. 921.351/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
