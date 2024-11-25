@@ -1,0 +1,4 @@
+Resolução Nº 5.184 RESOLUÇÃO CMN Nº 5.184, DE 21 DE NOVEMBRO DE 2024
+Altera a Resolução nº 4.222, de 23 de maio de 2013, e os seus Anexos I e II, que tratam, respectivamente, do Estatuto e do Regulamento do Fundo Garantidor de Créditos – FGC, para incluir, no rol dos instrumentos financeiros objeto da garantia ordinária, a Letra de Crédito do Desenvolvimento – LCD e introduzir aperfeiçoamentos na governança do FGC e na proteção aos depositantes.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 21 de novembro de 2024, com base nos arts. 3º, caput, inciso VI, e 4º, caput, inciso VIII, da referida lei, 5º, caput, inciso III, da Lei nº 14.937, de 26 de julho de 2024, e 28, § 1º, da Lei Complementar nº 101, de 4 de maio de 2000,
+R E S O L V E U :
