@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADILSON FRUTUOSO DE ALMEIDA à decisão, da minha lavra, em que julguei prejudicado o writ impetrado em seu favor, assim ementada (fl. 1.643):
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. ABSOLVIÇÃO. IMPETRAÇÃO SIMULTÂNEA À INTERPOSIÇÃO DE RECURSO NA CORTE ESTADUAL. SUPERVENIÊNCIA DO JULGAMENTO DA APELAÇÃO CRIMINAL. NOVO TÍTULO. PERDA DO OBJETO.
+Writ prejudicado.
+Alega o embargante, em síntese, que a decisão embargada se apresentou contraditória em relação à superveniência de novo título, uma vez que se destaca que no item 8 folhas de 24 a 48 desse processo, consta o Acórdão do egrégio Tribunal de Justiça de Minas Gerais cuja data de julgamento do Recurso de Apelação foi (27/9/2022) e publicação em (7/10/2022), assim não haveria possibilidade de impetração desse remédio constitucional simultaneamente (fl. 1.652).
+Sustenta que o pedido constante da inicial sempre foi a anulação do processo (o que não foi feito no Juízo de Primeira Instância nem em sede de Recurso de Apelação), em que houve flagrante desobediência ao entendimento majoritário dessa Corte de ser imprescindível laudo pericial da droga supostamente apreendida para condenação pelo crime de Tráfico Ilícito de Drogas (fl. 1.653).
+Requer, então, o acolhimento dos embargos de declaração para o fim de que seja sanada as contradições apontadas (fl. 1.654).
+É o relatório.
+Os presentes embargos de declaração comportam acolhimento, apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos .
+De fato, após os prestigiosos esclarecimentos do embargante e da acurada análise dos autos, ressai-se que a impetração chegou a esta Corte após o julgamento da apelação criminal, não havendo falar em prejudicialidade por novo título.
+No entanto, ainda que permitida a tramitação da impetração, esta não comportaria acolhimento, uma vez que os fatos narrados não se mostram com a nitidez imprimida na inicial, pois consta da sentença (fl. 1.584) e do acórdão objurgado (fl. 1.515) menção ao laudo toxicológico definitivo, razão pela qual alcançar conclusão inversa das instâncias ordinárias ensejaria revolvimento de fatos e provas, inviável na via eleita.
+Confira-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL PENAL. VIOLAÇÃO DOS ARTS. 33, CAPUT, 50, §§ 1º E 2º, 55, § 5º, E 56 DA LEI N. 11.343/2006; E 155 DO CPP. PLEITO DE CONDENAÇÃO PELA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS. INVIABILIDADE. CARÊNCIA DE LAUDO TOXICOLÓGICO DEFINITIVO. LAUDO DE CONSTATAÇÃO PROVISÓRIO SEM GRAU DE CERTEZA DO DEFINITIVO (ERESP N. 1.544.057/RJ, TERCEIRA SEÇÃO).
+1. A Terceira Seção desta Corte uniformizou o entendimento no sentido de que, nos casos em que ocorre a apreensão do entorpecente, o laudo toxicológico definitivo é imprescindível à demonstração da materialidade delitiva do delito e, nesse sentido, tem a natureza jurídica de prova, não podendo ser confundido com mera nulidade, que corresponde a sanção cominada pelo ordenamento jurídico ao ato praticado em desrespeito a formalidades legais (EREsp n. 1.544.057/RJ, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 9/11/2016). Ainda, restou consignado que, em casos excepcionais, é possível a comprovação da materialidade pelo laudo de constatação provisório, quando possua grau de certeza idêntico ao laudo definitivo.
+1.1. No caso, embora exista laudo de constatação provisório apontando a existência de 5,5 g de cocaína, a Corte de origem consignou que tal laudo não possui o grau de certeza idêntico ao definitivo, não servindo, pois, à comprovação da materialidade do delito.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 2.046.467/MG, de minha relatoria, Sexta Turma, DJe 14/12/2023 - grifo nosso).
+Em face do exposto, acolho os embargos de declaração, apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+Publique-se.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT CONSIDERADO PREJUDICADO EM RAZÃO DO JULGAMENTO DA APELAÇÃO DEFENSIVA. CORREÇÃO DO EQUÍVOCO QUE SE IMPÕE. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA SUPOSTA FALTA DE LAUDO TOXICOLÓGICO DEFINITIVO A AMPARAR A CONDENAÇÃO. INFORMAÇÃO NOS AUTOS DANDO CONTA DA EXISTÊNCIA DA PERÍCIA. CONCLUSÃO INVERSA. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE.
+Embargos de declaração acolhidos, apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
