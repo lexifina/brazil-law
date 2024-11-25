@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GERIVÁ ADMINISTRAÇÃO, EMPREENDIMENTOS E PARTICIPAÇÕES LTDA e outra (GERIVÁ e outros) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, de relatoria da Desembargadora MARCIA DALLA DÉA BARONE, assim ementado:
+Ação de execução de título extrajudicial Sentença de extinção sem resolução de mérito Insurgência da parte autora Preliminar de nulidade por ausência de fundamentação da sentença Afastamento Matéria de ordem pública, atrelada aos pressupostos processuais de validade objetivos Questão não atingida pela preclusão Possibilidade de extinção da ação, a despeito do recebimento da inicial e da instauração do contraditório Inexistência de decisão surpresa Ausência de preenchimento dos requisitos estabelecidos no Artigo 786, do Código de Processo Civil Título desprovido de pronta exigibilidade Inviável a utilização direta da via executiva Exequentes que poderão buscar a tutela de seus direitos por meio de ação própria Extinção corretamente decretada Sentença mantida Recurso não provido.
+Nega-se provimento ao recurso. (e-STJ, fls. 639/652)
+Opostos embargos declaratórios foram rejeitados, conforme ementa a seguir transcrita:
+Embargos de declaração Inexistência de omissão, contradição, obscuridade e erro material Ausência dos pressupostos do art. 1.022 do CPC Embargos declaratórios não são destinados para sanar contradição externa Livre convencimento motivado do magistrado Embargante que pretende alterar o resultado do julgado, o que não se admite em sede de embargos de declaração Embargos rejeitados. (e-STJ, fls. 680/689)
+GERIVÁ e outros interpuseram recurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 786 do CPC e 397, parágrafo único, do CC, ao argumento de que inexistindo prazo estipulado no contrato, a prévia constituição em mora mediante interpelação judicial ou extrajudicial confere ao título executivo pronta exigibilidade.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo, por incidir, no caso, o teor da Súmula nº 7 do STJ (e-STJ, fls. 714/715).
+Nas razões do presente agravo, GERIVÁ e outros refutam o referido óbice (e-STJ, fls. 718/727).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Da violação aos artigos apontados
+GERIVÁ ADMINISTRAÇÃO, EMPREENDIMENTOS E PARTICIPAÇÕES LTDA e outra apontaram violação dos arts. 786 do CPC e 397, parágrafo único, do CC, ao argumento de que inexistindo prazo estipulado no contrato, a prévia constituição em mora mediante interpelação judicial ou extrajudicial confere ao título executivo pronta exigibilidade.
+Todavia, encontra-se consignado no acórdão recorrido o seguinte:
+(..) o contrato firmado entre as partes estabelece apenas que, transcorrido o prazo de 4 anos após a aprovação do empreendimento, por culpa exclusiva da parte requerida, sem a entrega das unidades, as apelantes poderiam optar por promover a execução do valor correspondente ao saldo devedor (cláusula 6.4 fls. 80).
+Com efeito, não havendo, até o momento, aprovação do projeto, não restou configurada a condição prevista na referida cláusula, de modo que, a rigor, não haveria se iniciado a contagem do prazo previsto.
+Não obstante, é de se consignar que o contrato foi firmado em 2013, bem como que o Processo Administrativo n. 63.416/2014 foi encaminhado ao arquivo em 2015, por falta de manifestação do interessado (fls. 124), e, desde então, o procedimento permanece sem qualquer andamento relevante.
+Desta forma, passados mais de 10 anos da assinatura do contrato e quase 8 anos sem qualquer indicativo de que a parte executada vem empreendendo esforços a fim de garantir a aprovação do empreendimento em questão, plenamente justificado o interesse de agir da exequente, que decerto não pode ser forçada a aguardar "ad eternum" o adimplemento da obrigação tão somente por não ter sido fixado prazo para a regularização do projeto junto ao poder público.
+Contudo, não sendo fixado expressamente no contrato o prazo para a aprovação do empreendimento, não é possível reconhecer, a exigibilidade imediata do título extrajudicial, porquanto inviável aferir, em sede de ação de execução, e até mesmo por meio de incidente de embargos à execução, se restou ou não caracterizado o inadimplemento da parte contrária, o que pode levar ao ajuizamento de ação de conhecimento (e-STJ Fls.648/649 - sem destaque na original).
+Da análise acurada entre o excerto acima transcrito e as alegações trazidas na petição de recurso especial, constata-se que as razões suscitadas estão dissociadas dos fundamentos do acórdão recorrido.
+A falta de impugnação aos termos do acórdão recorrido, em nítida dissociação do julgado recorrido, atrai a incidência da Súmula n.º 284 do STF, por configurar deficiência na fundamentação.
+A propósito, vejam-se os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MORAIS E ESTÉTICOS. REDUÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso especial, que apresenta argumentos dissociados do decidido pelo acórdão recorrido, obsta seu conhecimento (Súmula n. 284 do STF).
+(AgInt no AREsp n. 1.991.707/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022 - sem destaque na original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INDEFERIMENTO DE SUBSTITUIÇÃO DE PENHORA. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. PENHORA SOBRE FATURAMENTO DE EMPRESA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A alegada afronta a lei federal não foi demonstrada com clareza, pois as razões do recurso especial apresentado se encontram dissociadas daquilo que ficou decidido pelo Tribunal estadual, o que caracteriza deficiência na fundamentação do apelo nobre e atrai, por analogia, o óbice da Súmula nº 284 do STF.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.943.425/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/5/2022, DJe de 4/5/2022 - sem destaque na original)
+Ademais, aplica-se, ainda, a Súmula n. 7/STJ quanto a verificação da exequibilidade do título, considerando que o acórdão recorrido entendeu que o título não está apto para a sua execução.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissí vel, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intim em-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TÍTULO EXTRAJUDICIAL. EXECUÇÃO. TÍTULO DESPROVIDO DE PRONTA EXIGIBILIDADE. UTILIZAÇÃO DA VIA EXECUTIVA. INVIABILIDADE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO E PETIÇÃO DE RECURSO ESPECIAL. RAZÕES DISSOCIADAS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N.º 284 DO STF. ANALOGIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
