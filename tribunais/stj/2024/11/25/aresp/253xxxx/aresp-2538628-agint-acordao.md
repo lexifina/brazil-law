@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/11/2024 a 25/11/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULA N. 5 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial. Incidência da Súmula n. 182 do STJ.
+2. Para afastar a incidência do óbice da Súmula n. 5 do STJ, cabe ao agravante desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise de cláusulas contratuais, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido. Não basta, portanto, a parte sustentar que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas e de análise de cláusulas contratuais.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA SEGURADORA S.A. contra a decisão de fls. 1.676-1.678, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial pelos seguintes fundamentos: a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível e a ausência de impugnação específica das Súmulas n. 5 e 518 do STJ esbarra no óbice da Súmula n. 182 do STJ.
+Em suas razões, a agravante alega, em suma, que, ao contrário do posicionamento manifestado pela Presidente desta Corte, empreendeu esforços específicos e aprofundados para refutar a aplicação da Súmula n. 5 do STJ, com o objetivo de demonstrar de forma clara e inequívoca a distinção do caso em tela e que, inclusive, destinou um tópico inteiro para tratar desse particular óbice.
+Aduz ainda que realizou a impugnação da aplicação do óbice contido na Súmula n. 518 do STJ e que, ao evidenciar a violação da norma federal, utilizou a Súmula n. 150 do STJ como um argumento secundário, visando reforçar a tese de incompetência, mas que a súmula não foi o fundamento principal da impugnação, tendo sido empregada apenas como um obiter dictum para corroborar a alegação de que a decisão recorrida diverge da jurisprudência consolidada do STJ.
+Requer o provimento do agravo interno ou a submissão da matéria ao colegiado.
+Não foram apresentadas contrarrazões (fl. 1.697).
+Ademais, à fl. 1.711, a parte recorrente pede "a redistribuição do feito a um dos integrantes da Primeira Seção do STJ, à luz do quanto decidido pela Corte Especial nos CC 148.1DF e 140.456/RS; e/ou, quando muito, o sobrestamento do presente feito enquanto se aguarda a solução do Tema 1.039/STJ" (Pet. 00435961/2024).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULA N. 5 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial. Incidência da Súmula n. 182 do STJ.
+2. Para afastar a incidência do óbice da Súmula n. 5 do STJ, cabe ao agravante desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise de cláusulas contratuais, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido. Não basta, portanto, a parte sustentar que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas e de análise de cláusulas contratuais.
+3. Agravo interno não conhecido.
+VOTO
+A decisão agravada deve ser mantida pelos seus próprios fundamentos.
+Com efeito, a decisão monocrática não conheceu do agravo em recurso especial porque a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível, bem como a ausência de impugnação específica das Súmulas n. 5 e 518 do STJ esbarra no óbice da Súmula n. 182 do STJ.
+Neste agravo interno, a parte restringe-se a defender que dedicou esforços específicos para demonstrar que seu caso é excepcional e não se enquadra na aplicação da Súmula n. 5 do STJ.
+Alega também que contestou a aplicação da Súmula n. 518 do STJ, que impede a utilização de súmulas como fundamento para recursos especiais, bem como que usou a Súmula n. 150 do STJ como um argumento adicional para fortalecer sua tese principal, mas não como o fundamento central de sua impugnação.
+Ocorre que, "para afastar a incidência dos óbices das Súmulas n. 5 e 7 do STJ, cabe ao agravante desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do acervo fático-probatório e de cláusulas contratuais, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido. Não basta, portanto, a parte sustentar que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas e de análise de cláusulas contratuais" (AgInt no AREsp n. 1.768.442/MG, de minha relatoria, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022).
+Aliás, deve a parte agravante refutar os citados óbices mediante a exposição da tese jurídica "desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/8/2022; e AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 18/12/2020.
+Observa-se, assim, que o óbice sumular não foi rebatido de forma clara e específica pela parte agravante, atraindo, pois, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INOVAÇÃO. IMPOSSIBILIDADE. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+1. É impossível a análise de teses alegadas apenas nas razões do agravo interno por se tratar de evidente inovação recursal.
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+3. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+4. Agravo interno não conhecido. (AgInt no REsp n. 1.964.122/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/9/2022, destaquei.)
+Ademais, quanto ao pedido de redistribuição do feito, registre-se que consta do acórdão recorrido do recurso de apelação que o "contrato está vinculado à apólice de seguro fora do SFH, não havendo comprometimento do FCVS, e ausente razão, pois, para a Caixa figurar no polo passivo da lide, conforme documento juntado pela COHAPAR", bem como que "a CEF manifestou a sua ausência de interesse no feito, alegando "não ter sido possível identificar o ramo da apólice securitária em relação ao Autor Marcos Antonio Capuano" (fl. 1.517).
+Desse modo, inexistindo comprometimento do FCVS e diante da manifesta ausência de interesse da CEF, o pedido de redistribuição não tem cabimento no caso.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
