@@ -1,0 +1,33 @@
+DECISÃO
+Trata- se de agravo em recurso especial interposto por EDUARDO GOMES PEREIRA contra decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial pelo seguinte fundamento: incidência da Súmula n. 7 do STJ.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido (fls. 471-477):
+Foi objetado pela decisão de inadmissão do Recurso Especial em voga, a hipótese de que este estaria violando o disposto na Súmula 7 do STJ.
+ ..
+Frisa-se que é insustentável essa alegação, pois objeto do Recurso Especial em questão visou discutir a aplicação e a interpretação do dispositivo de Lei Federal. A hipótese levantada pelo Tribunal Bandeirante não tem nexo, uma vez que o mérito da questão ensejadora do Recurso Especial.
+Todavia, ad argumentandum tantum, fosse a hipótese sustentada pelo despacho em açoite, deve ser salientado que a dita violação à Súmula 7 do STJ ainda assim, não vingaria, pois se o objeto do embaraçado Recurso Especial, não tem em seus meandros questões a serem controvertidas. Na verdade, o que se discutiu a todo momento, foi a constatação de erro judiciário na leitura e produção do arcabouço probatório que ensejou condenação do Agravante.
+ ..
+Note-se que no recurso especial a defesa menciona de forma clara a violação do artigo 386,VII do CPP.
+Por fim, para que fique esclarecido, o despacho presidencial do TJSP não emoldurou em quais pontos o repreendido Recurso Especial estaria ensejando reexame de provas, restando apenas intenção de protelar a devolução da matéria à Corte Superior, de modo, encobrir patente negativa de prestação jurisdicional.
+ ..
+Outrossim, há as decisões que se limitam a afirmar que o acórdão recorrido decidiu com base nos fatos e nas provas dos autos, e que por isso, o recurso especial é inviável, sem, contudo, apontar quais foram esses fatos ou provas, para que o advogado ao menos tente demonstrar, que o que se pretende é apenas a revaloração jurídica daquilo que já foi devidamente examinado na origem.
+ ..
+Nesse sentido, sendo bifásico o juízo de admissibilidade do recurso especial, é importante que este STJ, ao analisar o agravo em recurso especial, seja mais brando na exigência de impugnação específica, notadamente quando a decisão que nega seguimento ao nobre apelo é genérica.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial ou do recurso especial, nos termos da seguinte ementa (fl. 504):
+AGRAVO EM RECURSO ESPECIAL. INADMISSÃO COM BASE NA SÚMULA 7 do STJ. DECISÃO NÃO IMPUGNADA DEVIDAMENTE. APLICAÇÃO DA SÚMULA N. 182/STJ. TRÁFICO ILÍCITO DE DROGAS. ALEGADA AUSÊNCIA DE PROVAS DA PRÁTICA DELITIVA. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+1. Não deve ser conhecido o agravo se as razões não são suficientes para se contrapor aos fundamentos da decisão monocrática recorrida. Incidência da Súmula nº 182 do STJ.
+2. O acórdão concluiu, de forma fundamentada, pela existência de elementos suficientes para a condenação pelo crime de tráfico de drogas, de forma que a reversão do julgado, com o fim de absolver o recorrente, esbarra na Súmula 7 do STJ, por demandar reexame fático-probatório, incabível nesta seara extraordinária.
+3. Em harmonia com o entendimento do STJ, o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo para a condenação, especialmente quando ausente qualquer dúvida sobre a imparcialidade, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova. Precedente.
+4. Parecer pelo não conhecimento do agravo ou do recurso especial.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação do seguinte fundamento: análise que exigiria o reexame de fatos e provas, atraindo o óbice da Súmula n. 7 do STJ.
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, o fundamento referido, não bastando para tanto que a parte recorrente mencione a não incidência do óbice sumular, pois para atendimento do princípio da dialeticidade deve ser demonstrado de modo específico e concreto quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, quanto ao óbice referido na Súmula n. 7 do STJ, que a alegação genérica sobre a desnecessidade de que sejam reexaminados os fatos e as provas é insuficiente para efetivo enfrentamento da decisão recorrida, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem (AgRg no AREsp n. 2.030.508/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024; AgRg no AREsp n. 2.672.166/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024; AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Como se constata, a efetiva impugnação do fundamento que levou o Tribunal de origem a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento do respectivo fundamento, sem o que não se pode cogitar do desacerto da decisão agravada, conforme relatado.
+Aplica-se, em consequência, a conclusão estabelecida na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, inciso III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
