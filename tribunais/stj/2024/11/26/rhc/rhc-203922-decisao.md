@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por GUSTAVO HENRIQUE ALVES DE SOUZA - preso cautelarmente no dia 5/7/2024 pela suposta prática do crime de roubo majorado -, contra acórdão proferido pela 6ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem originária, cuja ementa segue abaixo transcrita (fl. 177):
+HABEAS CORPUS - NEGATIVA DE AUTORIA INCOMPATÍVEL COM O RITO DO HABEAS CORPUS - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECISÃO FUNDAMENTADA - RISCO CONCRETO DE REITERAÇÃO DELITIVA. A análise de tese negativa de autoria é incompatível com o rito célere do habeas corpus por demandar revolvimento do acervo probatório, cuja matéria é afeta ao mérito da ação penal. Se a decisão que decreta a prisão preventiva evidencia a sua necessidade para garantia da ordem pública, baseando-se em elementos concretos, não há que se falar em substituição por provisória, se comprovada a necessidade de segregação cautelar. medidas cautelares diversas. Condições pessoais favoráveis ao paciente não justificam, por si, a concessão de liberdade.
+Nas razões do presente recurso a defesa reitera as alegações originárias e pede a revogação da prisão preventiva do recorrente, bem como a determinação da expedição do alvará de soltura.
+É o relatório, Decido.
+Não há como conhecer do recurso, porquanto apresenta as mesmas partes, causa de pedir, pedido e foi interposto contra o mesmo acórdão impugnado no HC 940.734/MG, julgado em 27/8/2024 e certificado o trânsito em julgado em 3/9/2024.
+A utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Isto porque "embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores". (AgRg no RHC n. 103.808/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Ante o exposto, com amparo no art. 34XVIII, a, do RISTJ, não conheço do recurso em habeas corpus.
+Intimem-se.
+EMENTA
