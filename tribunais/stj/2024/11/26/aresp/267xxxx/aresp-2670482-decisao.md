@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da impossibilidade de análise de violação de instrução normativa e da incidência das Súmulas 5 e 7 do STJ (e-STJ fls. 1.040/1.042).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 807):
+APELAÇÃO CÍVEL. AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR DANO MORAL, COM PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA ANTECIPADA. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DO BANCO RÉU.
+1 - CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). PLEITO DO BANCO PELO RECONHECIMENTO DA LEGALIDADE DO CONTRATO. ACOLHIMENTO. NOVO ENTENDIMENTO DESTA CÂMARA, DE ACORDO COM O JULGAMENTO DE CAUSA-PILOTO NO IRDR N. 5040370-24.2022.8.24.0000 PELO GRUPO DE CÂMARAS DE DIREITO COMERCIAL. CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC) AUTORIZADO PELO ART. 6º, § 5º, II, DA LEI N. 10.820/2003 E PELO ART. 3º, § 1º, DA INSTRUÇÃO NORMATIVA DO INSS/PRES. N. 28, DE 16 DE MAIO DE 2008. INSTRUMENTO CONTRATUAL JUNTADO AOS AUTOS, DEVIDAMENTE ASSINADO PELA PARTE AUTORA. ASSINATURA QUE SE ASSEMELHA À DO DOCUMENTO DE IDENTIDADE ANEXADO AO CONTRATO. NATUREZA E CARACTERÍSTICAS DA CONTRATAÇÃO ESPECIFICADAS DE FORMA CLARA NO DOCUMENTO. VIOLAÇÃO AO DEVER DE INFORMAÇÃO E FALHA NA PRESTAÇÃO DO SERVIÇO NÃO EVIDENCIADAS. AUSÊNCIA DE COMPROVAÇÃO DO ALEGADO VÍCIO DE CONSENTIMENTO. ATO ILÍCITO INEXISTENTE. SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS. RECURSO PROVIDO.
+2 - PLEITO DE CONDENAÇÃO DA PARTE AUTORA AO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. EXEGESE DO ART. 80 DO CPC/2015. AUSÊNCIA DE ELEMENTOS CONCRETOS QUE EVIDENCIEM MÁ-FÉ NA PROPOSITURA DESTA AÇÃO. PEDIDO AFASTADO.
+3 - ÔNUS DE SUCUMBÊNCIA. REFORMA DA SENTENÇA. CONDENAÇÃO DA PARTE AUTORA AO PAGAMENTO DA INTEGRALIDADE DAS CUSTAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS. CONTUDO, FICA SUSPENSA A EXIGIBILIDADE, NOS TERMOS DO ART. 98, § 3º, DO CPC/2015.
+4 - HONORÁRIOS ADVOCATÍCIOS RECURSAIS. PARCIAL PROVIMENTO DO RECURSO DO BANCO RÉU. HIPÓTESE EM QUE NÃO CABE A MAJORAÇÃO PREVISTA NO ART. 85, § 11, DO CPC/2015.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 922/927).
+Nas razões do recurso especial (e-STJ fls. 935/951), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega dissídio jurisprudencial e violação dos arts. 3º, I, 13, 15, 21 e 21-A da Instrução Normativa n. 28/2008 do INSS e 31 do CDC.
+Afirma que houve erro substancial da consumidora na contratação e ressalta que "é indispensável que se apure ao menos qual era a intenção do consumidor ao contratar, se de fato desconhecia o produto, se conhecendo as verdadeiras condições agiria de outro modo e até mesmo se tinha ou não o contratado condições de identificar que a vontade estava viciada" (e-STJ fl. 943).
+Defende o arbitramento de indenização por danos morais, aduzindo que "fica evidente que as contratações quando maculadas pelos bancos, devem incorrer em pagamento de indenização por danos morais, em decorrência de ter sido o consumidor ludibriado e sofrer descontos indevidos nos seus benefícios" (e-STJ fl. 949).
+Ao final, requer o provimento do recurso "para os fins de ser anulado ou reformado o acórdão recorrido (Apelação Cível nº 5014767-95.2021.8.24.0092/SC) do Tribunal de Justiça de Santa Catarina, reconhecendo o error in judicando" (e-STJ fl. 951).
+No agravo (e-STJ fls. 1.050/1.057), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.061/1.063).
+É o relatório.
+Decido.
+De início, cumpre salientar que não é cabível a interposição de recurso especial sob a alegação de vi olação de resolução, portaria, circular e demais atos normativos de hierarquia inferior à do decreto, por não se enquadrarem no conceito de lei federal.
+Consta nos autos que o Tribunal de origem concluiu que (e-STJ fls. 801/80):
+Cinge-se a controvérsia acerca da contratação de empréstimo consignado pela via de cartão de crédito, por meio do qual é permitido ao banco credor a retenção de valores mediante reserva de margem consignável (RMC) em benefício previdenciário.
+ ..
+No que toca à alegação da parte autora de que teria sido induzida em erro no momento da contratação, registra-se que esta Câmara passou a adotar novel entendimento após o julgamento, pelo Grupo de Câmaras de Direito Comercial, da Apelação cível (causa-piloto) n. 5000297- 59.2021.8.24.0092 no IRDR n. 5040370-24.2022.8.24.0000.
+De acordo com referido julgamento, a existência de previsão contratual expressa acerca da modalidade da contratação (cartão de crédito consignado) e das características da operação (constituição da margem consignável, forma de pagamento e encargos incidentes), torna válida a avença devidamente subscrita pela parte consumidora, ensejando a regularidade dos descontos efetivados em seu benefício previdenciário.
+ ..
+No presente caso, o banco réu/apelante comprovou a existência de liame contratual entre as partes, mediante a juntada do "Termo de Adesão ao cartão de crédito consignado emitido pelo banco BMG S. A. e autorização para desconto em folha de pagamento", "Proposta de contratação de saque mediante a utilização do cartão de crédito consignado emitido pelo BMG" e "Cédula de crédito bancário", todos firmados em 14-6-2018 (evento 12, CONTR3, fls. 1-6)).
+Ao que se infere, referidos instrumentos são claros e expressos no tocante à modalidade "cartão de crédito consignado", à forma de amortização da dívida (desconto mensal em folha de pagamento/benefício para o pagamento do valor mínimo indicado nas faturas mensais), bem como há a especificação das taxas de juros e dos demais encargos incidentes à espécie. Além disso, ao contrário do que alega a parte autora/apelada, consta expressa autorização para a averbação do valor em seu benefício previdenciário ( evento 12, CONTR3 , fl. 1 - Cláusulas 6.1 e 6.2).
+Modificar o entendimento do acórdão impugnado quanto à regularidade da contratação e à comprovação dos danos morais, nesta hipótese, demandaria reexame das cláusulas contratuais e do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
