@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por TOKYO INCORPORADORA LTDA. (ou CONSTRUTORA LEAL MOREIRA LTDA.) e BERLIM INCORPORADORA LTDA. (ou TEMPO INCORPORADORA LTDA.), com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará (Apelação Cível n. 0867974-97.2018.8.14.0301) assim ementado (fl. 490):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS, COM PEDIDO DE TUTELA PROVISÓRIA. ATRASO NA ENTREGA DA OBRA/EMPREENDIMENTO. MORA CONFIGURADA. LUCROS CESSANTES EM 0,5% SOBRE O VALOR DO CONTRATO. DANO MORAL FIXADO NA ORIGEM EM R$ 10.000,00 (DEZ MIL REAIS). VALOR ADEQUADO. PRECEDENTES DESTE E. TJPA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. RECURSO CONHECIDO E DESPROVIDO.
+1. Diante da mora na entrega do empreendimento, é pacífica a jurisprudência do C. STJ, bem como desta Corte, acerca da responsabilidade no pagamento de lucros cessantes, devendo ser estes presumidos. A jurisprudência pátria, inclusive deste E. TJE/PA, tem adotado como variação média entre 0,5% (zero vírgula cinco por cento) a 1% (um por cento) do valor do imóvel previsto em contrato, atualizado. Decisão monocrática mantida.
+2. No tocante aos danos morais, o quantum fixado no importe de R$ 10.000,00 (dez mil reais), não é exorbitante nem desproporcional aos danos sofridos pela parte demandante. Precedentes jurisprudenciais.
+3. Agravo interno conhecido e desprovido.
+Nas razões do recurso especial (fls. 560-583), além de dissídio jurisprudencial, a parte recorrente aponta violação do art. 402 do Código Civil.
+Alega que a determinação do Tribunal de Justiça do Estado do Pará de pagamento dos lucros cessantes calculados em 0,5% do valor do contrato do imóvel devidamente atualizado está em dissonância com a interpretação de outros egrégios Tribunais de Justiça, os quais, por sua vez, vem compreendendo que o parâmetro de cálculo que mais se adequada ao artigo é 0,5% sobre o valor efetivamente pago, sob pena de o compromissário enriquecer ilicitamente, o que é vedado pelo ordenamento jurídico, nos termos do art. 884 do CC.
+Requer o conhecimento e o provimento do recurso para "reformar o Acórdão recorrido, a fim de que seja elencado como base de cálculo o valor efetivamente pago pelo compromissário comprador; tudo nos termos da fundamentação e por ser medida de Direito" (fl. 583).
+As contrarrazões foram apresentadas (fls. 656-667).
+É o relatório. Decido.
+Na origem, a ação de indenização por danos materiais e morais foi julgada procedente para condenar as rés ao pagamento de danos morais e danos materiais, estes decorrentes de lucros cessantes de 0,5% sobre o valor atualizado do imóvel, por mês de atraso.
+Inconformadas, as rés apelaram.
+O Tribunal de origem, soberano na análise dos fatos e provas dos autos, no tocante aos lucros cessantes, manteve o quantum fixado pelo Juízo singular. Observe-se (fls. 293-295):
+No caso em questão, a r. sentença de 1º grau deferiu à recorrida lucro cessantes no equivalente à 0,5% do valor do imóvel previsto no contrato, o que se mostra razoável e proporcional, estando dentro dos patamares que a jurisprudência tem consolidado, pelo que a r. decisão monocrática deve ser mantida.
+Desse modo, para rever a conclusão adotada na origem e acatar a tese recursal de que o percentual e base de cálculo adotados não são razoáveis, seria imprescindível a interpretação de cláusulas contratuais e o reexame fático-probatório dos autos, medidas vedadas em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DE OBRA. LUCROS CESSANTES. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. SÚMULA 83/STJ. REEXAME DE CONTRATOS, FATOS E PROVAS. SÚMULAS 5 E 7/STJ. MULTAS DOS ARTS. 81 E 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, o prejuízo do promitente comprador é presumido em hipótese de inexecução do contrato de compra e venda por atraso na entrega do imóvel. Portanto, incide, na espécie, o veto da Súmula 83 desta Corte.
+2. Tendo o colegiado estadual, com amparo no acervo fático probatório dos autos, consignado que os lucros cessantes fixados em 0,5% (meio por cento) deveriam incidir sobre o valor atualizado do imóvel, a modificação da referida conclusão demandaria o reexame de contratos, fatos e provas, permanecendo incólume a incidência das Súmulas 5 e 7/STJ ao caso.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação às multas dos arts. 81 e 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+4. Agravo interno improvido. (AgInt no REsp n. 2.036.705/PA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+Por fim, com relação à alínea c do permissivo constitucional, melhor sorte não socorre à parte recorrente, pois a incidência dos óbices contidos nas Súmulas n. 5 e 7 do STJ, quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial diante da patente impossibilidade de similitude fática entre acórdãos.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 17%, percentual arbitrado na instância de origem, para 20% sobre o valor da condenação.
+Publique-se. Intimem-se.
+EMENTA
