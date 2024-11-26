@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por CARLOS AUGUSTO LOPES LIMA e OUTRA contra acórdão da Terceira Turma, assim ementado:
+RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PROMESSA DE COMPRA E VENDA. REGISTRO TARDIO. IMÓVEL OFERECIDO COMO GARANTIA. CAUÇÃO LOCATÍCIA. AVERBAÇÃO ANTERIOR. MATRÍCULA. OMISSÃO. CONTRADIÇÃO. AFASTAMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. NATUREZA JURÍDICA. EFICÁCIA REAL.
+1. A controvérsia dos autos está em definir i) se houve, ou não, a negativa de prestação jurisdicional ventilada e ii) se seria válida a caução locatícia oferecida aos recorridos por terceiro, promitente vendedor, após a data da assinatura da promessa de compra e venda do imóvel, mas antes do registro do contrato.
+2. Não se reconhece a negativa de prestação jurisdicional quando o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não se vislumbrando os vícios imputados ao aresto atacado.
+3. De acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, o que não se verifica no caso dos autos.
+4. A jurisprudência do STJ converge quanto ao entendimento de que a transmissão da propriedade de imóvel somente se perfaz com o regular registro imobiliário. Assim, o direito real do promitente comprador somente se aperfeiçoa com o registro do contrato no tabelionato de imóveis. Precedentes.
+5. Ao exigir a averbação da caução locatícia na matrícula do imóvel, com o escopo de conferir-lhe efeitos erga omnes, nos termos da parte final do §1º do art. 38 da Lei nº 8.245/1991, o legislador conferiu inequívoca eficácia real ao direito obrigacional por ela representado.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+Indicam divergência com o AgInt no REsp n. 1.325.509 - PE.
+Afirmam que o julgado paradigma está em consonância com a jurisprudência consolidada no STJ, indicando os enunciados das Súmula n. 84, 239 e 308 do STJ como exemplo.
+Sustentam que os julgados indicados no acórdão ora recorrido não expressam a realidade constante dos autos, porquanto "existem, de um lado, uma compra e venda não registrada e, de outro, uma caução locatícia, que resguarda uma obrigação pessoal contraída pela vendedora em face de terceiros, como substrato da locação de outro imóvel. A relação dos embargados (credores) com o bem objeto da lide é absolutamente indireta. A pretensão dos embargantes, por sua vez é diretamente vinculada ao bem. Estão opostas, portanto, uma pretensão à propriedade e a pretensão à simples satisfação de uma dívida civil, não contraída pelos embargantes".
+Requerem, ao final, o conhecimento e o provimento dos embargos para o fim de reformar o acórdão embargando, determinando a desconstituição da penhora nos autos questionada.
+É o relatório. Decido.
+Os embargos de que ora se cuida não reúnem condições de admissibilidade.
+Com efeito, trouxeram os ora embargantes para confronto o acórdão no AgInt no REsp n. 1.325.509, cuja tese foi no sentido de que o instrumento particular de compromisso de compra e venda, ainda que desprovido de registro, pode ser reconhecido como justo título hábil a demonstrar a posse. A causa estava assentada na legitimidade passiva do novo adquirente do imóvel irregularmente edificado.
+Portanto, a resolução da controvérsia referiu-se à posse e ao dever dos adquirentes de cumprir com a obrigação de demolição.
+No presente feito, o bem imóvel foi ofertado em caução, garantindo um contrato de aluguel, no qual a proprietária do bem era sócia da pessoa jurídica locatária, somado ao fato de que os adquirentes do imóvel tinham plena ciência da existência do gravame, no momento da realização do negócio de compra e venda, que não fora levado a registro.
+A solução jurídica dada aos casos confrontados decorreram de causas absolutamente diversas, não servindo como comparação para o fim de viabilizar o trânsito dos embargos de divergência.
+Portanto, carecem de similitude processual acórdão recorrido e paradigma indicado.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. AGRAVO INTERNO. INADMISSIBILIDADE DO RECURSO ESPECIAL EM RAZÃO DA AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA DE SEMELHANÇA
+ENTRE OS CASOS CONFRONTADOS. REQUISITOS DO ART. 1.043, § 4º, DO CPC. INOBSERVÂNCIA. DECISÃO MANTIDA. PARADIGMA ORIUNDO DE IDÊNTICO ÓRGÃO JULGADOR. ALTERAÇÃO DE COMPOSIÇÃO NOS TERMOS DO § 3º DO ART. 1.043 NÃO VERIFICADA. INADMISSIBILIDADE.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e o paradigma, nos termos dos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ, o que não se verifica nestes autos, tendo em vista que a análise da questão da ausência de fundamentação de acórdão (arts. 489 ou 1.022 do CPC), em razão da especificidade de cada situação concreta, torna inviável os embargos de divergência.
+2. Sendo o paradigma oriundo da mesma Turma que proferiu o acórdão recorrido, tornam-se inadmissíveis os embargos de divergência, uma vez não alterada a composição do referido órgão julgador na proporção determinada no § 3º do art. 1.043 do CPC, sendo irrelevante o impedimento de um determinado componente.
+3. Agravo interno a que se nega provimento. (AgInt nos EAREsp n. 2369060-SP, relator Ministro Antonio Carlos Ferreira, DJe de 5/9/2024.)
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 5% o valor atualizado dos honorários advocatícios arbitrados na origem e majorados inclusive nesta Corte em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como a concessão dos benefícios da justiça gratuita.
+Publique-se. Intimem-se.
+EMENTA
