@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por GALDINO, COELHO, MENDES ADVOGADOS contra o acórdão da Terceira Turma assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM. IRRECORRIBILIDADE.
+1. É irrecorrível a decisão que determina o retorno dos autos à origem, a fim de que permaneçam suspensos até o julgamento do tema repetitivo, por não constituir juízo de admissibilidade do recurso especial, não havendo, portanto, sucumbência nem prejuízo para as partes. Eventual argumentação de distinção (distinguishing) também pode ser formulada no juízo a quo. Precedentes.
+2. Agravo interno não conhecido.
+Aduz o embargante que a discussão nos autos é relativa à afronta ao art. 85, § 2º, do CPC, já que o TRF2 fixou a verba honorária sucumbencial pelo critério da equidade.
+Afirma que tanto o escritório quanto a CEF e a TKK Engenharia Ltda. estão aguardando o julgamento de seus respectivos agravos internos (fls. 1.257-1.264, 1.265-1.275 e 1.276-1.284).
+Nada obstante, a Ministra relatora, por meio da decisão de fls. 1.313-1.314, decidiu que a questão de direito discutida foi afetada pelo Supremo Tribunal Federal para julgamento sob o rito da repercussão geral (Tema n. 1.255), fato que impõe a suspensão do presente feito até publicação do julgado daquela Corte.
+Aduz que há divergência com julgado da Quarta Turma, que tem indeferido pedidos de sobrestamento de recursos especiais semelhantes formulados com fundamento no reconhecimento da repercussão geral do Tema 1.255 do STF.
+Indica, então, como paradigma o REsp n. 2.106.342/SP, da Quarta Turma, questionando se cabe agravo interno contra a decisão monocrática que determina (ou não) o sobrestamento do recurso especial em razão do reconhecimento de repercussão geral do Tema 1.255 do STF.
+Sustenta que a divergência entre os casos está em que, neste, o TRF2 não exerceu o juízo de retratação e manteve a condenação com base no art. 85, § 8º, do CPC, afirmando que o fundamento da fixação por equidade decorreria da sucumbência recíproca; enquanto que, no julgado paradigma, o TJSP deu provimento ao recurso para adequar o acórdão recorrido ao Tema n. 1.076, fixando os honorários advocatícios em 11% sobre o valor atualizado da causa, já incluídos os honorários recursais do art. 85, § 11, do CPC.
+Já, no âmbito do STJ, ambos os julgados analisaram corretamente a controvérsia, concluindo-se, no paradigma, pelo não sobrestamento do recurso especial em razão do Tema n. 1.255 do STF, enquanto, no presente feito, dos agravos internos interpostos contra a decisão de sobrestamento não se conheceu, mantendo-se a determinação de devolução dos autos ao Tribunal de origem.
+Afirma o embargante que o resultado do julgamento relativo ao Tema n. 1.255 do STF não influenciará o resultado do recurso especial deste caso concreto, visto que a controvérsia será aplicada às causas em que a Fazenda Pública for parte.
+Ademais, há entendimento no STJ no sentido de que o reconhecimento de repercussão geral pelo STF não acarreta o sobrestamento dos recursos especiais pendentes no STJ sobre a matéria, devendo tal regra ser observada tão somente no momento do juízo de admissibilidade do recurso extraordinário.
+Requer, ao final, a admissão dos embargos e seu provimento para reformar o acórdão embargado a fim de adequá-lo ao entendimento firmado no julgamento do agravo interno no Recurso Especial n. 2.106.342/SP.
+É o relatório. Decido.
+Não merecem prosperar os presentes embargos.
+Os embargos de divergência têm por fim a uniformização de divergência jurisprudencial atual a respeito da aplicação do direito material ou processual relativamente ao mérito, na hipótese de o acórdão de um órgão fracionário do STJ divergir do julgamento de qualquer outro.
+Portanto, não tem por fim corrigir eventual incorreção do acórdão embargado, e sim pacificar a jurisprudência deste Tribunal, uniformizando o entendimento representado na tese jurídica de direito federal mais acertada, situação que não se verifica na espécie.
+No caso, não há divergência a ser dirimida, porquanto a decisão que determina o sobrestamento de processos com repercussão geral é irrecorrível.
+Assim, de eventual agravo interno impugnado a decisão que determinou o sobrestamento e a respectiva devolução dos autos ao tribunal de origem não se conhecerá. Consequentemente, dos demais recursos que visem impugnar o não conhecimento do agravo também não se conhecerá, pois não há o que ser examinado, ante a falta de sucumbência, que é um dos pressupostos de admissibilidade dos recursos.
+Nesse sentido:
+PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE DETERMINOU O SOBRESTAMENTO DO RECURSO ESPECIAL NO TRIBUNAL DE ORIGEM. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. É inadmissível a interposição de recurso em desfavor de decisão que determina a baixa dos autos para sobrestamento do feito, em virtude da pendência de julgamento de recurso extraordinário submetido à sistemática da repercussão geral.
+2. Nos termos do art. 1.037, §§ 9º e 10, do CPC/2015, a única hipótese de alteração da decisão de sobrestamento seria a demonstração, por meio de requerimento, de que a questão a ser decidida no processo e aquela a ser julgada no recurso extraordinário afetado seriam distintas, o que não ocorreu na hipótese dos autos.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.928.275/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/5/2022, DJe de 12/5/2022.)
+Assim, não sendo cabível recurso da decisão que determina a baixa dos autos em virtude da pendência de julgamento de recurso extraordinário submetido à sistemática da repercussão geral e não havendo divergência a ser dirimida, indefiro liminarmente os presente embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
