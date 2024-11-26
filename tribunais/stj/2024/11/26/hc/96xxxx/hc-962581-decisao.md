@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de FERNANDO DA COSTA GIURNI, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, dos delitos de tráfico ilícito de drogas e associação para o tráfico de drogas.
+Irresignada, a defesa, impetrou prévio habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado:
+ ..  Habeas Corpus. Crimes de tráfico de drogas, e de associação para o tráfico. Revogação da prisão preventiva, em conversão de prisão em flagrante. Não cabimento. Requisitos autorizadores presentes. Constrangimento ilegal não configurado. Ordem denegada.  ..  (fl. 62)
+Alega, constrangimento ilegal e falta de fundamentação idônea à manutenção da segregação cautelar, ademais, a nulidade do acórdão do Tribunal de origem.
+Requer, a concessão da ordem liminarmente e, no mérito, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta, haja vista o contexto da traficância.
+Transcrevo, por oportuno, trechos do acórdão hostilizado:
+ ..  FERNANDO DA COSTA GIURNI e MAYCON ALEX TIMM associaram-se entre si e a outros indivíduos, de forma estável e permanente para a prática, reiterada ou não, do crime de tráfico de drogas (artigo 33, "caput", da Lei nº 11.343/06). MAYCON é o responsável por abastecer os pontos de tráfico de drogas, trazendo os entorpecentes principalmente da região fronteiriça do Brasil até Cajamar, enquanto que FERNANDO gerencia/coordena os pontos de venda, com auxílio de outros indivíduos, nesta cidade de Cajamar (fls. 115/118). Segundo consta dos autos, deflagrou-se medida cautelar de busca e apreensão perante o Juízo da Comarca de Itatiba, autuada sob o nº1506095-65.2024.8.26.0281, na qual figurou como um dos alvos o denunciado FERNANDO DA COSTA GIURNI, conhecido no meio criminoso pelas alcunhas de "Coringa", "Das Cartas" ou "Giuni".
+ ..  realizou-se a análise dos aparelhos de telefonia celular apreendidos em seu poder. Os agentes públicos então lograram encontrar elementos indicativos de sua associação de forma estável e permanente a FERNANDO, e a outros indivíduos não identificados, para fins da prática do crime de tráfico de drogas nesta cidade (vide Relatório de fls.115/118). Em um dos aparelhos apreendido com MAYCON, foi possível observar que havia o contato do número telefônico de FERNANDO, cadastrado com o nome "das cartas", justamente um dos vulgos utilizados por ele. Ainda, constatou-se a existência de conversas mantidas entre MAYCON e FERNANDO, nas quais se observa o envio de diversas fotos e vídeos de drogas, acompanhados de mensagem com o seguinte teor: "o produto estaria chegando"; "separado já"";  ..  (fls. 64-65;67)
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+ ..  São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente  ..  (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+ ..  A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades.  ..  (RHC 123.145/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 28/02/2020).
+Presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP, não há que se falar em violação ao princípio de presunção de inocência.
+Demais disso:
+ ..  A imposição da constrição processual em nada fere o princípio da presunção de inocência quando lastreada em elementos concretos dos autos que demonstram o perigo que a liberdade do agravante pode representar para a ordem pública. Precedentes  ..  (AgRg no HC 618.887/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021, DJe 14/04/2021).
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: DJe 03/10/ 2019).
+Acrescente-se, que a inversão do que restou decidido pelas instâncias ordinárias, demandaria, impreterivelmente, revolvimento de matéria fático-probatória, procedimento vedado na estreita via do habeas corpus, ainda mais quando não se demonstrou de plano a existência das condições subjetivas alegadas pelo paciente.
+Assim:
+ ..  O paciente não demonstrou a sua imprescindibilidade aos cuidados das menores. Rever tal posicionamento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental  ..  (AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023).
+No que se refere à insurgência quanto à nulidade do acórdão recorrido, verifico que a quaestio não foi objeto de deliberação pelo Tribunal de origem, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+ ..  Inicialmente, quanto à tese de excesso de prazo para a formação da culpa, verifica-se que o tema não foi analisado pela Corte de origem, o que inviabiliza sua análise no Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.  ..  (AgRg no HC n. 761.559/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/9/2022).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Nessa toada:
+ ..  É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu  ..  (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+Ante o expost o, denego a ordem em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem -se .
+EMENTA
