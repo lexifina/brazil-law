@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara Única da Comarca de Capitão Campos/PI, suscitante, e o Juízo da 3ª Vara do Juizado Especial Federal de Campinas/SP, suscitado, extraído dos autos da ação ordinária ajuizada por Raimundo Nonato de Oliveira contra o Instituto Nacional do Seguro Social - INSS, em que se pleiteia a concessão de benefício previdenciário.
+A ação foi ajuizada na Justiça Estadual e distribuída perante a Vara Única de Capitão Campos/PI, declinou da competência e remeteu os autos para o Juízo Federal de Indaiatuba-SP, ao argumento de que nenhuma das partes litigantes possui domicílio na comarca de Capitão Campos/PI, residindo à parte autora na cidade de Indaiatuba-SP, conforme certidão obtida pelo SIEL" (e-STJ fl. 163).
+Na justiça Federal os autos foram distribuídos à 3ª Vara Gabinete JEF de Campinas - SJ/SP que devolveu o processo por entender que o Juízo de Capitão de Campos é quem possui a competência originária para apreciar o feito uma vez que "a parte autora, com seu ajuizamento, juntara comprovante de endereço em Boqueirão do Piauí, PI; assim também o indeferimento pelo INSS se dera nessa localidade. Logo, a competência originaria para conhecimento do feito lá se fixara". (e-STJ fls. 176-177)
+Por sua vez, o Juízo estadual suscitou o presente conflito de competência e remeteu os autos ao Superior Tribunal de Justiça (e-STJ fl. 402).
+Parecer do Ministério Público Federal às e-STJ fls. 416-417, opinando pelo conhecimento do conflito para declarar competente o Juízo de Direito da Comarca de Capitão de Campos/PI, ora suscitante.
+É o relatório. Decido.
+O presente conflito de competência deve ser conhecido, pois se insere no que dispõe o artigo 105, I, "d", da Constituição Federal.
+Como visto, discute-se nos autos a possibilidade de alteração da competência do juízo em razão, "ao menos em tese", de o autor residir em local diverso daquele em que ajuizada a ação e onde residia o autor, pois conforme pesquisa realizada no Tribunal eleitoral o autor reside em outro estado da federação.
+Com efeito, nos termos do artigo 43 e 59 do CPC/2015:
+Art. 43. Determina-se a competência no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+(..)
+Art. 59. O registro ou a distribuição da petição inicial torna prevento o juízo.
+Consoante se extrai dos dispositivos supracitados, que consagram o princípio da perpetuatio jurisdicionis, a competência é fixada no momento do ajuizamento da ação, sendo admitida a sua modificação apenas nas hipóteses legais, de supressão do órgão ou alteração da competência absoluta, inexistentes no caso dos autos.
+Na espécie, como pontuado pelo Parquet, "os documentos trazidos aos autos (e-STJ fls. 7, 25-36, 157, 187-188e e 203)", indicam que o autor reside no município de Boqueirão do Piaui/PI, "pois de lá é o endereço da perícia e das demais informações prestadas pelo INSS relativas ao peticionário. Ademais, embora a conta de luz juntada aos autos não esteja em seu nome, pertence ao endereço de sua genitora, sra. Maria Aparecida de Sá, com a qual provavelmente resida." (e-STJ fl.417).
+Há de se considerar que as regras de fixação de competência no presente feito são de natureza territorial e, portanto, relativa, não podendo tal competência ser modificada no curso da ação em razão de modificações de fato ou de direito, nos termos da Súmula 33 desta Corte Superior.
+Assim, considerando que a demanda foi proposta no Juízo de Direito da Vara Única da Comarca de Capitão Campos/PI, não há que se falar em alteração da competência fixada nos termos dos art. 43 e 59 do CPC.
+Ilustrativamente, cita-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE BUSCA E APREENSÃO. DOMICÍLIO INDICADO PELO RÉU POR OCASIÃO DA CELEBRAÇÃO DO CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. POSTERIOR ALTERAÇÃO. IRRELEVÂNCIA. ART. 87 DO CPC. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Nos termos do art. 87 do CPC, "determina-se a competência no momento em que a ação é proposta. São irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem o órgão judiciário ou alterarem a competência em razão da matéria ou da hierarquia".
+2. Assim, eventual alteração no domicílio do réu, após a propositura da demanda, não tem o condão de modificar a competência já estabelecida.
+3. Na hipótese de o requerido ter comunicado ao banco credor a alteração de seu domicílio antes do ajuizamento da ação, informação que não consta nos autos, poderá arguir tal fato por meio da exceção de incompetência, caso tenha interesse. Precedente.
+4. Conflito conhecido para declarar a competência do Juízo suscitado. (CC n. 132.867/DF, rel. Min. Marco Aurélio Bellizze, Segunda Seção, DJe de 24/4/2015.)
+PROCESSO CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ESCOLHA DO FORO DE DOMICÍLIO DOS RÉUS. COMPETÊNCIA TERRITORIAL. PRINCÍPIO DA PERPETUATIO JURISDICTIONIS. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A competência determina-se no momento da propositura da ação (art. 87 do CPC) e, por força do art. 576 do CPC, as regras gerais de competência - previstas no Livro I, Título IV, Capítulos II e III  aplicam-se à ação de execução de título extrajudicial.
+ ..
+3. Em se tratando de hipótese de competência relativa, o art. 87 do CPC institui, com a finalidade de proteger a parte, a regra da estabilização da competência (perpetuatio jurisdictionis), evitando-se, assim, a alteração do lugar do processo, toda a vez que houver modificações supervenientes do estado de fato ou de direito.
+ ..
+6. Conflito conhecido para o fim de declarar a competência do Juízo de Direito da 7ª Vara Cível de Aracaju-SE, foro de domicílio dos réus. (CC n. 107.769/AL, rel. Min. Nancy Andrighi, Segunda Seção, DJe de 10/9/2010.)
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. DOMICÍLIO DO DEVEDOR. COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFICIO. SÚMULA 33/STJ. AUSÊNCIA DE EXCEÇÃO DE INCOMPETÊNCIA. SÚMULA 58/STJ.
+1. O foro competente para o ajuizamento da execução fiscal será o domicílio do réu, consoante a disposição contida no artigo 578, caput, do Código de Processo Civil. Por se tratar de competência relativa, a competência territorial não pode ser declarada ex officio pelo Juízo. Esse entendimento se consolidou com a Súmula 33 do Superior tribunal de Justiça, in verbis: "A incompetência relativa não pode ser declarada de oficio."
+ ..
+3. Ademais, a posterior mudança de domicílio do executado não influi para fins de alteração de competência, conforme teor da Súmula 58 do Superior Tribunal de Justiça, in verbis: "Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada."
+4. Conflito de competência conhecido para declarar a competência do Juízo Federal de Sinop - SJ/MT, o suscitado.(CC n. 101.222/PR, rel. Min. Benedito Gonçalves, Primeira Seção, DJe de 23/3/2009. Grifei)
+Por fim, vale registrar que, tratando de competência territorial e, portanto, de natureza relativa, não pode ser declinada de ofício pelo magistrado, nos termos da orientação contida na Súmula 33/STJ: "A incompetência relativa não pode ser declarada de ofício."
+Nesse sentido: CC 170.509/RJ, Min. Og Fernandes, DJ 10.6.2020; CC n. 125.206, Min. Humberto Martins, DJe de 30/10/2012.)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única da Comarca de Capitão Campos/PI, suscitante, suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. BENEFÍCIO PREVIDENCIÁRIO POR INCAPACIDADE. COMPETÊNCIA FIXADA NO MOMENTO DO AJUIZAMENTO DA AÇÃO. DOMICÍLIO DO POSTULANTE. DOCUMENTOS QUE COMPROVAM O DOMICÍLIO DO JUÍZO SUSCITANTE. ALTERAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA COMARCA DE CAPITÃO DE CAMPOS/PI (SUSCITANTE)
