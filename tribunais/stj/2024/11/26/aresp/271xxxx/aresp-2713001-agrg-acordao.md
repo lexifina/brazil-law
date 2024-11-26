@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. Desclassificação para consumo pessoal. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, aplicando o óbice da Súmula n. 7 do STJ, em relação à pretensão de desclassificação do crime de tráfico de drogas para transporte para consumo pessoal.
+2. O Tribunal de origem confirmou a condenação por tráfico de drogas, com base em provas documentais e orais, especialmente nos depoimentos dos policiais militares responsáveis pela prisão em flagrante.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível desclassificar o crime de tráfico de drogas para uso pessoal, considerando as circunstâncias apuradas na prisão em flagrante e a validade dos depoimentos dos policiais como prova.
+III. Razões de decidir
+4. A decisão de origem baseou-se em provas suficientes, incluindo depoimentos coerentes dos policiais resp onsáveis pela prisão em flagrante.
+5. A quantidade de droga e as circunstâncias da apreensão indicam destinação ao tráfico, não ao uso pessoal. A revisão do entendimento demandaria reexame de provas, o que é vedado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. Os depoimentos coerentes de policiais são meios idôneos de prova. 2. A desclassificação mediante reconhecimento do transporte para consumo pessoal esbarra no óbice da Súmula n. 7 desta Corte."
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33; Súmula n. 7 do STJ.
+Jurisprudência relevante citada: AgRg no AREsp n. 2.441.372/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024; AgRg no AREsp n. 2.480.768/DF, Rel. Min. Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão monocrática por meio da qual conheci do agravo para não conhecer do recurso especial por aplicação da Súmula n. 7, STJ.
+O agravo regimental argumenta que o pedido de desclassificação da condenação de tráfico de drogas para a conduta de posse de droga para consumo pessoal não demanda o revolvimento de fatos e provas (fls. 325-331).
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. Desclassificação para consumo pessoal. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, aplicando o óbice da Súmula n. 7 do STJ, em relação à pretensão de desclassificação do crime de tráfico de drogas para transporte para consumo pessoal.
+2. O Tribunal de origem confirmou a condenação por tráfico de drogas, com base em provas documentais e orais, especialmente nos depoimentos dos policiais militares responsáveis pela prisão em flagrante.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível desclassificar o crime de tráfico de drogas para uso pessoal, considerando as circunstâncias apuradas na prisão em flagrante e a validade dos depoimentos dos policiais como prova.
+III. Razões de decidir
+4. A decisão de origem baseou-se em provas suficientes, incluindo depoimentos coerentes dos policiais resp onsáveis pela prisão em flagrante.
+5. A quantidade de droga e as circunstâncias da apreensão indicam destinação ao tráfico, não ao uso pessoal. A revisão do entendimento demandaria reexame de provas, o que é vedado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. Os depoimentos coerentes de policiais são meios idôneos de prova. 2. A desclassificação mediante reconhecimento do transporte para consumo pessoal esbarra no óbice da Súmula n. 7 desta Corte."
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33; Súmula n. 7 do STJ.
+Jurisprudência relevante citada: AgRg no AREsp n. 2.441.372/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024; AgRg no AREsp n. 2.480.768/DF, Rel. Min. Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024.
+VOTO
+A controvérsia dos autos consiste em verificar se o pedido recursal de desclassificação da conduta do recorrente esbarra no óbice da Súmula n. 7, STJ.
+O recorrente foi condenado nas instâncias ordinárias como incurso nas sanções do art. 33, caput, c/c art. 40, inciso VI, da Lei n. 11.343/0, tendo em vista a apreensão de 26,16g de crack em abordagem policial.
+O recurso especial argumentou afronta aos arts. 28 e 33 da Lei n. 11.343/06, uma vez que não haveria nos autos comprovação de difusão ilícita de drogas, necessária para respaldar a condenação por tráfico. Afirmou não haver nos autos elementos que indiquem o comércio da substância entorpecente.
+Conforme assinalei na decisão agravada, o Tribunal de origem, soberano na análise do acervo fático-probatório, afastou a tese defensiva de desclassificação para o tipo de posse de droga para consumo pessoal, com base nos depoimentos dos policiais. Concluiu estar devidamente comprovada a dedicação do recorrente ao comércio de entorpecentes. A propósito:
+"O Apelante, em seu interrogatório judicial, negou a propriedade da droga, dizendo o seguinte: que a denúncia não é verdadeira; que no dia eu estava tão embriagado como estava sob efeito de entorpecente; que minha esposa e dois filhos estavam na pizzaria; que ela me ligou para ir para casa; que os peguei na "Jatuarana"; que pediu para ir e fui meio cansado; que me avistaram (PMs) e viram algo que chamou a atenção e logo de praxe me abordaram; que Jeferson achou um invólucro no meu bolso que era de cocaína; que logo após perguntaram da minha mulher e as crianças ficaram sentadas na calçada; que os policiais mesmo avistaram que eu não estava normal e fizeram a pesquisa nominal e encontraram esse mandado aberto; que era pouco na época, para meu consumo; que minha advogada estava presa, não recorreu; que ali ele me algemou e disse que não faria outra ocorrência; que o outro policial disse que era caso de registrar; que falei que faria entrega em 2017 onde cada entrega eu ganharia R$50,00 reais, mas que agora eu não fazia mais isso porque estava com o restaurante, trabalhando; que ficaram bravos, me algemaram, me levaram para delegacia; que sob efeito do álcool e entorpecentes eu acabei dormindo na delegacia; que quando chegou o papel de 10 dias com esse relatório que achei até injusto porque uma coisa tão mínima me prenderam por aquilo; que usaram meu passado para prender novamente; que hoje estou com defensor, que se fosse traficante teria um advogado particular; que perguntei ao meu filho se falaram com ele e respondeu que os policiais o teriam questionado, mas ele não teria nada; que o policial disse que a esposa não viu; que o que encontraram comigo era cocaína; que hoje, graças a Deus, no sistema mesmo tendo entorpecente, não uso mais; que estou liberto e pretendo sair daqui com apoio da família porque essas coisas só me atrasam na vida.
+Contudo, as alegações do apelante não encontram amparo nas provas carreadas nos autos, pois restou comprovada autoria delitiva da prática do apelante no crime de tráfico de drogas.
+Em juízo, sob o crivo do contraditório, a testemunha policial Rafael de Oliveira Borges, narrou que estavam em patrulhamento por de trás do colégio São Bento, no período da noite, quando avistaram um veículo PALIO de cor vinho trafegando devagar e fazendo zigue- zague, o que levantou suspeitas de que a pessoa que dirigia o carro tivesse embriagada. Então, os policiais deram ordem de parada, e RAFAEL obedeceu, bem como desceu do carro. Ato seguido, os milicianos visualizaram que no banco do carona estava sua amasia com um bebe de colo, e que no banco detrás havia um garoto na faixa etária de 10 anos, ocasião em pediram para que todos descessem do veículo. Durante busca pessoal no réu, foi encontrado dinheiro trocado, no valor de R$ 300,00 a R$ 400,00 reais. Seguidamente, fizeram pesquisa nominal e constataram que havia um mandado de prisão em desfavor de RAFAEL. Questionado qual crime teria cometido, o réu respondeu que seria por tráfico de drogas. Situação em que foi chamado uma policial feminina para que realizasse revista pessoa na esposa de RAFAEL, mas nada foi localizado, nem mesmo no carro. Entretanto, quando perguntaram para o garoto se ele tinha alguma coisa no bolso, este enfiou a mão no bolso e retirou um pedaço razoável de crack, COCAÍNA oxidada. Narrou ainda, que o menino falou que o pai ao ver a viatura se aproximar, passou a droga para que ele guardasse a droga. Questionado, RAFAEL confessou que tinha pego a droga no bairro Cidade Nova, venderia por R$ 400 reais, e ganharia R$ 50 reais nesta vendição.
+A testemunha policial militar Jefferson Rafael Lima de Assis, relatou que no dia estavam em patrulhamento perto do colégio São Bento quando avistaram um veículo PALIO em zigue-zague. Diante disso, pararam o carro, fizeram abordagem, e constataram que não se tratava de pessoa embriagada. Então, fizeram abordagem e pesquisa nominal. Ocasião em que constataram que havia um mandado de prisão em desfavor de RAFAEL por decorrência de tráfico de drogas. Que no dia dos fatos foi chamado uma policial feminina para fazer a revista na esposa do réu e que não foi feita revista na criança, uma vez que a própria retirou a droga do bolso e afirmou que seu pai ao ver a viatura lhe deu para que guardasse. Por fim, disse que RAFHAEL ao ser questionado, confessou que venderia a droga por R$ 400 reis e ganharia R$ 50 reais.
+O apelante não comprovou as alegações apresentadas no interrogatório, restando isoladas do conjunto probatório, com isso, os depoimentos dos Policiais Militares, são suficientes para configurar a autoria do apelante no delito de tráfico de drogas.
+Conforme entendimento jurisprudencial consolidado, o depoimento de testemunhas policiais militares, em regra, possui plena eficácia probatória, sendo tal presunção afastada apenas na presença de motivos concretos que coloquem em dúvida a veracidade de suas declarações. Nesse sentido. (STF -HC 73518/SP) e (STJ -HC 45653/PR). Para a configuração do crime de tráfico ilícito de drogas, a lei não exige qualquer ato de comércio e, da mesma forma, é inexigível a tradição, para a consumação do delito. Na mesma seara, a Lei de Drogas não exige que seja o agente surpreendido no ato de venda do entorpecente, bastando que as circunstâncias em que se desenvolveu a ação criminosa, a natureza e a quantidade do entorpecente denotem a traficância.
+Demais disso, o art. 33 da Lei de Drogas é congruente ou congruente simétrico, esgotando-se, o seu tipo subjetivo no dolo. As figuras, v.g., de transportar, trazer consigo, guardar ou, ainda, de adquirir não exigem, para a adequação típica, qualquer elemento subjetivo adicional tal como o fim de traficar ou comercializar. As provas carreadas aos autos são suficientes para concluir pela comprovação da prática de tráfico, afastando o pedido de desclassificação."
+Ressalto que a Lei de Tóxicos não exige que o agente seja surpreendido no ato da venda do entorpecente, bastando que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância para a caracterização do crime.
+Por outro lado, os depoimentos em juízo dos policiais que realizaram a abordagem e apreenderam a droga são meios idôneos para respaldar a condenação, sobretudo quando se alinham aos outros elementos probatórios constantes dos autos. Nesse sentido: AREsp n. 2.196.902/TO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024; REsp n. 1.974.300/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2024, DJe de 6/9/2024.
+Ademais a quantidade e a natureza da droga apreendida (26g de crack), somada às demais circunstâncias concretas do flagrante: réu com mandado de prisão em aberto, condenação pretérita por tráfico de drogas, a entrega do material ilícito ao filho menor de idade a fim de que este escondesse o ilícito revelam a adequação da condenação pelo crime de tráfico de drogas.
+Nessa linha, o provimento do pedido de desclassificação dependeria da incursão no acervo fático-probatório, providência inviável em sede de recurso especial, nos termos da Súmula n. 7, STJ. Confira-se:
+"DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA CONSUMO PESSOAL. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, aplicando o óbice da Súmula n. 7 do STJ, em relação à pretensão de desclassificação do crime de tráfico de drogas para transporte para consumo pessoal.
+2. O Tribunal de origem confirmou a condenação por tráfico de drogas, com base em provas documentais e orais, especialmente nos depoimentos dos policiais militares responsáveis pela prisão em flagrante.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível desclassificar o crime de tráfico de drogas para uso pessoal, considerando as circunstâncias apuradas na prisão em flagrante e a validade dos depoimentos dos policiais como prova.
+III. Razões de decidir
+4. A decisão de origem baseou-se em provas suficientes, incluindo depoimentos coerentes dos policiais responsáveis pela prisão em flagrante.
+5. A quantidade de droga e as circunstâncias da apreensão indicam destinação ao tráfico, não ao uso pessoal. A revisão do entendimento demandaria reexame de provas, o que é vedado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. Os depoimentos coerentes de policiais são meios idôneos de prova. 2. A desclassificação mediante reconhecimento do transporte para consumo pessoal esbarra no óbice da Súmula n. 7 desta Corte."
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33; Súmula n. 7 do STJ.Jurisprudência relevante citada: AgRg no AREsp n. 2.441.372/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024; AgRg no AREsp n. 2.480.768/DF, Rel. Min. Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024" (AgRg no AREsp n. 2.658.619/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024).
+"DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REEXAME DE PROVAS. RECURSO DESPROVIDO.
+I. Caso em exame 1. Agravo em recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Tocantins que negou provimento ao recurso de apelação criminal, mantendo a condenação por tráfico de drogas e associação para o tráfico.
+2. O recorrente alega violação dos arts. 33 e 28 da Lei n. 11.343/2006, sustentando que a pequena quantidade de droga apreendida não caracteriza tráfico, devendo ser desclassificada para uso pessoal.
+3. O Tribunal a quo fundamentou a condenação em provas robustas, incluindo depoimentos de policiais e apreensão de drogas e dinheiro, indicando prática de tráfico.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condenação por tráfico de drogas pode ser mantida com base no conjunto probatório apresentado, sem reexame de provas, em face do óbice da Súmula 7 do STJ.
+III. Razões de decidir
+5. O Tribunal de origem concluiu pela suficiência do conjunto probatório para a condenação, não sendo possível o reexame de fatos e provas em recurso especial, conforme a Súmula 7 do STJ.
+6. A alegação de desclassificação para uso pessoal demandaria reavaliação do material fático-probatório, o que é inviável na via eleita.
+7. A condenação foi fundamentada em depoimentos de policiais e evidências materiais, considerados meios de prova idôneos.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL" (AREsp n. 2.196.902/TO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024 ).
+Não apresentadas razões aptas a infirmar a decisão agravada, a manutenção desta é medida que se impõe.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
