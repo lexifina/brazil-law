@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VITOR EMANUEL BRITTO OLEGÁRIO DE MORAIS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (HC n. 0012795-19.2024.8.17.9000).
+Consta que o paciente teve a prisão temporária decretada, posteriormente convertida a custódia em preventiva, pela suposta prática do crime previsto no art. 121, §2º, inciso IV, do Código Penal, pelo qual foi pronunciado. Posteriormente, o Magistrado singular indeferiu o pedido de extensão dos efeitos do decisum que concedeu a liberdade provisória ao corréu ELISON, mantendo a prisão cautelar de FÁBIO.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, a parte impetrante sustenta, em síntese, (i) a ausência de fundamentação idônea e dos re quisitos necessários para a manutenção da custódia preventiva do paciente, (ii) suficiência das medidas cautelares alternativas, (iii) existência de condições favoráveis e (iv) extensão dos efeitos da decisão que revogou a prisão do corréu.
+O pedido liminar foi indeferido às fls. 460-467.
+Informações prestadas às fls. 473-475.
+O Ministério Público Federal manifestou-se, às fls. 484-490, pelo não conhecimento do writ em razão da necessidade de reexame do arcabouço probatório, bem como por inadequação da via eleita.
+É o relatório.
+DECIDO.
+A ordem deve ser denegada.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente em 04/12/2022 a fundamentou na garantia da ordem pública e na conveniência da instrução criminal e para assegurar a aplicação da lei penal. Arguiu que as "circunstâncias extremamente graves" do crime imputado ao paciente, "com a execução da vítima no centro da cidade e em local de grande circulação de pessoas, o que gerou um impacto social sério e preocupante, criando um ambiente temeroso para as testemunhas", tanto é assim, prosseguiu, que "a marcação da sessão de julgamento para este processo foi posteriormente acompanhada pelo pedido do Ministério Público para a mudança de local do julgamento, com o intuito de preservar a imparcialidade dos jurados". Concluiu ressaltando a periculosidade do paciente, "conforme indicam os indícios até o momento".
+O Tribunal de origem, por sua vez, manteve a segregação cautelar do acusado, consignando, verbis (fl. 454):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PEDIDO DE EXTENSÃO DOS EFEITOS DE DECISÃO QUE SUBSTITUIU A PRISÃO PREVENTIVA DE CORRÉU POR MEDIDAS CAUTELARES DIVERSAS. INACOLHIMENTO. SITUAÇÕES FÁTICO-PROCESSUAIS DIFERENTES. NÃO INCIDÊNCIA DO ARTIGO 580 DO CPP. CUSTÓDIA CAUTELAR DO PACIENTE. NECESSIDADE. PERICULOSIDADE SOCIAL. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. - ORDEM DENEGADA, À UNANIMIDADE.
+Com efeito, a prisão preventiva foi muito bem fundamentada pelo juízo a quo e pelo Tribunal de origem na especial reprovabilidade dos fatos, evidenciada a partir do modus operandi realizado, da periculosidade do paciente, das circunstâncias da prática delitiva e do fundado receio de reiteração delitiva, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM DENEGADA. FALTA DE NOVOS ARGUMENTOS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. EXCESSO DE PRAZO. PECULIARIDADES DA DEMANDA. PENA COMINADA. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. O modus operandi do crime de homicídio qualificado, supostamente cometido mediante golpes de faca peixeira na vítima, por motivo fútil, após mera discussão em um bar, é bastante para evidenciar a gravidade concreta dos fatos e a acentuada periculosidade social do acusado, bem como para lastrear a medida cautelar mais onerosa, que lhe foi imposta.
+3. A existência de ações penais em curso, por crimes violentos, e a prévia condenação definitiva por delito contra a vida, ao cumprimento de mais de 10 anos de reclusão, apontam o risco concreto de reiteração delitiva e são aptas, de acordo com a orientação desta Corte, para amparar o cárcere preventivo do réu.
+(..)
+7. Agravo regimental não provido.
+(AgRg no HC n. 823.916/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. MOTIVO FÚTIL. PERIGO COMUM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. GRAVIDADE EM CONCRETO DA CONDUTA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, está evidente a imprescindibilidade da mantença da prisão preventiva para garantia da ordem pública, diante das graves circunstâncias do caso concreto (modus operandi) e do fundado risco de reiteração delitiva.
+3. O agravante, reincidente, teria tentado ceifar a vida da vítima, mediante golpes de faca na região da cabeça do ofendido, causando-lhe graves lesões, não se consumando o intento homicida por circunstâncias alheias a sua vontade.
+4. A prisão preventiva também justifica-se diante do risco de reiteração delitiva, porquanto o agravante é reincidente.
+5. Agravo regimental não provido.
+(AgRg no HC n. 833.150/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/5/2024, DJe de 10/5/2024; grifamos).
+Por outro lado, a análise da extensão dos efeitos da liberdade provisória do corréu para o paciente demandaria análise fático-probatória, o que é inviável na seara do habeas corpus. Destarte, esta C. Corte Superior possui entendimento pacífico "no sentido de ser imprópria a via do habeas corpus para a análise de teses de insuficiência probatória, negativa de autoria, bem como desclassificação de delitos, em razão da necessidade de incursão no acervo fático-probatório" (AgRg no HC n. 864.588/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024.)
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
