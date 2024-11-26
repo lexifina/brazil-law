@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de embargos de declaração opostos pela PETRÓLEO BRASILEIRO S.A, SHELL BRASIL PETRÓLEO LTDA e PETROGAL BRASIL S.A. contra a decisão da Exma. Sra. Ministra Assusete Magalhães, por meio da qual foi provido o respectivo recurso especial (fls. 3560-3570).
+Alega a parte embargante a existência de omissão na decisão embargada, pois não teria havido a inversão dos ônus sucumbenciais. Argumenta que "o pedido recursal principal das Embargantes foi acolhido em sua integralidade: houve a reforma integral do V. acórdão recorrido, para aplicar o princípio Kompetenz-Kompetenz, de modo a autorizar que o Tribunal Arbitral prossiga ao exame do caso concreto e decida sobre sua própria competência para resolução do litígio pendente entre as partes" (fl. 3581).
+Aduz, ainda, que tendo sido o pedido principal acolhido "eventual exame dos pedidos subsidiários não é tecnicamente necessário (cf. art. 326 do CPC), especialmente o pedido de anulação do V. acórdão recorrido por vício de pronunciamento/integração (violação aos arts. 489, § 1º, IC, e 1.022, incisos I e II, do CPC)." (idem).
+Requerem " o acolhimento integral dos presentes embargos de declaração, sem efeitos modificativos, a fim de que a R. decisão embargada de fls. 3560-3570 seja integrada para registrar o provimento integral do recurso especial e, diante disso, a inversão dos honorários advocatícios fixados no caso." (fl. 3583).
+Impugnação às fls. 3641-3645.
+É o relatório.
+Decido.
+A petição inicial da ação proposta pela Agência Nacional do Petróleo, Gás Natural e Combustíveis - ANP requereu que "fossem julgados procedentes os pedidos articulados na presente ação para declarar a indisponibilidade do direito objeto da arbitragem e a consequente inaplicabilidade da cláusula de arbitragem com a declaração de nulidade do procedimento arbitral" (fl. 29). Os pleitos foram julgados integralmente procedentes na sentença (fls. 989-1001), a qual foi reformada pelo Tribunal de origem tão-somente para reduzir o valor dos honorários advocatícios (fls. 1368-1415).
+Nesse contexto, o provimento do recurso especial, "reformando o acórdão recorrido, a fim de reconhecer a que cabe ao juízo arbitral deliberar sobre a competência prevista na cláusula compromissória" (fl. 3570), importou na improcedência integral dos pleitos formulados na exordial. Assim, os ônus sucumbenciais ficaram invertidos, devendo ser integralmente suportados pela ANP, com a observância dos valores fixados no julgamento da apelação.
+Ante o exposto, ACOLHO os embargos de declaração, para complementar a decisão embargada, invertendo os ônus sucumbenciais, na forma da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PROVIMENTO DO APELO NOBRE. IMPROCEDÊNCIA DO PEDIDO INICIAL. ÔNUS SUCUMBENCIAIS. INVERSÃO DEVIDA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
