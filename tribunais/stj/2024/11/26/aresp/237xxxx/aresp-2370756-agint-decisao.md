@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE SÃO PAULO da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu do recurso por ter o recorrente deixado de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo - Súmula 284/STF (fls. 269/270).
+A parte agravante afirma que indicou como violado o art. 130 do Código Tributário Nacional.
+Requer a reforma da decisão recorrida para que o agravo seja conhecido e, ao final, provido o recurso especial.
+A parte adversa apresentou impugnação às fls. 279/282.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada por entender que o município citou o art. 130 do CTN para fins de fundamentar o seu recurso especial.
+Passo ao exame do agravo em recurso especial.
+No presente caso, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO não admitiu o recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO em razão das Súmulas 7 do Superior Tribunal de Justiça (STJ) e 280 do Supremo Tribunal Federal (STF).
+No agravo em recurso especial interposto, a parte recorrente alegou que não se aplica a Súmula 7/STJ ao presente caso, porquanto não seria necessária a análise de provas, somente a aplicação da norma do art. 130 do CTN.
+O agravo em recurso especial tem por finalidade desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados a fim de demonstrar o seu desacerto.
+Da leitura das razões recursais, constato que a parte agravante deixou de impugnar a decisão de admissibilidade relativamente à Súmula 280/STF (análise de lei local).
+A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ, aplicável por analogia. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+Finalmente, é preciso frisar que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, ao contrário, ela é formada por um único dispositivo, situação que demanda da parte interessada a impugnação de todos os fundamentos em razão dos quais não se admitiu seu recurso. Confira-se o seguinte precedente da Corte Especial:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, reconsiderando a decisão agravada, não conheço do agravo em recurso especial por outro fundamento.
+Publique-se. Intimem-se.
+ EMENTA
