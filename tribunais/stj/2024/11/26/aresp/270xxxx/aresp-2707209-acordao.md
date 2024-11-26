@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para negar provimento ao recurso especial.
+Os Srs. Ministros Ribeiro Dantas e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. TRANSPORTE E GUARDA DE ENTORPECENTES. ECSTASY E LSD. CONJUNTO PROBATÓRIO SUFICIENTE. PALAVRA DOS POLICIAIS. RECONHECIMENTO DO CRIME DE TRÁFICO. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA POSSE PARA CONSUMO PRÓPRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra acórdão que manteve a condenação do recorrente pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), com base na apreensão de 24 comprimidos de ecstasy e 89 micropontos de LSD. A condenação apoiou-se em depoimentos de policiais rodoviários e na admissão, pelo réu, da propriedade das substâncias entorpecentes.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a conduta do recorrente caracteriza o crime de tráfico de drogas ou se deve ser desclassificada para posse de drogas para uso pessoal (art. 28 da Lei n. 11.343/2006), considerando as circunstâncias da apreensão e as provas testemunhais.
+III. RAZÕES DE DECIDIR
+3. A Corte de origem concluiu pela existência de elementos suficientes para caracterizar o tráfico de drogas, com base nos depoimentos coerentes dos policiais rodoviários e na quantidade e natureza das substâncias apreendidas (ecstasy e LSD), que indicavam destinação a terceiros, afastando a hipótese de uso exclusivo.
+4. A desclassificação da conduta para posse de drogas para consumo próprio demandaria o reexame aprofundado do acervo probatório, em especial para verificar a real destinação das drogas, o que é vedado na via do recurso especial, em razão da Súmula 7 do STJ.
+5. A jurisprudência do STJ reconhece que a condenação por tráfico de drogas pode se fundamentar em elementos indiciários que permitam inferir a prática de mercancia, dispensando a necessidade de flagrante ato de venda, sendo válida a palavra dos policiais em tais contextos, desde que coerente e alinhada ao restante das provas.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Consta dos autos que o Tribunal de origem deu parcial provimento ao recurso de apelação da defesa para reduzir as penas do réu para 1 ano e 8 meses de reclusão, no regime inicial aberto, além do pagamento de 166 dias-multa, no valor unitário mínimo legal (nos termos do art. 43 da Lei 11.343/2006), por infração ao art. 33, § 4º, da Lei n. 11.343/2006, sendo a pena privativa de liberdade substituída por uma pena restritiva de direitos e multa.
+A defesa interpôs recurso especial apontando violação do art. 28 da Lei n. 11.343/2006, ao argumento de que a droga apreendida era para consumo pessoal, requerendo a desclassificação do crime de tráfico para o de uso próprio, devendo ser aplicado o art. 28 da Lei 11.343/2006.
+O recurso foi inadmitido com fundamento na Súmula 7/STJ.
+No presente agravo, a defesa alega não incidir o referido óbice sumular.
+Contraminuta apresentada, em que a parte recorrida postula o não conhecimento do recurso ou o seu desprovimento.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo, a fim de que não seja conhecido do recurso especial.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. TRANSPORTE E GUARDA DE ENTORPECENTES. ECSTASY E LSD. CONJUNTO PROBATÓRIO SUFICIENTE. PALAVRA DOS POLICIAIS. RECONHECIMENTO DO CRIME DE TRÁFICO. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA POSSE PARA CONSUMO PRÓPRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra acórdão que manteve a condenação do recorrente pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), com base na apreensão de 24 comprimidos de ecstasy e 89 micropontos de LSD. A condenação apoiou-se em depoimentos de policiais rodoviários e na admissão, pelo réu, da propriedade das substâncias entorpecentes.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a conduta do recorrente caracteriza o crime de tráfico de drogas ou se deve ser desclassificada para posse de drogas para uso pessoal (art. 28 da Lei n. 11.343/2006), considerando as circunstâncias da apreensão e as provas testemunhais.
+III. RAZÕES DE DECIDIR
+3. A Corte de origem concluiu pela existência de elementos suficientes para caracterizar o tráfico de drogas, com base nos depoimentos coerentes dos policiais rodoviários e na quantidade e natureza das substâncias apreendidas (ecstasy e LSD), que indicavam destinação a terceiros, afastando a hipótese de uso exclusivo.
+4. A desclassificação da conduta para posse de drogas para consumo próprio demandaria o reexame aprofundado do acervo probatório, em especial para verificar a real destinação das drogas, o que é vedado na via do recurso especial, em razão da Súmula 7 do STJ.
+5. A jurisprudência do STJ reconhece que a condenação por tráfico de drogas pode se fundamentar em elementos indiciários que permitam inferir a prática de mercancia, dispensando a necessidade de flagrante ato de venda, sendo válida a palavra dos policiais em tais contextos, desde que coerente e alinhada ao restante das provas.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da Súmula n. 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da Súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da Súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da Súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violado o art. 28 da Lei n. 11.343/2006.
+O Tribunal de origem, ao manter a condenação do recorrente pelo crime de tráfico de drogas, assim se manifestou (e-STJ fls. 693-695):
+Diante deste quadro, a condenação será mantida.
+A autoria restou bem demonstrada pelos depoimentos dos policiais rodoviários federais que estavam realizando uma operação "comando" na praça de pedágio de Arujá, quando visualizaram e determinaram a parada do veículo Honda City, placas EMY-6555, conduzida pelo acusado Eduardo Ribeiro dos Santos, tendo como passageiros Guilherme Malafaia Cunha, Carine Laize de Oliveira Graciano e Priscilla Maia Correa da Silva, ocasião em que perceberam o réu Eduardo demasiadamente nervoso, segurando sua carteira nas mãos e resolveram abordá-lo, tendo encontrado na referida carteira vinte e quatro (24) comprimidos de "Ecstasy" e oitenta e nove (89) micropontos de "LSD". Indagado, admitiu que as drogas eram de sua propriedade e que havia comprado para consumir em uma festa "rave" e que todos iriam usá-las (folhas 08/09 e 10 e em juízo).
+Foram apreendidos 24 comprimidos de "ecstasy" e 89 micropontos de "lsd" (auto de apreensão de folha 31/32).
+As palavras dos policiais rodoviários federais foram seguras, coerentes e convincentes, não havendo nenhum motivo para duvidar deles. Inclusive porque o réu Eduardo Ribeiro dos Santos, em que pese ter negado a traficância, admitiu a propriedade dos entorpecentes, que teria adquirido por R$ 500,00.
+Nesse contexto, entendo haver prova mais do que suficiente para a manutenção do édito de rigor, não havendo se falar em insuficiência probatória e em desclassificação para mera posse de droga para uso próprio, pois, inclusive, o réu admitiu que estava transportando a droga (interrogatório policial de folha 11).
+Portanto, as circunstâncias em que ocorreu a apreensão da substância entorpecente materialmente comprovada nos autos, corroboradas pelos depoimentos altamente comprometedores dos policiais rodoviários federais, demonstram, de modo inequívoco, que Eduardo Ribeiro dos Santos transportava e guardava, ilegalmente, o "ecstasy" e o "lsd". Sua conduta comprova e caracteriza de forma inequívoca o tráfico de drogas. Não se exige, para tanto, que haja prova concreta da mercancia, sendo suficiente a presença de elementos dos quais se possam inferir a sua ocorrência. Em outras palavras, o tráfico ficou bem provado e configurado. Enfim, como destacado na denúncia e acolhido na sentença, transportava e guardava, ilegalmente, as drogas mencionadas e isso basta para reconhecer a traficância.
+Nesse contexto, entendo haver prova mais do que suficiente para a manutenção do édito de rigor, não havendo se falar em insuficiência probatória e em desclassificação para mera posse de droga para uso próprio ou consumo compartilhado, pois, inclusive, o réu Eduardo Ribeiro dos Santos admitiu, em Juízo, (folha 546) a propriedade das drogas e que as havia adquirido em quantidade razoável, pelo valor de quinhentos reais (R$ 500,00) para serem consumidas em uma festa "rave", que por certo não seriam de seu uso exclusivo.
+Ressalta-se que é óbvio que o réu Eduardo Ribeiro dos Santos não cederia, gratuitamente, das suas drogas a nenhuma pessoa e, este fato, não ficou comprovado nos autos.
+Assim, data venia, inviável é a pretendida desclassificação do delito.
+O chamado consumo compartilhado, previsto no artigo 33, § 3º, da lei nº 11.343/06, em absoluto restou caracterizado diante dos interrogatórios em juízo dos outros réus, que negaram que soubessem que Eduardo estava com drogas quando da abordagem policial.
+Assim, data venia, inviável é o pedido de desclassificação do delito. As circunstâncias da prisão, bem como a quantidade das drogas apreendidas indicam que se destinavam a repasse a terceiros e não ao consumo.
+Como se vê, a Corte de origem entendeu que foi configurado o crime de tráfico de drogas, apontando "as circunstâncias em que ocorreu a apreensão da substância entorpecente materialmente comprovada nos autos, corroboradas pelos depoimentos altamente comprometedores dos policiais rodoviários federais, demonstram, de modo inequívoco, que Eduardo Ribeiro dos Santos transportava e guardava, ilegalmente, o "ecstasy" e o "lsd"".
+Desse modo, apoiada a condenação pelo delito de tráfico de entorpecentes em prova suficiente, o acolhimento do pedido de absolvição do delito do art. 33, caput, da Lei n. 11.343/2006, ou desclassificação para o art. 28, caput, da referida l ei, demanda o exame aprofundado dos fatos, o que é inviável nesta via, por incidência da Súmula 7/STJ. No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. INGRESSO NA RESIDÊNCIA DE UM DOS ACUSADOS. FUNDADAS RAZÕES. POSSIBILIDADE. ARGUIÇÃO DE NULIDADE. OFENSA AO PRINCÍPIO DA NÃO AUTOINCRIMINAÇÃO. NÃO OCORRÊNCIA. ADEMAIS, CONDENAÇÃO AMPARADA EM OUTRAS PROVAS. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DO DELITO PARA USO DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. EXACERBAÇÃO DA PENA-BASE. QUANTIDADE DOS ENTORPECENTES. AUMENTO PROPORCIONAL. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+6. No que tange ao pleito de absolvição ou desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas (uma porção de maconha e mais uma barra da mesma substância, pesando mais de 2 kg, além de pontos de LSD), mas também diante da prova testemunhal e circunstâncias da apreensão.
+ ..
+17. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.917.106/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
