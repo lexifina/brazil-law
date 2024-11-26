@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 1.361):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DA TUTELA. SENTENÇA DE PROCEDÊNCIA. ADMISSIBILIDADE. OFENSA À DIALETICIDADE NÃO CONSTATADA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. ENCAMINHAMENTO DE OFÍCIOS À RECEITA FEDERAL E À JUNTA COMERCIAL. INOCORRÊNCIA. MÉRITO. EXCLUSÃO DE DEPENDENTE EM RAZÃO DA IDADE. OPERADORA QUE EXERCEU O DIREITO APÓS PASSADOS 18 (DEZOITO) ANOS. EXPECTATIVA DO CONSUMIDOR DE CONTINUIDADE NA RELAÇÃO CONTRATUAL FIRMADA. BOA-FÉ CONTRATUAL. ART. 422 DO CÓDIGO CIVIL. SUPRESSÃO DA CLÁUSULA CONTRATUAL. OPERADORA QUE CONTINUOU A RECEBER AS PARCELAS E PERMITIR A REALIZAÇÃO DE TRATAMENTOS. VEDAÇÃO AO VENIRE CONTRA FACTUM PROPRIUM. POSSIBILIDADE DE MANUTENÇÃO DO PLANO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS FIXADOS. RECURSO DE APELAÇÃO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados, com aplicação de multa (e-STJ fls. 1.385/1.389).
+No recurso especial (e-STJ fls. 1.392/1.427), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega ofensa aos arts: 187 e 422 do CC/2002, 4º, III, do CDC, bem como aos arts. 7º, 10, e 1.025 do CPC/2015.
+Insurge-se contra a conclusão da Corte local de que "a apelante permitiu que a apelada tivesse expectativa de que a cláusula limitativa quanto à permanência da dependente no plano não seria mais aplicada, uma vez que permaneceu usufruindo do plano, com pagamento da contraprestação pecuniária, ao longo de 18 (dezoito) anos" (e-STJ fl. 1.365).
+A parte afirma:
+(i) ofensa aos arts. 7º e 10 do CPC/2015, pois:
+ ..  o não deferimento e impedimento de que a parte recorrente pudesse produzir a prova necessária, consubstanciada na exibição de documentos oportunamente pleiteada, ocasiona total cerceamento do exercício do contraditório e ampla defesa, através da produção das provas necessárias, amplas e aptas a formar uma cognição exauriente" (e-STJ fl. 1.412/1.413); e
+(ii) violação dos arts. 187 e 422 do CC/2002 e 4º, III, do CDC, uma vez que:
+a. tendo a recorrida, igual ciência sobre a situação de implementação de condição de exclusão, deveria ter buscado a migração ou adaptação, independente da ocorrência da noticiada notificação, significando dizer, que a recorrida não agiu em boa fé, pois continuou a se albergar numa qualidade que já não existia (e-STJ fl. 1.414); e
+b. entende-se que a situação dos autos é caracterizadora de abuso de direito por parte da recorrida, reprimido pelo artigo 187 do Código Civil, abuso este que obsta a "supressio" ou "surrectio" (e-STJ fls. 1.415); e
+(iii) divergência jurisprudencial (e-STJ fls. 1.415);
+(iv) contrariedade ao art. 1.025 do CPC/2015, pois "os embargos de declaração na modalidade de prequestionamento não podem ser protelatórios, pois servem para declarar a violação dos preceitos da lei federal invocados, aliás como já pacificado pela Súmula 98 do Superior Tribunal de Justiça" (e-STJ fl. 1.045).
+Ao final, requer o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ fls. 1.453/1.463).
+O recurso foi admitido na origem, nos termos da decisão de fls. 1.464/1.465 (e-STJ).
+É o relatório.
+Decido.
+A controvérsia tem origem na iniciativa tardia da operadora de excluir a demandante do plano de saúde por ter sido ultrapassada a idade limite de 24 anos para permanecer na condição de dependente.
+A operadora só providenciou a exclusão depois de transcorridos quase 18 anos da data em que a dependente implementou a idade limite de 24 anos.
+O Juízo de origem julgou "PROCEDENTE o pedido inicial para o fim de CONDENAR a ré a manter o plano de saúde da autora, nos moldes contratados" (e-STJ fl. 1.319).
+O Tribunal a quo manteve a sentença.
+(I) O Tribunal concluiu que "a prova solicitada  declarações de imposto de renda dos anos de 2019 e 2020  não se revela necessária à elucidação da controvérsia", pois o fundamento da condenação foi o "tempo decorrido desde que a demandante atingiu 24 (vinte e quatro) anos até a notificação de exclusão, encaminhada 18 (dezoito) anos após" (e-STJ fls. 1.363).
+Modificar o entendimento do acórdão impugnado para que se conclua, de modo diverso, pela relevância da demonstração da condição financeira da demandante, a configurar cerceamento de defesa, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+(II) O Tribunal concluiu, com base no princípio da boa-fé objetiva, que a operadora gerou na dependente legítima expectativa de permanecer no plano de saúde, pois o limite etário de 24 anos de idade havia sido ultrapassado há quase 18 anos (e-STJ fl. 1.365/1.366):
+ ..  a apelada completou 24 (vinte e quatro) anos em 16/07/2003, fato que por depender apenas de dado objetivo, seria passível de ser conhecido pela apelante, e continuou a usufruir do plano como dependente e adimplindo as parcelas até março de 2021.
+..
+21. Ao assim agir, a apelante permitiu que a apelada tivesse expectativa de que a cláusula limitativa quanto à permanência da dependente no plano não seria mais aplicada, uma vez que permaneceu usufruindo do plano, com pagamento da contraprestação pecuniária, ao longo de 18 (dezoito) anos.
+22. Diante do não exercício do direito contratual e da expectativa por ele criada, percebe-se a ocorrência de supressio no tocante à clausula contratual que limita a dependência à idade do beneficiário, em respeito à boa-fé que deve guardar as relações contratuais (art. 113 e 422 do Código Civil).
+23. Ademais, não há que se falar em ausência de boa-fé da apelada, uma vez que ação de excluir o beneficiário do plano de saúde após atingir 24 (vinte e quatro) anos era de inteira responsabilidade da operadora, que ao não fazer criou a expectativa no consumidor, a qual, em razão da boa-fé, deve ser mantida.
+24. Outrossim, o própria recebimento das parcelas pela operadora, com aceitação na realização de exames e tratamentos acaba por revelar conduta contraditória da apelada, também vedada pelo ordenamento jurídico (venire contra factum proprium).
+Cumpre destacar que a demandante "faz uso do plano constantemente desde 2010 em razão de edema macular, inclusive com o ajuizamento de ação de obrigação de fazer em março de 2017 com o intuito de garantir o tratamento pleiteado por seu médico assistente  .. " (e-STJ fls. 1.364).
+O acórdão recorrido está de acordo com precedentes do STJ que têm aplicado as figuras parcelares da supressio e surrectio nas hipóteses em que a conduta da operadora gera no usuário ou beneficiário legítima expectativa de permanecer no plano de saúde.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, AMBOS DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULAS Nºs 5 E 7, AMBAS DO STJ. FUNDAMENTO AUTÔNOMO NÃO ESPECIFICAMENTE IMPUGNADO. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CONTRATO DE PLANO DE SAÚDE COLETIVO EMPRESARIAL. MANUTENÇÃO DO EX-EMPREGADO E SUA ESPOSA COMO BENEFICIÁRIOS DO PLANO DE SAÚDE POR MAIS DE 20 ANOS. MORTE DO TITULAR. EXCLUSÃO DA DEPENDENTE INDEVIDA PELO EX-EMPREGADOR. RESPONSABILIDADE PELA CONFIANÇA. ABUSO DO DIREITO. SUPRESSIO. PRECEDENTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+..
+5. No caso, o princípio da boa-fé objetiva torna inviável a exclusão da beneficiária do plano de saúde coletivo empresarial, tendo em conta que há mais de 20 anos ela é mantida no referido plano assistencial patrocinado pela IBM BRASIL, mesmo após o titular, seu finado marido, ter aderido ao plano de aposentadoria. Precedente: REsp n.º 1.879.503/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/9/2020, DJe de 18/9/202.
+6. Esta Corte firmou o entendimento de não ser possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+7. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.846.929/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022 - grifei.)
+RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - REINCLUSÃO DE BENEFICIÁRIO DE PLANO DE SAÚDE EXCLUÍDO UNILATERALMENTE PELA OPERADORA. INSURGÊNCIA RECURSAL DOS AUTORES.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. Trata-se nos autos de plano de saúde de autogestão, gerido por associação sem fins lucrativos, custeado pelos próprios beneficiários e pela empresa patrocinadora, e estabelecido com a finalidade de prestação de serviços a grupo fechado.
+2.1. Diante de tais características, não se mostra adequada a pretensa interpretação ampliativa de previsão contratual que dispõe sobre quem poderá fruir do benefício, na medida em que tal providência acarretará desequilíbrio atuarial a ser suportado pelo próprio grupo.
+3. A doutrina e a jurisprudência desta Corte, à luz do dever de boa-fé objetiva e à proteção da confiança, reconhece a existência do instituto da surrectio, o qual permite aquisição de um direito pelo decurso do tempo, pela expectativa legitimamente despertada por ação ou comportamento. Precedentes.
+4. Hipótese em que o recorrente, pessoa idosa e portadora de deficiência, a despeito de previsão contratual, permaneceu inserido no plano de saúde, na qualidade de dependente da titular, por mais de sete anos, sem qualquer oposição por parte da operadora.
+4.1. Particularidade que, de modo excepcional, autoriza a incidência do instituto da surrectio, de modo a permitir a manutenção de tal beneficiário no plano de saúde.
+5. A exclusão do recorrente do plano pautou-se em interpretação de previsão contratual, reputada inadequada apenas judicialmente, ante a percepção de afronta a preceito ligado à boa-fé objetiva.
+Inexistência de lesão à personalidade apta a ensejar compensação por dano moral.
+6. Recurso especial parcialmente provido.
+(REsp n. 1.899.396/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 1/7/2022 - grifei.)
+(III) Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+(IV) Verifica-se que a multa processual aplicada pelo Tribunal de origem não pode ser desconstituída apenas com base no art. 1.025 do CPC - segundo o qual "Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento" -, porque a norma em referência nada dispõe a respeito da aplicação de multa ao embargante no caso de recurso manifestamente protelatório.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
