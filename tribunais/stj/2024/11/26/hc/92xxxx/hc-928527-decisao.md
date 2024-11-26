@@ -1,0 +1,21 @@
+DECISÃO
+O presente writ, impetrado em benefício de MICHEL DALIRIO MAZZAROTTO VIANA - condenado como incurso no crime de roubo majorado -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 0003446-42.2017.8.24.0011), comporta parcial acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da Vara Criminal da comarca de Brusque/SC, ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de outras provas suficientes para a comprovação da autoria delitiva. Subsidiariamente, postula a revisão da dosimetria, pois teria o Magistrado singular adotado fração superior ao mínimo legal sem a correspondente fundamentação.
+Ocorre que, além de se tratar de writ destinado a revisar condenação transitada em julgado, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois o reconhecimento (fotográfico e pessoal), ainda que, por ventura, contenha algum vício, não se afigura como um único elemento probatório que lastreia a denúncia, que se encontra amparada em outras provas independentes (independent source), reclamando-se, assim, a aplicação da ressalva contida no próprio leading case da Sexta Turma desta Corte, firmado no julgamento do HC n. 598.886/SC (AgRg no HC n. 779.678/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/11/2022).
+No caso, o Magistrado singular destacou que se extrai da prova oral, que os funcionários do estabelecimento vítima reconheceram o acusado como sendo o primeiro assaltante que adentrou no estabelecimento portando uma arma de fogo, identificando-o como o criminoso "meio gordinho", cujo rosto aparece nas imagens acostadas aos autos (fl. 395 - grifo nosso).
+Todavia, vislumbro constrangimento ilegal na dosimetria da pena, uma vez que as instâncias ordinárias não apresentaram fundamentação adequada para a escolha da fração de 3/8, limitando-se a apontar a presença das majorantes, o que configura flagrante ilegalidade, nos termos da Súmula 443 deste Superior Tribunal.
+Confira-se (fl. 397):
+ ..
+Na terceira fase, reconheço as majorantes previstas nos incisos I e II, do §2º, do artigo 157, do Código Penal, com redação anterior a Lei n. 13.654/2018, já que, conforme acima analisado, buscando alcançar o sucesso na empreitada criminosa, o acusado uniu seus esforços ao comparsa não identificado, em verdadeira comunhão de desígnios, e com o uso de arma de fogo para aumentar o poder de intimidação das vítimas, pelo que elevo a pena em três oitavos (3/8), totalizando-a, na ausência de causas de diminuição, em sete (7) anos e quatro (4) meses de reclusão, e sessenta e seis (66) dias-multa, no valor e forma acima mencionados.
+ ..
+Assim, passo ao redimensionamento da pena.
+Mantida a reprimenda em 5 anos, 5 meses e 10 dias de reclusão, e 14 dias-multa, conforme realizado pelas instâncias ordinárias na primeira e segunda fases do critério trifásico. Na terceira etapa, aumento-a em 1/3, em razão das majorantes do emprego de arma e concurso de agentes, resultando a reprimenda em 7 anos, 3 meses e 3 dias de reclusão, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+Ocorre que, ao rever a pena de multa, o Tribunal a quo fixou-a em 15 dias-multa, o que mantenho para não incorrer em reformatio in pejus. Assim, fica a pena final em 7 anos, 3 meses e 3 dias de reclusão, e 15 dias-multa.
+Permanece o regime inicial fechado, dada a reprimenda definitiva e a fixação da pena-base acima do mínimo legal, nos termos do art. 33, § 3º, c/c o art. 59, ambos do Código Penal.
+Ante o exposto, concedo parcialmente a ordem impetrada para redimensionar a reprimenda final em 7 anos, 3 meses e 3 dias de reclusão, e 15 dias-multa.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. RECONHECIMENTO PESSOAL. ALEGAÇÃO DA EXISTÊNCIA DE VÍCIO. CONDENAÇÃO FUNDADA EM PROVAS INDEPENDENTES. DOSIMETRIA. TERCEIRA FASE. FRAÇÃO DE 3/8. FUNDAMENTAÇÃO INIDÔNEA. REDIMENSIONAMENTO DA PENA QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem parcialmente concedida nos termos do dispositivo.
