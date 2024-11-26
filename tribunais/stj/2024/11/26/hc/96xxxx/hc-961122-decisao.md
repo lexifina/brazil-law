@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VINÍCIUS CAMPOS CRUZ, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo.
+Extrai-se dos autos que o paciente foi definitivamente condenado à pena de 6 anos e 6 meses de reclusão, a ser cumprida em regime inicial fechado, mais 17 dias-multa, em razão da prática do crime previsto no art. 33, caput, da Lei n. 11.343/06.
+Ingressou a defesa com pedidos de revisão criminal perante o Tribunal estadual, os quais foram indeferidos (e-STJ, fls. 17-28).
+Nesta Corte, a defesa sustenta a incidência da minorante do tráfico de drogas em seu favor, com abrandamento do regime inicial prisional e substituição por penas restritivas de direito.
+É o relatório.
+Decido.
+Na hipótese, observa-se que o Tribunal de origem, ao julgar o recurso de apelação e, posteriormente, a revisão criminal, após analisar o acervo fático-probatório dos autos, concluiu pela impossibilidade de incidência da causa de diminuição de pena do §4º do art. 33 da Lei n. 11.343/06 porque estaria o paciente dedicado às atividades criminosas.
+A jurisprudência desta Corte possui entendimento de que a revisão criminal não deve ser adotada como um segundo recurso de apelação, porquanto não se presta a propiciar a reapreciação das provas constantes dos autos.
+O acolhimento da pretensão revisional, na seara criminal, deve ser excepcional, cingindo-se às hipóteses em que a suposta contradição à evidência dos autos seja patente, induvidosa, dispensando a interpretação ou análise subjetiva das provas constantes dos autos.
+Ora, a instância ordinária entendeu que a defesa não demonstrou que a condenação foi contrária ao texto expresso da lei penal ou às evidências dos autos, não havendo discrepância entre a decisão do Tribunal e o conjunto de provas, sendo essa a interpretação vigente ao tempo da prolação da decisão.
+Ao contrário, a negativa do benefício se respaldou na dedicação à atividade criminosa, pela aprofundada inserção do paciente na organização criminosa, o que impede, ainda nos dias de hoje, a incidência do benefício. Cito precedentes:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NÃO CABIMENTO COMO SUCEDÂNEO DE RECURSO PRÓPRIO OU REVISÃO CRIMINAL. EXCEÇÃO EM CASOS DE FLAGRANTE ILEGALIDADE. INAPLICABILIDADE DO REDUTOR DO TRÁFICO PRIVILEGIADO. ELEVADA QUANTIDADE E APREENSÃO DE PETRECHOS. REGIME INICIAL FECHADO. ORDEM NÃO CONHECIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de réu condenado por tráfico de drogas, com o objetivo de obter a aplicação do redutor do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) e a alteração do regime inicial de cumprimento da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se é cabível a utilização de habeas corpus como sucedâneo de recurso próprio ou revisão criminal; (ii) verificar se houve flagrante ilegalidade na decisão que afastou a minorante do tráfico privilegiado e fixou o regime inicial fechado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, conforme orientação consolidada do Supremo Tribunal Federal e do Superior Tribunal de Justiça, exceto em casos de flagrante ilegalidade.
+4. A decisão das instâncias ordinárias afastou a aplicação do redutor do tráfico privilegiado com base na quantidade expressiva de drogas apreendidas (22.300 invólucros contendo cocaína do tipo "crack", totalizando 6.296,9g) e na apreensão de equipamentos e utensílios utilizados para o preparo de entorpecentes, indicando a dedicação à atividade criminosa.
+5. A utilização de petrechos característicos para a mercancia demonstra envolvimento habitual e profissional com o tráfico de drogas, o que inviabiliza o reconhecimento do tráfico privilegiado, em consonância com a jurisprudência desta Corte.
+6. A fixação do regime inicial fechado foi justificada pelo quantum da pena imposta (5 anos de reclusão), pela expressiva quantidade de drogas apreendidas e pelo contexto que evidenciou a habitualidade criminosa dos réus, não se verificando o apontado constrangimento ilegal.
+7. A análise das alegações defensivas quanto à aplicação do redutor do tráfico e à fixação do regime prisional demandaria reexame de provas, procedimento inviável na via estreita do habeas corpus.
+IV. HABEAS CORPUS NÃO CONHECIDO (HC n. 864.585/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA "E", DA CONSTITUIÇÃO DA REPÚBLICA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. INDEFERIMENTO COM BASE NAS CIRCUNSTÂNCIAS DO CASO CONCRETO. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes da Quinta e da Sexta Turma do Superior Tribunal de Justiça.
+2. Não há flagrante ilegalidade a ser sanada de ofício, pois, no tocante ao pleito de absolvição do crime de associação para o tráfico de drogas, a Corte local julgou extinta a punibilidade da agravante em relação do delito.
+3. No caso, ao concluir pela dedicação da ré a atividades criminosas, o Tribunal a quo mencionou não apenas o crime de associação para o tráfico e a significativa quantidade de drogas apreendida, mas, sobretudo, a complexidade do esquema, destacando as circunstâncias que permearam a empreitada delitiva, em particular a forma de acondicionamento e de transporte da droga e das munições.
+4. Essas circunstâncias constituem conjuntura que impedem a desconstituição da conclusão das instâncias ordinárias acerca da dedicação do paciente à atividade criminosa e, por conseguinte, o pretendido reconhecimento da causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+5. A presença de circunstância judicial desfavorável (art. 33, §§ 2.º e 3.º, do Código Penal), justifica a fixação do regime inicial fechado.
+6. Agravo regimental não provido. (AgRg no HC n. 914.872/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
