@@ -1,0 +1,75 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROFESSOR. APOSENTADORIA ESPECIAL. FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. EXTENSÃO. POSSIBILIDADE. AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.772 E TEMA 965 DA REPERCUSSÃO GERAL. NATUREZA JURÍDICA DAS ATIVIDADES E PREENCHIMENTO DE REQUISITOS LEGAIS PARA CONCESSÃO DA APOSENTADORIA: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Terceira Câmara de Direito Público do Tribunal de Justiça de São Paulo:
+
+    “APELAÇÃO E REMESSA NECESSÁRIA. Mandado de Segurança. Servidora Pública Estadual. Magistério. Diretora de Escola. Contagem de tempo para fins de aposentadoria especial. Possibilidade. Inexistência de óbice à contagem de tempo de efetivo exercício em funções correlatas ao magistério (Diretor de Escola ou Supervisor de Ensino) como tempo hábil à aposentadoria especial de magistério e abono de permanência. Inteligência do § 5º do artigo 40 da Constituição Federal. Aplicação do quanto decidido na ADI n. 3.772/DF e no entendimento firmado no julgamento da Repercussão Geral no Recurso Extraordinário n. 1.039.644/SC (Tema n. 965/STF). Tempo de atividade exercido como Diretor de Escola que integra a carreira do magistério e deve ser computado para o benefício. Precedentes. Sentença mantida. Recursos voluntário e oficial impróvidos” (fl. 2, e-doc. 9).
+
+    2. O recorrente alega ter o Tribunal de origem contrariado a al. a do inc. III do § 1º e o § 5º do art. 40 da Constituição da República. Argumenta que “o v. acórdão recorrido deferiu ao impetrante, detentor do cargo efetivo de Diretor de Escola ao qual teve acesso por meio de aprovação em concurso público realizado especificamente para ele, o direito à aposentadoria especial, aos vinte e cinco anos de serviço, nos termos do artigo 40, § 1º, III, ‘a’ e § 5º da Constituição Federal” (fl. 4, e-doc. 11).
+
+    Anota que “o recorrido, sendo titular de cargo de Diretor de Escola, não exerce funções de magistério. Repise-se: ele não é professor de carreira. É especialista em educação, mas não é professor, motivo pelo qual não pode se beneficiar da contagem especial de tempo” (fl. 6, e-doc. 11).
+
+    Assevera que “o acórdão impugnado contrariou, de forma inequívoca, a decisão proferida na ADI n. 3.772 e o Tema de Repercussão Geral n. 965, bem como a própria Constituição da república, em seu artigo 40, § 5º, na medida em que estendeu a aposentaria especial docente a especialista em educação (diretor de escola concursado)” (fl. 8, e-doc. 11).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    3. Razão jurídica não assiste ao recorrente.
+
+    O Tribunal de origem decidiu a controvérsia nos seguintes termos:
+
+    “Com a presente ação busca a impetrante que seja concedida a segurança para considerar como tempo de efetivo exercício nas funções de magistério aquele exercido como Diretor de Escola e Supervisor de Ensino como tempo hábil à aposentadoria especial de magistério e abono de permanência, pretensão que foi acolhida pelo Juízo 'a quo', o que ensejou a interposição do presente Recurso. (...)
+
+    Como se vê, para a redução da idade, bem como, do período trabalhado, em relação àqueles funcionários públicos ocupantes de cargo de magistério, faz-se necessário também que tenham atuado em exclusividade no efetivo exercício de funções de magistério na educação infantil e no ensino fundamental e médio.
+
+    Na sequência, a despeito do quanto estabelecido n. 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, mais especificamente em seu art. 67, que promove conceituação, bem como, atribuições do magistério, deve-se guardar observância ao quanto decido pelo E. Supremo Tribunal Federal, em sede de ADI n. 3772/DF, que mitigou a aplicabilidade do referido dispositivo, e assim estabeleceu: (...).
+
+    Ou seja, a função de magistério não se restringe apenas às funções exercidas em sala de aula, mas também aquelas funções desempenhadas de forma correlata, como é o caso das funções de direção, coordenação e assessoramento pedagógico.
+
+    Extrai-se dos autos que a parte impetrante foi admitida no quadro do magistério da Secretaria do Estado da Educação de São Paulo em 23 de agosto de 1988 (fls. 27) e, posteriormente, foi nomeada como Diretora Escolar em 17.01.2023 (fls. 29), atuando como tal até a presente data.
+
+    Assim, o tempo de exercício nas funções de Diretora de Escola deve ser considerado para contagem de tempo para fins de aposentadoria especial.
+
+    Ademais, ressalta-se que o entendimento adotado nesta oportunidade, guarda consonância com decisão também proferida pelo Supremo Tribunal Federal, que em decisão junto ao RE 1039644, fixou no Tema 965 a seguinte Tese: (...).
+
+    Com efeito, à luz do entendimento da Corte Suprema, se o mero exercício de atividade fora da sala de aula não tem o condão de afastar a especialidade da aposentadoria em discute por ocupante de cargo de professor, razão não há para conferir tratamento diverso ao Diretor de Escola, por mera divergência de nomenclatura do cargo público, quando, ao fim e ao cabo, exerce função de magistério e pode atuar como verdadeiro docente (...).
+
+    Eis a hipótese dos autos, o que coloca uma pá-de-cal no assunto em questão, devendo ser mantida a sentença guerreada pelos seus jurídicos e próprios fundamentos” (fls. 5-12, e-doc. 9).
+
+    Na espécie, o acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, que assentou, no julgamento da Ação Direta de Inconstitucionalidade n. 3.772, Relator o Ministro Ricardo Lewandowski, que o direito à aposentadoria especial garantida aos professores, previsto no § 5º do art. 40 da Constituição da República, estende-se àqueles que exercem as funções de direção, coordenação e assessoramento pedagógico, por integrarem a carreira do magistério. Confira-se a ementa desse julgado:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE MANEJADA CONTRA O ART. 1º DA LEI FEDERAL 11.301/2006, QUE ACRESCENTOU O § 2º AO ART. 67 DA LEI 9.394/1996. CARREIRA DE MAGISTÉRIO. APOSENTADORIA ESPECIAL PARA OS EXERCENTES DE FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. ALEGADA OFENSA AOS ARTS. 40, § 5º, E 201, § 8º, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. AÇÃO JULGADA PARCIALMENTE PROCEDENTE, COM INTERPRETAÇÃO CONFORME. I - A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar. II - As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 5º, e 201, § 8º, da Constituição Federal. III - Ação direta julgada parcialmente procedente, com interpretação conforme, nos termos supra” (DJe 27.3.2009).
+
+    4. No julgamento do Recurso Extraordinário n. 1.039.644, Tema 965 da repercussão geral, Relator o Ministro Alexandre de Moraes, o Plenário reafirmou a jurisprudência deste Supremo Tribunal e fixou a tese de que ”para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio”. Confira-se a ementa desse julgado:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL DOS PROFESSORES (CONSTITUIÇÃO, ART. 40, § 5º). CONTAGEM DE TEMPO EXERCIDO DENTRO DA ESCOLA, MAS FORA DA SALA DE AULA. 1. Revela especial relevância, na forma do art. 102, § 3º, da Constituição, a questão acerca do cômputo do tempo de serviço prestado por professor na escola em funções diversas da docência para fins de concessão da aposentadoria especial prevista no art. 40, § 5º, da Constituição. 2. Reafirma-se a jurisprudência dominante desta Corte nos termos da seguinte tese de repercussão geral: Para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio. 3. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC. Jurisprudência do SUPREMO TRIBUNAL FEDERAL reafirmada, nos termos do art. 323-A do Regimento Interno” (DJe 13.11.2017).
+
+    Nesse mesmo sentido, confiram-se os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROFESSOR. APOSENTADORIA ESPECIAL. FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. EXTENSÃO. POSSIBILIDADE. AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.772 E TEMA 965 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (RE n. 1.411.090-AgR/SP, de minha relatoria, Primeira Turma, DJe 16.2.2023).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL. PROFESSORA QUE ASSUMIU O CARGO DE DIRETORA DE ESCOLA. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. TEMA 965 DA REPERCUSSÃO GERAL. ADI 3772. 1. O Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento do Tema 965 da repercussão geral (RE 1.039.644, de minha relatoria), fixou a seguinte tese: ‘Para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio.’ 2. Em se tratando de professora de carreira que vem a assumir o cargo de diretora de escola, aplica-se a diretriz do Tema 965 da repercussão geral, bem como o precedente da ADI 3.772, Redator para o acórdão Ministro RICARDO LEWANDOWSKI. 3. Acórdão recorrido em conformidade com a jurisprudência desta SUPREMA CORTE. 4. Agravo Interno a que se nega provimento” (RE n. 1.389.801-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 19.9.2022).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL. DIRETORA DE ESCOLA. POSSIBILIDADE. TEMA 965 DA REPERCUSSÃO GERAL. 1. A orientação jurisprudencial desta Corte é no sentido de que, ‘p]ara a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio’ (RE 1.039.644-RG, Rel. Min. Alexandre de Moraes). O acórdão recorrido não divergiu desse entendimento. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento” (RE n. 1.295.371-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 7.4.2021).
+
+    O julgado recorrido harmoniza-se com essa orientação jurisprudencial.
+
+    5. Ademais, rever a conclusão das instâncias ordinárias, em relação à natureza jurídica das atividades exercidas e ao preenchimento dos requisitos para a concessão da aposentadoria especial de professor, demandaria reexame da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORA PÚBLICA MUNICIPAL. MAGISTÉRIO. APOSENTADORIA ESPECIAL. EXERCÍCIO DE FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. CONTAGEM DE TEMPO DE SERVIÇO: AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.772 E TEMA 965 DA REPERCUSSÃO GERAL. NATUREZA JURÍDICA DAS ATIVIDADES E PREENCHIMENTO DE REQUISITOS LEGAIS PARA CONCESSÃO DA APOSENTADORIA: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (RE n. 1.463.216-AgR/SP, de minha relatoria, Primeira Turma, DJe 28.2.2024).
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. INTEGRANTE DA CARREIRA DE MAGISTÉRIO. ORIENTADORA PEDAGÓGICA. APOSENTADORIA ESPECIAL. ADEQUAÇÃO. ADI 3.772. TEMA N. 965/RG. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO. REEXAME DE FATOS E PROVAS. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO. 1. A aposentadoria especial deve ser concedida a professores ainda que não desenvolvam a atividade de magistério exclusivamente em sala de aula, estando também abrangidas funções de direção de unidade escolar, de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio – ADI 3.772, Redator do acórdão o ministro Ricardo Lewandowski. 2. O Plenário do Supremo, ao apreciar o RE 1.039.644, Relator o ministro Alexandre de Moraes, reconheceu a repercussão geral da questão suscitada (Tema n. 965) e reafirmou sua jurisprudência mediante a seguinte tese: ‘Para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio.’ 3. Dissentir da conclusão alcançada pelo Colegiado de origem, acerca da situação funcional da agravada, demandaria revolvimento de elementos fático-probatórios. Incidência do enunciado n. 279 da Súmula do Supremo. 4. Agravo interno desprovido” (RE n. 1.407.314-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 5.3.2024).
+
+    6. Pelo exposto, nego provimento a este recurso extraordinário (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 26 de novembro de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
