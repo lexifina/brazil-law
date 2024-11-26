@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto em favor de ALCIMAR PEREIRA DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no HC n. 0047970-88.2023.8.19.0000, assim ementado (fls. 246/247):
+"HABEAS CORPUS". O Juízo "a quo" deferiu o pedido de inclusão do Paciente no Regime Disciplinar Diferenciado (RDD), em Presídio Federal. "Mandamus" que nem sequer deveria ter sido conhecido. Ausência de discussão acerca do direito ambulatório do Paciente, o qual se encontra acautelado. Não existe prerrogativa nenhuma para o apenado no sentido de que possa "escolher" onde ou como cumprirá sua pena. HC utilizado como sucedâneo do Agravo em Execução. No mérito, documentos oficiais, elaborados por órgãos oficiais do Estado, cujos atos possuem presunção de veracidade e legalidade, apontaram o Paciente como um dos líderes da facção criminosa "ADA - Amigos dos Amigos" -, sendo indivíduo de altíssima periculosidade. Decisão guerreada suficientemente fundamentada, revestida de legalidade e que evidencia a necessidade da permanência do Paciente custodiado em Presídio Federal, diante das peculiaridades do caso concreto.
+DENEGAÇÃO DA ORDEM.
+Consta nos autos que o recorrente cumpre pena total de 29 (vinte e nove) anos e 6 (seis) meses de reclusão, com término previsto para 28/10/2036 e o Juízo de primeira instância deferiu o pedido de inclusão no Regime Disciplinar Diferenciado - RDD, em presídio federal, nos autos do incidente n. 5007238-32.2023.8.19.0500. Impetrado habeas corpus no Tribunal de origem, o writ foi denegado.
+Relata a Defesa que tramitaram na Vara de Execuções Penais 02 (dois) pedidos de inclusão em Regime Disciplinar Diferenciado - RDD, tendo sido o primeiro indeferido em 19/04/2023, nos autos n. 5003771-45.2023.8.19.0500 e o segundo pedido foi deferido em 19/06/2023, de forma coletiva, juntamente com outros 26 internos, tendo sido proferida decisão de inclusão em RDD no mesmo dia no incidente n. 5007238-32.2023.8.19.0500.
+Sustenta a inexistência de fatos novos a justificar, após 2 (dois) meses, sem alteração do quadro fático e sem qualquer conduta praticada pelo paciente, COM O MESMO RELATÓRIO TÉCNICO (fl. 273), uma decisão conjunta de 26 apenados, determinando a inclusão de todos no RDD.
+Assevera que é possível observar que os fundamentos para inclusão do Paciente, além de serem fictícios, são idênticos ao pedido já negado pela VEP (fl. 273).
+Requer seja provido o recurso e reformada a decisão de inclusão em Regime Disciplinar Diferenciado - RDD, tendo em vista a flagrante ilegalidade da decisão atacada que desconsiderou tudo aquilo que havia fundamentado na decisão anterior, apresentando uma decisão coletiva e genérica sem qualquer fundamentação.(fl. 287).
+Sem pedido liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento do presente recurso em habeas corpus, fruto de reiteração indevida de writ anteriormente apreciado (fls. 710/713).
+É o relatório.
+Decido.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que os pedidos que constam neste recurso são mera reiteração dos pedidos analisados e indeferidos no HC n. 873925 - RJ (2023/0436739-0), contra a mesma decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0047970-88.2023.8.19.0000) .
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
