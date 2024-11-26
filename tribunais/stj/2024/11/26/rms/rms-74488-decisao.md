@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Patrícia Maciel Marques contra acórdão proferido à unanimidade pelo Órgão Especial do Tribunal de Justiça do Estado de Mato Grosso do Sul, fls. 145/152, assim ementado:
+MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - APROVAÇÃO NO CADASTRO RESERVA - CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS - AUSÊNCIA DE DIREITO SUBJETIVO À NOMEAÇÃO - NÃO COMPROVADA A PRETERIÇÃO ARBITRÁRIA DA ADMINISTRAÇÃO. CERTAME VENCIDO - SEGURANÇA DENEGADA
+1. Discute-se no presente recurso se o impetrante-apelante tem direito de ser nomeado em cargo público em razão de aprovação em concurso público em cadastro reserva.
+2. O surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizadas por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato." (STF - RE 837311/ PI).
+3. No caso, o candidato aprovado em concurso público fora do número de vagas não tem direito à nomeação, visto que não está comprovada a preterição arbitrária e imotivada por parte da Administração. (fls. 145).
+Colhe-se dos autos que a ora recorrente participou do concurso público destinado ao cadastro de reserva para provimento de vagas de Assistente Social do quadro efetivo do Poder Judiciário estadual. Ainda segundo relatou na exordial, a Autora foi aprovada e classificada na 38.ª colocação, e o edital do certame reservou até 32 vagas para a ampla concorrência.
+A Corte de origem denegou a ordem por entender ausente direito líquido e certo a ser amparado pela via mandamental pois, em razão da ordem de classificação, a autora possuía apenas expectativa de direito, além do que não foi comprovada preterição da interessada, nem o surgimento de novas vagas, em número suficiente para alcançá-la.
+Na petição recursal dirigida ao STJ, fls. 199/209, a recorrente pondera que, "se quatro candidatos foram nomeados, não compareceram e as vagas não foram repostas, há a disponibilidade de quatro vagas para o cargo de cargo de técnico de nível superior (assistente social) no VIII Concurso Público de Provas para a Estrutura Funcional do Poder Judiciário do Estado de Mato Grosso do Sul" e que, "por omissão da autoridade coatora não foram preenchidas todas as vagas de cadastro de reserva do cargo, mesmo sendo explícito a necessidade do provimento destas, dada a abertura de novo certame que está prestes a ser homologado" (fl. 208).
+Em contrarrazões, fls. 224/226, o Estado de Mato Grosso do Sul endossa a fundamentação do acórdão recorrido e requer o não provimento do apelo.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Eitel Santiago de Brito Pereira, no exercício das funções de Subprocurador-Geral), manifestou-se pelo não provimento do recurso, consoante a fundamentação do parecer de fls. 242/246, resumido pela ementa que se segue:
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRANTE QUE OBJETIVA A NOMEAÇÃO EM CARGO PÚBLICO FORA DAS VAGAS PREVISTAS NO EDITAL. PARECER PELO DESPROVIMENTO DO RECURSO ORDINÁRIO. (fl. 242).
+Recurso tempestivo.
+Representação regular (fl. 19).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O êxito do recurso ordinário interposto contra denegação da ordem em mandado de segurança pressupõe a cabal demonstração de erro - de procedimento ou de aplicação do direito - observados na construção do acórdão recorrido.
+Na hipótese que ora se examina, a Corte estadual, segundo a recorrente, não aplicou bem o direito à espécie ao denegar a ordem, de onde a irresignação exposta nas razões recursais.
+Todavia, não se identifica, na hipótese, erro de aplicação do direito.
+De início, nenhum reparo merece o combatido aresto ao anotar que, segundo o STJ, os candidatos aprovados fora do número de vagas, como no caso da Impetrante, não possuem direito líquido e certo a nomeação, mas mera expectativa de direito para o cargo a que concorreram e que "a Administração Pública não é obrigada a efetuar a nomeação do candidato aprovado no cargo ou emprego público, uma vez que o provimento dar-se-á de acordo com critérios de conveniência e oportunidade, observada, todavia, a ordem de classificação dos candidatos, bem como o prazo de validade do concurso" (fl. 149).
+Confira-se a propósito:
+ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATA APROVADA E CLASSIFICADA PARA ALÉM DAS VAGAS OFERECIDAS NO EDITAL. NOMEAÇÃO. DIREITO NÃO EXISTENTE. PRETERIÇÃO. ALEGAÇÃO NÃO PROVADA. REQUERIMENTO ADMINISTRATIVO INDEFERIDO. NULIDADE. NÃO OCORRÊNCIA. CORRETA DENEGAÇÃO DA ORDEM. AGRAVO NÃO PROVIDO.
+1. Os candidatos aprovados em concurso público, porém classificados para além das vagas oferecidas no edital do certame, não têm o direito líquido e certo à nomeação. Precedentes.
+ ..
+4. Agravo interno não provido.
+(AgInt no RMS n. 70.353/BA, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 25/5/2023.)
+Quanto ao mais, a jurisprudência desta Corte Superior realente é firme no sentido de que eventual surgimento de novas vagas durante a validade do certame não faz nascer, só por isso, o direito à nomeação de candidatos arrolados em cadastro de reserva, pois ainda assim é reservado à Administração o legítimo exercício do poder discricionário, cabendo-lhe, com exclusividade, avaliar a necessidade, conveniência e oportunidade de novas contratações. Nessa direção são, dentre outros, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ALEGADA OMISSÃO ILEGAL DA AUTORIDADE COATORA EM NOMEAR O IMPETRANTE. APROVAÇÃO FORA DO NÚMERO DE VAGAS. PRETERIÇÃO ARBITRÁRIA NÃO DEMONSTRADA. AUSÊNCIA DA PROVA PRÉ-CONSTITUÍDA. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Tal como se consignou na decisão agravada, é incontroverso que a parte agravante fora aprovada fora do número de vagas e não restou comprovada, cabalmente, nos autos a ocorrência de alguma preterição ou qualquer outra causa que convolasse suas meras expectativas em direito subjetivo à pretendia nomeação. Com efeito, a jurisprudência do STJ é firme no sentido de que "candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que novas vagas surjam no período de validade do concurso - por criação de lei ou por força de vacância -, cujo preenchimento está sujeito a juízo de conveniência e oportunidade da Administração" (STJ, RMS 53.495/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/05/2017).
+ ..
+V. Agravo interno improvido.
+(AgInt no RMS n. 65.500/RO, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 18/12/2023.)
+ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS. MERA EXPECTATIVA DE DIREITO. DESISTÊNCIA/ELIMINAÇÃO DE CANDIDATO CLASSIFICADO FORA DO QUANTUM OFERTADO NO EDITAL DO CERTAME. NOMEAÇÃO. DIREITO. INEXISTÊNCIA.
+1. O Superior Tribunal de Justiça, secundando orientação do STF oriunda de julgamento realizado sob a sistemática da repercussão geral, consolidou o entendimento de que o candidato classificado em concurso público fora do número de vagas previstas no edital ou para cadastro de reserva tem mera expectativa de direito à nomeação, sendo certo que o surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da Administração.
+ ..
+3. Agravo interno desprovido.
+(AgInt no RMS n. 63.496/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/9/2023.)
+Por tudo isso, não merece prosperar a irresignação da recorrente.
+ANTE O EXPOSTO, com fundamento nos arts. 932, VIII, do CPC e 34, XVIII, "b", do RISTJ, bem como na Súmula 568/STJ, nego provimento ao presente recurso ordinário.
+Publique-se.
+EMENTA
