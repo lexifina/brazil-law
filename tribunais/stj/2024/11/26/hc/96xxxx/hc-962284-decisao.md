@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de GLEYDSON GOMES DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DA PARAÍBA.
+Consta que o Parquet se insurgiu contra a primeira sentença proferida nos autos da Ação Penal n. 0021607-64.2015.8.15.2002, da 1ª Vara do Tribunal do Júri da comarca de João Pessoa, na qual o ora paciente foi absolvido da imputação da prática dos delitos previstos no art. 121, § 2º, II e IV, e art. 121, § 2º, II e IV, c/c o art. 14, II, e 69, todos do Código Penal.
+A Câmara Criminal, por maioria, deu provimento ao apelo a fim de declarar a nulidade do julgamento, determinando que outro fosse realizado.
+O acórdão transitou em julgado.
+Realizado o novo julgamento, foi o paciente condenado a cumprir 19 anos e 6 meses de reclusão, em regime inicial fechado (fls. 717/719).
+O presente writ foi impetrado com o propósito de cassar o referido acórdão e restabelecer a sentença de primeiro grau. Para tanto, o impetrante alega que, tendo o Conselho de Sentença optado, por uma das teses apresentadas em plenário, sendo esta, a da defesa, a qual não é aberrante, não é possível afastá-la, sob pena de violação ao princípio constitucional da soberania dos veredictos (fl. 7).
+É o relatório.
+Inicialmente, observo que a via eleita foi indevidamente utilizada para revisar acórdão transitado em julgado em 12/11/2018 (conforme informações do sítio eletrônico do Tribunal estadual), o que afasta a competência desta Corte Superior para análise do pleito.
+De qualquer forma, não enxergo flagrante ilegalidade a ser aqui reparada.
+Ora, conforme orientação da Terceira Seção do STJ, a anulação da decisão absolutória do Conselho de Sentença, manifestamente contrária à prova dos autos, segundo o Tribunal de Justiça, por ocasião do exame do recurso de apelação interposto pelo Ministério Público (art. 593, III, "d", do CPP), não viola a soberania dos vereditos (AgRg no REsp n. 1.875.705/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/10/2020 - grifo nosso).
+Dito de outra maneira, ao julgar apelação que pretende desconstituir o julgamento proferido pelo Tribunal do Júri, sob o argumento de que a decisão fora manifestamente contrária à prova dos autos, à Corte de origem se permite, apenas, a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pelos jurados integrantes da Corte Popular. Se o veredito estiver flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo, admite-se a sua cassação (AgRg no AgRg no AREsp n. 1.866.503/CE, Ministro Rogerio Schietti Cruz, Sexta Turma , DJe 22/3/2022 - grifo nosso).
+No caso, o Tribunal de origem, ao analisar todo o conjunto fático-probatório disposto na ação penal, determinou a anulação da decisão absolutória do Conselho de Sentença e a realização de novo julgamento pelo Tribunal do Júri, por entender que a decisão do Júri foi proferida ao arrepio de tudo o q ue se demonstrou no decorrer da instrução, sem suporte algum a justificar o acerto da conclusão adotada (fl. 18). Afirmou que, in casu, não há prova alguma de que tenha havido qualquer injusta agressão por parte da vítima (fl. 18).
+Para inverter a conclusão adotada na origem, seria inevitável o revolvimento do acervo fático-probatório da ação penal, procedimento vedado na via estreita do writ (AgRg no HC n. 805.613/PB, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 21/9/2023).
+Por essas razões, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. JÚRI. ANULAÇÃO DA SENTENÇA DE ABSOLVIÇÃO EM RAZÃO DA MANIFESTA CONTRARIEDADE À PROVA DOS AUTOS. POSSIBILIDADE. PRECEDENTES DO STJ. INVIABILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
