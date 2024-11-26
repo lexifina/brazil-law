@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICIPIO DE ANASTACIO insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 152):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - REALIZAÇÃO DE EXAME MÉDICO - CATETERISMO CARDÍACO - ARTIGO 196, DA CF - DEVER SOLIDÁRIO DOS ENTES FEDERATIVOS - TEMA N.º 793, DO STF - DIRECIONAMENTO QUE DEVE SER FEITO EM CUMPRIMENTO DE SENTENÇA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO. O artigo 196 da Constituição Federal prescreve que é dever do Estado garantir o acesso universal e igualitário das pessoas à saúde, sendo os entes federativos (União, Estados, Distrito Federal e Municípios) solidariamente responsáveis pelo fornecimento de exames e medicamentos às pessoas carentes que necessitam de tratamento médico. O Tema n.º 793 do STF confirmou a responsabilidade solidária dos entes federados, ficandos todos eles obrigados ao fornecimento do tratamento pleiteado, sendo que o direcionamento da obrigação deve ser buscado apenas na fase de cumprimento de sentença.
+Nas razões de seu recurso especial, a parte ora agravante indica violação ao art. 7º, XIII, da Lei 8.080/1990, ao argumento de que o tratamento alternativo pleiteado (cateterismo cardíaco) é de responsabilidade da União, pois é a quem incumbe a incorporação de novas tecnologias, tudo nos moldes da responsabilidade pactuada relativa à rede de serviços de saúde de cada ente federado.
+A parte ora agravada apresentou as contrarrazões (fls. 191/209).
+Sobreveio juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivo de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem acolheu a pretensão autoral fundamentado no art. 196 da Constituição Federal (CF) e na tese fixada quanto ao Tema 793/STF, nestes termos (fls. 154/155):
+O cerne da questão posta em debate limita-se em analisar a obrigação da parte requerida em fornecer o exame de cateterismo cardíaco à autora.
+É induvidoso que a saúde é direito de todos e dever do Estado, o qual deve, mediante políticas sociais e econômicas, garantir o acesso às ações e serviços visando a minimização do risco de doença e de outros agravos, conforme artigo 196 da Constituição Federal:
+"Art. 196 A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para a promoção, proteção e recuperação".
+E ainda, o artigo 6º da Carta Magna prescreve que "são direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta constituição".
+Desse modo, analisando os dispositivos acima colacionados, chega- se à conclusão de que o legislador constituinte pretendeu colocar a saúde em grau de hierarquia superior a tantos outros temas tratados, tanto que a erigiu entre os princípios fundamentais.
+Estando comprovada a necessidade da realização do exame e a carência financeira da parte, é dever do ente público fornecê-lo, garantindo as condições de saúde e sobrevivência digna ao enfermo.
+A respeito da responsabilidade estatal, o Supremo Tribunal Federal firmou entendimento quando do julgamento dos Embargos de Declaração opostos no RE n.º 855.178 (Tema n.º 793).
+
+Depreende-se, assim, que compete à autoridade judiciária direcionar o cumprimento das prestações na área da saúde em consonância com as regras de competência no âmbito do Sistema Único de Saúde, determinando o ressarcimento daquele ente que suportou o ônus financeiro.
+Em recentes julgados dos Tribunais Superiores, conclui-se que houve a confirmação da solidariedade dos entes federados nas ações de saúde, sendo que o direcionamento da obrigação deve ocorrer apenas na fase de cumprimento de sentença, com o acertamento de contas entre o ente federativo que detém a obrigação legal de fornecer o medicamento/tratamento e aquele que efetivamente suportou o seu custo.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
