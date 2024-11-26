@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME CONTRA A ADMINISTRAÇÃO PÚBLICA. BUSCA E APREENSÃO. FUNDAMENTAÇÃO ADEQUADA. TRANCAMENTO DO INQUÉRITO POLICIAL. JUSTA CAUSA PRESENTE. EXCESSO DE PRAZO. INVESTIGAÇÕES INICIADAS EM 2016. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A exclusão de atos processuais em razão de vícios deve sempre ser precedida da demonstração de agravo concreto experimentado pela parte, conforme o art. 563 do Código de Processo Penal.
+2. Neste caso, a defesa se insurgiu contra a ordem de busca e apreensão, aduzindo, em síntese, falta de fundamentação que a justificasse. A Corte estadual, no entanto, ressaltou que a medida foi adotada após diversas pessoas terem admitido recorrer ao esquema criminoso investigado para obter carteiras de habilitação, revelando as autoescolas que intermediaram os processos, inclusive citando uma aquela de propriedade do ora agravante.
+3. O trancamento de inquérito policial ou ação penal é medida excepcional somente admitida pela via do habeas corpus quando não houver necessidade de revolvimento de fatos e provas para se constatar a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade, ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito, o que não ocorre na hipótese destes autos.
+4. A decisão monocrática atacada reconheceu que as investigações  iniciadas em 2016  estendem-se por período superior àquele que seria tido por razoável. Por esse motivo, assinalou prazo de 30 dias para que o Ministério Público encerrasse o procedimento investigatório e tomasse as providências cabíveis.
+5. Agravo regimental a que se nega provimento.
+RELATÓRIO
+WANDER BARROS JÚNIOR interpôs agravo regimental, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão que deu parcial provimento ao recurso ordinário, dando prazo de 30 dias para que o Ministério Público ofereça denúncia, apresente acordo de não persecução penal ou promova o arquivamento do procedimento investigatório criminal.
+Em suas razões, a defesa reitera as alegações de ausência de justa causa para a continuidade dos atos persecutórios, considerando que as investigações se iniciaram em 2016 e até agora não houve oferecimento de denúncia. A defesa reforça que o mandado de busca e apreensão carece de fundamentação juridicamente idônea e foi decretada somente pelo fato de o agravante ser sócio-administrador de uma autoescola na região em que os fatos apurados ocorriam.
+Diante disso, requer a reconsideração da decisão agravada ou, subsidiariamente, a apresentação deste feito ao Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME CONTRA A ADMINISTRAÇÃO PÚBLICA. BUSCA E APREENSÃO. FUNDAMENTAÇÃO ADEQUADA. TRANCAMENTO DO INQUÉRITO POLICIAL. JUSTA CAUSA PRESENTE. EXCESSO DE PRAZO. INVESTIGAÇÕES INICIADAS EM 2016. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A exclusão de atos processuais em razão de vícios deve sempre ser precedida da demonstração de agravo concreto experimentado pela parte, conforme o art. 563 do Código de Processo Penal.
+2. Neste caso, a defesa se insurgiu contra a ordem de busca e apreensão, aduzindo, em síntese, falta de fundamentação que a justificasse. A Corte estadual, no entanto, ressaltou que a medida foi adotada após diversas pessoas terem admitido recorrer ao esquema criminoso investigado para obter carteiras de habilitação, revelando as autoescolas que intermediaram os processos, inclusive citando uma aquela de propriedade do ora agravante.
+3. O trancamento de inquérito policial ou ação penal é medida excepcional somente admitida pela via do habeas corpus quando não houver necessidade de revolvimento de fatos e provas para se constatar a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade, ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito, o que não ocorre na hipótese destes autos.
+4. A decisão monocrática atacada reconheceu que as investigações  iniciadas em 2016  estendem-se por período superior àquele que seria tido por razoável. Por esse motivo, assinalou prazo de 30 dias para que o Ministério Público encerrasse o procedimento investigatório e tomasse as providências cabíveis.
+5. Agravo regimental a que se nega provimento.
+VOTO
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil e art. 258 do Regimento Interno do Superior Tribunal de Justiça. Apesar dos esforços da combativa defesa, a decisão agravada deve ser mantida por seus próprios fundamentos que reproduzo a seguir, naquilo que interessa à espécie (e-STJ, fls. 4297-4303):
+Neste caso, a Corte baiana, ao examinar o writ originário, ponderou que há indícios contundentes de materialidade delitiva e que tais indícios conferem, ainda, plausibilidade às suspeitas que recaem sobre o paciente (e-STJ, fl. 4228). Concluiu ser precipitado o encerramento das investigações, pois tal procedimento impediria a formação da opinio delicti por parte do titular da ação penal (e-STJ, fl. 4229).
+Com relação à suposta nulidade do mandado de busca e apreensão, deve-se, em primeiro lugar, reiterar o posicionamento de que a exclusão de atos processuais em razão de vícios deve ser precedida da demonstração de agravo concreto experimentado pela parte, nos termos do art. 563 do Código de Processo Penal.
+O controle judicial de ações constritivas  tais como a busca e apreensão  visa compatibilizar os direitos de liberdade com as necessidades e interesses da segurança pública. Esse controle deve ser feito  em regra  antes da adoção da medida, com expedição de ordem judicial nos termos do art. 243 do Código de Processo Penal:
+Art. 243. O mandado de busca deverá:
+I - indicar, o mais precisamente possível, a casa em que será realizada a diligência e o nome do respectivo proprietário ou morador; ou, no caso de busca pessoal, o nome da pessoa que terá de sofrê-la ou os sinais que a identifiquem;
+II - mencionar o motivo e os fins da diligência;
+III - ser subscrito pelo escrivão e assinado pela autoridade que o fizer expedir.
+§1º. Se houver ordem de prisão, constará do próprio texto do mandado de busca.
+§2º Não será permitida a apreensão de documento em poder do defensor do acusado, salvo quando constituir elemento do corpo de delito.
+Por importar em violação de domicílio, o mandado de busca deve ser preciso e determinado, indicando o mais precisamente possível a casa a ser diligenciada, o nome do proprietário (ou morador), não sendo admissível o mandado genérico, sob pena de tornar inviável o controle sobre os atos do Estado contra o direito individual.
+Em se tratando de medida invasiva, somente deve ser decretada quando houver fundada razão  existência de indícios razoáveis de autoria e materialidade delitiva  lastreada em prova pré-constituída.
+Neste caso, o Tribunal de origem justificou a higidez da medida rememorando o caso sob investigação, informando que diversas pessoas admitiram ter recorrido ao esquema criminoso para obter suas carteiras de habilitação, revelando as autoescolas que intermediaram os processos, incluindo a Autoescola Santa Maria, de propriedade do ora recorrente (e-STJ, fl. 4226).
+Nota-se que, diante da presença de indícios de autoria e materialidade delitiva, não há que se falar em falta de fundamentação da decisão que decretou a busca e apreensão, afastando-se a alegação de pescaria probatória e, por conseguinte, o constrangimento ilegal aduzido pelo recorrente.
+(..)
+Por outro lado, é inegável que o tempo de tramitação do procedimento investigatório criminal  instaurado em 2016  estende-se por tempo superior ao usualmente recomendado, de maneira que se afigura prudente fixar prazo para a conclusão das investigações, com o fito de evitar o perecimento das investigações, pois o prazo até aqui transcorrido aponta para a superação dos limites do razoável.
+Como é cediço, a Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação". No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo. Tal preceito constitucional, aplica-se aos inquéritos policiais e judiciais em curso, evitando-se investigações eternas.
+(..)
+Diante do exposto, nos termos do art. 34, inciso XVIII, alínea "c", do Regimento Interno do Superior Tribunal de Justiça, dou parcial provimento a este recurso, determinando prazo de 30 dias para que o Ministério Público ofereça denúncia, apresente acordo de não persecução penal ou promova o arquivamento do procedimento investigatório criminal.
+Desse modo, as pretensões formuladas não encontram amparo na jurisprudência desta Corte Superior ou na legislação penal, de maneira que não se constata qualquer constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+Diante do exposto, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+RELATOR
