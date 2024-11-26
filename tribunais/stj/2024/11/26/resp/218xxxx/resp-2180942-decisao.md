@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIA DILCA DA CONCEICAO NOLETO com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/MA, assim ementado (fls. 189-190):
+APELAÇÃO CÍVEL. AÇÃO COLETIVA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. SERVIDOR VINCULADO A SINDICATO ESPECÍFICO DE SUA CATEGORIA. NÃO ABRANGÊNCIA DA DECISÃO QUE BENEFICIOU ENTIDADE SINDICAL DIVERSA (MAIS AMPLA). APLICAÇÃO DO PRINCÍPIO DA UNICIDADE SINDICAL.
+ILEGITIMIDADE ATIVA. RECONHECIMENTO. PRECLUSÃO DA MATÉRIA. NÃO OCORRÊNCIA. RECURSO DESPROVIDO.
+I. O cumprimento individual de sentença proferida em ação coletiva requer que o beneficiário do decisum seja representado ou substituído pela entidade sindical que promoveu a demanda, assim como não seja vinculado a um sindicato específico representativo de sua categoria, sob pena de ofensa ao princípio da unicidade sindical (art. 8º, II, da Carta Magna).
+II. Evidenciado que a parte exequente pertence a categoria que possui sindicato específico, in casu, a classe de auxiliares de apoio da rede pública de ensino estadual, vinculados ao SINPROESSEMA, não há como ser beneficiada pela sentença proferida em ação coletiva ajuizada pelo SINTSEP (ação ordinária 6.542/2005), considerando que esta entidade sindical somente representa os servidores públicos estaduais que não possuem sindicato específico de sua categoria.
+III. Inviável o reconhecimento da preclusão quanto à aferição da legitimidade da parte, considerando que a matéria de ordem pública somente foi conhecida após o ajuizamento do cumprimento individual da sentença, ocasião em que restou comprovado o não enquadramento do autor nos termos da sentença exequível.
+IV. Em consequência, impõe-se a manutenção da sentença que julgou extinta a ação por ilegitimidade ativa ad causam.
+V. Apelo conhecido e desprovido.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, §1º, IV e 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: " ..  preclusão da aferição da ilegitimidade e sobre o cargo da parte recorrente não ser abrangido pelo sindicato indicado como mais específico" (fl. 278).
+Com contrarrazões (fls. 293-303).
+Juízo positivo de admissibilidade às fls. 305-308.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+De início, afasta-se a alegada violação do artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, colhe-se do acórdão recorrido a seguinte fundamentação (fls. 192-200):
+ ..
+Na hipótese, a apelante postulou a reforma da decisão impugnada a fim de que seja reconhecida a legitimidade ativa ad causam, com o respectivo prosseguimento da execução da sentença proferida na ação coletiva.
+Entretanto, não há como acolher a pretensão recursal. Em que pese a juntada aos autos de contracheque com o intuito de demonstrar o vínculo com o SINTSEP, infere-se que o cargo ocupado pela autora é o de auxiliar de serviços gerais vinculado à Secretaria Estadual de Educação (ID 33945601 - Pág. 2).
+A propósito, o estatuto do SINPROESEMMA, em seu art. 5, "a", I, inclui os servidores de apoio de qualquer nível e função como associados da referida entidade sindical, consoante se verifica a seguir:
+ ..
+Nessa esteira, a apelante não pode ser beneficiária ou substituída na ação coletiva supracitada, uma vez que é representado por sindicato específico de sua categoria, no caso, o SINPROESSEMA, sob pena de violar o princípio da unicidade sindical, previsto no art. 8º, II, da Carta Magna, in verbis:
+ ..
+Assim, não há como reconhecer a legitimidade da apelante para figurar no polo ativo da demanda, uma vez que o SINTSEP possui abrangência mais ampla, alcançando os servidores públicos que não possuem sindicato específico representativo de sua categoria, o que não ocorre no vertente caso.
+Em caso análogo, a Corte Suprema já decidiu que o servidor que pertence a uma categoria específica não pode pleitear a execução de um julgado que beneficiou entidade sindical diversa (mais ampla) e nem optar pela sua filiação, uma vez que a sua vinculação ao sindicato representativo de sua categoria é automática, em decorrência da lei e do princípio da unicidade sindical, como indica o aresto abaixo colacionado:
+ ..
+Ademais, não procede a tese de que ocorreu preclusão da matéria, sob o argumento de que o Estado do Maranhão não arguiu a ilegitimidade na fase de liquidação do julgado, em virtude de que somente nesta fase de cumprimento individual de sentença é que foi possível aferir o não enquadramento da apelante como substituída pela referida entidade sindical.
+Ressalte-se que por se tratar de ação coletiva que beneficiou mais de dez mil servidores era inviável na fase de liquidação a aferição da situação de cada um dos requerentes individualmente, sob pena de tornar o processo infindável. Por oportuno, insta esclarecer que a liquidação da sentença foi delimitada a três mil substituídos, sendo que aos demais restou facultada a utilização dos mesmos parâmetros (de liquidação) empregados aos servidores que constavam da referida lista para o ajuizamento das ações de cumprimento individual do julgado.
+Assim, conclui-se que o juízo sentenciante reconheceu oportunamente a ilegitimidade da apelante em razão das circunstâncias do caso, razão pela qual não há como acolher a tese de preclusão da matéria.
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, §1º, IV, do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, relator Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Ante o exposto, nego provimento ao recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
