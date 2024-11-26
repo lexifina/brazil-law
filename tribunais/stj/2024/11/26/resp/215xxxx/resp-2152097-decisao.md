@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA NACIONAL, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO no agravo de instrumento n. 0803660-21.2022.4.05.0000, assim ementado (fl. 178):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VIA ADEQUADA À DISCUSSÃO DA MATÉRIA DE ORDEM PÚBLICA QUE NÃO DEMANDE DILAÇÃO PROBATÓRIA. PROCESSO ADMINISTRATIVO. ALEGADA AUSÊNCIA DE NOTIFICAÇÃO DO CONTRIBUINTE. INTIMAÇÃO DA FAZENDA PÚBLICA. NÃO DEMONSTRAÇÃO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA AFASTADA.
+1. Agravo de instrumento interposto contra decisão que, em sede de execução fiscal, não reconheceu a ocorrência de nulidade da execução por violação do contraditório e da ampla defesa no âmbito administrativo.
+2. A via eleita, qual seja, a exceção de pré executividade, mostra-se apta à discussão de matéria de ordem pública, cuja comprovação se faz mediante simples apresentação do processo administrativo. A alegação de ausência de notificação do contribuinte fulmina de nulidade o título executivo por atingir diretamente a garantia do exercício do contraditório e da ampla defesa na esfera administrativa (art. 5º, LV , da CF ). Comprovação mediante prova pré-constituída. Cabimento.
+3. O Juízo da Execução rejeitou o pedido da Excipiente por entender que o processo administrativo trazido aos autos demonstrava a efetiva notificação do contribuinte acerca do lançamento.
+4. Notificação de lançamento desacompanhada de comprovante de entrega, sendo que os elementos coligidos aos autos, quando muito, evidenciam a expedição do documento, não comprovando que houve o recebimento da intimação no domicílio tributário eleito pelo sujeito passivo, conforme exige o art. 23, II do Dec. nº 70.235/72. Processo administrativo em que não comprova a intimação da notificação de lançamento.
+5. Agravo de instrumento conhecido e provido.
+Os embargos de declaração opostos pela parte recorrida (fls. 191-193) foram acolhidos para fixar honorários advocatícios (fls. 225-230).
+No recurso especial (fls. 205-214), a parte recorrente aponta violação dos arts. 3º, 16, § 1º, da Lei n. 6.830/1980; 204 do Código Tributário Nacional; 373, inciso I, do Código de Processo Civil. Sustenta, em suma, que "não se desincumbiu o excipiente do ônus da prova, não conseguiu o mesmo fazer prova inequívoca a fim de ilidir a presunção de certeza e liquidez própria do título executivo" (fl. 214).
+Contrarrazões apresentadas às fls. 250-261.
+O recurso especial foi admitido às fl. 278.
+É o relatório. Decido.
+A irresignação não prospera. Na hipótese, verifico que a parte recorrente limita-se a alegar, genericamente, que o recorrido não se desincumbiu de provar a ausência de certeza e liquidez do título executivo.
+Como se vê, as razões do recurso especial não desenvolveram tese para demonstrar os motivos pelos quais teria ocorrido violação dos arts. 3º, 16, § 1º, da Lei n. 6.830/1980; 204 do Código Tributário Nacional; 373, inciso I, do Código de Processo Civil, o que evidencia a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF. Nesse sentido: AgInt no REsp n. 2.004.665/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023; AgInt no REsp n. 2.075.044/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 228), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ARTS. 3º, 16, § 1º, DA LEI N. 6.830/1980; 204 DO CTN; 373, INCISO I, DO CPC. AUSÊNCIA DE DESENVOLVIMENTO DE TESE. SÚMULA N. 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
