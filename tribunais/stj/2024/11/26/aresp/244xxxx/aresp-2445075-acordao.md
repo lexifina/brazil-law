@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para negar provimento ao recurso especial.
+Os Srs. Ministros Ribeiro Dantas e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DAS ATENUANTES DE CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. TRÁFICO PRIVILEGIADO. REDUÇÃO EM 1/6 JUSTIFICADA PELA QUANTIDADE DE DROGAS (5.115G DE COCAÍNA) E PELA COLABORAÇÃO COM GRUPO CRIMINOSO VOLTADO AO TRÁFICO INTERNACIONAL. AGRAVO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial, no qual a agravante busca a reforma da dosimetria da pena, com a aplicação do tráfico privilegiado na fração máxima de 2/3, questionando a aplicação das atenuantes de confissão espontânea e menoridade relativa.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível a aplicação da redução da pena aquém do mínimo legal em razão das atenuantes de confissão espontânea e menoridade relativa; (ii) determinar se a fração de 1/6 para a redução do tráfico privilegiado foi corretamente aplicada.
+III. RAZÕES DE DECIDIR
+3. A redução da pena aquém do mínimo legal com base nas atenuantes de confissão espontânea e menoridade relativa é vedada pela jurisprudência pacífica desta Corte, nos termos da Súmula n. 231/STJ.
+4. A aplicação da minorante do tráfico privilegiado na fração de 1/6 é justificada pela quantidade de drogas apreendidas (5.115g de cocaína) e pelo envolvimento da agravante com o tráfico internacional, com base em critérios objetivos e subjetivos, conforme entendimento consolidado do STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, em que a parte recorrida postula o não conhecimento do recurso ou o seu desprovimento.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DAS ATENUANTES DE CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. TRÁFICO PRIVILEGIADO. REDUÇÃO EM 1/6 JUSTIFICADA PELA QUANTIDADE DE DROGAS (5.115G DE COCAÍNA) E PELA COLABORAÇÃO COM GRUPO CRIMINOSO VOLTADO AO TRÁFICO INTERNACIONAL. AGRAVO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial, no qual a agravante busca a reforma da dosimetria da pena, com a aplicação do tráfico privilegiado na fração máxima de 2/3, questionando a aplicação das atenuantes de confissão espontânea e menoridade relativa.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível a aplicação da redução da pena aquém do mínimo legal em razão das atenuantes de confissão espontânea e menoridade relativa; (ii) determinar se a fração de 1/6 para a redução do tráfico privilegiado foi corretamente aplicada.
+III. RAZÕES DE DECIDIR
+3. A redução da pena aquém do mínimo legal com base nas atenuantes de confissão espontânea e menoridade relativa é vedada pela jurisprudência pacífica desta Corte, nos termos da Súmula n. 231/STJ.
+4. A aplicação da minorante do tráfico privilegiado na fração de 1/6 é justificada pela quantidade de drogas apreendidas (5.115g de cocaína) e pelo envolvimento da agravante com o tráfico internacional, com base em critérios objetivos e subjetivos, conforme entendimento consolidado do STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da Súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da Súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da Súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da Súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violados os arts. 65, I e III, d, e 68, ambos do Código Penal, e o art. 33, § 4º, da Lei n. 11.343/20 06.
+A análise das razões motivadas na origem indica que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula nº 83/STJ, conforme se verifica da fundamentação adotada (e-STJ fls 753-759):
+2- Para a acusada Abigail Condori Ruiz.
+Na primeira fase, a natureza e a quantidade da droga, bem como a personalidade e a conduta social do agente, são circunstâncias que devem ser consideradas com preponderância sobre o artigo 59 do Código Penal, nos termos do artigo 42 da Lei de Drogas.
+E, no caso vertente, a r. sentença, após considerar circunstâncias judiciais do art. 59 do Código Penal, observada a ausência de antecedentes da ré e o art. 42 da Lei de Drogas, a quantidade da substância entorpecente apreendida (5.115g de cocaína), fixou a pena-base privativa de liberdade em 6 (seis) anos de reclusão, além do pagamento de 600 (seiscentos) dias-multa, com o incremento em majoração no patamar de 1/5 (um quinto).
+A acusação requer a majoração da pena-base e a defesa requer sua fixação no mínimo legal, no entanto, considerada a quantidade da droga apreendida, conforme critérios adotados nesta Turma Julgadora, essa majoração deve ser fixada no patamar mínimo de 1/6 (um sexto), o que implica na redução da pena-base para 5 (cinco) anos e 10(dez) meses de reclusão, e pagamento de 583 (quinhentos e oitenta e três) dias- multa, no valor unitário mínimo.
+Na segunda fase, presente a circunstância atenuante da confissão espontânea, nos termos do art. 65, III, "d" do Código Penal, uma vez que voluntária e espontaneamente admitiu a prática do crime em seu interrogatório.
+No mais, ainda nessa segunda fase, a r. sentença considerou a incidência da circunstância atenuante da menoridade, do art. 65, inciso I do Código Penal, em razão da acusada, nascida aos 24/07/2003, contar com idade inferior a 21 (vinte e um) anos na data dos fatos.
+Nesse ponto, a r. sentença reduziu a pena em 1/3 (um terço), o que resultou na aplicação de pena em patamar inferior ao mínimo-legal, aspecto impugnado no recurso da acusação, posto que indevida a redução da pena intermediária abaixo do mínimo legal.
+Destarte, considero que assiste razão à acusação, uma vez que conforme entendimento jurisprudencial consolidado pela Súmula nº 231 do Superior Tribunal de Justiça, deve a pena intermediária ser fixada no mínimo legal, de 5(cinco) anos de reclusão e 500 (quinhentos) dias- multa, no valor unitário mínimo.
+Na terceira fase, aplicou-se o aumento da pena pela transnacionalidade do delito (artigo 40, inc. I, da Lei nº 11.343/2006) na fração mínima de 1/6 (um sexto), e por não incidirem outras majorantes a serem aplicadas, restou elevada a pena privativa de liberdade para 5 (cinco) anos, 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias- multa.
+No tocante a causa de diminuição do §4º do art. 33 da Lei nº11.343/2006, requer a DPU, a sua aplicação em grau máximo (2/3), pelo ora reconhecimento do chamado tráfico privilegiado.
+Assinale-se que o magistrado não está obrigado a aplicar o máximo da redução prevista quando presentes os requisitos para a concessão desse benefício, possuindo discricionariedade para fixar, de forma fundamentada, a redução no patamar que entender necessário e suficiente para a reprovação e prevenção do crime.
+De outra parte, requer a acusação a reforma da r. sentença para que seja aplicada a minorante do §4º do art. 33 da Lei nº11.343/2006, no mesmo patamar de redução imposta ao acusado Fabrício, em 1/6 (um sexto), por não existirem razões para a redução em patamares diferenciados para os acusados, como determinado na r. sentença, que em favor da acusada Abigail minorou a pena pelo privilégio em 1/5 (um quinto).
+Na hipótese, considero que assiste razão à acusação, visto que demonstrou-se nos autos, que ambos os réus, de modo livre e consciente, aderiram ao processo de internacionalização da droga e de adesão à proposta da organização criminosa, no entanto, a mesma situação e vulnerabilidade social descrita em favor da acusada Abigail (ser estrangeira, mãe e sua necessidade de recursos financeiros), também milita em favor do acusado Fabrício.
+Ademais, quanto ao acusado Fabrício, ao qual se aplicou a redução no patamar de 1/6 (um sexto), observo que não poderia ser a circunstância de ascendência sobre a corré e o fato de ser ele o detentor dos contatos com os traficantes organizadores, considerada na segunda fase como circunstância agravante (art. 62, inciso I, do Código Penal), e novamente reproduzida na terceira fase, para justificar uma menor redução da pena, sob pena de bis in idem.
+Destarte, deve ser fixada a redução no patamar de 1/6 (um sexto) para a acusada Abigail, o que resulta na pena definitiva de 4 (quatro) anos, 10 (dez) meses 10 (dez) dias de reclusão, além do pagamento de 485 (quatrocentos e oitenta cinco) dias- multa, no valor unitário mínimo, tendo em vista a capacidade econômica da ré (art. 60 do Código Penal).
+Conforme se observa, o Tribunal de origem aplicou de forma idônea as atenuantes da confissão e da menoridade relativa, conforme o disposto pela Súmula n. 231/STJ. A minorante do §4º do art. 33 da Lei n. 11.343/2006, na fração de 1/6, foi justificada pela quantidade de drogas apreendidas (5.115g de cocaína) e pela adesão à proposta da organização criminosa voltada ao tráfico internacional de drogas.
+No mesmo sentido, citem-se os seguintes precedentes da Quinta Turma, cujos entendimentos se assemelham ao adotado pelo acórdão recorrido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVA DA MATERIALIDADE. ENTORPECENTE APREENDIDO COM CORRÉU. LIAME ENTRE OS AGENTES COMPROVADO. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA 231 DO STJ. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. RÉU CONDENADO TAMBÉM POR ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretensão de absolvição pelos delitos de tráfico de drogas e associação para o tráfico - este último sob a alegação de falta de comprovação do ânimo associativo entre o recorrente e os corréus - demanda, necessariamente, o revolvimento do conteúdo fático probatório dos autos, providência inviável em recurso especial (Súmula 7/STJ).
+2. Não prospera a alegação de ilegalidade na condenação pelo delito de tráfico de drogas por não ter sido encontrado nenhum material ilícito com o ora recorrente, pois houve apreensão de entorpecentes com coinvestigado, tendo sido demonstrado o liame entre todos os agentes, conforme destacado no acórdão impugnado.
+3. A jurisprudência desta Corte pacificou orientação no sentido de que o reconhecimento da atenuante não implica a redução da pena aquém do mínimo legal, nos termos da Súmula 231/STJ.
+4. A condenação pelo crime de associação para o tráfico, por si só, já tem o condão de inviabilizar a aplicação do redutor previsto no art. 33, § 4º, da Lei Antidrogas, pois essa circunstância impede que o agente preencha os requisitos legais para a aplicação da minorante.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.211.018/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006 EM SUA FRAÇÃO MÁXIMA. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. É firme neste Superior Tribunal de Justiça a orientação jurisprudencial de que  a  ciência do agente de estar a serviço de grupo criminoso voltado ao tráfico internacional de drogas é circunstância apta a justificar a redução da pena em 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 (AgRg no AREsp n. 2.090.316/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 27/6/2022).
+2. Alterar a conclusão das instâncias de origem no sentido de que "os réus tinham conhecimento de que a carga seria embarcada em navio com destino ao exterior" , constitui providência inadmissível na via do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+3. Agravo não provido
+(AgRg nos EDcl no AREsp n. 2.347.096/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
