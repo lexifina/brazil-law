@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, receberos embargos de declaração como agravo regimental, ao qual se negar provimento.
+Os Srs. Ministros Ribeiro Dantas e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CRIME DE DESENVOLVIMENTO CLANDESTINO DE ATIVIDADE DE TELECOMUNICAÇÃO. ART. 183 DA LEI Nº 9.472/1997. RÁDIO COMUNITÁRIA. CONDUTA TÍPICA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra decisão monocrática que não conheceu de habeas corpus impetrado em favor dos pacientes, condenados por desenvolverem atividade de radiodifusão sem a devida autorização, prática tipificada no art. 183 da Lei nº 9.472/1997. A defesa alega omissão no julgado quanto à interpretação restritiva do conceito de telecomunicações, em virtude da alteração introduzida pela Emenda Constitucional nº 8/1995, e postula a aplicação do princípio da insignificância para absolvição dos pacientes.
+2. Embargos de declaração recebidos como agravo regimental, nos termos do art. 1.024, § 3º, do CPC, por traduzirem mero inconformismo com o resultado do julgamento.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) se a alteração do conceito de telecomunicações pela Emenda Constitucional nº 8/1995 impacta a tipicidade da conduta de radiodifusão clandestina; e (ii) se é aplicável o princípio da insignificância ao crime previsto no art. 183 da Lei nº 9.472/1997.
+III. RAZÕES DE DECIDIR
+4. O crime de desenvolvimento clandestino de atividade de telecomunicação, previsto no art. 183 da Lei nº 9.472/1997, é considerado delito formal e de perigo abstrato, voltado à proteção dos meios de comunicação, de modo que a mera instalação e operação sem autorização configuram o tipo penal, sendo desnecessária a comprovação de dano concreto.
+5. A jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal não admite a aplicação do princípio da insignificância ao delito tipificado no art. 183 da Lei nº 9.472/1997, pois se trata de crime de perigo abstrato e coletivo, visando evitar interferências nos sistemas de comunicação.
+6. A Emenda Constitucional nº 8/1995, ao regulamentar separadamente os serviços de telecomunicações e de radiodifusão, não exclui a radiodifusão do conceito de telecomunicações para fins de tipificação penal, conforme interpretação majoritária dos tribunais.
+IV. DISPOSITIVO
+7. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por JOSÉ CARLOS RIBEIRO e VALDELICE GONÇALVES DE OLIVEIRA contra decisão monocrática por mim exarada que não conheceu de habeas corpus (e-STJ fls. 1146/1150).
+A embargante alega ser omisso o julgado na medida em que não teria se pronunciado sobre "a interpretação restritiva do conceito de telecomunicações utilizado no art. 183 da Lei nº 9.472/97 a partir da alteração introduzida pela Emenda Constitucional nº 8/95 no art. 21 da Constituição Federal.
+Requer o acolhimento dos embargos, com efeitos infringentes, para que após sanado o vício, seja o paciente absolvido da prática do delito tipificado no art. 183 da Lei nº 9.472/97.
+Em contrarrazões, o embargado posta-se pela rejeição do embargos (e-STJ fls. 1165/1160).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CRIME DE DESENVOLVIMENTO CLANDESTINO DE ATIVIDADE DE TELECOMUNICAÇÃO. ART. 183 DA LEI Nº 9.472/1997. RÁDIO COMUNITÁRIA. CONDUTA TÍPICA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra decisão monocrática que não conheceu de habeas corpus impetrado em favor dos pacientes, condenados por desenvolverem atividade de radiodifusão sem a devida autorização, prática tipificada no art. 183 da Lei nº 9.472/1997. A defesa alega omissão no julgado quanto à interpretação restritiva do conceito de telecomunicações, em virtude da alteração introduzida pela Emenda Constitucional nº 8/1995, e postula a aplicação do princípio da insignificância para absolvição dos pacientes.
+2. Embargos de declaração recebidos como agravo regimental, nos termos do art. 1.024, § 3º, do CPC, por traduzirem mero inconformismo com o resultado do julgamento.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) se a alteração do conceito de telecomunicações pela Emenda Constitucional nº 8/1995 impacta a tipicidade da conduta de radiodifusão clandestina; e (ii) se é aplicável o princípio da insignificância ao crime previsto no art. 183 da Lei nº 9.472/1997.
+III. RAZÕES DE DECIDIR
+4. O crime de desenvolvimento clandestino de atividade de telecomunicação, previsto no art. 183 da Lei nº 9.472/1997, é considerado delito formal e de perigo abstrato, voltado à proteção dos meios de comunicação, de modo que a mera instalação e operação sem autorização configuram o tipo penal, sendo desnecessária a comprovação de dano concreto.
+5. A jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal não admite a aplicação do princípio da insignificância ao delito tipificado no art. 183 da Lei nº 9.472/1997, pois se trata de crime de perigo abstrato e coletivo, visando evitar interferências nos sistemas de comunicação.
+6. A Emenda Constitucional nº 8/1995, ao regulamentar separadamente os serviços de telecomunicações e de radiodifusão, não exclui a radiodifusão do conceito de telecomunicações para fins de tipificação penal, conforme interpretação majoritária dos tribunais.
+IV. DISPOSITIVO
+7. Agravo regimental desprovido.
+VOTO
+Nos termos do artigo 1.024, § 3º, do CPC, recebo os embargos de declaração como agravo regimental, pois o pedido formulado traduz mero inconformismo com o resultado do julgamento.
+Passo à análise do recurso interno.
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 1146/1150):
+Trata-se de habeas corpus impetrado contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PENAL E PROCESSUAL PENAL. APELAÇÃO. DESENVOLVIMENTO CLANDESTINO DE ATIVIDADE DE TELECOMUNICAÇÃO. ART. 183 DA LEI Nº 9.472/97. PRINCÍPIO DA INSIGNIFICÂNCIA INAPLICABILIADE.
+1. Materialidade e autoria comprovadas.
+2. A atividade de radiodifusão é espécie do gênero telecomunicação (Lei nº 9.472/1997, art. 60). A Emenda Constitucional nº 08/95 apenas regulamentou os serviços de telecomunicações (inciso XI) e os de radiodifusão (inciso XII) de forma separada, o que não autoriza afirmar que se trata de institutos diversos. Precedentes do STJ e deste Tribunal.
+3. Esse crime é de perigo abstrato, coletivo, cujo bem jurídico tutelado são os meios de comunicação, pois a exploração de radiodifusão sem a devida autorização da agência reguladora pode causar interferência em vários sistemas de comunicação. Para a sua caracterização exige-se somente a comprovação do desenvolvimento clandestino de atividade de telecomunicação. É inaplicável o principio da insignificância.
+4. Cabe à acusação a produção das provas da materialidade, da autoria e do elemento subjetivo do tipo, relativamente à imputação feita aos acusados, nos termos do art. 156 do Código de Processo Penal. Contudo, deflui do mesmo texto que incumbe à defesa, ao apresentar versão distinta dos fatos ou alegação de excludentes, fazer prova ou, pelo menos, trazer elementos que levantem dúvida razoável acerca do quanto sustentado pela acusação. Trata-se de uma via de mão dupla, estabelecendo o ônus probatório à parte que alega, seja a acusação ou a defesa.
+5. Apelação desprovida.
+Os pacientes foram condenados à pena de 2 anos de detenção no regime aberto, substituída por duas restritivas de direitos, mais o pagamento de 10 dias-multa, pela prática do crime previsto no art. 183 da Lei n. 9.472/1997.
+A Defensoria Pública requer a incidência do princípio da insignificância, ao argumento de que a operação de uma rádio comunitária traz mínima lesividade.
+Alega também que deve ser reconhecida a atipicidade da conduta, uma vez ausente a elementar da clandestinidade - processo de habilitação iniciado junto ao órgão competente -, e porque os serviços de radiodifusão deixaram de fazer parte do espectro das telecomunicações com o advento da EC n. 8/1995.
+O pedido de liminar foi indeferido.
+As informações foram prestadas.
+Parecer do Ministério Público Federal pelo não conhecimento do writ.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, o que não ocorre no caso dos autos.
+Além da necessidade de reexame da prova, vedada na via do habeas corpus, na medida em que a instância ordinária asseverou que há laudos que atestam dano potencial e que o serviço de radiodifusão não tinha a devida autorização da ANATEL, o Superior Tribunal de Justiça sedimentou entendimento a respeito da inaplicabilidade do princípio da insignificância ao delito tipificado no art. 183 da Lei n. 9.472/1997.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESENVOLVIMENTO CLANDESTINO DE ATIVIDADES DE TELECOMUNICAÇÃO. CRIME DO ART. 183 DA LEI N. 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. SÚMULA N. 606 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO ESPECIAL PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento dominante desta Corte Superior é no sentido de que o delito do art. 183 da Lei n. 9.472/1997 é crime formal e de perigo abstrato, razão pela qual não cabe a aplicação do princípio da insignificância. Este entendimento foi materializado na Súmula n. 606 do STJ: "não se aplica o princípio da insignificância a casos de transmissão clandestina de sinal de internet via radiofrequência, que caracteriza o fato típico previsto no artigo 183 da Lei 9.472/97".
+2. Agravo regimental desprovido.(AgRg no REsp n. 2.116.546/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO CLANDESTINA DE ATIVIDADE DE TELECOMUNICAÇÃO. TIPICIDADE DA CONDUTA. DELITO FORMAL. INTELIGÊNCIA DA SÚMULA N. 606/STJ. EXISTÊNCIA DE FUNDAMENTO CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA N. 126/STJ. DESPROVIMENTO.
+1. In casu, ressaltou o Tribunal regional que "o desenvolvimento clandestino de atividades de telecomunicação, tipificado pelo artigo 183 da Lei 9.472/97, constitui delito formal, bastando, para sua configuração, que seja o aparelho instalado e colocado em funcionamento sem a devida autorização. Não há necessidade de comprovação de potencialidade lesiva do aparelho e por isso não há que se falar em aplicação do princípio da insignificância", posicionamento esse que se coaduna com a jurisprudência desta Corte. Precedentes.
+2. "Não se aplica o princípio da insignificância a casos de transmissão clandestina de sinal de internet via radiofrequência, que caracteriza o fato típico previsto no art. 183 da Lei n. 9.472/1997" (Súmula n. 606/STJ).
+3. "É inadmissível recurso especial, quando o acordão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula n. 126, Corte Especial, julgado em 9/3/1995, DJ de 21/3/1995).
+4. Agravo regimental desprovido.(AgRg no AREsp n. 2.192.528/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 23/4/2024, DJe de 26/4/2024.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO DE RADIODIFUSÃO CLANDESTINA (ART. 183 DA LEI N. 9.472/1997). TIPICIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido encontra-se no mesmo sentido da jurisprudência dessa Corte Superior de Justiça de que a prática do serviço de radiodifusão, sem autorização da ANATEL, independentemente da potência em que opere, configura o fato tipificado no art. 183 da Lei 9.472/1997 (AgRg no AREsp n. 1.131.414/SP, relator Ministro JORGE MUSSI, Quinta Turma, julgado em 26/9/2017, DJe 16/10/2017). Precedentes.
+2. Agravo regimental não provido.(AgRg no AREsp n. 1.998.264/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+Ademais, trata-se de crime formal, de perigo abstrato, o que torna irrelevante a ocorrência de dano concreto causado pela conduta do agente, e que tem como bem jurídico tutelado a segurança dos meios de comunicação, cujo conceito abarca a radiodifusão.
+Por fim, "a simples existência de pedido prévio de outorga de transmissão de radiodifusão não retira a clandestinidade da atividade, porquanto permanecia não autorizada" (AgRg no HC n. 410.403/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/3/2018, DJe de 12/3/2018). O próprio tipo penal esclarece: "Considera-se clandestina a atividade desenvolvida sem a competente concessão, permissão ou autorização de serviço, de uso de radiofreqüência e de exploração de satélite".
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+Reforço que a conduta dos pacientes (operar rádio comunitária) é típica pois, nos termos do art. 60 da Lei nº 9472/97, serviço de telecomunicações é o conjunto de atividades que possibilita a oferta de telecomunicação (transmissão, emissão ou recepção, por fio, radioeletricidade, meios ópticos ou qualquer outro processo eletromagnético, de símbolos, caracteres, sinais, escritos, imagens, sons ou informações de qualquer natureza).
+Ante o exposto, conheço dos embargos de declaração como agravo regimental e, nesse contexto, nego provimento ao recurso.
+É o voto.
