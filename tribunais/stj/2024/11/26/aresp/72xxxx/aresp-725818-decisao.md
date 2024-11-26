@@ -1,0 +1,14 @@
+DECISÃO
+Em virtude da afetação do Tema n. 923, a então Presidente do STJ determinou "a devolução dos autos à origem, onde deve permanecer suspenso o recurso especial, até o pronunciamento definitivo do STJ sobre o tema, nos termos do art. 543-C, caput, e § 1.º, do CPC e, após, observe-se a sistemática prevista no art. 543-C, § 7.º, do CPC." (fls. 746-747).
+Todavia, o Tribunal de origem devolveu os autos, pois considerou inaplicável ao caso o disposto no art 1.040 do CPC, tendo em vista que o apelo extremo fora inadmitido diante de sua deserção, já que "o pedido de renovação do benefício de assistência judiciária deve ser, -Formulado - quando em curso a ação - em petição avulsa, nos termos do artigo 5º da Lei 1..060/50, para que possa ser autuado em apartado e, então, processado" (fls. 683-684).
+É o relatório. Decido.
+Verifica-se que o Tribunal de origem decidiu contrariamente à jurisprudência do STJ, porquanto a Corte Especial, "no julgamento do AgRg nos EAREsp 86.915/SP, afirmou a eficácia do benefício da gratuidade da Justiça para todos os atos processuais posteriores à sua concessão, independentemente de renovação do pedido" (EDcl no AgRg no REsp n. 1.487.283/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/3/2019, DJe de 26/3/2019).
+Dessa forma, para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem, conforme dispõe o art. 256-L do RISTJ:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Registre-se que, segundo a orientação jurisprudencial do STJ, o ato judicial que determina o sobrestamento e o retorno dos autos à corte de origem a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não tem carga decisória, por isso é provimento irrecorrível.
+Nesse sentido: AgInt no REsp n. 1.140.843/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe de 30/10/2018; AgInt nos EDcl nos EREsp n. 1.126.385/MG, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017; AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2017, DJe de 4/9/2017; e AgInt no REsp n. 1.661.811/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.
+Ante o exposto, determino a restituição dos autos ao Tribunal de origem a fim de que proceda à eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Publique-se. Intimem-se.
+EMENTA
