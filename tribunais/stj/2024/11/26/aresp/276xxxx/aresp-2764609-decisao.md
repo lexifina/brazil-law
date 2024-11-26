@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE CAMPO LIMPO PAULISTA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de Instrumento - Cumprimento de Sentença - Verbas estatutárias sonegadas pelo Município - Dano moral em prol de servidor(a)-agravado(a) - Arbitramento em R$ 2.000,00 - Recurso pelo Município de Campo Limpo Paulista - Desprovimento de rigor.
+Valor adequado e consentâneo ao já arbitrado em outras demandas idênticas - Binômio de que a indenização não pode ser nem excessiva sob pena de constituir o enriquecimento sem causa do lesado e tampouco ínfima sob pena de servir a um só tempo desmerecer o lesado e servir de estímulo a novas práticas indevidas.
+R. decisão mantida, com majoração dos ônus sucumbenciais (Tese fixada pelo E. STJ) - Recurso desprovido.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 8º do CPC e ao art. 5º da LINDB, no que concerne à excessividade do valor fixado a título de indenização por dano moral, considerando o valor a ser pago a cada servidor do município, R$ 2.000,00 (dois mil reais), o que inviabilizará a gestão do município que é de pequeno porte e possui pouca arrecadação, comprometendo os atendimentos prestados à população, os investimentos sociais e as políticas públicas.
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada (excessividade do valor de R$ 2.000,00 a título de indenização, para a gestão do município) não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Diversos casos semelhantes contra a Municipalidade de Campo Limpo Paulista foram e são distribuídos a este Relator. Em resumo, tratam de indenização por dano moral ao servidor que teve verbas estatutárias sonegadas pelo referido Município. O arbitramento, atual, está assentado em R$ 2.000,00, tal qual a decisão agravada.
+Em síntese, após debate noutros feitos, alcançou-se tal valor adequado e homogêneo, observado o binômio de que a indenização não pode ser nem excessiva sob pena de constituir o enriquecimento sem causa do lesado e tampouco ínfima sob pena de servir a um só tempo desmerecer o lesado e servir de estímulo a novas práticas indevidas, além da comprovação de que era servidor ativo durante a gestão do requerido Roberto Antônio no Município de Campo Limpo Paulista. (fls. 127).
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE CAMPO LIMPO PAULISTA à decisão que não admitiu seu Recurso Especial.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
