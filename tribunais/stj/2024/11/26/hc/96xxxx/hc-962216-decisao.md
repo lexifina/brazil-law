@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de ELIO DE CAMPOS NETO, apontando como autoridade coautora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei 11.343/06 à pena de 06 (seis) anos e 03 (três) meses de reclusão, em regime inicial fechado, e ao pagamento de 625 (seiscentos e vinte e cinco) dias-multa (e-STJ, fls. 28-31).
+Inconformada, a defesa interpôs recurso de apelação, que foi desprovido por maioria dos votos (e-STJ, fls. 9-13).
+Opostos embargos infringentes, estes foram rejeitados (e-STJ, fls. 19-22).
+Nesta via recursal, o patrono aduz flagrantes ilegalidades na segunda fase de dosimetria, sustentando que a fração de 1/6 deveria incidir no caso, com a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Para melhor compreensão da controvérsia, extrai-se do acórdão objurgado:
+"O voto vencedor ao manter na fase intermediária a fração de aumento das penas,  , bem salientou a fixação das penas neste patamar, em razão da multirreincidência, inclusive específica, fato que demonstra a excepcional dedicação do ora embargante ao tráfico de drogas, motivação suficiente para considerar a reprimenda imposta, adequada, proporcional e razoável, devendo ser mantida.
+Assim, a consideração da multirreincidência, inclusive específica do embargante constitui motivação válida para a escolha da fração operada, razão pela qual não se verifica manifesta ilegalidade no cálculo da pena, reforçando, sem dúvida nenhuma, a necessidade de maior reprovação na estipulação da pena imposta." (e-STJ, fl. 21)
+In casu, o Tribunal local manteve o aumento de 1/4 (um quarto) na segunda fase de dosimetria, uma vez que o paciente é multirreincidente específico.
+Referido entendimento está em consonância com o Tema Repetitivo n. 185 da Terceira Seção desta Corte Superior, o qual estabelece que " é  possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão es pontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade".
+Ainda nesse sentido, colaciona-se os seguintes julgados:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO OU REVISÃO CRIMINAL. IMPOSSIBILIDADE. RECEPTAÇÃO E DESOBEDIÊNCIA. COMPROVAÇÃO DA AUTORIA E MATERIALIDADE. CONFISSÃO EPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO ADEQUADA. TRÁFICO PRIVILEGIADO. NÃO CABIMENTO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. FLAGRANTE ILEGALIDADE NÃO CONFIGURADA. HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado como substitutivo de recurso próprio ou revisão criminal, com o objetivo de obter a absolvição do paciente por insuficiência de provas quanto aos crimes de receptação e desobediência, bem como o reconhecimento da minorante do tráfico privilegiado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar: (i) a possibilidade de absolvição por insuficiência de provas, considerando a condenação por receptação e desobediência; (ii) a correta compensação entre a confissão espontânea e a reincidência na dosimetria da pena; e (iii) o cabimento da minorante do tráfico privilegiado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, exceto em casos de flagrante ilegalidade.
+4. A autoria e a materialidade dos crimes de receptação e desobediência foram devidamente comprovadas pelas instâncias ordinárias, com base em provas consistentes, sendo inviável o reexame de fatos e provas na via do habeas corpus.
+5. A compensação entre a confissão espontânea e a reincidência foi corretamente realizada pela Corte local, em conformidade com o Tema Repetitivo 585 do STJ, que admite a compensação proporcional quando houver multirreincidência.
+6. O pedido de reconhecimento da minorante do tráfico privilegiado foi indeferido, com base na grande quantidade de droga apreendida (946 kg de maconha) e no envolvimento do paciente em atividades típicas de organização criminosa, não sendo possível revisar esses elementos sem incursão fático-probatória, inviável no âmbito do habeas corpus.
+7. Não há flagrante ilegalidade nos fundamentos das instâncias de origem que justifique a concessão da ordem de ofício.
+IV. HABEAS CORPUS NÃO CONHECIDO."
+(HC n. 840.859/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 11/11/2024; destacou-se.)
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. FURTO QUALIFICADO CONSUMADO. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. COMPENSAÇÃO INTEGRAL. MULTIRREINCIDÊNCIA. IMPOSSIBILIDADE. REGIME FECHADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, FELIPE invadiu a empresa durante a noite, mediante escalada e rompimento de obstáculo, subtraiu as conexões de alumínio e as entregou para DANIEL, que aguardava na calçada, do lado de fora. Nesse momento, a proprietária chegou, tendo os agravantes empreendido fuga sem os objetos subtraídos. Logo em seguida, foram presos pela polícia militar.
+Nessas circunstâncias, não há falar em crime tentado, conforme tese firmada por esta Corte Superior no Tema Repetitivo 934, segundo a qual "consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada".
+2. Quanto às penas-base, o acórdão está em consonância com o entendimento pacífico no sentido de "que o reconhecimento de uma das qualificadoras já basta ao enquadramento do fato perpetrado no tipo penal violado, inexistindo óbice a que as sobejantes sejam utilizadas como circunstância negativa passível de consideração na fixação da pena-base" (AgRg no HC n. 895.146/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+3. Também não se mostra cabível a compensação integral da multirreincidência de DANIEL com a confissão espontânea, visto que, nesses casos, deve ser reconhecida a "preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea" (REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, DJe de 24/6/2022).
+4. Embora as penas não tenham ultrapassado quatro anos, os regimes semiaberto e fechado foram devidamente fixados, com observância do disposto no art. 33 c/c o art. 59, ambos do Código Penal - CP, uma vez que ambos os agravantes possuem circunstâncias judiciais desfavoráveis e DANIEL é reincidente. Dessa forma, a detração prevista no art. 387, § 2º, do Código de Processo Penal - CPP não conduz à modificação do regime prisional.
+5. Agravo regimental desprovido."
+(AgRg nos EDcl no HC n. 938.096/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/9/2024, DJe de 3/10/2024; negritou-se.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. DOSIMETRIA. COMPENSAÇÃO ENTRE AGRAVANTE E ATENUANTE. MULTIRREINCIDÊNCIA. PREPONDERÂNCIA SOBRE A ATENUANTE DE CONFISSÃO ESPONTÂNEA. VIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Tratando-se de réu multirreincidente, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea." (AgRg no HC n. 855.738/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+2. Agravo regimental desprovido."
+(AgRg no HC n. 916.701/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mais, rever a fração adotada pela Corte de origem demandaria maior revolvimento fático-probatório dos autos, o que é vedado na via estreia do writ.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
