@@ -1,0 +1,58 @@
+DECISÃO
+
+    1. Fernando Correa da Silva Sociedade de Advogados opôs embargos de declaração de decisão mediante a qual neguei seguimento à reclamação por entender que a solução dada à controvérsia, não contrasta com a orientação firmada no julgamento das ADIs 5.766 e 2.418, bem como por não haver estrita aderência entre o ato reclamado e o enunciado vinculante n. 47 da Sumula.
+
+O embargante aponta a existência de obscuridade e/ou omissão na decisão embargada.
+
+Sustenta que em que pese a decisão ter sido expressa quando a possibilidade de suspensão da exigibilidade do pagamento de honorários sucumbenciais da parte beneficiária da justiça gratuita, esta se manteve inerte sobre a impossibilidade de ressarcimento dos honorários de sucumbência quitados em prol dos patronos da ora reclamante na reclamatória trabalhista de origem.
+
+Requer seja sanada a obscuridade/omissão e atribuídos efeitos modificativos aos embargos, a fim de cassar a decisão reclamada.
+
+É o relatório. Decido.
+
+2. Os embargos de declaração, protocolados por advogado constituído, foram opostos no prazo legal. Conheço do recurso.
+
+O embargante busca, a pretexto de sanar eventuais obscuridades/ contradições na decisão recorrida, o próprio reexame do ato decisório e a consequente reforma do julgado, fato esse inacolhível na via recursal eleita.
+
+Rememoro as razões de decidir que invoquei para negar seguimento à reclamação:
+
+“De outra parte, o ato reclamado dispôs sobre os honorários de sucumbência nos seguintes termos:
+O Juízo a quo indeferiu o pedido de devolução dos valores recebidos a título de honorários sucumbenciais. Consignou que o levantamento dos referidos valores ocorreu antes da decisão do STF na ADI 5766. Na fundamentação do ato combatido ainda consta que a parte exequente não se insurgiu quanto à inclusão dos honorários nos cálculos e quanto ao abatimento dos referidos valores do seu crédito.
+A exequente sustenta que, por ser beneficiária da justiça gratuita, não pode arcar com qualquer valor a título de honorários. Argumenta que a decisão do próprio E. TRT reconheceu esse direito. Explica que a liberação de valores antes do trânsito em julgado violou o direito da trabalhadora.
+Analiso.
+A fim de melhor elucidar a questão, faço uma breve síntese dos atos processuais mais relevantes até o momento. A sentença proferida no processo de conhecimento fixou honorários para as partes nos seguintes termos (fl. 222):
+ Considerado os limites de sucumbência de cada parte, os limites mínimo e máximo de honorários fixados em lei, a condição econômica da reclamada, defiro honorários advocatícios à reclamante no importe de 10% sobre o valor da condenação. Defiro honorários advocatícios à reclamada no importe de 5% sobre o proveito econômico alcançado, o qual corresponde à diferença entre o valor dos pedidos e o da condenação. Na mesma decisão houve deferimento dos benefícios da justiça gratuita (fl. 222): Dispõe o § 3º do art. 790 da CLT, que é facultado aos juízes, órgãos julgadores e presidentes dos tribunais do trabalho de qualquer instância conceder, a requerimento ou de ofício, o benefício da justiça gratuita, inclusive quanto a traslados e instrumentos, àqueles que perceberem salário igual ou inferior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social. Considerada a profissão da reclamante, o salário praticado no mercado conforme convenção coletiva juntada aos autos e especialmente, a rescisão contratual, defiro os benefícios postulados da justiça gratuita. Não houve recurso em face desse capítulo da sentença (fls. 228/234 e 240/247). Logo, o trânsito em julgado ocorreu em abril de 2019, nos termos da Súmula 100, II do C. TST. O expert então apresentou cálculos em que liquidou o título executivo (fls. 301/326). Intimada para manifestar sobre os cálculos (fl. 350), a parte exequente apresentou impugnação sobre a forma de atualização dos honorários (fls. 355/357). Ao apreciar a defesa, o Magistrado acolheu as razões da recorrente e determinou "que o valor dos pedidos seja apenas atualizado para a apuração da diferença em relação ao valor da condenação" (fl. 411). Os cálculos foram reformulados (fls. 419/445). Os novos cálculos seguiram a mesma sistemática em relação a exigência dos honorários. Após homologação (fls. 447), a parte executada foi citada para pagamento (fl. 458). A empresa optou por parcelar o débito, nos termos do art. 916 do CPC (fls. 459/460) e o Juízo deferiu a pretensão por meio da seguinte decisão (fls. 463/464): I - Defiro o pedido de parcelamento do débito na forma requerida, nos termos do art. 916 do CPC/2015, observando que, em caso de não cumprimento do parcelamento, haverá a incidência da multa prevista no referido dispositivo legal, que será revertida ao exequente, uma vez que, por força de lei, submetese ao recebimento do seu crédito parceladamente. I I - Intime-se a executada para proceder aos depósitos da parcelas todo dia 19 ou no primeiro dia útil subsequente, sob pena de incidência da multa de 10% nos termos do art. 916 do CPC/2015. As cinco primeiras parcelas poderão ser realizadas no valor de 1/6 do débito remanescente, devendo a executada solicitar à Secretaria da Vara a atualização final do débito antes do depósito da sexta e última parcela, para inclusão dos juros e correção monetária do período. III - Libere-se o valor depositado e bem assim os depósitos subsequentes, na proporção constante na conta id e18ca1f. Observe-se a retenção do valor devido pela parte autora a título de honorários sucumbenciais, que deverão ser liberados ao final conforme requerido. IV - Intime-se o autor do parcelamento da dívida e da disponibilidade dos valores, sendo o procurador de imediato e a parte, pessoalmente, após a juntada dos comprovantes de levantamento ou após decorridos quinze dias da primeira intimação. Após o pagamento de algumas parcelas, o procurador da parte executada pleiteou novamente que o valor referente aos honorários fosse retido nos autos para liberação ao final (fl. 533). Ocorre que a Magistrada determinou a imediata transferência dos valores para conta dos procuradores (fl. 535).
+A exequente se insurgiu em face da exigibilidade dos honorários por meio da impugnação de fls. 551/553. Ocorre que a Juíza entendeu inexistir razão para suspensão da exigibilidade dos honorários (fl. 554): Sem razão a parte autora. A letra da Lei é clara. A condição suspensiva da exigibilidade dos honorários sucumbenciais é soma da concessão da justiça gratuita com o fato de a parte autora não ter auferido créditos nestes ou em outros autos.
+Da simples análise dos autos constata-se que o crédito da parte autora alcançou os R$ 103.989,22, razão pela qual os honorários sucumbenciais são plenamente exigíveis. Nada a deferir.
+A referida decisão foi reformada por este E. TRT, que deu provimento ao agravo de petição "para declarar que estão sob condição suspensiva de exigibilidade os honorários sucumbenciais devidos pela agravante, nos termos da decisão ADI 5766, do STF" (fl. 590). Com retorno dos autos ao Juízo exequendo, a parte autora pleiteou a restituição do valor dos honorários transferidos aos procuradores da executada (fls. 681/682), mas o Juízo indeferiu o pedido (fls. 683/684 e 709/710). Em face dessa decisão que se revolta a recorrente.
+Pois bem. Conforme demonstrado nas linhas pretéritas, este E. TRT já decidiu que os honorários devidos pela reclamante estão com a exigibilidade suspensa, em razão do deferimento dos benefícios da justiça gratuita. A referida decisão transitou em julgado não sendo possível a reforma. Os honorários apenas poderiam ser exigidos se demonstrada que a situação de insuficiência de recursos que justificou a concessão de gratuidade deixou de existir, conforme art. 791-A, §4º da CLT. Circunstância não constada nos autos. Nesse cenário, o crédito da trabalhadora não pode ser usado para quitação dos honorários, exatamente porque esses estão com a exigibilidade suspensa, conforme decisão já transitada em julgado. Logo, necessário o ressarcimento dos valores transferidos aos procuradores da executada. Com fulcro no princípio da celeridade e da economia processual, entendo que a restituição deve ocorrer nos próprios autos. Em que pese inexista relação direta da reclamante com os advogados da empresa, o valor transferido aos advogados era oriundos do crédito trabalhista reconhecido na reclamação trabalhista, de forma que deve ser restituído nesses mesmos autos. Como o entendimento deste C. Colegiado é de que os valores recebidos maior podem ser executados nos mesmos autos (AP 0000993-69.2019.5.09.0012, de relatoria do Desembargador MARCUS AURELIO LOPES, publiacado em 21/06/2023 e AP 0000591-95.2013.5.09.0594, de relatoria Des. Adilson Luiz Funez, publicado em 09/08/2022), também possível a execução dos honorários transferidos indevidamente. Pelo exposto, DOU PROVIMENTO AO RECURSO para determinar a restituição dos valores descontados do crédito da autora a título de honorários.
+
+Observo que o órgão reclamado suspendeu o pagamento de honorários sucumbenciais com base no decidido na ADI 5.766.
+Na ação direta, foi declarada inconstitucional a presunção da perda da condição de hipossuficiência econômica, para efeito de aplicação do benefício de gratuidade de justiça, sem a afetiva a comprovação de eventual modificação na capacidade econômica do beneficiário.
+No caso, foi determinada a suspensão da exigibilidade do pagamento de honorários à consideração de não ter sido alterada a condição de hipossuficiência do beneficiário.
+Para dissentir das razões adotadas pelas instâncias ordinárias, seria necessário reexaminar o conjunto fático-probatório, providência inviável em sede reclamatória. Desse modo, a solução dada à controvérsia, não contrasta com a orientação firmada no julgamento da ADI 5.766.
+De outra parte, quanto ao alegado trânsito em julgado da decisão que determinou o pagamento de honorários, não observo ofensa ao decidido na ADI 2.418.
+A decisão transitada em julgada no ano de 2019 é aquela que deferiu a gratuidade da Justiça à ora beneficiária e a suspensão do pagamento de honorários é consequência do benefício concedido.
+Por fim, não há estrita aderência entre o ato reclamado e o enunciado vinculante n. 47 da Sumula.
+Dispõe o verbete vinculante que:
+Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.
+O paradigma aplica-se tão somente aos casos relativos a honorários advocatícios sucumbenciais devidos pela Fazenda Pública e a possibilidade de seu desmembramento do montante principal, hipótese não tratada nos autos.
+Não havendo estrita aderência temática entre o conteúdo do ato reclamado e o parâmetro de controle, é incabível o manejo da ação reclamatória.
+3. Do exposto, nego seguimento è reclamação.
+4. Intime-se. Publique-se.” (grifei)
+
+Como por mim explicitado na decisão embargada, o Tribunal Reclamado determinou a restituição dos valores descontados do crédito da autora a título de honorários com base no decidido na ADI 5.766. A possibilidade ou não da citada devolução, por certo, não é objeto dos paradigmas indicados.
+
+É firme orientação do Supremo no sentido de desautorizar o manuseio da reclamação como sucedâneo recursal.
+
+Não verifico obscuridade ou omissão a ser sanada.
+
+3. Em face do exposto, rejeito os embargos de declaração.
+
+4. Intime-se. Publique-se
+
+Brasília, 26 de novembro de 2024.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
