@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por MARCIA VALERIA RODRIGUES PAZ da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão de fls. 262-266, prolatado no Agravo de Instrumento n. 2022.0000710899 e assim ementado (fl. 263):
+Agravo de instrumento. Ação monitória para cobrança de honorários advocatícios, em fase de cumprimento de sentença. Preferência do crédito decorrente de honorários advocatícios, de natureza alimentar, sobre o tributário, já reconhecida em recurso anterior. Preferência entre os créditos preferenciais que é definida em razão da anterioridade da respectiva penhora. Crédito impugnado que contém quantia não alimentar aluguéis e encargos e verbas sucumbenciais, inclusive honorários advocatícios. Necessidade de observância da preferência do reembolso de custas e despesas processuais, bem como da verba alimentar. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 277-280 e 300-304).
+No recurso especial, a parte ora agravante alegou violação dos arts. 223, 908, § 2º, do Código de Processo Civil, bem como do art. 884 do Código Civil.
+Contrarrazões às fls. 332-335; 337-349 e 353.
+O Tribunal de origem não admitiu o recurso especial sob o fundamento de que não foi demonstrada a "alegada vulneração aos dispositivos arrolados" (fl. 354).
+Daí o presente agravo em recurso especial, no qual a parte agravante alega usurpação da competência do Superior Tribunal de Justiça, pois o Tribunal de origem extrapolou suas funções ao proferir decisão meritória. Prossegue em defesa de seu recurso:
+53. Desta forma, levando-se em consideração que (i) a r. decisão de fls. 281 dos autos de origem (vide fls. 214 destes autos) determinou que o ESPÓLIO DE MARIA TERESA IPPOLITO somente receberia qualquer valor após o pagamento do crédito executado na origem e caso houvesse saldo, não sendo apresentada qualquer irresignação à época; e (ii) deve ser observado a anterioridade da penhora realizada no rosto dos autos do processo de origem, pede-se que seja conhecido e provido o recurso ora interposto, aplicando-se a regra dos arts. 223 e 908, §2º, ambos do Código de Processo Civil, determinando-se o pagamento de forma preferencial do crédito da Agravante MÁRCIA VALÉRIA em relação ao ESPÓLIO DE MARIA TERESA IPPOLITO e a sua patrona.
+ ..
+72. O pagamento de qualquer outra quantia ao patrono do Agravado CLAUDIO configurará enriquecimento ilícito - já que receberia duas vezes os mesmos honorários - o que é vedado pelo nosso ordenamento jurídico (CC, art. 884), além de se tratar de claro exemplo de venire contra factum proprium, já que o Dr. TÁCITO deu quitação em relação ao valor dos honorários advocatícios sucumbenciais.
+ ..
+74. Por este motivo, requer-se que o presente recurso seja conhecido e provido, observando a regra do art. 884 do Código Civil, a fim de determinar o pagamento prioritário do crédito da ora Agravante em relação ao Agravado CLAUDIO AKERIB e o seu patrono, tendo em vista que (i) ele não foi o responsável por requerer a penhora do imóvel arrematado na origem; (ii) a Agravante arcou com o pagamento dos honorários do sr. Perito Avaliador, sendo que o Agravado CLAUDIO se recusou a pagar qualquer valor, ainda o que o MM. Juízo de primeiro grau tenha determinado expressamente; (iii) o sr. CLAUDIO requereu a penhora do imóvel apenas em momento posterior ao pedido da ora Agravante; e (iv) não há mais nenhum valor devido ao patrono do Agravado CLAUDIO.
+Contraminutas às fls. 373-376 e 378-390.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+A Corte de origem inadmitiu o apelo nobre ao fundamento de que não demonstrada contrariedade, pelo acórdão, aos dispositivos legais suscitados, baseando-se em questões de fato e de direito. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à genérica referência aos dispositivos legais (Súmula n. 284 do STF).
+Por conseguinte, aplicam-se à hipótese dos autos o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ressalto que o Tribunal de origem, ao analisar os pressupostos constitucionais de admissibilidade do recurso especial, pode adentrar o mérito da lide sem que isso signifique usurpação da competência do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA JULGADA PROCEDENTE. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. NÃO CABIMENTO DA INSURGÊNCIA POR SUPOSTA VIOLAÇÃO A TEXTO SUMULAR. NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. SÚMULA 518/STJ. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. VULNERAÇÃO DO ART. 489 DO CPC/2015 NÃO CONFIGURADA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. É cediço o entendimento desta Corte Superior acerca da possibilidade de incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, nos moldes preconizados na Súmula n. 123/STJ, sem que isso configure usurpação de competência.
+ ..
+7. Razões recursais insuficientes para a revisão do julgado.
+8. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.001.384/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. DIALETICIDADE RECURSAL. EXIGÊNCIA. DENUNCIAÇÃO DA LIDE. SÚMULA N. 83/STJ. INSURGÊNCIA EMBASADA EM PARADIGMAS SUPERADOS. DANO MORAL. ATO ILÍCITO E VALOR REPARATÓRIO. SÚMULA N. 7/STJ. ALEGAÇÃO GENÉRICA DE MERA REVALORAÇÃO DAS PROVAS. CONDUTAS DOS AGRAVANTES. AUSÊNCIA DE INDICAÇÃO DE ELEMENTOS ESTRITAMENTE DE DIREITO APTOS A AFASTAR O CARÁTER DE ILICITUDE. IMPUGNAÇÃO ESPECÍFICA E SUBSTANCIAL. AUSÊNCIA. SÚMULA N. 182/STJ. DUPLO GRAU DE JURISDIÇÃO. JUÍZO PRÉVIO DE ADMISSIBILIDADE DO RECURSO ESPECIAL PELA ORIGEM. LEGALIDADE. SÚMULA N. 123/STJ. CASO BOATE KISS.
+1. É possível (e necessário, para viabilidade funcional das instâncias excepcionais) o juízo prévio de admissibilidade dos recursos pelos tribunais de origem. Descabe falar-se em violação do duplo grau de jurisdição ou usurpação de competência desta Corte no exame detido dos fundamentos recursais, ainda que com análise tangencial do mérito. Hipótese da Súmula n. 123/STJ (A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais).
+ ..
+7. Agravo em recurso especial não conhecido. (AREsp n. 2.065.912/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 14/6/2022, DJe de 21/6/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Por se tratar, na origem, de recurso interposto de decisão interlocutória, na qual não houve prévia fixação de hon orários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
