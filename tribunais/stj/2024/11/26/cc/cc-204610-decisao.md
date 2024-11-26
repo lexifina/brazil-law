@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA 1ª VARA DE OURINHOS (SJSP) e o JUÍZO FEDERAL DA 1ª VARA DE RESENDE (SJRJ), para definir a competência para processamento e julgamento de execução de título executivo extrajudicial proposta pela CAIXA ECONÔMICA FEDERAL em desfavor de VANDA IVANTES TAVARES.
+O JUÍZO FEDERAL DA 1ª VARA DE RESENDE, no qual a execução foi proposta, declinou de sua competência e determinou a remessa dos autos a uma das varas federais de Ourinhos (SP), foro do domicílio da parte executada, onde foram redistribuídos ao JUÍZO FEDERAL DA 1ª VARA DE OURINHOS, que, por sua vez, suscitou o presente conflito ao fundamento de que a incompetência territorial é de natureza relativa e não pode ser declarada de ofício.
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito negativo de competência e, no mérito, pela competência do Juízo Federal da 1ª Vara de Resende, o suscitado, para processar e julgar a demanda (fls. 200-203).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve Juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+Com fundamento na orientação contida no art. 955, parágrafo único, I, do CPC e na Súmula n. 568 do STJ, entendo ser caso de julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida.
+Colhe-se dos autos que a ação de execução de título extrajudicial ajuizada pela Caixa Econômica Federal foi incialmente proposta no Juízo Federal da 1ª Vara de Resende, que declinou, de ofício, da competência ao Juízo Federal da 1ª Vara de Ourinhos, que, por sua vez, suscitou o presente incidente com amparo na Súmula n. 33 do STJ.
+Assiste razão ao Juízo suscitante.
+É cediço que a competência territorial é prorrogável, sendo restrito às partes, todavia, o questionamento sobre a incompetência do juízo onde foi ajuizada a ação. É esse o entendimento consagrado pela Súmula n. 33 do STJ: "A incompetência relativa não pode ser declarada de ofício".
+Ademais, a jurisprudência do STJ já está pacificada no sentido de reconhecer que, sendo a competência relativa - como no caso em que se discute a competência prevista no art. 53, II, do CPC -, o art. 43 do mesmo diploma legal institui, com a finalidade de proteger as partes, regra da estabilização da competência (perpetuatio jurisdictionis), sendo irrelevantes as modificações de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+Confiram-se, entre tantas, as seguintes decisões monocráticas: CC n. 150.490/SP, relator Ministro Marco Aurélio Bellizze, DJe de 20/11/2017; CC n. 152.573/PR, relatora Ministra Maria Isabel Gallotti, DJe de 21/11/2017.
+Portanto, sendo relativa a competência para o processamento e julgamento da ação de execução de título extrajudicial, não poderia o Juízo suscitado tê-la declinado de ofício, nos termos da Súmula n. 33 do STJ (CC n. 182.194/SC, relatora Ministra Nancy Andrighi, DJe de 15/9/2021; CC n. 180.620/DF, relator Ministro Antonio Carlos Ferreira, D Je de 1º/7/2021).
+Nesse sentido, as seguintes decisões monocráticas: CC n. 208.944/MG, relatora Ministra Nancy Andrighi, DJe de 12/11/2024; CC n. 205.029/SP, relator Ministro Antonio Carlos Ferreira, DJe de 29/5/2024.
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara de Resende (SJRJ), o suscitado.
+Publique-se. Inti mem-se.
+EMENTA
