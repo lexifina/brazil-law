@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto em favor de MAURO JÚNIOR RIBEIRO DA SILVA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que denegou a ordem pleiteada no HC n. 5836826-23.2024.8.09.0006, em acórdão assim ementado (fl. 107):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA DECRETADA EM PLENÁRIO DO TRIBUNAL DO JÚRI. EXECUÇÃO PROVISÓRIA DA PENA. CONSTITUCIONALIDADE PRESUMIDA DO ART. 492, INCISO I, ALÍNEA "E", DO CPP. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. ORDEM DENEGADA.
+Consta dos autos que o recorrente foi condenado pelo plenário do Tribunal do Júri, como incurso nos crimes previstos nos artigos 121, § 2º, incisos III e IV, no artigo 211 e 155, § 4º, inciso IV, na forma do artigo 69, todos do Código Penal, a 18 (dezoito) anos, 06 (seis) meses e 20 (vinte) dias de reclusão bem como a 20 (vinte) dias-multa.
+Neste writ, a Defesa alega constrangimento ilegal configurado em prisão decorrente de decisão judicial passível de recurso. Aduz que o recorrente cumpriu as cautelares impostas de forma satisfatória. Argumenta violação à presunção de inocência bem como a vedação de aplicação retroativa do disposto no art. 492, alínea "e", do Código de Processo Penal.
+Requer, liminarmente e no mérito, o provimento do recurso, a fim de revogar a prisão preventiva do recorrente em razão da nulidade da decisão que a decretou.
+O pedido liminar foi deferido às fls. 194/195.
+As informações processuais foram prestadas às fls. 200/203.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso (fls. 207/210).
+É o relatório.
+DECIDO.
+O recorrente foi denunciado pela suposta pratica delitiva prevista no Art. 157, §3º, II e Art. 211, todos do Código Penal, tendo permanecido preso preventivamente até 04/03/2022.
+Em 24/03/2022, o Juízo desclassificou a imputação do crime de latrocínio para Homicídio, tendo ele permanecido em liberdade mediante cautelar alternativa.
+Após, em julgamento pelo Tribunal do Júri, foi condenado como incurso no art. 121, §2º, incisos III e IV, art. 211 e art. 155, §4º, inciso IV, na forma do art. 69, todos do Código Penal, a 18 (dezoito) anos, 06 (seis) meses e 20 (vinte) dias de reclusão bem como a 20 (vinte) dias-multa. Em tal oportunidade, foi decretada a prisão preventiva do recorrente, com fundamento "a) regime fixado; b) pena dosada, em atenção ao disposto no art. 492, alínea "e", do Código de Processo Penal; c) A gravidade do delito sob a perspectiva do caso concreto, notadamente pelo que restou evidenciado na culpabilidade e consequências do delito de homicídio, conforme alinhavado em linhas pretéritas, alinhado a existência de crimes conexos" (fls. 39/40).
+Impetrado habeas corpus perante o Tribunal de Justiça do Estado de Goiás buscando a revogação do encarceramento, foi denegada a ordem.
+Contra esse acórdão, foi interposto o presente recurso ordinário em habeas corpus.
+Ocorre que o Supremo Tribunal Federal, por maioria de votos, ao apreciar o Tema 1.068 da repercussão geral (RE n. 1.235.340/SC), firmou o entendimento de que  a  soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada (Tribunal Pleno, julgado em 12/09/2024).
+Na oportunidade, a Suprema Corte decidiu que o art. 492 do Código de Processo Penal, na parte em que condiciona a execução imediata apenas a condenações superiores a 15 (quinze) anos de reclusão, é inconstitucional, por relativizar a soberania do júri.
+Por esse motivo, deu interpretação conforme a Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei n. 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 (quinze) anos para a execução da condenação imposta pelo corpo de jurados. Por arrastamento, excluiu do § 4º e do § 5º, inciso II, do referido art. 492 do CPP, a referência ao limite de 15 (quinze) anos.
+A propósito:
+AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO CONTRA DECISÃO DE CONCESSÃO LIMINAR DA ORDEM DE HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENA IMPOSTA PELO TRIBUNAL DO JÚRI. PENA SUPERIOR A 15 ANOS DE RECLUSÃO. ART. 492, I, E DO CPP. ALTERAÇÃO PROMOVIDA PELA LEI N. 13.964/2019 (PACOTE ANTICRIME). APLICABILIDADE IMEDIATA. ENTENDIMENTO DO STF. TEMA 1.068 DA REPERCUSSÃO GERAL. QUANTUM DA PENA. IRRELEVÂNCIA.
+1. A jurisprudência do Supremo Tribunal Federal, em diversas oportunidades, tem declarado a nulidade das decisões que afastam a aplicação do art. 492, I, e, do Código de Processo Penal, por violação da Súmula Vinculante 10 e da cláusula de reserva de Plenário, pois tal afastamento configura controle difuso de constitucionalidade que demanda a manifestação do órgão pleno ou do órgão especial.
+2. A jurisprudência recente do Superior Tribunal de Justiça já vinha se alinhando ao entendimento do STF, aplicando a execução imediata da pena imposta pelo Tribunal do Júri. Precedentes.
+3. No julgamento do RE n. 1.235.340/SC (Tema 1.068 da Repercussão Geral), finalizado em 12/9/2024, o STF deu interpretação conforme à Constituição ao art. 492 do CPP, excluindo o limite mínimo de 15 anos para a execução da condenação imposta pelo Tribunal do Júri, firmando a tese de que a soberania dos veredictos autoriza a imediata execução da pena, independentemente do total da pena aplicada.
+4. Diante do posicionamento vinculante do STF e da recente orientação do STJ, torna-se inviável a concessão de habeas corpus que contrarie tais precedentes, devendo-se aplicar imediatamente a prisão ao réu condenado pelo Tribunal do Júri.
+5. Agravo regimental provido. (AgRg no HC n. 788.126/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2024, DJe de 27/9/2024; grifamos).
+Ante o exposto, conheço do recurso e nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
