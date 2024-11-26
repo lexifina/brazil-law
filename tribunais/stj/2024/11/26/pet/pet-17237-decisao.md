@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de petição protocolada por RIZZO PARKING AND MOBILITY S.A. visando a concessão de efeito suspensivo ao recurso especial interposto nos autos do Agravo de Instrumento n. 2002616-74.2024.8.26.0000, em trâmite perante o Tribunal de Justiça do Estado de São Paulo, estando ainda pendente de admissibilidade da origem.
+A parte peticionante afirma que (fls. 3-8):
+ ..  foi sancionada pela Prefeitura Municipal de Marília com impedimento de contratar com a administração pública, decisão esta que foi aplicada com efeitos retroativos. Tal medida decorreu da rescisão do contrato de concessão que havia sido firmado entre a Recorrente e a Prefeitura de Marília para a prestação de serviços de estacionamento rotativo no município.
+O Tribunal de Justiça de São Paulo, ao analisar o agravo interposto pela Recorrente, confirmou a aplicação da sanção de forma ex tunc, desconsiderando a jurisprudência consolidada que impõe a aplicação de sanções administrativas com efeitos exclusivamente para o futuro (ex nunc), conforme previsto no artigo 87, III, da Lei 8.666/93.
+ ..
+Fumus boni iuris: A decisão impugnada pelo Recurso Especial viola diretamente o princípio da especialidade, ao aplicar normas gerais das Leis 14.133/21 e 8.666/93 em detrimento da Lei 8.987/95, que regula o regime de concessões públicas, além de violar o artigo 87, III, da Lei de Licitações, ao retroagir os efeitos da sanção aplicada. Ademais, houve julgamento ultra petita, já que a decisão extrapolou os limites da lide ao abordar questões que não foram objeto da controvérsia.
+ ..
+Periculum in mora: A manutenção da decisão recorrida implicará a descontinuidade imediata dos serviços de estacionamento rotativo na cidade de Marília, causando prejuízo irreparável à Recorrente e à coletividade. A suspensão dos serviços afetará diretamente a ordem pública e a prestação de um serviço essencial à população, além de gerar severos impactos financeiros ao município.
+ ..
+Ainda, é imperioso reconhecer que a suspensão de liminar pode ser pleiteada por pessoas jurídicas de direito privado que atuam como prestadoras de serviços públicos, desde que estas exerçam a função delegada pelo Poder Público e estejam comprometidas com a defesa do interesse público primário, nos termos da Lei nº 8.437/92, art. 4º e Lei 4.384/64.
+ ..
+Ante o exposto, requer: 1) Atribuição de efeito suspensivo ao Recurso Especial interposto, com fundamento no artigo 1.029, § 5º, do CPC, para que a decisão recorrida não produza efeitos até o julgamento definitivo deste recurso, garantindo a continuidade da prestação dos serviços públicos pela recorrente;
+Foi juntado aos autos o acórdão da decisão de rejeição dos embargos de declaração opostos no Tribunal a quo (fls. 16-21), assim ementado:
+EMBARGOS DE DECLARAÇÃO. Inexistência de omissão, contradição, obscuridade ou erro material. Impossibilidade de rediscussão da matéria em embargos de declaração. Prequestionamento. Descabimento. EMBARGOS REJEITADOS.
+É o relatório. Decido.
+Como se depreende dos autos, a parte peticionante requer a concessão de efeito suspensivo ao recurso especial interposto na origem, mas ainda não submetido ao juízo de admissibilidade, a fim de se obs tar os efeitos da decisão que implica na descontinuidade dos serviços de estacionamento rotativo na cidade de Marília.
+Inicialmente, há de se destacar que o presente pedido cautelar é prematuro.
+Isso porque a respeito do efeito suspensivo ao recurso especial, o Código de Processo Civil expressamente dispõe:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+ ..
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Com efeito, o § 5º do art. 1.029 do Código de Processo Civil preconiza que a competência do Superior Tribunal de Justiça para analisar o pedido de efeito suspensivo a recurso especial tem início a partir da publicação da decisão que o admite. Dessa forma, até a publicação dessa decisão, o referido pedido cautelar deve ser dirigido ao Presidente ou Vice-Presidente do Tribunal recorrido.
+Nesse contexto, aplicam-se, por analogia, as Súmulas n. 634 e 635 do Supremo Tribunal Federal que estabelecem, respectivamente, que "não compete ao Supremo Tribunal Federal conceder medida cautelar para dar efeito suspensivo a recurso extraordinário que ainda não foi objeto de juízo de admissibilidade na origem" e "cabe ao presidente do tribunal de origem decidir o pedido de medida cautelar em recurso extraordinário ainda pendente do seu juízo de admissibilidade."
+Ressalte-se, por oportuno, que esta Corte permite a flexibilização da aplicação das Súmulas n. 634 e 635 do STF e analisa medidas cautelares relacionadas a recursos especiais ainda pendentes de juízo de admissibilidade no Tribunal a quo apenas em situações excepcionalíssimas, com o objetivo de impedir a eficácia de decisões teratológica ou que contrariem claramente a jurisprudência estabelecida pelo STJ, o que não restou demonstrado no presente feito.
+A propósito:
+AGRAVO INTERNO NO PEDIDO DE RECONSIDERAÇÃO NA PETIÇÃO. RECUPERAÇÃO JUDICIAL. ORGANIZAÇÃO SOCIAL SEM FINS LUCRATIVOS. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO ATIVO AO RECURSO ESPECIAL. IMPOSSIBILIDADE. PENDÊNCIA DE JUÍZO DE ADMISSIBILIDADE NA ORIGEM. INCIDÊNCIA DAS SÚMULAS N. 634 E 635 DO STF. NÃO DEMONSTRAÇÃO DE EXCEPCIONALIDADE DO CASO. RECURSO DE AGRAVO DE INSTRUMENTO A QUE SE FOI ATRIBUÍDO EFEITO SUSPENSIVO. NÃO ENFRENTAMENTO DO MÉRITO. USURPAÇÃO DE COMPETÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 1029, § 5º, III, do CPC/2015, é da competência do Presidente ou do Vice-Presidente do Tribunal de origem atribuir ou revogar efeito suspensivo a recurso especial no período compreendido entre a interposição do recurso e a publicação da decisão de admissibilidade do reclamo. Incide nesses casos e por analogia o enunciado das Súmulas 634 e 635 do STF.
+2. A flexibilização da incidência das Súmulas n. 634 e 635 do STF se dá de forma excepcional, apenas para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência do STJ.
+3. Deferida, por meio de análise provisória, tutela de urgência para atribuir efeito suspensivo a decisão que determinou o processamento de recuperação judicial requerida por organização social, afigura-se incabível, sob pena de indevida supressão de instância, buscar-se dirimir em recurso subsequentemente interposto matéria inerente ao mérito da controvérsia.
+4. Agravo interno desprovido. (AgInt no RCD na Pet n. 16.166/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Portanto, no caso dos autos, descabida a apresentação direta do pedido de concessão de efeito suspensivo ao recurso especial sem qualquer deliberação do Tribunal de origem.
+Ante o exposto, NÃO CONHEÇO do presente pedido de atribuição de efeito suspensivo ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PETIÇÃO. PROCESSUAL CIVIL. RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO. RECURSO AINDA PENDENTE DE JUÍZO DE ADMISSIBILIDADE NA ORIGEM. INCIDÊNCIA DAS SÚMULAS N. 634 E 635 DO STF. AUSÊNCIA DE DEMONSTRAÇÃO DE EXCEPCIONALIDADE. NÃO INSTAURAÇÃO DA COMPETÊNCIA DO STJ. NÃO CONHECIMENTO DO PEDIDO.
