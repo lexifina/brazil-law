@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por RVC ASSESSORIA E CONSULTORIA TRIBUTARIA E EMPRESARIAL LTDA, em face de decisão monocrática de fls. 1277/1282, e-STJ, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial interposto pela ora embargada COMPANHIA SIDERURGICA NACIONAL.
+Em suas razões de fls. 1285/1286, e-STJ, a embargante aponta a ocorrência
+de erro/omissão sobre premissa fática a macular o julgamento unipessoal, notadamente quanto à majoração dos honorários advocatícios, nos termos do artigo 85, § 11, do NCPC.
+Assevera que apesar do decidido, encontram-se preenchidos os requisitos necessários para a majoração da verba honorária de sucumbência recursal, tendo em vista que na origem - acórdão de fls. 1097/1115, e-STJ - foram fixados honorários no percentual de 15% sobre o proveito econômico.
+Impugnação às fls. 1290/1291, e-STJ.
+É o relatório.
+Decido.
+Com razão a embargante, impondo-se o acolhimento dos embargos.
+1. Segundo o entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, admitem-se embargos de declaração com efeitos infringentes, em caráter excepcional, para a correção de premissa equivocada, sobre a qual tenha se fundado o julgado embargado, quando tal for decisivo para o resultado do julgamento.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA AUTORA.
+1. Nos termos da jurisprudência do STJ, admitem-se embargos de declaração com efeitos infringentes, em caráter excepcional, para a correção de premissa equivocada, sobre a qual tenha se fundado o acórdão embargado, quando tal for decisivo para o resultado do julgamento. Precedentes. Incidência da Súmula 83 do STJ.
+1.1. No caso dos autos, o Tribunal de origem, reconhecendo que partiu de premissa equivocada para afastar o cerceamento de defesa, acolheu os embargos com efeitos infringentes para determinar a reabertura da instrução processual.
+2. Inexiste ofensa ao princípio da congruência nas hipóteses em que o julgador não afronta os limites objetivos da pretensão. Ademais, os pedidos formulados devem ser examinados a partir de uma interpretação lógico-sistemática, conforme os brocardos da mihi factum dabo tibi ius (dá-me os fatos que te darei o direito) e iura novit curia (o juiz conhece o direito). Precedentes. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.253.953/TO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. EFEITOS INFRINGENTES AOS EMBARGOS DE DECLARAÇÃO. POSSIBILIDADE EXCEPCIONAL. ERRO EM PREMISSA FÁTICA. INTERESSE PROCESSUAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DEPÓSITO DA QUANTIA EXECUTADA. RECONHECIMENTO DA PRESCRIÇÃO. IMPOSSIBILIDADE DE LEVANTAMENTO. EXECUÇÃO PROVISÓRIA. INVERSÃO DA POSSE DO NUMERÁRIO. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. "Nos termos da jurisprudência do STJ, admitem-se embargos de declaração com efeitos infringentes, em caráter excepcional, para a correção de premissa equivocada, com base em erro de fato, sobre a qual tenha se fundado o acórdão embargado, quando tal for decisivo para o resultado do julgamento" (EDcl no AgInt no REsp 1832646/PR, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 16/3/2020, DJe 19/3/2020).
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.563.499/PR, relator Ministro Raul Araújo, Quarta Turma,
+julgado em 22/8/2022, DJe de 26/8/2022.)
+2. De acordo com a jurisprudência desta Corte, haverá fixação de honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, quando atendidos os seguintes requisito s, cumulativamente: a) a publicação da decisão recorrida se der a partir de 18/3/2016, momento em que entrou em vigor o CPC/2015; b) o recurso não for
+conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado, e
+c) a condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Nestes termos:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. PROCURAÇÃO EM CAUSA PRÓPRIA (IN REM SUAM). HONORÁRIOS DE SUCUMBÊNCIA. ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção, no julgamento do AgInt nos EREsp 1.539.725/DF, concluiu ser devida a majoração da verba honorária sucumbencial, nos termos do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: "a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (Rel. Ministro Antonio Carlos Ferreira, DJe de 19.10.2017). Presentes os requisitos, é cabível a majoração da verba honorária fixada na origem.
+2. Os honorários recursais são consequência legal do improvimento ou não conhecimento do recurso. O § 11 do art. 85 do CPC/2015 prevê, tão somente, a majoração dos honorários fixados na origem, não autorizando, contudo, a discussão dos critérios adotados, tampouco a alteração dos valores arbitrados na origem.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1857922/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/09/2020, DJe 01/10/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. REALIZAÇÃO DE EXAME. RECUSA INDEVIDA. ATO ILÍCITO. DANOS MORAIS. NDENIZAÇÃO. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VALOR ARBITRADO. REEXAME. SÚMULA Nº 7/STJ. HONORÁRIOS. MAJORAÇÃO. POSSIBILIDADE.
+(..)
+4. Nos termos do § 11 do artigo 85 do CPC/2015, a majoração dos honorários advocatícios se dará quando ocorreram simultaneamente as seguintes situações: a) a publicação da decisão recorrida se der a partir de 18/3/2016, momento em que entrou em vigor o CPC/2015; b) o recurso não for conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado, e c) a condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 1500089/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/11/2019, DJe 21/11/2019)
+No caso dos autos, verifica-se que apesar do decidido às fls. 1277/1282, e-STJ), os requisitos para a majoração dos honorários foram devidamente preenchidos.
+Julgado procedente os embargos interposto pela Companhia Siderúrgica Nacional - CSN (fls. 935/937, e-STJ), foi a parte adversa condenada ao pagamento de verba honorária, com fulcro no art. 85, § 2º, do CPC/15, então fixada em 10% sobre o valor da causa.
+Interposto recurso de apelação pela ora embargante - RVC Assessoria e Consultoria, houve por bem a Corte de origem dar-lhe provimento ao recurso de apelação para "Diante de tudo, portanto, é de rigor a conclusão no sentido da presença da causa para o saque da duplicata exequenda, e, portanto, da certeza e exigibilidade do crédito nela documentado, hábil a amparar a execução, além da ausência do alegado excesso de execução, de modo que os embargos à execução são, na realidade, improcedentes.
+Improcedentes os embargos, a embargante apelada arcará com as despesas processuais e honorários advocatícios em favor do patrono da embargada apelante, fixados em 15% do valor controvertido atualizado seu proveito econômico em conformidade com o artigo 85, § 2º, do Código de Processo Civil" (fl. 1114, e-STJ).
+Irresignada (fls. 1138/1165, e-STJ), a parte embargada interpôs recurso especial, que foi negado provimento, nos termos do decisum de fls. 1277/1282, e-STJ.
+Na esteira de tais considerações, é forçoso reconhecer o preenchimento dos
+requisitos enumerados no art. 85, § 11, do CPC/15, para a majoração da verba honorária de sucumbência recursal.
+Assim, com base em tais premissas, majora-se os honorários de sucumbência recursal em 10% (dez por cento) sobre o valor já fixado na origem, nos termos do art. 85, § 11, do CPC/15.
+3. Do exposto, acolho os embargos de declaração, com efeitos infringentes, para corrigindo o erro sobre a premissa fática apontado, majorar os honorários advocatícios de sucumbência recursal , com amparo no art. 85, § 11, do NCPC, nos termos da fundamentação supracitada.
+Publique-se.
+Intimem-se.
+EMENTA
