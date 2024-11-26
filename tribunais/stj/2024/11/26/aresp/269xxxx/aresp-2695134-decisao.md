@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICIPIO DE GUARABIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA que inadmitiu recurso especial dirigido contra o acórdão prolatado no Agravo Interno na Apelação Cível n. 0034098-77.2013.8.15.200 1, assim ementado: (fls. 170-178):
+AGRAVO INTERNO. CONTRATO ADMINISTRATIVO. PRESTAÇÃO DE SERVIÇO DE MANUTENÇÃO E REPAROS DE VEÍCULOS AUTOMOTORES. REALIZAÇÃO DE DESPESA PÚBLICA. EMPENHO, LIQUIDAÇÃO E PAGAMENTO. CONSTITUIÇÃO DO DÉBITO. SURGIMENTO DO DIREITO DE COBRANÇA. ENRIQUECIMENTO ILÍCITO. PRECEDENTES DO STJ. NOTAS FISCAIS COM ATESTADO DE FORNECIMENTO DOS SERVIÇOS. ESPECIFICAÇÃO DOS PRODUTOS E DOS VALORES ATRIBUÍDOS. DOCUMENTOS SUBSCRITOS POR AGENTE PÚBLICO. NATUREZA JURÍDICA DE TÍTULO EXECUTIVO EXTRAJUDICIAL, NOS TERMOS DO ART. 63, § 2º, DA LEI Nº 4.320/1964. PRESTAÇÃO DOS SERVIÇOS. COMPROVAÇÃO. NÃO DEMONSTRAÇÃO DE FATO EXTINTIVO, MODIFICATIVO OU IMPEDITIVO DA PRETENSÃO DEDUZIDA PELO AUTOR. ÔNUS PROBATÓRIO DO RÉU. DESPROVIMENTO DO AGRAVO.
+1. A liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito, tendo por base o contrato, a nota de empenho e os comprovantes da entrega de material ou da prestação efetiva do serviço (Lei nº 4.320/1964, art. 63, § 2º).
+2. A nota fiscal assinada em campo próprio pelo agente público é título executivo extrajudicial, dotado dos requisitos da liquidez, certeza e exigibilidade, transferindo à Administração o ônus de provar a insubsistência jurídica do título no qual se arrima a cobrança.
+3. "É dever da Administração pagar pelo serviço que lhe foi regularmente prestado, mesmo que não tenha havido o empenho dos valores devidos, porquanto justificar o inadimplemento contratual na ausência de ato formal que lhe cabia executar importa em usufruir de benesse advinda da própria torpeza e enriquecimento ilícito." (0803406-52.2018.8.15.0331, Rel. Des. Romero Marcelo da Fonseca Oliveira, APELAÇÃO CÍVEL, 4ª Câmara Cível, juntado em 20/09/2021)
+Nas razões do apelo nobre, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante alega ofensa aos arts. 1º, 8º, 17, 373, inciso I, 489, inciso II, § 1º, inciso IV e 1022, do CPC e ao art. 63, inciso III, § 2º, da Lei n. 4.320/60.
+Apresentadas contrarrazões ao recurso especial (fls. 200-203).
+O Tribunal de origem não admitiu o recurso especial (fls. 208-211) com base nos seguintes fundamentos: 1) ausência de prequestionamento quanto à alegada violação dos arts. 17, 489, § 1º, inciso IV, § 1º e § 8º do CPC (Súmula n. 282 do STF); 2) falta de prequestionamento também com relação à suposta ofensa ao art. 373, inciso I, do CPC (Súmula n. 282 do STF).
+Apresentadas contrarrazões ao agravo em recurso especial (fls. 222-225).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para negar conhecimento ao recurso especial, conforme ementa (239-244):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. PRESTAÇÃO DE SERVIÇOS. FALTA DE PAGAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 211/STJ E 282/STF. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. PARECER PELO CONHECIMENTO DO AGRAVO PARA NEGAR CONHECIMENTO AO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+O agravo em recurso especial não comporta conhecimento.
+Como relatado, a Corte de origem não admitiu o apelo nobre, pois entendeu que o recurso especial não preencheu o requisito do prequestionamento. Todavia, a parte Agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a referida fundamentação com relação aos arts. 17, 489, § 1º, inciso IV, § 1º e § 8º, do CPC.
+Nesse sentido, para se desincumbir do ônus imposto pelo princípio da dialeticidade, caberia à Agravante demonstrar o equívoco do decisum impugnado, indicando, por exemplo, os trechos do aresto recorrido que trataram da questão ou, ao menos, ter opostos embargos de declaração para devolução, ao Tribunal a quo, da matéria relativa aos arts. 17, 489, § 1º, inciso IV, § 1º e § 8º do CPC. No entanto, assim não o fez a parte Agravante.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015).
+Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ, in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Deixo de majorar os honorários advocatícios porque já arbitrados no teto legal.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. COBRANÇA DE VALORES PELO SERVIÇO PRESTADO A ENTE MUNICIPAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA.SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
