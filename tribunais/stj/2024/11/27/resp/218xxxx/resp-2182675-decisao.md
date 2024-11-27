@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por IOLANDA TEREZINHA FONTANARI COSTA - SUCESSÃO E OUTROS contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 141e):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. TÍTULO JUDICIAL. FASE DE CUMPRIMENTO DE SENTENÇA. PAGAMENTO POR PRECATÓRIO. IMPUGNAÇÃO. PRETENSÃO DE QUE TAMBÉM SEJAM FIXADOS, CUMULATIVAMENTE, HONORÁRIOS DE EXECUÇÃO.
+1. O art. 85, § 7º, do CPC, encampou o art. 1º-D da Lei 9.494/97. O legislador excepcionou a regra dos honorários, porque o pagamento por precatório impede o cumprimento espontâneo da prestação devida por força da sentença. Ao excepcionar a regra no cumprimento de sentença, excluiu integralmente os honorários, inclusive os de execução. Tanto é assim que são devidos honorários apenas se houver impugnação desacolhida. Evidente que se refere aos honorários de sucumbência decorrentes da impugnação.
+2. Se, pelo § 7º, o legislador excluiu os honorários, prevendo-os tão só nos casos de impugnação desacolhida, óbvio que, quando esta ocorre, a previsão não retroage, vale dizer, não torna cabíveis também os honorários de execução. Cabíveis, uma vez desacolhida a impugnação, no todo ou em parte, são os de sucumbência. Noutras palavras, a impugnação, por si só, não torna devidos os honorários de execução.
+3. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Com amparo no art. 105, III, a e c, da Constituição da República, aponta-se, além de divergência jurisprudencial, ofensa ao art. 85, §7º, do Código de Processo Civil de 2015, alegando-se, em síntese, que serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório para os casos em que houve oferecimento de impugnação/embargos.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual apresentada impugnação em cumprimento de sentença contra a Fazenda Pública, da qual resulte a expedição de precatórios, serão devidos honorários advocatícios, ainda que parcialmente acolhida, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. IMPUGNAÇÃO DA EXECUÇÃO PARCIALMENTE ACOLHIDA. POSSIBILIDADE DE FIXAÇÃO DE VERBA HONORÁRIA EM FAVOR DA PARTE DEVEDORA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na espécie, o Tribunal de origem analisou a controvérsia de forma fundamentada e a prestação jurisdicional foi dada na medida de pretensão deduzida, não havendo nenhum vício de omissão ou fundamentação que autorize o acolhimento da tese de violação dos arts. 489 e 1.022 do CPC/2015.
+2. Segundo a jurisprudência desta Corte, havendo o acolhimento parcial da impugnação ao cumprimento de sentença, são devidos os honorários advocatícios de sucumbência. Precedentes: AgInt no AREsp n. 2.013.670/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022; AgInt nos EDcl no AgInt no AREsp n. 1.092.709/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022; REsp n. 1.134.186/RS, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 1/8/2011, DJe de 21/10/2011 (julgado sob o rito dos recursos repetitivos).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.081.061/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023 - destaque meu).
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. APRESENTAÇÃO DE IMPUGNAÇÃO, PARCIALMENTE ACOLHIDA, PARA DECOTAR O EXCESSO DE EXECUÇÃO. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO IMPUGNANTE. POSSIBILIDADE. MATÉRIA JULGADA NO RITO DOS RECURSOS REPETITIVOS. REDUÇÃO DA VERBA HONORÁRIA. SÚMULA 7/STJ.
+1. A Corte Especial do STJ, no julgamento do REsp 1.134.186/RS, no rito do art. 543-C do CPC/1973, definiu que são devidos honorários advocatícios na fase de cumprimento de sentença.
+2. No que se refere à impugnação ao cumprimento, é devida a verba honorária em favor do impugnante, quando houver parcial ou integral acolhimento, reduzindo o valor da Execução de Sentença.
+3. Essa orientação, firmada ainda na vigência do CPC/1973, vem sendo igualmente aplicada aos processos regidos pelo novo CPC. Precedentes do STJ.
+4. No que diz respeito à revisão da verba honorária, registre-se que o Tribunal de origem já promoveu a redução dos honorários, arbitrando quantia que implica menos de 4% do montante excluído da Execução.
+5. A afirmação de que o novo montante (que corresponde ao valor fixo de R$20.000,00) ainda se revela exorbitante depende da revisão do acervo fático e probatório dos autos, o que atrai a incidência da Súmula 7/STJ.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.737.801/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/6/2018, DJe de 23/11/2018 - destaque meu).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, determinando o retorno dos autos à origem para fixação da verba honorária, nos termos expostos.
+Publique-se e intimem-se.
+EMENTA
