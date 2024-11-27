@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO (SFH). APÓLICE DO RAMO PRIVADO. INEXISTÊNCIA DO "POOL" DE SEGURADORAS. IMPOSSIBILIDADE DE ACIONAR SEGURADORA DIVERSA DA CONTRATADA PARA RESPONDER POR EVENTUAIS DANOS. AUSÊNCIA DE UMA DAS CONDIÇÕES DA AÇÃO QUE IMPLICA EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO, NOS TERMOS DA NORMA DO ART. 485, VI, DO CPC/2015.
+RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, os recorrentes alegam violação dos artigos 6º, VIII, do Código de Defesa do Consumidor e 371 do Código de Processo Civil, além de divergência jurisprudencial
+Não merece reforma a decisão agravada.
+De início, observo que, embora a parte recorrente mencione os artigos 6º do Código de Defesa do Consumidor e 371 do Código de Processo Civil nas suas razões de recurso, o certo é que o faz genericamente, sem demonstrar em que extensão e como se deu a violação, incidindo a Súmula 284/STF. Verifico, ademais, que o conteúdo normativo dos referidos artigos não foi debatido no acórdão recorrido, não servindo de fundamento à conclusão adotada pelo Tribunal de origem; tampouco houve, nas razões de recurso especial, alegação de ofensa ao artigo 1.022 do Código de Processo Civil. É manifesta, pois, a incidência da Súmula 282/STF, no ponto, na medida em que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017).
+Depois, quanto à legitimidade passiva, consignou o Tribunal de origem (fl. 1.258/e-STJ):
+Os contratos dos autores foram firmados pelo sistema "Casa Família - Recursos Próprios", fora do SFH, em que a seguradora responsável é a Companhia Excelsior de Seguros, conforme a própria alegação da COHAPAR às fls. 1098/1099.
+A Caixa Econômica Federal também salientou às fls. 1096/1097 que os contratos dos autores foram realizados fora do Sistema Financeiro de Habitação.
+Por fim, os documentos juntados na exordial conferem com o ofício da COHAPAR e a alegação da Empresa Pública Federal, mormente quanto à data da assinatura e a vinculação com o programa "Casa Família", afastando, assim, por completo, a controvérsia acerca da natureza da apólice securitária (ramo privado - 68).
+Portanto, as apólices dos autores foram firmadas fora do Sistema Financeiro de Habitação, em que inexiste um "pool" de seguradoras que atuam juntos ao Sistema Financeiro Habitacional, mas sim somente uma seguradora contratada diretamente pelo agente financiador, por meio de Contrato de Prestação de Serviços.
+Verifico, da leitura dos trechos acima, que o acórdão recorrido se baseou na interpretação de fatos para determinar a ilegitimidade da seguradora recorrida para integrar o polo passivo. Assim, rever tais premissas implicaria, necessariamente, o reexame do conjunto fático-probatório, o qual é vedado nesta instância, nos termos da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se .
+EMENTA
