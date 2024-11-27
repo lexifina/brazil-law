@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/11/2024 a 27/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Benedito Gonçalves.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. TEMA N. 339 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181 DO STF.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF.
+3. Quanto às demais alegações, em caso de não conhecimento do recurso anterior por ausência de algum de seus requisitos, as razões do recurso extraordinário, sejam voltadas ao óbice aplicado ou à matéria de fundo, demandariam a reapreciação da conclusão que não conheceu do recurso.
+4. A Corte Suprema definiu, sob o regime da repercussão geral, que a questão relativa a pressupostos de admissibilidade de recurso da competência de outros tribunais não possui repercussão geral (Tema n. 181 do STF).
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 1.418):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que o Tema n. 339/STF não poderia ser aplicado aos casos em que não são analisados argumentos apresentados pelas partes, que, se acolhidos, podem alterar o dispositivo alcançado, exatamente como ocorreu na espécie.
+Afirma que teria havido equívoco na invocação do Tema n. 181/STF, pois teria demonstrado a repercussão geral da matéria tratada e a violação dos arts. 2º, 5º, XXXV, LIV e LV, 71, VIII e § 3º, e 105, III, a, da Constituição Federal.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e os autos sejam remetidos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.460-1.464.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. TEMA N. 339 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181 DO STF.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF.
+3. Quanto às demais alegações, em caso de não conhecimento do recurso anterior por ausência de algum de seus requisitos, as razões do recurso extraordinário, sejam voltadas ao óbice aplicado ou à matéria de fundo, demandariam a reapreciação da conclusão que não conheceu do recurso.
+4. A Corte Suprema definiu, sob o regime da repercussão geral, que a questão relativa a pressupostos de admissibilidade de recurso da competência de outros tribunais não possui repercussão geral (Tema n. 181 do STF).
+5. Agravo interno a que se nega provimento.
+VOTO
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 da repercussão geral, firmou a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão impugnado, apresentando-se as razões pelas quais não foram preenchidos os requisitos de admissibilidade do recurso dirigido ao Superior Tribunal de Justiça, não cabendo, portanto, examinar as questões relacionadas ao mérito recursal.
+Confira-se (fls. 1.353-1.368):
+No caso, extrai-se dos autos que, quanto ao ponto controvertido, a decisão monocrática, em 2º Grau, inadmitiu o Recurso Especial, pela inexistência de violação aos arts. 489 e 1.022 do CPC/2015 e pela aplicação dos óbices das Súmulas 7/STJ e 283 e 284/STF.
+De fato, pela simples leitura das razões do Agravo em Recurso Especial, observa-se que a parte agravante deixou de infirmar, especificamente, todos os referidos fundamentos do decisum, mormente quanto à ausência de afronta aos arts. 489 e 1.022 do CPC/2015 e à incidência da Súmula 7/STJ.
+Em relação à aplicação da Súmula 7/STJ, a parte agravante apresenta argumentação genérica, sustentando que "as discussões ora trazidas são meramente de direito, buscando-se apenas a readequação jurídica da questão, cujos fatos pertinentes encontram-se relatados nos vv. acórdãos proferidos pelo E. TJCE, relacionada à evidente decisão "surpresa" e entendimento contrário ao quanto apurado no próprio processo administrativo que deu lastro à condenação administrativa. Nessa hipótese, não há incidência da Súmula nº 7, conforme entendimento consolidado nessa C. Corte" (fl.
+1.273e).
+Ao contrário do que pretende fazer crer a parte agravante, tal afirmação não é suficiente para impugnar, de maneira específica, o aludido óbice sumular.
+Segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 29/06/2020).
+ ..
+Cabe destacar, também, que "a mera reiteração das razões recursais sem a impugnação específica de todos os fundamentos da decisão agravada inviabiliza o exame do recurso" (STJ, AgInt nos EAREsp 1.157.501/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, DJe de 22/08/2019).
+Com efeito, na forma da jurisprudência do STJ, "não se mostra suficiente mera alegação genérica sobre as razões que levaram à inadmissão do recurso especial, para que se alcance a pretendida reforma do decisum atacado" (STJ, AgRg no AREsp 392.653/PB, Rel, Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 03/02/2014).
+ ..
+Com efeito, com o advento da Lei 12.322, de 09/09/2010, o Agravo de Instrumento contra decisão que não admite Recurso Especial passou a ser Agravo nos próprios autos. Porém, o legislador incorporou, ao texto legal, o princípio da dialeticidade, há muito sedimentado na jurisprudência desta Corte, com amparo na doutrina sobre o tema.
+ ..
+Assim, esta Corte, com fundamento no inciso I do § 4º do art. 544 do CPC/73, firmou entendimento no sentido de que a parte agravante deve atacar, especificamente, todos os fundamentos da decisão do Tribunal de origem que inadmite o Recurso Especial, autônomos ou não, sob pena de não conhecimento de sua irresignação.
+ ..
+Registre-se que tal entendimento foi mantido, pela Corte Especial do STJ, em 19/09/2018, no julgamento dos EAREsp 701.404/SC, EAREsp 746.775/PR e EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Relator para os acórdãos o Ministro LUIS FELIPE SALOMÃO, DJe de 30/11/2018).
+Na ocasião, restou consignado que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (STJ, EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018).
+ ..
+Assim, mantém-se hígido o entendimento desta Corte no sentido de que, nas razões do Agravo em Recurso Especial, é dever da parte agravante rechaçar todos os fundamentos do decisum que inadmitiu o apelo nobre, autônomos ou não, sob pena de não conhecimento do recurso.
+Se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, tanto o art. 544, § 4º, I, do CPC/73, quanto o art. 932, III, do CPC/2015 determinam a necessidade de impugnação específica dos fundamentos da decisão de inadmissibilidade do Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais.
+Isso porque, admitindo-se que a não impugnação específica de um dos pontos pudesse ensejar o conhecimento dos demais controvertidos, incorrer-se-ia no julgamento, posteriormente, no Recurso Especial, de questão contra a qual não houve irresignação (preclusa, portanto).
+Cabe esclarecer, por fim, que, segundo a jurisprudência do STJ, "o disposto no art. 932, parágrafo único, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça" (STJ, AgInt no AREsp 1.545.065/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/12/2019).
+No mesmo sentido: ""Esta Corte, ao interpretar o comando previsto no art. 932, parágrafo único, do CPC (o qual traz disposição similar ao § 3º do art. 1.029 do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica aos casos de regularização de vício estritamente formal, não se prestando para comple mentar a fundamentação de recurso já interposto" (AgInt no REsp n. 1.745.552/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/2/2019, DJe 26/2/2019). Por esses motivos, é descabido intimar a parte para aditamento do agravo em recurso especial" (STJ, AgInt no AgInt no AREsp 1.649.648/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 30/11/2020).
+Com efeito, "o acesso à Justiça se dá na forma disciplinada pelas leis e pela jurisprudência consolidada nos tribunais. Por isso, o cumprimento dos requisitos de admissibilidade do recurso se impõe; não por simples formalismo, mas por observância das normas legais" (STJ, AgRg no AgRg no Ag 900.380/RJ, Rel. Ministro VASCO DELLA GIUSTINA (Desembargador convocado do TJ/RS), TERCEIRA TURMA, DJe de 18/05/2009).
+Portanto, a ausência de impugnação específica, ainda que a um só dos fundamentos da decisão que inadmitiu o Recurso Especial, induz o não conhecimento total do Agravo em Recurso Especial, na forma da pacífica jurisprudência da Corte Especial do STJ.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+Quanto ao mais, como asseverado na decisão agravada, não se conheceu de recurso anterior, de competência do Superior Tribunal de Justiça, porque não preenchidos todos os pressupostos de admissibilidade.
+Por isso, qualquer alegação do recurso extraordinário demandaria, inicialmente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do Supremo Tribunal Federal.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário que envolva o conhecimento de recurso anterior não possui repercussão geral, fixando a seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Essa conclusão, adotada sob o regime da repercussão geral e de obrigatória aplicação, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil, impõe a negativa de seguimento ao recurso extraordinário.
+Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao Supremo Tribunal Federal, como exemplifica o julgado a seguir:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA  .. . PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021.)
+Tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fundo do recurso do qual não se conheceu, conforme exemplifica o seguinte acórdão:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO NÃO ANALISADO NO TSE. RECURSO ESPECIAL ELEITORAL NÃO ADMITIDO POR AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL POR ALEGADA INOBSERVÂNCIA LEGAL. OFENSA REFLEXA. DESCABIMENTO DO EXTRAORDINÁRIO.
+1. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181 - RE 598.365).
+ ..
+3. Agravo regimental a que se nega provimento.
+(ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.)
+Vale anotar que, também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+A decisão agravada, portanto, não merece reforma.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a formalização de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
