@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inviabilidade de arguir ofensa a artigo da Constituição, (b) inexistência de violação dos arts. 489 e 1.022, I e II, do CPC/2015, (c) ausência de ofensa aos artigos de lei apontados, (d) aplicação da Súmula n. 7 do STJ e (e) inviabilidade de aplicar a multa por litigância de má-fé, requerida em contrarrazões (e-STJ fls. 412/415).
+O acórdão recorrido está assim ementado (e-STJ fl. 362):
+Responsabilidade civil. Ação declaratória de inexistência de débito c. c. indenização por danos morais. Sentença de parcial procedência. Irresignação das partes. Cobrança de dívida já paga e inscrição indevida do nome da autora em cadastro de inadimplentes. Dívida inexistente. Dano moral "in re ipsa". Indenização fixada em R$ 5.000,00. Valor mantido. Recursos desprovidos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 396/400).
+Nas razões do recurso especial (e-STJ fls. 370/385), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, II, e 1.022, II, do CPC/2015, alegando deficiência na prestação jurisdicional, pois "não  se  enfrentaram os argumentos trazidos no recurso de Apelação dos Recorrentes, limitando-se a reproduzir ipsis litteris a sentença de 1º grau, inclusive fazendo o mesmo após a oposição de Embargos de Declaração" (e-STJ fl. 371),
+(ii) art. 188, I, do CC, por entender que "a recorrida não honrou com o pagamento da parcela previstas nas cláusulas 4.2.1.1.3 e 4.2.1.1.4, constantes do Contrato  ..  logo, pode-se dizer que ela assumiu para si o risco de ter o seu nome negativado perante os cadastros restritivos de crédito" (e-STJ fl. 378),
+(iii) arts. 884 e 944 do CC, sustentando que, "ao conceder indenização por danos morais, os v. acórdãos deixaram de considerar que o mero inadimplemento contratual não é capaz de ensejar a reparação moral, ou, ao menos, no exorbitante valor fixado" (e-STJ fl. 371).
+Foram oferecidas contrarrazões, requerendo a condenação em litigância de má-fé nos moldes dos arts. 79 e 81 do CPC (e-STJ fls. 404/411).
+O agravo (e-STJ fls. 418/132) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 435/443).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Houve o enfrentamento fundamentado de toda a questão posta em discussão na instância a quo, ainda que em sentido contrário à pretensão da parte recorrente. Confira-se o seguinte excerto (e-STJ fls. 398/399):
+Na tentativa de afastar a caracterização do ilícito, alega que, "assim que a Ré teve conhecimento do equívoco, de imediato, providenciou a exclusão da anotação em nome da Autora e, para tanto, pede sinceras desculpas pelo ocorrido." (fls. 150/151).
+Ora, como se vê, a própria embargante admitiu em sua defesa que a inscrição foi um equívoco de sua parte, de modo que inafastável a conclusão de serem indevidas a cobrança e a inscrição em órgão de proteção de crédito, sendo inaplicável a excludente do inc. I do art. 188 do Código Civil.
+Além disso, é mais do que pacificado na doutrina e jurisprudência o entendimento de que a indevida inscrição em órgãos de proteção de crédito é fonte de dano moral, sem necessidade de específica comprovação, tal como decidido.
+Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvimento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ.
+Quanto ao dano moral, o TJSP afirmou que estaria caracterizado, "decorrendo da indevida inscrição do nome da autora em cadastro de inadimplentes. O dano prescinde de específica comprovação, sendo considerado in re ipsa  ..  em consequência, é inafastável a condenação imposta em primeira instância, não se tratando de simples dissabor" (e-STJ fl. 365).
+A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+Além disso, a modificação do valor da indenização por danos morais é admitida em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, manteve a indenização dos danos morais, conforme assentou (e-STJ fl. 366):
+Quanto ao valor da indenização, considerando a condição das partes, o valor da dívida e a não comprovação de consequências mais graves para a autora decorrentes da negativação de seu nome, a indenização fixada no valor de R$ 5.000,00 está em sintonia com a norma do artigo 944 caput do Código Civil e com os princípios da proporcionalidade e da razoabilidade, devendo ser mantida.
+A quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ. Para alterar a cifra , seria imprescindível o reexame do conjunto fático-probatório dos a utos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Por fim, rejeito o pedido de condenação da parte recorrente à multa por litigância de má-fé, visto que não demonstrada conduta maliciosa ou temerária, a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Deixo de majorar os honorários advocatícios (artigo 85, § 11, do CPC/2015) devido à fixação anterior no patamar máximo permitido em lei.
+Publique-se e intimem-se.
+EMENTA
