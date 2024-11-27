@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADELAR ANTONIO ARROSI contra acórdão da 2ª Câmara Criminal do Tribunal de Justiça do Paraná, na Apelação n. 000377-58.2015.8.16.0087.
+Em suas razões, o impetrante alega que a condenação do paciente se deu unicamente pela constatação da diferença de tempo que se levou para a entrega das madeiras até a sede da compradora.
+Sustenta, no entanto, que a juíza singular não observou que no item 35 dos DOF "s emitidos pela vendedora, que a rota de transporte da madeira se deu entre o pátio da Fazenda Sbaraini (Ibema/PR) até o pátio da compradora, em Guaraniaçu/PR, tendo entendido que a saída da madeira se deu junto a sede da compradora em Prudentópolis (PR).
+Afirma que, além disso, não houve prova pericial a comprovar a correta distância do local de retirada do produto até a sede da madeireira compradora.
+Argumenta que, por se tratar de crime ambiental que deixa rastro, em especial por conta da divergência de tempo e da distância entre o local de retirada da madeira e da sede da comprada, o laudo pericial era medida imperativa para comprovar a materialidade delitiva imputada ao paciente.
+Requer, liminarmente, a suspensão dos efeitos da condenação.
+No mérito, pugna pela extinção da punibilidade do paciente diante da ausência de materialidade delitiva ou a nulidade da sentença por cerceamento de defesa.
+O pedido liminar foi indeferido (e-STJ, fl. 190).
+O Ministério Público opinou pelo não conhecimento do writ (e-STJ, fls. 197-211).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Segundo se extrai do acórdão impugnado, a magistrada singular entendeu que "a definição das coordenadas do local apontado não interferiria no julgamento do feito, tendo em vista que a procedência da madeira poderia ser demonstrada por meio das provas testemunhais e documentais" (e-STJ, fl. 23).
+De fato, nos termos da sentença condenatória, contrariamente ao que aduz o impetrante, a "constatação de fraude não decorreu apenas do fato de que o recebimento dos DOFs sucedeu em tempo incompatível de deslocamento entre o ponto de origem e o de destino, mas também da discrepância com o valor da carga, que por se tratar de tora de madeira araucária a comercialização seria absolutamente incompatível a uma distância superior a 200km (duzentos quilômetros)" (e-STJ, fl. 72).
+Nesse contexto, a Corte a quo ressaltou "que cabe ao magistrado, destinatário da prova produzida no processo, no exercício de seu poder discricionário e com vistas à busca da verdade, dispor, fundamentadamente, sobre a produção de provas durante a instrução, podendo indeferir aquelas consideradas irrelevantes, impertinentes ou protelatórias (art. 400, § 1º do CPP)" (e-STJ, fls. 23-24). E concluiu que "agiu com acerto a magistrada ao indeferir a produção da prova em apreço, por considerá-la irrelevante e impertinente, nos termos do artigo 400, § 1º, do Código de Processo Penal" (e-STJ, fl. 26).
+Tal entendimento encontra-se em perfeita consonância com a jurisprudência desta Corte. Nesse sentido: AgRg no HC n. 949.544/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024; e AgRg no RHC n. 157.266/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024).
+Ademais, conforme registrado no parecer ministerial, "para afastar a conclusão do Tribunal de origem, firmada no sentido de que o paciente incorreu no artigo 69-A da Lei nº 9.605/98, nos termos do artigo 71 do Código Penal, seria necessário o revolvimento do conjunto fático-probatório, providência vedada nesta sede de rito célere" (e-STJ, fl. 209).
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
