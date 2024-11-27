@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de conflito de competência com pedido liminar suscitado por TLX TRANSPORTES E LOGÍSTICA EIRELI em que aponta como suscitados o JUÍZO DE DIREITO DA 1ª VARA EMPRESARIAL, DE RECUPERAÇÃO DE EMPRESAS E DE FALÊNCIAS DE FORTALEZA (CE) e o JUÍZO DA 4ª VARA DO TRABALHO DE TERESINA (PI).
+O Juízo de Direito da 1ª Vara Empresarial, de Recuperação de Empresas e de Falências de Fortaleza/CE, no dia 10/6/2024, deferiu parcialmente o pedido de tutela antecipada antecedente ao processamento da recuperação judicial da empresa suscitante, determinando a suspensão das "execuções ajuizadas contra as devedoras TLX Transporte e Logística EIRELI; PRT Transporte e Logística Ltda e TRANSLOG - Transportes e Logística Ltda relativas a créditos ou obrigações sujeitos à recuperação judicial" (fl. 50 e-STJ).
+Alega a suscitante que, a despeito do deferimento do pedido de tutela de urgência, o Juízo da 4ª Vara do Trabalho de Teresina (PI), nos autos da Reclamação Trabalhista n. 0000078-76.2022.5.22.0004, prosseguiu com a execução determinando atos expropriatórios em desfavor da empresa.
+Defende a competência do Juízo universal para decidir acerca do patrimônio da suscitante.
+Requer, liminarmente, a suspensão da decisão que "determinou a penhora de valores da empresa Suscitante, realizada nos autos da Reclamação Trabalhista nº 0000078- 76.2022.5.22.0004 em trâmite na 4ª Vara do Trabalho de Teresina/PI, determinando-se, por conseguinte, a impossibilidade de qualquer ato de constrição sobre quaisquer bens da empresa Recuperanda Suscitante, bem como, o imediato desbloqueio dos valores penhorados em nome da empresa" (fl. 19 e-STJ).
+A decisão de fls. 65-68 e-STJ da lavra da Presidência do STJ deferiu a liminar para "suspender, até a definitiva solução do presente conflito, os atos constritivos promovidos pelo Juízo da 4ª Vara do Trabalho de Teresina (PI), nos autos da Reclamação Trabalhista n. 0000078-76.2022.5.22.0004".
+Solicitadas informações aos r. juízos suscitados, permaneceram silentes, conforme certidão de fl. 79 e-STJ.
+O Ministério Público Federal manifestou-se pela competência do r. juízo universal da recuperação judicial (fls. 81-85 e-STJ).
+É o relatório.
+Decide-se.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, a jurisprudência deste STJ caminha no sentido de que o juízo recuperacional tem a competência para autorizar ou realizar os atos de execução dos créditos individuais em face das empresas em recuperação judicial até o trânsito em julgado da sentença que encerra o respectivo processo de soerguimento.
+Nessa linha: AgInt no CC n. 202.142/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 18/6/2024, DJe de 21/6/2024; AgInt no CC n. 172.707/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, D Je de 2/10/2020.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ, conhece-se do presente conflito e, por conseguinte, declara-se a competência do r. juízo da 1ª Vara Empresarial, de Recuperação de Empresas e de Falências de Fortaleza - CE.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos.
+EMENTA
