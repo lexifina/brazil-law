@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 213/214).
+O acórdão recorrido está assim ementado (e-STJ fl. 158):
+Apelação - Compra e venda Imobiliária (terreno) - Rescisão contratual - Desistência da autora - Sentença de parcial procedência, para declarar a rescisão contratual e condenar a ré à devolução de 75% dos valores pagos, com retenção de 25% e demais encargos contratuais e atualização monetária desde os desembolsos e juros de mora contados da citação - não fixação da taxa de fruição - Apelo da ré. Rescisão contratual - Culpa exclusiva da autora - Pertinência da retenção de 25% dos valores pagos, percentual apto a remunerar as despesas com a comercialização, administração e o inadimplemento - Contrato celebrado antes da Lei 13.786/2018 (Lei do Distrato) - Inaplicabilidade do diploma legal - Indenização pela ocupação do imóvel (fruição) - Não cabimento - Lotes de terreno sem edificação, em que a posse não acarreta vantagem econômica - Devolução de 75% dos valores pagos mais adequada e proporcional ao caso. Majoração dos honorários recursais. Sentença mantida - Negado provimento ao recurso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 182/186).
+Nas razões do recurso especial (e-STJ fls. 189/196), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 402, 403, 884 e 885 do CC/2002, sustentando a necessidade de indenização decorrente da fruição do imóvel. Afirmou que a fruição pode ser exigida sobre imóveis sem edificação.
+No agravo (e-STJ fls. 217/223), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 226/234).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 163/164):
+5. Nesse sentido, a questão ligada à incidência de taxa de fruição, sobre lote não edificado, padece de qualquer razoabilidade, como, inclusive, já é entendimento desta Colenda Câmara.
+Sabido que, ainda que entregue infraestrutura, dito lote não permitia a imediata exploração econômica por parte da adquirente e nem tinha valor locatício aferível, de forma que, de fato, não há que se falar em taxa de ocupação/fruição.
+ ..
+Ademais, cabia à ré comprovar, por meio de provas documentais ou orais, que a autora obteve algum proveito de índole econômica pela mera disponibilização do lote, no entanto, não veio aos autos qualquer prova nesse sentido.
+Nesse passo, ainda que haja cláusula contratual prevendo expressamente a possibilidade de cobrança automática da taxa de ocupação em face da compradora, com base apenas na rescisão imotivada por parte desta última, é certo que tal disposição é considerada abusiva.
+A decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. CLÁUSULA PENAL. BASE DE CÁLCULO. VALORES PAGOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. COBRANÇA DA TAXA DE FRUIÇÃO DE LOTE NÃO EDIFICADO. IMPOSSIBILIDADE. ATUALIZAÇÃO MONETÁRIA. TERMO INICIAL. DESEMBOLSO. SUCUMBÊNCIA MÍNIMA. AFERIÇÃO. SÚMULA N. 7/STJ. HONORÁRIOS. BASE DE CÁLCULO. REVISÃO. CONDENAÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+ ..
+6. Conforme a orientação sedimentada no âmbito desta Corte, "na hipótese de desfazimento de contrato de promessa de compra e venda de terreno não edificado por interesse exclusivo dos adquirentes, é indevida a condenação dos consumidores ao pagamento de taxa de ocupação/fruição" (AgInt no REsp n. 1.941.068/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/9/2021, DJe 29/9/2021).
+ ..
+11. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.110.844/SP, de minha relatoria, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMPRA E VENDA DE IMÓVEL. DESFAZIMENTO DO NEGÓCIO JURÍDICO POR CULPA DO COMPRADOR. CONTRATO FIRMADO APÓS A LEI N. 13.786/2018. DIREITO DE RETENÇÃO DE VALORES. CLÁUSULA PENAL. ABUSIVIDADE. REVISÃO. POSSIBILIDADE. VENDA DE LOTE NÃO EDIFICADO. COBRANÇA DE TAXA DE FRUIÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5, 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste negativa de prestação jurisdicional quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. É possível a revisão de cláusula penal, ainda que se trate de contrato firmado após a Lei n. 13.786/2018, que acrescentou o art. 32-A à Lei n. 6.766/1979, quando sua aplicação for manifestamente excessiva diante da natureza e finalidade do contrato, além de ser inviável a cobrança de taxa de fruição no caso de lote não edificado, em razão da não utilização do bem.
+3. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+4. A incidência das Súmulas n. 5, 7 e 83 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5. A falta de expressa indicação e de demonstração de ofensa a artigos de lei violados ou de eventual divergência jurisprudencial sobre a matéria inviabiliza o conhecimento do recurso especial, aplicando-se o disposto na Súmula n. 284 do STF.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.100.901/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+Ademais, "tendo o Tribunal estadual, com escopo no suporte fático da causa, reconhecido que não houve a efetiva demonstração de exercício de posse por parte do autor, de modo a ensejar o pagamento da pretendida taxa de ocupação, alterar tal entendimento encontra óbice na Súmula nº 7 do STJ".
+Confira-se a ementa do julgado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO CONTRATUAL POR INTERESSE DO COMPRADOR. ALEGAÇÃO GENÉRICA A NORMA FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. ARTS. 489 E 1022 AMBOS DO NCPC. AUSÊNCIA DE OMISSÃO E/OU FALTA DE FUNDAMENTAÇÃO. GRATUIDADE JUDICIÁRIA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA NA ORIGEM. DEFERIMENTO MANTIDO. RESTITUIÇÃO DOS VALORES PAGOS DEVIDA. PERCENTUAL EM CONSONÂNCIA COM OS PARÂMETROS ESTABELECIDOS NO STJ (ENTRE 10% E 25%). SÚMULA Nº 568 DO STJ. TAXA DE OCUPAÇÃO AFASTADA COM BASE NOS FATOS DA CAUSA. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+6. Tendo o Tribunal estadual, com escopo no suporte fático da causa, reconhecido que não houve a efetiva demonstração de exercício de posse por parte do autor, de modo a ensejar o pagamento da pretendida taxa de ocupação, alterar tal entendimento encontra óbice na Súmula nº 7 do STJ.
+7. A controvérsia foi dirimida no TJSP nos termos da jurisprudência pacífica desta Corte, de que o arrependimento do promitente comprador de unidade habitacional em construção não importa em perda das arras se estas forem confirmatórias, admitindo-se, contudo, a retenção, pelo vendedor, de parte das prestações pagas, como forma de indenizá-lo pelos prejuízos eventualmente suportados com o desfazimento do negócio. Aplicação, ao caso, da Súmula nº 568 do STJ.
+8. Agravo interno não provido.
+(AgInt no REsp 1864915/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020.)
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/20 15, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
