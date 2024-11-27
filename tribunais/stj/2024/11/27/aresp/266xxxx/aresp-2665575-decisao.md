@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se  de  agravo  manejado  por  Adriene  Domingues  Costa  e  ou tros  contra  decisão  que  não  admitiu  recurso  especial,  este  interposto  com  fundamento  no  art.  105,  III,  a,  da  CF,  desafiando  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais,  assim  ementado  (fl.  465 ):
+AGRAVO  DE  INSTRUMENTO  -  MANDADO  DE  SEGURANÇA  -  ITCMD  -  PLANO  VGBL  -  PRELIMINAR  -  AUSÊNCIA  DE  INTERESSE  PROCESSUAL  -  INADEQUAÇÃO  DA  VIA  ELEITA  -  DILAÇÃO  PROBATÓRIA.
+-  O  mandado  de  segurança  é  meio  processual  adequado  à  proteção  de  direito  líquido  e  certo,  violado  ou  na  iminência  de  ser  violado  por  ato  ilegal  ou  abusivo  de  autoridade  pública,  não  amparado  por  habeas  corpus  ou  habeas  data,  cuja  comprovação  não  dependa  de  dilação  probatória.
+-  Direito  líquido  e  certo  é  aquele  que  independerá  de  dilação  probatória,  ou  seja,  cujos  fatos  restarem  comprovados  documentalmente  na  inicial.
+-  A  discussão  acerca  da  incidência  do  ITCMD  sobre  os  benefícios  financeiros  recebidos  do  plano  VGBL  demanda  dilação  probatória  e  excede  os  limites  do  mandado  de  segurança,  uma  vez  que  a  legalidade  da  exação  tributária  depende  da  prova  da  ocorrência  da  prática  de  atos  ou  negócios  jurídicos  com  a  finalidade  de  dissimular  a  ocorrência  do  fato  gerador  do  ITCMD  (R Esp  1698774/RS,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  01/09/2020,  D  Je  09/09/2020).
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta  violação  ao  art.  489,  §  1º,  I,  V,  do  CPC.  Sustenta,  em  resumo,  que  "é  indiscutível  a  falha  na  fundamentação  do  julgado,  portanto,  na  medida  em  que  parte  de  alegação  da  parte  ré,  não  comprovada  pela  parte  ré,  para  entender  que  há  necessidade  de  dilação  probatória  e,  com  isso,  justificar  a  conclusão  pela  inadequação  da  via  eleita  com  a  consequente  determinação  de  extinção  do  mandado  de  segurança  sem  resolução  do  mérito.  Repita-se:  o  objeto  do  mandado  de  segurança  impetrado  é  a  incidência  ou  não  de  ITCMD  sobre  VGBL,  não  é  e  nem  passa  pela  dissimulação  do  negócio  jurídico  em  análise.  Cabe  ao  juízo  deter-  minar  se,  no  exercício  destes  planos,  com  a  aferição  dos  valores  pelos  beneficiários,  incide  ou  não  o  imposto,  e  não  averiguar  se  houve  dissimulação"  (fl.  494).
+Contrarrazões  ofertadas  às  fls.  515/521.
+O  Ministério  Público  Federal,  na  condição  de  fiscal  da  lei,  opinou  pelo  não  conhecimento  do  recurso  (fls.  619/622).
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+A pretensão não comporta guarida.
+Com efeito, a  matéria  pertinente  ao  art.  489,  §  1º,  I,  V,  do  CPC  não  foi  apreciada  pela  instância  judicante  de  origem,  tampouco  foram  opostos  embargos  declaratórios  a fim de  suprir  eventual  omissão.  Portanto,  ante  a  falta  do  necessário  prequestionamento,  incide  o  óbice  da  Súmula  282/STF.
+ANTE  O  EXPOSTO,  nego  provimento  ao  agravo.
+Publique-se.
+EMENTA
