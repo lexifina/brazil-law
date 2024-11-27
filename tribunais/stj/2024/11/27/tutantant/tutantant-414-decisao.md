@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de tutela antecipada antecedente apresentada por CARREMAP INDÚSTRIA, COMÉRCIO DE CARRETAS E CONSTRUÇÃO LTDA. com a finalidade de atribuição de efeito suspensivo ao agravo em recurso especial oferecido contra a decisão monocrática que não conheceu do agravo interno interposto contra a decisão que inadmitiu o recurso especial.
+Em suas razões, a requerente afirma que, no AREsp n. 2.458.739/SP, a Presidência do STJ determinou o retorno dos autos ao TJSP para processamento do recurso interposto na forma de agravo interno e que a Corte estadual não teria acatado essa determinação, já que não conheceu do agravo interno.
+Busca, assim, a tutela antecipada para evitar danos irreparáveis, uma vez que a realização da perícia, conforme determinada pelo Juízo de primeiro grau, desrespeitaria a coisa julgada material, causando danos ao cumprimento de sentença.
+Pondera que a probabilidade do direito está consubstanciada na preservação da coisa julgada material e que o acórdão proferido no agravo de instrumento vai contra a jurisprudência do STJ, bem como viola a segurança jurídica e a estabilidade das relações jurídicas.
+Defende que o perigo da demora está demonstrado em razão de a reanálise da perícia desrespeitar a coisa julgada, poder gerar custos adicionais, levar a um resultado equivocado na fase de cumprimento de sentença e comprometer o resultado útil do processo.
+Requer seja deferida tutela antecipada para atribuir efeito suspensivo ao agravo em recurso especial a fim de que seja suspensa a decisão do TJSP que ordenou a perícia contábil.
+É o relatório. Decido.
+O pedido não merece prosperar.
+De acordo com o que prevê o art. 300 do CPC, "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+Já a concessão de efeito suspensivo a recurso especial (art. 1.029, § 5º, do CPC) pressupõe a existência de juízo positivo de admissibilidade pelo presidente do tribunal de origem, a viabilidade do recurso especial, a plausibilidade jurídica do direito invocado e a configuração do periculum in mora.
+Registre-se que, de forma excepcional e à luz do caso concreto, é possível a atribuição de efeito suspensivo a recurso especial pendente de juízo de admissibilidade na origem, desde que preenchidos os requisitos do periculum in mora e do fumus boni juris, aliados à teratologia ou manifesta ilegalidade da decisão.
+No caso, contudo, observa-se que, conquanto tenha sido interposto o recurso especial e o Tribunal de origem o tenha inadmitido (fls. 164-165), a parte interpôs agravo interno contra a decisão de inadmissibilidade. A Corte de origem, após devolução pelo STJ para julgamento do agravo interno, dele não conheceu (fls. 28-29).
+Ressalte-se que a decisão ora combatida consignou que a interposição de recurso manifestamente descabido não suspende nem interrompe o prazo para a utilização da via processual adequada ao reexame do pronunciamento jurisdicional.
+Assim, em exame sumário, não se visualiza a plausibilidade do direito, visto que "o agravo interno (art. 1.030, § 2º, do CPC) interposto em face da decisão que inadmitiu o recurso especial na origem não interrompe o prazo recursal para interposição do respectivo agravo em recurso especial (art. 1.042, do CPC)" (AgRg no AREsp n. 2.658.214/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+Portanto, não poderia a parte interpor o recurso, diante da preclusão consumativa e do princípio da unicidade ou unirrecorribilidade recursal. Também não há falar em que da decisão que não conheceu do agravo interno caberia novo recurso especial e/ou agravo em recurso especial, como leva a crer a parte requerente.
+Quanto ao perigo de dano, pautou-se a requerente pela hipotética situação de se abrir um precedente que poderá assoberbar o Poder Judiciário de todo o Brasil com a reabertura de milhões de casos já transitados em julgado.
+Não demonstrou, portanto, qual o prejuízo ou o risco de dano irreparável que a realização de uma perícia contábil lhe poderia acarretar, até porque eventual provimento do recurso, com a reforma do questionado acórdão, teria a possibilidade de, a depender do caso, torná-la ineficaz.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+EMENTA
