@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de pedido de admissão de amicus curiae manifestado por CONPEG - Colégio Nacional de Procuradores Gerais dos Estados e do Distrito Federal (fls. 3.819/3.841), no qual aponta a relevância do interesse jurídico, econômico e social da questão debatida no presente feito.
+Segundo afirma, "o julgamento dos embargos de divergência em tela traz grande relevo jurídico-político para o pacto federativo, bem como impacto a toda a Administração Pública Estadual e ao essencial sistema de saúde complementar, refletindo ainda na autonomia dos Estados, é inegável que estes têm legítimo interesse no desfecho da demanda, razão pela qual se pede que sejam admitidos na lide como amici curiae na forma do art. 138 do CPC e do art. 256-J do RISTJ" (fl. 3.823).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A admissão do amicus curiae é disciplinada pelo art. 138 do CPC, norma vazada nos seguintes moldes:
+Art. 138. O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação.
+§ 1º A intervenção de que trata o caput não implica alteração de competência nem autoriza a interposição de recursos, ressalvadas a oposição de embargos de declaração e a hipótese do § 3º.
+§ 2º Caberá ao juiz ou ao relator, na decisão que solicitar ou admitir a intervenção, definir os poderes do amicus curiae.
+§ 3º O amicus curiae pode recorrer da decisão que julgar o incidente de resolução de demandas repetitivas.
+Como se nota, tal participação processual vai condicionada à avaliação que faz o julgador acerca (i) da relevância da matéria, (ii) da especificidade do tema ou (iii) da repercussão social da controvérsia.
+No caso em exame, tem-se embargos de divergência providos ante a pacificação da jurisprudência das Turmas que compõem a Primeira Seção deste Tribunal , que é uníssona no sentido de que é necessária a formação de litisconsórcio entre a União e o ente subnacional (Estado ou Município) contratante de serviço de saúde prestado na modalidade complementar com entidade privada, quando existe debate sobre a defasagem dos preços contratados.
+Nesse contexto, está em causa tão somente o direito individual da entidade autora em rever os valores pagos a título de ressarcimento pela prestação de serviço de saúde na qualidade de assistência complementar, ante a alegação de desequilíbrio econômico-financeiro no contrato e requerimento para utilização da Tabela TUNEP, cuja perspectiva atenua a relevância coletiva da matéria, afasta a especificidade do tema (por sinal, já objet o de pacífica jurisprudência das cortes superiores) e retira a repercussão social da controvérsia.
+ANTE O EXPOSTO, indefiro o pedido de ingresso ora examinado, recebendo, no entanto, à guisa de memorial, os argumentos encartados na petição de fls. 237/252.
+Publicada a presente decisão, voltem-me conclusos os autos, para exame do agravo interno de fls. 3.785/3.802.
+Publique-se.
+EMENTA
