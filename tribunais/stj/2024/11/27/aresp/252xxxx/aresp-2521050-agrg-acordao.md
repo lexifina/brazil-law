@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/11/2024 a 27/11/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 932, III, E ART. 1.021, § 1º, DO CPC. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1.1. Trata-se de agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário em razão da aplicação do rito da repercussão geral.
+1.2. A parte agravante reiterou as alegações apresentadas no recurso extraordinário, sem impugnar especificamente os fundamentos da decisão agravada.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A necessidade de impugnação específica dos fundamentos da decisão recorrida em sede de agravo regimental, nos termos dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+3.1. O agravo regimental não ultrapassa o juízo de admissibilidade, pois a parte agravante limitou-se a reiterar as razões do recurso extraordinário, sem atacar especificamente os fundamentos da decisão agravada.
+3.2. Nos termos dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil, aplicáveis subsidiariamente ao processo penal conforme o art. 3º do Código de Processo Penal, o agravo regimental deve impugnar de forma específica os fundamentos da decisão agravada, o que não foi observado no caso em análise.
+3.3. A ausência de impugnação específica atrai a aplicação da Súmula n. 182 do STJ, que estabelece a inviabilidade do agravo regimental que deixa de atacar os fundamentos da decisão recorrida.
+IV. DISPOSITIVO
+4.1. Agravo regimental não conhecido.
+RELATÓRIO
+1. Trata-se de agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada:
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante sustenta, em síntese, que: (a) mesmo com a nulidade do reconhecimento, não foi absolvido; (b) seria inadmissível a condenação com base em indícios derivados do inquérito policial ou em "ouvir dizer"; (c) não teria havido prisão em flagrante delito; e (d) seria imprescindível a confirmação dos elementos informativos colhidos no curso da investigação policial, sob o crivo do contraditório.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 932, III, E ART. 1.021, § 1º, DO CPC. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1.1. Trata-se de agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário em razão da aplicação do rito da repercussão geral.
+1.2. A parte agravante reiterou as alegações apresentadas no recurso extraordinário, sem impugnar especificamente os fundamentos da decisão agravada.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A necessidade de impugnação específica dos fundamentos da decisão recorrida em sede de agravo regimental, nos termos dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+3.1. O agravo regimental não ultrapassa o juízo de admissibilidade, pois a parte agravante limitou-se a reiterar as razões do recurso extraordinário, sem atacar especificamente os fundamentos da decisão agravada.
+3.2. Nos termos dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil, aplicáveis subsidiariamente ao processo penal conforme o art. 3º do Código de Processo Penal, o agravo regimental deve impugnar de forma específica os fundamentos da decisão agravada, o que não foi observado no caso em análise.
+3.3. A ausência de impugnação específica atrai a aplicação da Súmula n. 182 do STJ, que estabelece a inviabilidade do agravo regimental que deixa de atacar os fundamentos da decisão recorrida.
+IV. DISPOSITIVO
+4.1. Agravo regimental não conhecido.
+VOTO
+2. O agravo regimental não ultrapassa a barreira do conhecimento.
+O recurso extraordinário teve seguimento negado por se enquadrar na hipótese do Tema n. 181 do STF.
+A parte agravante, contudo, não impugnou especificamente os fundamentos da decisão recorrida.
+Nas razões do recurso, limitou-se a tratar de circunstâncias fáticas do caso e, genericamente, suscitar fundamentos de direito referentes ao mérito da causa (como os postulados do contraditório, da ampla defesa e da presunção de inocência, tal como o art. 266 do CPP).
+No entanto, nos termos dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil, aplicáveis subsidiariamente ao processo penal consoante o art. 3º do Código de Processo Penal, deve a parte, na petição do agravo regimental, refutar especificamente os fundamentos da decisão recorrida, o que não foi atendido no recurso em análise.
+Assim, incide na espécie o óbice consolidado nos termos da Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+O art. 545 do CPC/1973, mencionado na referida súmula, corresponde ao § 1º do art. 1.021 do atual CPC.
+3. Ante o exposto, não conheço do agravo regimental.
+É como voto.
