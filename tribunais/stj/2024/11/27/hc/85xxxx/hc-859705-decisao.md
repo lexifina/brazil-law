@@ -1,0 +1,44 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fls. 135-138 (e-STJ):
+"Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de RAPHAEL DA CONCEIÇÃO QUOTIZZATO, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro que negou provimento ao recurso de apelação por ele interposto e cuja ementa vai abaixo transcrita:
+(..)
+Alega a impetrante, inicialmente, a nulidade, por ausência de fundamentação idônea, da decisão que decretou o sigilo da identidade de uma das testemunhas.
+Nessa linha, argumenta que não estaria demonstrada nos autos a presença de coação ou ameaça à referida testemunha. Sustenta, por outro lado, a nulidade do processo desde a decisão de pronúncia, vez que inexistiriam nos autos indícios suficientes de que ele seria o autor dos delitos pelos quais restou pronunciado.
+Requer, assim, a concessão da ordem, para: "a) Caso Vv. Exas. julguem necessário, que seja determinada a conversão o julgamento em diligência, para que seja oportunizado ao Ministério Público Federal e aos Senhores Ministros o acesso à cópia do depoimento da testemunha sigilosa em sede policial, acautelada na Secretaria da 1ª Câmara Criminal do TJRJ, bem como à mídia do depoimento prestado em AIJ, exibido em plenário do Júri; b) Preliminarmente, anular o processo desde a decisão que decretou o sigilo da identidade da testemunha em razão da ausência de fundamentação e de verificação de ocorrência de coação ou grave ameaça e, c) No mérito, declarar a nulidade de todo o processo desde a decisão de pronúncia, de modo a impronunciar o Paciente ante a ausência de ind ícios suficientes de autoria, por ser medida de inteira JUSTIÇA!" (fls. 25 e-STJ).
+Autuado o feito nesse STJ, a Relatoria, à míngua de pedido de liminar, solicitou informações ao Tribunal a quo e ao Juízo de primeiro grau, as quais foram devidamente prestadas."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, o que não verifico no caso.
+O Tribunal local assim se manifestou sobre a matéria ora debatida (e-STJ fl. 38):
+"Pretende a defesa, também, o acolhimento do pedido de nulidade e de todos os atos processuais praticados após a decisão que decretou o sigilo da identidade de uma testemunha, sob os argumentos de que a decisão é destituída de fundamentação e de que não há informação no sentido de que a testemunha tenha sofrido coação ou grave ameaça e, ainda, a pronúncia, alegando que a decisão descreveu a autoria e as qualificadoras em nítida decisão modelo, que poderia ser usada em qualquer delito de homicídio.
+Todavia, como se verifica do processo, as referidas decisões restaram irrecorridas pela defesa técnica que em nenhum momento aventou tais nulidades, conformando-se, portanto, com as fundamentações expostas pelo juízo de origem.
+Ou seja, a defesa do acusado não manifestou sua irresignação no momento oportuno, deixando para suscitar a nulidade apenas nas razões de recurso, evidenciando sua estratégia, que na realidade, é uma manobra, a chamada "nulidade de algibeira".
+Vale ressaltar que tanto o Superior Tribunal de Justiça como o Supremo Tribunal Federal chegaram às mesmas conclusões quanto à influência que a boa-fé objetiva processual exerce no sistema de nulidades, não permitindo que a alegação desta fique guardada para momento posterior quando pode ser realizada antes, não importando a gravidade do vício (nulidade absoluta ou relativa).
+Apesar disso, verifica-se com inequívoca clareza que, quando da decisão de pronúncia, os fundamentos utilizados pelo juízo de origem para o seu convencimento tiveram arrimo na prova dos autos e foram suficientemente expostos na decisão guerreada, observando os exatos termos do artigo 413 do Código de Processo Penal."
+O posicionamento acima delineado encontra-se em consonância com a jurisprudência deste Tribunal Superior no sentido de que "o pedido de revisão da decisão de pronúncia está prejudicado. Nesta perspectiva: "o recurso contra a decisão que pronunciou o acusado encontra-se prejudicado, na linha da jurisprudência dominante acerca do tema, quando o recorrente já foi posteriormente condenado pelo Conselho de Sentença" " (AgRg no HC n. 810.692/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023 e AgRg no AREsp n. 1.412.819/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 17/8/2021).
+E ainda, de minha relatoria:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO (SEIS VEZES). NULIDADE DA SENTENÇA DE PRONÚNCIA. INOCORRÊNCIA. DECOTE DE QUALIFICADORAS. INVIÁVEL. SENTENÇA CONDENATÓRIA SUPERVENIENTE. PREJUDICADOS OS PEDIDOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não há elementos suficientes para reconsiderar a decisão proferida.
+2. Acusado, já submetido a julgamento pelo Júri e condenado pelo delitos imputados na denúncia a uma pena de 24 (vinte e quatro) anos de reclusão, fixado o regime fechado, tendo sido cientificado o trânsito em julgado.
+3.Pedido de revisão da decisão de pronúncia está prejudicado.
+Precedentes.
+(..)
+9. Impossibilidade de conhecimento do habeas corpus substitutivo, bem como que não há na hipótese flagrante ilegalidade apta a justificar a concessão de ofício da ordem.
+Nesse aspecto, o acórdão atacado não padece de teratologia.
+10. Para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+11. Agravo regimental não provido.
+(AgRg no HC n. 850.740/AL, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 16/9/2024.) (Grifos acrescidos)
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
