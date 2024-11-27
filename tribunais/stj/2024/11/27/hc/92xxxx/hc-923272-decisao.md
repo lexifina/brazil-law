@@ -1,0 +1,22 @@
+DECISÃO
+O paciente, condenado por tráfico de drogas, alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de origem (fls. 396 e seguintes), em 30/4/2024, na Apelação Criminal n. 5037419- 06.2023.8.24.0038.
+A defesa se insurge contra o afastamento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, embora, a seu ver, o réu preencha os requisitos de regência.
+Decido.
+O acórdão apontado como ato coator transitou em julgado no dia 12/6/2024. Este habeas corpus é substitutivo de revisão criminal de competência do Tribunal de Justiça.
+Em regra, "não se conhece de habeas corpus impetrado contra acórdão com trânsito em julgado, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (AgRg no HC n. 898.778/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/4/2024, D Je de 23/4/2024).
+Com efeito, "depois de já transitada em julgado a condenação, revela-se inviável  o uso do remédio constitucional , notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal  ..  (AgRg no HC n. 713.747/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe 24/2/2022 grifei).
+Não verifico flagrante ilegalidade no acórdão nem a possibilidade de concessão da ordem, de ofício.
+O Tribunal de Justiça, com fundamento nas provas dos autos, reconheceu a dedicação do réu às atividades criminosas, motivadamente, "sobretudo pelas conversas extraídas do telefone celular do Recorrente Jeter Luan Gomes de Aquino, providência judicialmente autorizada, diga-se, as quais confirmam que ele se dedicava à prática do tráfico de drogas (existem vários diálogos dele negociando drogas com usuários durante o mês de agosto de 2023, conforme consta no relatório do Evento 57)" (fl. 446).
+O acórdão destacou o suspeito, apenas um dia antes, "havia sido abordado, no mesmo local" e que as "conversas mencionam, em algumas passagens, a facção criminosa PGC e, inclusive, o Apelante faz parte de grupos de mensagens integrado por outros membros dessa organização delinquencial. Os próprios Policiais Militares mencionaram que o local onde houve a abordagem é dominado pelo PGC" (fl. 394).
+Assim, o órgão concluiu que "a prova constante no feito comprova que não se trata de ação amadora e principiante" (fl. 394), porquanto "existem várias conversas, com diversos usuários diferentes, tratando sobre a venda de drogas" (fl. 447), as quais "corroboram a certeza de que o vínculo de Jeter  ..  com a atividade delinquencial não ocorreu de maneira episódica" (fl. 394).
+Nos termos da jurisprudência desta Corte:
+ ..  para afastar a benesse com suporte na dedicação a atividades criminosas não é suficiente a indicação da quantidade de drogas apreendidas, devendo haver outros elementos concretos suficientes que evidenciem que o agente se dedica a atividades criminosas e/ou integra organização criminosa.
+2. Na hipótese, as informações obtidas a partir do celular indicavam a venda reiterada de entorpecentes. Afastada a aplicação da minorante do tráfico privilegiado fundamentadamente, com base em circunstâncias concretas indicativas de dedicação a atividades criminosas, a pretendida revisão do julgado não se coaduna com a estreita via do writ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 756.174/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Deveras, "conversas constantes do aparelho celular do agente que exteriorizem atividade no comércio de drogas  .. servem de prova e indicam a dedicação às atividades criminosas, a afastar a redutora do tráfico privilegiado" (AgRg no AREsp n. 2.569.151/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+O afastamento da causa de diminuição "baseou-se na existência de indícios que denotam dedicação à atividade criminosa  ..  Alterar o quadro formado no Tribunal de origem demandaria dilação probatória, inviável em sede de habeas corpus" (HC n. 866.249/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024).
+Não é inequívoco o direito pleiteado. A inversão do julgado demandaria o reexame de provas, providência a que não se presta a via eleita, de rito sumário e natureza mandamental.
+À vista do exposto, não conheço do habeas corpus. Ainda, não verifico flagrante ilegalidade passível de justificar a concessão da ordem, de ofício.
+Publique-se e intimem-se.
+EMENTA
