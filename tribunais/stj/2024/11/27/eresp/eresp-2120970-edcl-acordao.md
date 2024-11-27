@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. VÍCIO SANADO.
+I - A jurisprudência do STJ assentou o entendimento de que é devida a majoração de verba honorária sucumbencial, nos termos do art. 85, § 11, do CPC/2015, quando presentes os seguintes requisitos de forma concomitante: a) decisão recorrida publicada a partir de 18/3/2016, data da vigência do novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. Precedentes.
+II - No caso, o Tribunal de origem fixou os honorários advocatícios, no percentual de 10% da diferença entre o valor originalmente cobrado e aquele que por ele ser devido. Logo, cabível a majoração da verba honorária, na forma do art. 85, § 11, do CPC/2015.
+III - Embargos de declaração acolhidos, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em mais 1% do valor fixado pela origem.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Estado de Minas Gerais, no qual o embargante requer a majoração dos honorários advocatícios.
+A Segunda Turma do Superior Tribunal de Justiça julgou improvido o recurso especial em acórdão assim ementado, in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. SAÍDA DE COMBUSTÍVEIS, ÁGUA E GASES PARA GERAÇÃO DE TERMOELETRICIDADE. APELAÇÃO. JULGAMENTO NÃO UNÂNIME. TÉCNICA DE AMPLIAÇÃO DO COLEGIADO. ART. 942 DO CPC. LIMITAÇÃO. INEXISTÊNCIA.
+I - Na origem, cuida-se de embargos à execução em face da Execução Fiscal objetivando eximir-se das cobranças de ICMS sobre os insumos para geração de termoeletricidade. A sentença acolheu parcialmente a prejudicial de decadência suscitada pela parte embargante, reconhecendo a insubsistência dos créditos gerados anteriormente a 1/12/2011, ressalvadas as multas isoladas e, no mérito, julgou-se parcialmente procedente os embargos para anular a CDA/PTA n. 01.000615299.48 e declarar insubsistente a correlata execução fiscal, vedado o reembolso das quantias expendidas pela autora na manutenção de seguro-garantia (fls. 791-801). No Tribunal, deu-se parcial provimento ao segundo recurso e, em reexame necessário, reformaram a sentença para acolher parcialmente os embargos à execução, prejudicada a primeira apelação (fls. 938-976). À causa deu-se o valor de R$ 59.076.896,60 (cinquenta e nove milhões, setenta e seis mil, oitocentos e noventa e seis reais e sessenta centavos), em outubro de 2018.
+II - Tendo o Tribunal a quo analisado as questões apresentadas pelas partes, mesmo com solução diversa daquela pretendida pelo embargante, deve ser afastadas a omissão alegada e a apontada ofensa aos arts. 489 e 1022 do CPC.
+III - Sobre a questão do julgamento ampliado, descrito no art. 942 do CPC, observa-se que o Tribunal a quo deixou explícita a determinação de limitação do voto ao ponto da divergência, entretanto, embora se possa questionar o aludido procedimento, em face do que prescreve o dispositivo acima referido, verifica-se que o julgador convocado, apesar de ser instado a se limitar ao quesito da divergência, tratou de examinar toda a celeuma, incluindo os temas sobre os quais não havia divergência.
+III - Agindo dessa forma o julgador não ficou restrito às questões suscitadas na divergência, ou seja, a limitação das multas aplicadas, acompanhando os outros julgadores no que respeita aos demais temas apreciados no julgamento anterior.
+IV - Analisados todos os temas, inclusive aqueles que não faziam parte da divergência estabelecida, inexistiu qualquer violação ao referido art. 942 do CPC
+V - No tocante aos demais temas apresentados pelo recorrente, ou seja, a viabilidade do exame de mérito diante de alegados fatos incontroversos e também no tocante à natureza dos serviços visando aferir a existência de fato gerador do ICMS, deve ser observado que para a análise das referidas questões se faz necessária uma incursão à seara probatória dos autos, o que é vedado no âmbito do recurso especial, atraindo o comando da súmula 7/STJ.
+VI - No que toca à apontada ofensa ao art. 85, §3º, tenho que para analisar a gradação adequada de acordo com o decaimento das partes seria necessário nova incursão ao conjunto probatório dos autos, o que é indevido no recurso especial. Incidência da súmula 7/STJ.
+VII - Recurso especial parcialmente conhecido e na parte conhecida improvido.
+Nos presentes embargos aclaratórios, a parte embargante alega vício de omissão em razão da ausência de majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. VÍCIO SANADO.
+I - A jurisprudência do STJ assentou o entendimento de que é devida a majoração de verba honorária sucumbencial, nos termos do art. 85, § 11, do CPC/2015, quando presentes os seguintes requisitos de forma concomitante: a) decisão recorrida publicada a partir de 18/3/2016, data da vigência do novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. Precedentes.
+II - No caso, o Tribunal de origem fixou os honorários advocatícios, no percentual de 10% da diferença entre o valor originalmente cobrado e aquele que por ele ser devido. Logo, cabível a majoração da verba honorária, na forma do art. 85, § 11, do CPC/2015.
+III - Embargos de declaração acolhidos, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em mais 1% do valor fixado pela origem.
+VOTO
+A questão central do recurso especial gira em torno da possibilidade de majoração dos honorários advocatícios recursais nos termos do art. 85, § 11, do CPC/2015.
+A jurisprudência do STJ assentou o entendimento de que é devida a majoração de verba honorária sucumbencial, nos termos do art. 85, § 11, do CPC/2015, quando presentes os seguintes requisitos de forma concomitante: a) decisão recorrida publicada a partir de 18/3/2016, data da vigência do novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Neste sentido, confiram-se os precedentes, in verbis:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PARCELAMENTO ANTERIOR AO AJUIZAMENTO DA AÇÃO. DÉBITO SUSPENSO. EXTINÇÃO. HONORÁRIOS. CRITÉRIO DE FIXAÇÃO E PEDIDO DE REDUÇÃO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. MAJORAÇÃO. ART. 85, § 11 DO CPC/2015. DESCABIMENTO. APELAÇÃO PARCIALMENTE PROVIDA.
+ ..
+4. De acordo com o entendimento firmado pela Segunda Seção do STJ, descabe a majoração de honorários já fixados, na forma do art. 85, § 11, do CPC/2015, quando provido o recurso, ainda que parcialmente, visto que essa regra incide apenas nos casos de inadmissão ou rejeição do recurso.
+5. Recursos Especiais não conhecidos.
+(REsp 1.727.396/PE, Segunda Turma, Relator Ministro Herman Benjamin, DJe 2/8/2018.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. ART. 85, §11, DO CPC/2015. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no acórdão embargado.
+2. Acerca do regime de fixação e majoração de honorários de advogado no CPC/15, o STJ estabeleceu interpretação uniforme no seguinte sentido: a) Só caberá majoração dos honorários na hipótese de o recurso ser integralmente rejeitado/ desprovido ou não conhecido. b) Não haverá honorários de sucumbência recursal quando nas outras instâncias não houve a fixação em desfavor do recorrente c) O trabalho adicional realizado pelo advogado do recorrido, em grau recursal, deve ser tido como critério de quantificação, e não como condição para a majoração dos honorários.d) Não haverá majoração dos honorários no julgamento dos agravos interpostos contra decisão do Relator e nos embargos de declaração. e) O cômputo total da fixação dos honorários devidos não pode ultrapassar os limites dos §§ 2º e 3º do art. 85 do CPC/15.f) O §11 do art. 85 do CPC/15 é regra de julgamento de recurso; logo, de natureza processual e aplicação imediata (art. 14 do CPC/15).
+3. No particular, a embargante logrou êxito com a interposição do recurso especial, não subsistindo o propósito em ver a majoração dos honorários recursais.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1.746.789/RS, Terceira Turma, Relatora Ministra Nancy Andrighi, DJe 3/10/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE O ÓBICE DA SÚMULA 182/STJ. IRRESIGNAÇÃO DA REQUERIDA.
+1. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que não admitiu o apelo extremo.
+2. Razões do agravo que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial, atraindo a incidência da Súmula 182/STJ.
+3. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/15, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso (AgInt nos EREsp 1539725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 19/10/2017).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.140.219/SP, Quarta Turma, relator Ministro Marco Buzzi, DJe 1º/10/2018.)
+No caso, o Tribunal de origem fixou os honorários advocatícios, conforme excerto do acórdão às fls. 963:
+(..)
+No que concerne aos honorários advocatícios, em sede de liquidação de sentença, o embargante pagará ao embargado a quantia equivalente a 10% da diferença entre o valor originalmente cobrado e aquele que por ele ser devido. O embargado pagará ao embargante valor equivalente a 10% sobre a diferença entre a multa isolada original e aquela que deverá ser cobrada em razão deste julgamento. Os valores deverão ser atualizados pela Taxa Selic desde o ajuizamento e não será possível a compensação de honorários advocatícios.
+(..)
+Logo, cabível a majoração da verba honorária, na forma do art. 85, § 11, do CPC/2015.
+Ante o exposto, nos termos dos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar o acórdão embargado, fazendo constar a majoração dos honorários advocatícios em mais 1% do valor fixado pela origem.
+É o voto.
