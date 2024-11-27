@@ -1,0 +1,1457 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 33
+
+27/11/2024
+
+PLENÁRIO
+
+REFERENDO NA MEDIDA CAUTELAR NA AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE 7.713 DISTRITO FEDERAL
+RELATOR
+REQTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: PARTIDO NOVO
+: RODRIGO BORDALO RODRIGUES
+: SERGIO ROBERTO BULCÃO BRINGEL JUNIOR
+: ASSEMBLEIA
+LEGISLATIVA
+DO
+ESTADO
+DO AMAZONAS
+: PROCURADOR-GERAL
+DA
+ASSEMBLEIA
+LEGISLATIVA DO ESTADO DO AMAZONAS
+
+Ementa: DIREITO CONSTITUCIONAL. AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE. ANTECIPAÇÃO DE ELEIÇÃO DA
+MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO
+AMAZONAS. INCONSTITUCIONALIDADE. MEDIDA CAUTELAR
+REFERENDADA.
+I. Caso em exame
+1. Referendo de medida cautelar concedida em ação direta de
+inconstitucionalidade proposta pelo Partido Novo contra a Emenda à
+Constituição do Estado do Amazonas n. 133, de 12 de abril de 2023 e, por
+arrastamento, da Resolução Legislativa n. 965, de 12 de abril de 2023, que
+anteciparam a eleição da Mesa Diretora para o biênio 2025-2026.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o dispositivo
+impugnado, que antecipou as eleições para a Mesa Diretora de
+Assembleia Legislativa para o segundo biênio da legislatura, é
+constitucional.
+III. Razões de decidir
+3. Ação direta de inconstitucionalidade deve ser conhecida, tendo
+em vista (i) a existência de efeitos jurídicos relevantes que extrapolam a
+satisfação de direito subjetivo individual, e (ii) ante a aparente fraude
+praticada com o objetivo de evitar o exercício da jurisdição constitucional
+pelo Supremo Tribunal Federal.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F9EF-891F-AE07-2683 e senha 543E-085C-7812-B4DA
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 33
+
+ADI 7713 MC-R EF / DF
+4. É inconstitucional a antecipação da eleição para a Mesa Diretora
+para o segundo biênio da legislatura, por violação aos princípios
+republicano e democrático, da periodicidade e da contemporaneidade do
+pleito .
+IV. Dispositivo e tese
+5. Medida cautelar referendada para (i) suspender os efeitos da
+eleição da Mesa Diretora para o biênio 2025-2026 realizada em 12/4/2023,
+e, consequentemente (ii) determinar a realização de nova eleição para a
+Mesa Diretora da Assembleia Legislativa do Estado do Amazonas para o
+biênio 2025-2026 .
+_________
+Jurisprudência relevante citada: ADPF 33, Rel. Min. Gilmar Mendes,
+Plenário, DJ de 27/10/2006; ADIs 2.028, 2.036, 2.228, 2.621, Redatora do
+acórdão Min. Rosa Weber, Plenário, DJe de 8/5/2017; ADI 6688, Plenário, Rel.
+Min. Gilmar Mendes, Dje 28/04/2023; ADI 7.350/TO, Rel. Min. Dias Toffoli,
+Plenário, DJe 07/05/2024.
+ACÓRDÃO
+Acordam os Ministros do Supremo Tribunal Federal, em sessão
+virtual do Plenário, na conformidade da ata de julgamentos, por
+unanimidade, referendar a decisão que deferiu a medida cautelar
+requerida para: (i) suspender os efeitos da eleição da Mesa Diretora para
+o biênio 2025-2026 realizada em 12/4/2023; e (ii) determinar que a
+Assembleia Legislativa do Estado do Amazonas realize novas eleições
+para a Mesa Diretora do biênio 2025/2026, cuja data deverá ser definida
+pela própria Assembleia, dentro dos parâmetros fixados pela
+jurisprudência do Supremo Tribunal Federal, nos termos do voto do
+Relator.
+Brasília, 27 de novembro de 2024.
+CRISTIANO ZANIN - Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F9EF-891F-AE07-2683 e senha 543E-085C-7812-B4DA
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 33
+
+27/11/2024
+
+PLENÁRIO
+
+REFERENDO NA MEDIDA CAUTELAR NA AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE 7.713 DISTRITO FEDERAL
+RELATOR
+REQTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: PARTIDO NOVO
+: RODRIGO BORDALO RODRIGUES
+: SERGIO ROBERTO BULCÃO BRINGEL JUNIOR
+: ASSEMBLEIA
+LEGISLATIVA
+DO
+ESTADO
+DO AMAZONAS
+: PROCURADOR-GERAL
+DA
+ASSEMBLEIA
+LEGISLATIVA DO ESTADO DO AMAZONAS
+RELATÓRIO
+
+O Senhor Ministro CRISTIANO ZANIN (Relator): Trata-se de de
+referendo de medida cautelar concedida em ação direta de
+inconstitucionalidade proposta pelo Partido Novo contra a Emenda à
+Constituição do Estado do Amazonas n. 133, de 12 de abril de 2023 e, por
+arrastamento, da Resolução Legislativa n. 965, de 12 de abril de 2023. Eis
+o teor do dispositivo impugnado:
+Emenda à Constituição do Estado do Amazonas n.º
+133/2023
+“A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA
+DO ESTADO DO AMAZONAS, no uso de atribuições que lhe
+são conferidas pelo art. 32, § 3º, da Constituição do Estado, faz
+saber aos que a presente virem que promulga a seguinte
+EMENDA CONSTITUCIONAL:
+Art. 1º O inciso II do § 4º do art. 29 da Constituição
+Estadual passa a vigorar com a seguinte alteração:
+“ II – no curso do primeiro biênio da legislatura, para
+eleger a Mesa Diretora para o biênio subsequente, em reunião
+especialmente convocada para esse fim, na forma que dispuser
+o Regimento Interno;” (NR)
+Art. 2º Para efeito do disposto no art. 21, § 3º, da
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 33
+
+ADI 7713 MC-R EF / DF
+Constituição Estadual, é permitida uma única recondução dos
+membros da Mesa Diretora para o mesmo cargo,
+independentemente se ocorrida na mesma legislatura ou em
+legislaturas subsequentes.
+Parágrafo único. O limite estabelecido no caput aplica-se
+somente às eleições realizadas após a data de publicação da ata
+de julgamento da ADI 6.524 do STF,de modo que não serão
+consideradas, para fins de inelegibilidade, as composições
+eleitas antes de 08/01/2021.
+Art. 3º Esta Emenda Constitucional entra em vigor na data
+de sua publicação.
+
+Como parâmetro de controle, o requerente indica os arts. 1º, inc. V e
+parágrafo único, 16º, 25º, 57º, § 4º, todos da Constituição Federal.
+Em linhas gerais, a requerente afirma que o dispositivo impugnado
+viola os princípios democrático e republicano, pois antecipa, de forma
+indevida, as eleições para o segundo biênio da legislatura da Mesa
+Diretora da Assembleia Legislativa do Estado do Amazonas, o que
+comprometeria a periodicidade e a contemporaneidade do processo de
+escolha da mesa diretora. Pela relevância, transcrevo o seguinte trecho da
+petição:
+Segundo reportagens da imprensa amazonense, a
+tramitação da emenda tramitou nas comissões da ALEAM e foi
+levada ao plenário no mesmo dia, imprimindo ao processo
+legislativo uma pressa que se confunde com desvio de
+finalidade.
+A modificação do texto constitucional estadual proposta
+pela Emenda, vigente desde a data de sua publicação,
+acarretou dois efeitos jurídicos relevantes, quais sejam: a
+habilitação do já Presidente reeleito da ALEAM ao terceiro
+mandato consecutivo e, ainda, permitiu que se antecipasse em
+dois anos a eleição de segundo biênio para os cargos da Mesa
+Diretora da Assembleia Legislativa do Estado.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 33
+
+ADI 7713 MC-R EF / DF
+Esta mudança açodada da Constituição do Estado do
+Amazonas, contudo, acarreta grave violação da ordem
+constitucional federal, implicando, a um só tempo, em afronta
+frontal a diversos princípios e paradigmas basilares correlatos
+ao sistema de estruturação política brasileiro (doc. 1, p. 3).
+
+Requer, ao fim:
+(A) A concessão de medida cautelar de urgência, nos
+moldes do tópico “IV” deste petitório, para suspender a eficácia
+da Emenda à Constituição do Estado do Amazonas n.º 133/2023
+desde sua edição, retornando ao status quo anterior; bem como
+para suspender o resultado da eleição realizada com base nos
+seus efeitos, inclusive de modo a determinar a realização da
+eleição à mesa diretora da casa legislativa de acordo com a
+redação anterior do Art. 29 da Constituição do Estado do
+Amazonas;
+(B) A notificação do órgão legislativo responsável pela
+edição do ato questionado para que preste as informações
+pertinentes, na forma do disposto no artigo 6º da Lei federal nº
+9.868/1999;
+(C) A intimação da Advocacia Geral da União e do ilustre
+Procurador-Geral da República para que possam se manifestar,
+nos termos do disposto no artigo 8º da Lei federal nº 9.868/1999;
+(D) Ao final, com a confirmação da medida cautelar, seja
+julgado PROCEDENTE o pedido formulado nesta ADI,
+mediante a declaração da inconstitucionalidade da Emenda à
+Constituição do Estado do Amazonas n.º 133/2023 e, por
+arrastamento, da Resolução n. 33/2023 da Assembleia
+Legislativa do Amazonas; com a fixação de tese no seguinte
+enunciado: “A eleição de Mesa Diretora de Casa Legislativa
+deve observar a contemporaneidade entre a eleição e o
+respectivo biênio”; e
+(E) Em grau de subsidiariedade, seja então fixada a
+interpretação que melhor atenda aos ditames normativos e
+principiológicos da Constituição da República de 1988.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 33
+
+ADI 7713 MC-R EF / DF
+
+Em 16/09/2024, a União dos Legisladores e Legislativos Estaduais UNALE requereu o ingresso no feito na qualidade de amicus curiae,
+afirmando preencher os requisitos para tanto (doc. 9). Em sua
+manifestação (Petição 116553/2024), a UNALE alega que o dispositivo
+impugnado na presente ação direta de inconstitucionalidade - o art. 29, §
+4°, II, da Constituição amazonense, na redação dada pela Emenda
+Constitucional n. 133/2023 - foi integralmente revogado pelo art. 2° da
+Emenda Constitucional n. 134, de 11 de julho de 2023. Aduz o seguinte:
+Constata-se, portanto, que referida norma constitucional,
+sobre a qual a inicial pretende que seja instaurado o controle
+abstrato e concentrado de constitucionalidade, não integra mais
+o ordenamento jurídico-constitucional do Estado do Amazonas,
+estando revogada desde julho de 2023, portanto, há mais de um
+ano (doc. 9, p. 6).
+
+Em 16/09/2024, considerando o teor da Petição 116553/2024,
+determinei a intimação do requerente para se manifestar sobre a eventual
+revogação do dispositivo impugnado na presente ação direta (doc. 24).
+Ato contínuo, em nova manifestação, o Partido Novo requereu o
+aditamento da petição inicial para contextualizar a presente ação direta
+de inconstitucionalidade no cenário da pretérita revogação do art. 29, §4º,
+da Constituição Amazonense. Argumentou que embora a jurisprudência
+seja no sentido de que a revogação da norma questionada por meio de
+ação direta enseja a perda superveniente do objeto da ação, neste caso
+houve fraude prévia à potencial jurisdição do Supremo Tribunal Federal,
+pois a revogação do regime da eleição antecipada visou impossibilitar o
+controle de constitucionalidade da Emenda Constitucional n. 133/2023, do
+Estado do Amazonas. Transcrevo trecho dessa nova manifestação do
+requerente:
+Como apontado acima, o art. 29, §4º, da Constituição
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 33
+
+ADI 7713 MC-R EF / DF
+Amazonense - incluindo o seu inciso II (cf. redação dada pela
+Emenda Constitucional n. 133, de 13 de abril de 2023) - foi
+revogado pela Emenda Constitucional n. 134, de 11 de julho de
+2023.
+Essa circunstância, no entanto, não é suficiente para levar
+ao indeferimento da presente ação, conforme entendimento
+consolidado do Supremo Tribunal Federal (STF) a respeito da
+revogação de normas relacionadas a ações de controle
+concentrado de constitucionalidade.
+De fato, a Corte Suprema possui entendimento de que, em
+regra, a revogação da norma impugnada enseja a perda do
+objeto da ADI, mesmo na hipótese em que tenha havido a
+produção de efeitos concretos. Contudo, não se trata de
+postulado absoluto. Há situações específicas em que o STF a
+excepciona, reconhecendo a relevância do julgamento da ADI,
+mesmo diante da revogação da norma impugnada.
+(...)
+Reitera-se o contexto acima delineado: a modificação
+introduzida pela Emenda Constitucional Estadual n. 133, de 12
+de abril de 2023 (alteração do art. 29, §4º, da Constituição
+Amazonense) foi revogada pela Emenda Constitucional
+Estadual n. 134, de 11 de julho de 2023.
+No próprio dia 12 de abril de 2023, concretizou-se o que
+fora recém-normatizado. No âmbito da sessão plenária da
+ALEAM, foi convocada reunião especial para a eleição
+antecipada da Mesa Diretora para o biênio 2025/2026, tendo
+sido eleita a chapa composta, entre outros, pelo Deputado
+Roberto Cidade (na condição de Presidente).
+Menos de 3 (três) meses depois, por intermédio da
+Emenda Constitucional 134, de 11 de julho de 2023, o art. 29,
+§4º, da Constituição Amazonense foi revogado.
+Não se pode deixar de reconhecer, diante desse
+esdrúxulo contexto, uma manobra encerrada pela Emenda
+Constitucional n. 134/2023, que revogou o regime da eleição
+antecipada da Mesa Diretora da ALEAM, já tendo sido
+concretizada uma eleição antecipada para o biênio
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 33
+
+ADI 7713 MC-R EF / DF
+subsequente (2025/2026).
+Trata-se de procedimento potencialmente caracterizado
+como um desvio de poder legislativo, porquanto subjaz à
+manobra uma potencial intenção de suprimir do Supremo
+Tribunal Federal um controle sobre a eleição antecipada
+realizada na sessão da ALEAM de 12 de abril de 2023.
+(...)
+No presente caso, a alteração promovida pela EC n.
+133/2023 assumiu vigência suficiente para que, em
+conformidade com suas disposições, ocorresse a eleição
+antecipada da Mesa Diretora da Assembleia Legislativa do
+Estado do Amazonas para o biênio 2025/2026, o que gerou
+efeitos concretos e relevantes no cenário político da Assembleia.
+A eleição resultou na recondução de lideranças políticas às
+principais posições do Legislativo estadual, o que,
+indiscutivelmente, é um ato de grande impacto institucional,
+com repercussões que perdurarão durante o mandato dos
+eleitos.
+A ausência de um controle concentrado de
+constitucionalidade sobre essa norma pode criar um precedente
+nocivo, incentivando a adoção de emendas constitucionais
+temporárias e oportunistas, cuja finalidade seria evitar o
+escrutínio constitucional e consolidar mudanças políticas
+ilegítimas sem a devida análise por parte desta Suprema Corte
+(doc. 25).
+
+Ao final, o requerente aditou os pedidos formulados na inicial, nos
+seguintes termos:
+Assim, pleiteia-se a Vossa Excelência e a esse colendo Supremo
+Tribunal Federal, como emenda às pretensões veiculadas na exordial:
+(a) A concessão de medida cautelar de urgência, para
+suspender o resultado da eleição realizada na Assembleia
+Legislativa do Estado do Amazonas em 12 de abril de 2023 com
+base nos efeitos da Emenda à Constituição Amazonense n. 133,
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 33
+
+ADI 7713 MC-R EF / DF
+de 12 de abril de 2023, inclusive de modo a determinar a
+realização da eleição à Mesa Diretora da casa legislativa de
+acordo com a redação anterior do art. 29 da Constituição do
+Estado do Amazonas;
+(...)
+(d) Ao final, com a confirmação da medida cautelar, seja
+julgado PROCEDENTE o pedido formulado nesta ADI,
+mediante a declaração da inconstitucionalidade dos efeitos
+produzidos pela Emenda à Constituição do Estado do
+Amazonas n. 133, de 12 de abril de 2023 e, por arrastamento,
+dos efeitos decorrentes da Resolução Legislativa n. 965, de 12 de
+abril de 2023; com a fixação de tese no seguinte enunciado: “A
+eleição de Mesa Diretora de Casa Legislativa deve observar a
+contemporaneidade entre a eleição e o respectivo biênio”; (doc.
+25).
+
+Diante das novas informações relatadas pelo requerente, adotei, em
+25/09/2024, o procedimento previsto no art. 10 da Lei n. 9.868/1999,
+solicitando informações à Assembleia Legislativa do Estado do Amazonas
+e ao Governador do Estado do Amazonas, com a subsequente oitiva do
+Advogado-Geral da União e do Procurador-Geral da República, para
+manifestação no prazo de 3 (três) dias (doc. 34).
+O Governador do Estado do Amazonas manifestou-se pelo
+reconhecimento da ausência de interesse de agir, dada a revogação da
+norma impugnada. No mérito, concluiu pelo indeferimento da medida
+cautelar, ante a ausência de perigo da demora; e a ausência de
+probabilidade do direito, pois a mudança normativa atuou como
+garantidora da temporariedade dos mandatos, do pluralismo político e
+da alternância dos partidos no comando da Assembleia (doc. 37).
+A Assembleia Legislativa do Estado do Amazonas – ALEAM
+apresentou informações, sustentando o não conhecimento da ação, ante a
+ausência de interesse de agir e a configuração de erro grosseiro no
+aditamento da inicial. No mérito, sustentou que as ações da Assembleia
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 33
+
+ADI 7713 MC-R EF / DF
+Legislativa foram legítimas e isentas de qualquer desvio de finalidade,
+não tendo buscado escapar de um eventual, futuro e incerto controle de
+constitucionalidade junto ao Supremo Tribunal Federal (doc. 39).
+Na sequência, o Advogado-Geral da União manifestou-se pelo
+conhecimento da ação e, no mérito, pela concessão do pedido cautelar.
+Para o AGU, a antecipação da realização das eleições para o segundo
+biênio da atual legislatura violou o entendimento definido pelo Supremo
+Tribunal Federal na ADI 7.350/DF, em que a Corte estabeleceu o princípio
+da contemporaneidade para eleições aos cargos de direção do Poder
+Legislativo. Eis a ementa da manifestação do AGU:
+Poder Legislativo. Artigo 29, § 4º, da Constituição do
+Estado do Amazonas, na redação dada pela Emenda
+Constitucional nº 133, de 12 de abril de 2023. Norma que previa
+a possibilidade de antecipação das eleições da Mesa Diretora da
+Assembleia Legislativa para o segundo biênio (2025-2026).
+Contexto que resultou na segunda recondução do atual
+Presidente da ALEAM. Alegação de ofensa aos princípios
+constitucionais
+democrático,
+da
+anualidade
+eleitoral,
+republicano, do pluralismo político, da simetria e da isonomia.
+Cabimento da ação. Fungibilidade entre ações de controle
+concentrado. Mérito. Plausibilidade das alegações. Segundo
+jurisprudência consolidada nessa Suprema Corte, (i) a eleição
+dos membros das Mesas das Assembleias Legislativas estaduais
+deve observar o limite de uma única reeleição ou recondução,
+limite cuja observância independe de os mandatos consecutivos
+referirem-se à mesma legislatura; (ii) a vedação à reeleição ou
+recondução aplica-se somente para o mesmo cargo da mesa
+diretora; e (iii) o citado limite de uma única reeleição ou
+recondução deve orientar a formação da Mesa da Assembleia
+Legislativa no período posterior à data de publicação da ata de
+julgamento da ADI 6.524, ocorrida em 08/01/2021. No
+particular, as duas reconduções da atual direção da ALEAM
+foram definidas após 2021, o que evidencia o contraste com a
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 33
+
+ADI 7713 MC-R EF / DF
+jurisprudência. Ademais, a antecipação da realização das
+eleições para o segundo biênio da atual legislatura violou o
+entendimento definido no precedente da ADI 7350, em que a
+Corte estabeleceu o princípio da contemporaneidade para
+eleições aos cargos de direção do Poder Legislativo.
+Proximidade do biênio 2025/2026. Configuração do perigo na
+demora. Manifestação pelo conhecimento da ação e, no mérito,
+pela concessão do pedido cautelar (doc. 47).
+
+O Procurador-Geral da República apresentou parecer pelo
+conhecimento da ação, tendo em vista a existência de efeitos residuais
+concretos relevantes, e pela concessão da medida cautelar:
+Ação direta de inconstitucionalidade. Art. 29, § 4º, II, da
+Constituição do Estado do Amazonas, alterado pela Emenda
+Constitucional n. 133/2023. Eleição antecipada da Mesa Diretora
+da Assembleia Legislativa do Amazonas para o segundo biênio
+da legislatura. Revogação da norma. Efeitos residuais concretos.
+Possibilidade de conhecimento da ação como ADPF.
+Plausibilidade das alegações de afronta aos princípios
+democrático, republicano e do pluralismo político. Precedentes.
+Parecer pela concessão da medida cautelar.
+
+Em 23/10/2024, concedi a medida cautelar, ad referendum do Plenário
+do Supremo Tribunal Federal, para (i) suspender os efeitos da eleição da
+Mesa Diretora para o biênio 2025-2026 realizada em 12/04/2023; e (ii)
+determinar que a Assembleia Legislativa do Estado do Amazonas realize
+novas eleições para a Mesa Diretora do biênio 2025/2026, cuja data deverá
+ser definida pela própria Assembleia, dentro dos parâmetros fixados pela
+jurisprudência do Supremo Tribunal Federal.
+É o relatório.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F6B-EE4B-373A-15BD e senha 5335-D95C-14BD-8C37
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 12 de 33
+
+27/11/2024
+
+PLENÁRIO
+
+REFERENDO NA MEDIDA CAUTELAR NA AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE 7.713 DISTRITO FEDERAL
+VOTO
+O Senhor Ministro CRISTIANO ZANIN (Relator): Bem examinados os
+autos, entendo que é o caso de referendar a medida cautelar.
+Preliminarmente, enfrento a questão relativa ao não conhecimento
+da presente ação direta, tendo em vista que a ação foi proposta em
+12/09/2024, ou seja, após a revogação da Emenda Constitucional n.
+133/2023 pela Emenda Constitucional n. 134, de 11 de julho de 2023.
+Como se vê, o caso sob apreciação apresenta um contexto fático
+singular, pois o dispositivo atacado – o artigo 29, § 4º, inciso II, da
+Constituição do Estado do Amazonas, na redação dada pela Emenda
+Constitucional n. 133/2023 - teve vigência de apenas quatro meses, tendo
+sido revogado após a realização, em 12 abril de 2023, da eleição
+antecipada que resultou na segunda recondução da atual Presidência da
+Assembleia Legislativa do Estado do Amazonas para mais um mandato, a
+ser exercido no biênio de 2025-2026.
+Pois bem. A jurisprudência do Supremo Tribunal Federal é firme
+quanto ao não cabimento de ação de controle abstrato de
+constitucionalidade contra ato normativo revogado, por ausência de
+interesse de agir: ADI n. 6.689/RN, Rel. Min. Gilmar Mendes, decisão
+monocrática, DJe 08/02/2022; ADPF n. 753/MG, Rel. Min. Ricardo
+Lewandowski, decisão monocrática, DJe 19/03/2021; ADI 3.419, Rel. Min.
+Gilmar Mendes, Tribunal Pleno, Dje 17/12/2019.
+Em sentido semelhante, o Plenário firmou entendimento de que a
+revogação da norma impugnada gera a prejudicialidade da ação direta de
+inconstitucionalidade, em decorrência da perda superveniente do objeto.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 13 de 33
+
+ADI 7713 MC-R EF / DF
+Como exemplo, cito a ADI 7.000/PA, da minha relatoria, DJe 06/12/2023,
+com ampla referência jurisprudencial.
+No entanto, o Plenário excepciona das referidas diretrizes
+jurisprudenciais os casos em que (i) as ações de controle concentrado
+questionam leis ou atos normativos revogados que ainda geram
+controvérsia relevante quanto aos efeitos jurídicos residuais (ADPF 33,
+Rel. Min. Gilmar Mendes, Plenário, DJ de 27/10/2006; ADPF 324, Rel. Min.
+Roberto Barroso, julgada em 30/8/2018; ADIs 2.028, 2.036, 2.228, 2.621,
+Redatora do acórdão Min. Rosa Weber, Plenário, DJe de 8/5/2017 e de
+16/5/2017); e (ii) há manifesta fraude processual, ou seja, quando a
+revogação dos atos normativos visa burlar a jurisdição constitucional do
+Supremo Tribunal Federal. Com essa orientação, menciono a ADI
+3.306/DF, Min. Gilmar Mendes, Tribunal Pleno, DJ 07/06/2011, e a ADI n°
+3.232/TO, Rel. Min. Cezar Peluso, Tribunal Pleno, DJ 03/10/2008.
+Nesse
+contexto,
+entendo
+que
+esta
+ação
+direta
+de
+inconstitucionalidade deve ser conhecida, tendo em vista (i) a existência
+de efeitos jurídicos relevantes que extrapolam a satisfação de direito
+subjetivo individual, e (ii) ante a aparente fraude praticada com o
+objetivo de evitar o exercício da jurisdição constitucional pelo Supremo
+Tribunal Federal.
+Com efeito, a aparente burla levada a efeito pela ALEAM – que (i)
+em 12/3/2023, promulgou a Emenda Constitucional n. 133/2023, que
+antecipou a eleição para a Mesa Diretora da Assembleia; (ii) nessa mesma
+data, realizou a eleição antecipada, resultando na segunda reeleição
+consecutiva do então Presidente da ALEAM; e (iii) quatro meses depois,
+em 11/7/2023, promulgou nova emenda à Constituição do Estado,
+revogando o preceito impugnado na presente ação direta – configura, em
+princípio, violação à jurisdição constitucional do Supremo Tribunal
+Federal.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 14 de 33
+
+ADI 7713 MC-R EF / DF
+A situação se revela ainda mais relevante quando se percebe que,
+desde à época da promulgação da Emenda Constitucional n. 133/2023, a
+jurisprudência do STF já se orientava no sentido da
+inconstitucionalidade da antecipação das eleições para a Mesa Diretora
+dos parlamentos estaduais. Nesse sentido, em 07/12/2022, no julgamento
+conjunto das ADIs 6.688/PR, 6.698/MS, 6.714/PR, 7.016/MS, 6.683/AP,
+6.686/PE, 6.687/PI e 6.711/PI, o Supremo Tribunal Federal fixou teses
+aplicáveis às eleições das Mesas das Assembleias Legislativas estaduais,
+nos seguintes termos:
+- a eleição dos membros das Mesas das Assembleias
+Legislativas estaduais deve observar o limite de uma única
+reeleição ou recondução, limite cuja observância independe de
+os mandados consecutivos referirem-se à mesma legislatura;
+- a vedação à reeleição ou recondução aplica-se somente
+para o mesmo cargo da mesa diretora, não impedindo que
+membro da mesa anterior se mantenha no órgão de direção,
+desde que em cargo distinto;
+- o limite de uma única reeleição ou recondução, acima
+veiculado, deve orientar a formação da Mesa da Assembleia
+Legislativa no período posterior à data de publicação da ata de
+julgamento da ADI 6.524, de modo que não serão consideradas,
+para fins de inelegibilidade, as composições eleitas antes de
+7.1.2021, salvo se configurada a antecipação fraudulenta das
+eleições como burla ao entendimento do Supremo Tribunal
+Federal.
+
+Como se vê, o item (3) da tese acima transcrita parece, à primeira
+vista, aplicável ao presente processo, pois a Assembleia Legislativa do
+Estado do Amazonas antecipou a eleição para a Mesa Diretora com o
+objetivo de possibilitar a segunda reeleição consecutiva do então
+Presidente da ALEAM. Sucede que, como foi decidido na tese destacada
+acima, a modulação de efeitos da ADI 6.688/PR expressamente ressalva
+os casos de antecipação fraudulenta das eleições como burla ao
+entendimento do Supremo Tribunal Federal. Daí a constatação, em
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 15 de 33
+
+ADI 7713 MC-R EF / DF
+princípio, que a Emenda Constitucional n. 133/2023 violou os parâmetros
+definidos pelo Plenário desta Corte. Para corroborar o aqui exposto,
+transcrevo o seguinte excerto da manifestação do Advogado-Geral da
+União no presente processo:
+50. No julgado acima, a Suprema Corte uniformizou o
+entendimento quanto ao marco temporal de aplicação da tese
+jurídica alusiva ao limite de única recondução sucessiva, no
+sentido de orientar a formação das mesas diretoras das casas
+legislativas no período posterior à data de publicação da ata de
+julgamento da ADI 6524, de modo que não serão levadas em
+conta, para efeito de inelegibilidade, as composições eleitas
+antes de 7 de janeiro de 2021, salvo se configurada a
+antecipação fraudulenta das eleições como burla à decisão do
+Supremo.
+51. No particular, a violação a essa tese de julgamento é
+ostensiva. Isso porque a atual Presidência da Mesa da
+Assembleia Legislativa do Amazonas foi eleita para o primeiro
+mandato (2021-2022) em 2020, isto é, antes da eficácia do
+julgamento da ADI 6524. Já a primeira recondução - para o
+biênio 2023-2024 - foi definida em outubro de 2022, portanto, já
+na vigência do entendimento atual, razão pela qual deveria ter
+sido o último mandato.
+52. Todavia, em razão da promulgação da ECE nº
+133/2023, a ALEAM antecipou a eleição para o biênio seguinte
+(2025-2026), tendo definido nova recondução da atual
+Presidência em abril de 2023. Como fica claro, a composição
+eleita para o biênio 2025/2026 não poderia ter participado do
+pleito, uma vez que já havia sido reeleita anteriormente em
+2022, quando já era exigível o entendimento paradigmático da
+ADI 6524.
+(...)
+59. Nesses termos, constata-se que - ao possibilitar eleições
+concentradas para biênios diferentes da Mesa Diretora da
+ALEAM, ensejando, assim, a terceira recondução da
+Presidência atual - os atos impugnados nesta ação direta
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 16 de 33
+
+ADI 7713 MC-R EF / DF
+contrariaram o entendimento jurisprudencial dessa Suprema
+Corte, violando os princípios constitucionais republicano e
+democrático.
+
+Em sentido semelhante discorreu o Procurador-Geral da República,
+que, ao manifestar-se favoravelmente ao conhecimento desta ação,
+também enfatizou que a conjuntura fático-normativa que embasou a
+propositura da ação direta contrariou a jurisprudência do Supremo
+Tribunal Federal:
+A realidade dos autos demonstra manifesta contrariedade
+ao entendimento firmado pelo Supremo Tribunal Federal nos
+julgamentos das AADDI n. 6.524 e 7.350/DF.
+A Emenda Constitucional n. 133/2023 e a Resolução
+Legislativa n. 965/2023, ambas do Estado do Amazonas,
+entraram em vigor na mesma data em que ocorreu a eleição
+antecipada da Mesa Diretora da AL/AM para o segundo biênio
+da XX Legislatura (12.4.2023). As normas permitiram a
+habilitação do atual Presidente da Casa a terceiro mandato
+consecutivo e a eleição dos demais integrantes da mesa no
+curso do primeiro biênio (2023-2024).
+[...]
+O art. 29, §4º, II, da Constituição do Estado do Amazonas
+fazia menção expressa ao regimento interno para disciplinar a
+eleição antecipada. Essa foi regulada pelo art. 7º, II, do
+Regimento Interno da Assembleia Legislativa. Embora os
+interessados tenham noticiado a revogação do dispositivo
+regimental, o próprio Regimento Interno divulgado no sítio
+eletrônico da casa legislativa, em sua 5ª versão consolidada de
+2024, faz constar a norma atualmente em vigor, sem alteração
+posterior. A circunstância induz à compreensão de estar a
+norma em regime de plena vigência, notadamente quando
+veiculada, pelo Poder Legislativo estadual, a ocorrência de
+eleição da composição da Mesa Diretora da AL/AM para o
+segundo biênio (2025-2026). Isso motivou, inclusive, o recente
+ajuizamento da ADI n. 7.730/AM contra o art. 7º, II, do RI da
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 17 de 33
+
+ADI 7713 MC-R EF / DF
+AL/AM pela Procuradoria-Geral da República (doc. 52, pp. 8-9).
+
+Por todo o exposto, conheço da ação direta de inconstitucionalidade,
+tendo em vista que “a revogação dos diplomas não opera a perda do
+interesse de agir na prestação jurisdicional, sobretudo diante da forma
+como foi realizada e por estar em jogo a violação a preceitos
+fundamentais como os princípios democrático, republicano e
+pluralismo político”, conforme pontuado pelo Procurador-Geral da
+República (doc. 52, p. 9).
+Superada a preliminar, passo ao exame do pedido cautelar.
+Em análise preliminar e sem prejuízo de posterior reexame por
+ocasião do julgamento do mérito desta ação, verifico a presença dos
+requisitos que autorizam o provimento cautelar, quais sejam, a
+plausibilidade jurídica do pedido (fumus boni iuris) e o perigo de a decisão
+de mérito se tornar ineficaz com o transcurso do tempo necessário para o
+julgamento definitivo da ação (periculum in mora).
+Como já adiantei, a promulgação de emenda constitucional que
+autorizou a antecipação da eleição para a Mesa Diretora da Assembleia
+Legislativa do Estado do Amazonas violou o entendimento sintetizado no
+julgamento conjunto das ADIs 6.688/PR, 6.698/MS, 6.714/PR, 7.016/MS,
+6.683/AP, 6.686/PE, 6.687/PI e 6.711/PI
+Além desses precedentes vinculantes, é aplicável ao caso concreto o
+entendimento do Plenário do Supremo Tribunal Federal firmado na ADI
+7.350/DF, de relatoria do Ministro Dias Toffoli, cujo julgamento terminou
+em 11/03/2024. Na oportunidade, o Plenário declarou a
+inconstitucionalidade da Emenda Constitucional n. 48/2022, do Estado
+do Tocantins, que alterou a Constituição daquele Estado para estabelecer
+que as eleições da Mesa Diretora da Assembleia para o primeiro e
+segundo biênio devem ser realizadas de forma concomitante, no 1º dia
+de fevereiro do início de cada legislatura.
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 18 de 33
+
+ADI 7713 MC-R EF / DF
+
+Em seu voto, o Relator Ministro Dias Toffoli assentou que, ao
+permitir a eleição antecipada de Mesa Diretora de Assembleia Legislativa
+para dois biênios de uma só vez, o dispositivo afrontou o postulado
+republicano, de que defluem os princípios da alternância do poder
+político e da temporalidade dos mandatos, bem como não observou o
+postulado democrático, do qual são corolários a periodicidade e a
+contemporaneidade dos pleitos, elementos essenciais para a promoção do
+pluralismo político. Pela relevância, transcrevo a emenda da ADI
+7.350/DF:
+EMENTA Ação direta de inconstitucionalidade. Medida
+cautelar. Referendo. Conversão. Julgamento de mérito. Emenda
+nº 48/22 à Constituição do Estado do Tocantins. Eleições
+concomitantes da mesa diretora da Assembleia Legislativa para
+o primeiro e o segundo biênios. Inconstitucionalidade. Violação
+dos princípios republicano e democrático. Ação direta julgada
+procedente.
+1. O Supremo Tribunal Federal pacificou que os estados
+não estão totalmente livres para definirem qualquer forma de
+eleição para os cargos diretivos dos respectivos parlamentos,
+devendo observar as balizas impostas pelos princípios
+republicano e democrático. Do mesmo modo, a autonomia dos
+estados na definição do momento em que devem ocorrer as
+eleições para os cargos de suas mesas deve ser exercida dentro
+das balizas constitucionais. Precedentes: ADI nº 6.685/MA,
+Tribunal Pleno, Rel. Min. Alexandre de Moraes, DJe de 5/11/21;
+ADI nº 6.707/ES, Tribunal Pleno, Rel. Min. Ricardo
+Lewandowski, red. do ac. Min. Gilmar Mendes, DJe de 6/12/21;
+ADI nº 6.704/GO, Tribunal Pleno, Rel. Min. Rosa Weber, DJe de
+17/11/21; ADI nº 6.708/DF, Tribunal Pleno, Rel. Min. Nunes
+Marques, DJe de 2/9/22.
+2. Ao estabelecer a periodicidade das eleições para os
+cargos do poder executivo e do legislativo, a Constituição de
+1988 previu que elas ocorram em data próxima ao início do
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 19 de 33
+
+ADI 7713 MC-R EF / DF
+novo mandato, estabelecendo a contemporaneidade entre a
+eleição e o mandato respectivo (arts. 28; 29, inciso II; 77 e 81, §
+1º, da CF/88). Também as eleições para as mesas das casas
+legislativas federais devem ser contemporâneas ao início do
+respectivo biênio (art. 57, § 4º, da CF/88). Não há no texto
+constitucional nenhuma norma que se assemelhe ao que previu
+o dispositivo questionado, isto é, que antecipe de forma tão
+desarrazoada a escolha de eleitos para um dado mandato e
+concentre em um único momento a escolha de duas “chapas”
+distintas para os mesmos cargos.
+3. A Constituição de 1988 qualifica o voto periódico como
+cláusula pétrea (art. 60, § 4º, inciso II), enquanto mecanismo de
+alternância do poder e de promoção do pluralismo político,
+evitando a perpetuação de determinado grupo por período
+indeterminado. A concentração das eleições de duas chapas
+distintas para os mesmos cargos em um único momento
+suprime o momento político de renovação que deve ocorrer
+após o transcurso de um mandato. Acaba-se por privilegiar o
+grupo político majoritário ou de maior influência no momento
+do pleito único, o qual muito facilmente pode garantir dois
+mandatos consecutivos.
+4. O princípio representativo impõe que o poder político
+seja exercido por representantes que espelhem as forças
+políticas majoritárias na sociedade. Daí que, para cada novo
+mandato, deve haver uma nova manifestação de vontade pelos
+eleitores, em momento próximo ao início do respectivo
+mandato, como forma de garantir que os eleitos refletirão a
+conjuntura presente e os anseios da maioria. No caso em
+análise, a mesa diretora do segundo biênio eleita no início da
+legislatura pode vir a não refletir as forças políticas majoritárias
+presentes no início do respectivo mandato, vulnerando o ideal
+representativo.
+5. Depreende-se da jurisprudência do TSE que o corpo
+eleitoral habilitado a votar no momento que precede o exercício
+do mandato tem o direito constitucional de escolher seu
+governante (art. 1º da Constituição de 1988) (MS nº 47.598, Rel.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 20 de 33
+
+ADI 7713 MC-R EF / DF
+Min. Aldir Passarinho Junior, DJe de 18/6/10; MS nº 4.228/SE,
+Rel. Min. Henrique Neves, DJe de 1º/9/09). O raciocínio aplicase à democracia interna das casas legislativas, sendo certo que
+os parlamentares que compõem a casa legislativa no início do
+segundo biênio têm o direito de decidir acerca da composição
+da respectiva mesa.
+6. Ação direta julgada procedente (ADI 7.350/TO, Rel.
+Min. Dias Toffoli, Tribunal Pleno, DJe 07/05/2024).
+
+Considerando a identidade da questão examinada naquele processo
+com o objeto da presente ação direta - ambas envolvendo
+constitucionalidade de emenda à Constituição de Estado que antecipou a
+eleição para a Mesa Diretora de Assembleia estadual - adoto, para fins do
+julgamento desta ação direta, os judiciosos fundamentos empregados
+pelo relator da ADI 7.350/TO, Ministro Dias Toffoli, que analisou de
+forma verticalizada a controvérsia sub judice:
+Ressalto que não há no texto constitucional, que é o
+documento que organiza o exercício do poder político no Brasil,
+nenhuma norma que se assemelhe ao que previu o dispositivo
+questionado, isto é, que antecipe de forma tão desarrazoada a
+escolha de eleitos para um dado mandato e, mais do que isso,
+concentre em um único momento a escolha de duas ‘chapas’
+distintas para os mesmos cargos. A fórmula é tão inusitada
+quanto evidentemente subversiva de alguns elementos básicos
+dos regimes republicanos e democráticos.
+No regime republicano e democrático vigora um sistema
+de mandatos temporários, viabilizados por eleições periódicas.
+A Constituição de 1988 qualifica o voto periódico como cláusula
+pétrea (art. 60, § 4º, inc. II). Conforme assentado na ADI nº 6230,
+o ‘ideal democrático se firma na temporalidade dos mandatos,
+na renovação’
+e ‘a periodicidade dos mandatos reforça e garante o
+princípio republicano, o qual configura ‘o núcleo essencial da
+Constituição’, a lhe garantir certa identidade e estrutura’ (Rel.
+Min. Ricardo Lewandowski, Tribunal Pleno, DJe de 16/8/22).
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 21 de 33
+
+ADI 7713 MC-R EF / DF
+A eleição periódica é mecanismo de alternância do poder
+político, evitando a perpetuação de determinado grupo por
+período indeterminado.
+No transcorrer de um mandato, as forças políticas se
+reorganizam e outras personalidades ou grupos políticos
+ganham projeção, podendo ascender ao poder pelo voto. Por
+isso a periodicidade dos pleitos é também fundamental para
+promoção do pluralismo político.
+A concentração das eleições de duas ‘chapas’ distintas
+para os mesmos cargos em um único momento enfraquece ou
+mesmo burla a possibilidade de renovação política, pois
+suprime o momento político de renovação que deve ocorrer
+após o transcurso de um mandato. Acaba-se por privilegiar o
+grupo político majoritário ou de maior influência no momento
+do pleito único, o qual muito facilmente pode garantir dois
+mandatos consecutivos.
+No caso dos autos, os riscos aqui cogitados não são
+amenizados pelo § 4º do art. 15 da Constituição estadual, que
+proíbe a recondução dos membros da mesa para qualquer cargo
+na eleição subsequente dentro da mesma legislatura. Esse
+dispositivo não impede, por exemplo, que os eleitos para o
+segundo biênio, embora distintos, integrem o mesmo grupo
+político, majoritário no momento pleito, dos integrantes eleitos
+para o primeiro biênio. Nessa hipótese, estaria caracterizada a
+perpetuação ilegítima do poder.
+Quanto ao ponto, destaco que as mesas da Assembleia
+Legislativa de Tocantins eleitas em 1º/2/22 para os dois biênios
+têm como Presidentes políticos integrantes de um mesmo
+partido político.
+Ademais, o princípio representativo impõe que o poder
+político seja exercido por representantes que espelhem as forças
+políticas majoritárias na sociedade. Daí que, para cada novo
+mandato, deve haver uma nova manifestação de vontade pelos
+eleitores, em momento próximo ao início do respectivo
+mandato, como forma de garantir que os eleitos refletirão a
+conjuntura presente e os anseios da maioria.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 22 de 33
+
+ADI 7713 MC-R EF / DF
+Na situação dos autos, a mesa diretora do segundo
+biênio eleita no início da legislatura pode não vir a refletir as
+forças políticas majoritárias presentes no início do respectivo
+mandato, o que vulnera o ideal representativo. As eleições
+periódicas também viabilizam o controle e a fiscalização dos
+eleitores sobre o exercício dos mandatos. A satisfação ou a
+insatisfação com a forma como é está sendo conduzida a
+política precisa ser manifestada periodicamente, mediante
+chancela ou veto, nas urnas, a candidato, grupo ou orientação
+política.
+Nesse quadro, a antecipação desarrazoada das eleições
+para os cargos da mesa diretora subtrai dos parlamentares o
+poder de controle sobre a direção da assembleia legislativa,
+pois apenas no transcorrer do primeiro biênio seria possível
+avaliar a conjuntura política, realizar o necessário balanço
+entre expectativas e realidade e, a partir disso, decidir acerca
+do que se deseja para o próximo biênio.
+(...)
+A norma questionada também amplifica o poder do corpo
+eleitoral parlamentar presente em 1º de fevereiro do primeiro
+ano da legislatura, como reconhece o requerido em suas
+informações, subtraindo do corpo eleitoral presente no início do
+segundo biênio o direito de eleger a respectiva mesa.
+São possíveis mudanças na composição da casa legislativa,
+em decorrência de afastamentos, licenças ou de perda de
+mandato, não sendo legítimo que a escolha da futura mesa se
+dê por outro corpo de parlamentares que não aquele presente
+no início do segundo biênio.
+(...)
+Especificamente em relação à data exata em que devam
+ocorrer as eleições, registro que esse ponto não foi objeto de
+discussão nesta ação uma vez que foi impugnada a emenda à
+Constituição Estadual que acrescentou ao parágrafo terceiro do
+art. 15 à expressão “para os dois biênios subsequentes”,
+antecipando o momento da eleição relativamente ao biênio
+consecutivo.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 23 de 33
+
+ADI 7713 MC-R EF / DF
+Considerando-se, no entanto, o entendimento desta Casa
+de que o art. 57, § 4º, da Constituição Federal não é norma de
+reprodução obrigatória nas ordens constitucionais regionais e
+que não há dispositivo específico na CRFB sobre a eleição para
+as mesas das assembleias legislativas, entendo que o
+estabelecimento dessa data, desde que atendido o critério da
+contemporaneidade, aqui exposto, bem como da razoabilidade,
+encarta-se no poder de autoconformação dos estados.
+(...)
+Em conclusão, é, pois, cristalina a inconstitucionalidade da
+norma, a qual subverte os princípios republicano e democrático
+em seus aspectos basilares: periodicidade dos pleitos,
+alternância do poder, controle e fiscalização do poder,
+promoção do pluralismo, representação e soberania popular
+(art. 1º, caput, inciso V e parágrafo único; e art. 60, § 4º, inciso II,
+da CF/88).
+Nesse quadro, também deve ser declarada, por
+arrastamento, a inconstitucionalidade da Resolução nº 365, de
+22/12/22, da Assembleia Legislativa. A norma alterou
+dispositivos do Regimento Interno da Casa Legislativa,
+regulamentando a Emenda constitucional nº 48/22 e definindo
+o procedimento pelo qual, no início da legislatura, serão
+eleitas as mesas diretoras da assembleia para os dois biênios.
+Pelo exposto, declaro prejudicado o pedido de
+reconsideração da medida cautelar e julgo procedente a ação
+para: i) declarar a inconstitucionalidade da expressão “para os
+dois biênios subsequentes” do § 3º do art. 15 da Constituição do
+Estado do Tocantins, com a redação conferida pela Emenda à
+Constituição nº 48/22; ii) por arrastamento, declarar a
+inconstitucionalidade da Resolução nº 365, de 22/12/22, da
+Assembleia Legislativa do Estado e iii) anular a eleição da mesa
+diretora do biênio 2025/2026 ocorrida em 1º/2/23.
+
+Em suma, na linha dos precedentes citados, o Supremo Tribunal
+Federal admite a eleição antecipada para a Mesa Diretora do segundo
+biênio da legislatura, mas desde que atendidos os critérios de
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 24 de 33
+
+ADI 7713 MC-R EF / DF
+contemporaneidade e de razoabilidade.
+No caso concreto, a Emenda à Constituição n. 133/2023, do Estado
+do Amazonas, antecipou, para 12/04/2023, a eleição para a Mesa Diretora
+da ALEAM para o biênio de 2025/2026, contrariando, aparentemente, a
+jurisprudência do Supremo Tribunal Federal sobre a matéria em
+discussão.
+Diante do exposto, entendo preenchido o requisito da plausibilidade
+jurídica do pedido (fumus boni iuris) para fins de concessão da medida
+cautelar. Ademais, na espécie, o periculum in mora também está presente,
+pois, conforme pontuado pelo Procurador-Geral da República, “se a
+cautelar não for deferida com abrangência cronológica retroativa, corre-se
+risco de o mérito da demanda somente ser resolvido depois de
+empossada a nova composição da mesa diretora, prematuramente eleita e
+com reeleição vedada pela jurisprudência do Supremo Tribunal Federal,
+com consequências de insegurança jurídica de óbvia percepção” (doc. 52,
+p. 16).
+Portanto, entendo ser o caso de conceder a medida cautelar pleiteada
+pelo requerente e (i) suspender os efeitos da eleição da Mesa Diretora
+para o biênio 2025-2026 realizada em 12/04/2023, e, consequentemente (ii)
+determinar a realização de nova eleição para a Mesa Diretora da
+Assembleia Legislativa do Estado do Amazonas para o biênio 2025-2026.
+Por fim, observo que, recentemente, essa mesma medida foi adotada
+em duas ações diretas com idêntica controvérsia. Faço referência,
+primeiramente, a decisão prolatada na ADI 7.734-MC/SE, datada de
+14/10/2024, em que o Relator Ministro Alexandre de Moraes concedeu a
+medida cautelar para suspender a eleição antecipada para a Mesa
+Diretora da Assembleia Legislativa do Estado do Sergipe. No mesmo
+sentido, na ADI 7.737-MC/PE, o Relator Ministro Flávio Dino, em
+22/10/2024, concedeu a medida cautelar para suspender a eleição
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 25 de 33
+
+ADI 7713 MC-R EF / DF
+antecipada para a Mesa Diretora da Assembleia Legislativa do Estado de
+Pernambuco.
+Posto isso, voto pelo referendo da medida cautelar para (i)
+suspender os efeitos da eleição da Mesa Diretora para o biênio 2025-2026
+realizada em 12/04/2023; e (ii) determinar que a Assembleia Legislativa do
+Estado do Amazonas realize novas eleições para a Mesa Diretora do
+biênio 2025/2026, cuja data deverá ser definida pela própria Assembleia,
+dentro dos parâmetros fixados pela jurisprudência do Supremo Tribunal
+Federal.
+É como voto.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E7B3-AFE6-E3E2-D583 e senha BAA7-1F00-363F-96F9
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 26 de 33
+
+27/11/2024
+
+PLENÁRIO
+
+REFERENDO NA MEDIDA CAUTELAR NA AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE 7.713 DISTRITO FEDERAL
+RELATOR
+REQTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: PARTIDO NOVO
+: RODRIGO BORDALO RODRIGUES
+: SERGIO ROBERTO BULCÃO BRINGEL JUNIOR
+: ASSEMBLEIA
+LEGISLATIVA
+DO
+ESTADO
+DO AMAZONAS
+: PROCURADOR-GERAL
+DA
+ASSEMBLEIA
+LEGISLATIVA DO ESTADO DO AMAZONAS
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES: Trata-se de
+julgamento de referendo de medida cautelar concedida nos autos de Ação
+Direta proposta pelo Partido Novo contra a EC à Constituição do
+Amazonas 133/2023 e, por arrastamento, da Resolução Legislativa
+965/2023, que dispõem sobre a eleição de mesa diretora da Assembleia
+Legislativa do Amazonas. Eis o teor dos dispositivos impugnados:
+Emenda à Constituição do Estado do Amazonas n.º
+133/2023
+“A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA
+DO ESTADO DO AMAZONAS, no uso de atribuições que lhe
+são conferidas pelo art. 32, § 3º, da Constituição do Estado, faz
+saber aos que a presente virem que promulga a seguinte
+EMENDA CONSTITUCIONAL:
+Art. 1º O inciso II do § 4º do art. 29 da Constituição
+Estadual passa a vigorar com a seguinte alteração:
+‘II – no curso do primeiro biênio da legislatura, para eleger
+a Mesa Diretora para o biênio subsequente, em reunião
+especialmente convocada para esse fim, na forma que dispuser
+o Regimento Interno;’ (NR)
+Art. 2º Para efeito do disposto no art. 21, § 3º, da
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B59C-D316-49E8-73F8 e senha 8F1C-BDB1-C370-9502
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 27 de 33
+
+ADI 7713 MC-R EF / DF
+Constituição Estadual, é permitida uma única recondução dos
+membros da Mesa Diretora para o mesmo cargo,
+independentemente se ocorrida na mesma legislatura ou em
+legislaturas subsequentes.
+Parágrafo único. O limite estabelecido no caput aplica-se
+somente às eleições realizadas após a data de publicação da ata
+de julgamento da ADI 6.524 do STF, de modo que não serão
+consideradas, para fins de inelegibilidade, as composições
+eleitas antes de 08/01/2021.
+Art. 3º Esta Emenda Constitucional entra em vigor na data
+de sua publicação”.
+
+Em linhas gerais, a requerente afirma que o dispositivo impugnado
+viola os princípios democrático e republicano, pois antecipa, de forma
+indevida, as eleições para o segundo biênio da legislatura da Mesa
+Diretora da Assembleia Legislativa do Estado do Amazonas, o que
+comprometeria a periodicidade e a contemporaneidade do processo de
+escolha da mesa diretora.
+O Ministro Relator concedeu medida cautelar para “(i) suspender os
+efeitos da eleição da Mesa Diretora para o biênio 2025-2026 realizada em
+12/04/2023; e (ii) determinar que a Assembleia Legislativa do Estado do
+Amazonas realize novas eleições para a Mesa Diretora do biênio 2025/2026, cuja
+data deverá ser definida pela própria Assembleia, dentro dos parâmetros fixados
+pela jurisprudência do Supremo Tribunal Federal”.
+Essa decisão é agora submetida a referendo do Pleno, em ambiente
+virtual (SV de 15 a 26/11/2024).
+É o relatório.
+De início, indico que ACOMPANHO o voto proferido pelo Ministro
+Relator, no sentido do REFERENDO DA MEDIDA CAUTELAR
+concedida nos autos da presente Ação Direta.
+Conforme me manifestei em Ação Direta proposta pelo Requerente
+contra norma idêntica do Estado de Sergipe (ADI 7734, decisão de
+16/10/2024, sob referendo do Pleno na Sessão Virtual de 8 a 18/11/2024), o
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B59C-D316-49E8-73F8 e senha 8F1C-BDB1-C370-9502
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 28 de 33
+
+ADI 7713 MC-R EF / DF
+SUPREMO TRIBUNAL FEDERAL apreciou a validade de inúmeras
+normas de Constituições locais e Regimentos de Assembleias Legislativas
+que permitiam sucessivas e ilimitadas reconduções de membros das
+Mesas Diretoras de cada Casa Legislativa, contexto no qual tomou
+conhecimento da prática institucional de antecipação do processo de
+eleição da Mesa Diretora, em muitos casos ocorrendo o pleito simultâneo,
+ao início da legislatura, para escolha da composição da Mesa Diretora nos
+dois biênios consecutivos daquela mesma legislatura.
+Firmou-se a interpretação constitucionalmente adequada das
+normas sobre sucessão das Mesas Diretoras, à luz dos princípios
+democrático e republicano, no sentido da possibilidade uma única
+recondução ao mesmo cargo, independentemente de se tratar de sucessão
+dentro da legislatura, ou para a legislatura seguinte.
+Esse entendimento, inclusive, foi ampliado para aplicação aos
+processos eletivos das Câmaras Municipais e Tribunais de Contas.
+Merece registro que, no curso do julgamento desses precedentes, a
+CORTE, defrontada com casos de antecipação da realização de eleições
+para a composição da Mesa Diretora para o segundo biênio da
+legislatura, apontou a impropriedade desse expediente, em vista de
+tentativas de burla à aplicação do novo entendimento jurisprudencial
+então estabelecido (e da respectiva modulação de efeitos, conforme
+critério temporal vinculado ao julgamento da ADI 6127).
+E, em momento posterior, a CORTE pronunciou-se expressamente
+quanto à inconstitucionalidade da antecipação de eleições, conforme
+precedente indicado pelo Requerente (ADI 7350, Rel. Min. DIAS
+TOFFOLI, Tribunal Pleno, julgado em 11/3/2024), assim ementado:
+“EMENTA Ação direta de inconstitucionalidade. Medida
+cautelar. Referendo. Conversão. Julgamento de mérito. Emenda
+nº 48/22 à Constituição do Estado do Tocantins. Eleições
+concomitantes da mesa diretora da Assembleia Legislativa para
+o primeiro e o segundo biênios. Inconstitucionalidade. Violação
+dos princípios republicano e democrático. Ação direta julgada
+procedente.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B59C-D316-49E8-73F8 e senha 8F1C-BDB1-C370-9502
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 29 de 33
+
+ADI 7713 MC-R EF / DF
+1. O Supremo Tribunal Federal pacificou que os estados
+não estão totalmente livres para definirem qualquer forma de
+eleição para os cargos diretivos dos respectivos parlamentos,
+devendo observar as balizas impostas pelos princípios
+republicano e democrático. Do mesmo modo, a autonomia dos
+estados na definição do momento em que devem ocorrer as
+eleições para os cargos de suas mesas deve ser exercida dentro
+das balizas constitucionais. Precedentes: ADI nº 6.685/MA,
+Tribunal Pleno, Rel. Min. Alexandre de Moraes, DJe de 5/11/21;
+ADI nº 6.707/ES, Tribunal Pleno, Rel. Min. Ricardo
+Lewandowski, red. do ac. Min. Gilmar Mendes, DJe de 6/12/21;
+ADI nº 6.704/GO, Tribunal Pleno, Rel. Min. Rosa Weber, DJe de
+17/11/21; ADI nº 6.708/DF, Tribunal Pleno, Rel. Min. Nunes
+Marques, DJe de 2/9/22.
+2. Ao estabelecer a periodicidade das eleições para os
+cargos do poder executivo e do legislativo, a Constituição de
+1988 previu que elas ocorram em data próxima ao início do
+novo mandato, estabelecendo a contemporaneidade entre a
+eleição e o mandato respectivo (arts. 28; 29, inciso II; 77 e 81, §
+1º, da CF/88). Também as eleições para as mesas das casas
+legislativas federais devem ser contemporâneas ao início do
+respectivo biênio (art. 57, § 4º, da CF/88). Não há no texto
+constitucional nenhuma norma que se assemelhe ao que previu
+o dispositivo questionado, isto é, que antecipe de forma tão
+desarrazoada a escolha de eleitos para um dado mandato e
+concentre em um único momento a escolha de duas “chapas”
+distintas para os mesmos cargos.
+3. A Constituição de 1988 qualifica o voto periódico como
+cláusula pétrea (art. 60, § 4º, inciso II), enquanto mecanismo de
+alternância do poder e de promoção do pluralismo político,
+evitando a perpetuação de determinado grupo por período
+indeterminado. A concentração das eleições de duas chapas
+distintas para os mesmos cargos em um único momento
+suprime o momento político de renovação que deve ocorrer
+após o transcurso de um mandato. Acaba-se por privilegiar o
+grupo político majoritário ou de maior influência no momento
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B59C-D316-49E8-73F8 e senha 8F1C-BDB1-C370-9502
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 30 de 33
+
+ADI 7713 MC-R EF / DF
+do pleito único, o qual muito facilmente pode garantir dois
+mandatos consecutivos.
+4. O princípio representativo impõe que o poder político
+seja exercido por representantes que espelhem as forças
+políticas majoritárias na sociedade. Daí que, para cada novo
+mandato, deve haver uma nova manifestação de vontade pelos
+eleitores, em momento próximo ao início do respectivo
+mandato, como forma de garantir que os eleitos refletirão a
+conjuntura presente e os anseios da maioria. No caso em
+análise, a mesa diretora do segundo biênio eleita no início da
+legislatura pode vir a não refletir as forças políticas majoritárias
+presentes no início do respectivo mandato, vulnerando o ideal
+representativo.
+5. Depreende-se da jurisprudência do TSE que o corpo
+eleitoral habilitado a votar no momento que precede o exercício
+do mandato tem o direito constitucional de escolher seu
+governante (art. 1º da Constituição de 1988) (MS nº 47.598, Rel.
+Min. Aldir Passarinho Junior, DJe de 18/6/10; MS nº 4.228/SE,
+Rel. Min. Henrique Neves, DJe de 1º/9/09). O raciocínio aplicase
+à democracia interna das casas legislativas, sendo certo que os
+parlamentares que compõem a casa legislativa no início do
+segundo biênio têm o direito de decidir acerca da composição
+da respectiva mesa.
+6. Ação direta julgada procedente”.
+
+O precedente deve ser aplicado a todos os demais Estados-membros
+que adotaram regras semelhantes em relação à escolha da Mesa Diretora
+de suas Assembleias Legislativas.
+Os processos eleitorais, como instrumentos de realização dos
+princípios republicano e democrático devem ser compreendidos em
+conjunto com certos condicionantes associados ao sufrágio direto, tais
+como a temporalidade dos mandatos, a periodicidade, a pluralidade de
+candidatos e a alternância entre eles. Ou seja, além do sufrágio, há um
+entorno de situação que influenciam a capacidade dos processos
+eleitorais produzirem o efeito desejado pela Constituição, que é a
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B59C-D316-49E8-73F8 e senha 8F1C-BDB1-C370-9502
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 31 de 33
+
+ADI 7713 MC-R EF / DF
+condução democrática dos assuntos públicos.
+Essa compreensão aprofundada do princípio democrático impôs,
+nos julgamentos acima referidos, a limitação da possibilidade de
+recondução dos mesmos candidatos a cargos já ocupados, sob a
+perspectiva do pluralismo político e da alternância de poder.
+Em sentido semelhante, a CORTE realçou o requisito da
+CONTEMPORANEIDADE entre o pleito (oportunidade em que realizado
+o sufrágio) e o momento em que o cargo e função serão efetivamente
+exercidos, com consequência lógica da ideia de PERIODICIDADE.
+Se a duração dos mandatos é estabelecida pela própria Constituição
+(art. 57, § 4º, CF), há que se reconhecer que essa decisão também vincula
+as normas eleitorais relacionadas ao processo de escolha dos candidatos.
+Mandatos menores, como o biênio conferido a cada Mesa Diretora,
+implicam uma decisão por certo nível de temporalidade e alternância,
+diversas da que resultaria, por exemplo, de um mandato quadrienal.
+E admitir que esse processo ocorra em momento afastado do efetivo
+início do mandato teria o efeito indevido de permitir que um processo
+eleitoral influenciasse o processo cronologicamente subsequente, ou que
+os mesmos ocorressem em paralelo, ou se resolvessem por um mesmo
+acordo político.
+É da essência de processos eleitorais periódicos que cada ciclo
+eleitoral tenha início e fim bem delimitados e que sejam eles mediados
+pelo efetivo exercício do mandato, a permitir que o desempenho do
+agente público incumbente seja escrutinado pelo eleitorado e oriente o
+exercício do sufrágio. A sobreposição de processos eleitorais subverte essa
+dialogicidade entre pleito e exercício da função, sugerindo a ideia de
+“partilha do poder” entre os interessados, desvinculada de uma avaliação
+sobre o desempenho e resultados verificados no mandato anterior.
+Veja-se que os processos eleitorais mais extensamente regulados
+diretamente pelo texto constitucional, como aqueles destinados à escolha
+dos chefes dos Poderes Executivos e da composição dos Poderes
+Legislativos de todos os níveis, há expressa indicação dos marcos
+temporais nos quais o processo eleitoral deve ocorrer, sempre
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B59C-D316-49E8-73F8 e senha 8F1C-BDB1-C370-9502
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 32 de 33
+
+ADI 7713 MC-R EF / DF
+referenciados em relação ao início do mandato respectivo.
+Nesse sentido, em relação aos cargos executivos, os arts. 77, 28 e 29
+da CF, considerando ainda a hipótese excepcional do art. 81 (dupla
+vacância definitiva), na qual também é assinalada a necessidade de
+brevidade no processo eleitoral. Os cargos legislativos, de igual modo,
+Assim, tanto quanto seja prática e operacionalmente possível, o
+desejável é a investidura da pessoa eleita em momento próximo e
+posterior à eleição.
+A opção do legislador local, no caso em exame, desviou-se disso ao
+fixar com excessiva flexibilidade os limites temporais para a eleição da
+Mesa Diretora no segundo biênio da legislatura.
+Impõe-se assim, à falta de opção expressa do legislador local, e com
+o objetivo de preservar a observância dos princípios republicano e
+democrático no âmbito do Poder Legislativo estadual, a adoção do marco
+temporal referido no art. 77, caput, da CF, na linha do precedente
+específico da CORTE sobre a matéria (ADI 7350).
+Em vista do exposto, ACOMPANHO O MINISTRO RELATOR e
+voto pelo REFERENDO da medida cautelar concedida.
+É o voto.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B59C-D316-49E8-73F8 e senha 8F1C-BDB1-C370-9502
+
+Supremo Tribunal Federal
+Extrato de Ata - 27/11/2024
+
+Inteiro Teor do Acórdão - Página 33 de 33
+
+PLENÁRIO
+EXTRATO DE ATA
+REFERENDO NA MEDIDA CAUTELAR NA AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE 7.713
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. CRISTIANO ZANIN
+REQTE.(S) : PARTIDO NOVO
+ADV.(A/S) : RODRIGO BORDALO RODRIGUES (A1871/AM, 183508/SP)
+ADV.(A/S) : SERGIO ROBERTO BULCÃO BRINGEL JUNIOR (14182/AM)
+INTDO.(A/S) : ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+ADV.(A/S) : PROCURADOR-GERAL DA ASSEMBLEIA LEGISLATIVA DO ESTADO
+DO AMAZONAS
+Decisão: O Tribunal, por unanimidade, referendou a decisão que
+concedeu a medida cautelar para (i) suspender os efeitos da
+eleição da Mesa Diretora para o biênio 2025-2026 realizada em
+12/04/2023; e (ii) determinar que a Assembleia Legislativa do
+Estado do Amazonas realize novas eleições para a Mesa Diretora do
+biênio 2025/2026, cuja data deverá ser definida pela própria
+Assembleia, dentro dos parâmetros fixados pela jurisprudência do
+Supremo Tribunal Federal. Tudo nos termos do voto do Relator.
+Plenário, Sessão Virtual de 15.11.2024 a 26.11.2024.
+Composição: Ministros Luís Roberto Barroso (Presidente),
+Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Edson Fachin,
+Alexandre de Moraes, Nunes Marques, André Mendonça, Cristiano
+Zanin e Flávio Dino.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1F84-60B8-AE79-B597 e senha 2F67-8DE7-6F2E-DF6B
