@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, para dar parcial provimento ao recurso especial da União, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SEGUNDOS EMBARGOS DE DECLARAÇÃO. FUNDEF. HONORÁRIOS. RETENÇÃO. INCIDÊNCIA SOBRE PARCELA ALUSIVA A JUROS DE MORA EM PRECATÓRIOS. POSSIBILIDADE. ADPF 528. OMISSÃO VERIFICADA. EFEITOS INFRINGENTES. RECURSO ESPECIAL PROVIDO EM PARTE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. A matéria suscitada após o julgamento da ADPF n. 528 não foi examinada no acórdão embargado, configurando a omissão.
+2. O julgado vinculante do STF permitiu a retenção da parcela de juros moratórios alusiva a precatórios decorrentes de verbas do FUNDEB/FUNDEF para fins sucumbenciais.
+3. O montante e viabilidade concreta da retenção deve ser apurada pela origem em liquidação.
+4. Embargos de declaração acolhidos, com efeitos modificativos, para dar provimento apenas parcial ao recurso especial da União.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, segundos embargos de declaração opostos por MUNICÍPIO DE LIVRAMENTO contra acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. RETENÇÃO DA VERBA HONORÁRIA. CRÉDITO RELATIVO A DIFERENÇAS DO FUNDO DE MANUTENÇÃO E DE DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO - FUNDEF. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA.
+1. Acórdão embargado que expôs satisfatoriamente as razões pelas quais esta Corte se convenceu de que seria ilegítima a retenção da verba honorária devida ao patrono, por implicar tal medida em violação do disposto no art. 60 do ADCT, c/c os arts. 2º da Lei n. 9.424/1996 e 11 da Lei n. 11.494/2007, que dispõem que os recursos integrantes do FUNDEF/FUNDEB devem ser aplicados exclusivamente no custeio da educação básica e na valorização do seu magistério.
+2. Pretensão de rediscussão de matéria já devidamente analisada, situação que não se coaduna com a estreita via dos aclaratórios.
+3. Embargos de declaração rejeitados.
+Sustenta a parte embargante, em suma, a ocorrência de omissão quanto à possibilidade de retenção dos honorários sobre os juros de mora relativos a parcelas do FUNDEF em precatórios, nos termos de julgado vinculante (ADPF n. 528).
+Houve impugnação.
+O feito tramita na Primeira Seç ão, nos termos do art. 14, II, do RISTJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SEGUNDOS EMBARGOS DE DECLARAÇÃO. FUNDEF. HONORÁRIOS. RETENÇÃO. INCIDÊNCIA SOBRE PARCELA ALUSIVA A JUROS DE MORA EM PRECATÓRIOS. POSSIBILIDADE. ADPF 528. OMISSÃO VERIFICADA. EFEITOS INFRINGENTES. RECURSO ESPECIAL PROVIDO EM PARTE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. A matéria suscitada após o julgamento da ADPF n. 528 não foi examinada no acórdão embargado, configurando a omissão.
+2. O julgado vinculante do STF permitiu a retenção da parcela de juros moratórios alusiva a precatórios decorrentes de verbas do FUNDEB/FUNDEF para fins sucumbenciais.
+3. O montante e viabilidade concreta da retenção deve ser apurada pela origem em liquidação.
+4. Embargos de declaração acolhidos, com efeitos modificativos, para dar provimento apenas parcial ao recurso especial da União.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Tem razão a parte embargante.
+O STF, em julgamento vinculante, afirmou a possibilidade de retenção dos honorários sobre a parcela de juros moratórios incidentes sobre precatórios do FUNDEB/FUNDEF, ante a autonomia das verbas. A questão foi suscitada antes do julgamento dos aclaratórios, porém não respondida no acórdão.
+Nesse contexto, esta Corte vem aplicando o precedente do STF. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. RETENÇÃO DA VERBA HONORÁRIA. CRÉDITO RELATIVO A DIFERENÇAS DO FUNDO DE MANUTENÇÃO E DE DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO - FUNDEF. IMPOSSIBILIDADE. JULGAMENTO DA ADPF 528 PELO STF. RESSALVA QUANTO AOS JUROS DE MORA. RECURSO PROVIDO.
+ ..
+3. Em relação à possibilidade de pagamento dos honorários contratuais, recentemente o STF julgou a ADPF 528 nestes termos: "O Tribunal, por unanimidade, julgou improcedente a arguição de descumprimento de preceito fundamental, declarando constitucional o Acórdão 1.824/2017 do Tribunal de Contas da União, que (..) e 2) vedou o pagamento de honorários advocatícios contratuais com recursos alocados no FUNDEF/FUNDEB, ressalvado o pagamento de honorários advocatícios contratuais valendo-se da verba correspondente aos juros de mora incidentes sobre o valor do precatório devido pela União em ações propostas em favor dos Estados e dos Municípios, nos termos do voto do Relator. Os Ministros Ricardo Lewandowski, Gilmar Mendes e Roberto Barroso, apesar de também julgarem improcedente a ação, fizeram ressalvas em seus votos para consignar que apenas naquelas situações relacionadas à atuação de advogados que ingressaram com ações de conhecimento individuais em favor de dado Município, seria legítimo o destaque do valor dos honorários advocatícios (art. 22, § 4º, da Lei 8.906/1994) da quantia a ser recebida pelo respectivo ente municipal a título de complementação aos fundos educacionais, bem como dos respectivos juros de mora".
+4. Extrai-se do voto do Relator, Ministro Alexandre de Moraes, o reconhecimento da inconstitucionalidade do pagamento de honorários contratuais com Recursos do FUNDEB, com a ressalva de que, dada a autonomia da parcela relativa aos juros de mora, o "pagamento de honorários advocatícios contratuais pelos Municípios valendo-se tão somente da verba correspondente aos juros moratórios incidentes no valor do precatório devido pela União é CONSTITUCIONAL".
+5. Assim, cabe pagamento de honorários advocatícios contratuais pelos Municípios valendo-se tão somente da verba correspondente aos juros moratórios incidentes no valor do precatório devido pela União, nos termos do decidido pelo STF na ADPF 528. A propósito: AgInt no AgInt nos EDcl no REsp n. 1.833.293/CE, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 20/12/2023, EDcl no AgInt no REsp n. 1.868.269/CE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 26/10/2023, AgInt nos EDcl no REsp n. 1.981.319/AL, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 30/9/2022 e EDcl no AgInt no REsp 1.866.186/DF, Rel. Min. Og Fernandes, Segunda Turma, DJe 3.5.2022.
+6. Agravo Interno provido para dar parcial provimento ao Recurso Especial. Dito isso, devem os autos retornar ao Tribunal local a fim de verificar se há, na hipótese fática dos autos, possibilidade de retenção das referidas verbas e em qual montante (AgInt no REsp n. 1.999.907/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/2/2024, DJe de 7/5/2024).
+Assim, o caso é de acolhimento dos embargos com efeitos infringentes, para tornar parcial o atendimento da pretensão da parte embargada, ressalvando a possibilidade de retenção da parcela alusiva a juros de mora para fins sucumbenciais, no quanto a ser apurado na origem .
+Isso posto, acolho os embargos de declaração, com efeitos infringentes, para dar provimento apenas parcial ao recurso especial da União, ressalvando a possibilidade de retenção de valores relacionados a juros de mora de transferências do FUNDEB/FUNDEF, nos termos da ADPF n. 528, no montante e forma a ser definida pela origem, em liquidação.
