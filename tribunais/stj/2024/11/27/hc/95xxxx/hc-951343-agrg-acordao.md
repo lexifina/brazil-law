@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. ESCOLHA DA FRAÇÃO. QUANTIDADE DE DROGAS APREENDIDAS. POSSIBILIDADE. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Quanto ao critério de escolha da fração redutora, a quantidade, a natureza e a variedade das drogas constituem fundamento idôneo para justificar a fixação da minorante do § 4º do art. 33 da Lei n. 11.343/2006, em patamar inferior ao máximo legal. Precedentes.
+3. Por fim, tendo em vista que a pena não foi redimensionada, e sendo superior a 4 anos de reclusão, não há se falar em alteração do regime, fixado no semiaberto, bem como em substituição da pena privativa de liberdade por restritivas de direitos.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por KAIC DOUGLAS DA SILVA BARBOSA contra decisão de minha lavra, pela qual não conheci o habeas corpus (e-STJ fls. 56/60).
+Consta dos autos que o paciente foi condenado como incurso no art. 33 da Lei n. 11.343/2006 e no art. 329, n/f do art. 69, todos do Código Penal, à pena de 4 anos, 2 meses de reclusão, em regime inicial semiaberto, 2 meses e 10 dias de detenção, em regime aberto (e-STJ fls. 28/35).
+Interposta apelação, o Tribunal local negou provimento ao recurso defensivo, mantendo a condenação nos termos proferidos na sentença (e-STJ fls. 36/41).
+No presente writ (e-STJ fls. 3/12), o impetrante alega que o paciente está sofrendo constrangimento ilegal, uma vez que a fração da redutora não foi fixado no patamar máximo de 2/3. Argumenta que o paciente é primário, não ostenta maus antecedentes e as circunstâncias judiciais, não havendo fundamentos para fixar a fração em 1/6.
+Em consequência do redimensionamento, pugna pela alteração de regime e substituição da pena privativa de liberdade por restritivas de direitos.
+Dessa forma, requer, na liminar e no mérito, a concessão da ordem para fixar a fração da redutora em 2/3, modificar o regime e substituir a pena privativa de liberdade por restritivas de direitos.
+Em decisão acostada às e-STJ fls. 56/60, este Relator não conheceu da impetração.
+Em seu agravo (e-STJ fls. 67/76), o agravante reafirma a insurgência referente à fixação da fração, em razão da redutora do tráfico, no patamar mínimo de 1/6. Afirma que a quantidade de drogas deve ser utilizada na primeira fase da dosimetria e não como critério de escolha para a fração da minorante do tráfico. Em razão do redimensionamento da pena, pugna pela alteração de regime.
+Pleiteia, assim, a reconsideração da decisão agravada ou, caso contrário, sua submissão ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. ESCOLHA DA FRAÇÃO. QUANTIDADE DE DROGAS APREENDIDAS. POSSIBILIDADE. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Quanto ao critério de escolha da fração redutora, a quantidade, a natureza e a variedade das drogas constituem fundamento idôneo para justificar a fixação da minorante do § 4º do art. 33 da Lei n. 11.343/2006, em patamar inferior ao máximo legal. Precedentes.
+3. Por fim, tendo em vista que a pena não foi redimensionada, e sendo superior a 4 anos de reclusão, não há se falar em alteração do regime, fixado no semiaberto, bem como em substituição da pena privativa de liberdade por restritivas de direitos.
+4. Agravo regimental não provido.
+VOTO
+A despeito das alegações do agravante, entendo que a decisão impugnada deve ser mantida por seus próprios fundamentos.
+Busca-se, no caso, a concessão da ordem para fixar a fração da redutora em 2/3, modificar o regime e substituir a pena privativa de liberdade por restritivas de direitos.
+Sabe-se que a aplicação da redutora prevista no art. 33, § 4º, da Lei n. 11.343/2006 demanda o preenchimento de quatro requisitos cumulativos, quais sejam, primariedade, bons antecedentes, não se dedicar a atividades criminosas e não integrar organização criminosa.
+No caso, a minorante foi aplicada na fração de 1/6 pelo juízo de primeiro grau com base nos seguintes fundamentos (e-STJ fls. 33/34 ):
+Na terceira fase, não há causas de aumento de pena. Em relação à causa de diminuição de pena do Art. 33, §4º, da Lei nº 11.343/06, de fato, a elevada quantidade de drogas apreendida com o acusado é um indicativo de que se trataria de indivíduo com dedicação habitual ao tráfico de drogas. Ocorre que, para além disso, não há outros elementos de prova que suportemtal alegação.
+O acusado é primário e não registra quaisquer antecedentes (fls. 45) nem mesmo quando adolescente (fls. 47). Informes anônimos recebidos pelos policiais militares, acerca do envolvimento com o tráfico de drogas, são insuficientes para afastar a minorante. Por fim, o acusado confessou delito de elevada gravidade, devendo assim ser conferida alguma credibilidade à sua narrativa também na parte em que esclareceu ter sido a primeira oportunidade na qual transportou entorpecentes para o tráfico de drogas.
+Assim, mas considerando a elevada quantidade de drogas apreendida com o acusado, 04 (quatro) tijolos de Maconha, pesando um quilo e novecentos e cinquenta e quatro gramas, valorada apenas nesta etapa, de forma a evitar o bis in idem, reduzo a reprimenda em 1/6.
+(um sexto) para 04 anos e 02 meses de reclusão e 416 dias-multa.
+Veja-se, no caso, que o juízo de primeiro grau fundamentou a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6, salientando, para tanto,a da quantidade de droga - 1,954 kg de maconha.
+É cediço que a quantidade e a natureza das drogas constituem fundamento idôneo para justificar a fixação da minorante do § 4º do art. 33 da Lei n. 11.343/2006, em patamar inferior ao máximo legal. Assim, não há se falar em ilegalidade na aplicação da fração em 1/6.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. PERCENTUAL DE REDUÇÃO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. ATENUANTE DA CONFISSÃO. SÚMULA N. 231 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O disposto no art. 33, § 4º, da Lei de Drogas prevê apenas os requisitos necessários para a aplicação da minorante nela prevista;
+deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+2. O magistrado, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso.
+3. Na espécie, a instância de origem fundamentou, dentro do seu livre convencimento motivado e com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6; assim não há falar em violação do art. 33, § 4º, da Lei n. 11.343/2006.
+4. A pena-base foi fixada no acima do mínimo legal e, após, foi reduzida para o mínimo pela incidência da atenuante da confissão, pois a sanção não pode ser reduzida para aquém desse patamar. Esse é o entendimento firmado por esta Corte e consolidado na Súmula n. 231, "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal."
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.482.132/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/8/2024, DJe de 19/8/2024.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (§ 4º DO ART. 33 DA LEI N. 11.343/06). QUANTUM DE REDUÇÃO. FRAÇÃO MÍNIMA (1/6). POSSIBILIDADE. NATUREZA E QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. ART. 42 DA LEI N. 11.343/06. REGIME. DEVIDAMENTE FUNDAMENTADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O art. 42 da Lei n. 11.343/2006 é expresso ao afirmar: "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto". No caso, a fundamentação apresentada pelas instâncias ordinárias está de acordo com o disposto no art. 42 da Lei n. 11.343/06, bem como com a jurisprudência desta Corte, a qual possui o entendimento de que a quantidade e a natureza das drogas podem justificar a aplicação do § 4º em fração inferior a 2/3. Na hipótese, foram apreendidas 45 porções de cocaína (50 g), tendo a Corte estadual, inclusive, ressaltado que, considerando as circunstâncias do delito, a minorante sequer deveria ter sido aplicada, não alterando a sentença nesse ponto tão somente pela falta de recurso da acusação.
+3. A quantidade e a natureza da droga demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena.
+4. Habeas corpus não conhecido.
+(HC 584.047/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 30/06/2020)
+Quanto ao pleito de que a quantidade de drogas deve ser considerada na primeira fase da dosimetria e não na terceira, verifico que trata-se de inovação recursal, não tendo a tese sido apresentada no habeas corpus.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO MAJORADO PELO REPOUSO NOTURNO E QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO E CONCURSO DE PESSOAS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. PRESCRIÇÃO. ART. 115 DO CÓDIGO PENAL. AUSÊNCIA DE DOCUMENTOS COMPROBATÓRIOS. INOVAÇÃO RECURSAL. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Não se aplica o princípio da insignificância ao furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de pessoas, durante o repouso noturno, dada a especial reprovabilidade da conduta.
+III - Nos termos da jurisprudência desta eg. Corte Superior, " ..  tendo o furto sido praticado mediante o concurso de pessoas e durante o repouso noturno, resta demonstrada maior reprovabilidade da conduta, o que torna incompatível a aplicação do Princípio da Insignificância. Precedentes" (AgRg no HC n. 792.160/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/4/2023).
+IV - Da jurisprudência deste Superior Tribunal, colhe-se o entendimento segundo o qual "É inviável a análise de matéria não suscitada no recurso especial e apresentada posteriormente, em agravo regimental e/ou embargos de declaração, caracterizando inovação recursal" (AgRg no REsp n. 1.882.601/PR, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 12/03/2021).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.922.432/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/5/2023, DJe de 2/6/2023.)
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. DETRAÇÃO PENAL. TEMPO DE PRISÃO CAUTELAR. INOVAÇÃO PROCESSUAL E IRRELEVÂNCIA. PENA-BASE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME INALTERADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O pedido de detração da pena não foi objeto do recurso especial interposto, configurando inovação recursal, vedada em sede de embargos de declaração.
+2. Além disso, mesmo que esta Corte pudesse descontar o período de prisão preventiva do embargante, o regime inicial semiaberto subsistiria, uma vez que não foi ele fixado, exclusivamente, com base no quantum de sanção imposta. No caso concreto, a fixação do regime prisional semiaberto fundamentou-se na presença de circunstância judicial negativa, consistente na quantidade e natureza das drogas apreendidas.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.222.418/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/4/2023, DJe de 5/5/2023.)
+Por fim, tendo em vista que a pena não foi redimensionada, e sendo superior a 4 anos de reclusão, não há se falar em alteração do regime, fixado no semiaberto, bem como em substituição da pena privativa de liberdade por restritivas de direitos.
+Dessa forma, uma vez que a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça e na legislação penal, não vislumbro constrangimento ilegal apto a justificar a atuação desta Corte, de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
