@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MARCOS LOURENÇO SILVA JUNIOR contra acórdão da Segunda Câmara Criminal do Tribunal de Justiça do Rio de Janeiro, no HC n. 0034708-37.2024.8.19.0000, assim ementado:
+HABEAS CORPUS. Paciente denunciado pelos crimes do art. 332, p. único; art. 304, c/c art. 299 (5x); e art. 344 (3x), todos do CP, n/f do art. 69 do CP. Alegação de trancamento da ação penal, inépcia da denúncia e nulidade da AIJ por não ter cometido os crimes alegados, por ter havido inversão de testemunhas, devendo as vítimas serem ouvidas antes e porque a testemunha Wanderlei foi ouvida como informante, acarretando cerceamento de defesa. Trancamento da ação penal e inépcia da denúncia que já foram matérias analisadas no HC 0006833- 92.2024.8.19.0000. Não conhecimento nesta parte do writ. Nulidade inexistente. Decisão bem fundamentada. Vítimas que não foram localizadas, não podendo ser intimadas. Desistência do MP de sua oitiva. Defesa que insistiu na oitiva. Desqualificação de vítima para testemunha. Ausência de nulidade na inversão. Impossibilidade de análise do conteúdo da prova pela via oblíqua do habeas corpus. Testemunha Wanderlei que demonstrou vínculo com um dos acusados, sendo ouvida como informante. Inexistência de nulidade. Ausência de demonstração pela Defesa do paciente de que restou impossibilitada de acesso aos vídeos e áudios das audiências no sistema P Je Mídias. CONHECIMENTO EM PARTE DO WRIT E, NESTA PARTE, PELA DENEGAÇÃO DA ORDEM. (e-STJ, fl. 285)
+Em seu arrazoado, o recorrente aponta preliminar de nulidade na audiência de instrução e julgamento, uma vez que a Juíza teria alterado a categoria de testemunha para mero informante.
+Aponta, ainda, inépcia da denúncia e falta de justa causa para a ação penal.
+Requer o trancamento da Ação Penal n. 0833162- 33.2023.8.19.0004.
+Foram apresentadas contrarrazões (e-STJ, fls. 413-423).
+Sem pedido liminar e sem informações, o Ministério Público opinou pelo não conhecimento ou pelo desprovimento do recurso (e-STJ, fls. 3080-3084).
+É o relatório.
+Decido.
+De antemão, não se conhece da pretensão de trancamento da ação penal por inépcia da denúncia e ausência de justa causa, por se tratar a questão de mera reiteração de pedido já analisado no âmbito deste Superior Tribunal de Justiça, no julgamento do HC n. 903.554-RJ. O Tribunal a quo, a propósito, bem referiu que a questão já havia sido apreciada por aquela Corte, no HC n. 0006833-92.2024.8.19.0000, acórdão impugnado no referido HC n. 903.554-RJ, razão pela qual não poderia ser alvo de novo exame.
+No que diz respeito à nulidade suscitada, a Corte a quo explicitou que a oitiva de Wanderlei, na qualidade de informante, não configurou cerceamento de defesa, uma vez que restou evidente sua vinculação com um dos acusados e a necessidade de não o ouvir como testemunha.
+Quanto ao ponto, vale consignar que, no âmbito do processo penal vigora o princípio da busca da verdade real e do livre convencimento, cabendo ao juízo singular, na qualidade de destinatário das provas, aferir o efetivo valor probatório das declarações e testemunhos prestados.
+Ademais, conforme destacado pelo Tribunal a quo:
+Decerto que não se pode, pela via oblíqua do habeas corpus, haver manifestação sobre o conteúdo da prova produzida, uma vez que elas são objeto da instrução criminal e devem ser verificadas pela primeira instância no momento oportuno. Eventual juízo de segunda instância, neste momento, acerca do conjunto probatório, implicaria clara supressão de instância. (e-STJ, fl. 294; grifou-se. )
+Por fim, vale relembrar que não há nulidade sem demonstração de prejuízo efetivo à parte, conforme o princípio pas de nullité sans grief.
+Diante do exposto, conheço em parte do recurso e nego-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
