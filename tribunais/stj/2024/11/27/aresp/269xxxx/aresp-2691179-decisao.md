@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e (b) aplicação das Súmulas n. 5 e 7 do STJ (e-STJ fls. 559/573).
+O acórdão do TJRJ traz a seguinte ementa (e-STJ fls. 425/426):
+Apelação Cível. Promessa de compra e venda de imóvel em construção. Atraso na entrega das chaves mesmo após o transcurso do prazo de tolerância de 180 dias. Pretensão de condenação da parte demandada ao pagamento de reparação por dano moral, multa contratual, valores pagos a título de aluguéis e reparo do imóvel. Multa moratória contratualmente prevista e acatada pela apelante. Penalidade contratual cujo valor apurado mensalmente supera o dobro do aluguel mensal. Impossibilidade de cumulação da cláusula penal com danos emergentes. Tema 970 do STJ. Termo de vistoria assinado pela consumidora confirmando os reparos, "não tendo, portanto, nada a reivindicar quanto aos serviços realizados pela construtora". Vedação ao comportamento contraditório. Despesas com reformas do imóvel que não podem ser imputadas à apelante. Danos morais patenteados em razão das peculiaridades do caso concreto. Juros de mora
+contados da citação, na forma do art. 405, do Código Civil. Provimento parcial do recurso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 467/470).
+No recurso especial (e-STJ fls. 477/494), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente sustentou dissídio jurisprudencial e violação:
+(i) do art. 1.022, II, do CPC/2015, no caso de se concluir pela ausência de prequestionamento da matéria,
+(i) dos arts. 884 e 944 do CC/2002, tendo em vista que o mero atraso na entrega da obra não justificaria a condenação por danos morais, e
+(i) do art. 86, caput e parágrafo único, do CPC/2015, sustentando que haveria sucumbência mínima da empresa recorrente e, subsidiariamente, sucumbência recíproca dos litigantes.
+Foram ofertadas contrarrazões, requerendo a condenação da recorrente ao pagamento de multa por litigância de má-fé (e-STJ fls. 541/556).
+No agravo (e-STJ fls. 610/619), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de fixação de multa por litigância de má-fé à parte recorrente (e-STJ fls. 624/640).
+É o relatório.
+Decido.
+As contradições, omissões e obscuridades que fundamentaram a alegação de negativa de prestação jurisdicional sustentada pela parte recorrente são genéricas, porque não discriminam a forma em que o acórdão recorrido teria incorrido nos apontados vícios.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+A propósito: "a mera assertiva de que o Tribunal local, mesmo após a oposição dos embargos de declaração, não se manifestou quanto às questões postas constitui alegação genérica de violação, caso em comento, configurando fundamentação deficiente a atrair a incidência do teor da Súmula 284/STF" (AgRg no AREsp n. 587.074/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/3/2016, DJe 6/4/2016).
+A fim de sustentar a inexistência dos danos morais, ante o mero atraso na entrega do bem, a recorrente apontou violação dos arts. 884 e 944 do CC/2002. Ocorre que os dispositivos legais mencionados não possuem o alcance normativo pretendido para sustentar tal alegação, porque nada dispõem a respeito da existência do próprio dano ou do dever de repará-lo.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a incidência da Súmula n. 284/STF como óbice ao recurso. Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A jurisprudência desta Corte é pacífica no sentido de que verificar a proporção do decaimento dos litigantes, para revisar o grau de sucumbência, é medida que exige o revolvimento de provas, providência incabível em recurso especial, a teor da Súmula n. 7 do STJ. A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. QUANTUM INDENIZATÓRIO FIXADO EM VALOR CONSIDERADO EXORBITANTE. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+6. A apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula 7 do STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.547.630/MG, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/4/2021, DJe 15/4/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. LOCAÇÃO DE BEM MÓVEL. REINTEGRAÇÃO DE POSSE CUMULADA COM COBRANÇA. RESOLUÇÃO DO CONTRATO. INADIMPLÊNCIA RECONHECIDA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVA E CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. VIOLAÇÃO DOS ARTS. 421 E 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISTRIBUIÇÃO DE HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA DAS PARTES. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+ ..
+4. A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca e a fixação do respectivo quantum, por implicar incursão no suporte fático-probatório dos autos, esbarrando no óbice da Súmula 7 deste Sodalício.
+5. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para não conhecer do recurso especial.
+(AgInt no AREsp n. 1.723.236/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 223/2021, DJe 13/4/2021.)
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Por fim, rejeito o pedido de condenação da recorrente à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
