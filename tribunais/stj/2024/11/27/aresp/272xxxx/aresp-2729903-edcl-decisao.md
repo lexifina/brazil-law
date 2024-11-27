@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CIRCULAR NOSSA SENHORA APARECIDA LTDA e PAULO AUGUSTO DE SOUZA à decisão de fl. 1385, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão monocrática embargada, entendeu que o recurso da Embargante é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do artigo 994, VIII c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A matéria ora em desfile não comporta maiores dilações, vez que, ao que parece, a "decisão monocrática" ora embargada, foi lavrada de afogadilho, ou seja, sem atentar para a "Certidão de Tempestividade" existente nos autos, constante do Id. 221051669, emitida pelo E. Tribunal de Justiça "a quo", que assim lavrou:
+ ..
+Com efeito, o décimo quinto dia útil para o manejo do Recurso em foco, se deu exatamente no dia 21/06/2024.
+Logo, não há razão plausível para o não conhecimento do Recurso manejado pela Circular Nossa Senhora Aparecida Ltda como sendo intempestivo.
+Ademais, a Portaria TJMT/PRES n. 1602/2023, de 17 de novembro de 2023, foi emitida em conformidade com a Recomendação n. 44/2020-CNJ (DJ de 16.03.2020, edição n. 61/2020) e art. 2º da Portaria n. 363/2020-PRES (DJe de 8.6.2020, edição n. 10750).
+Dessa forma, no calendário forense 2024, exatamente no mês de maio, os dias 30 e 31 (quinta-feira e sexta - feira) são contemplados, de acordo com o artigo 2º da mencionada Portaria, com a "suspensão do expediente e os prazos processuais nas unidades judiciais e administrativas do Poder Judiciário do Estado de Mato Grosso" (fls. 1391/1392).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 3.10.2019; AgRg nos EDcl no REsp 1819067/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 5.9.2019.)
+Ademais, o bserve-se que houve a disponibilização da decisão de inadmissibilidade do Recurso Especial em 28.5.2024, considerando-se publicada em 29.5.2024 (fl. 1370). Excluindo-se o dia 29.5.2024 (primeiro dia), inicia-se a contagem no dia 30.5.2024, até o dia 19.6.2024, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil, terminou no dia 19.6.2024, sendo que o Agravo em Recurso Especial foi interposto somente em 21.6.2024, fora do prazo.
+É certo que o feriado nacional não precisa ser comprovado. Porém, os dias 30.5.2024 e 31.5.2024 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC (redação anterior à Lei n. 14.939/2024).
+Ressalte-se que em observância ao princípio do tempus regit actum, o entendimento da Lei n. 14.939/2024 só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Outrossim, nos termos do art. 1.042, §§ 2º e 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do Agravo em Recurso Especial, restringe-se apenas à possibilidade de eventual retratação.
+A competência para o julgamento do referido Agravo é do Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais prevêem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior (Rcl 39.515/PE, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 29.6.2020).
+Registre-se que, ao contrário do alegado, a certidão de fl. 1369/1370 não tem o condão de afastar a intempestividade do recurso, porquanto juntada em momento posterior à sua interposição.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
