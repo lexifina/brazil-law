@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. em face da decisão que inadmitiu seu recurso especial.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 254 e-STJ):
+AGRAVO DE INSTRUMENTO - TUTELA ANTECIPADA - Decisão que concedeu tutela para determinar ao plano de saúde a reativação do plano da agravada - Insurgência da operadora do plano de saúde - Presentes os requisitos autorizadores da tutela - art. 300 do CPC - Aparentemente agravada efetuou o pagamento das parcelas mensais, quando tomou conhecimento do cancelamento unilateral pela agravante - Ausência de prévia notificação quanto à inadimplência e quanto à rescisão - Decisão agravada mantida - RECURSO NÃO PROVIDO
+Nas razões de recurso especial, a insurgente alega violação do art. 13 da Lei n. 9.656/89.
+Aduz a ausência dos requisitos necessários à concessão da tutela de urgência, previstos no art. 300 do CPC, não havendo plausibilidade do direito, pois o plano de saúde foi rescindido em razão de débito, devidamente notificado, além de o contrato ser coletivo por adesão, celebrado entre a Hapvida e a Alter Administradora de benefícios, sendo esta última parte legítima para elucidar questões relativas a cancelamento por inadimplência. Alega, ainda, a inexistência de perigo da demora, já que não restou demonstrada situação de emergência
+Contrarrazões às fl. 279-284 e-STJ.
+O apelo nobre foi inadmitido pela Corte de origem (fls. 285-286 e-STJ), ensejando a interposição do presente agravo em recurso especial (fls. 289-293 e-STJ), objetivando destrancar a insurgência.
+Contraminuta às fls. 296-302 e-STJ.
+Ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. O recurso especial impugna acórdão proferido pelo Tribunal de origem no julgamento de agravo de instrumento que manteve a tutela de urgência deferida em primeiro grau, para fins de obrigar a operadora de plano de saúde ora insurgente a restabelecer o plano de saúde da recorrida.
+Eis os fundamentos adotados no acórdão (fls. 255-256 e-STJ):
+Ajuizada ação de danos morais com pedido de tutela de urgência, visando a agravada fosse a requerida compelida a reativar o plano de saúde, bem como autorizar sejam retomados os atendimentos médicos.
+A despeito das alegações do agravante acerca dos motivos que levaram ao cancelamento, neste recurso resta analisar, tão somente, se presentes os requisitos para concessão da tutela antecipada. Consoante o disposto no artigo 300 do Código de Processo Civil: "A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo"
+No caso em comento, há probabilidade do direito na medida em que, aparentemente, a agravada sequer foi notificada acerca de eventual parcela inadimplida, nem mesmo notificada com antecedência de 60 dias quanto à possível rescisão. Ao que parece, quitadas estão as prestações mensais.
+Ainda, segundo o artigo 13, parágrafo único, da Lei 9.656/98: Parágrafo único. Os produtos de que trata o caput, contratados individualmente, terão vigência mínima de um ano, sendo vedadas:
+(..)
+II - a suspensão ou a rescisão unilateral do contrato, salvo por fraude ou não-pagamento da mensalidade por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o consumidor seja comprovadamente notificado até o qüinquagésimo dia de inadimplência;
+No que diz respeito ao perigo de dano, evidenciada a necessidade da manutenção do plano, sobretudo porque a autora (agravante) sofreu queda, teve deslocamento do ombro e necessitou de atendimento, negado na ocasião, além de outros tratamentos mencionados na inicial da ação principal, inclusive em decorrência da idade avançada.
+Ademais, a beneficiária do plano de saúde, até que se resolvam as questões postas em juízo, não pode ficar desprovida da cobertura de saúde.
+Como dito em análise inicial, vale constar que não se vislumbra dano grave, de difícil ou impossível reparação na determinação judicial, uma vez que a reativação do plano será feita mediante pagamento de mensalidades e, em caso de eventual improcedência da ação, poderá se ressarcir de eventual prejuízo.
+Presentes, portanto, os requisitos autorizadores da tutela antecipada.  grifou-se
+Em conformidade com a jurisprudência desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, dada a natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância originária.
+Nesses casos, em virtude da ausência do pressuposto constitucional relativo ao esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência extraordinária, incide, por analogia, a Súmula 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Admite-se, de forma excepcional, o afastamento do aludido óbice sumular nos casos em que a parte insurgente pretende discutir eventual ofensa direta aos próprios dispositivos legais disciplinadores da matéria da tutela provisória, quando, por exemplo, o aresto deixa de apresentar fundamentação pertinente aos requisitos necessários à concessão da medida de urgência.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERIU TUTELA PROVISÓRIA. IMPOSSIBILIDADE. ART. 300 DO CPC NÃO APONTADO. SÚMULA N. 735/STF. TESE LEVANTADA APENAS EM AGRAVO INTERNO. INOVAÇÃO RECURSAL. PRECLUSÃO
+1. A jurisprudência do STJ não admite a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que negam ou deferem medida liminar ou antecipação de tutela. Incide analogicamente a Súmula n. 735 do STF.
+2. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+3. As questões levantadas apenas no âmbito do agravo interno são insuscetíveis de conhecimento, por caracterizarem indevida inovação recursal e, com isso, preclusão consumativa" (AgInt no RCD no CC 155.496/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 31/3/2020, DJe 6/4/2020).
+Agravo interno improvido
+(AgInt no AREsp n. 2.545.276/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 11, 489 E 1.022 DO CPC/2015. DECISÃO QUE DEFERIU TUTELA DE URGÊNCIA REQUERIDA PARA RESCINDIR O CONTRATO AJUSTADO ENTRE AS PARTES. REQUISITOS DA LIMINAR. ÓBICE DA SÚMULA 735/STF. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO.SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 11, 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A jurisprudência do Superior Tribunal de Justiça, "em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (AgInt no AREsp 2.286.331/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+3. No caso, o Tribunal de Justiça concluiu que foram comprovados os requisitos para a concessão da tutela de urgência, a fim de rescindir o contrato de compra e venda de imóvel ajustado entre as partes. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.486.412/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+Na espécie, ainda que se considere que a insurgente apontou, também, ofensa ao art. 300 do CPC, ao argumento de ausência dos requisitos da probabilidade do direito e do periculum in mora, o reclamo almeja, por via transversa, discutir o mérito da decisão, amparando toda sua fundamentação na ausência de irregularidade na rescisão do contrato.
+Entretanto, como adiantado, a precariedade da decisão liminar não autoriza a interposição do recurso especial, dada a ausência de pronunciamento definitivo do tribunal de origem.
+Não fosse o bastante, na espécie, reverter a conclusão da instância originária acerca da presença dos requisitos autorizadores para concessão da medida de urgência demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido: AgInt na TutCautAnt n. 589/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024; AgInt no AREsp n. 2.538.063/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; AgInt no AREsp n. 2.540.270/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+2. Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários advocatícios nos termos do artigo 85, § 11, do CPC, pois não foram fixados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
