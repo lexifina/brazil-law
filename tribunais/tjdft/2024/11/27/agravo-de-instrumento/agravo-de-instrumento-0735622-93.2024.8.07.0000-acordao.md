@@ -1,0 +1,110 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0735622-93.2024.8.07.0000AGRAVANTE(S)DISTRITO FEDERALAGRAVADO(S)MARCONI MEDEIROS MARQUES DE OLIVEIRA e LEDENICE LELES NOVAES DE OLIVEIRARelatorDesembargador GETÚLIO MORAES OLIVEIRA
+ Acórdão Nº1949384
+
+EMENTA
+
+Direito Processual Civil. Agravo de instrumento. Incidência da SELIC sobre o crédito consolidado. Art. 3º EC 113/2021; Art. 22, §1º, Res. 303/2019 CNJ. Recurso desprovido.
+
+I. Caso em exame
+
+1. Atualização de débitos da Fazenda Pública com incidência da Taxa  Selic. EC 113/2021.
+
+II. Questão em discussão
+
+2. Incidência da SELIC sobre o crédito consolidado (valor principal + correção monetária + juros de mora).
+
+III. Razões de decidir
+
+3. A aplicação da taxa Selic para atualização de débitos da Fazenda Pública (art. 3º da EC n. 113/2021), deve incidir a partir de dezembro de 2021 sobre o débito consolidado apurado, conforme orientação do art. 22, § 1º, da Res. n. 303/2019 do CNJ e do disposto no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+
+IV. Dispositivo
+
+4. Recurso desprovido.
+
+---------
+
+Art. 3º EC 113/2021; Art. 22, §1º, Res. 303/2019 CNJ.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, GETÚLIO MORAES OLIVEIRA - Relator, ROBSON BARBOSA DE AZEVEDO - 1º Vogal e SANDRA REVES - 2º Vogal, sob a Presidência da Senhora Desembargadora SANDRA REVES, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 05 de Dezembro de 2024
+
+Desembargador GETÚLIO MORAES OLIVEIRARelator
+
+RELATÓRIO
+
+Ao apreciar o pedido liminar assim decidi:
+
+“Cuida-se de Agravo de Instrumento interposto pelo Distrito Federal contra a Decisão que, em cumprimento de sentença, determinou a incidência da SELIC sobre o crédito consolidado (valor principal + correção monetária + juros de mora).
+
+Aduz o Agravante que está incorreta a metodologia de cálculo, porquanto deve ser realizado sem incorporação dos juros anteriores. Pugna pela concessão de efeito suspensivo ao recurso e, no mérito, pela reforma da Decisão agravada para que que taxa SELIC incida apenas sobre o montante principal.
+
+Em síntese, é o relatório.
+
+Não obstante as razões elencada pelo Distrito Federal, tenho, pelo menos sob um primeiro e provisório exame, que se mostra recomendável manter os efeitos da Decisão agravada, proferida em conformidade com precedentes da Casa, dentre os quais destaco: 07295190720238070000, ac. 1773014 - 8ª Turma Cível, Relª Desª CARMEN BITTENCOURT - DJE : 31/10/2023; 07370227920238070000 - 1ª Turma Cível, Relator CARLOS PIRES SOARES NETO - PJe : 28/12/2023; 07280407620238070000, ac. 1769432 - 4ª Turma Cível, Relator AISTON HENRIQUE DE SOUSA - DJE : 25/10/2023; 07086546020238070000, ac 1755939 - 2ª Turma Cível, Rel. RENATO SCUSSEL - DJE : 25/10/2023; 07414206920238070000, ac. 1833746 - 2ª Turma Cível, Relator FERNANDO ANTONIO TAVERNARD LIMA DJE : 01/04/2024).
+
+Esta eg. 7ª Turma Cível, em Julgado de minha relatoria, decidiu à unanimidade:
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO . TAXA SELIC. BASE DE CALCULO. B IS IN IDEM NÃO CONFIGURADO. RECURSO IMPROVIDO. 1. Segundo o disposto no artigo 3º da Emenda Constitucional 113/2021 "Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente". 2. Quadra dizer que a partir de dezembro de 2021, considerando a promulgação da EC n.113/202, e passa a incidir tão somente a taxa SELIC sobre o valor do débito exequendo consolidado até o mês anterior, isto é, sobre o valor principal com a correção monetária e juros legais até então vigentes, o que não configura bis in idem. A caracterização de bis in idem haveria se cumulativamente com a aplicação da Selic se fizesse também incidir no mesmo período outros índices de atualização monetária e juros de mora, o que não é o caso, porquanto passou a incidir isoladamente. 3. Decisão que rejeita a alegação de excesso de execução sob alegação de bis in idem confirmada. 4. Recurso improvido. (07157165420238070000 ? ac. 1742087 - 7ª Turma Cível - Rel. Des. GETÚLIO DE MORAES OLIVEIRA - DJE : 23/08/2023)
+
+Diante do exposto, por não vislumbrar o requisito da probabilidade do direito, INDEFIRO A LIMINAR.
+
+Comunique-se.
+
+Intimem-se para contrarrazões.
+
+I..” (ID 63318467)
+
+O recurso seguiu seus trâmites e foi contrarrazoado ao id 64167444.
+
+É o relatório
+
+VOTOS
+
+O Senhor Desembargador GETÚLIO MORAES OLIVEIRA - Relator
+
+Presentes os requisitos de admissibilidade, conheço do recurso.
+
+Mantenho o posicionamento exposto na decisão inicial que apreciou o pedido liminar.
+
+A aplicação da taxa Selic para atualização de débitos da Fazenda Pública (art. 3º da EC n. 113/2021), deve incidir a partir de dezembro de 2021 sobre o débito consolidado apurado, conforme orientação do art. 22, § 1º, da Res. n. 303/2019 do CNJ e do disposto no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+
+Nesse sentido se orienta a jurisprudência da Corte, conforme os precedentes que se vê:
+
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. TAXA SELIC. BASE DE CALCULO. B IS IN IDEM NÃO CONFIGURADO. RECURSO IMPROVIDO. 1. Segundo o disposto no artigo 3º da Emenda Constitucional 113/2021 ?Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente. 2. Quadra dizer que a partir de dezembro de 2021, considerando a promulgação da EC n.113/202, e passa a incidir tão somente a taxa SELIC sobre o valor do débito exequendo consolidado até o mês anterior, isto é, sobre o valor principal com a correção monetária e juros legais até então vigentes, o que não configura bis in idem. A caracterização de bis in idem haveria se cumulativamente com a aplicação da Selic se fizesse também incidir no mesmo período outros índices de atualização monetária e juros de mora, o que não é o caso, porquanto passou a incidir isoladamente. 3. Decisão que rejeita a alegação de excesso de execução sob alegação de bis in idem confirmada. 4. Recurso improvido.? (07157165420238070000? ac. 1742087 - 7ª Turma Cível - Rel. Des. GETÚLIO DE MORAES OLIVEIRA - DJE : 23/08/2023)".
+
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULOS. EXCESSO EXECUÇÃO. EC 113/21. SELIC. VALOR CONSOLIDADO. I - A utilização da Selic a partir de dezembro de 2021, sobre o débito até então consolidado, não gera bis in idem diante da sucessão na aplicação dos índices. Mantida a r. decisão. II - Agravo de instrumento desprovido.? (Acórdão 1815550, 07413323120238070000, Relator: VERA ANDRIGHI, 6ª Turma Cível, data de julgamento: 7/2/2024, publicado no DJE: 6/3/2024. Pág.: Sem Página Cadastrada.) ?PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. TAXA SELIC. BASE DE CÁLCULO. BIS IN IDEM NÃO CONFIGURADO. RECURSO IMPROVIDO. 1. Segundo o disposto no artigo 3º da Emenda Constitucional 113/2021 "Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente". 2. Quadra dizer que a partir de dezembro de 2021, considerando a promulgação da EC n.113/2022, passa a incidir tão somente a taxa SELIC sobre o valor do débito exequendo consolidado até o mês anterior, isto é, sobre o valor principal com a correção monetária e juros legais até então vigentes, o que não configura bis in idem. A caracterização de bis in idem haveria se cumulativamente com a aplicação da Selic se fizesse também incidir no mesmo período outros índices de atualização monetária e juros de mora, o que não é o caso, porquanto passou a incidir isoladamente. 3. Recurso improvido.? (Acórdão 1818977, 07436915120238070000, Relator: GETÚLIO DE MORAES OLIVEIRA, 7ª Turma Cível, data de julgamento: 21/2/2024, publicado no DJE: 5/3/2024. Pág.: Sem Página Cadastrada.) ?PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ALEGADO EXCESSO NA EXECUÇÃO. CORREÇÃO MONETÁRIA. SELIC. INCIDÊNCIA SOBRE O VALOR ANTERIOR CONSOLIDADO. RECURSO CONHECIDO E DESPROVIDO. 1. A Resolução 448/2022 do Conselho Nacional de Justiça, que alterou a Resolução 303/2019, em seu art. 22, ao tratar da atualização do precatório não tributário devido pela Fazenda Pública, regulamenta que, a contar de dezembro de 2021, a taxa SELIC incidirá sobre o valor consolidado, correspondente ao crédito principal atualizado monetariamente até novembro de 2021 e aos juros de mora. Precedentes do TJDFT 2. Considerando que a decisão agravada foi salvaguardada a metodologia de cálculo do valor exequendo devido pela Fazenda Pública conforme as disposições contidas no art. 3º da Emenda Constitucional 113/2021 e no § 1º do art. 22 da Resolução CNJ 303/2019, não há, portanto, que se falar em bis in idem. 3. Recurso conhecido e desprovido.? (Acórdão 1799197, 07370227920238070000, Relator: CARLOS PIRES SOARES NETO, 1ª Turma Cível, data de julgamento: 6/12/2023, publicado no PJe: 28/12/2023. Pág.: Sem Página Cadastrada.) ?AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. SOBRESTAMENTO DO FEITO. PRÉVIA LIQUIDAÇÃO. TEMA 1.169 DO STJ. INAPLICABILIDADE. DISTINÇÃO. AUSÊNCIA DE CONTROVÉRSIA. MEROS CÁLCULOS ARITMÉTICOS. DÉBITO DE NATUREZA NÃO TRIBUTÁRIA. TAXA SELIC. INCIDÊNCIA A PARTIR DE DEZEMBRO DE 2021. EMENDA CONSTITUCIONAL 113/2021. BASE DE CÁLCULO. DÉBITO CONSOLIDADO. POSSIBILIDADE. RESOLUÇÃO N. 303/2019. AUSÊNCIA DE BIS IN IDEM. RECURSO CONHECIDO E DESPROVIDO. 1. Trata-se de agravo de instrumento interposto pelo ente distrital executado contra decisão que, nos autos do cumprimento individual de sentença coletiva, acolheu parcialmente a impugnação por ele apresentada, para reconhecer excesso de execução nos cálculos realizados pela exequente/apelada, determinando a remessa dos autos para a Contadoria Judicial, a fim de atualizar o débito com a incidência da taxa Selic a partir de dezembro de 2021, sobre o total do débito apurado até novembro de 2021. 2. O c. Superior Tribunal de Justiça, em 18/10/2022, afetou os REsp 1.978.629/RJ, 1.985.037/RJ e 1.985.491/RJ (Tema 1169), para julgamento em repercussão geral da seguinte questão: "Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos". 3. Na hipótese, o cumprimento individual de sentença coletiva que consubstancia o processo de referência não se amolda ao Tema n. 1.669 a ensejar a suspensão do feito, porquanto não há controvérsia estabelecida pelas partes acerca da necessidade ou não de liquidação prévia. 4. Se a sentença coletiva executada não se revela genérica, bastando simples cálculos aritméticos para a definição do quantum debeatur, nos termos do art. 509, § 2º, do CPC, inexiste razão para o aludido sobrestamento 5. A aplicação da taxa Selic para atualização do valor devido pela Fazenda Pública, determinada pelo art. 3º da EC n. 113/2021, deve incidir a partir da competência de dezembro de 2021, tendo por base o débito consolidado até a data anterior à vigência do referido regramento, ou seja, o valor principal atualizado pelos critérios de juros e correção monetária até então aplicáveis, na forma do art. 22, § 1º, da Res. n. 303/2019 do CNJ e do disposto no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal. 6. Se a taxa SELIC incide de forma simples sobre o débito consolidado, bem como possui aplicação prospectiva, sucedendo critério anteriormente aplicável, em razão da ocorrência de alteração da legislação no decorrer do tempo, não há falar em bis in idem ou anatocismo no caso, pois não se trata de cumulação de índices, mas, apenas, de sucessão de aplicação de índices diversos. Precedentes deste e. Tribunal. 7. Escorreita, portanto, a decisão recorrida ao determinar a consolidação do débito até o mês de novembro de 2021, constituindo a base de cálculo para incidência da taxa SELIC a partir de dezembro de 2021. 8. Recurso conhecido e desprovido.? (Acórdão 1741721, 07177231920238070000, Relator: SANDRA REVES, 2ª Turma Cível, data de julgamento: 9/8/2023, publicado no DJE: 24/8/2023. Pág.: Sem Página Cadastrada.) ?DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. ATUALIZAÇÃO DO DÉBITO EXEQUENDO. ÍNDICES REMUNERATÓRIOS. TEMA 810. INCIDÊNCIA. BIS IN IDEM. NÃO OCORRÊNCIA. EC N. 113/2021. TAXA SELIC. ADOÇÃO A PARTIR 09/12/2021. ANATOCISMO. NÃO CARACTERIZAÇÃO. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO AGRAVADA MANTIDA. HONORÁRIOS ADVOCATÍCIOS. SEM MAJORAÇÃO. 1. Na atualização de débitos em desfavor da Fazenda Pública incidirá a taxa SELIC, de forma simples, sobre o montante atualizado do débito, a partir de dezembro de 2021, nos termos previstos no art. 3º da Emenda Constitucional n.º 113/2021 e do art. 22, §1º, da Resolução n. 303/2019 do CNJ. Assim não há que se cogitar de ocorrência de bis in idem ou cumulação de encargos financeiros, uma vez que a projeção da SELIC é pro futuro em relação ao montante consolidado da dívida, até novembro de 2021. 2. A tese defendida pelo Distrito Federal para elaboração dos cálculos em duas fases sob pena de caracterização de anatocismo, não se sustenta. Isso porque, a decisão determinou expressamente que os juros serão aplicados de forma simples, até julho de 2001, 1% (um por cento) ao mês; a correção monetária será o IPCA-E, a partir de janeiro de 2001, antes serão aplicados os índices do manual de cálculos da Justiça Federal. Sendo que, de agosto de 2001 até junho de 2009 incidirão juros de 05% (meio por cento) ao mês; e os juros de remuneração oficial da caderneta de poupança, a partir de julho de 2009. 3. Não se trata de adoção da SELIC sobre o valor originário da dívida, uma vez que durante o transcuro do inadimplemento houve a alteração dos índices remuneratórios por disposição legal. Assim, a SELIC incidirá sobre o valor inicial da dívida corrigida monetariamente e computados os juros de mora aplicados durante o período anterior a vigência da EC n.113/2021. A partir da incidência da SELIC não serão adotados outros índices, mas apenas esse encargo remuneratório. 4. Agravo de instrumento conhecido e não provido.? (Acórdão 1765733, 07185754320238070000, Relator: Roberto Freitas Filho, 3ª Turma Cível, data de julgamento: 28/9/2023, publicado no DJE: 20/10/2023. Pág.: Sem Página Cadastrada.)".
+
+O Agravante sustenta  a inconstitucionalidade do   art. 22 da Resolução nº 303/2019/CNJ, argumentando que  houve violação do princípio da separação dos Poderes  e salientando  que o Conselho Nacional de Justiça foi além da sua atribuição de regulamentar a atividade administrativa do Poder Judiciário no âmbito dos precatórios.
+
+ Sem êxito.
+
+Conforme precedentes da Casa, “Os atos normativos são dotados de presunção relativa de constitucionalidade, devendo a aplicabilidade da norma ser observada até que seja revogada ou declarada a sua inconstitucionalidade.
+
+O cumprimento intransigente dos atos normativos administrativos, editados pelo Conselho Nacional de Justiça, como é o caso da Resolução nº 303/2019, que fundamentou expressamente o ato ora impugnado, é dever institucional dos tribunais de justiça brasileiros (STF, MS 37422 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 15-12-2020, PROCESSO ELETRÔNICO DJe-297 DIVULG 18-12-2020 PUBLIC 07-01-2021)“ (07098511620248070000 – ac. 1883015- 8ª Turma Cível – Rel. Des. Robson Teixeira de Freitas -  DJE : 04/07/2024)
+
+Registre-se ademais, o julgamento do Agravo Regimental na Reclamação 23587, oportunidade em que o Colendo Supremo Tribunal Federal decidiu:
+
+“Agravo regimental na reclamação. Regime de pagamento de precatórios. ADI nºs 4.357/DF e 4.425/DF. Aplicação da Lei nº 13.080/2015 em período anterior a sua vigência. Agravo regimental provido e reclamação julgada procedente. 1. Na modulação dos efeitos do julgado nas ADI nºs 4.357/DF e 4.425/DF, o STF, considerando a vigência das Leis nº 12.919/13 e nº 13.080/15, tão somente resguardou a eficácia dessas normas para efeito de atualização de precatórios relativamente ao período em que elas estiveram vigentes, não alcançando períodos pretéritos, os quais, mesmo em sede de precatórios expedidos no âmbito da administração federal, permanecem sendo regulamentados pela disciplina instituída pela EC nº 62/2009, observada a “eficácia prospectiva” conferida pelo STF à declaração de inconstitucionalidade nas ações paradigmas, independentemente da data do efetivo pagamento. 2. O Conselho Nacional de Justiça, em observância a sua atribuição de “monitor[ar] e supervision[ar] o pagamento dos precatórios pelos entes públicos na forma [da decisão do STF nas ADI nºs 4.357/DF e 4.425/DF]”-, a qual foi reconhecida pelo STF na decisão paradigma -, bem como no exercício de suas prerrogativas de controlar a atuação administrativa e financeira do Poder Judiciário e de zelar pela observância do art. 37 da Carta Constitucional (art. 103-B, § 4º, caput e inciso II), editou a Resolução nº 303/2019, cujo art. 21 explicita os indexadores a serem usados para a atualização do valor requisitado em precatório não tributário. 3. Agravo regimental provido e reclamação julgada procedente, cassando-se a decisão reclamada e determinando-se o Tribunal de Justiça de Santa Catarina aprecie novamente o Processo nº 4000284-38.2016.8.24.0000, à luz da modulação dos efeitos do julgado nas ADI nºs 4.357/DF e 4.425/DF e da Resolução nº 303/2019 do Conselho Nacional de Justiça.(Rcl 23587 AgR, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: DIAS TOFFOLI, Primeira Turma, julgado em 08-06-2021, PROCESSO ELETRÔNICO DJe-191  DIVULG 23-09-2021  PUBLIC 24-09-2021 REPUBLICAÇÃO: DJe-214  DIVULG 27-10-2021  PUBLIC 28-10-2021) (grifos nossos).
+
+  Confira-se ainda:
+
+“[...] Não há se falar em inconstitucionalidade do art. 22 da Resolução CNJ nº 303/2019 tendo em vista que referido órgão no exercício do “controle da atuação administrativa e financeira do Poder Judiciário e do cumprimento dos deveres funcionais dos juízes” (art. 103-B da CF), tem se empenhado em contribuir para a racionalização das práticas e dos procedimentos referentes à formação e ao pagamento de precatórios, como se pode perceber de diversas Resoluções por ele aprovadas. Ademais, de acordo com as decisões proferidas pelo STF na Questão de Ordem nasADI’s n o 4357/DFe4425/DF, aquela Corte Suprema delegou competência ao CNJ para que sejam monitorados e supervisionados os pagamentos dos precatórios sujeitos pelos entes públicos.” (07135752820248070000 -  ac. 1889584  - 6ª Turma Cível – Rel. ALFEU MACHADO - DJE : 22/07/2024)
+
+Diante do exposto, não merece prosperar  a irresignação do Distrito Federal.
+
+NEGO, POIS, PROVIMENTO AO RECURSO.
+
+É como voto.
+
+O Senhor Desembargador ROBSON BARBOSA DE AZEVEDO - 1º Vogal Com o relatorA Senhora Desembargadora SANDRA REVES - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
