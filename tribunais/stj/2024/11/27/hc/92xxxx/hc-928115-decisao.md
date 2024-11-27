@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de LUCAS RAFAEL DA SILVA PEREIRA - condenado como incurso no crime de roubo circunstanciado -, atacando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (fls. 73/79 - Revisão Criminal n. 0805294-66.2023.8.02.0000), não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria de pena - imposta na condenação proferida na Ação Penal n. 0000082-51.2010.8.02.0001 (fls. 23/40 - da 12ª Vara Criminal da comarca de Maceió/AL) -, com a alteração da fração de aumento da continuidade delitiva, ao argumento de que, em sendo praticadas três infrações penais, a exasperação da pena em razão da continuidade delitiva deverá ser feita à razão de 1/5 (fl. 9).
+Sem pedido liminar. Prestadas informações (fls. 97/99, 108/109 e 113/114), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, diante da ausência de ilegalidade, pela não concessão da ordem de ofício (fls. 125/132).
+Entretanto, do atento exame dos autos, observo que a via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fração de 1/2, utilizada para aumento de pena em razão da continuidade delitiva específica, foi fundamentada em razão da combinação da quantidade de delitos cometidos e dos elementos subjetivos - há a demonstração dos aspectos subjetivos, que aliados ao número de infrações cometidas (três), autorizam o aumento da pena na metade da pena estabelecida, conforme fixado na sentença penal condenatória, haja vista que a exasperação da pena fundamentou-se na prática delitiva em concurso de agentes e com grave ameaça à pessoa exercida mediante o emprego de arma de fogo (fl. 78) -, em consonância com o entendimento desta Corte Superior (AgRg no HC n. 909.716/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe 20/6/2024).
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
