@@ -1,0 +1,13 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de ANDERSON BERNARDO RESENDE - condenado como incurso nos crimes de roubos circunstanciados e associação criminosa -, atacando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (fls. 31/48 - Revisão Criminal n. 0033436-42.2023.8.19.0000), não comporta acolhimento.
+Com efeito, busca a impetração a absolvição - sustentando que, no curso da instrução criminal NÃO foram produzidas provas capazes de ensejar uma condenação penal, restando uma dúvida mais que razoável de autoria em face do PACIENTE e neste sentido, deve ser reformada a decisão e o PACIENTE absolvido (fl. 27) - ou, subsidiariamente, a revisão da dosimetria de pena - imposta na condenação proferida na Ação Penal n. 0001810-68.2012.8.19.0039 (fls. 394/927 - da Vara Única da comarca de Paracambi/RJ) -, com o reconhecimento de crime único ou a aplicação da regra dosimétrica do crime continuado.
+Liminar indeferida (fls. 1.116/1.118). Prestadas informações (fls. 1.120/1.121), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 1.129/1.138).
+Entretanto, do atento exame dos autos, observo que a via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fundamentação da Corte estadual quanto às pretensões mandamentais está de acordo com o entendimento desta Corte Superior. Confira-se:
+a) a desconstituição das premissas fáticas assentadas pelas instâncias ordinárias, de existência de prova suficiente para a condenação, demandaria o reexame de todo o conjunto fático-probatório, o que é incabível na via do habeas corpus; e
+b) tendo as instâncias ordinárias concluído pela incidência de regra do concurso formal - havia dois patrimônios atingidos. Foram hipóteses em que, além do roubo da carga, pertencente à empresa lesada, houve também o roubo de bens pessoais, como telefone celular, pertencentes ao motorista ou ao ajudante de caminhão (fl. 45) -, o reconhecimento de crime único de roubo em detrimento do concurso formal ou da regra da continuidade delitiva demandaria revolvimento probatório não admitido na estreita via eleita.
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E ASSOCIAÇÃO CRIMINOSA. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. ABSOLVIÇÃO E DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
