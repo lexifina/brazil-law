@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2024 a 27/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, o Juízo singular destacou a gravidade concreta do delito, ao ressaltar o modus operandi empregado na ação delituosa - praticada no contexto de conflito decorrente do tráfico de drogas, dentro de uma escola, em horário de chegada dos alunos, havendo colocado em risco grande número de pessoas (inclusive o porteiro do estabelecimento de ensino foi atingido) - bem como a possibilidade de reiteração delitiva, em razão da existência do registro de outro processo criminal em curso.
+3. Essas circunstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+4. Além disso, o modus operandi da conduta, praticada em contexto de conflito decorrente do tráfico de drogas, em concurso de agentes e com o emprego de arma de fogo, também é apto a justificar a segregação cautelar.
+5. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+6. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CARLOS ANDRE DOS SANTOS interpõe agravo regimental contra a decisão de fls. 767-771, em que neguei provimento ao recurso ordinário em habeas corpus.
+Em suas razões, a defesa reitera os argumentos expostos na inicial do recurso ordinário, afirmando que o decreto prisional seria carente de fundamentação idônea e que estariam ausentes os requisitos do art. 312 do CPP.
+Aduz que o Tribunal de origem não demonstrou o periculum libertatis e acrescenta que a simples indicação do uso de violência e da forma como o delito foi praticado não são fundamentos suficientes para amparar a segregação cautelar do acusado.
+Requer a reconsideração da decisão ou a submissão do feito ao órgão colegiado, a fim de que seja provido o recurso ordinário e revogada a prisão preventiva, ainda que com a imposição de outras medidas cautelares menos gravosas.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, o Juízo singular destacou a gravidade concreta do delito, ao ressaltar o modus operandi empregado na ação delituosa - praticada no contexto de conflito decorrente do tráfico de drogas, dentro de uma escola, em horário de chegada dos alunos, havendo colocado em risco grande número de pessoas (inclusive o porteiro do estabelecimento de ensino foi atingido) - bem como a possibilidade de reiteração delitiva, em razão da existência do registro de outro processo criminal em curso.
+3. Essas circunstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+4. Além disso, o modus operandi da conduta, praticada em contexto de conflito decorrente do tráfico de drogas, em concurso de agentes e com o emprego de arma de fogo, também é apto a justificar a segregação cautelar.
+5. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+6. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Infere-se dos autos que o insurgente teve a prisão preventiva decretada pela suposta prática de homicídio qualificado, fato ocorrido no dia 28/11/2023 (mandado de prisão cumprido em 1º/4/2024).
+O Magistrado de primeiro grau decretou a segregação com amparo nos seguintes fundamentos (fls. 122-123, grifei):
+No caso, além de haver suficientes indícios de autoria em desfavor dos denunciados, tem-se a gravidade in concreto do delito - uma vez que o suposto crime teria se dado em decorrência de conflitos envolvendo facções criminosas e o tráfico de drogas da região onde ocorreu o fato - e modus operandi - posto que o crime ocorreu dentro de uma Escola, no horário da chegada dos alunos, causando pânico entre os estudantes e os funcionários, tendo, inclusive, atingido o porteiro e colocado em perigo as pessoas que estavam presentes no local.
+Não bastasse a gravidade dos fatos e a apontada premeditação e frieza do modus operandi, vê-se que os denunciados são apontados como membros de facções criminosas, além de supostamente comandar o tráfico de drogas da região, o que evidencia a periculosidade concreta deles, assim como inadaptação ao convívio social, sobretudo em virtude da propensão à prática de crimes violentos para solucionar questões relacionadas com a própria facção criminosa ou com o tráfico de drogas.
+Nesse contexto, destaco que a jurisprudência do Supremo Tribunal Federal é no sentido de que a gravidade concreta do crime, a periculosidade do agente e a aparente propensão ao crime constituem bases empíricas idôneas para a decretação da prisão preventiva, conforme se pode extrair do julgado a seguir:
+ ..
+Além disso, com relação ao denunciado Carlos André dos Santos, têm-se que este responde a acusação pela suposta prática do crime previsto no art. 33 da Lei nº 11.343/06, perante a 15ª Vara Criminal da Capital (processo n. 0703809-20.8.02.0001).
+O Tribunal de origem ratificou a decisão de primeiro grau.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessas premissas, afirmei na decisão agravada que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Com efeito, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o modus operandi do delito -praticado no contexto de conflito decorrente do tráfico de drogas, dentro de uma escola, em horário de chegada dos alunos, havendo colocado em risco grande número de pessoas (inclusive o porteiro do estabelecimento de ensino foi atingido) -, bem como a possibilidade de reiteração delitiva, em razão da existência do registro de outro processo criminal em curso.
+Assentei que essas circu nstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+De fato, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 11/6/2019).
+Também ressaltei que o modus operandi da conduta, praticada em contexto de conflito decorrente do tráfico de drogas, em concurso de agentes e com emprego de arma de fogo, é igualmente apto a justificar a segregação cautelar.
+Nesse sentido elenquei os seguintes precedentes:
+ ..
+3. Prisão preventiva. Fundamentação idônea. As instâncias originárias destacaram que a prisão preventiva do paciente está fundamentada no modus operandi e na gravidade concreta do delito: o recorrente, juntamente a outros 06 (seis) agentes, mediante diversos disparos de arma de fogo, teria ceifado a vida da primeira vítima e tentado matar a sua companheira, quando eles saíam de casa, tudo em virtude de disputas envolvendo o tráfico de drogas na região. A ação estaria vinculada ainda à facção criminosa "Trem Bala" e ao PCC. Consignou-se, ainda, que o recorrente possui (4) quatro condenações pretéritas e responde a outras 3 (três) ações, todas de natureza penal, incluindo a prática de outro crime de homicídio tentado. Por fim, o agravante se encontra foragido.
+ ..
+(AgRg no RHC n. 198.810/ES, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 12/9/2024.)
+ ..
+4. Na espécie, a prisão foi decretada em decorrência da suposta prática dos delitos de homicídio duplamente qualificado por motivo torpe e mediante recurso que dificultou a defesa da vítima e corrupção de menores.
+Consta que dos autos que o agravante, em comum acordo com os demais envolvidos, praticou o crime de homicídio consumado contra Kleiton Silva de Magalhães, sendo a sua função, na empreitada criminosa, a de levar e dar fuga ao adolescente que efetuou os disparos com a arma de fogo, em razão de disputas pela hegemonia no tráfico de drogas local.
+Tais circunstâncias evidenciam a gravidade concreta da conduta e demonstram a necessidade da segregação cautelar como forma de acautelar a ordem pública.
+ ..
+(AgRg no RHC n. 198.813/ES, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/9/2024.)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/9/2022).
+À vista do exposto, nego provimento ao agravo regimental.
