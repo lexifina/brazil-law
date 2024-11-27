@@ -1,0 +1,42 @@
+DECISÃO
+rata-se de agravo em recurso especial interposto por VERA CLARO DE SÁ FERREIRA e OUTRO contra decisão que inadmitiu o recurso especial em razão da ausência de demonstração da alegada vulneração dos artigos indicados e da incidência da Súmula n. 7 do STJ.
+No agravo em recurso especial, a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2176640-18.2023.8.26.0000) assim ementado (fl. 378):
+AGRAVO DE INSTRUMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA.
+RECURSO INTERPOSTO CONTRA RESPEITÁVEL DECISÃO QUE REJEITOU ALEGAÇÃO DE NULIDADE DE CITAÇÃO SUSCITADA PELOS DEVEDORES.
+CARTAS DE CITAÇÃO RECEBIDAS NO ENDEREÇO EMPRESARIAL DOS RÉUS. ATO QUE PODE SER CONCRETIZADO EM QUALQUER LUGAR EM QUE SE ENCONTRE OS REQUERIDOS. INTELIGÊNCIA DO ARTIGO 243, DO CÓDIGO DE PROCESSO CIVIL. LOCAL EM QUE FOI RECEBIDA A CARTA SEM QUALQUER RESSALVA QUE, ADEMAIS, TRATA-SE DE CONDOMÍNIO EDILÍCIO QUE POSSUI PORTARIA COMO CONFIRMADO PELOS PRÓPRIOS AGRAVANTES. APLICAÇÃO DO ARTIGO 248 § 4º, DO CÓDIGO DE PROCESSO CIVIL. VALIDADE DA CITAÇÃO. PRECEDENTE.
+AGRAVO DESPROVIDO.
+No recurso especial, a parte recorrente aponta violação dos arts. 244, IV, 280, 248 do Código de Processo Civil, 70 e 1.569 do Código Civil.
+Alega que a citação de Vera Claro é nula, pois enviada ao endereço de empresa que está em seu nome, mas na qual não exerce atividade há muito tempo, não há representante nomeado e na qual não poderia ser encontrada em razão de avançada idade e de graves problemas de saúde.
+Aduz que a citação do Sr. Antônio não pode ser considerada válida, pois é o "responsável direto pelos cuidados da esposa, deixou de ir ao endereço da empresa, passando a cuidar da referida empresa de casa, cujo endereço - como já demonstrado acima - jamais foi segredo" (fl. 388).
+Assevera que, diante do grave estado de saúde da recorrente, a citação não poderia ter ocorrido, bem como que a citação realizada em condomínio edilícios com a entrega a funcionário da portaria é de presunção relativa, sendo possível prova de que a pessoa citanda não morava ou não estava presente no prédio.
+Salienta que não havia responsável no local para recebimento de correspondência e que "a parte possui, de forma pública, seu endereço residencial à vista de qualquer pessoa" (fl. 394).
+Afirma que a empresa, que está abandonada, "existe apenas para fins fiscais, o que é fato notório" (fl. 397).
+Argumenta que, "por força do artigo 1.569 do Código Civil, evidente que o domicílio do casal permaneceu sempre sendo aquele da Rua Parnaíba 75, Vila Inah, nesta Capital. Inexiste nesta demanda ou nos autos principais qualquer indicação contrária, lembrando que tal domicílio somente pode ser alterado com a aprovação de ambos, conforme preceitua o referido dispositivo legal" (fl. 401).
+Requer a concessão de efeito suspensivo e, no mérito, o conhecimento e o provimento do recurso para determinar a nulidade da citação com a devolução de prazo e, "como consequência da extinção do procedimento de Cumprimento de Sentença, dado o princípio da Causalidade, seja a recorrida condenada no ônus da sucumbência" (fl. 405).
+As contrarrazões foram apresentadas (fls. 437-468).
+É o relatório. Decido.
+O recurso não reúne condições de êxito.
+Trata-se na origem de impugnação a cumprimento de sentença na qual se argumenta que "endereço onde recebidas as respectivas cartas de citação/intimação não é o de residência dos impugnantes, mas o da empresa de que são titulares; que não frequentam o endereço de sua empresa onde foram realizadas as citações" (fl. 36).
+A impugnação foi rejeitada pelo Juízo singular nestes termos (fl. 37, destaquei):
+Não prosperam as alegações dos impugnantes. O exequente logrou comprovar que os executados rotineiramente indicam o endereço onde recebidas as cartas de citação e intimação como o de seu domicílio (fls. 417, 421, 428, 434, 436, 439, 443).
+Ademais, não negam os impugnantes que possuem escritório de sua empresa no local onde recebida a carta de citação, sendo portanto conhecidos naquele sítio. E sendo assim, não é crível que tendo sido recebida carta de citação justamente no endereço da sede da empresa da qual são sócios os executados, o responsável na empresa pelo recebimento de correspondência não tenha dado ciência aos ora impugnantes acerca da demanda proposta.
+Dessa forma, se os impugnantes indicavam em seus negócios, e inclusive no âmbito de processos judiciais, como endereço de seu domicílio o seu endereço comercial, não se pode imputar ao exequente erro ao requerer a citação no endereço apontado.
+Inconformada, a parte executada agravou de instrumento. O Tribunal de origem negou provimento ao recurso sob os seguintes fundamentos (fl. 379):
+O agravo não comporta provimento.
+Os agravantes confirmam que a carta de citação foi enviada para condomínio edilício em que possuem escritório (p. 08, especificamente).
+O artigo 243, do Código de Processo Civil dispõe que a citação poderá ser feita em qualquer lugar em que se encontre o réu, não havendo qualquer óbice para que os requeridos fossem citados no local em que exercem a atividade empresarial.
+Ainda que se admita os problemas de saúde pelos quais passa a agravante Vera desde abril de 2017 (p. 06, especificamente), tal fato não impediu que fosse indicado em outras demandas o endereço do local em que os agravantes possuem escritório como seus domicílios em procurações outorgadas em 2020 (p. 434 dos autos de origem, especificamente); e, em 2021 (p. 436 dos autos de origem, especificamente).
+Ademais, em consulta ao "site" da Junta Comercial do Estado de São Paulo (JUCESP) constata-se que a empresa dos quais os agravantes são sócios (SÁ FERREIRA EMPREENDIMENTOS E PARTICIPACÃO LTDA, CNPJ nº 11.626.168/0001-23) encontra-se ativa no mesmo endereço em que foram recebidas as cartas de citação, não sendo crível a alegação dos recorrentes de que há dois anos deixaram de ir ao endereço da empresa, passando a exercer a administração da pessoa jurídica de casa (p. 08, especificamente).
+Além disso, o endereço em que foram entregues as cartas de citação sem qualquer ressalva é um condomínio edilício com portaria (como confirmado pelos recorrentes p. 04, especificamente) e, portanto, aplicável a hipótese prevista no artigo 248 § 4º, do Código de Processo Civil que assim prevê:
+"Nos condomínios edilícios ou nos loteamentos com controle de acesso, será válida a entrega do mandado a funcionário da portaria responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente".
+Vê-se, assim, que as instâncias ordinárias, soberanas na análise dos fatos e provas dos autos, concluíram que a citação é válida, pois as cartas foram direcionadas ao endereço indicado pelo próprios agravantes como sendo o seu domicílio, que elas foram entregues sem qualquer ressalva, bem como que a empresa da qual são sócios encontra-se ativa nesse endereço.
+Desse modo, para rever as conclusões adotadas na origem e acatar as teses recursais de que a citação é nula porque enviada para endereço de empresa abandonada há anos pelos recorrentes e de que não havia responsável para o recebimento da correspondência, seria imprescindível o reexame do conjunto fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+A questão infraconstitucional relativa ao art. 244, IV, do CPC não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema.
+Registre-se que o prequestionamento, pressuposto recursal indispensável para o acesso à instância superior, significa a prévia manifestação do tribunal de origem, com a emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+Assim, diante da ausência de enfrentamento pelo Tribunal de origem da referida questão suscitada nesta instância superior, fica impedido o conhecimento do recurso especial em face do óbice das Súmulas n. 282 e 356 do STF.
+Ante o exposto, nego provimento ao agravo.
+Fica prejudicado o pedido de efeito suspensivo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
