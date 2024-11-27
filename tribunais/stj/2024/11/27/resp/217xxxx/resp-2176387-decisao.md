@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por CLOTÁRIO MENNA BARRETO FILHO, com fundamentado na alínea "a" do permissivo constitucional, no intuito de reformar o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 354, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE ESCRITURA PÚBLICA
+DE COMPRA E VENDA. CONDUTAS ILÍCITAS ATRIBUÍDAS AO PROCURADOR. LEGITIMIDADE PASSIVA. DECISÃO REFORMADA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, O exame das condições da ação, como a legitimidade ad causam, deve ser realizado de acordo com a Teoria da Asserção, isto é, à luz das afirmações do autor constantes na petição inicial, sem qualquer inferência sobre a veracidade das alegações ou a probabilidade de êxito da pretensão deduzida. (AgInt no REsp n. 1.931.519/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 30/8/2021, DJe de 2/9/2021.)
+2. No presente caso, a causa de pedir e os pedidos da petição inicial não envolvem apenas a anulação da escritura pública de compra e venda, mas, também, o reconhecimento de excesso de poder do procurador, que alegadamente atuou em conflito de interesses em nome tanto da parte autora quanto da sociedade empresária ré, a realização de negócio jurídico simulado, dentre outras condutas ilícitas do mandatário, o que enseja necessariamente a sua inclusão no polo passivo.
+2.1. A ausência de pedido condenatório não impede a sua inclusão no polo passivo, notadamente à vista da inteligência do art. 20 do Código de Processo Civil.
+3. Recurso conhecido e provido.
+Os embargos de declaração opostos foram rejeitados pelo acórdão de fls. 434-438, e-STJ.
+Nas razões do recurso especial (fls. 454-469, e-STJ), o recorrente aponta violação dos arts. 1.015, II e VII, e 114 do CPC/15. Sustenta, em síntese, que: i) o rol de hipóteses em que se admite a interposição de agravo de instrumento é de taxatividade mitigada, não sendo o caso dos autos, que não discorre sobre a exclusão de litisconsorte no feito; ii) todos os pedidos deduzidos pelos recorridos voltam-se à desconstituição do negócio jurídico firmado, inexistindo qualquer pedido em face do ora recorrente, razão pela qual deve ser afastada a sua inclusão na demanda.
+Contrarrazões às fls. 484-489, e-STJ.
+Após decisão de admissão do recurso especial quanto à apontada contrariedade ao artigo 1015, incisos II e VII, do CPC (fls. 506-508, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A pretensão recursal merece prosperar parcialmente.
+1. Cinge-se a controvérsia acerca da alegada vulneração do artigo 1015, II e VII, do CPC, ao argumento do cabimento do recurso de agravo de instrumento em face de decisão que deferiu a inclusão de litisconsorte passivo da demanda de origem.
+Acerca da controvérsia, o Tribunal local assim decidiu (fl. 356, e-STJ):
+Conforme se observa dos autos de origem, a decisão agravada indeferiu o pedido de inclusão do Sr. Clotário na polaridade passiva do feito por não vislumbrar a sua legitimidade passiva, hipótese que se amolda à perfeição ao inciso VII do art. 1.015 do Código de Processo Civil.
+Com se vê, a Corte local consignou que não existiu exclusão do litisconsórcio, mas apenas o indeferimento do pleito de aditamento da inicial para, então, determinar a inclusão do Sr. Clotário no polo passivo da referida demanda.
+1.1. A Corte Especial do STJ, sob a sistemática dos recursos repetitivos (Tema 988), definiu a tese de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018).
+Confira-se:
+AGRAVO INTERNO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC. FALTA DE PREQUESTIONAMENTO. AGRAVO DE INSTRUMENTO. CABIMENTO. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da recorrente.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ).
+3. A Corte Especial, sob a sistemática dos recursos repetitivos, definiu a tese de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018).
+4. "O entendimento segundo o qual cabe agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento no recurso de apelação é aplicável independentemente da data em que foi proferida a decisão interlocutória na fase de conhecimento" (AgInt no REsp 1797886/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/11/2019, DJe 06/12/2019).
+5. A reapreciação do suporte fático-probatório dos autos é vedada nesta Corte, pelo óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1601464/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020)
+Na hipótese, contudo, infere-se que o agravo de instrumento não pode ser conhecido, porquanto a matéria em discussão (pleito de inclusão do recorrente no polo passivo da demanda) não se amolda à nenhuma das hipóteses elencadas no rol taxativo do artigo 1.015 do CPC, além de não ter sido verificada a urgência decorrente da inutilidade do julgamento da questão em eventual recurso de apelação.
+Assim, o Tribunal local decidiu em dissonância com o entendimento deste STJ, tendo em vista não ser cabível agravo de instrumento em face de decisão que afasta a ilegitimidade passiva. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO CONFIGURADA. ILEGITIMIDADE PASSIVA AD CAUSAM. INOBSERVÂNCIA DE URGÊNCIA NO RECURSO. IMPOSSIBILIDADE DE APLICAÇÃO DA TESE FIRMADA NOS RESPS. 1.696.396/MT E 1.704.520/MT ACERCA DA TAXATIVIDADE MITIGADA DO ROL DO ART. 1.015 DO NOVO CPC/2015. REVISÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+ ..  2. O acórdão recorrido está em conformidade com a jurisprudência do Superior Tribunal de Justiça de que descabe interpor Agravo de Instrumento contra decisão interlocutória que versa sobre ilegitimidade passiva, pois essa matéria não faz parte do rol de hipóteses do artigo 1.015 do CPC/2015. Nesse sentido: AgInt no AREsp 1.063.181/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/9/2019.
+ ..  (AgInt no AREsp n. 2.430.725/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Corroborando este entendimento: AgInt no AREsp n. 1.063.181/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/9/2019, DJe de 24/9/2019; REsp n. 1.704.520/MT, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/12/2018, DJe de 19/12/2018.
+No entanto, inexistindo elementos nos autos acerca de eventual urgência, e não sendo possível a este STJ a incursão no acervo fático-probatório, inviável a análise do cabimento do agravo de instrumento, à luz da taxatividade mitigada, neste momento. De rigor, portanto, a devolução dos autos à origem para nova análise do cabimento do recurso, à luz da jurisprudência desta Corte e afastada a subsunção aos incisos do art. 1.015 do CPC.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, dou parcial provimento ao recurso especial, determinando o retorno dos autos à origem para novo julgamento à luz da jurisprudência desta Corte Superior.
+Publique-se.
+Intimem-se.
+EMENTA
