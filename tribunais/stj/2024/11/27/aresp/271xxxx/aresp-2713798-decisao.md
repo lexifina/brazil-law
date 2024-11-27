@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TREVOR FRANCIS BRITO MARIANI (TREVOR) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 256/266).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, TREVOR alegou a violação dos arts. 80, IV e 523, §1º do CPC, ao sustentar que (1) a reiteração de expedientes judiciais com teses semelhantes sobre questão já transitada em julgado, na tentativa de obstar o cumprimento da obrigação determinada em sentença, configura litigância de má-fé; (2) o valor da multa e dos honorários advocatícios deve incidir sobre a totalidade do débito e não apenas sobre o saldo remanescente, visto que o pagamento voluntário parcial do valor ocorreu fora do prazo estipulado pelo juiz; (3) suscitou dissídio jurisprudencial, apontando como paradigma um acórdão proferido pelo TJMG (agravo de instrumento nº 1.0024.12.244503-4/003).
+(1) Da litigância de má-fé
+No ponto, o Tribunal de Justiça do Distrito Federal e Territórios afastou o pedido de litigância de má-fé formulado por TREVOR, nos seguintes termos:
+Finalmente, não há que se falar em litigância de má-fé. O exercício regular do direito de defesa não importa em violação aos deveres das partes no processo dos arts. 77 e 80 do CPC. Ainda que o impugnante pretenda a modificação de fatos e fundamentos já decididos na fase de conhecimento, tal fato pode ser facilmente constatado pelo magistrado, como de fato ocorreu na hipótese.
+Se não há qualquer possibilidade de induzir o juízo em erro, descabe a condenação do agravado na multa prevista no art. 81 do CPC. (e-STJ, fls. 50).
+A análise da tese recursal, no sentido de que o BANCO BMG S/A (BANCO) teria adotado conduta caracterizadora de ato atentatório à justiça, demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO DA PRESIDÊNCIA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS POR SUPOSTA INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO - SERASA -VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, I, DO CPC. NÃO OCORRÊNCIA. MULTA PROCESSUAL APLICADA NA ORIGEM. ART. 1.026, § 2º, DO CPC. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ATO ILÍCITO DO SERASA. NÃO VERIFICADO. LITIGÂNCIA DE MÁ-FÉ. RECONHECIMENTO NA ORIGEM. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DEFICIÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência do STJ, cabe aos bancos de dados e cadastros de inadimplentes apenas a anotação das informações passadas pelos credores, não sendo de sua alçada a confirmação dos dados fornecidos.
+4. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+5. Rever a conclusão adotada pela Corte estadual sobre a caracterização de litigância de má-fé demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, em razão do teor da Súmula 7 do STJ
+6. O dissídio jurisprudencial deve ser demonstrado conforme preceitua o art. 1.029, § 1º, do Código de Processo Civil, mediante o cotejo analítico dos arestos e a demonstração da similitude fática, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+7. Agravo interno desprovido.
+(AgInt no AREsp 2615433 / SP, Rel Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, j. 14/10/2024 - sem destaques no original).
+(2) Da violação ao art. 523, § 1º do CPC
+Em Primeira Instância, o MM. Juiz a quo rejeitou a impugnação ao cumprimento de sentença apresentado pelo BANCO, condenando-o a efetuar o pagamento do débito acrescido de multa e honorários advocatícios de 10% sobre o débito remanescente.
+Ao dirimir a controvérsia, o TJDFT manteve a decisão agravada, sob o fundamento de que a pena prevista no art. 523, § 1º do CPC não deveria incidir sobre o montante pago voluntariamente pelo BANCO, ainda que esse pagamento tenha sido efetuado fora do prazo legal de 15 dias. Confira-se trecho do acórdão recorrido:
+O agravado realizou pagamento voluntário de parte da dívida executada em 22/6/2023, enquanto o termo final previsto na lei ocorreu em 19/6/2023.
+O objetivo do processo executivo (satisfação do crédito) foi cumprido parcialmente - o pagamento voluntário parcial foi realizado antes do oferecimento da impugnação (em 28/6/2023), é razoável considerar que houve de fato pagamento voluntário.
+Ainda que o adimplemento parcial tenha ocorrido após o prazo de 15 dias, a legislação processual não autoriza a incidência de multa de 10% sobre o valor discutido e os honorários de execução sobre o valor integral do débito.
+Por consequência, paga a dívida voluntariamente, ainda que em parte, e até o oferecimento da impugnação, e a multa e os honorários só deverão incidir apenas quanto à dívida remanescente, conforme os princípios da razoabilidade e da proporcionalidade.
+O propósito recursal consiste em definir se o depósito parcial realizado pelo executado fora do prazo quinzenal para pagamento voluntário, previsto no art. 523 do CPC, faz com que a multa e os honorários incidam apenas sobre a parte do valor não adimplido, ou sobre o valor integral.
+A regra preconizada no art. 523, caput, do CPC é clara quanto ao prazo para o pagamento voluntário no cumprimento de sentença:
+Art. 523. No caso de condenação em quantia certa, ou já fixada em liquidação, e no caso de decisão sobre parcela incontroversa, o cumprimento definitivo da sentença far-se-á a requerimento do exequente, sendo o executado intimado para pagar o débito, no prazo de 15 (quinze) dias, acrescido de custas, se houver.
+Uma vez iniciado o cumprimento de sentença, o executado será intimado para o pagamento da obrigação de pagar quantia certa, no prazo de 15 (quinze) dias, findo o qual iniciar-se-á, automaticamente, o prazo de 15 (quinze) dias para o oferecimento de impugnação.
+Desse modo, considerando que tais prazos correm sucessiva e ininterruptamente, penso que a interpretação apresentada pelo acórdão recorrido revela-se contrária à lei, na medida em que a incidência da multa de 10% e dos honorários advocatícios é imposição que decorre no mero descumprimento obrigacional no prazo definido em lei, não se incompatibilizando com os princípio da razoabilidade e da proporcionalidade.
+Com efeito, isso reflete o caráter absoluto da norma prevista no § 1º do artigo 523, que impõe essas penalidades pela ausência de quitação voluntária completa dentro do prazo legal, mesmo em casos de pagamento parcial posterior. In verbis:
+§ 1º Não ocorrendo pagamento voluntário no prazo do caput, o débito será acrescido de multa de dez por cento e, também, de honorários de advogado de dez por cento.
+§ 2º Efetuado o pagamento parcial no prazo previsto no caput, a multa e os honorários previstos no § 1º incidirão sobre o restante.
+De acordo com precedentes desta Corte Superior,  a multa de 10% está condicionada à intempestividade do pagamento ou à resistência manifestada na fase de cumprimento de sentença. Assim, considerando que o pagamento parcial foi realizado fora do prazo de 15 dias para quitação voluntária - como expressamente afirmado no acórdão recorrido - a penalidade deverá incidir sobre o valor total do débito, e não apenas sobre o restante não pago.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO TEMPESTIVO DA QUANTIA DEVIDA. MENÇÃO À INTENÇÃO DE CONTESTAR A DÍVIDA. NÃO APRESENTAÇÃO DE IMPUGNAÇÃO. EQUIVALÊNCIA AO PAGAMENTO VOLUNTÁRIO. ART. 523, § 1º, DO CPC/2015. ENCARGOS. NÃO CABIMENTO. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A orientação jurisprudencial deste Tribunal de Uniformização é no sentido de que, no cumprimento de sentença, o depósito integral do montante perseguido, de forma tempestiva, aliado a não apresentação de impugnação, ainda que o devedor tenha feito expressa referência à intenção de contestar o débito, é suficiente para caracterizar o pagamento da dívida, afastando a incidência dos encargos a que alude o art. 523, § 1º, do CPC/2015.
+2. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 2063331 / SP, Rel Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/10/2023 - sem destaques no original).
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. CUMPRIMENTO DE SENTENÇA. ART. 523, § 1º, DO CPC/15. INCIDÊNCIA. NECESSIDADE, NO PARTICULAR, DE AUTORIZAÇÃO DO JUÍZO DA RECUPERAÇÃO PARA INÍCIO DA FLUÊNCIA DO PRAZO. MOMENTO A PARTIR DO QUAL EVENTUAL RECUSA AO ADIMPLEMENTO SERÁ CONSIDERADA VOLUNTÁRIA.
+(..)
+3. A multa e os honorários advocatícios previstos no art. 523, § 1º, do CPC/15 somente incidem sobre o valor da condenação nas hipóteses em que o executado não paga voluntariamente a quantia devida estampada no título judicial no prazo de 15 dias.
+(..)
+RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp 1953197 / GO, Rel Ministra NANCY ANDRIGHI, Terceira Turma, j. 05/10/2021 - sem destaques no original).
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, para determinar que seja aplicada a multa de 10% e honorários advocatícios de 10% sobre o valor total do débito, na forma do § 1º do artigo 523 do Código de Processo Civil, descontado o valor já pago.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PAGAMENTO VOLUNTÁRIO PARCIAL FORA DO PRAZO DE 15 DIAS. INCIDÊNCIA DA PENALIDADE DO § 1º DO ART. 523 DO CPC SOBRE A TOTALIDADE DO DÉBITO. PRECEDENTES DO STJ. REFORMA DO ACÓRDÃO RECORRIDO. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
