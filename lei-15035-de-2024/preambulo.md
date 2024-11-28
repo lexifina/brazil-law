@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para permitir a consulta pública do nome completo e do número de inscrição no Cadastro de Pessoas Físicas (CPF) das pessoas condenadas por crimes contra a dignidade sexual, garantido o sigilo do processo e das informações relativas à vítima, e a Lei nº 14.069, de 1º de outubro de 2020, para determinar a criação do Cadastro Nacional de Pedófilos e Predadores Sexuais.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
