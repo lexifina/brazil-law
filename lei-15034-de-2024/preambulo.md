@@ -1,0 +1,2 @@
+Altera a Lei nº 13.999, de 18 de maio de 2020, e a Lei nº 12.087, de 11 de novembro de 2009, para autorizar o aumento da participação da União no Fundo Garantidor de Operações (FGO), com o objetivo de garantir as operações contratadas no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf); e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
