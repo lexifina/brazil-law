@@ -1,0 +1,24 @@
+DECISÃO
+MARCO AURELIO OLIVEIRA SILVEIRA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul nos Embargos de Declaração em Apelação Criminal n. 5001030-13.2023.8.21.0165.
+Nesta Corte, a defesa busca o direito paciente de recorrer em liberdade da sentença que o condenou à pena de 6 anos e 4 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática de crime de furto qualificado tentado. Aduz que a prisão cautelar não é compatível com o regime fixado para o início do cumprimento da pena e que o paciente encontra-se em prisão domiciliar.
+Decido.
+No caso, o paciente foi preso em flagrante, juntamente com outras duas pessoas, pela suposta prática dos crimes previstos nos arts. 157, § 3º, II, c/c o art. 14, II, por duas vezes, e 288, parágrafo único, ambos do Código Penal. Ao convolar o flagrante em prisão preventiva, o Juízo singular consignou que (fl. 91, grifei):
+Os dois custodiados envolvidos na prática criminosa inicial possuem consideráveis antecedentes criminais, sendo ambos reincidentes: MARCO AURÉLIO possui condenação por receptação, pena já cumprida, porém tecnicamente reincidente.
+ ..
+Cumpre observar que há notícia nos autos de que já havia investigação em curso, em que pese ausente elementos materiais da citada investigação, acerca da prática de crimes patrimoniais semelhantes ao que deu início a todos os fatos trazidos no caderno policial. Os fatos possuem elevada gravidade, como já destacado, corroborados pela existência de histórico por parte dos dois custodiados na prática de ilícitos, situação que autoriza a manutenção da prisão de PAULO e de MARCO como garantia da ordem pública, visando evitar a reprodução de ilícitos, mormente de fatos da natureza como o presente, demonstrando ambos os custodiados tendência à fuga de qualquer ação policial.
+Ao longo da instrução criminal foi deferida a prisão domiciliar ao paciente, mediante imposição de monitoração eletrônica, "até que seja retirado o dreno ligado ao fígado que agrava o risco de infecção" (fl. 106).
+Ao final, o paciente foi condenado à pena de 7 anos, 2 meses e 20 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática dos delitos de roubo majorado e associação criminosa. Na ocasião, a Magistrada sentenciante manteve as medidas cautelares fixadas no curso do processo  ..  para assegurar a aplicação da lei penal e evitar reiteração delitiva" (fl. 53).
+A Corte local deu parcial provimento ao apelo defensivo, apenas para reconhecer a confissão espontânea e reduzir a pena para 6 anos e 4 meses de reclusão. A segregação cautelar foi mantida, "seja pela gravidade concreta do crime, seja pela possibilidade de reiteração delitiva" (fl. 138).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Inicialmente, releva salientar que a jurisprudência consolidada desta Corte Superior considera válida, para manter a prisão preventiva em sentença condenatória ou decisão de pronúncia, a referência aos fundamentos exarados no decreto de custódia cautelar. A propósito:
+ ..
+1. A jurisprudência consolidada desta Corte Superior considera válida, para manter a prisão preventiva em sentença condenatória ou decisão de pronúncia, a referência aos fundamentos exarados no decreto de custódia cautelar. Precedentes.
+ ..
+5. Agravo não provido.
+(AgRg no HC n. 776.127/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/4/2023, DJe de 19/4/2023, grifei)
+As circunstâncias descritas pelas instâncias ordinárias justificam, a um primeiro olhar, a negativa do recurso em liberdade, diante do risco de reiteração delitiva, evidenciado pela reincidência do paciente em crimes patrimoniais.
+Ademais, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022).
+No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, DJe 16/2/2023).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
