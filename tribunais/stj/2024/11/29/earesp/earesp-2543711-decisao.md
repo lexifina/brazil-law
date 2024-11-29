@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos em face do v. acórdão prolatado pela Terceira Turma desta Corte Superior, cuja ementa ficou assim definida:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TEA. TERAPIAS MULTIDISCIPLINARES. EQUOTERAPIA. RECUSA DE COBERTURA INDEVIDA. COBERTURA OBRIGATÓRIA. 1. Ação de obrigação de fazer. 2. Embora fixando a tese quanto à taxatividade, em regra, do rol de procedimentos e eventos em saúde da ANS, a Segunda Seção negou provimento ao ER Esp 1.889.704/SP da operadora do plano de saúde, para manter acórdão da Terceira Turma que concluiu ser abusiva a recusa de cobertura de sessões de terapias especializadas prescritas para o tratamento de transtorno do espectro autista (TEA). 3. Ao julgamento realizado pela Segunda Seção, sobrevieram diversas manifestações da ANS, no sentido de reafirmar a importância das terapias multidisciplinares para os portadores de transtornos globais do desenvolvimento, e de favorecer, por conseguinte, o seu tratamento integral e ilimitado. 5. A Corte Especial do STJ orienta que o julgador se vincula apenas aos precedentes existentes no momento em que presta sua jurisdição. 6. Agravo interno desprovido.
+Irresignada, a parte interpôs embargos de divergência, indicando como paradigma REsp 1.824.961/RJ (2019/0194680-6), assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO JUDICIAL. MODULAÇÃO DO EFEITOS. APELAÇÃO. DESCABIMENTO. HONORÁRIOS ADVOCATÍCIOS. CAUSALIDADE.
+1. O art. 927, § 3º, do CPC/2015 permite a modulação dos efeitos de certas decisões proferidas pelo Supremo Tribunal Federal e por Tribunais Superiores, quando o justifique o interesse social e a segurança jurídica. Não se aplica no julgamento de apelação.
+2. Por força do princípio da causalidade, a parte que deu causa à instauração do processo deve responder pelo pagamento das respectivas despesas. No caso, o pedido de recebimento de diferenças salariais supostamente devidas em razão do disposto na Lei estadual n. 1.206/1987 foi julgado improcedente.
+3. O fato de o STF, no julgamento do ARE 909.437 RG/RJ, haver dispensado a devolução de valores eventualmente recebidos pelos servidores públicos até certa data não altera a circunstância de que os autores foram vencidos na demanda.
+4. Recurso especial a que se dá provimento.
+(REsp n. 1.824.961/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 27/8/2019, DJe de 6/9/2019.)
+Alega, em síntese (fl. 1736):
+Em que pese a fundamentação da Corte Superior acerca da cobertura de terapias em métodos específicos, tem-se que a alteração no rol da ANS é posterior a interposição da demanda.
+Portanto, o presente Embargos elenca acerca da necessidade de modulação dos efeitos e do respeito aos artigos 1º e 6º da LINDB, diante da RN vigente à época dos fatos ser a RN 465/2021.
+Desta feita, é cristalino que se há taxatividade no rol da ANS, o pedido encaminhado ao Plano de Saúde deve ser observado com base na correspondente legislação setorial vigente no período.
+Conforme expresso, a recente mudança no rol ocorreu em 01 de julho de 2022 e a presente demanda foi distribuída no ano de 2021, sendo imprescindível a modulação dos efeitos aos autos.
+Ao final, pugna pelo conhecimento e provimento do presente recurso.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso em comento, verifica-se patente a inadmissibilidade do recurso.
+Com efeito, "para que se configure o dissídio jurisprudencial é indispensável que os julgados confrontados revelem soluções distintas extraídas das mesmas premissas fáticas e jurídicas" (AgRg nos EREsp 1.202.436/RS, Rel. Ministro Teori Albino Zavaski, DJe 10/02/2012).
+De fato, o recurso não comporta admissibilidade, seja pelo cotejo analítico deficiente, seja pela falta de similitude fática; seja, ainda, pela aplicação do enunciado n. 168 da Súmula do STJ, uma vez que o acórdão vergastado esta em acordo com a jurisprudência firmada nesta Corte Superior; seja, ainda, porque os embargos de divergência não se prestam a modificar a decisão proferida, quando, para sua análise haja necessidade de se revolver elementos fático-probatórios.
+O recurso não comporta conhecimento, ante a ausência do necessário cotejo analítico. Não foi realizado o comparativo entre os julgados proferidos, na forma do art. 266, § 4º, do RI/STJ.
+Não basta para o atendimento do requisito a mera transcrição de trechos esparsos e da ementa dos julgados que entende ser divergente, ainda que apresentados em paralelo.
+É necessária a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos específicos dos acórdãos que configuram o dissídio, em comparação com o acórdão recorrido, com a clara indicação das circunstâncias fáticas que identificam ou assemelham os casos confrontados, sem o que se torna inviável a apreciação da divergência.
+Nesse sentido:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. CUSTAS INICIAIS. INTIMAÇÃO PESSOAL. DESNECESSIDADE. SÚMULA 168/STJ. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA NÃO DEMONSTRADA.
+1. A divergência não foi caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, é insuficiente à comprovação do dissídio jurisprudencial invocado.
+2. Ademais, ainda que a divergência fosse notória, esta Corte tem entendimento de que não há dispensa do cotejo analítico, a fim de demonstrar a divergência entre os arestos confrontados. Precedente.
+ ..
+Agravo interno improvido. (AgInt nos EAREsp 261.239/MT, Corte Especial, Rel. Min. Humberto Martins, DJe 30/08/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO ENTRE ACÓRDÃOS PARADIGMA E EMBARGADO. AUSÊNCIA. SIMILITUDE FÁTICA. NÃO DEMONSTRADA. DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE.
+1. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+2. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+3. Agravo interno não provido. (AgInt nos EAREsp 992.733/SP, Corte Especial, Rel. Min. Nancy Andrighi, DJe 04/12/2017)
+E, de fato, ainda que deficiente o referido cotejo analítico, é possível perceber a ausência de similitude fática, já que o paradigma refere-se à possibilidade de modulação dos efeitos de certas decisões proferidas no âmbito do STJ ou STF, quando justifique o interesse social e a segurança jurídica, enquanto o caso em tela versa sobre a recusa de cobertura de sessões de terapia especializada, de psicoterapia ou tratamento multidisciplinar, prescritas para o tratamento de transtorno do espectro autista (TEA), sem que a questão da modulação sequer tivesse sido aventada.
+A posição adotada no acórdão embargado está em consonância com o entendimento que se firmou neste Superior Tribunal de Justiça. incide, na espécie, o enunciado n. 168, da Súmula do STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acordão embargado".
+Ademais, e por fim, os embargos de divergência não se prestam a avaliar a justiça ou injustiça da decisão proferida, nem a modificá-la, quando, para sua análise haja necessidade de revolver elementos fático-probatórios (Enunciado n. 7 da Súmula do STJ), como é o caso dos autos.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Advirta-se que o manejo de novo recurso manifestamente inadmissível ou infundado, poderá ensejar aplicação de multa por litigância de má-fé.
+Publique-se. Intimem-se.
+EMENTA
