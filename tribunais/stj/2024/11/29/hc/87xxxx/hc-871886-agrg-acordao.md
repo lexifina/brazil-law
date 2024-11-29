@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO À DISTÂNCIA. REQUISITOS NÃO ATENDIDOS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo o indeferimento de remição de pena por estudo à distância, por falta de comprovação dos requisitos legais.
+2. O juízo da execução indeferiu a remição por ausência de comprovação de credenciamento da instituição de ensino e falta de supervisão pela administração penitenciária, além de não haver demonstração das horas efetivamente estudadas.
+3. O Tribunal de origem confirmou a decisão, destacando a ausência de integração das atividades ao projeto político-pedagógico do estabelecimento prisional e a falta de comprovação da carga horária diária.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a remição de pena por estudo à distância pode ser concedida sem a comprovação de credenciamento da instituição de ensino e supervisão pela administração penitenciária, bem como sem a demonstração das horas efetivamente estudadas.
+III. Razões de decidir
+5. A decisão recorrida está amparada pela jurisprudência que exige credenciamento da instituição de ensino e supervisão pela administração penitenciária para remição de pena por estudo à distância.
+6. A ausência de comprovação das horas efetivamente estudadas inviabiliza o cálculo da remição, conforme os critérios estabelecidos na legislação.
+7. A revisão do entendimento adotado pelas instâncias ordinárias demandaria revolvimento fático-probatório, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A remição de pena por estudo à distância exige credenciamento da instituição de ensino e supervisão pela administração penitenciária. 2. A comprovação das horas efetivamente estudadas é indispensável para o cálculo da remição."
+Dispositivos relevantes citados: LEP, art. 126, § 2º; Resolução CNJ n. 391/2021.
+Jurisprudência relevante citada: STJ, AgRg no HC 642.837/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022; STJ, AgRg no R Esp n. 2.105.666/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WESLEY FONSECA DOS SANTOS em face de decisão proferida, às fls. 65-70, que denegou o habeas corpus.
+Consta dos autos que o juízo da execução indeferiu o pleito defensivo de remição de pena por estudo, decisão mantida pelo Tribunal de origem.
+Nas razões do agravo, às fls. 75-97, a parte recorrente argumenta, em síntese, que o artigo 126 da LEP não exige expressamente que o curso seja credenciado pela administração penitenciária ou fiscalizado por ela. A exigência legal é apenas que o curso seja devidamente certificado por instituição de ensino competente, o que foi cumprido no caso em tela.
+Reitera que o curso realizado pelo agravante é autorizado pelo MEC e credenciado pela Secretaria de Educação do Distrito Federal, cumprindo os requisitos de seriedade e validade educacional
+Requer o conhecimento e provimento do presente recurso a fim de ser reformada a decisão atacada para conceder a remição das 180 horas referente ao curso de "Auxiliar de Pedreiro", da instituição CENED.
+O Ministério Público Federal manifestou-se às fls. 108-111 pelo não provimento do agravo regimental.
+Decorrido o prazo, o Ministério Público do Estado de São Paulo não apresentou as contrarrazões (fl. 117).
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO À DISTÂNCIA. REQUISITOS NÃO ATENDIDOS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo o indeferimento de remição de pena por estudo à distância, por falta de comprovação dos requisitos legais.
+2. O juízo da execução indeferiu a remição por ausência de comprovação de credenciamento da instituição de ensino e falta de supervisão pela administração penitenciária, além de não haver demonstração das horas efetivamente estudadas.
+3. O Tribunal de origem confirmou a decisão, destacando a ausência de integração das atividades ao projeto político-pedagógico do estabelecimento prisional e a falta de comprovação da carga horária diária.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a remição de pena por estudo à distância pode ser concedida sem a comprovação de credenciamento da instituição de ensino e supervisão pela administração penitenciária, bem como sem a demonstração das horas efetivamente estudadas.
+III. Razões de decidir
+5. A decisão recorrida está amparada pela jurisprudência que exige credenciamento da instituição de ensino e supervisão pela administração penitenciária para remição de pena por estudo à distância.
+6. A ausência de comprovação das horas efetivamente estudadas inviabiliza o cálculo da remição, conforme os critérios estabelecidos na legislação.
+7. A revisão do entendimento adotado pelas instâncias ordinárias demandaria revolvimento fático-probatório, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A remição de pena por estudo à distância exige credenciamento da instituição de ensino e supervisão pela administração penitenciária. 2. A comprovação das horas efetivamente estudadas é indispensável para o cálculo da remição."
+Dispositivos relevantes citados: LEP, art. 126, § 2º; Resolução CNJ n. 391/2021.
+Jurisprudência relevante citada: STJ, AgRg no HC 642.837/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022; STJ, AgRg no R Esp n. 2.105.666/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024.
+VOTO
+Em que pesem os argumentos contidos nas razões recursais, o agravo não comporta provimento, porquanto a parte agravante não trouxe argumentos capazes de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, que deve ser mantida, máxime porque embasada em julgados desta Corte Superior de Justiça.
+O Juízo da Execução indeferiu a remição, com os seguintes fundamentos (fl. 27):
+"A Lei Federal nº 12.433/2011 autorizou que o estudo fizesse jus à configuração da remição, desde que atendidos claros requisitos, sendo eles: as espécies de estudo (ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional), a frequência do estudo (12 horas divididas, no mínimo, em 3 dias), o formato das aulas (presencial ou por metodologia de ensino à distância devidamente certificadas) e, por fim, a comprovação do estudo desenvolvido (registro dos dias trabalhados ou estudados realizado pelo estabelecimento prisional e encaminhado ao juízo da execução).
+No caso dos atestados de fls. 186/188, não há comprovação de credenciamento da instituição indicada, para devida fiscalização.
+Assim, indefiro o pedido de remição."
+Acerca do caso concreto, o Tribunal de origem assim dispôs (fl. 17):
+"No caso dos autos, observa-se que o curso fora realizado sem a supervisão da administração penitenciária, conforme se depreende do certificado de fl. 13, assinado apenas pela instituição de ensino, e do ofício da unidade prisional de fl. 18, de sorte que não há comprovação de integração das atividades ao projeto político- pedagógico do estabelecimento prisional, como exige a Lei de Execução Penal e disciplina a Recomendação acima.
+Além disso, vale pontuar que não houve demonstração de quantas horas o sentenciado efetivamente estudou, mas apenas a menção da carga horária total do curso. A ausência de indicação da carga horária diária impossibilita o cálculo da remição, uma vez que deve ser feito à razão de 01 dia de pena a cada 12 horas de frequência escolar, divididas, no mínimo, em 03 dias, de sorte simples informação de carga horária total de cada curso não permite a conferência desse requisito.
+Dessa forma, correto o não aproveitamento do tempo de estudo para fins de remição."
+Na hipótese em análise, observa-se que o indeferimento da remição se deu por não comprovação dos critérios estabelecidos na legislação, tendo o juízo a quo afirmado que não há comprovação de credenciamento da instituição indicada, para devida fiscalização.
+Além disso, restou consignado pelas instâncias ordinárias que o curso fora realizado sem a supervisão da administração penitenciária, que não há comprovação de integração das atividades ao projeto político-pedagógico do estabelecimento prisional, bem como que não houve demonstração de quantas horas o sentenciado efetivamente estudou, mas apenas a menção da carga horária total do curso.
+Por conseguinte, a decisão recorrida está amparada pela jurisprudência desta Corte, a qual entende que:
+"a realização de estudo na modalidade à distância, para fins de remição da pena, deve atender a critérios mínimos, inclusive convênio prévio entre a unidade prisional e o poder público, a fim de demonstrar a sua sintonia e adequação aos propósitos da Lei de Execução Penal, sendo indispensável, ainda, a supervisão pela Unidade Prisional, o acompanhamento pelo Juiz da execução e a fiscalização pelo Ministério Público. Precedentes" (AgRg no HC 642.837/SC, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe 14/2/2022).
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REMIÇÃO DE PENA. ENSINO À DISTÂNCIA. ENTIDADE EDUCACIONAL. NECESSIDADE DE CREDENCIAMENTO JUNTO AO "SISTEC" DO MINISTÉRIO DA EDUCAÇÃO E CONVÊNIO COM A UNIDADE PRISIONAL. REQUISITOS NÃO CUMPRIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 126, § 2º, da Lei de Execução Penal e da Resolução n. 391, de 10/05/2021, do Conselho Nacional de Justiça (publicada no D Je/CNJ n. 120/2021, de 11/05/2021), a remição de pena em virtude de estudo realizado pelo apenado na modalidade capacitação profissional à distância deve atender os requisitos previstos nos arts. 2º e 4º da mencionada resolução, dentre os quais (1) demonstração de que a instituição de ensino que ministra o curso à distância é autorizada ou conveniada com o poder público para esse fim; (2) demonstração da integração do curso à distância realizado ao projeto político-pedagógico (PPP) da unidade ou do sistema prisional; (3) indicação da carga horária a ser ministrada e do conteúdo programático; (4) registro de participação da pessoa privada de liberdade nas atividades realizadas.
+2. No caso, extrai-se do acórdão recorrido que a entidade educacional denominada Centro de Educação Profissional - Escola CENED não está cadastrada junto à unidade prisional, tampouco está devidamente autorizada ou conveniada com o Poder Público para tal fim. Não há, outrossim, evidência de que a entidade, emissora do certificado do curso, seja credenciada junto ao Sistema Nacional de Informações da Educação Profissional e Tecnológica (SISTEC) do Ministério da Educação para ofertar os cursos realizados pelo agravante, não sendo possível aferir se a certificação possui respaldo das autoridades educacionais competentes, na forma do art. 129 da LEP.
+3. Não se olvida da orientação jurisprudencial de que o apenado não pode ser prejudicado pela inércia do Estado na fiscalização, no caso, contudo, não se cuida de falha na fiscalização, o que se verifica, na verdade, é a efetiva ausência de prévio cadastramento da entidade de ensino com a unidade prisional e o poder público para a finalidade pretendida, conforme expressamente consignado pelo Juízo das Execuções Penais.
+4. Em situações análogas esta Corte Superior já se posicionou pela impossibilidade de remição de pena em virtude de conclusão de curso à distância oferecido por entidade não credenciada. Precedentes: REsp n. 2.082.457, Ministro Messod Azulay Neto, DJe de 04/12/2023; REsp n. 2.053.661, Ministro Joel Ilan Paciornik, DJe de 10/11/2023; REsp n. 2.062.003, Ministro Rogerio Schietti Cruz, DJe de 10/10/2023; e REsp n. 1.965.900, Ministro Messod Azulay Neto, DJe de 01/08/2023.
+5. Agravo regimental a que se nega provimento" (AgRg no REsp n. 2.105.666/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024 - grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR CURSOS À DISTÂNCIA. REQUISITOS NÃO PREENCHIDOS (AUSÊNCIA DE CERTIFICAÇÃO FEITA PELA AUTORIDADE EDUCACIONAL COMPETENTE E FALTA DE INFORMAÇÕES SOBRE AS HORAS EFETIVAMENTE ESTUDADAS). REVISÃO DO ENTENDIMENTO ADOTADO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. A remição de pena em razão das horas de estudo à distância concluídas pelo paciente pode ser deferida, desde que as atividades - desenvolvidas de forma presencial ou a distância -, sejam certificadas pelas autoridades educacionais competentes dos cursos frequentados, conforme o disposto no art. 126, § 2º, da LEP.
+2. O benefício demanda, pois, um controle mínimo para seu reconhecimento, com intuito de evitar fraudes e a sua inadvertida concessão.
+3. Nesse sentido, a jurisprudência do Superior Tribunal de Justiça é firme ao asseverar que, "ainda que concluído o curso na modalidade à distância - in casu - a remição em decorrência do estudo exige, para cada dia de pena remido, a comprovação de horas de estudo, que, dada a sistemática da lei de execução penal, encontrando- se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais" (AgRg no HC n. 478.271/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, D Je de 30/8/2019).
+4. O Tribunal Estadual consignou que não foi comprovada a certificação dos cursos pela autoridade educacional competente, além de não haver informações sobre as horas efetivamente estudadas, de modo que não se verifica o cumprimento dos requisitos legais para a remição das horas estudadas.
+5. A revisão do entendimento adotado pela instância de origem para decidir de forma contrária, acolhendo-se o pedido defensivo, demandaria o revolvimento fático-probatório, obstado na estreita via do habeas corpus.
+6. Agravo regimental desprovido" (AgRg no HC n. 799.281/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023 - grifei).
+Ademais, a alteração d a conclusão a que chegaram as instâncias ordinárias e acolher a pretensão da defesa demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível na via eleita:
+"O acórdão impugnado está em consonância com o entendimento desta Corte, no sentido de que, não tendo sido possível a fiscalização das horas de estudo realizadas à distância pelo apenado, torna-se inviável a remição pretendida pela defesa. Ademais, para rever o entendimento adotado pela instância ordinária é necessário o revolvimento fático-probatório, inviável na via eleita" (AgRg no HC n. 755.631/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+"Rever o entendimento do Tribunal a quo sobre a insuficiência da comprovação acerca das horas estudadas em cela pelo reeducando demandaria revolvimento de matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus" (AgRg no HC n. 772.594/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022 ).
+Nesse sentido: AgRg no HC n. 815.842/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/8/2023, DJe de 14/8/2023; AgRg no HC n. 640.074/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/5/2021, DJe de 17/5/2021; e AgRg no HC n. 643.088/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/3/2021, DJe de 15/3/2021.
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
