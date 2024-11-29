@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por VICTOR HUGO DINIZ ANACLETO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 1500188-35.2023.8.26.0608.
+Em suas razões, o agravante sustenta que não incidem os óbices aplicados, pois a contrariedade artigos 157, 240, §2º e 244, ambos do Código de Processo Penal foi amplamente arguida e demonstrada (fl. 399)
+Alega que ficou bem demonstrada a divergência jurisprudencial, bem como afasta a necessidade de revolvimento fático-probatório (fls. 397-403).
+Contrarrazões às fls. 406-409.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo em recurso especial (fls. 428-430).
+É o relatório.
+DECIDO.
+O agravo não pode ser conhecido.
+A Corte de origem inadmitiu o recurso especial diante dos óbices contidos nas das Súmulas n. 284 do STF e 7 do STJ, por impugnar contrariedade à Constituição (art. 5º, X, da CF), bem como por ausência de demonstração de divergência jurisprudencial (fls. 391-394). Nas razões do agravo, contudo, a parte deixou de impugnar de forma efetiva a incidência dos referidos impedimentos.
+Inicialmente, com atinência à refutação do verbete sumular de número 7 desta Corte Superior, o agravante deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório. Não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido.
+Como se sabe, "são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp 2176543/SC. Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023), o que não se verifica na hipótese.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍF ICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MONOCRÁTICA MANTIDA.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe, conforme ressaltado na decisão monocrática recorrida, o não conhecimento do agravo em recurso especial.
+2. No caso dos autos, a parte agravante deixou de infirmar, de maneira adequada e específica, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial, especificamente com relação à incidência da Súmula n. 7/STJ.
+3. Nos termos da jurisprudência desta eg. Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, julgado em 27/09/2022, DJe de 30/09/2022.).
+4. Agravo regimental desprovido. (AgRg no AREsp 2422499/SP. Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024 - grifamos)
+Ademai s, o agravante se limita a afirmar ter demonstrado corretamente os fundamentos do inconformismo, sem buscar o ataque efetivo da Súmula n. 284/STF. Com efeito, o recorrente indicou as alíneas "a" e "d" do permissivo constitucional como violadas, tendo apontado em seu apelo nobre a ocorrência de divergência jurisprudencial, cuja a alínea é a "c".
+Como se sabe, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que, para rebater a aplicação da Súmula n. 284 do STF, quando aplicada por ausência de indicação de artigo supostamente violado, é necessário que a parte demonstre que apontou, nas razões do especial, a inobservância de dispositivo legal com força normativa capaz de alterar o aresto atacado (AgRg no AREsp 2512162/CE, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 09/04/2024, DJe de 15/04/2024).
+Nesse mesmo diapasão:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO FEDERAL VIOLADO. AGRAVO REGIMENTAL QUE NÃO IMPUGNA O FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE OU INTERCORRENTE. DATA DO TRÂNSITO EM JULGADO PARA A DEFESA QUE RETROAGE AO ÚLTIMO DIA DE PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL. EARESP n. 386.266/SP. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Recurso especial não conhecido pela Presidência desta Corte, porquanto não houve a indicação dos dispositivos legais federais que teriam sido violados, incidindo, in casu, a Súmula n. 284 do Supremo Tribunal Federal - STF.
+2. No presente regimental, a defesa não impugna o fundamento do decisum agravado, limitando-se a repisar novamente as razões de mérito do seu recurso especial.
+3. Conforme é cediço, é inviável o agravo regimental que deixa de atacar, especificamente, os fundamentos da decisão agravada.
+Incidência da Súmula n. 182 do STJ.
+ ..
+6. Agravo regimental não conhecido. (AgRg no AREsp 2376780/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/05/2024, DJe de 29/05/2024)
+Ainda que assim não fosse, o conhecimento do recurso especial, com fundamento na alínea "c" do permissivo constitucional, exige o efetivo cotejo analítico entre o acórdão apontado como paradigma e o julgado recorrido, ex vi do art. 1.029, § 1.º, do CPC, aplicável à seara criminal por força do art. 3.º do Código de Processo Penal e do art. 255, § 1.º, do RISTJ.
+Na espécie, a mera transcrição de ementas, por não evidenciar a similitude fática e a divergência interpretativa da legislação federal entre os julgados confrontados, não atende aos impositivos legal e regimental.
+Nesse sentido: AgRg no AREsp 2489541/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02/04/2024, DJe de 08/04/2024; AgRg no AgRg nos EDcl na PET no AREsp 2091916/RS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/03/2024, DJe de 08/03/2024, e AgRg no REsp 2398933/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/02/2024, DJe de 05/03/2024.
+Conclui-se, portanto, que o agravo não preenche os requisitos de admissibilidade, uma vez que deixou de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do recurso especial, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal.
+Com igual conclusão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. JULGAMENTO MONOCRÁTICO. OFENSA. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. MINUTA DE AGRAVO QUE NÃO INFIRMOU, DE FORMA CONCRETA E INDIVIDUALIZADA, TODOS OS FUNDAMENTOS DECLINADOS NA DECISÃO DE INADMISSÃO DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prolação de decisão monocrática não conhecendo do agravo em recurso especial é permitida no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça. Além disso, a possibilidade de interposição de agravo regimental afasta a alegação de ofensa ao princípio da colegialidade.
+2. Não hou ve concreta impugnação de todos os fundamentos declinados pela Corte de origem para inadmitir o recurso especial. Incidência da Súmula n. 182/STJ mantida.
+3. Agravo regimental desprovido. (AgRg no AREsp 1871630/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023 - grifamos)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
