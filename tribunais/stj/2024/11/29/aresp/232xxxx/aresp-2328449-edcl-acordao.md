@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por ESTRE AMBIENTAL S/A e OUTRAS contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. NÃO CONHECIMENTO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão de inadmissão do recurso especial impede o conhecimento do agravo, nos termos dos artigos 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. No caso dos autos, a decisão de inadmissão se apoia no fundamento de que a jurisprudência deste Tribunal Superior não admite a interposição do especial contra o acórdão do agravo interno interposto contra a decisão de inadmissão do recurso extraordinário; contudo, a parte recorrente não veicula impugnação específica contra esse fundamento.
+4. Agravo interno não provido.
+A parte embargante alega, em síntese (fls. 3066/3068):
+O objetivo dos presentes Embargos de Declaração é, exclusivamente, o de prequestionar dispositivo constitucional, sem o qual não será possível acessar o Supremo Tribunal Federal (STF)  ..  o acórdão embargado foi omisso à toda a argumentação constante do Tópico 2 do Agravo em Recurso Especial de e-STJ fls. 2.739/2.746, segundo a qual o entendimento da decisão agravada - de que não é cabível a interposição de Recurso Especial na hipótese dos autos - materializa usurpação de competência que é atribuída exclusivamente a esse STJ por força do art. 105, III, da CF/88  ..  restou amplamente demonstrado no Agravo em Recurso Especial, o art. 105, III, da CF/88 autoriza a interposição de Recurso Especial contra acórdão proferido em sede julgamento de Agravo Interno, como ocorreu no presente caso, sendo certo que o único critério a ser observado em relação ao cabimento diz respeito às "causas decididas, em única ou última instância, pelos Tribunais Regionais Federais" quando a decisão recorrida incorrer em uma das 3 hipóteses previstas nas alíneas do inciso III do permissivo constitucional.
+Sem impugnação pelas partes embargadas (fls. 3077/3088).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Com efeito, o voto condutor do acórdão embargada, de forma clara e coerente, registrou que, no caso dos autos, ao r ecurso extraordinário foi negado seguimento porque "a pretensão recursal destoa das orientações firmadas nos julgados representativos de controvérsias, o que impõe a negativa de seguimento ao recurso extraordinário, por força do art. 1.030, I, "b" c/c art. 1.040, I do CPC"; e que o órgão julgador a quo externou não haver "distinção relevante entre o caso concreto e a ratio decidendi do precedente vinculante invocado para fins de negativa de seguimento ao recurso excepcional interposto". E, com atenção a essa situação, apontou a ausência de impugnação da parte recorrente contra fundamento relevante adotado pelo tribunal de origem: a jurisprudência deste Tribunal Superior não admite a interposição do especial contra o acórdão do agravo interno interposto contra a decisão de inadmissão do recurso extraordinário.
+De fato, esse fundamento é relevante, pois este Tribunal Superior tem firme orientação jurisprudencial no sentido de que incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente qualificado, não sendo adequada a interposição de outro recurso especial contra acórdão que decide o agravo interno julgado pelos Tribunais Regionais Federais ou pelos Tribunais de Justiça (v.g.: AgInt no AREsp n. 1.926.133/DF, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/5/2023, DJe de 23/5/2023).
+Nesse contexto, forçoso o não conhecimento do agravo em recurso especial, como bem explicitado no acórdão embargado.
+Portanto, não há vício de integração a ser sanado e não há matéria constitucional a ser prequestionada, pois essa providência não é autorizada na via do especial, notadamente, quando sequer foi admitido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
