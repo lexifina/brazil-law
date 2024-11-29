@@ -1,0 +1,8 @@
+DECISÃO
+Na origem, foi interposto agravo de instrumento contra a decisão que, em sede de cumprimento de sentença condenatória por ato de improbidade, reconheceu a possibilidade de aplicação da "detração administrativa", autorizando o recredenciamento do agravado junto ao INSTITUTO DE PREVIDÊNCIA E ASSSTÊNCIA DO ESTADO DE GOIÁS - IPASGO, considerando "cumprida a sanção imposta em sentença, na parte específica da proibição de contratação junto ao IPASGO, prevalecendo, contudo, as demais sanções impostas de proibição de contratação junto ao Poder Público e de proibição de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo de três anos" (fl. 665).
+Na decisão de fls. 248/249, determinei a intimação do MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS - MPGO para se manifestar sobre a situação atual do cumprimento de sentença, em especial quanto ao recredenciamento do recorrido junto ao IPASGO após 25/3/2020, demonstrando remanescer o seu interesse recursal, tendo em vista uma possível perda do objeto.
+O MPGO informa que "tendo em vista que a sanção de proibição de contratação com o Poder Público fora imposta pelo prazo de 3 (três) anos, verifica-se, de fato, que o transcurso do prazo mencionado enseja a perda do objeto recursal, eis que expirado o prazo da sanção fixada e, portanto, esvaziado o pleito de inaplicabilidade da detração administrativa" (fl. 258).
+Ante o exposto, julgo prejudicado o recurso em razão da perda do objeto.
+Transitada em julgado esta decisão, retorne m os autos à origem.
+Publique-se. Intimem-se.
+EMENTA
