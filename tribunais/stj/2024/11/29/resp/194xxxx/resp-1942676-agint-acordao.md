@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Votaram com o Sr. Ministro Humberto Martins (Presidente) os Srs. Ministros Ricardo Villas Bôas Cueva e Moura Ribeiro. Não participaram do julgamento a Sra. Ministra Nancy Andrighi e o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INOVAÇÃO RECURSAL E SUPRESSÃO DE INSTÂNCIA. ÓBICES DAS SÚMULAS 211 DO STJ E 282 DO STF. EXAME DE FATOS E PROVAS. SÚMULA 07 DO STJ.
+As violações dos dispositivos invocados somente foram trazidas nos embargos de declaração aforados contra o acórdão proferido no recurso de apelação. Trata-se de matéria não debatida nas instâncias ordinárias, caracterizando verdadeira supressão de instância, bem como inovação recursal, importando em desrespeito às Súmulas n. 211 do STJ e 282 do STF.
+Debater sobre requisitos de preservação da estabilidade, segurança e funcionalidade da rede mundial de computadores, bem como sobre regras e cartilhas expedidas por órgãos ou entidades públicos - repita-se, teses trazidas apenas após o julgamento do recurso de apelação - representa exame de fatos e de provas, o que é vedado de acordo com a Súmula n. 7 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por UNIVERSO ONLINE S.A. ("UOL") contra decisão monocrática de minha relatoria que não conheceu do recurso especial nos termos da seguinte ementa (fl. 1272):
+RECURSO ESPECIAL. INOVAÇÃO RECURSAL E SUPRESSÃO DE INSTÂNCIA. SÚMULAS 211 DO STJ E 282 DO STF. MATÉRIA TRAZIDA APENAS NOS EMBARGOS DE DECLARAÇÃO APÓS O JULGAMENTO DO RECURSO DE APELAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões de recurso (fls. 1282-1301), a parte agravante pugna pela modificação do julgado, aduzindo, inicialmente, que a matéria recursal foi devidamente prequestionada, houve prévio debate sobre os arts. 2º, VI, 3º, V, e 9º, §§ 1º e 2º, da Lei n. 12.965/2014; 33 e 39, III, do CDC; e 373, I, do CPC, não havendo, ainda, violação da Súmula n. 7 do STJ.
+Foi apresentada impugnação ao recurso (fls. 1304-1312).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INOVAÇÃO RECURSAL E SUPRESSÃO DE INSTÂNCIA. ÓBICES DAS SÚMULAS 211 DO STJ E 282 DO STF. EXAME DE FATOS E PROVAS. SÚMULA 07 DO STJ.
+As violações dos dispositivos invocados somente foram trazidas nos embargos de declaração aforados contra o acórdão proferido no recurso de apelação. Trata-se de matéria não debatida nas instâncias ordinárias, caracterizando verdadeira supressão de instância, bem como inovação recursal, importando em desrespeito às Súmulas n. 211 do STJ e 282 do STF.
+Debater sobre requisitos de preservação da estabilidade, segurança e funcionalidade da rede mundial de computadores, bem como sobre regras e cartilhas expedidas por órgãos ou entidades públicos - repita-se, teses trazidas apenas após o julgamento do recurso de apelação - representa exame de fatos e de provas, o que é vedado de acordo com a Súmula n. 7 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não merece prosperar o presente agravo interno, porquanto a decisão agravada deve ser mantida por seus próprios fundamentos.
+Inicialmente, observa-se que a decisão examinou de forma clara e direta a inovação recursal, na medida em que a ora recorrente trouxe, em embargos de declaração distribuídos após o julgamento de recurso de apelação, matérias não debatidas na instância ordinária, violando as Súmulas n. 211 do STJ e 282 do STF.
+Nesse sentido, transcrevo trecho da decisão combatida (fls. 1273-1274):
+No caso dos autos, após a sentença, foram opostos embargos de declaração (fls. 750-762) restringindo a discussão aos arts. 6º e 9º, caput, da Lei n. 12.695/2014. Os embargos não foram conhecidos (fls. 772-774).
+As razões do recurso de apelação (fls. 777-804) basicamente reproduzem os mesmos argumentos lançados nos embargos de declaração.
+No julgamento do recurso de apelação, decidiu o TJSP (fls. 1017-1024) em acórdão assim ementado:
+APELAÇÃO Ação de obrigação de fazer visando ao desbloqueio da transmissão de dados entre as redes de internet mantidas pelas partes, para que os usuários da rede da autora possam enviar e-mails aos usuários da rede do réu Preliminar Sentença "extra petita" Inocorrência Mérito - Impossibilidade de restrição dos dados transmitidos pelo provedor da autora Multa por embargos de declaração protelatórios afastada - Recurso provido, em parte, para afastar a multa.
+Em seguida, foram opostos embargos de declaração (fls. 1028-1037), quando se verifica a inovação recursal, aportando-se novos temas não devolvidos ao tribunal quando do julgamento do recurso de apelação. Veja-se, a propósito:
+17- Portanto, o bloqueio pelo UOL do IP da Embargada foi legítimo e lícito, estando de acordo com o disposto nos artigos 22, VI, 3", V, 9º, §§1º e 2º, da Lei nº cá, 12.965/2014 e nos arts. 4º, 5º, §1º, I, do Decreto nº 8.771/2016." (..) 32- Caso assim não se entenda, os Embargos de Declaração devem acolhidos para que seja sanada a omissão verificada no acórdão embargado, se manifestando esta Câmara sobre a aplicação dos artigos 2º, VI, 32, V, 92, §§12 e 2º, da Lei nº 12.965/2014, dos artigos 4º, 5º, §12, I, do Decreto nº 8.771/2016, dos artigos 33 e 39, c2 III, do CDC e do art. 373,I, do CPC, ao presente caso, de forma a prequestionar, explicitamente, a material recursal.
+Ao examinar os embargos de declaração (fls. 1045-1048), o desembargador relator identificou em seu voto a verdadeira inovação da matéria de defesa, merecendo destaque o trecho de seu voto (fl. 1047):
+"A parte embargante não alega qualquer dificuldade de compreensão do conteúdo ou do sentido da decisão, mas sim, demonstra notório descontentamento e insatisfação com o resultado do julgamento, sendo patente seu intuito de rediscutir o que já foi decidido, repisando e inovando argumentos em favor da sua pretensão, a fim de sustentar a legitimidade do bloqueio de tráfego de dados enviados pela IPGLOBE aos seus servidores". (destaquei).
+A petição de recurso especial (fls. 1051-1070) fundamenta seu recurso na violação dos arts. 2º, VI (finalidade social da rede da internet), 3º, V (preservação da estabilidade, segurança e funcionalidade da rede), 9º, § 1º (regulamentação da discriminação ou degradação do tráfego, ouvido o Comitê Gestor da Internet, como decorrência de requisitos técnicos indispensáveis à prestação adequada dos serviços e aplicações) e § 2º (requisitos a serem observados na discriminação ou degradação do tráfego na internet), da Lei n. 12.965/2014; dos arts. 33 e 39, III, do CDC; e do art. 373, I, do CPC.
+ .. .
+Do exame dos autos, conclui-se que as violações dos dispositivos invocados somente foram trazidas nos embargos declaração aforados em face do acórdão proferido no recurso de apelação. Trata-se de matéria não debatida, portanto, nas instâncias ordinárias, caracterizando verdadeira supressão de instância bem como inovação recursal, importando em desrespeito às Súmulas 211 do STJ e 282 do STF.  .. .
+Do mesmo modo, não merece acolhimento o recurso na parte em que entende não haver violação da Súmula n. 7 do STJ, como consignado na decisão recorrida (fl. 1278):
+ ..  além de representar inovação recursal, necessário ponderar que, mesmo que assim não fosse, debater sobre requisitos de preservação da estabilidade, segurança e funcionalidade da rede mundial de computadores, bem como sobre regras e cartilhas expedidas por órgãos ou entidades públicos - repita-se, teses trazidas apenas após o julgamento do recurso de apelação - representa exame de fatos e de provas, o que é vedado de acordo com a Súmula 7 do STJ.
+Assim, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
