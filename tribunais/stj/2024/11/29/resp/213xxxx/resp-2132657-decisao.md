@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por EMANUEL VIEIRA CANDIDO JUNIOR, fundado no art. 105, III, a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Rio Grande do Sul exarado no julgamento da Revisão Criminal n. 5366620-20.2023.8.21.7000/RS.
+Nas razões, o recorrente suscita violação do art. 33, § 4º, da Lei n. 11.343/2006 (fls. 470/490).
+Afirma que a decisão deve ser reformada em razão da nulidade em razão da busca pessoal baseada em denúncia anônima (fl. 479), uma vez que tal circunstância não é mais admitida pelo Superior Tribunal de Justiça, que adota o entendimento no sentido de que o flagrante posterior à busca pessoal, sem motivação idônea, não a torna lícita (fl. 480). Pleiteia, assim, seja reconhecida a nulidade da prisão em flagrante e dos atos subsequentes, com a consequente absolvição do requerente (fl. 482).
+Alega, ainda, que o acórdão proferido está em desacordo com as condições pessoais do requerente à época do fato, bem como com o entendimento da Superior Corte, razão pela qual imperiosa se faz a aplicação da redutora prevista pelo § 4º do art. 33 da Lei de Drogas, tendo em vista a falta de idoneidade do fundamento utilizado para o afastamento do direito subjetivo do requerente ao reconhecimento da minorante em comento, eis que se tratava de réu primário (fl. 489).
+Requer, assim, a reforma do acórdão para reconhecer a nulidade da busca pessoal e, subsidiariamente, aplicar a privilegiadora do tráfico de drogas, redimensionando a pena (fl. 490).
+Contrarrazões às fls. 495/501.
+A Corte de origem admitiu o recurso (fls. 504/510).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento ou pelo desprovimento do recurso, em parecer assim ementado (fl. 526):
+AGRAVO EM RECURSO ESPECIAL. Revisão criminal buscando a aplicação retroativa de entendimento jurisprudencial posterior ao trânsito em julgado da condenação. Impossibilidade. "A jurisprudência do STJ é firme no sentido de que a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa (..), sob pena de serem violados os princípios da coisa julgada e da segurança jurídica" (AgRg no R Esp n. 2.081.283/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/10/2023, D Je de 5/10/2023). Incidência da Súmula 83/STJ. Tráfico de drogas. Nulidade da busca pessoal baseada de denúncia anônima e suposto preenchimento dos requisitos da minorante do tráfico. Existência de fundamentos do acórdão recorrido hábeis, per se, à manutenção do julgado. Aplicação da Súmula 283/STF. No mérito, o contexto fático delineado no acórdão recorrido denota a higidez da busca pessoal realizada no recorrente, bem como se ele, "ao tempo do crime, era pessoa que registrava condenação transitada em julgado pelos crimes de tráfico de drogas e porte ilegal de arma" (e-STJ Fl. 461), como afirmou o TJRS, de fato, não teria o recorrente direito ao benefício do tráfico privilegiado. Precedente do STJ.
+Parecer pelo não conhecimento ou desprovimento do recurso especial.
+É o relatório.
+Observo, já de início, que o reclamo ostenta fundamentação deficiente.
+A controvérsia posta no presente reclamo tem origem em revisão criminal, ajuizada com base no art. 621, I e III, do Código de Processo Penal (fl. 3).
+Verifica-se, no entanto, que as razões do especial não indicaram, de forma clara e específica, violação ou mesmo dissídio jurisprudencial acerca da correta interpretação do art. 621, I e III, do Código de Processo Penal, circunstância que firma a deficiência na fundamentação do reclamo (Súmula 284/STF).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. A previsão contida no art. 621 do Código de Processo Penal não diz respeito apenas aos requisitos de admissibilidade para o ajuizamento da revisão criminal, mas aos pressupostos indispensáveis para o acolhimento da revisão em si. Assim, em se tratando de pleito revisional ajuizado com fundamento no art. 621, I, do CPP - inadmitido ou mesmo indeferido -, a pretendida reforma do acórdão revisional pela via especial demandaria, inexoravelmente, a indicação do referido dispositivo, de modo a viabilizar a análise por esta Corte quanto ao preenchimento da hipótese ali preconizada: sentença condenatória contrária ao texto expresso da lei penal ou à evidência dos autos;
+2. No caso, as razões do especial não indicaram, de forma clara e específica, violação do art. 621, I, do Código de Processo Penal, circunstância que firma a deficiência na fundamentação do reclamo (Súmula 284/STF).
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.319.094/DF, de minha relatoria, Sexta Turma, DJe 25/5/2023 - grifo nosso).
+Ora, foi sob o enfoque do art. 621, I e III, do Código de Processo Penal, que a revisão criminal foi ajuizada e, ainda, foi sob esse prisma que do pleito não se conheceu.
+Consequentemente, eventuais ilegalidades no julgamento da ação revisional devem ser analisadas sob esse mesmo enfoque, sendo certo que, sem a indicação, clara e específica, desse dispositivo como violado, fica esta Corte impedida de verificar o preenchimento dos pressupostos para acolhimento do pleito revisional, notadamente em se tratando de recurso de fundamentação vinculada.
+No mesmo sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO DO ART. 621 DO CPP. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 1.917.920/SC, de minha relatoria, Sexta Turma, DJe 15/3/2022 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO - ART. 621 E INCISOS DO CÓDIGO DE PROCESSO PENAL. SÚM. 284/STF. FUNDAMENTO INATACADO. SÚM. 182/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITOS DE IGUAL DURAÇÃO. LEGALIDADE. RECURSO DESPROVIDO.
+1. As razões do especial não trazem nenhuma argumentação referente aos fundamentos (requisitos) da revisão criminal elencados no art. 621 do Código de Processo Penal, mostrando-se deficientemente fundamentado (Súmula 284/STF).
+2. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+3. Inviável a apreciação de matéria constitucional por esta Corte Superior, porquanto, por expressa disposição da própria Constituição Federal (art. 102, inciso III), se trata de competência reservada ao Supremo Tribunal Federal.
+4. As penas restritivas de direito devem ser impostas no prazo previsto para a pena privativa de liberdade, não havendo ilegalidade na fixação de cada prestação de serviços à comunidade pelo tempo previsto para a pena privativa de liberdade, devendo, cada qual, observar o parâmetro do art. 46, § 3º, do Código Penal.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.947.310/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/10/2021 - grifo nosso).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. REVISÃO CRIMINAL. VIOLAÇÃO DE PRECEITO CONSTITUCIONAL, DESCABIMENTO. VIOLAÇÃO DO ART. 386, VII, DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISPOSITIVO QUE NÃO OSTENTA COMANDO NORMATIVO SUFICIENTE PARA RESPALDAR A TESE RECURSAL (ILEGALIDADE NO INDEFERIMENTO DO PLEITO REVISIONAL). AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP.
+Agravo regimental improvido.
+(AgRg no AREsp n. 1.926.664/MG, de minha relatoria, Sexta Turma, DJe 22/10/2021 - grifo nosso).
+Em face do exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO OU DISSÍDIO ACERCA DA INTERPRETAÇÃO DO ART. 621, I E III, DO CPP. IMPOSSIBILIDADE DE VERIFICAÇÃO DOS PRESSUPOSTOS PARA ACOLHIMENTO DO PLEITO REVISIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+Recurso especial não conhecido.
