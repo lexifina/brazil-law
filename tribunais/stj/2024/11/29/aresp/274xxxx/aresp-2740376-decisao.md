@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) contra decisão da Corte de origem que não admitiu o recurso especial em razão incidência da Súmula 7/STJ e da Súmula 83/STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 108, e-STJ):
+AGRAVO DE INSTRUMENTO. TÍTULO EXECUTIVO. EXECUÇÃO PROVISÓRIA. ACORDO. POSSIBILIDADE. TRÂNSITO EM JULGADO.
+Quanto à execução/cumprimento individual da sentença proferida na ação civil pública 0004911-28.2011.4.03.6183, esta Turma já teve oportunidade de se manifestar pela viabilidade do cumprimento parcial do julgado.
+Embargos de declaração rejeitados (fls. 136-137, e-STJ).
+No recurso especial (fls. 151-158, e-STJ), o recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito "da impossibilidade de promoção do cumprimento definitivo do julgado, uma vez que se encontram pendentes recursos especial e extraordinário do INSS que debatem a anulação dos capítulos da sentença que excederam o acordo firmado, em especial quanto à inclusão de benefícios que tiveram revisões judiciais e administrativas processadas nas rendas mensais iniciais dos benefícios (tais como as referentes ao IRSM e outras)" (fl. 153, e-STJ).
+Quanto à questão de fundo, sustenta ofensa aos artigos 502, 520 e 783 do CPC/2015, sob os seguintes argumentos: (a) "o benefício da parte autora foi objeto de outra revisão, não estando abrangido pelo acordo firmado pelas partes na sentença coletiva" (fl. 156, e-STJ) e (b) "ausente o trânsito em julgado do capítulo condenatório da sentença proferida na ACP nº 0004911-28.2011.4.03.6183, que estendeu os efeitos do acordo firmado pelas partes para inclusão dos benefícios que tenham sofrido outra revisão, forçoso concluir pela provisoriedade do título, não sendo possível a execução definitiva nos termos da legislação processual" (fl. 157, e-STJ).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, visto que a omissão alegada nas razões do apelo especial divergem daquelas suscitadas na petição dos embargos de declaração. Vejamos.
+O agravante alega, em seus embargos de declaração (fls. 121-124, e-STJ), que o acórdão recorrido foi omisso "quanto ao fato de que o benefício da parte autora foi objeto de outra revisão (comprovante nas contrarrazões do agravo de instrumento - revisão do IRSM de fev/94 efetivada no processo 2003.71.00.002274-8 da 15ª VF de Porto Alegre - Evento 18 - CONTRAZ1), não estando abrangido pelo acordo firmado pelas partes na sentença coletiva" (fl. 121, e-STJ), pleiteando o provimento dos aclaratórios com efeitos infringentes "para reconhecer a impossibilidade de execução definitiva da ACP nº 0004911-28.2011.4.03.6183/SP em razão de o benefício da parte autora não estar abrangido pelo acordo firmado na ação coletiva" (fl. 124, e-STJ; grifos próprios).
+E, em seu recurso especial, alega que a Corte de origem não apreciou "a questão jurídica levantada pela autarquia previdenciária acerca da impossibilidade de promoção do cumprimento definitivo do julgado, uma vez que se encontram pendentes recursos especial e extraordinário do INSS que debatem a anulação dos capítulos da sentença que excederam o acordo firmado, em especial quanto à inclusão de benefícios que tiveram revisões judiciais e administrativas processadas nas rendas mensais iniciais dos benefícios (tais como as referentes ao IRSM e outras)" (fl. 153, e-STJ; grifos próprios).
+Dessa forma, não é possível conhecer do recurso especial, em virtude de as razões da alegada omissão constantes do apelo especial estarem dissociadas daquelas apresentadas nos embargos de declaração. Incide à hipótese a Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. EMBARGOS À EXECUÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CARACTERIZADA. PETIÇÃO DO EMBARGOS DE DECLARAÇÃO OPOSTOS NO TRIBUNAL A QUO FORMULADA DE MANEIRA GENÉRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI NÃO CONFIGURADA. ARTS. 494 E 974 CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ ..
+5. Assim, estando as razões trazidas no apelo nobre dissociadas das suscitadas nos Aclaratórios, incide, no particular, o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+9. Recurso Especial não conhecido.
+(REsp n. 1.725.401/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/8/2018, DJe de 20/11/2018).
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC. RAZÕES DISSOCIADAS DOS EMBARGOS DE DECLARAÇÃO. SÚMULA 284/STF. INADEQUAÇÃO DA VIA ELEITA. FUNDAMENTO INATACADO. SÚMULA 283/STF. IMUNIDADE TRIBUTÁRIA. DIREITO ADQUIRIDO. INEXISTÊNCIA. SÚMULA 83/STJ. INEXISTÊNCIA DE COISA JULGADA. SÚMULA 7/STJ.
+1. Inviável o conhecimento de violação ao art. 535 do CPC quando se constata que as omissões apontadas nas razões do recurso são diversas das omissões aduzidas nos embargos de declaração, mostrando-se nitidamente dissociadas. Incidência da Súmula 284/STF.
+ ..
+Agravo regimental improvido.
+(AgRg no AREsp n. 357.985/CE, relator Ministro Humberto Martins, Segunda Turma, julgado em 10/9/2013, DJe de 18/9/2013).
+Ainda, nesse mesmo sentido, são as seguintes decisões monocráticas: REsp n. 2.014.451/DF, Ministro Afrânio Vilela, DJe de 22/03/2024; AREsp n. 2.336.341/SC, Ministra Assusete Magalhães, DJe de 30/05/2023; EDcl no AREsp n. 1.963.375/DF, Ministro Mauro Campbell Marques, DJe de 08/09/2022; REsp n. 1.640.756/RS, Ministro Og Fernandes, DJe de 15/12/2021.
+Quanto ao mais, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos 502, 520 e 783 do CPC/2015, sem explicar, de forma clara, como o acórdão recorrido teria violado tais dispositivos, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROFESSOR. CONTRATAÇÃO TEMPORÁRIA. PISO SALARIAL. DISPOSITIVOS VIOLADOS. INEXISTÊNCIA DE DEMONSTRAÇÃO CLARA DA VIOLAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. FALTA DE IMPUGNAÇÃO NO RECURSO ESPECIAL DE FUNDAMENTO DO ACÓRDÃO COMBATIDO SUFICIENTE PARA A SUA MANUTENÇÃO. APLICAÇÃO DA SÚMULA N. 283 DO STF. SOBRESTAMENTO DO FEITO. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Deve ser mantida a decisão que não conheceu do apelo nobre, pois as razões do recurso especial não desenvolveram tese para demonstrar os motivos pelos quais teria ocorrido violação de cada um dos dispositivos infraconstitucionais indicados, o que evidencia a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.126.422/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 2/9/2024, DJe de 17/9/2024).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. SERVIDOR PÚBLICO CIVIL. LEGITIMIDADE ATIVA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ. SÚMULA N. 284 DO STF.
+ ..
+V - Em relação aos demais dispositivos indicados no recurso como violados, esclareça-se que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame. Da mesma forma, fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivos infraconstitucionais como violados, deixa de demonstrar como tais dispositivos foram ofendidos. Nesse diapasão, verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta- se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF. Acerca do assunto, destaco os seguintes precedentes: AgInt no REsp n. 1.813.658/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/10/2020, DJe 22/10/2020; AgInt no AREsp n. 1.332.175/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/4/2019, DJe 6/5/2019.
+VI - Agravo interno improvido.
+(AgInt no REsp n. 2.140.491/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. USUCAPIÃO. ALEGAÇÕES GENÉRICAS. SÚMULA 284 DO STF. ALEGAÇÃO DE CONTRARIEDADE À SÚMULA. IMPOSSIBILIDADE. FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ.
+1. As razões do Recurso Especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado. A mera menção a dispositivos de lei federal ou mesmo a narrativa acerca da legislação que rege o tema em debate, sem que se aponte a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenchem os requisitos formais de admissibilidade recursal. Dessa forma, ante a deficiência na fundamentação, o conhecimento do Recurso Especial encontra óbice, por analogia, na Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.463.145/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INTERESSE RECURSAL. INEXISTÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.
+ ..
+2. É deficiente o recurso especial que não explica de que forma os dispositivos de lei federal apontados foram efetivamente violados no acórdão recorrido. Incidência da Súmula 284 do STF.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.403.559/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 3/6/2024, DJe de 6/6/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA EM AÇÃO CIVIL PÚBLICA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. RAZÕES ALEGADAS COMO OMISSAS NO RECURSO ESPECIAL DISSOCIADAS DAQUELAS SUSCITADAS NOS EMBARGOS DE DECLARAÇÃO. SÚMULA 284/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
