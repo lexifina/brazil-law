@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por VELUDO INCORPORADORA SPE LTDA à decisão de fls. 317/318, que não conheceu do recurso.
+Sustenta a parte embargante:
+A r. decisão considerou intempestivo o Agravo interposto por esta Embargante, sob o fundamento de que a Embargante foi intimada da decisão agravada em 21/06/2024 e o Agravo somente foi interposto em 15/07/2024.
+Contudo, é necessário observar que no dia 09/07/2024, em que é comemorada a Data Magna do Estado de São Paulo, houve a suspensão do expediente forense, conforme demonstra imagem abaixo.
+Na referida data, o expediente forense foi suspenso, conforme amplamente divulgado pelos tribunais do Estado de São Paulo. Tal circunstância é de conhecimento público e deve ser considerada para a contagem do prazo processual.
+Vale lembrar que nos termos do artigo 219 do Código de Processo Civil, os prazos são contados apenas nos dias úteis. Assim, considerando a suspensão do expediente forense no dia 09/07/2024, o prazo para a interposição do Agravo seria prorrogado para o próximo dia útil subsequente, qual seja, 15/07/2024, o que torna o recurso tempestivo, devendo, portanto, ser afastada a alegação de uma suposta intempestividade por parte da ora Embargante (fls. 324/325).
+Alega ainda:
+A decisão embargada alega, também, que o recolhimento do preparo foi insuficiente, uma vez que a complementação, em dobro, não foi realizada, tornando o recurso deserto.
+Todavia, conforme já comprovado anteriormente, a Embargante efetuou o pagamento do preparo dentro do prazo para interposição do Recurso Especial, não havendo qualquer irregularidade quanto a esse ponto. Vejamos:
+ ..
+Assim, considerando que o preparo foi realizado dentro do prazo para interposição do Recurso Especial, não há que se falar em eventual deserção por parte desta Embargante, tampouco em recolhimento em dobro, conforme o entendimento deste Tribunal. Senão vejamos:
+ ..
+Ora, Exas., a exigência de preparo em dobro somente se aplicaria caso não houvesse o recolhimento do preparo ao interpor o recurso, o que não se verificou no presente caso, configurando grande contradição na decisão embargada (fls. 325).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que não procede a alegação de que é desnecessária a comprovação do feriado local por ser período absolutamente conhecido, tratando-se, portanto, de fato notório. Registre-se que se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+É certo que o feriado nacional não precisa ser comprovado. Porém, o dia 9.7.20240 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC (redação anterior à Lei n. 14.939/2024).
+Ressalte-se que em observância ao princípio do tempus regit actum, o entendimento da Lei n. 14.939/2024 só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+No que se refere ao preparo, conforme já consignado na decisão ora embargada, que agora se repete, a petição de Recurso Especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020; AgInt no REsp 1807942/RO, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 11.5.2020; e AgInt no AREsp 1572490/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20.3.2020.
+Veja que a comprovação do recolhimento das custas somente pode ser efetuada com a juntada concomitante da guia de recolhimento e o seu respectivo comprovante de pagamento. Desse modo, como não houve a devida comprovação, o preparo passou a ser devido em dobro.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, porquanto a parte se limitou a trazer à fl. 313 o comprovante de pagamento referente à guia anteriormente apresentada, sem, contudo, realizar a complementação do preparo, que era devido em dobro, nos termos do art. 1.007, § 4º do CPC.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do Recurso Especial, ou mesmo dentro do prazo concedido para regularização do vício. A questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória.
+Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+No caso, como a parte não comprovou o recolhimento, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
