@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por RIO DOCE CAFÉ S/A - IMPORTADORA E EXPORTADORA, EM LIQUIDAÇÃO, E UNICAFÉ COMPANHIA DE COMÉRCIO EXTERIOR contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+"APELAÇÃO - AÇÃO DE COBRANÇA - DEPÓSITOS JUDICIAIS - PRESCRIÇÃO - Ausência de interrupção da prescrição - Inaplicabilidade do art. 202, V, do NCC - Incidente, protocolado em ação cautelar já extinta, inclusive com trânsito em julgado, que deu origem aos depósitos judiciais, que não tem o condão de interromper a contagem do prazo prescricional - Decisão mantida - Aplicação do art. 252 do Regimento Interno do TJSP - Tendo em vista o trabalho adicional desenvolvido, pelo recorrido, em sede recursal, majoram-se os honorários advocatícios fixados de 10% para 15% sobre o valor atualizado da causa (R$10.000,00, sem atualização), nos termos do art. 85, §11, do NCPC - Apelo improvido" (e-STJ fl. 260).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 268/271).
+No recurso especial, as recorrentes alegam violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022 do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, no caso, o art. 168 do Código Civil de 1916 e
+(ii) art. 202, V, do Código Civil - porque o prazo prescricional ficou interrompido entre 09/2006 e 08/2017, não havendo que se falar em prescrição.
+Com as contrarrazões às e-STJ fls. 291/298, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Não há no aresto ora embargado nenhum dos vícios elencados no artigo 1.022 do Código de Processo Civil: omissão, contradição, obscuridade ou erro material, estando ele suficientemente fundamentado de acordo com as normas processuais anteriores e vigentes, bem como nos moldes dos princípios constitucionais atinentes.
+As embargantes pretendem a reforma do acórdão combatido alegando omissão no tocante ao art. 168 do Código Civil de 1916.
+Todavia, observa-se que a matéria não foi arguida no recurso de apelação. Daí porque, de fato, o Tribunal de origem não ter julgado o tema.
+Assim, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+No tocante à alegação de que não ocorreu a prescrição por ter havido interrupção do prazo prescricional de 09/2006 a 08/2017, assim se manifestou o Tribunal estadual:
+"(..) o depósito judicial, por tratar-se de ato não contratual, constitui relação essencialmente pública, e, desse modo, não se submete às regras dos depósitos bancários comuns. Nesse cenário, tratando-se de ação pessoal, o prazo prescricional é o vintenário. O termo inicial da pretensão das autoras foi a data em que se procedeu ao levantamento dos depósitos, naqueles autos em que se sagrou vencedora, o que ocorreu em dezembro de 1991. Data que resta incontroverso nos autos. Destarte, considerando que a presente ação foi distribuída somente em 06/12/2017, quando o limite máximo das autoras, para o ingresso da presente ação de cobrança, seria dezembro de 2011, força é reconhecer a ocorrência da prescrição. Nem se argumente que o incidente processual, protocolado em 27/09/2006, tenha interrompido a prescrição. A petição, requerendo a intimação do Banco Itaú S/A para apresentar os extratos relativos aos depósitos judiciais e para proceder a aplicação dos índices relativos aos expurgos inflacionários sobre tais depósitos, foi protocolada no processo cautelar, quando este já se encontrava extinto, inclusive com trânsito em julgado em 16/10/1991, não tendo, portanto, o condão de interromper a prescrição. Nesse cenário, conclui-se que os valores ora postulados pelas requerentes dizem respeito a períodos que, em muito, extrapolam o prazo de 20 anos, contados do ajuizamento desta ação de conhecimento" (e-STJ fl. 261).
+De fato, não merece reparos o acórdão ao entender que inviável a interrupção do prazo prescricional motivada por juntada de petição em processo já transitado em julgado.
+Ante o exposto, conheço do agravo para conhecer e negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em fav or do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+ EMENTA
