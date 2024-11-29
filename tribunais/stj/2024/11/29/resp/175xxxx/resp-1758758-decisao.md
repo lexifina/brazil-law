@@ -1,0 +1,55 @@
+DECISÃO
+Em análise, recurso especial interposto por P7 PARTICIPACOES E ADMINISTRADORA DE BENS LTDA. contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TRIBUTÁRIO. PIS E COFINS. RECEITAS DECORRENTES DA VENDA E LOCAÇÃO DE BENS IMÓVEIS PRÓPRIOS. FATURAMENTO. INCLUSÃO NA BASE DE CÁLCULO.
+O conceito de faturamento, para fins de incidência das contribuições PIS e COFINS, não envolve apenas as receitas decorrentes da venda de mercadorias e da prestação de serviços, mas a soma das receitas oriundas do exercício das atividades empresariais. Precedentes do STJ.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a impetrante apontou violação aos arts. 11, 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do Código de Processo Civil; 110 do Código Tributário Nacional (Lei 5.172, de 1966); 2º da Lei Complementar 70, de 1991; 1º da Lei 5.474, de 1968; e 481 e 565 do Código Civil, sustentando a nulidade do acórdão dos embargos de declaração, por supostos vícios de omissão e contradição não supridos, bem como a não incidência das contribuições ao PIS/PASEP e COFINS sobre as receitas decorrentes de locação e/ou venda de bens imóveis.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 11, 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do CPC/2015, não há nulidade por omissão ou contradição, tampouco negativa de prestação jurisdicional, no acórdão que decide a controvérsia de modo claro, coerente e com fundamentação suficiente.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla, clara, coerente e fundamentada, consignando que (fls. 180-181):
+Incidência de receitas provenientes de venda e locação de bens imóveis próprios na base de cálculo do faturamento das contribuições PIS e COFINS
+Como é de conhecimento geral, o Supremo Tribunal Federal, no RE 357.950/RS, julgado em 09/11/2005, declarou a inconstitucionalidade do § 1º do art. 3º da Lei 9.718/1998, que ampliou a base de cálculo do PIS e da COFINS, considerando faturamento ".. a totalidade das receitas auferidas pela pessoa jurídica, sendo irrelevantes o tipo de atividade por ela exercida e a classificação contábil adotada para as receitas".
+Entretanto, a exigibilidade do PIS e da COFINS não foi afetada pela decisão do STF, visto que o caput do art. 3º não foi atingido declaração de inconstitucionalidade, permanecendo legítima a receita bruta como base de cálculo, desde que seja entendida como sinônimo de faturamento (venda de mercadorias, de serviços ou de mercadorias e serviços).
+No presente caso, pretende a parte autora seja afastada a incidência das contribuições ao PIS e à COFINS sobre as receitas advindas da venda e locação de bens imóveis, uma vez que não se enquadrariam no conceito de faturamento.
+Ocorre que, segundo jurisprudência desta Corte e dos egrégios STJ e STF, o conceito de faturamento, para fins de incidência das exações ora debatidas, não envolve apenas as receitas decorrentes da venda de mercadorias e da prestação de serviços, mas a soma das receitas oriundas do exercício das atividades empresariais. Nesse sentido:
+ ..
+Conforme o contrato social da empresa autora, as atividades de locação de bens imóveis encontram-se inseridas no seu objeto social (artigo 3º do contrato social - evento 1 - CONTSOCIAL 4). Portanto, é inegável que as receitas delas advindas constituem faturamento, base cálculo das contribuições PIS e COFINS no regime cumulativo das referidas exações.
+Ressalte-se, por oportuno, que a alteração promovida pela Medida Provisória 627, de 11-11-2013, convertida na Lei 12.973, de 13-05-2014, no art. 3º da Lei 9.718/98, com vigência a partir de 01º/01/2015, apenas corrobora o entendimento anteriormente esposado, adotado pelo próprio STF.
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fls. 220-222):
+A parte embargante sustenta que a decisão recorrida foi omissa/contraditória, devendo ser revista.
+Não antevejo na espécie, porém, qualquer das hipóteses legais de admissibilidade dos embargos de declaração em face do aresto, em cuja fundamentação há manifestação expressa acerca da tese ventilada, rechaçando-a.
+ ..
+Diante desse cenário, emerge a conclusão de que pretende o embargante reabrir a discussão acerca de matéria que já foi apreciada e julgada no acórdão, sem que esteja ele eivado de quaisquer dos vícios sanáveis através dos aclaratórios.
+A rejeição dos embargos, portanto, é medida que se impõe.
+Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade (art. 1.025 do CPC/2015).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 11, 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do CPC.
+No mais, o acórdão recorrido está em consonância com a jurisprudência dominante deste STJ, no sentido de que incidem as contribuições ao PIS e COFINS sobre as receitas provenientes da locação e venda de bens imóveis, como ilustram os seguintes julgados:
+TRIBUTÁRIO. COFINS. COMERCIALIZAÇÃO DE IMÓVEIS. INCIDÊNCIA. DISSENSO JURISPRUDENCIAL SUPERADO.
+1. É entendimento pacífico no STJ o de que a COFINS incide sobre o faturamento resultante da comercialização de imóveis. Precedentes:
+AR 2248 / RS, 1ª S., Min. Francisco Falcão, DJ de 25.10.2004; ERESP 161999/PR, Min. João Otávio de Noronha, DJ de 27.09.2004.
+2. Agravo regimental a que se nega provimento.
+(AgRg nos EREsp 660.054/PR, relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 10/8/2005, DJ de 29/8/2005, p. 143).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO 3 DO STJ. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA RELATIVAMENTE À SÚMULA 83 DO STJ. COFINS. INCIDÊNCIA SOBRE RECEITA DE LOCAÇÃO E VENDA DE BEM IMÓVEIS. APLICAÇÃO POR ANALOGIA DA SÚMULA 423 DO STJ.
+1. Da análise da petição de agravo em recurso especial de fls. 352-367 e-STJ, verifica-se que a agravante não impugnou, de forma específica, o fundamento da decisão agravada relativo à incidência da Súmula 83 do STJ.
+2. É cediço nesta Corte que a impugnação do fundamento de decisão que nega admissibilidade ao recurso especial com base na Súmula 83 do STJ pressupõe a demonstração de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido ou de que o caso dos autos seria diverso daqueles julgados paradigmas. Dessa forma, não foi possível conhecer do agravo em recurso especial, haja vista a incidência do teor do art. 932, III, do CPC/2015.
+3. Ainda que assim não fossem, a Primeira Seção desta Corte firmou entendimento no sentido de que as receitas provenientes da locação e venda de imóveis integram o conceito de faturamento, para os fins de tributação a título de PIS e COFINS, incluindo-se aí as receitas provenientes da locação e venda de imóveis próprios e integrantes do ativo imobilizado, ainda que este não seja o objeto social da empresa, pois o sentido de faturamento acolhido pela lei e pelo Supremo Tribunal Federal no julgamento do recurso representativo da controvérsia com repercussão geral RE 585.235 RG-QO (Rel. Min. Cezar Peluso, julgado em 10/09/2008) e no julgamento do RE 371.258 AgR (Rel. Min. Cezar Peluso, Segunda Turma, julgado em 03.10.2006) não é o estritamente comercial. Em casos que tais dá-se, por analogia, a aplicação do recurso representativo da controvérsia REsp 929.521-SP (Primeira Seção, Rel. Min. Luiz Fux, julgado em 23.09.2009) e da Súmula 423/STJ: "A Contribuição para Financiamento da Seguridade Social - COFINS incide sobre as receitas provenientes das operações de locação de bens móveis".
+4. Agravo interno não provido.
+(AgInt no AREsp 1.111.127/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/10/2017, DJe de 20/10/2017).
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO PELO RELATOR. POSSIBILIDADE. SÚMULA 568/STJ. RECEITA PROVENIENTE DO ALUGUEL DE IMÓVEL PRÓPRIO. INCIDÊNCIA DO PIS/COFINS. SÚMULA 423/STJ. APLICAÇÃO ANALÓGICA. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Nos termos da Súmula 568/STJ, já editada sob o regime do CPC/2015, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema. Logo, não há falar em ofensa ao princípio da colegialidade, tendo em vista que a decisão agravada foi fundamentada em precedentes de ambas as Turmas de Direito Público do STJ.
+2. A jurisprudência desta Corte entende que as receitas provenientes das atividades de construir, alienar, comprar, alugar, vender imóveis e intermediar negócios imobiliários integram o conceito de faturamento, para os fins de tributação a título de PIS e COFINS. Incluem-se, portanto, as receitas provenientes da locação de imóveis próprios e integrantes do ativo imobilizado, ainda que este não seja o objeto social da empresa, pois o sentido de faturamento acolhido pela lei e pelo Supremo Tribunal Federal não foi o estritamente comercial.
+3. O reconhecimento de Repercussão Geral pelo STF não implica o sobrestamento de Recurso Especial em trâmite pelo STJ, sem que haja decisão da Suprema Corte determinando a suspensão de todos os processos que tratem do mesmo assunto.
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no AREsp 573.488/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1/3/2018, DJe de 13/3/2018).
+TRIBUTÁRIO. RECEITAS DE LOCAÇÃO E VENDA DE IMÓVEIS. INCIDÊNCIA DO PIS E DA COFINS. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DA CORTE. PROVIMENTO DO RECURSO ESPECIAL.
+I - As receitas provenientes da locação e venda de imóveis integram o conceito de faturamento, para os fins de tributação a título de PIS e COFINS. Nesse sentido, destacam-se: AgInt no AREsp 1111127/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgInt no REsp 1592663/RS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 9/3/2017, DJe 16/3/2017; AgInt no REsp 1464205/PR, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 15/9/2016, DJe 19/10/2016.
+II - Agravo interno improvido.
+(AgInt no REsp 1.697.803/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/12/2018, DJe de 12/12/2018).
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
