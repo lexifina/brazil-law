@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PARTICULARIZADA DOS DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE CONTRARIADOS. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na hipótese dos autos, nota-se que não houve indicação clara e precisa dos artigos de lei supostamente violados pela Corte de origem. Com efeito, a falta de indicação ou de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do STF. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 1.459):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO NÃO CONHECIDO.
+O agravante alega que "a aplicação da Súmula 284 do STF nesse caso, revela-se como formalidade excessiva, posto que não houve deficiência na fundamentação" (fl. 1.468).
+Alega que "no que diz respeito a irrelevância na quitação do contrato de financiamento, a matéria foi apontada de maneira clara e específica, permitindo a exata compreensão da controvérsia. " (fl. 1.469).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PARTICULARIZADA DOS DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE CONTRARIADOS. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na hipótese dos autos, nota-se que não houve indicação clara e precisa dos artigos de lei supostamente violados pela Corte de origem. Com efeito, a falta de indicação ou de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do STF. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Desse modo, observa-se que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Ocorre que o recurso especial não apresentou o dispositivo legal objeto de interpretação divergente, condição essa indispensável para que o julgador possa ter a exata compreensão da controvérsia. A ausência da indicação dos normativos em tese contrariados ou que sofreram negativa de vigência, impede o exame do recurso.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO TRIBUTÁRIO. PIS/COFINS. AQUISIÇÃO DE COMBUSTÍVEL PARA REVENDA. LEI COMPLEMENTAR 192/22. PRETENSÃO À MANUTENÇÃO DOS CRÉDITOS ATÉ 90 DIAS DA PUBLICAÇÃO DA LEI COMPLEMENTAR N. 194/2022. AUSÊNCIA DE INDICAÇÃO PRECISA DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284/STF. INSTRUMENTALIDADE DAS FORMAS. PRIMAZIA DE MÉRITO. INAPLICABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Hipótese em que, nas razões de apelo nobre, a Recorrente não indicou, com precisão, qual seria o artigo de lei federal supostamente violado ou interpretado de forma divergente pelo Tribunal de origem, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF.
+2. A simples menção a artigos de lei ou a dissertação sobre atos normativos não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso.
+3. O vício constante nas razões de apelo nobre, qual seja, a ausência de indicação precisa do dispositivo legal violado, não é irrelevante, tampouco possui natureza meramente formal. Ao contrário, o apontamento do artigo de lei federal supostamente afrontado constitui um dos requisitos - quiçá o principal - de cabimento do recurso especial. A missão constitucional deste Sodalício, exercida na via do recurso especial, é justamente a pacificação da interpretação da legislação infraconstitucional, que não pode ser exercida sem a devida delimitação da controvérsia pela própria Parte Recorrente, a quem cabe indicar, com precisão, o dispositivo legal que teria sido violado ou interpretado de forma divergente pelo Tribunal de origem.
+4. Consoante jurisprudência desta Corte, " o s princípios da instrumentalidade das formas e da primazia do julgamento do mérito não autorizam as partes a desrespeitarem as formalidades legais necessárias ao conhecimento dos recursos" (AgInt no AREsp n. 2.632.327/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024; sem grifos no original).
+5. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.129.246/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/9/2024, DJe de 3/10/2024.) (Grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE INDICAÇÃO PARTICULARIZADA DOS DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE CONTRARIADOS. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS. SÚMULA 111/STJ. JURISPRUDÊNCIA REAFIRMADA NO JULGAMENTO DO TEMA REPETITIVO N. 1.105/STJ.
+1. Na hipótese dos autos, nota-se que não houve indicação clara e precisa dos artigos de lei supostamente violados pela Corte de origem. Com efeito, a falta de indicação ou de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do STF. Precedentes.
+2. Consoante firme jurisprudência desta Corte Superior de Justiça, a interposição de recurso especial tanto pela alínea a quanto pela alínea c não dispensa a indicação direta e específica do dispositivo de lei federal ao qual o Tribunal a quo teria dado interpretação divergente daquela firmada por outros tribunais e exige a comprovação do devido cotejo analítico (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Situação que atrai o óbice da Súmula 284 do STF.
+3. Esta Corte Superior de Justiça, no julgamento do Tema n. 1.105, firmou a tese no sentido de que "Continua eficaz e aplicável o conteúdo da Súmula 111/STJ (modificado em 2006), mesmo após a vigência do CPC/2015, no que tange à fixação de honorários advocatícios". (REsp n. 1.883.715/SP, rel. Ministro Sérgio Kukina, Primeira Seção, DJe de 27/3/2023).
+4. Agravo interno não provido. (AgInt no AREsp n. 2.585.626/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/9/2024, DJe de 11/9/2024.) (Grifei).
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
