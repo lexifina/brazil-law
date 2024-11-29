@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Rodrigo Goulart Zappaterra, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 2258517-43.2024.8.26.0000), não comporta acolhimento.
+Busca o impetrante a revogação das medidas protetivas de urgência aplicadas pelo Juízo de Direito da 3ª Vara Criminal da comarca de Marília/SP (Autos n. 1502318-14.2023.8.26.0344), ao argumento de que o paciente está sofrendo constrangimento ilegal decorrente do excesso de prazo das medidas, as quais foram fixadas há quase dois anos. Sustenta que a respectiva manutenção por tempo indeterminado, sem reavaliação periódica, viola os princípios da razoabilidade e da proporcionalidade (fl. 4).
+Ocorre que é pacífico o entendimento desta Corte no sentido de que não é possível, na via eleita, a análise de desnecessidade das medidas protetivas, visto que exige profundo revolvimento fático-probatório (RHC n. 119.097/MG, Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 11/2/2020, DJe 19/2/2020).
+Afora isso, as instâncias ordinárias não eternizaram as medidas em questão. Ao contrário, no caso, tem sido periodicamente estabelecido um marco de 90 dias para que a vítima manifeste interesse na manutenção das medidas, com a consequente reavaliação pelo juízo (fls. 268/269). Tal determinação não diverge da orientação jurisprudencial do STJ, no sentido de que a revogação de medidas protetivas de urgência exige a prévia oitiva da vítima para avaliação da cessação efetiva da situação de risco à sua integridade física, moral, psicológica, sexual e patrimonial (AgRg no REsp n. 1.775.341/SP, da minha relatoria, Terceira Seção, julgado em 12/4/2023, DJe 14/4/2023).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. MEDIDAS PROTETIVAS. PEDIDO DE REVOGAÇÃO. EXCESSO DE PRAZO. INEXISTÊNCIA. REAVALIAÇÃO FEITA DE FORMA PERIÓDICA PELO JUÍZO. CABIMENTO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA.
+Ordem denegada.
