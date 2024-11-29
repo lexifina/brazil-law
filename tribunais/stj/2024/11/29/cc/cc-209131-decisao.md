@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA VARA REGIONAL DE GARANTIAS DA COMARCA DE ITAJAÍ - SC, suscitante, e o JUÍZO DE DIREITO DO FORO CENTRAL CRIMINAL BARRA FUNDA - DIPO 3 - SÃO PAULO - SP, suscitado.
+Consta dos autos que foi instaurado inquérito policial na cidade de São Paulo - SP, para apurar eventual prática do delito de estelionato perpetrado naquela localidade.
+O Juízo suscitado, acolhendo a manifestação ministerial (fls. 06-08), declinou da competência para uma das Varas Criminais da Comarca de Itajaí - SC, em razão do domicílio da vítima e com base na Lei n. 14.155/2021 (fl. 10).
+Distribuídos os autos, o Juízo de Direito da Vara Regional de Garantias da Comarca de Itajaí - SC suscitou o presente conflito, sob os seguintes fundamentos:
+Trata-se de inquérito policial instaurado em desfavor de Sarah Lopes para apurar a suposta prática do crime previsto no artigo 171, caput, do Código Penal, contra a vítima Cleison Marchi. Consta nos autos que a vítima Cleison Marchi, residente na cidade de Itajaí/SC, anunciou um aparelho celular no site de comércio eletrônico "Mercado Livre", oportunidade em Sarah Lopes (sarahlopesbnsim@gmail. com), ora indiciada, manifestou interesse de compra e enviou um e-mail dizendo "já informei o código ao mercado livre, assim que chegar eles liberam o valor automaticamente pro senhor" (p. 13 do evento 1)
+Diante da informação, a vítima afirmou que enviou o produto para o endereço indicado pela compradora (p. 13-18 do evento 1), porém não recebeu o pagamento (fl. 03).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitado (fls. 131-134).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Cinge-se a controvérsia em definir a competência para processar e julgar a suposta prática do delito de estelionato, em que a vantagem econômica foi obtida mediante fraude.
+Na  hipótese  dos  autos,  conforme relatado pelo juízo suscitante, verifica-se  que  a vítima não recebeu pagamento de compra e venda realizada através de plataforma online, muito embora tenha enviado o objeto do negócio.
+Constata-se,  assim,  que  não há, nos autos, notícia de que tenha havido depósito, emissão de cheque (sem fundos ou com pagamento frustrado) ou transferência de valores,  de  modo  que  não  há  falar  na  incidência  do  §  4º  do  art.  70  do  CPP (alterado pela Lei n. 14.155/2021).
+Incide, portanto, a  regra  prevista  no  caput  do  art.  70  do  Código  de  Processo  Penal,  segundo  a  qual  a  competência  será,  de  regra,  determinada  pelo  lugar  em  que  se  consumar  a  infração,  ou,  no  caso  de  tentativa,  pelo  lugar  em  que  for  praticado  o  último  ato  de  execução.
+Nesse  sentido:
+CONFLITO  NEGATIVO  DE  COMPETÊNCIA.  ESTELIONATO.  MODUS  OPERANDI  NÃO  CONTEMPLADO  PELA  LEI  N.  14.155/2021.  NÃO  CONFIGURAÇÃO  DAS  HIPÓTESES  DESCRITAS  NO  §  4º  DO  ART.  70  DO  CÓDIGO  DE  PROCESSO  PENAL  -  CPP.  INCIDÊNCIA  REGRA  GERAL  PREVISTA  NO  ART.  70,  CAPUT,  DO  CPP.  COMPETÊNCIA  DO  LOCAL  NO  QUAL  SE  AUFERIU  O  PROVEITO  DO  CRIME.
+(..)
+Todavia,  a  inovação  legislativa  disciplinou  a  competência  do  delito  de  estelionato  em  situações  específicas  descritas  pelo  legislador,  as  quais  não  ocorrem  no  caso  concreto,  porquanto  os  autos  não  noticiam  a  ocorrência  transferências  bancárias  ou  depósitos  efetuados  pela  empresa  vítima  e  tampouco  de  cheque  emitido  sem  suficiente  provisão  de  fundos.
+5.  No  contexto  dos  autos,  não  identificadas  as  hipóteses  descritas  no  §  4º  do  art.  70  do  CPP  deve  incidir  o  teor  do  caput  do  mesmo  dispositivo  legal,  segundo  o  qual  "a  competência  será,  de  regra,  determinada  pelo  lugar  em  que  se  consumar  a  infração,  ou,  no  caso  de  tentativa,  pelo  lugar  em  que  for  praticado  o  último  ato  de  execução".  Sobre  o  tema  a  Terceira  Seção  desta  Corte  Superior,  recentemente,  pronunciou-se  no  sentido  de  que  nas  situações  não  contempladas  pela  novatio  legis,  aplica-se  o  entendimento  pela  competência  do  Juízo  do  local  do  eventual  prejuízo.  Precedente:  CC  182.977/PR,  Rel.  Ministra  LAURITA  VAZ,  TERCEIRA  SEÇÃO,  DJe  14/3/2022.
+6.  Destarte,  na  espécie,  a  competência  deve  ser  fixada  no  local  onde  o  agente  delituoso  obteve,  mediante  fraude,  em  benefício  próprio  e  de  terceiros,  os  serviços  custeados  pela  vítima.
+7.  Conflito  conhecido  para  declarar  competente  o  Juízo  de  Direito  da  Vara  Criminal  do  Foro  Central  Barra  Funda  -  DIPO  4  -  SÃO  PAULO  -  SP,  o  suscitado.
+(CC  n.  185.983/DF,  relator  Ministro  Joel  Ilan  Paciornik,  Terceira  Seção,  julgado  em  11/5/2022,  DJe  de  13/5/2022).
+Assim,  pelo  que  se  extrai  dos  documentos  juntados  aos  autos,  a  obtenção  da  vantagem  ilícita  ocorreu  em  São Paulo - SP,  o  que  atrai  a  competência  do  Juízo  desse  local  para  a  apuração  dos  fatos  e  para  o  processamento  de  eventual  futura  ação  penal.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DO FORO CENTRAL CRIMINAL BARRA FUNDA - DIPO 3 - SÃO PAULO - SP , ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
