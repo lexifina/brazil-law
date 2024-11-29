@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIVELTON DE JESUS ALVES REIS e LIVITON DE JESUS ALVES REIS contra decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial por incidir a Súmula n. 7 do STJ.
+Nas razões do presente agravo em recurso especial, os agravantes argumentam a defesa que o recurso especial deveria ter sido admitido, pois não incide o óbice mencionado.
+Requerem o provimento do recurso, com a consequente repercussão jurídica.
+Parecer do Ministério Público Federal opinando pelo não provimento do agravo em recurso especial, nos termos da Súmula n. 7 do STJ (fls. 700-712).
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo seja reconhecida a despronuncia e afastada a qualificadora de uso de meio que torne difícil ou impossível a defesa da vítima, razão de se invocar violação dos arts. 413 e 414 do Código de Processo Penal e 121, § 2º, IV, do Código Penal
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de reexame do conjunto fático-probatório dos autos, considerando a fundamentação do Tribunal de origem assim posta (fls. 589-592):
+E, com base nessas premissas, no caso concreto, de fato, não deve subsistir a irresignação defensiva, porquanto infere-se da sentença objurgada que foram delineadas as razões de convencimento do Julgador e os fundamentos jurídicos necessários, aptos a estabelecer a justa causa necessária à pronúncia dos Recorrentes, sendo a motivação exposta na decisão ora atacada idônea, em consonância com todos os requisitos legais necessários a sua validade.
+A materialidade delitiva está incontestavelmente provada nos autos, conforme laudo de exames de lesões corporais (ID 55948971).
+Por sua vez, acerca da autoria, o Magistrado de primeiro grau procedeu ao cotejo da prova oral colhida na instrução preliminar, cujo panorama coloca Acusados como prováveis protagonistas do ato ilícito, notadamente diante da palavra da vítima sobrevivente. Tais aspectos, por sua vez, já autorizam a submissão do caso ao Tribunal do Júri, quando as dúvidas e demais particularidades dos fatos haverão de ser dirimidas pelo Corpo de Jurados.
+No ponto, em juízo, a vítima Davi Machado da Rocha Pita descreveu os eventos ocorridos, declarando terem sido os Recorrentes os responsáveis por agredi-lo fisicamente, inclusive mediante disparos de arma de fogo:
+ ..
+A referida dinâmica restou, ainda, judicialmente corroborada pelas declarações da genitora do ofendido, Petronilia De Jesus Machado, que, a propósito, presenciou o ocorrido e disse reconhecer os Réus como os autores dos tiros deflagrados contra seu filho:
+ ..
+Assim, ainda que seja possível extrair dos autos versões distintas do caso - absolutória e condenatória -, eis que os Acusados negaram as imputações em sede de interrogatório judicial, certo é que as minúcias do feito devem ser detidamente analisadas e deliberadas pelos Jurados, ante a, repise-se, competência constitucionalmente a eles atribuída.
+Sublinhe-se, não se pretende afirmar que os elementos colhidos no curso da instrução processual preliminar comprovam a autoria delitiva imputada aos Recorrentes. Apenas se constata a existência de indícios que aludem essa possibilidade, nos termos do art. 413 do Código de Processo Penal; até mesmo porque, a imersão neste terreno de predomínio subjetivo acabaria por dar margem a um indevido juízo antecipado da culpa, ao revés do requisito da imparcialidade e do Princípio in dubio pro societate, norteadores da fase de pronúncia.
+Nessa senda, no caso sub judice, resta evidente que, através da prova oral até então produzida, emergem indícios suficientes de autoria criminosa, os quais se mostram suficientes e determinantes na contingência do acolhimento do jus puniendi estatal.
+Por fim, de maneira subsidiária, a Defesa pleiteou a exclusão da qualificadora descrita no inciso IV (recurso que dificultou a defesa) do § 2.º do art. 121 do CPB. No entanto, igualmente não deve ser acolhida essa alegação.
+Isto porque, diga-se mais uma vez, as provas que instruem os autos revelam a probabilidade de os Recorrentes haverem agido de inopino, em rua escura, estando ambos munidos com armas de fogo, enquanto a vítima encontrava-se apenas na companhia de uma criança.
+Nota-se, pois, que os Acusados não se desincumbiram do ônus de comprovar, de forma irrefragável, a inocorrência da figura qualificadora; ao contrário, as provas amealhadas aos autos demonstram a probabilidade da ocorrência das circunstâncias delitivas narradas na denúncia, de modo que nenhuma reforma na sentença há de ser feita.
+É que, como sabido, na presente fase processual as qualificadoras só podem ser excluídas pelo Julgador quando manifestamente improcedentes, em virtude da competência constitucional exclusiva do Tribunal do Júri para o julgamento de crimes dolosos contra a vida.
+ ..
+Repise-se, no ponto, a competência exclusiva do Tribunal do Júri para deliberar sobre todos os aspectos e peculiaridades do caso concreto, por imposição constitucional (art. 5.º, inciso XXXVIII, da CF/88).
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça, na apreciação do recurso especial, não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME DE HOMICÍDIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
