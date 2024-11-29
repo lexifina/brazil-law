@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Agravo apresentado por NOTRE DAME INTERMEDICA SAUDE S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. PLANO DE SAÚDE. CANCELAMENTO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DA RÉ. NÃO ACOLHIMENTO. CONTRATO RESCINDIDO POR SUPOSTA INADIMPLÊNCIA DO CONSUMIDOR, QUE COMPROVOU O PAGAMENTO DE TODAS AS MENSALIDADES EM DIA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ARTIGO 13. II. DA LEI Nº 9656 98. CANCELAMENTO ABUSIVO, QUE OCORREU POR FALTA DE CAUTELA POR PARTE DA PRÓPRIA RÉ. FALHA NA PRESTAÇÃO DE SERVIÇOS QUE GEROU OFENSA AOS DIREITOS DA PERSONALIDADE DO AUTOR, QUE É PESSOA IDOSA E SE VIU DESCOBERTO DOS SERVIÇOS DE SAÚDE PELOS QUAIS VINHA PAGANDO PONTUALMENTE. INDENIZAÇÃO POR DANOS MORAIS DEVIDA. QUANTUM FIXADO QUE SE MOSTRA RAZOÁVEL. SENTENÇA MANTIDA. RECURSO DESPROVIDO (fl. 195).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 13 da Lei n. 9.656/1998; 14 do CDC; e 422 do CC, no que concerne ao afastamento da responsabilidade da operadora de plano de saúde pelo restabelecimento do plano, quando houve cancelamento decorrente de inadimplência, trazendo a seguinte argumentação:
+De proêmio, cabe esclarecer que não pode ser imputado à esta Recorrente a obrigação de restabelecimento de plano de saúde em razão de inadimplência nos termos do instrumento contratual firmado entre as partes, visto que, no momento em que foi firmado referido pacto, foi evidenciada que sua cobertura era adstrita ao pagamento da contraprestação na data compactuada.
+ ..
+Ora, Excelências, não há como atribuir culpa à Recorrente pelos fatos narrados na exordial, pois, caso sejam verídicos, o próprio Recorrido é o responsável pelos fatos discutidos, e, por isso, se trata de culpa exclusiva do consumidor, não havendo o que se falar em responsabilidade da Recorrente.
+ ..
+Soma-se isto ao fato de que a Lei nº 9.656/98 é expressa quanto a previsão de cancelamento decorrente de inadimplência, o que também deixou de ser reconhecido pelo v. Acórdão recorrido.
+ ..
+Assim, com contratos devidamente registrados, sem qualquer irregularidade, não há que se falar em qualquer abusividade quando se limita a prestação dos serviços em decorrência da inadimplência, pois como já dito, não existe em qualquer diploma legal, seja ele na Lei 9.656/98, seja nas diversas Resoluções Elaboradas pela ANS, seja ainda pela Constituição Federal de 1.988, qualquer dispositivo legal que impõe às operadoras de planos de saúde a obrigação de manutenção de plano sem o recebimento da devida contraprestação.
+ ..
+Assim, de tudo acima exposto, e de tudo mais que extrai dos autos e da legislação inerente ao caso, é medida que se impõe a imperiosa reforma do v. Acórdão, que compele esta Recorrente ao restabelecimento do plano, não sendo possível se manter tal posição, visto que viola os preceitos acima demonstrados (fls. 212/218).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne ao afastamento dos danos morais em razão de mero descumprimento contratual, trazendo a seguinte argumentação:
+Conforme amplamente demonstrado, a Recorrente agiu dentro dos ditames legais e contratuais, sem qualquer irregularidade ou ilicitude capaz de causar qualquer abalo moral, sobretudo porque devidamente embasado o cancelamento do plano realizado em razão da inadimplência.
+ ..
+Destarte, não há que se falar em indenização por danos morais, uma vez que, não houve ilícito de qualquer natureza, inclusive, não houve responsabilidade ou culpa da Recorrente, tratando-se de um mero aborrecimento ou, na pior das hipóteses, mero descumprimento contratual, hipóteses estas impassíveis de indenização (fl. 219).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Na hipótese, a recorrente resiliu o contrato com base em suposto inadimplemento da mensalidade de dez/22 e fev/23. O autor, por sua vez, apresentou o comprovante de pagamento da mensalidade referente ao mês de dezembro de 2022 (fls. 26), que inclusive foi realizado sem qualquer atraso.
+Já com relação ao mês de fevereiro/2023, a ré não comprovou a emissão do boleto para pagamento da mensalidade, sendo certo que as mensalidades até janeiro/23 foram comprovadamente adimplidas dentro da data de vencimento.
+Dessa forma, patente a ilegalidade de sua conduta (fls. 198/199).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16. 10.2020.
+Quanto à segunda controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com relação aos danos morais, é certo que a mera interpretação contratual não gera indenização.
+Contudo, no presente caso, trata-se de clara falha na prestação de serviços, tendo em vista a imputação de inadimplência a consumidor que sempre cumpriu com suas obrigações pontualmente, deixando pessoa idosa (77 anos) descoberta de serviço de saúde por longos meses, que só cessou com o cumprimento da tutela de urgência deferida.
+Logo, o autor experimentou injusta angústia que ultrapassa os meros dissabores cotidianos (fl. 199).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 9.12.2013; AgInt no AREsp 1.534.079/ES, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 26.8.2020; AgInt nos EDcl no AREsp 1.341.969/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26.8.2020; AgInt no AREsp 1.581.658/PB, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18.8.2020; e AgInt no AREsp 1.528.011/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 1º.7.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
