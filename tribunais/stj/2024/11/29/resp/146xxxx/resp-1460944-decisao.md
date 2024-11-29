@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, recurso especial interposto pela FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+TRIBUTÁRIO. CONSTITUCIONAL. PROCESSUAL CIVIL. COFINS. ART 3º, §1º DA LEI Nº 9718/98 - INCONSTITUCIONALIDADE. VERBA HONORÁRIA - IRRISORIEDADE NÃO VERIFICADA. MATÉRIA UNICAMENTE DE DIREITO. TESE CONSAGRADA PELO STF À ÉPOCA DO AJUIZAMENTO DA AÇÃO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a recorrente aponta violação aos seguintes dispositivos legais: (i) art. 535, II, do CPC/1973, pois o Tribunal de origem não se manifestou sobre questões essenciais ao deslinde da controvérsia; (ii) arts. 3º da Lei 6.830/1980 e 204, parágrafo único, do CTN, ao argumento de que "a simples declaração de inconstitucionalidade de lei não tem o condão, por si só, de retirar a liquidez e certeza da CDA" (fl. 384); (iii) arts. 3º da LC 7/1970, 2º da LC 70/1991 e 2º da Lei 9.718/1998, aduzindo que a declara de inconstitucionalidade do art. art. 3º, § 1º, da Lei 9.718/1998 não autoriza " a exclusão do recolhimento da COFINS sobre receitas que efetivamente compõem o faturamento da empresa prestadora de serviços" e, por fim, (iv) art. 2º, § 8º, da Lei 6.830/1980, sustentando a possibilidade de substituição da certidão de dívida ativa (CDA).
+Contrarrazões ao recurso apresentadas às fls. 410-418.
+É o relatório.
+Passo a decidir.
+Inicialmente, o Enunciado Administrativo 2/2016 desta Corte dispõe:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+A irresignação não merece prosperar.
+Preliminarmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, aplicando o precedente da Suprema Corte que reconheceu a inconstitucionalidade do art. 3º, § 1º, da Lei 9.718/1998. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Quanto aos demais pontos recursais, o recurso não pode ser conhecido.
+No caso, o Tribunal Regional negou provimento ao apelo do ente público, nos seguintes termos:
+A matéria de fundo não comporta maiores indagações, eis que o Supremo Tribunal Federal, a quem compete dar a última palavra sobre a constitucionalidade das normas em face da Constituição Federal, em nosso ordenamento jurídico, assentou o entendimento de que "é inconstitucional o § 1º do artigo 3º da Lei nº 9.718/98, no que ampliou o conceito de receita bruta para envolver a totalidade das receitas auferidas por pessoas jurídicas, independentemente da atividade por elas desenvolvida e da classificação, contábil adotada" (RE 390840, Relator(a): Min. Marco Aurélio, Tribunal Pleno, j. em 09/11/2005, DJ 15L08-2006).
+Ao rejeitar o recurso integrativo oposto contra essa decisão, o aresto recorrido consignou que "os argumentos trazidos nos presentes embargos pela Fazenda Nacional não foram objeto do recurso de apelação anteriormente interposto, não havendo, desse modo, por caracterizada omissão" (fl. 363).
+Como se observa, os dispositivos tidos por violados não foram objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração. Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME FALIMENTAR. FRAUDE AOS CREDORES. VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. INCOMPETÊNCIA DO JUÍZO. VERIFICAÇÃO DE CONFORMIDADE DE RESOLUÇÃO DO TRIBUNAL DE ORIGEM COM A LEI FEDERAL TIDA POR VIOLADA. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem não se manifestou sobre a alegada ofensa ao princípio da correlação. A matéria não foi suscitada nas razões da apelação defensiva e somente constou nos embargos de declaração, em clara inovação recursal. Nessa hipótese, não há que se falar em prequestionamento ficto. Incidência do disposto na Súmula n. 211 do STJ.
+2. A análise da pretensão quanto à incompetência do Juízo implica verificar a conformidade das Resoluções Conjuntas expedidas pelo Tribunal de origem com a lei federal tida por violada (art. 183 da Lei n. 11.101/2005), procedimento inviável, em recurso especial, por ausência de previsão legal (art. 105, III, da Constituição Federal).
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.896.318/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/9/2022, DJe de 21/9/2022).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
