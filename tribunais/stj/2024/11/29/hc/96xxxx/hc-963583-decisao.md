@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de RODRIGO DE GERONE ALVES em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+AGRAVO EM EXECUÇÃO. CRIMES PATRIMONIAIS. CRIMES DO ESTATUTO DO DESARMAMENTO. CRIMES DO CÓDIGO DE TRÂNSITO. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. PRELIMINAR EM PARECER MINISTERIAL. PRISÃO DOMICILIAR HUMANITÁRIA. DEFERIMENTO SEM PRÉVIA MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. EIVA. PREJUDICIALIDADE.
+O julgamento do mérito do recurso de agravo em execução favorece o insurgente e determina a prejudicialidade da prefacial de nulidade da decisão concessiva de prisão domiciliar humanitária. Aplicação analógica do regramento inserto no §2º do artigo 282 do Código de Processo Civil.
+BENESSE CONCEDIDA A APENADO EM REGIME FECHADO COM SEQUELAS ORIUNDAS DE ACIDENTE VASCULAR CEREBRAL. IMPOSSIBILIDADE. REVOGAÇÃO.
+A prisão domiciliar pode ser concedida exclusivamente a condenados do regime aberto que contem com mais de setenta anos de idade ou estejam acometidos por doença grave, e a condenadas gestantes ou que tenham filho menor ou deficiente que demande cuidados especiais. Requisitos desatendidos. Apenado com 46 anos tolhido de sua liberdade em decorrência de delitos cometidos com violência ou grave ameaça à pessoa, contando com pena remanescente superior a 54 anos e atualmente vinculado ao regime fechado. Embora padeça de enfermidades a qual exige acompanhamento médico, vinha recebendo os respectivos cuidados necessários no interior da casa prisional. Decisão singular cassada.
+Imediata expedição de mandado prisional para retomada do cumprimento da pena junto ao regime expiatório no qual se encontrava quando da concessão do benefício.
+PRELIMINAR JULGADA PREJUDICADA. AGRAVO EM EXECUÇÃO PROVIDO.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois o paciente, " ..  sofre com a perda de força nos membros inferiores, por sequelas de um AVC, vale destacar que também possui diabetes mellitus, hipertensão arterial sistêmica, obesidade e rim único (seq. 570). Possui indicação médica para prisão domiciliar, pois apresenta dificuldade para locomoção e perda de força em virtude do acidente vascular cerebral (AVC), conforme laudo médico .. " (fl. 9). Aduz, assim, que deve ser assegurado o direito ao cumprimento da pena em prisão domiciliar para evitar o agravamento do seu estado de saúde, especialmente considerando a impossibilidade de tratamento adequado no estabelecimento prisional.
+Requer, em suma, a concessão da prisão domiciliar humanitária.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Feito o registro e tornando ao caso em concreto, em que pese a solicitação médica veiculada no sentido de que fosse o apenado encaminhado à prisão domiciliar (SEEU, seq. 603.2), bem ainda o atestado médico dando conta das patologias de que acometido o reeducando (SEEU, seq. 651.2), nada há nos autos a evidenciar a imprescindibilidade da prisão domiciliar para a manutenção do estado de saúde do apenado, ancorado o pleito médico de recolhimento domiciliar na perda de força em membro inferior experimentada pelo apenado em razão de acidente vascular cerebral sofrido, havendo notícia de que se trataria tão apenas de déficit motor leve à esquerda (SEEU, seq. 627.2).
+A somar, tem-se notícia de que, quando necessário, foi encaminhado a atendimento junto ao Hospital Vila Nova (SEEU, seq. 580.1 e 588.1), a indicar que vem recebendo todo o acompanhamento necessário (fl. 92).
+Esse entendimento está de acordo com a jurisprudência firmada nesta Corte de que a prisão domiciliar humanitária poderá ser concedida ao apenado desde que comprovado que está acometido de moléstia grave e que no estabelecimento penal não há a assistência médica necessária ao tratamento adequado de sua saúde, o que não é o caso dos autos segundo se extrai do trecho acima transcrito.
+Ademais, para afastar os fundamentos adotados na origem a fim de justificar o indeferimento do pedido de prisão domiciliar seria necessário o revolvimento fático-probatório dos autos, o que não é cabível na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. GRAVE ESTADO DE SAÚDE E INEXISTÊNCIA DE TRATAMENTO ADEQUADO NA UNIDADE PRISIONAL. AUSÊNCIA DE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP.
+2. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram que o paciente está tendo o tratamento adequado no estabelecimento prisional. Para afastar essa conclusão, é necessário o revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 801.974/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. APENADO FORAGIDO. IDOSO. DOENÇA. COVID-19. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante encontra-se foragido, não tendo sequer dado início ao cumprimento da pena no regime semiaberto, cuja alegada ausência de vaga não fora comprovada nos autos.
+2. A idade avançada e as doenças apresentadas pelo agravante não autorizam a concessão automática da prisão domiciliar, devendo ser levado em consideração diversos aspectos relacionados ao apenado, à pena, à situação de risco e às medidas tomadas pelo poder público.
+3. Inexiste flagrante ilegalidade no indeferimento do pedido de prisão domiciliar pelo juízo da execução penal, o qual possui maiores condições de avaliar a real urgência e imprescindibilidade da medida em questão, ressaltando-se, ainda, a impossibilidade de reexame aprofundado do conjunto fático-probatório em habeas corpus.
+4. O agravante foi condenado por delito hediondo, atraindo a incidência do art. 5-A da Recomendação n. 62/2020 do CNJ.
+5. Agravo regimental desprovido. (AgRg no HC n. 800.902/RJ, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31.3.2023.)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
