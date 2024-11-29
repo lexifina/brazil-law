@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por Daniel Correia da Silva de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, c, da CF/1988, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (fl. 533):
+DIREITO ADMINISTRATIVO. APELAÇÃO. DESINCORPORAÇÃO DE MILITAR TEMPORÁRIO. LEI 13.954-2019. POSSIBILIDADE DE DESINCOPORAÇÃO POR ACIDENTE EM SERVIÇO QUANDO NÃO HÁ INCAPACIDADE PARA TODO TIPO DE TRABALHO. CRITÉRIOS DE CONVENIÊNCIA E OPORTUNIDADE. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA JUDICIAL.
+I - Não cabe ao Poder Judiciário analisar o mérito dos atos administrativos praticados no exercício legítimo da conveniência e da oportunidade da Administração Pública.
+II - Os autos informam que o autor, ora recorrido, era militar temporário e foi desligado das Forças Armadas no ano de 2020, após as alterações promovidas pela Lei nº 13.954-2019 na Lei nº 6.880-1980, razão pela qual o novel se aplica ao caso vertente.
+III - Após tais alterações, o militar temporário que ostente doença, moléstia ou enfermidade decorrente de acidente em serviço fará jus à reforma remunerada tão somente se estiver incapacitado total e permanentemente para qualquer trabalho (artigo 109, §§ 1º, 2º e 3º da Lei 6.880-1980), o que não ocorre no presente caso.
+IV - Os documentos presentes nos autos, sobretudo os laudos periciais acostados aos autos, afastam a tese de que está permanentemente incapacitado para o trabalho.
+V - Apelação do autor desprovida; apelação da União provida.
+No recurso inadmitido, sustenta a parte ora agravante a existência de dissídio jurisprudencial a respeito do art. 6º, § 1º, da LINDB, apontando como paradigmas acórdãos prolatados pelo TRF da 5ª Região (Agravo de Instrumento n. 0812848- 43.2019.4.5.0000) e pelo TRF da 3ª Região (ApCiv: 50076847820184036000).
+A tanto, afirma que no aludido julgado (fls. 550/551):
+ ..  tratou-se duas situações que resguardam similitude com o que é guerreado no presente Apelo Especial.
+ ..
+13. O primeiro diz respeito á impossibilidade de licenciamento em se tratando de militar temporário, quando acidentado em serviço, pelo que determina o entendimento que deverá permanecer na Força até que restaure as condições físicas incapacitantes, inclusive mantendo-o remunerado, e não somente adido.
+"(..) No entanto, isso está em desacordo com a jurisprudência da Primeira Turma do STJ, a qual entende que é ilegal o licenciamento do militar temporário ou de carreira que, por motivo de enfermidade física ou mental acometida no exercício da atividade castrense, tornou-se temporariamente incapacitado, sendo-lhe assegurada, na condição de adido, a reintegração ao quadro de origem, para o tratamento médico-hospitalar adequado, com a percepção de soldo e demais vantagens remuneratórios, desde a data do licenciamento indevido até sua recuperação (AgInt no R Esp 1628906/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/09/2017, D Je 27/09/2017) (grifei)"
+14. Nesta senda, ousou divergir o V. Acórdão Regional, eis que a situação relatada se afastou completamente do fato. O Recorrente - repete-se sem ser enfadonho - NÃO FOI LICENCIADO E REINTEGRADO - apenas pugnou pelo reconhecimento judicial pela sua reforma, dada a condição acidentária em serviço, o que sequer pode ser afastado ao exame.
+15. Neste julgado, providenciou-se manter o militar temporário reintegrado, em tratamento até que cessassem as incapacidades, e percepção de remuneração condizente com o seu posto / graduação.
+16. É importante esclarecer nesta contenda que a União Federal, através de seu Comando do Exército, "entenderá" que o licenciamento é possível, sem restabelecer a condição status quo, nem tão pouco garantir-lhe a remuneração de soldado engajado, a que no momento ocupa.
+17. Por outro lado, ao arrepio do que sequer foi observado, mas levado a interpretação judicial contrária, o Recorrente não esteve licenciado, sequer, reintegrado ou colocado como Adido.
+18. A segunda hipótese jurídica a ser combatida, por divergência jurisprudencial, é que se a incapacidade se deu nos estritos termos da Lei nº 6880/80, ainda vigente a redação originária do art. 109, que assim dispunha:
+ ..
+19. É importante frisar quanto a esse plano específico, ao atentarmos para o detalhe do julgado em referência, firmou-se entendimento de que a Lei aplicável é aquela vigente á época do acidente, como também na sua interpretação lógica e literal, é que a incapacidade somente estaria adstrita à atividade militar.
+20. Tanto assim é verdade, que ao dispor o julgado combatido, somente se ateve ao que a nova redação acresceu, ou seja, também para atividades civis (toda e qualquer atividade).
+21. Ainda sob a ótica da irretroatividade da lei e por consequência a interpretação da lei em sua redação original, que somente previa reforma para a incapacidade militar, não se estendendo aos atos da vida civil, o Tribunal Regional Federal da 2ª. Região também se posicionou sobre o tema:
+ ..
+Já nas razões do agravo, aduz que o dissídio jurisprudencial foi apontado de forma adequada, reprisando a argumentação expendida no apelo nobre.
+Sem contraminuta (fl. 707).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+Inicialmente, verifica-se que a parte recorrente não se desincumbiu de indicar, de forma clara, precisa e congruente, a efetiva similitude de direito entre os acórdãos confrontados, motivo pelo qual o apelo especial não atende aos requisitos formais específicos previstos no artigo 1.029, §1º, do CPC.
+Acrescente-se, ademais, que a Corte regional não emitiu nenhum juízo de valor a respeito do art. 6º, § 1º, da LINDB, restando ausente seu necessário prequestionamento, nos termos da Súmula 282/STF.
+Com efeito, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial. Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 20% sobre a verba honorária fixada nas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
