@@ -1,0 +1,16 @@
+DECISÃO
+PAULO SÉRGIO FARIA, condenado por homicídio qualificado, alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento à apelação defensiva (Apelação Criminal n. 0001670-04.2018.8.26.0597).
+Neste writ, a defesa pleiteia busca a reapreciação dos critérios de fixação da repimenda em todas suas fases (pena-base, incidência da atenuante e causa de diminuição da pena pela tentativa).
+Indeferida a liminar (fls. 870-871) e prestadas as informações (fls. 876-881), foram os autos ao Ministério Público Federal, que se manifestou pela concessão parcial da ordem apenas para reconhecer a incidência da confissão espntânea (fls. 885-891).
+Decido.
+Compulsando os autos, observa-se que a defesa se insurge contra acórdão de apelação que, segundo informações de fls. 876-881, transitou em julgado, e não há notícia de que foi ajuizada a revisão criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Assim, o impetrante deve apresentar o pedido cabível, direcionando-o à autoridade que tem atribuição para decidir sobre eventual reeexame, por ilegalidade, de toda a dosimetria da pena, notadamente porque a defesa deixou de solicitar ao Tribunal de Justiça a revisão de condenação.
+Entretanto, especificamente em relação à incidência da atenuante da confissão, estou de acordo com o Ministério Público Federal quanto a neessidade de concessão da ordem de ofício, visto que o constrangimento ilegal é manifesto.
+Deveras, compulsando os autos, observo que o paciente admitiu em juízo a prática do delito, isto é, "a confissão do paciente na fase judicial foi debatida em plenário e contribuiu para embasar a sua condenação, razão pela qual deve ser reconhecida a atenuante genérica" (fl. 889).
+Nesse sentido: "o STJ entende que, segundo a orientação sumular n. 545, a confissão espontânea do réu, desde que utilizada para fundamentar a condenação, sempre deve atenuar a pena, na segunda fase da dosimetria, ainda que tenha sido parcial, qualificada ou retratada em juízo" (AgRg no HC n. 611.392/RS, relator Ministro Felix Fischer, DJe 12/11/2020, destaquei).
+Logo, levando-se em consideração que, no caso, a pena-base foi fixada em 1/6 acima do mínimo legal em decorrência de circunstâncias judiciais desfavoráveis, há que se compensar essa majoração com a atenuante da confissão, de modo que a pena, na segunda etapa, seja estabelecida em 12 anos de reclusão.
+Sobre esse patamar, deve ser aplicada a causa de diminuição pela tentativa, estabelecida na origem em 1/3, situação que torna a reprimenda definitiva estabelecida em 8 anos de reclusão.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, mas concedo a ordem de ofício para fazer incidir a atenuante da confissão espontânea, de modo que a pena imposta ao paciente seja reduzida para 8 anos de reclusão.
+Publique-se e intimem-se.
+EMENTA
