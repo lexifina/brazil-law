@@ -1,0 +1,56 @@
+DECISÃO
+ROBERTO NEI DE JESUS ROCHA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão prolatado pelo Tribunal Regional Federal da 3ª Região nos Embargos de Declaração na Apelação Criminal n. 0000119-61.2016.4.03.6181.
+Consta dos autos que o recorrente foi condenado à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime tipificado no art. 157, § 2º, II, do CP.
+Nas razões do recurso especial, a defesa aduz, em síntese, que: a) a condenação foi lastreada unicamente em reconhecimento pessoal feito em desacordo com as formalidades do art. 226 do CPP e b) a decisão combatida manteve tal condenação, que reputa manifestamente contrária à prova dos autos, em consequência da nulidade defendida, de modo a incorrer em violação dos arts. 226 e 386, VII, do CPP.
+Apresentadas as contrarrazões (fls. 558-577) e inadmitido o recurso especial pelo Tribunal a quo (fls. 579-573), o Ministério Público Federal opinou pelo desprovimento do agravo (fls. 628-633).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento, motivo pelo qual passo à análise do recurso especial.
+O recurso especial é tempestivo, mas não preencheu os demais requisitos constitucionais, legais e regimentais para seu processamento, por incidência da Súmula n. 211 do STJ, conforme evidenciarei adiante.
+II. O caso dos autos
+Segundo consta dos autos, na data de 7/6/2013, por volta das 11h05min, dois indivíduos subtraíram, mediante grave ameaça exercida com o emprego de arma de fogo, objetos postais que eram transportados pelos carteiros A.L.D.S. e J.W.S.C., os quais estavam a serviço a Empresa Brasileira de Correios e Telégrafos - EBCT.
+O Tribunal de origem, ao julgar o recurso de apelação, empregou os seguintes fundamentos, no que interessa (fls. 453-460, destaquei):
+A materialidade está comprovada pelo boletim de ocorrência e pela lista de objetos entregues ao carteiro (ID 258342660, pp. 18/31), que indicam as encomendas postais subtraídas do veículo dos Correios, no dia 07.06.2013, na Rua Maria Terezinha D"Abril, altura do nº 167, Cidade Ademar, São Paulo.
+A autoria, a seu turno, também se encontra devidamente demonstrada pelas declarações prestadas perante a autoridade policial (ID 258342660, pp. 65 e 74) e pela prova oral produzida em contraditório judicial (I Ds 258342672, 258342673, e 258342675), especialmente os depoimentos das vítimas (A. L. D. S. e J. W. S. C.), que confirmaram a narrativa dos fatos feita pela denúncia. Além disso, corroboram as provas de autoria o reconhecimento pessoal efetuado pelas vítimas em juízo (ID 258342665, pp. 82 e 84).
+Por outro lado, a versão apresentada pelo apelante para os fatos encontra-se isolada e dissociada dos demais elementos de prova. Em crimes contra o patrimônio, a palavra das vítimas assume relevante importância, pois muitas vezes elas são as únicas pessoas a presenciar o crime. Todavia, isso não significa dizer que o depoimento da vítima não deva ser analisado com cautela, atentando-se especialmente ao fenômeno da falsa memória. No caso, o reconhecimento feito pelas vítimas em juízo deu-se com a certeza suficiente para afastar qualquer possibilidade de que tenha sido induzido pelas fotografias apresentadas na delegacia.
+Assim, os elementos probatórios trazidos aos autos são suficientes para trazer ao julgador o juízo de certeza necessário à condenação do réu, não havendo que se falar em aplicação do princípio in dubio pro reo.
+Portanto, mantenho a condenação de ROBERTO NEI DE JESUS ROCHA pela prática do crime de roubo majorado, nos termos da denúncia.
+A seu turno, ao decidir os dois embargos de declaração manejados, o Tribunal a quo assim firmou (fls. 501-504 e 531-534):
+O art. 619 do Código de Processo Penal admite embargos de declaração quando, no acórdão, houver ambiguidade, obscuridade, contradição ou omissão.
+No caso, não há nenhuma contradição entre a fundamentação do acórdão e a sua conclusão, tampouco entre fundamentações, e também não há omissão a ser suprida nem obscuridade ou ambiguidade a ser aclarada.
+A omissão que autoriza a oposição dos embargos de declaração diz respeito à ausência de manifestação sobre tema, de fato ou de direito, que deveria ter se pronunciado o órgão julgador, por provocação da parte ou mesmo que devesse conhecer de ofício. Não é o caso.
+Em relação à alegada necessidade de pronunciamento acerca da inobservância da formalidade descrita no art. 226 do Código de Processo Penal no procedimento de reconhecimento do réu, cumpre registrar que o embargante pretende inovar em sede de embargos de declaração, discutindo matéria que não foi objeto da apelação, tampouco oportunamente suscitada, como alertou a Procuradoria Regional da República em suas contrarrazões (ID 270386417).
+A defesa não impugnou o reconhecimento pessoal realizado nos autos em seus memoriais ou nas razões de apelação. Tal alegação surgiu apenas nestes embargos declaratórios, tratando-se de inovação em recurso que não é admitida, conforme já decidiu o Superior Tribunal de Justiça:
+ ..
+Nada obstante, observo que a condenação do embargante não se fundamentou apenas no reconhecimento das vítimas, mas em todo o conjunto probatório produzido. Por isso, ainda que, hipoteticamente, o reconhecimento do réu fosse declarado nulo por eventualmente não ter observado o procedimento legal (não estou a afirmar que isso tenha ocorrido), tal fato não ensejaria a modificação dos fundamentos que levaram a Turma a manter a sentença condenatória.
+Assim, é desnecessária a oposição de embargos de declaração visando reabrir a discussão, inclusive para efeito de prequestionamento, pois todas as questões submetidas ao Poder Judiciário foram devidamente examinadas.
+O Superior Tribunal de Justiça orienta que " o s embargos de declaração são cabíveis somente nas hipóteses de obscuridade, contradição ou omissão ocorridas no acórdão embargado, sendo inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivem novo julgamento do caso" (EDcl no AgRg no HC 313105/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, j. 22.09.2015, DJe 13.10.2015).
+Posto isso, os embargos de declaração.
+ ..
+O art. 619 do Código de Processo Penal admite embargos de declaração quando, no acórdão, houver ambiguidade, obscuridade, contradição ou omissão. No caso, a defesa do embargante não indicou qual desses vícios teria ocorrido no acórdão, limitando-se a alegar a nulidade do julgamento do julgamento dos embargos de declaração por falta de intimação pessoal da Defensoria Pública da União (DPU).
+Rejeito a alegação de nulidade. A DPU tem a prerrogativa de intimação pessoal, mas, como já decidido nesta Turma:
+ ..
+No caso, embora a DPU não tenha sido intimada da data prevista para o julgamento dos embargos de declaração, não se afigura qualquer prejuízo ao embargante, uma vez que não existe previsão legal de intimação (pessoal ou pela imprensa oficial) da data do julgamento dos feitos que são apresentados em mesa, sem possibilidade de sustentação oral, nos termos do art. 143 do Regimento Interno deste Tribunal. Esse é o caso dos embargos de declaração. Nesse sentido:
+ ..
+Portanto, não há a nulidade alegada.
+Posto isso, REJEITO os embargos de declaração.
+Quanto à alegada invalidade do reconhecimento pessoal realizado, verifico que a Corte estadual, mesmo depois da oposição de aclaratórios, não procedeu à sua análise específica, o que acarreta a falta do necessário prequestionamento da matéria.
+Com efeito, o Juízo de segundo grau manteve a condenação com o fundamento de que o todo o acervo probatório produzido nos autos autorizava formação da convicção no sentido da prova da autoria.
+Quanto à alegada invalidade do reconhecimento pessoal realizado, por descumprimentos dos requisitos previstos no art. 226 do CPP, verifico que a Corte estadual, mesmo depois da oposição de aclaratórios, não procedeu à sua análise específica, o que acarreta a falta do necessário prequestionamento da matéria.
+Não desconheço o instituto do prequestionamento ficto (art. 1.025 do CPC), consagrado expressamente no Código de Processo Civil de 2015, em atenção aos princípios da economia processual e da celeridade.
+Todavia, no caso, a Corte local não decidiu sobre o cumprimento dos requisitos do art. 226 do CPP acerca do reconhecimento pessoal mesmo depois da oposição dos embargos declaratórios. O recurso especial foi interposto na vigência do CPC de 2015, mas não foi suscitada a violação do art. 619 do CPP. Assim, não é possível considerar a matéria prequestionada e o óbice da Súmula n. 211 do STJ impede que este Tribunal Superior aprecie a tese aventada pela defesa.
+A jurisprudência do STJ admite a aplicação analógica desse instituto ao processo penal, por força do art. 3º do CPP, desde que a parte aponte a violação do art. 619 do Código de Processo Penal. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 639, I, DO CPP. PREQUESTIONAMENTO FICTO. AUSÊNCIA. NÃO APONTADA A NEGATIVA DE PRESTAÇÃO JURISDICIONAL NAS RAZÕES DO ESPECIAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes. 2. Agravo regimental improvido.
+(AgRg no REsp n. 1.669.113/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 11/5/2018, grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. SÚMULA N. 282 DO STF. PREQUESTIONAMENTO FICTO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Incidem, portanto, os óbices das Súmulas n. 211 do STJ e 282 do STF, que também é observada por esta Corte, se o mérito das teses veiculadas nas razões do especial não foi analisado pelo Tribunal a quo.
+2. Não é cabível a adoção do prequestionamento ficto se a parte não suscitou a violação do art. 619 do Código de Processo Penal e não apontou eventual omissão do Juízo de segunda instância a ser sanada.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.772.993/CE, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 4/6/2020).
+Ademais, o recorrente assevera que a ilegalidade dos reconhecimentos conduz à absolvição, porque retira todo o suporte probatório para a condenação.
+Entretanto, observo que o acórdão recorrido manteve a condenação afirmando haver outros fundamentos da autoria delitiva, que não foram sequer mencionados na petição do recurso .
+Assim, não cumprido o dever de dialeticidade das razões recursais, é inviável a apreciação da matéria diretamente por esta Corte Superior de Justiça, a teor da Súmula n. 283 do STF.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
