@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO LEMES SILVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento da Correição Parcial n. 5192837- 50.2024.8.21.7000/RS.
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática do crime de ameaça. O Juízo de primeiro grau indeferiu o pedido da defesa, de apresentação posterior do rol de testemunhas.
+Irresignada, a defesa ajuizou correição parcial perante o Tribunal de origem, que julgou improcedente a pretensão, nos termos do acórdão assim ementado:
+"CORREIÇÃO PARCIAL. CRIME DE AMEAÇA. PEDIDO DA DEFENSORIA PÚBLICA PARA APRESENTAÇÃO POSTERIOR DO ROL DE TESTEMUNHAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE ABUSO OU ERRO QUE IMPORTEM NA INVERSÃO TUMULTUÁRIA DOS ATOS E FÓRMULAS LEGAIS A JUSTIFICAR A CONCESSÃO DO PEDIDO. ALEGAÇÃO DE DIFICULDADES DE CONTATO COM O RÉU, POR PARTE DA DEFENSORIA PÚBLICA, VERTIDA EM TERMOS GENÉRICOS, SEM RELAÇÃO COM O PROCESSO. CASO CONCRETO EM QUE O OFICIAL DE JUSTIÇA NÃO TEVE NENHUMA DIFICULDADE DE CUMPRIR O MANDADO DE CITAÇÃO, ENCONTRANDO O RÉU NO ENDEREÇO QUE CONSTA NA DENÚNCIA. INDEFERIMENTO MANTIDO. PARIDADE PROCESSUAL ENTRE A ACUSAÇÃO E DEFESA. CORREIÇÃO PARCIAL IMPROCEDENTE" (fl. 68).
+A Defensoria Pública sustenta, neste habeas corpus, que o paciente está submetido a constrangimento ilegal em razão do cerceamento de defesa, uma vez que indeferido o pedido de juntada posterior do rol de testemunhas.
+Argui que o voto condutor do acórdão desconsiderou a "diferença havida entre as relações advogado/cliente e defensor/assistido" (fl. 6).
+Aponta que a Defensoria não teve acesso ao assistido e, por isso, não pode apresentar o rol de testemunhas.
+Requer, em liminar e no mérito que seja oportunizada à Defensoria Pública a posterior juntada do rol de testemunhas.
+Liminar indeferida (fls. 134/135)
+Oficiado as instâncias de origem requisitando informações e que foram prestadas (fls. 159/163).
+Parecer do Ministério Público Federal pelo não conhecimento da impetração ou pela denegação da ordem (fls. 165/170).
+É o relatório.
+Decido.
+Consta dos autos que o recorrido, no bojo do Processo Criminal n. 5192837- 50.2024.8.21.7000/RS, propôs correição parcial, com pedido de liminar, contra decisão proferida MM. Juiz de Direito da 2ª Vara Judicial da Comarca de São Francisco de Assis que indeferiu o pedido formulado pela Defensoria Pública de apresentação de rol de testemunhas de forma extemporânea.
+Alega a impetrante (fls. 3/9), que a decisão questionada viola os arts. 396-A, caput, 403, § 3º, e 600, todos do Código de Processo Penal - CPP, ao argumento de que, não há impeditivo legal para que seja juntado rol de testemunha extemporaneamente e que, em se tratando de defesa promovida pela Defensoria, há de se considerar, ainda, as dificuldades inerentes do contato direto com o acusado. E, mais, salienta que é necessário observar o princípio do favor rei ou favor libertatis, como medida assecuratória dos princípios constitucionais da ampla defesa e do contraditório.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, por maioria, manteve a decisão do juízo a quo, nos termos dos seguintes fundamentos:
+"A insurgência cinge-se à decisão que indeferiu o pedido de apresentação do rol de testemunhas posterior à resposta à acusação.
+Na hipótese sub judice, não constato, ao menos por ora, abuso ou erro que importem na inversão tumultuária dos atos e fórmulas legais a justificar a concessão do pedido liminar.
+O rol de testemunhas deve ser apresentado com a resposta à acusação, nos termos do art. 396-A do Código de Processo Penal, e a alegação apresentada pela Defensoria Pública não vem, ainda que minimamente, demonstrada.
+Note-se que o pedido de apresentação de eventual rol de testemunhas em momento posterior (evento 15, DOC1) é vertido em termos genéricos, alegando a Defensora Pública que não teve contato com a pessoa acusada sem justificar a razão, mencionando que esta Instituição está oficiando nestes autos por dever de ofício .. que podem ocorrer situações em que seja difícil ou impossível apresentar o rol de testemunhas dentro do prazo estabelecido .. que em alguns casos a pessoa acusada pode estar detida, inclusive fora da Comarca .. e que muitas vezes, o primeiro contato da pessoa acusada com o Defensor Público se dá na audiência de instrução e julgamento (grifei).
+Ou seja, nada foi referido em relação ao caso concreto, restando a alegação da Defensora Pública no plano da mera conjectura. Aliás, levando em conta que o Oficial de Justiça não teve nenhuma dificuldade de cumprir o mandado de citação (evento 9, DOC1), encontrando o réu no endereço que consta na denúncia (Rua Venâncio Aires, 2090, São Francisco de Assis/RS), é no mínimo curioso que a Defensoria pretenda apresentar o rol de testemunhas fora do prazo legal, respaldando-se em supostas dificultadas de contato com o réu.
+Nesse sentido, menciono a decisão do Juízo a quo, que adoto como razões de decidir (evento 20, DESPADEC1):
+Quanto ao pedido da defesa de posterior apresentação de rol de testemunhas, desde já indefiro a juntada posterior do rol de testemunhas, tendo em vista que, nos termos do artigo 396-A do Código de Processo Penal, deve ser apresentado na resposta à acusação, sob pena de preclusão." (fls. 64/65)
+Colhe-se do trecho acima que o Tribunal local, nos termos do voto vencedor, entendeu pela manutenção do indeferimento da apresentação de rol posterior de testemunha, em razão de não ter sido demonstrada a existência concreta de óbice que impedisse tal providência no momento processual previsto no art. 396-A do CPP.
+Pois bem.
+Com efeito, o momento processual adequado para a apresentação do rol de testemunhas pela defesa é na resposta à acusação, sob pena de preclusão, nos termos do art. 396-A, caput, do CPP.
+Esta Corte possui jurisprudência consolidada no sentido de que, consoante o art. 396-A, do CPP, o rol de testemunhas deve ser apresentado no momento processual adequado, ou seja, quando da apresentação da resposta preliminar, sob pena de preclusão, e que não configura cerceamento de defesa o indeferimento do pedido extemporâneo de complementação do rol de testemunhas, a fim de acrescentar uma nova testemunha (HC n. 602.742/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/8/2020, DJe de 31/8/2020).
+Outrossim, é igualmente consolidado no âmbito deste Sodalício o entendimento de que, para viabilizar a dilação do prazo para o arrolamento de testemunhas, exige-se que a defesa demonstre, de forma clara e objetiva, a existência de óbice intransponível ao cumprimento da regra processual do art. 396-A, do CPP, não bastando, para tanto, a alegação genérica de que a Defensoria Pública não teve condições de contatar o réu.
+Veja-se:
+PROCESSUAL PENAL. APRESENTAÇÃO DO ROL DE TESTEMUNHAS. DILAÇÃO DO PRAZO. REQUERIMENTO NA DEFESA PRÉVIA. TEMPESTIVIDADE. ALEGAÇÕES GENÉRICAS. EXISTÊNCIA DE ÓBICE INTRANSPONÍVEL. NÃO DEMONSTRAÇÃO. RECURSO DESPROVIDO.
+1. Segundo a legislação processual, o arrolamento de testemunhas deve ser feito no ato de apresentação da defesa prévia.
+2. Para viabilizar a dilação de prazo, a defesa deve demonstrar, de forma clara e objetiva, a existência de óbice intransponível ao cumprimento do disposto no art. 396-A do CPP.
+3. A alegação genérica de que a Defensoria Pública não teve condições de contatar o réu, sem especificação do motivo dessa impossibilidade, não é suficiente para o afastamento da regra do art. 396-A do CPP e deferimento da dilação de prazo.
+4. Recurso ordinário desprovido.
+(RHC n. 132.768/SE, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+In casu, deve prevalecer o teor do art. 396-A, do CPP, uma vez que não se observou qualquer circunstância fática concreta apta a excepcionar a regra geral, considerando-se que as alegações genéricas de falta de estrutura da Defensoria Pública não representam argumentos idôneos para se afastar a aludida regra processual.
+Outrossim, se ao juiz, eventualmente, parecer necessário, poderá ouvir outras testemunhas e poderá, ainda, requerer diligências complementares cuja necessidade se origine de circunstâncias ou fatos apurados durante a instrução, na fase do art. 402 do CPP (AgRg no RHC n. 51.642/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/12/2016, DJe de 2/2/2017).
+Nesse sentido, não verifico a existência de flagrante ilegalidade na hipótese dos autos.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
