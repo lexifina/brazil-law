@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, recurso especial interposto por MARISTELA DE OLIVEIRA em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA INCIDENTE SOBRE VERBAS PAGAS ADMINISTRATIVAMENTE. URV. APLICAÇÃO DE REGIME DE COMPETÊNCIA. ANÁLISE DE CONTRACHEQUES. VENCIMENTOS SUPERIORES À ALÍQUOTA MÁXIMA. INEXISTÊNCIA DE VALORES A RESTITUIR. NULIDADE DA SENTENÇA AFASTADA. Não se configura extra petita a sentença, uma vez que á parte autora, apesar de fazer referência ao regime de Rendimentos Recebidos Acumuladamente (RRA), deixa claro que pretende a tributação conforme o regime de competências, e não de caixa.
+MÉRITO. Na hipótese de valores pagos administrativamente em relação a exercícios anteriores, como aconteceu com a URV dos servidores do Poder Judiciário Estadual, não deve o tributo incidir sobre a soma dos vencimentos do mês do depósito com o relativo aos atrasados. O cálculo deve considerar para as diferenças o salário percebido no mês concernente ao pagamento retroativo, com a alíquota de imposto que incidiria sobre o total daquele.
+No caso, todavia, o salário da autora é muito superior ao teto de desconto de imposto de renda incidindo a alíquota da faixa máxima de tributação 27,5%. Assim, ainda que a tributação da URV não tenha respeitado o adequado regime de competências considerando o mês do pagamento retroativo, não há o que repetir, pois a alíquota seria sempre a mesma de 27,5%, não se configurando prejuízo à parte requerente. O equívoco na forma do cálculo não gera direito à repetição, quando o montante final obtido é o correto.
+Não demonstrou a requerente que em algum momento do passado em discussão tenha percebido vencimentos inferiores ao teto de incidência do imposto, com alíquota menor. Precedentes desta Corte.
+APELAÇÃO PARCIALMENTE PROVIDA. (fl. 95)
+Os embargos de declaração foram rejeitados (fls. 121/129).
+No recurso especial, interposto com fundamento na alínea a e c do permissivo constitucional, a parte recorrente aponta, além de divergência jurisprudencial, ofensa aos arts. 458, II, e 535, I e II, do CPC/1973; 521 do Decreto 85.450/1980; e 46 da Lei 8.541/1992, sustentando, essencialmente, que (a) "mesmo diante da interposição dos Embargos de Declaração a matéria jurídica antes veiculada não se encontra prequestionada, espera a Recorrente seja conhecido o seu Recurso para anular o Acórdão dos Embargos e determinar a volta dos autos à Instância de Segundo Grau" (fl. 140); (b) "o rendimento recebido pelo servidor (acumuladamente) mês a mês, deve ser somado aos seus vencimentos mensais básicos, para então analisar a alíquota de imposto de renda incidente" (fl. 142).
+Aduz, ainda, que:
+ ..  a interpretação da Lei pelo Tribunal Gaúcho mostra-se equivocada! O parágrafo segundo supra colacionado é claro no sentido de que deve ser aplicada em separado a tabela do Imposto de Renda sobre 1) o vencimento normal daquele mês e 2) o Rendimento Recebido Acumuladamente - R. R. A., relativo a período anterior e recebido naquele mês. Isto, não importando o quanto o servidor receba normalmente, pois a tabela aplicada ao RRA é independente da tabela aplicada ao vencimento normal - regime de competência -, sob pena de dupla penalização do contribuinte; 1) não recebeu o valor na época correta e 2) pagará valor maior a título de imposto de renda sobre o valor que recebeu em atraso. (fl. 142)
+Contrarrazões às fls. 167/176.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Decido.
+Quanto à apontada violação ao art. 535, II, do CPC/1973, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, de modo a solucionar devidamente as questões levadas a julgamento pelas partes.
+A negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 458 do CPC/1973, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+No tocante à incidência das alíquotas máximas sobre os valores recebidos a título de R.R.A., o tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente que:
+Na hipótese de valores pagos administrativamente em relação a exercício anteriores, como aconteceu com a URV dos servidores dó Poder Judiciário Estadual, não deve o tributo incidir sobre a soma dos vencimentos o mês do depósito com o relativo aos atrasados. O cálculo deve considerar para as diferenças o salário percebido no mês concernente ao pagamento retroativo, com a alíquota de imposto que incidiria sobre o total daquele.
+A questão restou definida pelo Superior Tribunal de Justiça em sede de Recurso Especial representativo de controvérsia, submetido ao regime do artigo 543-C do CPC:
+ ..
+Entretanto, analisando-se os contracheques da autora, constata-se que os seus vencimentos são muito superiores à faixa de tributação máxima do imposto de renda à época. Entre junho e dezembro de 2007, por exemplo, a base de cálculo mensal para o imposto de renda foi: R$ 7.889,45, R$ 8.416,56, R$ 7.842,15, R$ 7.246,17, R$ 8.224,10, R$ 8.547,87 e R$ 9.632,00.
+É o que se extrai da seguinte tabela, confeccionada a partir de dados disponibilizados pela Receita Federal:
+ ..
+O salário da autora é muito superior ao teto de desconto de imposto de renda, incidindo a alíquota da faixa máxima de tributação: 27,5%.
+Saliento não haver demonstrado a requerente que em algum momento do passado em discussão tenha percebido vencimentos inferiores ao teto de incidência do imposto, com alíquota menor.
+Assim, ainda que a tributação da URV não tenha respeitado o adequado regime de competências considerando o mês do pagamento retroativo, no caso não há o que repetir, pois a alíquota seria sempre a mesma de 27,5%, não se configurando prejuízo à parte requerente. O equívoco na forma do cálculo não gera direito à repetição quando o montante final obtido é o correto. (fls. 101/104 - Grifo nosso)
+O espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim, ilidir o afirmado pelas instâncias ordinárias, acatando toda a linha argumentativa dos recorrentes, para fins de reconhecer a incidência indevida do percentual máximo da alíquota do imposto de renda no caso, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA. VERBAS ACUMULADAS. RECEBIMENTO. REGIME DE COMPETÊNCIA. MATÉRIA PACÍFICA. ACÓRDÃO RECORRIDO CUJA CONCLUSÃO SÓ PODE SER REVISTA MEDIANTE REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. A Primeira Seção, ao julgar o REsp 1.118.429/SP, repetitivo, firmou tese segundo a qual "o Imposto de Renda incidente sobre os benefícios pagos acumuladamente deve ser calculado de acordo com as tabelas e alíquotas vigentes à época em que os valores deveriam ter sido adimplidos, observando a renda auferida mês a mês pelo segurado. Não é legítima a cobrança de IR com parâmetro no montante global pago extemporaneamente".
+2. No caso dos autos, o conhecimento do recurso do contribuinte encontra óbice nas Súmulas 7 e 83 do STJ, tendo em vista o TRF da 5ª Região ter firmado a premissa de que foi observado o regime de competência para a tributação, em conformidade com o comando do título judicial.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.864.004/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/11/2020, DJe de 2/12/2020).
+Isso posto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
