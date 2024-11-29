@@ -1,0 +1,25 @@
+DECISÃO
+VINICIUS GABIREL NASCIMENTO COSTA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Revisão Criminal n.
+A defesa pretende a redução da pena, ao argumento de que não podem ser aplicadas cumulativamente as frações de aumento decorrentes das majorantes do roubo, na terceira fase da dosimetria, sem fundamentação idônea.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal estadual, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157, § 2º, II, do Código Penal. A pena foi aumentada, na terceira fase da dosimetria, em 1/3, pelo concurso de agentes e, em seguida, em 2/3, pelo emprego de arma de fogo.
+A Corte estadual entendeu justificadas as frações adotadas na sentença. Confira-se (fls. 74-75, grifei):
+Em outras palavras, na hipótese concreta aqui em discussão não há imoderação na dupla cumulação, de modo que a incidência separada e cumulativa das causas de aumento representa fiel obediência aos princípios da legalidade, proporcionalidade e individualização das penas, diante das especificidades tangencialmente coletadas neste feito, situação que, pela maior reprovabilidade da conduta, bem respaldam recrudescimento diferenciado, estando, pois, atendida a Súmula nº 443, do Colendo Superior Tribunal de Justiça.
+Ora, o réu se aliou ao comparsa e, mediante o uso de arma de fogo, desapossaram a vítima de seu pertence, o que assegurou não só a boa execução do delito, mas maior chance de impunidade, restando demonstrada a especial e real gravidade do roubo.
+Aliás, o afastamento da fração menor, por eleição exclusiva da maior, sempre acabará ofendendo o princípio da isonomia, pois podem receber as mesmas penas o agente que comete o roubo acompanhado de dois ou três outros indivíduos armados ou que mantêm a restrição da liberdade das vítimas em seu poder por horas a fio e aquele que pratica sozinho a subtração com um revólver.
+Nos termos do art. 68, parágrafo único do Código Penal: "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua".
+A presença, portanto, de duas causas de aumento não acarreta, necessariamente, o aumento acima do mínimo legal previsto no art. 157, §§ 2º e 2º-A, do CP. O referido dispositivo legal - art. 68, parágrafo único do CP - visa garantir ao condenado a aplicação individualizada da pena, de forma proporcional e razoável. Exige-se, para o aumento cumulativo, fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula 443 do STJ.
+No caso, verifico que o aumento da pena não foi concretamente fundamentado, uma vez que se baseou apenas nas causas de aumento incidentes ao caso - inerentes ao próprio delito -, sem que fossem apresentados elementos concretos dos autos que justificasse o incremento pelas majorantes no patamar estabelecido.
+Ilustrativamente:
+RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. AUMENTO CUMULATIVO DAS MAJORANTES PREVISTAS NA PARTE ESPECIAL. POSSIBILIDADE MEDIANTE FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE BIS IN IDEM. NÃO OCORRÊNCIA. VALORAÇÃO NEGATIVA DA CULPABILIDADE E AUMENTO CUMULATIVO APLICADOS MEDIANTE FUNDAMENTOS DISTINTOS.
+1. É firme a jurisprudência do STJ e também do STF no sentido de que, a teor do art. 68, parágrafo único, do Código Penal, é possível aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais. Para tanto, é necessário que o cúmulo de majorantes esteja baseado em circunstâncias concretas atinentes às próprias causas de aumento e que indiquem a maior reprovabilidade da conduta.
+ ..
+4. Recurso especial conhecido e desprovido.
+(REsp n. 2.122.298/PI, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 4/6/2024, DJe de 6/6/2024.)
+Assim, identifico a violação legal apontada e passo à dosimetria da pena.
+Observados os critérios adotados pelas instâncias antecedentes, mantenho a pena-base no mínimo legal, em 4 anos de reclusão, mais 10 dias-multa. Na segunda fase, reconhecida a atenuante da menoridade relativa, permanece a pena no mínimo legal, por força da Súmula n. 231 do STJ. Na terceira etapa, reconhecida a ilegalidade na aplicação cumulativa das majorantes, faço incidir a fração de 2/3, o que torna a pena definitivamente estabelecida em 6 anos e 8 meses de reclusão, mais 16 dias-multa.
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial e redimensionar a pena para 6 anos e 8 meses de reclusão, mais 16 dias-multa.
+Publique-se e intimem-se.
+EMENTA
