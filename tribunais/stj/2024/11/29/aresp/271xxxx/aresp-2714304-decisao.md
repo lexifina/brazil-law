@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região (Agravo em Execução Penal n. 5002400-21.2024.4.03.6181) que manteve decisão que denegou a modificação da pena restritiva de direitos em regime aberto em serviços à comunidade por outra sanção pecuniária, pretendida pelo agravante Antonio Eduardo Viana Carneiro.
+Nas razões do recurso especial (fls. 355/374), a defesa aponta violação dos arts. 32, III, 155 e 156, do Código de Processo Penal, bem como dos arts. 32, III, 59 e 71, todos do Código Penal, assim consignando (fls. 373/374):
+ ..
+a) Reconhecendo -se a violação ao art. 32, III do Código de Processo Penal, ANULAR o acórdão recorrido, determinando-se o retorno dos autos a origem, afim de que se manifeste o Egrégio Tribunal Federal da 3ª Região sobre a autoria da infração penal, visto tratam-se de provas colhidas de elementos na fase investigativa e, ainda, não acolher as provas apresentadas pelo recorrente visto sua impossibilidade de cumprir sua reprimenda na forma prolatada em sentença condenatória;
+b) Reconhecendo -se a violação ao 155 e 156 do Código de Processo Penal, reformar o acordão recorrido, a fim de reconhecer a nulidade da sentença condenatória prolatada em desfavor do Recorrente, para determinar-se que as provas apresentadas pela defesa sejam acolhidas, para que lhe seja possível se desincumbir de ônus que foi imposto pelo juízo do primeiro grau ao assentar a insuficiência probatória, quais sejam carga horária de trabalho;
+c) Reconhecendo-se a violação ao art.155 do Código de Processo Penal, na medida em que apresentada prova na fase judicial pela defesa no sentido de que o Recorrente é apenas gestor administrativo, valeu-se o juízo exclusivamente de elementos colhidos na faze inquisitorial para formar sua convicção, requer a reformar do acordão recorrido, a fim de absolvê-lo da imputação da prática dos delitos tipificados no art. 337-A , 29 e 71 do CPP;
+d) Caso mantida a condenação, constatando-se a violação ao art. 32, III e art.59 do Código Penal (i) anular o acordão recorrido, para que sejam enfrentadas as alegações apresentadas pelo recorrente e no que concerne a consideração da personalidade e conduta social do agente na fase da dosimetria, ou alternativamente reformar o acórdão recorrido, valorando positivamente as aludidas vetoriais (ii) quanto a exasperação da pena - base pela quantidade e tempo do delito praticado, reconhecer a desproporcionalidade da fração aplicada em superior a 2/3 para o aumento da pena-base com fundamento em apenas uma vetorial, a fim de que reformar o acórdão recorrido, aplicando apenas a fração de 1/6 em decorrência do tempo praticado.
+e) Ainda no que concerne a dosimetria da pena, caso mantida a condenação em desfavor do recorrente, seja reconhecida a violação ao art.71 do Código Penal, sobretudo em decorrência da ausência de demonstração fundamentada das provas apresentadas pela defesa para cumprimento da reprimenda imposta na sentença condenatória, para que seja aplicada a minorante prevista no referido dispositivo legal em patamar máximo;
+f) Reconhecendo a violação ao art.46 §4 , seja a condenação reduzida pela metade, na forma do art.55 do CP;
+g) Reconhecendo a violação ao art.29, seja reduzida para a um terço em consequência dos antecedentes, do recorrente no caso.
+ ..
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 284/STF, sob o fundamento (fls. 388/389):
+ ..
+Iniciada a execução penal, ANTÔNIO EDUARDO VIANA CARNEIRO requereu a conversão da pena restritiva de direitos de prestação de serviços à comunidade em prestação pecuniária, (I Do que foi indeferido pelo Juízo a quo 287366604 - fls. 84/87, 156/160, 163/166, ID 287366605 - fls. 11/12).
+Contra essa decisão, ANTÔNIO EDUARDO VIANA CARNEIRO interpôs o presente , julgado pela Quinta Turma e alvo desse agravo em execução recurso especial (ID 287366605 - fls. 70/87, ID 291079982).
+Os pressupostos genéricos de admissibilidade do recurso especial estão presentes. Os específicos, não.
+Como bem apontado pelo MINISTÉRIO PÚBLICO FEDERAL, .. as razões recursais apresentadas pela defesa, assim como os pedido realizados, objetivando a absolvição ou a alteração da pena privativa de liberdade, não guardam qualquer relação com a realidade fático-processual, uma vez que o acórdão prolatado nos autos, por unanimidade, negou provimento ao agravo em execução penal defensivo, tendo em vista a impossibilidade de modificação das penas restritivas Vê-se, portanto, que a defesade direitos, sob pena de ofensa à coisa julgada. apontou violação a diversos dispositivos legais sem qualquer relação com a controvérsia jurídica debatida no presente feito e decidida pelo acórdão proferido pela Corte Regional Federal ..(ID 292081279).
+Consequentemente, o recurso especial não é plausível em virtude da manifesta e intransponível deficiência de fundamentação, sendo aplicável na espécie - por analogia - a :Súmula 284 do STF.
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. (STF - Súmula 284, aprovação 13/12/1963)
+Nesse sentido: STJ - AgRg no AR Esp n. 1.812.515/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/9/2023, D Je de 11/9/2023; AgRg no AR Esp n. 2.181.871/MA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/6/2023, D Je de 12/6/2023; AgRg no AR Esp n. 1.793.805/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, D Je de 30/9/2022.
+Pelo exposto, não admito o recurso especial.
+ ..
+Contra o decisum a defesa interpôs o presente agravo (fls. 392/400).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial, conforme a ementa (fl. 436 - grifo nosso):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO REBATEU ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. NÃO CONHECIMENTO. DEFICIÊNCIA ARGUMENTATIVA DO RECURSO ESPECIAL QUANTO À SUPOSTA VIOLAÇÃO A LEI FEDERAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. APLICAÇÃO ANALÓGICA DA SÚMULA 284 DO STF. NÃO CONHECIMENTO.
+- Na espécie, incide a Súmula nº 182 dessa Augusta Corte Superior, eis que as razões expendidas na peça recursal não rebatem especificamente os argumentos apresentados na decisão agravada para obstar o seguimento do recurso especial.
+- A ausência ou fragilidade argumentativa do recurso especial, de modo a inviabilizar a exata compreensão da controvérsia, atrai a incidência da Súmula 284 do STF, por analogia.
+- Parecer pelo não conhecimento do agravo.
+É o relatório.
+Com razão o parecerista.
+Confrontando o fundamento da decisão que inadmitiu o recurso especial com as razões do agravo, verifica-se que o agravante não deduziu argumentos aptos a infirmar o decisum combatido quanto à incidência da Súmula 284/STF.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade, o agravante descumpriu o comando legal do arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ, atraindo, ainda, a incidência da Súmula 182/STJ, por analogia.
+Em face do exposto, acolhendo o parecer, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. PARECER ACOLHIDO.
+Agravo não conhecido.
