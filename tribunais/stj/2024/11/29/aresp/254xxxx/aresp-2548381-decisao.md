@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por PORTOS RS - AUTORIDADE PORTUARIA DOS PORTOS DO RIO GRANDE DO SUL S.A., contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ANTAQ. MULTA ADMINISTRATIVA. LEGITIMIDADE PASSIVA DA EMPRESA PORTOS RS. SUCESSÃO DAS OBRIGAÇÕES. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. A Superintendência do Porto de Rio Grande/RS foi extinta pelo mesmo Decreto que aprovou o Estatuto Social da Portos RS, esta firmada como a nova autoridade portuária. A Lei Estadual nº 15.717/2021, que autorizou a criação da Porto RS, dispôs no parágrafo 1º, do art. 1º, que "A Portos RS terá sede e foro na cidade de Rio Grande, tendo prazo de duração indeterminado, sucedendo à Superintendência do Porto de Rio Grande - SUPRG - em todos os seus direitos e obrigações".
+2. Em que pese a alegação de inexistência de previsão de que a Portos RS arcaria com débitos anteriores assumidos pela SUPRG, em especial por dívidas decorrentes de multas administrativas, cumpre referir que o art. 1.146, do Código Civil dispõe que o adquirente do estabelecimento responde pelo pagamento dos débitos anteriores à transferência, desde que regularmente contabilizados.
+3. A sucessão das obrigações da SUPRG pela Portos RS é determinação legal que em nada impõe a substituição da CDA, bastando que para tanto a sucessora assuma a posição processual da sucedida nas execuções fiscais.
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, a parte agravante alega a violação dos arts. 1.022 e 489, § 1º, III e IV do CPC; 2º, § 8º, da Lei 6.830/1980; 1.116 e 1.146 do Código Civil; e 4º do Decreto 2.184/1997. Tal inconformismo não foi admitido, por aplicação das Súmulas 83 e 7 do STJ.
+Sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois não pretende o revolvimento de fatos e provas. Diz que a decisão foi genérica e que não se debruçou sobre os argumentos apresentados.
+Contraminuta apresentada (fls. 343-352).
+É o relatório.
+Passo a decidir.
+O agravo em recurso especial não comporta conhecimento, uma vez que os fundamentos da decisão recorrida não estão adequadamente impugnados, o dá cabimento à aplicação da Súmula 182/STJ.
+Com efeito, as alegações deduzidas pela agravante são insuficientes para refutar a incidência das Súmulas 83 e 7 do STJ.
+No que diz respeito à Súmula 83/STJ, em casos análogos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+Nesse sentido:
+ADMINISTRATIVO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. SERVIDOR PÚBLICO. CUMULAÇÃO DE CARGOS. DECISÃO DE INADMISSIBILIDADE.
+FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA. 1. O Tribunal de origem inadmitiu o Recurso Especial, ante a incidência da Súmula 7/STJ e 83/STJ.
+2. Nas razões do Agravo, a parte agravante deixou de impugnar a decisão recorrida no que se refere à incidência da Súmula 83/STJ. O STJ entende que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro Marco Aurélio Belizze, Terceira Turma, julgado em 18/10/2016, DJe 28/10/2016).
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo em Recurso Especial que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Incumbia à agravante demonstrar, no Agravo, que a orientação jurisprudencial não foi pacificada no mesmo sentido do acórdão recorrido, ou então comprovar que o precedente indicado, por constituir situação diversa, não teria aplicação ao caso dos autos.
+5. "É inviavel o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Inteligência da Súmula 182 do STJ.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.119.082/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2017, DJe de 19/12/2017).
+Outrossim, "inadmitido o recurso especial com base na Súmula 7/STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão" (AgInt no AREsp n. 1.991.801/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 17/3/2023).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. REESTRUTURAÇÃO DA CARREIRA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRECLUSÃO QUANTO À INCIDÊNCIA DA SÚMULA 7/STJ. PRESCRIÇÃO. AÇÃO AJUIZADA APÓS 4/9/2006. PARCELAS DE TRATO SUCESSIVO. SÚMULA 85/STJ. PRECEDENTES DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa aos dispositivos de lei invocados.
+2. Não houve impugnação quanto à incidência da Súmula 7/STJ. A "ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+3. O Superior Tribunal de Justiça, no julgamento do REsp 990.284/RS, na forma do art. 543-C do CPC/1973, firmou a orientação de que a edição da MP 1.704/1998 implicou renúncia da prescrição do reajuste de 28,86%. Assim, para as ações ajuizadas até 30/6/2003, retroagem os efeitos financeiros a janeiro de 1993; para as outras, aplica-se a regra da Súmula 85/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.167.183/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023).
+Isso posto, com fundamento nos arts. 34, XVIII, a, e 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Sem honorários advocatícios recursais porque o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, sem fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
