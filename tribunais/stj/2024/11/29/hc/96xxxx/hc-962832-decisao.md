@@ -1,0 +1,9 @@
+DECISÃO
+ANDRE LUIZ SCHARF alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo Interno na Apelação Criminal n. 0002956-26.2015.8.24.0064, em que foi mantida a decisão que "negou seguimento ao recurso extraordinário por si interposto" (fl. 16).
+Informa a defesa que " a  sentença, proferida em 27/02/2017, condenou o paciente nos termos da denúncia a 7 anos, 5 meses e 25 dias de reclusão em regime inicial semiaberto, e ao pagamento de 25 dias de multa, com valor unitário fixado em 1/30 do salário-mínimo vigente à data dos fatos.  ..  Não sendo suficiente a pena imposta ao paciente, ao recorrer da sentença, a Egrégia 4ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina decidiu por acrescentar condenação ao paciente, agora determinando a perda do cargo de policial militar, de forma totalmente genérica e abstrata" (fl. 4).
+De plano, verifico que a inicial do mandamus não veio acompanhada de cópias tanto da sentença condenatória quanto do acórdão referente ao julgamento da apelação, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que seria vítima o paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
