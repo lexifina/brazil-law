@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de CATHERINE VICTORIA DA SILVA - condenada como incursa no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1514189-26.2022.8.26.0037), não comporta acolhimento.
+Com efeito, busca a impetração o redimensionamento da pena imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Araraquara/SP, ao argumento de que não foi demonstrado de que forma a paciente se aproveitou da prática do crime nas imediações de estabelecimento hospitalar para o êxito da empreitada criminosa.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, quando a infração tiver sido cometida nas dependências ou imediações de estabelecimento hospitalar, dentre outros locais expressamente elencados no art. 40, III, da Lei n. 11.343/2006, resulta adequada a aplicação da causa especial de aumento de pena, independentemente da comprovação da efetiva mercancia aos frequentadores dessas localidades (HC n. 510.588/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/12/2019; e AgRg no HC n. 899.192/SP, Ministro MESSOD AZULAY NETO, Quinta Turma, DJe 20/6/2024).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. MAJORANTE DA PRÁTICA DO CRIME NAS IMEDIAÇÕES DE DETERMINADOS LUGARES (ART. 40, III, DA LEI N. 11.343/2006). COMPROVAÇÃO DA MERCANCIA AOS FREQUENTADORES DO LOCAL. DESNECESSIDAD E. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
