@@ -1,0 +1,51 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por FLAVIANO SOUTO e OUTROS contra acórdão prolatado, por unanimidade, pela 4ª Turma do Tribunal Regional Federal da Quarta Região no julgamento de apelação, assim ementado (fls. 905e):
+SEGURO HABITACIONAL. SH/SFH. INDENIZAÇÃO. INTERESSE DA CEF. COMPETÊNCIA. A Lei n. 12.409/2011 atribuiu ao Fundo de Compensação das Variações Salariais, gerido pela Caixa Econômica Federal, os direitos e obrigações do Seguro Habitacional do Sistema Financeiro da Habitação - SH/SFH. Reconhecido o interesse da Caixa na demanda e a competência da Justiça Federal para processar e julgar o feito.
+Opostos embargos de declaração, foram rejeitados (fls. 273/277e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta violação aos arts. 50 parágrafo único e 87, do Código de Processo Civil.
+Alegam que a Caixa Econômica Federal não demonstrou seu interesse jurídico na ação, bem como, reconhecer a competência da Justiça Estadual para o julgamento da demanda.
+Sustentam a exclusão da multa imposta em sede de embargos de declaração.
+Com contrarrazões (fls. 364/368e), foi determinado o sobrestamento do recurso especial até julgamento do Conflito de Competência n. 140.456/RS (fls. 495/496e).
+Com o julgamento do incidente pela Corte Especial deste Tribunal Superior, foi determinado a devolução do recurso para o Tribunal de origem, quanto ao Tema n. 1.011/STF, para que se proceda o juízo de conformação, nos termos dos arts. 1.039 e 1.040 do CPC (fls. 587/589e).
+Com o julgamento do Tema n. 1.011 do STF, o Tribunal de origem manteve o acórdão recorrido, porquanto em consonância com o entendimento adotado no julgamento do RE nº 827.996/PR - Tema STF nº 1.011 da Repercussão Geral, no qual o Pretório Excelso definiu a competência da Justiça Federal para julgamento das ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação diante do interesse da Caixa Econômica Federal na condição de administradora do FCVS (fls. 816/818e).
+Após, o Tribunal de origem negou seguimento ao Recurso Especial quanto à tese firmada em precedente qualificado e admitiu o recurso nas teses remanescentes (fls. 816/818e).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial (fls. 854/858e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+De início, verifico o Tribunal de origem negou seguimento ao Recurso Especial, com base no art. 1.030, I, b, CPC, em razão do Recurso Extraordinário n. 827.996/PR (Tema 1011 do STF) (fls. 816/818e), portanto, sem a interposição do Agravo Interno perante o Tribunal de origem, a matéria encontra-se preclusa.
+De outra parte, destaco não ser possível conhecer do recurso especial.
+O Tribunal de origem rejeitou os embargos de declaração opostos na origem, sem a imposição de multa (fls. 274/275e):
+Anoto que o acórdão não está obrigado a contemplar todos os argumentos articulados no recurso ou fazer menção explícita a todo e qualquer dispositivo legal ou constitucional eventualmente aplicável ao caso em julgamento, mas apenas aqueles que têm relevância para o desate da controvérsia. Portanto, não está o julgador compelido a esmiuçar todos os pontos aventados pelos demandantes, se seus fundamentos encerram linha de raciocínio, capaz de demonstrar sua posição jurídico-doutrinária. Sob esse enfoque, muito embora não tenha havido pronunciamento expresso acerca dos dispositivos citados pelas partes, há fundamentos suficientes no voto para a elucidação da controvérsia, razão pela qual não há omissão ou contradição a serem supridas. Quanto ao prequestionamento de outras disposições legais, anoto que o direito sempre apresenta vários pontos de vista, e não se pode pretender que as partes se convençam dos argumentos trazidos pelo adversário ou pelo julgador. No entanto, a tarefa do Juiz é dizer, de forma fundamentada, qual legislação incide no caso concreto. Não há que se pretender a "jurisdição ao avesso", pois não é tarefa do Juiz dizer a legislação que não se aplica ao caso, pena, inclusive, de se desfiar um rosário interminável de diplomas. Declinada a legislação que se entendeu aplicável, é essa legislação que terá sido contrariada, caso seja aplicada em situação fática que não se lhe subsume. Reafirmo essa mecânica para afirmar que as disposições que conduzem ao julgamento realizado são as indicadas no voto condutor. Assim, as disposições que se pretende prequestionar não incidem, no caso, para os fins de modificação do julgado. Verifica-se, também que o intuito desvelado persegue a intenção de conferir caráter infringente ao recurso ora interposto, não devendo ser aceito. Sobre o assunto, assim decide este Sodalício: (..) Ante o exposto, voto por negar provimento aos embargos de declaração.
+Portanto, verifica-se não haver interesse recursal quanto à pretensão recursal - afastar a multa por embargos protelatórios -, sendo evidente a ausência de interesse de recorrer, por falta de utilidade do provimento jurisdicional.
+Nesse contexto:
+PROCESSUAL CIVIL. AGRAVO INTERNO. SUCUMBÊNCIA. INEXISTÊNCIA. INTERESSE RECURSAL. AUSÊNCIA.
+1. Segundo a jurisprudência do STJ, não havendo sucumbência da parte recorrente, verifica-se falta de interesse recursal (AgInt no REsp n. 1.853.371/DF, rel. Ministro MANOEL ERHARDT, DESEMBARGADOR CONVOCADO DO TRF5, Primeira Turma, DJe de 24/11/2022).
+2. Hipótese em que a pretensão da parte agravante foi acolhida quando do julgamento monocrático dos embargos de declaração, não havendo sucumbência em relação ao ponto do seu inconformismo, devendo ser reconhecida a ausência de interesse recursal.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 2.265.644/MS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/6/2023, DJe de 16/6/2023.)
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE RELATOR RECONSIDERANDO ANTERIOR DECISUM. INEXISTÊNCIA DE PREJUÍZO PROCESSUAL. INTERESSE RECURSAL. AUSÊNCIA. DECISÃO IRRECORRÍVEL. AGRAVO INTERNO. NÃO CABIMENTO.
+1. A decisão ora agravada se limitou a exercer juízo de retratação quanto ao não conhecimento do agravo em recurso especial para dar provimento ao agravo, para melhor exame da matéria.
+2. A retratação operada pelo decisum, além de ter respaldo na norma de regência, não ocasionou qualquer prejuízo para a parte agravante, o que revela, nitidamente a falta de interesse recursal para se insurgir contra o que foi decidido.
+3. Nos termos do art. 258, § 2º, do RISTJ, não cabe "agravo regimental da decisão do relator que der provimento a agravo de instrumento, para determinar a subida de recurso não admitido". A disposição se aplica, por analogia, aos casos em que determinada a conversão de agravo em recurso especial.
+4. A jurisprudência do STJ apenas admite que a regra seja mitigada quando restar comprovada a existência de vícios relativos à admissibilidade do próprio agravo, hipótese não configurada no caso dos autos.
+5. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.190.540/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+Por outro lado, quanto à alegação da exclusão da multa imposta em sede de embargos de declaração, observo não haver firme indicação, pelos Recorrentes, de qual seria o dispositivo de lei federal violado no acórdão recorrido, atraindo a incidência, por analogia, do óbice contido na Súmula n. 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. DISPOSITIVO DE LEI VIOLADO. INDICAÇÃO. SÚMULA 284. NÃO INCIDÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A Súmula 284 do STF é aplicada quando houver deficiência na fundamentação que comprometa a análise do julgado, como, por exemplo, quando a parte não indica ou faz mera citação ao dispositivo legal sem qualquer demonstração.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.906.293/RS, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12.04.2021, DJe de 05.05.2021 - destaque meu).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. CUMULAÇÃO DE PENSÃO POR MORTE E AUXÍLIO RECLUSÃO. IMPOSSIBILIDADE. TEMA N. 896/STJ. INAPLICABILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. FUNDAMENTAÇÃO SUFICIENTE DO TRIBUNAL DE ORIGEM. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+III - Ademais, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF.
+ ..
+VI - Agravo interno improvido.
+(AgInt no REsp n. 2.075.044/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04.12.2023, DJe de 06.12.2023 - destaque meu).
+Sem honorários recursais, nos termos do art. 85, § 11, do Código de Processo Civil.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
