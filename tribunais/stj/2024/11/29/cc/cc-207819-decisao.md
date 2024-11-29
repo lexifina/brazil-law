@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DA VARA DO TRABALHO DE BACABAL (MA) e o JUÍZO DE DIREITO DA 2ª VARA DE VITORINO FREIRE (MA), para definir a competência para processamento e julgamento de ação de exigir contas ajuizada por ERLI PEREIRA RIBEIRO ALVES em desfavor de VIVIANE SANTOS RODRIGUES, objetivando a prestação de contas dos atos de administração/gestão realizados pela parte ré enquanto administradora do Colégio Antonio Dino.
+O JUÍZO DE DIREITO DA 2ª VARA DE VITORINO FREIRE (MA), no qual a ação foi proposta, declinou de sua competência ao fundamento de que "a relação entre as partes é tipicamente empregatícia" (fl. 15) e determinou a remessa dos autos à Justiça do Trabalho, onde foram redistribuídos ao JUÍZO DA VARA DO TRABALHO DE BACABAL (MA), que suscitou o presente conflito (fls. 80-81).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito negativo de competência e, no mérito, pela competência do Juízo de Direito da 2ª Vara de Vitorino Freire (MA), o suscitado, para processar e julgar a demanda (fls. 89-91).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve Juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+A controvérsia cinge-se a definir qual o juízo competente para processar e julgar ação de prestação de contas dos atos de administração/gestão realizados pela parte ré na condição de administradora de sociedade comercial.
+A competência ratione materiae, via de regra, é questão anterior a qualquer outro juízo sobre outras espécies de competência e, sendo determinada em função da natureza jurídica da pretensão deduzida, decorre diretamente do pedido e da causa de pedir deduzidos em juízo.
+No caso em análise, verifica-se que a causa de pedir apresentada na petição inicial não envolve relação trabalhista. Assim, evidenciado está que a requerente busca tão somente a exibição de relatório contábil do período em que a administração da empresa de sua propriedade esteve sob a responsabilidade da parte ré.
+Tal situação, ao contrário do entendimento expresso pelo juiz estadual, foge de qualquer discussão acerca do vínculo empregatício e evidencia a natureza eminentemente civil da matéria, o que atrai a competência da Justiça comum para o processamento e julgamento da demanda.
+Nesse sentido, o seguinte precedente:
+CONFLITO NEGATIVO DE COMPETÊNCIA - AÇÃO DE PRESTAÇÃO DE CONTAS AJUIZADA POR SOCIEDADE EMPRESÁRIA EM FACE DE EX-GERENTE (ADMINISTRADORA), A QUAL FORA EMPREGADA POR UM CURTO PERÍODO DE TEMPO - RELAÇÃO JURÍDICO-LITIGIOSA DE NATUREZA EMINENTEMENTE CIVIL - COMPETÊNCIA DA JUSTIÇA ESTADUAL (JUÍZO SUSCITADO).
+Hipótese: conflito negativo de competência suscitado pelo Juízo da 4ª Vara do Trabalho de Santos, nos autos de ação de prestação de contas proposta por sociedade empresária em face de ex-gerente (administradora).
+1. A competência material é determinada pela natureza da lide, a qual, por sua vez, define-se em função do pedido e da causa de pedir.
+2. Ainda que alteração procedida no artigo 114 da Constituição Federal pela EC 45/2000 tenha ensejado uma ampliação da competência da Justiça Trabalhista, faz-se necessário analisar, casuisticamente, a real natureza da relação jurídico-litigiosa, afastando da apreciação da justiça especializada aquelas lides que não se relacionam diretamente com o vínculo de trabalho, mas que, diversamente, possuem feições eminentemente de direito civil.
+3. No caso em questão, a ação de prestação de contas é referente a atos praticados pela ré na condição de gerente (administradora) da empresa autora. Não há discussão quanto à relação de emprego em si, mas a atos específicos de administração praticados pela ré, de modo a ensejar o reconhecimento da competência da justiça estadual.
+4. Conflito de competência conhecido, a fim de declarar a competência da Justiça Estadual. (CC n. 132.510/SP, relator Ministro Raul Araújo, relator para o acórdão Ministro Marco Buzzi, Segunda Seção, julgado em 11/2/2015, DJe de 10/3/2015.)
+Confiram-se ainda as seguintes decisões monocráticas: CC n. 146.040/SP, relator Ministro Marco Aurélio Bellizze, DJe de 18/10/2017; CC n. 154.199/RS, relator Ministro Luis Felipe Salomão, DJe de 5/10/2017 .
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara de Vitorino Freire (MA), o suscitado.
+Comunique-se aos Juízos envolvidos o teor desta decisão.
+Publique-se. Intimem-se.
+EMENTA
