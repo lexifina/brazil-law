@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo, interposto por FJM ADMINISTRACAO E PARTICIPACOES LTDA E URBANIZE EMPREENDIMENTOS IMOBILIARIOS LTDA, em face de decisão que não admitiu recurso especial.
+O apelo nobre, a seu turno, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, foi manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PROMESSA DE COMPRA E VENDA DE IMÓVEL RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES PAGOS SENTENÇA DE PARCIAL PROCEDÊNCIA O PERCENTUAL DE RETENÇÃO DEVE CORRESPONDER A 25% DO VALOR PAGO, À LUZ DAS CIRCUNSTÂNCIAS DO CASO RECURSO DA AUTORA IMPROVIDO. I- Pertinente a rescisão de contrato de venda e compra de imóvel objeto de incorporação imobiliária ante a confessada incapacidade financeira da adquirente; II- Ante a edição da Lei nº 13.786/2018, aliada ao entendimento jurisprudencial sedimentado por esta corte, o percentual de retenção deve corresponder a 25% sobre o valor atualizado das prestações pagas, o qual não se mostra desproporcional à luz das circunstâncias do caso; TAXA DE FRUIÇÃO IMPOSSIBILIDADE DE COBRANÇA TERRENO NÃO EDIFICADO RECURSO DAS RÉS IMPROVIDO. Não há que se falar em desconto de taxa de fruição, vez que se trata de compra de um lote, um terreno sem edificação, sem comprovação de que estava em condições de receber benfeitorias, não podendo ser calculada taxa de ocupação no caso em questão. PROMESSA DE COMPRA E VENDA DE IMÓVEL RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES PAGOS DEVOLUÇÃO DE VALORES DE FORMA PARCELADA APLICAÇÃO DA LEI DO DISTRATO RECURSO DAS RÉS PROVIDO NESTE ASPECTO. I - A Lei do Distrato Imobiliário (Lei nº 13.786/2018) entrou em vigor em 27/12/2018, posteriormente à edição da Súmula 543 do Superior Tribunal de Justiça e da a Súmula 2 do TJSP, devendo ser aplicada ao caso, já que o contrato entre as partes foi realizado no ano de 2020; II De acordo com o art. 32-A, §1º e inciso II, introduzido pela Lei 13.786/18 à Lei nº 6.766/79, a restituição do valor indicado na sentença deve ocorrer em até 12 parcelas mensais, no período de 12 meses contados da rescisão. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DISTRIBUIÇÃO EQUITATIVA EM PRIMEIRO GRAU PARÂMETRO QUE DEVE SER PRESERVADO INCIDÊNCIA DO ART. 86 DO CPC RECURSOS IMPROVIDOS. As verbas de sucumbência, na forma do artigo 86 do CPC, devem ser rateadas proporcionalmente entre as partes, sendo que no caso restou constatado o decaimento parcial das partes na mesma proporção.
+Em suas razões de recurso especial, a parte recorrente apontou violação ao artigo 884 do Código Civil, sustentando, em síntese, ser devido o pagamento de taxa de fruição.
+Inadmitido o apelo na origem, foi manejado o agravo de fls. 359/370, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Com efeito, "Consoante entendimento desta Corte, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. Precedente." (AgInt no REsp 1896690/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. COMPRA E VENDA DE TERRENO VAZIO EM LOTEAMENTO. DESFAZIMENTO CONTRATUAL DIANTE DA INADIMPLÊNCIA DO ADQUIRENTE. TAXA DE FRUIÇÃO/OCUPAÇÃO. AUSÊNCIA DE PROVEITO COM A CESSÃO DE SEU USO.
+DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Terceira Turma desta Corte firmou entendimento no sentido de que, na hipótese de desfazimento de contrato de promessa de compra e venda de terreno não edificado por interesse exclusivo dos adquirentes, é indevida a condenação dos consumidores ao pagamento de taxa de ocupação/fruição.
+3. Agravo interno não provido.
+(AgInt no REsp 1941068/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. TERRENO SEM EDIFICAÇÃO. VALORES PAGOS PELOS ADQUIRENTES. TERRENO PARA EDIFICAÇÃO. TAXA DE OCUPAÇÃO/FRUIÇÃO. HIPÓTESE CONCRETA. AUSÊNCIA. REEXAME FÁTICO PROBATÓRIO. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DECISÃO MANTIDA.
+1. Ação de rescisão contratual com pedido de devolução de quantias pagas.
+2. O desfazimento do negócio jurídico de compra e venda de imóvel motiva o retorno das partes ao estado anterior à celebração do contrato, podendo sujeitar o promissário comprador ao pagamento da taxa de ocupação pelo tempo que ocupou o imóvel.
+3. A taxa de ocupação evita que o comprador se beneficie da situação do rompimento contratual em prejuízo do vendedor, se relacionando, pois, à vedação ao enriquecimento sem causa. Precedentes.
+4. São requisitos do nascimento da obrigação em decorrência da vedação ao enriquecimento sem causa: a) enriquecimento de alguém; b) empobrecimento correspondente de outrem; c) relação de causalidade entre ambos. Precedente da Corte Especial.
+5. No contrato de compra e venda de imóveis residenciais, o enriquecimento sem causa do comprador é identificado pela utilização do bem para sua moradia, a qual deveria ser objeto de contraprestação mediante o pagamento de aluguéis ao vendedor pelo tempo de permanência.
+6. Na presente hipótese, o terreno não está edificado, de modo que não existe possibilidade segura e concreta, diante dos fatores anteriores ao momento da contratação e sem qualquer outra nova interferência causal, de que a recorrente auferiria proveito com a cessão de seu uso e posse a terceiros, se não o tivesse concedido à recorrida, estando, pois, ausente o requisito de seu empobrecimento; tampouco seria possível o enriquecimento da compradora, que não pode residir no terreno não edificado.
+7. O reexame de fatos e provas em recurso especial é inadmissível.
+8. A ausência de juntada do inteiro teor dos julgados apresentados a cotejo ou de indicação do repositório oficial de que extraídos os arestos desatende o disposto no art. 266, § 1º, c/c art. 255, §§ 1º e 2º, do RISTJ.
+9. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+10. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+11. Agravo interno em Recurso especial não provido.
+(AgInt no REsp 1943713/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021)
+O acórdão recorrido, portanto, encontra-se em consonância com a jurisprudência desta Casa, o que atrai a incidência da Súmula 83 do STJ.
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
