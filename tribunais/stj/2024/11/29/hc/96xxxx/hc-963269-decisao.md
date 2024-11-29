@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDGAR MARCELINO, contra decisão monocrática proferida por Des. do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferida ainda no ano de 2022 (HC n. 0034293-30.2022.8.26.0000).
+Consta dos autos que "o Juízo a quo homologou cálculo de pena aplicando o lapso temporal de 3/5 (60%) para a progressão da pena por crime de natureza hedionda, considerando-o reincidente, e não de 2/5 (40%), consoante previsto em lei" (fl. 4).
+A impetração da defesa não foi conhecida de plano, em decisão de 17/10/2022 (fls. 39-41), em razão da mera reiteração de pedidos.
+No presente writ, a defesa sustenta "que, embora reincidente, não o é em crime específico, deixando de se enquadrar nas situações previstas em Lei, mostrando-se cabível o lapso temporal de 2/5 (40%) do cumprimento da pena para progressão de regime, conforme Tema Repetitivo nº 1084 do C. STJ e a nova redação conferida ao artigo 112 da LEP pela Lei 13.964/19".
+Requer, inclusive liminarmente, "A concessão da ordem do presente Habeas Corpus, ainda que de ofício" (fl. 7).
+É o relatório. DECIDO.
+A controvérsia consiste em saber se a defesa poderia debater neste STJ uma decisão monocrática que reconheceu a mera reiteração de pedidos em matéria de execução penal.
+De acordo com a jurisprudência deste STJ, a interposição de dois recursos (ou ações mandamentais) em face do mesmo julgado, é circunstância que impede o conhecimento daquele protocolizado por último (ou menos apropriado), em razão da preclusão consumativa e do princípio da unirrecorribilidade das decisões.
+A propósito:
+A utilização simultânea do habeas corpus e do recurso apropriado revela manifesta subversão do sistema recursal e a violação ao princípio da unirrecorribilidade das decisões judiciais, o que, igualmente, impede o conhecimento do presente habeas corpus. Com efeito, "a jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (AgRg no HC n. 823.337/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023) (AgRg no HC n. 864.456/DF, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2023).
+A jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 831.891/PB, Sexta Turma, Rel. Min. Teodoro Silva Santos, DJe de 15/12/2023).
+Assim, a impetração de origem em concomitância (ou sequência) com recurso evidencia o propósito de mais de uma apreciação pelo Tribunal de Justiça - o que indica o não cabimento também da insurgência ora em exame.
+Diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a reiteração de pedidos, o seguinte julgado deste STJ:
+No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente recurso ordinário em habeas corpus não passou de mera reiteração de pedidos no HC n. 719.739/GO, inclusive, impetrado com os mesmos argumentos em geral e em face do mesmo v. acórdão de origem (HC n. 5449889-09.2021.8.09.0000). Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017) (AgRg no RHC n. 161.259/GO, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+Corroborando: AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no AREsp n. 2.355.597/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023.
+Trata-se de hipótese, inclusive, que ocorre até mesmo quando a repetição de pedidos é realizada contra acórdãos diferentes ou em tipos de recursos e ações diversos (AgRg no RHC n. 156.181/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/2/2022; e EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.249.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intimem-se.
+ EMENTA
