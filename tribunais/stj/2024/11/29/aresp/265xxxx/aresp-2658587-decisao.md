@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  LUCIMAR LIMA DE AGUIAR LEDO  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a  parte  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a" e "c" ,  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DA BAHIA  cuja  ementa  guarda  os  seguintes  termos  (fls.  536-537):
+PROCESSUAL CIVIL. DECISÃO QUE NEGO SEGUIMENTO A RECURSO ESPECIAL. TEMAS STJ 24 A 27. REVISÃO CONTRATUAL. CONTRATOS BANCÁRIOS. CLÁUSULAS ABUSIVAS. JUROS REMUNERATÓRIOS FIXADOS EM PATAMAR QUE COLOCA O CONSUMIDOR EM DESVANTAGEM EXAGERADA. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. TAXA MÉDIA DE MERCADO. AUSÊNCIA DE CONTRARIEDADE À ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. AGRAVO DESPROVIDO.
+1. O presente agravo deve se restringir a averiguar existência de similitude fática entre o assunto tratado nos autos e o paradigma aplicado.
+2. O Superior Tribunal de Justiça, nos REsp 1061530/RS (temas 24, 25, 26 e 27), submetidos à sistemática dos Recursos Repetitivos, pacificou o entendimento de que é admissível a revisão da cláusula contratual que põe o consumidor em desvantagem exagerada quando cabalmente demonstrada no caso concreto.
+3. As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura. (Tema STJ 24)
+4. A estipulação de juros remuneratórios superiors a 12% ao ano, por sis ó, não indica abusividade. (Tema STJ 25)
+5. São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do at. 591 cc o art. 406, do CC/02. (Tema STJ 26)
+6. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. (Tema STJ 27)
+7. Desta forma, constatada a conformidade entre a decisão monocrática recorrida e os entendimentos firmados pelo Superior Tribunal de Justiça, imperiosa se faz a manutenção da decisão agravada.
+Embargos  de  declaração  rejeitados  (fls.  556-570).
+No recurso especial, alega a recorrente, preliminarmente, ofensa aos arts. 489 e 1.022, inciso II, do Código de Processo Civil, ao mencionar que o Tribunal de origem não enfrentou a alegação de ofensa aos artigos de lei apontados por violados.
+Sustenta, ainda, afronta aos arts. 4º, I, e 42, parágrafo único, do Código de Defesa do Consumidor, e 317, 478 e 876 do Código Civil, ao se insurgir contra o entendimento do Tribunal a quo de que inexiste abusividade de juros em questão e de que a capitalização mensal de juros é admitida quando expressamente pactuada.
+Defende a incidência do CDC, que permite, com base nos postulados da função social do contrato, dos princípios da boa-fé objetiva e da equidade, a revisão dos contratos de adesão a requerimento da parte lesada quanto à existência de cláusulas abusivas e nulas de pleno direito.
+Suscita divergência jurisprudencial.
+Contrarrazões  ao  recurso  especial  (fls. 487-488).
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  525-537),  o  que  ensejou  a  interposição  do  presente  agravo.
+Sem  contraminuta  ao  agravo  (fls.  574-575)  .
+É,  no  essencial,  o  relatório.
+Atendidos  os  pressupostos  de  admissibilidade  do  agravo,  passo  ao  exame  do  recurso  especial.
+Não  merece  prosperar  o  recurso.
+Quanto à alegada ofensa aos arts. 489 e 1.022, II, do CPC, o recurso não merece ser conhecido, porquanto a parte não especificou a suposta omissão do acórdão, mas apenas alegou genericamente a negativa de prestação. Assim, é inviável o conhecimento do recurso especial nesse ponto, ante o óbice da Súmula n. 284/STF.
+Outrossim,  consigne-se  inviável  a  apreciação  das  demais  alegações  da  recorrente,  considerando  que  a  Corte  de  origem,  ao  entender  pela inexistência de abusividade dos juros remuneratórios a ensejar limitação da taxa,  firmou  o  entendimento  com  base  no  conjunto  probatório  dos  autos  e  no  contrato  firmado  entre  as  partes.  Confira-se  o  seguinte  excerto  do  acórdão  recorrido  (fls.  531-530):
+O Superior Tribunal de Justiça, no REsp 1061530/RS (temas 24 a 27), submetidos à sistemática dos Recursos Repetitivos, pacificou o entendimento de que é admissível a revisão da cláusula contratual que põe o consumidor em desvantagem exagerada, quando cabalmente demonstrada no caso concreto. Vejamos as teses:
+(..)
+No presente caso, observa-se da leitura do acórdão proferido pela Primeira Câmara Cível, inserto no id. 22738621, dos autos principais, que o órgão julgador entendeu que a simples contratação de juros em taxa superior à 12% ao ano não são considerados abusivos se estão dentro das taxas medias do Mercado.
+Senão veja-se:
+"Nesse sentido, há de se destacar que o Superior Tribunal de Justiça pacificou o entendimento segundo o qual os juros remuneratórios cobrados pelas instituições financeiras e bancárias somente poderão ser limitados se superarem a taxa média praticada pelo mercado  exceção feita às cédulas e notas de crédito rural, comercial e industrial."
+Desta forma, constatada a conformidade entre o acórdão recorrido e o entendimento firmado pelo Superior Tribunal de Justiça em sede de Recursos Especiais Repetitivos (Temas 24, 25, 26 e 27, do STJ), imperiosa se faz a manutenção da decisão agravada.
+Assim,  rever  tal  entendimento,  a  eventualmente  ensejar  novo  juízo  acerca  dos  fatos  e  provas,  conforme  pretendido,  implicaria  o  reexame  do  contexto  fático-probatório  dos  autos  e  de  cláusulas  contratuais.  Sendo  assim,  incide m  no  caso  as  Súmulas  n.  5  e  7  do  STJ.
+A  propósito,  mutatis mutandis, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. COBRANÇA DE TARIFAS DE CADASTRO, DE REGISTRO DE CONTRATO E AVALIAÇÃO DO BEM. ABUSIVIDADE NÃO CARACTERIZADA. ACÓRDÃO ESTADUAL EM TOTAL SINTONIA COM A JURISPRUDÊNCIA DESTE TRIBUNAL SUPERIOR. SÚMULA 83/STJ. DEVOLUÇÃO EM DOBRO INDEVIDA. AUSÊNCIA DE MÁ-FÉ. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência pacífica desta Corte Superior é no sentido de ser possível, de forma excepcional, a revisão da taxa de juros remuneratórios prevista em contratos de mútuo, sobre os quais incide a legislação consumerista, desde que a abusividade fique cabalmente demonstrada, mediante a colocação do consumidor em desvantagem exagerada (art. 51, §1º, do CDC), de acordo com as peculiaridades do julgamento em questão.
+2. A Corte de origem afastou a natureza abusiva dos juros remuneratórios pactuados, considerando que, na espécie, a taxa cobrança não foi significativamente mais elevada do que a de mercado. Rever tal conclusão demandaria reexame de matéria fática, inviável em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+3. Tendo o Tribunal local concluído pela inexistência de abusividade atinente às tarifas de registro e de avaliação do bem, o acolhimento da pretensão recursal também demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra impossível ante a natureza excepcional da via eleita, conforme enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+4. Em relação à repetição em dobro de valores, o julgado estadual está em consonância com a jurisprudência do Superior Tribunal de Justiça, que firmou o entendimento de que a repetição em dobro do indébito pressupõe a existência de pagamento indevido juntamente com a má-fé do credor, o que não ocorreu na espécie.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.496.313/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+Por fim,  quanto  à  alegada  divergência  jurisprudencial,  não  é  possível  o  conhecimento  do  nobre  apelo  interposto  pela  alínea  "c",  na  hipótese  em  que  ele  está  apoiado  em  fatos,  e  não  na  interpretação  da  lei. Assim,  a  necessidade  de  reexame  de  matéria  fática  torna  prejudicado  o  exame  da  divergência  jurisprudencial,  considerando  a  inevitável  ausência  de  similitude  fática  entre  acórdãos.
+A  propósito,  confira-se:
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  ALEGADA  IMPENHORABILIDADE  DO  BEM  DE  FAMÍLIA.  TESE  REJEITADA.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  FUNDAMENTAÇÃO  DEFICIENTE.  INCIDÊNCIA  DAS  SÚMULAS  283  E  284/STF.  REVISÃO  DO  JULGADO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.  MULTA  DO  ART.  1.021.  INVIABILIDADE.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Considerando  que  nem  todos  os  fundamentos  do  acórdão  recorrido  foram  objeto  de  impugnação  específica  nas  razões  do  recurso  especial,  é  imperiosa  a  incidência  do  óbice  da  Súmula  n.  283  do  Supremo  Tribunal  Federal  à  hipótese.
+2.  Não  apontado  o  dispositivo  legal  tido  por  violado,  incide  o  enunciado  n.  284  da  Súmula  do  Supremo  Tribunal  Federal.
+3.  A  alteração  da  orientação  firmada  no  aresto  impugnado  só  seria  possível  mediante  o  revolvimento  do  acervo  fático-probatório  do  respectivo  processo,  providência  vedada  nesta  instância  extraordinária  em  decorrência  do  disposto  na  Súmula  7  do  Superior  Tribunal  de  Justiça.
+4.  Consoante  iterativa  jurisprudência  desta  Corte,  a  incidência  da  Súmula  n.  7/STJ  impede  o  conhecimento  do  recurso  lastreado,  também,  pela  alínea  c  do  permissivo  constitucional,  uma  vez  que  falta  identidade  entre  os  paradigmas  apresentados  e  os  fundamentos  do  acórdão,  tendo  em  vista  a  situação  fática  de  cada  caso.
+5.  Não  incide  a  multa  descrita  no  art.  1.021,  §  4º,  do  CPC/2015  quando  não  comprovada  a  manifesta  inadmissibilidade  ou  improcedência  do  pedido.
+6.  Agravo  interno  desprovido.
+(AgInt  nos  EDcl  no  AREsp  n.  2.335.203/SP,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  16/10/2023,  DJe  de  18/10/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos  termos  do  art.  85,  §  11,  do  CPC,  majoro  os  honorários  fixados  em  desfavor  da  parte  recorrente  para  18%  sobre  o  valor  atualizado  da  causa.
+Publique-se.  Intimem-se.
+EMENTA
+CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  N EGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO. ÔNUS DA PROVA. IMPROCEDÊNCIA. JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO VERIFICADA.  PRETENSÃO  DE  REEXAME  DE  PROVAS  E  DE  CLÁUSULA  CONTRATUAIS.  SÚMULAS N.  5  E  7/STJ.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL  NÃO  CONHECIDO.
