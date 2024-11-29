@@ -1,0 +1,9 @@
+DECISÃO
+PAULO BEZERRA JÚNIOR alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1416799-89.2024.8.12.0000, em que foi mantido o indeferimento da prisão domiciliar.
+Asseriu a defesa, perante a Corte de origem, que "o paciente faria jus à prisão domiciliar, pois tem um filho menor de 12 anos de idade e experimenta problemas de saúde que resultarão em cirurgias, a primeira já agendada para o dia 02/10/2024" (fl. 22).
+Sobre o tema, urge consignar que, " a  despeito da possibilidade em tese de serem deferidas flexibilizações ao regime de cumprimento da prisão domiciliar, não há que se falar em direito subjetivo ao pretendido abrandamento, cuja viabilidade depende das circunstâncias do caso concreto, a serem aferidas de forma prudente pelo juízo" (AgRg no HC n. 864.240/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 12/4/2024, grifei.)
+Conforme oportunamente apontou a Corte de origem, "não é a existência de eventual problema de saúde que autoriza a liberdade do custodiado mediante revogação da prisão preventiva, ou substituição da medida, mas, sim, a doença grave e a incontestável impossibilidade de tratamento enquanto em custódia estatal, o que, no caso, não restou confirmado, inexistindo, ainda, elementos a demonstrar que ao paciente não se estaria conferindo meios para o devido atendimento médico" (fl. 23, sublinhei).
+Assim, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca dos requisitos para concessão da prisão domiciliar, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
