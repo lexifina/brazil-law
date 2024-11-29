@@ -1,0 +1,69 @@
+DECISÃO
+DHONATAS ALVES DOS SANTOS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás proferido na Apelação n. 5462126-82.2022.8.09.0051.
+Nas razões do recurso especial, a defesa apontou a violação dos arts. 59 e 68 do Código Penal, e 315, § 2º, do Código de Processo Penal.
+Aduziu que a fundamentação invocada para a valoração negativa da culpabilidade está inerente ao tipo penal. Considerou que, tendo em vista os critérios mencionados pelo Juízo singular, houve erro no somatório da pena.
+Requereu o redimensionamento da condenação.
+A Corte de origem não admitiu o apelo pelo óbice da Súmula n. 7 do STJ.
+O Ministério Público Federal opinou pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e atacou todos os fundamentos da decisão combatida.
+O recurso é tempestivo e preenche os requisitos constitucionais, legais e regimentais para ser conhecido.
+Submetido a julgamento perante o Tribunal do Júri, o recorrente foi condenado a 19 anos e 3 meses de reclusão, em regime fechado, pela prática dos crimes previstos nos arts. 121, § 2º, IV, c/c o art. 29, do Código Penal.
+Na ocasião, o Juiz de primeiro grau considerou contra o réu a culpabilidade - por entender que "deve ser considerada elevada, considerando a quantidade de golpes que atingiram a vítima (10 golpes) (fl. 887) - e os antecedentes, de modo que a pena-base ficou em 16 anos e 6 meses de reclusão.
+A defesa apelou à Corte estadual, que negou provimento ao recurso. Os assuntos em discussão foram assim tratados no acórdão recorrido (fls. 970-973, destaquei):
+A vetorial da culpabilidade, para fins de individualização da pena, deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito (AgRg no AgRg no AREsp n. 2.322.083/MT, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023) A elevação da pena-base, com parâmetro na negativação da vetorial da culpabilidade, restou suficientemente fundamentada, haja vista a constatação de que o apelante demonstrou crueldade desferindo 10 (dez) facadas na vítima. Nesse sentido:
+ ..
+No mesmo sentido há julgado desta Corte de Justiça:
+ ..
+É certo que a legislação brasileira não prevê um percentual fixo para o aumento da pena-base em razão do reconhecimento das circunstâncias judiciais desfavoráveis, cabendo ao julgador, dentro do seu livre convencimento motivado, sopesar as circunstâncias do caso concreto e quantificar a pena, observados os princípios da proporcionalidade e da razoabilidade. No caso em análise, utilizado o critério de exasperação na fração de 1/8 (um oitavo) do intervalo da pena em abstrato, amplamente validado pela jurisprudência pátria, não vislumbro possibilidade de reparo.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro da discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime e comportamento da vítima.
+Quanto à culpabilidade, não há reparos a se fazer no acórdão. As notícias de que a vítima foi atingida por dez golpes de faca demonstram que a conduta do insurgente extrapolou a reprovabilidade prevista para o tipo penal em comento e, portanto, justificam o incremento da pena-base.
+Vejam-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDO. DOSIMETRIA. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar todas as causas específicas de inadmissão do recurso especial, sob pena de não conhecimento do agravo.
+2. De acordo com a jurisprudência do STJ, a quantidade de perfurações decorrentes de golpes de faca é elemento idôneo para justificar a avaliação desfavorável da vetorial culpabilidade. A agressividade, a atitude violenta e o egoísmo são circunstâncias que podem negativar a personalidade do agente para fins de fixação da reprimenda. A existência de duas filhas menores, órfãs como consequência da ação delitiva, também justifica a elevação da reprimenda.
+3. A pretensão era de fato inviável pelo óbice previsto na Súmula n. 83 do STJ e a defesa não obteve êxito em impugnar de forma objetiva e eficaz esse fundamento. Assim, não há indícios de constrangimento ilegal a justificar eventual concessão de habeas corpus de ofício.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.239.473/PA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 28/6/2023)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. VIOLAÇÃO DO ART. 156 DO CPP. INADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DO ART. 121, § 2º, IV, DO CP. INADMISSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 59 DO CP. IMPROCEDÊNCIA. NEGATIVAÇÃO DA CULPABILIDADE CALCADA EM FUNDAMENTAÇÃO CONCRETA E IDÔNEA (MÚLTIPLOS GOLPES CONTRA A VÍTIMA). PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+(AgRg no AREsp n. 1.901.030/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/8/2023, DJe de 21/8/2023.)
+AGRAVO REGIMENAL EM RECURSO ESPECIAL. PENAL. HOMICÍDIO TENTADO. VIOLAÇÃO DOS ARTS. 33, § 2º, B, E 59, III, DO CP. REGIME INICIAL. PENA DE 8 ANOS DE RECLUSÃO. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS IDONEAMENTE FUNDAMETADAS. ESTABELECIMENTO DE REGIME CARCERÁRIO MAIS GRAVOSO. POSSIBILIDADE. APLICAÇÃO DO ART. 33, § 3º, DO CP.
+1. A violência exacerbada, consubstanciada nos diversos golpes de faca desferidos pelo recorrente na vítima, e as consequências descritas - vítima perdeu a mobilidade em dois dedos, teve a região genital mutilada e passou por diversos procedimentos cirúrgicos - são elementos concretos e denotam culpabilidade do agente e consequências do delito mais reprováveis. Precedentes.
+2. A presença de circunstâncias judiciais desfavoráveis justifica a imposição de regime inicial mais gravoso do que o inicialmente indicado pelo quantum da pena aplicada, nos termos do art. 33, § 3º, do Código Penal e conforme reiterada jurisprudência desta Corte.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.993.277/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. RECURSO QUE DIFICULTOU OU IMPOSSIBILITOU A DEFESA DA VÍTIMA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO PELA CULPABILIDADE (QUANTIDADE DE GOLPES). CIRCUNSTÂNCIA ÍNSITA À ESPÉCIE. FUNDAMENTO INIDÔNEO.
+1. Embora idônea, em tese, para justificar a exasperação da pena-base, uma vez que se trata de homicídio qualificado praticado mediante recurso que dificultou ou tornou impossível a defesa do ofendido, a quantidade de golpes, sopesada para a configuração da qualificadora, é ínsita ou comum à espécie, não tendo valia para embasar o trato negativo da vetorial.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 1.908.208/AL, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Quanto à proporcionalidade da condenação imposta, conforme reiterados julgados, a ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, com pesos determinados a cada uma delas, extraídos de simples cálculo matemático.
+Confira-se:
+ ..
+III - Segundo a jurisprudência desta Corte Superior, a definição do quantum de aumento da pena-base, em razão de circunstância judicial desfavorável, está dentro da discricionariedade juridicamente vinculada e deve observar os princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e prevenção ao crime. Não se admite a adoção de um critério puramente matemático, baseado apenas na quantidade de circunstâncias judiciais desfavoráveis, até porque de acordo com as especificidades de cada delito e também com as condições pessoais do agente, uma dada circunstância judicial desfavorável poderá e deverá possuir maior relevância (valor) do que outra no momento da fixação da pena-base, em obediência aos princípios da individualização da pena e da própria proporcionalidade.  ..
+(HC n. 437.157/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 20/4/2018)
+Ressalto, por oportuno, que a jurisprudência do STJ não impõe ao juízo a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa de circunstâncias judiciais.
+Nessa perspectiva, esta Corte já manifestou o entendimento de que "a exasperação relacionada a cada circunstância judicial poderá, entre outros critérios, ser calculada com base no termo médio entre o mínimo e o máximo da pena cominada em abstrato ao crime, dividido pelo número de circunstâncias judiciais do art. 59 do CP" (AgRg no AREsp n. 785.834/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/8/2017, DJe de 10/8/2017).
+Também, assentou: "a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 para cada circunstância judicial negativa, fração que se firmou em observância aos princípios da razoabilidade e proporcionalidade" (HC n. 408.971/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/8/2018, DJe de 24/8/2018).
+Ainda, assinalou:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FRAÇÃO DE 1/8 ENTRE O INTERVALO DAS PENAS MÍNIMAS E MÁXIMAS. PROPORCIONALIDADE. DISCRICIONARIEDADE VINCULADA. CRITÉRIOS ARITMÉTICOS. INVIABILIDADE. PRECEDENTES. ATENUANTE DA CONFISSÃO. COMPENSAÇÃO INTEGRAL. IMPOSSIBILIDADE. MULTIRREINCIDÊNCIA. AUSÊNCIA DE DESPROPORCIONALIDADE NA FRAÇÃO DE 1/3. AGRAVO DESPROVIDO.
+1. "A jurisprudência deste Tribunal Superior é firme em garantir a prudente discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, em atenção ao sistema da persuasão racional e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade" (AgRg no AREsp n. 1.477.936/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/4/2023, DJe de 5/5/2023.) 2. Na espécie, o aumento de 1/8 para cada circunstância desfavorável, sobre o intervalo da pena em abstrato prevista no preceito secundário do crime de homicídio qualificado (18 anos), o que corresponde a um acréscimo de 2 anos e 3 meses à pena mínima cominada pelo tipo penal, por cada vetor desfavorável, está em consonância com a jurisprudência desta Corte. Precedentes.
+3. Não há ilegalidade na ausência de compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea quando o réu é multirreincidente, como no caso, em que o agravante possuía, quando da sentença, três condenações anteriores transitadas em julgado.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.347.902/TO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/4/2024, DJe de 19/4/2024, grifei.)
+ ..
+3. Na linha do art. 59 do Código Penal, o julgador não está vinculado a rígidos critérios matemáticos para a exasperação da pena-base, porquanto está no âmbito da sua discricionariedade, embora, ao fazê-lo, deva fundamentar a opção de julgamento com elementos concretos da conduta do acusado. Além disso, inexiste imposição na utilização das frações de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. O que se mostra imprescindível é o emprego de motivação adequada e a proporcionalidade na exasperação da pena.
+ ..
+(AgRg no AREsp n. 2.340.777/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023.)
+Como visto, o Tribunal a quo esclareceu que a reprimenda básica foi incrementada em 1/8 sobre o intervalo entre as penas máxima e mínima cominadas abstratamente ao delito de homicídio, por vetor considerado negativo.
+Sob essas premissas, não há ilegalidade no incremento da pena em 2 anos e 3 meses por vetor avaliado em desfavor do réu.
+A propósito:
+ ..
+2. A elevação da pena-base em 2 anos e 3 meses por vetorial sopesada em prejuízo do réu não se revela desproporcional, se consideradas, inclusive, as penas mínima e máxima abstratamente cominadas ao homicídio qualificado, a saber, 12 a 30 anos de reclusão.
+3. Inexiste bis in idem nos casos em que, havendo condenação por homicídio duplamente qualificado, uma adjetivadora é utilizada para qualificar abstratamente o delito e a outra para incrementar a pena na segunda fase da dosimetria.
+4. Agravo regimental não provido.
+(AgRg no HC n. 562.135/CE, Rel. Ministro Rogerio Schietti, 5ª T., DJe 1º/7/2020)
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
