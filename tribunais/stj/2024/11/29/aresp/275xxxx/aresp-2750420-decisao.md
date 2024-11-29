@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDUARDO COLLET E SILVA (EDUARDO) pretendendo a reforma da decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, Relator JOSÉ RUBENS QUEIROZ GOMES, assim ementado:
+APELAÇÃO. Pedido de levantamento de interdição. Sentença de procedência.
+Inconformismo do curador. Preliminar de cerceamento de defesa afastada. Decretada por sentença a interdição do apelado no ano de 2003, transitada em julgado em 2005, que, à época, apresentava "anomalia psíquica, decorrente do uso de bebida alcoolica". Curatelado que constituiu advogado e se manifestou nos autos alegando que não possui mais dependência ao álcool, de modo que cessou a circunstância de incapacidade civil que motivou o processo de interdição.
+Hipótese em que causa espécie que o curador, irmão do curatelado, pretenda a manutenção da interdição, mesmo com laudo pericial realizado pelo IMESC atestando ser o apelado capaz para todos os atos da vida civil. Indicativos de desnecessidade da curatela, mais de 20 anos depois de decretada, salientando que o mesmo órgão que verificou a incapacidade do apelada há anos, neste momento conclui que ele é plenamente capaz, nos termos do parecer da d. Procuradoria de Justiça. Para que sejam afastadas as conclusões do laudo técnico é necessário que se apresentem outros elementos seguros e coesos a justificarem sua descaracterização, por se tratar de pronunciamento de profissional imparcial, o que não ocorreu. Sentença mantida. Recurso a que se nega provimento. (e-STJ, fl. 2.158)
+Os embargos de declaração opostos por EDUARDO foram rejeitados (e-STJ, fls. 2.178/2.181).
+Irresignado, EDUARDO interpôs recurso especial, com base no art. 105, III, alíneas a e c, da CF, apontando violação dos arts. 369, 370, parágrafo único, 465, §1º, 489, §1º, IV e VI, e 1.022, parágrafo único, II, do CPC, bem como dissídio jurisprudencial, afirmando que (1) houve omissão e negativa de prestação jurisdicional acerca do alegado cerceamento de defesa e quanto à incidência do art. 465, §1º, do CPC (2) houve cerceamento de defesa porque seus pedidos de realização de perícias psicológica e social foram ignorados e não lhe foi concedido prazo de 15 dias para indicação de assistente técnico e apresentação de quesitos (e-STJ, fl. 2.191).
+O recurso não foi admitido pelo Tribunal estadual.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) omissão e negativa de prestação jurisdicional
+Verifica-se que devidamente esclarecidas as razões de decidir pelo Tribunal de origem, não se configurando o alegado vício.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. PRESCRIÇÃO. INTERRUPÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, §1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+5. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.842.775/RS, de minha relatoria, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022)
+(2) cerceamento de defesa
+No ponto, entendo que com razão a parte recorrente.
+Entendo que o acórdão recorrido se contradiz quando, ao mesmo tempo, afirma que Não se vislumbra qualquer irregularidade processual capaz de macular o processo, afastando-se, assim, a alegação do Apelante acerca da necessidade realização de nova prova pericial, agora por ele acompanhada (e-STJ, fl. 2.160) e condiciona o pretendido afastamento das conclusões à demonstração de provas, conforme o que se verifica do seguinte trecho:
+Para que sejam afastadas as conclusões do documento impugnado é necessário que se demonstre com base em pareceres e argumentos técnicos a necessidade de perícia complementar ou nova perícia e se apresentem outros elementos seguros e coesos a justificarem a sua descaracterização, por se tratar de pronunciamento de profissional especializado e imparcial, o que não ocorreu. (e-STJ, fl. 2.162)
+A jurisprudência desta Corte entende configurar-se o cerceamento de defesa quando o juiz indefere a realização de prova requerida pela parte para comprovar suas alegações e julga antecipadamente a lide contrariamente a essa parte, fundamentando-se na ausência de provas (AgRg no REsp 1.408.962/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 26/4/2016, DJe 29/4/2016). Na mesma direção:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E DIREITO CIVIL. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER, INDENIZAÇÃO POR DANOS MORAIS E LUCROS CESSANTES. CONSTRUÇÃO DE USINA HIDRELÉTRICA. OFENSA AOS ARTS. 489, 926 E 1.022 NÃO EVIDENCIADA. ACÓRDÃO ESTADUAL FUNDAMENTADO. JULGAMENTO ANTECIPADO DA LIDE. IMPROCEDÊNCIA DO PEDIDO INICIAL POR AUSÊNCIA DE PROVAS. CERCEAMENTO DE DEFESA CARACTERIZADO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. IMPOSSIBILIDADE DE REALIZAÇÃO DE ATIVIDADE SAZONAL. PRESCRIÇÃO. PRAZO TRIENAL. ALTERAÇÃO DO TERMO INICIAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, 926 e 1.022 do CPC/2015, na medida em que a eg. Corte estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. A jurisprudência desta Corte se firmou no sentido de que há cerceamento de defesa quando o juiz indefere a realização de prova requerida oportuna e justificadamente pela parte autora, com o fito de comprovar suas alegações, e o pedido é julgado improcedente por falta de provas.
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+4. "É firme nesta Corte a orientação de que é trienal o prazo prescricional da pretensão indenizatória por danos causados em razão da construção de usina hidrelétrica" (AgInt no REsp 1.991.961/RO, Relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/12/2022, DJe de 27/1/2023).
+5. No caso em análise, o termo inicial fora fixado pela Corte de origem em junho/2011 e a demanda proposta em novembro/2013, antes de ultrapassados os três anos do prazo prescricional. Assim, a alteração do termo inicial, como pretendida pela agravante, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.930.932/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023)
+Nessas condições, CONHEÇO o agravo para DAR PROVIMENTO ao recurso especial a fim de anular o acórdão recorrido desde a designação da perícia e oportunizar à parte recorrente indicar assistente técnico, a apresentação de quesitos e a participação na produção da prova pericial.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do CPC, inclusive no que tange ao cabimento de multa (arts. 1.021, §4º e 1.026, § 2º).
+Publique-se. Intime-se.
+EMENTA
+GRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. OCORRÊNCIA. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
