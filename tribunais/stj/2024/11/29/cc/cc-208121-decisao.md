@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de conflito positivo de competência entre o JUÍZO FEDERAL DA 3ª VARA CRIMINAL DE BELO HORIZONTE - SJ/MG, suscitante, e o JUIZO DE DIREITO DA 2ª VARA DE EXECUÇÃO PENAL DE IBIRITE - MG, suscitado.
+Consta dos autos que o interessado DALMO CAETANO DE LIMA, foi condenado, pelo Juízo Federal, à pena de 02 (dois) anos, 11 (onze) meses e 18 (dezoito) dias de reclusão, em regime aberto, e pagamento de 67 (sessenta e sete) dias-multa, pela prática do crime previsto no art. 1º, I, c/c art. 12, I, ambos da Lei n. 8137/1990 . A pena foi substituída por 02 (duas) restritivas de direitos (fl. 07).
+Interposta apelação pela defesa, o TRF da 1ª Região deu parcial provimento ao recurso para reduzir as penas para 02 (dois) anos e 08 (oito) meses de reclusão e pagamento de 13 (treze) dias-multa, mantidos os demais termos da sentença.
+Devolvidos os autos à origem para cumprimento da pena, a defesa suscitou a ocorrência da prescrição da pretensão punitiva e executória, pedido rejeitado pelo juízo da 3ª Vara Criminal da Subseção Judiciária de Belo Horizonte/MG.
+Contra a referida decisão, a defesa interpôs o agravo em execução penal, tendo o TRF da 6ª Região provido o recurso para determinar que o Juízo da Execução competente reanalise a eventual ocorrência da prescrição da pretensão executória estatal (fl. 12).
+O Juízo de Direito da 2ª Vara de Execução Penal de Ibirité - MG, ao fundamento de atender a determinação feita pelo Tribunal Regional Federal, determinou a intimação do MP e Defesa para manifestarem sobre a prescrição executória (fl. 04).
+O Juízo suscitante, por sua vez, apresentou o presente conflito positivo de competência, sob os seguintes argumentos:
+1. Suscito conflito positivo de competência perante o Egrégio Superior Tribunal de Justiça em relação ao Juízo da 2ª Vara Criminal e de Execuções Penais da Comarca de Ibirité/MG.
+2. Trata-se de execução penal em que Dalmo Caetano de Lima requereu o reconhecimento da prescrição da pretensão executória em relação à pena que lhe fora imposta.
+3. Eu proferi decisão em que concluí que não ocorrera a prescrição quer da pretensão punitiva quer da pretensão executória.
+4. Diante da procrastinação do cumprimento da pena por parte do reeducando, que se furtava havia mais de 3 anos a atender a determinação deste Juízo, e verificando a ocorrência da hipótese prevista no art. 181, § 1º, da LEP, foi realizada a conversão da pena restritiva de direitos em privativa de liberdade (regime aberto), sobrevindo agravo em execução interposto pelo reeducando.
+5. Mantida a decisão agravada, foi o agravo remetido ao eg. TRF da 6ª Região e o processo de execução encaminhado para o Juízo suscitado, diante dos termos da Súmula 192/STJ e por não ter o recurso efeito suspensivo.
+6. Entrementes, o eg. TRF da 6ª Região julgou o agravo e determinou a reanálise da ocorrência da prescrição da pretensão executória pelo juízo competente, nos seguintes termos
+(..)
+7. O Ocorre que, no caso, o "juízo de origem" é este ora suscitante e o "Juízo da Execução competente " também é este ora suscitante, já que a situação fática que dava substrato à aplicação dos termos da Súmula 192/STF fora desfeita e, ademais, o eg. TRF da 6ª Região não tem jurisdição sobre o Juízo suscitado, pois não se trata de competência delegada.
+(..)
+9. Ainda que se entenda que se deprecou, implicitamente, a fiscalização do cumprimento da pena restritiva de direito, ora reativada, existe farta jurisprudência desse Colendo Superior Tribunal de Justiça no sentido de que, nas penas restritivas de direito, a competência para a execução penal cabe ao Juízo da condenação, sendo deprecados ao juízo do domicílio do apenado, quando for o caso, somente a supervisão e o acompanhamento do cumprimento da pena determinada. Nesse sentido:
+(..)
+10. Ante o exposto, requeiro que essa Egrégia Corte haja por bem receber e dar provimento ao presente conflito para que seja declarada a competência deste Juízo suscitante para o feito.
+(fls. 15-17).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitante (fls. 23-25).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Cinge-se a controvérsia a estabelecer qual o Juízo competente para processar e julgar eventuais incidentes na execução da pena quando o apenado, condenado pela Justiça Federal a pena a ser cumprida em regime aberto, reside em comarca diversa daquela do Juízo da condenação.
+De início, cumpre registrar que, a teor da jurisprudência deste Superior Tribunal de Justiça,  t endo o réu sido condenado pela Justiça Federal a pena a ser inicialmente cumprida no regime aberto, deve a execução ser processada por esta, nos termos do art. 65, da Lei de Execuções Penais (AgRg no CC 153.707/PR, Rel. Ministro Felix Fischer, Terceira Seção, DJe 10/11/2017).
+Com efeito, nos termos do art. 65 da Lei n. 7.210/1984 (Lei de Execuções Criminais), o Juízo competente para a execução da pena imposta é o indicado na lei local de organização judiciária e, na sua ausência, o Juízo da condenação, sendo que o fato de o apenado ter modificado de domicílio no curso da execução, por si só, não consubstancia causa modificativa de competência, ante a ausência de previsão legal.
+Nesse norte:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE ENDEREÇO. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA FISCALIZAÇÃOE ACOMPANHAMENTO DA PENA IMPOSTA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+Terceira Seção já pacificou o entendimento no sentido de que a competência para atos decisórios na execução penal continua sendo do juízo que proferiu a condenação, ainda que o condenado venha a mudar de domicílio, cabendo apenas a expedição de precatória para a fiscalização das condições e medidas impostas.
+Agravo regimental desprovido.
+(AgRg no CC n. 198.819/DF, Ministro Messod Azulay Neto, Terceira Seção, julgado em 17/10/2023, DJe 25/10/2023, grifamos)
+A propósito, a jurisprudência deste Superior Tribunal há muito firmou-se no sentido de que
+nas penas restritivas de direito, bem como nas penas privativas de liberdade, a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado, quando for o caso, somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência (AgRg no CC n. 198.927/RS, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 25/10/2023, DJe de 31/10/2023, grifamos)
+Assim, o domicílio do reeducando, ainda que diverso do Juízo da condenação, não desloca a competência do Juízo da Execução Penal, podendo ser deprecada ao Juízo de domicílio do apenado a supervisão e o acompanhamento do cumprimento da pena, consoante entendimento firme desta Corte:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO SUSCITANTE. AUDIÊNCIA ADMONITÓRIA. RECUSA DO JUÍZO DEPRECADO. REALIZAÇÃO DE VIDEOCONFERÊNCIA DETERMINADA PELO JUÍZO DEPRECADO. IMPOSSIBILIDADE. FACULDADE DO JUÍZO DEPRECANTE. CONFLITO CONHECIDO. COMPETÊNCIA PARA A EXECUÇÃO DO JUÍZO SUSCITANTE. IMPOSSIBILIDADE DE O JUÍZO SUSCITADO DETERMINAR MODALIDADE DIVERSA DE REALIZAÇÃO DO ATO PROCESSUAL DEPRECADO.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+2. "A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011).
+(..)
+4. Conflito de competência conhecido para declarar que a execução da pena compete ao Juízo Federal da 4ª Vara de Foz do Iguaçu - SJ/PR, o suscitante, e que incumbe ao Juízo Federal da 2ª Vara Criminal Especializada da Seção Judiciária do Estado do Amazonas, o suscitado, o cumprimento da carta precatória, da forma como determinada pelo Juízo deprecante.
+(CC n. 170.751/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 13/5/2020, DJe de 1/6/2020)
+Convém destacar o entendimento desta Corte Superior acerca do Sistema Eletrônico de Execuções Unificado - SEEU, o qual, apesar de ter
+proporcionado facilidade de acesso aos autos e otimizado a prestação jurisdicional, contudo, não tem o condão de alterar a competência para a execução da pena que é fixada na Lei n. 7.210/84. Cabe aos Juízes envolvidos no uso desse novo instrumento lançar mão de procedimentos que extraíam os benefícios da nova ferramenta, sem, contudo, desrespeitar as diretrizes estabelecidas na legislação, sob pena de que a tecnologia prevaleça em detrimento da vontade do legislador" (CC 170.280, DJe 11/2/2020 e CC 170.458, DJe 4/5/2020, ambos de relatoria do Ministro Sebastião Reis Júnior (CC n. 172.445/RJ, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 24/6/2020, DJe de 29/6/2020, grifamos).
+No caso concreto, portanto, a competência permanece com o Juízo responsável pela condenação, sendo somente deprecada ao Juízo do domicílio do sentenciado (Ibirité-MG) a fiscalização do cumprimento da pena.
+Assim,  deve  ser  reconhecida  a  competência  do  Juízo  Federal da  3ª Vara Federal Criminal de Belo Horizonte - SJ/MG.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 3ª VARA CRIMINAL DE BELO HORIZONTE - SJ/MG, suscitante, para processar a execução do interessado, sendo-lhe facultada a expedição de carta precatória ao Juízo do domicílio do apenado para fins de fiscalização e acompanhamento da execução.
+Publique-se. Intimem-se.
+EMENTA
