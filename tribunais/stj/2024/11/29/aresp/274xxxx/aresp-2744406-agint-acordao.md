@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Votaram com o Sr. Ministro Moura Ribeiro os Sr. Ministros Humberto Martins (Presidente) e Ricardo Villas Bôas Cueva. Não participaram do julgamento a Sra. Ministra Nancy Andrighi e o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA PELO TRIBUNAL. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Afastar a afirmação contida no acórdão atacado, no sentido de que a taxa de juros remuneratórios da avença é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das Súmulas n. 5 e 7 desta Corte.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO CREFISA S.A. (BANCO) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. EMPRÉSTIMOS PESSOAIS. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA PELO TRIBUNAL. PRECEDENTES. REVISÃO DO JULGADO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DE FATOS E PROVAS DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DIVERGÊNCIA NÃO COMPROVADA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 566).
+Nas razões do presente inconformismo, defendeu a inaplicabilidade das Súmulas n. 5 e 7 do STJ, bem como sustentou que esta Corte possui entendimento pacífico de que a taxa média de mercado apurada pelo BACEN para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abusividade, devendo ser considerados fatores como os custos da captação dos recursos no local e época do contrato, o valor e o prazo do financiamento, fontes de renda e as garantias ofertadas.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA PELO TRIBUNAL. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Afastar a afirmação contida no acórdão atacado, no sentido de que a taxa de juros remuneratórios da avença é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das Súmulas n. 5 e 7 desta Corte.
+2. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+De acordo com a jurisprudência desta Corte Superior, a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras (AgInt no AREsp 925.530/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 4/5/2017).
+E foi exatamente isso que ocorreu no caso em concreto, tendo em vista que o Tribunal estadual reconheceu a abusividade dos juros remuneratórios nos seguintes argumentos:
+Colegas, o agravo interno não prospera, devendo ser a decisão agravada mantida pelos seus próprios fundamentos. Verbis:
+Vistos.
+É caso de desprovimento do apelo. No que diz com os juros remuneratórios, afastada por completo a possibilidade de sua limitação, em qualquer patamar, com a revogação do § 3º do artigo 192 da Constituição Federal pela EC 40, de 29.05.03 e insuficiente a legislação infraconstitucional a embasar pretensão, desde que os juros encontrem-se adequados à média praticada para a operação, conforme dados divulgados pelo BACEN, já tendo o STF decidido pela inaplicabilidade do Decreto 22.626/33 aos contratos firmados com as instituições integrantes do sistema financeiro, assim dispondo a Sumula 596 do STF:
+As disposições do Decreto 22.626/33 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional.
+Certo, verificada a abusividade no caso concreto, deve haver limitação dos juros. Todavia, por abusividade não se entende os juros fixados em percentual superior a 12% ao ano, como consignado na Sumula 382 do STJ, que assim dispõe:
+A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Tal entendimento vem exposto, também, na orientação firmada pelo STJ após o julgamento do R Esp 1.061.530/RS, Rel. Min. Nancy Andrighi, sob o rito dos recursos repetitivos, que restou assim redigida:
+ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+ ..
+Alinhando-me ao entendimento desta Câmara, que admite uma pequena margem de tolerância sobre a taxa média divulgada pelo BACEN (10%), passo à análise da hipótese dos autos.
+No caso concreto, trata-se de contrato de empréstimo vinculado à composição de dívidas, com desconto em conta corrente e, ainda que tenha maior risco de inadimplência em comparação com os empréstimos consignados, tem-se que a própria taxa média do BACEN já contempla as peculiaridades deste tipo de negociação, haja vista que faz um cotejo das taxas praticadas por todas as instituições financeiras em contratos desta mesma espécie.
+Na hipótese, a contratação ocorreu em setembro de 2019, sendo pactuada a taxa de juros remuneratórios no percentual de 22% a. m., mês no qual a taxa média divulgada pelo BACEN foi de 3,45% a. m. (Série 25465 - Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado vinculado à composição de dívidas).
+Logo, demonstrado que o consumidor está em desvantagem exagerada, admite-se a revisão da taxa de juros remuneratórios, a fim de aplicar a taxa média do BACEN.
+Acrescento, em atenção às razões da agravante, que ainda que não se desconheça o risco de inadimplência diante do público alvo com o qual optou a apelante trabalhar, o certo é que a taxa de juros pactuada no contrato revisando revela flagrante abusividade, pois, muito superior à taxa média do BACEN, conforme assentado.
+Em outras palavras, o fato de a ré ter optado por desenvolver sua atividade com empréstimos de maior risco, não se constitui em salvo conduto para a cobrança de taxas elevadíssimas de juros, muito superiores àquelas divulgadas pelo BACEN, como no caso em tela.
+Insta consignar, ainda, que embora a apelante defenda a regularidade dos juros sob o prisma do risco da operação, em razão da taxa de inadimplência e demora na recuperação do crédito, tal argumento não prospera, à medida que o entendimento aplicável quanto aos juros remuneratórios é de que superando 10% a taxa média do BACEN são considerados abusivos, impondo-se a limitação à referida taxa, não restando contemplada a diferenciação pretendida pela recorrente.
+Ou seja, embutir tais custos na taxa de juros, a justificar a cobrança de percentuais abusivos, não se mostra viável, diante do entendimento jurisprudencial que vem sendo adotado por esta Câmara, a qual, como já dito, considera como abusivas taxas que superam 10% da taxa média do BACEN.
+Logo, demonstrado que o consumidor está em desvantagem exagerada, admite-se a revisão da taxa de juros remuneratórios, a fim de aplicar a taxa média do BACEN (e-STJ, fls. 293/295).
+Diante desse cenário, fácil concluir que a abusividade não foi constatada apenas levando em conta a taxa média de mercado.
+Assim, alterar a conclusão do acórdão recorrido, no sentido de que a taxa de juros remuneratórios da av ença é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das mencionadas Súmulas n. 5 e 7 desta Corte.
+Nesse sentid o:
+CIVIL. CONTRATOS BANCÁRIOS. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSO RECONHECIDO NA ORIGEM. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 e 7 DO STJ. DECISÃO MANTIDA.
+1. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp n. 1.061.530/RS, submetido ao rito do art. 543-C do CPC/1973, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, Dje 10/03/2009).
+2. O Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu que a taxa de juros cobrada é abusiva, considerando a significativa discrepância entre o índice estipulado e a taxa média de mercado. Alterar esse entendimento ensejaria reavaliação do instrumento contratual e revolvimento das provas dos autos, circunstâncias vedadas pelas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.027.066/RS, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA PELO TRIBUNAL DE ORIGEM. REDUÇÃO À TAXA MÉDIA DE MERCADO. POSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. REVISÃO DO JULGADO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REE XAME DE FATOS E PROVAS DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte Superior é no sentido de ser possível, de forma excepcional, a revisão da taxa prevista em contratos bancários sobre os quais incide a legislação consumerista, desde que o caráter abusivo fique cabalmente demonstrado, mediante a colocação do consumidor em desvantagem exagerada (art. 51, § 1º, do CDC), de acordo com as peculiaridades do julgamento em concreto.
+2. Modificar o entendimento do Tribunal local, acerca da ausência de caráter abusivo dos juros praticados pela instituição financeira, incorrerá em reexame de matéria fático-probatória e das cláusulas contratuais, o que é inviável, devido ao óbice das Súmulas 5 e 7/STJ.
+3. Encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.045.646/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas con dições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
