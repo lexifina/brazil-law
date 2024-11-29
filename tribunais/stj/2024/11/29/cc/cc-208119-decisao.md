@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE ANÁPOLIS - GO, suscitante, e o JUÍZO DE DIREITO DA VARA ÚNICA DA COMARCA DE OLINDA NOVA DO MARANHÃO - MA, suscitado.
+O Juízo de Direito da Vara Única da Comarca de Olinda Nova do Maranhão - MA, nos autos do processo n. 5000002-85.2023.8.10.0142, declinou da competência para a Vara de Execuções Penais da Comarca de Anápolis/GO ao argumento de que a execução deve tramitar no local em que o apenado está preso (fl. 6).
+O Juízo de Direito da 4ª Vara Criminal de Anápolis - GO, por sua vez, suscitou conflito de competência. Sustentou que é o juízo da condenação o competente para processamento da execução, observando-se ainda a regra da prevenção determinando a unificação das novas condenações ao Juízo prevento à execução mais antiga (fls. 3-4).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo de Direito da Vara Única da Comarca de Olinda Nova do Maranhão - MA, ora suscitado (fls. 42-45).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, o juízo da condenação é o competente para a execução das penas impostas, de modo que o cumprimento do mandado de prisão em unidade federativa diversa daquela em que o acusado foi condenado não implica deslocamento da competência. Confira-se:
+" ..  Conforme consolidada jurisprudência do STJ, o fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência para a execução da pena. Precedentes: AgRg no CC n. 172.429/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 27/11/2020; e CC 161.783/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 14/12/2018." (CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023)
+No mesmo sentido: CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023; AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022; AgRg no CC n. 182.840/DF, Terceira Seção, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 3/11/2021.
+Na espécie, embora o reeducando tenha sido preso em Anápolis/GO, tal fato não desloca a competência para a execução penal, que continua sendo do Juízo de Direito da Vara Única da Comarca de Olinda Nova do Maranhão - MA.
+A demais, a fiscalização das condições e das medidas impostas no curso da execução penal podem ser efetivadas por meio da expedição de precatórias, até o devido recambiamento do apenado , in verbis:
+" ..  A execução da pena, em regra, compete ao Juízo da condenação, não implicando deslocamento de competência o implemento da prisão em comarca diversa, em razão da possibilidade de ser deprecada a fiscalização do cumprimento da pena." (CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única da Comarca de Olinda Nova do Maranhão - MA, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
