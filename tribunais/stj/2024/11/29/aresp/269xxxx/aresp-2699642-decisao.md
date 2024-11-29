@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GRACIANE APARECIDA DA SILVA PEREIRA contra decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial pelos seguintes fundamentos (fl. 260):
+O Colegiado, soberano na análise probatória, entendeu existentes indícios suficientes quanto ao animus necandi. A Turma Julgadora manifestou, ainda, que as qualificadoras não são manifestamente improcedentes e, portanto, devem ser submetidas ao Tribunal do Júri.
+Salvo melhor juízo, para autorizar o seguimento do recurso, seria necessária a reanálise dos pressupostos fáticos ensejadores da decisão, o que é vedado pelo disposto na Súmula nº 07, do Superior Tribunal de Justiça.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido (fl. 271):
+Ocorre que os Recorrentes não buscam a reanálise do conjunto fático probatório e a análise do recurso também não acarreta na reavaliação das provas.
+O que buscou o Recurso Especial foi a avaliação por parte desta Corte do desrespeito à lei federal, mais precisamente pela necessidade de desclassificação do delito, bem como pela contrariedade ao entendimento do Superior Tribunal de Justiça, uma vez que as qualificadoras aplicadas são totalmente improcedentes.
+Essas análises de critérios jurídicos a respeito da desclassificação, bem como da não incidência de qualificadoras se trata de questões de direito, sendo, portanto, totalmente distinta do reexame das provas dos autos, a qual é inviável por Recurso Especial.
+Assim sendo, a análise do Recurso Especial interposto pela Agravante não acarreta no reexame do conjunto fático-probatório, pois busca somente analisar o critério jurídico.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Parecer do Ministério Público Federal opinando pelo conhecimento do agravo em recurso especial, para não conhecer do recurso especial ou desprovê-lo, nos termos da seguinte ementa (fl. 298):
+AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ARTIGO 105, III, "A" E "C", DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO AO ARTIGO 419 DO CPP. PRETENSÃO DE DESCLASSIFICAÇÃO DA CONDUTA OU AFASTAMENTO DAS QUALIFICADORAS. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DECISÃO DE PRONÚNCIA. MERO JUÍZO DE ADMISSIBILIDADE DA ACUSAÇÃO. SEDE INADEQUADA PARA DISCUSSÃO SOBRE O MÉRITO DA CAUSA. MATÉRIA AFETA À COMPETÊNCIA EXCLUSIVA DO JÚRI. PRECEDENTES DO STJ. PARECER PELO CONHECIMENTO DO AGRAVO PARA NÃO CONHECER OU, CASO CONHECIDO, DESPROVER O RECURSO ESPECIAL.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo a desclassificação do delito de tentativa de homicídio para o delito de lesão corporal grave, com fundamento no a rt. 419 do CPP, diante da inexistência de animus necandi, além do decote das qualificadoras de motivo fútil, de emboscada e do feminicídio.
+O acolhimento da tese recursal, em suma, demandaria o revolvimento do acervo fático-probatório dos autos, assim como a alteração das premissas estabelecidas pelo acórdão recorrido, o que é inviável no recurso especial, conforme esclarecido na Súmula n. 7 do STJ.
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. DESCREVER O(S) CRIME(S). REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
