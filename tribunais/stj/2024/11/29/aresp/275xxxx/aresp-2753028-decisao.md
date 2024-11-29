@@ -1,0 +1,22 @@
+DECISÃO
+MURILO DA SILVA ANDRADE agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí na Apelação n. 0801168-62.2022.8.18.0064.
+Depreende-se dos autos que o réu foi condenado a 1 ano e 4 meses de reclusão, em regime aberto, mais 13 dias-multa, pela prática do crime previsto no art. 155, § 1º, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do especial, alegou a defesa a violação dos arts. 14 e 155 do CP e 386, VII, do CPP, ao argumento de que "não pode o Réu ser condenado ante a extrema fragilidade do conjunto probatório produzido nos autos" (fl. 298). Sustentou que o acusado não se lembra da prática delitiva, por haver ingerido quantidade excessiva de álcool. Aduziu que não houve subtração efetiva do bem furtado, razão por que deve ser reconhecida a tentativa.
+Requereu fosse o denunciado absolvido. Subsidiariamente, pleiteou o reconhecimento da forma tentada do furto.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+Com efeito, a testemunha-chave ouvida em juízo confirmou sua versão extrajudicial que ora amparou o oferecimento da denúncia. De fato, o Sr. FRANCISCO WILLIAN MARINHO esclareceu que era seu enteado quem pilotava a motocicleta, de propriedade da genitora (desse enteado), esposa do depoente. Naquela data fatídica, (o enteado) estacionou-a em frente à residência do casal, na via pública, por volta das 21h15min, com o objetivo de fazer uma rápida visita. Somente quando se despediam, notaram a falta do veículo. Os vizinhos, alarmados, disseram-lhes que MURILO (acusado) circulava pela região, desde o período da tarde, noite adentro. O Sr. FRANCISCO (depoente) e o seu enteado, cada qual em uma motocicleta, passaram a realizar buscas pela redondeza. Foi então que o Sr. FRANCISCO logrou encontrar MURILO, ainda na posse da motocicleta. Havia se distanciado da cena delitiva, empurrando o veículo desligado até um local ermo e escuro, onde, com maior tranquilidade, montou na motocicleta e tentava dar a partida. Foi exatamente nessas circunstâncias em que foi detido pelo Sr. FRANCISCO. Populares lhe deram apoio. A força policial foi então acionada e o acusado preso em flagrante e encaminhado à delegacia. As outras 02 (duas) testemunhas ouvidas em juízo identificaram-se como sendo os policiais militares que realizaram a prisão do acusado, em meio à conjuntura acima delineada.
+O acusado confessou a prática delitiva, embora alegando em autodefesa que não recordava dos detalhes, pois se encontraria em estado de embriaguez alcoólica.
+ ..
+Ademais, no que se refere ao alegado estado de embriaguez, trata-se de consumo por ato voluntário, posto que desejado livremente pelo acusado, razão pela qual seria inviável afastar a imputabilidade do agente, nos termos do que dispõe o art. 28, II, do Código Pena Penal. Aliado a isso, não caberia a aplicação da teoria da actio libera in causal, pois inexistem elementos nos autos a comprovar a inimputabilidade pelo consumo de bebida alcoólica e drogas, decorrente de vício, considerado doença mental, nos termos do art. 26, caput, do Código Pena Penal. Assim, não haveria razão para excluir a imputabilidade ou para afastar a culpabilidade.
+(fls. 276-277, destaquei)
+Como se observa, o quadro probatório é composto por flagrante, depoimento testemunhal e confissão, o que basta para demonstrar a autoria e materialidade.
+No que tange ao alegado estado de embriaguez do agente, verifico que não há elementos que permitam concluir incapacidade de discernimento do denunciado, visto que chegou a confessar a subtração do veículo automotor e que executou seu intento empurrando a moto da vítima para um lugar ermo para, só então, tentar dar partida no motor.
+Trata-se de evidente intento de evadir-se sem chamar atenção do ofendido, circunstância essa incompatível com a tese referente à inimputabilidade, na qual o agente é equiparado a portador de doença mental.
+Nesse ponto, ressalto que a remoção da motocicleta da vítima para lugar ermo pelo agente caracteriza a inversão da posse. Tanto assim, que a testemunha contou com ajuda de outra pessoa para localizá-lo, haja vista a distância percorrida antes do flagrante.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
