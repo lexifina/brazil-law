@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO DOMICILIAR EM RAZÃO DE SAÚDE DEBILILTADA. NÃO DEMONSTRADA A IMPOSSIBILIDADE DE O ESTABELECIMENTO PRISIONAL DISPENSAR CUIDADOS NECESSÁRIOS AO AGRAVANTE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Quanto ao pleito de imposição de prisão domiciliar ao Agravante, em razão de se encontrar com a saúde debilitada, não verifico flagrante ilegalidade a ser sanada pela presente via, pois não restou demonstrada a impossibilidade de o estabelecimento prisional lhe dispensar os cuidados necessários.
+II - Com efeito, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; o que não ocorreu nos autos. Precedentes.
+III - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls. 61-63, que denegou o habeas corpus impetrado em favor de CLAUDINEI APARECIDO TERENCIO FERREIRA.
+Nas razões do presente inconformismo, o Agravante repisa os argumentos deduzidos no writ, alegando a existência de constrangimento ilegal consubstanciado na manutenção do encarceramento provisório, em razão de se encontrar com a saúde debilitada.
+Aduz que:
+"Conforme denota-se quando o mesmo foi preso teve um mal subido e foi conduzido a UPA da Avenida 29, na cidade de Rio Claro/SP, onde constatou -se início de infarto no mesmo, o acusado trata -se com remédio controlado o qual não está sendo fornecido pela unidade prisional, o acusado encontra -se com crises de formigamento lateral inclusive da face e muita tontura, estando sob a suspeita de infarto, mesmo diante do quadro clinico a unidade prisional não encaminha o mesmo para tratamento adequado, sendo paciente de tratamento contínuo e ininterrupto.
+Diante das ponderações retro consignadas, evidente a necessidade de tratamento adequado ao mesmo, antes que sobrevenha a morte do mesmo. O condicionamento do mesmo, torna inviável o cárcere, principalmente onde não há acomodações e atendimento àqueles destinados ao martírio da doença" (fl. 74).
+Requer a reconsideração da decisão hostilizada, ou, em caso de entendimento diverso, a submissão ao Órgão Colegiado.
+O Ministério Público Federal, às fls. 85-92, opinou pelo não provimento do agravo. Confira-se a ementa do parecer:
+"PENAL e PROCESSUAL PENAL. AgRg em habeas corpus. Tráfico de drogas. Prisão preventiva. Pedido de concessão da prisão domiciliar. Alegação de insuficiência do suporte prestado pela unidade prisional à saúde do apenado. Improcedência. Conclusão das instâncias ordinárias, com base no conjunto fático-probatório dos autos, no sentido de que o reeducando vem recebendo atendimento adequado à sua saúde na própria unidade prisional. Impossibilidade de reversão dessa conclusão na via do writ. Precedentes. Não provimento do agravo regimental" (fl. 85).
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO DOMICILIAR EM RAZÃO DE SAÚDE DEBILILTADA. NÃO DEMONSTRADA A IMPOSSIBILIDADE DE O ESTABELECIMENTO PRISIONAL DISPENSAR CUIDADOS NECESSÁRIOS AO AGRAVANTE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Quanto ao pleito de imposição de prisão domiciliar ao Agravante, em razão de se encontrar com a saúde debilitada, não verifico flagrante ilegalidade a ser sanada pela presente via, pois não restou demonstrada a impossibilidade de o estabelecimento prisional lhe dispensar os cuidados necessários.
+II - Com efeito, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; o que não ocorreu nos autos. Precedentes.
+III - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+VOTO
+O presente Agravo Regimental não merece provimento.
+Sustenta o Agravante a necessidade de reforma do decisum.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 61-63. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+Quanto ao pleito de imposição de prisão domiciliar ao Agravante, em razão de se encontrar com a saúde debilitada, não verifico flagrante ilegalidade a ser sanada pela presente via, pois não restou demonstrada a impossibilidade de o estabelecimento prisional lhe dispensar os cuidados necessários:
+"A substituição da prisão preventiva pela domiciliar é cabível em situações excepcionais, em observância ao princípio da dignidade da pessoa humana.
+Para que o encarceramento cautelar possa ser substituído, deve ser comprovada a debilidade extrema por doença grave, somada à impossibilidade de recebimento do tratamento adequado no estabelecimento prisional. É o entendimento do Superior Tribunal de Justiça(grifei):
+ ..
+Conforme constou da decisão que indeferiu a liminar, pela análise dos documentos juntados, depreende-se que Claudinei vem passando por acompanhamento médico e realizando os exames solicitados.
+O paciente foi atendido no dia de sua prisão (29 de outubro de 2023), ocasião em que queixou-se de dor no peito, tendo sido medicado, com encaminhamento para realização de exames (fls. 24). Em 19de abril foram realizados exames médicos, conforme consignado no relatório de fls. 19.
+Em 07 de maio passou novamente por consulta, ficando consignado no relatório médico que ele apresentava "bom estado geral", tendo sido encaminhado para a realização de eletrocardiograma, não havendo sido constatada anormalidade (fls. 19 e 22).
+Assim, inexistindo indícios da ausência de atendimento especializado para o tratamento do paciente ou de risco à sua saúde, de rigor manutenção da prisão preventiva" (fls. 24-26).
+Sobre o tema:
+"3. Com efeito, nos termos do art. 318, II, do Código de Processo Penal, a prisão domiciliar poderá ser concedida quando o acusado ou o indiciado estiver "extremamente debilitado por motivo de doença grave". Na mesma direção, o parágrafo único do referido dispositivo determina que seja apresentada prova idônea da situação. Desse modo, não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional. Precedentes. - No presente caso, não restou comprovado que o agravante não possa receber no estabelecimento prisional em que se encontra, os cuidados necessários para sua saúde" (AgRg no RHC n. 194.892/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024).
+Com efeito, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; o que não ocorreu nos autos.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
