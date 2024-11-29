@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MATHEUS MONTEIRO CAIXETA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Apelação Criminal n. 5474741-07.2022.8.09.0051).
+Consta dos autos que o paciente foi condenado, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006, à pena definitiva de 3 anos e 4 meses de reclusão, em regime aberto, mais 333 dias-multa, à razão mínima, sendo substituída a pena corpórea por duas restritivas de direitos, consubstanciadas em prestações de serviços à comunidade e pecuniária, no importe de 1 (um) salário mínimo (e-STJ fls. 491/509).
+Interposta apelação no Tribunal de origem, o recurso foi parcialmente provido, para, aplicada a minorante do art. 33, §4º, da Lei n. 11.343/2006, reduzir a pena do paciente para 1 ano e 8 meses de reclusão, mais 166 dias-multa, mantidos o regime aberto e a pena substitutiva.
+Eis a ementa do acórdão (e-STJ fl. 582):
+APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES. VIOLAÇÃO DE DOMICÍLIO. NULIDADE.1- A efetivação de ingresso domiciliar prescinde de ordem judicial, quando caracterizado o estado de flagrância amparado em elementos concretos de suspeita da prática de delito. 2- Preliminar afastada. MÉRITO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. REDUÇÃO DA PENA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ARTIGO 33, § 4º, DA LEI 11.343/06, NA MAIOR FRAÇÃO. 3- Resultando das provas dos autos a certeza da conduta ilícita do processado, não sobra espaço ao pronunciamento jurisdicional absolutório, tampouco desclassificatório. 4- A minorante prevista no artigo 33, § 4º, da lei de drogas, deve ser concedida na fração mais favorável, visto que a quantidade apreendida não indica maior envolvimento do apelante no delito, aliado ao seu pequeno poder deletério. 5- Apelo conhecido e parcialmente provido.
+No presente writ, a defesa alega ilegalidade decorrente da nulidade da prisão em flagrante, ocorrida por meio de invasão ilegal de domicílio, e, por conseguinte, das provas obtidas por tal meio.
+Afirma que "a egrégia Corte estadual convalidou a violação do domicílio do réu mesmo tendo os policiais adentrado na sua residência pelo simples fato de terem recebido denúncia não preliminarmente verificada e abordado o recorrente na frente de sua residência na posse de pequena quantidade de droga, o que poderia indicar, quando muito, o crime do artigo 28 da Lei 11.343/2006. Em seguida, ingressaram no domicílio sem autorização do morador documentada nos autos" (e-STJ fl. 7).
+Prossegue sustentando que "denúncia não verificada anteriormente por meio de diligências não consubstancia fundada razão para a busca pessoal e domiciliar, afigurando-se ilegais tanto a busca pessoal como a domiciliar realizadas" (e-STJ fl. 8). Ademais, o fato de se encontrar substâncias ilícitas após a busca pessoal não convalida a ilegalidade prévia (e-STJ fl. 11).
+Requer, liminarmente, a concessão da ordem para obstar o trânsito em julgado e início do cumprimento da pena, com a suspensão dos efeitos da condenação, até julgamento do mérito do writ. No mérito, pugna pela absolvição com fundamento no art. 386, inciso II, do Código de Processo Penal.
+A liminar foi indeferida (e-STJ fls. 596/598).
+As informações foram prestadas (e-STJ fls. 605/624 e 639/642).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso conhecido, quanto ao mérito, pela denegação da ordem (e-STJ fls. 645/652).
+É o relatório.
+Decido.
+O presente writ está prejudicado.
+Com efeito, verifico que os pleitos ora veiculados já foram objeto do REsp 2113441, interposto perante esta Corte Superior e também atribuído a este relator -, já tendo sido proferida decisão no sentido de conferir "parcial provimento ao recurso especial para, reconhecida a ilegalidade exclusivamen te na invasão de domicílio do recorrente e das eventuais provas daí decorrentes, cassar os julgamentos prolatados pelas instâncias de origem e determinar o retorno dos autos à primeira instância para que profira novo julgamento".
+Dessa forma, verifico que as matérias suscitadas na presente impetração já restaram analisadas e decididas no bojo da via recursal apropriada.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
