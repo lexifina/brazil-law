@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração no agravo em recurso especial opostos pelo ESTADO DE MINAS GERAIS contra decisão assim ementada (f. 529):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. PRAZO PRESCRICIONAL DA PRETENSÃO EXECUTÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA N. 284/STF. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA. SÚMULA N. 283/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A parte embargante alega violação do artigo 1.022, II, do Código de Processo Civil de 2015 (CPC/15), ao argumento de que "a decisão ora embargada, é omissa por deixar de aplicar a majoração prevista no art. 85, §11, do CPC/2015" (f. 3.607).
+Sem impugnação.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com efeito, o acórdão objeto do recurso especial assentou o seguinte, no que relevante (f. 859):
+Por consequência do novo resultado da demanda, devida é a inversão da condenação, impondo-se, pois, à parte autora o pagamento das custas processuais e honorários advocatícios sucumbenciais, esses últimos que fixo em 20% (vinte por cento) sobre o valor atualizado da causa, nos termos do art. 85, § 4º, III, do CPC/15, porquanto ausente condenação, levando em consideração a complexidade da demanda, bem como a exigência de tempo e de trabalho dos patronos, tendo sido ajuizada esta demanda nos idos de 2015.
+Não há se falar, lado outro, em honorários recursais, não só por ausentes contrarrazões pela parte autora, mas também por já fixado o percentual em seu máximo (art. 85, § 11º, CPC/15).
+Nos termos da jurisprudência do STJ, "a majoração dos honorários, em sede recursal, exige a observância da regra inserta na parte final do § 11 do art. 85 do CPC, que veda ao Tribunal, "no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento"" (AgInt nos EDcl no REsp n. 1.950.620/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/5/2023, DJe de 7/6/2023).
+Com efeito, como bem notado pelo Tribunal estadual, considerando que a verba honorária já foi fixada no patamar máximo legal, na origem, não há falar em majoração dos honorários recursais em razão do não conhecimento do agravo em recurso especial.
+Nesse mesmo sentido, dentre inúmeros outros: AgInt no AREsp n. 2.629.077/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/10/2024, DJe de 25/10/2024; AgInt no AREsp n. 2.635.765/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024; AgInt no AREsp n. 1.866.718/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/9/2024, DJe de 26/9/2024; EDcl no AgInt no AREsp n. 2.383.773/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024; AgInt no AREsp n. 2.177.033/PA, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido/julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
