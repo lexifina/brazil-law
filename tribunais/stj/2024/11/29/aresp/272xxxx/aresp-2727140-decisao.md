@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AUGUSTO FERNANDO CARBONERA contra decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial pelos seguintes fundamentos (fls. 996-998):
+A sistemática dos recursos excepcionais impõe que o exame levado a efeito pelos Tribunais Superiores fique adstrito às questões de direito, uma vez que os temas de índole fático-probatória exaurem-se com o julgamento nas vias ordinárias. Isto importa dizer que o exame da matéria fática e das provas é efetivado com profundidade e se esgota no segundo grau de jurisdição.
+Assim, a pretensão recursal não merece trânsito, porque a reanálise a respeito da comprovação da conduta delitiva demandaria invariavelmente o reexame de todo o acervo fático- probatório, medida vedada em recurso especial, por óbice da Súmula nº 07 do STJ ("a pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+ ..
+Ante o exposto, não admito o recurso especial.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido (fls. 1.110-1.114):
+Conforme acima destacado, o recurso especial interposto não foi admitido sob o entendimento de que demandaria o reexame de matéria fático- probatória, encontrando óbice na Súmula nº 7/STJ.
+Ocorre que o recurso especial não pretende ingressar na seara de reexame de prova, pois a análise dos pontos abordados não demanda o reexame do conjunto probatório, mas sim a mera revaloração da prova, técnica permitida pela jurisprudência do STJ.
+Para tanto, a jurisprudência do Superior Tribunal de Justiça, constatando a complexidade na diferenciação entre matéria de fato e questão de direito, cria, então, distinção entre reexame do conjunto probatório e mera revaloração da prova, asseverando que:
+A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento R Esp 878.334/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05.12.2006, DJ 26.02.2007 p. 639; A revaloração da prova delineada no próprio decisório recorrido, suficiente para a solução do caso, é, ao contrário do reexame, permitida no recurso especial R Esp 757.127/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15.12.2005, DJ 06.03.2006 p. 435.
+Em conclusão, enquanto no reexame probatório ocorre verdadeira incursão no conjunto probatório, sendo, portanto, vedado em sede destes apelos, a mera revaloração de provas dá-se quando os dados estão explicitamente admitidos e delineados no decisório recorrido, o que denota erro de direito, porquanto há má aplicação das regras jurídicas.
+Vejamos:
+ ..
+Pelo fio do exposto, requer-se o provimento do presente agravo, para o efeito de determinar-se o processamento do recurso especial em referência, com sua final e integral acolhida.
+Requer o provimento do recurso ou a concessão de habeas corpus de ofício, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 1.042):
+ARESP. PENAL E PROCESSO PENAL. CRIME CONTRA O PATRIMÔNIO. ESTELIONATO MAJORADO. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS. DEMANDA QUE IMPLICA EM REEXAME DE FATOS E PROVAS. SÚMULA Nº 7 DO STJ.
+- A impugnação da defesa não merece acolhida, em face da aplicação da decisão que deixou de admitir o recurso especial.
+- Parecer pelo DESPROVIMENTO do agravo em recurso especial.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação dos seguintes fundamentos: (i) contrariedade das razões do recurso ao sentido da pacífica jurisprudência do STJ (Súmula n. 83 do STJ).
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, todos os fundamentos referidos, não bastando para tanto que a parte recorrente mencione cada um deles, pois para atendimento do princípio da dialeticidade deve ser demonstrado de modo específico e concreto quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, quanto ao óbice referido na Súmula n. 7 do STJ, que a alegação genérica sobre a desnecessidade de que sejam reexaminados os fatos e as provas é insuficiente para efetivo enfrentamento da decisão recorrida, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem (AgRg no AREsp n. 2.030.508/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024; AgRg no AREsp n. 2.672.166/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024; AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento de cada dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada, conforme relatado, o agravante limitou-se a alegar genericamente a não incidência do óbice sumular.
+Aplica-se, em consequência, a conclusão estabelecida na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, inciso III, do CPC, incumbe monocraticamente ao relator " não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ressalte-se, por fim, que "a concessão de habeas corpus de ofício não pode ser utilizada para burlar os requisitos de admissibilidade do recurso" (AgRg no AREsp n. 2.487.930/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
