@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CRYSTIAN BARROS WADA CANDIDO DE OLIVEIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão do julgamento da apelação criminal n. 1515367-27.2023.8.26.0602.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara Criminal da Comarca de Sorocaba, nos autos da ação penal n. 1515367-27.2023.8.26.0602, ao cumprimento de 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, no regime inicial fechado, e ao pagamento do valor correspondente a 12 (doze) dias-multa, por infração ao artigo 157 do Código Penal (fls. 32-36).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso (fls. 10-22).
+Na presente impetração, busca-se a concessão da ordem para reconhecer a confissão parcial, com o consequente redimensionamento da pena.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível ilegalidade flagrante, consistente na negativa ao reconhecimento da atenuante da confissão espontânea.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de conceder a ordem de ofício, em atenção ao disposto no §2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor compreensão, os fundamentos empregados na decisão colegiada impugnada (fls. 10-22):
+ ..
+2ª Fase. Na etapa intermediária, caracterizada a agravante da reincidência (processo nº 1502946-79.2020.8.26.0482- condenação cujo trânsito em julgado para a Defesa ocorreu em 12/07/2021 - pág. 49), que motivou nova majoração no coeficiente de 1/6, resultando em 05 (cinco) anos, 05(cinco) meses e 10 (dez) de reclusão, e pagamento de 12 (doze) dias-multa, no valor unitário mínimo, o que não comporta reparo
+Não há que se falar em atenuante da confissão espontânea. A versão apresentada pelo apelante não retratou a verdade real dos fatos, posto que ele negou o emprego de grave ameaça contra a vítima, o que fez na frustrada tentativa de mitigar sua responsabilidade. E como é cediço, a figura da confissão espontânea, para ser reconhecida como atenuante, precisa ser completa, total e sincera.
+ ..
+Verifico, de plano, a presença de ilegalidade flagrante em razão do alijamento da atenuante da confissão espontânea (artigo 65, III, "d", do Código Penal), sem fundamentação idônea.
+A moldura fática da instância originária indica que o paciente, ao ser interrogado, confessou parcialmente, ao admitir a subtração de 06 óculos de sol, sem admitir o emprego de violência ou grave ameaça.
+O Superior Tribunal de Justiça, no julgamento do REsp n. 1.972.098-SC, de relatoria do Ministro Ribeiro Dantas, firmou a seguinte tese: "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada".
+Assim, reconheço a incidência da atenuante capitulada no artigo 65, III, "d", do Código Penal.
+Passo, portanto, à dosimetria da pena.
+1ª etapa: mantidos os parâmetros da instância originária, que aumentou pena base em 1/6 em razão dos maus antecedentes, ficando a pena em 04 anos e 08 meses de reclusão e 11 dias-multa.
+2ª etapa: presente a agravante da reincidência, que elevou a pena intermediária em 1/6, e presente a atenuante da confissão espontânea, que valoro em 1/12 em razão de ter sido parcial, promovo a compensação entre elas, de modo que a pena intermediária fica elevada em 1/12, estabelecendo-se em 5 (cinco) anos e 20 (vinte) dias de reclusão e 11 (onze) dias-multa.
+3ª etapa: não havendo causas de aumento, nem de diminuição, fica a pena definitiva estabilizada em 5 (cinco) anos e 20 (vinte) dias de reclusão e 11 (onze) dias-multa.
+O regime inicial mais gravoso sequente é o adequado à hipótese, em atenção à diretriz do artigo 33, § 3º, e artigo 59 do Código Penal, porquanto o paciente ostenta maus antecedentes e reincidência.
+Tendo em vista que a matéria objeto desta impetração está consolidada pela jurisprudência do Superior Tribunal de Justiça, não há nenhum óbice à concessão da ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Ante o exposto, não conheço do habeas corpus, mas concedo em parte a ordem, de ofício, em favor de CRYSTIAN BARROS WADA CANDIDO DE OLIVEIRA para redimensionar a pena para 5 (cinco) anos e 20 (vinte) dias de reclusão e 11 (onze) dias-multa, mantidos os demais termos da condenação.
+Comunique-se à autoridade coatora e a o juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
