@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado em favor de COSME RAIMUNDO DE SOUZA FILHO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (HC n. 8045621-29.2024.8.05.0000.0).
+Extrai-se dos autos que o recorrente está preso preventivamente pela suposta prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006.
+Neste recurso, a Defesa sustenta que a prisão preventiva é desnecessária e desproporcional, uma vez que o recorrente está preso há mais de 02 (dois) meses, não possui antecedentes criminais, tem residência fixa e não há indícios de que, em liberdade, representaria risco à ordem pública.
+Alega que a decretação da prisão preventiva, cujo regime equivale ao fechado, mostra-se completamente desproporcional, violando o princípio da homogeneidade das cautelares.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva e a imediata expedição do alvará de soltura do recorrente.
+O pedido liminar foi indeferido às fls. 136/138.
+Informações prestadas às fls. 158/162.
+O Ministério Público Federal, às fls. 175/178, manifestou-se opinando pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+O recurso não deve ser provido.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente, ressaltou o seguinte (fls. 08/09):
+O acusado, em sede policial, alegou que a droga pertencia à adolescente; que não comercializa entorpecentes e que não agrediu o policial (fls. 32 Id 448305293). A adolescente afirmou que a droga apreendida pertencia ao acusado e que o mesmo comercializava o entorpecente (fls. 28 do id 448305293).
+A versão do acusado não parece crível, e os fatos narrados denotam que o mesmo coloca em sobressalto a comunidade em que vive. Isso demonstra a necessidade de preservar a ordem pública e para tanto se torna necessária a sua prisão preventiva. E para fechar a questão entendo que, se solto, poderá voltar a praticar crimes, sendo relevante destacar que as outras medidas alternativas previstas nos art. 282 e 319 do CPP não são suficientes, neste caso, como prevê o § 6o do art. 282, CPP.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar (fls. 104/111; grifamos):
+Para tanto, a Juíza a quo destacou a gravidade do delito imputado ao Paciente, além do fato de ter sido preso na companhia de uma menor de idade e ter tentado fugir no momento da prisão em flagrante, demonstrando a necessidade de se salvaguardar a ordem pública. Ainda, em consulta ao sistema PJe 1º grau, consta o Paciente como denunciado no processo nº 8001807-05.2024.5.05.0052, em que lhe é imputado o crime do art. 121, § 2º, II e IV, do Código Penal.
+Neste particular, a notícia de que o réu responde a outra ação penal não pode ser considerada como maus antecedentes para agravar a pena-base, a teor da Súmula nº 444 do STJ, entretanto serve para demonstrar a ameaça concreta que ele representa à sociedade, justificando, assim, a necessidade de decretação/manutenção da sua prisão preventiva, fato que, ao revés do quanto asseverado pelo Impetrante, credibiliza os fundamentos expostos pela Magistrada de primeiro grau e revelam o alto risco de o Paciente permanecer em liberdade, neste momento, evidenciando o fummus boni iuris e o periculum libertatis caracterizadores da medida adotada.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir da quantidade de droga apreendida em seu poder, qual seja, 43 (quarenta e três) pedras de crack, e do fato de ele estar na companhia de um menor de idade quando da prática da conduta criminosa, atribuindo, inclusive, a autoria do fato a este último.
+Tal circunstância demonstra a periculosidade do agente e é apta a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/04/2024, DJe de 30/04/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido. (RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/04/2024, DJe de 25/04/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..).
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..).
+6. Agravo regimental desprovido. (AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/04/2024, DJe de 18/04/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁ RIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido. (AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/05/2023, DJe de 18/05/2023).
+Há de ser salientando ainda que o recorrente tentou empreender fuga quando de sua detenção, pulando da viatura policial e que ele responde a 01 (um) processo criminal pelo delito de homicídio, denotando sua reiteração delitiva com a comprovação de que as medidas cautelares diversas da prisão não seriam suficientes ao caso em comento.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+A alegação de excesso de prazo formulada pela Defesa não merece prosperar.
+Compulsando os autos originais, pode-se perceber que o feito tramita observando a razoável duração do processo, tendo em vista que se encontra aguardando a realização de audiência de instrução e julgamento, segundo informações encaminhadas pelo Juízo de primeiro grau.
+Desse modo, não havendo constrangimento ilegal e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
