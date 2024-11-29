@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado por Jair Castro Cândido com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 35):
+PREVIDENCIÁRIO. REVISIONAL. APOSENTADORIA POR TEMPO DE SERVIÇO. CÔMPUTO DE TEMPO DE SERVIÇO ESPECIAL. REQUISITOS PREENCHIDOS. AJG.
+1. Preenchidos os requisitos legais para a concessão do beneficio " de gratuidade da justiça ( a percepção de proventos em valor mensal inferior ao limite de 10 (dez) salários mínimos), de deferir-se a benesse.
+2. De manter-se a sentença que julgou improcedente o pedido de conversão de aposentadoria especial em aposentadoria por tempo de serviço e conseqüente retroação de DIB, com a incidência do fator de conversão 1,4, porquanto aplicável no período o fator 1,2, não atingindo tempo suficiente à concessão pretendida.
+A parte recorrente aponta violação aos arts. 122 e 144, da Lei n. 8.213/1991; e art. 5º, XXXVI, 201, § 1º, da Constituição Federal. Sustenta que faria jus à aplicação do fator 1,4 na conversão de seu tempo especial em comum e que a aplicação do art. 144 da Lei n. 8.213/1991 ao caso não configuraria hibridismo.
+Sem contrarrazões (fl. 158).
+Determinada o retorno dos autos à origem, em razão da afetação da matéria em recurso repetitivo (fls. 165/168).
+Os autos retornaram a este Superior Tribunal em razão do cancelamento do Tema 951 dos recursos repetitivo (fl. 219).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+No que diz respeito à tese de que "faria jus à aplicação do fator 1,4 na conversão de seu tempo especial em comum", cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+Doutra parte, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, XXXVI, e 201, § 1º, da Constituição Federal.
+Finalmente, no que diz respeito à aplicação do art. 144 da Lei n. 8.213/1991 ao caso, fica prejudicada a análise, em razão do não conhecimento da questão relativa ao fator de conversão do tempo especial, em razão da incidência da Súmula 284/STF, mantendo-se o acórdão de origem que considerou insuficiente o tempo de serviço para a aquisição do direito pleiteado.
+ANTE O EXPOSTO, não con heço do recurso especial.
+Publique-se.
+EMENTA
