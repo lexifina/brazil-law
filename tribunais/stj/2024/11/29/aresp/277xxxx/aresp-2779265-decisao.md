@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MATEUS TIAGO TENTIS COSTA contra decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial pelos seguintes fundamentos (fl. 654):
+II - O recurso é tempestivo, as partes são legítimas e há interesse recursal.
+Em análise aos pressupostos constitucionais de admissibilidade, verifica-se que o recurso especial não merece ser admitido quanto à apontada afronta ao artigo 155, § 4º, inciso II, do Código Penal, e 386, inciso VII, do Código de Processo Penal.
+Isso porque, infirmar a conclusão do órgão colegiado no sentido de que as provas dos autos são suficientes para embasar o decreto condenatório não prescindiria o reexame do conjunto fático-probatório dos autos, o que esbarra no veto do enunciado 7 da Súmula do STJ.
+III - Ante o exposto, INADMITO o recurso especial.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido (fls. 670-673):
+Assentou o Tribunal de origem que a subtração de aparelho de telefone celular juntamente com cartão bancário dentro da sua capa, e posterior utilização para pagamentos em 7 (sete) estabelecimentos comerciais distintos, enquadra-se nos tipos penais do furto simples e, ao mesmo tempo, em concurso material, do furto qualificado mediante fraude (art. 155, § 4º, inciso II, CP).
+A respeito da condenação ao crime de furto qualificado, o Tribunal aderiu ao parecer da d. Procuradoria de Justiça, cujo acordão assim consignou:
+ ..
+Excelência, o fundamento de que houve manipulação enganosa do processo de pagamento é um argumento inidôneo que não encontra guarida em nenhuma premissa lançado no acordão.
+Ora, de acordo a petição acusatória, registrada no presente acordão  ..  a vítima guardou o aparelho celular e o cartão bancário embaixo do balcão, momento em que o denunciado, que estava no referido estabelecimento comercial, se aproveitou da ausência da vítima, que saiu para trocar a fralda de sua filha, e subtraiu para si, o cartão e o aparelho celular.
+Após a subtração do cartão, o denunciado subtraiu para si, por 07 (sete) vezes, mediante fraude, crédito do referido cartão obtendo indevida vantagem ilícita consistente em objetos de diversos estabelecimentos comerciais.
+ ..
+Como se observa, apenas consultando o acordão vergastado, é impossível concluir que houve fraude ou meio ardil, ou manipulação do processo de pagamento apenas narrando que o acusado realizou 07 vezes o referido cartão.
+Como se ver, a controvérsia gira em torno da correta interpretação jurídica do conceito de fraude (ardil) no contexto do furto qualificado, que foi aplicado de forma inadequada ao caso em tela.
+No que tange à qualificadora da fraude, não se verifica qualquer "manobra ardilosa", exigida pela doutrina para a caracterização da qualificadora, na conduta do agravante.
+No caso, aproveitaram o momento de distração da vítima para efetuar a subtração, o que é insuficiente para fazer incidir o inciso II do § 4º do art. 155 do Código Penal.
+ ..
+A decisão recorrida considerou como fraudulenta a simples utilização do cartão bancário furtado sem exigir a prova do dolo específico ou do emprego de um meio enganoso apto a induzir a vítima ou o sistema em erro. Tal entendimento, porém, exige reanálise sob a ótica jurídica, e não probatória. Não há que se falar, portanto, em incidência da Súmula 7 do STJ, pois a análise pretendida no presente recurso é exclusivamente de direito.
+O que se busca é a interpretação e correta aplicação do art. 155, § 4º II do CP; Ante o exposto, e após atacado especificamente os fundamentos da decisão que inadmitiu o Recurso Especial, requer o Recorrente o processamento, conhecido e provido o presente Agravo para que seja dado seguimento ao Recurso Especial.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo conhecimento do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 703):
+AGRAVO EM RECURSO ESPECIAL. FURTO QUA- LIFICADO. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. REVOLVIMENTO FÁTICO-PROBATÓ- RIO. SUM 7/STJ. NÃO CONHECIMENTO. 1. Não se conhece de recurso especial quando há necessidade de reexame de matéria fático-probatória. Súmulas 7 /STJ.
+2. Parecer pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação dos seguintes fundamentos: análise que exigira o reexame de fatos e provas, atraindo o óbice da Súmula n. 7 do STJ.
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, o fundamentos referido, não bastando para tanto que a parte recorrente mencione genericamente a sua não incidência, pois para atendimento do princípio da dialeticidade deve ser demonstrado de modo específico e concreto quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, quanto ao óbice referido na Súmula n. 7 do STJ, que a alegação genérica sobre a desnecessidade de que sejam reexaminados os fatos e as provas é insuficiente para efetivo enfrentamento da decisão recorrida, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem (AgRg no AREsp n. 2.030.508/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024; AgRg no AREsp n. 2.672.166/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024; AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento de cada dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada, conforme relatado, pois o agravante limitou-se a alegar genericamente a não incidência do óbice sumular, além de alegar questões referentes ao mérito do feito.
+Aplica-se, em consequência, a conclusão estabelecida na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, inciso III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
