@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interno interposto por MARLENE DE JESUS NUNES GOMES e CELIO GOMES contra decisão monocrática da presidência do STJ que conheceu do agravo para não conhecer do recurso especial em razão da Súmula n. 7/STJ (fls. 163-166).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, no qual se discute se a quantia até 40 salários mínimos depositada em conta-corrente é automaticamente impenhorável, como no caso da poupança, ou se a parte processual atingida pelo ato constritivo deve comprovar que o montante constitui reserva de patrimônio destinada a assegurar o mínimo existencial.
+A questão con trovertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema n. 1.285/STJ), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+A propósito, cito a ementa da proposta de afetação dos Recursos Especiais 2.015.693/PR e 2.020.425/RS:
+Ementa. Processo civil. Recursos especiais. Indicação como representativos de controvérsia. Impenhorabilidade de quantia até 40 salários mínimos (art. 833, X, do CPC). Papel-moeda; conta corrente; caderneta de poupança; fundo de investimentos. Afetação ao rito dos repetitivos.
+I. Caso em exame 1. Recursos especiais ns. 2015693/PR e 2020425/RS selecionados como representativos de controvérsia e submetidos à avaliação para eventual afetação ao rito dos recursos repetitivos, relativos à interpretação da impenhorabilidade do art. 833, X, do Código de Processo Civil, em relação a quantia em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+II. Questão em discussão 2. A proposta de afetação ao rito dos repetitivos busca dirimir controvérsia sobre a aplicação da impenhorabilidade do art. 833, X, do Código de Processo Civil, em relação a quantia em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+III. Razões de decidir 3. Afetação ao rito dos recursos repetitivos, por serem os recursos admissíveis e estar demonstrada a repetição da controvérsia.
+Existência de orientação firmada em julgamento da Corte Especial do Superior Tribunal de Justiça, em recurso especial avulso (REsp n. 1.660.671/RS, Rel. Min. Herman Benjamin, Corte Especial, julgado em 21/2/2024).
+IV. Dispositivo e tese 4. Afetação dos recursos especiais ao rito previsto nos arts. 1.036 e 1.037 do CPC de 2015 e nos arts. 256 ao 256-X do RISTJ.
+5. Delimitação das controvérsias afetadas: Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+______
+Dispositivos relevantes citados: art. 833. X, do Código de Processo Civil.
+Jurisprudência relevante citada: STJ, REsp n. 1.660.671/RS, Rel. Min. Herman Benjamin, Corte Especial, julgado em 21/2/2024.
+(ProAfR no REsp n. 2.015.693/PR, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 17/9/2024, DJe de 7/10/2024.)
+Ante o exposto, torno sem efeito a decisão de fls. 163-166 e determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.285 /STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC.
+Advirto às partes que, na esteira da jurisprudência desta Corte, a presente decisão possui recorribilidade limitada à demonstração da distinção, na forma do art. 1.037, §§ 9º e 10, inciso IV, do CPC, uma vez que não se conhecerá do agravo interno ou do pedido de reconsideração que pretender o julgamento deste recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPENHORABILIDADE DE QUANTIA ATÉ 40 SALÁRIOS MÍNIMOS (ART. 833, X, DO CPC). PAPEL-MOEDA. CONTA-CORRENTE. CADERNETA DE POUPANÇA. FUNDO DE INVESTIMENTOS. CONTROVÉRSIA AFETADA AO TEMA REPETITIVO N. 1.285/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA SOBRESTAMENTO.
