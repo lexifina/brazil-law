@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Agravo interposto por WALTER SAID DAHER e OUTRO, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de WALTER SAID DAHER e OUTRO, verifica-se que o Recurso Especial não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Apesar de a parte recorrente asseverar que litiga sob o pálio da gratuidade, a mera alegação, na petição recursal, de que é beneficiária da assistência judiciária, não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição. Nesse sentido, o AgInt no AREsp 1545172/SP, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe de 5.6.2020.
+É insuficiente, portanto, a alegação de que a gratuidade foi deferida expressa ou tacitamente nos autos principais e/ou apensados, devendo a parte trazer certidão comprobatória do Tribunal de origem desse deferimento ou cópia integral dos respectivos autos , o que não ocorreu no caso concreto.
+Além disso, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. FLÁVIO CONTE DA VINHA.
+Ademais, percebeu-se, no STJ, ; haver irregularidade no recolhimento do preparo, bem como na representação processual. A parte, embora regularmente intimada para sanar referidos vícios, deixou o prazo transcorrer in albis (fls. 285/286).
+Dessa forma, o Recurso Especial não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto nas Súmulas n. 187 do STJ e n. 115/STJ.
+Ressalte-se que as petições de fls. 289/298, 299/302 e 303/309, trazidas aos autos em razão da determinação oportunizando a regularização do feito, não podem ser conhecidas para os fins a que se destinam, uma vez que protocolizadas fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Ademais, convém registrar que ao contrário do alegado pela parte recorrente, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação da certidão para saneamento de óbices.
+Na referida edição foram apresentadas todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este recurso. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício.
+Portanto, não procede alegação de que o advogado, Dr. FLÁVIO CONTE DA VINHA, não foi devidamente intimado, porquanto seu nome já constava na autuação do feito desde a publicação da referida certidão (fl. 281).
+Ainda é importante esclarecer que a relação constante na página "Minhas publicações" do advogado, é uma mera comunicação acessória, e por isso não deve ser considerada uma substituta do Diário de Justiça Eletrônico (meio oficial). Veja inclusive, que no alto da página, em letras vermelhas, isso é alertado: "As informações aqui listadas não são intimações e não substituem aquelas publicadas no DJe" (fl. 290).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Quanto ao pleito de tutela provisória, a admissibilidade da concessão de efeito suspensivo está intrinsecamente vinculada à possibilidade de êxito do recurso. No caso, considerando o seu não conhecimento, julgo prejudicada a concessão do efeito suspensivo.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
