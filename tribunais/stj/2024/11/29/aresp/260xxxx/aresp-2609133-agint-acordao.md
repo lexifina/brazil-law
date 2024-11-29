@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. IRPJ. CSLL. ALÍQUOTA REDUZIDA. SERVIÇOS HOSPITALARES. CONCEITO. ELEMENTO DE EMPRESA. AFERIÇÃO. IMPOSSIBILIDADE.
+1. Em recurso especial, não é possível rever a questão concernente à efetiva caracterização do elemento de empresa no desenvolvimento das atividades econômicas de pessoas jurídicas dedicadas à prestação de serviços médicos, para fins de reconhecimento do direito ao benefício tributário da alíquota reduzida do IRPJ e da CSLL, por demandar incursão no conjunto probatório dos autos. Aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NOEMED SERVIÇOS DE NEONATOLOGIA LTDA. contra decisão de minha lavra, constante de e-STJ fls. 346/350, em que conheci de seu agravo para conhecer em parte de seu recurso especial e, nessa extensão, negar-lhe provimento, em razão da inexistência de omissão no julgado de segunda instância e em razão da aplicação da Súmula 7/STJ.
+A parte agravante sustenta, em resumo, que "os Recorrentes buscam, em verdade, a requalificação jurídica dos fatos que integram a presente celeuma, mediante a correta subsunção do fato à norma jurídica violada, sob pena de flagrante aplicação equivocada da exata dicção dos dispositivos invocados no reclamo especial" (e-STJ fl. 363).
+Sem impugnação (certidão à e-STJ fl. 372).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. IRPJ. CSLL. ALÍQUOTA REDUZIDA. SERVIÇOS HOSPITALARES. CONCEITO. ELEMENTO DE EMPRESA. AFERIÇÃO. IMPOSSIBILIDADE.
+1. Em recurso especial, não é possível rever a questão concernente à efetiva caracterização do elemento de empresa no desenvolvimento das atividades econômicas de pessoas jurídicas dedicadas à prestação de serviços médicos, para fins de reconhecimento do direito ao benefício tributário da alíquota reduzida do IRPJ e da CSLL, por demandar incursão no conjunto probatório dos autos. Aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Na decisão ora agravada, conheci de agravo para conhecer e negar provimento, em parte, a recurso especial manejado para atacar acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 210):
+TRIBUTÁRIO. PROCEDIMENTO COMUM. SERVIÇOS HOSPITALARES. IRPJ E CSLL. NATUREZA DO SERVIÇO PRESTADO. CRITÉRIO OBJETIVO. LEI Nº 11.727/2008.
+1. A concessão do benefício fiscal se dá de forma objetiva, com foco nos serviços prestados, e não na pessoa do contribuinte que executa a prestação dos chamados serviços hospitalares, sob pena de se desfigurar a própria natureza da norma legal.
+2. Deve distinguir as situações de natureza menos complexas, resultando em custos menores; e os mais elaborados, em que o contribuinte necessita arcar com uma diferenciada onerosidade para a prestação dos serviços.
+3. A tributação favorecida sobre receitas de prestação de serviços hospitalares se justifica pelo custo diferenciado de tais atividades, a necessidade de alto investimento tecnológico e de pessoal, não se exigindo, necessariamente, a internação dos paciente.
+Pois bem.
+Conforme anotado na decisão agravada, o recurso especial origina-se de ação declaratória mediante a qual se busca, no principal, o reconhecimento do "direito da Requerente em tributar a receita oriunda de todas as prestações de serviços médicos, nestes incluídos procedimentos, cirurgias, transplantes, exames e tratamentos realizados pela Requerente na área de medicina, em específico em sua especialidade, a neonatologia, com exceção das meras consultas e serviços administrativos, as quais possuem notas fiscais próprias e recolhimento tributário específico, aplicando o percentual de 8% para o IRPJ e 12% para a CSLL, coeficientes para apuração da base de cálculo no Lucro Presumido, conforme previsto pelos artigos 15, §1º, III, "a" e 20 da Lei 9.249/95, com as alterações da Lei 11.727/08 e STJ nos RESP 951.251/PR e 1116399/BA, considerando seus serviços como hospitalares; (..)" (e-STJ fls. 41/42).
+A questão jurídica controvertida foi assim decidida, no voto condutor do acórdão recorrido (e-STJ fl. 208):
+(..) a concessão do benefício fiscal se dá de forma objetiva, com foco nos serviços prestados, e não na pessoa do contribuinte que executa a prestação dos chamados serviços hospitalares, sob pena de se desfigurar a própria natureza da norma legal.
+Revendo posicionamento anterior sobre a matéria em debate, compartilho do entendimento de que se deve distinguir as situações de natureza menos complexas, resultando em custos menores; e as mais elaboradas, em que o contribuinte necessita arcar com uma diferenciada onerosidade para a prestação dos serviços. A tributação favorecida sobre receitas de prestação de serviços hospitalares se justifica pelo custo diferenciado de tais atividades, a necessidade de alto investimento tecnológico e de pessoal, não se exigindo, necessariamente, a internação dos pacientes.
+A partir da Lei nº 11.727/2008, passou-se a exigir, para a aplicação do percentual reduzido, que "a prestadora destes serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Agência Nacional de Vigilância Sanitária - Anvisa".
+Caso dos autos
+De acordo com o contrato, a parte autora tem como objeto social a "Atividade Médica de Atendimento hospitalar, exceto pronto socorro e unidades para atendimento a urgências, e prestação de serviços de atendimento em pronto socorro (evento 1, CONTRSOCIAL3). As notas fiscais (evento 1, NFISCAL7) demonstram que a demandante prestou serviços de neonatologia (meses de abril, maio, junho e julho de 2019) em unidade de atendimento à saúde pertencente a terceiros - Instituto das Pequenas Missionárias de Pequena Imaculada.
+Também juntou aos autos contrato de prestação de serviços de pediatria/neonatologia nas dependências do IPMMI - Hospital e Maternidade Marieta Konder Bornhausen (evento 1, CONTR8).
+Sendo assim, a autora apenas presta serviços médicos utilizando a estrutura dos estabelecimentos hospitalares. Os custos maiores, a toda evidência, são suportados pelos tomadores dos serviços, e não pela autor que apenas promove atendimento médico.
+Deste modo, não restou demonstrado que os serviços prestados pela parte autora se enquadram no conceito de serviços de natureza hospitalar, afastando o direito ao tratamento tributário diferenciado.
+Constata-se que o fundamento do acórdão recorrido não foi, simplesmente, de que a ora agravante não teria estrutura própria para a prestação de seus serviços. O Tribunal foi além e afirmou que, dada a baixa complexidade dos serviços prestados pela pessoa jurídica, inexistiria, no caso, elemento de empresa, requisito exigido pela legislação de regência para a concessão do regime tributário perseguido - daí, inclusive, a razão da menção expressa à Lei n. 11.727/2008.
+Assim colocada a questão, a controvérsia desloca-se da intepretação da expressão legal "serviços hospitalares" para a investigação empírica da existência, no caso, do elemento de empresa (i. e. complexidade da estrutura empregada no serviço, de modo a demonstrar o elemento de empresa). Sinteticamente, da discussão de direito, âmbito próprio do recurso especial, para a discussão de fato. Aliás, nem poderia ser diferente, uma vez que, em relação à questão propriamente de direito, o recurso especial teve seguimento negado no Tribunal de origem.
+Daí porque foi aplicada, corretamente, na decisão agravada, a Súmula 7/STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
