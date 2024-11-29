@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALEX SANDRO MEDEIROS DA SILVA contra decisão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu recurso especial, interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, na Apelação Criminal n. 0905337-34.2023.8.19.0001, assim ementada (fl. 20):
+Apelação criminal. Art. 155, caput, do Código Penal. Não há atipicidade da conduta com base no princípio da insignificância, que exige não apenas que a coisa subtraída seja de pequeno valor, mas também a mínima ofensividade da conduta do agente, a completa ausência de periculosidade social da ação e o reduzido grau de reprovabilidade do comportamento. A FAC do réu mostra reiteração delitiva por crime contra o patrimônio. A aplicação do princípio da insignificância e absolvição do Réu, serviria de estímulo à impunidade para praticar outros atos reprováveis. Ao fim da instrução, comprovada a materialidade e autoria do delito. Nos crimes patrimoniais, a palavra da vítima é decisiva para a condenação. Precedentes. Teoria da Apprehensio. Consumado o crime de furto com a inversão da posse do bem, ainda que por breve tempo, prescindível a posse mansa e pacífica ou desvigiada - Sumula 582 do Superior Tribunal de Justiça. Cumprimento do art. 23 da Resolução CNJ nº 417/21 (com a redação dada pela Resolução 474/22 do CNJ), com o trânsito em julgado. Recurso provido.
+O agravante foi absolvido pelo Juízo da 43ª Vara Criminal da Comarca do Rio de Janeiro/RJ da imputação do crime previsto no artigo 155, caput, do Código Penal, com fulcro no artigo 386, inciso III, do Código de Processo Penal (fls. 308-310).
+A Corte de origem, por seu turno, deu provimento ao apelo ministerial para condenar o agravante à pena de 01 (um) ano, 04 (quatro) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, e ao pagamento de 12 (doze) dias-multa, como incurso no artigo 155, caput, do Código Penal (fls. 20-32).
+Nas razões do recurso especial, o agravante aponta violação aos artigos 155, caput, e 386, inciso III, do Código de Processo Penal.
+Sustenta a aplicação do princípio da insignificância sob o argumento de que o Direito Penal atua para garantir a tutela dos bens jurídicos essenciais à vida em sociedade, e que,
+a averiguação da inexpressividade da conduta e ausência de lesividade penal não pode estar dissociada de outras variáveis ligadas às circunstâncias fáticas e que, no caso em análise, são determinantes (fl. 52).
+Aduz que,
+o Recorrente foi condenado por furtar de uma bateria de automóvel usada, de valor estimado em, no máximo, R$30,00 (trinta reais), sem o emprego de violência ou grave ameaça (fl. 53).
+Pugna pela reforma do acórdão recorrido para que o réu seja absolvido pela incidência do princípio da bagatela.
+Contrarrazões às fls. 63-72.
+O recurso especial não foi admitido pela incidência da Súmula n. 83/STJ, óbice contra o qual defesa se insurge neste agravo (fls. 86-100).
+Parecer do Ministério Público Federal pelo não provimento do agravo em recurso especial (fls. 337-343).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No tocante à aplicação do princípio da insignificância, tem-se que o Colegiado estadual declinou as seguintes razões (fls. 25-29, grifamos):
+Noutro giro, não merece prosperar a absolvição por atipicidade material da conduta, com base no princípio da insignificância.
+Primeiro, tal princípio não encontra amparo no ordenamento jurídico brasileiro. Segundo, para que o princípio da insignificância possa ser reconhecido não basta que a coisa subtraída seja de pequeno valor. Imperiosa a presença de outros requisitos, como a mínima ofensividade da conduta do agente, a completa ausência de periculosidade social da ação e o reduzido grau de reprovabilidade do comportamento.
+(..)
+O pequeno valor da res furtiva não é o único requisito autorizador do princípio da insignificância, devendo analisar-se outras circunstâncias, como por exemplo, a periculosidade social da conduta praticada.
+A FAC do réu mostra reiteração delitiva por crime contra o patrimônio - index 80534202, da ação originária - devidamente esclarecida nos autos. Na hipótese, admitir a aplicação do princípio da insignificância, com a consequente absolvição do Réu, somente serviria de estímulo à impunidade e a continuar a praticar outros atos reprováveis.
+O crime se consumou pela inversão completa do bem subtraído, pois o réu foi saiu correndo com a bateria não mão e, após algum tempo, a deixou cair ao solo.
+(..)
+Motivos pelos quais, é típica, antijurídica e culpável a conduta praticada pelo réu, a condenação nas penas do art. 155, caput, do Código Penal é medida que se impõe.
+O Supremo Tribunal Federal, ao julgar o HC n. 84.412/SP, referiu-se aos critérios cumulativos para a aplicação do princípio da insignificância, quais sejam: (I) mínima ofensividade da conduta do agente, (II) ausência de periculosidade social da ação, (III) reduzidíssimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica provocada.
+No caso em exame, não constato a atipicidade material da conduta, tendo em vista a não comprovação dos requisitos da inexpressividade da lesã o jurídica causada e reduzidíssimo grau de reprovabilidade do comportamento, porquanto, conforme destacado pela Corte local, é reincidente específico e o ato ilícito foi consumado com a efetiva inversão da posse do bem subtraído.
+A propósito, cito os seguintes precedentes desta Corte Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DELITO COMETIDO NO CURSO DE CONDENAÇÃO ANTERIOR. PRESENÇA DE MAUS ANTECEDENTES E REINCIDÊNCIA ESPECÍFICA. HABITUALIDADE. DESPROVIMENTO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+2. No caso corrente, a despeito da avaliação da res furtiva - dois queijos, no valor de R$ 52,71 -, evidencia-se a maior reprovabilidade da conduta, pois o réu praticou o delito enquanto estava em cumprimento de condenação anterior, além de possuir diversas anotações criminais esposadas na sentença: "o acusado registra como mácula em seus antecedentes criminais seis condenações definitivas que não caracterizam reincidência, enquanto que as três condenações que caracterizam a agravante serão analisadas na próxima fase da dosimetria".
+3. Demonstrada a habitualidade delitiva do réu, ora agravante, respectivo óbice impede o reconhecimento do princípio da insignificância. Precedentes.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.391.044/MG, rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT, Sexta Turma, julgado em 19/03/2024, DJe 22/03/2024, grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. POSSIBILIDADE, EM TESE, DE INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE, NO CASO CONCRETO. DUPLA REINCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça aponta que os crimes previstos nos artigos 12, 14 e 16 da Lei n. 10.826/2003 são de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta, porquanto o objeto jurídico tutelado não é a incolumidade física e, sim, a segurança pública e a paz social.
+2. Por outro lado, na esteira da jurisprudência do Supremo Tribunal Federal, esta Corte passou a admitir a incidência do princípio da insignificância quando se tratar de posse de pequena quantidade de munição, desacompanhada de armamento capaz de deflagrá-la, e ficar evidenciado o reduzido grau de reprovabilidade da conduta.
+3. No caso em exame, contudo, a dupla reincidência do réu obsta a concessão da benesse (e-STJ, fl. 187), por evidenciar a contumácia delitiva. Precedentes.
+4. Agravo regimental não provido. (AgRg no REsp n. 2.109.857/MG, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 0 4/03/2024, DJe 07/03/2024, grifamos).
+Não se  constata, portanto, hipótese de incidência do aludido postulado, haja vista o não preenchimento de todos os critérios fixados pelo Supremo Tribunal Federal, conforme a jurisprudência deste sodalício, indicada acima.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
