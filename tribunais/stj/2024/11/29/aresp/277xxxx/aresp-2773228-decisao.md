@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ANTONIA RODRIGUES DINIZ FERREIRA, com fundamento na incidência  da Súmula  7 deste STJ.
+Em suas razões recursais, a parte agravante sustenta que não há qualquer rediscussão de fatos ou provas, pois o recurso especial interposto se encontra integralmente calcado na negativa de vigência dos arts. 48, §§ 1º, 2º, c/c 11, VII, 39, I e 143, da Lei 8.213/91.
+Assevera, ainda, que trouxe razoável início de prova material, capaz de comprovar sua atividade rural.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+A controvérsia cinge-se acerca da comprovação do exercício da atividade rural.
+O Tribunal de origem, soberano na análise do contexto fático-probatório dos autos, fez constar que as provas materiais apresentadas mostram a existência de vínculos urbanos, suficientes a descaracterizar a condição de trabalhador rural da agravante, in verbis (fl. 364):
+Para comprovar a qualidade de segurado especial, foram acostados aos autos certidão de casamento celebrado em 2003, na qual a autora está qualificada como "do lar" e seu esposo como vaqueiro, CTPS da requerente com vínculo como trabalhadora agropecuária iniciado em outubro 2018, contratos de arrendamento de imóvel rural celebrados em 2006 e 2009 em que a autora e seu marido figuram como arrendatários, atestado de vacinação contra brucelose (2010) e notas de vacinas contra aftosa em nome do esposo da autora. Ao contestar o feito, o INSS apresentou o extrato de dossiê previdenciário que aponta os seguintes vínculos empregatícios urbanos da apelante: Constata-se que, apesar dos documentos comprovarem o vínculo com a propriedade rural, os registros insertos no CNIS demonstram que a autora manteve vínculo empregatício urbano durante toda a vida, tendo o único vínculo rural se iniciado em outubro de 2018, apenas três anos antes do implemento do requisito etário. Assim, à vista das provas coligidas, julgo ter agido com acerto o juízo a quo ao indeferir o benefício.
+Desse modo, a pretensão da parte recorrente encontra óbice na Súmula 7 deste STJ. Isso porque, para alterar as conclusões do órgão julgador - a fim de aferir a existência ou não dos requisitos autorizadores da concessão da aposentadoria rural -, seria imprescindível o reexame do acervo fático- probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REGIME DE ECONOMIA FAMILIAR. PROPRIEDADE RURAL. TAMANHO ACIMA DO LEGALMENTE PERMITIDO. REEXAME DE PROVAS. IMPOSSIBILIDADE. REPETIÇÃO DE DEMANDA ANTERIOR. COISA JULGADA. FLEXIBILIZAÇÃO. DESCABIMENTO.
+1. De acordo com o art. 11, VII, "a", item I, da Lei n. 8.213/1991, o proprietário de área agropecuária de até 4 (quatro) módulos fiscais também é considerado segurado especial, sendo certo que, ao interpretar a aludida norma, esta Corte firmou a compreensão de que a extensão da propriedade rural, por si só, não tem o condão de descaracterizar o regime de economia familiar do segurado se preenchidos os demais requisitos legalmente exigidos. Tema 1.115 do STJ.
+2. Caso em que a instância ordinária não reconheceu a condição de segurado especial do recorrente com base no conjunto fático- probatório, cuja revisão esbarra no óbice da Súmula 7 do STJ.
+3. A Corte Especial, no julgamento do REsp 1.352.721/SP, e a Primeira Seção (REsp 1.352.875/SP) decidiram que, no âmbito de demandas previdenciárias, a ausência de conteúdo probatório eficaz a instruir a inicial implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, IV do CPC). Ressalva de entendimento do relator.
+4. A excepcionalidade da flexibiliz ação da norma processual reconhecida em ambos os julgados repetitivos aplica-se ao processo em curso, ainda sem o trânsito em julgado, e não a demandas diversas, já alcançadas pelo efeito da imutabilidade, sendo certo que eventual pretensão de desconstituir a coisa julgada deve ser formulada na via adequada, na forma disciplinada pelo art. 966, VII, do CPC.
+5. Hipótese em que o acórdão da instância ordinária consignou que a parte autora já havia ajuizado uma ação anterior, com o mesmo pedido e causa de pedir, tendo sido julgada improcedente por ausência de prova do labor agrícola.
+6. Agravo interno desprovido (AgInt no AREsp n. 2.285.370/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
