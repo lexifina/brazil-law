@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interno, interposto por PETER ROCHA GALLO, contra decisão da Presidência desta Corte Superior, que não conheceu do seu agravo em recurso especial ante o óbice da Súmula 182 do STJ (fls. 739-740).
+Alega a parte agravante que tal decisão merece reforma.
+É o relatório. Decido.
+Assiste razão à parte agravante no ponto, no que reconsidero a decisão agravada e passo ao exame do agravo em recurso especial.
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+PREVIDENCIÁRIO. BENEFÍCIO DE AMPARO ASSISTENCIAL AO DEFICIENTE. ART. 20, DA LEI Nº 8.742/93. REQUISITOS PREENCHIDOS.
+1. O benefício de prestação continuada, regulamentado Lei 8.742/93 (Lei Orgânica da Assistência Social - LOAS), é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anos ou mais que comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por sua família.
+2. Deficiência atestada pelo laudo médico pericial e, demonstrado, pelo conjunto probatório, que não possui meios de prover a própria manutenção ou de tê-la provida por sua família, faz jus a autoria à percepção do benefício de prestação continuada, correspondente a 1 (um) salário mínimo, desde a data da citação.
+3. A correção monetária, que incide sobre as prestações em atraso desde as respectivas competências, e os juros de mora devem ser aplicados de acordo com o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+4. Os juros de mora incidirão até a data da expedição do precatório/RPV, conforme decidido em 19.04.2017 pelo Pleno do e. Supremo Tribunal Federal quando do julgamento do RE 579431, com repercussão geral reconhecida. A partir de então deve ser observada a Súmula Vinculante nº 17.
+5. Tendo a autoria decaído de parte do pedido, devem ser observadas as disposições as disposições contidas no inciso II, do § 4º e § 14, do Art. 85, e no Art. 86, do CPC, bem como a Súmula 111, do e. STJ.
+6. Remessa oficial, havida como submetida, provida em parte e apelações desprovidas.
+Posteriores embargos declaratórios foram rejeitados.
+Em seu recurso especial (fls. 661-677), o recorrente apontou violação de dispositivos de lei federal, ao pugnar pela fixação do "termo inicial do benefício assistencial de prestação continuada na data do requerimento administrativo (em 28/06/2007), sem a incidência da prescrição quinquenal" (fl. 677).
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+Parecer do Ministério Público Federal pelo conhecimento do agravo para não conhecer do recurso especial (fls. 776-783).
+De qualquer sorte, o recurso não merece prosperar.
+Ab initio, em homenagem ao princípio da unicidade recursal, analiso o recurso de fls. 661-677.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizando o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunt o, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 983.543/RJ, Rel. Ministro Herman Benjamin, DJe 5/5/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.597.355/CE, Rel. Ministro Francisco Falcão, DJe 10/3/2017.)
+O Tribunal de origem, ao analisar o conteúdo probatório colacionado aos autos, consignou expressamente que a insurgência defendida pelo recorrente é contrária às evidências fáticas sobre as quais se fundamentou o julgador a quo para solucionar a controvérsia apresentada na presente demanda judicial.
+Dessa forma, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no apelo nobre, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF. In verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Por fim, mediante a simples leitura das razões recursais, percebe-se que parcela da insurgência apresentada pelo recorrente não foi suficientemente debatida no âmbito do Tribunal de origem, sendo que a mera citação ou menção superficial de dispositivos de lei federal não é condição capaz de preencher o fundamental requisito de prequestionamento da matéria ora controvertida, deficiência recursal que atrai a aplicação das Súmulas, assim como 282 e 356 do STF. Confiram-se:
+Súmula 282/STF. É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356/STF. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Súmula 211/STJ. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ante o exposto, com esteio no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada e, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a majoração dos honorários sucumbenciais em 1 (um) ponto percentual, em virtude da previsão contida no § 11 do art. 85 do CPC/2015, desde que respeitados os limites previstos no § 3º do mencionado dispositivo legal, bem como a eventual concessão da gratuidade judiciária.
+Publique-se. Intimem-se.
+ EMENTA
