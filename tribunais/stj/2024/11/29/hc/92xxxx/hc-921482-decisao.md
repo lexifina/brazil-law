@@ -1,0 +1,21 @@
+DECISÃO
+O presente writ, impetrado em benefício de GILBERTO PEREIRA LONGARAY - condenado como incurso no crime de tráfico de drogas e porte ilegal de arma e munição (Ação Penal n. 0000638-17.2016.8.24.0135) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da Vara Criminal da Comarca de Navegantes/SC, e mantida pelo Tribunal, para a aplicação da redução do tráfico privilegiado, ao argumento de que o paciente é primário, não possui antecedentes e não integra organização criminosa. O motivo para afastar a incidência do § 4º do art. 33 da Lei n. 11.343/2006 foi a imaginada habitualidade do comércio ilegal de entorpecentes (dedicação do paciente a atividades criminosas), depreendida sobretudo da natureza da droga apreendida (fl. 6).
+Em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, percebo a ocorrência do ilegal constrangimento.
+Do atento exame dos autos observa-se que nem a sentença nem o acórdão hostilizados lograram demonstrar, com fundamento em elementos concretos dos autos, a dedicação do paciente a atividades criminosas, tendo a sentença fundamentado o afastamento do redutor apenas em razão da natureza e quantidade da droga apreendida - dedicação a atividades criminosas - , sem apontar outros elementos que levaram a tal conclusão, conforme trecho a seguir (fl. 44 - grifo nosso).
+ ..
+Inexiste causa de aumento de pena. Deixo de reconhecer a causa de diminuição constante no artigo 33, § 4º, da Lei de Drogas, por conta da natureza da droga apreendida (maconha) e da sua considerável quantidade (836,8 g), que demonstram que o acusado se dedica à atividade criminosa, fazendo dela o seu meio principal de subsistência, razão pela qual torno a reprimenda definitiva em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+ ..
+Da análise dos trechos transcritos observa-se que nenhum dos argumentos indicados pelo Juízo de primeiro grau, consistentes na natureza e quantidade de droga apreendida e alegação genérica de empenho na prática do crime, são capazes de demonstrar a efetiva dedicação do paciente a atividades criminosas, razão pela qual deve incidir o redutor do tráfico privilegiado ao presente caso.
+Afora isso, a quantidade de entorpecentes apreendidos em poder do paciente justifica modulação da minorante (836,8 g de maconha), ensejando a redução em grau inferior, pois extrapola aquelas circunstâncias comuns ao delito de tráfico de drogas, conforme precedentes desta Corte Superior.
+Redimensionando-se a reprimenda imposta, temos:
+Mantenho a fixação da pena em 5 anos de reclusão e 500 dias-multa, conforme realizado pelas instâncias ordinárias na primeira e segunda fases. Na terceira etapa, aplico a minorante do tráfico privilegiado em 1/2, resultando a reprimenda em 2 anos e 6 meses de reclusão, e 250 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+O regime inicial deverá ser o aberto.
+A fixação da pena-base no mínimo legal e a primariedade justificam a substituição da privativa de liberdade por duas restritivas de direitos, a serem indicadas e implementadas pelo Juízo da Execução Penal.
+Em face do exposto, concedo a ordem impetrada para reconhecer a minorante do tráfico privilegiado, resultando a reprimenda do paciente em 2 anos e 6 meses de reclusão, e 250 dias-multa, no regime inicial aberto, substituída a privativa de liberdade por duas restritivas de direitos, a serem indicadas e implementadas pelo Juízo da Execução Penal (Ação Penal n. 0000638-17.2016.8.24.0135).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA E MUNIÇÃO. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. EXISTÊNCIA. PRETENSÃO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM FUNDAMENTO APENAS NA NATUREZA E QUANTIDADE DO ENTORPECENTE (836,8 G DE MACONHA). IMPOSSIBILIDADE. PRIMARIEDADE E FALTA DE INDICAÇÃO DE CIRCUNSTÂNCIAS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO EVIDENCIADO.
+Ordem concedida.
