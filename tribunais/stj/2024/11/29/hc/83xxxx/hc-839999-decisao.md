@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de PERICLES MACEDO NUBI JUNIOR - condenado pela prática dos delitos de roubos majorados, por cinco vezes, em concurso formal, e extorsão, em concurso material -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1534729-56.2022.8.26.0050), não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena, ao argumento de que, além de o art. 68, parágrafo único, do Código Penal ser norma cogente, ou seja, de incidência obrigatória, não houve fundamentação idônea para a aplicação simultânea das causas de aumento de pena referentes à restrição da liberdade das vítimas e ao uso de arma de fogo.
+Requer, assim, a concessão da ordem para o fim de cassar a decisão combatida, afastando-se a combinação das causas de aumento, considerando-se apenas o aumento relativo ao emprego de arma de fogo, nos termos do artigo 68, parágrafo único, do Código Penal (fl. 11).
+Prestadas as informações (fls. 94/158 e 162/193), o Ministério Público Federal, em parecer exarado às 195/198, manifestou-se pela concessão da ordem.
+É o relatório.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, já transitada em julgado, não existe coação ilegal capaz de justificar a superação do referido óbice.
+Com efeito, segundo o entendimento desta Corte, o art. 68, parágrafo único, do Código Penal confere ao juiz, no caso de concurso de causas de aumento previstas na parte especial, a faculdade - e não o dever - de fazer incidir a causa que mais aumente a pena, excluindo as demais. No entanto, a incidência cumulativa de majorantes demanda fundamentação lastreada em elementos concretos dos autos que evidenciem o maior grau de reprovação da conduta e, em consequência, a necessidade de sanção mais rigorosa (HC n. 742.148/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 2/8/2022, DJe 12/8/2022).
+Ademais, o Tribunal a quo, na terceira fase de fixação da reprimenda, fundamentou a escolha do incremento sucessivo da pena, pela incidência das majorantes referente à restrição da liberdade da vítima e ao uso de arma de fogo, em elementos concretos extraídos do modus operandi da ação delituosa, como o maior número de vítimas - cinco -, mantidas com a liberdade cerceada, dentro da própria residência, por tempo juridicamente relevante.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBOS MAJORADOS E EXTORSÃO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. TRÂNSITO EM JULGADO. VIA ELEITA INADEQUADA. APLICAÇÃO CONCOMITANTE DE CAUSAS DE AUMENTO DA PARTE ESPECIAL. POSSIBILIDADE MEDIANTE DEVIDA FUNDAMENTAÇÃO. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Ordem denegada.
