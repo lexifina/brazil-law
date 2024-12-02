@@ -1,0 +1,14 @@
+DECISÃO
+WASHINGTON RODRIGO DE CAMPOS FIGUEIREDO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso na Apelação Criminal n. 1001888-82.2020.8.11.0008.
+Consta dos autos que o paciente foi condenado a 11 anos e 23 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 157, § 2º, II e § 2-A, I, do Código Penal.
+A defesa aduz, em síntese, que a condenação foi embasada apenas em elementos informativos produzidos na fase inquisitorial e no reconhecimento realizado em desacordo com o art. 226 do CPP, bem como que não houve a correta individualização da pena.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 159-160).
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação com trânsito em julgado em 13/7/2023, conforme informações prestadas pela autoridade apontada como coatora (fls. 127-157). A defesa impetrou o habeas corpus em 15/1/2024, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do habeas c orpus, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de impetrações em detrimento da eficácia do recurso especial, o que dificulta a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
