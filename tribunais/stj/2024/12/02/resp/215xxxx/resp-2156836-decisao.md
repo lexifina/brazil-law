@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial, interposto por MDE - MANUFATURA E DESENVOLVIMENTO DE EQUIPAMENTOS LTDA - EM RECUPERACAO JUDICIAL, com base na alínea a do permissivo constitucional, em que se impugna acórdão promanado do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL. EM BARGOS A EXECUÇÃO. AÇÃO DE EXECUÇÃO FISCAL. TAXAS DE LIM PEZA E CONSERVAÇÃO. PARCELAM ENTO DA DÍVIDA. CONFISSÃO. EM PRESSA EM RECUPERAÇÃO JUDICIAL. PENHORA DE BEM IM ÓVEL. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O parcelamento da dívida implica na confissão irretratável do débito e a renúncia ou desistência de qualquer recurso extrajudicial ou ação judicial.
+2. Assim, operada, entre as partes, a transação para parcelamento do crédito tributário, resta consolidada a confissão e reconhecimento da dívida. Portanto, não há que se discutir a v alidade da certidão de dívida ativa.
+3. A penhora de bem imóvel tem caráter provisório, não dando ensejo à imediata expropriação de bens da sociedade empresária.
+4. Inexistente impedimento à penhora, conclui-se , portanto, que é inviável a suspensão da constrição, sob pena de inviabilizar a satisfação do crédito.
+5. Apelação cível conhecida e não provida, mantida a sentença que rejeitou os embargos do devedor.
+Opostos aclaratórios às fls. 269 - 280, os quais não foram acolhidos.
+Em suas razões recursais, expostas em fls. 293-314, a parte recorrente alega violação dos arts. 6º, § 7º-B, da Lei n. 11.101/2005, do art. 47,da Lei n. 11.101/05 e do art. 69, § 2º, inciso IV, do Código de Processo Civil, ao argumento de que a constrição deveria ter necessariamente passado pelo crivo do juízo da recuperação judicial, do contrário se inviabiliza a superação da situação que deu ensejo à recuperação judicial e à preservação da empresa.
+Sem contrarrazões.
+O recurso especial foi admitido às fls. 331-333.
+É o relatório.
+Decido.
+Em relação específica à possibilidade de penhora do imóvel sede da empresa em recuperação judicial, o Tribunal de origem assim se manifestou:
+Quanto ao segundo tema, a execução é feita em benefício do credor porque o processo é satisfativo. Logo, deve trazer uma real utilidade para ele, não podendo ser adotada como instrumento de sacrifício para o devedor. Acerca do tema, eis o ensinamento de Humberto Theodoro Júnior, no Curso de direito processual civil, 48. ed., Rio de Janeiro: Forense, 2016, vol. III, p. 224:
+Princípio da utilidade da execução.
+Expressa-se esse princípio através da afirmação de que "a execução deve ser útil ao credor"  Lopes da Costa , e, por isso, não se permite sua transformação em instrumento de simples castigo ou sacrifício do devedor.
+Em consequência, é intolerável o uso do processo executivo apenas para causar prejuízo ao devedor, sem qualquer vantagem para o credor.
+Por outro lado, a execução deve ser feita com a menor gravosidade possível para o executado. É o denominado princípio da economia da execução, assim enunciado pelo autor citado, na obra mencionada, p. 224:
+Princípio da economia da execução.
+Toda execução deve ser econômica, isto é, deve realizar- se da forma que, satisfazendo o direito do credor, seja o menos prejudicial possível ao devedor.
+Enfim, são os princípios da utilidade e da economia da execução.
+Acrescento que a penhora é ato pelo qual o magistrado realiza a fim de resguardar eventual crédito em discussão e garantir a execução, tratando-se de ato executivo provisório e permitido mesmo em face de sociedades empresárias em processo de recuperação judicial, uma vez que não impede o regular funcionamento da mesma.
+Em sentido semelhante, eis o entendimento deste Tribunal:
+EMENTA: AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EMPRESA EXECUTADA EM RECUPERAÇÃO JUDICIAL - SUSPENSÃO DO FEITO EXECUTIVO - DETERMINAÇÃO DE PENHORA NO ROSTO DOS AUTOS - POSSIBILIDADE - SUBMISSÃO AO JUÍZO UNIVERSAL DA RECUPERAÇÃO JUDICIAL - OBSERVÂNCIA. O deferimento de recuperação judicial não obsta o prosseguimento de execução fiscal, nos termos do artigo 6º, §7º, da Lei n. 11.101/05. A determinação de sobrestamento das demandas que versem sobre a prática de atos constritivos em face de empresa em recuperação judicial, nos termos do delimitado pelo eminente Ministro Relator do Recurso Especial n. 1.712484 e consoante o artigo 1.037, inciso II, do CPC, abarca tão somente as medidas constritivas que eventualmente seriam determinadas pelo Juízo da execução, sendo certo que a penhora no rosto dos autos se presta a garantir eventual crédito do executado em relação a terceiros, não se tratando, portanto, de constrição patrimonial propriamente dita. Os atos judiciais que reduzam o patrimônio da empresa em recuperação devem se submeter ao juízo da recuperação judicial, sendo certo que, na hipótese, foi determinada a realização de penhora no rosto dos autos da própria Recuperação Judicial da empresa, sendo imperiosa, portanto, a manutenção da decisão impugnada. (Ac no Agravo de Instrumento-Cv, nº 1.0024.17.004109-9/001, Relator: Desembargador Edilson Olímpio Fernandes, 6ª Câmara Cível, j. em 09.06.2020, in D Je 17.06.2020)
+Ora, a fundamentação exposta aliada ao fato de que eventual desconstituição da penhora poderia inviabilizar a satisfação do crédito, permite concluir que a medida deve prevalecer. Logo, também neste ponto, a irresignação é impertinente.
+Verifica-se que o tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de impossibilidade de penhora da sede da empresa em recuperação fiscal com enfoque no quanto exposto nos arts. 6º, § 7º-B, da Lei n. 11.101/2005, no art. 47 da Lei n. 11.101/05 e no art. 69, § 2º, inciso IV, do Código de Processo Civil.
+Não se discutiu a possibilidade de o juízo da execução fiscal determinar a constrição, nem se mencionou eventual necessidade de a constrição passar pela análise do juízo da recuperação fiscal. Também não se discorreu sobre o princípio da preservação da empresa nem a necessidade de cooperação entre os juízos da execução e da recuperação, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+Noutro lado, o recurso especial não trouxe a alegação de violação do art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual.
+Nesse sentido: AgInt no REsp n. 2.076.255/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.049.701/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃ O FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. PENHORA DA SEDE DA EMPRESA PELO JUÍZO DA EXECUÇÃO FISCAL. AUSÊNCIA DE MANIFESTAÇÃO DO TRIBUNAL DE ORIGEM ACERCA DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 211 DO STJ. RECURSO NÃO CONHECIDO.
