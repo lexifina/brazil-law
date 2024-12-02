@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual MARLY LOPES LADEIRA ASSIS se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 663):
+APELAÇÃO CÍVEL - REMESSA NECESSÁRIA CONHECIDA DE OFICIO - AÇÃO ORDINÁRIA - INDENIZAÇÃO POR DESVIO DE FUNÇÃO - SERVIDOR PUBLICO MUNICIPAL - TÉCNICO DE GESTÃO DA SAÚDE E ESPECIALISTA EM POLÍTICAS E GESTÃO DA SAÚDE - ATRIBUIÇÕES DE AMBOS OS CARGOS QUE GUARDAM SEMELHANÇAS - DESVIO DE FUNÇÃO NÃO CARACTERIZADO - SENTENÇA REFORMADA - RECURSOS VOLUNTÁRIOS PREJUDICADOS. . A configuração do desvio de função exige demonstração, que possa evidenciar, de forma segura, a convocação para habitual prática de atividades pertinentes a cargo diverso daquele para o qual o servidor fora nomeado. . Havendo semelhanças entre as funções atribuídas ao cargo de Técnico de Gestão da Saúde e Especialista em Politicas e Gestão da Saúde e inexistindo nos autos provas que assegurem que a parte autora exercia, de forma habitual, as atividades próprias do cargo paradigma, não há se falar no desvio de função alegado. . Sentença reformada. Recursos voluntários prejudicados.
+Os embargos de declaração opostos foram acolhidos sem efeitos infringentes (fls. 727/733).
+Nas razões de seu recurso especial, a parte aponta, além de dissídio jurisprudencial, violação dos arts. 11, 373, II, 374, II e III, 489, II e § 1º, IV, e 1.022, II, do Código de Processo Civil (CPC). Sustenta:
+a) nulidade do acórdão recorrido por negativa de prestação jurisdicional;
+b) o desvio de função alegado é fato incontroverso nos autos, devendo ser reconhecido o direito à indenização pretendida.
+A parte adversa apresentou contrarrazões (fls. 760/779).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inexiste a alegada violação dos arts. 11, 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+No mérito, o Tribunal de origem assim decidiu (fls. 666/670):
+A controvérsia posta nos autos consiste em verificar se agiu acertadamente o d. sentenciante ao julgar procedente o pedido de reconhecimento de desvio de função formulado pela parte autora.
+Como é cediço, o art. 37, II e XIII da CR/88, disciplina que a investidura em cargo ou emprego público depende de aprovação prévia em concurso público, ressalvadas as nomeações para cargo em comissão, sendo vedada, ainda, a vinculação ou equiparação de quaisquer espécies remuneratórias, para efeito de remuneração de pessoal do serviço público.
+Contudo, nas hipóteses em que o servidor é desviado de função e passa a exercer as atribuições atinentes a outro cargo que não aquele para o qual foi nomeado, em que pese não ser possível o reenquadramento sem concurso público, é assegurado a ele o direito à indenização pecuniária correspondente à prestação de serviço nessa condição, a fim de evitar que a Administração Pública se enriqueça ilicitamente, em detrimento do trabalho alheio.
+Tal entendimento foi sumulado no Enunciado n. 378 do col. STJ, segundo o qual "reconhecido o desvio de função, o servidor faz jus às diferenças salariais decorrentes".
+ ..
+Na espécie, colhe-se dos autos que a parte autora é servidora pública estadual efetiva, ocupante do cargo efetivo de Técnico de Gestão da saúde, Nível IV, grau B, mas alega que vem, de forma continua, desempenhando as atividades típicas do cargo de Especialista em Políticas e Gestão de Saúde.
+Em sua exordial, afirma que foi designada para compor o Núcleo de Gestão Microrregional de Juiz de Fora, juntamente com outros dois servidores da carreira de Especialista, para exercer idênticas funções e mesma carga horária.
+Sobre os referidos cargos, a Lei n. 15.462/2005, que instituiu a carreira do grupo de atividades de saúde do Poder Executivo, assim disciplina:
+ ..
+Da leitura da norma subscrita, observa-se que há incontroversa semelhança entre ambos os cargos, vez que tanto o Técnico de Gestão da Saúde, quanto o Especialista em Políticas e Gestão da Saúde podem executar atividades técnicas e administrativas no âmbito de atuação do Sistema Único de Saúde em Minas Gerais, bem como o exercício de funções de vigilância sanitária e epidemiológica.
+Dito isto e observada as provas documentais anexada aos autos, tenho que não é possível afirmar, de forma assertiva, que a parte autora exerceu, com habitualidade, atribuições especificas do cargo de Especialista em Políticas e Gestão da Saúde capaz de configurar desvio de função dada as semelhanças das atividades desenvolvidas por ambos os cargos.
+Por sua vez, as provas testemunhais também se mostram frágeis para comprovar o alegado desvio de função.
+ ..
+Importante salientar que, ainda que a parte autora detenha capacidade intelectual para exercer o cargo de Especialista, as provas colacionadas aos autos não demonstram que esta desempenhava, de forma habitual, as mesmas funções que os servidores paradigmas e que possuía a mesma autonomia que eles.
+Assim, considerando que a mera semelhança de função de dois cargos distintos não serve como supedâneo para caracterizar o desvio de função e que a parte autora não se desincumbiu do ônus de comprovar os fatos constitutivos do direito alegado, na forma do art. 373, inciso I, do CPC, entende-se que esta não faz jus ao reconhecimento de que laborou em desvio de função e, tampouco, as diferenças salariais decorrentes de tal fato, devendo a decisão de primeiro grau ser reformada.
+Como visto, o acórdão recorrido concluiu que, "observada as provas documentais anexada aos autos, tenho que não é possível afirmar, de forma assertiva, que a parte autora exerceu, com habitualidade, atribuições especificas do cargo de Especialista em Políticas e Gestão da Saúde capaz de configurar desvio de função dada as semelhanças das atividades desenvolvidas por ambos os cargos" (fl. 668).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
