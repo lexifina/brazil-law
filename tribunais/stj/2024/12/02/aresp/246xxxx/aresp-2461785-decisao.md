@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual LUIS CARLOS SIMONETI e OUTROS se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 687):
+TRIBUTÁRIO. SALÁRIO EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA COM REGISTRO NO CNPJ. EQUIPARAÇÃO A EMPRESA. EXIGIBILIDADE. APELAÇÃO PROVIDA.
+1. A questão sobre a exigência da contribuição em comento já foi decidida pelo C. Superior Tribunal de Justiça, no sentido de que a atividade do produtor rural pessoa física, desprovido de registro no Cadastro Nacional de Pessoa Jurídica (CNPJ), não se enquadra no conceito de empresa, para fins de incidência da contribuição ao salário-educação.
+2. Conforme entendimento da Corte Superior, o salário-educação é exigível do produtor-empregador rural pessoa física, constituído como pessoa jurídica, com registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, uma vez que se equipara a empresa.
+3. In casu, da análise da documentação acostada aos autos, denota-se que os impetrantes encontram-se inscritos no Cadastro Nacional de Pessoa Jurídica perante a Receita Federal, empregando vários funcionários e com amplas atividades no cultivo de frutas cítricas e cereais, o que afasta a dispensa de recolhimento de contribuição ao Salário-Educação ao produtor rural pessoa física, que tem por escopo beneficiar o pequeno produtor rural que, em regime de trabalho familiar ou com ajuda de alguns empregados, explore a atividade no campo.
+4. Apelo provido.
+Os embargos de declaração foram rejeitados (fls. 738/742).
+Nas razões de seu recurso especial, a parte alega, além de divergência jurisprudencial, violação dos arts. 5º da Lei 9.424/1996; 1º, § 3º, da Lei 9.766/1998; 45, 966, 967, 971, 982, 984, 985 e 1.150 do Código Civil; e 97, III, 108, § 1º, 109, 110, 113, § 3º, e 121 do Código Tributário Nacional (CTN). Defende a inexigibilidade da contribuição ao salário-educação de produtores rurais "pessoas físicas" por não se enquadrarem no conceito de empresa (pessoa jurídica) contido na legislação que rege esse tributo.
+A parte adversa apresentou contrarrazões (fls. 464/473).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que "a contribuição para o salário-educação tem como sujeito passivo as empresas, assim entendidas as firmas individuais ou sociedades que assumam o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não, em consonância com o art. 15 da Lei 9.424/96, regulamentado pelo Decreto 3.142/99, sucedido pelo Decreto 6.003/2006" (REsp 1.162.307/RJ, relator Ministro Luiz Fux, Primeira Seção, DJe de 3/12/2010).
+Nesse sentido, a jurisprudência das Turmas integrantes da Primeira Seção firmou-se no sentido de que o produtor rural pessoa física, quando inscrito no CNPJ, sujeita-se à incidência da contribuição. Precedentes do STJ: AgInt no REsp 1.786.468/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/6/2019; AgInt no AREsp 883.529/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 30/5/2019; REsp 1.743.901/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2019; EDcl no AgInt no REsp 1.719.395/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019; e AgInt nos EDcl no AREsp 824.665/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/3/2020.
+Com o mesmo entendimento:
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÃO SOCIAL DESTINADA AO SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL. PESSOA FÍSICA. INEXISTÊNCIA DE COMPROVAÇÃO DE INSCRIÇÃO NO CNPJ. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência do STJ adota o entendimento de que, mesmo em se tratando de contribuintes inscritos na Receita Federal como contribuintes individuais, ocorre a incidência da contribuição para o salário-educação quando for produtor rural pessoa física com CNPJ.
+Somente nos casos de produtor rural pessoa física desprovido de CNPJ é que esta Corte tem afastado a incidência do salário-educação.
+2. Entretanto, o acórdão recorrido não merece reforma, haja vista o Tribunal de origem não ter se pronunciado sobre se o recorrido, produtor rural pessoa física, possui inscrição no CNPJ. Dessarte, a revisão no julgado, para se demonstrar a existência de tal inscrição, viola o teor do enunciado insculpido na Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp n. 1.847.350/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2019, DJe de 12/5/2020.)
+Na espécie, o Tribunal de origem consignou que "os impetrantes encontram-se inscrito no Cadastro Nacional de Pessoa Jurídica perante a Receita Federal, empregando vários funcionários e com amplas atividades no cultivo de frutas cítricas e cereais, o que afasta a dispensa de recolhimento de contribuição ao Salário-Educação ao produtor rural pessoa física" (fl. 682). Assim, não há falar em modificação da conclusão adotada, por estar em consonância com a jurisprudência do STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
