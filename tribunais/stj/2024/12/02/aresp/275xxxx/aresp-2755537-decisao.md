@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ FRANCISCO MARANGONI, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 351):
+TRIBUTÁRIO - AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - TAXA - MUNICÍPIO DE BURITAMA - Decisão que indeferiu o pleito de concessão da justiça gratuita Agravo interno interposto pelo agravante.
+ASSISTÊNCIA JUDICIÁRIA - PESSOA FÍSICA - A Constituição da República, em seu art. 5º, LXXIV, prevê que "o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos" - Existindo elementos nos autos que evidenciem a falta de pressupostos para a concessão do benefício, o juiz poderá indeferir o pleito, devendo a parte comprovar o seu cumprimento, nos termos do artigo 99, §2º do Código de Processo Civil de 2015 - Documentos juntados que não demonstram a alegada insuficiência de recursos - Precedentes desse E. Tribunal de Justiça - Benefício que não deve ser concedido.
+Decisão mantida - Agravo interno desprovido.
+Opostos embargos de declaração, foram eles rejeitados, em acórdão assim sumariado (fl. 397):
+EMBARGOS DE DECLARAÇÃO - AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - TAXA - MUNICÍPIO DE BURITAMA - ASSISTÊNCIA JUDICIÁRIA - PESSOA FÍSICA. Alegação de omissão - Inocorrência - Recurso com nítido caráter infringente - Precedentes do E. Superior Tribunal de Justiça e desta C. Câmara Embargos rejeitados.
+Em seu recurso especial de fls. 222-237, sustenta o recorrente violação dos artigos 99, § 7º, 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, todos do Código de Processo Civil.
+Assevera que o r. acórdão "contrariou e negou vigência ao artigo 99, § 7º, do Novo Código de Processo Civil (NCPC), considerando que indeferida a gratuidade da justiça em sede recursal, em que pese a vasta prova documental comprobatória da situação financeira desfavorável do recorrente" (fl. 232).
+Quanto à aventada afronta aos artigos 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do CPC, assevera que "o recorrente envidou esforços para fins de prequestionar, explicitamente, as matérias de direito relativas à sua situação financeira desfavorável e no tocante à possibilidade jurídica de concessão da gratuidade da justiça em sede recursal" (fl. 232).
+O Tribunal de origem, à fls. 409-410, não admitiu o recurso especial sob os seguintes argumentos:
+O recurso não merece trânsito.
+De início, a apregoada afronta aos artigos 489 e 1.022 do Código de Processo Civil não enseja a abertura da via especial porque o acórdão não está desprovido de fundamentação. Deve observar-se que a motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo decidido, não se traduz em maltrato às normas apontadas como violadas.
+Com relação à concessão da gratuidade recursal, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça.
+Inadmito, pois, o recurso especial (págs. 222/237) com fundamento no art. 1.030, inciso V, do Código de Processo Civil.
+Em seu agravo em recurso especial às fls. 413-424, o agravante pondera que, "em nenhum momento foi apontado pedido de reexame de fatos, cláusulas contratuais, provas e/ou direito local, já que nas instâncias ordinárias restou pacífico o prequestionamento da matéria ventilada em sede de recurso especial" (fl. 420).
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a íntegra da fundamentação da decisão agravada, porquanto a agravante não infirmou especificamente nenhum dos argumentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em três fundamentos distintos e autônomos: (i) - ausência de contrariedade aos arts. 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do CPC; (ii) - incidência do enunciado 284 da Súmula do STF, uma vez que os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido; e (iii) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de reexame de fatos e provas na seara especial.
+Todavia, no seu agravo, a parte não impugnou os óbices apontados, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a íntegra da fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
