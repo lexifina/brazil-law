@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por ESTADO DO RIO DE JANEIRO contra a decisão que não conheceu do seu recurso especial, fundamentada na incidência das Súmulas 283 e 284/STF.
+Sustenta a parte agravante, em síntese, que "não há que se falar, .. , em fundamento autônomo não impugnado pelo recorrente. Trata-se, em verdade, de uma só questão (que é a única discutida no recurso especial): o reconhecimento da nulidade da execução por ser tratar de vício fundamental da execução" (fl. 276e).
+Ao final, requer o provimento do recurso, a fim de que seja dado total provimento ao seu recurso especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Sem impugnação .
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+VOTO
+Não assiste razão à parte agravante.
+Quanto à tese da nulidade do procedimento por ausência de instauração do incidente de liquidação prévia, o tribunal de origem manifestou-se nos seguintes termos (fls. 49/51e):
+Na hipótese sob comento, iniciou-se o cumprimento provisório da sentença, no qual o agravante foi condenado a restabelecer a pensão da agravada, bem como, ao pagamento dos valores retroativos desde a suspensão do benefício previdenciário.
+A controvérsia devolvida em sede recursal cinge-se a verificação da existência de error in procedendo, ante a ausência de instauração de prévio processo incidental de liquidação do julgado, tornando o título inexigível.
+(..)
+Da análise dos autos, se constata que a parte autora instruiu com planilha de cálculos, a petição que deu início a fase de cumprimento de sentença, (ids. 845/848), sendo que, a Autarquia Previdenciária, alegou, em sua impugnação, preliminarmente, a nulidade do título, em razão da ausência de liquidação do julgado.
+Ocorre que, em sua peça de defesa, veiculada nos autos do processo originário, a impugnante, apresentou planilha de cálculos, sustentando haver excesso de execução, com a indicação do valor que entendia correto.
+Intimada a parte autora, ora agravada, para se manifestar naqueles autos, houve concordância com os valores apresentados pelo impugnante.
+Ato contínuo, foi proferida decisão, que acolheu a impugnação, reconhecendo o excesso de execução e homologou o valor de R$ R$ 105.846,73 (cento e cinco mil, oitocentos e quarenta e seis reais e setenta e três centavos), apresentado pelo próprio agravante no id. 922.
+Como o comando judicial não se pronunciou acerca da ausência prévia da liquidação do julgado, os embargos de declaração foram acolhidos, havendo integração da decisão nos seguintes termos:
+"(..) "A alegação de nulidade da execução não pode ser acolhida, pois na planilha apresentada pela parte constam dados que a exequente possuía e referência aos documentos acostados aos autos. Por outro lado, após ser intimado em execução, na forma do art. 535, do CPC, o executado, ora impugnante, poderia ter cumprido espontaneamente o julgado ou apresentado os dados precisos que possui no seu acervo, contudo nada requereu. Decerto, sua omissão não pode beneficiá-lo com a nulidade da execução. Ademais, vê-se o impugnante também apresentou planilha alegando excesso na execução, o que põe fim a qualquer discussão sobre iliquidez do título executivo."
+Neste contexto fático, excepcionalmente, afigura-se-me que não há que se acolher a nulidade alegada, retornando-se a fase processual pretérita, de forma a se instaurar o incidente de liquidação pretendido, visto que tal questão foi superada, com a concordância das partes em relação ao quantum debeatur (destaques meus).
+Entretanto, a parte recorrente deixou de impugnar tais fundamentos, suficientes do acórdão recorrido, alegando, tão somente, que, o Recorrido não promoveu o indispensável processo incidental de liquidação do julgado antes de requerer a execução, a despeito de inexistirem, nos autos, elementos capazes de subsidiar a execução.
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO MOVIDA CONTRA ESTADO. CHAMAMENTO DA UNIÃO AO PROCESSO. PRODUÇÃO DE PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RAZÕES DOS EMBARGOS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO EMBARGADO. SÚMULAS 283 E 284 DO STF. SUSPENSÃO EM RAZÃO DE RESP ADMITIDO COMO REPRESENTATIVO DE CONTROVÉRSIA. DESCABIMENTO. TEMA ESPECÍFICO.
+(..)
+3. A alegação de omissão do acórdão embargado por ter a ora embargante impugnando os fundamentos da decisão do Tribunal a quo atrai a incidência, por analogia, das Súmulas 283 e 284 do STF, uma vez que não houve menção na decisão monocrática nem no acórdão em agravo regimental sobre tal ponto, de modo que restam dissociadas as razões dos embargos de declaração com relação ao constante nos autos.
+4. Quanto à suspensão do recurso especial, tendo em vista a admissão do REsp n. 1.144.382/AL como representativo de controvérsia, tem-se que este recurso trata da solidariedade passiva da União, dos Estados e dos Municípios tão somente, e não, como no caso em exame, sobre eventual chamamento ao processo de um dos entes.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1.309.607/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2012, DJe 22/08/2012).
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONCURSO DE PREFERÊNCIA. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Na leitura do acórdão recorrido, verifica-se que o Tribunal local não olvidou o fato de possivelmente existir concurso de preferência. Apenas foi consignado que a competência para análise de tal instituto seria do Juízo da Execução. Logo, não merece respaldo a tese da agravante de que foi "inobservada a existência de concursus fiscalis entre a Fazenda Nacional e Fazenda Estadual" (fl. 861, e-STJ). Nesse sentido, verifica-se que as razões recursais mostram-se dissociadas da motivação perfilhada no acórdão recorrido e que não houve impugnação de fundamento autônomo do aresto impugnado. Incidem, portanto, os óbices das súmulas 283 e 284/STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 254.814/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2013, DJe 15/02/2013).
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao agravo interno.
