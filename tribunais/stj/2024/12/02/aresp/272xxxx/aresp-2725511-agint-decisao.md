@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo interno interposto por ERBE INCORPORADORA 037 S.A. contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em virtude da ausência de impugnação específica dos fundamentos da decisão denegatória do apelo nobre (e-STJ fls. 815/816).
+Em suas razões (e-STJ fls. 820/827), a agravante sustenta que a decisão monocrática atacada não pode prosperar, já que refutou especificamente todos os fundamentos da decisão de admissibilidade.
+Ao final, requer a reconsideração da decisão atacada ou a submissão do feito ao colegiado.
+A parte contrária apresentou impugnação às e-STJ fls. 831/837, requerendo a condenação da agravante ao pagamento da multa prevista no artigo 1.021, § 4º, do Código de Processo Civil.
+É o relatório.
+DECIDO.
+Em virtude dos argumentos expostos pela parte agravante, reconsidera-se a decisão de e-STJ fls. 815/816 e passa-se à análise do apelo nobre, haja vista se encontrarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+"DIREITO PROCESSUAL CIVIL. DIREITO PRIVADO. PROGRAMA MINHA CASA MINHA VIDA. AÇÃO DE INDENIZAÇÃO. VÍCIOS DE CONSTRUÇÃO. EMENDA DA INICIAL. INÉPCIA E FALTA DE INTERESSE DE AGIR. DESCONSTITUIÇÃO DA SENTENÇA. BAIXA À ORIGEM PARA REGULAR PROCESSAMENTO.
+1. A sentença reconheceu a inépcia da inicial, por descrever de forma genérica vícios ou defeitos de construção, sem individualizar danos sofridos, dificultando a defesa das rés e aduzindo que vícios estruturais e indivisíveis, que afetam diversas unidades do conjunto imobiliário, tornam inadequadas ações individuais para a finalidade pretendida, destacando, por fim, a falta de interesse processual por não demonstrada a inviabilidade de solução administrativa para a controvérsia.
+2. A adoção de técnica processual em sentido estrito para tratar de causas, envolvendo direito de habitação popular, inviabilizaria a discussão judicial de pretensões cuja motivação essencial foi deduzida no sentido da constatação de vícios ou defeitos de construção em empreendimentos específicos com a indicação da responsabilidade das rés, enquanto responsáveis pela obra ou pela fiscalização respectiva, permitindo delinear os aspectos básicos da controvérsia.
+3. Tendo sido descrito o empreendimento e retratados vícios ou defeitos de construção comuns às moradias, eventual especificação de danos por unidade, diante da perspectiva mais ampla de danos estruturais e indivisíveis, pode ser objeto de apuração no curso da instrução sem prejuízo do processamento da inicial e sem gerar violação ao contraditório, ampla defesa e devido processo legal.
+4. Por outro lado, sendo notório o fato de que não se trata de empreendimento novo, pois entregue há vários anos, gerando ainda discussão de vícios construtivos, não resta viável acatar a solução de extinção por falta de comprovação de interesse processual. O decurso do tempo e o acúmulo de problemas não resolvidos, como narrado na inicial, é suficiente para amparar o interesse processual em demandar, mesmo porque deve ser favorecida a garantia do direito de ação e apenas, em caráter excepcional, reconhecida a falta de interesse para efeito de extinção do processo sem r e s o l u ç ã o d o m é r i t o .
+5. Quaisquer considerações mais adensadas e específicas não se revelam pertinentes, pois extrapolariam a cognição própria à admissibilidade do processo e devem ser reservadas para a fase de julgamento do próprio mérito. É prematura, assim, a extinção do processo por inépcia ou falta de interesse de agir, comportando reforma a sentença, nos termos da jurisprudência da Turma, inclusive.
+6. Apelação provida" (e-STJ fls. 667/668).
+Os embargos de declaração opostos foram rejeitados às e-STJ fls. 714/720.
+No recurso especial (e-STJ fls. 733/748), a recorrente apontou violação dos artigos 17, 319, IV, 489, §1º, IV e 1.022, II e parágrafo único, II, do Código de Processo Civil.
+Sustentou, em preliminar, a necessidade de suspender o presente feito "(..) até o julgamento do REsp 2.021.665/MS, Tema 1.118/STJ, uma vez que o recurso especial trata das mesmas questões de direito ora discutidas" (e-STJ fl. 739).
+Aduziu que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de se manifestar sobre a alegação de inexistência de pedido específico na inicial, conforme reconhecido em sentença, que conclui pelo não preenchimento dos pressupostos regulares da tramitação processual e à ausência de demonstração do interesse processual na forma de binômio necessidade/adequação.
+Suscitou, no mérito, as seguintes questões:
+i) inépcia da petição inicial, uma vez que "(..) os pedidos formulados na inicial são genéricos e não especificam os defeitos de construção cuja responsabilização pretende discutir o autor, ora recorrido" (e-STJ fl. 741); e
+ii) falta de interesse de agir, tendo em vista "(..) que não teria havido mínima demonstração do interesse processual da parte ora recorrida, principalmente por não ter sido comprovada qualquer tentativa de resolução administrativa do imbróglio" (e-STJ fl. 744).
+Ao final, requereu o provimento do recurso.
+A parte recorrida apresentou contrarrazões às e-STJ fls. 756/766.
+A insurgência não merece prosperar.
+Inicialmente, indefere-se o pedido de suspensão, porquanto o recurso não versa acerca das matérias tratadas no Tema nº 1.198/STJ (litigância predatória), vez que a discussão objeto do presente recurso especial está centrada na questão relativa à inépcia da inicial, em virtude da ausência de especificação dos pedidos formulados, bem como na falta de interesse de agir, em decorrência da não demonstração de tentativa de solução administrativa.
+Além disso, a suspensão foi determinada apenas para os processos pendentes de julgamento que tramitam nas Comarcas e no Tribunal de Justiça do Estado de Mato Grosso do Sul.
+No mais, trata-se, na origem, de ação indenizatória ajuizada pela parte ora recorrida objetivando reparação por danos morais e materiais decorrentes de vícios construtivos em imóvel residencial adquirido no programa Minha Casa Minha Vida.
+Irresignada, busca a recorrente a reforma do acórdão proferido na origem que deu provimento à apelação da autora para reformar a sentença que extinguiu o feito em razão da ausência de pressuposto processual de desenvolvimento válido e regular do processo, referente à inépcia da inicial e falta de interesse processual.
+Quanto aos artigos 489 e 1.022 do CPC, registra-se que o Tribunal de origem se pronunciou acerca da ausência de interesse processual de agir e quanto à inépcia da inicial, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+(..)
+7. Agravo interno improvido."
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+No mais, em relação à inépcia da inicial, o Tribunal local entendeu que foi deduzido no pedido inaugural a existência de defeitos na construção em empreendimentos específicos com a indicação da responsabilidade das rés, ora recorrentes, de modo que estariam delineadas os aspectos básicos da controvérsia.
+Além disso, restou consignado que a especificação dos danos pode ser objeto de apuração no curso da instrução processual sob o pálio do contraditório e ampla defesa.
+Eis a letra do acórdão quanto ao tema:
+"(..)
+De fato, o cenário processual claramente delineado para efeito de admissibilidade da devolução recursal envolveu a apuração pelo acórdão embargado da prematura e indevida extinção do processo por inépcia da inicial, decretada pelo Juízo de origem ao fundamento de descrição genérica de vícios de construção que, sendo estruturais e indivisíveis, afetando várias unidades de conjunto imobiliário, não permitiriam fosse ajuizada ação individual.
+Em contraposição a tal entendimento, constatou o acórdão embargado existir motivação essencial à pretensão inicial deduzida, permitindo delinear aspectos básicos e estruturais da lide, ressaltando ter havido suficiente descrição do empreendimento e vícios ou defeitos de construção comuns às moradias, e que a individualização dos danos estruturais por imóvel pode ser objeto de apuração no curso da instrução, sem violação ao contraditório, ampla defesa e devido processo legal" (e-STJ fl. 717).
+Para elidir essas conclusões, seria necessário o cotejo entre peças processuais e documentos dos autos, o que não envolve nenhuma análise jurídica, mas, sim, puramente fática, conduta vedada em recurso especial pela orientação contida na Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+(..)
+3. A conclusão a que chegou o Tribunal de origem, relativa à ausência de inépcia da inicial, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 1.575.377/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024)
+Por fim, o aresto recorrido reconheceu a existência de interesse processual com base na fundamentação abaixo:
+"(..) sendo notório o fato de que não se trata de empreendimento novo, pois entregue há vários anos, gerando ainda discussão de vícios construtivos, não resta viável acatar a solução de extinção por falta de comprovação de interesse processual. O decurso do tempo e o acúmulo de problemas não resolvidos, como narrado na inicial, é suficiente para amparar o interesse processual em demandar, mesmo porque deve ser favorecida a garantia do direito de ação e apenas, em caráter excepcional, reconhecida a falta de interesse para efeito de extinção do processo sem resolução do mérito.
+Quaisquer outras considerações mais adensadas e específicas não se revelam pertinentes, pois extrapolariam a cognição própria à admissibilidade do processo e devem ser reservadas à fase de julgamento do próprio mérito" (e-STJ fls. 665/666).
+Nesse cenário, a revisão do julgado para reconhecer que a parte recorrida carece de interesse processual também esbarra no óbice da Súmula nº 7/STJ.
+Ademais, a jurisprudência desta Corte Superior entende que o comparecimento da seguradora em juízo para se opor à pretensão, como no caso, configura interesse de agir.
+Nesse rumo:
+"CIVIL E PROCESSUAL CIVIL. SEGURO DPVAT. PRÉVIO REQUERIMENTO ADMINISTRATIVO. CONTESTAÇÃO EM JUÍZO DO PEDIDO. PRETENSÃO RESISTIDA. INTERESSE DE AGIR DA SEGURADA. EXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CONSECTÁRIO LEGAL DA SUCUMBÊNCIA. AUSÊNCIA DE RELAÇÃO COM A CONDIÇÃO DA AÇÃO. NATUREZA JURÍDICA DISTINTA. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça firmou o entendimento de que o prévio requerimento administrativo, quando exigido, configura requisito necessário para o preenchimento do interesse de agir, o qual se reputa presente independentemente de sua comprovação nos casos em que a seguradora comparece em juízo, opondo-se ao mérito da pretensão condenatória.
+(..)
+3. Recurso especial provido."
+(REsp n. 1.683.301/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/5/2023, DJe de 5/5/2023)
+Colaciona-se, ainda, precedente desta Corte Superior versando sobre caso análogo ao dos presentes autos:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS CONSTRUTIVOS. PROGRAMA MINHA CASA, MINHA VIDA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INÉPCIA DA INICIAL NÃO CONFIGURADA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE REQUERIMENTO ADMINISTRATIVO. INTERESSE DE AGIR. OCORRÊNCIA. PRECEDENTES. LITIGÂNCIA PREDATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem - quanto à não configuração da inépcia da inicial - demandaria necessariamente novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, por ambas as alíneas do permissivo constitucional.
+3. A jurisprudência deste Superior Tribunal é no sentido de que, "mesmo sem prévia comunicação da ocorrência de sinistro à seguradora, a recusa ao pagamento da indenização securitária faz nascer o interesse de agir do segurado" (AgInt no REsp n. 1.673.711/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/11/2019, DJe de 21/11/2019).
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.664.018/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 815/816, para, em novo exame, conhecer do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
