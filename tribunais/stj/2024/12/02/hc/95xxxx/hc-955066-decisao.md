@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de RAMON LOPES VELLOSO - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0009687-95.2020.8.16.0028) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta ao paciente pelo Juízo de Direito da Vara Criminal do Foro Regional de Pinhais da comarca de Curitiba/SC, ao argumento de que a quantidade de droga apreendida não é fundamento válido para afastar a minorante do tráfico privilegiado pois o afastamento somente pode se dar pela ausência de um dos pressupostos exigidos para sua concessão, expressamente identificados no § 4º do art. 33 da Lei n.11.343/2006, em rol taxativo que exige aplicação cumulativa (fl. 7).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as instâncias ordinárias reconheceram o benefício do § 4º do art. 33 da Lei n. 11.343/2006, na fração de 1/5, tendo o juízo justificado a fração a quo escolhida "o que se afigura considerando a quantidade e natureza das drogas", escorreito e em conformidade com o poder discricionário do julgador, atendendo-se ao que dispõe o art. 42 da referida lei (fl. 58).
+A quantidade de droga apreendida não é, por si só, suficiente para afastar a aplicação do tráfico privilegiado. Contudo, pode ser utilizada para modular a fração aplicada. No caso, com base na expressiva quantidade e na natureza do entorpecente apreendido (fl. 25 - 204 g de crack divididos em 730 pedras pequenas e duas pedras maiores, e 35 g de cocaína na forma de pó), cabível a minorante na fração de 1/5.
+A propósito: HC n. 871.249/SP, Ministra Daniela Teixeira, Quinta Turma, DJe de 19/11/2024.
+Ademais, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do habeas corpus.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO EM 1/5 COM FUNDAMENTO NA NATUREZA, DIVERSIDADE E QUANTIDADE DE DROGA APREENDIDA (204 G DE CRACK E 35 G DE COCAÍNA). POSSIBILIDADE . CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+O rdem denegada.
