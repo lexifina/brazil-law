@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto pelo BANCO DO NORDESTE DO BRASIL S/A com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, assim ementado (e-STJ Fl.99):
+"APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. APLICAÇÃO DO ART. 206, § 5º, I, DO CÓDIGO CIVIL. SENTENÇA PROFERIDA ANTES DA VIGÊNCIA DO CPC DE 2015. PRINCÍPIO DA APLICAÇÃO IMEDIATA DAS NORMAS PROCESSUAIS. PRESERVAÇÃO DOS ATOS PROCESSUAIS REALIZADOS. SÚMULA 150 DO STF. PRESCRIÇÃO RECONHECIDA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+- A prescrição da pretensão executiva observa o mesmo prazo da prescrição da ação, conforme orientação do STF (Súmula 150) e jurisprudência do STJ. - As normas processuais são de aplicação imediata, respeitados os atos já praticados sob a égide da legislação anterior, em consonância com o princípio tempus regit actum.
+- Inexistência de interrupção ou suspensão do prazo prescricional que justificasse a inobservância do prazo prescricional quinquenal para o cumprimento de sentença. Reconhecimento da prescrição da pretensão executiva diante do decurso de tempo superior ao estipulado pelo art. 206, § 5º, I, do Código Civil.
+- Sentença que extinguiu o processo com resolução do mérito mantida por seus próprios e jurídicos fundamentos."
+Não foram opostos embargos de declaração.
+Razões do recurso especial a fls. 108/114.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+O referido recurso especial foi denegado por se mostrar intempestivo.
+Daí porque foi interposto o presente recurso.
+É o relatório. Passo a decidir.
+O presente agravo em recurso especial não deve ser conhecido, pois a parte agravante não impugnou o único fundamento adotado na decisão denegatória do recurso especial, qual seja, a intempestividade do recurso especial.
+O princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito de admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando).
+Nos termos do art. 932 do CPC/2015, aplicável de forma geral aos recursos e processos originários dos Tribunais, incumbe ao relator: "III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida."
+Deveras, a falta de ataque a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, CPC/2015 e 253, parágrafo único, do RISTJ e da Súmula 182/STJ, aplicável por analogia.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. PRINCÍPIO DA DIALETICIDADE. NÃO OBSERVÂNCIA. SÚMULA N. 182/STJ. PEDIDO DE CONCESSÃO DE ORDEM DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+2. A falta de ataque a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, CPC/2015 e 253, parágrafo único, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+3. Na origem, o recurso especial não foi admitido diante do óbice da Súmula n. 7/STJ e, ainda, da ausência de comprovação adequada da suscitada divergência jurisprudencial. Todavia, no respectivo agravo, a Defesa limitou-se a arguir, genericamente, a inaplicabilidade dos referidos entraves.
+4. Para afastar a incidência da Súmula n. 7/STJ, exige-se a demonstração clara e objetiva de que a solução da controvérsia e a verificação de violação da lei federal independem do reexame do conjunto fático-probatório dos autos. Na espécie, não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido. Precedentes.
+5. Para impugnar o fundamento referente à ausência de cotejo analítico do dissídio jurisprudencial, exige-se da parte que comprove que realizou o espelhamento entre os julgados supostamente divergentes, apontando as semelhanças entre as situações de fato e a existência de diferentes interpretações jurídicas acerca do mesmo dispositivo legal, o que não foi constatado nas razões do agravo em recurso especial.
+6. Segundo a orientação jurisprudencial desta Corte, é descabido o pleito de concessão de habeas corpus de ofício como tentativa de burlar os requisitos do recurso próprio. Nos termos do art. 654, § 2º, do CPP, a concessão da ordem parte da iniciativa do próprio órgão julgador quando este detecta ilegalidade flagrante, o que não ocorre na hipótese dos autos.
+7. Agravo regimental não provido."
+(AgRg no AREsp 2.732.377/SP, Rel. Ministro OTÁVIO DE ALMEIDA TOLEDO (DESEMBARGADOR CONVOCADO DO TJSP), SEXTA TURMA, julgado em 22/10/2024, DJe de 24/10/2024)
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ APLICADA POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015" (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024).
+2. No tocante ao enunciado n. 7 da Súmula do STJ, exige-se que, além da contextualização do caso concreto, o recurso explicite as razões pelas quais se entende ser possível o conhecimento da pretensão sem a necessidade de se examinar os fatos e as provas dos autos.
+3. Agravo interno não conhecido."
+(AgInt no AREsp 2.172.770/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEGUNDA TURMA, julgado em 07/10/2024, DJe de 14/10/2024)
+"AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DEFICIÊNCIA DAS RAZÕES DO RECURSO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015, por força do art. 3º do Código de Processo Penal.
+2. Manifesto caráter protelatório dos recursos interpostos sucessivamente.
+3. Agravo regimental não conhecido, com baixa imediata dos autos após certificação do trânsito em julgado."
+(AgRg na Pet 16816/SC, Rel. Ministra MARIA ISABEL GALLOTTI, CORTE ESPECIAL, julgado em 10/09/2024, DJe de 11/10/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência do STJ, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula.
+3. Agravo interno desprovido."
+(AgInt no AREsp 2.387.034/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 17/09/2024, DJe de 26/09/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC/2015, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. FIXAÇÃO DOS HONORÁRIOS RECURSAIS. IMPROCEDÊNCIA. PEDIDO DE IMPOSIÇÃO DA MULTA POR ALEGADA LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que realmente não houve efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. Consoante a jurisprudência desta Corte, para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC/2015, é necessário, entre outros requisitos cumulativos, que a verba honorária sucumbencial seja devida desde a origem no feito em que interposto o recurso, o que não é a hipótese dos autos (agravo de instrumento).
+4. A interposição de recursos cabíveis não configura litigância de má-fé, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+5. Agravo interno desprovido."
+(AgInt no AREsp 2.554.503/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/09/2024, DJe de 11/09/2024)
+Destarte, a ausência de impugnação específica ao único fundamento adotado na decisão denegatória do recurso especial inviabiliza o conhecimento do agravo em recurso especial.
+Diante do exposto, não conheço do agravo em recurso especial. Deixo de majorar a verba honorária advocatícia sucumbencial na forma do art. 85, §11, do CPC/2015, posto que não fixada pelas instâncias ordinárias.
+Publique-se.
+EMENTA
