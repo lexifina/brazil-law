@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OSLO V S/A. da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu recurso especial apresentado no Agravo de Instrumento n. 8004903-24.2023.8.05.0000.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte alega divergência jurisprudencial e negativa de vigência aos arts. 782, § 4º, 805, 835, § 2º, e 932 do Código de Processo Civil; aos arts. 151, 205 e 206 do Código Tributário Nacional; ao art. 43, §§ 1º, 3º e 4º, do Código de Defesa do Consumidor; ao art. 7º, inciso I, da Lei n. 10.522/2002; ao art. 73 da Lei n. 13.043/2014 e aos arts. 9º, 11 e 15, inciso I, da Lei n. 6.830/1980.
+Contrarrazões apresentadas (fls. 1.026-1.052).
+O recurso especial foi inadmitido (fls. 1.278-1.289).
+Houve a interposição de agravo (fls. 1.336-1.489).
+É o relatório.
+Decido.
+Não se pode conhecer do agravo em recurso especial.
+A decisão de admissibilidade consignou:
+De início, constato que o Superior Tribunal de Justiça, constatando a multiplicidade de recursos especiais com fundamento em idêntica controvérsia, qual seja "possibilidade ou não de substituição do depósito integral do montante da exação por fiança bancária, sob o enfoque do art. 151 do CTN e do Enunciado Sumular n. 112 desta Corte", admitiu o recurso especial representativo da controvérsia (REsp 1156668/DF - Tema 378), sujeitando-o ao procedimento do art. 1.036, do CPC/15.
+No julgamento do supracitado paradigma qualificado, o Egrégio Superior Tribunal de Justiça fixou a seguinte tese:
+Tema 378:
+A fiança bancária não é equiparável ao depósito integral do débito exequendo para fins de suspensão da exigibilidade do crédito tributário, ante a taxatividade do art. 151 do CTN e o teor do Enunciado Sumular n. 112 desta Corte.
+Nesse sentido, observo que o posicionamento do acórdão está em consonância com entendimento pacífico do Superior Tribunal de Justiça sobre o seguro-garantia, impondo a aplicação da Súmula 83 do STJ. Neste ponto, destaque-se ementa do acórdão proferido no julgamento do AgInt no AREsp n. 2.127.923/SP:
+ ..
+Neste ponto, observa-se que o acórdão recorrido decidiu de forma afinada com o posicionamento firmado pela Corte Superior sobre a matéria.
+Demais disso, observo que a controvérsia versa sobre matéria de caráter repetitivo já decidida pelo Superior Tribunal de Justiça, qual seja: a "possibilidade ou não de inscrição em cadastros de inadimplentes, por decisão judicial, do devedor que figura no polo passivo de execução fiscal.". (TEMA 1.026/STJ).
+O Tribunal da Cidadania, no bojo do julgamento do Recurso Especial nº 1.814.310/RS (Leading Case), fixou a tese nos seguintes termos:
+Tema 1026:
+O art. 782, §3º do CPC é aplicável às execuções fiscais, devendo o magistrado deferir o requerimento de inclusão do nome do executado em cadastros de inadimplentes, preferencialmente pelo sistema SERASAJUD, independentemente do esgotamento prévio de outras medidas executivas, salvo se vislumbrar alguma dúvida razoável à existência do direito ao crédito previsto na Certidão de Dívida Ativa - CDA.
+Por fim, constata-se que as demais matérias constantes nos artigos apontados como violados não foram alvo de debate nos acórdãos recorridos. A falta de prequestionamento obsta o prosseguimento do recurso, em observância ao previsto nas Súmulas 282 e 356 do STF, aplicáveis à espécie por analogia. Consoante entendimento assente no Superior Tribunal de Justiça:
+ ..
+Ainda nesse sentido, também não merece prosperar eventual tese da ocorrência de pré-questionamento ficto, na medida em que o entendimento consolidado do Superior Tribunal de Justiça restringe o cabimento do recurso especial com base em pré-questionamento ficto às hipóteses em que recorrente tenha agitado o tema através da via recursal ordinária e, em caso de omissão, tenha suscitada a violação do art. 1.022, do Código de Processo Civil. A propósito:
+ ..  (fls. 1.278-1.282)
+No tocante à parte da decisão que negou seguimento ao recurso especial com fundamento no art. 1.030, inciso I, alínea b, do Código de Processo Civil (Temas ns. 378 e 1.026 do STJ), o único recurso cabível seria o agravo interno, dirigido ao próprio Tribunal de origem, conforme previsão expressa do art. 1.030, § 2º, daquele mesmo diploma normativo.
+A Corte a quo inadmitiu o apelo nobre porque o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior (Súmula n. 83 do STJ), o que leva à incidência das Súmulas ns. 282 e 356 do STF.
+Em síntese, a parte agravante sustenta:
+92. Como se vê, não há como aplicar a Súmula nº 83, deste A. STJ ao presente caso, considerando que o cenário fático em discussão é distinto do que consta do precedente citado na r. decisão agravada e, portanto, não há que se falar em suposta jurisprudência pacificada dos tribunais superiores no sentido contrário à pretensão da Agravante.
+93. Inclusive, cabe pontuar que a indicação de precedentes isolados não vincula o Julgador, uma vez que não representa o posicionamento pacificado do A. STJ. Isso porque, com o máximo respeito e acatamento, jurisprudência é um conjunto de decisões judiciais particularmente qualificadas, concentrando entendimentos pacíficos, seja porque reiterados em diversas oportunidades e por diferentes órgãos julgadores, seja porque formados em procedimentos específicos.
+94. Com efeito, o acórdão mencionado pela r. decisão (AgInt no AR Esp n. 2.127.923/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022), no sentido de "ser inviável a equiparação do seguro- garantia ou da fiança bancária ao depósito judicial em dinheiro e integral para efeito de suspensão de exigibilidade do crédito tributário; somente o depósito em dinheiro viabiliza a suspensão determinada no artigo 151 do CTN", não pode ser indicado como justificativa para alegar que o acórdão estaria "em consonância com entendimento pacífico do Superior Tribunal de Justiça sobre o seguro-garantia".
+95. Ora, como mencionado, a matéria em discussão no presente feito não diz respeito à equiparação de apólice de seguro-garantia ao depósito judicial em dinheiro, o que se discute é a impossibilidade de manutenção da inscrição de contribuinte em cadastrados de inadimplentes quando o débito executado está devidamente caucionado, considerando a própria disposição conta no o § 4º, do art. 782, do CPC (tema que, ao contrário do quanto consignado na r. decisão agravada, não possui posicionamento pacificado por esse A. STJ).
+96. Tanto isso é verdade que, conforme demonstrado pela Agravante em seu Recurso Especial esse A. STJ também possui precedentes que indicam que a utilização do sistema SERASAJUD nos processos de Execução Fiscal, restringe-se "a devedores inscritos em Dívida Ativa que, demandados em juízo, não cumpram a obrigação em cobrança", sendo certo que, no presente caso, os débitos executados estão devidamente garantidos por meio da Apólice de Seguro-Garantia, não havendo, consequentemente, como prosperar a sua inscrição no "SERASAJUD", à luz do que dispõe o § 4º, do art. 782, do CPC. Confira-se, nesse sentido, os seguintes termos de v. acórdão proferido por esse A. STJ que evidencia que o tema ainda é controvertido:
+ ..  (fls. 1.359-1.360)
+Todavia, nas razões do agravo em recurso especial, a parte não cuidou de trazer julgado algum contemporâneo ao provimento judicial agravado e proferido em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência do Superior Tribunal de Justiça, nem comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que inadmitiu o apelo nobre.
+Na espécie, a parte agravante cingiu-se a sustentar que a Súmula n. 83 do STJ não tem aplicação no presente caso por não se tratar de pedido de suspensão da exigibilidade do crédito tributário, mas, sim, de pedido de exclusão/cancelamento da inscrição do nome do contribuinte de cadastro de inadimplente, com fundamento no art. 782, § 4º, do CPC, em razão da existência de apólice de seguro-garantia apta para a garantia integral do crédito tributário.
+A propósito:
+ ..
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/R S, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Agravo interno improvido. (AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a Súmula n. 182 do STJ.
+Nessa esteira:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, o Superior Tribunal de Justiça possui entendimento no sentido de que "A Súmula 83 do STJ é de possível aplicação tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional" (AgInt no AREsp n. 1.900.711/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
