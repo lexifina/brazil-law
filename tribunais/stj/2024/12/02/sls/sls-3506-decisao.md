@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Pedido de Suspensão de Liminar formulado pelo MUNICÍPIO DE ROTEIRO/AL contra a decisão proferida no Agravo de Instrumento 0809860-24.2024.8.02.0000 pelo Tribunal de Justiça de Alagoas, que restabeleceu sentença que havia sido declarada nula pelo próprio juiz prolator e os atos dela decorrentes, inclusive a expedição de precatório no valor de R$ 122.800,00 (cento e vinte e dois mil e oitocentos reais) relativo a astreintes fixadas em ação na qual a parte autora obteve o direito de ser nomeada técnica de enfermagem.
+O requerente alega que as astreintes caracterizam enriquecimento sem causa da autora da ação principal e que essa importância poderia ser utilizada pela edilidade para outros finalidades. Assevera, também, a existência de vícios processuais e afirma a ocorrência de grave lesão à economia pública, arraigando-se nos argumentos de perigo da demora e de probabilidade do direito.
+Invoca o art. 300 do CPC, pleiteando a suspensão da decisão proferida no Agravo de Instrumento 0809860-24.2024.8.02.0000.
+É o relatório.
+Decido.
+Nos termos do art. 4º da Lei 8.437/1992, "compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas".
+A suspensão dos efeitos do ato judicial é providência excepcional, cumprindo ao requerente a efetiva demonstração da grave e iminente lesão aos bens jurídicos tutelados pela legislação de regência, quais sejam: a ordem, a saúde, a segurança e/ou a economia públicas.
+Nesse contexto, é imprescindível que a parte demonstre, mediante prova pré-constituída documental, de que forma o provimento que se quer ver suspenso pode acarretar dano grave e sério à sua economia, assim entendido aquele que obsta os investimentos públicos necessários e obrigatórios e a manutenção dos serviços públicos essenciais.
+A simples e genérica alegação de dano à economia pública e a afirmação de que os valores poderiam ser canalizados para outras finalidades não autoriza, em hipótese alguma, a suspensão da decisão de origem.
+No presente caso, nenhum dado ou elemento concreto que demonstre o sério comprometimento da Administração foi trazido aos autos. O município limita-se a invocar aspectos de mérito do julgado da origem - insuscetíveis de serem tomados em consideração no âmbito da cognição limitada e superficial do instituto da SLS -, tais como a existência de vícios processuais e de perigo da demora e probabilidade do direito, demitindo-se da demonstração inequívoca da grave lesão à economia.
+Além disso, analisar a higidez do julgado atacado não é viável na via excepcional da Suspensão de Liminar e de Sentença, que não constitui sucedâneo recursal apto a propiciar o exame do acerto ou do desacerto da decisão impugnada.
+Aqui, é nítido o propósito recursal que a parte requerente tenta emprestar à SLS, inclusive confundindo o instituto da Suspensão de Liminar e de Sentença com a tutela de urgência prevista no art. 300 do Código de Processo Civil.
+Confiram-se, sobre a impossibilidade de uso da SLS como sucedâneo recursal, os seguintes precedentes:
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. IMPOSSIBILIDADE LEGAL DE UTILIZAÇÃO DO INCIDENTE PROCESSUAL DA SUSPENSÃO COMO SUCEDÂNEO RECURSAL. NÃO COMPROVAÇÃO INEQUÍVOCA DE VIOLAÇÃO DOS BENS JURÍDICOS TUTELADOS PELA LEGISLAÇÃO DE REGÊNCIA.
+1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva lesão ao interesse público.
+2. A suspensão dos efeitos do ato judicial é providência excepcional, cabendo ao requerente a efetiva demonstração da alegada ofensa grave aos bens jurídicos tutelados pela legislação de regência, quais sejam, ordem, saúde, segurança e/ou economia públicas.
+3. As questões eminentemente jurídicas debatidas na instância originária são insuscetíveis de exame na via suspensiva, cujo debate tem de ser profundamente realizado no ambiente processual adequado.
+4. Não apontou a parte agravante situações específicas ou dados concretos que efetivamente pudessem demonstrar que o comando judicial atual não deve prevalecer com relação ao não reconhecimento de violação dos bens jurídicos tutelados pela legislação de regência. Agravo interno improvido.
+(AgInt na SLS n. 3.075/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 9/8/2022, DJe de 12/8/2022.)
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. CORREIOS. OPERADORA DO PLANO DE SAÚDE DOS FUNCIONÁRIOS. PENHORA DOS VALORES EXECUTADOS. GRAVE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. NÃO DEMONSTRAÇÃO. VIA INADEQUADA PARA A ANÁLISE DO MÉRITO DA CONTROVÉRSIA.
+1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva e grave lesão ao interesse público.
+2. O incidente da suspensão de liminar e de sentença, por não ser sucedâneo recursal, é inadequado para a apreciação do mérito da controvérsia.
+3. Agravo interno desprovido.
+(AgInt na SLS n. 2.535/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 5/8/2020, DJe de 2/9/2020.)
+Por todo o exposto, indefiro o Pedido de Suspensão.
+Publique-se.
+Intimem-se.
+EMENTA
+SUSPENSÃO DE LIMINAR E DE SENTENÇA. ASTREINTES. ALEGAÇÃO DE GRAVE DANO À ECONOMIA. IMPRESCINDIBILIDADE DE PROVA DOCUMENTAL PRÉ-CONSTITUÍDA QUE DEMONSTRE, DE MODO INEQUÍVOCO, QUE O PROVIMENTO QUE SE QUER VER SUSPENSO É APTO A OBSTAR OS INVESTIMENTOS PÚBLICOS NECESSÁRIOS E OBRIGATÓRIOS E A MANUTENÇÃO DOS SERVIÇOS PÚBLICOS ESSENCIAIS. USO DA SLS COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. ALEGAÇÃO DE PERIGO DA DEMORA E DE PROBABILIDADE DO DIREITO QUE DESBORDA DA MATÉRIA QUE PODE SER CONHECIDA EM SLS. PEDIDO INDEFERIDO.
