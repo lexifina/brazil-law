@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra, Ministra Relatora. Votaram com a Sra. Ministra Nancy Andrighi os Srs. Ministro Humberto Martins (Presidente), Ricardo Villas Bôas Cueva e Moura Ribeiro. Não participou do julgamento o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C PEDIDO DE INDENIZAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. ILEGITIMIDADE ATIVA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de Cobrança c/c pedido de indenização.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por FABIO NATANOEL JOSE MACHADO contra decisão que conheceu do agravo para não conhecer de seu recurso especial.
+Ação: Cobrança c/c pedido de indenização ajuizada por Ricardo Fontana Guimarães e Outro em face do agravante e Outros.
+Sentença: acolheu em parte "os formulados em face de Marcos Stefano Draczynski e Fábio Natanoel José Machado, para tão somente condená-los à restituição da quantia de R$365.682,93 em favor de Ricardo Fontana Guimarães e R$ 365.099,82 em favor de Alexandre Fontana Guimarães  .. " (fl. 2.194).
+Acórdão: deu parcial provimento à apelação interpostas tanto pelo agravante quanto pelos agravados, conforme ementa a seguir (fls. 2.469-2.470):
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA CUMULADA COM INDENIZATÓRIA POR LUCROS CESSANTES E PERDA DE UMA CHANCE. SENTENÇA DE PARCIAL PROCEDÊNCIA. INCONFORMISMO DE AMBAS AS PARTES.
+I - QUESTÕES PRÉVIAS 1. PRELIMINARES DE ILEGITIMIDADE ATIVA E PASSIVA ARGUIDA NO RECURSO DO RÉU.
+TEORIA DA ASSERÇÃO. PERTINÊNCIA SUBJETIVA DOS AUTORES E DOS RÉUS QUANTO À NARRATIVA FÁTICA ABSTRATAMENTE DEDUZIDA NA PETIÇÃO INICIAL. QUESTÃO QUE SE CONFUNDE COM O MÉRITO.
+II - RECURSO DOS AUTORES 2. PRETENDIDA CONDENAÇÃO SOLIDÁRIA DE TODOS OS RÉUS INDICADOS NA PETIÇÃO INICIAL. SENTENÇA QUE CONDENA SOLIDARIAMENTE APENAS DOIS DOS RÉUS INTEGRANTES DA LIDE. INVESTIMENTO DE RECURSOS FINANCEIROS EM SOCIEDADES EMPRESÁRIAS DAS QUAIS AUTORES E RÉUS AJUSTARAM NEGÓCIO PRELIMINAR DE PROMESSA DE CESSÃO DE COTAS SOCIAIS.
+ANTECIPAÇÃO DE VALORES PELOS AUTORES, CANALIZADOS PARA QUITAÇÃO DE DÉBITOS E TRANSFERÊNCIAS FINANCEIRAS EM FAVOR DAS EMPRESAS DEMANDADAS. SOBREVINDA DE RUPTURA DO NEGÓCIO IMPOSTA PELOS RÉUS QUANDO AINDA NÃO FORMADO E FIRMADO O RESPECTIVO CONTRATO.
+RESPONSABILIDADE PRÉ-CONTRATUAL MANIFESTA. VIOLAÇÃO DA BOA-FÉ OBJETIVA.
+ENRIQUECIMENTO SEM CAUSA DOS DEMANDADOS. INTELIGÊNCIA DOS ARTIGOS 422 E 884 DO CÓDIGO CIVIL. CONDUTA ILÍCITA PRATICADA EM BENEFÍCIO DIRETO DAS PESSOAS JURÍDICAS, E INDIRETO DOS SÓCIOS DESTAS. SOCIEDADES EMPRESÁRIAS QUE NÃO PODEM SER EXCLUÍDAS DA RESPONSABILIDADE PATRIMONIAL. IMPOSSIBILIDADE DE CONDENAÇÃO DOS DEMAIS SÓCIOS, DIRETAMENTE, QUE NÃO TIVERAM QUALQUER VÍNCULO NEGOCIAL COMPROVADO
+NOS AUTOS. APELO ATENDIDO EM PARTE NESTE PONTO.
+3. INDENIZAÇÃO POR LUCROS CESSANTES. FALTA DE PROVA CONCRETA DO PREJUÍZO PATRIMONIAL ALEGADO. TEORIA DO DANO DIRETO E IMEDIATO .
+INTELIGÊNCIA DO ARTIGO 403 DO CÓDIGO CIVIL. ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE APLICAÇÃO ANALÓGICA DO ARTIGO 1.031 DO CÓDIGO CIVIL. AUTORES QUE NÃO CHEGARAM A FIGURAR COMO SÓCIOS DAS EMPRESAS DEMANDADAS. AUSÊNCIA DE PROVAS E DOS REQUISITOS FORMAIS ESTABELECIDOS NA LEGISLAÇÃO EMPRESARIAL. TESE RECHAÇADA.
+"Ainda que a inexecução resulte de dolo do devedor, as perdas e danos só incluem os prejuízos efetivos e os lucros cessantes por efeito dela direto e imediato, sem prejuízo do disposto na lei processual". (artigo 403 do Código Civil) "O Superior Tribunal de Justiça tem a orientação firme de que é necessária a efetiva comprovação da ocorrência dos lucros cessantes e dos danos emergentes, não se admitindo indenização baseada em cálculos hipotéticos nem cálculos por presunção ou dissociados da realidade". (REsp 1496018/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/05/2016, DJe 06/06/2016) 4. PEDIDO SUCESSIVO DE REDISTRIBUIÇÃO DOS ENCARGOS SUCUMBENCIAIS. SUCUMBÊNCIA MÍNIMA INOCORRENTE. DECAÍDA SIGNIFICATIVA DOS AUTORES. MANUTENÇÃO DA SENTENÇA QUANTO À MATÉRIA.
+III - APELAÇÃO DE UM DOS RÉUS (FÁBIO NATANOEL JOSÉ MACHADO) 5. ALEGADA FALTA DE RESPONSABILIDADE DO RÉU/RECORRENTE POR ATO DO SÓCIO- ADMINISTRADOR. TESE QUE NÃO MERECE GUARIDA. PROVA DOCUMENTAL RELACIONADA ÀS ALTERAÇÕES DE CONTRATO SOCIAL E CONTRATO DE CESSÃO DE COTAS FIRMADO ENTRE O RECORRENTE E O SÓCIO ADMINISTRADOR QUE INFORMAM QUE, AO TEMPO DO NEGÓCIO COM OS AUTORES, O RECORRENTE DETINHA COTAS SOCIAIS EXPRESSIVAS DAS DUAS EMPRESAS OBJETO DA AVENÇA.
+SOMADA A ISTO, TROCA DE MENSAGENS POR E-MAIL ENTRE AS PARTES QUE TAMBÉM FORNECE INDÍCIOS DO CONHECIMENTO E PARTICIPAÇÃO DO RÉU/APELANTE NA NEGOCIAÇÃO COM OS AUTORES. PARTICIPAÇÃO SOCIETÁRIA DO RÉU/APELANTE BENEFICIADA PELOS APORTES FINANCEIROS REALIZADOS PELOS AUTORES, A CONFIGURAR SUA RESPONSABILIDADE PELA DEVOLUÇÃO DOS VALORES INVESTIDOS, SOB PENA DE ENRIQUECIMENTO SEM CAUSA. SENTENÇA MANTIDA TAMBÉM NESTE TÓPICO.
+6. RESPONSABILIDADE SOLIDÁRIA. INSURGÊNCIA QUANTO A SOLIDARIEDADE IMPOSTA NA SENTENÇA. PLEITO PARA QUE A RESPONSABILIDADE PELO PAGAMENTO DA CONDENAÇÃO SEJA LIMITADA AO VALOR DAS COTAS DE CADA RÉU, COM FUNDAMENTO NA ILEGITIMIDADE ATIVA DOS AUTORES, PELO FATO DE PARCELA DOS VALORES RECLAMADOS CORRESPONDER A INVESTIMENTO REALIZADO POR PESSOAS JURÍDICAS QUE NÃO INTEGRAM A LIDE. TESES NÃO ARGUIDAS PERANTE O JUÍZO DE PRIMEIRO GRAU. INOVAÇÃO RECURSAL. AFRONTA AO CONTRADITÓRIO E À AMPLA DEFESA. ÓBICE AO CONHECIMENTO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA E AFRONTA AO PRINCÍPO DO DUPLO GRAU DE JURISDIÇÃO.
+7. TERMO INICIAL DOS JUROS DE MORA. FIXAÇÃO NA SENTENÇA A PARTIR DE CADA DESEMBOLSO. PLEITO DE MODIFICAÇÃO QUE COMPORTA ACOLHIDA. DIREITO RECONHECIDO AOS AUTORES DECORRENTE DE OBRIGAÇÃO CONTRATUAL ILÍQUIDA, CUJA DATA DE VENCIMENTO É DESCONHECIDA. INCIDÊNCIA DO ARTIGO 405 DO CÓDIGO CIVIL. SENTENÇA REFORMADA PARA FIXAR A INCIDÊNCIA DOS JUROS MORATÓRIOS A PARTIR DA DATA DA PRIMEIRA CITAÇÃO VÁLIDA. INTELIGÊNCIA DOS ARTIGOS 280 DO CÓDIGO CIVIL E 240 DO CÓDIGO DE PROCESSO CIVIL.
+"Quando há pluralidade de réus, a data da primeira citação válida é o termo inicial para contagem dos juros de mora" (Informativo n. 680, de 23-10-2020, do Superior Tribunal de Justiça).
+IV - HONORÁRIOS RECURSAIS. ÊXITO PARCIAL DOS RECURSOS. VERBA ADICIONAL INDEVIDA. RECURSO DOS AUTORES CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DO RÉU, CONHECIDO EM PARTE E, NESTA PARTE, PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Decisão unipessoal: não conheceu do recurso especial em razão da incidência das Súmulas 7 do STJ e 284 do STF, bem como da ausência de comprovação do dissídio jurisprudencial.
+Agravo interno: o agravante refuta os óbices sumulares e reitera as omissões do Tribunal de origem.
+Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C PEDIDO DE INDENIZAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. ILEGITIMIDADE ATIVA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de Cobrança c/c pedido de indenização.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Diante desse contexto, deve ser mantida a decisão agravada incólume, conforme se demonstra a seguir.
+- Da violação do art. 1.022 do CPC
+Da leitura das razões recursais revela que, quanto à alegação de violação do art. 1.022 do CPC, o recurso especial está deficientemente fundamentado.
+Isso porque, é necessário que a parte agravante indique, com clareza e exatidão, o ponto omisso, obscuro ou contraditório. Além do mais, é preciso que traga também argumentação que permita a identificação da eventual ofensa.
+Deixando de demonstrar em que consistiu a violação dos mencionados artigos, incide a Súmula 284/STF.
+- Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem não demandaria o reexame de fatos e provas.
+Como exposto na decisão agravada, o TJ/SC, ao analisar a questão relativa à ilegitimidade ativa dos autores, concluiu o seguinte (e-STJ fls. 2.478-2.479):
+O réu FÁBIO NATANOEL JOSÉ MACHADO argui, em seu recurso, a ilegitimidade ativa dos autores-apelados e a sua própria ilegitimidade passiva, alegando que (a) pretendem os autores, com o ajuizamento da presente ação, a condenação dos réus/ apelantes ao ressarcimento dos supostos prejuízos que lhes foram causados no importe de 829.530,81 (oitocentos e vinte e nove mil, quinhentos e trinta reais e oitenta e um centavos). Contudo, após detida análise do contexto probatório e diante do que foi alegado pelos próprios autores, os pagamentos foram realizados em parte pelas empresas A.F.G. INDUSTRIA E COMERCIO DE ALIMENTOS LTDA (02.403.417/0001-20) e RESTAURANTE GUIMARAES LTDA (04.449.779/0001-88) e BAR MERC F GUIMARAES LTDA (CNPJ desconhecido). É que a personalidade jurídica da sociedade não se mistura e tampouco se confunde com a personalidade jurídica dos sócios, sendo distintos os direitos e obrigações de cada pessoa. Neste contexto, verifica-se que quem de fato arcou com as dívidas da empresa ré/apelada APORTE fora m as pessoas jurídicas supramencionadas e não os autores Alexandre e Ricardo, representantes daquelas empresas, assim sendo, estes não tem legitimidade para configurar no polo ativo em que se busca a cobrança por eventuais prejuízos causados às empresas qual estavam vinculadas; (b) ainda que se considere a natureza das transferências de valores realizados pelos demandantes, estes foram destinados exclusivamente à APORTE, não podendo seu sócio ser demandado diretamente por tal dívida. Isso porque, não obstante a discussão acerca do efetivo ingresso dos apelados na sociedade, do constante nos autos conclui-se ter sido a pessoa jurídica a única beneficiária do montante disponibilizado pelos recorridos.
+ .. .
+No caso vertente, os autores alegaram ter sido prejudicados em decorrência da frustração do negócio jurídico proposto a si, o qual visava à aquisição de 30% (trinta por cento) do capital social das empresas APORTE GESTÃO EMPRESARIAL E TECNOLOGIA DA INFORMAÇÃO LTDA e APORTE-E CONSULTORIA E GESTÃO LTDA, tendo realizado, antes mesmo da instrumentalização, subscrição e registro da cessão das quotas societárias na Junta Comercial, investimentos por meio da quitação de débitos e transferências bancárias em favor das sociedades empresárias. Os autores também afirmaram que os réus foram beneficiados pelos valores investidos nessas empresas.
+Deste modo, independentemente da análise das provas coligidas nos autos e do fato de os valores pagos ou investidos terem sido originados de outras empresas, há pertinência subjetiva em ambos os polos ativo e passivo, à luz da teoria da asserção, adotada pelo Superior Tribunal de Justiça para a análise das condições da ação, de modo que tais questões devem ser analisadas quando do enfrentamento do mérito da causa.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+- Da divergência jurisprudencial
+Por fim, nota-se que o recurso especial, fundamentado na alínea "c" do permissivo constitucional, apenas traz jurisprudência que o agravante entende divergir do acórdão recorrido, sem, contudo, demonstrar a existência de similitude fática ou ainda, realizar o necessário cotejo analítico.
+Dessa forma, a falta da similitude fática e do cotejo analítico, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
