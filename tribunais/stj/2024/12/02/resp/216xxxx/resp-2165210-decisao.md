@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por GRUPO OK CONSTRUCOES E EMPREENDIMENTOS LTDA (GRUPO OK) contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, de relatoria do Des. WAGNER CINELLI DE PAULA FREITAS, assim ementado:
+Agravo de instrumento. Ação de obrigação de fazer c/c indenização. Cumprimento de sentença. Pedido de compensação formulado pelo autor/exequente. Laudo pericial que deixou de observar os valores devidos pelo exequente. Decisão que homologou o laudo pericial que é anulada. Taxa Selic que só é aplicada aos débitos fazendários. Recurso conhecido e parcialmente provido (e-STJ, fl. 27).
+Não foram apresentadas contrarrazões (e-STJ, fl. 79).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+GRUPO OK, nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, alegou a violação dos arts. 406 do CC, 927 do CPC, Tema 176 do STJ, ao sustentar (1) que a taxa SELIC não deve ser aplicada exclusivamente a débitos fazendários, mas também como indexadora de juros e correção monetária no âmbito privado; e, (2) dissenso jurisprudencial.
+(1) Da suscitada aplicabilidade, ao caso, da taxa SELIC e (2) Do alegado dissenso jurisprudencial
+O Tribunal de Justiça do Estado do Rio de Janeiro concluiu que por estar incompleto o laudo pericial, a decisão homologatória deveria ser anulada, a fim de que fosse complementada a perícia com o pedido de compensação formulado pelas partes, mas sem incidência da Taxa SELIC, pois ela se restringe aos débitos fazendários.
+Confira-se:
+A decisão que determinou a realização da perícia contábil e que está a fls. 758 dos autos principais foi clara no sentido de que a perícia tinha por objeto apurar o valor correto para compensação, tendo em vista que, o exequente busca a compensação entre o seu crédito e o débito que possui junto ao executado. Ressalte-se que referido valor pode ser obtido na própria ação em que realizada a perícia, não havendo que se falar em processo em curso perante o Juízo da Barra da Tijuca, como constou dos esclarecimentos do perito. O débito que o exequente possui junto à ora agravante decorre do saldo devedor ainda existente, tendo em vista que o exequente informa que pagou apenas 33,21% do saldo devedor (fls. 749/757 dos autos principais). Dessa forma, o laudo pericial está incompleto, pois, deixou-se de realizar o cálculo do valor ainda devido pelo exequente, a título de saldo devedor, a fim de possibilitar a compensação pretendida pelas partes. Com relação à aplicação da Taxa Selic, sua utilização é restrita aos débitos fazendários, não sendo aplicável, portanto, na presente hipótese. Pelo exposto, É DADO PARCIAL PROVIMENTO AO RECURSO, para anular a decisão que homologou o laudo pericial e determinar a complementação da perícia a fim de que seja apurado o débito do autor/exequente junto à agravante, a fim de que seja permitida a compensação entre as dívidas (e-STJ, fl. 28 - sem destaques no original).
+A alegação recursal de que a taxa SELIC seria aplicável indistintamente aos débitos fazendários ou não fazendários perde relevo na hipótese dos autos porque, aqui, existe decisão judicial transitada em julgado afastando a sua incidência.
+Conforme trecho da petição do agravo de instrumento manejado pela própria parte recorrente, a decisão judicial em execução determinou que seriam aplicáveis juros de mora de 0,5% e de 1% ao mês, mais correção monetária pelo INPC.
+Anote-se:
+Portanto, considerando que o STJ possui o entendimento pacificado pelo tema 176 de que "os juros de mora devem ser aplicados no patamar de 0,5% ao mês, na forma do art. 1.062 do Código Civil de 1916, até a entrada em vigor do Código Civil de 2002, quando, nos termos do art. 406, passarão a ser calculados com base na taxa Selic, por ser a taxa dos juros moratórios a que se refere este último dispositivo legal" é evidente que a sua aplicação deve prevalecer no presente caso e a decisão proferida pelo juízo de piso deverá ser reformada, afim de afastar a incidência de correção monetária pelo INPC e juros de mora de 0,5 e 1% (e-STJ, fl. 9).
+Assim, considerando que já foi proferida a sentença e estipulada a incidência de juros e correção monetária, tal qual noticiado pela parte recorrente, e, estando a presente demanda em fase de cumprimento de sentença, a inaplicabilidade da taxa SELIC deve ser mantida por outro fundamento: a necessidade de respeito à coisa julgada.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. FIXAÇÃO EM PERCENTUAL DIVERSO DA LEGISLAÇÃO GERAL DE REGÊNCIA. MATÉRIA DEDUZIDA NA FASE DE CONHECIMENTO. SUBMISSÃO À COISA JULGADA. INVIABILIDADE DE SUSCITAR EM LIQUIDAÇÃO OU CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada. Incidência da Súmula n. 83/STJ.
+2. Na hipótese, haja vista o título judicial consignar expressamente índices de correção monetária e de juros de mora, a sua substituição pela taxa Selic - na fase de cumprimento de sentença - viola a coisa julgada.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.478.947/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTEDEMANDADA.
+ ..
+2. Consoante a jurisprudência desta Corte Superior, proferida a sentença após a entrada em vigor do Código Civil de 2002, é inviável a alteração do percentual fixado a título de juros moratórios na execução, sob pena de ofensa à coisa julgada. Inafastável a Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.886.657/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j.7/6/2021, DJe 11/6/2021 - sem destaques no original).
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL.CPC/15. CUMPRIMENTO DE SENTENÇA PROFERIDA APÓS A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002. ALTERAÇÃO NA TAXA DE JUROS DE MORA. OFENSA A COISA JULGADA. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO (AgInt no REsp 1.792.606/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 27/5/2019, DJe 3/6/2019 - sem destaques no original).
+AGRAVO INTERNO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA EXARADA APÓS A VIGÊNCIA DO CÓDIGO CIVIL DE 2002. COISA JULGADA. ALTERAÇÃO DO PERCENTUAL DE JUROS MORATÓRIOS. NÃO CABIMENTO. COISA JULGADA. RECURSO NÃO PROVIDO.
+ ..
+2. No caso dos autos, contudo, quando formado o título executivo, já estava em vigor o CC/2002, de modo que caberia à recorrente, à época, insurgir-se contra o percentual ali fixado, o que não ocorreu, de modo que não há como afastar o entendimento de que, na fase de liquidação ou cumprimento de sentença, é inviável a alteração do critério estabelecido no título judicial exequendo para a correção monetária e juros, sob pena de ofensa à coisa julgada. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.211.244/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j.3/8/2017, DJe 14/8/2017 - sem destaques no original).
+Nessas condições, NEGO PROVIMENTO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE APLICAÇÃO DA TAXA SELIC. AFRONTA À COISA JULGADA. RECURSO ESPECIAL NÃO PROVIDO.
