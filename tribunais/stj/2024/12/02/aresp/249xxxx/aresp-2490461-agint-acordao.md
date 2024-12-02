@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE E USUCAPIÃO JULGADAS EM CONJUNTO. DECADÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA NATUREZA PÚBLICA DO BEM E QUE OS PARTICULARES EXERCEM MERA DETENÇÃO SOBRE O IMÓVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1.  Insurgem-se os recorrentes contra o acórdão por meio do qual foi desprovida a apelação e mantida a sentença de procedência da ação reivindicatória do ESTADO DO PARANÁ e de improcedência da ação de usucapião, alegando, entre outras matérias, afronta ao art. 54 da Lei 9.784/1999, em relação a alegada decadência administrativa.
+2. O acórdão recorrido, todavia, não tratou de decadência administrativa, tampouco foram opostos embargos de declaração para sanar potencial omissão do órgão julgador sobre esse ponto, faltando ao recurso o necessário prequestionamento, o que atrai a incidência do enunciado da Súmula 282/STF.
+3. No mais, é inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+4.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por CLEVERSON SELUCHINESK, DOLÍRIA PEREIRA SELUCHINESK, FRANCIANI ROBERTA DA SILVA e MARILDA GOMES DA SILVA contra a decisão vista às fls. 905-907, por meio da qual não foi conhecido do recurso especial.
+O agravante sustenta, em síntese, que é inaplicável ao caso o enunciado da Súmula 280/STF, uma vez que a legislação local foi mencionada no acórdão apenas para esclarecer a origem da doação e assim demonstrar a licitude do negócio jurídico apresentado. Ainda argumenta a inaplicabilidade da Súmula 282/STF, porque a matéria deduzida no recurso especial foi efetivamente prequestionada, ainda que de forma implícita, e a inaplicabilidade da Súmula 7/STJ, pois o acórdão delineou pormenorizadamente as circunstâncias fáticas das provas, descreveu as datas, os documentos, o conteúdo desses documentos e a sua finalidade respectiva, estando permitida a discussão acerca da conclusão jurídica por meio do recurso especial. Pugna pela reconsideração da decisão ou pelo provimento ao recurso.
+Intimado, o agravado deixou de responder ao recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE E USUCAPIÃO JULGADAS EM CONJUNTO. DECADÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA NATUREZA PÚBLICA DO BEM E QUE OS PARTICULARES EXERCEM MERA DETENÇÃO SOBRE O IMÓVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1.  Insurgem-se os recorrentes contra o acórdão por meio do qual foi desprovida a apelação e mantida a sentença de procedência da ação reivindicatória do ESTADO DO PARANÁ e de improcedência da ação de usucapião, alegando, entre outras matérias, afronta ao art. 54 da Lei 9.784/1999, em relação a alegada decadência administrativa.
+2. O acórdão recorrido, todavia, não tratou de decadência administrativa, tampouco foram opostos embargos de declaração para sanar potencial omissão do órgão julgador sobre esse ponto, faltando ao recurso o necessário prequestionamento, o que atrai a incidência do enunciado da Súmula 282/STF.
+3. No mais, é inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+4.  Agravo  interno  desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+A despeito do esforço argumentativo da parte recorrente, verifico que não logrou demonstrar o desacerto da decisão agravada, cujos fundamentos, então, devem ser mantidos.
+Cinge-se a controvérsia posta neste recurso à  análise  do  acerto  da  decisão  que  deixou  de  conhecer do  recurso  especial,  em  razão  dos óbices das Súmulas 280 e 282/STF; e 7/STJ.
+No recurso especial, os recorrentes alegam afronta ao artigo 177 do CC/1916 quanto ao prazo prescricional aplicado à espécie, e ao art. 54 da Lei 9.784/1999, em relação a alegada decadência administrativa. No mérito, argumentam violação aos arts. 1.165 e 1.880 do CC/1916; e arts. 100, 102 e 1.028 do CC/2002, destacando que, uma vez doado a entidade privada, o bem passa a ter natureza jurídica privada, abrindo espaço para a incidência da usucapião.
+O acórdão recorrido, todavia, não tratou de decadência administrativa, tampouco foram opostos embargos de declaração para sanar potencial omissão do órgão julgador sobre esse ponto, faltando ao recurso o necessário prequestionamento, o que atrai a incidência do enunciado da Súmula 282/STF, segundo a qual "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+No mais, a alteração da conclusão do Tribunal a quo, acerca da natureza jurídica do bem imóvel objeto do debate, e dos arranjos que sucederam a doação e a sua reversão, a fim de verificar a presença dos p ressupostos para a ação reivindicatória, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Consta no acórdão recorrido, por pertinente:
+O Estado do Paraná ajuizou a vertente ação de reintegração de posse em face dos Apelantes, na qual alegou ser proprietário do bem imóvel de Matrícula n. 28.319, do 3º Cartório de Registro de Imóveis de Curitiba.
+Consoante outrora destacado na fundamentação da preliminar alegada, é prescindível a comprovação de posse fática anteriormente exercida pelo ente federativo haja vista que a posse decorre da expressão da propriedade por se tratar de bem público.
+Conforme já ressaltado no acórdão que apreciou a apelação cível interposta na ação de usucapião n. 0051694-67.2012.8.16.0001, a sucessão fática que recai sobre o bem imóvel permite concluir que o interesse público não se desnaturou. A permanência sob o domínio particular decorrente do contrato de doação fora realizada para, então, cumprir finalidade pública, vale dizer, construção da sede para o acolhimento dos deficientes visuais (R-1/28.319).
+Os fatos e fundamentos jurídicos, então, apurados nos Autos levaram à conclusão de que a Escritura Pública de Reversão da Doação conduziu o bem imóvel ao status quo ante, vale dizer, o não cumprimento do encargo pelo Donatário fora inconteste e, em razão disso, a titularidade do bem imóvel fora restituída ao Estado do Paraná.
+Assim, mesmo diante da sucessão fática, o bem imóvel não perdeu, em nenhum momento, a qualidade de bem público.
+Assim, o pedido realizado pelo Estado do Paraná para a retomada do bem imóvel está amparado pelo contexto fático e probatório produzido nos Autos, seja sob o viés da ação de reintegração (haja vista a decorrência da posse como expressão da propriedade por se tratar de bem público), ou mesmo sob os requisitos da ação reivindicatória.
+ ..
+Portanto, os pressupostos para o ajuizamento da ação reivindicatória são o domínio da área reivindicada, devidamente discriminada, e a demonstração da posse ou detenção injusta.
+Seja numa ou noutra modalidade, é certo que está garantido ao Apelado a devolução do bem imóvel a seu patrimônio tendo em vista a prova do domínio/posse do bem. Além disso, fora comprovado que os Apelante mantinham, apenas, a detenção do bem imóvel (ocupação injusta).
+Assim, fora destacado nos Autos em apenso a qualidade do bem imóvel (bem público), a prova do justo título da propriedade por parte do Ente Federado, bem como a ocupação injusta pelos Apelantes.
+ ..
+Nesse contexto, restou comprovada a posse prévia do Estado do Paraná que decorre de seu direito de propriedade (haja vista se tratar de bem público) bem como a posse injusta dos Apelantes.
+ ..
+Além disso, o título do domínio do bem imóvel pelo Estado do Paraná, aliado a posse injusta dos Apelantes (detenção) lhe garante reaver o bem e reintegrá-lo ao Patrimônio Público.
+Pelas razões expostas e pelo contexto fático-probatório, não se verifica qualquer irregularidade a ser sanada na decisão judicial, aqui, objurgada, uma vez que proferida em consonância com o material probatório juntado aos Autos.
+Destarte, entende-se que não deve ser concedida tutela jurisdicional à pretensão recursal deduzida, razão pela qual deve ser integralmente manutenida a respeitável decisão judicial, aqui, objurgada, por seus próprios e bem lançados fundamentos de fato e de Direito (fls. 813-817).
+Nesse sentido: "O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ)" (AgInt no AREsp n. 2.190.821/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Isso posto, nego provimento ao recurso.
