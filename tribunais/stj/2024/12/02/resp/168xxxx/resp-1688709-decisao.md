@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por MASTER FOMENTO COMERCIAL LTDA em face de acórdão assim ementado (e-STJ, fls. 344/345):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. INDENIZAÇÃO. INCLUSÃO INDEVIDA DO NOME DA AUTORA NO BANCO DE DANOS DO SERASA E SPC. EMPRESA DE FACTORING. RESPONSABILIDADE DO ENDOSSATÁRIO. POSSIBILIDADE. SÚMULA 475/STJ. QUANTUM IDENIZATÓRIO. FUNÇÕES COMPENSATÓRIA E PENALIZANTE DA INDENIZAÇÃO. SENTENÇA MANTIDA.
+1. No endosso translativo, em que o credor originário do título transfere a outrem todos os seus direitos creditícios, o endossatário assume também a responsabilidade por eventual vício no título de crédito, seja intrínseco ou extrínseco, ressalvado o direito de regresso contra os endossantes e avalistas (Súmula 475 do STJ).
+2. Em virtude da responsabilidade do endossatário do título, a empresa de factoring deve ser responsabilizada pela inclusão do nome da autora em cadastros de inadimplentes, se as cártulas de cheques devolvidas sem provisão de fundos eram falsificadas. 2.0 valor fixado à título de compensação por danos morais deve ser proporcional às funções compensatória e penalizante da indenização.
+3. Mantém o valor indenizatório fixado na instância a quo - R$ 5.000,00 (cinco mil reais) por considerar que a quantia atende adequadamente aos padrões da razoabilidade e da proporcionalidade.
+4. Recursos desprovidos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta a existência de fatos incontroversos um relativo à emissão de cheques por falsários, que abriram a conta em nome da recorrida e emitiram cheques colocados em circulação; e o outro sobre a devolução, por insuficiência de fundos.
+Aduz a excludente de responsabilidade prevista no art. 14, § 3º, II, do Código de Defesa do Consumidor, pela total ausência de culpa da recorrente, na inclusão do nome da recorrida no SPC, em virtude da devolução dos cheques por "insuficiência de fundos" e não por qualquer outro motivo que denunciasse a fraude.
+Defende que a culpa poderia ser atribuída apenas ao banco que permitiu a abertura da conta de depósito por falsários e, portanto, que a inclusão do nome da recorrida não constituiu ato ilícito, nos termos do art. 188, I, do Código Civil.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Da acurada análise do acórdão recorrido verifico que o Tribunal de origem reconheceu a responsabilidade da recorrente, uma vez que (i) tratando-se de endosso translativo, caso dos autos, em que o credor originário do título transfere a outrem todos os seus direitos creditícios, o endossatário assume também a responsabilidade por eventual vício no título de crédito, seja intrínseco ou extrínseco; e (ii) a responsabilidade que lhe fora atribuída deriva do fato de ter assumido a posição de credora, situação que lhe garante todos os direitos incorporados ao título, mas também impõe o dever de arcar com eventual dano decorrente de possíveis vícios, ressalvado, por certo, o direito de regresso contra endossantes e avalistas. Confira-se:
+Da análise dos autos, verifica-se que a segunda ré (primeira apelante), empresa que atua no exercício da atividade comercial de factoring, procedeu à inscrição do nome da autora (segunda recorrente) nos cadastros do SPC e do SERASA em razão da emissão de cártulas de cheques sem provisão de fundos.
+Na inicial, a autora afirmou ter sido vítima de falsários, visto que jamais emitiu as referidas cártulas de cheque, fato não impugnado pela segunda ré (apelante) ao contestar o feito, ocasião em que defendeu tão somente que não pode ser responsabilizada por ato praticado por terceiro.
+De acordo com o entendimento firmado no Col. Superior Tribunal de Justiça, por meio da Súmula nº 475, "Responde pelos danos decorrentes de protesto indevido o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando ressalvado seu direito de regresso contra os endossantes e avalistas".
+Logo, tratando-se de endosso translativo, caso dos autos, em que o credor originário do título transfere a outrem todos os seus direitos creditícios, o endossatário assume também a responsabilidade por eventual vício no título de crédito, seja intrínseco ou extrínseco.
+Contrariamente ao defendido pela demandada (primeira apelante), não se pretende responsabilizar o endossatário por fato inerente ao negócio jurídico subjacente à emissão das cártulas de cheque.
+A responsabilidade que lhe fora atribuída deriva do fato de ter assumido a posição de credora, situação que lhe garante todos os direitos incorporados ao título, mas também impõe o dever de arcar com eventual dano decorrente de possíveis vícios, ressalvado, por certo, o direito de regresso contra endossantes e avalistas.
+Portanto, tendo em vista a responsabilidade do endossatário, não há que se falar em culpa exclusiva de terceiro a incidir a regra do artigo14, § 3º inciso II, do Código de Defesa do Consumidor. Pela mesma razão, torna-se irrelevante o argumento da ré (primeira apelante) de que os cheques foram devolvidos por insuficiência de fundos, e não por irregularidade na assinatura  ..  (e-STJ, fl. 350).
+Nos temos da jurisprudência desta Corte, responde pelos danos decorrentes de protesto indevido/negativação indevida o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando ressalvado seu direito de regresso contra os endossantes e avalistas.
+Nesse sentido, confira-se o seguinte precedente:
+DIREITO CIVIL E CAMBIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. DUPLICATA DESPROVIDA DE CAUSA RECEBIDA POR ENDOSSO TRANSLATIVO. PROTESTO. RESPONSABILIDADE DO ENDOSSATÁRIO.
+1. Para efeito do art. 543-C do CPC: O endossatário que recebe, por endosso translativo, título de crédito contendo vício formal, sendo inexistente a causa para conferir lastro a emissão de duplicata, responde pelos danos causados diante de protesto indevido, ressalvado seu direito de regresso contra os endossantes e avalistas.
+2. Recurso especial não provido.
+(REsp n. 1.213.256/RS, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 28/9/2011, DJe de 14/11/2011.)
+Note-se que, ao assim decidir, o Tribunal de origem permaneceu em consonância com a jurisprudência do STJ, incidindo, no ponto, o óbice da Súmula 83 desta Corte.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
