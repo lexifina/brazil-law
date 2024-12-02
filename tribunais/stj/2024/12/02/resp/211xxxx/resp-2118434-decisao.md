@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE para impugnar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE assim ementado (fl. 60):
+PROCESSUAL CIVIL. DECISÃO QUE INDEFERIU A TUTELA DE URGÊNCIA PLEITEADA. AGRAVO DE INSTRUMENTO. ADAPTAÇÃO DE ESCOLA PÚBLICA ESTADUAL. DIREITO À ACESSIBILIDADE. PRESSUPOSTO PARA O PLENO GOZO DO ACESSO À EDUCAÇÃO POR PESSOAS PORTADORAS DE DEFICIÊNCIA FÍSICA, TEMPORÁRIA OU PERMANENTE. ÓBICE ORÇAMENTÁRIO. AGRAVO CONHECIDO E DESPROVIDO.
+1. A adaptação da instituição de ensino estadual, no que concerne ao aspecto de acessibilidade às pessoas portadoras de deficiência ou mobilidade reduzida implica despe sa pública, de modo que qualquer medida constritiva e não programadas no orçamento do ente público pode inviabilizar o funcionamento da máquina.
+2. Agravo de Instrumento conhecido e desprovido.
+Opostos embargos declaratórios pelo recorrente, foram eles rejeitados (fls. 89/94).
+No recurso especial, interposto com fundamento exclusivo em a, o recorrente alega violação ao art. 1.022, II, do CPC, haja vista a existência de omissão no acórdão recorrido não superada a despeito da oposição de embargos declaratórios. No cerne, aponta como violados os arts. 6º e 40 a 46 da Lei 4.320/64.
+Recurso admitido, por decisão fundamentada (fls. 121/126).
+É o relatório.
+Rejeito, primeiramente, a alegação de violação ao art. 1.022, II, do CPC, já que a leitura do acórdão recorrido revela que foi conferida solução à controvérsia de forma fundamentada e exauriente, ainda que sucinta. Além disso, não configura defeito de fundamentação a solução conferida à causa que não atende ao anseio da parte.
+De resto, não cabe conhecer do recurso especial quanto à alegação de violação aos arts. 40 a 46 da Lei 4.320/64, haja vista que, na peça recursal, o recorrente limitou-se à transcrição acrítica de tais dispositivos legais, sem nenhum esforço argumentativo no sentido de demonstrar ao Tribunal qual dos preceitos efetivamente teria sido violado, ou ainda como teria ocorrido tal violação. Aplica-se, no ponto, o óbice ao conhecimento do recurso consolidado na Súmula 284/STF.
+Quanto à alegada violação ao art. 6º da Lei 4.620/64, identifica-se nova hipótese de incognoscibilidade do recurso especial, por ausência de interesse recursal, haja vista que o acórdão recorrido não negou vigência ao dispositivo legal em exame, tendo, na verdade, mantido a decisão recorrida invocando justamente a aplicação de tal preceito ao caso concreto.
+Além disso, para justificar a observância do preceito do art. 6º no caso concreto, o acórdão recorrido afirmou que "é cabível a suspensão do feito até que as medidas orçamentárias sejam concluídas, em virtude da ausência de urgência nas reformas dos estabelecimentos de ensino médio e fundamental, que justifiquem medidas constritivas e não programadas no orçamento da pessoa jurídica de direito público" (fl. 63).
+Esse fundamento não foi objeto de impugnação clara e tampouco específica no recurso especial, circunstância que impede, por si mesma, o conhecimento do recurso, presente o óbice da Súmula 283/STF.
+Por fim, não cabe a este Tribunal Superior sindicar o caso concreto de modo a avaliar o acerto ou equívoco do acórdão recorrido quanto à alegada ausência de urgência para as reformas que o recorrente deseja ver ultimadas, providência que demandaria inevitável reexame do substrato fático-probatório da causa, inviável em recurso especial nos termos da Súmula 7/STJ.
+Ante o exposto, conheço em parte do recurso especial e, na extensão do conhecimento, a ele nego provimento.
+Publique-se. Intimem-se.
+EMENTA
