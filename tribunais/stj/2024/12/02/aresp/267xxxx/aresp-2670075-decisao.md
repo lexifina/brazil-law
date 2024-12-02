@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO que inadmitiu recurso especial dirigido ao acórdão prolatado no Agravo de Instrumento n. 5004705-88.2022.8.08.0000, assim ementado (fl. 152):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - PROCEDIMENTO DO ART. 40 LEI N. 6.830/1980 - JURISPRUDÊNCIA DO C. SUPERIOR TRIBUNAL DE JUSTIÇA - MATÉRIA DE ORDEM PÚBLICA - RECURSO DESPROVIDO COM EFEITO TRANSLATIVO.
+1. Juntadas as peças obrigatórias e facultativas necessárias, não há vício na formação do instrumento, porque atendido o art. 1.017 do Código de Processo Civil. Preliminar rejeitada;
+2. O mérito do presente recurso gira em torno do procedimento descrito no art. 40 da Lei n. 6.830/1980 - Lei de Execução Fiscal, sobre o qual o c. Superior Tribunal de Justiça editou a Súmula n. 314, cujo teor é: "Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição qüinqüenal intercorrente";
+3. Também o c. STJ fixou, em sede de recurso especial repetitivo, o entendimento de que o procedimento previsto no artigo 40 da Lei n. 6.830/1980 se inicia automaticamente depois de intimada a Fazenda Pública sobre a não localização do devedor e/ou bens sobre os quais possam recair a penhora (STJ, R Esp n. 1.340.553/RS, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, j. 12/09/2018, D Je: 16/10/2018, Temas 567 e 571);
+4. Argumenta o agravante que, em razão da pendência do pedido de consulta aos sistemas RENAJUD e INFOJUD, não poderia o d. Juízo de origem ter ordenado a suspensão da execução fiscal em 05/11/2021 - data da r. decisão agravada;
+5. Dos documentos juntados, extrai-se que o Município agravante tomou conhecimento da não localização dos sócios devedores ou de bens penhoráveis em 01/02/2018, data em que, no já apresentado entendimento do c. STJ, teve início, de forma automática e ex lege, o prazo de 1 (um) ano de suspensão da execução. Tal prazo se encerrou em 01/02/2019, iniciando, a partir daí, o curso da prescrição intercorrente;
+6. O início da suspensão do art. 40 da Lei de Execução Fiscal, nos moldes fixados pelo c. Superior Tribunal de Justiça, se caracteriza como matéria de ordem pública e, como tal, pode ser conhecido de ofício, ante o efeito translativo do recurso de agravo de instrumento, sem que isso implique reformatio in pejus;
+7. Recurso desprovido com efeito translativo.
+Rejeitaram-se os embargos de declaração (fls. 187-195)
+A parte agravante alega, além de divergência jurisprudencial, violação dos arts. 489 e 1.022 do CPC. Afirma que o acórdão recorrido é omisso por não ter se manifestado sobre a citação e a penhora, pois entende que são marcos temporais que interrompem a contagem do prazo prescricional da execução fiscal.
+Contrarrazões às fls. 394-400.
+Decisão de admissibilidade negando o seguimento do recurso especial às fls. 401-410.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, passo ao exame do recurso especial.
+No julgamento dos embargos de declaração, o Tribunal local consignou (fl. 191):
+Como visto, aduz o embargante que o v. acórdão é omisso quanto à interrupção da prescrição intercorrente (id. 3613072).
+Sem maiores delongas, não há razão na alegação, notadamente porque o recurso definiu tão somente a data em que se iniciou o período de suspensão a que se refere o art. 40 da Lei de Execução Fiscal e, consequentemente, a data em que passou a correr a prescrição intercorrente.
+Eventuais fatos que levem à interrupção do prazo devem ser apreciados, ao menos pela primeira vez, pelo d. Juízo de origem, a partir do termo inicial fixado no v. acórdão embargado. Do contrário, havia supressão de instância, vedada por nosso ordenamento jurídico, o qual assegura o duplo grau de jurisdição.
+A tese da interrupção da prescrição, sob o argumento de omissão do acórdão por ausência de manifestação sobre a citação e a penhora, não foi suscitada pela parte recorrente no momento oportuno, constituindo inovação ocorrida na oposição dos embargos de declaração. Portanto, inexiste omissão quanto ao ponto. Além disso, por essa razão, o tema carece do prequestionamento, nos termos da Súmula n. 211 do STJ. Nesse sentido: AgInt no AREsp n. 2.160.959/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023; AgInt no REsp n. 1.366.628/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/6/2023, REPDJe de 4/9/2023, DJe de 30/6/2023.
+Segundo entendimento desta Corte Superior, a existência de óbice processual impedindo o conhecimento de questão suscitada pela alínea a da previsão constitucional prejudica a análise da alegada divergência jurisprudencial acerca do mesmo tema. Confiram-se precedentes: AgInt no AREsp n. 2.370.268/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023; AgInt no REsp n. 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por se tratar, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. ACÓRDÃO RECORRIDO. OMISSÃO. INEXISTÊNCIA. INOVAÇÃO RECURSAL NOS EMBARGOS DECLARA TÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
