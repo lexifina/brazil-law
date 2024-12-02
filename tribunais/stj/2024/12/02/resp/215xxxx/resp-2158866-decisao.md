@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por CÂMARA DE DIRIGENTES LOJISTAS DE PORTO ALEGRE em face de acórdão assim ementado (e-STJ, fl. 178):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE CANCELAMENTO DE REGISTRO. INSCRIÇÃO EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. NOTIFICAÇÃO PRÉVIA. SMS. INADEQUAÇÃO.
+1. Hipótese em que o consumidor foi notificado exclusivamente por SMS acerca da inscrição negativa em cadastro de restrição ao crédito.
+2. Consoante jurisprudência deste Tribunal, as notificações via e-mail e/ou mensagem de texto (SMS) não dispensam a comunicação enviada pelo correio, tendo em vista expressa exigência legal (art. 43, § 2º, do CDC). Ausente prova do envio postal de carta de comunicação acerca do apontamento para inscrição negativa, impositiva a reforma da sentença. DERAM PROVIMENTO AO APELO, POR MAIORIA
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 43, § 2º, do Código de Defesa do Consumidor, sustentando que é válida notificação enviada via SMS.
+Aduz a existência de dissídio jurisprudencial sobre o tema.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso merece provimento.
+No presente caso, a sentença julgou improcedentes os pedidos por considerar que a parte recorrida comprovou que houve a prévia notificação da devedora, reconhecendo que a remessa eletrônica da notificação é legítima, já que a lei não vincula o cumprimento da obrigação a uma determinada forma de notificação.
+O Tribunal de origem, contudo, reformou a sentença consignando que as notificações via e-mail e/ou mensagem de texto (SMS) não dispensam a comunicação enviada pelo correio, tendo em vista expressa exigência legal (art. 43, § 2º, do CDC) e, portanto, ausente prova do envio postal de carta de comunicação acerca do apontamento para inscrição negativa, é indevido o registro no cadastro de proteção ao crédito (e-STJ, fls. 172/176).
+Nos termos da jurisprudência desta Corte, é válida a notificação prévia do consumidor acerca do registro do seu nome no cadastro de inadimplentes, nos termos do art. 43, § 2º, do CDC, que pode ser realizada por meio eletrônico, desde que devidamente comprovados o envio e a entrega da notificação, realizados por e-mail, mensagem de texto de celular (SMS) ou até mesmo pelo aplicativo whatsapp. A saber:
+RECURSO ESPECIAL. CONSUMIDOR. AÇÃO DE CANCELAMENTO DE REGISTRO CUMULADA COM INDENIZATÓRIA. REGISTRO DO NOME DO CONSUMIDOR EM CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA. MENSAGEM DE TEXTO DE CELULAR. POSSIBILIDADE. ENVIO E ENTREGA DA NOTIFICAÇÃO. COMPROVAÇÃO. REGULARIDADE DEMONSTRADA. RECURSO DESPROVIDO.
+1. O propósito recursal consiste em definir se a notificação prévia enviada ao consumidor, acerca do registro do seu nome em cadastro de inadimplentes, pode se dar por meio eletrônico, à luz do art. 43, § 2º, do CDC.
+2. Nos termos do art. 43, § 2º, do CDC, a validade da notificação ao consumidor - acerca do registro do seu nome em cadastro de inadimplentes - pressupõe a forma escrita, legalmente prevista, e a anterioridade ao efetivo registro, como se depreende da jurisprudência do Superior Tribunal de Justiça sintetizada na Súmula 359/STJ.
+3. Nos termos da Súmula 404/STJ e do Tema repetitivo 59/STJ (REsp n. 1.083.291/RS), afigura-se prescindível a comprovação do recebimento da comunicação pelo consumidor, bastando apenas que se comprove o envio prévio para o endereço por ele informado ao fornecedor do produto ou serviço, em razão do silêncio do diploma consumerista.
+4. Considerando a regra vigente no ordenamento jurídico pátrio - de que a comunicação dos atos processuais, através da citação e da intimação, deve ser realizada pelos meios eletrônicos, que, inclusive, se aplica ao processo penal, nos termos da jurisprudência deste Tribunal, com mais razão deve ser admitido o meio eletrônico como regra também para fins da notificação do art. 43, § 2º, do CDC, desde que comprovados o envio e o recebimento no e-mail ou no número de telefone (se utilizada a mensagem de texto de celular ou o aplicativo whatsapp) informados pelo consumidor ao credor.
+5. No contexto atual da sociedade brasileira, marcado por intenso e democrático avanço tecnológico, com utilização, por maciça camada da população, de dispositivos eletrônicos com acesso à internet, na quase totalidade do território nacional, constata-se que não subsiste a premissa fática na qual se baseou a Terceira Turma nos precedentes anteriores, que vedavam a utilização exclusiva dos meios eletrônicos.
+6. Portanto, a notificação prévia do consumidor acerca do registro do seu nome no cadastro de inadimplentes, nos termos do art. 43, § 2º, do CDC, pode ser realizada por meio eletrônico, desde que devidamente comprovados o envio e a entrega da notificação, realizados por e-mail, mensagem de texto de celular (SMS) ou até mesmo pelo aplicativo whatsapp.
+7. Recurso especial desprovido.
+(REsp n. 2.092.539/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/9/2024, DJe de 26/9/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. No julgamento do REsp 2.063.145-RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, por maioria, julgado em 14/3/2024, restou definido que "É válida a comunicação remetida por e-mail para fins de notificação do consumidor acerca da inscrição de seu nome em cadastro de inadimplentes, desde que comprovado o envio e entrega da comunicação ao servidor de destino".
+1.1. No caso concreto, o acórdão recorrido não revela se houve, ou não, comprovação do envio e da entrega da comunicação ao servidor de destino. Dessa forma, é necessário o retorno dos autos à origem para que o Tribunal estadual verifique se houve ou não a comprovação exigida, e profira novo julgamento à luz da jurisprudência desta Corte Superior.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.111.655/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+Assim, o Tribunal de origem decidiu em desacordo com a jurisprudência desta Corte ao afastar a notificação enviada por SMS, como constou na sentença.
+Em face do exposto, dou provimento ao recurso especial para restabelecer a sentença proferida em primeiro grau.
+Intimem-se.
+EMENTA
