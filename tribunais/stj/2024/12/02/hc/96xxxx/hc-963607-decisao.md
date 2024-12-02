@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL MANDZIUK em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o paciente foi preso em flagrante em 12/10/2024, convertida a custódia em preventiva, pela suposta prática da conduta descrita no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006.
+O impetrante sustenta a ausência de fundamentação idônea para a decretação da custódia cautelar.
+Aduz que a prisão foi imposta com base apenas na gravidade em abstrato do delito, tendo em vista a elevada quantidade de drogas apreendidas.
+Salienta que, apesar de elevada, a quantidade de entorpecentes, por si só, não justifica a decretação da prisão preventiva.
+Afirma que o paciente é primário, bem como não possui antecedentes, tendo sido utilizado apenas como "mula" do tráfico.
+Frisa que deve ser aplicado o princípio da proporcionalidade, pois há grande possibilidade de que seja aplicada a minorante do tráfico privilegiado.
+Destaca que não houve fundamentação idônea sobre a possibilidade da aplicação de medidas cautelares diversas do cárcere.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+Quanto à alegada desproporcionalidade da prisão cautelar, "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no RHC 144.385/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021).
+No mais, a prisão cautelar foi assim fundamentada (fl. 21, grifo acrescido):
+Sobre o fundamento, que consiste na necessidade da medida, baseada no efetivo risco decorrente do estado de liberdade do conduzido, vê-se que há risco à ordem pública, consubstanciado na gravidade concreta do delito. Isso porque se trata de apreensão de 141 kg de maconha, quantidade expressiva quantidade de droga, que estavam sendo transportados entre o Paraná e Santa Catarina, através de uma rota usualmente utilizada para evitar o posto da Polícia Rodoviária Federal, dados que sugerem não se tratar, a princípio, de mero tráfico eventual, a despeito de os custodiados não apresentarem maus antecedentes. Não é demais ressaltar que os envolvidos admitiram que sabiam da existência da droga no veículo e que a transportaram de Araucária até Joinville sob a promessa de receberem cerca de R$3.000,00.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 141 kg de maconha, que estavam sendo transportados entre o Paraná e Santa Catarina.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024 - sem os grifos no original.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual, se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
