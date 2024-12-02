@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO . PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. JUROS. PRECEDENTE VINCULANTE. JUÍZO DE RETRATAÇÃO. NATUREZA ORDINÁRIA DO JULGAMENTO. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO EM APELAÇÃO. INEXIGIBILIDADE. APRECIAÇÃO NECESSÁRIA. REENVIO À ORIGEM. RECURSO ESPECIAL PROVIDO EM PARTE. AGRAVO INTERNO DESPROVIDO.
+1. O juízo de retratação da origem, por força de confronto com precedente vinculante firmado em recurso especial, não se confunde com o julgamento do próprio recurso especial.
+2. O juízo de retratação na segunda instância tem natureza de julgamento ordinário. É o recurso anteriormente interposto, de julgamento atribuído à origem, que é submetido a nova apreciação pelo órgão julgador anterior, por confrontar, em análise preliminar da Vice-Presidência local, tese vinculante.
+3. A nova apreciação do recurso ordinário, no caso, apelação, é regida pelas normas ordinárias, inclusive quanto a matérias de ordem pública, que devem ser plenamente apreciadas. Na instância ordinária, as matérias de ordem pública não se sujeitam a preclusão ou prequestionamento, podendo ser decididas inclusive de ofício e, portanto, alegadas a qualquer tempo, se não objeto de decisão anterior.
+4. A exigência de prequestionamento das matérias de ordem pública para sua apreciação em recurso especial não é aplicável à instância ordinária.
+5. O reenvio do feito à origem para julgamento das questões de ordem pública, afastado pela Corte local com base na jurisprudência aplicável ao conhecimento do recurso especial, não corresponde à apreciação da própria matéria de ordem pública.
+6. É necessária a apreciação da matéria de ordem pública não decidida anteriormente pela instância ordinária, suscitada nos embargos de declaração opostos ao acórdão do juízo de retratação, ainda que negativo.
+7. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por RODOPASS TRANSPORTE COLETIVO DE PASSAGEIROS LTDA. contra decisão que conheceu em parte do recurso especial da parte agravada e, nessa extensão, deu-lhe parcial provimento, para determinar à origem que aprecie a matéria de ordem pública.
+Sustenta a parte agravante, em síntese, a impossibilidade de análise das questões de ordem pública quando não suscitadas perante a instância ordinária.
+Requer a reforma da decisão ou submissão do feito ao Colegiado.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+ADMINISTRATIVO . PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. JUROS. PRECEDENTE VINCULANTE. JUÍZO DE RETRATAÇÃO. NATUREZA ORDINÁRIA DO JULGAMENTO. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO EM APELAÇÃO. INEXIGIBILIDADE. APRECIAÇÃO NECESSÁRIA. REENVIO À ORIGEM. RECURSO ESPECIAL PROVIDO EM PARTE. AGRAVO INTERNO DESPROVIDO.
+1. O juízo de retratação da origem, por força de confronto com precedente vinculante firmado em recurso especial, não se confunde com o julgamento do próprio recurso especial.
+2. O juízo de retratação na segunda instância tem natureza de julgamento ordinário. É o recurso anteriormente interposto, de julgamento atribuído à origem, que é submetido a nova apreciação pelo órgão julgador anterior, por confrontar, em análise preliminar da Vice-Presidência local, tese vinculante.
+3. A nova apreciação do recurso ordinário, no caso, apelação, é regida pelas normas ordinárias, inclusive quanto a matérias de ordem pública, que devem ser plenamente apreciadas. Na instância ordinária, as matérias de ordem pública não se sujeitam a preclusão ou prequestionamento, podendo ser decididas inclusive de ofício e, portanto, alegadas a qualquer tempo, se não objeto de decisão anterior.
+4. A exigência de prequestionamento das matérias de ordem pública para sua apreciação em recurso especial não é aplicável à instância ordinária.
+5. O reenvio do feito à origem para julgamento das questões de ordem pública, afastado pela Corte local com base na jurisprudência aplicável ao conhecimento do recurso especial, não corresponde à apreciação da própria matéria de ordem pública.
+6. É necessária a apreciação da matéria de ordem pública não decidida anteriormente pela instância ordinária, suscitada nos embargos de declaração opostos ao acórdão do juízo de retratação, ainda que negativo.
+7. Agravo interno desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): O agravo interno não prospera.
+Conforme constou na decisão agravada, a matéria foi resolvida pela origem por ocasião do julgamento do acórdão integrativo do juízo de retratação. Nessa oportunidade, a origem afirmou a impossibilidade de análise das questões de ordem pública não prequestionadas, que constaram apenas do recurso especial.
+Ocorre que essa tese somente é aplicável ao recurso especial e não se confunde com o julgamento ordinário realizado em sede de apelação, mesmo aquele feito por força do juízo de retratação no regime de precedentes vinculantes. Nessa ocasião, não é o recurso especial que é julgado pela origem  o que seria, de plano e de forma evidente, inconstitucional. No juízo de retratação, a origem limita-se a reanalisar a matéria de sua atribuição à luz do precedente vinculante. A análise do recurso especial, inclusive no aspecto de sua (in)admissibilidade, é posterior ao juízo de retratação, que apenas contrapõe a tese vinculante com o julgamento anterior da origem.
+Nessa esteira, deve ser esclarecido que não houve decisão desta Corte sobre a matéria de ordem pública em si, que atrairia a previsão jurisprudencial invocada pela parte. Isto é, para que o STJ pudesse decidir sobre a questão de ordem pública, seria realmente indispensável a anterior manifestação da origem sobre o ponto.
+O que foi, e está sendo decidido nesta instância, é a inaplicabilidade da jurisprudência adotada pela origem, que diz respeito ao julgamento de recurso especial, para justificar a não apreciação da matéria de ordem pública em julgamento de recurso ordinário. Tanto assim que o feito foi reenviado à origem, precisamente para que julgue, conforme entender de direito, observando o precedente vinculante, a questão de ordem pública referente aos juros.
+Transcrevo:
+Acerca dos juros compensatórios, o acórdão integrativo do juízo negativo de retratação afirmou ser indevida a apreciação, em recurso especial, da matéria de ordem pública não discutida na origem. Ocorre que o fez para afastar a análise da matéria em sede ordinária, de julgamento de apelação. Nesse passo, destoou da compreensão desta Corte.
+ ..
+Assim, forçoso o reenvio do feito à origem para apreciação da matéria alegada.
+Isso posto, conheço em parte do recurso especial e, nessa extensão, dou- lhe parcial provimento, para determinar à origem que aprecie a matéria de ordem pública.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. INÍCIO DO PRAZO. ENTREGA DA DECLARAÇÃO. ORIENTAÇÃO FIRMADA EM RECURSO REPETITIVO. DOCUMENTO INFORMATIVO JUNTADO APÓS A APELAÇÃO. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. COGNIÇÃO DE OFÍCIO NÃO SUJEITA A PRECLUSÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. INÉRCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+O Tribunal Regional Federal da 3ª Região, em juízo de retratação, deu parcial provimento ao Agravo de Instrumento interposto pela Fazenda Nacional, firmando "o marco interruptivo da prescrição a data de distribuição da demanda, de forma que estão prescritos os créditos tributários anteriores a 7 de março de 2002".
+RECURSO ESPECIAL DA FAZENDA NACIONAL
+3. O juízo de retratação realizado pela Corte de origem não importa em perda do objeto do recurso fazendário, uma vez que remanesce a discussão acerca da constituição do crédito tributário mediante a apresentação de declarações retificadoras.
+4. A Fazenda Nacional suscitou, nos Embargos de Declaração, que os créditos em cobrança foram constituídos por declarações apresentadas pela própria contribuinte. O Tribunal a quo, todavia, rejeitou os Aclaratórios, desprezando o argumento de que o prazo prescricional só se teria iniciado com a entrega de tais documentos.
+5. Tratando-se de matéria de ordem pública, a prescrição pode ser alegada a qualquer tempo e grau de jurisdição. Assim, não cabe qualquer questionamento acerca da possibilidade de juntada de documento informativo das datas de entrega das declarações em Embargos de Declaração, por constituir o termo inicial do prazo prescricional "questão de ordem pública apreciável até mesmo de ofício (não sujeita, portanto, a preclusão)" (AREsp 111.973/SP, Rel. Min. Mauro Campbell Marques, publ. 16.10.2013). Precedentes: REsp 1.685.565/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 10.10.2017; AgInt no AREsp 1.042.991/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 2.5.2017.
+ ..
+8. A Corte de origem analisou de forma incompleta a argumentação expendida pela recorrente, não enfrentando questão capaz, em tese, de infirmar a conclusão adotada. Para a determinação do termo inicial do prazo prescricional, é imprescindível a fixação da data exata da constituição do crédito em cobrança, sob pena de violação do art. 174 do CTN ("a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva").
+ ..
+(REsp n. 1.766.129/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/11/2018, DJe de 17/12/2018).
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NOVO APELO RARO INTERPOSTO APÓS JUÍZO DE RETRATAÇÃO. DESCABIMENTO. CONHECIMENTO DA MATÉRIA COMO COMPLEMENTAÇÃO RECURSAL. POSSIBILIDADE. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. JUROS E CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA OPORTUNAMENTE SUSCITADA EM ACLARATÓRIOS. OMISSÃO CARACTERIZADA QUANTO AOS TEMAS N. 810 DO STF E N. 905 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+2. No caso, o recurso especial primevo teve juízo positivo de admissibilidade na origem, de modo que foi remetido para esta Corte Superior para julgamento das demais questões independentemente de ratificação. Em sendo assim, sobretudo porque a questão controvertida é posterior ao julgamento do acórdão originalmente recorrido, nada impede conhecer do segundo recurso especial como complementação das razões recursais. Precedente.
+ ..
+4. Patente violação ao art. 1.022, inciso II, do CPC/2015, uma vez que a questão relativa à inconstitucionalidade da fixação da correção monetária e juros de mora, na forma do art. 1º - F, da Lei nº 9.494/97, com as alterações promovidas pela Lei 11.960/2009, é matéria de ordem pública, que pode modificar o cálculo dos consectários legais e foi oportunamente suscitada pelo agravante na origem, em sede de embargos de declaração.
+5. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial (AgInt no AgInt nos EDcl no REsp n. 1.707.507/ES, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/5/2024, DJe de 27/5/2024).
+Esse provimento, sobre ponto expressamente julgado na origem  a (im)possibilidade de apreciação da matéria de ordem pública no juízo de retratação, quando suscitada apenas no recurso especial  não se confunde com a própria questão de fundo ( a forma de incidência dos juros), não decidida ainda nem na origem, no acórdão recorrido, nem nesta instância, nesta oportunidade.
+Isso posto, nego provimento ao agravo interno.
