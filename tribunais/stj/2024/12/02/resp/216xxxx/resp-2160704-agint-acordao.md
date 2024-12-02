@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRAZO PRESCRICIONAL. PARCELAMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto nos autos de execução fiscal, objetivando o reconhecimento da prescrição das certidões de dívida ativa. O Tribunal a quo, negou provimento ao recurso.
+II - De fato, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, tendo o julgador abordado a questão à fls. 71-74, consignando que "não há como prosperar, em princípio, a alegação de prescrição dos débitos objetos de execução, uma vez que desde a interrupção do prazo prescricional - caracterizada pelo parcelamento - até a decisão que determinou sua citação na demanda executiva fiscal proposta, não houve o transcurso de período superior a 5 anos entre os dois eventos.". Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+III - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: AgInt no REsp n. 1.625.513/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017; EDcl no AgRg no AgRg no REsp n. 958.813/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 2/2/2017, DJe 13/2/2017.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. EXECUÇÃOFISCAL. PRAZO PRESCRICIONAL. PARCELAMENTO. CAUSA INTERRUPTIVA. NECESSIDADEDE DILAÇÃO PROBATÓRIA.
+1. Compulsando os elementos presentes nos autos originários, verifica-se que, não obstante as alegações em sentido contrário deduzidas pela agravante, há indícios de que houve adesão a programas de parcelamento pela empresa, conforme demonstram os registros juntados (EV. 52, docs.02/05 - autos originários). Nestes documentos, consta informação de que tal parcelamento fora objeto de encerramento por rescisão em 14/01/2018.
+2. Tendo em vista que o referido cancelamento se dera na data supramencionada, tal qual apontado na decisão agravada, e a demanda executiva fiscal fora ajuizada em 24/01/2022, com citação da agravante determinada em 25/01/2022, não há como prosperar, em princípio, a alegação de prescrição dos débitos objetos de execução, uma vez que desde a interrupção do prazo prescricional -caracterizada pelo parcelamento - até a decisão que determinou sua citação na demanda executiva fiscal proposta, não houve o transcurso de período superior a 5 anos entre os dois eventos.
+3. O parcelamento é inequívoca causa de suspensão da exigibilidade do crédito tributário e interrupção da prescrição.
+4. Conquanto a agravante não tenha logrado êxito em demonstrar os contornos do parcelamento, a ensejar o reconhecimento de plano da tese de prescrição defendida através do presente recurso,diligência de sua responsabilidade, tem-se que a exceção de pré-executividade não é a via adequada para a discussão deste ponto controvertido, pela necessidade de dilação probatória, medida incompatível com esta estreita via de defesa. Os Embargos à Execução se constituem no meio adequado para que o executado, ora agravante, alegue toda sua matéria de defesa, desde que ofereça bens à garantia, conforme dispõe o art. 16 da LEF.
+5. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória.
+6. Agravo de Instrumento ao qual se nega provimento.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Sendo assim, ao decidir neste parâmetro, coeso é que o juízo não veio a enfrentar todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada pelo julgador, em expressa contradição ao que dispõe a legislação.
+Ressalta-se que é fundamental o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso.
+Infirma-se que é fundamental que sejam avaliados os elementos e argumentos dispostos pela parte Agravante, que colacionou a ocorrência da prescrição no que concerne ao valor exequendo, de maneira específica, trazendo toda documentação necessária para tanto.
+Evidente é, Excelência, que, se iniciando o prazo prescricional com a devida declaração, os documentos trazidos pelo Agravante foram substanciais em demonstrar a sua efetivação, no que concerne às competências 05/2015 até 12/2016.
+Sendo assim, constatando-se o vício, é substancial que seja reconhecido o provimento do presente Agravo Interno, a fim de que seja reformada a decisão agravada para reconhecer a ofensa aos art. 1.022 do CPC.
+Disciplina o inciso XXXV do artigo 5º da Nossa Carta Maior eo artigo 3ª do CPC/15, que "a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito".
+Assim, restam afastados os fundamentos que ensejaram o não provimento, devendo ser reformada a decisão aqui impugnada, a fim de que seja provido o Recurso Especial, julgando a procedência dos pedidos recursais, reconhecendo-se a anulação do acórdão que julgou os embargos de declaração, sendo determinada a devolução dos autos ao Tribunal a quo, para sanar a omissão e efetivar o enfrentamento do cerne da presente controvérsia
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRAZO PRESCRICIONAL. PARCELAMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto nos autos de execução fiscal, objetivando o reconhecimento da prescrição das certidões de dívida ativa. O Tribunal a quo, negou provimento ao recurso.
+II - De fato, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, tendo o julgador abordado a questão à fls. 71-74, consignando que "não há como prosperar, em princípio, a alegação de prescrição dos débitos objetos de execução, uma vez que desde a interrupção do prazo prescricional - caracterizada pelo parcelamento - até a decisão que determinou sua citação na demanda executiva fiscal proposta, não houve o transcurso de período superior a 5 anos entre os dois eventos.". Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+III - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: AgInt no REsp n. 1.625.513/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017; EDcl no AgRg no AgRg no REsp n. 958.813/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 2/2/2017, DJe 13/2/2017.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+De fato, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, tendo o julgador abordado a questão à fls. 71-74, consignando que "não há como prosperar, em princípio, a alegação de prescrição dos débitos objetos de execução, uma vez que desde a interrupção do prazo prescricional - caracterizada pelo parcelamento - até a decisão que determinou sua citação na demanda executiva fiscal proposta, não houve o transcurso de período superior a 5 anos entre os dois eventos.".
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. BENEFÍCIO DE GRATUITA DA JUSTIÇA. DECLARAÇÃO DE POBREZA. COMPROVAÇÃO DE CAPACIDADE DE ARCAR COM AS CUSTAS DO PROCESSO. MULTA. LITIGÂNCIA DE MÁ-FÉ. ART. 4º, §1º, DA LEI 1.060/50. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.625.513/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Configura erro grosseiro a interposição de agravo regimental em face de decisão colegiada, de modo que não é cabível a aplicação do princípio da fungibilidade recursal para conhecer do recurso como embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp n. 958.813/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 2/2/2017, DJe 13/2/2017.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
