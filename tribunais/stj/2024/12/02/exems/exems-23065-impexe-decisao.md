@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO ao cumprimento de sentença, iniciado por ITAMAR VENTURA DA CONCEICÃO, referente a mandado de segurança no qual foi concedida a ordem para restabelecer a validade da Portaria anistiadora do Ministério da Justiça nº. 2.325, de 9 de dezembro de 2003. Como reflexo financeiro da aludida decisão, o requerente promoveu a execução dos valores referentes aos efeitos financeiros retroativos.
+A UNIÃO apontou: a) ilegitimidade para a execução, já que o anistiado faleceu em maio de 2018, b) que deve ser atribuído efeito suspensivo automático à execução, nos termos do art. 535, §3º, do CPC/15, e c) excesso de execução, pois "a correção monetária foi realizada com base na variação da SELIC até jul/09 e do IPCA-E a partir de jul/09, quando deveria ser utilizada a variação do IPCA-E até jun/09, e entre jul/09 e dez/13 a variação da TR, conforme o disposto no art. 5º da Lei nº 11.960/2009" (fl. 80), além de que os juros moratórios deveriam ser contados a partir da notificação inicial (janeiro de 2017).
+Em resposta, às fls. 92-102, o requerente refutou a alegação de excesso de execução. Aduz: a) que são devidos os juros e correção monetária, por constituírem pedidos implícitos; b) os índices aplicados estão de acordo com a jurisprudência do STF. Pediu o julgamento de improcedência da impugnação apresentada pela UNÃO, com sua condenação no ônus da sucumbência.
+A decisão de fls. 129-131 rejeitou a ilegitimidade passiva e determinou a regularização processual por parte dos sucessores, o que foi feito às fls. 134-145.
+Na sequência, a decisão de fls. 154-156 deferiu a habilitação dos sucessores, afastou a alegação de inexigibilidade do título e determinou a expedição do requisitório de valor incontroverso e, assim, foi autuado o PRC 12503/DF, conforme certidão de fl. 289. A decisão foi impugnada por agravo interno, o qual não foi provido, conforme acórdão às fls. 191-194.
+É o relatório. Decido.
+Tendo havido a expedição da requisição de valor incontroverso, remanesce o julgamento dos pontos impugnados pela União às fls. 76-89.
+Passo, assim, à análise dos pontos controvertidos.
+AUSÊNCIA DE SUSPENSÃO AUTOMÁTICA DA EXECUÇÃO
+A UNIÃO advoga a tese de que uma vez impugnada a execução, decorre sua suspensão automática, nos termos do art. 535, §3º, do CPC/15. Contudo, esta Corte Superior entende que "ev entual suspensão do pagamento do precatório relativo à parcela incontroversa do crédito, correspondente ao valor nominal da portaria de anistia, ou bloqueio do respectivo pagamento, condiciona-se à demonstração, pelo ente público executado, de que pretende, efetivamente, instaurar procedimento de revisão do ato de concessão da anistia." (AgInt na ExeMS n. 21.229/DF, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 20/8/2020.).
+Dessa forma, a suspensão da execução não é automática em razão da apresentação da impugnação por parte da UNIÃO, mas depende da comprovação da instauração de procedimento revisional, com iminente anulação da portaria anistiadora, o que não houve no caso em tela, haja vista a decisão de fls. 154-156 que afastou a alegação de inexigibilidade do título judicial suscitada pelo ente público.
+Assim, não prospera o pedido de suspensão do presente feito.
+ÍNDICES DE CORREÇÃO MONETÁRIA E DE JUROS DE MORA
+Quanto aos índices de correção monetária e de juros de mora, frise-se que eles devem seguir os seguintes critérios:
+Índice de Correção Monetária a ser aplicada: IPCA-E (Tema 905/STJ e Tema 810/STF); a partir da data de publicação da EC n.º 113/2021 (9/12/2021), taxa Selic.
+Índice de Juros a serem aplicados: de julho/2009 até a data da EC n. º 113/2021 (8/12/2021), remuneração oficial da caderneta de poupança. A partir da data de publicação da referida emenda (9/12/2021), taxa Selic.
+DIES A QUO DOS CONSECTÁRIOS LEGAIS
+O termo inicial a ser considerado, para cada um dos consectários legais (correção monetária e juros de mora), "é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002." (AgInt na ImpExe na ExeMS n. 15.126/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 8/11/2023.). Nesse mesmo sentido: AgInt na ImpExe na ExeMS n. 11.859/DF, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 17/8/2023 e AgInt na ImpExe na ExeMS n. 20.256/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 19/8/2022.
+CONCLUSÃO
+Ante o exposto, julgo parcialmente procedente a impugnação oposta pela UNIÃO ao cumprimento de sentença.
+Quanto aos honorários sucumbenciais, considerando a afetação do Tema 1.232/STJ, deixo, por ora, de apreciar a matéria.
+Encaminhem-se os autos à Coordenadoria de Processamento de Feitos em Execução Judicial para elaboração de cálculos em conformidade com os critérios fixados nesta decisão.
+Após, as partes deverão ser intimadas acerca das informações prestadas pela CPEX , independentemente de nova conclusão. Havendo concordância, tácita ou expressa das partes, expeça-se o requisitório complementar, com destaque de honorários advocatícios, se for o caso.
+EMENTA
