@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por WMS SUPERMERCADOS DO BRASIL LTDA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 1061886-86.2021.8.26.0053, assim ementado (fls. 236-258):
+APELAÇÃO AÇÃO DE REPETIÇÃO DE INDÉBITO - ICMS TRANSFERÊNCIA DE MERCADORIAS ENTRE FILIAIS OPERAÇÕES INTERESTADUAIS - Pretensão de que seja reconhecido o direito a não recolher ICMS nas transferências de mercadorias efetuadas entre suas filiais, com a condenação da parte ré a restituir os valores indevidamente pagos da forma que optar a autora - Sentença de procedência - Decisório que merece subsistir - Não configurada a hipótese de incidência do ICMS - Ausência de ato mercantil e de transferência de titularidade das mercadorias transferidas entre os estabelecimentos da autuada - Súmula nº 166 do E. STJ, ratificada pelo E. STF no julgamento do ARE nº 1.255.885/MS (Tema nº 1.099) - Impossibilidade de compensação de valores pagos indevidamente em razão de ausência de previsão legal - Inaplicabilidade da súmula nº 461 do E. STJ - Precedentes do E. STJ, deste E. TJSP e desta C. Câmara de Direito Público Sentença mantida - RECURSOS IMPROVIDOS.
+Foram opostos embargos de declaração, os quais foram rejeitados (fls. 267-278).
+No recurso especial interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte ora agravante alegou violação dos arts. 156, inciso II, 165 e 170 do Código Tributário Nacional, sustentando, em síntese, que, após o trânsito em julgado, se tornará credora e devedora do Estado relativamente ao mesmo tributo, sendo plenamente aplicável o instituto da compensação.
+Outrossim, defende subsistir o fundamento de que não existe previsão na legislação local que dê guarida à compensação, uma vez que tal instituto encontra respaldo no próprio CTN. Afirma, ainda, que a limitação ao direito à repetição afronta também a Súmula n. 461 do STJ.
+O Tribunal a quo inadmitiu o apelo nobre em decisão de fls. 396-397.
+Houve interposição de agravo de instrumento.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+A Corte de origem não admitiu o apelo nobre com fundamento na incidência da Súmulas n. 7 do STJ (necessidade de revolvimento do acervo fático-probatório) e da Súmula n. 280 do STF (necessidade de análise de direito local).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à incidência da Súmula n. 7 do STJ.
+Com efeito, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não é necessário o revolvimento do acervo fático-probatório, pois a controvérsia seria unicamente de direito, não tendo esclarecido, à luz da tese veiculada no apelo nobre - qual seja, de que possui direito à compensação, pois se tornará credora e devedora do Estado relativamente ao mesmo tributo - de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+Nesse sentido:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. DIREITO À COMPENSAÇÃO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
