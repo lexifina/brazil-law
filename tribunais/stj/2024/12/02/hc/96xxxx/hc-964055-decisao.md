@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Tamara Gomes dos Santos, em que se aponta como autoridade coatora o Desembargador Relator Francisco Orlando da Segunda Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que indeferiu a liminar no Habeas Corpus criminal n. 2355011-67.2024.8.26.0000 , mantendo a prisão preventiva da paciente, pela suposta prática do crime de tráfico de drogas.
+Neste writ, requer-se a superação do óbice da Súmula 691 do STF, a fim de que seja revogada a prisão preventiva imposta em desfavor da paciente, considerando sua condição de mãe e responsável por crianças menores de 12 anos (fl. 8). Além disso, sustenta-se que a medida constritiva carece de fundamentação concreta que justifique sua manutenção, em flagrante violação dos princípios da proporcionalidade e da necessidade da prisão preventiva, conforme evidenciado na fl. 21.
+Requer, assim, a concessão liminar da ordem em favor de TAMARA GOMES DOS SANTOS, para o fim de que seja revogada a prisão preventiva, ou, ao menos, substituída por medidas cautelares diversas da prisão (art. 319 do CPP), determinando-se a expedição do competente alvará de soltura, ou seja concedida a PRISÃO DOMICILIAR (fl. 86).
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte Superior, segundo o qual, não cabe habeas corpus contra decisão monocrática que indeferiu a liminar no Tribunal a quo, sob pena de indevida supressão de instância.
+In casu, verifico constrangimento ilegal a superar o referido óbice e conceder a ordem de ofício.
+Às fls. 97 a 101, a defesa anexou as certidões das filhas menores da paciente, o que configura, em princípio, a situação que autoriza a substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318-A do Código de Processo Penal.
+Em 27/11/2019, a Terceira Seção desta Corte Superior de Justiça decidiu, por maioria, que, além das duas exceções previstas no art. 318-A do Código de Processo Penal à concessão de prisão domiciliar (crime praticado mediante violência ou grave ameaça e crime perpetrado contra seus descendentes), é possível que, em situações excepcionalíssimas, seja negada a prisão domiciliar à mulher presa que esteja gestante, em estado puerperal, e que seja mãe de criança (menor até 12 anos incompletos) ou de pessoa com deficiência.
+Assim, apesar de ser grave a conduta supostamente praticada, o que justifica a segregação cautelar, em cumprimento à determinação do Supremo Tribunal Federal e ao disposto no art. 318-A do CPP, tem-se a hipótese de colocação da paciente em regime domiciliar, dada a necessidade de observância à doutrina da proteção integral à criança e ao adolescente.
+Ante o exposto, indefiro liminarmente o habeas corpus. Concedo a ordem de ofício, para substituir a segregação cautelar imposta à paciente pela custódia domiciliar, com monitoramento eletrônico, com a advertência de que a eventual desobediência das condições impostas pelo Juízo de origem importará no restabelecimento da prisão preventiva, nos termos desta decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS TRÁFICO DE DROGAS. LIMINAR INDEFERIDA EM PRÉVIO WRIT. SÚMULA 691/STF. SUPERAÇÃO DO ÓBICE. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA DOMICILIAR. RÉ MÃE DE CRIANÇAS MENORES DE 12 ANOS. POSSIBILIDADE. PRECEDENTE.
+Writ indeferido liminarmente. Ordem concedida de ofício, nos termos do dispositivo.
