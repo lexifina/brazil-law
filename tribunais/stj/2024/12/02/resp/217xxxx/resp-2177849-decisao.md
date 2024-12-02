@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRÉ RODRIGO SILVA CUNHA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (e-STJ Fls. 315/316):
+PROCESSUAL CIVIL - Agravo interno - Insurgência contra decisão que deu provimento ao apelo da instituição financeira e julgou prejudicado o recurso da parte autora - Processo anterior que analisou tarifas e as declarou ilegais - Reiteração de pedido já formulado na ação finda - Configuração - Extinção do processo - Aplicação do art. 485, V, § 3º do CPC/2015 - Precedente atual do STJ em REsp 1.899.801 - Manutenção da decisão monocrática - Desprovimento.
+- Se a parte já pleiteou anteriormente na Justiça a devolução de tarifas bancárias consideradas ilegais e dos acréscimos referentes às mesmas, não pode depois ajuizar nova ação para pedir a restituição dos valores pagos em juros remuneratórios incidentes sobre as mesmas.
+- A repetição de pedido essencialmente igual, embora sob outra denominação, caracteriza-se como coisa julgada, o que impõe a extinção do processo.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta o recorrente, além de dissídio jurisprudencial, que o Tribunal a quo negou vigência ao art. 337, §§ 1º e 2º, do CPC/2015, pois não há falar de coisa julgada quanto aos juros remuneratórios incidentes sobre a tarifa bancária declarada ilegal.
+Reforça que, o Tribunal a quo, ao considerar ter havido coisa julgada por conta do reformulação de um pedido formulado anteriormente perante juízo incompetente para apreciá-lo, violou o art. 337, caput e §§ 1º e 2º, do CPC, motivo pelo qual deve ser afastada a conclusão de coisa julgada.
+As contrarrazões ao recurso especial foram apresentadas a fls. 403/413.
+É o relatório. Passo a decidir.
+Entende a parte recorrente que os juros remuneratórios incidentes sobre as tarifas repetidas, não estão abarcados pela coisa julgada, podendo ser cobrados por intermédio de outra ação.
+Acerca da pretensão recursal, o Tribunal a quo asseverou que há falar em coisa julgada.
+Consoante orientação das egrégias Terceira e Quarta Turmas do Superior Tribunal de Justiça, a eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. Discute-se a possibilidade de ajuizamento de nova demanda para restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas consideradas abusivas em ação de repetição de indébito julgada procedente e transitada em julgado.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. Recurso especial provido.
+(REsp 1.989.143/PB, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/12/2022, DJe de 13/12/2022)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXPURGOS. POUPANÇA. JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. NÃO CABIMENTO NA FASE DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. APLICAÇÃO DA SÚMULA 83 DO STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil.
+2. A jurisprudência desta Corte orienta que, não havendo disposição acerca de juros remuneratórios no título que condenou ao pagamento de expurgos inflacionários em caderneta de poupança, admitir sua inclusão nos cálculos importaria em patente violação à coisa julgada.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.297.849/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/6/2022, DJe de 28/6/2022)
+RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO DE VEÍCULO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DE TARIFAS DECLARADAS EM SENTENÇA TRANSITADA EM JULGADA NO JUIZADO ESPECIAL CÍVEL. PEDIDO, NA AÇÃO SUBJACENTE, DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. IMPOSSIBILIDADE. EXISTÊNCIA DE COISA JULGADA. PEDIDO FORMULADO NA PRIMEIRA AÇÃO QUE ABARCOU O MESMO PLEITO AQUI PRETENDIDO. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a definir, além da eventual existência de negativa de prestação jurisdicional, se a declaração de ilegalidade de tarifas bancárias, com a consequente devolução dos valores cobrados indevidamente, determinada em ação anteriormente ajuizada no âmbito do Juizado Especial Cível, forma coisa julgada em relação ao pedido de repetição de indébito dos juros remuneratórios incidentes sobre as referidas tarifas.
+2. Não há que se falar em negativa de prestação jurisdicional, pois o Tribunal de origem analisou todas as alegações suscitadas no recurso de apelação, afastando expressamente o reconhecimento da coisa julgada.
+3. Nos termos do art. 337, §§ 2º e 4º, do Código de Processo Civil de 2015, "uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido", sendo que "há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado".
+4. Na hipótese, da forma como a autora formulou o pedido na primeira ação, já transitada em julgado e que tramitou perante o Juizado Especial Cível, consignando expressamente que buscava a devolução em dobro de todos os valores pagos com as tarifas declaradas nulas, é possível concluir que o pleito abarcou também os encargos incidentes sobre as respectivas tarifas, da mesma forma em que se busca na ação subjacente, havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada.
+5. Não se pode olvidar que o acessório (juros remuneratórios incidentes sobre a tarifa) segue o principal (valor correspondente à própria tarifa), razão pela qual o pedido de devolução de todos os valores pagos referentes à tarifa nula abrange, por dedução lógica, a restituição também dos respectivos encargos, sendo incabível, portanto, nova ação para rediscutir essa matéria.
+6. Recurso especial provido.
+(REsp 1.899.115/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/4/2022, DJe de 8/4/2022)
+Dessa forma, entende-se que o acórdão recorrido se encontra em sintonia com a orientação do Superior Tribunal de Justiça.
+Diante do exposto, nego provimento ao recurso especial. E, quanto ao ônus da sucumbência recursal, deixo de majorar a verba honorária advocatícia na forma do art. 85, §11, do CPC/2015, posto que já alcançado o percentual máximo legal.
+Publique-se.
+EMENTA
