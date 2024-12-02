@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por GIANI MORO PACKO contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (e-STJ, fl. 407):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. OPERAÇÕES BANCÁRIAS CONTESTADAS. ALEGAÇÃO DE FRAUDE PERPETRADA POR TERCEIRO. AUTORA VÍTIMA DE GOLPE. REALIZAÇÃO DE "DOWNLOAD" DE APLICATIVO PARA REALIZAÇÃO DA ATUALIZAÇÃO. OBTENÇÃO DE DADOS DA VÍTIMA ATRAVÉS DE INSTALAÇÃO DE "MALWARE". AÇÃO DA VÍTIMA CONTRIBUIU PARA AÇÃO CRIMINOSA. CASO DE FORTUITO EXTERNO. RESPONSABILIDADE OBJETIVA DO BANCO AFASTADA. INAPLICABILIDADE DA SÚMULA 479, DO STJ. AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS. ATO ILÍCITO NÃO CONFIGURADO. INEXISTÊNCIA DE DANOS INDENIZÁVEIS. SENTENÇA REFORMADA. PEDIDOS IMPROCEDENTES. Em que pese a autora tenha sido vítima de ardil, tornou-se responsável pelas transações bancárias contestadas ao realizar procedimento temerário, contribuindo, ainda que involuntariamente, para que a ação dos criminosos fosse perpetrada. Nesse contexto, considerando o art. 14, § 3º, II, do CDC, fica afastada a responsabilidade objetiva da instituição financeira, eis que rompido o nexo de causalidade entre sua conduta e os danos sofridos pela consumidora. APELAÇÃO PROVIDA.
+Os embargos de declaração foram rejeitados (fls. 428/432).
+Nas razões do especial, aponta o recorrente violação dos artigos 489 e 1.022 do Código de Processo Civil, artigo 14, § 1º, da Lei nº 8.078/90, além do dissídio jurisprudencial.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido.
+Defende, ainda, que as instituições financeiras respondem objetivamente por dano gerado a correntista em razão de fortuito interno.
+Contra-arrazoado (fls. 491/500), o recurso especial não foi admitido na origem (fls. 501/504); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Em relação à alegada violação dos artigos 489 e 1.022 do Código de Processo Civil, extraio do acórdão recorrido justificativa expressa para concluir pela ocorrência de fortuito externo causada pelo estelionatário contra a vítima, ora agravante.
+A propósito (fl. 409):
+No caso dos autos, incontroverso que a parte autora foi vítima de fraude cometida por terceiro em razão de sua própria imprudência, conforme se infere da narrativa dos fatos na inicial:
+"Nessa oportunidade a pessoa que entrou em contato com a Autora, se identificou como gerente de sua conta bancária, tendo pleno conhecimento de antemão de seus dados pessoais, número de telefone, dados de sua agência bancária, do número de conta corrente e dentre outros.
+Destaca-se que em momento algum a Autora chegou a fornecer seus dados pessoais ou bancários, apenas realizando a confirmação quando mencionado pelo suposto gerente bancário.
+Desde já, é possível constatar o vazamento de suas informações pessoais e bancárias, as quais são sigilosas, bem como a violação pela instituição financeira Itaú Unibanco da Lei Geral de Proteção de Dados.
+Após o suposto gerente ganhar a confiança da Autora tanto pelo conhecimento de seus dados pessoais e bancários como pelo fato de aparecer na tela de seu celular o contato "Joao Gerente Personalite" através do número da agência, a Autora foi informada que a sua conta bancária estava sob risco.
+Desse modo, foi orientada a realizar, de forma urgente, o download de um aplicativo no seu celular, o qual não se recorda o nome, para que evitasse a compensação de supostos boletos bancários fraudulentos." (grifo acrescido)
+Como se vê do trecho acima reproduzido, a responsabilidade da instituição financeira foi afastada, porquanto evidenciada a prática de fortuito externo, decorrente da instalação pela própria vítima de software malicioso ("malware"), encaminhado por estelionatário.
+Diante desse contexto, evidenciada a ocorrência de fortuito externo, fica afastada, por incoerência lógica quanto à premissa utilizada no acórdão recorrido, a ocorrência de fortuito interno, não havendo cogitar-se de omissão ou obscuridade a respeito.
+Com efeito, segundo a jurisprudência desta Corte: "A possibilidade de extrair logicamente a tese refutada a partir do que decidido, por meio da análise mesma do próprio julgado, afasta qualquer obscuridade na decisão" (AgInt no REsp n. 1.920.219/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/10/2021, DJe de 3/11/2021).
+No que se refere à controvérsia de fundo, observo, conforme aludido, que a responsabilidade da instituição financeira foi afastada, porquanto o dano suportado pelo agravante deve ser imputado, exclusivamente, a terceiro, que teria encaminhado software malicioso ao celular da vítima, seguido pela execução e transferência de valor indevido a estelionatário.
+Diante desse contexto, para acolher a pretensão do agravante seria imprescindível o reexame do contexto fático-probatório; procedimento, porém, vedado em recurso especial (Súmula 7/STJ).
+A propósito:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONSUMIDOR QUE FORNECEU O CARTÃO BANCÁRIO E A SENHA A TERCEIRO MEDIANTE PRÁTICA DE ESTELIONATO. FALHA NA PRESTAÇÃO DE SERVIÇO NÃO CONFIGURADA. ACÓRDÃO ESTADUAL QUE DECIDIU COM BASE NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..  2. A eg. Segunda Seção do Superior Tribunal de Justiça firmou o entendimento, sob o rito do art. 543-C do CPC/1973, de que "as instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -,porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno" (REsp 1.197.929/PR, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 12/9/2011).
+3. No caso, após acurada análise do conteúdo fático-probatório dos autos, o Tribunal estadual concluiu que o recorrente foi vítima de golpe perpetrado por estelionatário que se valeu da sua confiança para tomar posse do cartão de crédito e de sua senha, de uso pessoal e intransferível, para efetuar os saques, subsumindo a hipótese, portanto, à exceção prevista no § 3º do art. 14 do CDC, no sentido de que o fornecedor de serviços não será responsabilizado quando provar a existência de culpa exclusiva do consumidor ou de terceiro.
+4. A revisão do julgado com o consequente acolhimento da tese recursal a fim de reconhecer a existência de falha na prestação do serviço pelo recorrido, demandaria o revolvimento das premissas fáticas delineadas nos autos, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.914.255/AL, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/5/2021, DJe de 13/5/2021)
+De toda forma, a incidência do óbice sumular aludido inviabiliza o conhecimento do dissídio jurisprudencial sobre o mesmo tema, conforme jurisprudência desta Corte Superior:
+ ..
+Incidência da Súmula 7 do STJ.
+3. A incidência do referido enunciado sumular prejudica a análise do dissídio jurisprudencial alegado. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.061.945/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspenso no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
