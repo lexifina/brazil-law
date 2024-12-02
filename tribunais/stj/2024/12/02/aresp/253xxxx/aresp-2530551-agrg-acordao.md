@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recurso cabível contra a decisão que nega seguimento ao recurso especial que esteja em conformidade com entendimento firmado sob o rito dos repetitivos é o agravo interno (o recurso que foi efetivamente interposto pela parte e posteriormente encaminhado a esta Corte Superior), e também o agravo em recurso especial para impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais (desiderato do qual não se desincumbiu a defesa).
+2. Nas razões do agravo em recurso especial, o recorrente não atacou especificamente todos os fundamentos do provimento jurisdicional que inadmitiu o recurso especial, limitando-se a expor alegações genéricas acerca da inaplicabilidade do óbice da Súmula n. 7/STJ, em ofensa ao princípio da dialeticidade recursal.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator)
+Trata-se de agravo regimental interposto por JOÃO VITOR DOS SANTOS JESUS contra decisão na qual não conheci do agravo em recurso especial manejado pela defesa, em virtude da ausência de impugnação específica dos fundamentos da decisão então recorrida.
+Nas razões do agravo regimental, o recorrente alega que, "quanto ao pedido de fixação da pena aquém do mínimo legal, apesar de ser interposto o recurso de Agravo Interno (págs. 361-365), este STJ afetou os REsps 2.057.181, 2.052.085 e 1.869.764 para que seja rediscutida a matéria", de forma que "este recurso, também, merece ser afetado, até, porque, não há recurso cabível para rediscussão da matéria" (e-STJ fl. 422).
+Afirma, ainda, que, "quanto às demais matérias, a r. decisão de págs. 412-415 decidiu que é  ..  insuficiente a mera menção genérica à desnecessidade de reexame de fatos e provas  ..  (pág. 414)", mas "o agravante, no AREsp fundamentou que,  ..  No mais, inexiste o reexame de provas, conforme quer fazer crer a presidência do TJSP. Isso, ainda, fica demonstrada na fragilidade da r. decisão que não seguiu o CPP, art. 315 § 2º, pois fundamentou de forma genérica, sem vinculação com o caso. Importante ressaltar que todos os fundamentos decorrem de fatos e estes não podem ser confundidos com a possibilidade de reanálise de provas, pura e simplesmente, pois deve, ao menos, analisar se é o caso" (e-STJ fl. 422).
+Reitera, por fim, os motivos pelos quais entende que deve ser provido o recurso especial, no que tange ao mérito das insurgências recursais.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recurso cabível contra a decisão que nega seguimento ao recurso especial que esteja em conformidade com entendimento firmado sob o rito dos repetitivos é o agravo interno (o recurso que foi efetivamente interposto pela parte e posteriormente encaminhado a esta Corte Superior), e também o agravo em recurso especial para impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais (desiderato do qual não se desincumbiu a defesa).
+2. Nas razões do agravo em recurso especial, o recorrente não atacou especificamente todos os fundamentos do provimento jurisdicional que inadmitiu o recurso especial, limitando-se a expor alegações genéricas acerca da inaplicabilidade do óbice da Súmula n. 7/STJ, em ofensa ao princípio da dialeticidade recursal.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo regimental não merece provimento.
+Inicialmente, conforme destacado na decisão ora agravada, não é cabível a interposição de agravo em recurso especial para impugnar a parte da decisão que negou seguimento ao recurso especial com base no art. 1.030, inciso I, alínea b, do Código de Processo Civil, em virtude do entendimento do Superior Tribunal de Justiça consolidado no Tema n. 190 dos recursos repetitivos, no que tange ao pedido de fixação da pena aquém do mínimo legal na segunda fase de dosimetria.
+Ora, ao contrário do que assevera a defesa, o fato de a matéria estar atualmente sendo rediscutida nesta Corte Superior não possibilita o conhecimento do agravo quanto a esse particular, na medida em que, até o momento, permanece válida a aplicação da tese firmada no Tema Repetitivo n. 190/STJ e a única via legalmente prevista para atacar a decisão que nega seguimento ao recurso com amparo em tal fundamento é o agravo interno.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1.030, I, B, DO CÓDIGO DE PROCESSO CIVIL. CABIMENTO DE AGRAVO INTERNO NA ORIGEM. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. INAPLICABILIDADE DA FUNGIBILIDADE RECURSAL. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência deste Superior Tribunal, "O recurso cabível contra a decisão que nega seguimento ao recurso especial que esteja em conformidade com entendimento firmado sob o rito dos repetitivos é o agravo interno (o recurso que foi efetivamente interposto pela parte e posteriormente encaminhado a esta Corte), e também o agravo em recurso especial para impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais (desiderato do qual não se desincumbiu a defesa)" (AgRg no AREsp n. 2.428.773/PR, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023).
+2 . Agravo regimental improvido.
+(AgRg no AREsp n. 2.516.106/CE, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024, grifei.)
+Ademais, o recorrente deixou de impugnar de forma efetiva a incidência da Súmula n. 7 do STJ nas razões do agravo em recurso especial, limitando-se a expor alegações genéricas no trecho transcrito no presente agravo regimental, sem expor especificamente os motivos pelos quais a insurgência não demandaria incursão no acervo probatório dos autos quanto às premissas fáticas do acórdão recorrido.
+Ora, inadmitido o apelo extremo com base no referido verbete sumular n. 7/STJ, incumbiria à parte interessada realizar o cotejo entre as razões de decidir do acórdão hostilizado e as teses levantadas no recurso especial, sendo insuficiente a mera menção genérica à desnecessidade de reexame de fatos e provas, mesmo que acompanhada de breve e superficial referência à tese recursal.
+Desse modo, não havendo impugnação específica de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182/STJ.
+Sobre o tema, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 121, CAPUT, C/C O ART. 14, II, DO CP. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E ADEQUADA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+1 - A ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+2 - Na hipótese, a parte agravante deixou de infirmar, como ressaltado na decisão monocrática reprochada, de maneira adequada e suficiente, as razões apresentadas pelo egrégio Tribunal de origem para negar trânsito ao recurso especial.
+3 - É entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016).
+4 - Agravo regimental desprovido.
+(AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A impugnação específica, pormenorizada e concreta de todos os fundamentos da decisão de inadmissibilidade do recurso especial é requisito para o conhecimento do agravo. Apresenta-se insuficiente, pois, a mera alegação de não incidência de óbice apontado pela decisão agravada.
+2. No caso em tela, o agravo em recurso especial não impugnou especificamente o fundamento de inadmissibilidade consistente no óbice da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+4. Ademais, "a infirmação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, sob pena de preclusão consumativa, sendo incabível a impugnação somente nas razões de agravo interno" (AgInt nos EDcl no AREsp n. 2.086.418/MA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.237.512/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/5/2023, DJe de 26/5/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
