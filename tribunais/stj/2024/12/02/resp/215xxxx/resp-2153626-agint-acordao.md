@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. ICMS - DIFAL. COMPENSAÇÃO. CONTRARIEDADE AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC. NÃO OCORRÊNCIA. ART. 166 DO CTN. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO SUFICIENTE. SÚMULA 283/STF, APLICADA POR ANALOGIA. MATÉRIA DE ORDEM PÚBLICA. INOVAÇÃO RECURSAL E FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. Tem aplicação, por analogia, o disposto na Súmula 283 do STF nas hipóteses em que, nas razões do recurso especial, a parte recorrente deixa de refutar todos os fundamentos utilizados pelo acórdão recorrido suficientes para a sua manutenção.
+3. A inclusão de argumentos que não foram apresentados no recurso especial original caracteriza-se como inovação recursal, não podendo, pois, ser examinada. Ademais, o requisito do prequestionamento é exigido por esta Corte Superior, inclusive nas matérias de ordem pública.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto pelo DISTRITO FEDERAL contra decisão que conheceu parcialmente do Recurso Especial, somente no tocante à preliminar de contrariedade aos arts. 489 e 1.022 do CPC, e, nessa extensão, negou-lhe provimento (fls. 446-448).
+Em suas razões, afirma que apresentou de forma clara as razões pelas quais o recurso especial deveria ser conhecido e provido. Defende que a apontada violação ao art. 166 do CTN poderia ser conhecida a qualquer tempo, por se tratar de matéria de ordem pública.
+Acrescenta que "verificada a omissão em razão do reconhecimento do direito à restituição, sem a comprovação da assunção do encargo econômico do tributo indireto e, no caso de transferência a terceiro, de expressa autorização de quem o tenha suportado, impõe-se o provimento dos embargos de declaração a fim de sanar o vício apontado" (fl. 457).
+Requer a reforma a decisão agravada favoravelmente às suas considerações.
+O prazo para as contrarrazões transcorreu in albis (fls. 463 e 464).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. ICMS - DIFAL. COMPENSAÇÃO. CONTRARIEDADE AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC. NÃO OCORRÊNCIA. ART. 166 DO CTN. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO SUFICIENTE. SÚMULA 283/STF, APLICADA POR ANALOGIA. MATÉRIA DE ORDEM PÚBLICA. INOVAÇÃO RECURSAL E FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. Tem aplicação, por analogia, o disposto na Súmula 283 do STF nas hipóteses em que, nas razões do recurso especial, a parte recorrente deixa de refutar todos os fundamentos utilizados pelo acórdão recorrido suficientes para a sua manutenção.
+3. A inclusão de argumentos que não foram apresentados no recurso especial original caracteriza-se como inovação recursal, não podendo, pois, ser examinada. Ademais, o requisito do prequestionamento é exigido por esta Corte Superior, inclusive nas matérias de ordem pública.
+4. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar.
+No que interesse, a decisão agravada foi firmada nesses termos (fls. 446-447):
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, pois o Tribunal a quo apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+No julgamento dos Embargos de Declaração, o Colegiado distrital consignou expressamente (fls. 357-369, grifei):
+(..)
+Preliminarmente, da alegação de omissão não conheço acerca da necessidade de assunção do encargo financeiro para compensação/restituição do imposto recolhido (CTN 166), tendo em vista que a matéria não foi objeto do apelo (id 37245674).
+(..)
+No entanto, o insurgente não ataca efetivamente o fundamento acima destacado, referente à ocorrência de preclusão, que é suficiente para manter a conclusão do órgão julgador. Portanto, afigura-se inviável o processamento do apelo ante a incidência, por analogia, da Súmula 283/STF. A propósito: (..)
+Com efeito, ao examinar os embargos de declaração, a Corte de segundo grau registrou que a suposta violação ao art. 166 do Código Tributário Nacional não poderia ser enfrentada naquele momento em razão da preclusão consumativa. Dessa forma, analisou fundamentadamente as questões que lhe foram submetidas, examinando os pontos essenciais ao deslinde da controvérsia, não havendo falar em nulidade qualquer.
+Registre-se que a mera insatisfação com o conteúdo da decisão proferida não importa em violação dos dispositivos legais supramencionados. Com efeito, o fato de o tribunal haver decidido o recurso de forma diversa da defendida nas razões recursais, elegendo fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação. Nesse sentido: AgInt no AREsp n. 2.347.060/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgInt no REsp n. 2.130.408/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+O não conhecimento de parte das razões do apelo especial, no tocante ao art. 166 do CTN, tampouco merece ser superado. Ao apresentar suas razões, o recorrente apenas mencionou a exigência expressa do artigo quanto à comprovação da assunção do encargo ou autorização a terceiro para receber o crédito, sem, contudo, tecer qualquer argumento sobre a necessidade de ultrapassar o óbice da preclusão consumativa e assim possibilitar a análise da apontada violação.
+Conforme consignado no decisum monocrático ora combatido, o fundamento apresentado pelo tribunal de origem é mais extenso que os argumentos levantados no recurso especial, e não foi refutado. Dessa forma, deve ser mantida a aplicação ao caso, por analogia, da Súmula 283 do STF, que dispõe ser "inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Nesse sentido: AgInt no REsp n. 2.102.803/PB, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/5/2024, DJe de 27/5/2024.
+Destaque-se que o agravo interno não pode ser utilizado para incluir argumentos que não foram apresentados no recurso especial original. Isso ocorre porque, no sistema recursal, os elementos trazidos inicialmente devem ser precisos e completos, evitando a reabertura do caso para corrigir falhas no pedido original.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. TESE DEDUZIDA SOMENTE EM AGRAVO INTERNO. INOVAÇÃO RECURSAL. CONHECIMENTO. IMPOSSIBILIDADE.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Verifica-se que houve omissão no tocante à existência de deficiência na instrução por ausência de juntada da cópia da sentença que julgou a desapropriação, contudo, a alegação relativa à ausência da juntada da sentença que julgou a desapropriação foi apresentada apenas quando da interposição do agravo interno, o que configura inadmissível inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa
+3. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no REsp n. 1.525.640/BA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/10/2017, DJe de 20/10/2017.)
+De mais a mais, assinalo que o art. 166 do CTN não foi objeto de debate na instância precedente em razão do obstáculo ali reconhecido, de forma que o assunto ao qual se refere sequer está prequestionado. E, nesse passo, a jurisprudência do Superior Tribunal de Justiça se orienta no sentido de que o requisito do prequestionamento é exigido inclusive para o exame de matérias de ordem pública. A esse respeito, confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. PREQUESTIONAMENTO AUSENTE. SÚMULA 211/STJ.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF.
+2. A fundamentação deficiente do especial não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo, porquanto remanesce ausente o indispensável prequestionamento (Súmula 211/STJ).
+3. O entendimento desta Corte no sentido de que o requisito do prequestionamento é exigido por este STJ inclusive para as matérias de ordem pública. Nesse sentido, os seguintes julgados: AgInt no AREsp 1.468.726/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/10/2020, DJe de 22/10/2020; AgInt no AREsp 2.454.773/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024; AgInt no AREsp 2.535.300/AP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/9/2024, DJe de 6/9/2024; EDcl no AgInt no AREsp 1.915.831/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/6/2024, DJe de 6/6/2024.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.138.903/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/10/2024, DJe de 21/10/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
