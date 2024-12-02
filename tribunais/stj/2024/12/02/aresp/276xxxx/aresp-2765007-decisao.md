@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ADAO BITENCOURT DE LIMA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+PROCESSUAL CIVIL - JULGAMENTO MONOCRÁTICO - AGRAVO INTERNO - CPC, ART. 1.021 - REDISCUSSÃO - DECISUM- SÚMULAS - SUBSISTÊNCIA O AGRAVO INTERNO, QUE DESAFIA A DECISÃO UNIPESSOAL FUNDADA NO ART. 932, INCS. IV E V, DO CÓDIGO DE PROCESSO CIVIL, NÃO SE PRESTA PARA A REDISCUSSÃO DAS MATÉRIAS LÁ VENTILADAS, RAZÃO PELA QUAL CABE AO RECORRENTE IMPUGNAR A AUSÊNCIA DOS REQUISITOS QUE PERMITEM A ANÁLISE SUMÁRIA DO PLEITO RECURSAL OU DEMONSTRAR QUE O PARADIGMA NÃO É APLICÁVEL À ESPÉCIE. ADEMAIS, DE TODO MODO, NÃO HÁ FALAR EM REFORMA DO DECISUM QUANDO O RESULTADO É CONDIZENTE COM AS SÚMULAS E JULGADOS QUE O AMPARARAM.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 355, I, e 369 do CPC, no que concerne à ocorrência de cerceamento de defesa, tendo em vista o indeferimento de prova pericial imprescindível para elucidação dos fatos da causa, trazendo a seguinte argumentação:
+1  De início, suscita-se a violação ao artigo 355, inciso I, do Código de Processo Civil, uma vez que, diante da necessidade de realização de prova pericial, o feito não comporta julgamento antecipado.
+Destaca-se, ainda, a desconformidade do acórdão com o artigo 369 do Código de Processo Civil, visto que a consumidora foi impedida de produzir prova legítima e fundamental para sustentar sua pretensão, sendo que a ausência da prova indeferida resultou na improcedência dos pedidos.
+Assim, a decisão proferida em última instância pelo Tribunal de Justiça de Santa Catarina contrariou lei federal ao julgar antecipadamente o feito e, ao indeferir o pedido de realização da prova pericial para julgar improcedentes os pedidos autorais.
+ ..
+Assim, ao afastar a aplicação da teoria da supressio, considerando a impossibilidade confirmação de negócio jurídico nulo pelo decurso do tempo (artigo 169 do Código Civil), constitui cerceamento de defesa a improcedência dos pedidos sem oportunizar a realização da prova pericial requerida pelo consumidor, afinal, constatada a falsidade das assinatura, levaria a procedência da demanda.
+Ante o exposto, com o reconhecimento de violação das referidas regras processuais, requer o retorno dos autos à primeira instância e, por conseguinte, a anulação de todos os atos de natureza decisória praticados a fim de que seja aberta a fase probatória, em observância ao devido processo legal (fls. 450/452).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Ora, no caso concreto, está mais do que evidenciado que a prova reclamada pela parte insurgente seria absolutamente inútil para o fim pretendido, haja vista que os documentos apresentados são suficientes para demonstrar o fato impeditivo de seu direito, de modo que o exame do caso prescinde da manifestação de perito.
+Diante desse contexto, tampouco há como dar guarida à tese de que houve irregularidade na contratação discutida neste processo (fl. 368).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
