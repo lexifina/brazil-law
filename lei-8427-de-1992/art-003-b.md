@@ -1,0 +1,1 @@
+Art. 3º-B. O Conselho Monetário Nacional definirá os parâmetros e a metodologia de cálculo da subvenção ao prêmio pago na aquisição de contratos de opção privada de venda negociados em bolsas de mercadorias e futuros, de que trata o inciso VI do caput do art. 2º desta Lei.

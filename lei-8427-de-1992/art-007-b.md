@@ -1,0 +1,1 @@
+Art. 7º-B. A concessão de crédito rural envolvendo recursos subvencionados sob a forma de equalização de taxas está condicionada à assinatura pelo tomador de crédito, admitida a forma eletrônica, de termo de consentimento para o compartilhamento das informações com os órgãos gestores dos programas de crédito e com a Controladoria-Geral da União e o Tribunal de Contas da União.
