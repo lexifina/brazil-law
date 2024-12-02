@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. INCIDÊNCIA DA SÚMULA 284/STF. NÃO INDICADOS OS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - CASO EM EXAME:
+1. Agravo regimental em que a parte agravante impugna decisão monocrática que não conheceu o recurso agravo em recurso especial, em razão da incidência da Súmula 284/STF.
+2. O agravo em recurso especial reitera os fundamentos do especial, apontando dispositivos que amparariam a pretensão recursal, no sentido da nulidade do feito por cerceamento de defesa e da prova colhida, bem como direito à minorante do tráfico privilegiado e ao regime aberto.
+II - QUESTÃO EM DISCUSSÃO:
+3. Consiste em saber se o agravo regimental em recurso especial atende aos pressupostos de admissibilidade, para, assim, ser conhecido pelo Superior Tribunal de Justiça e, se o caso, provido.
+III - RAZÕES DE DECIDIR:
+4. A decisão agravada está de acordo com a jurisprudência desta Corte, no sentido de que, para transcender o óbice da Súmula 284/STF, a defesa precisa apontar o dispositivo legal tido por violado, ou quais dispositivos legais seriam objeto de dissídio jurisprudencial, sendo que a mera citação de artigo de lei na peça recursal ou do dispositivo em que se funda a pretensão recursal não supre a exigência constitucional.
+IV - AGRAVO REGIMENTAL NÃO PROVIDO.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLEBER DE OLIVEIRA contra decisão da Presidência que não conheceu recurso especial em razão da incidência da Súmula 284/STF.
+A parte recorrente reitera as razões do especial, no qual aponta dispositivos de lei que amparariam a pretensão recursal.
+Requer, assim, seja conhecido e provido o recurso.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, ante a aplicação da Súmula 284/STF (e-STJ fls. 1326-1328).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. INCIDÊNCIA DA SÚMULA 284/STF. NÃO INDICADOS OS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - CASO EM EXAME:
+1. Agravo regimental em que a parte agravante impugna decisão monocrática que não conheceu o recurso agravo em recurso especial, em razão da incidência da Súmula 284/STF.
+2. O agravo em recurso especial reitera os fundamentos do especial, apontando dispositivos que amparariam a pretensão recursal, no sentido da nulidade do feito por cerceamento de defesa e da prova colhida, bem como direito à minorante do tráfico privilegiado e ao regime aberto.
+II - QUESTÃO EM DISCUSSÃO:
+3. Consiste em saber se o agravo regimental em recurso especial atende aos pressupostos de admissibilidade, para, assim, ser conhecido pelo Superior Tribunal de Justiça e, se o caso, provido.
+III - RAZÕES DE DECIDIR:
+4. A decisão agravada está de acordo com a jurisprudência desta Corte, no sentido de que, para transcender o óbice da Súmula 284/STF, a defesa precisa apontar o dispositivo legal tido por violado, ou quais dispositivos legais seriam objeto de dissídio jurisprudencial, sendo que a mera citação de artigo de lei na peça recursal ou do dispositivo em que se funda a pretensão recursal não supre a exigência constitucional.
+IV - AGRAVO REGIMENTAL NÃO PROVIDO.
+VOTO
+A decisão agravada, proferida pela Presidência, não conheceu do agravo em recurso especial em razão do óbice previsto na Súmula 284/STF, porquanto "a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional" (e-STJ fl. 1250).
+De fato, compulsando as razões do recurso especial, verifica-se que não foram indicados os dispositivos legais tidos por violados, limitando-se o recorrente a apontar os dispositivos legais em que se funda a pretensão recursal, pelo que aplicável, à espécie, o comando da Súmula n. 284/STF, como bem assentado na decisão agravada. No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DECISÃO AGRAVADA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE TIDO POR VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. DECISÃO MANTIDA. I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos. II - A ausência de indicação do dispositivo legal que teria sido supostamente violado inviabiliza o conhecimento do recurso especial, pois incide à espécie a Súmula 284 do Supremo Tribunal Federal. Precedentes. Agravo regimental desprovido. (AgRg no AREsp n. 2.142.060/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/12/2022, DJe de 20/12/2022.)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE CONTRADIÇÃO. SÚMULAS 284 DO STF E 7 DO STJ. EMBARGOS REJEITADOS. 1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte. 2. Não se verifica a ocorrência de contradição no julgado, na medida em que o acórdão embargado negou provimento ao agravo regimental, diante da incidência, no caso, dos óbices das Súmulas 284 do STF e 7 do STJ. Na hipótese, o embargante, ao interpor o recurso especial, não indicou o artigo de lei federal supostamente violado; e a tese defensiva, acerca da inexigibilidade de conduta diversa, não foi acolhida na origem, de forma fundamentada, razão pela qual entender em sentido diverso demandaria revolvimento fático-probatório, incabível na via eleita. 3. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp n. 1.961.910/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022.)
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 284/STF exige que o recorrente realize o cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal, não bastando, para tanto, a menção superficial a leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar todas as causas específicas de inadmissão do recurso especial, sob pena de não conhecimento do agravo.
+2. O insurgente deixou de refutar, de forma direta, objetiva e eficaz, os seguintes fundamentos: Súmulas n. 83 do STJ e 284 do STF.
+3. A argumentação empreendida pela defesa não foi suficiente para afastar a indicação da jurisprudência do STJ de que, nos casos de receptação, "cabe à defesa do acusado flagrado na posse do bem demonstrar a sua origem lícita ou a conduta culposa, fato não ocorrido na presente hipótese  ..  (REsp n. 1.961.255/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 11/4/2024.)".
+4. No tocante ao dissídio jurisprudencial, de fato não houve a devida demonstração de que situações fáticas semelhantes tiveram conclusões jurídicas distintas, o que caracteriza a deficiência recursal e justifica a incidência do óbice previsto na Súmula n. 284 do STF.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.549.078/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/6/2024, DJe de 13/6/2024).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. ACÓRDÃO DE HABEAS CORPUS APONTADO COMO PARADIGMA, IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Não basta, para tanto, a menção en passant a leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação. Desse modo, a incidência da Súmula 284 do STF é medida que se impõe.
+2. Não se revela cognoscível a interposição do recurso com base na alínea "c" do art. 105, inciso III, da Constituição da República, quando a demonstração do dissídio interpretativo se restringe à mera transcrição dos acórdãos tidos por paradigmas.
+3. A jurisprudência deste Tribunal é firme no sentido de que não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência 4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.509.469/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/3/2024, DJe de 5/4/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
