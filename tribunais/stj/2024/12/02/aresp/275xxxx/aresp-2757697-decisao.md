@@ -1,0 +1,39 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado (Apelação Criminal n. 1.0000.23.324.917-6/002).
+Em suas razões, o Parquet alegou a violação dos arts. 59, caput, I e II, e 68, caput, do Código Penal, ao argumento de que, ao dar parcial provimento ao pleito defensivo, o Tribunal a quo reduziu demasiadamente a pena-base, a patamar não suficiente para punir e prevenir a prática criminosa.
+Requereu fosse restabelecido o critério de valoração feito pelo Juízo de primeiro grau.
+O recurso especial foi inadmitido no juízo de admissibilidade realizado pelo Tribunal estadual, ante a incidência da Súmula n. 83 do STJ.
+O agravante ressalta que os julgados mencionados no decisum que inadmitiu o especial não guardam similitude com o caso em tela e assenta não haver discordância quanto à valoração das circunstâncias judiciais, mas apenas em relação à fração de aumento, de modo que não há que se falar em revolvimento de prova.
+O Ministério Público Federal opinou pelo desprovimento do agravo.
+Decido.
+Em relação à dosimetria, faço lembrar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+No caso, o Magistrado sentenciante havia fixado a reprimenda básica em 16 anos e 4 meses de reclusão, por avaliar em desfavor do réu a culpabilidade e as consequências do crime.
+A Corte estadual, em nova avaliação do apenamento, conservou a valoração das consequências do delito em prejuízo do réu e estabeleceu a sanção-base em 13 anos de reclusão. Na ocasião, o colegiado local asseverou o que se segue (fls. 913-914):
+Ademais, acerca da exasperação da pena-base, entendo que compete ao julgador, em atenção às peculiaridades do caso e sob seu livre convencimento motivado, individualizar a aplicação da reprimenda, tudo em observância aos princípios da proporcionalidade e da razoabilidade, afastando-se de critérios fechados ou exclusivamente matemáticos, de forma que não obedece a uma padronização. Nesse sentido:
+ ..
+Com isso, na primeira fase, prevalecendo apenas o exame desfavorável das consequências do crime, reduzo a pena-base para 13 anos de reclusão, por se tratar de patamar suficiente e adequado para os fins de prevenção e reprovação do delito.
+Opostos embargos de declaração pelo ora recorrente, eles foram assim rejeitados (fls. 934-935):
+Com efeito, o acórdão cuidou de analisar, cuidadosamente, as circunstâncias do fato descrito na denúncia e apurado em instrução criminal. Diante disso, no tópico referente à dosimetria da pena, consignou-se que, embora devida a valoração negativa das consequências do crime, a modulação da pena-base não se dá a partir de critérios meramente aritméticos, devendo a reprimenda ser fixada nos termos do artigo 59 do Código Penal, isto é, em patamar adequado para a prevenção e reprovação do crime. Confira-se, a propósito, a fundamentação adotada pela Turma Julgadora:
+ ..
+Nesse sentido, o Ministério Público, inconformado com a decisão contrária aos seus interesses, busca a reanálise de questão devidamente debatida e julgada no retro acórdão, que suficientemente apreciou as teses suscitadas pelas partes. É dizer, cuida-se de mera rediscussão de matéria, finalidade para qual não se prestam os embargos de declaração. E, conforme se infere dos autos, este Órgão Fracionário, fundamentando a decisão nos termos do artigo 93, IX da CRFB/88, cuidou de expor detalhadamente as razões do seu convencimento, orientado pela inteligência da legislação e jurisprudência aplicáveis ao caso concreto. Assim, no caso em tela, não obstante o esforço ministerial em demonstrar entendimento diverso, não há que se falar em omissão, ambiguidade, obscuridade ou contradição na decisão emanada da Turma Julgadora. Destarte, a rejeição dos presentes embargos declaratórios, ainda que opostos para fins de prequestionamento, é medida que se impõe.
+Em relação à proporcionalidade da exasperação, o acórdão recorrido está conforme a jurisprudência desta Corte, firme em assinalar o seguinte:
+ ..
+Quanto ao critério de aumento na primeira fase, insta consignar que: "A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética em que se dá pesos absolutos a cada uma delas, a serem extraídas de cálculo matemático, levando-se em conta as penas máxima e mínima cominadas ao delito cometido pelo agente, mas sim um exercício de discricionariedade vinculada que impõe ao magistrado apontar os fundamentos da consideração negativa, positiva ou neutra das oito circunstâncias judiciais mencionadas no art. 59 do CP e, dentro disso, eleger a reprimenda que melhor servirá para a prevenção e repressão do fato-crime" (AgRg no HC n. 188.873/AC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 16/10/2013).
+ ..
+(AgRg no HC n. 726.443/SP, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), 5ª T., DJe 3/5/2022)
+ ..  art. 59 do Código Penal, com redação conferida pela Lei n.º 7.209/1984, o Legislador elencou oito circunstâncias judiciais para individualização da pena na primeira fase da dosimetria, quais sejam: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias; as consequências do crime; e o comportamento da vítima.
+2. Ao considerar desfavoráveis as circunstâncias judiciais, deve o Julgador declinar, motivadamente, as suas razões, que devem corresponder objetivamente às características próprias do vetor desabonado.
+ ..
+(REsp n. 1.794.854/DF, Rel. Ministra Laurita Vaz, 3ª S., DJe 1º/7/2021, Tema Repetitivo 1077)
+ ..
+1. Inexiste critério puramente aritmético para a dosimetria da pena, cabendo ao julgador, a quem a lei confere certo grau de discricionariedade regrada, sopesar cada circunstância à luz da proporcionalidade, consoante seu prudente arbítrio. Precedentes.
+ ..
+(AgRg no AREsp n. 2.027.512/SP, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 24/6/2022)
+Ademais: "A dosimetria da pena não está atrelada a critérios rígidos, puramente objetivos, submetendo-se a certa discricionariedade vinculada do julgador, dentro dos limites permitidos pela legislação pertinente. Precedentes" (AgRg no REsp n. 1.984.631/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 2/5/2022).
+Assim, uma vez que foram apontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo feito pelas instâncias de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+Conforme entendimento do Supremo Tribunal Federal:
+A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015)
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
