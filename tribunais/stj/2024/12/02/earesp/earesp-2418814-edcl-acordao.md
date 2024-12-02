@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO EMBARGADO. OMISSÃO . INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por COMERCIAL NORTE LTDA. contra o acórdão de fls. 534-540, em que foi negado provimento ao agravo interno nos termos da seguinte ementa (fl. 534):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. PIS E COFINS. OPERAÇÕES DE VENDA DE MERCADORIAS DESTINADAS ÀS EMPRESAS SITUADAS NAS ÁREAS DE LIVRE COMÉRCIO DE MACAPÁ/AP E SANTANA/AP. NÃO EQUIVALÊNCIA À EXPORTAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. O benefício fiscal relativo à venda de produtos para empresas situadas na Zona Franca de Manaus não pode ser estendido de forma automática para as vendas destinadas a toda e qualquer Área de Livre Comércio.
+2. As vendas de produtos destinados às empresas situadas nas áreas de Boa Vista/RR e Bonfim/RR são equivalentes à exportação, não alcançando, o benefício em questão, as mercadorias com destino à ALC de Macapá/AP e Santana/AP.
+3. Agravo interno desprovido.
+Alega a parte embargante que o acórdão padece de omissão, aduzindo, em suma, que (fls. 548-549):
+A legislação que rege a ALC"s de Boa Vista e Bonfim deve ser aplicada a Área de Livre Comércio de Macapá e Santana - ALCMS, essa determinação ocorre por força do § 2º Art. 11 da Lei 8.387/91, que é claro ao afirmar que se aplica a ALCMS no que couber, o disposto na Lei nº 8.256/91.
+O prazo para impugnação decorreu in albis (fl. 558).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO EMBARGADO. OMISSÃO . INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado concluiu-se pela conformidade do acórdão proferido pelo Tribunal de origem à jurisprudência do Superior Tribunal de Justiça, quanto ao não alcance do benefício fiscal assegurado à ZFM às vendas de mercadorias para empresas situadas nas Áreas de Livre Comércio (ALC) de Macapá/AP e Santana/AP, que explicitamente assinalou o seguinte (fls. 539-540):
+Segundo se vê, a decisão agravada consignou que a Corte regional, em conformidade com a jurisprudência deste Sodalício, teria entendido que o benefício fiscal relativo à venda de produtos para empresas situadas na Zona Franca de Manaus não poderia ser estendido de forma automática para as vendas destinadas a toda e qualquer Área de Livre Comércio e que as vendas de produtos destinados às empresas situadas nas áreas de Boa Vista/RR e Bonfim/RR seriam equivalentes a exportação, não alcançando, o benefício em questão, as mercadorias com destino à ALC de Macapá/AP e Santana/AP.
+Pois bem, a jurisprudência do Superior Tribunal de Justiça adotou o entendimento de que:
+ ..  a venda de mercadorias destinadas à Zona Franca de Manaus equivale à exportação de produto brasileiro para o exterior, para efeitos fiscais, nos termos do Decreto-lei n. 288/67. Por conseguinte, o contribuinte enquadrado nessas condições faz jus ao benefício fiscal instituído pelo programa REINTEGRA. (AgInt no R Esp 1.657.269/SC, relatora Ministra Regina Helena Costa, D Je 02/05/2019.)
+Compreende-se, também, que o benefício fiscal assegurado à ZFM estende tão somente às vendas de mercadorias para empresas situadas nas Áreas de Livre Comércio (ALC) de Boa Vista/RR e Bonfim/RR. Sobre a questão, destaco os seguintes julgados:
+TRIBUTÁRIO. CONTRIBUIÇÃO AO PIS E COFINS. OPERAÇÕES DE VENDAS DESTINADAS À ZONA FRANCA DE MANAUS - ZFM. EQUIVALÊNCIA. ÁREAS DE LIVRE COMÉRCIO - ALC. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência desta Corte superior, a possibilidade de extensão do benefício fiscal assegurado à Zona Franca de Manaus, referente à equivalência da venda feita naquela região àquela efetivada para empresa estabelecida no exterior, deve se dar em conformidade com os atos normativos de cada Área de Livre Comércio, estando tal benefício limitado às ALCs de Boa Vista/RR e Bonfim/RR, excluídas as cidades de Santana/AP e Macapá/AP, caso dos autos.
+2. Agravo interno desprovido. (AgInt no R Esp 2.113.120/AP, relator Ministro Gurgel de Faria, D Je 15/5/2024.)
+PROCESSUAL CIVIL. ADUANEIRO. TRIBUTÁRIO. REINTEGRA. CREDITAMENTO POR MERCADORIAS DESTINADAS ÀS ÁREAS DE LIVRE COMÉRCIO DOS MUNICÍPIOS DE: TABATINGA - AM, GUAJARÁ-MIRIM - RO, BOA VISTA - RR, BONFIM - RR, BRASILEIA - AC, EPITACIOLÂNDIA - AC, CRUZEIRO DO SUL - AC, MACAPÁ - AP, SANTANA - AP. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. UTILIZADO FUNDAMENTO PELO ACÓRDÃO E NÃO REBATIDO NO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 283 DO STF.
+I - Na origem, trata-se de mandado de segurança objetivando a inclusão, na base de cálculo do REINTEGRA (tanto na vigência da Lei n. 12.546/2011 como na Lei n. 13.043/2014), da receita oriunda das vendas destinadas à Zona Franca de Manaus e outras Áreas de Livre Comércio. Na sentença, a segurança foi concedida. No Tribunal a quo, a sentença foi parcialmente reformada.
+ ..
+V - Ainda que se ingressasse no fundo da matéria em discussão, tem-se que o Superior Tribunal de Justiça fixou que a venda de mercadorias para empresas situadas na Zona Franca de Manaus - ZFM equivale, para efeitos fiscais, à exportação de produto brasileiro para o estrangeiro, segundo interpretação do Decreto-Lei n. 288/1967.
+VI - Neste particular, foi editado Enunciado Sumular n. 640/STJ, segundo o qual: "O benefício fiscal que trata do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (REINTEGRA) alcança as operações de venda de mercadorias de origem nacional para a Zona Franca de Manaus, para consumo, industrialização ou reexportação para o estrangeiro."
+VII - Lado outro, afastando a tese defendida pela contribuinte, o Superior Tribunal de Justiça entende que o REINTEGRA não pode ser estendido de forma automática para as vendas destinadas a toda e qualquer Área de Livre Comércio - ALC, porque cada área possui legislação própria, devendo ser analisada tal possibilidade e compatibilidade caso a caso.
+VIII - No caso, não há falar em fruição do REINTEGRA em razão das mercadorias destinadas às ALC de Tabatinga - AM, Guajará-Mirim - RO, Brasileia - AC, Epitaciolândia - AC, Cruzeiro do Sul - AC, Macapá - AP, Santana - AP, conforme o entendimento fixado pelo Superior Tribunal de Justiça, de que não diverge o acórdão recorrido, segundo se pode verificar do seguinte acórdão: REsp 1.861.806/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 21/9/2020.
+IX - Agravo interno improvido. (AgInt no REsp 1.898.953/SC, relator Ministro Francisco Falcão, DJe 29/4/2021.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
