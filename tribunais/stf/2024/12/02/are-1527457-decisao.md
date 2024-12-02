@@ -1,0 +1,65 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CRIMINAL. DIREITO PENAL E PROCESSUAL PENAL. ESTELIONATO. ART. 171 E 147 DO CP. PLEITO DE ABSOLVIÇÃO PELO CRIME DE ESTELIONATO POR AUSÊNCIA DE PROVAS. NEGATIVA DO RÉU ISOLADA NO CONJUNTO PROBATÓRIO. AUTORIA E MATERIALIDADE COMPROVADAS. IMPOSSIBILIDADE. CONDENAÇÃO PELO DELITO MANTIDA. DOLO COMPROVADO. ANIMUS FRAUDANDI. VÍTIMA QUE, EM JUÍZO, AFIRMOU TER NEGOCIADO A COMPRA DO IMÓVEL COM O RECORRENTE. CONTRATO DE COMPRA E VENDA QUE REVELA QUE O RÉU SE IDENTIFICAVA COMO PROPRIETÁRIO DO IMÓVEL MESMO SEM COMPROVAÇÃO DESSA CONDIÇÃO. REEXAME DA DOSIMETRIA DA PENA. ESTELIONATO. 1º FASE: VALORAÇÃO NEGATIVA DAS MODULARES “ANTECEDENTES”, “CONDUTA SOCIAL” E “CONSEQUÊNCIAS DO CRIME”. DECOTE DA MODULAR CONDUTA SOCIAL. FUNDAMENTAÇÃO INIDÔNEA. MANUTENÇÃO DA VALORAÇÃO NEGATIVA DAS DEMAIS MODULARES. FUNDAMENTAÇÃO ADEQUADA. REDUÇÃO DA PENA DE MULTA. AMEAÇA. VALORAÇÃO NEGATIVA DAS MODULARES “ANTECEDENTES”, “CONDUTA SOCIAL”. DECOTE DA MODULAR CONDUTA SOCIAL. MANUTENÇÃO DA VALORAÇÃO NEGATIVA DOS ANTECEDENTES. FUNDAMENTAÇÃO ADEQUADA. MANUTENÇÃO DO REGIME ABERTO. NÃO SUBSTITUIÇÃO PENA RESTRITIVA DE DIREITO. CIRCUNSTÂNCIAS DESFAVORÁVEIS. RECURSO CONHECIDO E NÃO PROVIDO, COM REDUÇÃO DA PENA DE OFÍCIO.
+
+    1. Trata-se de apelação interposta por Rosendo José Feijó Ribeiro em face da sentença penal condenatória (fls. 258/272) proferida pelo Juízo da 18º Vara Criminal da Comarca de Fortaleza — CE, que o condenou à pena de 3 (três) anos de reclusão e 3 (três) meses de detenção, a serem cumpridas em regime inicial aberto, por incurso nas sanções tipificadas nos arts. 171, § 2º, inciso I e 147, caput, ambos do CPB. Irresignada, a defesa em suas razões recursais (fls. 297/301) pleiteia a reforma da sentença e a consequente absolvição do apelante, sob o argumento de ausência de provas contundentes e em razão do princípio da presunção de inocência com esteio nos arts. 386, inciso VII do Código de Processo Penal.
+
+    2. Compulsando os autos, verifico que o conjunto probatório, pelo qual o juízo de origem se pautou para proferir a condenação, mostra-se robusto e cristalino, especialmente se considerarmos a notitia criminis (fls. 3/9), contrato de compra e venda do imóvel (fls. 13/16), comprovantes de pagamento (fls. 17/27), declaração da vítima (fls. 29/31) e relatório final da autoridade policial (fls. 79/82). O tipo penal do estelionato está descrito no art. 171 do Código Penal, considerando que será considerado crime "obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artificio, ardil, ou qualquer outro meio fraudulento". In casu, a "vantagem ilícita obtida em prejuízo alheio" estaria consubstanciada em vender, permutar, dar em pagamento, em locação ou garantia coisa alheia como própria. Assim sendo, tanto a materialidade como a autoria delitiva podem ser confirmadas pelos documentos juntados, analisados em conjunto com os depoimentos prestados, conforme verifica-se dos trechos que abaixo transcrevo.
+
+    3. Como se vê, o conjunto probatório apresenta-se seguro e concludente, a indicar quantum satis a sua responsabilidade penal pela conduta que Ihe foi imputada. Assim, cotejando os substratos de convicção angariados, tem-se por configuradas as elementares do crime de estelionato, bem como do crime de ameaça, a determinar a manutenção da decisão objurgada e o afastamento do pleito absolutório. É que, dadas as circunstâncias em que se desenrolaram os fatos, está evidenciado o firme propósito da acusada de lograr indevido proveito patrimonial, não podendo falar em inexistência de dolo.
+
+    4. Logo, inviável a incidência do princípio do in dubio pro reo que tem como escopo resolver a dúvida em favor dos acusados com a finalidade de prevenir condenação injusta de pessoa inocente -, porquanto a conjuntura ora analisada conduz à conclusão cristalina acerca do crime perpetrado, circunstância que, por conseguinte, impossibilita a absolvição do recorrente.
+
+    5. Passo agora à análise da dosimetria da pena. Quanto ao crime de estelionato — art. 171 do CP. 1º FASE CIRCUNSTÂNCIAS JUDICIAIS. Na primeira fase, a pena-base foi estabelecida acima do patamar mínimo previsto em lei, ou seja, 3 (três) anos de reclusão, tendo sido valoradas as modulares “antecedentes”, “conduta social” e “consequências do crime”. Em relação aos antecedentes, o juízo sentenciante valorou negativamente tal modular sob o seguinte fundamento: “ANTECEDENTES - o sentenciado é possuidor de antecedentes criminais, em vista da informação trazida aos autos, que comprova a existência de uma condenação, sendo: processo nº 0943644-26.2000.8.06.0001, transitado em julgado na data de 31/10/2011 conforme pesquisa ao sistema CANCUN.”
+
+    6. Ao analisar o sistema CANCUN, observa-se que o acusado ostenta condenação pelo crime de estelionato no processo de nº 0943644-26.2000.8.06.0001, com trânsito em julgado em 31/10/2011. Conclui-se, portanto, que os maus antecedentes foram devidamente reconhecidos pelo Juízo de origem, de modo que está corretamente justificada a exasperação da pena-base nesse ponto. Portanto, a valoração negativa dos antecedentes deve ser mantida.
+
+    7. Na modular conduta social, o juízo sentenciante, ao valorá-la negativamente, utilizou o seguinte fundamento: “É desabonadora, pois conforme se apurou o acusado utiliza-se de meio de vida escuso, não respeitando ensinamentos básicos de formação de caráter, porque fez da sua vida uma ilusão, vivendo às custas de uma trama muito bem articulada”. Em relação à conduta social, adoto posicionamento diverso, porque se trata de vetorial referente ao relacionamento familiar, a integração comunitária e a responsabilidade profissional do agente. Nos autos, não há informação suficientemente abalizada que possa fundamentar, validamente, qualquer acréscimo ao mínimo legal em razão dessa circunstância. Circunstância judicial NEUTRA.
+
+    8. Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. In casu, em relação à vítima, o elevado prejuízo patrimonial (R$ 330.000,00 — trezentos e trinta mil reais) decorrente da ação delituosa do recorrente, justificando, portanto, o incremento da básica. Desse modo, mantenho a valoração negativa do vetor consequências do crime. Relativo a isto, necessário frisar que a jurisprudência passou a adotar como parâmetro ideal para individualização da pena, no tocante à primeira fase da dosimetria, o aumento na fração de 1/8 (justamente em razão do número de circunstâncias judiciais que integram o rol do art. 59 do Código Penal).
+
+    9. Nesse sentido com relação ao quantum de aumento para cada circunstância desfavorável, cumpre ressaltar que, diante do silêncio do legislador, a jurisprudência passou a reconhecer como critério ideal para individualização da pena na primeira etapa do procedimento dosimétrico o aumento na fração de 1/8 a cada circunstância judicial negativamente valorada, sendo facultado ao julgador, desde que mediante fundamentação idônea, estabelecer quantum superior. Desse modo, considerando que restaram duas circunstâncias judiciais negativas (antecedentes e consequências do crime, em caso de cada vetor desfavorável, o acréscimo à pena-base deverá ser de 1 (um) ano e 3 (três) meses de reclusão.
+
+    10. 2ª FASE - AGRAVANTES E ATENUANTES. Inexistentes causas agravantes e atenuantes. 3ª FASE — CAUSAS DE AUMENTO E DE DIMINUIÇÃO. Não verifico causas de diminuição, nem tampouco de aumento. Quanto à pena de multa, verifica-se a desproporcionalidade entre a pena privativa de liberdade e a pena de multa aplicada, devendo haver, portanto, o redimensionamento desta última para patamar diverso do já sentenciado, qual seja 14 (quatorze) dias-multa, cada um correspondendo a 1/30 (um trinta avos) do salário-mínimo vigente à época dos fatos. Em verdade, é forçoso reconhecer que a pena de multa não foi estabelecida no mínimo legal previsto no art. 171 do Código Penal, qual seja, 10 (dez) dias-multa. Tal fato se deu em razão de que a pena de multa segue as considerações realizadas na pena corpórea, tendo em vista que estas devem guardar a devida proporcionalidade.
+
+    11. No caso concreto, na dosimetria da pena realizada pelo juízo sentenciante, foram consideradas desfavoráveis as circunstâncias dos antecedentes e das consequências do crime, que resultou no aumento, consequente, da pena de multa. Todos esses fatores influíram para que a pena de multa também fosse exasperada. Acerca do assunto, a Súmula nº 61, do TJCE prescreve que pena de multa e pena corporal devem guardar proporcionalidade, in verbis:” A pena de multa prevista no preceito secundário do tipo penal deve observar a devida proporcionalidade com a pena privativa de liberdade aplicada”. Importa ressaltar, ainda, que é entendimento do Superior Tribunal de Justiça que a alegação de impossibilidade financeira não tem o condão de afastar ou reduzir a pena pecuniária.
+
+    12. Quanto ao crime de ameaça — art. 147 do CP. Sem maiores considerações, eis que o Juízo sentenciante fixou a pena definitiva no mínimo legal, não havendo o que se discorrer no presente caso em observância ao princípio da non reformatio in pejus. Desse modo, mantida a pena definitiva em 3 (três) meses de detenção. Portanto, resta a pena definitiva em 1 ano e 3 (três) meses de reclusão e 3 (três) meses de detenção, além do pagamento de 14 (quatorze) dias-multa. Destarte, inviável o acolhimento da substituição da pena privativa de liberdade por restritiva de direito e/ou medidas cautelares, ausentes seus requisitos autorizadores, vez que pesa contra o apelante circunstâncias desfavoráveis (antecedentes e consequências do crime), não sendo, portanto, a medida adequada ao caso.
+
+    13. Recurso conhecido e não provido com redução da pena de ofício.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXXV, LV e LVII, e 93, inciso IX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, inciso LV, e 93, inciso IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Penal e Processual Penal. 3. Estelionato. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Tema 660 da sistemática de repercussão geral. 7. Precedentes. 8. Agravo regimental não provido” (ARE nº 1.157.976/SP - AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 1º/08/2019).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIME DE ESTELIONATO PREVIDENCIÁRIO. ARTIGO 171, § 3º, DO CÓDIGO PENAL. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, LVI, DA CONSTITUIÇÃO FEDERAL. ILICITUDE DA PROVA. DENÚNCIA ANÔNIMA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO INTERNO DESPROVIDO” (ARE nº 1.200.926/SP - AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 04/06/2019).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 2 de dezembro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
