@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ATUALIZAÇÃO DE CÁLCULOS. INCIDÊNCIA DA TAXA SELIC. ACÓRDÃO REGIONAL QUE DECIDE COM AMPARO EM ATO NORMATIVO DE NATUREZA INFRALEGAL (RESOLUÇÃO) E FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE EXAME EM SEDE DE RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão proferido pelo Tribunal de origem decidiu a questão referente à incidência da Selic como fator de atualização monetária, a partir de dezembro de 2021, com lastro em ato normativo de natureza infralegal (Resolução n. 784/2022 CJF) e fundamento exclusivamente constitucional (Emenda Constitucional n. 113/2021), de modo que a sua revisão é inviável em recurso especial, que se destina a uniformizar a interpretação do direito federal infraconstitucional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO TOCANTINS contra a decisão de minha lavra, pela qual não conheci do recurso especial, nos termos da seguinte ementa (fl. 193):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ATUALIZAÇÃO DE CÁLCULOS. INCIDÊNCIA DA TAXA SELIC. ACÓRDÃO REGIONAL QUE DECIDE COM AMPARO EM ATO NORMATIVO DE NATUREZA INFRALEGAL (RESOLUÇÃO) E FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE EXAME EM SEDE DE RECURSO ESPECIAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+Na origem, o Juízo singular "homologou os cálculos elaborados pela COJUN, determinando a expedição de precatório/RPV, ajuizada por CICERA CLAUDIA DA SILVA" (fl. 65).
+Irresignada, a parte ora agravante interpôs agravo de instrumento, que não foi provido, nos termos do acórdão assim ementado (fl. 82):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ALEGAÇÃO DE ANATOCISMO NOS CÁLCULOS APRESENTADOS PELA COJUN. INOCORRÊNCIA. CRITÉRIOS DE CORREÇÃO. EMENDA CONSTITUCIONAL Nº 113/2021. APLICAÇÃO DA TAXA SELIC A PARTIR DA SUA ENTRADA EM VIGOR. INCIDÊNCIA SOBRE O VALOR CONSOLIDADO DO DÉBITO (PRINCIPAL CORRIGIDO MAIS JUROS). DECISÃO N. 434/2023 - PRESIDÊNCIA/ASPRE. MANUTENÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Ao contrário do argumentado pela parte Agravante, a Decisão de n. 434/2023 - PRESIDÊNCIA/ASPRE, que determina que a taxa SELIC deve incidir sobre o valor consolidado do débito (principal corrigido mais juros), se aplica aos cálculos anteriores a expedição de RPV/precatório.
+2. No caso dos autos, conclui-se, que os cálculos apresentados pela COJUN, observaram os dispositivos legais citados para elaboração/atualização do débito pela Contadoria, com a utilização da SELIC a partir dedezembro/2021 sobre o valor consolidado do débito (principal corrigido  juros), conforme anexo dos autos originários (evento 75).
+3. Recurso conhecido e no mérito não provido.
+Nas razões do recurso especial, a parte recorrente alegou, além do dissídio jurisprudencial, ofensa ao art. 4.º do Decreto n. 22.626/1933, ao argumento de que (fl. 118):
+ ..  a utilização da SELIC (correção  juros) como índice de atualização a partir de dez./2021 sobre o valor consolidado (correção  juros) resultará inexoravelmente em anatocismo ("juros sobre juros") e, por conseguinte, afronta ao art. 4º da Lei da Usura ("é proibido contar juros dos juros").
+Contrarrazões às fls. 144-171.
+Na origem, foi admitido o recurso especial (fl. 184-188).
+A decisão de fls. 193-196 não conheceu do recurso especial.
+Neste agravo interno, a parte agravante sustenta que, "a despeito de o Tribunal local ter feito menção ao artigo 3º da EC nº. 113/2021, ao decidir a lide, afastou as teses de defesa do Estado do Tocantins fundadas na Lei de Usura, fazendo referência expressa ao conteúdo normativo do dispositivo infraconstitucional para chegar as conclusões diversas das sustentadas pelo ente federativo" (fl. 205).
+Argumenta que não há falar "em inadequação da via eleita ou em usurpação da competência da Suprema Corte sobre a matéria, de forma que o recurso especial do Estado não encontra óbice no fundamento aplicado pela decisão singular agravada" (fl. 205).
+Requer a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Segunda Turma desta Corte Superior.
+Não foi apresentada impugn ação (fl. 211).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ATUALIZAÇÃO DE CÁLCULOS. INCIDÊNCIA DA TAXA SELIC. ACÓRDÃO REGIONAL QUE DECIDE COM AMPARO EM ATO NORMATIVO DE NATUREZA INFRALEGAL (RESOLUÇÃO) E FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE EXAME EM SEDE DE RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão proferido pelo Tribunal de origem decidiu a questão referente à incidência da Selic como fator de atualização monetária, a partir de dezembro de 2021, com lastro em ato normativo de natureza infralegal (Resolução n. 784/2022 CJF) e fundamento exclusivamente constitucional (Emenda Constitucional n. 113/2021), de modo que a sua revisão é inviável em recurso especial, que se destina a uniformizar a interpretação do direito federal infraconstitucional.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não prospera.
+Quanto à questão de fundo, o Tribunal de origem assim decidiu (fls. 75-76; grifos diversos do original):
+No que diz respeito a atualização de débitos fazendários pela SELIC e acréscimo de juros, deve ser observada a Emenda Constitucional n. 113/2021, cujo art. 3º trata justamente da metodologia a ser aplicada. Ipsis litteris:
+Art. 3º Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente.
+Nesse sentido, registra-se que o art. 3º da EC nº 113/2021, dispõe que não importa a natureza da ação, ou seja, aplica-se a SELIC às demandas que envolvam a Fazenda Pública, sejam elas cíveis, tributárias ou previdenciárias.
+À vista disso, no caso em análise, verifica-se que o ente público foi condenado ao pagamento de progressões referente a férias vencidas e não gozadas, além de férias proporcionais. Dessa forma, cuidando-se de relação jurídica não tributária contra a Fazenda Pública, a condenação se sujeita aos seguintes encargos de acordo com o Tema Repetitivo nº 905 do Superior Tribunal de Justiça:
+ ..
+Nesse viés, ao contrário do que argumentado pela parte Agravante a Decisão n. 434/2023 - PRESIDÊNCIA/ASPRE, a qual determina que a taxa SELIC deve incidir sobre o valor consolidado do débito (principal corrigido mais juros), se aplica aos cálculos anteriores a expedição de RPV/precatório, como no caso em tela. Nesse sentido, confira-se:
+ ..  Com efeito, como a Decisão nº 388/2022-ASPRE seguiu a orientação do Conselho da Justiça Federal vigente à época, mas que em 08 de agosto de 2022 o mesmo Conselho adotou metodologia distinta para aplicação da SELIC, deixando de incidir apenas sobre o valor principal corrigido monetariamente, passando a incidir sobre o valor consolidado do débito (principal corrigido  juros), deve a COJUN também ajustar a metodologia aplicada tal como orientado na Resolução nº 784/2022 CJF, aplicando a SELIC sobre o valor consolidado do cálculo (principal corrigido  juros de mora)."
+Portanto, a partir da publicação da Emenda Constitucional n. 113 de 09 de dezembro de 2021, a atualização do crédito deve ser feita pela taxa SELIC, com incidência sobre o valor do principal atualizado.
+Desse modo, da análise dos autos, conclui-se, que os cálculos apresentados pela COJUN, foram observados os dispositivos legais citados para elaboração/atualização do débito pela Contadoria, com a utilização da SELIC a partir de dezembro/2021 sobre o valor consolidado do débito (principal corrigido  juros), conforme anexo dos autos originários (evento 75).
+Isto posto, uma vez que observados os dispositivos legais que regem a matéria, os cálculos realizados pela COJUN não merecem ser modificados.
+Dessa forma, reitero que o acórdão proferido pelo Tribunal de origem decidiu a questão referente à incidência da Selic como fator de atualização monetária, a partir de dezembro de 2021, com lastro em ato normativo de natureza infralegal (Resolução n. 784/2022 CJF) e fundamento exclusivamente constitucional (Emenda Constitucional n. 113/2021), de modo que a sua revisão é inviável em recurso especial, que se destina a uniformizar a interpretação do direito federal infraconstitucional.
+Nesse sentido, destaco as seguintes decisões monocráticas: REsp n. 2.149.542/TO, relator Ministro Teodoro Silva Santos, DJe de 20/06/2024; REsp n. 2.171.860/TO, relatora Ministra Maria Thereza de Assis Moura, DJe de 15/10/2024; REsp n. 2.149.245/TO, relator Ministro Herman Benjamin, DJe de 19/06/2024; REsp n. 2.165.120/TO, relator Ministro Francisco Falcão, DJe de 1 0/09/2024.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
