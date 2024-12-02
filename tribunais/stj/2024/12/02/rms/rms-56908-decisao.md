@@ -1,0 +1,38 @@
+DECISÃO
+Trazem os autos, originariamente, mandado de segurança impetrado por Simas Industrial de Alimentos S/A, contra ato atribuído ao Secretário de Tributação do Estado do Rio Grande do Norte, consistente na inclusão na base de cálculo do ICMS dos valores relativos ao Encargo de Uso do Sistema de Distribuição (EUD), da Tarifa de Uso do Sistema de Distribuição (TUSD) e da Tarifa de Uso do Sistema de Transmissão (TUST).
+O Tribunal de origem denegou a segurança, em aresto assim ementado (fl. 189):
+DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. ENERGIA ELÉTRICA. ENCARGOS DE USO DO SISTEMA DE DISTRIBUIÇÃO - EUSD. TAXA DE USO DO SISTEMA DE TRANSMISSÃO DE ENERGIA ELÉTRICA (TUST) E TAXA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA (TUSD). PLEITO DE EXCLUSÃO DOS CITADOS ENCARGOS DA BASE DE CÁLCULO DO ICMS. DESCABIMENTO. INDISSOCIABILIDADE DAS FASES DE GERAÇÃO, TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA, COM A CONSEQÜENTE INCLUSÃO DOS CUSTOS A CADA UMA DELAS INERENTES NO PREÇO FINAL, DE MODO A COMPOR A BASE DE CÁLCULO DO MENCIONADO TRIBUTO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE ESTADUAL. DENEGAÇÃO DA SEGURANÇA.
+No recurso ordinário, a parte recorrente sustenta que devem ser excluídos da base de cálculo do ICMS os valores relativos ao Encargo de Uso do Sistema de Distribuição (EUD), da Tarifa de Uso do Sistema de Distribuição (TUSD) e da Tarifa de Uso do Sistema de Transmissão (TUST).
+Contrarrazões apresentadas às fls. 236/241.
+Parecer do Ministério Público Federal, às fls. 252/254, pelo provimento do recurso.
+Às fls. 256/259, proferi decisão determinando a devolução dos autos à Corte de origem para juízo de adequação ao Tema 986/STJ.
+Foi então que o Tribunal de origem restituiu os autos a este STJ por compreender inexistir juízo de admissibilidade neste recurso (fls. 283/284).
+Vieram os autos conclusos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhimento.
+Como cediço, a autoridade coatora é aquela que "que detém atribuição para adoção das providências tendentes a executar ou corrigir o ato combatido" (RMS 16.708/TO, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 18/04/2005, p. 212).
+Na espécie, o ato atacado foi atribuído ao Secretário de Estado da Fazenda, questionando-se na presente ação a exigência de ICMS dos valores relativos ao Encargo de Uso do Sistema de Distribuição (EUD), da Tarifa de Uso do Sistema de Distribuição (TUSD) e da Tarifa de Uso do Sistema de Transmissão (TUST).
+No entanto, o Secretário de Estado da Fazenda não ostenta legitimidade para figurar no pólo passivo do mandado de segurança, pois não é de sua competência afastar eventual cobrança indevida de tributo.
+Com efeito, a própria Constituição Estadual determina que compete aos Secretários de Estado as funções de assessoramento e supervisão, consoante se observa do art. 66, parágrafo único, desse diploma, verbis:
+Art. 66. Os Secretários de Estado são escolhidos dentre brasileiros maiores de vinte e um (21) anos e no exercício dos direitos políticos. Parágrafo único. Compete ao Secretário de Estado, além de outras atribuições estabelecidas nesta Constituição e na lei:
+I - exercer a orientação, coordenação e supervisão dos órgãos e entidades da administração estadual e referendar os atos e decretos assinados pelo Governador do Estado, na área de sua competência;
+II - expedir instruções para a execução das leis, decretos e regulamentos;
+III - apresentar ao Governador do Estado relatório anual de sua gestão na Secretaria;
+IV - praticar os atos pertinentes às atribuições que lhe forem outorgadas pelo Governador do Estado.
+A propósito, reconhecendo a ilegitimidade do Secretário de Estado da Fazenda para figurar no polo passivo de mandado de segurança no qual se discute a exigibilidade de tributos, confiram-se os seguintes julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ICMS. ALEGAÇÃO DE COBRANÇA INDEVIDA DE ICMS SOBRE TUST E TUSD AUTORIDADE COATORA. SECRETÁRIO DE ESTADO. ILEGITIMIDADE PASSIVA.
+1. Trata-se, na origem, de Mandado de Segurança impetrado por Indústria de Compensados Sudati Ltda., ora recorrente, tendo como autoridade coatora o Secretário da Fazenda do Estado do Paraná, em virtude de incidência do ICMS sobre os valores cobrados pelo uso do sistema de distribuição e transmissão de energia elétrica.
+2. O Tribunal de origem entendeu que "o Secretário de Estado da Fazenda não possui legitimidade para figurar como autoridade coatora em mandados de segurança nos quais se discute a constituição e cobrança de tributos, isto porque o mesmo apenas orienta os órgãos subordinados a respeito da aplicação da lei no âmbito administrativo, não sendo este que ordena, tampouco pratica o ato de cobrança de tributos, agindo, portanto, apenas de maneira fiscalizatória" (fl. 224, e-STJ).
+3. Com efeito, o Secretário de Estado é o agente político livremente escolhido pelo Governador para auxiliá-lo na elaboração e implantação das políticas fiscais, o que não se confunde com lançamento, cobrança de ICMS ou análise de pedidos de restituição (RMS 29.478/PA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/6/2010).
+4. O STJ tem firme jurisprudência no sentido de que Secretário de Estado não possui legitimidade para figurar no polo passivo de Mandado de Segurança em que se discute incidência de tributos, "na medida em que referida autoridade apenas edita comandos gerais para a fiel execução da lei, não agindo diretamente na execução da lavratura de auto de infração tributária" (RMS 38.129/GO, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 18/5/2017, DJe 1º/8/2017. Nesse sentido: REsp 1.656.756/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/5/2017; RMS 49.806/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2016; AgInt no RMS 51.519/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 16/12/2016; RMS 43.239/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, Je 11/5/2016; AgRg no RMS 38.355/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2/8/2013.
+5. Agravo Interno não provido.
+(AgInt no RMS n. 64.072/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/11/2020.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. PRETENSÃO VOLTADA CONTRA O LANÇAMENTO DO IMPOSTO. SECRETÁRIO DE ESTADO DA TRIBUTAÇÃO DO RIO GRANDE DO NORTE. ILEGITIMIDADE PASSIVA.
+1. O Superior Tribunal de Justiça tem-se pronunciado no sentido de que o Secretário de Estado da Fazenda não é parte legítima para figurar como autoridade coatora em mandados de segurança em que se discute a constituição e a cobrança de tributos, não havendo falar, de outro lado, na possibilidade de encampação nem em eventual poder hierárquico sobre seus subordinados, uma vez que sua presença indevida no mandamus altera a competência para o julgamento da ação mandamental.
+2. Hipótese em que o writ, discutindo a base de cálculo do ICMS, foi impetrado contra o Secretário de Estado da Tributação do Rio Grande do Norte com objetivo de impedir o lançamento do imposto sobre os valores referentes ao Encargo de Uso de Sistema de Distribuição (EUSD), à Tarifa de Uso de Sistema de Distribuição (TUSD) e à Tarifa de Uso de Sistema de Transmissão (TUST).
+3. Agravo interno não provido.
+(AgInt no RMS n. 55.681/RN, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2018.)
+Assim, ainda que por outro fundamento (ilegitimidade da autoridade apontada como coatora para figurar no polo passivo do presente mandamus), deve ser mantida a negativa de provimento ao recurso.
+ANTE O EXPOSTO, nego provimento ao recurso ordinário, nos termos da fundamentação.
+Publique-se .
+EMENTA
