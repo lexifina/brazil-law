@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A. com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL - DIREITO CONSTITUCIONAL E DIREITO DO CONSUMIDOR - APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - DIREITO À COMPLEMENTAÇÃO DE AÇÕES EMITIDAS E NÃO SUBSCRITAS - INCLUSÃO DA UNIÃO FEDERAL NO PÓLO PASSIVO DO FEITO EM VIRTUDE DE COMPETÊNCIA DA TELEBRÁS - NÃO CABIMENTO - AUSÊNCIA DE ESPECIFICAÇÃO NO ITEM 5.1, § 4º, DO EDITAL DE DESESTATIZAÇÃO QUE FUNDAMENTE O DIREITO DE REGRESSO SUSTENTADO E A CONSEQUENTE INCOMPETÊNCIA ABSOLUTA DO JUÍZO ESTADUAL PARA JULGAMENTO DO FEITO - SENTENÇA EXTRA PETITA NÃO CONFIGURADA - DECISÃO PROFERIDA NOS TERMOS DO PLEITO INICIAL - BONIFICAÇÕES, JUROS SOBRE CAPITAL PRÓPRIO E OUTRAS VANTAGENS LEGAIS GERADAS PELA DIFERENÇA DE QUANTIDADE DE AÇÕES SUBSCRITAS - DECORRÊNCIA DA EXISTÊNCIA DA DIVIDA PLEITEADA - ILEGITIMIDADE PASSIVA DA APELANTE -SUCESSÃO DA EMPRESA TELECOMUNICAÇÕES DO PARANÁ/TELEPAR - INEQUIVOCAASSUNÇÃO DOS EFEITOS OBRIGACIONAIS DOS CONTRATOS TOMADOS PELA ANTECESSORA - APLICAÇÃO DAS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR PARA CONTRATOS FIRMADOS ANTES DO SEU ADVENTO - POSSIBILIDADE - PREJUDICIAL DE MÉRITO DE PRESCRIÇÃO - NÃO OCORRÊNCIA-RELAÇÃO OBRIGACIONAL - APLICAÇÃO DO PRAZO DE 20 (VINTE) ANOS PREVISTO NO ARTIGO 177 DO CÓDIGO CIVIL DE 1916 E DE 10 (DEZ) ANOS DO ARTIGO 205 DO CÓDIGO CIVIL DE 2002 - CONTRATOS DE EXECUÇÃO CONTINUADA - SUBSCRIÇÃO DE AÇÕES EM QUANTIDADE INFERIOR AO VALOR EFETIVAMENTE DISPONIBILIZADO PELOS INVESTIDORES - IMPEDIMENTO DA AUFERIÇÃO DE RENDIMENTOS PRÓPRIOS DA CONDIÇÃO DE ACIONISTA - DEVER DE INDENIZAR - RECURSO CONHECIDO E NÃO PROVIDO.
+1. Da análise do item 5.1, § 4º, do Edital de Desestatização, é possível verificar que não há especificação das obrigações de competência da Telebrás nem a inclusão da União no pólo passivo da ação civil pública que fundamente o direito de regresso sustentado e a consequente incompetência absoluta do juízo estadual para julgamento do feito.
+2. As bonificações, juros sobre capital próprio e outras vantagens legais geradas pela diferença de quantidade de ações subscritas, fixadas na sentença apelada são decorrência da existência da dívida pleiteada pela apelada, não havendo que se falar em decisão extra, petita.
+3. O simples fato de a apelante ter sucedido a Telepar importa inequívoca assunção dos efeitos obrigacionais dos contratos por ela tomados bem como legitimidade para responder por obrigações contraídas anteriormente ao processo de privatização.
+4. Não obstante os contratos em questão tenham sido firmados antes da vigência da citada norma consumerista, trata-se de contrato de trato sucessivo, ou seja, de duração continuada, no qual os seus efeitos permanecem sendo produzidos, persistindo a aplicação das normas de proteção ao consumidor.
+5. A relação tratada nos autos é de cunho obrigacional e não societário, uma vez que os representados pela apelada não gozam do status de acionista, pois não houve a subscrição das ações da empresa, devendo, portanto, ser aplicado o prazo de 20 (vinte) anos previsto no artigo 177 do Código Civil de 1916 e de 10 (dez) anos do artigo 205 do Código Civil de 2002.
+6. Considerando que a apelante deixou de subscrever as ações em quantidade que correspondesse ao valor efetivamente disponibilizado pelos investidores, impedindo os consumidores de auferir os rendimentos próprios da condição de acionista, decorre, inegavelmente, o dever de indenizar, não apenas pelo valor das ações que deixaram de ser emitidas, mas também pelo montante dos dividendos, bonificações, juros sobre capital e outras vantagens dai decorrentes, como bem fixado pelo MM. Juiz a quo.
+RECURSO ADESIVO - DIREITO ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL - EFEITOS DA AÇÃO CIVIL PÚBLICA PROPOSTA EM DEFESA DE DIREITOS E INTERESSES INDIVIDUAIS HOMOGÊNEOS - DESNECESSIDADE DE VINCULO COM A ENTIDADE ASSOCIATIVA - SENTENÇA DE PROCEDÊNCIA DO PEDIDO - EFICÁCIA ERGA OMNES ATINGINDO TODAS AS VITIMAS E SEUS SUCESSORES - PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATICIOS DE 15 (QUINZE) PARA 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO- IMPOSSIBILIDADE -VERBA HONORÁRIA ARBITRADA DE FORMA RAZOÁVEL E EM CONFORMIDADE COM AS CIRCUNSTÂNCIAS ESPECIFICAS DO CASO CONCRETO - RECURSO ADESIVO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Os efeitos de ação civil pública proposta em defesa dos direitos e interesses individuais homogêneos independem da existência de vínculo com a entidade associativa, eis que esta age em nome próprio e não representando seus associados.
+2. A Lei de Ação Civil Pública e o Código de Defesa do Consumidor formam um sistema de interação mútua, sendo perfeitamente aplicável o disposto no artigo 103, inciso III, do Código de Defesa do Consumidor, o qual atribui à sentença de procedência do pedido eficácia erga omnes a todas as vítimas e seus sucessores, e não apenas aos associados.
+3. Tendo o ilustre juiz singular arbitrado os honorários advocatícios em valor razoável e em conformidade com o grau de zelo do profissional, o lugar da prestação do serviço, a relativa complexidade e importância da causa, o trabalho realizado pelo advogado e o considerável tempo exigido para o seu serviço, não há que se falar na sua majoração." (e-STJ fls. 1.092 - 1.097).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.156-1.158, 1.174-1.175 e 1.259-1.266).
+Em suas razões, a recorrente aponta violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 535 do Código de Processo Civil de 1973 - haja vista a ausência de decisão sobre questões de ordem pública;
+(ii) art. 21 da Lei nº 4.717/1965 - porque a ação foi proposta depois de decorrido o prazo de 5 anos;
+(iii) art. 2º-A da Lei nº 9.494/1997- porque a decisão foi estendida a todos os consumidores clientes da Brasil Telecom e não apenas aos associados do autor;
+(iv) arts. 128, 293 e 460 do Código de Processo Civil de 1973 - porque incluiu na condenação o pagamento de bonificações e juros sobre capital próprio sem que houvesse pedido; e
+(v) arts. 9º, § 7º, da Lei nº 9.429/1995 e 109, I, e 201 da Lei nº 6.404/1976 - porque equiparou bonificações a dividendos.
+Contrarrazões às e-STJ fls. 1.284-1.296.
+O Ministério Público Federal manifestou-se pelo parcial provimento do recurso (e-STJ fls. 1.332-1.338).
+Às e-STJ fls. 1.343-1.348 o juízo de primeiro grau informou que o processo foi extinto sem resolução do mérito.
+Sobrevieram decisões, manifestações e informações sobre eventual perda do interesse para julgamento do recurso (e-STJ fls. 1.349, 1.352-1.358, 1.361-1.365, 1.366-1.367 e 1.371-1.375.
+É o relatório.
+DECIDO.
+Inicialmente, observo que remanesce interesse processual para o julgamento do recurso especial, nada obstante as lacônicas informações prestadas pelo juízo de primeiro grau.
+Com efeito, o Juízo da 1ª Vara Cível de Curitiba/PR informou que o processo foi extinto sem resolução do mérito por falta de regularização da representação processual do autor (e-STJ fls. 1.346-1.347).
+A informação causou estranheza, pois já havia sido proferida sentença de mérito anteriormente, o que, inclusive, gerou a interposição de sucessivos recursos, culminando com o especial que ora se analisa.
+Contudo, mesmo depois de expedido comunicado ao juízo de origem, nada foi esclarecido, conforme registrado no despacho de e-STJ fls. 1.366/1.367, sobrevindo as explicações da parte (e-STJ fls. 1.371-1.488).
+Conforme informado e demonstrado pela recorrente, o recurso especial prosseguiu tramitando em meio digital e os autos físicos retornaram à origem (e-STJ fl. 1.383), tendo sido determinada a regularização processual do Instituto autor, diante da renúncia apresentada por sua advogada (e-STJ fl. 1.446 e 1.451). Verificada a inércia, o processo foi extinto sem resolução do mérito (e-STJ fl. 1.463).
+Ocorre que a fase de conhecimento, perante o primeiro grau de jurisdição, já havia sido extinta por meio da sentença de e-STJ fls. 840-858, a qual julgou procedentes os pedidos e, portanto, resolveu o mérito.
+Como não havia sido iniciada a fase de execução, não existia qualquer procedimento a ser extinto, revelando-se o grave erro cometido pela juíza sentenciante.
+Assim, a segunda sentença é nula e não produz efeitos, pois violou o princípio da inalterabilidade previsto no art. 494 do CPC. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. DUPLO JULGAMENTO DO MESMO AGRAVO INTERNO. ANULAÇÃO DO SEGUNDO JULGAMENTO.
+1. Contra a decisão monocrática que indeferiu liminarmente a ação rescisória foi interposto o agravo interno de fls. 1.838/1.845, o qual restou julgado pela Primeira Seção na sessão virtual de 12/8/2021 a 18/8/2021, tendo sido então opostos embargos de divergência, ainda pendentes de julgamento.
+2. Nada obstante, na sessão de julgamento virtual de 8/9/2021 a 14/9/2021, o referido agravo interno foi novamente julgado, o que, por evidente, vai de encontro ao disposto no art. 494 do CPC.
+3. Destarte, é de rigor a anulação desse segundo julgamento, fato que, todavia, não tem o condão de modificar o resultado do primeiro julgamento anteriormente realizado.
+4. Embargos de declaração parcialmente acolhidos para, chamando o feito à ordem, anular o segundo julgamento virtual do agravo interno, realizado entre 8/9/2021 e 14/9/2021, e, via de consequência, também anular o acórdão de fls. 1.923/1.940.
+Proceda-se à distribuição dos embargos de divergência de fls. 1.901/1.922 a um dos em. Ministros que compõem a Primeira Seção desta Corte.
+(EDcl no AgInt nos EDcl na AR n. 6.982/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 16/11/2021, DJe de 19/11/2021.)
+Presentes os demais pressupostos recursais, passa-se ao exame do mérito.
+A insurgência não merece prosperar.
+1. Da alegada violação ao art. 535, II, do CPC/1973.
+Diversamente do que sustentam as razões recursais, o Tribunal de origem não foi omisso em relação à competência absoluta, à legitimidade passiva e à violação aos limites objetivos da demanda, conforme se depreende dos seguintes trechos do acórdão recorrido:
+"a.1) Da incompetência absoluta do juízo estadual para julgamento do feito
+Alega a apelante ser a União legitimada para figurar no polo passivo do presente feito, fundada na responsabilidade regressiva, prevista expressamente no item 5.1, § 4º, do Edital de Desestatização. Por tal motivo, requer a remessa dos autos a uma das varas da Justiça Federal da Seção de Curitiba, na forma do artigo 113, § 2º, do Código de Processo Civil.
+Sem razão, contudo.
+Isso porque da análise dos autos é possível verificar que se discute suposto enriquecimento ilícito da apelante ao integralizar valores inferiores àqueles pagos pelos acionistas na subscrição de ações 696/697: Como bem dispôs o MM. Juiz a quo, às fls. 696/697:
+(..)
+a.2) Da sentença extra petita
+Aduz a apelante que, apesar de o apelado postular a emissão de uma quantidade complementar de ações, em retribuição à participação financeira do promitente -assinante, ou o ressarcimento do valor correspondente, bem como o pagamento dos dividendos a que essas ações complementares dariam direito, caso houvessem sido emitidas, a respeitável decisão foi no sentido de condenar a ré ao pagamento não apenas dos dividendos relativos a essas ações complementares, mas também todas as bonificações, juros sobre capital próprio e outras vantagens legais geradas pela diferença de quantidade de ações subscritas.
+Ocorre que as bonificações, juros sobre capital próprios e outras vantagens legais geradas pela diferença de quantidade de ações subscritas, fixadas na sentença apelada, são decorrência da existência da dívida pleiteada pela apelada.
+(..)
+a.3) Da ilegitimidade passiva
+Sustenta a apelante ser parte ilegítima para responder por obrigações contraídas anteriormente ao processo de privatização. Entretanto, o simples fato de ter sucedido a Telepar importa inequívoca assunção dos efeitos obrigacionais dos contratos por ela tomados.
+Nessa toada é a jurisprudência deste egrégio Tribunal de Justiça:
+(..)"
+(e-STJ fls. 1.105-1.108)
+No tocante à suposta inversão do ônus da prova, a questão não foi ventilada na apelação, tendo a apelante se limitado a afirmar que "não dispõe de todos os contratos, que ficaram em poder das empreiteiras" (e-STJ fl.913).
+Também não foi suscitada a questão dos limites territoriais dos efeitos da sentença na apelação da BRASIL TELECOM. De qualquer forma, o acórdão recorrido se pronunciou a respeito ao julgar a apelação adesiva (e-STJ fls. 1.127-1.128).
+2. Da alegada ocorrência de prescrição.
+Tratando-se de contratos de participação financeira em rede de telefonia, a jurisprudência desta Corte Superior está sedimentada no sentido de que o prazo prescricional das pretensões oriundas do inadimplemento é vintenário. A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM REDE DE TELEFONIA. INTERESSE DE AGIR, PRESCRIÇÃO VINTENÁRIA E INCIDÊNCIA DO CDC. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA Nº 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. RECURSO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não incide a Súmula nº 389 do STJ na ação em que se postula tão somente a subscrição das ações faltantes quando do investimento realizado para o serviço de telefonia, inexistindo pedido de exibição de documentos, razão pela qual o prévio requerimento administrativo e o pagamento da taxa não são exigidos.
+3. Não se conhece do recurso especial que deixa de impugnar adequadamente todos os fundamentos do acórdão recorrido, na espécie, a aptidão do contrato juntado aos autos, que demonstra o interesse de agir do autor da ação. Incidência da Súmula nº 283 do STF.
+4. Nas demandas em que se discute o direito à complementação de ações em face do descumprimento de contrato de participação financeira firmado com sociedade anônima, a pretensão é de natureza pessoal e prescreve nos prazos previstos nos arts. 177 do CC/16 e 205 e 2.028, ambos do CC/02, sendo o termo inicial a data da subscrição deficitária.
+5. O contrato de participação financeira em empresa de telefonia é de adesão, razão pela qual incide as regas do CDC.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.497.362/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/8/2020, DJe de 14/8/2020.)
+3. Dos limites objetivos da demanda.
+O Tribunal a quo, ao decidir que "as bonificações, juros sobre capital próprios e outras vantagens legais geradas pela diferença de quantidade de ações subscritas, fixadas na sentença apelada, são decorrência da existência da dívida pleiteada pela apelada" (e-STJ fl. 1.107), seguiu a jurisprudência sedimentada no Superior Tribunal de Justiça por meio de recurso especial repetitivo (Tema 670), no sentido de que "nas demandas por complementação de ações de empresas de telefonia, admite-se a condenação ao pagamento de dividendos e juros sobre capital próprio independentemente de pedido expresso" (REsp n. 1.373.438/RS, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 11/6/2014, DJe de 17/6/2014).
+4. Dos limites subjetivos da sentença.
+O acórdão recorrido decidiu acerca dos limites dos efeitos da sentença nos seguinte termos:
+"É pacifico o entendimento de que os efeitos de ação civil pública proposta em defesa dos direitos e interesses individuais homogêneos independe da existência de vínculo com a entidade associativa, eis que esta age em nome próprio, e não representando seus associados.
+(..)
+Desta feita, mister a modificação da extensão dos efeitos da respeitável "decisão recorrida, de modo que a mesma deve abranger todos os consumidores lesados pela antecessora da Brasil Telecom S/A., e não apenas os associados do Instituto de Proteção e Defesa dos Consumidores e Cidadãos do Brasil - IPDC" (e-STJ fl. 1.128).
+Mais uma vez, o Tribunal de Justiça observou a jurisprudência sedimentada por esta Corte Superior por meio de precedente qualificado.
+Com efeito, no julgamento do REsp nº 1.362.022, sob a sistemática dos recursos repetitivos, definiu-se a seguinte tese: "em Ação Civil Pública proposta por associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à associação promovente." (rel. Ministro Raul Araújo, Segunda Seção, julgado em 28/4/2021, DJe de 24/5/2021).
+Ante o exposto, conheço do recurso especial e nego-lhe provimento .
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão sem a prévia fixação.
+Publique-se.
+Intimem-se.
+EMENTA
