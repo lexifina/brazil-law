@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOVENIL JONAS CORREA FERREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do Agravo de Execução Penal n. 8000869-17.2024.8.24.0008.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal deferiu pedido de progressão de regime formulado pelo paciente.
+Irresignado, o Ministério Público estadual interpôs agravo de execução penal, que foi provido pelo Tribunal de origem, a fim de cassar a decisão recorrida e determinar a regressão do paciente ao regime semiaberto, até a realização do exame criminológico, necessário à aferição do requisito subjetivo para concessão da benesse.
+Confira-se a ementa do acórdão (fl. 72):
+"AGRAVO EM EXECUÇÃO PENAL. INSURGÊNCIA DO MINISTÉRIO PÚBLICO CONTRA DECISÃO QUE DEFERIU O PEDIDO DE PROGRESSÃO DE REGIME PRISIONAL. PLEITO DE CASSAÇÃO DO DECISUM. AUSÊNCIA DE REALIZAÇÃO DO EXAME CRIMINOLÓGICO. PRETENSA APLICAÇÃO IMEDIATA DO ART. 112, § 1º, DA LEP, COM REDAÇÃO CONFERIDA PELA LEI N. 14.843/24. POSSIBILIDADE. NORMA DE CONTEÚDO EXCLUSIVAMENTE PROCESSUAL. DECISÃO CASSADA. RECURSO CONHECIDO E PROVIDO."
+No presente writ, a defesa sustenta que a exigência do exame criminológico, conforme previsto na Lei n. 14.843/24, não deve ser aplicada ao caso, em respeito aos princípios constitucionais da legalidade, da individualização da pena e da irretroatividade da lei penal mais severa, tendo em vista que os crimes pelos quais o paciente cumpre pena foram praticados antes do advento da referida lei.
+Requer, em liminar e no mérito, a concessão da ordem para que seja restabelecida a progressão do paciente ao regime aberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem, de ofício.
+Como relatado, o Tribunal de origem cassou a decisão proferida pelo juízo de origem que havia deferido o pedido de progressão do paciente ao regime aberto, sob o fundamento de que as alterações promovidas pela Lei n. 14.843/2024 tornaram obrigatória a realização de exame criminológico, para fins de progressão de regime prisional.
+Sobre o tema, cabe destacar que o Supremo Tribunal Federal, em recente decisão proferida no HC 240.770, de relatoria do e. Ministro André Mendonça, firmou orientação no sentido de que a obrigatoriedade d o exame criminológico - como pressuposto subjetivo à progressão de regime prisional, nos termos do art. 112, § 1º, da Lei de Execuções Penais -, deve ser aplicada apenas aos crimes praticados após a entrada em vigor da Lei n. 14.843/2024, considerando que as alterações por ela promovidas têm natureza de reformatio legis in pejus.
+O referido entendimento foi acolhido por ambas as Turmas de Direito Criminal desta Corte Superior, como se denota dos seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. ART. 112, § 1º, DA LEP, NA REDAÇÃO DADA PELA LEI N. 14.843/2024. NORMA MAIS GRAVOSA. IMPOSSIBILIDADE DE SUA APLICAÇÃO À EXECUÇÃO EM CURSO. INCIDÊNCIA DA SÚMULA N. 439/STJ. DECISÃO JUDICIAL QUE DETERMINA A REALIZAÇÃO DA PERÍCIA PAUTADA NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM CONCEDIDA. RECURSO DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Em outras alterações efetuadas na Lei de Execuções Penais, as Cortes Superiores firmaram entendimento no sentido de que as novas disposições deveriam ser aplicadas aos delitos praticados após a sua vigência, por inaugurarem situação mais gravosa aos apenados.
+2. Ressalta-se que, no âmbito do Supremo Tribunal Federal, ao analisar as modificações trazidas pela Lei n. 14.843/2024 no direito às saídas temporárias, o Ministro André Mendonça, relator do HC n. 240.770/MG, entendeu que se trata de novatio legis in pejus, incidente, portanto, aos crimes cometidos após o início de sua vigência.
+3. Cabe estender esse raciocínio à nova redação do art. 112, § 1º, da LEP, que passou a exigir exame criminológico para progressão de regime, de modo que deve ser mantido o entendimento firmado na Súmula n. 439/STJ, segundo o qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Em se tratando de hipótese na qual foi exigido o exame criminológico mediante decisão fundada exclusivamente na gravidade abstrata do delito, sem análise dos elementos concretos da execução da pena, verifica-se constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 929.034/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+RECURSO EM HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CASOS COMETIDOS SOB ÉGIDE DA LEI ANTERIOR. PRECEDENTES.
+1. A exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade.
+2. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+3. No caso, todas as condenações do paciente são anteriores à Lei n. 14.843/2024, não sendo aplicável a disposição legal em comento de forma retroativa.
+4. Recurso em habeas corpus provido para afastar a aplicação do § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, determinando o retorno dos autos ao Juízo da execução para que prossiga na análise do pedido de progressão de regime.
+(RHC n. 200.670/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024.)
+Com igual orientação, as decisões monocráticas proferidas no HC n. 948.542, Ministro Reynaldo Soares da Fonseca, DJe de 01/10/2024, no HC n. 948.950, Ministra Daniela Teixeira, DJe de 01/10/2024 e no HC n. 949.127, Ministro Ribeiro Dantas, DJe de 03/10/2024.
+Desse modo, verifica-se a inidoneidade do fundamento utilizado pela Corte de origem para condicionar a analise do pedido de progressão de regime à prévia realização de exame criminológico pelo paciente.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do presente mandamus. Contudo, concedo liminarmente a ordem de habeas corpus, de ofício, para restabelecer a decisão que deferiu o pedido de progressão de regime em favor do paciente.
+Publique-se.
+Intimem-se.
+ EMENTA
