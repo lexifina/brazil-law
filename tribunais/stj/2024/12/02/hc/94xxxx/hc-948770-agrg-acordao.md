@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE NULIDADE DA BUSCA E APREENSÃO. MATÉRIAS NÃO APRECIADAS NA ORIGEM. IMPOSSIBILIDADE DE EXAME DIRETO. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado. A defesa alegou nulidade da decisão judicial que autorizou a busca e apreensão, bem como do mandado expedido, por falta de fundamentação adequada e descumprimento das formalidades legais. Requereu a declaração de ilicitude das provas obtidas e o trancamento das ações penais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) a possibilidade de reconhecimento da nulidade da busca e apreensão, quando a matéria não foi previamente apreciada pelas instâncias inferiores; e (ii) a existência de flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+III. RAZÕES DE DECIDIR
+3. As alegações de nulidade da busca e apreensão não foram analisadas pelo Tribunal de Justiça do Paraná, que entendeu que essas questões não haviam sido suscitadas em primeiro grau. Portanto, o exame direto por esta Corte configuraria indevida supressão de instância.
+4. A concessão de habeas corpus de ofício é cabível apenas quando houver flagrante ilegalidade, o que não se verifica no caso concreto. A análise dos autos não revela qualquer violação ao ordenamento jurídico que justifique a medida excepcional.
+5. A decisão monocrática agravada está em consonância com a jurisprudência do STJ, que veda a apreciação direta de questões não debatidas na origem para evitar supressão de instância.
+IV. DISPOSITIVO
+6. Agravo regimental desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos auto (e-STJ fls.176/177).
+Os agravantes requerem a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+O Ministério Público do Paraná apresentou as contrarrazões.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE NULIDADE DA BUSCA E APREENSÃO. MATÉRIAS NÃO APRECIADAS NA ORIGEM. IMPOSSIBILIDADE DE EXAME DIRETO. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado. A defesa alegou nulidade da decisão judicial que autorizou a busca e apreensão, bem como do mandado expedido, por falta de fundamentação adequada e descumprimento das formalidades legais. Requereu a declaração de ilicitude das provas obtidas e o trancamento das ações penais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) a possibilidade de reconhecimento da nulidade da busca e apreensão, quando a matéria não foi previamente apreciada pelas instâncias inferiores; e (ii) a existência de flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+III. RAZÕES DE DECIDIR
+3. As alegações de nulidade da busca e apreensão não foram analisadas pelo Tribunal de Justiça do Paraná, que entendeu que essas questões não haviam sido suscitadas em primeiro grau. Portanto, o exame direto por esta Corte configuraria indevida supressão de instância.
+4. A concessão de habeas corpus de ofício é cabível apenas quando houver flagrante ilegalidade, o que não se verifica no caso concreto. A análise dos autos não revela qualquer violação ao ordenamento jurídico que justifique a medida excepcional.
+5. A decisão monocrática agravada está em consonância com a jurisprudência do STJ, que veda a apreciação direta de questões não debatidas na origem para evitar supressão de instância.
+IV. DISPOSITIVO
+6. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ fls. 176/178):
+"Trata-se de habeas corpus impetrado em favor de PRISCILA RODRIGUES CORREIA e ANDERSON LOPES DE SOUZA contra acórdão assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - ALEGAÇÃO DE NULIDADE DA DECISÃO QUE AUTORIZOU A BUSCA E APREENSÃO E DO MANDADO DE BUSCA E APREENSÃO EXPEDIDO EM DESFAVOR DOS PACIENTES - MATÉRIA NÃO ALEGADA/ANALISADA EM PRIMEIRO GRAU - IMPOSSIBILIDADE DE EXAME DIRETAMENTE PELO TRIBUNAL, SOB PENA DE VEDADA SUPRESSÃO DE INSTÂNCIA - QUESTÃO QUE DEVERÁ SER OBJETO DE ANÁLISE PELA SENTENÇA - INSTRUÇÃO CRIMINAL JÁ ENCERRADA - PROCESSO DE ORIGEM QUE AGUARDA TÃO SOMENTE A APRESENTAÇÃO DE ALEGAÇÕES FINAIS PELA DEFESA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A JUSTIFICAR A CONCESSÃO DA ORDEM DE OFÍCIO - IMPETRAÇÃO NÃO CONHECIDA.
+Imputa-se aos pacientes a prática do crime de tráfico de drogas, tipificado no art. 33, caput, da Lei n.º 11.343/2006, e de associação para o tráfico de drogas, previsto no art. 35 da mesma Lei. A defesa alega, em síntese, a nulidade da decisão judicial que autorizou a busca e apreensão, sustentando que tal decisão carece de fundamentação adequada, pois foi baseada exclusivamente em denúncias anônimas sem prévia investigação que pudesse corroborar tais informações, violando o princípio do devido processo legal, previsto no art. 5º, LIV, da Constituição Federal. Afirma também que o mandado de busca e apreensão não observou as formalidades exigidas pelo art. 243, I, do Código de Processo Penal, uma vez que não identificou o morador ou proprietário da residência, dirigindo-se apenas a um endereço, em desrespeito à garantia constitucional de inviolabilidade do domicílio, prevista no art. 5º, XI, da Constituição Federal. A defesa argumenta, assim, que todas as provas obtidas em decorrência da busca e apreensão são ilícitas, nos termos do art. 157 do Código de Processo Penal, por terem sido originadas de ato nulo. Ao final, requer a concessão da ordem para que seja reconhecida a nulidade da decisão que autorizou a busca e apreensão, assim como do mandado que deu suporte à diligência, declarando-se ilícitas todas as provas obtidas a partir desse ato. Consequentemente, pede-se o trancamento das ações penais em curso, em razão da ausência de elementos probatórios válidos. É o relatório. Decido. As matérias ora propugnadas não foram apreciadas no acórdão impugnado, porquanto o Tribunal de Justiça do Estado do Paraná entendeu que tais teses não foram previamente suscitadas ou analisadas pelo juízo de primeiro grau, o que impediria sua apreciação direta. Ademais, o Tribunal considerou que as alegações de nulidade da busca e apreensão, bem como das provas dela decorrentes, são questões afetas ao mérito da ação penal, que deverão ser analisadas na sentença, após a fase de alegações finais. Destarte, o exame direto dessas questões por esta Corte Superior configuraria indevida supressão de instância A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade. Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, que justifique a concessão de ofício do habeas corpus (..) Ante o exposto, não conheço do presente habeas corpus".
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E DOMICILIAR. TESES DE NULIDADE. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PENA-BASE. QUANTIDADE DE DROGA. AUMENTO PROPORCIONAL. RECURSO NÃO PROVIDO.
+1. As teses de nulidade da busca pessoal e domicilar não foram objeto de exame no acórdão impugnado, o que impede o conhecimento dos temas diretamente por este Superior Tribunal, sob pena de indevida supressão de instância.
+2. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+3. Hipótese em que as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a quantidade das drogas apreendidas - 165 tijolos de maconha (93,17kg) - para elevar a pena-base do delito de tráfico de drogas em 1/3 acima do mínimo legal, o que não se mostra desarrazoado, a autorizar a intervenção excepcional desta Corte.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 940.298/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024.). Grifos acrescidos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
