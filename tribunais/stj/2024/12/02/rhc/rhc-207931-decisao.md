@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por THIAGO TEIXEIRA DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL E ANULAÇÃO DE ATOS PROCESSUAIS. ALEGAÇÃO DE AUSÊNCIA DE JUSTA CAUSA E INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. ORDEM DENEGADA. DECISÃO UNÂNIME.
+1. O trancamento da ação penal por meio do habeas corpus é medida excepcional, que somente deve ser adotada quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito, o que não se verifica no caso trazido a pretório.
+2. As questões levantadas pela impetrante confundem-se com matéria de mérito, cuja comprovação de tais fatos deve ser demonstrada durante a instrução criminal, ocasião em que o julgador, da análise do conjunto probatório, formará a sua convicção, sendo inviável promover a análise aprofundada dos elementos carreados aos autos para se promover o prematuro trancamento da ação penal (ou a anulação dos atos processuais) na estreita via do habeas corpus.
+3. Ordem denegada. Decisão Unânime. (e-STJ, fls. 332-333)
+Consta dos autos que o recorrente foi denunciado pelo cometimento dos crimes previstos no art. 2º, caput e § 2º, da Lei nº 12.850/2013; no art. 35, caput, da Lei nº 11.343/2006 e no art. 16, § 1º, IV, da Lei nº 10.826/2003, em concurso material (art. 69 do CP).
+Nesta instância, a defesa sustenta, em síntese, a nulidade absoluta da apreensão dos aparelhos de celular sem a devida ordem judicial, bem como a ilicitude das provas obtidas e derivadas.
+Alega a ausência de justa causa para a ação penal.
+Requer o provimento do recurso para que seja reconhecida a nulidade apontada, determinando-se o trancamento definitivo do feito.
+É o relatório.
+Decido.
+Inicialmente, registra-se que os temas relativos à nulidade da apreensão de aparelhos de celular e ilicitude das provas obtidas e derivadas não foram debatidos pelo Tribunal a quo no acórdão impugnado, o que impede o conhecimento das questões diretamente por esta Corte, sob pena de indevida supressão de instância.
+A propósito:
+DIREITO PENAL E PROCESSUAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DAS PROVAS. BUSCA PESSOAL/VEICULAR. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. FUNDAMENTOS CONCRETOS. QUANTUM PROPORCIONAL. REINCIDÊNCIA. FRAÇÃO DE AUMENTO. SUPRESSÃO DE INSTÂNCIA. CAUSA DE AUMENTO. TRÁFICO NAS PROXIMIDADES DA IGREJA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+6. As teses de ilicitude das provas e de desproporcionalidade na fração adotada na segunda fase a título de reincidência não foram enfrentadas pelo Tribunal local, o que impede a análise desta Corte para não incorrer em supressão de instância.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 860.712/ES, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+Prosseguindo-se, vale frisar que, nos termos do entendimento consolidado desta Corte, o trancamento da ação penal ou inquérito policial por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+Acerca da pretensão de trancamento do feito, asseverou o Tribunal de Justiça:
+Verifico que a denúncia preenche os requisitos do artigo 41 do CPP, a qual atribui conduta típica ao paciente e descreve lastro probatório mínimo de autoria.
+O trancamento da ação penal por ausência de justa causa somente se justifica quando há nítida ilegalidade, ou seja, quando pelo simples exame da exposição dos fatos narrados na inicial acusatória fique evidente a descrição de fato atípico, a ausência de qualquer elemento indiciário que fundamente a imputação ou, ainda, quando existam elementos inequívocos de que o agente atuou sob uma causa excludente da ilicitude ou causa extintiva de punibilidade, ou que não seja responsável pelo delito, o que não ocorre no caso em voga.
+ ..
+Ademais, as questões levantadas pela impetrante confundem-se com matéria de mérito, cuja comprovação de tais fatos deve ser demonstrada durante a instrução criminal, ocasião em que o julgador, da análise do conjunto probatório, formará a sua convicção, sendo inviável promover a análise aprofundada dos elementos carreados aos autos para se promover o prematuro trancamento da ação penal (ou anulação dos atos processuais) na estreita via do habeas corpus. (e-STJ, fls. 326-331)
+Como se vê, apura-se a existência de crime de organização criminosa, tráfico de drogas e porte ilegal de armas, tendo a Corte de origem entendido que há narrativa coerente a respeito das infrações praticadas pelo recorrente.
+Ademais, como bem destacado no acórdão impugnado, a matéria levantada pela defesa confunde-se com o mérito, devendo ser analisada, em face do conjunto probatório, pelo julgador.
+Saliente-se, ainda, que o reconhecimento da inexistência de justa causa para o prosseguimento da ação penal por ausência de prova exige profundo exame do contexto probatórios dos autos, o que é inviável na via estreita do writ. Nesse sentido: RHC 51.659/CE, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/5/2016, DJe 16/5/2016; e RHC 63.480/SP, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 1/3/2016, DJe 9/3/2016. Cito também:
+HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. JUSTA CAUSA. OPERAÇÃO ALCMEON. EXPLORAÇÃO DE PRESTÍGIO E LAVAGEM DE DINHEIRO. DENÚNCIA OFERECIDA COM BASE EM DEPOIMENTO DE COLABORADOR E OUTROS ELEMENTOS DE PROVA. AMPLA ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. WRIT DENEGADO.
+1. O trancamento da ação penal por meio do habeas corpus é medida excepcional, que somente deve ser adotada quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+2. No caso, verifica-se suficiente especificação das condutas supostamente realizadas pelo acusado, ora paciente, bem como a indicação de provas e indícios nos quais está baseada a acusação quanto aos crime de exploração de prestígio e lavagem de dinheiro, sendo certo que não é possível a ampla análise de fatos e provas nos autos de habeas corpus, de cognição sumária.
+3. No tocante ao crime de lavagem, além dos indícios de autoria e materialidade, também houve o apontamento do crime antecedente, que seria o de exploração de prestígio, o que se revela suficiente para o início da ação penal, independente da aferição da culpabilidade ou punibilidade por meio de condenação.
+4. Demonstradas as elementares dos delitos e preenchidos os requisitos do art. 41 do CPP, não se pode exigir a presença de conjunto probatório exauriente e inconteste, o que somente será produzido no curso da instrução processual, sob o crivo do contraditório, sob pena de precipitar o julgamento do mérito da própria ação penal.
+5. Habeas corpus denegado, cassada a liminar.
+(HC 559.505/RN, Rel. Ministro Sebastião Reis Junior, Sexta Turma, julgado em 25/5/2021, DJe 2/6/2021; grifou-se.)
+PENAL E PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. LAVAGEM DE DINHEIRO. TRANCAMENTO. AUSÊNCIA DE JUSTA CAUSA. PARTICIPAÇÃO NO CRIME ANTECEDENTE. DESNECESSIDADE. PRESENÇA DE INDÍCIOS DE OCORRÊNCIA DE INFRAÇÃO ANTERIOR. RECURSO ORDINÁRIO IMPROVIDO.
+1. O trancamento da ação penal somente é possível, na via estreita do habeas corpus, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito.
+2. No caso do delito previsto no art. 1º da Lei n. 9.613/1998, a aptidão da denúncia é aferida a partir da verificação da presença de elementos informativos suficientes que sirvam de lastro probatório mínimo que apontem a materialidade e ofereçam indícios da autoria da prática de atos de ocultação ou de dissimulação da origem dos bens ou valores. Além disso, a inicial acusatória deve trazer elementos que sinalizem a existência de infração penal antecedente, demonstrando a chamada justa causa duplicada.
+3. Apesar dos esforços argumentativos da defesa, não se pode falar em inépcia da peça acusatória, já que esta, embora não tenha descortinado o delito antecedente em profundidade, indicou a existência de infração penal prévia, cujos desdobramentos podem ser melhor esclarecidos no curso da instrução criminal.
+4. Recurso improvido.
+(RHC 116.869/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2019, DJe 25/10/2019; grifou-se.)
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordem por esta Corte.
+Diante do exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
