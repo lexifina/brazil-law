@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO ao cumprimento de sentença, iniciado por EVELLIN MARCELLY REIS DA COSTA, referente a mandado de segurança no qual foi concedida a ordem para restabelecer a validade da Portaria anistiadora do Ministério da Justiça nº. 722, de 18 de maio de 2006. Como reflexo financeiro da aludida decisão, o requerente promoveu a execução dos valores referentes aos efeitos financeiros retroativos.
+A UNIÃO apontou: a) inexigibilidade do título, já que há a possibilidade de revisão da portaria anistiadora, b) deve ser atribuído efeito suspensivo automático à execução, nos termos do art. 535, §3º, do CPC/15, e c) excesso de execução, pois o termo inicial da correção monetária é a data da impetração do mandado de segurança, qual seja, 09/04/2012.
+Em resposta, às fls. 320-326, o exequente refutou a alegação de excesso de execução. Aduz: a) que não ser sobrestado o feito, pois o exequente aguarda o recebimento da indenização há mais de 17 anos, e b) os índices aplicados estão de acordo com a jurisprudência do STF, de modo que a incidência de correção monetária e juros de mora deve ocorrer a partir do 61º dia após a publicação da portaria de anistia.
+Pediu o julgamento de improcedência da impugnação apresentada pela União, com a condenação no ônus da sucumbência.
+Na sequência, a decisão de fls. 338-339 afastou a alegação de inexigibilidade do título e determinou a expedição do requisitório de valor incontroverso e, assim, foi autuado o PRC 12449/DF, conforme certidão de fl. 348.
+É o relatório. Decido.
+Tendo havido a expedição da requisição de valor incontroverso, remanesce o julgamento dos pontos impugnados pela União às fls. 20-316.
+Passo, assim, à análise dos pontos controvertidos.
+AUSÊNCIA DE SUSPENSÃO AUTOMÁTICA DA EXECUÇÃO
+A UNIÃO advoga a tese de que uma vez impugnada a execução, decorre sua suspensão automática, nos termos do art. 535, §3º, do CPC/15. Contudo, esta Corte Superior entende que "eventual suspensão do pagamento do precatório relativo à parcela incontroversa do crédito, correspondente ao valor nominal da portaria de anistia, ou bloqueio do respectivo pagamento, condiciona-se à demonstração, pelo ente público executado, de que pretende, efetivamente, instaurar procedimento de revisão do ato de concessão da anistia." (AgInt na ExeMS n. 21.229/DF, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 20/8/2020.).
+Dessa forma, a suspensão da execução não é automática em razão da apresentação da impugnação por parte da UNIÃO, mas depende da comprovação da instauração de procedimento revisional, com iminente anulação da portaria anistiadora, o que não houve no caso em tela, haja vista a decisão de fls. 338-339 que afastou a alegação de inexigibilidade do título judicial suscitada pelo ente público.
+Assim, o presente feito não deve ser suspenso.
+DIES A QUO DOS CONSECTÁRIOS LEGAIS
+O termo inicial a ser considerado, para cada um dos consectários legais (correção monetária e juros de mora), "é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002." (AgInt na ImpExe na ExeMS n. 15.126/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 8/11/2023.). Nesse mesmo sentido: AgInt na ImpExe na ExeMS n. 11.859/DF, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 17/8/2023 e AgInt na ImpExe na ExeMS n. 20.256/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 19/8/2022.
+CONCLUSÃO
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO ao cumprimento de sentença.
+Quanto aos honorários sucumbenciais, considerando a afetação do Tema 1.232/STJ, deixo, por ora, de apreciar a matéria.
+Encaminhem-se os autos à Coordenadoria de Processamento de Feitos em Execução Judicial para elaboração de cálculos em conformidade com os critérios fixados nesta decisão.
+Após, as partes deverão ser intimadas acerca das informações prestadas pela CPEX , independentemente de nova conclusão. Havendo concordância, tácita ou expressa das partes, expeça-se o requisitório complementar, com destaque de honorários advocatícios, se for o caso.
+EMENTA
