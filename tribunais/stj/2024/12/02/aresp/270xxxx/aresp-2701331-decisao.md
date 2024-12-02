@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo apresentado contra decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE, com fundamento na alínea "a" do permissivo constitucional, este, por sua vez, em oposição a acórdão proferido pelo respectivo Tribunal de Justiça , assim ementado:
+"PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO CRIMINAL. HOMOLOGAÇÃO DE FALTA GRAVE. ART. 50, III, DA LEP. AUSÊNCIA DE PROVAS DO COMETIMENTO DO ATO DE INDISCIPLINA. DEVOLUÇÃO ESPONTÂNEA DO OBJETO (LÂMINA DE BARBEAR). JUSTIFICATIVA CONVERGENTE COM A POSTURA DO REEDUCANDO. INICIATIVA DE QUE DEVE SER VALORIZADA. OBJETIVO RESSOCIALIZADOR DA PENA. SENSO DE DEVER NA EXECUÇÃO DA PENA. DESNECESSIDADE DE ADVERTÊNCIA OU OUTRA SANÇÃO. CONHECIMENTO E PROVIMENTO DO RECURSO." (e-STJ, fl. 41).
+Em suas razões, o Ministério Público aponta violação dos arts. 50, III, e 127 da LEP.
+Afirma que se depreende do acórdão estadual que foi incontroverso o fato de que o reeducando foi surpreendido em sua cela na posse de um barbeador, ocasião em que entregou o objeto aos agentes penitenciários. Ressalta que a devolução do objeto cortante não foi espontânea, pois, somente com a chegada os agentes públicos, é que entregou a lâmina.
+Assevera que o fato (posse de objeto capaz de ofender a integridade física de outrem) tem natureza objetiva, não sendo necessária a análise das intenções do apenado, ou de possíveis consequências. Aduz que a salvaguarda da integridade física dos outros internos é o bem jurídico a ser tutelado. Sustenta que se configurou a falta grave prevista no art. 53, III, da LEP.
+Obtempera que, com o reconhecimento da infração disciplinar, deve ser restaurada a perda dos dias remidos, conforme decidido pelo Juízo das Execuções.
+Requer, ao final, o restabelecimento da homologação da falta grave e a perda dos dias remidos.
+Foram apresentadas contrarrazões.
+O recurso foi inadmitido na origem pela incidência da Súmula n. 7/STJ quanto à violação dos dispositivos legais acima mencionados.
+O Ministério Público Federal emitiu parecer, opinando pelo não provimento do recurso especial.
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, de modo que deve ser conhecido. Passo, portanto, à análise da pretensão veiculada no recurso especial.
+A questão controvertida limita-se ao não reconhecimento da falta grave imputada ao ora recorrido, notadamente pelo porte de barbeador fornecido pela unidade prisional.
+A respeito, o Tribunal de origem reformou a decisão do Juízo das Execuções aos seguintes fundamentos:
+"A questão em debate se restringe à análise da possível (i)legalidade do reconhecimento da falta grave (e consequente perda de 1/5 dos dias remidos) em desfavor do recorrente em virtude de estar ele portando um barbeador fornecido pela unidade prisional.
+Ab initio, não se olvida que o objeto (lâmina de barbear) é capaz de ofender a integridade física de outrem (art. 50, III, da LEP), todavia, não vislumbro prova cabal de que houve a intenção do reeducando em obstar ou embaraçar a fiscalização carcerária e, muito menos, de ofender a integridade física de outrem, sendo esta a razão de ser do ato de indisciplina em questão.
+Isso porque há notícias nos autos no sentido de que o recorrente devolveu espontaneamente o objeto (apesar de apenas quando da intervenção dos policiais penais), convergindo para a sua alegação de que estava com o bem por um lapso de esquecimento, o que é suficiente para colocar em dúvida o cometimento do ato de indisciplina em sua dimensão material.
+E mais. A devolução espontânea do objeto (lâmina de barbear) à administração da unidade prisional demonstra a sua boa-fé em não cometer falta grave e deve ser valorizada pelo Estado, vez que afasta peremptoriamente eventual prejuízo ao sistema carcerário, especialmente, a ofensa à integridade física de outrem.
+Nessa ordem de considerações, à luz dos princípios da proporcionalidade, da razoabilidade, da individualização da pena, concluo não haver fato cometido pelo recorrente passível de reprimenda.
+A conclusão acima não significa incentivo ao recorrido no descumprimento de seus deveres executórios, que remanescem hígidos e deverão ser rigorosamente observados, podendo ele sofrer sanções em caso de sua inobservância. O que não se pode perder de mira é a tríplice finalidade da execução da pena (retributiva, preventiva e reeducativa) e a consecução dos objetivos da reprimenda imposta.
+Assim, tenho que se afigura mais consentâneo com os fins da pena e seu aspecto ressocializador que, no caso específico, a justificativa do reeducando seja acolhida, sem a necessidade de sanções, nem mesmo a advertência, mantendo-se a sua situação prisional inalterada." (e-STJ, fl. 43).
+Como se vê, ao deliberar sobre o tema, as instâncias ordinárias se valeram de elementos concretos existentes nos autos para concluir que o apenado não agiu de forma deliberada de descumprir as normas impostas no âmbito da execução da pena ao estar na posse do objeto cortante (barbeador).
+Além disso, foi ponderado o aspecto ressocializador da pena, tendo sido ressaltado, nesse caso específico, o acolhimento da justificativa do reeducando sem a necessidade de aplicação de sanções.
+Como bem assinalado pelo Ministério Público Federal, "para se entender que, diferentemente do que foi decidido pelo Tribunal Estadual, houve dolo na sua conduta, demandaria, forçosamente, aprofundado revolvimento de fatos e provas" (e-STJ, fl. 116), providência inviável em sede de recurso especial, conforme dispõe a Súmula n. 7/STJ.
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE NÃO HOMOLOGADA. SITUAÇÃO EXCEPCIONAL DE VULNERABILIDADE VISLUMBRADA PELO JUÍZO DA EXECUÇÃO DIANTE DAS CIRCUNSTÂNCIAS FÁTICAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A questão controvertida limita-se ao não reconhecimento da falta grave imputada ao apenado no cumprimento do regime intermediário, notadamente por haver descarregado a tornozeleira eletrônica.
+2. Ao deliberar sobre o tema, as instâncias ordinárias se valeram de elementos concretos existentes nos autos para concluir que a descarga da bateria do equipamento decorreu de circunstâncias alheias à vontade do apenado, o qual não teria agido de forma deliberada com a finalidade de descumprir as normas que lhe foram impostas no âmbito da execução da pena.
+3. Desse modo, evidente que o afastamento dessas conclusões, para acolher o pedido de homologação da falta grave, demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+4. Embora o descarregamento da tornozeleira eletrônica possa caracterizar falta grave, incumbe ao juízo da execução, diante das circunstâncias fáticas, avaliar, caso a caso, se aquela situação foi ocasionada por deliberada intenção do apenado em se furtar de suas obrigações. Afinal, é para isso que se tem a audiência de justificação.
+5. Agravo regimental não provido." (AgRg no AREsp n. 2.415.893/RN, de minha relatoria, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PERÍMETRO DE MONITORAMENTO ELETRÔNICO. VIOLAÇÃO. PARTICULARIDADES. FALTA GRAVE NÃO CONFIGURADA, IN CASU. REVERSÃO. ÓBICE DA SÚMULA 7/STJ. RECURSO PROVIDO.
+1. É sabido que a violação da zona de monitoramento configura falta grave.
+2. O caso concreto, contudo, apresenta particularidades reconhecidas pelas instâncias ordinárias, que não podem ser desconsideradas, sob pena de violação dos princípios da razoabilidade e da proporcionalidade.
+3. De igual sorte, a reversão da conclusão das instâncias ordinárias demandaria indevido reexame de fatos e de provas, o que não se admite na via eleita, haja vista o óbice do verbete n. 7 da Súmula desta Corte.
+4. Agravo regimental provido para reconsiderar a decisão agravada e negar seguimento ao recurso especial".
+(AgRg no REsp n. 2.015.325/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 11/10/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. DESCLASSIFICAÇÃO PARA FALTA DE NATUREZA MÉDIA. REEDUCANDO QUE NÃO RETORNOU, EM TEMPO, DA SAÍDA TEMPORÁRIA. AUSÊNCIA DE DOLO DE FUGA. PRETENSÃO DE REFORMA DO ENTENDIMENTO FIRMADO NA ORIGEM. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07/STJ.
+I - A eg. Corte de origem entendeu que não estaria caracterizada a intenção de fuga, vale dizer, o requisito subjetivo do tipo de falta disciplinar do art. 50, inciso II, da Lei de Execução Penal.
+II - A reforma dessa premissa fática firmada na instância a quo - com fundamentação breve, mas suficiente - no sentido de que não houve dolo de fugir, não poderia prescindir do amplo revolvimento do arcabouço probatório, a que a via do recurso especial não se presta, nos termos da Súmula 07/STJ.
+Agravo regimental desprovido." (AgRg no AREsp n. 1.212.704/DF, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/3/2018, DJe de 14/3/2018, grifou-se.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
