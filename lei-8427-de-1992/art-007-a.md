@@ -1,0 +1,2 @@
+Art. 7º-A. A instituição financeira fiscalizará, nos termos de regulamento a ser expedido pelo Conselho Monetário Nacional, a aplicação pelo mutuário, na finalidade prevista nesta Lei, dos recursos do crédito rural subvencionado.
+Parágrafo único. A fiscalização de que trata o caput deste artigo poderá ser terceirizada pela instituição financeira nos termos de regulamento a ser editado pelo Conselho Monetário Nacional.

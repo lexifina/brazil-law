@@ -1,0 +1,1 @@
+Art. 1º-A. Para fins do disposto nesta Lei, o Banco Central do Brasil disponibilizará à Secretaria do Tesouro Nacional da Secretaria Especial de Fazenda do Ministério da Economia informações sobre operações de crédito rural existentes nos seus bancos de dados, na forma estabelecida em ato conjunto do Banco Central do Brasil e da Secretaria do Tesouro Nacional.
