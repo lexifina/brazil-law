@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REMUNERAÇÃO. QUINQUÊNIOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária ajuizada por servidora pública estadual objetivando o recálculo de adicional por tempo de serviço (quinquênio) sobre a integralidade de seus vencimentos e/ou proventos. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial fundamentado no art. 105, III, a, da Constituição Federal
+Na origem, cuida-se de ação ordinária ajuizada por servidora pública estadual objetivando o recálculo de adicional por tempo de serviço (quinquênio) sobre a integralidade de seus vencimentos e/ou proventos. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 124.285,92 (cento e vinte e quatro mil, duzentos e oitenta e cinco reais e noventa e dois centavos).
+O recurso especial foi interposto no Tribunal de Justiça do Estado de São Paulo contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO - Ação de rito comum - Servidora pública estadual - Servidora pública estadual - Os quinquênios devem incidir sobre o salário-base e demais verbas de caráter permanente, percebidas pelo servidor, incorporadas ou não, excluídas tão-somente as vantagens eventuais ou transitórias, bem como a incidência para cômputo ou acumulação para fins de concessão de acréscimos ulteriores, por força do disposto no art. 37, inciso XIV, da Constituição Federal, com redação dada pela Emenda Constitucional nº 19/98. Aplicação do disposto no art. 129 da Constituição do Estado de São Paulo e no Incidente de Assunção de Competência na Apelação Cível nº 0087273-47.2005.8.26.0000, deste E. Sodalício - Adicional que não incide sobre a Gratificação de Dedicação Plena e Integral - GDPI, em razão do caráter transitório, atribuída sob condições laborais - Improcedência mantida - Precedentes desta C. Câmara - Recurso desprovido.
+O acórdão foi integrado pelas decisões dos embargos de declaração, com os seguintes resumos de ementa:
+EMBARGOS DE DECLARAÇÃO - Omissão - Inocorrência - Ausência dos pressupostos do artigo 1.022 do Código de Processo Civil - Caráter infringente da postulação - Recurso rejeitado.
+EMBARGOS DE DECLARAÇÃO - Erro material - Ocorrência - Existindo vício, possível sua correção por meio de embargos - Recurso provido, porém sem efeito modificativo.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Destarte, restou cabalmente comprovado que os argumentos aduzidos pelos autores não foram enfrentados pelo tribunal a quo, razão pela qual os vícios apontados não foram sanados.
+Consequentemente, se o v. acórdão padece de omissão, resta evidente que as questões trazidas não foram todas apreciadas, de modo que os argumentos expendidos no recurso especial são suficientes para infirmar a conclusão do acórdão combatido, o qual carece de fundamentação adequada a lhe dar respaldo, até mesmo porque a decisão omissa (por não enfrentar os argumentos expendidos no processo) não pode ser aceita com o "decisão fundamentada", uma vez que a lei processual determina, de forma expressa, sem dar margem à discricionaridade, que não se considera fundamentada esse tipo de decisão, conforme se extrai da literalidade do disposto no artigo 489, §1º, IV, do CPC.
+(..)
+II - Por fim, sem qualquer deslustre ao entendimento exarado, consigne- se que rever a posição da Turma Julgadora não demandaria o reexame de ele mentos fáticos, não havendo que se falar na incidência do óbice contido na Súmula7/ STJ , na medida em que é impugnada no recurso especial tão somente a não observância de normas federais que estabelecem que os fatos incontroversos, públicos e notórios não dependem de prova, bem como , o dever de o magistrado determinar a produção das provas necessárias à comprovção do direito alegado - e o consequente direito da parte de produzi- las - (alegação de afronta ao CPC. 374, I e III, 370 e 938, § 3 º ) , além da norma federal que impõe ao Poder Judiciário o dever de suprir as lacunas existentes nas decisões que forem omissas (alegação de afronta ao CPC. 1.022,II) .
+II.1 - No que se refere à afronta ao CPC. 374, I e III, não há como se cogitar qualquer incidência do óbice contido na Súmula 7/ ST J, pois , conforme alegado pela parte autora e à luz do disposto no CPC, os fatos incon troversos, públicos e notórios não dependem de prova .
+Não foi apresentada impugnação ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REMUNERAÇÃO. QUINQUÊNIOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária ajuizada por servidora pública estadual objetivando o recálculo de adicional por tempo de serviço (quinquênio) sobre a integralidade de seus vencimentos e/ou proventos. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem, em embargos de declaração, bem analisou a controvérsia com base nos seguintes fundamentos:
+De fato, verifica-se que a demandante fez menção de sua inatividade na petição inicial e na apelação.
+Contudo, não comprovou a situação de aposentada.
+A autora propusera anteriormente ação de procedimento comum, em litisconsórcio ativo, postulando pedido de recálculo do adicional por tempo de serviço, na condição de servidora em atividade. Na ocasião, foi reconhecida a competência do Juizado Especial da Fazenda Pública em razão do valor individualmente atribuído e, em consequência, determinada a remessa dos autos ao juízo competente.
+Em aditamento à inicial, os autores apresentaram cálculos individuais das pretensas diferenças e, em razão de alguns valores ultrapassarem o teto do JEFAZ, a ação foi extinta para alguns autores, dentre eles a autora desta ação, Sonia do Nascimento Fermino.
+Convém anotar que a presente ação foi proposta aproveitando dos documentos daquela ação.
+Desse modo, a autora, anexando os mesmos documentos, deixou de comprovar sua situação atual de inativa, em prejuízo à análise dos argumentos trazidos na exordial de que a verba vem sendo paga, incluída nos proventos.
+Desse modo, a partir da inativação, o pedido é improcedente por falta de comprovação.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
