@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conceder a ordem, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. DOSIMETRIA DA PENA. TRÁFICO DE DROGAS E CORRUPÇÃO ATIVA. FRAÇÃO UTILIZADA PARA AUMENTAR A PENA-BASE. INIDONEIDADE DA FUNDAMENTAÇÃO. ORDEM CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado pelos crimes de tráfico de drogas e corrupção ativa, com pena fixada em 11 anos e 1 mês de reclusão, além de 886 dias-multa, em regime inicial fechado. A defesa alega constrangimento ilegal em razão de suposta inidoneidade da fundamentação utilizada para agravar a pena-base. O Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela denegação.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a fundamentação utilizada para agravar a pena-base é idônea e se justifica o aumento aplicado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é conhecido quando utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+4. A quantidade e a natureza da droga apreendida constituem fundamentos idôneos para a exasperação da pena-base, nos termos do art. 42 da Lei nº 11.343/2006.
+5. A fração de aumento da pena-base deve ser fundamentada de forma adequada, sendo reconhecida a ilegalidade do acórdão por ausência de fundamentação específica para a fração adotada, o que justifica a concessão da ordem para redimensionar a pena.
+IV. ORDEM CONCEDIDA PARA REDIMENSIONAR A PENA DO PACIENTE PARA 6 ANOS, 9 MESES E 20 DIAS DE RECLUSÃO, MAIS 680 DIAS-MULTA, MANTIDO O REGIME INICIAL FECHADO.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de JOHNNY DA SILVA PAIVA.
+O paciente foi condenado às penas de 11 anos e 1 mês de reclusão, em regime inicial fechado, além do pagamento de 886 dias-multa, no piso, como incurso no art. 33, "caput", da Lei nº 11.343/2006, e no art. 333, "caput", do Código Penal, em concurso material.
+O impetrante alega, no presente habeas corpus, a existência de constrangimento ilegal, consistente na inidoneidade da fundamentação utilizada para agravar a pena-base.
+Requer a concessão da ordem para que seja reduzido o percentual de aumento da pena-base.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela denegação.
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. DOSIMETRIA DA PENA. TRÁFICO DE DROGAS E CORRUPÇÃO ATIVA. FRAÇÃO UTILIZADA PARA AUMENTAR A PENA-BASE. INIDONEIDADE DA FUNDAMENTAÇÃO. ORDEM CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado pelos crimes de tráfico de drogas e corrupção ativa, com pena fixada em 11 anos e 1 mês de reclusão, além de 886 dias-multa, em regime inicial fechado. A defesa alega constrangimento ilegal em razão de suposta inidoneidade da fundamentação utilizada para agravar a pena-base. O Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela denegação.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a fundamentação utilizada para agravar a pena-base é idônea e se justifica o aumento aplicado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é conhecido quando utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+4. A quantidade e a natureza da droga apreendida constituem fundamentos idôneos para a exasperação da pena-base, nos termos do art. 42 da Lei nº 11.343/2006.
+5. A fração de aumento da pena-base deve ser fundamentada de forma adequada, sendo reconhecida a ilegalidade do acórdão por ausência de fundamentação específica para a fração adotada, o que justifica a concessão da ordem para redimensionar a pena.
+IV. ORDEM CONCEDIDA PARA REDIMENSIONAR A PENA DO PACIENTE PARA 6 ANOS, 9 MESES E 20 DIAS DE RECLUSÃO, MAIS 680 DIAS-MULTA, MANTIDO O REGIME INICIAL FECHADO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+"Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade" (HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Inviável, portanto, o conhecimento do writ em análise, porquanto manejado como substitutivo de revisão criminal. Também não cabe conceder a ordem de ofício diante da inexistência de ilegalidade do ato impugnado.
+A pena do paciente foi assim fixada em relação ao crime de tráfico de drogas (e-STJ, fls. 80-81):
+Na primeira fase, a pena-base do delito de corrupção ativa foi fixada no piso (dois (2) anos de reclusão e dez (10) dias-multa), ao passo que a do crime de tráfico foi elevada de 1/2, em razão da expressiva quantidade de droga apreendida (quarenta e quatro (44) invólucros de maconha, pesando 64,6 gramas, seis (6) tabletes da mesma substância ilícita, pesando 3.276,6 gramas, e mais uma (1) porção, à granel, com peso de 709,3 gramas), suficiente para a confecção de milhares de porções individuais e atingir de modo significativo a saúde pública, além da localização, no mesmo contexto, de diversos petrechos utilizados para o fracionamento e embalo do entorpecente em porções individuais (balanças de precisão, fita adesiva e plástico filme), relógios e quantia de dinheiro auferidos com a mercancia ilícita, tendo-se sete (7) anos e seis (6) meses de reclusão e setecentos e cinquenta (750) dias-multa.
+No caso de tráfico, de acordo com a Lei 11.343/06, artigo 42, a quantidade e natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação do Egrégio Superior Tribunal de Justiça apenas quando demonstrada flagrante ilegalidade no quantum aplicado (HC 502098/SP T5 Quinta Turma Rel. Min. Ribeiro Dantas J. 30.5.2019 Dje 4.6.2019). No mesmo sentido: HC 479977/SP T5 Quinta Turma Rel. Min. Reynaldo Soares da Fonseca J. 14.5.2019 D Je 23.5.2019 e HC 489860/RJ T5 Quinta Turma Rel. Min. Ribeiro Dantas J. 23.4.2019 D Je 30.4.2019.
+Na segunda fase, as sanções foram acrescidas de 1/6, pela presença da agravante da reincidência (Processo nº 0005068-73.2017.8.26.0635, fls. 60), alcançando-se dois (2) anos e quatro (4) meses de reclusão e onze (11) dias-multa, quanto ao delito de corrupção ativa, e oito (8) anos e nove (9) meses de reclusão e oitocentos e setenta e cinco (875) dias-multa, no que tange ao delito de tráfico.
+Na terceira fase, em razão da recidiva, específica, aliás, não era mesmo possível a incidência da causa de diminuição do art. 33, parágrafo 4º, da Lei nº 11.343/2006, nos termos do próprio dispositivo. Nesse sentido: (..) "A reincidência, específica ou não, não se compatibiliza com a causa especial de diminuição de pena prevista § 4.º do art. 33 da Lei n.º 11.343/2006, dado que necessário, dentre outros requisitos, seja o agente primário. Tal óbice e a exasperação da pena, na segunda fase, não importam em bis in idem, mas em consequências jurídico-legais distintas de um mesmo instituto. Precedentes."(STJ, AgRg no HC 468.578/MG - 5ª Turma - Relª. Minª. Laurita Vaz - Julg. 19.2.2019).
+Considero que os elementos apresentados pelas instâncias ordinárias não se encontram de acordo com a jurisprudência desta Corte de Justiça. Veja-se:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. AUMENTO PROPORCIONAL. CRITÉRIO DE UM OITAVO SOBRE O INTERVALO DO PRECEITO SECUNDÁRIO. PLEITO DE RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. AUSÊNCIA DE INTERESSE RECURSAL. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No delito de tráfico de drogas, não há ilegalidade na exasperação da pena-base com fulcro no art. 42 da Lei n. 11.343/2006, uma vez que a quantidade e a natureza da droga apreendida é fundamento idôneo para aumentá-la.
+2. No silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada e outro de 1/8 (um oitavo), a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador, ressalvadas as hipóteses em que haja fundamentação idônea e bastante que justifique aumento superior às frações acima mencionadas. Na espécie, o aumento de 1/8 (um oitavo) sobre o intervalo do preceito secundário, aplicado pelas instâncias ordinárias, está em harmonia com a jurisprudência desta Corte, não havendo falar em desproporcionalidade.
+3. As instâncias ordinárias reconheceram a atenuante da confissão espontânea em favor do ora agravante, inexistindo interesse recursal no tocante ao tema.
+4. Tendo o Tribunal de origem apontado elementos concretos dos autos para negar a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei n. 11.343/06, torna-se inviável a sua desconstituição para aplicar o redutor do tráfico privilegiado, por demandar o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.718.060/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/10/2024, DJe de 3/10/2024.)
+Assim, deve-se reconhecer a ilegalidade do acórdão quanto ao ponto, em razão da ausência de fundamentação a legitimar a fração adotada.
+Passo a redimensionar a pena.
+Fica mantida a pena-base em 5 anos e 10 meses de reclusão, mais 583 dias-multa, considerando a negativação da circunstância judicial relativa à natureza e quantidade de droga. Na fase intermediária, incide a agravante da reincidência, passando a pena provisória a 6 anos, 9 meses e 20 dias, mais 680 dias-multa. Na terceira fase dosimétrica, mantém-se a pena, eis que ausentes causas de aumento e diminuição de pena.
+Ante o exposto, concedo a ordem de habeas corpus para redimensionar a pena do paciente para 6 anos, 9 meses e 20 dias, mais 680 dias-multa, mantido o regime inicial fechado para cumprimento da pena.
+É o voto.
