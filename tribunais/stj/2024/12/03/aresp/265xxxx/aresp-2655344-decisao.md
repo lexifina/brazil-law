@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por TROPICAL WOODS INTERNACIONAL MADEIRAS LTDA, contra decisão que inadmitiu o recurso especial tendo em vista a aplicação da Súmula 284/STF.
+O acórdão recorrido foi assim ementado:
+AMBIENTAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE DEPÓSITO. IBAMA. PRAZO PRESCRICIONAL. TERMO INICIAL. CONSTITUIÇÃO EM MORA DO DEPOSITÁRIO. PRESCRIÇÃO. INOCORRÊNCIA. SENTENÇA ANULADA.
+I - A teor do art. 627 do Código Civil, o termo inicial do prazo prescricional para o ajuizamento de ação de depósito pelo IBAMA, tendo por objeto bens apreendidos em fiscalização ambiental, é a recusa da respectiva entrega pelo depositário. Precedentes desta Corte. II - Na espécie, a contagem do prazo prescricional se deu a partir do descumprimento por parte da promovida da notificação para devolução do produto florestal apreendido (madeira serrada) ou de pagamento do correspondente em dinheiro, por meio do Ofício 02018.002005/2015-06 COPED/PA/IBAMA, de 12/05/2015 (recebida em 25/05/2015), sendo que a presente ação foi ajuizada em 16/11/2017, a descaracterizar a ocorrência de prescrição da pretensão autoral.
+III - Com efeito, há de ser anulada a sentença recorrida, em face da inexistência da prescrição da pretensão do IBAMA, sendo inviável o avanço no exame de mérito, uma vez que a causa não se encontra madura, nos termos do art. 1.013, § 3º, inciso II, do CPC vigente.
+IV - Apelação provida, para anular a sentença recorrida e determinar o retorno dos autos à instância de origem, para regular processamento do feito e oportuna prolação de sentença de mérito.
+Os embargos de declaração foram rejeitados, em razão da ausência de vícios a serem sanados.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 1º-A do Decreto 20.910/1932 e art. 105 do Decreto 6.514/2008, requerendo o seguinte:
+Com isso, considerando a prescrição quinquenal descrita no decreto nº 20.910/1932 e artigo 1º da lei 9.873/99 bem como considerando a data de início da prescrição de acordo com o art. 105 do Decreto 6.514/08 (a partir do fim do processo administrativo), requer-se a reforma do acórdão recorrido a fim de decretar a prescrição quinquenal da presente ação, haja vista que o julgamento do processo administrativo ocorreu em 26/10/2006 e a propositura da ação de depósito ocorreu 11 anos após homologação do deste (fl. 270).
+É o relatório.
+Decido.
+A parte ora recorrente defende a reforma do acórdão atacado, tendo em vista a ocorrência da prescrição, com base no art. 1º-A do Decreto 20.910/1932 e art. 105 do Decreto 6.514/2008.
+Contudo, ao dirimir a controvérsia, os referidos dispositivos infraconstitucionais não foram objeto de apreciação pela Corte de origem, apesar da oposição dos embargos de declaração.
+A parte recorrente, por sua vez, deixou de indicar a violação ao art. 1.022 do CPC nas razões do recurso especial, razão pela qual não se conhece a matéria por prequestionada.
+Nesse sentido, "a jurisprudência deste Tribunal Superior firmou-se no sentido de que o prequestionamento ficto previsto no art. 1025 do CPC/2015, pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite nas razões do recurso especial a violação ao art. 1022 do CPC/2015 por negativa de prestação jurisdicional, pois, somente dessa forma, é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Não cumpridos os requisitos exigidos para o reconhecimento do prequestionamento ficto, permanece perfeitamente aplicável, ainda na vigência do CPC/15, o óbice da Súmula n. 211/STJ" (AgInt no AREsp n. 2.233.923/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/4/2023, DJe de 17/4/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
