@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Rosemar Antonio Soares, apontando-se como autoridade coatora o Tribunal de Justiça de Pernambuco (Apelação Criminal n. 0006004-37.2002.8.17.0001).
+Narram os autos que, em 18/7/2013, o paciente foi condenado a 14 anos de reclusão, em regime inicial fechado, pela prática do crime de homicídio qualificado, praticado em 27/10/2021. Na oportunidade, foi vedado o direito de recorrer em liberdade, mantendo-se a prisão do paciente.
+Neste mandamus, o impetrante informa que, não sabendo da existência da ação penal em Pernambuco, tendo em vista a divergência de informações passadas pelo causídico que atuou em sua defesa à época, o paciente estabeleceu sua vida no Município do Rio de Janeiro a partir do ano de 2005 e assim viveu, trabalhando dignamente, até o ano de 2021 quando foi preso pelo fato que imaginava que já estar resolvido. Frise-se que de 2005 a 2021, período em que viveu no Rio de Janeiro, o reeducando constituiu família, abriu uma empresa especializada no conserto de carros, tirou documentos, nunca cogitando da existência de uma sentença condenatória (fl. 4).
+Alega que a recente decisão do STF no tema 1.068 no tocante à execução imediata da pena no Júri, não se aplica ao ora paciente (fl. 5). Assim, sendo o paciente um preso provisório e não havendo fundamentação na sentença/acórdão para execução imediata da pena, a Defesa passa a demonstrar a desnecessidade da custódia cautelar (fl. 6).
+Requer, inclusive em liminar, a revogação da prisão preventiva, expedindo-se o competente alvará de soltura em favor do paciente.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Maria do Socorro Leite de Paiva, pelo não conhecimento e, no mérito, pela denegação da ordem (fls. 137/141).
+É o relatório.
+Da atenta leitura dos autos, como bem destacou a nobre Subprocuradora-Geral da República, embora o impetrante indique como ato coator o acórdão por meio do qual a 3ª Turma Criminal do TJPE rejeitou o apelo, a questão posta em análise (cabimento da preventiva) não foi analisada pelo Colegiado de origem, que se limitou a apreciar a regularidade da condenação tendo como parâmetro a prova existente nos autos.  ..  em momento algum a defesa do paciente provocou a 3ª Turma do TJPE a se manifestar quanto ao cabimento ou não da preventiva. Tanto é assim que a insurgência deduzida no habeas corpus impugna, diretamente, a motivação utilizada na sentença proferida em 18/7/2013 (fls. 138/139).
+Assim, a análise das teses apresentadas neste habeas corpus implicaria supressão de instância.
+Ademais, não há constrangimento ilegal apto a ser reparado.
+No caso dos autos, tem-se que a prisão preventiva do paciente foi decretada, em 5/4/2002, em razão do crime de homicídio praticado em 27/10/2001. A sentença condenatória foi proferida em 18/7/2013, oportunidade em que foi mantida a sua custódia. Contudo, o mandado de prisão só foi cumprido em 28/10/2021, no estado do Rio de Janeiro.
+Não se pode desconsiderar o que foi afirmado pelo Juízo a quo na sentença (fl. 33 - grifo nosso):
+ ..
+Compulsando os fólios, verifico que vigora decreto de prisão preventiva em desfavor do sentenciando (fis. 69/69v., mas, até a presente data, jamais teve cumprimento o mandado respectivo. Não há, portanto, que se proceder à detração.
+ ..
+Deixo de lhe conferir a faculdade do apelo em liberdade, em virtude de que sua conduta, mantendo-se foragido, compromete severamente a aplicação da lei penal. Dispenso-o do pagamento das custas processuais, dada a sua condição socioeconômica.
+ ..
+Com efeito, a jurisprudência desta Corte Superior se firmou no sentido de que a devida caracterização da fuga do distrito da culpa enseja motivo suficiente a embasar a manutenção da segregação cautelar decretada (RHC n. 95.082/AL, Quinta Turma, Rel. Min. Felix Fischer, DJe de 21/3/2018; HC n. 389.579/MS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/6/2017; e RHC n. 88.898/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 4/12/2017) - (AgRg no RHC n. 169.689/MG, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/8/2023 - grifo nosso).
+Ainda, nesse sentido: AgRg no HC n. 814.390/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/9/2023; e AgRg no RHC n. 180.439/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023.
+Com razão, mais uma vez, o Parquet Federal quando disse que, delimitado o panorama fático, é inolvidável o fato de a evasão do distrito da culpa caracterizar justa causa para a negativa do direito de recorrer em liberdade por evidenciar o risco da liberdade do agente à aplicação da lei penal, nos exatos moldes do art. 312 do CPP (fl. 140 - grifo nosso).
+A contemporaneidade da prisão, portanto, está vinculada à persistência dos motivos que justificam a medida cautelar, não ao momento exato dos crimes iniciais (AgRg no HC n. 937.435/SE, Ministra Daniela Teixeira, Quinta Turma, DJe 23/10/2024).
+Ante o exposto, à vista do parecer, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA PRISÃO. VEDAÇÃO AO DIREITO DE RECORRER EM LIBERDADE. MATÉRIA NÃO ENFRENTADA NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRISÃO FUNDAMENTADA. RÉU FORAGIDO POR MAIS DE 15 ANOS. MANDADO DE PRISÃO CUMPRIDO EM OUTRO ESTADO DA FEDERAÇÃO. PARECER ACOLHIDO.
+Habeas corpus não conhecido.
