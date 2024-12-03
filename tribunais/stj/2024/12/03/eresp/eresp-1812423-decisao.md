@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão proferido pela Segunda Turma, assim ementado (fl. 472):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECONHECIMENTO DE LITISPENDÊNCIA. EXTINÇÃO DOS EMBARGOS À EXECUÇÃO SEM JULGAMENTO DO MÉRITO. RECURSO ESPECIAL. ALEGADA OMISSÃO. AFASTAMENTO. INEXIGIBILIDADE DO TÍTULO. MATÉRIA NÃO APRECIADA. FALTA DE PREQUESTIONAMENTO.
+I - Na decisão agravada, tendo como pano de fundo omissão de receita em face de compensação de créditos não homologados, foi afastada a alegada violação do art. 1.022 do CPC/2015, sob o argumento de que o tema tido como omitido, qual seja, ausência dos requisitos de higidez da CDA, não foi abordado no acórdão recorrido, pois nessa decisão não se discutia a referida questão, mas a ocorrência de litispendência. Foi consignado, ainda, sobre a indicada ofensa ao art. 783 do CPC/2015, que o tema do dispositivo legal não foi apreciado pelo Tribunal a quo, justamente porque este tratou de matéria diversa, qual seja, a ocorrência de litispendência.
+II - Acolhida a tese de litispendência, o Tribunal a quo deixou de examinar a existência de exigibilidade, certeza e liquidez da CDA, devendo ser afastada omissão a respeito de tal questão, porquanto não se apresenta omissa questão não vinculada com o fundamento da decisão. Por outro lado, não sendo prequestionada a questão referente ao art. 783 do CPC/2015, e não tendo o recorrente enfrentado o único fundamento apresentado no acórdão proferido pelo Tribunal a quo, impõe-se a incidência das Súmulas n. 282 e 283, do STF.
+III - Agravo interno improvido.
+A embargante alega que há evidente divergência entre o acórdão embargado e os acórdãos paradigmas, proferidos pela 1ª e 3ª Turmas do Superior Tribunal de Justiça nos seguintes julgados: AgRg no R Esp 1442617/PE, Rel. Des. Conv. Olindo Menezes, 1ª Turma, Data do Julgamento: 15/09/2015, DJe de 23/09/2015; EDcl no AgRg nos EDcl no REsp n.º 1.309.826/RS, Rel. Min. Ricardo Villas Bôas Cueva, 3ª Turma, Julgamento em 01/03/2016, D Je de 07/03/2016; AgInt no R Esp nº 1.700.340/PB, Primeira Turma, Rel. Min. Sérgio Kukina, Julgamento em 28/03/2022, DJe de 31/03/2022; AgInt no AREsp n.º 629.004/RJ, 1ª Turma do STJ, Min. Rel. NAPOLEÃO NUNES MAIA FILHO, sessão de 10/06/2019, DJe de 13/06/2019.
+Afirmam que (fls. 556/557):
+o v. acórdão embargado entendeu que não haveria violação ao artigo 1.022 do CPC/2015, pois a ausência de litispendência só teria sido alegada pela Brasdril em seus Embargos de Declaração opostos em 2ª instância.  ..  Por outro lado, os Acórdãos Paradigmas I e II consignam que a litispendência é ordem de matéria pública, enquanto os Acórdãos Paradigmas III e IV reiteram que matérias de ordem pública podem ser alegadas a qualquer momento
+Por fim, postula (fl. 561):
+sendo inequívoco que o v. acórdão ora embargado deve ser reformado, o Recurso Especial anteriormente interposto pela Brasdril deve ser conhecido e provido para, reconhecendo a violação ao artigo 1.022 do CPC/2015, anular o v. acórdão prolatado pelo E. TRF2 que rejeitou os Embargos de Declaração opostos em 2ª instância.
+É o relatório. Passo a decidir.
+O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que se deve observar a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Os embargos de divergência têm por escopo uniformizar a jurisprudência do Superior Tribunal de Justiça, em razão da adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano atual, com a demonstração da identidade fática entre os casos confrontados e a adoção de soluções jurídicas díspares, nos moldes estabelecidos no art. 1.043, § 4º, do CPC de 2015 e do art. 266, caput, do RISTJ.
+Dito isto, o recurso em apreço deve ser liminarmente indeferido.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que é incabível embargos de divergência que versam sobre violação do art. 1.022 do CPC/2015, em razão das situações fáticos-processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. VIOLAÇÃO DO ART. 1.022, DO CPC. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE AS TESES CONFRONTADAS.
+1. Nos termos da jurisprudência pacificada desta Corte, é incabível, em razão das situações fáticos-processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto, embargos de divergência que versam sobre a violação do art. 1.022, do CPC.
+2. Não cabe aos embargos de divergência analisar possível acerto ou desacerto do acórdão embargado, mas somente o eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Precedentes.
+Agravo interno improvido.
+(AgInt nos EAREsp n. 1.673.549/SC, relator Ministro Humberto Martins, Corte Especial, julgado em 22/11/2022, DJe de 30/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA RELATIVA À APLICAÇÃO DO ART. 1.022 DO CPC/2015. DESCABIMENTO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO NÃO PROVIDO.
+1. Não cabe análise de eventual dissídio pretoriano, em Embargos de Divergência, quanto à ofensa ao art. 1.022 do CPC/2015 (art. 535 do CPC/1973), em razão das inevitáveis particularidades de cada caso concreto.
+2. O STJ entende que os Embargos de Divergência, por serem recurso de fundamentação vinculada e de cognição restrita, não se prestam a rejulgar a causa pela Seção ou Corte Especial, nem a corrigir pretensos erros e incorreções dos demais órgãos fracionários. Seu fim precípuo é uniformizar a jurisprudência do Tribunal.
+3. Agravo Interno não provido.
+(AgInt nos EAREsp n. 1.800.606/SC, relator Ministro Herman Benjamin, Corte Especial, julgado em 25/10/2022, DJe de 4/11/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIVERGÊNCIA RELATIVA À APLICAÇÃO DO ART. 1.022 DO CPC/2015. DESCABIMENTO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO DESPROVIDO.
+1. Na aplicação do art. 535 do CPC de 1973, atual art. 1.022 do CPC de 2015, a constatação de ter, ou não, havido omissão no acórdão embargado, em regra, demanda o exame das peculiaridades de cada caso concreto, inexistindo, portanto, divergência de teses a ensejar os embargos de divergência. Precedentes.
+2. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt nos EAREsp n. 1.685.009/DF, relator Ministro Paulo de Tarso Sanseverino, Corte Especial, julgado em 27/9/2022, DJe de 3/10/2022.)
+Ante o exposto, indefiro liminarmente os embargos de divergência de competência da Corte Especial, com fundamento no art. 266-C do RISTJ.
+Determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 10% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIVERGÊNCIA RELATIVA À APLICAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO INDEFERIDO LIMINARMENTE.
