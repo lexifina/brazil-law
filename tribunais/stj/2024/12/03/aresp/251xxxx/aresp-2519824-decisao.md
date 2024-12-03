@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICIPIO DE BELEM da decisão que não admitiu o recurso especial pelo qual, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, insurgira-se contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ de fls. 666/680.
+Os embargos de declaração opostos foram conhecidos e providos, sem efeitos infringentes (fls. 695/704).
+A parte recorrente alega violação ao art. 2º, § 1º, do Decreto 4.657/1942 (LINDB). Argumenta que houve, "por parte da Turma do TJ/PA, a má aplicação do art. 2º, § 1º do Decreto-Lei nº 4.657/1942 (Lei de Introdução às normas do Direito Brasileiro - LINDB), pois reconhecidamente as Leis Municipais nº 8.957/2012 e nº 9.050/2013 revogaram as Leis nº 7.507/1991 e nº 7.546/1991, seja pela incompatibilidade, seja por regularem inteiramente a matéria de que tratavam as leis anteriores, estabelecendo regramento específico de progressão funcional dos servidores da Guarda Municipal de Belém" (fl. 738).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 766/770).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Da leitura do acórdão recorrido, constato que, ao tratar da progressão funcional dos servidores da Guarda Municipal de Belém, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ decidiu com fundamento na interpretação da Lei municipal 7.507/1991
+Confira-se (fls. 670/672):
+Na hipótese dos autos, deve ser ressaltado que todos os autores/apelados exercem o cargo de Guarda Municipal, o qual está previsto no Plano de Carreira do Quadro de Pessoal da Prefeitura Municipal de Belém, no caso, na Lei nº 7.507/1991, no qual há previsão expressa quanto à progressão funcional pretendida pelos servidores municipais.
+Pelo dispositivo transcrito, verifica-se que a legislação municipal estabelece basicamente dois requisitos para o servidor municipal fazer jus a progressão funcional por antiguidade, no caso, o interstício de cinco anos e o efetivo exercício do cargo ao município de Belém.
+Compulsando os autos, com base na documentação, constata-se que os Apelantes, de fato, possuem direito subjetivo à progressão horizontal por antiguidade, considerando o tempo de serviço efetivamente exercido individualmente por cada servidor requerente e a omissão do Município de Belém em não promover a progressão funcional, conforme o disposto no artigo 12 e parágrafo único da Lei nº 7.507/1991, conforme os decretos de nomeação dos autores e as fichas financeiras, respectivamente, desde que não atingidos pela prescrição quinquenal do Decreto nº 20.910/32.
+ ..
+No caso em debate nos autos, a gratificação de produtividade tem previsão legal no Estatuto dos Servidores Públicos Municipais (Lei Municipal nº 7.502/90), mas se trata de previsão genérica, uma vez que o referido diploma legal nada dispõe sobre os valores, os critérios de concessão e a forma de cálculo para pagamento.
+ ..
+Por todo o exposto, voto sentido de conhecer e dar parcial provimento à presente apelação, para reconhecer o direito dos Apelante à progressão funcional nos termos da Lei n. n. 7.546/1991 e suas alterações.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Aplico ao presente caso, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Nesse sentido:
+CONSTITUCIONAL E PROCESSUAL CIVIL. CONCURSO PARA GUARDA MUNICIPAL. LIMITAÇÃO DE IDADE PREVISTA NO EDITAL. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. LEGISLAÇÃO LOCAL. SÚMULA 280/STF.
+1. O recorrente prestou "concurso público para o cargo de Guarda Municipal de Contagem/MG", cujo edital previa, "como condição para a inscrição no concurso, a comprovação, pelo candidato, de até a data da posse, ter no mínimo 21 (vinte e um) anos e no máximo 30 (trinta) anos completos."
+2. A Corte a quo assentou que os concursos públicos são regidos pelos princípios constitucionais da legalidade, razoabilidade, impessoalidade e isonomia. Dessarte, a questão referente à limitação de idade para aprovação ao concurso de guarda municipal extrapola a competência deste Tribunal, visto tratar-se de matéria constitucional. Conforme interativa jurisprudência do Superior Tribunal de Justiça, descabe a esta Corte analisar infringência a fundamento constitucional em Recurso Especial, mesmo que para viabilizar a interposição de Recurso Extraordinário.
+3. Verifica-se que a questão em debate envolve, na realidade, análise de legislação local - Lei Complementar 89/2009 do Estado de Minas Gerais -, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.795.500/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/4/2021, DJe de 1º/7/2021.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. GUARDA MUNICIPAL. NULIDADE SUSCITADA PELA AUTARQUIA RECORRENTE, POR NÃO SE TER DETERMINADO A SUSPENSÃO DO PROCESSO NA ORIGEM, DADA A EXISTÊNCIA DE IRDR NA CORTE LOCAL. TEMA ELENCADO APENAS EM RECURSO ESPECIAL, SEM QUE A PARTE TENHA SUSCITADO A QUESTÃO EM ACLARATÓRIOS OPOSTOS PERANTE A CORTE DE ORIGEM. PREQUESTIONAMENTO NÃO CONFIGURADO. POSTULAÇÃO DE ENQUADRAMENTO FUNCIONAL E INCORPORAÇÃO DE GRATIFICAÇÕES E VANTAGENS. A PRETENSÃO DA PARTE INSURGENTE NÃO PODE SER ACOLHIDA EM APELO RARO, FRENTE À IMPOSSIBILIDADE DE ANÁLISE DE LEI LOCAL PELA CORTE SUPERIOR. ÓBICE DA SÚMULA 280 DA EXCELSA CORTE SUPREMA. AGRAVO INTERNO DA AUTARQUIA FLUMINENSE DESPROVIDO.
+1. O atendimento ao duplo grau de jurisdição quanto aos tópicos suscitados em Recurso Especial é conditio sine qua non para o conhecimento da insurgência manejada à Instância Superior. Assim, se a parte elenca tema em Recurso Especial que não fora oportunamente argumentado nas razões de aclaratórios veiculados no Tribunal de origem, como ocorreu na espécie, não há possibilidade jurídico-processual de se efetuar o controle de legalidade típico da Corte Superior, dada a falta do chamado prequestionamento da matéria.
+2. A fundamentação do acórdão Fluminense quanto à pretensão de enquadramento funcional e incorporação de gratificações do autor ancorou-se na interpretação das Leis Complementares 100/2009 e 135/2014, do Estado do Rio de Janeiro, e sua revisão é obstada nesta via recursal especial, mercê da incidência da Súmula 280/STF.
+3. Agravo Interno da Autarquia Municipal desprovido.
+(AgInt no AREsp n. 1.571.291/RJ, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF da Região, Primeira Turma, julgado em 12/4/2021, DJe de 20/4/2021.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
