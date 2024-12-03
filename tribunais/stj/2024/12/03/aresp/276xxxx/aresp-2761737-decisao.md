@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão da não ocorrência de negativa de prestação jurisdicional (ausência de violação aos arts. 140 e 1022 do CPC/2015.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 742):
+MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA, POR AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. REJEITADA. EXONERAÇÃO DO IMPETRANTE DE CARGO DE PROFESSOR, SOB O FUNDAMENTO DE ACUMULAÇÃO ILEGAL DE CARGO PÚBLICO. INOBSERVÂNCIA DOS PRECEITOS LEGAIS E JURISPRUDENCIAIS. COMPATIBILIDADE DE HORÁRIOS. LIMITAÇÃO DA CARGA HORÁRIA. IMPOSSIBILIDADE. NULIDADE DO ATO. REINTEGRAÇÃO DEVIDA. DUPLA ACUMULAÇÃO DE CARGOS PÚBLICOS. UM DE PROFESSOR E OUTRO TÉCNICO EM INFORMÁTICA. POSSIBILIDADE. CARGO QUE EXIGE FUNÇÕES ESPECIALIZADAS. COMPATIBILIDADE DE HORÁRIOS. INTERPRETAÇÃO DO ARTIGO 37, INCISO XVI. ALÍNEA B. DA CONSTITUIÇÃO FEDERAL. PRECEDENTES DO STF E DO STJ. REQUISITOS PREENCHIDOS. DIREITO LÍQUIDO E CERTO AMPARADO. SEGURANÇA CONCEDIDA. AGRAVO INTERNO PREJUDICADO.
+Embargos de declaração rejeitados, com aplicação de multa (fls. 1211-1221).
+No recurso especial o recorrente alega violação dos artigos 140 e 1.022, II, do CPC/2015 argumentando a ocorrência de negativa de prestação jurisdicional no acórdão embargado.
+Com contrarrazões.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+Parecer do Ministério Público Federal, opinando pelo não provimento do agravo, às fls.1394-1404.
+É o relatório. Decido.
+Inicialmente, consigna-se que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas após 17 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial que, de pronto, observa-se que não merece trânsito.
+Com efeito, não se pode conhecer da apontada violação dos arts. 140 e 1.022, II, do Código de Processo Civil, uma vez que o recurso se cinge à alegações genéricas e, por isso, não demonstra, com clareza e objetividade, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua relevância da análise de tais dispositivos para o deslinde da controvérsia. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF". (REsp n. 1.825.179/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/05/2020).
+Registre-se que a indicação, por si só, de artigo de lei federal ou da Constituição Federal supostamente não debatidos não demonstra a relevância da suposta contradição ou omissão. Incide ao caso a Súmula 284/STF.
+Nesse sentido: "À parte incumbe manifestar a sua irresignação com dialética suficiente para evidenciar eventual desacerto do pronunciamento atacado, sob pena de, não o fazendo, ter o seu recurso fadado ao insucesso. Aplicação do princípio da dialeticidade e do enunciado sumular 284/STF (AgRg no Ag 1419927/CE, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 10/05/2013)"
+Confira-se, ainda, valendo por todos, o seguinte julgado:
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA 284/STF. SERVIDOR PÚBLICO MUNICIPAL. REENQUADRAMENTO. PRESCRIÇÃO DE FUNDO DE DIREITO. CARACTERIZAÇÃO.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como
+sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. É cediço que o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ. Precedentes.
+3. Recurso especial conhecido em parte e, nessa extensão, não provido (REsp 1.712.328/MG, Rel. Min. Og Fernandes, Segunda Turma, DJe 9/4/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. VIOLALÃO DOS ARTIGOS 104 E 1022 DO CPC/2015. ALEGAÇÕES GENÉRICAS . DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
