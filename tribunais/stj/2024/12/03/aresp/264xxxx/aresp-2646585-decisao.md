@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por ÉLDER BASÍLIO E SILVA em face da decisão que inadmitiu seu recurso especial.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 935 e-STJ):
+APELAÇÃO CÍVEL. Ação de revisão de empréstimo. Autor correntista que pretende limitação de desconto dos empréstimos encetados com a instituição financeira ré em seus vencimentos. Sentença de Parcial Procedência. Irresignação do Banco réu. Acolhimento que se impõe, pois o autor é servidor público do Estado de Rondônia e não do Estado de São Paulo, sendo que os 30% serão calculados sobre o valor bruto da remuneração, pois aplicada norma estadual do artigo 4ª do Decreto nº 15654, de 27/01/2011, do Governo de Rondônia: "Art. 4º A soma das consignações compulsórias e facultativas não excederá o limite de 70% (setenta por cento) da remuneração mensal do servidor, respeitando o limite de 30% (trinta por cento) para as facultativas. Decisão em dissonância com o Tema 1085, recentemente julgado pelo STJ. Autorização expressa do mutuário para que o débito seja realizado em conta caso o empregador não efetue a consignação. Lícita a conduta do Banco do Brasil, não se aplicando a limitação do art. 1º, §1º, da Lei nº 10.820/2003. Cassação do limite de descontos para os empréstimos pessoais, os quais podem ser integrais e em conta corrente, ainda que utilizada para recebimento de salários Sentença reformada, com inversão da sucumbência e majoração do artigo 85, § 11 do CPC. - RECURSO PROVIDO.
+Nas razões de recurso especial, a insurgente aponta dissídio jurisprudencial e alega que o acórdão recorrido violou o § 2º do artigo 2º da Lei Federal n. 10.820/2003 e o artigo 833, inciso IV, do Código de Processo Civil, sustentando, em suma, a limitação dos descontos em folha de pagamento e conta corrente a 30% sobre os proventos líquidos do salário.
+Contrarrazões às fls. 1031-1049 e-STJ.
+A Corte estadual negou seguimento ao recurso especial com base no art. 1.030, I, "b", CPC, em razão dos recursos especiais repetitivos 1863973/SP, 1877113/SP e 1872441/SP e, no mais, o inadmitiu com base no art. 1.030, V, CPC (fls. 1133-1136 e-STJ).
+Interposto o agravo do art. 1.042 do CPC, com o objetivo de destrancar a insurgência (fls. 1139-1174 e-STJ).
+Contraminuta às fls. 1206-1229 e-STJ.
+Ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. Inicialmente, consigne-se que, em relação à temática dos descontos em conta corrente, decorrentes de empréstimos pessoais não consignados, o recurso especial teve seguimento negado pela aplicação da tese firmada no Tema Repetitivo 1085 do STJ, segundo a qual "São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento."
+Portanto, esse ponto não foi devolvido por meio do agravo do art. 1.042 do CPC, sendo certo que eventual irresignação da parte deveria ter sido manejada via agravo interno, o que não ocorreu.
+2. No tocante aos descontos em folha de pagamento, derivados dos empréstimos consignados contratados pela recorrente, verifica-se que o Tribunal local, ao solucionar a controvérsia acerca do percentual de desconto incidente sobre os referidos empréstimos, o fez com base em legislação local (Decreto Estadual nº 15654/2011, de Rondônia - que dispõe sobre consignações em folha de pagamento de servidores públicos civis e militares ativos, aposentados e pensionistas da Administração Direta e Indireta do Estado de Rondônia).
+Assim, é inviável o exame da matéria, na via do recurso especial, em face da vedação prevista, por analogia, na Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário".).
+Nesse contexto, ainda que tenham sido indicados dispositivos de lei federal neste recurso, o Tribunal de origem fundamentou sua decisão em direito local, cuja análise não é de competência ao STJ, como guardião da legislação federal.
+Reformar entendimento firmado com fundamento em norma de direito local, atrai, portanto, o óbice previsto na Súmula 280/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACORDO HOMOLOGADO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. REFORMA DA DECISÃO AGRAVADA, POR MAIORIA. TÉCNICA DE JULGAMENTO AMPLIADO. INAPLICABILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO. ANÁLISE DE ATO NORMATIVO ESTADUAL. IMPOSSIBILIDADE. SÚMULA 280/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO IMPROVIDO.
+1. Não configura negativa de prestação jurisdicional ou deficiência de fundamentação a hipótese na qual o acórdão recorrido se manifesta de maneira clara, precisa e completa sobre as questões relevantes do processo, com fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela parte recorrente.
+2. "Somente se admite a técnica do julgamento ampliado, em agravo de instrumento, prevista no art. 942, § 3º, II, do NCPC, quando houver o provimento do recurso por maioria de votos e desde que a decisão agravada tenha julgado parcialmente o mérito" (REsp 1.960.580/MT, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 5/10/2021, DJe de 13/10/2021).
+3. É inviável o exame de recurso especial quando, para derruir as conclusões do acordão recorrido, for necessária interpretação de ato normativo estadual. Incidência, por analogia, da Súmula 280/STF.
+4. A ausência de impugnação de fundamento autônomo e suficiente para manter o acórdão recorrido inviabiliza o conhecimento do recurso especial. Aplicação, por analogia, da Súmula 283/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.289.318/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024 - grifou-se)
+AGRAVO INTERNO. COMPRA E VENDA DE VEÍCULO. RESPONSABILIDADE DO ADQUIRENTE POR IMPOSTOS E ENCARGOS. ANÁLISE DE LEI LOCAL.
+IMPOSSIBILIDADE. ÓBICE DA SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. A Corte a quo dirimiu a controvérsia com base no art. 1º, § 8º, da Lei Distrital 7.431/1985, segundo o qual se considera solidariamente responsável pelo pagamento do IPVA, in verbis, "o proprietário de veículo de qualquer espécie, que o alienar e não comunicar a ocorrência ao órgão público encarregado do registro e licenciamento, inscrição ou matrícula ".
+2. O Deslinde do caso passa necessariamente pela análise de legislação local, uma vez que o dispositivo de Lei Federal tido por violado, por si só, não é capaz de infirmar as razões colacionadas no acórdão guerreado. Tal medida é vedada em recurso especial, tendo em vista o que prevê a da Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+3. A constatação do óbice da Súmula 280/STF também obsta o conhecimento do recurso pela divergência jurisprudencial.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1269765/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2018, DJe 21/08/2018 - grifou-se)
+AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INTIMAÇÃO PRÉVIA PARA JULGAMENTO VIRTUAL. SUSTENTAÇÃO ORAL. REGRAMENTO POR LEI LOCAL. OMISSÃO DO TRIBUNAL. DECISÃO PASSÍVEL DE RECURSO. NÃO CABIMENTO DE MANDADO DE SEGURANÇA.
+1. Não compete a esta Corte, como guardiã da legislação federal, reformar entendimento julgado com base em norma de direito local, a teor do disposto na Súmula 280, do STF, por analogia.
+2. O mandado de segurança não serve como sucedâneo do recurso, daí por que não é cabível sua impetração em casos em que há recurso próprio, previsto na legislação processual, apto a resguardar a pretensão do impetrante, mesmo que sem efeito suspensivo, salvo a hipótese de decisão teratológica ou flagrantemente ilegal, o que não é o caso dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 68.857/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024 - grifou-se)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. CUSTAS PROCESSUAIS. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO RECURSAL, A DESPEITO DE PRÉVIA INTIMAÇÃO PELO TRIBUNAL DE ORIGEM. DESERÇÃO. INCIDÊNCIA DA SÚMULA N. 83/STJ. OFENSA A DIREITO LOCAL. SÚMULA N. 280/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. O acórdão fundamentou a questão da deserção com base na Lei Estadual n. 11.608/2003. Assim, aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+3. A jurisprudência do STJ é firme no sentido de que "é deserto o recurso especial se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada na forma do art. 1.007, § 4º, do CPC/2015." (AgInt no REsp n. 1.915.493/CE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado DJe de 1/7/2021.).
+4. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.507.694/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024 - grifou-se)
+3. Do exposto, com fundamento no art. 932 do CPC c/c Súmula 568 do STJ, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
