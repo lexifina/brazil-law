@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por JOÃO RAMOS DE OLIVEIRA e ALCIDES RIBEIRO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl.79):
+"1) DIREITO CIVIL E DO CONSUMIDOR. REVISIONAL BANCÁRIA. REPETIÇÃO DE INDÉBITO. IMPOSSIBILIDADE DE INCIDÊNCIA DE JUROS REFLEXOS. PRECEDENTES.
+Não deve incidir juros reflexos na restituição, porque o acréscimo de correção monetária, a partir do desembolso, e a incidência de juros demora, desde a citação, são suficientes para compensar eventuais consectários incidentes.
+2) AGRAVO A QUE SE DÁ PROVIMENTO."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustentam os recorrentes, ora agravantes, dissenso jurisprudencial com o posicionamento do Superior Tribunal de Justiça firmado no julgamento do AgInt no REsp 2.002.685/PB, em que se decidiu pela "devolução dos valores referentes às tarifas bancárias - declaradas abusivas em outra demanda ajuizada em sede de juizado especial cível - abrangente, por corolário lógico, dos juros remuneratórios, pois estes são acessórios àqueles (principal)", bem como violação do art. 184 do Código Civil, na medida em que deve haver a repetição/restituição dos juros remuneratórios reflexos incidentes sobre as tarifas bancárias declaradas ilegais.
+As contrarrazões ao recurso especial foram apresentadas a fls. 175/181.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 283/STF.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório.
+Cinge-se a controvérsia à devolução dos juros remuneratórios incidentes sobre encargos ilegalmente cobrados.
+O Tribunal a quo decidiu que não dever haver a repetição dos encargos reflexos, tais quais os juros remuneratórios.
+Deveras, de acordo com a jurisprudência do Superior Tribunal de Justiça, o recebimento indevido de valores cobrados a maior pela instituição bancária implica a obrigação de devolver com o acréscimo apenas de juros legais e de correção monetária, não sendo cabível a incidência de juros remuneratórios.
+Confira-se:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS CUMULADA COM REPETIÇÃO DE INDÉBITO. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. EMBARGOS CORRETAMENTE REJEITADOS. IMPOSSIBILIDADE DE UTILIZAÇÃO, NO CÁLCULO DA RESTITUIÇÃO DEVIDA AOS AUTORES, DAS MESMAS TAXAS PRATICADAS PELO BANCO. DEVOLUÇÃO EM CUJO CÁLCULO NÃO INCIDEM JUROS REMUNERATÓRIOS, MAS APENAS CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS, ESTES COMPUTADOS DA CITAÇÃO. NULIDADE DE CONTRATOS. PRETENSÃO CUJO ACOLHIMENTO EXIGIRIA NOVO E APROFUNDADO EXAME DAS PROVAS CONSTANTES DOS AUTOS. PROVIDÊNCIA VEDADA AO SUPERIOR TRIBUNAL DE JUSTIÇA NO ÂMBITO DO RECURSO ESPECIAL, NOS TERMOS DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. DEFEITO NA FORMULAÇÃO DO RECURSO ESPECIAL, TENDO EM VISTA QUE OS RECORRENTES NÃO SE DESINCUMBIRAM DE REALIZAR O COTEJO ANALÍTICO DOS ACÓRDÃOS TIDOS POR DIVERGENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. Em relação à alegada negativa de prestação jurisdicional, a irresignação não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão das partes agravantes. A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão - situação facilmente constatável no caso -, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nesse contexto, não implica contrariedade ao art. 535, I e II, do CPC/1973 (equivalente ao art. 1.022, I e II, do CPC/2015).
+2. Esta Corte de Justiça pacificou o entendimento de que não devem ser aplicadas as mesmas taxas cobradas por estabelecimento bancário na restituição de valores indevidamente debitados em conta de correntista.
+3. De acordo com a jurisprudência do Superior Tribunal de Justiça, o recebimento indevido de valores cobrados a maior pela instituição bancária implica a obrigação de devolver com o acréscimo apenas de juros legais e de correção monetária, não sendo cabível a incidência de juros remuneratórios.
+4. O termo inicial de incidência dos juros moratórios, nas hipóteses que envolvem relação contratual, é a data da citação da ação judicial.
+5. Segundo a orientação desta Corte Superior, não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+6. Não se revela cognoscível a irresignação deduzida pela alínea c do permissivo constitucional, porquanto os insurgentes não demonstraram o dissídio nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ. Isso porque é assente nesta Corte Superior que a mera transcrição de ementas ou trechos do acórdão paradigma, sem a realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial.
+7. Agravo regimental improvido."
+(AgRg no REsp 1.273.861/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/04/2024, DJe de 17/04/2024)
+Nesse contexto, verifica-se que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a incidência da Súmula 83/STJ.
+Dessa forma, entende-se que o acórdão recorrido de ve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial. Deixo de majorar a verba honorária advocatícia sucumbencial na forma do art. 85, §11, do CPC/2015, posto que o recurso especial tem origem em agravo de instrumento.
+Publique-se.
+EMENTA
