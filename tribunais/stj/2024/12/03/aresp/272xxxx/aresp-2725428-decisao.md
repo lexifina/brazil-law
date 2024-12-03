@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual CAMPMIX CONCRETO USINADO LTDA insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 279):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DA CDA NÃO DEMONSTRADA. CERTIDÃO DA DÍVIDA ATIVA HÍGIDA. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. RE 574.706/PR. MODULAÇÃO. MATÉRIA QUE DEMANDA DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. RECURSO DESPROVIDO.
+- Não obstante sejam os embargos à execução o meio de defesa próprio da execução fiscal, a orientação do C. Superior Tribunal de Justiça firmou-se no sentido de admitir a exceção de pré-executividade, nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, a legitimidade das partes, entre outras.
+- Contudo, nos casos em que a análise da questão exige dilação probatória, a matéria de defesa deve ser aduzida na via própria, ou seja, nos embargos à execução, e não por meio do incidente de exceção de pré-executividade.
+- A certidão da dívida ativa regularmente inscrita os termos do art. 2º da LEF e 202 do CTN, não demonstrada pela excipiente a nulidade do título.
+- As alegações de que a sistemática de atualização monetária e composição dos juros de mora ultrapassa o padrão da taxa Selic, não são passíveis de análise na via da exceção de pré-executividade, pois demandariam dilação probatória. - A questão do ICMS na base de cálculo do PIS e COFINS, não é matéria passível de análise nesta sede processual, tendo em vista que não se pode comprovar, sem dilação probatória, que de fato os tributos cobrados foram constituídos mediante tal inclusão.
+- Em que pese a aludida jurisprudência ter consagrado tese favorável ao contribuinte no julgamento do RE 574.706/PR, observo que a parte executada pretende desconstituir título executivo cuja presunção de certeza, liquidez, e exigibilidade deve ser refutada por prova inequívoca da cobrança indevida.
+- Assim, ainda que tivesse sido incluído o ICMS na mencionada base de cálculo, a discriminação dos valores dependeria de perícia contábil, o que não é cabível nesta sede.
+- Agravo de instrumento desprovido.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial (fls. 290/304), a parte agravante alega violação ao art. 195, I "b" da CF, art. 2º e 3º da Lei 9.718/1998, art. 435 do CPC, art. 8º, II, "a" e "c", §§ 2º a 6º, art. 13, I, § 1º, I e II, "a" e "b", §§ 2º e 4º, I a III, e § 5º, da Lei Complementar 87/1996.
+Aduz que "as matérias arguidas na Exceção de Pré-Executividade interposta pela Agravante são todas matérias de direito que não implicam em dilação probatória, posto que pacíficas no âmbito da jurisprudência, devendo ser totalmente reformado o acórdão para que seja aceita a exceção como matéria de defesa" (fl. 297).
+Defende a necessidade de ser feita a "a exclusão do ICMS e do ISS da base de cálculo do PIS/COFINS da presente execução fiscal, devendo ser declarado nulas ou recalculado o valor das CDAs" (fl. 304).
+Requer o provimento do recurso especial.
+Não foram apresentadas contrarrazões (fl. 312).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A insurgência não merece prosperar.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Verifico que incide ao presente caso, o óbice da Súmula 284/STF, uma vez que a parte recorrente não demonstrou, de forma clara, direta e particularizada, como o acórdão recorrido violou os dispositivos legais apontados como violados, o que atrai, por conseguinte, a aplicação referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo mas também a delimitação da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame. Destaco que a citação de passagem de dispositivos legais no corpo das razões recursais não satisfaz tal requisito, já que é impossível identificar se foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, alíneas "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE COMO OCORRERAM AS APONTADAS VIOLAÇÕES. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
