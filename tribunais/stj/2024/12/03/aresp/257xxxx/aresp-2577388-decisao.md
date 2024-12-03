@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial contra decisão que não admitiu o recurso especial interposto por SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESARIA LIMITADA, com fundamento na alínea "a" do permissivo constitucional, em desfavor de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 250-265):
+APELAÇÕES. PLANO DE SAÚDE. Ação julgada procedente para condenar a ré a fornecer o medicamento Golimumabe para tratamento da autora Inconformismo da operadora. Descabimento. Beneficiária diagnosticada com "retocolite ulcerativa" (CID-10: K51). Necessidade incontroversa da administração do fármaco. Prescrição médica expressa Alteração da Lei nº 9.656/98 pela Lei nº 14.454 de 21 de setembro de 2022. Rol de procedimentos e eventos em saúde suplementar que constitui referência básica para os planos de saúde. Cobertura que deverá ser autorizada se comprovada a eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico ("rol exemplificativo"). Incidência da Súmula de nº 102 deste E. Tribunal. Precedente desta E. Corte. Procedimento de junta médica que não se aplica a casos de urgência, nos termos do art. 3º, I, da Resolução Normativa ANS nº 424/17 Insurgência da autora contra a fixação de honorários advocatícios por equidade. Cabimento. Inteligência do Tema nº 1076 do C. STJ. Aplicação dos art. 85, §§ 2º e 11, do CPC para considerar o valor da causa como base de cálculo Recurso de São Francisco Sistema de Saúde S/E Ltda. desprovido. Apelo de Gabriela de Oliveira Rodrigues parcialmente provido para fixar os honorários advocatícios devidos pela ré em 15% (quinze por cento) sobre o valor da causa, corrigidos monetariamente pela Tabela Prática do TJ/SP desde a data da distribuição (27.09.2022), com fundamento no artigo 85, §§ 2º e 11, do Código de Processo Civil.
+Nas razões do recurso especial, a recorrente aponta irretroatividade da Lei n. 9.656/98 bem como divergência jurisprudencial.
+Sustenta que "se a própria Agência Nacional de Saúde Suplementar - ANS, agência responsável pela regulação do setor da saúde no país, elabora um Rol e as Diretrizes de Utilização para os procedimentos cuja cobertura é obrigatória pelos planos de saúde, os requisitos constantes deste Rol, necessariamente devem ser observados" (fl. 399).
+Aduz que a Agência Nacional de Saúde Suplementar (ANS) permitiu, por meio da Resolução Normativa n. 424/2017, que as operadoras de planos de saúde possam intervir na definição do tratamento indicado pelo médico escolhido pelo paciente.
+Ressalta que a rigorosa observância das cláusulas contratuais e das normas regulatórias da ANS é crucial para a sobrevivência das operadoras.
+Foram oferecidas contrarrazões (fls. 412-419).
+Inadmitido o recurso especial na origem (fls. 420-422).
+É, no essencial, o relatório.
+O inconformismo não merece prosperar.
+Com efeito, observa-se que, nas razões do recurso especial, a recorrente deixou de estabelecer quais os dispositivos de lei federal que considera violados para sustentar sua irresignação tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado, de modo que a "simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF" (EDcl no AgRg no AREsp n. 402.314/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2015).
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito :
+1. A ausência de indicação do dispositivo de lei violado ou de interpretação controvertida caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF.
+(AgInt no AREsp n. 2.484.657/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2024.)
+3. O recurso especial é inadmissível por fundamentação deficiente quando deixa de indicar o dispositivo de lei federal violado. Súmula nº 284/STF.
+(AgInt no AREsp n. 2.511.818/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 21/6/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. PLANO DE SAÚDE. MEDICAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. AUSÊNCIA DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
