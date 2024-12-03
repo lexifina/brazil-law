@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO ITAÚ CONSIGNADO S.A., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que julgou demanda relativa à limitação da taxa dos juros remuneratórios em ação revisional de contrato de empréstimo pessoal .
+O Tribunal de origem deu provimento em parte ao recurso de apelação da ora recorrida nos termos da seguinte ementa (fls. 465-466):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE OBRIGAÇÃO DE FAZER. REVISIONAL. EMPRÉSTIMO PESSOAL CONSIGNADO INSS.
+JUROS REMUNERATÓRIOS ABUSIVOS. MORA DESCARACTERIZADA. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. REPETIÇÃO DO INDÉBITO SIMPLES. VEDAÇÃO DE ABERTURA DE CADASTRO RESTRITIVO. INDEFERIMENTO DA SUSPENSÃO DOS DESCONTOS. DANO MORAL NÃO CONFIGURADO. SUCUMBÊNCIA REDIMENSIONADA. JUROS REMUNERATÓRIOS. ENTENDIMENTO UNÂNIME DESTA CÂMARA PARA CONSIDERAR ABUSIVAS AS TAXAS QUE EXCEDAM AS TAXAS MÉDIAS PUBLICIZADAS PELO BACEN.
+CONSTATADA A ABUSIVIDADE, OS CONTRATOS BANCÁRIOS CELEBRADOS COM O BANCO ITAÚ DEVEM SER READEQUADOS COM BASE NA TAXA MÉDIA DE MERCADO PARA A ÉPOCA E ESPÉCIE CONTRATADA. CONSTATADA A COBRANÇA DE ENCARGOS ABUSIVOS NO PERÍODO DA NORMALIDADE, RESTA DESCARACTERIZADA A MORA.
+DEFERIDA A RESTITUIÇÃO DOS VALORES PAGOS A MAIOR NA FORMA SIMPLES. MONTANTE QUE DEVERÁ SER CORRIGIDO MONETARIAMENTE PELO IGP-M, ACRESCIDO DE JUROS DE MORA DE 1% AO MÊS.
+DANO MORAL NÃO CONFIGURADO.
+PROIBIDA A INCLUSÃO DO NOME DA AUTORA NO CADASTRO RESTRITIVO DE CRÉDITO ATÉ A READEQUAÇÃO DOS CONTRATOS CELEBRADOS COM O BANCO ITAÚ, SOB PENA DE APLICAÇÃO DE MULTA DIÁRIA NO CASO DE DESCUMPRIMENTO.
+INDEFERIDA A SUSPENSÃO DOS DESCONTOS DAS PARCELAS NO BENEFÍCIO PREVIDENCIÁRIO DA AUTORA, QUE SE PRESUMEM HAJAM SIDO LIVREMENTE PACTUADOS NO MOMENTO DAS CONTRATAÇÕES DOS EMPRÉSTIMOS. DEVERÁ, TODAVIA, SER OBSERVADO NOS VALORES A SEREM DESCONTADOS, O RECÁLCULO DAS PARCELAS NA FORMA FIXADA NESTA DECISÃO.
+SUCUMBÊNCIA REDIMENSIONADA.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Embargos de declaração rejeitados (fls. 503-508).
+No recurso especial, alega a recorrente afronta aos arts. 6º, § 1º, da Lei n. 10.820/2003; 397 e 406 do Código Civil; e 52, § 1º, do Código Defesa do Consumidor, ao  se  insurgir  contra  o  entendimento  do  Tribunal  de  origem  que limitou a taxa dos juros remuneratórios à taxa média de mercado, porquanto configurado desiquilíbrio contratual e abusividade, e considerou descaracterizada a mora.
+Sustenta que os juros remuneratórios incididos em um contrato de mútuo bancário só podem sofrer interferência do Poder Judiciário quando cabalmente demonstrada a abusividade no caso concreto, e que improcedente a adoção da taxa média de mercado como limite objetivo na avaliação da abusividade, pois a taxa média deve ser um referencial e não um limite a ser imposto.
+Alega que não há abusividade na taxa pactuada, e que o Tribunal não se atentou às peculiaridades do caso concreto e às próprias circunstâncias da contratação.
+Por fim, aduz que o inadimplemento da obrigação caracteriza a mora do devedor, que apenas pode ser descaracterizada quando constatada efetiva irregularidade em encargo incidente no período de normalidade contratual.
+Suscita, outrossim, divergência jurisprudencial com arestos desta Corte.
+Sem contrarrazões ao recurso especial (fl. 772), sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 775-780).
+É, no essencial, o relatório.
+Não merece prosperar o recurso.
+De início, verifica-se que a Corte de origem entendeu, com base no conjunto probatório dos autos, pela existência de abusividade dos juros remuneratórios a ensejar limitação da respectiva taxa à taxa de mercado, mediante análise pontual do caso concreto e em observância à Jurisprudência desta Corte. Confira-se o seguinte excerto do acórdão recorrido (fls. 461-462):
+JUROS REMUNERATÓRIOS
+O entendimento jurisprudencial do egrégio Superior Tribunal de Justiça está sedimentado no sentido de que somente se pode revisar os juros remuneratórios pactuados quando o índice contratado seja extremamente abusivo, assim entendido aquele que supera a denominada taxa média de mercado fornecida pelo BACEN em seu site.
+Os juros são limitados, então, em hipótese excepcional, qual seja, quando ultrapassada a taxa média de mercado. A decisão paradigma, RESP 1.061.530/RS, de relatoria da Ministra Nancy Andrighi, julgado em 22/10/2008, foi assim ementada:
+(..)
+E, em que pese não se desconheça a tese firmada pelo STJ, esta Câmara tem entendimento unânime no sentido de considerar abusivas as taxas que excedam as taxas médias de mercado. Estas taxas, divulgadas pelo BACEN, se afirma serem a "média" aplicada pelo mercado, porque já contemplam, tanto as mais elevadas, quanto as mais baixas, praticadas pelas instituições financeiras pesquisadas. No caso concreto, verifico abusividade nas taxas pactuadas em 3 cédulas crédito bancárias revisandas, vez que considerada a data da contratação, ocasião em que à taxa dos juros praticadas no mercado conforme tabelas divulgadas pelo BACEN (Pessoas físicas - Crédito pessoal consignado para aposentados e pensionistas do INSS - série 25468) para o período e relativa a contrato similar era inferior à taxa pactuada, conforme se demonstra na representação gráfica abaixo:
+(..)
+Portanto, impositiva a readequação das parcelas dos contratos nº 000000064721921, nº 000000319277406 e nº 49730508 às taxas supramencionadas. Entretanto, ausente abusividade no contrato de nº 000000168067072 resta mantida à taxa pactuada no momento da contratação. DESCARACTERIZAÇÃO DA MORA Os encargos abusivos que podem descaracterizar a mora são aqueles relativos ao chamado período da normalidade, ou seja, aqueles encargos que naturalmente incidem antes mesmo de configurado o inadimplemento de parcela do contrato, como exemplo dos juros remuneratórios. Assim, em consonância com a orientação definida na decisão paradigma, RESP 1.061.530/RS, de relatoria da Ministra Nancy Andrighi, julgado em 22/10/08, a jurisprudência consolidada na 2ª Seção quanto ao tema é a seguinte:
+(..)
+No caso, verificada a abusividade com relação aos encargos da normalidade dos contratos nº 000000064721921, nº 000000319277406 e nº 49730508 resta descaracterizada a mora.
+Assim, rever tal entendimento , a eventualmente ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria  o  reexame  do  contexto  fático-probatório  dos  autos  e  de  cláusulas  contratuais.  Sendo  assim,  incidem,  no  caso,  as  Súmulas  n.  5  e  7/STJ.
+Nesse sentido, mutatis mutandis, cito:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DAS SÚMULAS N.os 7 E 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal estadual, apreciando o conjunto probatório dos autos, concluiu que a taxa de juros cobrada é abusiva, considerando a significativa discrepância entre o índice estipulado e a taxa média de mercado. Alterar esse entendimento ensejaria reavaliação do instrumento contratual e revolvimento das provas dos autos, circunstâncias vedadas pelas Súmulas n.os 5 e 7 do STJ.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.529.789/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Outrossim, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 464). Publique-se. Intimem-se.
+EMENTA
+CIVIL.  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE VERIFICADA. DESCARACTERIZAÇÃO DA MORA. PROCEDÊNCIA  PRETENSÃO  DE  REEXAME  DE  PROVAS  E  DE  CLÁUSULAS  CONTRATUAIS.  SÚMULAS N.  5  E  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.  RECURSO  ESPECIAL  NÃO CONHECIDO.
