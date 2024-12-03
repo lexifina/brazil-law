@@ -1,0 +1,22 @@
+DECISÃO
+LELIO PAULO BRIGAGAO DO COUTO e OUTROS opõem embargos de declaração à decisão de fls. 525-530, que conheceu do recurso especial e deu-lhe provimento para manter a decisão que reconhecera a incompetência da Justiça comum no presente caso.
+No bojo dos embargos de declaração (fls. 533-537), a parte embargante alega contradição na decisão monocrática e pede sua reforma com base nos seguintes argumentos principais:
+a) não se aplica ao caso o Tema 1.166 do STF, utilizado na decisão recorrida, pois trata dos reflexos nas contribuições para entidades de previdência privada decorrentes de reclamações trabalhistas, o que não é o objeto da presente lide;
+b) o caso deve ser julgado com base no Tema n. 190 do STF, conforme já determinado pelo Ministro Luiz Fux na Reclamação n. 39.527/SP, pois a competência para julgar ações que visam ao reconhecimento do direito à complementação de aposentadoria é da Justiça comum, dada a autonomia do direito previdenciário em relação ao direito trabalhista;
+c) a decisão do Ministro Luiz Fux na Reclamação n. 39.527/SP reconheceu a competência da Justiça comum para julgar lides que versem sobre o direito previsto na Circular n. 966/1947, reforçando que o caso em questão deve seguir essa orientação;
+d) o recurso menciona o parecer do Procurador-Geral da República, que opinou pela procedência da Reclamação n. 39.527/SP, reforçando a competência da Justiça comum para ações de complementação de aposentadoria;
+e) há distinção entre os Temas n. 1.166 e 190 do STF: aquele se aplica a casos em que já existe o direito à complementação de aposentadoria e se pleiteia o reflexo de verbas trabalhistas; este se aplica a casos em que se busca o reconhecimento inicial do direito à complementação de aposentadoria.
+Requer ao final o acolhimento dos presentes embargos a fim de que seja sanada "a Contradição tendo em vista que não se pleiteia o direito aos reflexos de verbas trabalhistas em sua complementação de aposentadoria, mas sim o direito a Complementação de Aposentadoria previsto na Circular 966/47" (fl. 537).
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Inexiste omissão ou contradição decisão de fls. 525-530, que conheceu do recurso especial e deu-lhe provimento para manter a decisão que reconhecera a incompetência da Justiça comum no presente caso.
+No que se refere à aplicação do Tema n. 1.166 do STF, os embargantes argumentam que não se aplicaria ao caso, porque a lide trata do reconhecimento inicial do direito à complementação de aposentadoria, e não de reflexos de verbas trabalhistas.
+Contudo, conforme decidido na decisão embargada, o entendimento da Segunda Seção do Superior Tribunal de Justiça é que os reflexos previdenciários, mesmo os que devem ser considerados para o complemento de aposentadoria, quando decorrentes das verbas trabalhistas pleiteadas contra o patrocinador, devem ser julgados pela Justiça do Trabalho.
+Quanto ao Tema n. 190 do STF, a parte embargante alega que estabelece a competência da Justiça comum para julgar ações de complementação de aposentadoria, de modo que deve ser aplicado ao caso, bem como que a decisão do Ministro Luiz Fux reconheceu a competência da Justiça comum para casos semelhantes, com base nesse tema.
+Contudo, conforme se observa da decisão monocrática, a incompetência da Justiça comum para julgar a demanda é baseada na jurisprudência da Segunda Seção do STJ e no Tema 1.166 do STF.
+Assim, ao contrário do que afirma a parte embargante, não há vício no decisum embargado e os argumentos trazidos no bojo do referido recurso denotam o intuito de rediscutir o mérito do julgado, e não o de sanar omissão, contradição ou obscuridade.
+Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022 .
+Inexiste, pois, irregularidade sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
