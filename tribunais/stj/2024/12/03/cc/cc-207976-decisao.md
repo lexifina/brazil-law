@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de conflito positivo de competência tendo como suscitante o BANCO CRUZEIRO DO SUL S.A. - MASSA FALIDA e suscitados, o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP e o TRIBUNAL REGIONAL DO TRABALHO DA 14ª REGIÃO.
+O suscitante afirma que em 12/08/2015 foi decretada sua falência nos autos n. 1071548-40.2015.8.26.0100, em trâmite no Juízo paulista.
+Ressaltou que, em novembro de 2007, firmou convênio com o TRT da 14ª Região para conceder "empréstimos pessoais e financiamentos, com desconto diretamente nas folhas de pagamentos" (e-STJ fl. 12) dos respectivos servidores.
+Ocorre que o referido Tribunal, segundo a inicial, "a partir de 29 de novembro de 2012, deixou de efetuar os devidos repasses, em afronta ao que restou entabulado" (e-STJ fl. 12).
+Asseverou que, após anos de impasses, o Juízo falimentar determinou a "reimplantação dos contratos inadimplentes para os servidores vinculados ao Tribunal Regional do Trabalho da 14ª Região, que tivessem margem disponível e estivessem ativos no convênio até o limite das parcelas contratadas" (e-STJ fl. 12).
+Acrescenta que "o TRT 14 entendeu por suspender a ordem emanada pelo juízo falimentar e determinou a exclusão imediata de todas as previsões de descontos salariais em desfavor dos servidores que figuram como impetrantes no mandado de segurança nº 0001946-55.2024.5.14.0000, quais sejam, JOSE MANOEL RODRIGUES MATOS" (e-STJ fl. 12). Circunstância que afrontou a competência do Juízo universal.
+Argumenta que o Juízo da falência é o único competente para decidir sobre aspectos referentes à arrecadação de ativos da massa.
+Liminarmente, requer a "suspensão do processo, designando um dos juízes para resolver, provisoriamente, eventuais medidas urgentes, conforme preceituam os arts. 955, do CPC e 196, do RISTJ" (e-STJ fl. 18). No mérito, pede que seja firmada a competência exclusiva do Juízo universal da falência.
+Justiça gratuita concedida à fl. 174 (e-STJ).
+Liminar indeferida (e-STJ fls. 181/183).
+Informações prestadas (e-STJ fls. 188/198 e 199/201)
+O Ministério Público Federal manifestou-se nos seguintes termos (e-STJ fl. 204):
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. FALÊNCIA. CONVÊNIO FIRMADO PELA INSTITUIÇÃO FALIDA COM O TRT14 PARA CONCEDER EMPRÉSTIMOS PESSOAIS E FINANCIAMENTOS, COM DESCONTO DIRETAMENTE NAS FOLHAS DE PAGAMENTOS. CONVÊNIO INATIVO. QUESTÃO SUBJUDICE. DETERMINAÇÃO DO JUÍZO DA RECUPERAÇÃO DE REIMPLANTAÇÃO DOS CONTRATOS INADIMPLENTES. SEGURANÇA CONCEDIDA EM MANDAMUS PARA OBSTAR REFERIDO DESCONTO. ATO QUE AFETA O PATRIMÔNIO DA MASSA FALIDA. INVASÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR.
+- Parecer pelo conhecimento do conflito para declarar a competência do JUÍZO DE DIREITO DA 2A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP.
+É o relatório.
+Decido.
+No conflito de competência n. 192.246/SP, suscitado pelo BANCO CRUZEIRO DO SUL S.A. - FALIDO - MASSA FALIDA, foi analisada a existência de conflito entre o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP, que determinou desconto nos contracheques dos servidores da Justiça do Trabalho, e o TRIBUNAL REGIONAL DO TRABALHO DA 14ª REGIÃO que, nos autos do mandado de segurança n. 0000356-14.2022.5.14.0000, suspendeu os consignados.
+O SINDICATO DOS SERVIDORES DA JUSTIÇA DO TRABALHO DOS ESTADOS DE RONDONIA E ACRE - SINSJUSTRA, "atuando como substituto processual da categoria dos servidores da Justiça do Trabalho de Rondônia e Acre", impetrou tal mandado de segurança (0000356-14.2022.5.14.0000) contra ato do TRIBUNAL REGIONAL DO TRABALHO DA 14ª REGIÃO que, nos autos do PROAD n. 8750/2020, cumpria a determinação do Juízo da falência de reimplantação dos descontos.
+No referido mandamus, o sindicat o requereu a suspensão da decisão do Presidente do TRT da 14ª Região, sustentando violação dos princípios da administração pública, falta de prévia ciência dos servidores, inexistência de convênio válido e inobservância do limite para realizar consignados.
+O mandado de segurança foi julgado, entendendo a Justiça do Trabalho que o ato haveria extrapolado os limites do comando judicial do JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP, visto que não foram observados os requisitos referentes à existência de convênio e de margem consignável.
+Suscitado o Conflito de Competência n. 192.246/SP, este Relator decidiu monocraticamente que:
+ ..  está caracterizado o conflito de competência considerando que as duas decisões incidem sobre o mesmo objeto, ou seja, ambos reconhecem sua competência para julgar a mesma controvérsia.
+Importa ressaltar que, no incidente de conflito, apenas se declara o juízo competente para decidir sobre a reimplantação dos contratos. A finalidade é estabelecer qual dos suscitados é competente para essa análise. Nessa linha, oportuno citar o seguinte julgado:
+ ..
+No caso, suspender a reimplantação dos contratos atinge diretamente os ativos da massa falida, ato que compete apenas ao juízo universal nos termos do art. 76 da Lei n. 11.101/2005:
+ ..
+Ressalte-se que a jurisprudência desta Corte Superior entende que, ainda que a demanda não esteja submetida ao juízo falimentar, os atos que afetem o patrimônio da falida devem ser realizados pelo juízo universal.
+ ..
+Portanto eventual contraposição à ordem do Juízo falimentar - sobre a reimplantação dos contratos - é de competência exclusiva do referido juízo, cabendo, a partir de sua manifestação, os recursos cabíveis.
+Diante do exposto, CONHEÇO do conflito positivo de competência, a fim de DECLARAR COMPETENTE o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP para decidir acerca da suspensão da reimplantação dos contratos, determinada no Mandado de Segurança n. 0000356-14.2022.5.14.0000.
+Portanto, ficou reconhecida a competência do JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP para decidir a respeito da suspensão da reimplantação dos contratos, objeto do Mandado de Segurança n. 0000356-14.2022.5.14.0000.
+Destaco que não houve recurso contra a referida decisão monocrática, proferida no CC n. 192.246/SP.
+Os presentes autos, por sua vez, tratam do Mandado de Segurança n. 001946-55.2024.5.14.0000 impetrado por JOSÉ MANOEL RODRIGUES MATOS, servidor da Justiça do Trabalho de Rondônia/Acre. Na lide, discute-se o ato do TRT da 14ª Região que, no PROAD n. 8750/2020 (cf. e-STJ fl. 51), estabeleceu a implantação dos descontos. Tal ato administrativo também foi impugnado no mandado se segurança impetrado pelo sindicat o (0000356-14.2022.5.14.0000).
+O que se observa, portanto, é que o mandado de segurança n. 0000356-14.2022.5.14.0000, impetrado pelo sindicato, e o mandado de segurança n. 001946-55.2024.5.14.0000, impetrado individualmente pelo servidor representado pelo mesmo sindicato, possuem a mesma pretensão, contendo o mesmo pedido e causa de pedir.
+Portanto, tratando os referidos mandados de segurança do mesmo pedido e causa de pedir, bem como tendo a questão da competência sido decidida no CC n . 192.246/SP, deve-se adotar a mesma conclusão, reconhecendo-se a competência do Juízo da falência.
+Diante do exposto, CONHEÇO do conflito positivo de competência, a fim de DECLARAR COMPETENTE o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP para decidir acerca da suspensão da reimplantação dos contratos, determinada no Mandado de Segurança n. 001946-55.2024.5.14.0000.
+Publique-se e intimem-se.
+EMENTA
