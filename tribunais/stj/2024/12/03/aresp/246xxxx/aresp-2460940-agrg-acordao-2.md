@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE PREQUESTIONAMENTO. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA DEMONSTRADAS. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. MINORANTE. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As teses de ausência de materialidade, da incidência da atenuante da menoridade e da detração, não foram prequestionadas, pois essas matérias não foram debatidas no acórdão recorrido, tampouco foram opostos embargos de declaração para sanar eventual omissão quanto à análise dos temas.
+2. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime do art. 33, caput, da Lei n. 11.343/2006.
+3. Mostra-se inviável a absolvição do réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente, tal como ocorreu no caso.
+4. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+5. No caso, o animus associativo e a estabilidade do vínculo estão amplamente demonstrados, de maneira que, para entender de forma diversa, seria necessário o reexame de fatos e provas produzidos nos autos, providência vedada no recurso especial, consoante a Súmula n. 7 do STJ.
+6. O Juízo sentenciante, atado à discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Tratando-se de crime previsto na Lei de Drogas, deve considerar, ainda, de forma preponderante, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+7. Nos autos em exame, considerando a quantidade da substância apreendida, que constitui elemento preponderante a ser considerado na dosimetria da reprimenda, mostra-se suficiente o aumento na pena-base realizado na origem.
+8. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+9. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DONATO MEIRA DE OLIVEIRA agrava da decisão de fls. 4.441-4.446, em que conheci do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento e, por conseguinte, mantive a reprimenda de 16 anos de reclusão mais multa, no regime inicial fechado, pelos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+A defesa reitera as razões recursais em que pleiteia a absolvição por ausência de provas e, quanto ao crime de associação para o tráfico, em virtude da ausência de prova da estabilidade e permanência do grupo.
+Afirma, ainda, que, caso não absolvido o réu, deve ser reduzida a pena-base, reconhecida a menoridade, aplicado o privilégio, abrandado o regime e substituída a pena privativa de liberdade por restritivas de direitos.
+Requer, portanto, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE PREQUESTIONAMENTO. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA DEMONSTRADAS. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. MINORANTE. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As teses de ausência de materialidade, da incidência da atenuante da menoridade e da detração, não foram prequestionadas, pois essas matérias não foram debatidas no acórdão recorrido, tampouco foram opostos embargos de declaração para sanar eventual omissão quanto à análise dos temas.
+2. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime do art. 33, caput, da Lei n. 11.343/2006.
+3. Mostra-se inviável a absolvição do réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente, tal como ocorreu no caso.
+4. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+5. No caso, o animus associativo e a estabilidade do vínculo estão amplamente demonstrados, de maneira que, para entender de forma diversa, seria necessário o reexame de fatos e provas produzidos nos autos, providência vedada no recurso especial, consoante a Súmula n. 7 do STJ.
+6. O Juízo sentenciante, atado à discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Tratando-se de crime previsto na Lei de Drogas, deve considerar, ainda, de forma preponderante, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+7. Nos autos em exame, considerando a quantidade da substância apreendida, que constitui elemento preponderante a ser considerado na dosimetria da reprimenda, mostra-se suficiente o aumento na pena-base realizado na origem.
+8. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+9. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+I. Ausência de prequestionamento
+As teses de ausência de materialidade, da incidência da atenuante da menoridade e da detração, não foram prequestionadas, pois essas matérias não foram debatidas no acórdão recorrido, tampouco foram opostos embargos de declaração para sanar eventual omissão quanto à análise dos temas. Esse contexto atrai a aplicação, por analogia, das Súmulas n. 282 e 356 do STF, respectivamente:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Além disso, como mencionei no ato agravado, é assente na jurisprudência pátria que a via especial não é cabível para análise de violação a dispositivo constitucional, o que impede o conhecimento do recurso quanto à apontada afronta ao art. 5º, XI, da Constituição Federal.
+II. Absolvição - impossibilidade
+Conforme expliquei na decisão embargada, o Tribunal de origem manteve as condenações do réu pelos seguintes fundamentos (fls. 3.225-3.240):
+ ..  os acusados DONATO, LENON e NERIC formavam uma sociedade para adquirir drogas em conjunto para posterior revenda diretamente a usuários.
+ ..
+Os acusados NERIC e LENON tiveram as linhas telefônicas efetivamente interceptadas a partir de 3 de maio de 2019, respectivamente, (14) 99906-4889 e (14) 99808-0064, em virtude dos diálogos criminosos que mantiveram com o corréu DONATO, oportunidade em que restou demonstrada a efetiva participação deles no tráfico de drogas.
+ ..
+Ainda restou apurado que os corréus DONATO e JOÃO VICTOR se associaram para negociar a aquisição de drogas do corréu LEONARDO, traficante na região da cidade de Pompéia/SP, para posterior revenda em Tupã/SP. A transação foi interceptada em trocas de mensagens e diálogos.
+ ..
+Desta feita, a apreensão da adolescente L.C.P. na posse de considerável quantidade de cocaína, crack e maconha, comprova a intensa atividade ilícita levada a efeito por NERIC, LENON, WAISLEN, DONATO, JÚLIO CÉSAR e CRISTIANE ARIADNE.
+ ..
+E a forma em que estavam acondicionadas, bem como a quantidade e variedade apreendida, junto com petrecho comumente utilizado para o preparo, como embalagens e balanças de precisão, não deixa dúvida pertencerem aos sentenciados e serem destinadas ao comércio ilícito; sem lastro, portanto, a tese relativa à posse dos entorpecentes para uso pessoal.
+ ..
+E bem delineado nos autos o grau de organização dos sentenciados, comprovado entre eles o vínculo estável e dedicado à prática delitiva habitual, mormente diante dos diálogos representativos da dinâmica das operações.
+Reitero, uma vez mais, que pelo trecho transcrito e, sobretudo, pela leitura atenta do acórdão recorrido, verifico haverem concluído as instâncias ordinárias, após minuciosa análise do conjunto fático-probatório, pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+Relembro, por oportuno, que a jurisprudência deste Superior Tribunal é firme ao asseverar que os depoimentos dos policiais responsáveis pelo flagrante constituem meio idôneo de prova para motivar o édito condenatório, principalmente quando colhidos no âmbito do devido processo legal, sob o pálio do contraditório e corroborados pelos demais elementos de prova.
+Além disso, no delito do art. 35 da Lei 11.343/20069, a expressão empregada pelo legislador se refere à associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas.
+Nesse sentido, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é imprescindível que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos, constantes dos autos, que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo.
+Por fim, qualquer outra solução que não a adotada pelas instâncias de origem implicaria o revolvimento de fatos e provas produzidos nos autos, providência vedada no recurso especial, consoante a Súmula n. 7 do STJ.
+III. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso, a instância de origem majorou a pena-base do acusado, por considerar a quantidade e a natureza das drogas apreendidas - 1,3 kg de cocaína, crack e maconha - "o que extrapola a margem de risco tutelado pela norma penal" (fl. 3.241).
+Assim, conforme esclareci na decisão agravada, por se tratar a dosimetria da pena de matéria restrita ao âmbito de certa discricionariedade do magistrado, deve ser mantida a pena-base aplicada ao réu, sobretudo porque não constato o apontado constrangimento ilegal.
+Considero que o total de drogas encontradas é, de fato, de maior importância e destoa da mera apreensão de entorpecentes ínsita ao delito, especialmente diante de seu potencial de difusão e suporte ao comércio ilícito.
+Assim, uma vez que foram apontados argumentos idôneos para a fixação da pena-base acima do mínimo legal - em consonância com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+IV. Minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Porque mantida a condenação da agravante pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+A Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Exemplificativamente:
+ ..
+3. A condenação pelo crime de associação para o tráfico, por si só, já tem o condão de inviabilizar a aplicação do redutor previsto no art. 33, § 4º, da Lei Antidrogas, pois essa circunstância impede que o agente preencha os requisitos legais para a aplicação da minorante (AgRg no HC 338.964/MG, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 6/ 6/2016).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 854.242/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+V. Regime e substituição
+Em razão do insucesso das teses defensivas que poderiam levar à redução da reprimenda, fica mantida a negativa de substituição da pena privativa de liberdade por restritivas de direitos, bem como inalterado o regime fechado, nos termos dos arts. 33, § 2º, "a", e 44, I, ambos do CP.
+VI. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
