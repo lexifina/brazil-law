@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se d e agravo em recurso especial interposto pelo CONSELHO REGIONAL DE ECONOMIA 4ª REGIÃO - CORECON/RS contra a decisão que inadmitiu recurso especial apresentado com fundamento no art. 105, inciso III, alínea a, da Constituição da República, em face do acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, na Apelação n. 1018680-87.2022.8.26.0602, assim ementado (fls. 281-288):
+ADMINISTRATIVO. APELAÇÃO. CONSELHO PROFISSIONAL. PEDIDO DE CANCELAMENTO DE REGISTRO. CONSULTORIA EM GESTÃO EMPRESARIAL. INEXIGIBILIDADE DE INSCRIÇÃO.
+1. O direito de se desligar dos conselhos de fiscalização profissional é livre, bastando a manifestação de vontade do inscrito, não podendo ser condicionado nem à prova do não-exercício da profissão, nem ao pagamento de anuidades, sob pena de afronta ao art. 5º, XX, da CF.
+2. Na hipótese, a empresa desenvolve atividades de consultoria em gestão empresarial, exceto consultoria técnica específica, o que não demanda a inscrição da pessoa jurídica perante o Conselho Regional de Economia.
+3. Apelação improvida.
+Nas razões do recurso especial, a parte recorrente alega violação do art. 1º da Lei Federal n. 6.839/80, sob o argumento de que a agravada possui o dever de registrar sua empresa junto ao conselho profissional, em razão da natureza dos serviços prestados a terceiros (fls. 294-313).
+Na origem, foi inadmitido o recurso especial (fls. 323-325).
+Irresignada, a agravante interpôs agravo em recurso especial (fls. 332-356).
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Diante da suficiente impugnação do fundamento da decisão de inadmissibilidade, conheço do agravo e passo ao exame do apelo nobre, o qual, contudo, não merece conhecimento.
+Isto porque a corte de origem decidiu que o recorrido não está sujeito a registro no CORECON, visto que não desempenha atividades privativas de portadores de diploma na área de economia. Vejamos (fl. 283 - grifo nosso):
+Como se vê, o entendimento firmado no TRF4 é no sentido de que o direito de desligar-se dos Conselhos de Fiscalização Profissional é livre, bastando a manifestação de vontade do inscrito, não podendo ser condicionado nem à prova do não exercício da profissão, nem ao pagamento de anuidades.
+Ademais, o conselho não pode impor a inscrição quando as atividades desempenhadas pelo profissional não são privativas de portadores de diploma na área de economia. Confira-se o entendimento do TRF4:
+EMENTA: ADMINISTRATIVO E PROCESSUAL CIVIL. ADMINISTRATIVO E PROCESSUAL CIVIL. CONSELHO PROFISSIONAL. CONSELHO REGIONAL DE ECONOMIA. ATIVIDADE BÁSICA. REGISTRO. (DES)NECESSIDADE. - O critério legal para a obrigatoriedade de registro perante os conselhos profissionais é determinado pela atividade básica desenvolvida. - O Decreto 37.011/55, que regulamentou a lei que trata da profissão de economista (Lei 1.411/51), estabelece em seu artigo 3º as funções privativas deste profissional. - As atividades de caráter operacional na área de carteira de títulos não necessita registrar-se perante o Conselho Regional de Economia, pois suas funções não são privativas de portadores de diploma na área de Economia. (TRF4, AC 5006154- 73.2019.4.04.7100, QUARTA TURMA, Relatora VIVIAN JOSETE PANTALEÃO CAMINHA, juntado aos autos em 19/06/2020)
+No caso concreto, conforme consta no CNPJ, a atividade principal da parte autora é de "Atividades d e consultoria em gestão empresarial, exceto consultoria técnica específica" (evento 1, DOC5).
+Ainda, o contrato social da empresa estabelece como objeto social no art. 3º ( evento 1, DOC3):
+(a) a consultoria financeira, assessoria empresarial e orientação geral terceiros;
+(b) a prestação de serviços de cadastro, analise e avaliação de riscos;
+(c) atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários;
+(d) atividades de intermediação de fusões e aquisições;
+(e) participação do capital de outras sociedades e fundos, carteiras e outros veículos de investimento; e
+(f) assessoria na estruturação de operações de captação de recursos para financiamento de projetos e/ou capital de giro.
+A empresa que atua no ramo de gestão empresarial não está sujeita a registro no CORECON, conforme entendimento do Tribunal Regional Federal da 4ª Região:  ..
+Ademais, deve-se destacar que o próprio recorrente, em seu apelo nobre, faz referências às provas juntadas aos autos, como transcrição de trechos do endereço eletrônico da empresa recorrida, que corroborariam sua tese, restando evidente a sua pretensão de revolvimento do material probatório para adotar conclusão diversa daquela consignada pela Corte a quo.
+Dessa forma, verifica-se que os argumentos expostos no apelo nobre somente poderiam ser acolhidos mediante a investigação das atividades que seriam de fato exercidas pela empresa recorrida, a fim de atestar se elas são ou não privativas de profissionais graduados em economia, não cabendo a esta Corte Superior, nesta via, reavaliar o conjunto probatório dos autos, nos termos da Súmula n. 7 do STJ.
+Com igual conclusão (grifo nosso):
+ADMINISTRATIVO E PROCESSUAL CIVIL. CREA. REGISTRO. EMPRESA DE PEÇAS E ACESSÓRIOS PARA ELETRODOMÉSTICOS E PARA APARELHOS DE REFRIGERAÇÃO. ATIVIDADE BÁSICA. PRETENSÃO QUE ENCONTRA ÓBICE NA SÚMULA 7 DO STJ.
+1. Consoante a jurisprudência do STJ, a obrigatoriedade de inscrição no Conselho Profissional é determinada pela atividade básica ou pela natureza dos serviços prestados. União.
+2. Na hipótese dos autos, o Tribunal regional, com fulcro nos elementos de convicção, concluiu que "No presente caso, o objeto social da empresa é "comércio varejista de peças e acessórios para eletrodomésticos e para aparelhos de refrigeração e a prestação de serviços de reparo de eletrodomésticos e aparelhos de refrigeração" (evento 1, CONTRSOCIAL4). Ora, tais atividades não se enquadram nas hipóteses que descrevem atribuições privativas de engenheiro. " (fl. 218, e-STJ).
+3. A alteração do entendimento proferido na origem, tal como colocada a questão nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo conhecido para não conhecer do Recurso Especial. (AREsp n. 1.682.405/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe de 26/8/2020.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSELHO REGIONAL DE MEDICINA. SESC. REGISTRO. NÃO OBRIGATORIEDADE. NATUREZA DOS SERVIÇOS PRESTADOS. ENTIDADE ASSISTENCIAL. CONCLUSÃO DO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. AGRAVO INTERNO DO CONSELHO REGIONAL DE MEDICINA DO ESTADO DO ESPÍRITO SANTO - CRM/ES A QUE SE NEGA PROVIMENTO.
+1. Verifica-se que o Tribunal de origem se manifestou sobre todas as questões necessárias e relevantes ao deslinde da controvérsia, pelo que não há que se falar em omissão no acórdão recorrido. Realmente, percebe-se que houve a solução integral da lide, com fundamentação suficiente a embasar o resultado do julgamento. Logo, não há como acolher a tese de violação do art. 535, II do CPC/1973, diante da ausência de vícios de omissão, contradição ou obscuridade no julgado.
+2. A orientação desta Corte é a de que a obrigatoriedade de inscrição no Conselho Profissional está atrelada à atividade básica desempenhada pela Sociedade Empresária ou à natureza dos serviços prestados (AgRg no REsp. 1.196.474/RJ, Rel. Min. SÉRGIO KUKINA, DJe 27.4.2017; EDcl no AREsp. 559.318/SP, Rel. Min. HUMBERTO MARTINS, DJe 30.10.2014).
+3. O Tribunal de origem concluiu que a natureza dos serviços prestados pela parte ora agravante não se relaciona com a área de Medicina, sendo desnecessário o registro no respectivo Conselho. Rever tal entendimento significa adentrar no contexto fático-probatório dos autos, o que é vedado em Recurso Especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo Interno do CONSELHO REGIONAL DE MEDICINA DO ESTADO DO ESPÍRITO SANTO - CRM/ES a que se nega provimento. (AgInt no REsp n. 1.355.019/ES, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 19/3/2019, DJe de 28/3/2019.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 286), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONSELHO PROFISSIONAL. PEDIDO DE CANCELAMENTO DE REGISTRO. CONSULTORIA EM GESTÃO EMPRESARIAL. TRIBUNAL DE ORIGEM ENTENDEU PELA INEXIGIBILIDADE DE INSCRIÇÃO NO CORECON/RS. PRETENSÃO DE RECONHECIMENTO DA OBRIGATORIEDADE DE REGISTRO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
