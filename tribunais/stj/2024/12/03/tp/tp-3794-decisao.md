@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de tutela preventiva proposta por MALVILLE HOLDINGS S.A. e ANTÔNIO VERONEZI - ESPÓ LIO para evitar dano de difícil reparação no Recurso Especial n. 2.010.610/SP e no Agravo em Recurso Especial n. 2.645.404/SP.
+O Agravo em Recurso Especial n. 2.645.404/SP transitou em julgado em 20 de setembro de 2024.
+Por sua vez o Recurso Especial n. 2.010.610/SP teve reconhecida a perda superveniente de objeto, por falta de interesse de agir, uma vez que a ação principal foi julgada integralmente procedente como informaram os requerentes também nos presentes autos (fls. 1.592-1.614).
+Verifica-se, portanto, a ausência de interesse recursal.
+Nesse sentido, "a superveniência da sentença, proferida no feito principal, enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento" (AgInt no REsp n. 1.632.216/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2021).
+ADMINISTRATIVO E PROCESSUAL CIVIL. ANTECIPAÇÃO DE TUTELA. MATRÍCULA EM CRECHE. AGRAVO DE INSTRUMENTO. JULGAMENTO DO PROCESSO PRINCIPAL. PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO.
+1. A presente demanda originou-se de Agravo de Instrumento interposto contra decisão interlocutória que indeferiu a tutela de urgência que visava determinar que o Distrito Federal providenciasse vaga para o autor em creche pública próxima à sua residência (fls. 30-31, 60-61 e 96-103, e-STJ).
+2. Após consulta ao site do Tribunal de origem, verifica-se que a Ação Principal (Ação de Obrigação de Fazer c/c Antecipação de Tutela nº 2016 011013055-8, fls. 6 e 60, e-STJ) foi julgada procedente para condenar o Distrito Federal a matricular o autor em creche da rede pública de ensino, em período integral, próxima à sua residência.
+3. É entendimento assente no STJ que, proferida sentença no processo principal, perde o objeto o recurso de Agravo de Instrumento interposto contra decisão interlocutória.
+4. Assim, ocorreu a perda do objeto do Recurso Especial, em face do julgamento do processo principal. Nesse sentido: AgInt no AREsp 1.167.654/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 27.3.2018; AgInt nos EDcl no REsp 1.390.811/AM, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26.6.2017; REsp 1.383.406/ES, Rel. Ministro Og Fernandes, Segunda Turma, DJe 7.11.2017; AgRg no AREsp 555.711/PB, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 20.10.2016; e AgInt no AgInt no AREsp 774.844/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7.8.2018.  6. Recurso Especial prejudicado. (REsp n. 1.676.515/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 3/8/2021. Grifei.)
+Ante o exposto, julgo prejudicado o agravo interno, ante o trânsito em julgado do ARESP 2.645.404/SP e a extinção pela perda de objeto do RESP 2.010.610/SP.
+Publique-se. Intimem-se.
+EMENTA
