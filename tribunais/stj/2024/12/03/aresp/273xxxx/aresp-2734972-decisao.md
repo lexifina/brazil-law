@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por MARCHEZI & SANTOS LTDA - MICROEMPRESA em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+"EMENTA - AGRAVO DE INSTRUMENTO - PENHORA SOBRE O FATURAMENTO DE EMPRESA - MEDIDA EXCEPCIONAL - PERMITIDA QUANDO ESGOTADO OUTROS MEIOS A FIM DE OBTER O CRÉDITO DEVIDO E NÃO HOUVER PROVA DE PREJUÍZO PARA O DEVEDOR - REQUISITOS PREENCHIDOS - REDUÇÃO DO PERCENTUAL DA PENHORA DEVIDA - RECURSO CONHECIDO E PROVIDO EM PARTE.
+A penhora sobre o faturamento de uma empresa é forma de constrição permitida no Código de Processo Civil no item "X" do artigo 835 e seu aspecto de subsidiaridade é reforçado no artigo 866, ainda do CPC.
+Apesar de ser o décimo item na ordem de preferência de penhora, o Superior Tribunal de Justiça excepciona a regra e permite seja efetivada a penhora, mormente quando não há nenhuma demonstração de que os valores penhorados comprometem o desenvolvimento das atividades da empresa.
+Quanto ao percentual de 20% para fins de penhora, levando-se em consideração os comprovantes de despesas da agravante, deve ser reduzido para 10% sobre o faturamento ou receita mensal bruto, como forma de ajustar o impacto nas contas da executada, e ao mesmo tempo não deixar de atender ao direito da exequente em receber seu crédito " (e-STJ fls. 93)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 123/136)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 1.022 e 1.025 do CPC/2015, por não ter a Corte de origem analisado a tese de que que a constrição deveria recair sobre o faturamento líquido e não bruto e arts. 805 e 866 §1º, pois a execução deve prosseguir pelo rito menos gravoso, de modo que a constrição deve incidir sobre o faturamento líquido e não bruto.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Quanto à tese de que a execução deve prosseguir pelo rito menos gravoso, de modo que a constrição deve incidir sobre o faturamento líquido e não bruto, a Corte de origem consignou:
+"Já, no tocante à fixação de percentual da penhora sobre o faturamento da empresa, entendo que a redução é devida, contudo, não no percentual pretendido.
+Isso porque, como já afirmado, a medida de penhora sobre faturamento de empresa deve ser aplicada de modo a não inviabilizar a atividade empresarial da agravante e, no caso, o juízo a quo deferiu o pedido da parte exequente para que a penhora recaia sobre 20% sobre o faturamento ou receita mensal bruto da executada.
+Note-se que a penhora pretendida não corresponde à constrição de valores existentes em conta-corrente ou aplicação financeira de titularidade da empresa agravante, mas, em verdade, sobre seu faturamento (conforme registrado expressamente na decisão - f. 211 na origem).
+Portanto, levando-se em conta o entendimento já expresso, e considerando os comprovantes de despesa mensal da executada acostados a estes autos (f. 23/56), entendo que o percentual de 20% sobre o seu faturamento mensal bruto mostra-se desproporcional, a ponto de inviabilizar a continuidade de suas atividades, razão pela qual convém acolher em parte o pleito subsidiário da recorrente para reduzir a penhora, mas somente para o patamar de 10% do seu faturamento ou receita mensal bruto (e não 2% como havia pleiteado), até a satisfação do crédito - decisão que poderá ser revista após comprovação da saúde financeira da executada." (e-STJ fls. 101)
+Como visto, a Corte de origem consignou que, no caso concreto, o percentual de 10% sobre o faturamento ou receita mensal bruto da recorrente é o mais adequado para a satisfação do crédito.
+A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA N. 182 DO STJ. FUNDAMENTOS ALTERADOS. ORDEM DE PREFERÊNCIA LEGAL. BENS PENHORÁVEIS. MITIGAÇÃO. PENHORA SOBRE O FATURAMENTO. POSSIBILIDADE. REVISÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A ordem de preferência de penhora não é absoluta, podendo ser mitigada à luz das circunstâncias do caso concreto.
+2. É possível a penhora sobre o faturamento da empresa desde que preenchidos os requisitos legais e o percentual fixado não torne inviável o exercício da atividade empresarial.
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama o reexame de matéria fático-probatória dos autos.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.137.938/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICATAS. EXECUÇÃO. ART. 535, I E II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. PENHORA DE FATURAMENTO BRUTO DA EMPRESA. ONEROSIDADE EXCESSIVA. MATÉRIA QUE DEMANDA REEXAME. SÚMULA 7 DO STJ. ART. 535 DO CPC/1973. AUSÊNCIA DE OMISSÕES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535, I e II, do CPC/1973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. A reforma do aresto hostilizado, com a desconstituição de suas premissas como pretende o agravante, demandaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7/STJ) e impede o conhecimento do recurso por ambas alíneas.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 950.183/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/9/2016, DJe de 7/10/2016.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
