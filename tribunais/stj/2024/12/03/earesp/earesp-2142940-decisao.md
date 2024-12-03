@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Lac Engenharia Ltda. contra acórdão da Terceira Turma desta Corte Superior, assim ementado (fl. 736):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+3. Agravo interno não provido.
+O acórdão impugnado sofreu a oposição de embargos de declaração, que foram rejeitados às fls. 768-771.
+O embargante sustenta dissídio jurisprudencial a respeito da interpretação da Súmula 182/STJ quanto à necessidade de se impugnar todos os fundamentos em agravo interno. Segundo o embargante (fl. 784):
+ ..  conforme se verifica do v. acórdão paradigma ora anexado, este Eg. Tribunal Superior entendeu, através de sua Corte Especial, que a exigência de que seja feita a impugnação específica a todos os fundamentos da decisão agravada se aplica tão somente quanto ao Agravo em Recurso Especial, não sendo cabível esta exigência em relação ao Agravo Interno, o qual deve ser processado e analisado individualmente.
+Assim, compreende que não era necessário a impugnação a todos os fundamentos em sede de agravo interno, pois faculta-se ao recorrente a impugnação dos capítulos autônomos que entender necessário. Apresenta como paradigma o acórdão proferido no AgInt no EREsp n. 1.424.404/SP, julgado na Corte Especial em 4 de março de 2020.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Feito esse registro, constata-se que o recurso de divergência não deve ser admitido.
+Na espécie, não se verifica a existência da indispensável similitude fática e jurídica entre os acórdãos confrontados.
+É dizer, enquanto o acórdão paradigma compreendeu pela não aplicação da Súmula 182/STJ quando, em sede de agravo interno, o agravante opta pela impugnação parcial da decisão agravada, o acórdão embargado de divergência não tratou da aplicação da Súmula 182/STJ, tampouco afastou a suposta impugnação parcial da decisão que não conheceu do agravo em recurso especial.
+No caso dos autos, o acórdão embargado apenas manteve a decisão agravada que assentou a compreensão segundo a qual não foram impugnados os fundamentos da decisão da Corte de origem que inadmitiu o apelo especial. São situações distintas, que não se põem em confronto.
+Não há, portanto, similitude fático-jurídica entre as hipóteses apresentadas a cotejo diante da premissas inequivocamente distintas.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. DIREITO DE IMAGEM. JOGOS ELETRÔNICOS. PRESCRIÇÃO. ÔNUS DA PROVA DO TERMO INICIAL. SIMILITUDE FÁTICA E JURÍDICA. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO NÃO PROVIDO.
+1. A princípio, os autos não devem ficar suspensos em razão do REsp n. 2.064.073/PR. Em decisão recente, o Presidente da Comissão Gestora de Precedentes e de Ações Coletivas, e. Min. Rogério Schietti Cruz, declarou em 15 de fevereiro de 2024 que: "Em análise pormenorizada dos autos e das alegações das partes, entendo que esse recurso especial não reúne os pressupostos para sua afetação sob o rito dos repetitivos."
+2. No presente agravo, o recorrente sustenta ter demonstrado adequadamente a divergência jurisprudencial suscitada. Afirma que o acórdão da Quarta Turma do STJ divergiu da Segunda Turma do STJ quanto ao ônus da prova. Suscita que é irrelevante a natureza jurídica das partes litigantes para a admissão do recurso e para sanar a divergência.
+3. Conforme indicado na impugnação ao agravo interno, "sem dúvida, o contexto fático em que prolatado o v. acórdão paradigma discrepa totalmente do existente na presente demanda, na qual se discute a incidência da prescrição quanto à pretensão reparatória de jogador de futebol por suposta violação a direito a imagem apresentada em jogo eletrônico."
+4. A controvérsia dos autos é entre particulares em nítida relação jurídica privada envolvendo direito de imagem. O paradigma da Segunda Turma envolve questão consequente da relação entre servidores públicos e a Administração Pública. O regime jurídico do paradigma é bastante distinto das normas e princípios que ora regem a matéria sob exame.
+5. Os arestos confrontados não apresentam similitude fática, pois partem de premissas distintas para a solução dos casos. Assim, ausente a indispensável similitude fática entre os arestos comparados, é firme a jurisprudência da Corte Especial deste Superior Tribunal de Justiça no sentido de que que não podem ser conhecidos os embargos de divergência.
+6. Agravo interno não provido. (AgInt nos EREsp n. 1.861.295/SP, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 10/6/2024, DJe de 18/6/2024 - grifo nosso.)
+Ante o exposto, indefiro liminarmente os embargos de divergência (art. 266-C do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. RECURSO INDEFERIDO LIMINARMENTE.
