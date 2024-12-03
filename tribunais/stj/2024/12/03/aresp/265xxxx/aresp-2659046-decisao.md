@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por SILVIO MARQUES DOS SANTOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 508320-71.2022.8.26.0073 (fls. 259/263), com a seguinte ementa:
+APELAÇÃO CRIMINAL - Furto - Sentença condenatória - Ausência de insurgência das partes quanto ao mérito, o que torna despicienda a apreciação da matéria - Defesa postula a fixação de regime menos gravoso - Descabimento - Regime inicial fechado adequado e compatível com as peculiaridades do caso e com a reincidência do acusado - Condenação mantida - Penas e regime prisional bem dosados e adequados - RECURSO DEFENSIVO NÃO PROVIDO.
+No recurso especial, a defesa requereu, em síntese, a reforma do acórdão para fixação do regime inicial aberto ou semiaberto para cumprimento da pena imposta (fls. 270/275).
+Inadmitido o recurso na origem (fls. 287/289), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 295/301).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 323/325) em parecer com a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO. RECURSO ESPECIAL. SÚMULAS 7/STJ E 283/STF. AGRAVO. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. ART. 932, III, DO CPC. SÚMULA 182/STJ.
+1. Inobstante a decisão agravada tenha indicado que o recurso especial não se desincumbiu de atacar todos os fundamentos da decisão recorrida (Súmula 283/STF), não logrou o agravante atacar referido fundamento, tendo se limitado a aduzir que prescindível a análise de provas para o provimento da insurgência.
+2. "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n. 182 do STJ" (AgRg no AR Esp n. 2.102.665/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023).
+3. Parecer pelo não conhecimento do agravo.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que não prospera a tese apresentada pelo agravante.
+No que se refere ao abrandamento do cárcere, embora a reprimenda privativa de liberdade tenha sido estabelecida em patamar igual ou inferior a 4 anos de reclusão, o agravante é reincidente e a pena-base foi fixada acima do mínimo legal.
+Dessa forma, revela-se idônea a estipulação do regime inicial fechado.
+Nesse sentido, colaciono julgados de ambas as Turmas que compõem a Terceira Seção:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE. FUNDAMENTAÇÃO INIDÔNEA CONDUTA SOCIAL. MOTIVAÇÃO ADEQUADA PARA INCREMENTO DA REPRIMENDA. CIRCUNSTÂNCIAS DO CRIME. MAIOR GRAVIDADE DA CONDUTA EVIDENCIADA. MAUS ANTECEDENTES CONFIGURADOS. CONFISSÃO ESPONTÂNEA INFORMAL. MANIFESTAÇÃO NÃO UTILIZADA PARA EMBASAR A CONDENAÇÃO. IMPOSSIBILIDADE DE INCIDÊNCIA DA ATENUANTE. REGIME PRISIONAL FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA INFERIOR A 4 ANOS DE RECLUSÃO. INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL. REINCIDÊNCIA. SÚMULA 269/STJ. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. Estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Código Penal, é possível a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+11. Em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstâncias judiciais desfavoráveis, não há falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do Estatuto Repressor. Inteligência, a contrario sensu, da Súmula 269/STJ.
+12. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda do paciente para 3 anos e 8 meses de reclusão, mais 17 dias-multa, mantido o regime prisional fechado para o início do cumprimento da reprimenda.
+(HC n. 453.042/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/8/2018 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. EXASPERAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. DECISÃO FUNDAMENTADA. MANUTENÇÃO DO REGIME FECHADO. RÉU REINCIDENTE COM A PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. INAPLICABILIDADE DA SÚMULA N. 269 DO STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta à certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. Na espécie, está correto o aumento da pena-base diante dos maus antecedentes do sentenciado, pois existem condenações definitivas, anteriores à data do fato em análise, diferentes da condenação utilizada na segunda etapa do cálculo da sanção para a configuração da reincidência.
+3. Não se observa a existência de constrangimento ilegal na manutenção do regime fechado para o início do cumprimento da sanção aplicada, pois, embora a pena imposta ao paciente seja inferior a 4 (quatro) anos de reclusão, sua condição de reincidente, somada à análise desfavorável das circunstâncias judiciais, impede a aplicação do disposto na Súmula n. 269 desta Corte. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 335.819/MS, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 5/4/2018 - grifo nosso).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO. VIOLAÇÃO DO ART. 33, § 2º, B, DO CP. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. PENA IGUAL OU INFERIOR A 4 ANOS DE RECLUSÃO. AGRAVANTE DA REINCIDÊNCIA E CIRCUNSTÂNCIA JUDICIAL NEGATIVA. PENA-BASE ESTIPULADA ACIMA DO MÍNIMO LEGAL. MANUTENÇÃO DO CÁRCERE FECHADO. INAPLICABILIDADE DA SÚMULA 269/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
