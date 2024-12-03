@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, ante a incidência da Súmula n. 83 do STJ (e-STJ fls. 186/189).
+O acórdão recorrido está assim ementado (e-STJ fl. 137):
+"AÇÃO MONITÓRIA". PROTESTO DE DUPLICATA PRESCRITA. NÃO CABIMENTO. INTERRUPÇÃO DA PRESCRIÇÃO. NÃO OCORRÊNCIA. PRAZO DE CINCO ANOS PARA AJUIZAMENTO DA MONITÓRIA A CONTAR DO VENCIMENTO. ARTIGO 206, §5º, I DO CC. APLICAÇÃO. IMPUGNAÇÃO DO DÉBITO EM JUÍZO. INÉRCIA DO CREDOR. NÃO CONFIGURADA. REINÍCIO DO PRAZO PRESCRICIONAL APÓS O TRÂNSITO EM JULGADO. NÃO OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO MONITÓRIA. TEORIA DA CAUSA MADURA. INSURGÊNCIA COM RELAÇÃO AO VALOR DO DÉBITO INDICADO NA INICIAL. INCIDÊNCIA DE CORREÇÃO E JUROS DE MORA A PARTIR DA CITAÇÃO. IMPOSSIBILIDADE. APLICAÇÃO DE CORREÇÃO E JUROS A PARTIR DO VENCIMENTO DA OBRIGAÇÃO. RECURSO PROVIDO.
+A propositura de demanda judicial pelo devedor, seja anulatória, seja de sustação de protesto, que importe em impugnação do débito contratual ou de cártula representativa do direito do credor, é causa interruptiva da prescrição (..). Tratando-se de causa interruptiva judicial, a contagem do prazo prescricional reinicia após o último ato do processo, ou seja, o trânsito em julgado". Logo, considerando que a ação declaratória foi ajuizada antes do transcurso do prazo prescricional quinquenal, advindo o trânsito em julgado em 22.10.2018, não está prescrita a pretensão da ação monitória ajuizada em 2020.
+No recurso especial (e-STJ fls. 151/160), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta negativa de vigência aos arts. 202, III, e 206, § 5º, I, do CC/2002, alegando que (e-STJ fls. 155/156):
+14. A controvérsia recursal versa a respeito do prazo prescricional aplicável à ação monitória fundada na cobrança de duplicatas prescritas que foram protestadas: se o prazo prescricional, na égide do Código Civil de 2002, deve ser calculado a partir da data da lavratura do protesto ou se da data em que foi concluído o julgamento de ação proposta para cancelamento do ato de protesto.
+15. Ao entendimento do acórdão recorrido, a prescrição não deve ser contada a partir da data em que se protestou o título de crédito (1º de abril de 2009), porquanto o ato de protesto foi cancelado mediante sentença proferida em 14 de setembro de 2018.A sentença que desconstituiu o protesto teria eficácia retroativa.
+16. Esse entendimento é equivocado, uma vez que, inegavelmente, o ato de protesto surtiu os efeitos jurídicos que dele são decorrentes entre abril de 2009 e setembro de 2018. Isso porque a liminar concernente à sustação do protesto foi indeferida, foi negada a liminar. Logo, o ato teve o condão de produzir todos os efeitos que são próprios do protesto, quer aqueles concernentes a restrições junto a banco de dados, quer o de interromper a prescrição.
+17. A sentença que determinou o cancelamento do registro de protesto não tem eficácia ex tunc. Antes, engedra efeitos ex nunc .
+Totalmente diversa seria a situação caso a sentença, por exemplo, confirmasse os efeitos de ordem liminar concernente à sustação do protesto. Nunca se sustou o protesto. Logo, ele teve, sim, o condão de interromper a prescrição, o que foi negado pelo acórdão recorrido.
+18. No caso dos autos, o termo inicial da interrupção da prescrição, em verdade, é a data do protesto, pois nos termos do art. 202, III do CC, o prazo que já tinha iniciado restou por ele interrompido.
+19. Logo, tendo o protesto ocorrido em 1º de abril de 2009, este é o marco inicial da prescrição, já tendo ocorrido a fluência na íntegra do prazo quinquenal insculpido no art. 206, § 5º, I do CPC quando do ajuizamento da demanda monitória, que ocorreu em 27 de maio de 2020.
+Afirma ainda que "o acórdão recorrido negou vigência ao artigo 202, caput, ao olvidar que a interrupção da prescrição sucede uma única vez, no regime jurídico atualmente vigente" (e-STJ fl. 158).
+No agravo (e-STJ fls. 192/200), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 225).
+É o relatório.
+Decido.
+A Corte estadual decidiu a matéria controvertida nos seguintes termos (e-STJ fls. 139 /143):
+Na presente hipótese, a duplicata cobrada nº 132/2005, vencida em 31.12.2005 (mov. 1.7, foi protestada em 01.04.2009 - conforme admitido já na petição inicial (mov. 1.1. p.01) - quando ultrapassado o prazo de execução de três anos do artigo 18, I da Lei nº 5474/1968.
+Na ação declaratória de inexistência de débito nº 0006706-32.2009.8.16.0173 ajuizada por Paróquia São José Operário em face de M2 Sistemas Ltda e A.M. Comércio de Materiais para Construção Ltda, foi reconhecido que o protesto realizado foi indevido, nos seguintes termos:
+(..)
+Logo, diante da irregularidade do protesto, não houve, consequentemente, a interrupção do prazo prescricional, nos termos do artigo 202, III, do Código Civil. Assim, sendo reconhecida a irregularidade do apontamento, não há que se falar em produção de efeitos jurídicos em prol do protestante. Nessa linha:
+(..)
+Logo, inexistiu a interrupção do prazo prescricional.
+Por outro lado, o prazo prescricional para ajuizamento da monitória é de cinco anos, nos termos do artigo 206, §5º, inciso I , do Código Civil, a contar do vencimento, conforme entendimento do e. Superior Tribunal de Justiça:
+(..)
+No caso, o vencimento da duplicata ocorreu em 31.12.2005, de modo que, quando do ajuizamento da ação monitória em 2020 ou ainda em 2019, se considerado que foi distribuída inicialmente no Juizado Especial, já havia transcorrido o prazo de cinco anos.
+Todavia, é incontroverso que a ação declaratória foi ajuizada pela ré Paróquia São José Operário em 06.04.2009, antes do transcurso do prazo quinquenal. A autora compareceu naqueles autos no mesmo ano, quando apresentou contrarrazões ao agravo de instrumento nº 583.057-5 (mov. 1.3, p. 27/35, dos autos nº 0006706-32.2009.8.16.0173). Assim, também antes do transcurso do prazo prescricional.
+O entendimento da Corte Superior é que há interrupção do prazo prescricional quando o devedor impugna o débito em juízo e o credor sustenta a regularidade. Entende-se, assim, que não há inércia do credor que apresenta defesa, de modo que o reinício do prazo prescricional deve ocorrer após o trânsito em julgado:
+(..)
+Logo, considerando que a ação declaratória foi ajuizada antes do transcurso do prazo prescricional quinquenal, advindo o trânsito em julgado em 22.10.2018 (mov. 125 daqueles autos), não está prescrita a pretensão da ação monitória ajuizada em 2020.
+Também, não há que se falar que a prescrição foi interrompida mais de uma vez, conforme sustentado pela ré, em ofensa ao art. 202, caput, do CC, porquanto, como demonstrado, isso não ocorreu.
+Diante da fundamentação, o recurso merece ser provido, para o fim de afastar o reconhecimento da prescrição da pretensão deduzida na inicial. (..)
+A parte recorrente sustenta que a prescrição para a propositura da ação monitória deve ser contada a partir da lavratura do protesto. Argumenta que, apesar de posteriormente cancelado na ação declaratória, o protesto produziu efeitos jurídicos, entre eles o de interromper a prescrição.
+No entanto, a alegação recursal não encontra respaldo na jurisprudência desta Corte, segunda a qual, "conforme disposto no art. 202, III, do Código Civil de 2002, o protesto cambial interrompe o prazo prescricional para ajuizamento de ação cambial de execução" (REsp n. 1.231.856/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/2/2016, DJe de 8/3/2016).
+Dessa forma, ainda que afastado o fundamento do acórdão recorrido de que o protesto não teria produzido efeitos por ter sido anulado na ação de declaratória de inexistência de débito, ele não seria apto a interromper a prescrição para o ajuizamento da ação monitória, mas apenas para a propositura de eventual ação cambial.
+Confiram-se ainda:
+DIREITO CAMBIÁRIO E PROTESTO EXTRAJUDICIAL. AGRAVO INTERNO. CONFORME TESE SUFRAGADA EM RECENTE JULGAMENTO NO RITO DOS RECURSOS REPETITIVOS, PELA SEGUNDA SEÇÃO, DO RESP 1.423.464/SC, SEMPRE SERÁ POSSÍVEL, NO PRAZO PARA A EXECUÇÃO CAMBIAL, O PROTESTO CAMBIÁRIO DE CHEQUE, COM A INDICAÇÃO DO EMITENTE COMO DEVEDOR. CONSOANTE DISPOSTO NO ART. 202, III, DO CÓDIGO CIVIL DE 2002, O PROTESTO CAMBIAL INTERROMPE O PRAZO PRESCRICIONAL PARA O AJUIZAMENTO DE AÇÃO CAMBIAL DE EXECUÇÃO. INEQUÍVOCA SUPERAÇÃO DA SÚMULA 153/STF.
+(..)
+2. Ademais, conforme consignado nesse mesmo precedente, caracterizando o documento levado a protesto título executivo extrajudicial, dotado de inequívoca certeza e exigibilidade, não se concebe possa o credor de boa-fé se ver tolhido quanto ao seu lídimo direito de resguardar-se quanto à prescrição, no que tange ao devedor principal; visto que, conforme disposto no art. 202, III, do Código Civil de 2002, o protesto cambial interrompe o prazo prescricional para o ajuizamento de ação cambial de execução, ficando, com a vigência do novel Diploma, superada a Súmula 153/STF.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.628.917/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 1/12/2016, DJe de 9/12/2016.)
+RECURSO ESPECIAL. DIREITO CIVIL E EMPRESARIAL. TÍTULOS DE CRÉDITO. LETRA DE CÂMBIO. NATUREZA. ORDEM DE PAGAMENTO. DECLARAÇÃO UNILATERAL DO SACADOR. REQUISITOS ESSENCIAIS. ART. 1º DO DECRETO 57.663/66 (LUG). ACEITE. EVENTUALIDADE. FACULTATIVIDADE. SACADO NÃO ACEITANTE. CONSEQUÊNCIA. RELAÇÃO CAMBIAL. INEXISTÊNCIA. PROTESTO. ILEGITIMIDADE PASSIVA. ART. 21, § 5º, DA LEI 9.492/97. INTERRUPÇÃO DA PRESCRIÇÃO. ART. 202, III, DO CC/ 02. EFICÁCIA OBJETIVA E SUBJETIVA. AÇÕES CAMBIÁRIAS. LIMITAÇÃO. PRINCÍPIO. AUTONOMIA. RESPONSÁVEL PRINCIPAL. SACADO ACEITANTE. DEVEDORES INDIRETOS. SACADOR, ENDOSSANTES E AVALISTAS. SACADO NÃO ACEITANTE. RELAÇÃO JURÍDICA CAUSAL. ALCANCE. INVIABILIDADE.
+(..)
+13. A prescrição interrompida pelo protesto cambial se refere única e exclusivamente à ação cambiária e somente tem em mira a pretensão dirigida ao responsável principal e, eventualmente, aos devedores indiretos do título, entre os quais não se enquadra o sacado não aceitante. Aplicação do princípio da autonomia das relações cambiais.
+(..)
+16. Recurso especial desprovido.
+(REsp n. 1.748.779/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/5/2020, DJe de 25/5/2020.)
+Em tais condições, não ficou demonstrada a violação do art. 202, III, do CC/2002. Incide a Súmula n. 284 do STF.
+O mesmo óbice impede o exame da alegada ofensa ao art. 206, § 5º, I, do CC/2002. A parte não logrou demonstrar a negativa de vigência a tal dispositivo, tendo em vista que o Tribunal de origem aplicou o prazo quinquenal previsto em tal dispositivo.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
