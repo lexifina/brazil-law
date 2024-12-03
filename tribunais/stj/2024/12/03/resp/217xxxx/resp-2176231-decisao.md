@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. POSSIBILIDADE DE EXECUÇÃO DEFINITIVA. PARCELA DA SENTENÇA TRANSITADA EM JULGADO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. EXECUÇÃO INDIVIDUAL. RECONHECIMENTO DE OFÍCIO. A QUALQUER TEMPO E GRAU DE JURISDIÇÃO. ARTIGO 193 DO CC.
+I. O CERNE DA CONTROVÉRSIA CINGE-SE EM SABER SE MERECE REFORMA A DECISÃO RECORRIDA, QUE, EM FASE DE CUMPRIMENTO DE SENTENÇA, REJEITOU A IMPUGNAÇÃO DA AUTARQUIA FEDERAL E HOMOLOGOU OS VALORES APRESENTADOS PELA PARTE EXEQUENTE.
+II. TRATA-SE DE AÇÃO DE EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA NOS AUTOS DA AÇÃO CIVIL PÚBLICA Nº 0004911-28.2011.4.03.6183, AJUIZADA PELO MINISTÉRIO PÚBLICO FEDERAL EM FACE DO INSS, CUJO OBJETO É A REVISÃO DOS BENEFÍCIOS PREVIDENCIÁRIOS, CONCEDIDOS ENTRE ABRIL DE 1991 A DEZEMBRO DE 2003, QUE SOFRERAM LIMITAÇÃO IMPOSTA PELA APLICAÇÃO DO TETO PREVIDENCIÁRIO.
+III. NÃO HÁ IMPEDIMENTO À EXECUÇÃO DEFINITIVA DE PARTE DA SENTENÇA PROFERIDA NOS AUTOS DA ACP N.º 0004911-28.2011.4.03.6183, QUE SE ENCONTRA IMUTÁVEL E NÃO PODE SER OBJETO DE REFORMA.
+IV. A PRESCRIÇÃO PODE SER SUSCITADA E CONHECIDA DE OFÍCIO PELO JUIZ EM QUALQUER FASE DO PROCESSO E EM QUALQUER GRAU DE JURISDIÇÃO, DE ACORDO COM O ARTIGO 193 DO CÓDIGO CIVIL, NÃO ESTANDO SUJEITA À PRECLUSÃO.
+V. CONSIDERANDO O PRAZO PRESCRICIONAL DE CINCO ANOS PARA QUE SEJA INICIADA A AÇÃO DE CUMPRIMENTO DE SENTENÇA INDIVIDUAL E, QUE AINDA NÃO OCORREU O TRÂNSITO EM JULGADO DA AÇÃO CIVIL PÚBLICA N.º 0004911- 28.2011.4.03.6183, MAS TÃO-SOMENTE PARCELAS DA SENTENÇA NÃO ABRANGIDAS PELOS RECURSOS QUE SE SEGUIRAM PODEM SER CONSIDERADAS IRRECORRÍVEIS, NÃO É POSSÍVEL VERIFICAR A OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA.
+VI. AGRAVO DE INSTRUMENTO A QUE SE NEGA PROVIMENTO.
+Opostos embargos de declaração, estes foram rejeitados pelo aresto de fls. 134-135.
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, o recorrente aponta, preliminarmente, violação ao art. 1.022, II, do CPC, pois:
+ ..  não foi apreciada a tese levantada pela autarquia previdenciária acerca da impossibilidade de promoção do cumprimento definitivo do julgado, uma vez que se encontram pendentes recursos especial e extraordinário do INSS que debatem a anulação dos capítulos da sentença que excederam o acordo firmado, em especial quanto à inclusão de benefícios que tiveram revisões judiciais e administrativas processadas nas rendas mensais iniciais dos benefícios (tais como as referentes ao IRSM e outras) (fls. 148).
+Aponta, ainda, negativa de vigência aos arts. 502, 520 e 783, do CPC, argumentando que é impossível o cumprimento individual de sentença coletiva, tendo em vista se tratar de título provisório, sem trânsito em julgado, já que há recursos especial e extraordinário pendentes de julgamento.
+Contrarrazões apresentadas às fls. 155-163.
+É o relatório.
+Passo a decidir.
+Nos embargos de declaração, o recorrente apontou omissão, defendendo, essencialmente, que:
+A apelação do INSS na ACP nº 0004911-28.2011.4.03.6183/SP contém pedido expresso de anulação dos capítulos da sentença que excederam o acordo firmado pelas partes. Confira-se:
+"Pelo exposto, requer e aguarda o INSS o recebimento deste recurso no efeito suspensivo, e ao final seu integral provimento para que, como pedido principal, sejam anulados os capítulos da r. sentença que excederam à homologação do acordo, mantendo-se a obrigação da Autarquia nos exatos termos do acordado com os requerentes." (grifos nossos)
+Por outro lado, resta saber se houve trânsito em julgado do acórdão que julgou a apelação do INSS na ACP. Para tanto, é preciso examinar o que o RESP e o REXT interpostos pelo INSS impugnaram. No RESP, o INSS pede:
+".. dar integral provimento à apelação do INSS para restabelecer os termos da transação firmada com os autores, sem acréscimo de outras obrigações."
+No REXT, o pedido é idêntico.
+Sob esta perspectiva, havendo recurso específico, não há como se falar em trânsito em julgado e possibilidade de execução.
+Ausente o trânsito em julgado do capítulo condenatório da sentença proferida na ACP nº 0004911- 28.2011.4.03.6183, que estendeu os efeitos do acordo firmado pelas partes, para inclusão dos benefícios que tenham sofrido outra revisão, forçoso concluir pela provisoriedade do título, não sendo possível a execução definitiva nos termos da legislação processual  ..  (fl. 92).
+Ao rejeitar os embargos de declaração, o Tribunal de origem assentou que não haveria qualquer vício a ser sanado, afirmando, em síntese, que "a alegação deduzida nos embargos de declaração não consta da inicial deste agravo de instrumento" (fl. 135).
+Ocorre que a tese alegada nos embargos de declaração foi sustentada na petição de agravo de instrumento, conforme se observa a fls. 4-5 do referido recurso.
+Como se vê, tem-se caracterizada infringência ao art. 1.022, II, do CPC, visto que a Corte local deixou de se pronunciar sobre a alegação:
+ ..  não foi apreciada a tese levantada pela autarquia previdenciária acerca da impossibilidade de promoção do cumprimento definitivo do julgado, uma vez que se encontram pendentes recursos especial e extraordinário do INSS que debatem a anulação dos capítulos da sentença que excederam o acordo firmado, em especial quanto à inclusão de benefícios que tiveram revisões judiciais e administrativas processadas nas rendas mensais iniciais dos benefícios (tais como as referentes ao IRSM e outras) (fls. 148).
+Ora, "conquanto o julgador não esteja obrigado a rebater, com minúcias, cada um dos argumentos deduzidos pelas partes, o Código de Processo Civil de 2015, exaltando os princípios da cooperação e do contraditório, lhe impõe o dever de enfrentar todas as questões capazes de, por si sós e em tese, infirmar as conclusões alcançadas acerca dos pedidos formulados pelas partes, sob pena de se reputar não fundamentada a decisão proferida" (REsp 1.819.062/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/2/2020, DJe de 13/2/2020).
+A princípio, os argumentos suscitados pelo recorrente revelam-se essenciais para o correto deslinde da controvérsia e são insuscetíveis de exame por esta Corte, por revelar insuficiência de fundamentação a justificar os termos em que decididos os embargos de declaração opostos.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial para, anulando o acórdão que rejeitou os embargos de declaração, determinar o retorno dos autos ao Tribunal de origem para sanar concretamente todos os vícios apontados.
+Intimem-se.
+EMENTA
