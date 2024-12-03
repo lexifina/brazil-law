@@ -1,0 +1,11 @@
+DECISÃO
+Em atenção à decisão de fls. 901-902, a UNIÃO (fl. 909) aludiu à necessidade de maior prazo para reformular e concluir os procedimentos de revisão instaurados, "diante da complexidade da matéria, da necessidade de instrução probatória a da multiplicidade de casos". Informou, ainda, o link de acesso externo para fins de acompanhamento (https://tinyurl.com/2p8uf79m). Nesse sentido, pugnou pela manutenção da suspensão do pagamento do precatório expedido por mais no mínimo 60 (sessenta) dias para apresentação da documentação pertinente.
+Em consulta ao endereço eletrônico informado, constata-se que a executada não chegou a concluir a antiga revisão deflagrada com fundamento na Portaria nº 3.076, de 16/12/2019, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos. Embora aluda a uma nova revisão, desta vez com esteio na Instrução Normativa nº 2, de 29/9/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos, não houve sequer a instauração formal desse procedimento, com regular notificação da parte interessada para poder se defender. Há apenas uma recente minuta de portaria, datada de 12/7/2024, autorizando essa abertura, consoante Doc. SEI nº 4439087.
+Assim, a argumentação apresentada não permite que se suspenda, ainda mais, o pagamento do requisitório expedido, porquanto, desde o ano de 2021, com a edição da acima referenciada instrução normativa, o ente público já poderia ter dado início a uma nova revisão, mas quedou-se inerte.
+Como a portaria de anistia objeto da presente execução permanece válida, a situação versada nos autos autoriza, portanto, a rejeição da preliminar de inexigibilidade do título judicial suscitada pela UNIÃO.
+Por fim, considerando que não foi apontado excesso de execução - visto que o valor executado corresponde ao valor nominal da portaria de anistia, conforme consignado na decisão de fl. 423 -, e não remanescendo outra matéria de defesa, o caso é de improcedência da impugnação oposta pela executada.
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO, e determino o afastamento da suspensão do pagamento do precatório expedido.
+Quanto aos honorários sucumbenciais, considerando a afetação do Tema 1.232/STJ, deixo, por ora, de proceder a seu arbitramento.
+Traslade-se cópia da presente decisão para os autos do Prc 5304/DF.
+Publique-se. Intimem-se.
+EMENTA
