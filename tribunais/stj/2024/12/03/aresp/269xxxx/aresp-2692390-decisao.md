@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FORTE VILLE EMPREENDIMENTOS IMOBILIARIOS LTDA, contra inadmissão, na origem, de recurso especial fundamentado no art. 105, a, III, da CF, manejado contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (fl. 390):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. ADESÃO A DIVERSOS PARCELAMENTOS. NÃO DECORRIDO O PRAZO NECESSÁRIO PARA O RECONHECIMENTO DA PRESCRIÇÃO. AGRAVO DESPROVIDO.
+1. No caso dos autos, a agravante alega que a empresa foi citada em 13/11/1998, tendo sido penhorado bens do seu estoque rotativo em 07/05/1999. Aduz que a partir daí, não foram adotadas medidas eficazes capaz de satisfazer o seu crédito tributário, restando comprovada a ocorrência da prescrição intercorrente. Ocorre que, conforme demonstrado nos autos, ocorreram vários parcelamentos dos débitos. A saber: de 16/08/2003 a 02/03/2007 (parcelamento PAES, extrato de ID de n.º 275650131, páginas 42-43); de 03/12/2009 a 23/02/2014 (parcelamento previsto na Lei n.º 11.941 de 2009, extrato de ID de n.º 275650131, páginas 47-48); de 02/08/2014 a 20/03/2018 (parcelamento previsto na Lei n.º 12.865 de 2013, extrato de ID de n.º 275650131, páginas 45-46).
+2. Com o pedido de parcelamento da dívida, interrompe-se a prescrição. Precedentes do STJ e deste Tribunal.
+3. Assim, constatada a adesão da executada aos parcelamentos indicados, e que não restou ultrapassado o prazo de cinco anos, após a exclusão do último parcelamento, deve ser mantida a decisão que afastou a ocorrência da prescrição intercorrente.
+4. Agravo de instrumento desprovido.
+Em seu recurso especial de fls. 436-445, sustenta a parte recorrente suposta violação, pelo tribunal de origem, ao art . 1.022, I e II, do CPC, ao alegar que:
+"  ..  a Recorrente embargou de declaração para que os Desembargadores da 1ª Turma do TRF da 3ª Região analisassem especificamente a questão desses dois parcelamentos onde não houve a consolidação (conforme a própria recorrida confessou), ficando caracterizada a contradição no Acórdão (não infirmada nos embargos de declaração devidamente oposto) e consequentemente a negativa de vigência ao artigo 1.022, inciso II, do CPC, conforme se verificou acima." (fl. 444).
+O Tribunal de origem, às fls. 476-477, inadmitiu o recurso especial sob o seguinte fundamento:
+Constou do acórdão que julgou os embargos declaratórios a seguinte fundamentação:
+No caso dos autos, sobre as questões apresentadas pela embargante, o acórdão embargado deixou claro que: ocorreram vários pedidos de parcelamentos dos débitos. A saber: de 16/08/2003 a 02/03/2007 (parcelamento PAES, extrato de ID de n.º 275650131, páginas 42-43); de 03/12/2009 a 23/02/2014 (parcelamento previsto na Lei n.º 11.941 de 2009, extrato de ID de n.º 275650131, páginas 47-48); de 02/08/2014 a 20/03/2018 (parcelamento previsto na Lei n.º 12.865 de 2013, extrato de ID de n.º 275650131, páginas 45-46); o simples pedido de parcelamento, já tem o condão de interromper o prazo prescricional.
+Assim, a Turma Julgadora concluiu que não houve a ocorrência da prescrição intercorrente.
+Destarte, o acórdão hostilizado enfrentou o cerne da controvérsia submetida ao Judiciário, consistindo em resposta jurisdicional plena e suficiente à solução do conflito e à pretensão das partes, hipótese em que não existe a alegada ofensa aos artigos 1.022 do CPC.
+Omissão ou contradição não se confunde com simples julgamento desfavorável à parte.
+A questão já se encontra decidida pelo E Superior Tribunal de Justiça: AgInt no AREsp n.º 2.159.188/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022 - AgInt no AREsp n.º 2.099.855/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.
+Ante o exposto, não admito o Recurso Especial.
+Em seu agravo, às fls. 479-488, a parte agravante reitera ser caso de ofensa ao art. 1.022, I e II, do CPC, ao considerar, novamente, que:
+" ..  a Agravante embargou de declaração para que os Desembargadores da 1ª Turma do TRF da 3ª Região analisassem especificamente a questão desses dois parcelamentos onde não houve a consolidação (conforme a própria Agravada confessou), ficando caracterizada a contradição no Acórdão (não infirmada nos embargos de declaração devidamente oposto) e consequentemente a negativa de vigência ao artigo 1.022, inciso II, do CPC, conforme se verificou acima. " (fl. 487).
+Requer, ao fim, que seja conhecido do agravo em recurso especial para conhecer do recurso especial e, no mérito, provê-lo.
+Transcorrido in albis o prazo para manifestação da parte agravada (fls. 494-497).
+É o relatório.
+De pronto, verifico a existência dos requisitos intrínsecos de admissibilidade relativos à regularidade formal do agravo em recurso especial interposto e à tempestividade.
+No entanto, quanto aos requisitos extrínsecos, entendo que não houve ataque específico no tocante à suposta violação ao art. 1.022, I e II, do CPC, haja vista não ter ocorrido a demonstração de forma clara e precisa, no referido agravo, de que a indicação dos supostos pontos omissos, contraditórios ou obscuros no acórdão recorrido teriam sido de dispositivo de lei e que a importância deles teria sido crucial para o deslinde da controvérsia.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos arts. 932, III, do CPC, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide, à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, PARÁGRAFO ÚNICO, DO RISTJ, E ENUNCIADO DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
