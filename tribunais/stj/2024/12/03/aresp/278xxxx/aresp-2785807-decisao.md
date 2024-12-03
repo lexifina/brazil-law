@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONSÓRCIO TIDP LINHA 17- OURO contra decisão que inadmitiu o recurso especial em razão da aplicação analógica da Súmula n. 735 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 171):
+LOCAÇÃO - Contêineres - Inadimplemento do locatário - Ação de cobrança cumulada com obrigação de fazer - Decisão de primeiro grau que defere pedido de tutela de urgência voltado à devolução dos bens - Agravo interposto pelo réu - Decisão harmonizada com a consequência natural do exaurimento do contrato ou mesmo com o inadimplemento contratual por parte do locatário - Observância do dever do locador de efetuar a retirada no local indicado pelo locatário - Multa diária compatível com a natureza da obrigação a ser cumprida e com a capacidade econômica do autor - Recurso desprovido, com observação.
+Nas razões do recurso especial, o agravante aponta violação do art. 300 do CPC, argumentando que não ficou demonstrado o perigo da demora para a concessão da medida liminar.
+Requer o conhecimento e o provimento do recurso especial para reforma do acórdão.
+É o relatório. Decido.
+O recurso não merece prosperar, pois se origina de agravo de instrumento contra decisão que deferiu tutela de urgência para determinar a devolução dos bens alugados, baseada em cognição sumária e juízo de verossimilhança. Não representa, portanto, pronunciamento definitivo sobre o direito reclamado, podendo ser modificada a qualquer tempo, devendo ser confirmada ou revogada quando proferida decisão definitiva (AgInt no AREsp n. 2.069.406/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022; e AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022).
+Assim, "em regra, não  se  admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF" (AgInt no REsp n. 1.343.171/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/8/2020, DJe de 26/8/2020).
+Dessa forma, constata-se que, em razão da natureza instável da decisão, a qual pode ser ou não confirmada em decisão definitiva, mostra-se correta a aplicação ao caso, por analogia, da Súmula n. 735 do STF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem -se.
+EMENTA
