@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTÔNIA CONCEIÇÃO ABBAMONTE em face de decisão desta relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+A embargante alega que o julgamento da questão de fundo do apelo especial, relativa à suspeição do juízo de 1º grau, não reclama novo exame das provas dos autos, de modo que não se aplica à espécie o óbice da Súmula n. 7/STJ.
+Impugnação às fls. 425/428.
+É o relatório.
+De acordo com o art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+Na espécie, a decisão embargada não incorre em nenhum desses vícios. A controvérsia sobre a incidência da Súmula n. 7/STJ - ora apontada como omitida - já foi suficientemente apreciada no julgamento monocrático do agravo em recurso especial, veja-se:
+"Para o Tribunal de origem, a excipiente, ora recorrente, não demonstrou a existência de qualquer fato que configure as hipóteses de suspeição previstas no artigo 145 do CPC. A alegação de amizade íntima entre o juiz e o inventariante dativo foi considerada mera presunção, sem provas concretas. Além disso, decisões contrárias aos interesses da excipiente, ainda que reiteradas, não constituem motivo para a suspeição, conforme a Súmula 88 do TJSP. Consta do aresto:
+"Mostram-se bastante esclarecedoras as informações prestadas pelo magistrado, Dr. L. A. R. que afirmou desconhecer as partes do processo e ter confiança no trabalho desempenhado pelo inventariante dativo, denotando, assim, qualquer interesse no julgamento do feito em razão da parte contrária e atestando seu compromisso com a imparcialidade para presidir o feito, demonstrando que a alegada suspeição não passa de mera presunção da excipiente.
+Ademais, verifica-se que a excipiente se limita a afirmar a parcialidade do magistrado, sem indicar, entretanto, indícios concretos que evidenciem a suspeição, referindo-se apenas às algumas decisões proferidas pelo excepto que foram contrárias ao seu interesse e à suposta amizade entre ele e o inventariante dativo.
+Deste modo, entendo que os fatos trazidos pela excipiente são insubsistentes a ensejar a suspeição do magistrado Dr. L. A. R., pois, na verdade, a tese defendida na peça que deflagrou o presente incidente deixa transparecer seu descontentamento com pronunciamento jurisdicional contrário ao interesse da excipiente, o verdadeiro motriz da alegação de parcialidade do excepto, no entanto, a insurgência contra decisões judiciais deve ser manejada pelos meios processuais previstos na legislação, não se prestando a exceção de suspeição para essa finalidade." (fl. 26)
+Como fica evidente, a reforma do acórdão de 2º grau demandaria nova apreciação das provas dos autos, notadamente para investigar se há ou não indícios de que o juiz de 1º grau mantém relações de intimidade com o inventariante dativo. Incide, portanto, o óbice da Súmula n. 7/STJ." (fl. 393)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
