@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por LEANDRO ALVES ANDRE, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC n. 0631740-45.2024.8.06.000).
+Consta que o recorrente foi preso em flagrante, e após preventivamente, pela suposta prática dos crimes previstos nos arts. 33 da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2003.
+Nesta insurgência, a Defesa sustenta, inicialmente, a nulidade das provas por ausência de fundadas razões para o ingresso policial no domicílio do acusado.
+Argumenta que a suposta autorização concedida por morador da residência não foi espontânea.
+Alega, no mais, a ausência de fundamentação idônea para a prisão preventiva do recorrente.
+Salienta que é possível a imposição de medidas cautelares alternativas.
+Pleiteia, liminarmente e no mérito, o reconhecimento da nulidade apontada, bem como a imediata expedição de alvará de soltura em favor do recorrente.
+O pedido liminar foi indeferido (fls. 137-141).
+As informações foram prestadas (fls. 146-148).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 152-156).
+É o relatório.
+DECIDO.
+Em primeiro lugar, registro que o mérito da alegação relativa à nulidade das provas não foi apreciado no acórdão impugnado, ao argumento de que a análise da referida tese demanda ampla dilação probatória, incompatível com a presente impetração, em especial porque constata-se nos autos de origem versões conflitantes (fl. 74). Assim, este Superior Tribunal de Justiça não pode conhecer da matéria, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E DOMICILIAR. (I)LICITUDE DAS PROVAS. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA HOMOGENEIDADE. IMPOSSIBILIDADE DE AFERIÇÃO.
+1. Não tendo a tese defensiva atinente à ilicitude das provas existentes em desfavor do acusado sido analisada pela Corte local sob o mesmo enfoque ventilado nas razões iniciais do presente mandamus, não cabe a este Tribunal Superior inaugurar a apreciação do tema, sob pena de incursão em vedada supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 769.880/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023; grifamos).
+Quanto ao mais, a Corte estadual manteve a prisão preventiva do acusado conforme a fundamentação a seguir (fls. 75-79; grifamos):
+Examinando os autos de origem de nº 0255006-26.2024.8.06.0001, constata-se que o paciente foi preso em flagrante pela suposta prática dos crimes capitulados no art. 33 da Lei nº 11.343/06 e art. 16 da 10.826/03 e após a manifestação favorável do parquet, o Juízo prolator do decisum fundamentou/motivou devidamente sua decisão nas circunstâncias do caso concreto, à luz dos requisitos descritos no artigo 312 do CPP, em especial, na garantia da ordem pública. Vejamos:
+ ..  Passo, agora, a analisar o que estabelece o artigo 310 do CPP.
+Realizando uma análise do auto, penso que não deve ser concedida liberdade provisória ao flagranteado, ainda que cumulada com outras medidas cautelares substitutivas da prisão, e, sim, convertido o flagrante em prisão preventiva, conforme vejamos.
+Com efeito, nos termos do artigo 312 do código de Processo Penal, a prisão preventiva, enquanto medida cautelar penal, necessita dos seguintes pressupostos: (a) indícios da autoria e prova da materialidade do delito, que compõem o fumus boni iuris, chamado de fumus comissi delicti, e desde que (b) para garantir a ordem pública ou econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal,circunstâncias estas que nada mais são senão o requisito de periculum in mora, também denominado periculum libertatis.
+No presente caso, resta configurada a presença da fumaça do bom direito. Conforme acima narrado, a prova da materialidade e os indícios de autoria estão presentes. Ressalte-se, por oportuno, que, neste momento, não há necessidade de certeza da autoria, contentando-se a lei apenas à existência de "indícios suficientes".
+Já o periculum in mora revela-se, nesta fase de cognição sumária, presente por força do seguinte motivo, a caracterizar situação de risco de lesão à ordem pública: perigo de reiteração criminosa.
+No caso em análise, verifico indicativos de reiteração delitiva, eis que a conduta delituosa sob apuração não foi um ato isolado na vida do flagranteado. Com efeito, o custodiado consta outras passagens, com sentença condenatória, inclusive, conforme e observa a certidão e fl. 35/36 dos autos.
+Neste cenário, a suposta prática de outros crimes e atos infracionais aponta no sentido de que o autuado desafia a paz social e, em liberdade, encontrará estímulo para continuar na seara criminosa, pois a atuação do Poder Judiciário, até o momento, não foi suficiente para frear sua inclinação à prática de condutas ilícitas, situação indicativa do seu desprezo e desrespeito à Justiça.
+Cumpre consignar, por oportuno, que o conceito de ordem pública também abrange a efetiva probabilidade de repetição de conduta delituosa.
+(..)
+Ainda, não se pode olvidar de mencionar que o delito em questão se tratam de crimes dolosos punidos com pena privativa de liberdade superior a quatro anos, satisfazendo, assim, o requisito previsto no artigo 313, I, do Código de Processo Penal.
+Somado a todo o exposto, observe-se que o mesmo fora preso em flagrante, com várias munições e armamentos, além de 94g de crack e 580g e outra substância branca sem identificação, conforme fl. 07 dos autos, fazendo parte, inclusive, da Facção do Comando Vermelho da Capital.
+Em que pese a alegação do réu de que houve invasão e domicílio, tal informação destoa das informações prestadas pelos policiais, o que somente poderá ser verificado de forma mais aprofundada durante a instrução processual.
+Diante de tais fundamentos, a aplicação de qualquer outra medida cautelar diversa da prisão, dentre aquelas previstas no art. 319 do CPP, ou mesmo atípicas, seria providência inócua e que não serviria para impedir a reiteração criminosa, encontrando-se presentes os requisitos para embasar a custódia cautelar, haja vista a presença, em concreto, do fumus comissi delicti e do periculum libertatis.
+Isto posto, considerando o que dos autos consta e os princípios de direito aplicáveis à espécie, sobretudo levando-se em consideração que há indícios suficientes da autoria, CONVERTO A PRISÃO FLAGRANCIAL DE LEANDRO ALVES ANDRÉ EM PREVENTIVA, o que faço com amparo nos arts. 310, 312 e 313, todos do CPP.  ..
+No caso concreto, além do requisito previsto no inciso I do art. 313, do CPP, entendo que ficou evidenciado de forma idônea, o fumus comissi delicti, com base nos elementos colhidos durante o inquérito policial, sobretudo pelo depoimento das testemunhas, no auto de apresentação e apreensão do variado material bélico às págs. 07/08, como duas pistolas, 06 carregadores, várias munições, 01 red dot, 01 mira laser e no laudo provisório de constatação, que atestou a presença da substância crack (94g), conforme documentação acostada aos autos.
+Constata-se também o periculum libertatis, como fundamento da permanência da segregação cautelar, está concretamente motivada na gravidade concreta das condutas imputadas ao paciente, visto que foi preso em flagrante com crack, de inegável poder deletério e de significativo arsenal bélico, quais sejam: duas pistolas calibre 9mm, com 192 munições desse calibre, 11 munições de calibre ponto 40, 02 carregadores modelo caracol, 02 carregadores alongados calibre 9mm, 05 unidades de carregador da PT, 02 unidades de carregador de pistola 9mm, 01 headdot e 01 mira laser, sendo certo que a prisão provisória é necessária para garantia da ordem pública.
+(..)
+Ressalta-se também que, em consulta ao CANCUN, além da ação penal que deu ensejo a impetração do presente remédio constitucional, o paciente possui em seu desfavor a execução penal nº 8006070-46.2023.8.06.0001, com condenação transitada em julgado pelo crime capitulado no art. 157, § 2º, I e II, do CP e art. 244-B, caput do ECA, de modo que revela que a prática delitiva tornou-se atividade trivial na vida do acusado e por consequência, sua periculosidade e a possibilidade de reiteração delitiva, com risco para a ordem pública, o que demonstra a necessidade de manutenção da prisão provisória imposta (periculum libertatis), sendo aplicável a súmula nº 52 deste Tribunal, que dispõe:
+"Inquéritos e ações em andamento justificam a decretação da prisão preventiva para garantia da ordem pública nos termos do art. 312 do CPP, não se aplicando o enunciado sumular n.º 444 do STJ".
+Frisa-se que, diante da necessidade da imposição da medida extrema pelos dados extraídos dos autos, tornam-se inaplicáveis as medidas cautelares diversas da prisão, previstas no art. 319, do Código de Processo Penal, à luz dos elementos trazidos aos autos, nos termos do artigo 282, § 6º, do CPP.
+Do excerto transcrito, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, ressaltando-se a gravidade concreta dos fatos e o fundado risco de reiteração delitiva do acusado, circunstâncias que demonstram a potencial periculosidade do agente e são aptas a justificar sua segregação cautelar para garantia da ordem pública.
+A propósito,
+(c)onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DO RECURSO EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. PRISÃO MANTIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que manteve a conversão da prisão em flagrante do agravante em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+2. Isso porque não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na existência de antecedentes e reiteração delitiva do agente.
+(..)
+4. Agravo regimental improvido.
+(AgRg no HC n. 867.234/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+(..)
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, conheço em parte do recurso em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
