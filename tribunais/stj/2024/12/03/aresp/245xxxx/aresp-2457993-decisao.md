@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual DENISE RODEGUER se insurgira, com fundamento no art. 105, inciso III, alínea c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fls. 370/371):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE ATO C/C OBRIGAÇÃO DE FAZER - PARCIAL PROCEDÊNCIA - IRREGULARIDADE NO MEDIDOR ENERGIA ELÉTRICA - PROCEDIMENTO ADMINISTRATIVO - LEGITIMIDADE - RESPEITO AO CONTRADITÓRIO E À AMPLA DEFESA - RECUPERAÇÃO DE CONSUMO DEVIDA - DANO MORAL - NÃO CONFIGURAÇÃO - RECURSO PROVIDO. No que diz respeito ao dano moral, se não há comprovação efetiva de que houve a suspensão no fornecimento de energia ou mesmo a inclusão do nome da parte apelada em cadastros de órgãos de proteção ao crédito, referente à cobrança da fatura indevida, tal fato não constitui ato ilícito passível de indenização por danos morais.
+Os embargos de declaração opostos foram rejeitados (fls. 407/414).
+Nas razões de seu recurso especial, a parte ora agravante alega violação aos arts. 489 e 1.022 do Código de Processo Civil (CPC) ao argumento de que a Corte de origem não se manifestou sobre pontos essenciais ao deslinde da controvérsia e se mostrou contraditória ao se utilizar de fundamentos existentes na sentença que não teriam sido levantados em apelação e ao não descrever fundamentação suficiente para reformá-la.
+A parte ora agravada apresentou as contrarrazões (fls. 444/452).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fl. 389):
+Constata-se a CONTRADIÇÃO NO ACORDÃO, QUE REFORMOU A SENTEÇA CONDENATÓRIA, UTILIZANDO FUNDAMENTO QUE FOI DESCARTADO PELO JUÍZO E PELAS PARTES.
+POR OUTRO LADO, HÁ EVIDENTE OMISSÃO NO ACORDÃO, POIS NÃO SE DESEMCUBIU EM TRAZER QUALQUER FUNDAMENTAÇÃO CONTRÁRIA AS RAZÕES UTILIZADAS PELO JUÍZO PARA CONDENAR A EMBARGADA.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO decidiu o seguinte (fls. 411/412):
+Isto porque, omissa é a decisão que deixa de se pronunciar sobre questões criadas pelos demandantes, o que não é o caso dos autos.
+Por sua vez, a obscuridade se constata "quando a redação do julgado não for clara, dificultando, pois, a correta interpretação do pronunciamento judicial" (MARCATO, Antônio Carlos. Código de Processo Civil Interpretado. São Paulo: Atlas, 2004, p. 1593), o que não se evidencia da r. decisão.
+Outrossim, a contradição refere-se aos termos utilizados na fundamentação do decisum, quando os argumentos utilizados não se compatibilizam entre si; existe "em razão da incerteza quanto aos termos do julgado, pelo uso de proposições inconciliáveis, podendo acarretar, inclusive, dificuldades a seu cumprimento" (MARCATO, Antônio Carlos. Código de Processo Civil Interpretado. São Paulo: Atlas, 2004, p. 1593), o que não é a hipótese dos autos, pois todos os pontos atacados no presente recurso foram enfrentados de maneira clara, expressa e coerente.
+Assim, não obstante a parte embargante alegue a ocorrência de omissão e contradição no v. acórdão, de plano se constata que seu intuito, em verdade, é de ver reapreciado o mérito, sem que haja de fato o aludido vício.
+Compulsando os autos, constato que houve fundamentação suficiente, tanto no acórdão originário quanto no acórdão proferido em embargos de declaração, a respeito das questões essenciais ao deslinde da controvérsia, sobretudo se considerado o caráter abstrato das razões da parte ora recorrente, pois não particulariza fato ou comando legal possivelmente violado, mas apenas alega que o acórdão "carece de fundamentação" ou que o Tribunal de origem teria se utilizado de "fundamentação alheia às partes" para reformar a sentença.
+Vê-se, então, que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial .
+Publique-se. Intimem-se.
+EMENTA
