@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por RAQUEL SANTOS FARIA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 273, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES - CONTRATO DE COMPRA E VENDA DE IMÓVEL - UTILIZAÇÃO DA TABELA PRICE - AUSÊNCIA DE ILEGALIDADE - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+1. A utilização da Tabela Price não caracteriza, por si só, a prática de anatocismo, pois apenas prevê a amortização dos juros antes do principal.
+2. Apelação conhecida e não provida.
+Nas razões do recurso especial (fls. 287/320, e-STJ), a parte insurgente apontou, além de dissídio jurisprudencial, violação as Súmulas 539 do STJ e 121 do STF, bem como aos artigos 1º, II, da MP n. 2172-32/2001; 4º e 11 do Decreto 22626/33; 5º da Lei 9514/97; 3º, 4º e 51, IV, do CDC; 3º, I, da CF. Sustentou, em síntese: i) que a recorrida não pode cobrar juros capitalizados pela tabela price, uma vez que não se enquadra como Instituição Financeira, o que é imprescindível para a admissão dos juros capitalizados. Não é possível que a apelada queira cobrar juros e demais taxas contratuais como se instituição financeira fosse; ii) a necessidade de reconhecimento da abusividade de cláusulas contratuais; iii) a ilegalidade da capitalização de juros - tabela price.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 352/364, e-STJ), dando ensejo na interposição do presente agravo (fls. 366/403, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 408/417, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a pretensão de análise de violação ao art. 3º, I da CF fora deduzida em sede imprópria, cuja ofensa deve ser alegada por meio de recurso extraordinário para o Supremo Tribunal Federal.
+É incabível o recurso especial que visa discutir violação de norma constitucional que, nos termos do art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido, precedentes: AgInt no AREsp 842.261/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/02/2018, DJe 08/03/2018; AgInt no REsp 1680082/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/12/2017, DJe 13/12/2017.
+2. Em seguida, no que diz respeito à alegada vulneração do enunciado contido na Súmula 539/STJ e 121 do STF, é assente nesta Corte Superior que a suposta violação à sumula não é cognoscível na via excepcional, pois não se encontra no conceito de lei federal, para fins de interposição do apelo nobre.
+Incide, no ponto, o teor da Súmula 518 desta Corte, a saber: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: AgInt nos EDcl no AREsp 1294809/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado e m 18/03/2019, DJe 22/03/2019; AgInt no AREsp 361.320/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/03/2018, DJe 13/03/2018.
+3. Acerca da Tabela Price, o STJ firmou entendimento de que a "análise acerca da legalidade da utilização da Tabela Price passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ".
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MÚTUO COM PACTO ADJETO DE HIPOTECA E ADITAMENTOS POSTERIORES. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS CUMULADA COM CONSIGNAÇÃO EM PAGAMENTO, REPETIÇÃO DE INDÉBITO. ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/1973. MANUTENÇÃO DA SÚMULA 284/STF. NOVAÇÃO. REVISÃO DE CONTRATO NOVADO. CABIMENTO. SÚMULA 286/STJ. TABELA PRICE. MANUTENÇÃO DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 535, II, do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso. Manutenção da Súmula 284/STF.
+2. Nos termos da jurisprudência desta Corte Superior, é possível a revisão de contratos bancários extintos, novados ou quitados, de maneira a viabilizar, assim, o afastamento de eventuais ilegalidades, as quais não se convalescem, a teor da Súmula 286/STJ.
+3. Acerca da Tabela Price, o STJ firmou entendimento de que a "análise acerca da legalidade da utilização da Tabela Price passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ".
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.557.005/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO HABITACIONAL. TABELA PRICE. SÚMULA N. 83 DO STJ. INCIDÊNCIA DE CAPITALIZAÇÃO DE JUROS. NECESSIDADE DE REVISÃO DAS CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DISCUSSÃO A RESPEITO DA ABUSIVIDADE PELA DATA DA CONTRATAÇÃO. INOVAÇÃO RECURSAL. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A utilização da Tabela Price para o cálculo das prestações da casa própria não é proibida pela Lei de Usura (Decreto n. 22.626/1933) e não enseja, por si só, a incidência de juros sobre juros.
+2. A verificação da existência ou não de anatocismo em decorrência da aplicação da Tabela Price demanda análise do contrato e reexame de provas, a atrair a incidência das Súmulas n. 5 e 7 do STJ.
+3. Os argumentos não formulados no recurso especial e, portanto, não apreciados na decisão que o julgou não são passíveis de conhecimento em agravo interno, em razão da indevida inovação recursal.
+4. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso, nos termos da Súmula n. 282 do STF.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.951.138/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Nesse ponto, o aresto recorrido (fl. 275, e-STJ):
+Denota-se dos autos que às partes celebraram "Instrumento Particular de Compra e Venda de Imóvel e Alienação Fiduciária em Garantia e Outras Avenças" em 06/07/2017, o qual previa a aquisição do imóvel descrito na inicial pelo valor total de R$ 60.633,09, com entrada de R$ 500,00 e financiamento do saldo restante em 180 parcelas sucessivas, calculadas pela metodologia da Tabela Price, com correção mensal pelo IGP-M/FGV e juros de 0,94887% ao mês.
+Nesse contexto, não se verifica qualquer abusividade ou ilegalidade na aplicação da Tabela Price como sistema de amortização do financiamento imobiliário, tratando-se de metodologia amplamente utilizada no mercado que consiste, em síntese, na amortização do principal e dos juros, tendo por finalidade a eliminação ao término do contrato de qualquer valor residual, observada a atualização monetária, o que não configura anatocismo.
+Ademais, os juros foram expressamente estipulados no instrumento particular e não caracterizam ilegalidade ou abusividade, tanto que está abaixo do limite legal de 1% ao mês ou 12% ao ano.
+Com efeito, para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal, no sentido de acartar a ocorrência de qualquer abusividade ou ilegalidade na aplicação da Tabela Price, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte .
+4. A recorrente pretende ver afastada a atualização do contrato pela Tabela Price, sob o argumento da ilegalidade do referido reajuste, na medida em que se trata de capitalização dos juros e de ser impossível sua utilização por qualquer pessoa, sendo restrita às instituições financeiras.
+Na presente hipótese, o tribunal de origem decidiu a questão conforme trecho do acórdão a seguir transcrito (fls. 274/275, e-STJ:
+2. Revisão contratual
+Denota-se dos autos que a demanda versa sobre a revisão de contrato de financiamento imobiliário celebrado diretamente com a vendedora de unidade imobiliária, na qual a autora requer o afastamento da aplicação da Tabela Price, da capitalização de juros e a repetição de indébito do montante cobrado em excesso.
+A lide deve ser dirimida segundo os princípios e regras estatuídas no Código de Defesa do Consumidor, pois restou qualificada a relação de consumo por adequarem-se os sujeitos envolvidos aos conceitos de consumidor e fornecedor.
+Com efeito, o Código de Defesa do Consumidor dispõe que é vedado ao fornecedor de produtos ou serviços exigir do consumidor vantagem manifestamente excessiva, e que serão consideradas nulas de pleno direito as cláusulas contratuais que estabeleçam obrigações reputadas como iníquas, que coloquem o consumidor em desvantagem exagerada ou sejam incompatíveis com a boa-fé ou a equidade.
+Entretanto, a incidência do Código de Defesa do Consumidor não afasta a aplicação das regras contidas na Lei n.º 9.514/97, uma vez que o ordenamento jurídico deve ser interpretado de forma unitária (Teoria do Diálogo das Fontes).
+A Lei n.º 9.514/97, que dispõe sobre o Sistema Financeiro Imobiliário, dispõe no art. 5.º:
+"Art. 5º As operações de financiamento imobiliário em geral, no âmbito do SFI, serão livremente pactuadas pelas partes, observadas as seguintes condições essenciais:
+I - reposição integral do valor emprestado e respectivo reajuste;
+II - remuneração do capital emprestado às taxas convencionadas no contrato;
+III - capitalização dos juros;
+IV - contratação, pelos tomadores de financiamento, de seguros contra os riscos de morte e invalidez permanente. § 1º As partes poderão estabelecer os critérios do reajuste de que trata o inciso I, observada a legislação vigente.
+§ 2º As operações de comercialização de imóveis, com pagamento parcelado, de arrendamento mercantil de imóveis e de financiamento imobiliário em geral poderão ser pactuadas nas mesmas condições permitidas para as entidades autorizadas a operar no SFI.  .. "
+Como se nota, o contrato será livremente pactuado pelas partes, sendo que nas operações de comercialização de imóveis, com pagamento parcelado, de arrendamento mercantil e de financiamento imobiliário em geral poderão ser pactuadas nas mesmas condições permitidas para entidades autorizadas pelo SFI.
+Vale dizer, mesmo que a ré não esteja inserida no Sistema Financeiro Imobiliário, o contrato pactuado poderá ser estipulado nas mesmas condições permitidas para aquelas entidades autorizadas a operar no SFI.
+Com efeito, tendo em vista a expressa autorização do artigo 5º, § 2º, da Lei nº 9.514/97, as pessoas jurídicas não autorizadas a operar no SFI poderão valer-se das mesmas condições desse sistema nas operações de comercialização de imóveis mediante pagamento parcelado, no arrendamento mercantil de imóveis e no financiamento imobiliário em geral.
+No caso dos autos, a demandada é pessoa jurídica responsável pela incorporação e venda dos lotes que compõem o empreendimento em tela. Desse modo, uma vez que ela opera a venda dos lotes, mediante parcelamento do preço pactuado, poderia, sim, valer-se da prática da capitalização de juros. Das razões acima, resta claro que a cobrança de juros na forma capitalizada, pela empresa vendedora é legal, porque expressamente previsto no contrato firmado entre as partes.
+Portanto, rever o entendimento acima esbarra no óbice das Sumulas n. 5 e 7 desta Corte.
+5. Do exposto, com amparo no art igo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Deixo de majorar os honorários de sucumbência, pois não fixados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
