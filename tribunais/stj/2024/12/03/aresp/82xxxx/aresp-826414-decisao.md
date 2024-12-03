@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED JUIZ DE FORA - COOPERATIVA DE TRABALHO MÉDICO LTDA. em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais (TJMG), assim ementado:
+"REAJUSTE DAS MENSALIDADES DOS PLANOS DE SAÚDE EM RAZÃO DA MUDANÇA DE FAIXA ETÁRIA - CÓDIGO DE DEFESA DO CONSUMIDOR E ESTAUTO DOIDOSO-VEDAÇÃOA DISCRIMINAÇÃO-SENTENÇA REFORMADA.
+O usuário que sofre o reajustes das mensalidades dos planos de saúde ,com base exclusivamente na mudança de faixa etária, estará sempre amparado contra a abusividacle, seja pela própria proteção oferecida pela Constituição Federal, que estabelece norma de defesa do idoso no art. 230, ou pelo Código Civil, que busca o equilíbrio nas relações contratuais." (fl. 385)
+A recorrente aponta ofensa aos arts. 884 do Código Civil e 535 e 20 §3º e §4º do Código de Processo Civil (CPC) de 1973. Argumenta-se que o acórdão do TJMG não enfrentou adequadamente as questões levantadas nos embargos de declaração, especialmente no tocante à inexistência de cláusula abusiva e ao equilíbrio contratual. Alega que a condenação em honorários advocatícios foi excessiva, não condizente com os critérios previstos no art. 20 do CPC/1973, e pede a redução proporcional.
+Contrarrazões às fls. 471/478.
+É o relatório.
+Registro, de início, que a controvérsia sobre a legalidade do reajuste por faixa etária está prejudicada, ante o juízo de retratação realizado pelo Tribunal de origem às fls. 642/643.
+A alegação de omissão não deve ser acolhida. O eg. TJMG declarou abusiva a cláusula do contrato de plano de saúde que condicionava o reajuste das mensalidades à faixa etária do contratante. Para a Corte, em razão das normas protetivas do CDC e do Estatuto do Idoso, não se pode reputar razoável o reajuste de 88,50% no valor da prestação, para os beneficiários acima de 59 anos de idade.
+Não se observa, portanto, qualquer omissão do Tribunal de origem, mas tão só decisão contrária à pretendida pela parte.
+Não é demais anotar os termos da jurisprudência desta Corte Superior, no sentido de que "os embargos declaratórios não se prestam para forçar o ingresso na instância extraordinária se não houver omissão a ser suprida no acórdão nem fica o juiz obrigado a responder a todas as alegações das partes quando já encontrou motivo suficiente para fundar a decisão (AgRg no Ag n. 372.041/SC, Ministro Hamilton Carvalhido, Sexta Turma, DJ 4/2/2002), de forma que não há falar em negativa de prestação jurisdicional apenas porque o Tribunal local não acatou a pretensão deduzida pela parte" (AgRg no REsp n. 1.220.895/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/9/2013).
+Por fim, o eg. TJMG fixou os honorários de sucumbência em R$ 2.500,00 (dois mil e quinhentos reais), ainda sob a vigência do CPC/15. Desse modo, não havendo manifesta desproporção em referido valor, a pretensão de redução da verba esbarra no óbice da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
