@@ -1,0 +1,24 @@
+DECISÃO
+O presente writ, impetrado em benefício de EMILIO BORGES DOS SANTOS - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0004555-52.2015.4.03.6002) -, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 1ª Vara Federal de Dourados/MS, ao argumento de que a minorante do tráfico privilegiado foi concedida aos corréus em sede de apelação, mas negado o pedido de extensão ao ora paciente, que não apelou da sentença de primeiro grau, aduzindo, ainda, que por questão de isonomia e em atenção ao artigo 580 do CPP, de rigor a aplicação da causa de diminuição, prevista no §4º do art. 33 da Lei n. 11.343/06, tal como requerido em sede de contrarrazões de apelação e embargos de declaração (fl. 11).
+Em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, percebo a ocorrência do ilegal constrangimento.
+Do atento exame dos autos observa-se que a sentença afastou o redutor do tráfico privilegiado, ao fundamento de que os réus se dedicavam à atividade criminosa, conforme trecho a seguir (fl. 75):
+ ..
+Noutro vértice, não há a causa de diminuição prevista no art. 33, §4º, da Lei 11.343/06, pois a elevada quantidade de droga apreendida com o réu indica dedicação à atividade criminosa; impedindo, por conseguinte, a incidência da minorante em tela.
+ ..
+Ademais, o grau de sofisticação do transporte, com participação de vários indivíduos, evidencia indícios de profissionalismo, bem como pela quantidade e natureza da substância traficada. Outrossim, o transporte seria feito por várias pessoas, o réu e seu asseclas, demonstrando um investimento na realização da empreitada por parte da organização.
+ ..
+Contudo, em recurso de apelação dos corréus, o acórdão do Tribunal de origem afastou o fundamento do Juízo de primeiro grau de que os réus se dedicavam a atividades criminosas, ao mencionar que os réus são primários, não possuem maus antecedentes (Id. 149194071) e não há prova de envolvimento com atividades criminosas ou que integrem organização criminosa, é o caso de se reconhecer o privilégio (fl. 40).
+Conquanto não tenha apelado do decreto condenatório proferido no primeiro grau, a defesa do paciente fez pedido de extensão dos efeitos (art. 580 do Código de Processo Penal), mas teve negado tal direito em sede de embargos de declaração, conforme acordão acostado aos autos (fls. 14/22).
+Com efeito, uma vez afastada a fundamentação do primeiro grau, para firmar o entendimento de que os réus não se dedicavam à atividade criminosa, entendo que tal conclusão também deve ser aplicada ao paciente, fazendo incidir a minorante do tráfico privilegiado, porquanto o crime foi cometido em concurso de pessoas, nas mesmas condições e constatada a sua primariedade nos autos de origem.
+Nesse sentido foi o parecer do Ministério Público Federal, afirmando que a fundamentação da sentença para negar o privilégio legal é exatamente a mesma para todos os réus, razão pela qual os efeitos do acórdão que reformou a sentença e admitiu a causa de diminuição de pena devem ser estendidos ao paciente (fl. 105).
+Redimensionando-se a reprimenda imposta, temos:
+Mantenho a fixação da pena em 5 anos de reclusão e 500 dias-multa, conforme realizado pelas instâncias ordinárias na primeira e segunda fases. Na terceira etapa, fixo o aumento de 1/6 (art. 40, I, Lei 11.343/2006), nos termos da fundamentação fixada na sentença. Aplico, por sua vez, a minorante do tráfico privilegiado em 1/6, conforme fundamentação do acórdão (fls. 26/46), aqui estendida ao paciente, resultando a reprimenda em 4 anos, 10 meses e 10 dias de reclusão e 485 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+O regime inicial deverá ser o semiaberto (art. 33, § 2º, b e § 3º, do Código Penal - CP).
+A quantidade de pena aplicada não permite a substituição da privativa de liberdade por duas restritivas de direitos (art. 44 do CP).
+Em face do exposto, concedo a ordem impetrada para reconhecer a minorante do tráfico privilegiado, resultando a reprimenda do paciente em 4 anos, 10 meses e 10 dias de reclusão e 485 dias-multa, no regime inicial semiaberto , sem substituição por restritiva de direitos.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. EXISTÊNCIA. PRETENSÃO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO PELO JUÍZO DE PRIMEIRA INSTÂNCIA. DEDICAÇÃO À ATIVIDADE CRIMINOSA. FUNDAMENTAÇÃO QUE FOI REFORMADA PELO TRIBUNAL A QUO EM RECURSO DE APELAÇÃO DOS CORRÉUS. PEDIDO DE EXTENSÃO AO PACIENTE NEGADO. PRIMARIEDADE. CONSTRANGIMENTO EVIDENCIADO.
+Ordem concedida.
