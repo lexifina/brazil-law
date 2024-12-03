@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por MÁRIO FERREIRA DE ALMEIDA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+EXECUÇÃO FISCAL. ISS. DECISÃO QUE REJEITOU SEGUNDA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABE PRONUNCIAMENTO DA CORTE SOBRE O QUE NÃO FOI SUSCITADO/DECIDIDO NA ORIGEM, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. POSSIBILIDADE DE OFERECIMENTO DE SEGUNDA "EXCEPTIO" APENAS PARA SUSCITAR TEMAS INÉDITOS/NÃO DECIDIDOS ANTERIORMENTE. ALEGAÇÃO DE PRESCRIÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DO MOMENTO DA OCORRÊNCIA DO FATO GERADOR. FALTA DE ELEMENTOS QUE PERMITAM AFERIR COM SEGURANÇA SE O CRÉDITO FOI FULMINADO. PRESUNÇÃO DE LEGITIMIDADE DO LANÇAMENTO QUE DEVE PREVALECER. AGRAVO CONHECIDO EM PARTE E IMPROVIDO NESSA PARTE.
+A parte recorrente sustenta, em síntese (fls. 116/131):
+Este recurso encontra supedâneo no art. 105, inc. III, alínea "a", da Constituição Federal, na medida da violação de dispositivos expressos de lei federal, qual seja, os arts. 142 e 174 do CTN.
+ ..
+No requerimento de exceção de pré-executividade (fls. 55/62, nos autos de origem), conforme reiterado com a manifestação da fls. 37, é solicitada a extinção da demanda com base no artigo 924, inciso II, do Código de Processo Civil (CPC). Este pedido é sustentado pela apresentação da Certidão Negativa de Débitos (CND) de IPTU do imóvel objeto da ação, identificado pelo contribuinte número 121.207.0011-6. A petição também aborda a questão das cobranças repetidas por parte da Prefeitura do Município de São Paulo, apontando que houve uma distribuição duplicada da mesma ação, e destaca a ausência de andamento em outro processo relacionado. Alega-se que essa situação gera transtornos psicológicos ao executado, especialmente considerando sua idade avançada e problemas de saúde, e sugere-se uma possível motivação relacionada à desapropriação do imóvel. Quanto à cobrança do Imposto Sobre Serviços de Qualquer Natureza (ISSQN), argumenta-se não haver fato gerador para sua incidência sobre as construções realizadas no imóvel, uma vez que elas foram conduzidas pelo próprio proprietário, sem a utilização de mão-de-obra remunerada. Finalmente, devido à condição de hipossuficiência do Sr. Mário, que é idoso e enfrenta problemas de saúde, é destacado que o pagamento requerido não pode ser efetuado, especialmente considerando a ausência de embasamento para a cobrança.
+ ..
+Em dezembro último, sobreveio decisão relevantíssima do Supremo Tribunal Federal. Trata-se do Tema 1184 da repercussão geral, concernente à existência de interesse de agir das Fazendas Públicas para satisfazer créditos de reduzido valor.
+ ..
+Ausente qualquer dos requisitos da CDA, o título executivo tributário é nulo de pleno direito.
+ ..
+Neste diapasão, a ausência de fato gerador da obrigação tributária implicaria na inexigibilidade da dívida.
+ ..
+a ausência de citação regular do executado é uma causa de nulidade da execução. Se o executado não foi corretamente citado, ou seja, se não foi garantido o seu direito de defesa e ciência do processo, a execução torna-se nula. No caso mencionado, a citação foi realizada de forma inadequada, afinal o carteiro assinou o aviso de recebimento (AR) em nome do executado, sem que este realmente tenha recebido a ciência da citação na data indicada nos autos (fls. 8). Isso violaria o devido processo legal e, consequentemente, invalidaria a execução.
+ ..
+se a construção foi realizada pelo proprietário do terreno, sem a contratação de uma empresa ou prestador de serviços externo, não se configura a prestação de serviço a terceiros. Portanto, não há fato gerador para a incidência do ISSQN sobre a construção, conforme estabelecido na legislação e jurisprudência citadas.
+ ..
+Quanto à cobrança do Imposto Sobre Serviços de Qualquer Natureza (ISSQN), há argumentos sólidos para contestar sua legalidade. Segundo jurisprudência e dispositivos legais aplicáveis, a prescrição para a Fazenda Pública mover a execução fiscal já teria ocorrido, considerando que o início do prazo prescricional é contado a partir da data do lançamento do tributo. Nesse sentido, a autuação realizada somente em 23/08/2021 estaria prescrita, afinal as obras (realizadas pelo próprio recorrente, que trabalhou como pedreiro na sua vida profissional) remontam ao início dos anos 2000.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na Súmula 7 do STJ, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual se defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Estão cumpridos os requisitos de admissibilidade do Agravo em Recurso especial, razão pela qual deve ser conhecido; não obstante, o conhecimento do recurso especial encontra óbice nas Súmulas 282, 283 e 284, pois o órgão julgador não analisou os pontos suscitados nas razões do especial, limitando-se à confirmação da decisão agravada, pela rejeição da objeção à executividade em razão da necessidade de dilação probatória e ante a preclusão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
