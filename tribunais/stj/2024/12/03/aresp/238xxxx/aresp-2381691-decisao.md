@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o CENTRO DE NEFROLOGIA NACOES S/S. e OUTROS se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 65):
+AGRAVO DE INSTRUMENTO. LITISCONSÓRCIO ATIVO FACULTATIVO, RÁPIDA SOLUÇÃO DO LITÍGIO (§ 1º DO ART. 113 DO CPC).
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte alega, além de negativa de prestação jurisdicional, violação dos arts. 113 e 942 do Código de Processo Civil (CPC).
+Sustenta, em suma, que não houve observância à técnica do julgamento ampliado, bem como defende a formação do litisconsórcio ativo das agravantes diante da ausência de complexidade da causa que possa causar confusão processual.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O presente recurso decorre de agravo de instrumento interposto na origem contra decisão que, em mandado de segurança, determinou o desmembramento do polo ativo em prol da celeridade processual.
+O acórdão recorrido negou provimento ao agravo de instrumento, ficando vencido o relator, razão pela qual se insurgiu a parte recorrente contra a definição jurisdicional sem a observância da técnica do julgamento ampliado.
+Consoante dispõe o art. 942, § 3º, II, a técnica do julgamento ampliado é admissível em agravo de instrumento quando o julgamento não unânime reformar decisão que julgar parcialmente o mérito.
+Nessa mesma linha é a jurisprudência do Superior Tribunal de Justiça: AgInt no REsp 1.971.363/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023, REsp 2.026.250/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1º/10/2024, DJe de 4/10/2024, AgInt no AgInt no AREsp 1.987.518/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023.
+No caso dos autos, a decisão foi reformada para limitar o litisconsórcio ativo, o que dispensa a ampliação do julgamento.
+Quanto à formação do litisconsórcio, o Tribunal de origem fundamentou que o desmembramento se justificaria pela dificuldade da liquidação do julgado, senão vejamos:
+No caso, a formação de litisconsórcio ativo contraria a orientação supramencionada. Embora se perceba que a formação do litisconsórcio ativo facultativo nos limites propostos não afetará a rápida solução do mandado de segurança, a etapa posterior à formação da coisa julgada material tem revelado dificuldades na liquidação dos julgados. Mesmo que o rito processual não comporte produção de prova diversa da documental, e ainda assim a pré-constituída, e o objeto proposto remete a matéria de direito, a jurisprudência nesta Corte tem admitido o alongamento do mandado de segurança para uma etapa de cumprimento de sentença contra a Fazenda Pública, como liquidação de julgados, o que recomenda tratamento individualizado por contribuinte.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VÍCIO NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LIMITAÇÃO DE LITISCONSORTES ATIVOS FACULTATIVOS. PRETENDIDO REEXAME DE CRITÉRIOS PARA O DESMEMBRAMENTO DO LITISCONSÓRCIO ELENCADOS NA ORIGEM. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO SINDICATO A QUE SE NEGA PROVIMENTO.
+1. Inexiste a alegada deficiência na prestação jurisdicional, dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. A corte de origem, ao elencar os motivos pelos quais a execução da sentença coletiva deveria ser promovida em litisconsórcio limitado, apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+2. Com efeito, o tribunal regional decidiu pela limitação do litisconsórcio por concluir que o cumprimento da sentença coletiva e a rápida solução da lide, observadas as situações individuais de cada legitimado, seriam comprometidos caso não se adotasse tal providência.
+3. Nesse contexto, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+4. Agravo interno do sindicato a que se nega provimento.
+(AgInt no AREsp n. 1.716.127/RS, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5, Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
