@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Rogerio Schietti Cruz e Antonio Saldanha Palheiro.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O desprovimento do agravo regimental foi fundamentado de modo suficiente, confirmando a decisão de não conhecimento do agravo em recurso especial em razão da incidência do óbice da Súmula n. 182 do STJ.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARIA ELIZÂNGELA COSTA LIMA contra acórdão assim ementado (fl. 520):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O agravo em recurso especial não foi conhecido em razão da ausência de impugnação dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial por incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem.
+3. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que no agravo em recurso especial não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+4. Agravo regimental improvido.
+A parte embargante afirma a ocorrência de vício no julgado, apontando as seguintes omissões acerca do que entende ser o mérito do recurso (fls. 529-530):
+Da simples leitura da fundamentação utilizada no acórdão embargado, verifica-se a existência de omissões porque deixou de apreciar os argumentos declinados no Agravo Regimental (fls. 486-492, nº 33 e vl. 1) que evidenciam o preenchimento dos requisitos do juízo de admissibilidade pela parte agravante, notadamente com todas as impugnações específicas da defesa contra a decisão recorrida em prol do afastamento do Enunciado nº 7 da Súmula do STJ, outrora alegado como óbice ao provimento.
+Reitera-se que a condenação criminal em face dos peticionantes não fora adequada em razão da presença de vícios insanáveis desde a citação dos ora embargantes, como também diante da ausência de dolo específico para condenação criminal no delito de duplicata simulada tipificado no art. 172 do CPB.
+In casu, a intitulada Resposta à Acusação acostada nas fls. 217-221 fora assinada por advogado sem procuração nos autos - que sequer trouxe tese de defesa ou de modalidade de prova, a exemplo de indicação do rol de testemunhas -, ocasião em que o recebimento da denúncia fora ratificado, mas sem a regularização da representação e sem a oportunização para saneamento do vício de ausência de defesa devidamente constituída.
+Some-se a isso, na audiência de instrução, outro causídico acompanhou o ato sem colacionar procuração ou substabelecimento, como também os defendentes não apresentaram manifestação oral dessa representação durante o interrogatório, não sendo também nomeado por parte do MM Juiz, em descompasso com a inteligência do art. 266 do CPP.
+Oportuno destacar que, mesmo com intimação do advogado, este não apresentou as alegações finais escritas, abandonando, portanto, o processo e os acusados, com respectiva remessa à Defensoria Pública.
+Pois bem, resta elucidado o erro in procedendo do Eg. Tribunal de Justiça do Estado do Ceará que não sanou a supracitada questão de ordem pública. Além disso, o acervo probatório constante nos fólios não vislumbra uma simulação ou venda inexistente, uma vez que, consoante testemunho do Sr. Aécio Flávio Ferraz Lúcio, a venda restou efetivamente realizada baseada na confiança. Ou seja, a emissão ou lançamento tardio da nota fiscal ao consumidor com as informações corretas e delineadas - descrição dos produtos, preços e quantidades - configura-se uma mera irregularidade na seara comercial.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O desprovimento do agravo regimental foi fundamentado de modo suficiente, confirmando a decisão de não conhecimento do agravo em recurso especial em razão da incidência do óbice da Súmula n. 182 do STJ.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, o agravo em recurso especial não enfrentou de modo suficiente os fundamentos que embasaram a decisão de inadmissão do recurso especial pela Corte de origem.
+Nesse contexto, as alegações relativas a fatos processuais ocorridos nas instâncias de origem, tais como as que procuram debater supostas irregularidades na fase de conhecimento, nem sequer chegaram a ser objeto do acórdão embargado, o que revela seu descompasso com o recurso manejado.
+Observe-se, a propósito, o que constou no voto condutor do acórdão recorrido (fls. 521-522):
+Conforme constou na decisão agravada, a inadmissão do recurso especial pelo Tribunal de origem teve por fundamento o óbice referido na Súmula n. 7 do STJ. Por seu turno, a análise das razões do agravo em recurso especial confirma que não houve enfrentamento suficiente da questão.
+Inadmitido o recurso especial com base na Súmula n. 7 do STJ, não basta ao recorrente afirmar genericamente que a pretensão recursal não envolveria o reexame do acervo fático-probatório dos autos, ainda que com menção à tese sustentada, porquanto seria necessário realizar o cotejo das premissas fáticas do acórdão recorrido. Nesse sentido: AgRg no AREsp n. 2.518. 475/SP, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024; e AgRg no AREsp n. 2.320.678/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/5/2024, DJe de 15/5/2024.
+Ressalte-se que, para atendimento do princípio da dialeticidade recursal, estabelece a lei processual que não será conhecido o agravo que "não tenha impugnado especificamente os fundamentos da decisão recorrida (CPC, art. 932, III), devendo a impugnação "ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia" (AgInt no AREsp n. 2.212.676/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023).
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos da causa, propósito inviável em embargos de declaração opostos contra acórdão confirmatório da decisão de não conhecimento do agravo em recurso especial, nada havendo que se possa acolher.
+Registro, em atenção ao princípio da cooperação, que a apresentação de novos aclaratórios que venham a ser considerados protelatórios poderá resultar no não conhecimento da insurgência, com o exaurimento da jurisdição desta Corte Superior e baixa imediata dos autos.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
