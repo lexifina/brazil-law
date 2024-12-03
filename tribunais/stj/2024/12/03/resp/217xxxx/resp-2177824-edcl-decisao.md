@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+Contudo Excelências, ao analisar a decisão proferida pelo Juízo a quo que ensejou a interposição do Agravo de Instrumento pela Caixa Econômica Federal, verifica-se que houve a inadmissão da intervenção de terceiros à lide, vejamos:
+(..)
+Desta forma, o recurso foi interposto com o objetivo de demonstrar a necessidade de intervenção da Caixa Econômica Federal na lide através de modalidade de intervenção de terceiros.
+O objetivo principal do agravo de instrumento interposto, repisa-se, não era de discutir qualquer questão relacionada à competência do Juízo de primeiro grau, mas sim o interesse da CEF em atuar no feito como as sistente litisconsorcial ou simples (modalidades de intervenção de terceiro previstas nos artigos 121 e seguintes do CPC).
+Nesse sentido, o fundamento de não conhecimento do Recurso Especial não pode ser consubstanciado na impossibilidade de violação ao art. 1.015, IX, do CPC, tendo em vista que a decisão do juiz sobre a aceitação ou recusa de intervenção de terceiros pode alterar o andamento e as responsabilidades dentro do processo, justificando o cabimento do Agravo de Instrumento para revisão da decisão.
+A imediata interposição do Agravo de Instrumento, permite corrigir erros na formação do polo ativo ou passivo do processo e assegura que o terceiro interveniente, caso admitido, possa exercer plenamente seu direito de defesa.
+Desta forma, requer-se o acolhimento dos embargos de declaração para sanar a omissão e contradição contidas na decisão a afim de conhecer o Recurso Especial e, posteriormente, provimento para manter os autos na Justiça Federal, em razão da decisão a quo violar o art. 1.015, IX, do CPC, ao não admitir a Caixa Econômica na lide.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Ademais, se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+A Recorrente, nas razões do recurso especial, sustenta que "resta claro o equívoco da decisão recorrida que não conheceu do agravo de instrumento interposto, que se enquadra perfeitamente na hipótese contida no inciso IX do artigo 1.015 do Código de Processo Civil."
+(..)
+Extrai-se do voto condutor do acórdão recorrido o entendimento segundo o qual o agravo de instrumento deveria ter sido interposto perante a Turma Recursal, e não no Tribunal Regional Federal, motivo pelo qual o recurso sequer fora conhecido.
+Para infirmar o referido fundamento, a Recorrente alega que "não obstante o fato de o magistrado da 1ª Vara Federal da Subseção Judiciária de Serra/ES cumular duas funções, sendo responsável pelo Juizado Especial Federal e também pela Vara da Justiça Federal, nota-se que a decisão recorrida foi proferida na qualidade de Juiz da 1ª Vara Federal da Subseção Judiciária de Serra/ES, tanto que na decisão há o declínio da competência para o Juizado Especial. Dessa forma, não há que se falar em competência da Turma Recursal para conhecimento da lide" (fl. 390)
+No caso dos autos, todavia, o dispositivo indicado como violado no recurso especial, vinculado à tese exposta, qual seja, o art. 1.015, IX, do CPC/15, não contém comando normativo suficiente a sustentar a tese recursal, vez que trata apenas de hipótese de cabimento do agravo de instrumento contra decisão que que admite ou inadmite a intervenção de terceiros, motivo pelo qual o apelo nobre não merece ser conhecido a teor da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+(..)
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
