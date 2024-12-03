@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+ACIDENTE DE TRÂNSITO - SUB-ROGAÇÃO DA SEGURADORA - CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - COLISÃO TRASEIRA - PRESUNÇÃO DE IRREGULARIDADE DO VEÍCULO DE TRÁS - AQUELE QUE CONDUZ VEÍCULO ATRÁS DE OUTRO DEVE FAZÊ-LO COM PRUDÊNCIA, OBSERVANDO A DISTÂNCIA E A VELOCIDADE DE MODO A EVITAR A COLISÃO - ART. 29, INC. II DO CTB - RECURSO DOS RÉUS NÃO PROVIDO - RECURSO DA AUTORA PROVIDO.
+Os embargos declaratórios opostos foram rejeitados.
+No recurso especial, as partes agravantes apontam violação do art. 1.022, I e II, do Código de Processo Civil, assim como divergência jurisprudencial. Alegam que houve negativa de prestação jurisdicional no caso.
+Sustentam que: "Desta forma, resta cabalmente demonstrado a violação expressa da norma federal, art. 1022, I e II do CPC/15. (Lei Federal nº 13.105/2015), eis que, o v. Acórdão recorrido de origem do TJSP, sem enfrentar a data do acidente e data de vigência da apólice de seguro que sustentaria o direito da Recorrida em sub-rogar-se no direito de seu segurado, fato nodal e princípio da lide, pois este fato comprova que o pagamento se deu por mera liberalidade, pois ausente apólice de seguro válida no dia do sinistro. A v. decisão da Corte a quo, aqui combatida merece total reforma, para proferir outra decisão, em aclaramento e supressão de ponto central dos fatos e direito aqui discutido" (e-STJ fls . 277-278).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante à alegação de ofensa ao art. 1.022 do Código de Processo Civil de 2015, verifico que não merece prosperar. Isso, porque não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelas partes recorrentes.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. (..).
+3. Agravo regimental não provido. (AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/02/2016, DJe 01/03/2016.)
+Nesse sentido, verifico que a Corte local decidiu a questão tratada na presente demanda de forma fundamentada, conforme se depreende da leitura do seguinte trecho (fls. 250-251):
+Inicialmente, não há que se falar em nulidade na r. sentença, tampouco em cerceamento de defesa nos moldes suscitados em sede recursal, pois as provas produzidas nos autos se mostram suficientes à solução da controvérsia, sendo prescindível maior dilação probatória e que não teriam o condão de alterar o resultado da lide.
+A solução antecipada, portanto, tem respaldo na previsão do art. 355, inciso I, do Código de Processo Civil, não ferindo preceitos constitucionais e legais, nem havendo negativa de prestação jurisdicional.
+(..).
+No mais, trata-se de acidente de trânsito ocorrido em 31.10.2019, quando o veículo Fiat GR Siena, ano 2015, de propriedade de Angelo Braz dos Santos, foi abalroado na parte traseira pelo veículo de placas GBF-1886, o qual foi projetado contra sua traseira devido ao impacto causado pelo automóvel Ford Fiesta, de propriedade de David Caceres Oliveira, conduzido por Kleber Barbosa dos Santos.
+A autora pagou pelo reparo do veículo Fiat GR Siena, dispendendo a quantia de R$ 9.405,64. Logo, evidente sua legitimidade para cobrar o reembolso do valor, nos temos do art. 786 do Código Civil: "para a indenização, o segurador sub-roga-se, nos limites do valor respectivo, nos direitos e ações que competirem ao segurado contra o autor do dano".
+De outra parte, embora, o réu sustente que o acidente foi ocasionado por uma frenada brusca à sua frente, não há nos autos elemento probatório a corroborar a assertiva no sentido de que a culpa pela ocorrência do evento não foi dele.
+Ao contrário, como declarou no Boletim de Ocorrência que: "transitava pela Avenida Presidente Castelo Branco sentido leste, onde ciclistas trafegavam na faixa do meio da via local, de repente o trânsito começou a ficar moroso por causa dos ciclistas, momento que tentou frear mas não houve tempo hábil onde veio a colidir com o veículo a frente na qual ocasionou o engavetamento com os demais veículos" (fls. 65).
+Ainda que assim não fosse, a colisão na traseira gera a presunção da irregularidade do veículo de trás, porquanto aquele que conduz veículo atrás de outro deve fazê-lo com prudência, observando a distância e a velocidade de tal forma que, em caso de parada do trânsito, consiga evitar uma colisão, conforme dispõe o artigo 29, inciso II do Código de Trânsito Brasileiro.
+Assim, observo que não se viabiliza o recurso especial pela indicada ofensa ao art. 1.022 do CPC/15, uma vez que, no presente caso, a Câmara julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção, com base nos elementos de prova que entendeu pertinentes. Se a decisão não correspondeu, no entanto, à expectativa da parte, não deve, por isso, ser imputado vício ao julgado.
+A propósito, nesse sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ- FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+(..).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.608.804/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20.10.2016, DJe 27.10.2016.)
+Nesse sentido, constato que o Tribunal de origem entendeu que: "De outra parte, embora, o réu sustente que o acidente foi ocasionado por uma frenada brusca à sua frente, não há nos autos elemento probatório a corroborar a assertiva no sentido de que a culpa pela ocorrência do evento não foi dele" (fls. 250-251).
+Assim, a alteração dessas premissas firmadas pela Corte estadual esbarraria nas vedações de reexame do conjunto fático-probatório por esta via do recurso especial, o que é inviável, diante da incidência da Súmula 7 desta Corte, no caso.
+Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO. CULPA EXCLUSIVA DA VÍTIMA. AUSÊNCIA. DANO MORAL. VALOR RAZOÁVEL. REVISÃO. SÚMULA Nº 7/STJ.
+1. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos (Súmula nº 7/STJ).
+2. Na hipótese, rever a conclusão do acórdão recorrido acerca da ausência de comprovação de culpa exclusiva da vítima e da fixação de valor razoável como indenização por danos morais é providência que esbarra na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.308.292/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. PRESTADORA DE SERVIÇO PÚBLICO. NÃO CONFIGURAÇÃO. CULPA EXCLUSIVA DA VÍTIMA. EXCLUDENTE DO NEXO CAUSAL. REVISÃO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Para a caracterização da responsabilidade civil, antes de tudo, há de existir e estar comprovado o nexo de causalidade entre o evento danoso e a conduta comissiva ou omissiva do agente e afastada qualquer das causas excludentes do nexo causal, tais como a culpa exclusiva da vítima ou de terceiro, o caso fortuito ou a força maior. Precedente.
+2. Rever o entendimento do tribunal de origem acerca da culpa exclusiva da vítima demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.161.843/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CULPA EXCLUSIVA DA VÍTIMA NÃO COMPROVADA. VALOR ARBITRADO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas a julgamento foram decididas, pelo Tribunal de origem, mediante fundamentação clara e suficiente, sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao art. 1.022, incisos I e II, do Código de Processo Civil.
+2. A Corte estadual, ao decidir a controvérsia, amparou seu entendimento nas circunstâncias fático-probatórias inerentes à causa, concluindo pela caracterização da culpa atribuída à recorrente pela ocorrência do evento danoso, bem como pela não configuração de causas excludentes da responsabilidade civil.
+Indenização por dano moral fixada em quantia que se encontra dentro dos parâmetros estabelecidos na jurisprudência do STJ.
+3. Inviável, em recurso especial, reexaminar matéria fático-probatória. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.252.028/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes do art. 1029, § 1º, do Código de Processo Civil/2015. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
