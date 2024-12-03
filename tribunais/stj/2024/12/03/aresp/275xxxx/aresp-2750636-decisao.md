@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual MARIA JOSE DE JESUS SANTOS se insurgira contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 331):
+PREVIDENCIÁRIO. SEGURADO ESPECIAL. BENEFÍCIO DE APOSENTADORIA POR IDADE. SEGURADA DETENTORA DE BENEFÍCIO DE APOSENTADORIA POR INVALIDEZ. CUMULAÇÃO. IMPOSSIBILIDADE. ART. 124, II DA LEI N. 8.213/91. REQUISITOS. NÃO PREENCHIMENTO.
+1- Apelação contra sentença que, em ação ordinária em que o autor objetivava a concessão do benefício de aposentadoria por idade, de segurada especial, julgou improcedente o pedido ao fundamento de que o benefício de aposentadoria por invalidez percebido pela requerente por decisão judicial, em 2020, anterior ao ajuizamento da presente ação, é inacumulável com o benefício de aposentadoria por idade. Condenação da parte autora em custas e honorários advocatícios no percentual de 10% sobre o valor da causa, suspendendo a exigibilidade na forma do art. 98, § 3º do CPC, além de multa por litigância de má-fé.
+2- Na espécie, a autora obteve um benefício de aposentadoria por invalidez por meio de decisão judicial, desde em 2020. Posteriormente, ingressa em Juízo com a presente ação pleiteando a aposentadoria por idade, de segurada especial, sob alegação de que exercia o labor agrícola por mais de 15 anos.
+3- Na espécie, além das contradições na petição inicial com os elementos constantes nos autos, a autora omitiu desse Juízo que em demanda anterior obteve um benefício de aposentadoria por invalidez, desde 2020. F ato demonstrado pelo INSS em sua peça de defesa.
+4- O artigo 124, inciso II, da Lei n 8.213/91 veda a percepção cumulativa de mais de uma aposentadoria à conta do Regime Geral de Previdência Social, sendo ressalvada a opção pelo benefício mais vantajoso , o que inocorreu no presente caso, vez que a autor a sequer mencionou na inicial que já era percebia uma aposentadoria por invalidez, desde 2020, omitindo, pois, a referida informação.
+5- Manutenção da sentença que julgou improcedente o pedido de concessão de aposentadoria por idade, de segurada especial, e condenou a demandante em custas, honorários e litigância de má-fé, ficando suspensa a exigibilidade, a teor do art. 98, § 3º do CPC.
+6- Apelação improvida.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente aponta violação do art. 124, II, da Lei 8.213/1991, defendendo que possui direito à opção pelo benefício mais vantajoso. Logo, embora receba aposentadoria por invalidez, tem direito a pleitear a aposentadoria por idade rural, sem que isso implique percepção de mais de uma aposentação, o que é vedado por lei.
+A parte adversa apresentou contrarrazões (fls. 375/381).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O Tribunal de origem manteve a sentença de improcedência, adotando a seguinte fundamentação (fl. 339):
+Como se observa, o autor obteve um benefício de aposentadoria por invalidez por meio de decisão judicial, desde em 2020. Posteriormente, a demandante ingressa em Juízo com a presente ação pleiteando a aposentadoria por idade, de segurada especial, haja vista exercer o labor agrícola por mais de 15 anos.
+De fato, como bem destacou o Juiz de piso, além das contradições nas alegações da autora em sua petição inicial, haja vista afirmar que exerceu atividades rurais pelo tempo exigido para aposentação, omitiu desse Juízo que em demanda anterior (202164001910) obteve um benefício de aposentadoria por invalidez, desde 2020. Fato demonstrado pelo INSS em sua peça de defesa.
+O artigo 124, inciso II, da Lei n 8.213/91 veda a percepção cumulativa de mais de uma aposentadoria à conta do Regime Geral de Previdência Social, sendo ressalvada a opção pelo benefício mais vantajoso, o que inocorreu no presente caso, vez que o autor sequer mencionou na inicial que já era detentor de uma aposentadoria por invalidez, desde 2020, omitindo, pois, a referida informação.
+Com essas considerações, é de se manter a sentença que julgou improcedente o pedido de concessão de aposentadoria por idade, de segurada especial, e condenou a demandante em litigância de má-fé.
+Do exposto, nego provimento à apelação.
+A despeito de haver menção expressa ao art. 124, II, da Lei 8.213/1991, a tese recursal não foi apreciada, já que não houve discussão acerca do direito ao melhor benefício. Diante dessa omissão, deveria a parte opor embargos de declaração, o que não foi feito.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
