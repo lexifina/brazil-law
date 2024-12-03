@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (e-STJ, fls. 355-380), com fundamento artigo 105, inciso III, alínea "a", da Constituição da República, em oposição a acórdão proferido pelo respectivo Tribunal de Justiça (e-STJ, fls. 332-348).
+Em suas razões recursais, a parte recorrente aponta violação do art. 387, IV, todos do CPP e art. 91 do CP.
+Defende, em suma, a possibilidade de reparação de danos morais coletivos decorrentes da prática do crime de tráfico de entorpecentes, ainda que não detenha vítima determinada.
+Ressalta que "basta a comprovação do ato ilícito contra a coletividade, que, no caso de infrações penais, é reconhecida na sentença condenatória, que o dano restará configurado."
+Alega que "o Superior Tribunal de Justiça, por unanimidade de sua Sexta Turma, também entendeu, com fundamento apenas no art. 387, IV, do Código de Processo Penal, que é cabível a condenação por danos morais, com dispensa de produção de prova específica, sem alargamento da instrução criminal".
+Instada, a defesa não apresentou contrarrazões.
+O recurso especial foi admitido na origem (e-STJ, fls. 385-387).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 400-405).
+É o relatório.
+Decido.
+O pedido não comporta guarida.
+Embora, de fato, seja em tese cabível a fixação do montante mínimo para indenizar danos morais na forma do art. 387, IV, do CPP, nem todos os requisitos para tanto foram cumpridos no caso concreto. Afinal, para permitir essa liquidação parcial do dano, a Quinta Turma deste STJ tem exigido, além do pedido expresso na denúncia e da instrução a seu respeito, a quantificação do valor pretendido pela acusação, de modo a permitir o amplo exercício do contraditório, bem como instrução específica a seu respeito.
+Vejam-se, nesse sentido, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME AMBIENTAL. VIOLAÇÃO DOS ARTS. 91, I, DO CP; 63, CAPUT E PARÁGRAFO ÚNICO, E 387, IV, DO CPP. PLEITO DE ESTABELECIMENTO DE REPARAÇÃO MÍNIMA PELOS DANOS MORAIS COLETIVOS CAUSADOS PELA INFRAÇÃO. NECESSÁRIA PROVA SUFICIENTE A RESPALDAR TAL PEDIDO. 1. Esta Corte Superior firmou entendimento de que não há óbice para que o Magistrado fixe o valor da reparação mínima com base em dano moral sofrido pela vítima (art. 387, IV, do CPP). No entanto, quando se trata de dano moral coletivo, essa possibilidade deve ser verificada no caso concreto, com instrução processual específica que demonstre a relevância do dano causado à sociedade e a razoabilidade do valor fixado, porquanto o dano moral coletivo somente se configurará se houver grave ofensa à moralidade pública, objetivamente considerada, causando lesão a valores fundamentais da sociedade e transbordando da tolerabilidade (EREsp n. 1.342.846/RS, Ministro Raul Araújo, Corte Especial, DJe 3/8/2021). 2. Agravo regimental desprovido. (AgRg no REsp n. 2.055.996/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. CONDENAÇÃO DO RÉU AO PAGAMENTO DE INDENIZAÇÃO À TÍTULO DE DANOS À VÍTIMA. ART. 387, IV, DO CÓDIGO DE PROCESSO PENAL. REQUISITOS NÃO PREENCHIDOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Nos termos da orientação jurisprudencial desta Corte Superior, para a reparação de danos nos moldes do disposto no art. 387, IV, do CPP, além de pedido expresso, é preciso a indicação de valor e prova suficiente a sustentá-lo, possibilitando ao réu o direito de defesa com indicação de quantum diverso ou mesmo comprovação de inexistência de prejuízo material ou moral a ser reparado, requisitos não atendidos no caso. 3. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 2.469.769/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+No caso dos autos, a denúncia realmente pediu a fixação do valor indenizatório mínimo.
+Entretanto, não indicou o valor e não foi realizada instrução específica a seu respeito
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
