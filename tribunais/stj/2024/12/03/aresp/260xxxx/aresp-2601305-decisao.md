@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual COSAN S.A. se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 529):
+APELAÇÃO MEIO AMBIENTE EMBARGOS À EXECUÇÃO FISCAL PRESUNÇÃO DE LEGALIDADE E LEGITIMIDADE DO AUTO DE INFRAÇÃO NÃO AFASTADA Ato administrativo baseado no poder de polícia ambiental, que goza de presunção de legalidade e legitimidade, não ilidida no caso dos autos Autuação formalizada por meio da "Escala Ringelmann" Possibilidade Aplicação da regra prevista no art. 32, caput, do Decreto Estadual nº 8.468/76 Nível de fumaça observado pelo fiscal que se manteve no padrão 3 durante os 25 minutos de observação, não havendo elementos probatórios capazes de demonstrar a emissão de fumaça com opacidade dentro dos limites legais Subsistência do auto de infração lavrado RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 553/562).
+Nas razões de seu recurso especial, a parte ora agravante alega violação ao art. 369 do Código de Processo Civil (CPC), ao argumento de que houve cerceamento do direito de defesa pelo indeferimento de prova pericial (laudo técnico complementar) que visava comprovar a ausência de irregularidades na emissão de fumaça.
+A parte adversa apresentou contrarrazões (fls. 205/208).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+O art. 139 do Código de Processo Civil (CPC) estabelece que ao juiz compete a condução do processo. Isso quer dizer que, mediante a análise das questões trazidas aos autos e considerando o quadro probatório existente, poderá o magistrado, a fim de formar sua convicção, decidir pela necessidade ou não da realização de determinadas provas (arts. 370 e 371 do CPC).
+Na hipótese ora sob análise, em que foi indeferida a produção de prova pericial por laudo técnico, não há como prosperar a tese de violação à legislação processual, visto que o Tribunal de origem, ao assim proceder, entendeu, de maneira motivada, que a produção de tal prova seria desnecessária e irrelevante ao deslinde da controvérsia.
+Para melhor esclarecer a questão, cito os seguintes excertos do acórdão recorrido, sem prejuízo dos demais (fl. 560):
+Como se vê, o V. Acórdão recorrido reconheceu a legalidade da verificação da emissão de "fumaça preta" de forma visual por agentes da Cetesb ou da polícia militar em distância variável entre 20 e 50 metros, mediante a utilização da "Escala reduzida de Ringelmann" - cartão cuja aplicação é regulada pela norma NBR 6.016 da ABNT), sendo desnecessário qualquer laudo técnico adicional, conforme precedentes das Câmaras Reservadas ao Meio Ambiente deste E. Tribunal de Justiça.
+A manutenção da decisão proferida anteriormente pelo D. Juízo de primeiro grau determinando a juntada de laudo técnico pela parte embargada nos autos do Agravo de Instrumento nº 2219550-70.2017.8.26.0000 visava obter maiores elementos de convencimento, nos exatos limites da fundamentação exposta (fls. 428/432).
+Em nenhum momento a validade do auto de infração foi condicionada à apresentação do laudo técnico mencionado, inexistindo qualquer contradição com o decidido anteriormente, como alegado pela embargante.
+Desse modo, o reexame da questão esbarraria no teor da Súmula 7/STJ. A propósito:
+ADMINISTRATIVO, AMBIENTAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA COMPLEMENTAR. INDEFERIMENTO FUNDAMENTADO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. De acordo com a jurisprudência desta Corte, nos termos dos arts. 130 e 131 do CPC, cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado, deferindo ou indeferindo a produção de novas provas.
+2. A Corte local, com base nos elementos probatórios da demanda, consignou ser desnecessária a repetição da perícia. Assim, a alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, o reexame de matéria fática, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.384.527/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 21/8/2015.)
+PROCESSUAL CIVIL. AÇÃO DE INVENTÁRIO. PRELIMINARES DE ILEGITIMIDADE ATIVA, FALTA DE INTERESSE RECURSAL E PRECLUSÃO AFASTADAS PELO TRIBUNAL DE ORIGEM. NECESSIDADE DE REALIZAÇÃO DE NOVA PERÍCIA VERIFICADA A PARTIR DA ANÁLISE DOS ELEMENTOS DE CONVICÇÃO DOS AUTOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E DA DIVERGÊNCIA SUSCITADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONTROVÉRSIA DIRIMIDA À LUZ DAS CIRCUNSTÂNCIAS DO CASO CONCRETO.
+ ..
+6. O STJ tem entendimento firmado, com base nos arts. 130 e 131 do CPC, de que cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado, deferindo ou indeferindo a produção de novas provas. Incidência do óbice da Súmula 7/STJ. Precedentes do STJ.
+ ..
+(AgInt no AREsp n. 854.405/MS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2016.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
