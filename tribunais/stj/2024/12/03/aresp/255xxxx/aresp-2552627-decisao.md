@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 278, §1º, da Lei 6.404 c/c 265, 884 e 944, parágrafo único, do Código Civil; 489, §1º, IV, 70 e 75 do Código de Processo Civil c/c 33, V, da Lei 8.666/93; 489, §1º, IV, do CPC, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fls. 419 - 420):
+Apelação Cível. Relação de consumo. Ação de Responsabilidade Civil. Queda de passageira no interior de ônibus, sofrendo lesões leves, após o veículo em que se encontrava ter colidido com a traseira de outro ônibus que estava estacionado. Sentença de improcedência da pretensão autoral, sob o fundamento de ausência de prova. Apelação interposta pela autora.
+Preliminar de ilegitimidade aduzida em Contrarrazões pelos Consórcios réus, ora apelados. Não conhecimento.
+Tese de ilegitimidade passiva que foi afastada em decisão saneadora. Juízo a quo que, após o término da fase instrutória, julgou o pleito autoral improcedente por inexistência de dano moral e falta de provas.
+Demandados que não apelaram, acatando o julgado.
+Mérito. Responsabilidade civil objetiva da concessionária de serviço público de transporte de passageiros, na forma do artigo 37, parágrafo 6º da Constituição da República.
+Comprovação, nos autos, do dano e do nexo causal, não havendo excludentes de responsabilidade - culpa exclusiva ou concorrente da vítima, fato de terceiro, ou caso fortuito ou força maior - surgindo o dever de indenizar.
+Autora que, durante a prestação do serviço de transporte, interrompido pelo acidente, sofreu pancada na cabeça e teve que ser levada ao Hospital Municipal Lourenço Jorge, com indicação para realização de RX de face.
+Evento danoso que se deu por colisão do coletivo na traseira de outro ônibus, o que indica possível imprudência e/ou imperícia do condutor.
+Fato que ultrapassa o mero aborrecimento em situações do cotidiano. Indenização por dano moral ora arbitrada, cujo valor respeita os critérios de razoabilidade e de proporcionalidade e o artigo 944 do Código Civil. Provimento parcial da Apelação.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 459):
+Embargos de Declaração. Supressão de omissão. Alegação em contrarrazões de preliminar de ilegitimidade passiva dos réus, não conhecida no Acórdão. Matéria que deve ser apreciada pelo Colegiado.
+Legitimidade dos consórcios. Precedente do Superior Tribunal de Justiça. Na hipótese de responsabilidade derivada de relação de consumo, afasta-se a regra geral da ausência de solidariedade entre as consorciadas por força da disposição expressa contida no artigo 28, parágrafo 3º do Código de Defesa do Consumidor. Provimento dos embargos declaratórios, para conhecer a preliminar de ilegitimidade passiva e rejeitá-la, mantendo-se, no mérito, o Acórdão como lançado.
+A parte agravante sustenta que há responsabilidade solidária entre as consorciadas, e não entre estas e o consórcio, conforme já reconhecido pelo Superior Tribunal de Justiça.
+Ressalta que o consórcio não possui personalidade jurídica própria e, por essa razão, não tem legitimidade para figurar na presente demanda.
+Argumenta que, no contrato plurilateral celebrado entre as sociedades empresárias consorciadas, fica evidente que não há responsabilidade atribuída ao consórcio, sendo clara a ausência de qualquer menção nesse sentido. Dessa forma, são as consorciadas (e não o consórcio) que respondem solidariamente.
+Pontua que, considerando tratar-se de uma mera ação indenizatória, na qual nem sequer houve produção de provas além daquelas apresentadas com a petição inicial, o magistrado de primeira instância equivocou-se ao fixar os honorários advocatícios em 15% (quinze por cento) sobre o valor da condenação. Argumenta que o percentual deve ser reduzido para o mínimo legal de 10% (dez por cento).
+Assim posta a questão, passo à decisão.
+Inicialmente, no que se refere à alegada violação ao artigo 489 do CPC/2015, verifico que não há nenhuma omissão ou ausência de fundamentação na análise das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos apresentados pelas partes, bastando que expresse adequadamente o seu convencimento. No caso, o exame dos fatos controvertidos, ao qual o magistrado está obrigado, encontra-se devidamente fundamentado nas razões do acórdão recorrido.
+Sobre a responsabilidade solidária do consórcio, o Tribunal de origem entendeu às fls. 423 - 424 - destaquei:
+Primeiramente, não se conhece a preliminar de ilegitimidade passiva aduzida pelos apelados em suas Contrarrazões, já que não suscitada pela via própria.
+A preliminar foi afastada pela decisão saneadora de indexador 222 e o Juízo a quo, após o término da fase instrutória, prolatou a Sentença aqui recorrida, sob o fundamento de inexistência de comprovação do direito autoral. Veja que os réus/apelados acataram o Decisum, já que não apelaram.
+Nesse sentido, a preliminar restou irrecorrida, não cabendo o seu conhecimento. Passa-se a analisar o apelo, que merece parcial provimento.
+A hipótese deve ser analisada à luz do artigo 37, parágrafo 6º da Constituição da República, pois se trata de concessionária de serviço público de transporte coletivo de passageiros. No caso em tela, o acidente narrado na inicial restou comprovado pela descrição no Registro de Ocorrência e termos de declaração dos motoristas dos dois coletivos, colhidos no dia do acidente (fls. 16, 24 e 26, indexador 09), bem como pelo BRAT (indexador 187), onde consta a autora como vítima da colisão (fl. 191).
+Por sua vez, analisando-se a narrativa autoral em conjunto com o receituário médico de fl. 300, indexador 298, enviado pelo Hospital Municipal Lourenço Jorge, cujo documento não oferece elementos capazes de medir a extensão do dano sofrido pela vítima ("paciente relata trauma nasal após acidente de ônibus - apresenta edema em região nasal"), constata-se que as lesões suportadas pela demandante foram leves. Mas isso não significa que o evento danoso não tenha gerado dano moral indenizável, considerando o evidente abalo emocional provocado na vítima do acidente.
+A autora, durante a prestação do serviço de transporte contratado, interrompido pelo acidente, sofreu pancada na cabeça e teve que ser levada ao Hospital Municipal Lourenço Jorge, com indicação de realização de RX de face, não terminando o seu trajeto incólume.
+Cabe também consignar que, embora se esteja diante de responsabilidade objetiva do transportador, onde não se persegue a culpa, o acidente se deu por colisão do coletivo em que viajava a consumidora na traseira de outro ônibus, o que indica possível imprudência e/ou imperícia do condutor.
+Tal fato deve ser levado em conta na fixação da indenização por danos morais. Logo, merece ser rechaçada a fundamentação do Juízo sentenciante de que o dano inexiste e/ou não teria sido provado, vez que dissociada do conjunto probatório dos autos.
+Quanto à verba indenizatória, o valor de R$3.000,00 ora arbitrado respeita os critérios de proporcionalidade e razoabilidade e o artigo 944 do Código Civil, considerando as particularidades do caso concreto, tratando-se de acidente no interior de coletivo com ferimentos leves.
+A correção monetária deve incidir a partir deste julgado e os juros de mora, a partir da citação.
+Por isso, a Apelação prospera em parte.
+Com o provimento do apelo, inverte-se a sucumbência. Despesas processuais e honorários advocatícios de 15% sobre o valor da condenação devidos pelos réus/apelados, na forma do artigo 85, parágrafos 2º e 11 do Código de Processo Civil.
+Com efeito, observo que a decisão impugnada entendeu que não se conhece da preliminar de ilegitimidade passiva aduzida pelos recorrentes em suas contrarrazões, já que não suscitada pela via própria. A preliminar foi afastada pela decisão saneadora de indexador 222 e o Juízo a quo, após o término da fase instrutória, prolatou a s entença aqui recorrida, sob o fundamento de inexistência de comprovação do direito autoral. Veja que os réus/apelados acataram a decisão, já que não apelaram. Ocorre, entretanto, que a parte recorrente não impugnou tais fundamentos, o que atrai o óbice previsto na Súmula 283 do STF.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 282, 283, 284 E 356/STF E 7/STJ.
+ .. .
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1711630/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/08/2021, DJe 18/08/2021).
+Quanto ao percentual de honorários, sua revisão exigiria o reexame dos elementos fático-probatórios, o que é vedado no estreito âmbito do recurso especial, conforme dispõe a Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
