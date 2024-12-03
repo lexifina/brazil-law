@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 212):
+RECURSO DE APELAÇÃO E REEXAME NECESSÁRIO EM AÇÃO DE OBRIGAÇÃO DE FAZER - INTERNAÇÃO COMPULSÓRIA PARA TRATAMENTO DE DEPENDÊNCIA QUÍMICA - DEVER DE ASSEGURAR A SAÚDE PÚBLICA - ART. 196 DA CONSTITUIÇÃO FEDERAL - COM O PARECER, REEXAME NECESSÁRIO E RECURSO VOLUNTÁRIO CONHECIDOS E NÃO PROVIDOS. I - É uníssono o entendimento tanto deste egrégio Tribunal de Justiça Estadual, como do Superior Tribunal de Justiça, que todos os Entes Federados (União, Estados e Municípios) são partes legítimas para responderem demandas em que visam à condenação em obrigação de fazer, substanciada no fornecimento de medicamento ou outras prestações de saúde (alimentação especial, por exemplo). II - Comprovada a necessidade do tratamento para dependente químico hipossuficiente financeiramente, mediante internação e posterior tratamento ambulatorial, devem o ente públicos fornecê-lo, por força de ordem constitucional (artigo 196 da CF).
+Nas razões de seu recurso especial, a parte ora agravante indica violação ao art. 4º, XXI, da Lei Complementar 80/1994, ao argumento de que a Defensoria Pública tem direito de receber honorários advocatícios de qualquer ente público, independentemente de sua relação com o órgão.
+A parte ora agravada apresentou as contrarrazões (fls. 349/355).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A irresignação não comporta conhecimento.
+Compulsando os autos, verifico que o art. 4º, XXI, da Lei Complementar 80/1994, e a tese a ele vinculada, não foram apreciados pelo Tribunal de origem, embora tenha sido objeto dos embargos de declaração opostos às fls. 243/260.
+Ao rejeitar os embargos, a Corte estadual consignou que não houve recurso voluntário diante da sentença que não condenou o ente público ao pagamento de verba honorária para a Defensoria Pública, inexistindo, portanto, omissão a ser sanada, já que a matéria havia sido oportunamente submetida ao Tribunal (fls. 273 e 301):
+Isto p orque, a matéria questionada sequer foi objeto do recurso voluntário e a remessa necessária tem por escopo o resguardo do interesse público, garantindo a reanálise da matéria nas hipóteses previstas em lei, sempre que proferida sentença contrária à Fazenda Pública.
+Assim, não tendo havido condenação do Estado de Mato Grosso do Sul ao pagamento dos honorários sucumbenciais em favor da Defensoria Estadual, era desnecessária a análise de tal ponto da sentença, seja em sede de remessa necessária, seja na análise do recurso voluntário que não devolveu, por óbvio a matéria.
+
+O acórdão deve ser mantido por seus próprios e jurídicos fundamentos, não havendo razão para o exercício do juízo de retratação no caso concreto.
+Isso porque, não houve interposição de recurso de apelação pelo autor ou pela Defensoria Pública Estadual para estender-se a condenação em verba honorária ao Estado de Mato Grosso do Sul no caso em tela. Ademais, os embargos de declaração sequer foram acolhidos, já que inexistente omissão quanto ao tema no acórdão que julgou o recurso voluntário do Estado de Mato Grosso do Sul e o reexame necessário.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do CPC, o que não foi feito no caso dos autos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
