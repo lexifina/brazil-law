@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto por NELSON ALBERTO PULICE contra decisão da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial por entender que não houve impugnação específica a todos os fundamentos da decisão que não admitiu o recurso especial (e-STJ, fls. 1.117/1.118).
+Nas razões do agravo interno, a parte agravante sustenta que impugnou os fundamentos da decisão agravada demonstrando que não é parte do processo utilizado pelo Tribunal de origem para determinar, após mais de 20 anos de lide, a extinção do processo sem a devida instrução processual.
+Aduz, ainda, a não apreciação pelo Tribunal de origem de matéria de ordem pública.
+Impugnação às fls. 1.150/1.164, e-STJ.
+Diante da análise das razões do recurso, verifico que os óbices aplicados na decisão de inadmissibilidade foram devidamente impugnados, de modo que reconsidero a decisão recorrida e passo à nova análise do agravo em recurso especial.
+Cuida-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 673):
+AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. ILEGITIMIDADE PASSIVA. EXISTÊNCIA DE AÇÃO DE INTERDITO PROIBITÓRIO. REFERENTE À MESMA ÁREA QUESTIONADA NA PRESENTE AÇÃO REIVINDICATÓRIA. RECURSO CONHECIDO E PROVIDO.
+1. O magistrado a quo reconheceu a ilegitimidade passiva e incluiu o nome da agravante como parte requerida no processo, determinando o prosseguimento do feito e a realização de perícia e outras diligências.
+2. A agravante relata a existência de uma Ação de Interdito Proibitório (autos n. 5001977-90.2011.827.2729) que tem por objeto a mesma área questionada na presente ação reivindicatória.
+3. Do compulsar da peça recursal nota-se assistir razão a ensejar a suspensão da decisão agravada, eis que verificada a pendência de julgamento de outra causa com o mesmo objeto (ação anulatória nº 1000536-63.2019.4.01.4300) perante a Justiça Federal, para que se evitem decisões conflitantes entre as demandas (ação reivindicatória e a ação anulatória).
+4. Agravo de instrumento conhecido e provido para suspender a decisão combatida até o julgamento da ação anulatória nº 1000536- 63.2019.4.01.4300 perante a Justiça Federal de Palmas.
+Opostos embargos de declaração, foram parcialmente acolhidos para corrigir erro material, sem a alteração do resultado do julgamento (e-STJ, fls. 807/808).
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 557 do Código de Processo Civil/2015, sustentando "que a mera menção processual do andamento da ação possessória de origem no Piauí, não é suficiente para que fosse verificado "em concreto" a pendência de ação possessória anterior e sobre mesma área e mesmas partes da ação reivindicatória no estado do Tocantins, como bem determinou-se no teor da decisão proferida no Recurso Especial n. 2031528 - TO" (e-STJ, fl. 952).
+Aduz que é "necessário que seja verificado em concreto as circunstâncias que nos termos da citada decisão não estavam claras, em especial em razão da litigiosidade da área objeto da demanda, havendo claros "elementos que apontam que a área objeto do litígio é extremamente litigiosa por conflitos agrários"" (e-STJ, fl. 952).
+Defende que, caso não verificada a aplicação da norma do art. 557 do CPC/2015, a posse ad interdicta sequer é oponível contra a ação reivindicatória.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice da Súmula 7 do STJ.
+A parte, então, opôs embargos de declaração pretendendo o reconhecimento da análise de questão de ordem pública, sustentando que o Tribunal de origem sequer apreciou, ou se manifestou, sobre os supostos autos em trâmite no Tribunal de Justiça do Piauí, sendo o principal fato, e o mais óbvio, o de que o embargante não integra o polo passivo daquela lide, sob nº 0000046- 85.2000.8.18.0042 (e-STJ, fls. 1.007/1.023).
+A Desembargadora Relatora rejeitou os embargos de declaração em razão da "impropriedade da via impugnativa ora utilizada, não sendo possível sequer a aplicação do princípio da fungibilidade, tendo em vista que a norma processual é extremamente clara e precisa com relação à modalidade de recurso cabível em face da decisão que não admite os recursos constitucionais, o que afasta a possibilidade de existência de dúvida razoável quanto ao recurso a ser interposto nesta situação" (e-STJ, fls. 1.060/1.062).
+A parte agravante, então, interpôs o presente agravo em recurso especial requerendo a apreciação da matéria de ordem pública.
+Assim delimitada a controvérsia, passo a decidir.
+O agravo em recurso especial não merece ser conhecido.
+Nos termos da jurisprudência desta Corte "os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial na origem, não interrompem, em regra, o prazo para a interposição do agravo, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, inviabilizando-o totalmente de interpor o agravo". Confira-se:
+EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS DO DEVEDOR. RECURSO ESPECIAL INADMITIDO NO TRIBUNAL DE ORIGEM. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. INTERPOSIÇÃO TEMPESTIVA DE AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA AFASTADA. RETORNO DOS AUTOS PARA JULGAMENTO DO RECURSO.
+1. Ação de embargos do devedor.
+2. O propósito recursal é dirimir suposta divergência com relação à ocorrência de preclusão consumativa nas hipóteses em que são opostos embargos de declaração contra a decisão do Tribunal de origem que inadmite o recurso especial, e, em seguida, é interposto, tempestivamente, o agravo previsto no art. 1.042 do CPC/2015.
+3. A Corte Especial já decidiu que "os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial na origem, não interrompem, em regra, o prazo para a interposição do agravo, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, inviabilizando-o totalmente de interpor o agravo" (AgInt nos EAREsp 166.402/PE, Corte Especial, julgado em 19/12/2016, DJe 07/02/2017).
+4. Hipótese em que, seguidamente à oposição dos embargos de declaração, a recorrente interpôs o agravo em recurso especial ainda dentro do prazo legal, razão pela qual deve ser reformado o acórdão embargado para afastar a preclusão consumativa e, por conseguinte, determinar o retorno dos autos à Segunda Turma, a fim de prosseguir no julgamento do recurso.
+5. Embargos de divergência conhecidos e providos.
+(EAREsp n. 2.039.129/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 21/6/2023, DJe de 27/6/2023.)
+Por isso, de fato, sua oposição de embargos de declaração não interrompe o prazo para interposição do agravo em recurso especial, devendo seu recurso de agravo em recurso especial ser considerado intempestivo.
+Em face do exposto, reconsiderando a decisão de fls. 1.117/1.118, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
