@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de demonstração da ofensa aos arts. 26, II, da Lei n. 9.656/1998, 206, § 1º, II, b, e 405 do CC/2002, e 1º, § 2º, da Lei n. 6.899/1981, da alegação de violação de normas constitucionais, de ter sido feita apenas menção genérica de ofensa à Lei n. 10.741/2003 e de não se aplicar ao caso o Tema 952 do STJ (e-STJ fls. 670/672).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 521):
+PLANO DE SAÚDE - Contrato coletivo - Pretensão de afastamento de reajustes anuais - A cláusula que prevê nesses contratos o reajuste por aumento da sinistralidade e por variação dos custos médico-hospitalares tem sido aceita pela jurisprudência, todavia, exige-se a comprovação do aumento dos índices de sinistralidade e a elevação dos custos, bem como da sua correlação com a fórmula prevista - Validade que se condiciona ao respeito à Lei 9.656/98 e ao CDC, não sendo permitida aplicação de índices de reajuste desarrazoados ou aleatórios, que oneram demasia o segurado - Rés que não demonstraram a origem dos reajustes aplicados e a sua razoabilidade - Aplicação dos índices divulgados pela ANS que se faz necessária - Devolução dos reajustes pagos a maior - Repetição do indébito somente das prestações pagas a maior no período de três anos (art. 206, § 3º, IV, do CC/2002; art. 219, caput e § 1º, CPC/1973; art. 240, § 1º, do CPC/2015) - Declaração da nulidade dos reajustes que é imprescritível - Necessidade de aviso prévio de 60 dias prevista no artigo 17, parágrafo único, da RN nº 195/2009 - Revogação pela RN de 30/03/2020 - Contrato firmado entre as partes e pedido de cancelamento, contudo, que são anteriores à nova legislação - Irretroatividade da nova norma - Exigibilidade das mensalidades vencidas no período de 60 dias em que a parte contratante estava obrigada ao seu pagamento - Sentença reformada em parte, apenas para reconhecer a imprescritibilidade da pretensão declaratória da nulidade dos reajustes, mantida a prescrição trienal para a restituição dos valores - Recurso da ré desprovido - Recurso da autora provido em parte.
+Os embargos de declaração foram rejeitados (e-STJ fls. 585/589 e 634/637).
+Nas razões do recurso especial (e-STJ fls. 546/572), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais: arts. 5º, LV e XXXVI, da CF/1988, 26, II, da Lei n. 9.656/1998, 206, § 1º, II, "b", e 405 do CC/2002, 1º, § 2º, da Lei n. 6.899/1981 e Lei n. 10.741/2003.
+Insurge-se contra as seguintes conclusões da Corte local (e-STJ fl. 524/525):
+ ..  ante a ausência de prova do aumento da sinistralidade e da elevação dos custos médico-hospitalares, impõe se o afastamento dos reajustes anuais questionados, determinando que a ré promovam o recálculo dos valores considerando os índices de reajustes anuais determinados pela ANS.
+..
+ ..  fica mantida a prescrição trienal apenas quanto à restituição dos valores decorrentes em excesso, conforme fundamentação do acórdão, pontuando-se que a pretensão declaratória é imprescritível.
+A parte afirma:
+(i) violação das Leis n. 9.656/1998 e 10.741/2003, uma vez que:
+a. "o v. Acórdão violou a impossibilidade de aplicar as Leis nº 9.656/98 e 10.741/03 de forma retroativa aos contratos celebrados anteriormente à vigência destas" (e-STJ fl. 571);
+a. O acórdão ora recorrido fundamenta a declaração da nulidade do reajuste por mudança de faixa etária aplicado pela Recorrente no Estatuto do Idoso, que em seu art. 15 vedaria a aplicação do reajuste em razão do aumento da idade aos consumidores com mais de sessenta anos de idade;
+(ii) ofensa ao art. 5º, LV e XXXVI, da CF/1988;
+(iii) contrariedade ao art. 206, § 1º, II, "b", do CC/2002, defendendo que:
+a. a pretensão do segurado contra o segurador prescrevia em 1 (um) ano contado da ciência do fato pelo interessado (e-STJ fls. 557);
+b. não há qualquer escopo de admissibilidade da pretensão da Recorrida, eis que, no presente caso, ocorreu o Principio da Supressio Legis, ao passo que  .. , ao não impugnar na época da aplicação do reajuste, anuiu tacitamente com a sua imposição (e-STJ fls. 569); e
+(iv) afronta aos arts. 405 do CC/2002 e 1º, § 2º, da Lei n. 6.899/1981 (e-STJ fls. 550).
+No agravo (e-STJ fls. 675/693), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 719/732 (e-STJ).
+A parte CURUMIM PRODUÇÕES ARTÍSTICAS LTDA. também interpôs recurso especial (e-STJ fls. 592/607), o qual foi inadmitido. Diante disso, foi interposto agravo em recurso especial (e-STJ fls. 695/711), que será apreciado em apartado.
+É o relatório.
+Decido.
+A controvérsia tem origem no aumento da mensalidade do plano de saúde coletivo empresarial com menos de 30 usuários e na recusa da operadora em apresentar documentos hábeis a comprovar a sinistralidade.
+O reajuste acumulado de 2016 a 2019 foi de 91%, enquanto o total acumulado de reajustes autorizados pela ANS para o mesmo período para os planos individuais/familiares foi de 52%.
+A estipulante pleiteou, na origem, "sejam afastados os reajustes por sinistralidade incidentes na apólice da Requerente, substituindo-os pelos índices de reajustes anuais autorizados pela ANS" (e-STJ fl. 16), restituindo-se "os valores pagos indevidamente" (e-STJ fl. 17).
+O Juízo de origem julgou parcialmente procedente o pedido da autora, nos seguintes termos (e-STJ fls. 407):
+1-) DECLARAR nula a cláusula de reajuste por sinistralidade e/ou VCMH do contrato celebrado  .. , sendo aplicáveis, em substituição, ao caso os reajustes estabelecidos pela Agência Nacional de Saúde  .. ; e
+2-) CONDENAR a requerida à restituição dos valores cobrados em descompasso com essa decisão, de forma simples, sendo limitado o período a ser restituído a partir de 12/12/2016,  .. .
+O Tribunal a quo reformou a sentença apenas para "reconhecer a imprescritibilidade da pretensão declaratória da nulidade dos reajustes, mantida a prescrição trienal para a restituição dos valores" (e-STJ fl. 529).
+(I) Verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base no art. 35-E da Lei n. 9.656/1998 e na Lei n. 10.741/2003 - que vedam reajuste por faixa etária para os idosos -, porque o caso dos autos não versa sobre faixa etária, mas sobre reajuste por sinistralidade.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+(II) Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+(III) Quanto à prescrição, o STJ consolidou, pelo rito dos recursos especiais repetitivos, o entendimento de que se aplica a prescrição trienal à pretensão de repetição de indébito deco rrente da declaração de abusividade de cláusula de reajuste de plano de saúde, conforme Tema Repetitivo n. 610/STJ, abaixo transcrito:
+Tema Repetitivo n. 610/STJ - Na vigência dos contratos de plano ou de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista prescreve em 20 anos (art. 177 do CC/1916) ou em 3 anos (art. 206, § 3º, IV, do CC/2002), observada a regra de transição do art. 2.028 do CC/2002.
+O acórdão recorrido, ao concluir que "fica mantida a prescrição trienal apenas quanto à restituição dos valores decorrentes em excesso, conforme fundamentação do acórdão, pontuando-se que a pretensão declaratória é imprescritível" (e-STJ fl. 525), está de acordo com a tese acima transcrita, não sendo aplicável ao caso, portanto, na prescrição ânua do art. 206, § 1º, II, "b", do CC/2002.
+Quanto à tese de "supressio legis" (e-STJ fl. 569), a parte não indica qual dispositivo de lei federal teria sido violado, o que caracteriza deficiência na fundamentação, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+(IV) A parte alega genericamente violação dos arts. 405 do CC/2002 e 1º, § 2º, da Lei n. 6.899/1981, não havendo, portanto, demonstração clara e inequívoca da infração, o que caracteriza fragilidade na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Diante do exposto, CONHEÇO do agravo e CONHEÇO EM PARTE do recurso especial para, nessa parte, NEGAR-LHE PROVIMENTO.
+Deixo de aplicar o art. 85, § 11, do CPC, porque os honorários advocatícios devidos pela ora agravante alcançaram, na origem, o patamar de 20% do art. 85, § 2º, caput, do CPC.
+Publique-se e intimem-se.
+EMENTA
