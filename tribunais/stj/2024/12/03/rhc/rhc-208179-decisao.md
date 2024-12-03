@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por ANDERSON BRAGA DA SILVA, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"Habeas corpus. Execução de pena. Decisão que revoga a Ementa prisão domiciliar. Violação deliberada da monitoração eletrônica. Legalidade da medida. Ordem denegada.
+I. Caso em exame
+1. Habeas Corpus contra decisão que revogou prisão domiciliar em razão de descumprimento de medidas. O impetrante pleiteia a concessão da ordem alegando que o descumprimento da monitoração eletrônica se deu em razão do estado de necessidade.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se estão presentes os requisitos para a manutenção da prisão domiciliar.
+III. Razões de decidir.
+3. O descumprimento voluntário das obrigações e regras do monitoramento eletrônico durante o benefício da prisão domiciliar sujeita a revogação da medida.
+IV. Dispositivo
+4. Habeas Corpus conhecido e ordem denegada." (e-STJ, fls. 222-223).
+Em suas razões, o recorrente alega que lhe foi deferida a prisão domiciliar, com monitoramento eletrônico, em abril de 2023 e, durante o período em que usufruiu do benefício, apresentou bom comportamento, fez cursos, priorizando a convivência familiar e não cometeu faltas ou se envolveu em atividades ilícitas.
+Afirma ser o único provedor da família. Aduz que, no mês em que foi novamente recolhido ao CPP, estava realizando um trabalho de pintura em Brazlândia/DF e utilizou um aparelho para cortar o sinal da tornozeleira. Assevera que, ao retornar do serviço, foi abordado pela polícia, para qual afirmou que se encontrava trabalhando.
+Argumenta que a decisão que restabeleceu o regime fechado carece de fundamentação, eis que se embasa na "gravidade em abstrato do delito, mediante a repetição dos dispositivos legais e a utilização de fórmulas retóricas, que, em tese, serviriam para qualquer situação" (e-STJ, fl. 269). Ressalta, ainda, que foi contrariado o princípio da proporcionalidade.
+Obtempera que não foram enfrentados os argumentos da defesa no sentido da ausência de ilicitude pela configuração do estado de necessidade.
+Requer, inclusive liminarmente, que seja expedido o alvará de soltura.
+É o relatório.
+Decido.
+De acordo com o entendimento desta Corte, "nos termos do art. 146-C, I, da LEP, o apenado submetido a monitoramento eletrônico tem que observar as condições e limites estabelecidos para deslocamento.
+No caso dos autos, observa-se que a cassação da prisão domiciliar com monitoramento eletrônico ocorreu devido ao ato deliberado do apenado em bloquear o sinal da tornozeleira eletrônica. Ao desrespeitar as condições impostas por ocasião do deferimento do benefício, o reeducando desrespeitou ordem recebida, o que configura a falta grave, passível, pois, de regressão de regime prisional, conforme decidiram as instâncias ordinárias.
+Vale acrescentar que o exame dos motivos pelos quais o recorrente efetuou a ruptura da fiscalização eletrônica importa no revolvimento de matéria fático-probatória, providência inviável na via eleita.
+Corroboram esse entendimento os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. FALTA GRAVE. ROMPIMENTO DA TORNOZELEIRA ELETRÔNICA DURANTE CUMPRIMENTO DA PENA EM REGIME SEMIABERTO. APENADO SEM FISCALIZAÇÃO ATÉ A SUA PRISÃO. PERDA NA FRAÇÃO MÁXIMA DE DIAS REMIDOS. JUSTIFICATIVA CONCRETA. IRRESPONSABILIDADE E DESCASO. AUSÊNCIA DE COMUNICAÇÃO À JUSTIÇA SOBRE A ALEGADA AMEAÇA, A QUAL, INCLUSIVE, NÃO FOI COMPROVADA. RECURSO IMPROVIDO.
+1.  ..  Firmou-se neste Tribunal jurisprudência no sentido de que a natureza especialmente grave da falta disciplinar (fuga) justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEP). 5. Habeas corpus não conhecido. (HC n. 465.565/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/9/2018, DJe de 2/10/2018.)
+2. No caso, as instâncias de origem se embasaram no fato praticado pelo sentenciado, que se reveste de extrema gravidade, eis que o descumprimento das condições do monitoramento eletrônico (rompimento da tornozeleira e permanência sem fiscalização até ser novamente preso) e a condição de evadido revela a falta de comprometimento e disciplina para execução da pena no regime semiaberto.
+3- Agravo regimental não provido." (AgRg no HC n. 895.932/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. COMETIMENTO DE FALTA GRAVE. VIOLAÇÃO DA TORNOZELEIRA ELETRÔNICA. PERDA DA COMUNICAÇÃO. FUGA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A teor dos precedentes desta Corte, a violação da tornozeleira eletrônica, o descarregamento total da bateria, a perda da comunicação com o sistema configura falta grave, nos termos dos arts. 50, II da LEP, pois o apenado, com sua conduta, descumpre as ordens do servidor responsável pela monitoração e impede a fiscalização da execução da pena.
+2. As instâncias ordinárias consideraram inacreditáveis as alegações de que houve perda de sinal de GPS do aparelho de monitoramento eletrônico. A modificação desse entendimento demandaria aprofundado exame do acervo fático-probatório do processo de execução, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental desprovido." (AgRg no HC n. 821.741/GO, de minha relatoria, Quinta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+"RECURSO EM HABEAS CORPUS. FALTA GRAVE. REGIME SEMIABERTO HARMONIZADO. REGRESSÃO DE REGIME. REALIZAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. DESNECESSIDADE. REPERCUSSÃO GERAL. TEMA 941. DECISÃO FUNDAMENTADA. RAZOABILIDADE. DESCUMPRIMENTO REITERADO DA REGRAS ESTABELECIDAS PARA O MONITORAMENTO ELETRÔNICO. ILEGALIDADE. AUSÊNCIA. APRECIAÇÃO DOS MOTIVOS DO DESCUMPRIMENTO DA MEDIDA. IMPOSSIBILIDADE. NECESSIDADE DE EXAME APROFUNDADO DE FATOS E PROVAS. RECURSO IMPROVIDO.
+1. O Supremo Tribunal Federal, no julgamento do RE n. 972.598/RS (Tema 941da repercussão geral), em sessão plenária virtual finalizada em 30/4/2020, fixou a seguinte tese: A oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena.
+2. Em conformidade com o atual entendimento do Supremo Tribunal Federal, não se verifica a ocorrência de manifesta ilegalidade se a audiência de justificação for realizada na presença do defensor e do Ministério Público, na qual tenha sido assegurado os preceitos constitucionais do devido processo legal e o regular exercício do direito do contraditório e da ampla defesa.
+3. Não se verifica manifesta ilegalidade na regressão de regime prisional, devidamente fundamentada na prática de falta grave, nos termos do art. 50, VI, c/c o 39, V, e 146-C, todos da LEP, tendo em vista o descumprimento reiterado das regras estabelecidas para o monitoramento eletrônico, tendo o reeducando violado por 111 vezes o perímetro estabelecido.
+4. Estando devidamente fundamentada, com base na prova dos autos, a aplicação da falta grave pela Corte de origem, a pretendida revisão do julgado, com a análise dos motivos do descumprimento das regras estabelecidas para o monitoramento eletrônico, demandaria o revolvimento fático-probatório, inviável na estreita via do habeas corpus.
+5. Recurso em habeas corpus improvido." (RHC n. 135.013/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 2/2/2021, DJe 8/2/2021).
+Dessa forma, não há flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
