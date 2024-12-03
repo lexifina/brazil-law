@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por Gilberto Francisco Dias e Outros com fundamento no artigo 105, III, alínea "a", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região (TRF da 2ª Região), assim ementado (fl. 46, e-STJ):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MODIFICAÇÃO DE CRITÉRIO DE CÁLCULO. CORREÇÃO MONETÁRIA. PRECLUSÃO. RECURSO DESPROVIDO.
+1. Trata-se de agravo de instrumento interposto pelos exequentes da decisão que, em fase de cumprimento de sentença, indeferiu o pedido de retificação dos cálculos dos atrasados.
+2. O título exequendo determinou que os atrasados fossem corrigidos monetariamente consoante o disposto no art. 1º-F da Lei 9.494/97, com redação dada pela Lei 11.960/09, a partir de sua vigência.
+3. O INSS apresentou cálculo dos valores devidos, que foi impugnado tão somente em relação ao benefício percebido por Nilton Pereira do Canto, em razão de o INSS ter aplicado sobre o salário de benefício o percentual de 95%.
+4. O Juízo rejeitou a impugnação apresentada pelos exequentes e fixou para o cumprimento de sentença os valores apontados no cálculo do INSS.
+5. Após o envio das Requisições de Pamento a este Tribunal e a juntada dos Demonstrativos de Pagamento, os autores foram novamente intimados, mas quedaram-se inertes. Assim, ocorreu a preclusão relativa à impugnação dos cálculos apresentados para fim de cumprimento de sentença.
+6. Agravo de instrumento desprovido.
+Embargos de declaração rejeitados (fls. 86-89, e-STJ).
+Nas razões do recurso especial a parte recorrente aponta afronta ao art. 927, I e III, do CPC e, inclusive, a inaplicabilidade do óbice da coisa julgada prevista no art. 502 do CPC. Sustenta que a correção monetária por constituir-se em matéria de ordem pública, é cognoscível de ofício em qualquer grau de jurisdição e em qualquer juízo, não estando, portanto, vinculada ao que restou fixado no título executivo judicial, mormente em se tratando de comando emanado dos Tribunais Superiores - TEMA 810/STF e TEMA 905/STJ, que, em sede de repercussão geral, julgou a matéria de modo diverso, não havendo que se falar em violação à coisa julgada, em respeito também ao art. 927, III do CPC/15. (fls. 103-106).
+Contrarrazões às fls. 110-111, e-STJ.
+Juízo positivo de admissibilidade às fls. 455-456, e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se, que de acordo com os Enunciados Administrativos ns. 02 e 03 desta Corte Superior de Justiça, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015. No caso aplica-se o CPC/2015, haja vista que o acórdão recorrido foi publicado em 27/10/2021.
+Dito isso, da leitura do apelo especial verifica-se que, a despeito da parte recorrente apontar ofensa aos arts. 927, I e III e 502 do CPC, não logrou apresentar argumentação clara e precisa e individualizada, de forma a demonstrar a tese jurídicas diretamente relacionadas a tais dispositivos, porquanto citados de forma genérica.
+A indicação, por si só, de artigos de lei federal ou da Constituição Federal supostamente não debatidos não demonstra a alegada violação de lei federal pelo acórdão recorrido. Incide ao caso a Súmula 284/STF.
+Nesse sentido:
+"À parte incumbe manifestar a sua irresignação com dialética suficiente para evidenciar eventual desacerto do pronunciamento atacado, sob pena de, não o fazendo, ter o seu recurso fadado ao insucesso. Aplicação do princípio da dialeticidade e do enunciado sumular 284/STF (AgRg no Ag 1419927/CE, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 10/05/2013)".
+Além do mais verifica-se que a tese em torno dos dispositivos tidos por violados não foi analisada pelo acórdão recorrido, o que impede o conhecimento do presente recurso, por ausência do indispensável prequestionamento.
+A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+Convém ressaltar que, na hipótese, não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pela recorrente em relação aos dispositivos em exame. Com efeito, nas razões do seu apelo nobre, o recorrente não apontou ofensa ao art. 1022 do CPC/2015.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DOS ARTS. 927, I E III E 502 DO CPC. ARGUMENTAÇÃO DEFICIENTE E AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 284/STF E 211/STJ. RECURSO NÃO CONHECIDO.
