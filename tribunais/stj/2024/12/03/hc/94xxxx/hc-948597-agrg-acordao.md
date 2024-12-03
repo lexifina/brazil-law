@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. TRATAMENTO DE SAÚDE. ESTRUTURA DA INSTITUIÇÃO PRISIONAL. ALTERAR O ENTENDIMENTO DA ORIGEM. NECESSIDADE DE REEXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. SUPOSTO CUMPRIMENTO DA PENA EM ESTABELECIMENTO INADEQUADO. POSTERIOR REGRESSÃO. PREJUDICIALIDADE. RECURSO DESPROVIDO.
+1. No caso, as instâncias ordinárias ressaltaram que o apenado passou por avaliação médica, não tendo a defesa comprovado a ausência de estrutura da unidade prisional para realizar o seu tratamento de saúde. Para rever o entendimento da origem seria necessário o revolvimento fático-probatório, providência incabível na via eleita. Precedentes.
+2. A alteração do contexto fático-processual do apenado, motivada pela sua regressão cautelar ao regime fechado, prejudica a discussão acerca da alegação de cumprimento de pena em estabelecimento incompatível com o regime semiaberto.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VALDOMIRO SANTANA RODRIGUES contra decisão singular que indeferiu liminarmente o habeas corpus.
+O agravante reitera a tese de que deve ser beneficiado com a prisão domiciliar porque "possui patologia crônica esquelética, apresentando levoescoliose, osteófitos marginais, redução dos espaços intervertebrais L3-L4 e L4-L5 e esclerose subcondral das articulações interapofisárias" (fl. 100), não havendo estrutura para ser tratado na unidade prisional, e em razão da ausência de estabelecimento adequado ao cumprimento da pena em regime semiaberto.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. TRATAMENTO DE SAÚDE. ESTRUTURA DA INSTITUIÇÃO PRISIONAL. ALTERAR O ENTENDIMENTO DA ORIGEM. NECESSIDADE DE REEXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. SUPOSTO CUMPRIMENTO DA PENA EM ESTABELECIMENTO INADEQUADO. POSTERIOR REGRESSÃO. PREJUDICIALIDADE. RECURSO DESPROVIDO.
+1. No caso, as instâncias ordinárias ressaltaram que o apenado passou por avaliação médica, não tendo a defesa comprovado a ausência de estrutura da unidade prisional para realizar o seu tratamento de saúde. Para rever o entendimento da origem seria necessário o revolvimento fático-probatório, providência incabível na via eleita. Precedentes.
+2. A alteração do contexto fático-processual do apenado, motivada pela sua regressão cautelar ao regime fechado, prejudica a discussão acerca da alegação de cumprimento de pena em estabelecimento incompatível com o regime semiaberto.
+3. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pela agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Conforme relatado, busca-se, no presente writ, a concessão da prisão domiciliar ao agravante.
+No ponto, asseverou o Tribunal a quo:
+" ..
+Quanto ao estado de saúde do sentenciado, conforme relatório médico de sequencial 427.1 (SEEU), vislumbra-se que ele apresenta quadro de patologia crônica esquelética, sem possibilidade de regressão da enfermidade, devendo ser afastado de suas atividades laborativas.
+A despeito disso, o médico especialista que assiste o sentenciado declara categoricamente que tal comorbidade física não impede o cumprimento da pena por este na unidade prisional.
+Além disso, a Defesa não demonstra que a unidade prisional não tem condições de garantir adequado tratamento médico ao sentenciado.
+ ..
+Quanto ao mais, em consulta aos autos do processo de execução, vislumbra-se que houve a regressão cautelar do sentenciado ao regime fechado em 22.07.2024, conforme decisão de sequencial 463.1 do SEEU" (fl. 19).
+Verifica-se que as instâncias ordinárias ressaltaram que o apenado passou por avaliação médica, não tendo a defesa comprovado a ausência de estrutura da unidade prisional para realizar o tratamento de saúde do ora agravante. Para rever o entendimento da origem seria necessá rio o reexame fático-probatório, providência incabível na via eleita.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE PRISÃO DOMICILIAR. CONDENADO IDOSO EM CUMPRIMENTO DE PENA NO REGIME FECHADO. HIPERTENSÃO ARTERIAL. ALEGADA AUSÊNCIA DE TRATAMENTO ADEQUADO NO SISTEMA PRISIONAL NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
+1. A prisão domiciliar, em princípio, só é admitida quando se tratar de preso inserido no regime aberto, ex vi, do art. 117, da Lei n.º 7.210/84. Excepcionalmente, porém, o Superior Tribunal de Justiça tem entendido que, mesmo no caso de regime prisional mais gravoso ou prisão provisória, é possível a concessão de prisão domiciliar, em face de comprovada doença grave, se o tratamento médico necessário não puder ser ministrado no estabelecimento prisional em que o apenado estiver recolhido (AgRg no REsp n. 1672664/RO, rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/11/2017, DJe 29/11/2017).
+2. No caso dos autos, o Tribunal de origem asseverou que, embora o condenado tenha comprovado ser portador de hipertensão arterial estágio 3, não há elementos indicativos da inviabilidade do tratamento no interior do sistema prisional, ou de que a sua transferência para prisão domiciliar possa surtir efeitos positivos em seu quadro crônico.
+3. No contexto, não é possível obter conclusão diversa sem a incursão no acervo fático-probatório, providência vedada em recurso especial, conforme o teor da Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1262999/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 26/6/2018; sem grifos no original.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. FALTA GRAVE. REGRESSÃO CAUTELAR DE REGIME. ALEGADA INOCORRÊNCIA DA INFRAÇÃO. NECESSIDADE DE REVOLVIMENTO DO MATERIAL PROBATÓRIO. IMPOSSIBILIDADE NO REMÉDIO CONSTITUCIONAL. PLEITO DE PRISÃO DOMICILIAR PARA TRATAMENTO DE SAÚDE (DIABETES). CUIDADOS MÉDICOS NO ESTABELECIMENTO PRISIONAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Na espécie, o juízo das execuções deferiu pedido ministerial de regressão cautelar do regime de cumprimento da pena, pois o paciente, em prisão domiciliar, teria, sem autorização judicial, se ausentado da comarca onde cumpria sua pena.
+Desse modo, não há, no habeas corpus - remédio constitucional de rito célere que exige prova pré-constituída -, como modificar as premissas estabelecidas nas instâncias ordinárias, diante da necessidade do revolvimento de todo material probatória, o que é vedado na sede mandamental.
+2. Por outro lado, embora comprovado pelos impetrantes que o paciente é portador de diabetes, não ficou demonstrado a ausência de tratamento do paciente no estabelecimento prisional onde se encontra, a justificar a aplicação de medidas excepcionais de abrandamento do rigor penitenciário.
+3. Agravo regimental improvido.
+(AgRg no HC n. 683.328/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/9/2021; sem grifos no original.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO DOMICILIAR. PACIENTE ACOMETIDO POR DOENÇAS GRAVES. IMPOSSIBILIDADE DE TRATAMENTO NO ÂMBITO DO SISTEMA PRISIONAL NÃO RECONHECIDA PELA CORTE DE ORIGEM. REVOLVIMENTO DO ACERVO PROBATÓRIO. NECESSIDADE. MEDIDA INCOMPATÍVEL COM A VIA ELEITA. AGRAVO IMPROVIDO.
+1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal.
+Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, excepcionalmente, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+2. Não se identifica a presença de ilegalidade flagrante na hipótese em que Tribunal a quo entendeu pela compatibilidade de seguimento do tratamento médico no âmbito do sistema prisional, apontando, inclusive, a existência de perícia realizada pelo Instituto Médico Legal conclusiva no sentido de que o tratamento de que o apenado necessita poderia ser administrado no interior do estabelecimento penal, bem assim que, o reeducando, quando recolhido no estabelecimento prisional, vinha realizando o correto acompanhamento da moléstia com médicos especialistas.
+3. A alteração do entendimento firmado pelas instâncias de origem, de sorte a viabilizar o acolhimento da pretensão deduzida no presente writ, demanda revolvimento do conjunto fático-probatório, providência sabidamente incompatível com a estreita via do habeas corpus.
+4. Agravo regimental improvido.
+(AgInt no HC 437.786/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 23/5/2018; sem grifos no original.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE DROGA. ESPECIAL GRAVIDADE DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. REQUERIMENTO DE PRISÃO DOMICILIAR. SITUAÇÃO DE PANDEMIA. ART. 318, INCISO II, DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE COMPROVAÇÃO DA EXTREMA DEBILIDADE POR MOTIVO DE DOENÇA GRAVE E DA INCOMPATIBILIDADE ENTRE O TRATAMENTO MÉDICO E O ENCARCERAMENTO. ILEGALIDADE NÃO EVIDENCIADA. CONTEXTO DE RISCO AFASTADO. AGRAVO DESPROVIDO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida.
+2. A instância ordinária afirmou a inexistência de excepcionalidade a demonstrar a possibilidade de concessão de prisão domiciliar ao ora Agravante, ante a ausência de comprovação de que ele esteja extremamente debilitado e de que o estabelecimento prisional não possui condições de oferecer o tratamento adequado, de modo que o indeferimento da prisão domiciliar está amparado na jurisprudência desta Corte Superior, segundo a qual, à luz do disposto no art. 318, inciso II, do Código de Processo Penal, o Acusado deve comprovar o grave estado de saúde e a incompatibilidade entre o tratamento de saúde e o encarceramento.
+3. A ausência de comprovação do grave estado de saúde e da incompatibilidade entre o tratamento de saúde e o encarceramento, associada à informação de que o estabelecimento prisional adotou medidas para evitar a contaminação dos presos, são fundamentos suficientes para afastar a tese de incompatibilidade da prisão em estabelecimento prisional com a situação de pandemia.
+4. Para a inversão das conclusões da instância a quo, seria necessário proceder ao revolvimento fático-probatório dos autos, o que não é cabível na via estreita do habeas corpus.
+5. Agravo regimental desprovido.
+(AgRg no HC 658.099/GO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 5/ 5/2021; sem grifos no original.)
+Por fim, a alteração do contexto fático-processual do apenado, motivada pela sua regressão cautelar ao regime fechado, prejudica a discussão acerca da alegação de cumprimento de pena em estabelecimento incompatível com o regime semiaberto.
+Ante o exposto, voto pelo des provimento do recurso.
