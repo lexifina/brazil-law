@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO PARÁ contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido a acórdão prolatado na Apelação n. 0800523-27.2019.8.14.0105.
+Na origem, a parte agravada propôs Embargos à Execução de Título Extrajudicial em desfavor do Estado do Pará, sustentando a nulidade da execução, por falta de liquidez, certeza e exigibilidade, bem como que o exequente não teria se desincumbido de instruir a petição inicial com o demonstrativo de débito atualizado. O Juízo de primeiro grau extinguiu o feito sem resolução do mérito. O Tribunal de origem deu provimento à Apelação da parte autora. O acórdão ficou assim ementado (fl. 180):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ACOLHIMENTO. EXTINÇÃO DO FEITO EXECUTIVO. DESCUMPRIMENTO DO ART. 798 DO CPC. DEMONSTRATIVO DO DÉBITO DESATUALIZADO E INCOMPLETO. OPORTUNIDADE DE CORREÇÃO. AUSÊNCIA DE VIOLAÇÃO DO ART. 10 DO CPC.
+1. O juízo de primeiro grau acolheu os Embargos à Execução do apelado e extinguiu o feito executivo movido pelo Estado do Pará sob o fundamento de descumprimento dos preceitos do art. 798 do CPC.
+2. Embora a jurisprudência do Superior Tribunal de Justiça seja pacífica quanto à possibilidade de emenda da inicial (art. 321 do CPC) para adequação do demonstrativo do débito às exigências legais, importa ressaltar que no presente caso foi oportunizado ao apelante a correção do demonstrativo do débito em sua Manifestação aos Embargos.
+3. Não obstante, na referida Manifestação o apelante se limitou a defender o cabimento da execução e a listar os documentos obrigatórios que deveriam instruir a inicial, anexando o mesmo demonstrativo do débito desatualizado e incompleto que havia sido apresentado no feito executivo.
+4. Assim, não há que se falar em decisão surpresa e violação ao art. 10 do CPC, eis que o juiz decidiu com base em fundamento a respeito do qual deu às partes a oportunidade de se manifestar.
+5. Recurso CONHECIDO e DESPROVIDO.
+Opostos embargos declaratórios pela parte agravante, foram rejeitados pelo acórdão de fls. 208-216.
+No recurso especial, a parte agravante apontou ofensa aos arts. 321, parágrafo único, 485, inc. I e 798, inc, I, b e parágrafo único, inc. I e II, do CPC, sustentando ter apresentado a memória de cálculos "na petição inicial da execução, bem como na impugnação aos Embargos à Execução, demonstrando de maneira analítica a composição e a evolução do valor exequendo, com a indicação de todos os seus acréscimos" (fl. 225). Defende, ainda, que "o juízo deveria ter necessariamente ordenado ao Estado do Pará que emendasse a inicial da Execução" (fl. 227).
+Por fim, requer o provimento do recurso.
+Oferecidas contrarrazões (fls. 232-239), inadmitiu-se o recurso na origem (fls. 241-244), advindo o presente agravo (fls. 246-253), contraminutado às fls. 255-256.
+É o relatório.
+Decido.
+O voto condutor do acórdão recorrido foi assim fundamentado (fls. 183-184, sem grifos no original):
+Após a análise dos autos, verifico que o juízo de primeiro grau extinguiu sem resolução do mérito a Ação de Execução de Quantia Certa fundada em Título Executivo Extrajudicial movida pelo Estado do Pará (ID 5679693), sob o fundamento de que o cálculo apresentado no momento da propositura da ação não estaria atualizado, bem como não indicaria os índices de correção monetária e percentual de juros utilizados, em desacordo aos preceitos do art. 798 do CPC, in verbis:
+ ..
+Nesse tocante, importa ressaltar que a jurisprudência do Superior Tribunal de Justiça é pacífica quanto à aplicabilidade do art. 321 2  do CPC em sede de execução, a fim de viabilizar a adequação do demonstrativo do débito às exigências legais:
+ ..
+No presente caso, contudo, não houve a extinção do processo in limine, tendo sido oportunizado ao Estado do Pará a correção do demonstrativo do débito em sua Manifestação aos Embargos, nos quais a questão relativa ao descumprimento do art. 798 do CPC havia sido suscitada.
+Não obstante, na referida Manifestação o apelante se limitou a defender o cabimento da execução e a listar os documentos obrigatórios que deveriam instruir a inicial, anexando o mesmo demonstrativo do débito que havia sido apresentado no feito executivo (ID 5679702).
+Desta feita, considerando que o referido demonstrativo foi atualizado até 05/02/2018, enquanto a execução fora proposta em 07/05/2019 (ID 5679693), e que nele somente constavam os valores utilizados para fins de correção e juros de mora, mas não o seu embasamento, resta incontroverso o não preenchimento dos requisitos do art. 798, inciso I, "b" e parágrafo único, incisos I e II, do CPC.
+Depreende-se do trecho acima transcrito que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, e é certo asseverar que, na moldura delineada, infirmar o entendimento firmado no aresto impugnado a respeito da deficiência do demonstrativo de débito apresentado, da existência de intimação ao Estado para regularizar a situação e da inércia do exequente em fazê-lo passar por revisitar o acervo probatório, o que é vedado em Recurso Especial consoante a Súmula n. 7 deste Superior Tribunal de Justiça.
+Ante o exposto, CON HEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 143), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL . ACÓRDÃO DO TRIBUNAL DE CONTAS ESTADUAL. DEMONSTRATIVO DO DÉBITO DESATUALIZADO E INCOMPLETO. OPORTUNIDADE DE CORREÇÃO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
