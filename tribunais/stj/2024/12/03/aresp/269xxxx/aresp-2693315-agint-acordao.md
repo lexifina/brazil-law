@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Votaram com o Sr. Ministro Ricardo Villas Bôas Cueva os Sr. Ministros Humberto Martins (Presidente) e Moura Ribeiro. Não participaram do julgamento a Sra. Ministra Nancy Andrighi e o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  AUSÊNCIA.  IMPUGNAÇÃO.  ART.  932,  III,  DO  CPC.  RAZÕES  GENÉRICAS.  PRINCÍPIO  DA  DIALETICIDADE.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  Código  de  Processo  Civil).
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+ Trata-se  de  agravo  interno  interposto  por  ROSILÂNDIA GONÇALVES OLIVEIRA  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  agravo  em  recurso  especial  em  virtude  da  falta  de  impugnação  específica  de  fundamentos  da  decisão  agravada,  a  saber:  ausência de prequestionamento e ausência de indicação dos acórdãos paradigmas a ilustrar a divergência (e-STJ fl. 1.013).
+Em suas razões  (e-STJ  fls  .  1.018/1.023),  a agravante  argumenta  que  impugnou de forma específica todos os fundamentos que ensejaram a inadmissão do recurso especial.
+Defende  que  o tribunal de origem "Em nenhum momento a Agravante se furtou a atacar cada um dos fundamentos da decisão recorrida, conforme demonstrado na peça de Agravo em Recurso Especial, que deve ser lida em sua integralidade para a correta análise dos pontos impugnados" (e-STJ fl. 1.021).
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Devidamente intimada, a parte agravada ofereceu impugnação (e-STJ fls. 1.032/1.036).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  AUSÊNCIA.  IMPUGNAÇÃO.  ART.  932,  III,  DO  CPC.  RAZÕES  GENÉRICAS.  PRINCÍPIO  DA  DIALETICIDADE.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  Código  de  Processo  Civil).
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+O  art.  932,  III,  do  Código  de  Processo  Civil  impõe  ao  relator  não  conhecer  do  recurso  "(..)  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida".
+No  caso,  conforme  consignado  na  decisão  atacada,  o  agravo  em  recurso  especial  não  rebateu  de  maneira  específica  o  fundamento  referente  à  ausência de prequestionamento e de indicação dos acórdãos paradigmas para comprovar a divergência jurisprudencial.
+Cumpre  destacar  que  a  impugnação  da  decisão  atacada  deve  ser  clara  e  suficiente  para  demonstrar  o  equívoco  em  sua  negativa,  o  que  não  ocorreu  na  espécie,  visto  que  os agravantes  apenas  alegaram  de  forma  genérica  que  o  acórdão  era  nulo  por  omissão.
+Esse  é,  inclusive,  o  entendimento  pacífico  desta  Corte  Superior,  formulado  no  sentido  de  que  é  dever  da  parte  agravante  atacar  especificamente  todos  os  fundamentos  da  decisão  agravada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo,  não  bastando  para  tanto  a  impugnação  genérica,  parcial  ou  a  reiteração  das  razões  do  recurso  anterior.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO  DE  RESCISÃO  DE  CONTRATO  DE  PROMESSA  DE  COMPRA  E  VENDA  DE  IMÓVEL.  INDENIZAÇÃO.  DANOS  MATERIAIS.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  A  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  DENEGATÓRIA  DE  ADMISSIBILIDADE  DE  RECURSO  ESPECIAL.  DESCUMPRIMENTO  DOS  REQUISITOS  PRECONIZADOS  PELO  ART.  932,  III,  DO  NCPC  (ART.  544,  §  4º,  I,  DO  CPC/73).  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+2.  Não  se  mostra  viável  o  agravo  em  recurso  especial  que,  apresentado  em  desacordo  com  os  requisitos  preconizados  pelo  art.  932,  III,  do  NCPC  (544,  §  4º,  I,  do  CPC/73),  não  impugna  os  fundamentos  da  respectiva  inadmissibilidade  (incidência  das  Súmulas  n.ºs  5  e  7  do  STJ  e  284  do  STF).
+3.  Não  basta  para  considerar  "especificamente  impugnados"  os  fundamentos  da  decisão  recorrida  a  mera  transcrição  de  súmulas  ou  reprodução  de  dispositivos  legais  violados.  Necessário,  além  das  indicações  expressas  e  claras,  a  sua  vinculação  aos  fatos  tal  como  analisados  pelo  acórdão  ou  decisão  para  então,  mediante  enfrentamento  dialético  desse  conjunto  de  permissivos  constitucionais  em  face  do  exame  soberano  do  material  de  cognição  pela  Corte  estadual,  se  chegar  ao  almejado  entendimento  de  que  a  classificação  jurídica  concluída  não  espelha  o  melhor  direito  ao  caso.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.925.017/SC,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  5/9/2022,  DJe  de  8/9/202-  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  AOS  FUNDAMENTOS  DA  DECISÃO  PROFERIDA  PELO  TRIBUNAL  DE  ORIGEM.  PRINCIPIO  DA  DIALETICIDADE.  ART.  932,  III,  DO  CPC  DE  2.015.  INSUFICIÊNCIA  DE  ALEGAÇÃO  GENÉRICA.  RECURSO  MANIFESTAMENTE  INADMISSÍVEL.  MULTA  DO  ART.  1.021,  §  4º,  DO  CPC.
+1.  O  agravo  que  objetiva  conferir  trânsito  ao  recurso  especial  obstado  na  origem  reclama,  como  requisito  objetivo  de  admissibilidade,  a  impugnação  específica  aos  fundamentos  utilizados  para  a  negativa  de  seguimento  do  apelo  extremo,  consoante  expressa  previsão  contida  no  art.  932,  III,  do  CPC  de  2.015  e  art.  253,  I,  do  RISTJ,  ônus  da  qual  não  se  desincumbiu  a  parte  insurgente,  sendo  insuficiente  alegações  genéricas  de  não  aplicabilidade  do  óbice  invocado.
+2.  Para  afastar  o  fundamento,  da  decisão  agravada,  de  incidência  dos  óbices  das  Súmulas  n.  5/STJ  e  n.  7/STJ  não  basta  apenas  deduzir  alegação  genérica  de  inaplicabilidade  dos  referidos  óbices  ou  que  a  tese  defensiva  não  demanda  reexame  de  provas  ou  nova  interpretação  de  cláusulas  contratuais.  Para  tanto,  o  recorrente  deve  desenvolver  argumentação  que  demonstre  como  seria  possível  modificar  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  nova  análise  do  conjunto  fático-probatório  ou  de  cláusulas  contratuais,  deixando  claro  que  os  fatos  foram  devidamente  consignados  no  acórdão  objurgado,  ônus  do  qual,  contudo,  não  se  desobrigou.  Precedentes.
+(..)
+4.  Agravo  interno  não  provido,  com  aplicação  de  multa"  (AgInt  no  AREsp  2.092.341/MS,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  23/6/2022,  DJe  de  28/6/2022).
+
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
