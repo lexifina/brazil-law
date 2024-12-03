@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pela SIGMA COMERCIAL EXPORTADORA E IMPORTADORA LTDA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra acórdão prolatado em apelação cível.
+Consta dos autos que a empresa recorrente opôs embargos à execução fiscal referente ao não pagamento de ICMS declarado em GIA e posterior penhora na sede da empresa. Interposta apelação, o Tribunal de origem negou provimento ao recurso nos seguintes termos (fl. 421):
+APELAÇÃO CÍVEL. TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS. ICMS DECLARADO EM GIA. PENHORA DA SEDE DA EMPRESA. POSSIBILIDADE. MULTA MORATÓRIA DE 25%. ABUSIVIDADE OU CONFISCO. NÃO CONFIGURAÇÃO. HONORÁRIOS RECURSAIS. FIXAÇÃO.
+1. É legítima a penhora da sede da empresa, conforme dispõe a Súmula nº. 451 do Superior Tribunal de Justiça. Outrossim, o art. 11, § 1º da LEF, prevê excepcionalmente que a penhora poderá recair sobre estabelecimento comercial, industrial ou agrícola, bem como em plantações ou edifícios em construção.
+2. Multa moratória. A multa moratória aplicada pela Fazenda Pública, no percentual de 25%sobre o valor do débito, encontra respaldo no art. 9º, § 2º, al. b, da Lei Estadual n. 6.537/73. Ausência de ilegalidade. Percentual que possui caráter pedagógico de desestímulo ao atraso, sem configurar abuso ou confisco. Precedentes desta Corte. Matéria com repercussão geral reconhecida pelo E. STF.
+3. Honorários advocatícios de sucumbência majorados em razão do desprovimento do recurso.
+APELAÇÃO DESPROVIDA.
+No apelo nobre, a agravante aponta violação do art. 1.022 do CPC/2015, por omissão no acordão recorrido "no tocante ao fundamento de defesa relativo à incidência do art. 833, V, do CPC no caso em tela" (fl. 462) porque é "necessário que haja manifesto pronunciamento acerca do fundamento de defesa, haja vista que a penhora em sede da empresa irá gerar uma consequência de efeitos, dentre eles, o surgimento de outros tantos débitos para a empresa: trabalhistas, contratuais e comerciais, atingindo diretamente o princípio da preservação da empresa" (fl. 430).
+É o relatório.
+Decido.
+A parte recorrente impugnou todos os fundamentos da decisão agravada, restando superado o óbice da Súmula n. 182 do STJ. Assim, o presente agravo comporta conhecimento, embora o apelo nobre não deva ser conhecido.
+A Corte de origem analisou a controvérsia com base nos seguintes fundamentos:
+Conforme entendimento consolidado na Corte Superior insculpido na Súmula nº451, é legítima a constrição do imóvel que se localiza a sede da empresa quando inexistirem outros bens passíveis de penhora. Cito o verbete da referida súmula:
+Súmula 451 - É legítima a penhora da sede do estabelecimento comercial. (Súmula 451, CORTE ESPECIAL, julgado em 02/06/2010, DJe 21/06/2010).
+Outrossim, o artigo o art. 11, §1º da LEF, prevê excepcionalmente, a penhora poderá recair sobre estabelecimento comercial, industrial ou agrícola, bem como em plantações ou edifícios em construção.
+Desse modo, é possível a penhora do imóvel em que localizada a sede da empresa devedora, medida, contudo, excepcional, que será cabível quando inexistentes outros bens passíveis de penhora.
+No caso dos autos, em que pese a inconformidade da executada, não houve a indicação de outros bens sobre os quais pudesse recair a penhora, do que se conclui inexistir outros bens passíveis de penhora, restando configurada, portanto, situação excepcional a admitir a constrição do imóvel em que localizada a sede da empresa, nos termos do parágrafo único do art. 805 do CPC:
+ ..
+Ademais, a penhora do imóvel, por si só, não implica prejuízo à atividade empresarial da devedora, uma vez que esta permanece na posse do bem. Na mesma linha, destaco precedentes desta Corte:
+ ..
+Tampouco prospera o argumento de que deve-se atentar ao princípio da preservação da atividade empresarial para fins de afastar a penhorabilidade do bem constrito. Isso porque, como bem esclareceu o exequente, a penhora recaiu sobre o imóvel onde está instalada a sede da empresa, e não sobre a empresa propriamente dita, o que leva a consequências diversas.
+ ..
+Ocorre que, no que tange à penhora, ponto invocado nos presentes Embargos de Declaração, as razões de Apelação atacavam a sua efetivação sobre o imóvel em que se localiza a sede da empresa, e sobre isso houve pontual enfrentamento no acordão embargado, tendo sido salientado que, na forma da Súmula nº 451 do STJ, é legítima a penhora do imóvel em que se localiza a sede da empresa quando inexistirem outros bens, sendo essa era a hipótese dos autos, já que não houve indicação de outros bens passíveis de penhora.
+Resulta, pois, evidente que, a pretexto de vícios de omissão, contradição e obscuridade, o que busca a parte embargante é a rediscussão da controvérsia, o que não se insere nos requisitos do art. 1.022 do Código de Processo Civil.
+O Tribunal de origem enfrentou expressamente as questões referentes à penhora na sede da empresa e às eventuais e deletérias consequências da medida no julgamento de fls. 410-420 e 441-445. Portanto, inexiste omissão ou obscuridade no acórdão combatido, razão pela qual não há que se falar em ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Em atenção ao disposto no art. 85, §11º , do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 419), respeitados os limites estabelecidos nos §§ 2 º e 3º do mesmo artigo.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. EXECUÇÃO FISCAL. PENHORA NA SEDE DA EMPRESA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
