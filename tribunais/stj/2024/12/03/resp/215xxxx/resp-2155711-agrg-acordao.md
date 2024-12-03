@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental NO RECURSO ESPECIAL. Dosimetria da pena. Atenuante. Súmula 231/STJ. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo a aplicação da Súmula 231/STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a incidência de circunstância atenuante pode reduzir a pena abaixo do mínimo legal, em face da Súmula 231/STJ e do entendimento consolidado pelo Supremo Tribunal Federal no Tema 158 da repercussão geral.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a incidência de atenuantes não pode reduzir a pena abaixo do mínimo legal, conforme a Súmula 231/STJ.
+4. A Terceira Seção do STJ, ao julgar Recursos Especiais 2.057.181/SE, 2.052.085/TO e 1 .869.764/MS, decidiu manter a Súmula 231/STJ, rejeitando a proposta de cancelamento do enunciado.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "O Superior Tribunal de Justiça mantém aplicável o enunciado da Súmula 231/STJ, no sentido de que a circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Dispositivos relevantes citados: CP, art. 65; Súmula 231/STJ.
+Jurisprudência relevante citada: STF, RE 597.270, Tema 158 da repercussão geral; STJ, REsp n. 2.057.181/SE, relator Ministro Rogerio Schietti Cruz, relator para acórdão Ministro Messod Azulay Neto, Terceira Seção, julgado em 14/8/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUZIA DE SOUZA contra decisão monocrática de minha relatoria que negou provimento ao recurso especial (fls. 379-382).
+Nas razões recursais, a parte recorrente reitera seus argumentos sobre a necessidade de superação da Súmula 231/STJ e pede, ao final, o provimento do agravo regimental, para que o recurso especial seja provido.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental NO RECURSO ESPECIAL. Dosimetria da pena. Atenuante. Súmula 231/STJ. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo a aplicação da Súmula 231/STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a incidência de circunstância atenuante pode reduzir a pena abaixo do mínimo legal, em face da Súmula 231/STJ e do entendimento consolidado pelo Supremo Tribunal Federal no Tema 158 da repercussão geral.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a incidência de atenuantes não pode reduzir a pena abaixo do mínimo legal, conforme a Súmula 231/STJ.
+4. A Terceira Seção do STJ, ao julgar Recursos Especiais 2.057.181/SE, 2.052.085/TO e 1 .869.764/MS, decidiu manter a Súmula 231/STJ, rejeitando a proposta de cancelamento do enunciado.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "O Superior Tribunal de Justiça mantém aplicável o enunciado da Súmula 231/STJ, no sentido de que a circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Dispositivos relevantes citados: CP, art. 65; Súmula 231/STJ.
+Jurisprudência relevante citada: STF, RE 597.270, Tema 158 da repercussão geral; STJ, REsp n. 2.057.181/SE, relator Ministro Rogerio Schietti Cruz, relator para acórdão Ministro Messod Azulay Neto, Terceira Seção, julgado em 14/8/2024.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, estes não possuem o condão de infirmar os fundamentos insertos na decisão agravada.
+Conforme destacado anteriormente, no que diz respeito à pretensão de que pena seja reduzida aquém do mínimo legal na segunda etapa da dosimetria, não assiste razão à parte recorrente. Afinal, a aspiração defensiva esbarra na jurisprudência deste Tribunal Superior, que mantém plenamente aplicável o enunciado da Súmula 231/STJ. Confiram-se, a propósito, os seguintes julgados:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 65, I E III, D, DO CP. DOSIMETRIA DA PENA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA 231/STJ. ENUNCIADO REAFIRMADO PELA TERCEIRA SEÇÃO DESTA CORTE.
+1. É pacífico o entendimento acerca da impossibilidade de o reconhecimento da atenuante levar a pena, na segunda fase da dosimetria, a patamar aquém do mínimo legal, o que inviabiliza, no caso, a aplicação da reconhecida atenuante da confissão espontânea (art. 65, III, d, do CP), diante do óbice prescrito na Súmula 231/STJ.
+2. Nos moldes do reconhecido pelas instâncias ordinárias, embora reconhecida a incidência das atenuantes da menoridade relativa e da confissão espontânea, tendo a pena-base sido fixada no piso legal, descabe falar em ilegalidade no cálculo dosimétrico, pois, a teor do entendimento da Súmula 231/STJ, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal". (AgRg no HC n. 849.094/ES, Ministro Ribeiro Dantas, Quinta Turma, DJe de 27/10/2023).  ..  Embora a Defesa sustente o overruling da Súmula n. 231 desta Corte e o julgamento da questão tenha sido af etado à Terceira Seção, fato é que, atualmente, o referido enunciado sumular continua sendo plenamente aplicado por este Sodalício (AgRg no AREsp n. 2.226.158/SC, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023; AgRg no AREsp n. 2.236.332/TO, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023; AgRg no HC n. 806.302/RJ, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023; AgRg no HC n. 794.315/SP, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023; AgRg no AREsp n. 2.243.342/PA, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023; AgRg nos EDcl no REsp n. 2.035.019/MG, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 25/4/2023, DJe de 5/5/2023; AgRg no AREsp n. 2.223.080/PA, relator Ministro JESUÍNO RISSATO, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 25/4/2023, DJe de 2/5/2023, v.g.) - (AgRg no AgRg no RHC n. 183.901/DF, Ministra Laurita Vaz, Sexta Turma, DJe 28/9/2023).
+3. Malgrado a questão já tenha sido afetada à Terceira Seção deste Superior Tribunal de Justiça, o referido enunciado sumular continua sendo plenamente aplicado por esta Corte, não sendo o caso de sobrestamento do feito até o julgamento final dos recursos especiais, haja vista a inexistência de previsão legal para tanto (AgRg no REsp n. 2.099.887/PA, Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/12/2023).
+4. Na data de 14/8/2024, ao julgar os Recursos Especiais n. 2.057.181/SE, n. 2.052.085/TO e n. 1.869.764/MS - afetados para fins de análise da proposta de revisão do entendimento firmado na Súmula 231/STJ e do Tema Repetitivo n. 190/STJ -, a Terceira Seção desta Corte, por maioria, decidiu por manter o referido entendimento, acolhendo, por maioria, o voto do eminente Ministro Messod Azulay Neto, circunstância essa que fulmina a pretensão veiculada na presente insurgência.
+5. Agravo regimental desprovido".
+(AgRg no REsp n. 2.112.818/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/9/2024, DJe de 27/9/2024.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. SÚMULA N. 231/STJ. SUPERAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido encontra-se alinhado à orientação da Súmula n.
+231/STJ, no sentido de que a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.
+2. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1117068/PR, Rel. Ministra LAURITA VAZ, julgado em 26/10/2011, DJe 08/06/2012), sob o rito do art. 543-C, c/c o 3º do CPP, confirmou o entendimento do enunciado da Súmula 231/STJ.
+3. No julgamento dos autos dos Recursos Especiais n. 2.057.181/SE, 2.052.085/TO e 1.869.764/MS, ocorrido em 14/8/2024, em que a Sexta Turma aprovou a proposta de revisão da jurisprudência consolidada na Súmula n. 231/STJ, remetendo-os, assim, à Terceira Seção, esta, por maioria, rejeitou o cancelamento do referido enunciado sumular, nos termos do voto do Sr. Ministro Messod Azulay Neto, que lavrará o acórdão.
+4. Agravo regimental não provido".
+(AgRg no REsp n. 2.162.299/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2024, DJe de 16/9/2024.)
+No mais, vale destacar que em 14/8/2024, no julgamento dos recursos especiais 2.057.181/SE, 2.052.085/TO e 1.869.764/MS, a Terceira Seção desta Corte Superior rejeitou a proposta de cancelamento da Súmula 231/STJ. Eis a ementa do julgado:
+"DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. PROPOSTA DE REVISÃO DO ENUNCIADO DA SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CIRCUNSTÂNCIA ATENUANTE E IMPOSSIBILIDADE DE REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. PRECEDENTE VINCULANTE EM REPERCUSSÃO GERAL. TEMA 158. ESTABILIDADE, INTEGRIDADE E COERÊNCIA DO SISTEMA DE UNIFORMIZAÇÃO DE PRECEDENTES. POSSIBILIDADE DE SUPERAÇÃO RESTRITA AO SUPREMO TRIBUNAL FEDERAL. PRINCÍPIOS DA RESERVA LEGAL, DA INDIVIDUALIZAÇÃO DA PENA E DA PROPORCIONALIDADE. INDISPONIBILIDADE JUDICIAL DOS LIMITES MÍNIMO E MÁXIMO DA PENA. VALIDADE DA SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA ANTE A METODOLOGIA DE INDIVIDUALIZAÇÃO DA PENA INSTITUÍDA PELO CÓDIGO PENAL. INSTITUTOS DA JUSTIÇA PENAL NEGOCIADA. REQUISITOS ESPECÍFICOS. RECURSOS ESPECIAIS DESPROVIDOS.
+I - Os Recursos Especiais n.º 1.869.764-MS, n.º 2.052.085-TO e n.º 2.057.181-SE foram afetados à Terceira Seção do Superior Tribunal de Justiça para reavaliação do enunciado da Súmula n.º 231 do STJ, que estabelece a impossibilidade de que a incidência de circunstância atenuante reduza a pena abaixo do mínimo legal. O relator propôs a superação do entendimento consolidado (overruling), com modulação de efeitos para evitar a modificação de decisões já transitadas em julgado.
+II - Existem duas questões em discussão: (i) ante a existência do tema 158 da repercussão geral, avaliar se é possível a superação do entendimento enunciado pela Súmula n.º 231, STJ, pela Terceira Seção do Superior Tribunal de Justiça; e (ii) examinar a (im)possibilidade de incidência de atenuante induzir pena abaixo do mínimo legal.
+III - O precedente firmado pelo Supremo Tribunal Federal no Tema 158 da repercussão geral (RE n.º 597.270) estabelece, com eficácia vinculante, que a incidência de circunstância atenuante genérica não pode reduzir a pena abaixo do mínimo legal, em respeito aos princípios constitucionais da reserva legal, da proporcionalidade e da individualização da pena.
+IV - A função de uniformização jurisprudencial atribuída ao Superior Tribunal de Justiça não autoriza a revisão de tese fixada em repercussão geral pelo Supremo Tribunal Federal, dado o caráter vinculante desses precedentes, em atenção à estabilidade, à integridade e à coerência do sistema de uniformização de precedentes.
+V - Não se extrai da atuação do Supremo Tribunal Federal nenhum indicativo de que a Corte esteja inclinada a rever o Tema 158, o que impossibilita a aplicação do instituto do anticipatory overruling pela Terceira Seção do Superior Tribunal de Justiça.
+VI - No plano judicial, a discricionariedade do magistrado deve respeitar os limites mínimos e máximos estabelecidos em lei, em conformidade com o princípio da reserva legal, que veda a modificação dos parâmetros previstos pelo legislador.
+VII - O método trifásico de dosimetria da pena adotado pelo Código Penal (art. 68, CP) limita a discricionariedade judicial na segunda fase e impõe o respeito ao mínimo e máximo legal, de modo que as circunstâncias atenuantes não podem resultar em penas abaixo do mínimo abstratamente cominado pelo tipo penal.
+VIII - A fixação de penas fora dos limites legais implicaria violação ao princípio da legalidade e usurpação da competência legislativa, o que comprometeria a separação de poderes e criaria um sistema de penas indeterminadas, incompatível com a segurança jurídica.
+IX - O surgimento de institutos de justiça penal negociada, como a colaboração premiada e o acordo de não persecução penal, não justifica a revisão do entendimento da Súmula n.º 231, STJ, pois esses instrumentos possuem requisitos próprios e são aplicados em contextos específicos que não alteram a regra geral estabelecida para a dosimetria da pena.
+Recursos especiais desprovidos.
+Teses de julgamento: 1. A incidência de circunstância atenuante não pode reduzir a pena abaixo do mínimo legal, conforme o entendimento vinculante do Supremo Tribunal Federal no Tema 158 da repercussão geral. 2. O Superior Tribunal de Justiça não possui competência para revisar precedentes vinculantes fixados pelo Supremo Tribunal Federal. 3. A circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+(REsp n. 2.057.181/SE, relator Ministro Rogerio Schietti Cruz, relator para acórdão Ministro Messod Azulay Neto, Terceira Seção, julgado em 14/8/2024, DJe de 18/9/2024.)
+A decisão agravada está, então, em sintonia com o entendimento da Terceira Seção deste STJ sobre o tema, devendo ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
