@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo SINDICATO DOS TRABALHADORES EM ESCOLAS PÚBLICAS NO DISTRITO FEDERAL, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (fl. 977):
+APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENCA COLETIVA DA AÇÃO N. 59.888/96. TEMA REPETITIVO 880 DO STJ. INAPLICABILIDADE DO PRECEDENTE QUALIFICADO. PRESCRIÇÃO DA PRETENSÃO. OCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. VALOR ATUALIZADO DA CAUSA. TEMA REPETITIVO 1.076. MANUTEÇÃO DA BASE DE CÁLCULO. FIXAÇÃO. PARÂMETROS DO ART. 85, §§ 3º, 4º E 5º, DO CPC.
+1. No julgamento do REsp 1.301.935/DF, o STJ reconheceu que a prescrição da pretensão executiva da obrigação de pagar imposta na sentença coletiva da ação n. 59.888/96 ocorreu após 5 anos do trânsito em julgado (10/03/2000), afastando, no caso, a modulação dos efeitos do Tema Repetitivo 880 do STJ.
+2. No Tema Repetitivo 1.076, o Superior Tribunal de Justiça assentou que não é permitida a apreciação equitativa para fixação dos honorários advocatícios, restando definido que apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação, o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou o valor da causa for muito baixo, o que não sobressai na espécie.
+3. Nas causas em que a Fazenda Pública for parte, deverão ser observados os parâmetros do art. 85, §§ 3º, 4º e § 5º, do Código de Processo Civil, para a fixação dos honorários de advogado. Portanto, se o proveito econômico obtido pelo vencedor ou o valor da causa for superior ao valor previsto no inciso I do § 3ª, a fixação do percentual de honorários deve observar a faixa inicial e, naquilo que a exceder, a faixa subsequente, e assim sucessivamente, nos termos do § 5º do art. 85 do CPC.
+4. Apelação conhecida em parte e, nesta extensão, provida parcialmente.
+Opostos embargos de declaração, foram rejeitados (fls. 1.075-1.088).
+A parte recorrente aponta violação dos arts. 97 e 104 do Código de Defesa do Consumidor e 313, V, "a", do Código de Processo Civil.
+Quanto ao Tema 880/STJ, sustenta que estão presentes os requisitos para a aplicação da modulação dos efeitos do referido precedente repetitivo.
+Contrarrazões às fls. 1.138-1.162.
+Admitido o recurso na origem, os autos vieram a esta Corte.
+É o relatório.
+Inicialmente, defiro à parte recorrente os benefícios da gratuidade de justiça. Entretanto, importante registrar que, diante da eficácia ex nunc, sua concessão opera efeitos somente para o futuro, não retroagindo para abarcar atos processuais pretéritos. Nesse sentido: PET no AREsp n. 2.477.693, Ministra Regina Helena Costa, DJe de 16/09/2024; e AREsp n. 2.606.904, Ministra Nancy Andrighi, DJe de 20/09/2024.
+O recurso não comporta conhecimento.
+No tocante à alegação de contrariedade aos arts. 97 e 104 do Código de Defesa do Consumidor e 313, V, "a", do Código de Processo Civil, registre-se que o presente recurso especial carece do requisito constitucional do prequestionamento. Incidem as súmulas 282 do STF, por analogia, e 211 do STJ.
+Como cediço, "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+Quanto à prescrição, o tribunal a quo expressamente consignou que o Tema 880/STJ é inaplicável à hipótese, haja vista a não caracterização de demora no fornecimento de documentação requerida ao ente público para apresentação do respectivo cumprimento do título judicial.
+Assim, a revisão das premissas em que se baseou o tribunal de origem esbarra no óbice da Súmula 7 do STJ, dada a impossibilidade de incursão no quadro fático-probatório dos autos nesta estreita via recursal.
+No mesmo sentido, a propósito, as seguintes decisões monocráticas proferidas em feitos análogos ao presente: REsp n. 2.106.387, Ministro Gurgel de Faria, DJe de 02/07/2024; e REsp n. 2.105.849, Ministro Teodoro Silva Santos, DJe de 02/05/2024.
+Registre-se, por fim, que "a incidência de óbices sumulares quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede seu conhecimento pela divergência jurisprudencial sobre a mesma questão" (AgInt no AREsp n. 1.843.629/RJ, relator Ministro João Otávio de Noronha, Quarta Turma , julgado em 1/7/2024, DJe de 8/7/2024).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
