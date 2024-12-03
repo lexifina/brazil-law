@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, embargos de declaração opostos por BRIDGESTONE DO BRASIL INDÚSTRIA E COMÉRCIO LTDA contra decisão que determinou a devolução dos autos à origem.
+Argumenta a parte agravante, em síntese, que "o presente caso não pretende discutir a aplicação da regra de anterioridade anual e nonagesimal da lei complementar nº 190/2022, mas sim o direito de não ser submetida ao pagamento do DIFAL de ICMS sem a edição de lei complementar anterior, conforme entendimento fixado pelo Egrégio Supremo Tribunal Federal no Tema 1.093".
+Houve impugnação pela parte contrária.
+É o relatório.
+Passo a decidir.
+De início, com fundamento no art. 1.037, § 9º, do CPC, recebo os embargos de declaração como pedido de distinção.
+Com isso, em nova análise dos autos, observo que o pleito de distinção merece acolhimento, uma vez que a parte pretende, no recurso especial, o reconhecimento de negativa de prestação jurisdicional pelo acórdão recorrido, bem como o reconhecimento de desrespeito a precedente de caráter vinculante (Tema 1.093/STF).
+Assim, passo a novo exame do recurso especial.
+Em análise, recurso especial interposto por BRIDGESTONE DO BRASIL INDÚSTRIA E COMÉRCIO LTDA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA assim ementado:
+Constitucional e Tributário. ICMS. Diferencial de Alíquota - DIFAL. Incidência do RE 1287019 - TEMA 1.093. Lei Complementar n. 190/22. Princípio da Anterioridade e Nonagesimal. Não aplicação. A Suprema Corte, no RE 1287019 - TEMA 1.093, apesar de reconhecer a inconstitucionalidade das estipulações do Convênio ICMS nº 93/15, entabulou os efeitos da decisão proativos a partir de 2022, quando adviesse lei regulamentadora. A Lei Complementar nº 190/22 não cria tampouco majora tributo, de tal modo que não lhe recai a garantia (Princípios) constitucional da Anterioridade e Nonagesimal. Precedentes do STF.
+Opostos embargos de declaração na origem, estes foram rejeitados.
+Nas razões recursais, a recorrente sustenta, em síntese, violação aos arts. 489, II, § 1º, IV, VI, e 1.022, I, II, e parágrafo único, I, II, do CPC/2015, alegando negativa de prestação jurisdicional. No mérito, alega que o acórdão do Tribunal de origem merece reforma em razão de não ter aplicado corretamente a tese fixada no Tema 1.093 de repercussão geral.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Da negativa de prestação jurisdicional
+Quanto à apontada violação aos arts. 489, II, § 1º, IV, VI, e 1.022, I, II, e parágrafo único, I, II, do CPC/2015, não há nulidade por omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+Inicialmente destaco, no intuito de aclarear o debate, que o presente mandado de segurança fora impetrado em outubro de 2020, portanto, antes da Lei Complementar n. 190/22, da o julgamento, pela Suprema Corte, em sede Repercussão Geral, do RE 1287019 - TEMA 1.093. Compreende-se que a impetrante, ora recorrida pretendeu, em suma, a suspensão da exigibilidade da cobrança do ICMS na modalidade de diferencial de alíquota ao fundamento sua exigibilidade é inconstitucional. A Suprema Corte, em sede de Repercussão Geral estabeleceu:
+ ..
+Ao que se nota, embora se tenha reconhecido a inconstitucionalidade do convênio, contudo, o acórdão em questão legitimou a cobrança até a data de julgamento, vedando-se, inclusive, a repetibilidade, de tal modo que, até o ano de 2022, a pretensão mandamental é incabível.
+A partir daí, após o advento da referida Lei, há outro cenário que passo a analisar.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489, II, § 1º, IV, VI, e 1.022, I, II, e parágrafo único, I, II, do CPC/2015.
+Matéria constitucional
+Por fim, no que tange à alegação de necessidade de observância ao que ficou decidido no Tema 1.093/STF, cumpre ressaltar que não compete ao Superior Tribunal de Justiça analisar, no particular, o acerto ou desacerto da aplicação da modulação de efeitos de tese firmada sob o regime de repercussão geral, cuja competência é do Supremo Tribunal Federal. Inviável, assim, o conhecimento do recurso especial, sob pena de usurpação de competência do STF.
+Além disso, observo que o Tribunal de origem, para chegar à conclusão da controvérsia, utilizou fundamentos extraídos diretamente de princípios constitucionais, o que impede, como visto, a análise do acórdão recorrido por meio do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIFAL-ICMS E FECP. TEMA 1.093 DA REPERCUSSÃO GERAL. NÃO CABE AO STJ EMITIR JUÍZO A RESPEITO DOS LIMITES DO QUE FOI JULGADO NO PRECEDENTE EM REPERCUSSÃO GERAL DO SUPREMO TRIBUNAL FEDERAL PARA AFERIR SE A CORTE A QUO APLICOU CORRETAMENTE A MODULAÇÃO DOS EFEITOS DAQUELE JULGADO. PRECEDENTES. PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. VIOLAÇÃO DO ART. 927, I E III, DO CPC. SÚMULA N. 211/STJ. FECP. SÚMULAS N. 280 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A controvérsia restou examinada sob a ótica de fundamentos constitucionais, de forma que é inviável a análise da matéria em sede de especial sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Não é possível, em sede de recurso especial, aferir se houve a correta aplicação, pelo tribunal de origem, do entendimento firmado pelo STF no Tema 1.093 da repercussão geral. A Corte de Origem apenas aplicou o precedente ao caso concreto, interpretando-o consoante a sua compreensão dos parâmetros constitucionais eleitos pelo Supremo Tribunal Federal. À toda evidência, a Corte de Origem pode fazê-lo, já que não tem impedimento algum para exame de matéria constitucional. Já este Superior Tribunal de Justiça, em sede de recurso especial, segue lógica outra: não cabe a esta Corte, nem mesmo a pretexto de ofensa ao art. 927 do CPC, emitir juízo a respeito dos limites do que foi julgado no precedente em repercussão geral do Supremo Tribunal Federal, colocando novas balizas em tema de ordem Constitucional. A propósito: AgInt no AREsp 1.528.999/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 5.9.2019, DJe 16.9.2019; AgInt no AREsp 1.643.657/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/12/2020; AgInt nos EDcl no AREsp 1.972.416/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 06/06/2022.
+3. No que diz respeito ao Fundo de Combate à Pobreza (FECP), a parte deixou de indicar dispositivo apto a amparar a pretensão recursal no ponto, razão pela qual incide o óbice da Súmula n. 284/STF. Ainda que assim não fosse, a questão do FECP foi examinada na origem à luz do art. 13-A da Lei Estadual n. 8.820/89 (e-STJ fl. 292), de forma que o conhecimento da matéria também esbarra na Súmula n. 280/STF.
+4. Agravo interno não provido (AgInt no AREsp n. 2.443.233/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/5/2024, DJe de 17/5/2024).
+Isso posto, recebo os embargos de declaração como pedido de distinção, cuja autuação deve ser corrigida em relação à petição 00183029/2024, o qual acolho para tornar sem efeito a decisão de fls. 725-726 e, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+ EMENTA
