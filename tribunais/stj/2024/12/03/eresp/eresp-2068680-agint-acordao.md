@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/11/2024 a 03/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA - AÇÃO INDENIZATÓRIA AJUIZADA EM FACE DE EMPRESA DE CRUZEIRO MARÍTIMO - CONTRAÇÃO DE DOENÇA PELOS PASSAGEIROS - DANOS MORAIS - INEXISTÊNCIA - REVISÃO - IMPOSSIBILIDADE - SÚMULA Nº 7/STJ - DECISÃO MANTIDA PELA EG. TERCEIRA TURMA - DELIBERAÇÃO UNIPESSOAL QUE NEGOU PROVIMENTO AO APELO RECURSAL - INCIDÊNCIA DA SÚMULA 315/STJ - INSURGÊNCIA DOS AUTORES.
+1. Nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+1.1. Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou o juízo de admissibilidade, e os julgados pa radigmas relevam exame meritório da questão controvertida, inexistindo, por essa razão, a indispensável semelhança fático processual entre os arestos confrontados, de modo a atrair, de fato, o enunciado da Súmula 315/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno interposto por CARLOS ALBERTO GRANDIS AMARAL - ESPÓLIO e OUTRO contra decisão de fls. 1521/1522, de lavra da Presidência desta Corte, que indeferiu liminarmente a insurgência, ao fundamento de que não se admite o manejo dos embargos de divergência quando o acórdão recorrido não apreciou o mérito da controvérsia.
+Depreende-se dos autos que os insurgentes ajuizaram, em face da agravada, ação de indenização por danos morais decorrentes de atos ilícitos ocorridos durante viagem de cruzeiro oferecida pela ré. O r. juízo a quo julgou o pedido improcedente. Interposto recurso de apelação, o eg. TJ/SP, por maioria, negou-lhe provimento. Manejado recurso especial, a eg. Terceira Turma negou provimento ao apelo em razão da incidência, na hipótese dos autos, do enunciado da Súmula 7/STJ. Daí os presentes embargos de divergência que, distribuídos, à Presidência do STJ, foram indeferidos liminarmente em razão do óbice da Súmula 315/STJ.
+Em suas razões recursais, os insurgentes repisam os fundamentos do recurso especial. Sustentam a presença dos elementos necessários ao manejo dos embargos de divergência. Aduzem, outrossim, que é cabível a indenização pleiteada na origem em razão dos danos sofridos em viagem de cruzeiro contratada perante à ora embargada. Pedem, assim, o provimento do recurso. (fls. 1526/1530)
+A impugnação está juntada às fls. 1534/1555.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA - AÇÃO INDENIZATÓRIA AJUIZADA EM FACE DE EMPRESA DE CRUZEIRO MARÍTIMO - CONTRAÇÃO DE DOENÇA PELOS PASSAGEIROS - DANOS MORAIS - INEXISTÊNCIA - REVISÃO - IMPOSSIBILIDADE - SÚMULA Nº 7/STJ - DECISÃO MANTIDA PELA EG. TERCEIRA TURMA - DELIBERAÇÃO UNIPESSOAL QUE NEGOU PROVIMENTO AO APELO RECURSAL - INCIDÊNCIA DA SÚMULA 315/STJ - INSURGÊNCIA DOS AUTORES.
+1. Nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+1.1. Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou o juízo de admissibilidade, e os julgados pa radigmas relevam exame meritório da questão controvertida, inexistindo, por essa razão, a indispensável semelhança fático processual entre os arestos confrontados, de modo a atrair, de fato, o enunciado da Súmula 315/STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A insurgência recursal não merece prosperar.
+1. Inicialmente, cumpre ressaltar que, nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+Na hipótese ora em apreço, o acórdão ora embargado proferido pela eg. Terceira Turma concluiu pela incidência da Súmula nº 7/STJ porque "(..) rever o entendimento da Corte local, no sentido de que a empresa de cruzeiro marítimo não praticou nenhuma falha de serviço que influenciou na contração de doença pelos passageiros nem nas consequências da doença, demandaria a análise de fatos e de provas dos autos, procedimento inviável no recurso especial em virtude do óbice da Súmula nº 7/STJ."
+Nesse contexto, conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou o juízo de admissibilidade, e os julgados paradigmas relevam exame meritório da questão controvertida, inexistindo, por essa razão, a indispensável semelhança fático processual entre os arestos confrontados, de modo a atrair, de fato, o enunciado da Súmula 315/STJ.
+Nesse sentido, confiram-se: AgRg nos EREsp 1.459.396/MG, Rel. Ministro HUMBERTO MARTINS, Corte Especial, j. 7/6/2017, DJe 14/6/2017; AgInt nos EREsp 1.280.051/MG, Rel. Ministro MOURA RIBEIRO, Segunda Seção, j. 13/12/2017, DJe 6/3/2018; AgInt nos EREsp 1.377.677/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 24/5/2017, DJe 20/6/2017.
+Com efeito, as razões dos embargos de divergência ora apreciadas revelam o intuito de reapreciação da causa, o que não se admite na espécie de recurso manejado, sendo inviável rediscutir matéria fática consolidada pelas instâncias ordinárias.
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
