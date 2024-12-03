@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de pedido de distinção formulado pelo MUNICÍPIO DE NATAL contra decisão de fls. 655-658 da lavra da Ministra Assusete Magalhães, que determinou a devolução do feito ao Tribunal de origem por entender que se discute nestes autos a responsabilidade tributária solidária e legitimidade passiva do credor fiduciário na execução fiscal em que se cobra IPTU de imóvel objeto de contrato de alienação fiduciária, matéria que foi afetada neste Tribunal para julgamento segundo o rito dos recursos representativos de controvérsia (Tema Repetitivo n. 1158/STJ).
+Sustenta o Requerente que, "em nenhum momento, há sequer citação sobre alienação fiduciária ou classificação da recorrente como Credora Fiduciária, muito menos comprovação e enquadramento do caso ao tema representativo da controvérsia em questão. Trata-se de verdadeira inovação promovida pela decisão" (fl. 662).
+Aduz ser aplicável, na hipótese, o Tema Repetitivo n. 122/STJ.
+É o relatório.
+Decido.
+Com razão.
+De fato, a tese discutida nos presentes autos refere-se à possibilidade de responsabilização do promitente vendedor de imóvel pelo pagamento do IPTU na execução fiscal.
+A referida matéria foi julgada pelo Superior T ribunal de Justiça sob o rito dos recursos repetitivos (Tema n. 122 do STJ), sendo fixadas as seguintes teses: "1-Tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU; 2-cabe à legislação municipal estabelecer o sujeito passivo do IPTU".
+Sabe-se que compete ao Tribunal de origem proferir juízo de conformidade entre o precedente repetitivo e o caso concreto.
+Com efeito:
+A edição da Lei n. 11.672, de 8.5.2008, decorreu, sabidamente, da explosão de processos repetidos junto ao Superior Tribunal de Justiça, ensejando centenas e, conforme a matéria, milhares de julgados idênticos, mesmo após a questão jurídica já estar pacificada.
+O mecanismo criado no referido diploma, assim, foi a solução encontrada para afastar julgamentos meramente "burocráticos" nesta Corte, já que previsível o resultado desses diante da orientação firmada em leading case pelo órgão judicante competente.
+Não se perca de vista que a redução de processos idênticos permite que o Superior Tribunal de Justiça se ocupe cada vez mais de questões novas, ainda não resolvidas, e relevantes para as partes e para o País.
+Assim, criado o mecanismo legal para acabar com inúmeros julgamentos desnecessários e inviabilizadores de atividade jurisdicional ágil e com qualidade, os objetivos da lei devem, então, ser seguidos também no momento de interpretação dos dispositivos por ela inseridos no Código de Processo Civil e a ela vinculados, sob pena de tornar o esforço legislativo totalmente inócuo e de eternizar a insatisfação das pessoas que buscam o Poder Judiciário com esperança de uma justiça rápida. (Questão de Ordem no Ag 1.154.599/SP, relator Ministro Cesar Asfor Rocha, Corte Especial, DJe 12/5/2011.)
+Por fim, saliento que, caso a Corte de origem verifique a existência de resíduo não alcançado pela afetação do Superior Tribunal de Justiça, deverá determinar o retorno dos autos a esta Casa somente após ter exercido o juízo de conformação ao que decidido pelo Tribunal Superior no julgamento do representativo da controvérsia respectiva (QO no REsp n. 1.653.884/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 6/11/2017).
+Ante o exposto, RECONSIDERO a decisão de fls. 655-658 e DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil diante do que foi decidido pelo Superior Tribunal de Justiça sobre o Tema n. 122/STJ do regime dos recursos repetitivos.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. PEDIDO DE DISTINÇÃO NO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. PROMITENTE VENDEDOR. PAGAMENTO. IPTU. TEMA N. 122 DO REGIME DOS RECURSOS REPETITIVOS DO STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, COM A RESPECTIVA BAIXA, PARA REALIZAÇÃO DO JUÍZO DE CONFORMAÇÃO.
