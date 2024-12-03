@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADRIANA BASTOS EL HUAICK DE ARAUJO e OUTROS, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 751, e-STJ):
+Agravo interno. Embargos à execução. Indeferimento do pedido de justiça gratuita formulado pelos embargantes/apelantes e determinação de recolhimento do preparo, no prazo de cinco dias, sob pena de não conhecimento do recurso. Decisão mantida. Recurso não provido.
+Em suas razões de recurso especial (fls. 760/772, e-STJ), os recorrentes apontaram, além de dissídio jurisprudencial, ofensa aos artigos 99, 489 e 1022 do Código de Processo Civil/15. Sustentaram, em síntese, a impossibilidade de arcar com as custas processuais.
+Contrarrazões às fls. 785/801, e-STJ.
+Em juízo de admissibilidade (fls. 802/804, e-STJ), negou-se o processamento do recurso especial com amparo nos seguintes fundamentos: i) ausência de negativa de prestação jurisdicional; ii) não ficou demonstrada a alegada vulneração ao dispositivo arrolado; iii) incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 831/847, e-STJ), buscando destrancar o processamento daquela insurgência, no qual os insurgentes refutaram os óbices aplicados pela Corte estadual.
+Sem contraminuta (fl. 849, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Em relação à violação aos artigos 489, §1º, VI e 1022 do CPC/15, não assiste razão ao recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem, consoante trechos colacionados no próximo tópico desse decisum.
+Com efeito, todas as questões relevantes ao deslinde do feito foram objeto de expressa e suficiente análise pela Corte local, não havendo que se falar em negativa de prestação jurisdicional pelo Tribunal local, embora não tenha acolhido o pedido da insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2. A jurisprudência desta Corte firmou o entendimento de que a auto declaração de hipossuficiência, realizada por quem pretende ser beneficiário da justiça gratuita, possui caráter relativo, admitindo-se a denegação, pelo juízo competente, diante de provas dos autos em sentido contrário.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AGRAVO DE INSTRUMENTO. BENEFÍCIO DA GRATUIDADE DE JUSTIÇA. INDEFERIMENTO DE PLANO. DESCABIMENTO. NECESSIDADE DE INTIMAÇÃO DA PARTE PARA COMPROVAR A IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS DO PROCESSO. INCIDÊNCIA DA SÚMULA 83/STJ. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REVISÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. De acordo com a jurisprudência desta Corte, "o pedido de gratuidade de justiça somente poderá ser negado se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício. Antes do indeferimento, o juiz deve determinar que a parte comprove a alegada hipossuficiência (artigo 99, § 2º, do CPC/2015)" - (REsp n. 1.787.491/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09/04/2019, DJe 12/04/2019). Incidência Súmula n. 83/STJ.
+3. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+4. Tendo o Tribunal de origem entendido que a ora agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.397.040/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. HIPOSSUFICIÊNCIA. PRESUNÇÃO LEGAL. AGRAVO INTERNO PROVIDO.
+1. No caso concreto, a Corte de origem manteve a decisão de primeira instância, no sentido de indeferir a gratuidade de justiça, com amparo apenas na falta de comprovação da hipossuficiência da pessoa natural, situação que contraria a presunção legal prevista no art. 99, § 3º, do CPC.
+2. Agravo interno provido, para conceder a gratuidade de justiça.
+(AgInt no AREsp n. 2.108.561/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. BENEFÍCIO INDEFERIDO NA ORIGEM. CONFIRMADO PELO TRIBUNAL APÓS ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, tratando-se de concessão do benefício de gratuidade da justiça a pessoa física, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes.
+2. No caso, as instâncias ordinárias, examinando a situação patrimonial e financeira da agravante, concluíram haver elementos suficientes para afastar a declaração de hipossuficiência, indeferindo, por isso, o benefício da justiça gratuita. Nesse contexto, a alteração das premissas fáticas adotadas no acórdão recorrido demandaria o reexame do contexto fático-probatório dos autos, o que é defeso na via estreita do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.081.592/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Na espécie, o Tribunal de origem indeferiu o pedido de gratuidade de justiça de modo fundamentado, consoante denotam os seguintes excertos do acórdão recorrido (fls. 753/754, e-STJ):
+A decisão ora agravada, a seguir transcrita, que indeferiu o pedido de concessão dos benefícios da justiça gratuita aos agravantes e determinou o recolhimento do preparo está devidamente fundamentada e deve ser mantida:
+"Trata-se de pedido de gratuidade da justiça formulado em recurso pelos apelantes Flavio Ozon Boghossian, Marcus Vinícius El Huaick de Araújo e Adriana Bastos El-Huaick de Araújo.
+A declaração de pobreza possui presunção relativa de veracidade, cabendo ao magistrado analisar em cada caso e de acordo com as provas apresentadas se a parte faz jus ao benefício.
+Mencionado entendimento está em consonância com o previsto no artigo 5º, inciso LXXIV, da Constituição Federal, segundo o qual: "o Estado prestará assistência jurídica integral e gratuita aos que comprovarem a insuficiência de recursos".
+(..)
+No caso em apreço não houve demonstração suficiente da situação financeira precária dos apelantes a justificar a concessão do benefício. Verifica-se que os apelantes formularam pedido de concessão da gratuidade no apelo e não apresentaram qualquer documento para comprovar a sua hipossuficiência financeira e sequer apresentaram sua declaração de imposto de renda. Entretanto, nos autos da execução foi juntada a cópia da declaração do imposto de renda do apelante Marcus Vinícius El Huaick de Araújo, marido da apelante Adriana Bastos El-Huaick de Araújo, referente ao ano- calendário 2022, na qual consta a informação de bens e direito no valor de R$ 8.614.851,39 (fls. 675 autos da execução). Já na declaração do imposto de renda do apelante Flavio Ozon Boghossian, referente ao ano-calendário 2022, consta a informação de bens e direito no valor de R$ 4.201.636,53 (fls. 686 autos da execução).
+Somente o fato da empresa, na qual os apelantes integram o quadro societário, estar em recuperação judicial não é suficiente para a concessão da gratuidade, até mesmo considerando o elevado patrimônio de ambos.
+Desta forma, não estão presentes nos autos a verossimilhança das alegações dos apelantes de insuficiência de recursos financeiros para arcar com as despesas e custas processuais, de modo que deve ser indeferido o pedido de concessão da gratuidade.
+Além disso, pelos motivos anteriormente expostos também fica indeferido o pedido de parcelamento do preparo.
+Por conseguinte, diante do indeferimento do pedido de gratuidade processual, deverá a parte apelante providenciar o recolhimento do preparo de apelação, no prazo de cinco dias, sob pena de não conhecimento do recurso.". (fls.599/601)
+Assim, rever a conclusão do acórdão recorrido, quanto à capacidade da parte recorrente de, sem prejuízo do seu próprio sustento, custear as despesas do processo em curso, implica o reexame das provas dos autos, providência vedada pela Súmula 7/STJ.
+Ademais, o entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para não conhecer recurso especial. Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do NCPC, haja vista que, na origem, foi interposto agravo de instrumento.
+Publique-se.
+Intimem-se.
+EMENTA
