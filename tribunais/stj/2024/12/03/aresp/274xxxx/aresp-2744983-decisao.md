@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOHNATAN MICHAEL MENEZES, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 237):
+APELAÇÃO CÍVEL. CONCURSO PÚBLICO. CARGO DE AGENTE PENITENCIÁRIO. EDITAL Nº 01/2022. INAPTIDÃO NA AVALIAÇÃO PSICOLÓGICA. MANDADO DE SEGURANÇA. PLEITO PARA REALIZAÇÃO DE RETESTE. REVOGAÇÃO TÁCITA DA LEI Nº 13.664/2011 PELA LEI Nº 15.266/2019 (ESTATUTO DO CONCURSO PÚBLICO).
+1. O Edital de Abertura nº 01/2022, considerado a lei do certame, no seu preâmbulo, não faz alusão à Lei Estadual nº 13.664/2011, que no seu artigo 1º assegura ".. ao candidato reprovado em exame psicológico, ou similar, em concurso para a investidura em cargo ou emprego público, o direito de acesso ao conteúdo da fundamentação da incompatibilidade e a submissão a novo exame, desde que requerido pelo interessado."
+2. O edital, além da entrevista devolutiva, prevê que em caso de não indicação na avaliação psicológica o candidato poderá interpor recurso administrativo, o qual foi assegurado ao candidato. Em tais aspectos, verifica-se que o edital está em consonância com a Lei nº 15.266, de 24 de janeiro de 2019, a qual, ao dispor sobre o Estatuto do Concurso Público no âmbito do Estado do Rio Grande do Sul.
+3. Na situação concreta, consideradas tais circunstâncias, efetivamente o novo Estatuto dos Concursos Públicos do Estado (Lei nº 15.266/2019), ao regular inteiramente a matéria, nada dispôs quanto ao "reteste". A esse respeito, não se pode olvidar a necessidade de observância do disposto no artigo 2º, §1º, do Decreto-Lei nº 4.657/429 (Lei de Introdução às Normas do Direito Brasileiro), segundo o qual: "A lei posterior revoga a anterior quando expressamente o declare, quando seja com ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior."
+4. A corroborar tal entendimento, o julgamento em 15.09.2023 pelo Segundo Grupo Cível desta Corte do IRDR nº 70085744878, com a fixação da seguinte tese, por maioria: "A Lei-RS nº 13.644/11, ainda que não tenha sido expressamente revogada quando do advento da Lei-RS nº 15.266/19, é em parte com esta incompatível, razão por que houve sua revogação tácita, nos termos do art. 2º, § 1º, da LINDB."
+APELAÇÃO PROVIDA. DENEGADA A SEGURANÇA.
+Opostos embargos de declaração, estes foram rejeitados, conforme ementa in verbis (fl. 285):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. CONCURSO PÚBLICO. CARGO DE AGENTE PENITENCIÁRIO. EDITAL Nº 01/2022. INAPTIDÃO NA AVALIAÇÃO PSICOLÓGICA. MANDADO DE SEGURANÇA. PLEITO PARA REALIZAÇÃO DE RETESTE. REVOGAÇÃO TÁCITA DA LEI Nº 13.664/2011 PELA LEI Nº 15.266/2019 (ESTATUTO DO CONCURSO PÚBLICO). AUSÊNCIA DE OMISSÃO.
+1. Os embargos de declaração constituem espécie de recurso de fundamentação vinculada, pois são cabíveis em hipóteses taxativamente previstas no artigo 1.022, incisos I, II e III do Código de Processo Civil, quais sejam: quando houver, na sentença ou acórdão, obscuridade, contradição, omissão ou erro material.
+2. Inexistência dos vícios previstos no art. 1.022 do CPC, não se prestando os embargos à rediscussão de matéria já apreciada.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Em seu recurso especial, às fls. 306-317, o recorrente sustenta violação ao art. 2º, § 2º, da LINDB, alegando, para tanto, que a Lei Estadual n. 15.266/2019 não revogou a Lei Estadual n. 13.644/2011, devendo, assim, ser mantido o direito de reaplicação do teste psicológico em concurso público.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 336-337):
+Assim, "ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF." (AgInt no AREsp 1745730/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 11/04/2022, DJe 18/04/2022).
+(..)
+In casu, pois, a alegação de violação ao artigo 2º, § 2º, da Lei de Introdução às Normas do Direito Brasileiro não foi ventilada no acórdão recorrido nem foi objeto dos embargos de declaração opostos para sanar as omissões, o que atrai as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Em seu agravo, às fls. 349-364, o agravante afirma que a matéria foi sim prequestionada, sustentando que (fl. 355):
+A discussão trazida ao Tribunal foi a de que se poderia uma norma posterior geral, revogar tacitamente uma anterior específica, ainda que não trouxesse regulamentação total sobre a matéria tratada na anterior. Cuida-se, então, pedido de análise se houve a revogação tácita, expressa ou se a norma ainda continua vigente.
+O art. 2º da Lei de Introdução às Normas de Direito Brasileiro como um todo foi objeto do Recurso Especial e do Recurso de Apelação, logo, não pode o TJRS agora dizer que não houve análise da matéria na origem.
+A tese da Autora é de defender que não houve a revogação tácita, atraindo, por lógica, a incidência do art. 2º, §2º da LINDB. Por tal motivo, a matéria foi devidamente prequestionada, em que pese o Tribunal não mencione especificamente o parágrafo segundo o artigo 2º.
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Em relação à alegada violação ao art. 2º, §2º da LINDB, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento na Lei Estadual n. 15.266/2019, que, segundo o Tribunal a quo, revogou a Lei Estadual n. 13.644/2011.
+Assim sendo, a matéria apresentada no recurso se refere a norma de direito local, incidindo, portanto, o enunciado 280 da Súmula do STF, aplicável, por analogia, ao recurso especial: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. CONTRIBUINTE QUE DEIXOU DE EFETUAR O ESTORNO DE CRÉDITO FISCAL DE ICMS RELATIVO A MERCADORIAS ENTRADAS NO ESTABELECIMENTO COM UTILIZAÇÃO DE CRÉDITO FISCAL, E QUE POSTERIORMENTE FORAM OBJETO DE SAÍDA SEM INCIDÊNCIA DO IMPOSTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ACÓRDÃO COM FUNDAMENTO EM DIREITO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PRESUNÇÃO DE RESPONSABILIDADE. CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO DESPROVIDO.
+(..)
+2. Acórdão recorrido que resolveu a lide com fundamento no Decreto estadual n. 13.780/2012 e na Lei Estadual n. 7.014/1996, o que atrai o óbice da Súmula n. 280 do STF.
+(..)
+(AgInt no AREsp n. 2.443.793/BA, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 2º, § 2º, DA LINDB. REAPLICAÇÃO DE AVALIAÇÃO PSICOLÓGICA EM CONCURSO PÚBLICO. REVOGAÇÃO TÁCITA DA LEI Nº 13.664/2011 PELA LEI Nº 15.266/2019. DIREITO LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
