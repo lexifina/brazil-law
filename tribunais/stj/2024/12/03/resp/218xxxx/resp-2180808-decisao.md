@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 181):
+APELAÇÃO. PLANO DE SAÚDE. DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. DANO MORAL IN RE IPSA. AVISO PRÉVIO. Sentença de parcial procedência.
+Insurgência da ré. Não acolhimento. Cobrança de mensalidade decorrente da manutenção de plano de saúde, durante o prazo de 60 dias de aviso prévio, que se mostra indevida. Negativação do nome da recorrida que gera dano moral in re ipsa. Quantum razoável, que atende aos parâmetros da razoabilidade e proporcionalidade.
+Precedentes. Sentença mantida. RECURSO DESPROVIDO.
+Nas razões do recurso especial, a recorrente alega violação aos arts. 186, 187, 188 e 927 do Código Civil, bem como dissídio jurisprudencial; sustentando, em síntese que: (i) cabia ao recorrido provar a suposta ofensa grave e lesiva ao seu moral que justificasse eventual indenização; (ii) o valor arbitrado foi excessivo, caracterizando enriquecimento ilícito da parte recorrida.
+É o relatório. Decido.
+Com relação à, o STJ possui jurisprudência pacífica no sentido de que, nas hipóteses de inscrição indevida em órgão de restrição ao crédito, como a dos autos, o dano moral opera-se in re ipsa, isto é, decorre do próprio fato da referida inscrição, sendo desnecessária a sua comprovação. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Está pacificado nesta Corte Superior que a inscrição indevida em cadastro negativo de crédito, por si só, configura dano in re ipsa. Precedentes.
+1.1. É inviável o acolhimento da tese da ausência de responsabilidade civil da agravante, pois, para tanto, seria imprescindível o revolvimento do acervo fático-probatório, providência vedada a esta Corte Superior ante o óbice da Súmula 7/STJ.
+2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+3. A falta de indicação, pela parte recorrente, de quais dispositivos legais teriam sido objeto de interpretação divergente pelo acórdão recorrido implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.291.017/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE CONTRATO C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. DECISÃO DE INADMISSIBILIDADE DO APELO.
+APLICAÇÃO DE PRECEDENTE OBRIGATÓRIO. NÃO CONHECIMENTO DO AGRAVO DO ART. 1.042 DO CPC/2015. INSCRIÇÃO INDEVIDA.
+CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. SÚMULA 83/STJ. VALOR DA INDENIZAÇÃO. REEXAME. DESCABIMENTO.
+MONTANTE RAZOÁVEL. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015, o agravo em recurso especial é o recurso cabível contra decisão de inadmissibilidade do recurso especial não fundamentada em recurso repetitivo e proferida após a vigência do CPC/2015 (18/3/2016), motivo pelo qual a interposição de agravo interno incabível não interrompe o prazo do recurso adequado.
+Precedentes.
+2. Está pacificado nesta eg. Corte que a inscrição indevida em cadastro negativo de crédito, por si só, configura dano in re ipsa.
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 10.000,00 (dez mil reais) não se mostra exorbitante nem desproporcional aos danos suportados pela parte autora.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.114.822/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 13/10/2022.)
+Por fim, quanto ao valor da indenização por danos morais fixada em R$ 5.000,00 (cinco mil reais), o Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada o caráter exorbitante ou irrisório da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÕES RECURSAIS DEFICIENTES. SÚMULAS N. 283 E 284 DO STF. LOCAÇÃO COMERCIAL. TRANSFERÊNCIA DA LOCAÇÃO. NÃO RECONHECIMENTO PELA INSTÂNCIA DE ORIGEM. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO- PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DANO MORAL CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. NEGATIVAÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO.
+DANO MORAL IN RE IPSA. SUMULA N. 83 DO STJ. QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações recursais deficientes que não guardam correlação como decidido nos autos.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ ao caso em que o acolhimento das teses defendidas no recurso especial implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático- probatórios dos autos.
+3. Rever o entendimento do tribunal de origem acerca da existência do dano moral no caso demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência do óbice da Súmula n. 7 do STJ.
+4. Consoante entendimento desta Corte Superior, a inscrição indevida em cadastro de inadimplentes configura dano moral in re ipsa.
+Precedente.
+5. A revisão em recurso especial da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.607.866/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+Com efeito, somente é possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame. Isso, porque o valor da indenização por danos morais, arbitrado em R$ 5.000,,0 não é exorbitante, nem desproporcional aos danos sofridos pelo agravado, que, conforme mencionado pelas instâncias ordinárias, teve seu nome inscrito em órgão de proteção ao crédito sem que tenha sido notificado previamente acerca da referida inscrição.
+Além disso, encontra-se dentro dos parâmetros adotados por esta Corte Superior em casos análogos:
+RECURSO ESPECIAL. DANO MORAL. CADASTRO DE INADIMPLENTES. TÍTULO QUITADO. INSCRIÇÃO INDEVIDA. INDENIZAÇÃO. AFASTAMENTO OU REDUÇÃO. INVIABILIDADE. SÚMULA Nº 7/STJ. DANO MATERIAL. MÚTUO. NEGÓCIO FRUSTRADO. VALOR OBJETO DO CONTRATO NÃO APERFEIÇOADO. RESSARCIMENTO. EFETIVO PREJUÍZO. AUSÊNCIA. DANO EMERGENTE. INEXISTÊNCIA.
+1. A inscrição ou manutenção indevida do nome do devedor no cadastro de inadimplentes acarreta, conforme jurisprudência reiterada deste Tribunal, o dano moral in re ipsa, ou seja, dano vinculado à própria existência do fato ilícito, cujos resultados são presumidos. Precedentes.
+2. O caso concreto não comporta a excepcional revisão do valor da indenização fixada por danos morais, com o afastamento do óbice previsto na Súmula nº 7/STJ, pois a quantia de R$ 5.000,00 (cinco mil reais) não se revela exorbitante para reparar o emitente de título de crédito que, mesmo quitado, foi inscrito em serviço de proteção ao crédito e utilizado como fundamento para negativa de financiamento bancário. 3. A controvérsia sobre o dano material está limitada a definir se o valor que seria objeto de mútuo, negado por força de inscrição indevida em cadastro de inadimplentes, pode ser ressarcido a título de dano emergente.
+4. A negativa de concessão de crédito impede o acréscimo de valores no patrimônio do mutuante e, de forma simultânea, a aquisição de dívida pela quantia equivalente, circunstância que obsta o ressarcimento por danos emergentes por ausência de redução patrimonial do suposto lesado.
+5. A condenação em danos emergentes, carente de efetivo prejuízo, resulta em duas situações rejeitadas pelo ordenamento jurídico vigente: a) a teratológica condenação com liquidação resultando em "dano zero" e b) o enriquecimento ilícito daquele que obtém reposição financeira sem ter suportado a perda equivalente.
+6. Recurso especial parcialmente provido.
+(REsp n. 1.369.039/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. CONTA- CORRENTE. DESCONTOS INDEVIDOS SOBRE PROVENTOS. DANO MORAL. REQUISITOS CONFIGURADORES. PRETENSÃO DE AFASTAMENTO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. INDENIZAÇÃO DEVIDA PELA INSTITUIÇÃO FINANCEIRA. IN RE IPSA. PRECEDENTES. QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL. SÚMULA 7/STJ.
+1. A orientação do Superior Tribunal de Justiça firmou-se no sentido de que o fornecimento de crédito, mediante fraude praticada por terceiro-falsário, por constituir risco inerente à atividade econômica das instituições financeiras, não elide a responsabilidade destas pelos danos daí advindos.
+2. Ao contrário do alegado pelo recorrente, é de se ressaltar que, em hipóteses como a dos autos, é prescindível a comprovação do dano moral, o qual decorre do próprio fato, operando-se in re ipsa.
+Depreende-se que o fato por si só é capaz de ofender a honra subjetiva do autor, por afetar o seu bem-estar, em razão da inscrição de seu nome em cadastro de inadimplentes, de forma que o dano moral está ínsito na ilicitude do ato praticado, sendo desnecessária sua efetiva demonstração.
+3. O entendimento pacificado no Superior Tribunal de Justiça é de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Desse modo, não se mostra desproporcional a fixação em R$ 5.000,00 (cinco mil reais) a título de reparação moral, decorrente das circunstâncias específicas do caso concreto, motivo pelo qual não se justifica a excepcional intervenção desta Corte no presente feito, como bem consignado na decisão agravada.4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 425.088/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/12/2013, DJe de 4/2/2014.)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% (quinze por cento) para 16% (dezesseis por cento).
+Publique-se.
+EMENTA
