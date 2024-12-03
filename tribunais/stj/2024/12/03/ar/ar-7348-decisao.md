@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de ação rescisória proposta por EDERALDO SOARES e OUTRO para desconstituição da decisão deste Tribunal que, no REsp n. 1.865.523/PR, deu provimento ao recurso especial do Banco Boavista Interatlântico S.A. e do Banco Mercantil de São Paulo S.A. para fixar como termo inicial dos juros de mora sobre honorários advocatícios a data da intimação dos executados no cumprimento de sentença.
+Sustentam que a cadeia de procuração dos recorridos na ação rescindenda estava incompleta, o que deveria ter atraído o óbice da Súmula n. 115 do STJ. Assim, entendem que, na falta de tal instrumento, todos os atos praticados pelo Banco Boavista e pelo Banco Mercantil de São Paulo são inválidos.
+Afirmam que há erro de fato, porquanto as decisões naqueles autos foram pautadas por premissas falsas, o que levou à fixação do termo inicial dos juros de mora de forma equivocada. Segundo argumentam, "os relatores deveriam deixar de julgar monocraticamente sob o escudo de "entendimento dominante", pois, com a entrada em vigor do CPC/2015, ocorreu superação  overruling  da Súmula 568 do STJ, nos termos do artigo 489, § 1º, VII, do CPC" (fl. 28).
+A tutela de urgência foi indeferida às fls. 565-568.
+Por meio da decisão de fls. 558-559, os autores foram intimados para efetuar o depósito de 5% do valor da causa (art. 968, II, do CPC).
+Parecer do MPF pelo não conhecimento do pedido rescisório (fls. 551-555).
+Após, seguiram-se oito petições de ambas as partes, com os seguintes conteúdos:
+- requerimento de suspensão do feito e devolução dos prazos processuais ante o falecimento do autor Ederaldo Soares;
+- impugnação ao pedido de devolução de prazo, já que o polo passivo conta com mais pessoas além do falecido;
+- habilitação dos herdeiros;
+- juntada de procuração;
+- "denúncia" sobre a deficiência de representação da parte requerida na ação rescindenda;
+- impugnação à referida "denúncia";
+- reiteração das "ilegalidades" na conduta da parte requerida, tal como a questão das procurações, e novo pedido de devolução dos prazos.
+É o relatório. Decido.
+I - Suspensão do feito por morte de um dos autores
+Conforme a decisão de fls. 558-559, os autores foram intimados para que, no prazo de 15 dias, recolhessem as custas processuais e efetuassem o depósito de 5% do valor dado à causa.
+Contudo, não se manifestaram senão 3 meses depois da intimação, noticiando o falecimento de EDERALDO SOARES, ocorrido 8 meses antes (Petição n. 00452834/2024, fls. 576-581).
+É certo que a morte de quaisquer das partes acarreta a suspensão do processo (art. 313, I, do CPC), pois há necessidade de que se faça a substituição do espólio por seus sucessores. Mas tal regra não é absoluta.
+Já foi decidido por esta Corte, no REsp n. 2.033.239/SP, que a superveniência do óbito de uma das partes acarreta a imediata suspensão do processo a fim de viabilizar a substituição processual pelo espólio. Contudo, a depender da conduta da parte, tal como no presente feito, em que injustificadamente fez a comunicação do falecimento muitos meses depois do ocorrido, a nulidade é relativa e atinge apenas os atos que causarem prejuízos processuais ao espólio.
+Consta do voto ainda o seguinte:
+Em face disso, não se pode deixar de reconhecer que a caracterização de alegado prejuízo processual, advinda da não suspensão do feito, mostra-se absolutamente incoerente quando a parte a quem a nulidade aproveitaria, ciente de seu fato gerador, não a suscita nos autos logo na primeira oportunidade que lhe é dada, utilizando-se do processo como instrumento hábil a coordenar suas alegações e trazendo a lume a correlata insurgência, ulteriormente, no caso de prolação de decisão desfavorável, em absoluta contrariedade aos princípios da efetividade, da razoabilidade e da boa-fé processual.
+Isso se adéqua com perfeição ao presente feito.
+Ademais, a parte autora era composta por Ederaldo Soares e Advocacia Ederaldo Soares S/C. Através da procuração ad judicia, foram nomeados os procuradores Fábio T. Soares, Fabiola P. Soares e Mateus Augusto Tofano Soares, sendo os dois primeiros filhos do falecido e, portanto, seus sucessores, que se habilitaram juntamente com Frederico Augusto Soares, conforme a petição de fls. 597-608 (Petição n. 00453340/2024).
+É certo que houve um retardo injustificado de comunicação do falecimento, já que dois dos causídicos nomeados pelo falecido são também seus sucessores (filhos) e foram intimados algumas vezes, desde o falecimento até a presente data, de trâmites processuais diversos. Vale conferir: a certidão de fl. 533, de 13 de dezembro de 2023; a certidão de fl. 560, de 21 de março de 2024; e a certidão de fl. 569, de 13 de maio de 2024.
+Portanto, o feito teve andamento regular e dois dos sucessores do falecido foram comunicados dos atos praticados, embora tenham se omitido na informação a respeito do falecimento, deixando de formular os requerimentos legais pertinentes em tempo minimamente razoável, ou seja, deixaram que os trâmites processuais fluíssem naturalmente.
+Ademais, não alegaram prejuízo, esmerando-se em denúncias de condutas irregulares da parte adversa.
+Portanto, observando-se que os causídicos nomeados pelo falecido confundem-se com os sucessores, que houve retardo de 8 meses para que informassem o falecimento e fizessem os requerimentos necessários e que não indicaram prejuízo algum decorrente da não suspensão do feito, bem como considerando a jurisprudência deste Tribunal de que a não suspensão do processo em razão da morte enseja nulidade relativa, a depender dos reais prejuízos ao espólio, indefiro o pleito de devolução dos prazos processuais.
+II - Indeferimento da inicial
+a) Multa prevista no art. 968, II, do CPC
+Observa-se que dois dos sucessores, mesmo na qualidade de procuradores do autor da ação, foram intimados para efetuar o depósito da multa de 5% sobre o valor atualizado da causa, bem como para recolher as custas (fls. 558-559).
+O prazo correu in albis e, nem sequer naquele momento, houve a informação do falecimento ocorrido, com os requerimentos de direito. A referida intimação ocorreu 5 meses após o falecimento.
+O recolhimento do depósito de 5% sobre o valor atualizado da causa constitui pressuposto de constituição e desenvolvimento válido da ação rescisória. Logo, tendo havido intimação da parte (em nome de seus sucessores) para regularizar o referido recolhimento, o descumprimento dessa determinação acarreta o indeferimento da inicial e a extinção do feito sem resolução do mérito.
+b) Não cabimento da ação rescisória
+De qualquer forma, a presente ação não tem como prosseguir.
+Intencionava a parte autora rescindir decisão monocrática de provimento do recurso especial que fixou como termo inicial dos juros de mora a data da intimação do executado no cumprimento de sentença.
+Nada obstante, a ação rescisória não serve para corrigir error in judicando ou in procedendo, com exceção das previsões contidas nos incisos do art. 966 do CPC.
+Na presente ação, isso não se observa; até o contrário, pois a ação está sendo utilizada como mera via de impugnação, ou seja, como sucedâneo recursal, uma vez que a parte não buscou sanar o suposto erro através do agravo interno.
+Isso fica bastante evidente no seguinte trecho da inicial (fl. 11):
+Verifica-se que não houve analise procedida pelo Superior Tribunal de Justiça, REsp 1865523/PR (2020/0055625-6), sendo anexados acórdãos que não se remetem aos paradigmas relacionados ao caso em tela, tratando-se de julgados que se referem a casos genéricos, fundamentados sobre execuções definitivas, sem nenhuma identidade com o paradigma, sem entendimentos que envolvam as mesmas questões legais, mas relacionadas a fatos, provas e circunstâncias especificas de processo com matérias distintas, além de ser imputadas situações que não existiram, deixando de fora fatos concretos, fica claro que as decisões foram calcada através de equívocos fáticos e erros formais.
+Ademais, a petição inicial, no que tange à questão sobre a irregularidade de representação da parte adversa na ação rescindenda, é inepta, porquanto o autor não indicou os fundamentos sobre os quais sua irresignação está amparada. Nada obstante o princípio iura novit curia, à hipótese da presente rescisória não se aplica, dado que a não indicação prejudicou a compreensão da causa petendi.
+Com relação à questão central - fixação dos juros de mora -, sustenta a parte que há erro de fato, pois inexiste entendimento predominante nesta Corte acerca da aplicação de juros de mora a partir da citação em execuções provisórias.
+Sem razão, pois, mesmo que assim fosse, isso não acarreta a alteração do julgado; além disso, o requerente nem mesmo indicou algo a respeito.
+Não fosse por isso, o erro de fato a que alude o inciso VII do art. 966 do CPC refere-se àquele em que, "se o magistrado estivesse atento ao ponto fático desprezado, certamente a decisão seria outra,  ..  o texto legal reivindica a presença de nexo de causalidade entre o erro de fato e o desfecho da causa originária" (BARIONI, Rodrigo. Ação rescisória e recursos para os tribunais superiores. 2. ed. rev. atual. e ampl. São Paulo: RT, 2013, p. 124).
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. ALEGAÇÃO DE PROVA FALSA, PROVA NOVA E ERRO DE FATO. (CPC, ART. 966, V, VI E VII DO CPC/15). INEXISTÊNCIA. AÇÃO RESCISÓRIA IMPROCEDENTE. AGRAVO NÃO PROVIDO.
+1. Ação rescisória na qual a vestibular deixou de apontar, com precisão, qual seria a prova "cuja falsidade tenha sido apurada em processo criminal ou venha a ser demonstrada na própria ação rescisória" (CPC, art. 966, VI), se limitando a indicar, com base em alegado erro de interpretação normativa, vício em todo o processo administrativo objeto de discussão na ação subjacente.
+2. Nos termos da Jurisprudência desta Corte, " a  discordância do autor quanto à interpretação dada aos fatos e às normas pelo órgão julgador não autoriza o manejo da excepcional ação rescisória" (STJ, AR n. 6.657/DF, relator Ministro Francisco Falcão, Primeira Seção, DJe de 30/3/2021).
+3. Alegação de prova nova que não pode ser acolhida, à míngua de demonstração da impossibilidade de sua obtenção ou utilização ao tempo da ação pretérita, eis que, nos termos da compreensão consolidada neste Tribunal Superior, o "importante é que à época dos acontecimentos havia a impossibilidade de sua utilização pelo autor, tendo em vista encontrar-se impedido de se valer do documento - impedimento este não oriundo de sua desídia, mas sim da situação fática ou jurídica em que se encontrava" (EDcl nos EDcl no AgRg no Ag n. 563.593/SP, relator Ministro Gilson Dipp, Quinta Turma, julgado em 14/12/2004, DJ de 21/2/2005).
+4. Para fins de ação rescisória, para o reconhecimento do "erro de fato apto a ensejar a propositura da rescisória, é necessário a) que o julgamento rescindendo tenha sido fundado no erro de fato; b) que o erro possa ser apurado com base nos documentos que instruem os autos do processo originário; c) que ausente controvérsia sobre o fato; e d) que inexista pronunciamento judicial a respeito do fato" (AR n. 6.980/DF, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 28/9/2022, DJe de 4/11/2022).
+5. Agravo a que se nega provimento.
+Desse modo, os fatos mencionados pela parte autora não são suficientes para sustentar a admissão do pedido rescisório. A presente demanda, portanto, é manifestamente incabível à luz do que consta da própria inicial e da decisão rescindenda.
+III - Conclusão
+Ante o exposto, não conheço da ação rescisória.
+Prejudicados os pleitos referentes às Petições n. 00468151/2024, 00714921/2024 e 00999278/2024. As demais estão contempladas na presente decisão.
+O prazo processual para eventual recurso fica suspenso até que se esgote o prazo para manifestação a respeito da habilitação requerida às fls. 597-608 .
+Publique-se. Intimem-se.
+EMENTA
