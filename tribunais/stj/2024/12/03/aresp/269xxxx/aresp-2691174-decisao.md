@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual DEFENSORIA PÚBLICA DO ESTADO DO MATO GROSSO DO SUL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, exercido no juízo de retratação, assim ementado (fl. 322):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - RETORNO DOS AUTOS DA VICE-PRESIDÊNCIA PARA REEXAME - CONDENAÇÃO DO ESTADO DE MATO GROSSO DO SUL AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS À DEFENSORIA PÚBLICA - POSSIBILIDADE - TEMA 1002 DO STF - JUÍZO DE RETRATAÇÃO EXERCIDO - RECURSO PROVIDO. O Supremo Tribunal Federal, no Tema 1.002, fixou tese vinculante no sentido de que "é devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra." Considerando que o julgado está em desacordo com o entendimento sedimentado pela Corte Suprema, necessário o juízo de retratação para condenar o Estado de Mato Grosso do Sul ao pagamento de honorários sucumbenciais em favor da Defensoria Pública Estadual. Juízo de retratação exercido. Recurso provido.
+Os primeiros e os segundos embargos de declaração opostos pela parte ora recorrente foram rejeitados (fls. 357/361 e 389/393).
+Nas razões de seu recurso especial, a parte recorrente alega violação dos arts. 489 e 1.022, parágrafo único, II, do Código de Processo Civil (CPC), porquanto o acórdão recorrido foi omisso ao não se pronunciar sobre a ofensa aos arts. 85, § 11, 117, 502, 505, 506 e 507 do CPC.
+Aduz que os honorários não foram majorados em grau recursal e que preenche os requisitos estabelecidos na jurisprudência do Superior Tribunal de Justiça para a majoração.
+Afirma que a sentença fixou honorários advocatícios exclusivamente em desfavor do município, não imputando ao estado qualquer condenação em verba honorária, em observância à Súmula 421 do Superior Tribunal de Justiça (STJ). Assim, considerando a natureza do litisconsórcio passivo facultativo entre os entes, eventual fixação posterior de honorários contra o estado deveria ocorrer de forma autônoma, não sendo possível o rateio da verba honorária originalmente arbitrada apenas ao município.
+A parte adversa apresentou contrarrazões (fls. 427/438).
+Sobreveio o juízo de admissibilidade na instância de origem que inadmitiu o recurso especial (fls. 440/447 ).
+Parecer do Ministério Público Federal opinando pelo desprovimento do recurso especial (fls. 749/753).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A parte recorrente opôs dois embargos de declaração na origem com o argumento de que os honorários advocatícios não deveriam ser divididos igualmente entre os entes públicos, cabendo 50% do valor fixado a cada um, porquanto trata-se de litisconsórcio passivo facultativo simples, em que cada parte deve ser tratada de forma autônoma, conforme disposto no art. 117 do Código de Processo Civil.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL decidiu o seguinte (fl. 391):
+Verifica-se que a matéria posta em estudo foi devidamente examinada por este colegiado, não havendo qualquer omissão a ser sanada. Aliás, analisando detidamente o acórdão recorrido, infere-se claramente que já ocorreu a pretendida fixação de forma autônoma dos honorários sucumbenciais para a cada um dos litigantes, sendo até incompreensível a insurgência do embargante nesse aspecto.
+O que se percebe, em verdade, é que a embargante não concorda com o valor individualizado que foi fixado em desfavor de cada Ente Público sucumbente. Contudo, a via dos embargos declaratórios, conforme já afirmado no acórdão anterior, não é a correta para rediscussão da matéria julgada.
+Eventual discordância quanto ao conteúdo da decisão, deverá ser deduzida em recurso apropriado, não na via estreita dos embargos declaratórios.
+O Tribunal de origem, ao apreciar a matéria, consignou que os honorários sucumbenciais foram devidamente fixados para cada litigante.
+Vê-se que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto à majoração dos honorários advocatícios, observo que, não tendo a sentença condenado o Estado de Mato Grosso do Sul ao pagamento de honorários sucumbenciais, em observância à Súmula 421 do STJ, torna-se inviável o acolhimento do pleito recursal de aumento da verba honorária com fundamento no art. 85, § 11, do CPC/2015, em favor da Defensoria Pública, ora recorrente.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. OMISSÃO. OCORRÊNCIA. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+ ..
+2. Ao dispor sobre a majoração dos honorários em decisão monocrática, o então relator do presente feito a condicionou à sua prévia fixação. Se o próprio embargante afirma que, no caso, não foram fixados honorários sucumbenciais, não há sequer interesse em recorrer quanto ao ponto, já que a majoração não foi imposta, mas condicionada à sua prévia fixação.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgInt no AREsp n. 2.609.687/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 23/9/2024, DJe de 26/9/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESNECESSIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA. JULGAMENTO MONOCRÁTICO NO STJ. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. INEXISTÊNCIA DE PRÉVIA CONDENAÇÃO NO FEITO. ART. 85, § 11, DO CPC. MAJORAÇÃO INDEVIDA.
+ ..
+5. Inexistindo prévia condenação no feito ao pagamento de verba sucumbencial, não cabe a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC.
+6. Agravo interno parcialmente provido, apenas para afastar a condenação em honorários recursais.
+(AgInt no AREsp n. 2.217.845/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Acerca da distribuição do ônus de sucumbência, entendimento diverso , conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. DIREITO INTERNACIONAL. CONVENÇÃO DA HAIA SOBRE OS ASPECTOS CIVIS DO SEQUESTRO INTERNACIONAL DE CRIANÇAS. COOPERAÇÃO JURÍDICA INTERNACIONAL ENTRE BRASIL E ITÁLIA . GUARDA CONJUNTA DE MENOR EXERCIDA PELO CASAL EM TERRITÓRIO ITALIANO. RETENÇÃO ILÍCITA NO BRASIL POR GENITORA BRASILEIRA. BUSCA, APREENSÃO E RESTITUIÇÃO. PROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DA SÚMULA N. 7/STJ.
+ ..
+IV - Ao contrário da tese defendida pelo ente público, o Supremo Tribunal Federal, no julgamento do Tema n. 1.002/STF, RE n. 1.140.005, no plenário da Corte, definiu tese no sentido de que é devido o pagamento de honorários sucumbenciais à Defensoria Pública, inclusive, quanto ao ente público ao qual integra.
+V - Eis a tese fixada: "1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra; 2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição."
+VI - Consoante a jurisprudência desta Corte, "É inviável a apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, a teor do disposto na Súmula 7 do STJ" (AgInt nos EDcl no REsp n. 2.001.322/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/4/2023, DJe de 11/4/2023). No mesmo sentido: AgInt no AREsp n. 2.090.303/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023, e AgInt no REsp n. 1.374.977/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/5/2023, DJe de 29/5/2023.
+VII - Agravo interno improvido.
+(AgInt no REsp n. 2.082.084/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. FIANÇA BANCÁRIA. SUBSTITUIÇÃO POR SEGURO GARANTIA. POSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+ ..
+4. A revisão do acórdão recorrido quanto à distribuição dos ônus sucumbenciais, com o propósito de verificar a proporção de decaimento de cada uma das partes, pressupõe o reexame do contexto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, dar-lhe parcial provimento.
+(AREsp n. 1.364.116/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/10/2022, DJe de 21/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
