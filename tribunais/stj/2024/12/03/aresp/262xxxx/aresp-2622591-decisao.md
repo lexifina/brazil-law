@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual GUILHERME FAIGUENBOIM se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 234):
+TRIBUTÁRIO. AGRAVO INTERNO. JULGAMENTO POR DECISÃO MONOCRÁTICA. ART. 932, IV, do CPC/2015. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. RECEPÇÃO PELA CARTA DE 1988 DA LEGISLAÇÃO REGULADORA DA MATÉRIA. DECRETO 1.422/75. SUJEITO PASSIVO. FIRMA INDIVIDUAL. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA. EMPREGO DE TRABALHADORES. CARACTERIZAÇÃO DO CONTRIBUINTE. SUJEITO PASSIVO. AGRAVO DESPROVIDO.
+1. O julgamento monocrático se deu segundo as atribuições conferidas pelo artigo 932, IV, do CPC/2015.
+2. Por ocasião do julgamento do recurso observar-se-á o disposto no artigo 1.021 do Código de Processo Civil de 2015.
+3. Conforme se constata, a r. decisão apresentou de maneira clara e suficiente as razões que nortearam a convicção esposada. Na realidade, a parte agravante não concorda com as premissas e fundamentos adotados na decisão, buscando, em verdade, externar seu inconformismo com a solução adotada que lhe foi desfavorável, pretendendo vê-la alterada.
+4. Como é cediço, o magistrado não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas, ou a responder, um a um, a todos os seus argumentos quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+5. Quanto à hipótese contida no § 3º do artigo 1.021 do CPC de 2015, entendo que a vedação só se justifica na hipótese de o agravo interno interposto não se limitar à mera reiteração das razões de apelação, o que não é o caso do presente agravo, como se observa do relatório.
+6. Agravo Interno desprovido.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte alega violação dos arts. 966, do Código Civil, 15 da Lei 9.424/1996 e 1º, §3º, da Lei 9.766/1998 ao defender não ser contribuinte do salário-educação por ser produtor rural pessoa física.
+A parte adversa apresentou contrarrazões (fls. 315/323).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Ao solucionar a controvérsia, o Tribunal de origem concluiu que a parte agravante detinha sujeição passiva para o recolhimento do recolhimento do salário-educação porquanto possui registro no C NPJ e "emprega funcionários na exploração de sua atividade econômica" (fl. 195).
+O entendimento do acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça (STJ), senão vejamos:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. PRODUTOR RURAL PESSOA FÍSICA. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA (CNPJ). ENQUADRAMENTO NO CONCEITO DE EMPRESA PARA EFEITO DE INCIDÊNCIA DA CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. LEGITIMIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Esta Corte tem posicionamento consolidado segundo o qual o produtor rural pessoa física, inscrito no Cadastro Nacional de Pessoa Jurídica (CNPJ), enquadra-se no conceito de empresa para efeito de incidência da contribuição para o salário-educação.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.122.933/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. PLANEJAMENTO TRIBUTÁRIO ABUSIVO. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. SÚMULA N. 83 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança contra Delegado da Receita Federal do Brasil em Santo Ângelo, por meio do qual produtor rural pessoa física objetiva provimento jurisdicional que reconheça a inexigibilidade da contribuição social para o salário-educação, no percentual de 2,5% sobre a remuneração paga ou creditada aos empregados, bem como o direito de compensar os valores pagos indevidamente nos últimos cinco anos, corrigidos pela SELIC.
+Na sentença a segurança foi concedida. No Tribunal a quo, a sentença foi mantida. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+II - Não foi constatada a utilização indevida e concomitante pelo autor da forma de organização como pessoa física e da forma de organização como pessoa jurídica, e tal discussão não poderia ser inaugurada em recurso especial. A insurgência da Fazenda Nacional, ao tentar afastar o entendimento de que a contribuição para o salário-educação tem como sujeito passivo as empresas, indicando abusividade no planejamento tributário por parte do contribuinte, empregador rural que tem empregados ligados ao seu CPF, conquanto também tenha registro no CNPJ, esbarra no óbice da Súmula n. 7 desse Tribunal.
+III - O caso não se confunde com os precedentes citados pela agravante, que discutem a necessidade de inscrição na junta comercial para determinar a sujeição passiva do produtor rural.
+Aplica-se, à espécie, o enunciado da Súmula n. 83/STJ. Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional. No mesmo sentido da decisão recorrida: REsp n. 1.162.307/RJ, relator Ministro Luiz Fux, Primeira Seção, julgado em 24/11/2010, DJe de 3/12/2010.
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 2.381.913/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Ademais, proferir entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
