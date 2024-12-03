@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de afronta ao art. 1.022 do CPC/2015 e falta de demonstração de vulneração aos arts. 223, 502, 505, 507, 508, 509 do CPC/2015 e 6º, VIII, do CDC (e-STJ fls. 67/69).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 23):
+LIQUIDAÇÃO DE SENTENÇA. RESTITUIÇÃO DE VALORES. Sentença que determinou a restituição de valores pagos ao plano de saúde em razão de reajustes abusivos. Insurgência dos autores contra a homologação do débito apresentado pela seguradora ré. Manutenção. Ônus da demonstração do histórico de pagamentos, anteriores a 2005, que competia à parte autora, nos termos do art. 373, I, do CPC. Inversão do ônus da prova não aplicada no caso. Silêncio nesse tocante. Cálculos sem demais questionamentos. Homologação mantida. Recurso não provido.
+Nas razões do recurso especial (e-STJ fls. 34/45), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais: arts. 223, 502, 505, 507, 508 e 509, § 4º, e 1.022, II, do CPC/2015 e 6º, VIII, do CDC.
+Insurge-se contra a conclusão da Corte local de que (e-STJ fl. 24):
+ ..  os cálculos foram efetuados com base nos valores armazenados pela ré, que são referentes aos anos 2005 e subsequentes.
+É ônus, todavia, dos autores a demonstração do histórico dos pagamentos anteriores a essa data, com base na regra geral de distribuição dos ônus da prova (art. 373, I do CPC).
+Compelir à seguradora à manutenção de dados de 20 anos atrás mostra-se irrazoável e sem amparo legal, notadamente porque não se trata de prova cuja produção é dificílima ou impossível para o autor (art. 373, §1º do CPC), tampouco se verifica qualquer hipossuficiência técnica para tal mister (art. 6º, CDC). (e-STJ fl. 24)
+A parte afirma:
+(i) violação do artigo 1.022, II, do CPC/2015, uma vez que "o Douto Juízo se omitiu sobre a análise dos dispositivos que ampararam o pleito do Recorrente e, ainda, sequer levaram em consideração os termos da condenação judicial, que sustentaram os pedidos formulados pela parte Recorrente no bojo da liquidação de sentença" (e-STJ fl. 40);
+(ii) ofensa aos arts. 223, 502, 505, 507, 508 e 509, § 4º, do CPC/2015, defendendo que (e-STJ fls. 40/42):
+a. O título executivo judicial formulado nos autos principais é claro no sentido de determinar o afastamento dos reajustes por faixa etária a partir dos 61 anos de idade do beneficiário, que ocorreu no ano de 1998;
+b. o Autor só detinha posse de comprovantes de pagamento a partir do ano de 2006, imprescindível foi a instauração de liquidação de sentença, para permitir o cumprimento integral do título executivo, sendo necessária a apresentação, por parte da Recorrida, do histórico de pagamento do Autor;
+c. o próprio acórdão recorrido confirma que o título executivo judicial determinou a exclusão dos reajustes abusivos desde 1998 - quando o Autor completou 61 anos - o que inclusive implica efeitos em relação ao montante que deve ser restituído, mesmo considerando a prescrição trienal;
+d. o acórdão que manteve a decisão agravada, retificou a homologação do débito exequendo divergente do entendimento consignado no título executivo, promovendo modificação do título executivo, de modo a suscitar violação aos limites da coisa julgada, afrontando expressamente a previsão do artigo 509, parágrafo 4º, do Código de Processo Civil, em clara insegurança jurídica que não se pode permitir;
+(iii) desrespeito ao art. 6º, inciso VIII, do CDC, porquanto "o contrato avençado entre as partes possui natureza consumerista, razão pela qual ônus da prova deve expressamente recair à Bradesco Saúde que, na condição de prestadora dos serviços, restou incumbida do ônus probatório, nos termos previstos pelo artigo 6º, inciso VIII, do Código de Defesa do Consumidor" (e-STJ fl. 43);
+(iv) "o afastamento dos reajustes possui reflexos no valor de restituição devido pela Recorrida, mesmo se considerando a prescrição trienal e, caso não seja considerado o período de forma integral, causará prejuízos financeiros ao Autor e enriquecimento sem causa à Ré, o que é vedado pela legislação vigente" (e-STJ fl. 44).
+No agravo (e-STJ fls. 72/87), declara a presença dos requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+A controvérsia tem origem na pretensão da parte recorrente de que, em liquidação de sentença, seja a operadora compelida a apresentar o histórico dos pagamentos das mensalidades do plano de saúde a partir do ano 1998, para o fim de apurar os valores a serem restituídos por força do acórdão que revisou os reajustes por faixa etária nos seguintes termos (e-STJ fl. 5 - grifei):
+Diante do exposto,  ..  dá-se provimento ao recurso do autor, para reconhecer a abusividade das cláusulas 17.2 e 17.3 do contrato, com a exclusão da apli cação dos percentuais de reajuste por faixa etária previstos no contrato a partir dos 61 anos de idade, aplicados apenas os reajustes da ANS, mantida a condenação da ré ao ressarcimento dos valores pagos a maior, observado o prazo trienal.
+Na fase de liquidação de sentença, o Tribunal a quo considerou suficientes os cálculos "referentes aos anos 2005 e subsequentes" (e-STJ fl. 24), por entender que "Compelir à seguradora à manutenção de dados de 20 anos atrás mostra-se irrazoável e sem amparo legal" (e-STJ fl. 24).
+As razões do recurso especial não permitem a exata compreensão da controvérsia.
+A parte pleiteia genericamente que a operadora seja compelida a exibir os comprovantes de pagamento da mensalidade desde o ano de 1998, quando o usuário do plano de saúde tinha 61 anos de idade. Observe-se, porém, que o título executivo não declarou nulas as mensalidades pagas desde 1998, mas tão somente os reajustes ocorridos após essa data, aplicando-se a prescrição trienal (a ação foi ajuizada em 2018) quanto à obrigação de restituir os valores cobrados a maior.
+O recorrente sequer alegou que teria havido algum reajuste por faixa etária entre o ano de 1998 e o ano de 2005. Logo, as razões do recuso não permitem compreender a apontada violação do título executivo.
+A parte alega genericamente ofensa aos arts. 223, 502, 505, 507, 508 e 509, § 4º , e 1.022, II, do CPC/2015 e e 6º, VIII, do CDC, não havendo, portanto, demonstração clara e inequívoca da infração, o que caracteriza fragilidade na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários advocatícios, na forma do art. 85, § 11, do CPC/2015, porquanto não foram fixados nas instâncias originárias.
+Publique-se e intimem-se.
+EMENTA
