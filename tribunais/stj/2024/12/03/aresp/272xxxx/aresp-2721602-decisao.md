@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por SAULO RODRIGUES DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na gravo de Instrumento n. 2158892-07.2022.8.26.0000 e dos Embargos de Declaração Cível n. 2158892-07.2022.8.26.0000/50000, assim ementado (fls. 10200-1205; 1217-1219):
+AGRAVO DE INSTRUMENTO Ação civil pública por ato de improbidade administrativa Pleiteada a condenação do réu com fundamento no disposto pelo "caput" do art. 11, da Lei nº 8.429/92 Ação ajuizada em março/2016 Retroatividade das alterações trazidas pela Lei nº 14.230/21 que, em princípio, não alcançam situações consolidadas, devendo prevalecer, neste momento processual, o interesse público na apuração dos fatos Decisão mantida Recurso não provido.
+EMBARGOS DE DECLARAÇÃO Ausência de indicação de omissão, contradição, erro ou obscuridade Julgamento proferido em momento anterior ao decidido pelo STF no Tema de repercussão geral 1.199 Requisitos exigidos pelo art. 1.022, do CPC não demonstrados Questões que poderão ser analisadas pelo juízo de 1º grau quando do retorno dos autos à vara de origem Embargos conhecidos e rejeitados.
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ (fls. 1312-1313).
+O Tribunal de origem enfrentou expressamente o tema referente a aplicação do Tema de Repercussão Geral n. 1.199 do STF no julgamento do embargos de declaração (fls. 1212-1216). Portanto, inexiste omissão, razão pela qual não há falar em ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, a aplicação do art. 1º, § 4º, da Lei n. 8.429/1992, introduzida pela Lei n. 14.230/2021, de modo que defina se as normas modificadoras da Lei n. 8.429/1992 tem, ou não, aplicabilidade imediata sob este caso de improbidade submetido a Jurisdição paulistana. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL .
