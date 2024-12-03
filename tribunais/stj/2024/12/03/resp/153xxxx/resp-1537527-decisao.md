@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, recurso especial interposto pela FAZENDA NACIONAL contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 285):
+ADMINISTRATIVO. IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS. SISCOMEX. LICENCIAMENTOS. EFEITOS RETROATIVOS. NORMAS RESTRITIVAS. DIREITOS DOS ADMINISTRADOS. INVIABILIDADE. - Exercendo a parte autora atividades de importação e exportação de mercadorias, bem como perfectibilizados os contratos de compra e venda antes do cancelamento da autorização para operar o SISCOMEX, afronta o ato administrativo ora impugnado o princípio da segurança das relações jurídicas. - Em que pese a presunção de legitimidade e executoriedade dos atos administrativos, certo também que a administração pública não deve conferir efeitos retroativos às normas que importem restrições de direitos dos administrados.
+Foram opostos embargos de declaração na origem, porém rejeitados pelo Tribunal a quo (fls. 313-316).
+Nas razões recursais, a parte recorrente sustenta, preliminarmente, violação ao art. 535 do CPC/1973. No mérito, aduz que o acórdão recorrido violou os seguintes dispositivos legais: arts. 25, IX e 27, IX, "b", e 29, XII, da Lei 10.683/03; 2º, II, "b", (1); 15, III e XIV, e 16, III, IV, V e VI, do Decreto 7.096/2010; 44 do Decreto-Lei 37/1966; 15, 490, 491, 542, 543, 545, 550 e § 1º, 564, e 570, do Regulamento Aduaneiro; e 17, § 3º, da Portaria SECEX 23, de 14/7/2011.
+Segundo argumenta, em suma, "a lei ou a norma administrativa nova, que passa a exigir o licenciamento para o registro da DI referente a mercadorias já embarcadas não fere a irretroatividade constitucional, pois produz efeitos imediatos sobre situações jurídicas em curso de formação - o procedimento de importação foi iniciado, com o embarque das mercadorias, mas ainda não se perfectibilizou juridicamente, o que apenas ocorre no momento do registro da DI".
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Foi apresentada impugnação ao recurso (fls. 349-370).
+Parecer do MPF pelo não conhecimento do recurso (fls. 417-420).
+É o relatório.
+Passo a decidir.
+O recurso não merece conhecimento.
+Súmula 284 do STF
+Quanto à apontada violação ao art. 535 do CPC/1973, verifico que a parte recorrente, na apresentação das omissões que em tese não foram sanadas no julgamento dos embargos de declaração, não indicou de modo específico o motivo pelo qual o exame dessas questões seria importante para o adequado julgamento da causa.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial, porquanto não permite a exata compreensão da controvérsia, incidindo, pois, à espécie, o óbice da Súmula 284 do STF.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. SAT. RAT. FAP. SEGURO DE ACIDENTE DO TRABALHO. ESCALONAMENTO DAS ATIVIDADES DESENVOLVIDAS PELA EMPRESA. ENQUADRAMENTO POR DECRETO. LEGALIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. SÚMULA N. 283/STF. VIOLAÇÃO AO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. COMPETÊNCIA DO STF. OFENSA AO ART. 97 DO CTN. MERA REPRODUÇÃO DE NORMA CONSTITUCIONAL. INCOMPETÊNCIA DESTA CORTE. ALTERAÇÃO DE ALÍQUOTA DA CONTRIBUIÇÃO AO SAT. ATO INFRALEGAL. NATUREZA CONSTITUCIONAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+II - Não se pode conhecer a apontada violação ao art. 535 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+ ..
+IX - Agravo Interno improvido (AgInt no REsp n. 2.071.420/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+TRIBUTÁRIO. PROCESSO CIVIL. SUBSTITUIÇÃO TRIBUTÁRIA. DEPÓSITO JUDICIAL POR FORÇA DE DECISÃO PRECÁRIA EM AÇÃO MOVIDA PELO SUBSTITUÍDO EM DESFAVOR DA FAZENDA NACIONAL. LEVANTAMENTO ANTECIPADO DOS VALORES DEPOSITADOS. DECISÃO JUDICIAL REFORMADA. IMPOSSIBILIDADE DE NOVA COBRANÇA EM FACE DO SUBSTITUTO. PREJUÍZO DECORRENTE DE ATO DO PODER JUDICIÁRIO. RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. PRETENSÃO QUE DEMANDA REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. RECURSO INADMITIDO.
+ ..
+II - Em relação à alegada violação do art. 535 do CPC/1973, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula. Nesse panorama, a apresentação genérica de ofensa art. 535 do CPC/1973 (atualmente art. 1.022 do CPC/2015) atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+ ..
+XI - Recurso especial não conhecido (REsp n. 1.721.366/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/9/2023, DJe de 21/9/2023).
+Súmula 211 do STJ
+No que diz respeito à alegação de violação aos arts. 25, IX e 27, IX, "b", e 29, XII, da Lei 10.683/03, ao art. 2º, II, "b", (1), ao art. 15, III e XIV, e ao art. 16, III, IV, V e VI, do Decreto 7.096/2010, ao art. 44 do Decreto-Lei 37/1966, aos arts. 15, 490, 491, 542, 543, 545, 550 e § 1º, 564, e 570, do Regulamento Aduaneiro, e ao art. 17, § 3º, da Portaria SECEX 23, de 14/7/2011, o recurso especial também não merece prosperar.
+Em que pese a irresignação da parte recorrente, o exame dos autos revela que a matéria contida nos referidos artigos, apontados como violados, não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial, inarredável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação da Sumula 211 do STJ.
+A propósito, no mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA CONTROVERTIDA. INEXISTÊNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+2. O óbice da Súmula 343 do STF deve ser afastado, porquanto, antes do trânsito em julgado da sentença rescindenda, a jurisprudência de ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça já era pacífica quanto ao entendimento de que a CDA não é nula em razão da declaração de inconstitucionalidade do art. 3º, § 1º, da Lei n. 9.718/1998, devendo prosseguir a execução pelo decote do eventual excesso.
+3. Agravo interno desprovido (AgInt no REsp 1.942.612/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial foi interposto contra acórdão publicado na vigência do CPC/1973, como dispõe o Enunciado administrativo 7/STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Intimem-se.
+EMENTA
