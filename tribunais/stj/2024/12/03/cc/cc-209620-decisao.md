@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara Cível da Comarca de Capão Bonito/SP, suscitante, em desfavor do Juízo da 1ª Vara do Juizado Especial Federal de Itapeva - SJ/SP, suscitado, extraído dos autos da Ação Ordinária (Processo n. 5000945-26.2024.4.03.6341), aviada por Rosa Maria dos Santos em desfavor do Instituto Nacional do Seguro Social - INSS.
+A ação foi ajuizada perante o Juizado Especial Federal Cível da 3ª Região e distribuída à 1ª Vara do Juizado Especial Federal Cível de Itapeva - SJ/SP, em que foi expedida Carta Precatória à Justiça Estadual da Comarca de Capão Bonito/SP, para a realização de oitiva de testemunhas arroladas nos autos do processo supramencionado.
+Distribuída a deprecata à 2ª Vara Cível da Comarca de Capão Bonito/SP (sob o n. 2ª Vara Cível, sob o n. 1002450-78.2024.8.26.0123), o Juízo deprecado, no entanto, recusou-se em cumprir a deprecata, suscitando o presente conflito perante o STJ, mediante os seguintes fundamentos (fls. 3-9, e-STJ):
+Em recente julgamento do STJ acerca do conflito de competência nº 205772-SP (2024/0211480-7), bem idêntica situação envolvendo o deprecante Juízo Federal da Comarca de Itapeva (que tem jurisdição federal sobre a cidade de Capão Bonito) e a deprecada Justiça Estadual da Comarca de Capão Bonito, definiu-se que as oitivas devem ser feitas pelo Juízo de Itapeva (que contém a jurisdição federal plena sobre os processos previdenciários ajuizados neste município, não demonstrando impossibilidade de valer-se dos meios postos a sua disposição)
+Inicialmente, dispenso a oitiva do Parquet, em prestígio aos princípios da celeridade e da economia processual e por não envolver aquelas temáticas previstas no art. 178 do CPC/2015.
+É o relatório. Passo a decidir.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+Sem razão o suscitante. Isso porque, a jurisprudência desta Corte orienta-se no sentido de que as hipóteses de recusa de cumprimento da Carta Precatória constituem rol taxativo descrito no art. 267 do CPC/2015, verbis:
+Art. 267. O juiz recusará cumprimento a carta precatória ou arbitral, devolvendo-a com decisão motivada quando:
+I - a carta não estiver revestida dos requisitos legais;
+II - faltar ao juiz competência em razão da matéria ou da hierarquia;
+III - o juiz tiver dúvida acerca de sua autenticidade.
+Parágrafo único. No caso de incompetência em razão da matéria ou da hierarquia, o juiz deprecado, conforme o ato a ser praticado, poderá remeter a carta ao juiz ou ao tribunal competente.
+Nesses termos, cumpre ressaltar a decisão monocrática proferida nos autos do CC 183.724/SP, de lavra do i. Min. Mauro Campbell Marques, publicada em 09/02/2022: " ..  diante da taxatividade das hipóteses elencadas no art. 267 do CPC/2015, somente é permitido ao Juízo deprecado a recusa de cumprimento da carta precatória, devolvendo-a com despacho motivado, quando não estiver revestida dos requisitos legais, quando carecer de competência em razão da matéria ou da hierarquia ou quando houver dúvida acerca de sua autenticidade, hipóteses não verificadas nos autos".
+Ainda, nesse mesmo sentido, "ao Juízo deprecado somente é permitido devolver carta precatória quando não estiver revestida dos requisitos legais quando carecer de competência em razão da matéria ou da hierarquia ou, ainda, quando tiver dúvida acerca de sua autenticidade". (CC 174.482/MG, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, DJe 20/10/2020).
+No caso em exame, a recusa não se encontra amparada por qualquer das hipóteses legais.
+Ante o exposto, com base no art. 34, XXII, do RISTJ, CONHEÇO do presente conflito para declarar competente o Juízo de Direito da 2ª Vara da Comarca de Capão Bonito/SP, ora suscitante.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO DEPRECANTE E JUÍZO DEPRECADO. CARTA PRECATÓRIA. RECUSA DE CUMPRIMENTO. HIPÓTESES ELENCADAS NO ART. 267 DO CPC/2015. NÃO OCORRÊNCIA DE QUAISQUER DELAS NO CASO. PRECEDENTES. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE D IREITO DA 2ª VARA CÍVEL DE CAPÃO BONITO/SP, SUSCITANTE.
