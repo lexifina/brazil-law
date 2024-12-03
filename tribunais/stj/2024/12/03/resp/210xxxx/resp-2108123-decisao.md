@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por ACHÉ LABORATÓRIOS FARMACÊUTICOS S. A. (fls. 1293-1325) contra decisão do Tribunal Regional Federal da 3ª Região que não admitiu recurso especial dirigido em oposição ao acórdão prolatado na Apelação Cível n. 0005133-38.2004.4.03.6119 assim ementado (fls. 1.205-1.206):
+EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ- EXECUTIVIDADE PARCIALMENTE ACOLHIDA - EXTINÇÃO PARCIAL DO FEITO EXECUTIVO - HONORÁRIOS ADVOCATÍCIOS - CABIMENTO - FIXAÇÃO POR APRECIAÇÃO EQUITATIVA - APELAÇÃO PARCIALMENTE PROVIDA.
+1- Retornaram os autos do C. STJ para fixação de honorários advocatícios em favor do executado, em razão do acolhimento da exceção de pré-executividade em relação às CD As nº 80.2.04.017954-87 e nº 80.6.04.0018858-25, com a consequente extinção parcial da execução fiscal.
+2- Impõe-se a condenação da exequente ao pagamento de honorários advocatícios, em razão de a ação ter sido indevidamente ajuizada pela União Federal quanto a duas das três CD As em que fundamentada a execução fiscal, o que demandou a contratação de advogado para apresentação da exceção de pre-executividade, acolhida para extinguir parcialmente o feito executivo.
+3- Consigne-se a aplicabilidade do CPC/73 à hipótese dos autos, à vista da data de prolação das sentenças (ano de 2005), em conformidade com o posicionamento do C. STJ no EAResp 1255986.
+4- Apesar dos patamares constantes no artigo 20, § 3º, do Código de Processo Civil/73, o intuito do legislador não é pautado pelo enriquecimento sem causa, devendo a fixação dos honorários ser realizada de forma equitativa, balizada pelos princípios da proporcionalidade, causalidade e razoabilidade, analisando-se o quanto dispõe o artigo 20, § 4º, do mesmo diploma.
+5- Dessa forma, atento ao que prescreve o art. 20, § 4º do Código de Processo Civil de 1973 e com respeito aos princípios da equidade, causalidade e razoabilidade, os honorários sucumbenciais devem ser arbitrados em R$ 50.000,00 (cinquenta mil reais).
+6- Apelação parcialmente provida.
+Apresentadas contrarrazões (fls. 1.434-1.441).
+Admitido o apelo nobre na origem (fls. 1.568-1.571).
+É o relatório.
+Decido.
+Verifico que a matéria de fundo veiculada no presente recurso teve repercussão geral reconhecida pelo STF, nos autos do Recurso Extraordinário n. 1.412.069/PR. A controvérsia a ser dirimida encontra-se assim delimitada: "possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes" (Tema n. 1.255 do STF).
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, orienta-se que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC do 2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. REQUISITOS. TEMA COM REPERCUSSÃO GERAL RECONHECIDA. SOBRESTAMENTO.
+ ..
+III - O Supremo Tribunal Federal, considerando a questão relativa à "possível ofensa à isonomia (art. 5º, caput, da Constituição da República), ao devido processo legal (art. 5º, XXXIV, da Constituição da República) e aos princípios da proporcionalidade e da razoabilidade", afetou à sistemática da repercussão geral o Tema 1.255, nos seguintes termos: "possibilidade da fixação dos honorários por apreciação equitativa (art. 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes" (RE 1.412.069 RG, Relatora MINISTRA PRESIDENTE, Tribunal Pleno, julgado em 09/08/2023).
+IV - Embargos acolhidos a fim de tornar sem efeito as decisões anteriores e determinar a devolução dos autos à origem para aguardar o julgamento do Tema 1255 do Supremo Tribunal Federal. (EDcl nos EDcl no AgInt nos EDcl no REsp n. 1.907.959/CE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) seja negado seguimento ao recurso, se a decisão recorr ida coincidir com a orientação emanada pelo STF; ou b) seja realizado o juízo de retratação, caso o acórdão impugnado divirja da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
+EMENTA
+RECURS O ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS. REPERCUSSÃO GERAL RECONHECIDA. TEMA N. 1 255 DO STF. DEVOLUÇÃO À ORIGEM.
