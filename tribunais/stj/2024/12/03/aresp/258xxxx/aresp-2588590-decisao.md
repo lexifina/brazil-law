@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DE FATIMA DOS SANTOS contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 692):
+Apelação cível. Ação de usucapião extraordinária. Sentença de procedência. Justiça gratuita. Condição econômica da apelante para suportar as despesas do processo comprovada. Valor do preparo deve ser recolhido após julgamento do recurso, sob pena de inscrição na dívida ativa. Princípio da dialeticidade. Não violação. Presença de todos os requisitos necessários para conhecimento do recurso. Aplicação do artigo 1010 do Código de Processo Civil. Nulidade da sentença. Afastamento. Provas dos autos são suficientes para o justo deslinde da controvérsia. Usucapião. Posse da autora que não é exercida com animus domini. Relação de parentesco entre as partes. Autora que está no imóvel mediante simples permissão do irmão e da tia, verdadeiros titulares do domínio. Autora que tinha pleno conhecimento de quem eram os proprietários tabulares do bem. Mera tolerância ou permissão não gera posse. Pagamento dos impostos e taxas incidentes sobre a unidade não caracteriza o animus domini. Obrigações daquele que desfruta do imóvel. Sentença reformada para julgar a ação improcedente. Ônus da sucumbência invertido. Resultado. Preliminares rejeitadas. Recurso provido
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta a violação do art. 1.007, caput e § 2º, do Código de Processo Civil/2015, uma vez que não houve o recolhimento do preparo no ato da interposição do recurso, não sendo possível o julgamento do mesmo.
+No mérito, afirma a violação do art. 1.238 do Código Civil/2002, sustentando a comprovação dos requisitos para o reconhecimento da usucapião aquisitiva em razão da posse mansa e pacífica.
+Afirma que "demonstrou o seu exercício pelo prazo prescricional, apresentando as contas de consumo/tributos (fls. 34/334), sendo mais antiga datada de 1981. Ainda, apresentou declaração do Sr. Moacir não se opôs à pretensão da autora, bem como que o condomínio reconhece a posse da autora pelo período alegado na exordial (fls. 500). Em tais documentos consta o endereço do imóvel usucapiendo, a indicar que aquela, de fato, residiu no imóvel nesse período. Constatou-se, ademais, que não há qualquer indício de oposição à posse do imóvel usucapiendo" (e-STJ, fl. 728).
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice da Súmula 7 do STJ.
+Neste agravo, a parte agravante impugnou o óbice sumular apontado.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso merece parcial provimento.
+Nos termos da jurisprudência desta Corte, requerida a concessão de gratuidade da Justiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo, incumbindo ao relator, neste caso, apreciar o requerimento e, se indeferi-lo, fixar prazo para realização do recolhimento. Mantendo-se inerte, o recurso não será conhecido em virtude da deserção.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CONDENATÓRIA. DESISTENCIA DO RECURSO. RECURSO DE APELAÇÃO. GRATUIDADE DA JUSTIÇA. PREPARO RECURSAL. COBRANÇA. MEDIDA SANCIONATÓRIA. DÍVIDA ATIVA. DESERÇÃO.
+1. Ação condenatória ajuizada em 09/08/2018, da qual foi extraído o presente recurso especial, interposto em 17/08/2023 e concluso ao gabinete em 09/02/2024.
+2. O propósito recursal é decidir se, após a desistência de recurso que verse sobre a concessão da gratuidade da justiça, é possível exigir o recolhimento do preparo recursal, sob pena de inscrição em dívida ativa.
+3. Requerida a concessão de gratuidade da justiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo, incumbindo ao relator, neste caso, apreciar o requerimento e, se indeferi-lo, fixar prazo para realização do recolhimento.
+Mantendo-se inerte, o recurso não será conhecido em virtude da deserção. Precedentes.
+4. A decisão que reconhece o pedido de desistência tem natureza declaratória. A partir do momento em que a desistência é informada no processo, o recurso passa a não mais existir.
+5. A desistência de recurso que estava dispensado do pagamento do preparo pelo art. 99, §7º do CPC, torna-o inexistente no mundo jurídico, antes mesmo de ser analisada a gratuidade da justiça.
+Assim, não há fato gerador que justifique a cobrança do recolhimento do preparo.
+6. Nos termos do art. 1.007 do CPC, não há previsão legal de outra medida sancionatória além da deserção à parte que negligencia o recolhimento do preparo recursal, seja quanto ao valor, seja quanto ao prazo.
+7. Apesar da natureza de taxa do preparo recursal, inexiste fundamento legal para a cobrança de seu recolhimento sob pena de inscrição de dívida ativa, notadamente nas hipóteses em que houve desistência de recurso que foi dispensado do preparo em razão do benefício previsto no art. 99, §7º do CPC.
+8. Recurso especial conhecido e provido.
+(REsp n. 2.119.389/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/4/2024, DJe de 26/4/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA. APELAÇÃO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. INDEFERIMENTO. PRÉVIA INTIMAÇÃO PARA COMPROVAÇÃO DA HIPOSSUFICIÊNCIA (CPC, ART. 99, § 2º). NECESSIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. De acordo com o entendimento desta Corte, "O pedido de gratuidade de justiça somente poderá ser negado se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício. Antes do indeferimento, o juiz deve determinar que a parte comprove a alegada hipossuficiência (art. 99, § 2º, do CPC/2015). Indeferido o pedido de gratuidade de justiça, observando-se o procedimento legal, o requerente deve ser intimado para realizar o preparo na forma simples. Mantendo-se inerte, o recurso não será conhecido em virtude da deserção" (REsp 1.787.491/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 12/04/2019).
+2. Necessidade de, na espécie, determinar-se o retorno dos autos ao Tribunal de origem para oportunizar à parte apelante que comprove a alegada hipossuficiência, nos termos do art. 99, § 2º, do CPC/2015.
+3. Agravo interno a que se dá parcial provimento.
+(AgInt no AREsp n. 1.752.709/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+No caso dos autos, contudo, o Desembargador relator, indeferiu os benefícios da gratuidade de Justiça ao reconhecer que a recorrida não se enquadra na situação de necessitada, conforme o disposto no art. 98 do CPC/2015, possuindo condições de arcar com o pagamento do preparo do recurso, deferindo o prazo de 10 dias contados do julgamento do recurso, para o recolhimento do preparo recursal, sob pena de inscrição em dívida ativa. Confira-se:
+A apelante formulou pedido de justiça gratuita em sede de contestação (fls. 573), mas o pedido não foi analisado.
+Quando da interposição do recurso de apelação não renovou o pedido de concessão da benesse, porém afirmou que era beneficiária da justiça gratuita (fls. 652).
+A omissão na análise do pedido de gratuidade da justiça não acarreta seu deferimento tácito. No entanto, é possível a análise do pedido neste grau de jurisdição.
+Anote-se que, tendo em vista expressa previsão legal, presume-se verdadeira a alegação de hipossuficiência deduzida exclusivamente por pessoa natural, conforme art. 99, § 3º, CPC/2015.
+Entretanto, o §2º do mesmo dispositivo legal dispõe que o pedido de concessão do benefício poderá ser negado, se os elementos dos autos evidenciarem a falta dos pressupostos para sua concessão.
+ ..
+No caso dos autos, a apelante é professora do ensino fundamental (fls. 579 e 612), profissão que não aufere rendimentos elevados. Entretanto, os demais elementos existentes nos autos comprovam que pode arcar com as despesas do processo.
+Isso porque, em todas as declarações de imposto de renda juntadas nos autos (fls. 612/617), inclusive na mais atual do exercício de 2021 (fls. 617), apesar de incompleta é possível verificar a existência de imóveis, automóvel, bem como aplicações financeiras em nome da apelante, situação incompatível com a alegada hipossuficiência financeira.
+Nessas condições, a apelante não se enquadra na situação de necessitada, conforme o disposto no artigo 98 do CPC, possuindo condições de arcar com o pagamento do preparo recursal.
+Portanto, indefere-se os benefícios da justiça gratuita e defere-se o prazo de 10 (dez) dias, contado do julgamento do presente recurso, para recolhimento do preparo recursal, sob pena de inscrição em dívida ativa  ..  (e-STJ, fls. 693/694).
+Por esse motivo, forçoso reconhecer que não há previsão de pagamento das custas após o julgamento do recurso, como determinado no acórdão recorrido; ao contrário, o art. 99, § 7º, do CPC/2015 determina que, requerida a concessão de gratuidade da J ustiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo, incumbindo ao relator, neste caso, apreciar o requerimento e, se indeferi-lo, fixar prazo para realização do recolhimento.
+Quanto ao mais, mantendo-se inerte no recolhimento do preparo, o recurso não será conhecido em virtude da deserção.
+Em face do exposto, dou parcial provimento ao agravo em recurso especial e determino o retorno dos autos ao Tribunal de origem para que seja cumprido o que determina o art. 99, § 7º, do CPC/2015.
+Intimem-se.
+EMENTA
