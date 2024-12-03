@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 173):
+ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA - CREA. ATIVIDADE BÁSICA. ENQUADRAMENTO. LEI FEDERAL Nº 5.194/66. INSCRIÇÃO NO CONSELHO. DESNECESSIDADE. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. APRECIAÇÃO EQUITATIVA. CABIMENTO. 1. O critério legal para a obrigatoriedade de registro perante os conselhos profissionais, bem como para a contratação de profissional de qualificação específica, é determinado pela atividade básica ou pela natureza dos serviços prestados pela empresa 2. A atividade básica desenvolvida pela parte autora não se enquadra nas disposições previstas na Lei Federal nº 5.194/66, de modo que deve ser afastada a necessidade de sua inscrição junto ao CREA. 3. Tratando-se de causa com valor irrisório é permitida a fixação dos honorários se dará por apreciação equitativa, levando-se em conta o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, além do trabalho realizado e do tempo exigido do advogado, a teor do disposto no art. 85, caput e §8º do CPC. 4. Apelação cível improvida.
+Os embargos de declaração opostos foram rejeitados (fls. 198/203).
+Nas razões de seu recurso especial, a parte ora agravante alega violação aos arts. 1º, 7º, 27, 33, 59 e 60 da Lei 5.194/1966; e 1º da Lei 6.839/1980, ao argumento de que a atividade desenvolvida pela recorrida se encaixa no âmbito da engenharia, mormente da engenharia mecânica, razão pela qual está submetida à obrigatoriedade do registro perante o CONFEA.
+A parte adversa apresentou contrarrazões (fls. 224/229).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação não comporta conhecimento.
+Compulsando os autos, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre a tese de que a atividade da parte recorrida se encaixa no âmbito da engenharia (fls. 170/171):
+Do exposto, conclui-se que decorre de lei a obrigatoriedade das pessoas jurídicas se inscreverem nos conselhos profissionais que fiscalizem a atividade básica ou em relação àquela pela qual prestem serviços a terceiros.
+Assim, deve ser analisado se a apelada exerce atividade básica que exige aplicação de técnicas de engenharia ou de profissional com formação em tal ramo.
+No caso dos autos, consta do contrato social que a empresa tem como atividade básica/principal o Comércio de extintores, comércio de peças, acessórios e equipamentos de incêndio, prestação de serviços de reteste e recarga de extintores e equipamentos de incêndio (processo 5017349-84.2021.4.04.7003/PR, evento 1, CONTRSOCIAL4).
+Assim, tendo em vista que as principais atividades desenvolvidas pela autora não são privativas da área de engenharia, não há fundamento legal para exigir o registro nos quadros do CREA, tampouco para a contratação de profissional nele habilitado e registrado. Sobre o tema, precedente da 12ª turma:
+
+O Tribunal de origem reconheceu, diante das circunstâncias específicas que a hipótese apresentava e das provas dos autos, especialmente do contrato social, que a atividade exercida pela parte recorrida não é privativa da área de engenharia, não sendo exigido, assim, o respectivo registro no conselho profissional.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
