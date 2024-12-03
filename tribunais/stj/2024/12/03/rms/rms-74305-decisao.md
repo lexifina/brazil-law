@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Caique dos Santos Abreu contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 104):
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. Concurso público para provimento do cargo de soldado da Polícia Militar do Estado do Rio de Janeiro PMERJ/2014. Anulação de questões do certame (STF, Tema 485). Pretensão de que seja atribuída ao impetrante a mesma pontuação obtida judicialmente por outros candidatos, mediante pronunciamento transitado em julgado. Impossibilidade. Limites subjetivos da coisa julgada. "O disposto no art. 506 do CPC não permite que se incluam, dentre os beneficiados pela coisa julgada, litigantes de outras demandas em que se discuta a mesma tese jurídica" (Enunciado 36, da I Jornada de direito processual civil do CJF). Indeferimento da inicial. Extinção do processo sem resolução do mérito. Denegação da ordem sem julgamento do mérito. Fundamento de ausência de decadência trazido pelo recorrente interno que não pode ser acolhido. Manutenção do decisum recorrido. RECURSO A QUE SE NEGA PROVIMENTO.
+O recorrente alega que, ao impetrar o mandado de segurança, não buscou rediscutir o mérito acerca dos motivos que anularam as questões, mas o cumprimento da regra disposta no item 17.8. do edital do concurso, que determina a atribuição da pontuação das questões anuladas a todos os demais candidatos. Defende que, no caso concreto, não ocorreu a decadência e não está prescrita a pretensão veiculada no mandado de segurança, pois não visa atacar a reprovação ocorrida em 2014, mas tão somente o indeferimento de seu recurso administrativo em 13 de novembro de 2023, uma vez que descumprida a já mencionada regra disposta no item 17.8. do edital do concurso. Ressalta que não haveria motivos para ser impetrado mandado de segurança à época da reprovação (28 de outubro de 2014), porquanto, naquele momento, não havia indícios que as questões da prova objetiva seriam anuladas, o que somente veio a ocorrer em 2022, com o trânsito em julgado das decisões judiciais. Salienta que o referido concurso foi homologado em 23 de março de 2022.
+Ao final, requer seja o presente recurso ordinário conhecido e provido para, reformando o acórdão recorrido, conceder-se a segurança "em razão da ilegalidade no ato da Autoridade Coatora, que violou o Princípio da Isonomia e o Princípio da Legalidade dispostos respectivamente nos art. 5º, caput e art. 37, caput da Constituição Federal de 1988 - CRFB/1988, em descumprir o disposto no item 17.8. do Edital do Concurso, requerendo seja determinado que o ponto correspondente à anulação da questões da Prova Objetiva de Múltipla Escolha da Disciplina de História seja atribuída em favor do Impetrante, uma vez que a nulidade das referidas questões deveria ser aproveitada não somente aos candidatos autores das ações que transitaram em julgado, mas também ao Candidato Recorrente e aos demais candidatos do concurso, uma vez que não existe razão na anulação de questão de prova objetiva somente para beneficiar os candidatos que recorreram ao Poder Judiciário, pois o presente caso trata-se de prova objetiva, onde o critério de correção das provas é idêntico para todos os candidatos, devendo ser observada a rigorosa ordem de classificação dos candidatos no referido concurso, conforme determinado pelo item 18.2. do Edital do Concurso, assim como pelo art. 37, IV da Constituição Federal de 1988 e Súmula nº 15 do Supremo Tribunal Federal" (fl. 137).
+Com contrarrazões.
+Parecer do Ministério Público Federal, às fls. 1.030-1.042, manifestando-se pelo não provimento do recurso.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, extrai-se dos autos que o ora recorrente impetrou, na origem, mandado de segurança contra ato atribuído ao Secretário de Estado de Polícia Militar do Estado do Rio de Janeiro objetivando, em suma, a determinação de aplicação da regra disposta no item 17.8 do edital do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - CFSD/PMERJ-2014, em razão da anulação de questões da prova objetiva obtida por outros candidatos do referido certame.
+Na espécie, o Tribunal de origem assim manifestou-se (fls. 107-108):
+ ..
+A decisão vergastada enunciou as razões de decidiu a questão balizada nas peculiaridades do caso e nos elementos dos autos, não se havendo de cogitar de violação à norma constitucional (CR/88, artigos 5º, LV e 93, IX).
+Tem aplicação ao caso o disposto no Enunciado 36, aprovado pela I Jornada de Direito Processual Civil do CJF: "O disposto no art. 506 do CPC não permite que se incluam, dentre os beneficiados pela coisa julgada litigantes de outras demandas em que se discuta a mesma tese jurídica".
+O fundamento acerca de ausência de decadência suscitado pelo recorrente interno não pode ser acolhido. Isso porque, no caso de que se ocupam os autos, verifica-se que o writ foi impetrado depois que transcorrido o prazo previsto no art. 23, da Lei nº 12.016/2009. A suposta ofensa ao alegado direito líquido e certo, em tese, ocorreu em 28/10/2014, quando publicado o resultado da prova objetiva do certame, e a impetração ocorreu aos 02/03/2024, vale dizer, após o prazo de 120 dias contados da ciência pelo interessado.
+Registre-se que o ato de homologação final do certame foi publicado em 2022, e indeferimento do pleito administrativo de contagem dos pontos das questões anuladas ocorreu em novembro de 2023, certo que não ensejam a reabertura de oportunidade para impetração da segurança, na medida em que o ato causador da alegada ofensa ao suposto direito líquido e certo ocorreu, repita-se, quando de sua exclusão do certame, em 2014.
+Se, no sentir da parte recorrente, a decisão não aplicou o direito corretamente, o que se configura é contrariedade entre a interpretação do julgado e o interesse da parte, o que em nada se assemelha a violação dos artigos 5º, caput e inciso XXXVI e 37, caput, todos da Constituição Federal de 1988; art. 23 da Lei nº 12.016/09; o quanto decidido no REsp 174291/DF; tampouco violação aos princípios da legalidade, da isonomia, do devido processo legal, do contraditório e da ampla defesa.
+ ..
+O entendimento externado pela instância ordinária, acerca da decadência, encontra-se em descompasso com a jurisprudência desta Corte no sentido de que o prazo decadencial a ser considerado para impetração do mandado de segurança inicia-se após o encerramento da validade do certame, momento em que surge eventual direito líquido e certo a ser resguardado por meio da ação mandamental. Nesse sentido: AgInt nos EDcl no RMS 67.468/MT, relator Ministro Benedito Gonçalves, Primeira Turma, D Je 14/12/2022; AgInt no RMS 63.901/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1/7/2021.
+Todavia, conquanto afastada a decadência da ação mandamental, a pretensão autoral não merece acolhida.
+Com efeito, a previsão editalícia de atribuição da pontuação das questões anuladas aos demais candidatos refere-se à hipótese em que acolhido recurso pela banca examinadora, como se pode inferir do item 17 (dos recursos) do edital do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro (CFSD/PMERJ-2014). A propósito, confira-se (fl. 419):
+ ..
+17 - DOS RECURSOS
+17.1 - Será admitido recurso quanto ao:
+a) Gabarito da Prova Objetiva de múltipla escolha;
+b) Resultado da Prova Objetiva de múltipla escolha;
+c) Resultado da Prova de Redação;
+d) Resultado do Exame Psicológico;
+e) Resultado do Exame Antropométrico;
+f) Resultado do Exame Físico;
+g) Resultado do Exame Toxicológico;
+h) Resultado do Exame Médico;
+i) Resultado do Exame Social e Documental;
+17.2 - O prazo para interposição dos recursos será no máximo de 3 (três) dias úteis, com exceção do gabarito, do resultado da prova objetiva e de redação que será de n máximo 7 (sete) dias corridos, no horário das 9 horas do primeiro dia às 16 horas do último dia, ininterruptamente, contados do primeiro dia útil posterior à data de divulgação do ato ou do fato que lhe deu origem, de acordo com o cronograma (anexo 2). Os recursos referentes às alíneas A, B, C, D e H, deverão ser protocoladas no endereço eletrônico da EXATUS Promotores de Eventos e consultoria (www.exatuspr.com.br) e seguir as instruções contidas. Os recursos referentes as alíneas E, F, G e I, de- verão ser entregues pessoalmente no CRSP.
+17.3 - O recurso deverá ser enviado da seguinte forma:
+17.3.1 - Recursos previstos nas alíneas "a", "b", "c", "d" e "h", do item 17.1, deverão ser encaminhados diretamente à Exatus Promotores de Eventos e Consultoria, via on-line através do site www.exatuspr.com.br, no link recursos.
+17.3.2 - Recursos previstos nas alíneas "e", "f", "g" e "i" do item 17.1, deverão ser protocolados exclusivamente no serviço de atendimento ao candidato no CRSP, até 3 (três) dias após a divulgação do resultado no site do CRSP http://www.pmerj.rj.gov.br/crsp/, direcionado ao Chefe do CRSP.
+17.4 - Admitir-se-á um único recurso, para cada candidato, relativamente ao item 17.1, devidamente fundamentado, não sendo aceito recurso coletivo.
+17.5 - A comprovação do encaminhamento tempestivo do recurso será feita mediante data de envio, sendo rejeitado liminarmente recurso enviado fora do prazo.
+17.6 - Se, por força de decisão favorável a impugnações, houver modificação do gabarito divulgado antes dos recursos, as provas serão corrigidas de acordo com o gabarito definitivo, não se admitindo recurso dessa modificação decorrente das impugnações.
+17.7 - Quanto ao gabarito, o candidato que se sentir prejudicado deverá apresentar individualmente o seu recurso, devidamente fundamentado e com citação da bibliografia.
+17.8 - O ponto correspondente à anulação de questão da Prova Objetiva de Múltipla Escolha, em razão do julgamento de recurso será atribuído a todos os candidatos.
+17.9 - Quando resultar alteração do gabarito, a resposta correta será corrigida de acordo com o gabarito oficial definitivo.
+17.10 - Caso haja procedência de recurso interposto, poderá eventual- mente alterar a classificação inicial obtida pelo candidato para uma classificação superior ou inferior ou ainda poderá ocorrer à desclassificação do candidato que não obtiver nota mínima exigida para aprovação.
+17.11 - No prazo do recurso, o candidato encaminhará as razões que justifiquem o seu pedido de recurso.
+17.12 - Não serão apreciados os Recursos que forem apresentados:
+17.12.1 - Em desacordo com as especificações contidas neste capítulo;
+17.12.2 - Fora do prazo estabelecido;
+17.12.3 - Fora da etapa estabelecida;
+17.12.4 - Sem fundamentação lógica e consistente;
+17.12.5 - Com argumentação idêntica a outros recursos;
+17.12.6 - Contra terceiros;
+17.12.7 - Recurso interposto em coletivo;
+17.12.8 - Cujo teor desrespeite a banca examinadora.
+17.13 - O prazo para interposição de recurso é preclusivo e comum a todos os candidatos.
+17.14 - Após análise dos recursos, será publicada no endereço eletrônico da Exatus Promotores de Eventos e Consultoria e do CRSP, daqueles que forem deferidos e indeferidos procedendo-se, caso necessário, a reclassificação dos candidatos e divulgação de nova lista de aprovados.
+ ..
+Tal regramento, contudo, não é aplicável à situação em que a anulação decorre de provimento judicial obtido por terceiros pois, consoante o disposto no artigo 506 do CPC/2015 "a sentença faz coisa julgada às partes entre as quais é dada".
+Nessa linha, registra-se que esta Corte, apreciando a mesma controvérsia objeto dos presentes autos, firmou a compreensão de que "a anulação de questões de concurso público em razão de decisão judicial proferida em ação individual não tem efeito erga omnes, não podendo reabrir o certame para redistribuição de pontos a todos os candidatos, especialmente quando decorridos 10 anos da exclusão do candidato" (AgInt no RMS 73.632/RJ, relatora Ministra Regina Helena Costa, DJe 13/11/2024).
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES DA PROVA OBJETIVA PELA VIA JUDICIAL. ATRIBUIÇÃO DA PONTUAÇÃO CORRESPONDENTE A TODOS OS CANDIDATOS. LIMITES DA COISA JULGADA. APROVEITAMENTO A TERCEIRO ESTRANHO AO PROCESSO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
