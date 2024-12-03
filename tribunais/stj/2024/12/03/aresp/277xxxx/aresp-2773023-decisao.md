@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TIAGO DA SILVA MOURA contra decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial pelos seguintes fundamentos (fls. 1.495-1.499):
+O acórdão decidiu acerca da existência dos fatos e suas circunstâncias, como descrito na exordial acusatória, dando, contudo, parcial provimento ao apelo defensivo, para redimensionara a pena final para 11 (onze) anos e 08 (oito) meses de reclusão, no regime inicialmente fechado. Ficou consignado no acórdão combatido, que a exasperação da pena-base restou corretamente mensurada, uma vez que "a conduta da recorrente excedeu a normal do tipo, tendo em vista "a maior culpabilidade do agente, da conduta social negativa e das consequências do crime".
+Ademais, o julgador, dentro dos parâmetros determinados pelo artigo 59, do CP, deve observar as circunstâncias e consequências do crime para aferir a culpabilidade e reprovabilidade da conduta delituosa.
+Desta forma, verifico que o v. acórdão seguiu o entendimento adotado pelo Superior Tribunal de Justiça, em relação ao amento da pena-base, especialmente diante da gravidade dos fatos apurados, o que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida". Nesse sentido:
+ ..
+À conta de tais fundamentos, DEIXO DE ADMITIR o recurso especial.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido (fls. 1.513-1.521):
+Frisa a Defesa, ab initio, que não se pretende aqui a reapreciação de qualquer elemento probatório dos autos, limitando-se a argumentação empreendida à análise dos fundamentos expostos no v. Acórdão ora vergastado, bastantes, por si próprios, para demonstrar a ilegalidade ora denunciada.
+ ..
+Por outro lado, não há decisão da Corte Especial ou de qualquer outro órgão deste e. STJ responsável pela uniformização da jurisprudência decidindo a questão de maneira dominante, o que afasta por completo a incidência da supramencionada súmula nº 83 ao caso em apreço. Ademais, o Novo Código de Processo Civil, de aplicação subsidiária no Processo Penal, reforça o sistema de precedentes, refutando a admissão de Recurso Especial ou Extraordinário quando a decisão impugnada atendeu aos precedentes das Cortes Superiores, in verbis:
+ ..
+No entanto, cumpre esclarecer que além da inidoneidade dos fundamentos para a exasperação da pena-base, o Recurso Especial também apontou a desproporcionalidade da fixação do quantum de aumento estabelecido pela Colenda Câmara Criminal.
+ ..
+Os motes da condenação revelam tão-só a antipatia contra a imputação, mas não se assentam no artigo 59, entre cujas oito circunstâncias judiciais não figura a antipatia que um fato possa gerar no observador.
+ ..
+Outrossim, as duas Turmas do e. STJ que analisam matéria criminal NÃO pacificaram seus entendimentos sobre o tema, existido diversos julgados recentes deste Egrégio Superior Tribunal que corroboram as teses sustentadas pela Agravante em sede de Recurso Especial.
+Com efeito, conforme visto, não há decisão da Corte Especial ou de qualquer outro órgão deste e. STJ responsável pela uniformização da jurisprudência decidindo a questão de maneira dominante, o que afasta por completo a incidência da supramencionada súmula nesta hipótese.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial (fl. 1.552-1.553).
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação do seguinte fundamento : contrariedade das razões do recurso ao que estabelece a pacífica jurisprudência do STJ (Súmula n. 83 do STJ).
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, o fundamento referido, não bastando para tanto que a parte recorrente mencione genericamente a sua não incidência , pois para atendimento do princípio da dialeticidade deve ser demonstrado de modo específico e concreto quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, quanto ao óbice referido na Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento de cada dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada, conforme relatado, o agravante limita-se a alegar genericamente a não incidência o óbice sumular, além de alegar questões referentes ao mérito do feito.
+Aplica-se, em consequência, a conclusão estabelecida na Súmula n. 182 do STJ, que afirma ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
