@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/11/2024 a 03/12/2024, por unanimidade, não conhecer do recurso, com determinação de certificação de trânsito em julgado, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTER NO NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO INEXISTENTE. DETURPAÇÃO DA FUNÇÃO RECURSAL DOS DECLARATÓRIOS. ABUSO DO DIREITO DE RECORRER.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos declaratórios são cabíveis nas hipóteses de haver omissão, contradição, ambiguidade ou obscuridade na decisão prolatada, o que não ocorre na espécie.
+2. Não podem ser acolhidos os embargos de declaração que, a pretexto de alegar vícios na decisão embargada, expressam mero inconformismo da parte com o desfecho do julgado e buscam provocar a rediscussão quanto ao conhecimento dos embargos de divergência em recurso especial.
+3. Não é possível acolher os embargos de declaração opostos com o objetivo de prequestionar matéria constitucional, já que o exame de constitucionalidade, em apelo excepcional, está adstrito à competência judicante do Excelso Pretório, nos termos do art. 102, III, "a", da Constituição Federal.
+4. A interposição descabida de sucessivos recursos configura abuso do direito de recorrer, autorizando a baixa imediata dos autos, em especial porque recurso manifestamente incabível, por não interromper a fluência do prazo recursal, implica o trânsito em julgado do acordão recorrido e a imediata baixa dos autos.
+Embargos de declaração não conhecidos com aplicação da multa .
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por MARCELLO RAMOS PIRES LEAL contra acórdão da Segunda Seção que rejeitou os primeiros embargos de declaração opostos contra acórdão que negou provimento ao agravo interno nos termos da seguinte ementa (fl. 752):
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ASTREINTES. REVISÃO. POSSIBILIDADE. IRRISÓRIO OU EXORBITANTE. PRECEDENTES. SÚMULA 168/STJ .
+1. A jurisprudência desta Corte pacificou o entendimento no sentido de que o valor arbitrado a título de astreintes pode ser revisto, excepcionalmente, quando irrisório ou exorbitante. Precedentes: AgInt no AR Esp n. 1.907.687/PE, relator Ministro Moura Ribeiro,Terceira Turma, julgado em 21/8/2023, D Je de 23/8/2023; AgInt no R Esp n. 1.916.372/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/6/2023, D Je de 29/6/2023; AgInt no AR Esp n. 2.114.207/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, D Je de 19/6/2023; DJe de 2/6/2023; AgInt no AR Esp n. 1.604.195/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/10/2020, D Je de 20/10/2020.2. Verifica-se que o acórdão embargado decidiu no mesmo sentido da jurisprudência pacífica desta Corte, imperiosa, portanto, a incidência da Súmula n. 168/STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado"
+Agravo interno improvido.
+Os primeiros embargos de declaração foram rejeitados, e o acórdão possui a seguinte ementa (fls. 947-948):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ASTREINTES. REVISÃO. POSSIBILIDADE. IRRISÓRIO OU EXORBITANTE. PRECEDENTES. SÚMULA N. 168/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, manteve a decisão que indeferiu liminarmente os embargos de divergência, mantendo o óbice da incidência da Súmula n. 168/STJ, porquanto acórdão embargado está em consonância com a jurisprudência do STJ, no sentido de que "A jurisprudência desta Corte pacificou o entendimento no sentido de que o valor arbitrado a título de astreintes pode ser revisto, excepcionalmente, quando irrisório ou exorbitante. Precedentes: AgInt no AR Esp n. 1.907.687/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, D Je de 23/8/2023;AgInt no R Esp n. 1.916.372/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/6/2023, D Je de 29/6/2023; AgInt no AR Esp n. 2.114.207/RJ, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, D Je de 19/6/2023; D Je de 2/6/2023; AgInt no AR Esp n. 1.604.195/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/10/2020, D Je de 20/10/2020.
+3. Quanto ao EAR Esp 1.766.665, julgado pela Corte Especial, com publicação no dia 06/06/2024, não há qualquer dos vícios elencados no art. 1.022, do CPC, uma vez que o referido processo foi julgado posteriormente ao agravo interno ora embargado (Sessão Virtual de 24/04/2024 a 30/04/2024).
+4. Além disso, não guarda similitude fática com o presente julgado, uma vez que, considerou-se que havia ocorrido a preclusão pro judicato consumativa, pois o montante alcançado com a incidência da multa já havia sido reduzido por meio de decisão transitada em julgado. No presente caso, não há essa peculiaridade, uma vez que a redução se deu uma única vez e, em fase de recurso interposto ao STJ.
+5. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+Nos presentes embargos de declaração, a embargante alega que (fl. 807):
+Percebe-se, entretanto, que o argumento adicional (suplementar) lançado no precedente acima fora absorvido pelo acórdão embargado como se tivesse sido o fundamento principal daquela decisão, o que constitui claramente mais um erro de premissa e notória obscuridade eis que influenciaram e modificam toda a conclusão havida no julgado e que, por conta disto, precisa ser corrigido com o provimento dos presentes embargos declaratórios, inclusive com efeitos modificativos, desde já requeridos.
+Sustenta que (fl. 808):
+Apesar do acórdão embargado, ao rejeitar os embargos de declaração anteriores, ter ensaiado um enfrentamento ao precedente da Corte Especial invocado, a verdade é que acabou por, mesmo que involuntariamente por certo, incorrer em grave violação ao dever de fundamentação adequada, previsto no art. 489, § Io, IV, do CPC.
+Requer, o prequestionamento dos arts. 5º, II, XXXV, LIV, LV e LXXVIII, 93, IX, e 37, caput, da Constituição Federal.
+Sem contrarrazões (fl. 856).
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTER NO NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO INEXISTENTE. DETURPAÇÃO DA FUNÇÃO RECURSAL DOS DECLARATÓRIOS. ABUSO DO DIREITO DE RECORRER.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos declaratórios são cabíveis nas hipóteses de haver omissão, contradição, ambiguidade ou obscuridade na decisão prolatada, o que não ocorre na espécie.
+2. Não podem ser acolhidos os embargos de declaração que, a pretexto de alegar vícios na decisão embargada, expressam mero inconformismo da parte com o desfecho do julgado e buscam provocar a rediscussão quanto ao conhecimento dos embargos de divergência em recurso especial.
+3. Não é possível acolher os embargos de declaração opostos com o objetivo de prequestionar matéria constitucional, já que o exame de constitucionalidade, em apelo excepcional, está adstrito à competência judicante do Excelso Pretório, nos termos do art. 102, III, "a", da Constituição Federal.
+4. A interposição descabida de sucessivos recursos configura abuso do direito de recorrer, autorizando a baixa imediata dos autos, em especial porque recurso manifestamente incabível, por não interromper a fluência do prazo recursal, implica o trânsito em julgado do acordão recorrido e a imediata baixa dos autos.
+Embargos de declaração não conhecidos com aplicação da multa .
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Verifica-se que o acórdão embargado tratou expressamente as matéria tidas por omissas ou contraditórias, conforme o seguinte excerto abaixo transcrito:
+Não obstante o esforço contido nas razões de agravo interno, não prospera a pretensão recursal.
+Assim decidiu o acórdão embargado (fls. 798-800):
+Verifica-se que o acórdão embargado, de maneira clara e fundamentada, manteve a decisão que indeferiu liminarmente os embargos de divergência, mantendo o óbice da incidência da Súmula n. 168/STJ, porquanto o acórdão embargado está em consonância com a jurisprudência do STJ, no sentido de que "A jurisprudência desta Corte pacificou o entendimento no sentido de que o valor arbitrado a título de astreintes pode ser revisto, excepcionalmente, quando irrisório ou exorbitante. Precedentes: AgInt no AR Esp n. 1.907.687/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, D Je de 23/8/2023;AgInt no R Esp n. 1.916.372/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/6/2023, D Je de 29/6/2023; AgInt no AR Esp n. 2.114.207/RJ, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, D Je de 19/6/2023; D Je de 2/6/2023; AgInt no AR Esp n. 1.604.195/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/10/2020, D Je de 20/10/2020.(fl. 772)
+Desse modo, inviável o conhecimento dos embargos de divergência já que o acórdão embargado não firmou tese em relação ao tema supostamente divergente.
+Na verdade, a parte embargante não se conforma com o não conhecimento do recurso e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+ ..
+Quanto ao EAR Esp n. 1.766.665, julgado pela Corte Especial, com publicação no dia 6/6/2024, não há qualquer dos vícios elencados no art. 1.022, do CPC, uma vez que o referido processo foi julgado posteriormente ao agravo interno ora embargado (Sessão Virtual de 24/4/2024 a 30/4/2024).
+Além disso, não guarda similitude fática com o presente julgado, uma vez que, considerou-se que havia ocorrido a preclusão pro judicato consumativa, pois o montante alcançado com a incidência da multa já havia sido reduzido por meio de decisão transitada em julgado. No presente caso, não há essa peculiaridade, uma vez que a redução se deu uma única vez e, em fase de recurso interposto ao STJ.
+ ..
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Portanto, não há nenhum vício previsto pelo art. 1.022 do CPC.
+Ademais, como está consolidado na jurisprudência do STJ, não é possível acolher os embargos de declaração opostos com o objetivo de prequestionar matéria constitucional, já que o exame de constitucionalidade, em apelo excepcional, está adstrito à competência judicante do Excelso Pretório, nos termos do art. 102, III, "a", da Constituição Federal.
+Nesse sentido, confiram-se precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 619 DO CPP. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Conforme o art. 619 do CPP, cabem embargos de declaração apenas quando houver na decisão ambiguidade, obscuridade, contradição ou omissão.
+2. No caso, não se constata nenhum dos vícios mencionados, pretendendo a parte embargante, uma vez mais, o reexame de questão devidamente analisada, o que é incabível nos embargos declaratórios.
+3. Igualmente não cabem aclaratórios com o propósito de prequestionar matéria constitucional.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp n. 1.902.308/RS, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 12/9/2023, DJe de 26/9/2023.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA SÚMULA N. 315 DO STJ. PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. É inviável ao Superior Tribunal de Justiça intervir em matéria da competência do Supremo Tribunal Federal, ainda que para prequestionar questões constitucionais, sob pena de contrariar as rígidas atribuições recursais previstas na Carta Magna.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg nos EDv nos EAREsp n. 1.262.390/PR, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 13/10/2021, DJe de 15/10/2021.)
+Ressalte-se que a interposição descabida de recursos configura abuso do direito de recorrer, autorizando a aplicação de multa e, ainda, a baixa imediata dos autos.
+A propósito, colaciono os seguintes precedentes do STF:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DOS PRESSUPOSTOS DE EMBARGABILIDADE. INSISTÊNCIA NO APONTAMENTO DE VÍCIOS VEICULADOS EM ANTERIORES ACLARATÓRIOS. ABUSO DO DIREITO DE RECORRER. PRECEDENTES. DETERMINAÇÃO DE IMEDIATA CERTIFICAÇÃO DO TRÂNSITO EM JULGADO, COM BAIXA DOS AUTOS À ORIGEM.
+1. Firme o entendimento desta Casa, observada a dicção do art. 1.022 do CPC, de que não são hábeis os aclaratórios à reiteração de alegações veiculadas em anteriores embargos de declaração e já apreciadas pelo órgão julgador.
+2. O manejo de aclaratórios sem mínima adstrição aos pressupostos legais de embargabilidade revela comportamento processual abusivo da parte embargante, a ser coibido por meio de comando impositivo da imediata certificação do trânsito em julgado, com baixa dos autos ao arquivo. Precedentes.
+3. A teor do art. 85, § 11, do CPC, o "tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento".
+4. Embargos de declaração não conhecidos, com determinação de imediata certificação do trânsito em julgado e baixa dos autos à origem.
+(ARE 1391484 AgR-ED-ED, relatora Ministra Rosa Weber (Presidente), Tribunal Pleno, publicado em 31/5/2023.)
+EMBARGOS DECLARATÓRIOS NOS EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. OPOSIÇÃO EM 13.02.2023. DEFICIÊNCIA NO REQUISITO DA REPERCUSSÃO GERAL. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA. PLEITO DE AFASTAMENTO DA MULTA APLICADA. ART. 1.026, §2º, DO CPC. ALEGADA INEXISTÊNCIA DE PROCRASTINAÇÃO DO FEITO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. AUSÊNCIA DE VÍCIOS NOS PRIMEIROS EMBARGOS.
+1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material.
+2. Nestes novos embargos declaratórios, a parte Embargante não conseguiu demonstrar em que consistiria o vício a ser sanado, limitando-se a repetir a argumentação trazida no recurso anterior, denotando-se o mero inconformismo com a aplicação, no caso, da multa do art. 1.026, § 2º c/c o art, 81, § 2º, do CPC.
+3. A parte Embargante busca indevidamente a rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes.
+4. O STF possui entendimento firme no sentido de que a presente situação autoriza a certificação do trânsito em julgado e baixa imediata dos autos, independentemente da publicação do acórdão. Precedentes.
+5. Embargos de declaração não conhecidos, com a baixa imediata dos autos, independentemente de publicação do acórdão. (RE 1284120 ED-AgR-ED-EDv-AgR-ED-ED, relator Ministro Edson Fachin, Tribunal Pleno, publicado em 19/4/2023.)
+No mesmo sentido, confira-se a jurisprudência do STJ:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA ACÓRDÃO. IMPOSSIBILIDADE. ERRO GROSSEIRO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A interposição de agravo regimental/interno contra decisão colegiada constitui erro grosseiro e inescusável, tendo em vista sua previsão exclusiva para atacar decisão monocrática do Relator.
+Precedentes.
+3. A interposição descabida e desmedida de sucessivos recursos configura abuso do direito de recorrer, autorizando a imediata certificação do trânsito em julgado. Precedentes.
+4. Agravo regimental não conhecido, com determinação de certificação do trânsito em julgado e imediata baixa dos autos.
+(AgRg no AgRg nos EAREsp n. 2.365.463/SP, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 9/4/2024, DJe de 17/4/2024.)
+Ante o exposto, não conheço dos embargos de declaração e fixo multa no importe de 1% do valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+É como penso. É como voto.
