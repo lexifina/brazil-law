@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MDA CONSTRUCOES LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a" , da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CARTÃO DE CRÉDITO. IRRESIGNAÇÂO DO BANCO AUTOR APENAS QUANTO AO TERMO INICIAL DA MORA. OBRIGAÇÃO POSITIVA E LÍQUIDA. MORA INCIDENTE A PARTIR DO VENCIMENTO DAS FATURAS. INTELIGÊNCIA DO ART. 397 DO CÓDIGO CIVIL. SENTENÇA REFORMADA EM PARTE. RECURSO PROVIDO. O CÓDIGO CIVIL É CLARIVIDENTE AO DISPOR EM SEU ART. 397 QUE: EM SE TRATANDO DE RELAÇÕES CONTRATUAIS, "O INADIMPLEMENTO DA OBRIGAÇÃO POSITIVA E LÍQUIDA, NO SEU TERMO, CONSTITUI EM MORA O DEVEDOR". NO CASO SUB OCULI, TEM-SE INEGÁVEL CASO DE OBRIGAÇÃO QUE SE AMOLDA ÀS CARACTERÍSTICAS ELENCADAS NO CC, UMA VEZ QUE SE TRATA DE DÍVIDA DE CARTÃO DE CRÉDITO, ONDE HÁ DEVIDA INDIVIDUALIZAÇÃO DOS DÉBITOS TEMPORALMENTE ATRAVÉS DE SUAS FATURAS ANTE OS FATOS APRESENTADOS, É EVIDENTE QUE HÁ NECESSIDADE DE REFORMA DA SENTENÇA EXARADA PELO JUÍZO PRIMEVO, VEZ QUE A MORA FLUI IPSO IURE DESDE O MOMENTO DO VENCIMENTO DE CADA UMA DAS FATURAS QUESTIONADAS. RECURSO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa e interpretação divergente ao art. 52, § 1º, do CDC, no que concerne ao não cabimento da multa acima de 10% do valor da prestação inadimplida, considerando seu caráter ilegal e desarrazoado, trazendo a seguinte argumentação:
+Ora Nobres Julgadores, a cobrança é COMPLETAMENTE ILEGAL, pois fere diretamente o Art. 52, §1º do Código de Defesa do Consumidor, vejamos:
+Art. 52. No fornecimento de produtos ou serviços que envolva outorga de crédito ou concessão de financiamento ao consumidor, o fornecedor deverá, entre outros requisitos, informá-lo prévia e adequ adamente sobre:
+ ..  § 1º As multas de mora decorrentes do inadimplemento de obrigações no seu termo não poderão ser superiores a dois por cento do valor da prestação.
+A Recorrida tece uma cadeia injustificada de acréscimos ao saldo devedor da Recorrente, aplicando diversas taxas de juros sobrepostas, ora de 40%(quarenta por cento) ao ano e ora de 12%(doze por cento) ao ano, sempre uma sobre a outra, impossibilitando a real compreensão do débito e mascarando a atualização que lhe convém, num nítido abuso de direito (fl. 206).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publiq ue-se.
+Intimem-se.
+ EMENTA
