@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial, interposto por HEINZ ARMAZÉNS GERAIS LTDA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA QUE RECONHECEU PRESCRIÇÃO E EXTINGUIU A PRETENSÃO EXECUTIVA DIANTE DE UM DOS DEVEDORES. PETIÇÃO NOTICIANDO CITAÇÃO DE TODOS OS QUE INTEGRAM O POLO PASSIVO DA DEMANDA. REALIDADE PROCESSUAL DIVERSA. RETOMADA DAS TENTATIVAS DE CITAÇÃO MAIS DE OITO ANOS DEPOIS. DESÍDIA QUE AFASTA O EFEITO RETROATIVO DA INTERRUPÇÃO. ARTIGO 240, §2º, DO CÓDIGO DE PROCESSO CIVIL. PRESCRIÇÃO DIRETA E NÃO DO TIPO INTERCORRENTE. CAUSALIDADE BEM APLICADA. RECURSO DESPROVIDO. A ausência de reflexo interruptivo ao aforamento da ação atrai a prescrição direta e não a do tipo intercorrente, daí porque inaplicáveis os dispositivos legais a esta especificamente ligados.
+Opostos os embargos de declaração, restaram desacolhidos com aplicação de multa (fls. 207/209, e-STJ).
+Nas razões do recurso especial (fls. 218/231 , e-STJ), a recorrente aponta ofensa aos arts. 80, II, e 1.026, §2.º, ambos do CPC; 204, §1.º, do CC; e 240, §1.º, e 921, §5.º, ambos do CPC.
+Sustenta, em suma:
+a) ausência de caráter protelatório dos embargos de declaração interpostos na origem;
+b) que "A citação da empresa ocorreu, tempestivamente, por meio de carta precatória (243/251 do ev. 180), cujo ato processual interrompeu a prescrição direita em relação a ela e também ao devedor solidário Maurício, retroagindo até a data da propositura da ação (..)".
+c) que "(..) na remota hipótese de haver a prescrição em relação ao devedor solidário (o que não se concorda), a prescrição admissível seria a intercorrente, e não a do tipo direita (..)".
+Contrarrazões (fls. 243/253, e-STJ).
+Após decisão de admissão do recurso especial (fls. 256/258, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação merece prosperar em parte.
+1. Cinge-se a controvérsia recursal acerca da ocorrência da prescrição no caso dos autos. A parte insurgente aponta ofensa ao art. 204, §1.º, do CC; e 240, §1.º, e 921, §5.º, ambos do CPC, e sustenta que não se operou a prescrição no caso sub judice.
+O Tribunal de origem, ao analisar a controvérsia, assim destacou (fl. 2327, e- STJ):
+De acordo com o artigo 219, §1º, do saudoso Código Buzaid, vigente à época do ajuizamento da ação, "a interrupção da prescrição retroagirá à data da propositura da ação" (agora com semelhante redação dada pelo §1º do artigo 240 do Código de Ritos).
+Já nos termos do parágrafo seguinte, "incumbe à parte promover a citação do réu nos 10 (dez) dias subsequentes ao despacho que a ordenar, não ficando prejudicada pela demora imputável exclusivamente ao serviço judiciário".
+A execução, ajuizada ainda em setembro de 2008, recebeu ordem de citação naquele mesmo mês. Como apontado na origem, "apesar da expedição de carta precatória, não houve a citação do executado Maurício.
+A exequente, deixando de observar essa situação, manifestou-se no feito executivo, em 14.05.2012, asseverando que "em vista do cumprimento da carta precatória, todos os executados já estão citados, razão pela qual o prosseguimento do processo expropriatório é medida que se impõe" (evento 180, petição 255, autos n. 0019386-93.2008.8.24.0033)".
+A realidade processual, entretanto, era diversa, já que o apelado foi citado anos depois, tendo somente em 2017 o recorrente, então exequente, retomado as tentativas de citação do apelado, ocorrida verdadeiramente já em meados de 2022.
+Nesse contexto, ainda que pudesse ter havido demora imputável ao judiciário, não se pode dizer da "exclusividade" expressamente prevista no texto de Lei.
+A interrupção da prescrição, mesmo que agora citada a parte contrária, não teria força para retroagir à data da propositura da ação.
+Aliás, entre a propositura da ação e a citação decorreram quase nova anos, daí porque, ainda que se falasse em prazo prescricional de cinco anos - como faz crer o recorrente - a conclusão final não restaria alterada.
+A ausência de reflexo interruptivo ao aforamento da ação atrai a prescrição direta e não a do tipo intercorrente, daí porque inaplicáveis os dispositivos legais a esta especificamente ligados e bem aplicada a sucumbência diante da causalidade.
+Constata-se que, textualmente e de modo indene de dúvidas, o acórdão reconheceu a negligência dos Autores na realização da citação válida.
+Como se verifica, o órgão julgador concluiu que se operou a prescrição no caso em análise, ante a inércia da parte interessada em promover a citação da parte contrária.
+Com efeito, para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal, no sentido de afastar a ocorrência da prescrição na hipótese, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. DEMORA NA CITAÇÃO. ALEGAÇÃO DE INÉRCIA DA PARTE EXEQUENTE. NÃO CONFIGURAÇÃO. REVISÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da Súmula 106/STJ, "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+2. No caso em estudo, a Corte de origem rejeitou a alegação de prescrição suscitada pela parte executada, consignando expressamente que a demora na citação não foi decorrente da conduta da exequente. Diante desse contexto, para alterar a conclusão do Tribunal de origem e acolher a pretensão recursal com vistas a atribuir à exequente a responsabilidade pela demora na citação da executada, reconhecendo a prescrição da pretensão executiva, é imprescindível o reexame do conjunto fático-probatório dos autos, o que não é admitido, no âmbito do recurso especial, conforme a Súmula 7/STJ.
+(..) 5. Agravo interno desprovido. (AgInt no AREsp 1781578/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021)
+2. O recorrente também aponta violação ao art. 1.026, § 2º, do CPC, sustentando o não cabimento de multa por embargos protelatórios, em razão de os embargos terem o intuito de prequestionamento.
+Razão lhe assiste, no ponto.
+Examinando o acórdão proferido em sede de embargos de declaração, constata-se que os aclaratórios foram manifestados também com o intento de prequestionar a matéria enfocada no âmbito do apelo especial, além de se tratarem de primeiras embargos, razão pela qual não há porque inquiná-los de protelatórios.
+Aplicável ao caso a previsão constante da Súmula 98 desta Corte, in verbis:
+"Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECUSO MANEJADO SOB A ÉGIDE DO NCPC. PRIMEIROS EMBARGOS DE DECLARAÇÃO. INTUITO PROCRASTINATÓRIO NÃO VERIFICADO. AFASTAMENTO DA MULTA DO ART. 1.026, § 2º, DO NCPC. SÚMULA Nº 98 DO STJ. EMBARGOS ACOLHIDOS. 1. Aplicabilidade do NCPC neste julgamento conforme o Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. Os embargos de declaração foram opostos pretendendo prequestionar teses para a interposição de recurso extraordinário, motivo pelo qual deve ser afastada a multa do art. 1.026, § 2º, do NCPC. Incidência da Súmula nº 98 do STJ. 3. Embargos de declaração acolhidos para afastar a aplicação da multa do art. 1.026, § 2º, do NCPC. (EDcl nos EDcl no AgRg no CC 142.742/RJ, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 23/10/2019, DJe 25/10/2019)  grifou-se
+EMBARGOS DECLARATÓRIOS NOS EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. OPOSIÇÃO. CARÁTER PROTELATÓRIO. NÃO CONFIGURAÇÃO. MULTA. AFASTAMENTO. ACOLHIMENTO DOS EMBARGOS. 1. A multa inserta no parágrafo único do art. 538 do CPC/1973, deve ser afastada em razão da orientação firmada no STJ de que "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula 98). 2. Embargos de declaração acolhidos para afastamento da multa. (EDcl nos EDcl no AgInt no AREsp 927.064/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/08/2017, DJe 29/08/2017)  grifou-se
+Desta feita, considerando que os aclaratórios opostos não têm caráter protelatório, deve ser afastada a multa aplicada pelo Tribunal local no julgado de fls. 207/208, e-STJ.
+Nesse mesmo sentido: REsp 1784042, Relator(a) Ministro MOURA RIBEIRO, Data da Publicação: 12/12/2019; REsp 1838118, Relator(a) Ministra REGINA HELENA COSTA, Data da Publicação: 16/09/2019; AREsp 1.276.350/MG, Relator(a) Ministro MARCO BUZZI, Data da Publicação: 05/11/2018.
+3.  Do exposto, com fulcro no artigo 932 do CPC c/c Súmula 568/STJ, dou parcial provimento ao recurso especial, apenas para afastar a multa do art. 1.026, § 2º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
