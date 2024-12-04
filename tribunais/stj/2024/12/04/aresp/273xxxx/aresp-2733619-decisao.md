@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por IRIS CANEDO RODRIGUES, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de cobrança ajuizada pela agravante, em face do BANCO BRADESCO S/A, em virtude de contrato de empréstimo em conta corrente firmado entre as partes.
+Sentença: julgou procedente o pedido para condenar a agravante ao pagamento da importância de R$ 94.816,82 (noventa e quatro mil, oitocentos e dezesseis reais e oitenta e dois centavos), além de juros e correção monetária.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. ÔNUS DA PROVA. JUNTADA EXTEMPORÂNEA DE DOCUMENTO. POSSIBILIDADE. MITIGAÇÃO DA REGRA INSCULPIDA NO ARTIGO 434, DO CÓDIGO DE PROCESSO CIVIL. EXERCÍCIO PLENO DO CONTRADITÓRIO. 1. A ação de cobrança emerge como meio apropriado para se recorrer ao Poder Judiciário quando o autor não dispõe de título executivo extrajudicial, fundamentando-se nas evidências ao seu alcance para sustentar o crédito reclamado. 2. Cabe ao autor demonstrar, através de prova escorreita e convincente, a existência dos fatos que originaram a dívida. 3. A jurisprudência do Superior Tribunal de Justiça admite a juntada extemporânea de documentos ao processo, desde que ouvida a parte contrária e inexistente má-fé. 4. Ausência de prejuízo à defesa do réu, mormente porque foi devidamente oportunizado o exercício do contraditório e da ampla defesa. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. (fl. 238, e-STJ)
+Decisão de admissibilidade do TJ/GO: inadmitiu o recurso especial em razão do seguinte fundamento: i) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não se procura obter deste Colendo Superior Tribunal de Justiça a reavaliação de dados probatórios, impossível na sede especial, a teor de sua Súmula número 7, até porque não se está questionando os fatos, mas apenas a conclusão jurídica do acórdão recorrido, proferido pelo tribunal a quo, TJGO."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 15% os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
