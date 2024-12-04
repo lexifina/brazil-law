@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HOSPITAL NOSSA SENHORA DA CONCEIÇÃO S.A. (HOSPITAL) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.371-1.373).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alíneas a e c, da CF, HOSPITAL alegou a violação dos arts. 186, 187, 389, 391, 402 e 927 do CC, bem como dissídio jurisprudencial, aduzindo que (1) não houve culpa do nosocômio pelo falecimento da paciente, conforme reconhecido no laudo pericial; e (2) o valor da indenização por danos morais, fixado em R$ 200.000,00 (duzentos mil reais) - a ser rateado entre os autores das cinco ações -, é exorbitante (e-STJ, fls. 1.236-1.278).
+(1) As falhas no atendimento
+O Tribunal estadual consignou que houve falhas no atendimento médico obtido pela paciente no hospital. Confira-se:
+Rigorosamente, é incontroversa a demora no diagnóstico correto da Angina de Ludwig, que só veio após o óbito da paciente por meio do resultado da tomografia computadorizada. Isto posto, registro que, ainda que se considere que o tratamento com antibióticos foi adequado para a moléstia, não há negar que o diagnóstico correto - o que, segundo a perita Elizabeth Luz Moreira dos Santos, seria possível desde o primeiro dia de internação - poderia ter conduzido a um acompanhamento diferente da evolução do caso, o que, de consequência, poderia ter evitado o óbito.
+Consta, ainda, do conjunto probatório, que a ausculta respiratória, observação da presença de cianose (coloração azulada da pele) e do padrão ventilatório e a aferição periódica da saturação de oxigênio seriam procedimentos a serem adotados no caso concreto com regularidade. Todavia, há registro de apenas uma (01) aferição da saturação de oxigênio no período de 30/03/2011 a 02/04/2011 (dia 30/03 às 8h: 99%).
+Por fim, é também incontroverso que houve demora, no caso concreto, para o início das manobras de ressuscitação após a parada cardiorrespiratória (aproximadamente 15 minutos). Na perícia realizada na produção antecipada de provas (evento 110, LAUDOPERIC2 do processo autuado sob o nº 50833338320194047100, quesito 2), a perita aponta que os valores considerados ótimos para o período de latência - intervalo de tempo entre a parada cardiorrespiratória e o início das manobras de reanimação - é de 4 a 5 minutos. Assim, resta claro que as manobras foram iniciadas muito além do tempo recomendado.
+No ponto, registro que não desconheço que a perita aponta que "não está claro nos registros em prontuário se o referido lapso de tempo de 15 minutos foi o momento em que teria sido realizada a cricotireoidotomia (abertura cirúrgica da via aérea), urgente e imprescindível naquela situação." Contudo, a toda evidência, seria ônus da ré esclarecer se efetivamente esta foi a razão da demora, bem como a impossibilidade de eventual realização concomitante dos procedimentos necessários, uma vez que a perita afirma textualmente que tal informação não está clara nos prontuários e nas provas trazidas aos autos. Assim, o que sobressai é a indubitável demora na realização das manobras de ressuscitação diante da parada cardiorrespiratória.
+Isto posto, aponto que a sentença não merece reparos no tocante à análise do substrato probatório trazido aos autos e da necessidade de condenação da ré ao pagamento de indenização aos autores (e-STJ, fl. 1.149).
+Assim, rever as conclusões quanto às falhas no atendimento demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+O recurso, portanto, não merece que dele se conheça quanto ao ponto.
+(2) Do valor indenizatório
+A jurisprudência pacífica desta Corte posiciona-se no sentido de que, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário que o recorrente proceda ao cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa conferida ao mesmo dispositivo.
+Confiram-se os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. CITAÇÃO DE PASSAGEM DE ARTIGOS. FALTA DE ALCANCE NORMATIVO DO DISPOSITIVO APONTADO. SÚMULA N. 284/STF. FALTA DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. "A mera indicação de artigos de lei pretensamente violados não enseja o conhecimento do recurso especial, porquanto este é apelo de fundamentação vinculada e não incide o brocardo iura novit curia" (REsp n. 794.537/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/3/2009, DJe 6/4/2009), o que oc orreu no caso.
+3. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+6. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF. Além disso, "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.282.707/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 8/2/2021, DJe 11/2/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. DISPOSITIVO DE LEI FEDERAL. VIOLAÇÃO. FALTA DE INDICAÇÃO. SÚMULA Nº 284/STF. DIVERGÊNCIA. MESMO TRIBUNAL RECORRIDO. SÚMULA Nº 13/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284/STF.
+3. Não se conhece do recurso especial diante do óbice contido na Súmula nº 13/STJ.
+4. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.692.062/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 8/2/2021, DJe 12/2/2021)
+Contudo, na hipótese dos autos, HOSPITAL deixou de demonstrar analiticamente a divergência, limitando-se a transcrever ementa de acórdão paradigma.
+Assim, é inviável o conhecimento do recurso especial no ponto.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em desfavor do HOSPITAL, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DEMANDAS REUNIDAS. ERRO MÉDICO. FALHAS NO ATENDIMENTO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. VALOR INDENIZATÓRIO. COTEJO ANALÍTICO. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
