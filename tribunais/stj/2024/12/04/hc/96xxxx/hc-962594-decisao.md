@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALYFFER RAFAEL ALVES MARIA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em virtude do julgamento da apelação criminal n. 1501263-43.2023.8.26.0630.
+Consta nos autos que o paciente foi inicialmente condenado pelo juízo de primeiro grau pela prática dos delitos previstos no artigo 33, §4º, da Lei 11.343/06, no artigo 180, "caput", e no artigo 333, "caput", do Código Penal, em concurso material, à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, cumulada com 270 (duzentos e setenta) dias-multa (fls. 27-43).
+A defesa interpôs apelação criminal ao Tribunal de Justiça do Estado de São Paulo, que afastou a preliminar e negou provimento ao recurso (fls. 11-22).
+Na presente impetração, busca-se a concessão da ordem para: (i) absolver o paciente por insuficiência de provas de autoria delitiva, e (ii) revisar os critérios empregados na dosimetria da causa especial de diminuição de pena do §4º do artigo 33 da Lei 11.343/2006 e na fixação da pena-base.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da negativa à absolvição por insuficiência de provas e dos critérios empregados na dosimetria da pena.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos do acórdão (fls. 11-22):
+ ..
+Inviável, em suma, a absolvição pretendida, eis que bem delineada a responsabilidade criminal do acusado, pelos três delitos, nos moldes do reconhecido na sentença recorrida.
+Com essa conclusão, resta a análise da pena do crime de tráfico, que não comporta redimensionamento.
+A base foi estabelecida no mínimo legal; e, na segunda etapa, não sofreu alterações, mesmo presente a atenuante da menoridade (cf. fl. 24 e artigo 65, inciso I, do Código Penal), pois, como se sabe, as atenuantes genéricas, conquanto sempre diminuam as penas, não implicam, entretanto, em redução aquém do mínimo previsto na lei penal (cf. STF, RTJ 118/928; 104/736; RT 538/464 e TA CrSP, Julgados 94/321), conforme se verifica, inclusive, do teor da Súmula 231 do STJ. Ao contrário do sustentado no recurso ministerial, a utilização da quantidade na primeira fase da dosimetria penal e novamente considerada na terceira fase do cálculo para demonstrar a dedicação do apelante às atividades criminosas e afastar a aplicação do redutor do § 4º, do artigo 33, da Lei Antidrogas, configura, a meu ver, bis in idem.
+Sendo assim, conforme consta da sentença, acertadamente, esse fato foi levado em conta apenas na terceira fase de cálculo e, por isso, mantenho a base no mínimo legal.
+E, na derradeira etapa, o Magistrado de origem entendeu que o acusado fazia jus à aplicação do redutor do § 4º, do artigo 33, da Lei nº 11.343/06, porém, na fração intermediária, de 1/2 (metade), absolutamente de acordo com o artigo 42 da Lei Antidrogas, resultando na pena final para ele de 02 (dois) ano e 06 (seis) meses de reclusão, mais o pagamento de 250 (duzentos e cinquenta) dias-multa, no piso legal, à falta de outras modificadoras.
+Ao contrário da pretensão do Ministério Público, não é caso de se afastar a aplicação do redutor do § 4º, do artigo 33, da Lei Antidrogas. Primeiro, porque a quantidade e variedade de drogas apreendidas (15,1 gramas de cocaína, 1,4 gramas de crack e 7,3 gramas de maconha) não é suficiente para demonstrar a dedicação do réu ao tráfico e, segundo, porque o acusado era absolutamente primário, de forma que a prática concomitante de outro delito, por si só, não lhe retira o direito ao benefício acima referido, tampouco demonstra que, na época dos fatos ora tratados, ele se dedicasse a atividades criminosas e/ou integrasse organização dessa natureza (Nesse sentido, aliás, é a recente tese firmada no STJ Tema 1.039).
+As penas dos demais crimes de receptação e corrupção ativa foram as mínimas previstas, de 01 (um) ano de reclusão, mais o pagamento de 10 (dez) dias-muta, no piso legal, e de 02 (dois) anos reclusão, mais o pagamento de 10 (dez) dias-multa, no piso legal, respectivamente, de modo que, a meu juízo, nada deve ser alterado, pois a Defesa requer a aplicação da multa em seu valor mínimo.
+ ..
+O que se observa na presente impetração é que a defesa utiliza o habeas corpus como se fosse um segundo recurso de apelação, buscando um efeito devolutivo amplo incompatível com esse remédio constitucional, com o objetivo de reanalisar todos os fatos e provas já examinados pelo Tribunal de Apelação.
+A jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que o habeas corpus não é o meio adequado para se buscar a absolvição, uma vez que essa pretensão exige o reexame de fatos e provas. A esse respeito, cito os seguintes julgados:
+ ..
+3. A alegação de insuficiência de provas para a pretendida absolvição não pode ser conhecida através do habeas corpus, já que demanda análise abrangente do conjunto de provas, o que desborda as limitações cognitivas da ação autônoma de impugnação.
+ ..
+5. Agravo regimental não conhecido
+(AgRg no RHC n. 193.648/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 6/8/2024, DJe de 9/8/2024.)
+No que tange à dosimetria da pena, a pena-base de todos os delitos - tráfico de drogas, receptação e corrupção ativa - foi fixada no mínimo legal. O Tribunal de Apelação, quanto ao delito de tráfico de entorpecentes, entendeu que a vetorial quantidade e variedade de entorpecentes deveria ser analisada na terceira etapa da dosimetria da pena, de modo a evitar bis in idem.
+Lembro que a individualização da pena é submetida aos elementos de convicção judicial acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. A esse respeito:
+ ..
+2. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 940.298/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+No caso concreto, não vislumbro a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
