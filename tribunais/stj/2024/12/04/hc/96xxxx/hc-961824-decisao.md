@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Agravo. Deferimento de progressão ao regime semiaberto. Recurso do Ministério Público pretendendo que seja reformada a r. decisão e determinada a realização de exame criminológico. Agravado, reincidente, que cumpre pena por roubo majorado. Pratica de faltas graves, inclusive quando beneficiado com regime intermediário. Necessidade de verificar a presença do requisito subjetivo para concessão da benesse. Avaliação por equipe multidisciplinar. Inteligência do artigo 5º, inciso XLVI, da CF/88 e Lei nº 14.843/2024. Agravo provido.
+Consta dos autos que o paciente cumpre pena de 11 anos, 3 meses e 7 dias de reclusão, tendo obtido no Juízo da Execução Penal a progressão ao regime.
+O Tribunal de origem deu provimento ao agravo em execução do Parquet para condicional a progressão de regime à realização do exame criminológico.
+A defesa alega, em síntese: a) que o exame criminológico foi exigido com base em lei inaplicável à espécie; b) a ausência de motivação idônea para a exigência, e que sua imposição automatizada atenta contra os princípios da individualização da pena, da proporcionalidade e da eficiência.
+Ao final, requer a concessão da ordem para restabelecer a decisão que deferiu a progressão de regime independentemente da realização do exame criminológico.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+No que tange à necessidade de realização do exame criminológico, assim entendeu o Tribunal de origem (e-STJ fl. 100):
+Trata-se de agravado, reincidente, que cumpre pena de 11 anos, 03 meses e 07 dias de reclusão, em regime inicial fechado, por roubo qualificado, com término de cumprimento de pena previsto para 20/05/2032 (fls. 17/21).
+Consta o registro de 03 faltas graves consistentes em abandono (praticada em 20/03/2023) quando beneficiado com regime intermediário, tatuagem (11/01/2017) e resistência (02/05/2016), conforme fls. 20/21.
+Com relação à realização do exame criminológico, cumpre anotar que, embora tenha sido dada nova redação ao art. 112, da Lei de Execuções Penais, pela Lei n.º 10.792/2003, não se exigindo mais o exame criminológico, esse pode ser realizado sempre que o Juízo das Execuções julgar necessário, diante das peculiaridades da causa.
+Essa E. Câmara tem entendido que o exame criminológico, mesmo antes da vigência da Lei n.º 14.843/2024, não foi abolido totalmente e é necessário quando se tratar de mais de um crime praticado com violência ou grave ameaça, ou apresente o condenado inúmeras infrações penais e ainda quando demonstre perigosidade na execução do crime acima da média.
+E esse é o caso sub judice, já que o agravado demonstra personalidade desabonadora apontada pela pratica de delito com violência ou grave ameaça à pessoa e com faltas graves durante o cumprimento da pena, não havendo como se analisar a possibilidade da concessão de benefício relativo à execução penal sem que seja realizado o exame criminológico.
+Como se vê do excerto destacado, o Tribunal de origem procedeu à fundamentação da necessidade de realização do exame criminológico levando em consideração as circunstâncias concretas do caso, por se tratar de reeducando reincidente que ostenta três faltas graves durante o cumprimento da pena.
+Ademais, a decisão impugnada está em consonância com a Súmula 439 do Superior Tribunal de Justiça (STJ), que admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
