@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por CREFISA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA cuja ementa guarda os seguintes termos (fl. 745):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE TAXA ANUAL DE JUROS C/C RESTITUIÇÃO DE VALORES. INTIMAÇÃO DO ADVOGADO POR DIÁRIO DA JUSTIÇA ELETRÔNICO NO PROCESSO DIGITAL. DESCABIMENTO. REVISÃO DE CONTRATOS. POSSIBILIDADE. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. COMPROVADA. HONORÁRIOS ADVOCATÍCIOS. FIXADOS EM POUCO MAIS DO MÍNIMO LEGAL. SUCUMBÊNCIA MÍNIMA. INOCORRÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+1. As intimações das partes e de seus advogados, nos processos judiciais eletrônicos, são feitas em portal próprio dentro do sistema de gerenciamento que, neste caso, é o PROJUDI.
+2. A intervenção do Estado para a proteção do consumidor encontra determinação expressa no inc. XXXII do art. 5º. (direito fundamental de proteção do consumidor) e no inc. V do art. 170 (princípio de ordem econômica) ambos da Constituição Federal e nos arts. 4º. e 6º. ambos do Código de Defesa do Consumidor, entre outros.
+3. Especificamente em relação aos contratos bancários, a revisão das cláusulas contratuais pelo Judiciário é admitida, quanto às taxas de juros, em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. Tema Repetitivo nº. 27 do STJ.
+4. O simples fato de os juros remuneratórios serem superiores à taxa média de mercado, por si só, não configura abusividade. Para tanto, é necessária uma significativa discrepância injustificada entre a taxa pactuada e a média praticada para as operações de crédito no mesmo período da contratação. Precedentes do STJ.
+5. Não basta que a CREFISA atue (em abstrato) com clientes de risco para que ela possa cobrar juros exorbitantes de toda e qualquer pessoa indistintamente. O que justifica os juros altos é a realidade da situação concreta de cada contratante, o que não foi demonstrado neste caso.
+6. Os honorários advocatícios foram fixados em pouco mais do percentual mínimo previsto no § 2º. do art. 85 do CPC, o que impede sua redução. 7. Conforme se vê na decisão agravada, ANTONIO FRANCISCO SILVA SOUSA foi vencedor em grande parte de seus pedidos, sucumbindo apenas quanto à repetição em dobro e à capitalização mensal dos juros. Consequentemente, não houve sucumbência mínima da instituição financeira.
+Os embargos de declaração foram rejeitados (fls. 771/776).
+No recurso especial, a recorrente alega que, "para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso" (fl. 790).
+Aduz, ainda, que "a divergência jurisprudencial é patente, razão pela qual o V. Acórdão Recorrido deve ser reformado, a fim de que seja observado o caso de forma individual, analisando o tipo de contratos firmados pela Recorrente, já que os parâmetros utilizado pela Recorrida divergem das demais operações no mercado, analisando:  .. " (fl. 792).
+Foram oferecidas contrarrazões ao recurso especial (fls. 807/819). Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 822/823), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 847/850).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Ao sustentar a tese da não aplicação da taxa média do mercado para a fixação dos juros no caso concreto, observa-se que, nas razões do recurso especial, a recorrente deixou de estabelecer qual o dispositivo de lei federal que considera violado para sustentar sua irresignação pela alínea "a" do permissivo constitucional, ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+Ressalte-se que a mera menção ao tema em debate, ou ao Código de Defesa do Consumidor, sem que se aponte com precisão a contrariedade ou a negativa de vigência ou a divergência jurisprudencial pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado, de modo que a "simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF" (EDcl no AgRg no AREsp n. 402.314/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2015).
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO.
+IMPENHORABILIDADE DO BEM DE FAMÍLIA. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO
+DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência a jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. A simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.246.690/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+3. Com efeito, a via estreita do Recurso Especial exige demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF. Nesse sentido: AgInt no AREsp 1.650.251/RS, Rel. Ministro Mauro Campbell Marques, Segunda Tuma, DJe 9.9.2020.
+4. O Recurso Especial interposto pela alínea "c" do permissivo constitucional deve indicar o dispositivo de lei federal a que foi dada interpretação divergente pelos acórdãos recorrido e paradigma, sob pena de deficiência em sua fundamentação. Incide na espécie também a Súmula 284 do STF.
+(AgInt no AREsp n. 1.963.297/MS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2022.)
+2. A falta de particularização do dispositivo de lei federal que tenha sido violado consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula n. 284/STF.
+(AgInt no AREsp n. 2.008.000/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 29/4/2022.)
+2. Não há como afastar a incidência analógica do óbice da Súmula 284/STF, uma vez que, nas razões do recurso especial, o recorrente não indicou de modo explícito e particularizado quais seriam os dispositivos de lei violados que amparariam as teses de responsabilidade solidária da 2ª ré e de ocorrência do dano moral.
+(AgInt no AREsp n. 1.956.043/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2/3/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO RECURSAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO OU OBJETO DO DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
