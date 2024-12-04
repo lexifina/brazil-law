@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SUELY FERREIRA DA SILVA GUIMARÃES (SUELY) contra decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, SUELY alegou a violação dos arts. 186, 187, 927 e 944 do CC/02; 6º, VI, 14 e 17 do CDC, bem como divergência jurisprudencial, ao sustentar, em síntese, que o dano moral foi fixado no valor ínfimo de R$ 1.000,00 (um mil reais), desrespeitando os princípios da razoabilidade e proporcionalidade, devendo ser majorado para R$ 10.000,00 (dez mil reais).
+(1) Arts. 186, 187 e 927 do CC/02; 6º, VI, 14 e 17 do CDC
+Referidos dispositivos legais não constituem imperativos legais aptos a desconstituírem os fundamentos declinados no acórdão no que se refere ao inconformismo quanto ao valor arbitrado a título de danos morais, atraindo a incidência da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. TRANSPORTE AÉREO. OVERBOOKING. DANOS MORAIS CONFIGURADOS. VALOR DA CONDENAÇÃO. CRITÉRIOS. RAZOABILIDADE E PROPORCIONALIDADE. OFENSA AOS ARTS. 186 E 927 DO CC, 14 DO CDC. DISPOSITIVOS LEGAIS QUE NÃO CONSTITUEM IMPERATIVOS LEGAIS APTOS A DESCONSTITUIR O FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 284 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Artigo indicado como violado que não possui conteúdo normativo para discutir a adequação do valor arbitrado a título de compensação por danos morais. Incidência da Súmula nº 284 do STF. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.931.521/MG, de minha relatoria, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022)
+(2) Dano Moral - Quantum
+O acórdão recorrido manteve o valor fixado pela sentença a título de danos morais, pelos seguintes fundamentos:
+Ademais, inexiste critério objetivo para a estipulação do valor da indenização por danos morais, pelo que incumbe ao julgador arbitrá-lo, de forma prudente, com observância dos princípios da razoabilidade e da proporcionalidade e atento às circunstâncias do caso concreto.
+Conforme bem colocou o magistrado a quo na sentença, tendo em vista que o prejuízo material discutido em razão dos descontos comprovadamente praticados importa em R$ 49,90 (quarenta e nove reais e noventa centavos) (evento 01, ANEXO 8), ou seja, não suplanta R$ 1.000,00 (mil reais) e não se traduz em considerável extensão (art. 944, do CC), entendo suficiente a fixação de indenização no valor de R$ 1.000,00 (mil reais), por ser necessário para cumprir as funções esperadas da condenação (reparatória, punitiva e pedagógica), sem causar enriquecimento excessivo à parte autora (sic)
+Desta forma, observando que o Magistrado condenou a parte apelada moralmente no importe de R$ 1.000,00 (mil reais), considerando a condição econômica da demandada; a natureza do ilícito praticado; o dano causado, a condição da parte autora, e, ainda, o valor dos descontos indevidos efetuados que não ultrapassam R$ 1.000,00 (um mil reais), com fulcro no art. 944 do Código Civil, entendo deva ser mantido o valor da condenação. Nesse sentido:(e-STJ, fl. 119)
+A lei não fixa valores ou critérios para a quantificação do dano moral, que entretanto deve ter assento na regra do art. 944 do CC/02. Por isso, esta Corte tem se pronunciado reiteradamente no sentido de que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Desta forma, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. SAÚDE. ERRO MÉDICO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais e compensação por danos morais, ajuizada em razão de erro médico.
+2. A modificação do valor da indenização por danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes. Salvo nessas hipóteses, a análise do apelo quanto ao ponto encontra óbice na Súmula 7 do STJ.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.227.888/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVAS. INDEFERIMENTO. DECISÃO MOTIVADA. DESNECESSIDADE. FACULDADE DO MAGISTRADO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RESPONSABILIDADE CIVIL. CONFIGURAÇÃO. PRESSUPOSTOS. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. REDUÇÃO DO QUANTUM INDENIZATÓRIO. NOVA APRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O magistrado, destinatário final da prova, pode, de maneira fundamentada, indeferir a produção de provas e diligências protelatórias, desnecessárias ou impertinentes.
+3. Rever a convicção da corte de origem de prescindibilidade da produção de provas requerida demanda reexame fático-probatório, o que é vedado em recurso especial, em razão da incidência da Súmula n. 7 do STJ.
+4. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+5. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.244.039/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023 - sem destaque no original)
+No caso concreto, em razão dos delineamentos do caso, o valor fixado na sentença e mantido pelo Tribunal a quo para a indenização por danos morais (R$ 1.000,00 - um mil reais), não se mostra irrisório a justificar a excepcional intervenção desta Corte no presente feito.
+(3) Dissídio Jurisprudencial
+A incidência da Súmula nº 7 do STJ impede o conhecimento do recurso especial lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE VIOLAÇÃO À LEI N. 1.060/1950. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA E JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão, ante a aplicação analógica da Súmula 284/STF.
+2. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. O benefício, todavia, pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+3. Além disso, segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3.1. Tendo o Tribunal de origem entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.482.064/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. SEGURO NÃO CONTRATADO. DANO MORAL. QUANTUM. FIXAÇÃO EM PATAMAR RAZOÁVEL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE ANTE A INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
