@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE OLÍMPIA (SP) e o JUÍZO DA VARA DO TRABALHO DE OLÍMPIA (SP), para definir a competência para processamento e julgamento de reclamação trabalhista ajuizada por LEONARDO MELO FERNANDES BEATTA em desfavor de WAM COMERCIALIZAÇÃO S.A., objetivando o reconhecimento de vínculo empregatício e a condenação da reclamada ao pagamento das verbas trabalhistas.
+O JUÍZO DA VARA DO TRABALHO DE OLÍMPIA (SP), no qual a ação foi proposta, declinou de sua competência e determinou a remessa dos autos à Justiça comum por entender configurado contrato entre as partes de natureza autônoma, sem caracterização de vínculo empregatício (fls. 59-63).
+O JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE OLÍMPIA (SP), por sua vez, suscitou o presente conflito ao fundamento de que a questão em debate se insere no âmbito do direito trabalhista (fls. 65-67).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito negativo de competência e, no mérito, pela competência do Juízo da Vara do Trabalho de Olímpia (SP), o suscitado, para processar e julgar a demanda (fls. 72-76).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+Segundo a iterativa jurisprudência desta Corte, a definição da competência em razão da matéria está adstrita à natureza jurídica da demanda, definida em função do pedido e da causa de pedir deduzidos em juízo.
+No caso, a pretensão veiculada na inicial (fls. 5-16) - reclamação trabalhista -, por sua natureza, está lastreada em uma discussão a respeito da relação de trabalho, mas fundamentada essencialmente na alegação de reconhecimento do vínculo empregatício e na condenação ao pagamento das verbas trabalhistas.
+Afirma a parte autora o seguinte (fl. 7):
+O primeiro contrato de trabalho ocorreu de outubro de 2021 à março de 2022. No mês de outubro de 2022 foi readmitido pela Reclamada até dezembro de 2022.
+O Reclamante exercia suas atividades de segunda a domingo dando início as 7H20 minutos, com direito a uma folga na semana, no entanto, dificilmente gozava do descanso.
+Frisa-se que o intervalo era de 1H, porém nunca era realizado, o Reclamante apenas fazia uma pausa para a refeição e já retornava. Assim como, não tinha horário para encerrar o expediente.
+O reclamante foi contratado para trabalhar pela contra prestação de fixa mensal de R$1.500,00 (mil e quinhentos reais) mais os valores referentes a comissão.
+Todavia, só recebeu a quantia referente ao salário no primeiro mês e depois passou a receber apenas os valores referente a comissão, que totalizavam R$2.000,00 (dois mil reais).
+Nunca houve o registro de sua CTPS, bem como os recolhimentos previdenciários e fundiários correlatos.
+No ato da dispensa, o reclamado não efetuou o pagamento das verbas rescisórias.
+Assim, a controvérsia cinge-se a definir o órgão competente para apreciar ação que se baseia na alegação de desvirtuamento do contrato de natureza autônoma mantido com Wam Comercialização S.A., objetivando a parte autora o reconhecimento, em seu lugar, de vínculo empregatício. A propósito, o Juízo suscitado destaca, consoante contestação apresentada pela parte ré, que houve contrato de prestação de serviços entabulado entre as partes (fls. 59-60).
+Esta Corte já decidiu sobre a matéria, entendendo que, nessa hipótese, o deslinde da questão necessita, no âmbito da Justiça comum, da análise prévia da alegação de fraude no negócio vigente entre as partes para, posteriormente, ensejar a análise pela Justiça especializada.
+Isso porque não há como reconhecer a caracterização de relação de emprego sem antes verificar a validade ou não do contrato de prestação de serviços de vendedora do qual a parte autora participou como contratada.
+Assim, a causa de pedir está fundada na existência de má-fé da empresa na entabulação do contrato originário, de modo que é inviável decidir o pleito principal de reconhecimento de vínculo empregatício sem adentrar a causa de pedir deduzida na ação.
+Feitas essas considerações, impõe-se o reconhecimento da competência da Justiça comum estadual para processar e julgar a presente demanda, pois, apenas após reconhecido eventual vício de consentimento ou social, com a consequente anulação do negócio jurídico preexistente, é que haverá a possibilidade de se pleitear, na Justiça do Trabalho, o reconhecimento do alegado vínculo empregatício.
+A propósito, confira-se o seguinte precedente:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - TRANSPORTE DE CARGAS - MOTORISTA - RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO - ADC N.º 48/DF - COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL - JURISPRUDÊNCIA CONSOLIDADA DA SEGUNDA SEÇÃO - DELIBERAÇÃO UNIPESSOAL QUE CONHECEU DO CONFLITO E DECLAROU A COMPETÊNCIA DO JUÍZO DE DIREITO DA 8.ª VARA CÍVEL DE SANTO ANDRÉ/SP - INSURGÊNCIA DO AGRAVANTE.
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea d, da Constituição Federal.
+2. No âmbito da ADC n.º 48/DF, na qual foi reconhecida a constitucionalidade da Lei n.º 11.447/2007, que por sua vez dispõe sobre transporte rodoviário de cargas por terceiros, mediante remuneração, a Corte Suprema tem decidido que a discussão a respeito da presença ou não dos requisitos legais para configuração da contratação nos termos da mencionada lei, deve se iniciar na Justiça Comum, e que, constatada a ausência dos mesmo, só então, a competência passa a ser da Justiça do Trabalho. Precedentes da Segunda Seção do STJ.
+3. Agravo interno desprovido. (AgInt no CC n. 191.676/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+No mesmo sentido, as seguintes decisões monocráticas: CC n. 208.944/MG, relatora Ministra Nancy Andrighi, DJe de 12/11/2024; CC n. 205.029/SP, relator Ministro Antonio Carlos Ferreira, DJe de 29/5/2024.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Cível de Olímpia (SP ), o suscitante .
+Publique-se. Intimem-se.
+EMENTA
