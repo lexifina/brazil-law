@@ -1,0 +1,22 @@
+DECISÃO
+C uida-se de embargos de declaração opostos por ITAU UNIBANCO S.A contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial, em razão da incidência das Súmulas n. 5 e 7 do STJ, por demandar análise de prova a pretensão do ora embargante de afastar o entendimento do Tribunal de origem que limitou os juros remuneratórios à taxa média de mercado e considerou descaracterizada a mora e vedada a capitalização diária dos juros (fls. 492-499).
+O embargante alega que há vícios a serem sanados na decisão embargada, defendendo, primeiramente, que não apresentou pretensão acerca da capitalização dos juros, uma vez que a insurgência recursal ficou delimitada, expressamente, aos juros remuneratórios. Além disso, alega a ausência de abusividade na taxa pactuada e que demonstrou o dissídio jurisprudencial suscitado.
+Requer o acolhimento dos presentes embargos a fim de se conhecer do agravo em re curso especial e de se dar provimento ao recurso especial.
+Sem impugnação aos presentes embargos (fl. 512).
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, há que se reconhecer que o embargante não apresentou pretensão acerca de capitalização dos juros, razão porque deve ser afastada essa questão no caso.
+No mais, não há vícios a serem sanados na decisão embargada, porquanto, no caso dos autos, entendeu o Tribunal de origem que configurada a abusividade dos juros remuneratórios a ensejar a limitação da respectiva taxa à taxa média de mercado, porquanto configurado desequilíbrio contratual e abusividade.
+Assim, conforme assentado na decisão embargada, para rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos e de cláusulas contratuais. Sendo assim, incidem no caso as Súmulas n. 5 e 7 do STJ.
+Outrossim, quanto à alegada divergência jurisprudencial, ficou consignado que a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, acolho em parte os embargos de declaração, sem efeitos infringentes, apenas para afastar o entendimento proferido na decisão monocrática embargada quanto à capitalização de juros.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. CONTRATOS DE CARTÃO DE CRÉDITO. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE VERIFICADA. PRETENSÃO DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE SEM EFEITO INFRINGENTE.
