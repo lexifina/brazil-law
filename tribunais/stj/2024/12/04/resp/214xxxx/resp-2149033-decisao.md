@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO VOLKSWAGEN S. A. (BANCO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do ilustre Desembargador FÁBIO TABOSA, assim ementado:
+Processual. Alienação fiduciária. Veículo. Busca e apreensão. Indeferimento da liminar. Notificação premonitória endereçada ao devedor, mas devolvida com a informação "não procurado". Notificação que, nesse caso, sequer teria como ser implementada, uma vez inexistente diligência ao endereço indicado. Distinção em relação ao entendimento vinculante firmado pelo C. STJ, sob a técnica do julgamento de recursos (Tema nº 1.132), quanto à desnecessidade de prova do recebimento da notificação premonitória pelo próprio destinatário ou por terceiros, bastando o envio ao devedor no endereço indicado no instrumento contratual. Condição, no caso, não preenchida. Decisão mantida. Agravo de instrumento da instituição financeira autora desprovido, por maioria, contra o voto do ilustre Relator sorteado. (e-STJ, fls. 12/15).
+Nas razões do presente recurso, BANCO alegou a violação aos arts. 2º, § 2º, e 3º, do Decreto-Lei 911/69, ao sustentar que (1) é suficiente o envio da notificação extrajudicial ao endereço do devedor indicado no instrumento contratual; (2) deve ser aplicado o Tema nº 1.132 do STJ, que não limita sua incidência às hipóteses em que houve diligência no endereço do destinatário; (3) ficou caracterizada a existência de dissídio jurisprudencial.
+Não foram apresentadas contrarrazões (e-STJ, fls. 220).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da validade da notificação enviada ao endereço do contrato
+Não obstante o Tribunal de Justiça de São Paulo ter reconhecido o caráter vinculante do Tema nº 1.132 do STJ, ponderou que o caso concreto apresentou peculiaridades que ensejaram a diferenciação no tocante ao entendimento desta Corte Superior, destacando ainda que:
+A notificação premonitória foi endereçada ao devedor, conforme indicado no contrato, mas foi devolvida com a justificativa "não procurado", o que significa dizer que a notificação não teria como ser, em qualquer hipótese, implementada, já que sequer houve diligência no endereço do destinatário.
+A hipótese, enfim, é diferente de ausência, mudança de endereço, recusa, ou qualquer outra em que, de alguma forma, a frustração pudesse ser imputada ao devedor, ainda que involuntariamente, de modo que o conceito de "notificação encaminhada", aqui, deixa de existir. (e-STJ, fls. 15).
+De fato, esta Corte firmou entendimento no sentido de que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, assim firmando o tema nº 1132, julgado em sede de recurso repetitivo em 9/8/2023, ficando a tese aprovada com a seguinte redação:
+Para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+(REsp n. 1.951.662/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, Segunda Seção, julgado em 9/8/2023, DJe de 20/10/2023.)
+A propósito:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO. ENDEREÇO INFORMADO NO CONTRATO. TEMA N. 1.132/STJ. DECISÃO MANTIDA.
+1. A Segunda Seção do Superior Tribunal de Justiça julgou o Tema repetitivo n. 1.132, firmando o entendimento de que "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pro próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 9/8/2023).
+2. No caso concreto, houve o envio regular da notificação para o endereço da devedora declinado no contrato. Comprovada a mora, deve prosseguir a ação de busca e apreensão.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.115.447/MT, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 19/3/2024, DJe de 21/3/2024.)
+Conforme trecho do acórdão recorrido transcrito acima, o Tribunal estadual, fazendo uma comparação entre a tese firmada no Tema 1132 do STJ e a necessária peculiaridade do caso, concluiu que a mora não foi comprovada.
+Ao assim decidir, o Tribunal paulista se posicionou em consonância com o entendimento do STJ e desconstituir a sua conclusão na forma pretendida, demandaria a reanálise do acervo fático e probatório dos autos, procedimento que, em sede de especial, encontra óbice no enunciado nº 7 da Súmula do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO ENVIADA POR CARTA REGISTRADA COM AVISO DE RECEBIMENTO. DEVOLUÇÃO COM A INFORMAÇÃO "NÃO PROCURADO". MORA NÃO COMPROVADA. EXTINÇÃO DA AÇÃO DE BUSCA E APREENSÃO. SÚMULA N. 83 DO STJ. PROTESTO POR EDITAL. MEIOS PARA LOCALIZAÇÃO DO DEVEDOR. NECESSIDADE DE ESGOTAMENTO. AUSÊNCIA. SÚMULA N. 7 DO STJ. SÚMULA N. 282 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Para os contratos garantidos por alienação fiduciária, a mora se configura automaticamente quando vencido o prazo para o pagamento - mora ex re -, mas, considerando o teor da Súmula n. 72 do STJ, é imprescindível a comprovação da mora para o prosseguimento da ação de busca e apreensão.
+2. Nas hipóteses de alienação fiduciária, a mora deve ser comprovada por meio de notificação extrajudicial expedida por cartório de títulos e documentos ou por carta registrada com aviso de recebimento e entregue no domicílio do devedor, sendo dispensada a notificação pessoal.
+3. No caso em que a notificação extrajudicial retorna com a informação "não procurado", é correta a extinção da ação de busca e apreensão em razão da ausência de comprovação da mora, tendo em vista que a notificação expedida não foi sequer encaminhada ao endereço do devedor.
+4. É possível a comprovação da mora na ação de busca e apreensão por intermédio do protesto do título por edital, desde que esgotados todos os meios de localização do devedor.
+5. Alterar a conclusão do acórdão do tribunal a quo acerca do esgotamento dos meios de localização do devedor para validar o protesto do título por edital demanda reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.007.339/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+(2) Do dissídio jurisprudencial
+BANCO indicou ainda a existência de dissídio jurisprudencial no que tange à matéria debatida.
+É de destacar, contudo, que a jurisprudência desta Corte firmou o entendimento de que a incidência da Súmula nº 7 do STJ impede o conhecimento do recurso lastreado pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+A propósito, veja-se o julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. JULGADA PROCEDENTE. NEGATIVA INDEVIDA DE COBERTURA A PROCEDIMENTO. DANOS MORAIS CONFIGURADOS. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULAS 282 E 356/STF. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. REDUÇÃO DO QUANTUM INDENIZATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Inadmissível o recurso especial referente à questão que não foi apreciada pelo Tribunal de origem, pela ausência de prequestionamento. Incidência das Súmulas n. 282 e 356/STF.
+2. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fáticoprobatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7 do Superior Tribunal de Justiça.
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.286.720/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023, sem destaque no original.)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO. AVISO DE RECEBIMENTO. RETORNO COM A INFORMAÇÃO "NÃO PROCURADO". MORA NÃO COMPROVADA. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO- PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 2. DISSÍDIO JURIPSRUDENCIAL PREJUDICADO ANTE O ÓBICE SUMULAR. RECURSO ESPECIAL NÃO CONHECIDO.
