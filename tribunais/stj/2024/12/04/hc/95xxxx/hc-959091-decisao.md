@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em benefício de DIELSON DE CASTRO COSME SOARES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1511223-31.2024.8.26.0228.
+Extrai-se dos autos que o paciente foi condenado à pena de 4 anos e 8 meses de reclusão, no regime inicial fechado, além do pagamento de 11 dias-multa, pela prática do crime tipificado no artigo 157, do Código Penal.
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, em acórdão assim ementado (e-STJ Fl.41):
+APELAÇÃO CRIMINAL ROUBO Pretendida a desclassificação da conduta para o delito de furto Impossibilidade Versão apresentada pelo réu em juízo que se encontra totalmente divorciada dos elementos colhidos em juízo Vítima que foi categórica, tanto na polícia como em juízo, ao afirmar o uso da faca pelo sentenciado Arma branca que foi apreendida pelos policiais militares, a ratificar seu depoimento Prova dos autos é suficientemente robusta para justificar a condenação por roubo Condenação irretocável Reconhecimento da atenuante da confissão e sua compensação com a agravante da reincidência Descabimento Acusado que negou o emprego de grave ameaça, o que foi confirmado pela vítima Lado outro, compensação que não deve subsistir, ainda que estivesse presente a confissão, ante a preponderância da recidiva Inteligência do art. 67, do Código Penal Regime fechado que se mostra o único possível - Recurso desprovido.
+No presente writ, a defesa sustenta a necessidade de compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência, bem como o estabelecimento de regime inicial semiaberto.
+Requer, no mérito, a concessão da ordem para que seja redimensionada a pena.
+Parecer do Ministério Público Federal pela concessão da ordem (e-STJ Fl.54/55).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Pretende o paciente a compensação integral da atenuante da confissão espontânea com a agravante da reincidência , na segunda fase de aplicação da pena.
+A esse respeito, assim consignou o acórdão proferido pelo Tribunal de origem (e-STJ, fls. 43/49):
+"A materialidade e autoria delitiva restaram satisfatoriamente demonstradas pelo farta arcabouço probatório amealhado aos autos, bem como, e principalmente, pela prova oral, consubstanciada na confissão, ainda que parcial, do acusado, sob o crivo do contraditório.
+ ..
+A básica restou fixada no mínimo e, em seguida, pela reincidência, foi majorada em 1/6.
+Aqui, ao contrário do alegado, não há que se falar na pretendida atenuante da confissão e sua compensação.
+Isso porque o réu confessou apenas parcialmente os fatos, apesar de ter admito a subtração, negou o emprego de violência, o que foi confirmado pela vítima em juízo.
+O fundamento de tal atenuante é o arrependimento do autor do crime, que pretende, então, colaborar para a definição de sua exata responsabilização. Se o agente confessa apenas parcialmente ou altera os fatos conforme seu interesse, demonstra não estar arrependido e não ter verdadeira intenção de colaborar com a justiça, não merecendo, portanto, a atenuação de sua pena com a benesse ora pleiteada.
+De qualquer forma, ainda que se entendesse o contrário, a reincidência, no caso, deve preponderar sobre tal atenuante.
+ .. .
+O regime inicial fechado foi corretamente estabelecido, visto que o réu é reincidente. Assim, nos termos do art. 33, §3º, do Código Penal, o regime mais gravoso se encontra justificado."
+Por sua vez, a sentença de primeiro grau assim decidiu (e-STJ, fls. 26/27):
+"Interrogado, o réu Dielson confessou a prática do roubo. Estava embriagado, dependente químico, estava drogado e alcoolizado. Achou que precisava usar, pegou e roubou. Mas em nenhum momento simulou assalto, não agrediu ninguém Não ameaçou, não puxou arma. Só entrou e pediu o dinheiro, não ameaçou. Pegou cigarro, fumo o dinheiro e saiu normal. A faca estava dentro da mochila e não usou para nada. Usava para cortar fio de cobre, estava reciclando. Pediu o dinheiro e elas deram o dinheiro do caixa. Elas não queriam dar cigarro, entrou e pegou. Não foi agressor. Saiu andando, normal. Nunca foi processado antes. Só teve por causa de pensão, está tudo ok. Trabalhava antes de ser preso, é carpinteiro, trabalhador. Estava separado, sua mulher não queria deixar ver o filho e aí caiu nas drogas, começou a beber, começou a usar crack e tudo gerou isso. Está arrependido demais. Não conhecia as moças que trabalhavam no mercado. Ficava andarilho, para cima e para baixo. Não conhecia os policiais.
+A prova colhida é suficiente para comprovar a autoria e a materialidade do delito de roubo descrito na denúncia, sendo hipótese de reconhecimento de crime único - apenas um patrimônio atingido, o do mercado - afastado o emprego de arma branca em razão da ausência de laudo pericial.
+A confissão do réu, apenas parcial e com objetivo de afastar a imputação por roubo não merece credibilidade, pois demonstrada, à evidência, a ocorrência da grave ameaça a caracterizar o roubo, quer pelo uso da faca - as duas vítimas afirmaram que ele usava a faca - quer pela determinação feita para a entrega do dinheiro que estava no caixa.
+ .. .
+Na segunda fase é reconhecida a reincidência. A pena sofre aumento de 1/6, resultando em 04 (quatro) anos e 08 (oito) meses de reclusão. Não há atenuantes. A confissão parcial, objetivando a desclassificação para crime mais brando não pode ser considerada como atenuante."
+Como se verifica, a confissão foi utilizada para fundamentar a condenação, muito embora as instâncias ordinárias tenham afastado sua utilização na segunda fase da dosimetria da pena porque o paciente confessou apenas o furto, negando o emprego de grave ameaça e violência contra a vítima após a subtração da coisa, contrariando os demais elementos de prova.
+Ocorre que o entendimento exarado, contudo, vai de encontro à jurisprudência desta Corte que firmou-se no sentido de que "a incidência da atenuante prevista no art. 65, III, d, do Código Penal, independe se a confissão foi integral ou parcial, quando utilizada para fundamentar a condenação" (HC n. 337.662/RJ, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 1/8/2016). Eis o teor da Súmula n. 545/STJ: Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal.
+Por conseguinte, a jurisprudência deste Superior Tribunal de Justiça entende que a confissão parcial deverá ser integralmente compensada com a agravante da reincidência configurada por uma única anotação de condenação definitiva anterior, quando esta for utilizada como fundamento para a condenação, como ocorreu no presente caso.
+Dessa forma, verifica-se o constrangimento ilegal, a fim de ser necessário reconhecer a atenuante da confissão espontânea.
+Assim, passo ao redimensionamento da pena.
+Fixada na primeira fase a pena no mínimo legal. Na segunda fase, compenso integralmente a agravante da reincidência com a atenuante da confissão espontânea. Na terceira fase, não havendo causas de aumento ou de diminuição, torna-se definitiva a pena em 4 anos de reclusão, além do pagamento de 10 dias-multa, à razão mínima.
+Fixada a pena em 4 anos de reclusão e considerada a reincidência do réu, deve ser fixado o regime prisional semiaberto, nos termos do art. 33, § 2º, do Código Penal.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração, contudo, concedo a ordem, de ofício, para fixar a pena do paciente em 4 anos de reclusão, em regime inicial semiaberto, e 10 dias-multa.
+Publique-se.
+Intimem-se.
+ EMENTA
