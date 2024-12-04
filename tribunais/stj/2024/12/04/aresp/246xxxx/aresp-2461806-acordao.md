@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para negar provimento ao recurso especial.
+Os Srs. Ministros Ribeiro Dantas e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik.
+EMENTA
+DIREITO PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS JUDICIAIS. MAUS ANTECEDENTES, CONDUTA SOCIAL E PERSONALIDADE. ENTENDIMENTO JURISPRUDENCIAL. APLICAÇÃO DA SÚMULA Nº 83/STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1.Agravo interposto contra decisão que inadmitiu recurso especial, no qual o agravante alegava violação ao art. 621, I, do Código de Processo Penal, com foco na dosimetria da pena e valoração negativa das circunstâncias judiciais. O agravante contestava o uso de condenações anteriores como fundamento para a majoração da pena-base.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se as condenações anteriores, com trânsito em julgado durante o curso da ação penal, justificam a valoração negativa dos antecedentes, conduta social e personalidade do réu; (ii) verificar se a mudança de entendimento jurisprudencial posterior ao trânsito em julgado da condenação pode ensejar a revisão da dosimetria da pena.
+III. RAZÕES DE DECIDIR
+3. O Tribunal reconhece que as condenações anteriores justificam a valoração negativa dos antecedentes, conduta social e personalidade do réu, em conformidade com a jurisprudência consolidada no Superior Tribunal de Justiça, que admite a consideração de condenações definitivas para fins de agravamento da pena-base.
+4. A mudança de entendimento jurisprudencial posterior ao trânsito em julgado não se aplica retroativamente para modificar decisões já consolidadas, visando preservar a segurança jurídica e o princípio da coisa julgada.
+5. A jurisprudência do STJ, refletida na Súmula nº 83, dispõe que a interposição de recurso especial não é admitida quando a decisão recorrida está em consonância com o entendimento desta Corte.
+IV. DISPOSITIVO
+6. Recurso desprovido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, por meio da qual se postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS JUDICIAIS. MAUS ANTECEDENTES, CONDUTA SOCIAL E PERSONALIDADE. ENTENDIMENTO JURISPRUDENCIAL. APLICAÇÃO DA SÚMULA Nº 83/STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1.Agravo interposto contra decisão que inadmitiu recurso especial, no qual o agravante alegava violação ao art. 621, I, do Código de Processo Penal, com foco na dosimetria da pena e valoração negativa das circunstâncias judiciais. O agravante contestava o uso de condenações anteriores como fundamento para a majoração da pena-base.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se as condenações anteriores, com trânsito em julgado durante o curso da ação penal, justificam a valoração negativa dos antecedentes, conduta social e personalidade do réu; (ii) verificar se a mudança de entendimento jurisprudencial posterior ao trânsito em julgado da condenação pode ensejar a revisão da dosimetria da pena.
+III. RAZÕES DE DECIDIR
+3. O Tribunal reconhece que as condenações anteriores justificam a valoração negativa dos antecedentes, conduta social e personalidade do réu, em conformidade com a jurisprudência consolidada no Superior Tribunal de Justiça, que admite a consideração de condenações definitivas para fins de agravamento da pena-base.
+4. A mudança de entendimento jurisprudencial posterior ao trânsito em julgado não se aplica retroativamente para modificar decisões já consolidadas, visando preservar a segurança jurídica e o princípio da coisa julgada.
+5. A jurisprudência do STJ, refletida na Súmula nº 83, dispõe que a interposição de recurso especial não é admitida quando a decisão recorrida está em consonância com o entendimento desta Corte.
+IV. DISPOSITIVO
+6. Recurso desprovido.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violado o artigo 621, I, primeira parte, do Código de Processo Penal.
+A análise das razões motivadas na origem indica que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula nº 83/STJ, conforme se verifica da fundamentação adotada (e-STJ fls. 101/104):
+"(..) Afere-se da atenta leitura da dosimetria da pena realizada na sentença, que uma das qualificadoras reconhecidas pelo Conselho de Sentença, qual seja, motivo torpe, serviu para indicar os limites da pena, no intervalo de 12 (doze) a 30 (trinta) anos de reclusão. A qualificadora do recurso que dificultou a defesa da vítima foi utilizada na segunda fase da dosimetria, consoante permite a jurisprudência (..) Verifica-se, ainda, que a pena-base foi fixada acima do mínimo legal pela análise negativa de quatro circunstâncias judiciais: culpabilidade, maus antecedentes, conduta social e personalidade. A culpabilidade, como circunstância judicial, deve ser entendida e concretamente fundamentada na reprovação social que o crime e o autor do fato merecem. É o grau de censura da ação ou omissão do réu que deve ser valorada a partir da existência de um plus de reprovação social de sua conduta (..) No caso, os fundamentos da sentença foram pautados em elementos concretos existentes nos autos e que transcendem às consequências e circunstâncias comuns ao crime de homicídio qualificado e servem de fundamento para a valoração negativa desta circunstância judicial. A respeito dos antecedentes, de acordo com a jurisprudência do eg. Superior Tribunal de Justiça e desta Corte, a condenação por crime anterior à prática delitiva, com trânsito em julgado posterior, ou seja, no curso da ação penal que se analisa, malgrado não configure reincidência, enseja a valoração negativa da circunstância judicial dos antecedentes, justificando a exasperação da pena-base (..). No caso, o requerente possuía ao tempo da sentença, três condenações transitadas em julgado, sendo uma delas utilizada para a configuração dos maus antecedentes. O requerente alega suposto erro judiciário ao argumento de que a conduta social e a personalidade foram avaliadas desfavoravelmente com base nas duas outras condenações, fundamentando o pedido no atual entendimento da jurisprudência das Cortes Superiores e deste Tribunal de Justiça do Distrito Federal e dos Territórios. Ocorre que, como fundamentado linhas volvidas, a modificação de entendimento jurisprudencial não justifica a procedência da revisão para redução da pena. Tanto mais no caso em que, na data do trânsito em julgado da sentença (19/3/2019), a posição desta Corte era firme no sentido de que "Condenações definitivas por fatos anteriores justificam a análise negativa dos antecedentes, da conduta social e da personalidade do réu (..). Ainda que firmado novo entendimento em julgamento de recurso repetitivo, o que de fato se verifica no Tema 1077 do e. Superior Tribunal de Justiça, há que se respeitar a coisa julgada, a fim de resguardar a segurança jurídica (..)".
+No mesmo sentido, cite-se o seguinte precedente da Quinta Turma, cujo entendimento se assemelha ao adotado pelo acórdão recorrido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. DOSIMETRIA. AFASTAMENTO DA CAUSA DE AUMENTO DO REPOUSO NOTURNO PARA O CRIME DE FURTO QUALIFICADO. TRÂNSITO EM JULGADO DO ATO APONTADO COMO COATOR. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL POSTERIOR AO TRÂNSITO EM JULGADO DA CONDENAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Quanto ao pedido de afastamento da causa de aumento do repouso noturno para o crime de furto qualificado, verifica-se que o trânsito em julgado da decisão condenatória impede a parte impetrar habeas corpus perante este Sodalício, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+III - Ademais, a jurisprudência desta Corte Superior de Justiça "firmou a tese de que não se admite aplicação retroativa de novo entendimento jurisprudencial a feitos cujo trânsito em julgado tenha ocorrido antes da guinada interpretativa" (AgRg no HC n. 731.937/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 2/5/2022, grifei).
+Agravo regimental desprovido.
+(AgRg no HC n. 756.598/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/2/2023, DJe de 3/3/2023.). Grifos acrescidos.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
