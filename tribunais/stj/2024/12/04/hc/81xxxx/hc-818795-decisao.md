@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de PAULO DAVI FERNANDES ROMÃO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502597-28.2022.8.26.0540.
+Depreende-se dos autos que o paciente foi sentenciado como incurso no artigo 157, § 2º, II, e § 2º-A, I, do Código Penal, à pena total de 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, a ser cumprida em regime inicial fechado (fls. 58-71).
+Irresignada, a Defesa interpôs apelação perante o Tribunal de origem, que deu parcial provimento ao recurso "para reduzir a pena a ele imposta a 6 anos e 8 meses de reclusão, além de 16 dias-multa. Inalterada, no mais, a r. Sentença condenatória" (fl. 42), conforme de fls. 42-57.
+No presente writ, a impetrante alega nulidade por ausência de formalidade no reconhecimento pessoal - afronta ao artigo 226 do Código de Processo Penal - CPP.
+Defende o afastamento da causa de aumento pelo emprego da arma de fogo - violação ao artigo 157 do Código Penal.
+Sustenta inconstitucionalidade material da fração de aumento do artigo 157, § 2º-A, I, do Código Penal.
+Aduz que o apenado faz jus ao regime semiaberto para o início do cumprimento de sua pena.
+Requer, por fim, a concessão da ordem para que seja reconhecida a nulidade aventada, com repercussão na absolvição do paciente.
+Subsidiariamente, pugna pelo afastamento da causa de aumento pelo emprego da arma de fogo, pela declaração de inconstitucionalidade material da fração de aumento do artigo 157, § 2º-A, I, do Código Penal, bem como pela fixação do regime semiaberto.
+As informações solicitadas foram recebidas e acostadas às fls. 88-121.
+Por sua vez, o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus, conforme parecer de fls. 125-129.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+" ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  .. " (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+" ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  .. " (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Conforme consta dos autos, a Defesa busca a absolvição do paciente pela suposta nulidade ocorrida durante o processamento do feito na origem. Subsidiariamente, pugna pela revisão da dosimetria da pena aplicada.
+In casu, ao cotejar as alegações deduzidas na inicial, não se verifica a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do paciente, consoante percuciente fundamentação contida no acórdão impugnado a respeito dos temas aventados, in verbis (fls. 46-57 - grifei):
+"Antes do ingresso no exame do acervo probatório, de todo modo, examina-se a alegação de nulidade do reconhecimento feito, por descumprimento das regras do art. 226, do Código Penal.
+O primeiro reconhecimento foi feito na fase inquisitiva, presencialmente (fls. 16). Do auto correspondente consta que o ofendido descreveu os sinais da pessoa e, em local onde se encontrava o suspeito, apontou o réu como o autor do delito. O auto de reconhecimento, é bem verdade, não deixa claro se estava, na sala própria, apenas o réu ou se ao seu lado foram colocados outros sujeitos.
+Esse ponto não foi aclarado no relatório final da d. Autoridade Policial e, tampouco, na manifestação da vítima em juízo.
+Todavia, o ato foi repetido em juízo, com o detido e atento questionamento da vítima acerca das características do réu, que foi reconhecido ao lado de duas outras pessoas que guardavam certa semelhança com ele.
+Não se ignora a jurisprudência do e. STJ, que tem firmado orientação no sentido da plena aplicação das disposições do art. 226, do Código de Processo Penal, e das cautelas (também adotadas por essa Corte Superior) que são tomadas para se evitar a possível criação ou inserção de memórias na vítima.
+Nesse sentido, levantou, a combativa Defensoria Pública, a possibilidade de sugestionamento do ofendido pela existência de reconhecimento por meio de show up (a apresentação apenas da pessoa a ser reconhecida).
+Entretanto, e como já afirmado, mesmo o auto de reconhecimento não torna claro o emprego dessa técnica. Além disso, a dinâmica dos fatos indicaria que se chegou ao réu pelas características descritas pela própria vítima e o ofendido, repise-se, em juízo descreveu, em detalhes, a fisionomia do réu.
+Diante desse cenário, forçoso concluir que não se nota, no caso concreto, a existência de mácula no reconhecimento anterior que tenha atingido o ato feito em juízo.
+Em seguida, as detalhadas razões de apelo levantam pontos que enfraqueceriam o ato de reconhecimento em si. Uma vez afastada a eiva formal no ato de reconhecimento, essa matéria tocaria o mérito, posto que se refere à robustez do reconhecimento e sua (in)capacidade de fundar a condenação. De todo modo, por maior clareza expositiva, examina-se, neste momento, os argumentos trazidos.
+De início, quanto às condições do local, a vítima disse que a via estava escura, mas que o local onde estava (em frente ao condomínio residencial) estava iluminado e a iluminação era suficiente para ver e guardar a fisionomia dos roubadores. Ausente demonstração outra de que o local não fornecia condições para a plena visibilidade, esse relato torna possível que o réu seja identificado.
+Em seguida, e tendo-se por norte o registro visual do réu e de sua fisionomia, forçoso concluir que a descrição oferecida pela vítima descreve o apelante razoavelmente bem. Há identidade razoável da cor da pele, do rosto e do porte físico. Por fim, as orelhas do réu, apesar da manifestação da Defesa, não são pronunciadas ao menos não de modo a chamar, imediatamente, a atenção de alguém que olhe diretamente para o acusado. Por tal razão, não macula a descrição oferecida pelo ofendido, de qualquer modo, a ausência de referência às orelhas do apelante.
+Ao término desse ponto, o relato da vítima indica que, como também ressaltado na r. sentença condenatória, o reconhecimento foi auxiliado pelas roupas do roubador, mas não se manteve adstrito às vestimentas.
+Enfim, firmadas essas premissas, a prova oral, neste feito, foi incorporada aos autos digitais.
+A vítima, em juízo, disse que foi fazer a última entrega do dia (labora como motoboy) e aguardava a chegada do cliente quando foi abordado pelos três roubadores. Viu a arma de fogo não era um "38", era uma pistola.
+Tomaram-lhe a motocicleta, o celular e a bag. Dois saíram na moto e um, a pé, correndo. Disse que alertou policiais de que fora roubado, indicou o sentido da fuga do apelante e os policiais prenderam um sujeito, que ele reconheceu.
+Recuperou a motocicleta em torno de três horas após o roubo. Questionado, disse que o apelante estava junto dos comparas, mas "ficou quieto". Os três, todavia, ficaram próximos da vítima. Viu a fisionomia do apelante e do que estava armado. A rua estava escura, mas conseguiu ver bem a fisionomia dos acusados porque foi abordado na frente do prédio. O roubador (o apelante) era branco, de rosto magro, de porte físico magro, de mais ou menos um metro e setenta e cabelos curtos. Não notou característica distintiva (nem em suas orelhas). Questionado, disse que reconheceu pela fisionomia e pela roupa.
+Quanto ao reconhecimento judicial, ao ofendido foram apresentados três sujeitos e reconheceu, prontamente, o ora apelante.
+Fernando de Carvalho Matei, policial militar, disse que estavam atendendo a uma ocorrência quando viram uma motocicleta que virou em uma rua. Atrás estava uma pessoa correndo, dizendo que acabara de ser roubada (a moto era dele). Acompanharam a moto por uma ou duas ruas e a perderam.
+Voltaram ao local e a vítima os disse que haveria um terceiro sujeito dois subtraíram a moto e fugiram nela e um dos assaltantes fugiu a pé. Fizeram patrulhamento buscando o sujeito descrito pela vítima e abordaram o réu, que foi conduzido à delegacia (lá, foi reconhecido pela vítima). O réu, quando abordado, disse que voltava da casa de uma namorada, mas as informações eram desencontradas.
+Interrogado em juízo, Paulo negou a autoria delitiva. Disse que voltava da casa de sua namorada e não sabe o motivo de sua prisão.
+Essas, em síntese, as provas dos autos, diante das quais perde força o pleito absolutório.
+Uma vez firmada a higidez do reconhecimento e da versão da vítima, a tese acusatória ganha robustez que não foi afastada pela negativa genérica do apelante.
+De fato, o ofendido foi seguro em narrar a subtração, precedida de grave ameaça exercida com o emprego de arma de fogo, a participação do ora apelante (detalhando sua ação, apoiando os demais) e sua fuga, frustrada pela pronta ação da polícia militar.
+Essa versão foi, também, robustecida pelos dizeres do policial ouvido como testemunha.
+ ..
+Certa a condenação, portanto. Diante do teor da prova oral, em seguida, também certo o emprego de arma de fogo e a prática do crime em concurso de agentes.
+Nenhuma dúvida há, destarte, da coautoria, posto que os demais roubadores fugiram na possa da coisa. Quanto ao outro ponto, bem destacou, a d. Defesa, que a jurisprudência se consolidou no sentido da desnecessidade da apreensão e perícia da arma de fogo para a configuração da causa de aumento correspondente.
+ ..
+E a palavra da vítima, como no caso concreto, é suficiente também para a demonstração dessa causa de aumento, como aclara o seguinte julgado:
+ ..
+Em atenção às razões de apelo, apenas se aclara que não se notou indevida conclusão, da vítima, acerca do emprego de arma (extraída, sustentou a Defesa, da visualização apenas da coronha) ao revés, o ofendido foi seguro ao afirmar que foi usada arma de fogo no crime e, até mesmo, ofereceu detalhes, aclarando que se tratava de uma pistola, e não de um revólver (disse, a vítima, não se tratar de um "38").
+Após essas considerações, parte-se à pena.
+A pena-base foi imposta no mínimo legal e seguiu inalterada na segunda etapa.
+Na terceira fase, as duas causas de aumento reconhecidas (concurso de agentes e emprego de arma de fogo) fundaram dois acréscimos, sucessivos, de um terço e dois terços.
+De início, e apesar das valiosas considerações defensivas, o art. 68, parágrafo único, do Código Penal, não exige a aplicação, isolada, de uma causa de aumento (ou de diminuição). Os acréscimos sucessivos, até mesmo por interpretação gramatical do parágrafo, são permitidos, desde que adequadamente fundamentados.
+Em se tratando do crime de roubo, faz-se necessário, ainda, que a motivação não repouse, isoladamente, na quantidade de majorantes, como também torna claro a súmula de número 443, do e. STJ.
+ ..
+Todavia, e evidentemente respeitado o entendimento habilmente trazido pela bem fundamentada sentença condenatória, o caso concreto não dá mostras da necessidade da dupla majoração.
+À exceção da menção da subtração de bem de elevado valor (circunstância que poderia ter sido sopesada como circunstância judicial), foi feita referência, em síntese, à prática do crime por três sujeitos e com emprego de arma de fogo. Em se tratando de três agentes (número que não se distancia do mínimo para o reconhecimento da majorante) e do emprego de uma arma de fogo, inexistindo notícias de que o armamento tenha colocado em risco outras pessoas, revela-se suficiente apenas um acréscimo, em dois terços, que elevará a pena a 6 anos e 8 meses de reclusão, além de 16 dias-multa.
+Mantida a causa de aumento, necessário afastar a alegação de inconstitucionalidade do acréscimo pela alegada desproporcionalidade.
+ ..
+De fato, não se nota inconstitucionalidade na fixação da fração de aumento. Ainda que possível, evidentemente, a declaração incidental de inconstitucionalidade por este Tribunal (respeitada, de todo modo, a reserva de plenário), há que se ter a devida cautela de salvaguardar a legítima atuação do legislador em matéria de política criminal.
+No caso concreto, não se nota a total inexistência de razões para o mais severo apenamento. Ao revés. A prática de tal crime patrimonial com o emprego de arma de fogo potencializa consideravelmente os riscos, tanto à vítima quanto a terceiros, não apenas obliterando qualquer possibilidade de resistência, mas, igualmente, sujeitando a vítima e qualquer outra pessoa que se encontre no local à violenta ação do roubador, facilitada pelo porte, e emprego, de arma de fogo.
+Outrossim, é incorreta a alegação de que o acréscimo não guarda qualquer relação, ou paralelo, com o apenamento de delitos similares. Trata-se de crime que atinge mais de um bem jurídico (também tocando o patrimônio, além da livre vontade da vítima e o risco à sua integridade física), e o emprego do armamento potencializa, como já afirmado, a ocorrência de danos ao ofendido podendo resultar, até mesmo, na prática do crime de latrocínio, que possui penas marcadamente mais elevadas.
+O acréscimo de dois terços, portanto, não é desproporcional.
+Eventual insurgência contra a opção legislativa, como aparenta ser o caso, não se traduz na inconstitucionalidade do dispositivo.
+Por fim, o regime inicial imposto, fechado, não foi objeto da irresignação defensiva e há de ser mantido, de todo modo, apesar da redução realizada.
+Trata-se de crime que atingiu bem de elevado valor (afetando, até mesmo, o automóvel usado pela vítima para desempenho de sua atividade laborativa), cometido em concurso de agentes e com arma de fogo (sendo desnecessário repisar, mais uma vez, os riscos que decorrem desses elementos).
+Regime mais brando não atenderia, satisfatoriamente, as funções da pena."
+De qualquer forma, conforme se apreende, apesar de a Defesa alegar a necessidade de absolvição, fato é que o paciente foi condenado com amparo em provas de autoria e materialidade amplamente debatidas nos autos principais, os quais, inclusive, já transitaram em julgado.
+Impossível, assim, se revolver o contexto fático-probatório original, de maneira a se afastar a condenação imposta, em não se identificando qualquer flagrante ilegalidade prima facie.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus ou do seu recurso ordinário para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Desta forma, os referidos pedidos trazidos nesta impetração não comportam guarida sob nenhuma vertente.
+Não obstante, entendo ocorrer flagrante ilegalidade no que tange ao pleito subsidiário de fixação do regime semiaberto para o início do cumprimento da reprimenda.
+Com efeito, a quantidade de pena aplicada em cotejo com a inexistência de circunstâncias judiciais desfavoráveis enseja o início de cumprimento de pena no regime semiaberto, a teor do artigo 33, § 2º , "b", c.c. o § 3º, do Código Penal. Assim, denota-se que o regime mais gravoso foi estabelecido com lastro apenas na gravidade abstrata do delito, configurando-se o constrangimento ilegal.
+A esse respeito, estabelece o verbete sumular n. 440 do Superior Tribunal de Justiça:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Confira-se também o disposto nos enunciados n. 718 e 719 do Supremo Tribunal Federal:
+"Súmula 718 do STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"Súmula 719 do STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Ante todo o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, a fim de fixar o regime semiaberto para o início do cumprimento da reprimenda pelo paciente.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo para que tome as providências necessárias ao cumprimento desta decisão.
+Publique-se. Intimem-se.
+EMENTA
