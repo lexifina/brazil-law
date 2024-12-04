@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUIZ HENRIQUE SILVA NOGUEIRA, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em virtude do julgamento da Revisão Criminal nº 0025908- 93.2022.8.26.0000.
+Consta dos autos que o paciente foi condenado à pena de 29 anos e 02 meses de reclusão, em regime inicial fechado, e ao pagamento de 14 dias-multa, no valor unitário mínimo, por incurso no artigo 157, § 3º, parte final, do Código Penal.
+Interposta apelação defensiva, a Corte de origem deu-lhe parcial provimento para reduzir as penas para 25 anos, 11 meses e 03 dias de reclusão, e pagamento de 11 dias-multa, no valor unitário mínimo, mantida, no mais, a sentença condenatória.
+A defesa então ajuizou revisão criminal, a qual foi indeferida (fls. 24-36).
+Na presente impetração, busca-se a concessão da orde m para reconhecer a nulidade do reconhecimento efetuado, com consequente absolvição do paciente.
+Informações prestadas às fls. 701-741.
+O parecer ministerial foi lançado às fls. 745-753, sob a seguinte ementa:
+HABEAS CORPUS. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. LATROCÍNIO. RECONHECIMENTO PESSOAL. ALEGADA INOBSERVÂNCIA AO ART. 226, DO CPP. PRETENSÃO DE ABSOLVIÇÃO. INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA, INVIÁVEL NESSA VIA ESTREITA. PARECER PELO NÃO CONHECIMENTO DO WRIT. - A jurisprudência do STJ e do STF assentou o entendimento de que o habeas corpus não deve ser conhecido quando consistir em utilização inadequada da garantia constitucional, em substituição aos recursos ordinariamente previstos nas leis processuais ou à revisão criminal. - O acórdão da Corte de origem ressaltou que o reconhecimento do paciente foi confirmado em juízo, destacando, ainda, que foi corroborado pelas demais provas carreadas aos autos. - A alteração do entendimento firmado nas instâncias ordinárias, soberanas na análise de fatos e provas, demandaria reexame aprofundado do acervo fático-probatório, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória. - Parecer pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
