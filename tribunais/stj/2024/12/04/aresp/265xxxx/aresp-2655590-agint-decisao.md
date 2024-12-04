@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por CHRISTIANE RODRIGUES ESTRELA contra decisão da lavra da Presidência desta Corte, que não conheceu do agravo em recurso especial, ante óbice da Súmula 182 do STJ (e-STJ fls. 314/315).
+Em suas razões, a parte agravante afirma que não incide o referido óbice sumular à espécie, porquanto "impugnou, de forma clara e específica, os referidos fundamentos da decisão agravada proferida pelo tribunal de origem que inadmitiu o recurso especial" (e-STJ fl. 322):
+Aduz que "inclusive impugnou, de forma clara e especifica, a não incidência da Sumula 7 do STJ, conforme se segue transcrição em parte do referido recurso (e-STJ Fl. 294): ..  " (e-STJ fl. 322).
+Requer, assim, a reconsideração da decisão impugnada ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não ofertou impugnação .
+É o breve relatório.
+Em exame dos autos, verifico que o agravo interno formulado pelo segurado merece ser acolhido, visto que, de fato, houve a impugnação específica de todos os fundamentos da decisão de inadmissibilidade, de modo a permitir a análise do apelo especial, que passo a realizar.
+Trata-se de agravo interposto por CHRISTIANE RODRIGUES ESTRELA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 212):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. REVISÃO DE RENDA MENSAL INICIAL DE BENEFÍCIO DE NATUREZA ACIDENTÁRIA. SENTENÇA DE EXTINÇÃO, EM RAZÃO DA INADEQUAÇÃO DA VIA ELEITA. PEDIDO CONDICIONAL. AUTOR QUE PRETENDE OPTAR FUTURAMENTE PELA REGRA DE CÁLCULO DO BENEFÍCIO QUE LHE FOR MAIS FAVORÁVEL, OU SEJA, APÓS O RECÁLCULO DA RENDA MENSAL INICIAL DO BENEFÍCIO REQUERIDO NA PEÇA INICIAL. IMPOSSIBILIDADE. PEDIDO QUE DEVE SER CERTO E DETERMINADO. SENTENÇA MANTIDA. RECURSO A QUE SE NEGA PROVIMENTO.
+Embargos de declaração rejeitados (e-STJ fls. 239/245).
+No recurso especial obstaculizado, a parte recorrente vem argumentando que há interesse de agir na busca pelo reconhecimento de benefício mais vantajoso, com base no decidido no Tema 999 do STJ.
+Além disso, alegou ofensa ao art. 129, parágrafo único, da Lei n. 8.213/1991, sob o fundamento de que, em se tratando de litígios de natureza acidentária, são isentos os segurados de quaisquer custas judiciais e de verbas relativas à sucumbência. Assim, deve ser excluída a condenação da recorrente ao pagamento das custas, despesas processuais e da verba de honorários advocatícios sucumbenciais.
+Contrarrazões às e-STJ fl. 279. O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Inicialmente, quando ao reconhecimento do interesse de agir na busca pelo benefício mais vantajoso, observo que a parte insurgente não apontou nenhum dispositivo de lei federal supostamente contrariado ou interpretado de maneira divergente pela Corte de origem, circunstância que revela a deficiência de sua fundamentação, justificando a incidência da Súmula 284 do STF.
+Registre-se que a ausência de indicação do dispositivo infraconstitucional tido por violado impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido, trago os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA FINANCEIRA .
+1. A falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+2. A jurisprudência deste STJ é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF (cf. REsp n. 1.061.530 de 22.10.2008, julgado pela Segunda Seção segundo o rito dos recursos repetitivos).
+Para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, circunstância presente na hipótese dos autos.
+2.1. Para derruir as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a abusividade ou não da taxa de juros contratada, seria imprescindível a incursão no acervo fático e probatório dos autos e a análise de cláusulas contratuais, providências vedadas na via estreita do recurso especial, ante aos óbices estabelecidos pelas Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 2.001.392/RS, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE DO ESTADO CIVIL. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO OU RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+III. A falta de particularização, no Recurso Especial dos dispositivos de lei federal que teriam sido contrariados ou objeto de interpretação divergente, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgInt no AREsp 1.656.469/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/10/2020; AgInt no AREsp 1.664.525/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/12/2020; AgInt no AREsp 1.632.513/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/10/2020.
+IV. Agravo interno improvido.
+(AgInt no AREsp 2.053.970/MG, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/8/2022, DJe de 12/8/2022.).
+No que toca à alegação de contrariedade do art. 129, parágrafo único, da Lei n. 8.213/1991, verifica-se que o mencionado dispositivo legal não foi objeto de prequestionamento e que os embargos de declaração apresentados não cumpriram com a finalidade de suprir essa omissão. Nessa hipótese, devem incidir os enunciados das Súmulas 211 do STJ e 282 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. FRAUDE DE TERCEIRO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. SÚMULAS 282/STF E 211/STJ. 3. ART. 70, III, DO CPC/1973. DENUNCIAÇÃO DA LIDE. FALTA DE OBRIGATORIEDADE NO CASO. SÚMULAS 7 E 83/STJ. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. CARACTERIZAÇÃO DO DANO MORAL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ocorre violação ao art. 535 do CPC/1973 quando o julgador decide a lide, como no caso examinado, de forma fundamentada, indicando os motivos de seu convencimento, ainda que o resultado seja contrário ao esperado pela parte.
+2. Não se conhece de recurso especial se, mesmo opostos embargos de declaração, não ocorreu o prequestionamento dos preceitos legais ditos violados. Incidência das Súmulas 282 do STF e 211 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 894.587/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 29/08/2016).
+Ante o exposto, TORNO SEM EFEITO a decisão de (e-STJ fls.; 314/315) e, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
