@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GERLANDIA URSULA DA SILVA ROCHA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS proferido no HC n. 5418781-54.2024.8.09.0000.
+Consta dos autos que a paciente foi presa temporariamente em 21/05/2024, pelo prazo de 30 dias, pela suspeita de prática da conduta do art. 121, §2º, II e IV, do Código Penal.
+O impetrante sustenta a ilegalidade da manutenção da prisão temporária da paciente tendo em vista que "não restou demonstrada a imprescindibilidade da medida constritiva para subsidiar a persecução criminal" (fl.4).
+Requer, liminarmente e no mérito, a revogação da prisão temporária, expedindo-se o competente alvará de soltura em seu favor.
+O pedido liminar foi indeferido às fls. 75/76, por meio de decisão da lavra do Ministro OG Fernandes.
+Informações prestadas às fls. 82/84.
+O Ministério Público Federal manifestou-se às fls. 96/101, opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 02/4/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 - pacificaram a orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso em tela, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal.
+Assim, a fim de que não se desvirtue a finalidade dessa garantia constitucional, o habeas corpus não pode ser utilizado como substituto de recurso próprio.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente, apresentou as seguintes razões (fls.16/23; grifamos):
+Constato também a existência de prova suficiente indicando os representados como sendo os autores do delito, conforme teor da documentação carreada aos autos pela Autoridade Policial, notadamente pelos relatos das testemunhas.
+(..)
+Infere-se da representação formulada pela autoridade policial condutora do feito que, a partir da fuga, após a execução do crime, foram buscadas imagens de circuitos de vigilância que demonstravam a rota empregada pelo motorista para se estabelecer o seu destino. Denota-se que, em trabalho minucioso, a Polícia Civil acompanhou cada passagem do veículo mencionado na investigação, sendo possível estabelecer toda a rota realizada pelo autor dos fatos. Disto, constatou-se que ao final do percurso, o veículo conduzido pelo autor teria chegado na rua dos Lírios, quadra 45, lote 11, residência dos representados MARCOS SHIGUEO KUABATA e NAYARA CRISTINA CAIXETA ESTÉVÃO e onde chega, posteriormente, a representada GERLANDIA ÚRSULA SILVA ROCHA, levada pelo mototáxi, conforme já mencionado em linha pretéritas.
+Evidenciada a materialidade e os indícios de autoria, reconheço a necessidade da decretação da prisão temporária dos representados MARCOS SHIGUEO KUABATA, NAYARA CAIXETA CRISTINA ESTEVÃO, "Flávia" e GERLANDIA ÚRSULA DA SILVA ROCHA, "Fernanda", como imprescindível para a investigação policial e para a elucidação conclusiva de suposto fato criminoso, bem como para que se conclua a análise do vínculo dos representados com o crime em questão.
+O Tribunal de origem, por sua vez, manteve a segregação cautelar do acusado, consignando, in verbis (fls. 06/11; grifamos):
+Ademais, os fatos estão em apuração e há diligências em curso que podem ser prejudicadas com a liberdade dos investigados e para que possa prosseguir com as investigações e a completa elucidação dos fatos que envolvem a morte. Assim, vejo que o ato judicial mostra fundamentação suficiente da imprescindibilidade da medida para as investigações, nos moldes da Lei 7.960.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão temporária foi suficientemente fundamentada pelas instâncias ordinárias, havendo o preenchimento dos requisitos legais para a sua decretação dispostos na legislação especial em razão do delito praticado, qual seja, homicídio qualificado, e da necessidade da custódia para a conclusão das investigações constantes do inquérito policial que se encontra em andamento, verificando-se o vínculo da paciente com o crime cometido e as demais pessoas envolvidas e sujeitos da representação.
+Nessa esteira, havendo ainda a necessidade de produção de provas objetivando a completa elucidação dos fatos a respeito do delito perpetrado e a busca pela verdade real, constata-se que os requisitos legais para a efetivação da medida cautelar em questão se encontram suficientemente preenchidos, nos termos da legislação especial regedora da matéria.
+Desse modo, não havendo que se falar em ilegalidade manifesta apta a ensejar a concessão da ordem de ofício, mantenho a prisão temporária decretada em desfavor da paciente.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
