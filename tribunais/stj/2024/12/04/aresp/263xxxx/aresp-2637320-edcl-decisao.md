@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GLAUCIUS VINICIUS DE OLIVEIRA AGUIAR contra decisão de minha lavra, que conheceu do agravo para não conhecer do especial, ante a incidência das Súmulas 7 do STJ e 280 do STF.
+Sustenta o embargante que (e-STJ fl. 390):
+a embargante impugnou especificamente todos os fundamentos da decisão agravada em sede de agravo em recurso especial, conforme se depreende do caderno processual.
+Restou demonstrado as impugnações específicas de todos os fundamentados da decisão agravada, em sede de AR Esp. Nesse contexto, presente estão os elementos essenciais para que seja provido os embargos de declaração com pedido de efeito modificativo, não incorrendo em óbice, decorrente das Súmulas 7 do STJ e 280 do STF.
+Data venia, o presente recurso merece ser acolhido e provido, em sua integralidade, uma vez manifesto o equívoco perpertrado na decisão denegatória do AR Esp.
+A decisão monocrática contra o qual se insurge o AR Esp contrariou texto expresso de lei federal, especialmente aquele que norteia o Direito Processual Civil, afrontando, por via de consequência, o devido processo legal. Trata-se, sem dúvida, de uma decisão que carece de modificação.
+Impugnação apresentada.
+Passo a decidir.
+De acordo com o art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Na hipótese, o embargante não indica qual vício que padeceria a decisão recorrida, alegando apenas a não incidência das Súmulas 7 do STJ e 280 do STF.
+Nesse contexto, forçoso convir que os argumentos defendidos pelo embargante, na verdade, manifestam o inconformismo com o desfecho do recurso anterior, sendo certo que eventual reforma do julgado embargado, sem a presença de quaisquer das hipóteses descritas no art. 1.022 do CPC/2015, não condiz com a natureza integrativa dos aclaratórios.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL, NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE IMPOSIÇÃO DE MULTA.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (STJ, EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 15/03/2017). Em igual sentido: STJ, EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/03/2017.
+III. No caso, os Embargos de Declaração não podem ser conhecidos, pois a parte embargante não aponta omissão, contradição, obscuridade ou erro material existentes no acórdão embargado, demonstrando mero inconformismo com as conclusões do decisum. IV. Embargos de Declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de Declaratórios. (EDcl no AgInt no AREsp 1.871.797/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/04/2022, DJe 07/04/2022).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO E DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EMBARGOS NÃO CONHECIDOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Conforme assentado pela Corte Especial do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017).
+3. Embargos de declaração não conhecidos. (EDcl no AgInt nos EDcl no AREsp 1. 661.123/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/02/2022, DJe 16/02/2022).
+Diante do exposto, NÃO CONHEÇO dos embargos de declaração.
+Publique-se. Intimem-se .
+EMENTA
