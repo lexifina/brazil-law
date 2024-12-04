@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE IMPERATRIZ (MA) e o JUÍZO DE DIREITO DA VARA ÚNICA DE SÃO DOMINGOS DO ARAGUAIA (PA), para definir a competência para a ação de restauração de registro de casamento (fls. 35-38).
+O JUÍZO DE DIREITO DA VARA ÚNICA DE SÃO DOMINGOS DO ARAGUAIA (PA), ao qual ação foi originalmente distribuída, declinou da competência e determinou a remessa dos autos à uma das varas cíveis de Imperatriz (MA), foro do domicílio da parte requerente (fls. 111-113), onde foram redistribuídos ao JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE IMPERATRIZ (MA), que, por sua vez, suscitou o presente conflito (fls. 119-120).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito negativo de competência e, no mérito, pela competência do Juízo de Direito da Vara Única de São Domingos do Araguaia (PA), o suscitado (fls. 126-131).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a tribunal diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+Quanto ao mérito, registre-se que esta Corte pacificou orientação no sentido de que a ação para retificação de registro civil pode ser proposta em comarca diversa daquela em que foi lavrado o assento a ser retificado (art. 109, § 5º, da Lei n. 6.015/1973), não havendo óbice para ajuizamento da demanda no foro de domicílio do autor, pessoa interessada na retificação. Confira-se:
+CONFLITO DE COMPETÊNCIA. AÇÃO DE RETIFICAÇÃO DE REGISTRO CIVIL. CERTIDÃO DE ÓBITO. FORO COMPETENTE. COMARCA DA LAVRATURA DO ASSENTO OU DO DOMICÍLIO DO AUTOR. ART. 109, § 5º, DA LEI DE REGISTROS PÚBLICOS.
+1. A ação para retificação de registro civil (registro de óbito) pode ser proposta em comarca diversa daquela em que foi lavrado o assento a ser retificado (art. 109, § 5º, da Lei 6.015/1973), não havendo óbice para ajuizamento da demanda no foro de domicílio do autor, pessoa interessada na retificação.
+2. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara de Família da Regional do Méier, Rio de Janeiro/RJ, o suscitante. (CC n. 96.309/RJ, relator Ministro Fernando Gonçalves, Segunda Seção, julgado em 22/4/2009, DJe de 29/4/2009.)
+É cediço que a competência territorial é prorrogável, sendo restrito às partes, todavia, o questionamento sobre a incompetência do juízo onde foi ajuizada a ação. É esse o entendimento consagrado pela Súmula n. 33 do STJ: "A incompetência relativa não pode ser declarada de ofício".
+Ademais, a jurisprudência do STJ já está pacificada no sentido de reconhecer que, tratando-se de hipótese de competência relativa, como no presente caso, o art. 43 do mesmo diploma legal institui, com a finalidade de proteger as partes, regra da estabilização da competência (perpetuatio jurisdictionis), sendo irrelevantes as modificações de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+Assim, a mudança de domicílio da requerente, detectada no curso da ação de restauração de registro de casamento, não enseja a mudança da competência para o julgamento da demanda.
+No mesmo sentido: CC n. 208.840, Ministra Nancy Andrighi, DJe de 13/11/2024; e CC n. 187.906, Ministro Marco Buzzi, DJe de 19/05/2022; CC n. 170.525, Ministro Antonio Carlos Ferreira, DJe de 16/04/2020.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA VARA ÚNICA DE SÃO DOMINGOS DO ARAGUAIA (PA), o suscitado.
+Comunique-se aos Juízos envolvidos o teor desta decisão.
+Publique-se. Intimem-se.
+EMENTA
