@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JONAS JOSE DOS SANTOS NETO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DEMOLITÓRIA E DE REPARAÇÃO DE DANOS. CONSTRUÇÃO DE MURO IRREGULAR PELO RÉU. VEDAÇÃO DA ÚNICA JANELA EXISTENTE NO PRIMEIRO PAVIMENTO DA RESIDÊNCIA DA AUTORA. LAUDO PERICIAL CORROBORANDO A TESE AUTORAL. SENTENÇA DE PROCEDÊNCIA PARCIAL DOS PEDIDOS. INCONFORMISMO DA DEMANDANTE COM O VALOR ARBITRADO PARA REPARAR O DANO MORAL. COMPENSAÇÃO FIXADA EM R$1.000,00 QUE DEVE SER MAJORADA PARA R$8.000,00, ANTE AS CIRCUNSTÂNCIAS DO CASO. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO (fl. 524).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 884 e 944 do CC, no que concerne à necessidade de redução do valor a título de danos morais, em atenção ao nível socioeconômico da parte ré, às circunstâncias fáticas e ao grau da lesão sofrida, trazendo a seguinte argumentação:
+4. O quantum indenizatório deve ser arbitrado em patamar compatível com as peculiaridades do caso concreto, principalmente no que se refere a reprovabilidade da conduta ilícita, a intensidade e duração do sofrimento causado à vítima, a capacidade econômica do causador do dano e, dentre outras circunstâncias que mais se fizerem presentes, as condições sociais do ofendido.
+Sua fixação deve, ainda, impedir o enriquecimento sem causa daquele que irá ser beneficiado, impondo-se o arbitramento de valor indenizatório justo e adequado ao caso.
+ ..
+Portanto, considerando as peculiaridades do caso concreto, o nível socioeconômico do réu/embargante, as circunstâncias fáticas e o grau da lesão sofrida, a verba indenizatória de R$ 8.000,00, se mostra exorbitante em confronto com a repercussão da situação enfocada nos autos, devendo ser mantido o valor de R$ 1.000,00, nos termos da sentença (fls. 557/558).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Cinge-se o mérito recursal em perquirir se a quantia arbitrada a título de reparação pelo dano moral impingido à autora pelo réu, de R$1.000,00, deve ser majorada para R$24.000,00, como por ela postulado.
+Sabe-se que a quantificação da compensação pela ofensa extrapatrimonial sofrida pela parte é tema que envolve certo subjetivismo, ante a ausência de critérios fixos predeterminados para a sua definição.
+Contudo, o arbitramento do quantum indenizatório deve ser orientado pelo princípio da proporcionalidade, levando em conta, dentre outros fatores, o grau de culpa do ofensor, a gravidade da lesão, as consequências do ilícito, e o nível socioeconômico das partes.
+Ademais, o montante fixado a título de reparação também deve ser suficiente para restaurar, na medida do possível, o bem estar da vítima, sem gerar seu enriquecimento sem causa, além de servir de desestímulo ao ofensor, de modo que ele se sinta desencorajado a repetir a conduta lesiva.
+Tendo isso em conta, bem como o que a jurisprudência costuma arbitrar em casos similares, verifica-se que a condenação do juiz sentenciante, nesse ponto, foi bastante tímida.
+Isso porque, ao construir um muro vedando a única janela do primeiro pavimento da residência de sua ex-companheira, o recorrido dolosamente a privou de receber ventilação e luminosidade natural, ao longo dos anos, em sua sala de estar, o que indubitavelmente fragiliza o bem-estar físico e mental da recorrente, obrigando-a a conviver com transtornos diversos no uso do cômodo.
+Com isso, mesmo que as partes sejam hipossuficientes, e que o imóvel se situe em comunidade carente, as circunstâncias do caso justificam a majoração da verba para R$8.000,00 (fls. 526/527).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tend o em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt no AREsp 1.533.714/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28.8.2020; e AgInt no AREsp 1.533.913/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 31.8.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
