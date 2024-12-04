@@ -1,0 +1,31 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto, em parte, o relatório de fl. 145-147 (e-STJ):
+"Trata-se de habeas corpus, impetrado em favor de ITALO MACIEL MAXIMO DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de Sergipe.
+Consta dos autos que o ora paciente, ITALO MACIEL MAXIMO DOS SANTOS, e Lucimário dos Santos foram condenados como incursos no art. 121, § 2º, incisos I e IV, c/c art. 14, inciso II, e art. 121, § 2º, incisos II e IV, e § 4º, todos do Código Penal.
+A pena do ora paciente, ITALO MACIEL MAXIMO DOS SANTOS, foi fixada em 38 anos e 08 meses de reclusão, em regime fechado. Isso porque, "no dia 16/03/14, por volta das 20h, na Travessa São Carlos, (..) os Denunciados, munidos com armas de fogo, tentaram matar Cleomadison Alves Dantas, efetuando diversos disparos contra o mesmo, não alcançando o seu objetivo por circunstâncias alheias à sua vontade.
+Em seguida, mataram a vítima Wagner da Silva Dantas, de apenas 07 (sete) meses de idade, com um tiro na cabeça, criança esta que estava no colo de seu pai Walmir Dantas, mas caiu no momento em este fugia." (fl. 67 e-STJ).
+A defesa interpôs recurso de apelação, no qual o TJSE, por maioria, deu parcial provimento para reduzir a pena de ITALO MACIEL MAXIMO DOS SANTOS para 36 anos e 10 meses de reclusão, mantendo-se os demais termos da sentença.
+A defesa seguiu com recurso especial, o qual não foi admitido. Contra essa decisão, a defesa interpôs agravo em recurso especial, que foi negado provimento pelo Superior Tribunal de Justiça. Houve o trânsito em julgado da condenação.
+A defesa apresentou revisão criminal no Tribunal de origem (nº 202200143862), requerendo "a anulação da decisão de pronúncia ou a minoração da da pena para os patamares mínimos." (fl. 27 e-STJ). Em 17/2/2023, o Tribunal de Justiça do Estado de Sergipe, por maioria, não conheceu da revisão criminal.
+O acórdão recebeu a seguinte ementa (fls. 24/26 e-STJ):
+Neste writ, a defesa reitera as alegações sobre a nulidade da sentença de pronúncia e ilegalidade na dosimetria da pena.
+Assim, requer a concessão da ordem para reconhecer a nulidade mencionada e absolver o paciente.
+Subsidiariamente, pugna pela redução da pena."
+Parecer do Ministério Público Federal pela denegação da ordem (e-STJ fls. 145-151).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício. Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024)."
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024)."
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..)
+A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023)."
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+No entanto, cabe conceder a ordem de ofício na hipótese de flagrante ilegalidade do ato impugnado, o que não verifico no caso.
+Pontuo que, ocorrido o trânsito em julgado da decisão condenatória nas instâncias de origem, não se admite a impetração de habeas corpus nesta Corte, tendo em vista que a competência do Superior Tribunal de Justiça prevista no artigo 105, I, e, da Constituição Federal, alcança, apenas, o processamento e julgamento de revisões criminais de seus próprios julgados.
+Reforça a inadmissibilidade do presente habeas corpus o fato de o Tribunal de origem já ter julgado revisão criminal com o mesmo objeto desta impetração. Nesse sentido, "deixe-se consignada a impossibilidade de utilização do writ como sucedâneo de (nova) revisão criminal, ainda mais quando em face de sentença de pronúncia já ultrapassada pelos andamentos posteriores" (AgRg no HC n. 861.084/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023).
+Por fim, analisando-se o conteúdo da documentação colacionada aos autos, não se verifica, de plano, qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
