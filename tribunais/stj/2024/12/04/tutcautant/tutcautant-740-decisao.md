@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de tutela cautelar antecedente apresentada por FRIBARREIRAS AGRO INDUSTRIAL DE ALIMENTOS EIRELLI (FRIBARREIRAS), em recuperação judicial, objetivando a concessão de efeito suspensivo ao seu agravo em recurso especial.
+Para tanto, esclarece ter recebido conta de energia superior a R$7.000.000,00 (sete milhões de reais), razão pela qual propôs ação declaratória de inexistência de débito, cuja liminar foi deferida para que fosse restabelecido o fornecimento de energia. Todavia, a decisão foi reformada em sede de agravo de instrumento interposto pela Companhia de Eletricidade do Estado da Bahia (COELBA).
+Informa que contra o acórdão manejou recurso especial por negativa de prestação jurisdicional, possibilidade apresentação de garantia imobiliária como caução do débito e a essencialidade da energia elétrica para a manutenção da atividade empresarial.
+Noticia que o juízo da recuperação judicial declarou a necessidade de restabelecimento da energia elétrica.
+É o relatório.
+A concessão de tutela antecipada se condiciona à existência dos requisitos do fumus boni iuris e do periculum in mora.
+Na espécie, o acórdão recorrido proferiu entendimento que a caução de imóvel como garantia da ação de inexistência de débito contrariava anterior decisão que condicionou a manutenção do fornecimento de energia ao depósito do valor da dívida perante o juízo da recuperação.
+Colhe-se que, conquanto as teses se refiram a mesma dívida de energia elétrica, no caso objeto desta tutela a discussão se insere na cognição de ação declaratória de inexistência do débito, enquanto na outra foi tirada da recuperação judicial.
+Nesse contexto, em uma análise perfunctória, não haveria que se falar em descumprimento quanto a forma de garantia a ser prestada, dando azo ao argumento da FRIBARREIRAS que no caso em questão, a decisão recorrida no agravo 8026278- 47.2024.8.05.0000 (tirado da ação declaratória) incorreu em negativa de prestação jurisdicional ao simplesmente reproduzir os fundamentos utilizados em outra demanda coligada, o Agravo de Instrumento nº 8021651-34.2023.8.05.0000, olvidando-se que a NOVA questão trazida à apreciação resumia-se ao singelo e legítimo direito de oferecimento de bens previstos no art. 835 do Código de Processo Civil (e-STJ, fl. 96).
+Ainda, é manifesto que o corte de energia elétrica de uma empresa prejudica substancialmente o seu funcionamento, em especial àquela que se encontra em recuperação judicial.
+Assim, vislumbro a presença do fumus boni iuris e do periculum in mora.
+Nessas condições, DEFIRO a liminar, para CONCEDER EFEITO SUSPENSIVO ao agravo em recurso especial da FRIBARREIRAS, determinando o restabelecimento da energia elétrica, mediante a caução do imóvel oferecido, tal como estabelecido na decisão juntada na e-STJ, fls. 71/78, proferida no Processo nº 8002688-09.2023.8.05.0022, em trâmite perante a 1ª Vara de Feitos de Relação de Consumo Cível e Comerciais da Comarca de Barreiras/BA.
+Comunique-se, com URGÊNCIA, o Desembargador JOSÉ EDIVALDO ROCHA ROTONDANO, relator do Agravo de Instrumento nº 8026278-47.2024.8.05.0000, que tramitou perante a Quarta Câmara Cível do Tribunal de Justiça da Bahia e ao Juízo da 1ª Vara de Feitos de Relação de Consumo Cível e Comerciais da Comarca de Barreiras/BA, Processo nº 8002688-09.2023.8.05.0022.
+Publique-se. Intimem-se.
+EMENTA
