@@ -1,0 +1,36 @@
+DECISÃO
+HAMILTON DA SILVA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5017416-07.2021.8.24.0036.
+O agravante foi condenado, pelo crime previsto no art. 2º, II, da Lei n. 8.137/1990, em continuidade delitiva (12 vezes), à sanção de 10 meses de detenção mais 16 dias-multa.
+Nas razões do recurso especial, a defesa alegou dissídio jurisprudencial em relação à interpretação dos arts . 2º, II, da Lei n. 8.137/1990 e 386, III e VII, do Código Penal. Em síntese, sustenta a atipicidade da conduta por ausência de demonstração do dolo específico.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 450-451, pelo conhecimento do AREsp para não conhecer do REsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem se manifestou da seguinte forma quando ao dolo da conduta imputada (fls. 315-316):
+ ..
+Observa-se, portanto, que o julgamento do RHC 163.344/SC pelo Supremo Tribunal Federal delimitou o tema acerca da classificação de devedor contumaz. Trouxe em seu bojo que o dolo de apropriação do infrator dever estar apurada a partir de circunstâncias objetivas factuais, aptas a determinar a intenção do agente em cometer o crime contra a ordem tributária.
+Assim, dentre outros requisitos acima elencados, trouxe que, aquele que possui um inadimplemento prolongado sem tentativa de regularização dos débitos tributários, a existência de débitos inscritos em dívida ativa em valor superior ao capital social integralizado, dentre outros, incide na figura de devedor contumaz.
+No âmbito desta Corte, à luz da nova jurisprudência, esta Quinta Câmara Criminal compreendeu que a prática de 6 (seis) condutas distintas bastam à caracterização da sonegação reiterada, senão vejamos:
+ ..
+In casu, compreende-se configurada a contumácia na sonegação de tributos nos meses de janeiro a dezembro de 2020, cujo valor atualizado alcançou o somatório de R$ 509.883,06 (quinhentos e nove mil, oitocentos e oitenta e três reais e seis centavos).
+Sobressai, ainda, informações de que o apelante responde a outras ações penais onde apura a prática de crimes contra a ordem tributária, autos n. 50017798620208240218 e 50011158420228240218 (evento 37, CERTANTCRIM1); bem como o valor sonegado ultrapassa o capital social integralizado, que é de 30.000,00 (trinta mil reais).
+Portanto, a redução fiscal levada a efeito por 12 (doze) vezes consecutivas, sem qualquer evidência por parte da apelante em quere ver os créditos quitados/parcelados, desencadeando a inscrição dos débitos em dívida ativa e cujo valor supera o capital-social integralizado, e mediante a reiteração da conduta, configura a contumácia prevista no julgamento do RHC 163.344/SC pelo Supremo Tribunal Federal, de modo que, à luz de aludido precedente, a absolvição não pode prevalecer.
+A orientação jurisprudencial desta Corte Superior admite a tipicidade da apropriação de ICMS declarado e não pago, na circunstância em que ficar demonstrado o dolo de apropriação verificado com base na contumácia delitiva. Na hipótese, foram identificadas doze ações ilícitas e em sequência, suficientes a caracterizar a prática do crime do art. 2º, II, da Lei n. 8.137/1990. Portanto, o recurso especial seria inviável pelo disposto na Súmula n. 83 do STJ.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ICMS DECLARADO E NÃO PAGO. ANPP. APLICAÇÃO RETROATIVA. NÃO POSSIBILIDADE. DENÚNCIA RECEBIDA. INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. SÚMULA N. 83 DO STJ. ABSOLVIÇÃO. SÚMULA N. 7 DO STJ. CONDUTA TÍPICA. CONTUMÁCIA E DOLO DE APROPRIAÇÃO. DOZE AÇÕES DELITIVAS EM SEQUÊNCIA. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A superveniência de sentença ou acórdão condenatórios inviabiliza a análise do reconhecimento de inépcia da denúncia. Precedentes. A pretensão é inviável pelo entendimento da Súmula n. 83 do STJ.
+2. O STJ, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia. Na hipótese, a denúncia foi recebida em 24/7/2019, antes, portanto, da vigência do art. 28-A do CPP.
+3. É típica a conduta de deixar de repassar ao fisco o ICMS indevidamente apropriado se for constatada a contumácia delitiva e o dolo de apropriação. Essa é a hipótese dos autos, pois foram cometidas doze ações delituosas em sequência. Aplica-se o entendimento da Súmula n. 83 do STJ.
+4. A análise da tese absolutória baseada na ausência de domínio do fato ou de ilegitimidade passiva (circunstância de os agravantes não mais constarem do quadro societário) ensejaria reexame fático-probatório, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ, em vista da assertiva do acórdão recorrido de que ambos figuravam como sócios administradores, de empresa familiar, no período dos fatos geradores.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 2.113.576/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/5/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 2º, INCISO II, DA LEI N. 8.137/1990. ATIPICIDADE. ABSOLVIÇÃO. IMPOSSIBILIDADE. CONTUMÁCIA. DOLO DE APROPRIAÇÃO. TIPICIDADE CARCTERIZADA. AGRAVO NÃO PROVIDO.
+1. A Terceira Seção deste Superior Tribunal de Justiça, quando do julgamento do HC n. 399.109/SC, pacificou o entendimento de que o não recolhimento do ICMS em operações próprias é fato típico (HC n. 399.109/SC, Rel. Ministro JOEL ILAN PARCIONIK, Terceira Seção, julgado em 22/8/2018, DJe de 12/9/2018). Com efeito, a Suprema Corte, em apreciação do RHC n. 163.334/SC, fixou a seguinte tese a respeito da tipicidade do delito previsto no art. 2.º, II, da Lei n. 8.137/1990: "O contribuinte que, de forma contumaz e com dolo de apropriação, deixa de recolher o ICMS cobrado do adquirente da mercadoria ou serviço incide no tipo penal do art. 2º, II, da Lei nº 8.137/1990".
+2. Como se vê, o referido precedente da Suprema Corte reforça a jurisprudência desta Corte a respeito da tipicidade do não recolhimento de ICMS cobrado do adquirente da mercadoria ou serviço, porém acrescenta duas novas condições para a caracterização do delito: a) prática contumaz e b) dolo de apropriação.
+3. No presente caso, embora o Tribunal a quo tenha considerado que basta a presença do dolo genérico, é possível constatar, de acordo com os fatos trazidos no acórdão recorrido, a caracterização do dolo específico de apropriação (inadimplência reiterada), bem como a contumácia delitiva (19 infrações à ordem tributária e há pelo menos uma outra ação penal que apura a mesma conduta), nos moldes do precedente firmado pelo STF.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.644.472/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/8/2024.)
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
