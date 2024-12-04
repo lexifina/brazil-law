@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIZABETH CRISTINA MELO MATIAS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Nas razões de seu recurso, a parte recorrente afirma haver, além do dissídio jurisprudencial, violação dos arts. 2º, § 2º, I, e 6º, § 5º, da Lei 10.820/2003 c/c art. 8º do Decreto 6.578/2008 c/c art. 883. IV, do Código de Processo Civil (CPC) e c/c 7º, X, da Constituição Federal (CF) porque não foi respeitado o limite percentual máximo de 30% (trinta por cento) de seu proventos como margem consignável para fins de empréstimos bancários.
+Nesse sentido, aduz (fl. 953):
+EXTREMAMENTE DESACERTADO o V. Acórdão ao aplicar as disposições da Medida Provisória nº 2.215- 10/2001, que sequer tem força de lei, e cujas disposições devem se CURVAR ÀS LEIS FEDERAIS e ÀS APLICAÇÕES DOS PRINCÍPIOS CONSTITUCIONAIS que visam à proteção dos Salários e Proventos a fim de preservar a DIGNIDADE DA PESSOA HUMANA (art. 1º, III, do Diploma Maior), NÃO SENDO LEGAL E NEM JUSTO COMPROMETIMENTO DE RENDA DE 70% de forma a afetar a Subsistência e a Sobrevivência do Consumidor, e além do mais, a permissão de comprometimento de renda em percentual acima de 30% AFRONTA as disposições legais do inciso I do §2º do artigo 2º da Lei Federal nº 10.820/2003 combinado com o art. 8º do DECRETO nº 6.574/2008 e com o art. 1º, III, do Diploma Maior c/c o art. 833, inciso IV do CPC e art. 7º, Inciso X da CF/88.
+Foram apresentadas contra contrarrazões pelas partes recorridas (fls. 1.025/1.031 e fls. 1.035/1.060).
+O recurso foi admitido na origem (fls. 1.067/1.068).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos ( Tema 1.286 ), e foi assim delimitada:
+Definir se aos empréstimos consignados em folha de pagamento firmados por militares das forças armadas aplica-se o art. 14, § 3º, da Medida Provisória n. 2.215-10/2001, ou deve ser feita articulação com outros diplomas normativos, como a Lei n. 10.820/2003 e a Lei n. 14.509/2022. (REsp 2.145.185/RJ e REsp 2.145.550/RJ, relatora Ministra Maria Thereza e Assis Moura).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
