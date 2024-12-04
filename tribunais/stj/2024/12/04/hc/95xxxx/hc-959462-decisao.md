@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento ao agravo em execução interposto pelo paciente (sem ementa).
+O paciente cumpre pena de 3 anos e 4 meses, em regime inicial semiaberto, pela prática do crime de tráfico de drogas (art. 33, §4º, da Lei nº 11.343/06). Mesmo após ter cumprido com os requisitos objetivo e subjetivo para a progressão para o regime aberto, o Magistrado de primeira instância e o Tribunal de origem entenderam por negar o deferimento dos benefícios.
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois lhe foi negado indevidamente o benefício da progressão de regime.
+Ao final, requer a concessão da ordem para que seja concedida a progressão de regime.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, vislumbro flagrante ilegalidade capaz de fundamentar a concessão da ordem de ofício.
+O Magistrado de primeira instância e o Tribunal negaram a progressão de regime com a seguinte argumentação:
+ .. . Não bastasse, como bem ressalvou o douto magistrado: "(..) o sentenciado possui situação processual indefinida, uma vez que está sendo processado por outro delito nos autos do processo nº 1503218-94.2021.8.26.0302, pelo qual fora condenado, em primeira instância, à pena de 04 anos e 04 meses, em regime semiaberto." (fl. 32). O juiz, baseado em seu livre convencimento motivado, ao analisar o pedido, por certo, considerando ausente requisito subjetivo, ponderou ser prudente, no caso, que a condição do agravante peça aprimoramento interno para assimilação adequada da terapêutica penal. De mister, então, maior vivência do sentenciado no regime intermediário, resguardando-se o interesse social, que, por sua natureza, está acima daquele de ordem privada nesta esfera, ante o princípio "in dubio pro societate", que vigora na fase da execução criminal  ..  (e-STJ fl. 53).
+Extrai-se do trecho acima que a razão pela qual a progressão de regime foi negada ao paciente foi o fato de que estava sendo acusado na ação penal nº 1503218-94.2021.8.26.0302, o que afastaria o requisito subjetivo para a progressão de regime.
+Porém, observa-se que os fatos objeto da mencionada ação penal são datados de 18 de julho de 2021 (e-STJ fl. 17), ou seja, anteriores à própria execução penal em questão, razão pela qual não poderiam exprimir o comportamento carcerário, requisito subjetivo exigido pelo art. 112, §1º da LEP e nem mesmo representar uma falta grave, pois essas somente são cometidas na constância da execução penal.
+Em suma, um fato anterior à execução penal não pode ser argumento para afirmar que o executando não tem bom comportamento carcerário e, por consequência, para negar a progressão de regime.
+Desta forma, na medida em que o paciente cumpriu com o requisito objetivo e há atestado de bom comportamento carcerário, configura-se constrangimento ilegal não permitir sua progressão de regime.
+Pelo exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem de ofício para determinar que o paciente progrida do regime semiaberto para o aberto.
+Publique-se. Intimem-se.
+EMENTA
