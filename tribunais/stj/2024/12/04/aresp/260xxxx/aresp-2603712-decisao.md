@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GALERA MARI E ADVOGADOS ASSOCIADOS (GALERA MARI) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.289-1.303).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alíneas a e c, da CF, GALERA MARI alegou a violação do art. 22, § 2º, da Lei n. 8.906/94; e art. 85, §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9º e 10, do CPC, ao sustentar que o valor arbitrado a título de honorários advocatícios contratuais deveria ter sido balizado entre 10% e 20% sobre o valor da causa. Suscitou dissídio jurisprudencial, apontando como paradigma o acórdão proferido pelo TJRS n. 0206376-52.2016.8.21.7000.
+Na origem, GALERA MARI ajuizou ação de arbitramento de honorários advocatícios contra o BANCO BRADESCO S.A. (BRADESCO), referente aos serviços prestados e não remunerados na ação de execução autuada sob o n. 0000055-17.1996.8.11.0031, ainda em trâmite.
+A r. sentença julgou a ação parcialmente procedente, para condenar o BRADESCO ao pagamento de R$ 15.000,00 (quinze mil reais) corrigidos monetariamente pelo INPC, a partir do arbitramento e juros de mora de 1% ao mês, a contar da citação.
+Ao analisar o recurso de apelação interposto por GALERA MARI, o Tribunal de Justiça do Estado de Mato Grosso consignou que, no caso, mostra-se necessária a observância da razoabilidade e proporcionalidade decorrentes dos serviços efetivamente prestados. Confira-se:
+(..) O autor comprovou ter sido contratado em 3.3.2011 pelo banco apelante para prestação de serviços advocatícios pró-êxito na Execução nº 0000055-17.1996.8.11.0031 proposta em 15.4.1996 por outra banca de advogados, pelo Banco Bradesco S. A. em face de Cícero Barbosa da Silva e Aparecida Ferneda da Silva, com o objetivo de receber o crédito de R$84.898,68, ainda em trâmite na Comarca de Nortelândia, cujo valor atualizado o autor informa ser de R$2.968.286,62.
+Comprovou ainda, a rescisão do contrato, por ato unilateral do banco contratante, sem justificação, ocorrida em 19.11.2020.
+Assim, o autor laborou, assim, de 3.3 de 2011 até 19.112020, ou seja, por mais de 8 anos quando ocorreu a rescisão unilateral do contrato.
+(..)
+Quanto ao valor arbitrado, R$ 15.000,00, mostra-se razoável, ainda que a ação tenha longo período de trâmite.
+Quanto ao arbitramento em valor fixo e não em percentual, impõe ressaltar tratar de ação de arbitramento em que há que se observar ao razoabilidade e proporcionalidade decorrentes, em especial, dos serviços efetivamente prestados, em que não incidem as regras que dispõem sobre a fixação de verba sucumbencial.
+A controvérsia sub judice se refere aos critérios para o arbitramento judicial da verba honorária em caso de rescisão unilateral, ou seja, aqueles decorrentes do contrato de prestação de serviços advocatícios.
+A Lei n. 8.906/94 (Estatuto da Ordem dos Advogados do Brasil) assegura ao causídico o pleno exercício de suas atividades, prevendo remuneração do serviço prestado por meio da percepção cumulativa dos honorários convencionados com o constituinte e dos honorários de sucumbência (arts. 22 e 23).
+Diante de tal contexto normativo, a Quarta Turma do STJ adotou o entendimento de que, em "havendo contrato escrito de prestação de serviços advocatícios, o advogado não reúne interesse de agir para propor ação de arbitramento de honorários contratuais pretendendo modificar o acordado (Lei 8.906/94, art. 22, § 2º), ressalvadas as hipóteses de rompimento unilateral e antecipado do contrato, de dúvidas fundadas acerca da própria existência da avença ou acerca dos valores nela inseridos" (REsp 805.919/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 13/10/2015, DJe 29/10/2015).
+Essa interpretação se fundamenta na ponderação de que a rescisão unilateral do contrato pelo mandante, antes da conclusão da causa patrocinada, impede que o advogado receba os honorários de sucumbência previstos como contraprestação pelos serviços realizados. Tal situação configuraria evidente enriquecimento sem causa, caso não fosse permitido o arbitramento judicial dos honorários.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDADOS.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. 1.2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+Precedentes.
+2. Segundo a orientação jurisprudencial desta Corte, a pretensão de arbitramento e de cobrança de honorários estão subordinadas ao prazo prescricional de 5 (cinco) anos de que trata o artigo 25, III, da Lei 9.806/94. Incidência da Súmula 83 do STJ.
+3. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+(..)
+5. Agravo interno parcialmente provido para, de plano, conhecer do agravo e prover parcialmente o recurso especial, cassando as deliberações recorridas e determinar o retorno dos autos ao juízo de primeiro grau, a fim de que os honorários devidos sejam arbitrados com base no trabalho efetivamente desempenhado pelo advogado ora agravado.
+(AgInt no AREsp 1.147.232/CE, Rel Ministro MARCO BUZZI, Quarta Turma, j. 4/10/2022 - sem destaques no original)
+A pretensão de GALERA MARI em ver arbitrados honorários entre 10% a 20% sobre o valor da causa não se aplica na hipótese, pois houve estipulação de honorários, como expressamente asseverado pelo MM. Juiz a quo: "Esta ação trata de pedido de arbitramento de honorários por rescisão de contrato de prestação de serviços em que foram previstas formas de remuneração, não havendo que se falar de falta de estipulação." (e-STJ, fl. 833).
+Nesse contexto, vê-se que, ao arbitrar os honorários contratuais em R$ 15.000,00 (quinze mil reais), valor esse mantido pelo Tribunal estadual, a r. sentença analisou os serviços prestados de forma proporcional no processo supramencionado, até a rescisão unilateral do contrato, levando em consideração o empenho exigido do causídico, a complexidade da causa, a persecução dos interesses do cliente e o tempo despendido pelos serviços para os quais GALERA foi contratada.
+O reexame desses critérios fáticos sopesados não seria possível sem incursão no acervo fático-probatório enfeixado nos autos, o que é vedado pelo óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. RESCISÃO UNILATERAL. DIREITO À PERCEPÇÃO PROPORCIONAL DOS HONORÁRIOS. VALOR ARBITRADO. RAZOABILIDADE. EQUIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO NÃO PROVIDO.
+1. "O reexame dos critérios fáticos sopesados de forma equitativa para a fixação dos honorários advocatícios (art. 20,§§ 3º e 4º, do CPC/73) revela-se, em princípio, inviável no âmbito do recurso especial, em virtude da vedação erigida pela Súmula n.7/STJ" (AgInt no AgInt no AREsp 1.071.719/SE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/11/2017).
+2. Indeferido o pleito da agravada, pois o não conhecimento ou improcedência de agravo interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.801.284/MT, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 27/08/2019)
+Vale ressaltar que valor arbitrado pela r. sentença não se mostra irrisório, não merecendo, portanto, intervenção desta Corte.
+Por fim, a incidência da Súmula n. 7, quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil, porquanto a GALERA não foi condenada a arcar com tal verba, e sim a parte contrária.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO UNILATERAL E IMOTIVADA PELO MANDANTE. CONTRATO DE HONORÁRIOS AD EXITUM. REMUNERAÇÃO PROPORCIONAL ATÉ A RESCISÃO DO CONTRATO. REEXAME DOS CRITÉRIOS FÁTICOS SOPESADOS PARA O ARBITRAMENTO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
