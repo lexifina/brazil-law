@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interno interposto por CELIO ROBERTO CARDOSO contra a decisão de e-STJ fls. 170/173, na qual conheci do agravo para não conhecer do especial por intempestividade.
+No presente agravo interno, a parte agravante sustenta que, "em suas razões de agravo em recurso especial, constante em sequencial de nº 18, pág. 06, parágrafo 17, foi suscitado o equívoco no sistema e, inclusive, indicado através de print extraído da interface o sistema Eproc contendo a intimação e fechamento do prazo" (e-STJ fls. 181/182).
+Apresenta, ainda, "um print de toda a tela do sistema, de maneira colorida e ilustrada e, junto a esta peça, acosta a integralidade da interface do sistema Eproc, na página correspondente ao andamento dos presentes autos, em PDF de modo a demonstrar e comprovar sua boa-fé quanto ao protocolo do recurso na referida data" (e-STJ fl. 183).
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Passo a decidir.
+Da análise dos autos, verifica-se que assiste razão ao agravante, pois, se o recurso foi apresentado no termo final apontado no Portal do Sistema Processual Eletrônico, como reconhece a própria Corte local na decisão de admissibilidade do especial (e-STJ fls. 107/114), tem-se configurada a situação decidida pela Corte Especial do STJ no sentido de que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022.).
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DO RECURSO. ERRO DE INFORMAÇÃO PELO SISTEMA ELETRÔNICO DO TRIBUNAL - PJE. ENTENDIMENTO FIRMADO NO ERESP N. 1.805.589. RECONHECIDA A TEMPESTIVIDADE.
+I - A jurisprudência desta Corte Superior, em decisão proferida pela Corte Especial no EREsp n. 1.805.589/MT, firmou entendimento de que cabe ao procurador da parte diligenciar pela observância do prazo legal para a interposição do recurso, todavia o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente.
+II - No caso, consoante documentos extraídos dos autos o sistema PJe indicou como prazo fatal a data de 21/01/2022, e o recurso de agravo em recurso especial foi protocolado nos autos em 13/01/2022, estando, portanto, tempestivo.
+Embargos de declaração acolhidos para tornar sem efeito a decisão de fls. 561-562.
+(EDcl nos EDcl no AgRg no AREsp 2.260.425/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/5/2024, DJe de 16/5/2024.).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. CONTAGEM DE PRAZO PROCESSUAL. SISTEMA ELETRÔNICO. FALHA INDUZIDA. PRINCÍPIOS DA BOA-FÉ E DA CONFIANÇA. TEMPESTIVIDADE DO AGRAVO. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. ART. 85, §8º, DO CPC/15. IMPOSSIBILIDADE NO CASO DOS AUTOS. JURISPRUDÊNCIA FIRMADA EM RECURSO REPETITIVO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte Especial deste Superior Tribunal de Justiça, em julgado recente, firmou a compreensão segundo a qual "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso".
+(..).
+V - Agravo Interno improvido.
+(AgInt no REsp 2.029.799/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/4/2023, DJe de 10/4/2023.).
+Assim, reconsidero a decisão anterior e passo à nova análise do agravo em recurso especial.
+Trata-se de agravo interposto por CELIO ROBERTO CARDOSO contra decisão do Tribunal de Justiça Militar do Estado de Minas Gerais, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 71) :
+APELAÇÃO CÍVEL  MILITAR DEMITIDO  PEDIDO DE REINTEGRAÇÃO  TRANSGRESSÃO DE NATUREZA GRAVÍSSIMA  SUBMISSÃO A PROCESSO ADMINISTRATIVO-DISCIPLINAR  OFENSA À HONRA E AO DECORO DA CLASSE  ATO DEMISSIONÁRIO RAZOÁVEL E PROPORCIONAL  PRESENÇA INEQUÍVOCA DO CONTRADITÓRIO E DA AMPLA DEFESA  INDEPENDÊNCIA ENTRE AS ESFERAS ADMINISTRATIVA E CRIMINAL  ANÁLISE DO MÉRITO  IMPOSSIBILIDADE  NULIDADES NÃO CONSTATADAS  SENTENÇA MANTIDA  RECURSO IMPROVIDO.
+No especial obstaculizado, a parte recorrente apontou violação do art. 8º do CPC/2015, ao argumento de que não houve aplicação, ao caso, dos princípios da proporcionalidade e da razoabilidade, pois "não pode ser considerado proporcional ou razoável aplicar a pena capital ao recorrente em sua primeira possível falta disciplinar" (e-STJ fl. 99).
+Contrarrazões às e-STJ fls. 100/106.
+Pois bem.
+Não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Cumpre notar que o art. 8º do CPC/2015 é comando dirigido aos juízes, na atuação jurisdicional, não guardando pertinência com julgamento administrativo de processo disciplinar.
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+Ademais, o acolhimento das razões recursais, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 170/173 e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial por outros fundamentos.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
