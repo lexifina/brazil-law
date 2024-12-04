@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se recurso especial interposto por FRANCISCO AGENOR SOARES E OUTRA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 21/3/2024.
+Concluso ao gabinete em: 8/7/2024.
+Ação: Regressiva c/c danos materiais e perdas e danos proposta pelos recorrentes em face de Souza Fênix e Soares Vigilância Ltda.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: negou provimento à apelação interposta pelos recorrentes, conforme ementa a seguir (fl. 987):
+APELAÇÃO CÍVEL - IMPUGNAÇÃO À CONCESSÃO DA GRATUIDADE DE JUSTIÇA - PRELIMINAR REJEITADA - "AÇÃO REGRESSIVA C/C DANOS MATERIAIS, PERDAS E DANOS E PEDIDO DE TUTELA DE URGÊNCIA" - REVELIA - ARTIGO 345 DO CÓDIGO DE PROCESSO CIVIL - PRESUNÇÃO RELATIVA - ÔNUS DA PROVA - AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO AUTORAL - DANOS MATERIAIS E MORAIS - INOCORRÊNCIA - DIREITO DE REGESSO. I - Inexistindo prova robusta realizada pela parte ré/apelada, em sentido contrário, tampouco impugnação específica aos documentos juntados pela parte adversa, incabível a pretensão de revogação benefício da gratuidade de justiça. II - A caracterização da revelia não importa em presunção absoluta de veracidade dos fatos, não dispensando um mínimo de elementos suficientes para demonstrar os fatos constitutivos do direito do autor, nos termos do artigo 373, inciso I do Código de Processo Civil. III - Não há que se falar em direito de regresso/indenizatório quando as partes assumem obrigação, de forma voluntária, e, ainda, que eram de sua responsabilidade.
+Embargos de Declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: alega violação dos arts. 344, 345, 489, § 1º, todos do CPC; 44, 49-A, 186, 346, 884, 885, 886, 927 e 934, todos do Código Civil, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta: i) o reconhecimento da revelia, com a consequente aplicação de seus efeitos no caso em exame; ii) a aplicação da sub-rogação na obrigação, para que "responsabilidade pelo débito seja atribuída à sociedade e aos demais sócios e que, caso seja reconhecida a responsabilidade subsidiária da sócia retirante, seja garantido o direito regressivo proporcional à sua cota parte e responsabilidade, em conformidade com a legislação vigente" (fl. 1.100), e iii) a reparação dos danos materiais e morais sofridos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do TJ/MG residem no argumento de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente, especialmente, no que concerne à alegação acerca do fato de que "o regresso deveria ser reconhecido ainda que parcial, na proporção das cotas e na medida da responsabilidade, sendo a responsabilidade da Recorrente ínfima posto que sequer administrava a sociedade" (fl. 1.074).
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração interpostos pelo recorrente, foi omisso quanto aos referidos argumentos. Verifica-se que as questões foram objeto de devida insurgência tanto nas razões da apelação, quanto nas razões dos embargos declaratórios interpostos.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto elencado.
+Por conseguinte, tenho por prejudicada a análise das demais matérias insertas no recurso especial.
+Forte nessas razões, CONHEÇO PARCIALMENTE do RECURSO ESPECIAL e, nessa extensão, DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V, a , do CPC/2015, bem como na Súmula 568/STJ, para: a) anular o acórdão que julgou os embargos de declaração interpostos pela recorrente; e b) determinar a remessa dos autos ao TJ/MG, a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos elencados nos embargos de declaração opostos ao acórdão recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REGRESSIVA C/C DANOS MATERIAIS E PERDAS E DANOS. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO.
+1. Ação Regressiva c/c danos materiais e perdas e danos.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/2015 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questões pertinentes para a resolução da lide.
+3. Recurso especial conhecido e provido.
