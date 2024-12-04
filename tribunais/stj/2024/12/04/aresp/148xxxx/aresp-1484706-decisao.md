@@ -1,0 +1,25 @@
+DECISÃO
+ALEXEI RAMOS DE AMORIM agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba na Apelação Criminal n. 0009929-16.2012.815.0011.
+O agravante foi condenado, pelo crime do art. 129, § 1º, do Código Penal, à sanção de 1 ano e 3 meses de reclusão, no regime inicial aberto. A pena privativa de liberdade foi suspensa condicionalmente pelo período de 2 anos.
+Nas razões do recurso especial, a defesa alegou violação do art. 18, I, do Código Penal. Defendeu, em síntese, a absolvição do acusado por insuficiência da prova do dolo delitivo. Asseverou haver dissídio jurisprudencial.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 1.248-1.252, pelo não provimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou quanto ao dolo delitivo (fls. 1.124-1.125, destaquei):
+ ..
+Primeiramente, no tocante à alegação de que não houve dolo do recorrente em praticar referido crime, entendo que tal argumento não de prosperar. Ora, os depoimentos da vítima e das testemunhas que presenciaram o fato (mídia de fls. 298) são harmônicos e convergentes em afirmar que o réu, sem motivo aparente, apontou a arma para a altura do joelho da vítima e efetuou o disparo, afastando, assim, a hipótese do acidente.
+Eis o depoimento da vítima MÁRCIO TEIXEIRA SILVA, ouvido perante à esfera judicial (mídia de fls. 298):
+"(..) que participava de uma confraternização natalina, na residência do acusado, convidado por um primo deste; (..) que chegou no final da festa, por volta das 07h00 da manhã; que não aconteceu qualquer desentendimento entre acusado e vítima; que quando se despedia do acusado, que de forma muito amistosa, pediu para a vítima ficar no local; que o acusado pegou a arma e ficou apontando para baixo, em direção às pernas da vítima e outras pessoas dizendo que ninguém vai embora, inclusive apontou para a perna do primo dele - Marcelo Agra, amigo do depoente; que Alexei e Marcelo Agra se afastaram do depoente e a festa continuou, quando em dado momento, enquanto discutiam, ouviu-se em disparo de arma de fogo, na direção contrária a do depoente, há uns 04 metros de distância; que depois disso, sem falar nada, o depoente apontou a arma para a sua perna, na altura do joelho e disparou um tiro de pistola, acertando diretamente o joelho; que a bala transfixou a sua perna, caindo ao solo, sangrando muito; (..)"
+A testemunha Juliano Marcelino de Oliveira afirmou que (mídia de fl. 298):
+"(..) que não havia qualquer animosidade entre os convidados; que o anfitrião da festa era o acusado; (..) que viu duas armas sob um palco, ao lado de Alexei; (..) que ninguém relatou o motivo das armas estarem sendo exibidas pelo acusado; que já ouviu comentários de que o acusado costumava exibir armas em sua residência; que ouviu três disparos de arma de fogo; que não havia clima hostil; que no primeiro disparo, o acusado tentava contar uma história, mas ninguém o ouvia, e, afobado, efetuou um tiro contra a parede; que apenas escutou o segundo disparo, e, quando se virou, já viu a pistola de Alexei apontada para a perna de Márcio; que Márcio caiu no chão, com sangue na perna; que de um disparo para o outro, demorou cerca de meia hora; (..)"
+Portanto, está claro que o comportamento de apelante está voltado para a prática dolosa do delito, uma vez que o mesmo apontou mais de uma vez para as pernas da vítima.
+Ademais, o recorrente também requer a desclassificação para a lesão corporal de natureza leve, sob o argumento de seria necessária a realização de um exame complementar para confirmar o laudo traumatológico.
+Ora, analisando o laudo traumatológico de fl. 15 em conjunto com os demais documentos médicos (prontuário de fls. 16/17, documentos de atendimento médico de fls. 80/102 e guia de internação da vítima de fls. 128/274), verifico que, através da resposta ao quesito nº 5, restou cabalmente demonstrada a incapacidade da vítima para as ocupações habituais por mais de 30 (trinta) dias.
+A análise da pretensão absolutória - baseada em alegada insuficiência da prova do dolo delitivo - implicaria necessário reexame de fatos e provas, não permitido, em recurso especial, segundo o entendimento da Súmula n. 7 do STJ.
+O recurso especial é inadmissível no tocante ao suscitado dissídio jurisprudencial, porquanto a parte não realizou o devido cotejo analítico entre o julgado recorrido e o acórdão paradigma, com a finalidade de demonstrar a existência de situação fática semelhante com solução jurídica diversa. Nesse ponto, aplica-se o disposto na Súmula n. 284 do STF.
+Portanto, está correta a decisão que, na instância antecedente, inadmitiu a insurgência recursal.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
