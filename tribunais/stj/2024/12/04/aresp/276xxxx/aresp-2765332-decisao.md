@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SPE02 - LUPA EMPREENDIMENTO IMOBILIARIO LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+DIREITO CIVIL - OBRIGAÇÕES - CONTRATO DE SOCIEDADE EM CONTA DE PARTICIPAÇÃO - DESFAZIMENTO DO NEGÓCIO - AÇÃO DE COBRANÇA - PROCEDÊNCIA PARCIAL EM 12 GRAU - RECURSO DA TRANSPORTADORA - 1. RESSARCIMENTO DE VALORES - AQUISIÇÃO DE COTAS EM EMPREENDIMENTO COMERCIAL - CONVERSÃO EM UNIDADES AUTÔNOMAS - DESFAZIMENTO DO NEGÓCIO PELOS AUTORES - INTERESSE DA RÉ NA AQUISIÇÃO DAS COTAS - PROPOSTA IMPLEMENTADA E ACEITA PELOS AUTORES - PAGAMENTO PARCIAL REALIZADO - OBRIGAÇÃO DE PAGAMENTO DOS VALORES RESTANTES NOS TERMOS DA PROPOSTA REALIZADA - 2. ÍNDICE DE CORREÇÃO MONEÁRIA - CUB - INCIDÊNCIA APÓS A CONCLUSÃO DA OBRA - INADMISSIBILIDADE - AUSÊNCIA DE INFLUÊNCIA DO PREÇO DOS INSUMOS DA CONSTRUÇÃO CIVIL - VALIDADE SOMENTE NA FASE CONSTRUTIVA - REAJUSTE COM BASE NOS TERMOS DO CONTRATO - RECURSO CONHECIDO E IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 5º, LV, e 93, IX, da CF/1988; e 11 do CPC, no que concerne à ausência de fundamentação do aresto objurgado quanto a questões fáticas e probatórias trazidas pela parte, o que caracteriza cerceamento de defesa, trazendo a seguinte argumentação:
+É evidente que carece da indispensável fundamentação, violando o art. 93, inciso IX, da Constituição Federal e o art. 11 do Código de Processo Civil. É, portanto, absolutamente nula, e assim deve ser declarada.
+Não há qualquer análise dos argumentos pertinentes à espécie ou das questões fáticas e probatórias trazidas pela parte. Não se vislumbra na espécie  vale frisar  mera fundamentação sucinta, mas sim deficiência de fundamentação, atentatória aos preceitos legais e constitucionais. Vejamos:
+Necessário que haja manifestação sobre a alegação da Recorrente de que os e-mails anexados com a contestação "têm data posterior (2015) à suposta proposta (2014) em que se fundam os Recorridos para lastrear sua pretensão de enriquecimento sem causa e denotam a inexistência de qualquer proposta válida entre as partes ao longo do ano de 2015".
+Não houve análise acerca dessa impugnação específica dos e-mails.
+Também não foi analisada a questão das conversas de WhatsApp trazidas pelos Recorridos, nas quais se verific a que em nenhum momento houve o compromisso de prazo da Recorrente para quitação da avença ajustada em setembro de 2018, antes do término da obra.
+Todas essas questões também serão abordadas amplamente no ITEM 3.1.3.2.
+ ..
+Ficando caracterizado o cerceamento de defesa no presente caso (fls. 291/295).
+É o relatório.
+Decido.
+Quanto aos arts. 5º, LV, e 93, IX, da CF/1988, é incabível o Recurso Especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 16.6.2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º.10.2019; EDcl no REsp 1.656.322/SC, Rel. Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13.12.2019.
+No mais , não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
