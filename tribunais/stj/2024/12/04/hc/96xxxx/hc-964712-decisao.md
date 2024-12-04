@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de SAMUEL AUGUSTO FABRICIO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 9000010-09.2008.8.26.0066).
+Depreende-se dos autos que o ora paciente foi condenado, pela prática dos crimes de tráfico de drogas e associação para o mesmo fim (arts. 33 e 35 da Lei n. 11.343/2006), à pena total de 14 anos de reclusão, em regime inicial fechado, ante a apreensão de cerca de 3,500kg (três quilos e quinhentos gramas) de maconha e 500g (quinhentos gramas) de crack.
+Interposta a apelação, o Tribunal de origem manteve incólume a sentença condenatória, em acórdão assim ementado (e-STJ fl. 36):
+Tráfico de entorpecentes e associação para esse fim - Inépcia da denúncia não caracterizada - Peça que obedece aos requisitos estabelecidos pela legislação processual - Cerceamento de defesa inexistente - Diligência de caráter meramente protelatório - Manifestação do Ministério Público após a resposta à acusação que não redunda, até porque veiculadas matérias preliminares pelo acusado, ilegalidade Ilicitude na interceptação telefônica que não se cogita - Atividade investigativa produzida após autorização judicial - Princípio da Proporcionalidade - Inexistência de direitos absolutos - Preso a quem vedada a comunicação por meio de aparelho celular - Prazo legal não excedido - Autoria e materialidade delitivas comprovadas pelos elementos constantes dos autos - Circunstâncias que demonstram a dedicação ao comércio espúrio - Depoimentos firmes e seguros dos policiais militares - Recurso improvido.
+Opostos embargos de declaração, foram eles rejeitados (e-STJ fls. 312/314).
+Interposto recurso especial, foi ele parcialmente admitido na origem (e-STJ fls. 416/418), o que ensejou o REsp n. 1.575.631/SP, ao qual foi negado provimento neste Superior Tribunal, tendo ocorrido o trânsito em julgado na data de 18/4/2017.
+Nesta oportunidade, alega a defesa a existência de nulidade por quebra da cadeia de custódia da prova, porquanto não se verifica nos autos "nenhum tipo de registro documental sobre o modo de coleta e preservação dos equipamentos, quem teve contato com eles, quando tais contatos aconteceram e qual o trajeto administrativo interno percorrido pelos aparelhos, uma vez apreendidos pela polícia" (e-STJ fl. 9).
+Sustenta que é imperiosa a absolvição, uma vez que "as provas produzidas pela acusação e pelos policiais militares, a fim de dar amparo legal a acusação imputando ato delituoso praticado pelo paciente, não foram eficazes de produzir os efeitos desejados à sua acusação, vistos que as provas testemunhais produzidas no inquérito policial e na fase instrutória trazem dúvidas quanto à prática do crime pelo paciente, porque são frágeis e contraditórias" (e-STJ fl. 15).
+Argumenta que a condenação pelo crime de associação para o tráfico é contrária às evidências dos autos, visto que não foram indicados elementos concretos capazes de comprovar a estabilidade e a permanência do réu no comércio de entorpecentes.
+Subsidiariamente, aduz que o paciente preenche os requisitos necessários para a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devendo, ainda, ser reformada a dosimetria da pena e abrandado o regime inicial estabelecido.
+Diante dessas alegações, requer (e-STJ fl. 33):
+ ..  a ABSOLVIÇÃO do réu, ora paciente, em razão da insuficiência probatória, com base no artigo 386, inciso VII, do Código de Processo Penal, por ser esta atitude da mais ponderada e lídima Justiça.
+Que a PRELIMINAR da quebra de cadeia de custódia seja reconhecida, declarando a nulidade mencionada, inadmitindo as provas obtidas.
+Caso não seja este o entendimento, de maneira subsidiária, requer, seja o libelo RECAPITULADO para o tráfico privilegiado, a teor do disposto no artigo 33, § 4º, da Lei de Drogas. Requer, ainda, a alteração do regime prisional para ABERTO, por ser esse compatível com o quantum de pena fixado, em conformidade com a Súmula Vinculante nº 59 do STF.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse mesmo sentido, os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA.  .. .
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+Na presente hipótese, a condenação do paciente transitou em julgado em abril de 2017 (e-STJ fl. 509 e 566), de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência do Superior Tribunal de Justiça acerca da controvérsia.
+De toda forma, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício.
+Isso, porque "não é possível se falar em quebra da cadeia de custódia, por inobservância de dispositivos legais que não existiam à época, sendo acertadamente destacado pela Corte local que, "no processamento das evidências relativas aos fatos ora julgados, ainda não existia um procedimento específico para a manutenção da cadeia de custódia da prova como temos hoje" (AgRg no HC n. 739.866/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022.).
+Ademais, cumpre consignar que "a revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido" (HC n. 339.769/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2017, DJe de 2/10/2017), o que não ocorre na espécie.
+Não bastasse, verifico que as teses suscitadas neste habeas corpus foram parcialmente submetidas à apreciação deste Tribunal Superior no REsp n. 1.575.631/SP, ao qual foi negado provimento por estar o acórdão recorrido em conformidade com a jurisprudência dominante desta Corte, de modo que o proceder da defesa em relação a tais matérias caracteriza mera reiteração de pedido, pretensão essa inviável, porquanto inviável a dupla apreciação da matéria.
+A propósito, confiram-se :
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. REITERAÇÃO DE PEDIDO. MATÉRIA JÁ SUSCITADA EM RECURSO ESPECIAL. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em razão da reiteração de pedido já apresentado em agravo em recurso especial.
+II. QUESTÃO EM DISCUSSÃO 2. A questão consiste em saber se é cabível a reiteração de pedido de habeas corpus já analisado em agravo em recurso especial sobre o mesmo acórdão.
+III. RAZÕES DE DECIDIR 3. A reiteração de pedido já submetido ao agravo em recurso especial é inadmissível, conforme entendimento pacífico do STJ. 4. O habeas corpus não pode ser utilizado para obter nova análise da mesma matéria em decisão já recorrida.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 784.994/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REITERAÇÃO DE MATÉRIA SUSCITADA EM RECURSO ESPECIAL. IMPOSSIBILIDADE. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECEDENTES.
+Agravo regimental improvido.
+(AgRg no HC n. 924.572/RJ, relator Ministro Sebastião Reis Júnior, Sexta
+Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+Ante o exposto, indefiro liminarmente a impetração.
+Publique-se. Intimem-se.
+EMENTA
