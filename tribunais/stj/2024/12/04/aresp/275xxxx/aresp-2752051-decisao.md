@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto pela COMERCIAL BENEFICIADORA DE CAFÉ LTDA. contra decisão que inadmitiu recurso especial, interposto com respaldo nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão do TRF da 1ª Região assim ementado (e-STJ fl. 332):
+TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÃO SOBRE A EXPORTAÇÃO DE CAFÉ. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. EXTINÇÃO DO CRÉDITO TRIBUTÁRIO.
+1. "A declaração de inconstitucionalidade da lei instituidora do tributo em controle concentrado, pelo STF, ou a Resolução do Senado (declaração de inconstitucionalidade em controle difuso) é despicienda para fins de contagem do prazo prescricional tanto em relação aos tributos sujeitos ao lançamento por homologação, quanto em relação aos tributos sujeitos ao lançamento de ofício." (REsp 1110578/SP; Relator Ministro Luiz Fux; Primeira Turma; DJ de 21/05/2010)
+2. Prescrita a ação tendo em vista que foi ajuizada em 31.10.2002 e o que se pretende é compensar o que foi recolhido até março de 1990.
+3. Apelação da Fazenda Nacional e remessa oficial a que se dá provimento.
+4. Apelação da autora prejudicada.
+Embargos de declaração rejeitados (e-STJ fls. 349/353).
+Em suas razões, a parte recorrente sustenta, além de dissídio entre julgados, ofensa aos arts. 535, II, do CPC/1973, 52, X, da CF/1988 e à resolução n. 28/2005 do Senado Federal.
+Aduz que o acórdão foi omisso quanto ao fato de que, "se a Resolução foi editada tão somente em 22.06.2005, não haveria que se falar em prescrição, pois o direito da Recorrente somente nasceria a partir dessa data. E considerando que a presente ação foi ajuizada antes desta data (em 10/2002), é indubitável que o direito da Recorrente estava integralmente resguardado" (e-STJ fl. 363).
+No mérito, assevera que "até a edição de Resolução do Senado, nos termos do art. 52, X, da CF/88 não poderia sequer cogitar de termo inicial de prescrição. Aliás, antes de a lei ser declarada inconstitucional e do Senado conferir eficácia erga omnes às decisões do STF não havia como a Recorrente pleitear a prestação jurisdicional objetivando a repetição, pois, até então, por presunção, era a lei constitucional que autorizou a instituição da quota de contribuição sobre a exportação de café" (e-STJ fl. 370).
+Requer seja afastada a prescrição e, ao final, determinada a restituição/compensação dos valores indevidamente recolhidos.
+Contrarrazões às e-STJ fls. 510/517.
+Juízo negativo de admissibilidade pelo Tribunal de origem às e-STJ fls. 580/581.
+Pois bem.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, o recurso especial se origina de ação ordinária onde a parte autora objetiva a restituição das quantias recolhidas a título de cota de contribuição nas exportações de café, no período de maio de 1986 a março de 1990, em razão da inconstitucionalidade do Decreto n. 2.295/1986.
+A sentença julgou procedente a ação.
+Ambas as partes apelaram.
+O Tribunal regional deu provimento à apelação da Fazenda Nacional e à remessa oficial e julgou prejudicado o recurso da parte contribuinte.
+Na ocasião, entendeu a Corte de origem que a ação estava prescrita, visto que "proposta a ação em 31.10.2002 com o intuito de repetir valores recolhidos até março de 1990" (e-STJ fl. 330).
+Feita tal anotação, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+O acórdão recorrido foi expresso em afirmar que "é pacífico na jurisprudência que a declaração de inconstitucionalidade de lei instituidora de tributo não tem o condão de reiniciar o prazo prescricional para eventual ajuizamento de ação de repetição de indébito, o qual continua a iniciar-se da data de extinção do crédito tributário" (e-STJ fl. 329).
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650/RJ, Relator Ministro Humberto Martins, Segunda Turma, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 20/6/2014.
+No mérito, entretanto, o recurso merece acolhimento.
+A Primeira Turma do STJ firmou a compreensão de que o termo inicial do prazo prescricional quinquenal para o ajuizamento de ação de repetição de indébito que objetive a restituição de valores referentes à "cota de contribuição do café" é a data da vigência da Lei n. 10.522/2002.
+A corroborar o julgado, trago:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA AO ART. 535 DO CPC/73. INOCORRÊNCIA. REPETIÇÃO DE INDÉBITO. "COTA DE CONTRIBUIÇÃO DO CAFÉ". ART. 18, X, E § 3º, DA LEI N. 10.522/02. CONFISSÃO DE DÍVIDA CARACTERIZADA. DEVOLUÇÃO DOS VALORES PAGOS INDEVIDAMENTE. NECESSIDADE DE REQUERIMENTO DO CONTRIBUINTE. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. VIGÊNCIA DA LEI N. 10.522/02.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - O art. 18, X, da Lei n. 10.522/02, encerra genuína confissão de dívida da União, consistente no reconhecimento legal, com efeitos pretéritos e futuros, a contar da publicação desse diploma normativo, da ilegitimidade da imposição fiscal, posteriormente confirmada pelo Supremo Tribunal Federal.
+IV - O art. 18, § 3º, da Lei n. 10.522/02, ao estabelecer que os valores pagos não serão restituídos de ofício, não veda o direito ao ressarcimento, mas dispõe, em rigor, que a devolução da quantia recolhida indevidamente ficará condicionada à apresentação de requerimento pelo contribuinte.
+V - O termo inicial do prazo prescricional quinquenal para o ajuizamento de ação de repetição de indébito que objetive a restituição de valores referentes à "cota de contribuição do café" é a data da vigência da Lei n. 10.522/02.
+VI - Agravo Interno provido para dar provimento ao Recurso Especial.
+(AgInt no AREsp 722.077/ES, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/06/2017, DJe 16/08/2017).
+TRIBUTÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. REPETIÇÃO DE INDÉBITO. "COTA DE CONTRIBUIÇÃO DO CAFÉ". ART. 18, X, E § 3º, DA LEI N. 10.522/02, COM A MODIFICAÇÃO INTRODUZIDA PELA LEI N. 11.051/04. CONFISSÃO DE DÍVIDA CARACTERIZADA. DEVOLUÇÃO DOS VALORES PAGOS INDEVIDAMENTE. NECESSIDADE DE REQUERIMENTO DO CONTRIBUINTE. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 1973.
+II - O art. 18, X, da Lei n. 10.522/02, introduzido pela Lei n. 11.051/04, encerra genuína confissão de dívida da União, consistente no reconhecimento legal, com efeitos pretéritos e futuros, a contar da última publicação do diploma alterador de 2004, da ilegitimidade da imposição fiscal, cuja inconstitucionalidade já houvera sido declarada pelo Supremo Tribunal Federal.
+III - O art. 18, § 3º, da Lei n. 10.522/02, ao estabelecer que os valores pagos não serão restituídos de ofício, não veda o direito ao ressarcimento, mas dispõe, em rigor, que a devolução da quantia recolhida indevidamente ficará condicionada à apresentação de requerimento pelo contribuinte.
+IV - A contagem do prazo prescricional quinquenal para o ajuizamento de ação de repetição de indébito referente à devolução de quantias recolhidas a título de "cota de contribuição do café" deve ter início a partir da data da publicação da última retificação da Lei n. 11.051/04, é dizer, 16.02.2005, uma vez que, a teor do disposto no art. 1º, § 4º, da Lei de Introdução às Normas do Direito Brasileiro - LINDB, "as correções a texto de lei já em vigor consideram-se lei nova", disposição aplicável ao caso, nos termos da disciplina do art. 101 do CTN.
+V - Recurso Especial provido.
+(REsp 1.556.957/ES, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/10/2018, DJe 29/10/2018).
+Nesse ponto, forçoso afastar a prescrição do direito, acolhida pela Corte regional, e determinar o retorno dos autos àquela Corte de origem para que aprecie o mérito da demanda.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial da COMERCIAL BENEFICIADORA DE CAFÉ LTDA. a fim de, reformando o acórdão recorrido, afastar a prescrição e determinar o retorno dos autos ao juízo de origem para que julgue como entender de direito .
+Publique-se. Intimem-se.
+ EMENTA
