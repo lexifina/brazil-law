@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que é suscitante SPORT CLUB DO RECIFE - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA 27ª VARA CÍVEL DE RECIFE - PE e o JUÍZO DA 13ª VARA DO TRABALHO DE RECIFE - PE.
+Ação em trâmite perante o juízo cível: recuperação judicial do suscitante.
+Ação em trâmite perante o juízo trabalhista: reclamatória nº 0000404- 19.2023.5.06.0013 ajuizada por EUNICE ARAUJO LIMA.
+Conflito de competência: alega, em síntese, que o juízo da recuperação judicial é o único competente para dispor sobre o patrimônio de empresas em processo de soerguimento. Pleiteia, liminarmente, (i) a designação do juízo da recuperação judicial para resolver as medidas urgentes; (ii) a suspensão dos atos de constrição realizados; e (iii) que o juízo laboral se abstenha de praticar novos atos constritivos.
+Tutela antecipada: deferida às fls. 1.085/1.086, e-STJ.
+Parecer do MPF: opinou pela competência do juízo recuperacional.
+RELATADO O PROCESSO, DECIDE-SE.
+A partir do julgamento do CC 199.496/CE (DJe 17/9/2024), a Segunda Seção do STJ firmou a compreensão, em relação aos créditos concursais, de que é possível a retomada de execução - proposta em face de empresa em recuperação judicial - após o exaurimento do período de blindagem quando não haja deliberação acerca do plano ou apresentação de plano alternativo pelos credores, sem que essa situação caracterize conflito de competência.
+Na espécie, observa-se que o crédito trabalhista executado decorre de relação empregatícia pactuada entre 2/1/2002 e 2/1/2023 (e-STJ, fls. 688/697), ou seja, anterior ao deferimento do processamento da recuperação judicial do suscitante, em 20/3/2023 (e-STJ, fls. 117/123), sendo, portanto, concursal.
+Verifica-se, ainda, que o período de blindagem já se exauriu e o plano de recuperação judicial apresentado ainda não foi aprovado. Com efeito, consoante se observa das informações prestadas pelo juízo do soerguimento, "a Recuperação Judicial do SPORT CLUB DO RECIFE  ..  vem tramitando de forma regular, já tendo sido publicados o 1º e 2º Edital de Credores, nos termos da Lei 11.101/2015, bem como apresentado o Plano de Recuperação Judicial pela empresa recuperanda, em face do qual foram opostas, tempestivamente, objeções, o que motivou a determinação por este Juízo de que fosse realizada a Assembleia Geral de Credores, estando em curso o prazo das Administradoras Judiciais para que informem data, horário e local para a realização do conclave" (e-STJ, fl. 1.762).
+Diante desse contexto, o prosseguimento da execução pelo Juízo trabalhista após o exaurimento do período de blindagem e sem que tenha havido a aprovação do plano apresentado pela recuperanda, nos termos da jurisprudência desta Corte, não caracteriza o alegado conflito de competência.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência e revogo a liminar anteriormente deferida.
+Publique-se. Intimem. Oficie-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E EXECUÇÃO TRABALHISTA. CRÉDITO CONCURSAL. AUSÊNCIA DE APROVAÇÃO DO PLANO DE SOERGUIMENTO. PROSSEGUIMENTO DA EXECUÇÃO TRABALHISTA. POSSIBILIDADE. CONFLITO DE COMPETÊNCIA. NÃO CONHECIMENTO.
+1. Consoante a jurisprudência do STJ, é possível a retomada das execuções individuais, inclusive as de crédito concursal, proposta em face de empresa em recuperação judicial, após o exaurimento do período de blindagem quando não haja deliberação acerca do plano ou apresentação de plano alternativo pelos credores, sem que essa situação caracterize conflito de competência. CC 199.496/CE, Segunda Seção, DJe 17/9/2024.
+2. Conflito de competência não conhecido e revogada a liminar.
