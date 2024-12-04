@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com apoio na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+Consta nos autos que os Recorridos foram condenados a 3 (três) anos e 4 (quatro) meses de reclusão, em regime aberto, e 110 (cento e dez) dias-multa, pelo delito do art. 313-A c.c. o art. 71, ambos do Código Penal, convertida a punição corporal por restritivas de direitos (fls. 370-374).
+O Tribunal federal de origem negou provimento às apelações defensivas (fls. 657-673).
+Os embargos de declaração do Ministério Público Federal e do Réu Clístenes da Silva Alves foram rejeitados (fls. 740-745).
+Nas razões do recurso especial, a Acusação aponta violação aos arts. 59 e 68, ambos do Código Penal (fls. 762), pleiteando, em suma, a elevação da pena-base pela negativação das vetoriais culpabilidade, circunstâncias e consequências do crime, sob pena de prescrição da pretensão punitiva (fls. 762).
+Aduz, em síntese, ser possível o sopesamento negativo da culpabilidade tendo em vista o alto grau de premeditação da conduta delitiva em razão da experiência de Valdiene Maria Andrade Araújo no trato de procedimentos de concessão de seguro-desemprego e a situação de líder comunitário de Clístenes da Silva Alves, que, valendo-se dessa condição, cooptava pretensos beneficiários a requerem o citado benefício com a comparsa (fls. 765-768).
+Alega, ainda, que a vetorial circunstâncias do crime também deveria ter sido considerada negativa em razão das peculiaridades do cometimento do crime, em especial, a astúcia e a articulação utilizadas para o convencimento das pessoas para procurarem a agência do SINE/IDT para dar entrada no pedido de seguro-desemprego, mediante o uso de documentação com informações inverídicas, além da estratégia utilizada para direcioná-las ao atendimento da Corré, que trabalhava na citada agência (fls. 768).
+Assevera também ser possível a negativação das consequências do crime por força dos prejuízos irreparáveis aos cofres da União, maculando a credibilidade do Ministério do Trabalho e Emprego, além de envolver recursos provenientes do Fundo de Amparo ao Trabalhador - FAT (fls. 768-771).
+A defesa apresentou contrarrazões às fls. 846-857 e 861-865, e o recurso especial foi admitido (fls. 867).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 896-902).
+É o relatório. DECIDO.
+A controvérsia trazida ao conhecimento e análise desta Corte diz respeito à necessidade e possibilidade de negativação das vetoriais culpabilidade, circunstâncias e consequências do crime.
+A Corte federal de justiça de origem superou o pleito do Ministério Público Federal de negativação das vetoriais culpabilidade, circunstâncias e consequências do crime com apoio nestas razões (fls. 668-670):
+"Quanto ao apelo do MPF, entendo que não merece prosperar.
+O Superior Tribunal de Justiça tem se posicionado no sentido de que "a escolha da sanção a ser estabelecida na primeira etapa da dosimetria é garantida ao julgador, sem a fixação de critério aritmético. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade. (..)" (AgRg no HC 604.371/AC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/11/2020, D Je 03/02/2021).
+No caso, a pena-base foi fixada, para cada réu, com motivação concreta e vinculada ao livre convencimento, estando amparada na jurisprudência pátria e sem exageros ou erronias.
+Com relação aos réus, a sentença considerou favoráveis ou neutros os requisitos previstos no artigo 59, do Código Penal, esclarecendo que seus atos, as circunstâncias e as consequências do delito não destoam daqueles esperados por quem pratica essa conduta delitiva, fixando a pena-base no mínimo legal de 02 (dois) anos de reclusão, mantida em face da ausência de atenuantes e agravantes, bem como de minorantes.
+Com relação à agravante prevista no art. 61, inciso II, alínea "g", do CP (ter o agente cometido o crime com abuso de poder ou violação de dever inerente ao cargo), nota-se que esta já está incluída na figura típica prevista no art. 313-A, do Código Penal, pois o agente pratica o crime violando os deveres do cargo ao inserir dados falsos em sistema de informação.
+ ..
+Por fim, considerando a existência de ao menos os 11 (onze) requerimentos de seguro-desemprego (documentos encontrados no SINE/IDT), a pena foi elevada em 2/3 (dois terços) a pena, somando-se àqueles 02 anos mais 01 (um) ano e 04 (quatro) meses, totalizando 03 (três) anos e 04 (quatro) meses, tornada definitiva."
+Por ocasião do julgamento dos embargos de declaração do Ministério Público, o Tribunal Regional Federal voltou a se manifestar acerca do pedido de negativação das citadas vetoriais nestes termos, no que releva (fls. 741):
+"Também não há a omissão alegada pelo no tocante à análise dos requisitos do Ministério Público Federal artigo 59 do CP na fixação da pena.
+Assim se pronunciou o julgado, no qual foi consignado que a pena fixada na sentença para cada Réu não merecia reparos, tendo motivação concreta e vinculada ao livre convencimento do sentenciante, conforme trechos que ora transcrevo:  .. "
+É possível ver das transcrições do acórdão recorrido, que o Tribunal federal de origem superou o pleito de negativação das vetoriais culpabilidade, circunstâncias e consequências do crime com apoio no fundamento de ser dado ao Juízo livre convencimento acerca da fixação do montante da pena-base, desde que devidamente motivado e de acordo com as peculiaridades do caso concreto.
+As alegaçõe s aventadas pelo Recorrente para justificar a negativação das vetoriais culpabilidade, circunstâncias e consequências do crime não foram objeto de apreciação específica, precisa e individualizada pelo Tribunal federal de origem, não obstante a oposição de embargos de declaração.
+Portanto, nesse contexto, à míngua de indicação de violação ao art. 619 do Código de Processo Penal, o óbice da Súmula n. 211/STJ impede o conhecimento do apelo nobre.
+A propósito:
+" ..
+2. A tese referente à violação ao art. 8º da Lei n. 9.296/1996 não foi efetivamente apreciada de forma específica pelo Tribunal de origem, não estando, portanto, prequestionada. Registre-se que o Tribunal a quo, embora provocado por meio de embargos declaratórios a se manifestar especificamente sobre a questão acima descrita, não a enfrentou, atraindo, na hipótese, o óbice da Súmula n. 211 do Superior Tribunal de Justiça  STJ, pois não apontada pela defesa a existência de violação ao art. 619 do CPP.
+ ..
+5. Agravo regimental desprovido." (AgRg nos EDcl no AREsp n. 2.373.833/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/9/2024, DJe de 13/9/2024.).
+Ante o exposto, nos termos do art. 255, § 4º, inciso I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
