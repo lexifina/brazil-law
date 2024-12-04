@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar impetrado em favor de RENAN CARLOS DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da apelação criminal n. 1500942-13.2024.8.26.0617.
+Consta dos autos que o paciente foi condenado, em primeira instância, às penas de 6 anos de reclusão, em regime fechado, mais pagamento de 600 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/06 (fls. 25-36).
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, conforme acórdão de fls. 17-24.
+No presente habeas corpus, o impetrante aponta constrangimento ilegal na negativa de aplicação da causa especial de diminuição do § 4º do art. 33 da Lei de drogas, alegando que a anotação criminal punida com detenção não gera reincidência em desfavor do paciente.
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para afastar a reincidência, haja vista que, o crime que a gerou é punido com detenção (art. 147, CP), estabelecendo a pena base no mínimo legas, e após o afastamento a aplicar a causa de diminuição de pena do §4º do art. 33, da Lei 11.343/06, cabendo a esta a fixação da fração em 1/6, 1/2 ou 2/3, bem como estabelecer o regime semiaberto ou ainda, o aberto, em atenção ao art. 33, §§2º e 3º do Código Penal e, nesse ponto, analisar a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, uma vez preenchidos os requisitos do art. 44, do Código Penal.
+É o breve relatório. DECIDO.
+Cinge-se a controvérsia à possível ilegalidade na utilização de anotação criminal punida com detenção como reincidência para afastar a aplicação da figura do tráfico privilegiado.
+Ocorre que o presente habeas corpus investe contra acórdão em substituição ao recurso próprio cabível, não podendo ser conhecido. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO. 1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido" (AgRg no HC n. 738.224/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023).
+" ..
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido" (AgRg no HC n. 857.913/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1/12/2023).
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, analiso a pretensão defensiva.
+Quanto ao tema, a jurisprudência desta Corte é no sentido de que "constatada pela instância ordinária a existência de maus antecedentes e/ou de reincidência, afasta-se a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, que exige que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa" (AgRg no HC n. 895.989/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/5/2024, DJe de 27/5/2024).
+É certo, ainda, que o referido dispositivo legal trata expressamente dos condenados primários, não excepcionando a reincidência derivada de delito punido com pena de detenção.
+No mesmo sentido, citam-se precedentes:
+" ..
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. Não verifico nenhuma ilegalidade a ser sanada na negativa de reconhecimento do tráfico privilegiado ao paciente, ante a ausência do primeiro requisito cumulativo exigido em Lei, que é a primariedade. Por oportuno, observo que nos termos da jurisprudência desta Corte Superior, "A reincidência, específica ou não, não se compatibiliza com a causa especial de diminuição de pena prevista § 4.º do art. 33 da Lei n.º 11.343/06, dado que necessário, dentre outros requisitos, seja o agente primário. Tal óbice e a exasperação da pena, na segunda fase, não importam em bis in idem, mas em consequências jurídico-legais distintas de um mesmo instituto" (HC n. 229.340/SP, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 5/9/2013, DJe 11/9/2013). Desse modo, qualquer tipo de reincidência impede a aplicação do referido benefício.
+3. Inalterado o montante da sanção e considerando-se a reincidência do paciente, fica mantido o regime inicial fechado e a negativa de substituição da reprimenda, por expressa determinação legal, nos termos do art. 33, § 2º, alínea "b", e art. 44, I, ambos do Código Penal.
+4. Agravo regimental não provido.
+(AgRg no HC n. 892.275/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+" ..
+1. São condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+2. Hipótese em que as instâncias ordinárias afastaram a incidência da causa de diminuição prevista no art. 33, 4.º, da Lei n. 11.343/2006 em razão da reincidência do Agravante, inexistindo constrangimento ilegal a ser sanado.
+3. O entendimento adotado pela Corte estadual está em consonância com a jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que, para a incidência da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006, é desnecessária a efetiva comprovação de que o tráfico ocorria nas entidades mencionadas no citado dispositivo legal ou que a mercancia ilícita se destinava aos respectivos frequentadores, bastando apenas que o crime seja cometido nas imediações daqueles locais.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 832.280/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
