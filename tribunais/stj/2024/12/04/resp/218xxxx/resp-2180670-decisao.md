@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, recurso especial interposto por JOSE LUIZ POLLI contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COMPLEMENTAR. PAGAMENTO POR RPV. HONORÁRIOS. EXECUÇÃO INVERTIDA. NÃO CABIMENTO.
+- Os honorários de sucumbência são devidos na fase de cumprimento de sentença, excetuados os casos de valores a serem requisitados por precatório não impugnado, e desde que não caracterizada a execução invertida, nos termos do art. 85, §§ 1º e 7º, do CPC. O mesmo raciocínio vale para a execução complementar, ou seja, serão devidos honorários em virtude da atuação do procurador em busca do pagamento complementar por meio de RPV.
+- Hipótese na qual houve a concordância do INSS com os valores complementares apresentados pela parte exequente, caracterizada a situação chamada de execução invertida, são indevidos os honorários de sucumbência.
+Não houve interposição de Embargos de Declaração.
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente alega violação ao art. 85, §7º, do CPC. Afirma que cabe a fixação de honorários advocatícios de saldo remanescente, a ser pago por RPV, mesmo quando o valor principal houver sido pago por precatório.
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+A irresignação não merece acolhida.
+O recorrente aponta que o art. 85, § 7º, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Ademais, o dispositivo legal não é capaz modificar o entendimento firmado pela Corte de origem. Desse modo, incide no caso o disposto na Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. APRECIAÇÃO. VIOLAÇÃO GENÉRICA. DISSÍDIO. NÃO COMPROVAÇÃO. DEFICIÊNCIA RECURSAL. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. SÚMULA N. 518 DO STJ. DECISÃO MANTIDA.
+1. "A pretendida análise de violação a dispositivo constitucional não encontra guarida, uma vez que a apreciação de suposta ofensa a preceitos constitucionais não é possível no âmbito desta Corte, nem à guisa de prequestionamento, porquanto matéria reservada ao Supremo Tribunal Federal, nos termos dos arts. 102, III, e 105, III, da Carta Magna" (AgRg nos EAg n. 1.333.055/SP, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 2/4/2014, DJe 24/4/2014).
+2. O Superior Tribunal de Justiça pacificou o entendimento de que a matéria contida no art. 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC) tem caráter nitidamente constitucional, razão pela qual é inviável sua apreciação em recurso especial.
+3. A parte recorrente alegou genericamente violação de dispositivos legais, sem demonstração clara e inequívoca da infração, e se limitou a elencar legislação, sem especificar quais dispositivos teriam sido supostamente ofendidos, o que caracteriza deficiência na fundamentação recursal. Inafastável a Súmula n. 284 do STF.
+4. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte recorrente não se desincumbiu, o que atrai a aplicação da Súmula n. 284 do STF quanto ao ponto.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+6. Não cabe ao STJ apreciar violação de súmula em recurso especial, pois o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, "a", da CF, ut Súmula n. 518 do STJ.
+7. Agravo interno a que se nega provimento (AgInt no AREsp n. 1.851.246/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024).
+Além disso, o Tribunal local assentou que, configurada a execução invertida do saldo complementar, não são cabíveis honorários, mesmo quando o pagamento for realizado mediante RPV, in verbis:
+Os honorários de sucumbência são devidos na fase de cumprimento de sentença, excetuados os casos de valores a serem requisitados por precatório não impugnado, e desde que não caracterizada a execução invertida, nos termos do art. 85, §§ 1º e 7º, do CPC.
+Nos casos de cumprimento de sentença complementar, o entendimento desta Corte tem sido no sentido de que se deve seguir o mesmo raciocínio, ou seja, serão devidos honorários em virtude da atuação do advogado em busca do pagamento complementar a ser feito por meio de RPV, ainda que o adimplemento do principal tenha sido feito por precatório, mesmo que não impugnado.
+ ..
+No caso em tela, contudo, verifica-se que após o pagamento do saldo principal, em julho de 2017, o autor requereu a reativação do processo originário, em 22/05/2023, para fins de execução complementar em razão do julgamento dos Temas 810 e 96 pelo STF, apresentando o cálculo dos valores que entendia devidos (evento 154, CALC7). Intimado para, querendo, apresentar impugnação, o INSS manifestou concordância com os valores complementares, no prazo que lhe foi concedido (evento 167, PET1). Dessa forma, restou caracterizada a situação chamada de execução invertida, hipótese em que são indevidos os honorários de sucumbência (fl. 27-28).
+Assim, da leitura do Recurso Especial, observa-se que não foram atacados pela parte recorrente os fundamentos acima transcritos, os quais são aptos, por si só, para manter o acórdão combatido, razão pela qual aplica-se na espécie, por analogia, o óbice da Súmula 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
