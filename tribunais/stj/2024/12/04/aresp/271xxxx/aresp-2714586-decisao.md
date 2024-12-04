@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado por Camila Monteiro de Barros de Oliveira contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 155):
+RECLAMAÇÃO. DECISÃO DO TRIBUNAL. GARANTIA. AUTORIDADE. AUSÊNCIA DE VIOLAÇÃO. OBRIGAÇÃO ESTABELECIDA. CUMPRIMENTO INTEGRAL.
+1. É cabível reclamação para garantir a autoridade das decisões do Tribunal (CPC, art. 988, II e RITJDFT, art. 196 e parágrafo único).
+2. Não há que se falar em violação à autoridade de decisão/acórdão deste Tribunal quando as obrigações determinadas foram efetivamente cumpridas, nos moldes estabelecidos.
+3. Reclamação admitida e julgada improcedente.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 6º e 24 da LINDB e 502, 525 e 536 do CPC. Sustenta que "Com base no voto transitado em julgado do Relator, que garante ao recorrente a observância da ordem de classificação, criou-se legítima expectativa do recorrente que após vencedor da lide sua posição estaria assegurada,pois, o Relator destacou a necessidade da observação da ordem de classificação, inclusive sob a incidência de multa caso não fosse efetivada a referida decisão. Ao não se manter fiel ao acórdão, proferindo decisão contrária ao que já estava transitado em julgado o novo acórdão contraria e nega vigênciadaLei Federal 4.657/42 (LINDB) em seu artigo 6º.  ..  O princípio da proteção à confiançaafirma que os atos praticados pelo Poder Judiciário sejam respeitados pelo próprio Poder Judiciário, Administração e por terceiros. O fato é que ao alterar o acórdão desvirtuou-se decisão já transitada em julgado, contrariando e negando vigência de legislação federal, especialmente aLei Federal 4.657/42 (LINDB) nos artigos 6º e 24 e a Lei Federal 13.105/15 (CPC) nos artigos 502, 525 e 536,que traduzem claramente a imutabilidade da coisa julgada e garantem a segurança jurídica. No caso concreto houve rediscussão e mudança de ato jurídico que não cabe mais recurso. Essa decisão que mudou o acórdão e decretou improcedente a Reclamação contrariou e negou vigência a dispositivo da Lei Federal 13.105/15 (CPC) em seu artigo 502." (fls. 197/199).
+Reforça que "A alteração do acórdão contraria a legislação federal vigente, especialmente a Lei Federal 4.657/42 (LINDB) nos artigos 6º e 24 e a Lei Federal 13.105/15 (CPC) nos artigos 502, 525 e 536, além do ato jurídico perfeito, direito adquirido e a coisa julgada, sendo portanto necessária a reforma do julgadoe determinar a correta classificação do recorrente." (fl. 200).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, as matérias pertinentes aos arts. 6º e 24 da LINDB e 502, 525 e 536 do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
