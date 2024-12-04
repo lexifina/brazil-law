@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AHRENDS ADVOGADOS ASSOCIADOS, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 05/08/2024.
+Concluso ao gabinete em: 07/11/2024.
+Ação: cumprimento de sentença de honorários advocatícios em ação renovatória, ajuizada por AHRENDS ADVOGADOS ASSOCIADOS em face de NEW AMAZON CONFECCAO E COMERCIO LTDA, na qual alega ter suscitado nulidade processual e requerido a emenda à inicial para inclusão da fiadora Avalon Ltda., indicada pelo locatário na ação renovatória que deu origem aos honorários de sucumbência, objeto do cumprimento de sentença. Pleiteia reforma da decisão agravada e inclusão da fiadora no polo passivo do cumprimento de sentença.
+Acórdão: negou provimento ao agravo de instrumento de AHRENDS ADVOGADOS ASSOCIADOS, nos termos da seguinte ementa (e-STJ fl. 35):
+AGRAVO DE INSTRUMENTO. LOCAÇÃO. CUMPRIMENTO DE SENTENÇA. INCLUSÃO DO FIADOR. IMPOSSIBILIDADE NO CASO CONCRETO. Caso em que se mostra descabida a inclusão, em sede de cumprimento de sentença, de parte fiadora que não integrou o polo passivo da ação de conhecimento. Inteligência do parágrafo 5º, do art. 513, CPC. Manutenção da decisão agravada. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Embargos de declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: Alega violação dos arts. 489, §1º, IV, 513, §5º e 1.022, II, do CPC; e art. 71, VI, da Lei 8.245/91, bem como dissídio jurisprudencial. Sustenta, além da negativa jurisdicional, que pela especificidade da demanda originária da ação renovatória, os fiadores podem ser incluídos diretamente no polo passivo no cumprimento de sentença sem terem, necessariamente, participado do processo de conhecimento. Requer o provimento do recurso especial para anular o acórdão recorrido ou reforma do acórdão para inclusão do fiador no cumprimento de sentença da ação renovatória (e-STJ fl. 81).
+Juízo prévio de admissibilidade: o TJ/RS inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do TJ/RS residem no argumento de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente, especialmente, no que concerne à alegação acerca da disciplina específica prevista no art. 71 da Lei nº 8.245/91 e tampouco acerca da divergência jurisprudencial em relação ao REsp 1.911.617/SP, Terceira Turma, DJe 30/8/2021, não obstante a oposição de embargos pela parte recorrente (e-STJ fls. 44-46).
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração interpostos pelo recorrente, foi omisso quanto o regramento especial da Lei do Inquilinato, bem como jurisprudência deste STJ quanto a anuência dos fiadores com a renovação do contrato, manifestada por meio da juntada de "prova de que o fiador do contrato ou o que o substituir na renovação aceita os encargos da fiança" (art. 71, VI, da Lei nº 8.245/91), que permite que estes sejam incluídos no cumprimento de sentença, ainda que não tenham participado do processo na fase de conhecimento.
+Verifica-se que as questões foram objeto de devida insurgência tanto nas razões do Agravo de Instrumento, quanto nas razões dos embargos declaratórios interpostos (e-STJ fls. 5-11 e 44-46).
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto elencado.
+Por conseguinte, tenho por prejudicada a análise das demais matérias insertas no recurso especial.
+Forte nessas razões, CONHEÇO o agravo, para CONHECER PARCIALMENTE o RECURSO ESPECIAL, e nessa extensão, DAR-LHE PROVIMENTO, com fundamento no art. 932, III e V, a , do CPC/2015, bem como na Súmula 568/STJ, para: a) anular o acórdão que julgou os embargos de declaração interpostos pela recorrente; e b) determinar a remessa dos autos ao TJ/RS, a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos elencados nos embargos de declaração opostos ao acórdão recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RENOVATÓRIA. FASE DE CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO.
+1. Ação de cumprimento de sentença de honorários advocatícios em ação renovatória.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/2015 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questões pertinentes para a resolução da lide.
+3. Agravo conhecido. Recurso especial conhecido e provido.
