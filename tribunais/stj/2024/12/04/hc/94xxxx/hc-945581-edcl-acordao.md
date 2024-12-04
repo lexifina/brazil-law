@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. IMPOSSIBILIDADE DE REDISCUSSÃO EM EMBARGOS. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão vergastado não viabiliza a oposição dos aclaratórios.
+2. Nesses termos, não verifico nenhum dos vícios constantes do art. 619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por PAULO CESAR MONTEIRO DOS SANTOS contra acórdão de minha relatoria, no qual neguei provimento ao agravo regimental interposto em adversidade à decisão na qual não conheci do writ porque substitutivo de recurso especial. Não obstante isso, ao analisar os autos, concluí que a pretensão formulada pelo impetrante encontrava óbice na jurisprudência desta Corte de Justiça e na legislação penal, sendo, portanto, manifestamente improcedente.
+Segue a ementa do acórdão:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CRIME DE RESISTÊNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. INVIABILIDADE. PACIENTE QUE OSTENTA CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E MODUS OPERANDI DA PRÁTICA DELITIVA. MEDIDA QUE NÃO É SOCIALMENTE RECOMENDÁVEL. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena e seu regime e cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. Considerando-se a existência de circunstâncias judiciais desfavoráveis ao paciente - culpabilidade e maus antecedentes - e o modus operandi da prática delitiva - resistência exacerbada à ação dos agentes públicos que tentaram capturá-lo, por estar foragido do sistema penitenciário, mediante socos, chutes, xingamentos, ameaças e outras agressões -, reputo não ser socialmente recomendável a aplicação da medida nos termos do art. 44, III, do Código Penal. Precedentes.
+3. Nesses termos, a pretensão formulada pelo impetrante encontra óbice na jurisprudência desta Corte de Justiça e na legislação penal, sendo, portanto, manifestamente improcedente.
+4. Agravo regimental não provido.
+Afirma o embargante, contudo, que a decisão embargada incorreu em omissão ao desconsiderar que, conforme o art. 44, § 3º, do Código Penal, a reincidência não específica do embargante, bem como a pena aplicada (inferior a quatro anos), não impedem, por si, a substituição por medidas restritivas de direitos (e-STJ, fl. 835).
+Ademais, assevera que o decisum não analisa o fato de o embargante já estar em regime aberto desde 2020, tendo demonstrado comportamento ressocializador. É dever desta Corte avaliar se tais elementos não mitigam a alegada falta de recomendação social, motivo pelo qual a ausência de análise configurou omissão relevante (e-STJ, fl. 835).
+Por fim, alega que há contradição, uma vez que a decisão embargada não esclarece, de forma satisfatória, quais elementos do "modus operandi" são efetivamente distintivos a ponto de justificar a negativa de substituição (e-STJ, fl. 835) da pena privativa de liberdade, por medidas restritivas de direitos.
+Diante disso, requer o processamento destes embargos aclaratórios, para que seja reformada a decisão recorrida e concedida ao embargante, a substituição de sua pena privativa de liberdade por medidas restritivas de direitos.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. IMPOSSIBILIDADE DE REDISCUSSÃO EM EMBARGOS. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão vergastado não viabiliza a oposição dos aclaratórios.
+2. Nesses termos, não verifico nenhum dos vícios constantes do art. 619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são tempestivos, contudo, não merecem ser acolhidos, pois é cediço que eles possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+Com efeito, "os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide" (EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.076.319/MG, Rel. Ministro LÁZARO GUIMARÃES, Quarta Turma, julgado em 16/8/2018, DJe 22/8/2018).
+Nesses termos, não verifico na decisão embargada nenhum dos vícios constantes do art. 619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos. De fato, a irresignação da parte com o mérito do acórdão deve ser apresentada na via própria, não se prestando os aclaratórios à rediscussão de tema já analisado e julgado por esta Corte, como na espécie.
+Ao ensejo:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONFISSÃO ESPONTÂNEA QUALIFICADA. INCIDÊNCIA. OMISSÃO. INEXISTÊNCIA. MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - Na espécie, à conta de omissão, pretende o embargante a rediscussão da matéria já apreciada tanto no julgamento do habeas corpus, quanto no julgamento do agravo regimental anteriormente opostos.
+III - A jurisprudência recente desta eg. Corte Superior firmou o entendimento de que a confissão qualificada, pela qual são suscitadas outras teses defensivas, descriminantes ou exculpantes, enseja a incidência da circunstância atenuante do art. 65, inciso III, alínea d, do Código Penal, devendo ser considerada na segunda fase da dosimetria da pena. Precedentes.
+IV - No julgamento dos ER Esp n. 1.154.752/RS, datado de 23/5/2012 (D Je 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+Embargos de declaração rejeitados (EDcl no AgInt no HC n. 423.490/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/05/2018, DJe 21/05/2018).
+PROCESSUAL PENAL E PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. MERA IRRESIGNAÇÃO. INADMISSIBILIDADE. POSSIBILIDADE DE DECRETAÇÃO DE OFÍCIO DA PRISÃO PREVENTIVA NA FASE JUDICIAL. DECISÃO FUNDAMENTADA. EMBARGOS REJEITADOS.
+1. São inadmissíveis, por inadequados, os embargos de declaração em matéria criminal quando o recorrente não imputa, à decisão embargada, efetivamente quaisquer dos vícios elencados no art. 619 do CPP, pretendendo-se em verdade apenas a modificação do julgado.
+2. Ainda que o Ministério Público não tenha pedido a prisão preventiva da paciente ao apresentar a denúncia, o art. 311 do Código de Processo Penal - CPP possibilita ao Juiz a decretação de ofício da custódia cautelar no curso do processo, por decisão fundamentada.
+3. Embargos de declaração rejeitados (EDcl no HC n. 386.837/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 27/6/2017, DJe 1º/8/2017).
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. AUSÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. INSURGÊNCIA QUANTO AO MÉRITO. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. 2. APLICAÇÃO ANALÓGICA DO ART. 28 DO CPP. MATÉRIA EFETIVAMENTE ANALISADA. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. 3. ERRO DE FATO. SUPERVENIÊNCIA DE NOVAS PROVAS. INFORMAÇÃO CONSTANTE DOS AUTOS. 4. AUSÊNCIA DE ADITAMENTO DA DENÚNCIA. ADITAMENTO DA IMPUTAÇÃO. EQUÍVOCO QUE NÃO ALTERA A CONCLUSÃO DO JULGADO. 5. PEDIDO DE MANIFESTAÇÃO EXPRESSA SOBRE NORMA CONSTITUCIONAL. VIA INADEQUADA. COMPETÊNCIA DA SUPREMA CORTE. 6. EMBARGOS ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.
+1. Os aclaratórios possuem fundamentação vinculada, dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão, que negou provimento ao agravo regimental no recurso especial, não viabiliza a oposição dos aclaratórios.
+ ..
+6. Embargos parcialmente acolhidos, sem efeitos infringentes, apenas para que, onde consta "aditamento da denúncia", se leia "aditamento da imputação" (EDcl no AgRg no RHC n. 88.337/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 14/8/2018, DJe 24/8/2018).
+Assim, há de ser mantida a decisão agravada por seus próprios fundamentos.
+Ante o exposto, rejeito os presentes embargos.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
