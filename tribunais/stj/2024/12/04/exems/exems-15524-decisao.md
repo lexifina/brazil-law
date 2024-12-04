@@ -1,0 +1,15 @@
+DECISÃO
+A UNIÃO (fls. 955-956) noticiou que procedera à anulação da portaria anistiadora objeto da presente execução mediante a edição da Portaria nº 1.455, de 4/11/2024, da Ministra de Estado dos Direitos Humanos e da Cidadania, motivo pelo qual pugna pela extinção do feito e cancelamento da ordem de pagamento respectiva.
+A propósito, recordo que a decisão de fls. 703-705, ao julgar parcialmente procedente a impugnação oposta pela UNIÃO, limitou o quantum debeatur ao valor nominal da portaria de anistia. Contra referido decisum foi interposto pelo exequente o agravo interno de fls. 708-715 e ao qual foi negado provimento (acórdão de fls. 736-741). Por fim, o recurso ordinário interposto pelo exequente não foi conhecido pela decisão de fls. 765-769, precluindo as vias impugnativas na sequência (conforme certidão de fl. 771). Assim, não há que se falar de parcela controvertida.
+Verifica-se, ainda, que a decisão de fl. 729 determinou o imediato cumprimento da acima referida decisão de fls. 703-705, tendo sido expedido, para tanto, o Prc 4824/DF (certidão de fl. 755).
+Por fim, a decisão de fls. 855-856, ao rejeitar a preliminar de inexigibilidade do título judicial, determinou o afastamento da suspensão do pagamento do precatório expedido. Em seguida, houve decurso do prazo sem que a UNIÃO interpusesse recurso (certidão de fl. 861).
+Além disso, o pedido de medida liminar pleiteado pela UNIÃO, para manter a suspensão do pagamento do precatório, restou indeferido às fls. 933-934. Novamente, a executada deixou de interpor recurso (certidão de fl. 952).
+Por fim, à fl. 957, restou certificado o seguinte:
+Certifico que o PRC n. 4824 (fl. 755), expedido em atendimento à decisão de fl. 729, foi cumprido mediante depósito em conta individual na Caixa Econômica Federal, conforme documentação juntada nos autos do respectivo requisitório vinculado a esta execução.
+Dessa forma, encontra-se prejudicado o pedido formulado às fls. 955-956 pela UNIÃO, que pretendia, em razão da invalidação do ato anistiador, a extinção da execução e o cancelamento da ordem de pagamento respectiva.
+Como o próprio Supremo Tribunal Federal assentou no julgamento do RE 817.338/DF (Tema 839), revela-se possível à Administração revisar os atos de concessão de anistia a ex-cabos da Aeronáutica com esteio na Portaria nº 1.104-GM3/1964 quando comprovada a ausência de ato com motivação exclusivamente política e desde que observado o devido processo legal. A Excelsa Corte assegurou, também, a não devolução das verbas já recebidas, sendo esse entendimento inteiramente aplicável à hipótese dos autos.
+Em verdade, a extinção do feito executivo deve ocorrer por outro motivo, a saber, pelo cumprimento do requisitório oriundo desta execução em mandado de segurança (Prc 4824/DF).
+Dessarte, diante da mencionada certidão de fl. 957, que noticia o cumprimento da requisição de pagamento relativa a estes autos, julgo extinta a execução com fundamento no art. 924, II, do CPC.
+Publique-se. Intimem-se.
+Arquivem-se.
+EMENTA
