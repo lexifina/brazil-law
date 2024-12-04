@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LUCAS VINICIUS DA COSTA TEIXEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA.
+Depreende-se dos autos que o Recorrente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do delito previsto no artigo 33, caput, da Lei n. 11.343/06.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada.
+Na hipótese, a Defesa, neste Recurso Ordinário Constitucional (fls.135-151), alega constrangimento ilegal e falta de fundamentação da manutenção da prisão. O recorrente requer o provimento do recurso, com a concessão da ordem liminarmente e no mérito, e, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 165-166.
+Informações da Tribunal estadual, às fls.194-199.
+É o relatório. Decido.
+Inicialmente, consigno que foi impetrado writ e o mesmo teve o seu pedido de urgência indeferido. Assim, impetrado AgRg no HABEAS CORPUS Nº 864612, em face de tal decisão, esta Corte não deu provimento ao agravo regimental, por não vislumbrar flagrante ilegalidade ou teratologia, incidindo a aplicação da Súmula n. 691/STF.
+No que tange ao presente feito, o recurso em comento visa à concessão da ordem liminarmente e, no mérito, e, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+De acordo com as provas dos autos, a Corte estadual manteve a prisão cautelar, consignando em sua ementa (fls.122-126) o seguinte:
+"(..) . HABEAS CORPUS- CRIME DE TRÁFICO DE DROGAS , EM TESE- PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO QUE DECRETOU A PRISÃO E NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 312 DO CPP. INOCORRÊNCIA. CIRCUNSTÂNCIA DA PRISÃO QUE EVIDENCIAM A PRÁTICA DO ART. 33, DA LEI Nº 11343/06. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. HABEAS CORPUS DENEGADO. (..) "
+Conforme informações do Tribunal Estadual, às fls.194-199:
+"constatou-se que o Habeas Corpus nº 0823283-25.2023.8.15.0000 foi julgado em sessão virtual pelos integrantes da Câmara Criminal, iniciada em 20 de novembro de 2023 e encerrada em 22 de novembro do corrente, tendo sido proferida decisão pela denegação da ordem. Na oportunidade, observou-se que as circunstâncias da prisão em flagrante indicaram que, em uma análise perfunctória, o paciente exerceu a traficância, nos termos previstos no art. 33 da Lei 11.343/06, pois ao ser abordado ele se encontrava com um embrulho de substância de grande volume de resina densa vegetal, de coloração castanho-esverdeada, semelhante à Haxixe, tendo informado".
+Segundo relato policial , o flagrante aconteceu da seguinte forma:
+" que avistaram dois homens em um carro (..); o que levantou a suspeita da guarnição", donde o subsequente procedimento de busca pessoal-veicular que redundou na descoberta de porção de substância semelhante a haxixe, "embalada em papel filme, no piso do carro do motorista". De sua parte, o policial Mario George Oliveira Ribeiro declinou que "fazia rondas de rotina na Avenida Ruy Carneiro, próximo ao MacDonald"s, quando avistaram dois homens em um carro estacionado ali na área da lanchonete"; em prosseguimento, relatou que "os militares estranharam o fato deles não terem descido do carro, o que levantou a suspeita da guarnição", seguindo-se disto a busca pessoal-veicular e a subsequente prisão em flagrante".
+Tecidas essas considerações sobre a narrativa dos fatos, não vislumbro ilegalidade a ser sanada no presente recurso.
+Sobre o tema: "O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, D Je 26/10/2017)."
+Pela leitura dos autos, a gravidade concreta no caso em exame foi fundamentada na grande quantidade de drogas (haxixe) e no modus operandi, ou seja, a droga foi encontrada dentro de um carro de aplicativo e de forma escondida .
+Ora,  compulsando os autos, é sabido que o conhecimento prévio de informações por policiais e fundada suspeita sobre a situação de flagrância justifica a busca veicular.
+De  mais  a  mais,  iterativa  a  jurisprudência  deste  Superior  Tribunal  de  Justiça  no  sentido  de  ser  imprópria  a  via  do  habeas  corpus  (e  do  seu  recurso)  para  a  análise  de  eventual  tese  defensiva  que  demande  incursão  no  acervo  fático-probatório.
+Há precedentes da Quinta Turma no sentido de que "Desconstituir as conclusões da instância ordinária a respeito da dinâmica do flagrante demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus". (AgRg no HC n. 708.314/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/10/2022, DJe de 19/10/ 2022.)
+Portanto, não há ilegalidade no decreto de segregação, visto que a concretude da gravidade está devidamente fundamentada na decisão e também não há excesso de prazo para justificar a soltura do réu, não cabendo ainda a aplicação das medidas cautelares diversas da prisão.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, conheço em parte do recurso e, na parte conhecida, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
