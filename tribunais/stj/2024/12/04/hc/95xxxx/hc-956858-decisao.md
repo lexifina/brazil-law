@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de ROGERSON CORREA ARENA - condenado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 9ª Vara Criminal do Foro Central da comarca de Porto Alegre/RS (Ação Penal n. 5091614-41.2020.8.21.0001), ao argumento de que a busca pessoal que ensejou a prisão em flagrante não foi precedida de fundada suspeita da prática de crime.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a busca pessoal se encontra fundada no fato de o paciente ter mudado de direção ao avistar a guarnição policial, além de não ter logrado explicar o motivo de sua presença na rodoviária às 4 horas da manhã (fl. 82).
+No mesmo sentido: a busca pessoal foi realizada com base em comportamento suspeito do paciente, que tentou mudar abruptamente de direção ao avistar a viatura policial, justificando a suspeita de que portava objetos ilícitos. Tal circunstância atende ao requisito de fundada suspeita previsto no art. 244 do Código de Processo Penal, sendo idônea a prova obtida (HC n. 926.476/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 12/11/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA. EXISTÊNCIA. MUDANÇA ABRUPTA DE DIREÇÃO APÓS AVISTAR A VIATURA POLICIAL, FATO OCORRIDO NA MADRUGADA EM UMA RODOVIÁRIA E INEXISTÊNCIA DE EXPLICAÇÃO A RESPEITO DO MOTIVO DA PRESENÇA NO LOCAL. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
