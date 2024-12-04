@@ -1,0 +1,35 @@
+DECISÃO
+ALAN CARLOS DIAS alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2231506-73.2023.8.26.0000.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 2º, caput, da Lei n. 12.850/2013.
+A defesa aduz, em síntese, que a decisão que deferiu a medida de busca e apreensão domiciliar carece de fundamentação idônea.
+Requer, assim, "a concessão da ordem, fazendo cessar o constrangimento ilegal a que está submetido o paciente, para reconhecer a ilicitude/ilegalidade dos elementos obtidos por meio de decisão carente de fundamentação, e de todos os elementos de informação dela decorrentes, devendo tais elementos e os deles decorrentes serem desentranhados dos autos, nos moldes da teoria dos frutos da árvore envenenada" (fls. 9-10).
+O Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 77-78).
+Decido.
+I. Busca domiciliar - necessidade de fundamentação idônea
+Consoante imposição do art. 93, IX, primeira parte, da Constituição da República de 1988, "todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade", exigência que funciona como garantia da atuação imparcial e secundum legis (sentido lato) do órgão julgador. Presta-se a motivação das decisões jurisdicionais a servir de controle, da sociedade e das partes, sobre a atividade intelectual do julgador, para que verifiquem se este, ao decidir, considerou todos os argumentos e as provas produzidas pelas partes e se bem aplicou o direito ao caso concreto.
+À luz do referido comando constitucional, é necessária fundamentação idônea a justificar a medida de busca e apreensão, mediante demonstração da presença de indícios de autoria e da existência de fundadas razões (art. 240, § 1º, do CPP), a fim de evidenciar a necessidade da medida naquele estágio da persecução penal.
+Para tanto, admite-se a chamada fundamentação per relationem, desde que o juiz, ao reportar-se a fundamentação e a argumentos alheios, ao menos os reproduza e os ratifique, com acréscimo de seus próprios motivos. Confira-se, a propósito:
+ ..
+1. A Terceira Seção deste Casa, no julgamento do Habeas Corpus n. 216.659, concluiu que a mera transcrição do parecer ministerial não é suficiente para assegurar o compromisso constitucional de fundamentação das decisões judiciais, delineado no art. 93, inciso IX, da Constituição Federal. 2. Na espécie, verifica-se a total falta de fundamentação do acórdão, uma vez que o voto condutor apenas fez menção a trechos do parecer do Ministério Público, para embasar a sua conclusão, sem tecer nenhuma consideração autônoma acerca das questões levantadas no recurso de apelação. Precedentes. 3. Agravo regimental desprovido.
+(AgInt no AREsp n. 1.197.859/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 13/11/2018, destaquei)
+II. O caso dos autos
+Na hipótese dos autos, a busca domiciliar foi deferida com base nos seguintes fundamentos (fls. 110-111, grifei):
+Trata-se de pedido de busca e apreensão formulado pelo representante do - GAECO, onde se noticia que os investigados Leandro Rodrigues da Silva, vulgo "Boy, Nandinho ou Nando", e Alan Carlos Dias estariam cometendo os crimes de organização criminosa, associação para o tráfico e tráfico de entorpecentes, conforme fundamentos proferidos na decisão de decretação de prisão temporária de ambos .
+Decido.
+A Constituição Federal em seu artigo 5º, inciso XI, estabelece que "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;"
+De outro lado, nenhum direito fundamental pode ser usado como garantia de impunidade para a prática de atividades ilícitas, razão pela qual os direitos fundamentais não são tidos como absolutos ou ilimitados. (Holthe 2010, pg 350)
+Portanto, fora dos casos excepcionados na própria Constituição Federal, a regra é que a violação da casa de alguém seja determinada por mandado judicial de busca e apreensão.
+Considerando os fatos narrados no requerimento formulado pelo Ministério Público referente aos locais onde se efetuarão as buscas, estando presentes os requisitos previstos no artigo 240 do Código de Processo Penal, e, sobretudo na busca dos interesses de apuração e repressão de efetivas infrações penais, DEFIRO a(s) diligência(s) requerida(s).
+Noto, portanto, que a decisão faz menção aos fundamentos da decisão de decretação da prisão temporária, que, por sua vez, foi assim motivada (fls. 168, destaquei):
+Trata-se de requerimento de prisão temporária formulado pelo representante do Ministério Público - GAECO em desfavor de ALAN CARLOS DIAS e LEANDRO RODRIGUES DA SILVA, bem como deferimento de realização de BUSCA e APREENSÃO domiciliar, conforme documentação apresentada.
+É O RELATÓRIO. DECIDO.
+Defiro os requerimentos do M.P. para o fim de DECRETAR A CUSTÓDIA TEMPORÁRIA dos averiguados e Busca e Apreensão (este decisão em apartado).
+Ab initio, ressalto que a hipótese se insere dentre aquelas previstas no art. 1º, e incisos, da Lei n. 7.960/89, existindo fortes indícios de autoria e de participação nos crimes de organização criminosa, associação para o tráfico e tráfico de drogas com atuação na cidade de Franca/SP, sendo integrantes do alto escalão da cúpula do PCC, crimes cuja natureza são gravíssimos, circunstâncias necessárias e suficientes para a decretação da medida.
+Não obstante os indícios de autoria, algumas diligências ainda são necessárias, conforme demonstrado pelo Ministério Público, resultando daí a imprescindibilidade da cautela pessoal para conclusão das investigações, como a realização das buscas solicitadas, podendo os investigados empreenderem fuga o que inviabilizará eventuais interrogatórios, acareações e produção de demais provas e perícias de objetos eventualmente apreendidos.
+Observo, portanto, que a decisão destacou haver fortes indícios de autoria e participação dos investigados nos crimes de organização criminosa, associação para o tráfico e tráfico de drogas no município de Franca - SP, como integrantes do alto escalão da cúpula do PCC.
+A representação referenciada nas decisões (fls. 26-57) contém a pormenorização dos indícios de que o paciente atuava como comparsa do então coinvestigado nos crimes mencionados, em decorrência de elementos obtidos em prévia interceptação telefônica de ambos.
+Assim, tendo em vista o apontamento dos indícios de autoria e participação do paciente nos crimes apurados e referenciados na decisão (fundadas razões), não se mostrou arbitrária a decisão que deferiu a busca domiciliar. Não se trata de decisão genérica, tampouco de decisão lastreada em fundamentação exclusivamente per relationem. Logo, inviável a anulação pleiteada, notadamente nesta estreita via, já depois do trânsito em julgado da sentença condenatória.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
