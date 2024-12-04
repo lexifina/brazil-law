@@ -1,0 +1,80 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO interpõe recurso especial contra acórdão proferido pelo Tribunal de Justiça daquele Estado na Apelação n. 0804738-21.2023.8.19.0023.
+O recorrente aponta violação dos arts. 383, 384 e 617 do Código de Processo Penal e 37 da Lei n. 11.343/2006.
+Afirma que a "denúncia narrou todos os fatos necessários e suficientes à condenação pelo crime previsto no artigo 37 da Lei n o 11.343/2006, não sendo mister alterar os fatos narrados na peça inicial para o seu reconhecimento, mas apenas suprimir a elementar não comprovada (estabilidade na associação)" (fl. 66).
+Sustenta que "não procede a assertiva do v. acórdão de que modificar a imputação do artigo 35 da Lei n o 11.343/2006 para aquela descrita no artigo 37 do mesmo diploma legal é violar o princípio da correlação, pois o réu se defende dos fatos imputados na denúncia (no caso, não há qualquer dúvida da descrição do crime do artigo 37 da Lei no 11.343/2006)" (fl. 67).
+Requer o provimento do recurso para que seja "reformado o v. acórdão recorrido, com o consequente retorno dos autos para que a C. Câmara Criminal julgadora fixe a pena do réu pelo cometimento do crime do artigo 37 da Lei nº 11.343/2006, delito este reconhecido pelo v. acórdão recorrido como tendo sido aquele praticado" (fl. 68).
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal, em parecer do Subprocurador-Geral da República Roberto Luís Oppermann Thomé, manifestou-se pelo seu provimento a fim de admitir a desclassificação da conduta para o tipo penal previsto no art. 37 da Lei de Drogas.
+Decido.
+A Corte estadual negou provimento ao apelo do Ministério Público e manteve a absolvição do réu, sob a seguinte motivação (fls. 26-29, grifei):
+Consta da inicial (PJe índice 59623682) que foi recebida em 06/06/2023 (PJe índice 61871654) que:
+"(..) No dia 11 de Maio de 2023, por volta das 4h55min, na Rua Nove, altura do nº 233, no bairro Ampliação, em Tanguá, O DENUNCIADO, consciente e voluntariamente, associou-se a outros indivíduos ainda não identificados, para o fim de praticar delitos relacionados ao tráfico de drogas, eis que colaborava como informante, passando informações a traficantes através de radiocomunicador, cor preta, da marca Baofeng, apreendido conforme auto de índex nº 57828644.
+Consta nos autos que no dia dos fatos, por volta das 4h55min, os policiais militares Vagner de Souza Gomes e João Paulo Augusto Cordeiro estavam em patrulhamento de rotina na viatura nº 54-0580 quando, ao passarem pela Rua Nove, altura do nº 233, no bairro Ampliação, em Tanguá, avistaram o ora DENUNCIADO, JONATHAN SOUZA DA CUNHA, sentado, dormindo, sobre o aparelho de radiocomunicador de cor preta, da marca Baofeng, apreendido conforme auto de índex nº 57828644.
+O aparelho de radiocomunicador estava ligado e funcionando na frequência dos companheiros de crime daquela comunidade.
+Os policiais imediatamente fizeram a devida abordagem, pelo que o ora DENUNCIADO confessou que estava participando do tráfico de entorpecentes local há uma semana, comunicando seus companheiros da presença policial através do rádio ora apreendido.
+O DENUNCIADO informou ainda que local em que se encontrava é ponto estratégico para informar os traficantes da região sobre a movimentação de pessoas daquela comunidade.
+Assim agindo, o denunciado está incurso na pena do artigo 35 da Lei 11.343/06 (..)"
+Depreende-se dos depoimentos supracitados, que os Policiais Militares afirmaram que encontraram o acusado, durante patrulhamento de rotina na posse de um rádio transmissor. Nessa ocasião, o apelante teria confessado extrajudicialmente sua participação no tráfico como "radinho".
+Por sua vez, em seu interrogatório, o acusado permaneceu em silêncio.
+A meu ver, a dinâmica do flagrante apenas indiciou que o acusado estava na posse de um rádio transmissor, praticando, em tese, a função de "radinho", ou seja, ele seria uma informante do tráfico.
+O Magistrado sentenciante fundamentou a decisão condenatória pelo delito de associação para o tráfico a partir das declarações dos policiais militares e das circunstâncias fáticas da prisão, aduzindo que o apelante possui ligação efetiva com a facção criminosa responsável pelo comércio de drogas na região em que foi flagrado.
+Concessa maxima venia, considerar somente o local do flagrante para sustentar uma condenação por um determinado crime não é o melhor caminho.
+No caso em tela, não verifico a presença de indícios concretos que ele mantivesse vínculo estável e permanente com outros indivíduos daquele local para a prática do crime descrito no artigo 33, da Lei 11.343/06.
+Frise-se, com ele apenas foi apreendido um rádio transmissor e nada evidencia que essa atividade era realizada há um tempo razoável a configurar a permanência e estabilidade exigidas pelo artigo 35, da Lei 11.343/06.
+Neste mesmo sentido, o Parecer da douta Procuradora de Justiça, que fica fazendo parte deste voto (peça 000008):
+"(..) Todavia, nenhum desses depoimentos é capaz de comprovar a conduta de associação do réu para praticar, reiteradamente ou não, o crime de tráfico de drogas.
+Ele mesmo supostamente teria afirmado informalmente que estaria trabalhando no tráfico local como informante somente há uma semana.
+Assim, não há nos autos provas da habitualidade necessária para a condenação no crime de associação para o tráfico de drogas.
+O encontro eventual entre traficantes (sendo certo que nem mesmo se comprovou que o réu era traficante) não caracteriza a associação criminosa, sendo necessárias, para a Lei, estabilidade e permanência.
+Os depoimentos colhidos em sede judicial não foram capazes de comprovar a estabilidade e permanência do réu em associação criminosa voltada para a prática de tráfico de drogas, uma vez que, em resumo, os policiais somente puderam atestar que o réu, estava em uma comunidade com rádio comunicador ligado na frequência do tráfico. Logo, sua conduta se amolda no art. 37, da Lei 11.343/06.
+(..)"
+"(..) No processo penal brasileiro o réu se defende dos fatos descritos na denúncia e, no caso dos presentes autos, não há na Denúncia a descrição da conduta tipificada no art. 37, da Lei 11.343/06, ou seja, não há imputação do delito de colaboração para o tráfico. Logo, o réu não pode ser condenado pelo mesmo, com base nos princípios da ampla defesa e da correlação entre a denúncia e a condenação.
+Tão pouco há que se falar em subsidiariedade entre os delitos de associação e de colaboração para o tráfico de drogas, uma vez que o reconhecimento de um necessariamente exclui o do outro. Explicamos.
+Dispõe o art. 37, da Lei 11.343/06:
+"Art. 37. Colaborar, como informante, com grupo, organização ou associação destinados à prática de qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei:
+Pena - reclusão, de 2 (dois) a 6 (seis) anos, e pagamento de 300 (trezentos) a 700 (setecentos) dias-multa." (grifos nossos).
+Dispõe o art. 35, da Lei 11.343/06:
+"Art. 35. Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1o, e 34 desta Lei:
+Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 700 (setecentos) a 1.200 (mil e duzentos) dias-multa.
+Parágrafo único. Nas mesmas penas do caput deste artigo incorre quem se associa para a prática reiterada do crime definido no art. 36 desta Lei."
+Assim, pela leitura comparada dos dois artigos percebe-se que em um (art. 37) o indivíduo comete crime ao, como informante, colaborar com grupo ou associação criminosa que pratica os crimes dos art. 33 e 34, da Lei 11.343/06.
+Já no outro (art. 35), o indivíduo comete crime ao pertencer à associação ou à organização criminosa que pratica os crimes dos art. 33, 34 e 36, todos da Lei 11.343/06.
+Pelo exposto, conclui-se que ou o indivíduo não é associado e colabora com a associação como um informante, agente externo ou ele já pertence, é associado e, neste caso, a sua colaboração se dá como agente interno. Assim, impossível a desclassificação entre os crimes por ferir o princípio da correlação já que os fatos elementares dos delitos são diversos, devendo o réu restar absolvido."
+Em suma, não há elementos suficientes caracterizadores do crime de associação e inviável a desclassificação por ferir o princípio da correlação, já que os fatos elementares dos delitos são diversos, conforme destacado pela ilustre Procuradora de Justiça.
+Destarte, diante do contexto probatório, subsistem dúvidas que devem ser interpretadas em favor da defesa, impondo-se a absolvição do apelante.
+Reputo por não violados preceitos legais ou constitucionais.
+Recurso conhecido e provido, para absolver o acusado, com fulcro no art. 386, inciso VII, do CPP.
+No recurso especial que ora se examina, cinge-se a controvérsia a determinar se as circunstâncias fáticas que configuram o delito do art. 37 da Lei n. 11.343/2006 estavam descritas na denúncia e, por conseguinte, seria cabível a atribuição de nova capitulação jurídica em segunda instância, por se tratar de emendatio libelli.
+Para melhor análise da questão sub examine, transcrevo, por oportuno, o disposto no art. 37 da Lei n. 11.343/2006, in verbis:
+Art. 37. Colaborar, como informante, com grupo, organização ou associação destinados à prática de qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei:
+PENA - reclusão, de 2 (dois) a 6 (seis) anos, e pagamento de 300 (trezentos) a 700 (setecentos) dias-multa.
+O tipo penal em questão possui caráter subsidiário, incidindo, portanto, apenas quando não ficar evidenciada a prática de crime mais grave. Assim, tratando-se de agente que participa do próprio delito de tráfico ou de associação para o narcotráfico, a conduta consistente em colaborar como informante já é inerente aos tipos penais mencionados, não sendo o caso de incidência do art. 37.
+Em outros temos, se o indivíduo colabora com o grupo prestando informações de forma esporádica, eventual, sem vínculo efetivo, a conduta será a descrita no art. 37. Entretanto, se o agente mantém vínculo, envolvimento, conhece e participa da rotina, a conduta configurará outras figuras como o tráfico ou a associação, nas modalidades de autoria ou de participação.
+Ademais, a norma incriminadora tem como destinatário o agente que colabora, de forma não estável, como informante de grupo, organização criminosa ou associação destinados à prática de qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei n. 11.343/2006.
+Para deixar clara a subsidiariedade do delito previsto no art. 37 em relação àquele descrito no art. 35 da Lei de Drogas (associação para o narcotráfico), faço menção ao seguinte trecho de voto do HC n. 224.849/RJ (5ª T., DJe 19/6/2013), de relatoria do Ministro Marco Aurélio Bellizze:
+Resolve-se, assim, referida celeuma, pelo princípio da subsidiariedade, considerando-se o crime do art. 37 da Lei de Drogas, na expressão de Nelson Hungria, verdadeiro "soldado de reserva". Dessa forma, sua aplicação só é possível se não ficar demonstrada a prática do crime mais grave.
+Conforme elucida Rogério Greco, "na ausência ou impossibilidade de aplicação da norma principal mais grave, aplica-se a norma subsidiária menos grave. É a aplicação do brocardo lex primaria derrogat legi subsidiariae". (Curso de Direito Penal. 5. ed. Rio de Janeiro: Impetus, 2005. p. 30.)
+ ..
+Dessa forma, conclui-se que só pode ser considerado informante, para fins de incidência do art. 37 da Lei de Drogas, aquele que não integra a associação nem é coautor ou partícipe do delito de tráfico. De fato, a lei excepcionalmente excluiu da subsunção típica dos arts. 33 e 35 da Lei nº 11.343/2006 apenas o agente que tão somente colabora como informante, desde que demonstrado se tratar de extraneus à associação ou ao tráfico. Ademais, conforme lição de Ricardo Antonio Andreucci, "o agente deve atuar somente como informante. Se participar do crime de alguma outra forma, será partícipe ou coautor do tráfico". (Legislação penal especial. 8. ed. atual. e ampl. São Paulo: Saraiva, 2011. p. 266.)
+No caso, a denúncia havia delimitado que a participação do ora recorrido na prática ilícita se dava na forma de "olheiro", "eis que colaborava como informante, passando informações a traficantes através de radiocomunicador, cor preta, da marca Baofeng " (fl. 161, grifei).
+Vê-se, portanto, que os elementos caracterizadores do tipo penal do art. 37 da Lei n. 11.343/2006 foram descritos na inicial acusatória.
+Logo, eventual mudança na capitulação jurídica dos fatos não decorreria de prova constante dos autos ou de circunstância da conduta não descrita na inicial.
+Não se verifica, na hipótese, o instituto da mutatio libelli, previsto no art. 384 do Código de Processo Penal, conforme consignado no julgado. Este ocorre, nas palavras de Eugênio Pacelli e Douglas Fischer: "a partir do reconhecimento da existência de provas que, em princípio, indicariam a presença de outros fatos e/ou circunstâncias, suficientes para alterar, de modo relevante, a acusação inicial" (Comentários ao Código de Processo Penal e sua Jurisprudência. 8 ed. rev., atual. e ampl. - São Paulo: Atlas, 2016, p. 845, grifo no original).
+Ainda nas palavras desses doutrinadores, nessa mesma obra: "Não se exige sequer que a acusação deva apontar com rigoroso acerto o tipo penal aplicável aos fatos que narra e imputa ao réu. Se a classificação foi equivocada, poderá o juiz corrigi-la, como analisado ao exame do dispositivo anterior"  art. 383 do CPP - emendatio libelli .
+A jurisprudência desta Corte é firme em assinalar: "o acusado se defende dos fatos narrados na denúncia e não da capitulação legal nela contida, sendo permitido ao órgão julgador conferir-lhes definição jurídica diversa, conforme dispõe o art. 383 do Código de Processo Penal" (RHC 131.086/PB, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 14/09/2020, grifei).
+Além disso, o posicionamento consolidado do Superior Tribunal de Justiça é pela possibilidade de emendatio libelli em segunda instância, ainda que no julgamento de recurso exclusivo da defesa. Confira-se:
+ ..
+2. O entendimento desta Corte é "no sentido de que a emendatio libelli pode ser aplicada em segundo grau, desde que nos limites do art. 617 do Código de Processo Penal, que proíbe a reformatio in pejus" (HC 437.730/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018).
+3. Na hipótese, não restou configurada reformatio in pejus pelo Tribunal de origem, ao aplicar a emendatio libelli a fim de reconhecer a prática do crime de facilitação ao contrabando, uma vez que não houve alteração dos fatos delineados na sentença.
+4. Agravo regimental improvido.
+(AgRg no HC n. 745.716/PR, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 11/11/2022, destaquei)
+ ..
+2. É cabível a emendatio libelli em segundo grau de jurisdição, ainda que sem recurso ministerial, desde que o Tribunal se atenha aos fatos declinados na sentença e não haja piora da situação do réu. Observados esses requisitos, não há reformatio in pejus. Precedentes.
+3. Não se aplica a atenuante da confissão quando não há a mínima admissão dos fatos, ainda que de forma parcial ou qualificada, pelo réu.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.010.255/PR, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 10/5/2022, grifei)
+Assim, porque constatada a impossibilidade de aplicação da norma penal mais grave, a solução a ser adotada é a incidência da norma subsidiária menos grave (art. 37), e não a absolvição do réu, como, equivocadamente, decidiu a Corte estadual.
+À vista do exposto, dou provimento ao recurso especial, para, reconhecida a possibilidade de desclassificação da conduta para o delito descrito no art. 37 da Lei de Drogas, determinar o retorno dos autos ao Tribunal de Justiça do Estado do Rio de Janeiro, a fim de que prossiga no julgamento da Apelação Criminal n. 0804738- 21.2023.8.19.0023.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
