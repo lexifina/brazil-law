@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus impetrado em favor de Natalia de Paiva Lino contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que decretou sua prisão preventiva.
+A defesa requer o provimento do presente Recurso Ordinário Constitucional para reformar a decisão denegatória de liberdade e aplicação das medidas cautelares.
+Cabe consignar que houve impetração de Habeas Corpus n. 910261 conexo a este feito com trânsito em julgado.
+Consta dos autos do referido HC n. 910261 que a paciente foi inicialmente condenada pelo Juízo da 1ª Vara da Comarca de São Paulo, por incursão no artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, ao cumprimento de 6 (seis) anos, 11 (onze) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e ao pagamento de 16 (dezesseis) dias-multa.
+Vale ressaltar que a defesa interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso. Sobreveio a impetração do referido habeas corpus conexo a este feito objetivando a concessão da ordem para substituir o regime inicial fechado pelo semiaberto. A ordem foi negada e já transitou em julgado, como já salientado.
+Em relação a este Recurso o debate jurídico é contra a decretação da prisão preventiva, por suposta ausência de fundamentação.
+Sem pedido de liminar.
+O Ministério Público Federal opina pelo não provimento do presente recurso ordinário.
+É o relatório. DECIDO.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada, pela prática do delito de roubo qualificado .
+Na hipótese, a defesa alega a existência de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a prisão cautelar.
+De acordo com peças dos autos, a ré foi condenada pela prática de crime de roubo majorado pelo concurso de agentes e emprego de arma de fogo, praticado em 1º de julho de 2023, por volta das 20h20 min, na Rua Eugênio Bosser, altura do nº 146, Jardim Sapopemba, SP.
+O crime em questão é violento, concretamente grave e causa repulsa perante o corpo social, recomendando-se a custódia cautelar para a garantia da ordem pública, até como forma de garantia do primado da lei. O Juiz a quo fundamentou sua decisão de forma devida ao aduzir que custódia seria imprescindível para resguardo da ordem pública (artigo 312 do CPP).
+Segundo entendimento do Excelso Supremo Tribunal Federal, a garantia da ordem pública como motivo da prisão preventiva "envolve, em linhas gerais, as seguintes circunstâncias principais: a) necessidade de resguardar a integridade física do paciente; b) objetivo de impedir a reiteração das práticas criminosas, desde que lastreado em elementos concretos expostos fundamentadamente no decreto de custódia cautelar; e c) propósito de assegurar a credibilidade das instituições públicas, em especial o Poder Judiciário, no sentido da adoção tempestiva de medidas adequadas, eficazes e fundamentadas quanto à visibilidade e transparência da implementação de políticas públicas de persecução criminal" (HC no 88905, in Informativo de Jurisprudência no 440).
+De outro lado, não obstante a instrução processual já tenha sido encerrada com a prolação da sentença condenatória em desfavor da Recorrente a uma pena de 6 (seis) anos, 11 (onze) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e ao pagamento de 16 (dezesseis) dias-multa, conforme relatado no feito conexo, o fato é que no presente recurso a controvérsia judicial cinge-se a legalidade da fundamentação do decreto cautelar.
+No caso dos autos, constato que a prisão preventiva foi devidamente justificada na garantia da ordem pública, em especial, na gravidade concreta da empreitada delitiva, com o uso de arma de fogo e em concurso de agentes.
+Sobre o tema: "O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, D Je 26/10/2017)."
+De mais a mais, iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de eventual tese defensiva que demandem incursão no acervo fático-probatório.
+Portanto, não há ilegalidade no decreto de segregação, visto que a concretude da gravidade está devidamente fundamentada na decisão, não cabendo ainda a aplicação das medidas cautelares diversas da prisão.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, conheço em parte do recurso e, na parte conhecida, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime m-se.
+EMENTA
