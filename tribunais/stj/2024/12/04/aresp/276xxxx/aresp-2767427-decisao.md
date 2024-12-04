@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo interposto por GOLDFARB 8 EMPREENDIMENTO IMOBILIARIO LTDA, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de GOLDFARB 8 EMPREENDIMENTO IMOBILIARIO LTDA, verifica-se que há divergência entre o número constante no código de barras da guia de preparo e seu respectivo comprovante de pagamento.
+Registre-se que este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Ademais, percebeu-se, no STJ, ; haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, conforme decisão de fl. 578/580.
+Ainda, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Recurso Especial, Dr. Thiago Bragança.
+O substabelecimento juntado aos autos, que outorgaria poderes ao referido causídico para representar a parte, segundo asseverado na decisão de inadmissão do Recurso Especial, apresenta assinatura sem validade, uma vez que a rubrica nela constante é apenas uma assinatura digitalizada ou escaneada, e não uma assinatura digital.
+Registre-se que "a jurisprudência do STJ é firme no sentido ser inadmissível assinatura digitalizada ou escaneada no instrumento procuratório, por se tratar de mera inserção de imagem em documento, ensejando o não conhecimento do recurso assinado pelo advogado por ausência de poderes de representação nos autos". (AgInt no AREsp 1372728/PE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28.10.2019.)
+Ademais, "a reprodução de uma assinatura, por meio do escaneamento, sem qualquer regulamentação, é arriscada na medida em que pode ser feita por qualquer pessoa que tenha acesso ao documento original e inserida em outros documentos. Não há garantia alguma de autenticidade, portanto. A aplicação do princípio da instrumentalidade das formas, invocado pelas recorrentes, deve encontrar limites exatamente no princípio da segurança jurídica. Não se trata de privilegiar a forma pela forma, mas de conferir aos jurisdicionados, usuários das modernas ferramentas eletrônicas, o mínimo de critérios para garantir a autenticidade e integridade de sua identificação no momento da interposição de um recurso ou de apresentação de outra peça processual". (REsp n. 1.442.887/BA, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 14.5.2014.
+Outrossim, percebeu-se, no Tribunal a quo, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Dessa forma, o recurso especial não foi devido e oportunamente preparado e a representação processual do recurso não foi regularizada, incidindo, na espécie, o disposto nas Súmulas n.º 187 e n.º 115 do STJ.
+Além disso, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 24.02.2022, sendo o Recurso Especial interposto somente em 22.03.2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+ EMENTA
