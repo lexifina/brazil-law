@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS MOTA FLORES contra a decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial.
+O agravante foi condenando, como incurso nas sanções dos arts. 155, § 4º, incisos I e IV, e 297, ambos do Código Penal, à pena de 5 (cinco) anos, 6 (seis) meses e 3 (três) dias de reclusão, em regime inicial fechado, e ao pagamento de 26 (vinte e seis) dias-multa (fls. 227-235).
+O Tribunal de origem deu parcial provimento ao apelo defensivo, a fim de absolver o recorrente, com fulcro no art. 386, inciso III, do Código de Processo Penal, do delito previsto no art. 297, do CP, mantendo-se inalterado os demais termos da sentença (fls. 297-319).
+Inconformado, o agravante interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 157 do CPP, em razão da ilicitude da prova obtida através de busca pessoal (fls. 327-335).
+O recurso foi inadmitido na origem devido à incidência da Súmula n. 7, STJ (fls. 348-349).
+No presente agravo, a defesa sustenta que a análise da pretensão recursal não demandaria o reexame de provas, mas tão somente a revaloração jurídica dos fatos já delineados no acórdão recorrido (fls. 352-357).
+Em contrarrazões, o Ministério Público do Estado de São Paulo pugna pelo não conhecimento do agravo em recurso especial e, caso conhecido, seja negado provimento (fls. 360-361).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 375-380).
+É o relatório. DECIDO.
+A controvérsia se restringe à análise de eventual ilicitude da prova produzida por meio de busca pessoal.
+A defesa sustenta a nulidade da busca pessoal realizada no agravante, ao argumento de que inexistia justa causa para a abordagem pelos policiais militares. Contudo, o Tribunal de origem consignou, de forma concreta e fundamentada, a legitimidade da revista pessoal, tendo em vista que o agravante, ao ser abordado pelos policiais, empreendeu fuga e, em seguida, ao ser encontrado, foi localizado em seu poder o módulo do alarme pertencente ao veículo da vítima. Veja-se (fls. 300-301):
+"Inviável pretender-se o reconhecimento da nulidade do processo, devido à "ausência de fundadas suspeitas para abordagem, com a consequente invalidação de todo o acervo probatório posterior a abordagem do ape lante" (fls. 266).
+A propósito, pelos percucientes fundamentos, aos quais nada é necessário acrescentar, adoto como razões de decidir a manifestação exarada, em sede de contrarrazões, pelo órgão do Ministério Público oficiante em Primeira Instância, verbis:
+"Preliminarmente, não há que se falar em nulidade das provas obtidas a partir da abordagem do denunciado, a qual foi legal e embasada em fundadas suspeitas da prática de crime, conforme artigo 240, §2º, e artigo 244, ambos do Código de Processo Penal. Isso porque, conforme depoimentos colhidos em ambas as fases da persecução penal, os policiais suspeitaram do acusado porque ele tinha um volume na cintura e, ao procederem a abordagem, ele fugiu; em seguida, foi encontrado módulo do alarme do veículo em seu poder" (fls. 274).  .. "
+Com efeito, observo que o exame do suposto vício na busca pessoal implicaria em inevitável reexame dos elementos fático-probatórios, providência inadmitida na via eleita, nos termos da Súmula n. 7, STJ. Nesse sentido:
+"2. A conclusão do Tribunal a quo mostra-se acertada e, para ser desconstituída, entendendo-se pela ilegalidade da busca pessoal por ausência de fundadas suspeitas, seria necessário reexaminar os fatos e as provas dos autos, para além do que consta no acórdão recorrido e na sentença, o que é vedado conforme Súmula n. 7 desta Corte." (AgRg no AREsp n. 2.354.025/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/5/2024)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.  Intimem-se.
+EMENTA
