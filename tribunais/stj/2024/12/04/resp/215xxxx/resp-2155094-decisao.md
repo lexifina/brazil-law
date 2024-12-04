@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se recurso especial interposto por INCOFAL INDÚSTRIA E COMÉRCIO LTDA., com fundamento na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 06/05/2024.
+Concluso ao gabinete em: 11/07/2024.
+Ação: ordinária ajuizada por CONCEITO FRANCHISING E LICENCIAMENTO LTDA e CANTEGRIL IND E COM ESPUMAS E COLCHÕES LTDA em face da recorrente e do INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL - INPI, objetivando a declaração de nulidade do registro nº 909482837, para a marca "INVERNO VERÃO", de titularidade da recorrente, com base no art. 129, §1º, da LPI.
+Sentença: julgou procedente o pedido, diante a identidade entre os produtos (colchões) da parte autora e da ré.
+Acórdão recorrido: negou provimento ao recurso de apelação interposto pela recorrente e não conheceu da remessa necessária, nos termos da seguinte ementa:
+PROPRIEDADE INDUSTRIAL. MARCA. DIREITO DE PRECEDÊNCIA. PRESCINDIBILIDADE DE PRÉVIA OPOSIÇÃO ADMINISTRATIVA. DEMONSTRADO PELO ACERVO PROBATÓRIO DOS AUTOS A UTILIZAÇÃO DO SINAL PELA PARTE AUTORA ANTERIORMENTE À RÉ.
+- Remessa necessária e apelação cível interposta contra a r. sentença que julgou procedente o pedido, nos autos da ação ordinária objetivando a declaração de nulidade do registro nº 909482837, para a marca "INVERNO VERÃO", de titularidade da apelante, com base no direito de precedência (art. 129, §1º, da LPI), ante a identidade entre os produtos (colchões) da parte autora e da ré.
+- No que diz respeito à remessa necessária, não se configura a hipótese do seu cabimento, pois o valor da causa e/ou da condenação é inferior a mil salários mínimos, critério econômico erigido pelo legislador para fixar juízo de sua admissibilidade. Inteligência do artigo 496 do NCPC.
+- Não havendo limitação legal ao reconhecimento do direito de precedência, previsto no art. 129, §1º, da LPI, apenas em sede administrativa, filio-me ao posicionamento do STJ e entendo que o direito de precedência pode ser objeto de ação judicial de nulidade, sendo prescindível a prévia oposição administrativa ao pedido de registro de marca. Precedentes jurisprudenciais.
+- O conjunto probatório nos autos comprova a utilização da marca em questão, como pré-utente de boa-fé, pela parte autora, anteriormente ao depósito do registro anulando, bem como em data anterior àquela demonstrada como utilizada pela apelante/ré.
+- No que tange ao elemento de prova apontado pela apelante (nota fiscal), as provas dos autos são insuficientes para garantir que o colchão da marca INVERNO/VERÃO que foi enviado para conserto em 24/01/2011 realmente foi produzido pela apelante, na medida em que esta, entre outras atividades, realiza o conserto de colchões, sendo possível deduzir que conserte ou em algum momento tenha realizado o conserto de produtos produzidos por outras empresas. Aliando a insuficiência do meio de prova à ausência de outros instrumentos fidedignos que comprovem a utilização da marca pela apelante na referida data - como depoimento testemunhal, propagandas televisionadas em data definida, outros documentos de operação comercial, etc. -, forçoso concluir pela ausência de provas da utilização da marca em litígio pela apelante em data anterior à apelada.
+- Remessa não conhecida. Apelação desprovida. (e-STJ, fl. 81)
+Embargos de declaração: interpostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, II, do CPC e 129 e 158 da LPI. Aduz a ocorrência de omissão do Tribunal de origem quanto ao "fato de que, a própria recorrida, em sua peça inaugural confessou que a Incofal registrou a marca em momento anterior ao seu registro, confessando ainda ter deixado transcorrer sem manifestação o prazo administrativo concedido para resposta" (e-STJ, fl. 196). Argumenta, ainda, que foram desconsideradas "as provas apresentadas que demonstravam o uso efetivo da marca "INVERNO VERÃO" antes da alegada utilização pelas recorridas" (e-STJ, fl. 197).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente que as provas dos autos demonstraram a anterioridade do uso da marca "Inverno Verão" pela recorrida e, assim, o seu direito de preferência ao registro, nos termos do art. 129, §1º, da LPI, bem como sobre a possibilidade de reconhecimento do direito de precedência em sede judicial, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento. Assim, não há que se falar em violação do art. 1.022 do CPC.
+- Do reexame de fatos e provas
+Noutro vértice, observa-se que o Tribunal de origem reconheceu a anterioridade do uso da marca pela recorrida, sob os seguintes fundamentos:
+Apesar das alegações levantadas no apelo, as provas dos autos são simplesmente insuficientes para garantir que o colchão da marca INVERNO/VERÃO que foi enviado para conserto em 24/01/2011 realmente foi produzido pela Apelante.
+Como pessoa jurídica que, entre outras atividades, realiza o conserto de colchões (Evento 62, fls. 12), é possível deduzir que conserte ou em algum momento tenha realizado o conserto de produtos produzidos por outras empresas.
+Não havendo provas que confirmem que este único colchão realmente foi produzido e comercializada pela apelante, não há como aceitar um documento fiscal de operação comercial de remessa para conserto como comprovação de que a apelante, em 2011, comercializava produto da referida marca. As afirmações da parte de que o produto foi fabricado por si, conquanto compreensíveis, não podem ser aceitas como prova processual.
+Aliando a insuficiência do meio de prova à ausência de outros instrumentos fidedignos que comprovem a utilização da marca pela Apelante na referida data - como depoimento testemunhal, propagandas publicadas em data definida, outros documentos de operação comercial, etc. -, forçoso concluir pela ausência de provas da utilização da marca em litígio pela apelante em data anterior à apelada.
+Destarte, demonstrando o acervo probatório que a apelada fazia uso da marca "INVERNO/VERÃO" em data anterior à apelante, é dela o direito de preferência ao registro, nos termos do art. 129, §1º, da LPI. (e-STJ, fl. 78)
+Assim, alterar o decidido no acórdão impugnado, no particular, tal como pretendido pela recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO EM PARTE do recurso especial e NEGO-LHE provimento.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO ORDINÁRIA. NULIDADE DE REGISTRO. MARCA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação ordinária de nulidade de registro de marca.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Recurso especial parcialmente conhecido e não provido.
