@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar, interposto por ALEXANDRE DE SA QUEIROZ MOURA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Habeas Corpus nº 5421842-88.2022.8.09.0000).
+Os autos dão conta de que o Juízo da 3ª Vara de Execução Penal da Comarca de Goiânia/GO, diante da comunicação de que o recorrente teria praticado 2 novos crimes no curso do benefício, suspendeu cautelarmente o livramento condicional (e-STJ fls. 21/24).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado (e-STJ fls. 350/351):
+HABEAS CORPUS. SUSPENSÃO CAUTELAR DO LIVRAMENTO CONDICIONAL. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURADO. MEDIDA CAUTELAR NÃO OFENDE AMPLA DEFESA E CONTRADITÓRIO. 1. Em que pese a impetrante tenha entendido que houve regressão cautelar, compulsando os autos, verifica-se tratar-se de decisão de suspensão cautelar do benefício do livramento condicional com base no artigo 145 da Lei de Execução Penal diante da comunicação de prática de fatos novos, no caso dos autos, de dois fatos novos, em tese: I) o crime do artigo 157, §2º, inciso I, do Código Penal, apurado na ação penal nº 002445.83.2020.8.09.0175, em curso na Vara de Crimes Praticados Contra Hipervulneráveis desta capital, fato praticado no dia 07/03/2020 (om. 23.1); II) o crime do artigo 157, §2º, inciso II e §2º - A, inciso I, do Código Penal, apurado na ação penal nº 0158371-35.2019.8.09.0175, em curso perante o Juízo da 3ª Vara Criminal desta capital, fato praticado no dia 30/11/2019. Ademais, a decisão que decretou a suspensão cautelar do livramento condicional, considero-a devidamente fundamentada, revertendo de máxima legalidade, não havendo margem para contrariá-la. 2. Daí, conclui-se que a decisão foi fundamentada não havendo violação aos princípios constitucionais ou cerceamento de defesa, estancando, assim, qualquer ilegalidade ou inconstitucionalidade. ORDEM CONHECIDA E NEGADA.
+Nas razões do presente recurso, o recorrente alega, em síntese, que:
+a) "apesar de o apenado ter atingido requisitos para a concessão de ambos os benefícios (semiaberto e livramento condicional), o juízo apenas deferiu o livramento condicional, não se manifestando sobre progressão de regime (fechado para o semiaberto)" (e-STJ fl. 361); e
+b) "A autoridade coatora, reconhecendo a prática de falta grave cometida pelo agravante, no livramento condicional, impôs-lhe a regressão cautelar para o fechado, caracterizando a involução por salto, sem a passagem pelo sistema penitenciário semiaberto" (e-STJ fl. 364)
+Por isso, requer, liminarmente, seja reconhecida "a nulidade da decisão que determinou a regressão do paciente, e seja declarada a suspensão do livramento condicional" (e-STJ fl. 366), e, no mérito, a concessão da ordem "para que seja reconhecido o constrangimento ilegal e seja cassada a decisão que decretou a prisão em regime fechado do ora Paciente" (e-STJ fl. 366).
+Indeferida a liminar (e-STJ fls. 382/384).
+Informações prestadas (e-STJ fls. 388/390 e 391/396).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso em habeas corpus (e-STJ fls. 400/403).
+É o relatório.
+Decido.
+Em matéria penal, o prazo para a interposição do recurso em habeas corpus é de 5 (cinco) dias corridos (art. 30 da Lei n. 8.038/1990).
+Extrai-se dos autos que o acórdão impugnado foi publicado em 28/09/2022 (e-STJ fl. 367), no entanto, o presente recurso somente foi protocolado em 10/10/2022, em descumprimento ao prazo legal estabelecido.
+Assim, o recurso é manifestamente intempestivo, uma vez interposto após o prazo legal de 5 (cinco) dias, logo não preenche os requisitos gerais de admissibilidade razão pela qual não deve ser conhecido.
+Nesse sentido:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. RECURSO INTEMPESTIVO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. INTEGRANTE DE GRUPO DE EXTERMÍNIO. RECURSO ORDINÁRIO NÃO CONHECIDO.
+I - O recurso não deve ser conhecido porque interposto após o transcurso do prazo de 5 (cinco) dias previsto no artigo 30 da Lei 8.038/1990, e haja vista que o v. acórdão objurgado foi publicado em 24/2/2016 e o presente recurso protocolado em 3/3/2016 (precedentes).
+II - Ademais, não é possível receber o presente recurso como habeas corpus substitutivo de recurso ordinário, considerando que a Terceira Seção desta Corte, na mesma linha de entendimento da Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem da ordem de ofício .
+III - In casu, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora recorrente acarretaria risco à ordem pública, notadamente em virtude de notícias de que o recorrente integra grupo de extermínio, circunstância que evidencia a real necessidade da prisão cautelar decretada, em virtude do fundado receio de reiteração delitiva (precedentes).
+IV - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Recurso ordinário não conhecido.
+(RHC n. 69.852/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/8/2016, DJe de 17/8/2016).
+Ante o exposto, não conheço do presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
