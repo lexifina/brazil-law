@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se recurso especial interposto por MÁRCIO VIEIRA DA SILVA e MARCELO VIEIRA DA SILVA, com fundamento na alínea "a" do permissivo constitucional.
+Ação: indenizatória, em fase de execução, ajuizada pelos recorrentes e por ADÉLIO ANTONIO DA SILVA em face de COMPANHIA PAULISTA DE FERTILIZANTES e PAULO JOSÉ BOCCALATO DA COSTA.
+Decisão: decretou a prescrição intercorrente.
+Acórdão: negou provimento à apelação interposta pelos recorrentes.
+Embargos de declaração: interpostos pelos recorrentes, foram acolhidos, para anular o processo a partir do julgamento da apelação.
+Embargos de declaração: interpostos pelos recorrentes, foram rejeitados.
+Acórdão recorrido: negou provimento à apelação interposta pelos recorrentes.
+Embargos de declaração: interpostos pelos recorrentes, foram rejeitados.
+Recurso especial: alega violação dos artigos: 5º, 8º, 921, § 4º e § 4º-A, 1.056, 927, III, e § 1º, 10, 489, II, III, § 1º, IV e V, do CPC/15; 267, § 1º, 791, III, 793, 617, § 1º, 210 e 598 do CPC/73; e 24 e 47 do DL 7.661/45. Além de nagativa de prestação jurisdicional, defende a não ocorrência da prescrição intercorrente, uma vez que não foi intimado para dar andamento ao processo. Alega que o processo deveria ter ficado suspenso em razão da decretação da falência da sociedade coexecutada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+É firme a jurisprudência do STJ no sentido de que não fica caracterizada negativa de prestação jurisdicional quando o Tribunal de origem, aplicando as consequências jurídicas que entende incidir sobre a situação fática dos autos, soluciona integralmente a controvérsia submetida à apreciação. Confira-se: AgInt nos EDcl no AREsp 1.094.857/SC (Terceira Turma, DJe 2/2/2018) e AgInt no AREsp 1.089.677/AM (Quarta Turma, DJe 16/2/2018).
+No particular, a leitura do acórdão recorrido - e daquele que examinou os embargos de declaração - revela que a matéria devolvida ao exame do Tribunal a quo foi enfrentada expressamente e solucionada de acordo com a convicção dos julgadores, havendo fundamentação específica acerca do ponto controvertido (prescrição intercorrente), conforme se depreende de mera leitura da ementa do julgado:
+ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO. EXECUÇÃO. DECLARAÇÃO DE EXTINÇÃO DO PROCESSO PELA PRESCRIÇÃO INTERCORRENTE. SOLUÇÃO QUE PREVALECE. CONSTATAÇÃO DE QUE O PROCESSO PERMANECEU PARALISADO, SEM QUALQUER INICL4TIVA DA PARTE EXEQUENTE DURANTE PERÍODO QUE SUPEROU O PRAZO DE PRESCRIÇÃO. RECURSO IMPROVIDO. L Constitui entendimento assente que a inércia da parte em dar andamento ao processo dá ensejo à prescrição intercorrente No caso, tratando-se de preceito condenatório ao pagamento de indenização, responsabilidade civil extracontratual, o prazo a considerar é o de três anos, por incidência do artigo 206, § 3º, V, do Código Civil, efetivamente aplicável à hipótese, pois já estava em vigor quando iniciada a paralisação do processo. 2. Segundo a orientação da jurisprudência do C- Superior Tribunal de Justiça, que se estabeleceu com caráter repetitivo a partir do julgamento do Incidente de Assunção de Competência relacionado ao REsp 16044121SC, Tema IAC 1, o cômputo do prazo de prescrição deve ocorrer após o decurso de um ano do início da paralisação do processo por inércia da parte. Além disso, reconheceu-se que não se jaz necessária a prévia intimação da parte como requisito para a abertura dessa contagem, pois essa providência só é exigida por lei para a declaração de extinção por abandono (CPC, artigo 485, § 1º). 3. Tendo em conta essas premissas, constata-se que a atividade processual ficou paralisada a partir de dezembro de 2009 e assim permaneceu até março de 2015. Computado o período de um ano da paralisação, tem-se que o prazo de prescrição leve início em dezembro de 2010, ocorrendo o seu esgotamento em dezembro de 2013. Assim, não há como deixar de prevalecer a solução adotada pela r. sentença.
+(e-STJ fls. 2882)
+Importa lembrar que o julgador não está obrigado a examinar, como se respondesse a um questionário, a totalidade das afirmações deduzidas pelas partes no curso da marcha processual, bastando, para a higidez do pronunciamento judicial, que sejam enfrentados todos os aspectos essenciais à resolução da demanda, circunstância plenamente verificada no particular.
+- Da ausência de prequestionamento
+O acórdão recorrido não se manifestou acerca dos conteúdos normativos dos artigos 5º, 8º, 921, § 4º e § 4º-A, 1.056, 927, III, e § 1º, 10, do CPC/15; 267, § 1º, 793, 617, § 1º, 210, 598 do CPC/73; e 24 e 47 do DL 7.661/45 (dispositivos legais apontados como violados), de modo que, ante a ausência de prequestionamento, a insurgência dos recorrentes esbarra no óbice da Súmula 211/STJ.
+- Do reexame de fatos e provas
+A conclusão acerca da caracterização da prescrição intercorrente pelo Tribunal de origem decorreu do exame das circunstâncias fático-processuais relativas à demanda, de modo que a pretensão de modificação do acórdão recorrido encontra óbice no enunciado da Súmula 7/STJ, pois exigiria incursão no acervo probatório.
+- Da jurisprudência do STJ
+Segundo decidido por ocasião do julgamento do REsp 1.604.412/SC (Tema IAC 1, DJe 22/8/2018), "Diante da distinção ontológica entre a prescrição intercorrente e o abandono da causa, nota-se que a prescrição intercorrente independe de intimação para dar andamento ao processo".
+Como o acórdão recorrido não destoou da orientação do STJ, não há razão que conduza à sua modificação.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e NEGO-LHE PROVIMENTO.
+EMENTA
+RECURSO ESPECIAL. FALÊNCIA. EMBARGOS DE TERCEIRO. PRESCRIÇÃO INTERCORRENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA CONSOLIDADA DO STJ (IAC 1). RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. Devidamente analisadas e discutidas as questões controvertidas, e suficientemente fundamentado o acórdão recorrido, não há que se falar em negativa de prestação jurisdicional.
+2. A ausência de prequestionamento impede o exame da insurgência.
+3. O reexame de fatos e provas é providência vedada em recurso especial.
+4. O acórdão recorrido, ao reconhecer a prescrição intercorrente, adotou o entendimento do STJ acerca da desnecessidade de intimação do exequente para dar andamento ao processo.
+5. Recurso especial parcialmente conhecido e não provido.
