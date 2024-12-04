@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WALLACE DOS SANTOS FERRARI MIRANDA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no HC n. 2293875-69.2024.8.26.0000.
+Consta nos autos que o paciente foi preso em flagrante, com posterior conversão da custódia em preventiva, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal estadual, o qual denegou a ordem.
+Neste writ, a parte impetrante alega, em síntese, a falta de indícios de autoria delitiva, bem como a inexistência dos requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Informa que o paciente possui condições pessoais favoráveis.
+Aduz a possiblidade de aplicação de medidas cautelares diversas da prisão, bem como a desproporcionalidade da custódia cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas.
+O pedido liminar foi indeferido (fls. 113-116).
+As informações foram prestadas (fls. 121-140).
+O Ministério Público Federal manifestou-se às fls. 143-146.
+É o relatório.
+DECIDO.
+A tese de negativa de autoria não comporta sequer conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via eleita. A propósito: AgRg no HC n. 880.124/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024; AgRg no HC n. 882.438/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+No mais, o Juízo de primeiro grau, ao decretar a prisão preventiva, ressaltou o seguinte (fl. 21; grifamos):
+Com efeito, a conduta delitiva do autuado é de acentuada gravidade e periculosidade, o que acresce reprovabilidade à conduta delitiva do autuado e denota o perigo gerado pelo seu estado de liberdade. Necessária, portanto, a decretação da prisão preventiva como forma de acautelar o meio social e socorrer à ordem pública.
+Não bastasse isso, o autuado foi preso em 25/04/2024 pelo mesmo delito, sendo que descumpriu as cautelares impostas na audiência de custodia, de modo que a conversão do flagrante em prisão preventiva se faz necessária também a fim de se evitar a reiteração delitiva, eis que em liberdade já demonstrou concretamente que continuará a delinquir, o que evidencia que medidas cautelares diversas da prisão não serão suficientes para afastá-lo da prática criminosa e confirma o perigo gerado pelo estado de liberdade do autuado.
+O Tribunal de origem, por sua vez, consignou que (fl. 18; grifamos):
+No particular, em audiência de custódia realizada nos autos do processo 1510342-54.2024.8.26.0228, foi concedida ao paciente a liberdade provisória com aplicação de medidas cautelares (cf. decisão às fls. 78/80 daqueles autos).
+Sucede que, mesmo sendo beneficiado com a liberdade provisória, o paciente descumpriu as medidas cautelares diversas da prisão impostas como condições para tanto e foi novamente preso em flagrante por tráfico de drogas, em 25.09.2024. Dessa feita, a decretação da prisão preventiva é medida que se impõe, nos termos dos artigos 282, § 4º, e 312, ambos do Código de Processo Penal.
+Dos excertos transcritos, concluo que, ao contrário do que alega a parte impetrante, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltado o risco concreto de reiteração delitiva do acusado. Tal circunstância demonstra a periculosidade do agente e é apta a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+ c onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC n. 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021)
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DO RECURSO EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. PRISÃO MANTIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que manteve a conversão da prisão em flagrante do agravante em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+2. Isso porque não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na existência de antecedentes e reiteração delitiva do agente.
+ ..
+4. Agravo regimental improvido. (AgRg no HC n. 867.234/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. 5. Agravo regimental desprovido. (AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Também não deve ser acolhida a tese referente ao princípio da homogeneidade, pois,
+em relação à alegação de desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade). A confirmação (ou não) da tipicidade da conduta do agente e da sua culpabilidade depende de ampla dilação probatória, com observância aos princípios do contraditório e da ampla defesa, o que não secoaduna com a finalidade do presente instrumento constitucional (AgRg no HC n. 880.538/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/04/2024, DJe de 02/05/2024).
+Ante o exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
