@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCOS VINÍCIUS GOMES DA SILVA, em que se apon ta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que deu provimento ao Recurso em Sentido Estrito n. 1.0000.24.340310-2/001, interposto pelo Ministério Público, para determinar o recebimento da ação penal por suposta prática de tráfico ilícito de drogas.
+Aduz a Defensoria Pública que, surpreendido o paciente com três porções de cocaína durante inspeção de rotina nas dependências de estabelecimento prisional, a inexpressiva quantidade de droga e a ausência de mínimos elementos indicadores do dolo de mercancia não justificam a imputação do crime previsto no artigo 33, da Lei n. 11.343/2006.
+Sustenta que, rejeitada a denúncia pelo Juízo de origem em razão da falta de justa causa para a ação penal, não deve subsistir o acórdão que determinou o recebimento da inicial por ofender a regra do artigo 28, § 2º, de referido ordenamento, inclusive conforme entendimento do Superior Tribunal de Justiça.
+Alega ainda que, apesar de medida excepcional, possível se mostra o trancamento da ação penal por meio deste quando ausente justa causa em razão de atipicidade da conduta, de incidência de causa de extinção da punibilidade ou, como na hipótese debatida, de ausência de lastro probatório mínimo de autoria ou de materialidade.
+Requer, ao final, o deferimento de liminar para que seja trancada a ação penal. No mérito, busca a concessão da ordem com devida confirmação da liminar.
+O pedido liminar foi indeferido por esta relatoria às fls. 31/32.
+Informações processuais prestadas às fls. 54/55.
+O Ministério Público Federal opinou pela concessão da ordem às fls. 64/73.
+É o relatório.
+DECIDO.
+Foi o paciente denunciado pela prática de tráfico ilícito de drogas porque, em 28/03/2024, no interior do Complexo Penitenciário Nelson Hungria, foi surpreendido, durante inspeção de rotina, escondendo em sua cueca três porções de cocaína com massa líquida aproximada de 2,6g (duas gramas e duas decigramas).
+Ofertada resposta à acusação, o Juízo da Comarca de Contagem rejeitou a inicial, restando asseverado que
+ausentes elementos suficientes para a imputação apresentada, tem-se que é caso de rejeição da denúncia por ausência de lastro probatório mínimo capaz de demonstrar a prática do crime indicado em face do denunciado, haja vista a inexpressiva quantidade de entorpecente arrecadado e a ausência de outros elementos que apontem que Marcos estivesse distribuindo/comercializando a substância ilícita, sendo que a tipicidade penal, no caso, aponta em outra direção que não aquela deduzida na denúncia (fl. 22).
+Interposto pelo órgão acusatório o recurso pertinente perante o Tribunal de Justiça de Minas Gerais, foi a ele dado provimento para se determinar o recebimento da denúncia e regular processamento do feito, entendendo os Desembargadores que
+subsistem indícios suficientes de autoria para que a denúncia fosse ofertada e posteriormente recebida pelo Poder Judiciário, sobretudo considerando os depoimentos extrajudiciais prestados pelos policiais penais no sentido de que os entorpecentes foram apreendidos na cueca do recorrido (fl. 19).
+A ordem deve ser concedida.
+Uníssono nesta Corte o entendimento de que o trancamento de ação penal por meio de habeas corpus é medida excepcionalíssima:
+Inicialmente, destaco que o trancamento do inquérito policial, assim como da ação penal, é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria de provas sobre a materialidade do delito (RHC n. 146.780/PA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/11/2024, DJe de 8/11/2024).
+O trancamento de ação penal por habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação de atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria e materialidade (AgRg no HC n. 921.062/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 04/11/2024, DJe de 07/11/2024).
+E, no caso em debate, em que pese o entendimento do Tribunal a quo no tocante à suficiência dos elementos a indicar materialidade e autoria delitivas, bem como o elemento subjetivo do tipo penal pelo qual Marcos foi denunciado, é patente não estar presente a justa causa necessária ao ajuizamento da ação penal como ofertada, possível assim seu trancamento por meio deste.
+De fato, após o indiciamento do ora paciente pela d. autoridade policial como incurso nas sanções do artigo 28, da Lei de Drogas, a Promotoria de Justiça imputou-lhe na inicial a prática do tráfico de entorpecentes porque, nas circunstâncias já narradas acima, portava drogas para fins de mercancia, sem, no entanto, descrever qualquer comportamento voltado ao escuso comércio ou notícias nesse sentido.
+O Juiz de Direito, em seguida, entendeu ser caso de rejeição da denúncia vez que ausente justa causa para o exercício da ação penal, destacando a pequena quantidade de entorpecente em poder do paciente, o que se reputa acertado, não se vislumbrando de superficial exame dos autos mínimos indícios quanto à intenção de Marcos em entregar para consumo de terceiros as três porções de cocaína a ponto de sustentar o ajuizamento da ação penal pela prática de narcotráfico, notadamente diante do enunciado no § 2º, do artigo 28, da Lei em comento:
+Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente.
+Conforme esta Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO DO RIO GRANDE DO SUL CONTRA DECISÃO QUE CONCEDEU A ORDEM. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O CRIME PREVISTO NO ART. 28, CAPUT, DA LEI N. 11.343/2006. EXCEPCIONALIDADE DO CASO CONCRETO. AUSÊNCIA DE PROVAS CONCLUSIVAS ACERCA DO TRÁFICO DE ENTORPECENTE E PEQUENA QUANTIDADE DE SUBSTÂNCIAS TÓXICAS (8,20 G DE MACONHA; 3 G DE COCAÍNA; E 0,8 G DE CRACK). CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. A Sexta Turma desta Corte Superior de Justiça já decidiu que a lei n. 11.343/2006 não determina parâmetros seguros de diferenciação entre as figuras do usuário e a do pequeno, médio ou grande traficante, questão essa, aliás, que já era problemática na lei anterior (Lei n. 6.368/1976) - (AgRg no HC n. 866.780/PE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/3/2024).
+2. No caso em apreço, observa-se a ausência de fundamentação a sustentar a condenação pelo delito de tráfico de drogas, porquanto baseada apenas na prisão do réu em ponto de tráfico de drogas da facção "os manos" e na diversidade de material entorpecente apreendido, embora em quantidade ínfima.
+3. O agravado não foi surpreendido comercializando, expondo à venda, entregando ou fornecendo drogas a consumo de terceiros, a denotar fundada dúvida que deve se resolver em favor do acusado.
+4. Agravo regimental improvido.
+(AgRg no HC n. 845.777/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA POSSE PARA CONSUMO PRÓPRIO. ORDEM CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado para desclassificar a conduta da paciente de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006) para posse para consumo próprio (art. 28 da Lei nº 11.343/2006). A paciente foi condenada por trazer consigo 18 porções de crack, totalizando cerca de 6g.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se a conduta da paciente se amolda ao tipo penal de tráfico de drogas ou à posse para consumo próprio, considerando a quantidade de droga apreendida e a confissão extrajudicial.
+III. RAZÕES DE DECIDIR
+3. No caso concreto, a quantidade ínfima de droga (6g de crack) e a ausência de elementos indicativos de tráfico, como petrechos ou outros indícios de mercancia, aliados à declaração da paciente de que é usuária de drogas, configuram flagrante ilegalidade na condenação por tráfico.
+4. A jurisprudência recente do STF, ao fixar parâmetros para diferenciar usuários de traficantes, também justifica a desclassificação da conduta para o art. 28 da Lei n. 11.343/2006.
+IV. HABEAS CORPUS CONCEDIDO.
+(HC n. 844.716/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024).
+Destaque-se que, em seu parecer de fls. 64/73, manifestou-se a Subprocuradora-Geral da República, Drª Paula Bajer Fernandes, pela concessão da presente ordem a fim de se determinar o trancamento da ação penal por entender correta a decisão do Juízo de Direito que rejeitou a denúncia, observando que
+Foram encontrados 2,6g de cocaína com o paciente (fls. 04). Denúncia não descreveu indícios mínimos de traficância por parte de Marcos Vinícius Gomes da Silva. Acusação narrou apenas que o entorpecente foi apreendido em poder do paciente durante procedimento de rotina na Penitenciária Nelson Hungria.
+Por outro lado, a pequena quantidade de cocaína apreendida (2,6g) é compatível com a posse para consumo pessoal, como já decidiu esse Egrégio Tribunal Superior.
+Dessa forma, não deve prosperar o v. aresto ora atacado que determinou o recebimento da denúncia, já que ausentes indícios mínimos quanto à conduta ao paciente atribuída na peça.
+Ante o exposto, concedo a presente ordem para determinar o trancamento da ação penal por ausência de justa causa.
+Publique-se. Intimem-se.
+EMENTA
