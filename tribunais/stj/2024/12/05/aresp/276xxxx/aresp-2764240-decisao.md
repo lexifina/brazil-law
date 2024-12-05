@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO VITOR CARDOSO DOS SANTOS e MARCOS APARECIDO DOS SANTOS CALDEIRA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 288):
+Apelação. Tentativa de roubo majorado pelo concurso de agentes (art. 157, § 2º, II, c. c. art. 14, II, do CP). Sentença condenatória. Recursos defensivos. Preliminar de nulidade do reconhecimento pessoal efetuado na delegacia de polícia. Rejeitada. Regras que caracterizam mera recomendação. Inobservância das formalidades legais que não conduz, por si só, à invalidade do ato. No mérito, pretensão de absolvição por insuficiência probatória e, subsidiariamente, de desclassificação para o crime de furto. Materialidade e autoria comprovadas. Declarações consistentes da vítima, que reconheceu os acusados na fase policial. Depoimento de testemunha presencial, que reconheceu os roubadores na fase policial e ratificou o reconhecimento de João Vitor em Juízo. Prisão em flagrante de ambos. Conjunto probatório amplamente desfavorável e suficiente para sustentar a condenação. Impossibilidade da desclassificação para furto. Demonstrada a elementar da grave ameaça à subtração da coisa. Pedidos subsidiários buscando o aumento da fração de redução da pena pela tentativa, a fixação do regime inicial aberto e a aplicação da detração penal. Impossibilidade de redução pela tentativa na fração intermediária, que foi proporcional e adequada ao iter criminis percorrido. Regime inicial semiaberto mantido, ante a ausência de recurso ministerial. Detração penal que deve ser analisada pelo Juízo da Execução. Recursos desprovidos.
+Nas razões do recurso especial (e-STJ, fls. 335/352), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente as seguintes violações:
+Arts. 157 e § 1º, 226 e 573, todos do CPP, quanto à manutenção das condenações, apesar da nulidade dos reconhecimentos extrajudiciais por inobservância do procedimento legal;
+Arts. 155 e 157 do CP, em relação à manutenção das condenações pelo delito de roubo, apesar de ser a hipótese de desclassificação para o crime de furto;
+Art. 14, II, do CP, quanto à manutenção da fração de diminuição de pena decorrente do reconhecimento da tentativa, apesar do ínfimo iter criminis percorrido.
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pela prejudicialidade do agravo.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+A pretensão aqui deduzida, entretanto, encontra-se prejudicada pela superveniência do julgamento do HC 926.892/SP, em 12/8/2024, com idêntico objeto, oportunidade em que foi concedida a ordem, de ofício, para fixar o regime prisional aberto em favor dos ora agravantes .
+Flagrante, portanto, a perda de objeto do presente agravo.
+Ante o exposto, julgo prejudicado o presente agravo.
+Intimem-se.
+EMENTA
