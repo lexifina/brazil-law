@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado por Companhia Imobiliária de Brasília - Terracap com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 293):
+AGRAVO INTERNO. PREJUDICADO. AGRAVO INSTRUMENTO. OBRIGAÇÃO DE FAZER. EXECUÇÃO PROVISÓRIA. RATIFICAÇÃO. SENTENÇA. NECESSIDADE. ASTREINTES. RECURSO REPETITIVO. RESP N. 1.200.856/RS. INTIMAÇÃO PESSOAL. NECESSIDADE.
+1. Julgado o mérito do agravo de instrumento, resta prejudicado o agravo interno, cujas razões recursais tratam exatamente sobre a mesma matéria.
+2. Em caso de descumprimento da obrigação imposta as fixadas na decisão interlocutória de astreintes antecipação da tutela e nas posteriores devem ser ratificadas na sentença, a fim de viabilizar a sua execução provisória. Precedente do Superior Tribunal de Justiça, REsp n. 1.200.856/RS.
+3. A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Inteligência da súmula 410 do Superior Tribunal de Justiça.
+4. Agravo interno conhecido e desprovido.
+5. Agravo de instrumento conhecido e provido.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, quanto ao tema de fundo tratado nos autos, observa-se que a Primeira Seção deste Sodalício decidiu pela afetação, para julgamento sob a sistemática dos recursos repetitivos, da matéria relativa a "Definir se a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer" (Tema 1.296/STJ).
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese por este STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+A propósito, confiram-se os seguintes acórdãos: EDcl no AgRg no REsp n. 1.510.988/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; EDcl no AgInt no REsp n. 1.922.773/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023; e EDcl nos EDcl no AgInt no AREsp n. 1.750.982/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/6/2023, DJe de 15/6/2023.
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do CPC, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou a manutenção do acórdão local frente ao que vier a ser decidido por este Superior Tribunal de Justiça sob a sistemática dos recursos repetitivos (Tema 1.296/STJ).
+Publique-se.
+EMENTA
