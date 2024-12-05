@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA CARLA BATISTA DOS SANTOS (ANA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Piaui, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS PATRIMONIAIS E MORAIS. EMENDA À INICIAL. JUNTADA DE EXTRATOS BANCÁRIOS. NÃO CUMPRIMENTO. EXTINÇÃO DA AÇÃO. IRRESIGNAÇÃO DA PARTE AUTORA. PRESCINDIBILIDADE. DOCUMENTO NÃO INDISPENSÁVEL À PROPOSITURA DA DEMANDA. REJEIÇÃO. PODER GERAL DE CAUTELA DO JUIZ. INDÍCIOS DE AÇÃO PREDATÓRIA. OFENSA À PREVISÃO DA INVERSÃO AO ÔNUS DA PROVA. ART. 6º, VII, DO CDC. DESCABIMENTO. GARANTIA QUE NÃO POSSUI APLICABILIDADE AUTOMÁTICA. AUSÊNCIA DE DEMONSTRAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES. RECURSO DESPROVIDO. SENTENÇA INALTERADA. (e-STJ, fls. 184/197).
+Nas razões do presente recurso, ANA alegou a violação aos arts. 6º, VIII, do CDC, ao sustentar que (1) a juntado de extrato bancário não é documento essencial para propositura da ação; (2) o ônus de provar a regularidade da transação é da instituição financeira; (3) diante da hipossuficiência e vulnerabilidade do consumidor, tanto no aspecto econômico como técnico, deve ser invertido o ônus da prova;
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Dos requisitos da petição inicial e da inversão do ônus da prova
+Em suas razões recursais ANA insistiu na inversão do ônus da prova por reputar dispensável a juntada de extrato bancário..
+Afirmou ainda que juntou provas dos descontos realizados em seu benefício previdenciário, sendo ônus da instituição financeira comprovar a regularidade do empréstimo que não contratou.
+Sobre o tema, o Tribunal de Justiça do Piauí destacou que:
+In casu, verifica-se que a parte Autora, ora Apelante, é pessoa idosa. Nesse caso, havendo indícios de se tratar de demanda predatória, o magistrado deve pautar-se no poder/dever de cautela, determinando as diligências que entender prudentes.
+Assim, não obstante a possibilidade de ser deferida a inversão do ônus da prova (art. 6º, VIII, do CDC), entendo que, no caso dos autos, em virtude de excepcional situação, impõe-se a adoção de cautelas extras, também excepcionais, de modo a justificar as exigências determinadas pelo juízo de origem.
+ ..
+Conclui-se, portanto, que para se deferir a inversão do ônus probante, é necessário analisar, além da natureza do serviço prestado, o grau de instrução do consumidor, dentre outras questões ligadas ao caso concreto.
+Por esse aspecto, a conduta do magistrado a quo em exigir do patrono parte Autora a juntada de extrato da conta bancária da Autora, ao contrário das alegações da parte Apelante, está estritamente relacionada à demonstração dos fatos constitutivos do seu direito, que, segundo disposição do Código Processualista Brasileiro, art. 373, é ônus atribuído ao autor da ação.
+Assim, não há que se falar em ofensa aos princípios da inafastabilidade da jurisdição e do acesso à justiça, uma vez que a providência judicial adotada consiste, tão somente, em verificar a regularidade no ingresso da demanda.
+Diante dessas premissas, entendo que o descumprimento à determinação de emenda à inicial, enseja, sim, no indeferimento da petição inicial (e-STJ, fls. 188/189).
+Importante consignar que o Tribunal estadual transcreveu trechos da decisão monocrática em que foi considerada a existência de diversas demandas ajuizadas pelo mesmo autor com aparente identidade ou semelhança com os elementos da presente demanda, o que justificou a determinação de juntada de cópia do extrato da conta bancária correspondente ao mês da contratação e ao posterior à data da celebração do empréstimo.
+Assim, rever as conclusões quanto aos requisitos da petição inicial e da inversão do ônus da prova demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO C/C RESTITUIÇÃO DE VALORES - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia sob a ótica defendida pelo recorrente - cabimento da inversão do ônus da prova, amparada na apontada hipossuficiência do consumidor - pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, impondo-se a incidência da Súmula 211 do STJ.
+2. Ademais, o Tribunal a quo entendeu que a petição inicial é absolutamente genérica e não apresenta as informações mínimas à compreensão da lide, registrando que a parte autora foi instada a emendar a inicial não somente para juntar aos autos os contratos de empréstimo, mas também para especificar de maneira detalhada a suposta abusividade dos encargos previstos na avença, providência não atendida.
+2.1. A conclusão está em consonância com a orientação desta Corte Superior no sentido de que, verificando o juiz que a petição inicial não preenche os requisitos exigidos pelos arts. 319 e 320 do CPC ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor a emende ou a complete, sob pena de indeferimento. Aplicação da Súmula 83/STJ.
+3. Outrossim, a pretensão de verificar o preenchimento dos requisitos da inicial, considerando as circunstâncias do caso concreto, demandaria o reexame do acervo fático-probatório, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. A incidência dos referidos óbices sumulares quanto à interposição do apelo nobre pela alínea "a" impede também o conhecimento da divergência jurisprudencial. Além disso, o insurgente deixou de indicar o dispositivo legal ao qual teria sido atribuída interpretação dissonante e não realizou o necessário cotejo analítico para demonstrar a similitude fática entre os casos comparados, circunstâncias impeditivas do exame do dissídio pretoriano.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.552.346/MS, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024, sem destaque no original.)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CONSUMIDOR. CONTRATO BANCÁRIO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO. INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO MÍNIMA DOS FATOS CONSTITUTIVOS DO DIREITO PELO AUTOR. NECESSIDADE. INÉPCIA DA PETIÇÃO INICIAL. RECONHECIMENTO PELO TRIBUNAL ESTADUAL. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
