@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUIZ GEREMIAS DA SILVA NETO contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 009669-89.2024.8.26.0000).
+Consta dos autos que o paciente foi condenado, com trânsito em julgado, à pena de 3 (três) anos de reclusão, em regime inicial semiaberto.
+No presente writ, o impetrante sustenta que o acórdão impugnado padece de flagrante ilegalidade, porquanto deveria haver a prévia intimação do apenado para o cumprimento da pena, segundo o disposto na Resolução n. 474/2022, do Conselho Nacional de Justiça.
+Requer, inclusive liminarmente, cassar a decisão que determinou a expedição de mandado de prisão em desfavor do paciente.
+É o relatório. DECIDO.
+A controvérsia consiste em se obstar a expedição de mandado de prisão, arrimada no que dispõe o art. 23 da Resolução n. 417, CNJ, que estabelece que:
+ ..  transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante no 56.
+No caso concreto, verifico que há constrangimento ilegal no acórdão impugnado, uma vez que o paciente foi condenado ao cumprimento de pena no regime semiaberto, tendo sido expedido, entretanto, um mandado de prisão.
+Registro que a jurisprudência do Superior Tribunal de Justiça, ao interpretar o art. 674 do Código de Processo Penal e o art. 105, da Lei de Execução Penal, entende que, em regra, uma vez operado o trânsito em julgado, necessária é a prisão para a expedição da guia de execução (AgRg no RHC 157065/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 6/3/2022).
+A regra do art. 6 74 do Código de Processo Penal e do art. 105, da Lei de Execução Penal, contudo, comporta temperamentos, à luz do art. 5º, inciso XXXV, da Constituição Federal, nas hipóteses em que verificado que o condenado tem direito a benefícios que impactam a situação da execução e a tornam mais branda, não se mostrando razoável exigir o sacrifício da liberdade.
+Na mesma linha, o Conselho Nacional de Justiça, em 9/9/2022, aprovou a Resolução n. 474, que alterou o art. 23 da Resolução n. 417, prevendo a possibilidade da intimação da pessoa condenada, nos casos em que estabelecidos os regimes semiaberto ou aberto, previamente à expedição de mandado de prisão.
+Anoto que a jurisprudência desta Corte também passou a adotar o posicionamento no sentido de que, para os condenados ao regime aberto ou semiaberto, deverá ser expedida intimação para cumprimento da pena, não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada (AgRg no HC 796267/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/4/2023).
+Em relação especificamente ao caso de prévia certificação de vagas, invoco o excerto abaixo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO. REGIME SEMIABERTO. RESOLUÇÃO N. 417/2021. INOBSERVÂNCIA. AGRAVO REGIMENTAL PROVIDO.
+1. O Conselho Nacional de Justiça estabeleceu que, uma vez transitada em julgado a condenação em regime semiaberto ou aberto, o sentenciado será intimado para recolhimento espontâneo, previamente à expedição de mandado de prisão, sem prejuízo, em caso de falta de vagas, da observância das providências estabelecidas no RE 641.320/RS.
+2. Ao interpretar a Resolução n. 417/2021 do CNJ, o julgador precisa ter cuidado para não criar brechas que possibilitem resistência à execução. Em hipótese de apenado em local incerto, será necessária a determinação da prisão (conforme o art. 674 do CPP e o art. 105 da LEP) para evitar a prescrição e garantir a efetividade da sentença.
+3. A afirmação de vagas pelo Juiz da VEC não afasta a necessidade de intimação do condenado para dar início à execução, pois a lotação das unidades prisionais é dinâmica e não há registro de mudança de endereço, sem prévia comunicação ao juízo.
+4. Agravo regimental provido para determinar o recolhimento do mandado de prisão, não cumprido, para observância do art. 23, da Resolução n. 417/2021, sem prejuízo de: a) nova expedição da ordem na hipótese de inexistência de endereço atualizado nos autos para intimação e b) de manutenção do encarceramento se o condenado já estiver alojado em estabelecimento penal compatível com o regime semiaberto (AgRg no HC n. 890.182/ES, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024).
+Corroborando: as decisões monocráticas, ambas de minha relatoria, de 2/7/2024, no HC n. 924.908/SP, e de 7/8/2024, no HC n. 934.316/SP.
+Ante o exposto, não conheço do writ. Concedo a ordem de habeas corpus, de ofício, para determinar o recolhimento do mandado de prisão expedido para o início de cumprimento de pena em regime diverso do fechado, devendo-se observar os termos da Resolução n. 417, CNJ.
+Intime-se a origem, com ur gência, para o cumprimento.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intimem-se.
+ EMENTA
