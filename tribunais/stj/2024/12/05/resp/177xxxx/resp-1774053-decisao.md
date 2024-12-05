@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial contra decisão que admitiu parcialmente o recurso especial interposto por PABLO RUSSELL ROCHA.
+Infere-se dos autos que o recorrente foi condenado à pena de 24 anos de reclusão, em regime fechado, por infração ao art. 121, § 2º, inciso II (motivo fútil), III (meio cruel) e IV (emprego de recurso que dificultou a defesa da vítima) - e-STJ fls. 2.537/2.540).
+Interposta apelação, o Tribunal negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 2.666):
+Apelação Criminal. Júri. Condenação por homicídio qualificado. A defesa objetiva a nulidade da sessão, porque deficiente a elaboração dos quesitos. Pleiteia, ainda, o afastamento das qualificadoras. No mérito, objetiva a anulação do júri, por ser a decisão dos jurados manifestamente contrária à prova dos autos e, subsidiariamente, a redução da pena. Nulidades inocorrentes. Quanto à elaboração dos quesitos, não houve deficiência. Afora isso, houve preclusão, ante a ausência de impugnação dos quesitos no momento oportuno. No mérito, a decisão não é contrária à prova dos autos. Foi adotada uma entre duas teses apresentadas aos Jurados, ambas com respaldo no conjunto probatório. As qualificadoras devem ser mantidas. Foram reconhecidas pelos juízes naturais, bem como encontram arrimo na versão acusatória, devendo prevalecer. Pena bem dosada. Embora, de fato, devam ser considerados a primariedade e bons antecedentes do réu, as demais circunstâncias e consequências apontadas pelo culto julgador monocrático conduzem o aumento de 1/2, imposto na r. sentença. Regime fechado de rigor. Recurso improvido.
+Embargos de declaração rejeitados (e-STJ fl. 2.697):
+EMBARGOS DE DECLARAÇÃO. Omissão. Inocorrência. Arguição de nulidade na elaboração dos quesitos encontra- se preclusa. Ausência de impugnação em momento oportuno, conforme artigo 484, do CPP. Inexistência de omissão no cálculo da dosimetria. Busca-se a rediscussão das matérias já apreciadas e decididas. Embargos rejeitados.
+Nas razões do recurso especial, fundado nas alíneas a e c do permissivo constitucional, alega a defesa contrariedade aos arts. 28, 482, 483, 564, III, k, parágrafo único e 593, III, d e § 4º, do Código de Processo Penal, bem como aos arts. 59, II, e 61, inciso II, alíneas c e d, do Código Penal, além de divergência jurisprudencial.
+O recurso foi admitido tão somente em relação à alínea a do permissivo constitucional. Quanto à alínea c, entendeu o Presidente da Seção de Direito Criminal do Tribunal a quo que a divergência jurisprudencial não foi demonstrada nos moldes do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+No presente agravo, afirma a defesa que foi demonstrado no recurso especial violação ao entendimento jurisprudencial em vigor, inclusive com acórdãos atuais dos tribunais brasileiros. Reitera, no mais, a alegação de nulidade na elaboração dos quesitos, pretendendo, ainda, o afastamento da Sú mula n. 7/STJ.
+Pugna, assim, pelo provimento do agravo, para que o recurso especial interposto seja totalmente admitido e, ao final, dele se conheça para dar-lhe provimento.
+É o relatório.
+Decido.
+A jurisprudência do STJ é assente no sentido de que não se conhece de agravo interposto contra decisão que admite parcialmente recurso especial, ou seja, por apenas uma das alíneas do permissivo constitucional ou por algum dos argumentos apresentados pelo recorrente.
+Isso porque, " n ão há interesse recursal na interposição do agravo, porquanto a decisão que admite parcialmente o recurso especial devolve a esta Corte Superior de Justiça o conhecimento de toda a matéria arguida no apelo nobre, não estando adstrita ao juízo de admissibilidade feito pelo Tribunal de origem. Súmulas n.s 292 e 528 do Pretório Excelso" (REsp n. 1.416.477/SP, relator Ministro Walter De Almeida Guilherme, Desembargador Convocado do TJSP, Quinta Turma, julgado em 18/11/2014, DJe 26/11/2014).
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMISSÃO PARCIAL DO RECURSO ESPECIAL. DEVOLUÇÃO INTEGRAL DO FEITO A ESTA CORTE. ANÁLISE INTEGRAL DO RECURSO ESPECIAL. DESCABIMENTO DO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante quer o conhecimento e provimento do agravo em recurso especial para o destrancamento parcial e admissão plena do recurso especial. Ocorre que a Corte de origem admitiu parcialmente o recurso, com a devolução do feito a este Tribunal para análise integral do apelo especial. Assim, é descabida a interposição de agravo em recurso especial, inexistindo qualquer prejuízo à defesa.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 2.042.460/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ADMISSÃO PARCIAL DO APELO NOBRE. AUSÊNCIA DE INTERESSE RECURSAL. SÚMULAS 292/STF E 528/STF.
+1. É incabível por falta de interesse recursal o agravo contra decisão que, em sede de juízo de admissibilidade, admite parcialmente o recurso especial já que, em casos tais, o juízo de admissibilidade é diferido e há devolução integral do cabimento do recurso à esta Corte Superior.
+2. Agravo regimental improvido.
+(AgRg no REsp n. 1.577.943/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 6/10/2016, DJe de 21/10/2016.)
+Diante do exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
