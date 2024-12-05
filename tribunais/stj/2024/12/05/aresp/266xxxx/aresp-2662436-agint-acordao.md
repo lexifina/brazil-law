@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO DE DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 281/STF. APLICAÇÃO. PROVIMENTO NEGADO.
+1. Não se pode conhecer do recurso especial interposto de decisão monocrática proferida na segunda instância, haja vista a inexistência do necessário esgotamento das instâncias ordinárias. Aplicação, por analogia, da Súmula 281 do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por AGROPECUARIA TERRA NOSTRA LTDA. da decisão que não conheceu de seu recurso especial (fls. 102/103).
+A parte recorrente alega que, após a rejeição dos embargos de declaração, o único recurso cabível era o recurso especial.
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 119).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO DE DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 281/STF. APLICAÇÃO. PROVIMENTO NEGADO.
+1. Não se pode conhecer do recurso especial interposto de decisão monocrática proferida na segunda instância, haja vista a inexistência do necessário esgotamento das instâncias ordinárias. Aplicação, por analogia, da Súmula 281 do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+VOTO
+Não há motivo algum para se dar provimento à pretensão recursal.
+Um dos requisitos para se fazer valer o inciso III do art. 105 da Constituição Federal é aquele que versa sobre a necessidade de exaurimento de instância.
+No presente caso, o Tribunal de origem negou provimento ao agravo de instrumento da parte, em decisão monocrática (fls. 36/37). Irresignada, a parte opôs embargos de declaração, rejeitados monocraticamente (fls. 53/57).
+Assim, a parte recorrente, no seu recurso especial, opôs-se à decisão monocrática, porém cabia recurso cuja apreciação competia a órgão colegiado do Tribunal de origem, qual seja, o agravo interno.
+Porque não foi satisfeita aquela exigência, de exaurimento de instância, não é possível conhecer do recurso devido à aplicação, por analogia, da Súmula 281 do Supremo Tribunal Federal.
+Está correta a decisão que não conheceu do recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
