@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado por João Manoel Oliveira Barreto contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 613):
+PREVIDENCIÁRIO. REVISÃO DO BENEFICIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO DE BENEFICIO. DECAD NCIA.
+1. O Supremo Tribunal Federal, nos autos do RE nº. 626.489/SE, reconheceu a repercussão geral do tema e considerou legítima a instituição de prazo decadencial para a revisão de benefício já concedido antes da MP no 1.523-9/97, com fundamento no princípio da segurança jurídica.
+2. No caso, o benefício da parte autora foi concedido em 25/06/1997, posterior à MP 1.523-9/97, portanto, e, nos termos do item anterior, o seu direito à revisão caducou em julho de 2007, após dez anos do termo inicial referido acima, antes, portanto, do ajuizamento da presente ação, em 03/06/2011.
+4. Decadência pronunciada de oficio para extinguir o processo com resolução do mérito, nos termos do art. 487, II, do CPC/15. Apelação prejudicada.
+Opostos embargos declaratórios, foram rejeitados (fls. 629/632).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 9, 10, 489, §1º, IV, e 1.022, II, do CPC. Sustenta, além de negativa de prestação jurisdicional, que "o decisum padece de nulidade, pois, reconheceu de oficio a decadência, argumento totalmente novo nos autos, sem antes determinar a intimação do recorrente para manifestar-se a respeito. Com isso, restaram inobservados os Princípios do contraditório, ampla defesa e da não surpresa, razão pela qual o acórdão deve ser anulado. Com efeito, de uma simples leitura das peças formuladas pelo recorrente e da sentença recorrida, é possível constatar que em nenhum momento houve debate ou manifestacão acerca da ocorrência de decadência do direito sobre o qual se funda a acão." (fls. 639/640).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida em relação à alegada negativa de prestação jurisdicional, pois a parte recorrente, nas razões deduzidas no embargos declaratórios (fls. 164/176), bem assim nos argumentos apresentados no presente apelo especial (fls. 199/224), pugnou expressamente pelo enfrentamento da tese de violação aos arts. 9 e 10 do CPC, em razão do acórdão recorrido ter reconhecido de ofício a decadência, sem antes determinar a intimação do embargante para manifestar-se a respeito.
+Contudo, o Tribunal de origem quedou silente sobre tais argumentações, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022 do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ADMINISTRATIVO. IMPROBIDADE. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA. AGRAVO INTERNO PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - É omisso o acórdão que deixa de manifestar-se sobre questões relevantes, oportunamente suscitadas e que poderiam levar o julgamento a um resultado diverso do proclamado. Nessas condições, a não apreciação de tese, à luz de dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno provido, para conhecer do A gravo e dar provimento ao Recurso Especial do Ministério Público do Estado de Minas Gerais.
+(AgInt no AREsp 612.758/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 3/12/2020, DJe 18/12/2020)
+ANTE O EXPOSTO, conheço do agravo e dou parcial provimento ao recurso especial para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão aqui considerada omitida.
+Publique-se.
+EMENTA
