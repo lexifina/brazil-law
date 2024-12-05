@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO contra acórdão prolatado, por unanimidade, pela 4ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de Agravo de Instrumento, assim ementado (fl. 30e):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. ASTREINTES. VALOR DIÁRIO. REDUÇÃO. CONTAGEM DA MORA. DIAS CORRIDOS.
+1. O artigo 537 do Código de Processo Civil prevê a possibilidade de imposição de multa diária, visando a compelir o réu ao cumprimento de obrigação de fazer ou de não fazer. É cabível a cominação de multa diária pelo descumprimento injustificado da decisão judicial, na esteira do referido preceito legal, se for suficiente e compatível com a obrigação, não podendo, no entanto, ser exorbitante ou desproporcional.
+2. O fundamento da aplicação de multa por descumprimento de decisão judicial é compensar a mora, e não gerar o enriquecimento sem causa da parte a quem favorece a astreinte. A Corte tem decidido, em casos como o ora em exame, ser cabível a redução da multa diária aplicada em caso de descumprimento de obrigação de fazer, em homenagem ao princípio da razoabilidade.
+3. O prazo para cumprimento administrativo de decisão não deve ser contado em dias úteis, como os prazos judiciais, mas, sim, em dias corridos, por se tratar de dilação dedicada ao exercício de direito material e de faculdade processual.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao dispositivo a seguir relacionado, alegando-se, em síntese, que:
+(i) Art. 219 do Código de Processo Civil - apenas os dias úteis devem ser considerados para o cálculo da multa diária pelo descumprimento da obrigação de fazer. "Conforme a União sustentou, sem sucesso, perante o Eg. Tribunal a quo, a multa do art. 497 do CPC não tem natureza jurídica de direito material, pois não é ressarcitória, indenizatória ou compensatória. Seu caráter é, portanto, eminentemente processual, inibitório e coercitivo; uma ferramenta capaz de garantir a efetividade das decisões judiciais." (fl. 38e).
+Sem contrarrazões, o recurso foi admitido (fl. 65e).
+Feito breve relato, decido.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual o prazo para cumprimento das astreintes é processual e por isso deve ser computado em dias úteis.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. ATRASO NA IMPLANTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. MULTA DIÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 E 356 DO STF. INDICAÇÃO DE DISPOSITIVOS VIOLADOS. NÃO OCORRÊNCIA. DEFICIÊNCIA RECURSAL. SÚMULA N. 284 DO STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+7. Por se tratar "de instrumento de coerção para a efetividade da tutela jurisdicional, a incidência da multa prevista no art. 536, § 1º, e 537 do CPC é consectário lógico do descumprimento da ordem judicial, não se confundindo com a postulação de direito material apresentada em juízo. Por isso, o cômputo do prazo estipulado em dias para a prática das prestações de fazer não destoa do regime legal previsto para os demais prazos processuais, devendo-se considerar os dias úteis" (REsp n. 1.778.885/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/6/2021, DJe de 21/6/2021). Incidência da Súmula n. 83 do STJ.
+(..)
+10. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.340.040/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 29/4/2024, DJe de 7/5/2024.)
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, nos termos da fundamentação .
+Publique-se e intimem-se.
+EMENTA
