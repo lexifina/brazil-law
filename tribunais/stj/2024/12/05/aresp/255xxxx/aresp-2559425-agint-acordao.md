@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ART.  537  DO  CPC.  VIOLAÇÃO.  ARGUMENTAÇÃO  DEFICIENTE.  SÚMULA  284/STF.  ASTREINTES.  IRRISORIEDADE  NÃO  VERIFICADA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.
+1.  Não  comporta  conhecimento  o  recurso  especial  em  que  a  parte  recorrente  limita-se  a  enumerar  dispositivos  de  lei  sem,  todavia,  cotejar  e  explicitar  os  motivos  pelos  quais  os  comandos  normativos  não  estariam  sendo  aplicados.  Incidência,  por  analogia,  dos  preceitos  da  Súmula  284/STF.
+2.  A  revisão  do  montante  fixado  a  título  de  astreintes  somente  pode  ser  realizada  por  esta  Corte  Superior  em  hipóteses  excepcionais  nas  quais  se  verifique  violação  dos  princípios  da  proporcionalidade  e  da  razoabilidade,  situação  que  não  se  verifica  no  caso  concreto,  em  que  foram  fixadas  pelo  Tribunal  de  origem  em  R$  100.000,00  .
+Agravo  interno  improvido.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  agravo  interno  interposto  por  ISADORA  SALES  ALCANTARA  DE  OLIVEIRA  contra  decisão  monocrática  de  minha  relatoria  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  razão  da  Súmula  n.  284/STF.
+Extrai-se  dos  autos  que  o  recurso  especial  inadmitido  foi  interposto,  com  fundamento  no  art.  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  Federal ,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  PERNAMBUCO  assim  ementado  (fls.  334-335):
+EMENTA:  AGRAVO  DE  INSTRUMENTO.  PLANO  DE  SAÚDE.  AÇÃO  DE  OBRIGAÇÃO  DEFAZER  COM  PEDIDO  DE  TUTELA.  MULTA  COMINATÓRIA.  REDUÇÃO  EM  PRIMEIRO  GRAU.  NECESSIDADE  DE  REVISÃO  DA  DECISÃO.  APLICAÇÃO  DO  PRINCÍPIO  DAPROPORCIONALIDADE  E  RAZOABILIDADE.  INEXISTÊNCIA  DE  COISA  JULGADA.  READEQUAÇÃO  DO  VALOR.  RECURSO  PROVIDO  PARCIALMENTE.
+1.  As  astreintes  possuem  caráter  nitidamente  coercitivo  e  o  escopo  precípuo  desse  instituto  é compelir  o  demandado  a  cumprir  a  obrigação  específica  e,  por  esse  motivo,  o  valor  da  multa  não pode  ser  ínfimo,  ao  ponto  de  não  representar  qualquer  pressão  para  o  devedor.
+2.  O  legislador  não  estabeleceu  parâmetros  para  determinação  do  valor  dessa  penalidade.
+Todavia,  existem  preceitos  jurídicos  que  devem  ser  observados  pelo  julgador  para  que  tal  instituto possa  atingir  sua  finalidade,  sem  causar  uma  restrição  exacerbada  ao  patrimônio  do  devedor.
+3.  No  julgamento  de  demanda  de  natureza  repetitiva  o  Tribunal  Superior  entendeu  que  a  decisão que  fixa  multa  cominatória  não  faz  coisa  julgada  podendo  ser  alterada  pelo  julgador posteriormente.
+4.  Na  espécie,  a  redução  perpetrada  pela  magistrada  de  primeiro  grau,  apresenta-se  necessária, impositiva.  As  astreintes  atingiram,  realmente,  valor  exorbitante,  dissociada  dos  princípios  da razoabilidade  e  da  proporcionalidade.  Entretanto,  limitar  o  valor  da  multa  a  60  (sessenta)  dias  de descumprimento  (R$  30.000,00),  não  se  mostra  condizente  com  a  situação  versada.  Arecalcitrância  teve  início  em  01/02/2017  e  não  existe  prova  do  cumprimento  da  tutela.
+5.  A  parte  agravada  não  só  frustrou  uma  expectativa  da  agravante,  injustificadamente,  como também,  não  agiu  com  presteza  e  obediência  à  determinação  emanada  do  Poder  Judiciário, permanecendo  inerte  quanto  a  reativação  do  plano  de  saúde.
+6.  Para  alcançar  um  valor  justo  o  valor  da  multa  deve  ser  majorado  para  R$  100.000,00  (cem  mil  reais).
+7  -  Recurso  parcialmente  provido.
+A  decisão  agravada  apresenta  a  seguinte  ementa  (fl.  532):
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ART.  537  DO  CPC.  VIOLAÇÃO.  ARGUMENTAÇÃO  DEFICIENTE.  SÚMULA  N.  284/STF.  INCIDÊNCIA,  POR  ANALOGIA.  AGRAVO  CONHECIDO  PARA  CONHECER  DO  RECURSO  ESPECIAL  E  NEGAR-LHE  PROVIMENTO.
+Alega  a  agravante  que  "o  cerne  deste  feito  é  sobre  execução  de  multa  diária  aplicada  por  descumprimento  de  decisão  que  concedeu  o  pedido  de  tutela  de  urgência,  tendo  totalizado  o  montante  de  R$  1.181.603,77  (um  milhão,  cento  e  oitenta  e  um  mil,  seiscentos  e  três  reais  e  setenta  e  sete  centavos),  e,  posteriormente,  minorado  para  R$  100.000,00  (cem  mil  reais)"  (fl.  547).
+Sustenta,  outrossim,  que  "mostra-se  impossível  a  aplicação  analógica  da  Súmula  284/STF,  uma  vez  que  o  Recurso  Especial  foi  devidamente  fundamentado,  pormenorizando  a  violação  do  acórdão  recorrido  à  Lei  Federal,  em  específico  o  art.  537  do  Código  de  Processo  Civil"  (fl.  548).
+Pugna,  por  fim,  caso  não  seja  reconsiderada  a  decisão  agravada,  pela submissão d o  presente  agravo  à  apreciação  da  Turma.
+A  agravada  apresentou  contrarrazões  (fls.  556-603).
+É,  no  essencial,  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ART.  537  DO  CPC.  VIOLAÇÃO.  ARGUMENTAÇÃO  DEFICIENTE.  SÚMULA  284/STF.  ASTREINTES.  IRRISORIEDADE  NÃO  VERIFICADA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.
+1.  Não  comporta  conhecimento  o  recurso  especial  em  que  a  parte  recorrente  limita-se  a  enumerar  dispositivos  de  lei  sem,  todavia,  cotejar  e  explicitar  os  motivos  pelos  quais  os  comandos  normativos  não  estariam  sendo  aplicados.  Incidência,  por  analogia,  dos  preceitos  da  Súmula  284/STF.
+2.  A  revisão  do  montante  fixado  a  título  de  astreintes  somente  pode  ser  realizada  por  esta  Corte  Superior  em  hipóteses  excepcionais  nas  quais  se  verifique  violação  dos  princípios  da  proporcionalidade  e  da  razoabilidade,  situação  que  não  se  verifica  no  caso  concreto,  em  que  foram  fixadas  pelo  Tribunal  de  origem  em  R$  100.000,00  .
+Agravo  interno  improvido.
+VOTO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+O  recurso  não  merece  prosperar,  na  medida  em  que  o  agravante  não  trouxe  argumentos  capazes  de  infirmar  a  decisão  recorrida.
+Conforme  destacado  na  decisão  agravada,  quanto  à  alegação  de  afronta  ao  art.  537  do  Código  de  Processo  Civil,  o  recurso  não  comporta  conhecimento,  visto  que  a  recorrente  limitou-se  a  enumerar  o  dispositivo  de  lei  que  entende  violado  sem,  todavia,  cotejar  e  explicitar  os  motivos  pelos  quais  o  comando  normativo  deixou  de  ser  aplicado,  o  que  atrai  os  preceitos  da  Súmula  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia".
+Nesse  sentido, cito :
+1.  Exige-se  para  a  admissão  do  apelo  clareza  na  indicação  dos  artigos  de  lei  federal  alegadamente  violados,  bem  como  a  explanação  coerente,  clara  e  precisa  da  medida  em  que  o  aresto  objurgado  teria  afrontado  cada  um  desses  dispositivos,  ou  a  eles  tenha  dado  interpretação  divergente  da  adotada  por  este  ou  por  outro  Tribunal.  Incidente  a  Súmula  nº  284/STF.  (AgInt  no  AREsp  n.  2.044.724/BA,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  5/9/2022.)
+2.  A  mera  citação  genérica  de  dispositivo  de  lei  tido  como  violado  desarticulada  de  fundamentação  vinculada  à  norma  não  enseja  o  cabimento  de  recurso  especial.  Nos  termos  da  jurisprudência,  o  recurso  especial  não  constitui  um  menu  ou  cardápio  em  que  a  parte  apresenta  um  rol  de  artigos  para  que  o  julgador  escolha  sobre  quais  laborar.  A  hipótese  configura  vício  construtivo  da  peça,  a  atrair  a  incidência  da  Súmula  n.  284/STF  (É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia).
+ ..  (AgInt  no  REsp  n.  1.308.906/SP,  relator  Ministro  Og  Fernandes,  Segunda  Turma,  DJe  de  30/6/2022.)
+Ademais,  esta  Corte  firmou  o  entendimento  de  que  a  "questão  relativa  à  redução/aumento  das  astreintes  não  pode  ser  revista  na  instância  especial,  pois  tal  procedimento  implica  reexame  das  circunstâncias  fáticas  que  delimitaram  a  controvérsia  (Súmula  n.º  7  do  STJ),  salvo  se  o  arbitramento  for  excessivo  ou  ínfimo,  o  que  não  se  verifica  no  caso  dos  autos"  (AgInt  no  AREsp  n.  1.907.687/PE,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  DJe  de  23/8/2023).
+Portanto,  no  caso  dos  autos,  em  que  as  astreintes  foram  minoradas  pelo  Tribunal  de  origem  para  R$  100.000,00,  o  valor  fixado  não  se  mostra  irrisório  para  superação  dos  preceitos  da  Súmula  n.  7/STJ.
+Quanto  ao  pedido  da  justiça  gratuita,  está  mantido  o  benefício  já  deferido  na  origem  (fl.  99).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  como  penso.  É  como  voto.
