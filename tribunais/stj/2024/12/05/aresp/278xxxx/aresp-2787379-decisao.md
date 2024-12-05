@@ -1,0 +1,15 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao apelo defensivo para substituir a pena corporal por restritiva de direitos, mantendo sua condenação pela prática do crime do art. 33, § 4º, c/c 40, III, da Lei n. 11.343/2006.
+A defesa aponta a violação dos arts. 1º e 33 do CP e 386 do CPP, alegando, em síntese, que o crime de tráfico de entorpecente não ficou configurado tendo em conta a ausência do dolo na conduta da recorrente. Ressalta que "a prova da autoria delitiva não se mostra robusta, principalmente porque, como dito, não houve confirmação pelo laudo grafotécnico de que era a letra da recorrente Solange aquela contida no remetente-destinatário, tendo sido ouvida somente uma testemunha que nem ao menos presenciou os fatos narrados, tendo a ligação da recorrente com o crime baseada no envio de um pacote, que não teve verificado o conteúdo" (e-STJ fl. 236).
+Contrarrazões às e-STJ fls. 242/247.
+Manifestação do Ministério Público Federal às e-STJ fls. 298/305.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que a recorrente foi condenada à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, substituída a reprimenda corporal pro restritiva de direitos, pelo cometimento do crime do art. 33, § 4º, c/c 40, III, da Lei n. 11.343/2006.
+A defesa alega a ausência de provas seguras para a condenação, tendo em conta a ausência do dolo na conduta da recorrente.
+Anota-se que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+No caso, consta do acórdão recorrido que "tendo sido observadas, na espécie, todas as regras que compõem a fórmula constitucional do due process of law, e uma vez constatada a robustez do acervo probante confeccionado pelo Parquet, conclui-se que nenhum dos argumentos de mérito deduzidos pela combativa defensoria está a merecer acolhimento, no que se refere à acusada Solange" (e-STJ fls. 207/208).
+Registra-se, ainda, que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova" (AgRg no HC n. 672.359/SP, desta Relatoria, DJe 28/6/2021)".
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
