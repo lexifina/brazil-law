@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CABEC -CAIXA DE PREVIDÊNCIA PRIVADA BEC (CABEC) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 358/367).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, CABEC alegou ofensa aos arts. 489, § 1º e 1.022 do NCPC. Sustentou que o aresto recorrido foi omisso, porque não se manifestou sobre os motivos pelos quais chegou ao entendimento de que desaposentação não é renúncia.
+Foram apresentadas contrarrazões (e-STJ, fls. 323/332).
+Quanto à eventual assertiva de existência de omissão no aresto recorrido
+CABEC alegou ofensa aos arts. 489, § 1º e 1.022 do NCPC. Sustentou que o aresto recorrido foi omisso, porque não se manifestou sobre os motivos pelos quais chegou ao entendimento de que desaposentação não é renúncia.
+Sobre o tema, assim decidiu a Corte local:
+Em razão da apelação cível interposta, cumpre analisar a sentença em sua totalidade, em especial para verificar se a previsão regulamentar permite a compreensão de que o instituto conhecido por "desaposentação" implica renúncia ao benefício complementar. Ainda, se há a obrigação de devolução dos valores recebidos pela requerida. Pois bem, tenho que não merecem prosperar os argumentos recursais.
+Inicialmente, cumpre salientar que a CABEC é entidade de previdência privada, que tem como objetivo conceder aposentadoria complementar aos empregados do Banco do Estado do Ceará (BEC).
+ ..
+Diferentemente do que ocorre com o regime da previdência social, a previdência privada tem caráter complementar e facultativo, sendo regida pelo Direito Civil.
+Esse regime de previdência de adesão facultativa está baseado em regime de capitalização que demanda prévia constituição de reserva, financiada pelos próprios participantes e assistidos, pelos aportes dos patrocinadores, se houver, e pela rentabilidade das aplicações e dos investimentos dessas contribuições.
+Analisando detidamente os autos, verifico que a parte autora anexou aos autos, mais precisamente às fls. 85/114, o regulamento do benefício contratado, que, por se tratar de previdência privada regida pelo Direito Civil, será fundamental para a compreensão do que pode fazer jus ou não à beneficiária. Desse modo, urge a análise dos artigos que supostamente dão sustento à sua pretensão, mais precisamente o art. 11 e o art. 66, bem como os demais que versam sobre o tema em debate.
+ ..
+Quanto ao art. 11, que é fundamentação principal do apelo manejado, verifico que este não corrobora com as pretensões da parte autora. Ora, o instituto da desaposentação não configura cessação do benefício da Previdência Social, posto que, na realidade dos fatos, trata de opção do aposentado pelo Regime Geral da Previdência Social (RGPS) receber aposentadoria mais vantajosa, em caso de ter se aposentado, mas ter continuado a trabalhar - mantendo, portanto, as contribuições mensais regulares para a Previdência.
+Inclusive, o valor da aposentadoria que recebia inicialmente está incluso na quantia que passou a perceber após a opção citada acima, tendo em vista que a vantagem existente se dá em razão do tempo maior de contribuição, considerando, portanto, aquele período de contribuição até a aposentadoria e consequente direito ao benefício complementar.
+O art. 66, por sua vez, trata do valor mínimo e máximo de complementação, limitado pelo parágrafo único, que salienta que o valor mínimo não se aplica à complementação de aposentadoria por tempo de contribuição, que é o caso dos autos. Portanto, apenas há valor máximo a ser fornecido.
+Interpretando o referido valor máximo, verifico que a quantia a ser paga, pela CABEC, não pode ser maior que o salário recebido pelo beneficiário quando este estava na ativa, que serviu de cálculo para a referida complementação. Isto não obsta o recebimento pela parte apelada dos valores que recebia inicialmente pela previdência privada, contrariando o que tenta fazer crer a apelante.
+Ainda, é de extrema importância observar o art. 71 do referido regulamento, que evidencia o cálculo exato que é realizado para determinar o valor a ser recebido pelo beneficiário.
+ ..
+Na apelação, a parte autora sustenta que o novo valor maior recebido pela beneficiária impede a continuação do benefício complementar. Entretanto, percebe-se que só existe no cálculo um valor quanto ao benefício recebido decorrente da aposentadoria pelo INSS, ou seja, que pode interferir no valor a receber, que consiste "valor do benefício calculado pela CABEC na data da concessão da complementação de aposentadoria(..)". Ou seja, o valor do benefício deve ser calculado na data da concessão da complementação de aposentadoria. Tenho, portanto, que a alteração na percepção dos valores pela parte apelada em nada altera o cálculo acima.
+Ainda, não há artigo no regulamento colacionado que permita a compreensão que são indevidos os valores complementares recebidos pela demandada.
+Não havendo ilegalidade no recebimento da beneficiária dos valores acordados, não há que se falar em devolução das quantias retroativas e já pagas, que foi o objeto da presente ação de cobrança (e-STJ, fls. 221/224).
+E ainda no julgamento dos embargos de declaração, assim ficou consignado:
+Isso porque, no trecho do decisum objeto da insurgência, não se questiona que o fenômeno da "desaposentação" pressupõe a renúncia de ato aposentatório anterior para fins de alcançar novo jubilamento mais vantajoso, aproveitando-se do período de contribuição junto ao INSS após a primeira aposentadoria, mas tão somente que, mediante correta interpretação do art. 11 e demais dispositivos do Regulamento da CABEC à realidade dos fatos apresentados, o instituto em tela não representa a perda do benefício complementar da parte embargada.
+É o caso, então, de aplicar-se aqui o entendimento sintetizado na Súmula n. 18 deste Tribunal, sendo indevidos embargos de declaração que têm por única finalidade o reexame da controvérsia jurídica já apreciada (e-STJ, fl. 299).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJCE emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido que, interpretando-se os dispositivos constantes do regulamento da CABEC, o cálculo do benefício complementar é realizado no ato de sua concessão.
+De qualquer sorte, constata-se que não houve cessação de benefício, mas sua substituição, tendo a parte contrária permanecido vinculada à previdência. Nesse sentido, não existe nenhum artigo no regulamento que permita a compreensão de que seriam indevidos os valores complementares recebidos pela demandada, o que impede a devolução de quantias pagas.
+No tocante ao tema desaposentação e renúncia, ficou consignado que, pela correta interpretação do art. 11 e demais dispositivos do Regulamento da CABEC à realidade dos fatos, não há como concluir pela perda do benefício complementar da parte ora agravada.
+O que se vê, na verdade, é a irresignação de CABEC com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto nos arts. 489 e 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados nos mencionados artigos.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+Nessas condições, CONHEÇO do agravo para CONHECER do recurso especial e NEGAR-LHE PROVIMENTO.
+Considerando a aplicabilidade do NCPC, MAJORO em mais R$ 500,00 (quinhentos reais) o valor dos honorários advocatícios anteriormente fixados em desfavor de CABEC, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
