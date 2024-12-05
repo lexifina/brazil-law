@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Ketlyn Garcia Oliveira contra o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul que denegou o HC n. 5388467-78.2023.8.21.7000/RS (fls. 77/88).
+Colhe-se dos autos que a recorrente foi presa em flagrante, ao lado de outros acusados, pela suposta prática dos crimes de homicídio qualificado e furto qualificado, sendo a prisão convertida em preventiva, em 18/2/2017, nos autos do Processo n. 0025968-77.2017.8.21.0001 (fl. 144). A sua prisão preventiva foi convertida em prisão domiciliar em razão da sua condição de genitora de filho menor de 12 anos.
+Posteriormente, em razão do descumprimento das condições impostas para a prisão domiciliar e o fato de não ter sido localizada para a audiência de instrução e julgamento, a Magistrada da 1ª Vara do Júri do Foro Central da comarca de Porto Alegre/RS, em 18/1/2021, restabeleceu a prisão preventiva (fls. 145/146). A recorrente foi pronunciada em 14/11/2022, sendo a custódia cautelar mantida (fls. 21/32).
+A segregação cautelar, ao ser reanalisada pelo Magistrado primevo, foi mantida em diferentes oportunidades (fls. 36, 37/38, 39, 40/41 e 42).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem e convalidou a segregação cautelar na data de 23/2/2024 (fls. 77/88).
+Daí o presente recurso, em que se alega a ausência de contemporaneidade e de fundamentação idônea para a manutenção da constrição cautelar.
+Aponta-se que a recorrente é genitora de um filho menor de seis anos, necessitando de cuidado materno.
+Defende-se que a simples não localização do réu para responder ao chamamento judicial ou o fato de encontrar-se em local incerto e não sabido não constitui motivação suficiente para o encarceramento provisório (fl. 97).
+Requer-se a revogação da prisão preventiva ou o restabelecimento da prisão domiciliar.
+Após a decisão de fl. 135 ser reconsiderada, a liminar foi indeferida em 26/4/2024 (fls. 149/151).
+Informações prestadas (fls. 153/155).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 162/163).
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+Inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta à recorrente.
+Com efeito, como dito na análise da liminar, a contemporaneidade da prisão preventiva não está necessariamente ligada à data da prática do crime, mas, sim, à subsistência da situação de risco que justifica a medida cautelar. Nesse sentido, do Supremo Tribunal Federal: HC n. 206.116-AgR, Ministra Rosa Weber, Primeira Turma, DJe 18/10/2021.
+O Juízo de primeiro grau revogou a prisão domiciliar da recorrente e a decisão foi mantida pelo Tribunal a quo, sob a seguinte fundamentação (fls. 40 e 85 - grifo nosso):
+ ..
+Trata-se de fato grave, sendo a vítima cruelmente assassinada com golpes de arma branca.
+Além disso, compulsando os autos, verifica-se que a ré já foi beneficiada com a prisão domiciliar em duas oportunidades, tendo, contudo, descumprido as ordens imposta a ela, inclusive, ausentando-se de seu endereço sem comunicar ao juízo.
+O fato da ré possuir filho menor de 12 anos, por si só, não autoriza a concessão automática da domiciliar. Deve ser levada em consideração a gravidade do fato, tratando-se, neste caso, de homicídio qualificado consumado.
+ ..
+Destaco que a observação da ordem cronológica dos fatos, disposta no relatório deste habeas corpus, juntamente com os argumentos acima transcritos, dão a exata noção de que a prisão da paciente é necessária no caso concreto, não tendo ela cumprido com as condições impostas quando, em mais de uma vez, teve a oportunidade de estar em prisão domiciliar.
+Assim, mesmo que não tenha tido intercorrência criminal nova, como aduz a impetrante, o fato é que o processo-crime que gerou o decreto preventivo tem andamento prejudicado/retardado pelo "sumiço" da paciente.
+Especificamente sobre o fato de ser mãe de uma criança de 6 anos, o que poderia ensejar a substituição da prisão preventiva por prisão domiciliar, conforme art. 318, inc. V, do CPP e o entendimento exposto no HC Coletivo 143.641, julgado pelo STF, não pode ser observado sem os demais elementos que compõem o caso concreto.
+Como  se  vê,  o  periculum  libertatis  da  recorrente  foi  evidenciado  pelas  instâncias  ordinárias.
+Assim,  observa-se  da  análise  dos  trechos  acima  que  a  constrição  cautelar  está  alicerçada  em  elementos  vinculados  à  realidade  ante  as  referências  às  circunstâncias  fáticas  justificadoras,  com  destaque,  principalmente,  ao descumprimento das condições impostas quando concedida, em duas oportunidades, a prisão domiciliar;  aplicação  da  lei  penal ;  e  ao  modus  operandi .  Tudo  a  revelar  e  a  justificar  a  manutenção  da  medida  extrema.
+Não  é  outra  a  opinião  do  Ministério  Público  Federal,  o  qual  também  adoto  como  razão  de  decidir  (fls.  162/163).
+A nobre parecerista Subprocuradora-Geral da República Maria Emilia Moraes de Araujo ressaltou que, diversamente do que sustenta a Defesa, não se trata de simples não localização da acusada para responder ao chamamento judicial, mas de efetiva condição de foragida, vez que inicialmente esteve presente no processo e depois não mais foi encontrada (fl. 163).
+Segundo  a  jurisprudência  desta  Corte,  a  evasão  do  distrito  da  culpa,  comprovadamente  demonstrada  nos  autos  e  reconhecida  pelas  instâncias  ordinárias,  constitui  motivação  suficiente  a  justificar  a  preservação  da  segregação  cautelar  para  garantir  a  aplicação  da  lei  penal  (AgRg  no  RHC  n.  117.337/CE,  Ministro  Jorge  Mussi,  Quinta  Turma,  DJe  28/11/2019).
+Ainda,  confira-se  o  AgRg  nos  EDcl  no  RHC  n.  197.493/CE,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  3/7/2024.
+Ademais, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023 - grifo nosso).
+Em igual direção, ainda: AgRg no RHC n. 195.967/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 29/5/2024; AgRg no HC n. 902.041/MG, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 29/5/2024; AgRg no HC n. 889.182/GO, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 22/5/2024; e AgRg no RHC 167.672/BA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/5/2024.
+Sem contar que a jurisprudência desta Corte Superior sedimentou-se no sentido de que o descumprimento de medida cautelar imposta como condição para a liberdade provisória, demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal (AgRg no RHC n. 189.368/DF, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/5/2024 - grifo nosso).
+Por fim, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias sua necessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, ausente qualquer constrangimento ilegal a ser sanado na presente via, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. FURTO QUALIFICADO. PRISÃO DOMICILIAR REVOGADA. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. ACUSADA FORAGIDA. APLICAÇÃO  DA  LEI  PENAL  PRECEDENTES.  FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL AUSENTE. PARECER  ACOLHIDO.
+Recurso em habeas corpus improvido.
