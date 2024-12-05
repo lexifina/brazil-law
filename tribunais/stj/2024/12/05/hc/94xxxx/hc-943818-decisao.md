@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROSINALDO FERREIRA PAZ, MARLENE MARINHO DE ARAÚJO PAZ e JOSÉ FERREIRA PAZ NETO contra acórdão da 2ª Turma do Tribunal Regional Federal da 5ª Região, na Apelação n. 0808577-63.2018.4.05.8200.
+Em seu arrazoado, a parte impetrante alega, de início, que a prévia interposição de recurso especial contra o mesmo acórdão não é empecilho para o conhecimento do presente writ.
+Sustenta a conduta imputada se amolda ao disposto no art. 89 da Lei n. 8.666/1993 e não ao art. 90 da mesma norma.
+Aponta atipicidade da conduta e pugna pela nulidade da condenação, com a reforma do acórdão impugnado a fim de que os pacientes sejam absolvidos.
+Solicita o direito de realizar sustentação oral.
+Sem pedido liminar e sem informações, o Ministério Público opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 3829-3838).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, cumpre ressaltar que " a  decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro Felix Fischer, Quinta Turma, DJe 28/3/2019).
+É "plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC 607.055/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 09/12/2020, DJe 16/12/2020).
+Faz-se necessário destacar, ainda, que "inexistindo constrangimento direto e concreto ao direito de ir e vir do paciente, incabível a utilização do habeas corpus para finalidade outra que não seja remediar a restrição ou ameaça ilegal, concreta e direta, ao direito de locomoção." (AgRg no HC n. 857.496/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024; grifou-se).
+De fato, não se verifica hipótese de cabimento do presente habeas corpus, inexistindo evidência de risco iminente ao direito de locomoção dos pacientes.
+E consoante relatado pelo próprio impetrante, a defesa já interpôs recurso especial contra o mesmo acórdão aqui impugnado, situação que revela a ocorrência de clara violação ao princípio da unirrecorribilidade.
+Com efeito, "não é cabível a impetração de habeas corpus concomitantemente com interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade" (AgRg no HC n. 549.368/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/12/2019).
+Vale registrar que " a  violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato.  ..  verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas, seja pela utilização da via recursal concomitantemente ao ajuizamento de ação autônoma de impugnação, seja pela impugnação do mesmo ato em duas vias autônomas diferentes  .. ." (AgRg no HC n. 899.454/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
