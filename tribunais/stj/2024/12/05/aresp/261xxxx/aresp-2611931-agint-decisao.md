@@ -1,0 +1,27 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de e-STJ fls. 1039/1051, reconsidero a decisão de e-STJ fls. 1032/1033 proferida pela Ministra Presidente do STJ e passo a novo exame do agravo em recurso especial interposto por PAULO RENATO DE OLIVEIRA FIGUEIREDO, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/1/2024.
+Concluso ao gabinete em: 21/8/2024.
+Ação: de obrigação de fazer c/c cobrança de multa contratual, danos materiais e danos morais, ajuizada pelo agravante em face de MNZ AUTOMAÇÃO RESIDENCIAL LTDA e SMS TECNOLOGIA ELETRÔNICA LTDA, sucedida pela GL ELETRO-ELETRÔNICOS LTDA.
+Sentença: julgou procedentes os pedidos iniciais, para condenar solidariamente as rés na obrigação de restituírem os valores desembolsados pelo autor para a contratação do serviço e os despendidos para a instalação dos equipamentos e restituição do imóvel ao estado anterior à instalação e os prejuízos causados na residência do autor, verbas que serão objeto de liquidação, bem como para condenar as réus ao pagamento da multa diária de 0,5% do valor do contrato que incidirá desde a data da primeira instalação até a presente data e ao pagamento de compensação por danos morais à parte autora, no valor de R$ 30.000 (trinta mil reais).
+Acórdão: integralizado pelo acórdão de e-STJ fls. 665/666, negou provimento ao recurso de apelação interposto pela GL ELETRO-ELETRÔNICOS LTDA, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. FALHA NA PRESTAÇÃO DOS SERVIÇOS CONTRATADOS PELO AUTOR. DANOS MATERIAIS E MORAIS ALEGADOS. INCONFORMISMO DA SEGUNDA DEMANDADA. PRELIMINARES REJEITADAS.
+1. No caso, verifica-se que as insurgências manifestadas neste recurso devem prosperar parcialmente, eis que, a despeito de restar devidamente comprovada a responsabilidade solidária das rés, pela prestação defeituosa dos serviços adquiridos pelo consumidor litigante, as verbas indenizatórias fixadas, a título de danos material e moral, devem ser corrigidas, em razão da equivocada interpretação do douto magistrado de origem.
+2. Em relação à cláusula penal moratória, verifica-se que, diante de os fatos evidenciarem a ocorrência de vícios de qualidade do serviço, e não de atraso na entrega do mesmo (circunstância exposta na inicial), a incidência da referida multa é incabível. A inaplicabilidade de tal multa é reforçada pela demonstração de inutilidade do serviço (art. 395, parágrafo único, do CC).
+3. Quanto aos danos materiais, apesar do acerto da condenação das rés ao pagamento da verba de desembolso, representada nos valores da contratação (R$110.000,00), implementação de estrutura necessária ao serviço e à restituição do imóvel ao estado anterior - montantes a serem aferidos em sede de liquidação, a parcela relativa aos prejuízos causados na residência do autor está ligada à situação indeterminada e não comprovada, devendo, portanto, ser excluída da condenação imposta.
+4. Por fim, observa-se que a frustração do autor de não obter o correto funcionamento do serviço, associada aos transtornos das constantes visitas técnicas e reclamações (fato prolongado por mais de 2 anos), evidenciam os danos morais sofridos. Verba indenizatória fixada em valor desproporcional (R$30.000,00), devendo ser reduzida para a quantia da R$15.000,00.
+RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Recurso especial: aponta violação ao art. 397 do CC, sob o argumento de que, como os equipamentos instalados nunca funcionaram, está caracterizada a mora das rés.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca do art. 397 do CC, indicado como violado, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+Saliente-se, por oportuno, que o prequestionamento ficto (art. 1.025 do CPC) exige a indicação do art. 1.022 do CPC como violado, o que não ocorreu no particular. Nesse sentido: AgInt no AREsp 1.150.744/SE, 3ª Turma, DJe 8/3/2018 e AgInt no AREsp 1.187.992/SP, 4ª Turma, DJe 2/5/2018.
+Forte nessas razões, RECONSIDERO a decisão de e-STJ fls. 1032/1033, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA DE MULTA CONTRATUAL, DANOS MATERIAIS E DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de obrigação de fazer c/c cobrança de multa contratual, danos materiais e danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Reconsiderada a decisão de e-STJ fls. 1032/1033. Agravo conhecido. Recurso especial não conhecido.
