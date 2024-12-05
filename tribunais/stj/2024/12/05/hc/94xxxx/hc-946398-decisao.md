@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WESLLEY RIVELLI DA PASCUA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de homicídio. A prisão foi decretada visando garantir a ordem pública em razão da gravidade em concreto da conduta pois o crime teria disparado vários tiros contra a vítima por por vingança tendo em vista a existência de desafetos anteriores entre ela e o paciente envolvendo o tráfico de drogas.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 14-23.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar ponderando suas condições pessoais favoráveis.
+Requer a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas.
+Liminar indeferida às fls. 64-65.
+Informações prestadas às fls. 71-91.
+O Ministério Público Federal, às fls. 115-118, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Quanto à ausência de fundamentação do decreto prisional, a análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que o paciente, em concurso de agentes (com a concorrência de inimputável), mediante emboscada, efetuou vários disparos de arma de fogo contra a vítima, que lhe provocaram a morte, tendo como objetivo o acerto de dívida referente a venda de entorpecentes - fls. 17-18.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"As instâncias originárias destacaram que a prisão preventiva do paciente está fundamentada no modus operandi e na gravidade concreta do delito: o recorrente, juntamente a outros 06 (seis) agentes, mediante diversos disparos de arma de fogo, teria ceifado a vida da primeira vítima e tentado matar a sua companheira, quando eles saíam de casa, tudo em virtude de disputas envolvendo o tráfico de drogas na região. A ação estaria vinculada ainda à facção criminosa "Trem Bala" e ao PCC. Consignou-se, ainda, que o recorrente possui (4) quatro condenações pretéritas e responde a outras 3 (três) ações, todas de natureza penal, incluindo a prática de outro crime de homicídio tentado. Por fim, o agravante se encontra foragido.
+4. Gravidade concreta da conduta. A conduta dos agentes, sem prejuízo da conclusão a ser aferida após a instrução do processo, extrapola os limites objetivos do tipo penal envolvido e evidencia, ao menos para fins de decretação da prisão preventiva e a priori, a periculosidade social do agente e justifica a prisão, nos termos do art. 312 do Código de Processo Penal" (AgRg no RHC n. 198.810/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/9/2024).
+No mesmo sentido: AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 28/8/2024; AgRg no HC n. 856.692/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/12/2023 e AgRg no RHC n. 184.703/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2023.
+Ressalta-se, ainda, que "a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos de ordem objetiva e subjetiva que autorizem a imposição da medida extrema" (AgRg no HC n. 829.799/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/8/2023).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
