@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED DO CE FED DAS COOP DE TRAB MED DO EST DO CE LTDA. (UNIMED DO CEARÁ) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 334/339).
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra nenhum dos fundamentos da decisão agravada, pois UNIMED DO CEARÁ não infirmou devidamente os seus esteios, deixando de refutar, de forma arrazoada, a incidência das Súmulas n. 5 e 7, ambas do STJ, ao caso.
+Em suma, UNIMED DO CEARÁ limitou-se a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência das Súmulas n. 5 e 7, ambas do STJ, deve o agravante não apenas mencionar que os referidos enunciados devem ser afastados, mas também demonstrar que a solução da controvérsia independe do reexame do contrato e dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que não foi feito.
+No caso, o acórdão recorrido consignou expressamente que
+ ..  Cuida-se de Apelação Cível interposta pela operadora Unimed Ceará - Federação das Sociedades Cooperativas Médicas do Estado do Ceará, em face de sentença proferida pelo Juízo da 1ª Vara Cível da Comarca de Iguatu/CE, nos autos da ação de obrigação de fazer com pedido de tutela antecipada, proposta por Maria Ferreira de Paula, representada por Manoel Ferreira de Paula em desfavor da apelante.
+Em breve retrospectiva, na origem, aduziu a requerente, de 95 anos de idade, que possuía relação contratual consistente em plano de saúde. Asseverou ainda que sofreu uma queda em 2014 e fraturou o ramo pubiano esquerdo, fraturou o bolo umeral esquerdo e fraturou a extremidade distal do rádio e precisava fazer tratamento, bem como era portadora de bronquite crônica e doença de Alzheimer.
+Relatou, ainda, que ficou incapaz para realizar suas atividades diárias, necessitando de ajuda de terceiros e, para que a bronquite crônica fosse controlada e deixasse de sentir dor onde teve fraturas, a autora necessitava da liberação do tratamento por meio do Home Care, pois sentia muitas dores e dificuldade de respirar, haja vista que não podia ser internada para tal tratamento, nem os médicos autorizava que a mesma fizesse o tratamento sem ser em seu domicílio, pois poderia agravar seu quadro de saúde.
+Por ter a promovida se recusado a fornecer a internação domiciliar, pugnou pela concessão da tutela de urgência satisfativa, de forma compelir a requerida a disponibilizar o tratamento domiciliar prescrito, bem como a condenação da promovida ao pagamento de danos morais, o que foi concedido pelo juízo a quo.
+Irresignada, a operadora apresentou o presente recurso, arguindo a plena legalidade dos atos praticados, visto a inexistência de obrigatoriedade do serviço Home Care, vez que não consta no Rol da ANS, o que descaracteriza a condenação em danos morais.
+Pois bem.
+É cediço que o contrato de plano de saúde tem como objeto a prestação de serviços para a assistência em caso de eventos futuros e incertos relacionados à saúde do contratante, por meio do qual se obriga o fornecedor a despender os gastos necessários para manter ou restabelecer o estado de boa disposição física e/ou psicológica do consumidor, através de cláusulas preestabelecidas.
+Neste primeiro momento, cabe ressaltar, dada a importância da matéria, que o direito à saúde é reconhecido pela Carta Magna como um direito fundamental (art. 6º), e de aplicação imediata (art. 5º, § 1º), nos termos do art. 196, que dispõe:
+Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal igualitário às ações e serviços para sua promoção, proteção e recuperação.
+Importante destacar, que a relação existente entre as partes é típica de consumo, enquadrando-se a parte autora como consumidora, na linha do que dispõe o art. 2º, do Código de Defesa do Consumidor, e a parte ré como fornecedora, a teor do dispositivo subsequente (CDC, art. 3º) (STJ, Resp. 986947/RN, Relatora Ministra Nancy Andrigui, j. em 11.03.2008).
+ ..
+Feitos os primeiros esclarecimentos acerca da aplicabilidade do código consumerista ao caso em tela, passo à análise das razões do presente recurso.
+A insurgência recursal, consubstancia-se unicamente na alegação da falta de previsão contratual dos procedimentos solicitados, que ensejou a negativa por parte do plano de saúde; inexistência de ato ilícito praticado pela mesma; impugnação ao quantum indenizatório.
+A celeuma cinge-se, portanto, em analisar, se a apelante possui responsabilidade pelos alegados danos imateriais sofridos pela apelada em razão da negativa do tratamento via Home Care prescrito pelo médico assistente que acompanha a paciente.
+De início, deve ser destacado que as resoluções normativas da ANS são atos administrativos de efeito interno, decorrentes de seu poder normativo, para regular a atividade das empresas que prestam serviços de saúde, não tendo força de lei e, portanto, não podendo se investir na função do legislador para vedar o acesso a determinado direito.
+É certo que o Superior Tribunal de Justiça, já firmou entendimento da aplicação do Código de Defesa do Consumidor às entidades operadoras de plano de saúde: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidade de autogestão". (Súmula 608).
+Nesse diapasão, o Código de Defesa do Consumidor, em seu art. 47, aduz que as cláusulas contratuais devem ser interpretadas de modo mais favorável ao consumidor e, desde que caracterizada e demonstrada sua abusividade, há possibilidade de análise dessas cláusulas, conforme mostra o artigo 51, inc. IV, e seu § 1º, inc. II do CDC, a saber:
+Art. 51 - São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que:
+(..) IV - estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a equidade.
+..
+§ 1º Presume-se exagerada, entre outros casos, a vantagem que:
+..
+II - restringe direitos ou obrigações fundamentais inerentes à natureza do contrato, de tal modo a ameaçar seu objeto ou o equilíbrio contratual."
+Considerando que incide a lei consumerista aos serviços prestados por planos de saúde, classificam-se abusivas as cláusulas contratuais que limitam a cobertura de tratamento adequado ao caso da paciente.
+Diante disso, a recusa de cobertura do procedimento solicitado pela paciente não merece respaldo, pois a cláusula utilizada para justificar a rejeição é abusiva e capaz de ocasionar prejuízo à saúde da usuária, idosa, à época, com 94 (noventa e quatro) anos, caso seja tolerada.
+O tratamento pleiteado foi em razão de necessidade de urgência/emergência, devidamente constatada pela idade da paciente, que necessita do tratamento e dos aparelhos para respirar, conforme prescrição do médico especialista habilitado, frente à atual situação da paciente, que necessitava de tratamento Home Care.
+Em que pese o fundamento da operadora em relação à tese da taxatividade mitigada do rol da ANS, tal fundamento resta superado pela Lei nº 14.454/22, que alterou a legislação que rege os planos de saúde (Lei nº 9.656/98), modificou a redação dos arts. 1º e 10, e a posição a ser aplicada é a não taxatividade do rol da ANS.
+Colaciono abaixo os dispositivos legais mencionados:
+Art. 1º Submetem-se às disposições desta Lei as pessoas jurídicas de direito privado que operam planos de assistência à saúde, sem prejuízo do cumprimento da legislação específica que rege a sua atividade e, simultaneamente, das disposições da Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), adotando- se, para fins de aplicação das normas aqui estabelecidas, as seguintes definições:
+  .
+Art. 10.É instituído o plano-referência de assistência à saúde, com cobertura assistencial médico-ambulatorial e hospitalar, compreendendo partos e tratamentos, realizados exclusivamente no Brasil, com padrão de enfermaria, centro de terapia intensiva, ou similar, quando necessária a internação hospitalar, das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde, respeitadas as exigências mínimas estabelecidas no art. 12 desta Lei, exceto:
+  .
+§ 12. O rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde. (Incluído dada pela Lei nº 14.454, de 2022).
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que: (Incluído dada pela Lei nº 14.454, de 2022).
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou (Incluído dada pela Lei nº 14.454, de 2022).
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais.
+Nestes termos, a Agência Nacional de Saúde Suplementar - ANS - estabelece um Rol de Procedimentos e Eventos em Saúde, atualmente vigente, que constitui a cobertura mínima obrigatória a ser garantida pelos planos comercializados, a partir de 2/1/1999, bem como para aqueles contratados anteriormente, desde que adaptados à Lei 9656/1998, nos termos do artigo 35, da referida legislação, respeitadas as segmentações assistenciais contratadas.
+Ressalte-se que o entendimento atual é no sentido de que o serviço de tratamento domiciliar home care constitui desdobramento da terapêutica hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde, e que, na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor (REsp nº 1.378.707/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO).
+Vale destacar, que a Resolução Normativa nº 465/2021, da ANS, na qual a apelante sustenta a faculdade de ofertar os serviços médicos domiciliares, possui caráter de acentuado dirigismo contratual, procurando acertar o conteúdo mínimo da assistência médico-hospitalar, fazendo constar as coberturas de caráter irrecusável, não impedindo ampliação que possa oferecer tratamento adequado ao paciente.
+Desse modo, o fato de o procedimento não estar incluído no Rol de Procedimentos da ANS não elide, por si só, a obrigatoriedade do plano de saúde custeá-lo, visto que aquele rol estabelece " ..  a referência básica para cobertura mínima obrigatória da atenção à saúde nos planos privados de assistência à saúde", ou seja, não é um rol taxativo.
+ ..
+Enfatizo, ainda, que a operadora não pode se furtar de fornecer os insumos, medicamentos e alimentação especial, além de assistência médica e de enfermagem, ainda que no âmbito da internação domiciliar, conforme as necessidades da paciente, na exata medida do art. 10, VI, a contrário senso, e art. 12, II, c e e da Lei nº 9.656/98.
+(..) V - fornecimento de medicamentos importados não nacionalizados;
+VI - fornecimento de medicamentos para tratamento domiciliar, ressalvado o disposto nas alíneas "c" do inciso I e "g" do inciso II do art.
+12;
+( ) II - quando incluir internação hospitalar:
+(..) c) cobertura de despesas referentes a honorários médicos, serviços gerais de enfermagem e alimentação;
+( ) d) cobertura de exames complementares indispensáveis para o controle da evolução da doença e elucidação diagnóstica, fornecimento de medicamentos, anestésicos, gases medicinais, transfusões e sessões de quimioterapia e radioterapia, conforme prescrição do médico assistente, realizados ou ministrados durante o período de internação hospitalar;
+e) cobertura de toda e qualquer taxa, incluindo materiais utilizados, assim como da remoção do paciente, comprovadamente necessária, para outro estabelecimento hospitalar, dentro dos limites de abrangência geográfica previstos no contrato, em território brasileiro;
+Convém esclarecer que, da interpretação do art. 10, VI c/c art. 12 II "c" acima reproduzidos, a contrário senso, depreende-se que o fornecimento de todos os insumos e profissionais para tratamento hospitalar é de encargo da unidade conveniada e, via reflexa, da operadora de plano de saúde.
+ ..
+Além disso, não se revela razoável e, inclusive, incompatível com a proteção conferida pelo ordenamento à dignidade da pessoa humana haver exclusão de procedimento indispensável, que sem eles, a paciente muito provável não sobreviveria, e que não pode ser retardado.
+Nesse contexto, assinalo que, consoante a tradicional doutrina e a jurisprudência dominante, "a exclusão de cobertura de determinado procedimento médico/hospitalar, quando essencial para garantir a saúde e, em algumas vezes, a vida do segurado, vulnera a finalidade básica do contrato" (STJ - REsp 1920082/SP, Rel. Ministro Raul Marco Aurélio Bellize, Quarta Turma, julgado em 18/02/2021).
+Na realidade, o contrato de plano de saúde pode estabelecer as doenças que terão cobertura securitária, mas não pode restringir a modalidade de tratamento a ser ministrado aos pacientes, podendo, inclusive, trazer risco para a vida dos associados, na hipótese de não ser realizado.
+Logo, não cabe prevalecer cláusulas contratuais que atentam contra a expectativa de cura do paciente, ou que prive a pessoa de melhores condições de tratamento de saúde e do direito à vida digna.
+Nesse contexto, evidente que a apelada e seus familiares sofreram abalo moral, pois contava com a cobertura integral do procedimento e, no entanto, mesmo em estado delicado os mesmos, precisaram acionar o poder judiciário para obter a obrigatoriedade por parte do plano, de arcar com os custos do tratamento domiciliar (Home Care), e todos os seus insumos, diante da negativa despropositada da apelante.
+ ..
+No caso sub judice, a apelada e seus familiares foram surpreendidos com a notícia de que o apelante, não autorizou os procedimentos prescritos pelo médico assistente, pelo que, precisaram recorrer ao judiciário, para obter o cumprimento do contrato estabelecido entre os litigantes.
+Diante disso, verifica-se que a quantia arbitrado no juízo de origem, no importe de R$ 10.000,00 (dez mil reais), foi fixada com justeza e dentro do critério da razoabilidade e da proporcionalidade, o que inviabiliza a minoração ora almejada.
+ ..
+Assim, analisando o caso à luz de ditos parâmetros, concluo que a sentença não merece reforma, por estar condizente com os postulados da razoabilidade e da proporcionalidade, não cabendo à minoração do quantum arbitrado.
+Ante o exposto, em consonância com o parecer da douta Procuradoria- Geral de Justiça, às fls. 207/215, conheço do apelo para negar-lhe provimento, mantendo inalterada a sentença, por não merecer reproche algum.
+É como voto (e-STJ, fls. 228/243 - sem destaques no original).
+Desse modo, tendo UNIMED DO CEARÁ partido de premissas que desafiam aquelas assentadas pelo acórdão recorrido, não se vislumbra, das razões recursais apresentadas, nenhuma questão federal a ser dirimida nesta Corte Superior.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão agravada, é o caso de incidir o art. 932, III, do CPC.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. ENFRENTAMENTO DA QUESTÃO SEM MENÇÃO EXPRESSA AO NÚMERO DO ENUNCIADO DA SÚMULA. POSSIBILIDADE. COMPETÊNCIA PARA JULGAMENTO DE AÇÃO DE REPARAÇÃO DE DANOS MORAIS. LUGAR DO FATO. REPRESENTAÇÃO PERANTE O CONSELHO NACIONAL DE JUSTIÇA.
+1. Para a satisfação do princípio da dialeticidade, as razões do recurso devem demonstrar o desacerto dos fundamentos da decisão recorrida, independentemente de rígidas formalidades. Assim, não basta, meramente, alegar que não incide a súmula 83, se não houver demonstração de que a jurisprudência do STJ não está consolidada no sentido da decisão recorrida. O princípio é atendido, todavia, mesmo sem a alegação expressa de não incidir a súmula 83, mas sendo demonstrado que a jurisprudência do STJ conforta a tese da parte recorrente.
+2.  ..
+3. Agravo interno provido. Acolhimento da exceção de incompetência.
+(AgInt no AREsp 1.106.545/MA, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 22/5/2018, DJe 15/6/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CITAÇÃO POR OFICIAL DE JUSTIÇA. JUNTADA DO MANDADO CITATÓRIO DEVIDAMENTE CUMPRIDO AOS AUTOS. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. ATO DE JUNTADA INSERIDO POR SERVENTUÁRIO DA JUSTIÇA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2. Para infirmar a aplicação da Súmula n. 83 do STJ, a recorrente deveria ter demonstrado que as razões de decidir do acórdão recorrido estariam em discordância com o entendimento desta Corte, por meio de julgados recentes, o que não foi feito na hipótese.
+3.  ..
+4. Agravo interno improvido.
+(AgInt no AREsp 1.155.442/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/12/2017, DJe 15/12/2017 - sem destaque no original)
+Nessas condições, NÃO CONHEÇO do agravo.
+MAJORO de 10% para 15% o valor dos honorários advocatícios anteriormente fixados em favor de MARIA SOCORRO FERREIRA ALVES - ESPÓLIO, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
