@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus oposto por LUIS PAULO DA SILVA BERNABE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que denegou a ordem no Habeas Corpus n. 5007330-61.2023.8.08.0000.
+Narram os autos que o recorrente respondia a execução penal, mas foi reconhecida a falta grave consistente no abandono da pena em regime aberto e prática de novo fato definido como crime.
+Inconformada com o reconhecimento da falta disciplinar de natureza grave, a defesa impetrou habeas corpus perante o Tribunal de origem, alegando que o descumprimento decorre de dependência química. O desembargador relator, em decisão monocrática, não conheceu do habeas corpus, por ser substitutivo do recurso próprio.
+A defesa interpôs agravo regimental, ao qual foi negado provimento pelo Tribunal de Justiça.
+No presente recurso (e-STJ fl. 95/103), o recorrente alega, em síntese, que o apenado é dependente químico e praticou o furto (falta grave) em razão do vício, que já está em tratamento. Sustenta a necessidade de substituição da prisão por medida de segurança até que seja possível comprovar a dependência química nos autos da execução penal.
+O Ministério Público do Estado do Espírito Santo apresentou contrarrazões em fl. 106-109, pedindo o não conhecimento do recurso ou seu improvimento.
+O Ministério Público Federal ofertou parecer pelo desprovimento do recurso (fls. 115-117).
+É o relatório. DECIDO.
+Conheço do recurso, pois presentes os requisitos de admissibilidade recursal.
+A controvérsia dos autos consiste saber se a alegada dependência química do paciente exclui a culpabilidade da falta grave praticada, bem como a necessidade de manutenção da regressão de regime ou substituição por medida de segurança.
+Depreende-se dos autos que o Tribunal de Justiça, no julgamento monocrático do habeas corpus e no julgamento do agravo regimental em habeas corpus, entendeu que há fundamentação idônea para o reconhecimento da falta grave e regressão de regime, pois decorreu não só da prática de novo crime, mas também do abandono injustificado do cumprimento da pena, ressaltando que a questão referente à dependência química não demanda dilação probatória e não deve ser discutida em sede de habeas corpus, mas sim mediante incidente específico nos autos da execução penal (fl. 78-93):
+No mérito, propriamente dito, não vejo motivos que justifiquem a revisão da decisão agravada.
+Como restou decidido:
+"Trata-se de habeas corpus impetrado em favor de Luis Paulo da Silva Bernabé em razão do suposto constrangimento ilegal praticado pelo MM. Juiz de Direito da 9ª Vara Criminal de Vitória.
+O impetrante, em síntese, sustenta o risco de que o paciente venha a ser custodiado, notadamente em razão da regressão cautelar decretada no âmbito da execução penal, na qual se reconheceu a prática de falta grave. Aduz a completa dependência química do paciente, o que impediria a segregação.
+Pleiteia assim, a concessão de salvo conduto, a fim de que as autoridades se abstenham de atentar contra a liberdade de locomoção do paciente, com o respectivo recolhimento do mandado de prisão expedido pela autoridade coatora.
+É, no que basta, o relatório. Passo a decidir monocraticamente, na forma do artigo 932, inciso III do Código de Processo Civil c/c o artigo 3º do Código de Processo Penal.
+A impetração nem sequer ultrapassa o juízo prelibatório.
+Isso porque, o habeas corpus, no caso, foi utilizado como verdadeiro sucedâneo recursal, emprego esse incompatível com a racionalização do instrumento atualmente perseguida pela jurisprudência. Havendo previsão expressa de recurso contra as decisões proferidas em sede de execução penal, qual seja, o agravo (artigo 197 da LEP), não há que se admitir a propositura deste remédio constitucional como substitutivo . Nesse sentido, precedentes do STJ: HC 278.462/RS, DJ 2/12/2014; AgRg no HC 301.779/SP, DJ 22/09/2014; HC 299.282/SP, DJ 26/09/2014.
+Aliás, a matéria suscitada pelo impetrante tem sido reiteradamente apreciada por esta Colenda Câmara, no bojo de agravos interpostos contra decisões do Juízo da Execução penal, o evidencia a tentativa de utilização do presente HC como atalho ao sistema recursal previsto em lei, notadamente quanto àquele recurso admite a apreciação da matéria em cognição sumária (tutela de urgência).
+E, ainda que observada a regra processual, exsurge dos autos que o MM. Juízo singular decretou a regressão cautelar do paciente em razão da constatação de falta grave.
+Pelo que consta dos autos, após lançar assinatura no termo de compromisso, não se teve mais notícia do paradeiro do paciente, o que resultou no reconhecimento do abandono da pena (LEP, artigo 50, II). Para além disso, o paciente foi preso em flagrante delito no dia 01/05/2022, no curso do regime aberto, originando a ação penal n. 0003663-17.2022.8.08.0024, que tramita na 8ª Vara Criminal de Vitória/ES.
+Há, portanto, mais de um motivo para a decretação da custódia. Aliás, o impetrante afirma que o paciente não tem cumprido as condições estabelecidas para o cumprimento da pena em regime prisional aberto e vem praticando diversos delitos. Ora, se a dependência química constitui elemento impeditivo ao reconhecimento da falta grave e à prisão, esta deverá ser comprovada perante o juízo da execução.
+Para além disso, o documento médico acostado apenas descreve informações repassadas pela família e não uma constatação do expert acerca do grau de dependência química do paciente que legitime o afastamento da falta grave".
+Frise-se, portanto, que além da justificativa para inadmissão do HC, quais seja, utilizado como sucedâneo de recurso, os autos apontam a existência de abandono da execução por parte do paciente, circunstância que, apesar de atrelada ao mérito, prenuncia a ausência de plausividade da alegação.
+Sendo assim, conheço do recurso para negar-lhe provimento.
+Assim, verifica-se que o acórdão impugnado está em consonância com a jurisprudência do Superior Tribunal de Justiça sobre a matéria, segundo a qual " ..  o habeas corpus não se presta para a apreciação de alegações com a necessidade de amplo revolvimento do conjunto fático-probatório, inviável na via eleita." (AgRg no HC n. 921.345/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 16/9/2024).
+Para que fosse possível desconstituir as premissas do acórdão recorrido, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
