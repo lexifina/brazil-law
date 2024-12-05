@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ELIZABETE MARTINS ANTUNES contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 5043424-27.2024.8.24.0000/SC).
+Consta dos autos que a recorrente foi denunciada pela prática dos delitos de associação criminosa e induzimento do consumidor a erro. Irresignada, a defesa impetrou prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 185):
+HABEAS CORPUS. PACIENTE DENUNCIADA PELOS CRIMES DISPOSTOS NOS ARTIGOS 288 DO CÓDIGO PENAL E ART. 7º, VII C/C ART. 12, AMBOS DA LEI 8.137/90. PRETENSO TRANCAMENTO DA AÇÃO PENAL POR CARÊNCIA DE JUSTA CAUSA. MATÉRIA NÃO AFERÍVEL DE PLANO E SEQUER SUBMETIDA AO JUÍZO A QUO . IMPOSSIBILIDADE DE INCURSÃO MERITÓRIA NA VIA ESTREITA DESTE REMÉDIO CONSTITUCIONAL. WRIT NÃO CONHECIDO.
+No presente recurso, a defesa sustenta que o caso é de trancamento da ação penal, por ausência de justa causa. Afirma que a paciente foi denunciada apenas por fazer parte do quadro societário da empresa, não veiculando a denúncia elementos mínimos que indiquem a autoria ou participação da recorrente nos fatos.
+Aduz que o tema foi examinado pelo juiz de primeiro grau, uma vez que para a deflagração da ação penal é indispensável o preenchimento do art. 41 do CPP e como o magistrado autorizou a referida deflagração, a consequência lógica é que entendeu que existe justa causa (e-STJ fl. 204).
+Pugna, liminarmente, pelo sobrestamento do andamento da ação penal n. 5010152-16.2021.8.24.0075/SC até o julgamento do presente recurso. No mérito, que seja determinado o trancamento da ação penal.
+É o relatório. Decido.
+Busca a defesa o trancamento da ação penal ajuizada em desfavor da recorrente.
+Não obstante, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Na hipótese, e fetivamente, verifica-se que ao julgar a impetração, a Corte de origem asseverou que o tema não é aferível de plano, sendo inviável sua apreciação em sede de habeas corpus, aduzindo que a alegação sequer restou submetida e analisada pelo juízo a quo. Em defesa prévia a paciente limitou-se a apontar que apresentaria seus argumentos em "sede se memoriais" e já no curso do processo apenas requereu a juntada de documentos que supostamente poderiam subsidiar sua tese, sem nada postular (evento 279, PET1) (e-STJ fl. 184).
+Pelo exposto, não conheço do recurso em habeas corpus.
+Intimem-se.
+EMENTA
