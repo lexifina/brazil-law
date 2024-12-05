@@ -1,0 +1,3 @@
+Art. 45-D. ........................................................................................................
+VII - atuar nos processos de execução fiscal de dívida de natureza tributária e não tributária ajuizados contra as entidades da Administração Indireta, bem como representá-las nos respectivos incidentes e demandas antiexacionais;
+VIII - exercer outras atividades correlatas ao desempenho das atribuições dispostas neste artigo, previstas em regulamento.

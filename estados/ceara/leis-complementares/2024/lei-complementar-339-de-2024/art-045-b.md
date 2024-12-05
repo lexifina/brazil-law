@@ -1,0 +1,3 @@
+Art. 45-B. .....................................................................................................
+IV - atuar nos processos de execução fiscal de dívida de natureza não tributária ajuizados contra o Estado do Ceará, bem como representá-lo nos respectivos incidentes e demandas antiexacionais;
+V - exercer outras atividades correlatas ao desempenho das atribuições dispostas neste artigo, previstas em regulamento.
