@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS cont ra decisão que inadmitiu o apelo nobre manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 362):
+APELAÇÃO CÍVEL - Acidentária - Embargos à execução - Alegação da existência de excesso de execução nos cálculos de liquidação do obreiro - Valores apurados pelo perito judicial - Embargos julgados parcialmente procedentes Recursos das partes - Decisão mantida - Recursos não providos.
+Os subsequentes embargos de declaração foram rejeitados.
+Nas razões do apelo nobre, fundamentado na alínea a do permissivo constitucional, o INSS alega ofensa aos arts. 115, caput, inciso II e § 1º, da Lei n. 8.213/1991, 876, 884 e 885 do Código Civil e 154 do Decreto n. 3.048/1999. Aduz, em síntese, que, "não obstante o caráter alimentar dos proventos, a lei impõe a sua restituição, independentemente da boa-fé do recebedor, quando se trata de evitar o enriquecimento injusto em detrimento do erário público" (fl. 388).
+Em juízo de retratação, a Corte de origem manteve o acórdão (fls. 406-408).
+Inadmitido o apelo nobre, adveio o presente agravo, sem apresentação de contraminuta.
+É o relatório.
+Decido.
+O agravo é tempestivo e preenche os pressupostos de admissibilidade, razão
+pela qual passo à análise do recurso especial.
+A questão da devolução das quantias recebidas pelo beneficiário do Regime Geral da Previdência Social - RGPS, em virtude de decisão judicial precária, que venha a ser posteriormente revogada, foi objeto de análise no REsp n. 1.401.560/MT (julgado em 12/2/2014, DJe de 13/10/2015), sob o rito dos julgamentos repetitivos, tendo sido firmada a seguinte tese (Tema n. 692/STJ): "a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos".
+Posteriormente, a Primeira Seção desta Corte, em questão de ordem na Pet n. 12.482/DF, da relatoria do Ministro Og Fernandes (DJe de 24/5/2022), reafirmou a tese contida no referido Tema n. 692/STJ, com acréscimo redacional a fim de ajustá-la à nova legislação de regência, nestes termos:
+A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+É oportuno registrar que o Supremo Tribunal Federal, ao analisar o Tema n. 799, afastou o reconhecimento da repercussão geral da matéria ora em análise.
+Observe-se que, consoante assinalado no julgamento da aludida questão de ordem, "o STF, ao julgar o Tema 799 da Repercussão Geral (ARE 722.421/MG, j. em 19/3/2015), já firmou expressamente que a questão não é constitucional e deve, portanto, ser deslindada nos limites da legislação infraconstitucional".
+No caso, impõe-se a reforma do acórdão recorrido, que divergiu do entendimento desta Corte ao assinalar que (fl. 367):
+Realmente, inviável, a meu ver, a pretensão da autarquia em querer que o segurado restitua valores recebidos em razão da "aposentadoria por invalidez" concedida na r. sentença, uma vez que se deu amparado em direito reconhecido em decisão judiciária, a indicar, portanto, a sua boa-fé, não estando ele obrigado a devolvê-lo, diante do princípio da irrepetibilidade dos alimentos.
+A título ilustrativo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDENCIÁRIO. BENEFÍCIO ACIDENTÁRIO. RESTITUIÇÃO DE VALORES PAGOS EM RAZÃO DE DECISÃO PRECÁRIA. POSSIBILIDADE. TEMA 692/STJ. RECURSO NÃO PROVIDO.
+1. Conforme estabelecido no julgamento do Tema 692/STJ, os valores pagos a segurado em razão de cumprimento de decisão judicial precária posteriormente cassada em segundo grau de jurisdição devem ser devolvidos ao erário.
+2. Agravo interno não provido. (AgInt no REsp 2.133.983/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 14/10/2024, DJe de 17/10/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E PREVIDENCIÁRIO. TUTELA ANTECIPADA. REVOGAÇÃO. DEVOLUÇÃO DE VALORES. POSSIBILIDADE. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA N. 1.401.560/MT. TEMA N. 692 DO STJ. TESE REAFIRMADA NA QUESTÃO DE ORDEM NA PET. N. 12.482/DF. AGRAVO INTERNO DESPROVIDO.
+1. É possível a cobrança dos valores indevidamente recebidos pela parte autora, em virtude de antecipação dos efeitos da tutela, posteriormente revogada, nos termos da jurisprudência desta Corte Superior de Justiça, firmada no julgamento do Tema n. 692/STJ e reafirmada no exame da Pet n. 12.482/DF.
+ ..
+4. Agravo interno desprovido. Decisão que determinou o sobrestamento deste feito reconsiderada para, com fundamento no art. 255, § 4º, inciso III, do RISTJ, dar provimento ao recurso especial para possibilitar ao INSS, ora recorrente, a cobrança dos valores indevidamente recebidos pela parte autora, em virtude de antecipação dos efeitos da tutela, posteriormente revogada, nos termos da jurisprudência deste Superior Tribunal de Justiça (AgInt no REsp n. 2.115.324/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+No mesmo sentido são as seguintes decisões monocráticas: REsp n. 2.081.744/SP, Rel. Ministro Teodoro Silva Santos, DJe de 26/11/2024; AREsp n. 2.488.066/SP, Rel. Ministro Paulo Sérgio Domingues, DJe de 02/07/2024; AREsp n. 2.645.744/SP, Rel. Ministro Mauro Campbell Marques, DJe de 02/07/2024; e REsp n. 2.059.511/SP, Rel. Ministro Gurgel de Faria, DJe de 24/04/2024.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para possibilitar ao INSS, ora recorrente, a cobrança dos valores indevidamente recebidos pela parte autora, em virtude de antecipação dos efeitos da tutela, posteriormente revogada, nos termos da jurisprudência desta Corte Superior de Justiça, firmada no julgamento do Tema n. 692/STJ e reafirmada no exame da Pet n. 12.482/DF.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. TUTELA ANTECIPADA. REVOGAÇÃO. DEVOLUÇÃO DE VALORES. POSSIBILIDADE. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA N. 1.401.560/MT. TEMA N. 692 DO STJ. TESE REAFIRMADA NO EXAME DA PET N. 12.482/DF. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
