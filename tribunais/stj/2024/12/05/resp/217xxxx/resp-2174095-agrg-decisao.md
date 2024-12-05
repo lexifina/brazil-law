@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MARCIANO DE LIMA contra decisão monocrática que, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, deu provimento ao recurso especial, para fixar a pena do réu em 2 anos, 2 meses e 7 dias de detenção, e 10 dias de suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor (fls. 428-430).
+A parte agravante sustenta, em síntese, que a readequação da pena ensejou a prescrição da pretensão punitiva.
+É o relatório.
+De início, observo que o Ministério Público do Estado do Paraná e o Ministério Público Federal foram intimados eletronicamente da decisão de fls. 450-452 em 28/10/2024 (fl. 466) e 04/11/2024 (fl. 467), respectivamente. O prazo final para eventual insurgência da acusação findou-se em 18/11/2024, de modo que as penas de 2 anos, 2 meses e 7 dias de detenção, e 10 dias de suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor, fixadas n a decisão de fls. 428-430, tornaram-se agora definitivas.
+Esclareço que o réu foi condenado pela prática do crime capitulado no art. 302, do Código de Trânsito Brasileiro, por duas vezes. A pena mais grave foi estabelecida em 1 ano, 10 meses e 15 dias de detenção, e 9 dias de suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor, com aumento de 1/6 por força do concurso formal reconhecido pelas instâncias ordinárias. Assim, em relação a ambos os delitos foi aplicada pen a inferior a 2 anos.
+Desse modo, a prescrição com base na pena ora aplicada, ocorre em 4 anos, nos termos do art. 109, V, do Código Penal. Assim, considerando os marcos interruptivos da prescrição, observa-se que, entre o recebimento da denúncia, em 12.2.2018 (fl. 102), e a prolação da sentença condenatória, em 4.8.2023 (fls. 283-291) - marco considerado para fins de delimitação temporal -, transcorreu prazo superior a 4 anos, sendo de rigor o reconhecimento da prescrição da pretensão punitiva.
+Ante o exposto, declaro extinta a punibilidade, pela prescrição da pretensão punitiva.
+Fica prejudicado o agravo regimental (fls. 457-464).
+Publique-se. Intimem-se.
+EMENTA
