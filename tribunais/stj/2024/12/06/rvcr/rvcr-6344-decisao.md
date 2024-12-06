@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de revisão criminal com pedido liminar ajuizada por ANDERSON CLAUDINO DA SILVA, com fundamento no art. 621, I, do Código de Processo Penal, contra acórdão proferido nos autos do AgRg no Agravo em Recurso Especial n. 2.471.149/SP, de relatoria do Ministro Ribeiro Dantas, no qual foi negado provimento ao recurso, confirmando-se a decisão que não conheceu do agravo em recurso especial, por incidência da Súmula n. 182 do STJ.
+O autor alega, em síntese, que (fl. 6):
+ ..  a finalidade desta revisão criminal é a demonstração de erro in judicando, uma vez que houve valoração de uma circunstância judicial sem fundamentação para tanto e não foi aplicada a atenunante (sic) da confissão espontânea. No entanto, a Corte Especial deixou de analisar o mérito pois a análise de tais teses implicaria em reexame de prova.
+Ocorre que não se pretendia com a interposição do recurso especial a rediscussão do conjunto fático-probatório, mas a análise jurídica dos fatos em relação à correta aplicação do artigo 59 do CP e quanto ao reconhecimento da confissão espontânea.
+Sustenta que não havia óbice para o conhecimento do recurso especial interposto, pois visava apenas discutir a invalidade da fundamentação apresentada pela Corte de origem.
+Afirma que (fls. 6-7):
+ ..  pretende-se o reconhecimento da ilegalidade dos fundamentos utilizados pela Corte Superior para não analisar o mérito do recurso especial, de modo a possibilitar, posteriormente, o reconhecimento da ilegalidade na valoração das circunstâncias judiciais e em razão da não aplicação da confissão espontânea.
+Faz considerações acerca da dosimetria aplicada pelo Tribunal de origem e defende que deve ser aplicada a circunstância atenuante pertinente à confissão espontânea, ainda que parcial.
+Requer a concessão do pedido liminar a fim de que se suspenda o curso de eventual execução penal referente ao feito originário e, no mérito, pugna pela procedência da ação para que seja analisado o mérito do recurso interposto, com a posterior redução da pena-base.
+É o relatório.
+De plano, observo que não há julgado do Superior Tribunal de Justiça a ser revisado por meio da presente ação autônoma de impugnação, cumprindo destacar que a existência de decisões de admissibilidade de recursos, sem a análise das questões de mérito do processo, não atrai a competência constitucional desta Corte Superior.
+O provimento judicial que se pretende revisar assim determinou (fls. 638-642):
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Como se constatou quando do julgamento monocrático, a decisão que inadmitiu o recurso especial na origem pautou-se na incidência da Súmula 7/STJ; no agravo do art. 1.042 do CPC, todavia, a parte ora agravante não combateu especificamente este motivo da decisão então agravada. Afinal, sobre a aplicação da Súmula 7/STJ, a parte agravante trouxe apenas razões genéricas de inconformismo (aduzindo que não seria necessário reexaminar as provas dos autos), o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local. Nesse sentido:
+ ..
+As próprias razões deste agravo regimental confirmam tal conclusão, já que o trecho do agravo em recurso especial transcrito à fl. 566 (e-STJ) não realizou o cotejo exigido pela jurisprudência, mas se limitou a pedir genericamente o afastamento da Súmula 7/STJ. Na realidade, para além dessas alegações abstratas, o agravo do art. 1.042 do CPC basicamente reprisou os argumentos de mérito do recurso especial (e-STJ, fls. 520-534), proceder que viola o princípio da dialeticidade e se soma aos motivos para aplicação da Súmula 182/STJ. A propósito:
+ ..
+Por conseguinte, a Súmula 182/STJ obsta o conhecimento do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Como visto, não houve análise de mérito do recurso julgado no Superior Tribunal de Justiça, portanto, a hipótese é de não conhecimento da revisão criminal.
+De fato, nos termos do art. 105, I, e, da Constituição Federal, compete ao STJ processar e julgar, em revisão criminal, apenas seus próprios julgados que impuseram realidade processual autônoma e independente.
+Nesse sentido, confiram-se os seguintes precedentes (grifo nosso) :
+AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. AUSÊNCIA DE ANÁLISE DE MÉRITO DO RECURSO ESPECIAL. INCOMPETÊNCIA DO STJ PARA ANALISAR O PLEITO REVISIONAL. NÃO CONHECIMENTO DO PEDIDO PELA PRESIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante o disposto no art. 105, inciso I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+2. Hipótese em que o agravo foi conhecido para não se conhecer do recurso especial em razão do óbice da Súmula n. 7/STJ. Manifesta incompetência desta Corte. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg na RvCr n. 6.088/DF, relator Ministro Teodoro Silva Santos, Terceira Seção, julgado em 5/3/2024, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL EM REVISÃO CRIMINAL. ALEGADO ERRO DE JULGAMENTO DO ACÓRDÃO RESCINCENDO, AO APLICAR O ENUNCIADO N. 182 DA SÚMULA DO STJ, PARA NÃO CONHECER DO AGRAVO EM RECURSO ESPECIAL DA DEFESA. PEDIDO REVISIONAL QUE NÃO ENCONTRA AMPARO NO ART. 621 DO CPP. DESCABIMENTO. AUSÊNCIA DE ANÁLISE DE MÉRITO NO RECURSO JULGADO NESTA CORTE SUPERIOR. NÃO CONHECIMENTO DA REVISÃO CRIMINAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Interpretando o art. 105, I, "e", da Constituição Federal, a Terceira Seção desta Corte assentou que somente atrairá a competência desta Corte o pedido revisional a respeito de questão que tiver sido apreciada, no mérito, por este Tribunal em sede de recurso especial. Precedentes.
+2. Não se admite revisão criminal fora das hipóteses descritas nos incisos do art. 621 do Código de Processo Penal.
+3. A jurisprudência da Terceira Seção desta Corte é assente no sentido de que "A revisão criminal somente é cabível se presente umas das hipóteses previstas no art. 621 do Código de Processo Penal, revelando-se instrumento inadequado para rever a aplicação de súmulas afetas ao conhecimento do recurso especial" (AgRg na RvCr n. 3.289/GO, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 9/5/2018, DJe de 21/5/2018).
+4. Agravo regimental desprovido.
+(AgRg na RvCr n. 5.996/DF, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 13/9/2023, DJe de 18/9/2023.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. NÃO ENQUADRAMENTO NAS HIPÓTESES LEGAIS. PRETENSÃO DE RECONHECIMENTO DE ATICIDADE DELITIVA E REVISÃO DA DOSIMETRIA. AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O pleito não se enquadra em nenhuma das hipóteses previstas no art. 621, do CPP, pois a revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido.
+II - Consoante dispõe o art. 105, I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, "as revisões criminais e as ações rescisórias de seus julgados", logo se vê que, salvo hipótese de condenação em ação originária, a competência desta Corte para o conhecimento da revisão criminal está limitada à questão efetivamente examinada e decidida no recurso especial. Precedentes.
+III - Não tendo o agravante trazido qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, esta última deve ser mantida pelos seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg na RvCr n. 5.817/DF, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 14/6/2023, DJe de 16/6/2023.)
+REVISÃO CRIMINAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. TESES DE INOCÊNCIA E REVISÃO DA REPRIMENDA. QUESTÕES NÃO APRECIADAS NA DECISÃO QUE SE BUSCA REFORMAR. COMPETÊNCIA REVISIONAL DO SUPERIOR TRIBUNAL DE JUSTIÇA NÃO INSTAURADA. INOBSERVÂNCIA AO DISPOSTO NO ART. 241 DO RISTJ. CONHECIMENTO. INVIABILIDADE. PRECEDENTES. REVISÃO CRIMINAL NÃO CONHECIDA.
+1. No decisum que se busca reformar, não houve análise e pronunciamento acerca do mérito das questões relativas à absolvição e consequente redução da reprimenda, com aplicação da minorante do tráfico privilegiado. Dessa forma, não se instaurou a competência do Superior Tribunal de Justiça para, em revisão criminal, analisar as citadas matérias.
+2. Ademais, o "art. 241 do RISTJ determina que devem ser juntadas cópias do acórdão objeto da revisão, bem como da certidão do seu trânsito em julgado, o que não ocorreu na espécie." (AgRg na RvCr 3.716/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 26/10/2016, DJe 07/11/2016).
+3. Revisão criminal não conhecida.
+(RvCr n. 5.701/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/9/2022, DJe de 28/9/2022, grifo acrescido.)
+AGRAVO REGIMENTAL EM REVISÃO CRIMINAL. ALEGADO ERRO DE JULGAMENTO DO ACÓRDÃO RESCINDENDO, AO DECLARAR A INTEMPESTIVIDADE DE AGRAVO EM RECURSO ESPECIAL. PEDIDO REVISIONAL QUE NÃO ENCONTRA AMPARO NO ART. 621 DO CPP. DESCABIMENTO. AUSÊNCIA DE ANÁLISE DE MÉRITO NO RECURSO JULGADO NESTA CORTE SUPERIOR. NÃO CONHECIMENTO DA REVISÃO CRIMINAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Interpretando o art. 105, I, "e", da Constituição Federal, a Terceira Seção desta Corte assentou que somente atrairá a competência desta Corte o pedido revisional a respeito de questão que tiver sido apreciada, no mérito, por este Tribunal em sede de recurso especial. Precedentes.
+2. Não se admite revisão criminal fora das hipóteses descritas nos incisos do art. 621 do Código de Processo Penal.
+3. A jurisprudência deste Tribunal Superior tem reconhecido, reiteradamente, o descabimento do manejo da revisão criminal para questionar decisões deste Tribunal que declararam a intempestividade de recurso especial ou de agravo em recurso especial. Precedentes: RvCr n. 5.558/DF, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe de 07/12/2020; RvCr n. 2.159/PR, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe de 27/03/2014; RvCr n. 3.076, Rela. Mina. MARIA THEREZA DE ASSIS MOURA, DJe de 18/06/2015; RvCr n. 2.706, Rel. Min. WALTER DE ALMEIDA GUILHERME (DESEMBARGADOR CONVOCADO DO TJ/SP), DJe de 28/10/2014.
+4. Agravo regimental a que se nega provimento.
+(AgRg na RvCr n. 5.571/DF, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/2/2021, DJe de 1/3/2021.)
+AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. PENAL E PROCESSUAL PENAL. ART. 621, I, II e III, DO CÓDIGO DE PROCESSO PENAL - CPP. INADMISSIBILIDADE. ARESTO QUE NÃO ADENTROU AO MÉRITO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. IMPOSSIBILIDADE DE REAVALIAÇÃO DE FATOS E PROVAS. NÃO CONFIGURAÇÃO DE CONTRARIEDADE AO TEXTO DE LEI E À EVIDÊNCIA DOS AUTOS. INCOMPETÊNCIA DO JUÍZO. QUESTÃO NÃO LEVANTADA NAS RAZÕES DO RECURSO ESPECIAL. INEXISTÊNCIA DE NOVAS PROVAS DE INOCÊNCIA OU CIRCUNSTÂNCIA QUE AUTORIZE A DIMINUIÇÃO DA PENA. DOSIMETRIA. FUNDAMENTAÇÃO INEFICIENTE. REDISCUSSÃO DE QUESTÕES DE MÉRITO. INAPROPRIEDADE DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A presente revisão criminal tem como fundamento o art. 621, I, II e III, do CPP. Não houve a aplicação da Súmula n. 7/STJ, mas sim justificação da inadmissibilidade da revisão criminal porque o aresto revisado não se imiscuiu no mérito da demanda ao aplicar o referido óbice processual, sendo, ainda, incabível em exame revisional para a mera reavaliação de fatos e provas, casos que não configuram hipóteses de contrariedade ao texto expresso da lei penal ou à evidência dos autos.
+2. Este Tribunal tem o entendimento de que só compete a ele o julgamento de revisão criminal quando a questão objeto do pedido tiver sido aqui examinada, o que não ocorreu em nenhuma das hipóteses elencadas no pedido revisional.
+ ..
+5. "A revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido. O que se almeja, no presente caso, é a reapreciação indevida do conjunto probatório, que já foi amplamente analisado pelo Tribunal a quo" (AgRg na RvCr 4.730/CE, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 14/9/2020).
+6. Agravo regimental desprovido.
+(AgRg na RvCr n. 5.599/DF, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 12/5/2021, DJe de 14/5/2021.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM REVISÃO CRIMINAL. INCOMPETÊNCIA SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DECISÃO DE MÉRITO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Nos termos do artigo 105, inciso I, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar "as revisões criminais e ações rescisórias de seus julgados".
+II - In casu, o recurso que supostamente atrairia a competência para esta Corte Superior sequer foi conhecido, logo, inexistente análise do mérito, não há falar em competência desta Corte para revisar a decisão condenatória.
+ ..
+Agravo regimental desprovido.
+(AgRg na RvCr n. 5.238/DF, relator Ministro Felix Fischer, Terceira Seção, DJe de 21/10/2020, grifo acrescido.)
+Ante o exposto, diante a incompetência do Superior Tribunal de Justiça, não conheço do pedido de revisão criminal.
+Publique-se. Intimem-se.
+EMENTA
