@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão de inadm issão do recurso especial impõe o não conhecimento do agravo. Observância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno, interposto por FÁBIO CESAR DE ALESSIO, contra a decisão de fls. 516/517e, de minha lavra, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Inconformada, sustenta a parte agravante, em resumo, que "cada tópico da decisão que inadmitiu o recurso especial foi impugnado, tanto apontando para sua ilegalidade, como, com demonstração do dispositivo legal que o acórdão infringia, além, é patente de pontuar a desconformidade desta decisão com outros julgados de outros tribunais da federação, inclusive, um absolutamente idêntico ao caso aqui tratado, ou seja, o Resp. 1.245.622-RS, acúmulo de cargos de assessor jurídico cuja paridade se encaixa como uma luva neste revisando" (fls. 523/524e).
+Requer, assim, o provimento do agravo interno, "para que se conheça o recurso especial e lhe dê provimento, para que seja expurgado da decisão rescindenda a obrigação de restituição por não ter havido dano ao erário, e de ofício, seja substituída a correção monetária e juros pela taxa SELIC" (fl. 528).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão de inadm issão do recurso especial impõe o não conhecimento do agravo. Observância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+A decisão ora agravada não conheceu do agravo em recurso especial, ao fundamento de que, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade. No caso dos autos, a decisão de não admissão do recurso especial está motivada pela não evidenciação do suposto maltrato às normas legais enunciadas, pela incidência da Súmula 7/STJ e pelo desatendimento dos requisitos previstos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, mas, no caso, a parte agravante não impugnou a incidência do óbice sumular.
+A decisão não merece reforma, pois em relação ao óbice da Súmula 7/STJ, é necessário que a parte desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação jurídica e aí deve comprovar tal circunstância, não apenas alega-la, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+Observo, por fim, que há inexatidão material na decisão agravada, pois ao citar a Súmula 83/STJ como fundamento não atacado, não guardou pertinência com a premissa de que, "no caso dos autos, a decisão de não admissão do recurso especial está motivada pela não evidenciação do suposto maltrato às normas legais enunciadas, pela incidência da Súmula 7/STJ e pelo desatendimento dos requisitos previstos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ" (fl. 516e). Necessária, pois, a correção do erro material, de ofício, na forma do art. 494, I, do CPC/2015, para esclarecer que o fundamento sumular, não atacado na minuta do agravo em recurso especial, diz respeito à Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+Corrijo, de ofício, erro material, na forma do art. 494, I, do CPC/2015, para esclarecer que o fundamento não atacado na minuta do agravo em recurso especial diz respeito à Súmula 7/STJ.
+É como voto.
