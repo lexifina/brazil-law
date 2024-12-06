@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de WESLEY CASTRO DA SILVA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo de execução interposto pela defesa, nos termos do acórdão assim ementado:
+"Agravo em Execução Penal. Recurso defensivo. Majoração do acréscimo de 1/3 quanto ao pleito de remição por estudo à distância em razão da aprovação parcial ENEM PPL 2023 e frequência escolar. Impossibilidade de duplo incremento no caso concreto. Decisão mantida. Recurso desprovido." (e-STJ, fls. 7-13).
+Neste writ, o impetrante alega constrangimento ilegal decorrente do indeferimento do pedido de acréscimo da remição pela conclusão do ensino médio de 1/3 (um terço) sobre o total dos dias remidos (setenta dias). Afirma que os julgamentos de origem só concederam parcialmente a remição de 13 (treze) dias, quando o correto seria 23 (vinte e três) dias.
+Requer, assim, a concessão da ordem para que seja reconhecida a remição da pena referente à conclusão do ensino médio de 23 (vinte e três) dias..
+O pedido de liminar foi indeferido (e-STJ, fl. 65).
+Prestadas as informações (e-STJ, fls. 67-69), os autos foram encaminhados para o Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus ou, se conhecido, pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem decidiu a controvérsia com os seguintes fundamentos:
+"Consta nos Autos 0011210-90.2021.8.26.0041 que o agravante Wesley Castro da Silva era reincidente e cumpre atualmente a pena privativa de liberdade de 07 (sete) anos de reclusão, pelo crime do artigo 33, da Lei Federal 11343/2006, com previsão de término da sanção em 20 de agosto de 2027.
+Incontroverso que o agravante quando de seu ingresso no cárcere, não havia concluído o ensino médio, razão pela qual, sob a custódia do Estado e vigilância da unidade prisional, retomou os estudos e frequentou aulas nos períodos de primeiro de novembro de 2022 a 20 de dezembro de 2022. E de 03 de fevereiro de 2023 a 30 de junho de 2023.
+Após o requerimento da Defesa, o Juízo das Execuções declarou remidos 08 (oito) dias e posteriormente 31 (trinta e um) dias pelo estudo (fls. 174, 183, 216/217 e 222 da PEC).
+Posteriormente, o apenado participou do ENEM PPL 2023 e a Defesa requereu nova remição e o Juízo a quo declarou remidos outros 40 (quarenta) dias em razão da aprovação parcial (fls. 435/439 da PEC).
+Por fim, a Defesa requereu o acréscimo de 1/3 (um terço) sobre o somatório das remições anteriormente deferidas em razão da conclusão do ensino médio (fl. 462 da PEC) e pela decisão ora combativa, o Juízo das Execuções declarou remidos 13 (treze) dias pela efetiva frequência escolar.
+(..)
+No caso vertente, diversamente do que faz crer a combativa Defesa, descabido o acréscimo de 1/3 (um terço) sobre o montante relativo a aprovação parcial do ENEM PPL 2023, sendo que a remição relativa à parte do período de retomada dos estudos para a efetiva conclusão do ensino médio foi escorreitamente concedida." (e-STJ, fls. 7-13).
+Observo, inicialmente, que a LEP disciplina a remição em caso de estudo da seguinte forma:
+Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. (Redação dada pela Lei nº 12.433, de 2011).
+§ 1º A contagem de tempo referida no caput será feita à razão de:
+(Redação dada pela Lei nº 12.433, de 2011)
+I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+ ..
+§ 5º O tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação.
+Como ressaltado nas informações apresentadas (e-STJ, fls. 67-69), o total de dias remidos do paciente corresponde, de fato, a 70 (setenta) dias; no entanto, apenas 39 (trinta e nove) se referiam ao ensino médio, diante do respeito ao limite de carga horária previsto no art. 126 da Lei de Execuções Penais.
+De acordo com decisão proferida pelo Juízo da execução penal (e-STJ, fls. 33-34), o paciente cursou o ensino médio na unidade prisional e obteve 8 (dois) dias de remição da pena pelo período estudado de 1.11.2022 a 20.12.2022 e 31 (trinta e um) dias pelo período de 3.2.2023 a 30.6.2023, totalizando 39 (trinta e nove) dias. As demais remições não dizem respeito ao ensino médio, recaindo o acréscimo previsto no § 5º do art. 126 da LEP apenas em relação ao período de estudo para conclusão do ensino médio neste caso.
+De tal forma, o paciente não faz jus ao acréscimo de 1/3 sobre o total de 70 dias já remidos pelo estudo, uma vez que os demais 31 dias estavam relacionados a atividades que não faziam parte diretamente do estudo pelo Ensino Médio.
+Neste sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. CONCLUSÃO DE CURSO PROFISSIONALIZANTE. ACRÉSCIMO DE 1/3: IMPOSSIBILIDADE. ROL TAXATIVO DO ART. 126, § 5º, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+2. A regra insculpida no art. 126, § 5º, da Lei de Execuções Penais - LEP traz rol taxativo para a incidência do acréscimo de 1/3 ao tempo de remição pelo estudo, não abrangendo a conclusão de curso profissionalizante.
+Precedentes do STJ: AgRg no REsp n. 1.985.576/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022; HC 720.992/SP, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 09/08/2022; HC 754.266/MG, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe de 03/08/2022; HC 551.340/SP. Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe de 10/05/2022; RCD no HC 729.787/SP, Rel. Min. RIBEIRO DANTAS, DJe de 28/03/2022.
+3. É válido presumir que o legislador concebeu o acréscimo de 1/3 do tempo remido apenas para os casos de conclusão do ensino fundamental, médio e superior como forma de incentivar a finalização de uma formação que, além de ser bem mais demorada (veja-se que o ensino fundamental tem carga horária de 1.600 horas e o ensino médio, de 1.200), também envolve conhecimentos em áreas mais variadas, implicando, de consequência, uma maior dedicação do aluno.
+O mesmo não se pode dizer de um curso de "Auxiliar de Oficina Mecânica" com duração de 180 horas, como foi o caso do paciente.
+4. A teleologia ressocializadora do incentivo ao estudo associado à remição de pena não é negligenciada em relação a outros cursos (que não o ensino fundamental, médio e superior) unicamente pelo fato de que sua conclusão não enseja o acréscimo de 1/3. Tal incentivo decorre da remição de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar, na forma prevista no art. 126, § 1º, I, da LEP.
+5. Agravo regimental desprovido."
+(AgRg no HC n. 765.916/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. ACRÉSCIMO DE 1/3. CONCLUSÃO DE CURSO PROFISSIONALIZANTE. IMPOSSIBILIDADE. ART. 126, § 5º, DA LEI DE EXECUÇÃO PENAL. ROL TAXATIVO.
+1. A jurisprudência desta Corte Superior entende que "A regra insculpida no art. 126, § 5º, da Lei de Execuções Penais - LEP traz rol taxativo para a incidência do acréscimo de 1/3 ao tempo de remição pelo estudo, não abrangendo a conclusão de curso profissionalizante." (AgRg no HC n. 765.916/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+2. Agravo regimental improvido."
+(AgRg no HC n. 772.456/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Nesse contexto, não se verifica flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
