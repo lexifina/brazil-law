@@ -1,0 +1,18 @@
+DECISÃO
+Talel Habib Husseini opõe embargos de declaração à decisão, de minha relatoria, assim ementada (fl. 194):
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. CRIMES CONTRA O SISTEMA FINANCEIRO. REVISÃO CRIMINAL. NÃO ENQUADRAMENTO NAS HIPÓTESES LEGAIS. AÇÃO AJUIZADA EM SUBSTITUIÇÃO DO APELO NÃO APRESENTADO PELA DEFESA NA ORIGEM. FUNDAMENTOS INATACADOS. SÚMULA 283/STF. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA E CONSUNÇÃO ENTRE OS DELITOS. PROVAS JÁ VALORADAS NO PROCESSO ORIGINÁRIO. REDISCUSSÃO. DESCABIMENTO. SÚMULA 7/STJ. DOSIMETRIA. NÃO OCORRÊNCIA DE FLAGRANTE ILEGALIDADE. MERA IRRESIGNAÇÃO. REDISCUSSÃO. DESCABIMENTO. PRECEDENTES.
+Recurso especial desprovido.
+Sustenta, em síntese, a existência de omissão quanto à inobservância da atenuante prevista no art. 65, inciso III, alínea "d" do Código Penal. Houve confissão do recorrente, o que, nos termos da Súmula 545 do STJ, demanda reconhecimento pois foi utilizada para formação do convencimento de culpa pelo julgador de piso (fl. 207).
+É o relatório.
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 619 do Código de Processo Penal, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no decisum ora embargado.
+No caso, a decisão de fls. 194/203 resolveu a questão controvertida de forma inteligível e congruente, tendo apresentado fundamentação adequada que alicerça o convencimento nela plasmado, bem como em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça. Veja-se (fl. 202 - grifo nosso):
+ ..  Por derradeiro, estou de acordo com a nobre parecerista (fl. 189): não houve o devido prequestionamento da matéria, nem foram opostos embargos declaratórios para sanar eventual omissão. Neste ponto, portanto, o recurso especial não merece ser conhecido, ante a incidência das Súmulas nº 211/STJ, 282 e 356/STF (AgRg no REsp n. 1.833.275/CE, Ministro Jorge Mussi, Quinta Turma, DJe 3/12/2019).
+Reitero que a revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, procure rediscutir questões de mérito por simples inconformismo com o provimento jurisdicional obtido. O que se pretende, no presente caso, é uma reavaliação indevida do conjunto probatório, já amplamente examinado pelo Tribunal a quo.  ..
+Reforço que a jurisprudência desta Corte Superior é firme no sentido de que, embora seja possível rever a dosimetria da pena em revisão criminal, a utilização do pleito revisional é prática excepcional, somente justificada quando houver contrariedade ao texto expresso da lei ou à evidência dos autos" (AgRg no AREsp n. 734.052/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 16/12/2015) - AgRg no AREsp n. 1.470.935/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/9/2019. E mais: a ausência de prequestionamento impede o conhecimento de recurso especial sobre questões não debatidas na instância inferior (AgRg no AREsp n. 2.568.305/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/10/2024).
+Destaco , ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. ATENUANTE DA CONFISSÃO. INEXISTÊNCIA. MERA IRRESIGNAÇÃO.
+Embargos de declaração rejeitados.
