@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto RODRIGO BERTOLACINI RODRIGUES (RODRIGO) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, alegou a violação dos arts. 46 e 47 do CDC sustentando que não há prova nos autos que o uso para testes tenha gerado qualquer dano ao veículo e que a cláusula contratual penal deve ter interpretação favorável ao consumidor.
+O Tribunal local, em relação a alegada a violação dos arts. 46 e 47 do CDC, no que concerne ao uso inadequado do veículo a a cláusula contratual penal, manifestou-se nos seguintes termos:
+LOCALIZA RENT A CAR S/A, ora apelada, ajuizou a presente
+ação em face de RODRIGO BERTOLACINI RODRIGUES, ora apelante, alegando, em apertada síntese, que as partes firmaram contrato de locação do veículo Chevrolet S10 Cd LS 2.8, 2021/2022, placas RTD9A09, pelo período de 14/07/2022a 27/07/2022. Foi ajustado o preço da diária em R$1.689,90 (prevendo-se um desconto de R$ 291,71, o que resultaria em R$ R$ 1.398,19, fls. 49), totalizando R$ 6.036,63. Passou a utilizar o sistema de telemetria com rastreador (o que era de ciência do locatário) e constatou que o réu fez uso inadequado do bem, o que é expressamente vedado pelo contrato, uma vez que causa a depreciação prematura do carro. Em consequência, devido ao descumprimento do contrato, postulou a condenação do réu no pagamento de 20% do valor do veículo, R$ 41.014,80.
+ ..
+No que tange à interpretação das cláusulas contratuais, o CDC dispõe que deve se dar de maneira mais favorável ao consumidor:
+ ..
+As partes firmaram contrato de locação de veículo, constante de fls. 49/50, pelo meio do qual o veículo Chevrolet S10 Cd LS 2.8, 2021/2022, placas RTD9A09, permaneceu na posse direta do locatário, ora recorrente, de 14.07.2022 a 27.07.2022, mediante pagamento do preço total de R$ 6.036,63.
+Argumenta a apelada que enquanto o veículo esteve na posse do apelante, não fez bom uso do bem. Isto é, o carro foi submetido à utilização extrema dia 19/07/2022, 21/07/2022 e 22/07/2022. O quadro apresentado a fls. 07 da petição inicial indica:
+ ..
+O instrumento subscrito pelas partes prevê o conceito de uso inadequado do automóvel e o proíbe :
+1.24. Uso Inadequado do Carro: Utilização do Carro ou qualquer adicional contratado em condições adversas e/ou em desacordo com as condições e orientações técnicas de condução, dirigibilidade, manutenção, segurança, dentre outras, sem qualquer limitação, estabelecidas pelo Manual do Fabricante/Proprietário e legislação vigente, bem como sua utilização em condições extremas, em operações proibidas e/ou em desacordo com as disposições previstas no Contrato, conforme exemplificado abaixo, mas não se limitando a: (..) f) Participar de corridas de automóveis ("rachas", "pegas", rally, disputa ou competição automobilística, corridas ilegais, gincanas, entre outros correlatos). g) Instruir pessoas não habilitadas, bem como treinar motoristas/condutores em qualquer situação.
+Em continuidade, o contrato prevê que, caso seja verificado uso inadequado do bem, poderia ser aplicada a multa correspondente a 20% do valor do veículo o que, no caso, corresponde a R$ 41.014,80:
+4.7. Ocorrendo qualquer das hipóteses acima, VOCÊ estará em situação irregular e não poderá utilizar o carro até que regularize sua situação. Em caso de situação irregular, além de rescindir o Contrato, NÓS poderemos adotar todas as medidas para a retomarmos o carro, inclusive bloquear a utilização dele. NÓS ainda poderemos aplicar multa não compensatória correspondente a até 20% do valor do carro, conforme tabela FIPE, dentre outras penalidades, observadas as disposições constantes no art. 416, parágrafo único do Código Civil Brasileiro.
+O apelante, por sua vez, nega o uso inadequado e questiona a telemetria apresentada pela apelada, reputando-a unilateral. Negou tenha participado de corridas, rachas, gincanas etc.
+Contudo, o apelante admitiu ser "colaborador da Pirelli" (fls. 111) e fez uso do veículo na "pista de provas Pirelli", para realização de testes de acessórios, especificamente de pneus da marca Pirelli. A despeito da alegação, o apelante não trouxe qualquer prova documental que demonstre ser ele colaborador da referida indústria.
+Questiona-se, ainda, o motivo pelo qual os testes de acessórios, sobretudo pneus, não foram realizados em veículos próprios da empresa. Não é comum um colaborador alugar um veículo para realizar teste de segurança para uma indústria.
+Além disso, o apelante não informou o resultado dos testes realizados. Sequer apresentou um relatório acerca da sua atuação.
+Afora isso, é inquestionável que o apelante admitiu não ter feito uso regular do veículo.
+Impende analisar se a utilização do automóvel locado para realização de testes automotivos de acessórios (especialmente, pneus), em pista de corrida privada, viola a cláusula contratual.
+A conclusão alcançada pela r. sentença deve ser mantida posto que não merece reparos, ainda que se faça uma interpretação mais favorável ao consumidor, nos termos do art. 47 do CDC.
+In casu, a despeito de não haver prova de que o apelante participou do corrida de automóveis, dirigiu o veículo em condições adversas e/ou em desacordo com as condições e orientações técnicas de condução, dirigibilidade, manutenção, segurança, dentre outras, sem qualquer limitação, estabelecidas pelo Manual do Fabricante/Proprietário e legislação vigente, bem como sua utilização em condições extremas, em operações proibidas e/ou em desacordo com as disposições previstas.
+De modo que houve o uso inadequado do carro, o que determina a aplicação da multa contratual.
+ ..
+A obrigação principal, no caso, consistiu no pagamento de R$ 6.036,63 pela locação do automóvel (fls. 50).
+De rigor, portanto, limitar, de forma equitativa, a multa imposta, ao valor de R$ 6.036,63, corrigido monetariamente a partir da data da devolução do veículo (fls. 49) e com juros moratórios da citação (art. 405 do CC)  e-STJ, fls.177/184 - sem destaques no original .
+Desse modo, para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o revolvimento do arcabouço fático-probatório e das cláusulas contratuais, procedimento sabidamente inviável na instância especial por incidir as Súmulas nºs 5 e 7, ambas desta Corte: A simples interpretação de cláusula contratual não enseja recurso especial; A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido os seguintes julgados:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. LOCAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA. MULTA INQUINADA DE ABUSIVA E DESPROPORCIONAL. ART. 413, DO CC. REVISÃO DA CLÁUSULA PENAL. CONTRATO QUE POSSUI OS ELEMENTOS BÁSICOS DE EXISTÊNCIA. INCISO I, DO ART. 143, DO CÓDIGO CIVIL. TEORIA DA APARÊNCIA. REDUÇÃO DO VALOR DA MULTA. INTELIGÊNCIA DO ART. 413, DO CÓDIGO CIVIL. CLÁUSULA PENAL QUE DETERMINA PAGAMENTO DE MULTA EM 50% DO VALOR DAS PARCELAS RESTANTES, EM CASO DE DEVOLUÇÃO ANTECIPADA DOS EQUIPAMENTOS. REDUÇÃO DO PERCENTUAL DA PENALIDADE PARA 10% (DEZ POR CENTO) SOBRE O VALOR DAS PARCELAS RESTANTES. NÃO DEMONSTRADO PREJUÍZO DA LOCADORA. SALVAGUARDA DO EQUILÍBRIO CONTRATUAL. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria foi objeto de exame em decisão exarada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O exame da pretensão recursal de reforma do acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, reinterpretação de cláusula contratual, o que é vedado em sede de recurso especial nos termos do enunciado das Súmulas 5 e 7 do STJ.
+3. A matéria referente aos dispositivos de lei indicados como violados não foi objeto de discussão no acórdão recorrido, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 211/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.928.664/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO RESIDENCIAL. RESCISÃO. AFASTAMENTO DA MULTA PELA DEVOLUÇÃO ANTECIPADA DO IMÓVEL E DA CLÁUSULA PENAL QUE ESTIPULAVA A MULTA CONTRATUAL. IMPOSSIBILIDADE DE REVISÃO DA CONCLUSÃO ALCANÇADA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Tendo o Tribunal de origem, soberano no exame do conjunto fático-probatório dos autos, concluído pela inexigibilidade das questionadas multas com base no descumprimento do contrato, não há como acolher a pretensão nos termos vertidos, porquanto a revisão do julgado não prescindiria do revolvimento das circunstâncias fáticas apresentadas nos autos e das cláusulas do referido ajuste, providências vedadas pelas Súmulas 5 e 7/STJ.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime, devendo ser analisado em cada caso concreto o caráter abusivo ou protelatório do recurso, o que não se verifica na hipótese.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.753.971/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/4/2021, DJe de 29/4/2021.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios, anteriormente fixados, em desfavor de RODRIGO em 5% sobre o valor da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE VEÍCULO. USO INADEQUADO. MULTA CONTRATUAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
