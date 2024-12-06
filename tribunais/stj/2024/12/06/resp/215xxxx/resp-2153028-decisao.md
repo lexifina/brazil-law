@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se recurso especial interposto por OMAN CAMPOS MAZZA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 22/2/2024.
+Concluso ao gabinete em: 5/7/2024.
+Ação: de cobrança de taxa de associação de moradores, ajuizada pela ASSOCIAÇÃO DE MORADORES DO SAUSALITO em face do recorrente.
+Sentença: julgou procedente o pedido inicial, para condenar o réu a pagar à parte autora a quantia de R$ 33.157,43 (trinta e três mil, cento e cinquenta e sete reais e quarenta e três centavos), devidamente atualizada, referente às parcelas vencidas descritas na inicial, bem como condeno ao pagamento de todas as parcelas vencidas e vincendas, até a data do efetivo cumprimento da sentença.
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Acórdão: negou provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa:
+Cobrança. Loteamento fechado. Taxas de manutenção. Prescrição que deve observar o prazo disposto no art. 205 do Cód. Civil. Obrigação que possui natureza "propter rem". Loteamento que dispõe de infraestrutura e fornecimento de água potável, cuja manutenção é de responsabilidade da associação Autora. Precedentes do STJ e desse Tribunal de Justiça. Incidência ainda da Lei nº 13.465/17. Sentença de procedência mantida. Verba honorária majorada. Recurso não provido.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 5º, XX, e 93 da CF; 421, 422, 476 e 884 do CC; 373, I, 926 e 927 do CPC; 18, VI, 26, VII, da Lei 6766/79; Lei 13.465/17; e aos Temas 882/STJ e 492/STF, bem como dissídio jurisprudencial.
+Sustenta que a petição inicial veio instruída apenas com uma simples planilha de cálculo controversa e impugnada, com uma lei municipal revogada e a matrícula do imóvel que sequer estão registrados no RGI com qualquer obrigação de pagamento de taxa para se alegar natureza "propter rem", bem como que não há nos autos a comprovação da existência de nenhuma cláusula convencional quando da instituição do loteamento impondo efeito erga omnes aos proprietários para responder por despesas de conservação e manutenção do loteamento.
+Alega a inconstitucionalidade da cobrança para quem não era associado anteriormente a 2017 e que quando da vigência da Lei 13.465/2017 só poderia ser cobrado de quem era associado.
+Ressalta que o antigo proprietário se desligou da associação em 2012, antes, portanto, da vigência de Lei 13.465/17.
+Afirma que aos proprietários anteriores ao surgimento da associação, ou aos que se desassociaram antes do início da vigência da Lei, como na hipótese, a obrigação somente é devida caso tenha anuído expressamente à obrigação.
+Assevera, ainda, que em nenhum momento foi aventado a existência de um contrato padrão registrado na matrícula imobiliária.
+Por fim, aduz que àquele que não é associado não compete ao pagamento de mensalidade de associação de moradores e que taxa de loteamento não é propter rem, mas sim dívida pessoal, não se transferindo para futuros moradores.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da cobrança de taxa de manutenção e conservação de loteamento imobiliário por associações
+De acordo com o entendimento do STF (Tema 492) e do STJ (Tema 882), às relações jurídicas constituídas antes da entrada em vigor da Lei nº 13.465/2017 ou de anterior lei municipal disciplinando a questão, é inválida a cobrança de taxa de manutenção de loteamento fechado, por administradora constituída sob a forma de associação, de proprietários de lote não associados ou que a ela não anuíram expressamente. Após a entrada em vigor da Lei nº 13.465/2017 ou de anterior lei municipal disciplinando a matéria, é possível a cobrança, por associação de moradores, de taxa de manutenção de titulares de direito sobre lotes localizados em loteamento de acesso controlado desde que, já possuindo lote, adiram ao ato constitutivo da associação ou sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis.
+Ademais, é pacífica a jurisprudência desta Corte Superior a respeito da impossibilidade de "aceitação tácita" sobre a cobrança do encargo cobrado por associação de moradores, sendo indispensável que o adquirente do terreno manifeste adesão inequívoca ao ato que instituiu tal encargo (REsp 1.439.163/SP, Segunda Seção, DJe de 22/5/2015).
+Nesse sentir, necessária a devolução dos autos ao Tribunal de origem para que, à luz da jurisprudência citada, se pronuncie sobre a questão.
+Logo, o recurso especial merece provimento, com base no Tema 492/STF e na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, V, "a" e "b", do CPC, bem como na Súmula 568/STJ, para determinar a remessa dos autos ao Tribunal de origem, a fim de que esse se pronuncie sobre a questão à luz da citada jurisprudência.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ASSOCIAÇÃO DE MORADORES. TAXA DE MANUTENÇÃO.
+1. Ação de cobrança.
+2. De acordo com o entendimento do STF (Tema 492) e do STJ (Tema 882), às relações jurídicas constituídas antes da entrada em vigor da Lei nº 13.465/2017 ou de anterior lei municipal disciplinando a questão, é inválida a cobrança de taxa de manutenção de loteamento fechado, por administradora constituída sob a forma de associação, de proprietários de lote não associados ou que a ela não anuíram expressamente. Após a entrada em vigor da Lei nº 13.465/2017 ou de anterior lei municipal disciplinando a matéria, é possível a cobrança, por associação de moradores, de taxa de manutenção de titulares de direito sobre lotes localizados em loteamento de acesso controlado desde que, já possuindo lote, adiram ao ato constitutivo da associação ou sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis.
+3. É pacífica a jurisprudência desta Corte a respeito da impossibilidade de "aceitação tácita" sobre a cobrança do encargo cobrado por associação de moradores, sendo indispensável que o adquirente do terreno manifeste adesão inequívoca ao ato que instituiu tal encargo.
+4. Recurso especial conhecido e provido.
