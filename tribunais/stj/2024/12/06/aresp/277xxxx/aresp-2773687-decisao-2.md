@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por D M (MENOR) contra decisão que inadmitiu recurso especial.
+O apelo extrem o, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANO MORAL - PEDIDO DE FORNECIMENTO DE TRATAMENTO PELO MÉTODO ABA (SIGLA DE APLLIED BEHAVIOR ANALYSIS - TRADUÇÃO: ANÁLISE DO COMPORTAMENTO APLICADA), PARA PORTADOR DE TRANSTORNO DO ESPECTRO AUTISTA (TEA) - RECURSO DAS OPERADORAS DE PLANO DE SAÚDE - COMPROVADA A NECESSIDADE E ADEQUAÇÃO DO TRATAMENTO REQUISITADO PELO PROFISSIONAL DE SAÚDE QUE ASSISTE O PACIENTE, RELATIVAMENTE A DOENÇAS PASSÍVEIS DE SEREM TRATADAS PELO DISPOSTO NO CONTRATO HAVIDO ENTRE AS PARTES, A DISPONIBILIZAÇÃO DE TAL TRATAMENTO (PELO MÉTODO ABA) É MEDIDA QUE SE IMPÕE.
+ROL DE TRATAMENTOS MÍNIMOS A SEREM DISPONIBILIZADOS PELO PLANO DE SAÚDE EM RESOLUÇÃO DA ANS É MERAMENTE EXEMPLIFICATIVO, CONFORME INTERPRETAÇÃO DO DISPOSTO NA LEI FEDERAL Nº 14.454/2022, RESOLUÇÃO NORMATIVA ANS Nº 539/2022, E DEMAIS NORMATIVAS SOBRE A QUESTÃO - ABUSIVIDADE DE EVENTUAL CLÁUSULA QUE EXCLUI O TRATAMENTO NA FORMA PRESCRITA PELO MÉDICO, SE A(S) DOENÇA(S) A SER(EM) TRATADA(S) ESTÁ(ÃO) CONTEMPLADA(S) NO CONTRATO - ENTENDIMENTO DA MATÉRIA CONFORME O POSICIONAMENTO DO STJ SOBRE A QUESTÃO.
+PARTE DO RECURSO DESPROVIDA - PEDIDO ALTERNATIVO, PARA EXCLUSÃO DE CONDENAÇÃO NO PAGAMENTO DE INDENIZAÇÃO A TÍTULO DE ALEGADO DANO MORAL - A RECUSA NO FORNECIMENTO DE DETERMINADO TRATAMENTO, NÃO PREVISTO, EM PRINCÍPIO, DE FORMA EXPRESSA EM CONTRATO, PODE GERAR DÚVIDA RAZOÁVEL QUANTO À OBRIGATORIEDADE DO FORNECIMENTO, NÃO SENDO TAL RECUSA, PORTANTO, PASSÍVEL DE CARACTERIZAR CONDUTA ILÍCITA E, CONSEQUENTEMENTE, DANO MORAL INDENIZÁVEL - PONTO DO RECURSO QUE MERECE ACOLHIMENTO.
+SENTENÇA REFORMADA EM PARTE -RECURSO CONHECIDO E PARCIALMENTE PROVIDO" (e-STJ fls. 1.291/1.306).
+No recurso especial, o recorrente sustenta, preliminarmente, afronta ao art. 1.025 do Código de Processo Civil, ante a persistência de omissões apontadas nos embargos de declaração rejeitados.
+Defende patente a configuração de danos morais indenizáveis, ante a suspensão indevida do tratamento, consoante os arts. 186 e 927 do Código Civil, tidos por violados.
+Quanto ao ponto, suscita dissídio jurisprudencial.
+Contrarrazões às e-STJ fls. 1.453/1.457.
+O recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Inicialmente, verifica-se que a suscitada afronta ao art. 1.025 do Código de Processo Civil não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e tampouco houve a oposição de embargos de declaração, a fim de provocar a manifestação daquele Tribunal acerca da questão.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF.
+Sobre o tema: "(..) A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Noutro giro, alega o recorrente que há configuração de danos morais indenizáveis pela suspensão indevida de cobertura médico-assistencial pela operadora de plano de saúde ao tratamento solicitado.
+Tal pretensão foi afastada pelo Tribunal de origem, ao fundamento de "haver dúvida razoável quanto à interpretação das cláusulas do contrato firmado entre as partes, o qual não prevê, de forma específica, o tratamento em epígrafe, cujo fornecimento é devido tendo em conta a novel legislação sobre a matéria, incluindo resoluções normativas da ANS. Assim, em havendo dúvida razoável quanto à obrigatoriedade do fornecimento do tratamento em questão, no momento em que aquele fora recomendado ao paciente, não vislumbro a ocorrência de ato ilícito perpetrado pelas Recorrentes, capaz de gerar o alegado dano moral passível de ser indenizado" (e-STJ fl. 1.302).
+Não se desconhece a jurisprudência do Superior Tribunal de Justiça firmada no sentido de que há configuração de danos morais indenizáveis pela recusa indevida de cobertura médico-assistencial pela operadora de plano de saúde às situações de emergência, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde.
+Todavia, cumpre ressaltar que há situações, tal como na espécie vertente, em que existe dúvida jurídica razoável na interpretação de cláusula contratual, de forma que a conduta da operadora, ao optar pela restrição da cobertura sem ofender os deveres anexos do contrato - como a boa-fé -,não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, a afastar qualquer pretensão de compensação por danos morais.
+As conclusões do Tribunal estadual coadunam, portanto, com a jurisprudência do Superior Tribunal de Justiça firmada no sentido de que "o mero descumprimento contratual não enseja a reparação de dano moral" (AgInt no AREsp 1.976.965/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/3/2022, DJe de 24/3/2022).
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANODE SAÚDE. RETROATIVIDADE DE NORMAS REGULATÓRIAS NÃO CONFIGURADA.PRECEDENTES JUDICIAIS. ALCANCE DE EFEITOS PRETÉRITOS. TERAPIASMULTIDISCIPLINARES. TRANSTORNO DO ESPECTRO AUTISTA. COBERTURA OBRIGATÓRIA.SÚMULA N. 568/STJ. DANOS MORAIS. REEXAME. IMPOSSIBILIDADE. SÚMULA N.7/STJ. HONORÁRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282/STF E356/STF.
+ ..
+2. É obrigatória a cobertura de terapias multidisciplinares, sem limites de sessão, para tratamento do transtorno do espectro autista. Súmula n. 568/STJ.
+3. A recusa do plano de saúde em cobrir determinado procedimento médico, baseada em cláusula contratual controvertida, não configura a hipótese de dano moral presumido - ou "in re ipsa" - razão pela qual se mostra indispensável a comprovação do efetivo prejuízo para que haja o dever de indenizar.
+4. No caso, o valor arbitrado pela origem - R$ 10.000,00 - não se mostra irrisório nem exorbitante e também não destoa dos valores fixados por esta Corte em casos semelhantes, o que torna inviável o recurso especial, no ponto, nos termos da Súmula n. 7/STJ5.
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo. (Súmula n. 211/STJ)
+Agravo interno improvido (AgInt no REsp 2.130.358/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZERC/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DECOBERTURA. PEDIDO DE TRATAMENTO DE INTERNAÇÃO DOMICILIAR (HOME CARE) EFORNECIMENTO DE MEDICAMENTOS. DANO MORAL NÃO CONFIGURADO. MEROINADIMPLEMENTO CONTRATUAL. AGRAVO NÃO PROVIDO.
+1. A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral indenizável, que pressupõe ofensa anormal à personalidade. Precedentes.
+2. Agravo interno a que se nega provimento
+(AgInt no REsp 1.988.367/SE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em26/9/2022, DJe de 30/9/2022).
+Incidência, portanto, da Súmula 568/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e nessa extensão negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
