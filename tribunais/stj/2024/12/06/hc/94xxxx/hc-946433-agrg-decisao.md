@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MARIANA CARDOSO MACHADO DE SOUZA de decisão do Ministro Presidente desta Corte, que indeferiu liminarmente o habeas corpus.
+Segundo se infere dos autos, a paciente foi condenada como incursa nos arts. 33, caput, e art. 35 da Lei n. 11.343/2006, à pena de 8 anos e 10 meses de reclusão, em regime inicial fechado. Em grau recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+No julgamento do AResp 229286, esta Corte deu provimento ao recurso para "absolver o corréu C R DE S do delito previsto no art. 33, caput, da Lei n. 11.343/2006. Nos termos do art. 580 do CPP, ficam estendidos os efeitos da decisão aos corréus O. J. DA S. N.; G. J. R. N.; T. B. DE S.; M. P. DE; M. C. M. DE S.; L. DA S.; J. M. C.; G. DE S. N.; e C. DE S. N., bem como aos demais corréus que figuram na mesma ação penal originária, proveniente da denominada "Operação Horse" e que estejam na mesma situação fática e jurídica da ora recorrente, qual seja, condenação por tráfico de drogas fundamentada exclusivamente no conteúdo de interceptação telefônica e em prova testemunhal, sem o respectivo laudo toxicológico relativo à apreensão de entorpecente."
+Nesta Corte, a defesa afirma que o "r. Magistrado, deixou de observar o patamar da condenação que restou imposta a paciente para reanalisar o regime inicial de cumprimento de pena, atribuindo-lhe regime mais gravoso do que o previsto no artigo 33 do Código Penal, sem qualquer fundamentação idônea, em total descompasso com as súmulas 440 do STJ, e 718 e 719 do STF."
+Requer, diante da readequação da pena para 3 anos de reclusão - tão somente pela condenação ao delito de associação ao tráfico - a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+Decido.
+Assiste razão à defesa.
+Segundo se infere, o regime inicial fechado teve como fundamento, notadamente, o quantum da pena estabelecida - maior de oito anos - posto que as circunstâncias judiciais foram aferidas favoravelmente a ré em sua integralidade.
+Vejamos, na sentença:
+7- DA RÉ MARIANA CARDOSO MACHADO DE SOUZA DO DELITO DO ART. 35, CAPUT, DA LEI 11.343/06
+Atento ao disposto nos artigos 59 e 68, ambos do Código Penal, verifica-se que a acusada NÃO POSSUI ANTECEDENTES. Da mesma forma, importante salientar que dentro da célula investigada, a autora apresentava posição sem maior relevância. Assim, fixo-lhe a pena-base, no mínimo legal, ou seja, em 03 (três) anos de reclusão e 700 (setecentos) dias-multa.
+Consolido a pena diante da ausência de outras causas de modificação.
+Fixo a multa na razão unitária mínima.
+DO DELITO DO ART. 33, CAPUT, DA LEI 11.343/06
+Atento ao disposto nos artigos 59 e 68, ambos do Código Penal, verifica-se que a acusada NÃO POSSUI ANTECEDENTES. Da mesma forma, importante salientar que dentro da célula investigada, a autora apresentava posição sem maior relevância. Assim, fixo-lhe a pena-base, no mínimo legal, ou seja, em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Consolido a pena diante da ausência de outras causas de modificação. Fixo a multa na razão unitária mínima.
+Incabível a aplicação do tráfico privilegiado diante da constatação de que a autora integra organização criminosa, não sendo o caso em tela situação isolada em sua vida.
+Diante da comprovação de cometimento de diversos atos de tráfico de drogas, reconheço a continuidade delitiva prevista no artigo 71 do Código Penal, promovendo o aumento de 1/6 e fixando a pena final de 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 580 (quinhentos e oitenta) dias multa.
+Fixo a multa na razão unitária mínima.
+Reconheço o concurso material de delitos promovendo o somatório das penas para alcançar o patamar final de 08 (oito) anos e 10 (dez) meses de reclusão, 1280 (mil duzentos e oitenta) dias- multa na razão unitária mínima.
+Diante da pena imposta e das circunstâncias judicias, fixo o regime fechado para início de cumprimento da pena, mesmo computado o tempo de prisão cautelar.
+No acórdão que julgou a apelação, consta sobre a participação da ora agravante na associação criminosa:
+A corré Mariana era companheira do traficante Marcos Antônio da Silva, vulgo "Paulista", morto em 13/10/2014 a mando do corréu Gledson, conforme conversas interceptadas. Independentemente da relação conjugal, diálogos captados antes da morte do companheiro revelam que a corré guardava e transportava drogas para a associação criminosa. E diversamente do que alega sua defesa, dessas conversas não se extrai qualquer indício de que agia sob coação moral irresistível.
+Nesse contexto, em que absolvida a ré pelo delito de tráfico de drogas e remanescendo a condenação apenas pelo delito de tráfico de drogas - 3 anos de reclusão -, assim como ausente a indicação de uma posição de relevância no grupo criminoso, o regime adequado ao cumprimento da pena é o aberto.
+Estabelecida a pena final em patamar inferior a 4 anos, verificada a primariedade da agente e a análise favorável das circunstâncias judiciais, o regime aberto é o adequado para o cumprimento da pena privativa de liberdade, de acordo com o dispos to no art. 33, § 2º, alínea "c", do CP.
+Ilustrativamente:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ASSOCIAÇÃO PARA O TRÁFICO. PENA INFERIOR À 4 (QUATRO) ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME INICIAL DE CUMPRIMENTO DA PENA. ENUNCIADOS 440 DO STJ E 718 E 719 DO STF. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Conforme o entendimento reiterado desta Corte, a gravidade abstrata acerca do crime, não justifica à fixação de regime prisional mais gravoso, sobretudo quando o condenado é primário e detentor de bons antecedentes e a pena-base foi fixada no mínimo legal, como na hipótese. Viola o entendimento jurisprudencial consolidado na Súmula 440 do Superior Tribunal de Justiça e nas Sú mulas 718 e 719 do Supremo Tribunal Federal.
+3. O quantum da condenação (3 anos e 6 meses), a primariedade e a análise favorável das circunstâncias judiciais permitem ao paciente iniciar o cumprimento da pena privativa de liberdade no regime aberto, conforme art. 33, § 2º, alínea "c", do CP.
+4. Havendo o paciente preenchido os requisitos do art. 44 do Código Penal, deve a pena corporal ser substituída por penas restritivas de direitos.
+5. Habeas Corpus não conhecido. Ordem concedida de ofício, para fixar o regime aberto, bem como substituir a pena privativa de liberdade por penas restritivas de direitos, a serem definidas pelo Juízo competente." (HC 327.852/SP, de minha relatoria, QUINTA TURMA, julgado em 01/12/2015, DJe 09/12/2015)
+Por fim, pelas mesmas razões acima alinhavadas (primariedade do agente, circunstâncias judiciais favoráveis e quantidade não significativa de droga apreendida), é cabível a substituição da pena privativa de liberdade por restritiva de direitos, a ser definida pelo Juízo de primeiro grau (AgRg no REsp 1.622.395/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/11/2016, DJe 05/12/2016).
+Ante o exposto, dou provimento ao recurso para fixar o regime aberto como o inicial para o cumprimento da pena reclusiva, assim como para substituir a pena privativa de liberdade por restritiva de direitos, a ser estabelecida pelo Juízo da execução.
+Publique-se. Intimem-se.
+EMENTA
