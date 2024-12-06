@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CI VIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de Indenização por danos materiais e compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos
+por ela utilizados, não deve ser conhecido.
+2. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno, interposto por BRASILSEG COMPANHIA DE SEGUROS e COMPANHIA DE SEGUROS ALIANÇA DO BRASIL S.A., contra a decisão da Presidência desta Corte (e-STJ fls. 1.002/1.003), que não conheceu de seu agravo, interposto contra decisão de admissibilidade que negou seguimento a recurso recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial: 06/05 /2024.
+Concluso ao gabinete: 23/10/2024.
+Ação: de cobrança de indenização securitária, ajuizada por SIDNEI PACINI e SILVANA PACINI em face do BANCO DO BRASIL S/A. Incluídas a BRASILSEG COMPANHIA DE SEGUROS e COMPANHIA DE SEGUROS ALIANÇA DO BRASIL S.A., na qualidade de assistentes litisconsorciais do réu.
+Sentença: julgou procedentes os pedidos formulados na inicial, para: a) condenar o réu Banco do Brasil ao pagamento da indenização securitária referente ao Seguro Ouro contratada, sendo o percentual de 50% devido aos herdeiros e 50% ao beneficiário Sidnei Pacini, com correção monetária pelo INPC a partir da data da data de celebração do contrato referente a cada apólice, bem como juros de mora de 1% ao mês desde a citação; b) ao abatimento das dívidas seguradas e pagamento da diferença entre o saldo devedor, na data do óbito do segurado, e a indenização securitária referente às apólices de fls. 54, 55/58, 59/62 e 63/66, na proporção de 50% para cada uma dos autores, com correção monetária pelo INPC a partir da data da data de celebração do contrato referente a cada apólice, bem como juros de mora de 1% ao mês desde a citação.
+Acórdão: negou provimento à apelação interposta pelo BANCO DO BRASIL, nos termos da seguinte ementa:
+"APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. SEGURO DE VIDA E SEGUROS PRESTAMISTAS. FALECIMENTO DO SEGURADO EM ACIDENTE DE TRÂNSITO. NEGATIVA DE COBERTURA. EMBRIAGUEZ DO CONDUTOR. SENTENÇA PROCEDÊNCIA. APELAÇÃO DO BANCO RÉU. IMPUGNAÇÃO À GRATUIDADE CONCEDIDA AOS AUTORES. AUSÊNCIA DE ELEMENTOS A DERRUIR HIPOSSUFICIÊNCIA FINANCEIRA ALEGADA. BENESSE MANTIDA. AVENTADA A ILEGITIMIDADE PASSIVA AD CAUSAM. CONTRATAÇÃO DOS SEGUROS INTERMEDIADA PELO BANCO. EMPRESAS PERTENCENTES AO MESMO GRUPO ECONÔMICO. TEORIA DA APARÊNCIA. PREFACIAL AFASTADA. PRETENDIDA A MINORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. VERBA HONORÁRIA ESTABELECIDA NO MÍNIMO LEGAL. TESES COMUNS DO BANCO E DA SEGURADORA (INTERESSADA). INSISTÊNCIA NA REGULARIDADE DA NEGATIVA DE COBERTURA SECURITÁRIA, VISTO QUE O SEGURADO TERIA AGRAVADO O RISCO AO CONDUZIR VEÍCULO AUTOMOTOR EMBRIAGADO, ALÉM DE TER COMETIDO SUICÍDIO DENTRO DO PRAZO DE CARÊNCIA DE DOIS ANOS. INSUBSISTÊNCIA. EMBRIAGUEZ DO SEGURADO QUE NÃO AFASTA O DIREITO À INDENIZAÇÃO DECORRENTE DE CONTRATO DE SEGURO DE VIDA. SÚMULA 620 DO STJ. PRECEDENTES DESTE TRIBUNAL. MORTE DECORRENTE DE ACIDENTE DE TRÂNSITO, E NÃO DE SUICÍDIO. DEVER DE INDENIZAR MANTIDO. HONORÁRIOS RECURSAIS EM DESFAVOR DO BANCO RÉU. ART. 85, §11, DO CPC. RECURSOS CONHECIDOS E NÃO PROVIDOS." (e-STJ fl. 761)
+Embargos de declaração: opostos pelo Banco e pela Seguradora, foram rejeitados.
+Recurso especial: alegou, além de dissídio jurisprudencial, ofensa aos arts. 489, II, e 1.022, II, do CPC; 757, 760, 765, 768 e 781 do Código Civil; 165 e 306 da Lei 12.760/12, sustentando: i) omissão e negativa de prestação jurisdicional do julgado; ii) ser indevida sua condenação ao pagamento da indenização pleiteada, ante a prática de ato ilícito pelo segurado, que agravou o risco no momento do sinistro, por encontrar-se sob efeito de álcool, desvirtuando assim, o pacto securitário firmado; iii) a ocorrência de crime de trânsito, que foi ignorado na origem, o que também afasta seu dever de indenizar.
+Decisão agravada: não conheceu do agravo por incidência da Súmula 182/STJ, por ausência de impugnação às Súmulas 7 e 83/STJ.
+Agravo interno: alega ter preenchido os requisitos para a interposição do recurso, pugnando pelo afastamento da Súmula 182/STJ. Repisa, no mais, os mesmos argumentos expendidos anteriormente em defesa de suas teses.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CI VIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de Indenização por danos materiais e compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos
+por ela utilizados, não deve ser conhecido.
+2. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada, fundamentada na ausência de impugnação à Súmula 83 do STJ, aplicada pelo juízo de admissibilidade.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Especificamente quanto à Súmula 83/STJ, cumpre esclarecer, que seu afastamento deve ser demonstrado com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie.
+Verifica-se, em nova análise que, no agravo em recurso especial a parte agravante, de fato, não impugnou adequadamente, de forma clara e específica, o óbice aplicado, não trazendo a devida comprovação do dissídio interpretativo, pois não foram juntados quaisquer acórdãos desta Corte, para refutar o entendimento adotado pela Corte de origem, que fundamentou a decisão agravada com a atual jurisprudência de 2018/2023.
+Outrossim, ainda que referido fundamento já seja suficiente, por si só, para a negativa deste recurso, verifica-se também, com relação à Súmula 7/STJ, verifica-se que a parte agravante não impugnou adequadamente, de forma clara e específica, o óbice aplicado, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência, deixando de refutar os fundamentos adotados e de demonstrar o seu desacerto, cingindo-se apenas a reprisar as razões de seu recurso especial sem a devida demonstração da inaplicabilidade da incidência das Súmulas aplicadas no caso concreto.
+Especificamente à Súmula 7/STJ, cumpre consignar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se, quanto à Súmula 7/STJ, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Assim, decisão agravada, portanto, deve ser mantida por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
