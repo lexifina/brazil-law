@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ASSOCIACAO BRASILEIRA DE TELEVISAO POR ASSINATURA , com fundamento no art. 105, inciso III, alíneas a e b, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 428):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA COLETIVO. ICMS. ASSOCIAÇÃO BRASILEIRA DE TELEVISÃO POR ASSINATURA - ABTA. Lei Estadual nº 7.428, de 25.08.2016 que instituiu o Fundo Estadual de Equilíbrio Fiscal (FEEF), regulamentada pelo Decreto nº 45.810/2016. Depósitos a serem realizados pelos contribuintes do ICMS no Estado do Rio de Janeiro, na proporção de 10% do proveito econômico derivado de benefícios tributários porventura usufruídos. Pretensão de suspensão da exigibilidade do recolhimento da aludida contribuição. Sentença a quo que julgou improcedente o pleito autoral, com a denegação da ordem. Apelo ofertado pelo impetrante. Manutenção do decisum. Ausência do alegado direito líquido e certo. Legislação que foi objeto de representação de inconstitucionalidade Nº 0063240-02.2016.8.19.0000, tendo o Órgão Especial deste e. TJRJ declarado a sua constitucionalidade. APELO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fl. 499).
+A parte recorrente alega violação dos arts. 489, § 1º, IV e V, e 1.022, II, do CPC; do art. 1º da Lei 12.016/2009; dos arts. 178 e 104, III, do CTN; e do art. 1º, § 1º, da Lei Complementar 24/1975.
+Narra que, apesar dos embargos de declaração, o Tribunal a quo foi omisso quanto à alegado superveniente edição da Lei 7.659/2017 do Estado do Rio de Janeiro, bem como sobre os argumentos apresentados pela parte recorrente, capazes de infirmar o acórdão recorrido.
+Afirma que houve a efetiva demonstração do direito líquido e certo, sendo para tanto irrelevante a pendência de julgamento da matéria pelo Supremo Tribunal Federal (STF), e que não se faz necessária dilação probatória, tratando-se a demanda de questão eminentemente jurídica.
+Sustenta que, "ao denegar a segurança ora pleiteada, acaba por violar a regra de anterioridade prevista no art. 104, III, do CTN, ao permitir que o Estado do Rio de Janeiro continue exigindo, já a partir de dezembro de 2016 (cf. art. 13 do Decreto Estadual nº 45.810/2016), novo tributo instituído pela Lei nº 7.428, de 25.08.2016 (DOE: 26.08.2016)" (fl. 544).
+Além disso, entende ser ilegítima a extensão do conceito de benefício fiscal promovida pelo Decreto Estadual 45.810/2016, pois desconsidera a conceituação prevista no art. 1º, parágrafo único, da Lei Complementar 24/1975.
+Contrarrazões apresentadas às fls. 586/595.
+O recurso foi admitido na origem (fls. 614/615).
+É o relatório.
+O recurso especial tem origem em mandado de segurança coletivo no qual a ASSOCIACAO BRASILEIRA DE TELEVISAO POR ASSINATURA visa ao afastamento da exigência de suas associadas da realização do depósito previsto na Lei Estadual 7.428/2016 e no Decreto Estadual 45.810/2016 para fins de gozo de benefício fiscal.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+O Tribunal de origem concluiu que não se verifica direito líquido e certo apto a embasar a pretensão mandamental, uma vez que a constitucionalidade da exigência de depósito instituída pela Lei Estadual 7.428/2016, questionada pela impetrante, está pendente de julgamento pelo Supremo Tribunal Federal. Além disso, entendeu que a demanda requer dilação probatória, o que é incompatível com a via estreita do mandado de segurança (fls. 433/440):
+ ..
+No caso em comento, o Fundo Estadual de Equilíbrio Financeiro (FEEF) instituído pela Lei Estadual nº 7.428/2016 e regulamentado pelo Decreto 45.810/2016, surgiu como medida emergencial e temporária destinada a manutenção do equilíbrio das finanças públicas e previdenciárias do Estado do Rio de Janeiro.
+Na forma do artigo 2º do referido diploma legal, a continuidade da fruição de benefício fiscal depende do recolhimento a Fundo (FEEF) de 10% (dez por cento) da diferença do imposto calculado com e sem a utilização do benefício já concedido à empresa contribuinte do ICMS.
+Na hipótese dos autos, o impetrante pretende demonstrar que o referido "fundo" se trata de nova espécie tributária e que afronta dispositivos da Constituição da República e do Código Tributário Nacional.
+Todavia, o E. Órgão Especial desta Corte, deixando de referendar a decisão monocrática do Relator, que suspendia a exigibilidade da exação prevista na Lei Estadual nº 7.428/2016, indeferiu a liminar pretendida na Representação de Inconstitucionalidade nº 0063240-02.2016.8.19.0000, cuja ementa passo a transcrever:  ..
+Por seu turno, a questão o foi levada ao Supremo Tribunal Federal, por meio da ADI nº 5.635, na qual igualmente foi negada a liminar pretendida, conforme decisão proferida pelo Exmo. Ministro Luís Roberto Barroso, em 03/05/2017, e que ainda se encontra pendente de julgamento no Pretório Excelso.
+Assim, face o ajuizamento da referida ação direta de inconstitucionalidade, o trâmite da Representação de Inconstitucionalidade em curso neste Tribunal foi suspenso, restando reconhecida a hipótese de prejudicialidade externa.
+ ..
+Desta forma, imperioso reconhecer que a questão jurídica aqui discutida ainda reclama pacificação nos tribunais pátrios, a revelar, portanto, a ausência do alegado direito líquido e certo.
+Assim, mostra-se hígida a presunção de legitimidade da cobrança implementada pelos diplomas legais indicados na exordial, o que autoriza a cobrança destinada do FEEF.
+Além disso, é necessário salientar que natureza jurídica da cobrança, bem como a apontada afronta a dispositivos constitucionais e legais em razão da destinação específica dos recursos do fundo, são questões que demandam ampla dilação probatória, incompatível com a abreviada via mandamental.
+ ..
+Por todo o exposto, NEGA-SE PROVIMENTO ao apelo, mantendo-se inalterada a r. sentença de improcedência, sem imposição de sucumbência recursal, nos termos da orientação contida na Súmula 512 do STF e no artigo 25 da Lei 12.016/2009.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. ACÓRDÃO COMBATIDO. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE. MANDADO DE SEGURANÇA. INTERESSE DE AGIR. AUSÊNCIA. PROVA PRÉ-CONSTITUÍDA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+ ..
+3. A desconstituição do entendimento a que chegou o acórdão recorrido (que concluiu pela falta de interesse de agir em razão da ausência de comprovação do direito líquido e certo da parte impetrante) demandaria o revolvimento do material fático-probatório dos autos, providência vedada em sede de recurso especial diante do óbice contido na Súmula 7 do STJ (a pretensão de simples reexame de prova não enseja recurso especial).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.858.099/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE TRATAMENTO MÉDICO. MANDADO DE SEGURANÇA. ALEGADA OFENSA AO ART. 1º DA LEI 12.016/2009. DIREITO LÍQUIDO E CERTO. VERIFICAÇÃO. CONTROVÉRSIA QUE EXIGE A ANÁLISE DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. ASTREINTES. REVISÃO DO VALOR. IMPOSSIBILIDADE. SÚMULA 7/STJ. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. CHAMAMENTO AO PROCESSO DA UNIÃO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. A jurisprudência desta Corte firmou-se no sentido de que a análise da alegação de contrariedade ao art. 1º da Lei 12.016/2009, a fim de aferir a existência de direito líquido e certo, necessário à concessão da segurança, demanda exceder os fundamentos colacionados no acórdão guerreado, com a incursão no conteúdo fático-probatório dos autos, o que implica, necessariamente, o reexame de fatos e provas, insuscetível de ser realizado, em sede de Recurso Especial, ante o óbice da Súmula 7/STJ. Precedentes do STJ.
+ ..
+VIII. Agravo interno improvido.
+(AgInt no AREsp n. 1.464.492/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/9/2019, DJe de 24/9/2019.)
+A alegação de violação dos arts. 178 e 104, III, do CTN e do art. 1º, § 1º, da Lei Complementar 24/1975 não é suficiente para caracterizar o prequestionamento, instituto que exige, além da alegação de infringência a dispositivos legais, a discussão e a apreciação judicial da questão de direito pela instância ordinária.
+O Superior Tribunal de Justiça (STJ) considera que a ausência de enfrentamento pelo Tribunal de origem da matéria objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento.
+Incide neste caso o enunciado 211 da Súmula do STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, a ele nego provimento.
+Publique-se. Intimem-se.
+EMENTA
