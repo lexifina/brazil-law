@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado pela COMPANHIA MINUANO DE ALIMENTOS contra ato que atribui ao MINISTRO DE ESTADO DO TRABALHO E EMPREGO.
+A parte impetrante alega empregar milhares de pessoas na região do Vale do Rio Taquari, no Estado do Rio Grande do Sul, e ter sido gravemente afetada por eventos climáticos recentes, razão pela qual seus empregados devem receber os benefícios previstos na Medida Provisória 1.230/2024, apesar de possuir, a empresa, certidão positiva de débitos com a previdência social, incidindo na vedação do art. 6º desse diploma normativo.
+O ato primário foi regulamentado pela Portaria 991/2024 do Ministério do Trabalho e Emprego, objeto da presente impetração, prevendo, novamente, em seu art. 14, que "não receberão o Apoio Financeiro os empregados de empregadores em débito com o sistema da seguridade social, nos termos do art. 195, § 3º, da Constituição Federal" (fl. 216).
+Requer, liminar e definitivamente, " ..  que o Ministro de Estado do Trabalho e Emprego se abstenha de exigir a regularidade fiscal com a seguridade social, neste momento, da Impetrante, assegurando o cadastramento da empresa ao Programa de Apoio Financeiro às empresas atingidas pelos eventos climáticos extremos  .. " (fls. 14/15).
+A medida liminar foi indeferida consoante decisão de minha relatoria de fls. 221/223.
+A União requereu o seu ingresso no feito (fl. 228), e a autoridade indicada como coatora prestou informações, segundo as quais " ..  não há ilegalidade na exigência da Portaria MTE nº 991/2024, tendo em vista que esta apenas replica requisito previsto na Medida Provisória nº 1.230/2024, que instituiu o benefício, assim como na Constituição Federal" (fl. 242).
+O Ministério Público Federal opinou pelo não conhecimento do mandado de segurança (fls. 247/249).
+É o relatório.
+A portaria questionada é dotada de generalidade e abstração, porquanto "disciplina procedimentos e critérios operacionais relativos ao pagamento do Apoio Financeiro instituído com o objetivo de enfrentar a calamidade pública e as suas consequências sociais e econômicas decorrentes de eventos climáticos no Estado do Rio Grande do Sul" (fl. 213).
+Não havendo destinatário concretamente individualizado, inexiste direito individual a ser protegido pela ação constitucional, incidindo na hipótese a Súmula 266 do Supremo Tribunal Federal (STF): "Não cabe mandado de segurança contra lei em tese".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA. PORTARIA 1.287/2017 DO MINISTRO DO TRABALHO. ATO GERAL E ABSTRATO. NÃO CABIMENTO DO WRIT. SÚMULA 266/STF. PRECEDENTES. PROVIMENTO NEGADO.
+1. A Portaria 1.287/2017 do Ministro do Trabalho, ato apontado como coator, é dotada de generalidade e abstração, por vedar a cobrança, pelas empresas prestadoras, de taxas de serviço negativas às empresas beneficiárias do Programa Alimentação do Trabalhador. Dessa forma, incide na presente hipótese a Súmula 266 do Supremo Tribunal Federal (STF): "Não cabe mandado de segurança contra lei em tese".
+2. Agravo interno a que se nega provimento.
+(AgInt no MS n. 24.340/DF, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 24/4/2024, DJe de 26/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. PORTARIA 1.287/2017, DO MINISTÉRIO DO TRABALHO. ALEGAÇÃO DE INCONSTITUCIONALIDADE. PRETENSÃO CONTRA LEI EM TESE. AUSÊNCIA DE DEMONSTRAÇÃO DE EFEITOS CONCRETOS. SÚMULA 266/STF. NÃO CABIMENTO DO WRIT.
+1. "Não cabe mandado de segurança contra lei em tese." (Súmula n. 266/STF).
+2. Os impetrantes, ora agravantes, insurgem-se contra os termos da Portaria n. 1.287/2017, expedida pelo senhor Ministro do Trabalho, a qual veda a prática comercial de cobrança, pelas empresas operadoras de vales alimentação e refeição, de taxas de serviços negativas nos contratos firmados com empresas beneficiárias do Programa de Alimentação do Trabalhor - PAT . Diante disso, deve ser assetando que a norma impugnada se dirige indistinta e genericamente a todas as empresas integrantes do PAT, não os atingindo de forma individual e concreta. Logo, ressoa evidente que a pretensão mandamental se volta contra lei em tese. Precedentes: AgInt no MS 20.469/DF, Relatora Ministra Regina Helena Costa, Primeira Seção, DJe 20/3/2018; MS 21.555/DF, Relator Ministro Herman Benjamin, Primeira Seção, DJe 17/10/2017; e MS 20.076/DF, Relator Ministro Gurgel de Faria, Primeira Seção, DJe 12/9/2016.
+3. Confiram-se, ainda, as seguintes decisões monocráticas nas quais também se aplicou a Súmula n. 266/STF no bojo de mandados de segurança em que também se impugnava a Portaria n. 1.287/2017: MS 24.195/DF, Relatora Ministra Regina Helena Costa, DJe 11/4/2018; MS 24.181/DF, Relatora Regina Helena Costa, DJe 9/4/2018; e MS 24.166/DF, Relator Ministro Sérgio Kukina, DJe 23/4/2018. .
+4. Agravo interno não provido.
+(AgInt no MS n. 24.245/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/8/2018, DJe de 14/8/2018.)
+Ante o exposto, indefiro a inicial do mandado de segurança, nos termos do art. 10, caput, da Lei 12.016/2009 e dos arts. 34, XIX, e 212 do Regimento Interno do Superior Tribunal de Justiça.
+Custas na forma da lei. Sem condenação ao pagamento de honorários advocatícios nos termos do art. 25 da Lei 12.016/2009.
+Publique-se. Intimem-se.
+EMENTA
