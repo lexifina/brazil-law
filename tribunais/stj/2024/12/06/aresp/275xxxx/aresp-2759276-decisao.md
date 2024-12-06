@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BANCO BRADESCO FINANCIAMENTOS S.A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE BUSCA E .APREENSÃO. ALIENAÇÃO FIDUCIÁRLA EM GARANTIA. AÇÃO FUNDAMENTADA NO SUPOSTO INADIMPLEMENTO DA PARCELA  28. COMPROVAÇÃO DO PAGAMENTO TEMPESTIVO DA REFERIDA PARCELA, PELA DEVEDORA, EM SUA CONTESTAÇÃO. IMPROCEDÊNCIA DO PEDIDO DE BUSCA E .APREENSÃO. INSCRIÇÃO DO NOME DA RECONVINTE NO SERASA. DANO MORAL IN RE IPSA. HONORÁRIOS .ADVOCATÍCIOS FIXADOS NA PRIMEIRA INSTÂNCIA (20%) EM CONFORMIDADE COM ART. 85, § 2O, DO CPC. AUSÊNCIA DE RESPALDO JURÍDICO PARA .ARBITRÁ-LOS EM UM SALÁRIO MÍNIMO. CONFIRMAÇÃO DA SENTENÇA QUE JULGOU IMPROCENTE A AÇÃO DE BUSCA E APREENSÃO E JULGOU PROCEDENTE A RECONVENÇÃO. RECURSO DESPROVIDO (fl. 215).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 343 do CPC, no que concerne ao não conhecimento da reconvenção por ausência de conectividade da indenização por danos morais com a ação de busca e apreensão, trazendo a seguinte argumentação:
+A reconvenção não merecia ser conhecida, pois a matéria relativa a indenização por dano moral não é conexa com a ação principal e reclamava o devido processo legal.
+ ..
+A reconvenção acolhida acabou por violar o artigo 343 do Código de Processo Civil, pois a matéria debatida e relativ a ao Dano Moral não é conecta com a ação de busca e apreensão, que tem natureza reipersecutória, reclamando, assim, pelo devido processo legal, onde nessa ação autônoma se formaria a triangulação processual.
+Daí a reconvenção merecia ser indeferida, pois incabível no caso em apreço, já que a matéria aludida a reparação por danos morais não é conecta com a ação de busca e apreensão e não se confundem com fundamento para defesa, sendo, sim, matéria própria de ação autônoma (fls. 231/232).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
