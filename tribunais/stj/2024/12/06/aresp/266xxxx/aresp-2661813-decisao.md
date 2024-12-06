@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo interposto por AUTO POSTO NOVO ORATORIO LTDA. e OUTROS contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGÊNCIA E DISTRIBUIÇÃO COMPRA E VENDA DE COMBUSTÍVEL - AÇÃO DE RESCISÃO CONTRATUAL Revendedor que deu causa ao encerramento do negócio jurídico ao descaracterizar o posto, alterar sua bandeira junto à ANP e deixar de adquirir os produtos da distribuidora durante a vigência do contrato. Sentença mantida. PRELIMINAR REJEITADA. RECURSO IMPROVIDO, com observação" (e-STJ fl. 719).
+Os embargos de declaração opostos por RAIZEN S.A. foram acolhidos para sanar omissão em relação aos honorários advocatícios (e-STJ fls. 729-731).
+No recurso especial, os recorrentes alegam, além de divergência jurisprudencial, violação dos artigos 421 e 421-A do Código Civil, 4º da Lei de Introdução às Normas do Direito Brasileiro, 36, § 3º, "d", X, da Lei n. 12.529/2011 e 489 e 1.022 do Código de Processo Civil.
+Sustentam a tese de negativa de prestação jurisdicional ao argumento de que o Tribunal de origem não se manifestou sobre todos os pontos imprescindíveis para o deslinde da controvérsia.
+Afirmam que deve ser reconhecida a rescisão do contrato por culpa exclusiva da recorrida.
+Com as contrarrazões (e-STJ fls. 750-769), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, observa-se que a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem a especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem.
+Com efeito, a parte ora recorrente sequer opôs embargos de declaração para apontar o ponto sobre o qual o acórdão recorrido deveria ter se pronunciado e não o fez.
+Ademais, a mera alegação de que "era imprescindível a análise com profundidade do caso pelo viés da Lei Antitruste, aplicada aos contratos de distribuição, firmados entre Postos Revendedores e Distribuidoras" (e-STJ fl. 742) não é suficiente para demonstrar a negativa de prestação jurisdicional ventilada.
+Assim, é manifesta a deficiência da fundamentação recursal nesse particular, o que atrai a incidência, por analogia, da Súmula nº 284/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ATENDIMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. LIMITAÇÃO DE COBERTURA. RECUSA INJUSTICADA. AGRAVAMENTO DA SITUAÇÃO DE AFLIÇÃO PSICOLÓGICA E ANGÚSTIA DO BENEFICIÁRIO. CIRCUNSTÂNCIAS DELIMITADAS NO JULGADO ESTADUAL. DANO MORAL. CARACTERIZAÇÃO. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Conforme a jurisprudência desta Corte, afigura-se abusiva a negativa, pelo plano de saúde, de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência com base na cláusula de carência, caracterizando a indevida recusa de cobertura.
+3. Outrossim, a recusa injustificada, pela operadora de plano de saúde, em autorizar tratamento médico emergencial enseja reparação a título de danos morais, porque agrava a situação de sofrimento psíquico do usuário, já abalado ante o estado debilitado da sua saúde.
+4. Estando o acórdão recorrido em consonância com a jurisprudência pacífica do Superior Tribunal de Justiça, tem incidência a Súmula n. 83/STJ, aplicável por ambas as alíneas autorizadoras.
+5. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+6. Agravo interno desprovido."
+(AgInt no AgInt no AREsp 2.174.617/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Consoante a jurisprudência firmada nesta Corte, a legislação vigente (art. 932 do CPC/15 c/c Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. Nos termos da jurisprudência desta Corte Superior, a viabilidade da ação rescisória por ofensa à disposição de lei pressupõe violação direta da literalidade da norma jurídica. Ademais, o erro de fato que enseja a propositura da ação rescisória não é aquele que resulta de eventual má apreciação da prova, mas, sim, o que decorre da ignorância de determinada prova, diante da desatenção do julgador na apreciação dos autos. Incidência da Súmula 83/STJ.
+3.1. Outrossim, rever a conclusão do Tribunal a quo acerca da ausência dos requisitos legais para a procedência da ação rescisória, no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+5. Agravo interno desprovido."
+(AgInt no AgInt no AREsp 2.006.960/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+De outro lado, com relação ao mérito, a deficiência na fundamentação recursal também ficou evidenciada, visto que a parte recorrente, apesar de indicar os arts. 421 e 421-A do Código Civil, 4º da Lei de Introdução às Normas do Direito Brasileiro e 36, § 3º, "d", X, da Lei n. 12.529/2011 como malferidos, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+Ainda que superado o óbice, registra-se que o Tribunal de origem dirimiu a controvérsia acerca da rescisão contratual com base no exame do acervo fático-probatório existente nos autos, como se observa dos seguintes trechos do acórdão recorrido:
+"A r. sentença proferida bem dirimiu a controvérsia, devendo ser mantida. São dignos de transcrição os seguintes pontos:
+"(..)
+Tal condição não caracteriza tratamento discriminatório, pois o contrato em discussão foi assinado depois da vigência da portaria de liberação dos preços. Desta feita, os réus tinham plena ciência que a fixação dos preços se daria sem a intervenção governamental e de forma exclusiva pela parte autora, como prevê o contrato, ausente qualquer prova de tratamento por parte da distribuidora visando causar prejuízo aos réus.
+Não bastasse, os réus não comprovaram qualquer das suas alegações de prática de preços excessivos ou tratamento discriminatório em comparação com os demais postos de combustível da cidade, mantidos pela autora.
+De mais a mais, a autora pode vender combustível a preços distintos a seus revendedores, pois o frete, por exemplo, pode ser mais custoso para postos mais distantes. Os preços praticados pelos postos, consequentemente, podem ser distintos, e isso faz parte do mercado do qual a parte ré decidiu participar, assumindo os riscos.
+Portanto, tal infração contratual (cláusulas 5.1 e 9.1 fls. 102 e 105) já seria suficiente para decretação da rescisão contratual por culpa do primeiro réu, sendo desnecessária comprovação de outras faltas.
+No entanto, há indícios de que o posto passou a adquirir combustível também de outras distribuidoras, pois o Teste de Qualidade realizado nos meses de fevereiro e março de 2022, constatou que o combustível coletado continha apenas 47% do DNA SHELL, o que indica que mais de 50% do combustível revendido pelo Posto Réu tinha origem desconhecida, assim como também foi constatada defasagem no volume do combustível revendido (fls. 202 e 203).
+Portanto, ao revender combustível de origem desconhecida, o réu teria infringido a cláusula 2.2 do contrato (fls. 100) e o artigo 25 da Resolução 41/2013 da referida agência reguladora, pois ludibriou os consumidores, induzindo-os a pensar que o posto era vinculado exclusivamente à marca Shell.
+Diante desse quadro, há provas suficientes acerca das infrações contratuais praticadas pelo réu e que justificam a rescisão contratual.."
+Com efeito, não há que se dizer que a distribuidora violou o contrato, agiu de modo abusivo ou tornou a obrigação do revendedor demandado excessivamente onerosa ao cobrar por seus produtos preços diferentes dos fixados para outros revendedores. Afinal, como é de conhecimento geral, o valor cobrado do revendedor varia conforme a região e a quantidade adquirida, além de diversos outros fatores de ordem comercial e mercadológica.
+Não se cuida, destarte, de política discriminatória, até porque seria até ilógico supor que a distribuidora assim procede porque busca o fracasso de seus revendedores, já que depende deles para escoar seus produtos" (e-STJ fls. 722-724 - grifou-se).
+Nesse contexto, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor do débito, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
