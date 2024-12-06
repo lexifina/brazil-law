@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. DEDICAÇÃO DO ACUSADO A AITIVIDADES CRIMINOSAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que negou seguimento a recurso especial, mantendo a condenação por tráfico de drogas. A parte recorrente alegou violação ao art. 33, § 4º, da Lei n. 11.343/2006, e divergência jurisprudencial.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a parte recorrente faz jus à aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, considerando a alegação de que não se dedica a atividades criminosas.
+III. RAZÕES DE DECIDIR.
+3. As instâncias ordinárias justificaram a não incidência da causa especial de diminuição da pena com base na dedicação da parte recorrente a atividades criminosas, evidenciada por provas colhidas.
+4. A análise do conjunto fático-probatório demonstrou que a parte recorrente se dedicava à atividade criminosa, afastando a aplicação do tráfico privilegiado.
+5. A revisão das conclusões das instâncias ordinárias demandaria reexame de provas, vedado pela Súmula 7/STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+O parecer do MPF é pelo não conhecimento do agravo em recurso especial (fls. 463-464).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. DEDICAÇÃO DO ACUSADO A AITIVIDADES CRIMINOSAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que negou seguimento a recurso especial, mantendo a condenação por tráfico de drogas. A parte recorrente alegou violação ao art. 33, § 4º, da Lei n. 11.343/2006, e divergência jurisprudencial.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a parte recorrente faz jus à aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, considerando a alegação de que não se dedica a atividades criminosas.
+III. RAZÕES DE DECIDIR.
+3. As instâncias ordinárias justificaram a não incidência da causa especial de diminuição da pena com base na dedicação da parte recorrente a atividades criminosas, evidenciada por provas colhidas.
+4. A análise do conjunto fático-probatório demonstrou que a parte recorrente se dedicava à atividade criminosa, afastando a aplicação do tráfico privilegiado.
+5. A revisão das conclusões das instâncias ordinárias demandaria reexame de provas, vedado pela Súmula 7/STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violado o art. 33, § 4º, da Lei n. 11.343/2006, além de afirmar a existência de divergência entre o entendimento adotado pelo acórdão recorrido e a jurisprudência desta corte, apontando como paradigma o acórdão prolatado no AgRg no HC n. 762.383/SP, julgado pela Quinta Turma deste Tribunal.
+De início, cumpre ressaltar a impossibilidade de conhecimento do apelo raro quanto à alínea c do permissivo constitucional, porquanto não atendidos os requisitos legais e regimentais para a comprovação do dissenso pretoriano, haja vista o entendimento de que não se presta à configuração do dissenso acórdão prolatado em sede de habeas corpus, que possui cognição mais ampla que a deferida ao recurso especial.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO PARADIGMA PROFERIDO EM HABEAS CORPUS. IMPOSSIBILIDADE. INDEFERIMENTO LIMINAR. AGRAVO REGIMENTAL DESPROVIDO.
+1. Permanece hígida a jurisprudência desta Corte no sentido de ser "inviável a demonstração de dissídio jurisprudencial tendo como paradigma acórdão proferido em ações constitucionais, como é o caso do habeas corpus. Tal vedação decorre da maior amplitude cognitiva dos remédios constitucionais em relação ao recurso especial, cujo espectro está circunscrito, precipuamente, à aplicação e à interpretação da lei federal" (AgRg nos EAREsp n. 2.286.980/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Terceira Seção, julgado em 20/8/2024, DJe de 23/8/2024).
+2. Agravo regimental desprovido.
+(AgRg nos EAREsp n. 2.318.291/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 1/10/2024, DJe de 3/10/2024).
+No mais, verifico que a análise das razões motivadas na origem indica que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula nº 83/STJ, conforme se verifica da fundamentação adotada (fl. 305):
+No ponto, descabe na hipótese a figura do tráfico privilegiado (artigo 33, § 4º, da Lei nº 11.343/06), diante de toda a prova colhida, que demonstram que o réu se dedicava a atividades criminosas relacionadas com o tráfico de entorpecentes. Inclusive em seu interrogatório judicial admitiu que já foi apreendido quando menor de idade e ficou na Fundação Casa por tráfico de drogas, e os policiais confirmaram que o réu é conhecido dos meios policiais como traficante de drogas.
+Deveras, a minorante hospedada no §4º do artigo 33 da Lei nº 11.343/06 foi criada pelo legislador como implementação de política criminal com finalidade específica, de maneira que a sua incidência pressupõe que o agente preencha todos os quatro requisitos legiferados, ou seja, que cumulativamente (1) haja primariedade, que (2) exista bons antecedentes, que (3) inexista dedicação a atividades criminosas nem (4) integração a organização criminosa, afigurando-se claro, portanto, que, ausente qualquer dessas condições, inacolhível resulta tal privilegium legal.
+E da sentença (fls. 208-209):
+Ainda, o caso concreto não comporta a aplicação da causa de diminuição de pena do Art. 33, §4º, da Lei n.º 11.343/06, diante da quantidade e diversidade da droga apreendida (maconha e crack - fls. 09-10 e 22-24), bem como diante das claras informações prestadas pelos policiais em juízo, denotando que o réu já seria conhecido nos meios policiais pela prática do tráfico de drogas na cidade, o que demonstra que o fato ora tratado nestes autos não se refere a evento isolado, além de ter havido fuga e perseguição em via pública, cujo contexto denota ser incompatível com a referida causa de diminuição de pena (redutor de pena).
+Assim, a condenação do réu, nos termos da denúncia, é medida de rigor. Desse modo, passo a dosar as penas aplicáveis ao réu.
+No mesmo sentido, cite-se o seguinte precedente da Quinta Turma, cujo entendimento se assemelha ao adotado pelo acórdão recorrido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO INTERNACIONAL DE DROGAS. TRÁFICO PRIVILEGIADO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação por tráfico internacional de drogas. A condenada foi presa em flagrante transportando mais de três quilos de cocaína em rota internacional, com droga escondida em peças automotivas. A defesa alegou ausência de fundamentação idônea para negar a aplicação da causa de diminuição de pena do tráfico privilegiado.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se a condenada faz jus à aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, considerando a alegação de que não se dedica a atividades criminosas.
+III. Razões de decidir
+3. As instâncias ordinárias justificaram a não incidência da causa especial de diminuição da pena com base na apreensão de três quilogramas de massa líquida de cocaína em notória rota de tráfico internacional de entorpecentes, estando a droga escondida em peças automotivas a fim de ludibriar a fiscalização e o fato de constar diversas viagens internacionais em nome da agravante, em locais comumente relacionados com a traficância, indicando dedicação ao tráfico.
+4. A análise do conjunto fático-probatório demonstrou que a recorrente se dedicava à atividade criminosa, afastando a aplicação do tráfico privilegiado.
+5. A revisão das conclusões das instâncias ordinárias demandaria reexame de provas, vedado pela Súmula 7/STJ.
+IV. Dispositivo e tese
+6. Recurso desprovido.
+ ..
+(AgRg no AREsp n. 2.702.546/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2024, DJe de 8/10/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TRANSPORTE INTERMUNICIPAL, COM ENVOLVIMENTO DE MENORES, DE 20KG DE MACONHA. TRÁFICO PRIVILEGIADO. INAPLICABILIDADE. TESE DE QUE O AGRAVANTE NÃO SE DEDICA ÀS ATIVIDADES CRIMINOSAS. NECESSÁRIO O REEXAME APROFUNDADO DAS PROVAS. INVIÁVEL EM SEDE DE HABEAS CORPUS. BIS IN IDEM. INOCORRÊNCIA. ART. 33, § 2º e § 3º, DO CÓDIGO PENAL - CP. REGIME FECHADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. REGIME MAIS GRAVOSO DEVIDAMENTE JUSTICADO. AGRAVO DESPROVIDO.
+1. O § 4º do art. 33 da Lei de Drogas disciplina a incidência de causa especial de redução da pena, hipótese denominada pela doutrina como "tráfico privilegiado". Para que o réu possa ter o benefício da diminuição, deverá cumprir, cumulativamente, 4 requisitos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não se dedicar a atividades criminosas; (d) não integrar organização criminosa. Os dois pressupostos iniciais são de avaliação estritamente objetiva, basta verificar a certidão de antecedentes criminais do agente para chegar à conclusão se ele preenche ou não esses requisitos. Quanto às duas últimas condições, a análise envolve apreciação subjetiva do Magistrado processante, a partir dos elementos de convicção existentes nos autos, para aferir se o apenado se dedica às atividades criminosas ou integra organização criminosa.
+2. Na hipótese dos autos, as instâncias ordinárias, além da quantidade de drogas apreendidas (20kg maconha), referiram-se ao modo de atuação dos réus, que utilizavam-se de veículo para a traficância, mediante o transporte de drogas intermunicipal, com apoio de adolescente, que as armazenava e as distribuía; demonstrativo de sua dedicação à atividade delitiva. Dessa forma, verifico que não há ilegalidade na vedação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, haja vista que as instâncias ordinárias fundamentaram concretamente a negativa da benesse, vedada em razão da dedicação do agravante à atividade criminosa. Ademais, para se acolher a tese de que o agravante não se dedica às atividades criminosas, seria necessário o reexame aprofundado das provas, inviável em sede de habeas corpus.
+3. O entendimento desta Quinta Turma do STJ é no sentido de que a utilização concomitante da quantidade de droga apreendida para elevar a pena-base (1ª fase) e para afastar a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas (3ª fase) - por demonstrar que o acusado se dedica a atividades criminosas ou integra organização criminosa - não configura bis in idem. Diversa é a hipótese tratada no ARE n. 666.334 (Repercussão Geral), no qual o Pretório Excelso passou a considerar bis in idem a utilização da quantidade de droga "tanto na primeira fase de fixação da pena, como circunstância judicial desfavorável, quanto na terceira, para modular a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006" (ARE 666.334/RG, Rel.: Ministro GILMAR MENDES, DJ de 6/5/2014). Na primeira fase da dosimetria, a Corte estadual fundamentou a exasperação da pena-base acima dos patamares mínimos, tendo-se em vista a grande quantidade e natureza de entorpecentes transportada pelo agravante e o corréu Uesley, enquanto na vedação da minorante as instâncias ordinárias destacaram não só a quantidade e natureza do entorpecente apreendida, mas também outros elementos indicativos da habitualidade delitiva. Portanto, não há que se falar em bis in idem na dosimetria da pena, pois foram diversos os elementos fáticos concretos que embasaram a decisão de afastamento da figura do tráfico privilegiado, desbordando daqueles utilizados para agravar a pena-base do agravante.
+4. Não há ilegalidade na fixação do regime fechado pelas instâncias ordinárias, pois, apesar do quantum de pena aplicado, superior a 4 e inferior a 8 anos, permitir, em tese, a fixação do regime semiaberto, os fundamentos apresentados revelam que a pena-base foi fixada acima do mínimo legal tendo em vista a gravidade concreta do delito, evidenciada pela quantidade de drogas apreendidas (20kg de maconha), justificando a imposição de regime prisional mais gravoso, no caso o fechado, de acordo com o disposto no § 3º do art. 33 do Código Penal e art. 42 da Lei n. 11.343/06, bem como em consonância com esta Quinta Turma.
+5 . Agravo regimental desprovido.
+(AgRg no HC n. 901.809/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/9/2024, DJe de 3/10/2024., grifei)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
