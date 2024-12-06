@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão do Tribunal Regional Federal da 1ª Região que inadmitiu recurso especial dirigido ao acórdão prolatado na Apelação n. 0000216-31.2016.4.01.3202 (fls. 696-714) e assim ementado (fls. 703-704):
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. PRELIMINARES. GRATUIDADE DE JUSTIÇA. ALEGAÇÃO DEDUZIDA POR PESSOA NATURAL. PRESUNÇÃO (ART. 99, § 3º, DO CPC/15). CONCESSÃO DO BENEFÍCIO. MÉRITO. ATOS DE IMPROBIDADE. CONDUTAS ÍMPROBAS. ATOS QUE ATENTAM CONTRA OS PRINCÍPIOS (ART. 11 DA LIA). ALTERAÇÃO PROMOVIDA PELA LEI N. 14.230/21. TIPICIDADE FECHADA DO ART. 11, CAPUT, DA LIA. ATOS QUE CAUSAM PREJUÍZO AO ERÁRIO (ART. 10 DA LIA). ELEMENTO SUBJETIVO. PROVA DA VONTADE LIVRE E CONSCIENTE DE ALCANÇAR O RESULTADO ILÍCITO (ART. 1º, § 2º, DA LIA). MODIFICAÇÃO PELA LEI N. 14.230/2021. LEI BENÉFICA. RETROATIVIDADE E APLICABILIDADE (ART. 5º, XL, DA CF). NECESSIDADE DE PROVA DE DOLO EM TODOS OS TIPOS ÍMPROBOS. NÃO COMPROVAÇÃO DO DOLO DURANTE A INSTRUÇÃO PROCESSUAL. IMPUTAÇÃO AFASTADA (TIPOS DO ART. 10 DA LIA). APELAÇÃO PROVIDA. SENTENÇA REFORMADA. PEDIDOS JULGADOS IMPROCEDENTES.
+1. A alegação de insuficiência deduzida, de forma exclusiva, por pessoa natural, deve ser presumida verdadeira, conforme o art. 99, § 3º, do CPC/15. Tendo acostado declaração de hipossuficiência e inexistindo elementos para elidir a presunção relativa, a concessão da gratuidade é medida que se impõe.
+2. Tendo a imputação se limitado ao art. 11, caput, da Lei n. 8.429/92, deve sê-la afastada, por obediência à tipicidade fechada relativa aos atos ímprobos que atentam contra os princípios sob a égide da Lei n. 14.230/21.
+3. As condutas que configuram improbidade administrativa estão descritas nos artigos 9º, 10 e 11 da Lei n. 8.429/92 e se apresentam divididas em três categorias, respectivamente: (i) as que importam enriquecimento ilícito; (ii) as que causam prejuízos ao erário; (iii) e as que atentam contra os princípios da administração pública.
+4. Em todos os casos, o elemento subjetivo do agente - dolo - deve estar sempre presente para a configuração da conduta ímproba, a teor do art. 1º, § 1º, da Lei n. 8.429/92, com a redação dada pela Lei n. 14.230/21.
+5. A má-fé, caracterizada pelo dolo, é que deve ser apenada, não se devendo enquadrar inadequações formais com ato de improbidade, que pressupõe má-fé e objetivos malsãos em relação à coisa pública.
+6. À míngua de prova de dolo, não há ajuste às tipologias da Lei n. 8.429/92, devido à alteração promovida pela Lei n. 14.230/21, que extirpou as condutas culposas da abrangência da Lei n. 8.429/92.
+7. Não há, portanto, possibilidade de imputação ímproba, sem dolo, à parte requerida.
+8. Não tendo a instrução processual delimitado, com precisão, o modo de agir do agente, com vontade e consciência para a prática do ilícito, inexiste imputação dolosa.
+9. Apelação provida. Sentença reformada. Pedidos julgados improcedentes.
+Os embargos declaratórios ministeriais foram rejeitados (fls. 740-750).
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a parte recorrente alega divergência pretoriana e ofensa aos arts. 6º, 10 e 1.022 do CPC, diante da inobservância do devido processo legal pela prolação de decisão sem que fosse conferida a oportunidade do Parquet se manifestar acerca da superveniência da Lei n. 14.230/2021, ensejando ofensa à vedação à decisão surpresa.
+Aponta como paradigma o julgado do TRF da 3ª Região, o Agravo de Instrumento n. 5006994-02.2021.4.03.0000.
+Não admitido o recurso na origem (fls. 789-791), foi interposto o presente agravo em recurso especial (794-801). Contrarrazões às fls. 804-808.
+É o relatório. Decido.
+O agravo não comporta conhecimento.
+Na origem, foi julgada procedente ação de improbidade administrativa ajuizada pelo Ministério Público Federal em desfavor de Antonio Gomes Ferreira, condenado pela prática das condutas dos arts. 10, caput, XI, e 11, caput, da LIA, às sanções dos arts. 12, II e III, da LIA (fls. 164-169).
+A Corte Regional deu provimento à apelação do ora agravada para, "reformando a sentença, julgar improcedentes, in totum, os pedidos da ação de improbidade administrativa (art. 10, caput e XI, e art. 11, caput, da Lei n. 8.429/92), extinguindo-se, por consequência, o feito com resolução do mérito, a teor do art. 487, I, do CPC/15. Restando-se desconstituída, portanto, a ordem de indisponibilidade. Sem honorários ou custas (art. 23-B, §§ 1º e 2º, da Lei 8.429/92)" (fl. 712).
+Os embargos declaratórios ministeriais foram rejeitados (fls. 740-750).
+Seguiu-se recurso especial (fls. 755-768), inadmitido pelo Tribunal de origem em razão (a) da inadmissão do recurso especial pela ausência de indicação de vício do art. 1.022 do CPC ou em decorrência da decisão fundamentada, embora contrária ao interesse da parte; (b) ausência de obrigação do julgador de se manifestar sobre todos os pontos levantados pela parte; (c) ausência de violação ao princípio da não surpresa nas hipóteses de aplicação de entendimento jurídico coerente com a resolução da lide, ainda que as partes não a tenham invocado e independentemente da oitiva.
+Nas razões do agravo em recurso especial, a parte agravante não impugnou de maneira específica referidos óbices, porquanto restringiu-se a negar a necessidade de revolvimento fático-probatório.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários recursais na origem (fl. 169).
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. RETROATIVIDADE DA LEI N. 14.230/2021. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
