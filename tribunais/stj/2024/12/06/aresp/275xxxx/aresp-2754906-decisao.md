@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por Alan Jeison dos Santos contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) dirigido contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0733447-60.2023.8.07.0001, que negou provimento ao apelo defensivo (fl. 475):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. DOSIMETRIA. ANÁLISE NEGATIVA DA CULPABILIDADE, CONDUTA SOCIAL E CIRCUNSTÂNCIAS DO CRIME. AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA. ACRÉSCIMO NA PRIMEIRA FASE DA DOSIMETRIA. FRAÇÃO DE 1/8.
+1. Afasta-se a avaliação negativa da conduta social por falta elementos capazes de demonstrar o convívio do réu em seu contexto social.
+2. Considerando que as duas condenações anteriores foram utilizadas para fins de maus antecedentes e reincidência, a reiteração na prática delitiva não tem o condão, por si só, de desabonar a culpabilidade do crime praticado.
+3. A habitualidade no cometimento da traficância não constitui fundamentação idônea para exasperar a pena-base pelas circunstâncias do crime, tendo em vista que tal cenário guarda relação com o próprio tipo penal previsto no artigo 33 da Lei de Drogas.
+4. Quanto à fração de aumento na primeira fase, a jurisprudência prevalente tem acolhido a utilização da fração de 1/8 da diferença entre as penas mínima e máxima abstratamente cominadas para cada circunstância judicial negativa.
+5. Recurso parcialmente provido.
+Nas razões do recurso especial (fls. 50518), o recorrente requer que se reconheça a afronta ao artigo 59 do Código Penal, para, na primeira fase da dosimetria da pena, aplicar o vetor de 1/6, sobre a pena mínima abstratamente prevista para o delito, para a circunstância judicial analisada desfavoravelmente (fl. 518).
+Apresentadas contrarrazões (fls. 530/532), a Corte de origem inadmitiu o recurso com suporte no óbices da Súmula 83/STJ (fls. 538/539).
+Contra a decisão o recorrente interpõe o presente agravo (fls. 549/563), com contraminuta apresentada (fl. 569).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo, conforme parecer que recebeu a seguinte ementa (fl. 591):
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. 1/6 SOBRE A PENA MÍNIMA OU 1/8 SOBRE O INTERVALO ENTRE AS PENAS MÍNIMA E MÁXIMA EM ABSTRATO. DISCRICIONARIEDADE DO JULGADOR. SÚMULA 83/STJ. NÃO CONHECIMENTO.
+1."não há direito subjetivo do réu à aplicação do quantum de aumento de 1/6 sobre a pena mínima, na primeira fase da dosimetria da pena, para cada circunstância judicial valorada negativamente, ou de 1/8 a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador" (precedente do STJ). Incidência da Súmula n. 83 do STJ.
+2. Parecer pelo não conhecimento do agravo.
+É o relatório.
+O agravo deve ser conhecido, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+Quanto ao ponto, o Tribunal de origem, na primeira fase de dosimetria, afastou três circunstâncias judiciais (culpabilidade, conduta social e circunstâncias) consideradas pelo Juízo sentenciante, mantendo unicamente a vetorial negativa dos maus antecedentes, exasperando a pena-base nos seguintes termos (fl. 481):
+ ..
+Quanto à fração de aumento na primeira fase, o legislador não impôs a observância de qualquer critério matemático para o cálculo da dosimetria da pena na primeira fase. No entanto, a jurisprudência prevalecente, à qual me filio, tem acolhido a utilização da fração de 1/8 da diferença entre as penas mínima e máxima abstratamente cominadas para cada circunstância judicial negativa dentre as 8 estabelecidas no artigo 59 do Código Penal.
+Dessa forma, considerando a valoração negativa apenas dos antecedentes do acusado e a fração de exasperação de 1/8, fixo a pena-base em 6 (seis) anos e 3 (três) meses de reclusão e 625 (seiscentos e vinte e cinto) dias-multa.
+ ..
+Conforme entendimento consolidado nesta Corte, não existe critério matemático impositivo para fixação da pena na primeira fase, admitindo-se apenas um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante fundamentação idônea e concreta (discricionariedade vinculada).
+A corroborar: AgRg no AREsp n. 2.566.123/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/8/2024; e AgRg no AREsp n. 1.925.801/MS, Ministro Messod Azulay, Quinta Turma, Dje 28/3/2023.
+Nesse contexto, a fixação da pena-base não necessita seguir um critério matemático rígido, pois não há direito subjetivo do réu a que se adote fração específica para cada circunstância judicial, seja de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Exige-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias (AgRg no AREsp n. 2.383.603/PR, MINISTRO RIBEIRO DANTAS, Quinta Turma, j. em 17/10/2023, DJe 23/12/2023).
+Na espécie, a pena-base foi exasperada em 1 ano e 3 meses de reclusão, e 125 dias-multa, em patamar superior a 1/6 da pena mínima, sem a demonstração de elementos concretos que justifiquem a necessidade de um maior rigor na análise da circunstância negativa dos maus antecedentes, em relação à qual consta um único apontamento (fl. 480).
+Desse modo, como o entendimento do Tribunal de origem não se coaduna com a jurisprudência desta Corte acerca do tema, pois não justificada a exasperação mais gravosa ao réu, necessário o redimensionamento das penas aplicadas.
+Na primeira fase, considerando a existência de apenas uma circunstância negativa, exaspero a pena em 1/6, fixando a pena-base em 5 anos e 10 meses de reclusão, e 583 dias-multa; na segunda fase, m antenho a compensação da reincidência com a confissão espontânea; na terceira, não há causas de diminuição ou de aumento a serem consideradas, tornando-se definitiva a pena de 5 anos e 10 meses de reclusão, e 583 dias-multa, sem outras modificações.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, redimensionando as penas para 5 anos e 10 meses de reclusão, e 583 dias-multa, nos termos da fundamentação.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FIXAÇÃO DA PENA-BASE. VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS. DESPROPORCIONALIDADE EVIDENCIADA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. EMBORA A DOSIMETRIA NÃO SIGA UM CRITÉRIO MATEMÁTICO, DEVE OBSERVAR UMA FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE. REDIMENSIONAMENTO DAS PENAS.
+Agravo conhecido para dar provimento ao recurso especial.
