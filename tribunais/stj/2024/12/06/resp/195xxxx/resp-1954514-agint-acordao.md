@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. CONTRATO DE TRANSPORTE DE CARGA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO APLICAÇÃO. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA NÃO CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A jurisprudência desta Corte é no sentido de que o Código de Defesa do Consumidor não se aplica quando o produto ou serviço é contratado para implementação de atividade econômica, pois não restaria caracterizado o destinatário final da relação de consumo. No entanto, é autorizada excepcionalmente a aplicação do código consumerista quando ficar demonstrada a hipossuficiência técnica, jurídica ou econômica da pessoa jurídica.
+3. Para  rever  a  conclusão  firmada  pelas  instâncias  ordinárias  de  que  não resta  caracterizada  a  hipossuficiência  da  pessoa  jurídica  a  atrair  a  aplicação  do  CDC,  seria  necessário  o  revolvimento  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  ante  a  incidência  da  Súmula  nº  7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por M C ANICETO contra a decisão (e-STJ fls. 516-520) que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento.
+Nas razões do agravo (e-STJ fls. 524-534), o agravante volta a defender a ocorrência de negativa de prestação jurisdicional porque a Corte de origem não teria se manifestado, mesmo quando provocada pela oposição de declaratórios, a respeito de questões que entende imprescindíveis ao deslinde da controvérsia.
+Assevera, em sequência, que o serviço contratado não serviria para implementação da atividade realizada pela empresa, que se enquadra na figura de consumidora, de modo que seria inaplicável à espécie o enunciado de Súmula nº 568/STJ.
+Aduz, ainda, ser inaplicável à hipótese a Súmula nº 7/STJ, pois a solução da controvérsia não demandaria a reanálise de fatos e provas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. CONTRATO DE TRANSPORTE DE CARGA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO APLICAÇÃO. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA NÃO CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A jurisprudência desta Corte é no sentido de que o Código de Defesa do Consumidor não se aplica quando o produto ou serviço é contratado para implementação de atividade econômica, pois não restaria caracterizado o destinatário final da relação de consumo. No entanto, é autorizada excepcionalmente a aplicação do código consumerista quando ficar demonstrada a hipossuficiência técnica, jurídica ou econômica da pessoa jurídica.
+3. Para  rever  a  conclusão  firmada  pelas  instâncias  ordinárias  de  que  não resta  caracterizada  a  hipossuficiência  da  pessoa  jurídica  a  atrair  a  aplicação  do  CDC,  seria  necessário  o  revolvimento  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  ante  a  incidência  da  Súmula  nº  7/STJ.
+4. Agravo interno não provido.
+VOTO
+Não merece prosperar a irresignação.
+Os argumentos expendidos nas razões do agravo são insuficientes para autorizar a reforma da decisão agravada.
+Da análise detida dos autos, nota-se que não procede a alegação de negativa de prestação jurisdicional, visto que o Tribunal de origem agiu corretamente ao rejeitar os embargos declaratórios dada a ausência de omissão, contradição, obscuridade ou erro material no acórdão impugnado.
+Com efeito, da simples leitura do acórdão recorrido de fls. 420-428 (e-STJ), nota-se que toda a matéria controvertida foi analisada com abrangência e profundidade.
+Na verdade, era patente a intenção da parte insatisfeita com o resultado do julgamento de buscar a sua reforma pela via inadequada.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO VERIFICADA. CONCLUSÃO DO ACÓRDÃO PELA NÃO CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. O Tribunal de origem não reconheceu a configuração dos danos morais decorrentes da matéria jornalística, ante a não verificação de ocorrência de violação do direito de personalidade. Nesse contexto, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo interno improvido".
+(AgInt no AREsp 1.439.955/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/06/2019, DJe 13/06/2019).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. LIMITES DO RISCO CONTRATADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.374.504/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019).
+Quanto à alegada incidência das regras protetivas dos direitos do consumidor no caso concreto (arts. 2º, 3º, 6º e 14 do Código de Defesa do Consumidor), o acórdão recorrido está em harmonia com a orientação desta Corte, no sentido de que o  Código  de  Defesa  do  Consumidor  não  se  aplica  quando  o  produto  ou  serviço  é  contratado  para  implementação  de  atividade  econômica,  pois  não  restaria  caracterizado  o  destinatário  final  da  relação  de  consumo.
+No  entanto,  é  autorizada  excepcionalmente  a  aplicação  do  código  consumerista  quando  ficar  demonstrada  a  hipossuficiência  técnica,  jurídica  ou  econômica  da  pessoa  jurídica.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  CÉDULA  DE  CRÉDITO  BANCÁRIO.  NÃO  INCIDÊNCIA  DO  CDC.  TEORIA  FINALISTA  MITIGADA.  HIPOSSUFICIÊNCIA  NÃO  EVIDENCIADA.  EXCESSO  DE  EXECUÇÃO.  ÔNUS  DA  PROVA  DO  EMBARGANTE.  AUSÊNCIA  DE  INDICAÇÃO  DE  VALOR  DISCRIMINADO  E  ATUALIZADO  DO  DÉBITO.  SÚMULA  83/STJ.  NULIDADE  DE  CLÁUSULAS  CONTRATUAIS,  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULAS  282  E  356  DO  STF.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Nos  termos  da  jurisprudência  do  Superior  Tribunal  de  Justiça,  o  Código  de  Defesa  do  Consumidor  não  se  aplica  no  caso  em  que  o  produto  ou  serviço  é  contratado  para  implementação  de  atividade  econômica,  já  que  não  estaria  configurado  o  destinatário  final  da  relação  de  consumo  (teoria  finalista  ou  subjetiva).  Contudo,  tem  admitido  o  abrandamento  da  regra  quando  ficar  demonstrada  a  condição  de  hipossuficiência  técnica,  jurídica  ou  econômica  da  pessoa  jurídica,  autorizando,  excepcionalmente,  a  aplicação  das  normas  do  CDC  (teoria  finalista  mitigada).  Precedentes.
+2.  O  entendimento  adotado  no  acórdão  recorrido  coincide  com  a  jurisprudência  assente  desta  Corte  Superior,  circunstância  que  atrai  a  incidência  da  Súmula  83/STJ.
+3.  Agravo  interno  a  que  se  nega  provimento".
+(AgInt  no  AREsp  2.189.393/AL,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  6/3/2023,  DJe  de  21/3/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO. INVERSÃO DO ÔNUS DA PROVA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A jurisprudência desta Corte é no sentido de que o Código de Defesa do Consumidor não se aplica quando o produto ou serviço é contratado para implementação de atividade econômica, pois não restaria caracterizado o destinatário final da relação de consumo. No entanto, é autorizada excepcionalmente a aplicação do código consumerista quando ficar demonstrada a hipossuficiência técnica, jurídica ou econômica da pessoa jurídica.
+2. Para rever a conclusão firmada pelas instâncias ordinárias, de que resta caracterizada a hipossuficiência da pessoa jurídica a atrair a aplicação do CDC e a inversão do ônus da prova, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial ante a incidência da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.427.658/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024).
+Além disso, para  rever  a  conclusão  firmada  pelas  instâncias  ordinárias  de  que  não resta  caracterizada  a  hipossuficiência  da  pessoa  jurídica  a  atrair  a  aplicação  do  CDC,  seria  necessário  o  revolvimento  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  ante  a  incidência  da  Súmula  nº  7/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DIREITO  CIVIL.  CONTRATO  DE  COMPRA  E  VENDA  DE  IMÓVEL.  INCIDÊNCIA  DO  CÓDIGO  DE  DEFESA  DO  CONSUMIDOR.  TEORIA  FINALISTA  MITIGADA.  VULNERABILIDADE  TÉCNICA.  CARACTERIZAÇÃO.  ÔNUS  DA  PROVA.  INVERSÃO.  CRITÉRIO  DO  JUIZ.  REVISÃO.  IMPOSSIBLIDADE.  SÚMULA  N.  7/STJ.
+1.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  flui  no  sentido  de  que  a  teoria  finalista  deve  ser  mitigada  nos  casos  em  que  a  pessoa  física  ou  jurídica,  ainda  que  não  seja  destinatária  final  do  produto,  apresente-se  em  estado  de  vulnerabilidade  ou  hipossuficiência  técnica  em  relação  ao  fornecedor.
+2.  Na  hipótese  dos  autos,  entretanto,  rever  as  conclusões  firmadas  pelas  instâncias  ordinárias,  a  ensejar  a  aplicação  da  teoria  finalista  mitigada,  demandaria  a  análise  de  circunstâncias  fático-probatórias  dos  autos,  procedimento  inviável  em  recurso  especial  pelo  óbice  do  Enunciado  n.  7/STJ.
+3.  Não  apresentação  de  argumentos  novos  capazes  de  infirmar  os  fundamentos  que  alicerçaram  a  decisão  agravada.  Agravo  interno  improvido" .
+(AgInt  no  REsp  1.855.714/RJ,  Rel.  Ministro  HUMBERTO  MARTINS,  Terceira  Turma,  julgado  em  26/6/2023,  DJe  de  28/6/2023).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CONCEITO  DE  CONSUMIDOR.  APLICAÇÃO  DO  CDC.  TEORIA  FINALISTA.  VULNERABILIDADE.  JURISPRUDÊNCIA  DESTA  CORTE  SUPERIOR.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  INCIDÊNCIA  DA  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.
+1.  A  Segunda  Seção  do  STJ  consolidou  a  aplicação  da  teoria  finalista  para  a  interpretação  do  conceito  de  consumidor.  No  entanto,  em  situações  excepcionais,  esta  Corte  tem  mitigado  os  rigores  dessa  teoria  para  autorizar  a  incidência  do  CDC  nas  hipóteses  em  que  a  parte  (pessoa  física  ou  jurídica),  embora  não  seja  propriamente  a  destinatária  final  do  produto  ou  do  serviço,  se  apresenta  em  situação  de  vulnerabilidade  ou  hipossuficiência.
+2.  O  recurso  especial  não  comporta  o  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos,  a  teor  do  que  dispõe  a  Súmula  n.  7  do  STJ.
+3.  No  caso  concreto,  o  Tribunal  de  origem  reconheceu  a  vulnerabilidade  da  parte  agravada.  Alterar  esse  entendimento  demandaria  reexame  da  prova  dos  autos,  vedado  em  recurso  especial.
+4.  Agravo  interno  a  que  se  nega  provimento".
+(AgInt  no  AgInt  no  REsp  1.360.106/MT,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  28/11/2022,  DJe  de  5/12/2022).
+No mesmo óbice processual (Súmula nº 7/STJ) reside a pretensão de incidência da teoria da perda de uma chance no caso dos autos.
+Ocorre que não cabe a este Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal de origem a concluir que "a probabilidade da contratação real e séria, após o credenciamento, não ficou suficientemente demonstrada pela apelante, razão pela qual não há falar em a indenização com suporte na teoria da perda de uma chance" (e-STJ fls. 427-428), sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Assim, não prosperam as alegações postas no agravo, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
