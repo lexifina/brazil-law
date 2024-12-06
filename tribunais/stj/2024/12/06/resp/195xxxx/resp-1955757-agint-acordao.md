@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. EXCESSO DE EXECUÇÃO. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A revisão das conclusões da Corte de origem quanto ao acerto dos cálculos contábeis apresentados na liquidação de sentença demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL contra a decisão desta relatoria de e-STJ fls. 237/242 contra decisão que deu parcial provimento ao recurso especial, apenas para afastar a multa processual aplicada nos embargos de declaração.
+Em suas razões, a agravante defende o desacerto da decisão agravada, ante a inaplicabilidade dos óbices sumulares nº 5 e 7/STJ.
+Sustenta não pretender nova incursão nos elementos fático-probatórios dos autos, bem como ser irrelevante, para o deslinde do feito, a análise das cláusulas contratuais.
+Destaca ser imprescindível o acolhimento das impugnações formuladas no tocante à inobservância das disposições regulamentares, com a consequente elaboração de novos cálculos.
+Aduz afronta à coisa julgada e aos arts. 884 e 885 do Código Civil, tendo em vista ausente, na homologação dos cálculos, o decote relativo ao montante recebido à título de incentivo de migração.
+Sem impugnação (e-STJ fls. 263/264).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. EXCESSO DE EXECUÇÃO. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A revisão das conclusões da Corte de origem quanto ao acerto dos cálculos contábeis apresentados na liquidação de sentença demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Alega a agravante que "não foram observadas nos cálculos homologados, ora com a chancela do Tribunal Estadual, as disposições regulamentares as quais regem a relação entre as partes e que não foram afastadas pela decisão transitada em julgado, o que acabou majorando, indevidamente, os valores apurados em sede de liquidação, em flagrante ofensa a coisa julgada" (e-STJ fl. 254).
+Anota, ainda, que "os cálculos homologados pelo juízo de origem - os quais foram mantidos pelo acórdão ora recorrido - que em momento algum restou observado pelo Expert do Juízo os valores recebidos a título de incentivo de migração, pela parte exequente, ora recorrida, quando da transação efetivada para fins de migração do Plano de Benefício PBS para o Plano de Benefícios TCS-PREV" (e-STJ fl. 255).
+Todavia, como bem pontuado na decisão agravada, o Tribunal estadual, ao analisar as circunstâncias fático-probatórias e as cláusulas contratuais, assentou a inexistência de excesso de execução, afastando, por conseguinte, os alegados erros metodológicos destacados pela ora agravante.
+Registrou, ademais, não estar satisfatoriamente demonstrada a natureza do incentivo de migração, a possibilitar a eventual compensação pleiteada.
+Reproduzo, por oportuno, trecho do voto condutor do julgado recorrido:
+Cuida-se de inconformismo contra o pronunciamento judicial, no qual, em síntese, homologou-se o cálculo do quantum debeatur formulado pelo expert.
+Colhe-se dos autos que, ajuizada a presente "ação ordinária de cobrança" por José Claudio Gomes Vieira e Nery Pazetto em face da Fundação Sistel de Seguridade Social, julgou-a o MM. Dr. Juiz procedente, condenando a Ré "a complementar em favor d os Autores  a restituição dos valores das contribuições que eles fizeram ao Plano de Previdência Complementar, resgates feitos e documentados às fls. 24/25 e 36/37, de modo a incluir (pagar) a diferença da recomposição efetiva da correção monetária que for apurada, em liquidação por arbitramento, mediante a aplicação, nos períodos adiantes, dos seguintes índices: junho de 1987: 26,06%; janeiro de 1989: 42,72%; março de 1990: 84,42%; abril de 1990: "44,80%; maio de 1990: 7,87%; fevereiro de 1991: 21,87%; e março de 1991: 11,79% (destaquei).
+E arrematou: "O método de apuração, na liquidação, será atualizar as contribuições, conforme índices acima, até a data em que cada autor efetuou o seu resgate, e, assim, encontrar a diferença entre o que foi recebido por eles e o que deveria ter sido pago nos termos desta decisão. A partir das referidas datas, sobre as diferenças encontradas e devidas incidirá correção monetária medida pelo INPC. Os juros de mora, consequência legal.., serão contados a partir da citação da ré em 09/01/2004 (fls. 73/74), à taxa de 1% ao mês (CC/2002, art. 406)" (mov. 1.21 dos autos de origem)."
+ ..
+Transitado em julgado tal decisum no dia 22 de fevereiro de 2010 (mov. 1.23 dos autos de origem), deram os Autores início a esta liquidação de sentença.
+Realizada, durante o trâmite processual, perícia contábil, concluiu a expert que "o valor a ser levantado pelos Autores  seria  de R$ 54.176,95.. em janeiro/2018", sendo R$ 29.633,26 para José Claudio Gomes Vieira e R$ 24.543,69 em favor de Nery Pazetto (mov. 106.1 dos autos de origem).
+Impugnado, pois, este cálculo pela parte ré, apresentou a perita esclarecimentos (mov. 142.1 dos autos de origem). Ainda assim irresignada, interpôs a Executada o presente agravo de instrumento.
+Feita tal contextualização fática, imperioso, agora, enfrentar individualmente cada uma das alegações da Recorrente.
+2.1 Em relação, então, à aventada utilização, no laudo pericial, de "metodologia, para evolução da reserva de poupança, divergente daquela originalmente aplicada" e contida no Regulamento do Plano, não se extrai nenhum equívoco.
+A propósito, restringiu-se a Agravante a meramente descrever duas fórmulas dizendo serem de incidência inafastável para o correto cálculo, deixando, no entanto, de apontar qual, de fato, teria sido a suposta metodologia erroneamente empregada pela expert ou algum possível resultado diferente daquele contido na perícia - não demonstrou (muito menos mencionou), vale ressaltar, que a perita nem sequer as teria aplicado.
+2.2 No que tange, ademais, à aludida, pela Recorrente, defasagem "em um mês até maio/1991" dos índices apontados no laudo - por exemplo, "o índice de Fevereiro/1991 está posicionado em janeiro/1991, o índice de abril/1991 está posicionado em março/1991 e assim sucessivamente" -, melhor sorte não a socorre.
+Isso porque, como bem registrou a expert, "os índices utilizados pela perícia são os mesmos utilizados pela parte Requerida", tanto que, consoante prosseguiu, "o valor do saldo reserva, de ambos os cálculos, são praticamente os mesmos" - a "diferença é mínima, ou seja, cerca de 0,01 centavo por mês, e isso  em razão do  resultado de casas decimais utilizadas".
+Significa dizer, portanto, que "a perícia utilizou o índice de forma correta, e não conforme a referida posição, mas sim a adoção deste" (mov. 142.1 dos autos de origem).
+Não bastasse, tampouco se depreende, igualmente nesse tópico, alguma indicação pela Agravante de concreta e significativa desigualdade entre os cálculos dela e da perita por causa do posicionamento supostamente errado dos índices contidos na tabela anexa ao laudo pericial.
+2.3 Acerca, de outro lado, da aduzida aplicação de índices diversos àqueles pela Executada apontados - à "exceção dos.. determinados pelo douto Juízo" -, infere-se, mais uma vez, a superficialidade da alegação, sem nenhuma exata e precisa concretude, nem alguma efetiva demonstração de eventual equívoco ou prejuízo a ela causado.
+Além do mais, verifica-se, conforme assinalado no item 2.2 desse voto, que, segundo a própria expert - repita-se -, "os índices utilizados pela perícia são os mesmos utilizados pela parte Requerida".
+2.4 Relativamente, por sua vez, ao pleito de inclusão - dos valores dados a título de incentivos migratórios - no cálculo pericial, da mesma forma inviável o seu acolhimento.
+Depreende-se, nesse particular, que José Claudio Gomes Vieira e Nery Pazetto migraram de plano, ambos, pela primeira vez na data de 30 de abril de 2000 (movs. 1.15 e 1.20 dos autos de origem), quando, para tanto, receberam, com efeito, acréscimo monetário para fins de estímulo.
+Nada obstante, conclui-se que o cômputo da reserva de poupança com os devidos expurgos inflacionários - inclusive na forme em que delineada na sentença definitiva ora executada - se deu desde o ingresso deles até justamente a referida primeira migração de plano (30/04/2000), não havendo que se cogitar, assim, de alguma relevância ou vinculação, aqui, de tais incentivos migratórios (não atingiriam, assim, o montante da reserva matemática ora calculada).
+Nesse ponto, cabe ressaltar o quanto assinalado pelo Juízo a quo no decisum executado: "O método de apuração, na liquidação, será atualizar as contribuições, conforme índices acima  junho de 1987: 26,06%; janeiro de 1989: 42,72%; março de 1990: 84,42%; abril de 1990: 44,80%; maio de 1990: 7,87%; fevereiro de 1991: 21,87%; e março de 1991: 11,79% , até a data em que cada autor efetuou o seu resgate, e, assim, encontrar a diferença entre o que foi recebido por eles e o que deveria ter sido pago nos termos desta decisão" (mov. 1.21 dos autos de origem).
+Salienta-se, outrossim, que, notadamente em razão de não constar nos autos o multicitado pela Agravante Regulamento do Plano aplicável na espécie, não se constata nenhuma interferência do quantum do "aporte do plano" - conferido quando da aludida migração - de maneira proporcional à reserva de poupança então calculada.
+Ou seja, não se mostra possível concluir, de novo com a segurança necessária, que o resultado final da reclamada Reserva de Transferência (supostamente constituída pela soma da "reserva de poupança" com o "aporte do plano") seria, sempre, R$ 38.311,66 para José Claudio Gomes Vieira e R$ 19.994,02 Nery Pazetto, havendo variação apenas do valor do aporte do plano (chamado pela Recorrente de incentivo migratório) a depender do montante calculado a título de reserva de poupança (e-STJ fls. 138/140).
+Delineado esse quadro, ao contr ário do que sustenta a agravante, não há como promover reparos no acórdão sem o reexame dos fatos e provas constantes nos autos e nova interpretação das cláusulas do regulamento do plano previdenciário, providência vedada nos termos das Súmulas nº 5 e 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE PERÍCIA CONTÁBIL. OMISSÃO. INCORREÇÃO DO LAUDO PERICIAL. REEXAME. SÚMULA 7/STJ. PERÍCIA ATUARIAL. PRECLUSÃO. INDEFERIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. Na espécie, o Tribunal de origem, depois de examinar as razões do agravo de instrumento fundadas na conclusão de assistentes técnicos da parte executada, concluiu que não foi demonstrada a ocorrência de erro de cálculo no laudo produzido pelo perito oficial, nos autos do cumprimento de sentença. A reforma desse entendimento demandaria o reexame das provas dos autos.
+2. Nos termos da jurisprudência do STJ, "as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional" (AgInt no AREsp 2.146.637/RJ, R elatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022).
+3. Agravo interno improvido.
+(AgInt no AREsp 1.378.392/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/4/2023, DJe de 3/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PRÉVIA E INTEGRAL. LIQUIDAÇÃO. APURAÇÃO POR MEIO DE CÁLCULO ATUARIAL. COMPENSAÇÃO. POSSIBILIDADE. PRESERVAÇÃO DO SALÁRIO DE PARTICIPAÇÃO. CÁLCULO ALTERAÇÃO. SÚMULAS 5 E 7/STJ. VIOLAÇÃO A DISPOSITIVOS LEGAIS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. A revisão dos fundamentos que ensejaram a conclusão alcançada pelo Colegiado local (quanto ao cálculo para aplicação do salário participação) implica a análise de cláusulas contratuais e o reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp 2.155.885/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
