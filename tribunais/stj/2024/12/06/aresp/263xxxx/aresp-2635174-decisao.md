@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ANTÔNIO DOS SANTOS MEDEIROS contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+"CONSUMIDOR. Apelação cível e recurso adesivo. Ação declaratória de inexistência de débito c/c repetição de indébito e indenização por danos morais. Procedência parcial. Irresignação das partes. Contrato de empréstimo consignado com desconto em folha de pagamento. Assinatura por meio biometria facial e chave eletrônica. Possibilidade. Maior segurança na transação. Desnecessidade de assinatura de próprio punho. Negócio jurídico válido. Impossibilidade de devolução dos valores debitados. Dano moral não configurado. Reforma da sentença. Provimento do apelo do promovido. Recurso adesivo prejudicado. - É válido o contrato firmado por meio de aplicativo de celular, com reconhecimento facial do consumidor, colheita de seus documentos e aposição sua assinatura por meio de chave eletrônica. Precedentes do TJPB e do STJ. - Apresentando-se regular a cobrança procedida pelo promovido, amparada em contrato de empréstimo consignado apresentado nos autos, não há que se falar em ilicitude a respaldar o pleito exordial. - Provimento do recurso do réu e recurso adesivo prejudicado" (e-STJ fls. 255/256).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos arts. 2º, parágrafo único, 3º, 14, 39 e 42 do Código de Defesa do Consumidor, 186, 927 e 944 do Código Civil, ao fundamento de que a contratação do empréstimo bancário em questão foi ilícita, sendo objetiva a responsabilidade da instituição financeira.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, as conclusões do Tribunal de origem acerca da licitude do empréstimo decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+No momento da contestação, o Banco promovido acostou aos autos o famigerado contrato, acompanhado de uma foto do consumidor e de seus documentos pessoais (ID 14540037), além da transferência do valor contratado para conta do favorecido (ID 14540038).
+Importante registrar que essa nova modalidade de assinatura contratual, por meio da biometria fácil, além de tratar-se de procedimento autorizado pelo Banco Central, revela-se extremamente eficiente no combate às fraudes, notadamente àquelas relacionadas à contratação de empréstimos bancários, porque propicia à instituição financeira constatar, de forma instantânea, se imagem capturada para reconhecimento facial, no momento da celebração do ajuste, é a mesma consignada no documento de identidade do mutuário.
+Essa nova sistemática de contratação, faz parte de um conjunto de importantes mecanismos que vêm sendo implementados pelos bancos, a fim de evitar ou, ao menos, dificultar a prática de fraudes e, consequentemente, atribuir maior a segurança às relações contratuais.
+Portanto, ficou sobejamente comprovada a relação jurídica, alicerçada na contratação questionada.
+(..)
+A despeito das alegações da parte autora, o Banco demandado logrou êxito na comprovação da regularidade da contratação, tendo juntado aos autos minuta do instrumento contratual e comprovante de transferência de valores para conta de titularidade da parte autora, além de imagem capturada no momento da contratação realizada via biometria facial.
+Desse modo, o conjunto probatório dos autos não demonstra a ocorrência do suposto vício de consentimento, nem tampouco do ato ilícito sustentado pela parte autora a ensejar a anulação do contrato, com a repetição do indébito e reparação por danos morais" (e-STJ fls. 259/260).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMPRESA EM LIQUIDAÇÃO EXTRAJUDICIAL. 1. AÇÃO DE CONHECIMENTO. SUSPENSÃO. INAPLICABILIDADE. 2. GRATUIDADE DE JUSTIÇA. PEDIDO INCOMPATÍVEL COM O RECOLHIMENTO DO PREPARO RECURSAL. 3. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. AGRAVO INTERNO DESPROVIDO.
+1. Com efeito, conforme jurisprudência desta Corte Superior, o art. 18 da Lei n. 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito.
+2. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+3. Nos termos da jurisprudência desta Corte Superior, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, considerando as peculiaridades do julgamento em concreto" (AgInt no AREsp n. 2.177.306/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023).
+3.1. A modificação do entendimento alcançado pelo acórdão estadual (acerca da abusividade na cobrança dos juros remuneratórios contratados) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. Agravo interno improvido."
+(AgInt no AREsp 2.485.847/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 2/5/2024 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor atualizado da causa, não cabendo a majoração estabelecida no art. 85, § 11, do Código de Processo Civil, por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
