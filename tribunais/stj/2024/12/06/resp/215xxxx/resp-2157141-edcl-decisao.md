@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por W SUL DISTRIBUIÇÃO E IMPORTAÇÃO DE MOTOPEÇAS E BICIPEÇAS LTDA contra decisão que deu parcial provimento a seu recurso especial, e determinou a devolução dos autos ao Tribunal a quo para que procedesse a novo exame dos aclaratórios ali opostos, com exame do pedido subsidiário deduzido (fls. 793-795).
+Em suas razões, a embargante afirma que a decisão é omissa em relação à interrupção do prazo prescricional previsto no art. 174 do CTN, para repetição dos valores pagos no PERT.
+Acrescenta que "Apesar de o pedido de interrupção do prazo prescricional (item c.1. acima) ser inerente ao pedido subsidiário de cancelamento de adesão ao Pert e compensação dos valores indevidamente recolhidos (item c.2.), ele é essencial para o desfecho do presente caso e até o momento foi ignorado pelas autoridades julgadoras" (fl. 802).
+Assinala que a declaração de interrupção do prazo prescricional até o trânsito em julgado da presente ação é relevante para garantir à embargante o exercício dos demais direitos.
+Requer o acolhimento dos embargos, com efeitos modificativos.
+O prazo para apresentação de impugnação transcorreu in albis (fl. 554).
+É o relatório.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Nas razões de seu recurso especial a embargante assinalou haver requerido desde a exordial a interrupção do prazo prescricional previsto no art. 174 do CTN, circunstância que também não teria sido apreciada pela Corte a quo (fl. 729).
+Com efeito, a parte requereu em seu recurso especial que fosse declarada "expressamente a interrupção do prazo prescricional, previsto no art. 174 do CTN, para a repetição dos valores recolhidos no Pert pela Recorrente (Evento 1, OUT8, JFSC), desde a impetração do Mandado de Segurança em referência, até o seu trânsito em julgado" (fl. 730).
+O relator entendeu que, o órgão julgador incorreu em omissão ao considerar que o pedido subsidiário deveria ser formulado no âmbito administrativo, deixando de se manifestar sobre a aplicação do princípio da inafastabilidade da jurisdição. Além disso, destacou que:
+O questionamento é relevante porque envolve não apenas a pretensão de ver cancelada a opção pelo PERT, como também a de que seja declarada a compensação dos valores que a esse título foram recolhidos. Ressalte-se que é de conhecimento geral o entendimento de que é cabível a impetração de Mandado de Segurança para discutir o direito à compensação. (fl. 395).
+Nos aclaratórios a embargante assinala que apesar de o pedido de interrupção do prazo prescricional ser inerente ao pedido subsidiário de cancelamento de adesão ao PERT e compensação de valores, sua análise é essencial para o desfecho do caso.
+Com razão a embargante.
+A questão do prazo prescricional é um dos pedidos que não foram examinados pela Corte de origem, apesar de sua relevância. Desde o pedido inicial, a embargante salientou a necessidade de interrupção do prazo prescricional com amparo no art. 174 do CTN (fl. 27).
+Contudo, ao proferir a sentença, o órgão julgador não abordou a questão, que voltou a ser questionada no recurso de apelação (fls. 491-519) e reiterada nos embargos declaratórios (fls. 661-670), sem que houvesse qualquer pronunciamento.
+Embora a decisão de fls. 793-795 tenha reconhecido a omissão em relação ao tema, ele ainda não foi adequadamente enfrentado. A falta de manifestação sobre a interrupção do prazo prescricional pode comprometer o exercício do direito da recorrente, configurando um prejuízo irreparável.
+Assim, resta evidente a necessidade de pronunciamento claro sobre a matéria, especialmente considerando que sua ausência pode resultar na perda da chance de a embargante exercer seus direitos, razão pela qual é fundamental que seja esclarecido.
+Ante o exposto, acolho os embargos declaratórios para complementar a decisão de fls. 793-795, e determinar que, em novo pronunciamento, o Tribunal a quo também examine o pedido subsidiário de interrupção do prazo prescricional para repetição dos valores pagos no PERT. Mantidos, no mais, todos os termos do julgado embargado.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. ART. 174 DO CTN. AUSÊNCIA DE MANIFESTAÇÃO DO ÓRGÃO JULGADOR. NECESSIDADE DE PRONUNCIAMENTO. EMBARGOS ACOLHIDOS.
