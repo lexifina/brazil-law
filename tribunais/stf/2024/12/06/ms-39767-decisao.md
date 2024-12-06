@@ -1,0 +1,43 @@
+DECISÃO:
+
+    Cuida-se de embargos de divergência interpostos por Fernando César Rodrigues Salgado, contra acórdão proferido pela Segunda Turma deste STF, assim ementado:
+
+    Agravo regimental. Mandado de segurança. Ato do Conselho Nacional de Justiça. Promoção. Remoção. Magistratura. Ausência de direito líquido e certo. Fundamentos não infirmados. Súmula n º 287/STF. Não provimento. 1. No caso vertente, o Conselho Nacional de Justiça, no exercício de suas atribuições constitucionais, deliberou sobre o pleito ora deduzido a partir da análise de inúmeros documentos juntados aos autos do PCA que tramitou no referido Conselho, os quais não podem ser revistos na via estreita do mandado de segurança. 2. Ademais, não se vislumbra direito líquido e certo a ser amparado na presente via processual, uma vez que, consoante asseverado pelo CNJ, “o Tribunal Requerido, ao proceder as (sic) movimentações questionadas, expressamente observou as orientações contidas na Constituição da República, na Resolução CNJ nº 106/2010, e na Resolução TJGO nº 219/2023”.3. O mero reforço de teses já articuladas na petição inicial não é suficiente para a reforma da decisão agravada, incidindo, in casu, o óbice da Súmula nº 287/STF. 4. Agravo regimental não provido
+
+    Os embargos de declaração opostos a esse acórdão foram rejeitados. Vejamos:
+
+    Embargos de declaração em agravo regimental em mandado de segurança. Nomeação de desembargador. Suposta ilegalidade em ato do Conselho Nacional de Justiça. Inexistência de omissão ou contradição. Mero inconformismo. Rejeição dos embargos. 1. Não está presente nenhuma hipótese autorizadora da oposição dos embargos de declaração, nos termos do art. 1.022 do atual Código de Processo Civil. 2. As alegações do embargante revelam mero inconformismo com as conclusões adotadas no acórdão embargado, no qual se assentou a ausência de ilegalidade do ato apontado como coator e de direito líquido e certo a ser amparado na via mandamental. 3. A pretensão de se rediscutirem as teses recursais não se coaduna com a via aclaratória. Precedentes. 4. Embargos de declaração rejeitados.
+
+    Nesta peça processual, reitera o embargante os termos de suas anteriores insurgências deduzidas nos autos e traz como paradigma, acórdão proferido pelo Pleno desta Suprema Corte, no seguinte julgado:
+
+    I. MANDADO DE SEGURANÇA: AUTORIDADE COATORA: LEGITIMAÇÃO DO PRESIDENTE DA REPUBLICA PARA RESPONDER, EM CARÁTER PREVENTIVO, A IMPETRAÇÃO FUNDADA NA INCONSTITUCIONALIDADE DA LISTA TRIPLICE ORGANIZADA PELO TRIBUNAL PARA A PROMOÇÃO DE JUIZES. 1. NO PROCEDIMENTO DE PROMOÇÃO DE MAGISTRADOS, AO RECEBER A INDICAÇÃO DO TRIBUNAL OU A LISTA POR ELE COMPOSTA, O PRESIDENTE DA REPUBLICA TEM NÃO APENAS O PODER, MAS O PODER DEVER DE RECUSA-LAS SE ENTENDER VICIADAS POR ILEGALIDADE OU POR INCONSTITUCIONALIDADE: DONDE, A SUA LEGITIMAÇÃO PARA RESPONDER, COMO AUTORIDADE COATORA, AO MANDADO DE SEGURANÇA QUE IMPUGNA A LISTA DE MERECIMENTO QUE SE ALEGA ORGANIZADA COM OFENSA A CONSTITUIÇÃO: PRECEDENTES DO SUPREMO TRIBUNAL. II. PROMOÇÃO DE JUIZ DE CARREIRA AOS TRIBUNAIS REGIONAIS: MANDADO DE SEGURANÇA IMPETRADO, COM BASE NO ART. 93, II, B, DA CONSTITUIÇÃO, POR MAGISTRADO QUE NÃO INTEGRA O PRIMEIRO QUINTO DA LISTA DE ANTIGUIDADE CONTRA A INCLUSAO NA LISTA DE DOIS JUIZES QUE IGUALMENTE NÃO A COMPOEM E SÃO MAIS MODERNOS QUE O REQUERENTE: ILEGITIMIDADE ATIVA, A FALTA DE NOTIFICAÇÃO PREVIA DOS TITULARES DO ALEGADO DIREITO ORIGINARIO (LMS, ART. 3.); IRRELEVÂNCIA DOS FATOS SUPERVENIENTES A ELEIÇÃO DA LISTA. 2. PARA A AFERIÇÃO DA VALIDADE DA LISTA QUESTIONADA, SÃO IRRELEVANTES FATOS SUPERVENIENTES A SUA ELABORAÇÃO, QUAIS A APOSENTADORIA OU A PROMOÇÃO DE JUIZES MAIS ANTIGOS EM RAZÃO DAS QUAIS O IMPETRANTE ALCANCOU POSIÇÃO NO PRIMEIRO QUINTO DO ROL DE ANTIGUIDADE DA CLASSE. 3. EMBORA O IMPETRANTE, QUANDO DA COMPOSIÇÃO DA LISTA, NÃO INTEGRASSE AINDA O PRIMEIRO QUINTO DA LISTA DE ANTIGUIDADE, OCUPAVA, ENTÃO, A POSIÇÃO IMEDIATAMENTE INFERIOR A ELE: DONDE, O SEU INTERESSE SUBSTANCIAL A QUE A PROMOÇÃO SE DECIDISSE EXCLUSIVAMENTE ENTRE OS JUIZES MAIS ANTIGOS QUE ELE; PARA VIABILIZAR A TUTELA JURISDICIONAL DE TAIS SITUAÇÕES INDIVIDUAIS, O ART. 3. OUTORGOU LEGITIMAÇÃO EXTRAORDINÁRIA AO TITULAR DELAS PARA PLEITEAR O DIREITO ALHEIO DE CUJA EFETIVAÇÃO DEPENDE A CONCRETIZAÇÃO DE SUA PROPRIA EXPECTATIVA JURÍDICA: CUIDA-SE, POREM, DE HIPÓTESE SINGULAR DE SUBSTITUIÇÃO PROCESSUAL, NA QUAL A LEGITIMAÇÃO DO SUBSTITUTO SÓ NASCE COM A INAÇÃO QUALIFICADA DO SUBSTITUIDO, QUANDO ESTE, NOTIFICADO, NÃO IMPETRAR A SEGURANÇA. (MS 21632, Rel. Min. Sepúlveda Pertence, Tribunal Pleno, DJ de 06-08-1993).
+
+    Menciona também o Mandado de Segurança n. 24.575-1.
+
+    É o relatório. Decido.
+
+    Os presentes embargos, porque manifestamente inadmissíveis, não merecem processamento.
+
+    De fato, assim dispõe o RISTF sobre o tema:
+
+    Art. 330. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+
+    No presente caso, o acórdão embargado foi proferido no âmbito de agravo regimental em mandado de segurança, sendo, portanto, manifestamente incabível. Nesse sentido, confira-se:
+
+    Direito administrativo. Agravo regimental nos embargos divergentes no agravo regimental nos embargos de declaração em mandado de segurança. Embargos de divergência opostos contra acórdão da primeira turma em mandado de segurança. Não cabimento. Art. 330 do Regimento Interno do Supremo Tribunal Federal. Agravo regimental a que se nega provimento. I. Caso em exame 1. Trata-se de agravo regimental interposto contra decisão que não conheceu de embargos de divergência manejados contra acórdão da Primeira Turma do Supremo Tribunal Federal em mandado de segurança. II. Questão em discussão 2. A questão em discussão consiste em saber se é cabível a oposição de embargos de divergência contra acórdão de órgão fracionário do Supremo Tribunal Federal em mandado de segurança. III. Razões de decidir 3. Nos termos do art. 330 do Regimento Interno do Supremo Tribunal Federal, cabem embargos de divergência apenas contra decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal. 4. No presente caso, todavia, o acórdão embargado foi proferido em mandado de segurança, de tal sorte que é manifestamente incabível o recurso manejado pelo agravante. IV. Dispositivo 5. Agravo regimental a que se nega provimento, com a determinação da certificação do trânsito em julgado. (MS 39684 ED-AgR-EDv-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe de 30-10-2024).
+
+    Agravo regimental nos embargos de divergência em mandado de segurança. Fundamentos. Ausência de impugnação. Precedentes. Agravo regimental do qual não se conhece. 1. Segundo a firme jurisprudência do Supremo Tribunal Federal, a parte deve impugnar, na petição de agravo regimental, todos os fundamentos da decisão agravada, o que não ocorreu na espécie. 2. Ficou claro, no decisum, que o manejo dos embargos de divergência ocorreu fora das hipóteses disciplinadas no Regimento Interno da Suprema Corte, sendo manifesta a inadequação da via eleita. Tal fundamento não foi impugnado na petição do agravo interno. 3. Agravo regimental do qual não se conhece, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). (MS 37703 AgR-EDv-AgR, de minha relatoria, Tribunal Pleno, DJe de 10-03-2022).
+
+    DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO INTERNO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JURISDICIONAL. DESPACHO QUE DETERMINOU A BAIXA E O ARQUIVAMENTO DOS AUTOS. AUSÊNCIA DOS REQUISITOS AUTORIZADORES CONFORME OS ARTS. 1.043 E 1.044 DO NCPC, E O ART. 330 DO RI/STF. NÃO CONHECIMENTO DO RECURSO. 1. Embargos de divergência opostos contra acórdão da Primeira Turma desta Corte, que não conheceu de agravo interno interposto em recurso ordinário em mandado de segurança. 2. Não cabem embargos de divergência se ausentes os requisitos autorizadores, conforme os arts. 1.043 e 1.044 do NCPC. 3. Os embargos de divergências foram opostos em agravo interno, hipótese que não se coaduna com as possibilidades de conhecimento do recurso, segundo o art. 330 do RI/STF (opostos em recurso extraordinário ou agravo de instrumento). 4. Recurso não conhecido. (RMS 37558 AgR-EDv, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 23-06-2022).
+
+    Ante o exposto, nego seguimento aos embargos de divergência (RISTF, art. 21, § 1º)
+
+    Publique-se.
+
+    Brasília, 6 de dezembro de 2024.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
