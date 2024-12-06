@@ -1,0 +1,119 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DIRCEU HOFFMANN (DIRCEU) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 577/582).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, DIRCEU alegou ofensa aos arts. 330, II, 700, § 4º e 1.022, I, todos do NCPC, 402, 922, 923 e 944, todos do CC/2002 e 17 da Lei n. 7.357/1985. Sustentou que (1) deve ser reconhecida sua ilegitimidade ativa em relação aos cheques ns. 41 e 46; e, (2) é cabível a condenação da parte contrária na indenização por danos materiais, considerando que a rescisão do contrato celebrado entre as partes se deu por culpa sua, já que ela assumiu por inteiro a comercialização e venda dos produtos Eskimó no Estado de Rondônia, descumprindo os termos do contrato.
+Foram apresentadas contrarrazões (e-STJ, fls. 546/552).
+Da alegada afronta ao art. 1.022, I, do NCPC
+DIRCEU alegou ofensa ao art. 1.022, I, do NCPC.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula n. 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No presente caso, da leitura das razões do especial, verificou-se que DIRCEU não apresentou argumentos claros e concatenados no tocante ao alegado, mas apenas ilações genéricas, pois limitou-se a apontar a afronta do dispositivo indicado como contrariado.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENHORA. ALEGAÇÃO DE AFASTAMENTO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. REEXAME. IMPOSSIBILIDADE. VERBETES SUMULARES N. 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. NÃO PROVIDO.
+1. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Verbete sumular n. 7 do Superior Tribunal de Justiça).
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Enunciado da Súmula n. 83 desta Corte Superior).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.931.592/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. CONTRATO DE MÚTUO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. TESE SOBRE INÉPCIA DA INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. 3. PRESCRIÇÃO QUINQUENAL E TERMO INICIAL. SÚMULA N. 83/STJ. 4. ALEGAÇÃO DE EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. SÚMULA N. 7/STJ. 5. AGIOTAGEM NÃO CARACTERIZADA. JUROS PACTUADOS NOS LIMITES LEGAIS. 6. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 7. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+3. A cobrança de dívida líquida constante em instrumento particular sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC/2002. Termo inicial do prazo prescricional se dá no dia de pagamento da última parcela.
+4. Rever a conclusão esposada no acórdão recorrido, quanto à tese de exceção do contrato não cumprido, demandaria revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+5. Não está caracterizada a agiotagem, sendo o débito exigível, tendo em vista que a pactuação dos juros não ultrapassou o limite da taxa prevista em lei.
+6. Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.107.815/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+No tocante à tese de que deve ser reconhecida sua ilegitimidade ativa
+DIRCEU alegou ofensa aos arts. 330, II e 700, § 4º, do NCPC, 922 do CC/2002 e 17 da Lei n. 7.357/1985. Sustentou que deve ser reconhecida sua ilegitimidade ativa em relação aos cheques ns. 41 e 46.
+Sobre o tema, assim decidiu a Corte local:
+DA PRELIMINAR DE ILEGITIMIDADE ATIVA SUSCITADA NA APELAÇÃO DE DIRCEU HOFFMANN
+O apelante arguiu preliminar de ilegitimidade ativa do credor em relação a três cheques (nº 36, 41 e 46), por ausência de endosso, seja em branco ou preto.
+A sentença entendeu que havia o endosso em preto nos referidos cheques, motivo porque manteve a legitimidade do autor da monitoria para cobrá-los.
+Nos termos do artigo 17, da Lei 7.357/85, mesmo quando o cheque é nominal, pode haver sua transmissão para outra pessoa através de endosso, tendo a doutrina e jurisprudência especificado a diferença entre endosso em preto e em branco.
+A presença de endosso em preto é verificada pela aposição de assinatura no verso do título junto à identificação do beneficiário da cártula.
+ ..
+Ao analisar os cheques questionados, acostados no Id 22408900, observa-se que consta uma assinatura e o carimbo com a identificação do beneficiário da cártula nos cheques de nº 41 e 46, no caso, o autor Comércio e Indústria de Sorvetes Eskimó LTDA, motivo porque deve ser mantida a sentença que reconheceu a legitimidade ativa em relação a cobrança dessas cártulas.
+Todavia, o cheque de nº 36 não consta assinatura no verso, apenas o carimbo que identifica o beneficiário da cártula:
+ ..
+Ausente o endosso para o autor, não se aperfeiçoou a transferência da titularidade do cheque nº 36 e, por conseguinte, a legitimação para a cobrança dos valores neles constantes.
+Assim, acolho a preliminar de ilegitimidade ativa tão somente em relação a cobrança do cheque de nº 36, no valor de R$ 5.376,00, submetendo-a aos julgadores (e-STJ, fls. 374, 376/377).
+O Tribunal de Justiça de Rondônia, soberano na análise do contexto fático-probatório, reconheceu a legitimidade ativa de DIRCEU em relação a todos os cheques, exceto quanto ao de n. 36.
+Por isso, conforme se nota, o TJRO assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. CUMPRIMENTO DE SENTENÇA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de indenização por danos materiais, morais e estéticos, em fase de cumprimento de sentença.
+2. Alterar o decidido no acórdão impugnado no que se refere à tese atinente à legitimidade ativa do recorrente, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.575.896/SE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DE VIZINHANÇA. AÇÃO DE INDENIZAÇÃO. CONSTRUÇÃO DE PRÉDIO LINDEIRO AO IMÓVEL DOS APELADOS. ALEGAÇÃO DE ILEGITIMIDADE ATIVA. SÚMULA 7/STJ. INOBSERVÂNCIA DE PREVENÇÃO. NULIDADE RELATIVA. DEMONSTRAÇÃO DE PREJUÍZO. LUCROS CESSANTES. SÚMULA 7/STJ.
+1. Afastar o reconhecimento da ilegitimidade ativa ad causam do recorrente demanda o reexame do acervo fático-probatório. Incidência da Súmula n. 7/STJ.
+2. Esta Corte Superior compreende que a inobservância da regra de competência por prevenção do Juízo se traduz em nulidade relativa, que deve ser suscitada na forma e no momento processual adequados, com a demonstração do efetivo prejuízo.
+3. O Tribunal deixou claro que a parte não apontou a nulidade na primeira oportunidade de se pronunciar, e também não foi capaz de demonstrar qualquer prejuízo decorrente da inobservância da prevenção. Modificar essas conclusões demandaria nova incursão nos aspectos fáticos da causa, o que, mais uma vez, esbarra na Súmula n. 7/STJ.
+4. Verifica-se do resumo de julgamento que houve a ampliação de quorum de julgamento na Segunda Turma de Direito Privado do TJ/PA, em razão da divergência. Carece o recorrente de interesse recursal.
+5. As instâncias originárias entenderam, consoante análise do acervo fático-probatório, que houve a caracterização de lucros cessantes porque o imóvel sofreu interdição e teve de ser desocupado, o que resultou na perda de seus rendimentos, devido a paralisação da atividade comercial desenvolvida no imóvel e a perda do ponto comercial, sendo comprovado o prejuízo financeiro dos autores.
+Incidência da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 2.115.411/PA, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. OMISSÃO. ART. 1.022 DO CPC. NÃO CONFIGURADOS. LEGITIMIDADE PASSIVA DA PARTE AGRAVANTE. RESPONSABILIDADE SOLIDÁRIA. ENVOLVIMENTO NA PUBLICIDADE ENGANOSA. PRODUTOS ANUNCIADOS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. DIREITO DO CONSUMIDOR. PUBLICIDADE ENGANOSA POR OMISSÃO. ELEMENTOS ESSENCIAIS NÃO APRESENTADOS AO CONSUMIDOR. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 83 DO STJ. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela agravante.
+2. A análise das condições da ação, tal como a legitimidade ativa ad causam, a porventura acarretar a extinção do processo sem resolução do mérito, é aferida à luz da teoria da asserção, isto é, mediante a análise das alegações formuladas pelo autor na petição inicial, de modo que, demandando tais questões um exame mais aprofundado, essa medida implicará julgamento de mérito.
+Precedentes.
+3. Modificar a conclusão do acórdão recorrido e verificar se efetivamente a parte agravante possui legitimidade para figurar no polo passivo da lide, ou se sua empresa também se beneficiou da publicidade enganosa por omissão, demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+4. Nos termos do art. 37, § 1º, do Código de Defesa do Consumidor, é enganosa qualquer modalidade de informação ou comunicação de caráter publicitário, inteira ou parcialmente falsa, ou que, por qualquer outro modo, mesmo por omissão, seja capaz de induzir em erro o consumidor a respeito de natureza, características, qualidade, quantidade, propriedades, origem, preço e quaisquer outros dados acerca de produtos e serviços.
+5. Ademais, modificar premissas fáticas que levam ao entendimento de que houve propaganda enganosa pela omissão de diversos elementos essenciais do produto em questão demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.016.282/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023)
+Quanto ao pedido de condenação em danos materiais
+DIRCEU alegou ofensa aos arts. 402 e 944 do CC/2002. Sustentou que é cabível a condenação da parte contrária na indenização por danos materiais, considerando que a rescisão do contrato celebrado entre as partes se deu por culpa sua, já que ela assumiu por inteiro a comercialização e venda dos produtos Eskimó no Estado de Rondônia, descumprindo os termos do contrato.
+A esse respeito, o Tribunal consignou:
+Quanto ao dano material, em análise ao contrato de cessão de direitos de uso de marca e logotipo e compra e venda de produtos equipamentos, firmado entre SG-Sorvetes LTDA e Sabores da Amazônia LTDA-ME (ID 22409329), assinado em setembro de 2015, a cláusula 12aconsignou que o valor pago à vista na assinatura do contrato era referente a aquisição de produtos de infraestrutura para iniciar as atividades comerciais e a cessão dos direitos do uso da marca:
+"Cláusula 12a. Na assinatura do presente contrato, a empresa CESSIONÁRIA pagará o valor de R$ 101.000,00 (cento e um mil reais) à vista.
+Referente a aquisição de produtos de infraestrutura para dar início as suas atividades comerciais, bem como, pela cessão dos direitos do uso da marca da CEDENTE."
+Ao que consta da narrativa do próprio Dirceu, em meados de junho de 2017, as empresas integrantes do grupo econômico passaram a descumprir suas obrigações contratuais, deixando de respeitar o direito de exclusividade de comercialização cedido e teriam fornecido seus produtos diretamente aos franqueados cujo a distribuição, tanto que houve uma notificação extrajudicial e rescisão contratual.
+Percebe-se que o apelante busca o retorno ao status quo, já que houve a exceção do contrato não cumprido por parte do cedente.
+Não se pode confundir o aporte financeiro inicial com o dano material relacionado ao fim do contrato de cessão e consequentemente o encerramento das atividades comerciais da empresa.
+Todavia, não consta informações se os produtos de infraestrutura para atividades comerciais foram devolvidos. Inclusive, de acordo com a notificação extrajudicial a respeito da rescisão contratual, o notificante informou apenas que ficaria isento de qualquer responsabilidades obrigacionais:
+Ante o exposto notifica Vossa Senhoria para que surtam os efeitos jurídicos almejados, com o fito de que a Notificante, a partir do descumprimento da notificação anterior, dá por rescindido o contrato de cessão de direitos de uso de marca e logotipo, além de compra e venda de produtos e equipamentos, bem como a rescisão das lojas franqueadas e distribuição dos produtos da notificada em todo o Estado de Rondônia.
+Ainda, considerando a rescisão, a partir do não atendimento da notificação anterior, a Notificante ficará isenta de quaisquer responsabilidades obrigacionais decorrente do contrato firmado, inclusive, podendo alterar o nome de suas lojas e buscar novo fornecedor de produtos.
+Por fim, registra-se que a Notificante irá apurar os valores das perdas e danos e promoverá a devida notificação da Notificada para ressarcimento, tudo isso, sem prejuízo das medidas judiciais cabíveis. (Id 22409395)
+À míngua de informações quanto à devolução de equipamentos ao cedente, não há como deferir o pleito de devolução do aporte inicial, após a compensação dos cheques cobrados na inicial.
+A despeito da impossibilidade de condenação em danos materiais, com razão o apelante em seu pedido de danos morais (e-STJ, fls. 386/389).
+Nesse sentido, o Tribunal de Justiça de Rondônia, soberano na análise do contexto fático-probatório, concluiu pela não comprovação dos danos materiais, não tendo, assim, logrado demonstrar o fato constitutivo do seu direito requerido no âmbito da reconvenção.
+Por isso, conforme se nota, o TJRO assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ilustrativamente, vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER. SEGURO. DISTRIBUIÇÃO DO ÔNUS DA PROVA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "O art. 373 do CPC dispõe que o ônus da prova incumbe: I - ao autor, quanto ao fato constitutivo de seu direito; e II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor. O § 1º estabelece que, nos casos previstos em lei ou diante de peculiaridades da causa relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o encargo nos termos do caput ou ainda à maior facilidade de obtenção da prova do fato contrário, poderá o juiz atribuir o ônus da prova de modo diverso, desde que o faça por decisão fundamentada, caso em que deverá dar à parte a oportunidade de se desincumbir do ônus que lhe foi atribuído. Já o § 2º elucida que a decisão prevista no § 1º desse artigo não pode gerar situação em que a desincumbência do encargo pela parte seja impossível ou excessivamente difícil" (REsp n. 1.583.430/RS, Quarta Turma).
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.509.921/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DE MARCA CUMULADA COM AÇÃO INDENIZATÓRIA E BUSCA E APREENSÃO. AFRONTA AO PRINCÍPIO DA VEDAÇÃO DA DECISÃO SURPRESA E ALEGADO CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AUTORA QUE NÃO SE DESINCUMBIU DO ÔNUS DE PROVAR O FATO CONSTITUTIVO DO SEU DIREITO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento desta Corte firmou-se no sentido de que "não há falar em decisão-surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de ouvi-las, até porque a lei deve ser de conhecimento de todos, não podendo ninguém se dizer surpreendido com sua aplicação" (AgInt no AREsp 2.038.601/RJ, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 09/11/2022, DJe de 24/11/2022).
+2. O Tribunal de origem, ao aplicar a lei adequada à solução do conflito (Lei n. 9.279/1996), concluiu que a ora agravante deixou de comprovar a suposta concorrência desleal por ela alegada. Na hipótese dos autos, não se vislumbra nenhuma ofensa ao princípio da não surpresa ou cerceamento de defesa.
+3. Não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.453.640/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. Reconsiderada a decisão monocrática anteriormente proferida, porquanto analisando o agravo em recurso especial percebe-se que foram impugnados todos os fundamentos da decisão agravada.
+2. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada omissão e negativa de prestação jurisdicional.
+3. Derruir a conclusão do acórdão recorrido, que entendeu pela comprovação do fato constitutivo do direito do autor, demandaria o reexame das provas dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+4. Os juros de mora e a correção monetária, em ação monitória, incidem a partir do vencimento da obrigação consubstanciada em dívida líquida e com vencimento certo. Precedentes. Incidência da Súmula 83/STJ.
+4.1. Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, no sentido de desqualificar a mora ex re como sendo in persona, ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+5. Agravo interno provido para reconsiderar a decisão de fls. 657/659, e-STJ. Agravo conhecido para negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.366.728/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PROVA PERICIAL. IRREGULARIDADES NÃO ATESTADAS. REVISÃO. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial não comporta análise fático-probatória.
+2. A alteração das conclusões do acórdão recorrido quanto à validade do laudo pericial e sua suficiência para a comprovação dos fatos constitutivos do direito do autor depende de reexame de fatos e provas, o que é obstado na via especial (Súmula 7/STJ).
+3. A jurisprudência do Superior Tribunal de Justiça entende que "a errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo" (AgInt no AREsp n. 2.165.709/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/6/2023, DJe de 12/6/2023).
+4. De acordo com a orientação jurisprudencial desta Corte Superior, não cabe a majoração dos honorários recursais em julgamento de agravo interno.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.457.805/PE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024)
+Nessas condições, CONHEÇO do agravo, mas NÃO CONHEÇO do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. ILEGITIMIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. FATO CONSTITUTIVO DO DIREITO DO AUTOR. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
