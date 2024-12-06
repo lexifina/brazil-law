@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo interposto por ULTRAMATER LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 670):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA QUE REJEITOU OS EMBARGOS MONITÓRIOS. RECURSO DA PARTE RÉ. PRESTAÇÃO DE SERVIÇOS MÉDICO- HOSPITALARES. PETIÇÃO INICIAL QUE EXIBIU APENAS EXTRATO DO SISTEMA COM LANÇAMENTOS UNILATERAIS DE GUIAS PARA PAGAMENTO, NÃO ASSINADAS PELOS CLIENTES DO PLANO DE SAÚDE. CONTRATO HAVIDO ENTRE OPERADORA E CLÍNICA QUE PREVÊ A NECESSIDADE DE ENCAMINHAMENTO DE DOCUMENTOS RELACIONADOS AOS SERVIÇOS QUE SE AFIRMA PRESTADOS. AUSÊNCIA DE NOTA FISCAL OU DOCUMENTO OUTRO ATESTANDO A EFETIVA PRESTAÇÃO. ÔNUS NÃO CUMPRIDO PELA PARTE AUTORA. DOCUMENTOS DA DEMANDA INJUNTIVA QUE DEVEM BASTAR AOS FINS MONITÓRIOS. PRECEDENTE DESTA CÂMARA EM CASO ASSEMELHADO. ACOLHIMENTO DOS EMBARGOS. RECURSO CONHECIDO E PROVIDO. Na demanda injuntiva, muito embora desnecessária força executiva no documento que serve de base ao procedimento monitório, deve o mesmo indicar "o pagamento de quantia em dinheiro", "a entrega de coisa fungível ou infungível ou de bem móvel ou imóvel" ou "o adimplemento de obrigação de fazer ou não fazer", mediante documento que demonstre de forma inequívoca o tanto quanto assim reclamado. Inexistindo espécie de prova escrita indicada no artigo 700 do Código de Processo Civil, a consecução de alegado crédito não dispensa o aforamento de ação devida, em procedimento outro, onde a discussão da causa debendi ganha contornos que admitem dilação probatória não aceitável em sede de ação monitória.
+Rejeitados os embargos de declaração opostos (fl. 703).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou o art. 373, II, do CPC, pois entende que a parte contrária não comprovou o fato modificativo, extintivo ou impeditivo de seu direito.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Alega ainda violação do art. 1.026, §§ 2º e 3º, do CPC, requerendo a exclusão da multa, por não serem protelatórios os embargos de declaração protocolados na origem.
+Foram oferecidas contrarrazões ao recurso especial (fls. 772-776).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 779-781), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 843-848).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem deixou claro que os documentos juntados à monitória são insuficientes para comprovar a existência da dívida (fl. 668):
+A petição inicial se fez acompanhada apenas pelo contrato e pelo extrato do sistema de pagamento onde presente o relatório das guias que a prestadora apelada lançou para aprovação da operadora apelante, nenhuma delas assinada pelos pacientes identificados.
+Sem o encaminhamento de "toda a documentação correspondente aos serviços realizados", pois, consequência estabelecida pelo próprio pacto é a exoneração "do pagamento do atendimento prestado ao paciente".
+Não há nenhuma nota fiscal ou documento outro atestando a efetiva prestação dos serviços, insubstituíveis por unilaterais lançamentos em sistema, elemento constitutivo negado pela apelante e que não se pode simplesmente presumir existente a partir da afirmação da parte apelada.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022. Grifo meu.)
+Quanto ao mérito, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória, procedimento vedado a esta Corte, em razão do óbice da Súmula n. 7/STJ. Isso porque o Tribunal consignou expressamente que os documentos juntados não comprovam a efetiva prestação dos serviços por terem sido produzidos unilateralmente.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Por fim, o recurso merece provimento quanto à tese de inadequada aplicação da multa prevista no art. 1.026, § 2º, do CPC, visto que a oposição de embargos de declaração, por si só, não autoriza a incidência da sanção, mormente diante da pretensão de prequestionamento pelo qual também foi manejado, fazendo atrair os preceitos da Súmula n. 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Nesse sentido, cito:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. SITE DE INTERMEDIAÇÃO DE COMÉRCIO ELETRÔNICO. NOTIFICAÇÃO EXTRAJUDICIAL. VIOLAÇÃO AOS TERMOS DE USO DA PLATAFORMA. REQUERIMENTO DE EXCLUSÃO DE ANÚNCIOS. IMPOSSIBILIDADE. MULTA POR EMBARGOS PROTELATÓRIOS. AFASTAMENTO.
+(..)
+8. Nos termos da Súmula 98 do STJ, "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". No particular, os embargos opostos pela recorrente tiveram por objetivo assegurar a manifestação expressa do Tribunal a quo a respeito do conteúdo do art. 19 do MCI, a fim de garantir o prequestionamento, razão pela qual deve ser afastada a multa aplicada com fundamento no art. 1.026, § 2º, do CPC.
+9. Recurso especial conhecido e provido.
+(REsp n. 2.088.236/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/4/2024, DJe de 26/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. COMPROVAÇÃO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. CUMPRIMENTO DE SENTENÇA. NULIDADE DA CITAÇÃO NA FASE DE CONHECIMENTO. COMPARECIMENTO ESPONTÂNEO. SUPRIMENTO DO VÍCIO. IMPOSSIBILIDADE. TERCEIROS EMBARGOS DE DECLARAÇÃO. MULTA ART, 1.026, § 2º DO CPC. AFASTAMENTO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts.
+489 e 1.022 do CPC/2015.
+2. A ausência ou nulidade da citação do réu na fase de conhecimento não pode ser suprida pelo comparecimento espontâneo em fase de cumprimento de sentença, sob pena de violação dos princípios do contraditório e da ampla defesa. Precedentes.
+3. Na hipótese, os agravados foram citados por edital sem a realização de diligências para a sua localização, sendo posteriormente firmado acordo entre a exequente e os demais executados, portanto, sem a anuência dos agravados. Apesar disso, foi iniciado o cumprimento de sentença dos honorários advocatícios devidos aos patronos da exequente, com a penhora de ativos financeiros dos agravados.
+4. Nesse contexto, deve ser reconhecida a nulidade da citação editalícia, pois o comparecimento espontâneo, na fase de cumprimento de sentença, não é capaz de suprir o vício essencial constatado.
+5. Inexistente o caráter protelatório dos embargos de declaração ou o abuso da parte recorrente em sua oposição, impõe-se o afastamento da multa processual, nos termos da Súmula n. 98 do STJ.
+6. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015.
+(AgInt no AREsp n. 2.226.626/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e dar-lhe provimento apenas para afastar a multa do art. 1.026, § 2º, do CPC aplicada na origem.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. INICIAL INSTRUÍDA COM LANÇAMENTOS DE SISTEMA. VIOLAÇÃO DO ART. 1.022. NÃO OCORRÊNCIA. NÃO COMPROVAÇÃO DA EXISTÊNCIA DA DÍVIDA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO PARA AFASTAR A MULTA DO ART. 1.026, § 2º, DO CPC.
