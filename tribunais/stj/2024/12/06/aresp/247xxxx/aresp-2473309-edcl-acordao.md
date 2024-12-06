@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração, opostos pelo MINISTÉRIO PÚBLICO FEDERAL, ao acórdão de fls. 471/472e, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO. 1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CP C (Enunciado n. 3 do Plenário do STJ). 2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ. 3. Agravo interno não conhecido.
+Alega a parte embargante haver omissão no julgado, pois, "no agravo interno, demonstrou-se, de maneira clara, fundamentada e específica, a inaplicabilidade do óbice da Súmula 7/STJ. Como bem demonstrado no recurso ministerial, "o argumento de que não houve impugnação específica dos fundamentos da decisão recorrida não se sustenta, visto que as razões do agravo interposto pelo MPF delinearam, com clareza, os equívocos na aplicação da Súmula 7/STJ, bem como na interpretação das normas regentes da matéria sub judice." O MPF demonstrou especificamente que "a jurisprudência do STJ é pacífica no sentido de que a aplicação das sanções por atos de improbidade deve ser suficiente para desestimular novas infrações, não se limitando a ser meramente simbólica. A fixação de uma multa em patamar irrisório, como no caso dos autos, não atende a tal finalidade, contrariando o espírito da Lei nº 8.429/1992." Pois, "cuidou o recurso especial especificamente de impugnar o ponto crucial, assinalando que, a análise da dosimetria deve ser feita considerando a razoabilidade e a proporcionalidade, citando ainda precedentes do Superior Tribunal de Justiça que enfatizam essa abordagem jurídica, sem necessariamente ter que se reexaminar os fatos." Citando a aplicação da necessária dos princípios da proporcionalidade e razoabilidade, foi devidamente argumentado que o que se busca é a avaliação jurídica da adequação da pena, e não um reexame dos fatos" (fl. 481e).
+Requer, assim, "o provimento dos embargos de declaração" (fl. 482e).
+Sem impugnação.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, quanto à incidência do óbice da Súmula 182/STJ, o julgamento embargado está assim fundamentado (fl. 476e):
+A decisão agravada não conheceu do agravo em recurso especial, porquanto não impugnado o fundamento da inadmissibilidade, quanto à incidência do óbice da Súmula 7/STJ.
+Ocorre que, também no agravo interno, a parte agravante não impugnou o fundamento da decisão ora agravada, limitando-se a tecer alegações vagas, sobretudo quanto à questão de fundo, objeto do recurso inadmitido, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Verifica-se, assim, não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, ao passo que os embargos de declaração não tem por finalidade o reexame de questões já analisadas, apenas para oportunizar novo julgamento por inconformismo da parte, com a conclusão adotada.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
