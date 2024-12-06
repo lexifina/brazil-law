@@ -1,0 +1,10 @@
+DECISÃO
+ANTONIO MARIN ALVES ajuíza revisão criminal contra decisão proferida no REsp n. 2.029.128/SC, que deu provimento ao recurso do Ministério Público, a fim de restabelecer o decisum que fixou a suspensão da habilitação para conduzir veículo automotor por 1(um) ano.
+Em suas razões, requer a defesa que "seja julgado procedente o presente pedido revisional, cassando-se respeitável Sentença rescindenda, bem como o venerando acórdão que a confirmou, absolvendo o revisionando, lhe impondo apenas penalidade por infração de trânsito" e que " Seja julgado procedente o presente pedido revisional sendo cassada a respeitável sentença rescindenda sendo investigado e processado criminalmente a pessoa de Alfeu Santo de Paula diante da perícia em anexo" (fl. 10).
+Entretanto, o pedido não é cabível nesta Corte.
+Deveras, conforme preceitua o art. 105, I, "e", da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais de seus julgados. O art. 240 do RISTJ, por sua vez, prevê que o cabimento da via revisional, relativamente à condenação ou manutenção da condenação, está imbricado com a questão federal decidida no recurso especial.
+De fato, "na revisão criminal interposta nesta Corte, só pode ser examinada a questão federal decidida no recurso especial" (RvCr n. 731/RJ, relatora Ministra Jane Silva - Desembargadora convocada do TJ/MG, DJe 7/4/2009, grifei).
+No caso, contudo, verifica-se que o especial interposto pela defesa não foi conhecido e o do Ministério Público se restringiu a examinara questão relativa à duração da pena acessória. Logo, a pretensão de absolvição pela existência de prova nova, como alega o requerente nesta oportunidade, é discussão que não foi nem sequer tangenciada na análise do recurso especial.
+Assim, mostra-se incabível processamento e julgamento desta revisão criminal por esta Corte, razão pela qual, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço in limine desta revisão criminal.
+Publique-se e intimem-se.
+EMENTA
