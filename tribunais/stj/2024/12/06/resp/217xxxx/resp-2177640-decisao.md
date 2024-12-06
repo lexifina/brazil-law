@@ -1,0 +1,25 @@
+DECISÃO
+BRUNO RAFAEL DE LIMA interpõe recurso especial, com fundamento artigo 105, inciso III, alínea "a", da Constituição da República, contra acórdão proferido pelo Tribunal de origem, que negou o indulto da pena de multa aplicada ao tráfico de drogas.
+A defesa aponta violação ao art. 2º, X, e art. 8º, ambos do Decreto n. 11.846/2023. Argumenta que, apesar da natureza equiparada a crime hediondo, a multa criminal aplicada ao recorrente é autônoma, tem natureza jurídica de dívida de valor, e não de pena criminal. Assim, a vedação prevista no Decreto n. 11.846/2023 é exclusiva para a pena privativa de liberdade, e não para a sanção pecuniária prevista no tipo penal.
+Contrarrazões apresentadas (73-76). O recurso especial foi admitido na origem.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do recurso.
+Decido.
+Confirmo a admissão do recurso especial, pois estão preenchidos seus requisitos legais.
+O indulto é ato de clemência de competência privativa do Presidente da República. Esse instituto pode ser concedido segundo critérios de conveniência e oportunidade, com limitação expressa do art. 5º, XIII, da CF, que estabelece:
+ ..  os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de: I - anistia, graça e indulto; II - fiança e liberdade provisória".
+No caso, o Tribunal de Justiça negou o pedido do condenado por tráfico de drogas, em acórdão assim ementado:
+Agravo em execução. Concessão de indulto. Decreto Presidencial nº 11.846/2023. Insurgência da defesa contra a decisão denegatória. Agravante condenado pelo delito do artigo 33, caput da Lei 11.343, que pretende o indulto da pena de multa cumulativamente aplicada, com arrimo no artigo 2º, X, do Decreto Presidencial. Impossibilidade. Vedação expressa ao indulto de crimes hediondos ou equiparados, bem como ao delito de tráfico de drogas consoante artigo 1º, incisos I e XVII do referido diploma normativo. Proibição que abarca tanto a pena privativa de liberdade quanto a pena de multa prevista no tipo penal. Precedentes deste C. TJSP. Crime de tráfico de drogas que, de todo modo, não pode ser alcançado pelo benefício em razão do impedimento constante no artigo 5º, inciso XLIII, da Constituição Federal. Precedentes das E. Cortes Superiores. Decisão mantida. Agravo improvido.
+Esse entendimento está alinhado à jurisprudência desta Corte, pois, "na dicção do Supremo Tribunal Federal, o indulto natalino é um instrumento de política criminal e carcerária adotada pelo Executivo, com amparo em competência constitucional, que encontra restrições apenas na própria Constituição da República, que veda a concessão de anistia, graça ou indulto aos crimes de tortura, tráfico de drogas, terrorismo e aos classificados como hediondos" (AgRg no HC n. 935.027/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+Também a legislação infraconstitucional reproduz a limitação constitucional. Com efeito, a Lei n. 11.343/2006, em seu art. 44, estabelece que o crime previsto no art. 33, caput são insuscetíveis de indulto.
+O Presidente da República, no art. 1º, I, do Decreto n. 11.846/2023, estabeleceu expressamente:
+Art. 1º O indulto coletivo e a comutação de penas concedidos às pessoas nacionais e migrantes não alcançam as que tenham sido condenadas:
+I - por crime hediondo ou equiparado, nos termos do disposto na Lei n. 8.072/1990
+Ressalto que os crimes são punidos com as penas previstas no art. 32 do CP, assim enumeradas: privativas de liberdade, restritivas de direitos e multa.
+O Tribunal Pleno do Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade n. 3.150, estabeleceu o entendimento vinculante de que a multa estabelecida no tipo penal, embora seja dívida de valor, mantém a natureza de pena. Continua a ser sanção criminal aplicada a um crime, mesmo após a alteração do art. 51 do CP pela Lei n. 13.964/2019.
+No caso concreto, relacionado a tráfico de drogas sem a incidência de causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, não há falar em violação federal.
+A aplicação do indulto previsto no Decreto n. 11.846/2023, em toda a sua extensão, é vedada para o crimes hediondos ou equiparados conforme o art. 5º, art. 5º, XIII, da CF e o art. 1º, I, do Decreto n. 11.846/2023.
+O acórdão recorrido está alinhado à jurisprudência desta Corte, pois "incide o artigo 5º, inciso XLIII, da Constituição Federal, que proíbe a concessão de anistia ou graça aos crimes equiparados a hediondo, no qual encontra-se incluído o tráfico ilícito de entorpecentes, nos termos do art. 2º, inciso I, da Lei n. 8.072/1990. Precedentes" (HC n. 480.309/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2019, DJe de 19/2/2019).
+Cito, no mesmo sentido, a decisão proferida no RESP n. 2168547/SP, Rel. Ministro Ribeiro Dantas, DJE de 11/11/2024.
+À vista do exposto, conheço e nego provimento ao recurso especial.
+Publique-se. Intime-se.
+ EMENTA
