@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por MEYRE LONDERO DE SOUZA e OUTROS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurgem contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 711):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PARCIAL DO ARTIGO 5 º DA LEI Nº 11.960/09. IPCA. JUROS MORATÓRIOS.
+1. Hipótese em que mostra-se viável a aplicação da máxima tempus regit actum, uma vez que quando proferida a sentença exequenda ainda não estava em vigor o artigo 1º-F da Lei n.º 9.494/97
+2. Sobre o assunto, declarou o Supremo Tribunal Federal a inconstitucionalidade parcial do art. 5º da Lei 11.960/09, que deu nova redação ao art. 1º-F da Lei 9.494/97, eis que a taxa básica da poupança não mede a inflação acumulada no período, razão porque não pode servir de parâmetro para correção monetária dos débitos da Fazenda Pública.
+3. Quanto aos juros de mora, contudo, permanecendo válida a redação da Lei n.º 11.960/2009 que modificou o teor do art. 1.º-F da Lei n.º 9.494/97, no ponto específico, a partir de seu advento em 30/06/2009, os juros deverão ser calculados em 6% ao ano, independentemente de constar outro percentual no título executivo.
+Os primeiros embargos de declaração opostos foram acolhidos parcialmente apenas para fins de prequestionamento (fl. 781); já os segundos foram rejeitados (fl. 800).
+A parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 21, 128, 183, 458, II, 460, 535, II, e 538 do Código de Processo Civil de 1973 (CPC/1973) e 1º-F da Lei 9.494/1997, com a redação dada pelo art. 5º da Lei 11.960/2009. Sustenta:
+a) nulidade do acórdão recorrido por negativa de prestação jurisdicional;
+b) ocorrência de julgamento extra petita, uma vez que não houve pedido da União para alteração dos juros de mora a 6% a.a., a partir da vigência da Lei 11.960/2009;
+c) necessidade de respeito à coisa julgada quanto à aplicação da taxa de juros de mora e correção monetária;
+A parte adversa apresentou contrarrazões (fls. 984/997).
+Após decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) determinando a devolução dos autos ao Tribunal de origem para adequação do julgado ao Tema 1.170/STF, a Vice-Presidência do Tribunal Regional, após concluir que o acórdão recorrido teria decidido em consonância com o entendimento firmado naquele tema, determinou a remessa dos autos ao Superior Tribunal de Justiça (STJ) para a análise das questões remanescentes.
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+A insurgência não merece prosperar.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fls. 792/793):
+A) SANAR A OMISSÃO com o que se haverá de anular em parte a r. decisão agravada, em razão do seu caráter extra petita (arts. 128, 183 e 460 do CPC), suprimindo-se a determinação de aplicação de juros de 6% a. a. a partir de julho de 2009, já que pedido deste jaez não foi formulado pelo executado em seu recurso, já que pede exclusivamente a utilização da TR como índice de correção monetária dos valores devidos a partir da referida data;
+B) SUPRIR OMISSÃO quanto à COISA JULGADA formada nos autos dos embargos do devedor nº 5004532-37.2011.404.7100, em que houve determinação de aplicação, sobre o crédito executivo, de juros de mora de 12% a. a., por meio decisão transitada em julgado já sob a vigência da Lei 11.960/09.
+Ao apreciar o recurso integrativo, o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO decidiu que (fl. 804):
+Em que pese os argumentos expendidos pelas partes embargantes, no caso dos autos inexiste omissão, contradição ou obscuridade, pois o acórdão embargado decidiu fundamentadamente sobre os pontos controvertidos na demanda.
+A pretensão, portanto, é de rediscutir a matéria via embargos de declaração, buscando-se por via oblíqua a reforma da decisão embargada, violando a sua finalidade de esclarecer obscuridades ou contradições e suprir omissões no julgado, mas sim para que se ajuste o decisum ao entendimento da parte embargante .
+No caso vertente, inexiste vício a ser sanado no acórdão impugnado, porquanto o fato de não ter sido fundamentado com os dispositivos legais que as partes embargantes gostariam de ver examinados não o torna omisso.
+A demanda em tela restou dirimida com fundamentos suficientes claramente expostos no voto condutor, nada havendo a ser complementado no pronunciamento embargado, uma vez que devidamente enfrentadas as matérias pertinentes.
+No acórdão recorrido constou o seguinte (fls. 707/709):
+Mostra-se viável a aplicação da máxima tempus regit actum , uma vez que quando proferida a sentença exequenda ainda não estava em vigor o artigo 1º-F da Lei n.º 9.494/97, com a redação conferida pela Lei n.º 11.960/2009, consoante ementa que colaciono:
+ ..
+Considerava-se impositiva a incidência da Lei 11.960/2009 cuja aplicabilidade teria lugar, inclusive, sobre as ações ajuizadas anteriormente ao seu advento, eis que se trata de providência emanada de lei, de cunho inarredável, haja vista seus contornos estabelecidos pela Corte Superior, independentemente de uma prévia disposição acerca da referida lei por parte deste Tribunal.
+Entretanto, recentemente o STF julgou parcialmente procedente a ADI n.º 4.357, a qual, dentre outras questões, tratou das regras de atualização monetária dos débitos da Fazenda Pública (incidência dos índices oficiais de remuneração básica e juros da caderneta de poupança), oportunidade em que a Suprema Corte declarou a inconstitucionalidade parcial, por arrastamento, do art. 5º da Lei 11.960/09, que deu nova redação ao art. 1º-F da Lei 9.494/97.
+O Supremo Tribunal Federal ao enfrentar a questão entendeu pela inconstitucionalidade da expressão "índice oficial de remuneração básica da caderneta de poupança", eis que a taxa básica da poupança não mede a inflação acumulada no período, razão porque não pode servir de parâmetro para correção monetária dos débitos da Fazenda Nacional.
+Ainda que até o momento não publicado o acórdão do STF ou modulados os efeitos da decisão, o Superior Tribunal de Justiça acatou, de imediato, a declaração de inconstitucionalidade, razão porque revejo o entendimento até então defendido para alinhar- me aos termos do julgamento proferido em recurso submetido à sistemática do art. 543-C do CPC, in verbis:
+ ..
+Logo, em face do reconhecimento da inconstitucionalidade parcial da Lei 11.960/2009, bem como em razão do teor da decisão emanada pelo STJ em recurso representativo da controvérsia, deve ser determinado, para fins de correção monetária, a incidência do IPCA durante todo o período, índice que melhor reflete a inflação acumulada, desde que não conste outro índice específico no título executivo.
+Quanto aos juros de mora, contudo, permanecendo válida a redação da Lei n.º 11.960/2009 que modificou o teor do art. 1.º-F da Lei n.º 9.494/97, no ponto específico, a partir de seu advento em 30/06/2009, os juros deverão ser calculados em 6% ao ano, independentemente de constar outro percentual no título executivo.
+As questões relativas à tese de julgamento extra petita e de violação à coisa julgada foram apreciadas ainda que implicitamente pelo acórdão recorrido ao reconhecer a aplicação imediata da Lei 11.960/2009 no que diz respeito aos juros de mora e correção monetária, independentemente de constar outro índice ou percentual no título executivo.
+Vê-se que inexiste a alegada violação dos arts. 458 e 535 do Código de Processo Civil de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante salientar que julgamento diverso do pretendido, como no presente caso, não implica ofensa aos dispositivos de lei invocados.
+Por fim, destaco que a jurisprudência desta Corte entende que os índices de correção monetária e juros de mora, por serem consectários legais da condenação, possuem natureza de ordem pública, cognoscíveis de ofício, razão pela qual a sua aplicação não configura julgamento extra petita.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO DO ART. 535 DO CPC DE 1973. NÃO OCORRÊNCIA. ÍNDICE DE CORREÇÃO MONETÁRIA. APLICAÇÃO. JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. SUCUMBÊNCIA RECÍPROCA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há falar em violação do art. 535 do Código de Processo Civil de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. O entendimento desta Corte é o de que os índices de correção monetária e juros de mora, por serem consectários legais da condenação, possuem natureza de ordem pública, cognoscíveis de ofício, razão pela qual a sua aplicação não configura julgamento extra petita.
+3. Segundo a jurisprudência do Superior Tribunal de Justiça, a aferição do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios dos autos, o que é vedado pela Súmula 7 desta Corte.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.374.977/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/5/2023, DJe de 29/5/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 5 E 7 DA SÚMULA DO STJ.
+ ..
+IV - É pacífico nesta Corte Superior que a correção monetária e os juros legais, como consectários da condenação, são matéria de ordem pública, não se lhes aplicando os óbices do julgamento extra petita ou da reformatio in pejus.
+V - Deverão ser aplicados à espécie, conforme o referido julgado em recurso repetitivo, os índices de juros e correção monetária estebelecidos no item 3.1.1 - "c", da decisão supracitada.
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.060.719/MA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/9/2018, DJe de 21/9/2018.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
