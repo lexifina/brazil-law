@@ -1,0 +1,69 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    EMENTA/VOTO: RECURSOS INOMINADOS INTERPOSTOS POR AMBAS AS PARTES. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORA PÚBLICA DO MUNICÍPIO DE ESTÂNCIA. AGENTE COMUNITÁRIA DE SAÚDE. CONTRATAÇÃO PELO REGIME CELETISTA. POSSIBILIDADE (ARTIGO 198, §§ 4º E 5º DA CF/88. ARTIGO 8º DA LEI FEDERAL N.º 11.350/2006). TRANSMUTAÇÃO PARA O REGIME ESTATUTÁRIO APENAS EM 2019. LEI MUNICIPAL N.º 2.078/2019. DIREITO À PERCEPÇÃO DE ADICIONAL DE TEMPO DE SERVIÇO (TRIÊNIO). ARTIGO 97 DA LEI COMPLEMENTAR MUNICIPAL N.º 16/2007. APROVEITAMENTO DO TEMPO DE SERVIÇO CELETISTA. POSSIBILIDADE. SÚMULA 678 DO STF. TERMO INICIAL DO PAGAMENTO. DATA DA VIGÊNCIA DA LEI N.º 2.078/2009 (19/12/2019). DEVOLUÇÃO DO FGTS. IMPOSSIBILIDADE. SENTENÇA REFORMADA EM PARTE. RECURSOS CONHECIDOS E PROVIDOS PARCIALMENTE
+
+    1. Recursos próprios, regulares, tempestivos e satisfeitos os demais pressupostos recursais intrínsecos e extrínsecos, sendo o recorrente/requerido dispensado do recolhimento do preparo recursal, na forma do artigo 1.007, § 1º do CPC, por se tratar de ente municipal. Por sua vez, a parte autora também fica dispensada do recolhimento do preparo recursal, em razão do deferimento do benefício da justiça gratuita em seu favor, na forma do artigo 98 do CPC, vez que, nos autos, não há elementos capazes de afastar a presunção disposta no artigo 99, § 3º do CPC.
+
+    2. A controvérsia desta lide recursal cinge-se; (i) em examinar se a parte autora, enquanto Agente Comunitária de Saúde, possui direito à percepção do adicional de triênio, previsto no artigo 97 da Lei Complementar Municipal de n.º 16/2007, considerado todo o tempo de serviço prestado por aquela, desde data de ingresso de cada uma das autoras no serviço municipal; e (ii) em verificar a coerência da determinação de devolução do FGTS percebido pela parte reclamante durante o vínculo celetista.
+
+    3. Ressoa dos autos que a parte reclamante é servidora pública municipal, contratada, em 28/09/2012, por meio de processo seletivo, para o cargo de Agente comunitário de saúde, sendo que, até dezembro/2019, seu vínculo funcional era regido pelo regime celetista (pp. 16/26). Após, em dezembro/2019, com a publicação da Lei Municipal n.º 2.078/2019, vigente a partir de 19/12/2019, o regime jurídico daquela fora transmutado para o regime estatutário
+
+    4. Nesse contexto, em sentido contrário ao afirmado pelo juízo a quo, o artigo 198, §§ 4º e 5º da CF/88, estabelece que os gestores locais do sistema único de saúde poderão admitir agentes comunitários de saúde e agentes de combate às endemias por meio de processo seletivo público, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para sua atuação. Por sua vez, lei federal disporá sobre o regime jurídico, o piso salarial profissional nacional, as diretrizes para os Planos de Carreira e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias, competindo à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios, para o cumprimento do referido piso salarial.
+
+    5. Nessa linha, atendo ao comando legiferante supracitado, fora editada a Lei federal n.º 11.350/2006 que, em seu artigo 8º, dispõe que “os Agentes Comunitários de Saúde e os Agentes de Combate às Endemias admitidos pelos gestores locais do SUS e pela Fundação Nacional de Saúde - FUNASA, na forma do disposto no § 4º do art. 198 da Constituição, submetem-se ao regime jurídico estabelecido pela Consolidação das Leis do Trabalho - CLT, salvo se, no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa”. Desse modo, por expressa autorização constitucional, a mencionada Lei federal, amparada pelo parágrafo único da EC n.º 51/2006, excepcionou a regra do regime jurídico único, bem assim a obrigatoriedade do concurso público para a investidura em cargo ou emprego público (artigo 37, II, da CF/88), possibilitando que os profissionais citados fossem submetidos ao regime jurídico estabelecido pela CLT, salvo se, no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa.
+
+    6. Assim, em se tratando de tais agentes é possível presumir inicialmente a existência de relação de emprego, regida pela CLT, em face da autorização expressa constante na lei federal. Por sua vez, aqueles somente não serão regidos pelo regime celetista se o ente público, no âmbito da sua circunscrição, editar, por lei local e com base em sua autonomia normativa, regime jurídico de natureza administrativa aplicável aqueles (artigo 30, I e II, da CF/88).
+
+    7. Outrossim, vê-se que os Agentes comunitários de saúde (ACS) e/ou Agentes de Combate a Endemias (ACE) possuem disciplina constitucional específica, com preceitos especiais, não havendo que se falar em aplicação do entendimento consubstanciado na ADI 2135, porque relacionado a outro dispositivo da Carta Magna (artigo 39), que trata sobre as regras voltadas ao servidor público.
+
+    8. Dito isso, considerando válida a contratação da parte demandante, por meio de processo seletivo, para o cargo de Agente Comunitário de Saúde, entende-se que, até 18/12/2019, aplicar-se-ia para ela o regime celetista, após o que, em 19/12/2019, com o advento da Lei Municipal n.º 2.078/2019, a qual autorizou a transposição daquele regime para o estatutário com relação aos profissionais da saúde, tornando a citada profissão um cargo de provimento efetivo, ser-lhe-ão aplicadas as disposições do regime jurídico estatutário municipal (Lei Complementar n.º 16/2007).
+
+    9. Não obstante isso, registre-se que, nos termos da Súmula 678 do STF, os servidores outrora celetistas, após a transição para o regime estatutário, têm direito adquirido à contagem do tempo de serviço prestado sob a égide da CLT, veja-se: São inconstitucionais os incisos I e III do art. 7º da Lei 8.162/91, que afastam, para efeito de anuênio e de licença-prêmio, a contagem do tempo de serviço regido pela consolidação das leis do trabalho dos servidores que passaram a submeter-se ao regime jurídico único. No mesmo sentido: A jurisprudência desta Corte firmou-se, portanto, no sentido de que o servidor público, ex-celetista, teria direito adquirido à contagem de tempo de serviço para fins de anuênio e licença-prêmio por assiduidade. [RE 375.133 AgR, rel. min. Ricardo Lewandowski, 1ª T, j. 9- 11-2010, DJE 226 de 25- 11-2010].
+
+    10. Sendo assim, conquanto o vínculo funcional da parte reclamante até 18/12/2019 tenha sido regido sob o regime celetista, a Corte Suprema admite que o tempo de serviço desempenhado pelo empregado público seja, posteriormente, contabilizado para fins de percepção de adicional de tempo de serviço, quando da convolação daquele vínculo em estatutário. Logo, o tempo em que o servidor, atualmente regido pelo regime estatutário, laborou sob a CLT pode ser contabilizado/aproveitado para obtenção do adicional por tempo de serviço.
+
+    11. Neste cenário, o artigo 97 da LCM n.º 16/2007 estabelece que o adicional por tempo de serviço ou triênio devido, a cada três anos de efetivo exercício, corresponderá a 5% (cinco por cento) do vencimento base do servidor. Com efeito, considerando o tempo de serviço prestado pela parte autora desde o início do seu vínculo funcional com a municipalidade, tem-se que, quando da propositura desta demanda, incluindo-se o tempo de serviço estatutário desempenhado a partir de 19/12/2019, aquela acumulou tempo de serviço hábil à concessão do adicional (triênio), observando-se os percentuais indicados na tabela de p. 30.
+
+    12. Destaque-se que o direito à percepção (pagamento) do mencionado adicional tem por termo inicial a data de 19/12/2019, quando a parte demandante passou a ser servidora estatutária, ante o comando legal contido na Lei Municipal n.º 2.078/2019, não podendo o pagamento de tal verba retroagir a período anterior, vez que, até então, a parte recorrida não era servidora estatutária e sua contratação por meio do regime celetista foi válida, inexistindo, pois, fundamento legal para aquela pleitear retroativamente direitos decorrentes do Estatuto em comento.
+
+    13. Destarte, o tempo de serviço prestado desde a data de admissão da autora pode ser contabilizado para fins de recebimento do adicional de tempo de serviço em análise, conforme posição do STF sobre o tema. A implantação/pagamento de tal verba, contudo, deve ter por marco inicial o dia 19/12/2019, data em que a servidora passou a ter seu vínculo firmado sob a égide do Estatuto dos Servidores Públicos do Município de Estância, conforme lei municipal supracitada.
+
+    14. Lado outro, com relação à determinação de devolução/compensação do FGTS percebido pela parte reclamante no período em que laborou em regime celetista, como esclarecido, a contratação daquela, sob égide de tal regime, é plenamente válida e encontra permissivo constitucional, de modo que não há que se falar em invalidade de tal contratação. Nesse toar, uma vez que, até 19/12/2019, o vínculo funcional da parte reclamante era regido pela CLT, era devida a percepção do FGTS até tal marco temporal, na forma do artigo 7º, III, da CF/88, não havendo que se falar em enriquecimento ilícito daquela, tampouco em obrigação de devolução de tais valores, devendo a sentença fustigada ser reformada em tal ponto.
+
+    15. Por fim, diante da fundamentação alhures tecida, houve inegável perda do objeto do pedido da requerente quanto ao pagamento do adicional de triênio desde dezembro/2017, tendo em vista que, como exaustivamente justificado, o termo inicial do adimplemento de tal verba é, de fato, dezembro/2019, como apontado na sentença, ainda que tal data se justifique por fundamentos diversos daqueles conditos na decisão recorrida.
+
+    16. Ante o exposto, é de se CONHECER dos recursos inominados interpostos para lhes DAR PROVIMENTO PARCIAL, reformando-se a sentença fustigada para condenar o recorrente/requerido ao pagamento, em favor da parte requerente, do adicional de tempo de serviço (triênio), previsto no art. 97 da LCM n.º 16/2007, considerando todo o tempo de serviço da parte autora desde o ingresso na municipalidade (5% para cada três anos de serviço prestado), tendo tal adimplemento por termo inicial a data de 19/12/2019 (marco temporal da transposição de regime). Ademais, deve ser extirpada do comando sentencial a determinação de devolução/compensação dos valores relativos ao FGTS percebido pela servidora municipal reclamante, durante todo o vínculo laboral celetista. O montante condenatório deve ser atualizado até o dia 08/12/2021 - período anterior à aprovação da Emenda Constitucional n.º 113/2021 - com juros moratórios aplicados à caderneta de poupança a contar da citação, nos termos da regra do art. 1º-F da Lei n.º 9.494/97, e correção monetária pelo IPCA-E, desde o vencimento da verba. Após a data citada, em observância aos preceitos estabelecidos pelo art. 3º da Emenda Constitucional n.º 113/2021, o valor da condenação deverá sofrer a incidência, uma única vez, até o seu efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), a título de correção monetária e juros. Sem condenação ao pagamento das custas processuais e dos honorários advocatícios sucumbenciais, conforme art. 55, segunda parte da Lei 9.099/95, subsidiariamente aplicado ao rito do Juizado da Fazenda Pública por força do art. 27 da Lei 12.153/2009.
+
+    17. A súmula de julgamento servirá de acórdão, nos termos do art. 46 da Lei n.º 9.099/95 c/c artigo 27 da Lei n.º 12.153/2009.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, caput e § 10, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 6 de dezembro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
