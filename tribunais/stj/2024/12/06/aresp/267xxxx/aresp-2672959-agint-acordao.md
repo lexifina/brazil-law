@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS COM PEDIDO DE TUTELA ANTECIPADA DE URGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação indenizatória por danos morais e materiais com pedido de tutela antecipada de urgência.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: incidência das Súmulas 7 e 83/STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por ERBE INCORPORADORA 037 S.A. contra decisão que não conheceu do agravo em recurso especial.
+Ação: indenizatória por danos morais e materiais com pedido de tutela antecipada de urgência movida por REGIANE PEREIRA DA SILVA RODRIGUES contra ERBE INCORPORADORA 037 S.A. e CAIXA ECONÔMICA FEDERAL, em razão de vícios de construção em imóvel residencial oriundo do programa Minha Casa Minha Vida.
+Sentença: extinguiu o processo, por ausência de pressuposto processual de desenvolvimento válido e regular do processo, diante da inépcia da petição inicial e por ausência de interesse processual.
+Acórdão: deu provimento à apelação interposta pela agravada REGIANE PEREIRA DA SILVA RODRIGUES, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. PROGRAMA MINHA CASA MINHA VIDA. VÍCIO DE CONSTRUÇÃO. INTERESSE DE AGIR COMPROVADO. JUNTADA DE CONTRATO DE FINANCIAMENTO PELA INSTITUIÇÃO FINANCEIRA. POSSIBILIDADE.
+- O acesso à justiça garantido no art. 5º, XXXV, da Constituição Federal, assegura amplitude material e pessoal para a judicialização de lides (efetivas ou potenciais), de tal modo que a exceção são lesões ou ameaças a direitos excluídas do controle do Poder Judiciário e submetidas a soluções por outros meios. Esse mesmo mandamento constitucional impõe a inafastabilidade da prestação jurisdicional, de tal modo que o Poder Judiciário tem o ônus de processar todas as vias processuais (desde que regularmente manejadas pelas partes) para a resolução das controvérsias.
+- A partir dessas premissas, o momento da apresentação de provas que expõem interesse de agir, com exceção de mandados de segurança, as vias processuais comportam certa flexibilidade, porque a irrestrita imposição da juntada de provas, tão logo distribuída a ação, implicará em restrição ao amplo acesso à jurisdição abrigado pelo art. 5º, XXXV, da Constituição de 1988, bem como desprezará a racionalidade da própria fase probatória prevista em múltiplas ações judiciais.
+- Se de um lado o art. 5º, XXXV, da Constituição garante o livre acesso à prestação jurisdicional sempre que houver lide (efetiva ou potencial), a correspondente pretensão resistida não impõe prévio requerimento extrajudicial, pois a pretensão resistida pode ser inferida por vários outros meios. E em temas submetidos ao Código de Defesa do Consumidor (CDC), para admissão do processamento de ações judiciais, a demonstração do interesse de agir deve ser feita sempre que for verossímil a alegação do consumidor, segundo as regras ordinárias de experiência.
+- Para fins de demonstração de interesse de agir em fase inicial de processamento de ações judiciais, os documentos colacionados comprovam que a parte autora celebrou contrato de financiamento de imóvel integrante do Programa Minha Casa Minha Vida, além de ter apontado (ainda que de forma leiga) os vícios construtivos do mencionado imóvel, bem como haver comunicado à CEF e à construtora a existência de tais vícios.
+- A juntada do respectivo contrato de financiamento pode ser determinada à CEF, em sendo imprescindível, o que pode ser feito em pertinente fase probatória.
+- É nula a sentença que extingue o feito sem julgamento de mérito pela ausência de demonstração de interesse de agir, além do que a comprovação dos vícios construtivos demanda dilação probatória e poderá ser verificada durante a instrução processual, com a produção de prova pericial.
+- Apelação provida. Sentença anulada. (e-STJ fl. 534)
+Embargos de declaração: opostos pela agravada, foram rejeitados.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega que impugnou especificadamente os fundamentos da decisão que inadmitiu o recurso especial. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS COM PEDIDO DE TUTELA ANTECIPADA DE URGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação indenizatória por danos morais e materiais com pedido de tutela antecipada de urgência.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: incidência das Súmulas 7 e 83/STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação dos seguintes fundamentos da decisão de inadmissibilidade proferida pelo TRF3:
+i) incidência da Súmula 7 do STJ; e
+ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+- Da Súmula 7/STJ
+Da análise das razões do agravo em recurso especial, verifica-se que a parte agravante não impugnou a incidência da Súmula 7/STJ de forma consistente, limitando-se a alegar genericamente que pretendia a aplicação do direito à hipótese, sem demonstrar a desnecessidade do revolvimento de fatos e provas.
+Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe de 21/12/2023.
+- Da Súmula 83/STJ
+Em seu agravo em recurso especial, a parte agravante não refutou a incidência da Súmula 83/STJ, pois não indicou precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a comprovar que o acórdão recorrido diverge da orientação jurisprudencial desta Corte Superior, tampouco realizou qualquer distinção entre o precedente aplicado à hipótese e a questão jurídica decidida neste processo.
+Nesse sentido: AgInt no AREsp 868.542/RJ, Terceira Turma, DJe de 1/8/2017 e AgInt no AREsp 2.257.194/GO, Quarta Turma, DJe de 26/10/2023.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
