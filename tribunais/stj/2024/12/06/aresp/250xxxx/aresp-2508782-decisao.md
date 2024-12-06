@@ -1,0 +1,102 @@
+DECISÃO
+Trata-se de agravo interposto APB COMÉRCIO DE ALIMENTOS S/A contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fls. 84/86):
+"RECUPERAÇÃO JUDICIAL. DECISÃO HOMOLOGATÓRIA DE PLANO RECUPERACIONAL APROVADO EM ASSEMBLEIA GERAL DE CREDORES. AGRAVO DE INSTRUMENTO DE INSTITUIÇÃO FINANCEIRA CREDORA. A ASSEMBLEIA DOS CREDORES É SOBERANA, RESSALVADA A POSSIBILIDADE DE CONTROLE JUDICIAL DE LEGALIDADE PELO PODER JUDICIÁRIO. ENUNCIADO 44 DA I JORNADA DE DIREITO COMERCIAL DO CONSELHO DE JUSTIÇA FEDERAL. PRECEDENTES DO STJ. DESÁGIO (95%), JUROS (3% AO ANO), CARÊNCIA 20 MESES), INÍCIO DA CONTAGEM DA CARÊNCIA SOMENTE APÓS DECISÃO DE PUBLICAÇÃO DE HOMOLOGAÇÃO DO PLANO E PRAZO PARA PAGAMENTO (20 ANOS). DIREITOS PATRIMONIAIS DISPONÍVEIS DOS CREDORES. HIPÓTESE EM QUE NÃO CABE INTERVENÇÃO SANCIONADORA DO JUDICIÁRIO. PRAZO DE SUPERVISÃO. NOVA REDAÇÃO DO ART. 61 DA LEI 11.101/2005, DADA PELA LEI 14.112/2020, PREVENDO QUE "O JUIZ PODERÁ DETERMINAR A MANUTENÇÃO DO DEVEDOR EM RECUPERAÇÃO JUDICIAL ATÉ QUE SEJAM CUMPRIDAS TODAS AS OBRIGAÇÕES PREVISTAS NO PLANO QUE SE VENCEREM ATÉ, NO MÁXIMO, DOIS ANOS DEPOIS DA CONCESSÃO DA RECUPERAÇÃO JUDICIAL, INDEPENDENTEMENTE DO EVENTUAL PERÍODO DE CARÊNCIA". QUESTIONA-SE SE A SUBSTITUIÇÃO DA EXPRESSÃO "PERMANECERÁ EM RECUPERAÇÃO JUDICIAL" POR "O JUIZ PODERÁ DETERMINAR A MANUTENÇÃO DO DEVEDOR EM RECUPERAÇÃO JUDICIAL" PERMITE A ADOÇÃO DE PRAZO DE SUPERVISÃO INFERIOR A 2 ANOS. A RAZÃO DE EXISTIR DO PRAZO DE SUPERVISÃO, HERANÇA DO ANTIGO REGIME DA CONCORDATA, É PERMITIR A FISCALIZAÇÃO DAS ATIVIDADES DA DEVEDORA, COM PUNIÇÃO MAIS RIGOROSA DECRETAÇÃO DE QUEBRA EM CASO DE DESCUMPRIMENTO DO PLANO; O PRAZO, PORÉM, TAMBÉM PODE ACARRETAR DIFICULDADES AO SOERGUIMENTO, JÁ QUE A DEVEDORA TERÁ O ÔNUS DE APRESENTAR-SE AO MERCADO COMO EMPRESA "EM RECUPERAÇÃO", BEM COMO DIANTE DOS CUSTOS DE MANUTENÇÃO DO PROCESSO. DOUTRINA DE EDUARDO SECCHI MUNHOZ. O DIREITO DE FISCALIZAÇÃO DOS CREDORES NÃO SE RESUME A EXIGIR O CUMPRIMENTO DE OBRIGAÇÕES COM VENCIMENTO EM ATÉ 2 ANOS. ABRANGE TAMBÉM A POSSIBILIDADE DE SUPERVISÃO DAS ATIVIDADES DAS DEVEDORAS, COM AMPARO EM RELATÓRIOS PERIÓDICOS DO ADMINISTRADOR JUDICIAL, ATUAÇÃO DO MINISTÉRIO PÚBLICO E DE EVENTUAL COMITÊ DE CREDORES. ESTA CONCLUSÃO TRAZ AO PROCESSO COLETIVO DE INSOLVÊNCIA VANTAGENS, DENTRE ELAS A DE EVITAREM-SE OS CUSTOS E DELONGAS DO AJUIZAMENTO DE AÇÃO AUTÔNOMA PARA OS MESMOS FINS. "COMO PODER DEVER, A FISCALIZAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL É OBRIGAÇÃO DO JUÍZO DA RECUPERAÇÃO JUDICIAL E NÃO PODERÁ SER POR ESTE DISPOSTA CONFORME O SEU JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE." (MARCELO BARBOSA SACRAMONE). PRECEDENTE DESTA 1ª CÂMARA RESERVADA DE DIREITO EMPRESARIAL, AI 2052998-76.2021.8.26.0000, DA RELATORIA DO DESEMBARGADOR FORTES BARBOSA. ALEGAÇÃO DE FALTA DE LIQUIDEZ QUE NÃO PROCEDE, NA MEDIDA EM QUE O VALOR DAS PARCELAS EM QUE DIVIDIDO O PAGAMENTO PODE SER AFERIDO POR MEROS CÁLCULOS ARITMÉTICOS. REFORMA PARCIAL DA DECISÃO RECORRIDA, DETERMINADO SE OBSERVE PRAZO DE SUPERVISÃO DE 2 ANOS. AGRAVO DE INSTRUMENTO A QUE SE DÁ PARCIAL PROVIMENTO."
+Os embargos de declaração opostos foram rejeitados nos seguintes termos (e-STJ fl. 137):
+"EMBARGOS DE DECLARAÇÃO A ACÓRDÃO EM AGRAVO DE INSTRUMENTO. PRETENSÃO A PRETEXTO DE INEXISTENTE CONTRADIÇÃO MERAMENTE INFRINGENTE, O QUE SE NÃO ADMITE. OS EMBARGOS DE DECLARAÇÃO SÃO RECURSO DE FUNDAMENTAÇÃO VINCULADA, NÃO SE PRESTANDO À AMPLA REAPRECIAÇÃO DAS QUESTÕES JÁ JULGADAS, MAS TÃO SOMENTE DAS QUE ENCERREM OS DEFEITOS EXPRESSAMENTE ELENCADOS NO ART. 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO DE MERO PREQUESTIONAMENTO. DESNECESSIDADE, SEGUNDO A JURISPRUDÊNCIA DO PRETÓRIO EXCELSO (FORMADA AO TEMPO DO CPC/73, MAS AINDA HOJE DE SE APLICAR, MORMENTE EM RAZÃO DA EDIÇÃO DO ART. 1.025 DO CPC VIGENTE), DE PREQUESTIONAMENTO EXPRESSO DE QUESTÕES FEDERAIS, MENCIONANDO-SE ARTIGO POR ARTIGO POR SUA IDENTIFICAÇÃO NUMERAL. BASTA, PARA CONHECIMENTO DE RECURSO ESPECIAL, O PREQUESTIONAMENTO IMPLÍCITO (STF, RT 703/226). EMBARGOS REJEITADOS."
+No recurso especial, a recorrente alega violação aos arts. 489 e 1.022, inciso II, do Código de Processo Civil, ao argumento de que houve carência de fundamentação e negativa de prestação jurisdicional.
+Aduz contrariedade aos arts. 35, inciso I, alínea "f" e 65, ambos da Lei nº 11.101/2005 e 104, do Código Civil, ao fundamento de que válida a disposição constante do plano de reestruturação que prevê o encerramento do prazo de supervisão judicial dentro do período de seis meses.
+Defende a ocorrência de dissídio jurisprudencial.
+Por fim, requer o conhecimento e provimento do recurso especial.
+Após o prazo para contrarrazões, o recurso especial não foi admitido, dando ensejo à interposição do presente agravo.
+O Ministério Público Federal ofertou parecer pelo desprovimento do recurso (e-STJ fls. 275/280).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+No tocante à negativa de prestação jurisdicional, o Tribunal de Justiça afastou a alegação sob os seguintes fundamentos (e-STJ fls. 140/141):
+"(..)
+Como se vê, a embargante discorda da decisão do Tribunal, pura e simplesmente. Pretende que, tendo-se afirmado que determinados pontos do plano, nos quais saiu-se vencedora, não poderiam ser revistos, o mesmo caberia dizer relativamente àquele em que vencida. Isto, por óbvio, não configura contradição.
+O acórdão longamente, a partir da fl. 110, com apoio em doutrina e valioso precedente judicial, declina as razões pelas quais se deliberou como nele está, contrariamente à embargante, naquele limitado ponto.
+Não estando de acordo com o decidido, não será pela via restrita dos embargos de declaração que a embargante obterá sua reforma."
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR ANTECEDENTE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Ação cautelar antecedente.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A jurisprudência desta Corte é no sentido de que o Código de Defesa do Consumidor não se aplica quando o produto ou serviço é contratado para implementação de atividade econômica, pois não restaria caracterizado o destinatário final da relação de consumo.
+5. No entanto, é autorizada excepcionalmente a aplicação do código consumerista quando ficar demonstrada a hipossuficiência técnica, jurídica ou econômica da pessoa jurídica.
+6. Na presente hipótese, para rever a conclusão firmada pelas instâncias ordinárias, de que resta caracterizada a hipossuficiência técnica da pessoa jurídica a atrair a aplicação do CDC, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial ante a incidência da Súmula nº 7/STJ.
+7. Agravo interno não provido."
+(AgInt no AREsp n. 2.626.006/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024).
+"RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. FALHA NA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. CRÉDITO TRABALHISTA. HABILITAÇÃO RETARDATÁRIA. CONDIÇÕES DE PAGAMENTO. ARTIGO 54 DA LREF. ALTERAÇÃO. IMPOSSIBILIDADE.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. O crédito trabalhista, cujo pagamento deve obedecer ao regramento legal, não pode ser pago em condição diversa, sob o pretexto de que se trata de crédito retardatário.
+3. Recurso especial conhecido e não provido."
+(REsp n. 2.166.584/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/11/2024, DJe de 11/11/2024).
+Registra-se, ainda, que mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+No que tange à alegada violação aos dispositivos da Lei nº 11.101/2005 e ao Código Civil, o Tribunal de Justiça de origem destacou (e-STJ fls. 110/122):
+"(..)
+Inicialmente, de se ressaltar que cabe ao Poder Judiciário julgar a validade das regras negociais inseridas no plano de recuperação, não adentrando no tema da viabilidade econômica.
+O agravante articula a presença de diversos vícios na modificação do plano de soerguimento aprovada em assembleia, cabendo sua análise individualizada.
+São eles: (a) deságio de 95%; (b) incidência de juros irrisórios de 3% ao ano; (c) carência de 20 meses; (d) início da contagem da carência somente após publicação da decisão de homologação do plano; (e) prazo para pagamento em 20 anos; (f) encerramento da recuperação em 6 meses após sua homologação; (g) iliquidez; e (h) ausência de viabilidade econômica.
+Inicialmente, quanto aos itens "a", "b", "c", "d" e "e" (deságio de 95%, juros de 3% ao ano, carência de 20 meses, início da contagem da carência apenas após decisão de publicação de homologação do plano e prazo para pagamento em 20 anos), não vislumbro motivos para infirmar sua permanência, por tratarem de direitos patrimoniais disponíveis.
+Em respeito à soberania da assembleia de credores, disposições similares foram declaradas válidas pela jurisprudência das Câmaras Reservadas de Direito Empresarial, de acordo com os julgados referidos anteriormente, e mais estes, proferidos no seio desta 1ª Câmara:
+(..)
+Em relação aos juros, ainda, sua incidência em percentual considerado baixo ou mesmo sua ausência encontram-se dentro da faculdade dos credores contratantes.
+Em relação ao encerramento da recuperação judicial (item "f" do rol acima), entretanto, a questão merece maior reflexão.
+Com a reforma da Lei 11.101/2005 pela Lei 14.112/2020, foi alterado o caput do art. 61.
+A conferir:
+(..)
+A nova redação, vale observar, prejudica o Enunciado II editado pelo Grupo de Câmaras Empresariais deste Tribunal ("O prazo de dois anos de supervisão judicial, previsto no artigo 61, "caput", da Lei 11.101/05, tem início após o transcurso do prazo de carência fixado."), o que se torna claro diante do acréscimo da expressão "independentemente do eventual período de carência".
+O que se discute no caso concreto, porém, é se a substituição da redação "permanecerá em recuperação judicial" por "o juiz poderá determinar a manutenção do devedor em recuperação judicial" efetivamente permite ao magistrado designar, ex officio, prazo inferior a dois anos ou mesmo suprimir o período de supervisão judicial.
+(..)
+A recente alteração de redação no art. 61, portanto, poderia se dizer voltada à primeira situação endereçada pelo autor, deixando clara a possibilidade de encerramento da recuperação judicial, até mesmo ex officio, desde que cumpridas pela empresa em soerguimento todas as obrigações previstas pelo plano.
+(..)
+Realmente, hão de ser os credores reconhecidos como os maiores interessados na supervisão judicial, com direito a adequada fiscalização do cumprimento do plano e, data venia, a posição adotada por S. Exa., o MM. Juiz de origem, reduz excessivamente esse direito.
+A real amplitude da fiscalização compreende a possibilidade de supervisão das atividades da devedora, com amparo de relatórios periódicos do administrador judicial, atuação de eventual comitê de credores e do Ministério Público, evitados os custos que seriam incorridos para ajuizamento de ação autônoma.
+(..)
+No caso em julgamento, por tais fundamentos, conclui-se que o encerramento do prazo de supervisão tal como previsto no plano é prejudicial ao interesse de fiscalização dos credores.
+Consequentemente, por meu voto, perdurará ele pelos 2 anos máximos do art. 61 da Lei 11.101/2005.
+(..)
+Isso posto, reformo parcialmente a decisão agravada, acolhido o douto parecer ministerial, para determinar que o prazo de supervisão seja de 2 anos, contados da homologação do plano." (grifou-se)
+Da leitura do excerto, verifica-se que o Tribunal de Justiça considerou inválida a cláusula que autorizava o encerramento da recuperação em 6 meses após sua homologação.
+Consoante destacado pelo Ministério Público Federal, a jurisprudência do STJ tem admitido a realização do controle de legalidade do plano de recuperação, ressalvando, contudo, a análise de sua viabilidade econômico-financeira, de exclusiva ingerência dos credores.
+A propósito:
+"PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. VÍCIOS NO JULGAMENTO. PRESTAÇÃO JURISDICIONAL COMPLETA. PLANO DE RECUPERAÇÃO JUDICIAL. CONTROLE DE LEGALIDADE PELO JUDICIÁRIO. POSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. CREDORES TRABALHISTAS. PAGAMENTO. TERMO INICIAL. CONCESSÃO DA RECUPERAÇÃO. SÚMULAS 5, 7 E 83/STJ. PROVIMENTO PARCIAL.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil.
+2. O Tribunal de origem não se imiscuiu em questões de natureza comercial do Plano de Recuperação Judicial, limitando-se ao controle da legalidade de determinadas cláusulas, o que, consoante, jurisprudência desta Corte, é permitido.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e contratual (Súmulas 5 e 7/STJ).
+4. O prazo para pagamento dos credores trabalhistas principia com a concessão da recuperação judicial. Precedentes.
+5. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidência do enunciado 83 da Súmula do STJ.
+6. Agravo interno a que se dá parcial provimento, conhecendo em parte do especial para, nessa extensão, provê-lo parcialmente."
+(AgInt no REsp n. 1.822.800/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022).
+Além disto, a legislação de regência determina que a empresa em recuperação deve permanecer sob supervisão judicial, pelo prazo máximo de dois anos, podendo tal prazo ser reduzido apenas se efetivados todos os pagamentos previstos e satisfeitas todas as obrigações novadas.
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. FALHA NA PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. RECUPERAÇÃO JUDICIAL. ENCERRAMENTO. PLANO DE RECUPERAÇÃO. ADITIVOS. TERMO INICIAL. PRAZO BIENAL. CONCESSÃO. BENEFÍCIO. HABILITAÇÕES PENDENTES. IRRELEVÂNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir (i) se houve falha na prestação jurisdicional e (ii) se nos casos em que há aditamento ao plano de recuperação judicial, o termo inicial do prazo bienal de que trata o artigo 61, caput, da Lei nº 11.101/2005 deve ser a data da concessão da recuperação judicial ou a data em que foi homologado o aditivo ao plano.
+3. Não há falar em falha na prestação jurisdicional quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+4. A Lei nº 11.101/2005 estabeleceu o prazo de 2 (dois) anos para o devedor permanecer em recuperação judicial, que se inicia com a concessão da recuperação judicial e se encerra com o cumprimento de todas as obrigações previstas no plano que se vencerem até 2 (dois) anos do termo inicial.
+5. O estabelecimento de um prazo mínimo de efetiva fiscalização judicial, durante o qual o credor se vê confortado pela exigência do cumprimento dos requisitos para concessão da recuperação judicial e pela possibilidade direta de convolação da recuperação em falência no caso de descumprimento das obrigações, com a revogação da novação do créditos, é essencial para angariar a confiança dos credores, organizar as negociações e alcançar a aprovação dos planos de recuperação judicial.
+6. A fixação de um prazo máximo para o encerramento da recuperação judicial se mostra indispensável para afastar os efeitos negativos de sua perpetuação, como o aumento dos custos do processo, a dificuldade de acesso ao crédito e a judicialização das decisões que pertencem aos agentes de mercado, passando o juiz a desempenhar o papel de muleta para o devedor e garante do credor.
+7. Alcançado o principal objetivo do processo de recuperação judicial que é a aprovação do plano de recuperação judicial e encerrada a fase inicial de sua execução, quando as propostas passam a ser executadas, a empresa deve retornar à normalidade, de modo a lidar com seus credores sem intermediação.
+8. A apresentação de aditivos ao plano de recuperação judicial pressupõe que o plano estava sendo cumprido e, por situações que somente se mostraram depois, teve que ser modificado, o que foi admitido pelos credores. Não há, assim, propriamente uma ruptura da fase de execução, motivo pelo qual inexiste justificativa para a modificação do termo inicial da contagem do prazo bienal para o encerramento da recuperação judicial.
+9. A existência de habilitações/impugnações de crédito ainda pendentes de trânsito em julgado, o que evidencia não estar definitivamente consolidado o quadro geral de credores, não impede o encerramento da recuperação.
+10. Recurso especial não provido.
+(REsp n. 1.853.347/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/5/2020, DJe de 11/5/2020).
+Ademais, rever a conclusão do tribunal local demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Relembre-se, que a incidência da Súmula nº 7/STJ, impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO IDENTIFICADA. 2. TARIFAS BANCÁRIAS. DÉBITOS EFETUADOS EM PROVEITO DOS CORRENTISTAS. REVISÃO. SÚMULA N. 7/STJ. LEGALIDADE DA COBRANÇA. SÚMULA N. 83/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. "Acerca das taxas e tarifas relacionadas à prestação de serviço bancário, esta Corte tem entendimento no sentido de haver necessidade de pactuação expressa para a sua cobrança, com exceção dos contratos celebrados até 30/4/2008" (AgInt no REsp n. 2.009.758/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+3. Ademais, o acórdão concluiu que as cobranças realizadas tratavam de débitos efetuados em proveito dos correntistas. A conclusão está embasada no contexto fático-probatória dos autos, impedido o exame da tese recursal, considerando a incidência da Súmula 7/STJ por ambas as alíneas do permissivo constitucional.
+4. Agravo interno desprovido."
+(AgInt no REsp n. 2.133.448/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
