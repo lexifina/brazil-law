@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de KEROLLEM CRISTINA MACHADO DE SA - condenada pela prática do delito de lesão corporal de natureza grave -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1501835-90.2023.8.26.0535), não comporta processamento.
+Com efeito, pretende a impetrante seja a pena-base fixada no mínimo legal, porquanto as circunstâncias do delito não ultrapassam aquelas ínsitas ao tipo penal; seja afastada a agravante prevista no art. 61, II, f, do Código Penal, na medida em que a vítima e o réu não moravam juntos; seja modificado o regime de cumprimento da pena para o aberto.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, da análise da sentença condenatória, observa-se que o Magistrado singular logrou fundamentar o recrudescimento da pena-base, dada a presença de circunstância concreta que extrapola aquelas ínsitas ao tipo penal (tendo em vista a utilização de duas facas de corte de carne para múltiplos golpes contra o ofendido - fl. 99); de outro lado, reconhecida a relação de hospitalidade entre a ré e a vítima, concluir de forma diversa demandaria o reexame de fatos e provas, o que não se admite na via eleita, caracterizada pelo rito célere e de cognição sumária; por fim, presente circunstância judicial desfavorável, escorreita a fixação do regime inicial semiaberto (art. 33, §§ 2º e 3º, do CP).
+Nesse contexto, inexiste constrangimento ilegal manifesto capaz de justificar o processamento excepcional da impetração.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. LESÃO CORPORAL GRAVE. DOSIMETRIA DA PENA. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. FALTA DE CABIMENTO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferi da liminarmente.
