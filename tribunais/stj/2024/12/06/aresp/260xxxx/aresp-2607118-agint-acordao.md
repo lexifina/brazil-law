@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL.  CIVIL.  PLANO  DE  SAÚDE.  OMISSÃO. NÃO OCORRÊNCIA.  NEGATIVA  DE  COBERTURA.  EXAME.  TRATAMENTO  DE  CÂNCER.  RECUSA  ABUSIVA.  ROL  DA  ANS.  NATUREZA.  IRRELEVÂNCIA. INOVAÇÃO RECURSAL. NÃO CABIMENTO.
+1.  Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2.  É  obrigatório  o  custeio  pelo  plano  de  saúde  de  medicamento  antineoplásico  ou procedimento para  tratamento  de  câncer,  sendo  irrelevante  o  questionamento  acerca  da  natureza  taxativa  ou  exemplificativa  do  Rol  da  ANS.  Precedentes.
+3.  A alegação tardia de tese em agravo interno configura inovação recursal, insuscetível de exame diante da preclusão consumativa.
+4. Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FUNDAÇÃO  SAÚDE ITAÚ  (outro nome: FUNDAÇÃO SAÚDE ITAÚ - PORTO SEGURO SAÚDE) contra  a  decisão  que  conheceu  do agravo para negar provimento  ao  recurso  especial pela ausência de omissão no julgado e incidência da Súmula nº 568/STJ.
+Em  suas  razões  ,  a  agravante  sustenta omissão no acórdão recorrido proferido pela origem.
+Argumenta que não há obrigatoriedade em oferecimento de exame ou medicamento para o tratamento do câncer.
+Menciona violação do princípio da irretroatividade da lei no tempo, pois
+"(..) a ressalva de que a lei nova possa ter aplicação imediata, em contratos de trato sucessivo, como nos tratamentos de caráter continuado, essa não é a hipótese dos autos, em que se questiona efetivamente o reembolso de um exame médico realizado em 2020, portanto, 2 (dois) anos antes do início da vigência da Lei nº 14.454/2022" (e-STJ fl. 1.655).
+Pleiteia pela reconsideração da decisão agravada.
+I  mpugnação  às  e-STJ  fls.  1.667/1.674.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL.  CIVIL.  PLANO  DE  SAÚDE.  OMISSÃO. NÃO OCORRÊNCIA.  NEGATIVA  DE  COBERTURA.  EXAME.  TRATAMENTO  DE  CÂNCER.  RECUSA  ABUSIVA.  ROL  DA  ANS.  NATUREZA.  IRRELEVÂNCIA. INOVAÇÃO RECURSAL. NÃO CABIMENTO.
+1.  Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2.  É  obrigatório  o  custeio  pelo  plano  de  saúde  de  medicamento  antineoplásico  ou procedimento para  tratamento  de  câncer,  sendo  irrelevante  o  questionamento  acerca  da  natureza  taxativa  ou  exemplificativa  do  Rol  da  ANS.  Precedentes.
+3.  A alegação tardia de tese em agravo interno configura inovação recursal, insuscetível de exame diante da preclusão consumativa.
+4. Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Os  argumentos  expendidos  nas  razões  do  agravo  interno  são  insuficientes  para  autorizar  a  reforma  da  decisão  atacada.
+De início, verifica-se que não há omissão ou falta de fundamentação no julgado, pois a Corte local se pronunciou acerca da obrigatoriedade do exame solicitado pelo médico da parte agravante, senão vejamos:
+"(..) o tratamento requerido pelo demandante se insere nos critérios de exceção da taxatividade do rol dos Procedimentos e Eventos em Saúde Suplementar da ANS, ensejando a impossibilidade de recusa da ré, com o consequente dano moral in re ipsa, segundo o enunciado sumular 339 deste Tribunal: a recusa indevida ou injustificada, pela operadora de plano de saúde, de autorizar a cobertura financeira de tratamento médico enseja reparação a título de dano moral, tendo o quantum arbitrado atendido aos princípios da razoabilidade e da proporcionalidade e ao intuito punitivo e pedagógico do instituto" (e-STJ fl. 1.244).
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+No mais,  quanto ao mérito, o tribunal de origem assim se manifestou:
+"(..)
+A autora é usuária do plano de saúde da ré bem como que foi diagnosticada com câncer de mama, fls.34/35, necessitando realizar o exame ONCOTYPE DX, conforme solicitado pelo médico, fls.36/38, mas, a ré alega que o referido procedimento não consta do rol de procedimentos de cobertura obrigatória estabelecido pela ANS.
+(..)
+Evidenciada a concreta necessidade do exame não deve o plano de saúde interferir na indicação médica e se há previsão contratual para cobertura da doença deve ser estendida a todos os procedimentos necessários a preservação e o restabelecimento da saúde do paciente" (e-STJ fls. 910/912).
+O entendimento trazido no acórdão recorrido está em consonância com a jurisprudência desta Corte de Justiça, no sentido de que "Na hipótese de procedimento para o tratamento de câncer, a ausência de previsão no rol da ANS não afasta do plano de saúde a obrigação de custear o referido tratamento, nos termos recomendados pelo médico, com vistas à preservação da saúde do beneficiário se a doença é coberta contratualmente." (AgInt no REsp nº 2.108.594/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PLANO DE SAÚDE. OMISSÃO NÃO VERIFICADA. MEDICAMENTO PARA TRATAMENTO DE CÂNCER. COBERTURA OBRIGATÓRIA. SÚMULA N. 83/STJ. DANOS MORAIS CONFIGURADOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO PREJUDICADO.
+1. O órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses apresentadas. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução (AgInt no AREsp n. 1.400.882/SP, Quarta Turma, DJe de 30/9/2019; AgInt no AREsp n. 1.475.564/RS, Terceira Turma, DJe de 29/10/2020).
+2. Nos termos da jurisprudência desta Corte, a taxatividade do rol da ANS é desimportante para a análise do dever de cobertura de exames, medicamentos ou procedimentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução. Súmula n. 83/STJ.
+3. O usuário faz jus à indenização por danos morais se o descumprimento contratual, pela operadora de saúde, resultar em negativa indevida de cobertura e, dessa recusa, decorrer agravamento de sua dor, abalo psicológico ou prejuízos à sua saúde debilitada.
+4. A jurisprudência desta Corte é firme no sentido de que a redução ou a majoração do quantum indenizatório a título de dano moral é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n. 7 do STJ.
+5. O não conhecimento do recurso pela alínea "a" pela aplicação das Súmulas n. 7 e 83 do STJ impede o conhecimento pela alínea "c" do permissivo constitucional. Agravo interno improvido." (AgInt no AREsp n. 2.597.178/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/10/2024, DJe de 17/10/2024).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DEORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. FALTA DEPREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. PLANO DE SAÚDE.CÂNCER. TRATAMENTO. COBERTURA. NATUREZA DO ROL DA ANS. IRRELEVÂNCIA.REMÉDIO. CUSTEIO. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM AJURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. HONORÁRIOS SUCUMBENCIAIS.BASE DE CÁLCULO. CUSTEIO. EXCLUSÃO. SÚMULAS N. 282 E 356 DO STF.IMPOSSIBILIDADE. TESE CONTRÁRIA À JURISPRUDÊNCIA DA SEGUNDA SEÇÃO DO STJ.DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+3. Os planos de saúde possuem o dever de cobertura de procedimentos e exames integrantes do tratamento oncológico. Precedentes.
+4. Os planos de saúde possuem o dever de cobertura de antineoplásicos orais utilizados em tratamento contra o câncer. Precedentes.
+4.1. O Tribunal de origem determinou o custeio, pelo plano de saúde, do remédio integrante do tratamento de câncer da parte agravada, conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior.
+5. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n.83/STJ).
+6. Nos casos de obrigação de fazer referente ao custeio do tratamento de saúde cumulada com o pedido de danos morais, a base de cálculo da verba honorária sucumbencial corresponderá à soma da cobertura negada e da verba indenizatória mencionada. Nesse sentido: Embargos de Divergência no Agravo em Recurso Especial n. 198.124/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em27/4/2022, DJe de 11/5/2022.
+6.1. Não prospera o pedido de agravante de excluir o valor do procedimento cirúrgico da base de cálculo da verba honorária dos advogados da contraparte.
+7. Agravo interno a que se nega provimento." (AgInt no AREsp n. 2.656.601/RJ, relator Ministro Antonio Carlos Ferreira,Quarta Turma, julgado em 23/9/2024, DJe de 26/9/2024).
+Dessa forma,  o  tribunal  de  origem  esclarece  que  a  autora,  beneficiária  do  plano  de  saúde  ,  pretendeu  o  fornecimento  do  exame  Oncotype DX,  fato  incontroverso  nos  autos,  sendo que  é  obrigatório  seu  fornecimento  pelo  plano  de  saúde.
+A esse respeito:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  RECUSA  DE  COBERTURA  DE  MEDICAMENTO.  PACIENTE  EM  TRATAMENTO  DE  CÂNCER.  RECUSA  ABUSIVA.  PRECEDENTES  DO  STJ.  HONORÁRIOS  ADVOCATÍCIOS  FIXADOS  ENTRE  10  E  20  POR  CENTO  DO  VALOR  DA  CAUSA.  DECISÃO  DE  ACORDO  COM  A  JURISPRUDÊNCIA  DO  STJ.  INCIDÊNCIA  DA  SÚMULA  83/STJ.  AGRAVO  DESPROVIDO.
+1.  Por  ocasião  do  julgamento  do  REsp  1.733.013/PR,  "fez-se  expressa  ressalva  de  que  a  natureza  taxativa  ou  exemplificativa  do  aludido  rol  seria  desimportante  à  análise  do  dever  de  cobertura  de  medicamentos  para  o  tratamento  de  câncer,  em  relação  aos  quais  há  apenas  uma  diretriz  na  resolução  da  ANS"  (AgInt  no  REsp  1.949.270/SP,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  21/02/2022,  DJe  de  24/02/2022).
+2.  No  caso,  trata-se  de  medicamento  vinculado  a  tratamento  de  câncer,  hipótese  em  que  a  jurisprudência  é  assente  no  sentido  de  que  a  cobertura  é  obrigatória.  Nesse  sentido:  AgInt  no  REsp  1.911.407/SP,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  18/05/2021,  DJe  de  24/05/2021;  AgInt  no  AREsp  1.002.710/SP,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  04/05/2020,  DJe  de  07/05/2020;  AgInt  no  AREsp  1.584.526/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  10/03/2020,  DJe  de  17/03/2020.
+(..)
+6.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  REsp  2.053.152/SP,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  19/6/2023,  DJe  de  23/6/2023  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OPERADORA  DE  PLANO  DE  SAÚDE.  NEGATIVA  DE  COBERTURA.  MEDICAMENTO  ANTINEOPLÁSICO.  TRATAMENTO  DE  CÂNCER.  RECUSA  INDEVIDA.  PRECEDENTES.  REDUÇÃO  DO  QUANTUM  INDENIZATÓRIO.  IMPOSSIBILIDAD  E.  CRITÉRIOS  DE  RAZOABILIDADE  E  PROPORCIONALIDADE  ATENDIDOS.  SÚMULA  7/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  jurisprudência  desta  Corte  Superior  firmou-se  no  sentido  de  que  as  operadoras  de  plano  de  saúde  possuem  o  dever  de  cobertura  de  fármacos  antineoplásicos  orais,  utilizados  em  tratamento  contra  o  câncer.
+2.  Modificar  o  entendimento  do  Tribunal  local,  acerca  da  configuração  dos  danos  morais  e  do  respectivo  quantum  indenizatório,  incorrerá  em  reexame  de  matéria  fático-probatória,  o  que  é  inviável,  devido  ao  óbice  da  Súmula  7/STJ.
+3.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.810.182/MA,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  12/6/2023,  DJe  de  14/6/2023  -  grifou-se).
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  REPARAÇÃO  POR  DANOS  MATERIAIS.  CONTRATO  DE  PLANO  DE  SAÚDE.  TRATAMENTO  DE  CÂNCER.  FORNECIMENTO  DE  MEDICAMENTO  PRESCRITO  POR  MÉDICO  ASSISTENTE.  ROL  DE  PROCEDIMENTOS  DA  ANS.  DESIMPORTÂNCIA.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Nos  termos  da  jurisprudência  deste  Corte,  a  natureza  taxativa  ou  exemplificativa  do  rol  da  ANS  é  desimportante  à  análise  do  dever  de  cobertura  de  medicamentos  para  o  tratamento  de  câncer,  em  relação  aos  quais  há  apenas  uma  diretriz  na  resolução  normativa.  Precedentes.
+2.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+3.  Agravo  interno  não  provido"  (AgInt  no  REsp  2.057.814/SP,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  29/5/2023,  DJe  de  31/5/2023  -  grifou-se).
+Por fim, quanto ao argumento de violação ao princípio da irretroatividade da lei, verifica-se que tal pleito, formulado apenas no presente momento processual, caracteriza-se como indevida inovação recursal, já que não constou das razões do recurso especial.
+Dessa maneira, com a configuração da inovação recursal, incide, no ponto, a preclusão, de forma a impedir o exame da questão.
+Assim ,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
