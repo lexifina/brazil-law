@@ -1,0 +1,13 @@
+DECISÃO
+JORGE ALVES alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que não conheceu de habeas corpus que objetivava a concessão de prisão domiciliar durante o regime fechado, por motivo de saúde, pretensão que reitera a esta Corte.
+Decido.
+Não é possível conhecer do habeas corpus, por vários motivos.
+A questão não foi conhecida pelo Tribunal de Justiça e, "nos termos do art. 105 da CF, não pode esta Corte, em indevida supressão de instância, deliberar sobre a matéria não decidida em segundo grau" (AgRg no HC n. 846.404/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Ademais, o impetrante deixou de juntar aos autos a decisão de primeiro grau, apontada como ilegal, o que impede a análise das razões apresentadas ao Juiz da VEC e o fundamento para a negativa do pedido de prisão domiciliar humanitária. Assim, foi descumprido o "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+Finalmente, destaca-se que o habeas corpus não é o meio adequado para a produção de provas, sendo inviável, nessa via, apurar a real condição de saúde do apenado.
+O próprio impetrante, na petição inicial, transcreve que o Juiz da VEC foi instado a deferir a prisão domiciliar porque o sentenciado sofria "de Catarata, estando em tratamento médico, bem como possui hiperinsuflação pulmonar difusa" (fl. 4). Contudo, o Magistrado indeferiu negou o benefício humanitário porque as alegações não foram provadas por "documentos colacionados aos autos" (fl. 4).
+Ressalte-se que o "câncer - neoplasia gástrica - CID C16" (fl. 3), ao que tudo indica, não foi indicado ao Juiz da Execução. Além disso, não há laudo médico conclusivo sobre essa doença e sobre a precariedade do estado de saúde do apenado (falta de prova inequívoca e pré-constituída das alegações).
+Vale lembrar que o juiz não tem formação técnica para interpretar imagens ou exames médicos. Cabe à parte, em primeiro grau e evitando a supressão de instância, juntar ao processo de execução um laudo médico conclusivo, que enumere as doenças do apenado, seu quadro clínico atual e o tratamento prescrito. A defesa, inclusive, pode requerer diligências ao Juiz da VEC para esclarecer fatos relevantes, no caso de dúvida sobre os impressos apresentados.
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
