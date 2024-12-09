@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, III, da Constituição Federal.
+Na origem, o ente público interpôs agravo de instrumento contra decisão, em cumprimento de sentença, que deferiu os pedidos de habilitação formulados na petição inicial, bem como de reexpedição de requisitório cancelado, nos termos do art. 3º, da Lei 13.463/2017.
+O TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO negou provimento ao agravo de instrumento, ficando consignado que "o ordenamento processual civil brasileiro veda o julgamento de decisão de mérito não mais sujeita a recurso (coisa julgada material) e a discussão no curso do processo de questões já decididas a cujo respeito se operou a preclusão".
+O referido acórdão foi assim ementado, in verbis:
+PROCESSUAL CIVIL. PROCESSO DE HABILITAÇÃO DE HERDEIROS. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CAPACIDADE PROCESSUAL. QUESTÃO JÁ SUBMETIDA A JULGAMENTO DESTA CORTE. COISA JULGADA/PRECLUSÃO. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+1. Agravo de Instrumento contra decisão que, em processo incidental de habilitação, deferiu o pedido de habilitação e reexpedição de precatório em favor dos herdeiros de exequente falecido.
+2. A agravante defende, em síntese, a inexistência de capacidade processual para a propositura do cumprimento de sentença/execução em epígrafe, por ter o autor falecido antes do ajuizamento da ação de conhecimento.
+3. A questão trazida a julgamento através do presente recurso já foi submetida à apreciação deste egrégio Tribunal pela interposição, pelo SINDECON, do Agravo de Instrumento nº 0801488-19.2016.4.05.0000, o qual foi provido por esta Corte (que considerou válida a execução proposta pelo Sindicato mesmo após o óbito do substituído de que trata o feito) e transitou em julgado em 19/03/2020.
+4. O ordenamento processual civil brasileiro veda o julgamento de decisão de mérito não mais sujeita a recurso (coisa julgada material) e a discussão no curso do processo de questões já decididas a cujo respeito se operou a preclusão, nos termos dos arts. 502 e 207 do Código de Processo Civil.
+5. Agravo de instrumento não provido.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 313, I, §§ 1º e 2º, II e 485, IV, do CPC e dos arts. 6º, 682, II e 692 do Código Civil, sustentando, em síntese, que a ação originária não poderia ter sido proposta por pessoa sem capacidade processual.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início - e para a certeza das coisas - é esta a letra do acórdão recorrido, transcrita no que interessa à espécie (fls. 135-136):
+Inicialmente, vale ressaltar que o Juízo a quo consignou, no processo de habilitação em tela, que já havia proferido decisão nos autos principais (0001441-83.1997.4.05.8200) excluindo da execução todos os substituídos falecidos antes do ajuizamento da ação, tendo o Sindicato dos Servidores do Ministério da Economia, Fazenda e Planejamento Na Paraíba - SINDECON interposto agravo de instrumento (0801488-19.2016.4.05.0000), ao qual foi dado integral provimento, considerando-se válidas as execuções propostas pelos substituídos falecidos de que trata o feito.
+Com efeito, a respeito da questão trazida a julgamento através do presente recurso, há que se observar já ter sido a mesma submetida à apreciação por este egrégio Tribunal pela interposição pelo SINDECON do Agravo de Instrumento nº 0801488-19.2016.4.05.0000, o qual foi provido por esta Corte e transitou em julgado em 19/03/2020. Vale a transcrição do referido julgado:
+(..)
+Ademais, o ordenamento processual civil brasileiro veda o julgamento de decisão de mérito não mais sujeita a recurso (coisa julgada material) e a discussão no curso do processo de questões já decididas a cujo respeito se operou a preclusão, nos termos dos arts. 502 e 207 do Código de Processo Civil.
+O recorrente, ao elaborar seus argumentos de recurso especial, no sentido de que "a parte autora faleceu em 07/04/1994 (documento de id.4058200.8543271, fl. 1), antes de propor a ação originária (em 1997 - processo nº 0001441-83.1997.4.05.8200), de forma que tal cenário fático revela a manifesta ausência de condição da ação, por força da inexistência de capacidade de ser parte nas demandas propostas após seu falecimento, na medida em que a morte da parte impõe a extinção dos poderes então concedidos na fase de conhecimento", se distanciou do fundamento adotado pelo acórdão recorrido.
+Uma vez apresentadas razões de recurso especial dissociadas do fundamento do acórdão combatido que se mostra suficiente para manter o decisum atacado, resta inviabilizada a exata compreensão da controvérsia por deficiência na argumentação recursal. Incidência das Súmulas 284/STF e 283/STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284 É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS. SÚMULAS N. 283 E 284 DO STF.
+1. O pedido de reconsideração pode ser recebido como agravo regimental em cumprimento aos princípios da economia processual e da fungibilidade dos recursos.
+2. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações que não guardam correlação com o decidido nos autos.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+(RCD no AREsp n. 456.659/SP, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 3/11/2015).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONCURSO PÚBLICO. DELEGADO DE POLÍCIA FEDERAL. CURSO DE FORMAÇÃO. NOMEAÇÃO E POSSE. PRESCRIÇÃO. FUNDAMENTO NÃO ATACADO. SÚMULAS 283 E 284/STF. LITISPENDÊNCIA. PEDIDOS DIVERSOS. INÚMEROS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULAS 211/STJ E 282/STF.
+1. "A indicação de violação de dispositivo legal que nem sequer foi debatido pelo Tribunal de origem obsta o conhecimento do recurso especial pela ausência de prequestionamento. Aplicação dos enunciados n. 282 da Súmula do STF e 211 da Súmula do STJ." (AgRg no AREsp 609.946/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2015, DJe 27/08/2015).
+2. "A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal". (AgRg no REsp 1507662/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015).
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.170.131/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 19/10/2015).
+Além disso, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+Ademais, ainda que possível fosse ultrapassar o óbice supra, registre-se que o Superior Tribunal de Justiça tem entendimento consolidado no sentido de que o sindicato possui legitimidade ativa para substituir os sucessores de servidores falecidos, ainda que o óbito tenha ocorrido antes do ajuizamento da ação de conhecimento.
+Isso porque o sucessor de servidor falecido integra a categoria substituída pelo sindicato na qualidade de pensionista, a qual depende do vínculo firmado pela pensão, e não pela sua filiação à entidade substituidora.
+Confiram-se os precedentes:
+PROCESSUAL CIVIL. NA ORIGEM. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA FAZENDA PÚBLICA. TÍTULO JUDICIAL COLETIVO. FALECIMENTO DE SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. HABILITAÇÃO DE SUCESSORES. LEGITIMIDADE. PRECATÓRIO. CANCELAMENTO. EXPEDIÇÃO DE NOVA REQUISIÇÃO. POSSIBILIDADE. AGRAVO DE INSTRUMENTO IMPROVIDO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO.
+I - Na origem, trata-se de agravo de instrumento interposto por União contra decisão que, nos autos de cumprimento de sentença, deferiu a habilitação formulada pelos herdeiros do exequente. No STJ, cuida-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+(..)
+IV - O Superior Tribunal de Justiça tem entendimento consolidado no sentido de que o sindicato possui legitimidade ativa para substituir os sucessores de servidores falecidos, ainda que o óbito tenha ocorrido antes do ajuizamento da ação de conhecimento.
+V - Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+VI - Quanto à alegação de que a Comissão Gestora de Precedentes selecionou recursos especiais para afetação, é importante destacar que ainda não houve afetação dos recursos especiais, nos termos do art. 1.036 do CPC/2015, e, portanto, não obriga o relator a suspender o trâmite do recurso especial.
+VII - Agravo interno improvido.
+(AgInt no REsp n. 2.105.674/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SINDICATO. ÓBITO DE SUBSTITUÍDO. HABILITAÇÃO DE SUCESSORES. POSSIBILIDADE. PROVIMENTO NEGADO.
+1. A jurisprudência desta Corte é firme no sentido de que o sindicato possui legitimidade ativa para substituir os sucessores de servidores falecidos, independentemente de o óbito ter ocorrido antes do ajuizamento da ação coletiva ou da execução.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.995.666/AL, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO COLETIVA PROPOSTA POR SINDICATO. ÓBITO DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. LEGITIMIDADE ATIVA DOS PENSIONISTAS PARA EXECUTAR O TÍTULO COLETIVO. PRECEDENTES.
+1. O aresto recorrido destoa da jurisprudência do STJ segundo a qual: a) o título executivo oriundo de ação coletiva abrange os servidores e pensionistas incluídos na categoria representada pelo substituto processual; b) o sindicato tem legitimidade ativa para substituir o pensionista diante da natureza do vínculo que a pensão gera em relação à ele, incluído, portanto, na categoria representada pelo sindicato, sendo desnecessária sua efetiva filiação à entidade.
+Precedentes.
+2. Agravo Interno não provido.
+(AgInt no REsp n. 2.001.114/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/10/2022, DJe de 4/11/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO CIVIL PÚBLICA AJUIZADA POR SINDICATO. ÓBITO DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. LEGITIMIDADE ATIVA DOS PENSIONISTAS PARA EXECUTAR O TÍTULO COLETIVO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que "o título executivo oriundo de ação coletiva abrange os servidores e pensionistas incluídos na categoria representada pelo substituto processual", e que "o sindicato possui legitimidade ativa para substituir a pensionista diante da natureza do vínculo que a pensão gera em relação à viúva do servidor, devendo esta ser incluída, portanto, na categoria representada pelo sindicato, sendo desnecessária sua efetiva filiação à entidade".
+2. O acórdão recorrido está em sintonia com a jurisprudência desta Corte segundo a qual mostra-se possível a habilitação da pensionista durante o curso do processo em trâmite pelo servidor representado pelo sindicato a qual aquele é filiado.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.928.282/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/3/2022, DJe de 17/3/2022.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
