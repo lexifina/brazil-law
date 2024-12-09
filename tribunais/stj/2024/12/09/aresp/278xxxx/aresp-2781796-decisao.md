@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por URBAN INC - INCORPORAÇÕES E PARTICIPAÇÕES S.A. (URBAN) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 137/139).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, URBAN alegou, a par de divergência jurisprudencial, a violação dos arts. 85, § 2º, 494, I, e 515, §§ 1º e 2º, 545, I e II, 489, II, § 1º, IV e VI, 1.022, I e II, e 1.025 do CPC, e 406 do CC, ao sustentar (1) a ausência de fundamentação e omissão do acórdão recorrido acerca das questões suscitadas em embargos de declaração; (2) a existência de erro na base de cálculo dos honorários de sucumbência fixados no título judicial transitado em julgado, o que configurou excesso de execução; e (3) a possibilidade de aplicação da taxa SELIC na atualização do débito exequendo.
+Trata-se de agravo de instrumento interposto pela ora insurgente contra a decisão do Juízo singular que, nos autos da ação de consignação em pagamento decorrente de despesas condominiais ajuizada em desfavor de CONDOMÍNIO SALETE RESIDENCIAL CLUB, ora em fase de cumprimento de sentença referente aos honorários sucumbenciais, deferiu o pedido de alienação em leilão judicial eletrônico do imóvel penhorado e nomeu o leiloeiro oficial.
+(1) Da violação dos arts. 489, II, § 1º, IV e VI, e 1.022, I e II, do CPC
+Verifica-se que, apesar de apontar a negativa de prestação jurisdicional, a ora insurgente não indicou, precisamente, quais seriam os vícios perpetrados pela Corte estadual, ou seja, não especificou os pontos omissos ou contraditórios do aresto combatido, limitando-se a afirmar que o Tribunal local não teria apreciado os pontos invocados nas razões do seu apelo.
+Sendo assim, inviável a análise de violação ao referido dispositivo processual, pois a veiculação do inconformismo de forma genérica, sem a especificação dos pontos reputados omissos, obscuros ou contraditórios no julgamento do aresto combatido, inviabiliza a compreensão da controvérsia, atraindo, no particular, a incidência da Súmula n.º 284 do STF, por analogia.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO DEMONSTRADA. OCORRÊNCIA. DIREITO DE REGRESSO. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS. ENUNCIADO 284 DA SÚMULA. MULTA DO ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL/2015. CARÁTER PROTELATÓRIO. INEXISTÊNCIA. AFASTAMENTO. PARCIAL PROVIMENTO.
+1. O agravante limitou-se a mencionar, genericamente, que houve omissão sem, contudo, esclarecer os pontos sobre os quais o Tribunal de origem foi omisso, atraindo o óbice do enunciado 284 da Súmula do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Não houve indicação dos dispositivos legais que teriam sido interpretados de forma divergente, o que faz incidir, no ponto, o enunciado 284 da Súmula do STF.
+4. Não identificado o caráter protelatório dos embargos de declaração ou o abuso da recorrente pela sua oposição, impõe-se o afastamento da multa processual, nos termos do enunciado 98 da Súmula do STJ.
+5. Agravo interno parcialmente provido.
+(AgInt no AREsp n.º 1.493.638/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 11/5/2020, DJe de 18/5/2020 - sem destaque no original.)
+(2) Do excesso de execução
+Sobre o tema, ao julgar o agravo de instrumento interposto por URBAN, afastando a existência de erro aritmético na base de cálculo dos honorários de sucumbência, e o consequente excesso de execução, o TJSP assim consignou:
+Não prospera, portanto, a alegação de erro na base cálculo dos honorários de sucumbência ("observa-se no dispositivo do título judicial que a base de cálculo dos honorários advocatícios é o "valor do débito" que, segundo restou consignado, é de R$ 5.813,76" - fl. 12), já que o valor do débito corresponde a R$ 58.137,64 (cinquenta e oito mil e cento e trinta e sete reais e sessenta e quatro centavos) referente às despesas condominiais em atraso, conforme se verifica do trecho do acórdão supratranscrito, sendo essa quantia tomada como base para a incidência do percentual de 20% a título de honorários advocatícios fixados na sentença e confirmados no mencionado acórdão (10% previstos na convenção condominial na hipótese de cobrança "amigável"  10% sucumbenciais, totalizando 20% tal como constante na convenção condominial), nos termos do cálculo apresentado na inicial desta fase de cumprimento (fls. 1/2 de origem)  e-STJ, fl. 67 .
+Desse modo, a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, no sentido de reconhecer a existência de erro de cálculo e consequente excesso de execução, exigiria o reexame das circunstâncias fáticas da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+(3) Da aplicação da taxa SELIC
+Por fim, com relação ao percentual dos juros legais é preciso observar a orientação fixada pela Corte Especial no julgamento de recurso especial repetitivo, no sentido de que por força do art. 406 do atual CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA E CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. TERMO INICIAL. RELAÇÃO CONTRATUAL. CITAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Nas condenações posteriores à entrada em vigor do Código Civil de 2002 (janeiro de 2003), deve-se aplicar a Taxa Selic, abrangente de juros e correção monetária, vedada sua cumulação com qualquer outro índice a título de atualização monetária. Precedentes.
+2. A jurisprudência desta Corte se firmou no sentido de que, "em se tratando de reparação de dano moral, os juros de mora incidem desde o evento danoso em casos de responsabilidade extracontratual (Súmula 54/STJ); e desde a citação da parte ré no caso de responsabilidade contratual" (EDcl nos EREsp 903.258/RS, Relator p/ acórdão Ministro João Otávio de Noronha, Corte Especial, julgado em 06.05.2015, DJe de 11.06.2015).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n.º 1.742.585/GO, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 9/9/2024, DJe de 16/9/2024.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PROCEDIMENTO CIRÚRGICO REALIZADO PARA RESOLVER SÍNDROME DA APNÉIA
+OBSTRUTIVA DO SONO (SASO). FALECIMENTO DO PACIENTE. CONTRADIÇÃO VERIFICADA NO ACÓRDÃO EMBARGADO, QUANTO AO TERMO INICIAL DOS JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. JUROS MORATÓRIOS QUE DEVEM INCIDIR A PARTIR DA CITAÇÃO. APLICAÇÃO DA TAXA SELIC. JURISPRUDÊNCIA PACÍFICA DO STJ.
+EMBARGOS ACOLHIDOS PARCIALMENTE, COM EFEITOS INFRINGENTES.
+ .. .
+6. É pacífico o entendimento do STJ no sentido de que, "atualmente, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, sendo inviável a sua cumulação com outros índices de atualização monetária" (AgInt no AREsp 1.199.672/PR, Relator o Ministro Marco Buzzi, DJe de 8/10/2021).
+7. Embargos de declaração acolhidos, em parte, com efeitos modificativos.
+(EDcl no REsp n.º 1.848.862/RN, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 10/6/2024, DJe de 13/6/2024.)
+Nessas condições, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial, apenas para permitir a utilização da taxa SELIC em substituição aos juros de mora e à atualização monetária incidentes sobre o débito judicial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA N.º 284 DO STF, POR ANALOGIA. (2) ALEGAÇÃO DE ERRO DE CÁLCULO. EXCESSO DE EXECUÇÃO. OFENSA À COISA JULGADA. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. (3) JUROS DE MORA E CORREÇÃO MONETÁRIA. SUBSTITUIÇÃO PELA TAXA SELIC. POSSIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
