@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Hugo Leonardo Duarte Bleichvehl, apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina nos autos da Apelação Criminal e respectivos Embargos de Declaração n. 5113392-46.2022.8.24.0023.
+Consta do processo que o paciente foi condenado, em primeiro grau de jurisdição, à pena privativa de liberdade de 30 anos de reclusão, em regime inicial fechado, e ao pagamento de 16 dias-multa, pela prática do delito previsto no art. 157, § 3º, II, c/c o art. 61, I, ambos do Código Penal (fls. 445/455).
+A defesa interpôs recurso de apelação, tendo o Tribunal de origem negado provimento ao apelo (fls. 562/573).
+Opostos embargos declaratórios, esses foram conhecidos e acolhidos em parte, apenas para sanar a omissão apontada (fls. 598/600).
+Neste writ, a defesa aponta, em síntese, a existência de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de provas suficientes para a comprovação da autoria delitiva. Sustenta, também, a existência de ilegalidade na fração de aumento pela reincidência e a necessidade de aplicação da causa de diminuição de pena pela tentativa.
+Requer, ao final, seja reconhecida a nulidade do reconhecimento pessoal como prova, seja adequada a fração empregada pela agravante de reincidência e seja reconhecida a tentativa, com a adequação da pena do Paciente a absolvição do paciente por ausência de provas válidas e suficientes para a condenação (fls. 3/18).
+O pedido liminar foi indeferido (fls. 607/608).
+Foram prestadas informações às fls. 615/618 e 619/666.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 671/686).
+É o relatório.
+Conforme acima relatado, alega inicialmente a defesa não haver provas suficientes para a condenação do paciente, aduzindo que o reconhecimento feito em solo policial não observou os ditames do art. 226 do Código de Processo Penal.
+Todavia, ao contrário do que sustenta a defesa, a prova da autoria decorreu de provas robustas e independentes, conforme se verifica da fundamentação lançada pelo acórdão atacado, que manteve a condenação do réu (fls. 566 e 571):
+E é esse o caso dos autos, pois, muito embora a defesa repute frágil o reconhecimento realizado na delegacia, a condenação está amparada em um feixe robusto de provas, notadamente no fato de a esposa da vítima e a testemunha presencial terem ratificado em juízo o reconhecimento realizado na fase policial.
+Importa destacar, aliás, que a autoria delitiva é definida não apenas pela esposa da vítima e pela testemunha Felipe da Silva Ferreira, mas também por terceira pessoa que esteve junto ao acusado logo após o delito e o relato dos policiais responsáveis pela investigação.
+Nesse sentido, vale-se das transcrições realizadas pelo magistrado por ocasião da sentença, uma vez fiéis aos conteúdos dos vídeos presentes no inquérito policial (autos 51088698820228240023, ev. 1) e nas duas audiências de instrução (ev. 81 e 142-1G):
+ ..
+Analisando os depoimentos colhidos nas duas etapas, inviável qualquer tentativa de retirar o apelante da cena criminosa.
+Tanto a esposa da vítima, Queli, quando o vizinho e testemunha ocular, Felipe, foram uníssonos e firmes ao dizerem que reconhecem o apelante, sem sombra de dúvidas, como a pessoa que entrou na residência do ofendido para subtrair alguns fios e, instantes depois, já no meio da rua, desferiu-lhe uma facada, levando o ofendido a óbito. Felipe chega a mencionar ter ficado "frente a frente" com o acusado, asseverando que jamais irá esquecer seu rosto. Já a testemunha Queli rememora que o recorrente chegou na Delegacia de polícia com as mesmas vestes usadas no dia do crime, ocorrido dois dias antes, em especial a camiseta preta com um logo branco na parte da frente.
+Um detalhe indicado por ambos os testigos era o fato de o suspeito caminhar de forma claudicante, característica que auxiliou os policias na sua identificação.
+Vale destacar, também, que no dia seguinte ao latrocínio os investigadores levaram um suspeito para reconhecimento das testemunhas, mas ambas negaram conhecer o primeiro suspeito. Foi somente com a chegada do recorrente, no dia seguinte, que a autoria delitiva resultou esclarecida.
+Soma-se a isso as palavras da testemunha Juliano, colhidas na Delegacia, oportunidade em que confirmou estar com o apelante quando da abordagem policial. Aduziu que o denunciado lhe confidenciou ter se envolvido numa briga com faca no dia anterior, e que, de forma confusa, mencionou que haviam matado uma pessoa com o uso de arma branca.
+Assim, existindo testemunha presencial do início da subtração, bem como testemunha ocular da morte da vítima, ambas reconhecendo o recorrente como autor das condutas, não há acolher o pleito absolutório formulado nas razões recursais.
+Pelo que se extrai dos autos, houve o reconhecimento do réu tanto pela esposa da vítima quanto pelo vizinho e testemunha ocular dos fatos, Felipe. Além disso, Queli afirmou que viu o acusado chegar na Delegacia com as mesmas vestimentas utilizadas no dia do crime. Outro elemento de prova foi o fato de as testemunhas apontarem que o paciente caminhava de forma claudicante. Somado a isso, uma terceira testemunha confirmou que esteve com o paciente quando ele foi abordado pela polícia e que ele havia lhe confessado ter se envolvido numa briga com faca no dia anterior, e que, de forma confusa, mencionou que haviam matado uma pessoa com o uso de arma branca (fl. 571).
+Dessa forma, diante de tal conjuntura fático-processual, não há como acolher o pleito absolutório, pois ainda que, eventualmente, não tenha observado as exigências legais insculpidas no art. 226 do Código de Processo Penal, não se afigura como o único elemento probatório que lastreou a condenação, não havendo, assim, falar em nulidade das provas.
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça: AgRg no HC n. 763.779/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/12/2022; AgRg no HC n. 797.738/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/4/2023; e AgRg nos EDcl no HC n. 711.647/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/3/2022.
+Assim, demonstrada fundamentadamente pelas instâncias a quo a autoria delitiva, rever tal conclusão reclamaria ampla incursão no acervo fático-probatório, inviável nesta via.
+No mais, quanto ao pleito de redução da fração empregada na agravante de reincidência, assim se manifestou o Tribunal local (fl. 572):
+2.2 Na etapa intermediária a defesa se insurge quanto à fração de 1/2 utilizada pelo magistrado ao aplicar a agravante da reincidência.
+Sem razão.
+Isso porque o apelante possui cinco condenações definitivas aptas a caracterizar a reincidência (ev. 2-1G). Nesse contexto, adotando-se o critério progressivo, reiteradamente utilizado em nosso Tribunal, chega-se à fração de 1/2, exatamente a mesma presente na sentença corrida.
+Não verifico ilegalidade na exasperação realizada, pois a jurisprudência desta Corte de Justiça é consolidada no sentido de que é proporcional maior aumento na segunda fase na hipótese de se tratar de réu multirreincidente (AgRg no HC n. 835.360/SC, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 1º/3/2024).
+Por fim, quanto ao pleito de reconhecimento da tentativa, também não assiste razão à defesa.
+A esse respeito, disse o acórdão atacado (fl. 573):
+2.3 Por fim, a defesa pretende o reconhecimento do crime tentado, ao argumento de não ter sido subtraído qualquer bem da vítima.
+Ocorre que, muito embora efetivamente o apelante não tenha logrado êxito em levar consigo os fios que estavam na residência da vítima, é incontroverso que a ação contra a vida lamentavelmente se consumou.
+Dentro desse cenário, é firme a jurisprudência em reconhecer como consumado o crime de latrocínio, pois, em se tratando delito complexo, as ações mais graves têm preferência ao restante da conduta. Nesse viés, se o resultado morte ocorreu, torna-se irrelevante verificar se a res furtiva foi efetivamente surrupiada.
+Esse raciocínio está sedimentado no Supremo Tribunal Federal por meio do enunciado presente na Súmula 610, com o seguinte teor: "há crime de latrocínio, quando o homicídio se consuma, ainda que não realize o agente a subtração de bens da vítima".
+ ..
+Dessa forma, existindo a morte da vítima após ter sido golpeada com uma faca pelo recorrente, torna-se irrelevante para a consumação do delito o fato de deste ter se evadido sem levar qualquer objeto da residência, devendo ser mantida a condenação pelo crime previsto no art. 157, §3º, II, do Código Penal, sem qualquer alteração.
+Verifica-se, pois, que tendo havido o resultado morte, não há falar em tentativa, mesmo que não tenha havido a subtração de qualquer bem, inclusive porque o agente portava uma faca, assumindo, portanto, o risco de provocar o resultado morte, o que efetivamente ocorreu.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LATROCÍNIO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO E FRAGILIDADE PROBATÓRIA. CONDENAÇÃO FIRMADA EM PROVAS ROBUSTAS DA AUTORIA. AGRAVANTE. FRAÇÃO DE AUMENTO. LEGALIDADE. RÉU MULTIRREINCIDENTE. TENTATIVA. IMPOSSIBILIDADE DE RECONHECIMENTO. MORTE CONSUMADA.
+Ordem denegada.
