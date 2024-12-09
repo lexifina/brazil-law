@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., com fundamento no artigo 105, III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE SAÚDE - Negativa de cobertura de tratamento com Ketocal - Pleito cumulado com indenização por danos materiais e morais - Procedência decretada - Reconhecimento do dever da ré de custear a dieta enteral indicada ao autor, de acordo com a solicitação do médico que o atende, bem como a reembolsar os valores gastos com a compra ante a negativa, devidamente comprovado nos autos - Recurso especial interposto pela ré - Acolhimento pela Instância Superior determinando o retorno dos autos a esta Corte para que seja novamente analisado o recurso de apelação, considerando os parâmetros traçados pela jurisprudência da Segunda Seção do STJ no julgamento da causa - Alegação da ré de que não se trata de medicamento, mas sim de alimentação domiciliar, sem internação, com expressa exclusão contratual, não constando do rol de procedimentos obrigatórios da ANS - Inadmissibilidade - Empresa prestadora de serviços de assistência médica que não pode interferir na indicação feita pelo médico - Aplicação de novas técnicas que decorrem da evolução da medicina, sendo exigível, para defesa do consumidor a especificação de não cobertura nos contratos - Precedentes - Documentos juntados aos autos, em especial o pedido médico, que justificam a necessidade da dieta enteral indicada - Dever da ré, assim, de custear a dieta enteral indicada ao autor, consoante prescrição médica, bem como a reembolsar os valores gastos para aquisição da dieta ante sua negativa, devidamente comprovados nos autos, nos termos do decisum - Decisão mantida. " (e-STJ fl. 337).
+No recurso especial, a recorrente alega violação dos artigos 10, §4º, da Lei 9.656/1998; 186, 188, I, e 927 do Código Civil e 1.022 do Código de Processo Civil.
+Sustenta que "(..) há omissão em relação a alegação de que não existe obrigação legal e nem contratual para que a Recorrente custeie a dieta enteral/oral cetogênica (Ketocal) da parte Recorrida" (e-STJ fl. 357).
+Aduz, ainda, que o rol da ANS é taxativo, não estando obrigado a fornecer medicamento que não esteja ali listado nem previsto em contrato.
+Por fim, afirma ser ilegal sua condenação em danos morais.
+Sem contrarrazões.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+De início, registra-se a impossibilidade de conhecimento da insurgência quanto ao art. 1.022 do CPC, haja vista a parte recorrente não ter oposto embargos declaratórios na origem.
+Ademais, extrai-se das razões recursais que a operadora, não refutou os fundamentos adotados pela Corte local, segundo os quais: não há no contrato celebrado cláusula contratual de exclusão de cobertura para a doença que atingiu o autor; há necessidade da dieta para melhora na vida do paciente, recomendada pelo médico; deve-se observar a boa-fé contratual; cabe à ré demonstrar a ineficácia do tratamento ou mesmo a existência de outro eficaz para o caso, o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
