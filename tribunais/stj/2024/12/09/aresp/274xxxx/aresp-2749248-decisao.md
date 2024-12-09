@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SINDICATO DOS EMPREGADOS EM EMPRESAS DE PROCESSAMENTO DE DADOS, SERV COMP, INFORM TEC. INFORM E TRAB PROCESS DADOS, SERV COMP, INFORM E TEC INFORM ESP (SINDICATO) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, SINDICATO alegou a violação dos arts. 206, §3º, e 884 do CC, aduzindo que prescreve em três anos a pretensão de cobrança de valores retidos, porquanto amparada em inexistência de contrato de prestação de serviços advocatícios, embasando-se em responsabilidade extracontratual ou enriquecimento sem causa (e-STJ, fls. 492/508).
+Do prazo prescricional
+O Tribunal estadual consignou que, embora inexista contratação entre o SINDICATO e as autoras, a retenção pelo SINDICATO da verba cobrada na presente demanda foi realizada a título de honorários de advogado, o que ensejaria a aplicação de prazo prescricional quinquenal previsto no art. 25-A da Lei nº 8.906/94, confira-se:
+A sentença proferida considerou que o prazo prescricional para a reclamação das demandantes era de 3 anos, quer fundado no enriquecimento ilícito, quer na reparação civil, fulminando a pretensão delas com base no disposto no art. 206, § 3º, IV e V, do Código Civil, dando ênfase ao fato de que aqui não se tratava de relacionamento contratual.
+Mas, assim não deve ser, com a devida vênia, pois embora não exista contratação direta entre o sindicato e as autoras, o fato é que ele reteve a importância reclamada na petição inicial, a título de honorários de advogado, e se é assim ao menos estariam elas favorecidas pela norma do art. 25-A da Lei 8.906/94, que estabelece o prazo de 5 anos para a prestação de contas recebidas pelo advogado de seu cliente (e-STJ, fls. 438/439).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que o enriquecimento ilícito tem como pressuposto a ausência de relação jurídica entre as partes.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES INDEVIDAS. RESTITUIÇÃO. FUNDAÇÃO CESP. PRESCRIÇÃO. PRAZO DECENAL. EXISTÊNCIA DE CAUSA JURÍDICA. ENRIQUECIMENTO SEM CAUSA. PRETENSÃO. SUBSIDIARIEDADE.
+1. A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos (art. 205 do Código Civil), seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica. Precedentes.
+2. Afastamento do prazo prescricional trienal inscrito no art. 206, § 3º, IV, do Código Civil, visto que a demanda não se enquadra na ação de enriquecimento sem causa ou ação in rem verso (arts. 884 e 886 do CC), de natureza subsidiária, possuidora dos seguintes requisitos: enriquecimento de alguém, empobrecimento correspondente de outrem, relação de causalidade entre ambos, ausência de causa jurídica e inexistência de ação específica.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp n. 1.724.158/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 27/3/2023, DJe de 31/3/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. COMPLEMENTAÇÃO DE APOSENTADORIA. BENEFÍCIO ESTABELECIDO EM LEIS DO ESTADO DE SÃO PAULO. PRESCRIÇÃO DECENAL. SUBSIDIARIEDADE DA PRETENSÃO DE ENRIQUECIMENTO SEM CAUSA. PRECEDENTE DA CORTE ESPECIAL. FUNDAÇÃO CESP. ILEGITIMIDADE. EXAME DE LEI LOCAL. SÚMULA 280/STF. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Hipótese em que o benefício de complementação de aposentadoria tem por origem Leis do Estado de São Paulo, que determinaram o correspondente custeio com recursos provenientes da Fazenda Pública Estadual repassado à entidade de previdência privada, encarregada, no caso, de administrar a folha de pagamento.
+2. "A pretensão de enriquecimento sem causa (ação in rem verso) possui como requisitos: enriquecimento de alguém; empobrecimento correspondente de outrem; relação de causalidade entre ambos; ausência de causa jurídica; inexistência de ação específica.
+Trata-se, portanto, de ação subsidiária que depende da inexistência de causa jurídica. A discussão acerca da cobrança indevida de valores constantes de relação contratual e eventual repetição de indébito não se enquadra na hipótese do art. 206, § 3º, IV, do Código Civil/2002, seja porque a causa jurídica, em princípio, existe (relação contratual prévia em que se debate a legitimidade da cobrança), seja porque a ação de repetição de indébito é ação específica (EREsp 1523744/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 20/02/2019, DJe 13/03/2019)" (AgInt no REsp 1696558/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021).
+3. O exame da ilegitimidade passiva da Fundação CESP deve ser precedido da análise de lei local, inviável no âmbito do recurso especial. Aplicação, por analogia, da Súmula 280/STF.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmulas 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.945.759/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 8/8/2022, DJe de 12/8/2022.)
+No caso concreto, não há contrato de prestação de serviços advocatícios, sequer verbal, razão pela qual não se afigura possível a aplicação do prazo previsto na Lei nº 8.906/94.
+Na verdade, a pretensão formulada foi de restituição de valores retidos indevidamente a título de honorários advocatícios, haja vista a ausência de relação jurídica entre as autoras e o SINDICATO, ensejando enriquecimento sem causa e a aplicação do prazo prescricional de três anos.
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte.
+Contudo, o Tribunal estadual limitou-se a aplicar o prazo quinquenal, sem se manifestar acerca do termo inicial da prescrição no caso dos autos, o que impõe o retorno dos autos a fim de que a Corte local realize a contagem do prazo prescricional de três anos, como entender de direito.
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, a fim de determinar que o Tribunal estadual realize a contagem do prazo prescricional de três anos, como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. RETENÇÃO INDEVIDA DE VALORES LEVANTADOS A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE RELAÇÃO JURÍDICA. PRESCRIÇÃO. ENRIQUECIMENTO SEM CAUSA. PRAZO TRIENAL. RETORNO DOS AUTOS. NECESSIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
