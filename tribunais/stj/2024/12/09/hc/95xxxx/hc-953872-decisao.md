@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Gustavo dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2273580-11.2024.8.26.0000).
+Narram os autos que o paciente foi condenado a 10 anos, 4 meses e 13 dias de reclusão, em regime inicial fechado, como incurso no art. 157, § 2º, II, e § 2º-A, I, por duas vezes, na forma do art. 71, parágrafo único, todos do Código Penal. Na oportunidade, foi-lhe vedado o direito de recorrer em liberdade.
+Interposta a apelação criminal, o Tribunal de Justiça deu provimento e redimensionou a pena do paciente para 7 anos e 9 meses de reclusão, em regime inicial semiaberto. Foram opostos embargos de declaração, que ainda não foram julgados.
+Neste mandamus, a impetrante alega, em apertada síntese, a r. decisão colegiada fere de morte o princípio da presunção de inocência, bem como, a necessidade e proporcionalidade entre o regime fixado intermediário, o tempo já preso, a investigação e instrução processual encerradas (fl. 4).
+Aduz que o indeferimento do direito de recorrer em liberdade se baseou em fundamentos genéricos e vazios, utilizando apenas a gravidade abstrata do delito (fl. 5).
+Menciona que o paciente é primário, tem família constituída e ocupação lícita.
+Requer, inclusive em liminar, a revogação da prisão cautelar a fim de que o paciente possa recorrer em liberdade.
+A liminar foi indeferida (fls. 205/207).
+Ao prestar informações, o Tribunal de Justiça noticiou que, consoante folha de antecedentes e assentamentos eletrônicos de primeira instância, que Gustavo está custodiado no Centro de Progressão Penitenciária de Mongaguá - SP, em regime semiaberto, resgatando a pena fixada na ação mencionada, cujo processo de execução foi autuado sob o número 012950-78.2024.8.26.0041, em trâmite na Unidade Regional de Departamento Estadual de Execução Criminal - Deecrim 1ª RAJ - Comarca de São Paulo (fls. 214/215 - grifo nosso).
+À fl. 256, a defesa juntou aos autos pedido de reconsideração da decisão que indeferiu a liminar.
+O Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Raquel Elias Ferreira Dodge, pela denegação da ordem (fls. 268/271).
+É o relatório.
+A ordem não comporta concessão.
+Ao manter a prisão cautelar, na sentença condenatória, disse o Magistrado que o réu não faz jus ao apelo em liberdade, porquanto a custódia processual é necessária pela prolação deste "decisum", sendo imprescindível a sua manutenção no cárcere para assegurar a ordem pública (fl. 43).
+Com efeito, na decisão de prisão preventiva, ficou consignado que Gustavo dos Santos foi preso e autuado em flagrante pelo cometimento, em tese, de dois crimes de roubo qualificado, o primeiro cometido na cidade e comarca de Mogi das Cruzes, subtração de um automóvel Nissan, e o segundo, na sequência, pouco tempo depois, na cidade e comarca de Itaquaquecetuba, subtração de uma motocicleta Yamaha Lander, em concurso de agentes e emprego de arma de fogo. Veio o autuado a ser preso em flagrante na cidade e comarca de Suzano. O fato ocorreu em 28/8/2023.  ..  O agente foi reconhecido pelas duas vítimas.  ..  A periculosidade do autuado é evidenciada pelas circunstâncias em que o crime fora cometido, pelo modus operandi (fls. 104/105 - grifo nosso).
+Assim, como bem destacou a nobre parecerista, as instâncias ordinárias demonstraram a gravidade concreta do delito e o modus operandi empregado na conduta criminosa. Também ressaltaram que o fato de o paciente ter sido condenado ao regime semiaberto não impede a manutenção da prisão provisória, pois ele está custodiado em presídio compatível com o regime intermediário (fl. 271).
+As instâncias ordinárias decidiram em conformidade com a pacífica jurisprudência do Superior Tribunal de Justiça, firmada no sentido de não haver "incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime" (RHC n. 134.443/GO, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020) - (AgRg no RHC n. 167.177/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/8/2022 - grifo nosso).
+Na hipótese, conforme destacado no relatório, o Tribunal a quo informou que o paciente está cumprindo pena no regime semiaberto, assim, não há falar em constrangimento ilegal.
+Ante o exposto, à vista do parecer, denego a ordem. Julgo prejudicado o pedido de fl. 256.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO EM CONTINUIDADE DELITIVA. SENTENÇA CONDENATÓRIA. APLICAÇÃO DO REGIME INICIAL SEMIABERTO. DIREITO DE RECORRER EM LIBERDADE. COMPATIBILIDADE DA PRISÃO PREVENTIVA COM A FIXAÇÃO DO REGIME INTERMEDIÁRIO. LEGALIDADE. PRECEDENTES. PARECER ACOLHIDO.
+Ordem denegada. Prejudicado o pedido de fl. 256.
