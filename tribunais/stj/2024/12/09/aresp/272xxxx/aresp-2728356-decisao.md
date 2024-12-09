@@ -1,0 +1,35 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação no 144/2023 e CNJ/Resolução no 376/2021), adoto o relatório de fls. 486 (e-STJ):
+Trata-se de agravo em recurso especial interposto por JORCINEY MAGALHÃES DE MORAES (e-STJ fls. 468/470), objetivando desconstituir Decisão proferida pelo Eminente Desembargador Vice-Presidente do e. Tribunal de Justiça do Estado do Goiás, que inadmitiu o recurso especial interposto pela Defesa, por entender aplicável a Súmula 7/STJ (e-STJ fls. 461/462).
+Consta nos autos que o Ministério Público Estadual denunciou o ora Agravante, verbis:
+ ..  Exsurge do incluso procedimento investigatório, que no dia 13 de fevereiro de 2018, por volta das 03:12 horas, na Praça Major João Mendes, Centro, Corumbá de Goiás/GO, o denunciado, com animus necandi, utilizando uma arma branca tipo faca, desferiu um golpe na vítima CLEITON ALVES DA SILVA, não conseguindo seu intento por circunstâncias alheias à sua vontade, conforme Laudo de Exame Médico de fis. 24/26. Consta nos autos que, durante as festas de carnaval, o denunciado se encontrou com a vítima, seu desafeto, momento em que iniciaram uma discussão. Apurou-se que em meio a discussão, o denunciado sacou a faca que portava e desferiu um golpe na região do abdome da vítima, evadindo-se do local em disparada. Depreende-se que a vítima foi socorrida pelo Corpo de Bombeiros, que se encontrava no local, e levada para o Hospital de Urgências de Anápolis, onde foi submetida a cirurgia, ao passo que o denunciado, apesar das diligências realizadas pela Polícia Militar, não foi encontrado. Por ter assim agido, JORCINEY MAGALHÃES DE MORAES encontra-se incurso nas sanções do art. 121, caput, c/c o art. 14, II, ambos do Código Penal Brasileiro  ..  (e-STJ fl. 61).
+O ora Recorrente foi condenado à pena de 1 ano de reclusão, em regime inicial aberto, por ter praticado o crime previsto no art. 129, § 1º, caput, do Código Penal. Além disso, o MM. Juiz de piso entendeu ser incabível a substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista o crime ter sido praticado com violência a pessoa (e-STJ fls. 363/364).
+Contra essa Decisão a Defesa recorreu. A 1ª Câmara Criminal do e. TJGO negou provimento ao recurso defensivo. Eis a ementa do referido Acórdão:
+ ..  EMENTA: APELAÇÃO CRIMINAL. LESÃO CORPORAL GRAVE. RECURSO DEFENSIVO. SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA DE DIREITO. IMPOSSIBILIDADE. Inviável a substituição da pena privativa de liberdade por restritivas de direitos, por não preencher os requisitos do art. 44, do Código Penal (crime cometido com violência ou grave ameaça à pessoa). RECURSO CONHECIDO E DESPROVIDO.  ..  (e-STJ fls. 422/423).
+Daí, a Defesa interpôs recurso especial (e-STJ fls. 430/438) com fulcro no artigo 105, inciso III, alínea "a", da CF/88, alegando que o Acórdão vergastado violou o disposto no art. 61, da Lei 9.099/95.
+Sustenta que:
+ ..  O art. 44, inciso I, do Código Penal, ao vedar a substituição da sanção corporal por restritiva de direitos nos delitos praticados com violência ou grave ameaça à pessoa, não teria abrangido a hipótese de lesão corporal. Isso porque neste caso, a violência perpetrada não se mostraria suficiente à violação do bem jurídico tutelado, hipótese em que o réu foi condenado em pena ínfima.  ..  (e-STJ fls. 434).
+Requer " ..  o recebimento o conhecimento do presente Recurso Especial, e que lhe dê provimento para reformar o V. Acórdão recorrido, para que seja reformada a sentença e que seja substituída a pena privativa de liberdade por restritiva de direitos, pelas razões já expostas" (e-STJ fl. 438).
+O Eminente Desembargador Vice-Presidente do e. TJGO inadmitiu o recurso especial defensivo - Súmula 7/STJ (e-STJ fls. 461/462). Contra a Decisão referida foi interposto Agravo em R Esp (e-STJ fls. 468/470)
+O Ministério Público do Estado do Goiás apresentou contrarrazões (e-STJ fl. 475/476).
+É o que importa relatar.
+Parecer do Ministério Público Federal pelo não acolhimento do agravo, mantendo-se inadmitido o Recurso Especial.
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e preenche os demais requisitos de admissibilidade. Além disso, o óbice aplicado foi devidamente rebatido, razão pela qual o agravo deve ser conhecido.
+Passo ao exame do recurso especial.
+Acerca da controvérsia, colhe-se do acórdão recorrido (e-STJ fls. 424-425):
+Relativamente à pretendida substituição da pena privativa de liberdade por restritiva de direito, o juiz sentenciante entendeu inviável proceder-se à permuta, pelo fundamento abaixo exposto:
+"(..) Incabível, tendo em vista ter sido o crime praticado com violência contra a pessoa. (..)" movimentação 159 - fl. 231.
+Sobre o tema, assim dispõe o art. 44, do Código Penal, in verbis:
+"Art. 44 - As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando: I - aplicada pena privativa de liberdade não superior a 4 (quatro) anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; II - o réu não for reincidente em crime doloso; III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente". Grifei.
+Assim, devidamente justificado, não merece prosperar o referido pedido de substituição da pena privativa de liberdade por restritivas de direitos pelo fato de o crime ter ocorrido mediante violência e grave ameaça (TJGO, PROCESSO CRIMINAL -> Recursos -> Apelação Criminal 5476605-70.2020.8.09.0174, Rel. Des(a). DESEMBARGADOR FÁBIO CRISTÓVÃO DE CAMPOS FARIA, 1ª Câmara Criminal, julgado em 29/04/2024, D Je de 29/04/2024).
+Com efeito, a substituição da pena privativa de liberdade por restritiva de direitos é inviável em crimes praticados com violência ou grave ameaça, como no caso em tela, em que o recorrente foi condenado pelo delito de lesão corporal, conforme previsto no art. 44, I, do Código Penal. Nesse sentido, o seguinte precedente desta Corte:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL E AMEAÇA. PRETENSÃO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. SÚMULA 7/STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. REGIME PRISIONAL. CRIMES COMETIDOS MEDIANTE VIOLÊNCIA E GRAVE AMEAÇA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretensão de reconhecimento da co ntinuidade delitiva não pode ser admitida, já que a aferição da unidade de desígnios e dos elementos objetivos do art. 71 do CP demandaria evidente reexame dos fatos e provas da causa. Precedentes.
+2. Tratando-se de crimes cometidos mediante violência e grave ameaça, não há que se falar em substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, I, do Código Penal.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.625.586/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/8/2024, DJe de 26/8/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
