@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DE SÃO PAULO, com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, a Fazenda Pública ajuizou execução fiscal, com valor da causa atribuído em R$ 8.789,78 (oito mil, setecentos e oitenta e nove reais e setenta e oito centavos), em agosto de 2004, tendo como objetivo a cobrança de débitos tributários relacionados ao ICMS.
+Na sentença, julgou-se extinto o processo diante do reconhecimento da prescrição. A apelação interposta foi parcialmente provida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, para autorizar o prosseguimento da execução apenas contra a pessoa jurídica. O referido acórdão foi assim ementado, in verbis:
+Apelação cível  Execução fiscal  Redirecionamento aos sócios  Prescrição intercorrente  Desistência tácita da FESP em relação à empresa executada  Sentença que extinguiu o feito  Recurso da FESP  Provimento parcial de rigor.
+1. Redirecionamento aos sócios - Prescrição intercorrente  Ocorrência  Citação válida da empresa que não atinge seus sócios  Pedido de redirecionamento da execução fiscal aos sócios da executada formulado após cinco anos da interrupção da prescrição  Prazo prescricional induvidosamente superado  Precedentes desta E. Corte e do C. STJ.
+2. Desistência tácita da FESP em relação à empresa executada  Inocorrência  Pedido de inclusão dos sócios no polo passivo não implica automaticamente a desistência da execução em relação à empresa - Prosseguimento da execução em relação à empresa. R. Sentença parcialmente reformada. Recurso provido em parte.
+Em juízo de retratação, o Tribunal de origem manteve o acórdão, que estaria em conformidade com Tema 444 do STJ, conforme a seguinte ementa:
+Apelação Cível  Juízo de "retratação" do art. 1.030 do NCPC (Recurso Especial)  Nova conclusão ao Relator por ordem do DD. Presidente da Seção de Direito Público  Aceitação da conclusão, sem alteração do julgado  Acórdão desta Câmara que manteve a r. Sentença que reconheceu a prescrição em relação aos sócios da executada, nos autos da embargos à execução fiscal  Redirecionamento em face dos sócios após cinco anos  Interposição de Recurso Especial  Tema 444 STJ  Manutenção da r. decisão, pois em consonância com a jurisprudência do E. Superior Tribunal de Justiça  Acórdão mantido.
+No presente recurso especial, o recorrente aponta como violados os arts. 8º e 174, do Código Tributário Nacional e art. 40 da Lei 6.830.
+Argumenta, em resumo, que no momento da citação não havia prova de encerramento irregular da sociedade, não se aplicando o item I, do Tema 444 do STJ.
+É o relatório. Decido.
+O Tribunal a quo ao decidir o recurso entendeu, em suma, que seria aplicável a prescrição intercorrente, tendo em vista que transcorreram mais de cinco anos entre a data da citação da pessoa jurídica (13/05/2005) e a data do pedido de redirecionamento (22/06/2010), sendo aplicável a primeira tese do tema repetitivo 444 do STJ, que fixa em cinco anos o prazo de redirecionamento da execução fiscal, contado da diligência de citação da pessoa jurídica.
+Evidente que a tese do recorrente, no sentido de que na época da citação da pessoa jurídica não havia o encerramento irregular da sociedade, desafia o exame e reexame do conjunto probatório, o que é vedado no recurso especial, incidindo na espécie a súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
