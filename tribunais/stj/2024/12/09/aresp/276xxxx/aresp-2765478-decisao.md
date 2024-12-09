@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MIRAVISTA RESIDENCIAL EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. AQUISIÇÃO DE LOTE RESIDENCIAL. ABORDAGEM DE COMPRADORA, PARA RESILIR O VÍNCULO, COM RESTITUIÇÃO DE VALORES. JUÍZO DE PARCIAL PROCEDÊNCIA. APELO DA RÉ. PARCIAL PROVIMENTO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 32-A da Lei n. 13.786/2018, no que concerne ao direito de a recorrente efetuar as retenções previstas na lei, em decorrência de rescisão a pedido do adquirente, trazendo a seguinte argumentação:
+No caso em julgamento, entendeu o E. TJSP ser abusiva a aplicação integral do art. 32-A, escolhendo, por sua própria e unilateral interpretação, quais sanções deveríam ser aplicáveis ao caso concreto e quais deveriam ser afastadas.
+Para respaldar suas fundamentações, embora o Tribunal a quo tenha decidido aplicar a lei em questão, não o fez da melhor forma, pois deixou de considerar que a retenção deve ser baseada no valor atualizado do contrato, bem como as demais retenções autorizadas.
+ ..
+Primeiro porque, ao contrário do que restou decidido, de acordo com as regras e princípios vigentes no ordenamento jurídico, a lei específica sobrepõe à lei geral, a afastar o fundamento de que a loteadora não poderia exigir todas as penalidades previstas na Lei dos Distratos.
+Segundo porque, em prestígio ao princípio da segurança jurídica, evitando-se julgamentos conflitantes nas diversas unidades de jurisdição, é preciso que a Lei dos Distratos seja efetivamente cumprida, sem qualquer margem de interpretação.
+Ou seja, no caso em exame, rescindido o contrato a pedido do adquirente, é direito inequívoco da recorrente efetuar as retenções previstas na lei (fls. 261).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 284/STF em relação ao art. 32-A da Lei n. 13.786/2018, tendo em vista que a parte recorrente indicou como violado dispositivo legal inexistente no ordenamento jurídico, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Confiram-se os seguintes precedentes: REsp n. 1.311.899/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 2.3.2021; AgRg no AREsp n. 692.338/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 2.6.2015; AgRg no AREsp n. 230.768/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5.2.2013; AgRg no Ag n. 1.402.971/RJ, Rel. Ministro Massami Uyeda, Terceira Turma, DJe de 17.8.2011; AgRg no AREsp n. 522.621/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 12.12.2014; AgRg no AREsp n. 544.436/DF, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14.11.2014.
+Ademais, o acórdão recorrido assim decidiu:
+Quanto à taxa de fruição, nos termos do artigo 32-A, I, da Lei nº. 13.786/18, do montante a ser restituído plausível descontar "os valores correspondentes à eventual fruição do imóvel, até o equivalente a 0,75% (setenta e cinco centésimos por cento) sobre o valor atualizado do contrato".
+Todavia, tratando-se de lote de terreno não edificado, sem prova de efetiva fruição, não há falar no respectivo desconto.
+Comissão de corretagem, estipulada em contrato (cláusula oitava - fl. 26), sem comprovação de que a ré, vendedora, tenha destinado pagamento à empresa beneficiária, CTNI Empreendimentos e Participações Ltda, nesse âmbito não detém legitimidade para imputar valores, deduzidos de montante a ser restituído à autora (fl. 238).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
