@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE RESENDE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. REMESSA NECESSÁRIA. DIREITO ADMINISTRATIVO. MUNICÍPIO DE RESENDE. GUARDA CIVIL MUNICIPAL. PRETENSÃO DE PROMOÇÃO AO CARGO DE INSPETOR E DE RECEBIMENTO DE AUMENTO, INCORPORAÇÃO E VERBAS RETROATIVAS. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DO MUNICÍPIO. PREENCHIMENTO DOS REQUISITOS LEGAIS PARA PROMOÇÃO. AUMENTO DE CARÁTER PERMANENTE E GENÉRICO, EM TODOS OS GRAUS DA CARREIRA. DEVER DE INCORPORAÇÃO DO BENEFÍCIO. INEXISTÊNCIA DO ALEGADO "EFEITO CASCATA, VEDADO PELO INCISO IX DO ARTIGO 37 DA LEI MAIOR, EIS QUE A "GRATIFICIAÇÃO" NÃO TEM NATUREZA PRO LABORE FACIENDO, MAS SIM DE REMUNERAÇÃO VINCULADA AO CARGO. PRECEDENTES DO TJRJ. MANUTENÇÃO DA SENTENÇA. EM SEDE DE REMESSA NECESSÁRIA, PEQUENO REPARO NO TOCANTE AOS CONSECTÁRIOS LEGAIS. RECURSO CONHECIDO AO QUAL SE NEGA PROVIMENTO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 1º do Decreto n. 20.910/1932, no que concerne à necessidade de reconhecimento da prescrição do fundo de direito, tendo em vista que a ação persegue direito decorrente de ato único, qual seja, promoção na carreira de guarda municipal, não constituindo relação de trato sucessivo, trazendo a seguinte argumentação:
+Ressalta-se que a promoção na carreira de servidor público é ato único de efeitos concretos, não constituindo relação de trato sucessivo, devendo, por isso ser reconhecida a prescrição do fundo de direito quando a ação for proposta depois de cinco anos contados do respectivo ato legislativo ou administrativo.
+A pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida (fls. 283-284).
+Trazendo à baila a situação fática, tem-se que o Autor/Recorrido pretende o pagamento de verbas/reflexos que, segundo o Demandante, remetem a uma promoção/progressão com efeitos que retroagiriam a 15.10.2013.
+Contudo, a ação somente foi proposta em 10.05.2023, decorridos quase de 10 (dez) anos desde a suposta aquisição do direito. O que denota a prescrição total de seu direito de ação sobre tal benesse, conforme exaustivamente debatido acima (fl. 287).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
