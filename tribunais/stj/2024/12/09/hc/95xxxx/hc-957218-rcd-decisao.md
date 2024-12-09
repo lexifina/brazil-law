@@ -1,0 +1,11 @@
+DECISÃO
+FILIPE GUSTAVO DE JESUS SOUZA agrava da decisão de fls. 102-103, em que indeferi liminarmente o habeas corpus diante da deficiente instrução do feito.
+Para tanto, traz aos autos os documentos mencionados, motivo pelo qual prossigo na análise do mandamus.
+Asseriu a defesa, perante a Corte de origem, que "a decisão que decretou a prisão preventiva do paciente não está devidamente fundamentada, bem como que a referida decisão foi embasada somente em elementares inerentes ao tipo penal do crime imputado ao paciente" (fl. 20).
+Depreende-se acórdão combatido que "o paciente foi preso em flagrante pela suposta prática, em 18 de agosto de 2024, do crime previsto no artigo 158 do Código Penal (extorsão), tendo a sua prisão em flagrante sido convertida em preventiva no dia 20/08/2024" (fls. 20-21).
+Salientou o Tribunal a quo que "o paciente foi acusado de ter, em tese, extorquido sua genitora, utilizando-se de uma faca para ameaçar ceifar sua vida caso ela não lhe desse mais dinheiro para que pudesse comprar substâncias entorpecentes. Ainda, consta nos autos que, no momento em que o tio do acusado tentou intervir em favor de sua irmã, ele o golpeou na cabeça com a referida faca" (fl. 23, destaquei).
+A esse respeito, a jurisprudência desta Corte Superior é firme ao asseverar que "a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do réu está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 777.387/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/4/2023).
+Além disso, consoante oportunamente destacado no acordão combatido, "a manutenção da prisão cautelar é medida que se impõe, nos termos dos artigos 312 e 313, inciso I, ambos do Código de Processo Penal, e são inaplicáveis as medidas alternativas à prisão, introduzidas pela Lei nº 12.403/2011, que não se mostram suficientes e adequadas para resguardar a ordem pública e a integridade física e psíquica da vítima" (fl. 25).
+À vista do exposto, com fulcro no 258, § 3º, do RISTJ, reconsidero a decisão agravada para, com fundamento no art. 210 do RISTJ, indeferir liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
