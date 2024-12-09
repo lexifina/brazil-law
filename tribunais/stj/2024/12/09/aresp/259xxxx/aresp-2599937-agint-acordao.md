@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Ausente, ocasionalmente, o Sr. Ministro Afrânio Vilela.
+EMENTA
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. ISENÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A APOSENTADORIA. TERMO INICIAL. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF.
+I - Na origem, a parte autora ajuizou ação ordinária, com valor da causa atribuído em R$ 62.394,25 (sessenta e dois mil, trezentos e noventa e quatro reais e vinte e cinco centavos) objetivando a restituição de valores retidos na fonte a título de Imposto de Renda e de contribuição previdenciária, a partir da aposentadoria ora percebida. Em grau de apelação, a Corte estadual entendeu que "o preenchimento dos requisitos para o deferimento da isenção concedida pela Lei Estadual se dá a partir do ato de aposentação do servidor público, razão pela qual o termo inicial para restituição deve corresponder à data da aposentadoria, devendo ser respeitada, ainda, a prescrição quinquenal".
+II - Em relação à indicada violação do art. 1.022 do CPC/2015 pelo Tribunal a quo, não se objetiva a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda. Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+III - No mérito, o Tribunal de origem, para decidir a controvérsia, interpretou legislação local, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+IV - Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, da Constituição Federal.
+Na origem, a parte autora ajuizou ação ordinária, com valor da causa atribuído em R$ 62.394,25 (sessenta e dois mil, trezentos e noventa e quatro reais e vinte e cinco centavos) objetivando a restituição de valores retidos na fonte a título de Imposto de Renda e de contribuição previdenciária, a partir da aposentadoria ora percebida.
+Após sentença que extinguiu o feito sem exame de mérito quanto ao pedido referente à restituição do Imposto de Renda e julgou procedente o pedido do autor relativo às contribuições previdenciárias, o Tribunal de Justiça do Estado do Paraná deu parcial provimento à apelação da Paranaprevidência, para reconhecer sua ilegitimidade passiva, e negou provimento à apelação do Estado do Paraná, ficando consignado que o preenchimento dos requisitos para o deferimento da isenção concedida pela lei estadual se dá a partir do ato de aposentação do servidor público, razão pela qual o termo inicial para restituição deve corresponder à data da aposentadoria, devendo ser respeitada, ainda, a prescrição quinquenal.
+O referido acórdão foi assim ementado, in verbis:
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. ISENÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A APOSENTADORIA. SENTENÇA DE PROCEDÊNCIA.
+APELO (1) DO ESTADO DO PARANÁ: PLEITO DE RESTITUIÇÃO DA REPETIÇÃO DE INDÉBITO DE CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE OS PROVENTOS DE APOSENTADORIA, COM TERMO INICIAL A PARTIR DO REQUERIMENTO ADMINISTRATIVO. IMPOSSIBILIDADE. TERMO INICIAL QUE DEVE SE DAR A PARTIR DO DIAGNÓSTICO DA DOENÇA. CASO CONCRETO EM QUE O ATO DE APOSENTAÇÃO É POSTERIOR AO DIAGNÓSTICO. TERMO INICIAL QUE DEVE CORRESPONDER À DATA DA CONCESSÃO DE APOSENTADORIA, DEVENDO SER RESPEITADA A PRESCRIÇÃO QUINQUENAL. SENTENÇA MANTIDA. APELO NÃO PROVIDO, COM FIXAÇÃO DE HONORÁRIOS RECURSAIS.
+APELO (2) DA PARANAPREVIDÊNCIA: ARGUIÇÃO DE ILEGITIMIDADE PASSIVA. PARCIAL RAZÃO. OBRIGAÇÃO DE RESTITUIÇÃO DOS VALORES DE REPETIÇÃO DE INDÉBITO QUE DEVE SER DIRECIONADA EXCLUSIVAMENTE AO ESTADO DO PARANÁ. ARTS. 8, § 1º E 26, AMBOS DA LEI ESTADUAL Nº 17.435 /2012. CONSTITUCIONALIDADE REFERENDADA NO JULGAMENTO DOS INCIDENTES DE DECLARAÇÃO DE INCONSTITUCIONALIDADE Nº 1.039.460-2/01 E 990.709-3/02. MANTIDA, NO MAIS, A SUCUMBÊNCIA DOS REQUERIDOS, NA PROPORÇÃO DE 50% PARA CADA PARTE. APELO PARCIALMENTE PROVIDO.
+REMESSA NECESSÁRIA: ISENÇÃO DO BENEFÍCIO RECONHECIDO ADMINISTRATIVAMENTE. SERVIDOR PÚBLICO APOSENTADO PORTADOR DE MOLÉSTIA GRAVE (CEGUEIRA MONOCULAR), CONSTANTE DO ROL DO ART. 6º, DO DECRETO ESTADUAL Nº 578 /2015 E ART. 15, §8º DA LEI ESTADUAL Nº 17.435/2012. ISENÇÃO DEVIDA. PEDIDO LIMITADO APENAS À RESTITUIÇÃO DOS VALORES DESCONTADOS INDEVIDAMENTE. ADEQUAÇÃO DOS CONSECTÁRIOS LEGAIS, CONFORME TEMAS 905/STJ E 810/STF ATÉ 08.12.21 E A PARTIR DE 09.12.21, OBSERVÂNCIA DA TAXA SELIC, UMA ÚNICA VEZ, APÓS O ADVENTO DA EC Nº 113/21. POSTERGAÇÃO DA FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS PARA A FASE DE LIQUIDAÇÃO DA SENTENÇA. REMESSA NECESSÁRIA. SENTENÇA PARCIALMENTE MANTIDA.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto recurso especial, apontando violação dos arts. 1.022 do CPC e dos arts. 111, 176 e 179 do CTN.
+Sustenta, em síntese, que o termo inicial da isenção referente à contribuição previdenciária é a data do requerimento administrativo.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 280/STF, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+O agravo foi conhecido para não conhecer do recurso especial, dada a ausência de violação do art. 1.022 do CPC e da incidência da Súmula n. 280/STF.
+Foi interposto agravo interno em que se pleiteia a reforma da decisão agravada, defendendo, em síntese, a existência de omissão quanto à apreciação do argumento recursal de que "por se tratar de uma isenção condicional ou isenção de caráter específico, só pode ser efetivada após requerimento do beneficiário" (fl. 512).
+Ademais, assevera que a legislação estadual "não possui valia para a discussão dos autos" (fl. 513), uma vez que a Lei estadual n. 17.435/2012 e o Decreto estadual n. 578/2015 somente abordam a isenção estadual, não dispondo sobre o termo inicial da repetição do indébito tributário.
+Não foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. ISENÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A APOSENTADORIA. TERMO INICIAL. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF.
+I - Na origem, a parte autora ajuizou ação ordinária, com valor da causa atribuído em R$ 62.394,25 (sessenta e dois mil, trezentos e noventa e quatro reais e vinte e cinco centavos) objetivando a restituição de valores retidos na fonte a título de Imposto de Renda e de contribuição previdenciária, a partir da aposentadoria ora percebida. Em grau de apelação, a Corte estadual entendeu que "o preenchimento dos requisitos para o deferimento da isenção concedida pela Lei Estadual se dá a partir do ato de aposentação do servidor público, razão pela qual o termo inicial para restituição deve corresponder à data da aposentadoria, devendo ser respeitada, ainda, a prescrição quinquenal".
+II - Em relação à indicada violação do art. 1.022 do CPC/2015 pelo Tribunal a quo, não se objetiva a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda. Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+III - No mérito, o Tribunal de origem, para decidir a controvérsia, interpretou legislação local, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+IV - Agravo interno não provido.
+VOTO
+Não merece reparos a decisão ora agravada.
+Com efeito, em relação à indicada violação do art. 1.022 do CPC/2015 pelo Tribunal a quo, não se objetiva a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. CUMULAÇÃO DAS OBRIGAÇÕES DE INDENIZAR E DE REPARAR DANO AMBIENTAL. CABIMENTO. SÚMULA 629/STJ. REVISÃO DOS PARÂMETROS DE DEFINIÇÃO DO VALOR INDENIZÁVEL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDÊNCIA DO PIS E COFINS. ZONA FRANCA DE MANAUS. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+ ..
+2. Não configurada a violação apontada ao art. 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque a Corte de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum a quo.
+ ..
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Quanto ao termo inicial da isenção, a Corte a quo assim se manifestou no julgado ora recorrido, ipsis litteris:
+E, em que pese o entendimento jurisprudencial de que o marco inicial para deferimento da isenção seja a data de diagnóstico da doença, certo é que, o preenchimento dos requisitos para o deferimento da isenção concedida pela Lei Estadual se dá a partir do ato de aposentação do servidor público, razão pela qual o termo inicial para restituição deve corresponderá data da aposentadoria, devendo ser respeitada, ainda, a prescrição qüinqüenal.
+Neste sentido, a jurisprudência desta Corte de Justiça:
+(..)
+Assim sendo, retira-se dos autos que o autor está aposentado desde 09.09.2008, de modo que a isenção seria devida a partir desta data, devendo ser respeitada a prescrição qüinqüenal. (fls. 335-337)
+Consoante se observa, o Tribunal de origem, para decidir a controvérsia, interpretou legislação local, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Cabe ressaltar, ainda, que a competência para assentar a validade de lei local em face de lei federal é do Supremo Tribunal Federal, nos termos do art. 102, II, d, da Constituição Federal. Nesse sentido: AgInt no AREsp n. 2.199.729/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 2/9/2024, DJe de 5/9/2024.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
