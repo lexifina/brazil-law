@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL PENAL. RECURSO QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, OS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. A presente insurgência não merece prosperar, haja vista os agravantes não terem atacado de forma específica os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182/STJ (AgRg no AREsp n. 1.609.745/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/2/2020).
+3. A ausência de impugnação específica dos fundamentos da decisão combatida atrai a incidência do disposto nos arts. 1.021, § 1º, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182/STJ, por analogia (AgRg no AREsp n. 1.582.235/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 27/2/2020).
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Anderson Jose Larroque Pereira e Selso Ricardo Larroque Pereira contra a decisão que deu provimento ao recurso especial manejado pelo Ministério Público de Mato Grosso do Sul (fls. 1.320/1.325):
+RECURSO ESPECIAL. PROCESSUAL PENAL. HOMICÍDIOS QUALIFICADOS E HOMICÍDIOS QUALIFICADOS TENTADOS. VIOLAÇÃO DOS ARTS. 400, § 1º, 401, § 2º, 422 E 563, TODOS DO CPP. DISPENSA DE TESTEMUNHA PELO MINISTÉRIO PÚBLICO. PRESCINDIBILIDADE DE ANUÊNCIA DA PARTE CONTRÁRIA. AUSÊNCIA DE PREVISÃO LEGAL. JURISPRUDÊNCIA DO STJ. DEFESA QUE NÃO ARROLOU TAL TESTEMUNHA NO MOMENTO OPORTUNO. CARÊNCIA DE JUSTIFICATIVA PARA SUA OITIVA. REFERIDA TESTEMUNHA QUE JÁ HAVIA SIDO OUVIDA EM JUÍZO, NA AUDIÊNCIA DE INSTRUÇÃO, COMO TESTEMUNHA DE ACUSAÇÃO E, DEPOIS, OUVIDA NOVAMENTE EM AUDIÊNCIA DE ACAREAÇÃO. EFETIVA PARTICIPAÇÃO DA DEFESA, INCLUSIVE ELABORANDO PERGUNTAS. IRRESIGNAÇÃO DA DEFESA. JUÍZO DE CONVENIÊNCIA DO MAGISTRADO. NULIDADE. NÃO OCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. PAS DE NULLITÉ SANS GRIEF. PREVALÊNCIA DO VOTO DO REVISOR QUE SE IMPÕE. DETERMINADO O RETORNO DOS AUTOS PARA APRECIAÇÃO DAS DEMAIS TESES DEFENSIVAS CONTIDAS NA APELAÇÃO CRIMINAL.
+Recurso especial provido nos termos do dispositivo.
+Alegam os agravantes, em síntese, que a recorrida decisão não merece prosperar, pelos seguintes motivos: 1 - Há praticamente uma unanimidade na doutrina que a testemunha do plenário faz parte do processo e não mais de uma das partes,  ..  e que 2 - O próprio Superior Tribunal de Justiça, é divergente quanto ao tema (fls. 1.332/1.334).
+Ao final da peça recursal, a defesa pede que o presente agravo regimental seja conhecido e provido, para que a decisão monocrática proferida no recurso especial seja revista e que o julgamento do recurso seja realizado pelo colegiado do Superior Tribunal de Justiça, com a consequente análise do mérito do recurso. (fl. 1.336).
+Foi dispensada a oitiva da parte agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL PENAL. RECURSO QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, OS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. A presente insurgência não merece prosperar, haja vista os agravantes não terem atacado de forma específica os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182/STJ (AgRg no AREsp n. 1.609.745/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/2/2020).
+3. A ausência de impugnação específica dos fundamentos da decisão combatida atrai a incidência do disposto nos arts. 1.021, § 1º, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182/STJ, por analogia (AgRg no AREsp n. 1.582.235/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 27/2/2020).
+4. Agravo regimental desprovido.
+VOTO
+Extrai-se da decisão ora agravada os seguintes fundamentos (fls. 1.324/1.325 - grifo nosso):
+ ..
+Conforme julgado desta Sexta Turma, não há que se falar em nulidade da decisão que deferiu o pedido de desistência da oitiva de testemunha arrolada, exclusivamente, pelo Ministério Público estadual, pois, além de ser prescindível a anuência da parte contrária para a referida dispensa, a defesa não arrolou tal testemunha no momento oportuno nem apresentou justificativa minimamente razoável para a sua não inclusão na etapa processual adequada (AgRg no HC n. 852.318/AL, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/12/2023 - grifo nosso).
+ ..
+Com efeito, o reconhecimento de nulidades no curso do processo penal reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief) - (HC n. 482.536/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/4/2019 - grifo nosso).
+ .. , em sintonia com o voto do revisor, fl. 1.262, não existe qualquer disposição legal no sentido de que é necessária a anuência da defesa e dos jurados quanto à desistência das testemunhas arroladas pela acusação (EDcl no HC n. 411.833/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 6/6/2018)" (AgRg nos EDcl no RHC 151.746/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/9/2021) - (AgRg no AgRg no AREsp n. 2.160.693/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023 - grifo nosso).
+ ..
+O presente recurso regimental não merece prosperar, haja vista os agravantes não terem atacado de forma específica os fundamentos da decisão combatida, quais sejam: a prescindibilidade de anuência da parte contrária, quando da dispensa de testemunha pela acusação e a ausência de previsão legal; bem como a não comprovação de efetivo prejuízo por conta da defesa não ter arrolado a testemunha no momento oportuno, sem a demonstração da justificativa para sua oitiva, além do fato dela já ter sido ouvida em juízo, na audiência de instrução, com efetiva participação da defesa, inclusive elaborando perguntas.
+Incide, no caso, a Súmula 182/STJ.
+A corroborar:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO, RECEPTAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. DOSIMETRIA DA PENA. MAUS ANTECEDENTES. PROCESSOS PENAIS EM ANDAMENTO. IMPOSSIBILIDADE. SÚMULA 444/STJ. PERSONALIDADE E CONDUTA SOCIAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ART. 68 DO CP. CONCURSO DE MAJORANTES. CARÊNCIA DE MOTIVAÇÃO IDÔNEA PARA A APLICAÇÃO CUMULATIVA DAS FRAÇÕES DE AUMENTO. FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182/STJ.
+2. Na hipótese, os agravantes deixaram de refutar especificamente dois dos fundamentos de inadmissão do recurso especial (in casu, Súmulas 7/STJ e 283/STF), incidindo, portanto, o óbice da Súmula 182/STJ.
+ ..
+9. Agravo regimental desprovido. Concessão de habeas corpus, de ofício, para determinar que o Tribunal de origem proceda à nova dosimetria das penas impostas aos agravantes, afastando o aumento das básicas referentes à personalidade e à conduta social dos réus, e aos antecedentes de ERIK PIRES DE ABREU SOUZA E SILVA, bem como para afastar o aumento cumulativo, na terceira fase da dosimetria das penas de roubo.
+(AgRg no AREsp n. 1.609.745/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/2/2020 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DOS ARTS. 1.021, § 1º, DO CPC E 253 DO RISTJ. SÚMULA 182/STJ. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. QUANTIDADE DAS DROGAS APREENDIDAS NÃO EXPRESSIVA. PENA-BASE NO MÍNIMO LEGAL E REDUÇÃO MÁXIMA. AGRAVO NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A ausência de impugnação específica dos fundamentos da decisão combatida atrai a incidência do disposto nos arts. 1.021, § 1º, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182/STJ, por analogia.
+2. Não obstante a natureza danosa dos estupefacientes, entende esta Corte Superior que a quantidade não relevante e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, etc.) desautorizam a exasperação da pena-base, a vedação da minorante do tráfico no seu patamar máximo de 2/3, o agravamento do regime prisional ou a negativa à substituição das penas.
+3. Agravo regimental não conhecido e habeas corpus concedido, de ofício, para restabelecer a sentença condenatória.
+(AgRg no AREsp n. 1.582.235/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 27/2/2020 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
