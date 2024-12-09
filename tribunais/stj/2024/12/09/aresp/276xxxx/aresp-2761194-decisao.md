@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo manejado por Delva Maria Lacerda Voigt, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 36):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. PROVA PRÉ- CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA.
+1. O mandado de segurança é um instituto de direito processual constitucional que visa garantir a recomposição imediata do direito individual ou coletivo lesado por ato ilegal ou abusivo da autoridade, a exigir prova pré-constituída das situações e fatos que amparam o direito do impetrante.
+2. Na hipótese de insuficiência da prova documental apresentada e da necessidade de dilação probatória para fins de comprovação das alegações iniciais, que é inviável em sede de mandado de segurança, resta configurada a inadequação da via eleita.
+Opostos embargos de declaração, foram rejeitados (fl. 57)
+Aponta a recorrente, nas razões do apelo especial, violação aos arts. 1.022, II, do CPC e 38-B, § § 1º e 2º, da Lei 8.213/91, incluído pela Lei 13.846/2019, sustentando, além de negativa de prestação jurisdicional, que, a referida legislação, "prevê que para o período anterior a 1º de janeiro de 2023 o segurado especial comprovará o tempo de exercício da atividade rural por meio de auto declaração" (fl.71) .
+Afirma que, "a contar de 1º de janeiro de 2023 a prova testemunhal não é mais exigida para a comprovação do tempo de labor rural em regime de economia familiar; o meio de prova hábil exigido pela legislação para corroborar a prova material acerca do tempo como segurado especial é a autodeclaração de atividade rural" (fl. 71).
+Defende que, "ao exigir a produção da prova testemunhal para a comprovação do labor rural, o v. Acórdão faz exigência não prevista em Lei" (fl. 72).
+Ao final requer a reforma do acórdão, " reconhecendo-se que a contar de 1º de janeiro de 2023 a prova testemunhal não é mais exigida para a comprovação do tempo de labor rural em regime de economia familiar e que o meio de prova hábil exigido pela legislação para corroborar a prova material acerca do tempo como segurado especial é a autodeclaração de atividade rural, razão pela qual o mandado de segurança é meio hábil para o reconhecimento do direito vindicado pela impetrante" (fl.77) .
+Parecer do Ministério Público Federal pelo desprovimento do agravo (fls. 136/139).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, o Tribunal de origem, com base no conjunto probatório dos autos, ao julgar a demanda, adotou as seguintes razões de decidir (fls. 34/35):
+A decisão inicial foi proferida nos seguintes termos:
+"(..)
+No caso em exame, os documentos que instruíram o mandado de segurança já haviam sido anexados ao processo administrativo (evento 1, PROCADM10), sendo que o INSS deixou de reconhecer o período ora postulado, entre os 10 e 14 anos de idade, não em virtude da idade propriamente dita mas com fundamento na ausência de prova do efetivo labor rural, conforme decisão proferida na ACP 50316175120184047100, tendo constado o seguinte do item 10 do parecer (evento 1, INDEFERIMENTO7):
+"No entanto, verifica-se que para o período apresentou apenas documentos em nome do pai e nada que demonstre que a(o) interessada(o) efetivamente trabalhou nas lides rurais como prevê a decisão proferida em ACP. Saliente-se que dada a excepcionalidade do reconhecimento em idade inferior a juridicamente prevista é necessário que os elementos probatórios apresentados sejam robustos, sob pena de, injustamente, se reconhecer o trabalho de todas as crianças cujos pais foram agricultores, sem que tenha havido efetiva e constante participação delas no trabalho rural e não apenas ajudas eventuais que não caracterizam trabalho. Importa destacar que a decisão salientou que apenas o trabalho comprovadamente exercido por criança é por ela tutelado, do que se depreende que não é suficiente apenas a presunção do trabalho mediante apresentação unicamente de documentos dos pais."
+Além disso, embora o segurado tenha apresentado Autodeclaração de Segurado Especial Rural, nos termos do §2º do art. 38-B da Lei n.º 8.213/91, não foi produzida prova testemunhal.
+Verifica-se, assim, que a prova pré-constituída, no caso em exame, não é bastante por si só para demonstrar a existência do direito líquido e certo ao reconhecimento do labor rural exercido pela parte impetrante no período postulado.
+Diante da insuficiência da documentação apresentada e da necessidade de abertura de instrução probatória, que é inviável em sede de mandado de segurança, resta configurada a inadequação da via eleita.
+A recorrente, no entanto, nas razões do Recurso Especial, limitou-se a defender que, "ao exigir a produção da prova testemunhal para a comprovação do labor rural, o v. Acórdão faz exigência não prevista em Lei" (fl. 72). Não cuidou de impugnar, especificamente, o fundamento do acórdão segundo o qual, "Diante da insuficiência da documentação apresentada e da necessidade de abertura de instrução probatória, que é inviável em sede de mandado de segurança, resta configurada a inadequação da via eleita" (fl. 34), o que, por si só, mantém incólume o julgado combatido.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Logo, sendo o fundamento suficiente para manter o julgado, a irresignação esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 864.643/PR, Rel. Ministro Ricardo Villlas Bôas Cueva, DJe de 20/3/2018).
+Ademais, a alteração das premissas adotadas pela Corte de origem, no sentido de que, "necessidade de dilação probatória para fins de comprovação das alegações iniciais, que é inviável em sede de mandado de segurança, resta configurada a inadequação da via eleita" (fl. 36), tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA PREVENTIVO. ICMS. MATÉRIA CONSTITUCUONAL. INADEQUAÇÃO DA VIA DE RECURSO ESPECIAL. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284 DO STF.
+PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. CONCLUSÃO DA CORTE LOCAL QUANTO À NÃO DEMONSTRAÇÃO DA AMEAÇA DE LESÃO A DIREITO LÍQUIDO E CERTO. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO APELO NOBRE E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. (..)
+2. Também inviável a revisão do acórdão quanto à matéria de direito local, na via do recurso especial, nos termos da Súmula n. 280 do STF.
+3. (..)
+4. (..)
+5. Quanto à possibilidade de impetração de mandado de segurança preventivo, o acórdão recorrido não destoa da jurisprudência desta Corte, que já se manifestou no sentido de que, mesmo em matéria tributária, exige-se efetiva ameaça decorrente de atos concretos ou preparatórios por parte da autoridade coatora, não bastando o risco de lesão a direito líquido e certo, baseado em conjecturas por parte do impetrante.
+6. No caso, a Corte regional, soberana na análise das circunstâncias fáticas e probatórias da causa, concluiu inexistir comprovação do direito líquido e certo da parte. Incide, portanto, a Súmula n. 7 do STJ.
+7. A existência de óbice processual impendido conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da alegada divergência jurisprudencial acerca do tema.
+8. Agravo conhecido, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp n. 2.526.771/MT, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 3/9/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
