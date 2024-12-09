@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO FORTES ENGENHARIA S.A. (EM RECUPERACAO JUDICIAL) contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO em apelação nos autos de ação de obrigação de fazer c/c indenizatória por danos materiais e morais.
+O julgado foi assim ementado (fls. 595-596):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DO IMÓVEL COMPROVADO ATRAVÉS DOS DOCUMENTOS ACOSTADOS AOS AUTOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. CONDENAÇÃO DA RÉ AO PAGAMENTO DA MULTA CONTRATUAL; EM DANOS MORAIS, E, NA DEVOLUÇÃO DA TAXA SATI (TAXA DE ASSESSORIA TÉCNICA-IMOBILIÁRIA). ATRASO NA ENTREGA DO IMÓVEL APÓS O PRAZO CONVENCIONADO, COM A PRORROGAÇÃO DOS 180 DIAS. REGISTRO DO HABITE-SE A DESTEMPO. TEORIA DO RISCO DO EMPREENDIMENTO. FORTUITO INTERNO QUE NÃO AFASTA A RESPONSABILIDADE DO EMPREENDEDOR. PRORROGAÇÃO DO PRAZO DE 180 PARA A ENTREGA DO IMÓVEL PREVISTO NO ITEM 5.2 DA PROMESSA DE COMPRA E VENDA. APLICAÇÃO DA SÚMULA 350 TJ/RJ. DANOS MORAIS IN RE IPSA, FIXADO EM PATAMAR RAZOÁVEL. PRECEDENTES DO TJ/RJ. DEMORA NA CONSTRUÇÃO DO EMPREENDIMENTO NÃO ILIDIDA PELA PARTE RÉ. MULTA DEVIDA, CONTUDO, FIXADA EM DESACORDO COM O PERCENTUAL PREVISTO NA CLAUSULA 6.1 DA PROMESSA DE COMPRA E VENDA. POSSIBILIDADE DE INVERSÃO DA CLÁUSULA PENAL. TEMAS 970 E 971 DO STJ. PRESCRIÇÃO DA TAXA SATI E DA COMISSÃO DE CORRETAGEM. TESE FIXADA NO JULGAMENTO DO RESP  1.551.956/SP, SOB O RITO DO REPETITIVO, REFERENTE À INCIDÊNCIA DA PRESCRIÇÃO TRIENAL SOBRE A PRETENSÃO DE RESTITUIÇÃO DOS VALORES PAGOS A TÍTULO SERVIÇO DE ASSISTÊNCIA TÉCNICO-IMOBILIÁRIA (SATI), E, COMISSÃO DE CORRETAGEM. COBRANÇA DE IPTU DEVIDA, PORÉM, DE FORMA SIMPLES, UMA VEZ QUE, INEXISTE PROVA DA MÁ-FÉ A JUSTIFICAR A DEVOLUÇÃO EM DOBRO PREVISTA NO ARTIGO 42 DA LEI 8.078/90. CONHECIMENTO E PROVIMENTO PARCIAL DE AMBOS OS RECURSOS.
+Os embargos de declaração opostos foram parcialmente acolhidos nos termos da seguinte ementa (fl. 674):
+EMBARGOS DE DECLARAÇÃO COM FUNDAMENTO NOS ARTS. 1022 E 1025, DO NCPC -. OS EMBARGOS DE DECLARAÇÃO, CONFORME DISPÕE O ART. 1.022 DO CPC, DESTINAM-SE A SUPRIR OMISSÃO, AFASTAR OBSCURIDADE, ELIMINAR CONTRADIÇÃO OU CORRIGIR ERRO MATERIAL EXISTENTE NO JULGADO. OS EMBARGOS INTERPOSTOS PELA RECORRENTE TÊM POR OBJETO SANAR SUPOSTAS OMISSÕES APONTADAS E ERRO MATERIAL, BEM COMO PREQUESTIONAR A MATÉRIA. O V. ACÓRDÃO RECORRIDO ABORDOU COM CLAREZA OS PONTOS POSTOS A EXAME, NECESSÁRIOS AO JULGAMENTO DO RECURSO, ADOTANDO COMO FUNDAMENTO NORMAS LEGAIS PERTINENTES A MATÉRIA E JURISPRUDÊNCIAS DOS EGRÉGIO TRIBUNAIS SUPERIORES. EM RELAÇÃO AO ERRO MATERIAL QUANTO A FORMA DA FIXAÇÃO DA VERBA HONOIRÁRIA, ASSISTE RAZÃO AO RECORRENTE, O QUE SE CORRIGE NO PRESENTE MOMENTO. CONHECIMENTO E PROVIMENTO PARCIAL DO RECURSO.
+Nas razões do recurso especial, o ora agravante aponta violação dos seguintes artigos:
+a) 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, uma vez que o Tribunal a quo não se manifestou sobre a alegação de que a ocorrência de dano moral não se presume, mas que se configura em hipótese mais graves quando presentes circunstâncias excepcionais que comprovem efetiva violação da personalidade do recorrido.
+b) 186 e 927 do Código Civil impugnando a existência de danos morais indenizáveis, uma vez tratar-se de mero inadimplemento contratual.
+Alega que o atraso na entrega do imóvel não configura dano moral, sendo mero inadimplemento contratual.
+Aduz que "o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade do promitente-comprador" (fl. 702).
+Argumenta que a condenação em danos morais foi aplicada sem a demonstração de circunstância excepcional que pudesse importar em significativa e anormal ofensa à personalidade do adquirente do imóvel.
+Sustenta que o julgado recorrido diverge do entendimento do STJ de que não cabe condenação por danos morais em caso de atraso na entrega de imóveis.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões não foram apresentadas (fl. 758).
+É o relatório. Decido.
+I - Da alegada negativa de prestação jurisdicional. Da violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC
+Afasta-se a alegada ofensa aos arts. 489, §1º, IV, e 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Acerca da questão suscitada, consta do acórdão impugnado o seguinte (fls. 641-643, destaquei ):
+Em relação a condenação da parte Ré ao pagamento de danos morais, o magistrado a quo fixou a quantia da condenação observando os princípios da razoabilidade e da proporcionalidade.
+O art.5º, V e X, da Constituição da República assegurou a indenização por dano moral, mas não estabeleceu os parâmetros para a fixação deste valor. Entretanto, esta falta de parâmetro não pode levar ao excesso, ultrapassando os limites da razoabilidade e da proporcionalidade.
+A regra é a de arbitramento judicial e o desafio continua sendo a definição de critérios que possam nortear o juiz na fixação do quantum a ser dado em favor da vítima do dano injusto.
+Com efeito, o Juiz deve adotar critérios norteadores da fixação do valor da condenação, onde deve levar em conta o grau de culpa do agente, culpa concorrente da vítima e condições econômicas das partes, além dos princípios da razoabilidade.
+Tal verba representa uma compensação e não um ressarcimento dos prejuízos sofridos, impondo ao ofensor a obrigação de pagamento de certa quantia de dinheiro em favor do ofendido, pois ao mesmo tempo em que agrava o patrimônio daquele, proporciona a este uma reparação satisfativa.
+ ..
+A verba indenizatória fixada pelo magistrado de primeiro grau atendeu ao requerido pelo Autor na peça inaugural e aos princípios da razoabilidade e proporcionalidade, não merecendo qualquer modificação no valor da mesma.
+No julgamento dos embargos aclaratórios constou o seguinte (fl. 676, destaquei):
+ ..
+Em apreciação as alegações trazidas pela Embargante, no sentido de que houve omissões no julgado, as mesmas não prosperam, tendo o v. acórdão abordado e decidido todos os pontos necessários ao julgamento do recurso. Em relação a verba indenizatória retou consignado no julgado que o magistrado de primeiro grau de jurisdição fixou a quantia de acordo com os princípios da razoabilidade de proporcionalidade.
+O v. acórdão embargado decidiu a matéria posta à exame com fundamento no ordenamento jurídico vigente e pertinente à matéria, e, nos entendimentos firmados em Temas pelas Egrégias Instâncias superiores.
+ ..
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da alegada violação dos arts. 186 e 927 do CC. Danos morais
+Em relação à violação dos arts. 186 e 927 do CC, verifica-se que o Tribunal local, instância soberana na análise das provas, concluiu pela responsabilidade da parte recorrente de indenizar à parte recorrida pelos danos morais decorrentes do atraso na entrega do bem imóvel, incluindo o prazo de tolerância. Confira-se (fls. 601-607, destaquei):
+ ..
+Se observa das provas constantes dos autos que, apesar do habite-se ter sido expedido pela Municipalidade em 31.07.2015, há prova robusta que demonstra não ter sido o imóvel entregue pelo Réu ao Autor no prazo estipulada no contrato.
+No caso vertente, inegável que o atraso na entrega do imóvel causou prejuízo e transtorno ao Autor que precisa ser reparado, sobretudo pela legítima expectativa que lhes restou frustrada.
+Não se deve olvidar que a cláusula de tolerância é válida, porém, o atraso na entrega da unidade imobiliária com os acréscimos previstos no contrato sem justifica plausível a justificar a mora não pode ser aceita. Caberia a Empresa Recorrente tomar as medidas cabíveis para evitar o prejuízo ao Autor, uma vez que os riscos da atividade fazem parte do negócio explorado na atividade empresarial.
+Tem-se, assim, que o Apelante não logrou êxito em demonstrar fato impeditivo, modificativo ou extintivo do direito do autor, nos termos do artigo 373, inciso II, do CPC, e/ou, quaisquer das hipóteses do art. 14, § 3º do CODECOM de forma que resta patente a falha na prestação dos serviços pela instituição financeira, o que lhe impõe a responsabilidade pelo atraso da entrega da unidade imobiliária.
+ ..
+Em relação a condenação da parte Ré ao pagamento de danos morais, o magistrado a quo fixou a quantia da condenação observando os princípios da razoabilidade e da proporcionalidade.
+ ..
+Assim, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. IMÓVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ATRASO NA ENTREGA DA OBRA DE ONZE MESES APÓS OS 180 DIAS DE TOLERÂNCIA. PROCEDÊNCIA DO PLEITO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. REVALORAÇÃO DA PROVA. AFASTAMENTO. 2. RAZÕES RECURSAIS INSUFICIENTES. 3. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (acerca da obrigação de indenizar pela demora de quase um ano além do prazo de tolerância) demanda reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo também o caso de revaloração das provas.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.200.676/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ .
+1. O Tribunal de origem, analisando o contexto probatório dos autos, concluiu que o atraso na entrega do imóvel provocou mais que mero dissabor, sendo devida a indenização por danos morais. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+2. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ.
+ ..
+8. Agravo interno desprovido. (AgInt no REsp n. 1.953.733/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DO CONTRATO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. DANOS MORAIS CONFIGURADOS DE FORMA EXCEPCIONAL. OFENSA A DIREITOS DA PERSONALIDADE QUE EXASPERAM MERO DISSABOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.  ..  AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem consignou a ocorrência de danos morais na espécie, tendo em vista que a demora na entrega do imóvel adquirido na planta, excepcionalmente neste caso, gerou significativa e anormal violação do direito da personalidade do promitente-comprador, em razão de transtornos que ocasionaram angústia, apreensão, intranquilidade e dificuldades.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+ ..
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.042.494/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instânc ias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
