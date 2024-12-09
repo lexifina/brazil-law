@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Lucas Rodrigo Lima , em que se aponta como autoridade coatora a Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus criminal n. 2314459-60.2024.8.26.0000, mantendo a prisão preventiva do paciente imposta pelo Juízo da 3ª Vara Criminal da comarca de Mogi das Cruzes/SP, pela suposta prática dos crimes dos arts. 33, caput, da Lei n. 11.343/2006 e 180 do Código Penal.
+Sustenta a defesa ilegalidade na prisão em flagrante, em razão da ausência de justa causa para a busca pessoal e veicular, considerando que os policiais militares fizeram a busca pessoal do paciente sem afirmar qualquer atitude suspeita ou informações de denúncias, não definiram qualquer desculpa plausível para justificar a referida abordagem, apenas nervosismo, sendo isso atitude comum de qualquer pessoa (fl. 9).
+Noutro ponto, discorre sobre a ausência de fundamentos idôneos a justificar a imposição da medida.
+Requer, assim, a concessão liminar da ordem para o reconhecimento da nulidade da prisão em flagrante ante a busca sem fundadas razões, nos termos do artigo 5º, inciso LXV, da CF/88; bem como o reconhecimento da ilicitude das provas obtidas no referido ato, sendo estas, ilícitas por derivação, nos moldes do artigo 157, § 1º, do Código de Processo Penal (fl. 15).
+É o relatório.
+Tem-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas e receptação; prisão convertida em preventiva, com fundamento na garantia da ordem pública.
+O Tribunal local afastou a alegada ilegalidade da busca pessoal nos seguintes fundamentos (fls. 20/23):
+ ..
+inviável cogitar-se da nulidade da abordagem policial, ao argumento de inobservância dos artigos 240, § 2º, e 244, ambos do Código Penal. Isto porque a atuação dos policiais militares consistente em abordagem e busca pessoal e veicular se deu em virtude de fundada suspeita, uma vez que o paciente, que estava a bordo de automóvel com placas de cidade distante, demonstrou nervosismo ao notar a presença dos agentes de segurança pública, o que ensejou a abordagem realizada, em consonância com o artigo 240, § 2º, do Código de Processo Penal.
+ ..
+Assim, a abordagem realizada pelos policiais militares ao paciente não foi aleatória. Ao contrário, conforme restou apurado, a abordagem feita pelos agentes de segurança pública foi amparada por circunstâncias objetivas que indicavam a existência de grande probabilidade de que fossem encontrados objetos ilícitos em poder do acusado.
+Com efeito, no que se refere à busca pessoal, o art. 240, § 2º, do Código de Processo Penal exige a ocorrência de fundada suspeita para que o procedimento persecutório esteja autorizado e, portanto, válido.
+Ocorre que a Sexta Turma desta Corte entende que a permissão para a revista pessoal - a qual se equipara à busca veicular - decorre de fundada suspeita devidamente justificada pelas circunstâncias do caso concreto de que o indivíduo esteja na posse de armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+No caso, depreende-se do exposto a ausência de justa causa para a atuação dos policiais, visto que decorreu de parâmetro não aferível por terceiro imparcial - apenas o nervosismo do paciente. O Superior Tribunal já decidiu que não satisfazem a exigência legal, por si sós, meras informações de fonte não identificada (e.g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta (precedente supracitado).
+Ante o exposto, concedo liminarmente a ordem para trancar a Ação Penal n. 1501995-32.2024.8.26.0616, em trâmite no Juízo da 3ª Vara Criminal da comarca de Mogi das Cruzes/SP e revogar a prisão preve ntiva imposta ao paciente, expedindo-se o respectivo alvará de soltura, salvo se estiver segregado por outro motivo.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E RECEPTAÇÃO. BUSCA PESSOAL E VEICULAR. AUSÊNCIA DE JUSTA CAUSA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. TRANCAMENTO DA AÇÃO PENAL. MEDIDA QUE SE IMPÕE.
+Ordem concedida liminarmente nos termos do dispositivo.
