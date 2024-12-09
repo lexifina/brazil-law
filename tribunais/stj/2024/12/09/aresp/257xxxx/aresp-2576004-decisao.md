@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão da vice-presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, que não admitiu o recurso especial interposto pelos agravantes.
+Os agravantes foram condenados às penas de 8 anos e 10 meses de reclusão e ao pagamento de 22 dias-multa, cada um, pela prática do crime de roubo majorado pelo concurso de pessoas e pelo emprego de arma de fogo (art. 157, §2º, II e §2º-A, I, do Código Penal) (e-STJ fls. 953-977 ).
+O Tribunal manteve a condenação (e-STJ fls. 1091-1134).
+Contra esse acórdão, interpôs-se recurso especial com base na alínea "a" do art. 105, inc. III, da CF alegando, em síntese: negativa de vigência ao art. 68, parágrafo único, do CP, pois em casos de concurso de causas de aumento de pena, deve-se eleger apenas uma delas na terceira etapa de fixação da pena, ao passo que a origem teria aplicado duas causas cumulativamente (e-STJ fls.1141-1149).
+O recurso especial não foi admitido pelo Tribunal a quo em razão do óbice da Súmula n. 7 do STJ (e-STJ fls. 1167-1170).
+Foi interposto, então, o presente agravo em recurso especial indicando que não se pretende a análise de fatos e provas, mas a correta aplicação de tese jurídica, a partir de dados que já constam do acórdão recorrido, isto é, para que se reconheça que o Tribunal de origem aplicou indevidamente fator de aumento da pena na terceira etapa da dosimetria por ter considerado duas causas de aumento constantes da parte especial (e-STJ fls. 1178-1185).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo, pois a decisão recorrida se encontra em compasso com a jurisprudência do STJ e modificar as conclusões do acórdão importariam em revolvimento de acervo fático-probatório, o que encontra óbice na Súmula n. 7 do STJ (e-STJ fls.1221-1224).
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo de que o conhecimento do recurso é impedido pela Súmula n. 7 do STJ, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Por fim, a tese não exige o reexame de provas, pois parte de fatos incontroversos nos autos - o Tribunal de origem aplicou duas causas de aumento de pena na terceira fase da dosimetria - para discutir se assim procedendo o acórdão recorrido violou o art. 68, parágrafo único, do CP (não incidência da súmula nº 7 do STJ).
+Sendo assim, conheço do recurso especial. E, no mérito, entendo que a pretensão recursal não merece provimento.
+A controvérsia posta em julgamento é se é possível a aplicação de duas causas de aumento de pena previstas na parte especial do Código Penal.
+No ponto, colhe-se do acórdão recorrido:
+C) Da concorrência de causas de aumento
+Sustenta a defesa que, na terceira fase da dosimetria da pena, deveria ser aplicada apenas uma causa de aumento, não sendo possível a incidência de duas majorantes em cascata.
+No caso dos autos, a magistrada de primeiro grau considerou a existência de duas causas de aumento da parte especial, para o crime de roubo, quais sejam, o concurso de agentes (art. 157, §2º, II, CP) e o emprego de arma de fogo (art. 157, §2º-A, I, CP).
+Por conseguinte, na terceira fase da dosimetria da pena, aplicou as duas causas de aumento, de forma cumulativa.
+O Código Penal, em seu artigo 68, dispõe que, in verbis:
+"Art. 68 - A pena-base será fixada atendendo-se ao critério do art. 59 deste Código; em seguida serão consideradas as circunstâncias atenuantes e agravantes; por último, as causas de diminuição e de aumento. Parágrafo único - No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua."
+Assim, constata-se que o legislador processual deu ao magistrado a faculdade de aplicar apenas uma causa de aumento ou de diminuição, prevalecendo aquela que mais aumente ou mais diminua.
+Dessa forma, em sendo uma faculdade judicial, nada impede a incidência de todas as causas de aumento ou diminuição presentes no caso concreto.
+ ..
+Portanto, o magistrado tem a faculdade de aplicar de forma cumulativa as causas de aumento da parte especial do Código Penal. Todavia, a escolha pelo cúmulo das majorantes necessita de fundamentação, com base nas circunstâncias do caso concreto, em que sejam descritas as peculiaridades do fato que justifiquem a imposição mais severa da pena.
+In casu, a magistrada de primeiro grau fundamentou a utilização das duas causas de aumento, entendendo ser proporcional aos fatos narrados, razão pela qual mantenho a incidência das duas majorantes.
+Rejeito, portanto, esta tese.
+A questão é sedimentada na jurisprudência do STJ, conforme julgado a seguir reproduzido (grifos nossos):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. VIOLAÇÃO AO ART. 226 DO CÓDIGO DE PROCESSO PENAL - CPP. NULIDADE AFASTADA. OBEDIÊNCIA AO DISPOSITIVO LEGAL. EXISTÊNCIA DE OUTRAS PROVAS. PLEITO ABSOLUTÓRIO QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA. PENA-BASE. FRAÇÃO DE AUMENTO. MAUS ANTECEDENTES. PROPORCIONALIDADE. MAJORANTE. EMPREGO DE ARMA DE FOGO. DESNECESSIDADE DE APREENSÃO E PERÍCIA. PALAVRAS DAS VÍTIMAS. AFASTAMENTO QUE ENCONTRA ÓBICE NA SÚMULA N. 7 DO STJ. CUMULAÇÃO DE MAJORANTES. ART. 68 DO CÓDIGO PENAL - CP. FUNDAMENTAÇÃO CONCRETA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em nulidade no reconhecimento do réu. Isso porque, conforme se verifica dos autos, após o delito, as vítimas, na delegacia, descreveram com detalhes o modus operandi do crime além das características físicas e das vestimentas utilizadas pelos agentes na ocasião (fls. 3/6), procedendo posteriormente seu reconhecimento pessoal, indicando, sem sombra de dúvida, a autoria.
+Em juízo as vítimas realizaram novo reconhecimento pessoal do recorrente.
+2. A autoria delitiva não tem como único elemento de prova o reconhecimento feito pelo ofendido, tendo em vista sua constatação por outros elementos probatórios provenientes não somente do inquérito policial, mas também da instrução processual, notadamente nos depoimentos das vítimas e no reconhecimento pessoal realizado em juízo, além da apreensão do bem subtraído na posse do recorrente (fl. 251).
+3. O acórdão está em consonância com a orientação jurisprudencial desta Corte, no sentido de que eventual inobservância do rito legal previsto no art. 226 do CPP não conduz necessariamente ao desfecho absolutório, se houver outras provas aptas a confirmar a autoria delitiva, como é a hipótese dos autos.
+4. Para se acatar o pleito absolutório fundado na suposta ausência de provas suficientes para a condenação, seria inevitável o revolvimento fático-probatório do feito, vedado pela Súmula n. 7 deste STJ.
+5. O Tribunal de Justiça aplicou a fração de 1/5 considerando os maus antecedentes do agente, que conta com duas condenações anteriores. T al entendimento encontra amparo na jurisprudência desta Corte Superior, segundo a qual a existência de multiplicidade de condenações valorada s a título de maus antecedentes, justifica o incremento da pena-base em fração mais gravosa, exatamente como se verificou na hipótese, não havendo falar em desproporcionalidade na pena aplicada.
+6. O entendimento do Tribunal de origem está de acordo com a jurisprudência desta Corte, que se fixou no sentido da prescindibilidade da apreensão da arma de fogo e da realização de perícia para a incidência da referida causa de aumento, caso comprovado seu emprego por outros meios de prova.
+7. Esta Corte possui o entendimento de que " ..  a interpretação correta do art. 68, parágrafo único, do Código Penal, permite a aplicação de duas causas de aumento quando existe fundamentação concreta para tanto" (AgRg no REsp n. 1.872.157/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/2/2021).
+8. No caso, verifica-se que as instâncias ordinárias, ao aplicar cumulativamente as majorantes do concurso de agentes e emprego de arma de fogo, respectivamente em 1/3 (um terço) e 2/3 (dois terços), indicou fundamentação concreta e suficiente para justificar o referido incremento, destacando a maior gravidade da conduta, verificada pelo modus operandi, tendo em vista que praticado por dois agentes, com emprego de duas armas tipo pistola, inclusive tendo um deles encostado a arma na cabeça de uma das vítimas.
+Precedentes.
+9 . Agravo regimental desprovido.
+(AgRg no REsp n. 2.114.612/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, inc. II, b, do RISTJ, conheço do agravo para conhecer e negar provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
