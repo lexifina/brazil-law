@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE EM LICITAÇÃO. CONVERSÃO DO RECURSO EM SENTIDO ESTRITO EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. RECURSO INTEMPESTIVO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL INAPLICÁVEL. OMISSÃO. NÃO CONFIGURAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+2. "A jurisprudência desta Corte Superior admite a fungibilidade recursal, a teor do art. 579 do CPP, quando, além de observado o prazo do recurso que se pretende reconhecer, não fica configurada a má-fé ou a prática de erro grosseiro" (AgRg no AR Esp n. 1.724.411/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 11/10/2022, D Je de 19/10/2022).
+3. No caso, para que o recurso em sentido estrito fosse recebido como agravo regimental, seria necessária a observância do prazo de cinco dias corridos, mas a defesa se valeu da cisão do prazo processual possível apenas para o primeiro, que prevê sua interposição em cinco dias, com a possibilidade de apresentação das razões recursais em dois dias contados da interposição - arts. 586 e 588 do CPP.
+4. Como a decisão recorrida foi publicada em 21/9/2023, e as razões recursais foram apresentadas em 28/9/2023, fora do prazo legal de cinco dias corridos, o recurso é manifestamente intempestivo, circunstância que impede a aplicação da fungibilidade.
+5. O único recurso cabível para provocar o órgão colegiado competente a se manifestar sobre decisão singular proferida no mesmo grau de jurisdição é o agravo regimental. Na espécie, além da extemporaneidade, houve erro grosseiro também a obstar a fungibilidade recursal.
+6. Não há necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas discutidos. Em verdade, o embargante trata como omissão a sua irresignação com a solução prévia.
+7. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CLAUDINEI ALVES DOS SANTOS opõe embar gos de declaração ao acórdão de fls. 26.438-26.440 , em que não foi provido o agravo regimental interposto.
+A defesa alega omissão quanto à aplicação do princípio da instrumentalidade das formas.
+Requer que sejam supridas as imperfeições acima apontadas.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE EM LICITAÇÃO. CONVERSÃO DO RECURSO EM SENTIDO ESTRITO EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. RECURSO INTEMPESTIVO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL INAPLICÁVEL. OMISSÃO. NÃO CONFIGURAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+2. "A jurisprudência desta Corte Superior admite a fungibilidade recursal, a teor do art. 579 do CPP, quando, além de observado o prazo do recurso que se pretende reconhecer, não fica configurada a má-fé ou a prática de erro grosseiro" (AgRg no AR Esp n. 1.724.411/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 11/10/2022, D Je de 19/10/2022).
+3. No caso, para que o recurso em sentido estrito fosse recebido como agravo regimental, seria necessária a observância do prazo de cinco dias corridos, mas a defesa se valeu da cisão do prazo processual possível apenas para o primeiro, que prevê sua interposição em cinco dias, com a possibilidade de apresentação das razões recursais em dois dias contados da interposição - arts. 586 e 588 do CPP.
+4. Como a decisão recorrida foi publicada em 21/9/2023, e as razões recursais foram apresentadas em 28/9/2023, fora do prazo legal de cinco dias corridos, o recurso é manifestamente intempestivo, circunstância que impede a aplicação da fungibilidade.
+5. O único recurso cabível para provocar o órgão colegiado competente a se manifestar sobre decisão singular proferida no mesmo grau de jurisdição é o agravo regimental. Na espécie, além da extemporaneidade, houve erro grosseiro também a obstar a fungibilidade recursal.
+6. Não há necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas discutidos. Em verdade, o embargante trata como omissão a sua irresignação com a solução prévia.
+7. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+No que interessa, o ato embargado foi assim motivado (fls. 26.440 ):
+Com efeito, "A jurisprudência desta Corte Superior admite a fungibilidade recursal, a teor do art. 579 do CPP, quando, além de observado o prazo do recurso que se pretende reconhecer, não fica configurada a má-fé ou a prática de erro grosseiro" (AgRg no AR Esp n. 1.724.411/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 11/10/2022, D Je de 19/10/2022, grifei).
+No caso, para que o recurso em sentido estrito fosse recebido como agravo regimental, seria necessária a observância do prazo de cinco dias corridos, mas a defesa se valeu da cisão do prazo processual possível apenas para o primeiro, que prevê sua interposição em cinco dias, com a possibilidade de apresentação das razões recursais em dois dias contados da interposição - arts. 586 e 588 do CPP.
+Como a decisão recorrida foi publicada em 21/9/2023 (fl. 26.230), e as razões recursais foram apresentadas em 28/9/2023 (fl. 26.230), fora do prazo legal de cinco dias corridos, o recurso é manifestamente intempestivo, circunstância que impede a aplicação da fungibilidade.
+Ressalto, por oportuno, que o único recurso cabível para provocar o órgão colegiado competente a se manifestar sobre decisão singular proferida no mesmo grau de jurisdição é o agravo regimental. Por isso, além da extemporaneidade, entendo haver erro grosseiro também a obstar a fungibilidade recursal.
+Não vejo necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas discutidos. Em verdade, o embargante trata como omissão a sua irresignação com a solução prévia.
+À vista do exposto, rejeito os embargos de declaração.
