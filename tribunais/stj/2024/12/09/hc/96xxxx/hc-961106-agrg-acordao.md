@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ERRO NA DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão relativa à suposta ilegalidade na dosimetria da pena não foi examinada perante o Tribunal de origem no acórdão contestado, razão pela qual resta afastada a competência desta Corte Superior para conhecimento da matéria, sob pena de incorrer em indevida supressão de instância.
+2. De acordo com julgado deste Tribunal Superior: "para se considerar o tema tratado pela instância a quo, faz-se necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado" (AgRg no HC n. 778.674/SP, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 2/12/2022).
+3. Conforme orientação sedimentada do Superior Tribunal de Justiça - STJ: "até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte" (AgRg no HC n. 643.018/ES, relatora Ministra LAURITA VAZ, Sexta Turma, DJe de 21/6/2022).
+4. Agravo desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto pela DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO em benefício de EMANOEL SANTANA DE OLIVEIRA que objetiva a reforma da decisão monocrática que indeferiu liminarmente o habeas corpus, por reconhecer o óbice da supressão de instância.
+O agravante afirma que "ainda que na fundamentação a autoridade coatora não tenha enfrentado especificamente a questão da violação da Súmula 443 do STJ, fato é que o pleito como um todo foi analisado, especificamente com relação à dosimetria da pena, e não conhecido pelo E. TJSP, em flagrante ilegalidade" (fl. 70).
+Requer o provimento do recurso para conceder o habeas corpus e redimensionar a pena do paciente, considerando-se, apenas, o aumento de 1/3 na terceira fase da dosimetria.
+O Ministério Público Federal - MPF manifestou-se pelo desprovimento do agravo regimental (fls. 89/94).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ERRO NA DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão relativa à suposta ilegalidade na dosimetria da pena não foi examinada perante o Tribunal de origem no acórdão contestado, razão pela qual resta afastada a competência desta Corte Superior para conhecimento da matéria, sob pena de incorrer em indevida supressão de instância.
+2. De acordo com julgado deste Tribunal Superior: "para se considerar o tema tratado pela instância a quo, faz-se necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado" (AgRg no HC n. 778.674/SP, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 2/12/2022).
+3. Conforme orientação sedimentada do Superior Tribunal de Justiça - STJ: "até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte" (AgRg no HC n. 643.018/ES, relatora Ministra LAURITA VAZ, Sexta Turma, DJe de 21/6/2022).
+4. Agravo desprovido.
+VOTO
+O agravo preenche as condições de admissibilidade, razão por que deve ser conhecido. No mérito, a despeito da irresignação defensiva, a decisão combatida deve ser mantida, nos termos em que fundamentada, a conferir:
+"Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada ao presente caso.
+Da atenta leitura do acórdão impugnado verifica-se que o Tribunal de origem não se manifestou expressamente sobre a ilegalidade na dosimetria do paciente.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus " (fls. 61/63).
+Tal como ressaltado no ato contestado, a suposta ilegalidade da dosimetria, sob o enfoque de carência de fundamentação para incremento da pena na fração de 2/3 na terceira fase da dosimetria e de violação ao enunciado de Súmula n. 443 do Superior Tribunal de Justiça, não não foi apreciada pela Corte local, como se denota do acórdão de fls. 8/14.
+Além disso, embora destinem-se os embargos declaratórios, também, a sanar eventuais omissões, não há notícia de sua oposição perante o órgão competente, a tempo e modo adequados.
+Logo, este Superior Tribunal de Justiça fica impedido de deliberar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Ressalta-se que " é  vedada a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária" (AgRg no HC n. 754.464/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/4/2023, DJe de 26/4/2023).
+Oportuno destacar que "para se considerar o tema tratado pela instância a quo, faz-se necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado" (AgRg no HC n. 778.674/SP, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), QUINTA TURMA, julgado em 22/11/2022, DJe de 2/12/2022), o que não é o caso dos autos.
+Em reforço, saliento que "não se pode confundir a possibilidade de concessão de ofício da ordem, isto é, sem prévia provocação por parte do interessado, com a concessão per saltum, que se verifica quando a matéria não foi sequer submetida à análise do Tribunal a quo e, por isso, é vedada pela jurisprudência pacífica desta Corte" (AgRg no HC n. 670.966/SE, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/10/2022, DJe de 10/10/2022).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
