@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por FOSFERPET - INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE RAÇÃO ANIMAL LTDA. desafiando decisão da Presidência do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial com base nos seguintes fundamentos: (I) não houve infringência ao art. 371 do CPC; (II) quanto aos arts. 6º, § 3º da Lei 8.987/95 e 375 do CPC, não houve demonstração da alegada vulneração; (III) incidência da Súmula 7/STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Anote-se, de início, não assistir razão à parte agravante ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Ademais, o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou, de modo específico, o óbice da Súmula 7/STJ, apontado pela Corte de origem.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
