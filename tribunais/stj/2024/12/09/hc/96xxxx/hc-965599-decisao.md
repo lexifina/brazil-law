@@ -1,0 +1,28 @@
+DECISÃO
+O presente writ, impetrado em benefício de ARIE SOLOAGA CRUZ - condenado à pena total de 15 anos e 2 meses de reclusão, além do pagamento de 1.982 dias-multa, por incursão nos crimes de tráfico de drogas e associação para o tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500504-82.2019.8.26.0545), não comporta processamento.
+Busca a impetração a redução da fração de aumento da pena-base, ao argumento de que o quantum empregado - o dobro - é desproporcional.
+Adianto que o writ, no entanto, é manifestamente inadmissível.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a condenação transitou em julgado em 22/3/2022, e o presente writ foi impetrado em 3/12/2024, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+Registre-se, ainda, que esta via não é adequada para o amplo reexame de fatos e de provas para análise da dosimetria da pena imposta. Não se revelando, de mais a mais, nenhuma ilegalidade manifesta a ser reparada por meio da concessão de habeas corpus de ofício.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, pois, contravindo o que foi alegado pela defesa, o Magistrado exasperou a pena-base em dobro com base na circunstância judicial preponderante da quantidade de droga apreendida - 374,915 kg de cocaína e 402 g de maconha (fl. 127) -, nos termos do art. 42 da Lei n. 11.343/2006.
+Confiram-se, a propósito, os seguintes precedentes, nos quais esta Corte Superior de Justiça admitiu idêntico aumento da pena-base:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCOMPETÊNCIA ABSOLUTA. MATÉRIA NÃO SUBMETIDA À APRECIAÇÃO DO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. BUSCA VEICULAR. AUSÊNCIA DE ILEGALIDADE. PENA-BASE. GRANDE QUANTIDADE DE DROGA. ELEVAÇÃO JUSTIFICADA. MODULAÇÃO DA MINORANTE. MULA. CIRCUNSTÂNCIAS ADICIONAIS. BIS IN IDEM NÃO VERIFICADO.
+1. A matéria relativa à incompetência absoluta não foi examinada pelo Tribunal de origem, o que obsta a apreciação por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+2. De acordo com a jurisprudência desta Corte Superior, "até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária" (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/5/2017).
+3. Não há ilegalidade na busca veicular realizada, haja vista que as drogas, escondidas em dois tanques de combustível, foram apreendidas em regular fiscalização realizada pela Polícia Rodoviária Federal, conduta inerente às funções legais e de polícia judiciária no patrulhamento das rodovias. Não foi possível vistoriar de imediato o veículo, dada a pouca visibilidade e o período noturno, sendo retido o bem por situação irregular e para maiores averiguações, diante das respostas incoerentes do agravante a respeito do destino, origem e motivo da viagem.
+4. Indicado fundamento concreto para ensejar elevação da pena-base pelo dobro, considerando a grande quantidade apreendida (quase 360kg de cocaína).
+5. É válida a motivação para a incidência da minorante do tráfico privilegiado em fração menor dada a situação de mula, sem evidenciar bis in idem ou revelar flagrante ilegalidade, haja vista que, mesmo como transportador, o acusado se deixou cooptar pelo tráfico.
+6. Agravo regimental improvido.
+(AgRg no HC n. 783.194/SP, Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe 18/5/2023 - grifo nosso)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DE DROGA. AUMENTO PROPORCIONAL. TRÁFICO PRIVILEGIADO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. INVIABILIDADE. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem considerou a apreensão de 300kg de cocaína para elevar a pena-base no dobro do mínimo. Tendo sido apresentado elemento idôneo para a majoração da reprimenda básica, sendo, inclusive, elencado como circunstância preponderante (quantidade de droga), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+2. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas. Na hipótese, o órgão estadual validamente considerou as circunstâncias fáticas do crime para concluir pela habitualidade delitiva do agravante, tendo em vista o modus operandi do delito, a indicar profissionalismo no comércio espúrio.
+3. Agravo regimental não provido.
+(AgRg no HC n. 881.885/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/6/2024 - grifo nosso).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE REDUÇÃO DA PENA-BASE. WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
