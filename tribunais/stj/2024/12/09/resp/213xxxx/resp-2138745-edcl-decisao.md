@@ -1,0 +1,13 @@
+DECISÃO
+INSTITUTO DAS PEQUENAS MISSIONÁRIAS DE MARIA IMACULADA opõe embargos de declaração à decisão de fls. 87-89, alegando omissão sobre o alegado dissídio jurisprudencial relativo à tese de que a inclusão de um dos sócios no polo passivo da demanda justificaria a inclusão dos demais.
+Requer o acolhimento dos embargos de declaração para que seja sanada a omissão apontada.
+Não foram apresentadas contrarrazões (fls. 100-102).
+É o relatório. Decido.
+De fato, verifica-se que a alegação de dissídio jurisprudencial não foi analisada na decisão embargada.
+Entretanto, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+No acórdão proferido pela Corte de origem, entendeu-se que não foi comprovada nenhuma das hipóteses que autorizam a desconsideração da personalidade jurídica, a saber, desvio de finalidade da empresa ou confusão de seu patrimônio com o de seus sócios. Ressaltou ainda que o fato de uma das sócias ter sido incluída não autorizaria, por si só, a inclusão da outra no polo passivo do cumprimento de sentença (fl. 30). No recurso especial, a parte agravante, a título de divergência pretoriana, colaciona julgado que cuida de situação na qual já havia sido decretada a desconsideração da personalidade jurídica, decidindo-se que, naquele caso, não havia justificativa para que um dos sócios não fosse incluído no polo passivo da execução. Confira-se o acórdão trazido como paradigma no recurso especial (fls. 44-45):
+ACÓRDÃO 1ª TURMA INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - INSOLVÊNCIA DA EXECUTADA RECONHECIDA - INCLUSÃO, NO POLO PASSIVO, DE APENAS UM DOS TRÊS SÓCIOS - INEXISTÊNCIA DE FUNDAMENTO PARA A NÃO INCLUSÃO DOS DEMAIS - Considerando a composição societária da executada, e a ausência de justificativa para que, operada a desconsideração da personalidade jurídica, parte dos integrantes do quadro social seja mantida a salvo da responsabilidade pelos créditos inadimplidos pela empresa, há de ser deferido o pleito do exequente, determinando-se a inclusão dos demais sócios no polo passivo da demanda, para que a execução siga também em face destes. Agravo provido. (TRT-01ª R. - RO 0100051-73.2019.5.01.0010, relator José Nascimento Araújo Neto, Primeira Turma, julgado em 24.2.2021, destaquei.)
+Nesse contexto, não há semelhança entre as bases fáticas dos acórdãos confrontados, razão pela qual não são aptos para demonstrar o dissídio jurisprudencial.
+Ante o exposto, acolho os embargos de declaração, sem efeitos modificativos.
+Publique-se. Intimem-se.
+EMENTA
