@@ -1,0 +1,15 @@
+DECISÃO
+JUAN LEAL VILELA alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - condenado a 5 anos de reclusão, pelo crime de tráfico de drogas -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+A sentença, à fl. 51, remeteu-se aos fundamentos do decreto preventivo.
+Por sua vez. o Juízo de Direito, ao decretar a constrição cautelar, indicou a existência de registro criminal pelo mesmo crime, in verbis:
+ ..  os acusados  foram presos pela prática do crime previsto no Art. 33, da Lei nº 11.343/06. A prova da materialidade e indícios de autoria (fumus commissi delicti), pressupostos para a conversão da prisão em flagrante em prisão preventiva conforme a parte final do artigo 312 do Código de Processo Penal emergem dos autos, pelos depoimentos colhidos no APFD e pelas oitivas dos autuados. Verifica-se que o fato se deu no contexto do tráfico de drogas, observando- se em consultas feitas por este magistrado, inclusive, que o autuado Juan Leal Vilela responde a outro processo criminal também por crime de tráfico de entorpecentes. Portanto, há indicativos de reiteração delitiva, e de que as medidas elencadas no art. 319 são ineficazes no presente caso, razão pela qual converto a prisão em flagrante de JUAN LEAL VILELA em prisão preventiva, para garantia da ordem pública, nos termos dos artigos 311 e 312 do CPP.  ..  (fl. 57)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância, na sentença, apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para manter a prisão preventiva, ao salientar o fato de o paciente "responde r  a outro processo criminal também por crime de tráfico de entorpecentes".
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 789.267/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe de 25/5/2023.)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem in limine.
+Publique-se. Intimem-se.
+EMENTA
