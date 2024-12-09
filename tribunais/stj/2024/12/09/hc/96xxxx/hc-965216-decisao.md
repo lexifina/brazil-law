@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de THIAGO TRINDADE MARIA MORAES em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+HABEAS CORPUS.
+PRISÃO DOMICILIAR.
+O HABEAS CORPUS NÃO DEVE SER ADMITIDO PARA IMPUGNAÇÃO DE DECISÃO INTERLOCUTÓRIA, QUANDO O RISCO DE RESTRIÇÃO À LIBERDADE DE LOCOMOÇÃO FOR REMOTO, OU PARA ANTECIPAR A DISCUSSÃO DE QUESTÕES, DE DIREITO OU DE FATO, CUJA RESOLUÇÃO É APROPRIADA MEDIANTE A INTERPOSIÇÃO DE RECURSOS.
+NO CASO, A INCONFORMIDADE DO IMPETRANTE DIZ COM A DECISÃO DO VEPJCOLD-2º JUIZADO DA 2ª VARA ESTADUAL DE PROCESSO E JULGAMENTO DOS CRIMES DE ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO, QUE NOS AUTOS DO EXPEDIENTE N. 0460941-78.2011.8.21.0073, INDEFERIU O PEDIDO DE PRORROGAÇÃO DA PRISÃO DOMICILIAR HUMANITÁRIA DO PACIENTE.
+É CEDIÇO QUE A PRISÃO DOMICILIAR, NOS TERMOS DO ARTIGO 117 DA LEI DE EXECUÇÃO PENAL, SOMENTE SERÁ ADMITIDA AQUELE QUE CUMPRE PENA EM REGIME ABERTO, EM RESIDENCIA PARTICULAR, QUANDO SE TRATAR DE CONDENADO MAIOR DE 70 (SETENTA) ANOS OU ACOMETIDO DE DOENÇA GRAVE, OU AINDA, DE CONDENADA COM FILHO MENOR OU DEFICIENTE FÍSICO OU MENTAL OU GESTANTE. TODAVIA, EM SITUAÇÕES EXCEPCIONALÍSSIMAS, O BENEFÍCIO TAMBÉM TEM SIDO CONCEDIDO AOS CONDENADOS EM REGIME SEMIABERTO OU FECHADO. PORTANTO, TAL EXCEPCIONALIDADE, CAPAZ DE TRANSFERIR O CUMPRIMENTO DA PENA PARA O DOMICILIO, DEVE SER DEVIDAMENTE DEMONSTRADA NOS AUTOS.
+NA ESPÉCIE, VERIFICA-SE QUE O PACIENTE CUMPRE PENA TOTAL DE 32 ANOS E 04 MESES DE RECLUSÃO-COM SALDO REMANESCENTE DE PENA SUPERIOR A 18 ANOS DE RECLUSÃO, VISTO QUE C"ONDENADO PELOS CRIMES DE ROUBOS MAJORADOS, TRÁFICO DE DROGAS E PORTE ILEGAL ILEGAL DE ARMA DE FOGO, SENDO QUE NO PERÍODO EM QUE USUFRUÍA DO BENEFÍCIO DA PRISÃO DOMICILIAR, THIAGO TERIA SE ENVOLVIDO NO COMETIMENTO DOS DELITOS DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS.
+DESTACO, ENTÃO, QUE A FINALIDADE DA PREVISÃO CONTIDA NO ARTIGO 117 DA LEI DE EXECUÇÃO PENAL É RESGUARDAR A SAÚDE DE APENADO EXTREMAMENTE DEBILITADO EM RAZÃO DE DOENÇA GRAVE, PERMITINDO A REALIZAÇÃO DE UM TRATAMENTO DIGNO. NO ENTANTO, DA SIMPLES LEITURA DO ARTIGO MENCIONADO, CONCLUI-SE QUE A CONCESSÃO DA PRISÃO DOMICILIAR HUMANITÁRIA É UMA FACULDADE DO JULGADOR, QUE DEVE PROCEDER AO EXAME DA CONVENIENCIA DA MEDIDA A LUZ DAS PARTICULARIDADES DO CASO CONCRETO.
+EM RELAÇÃO ÀS QUESTÕES DE NATUREZA SUBJETIVA, DEVE-SE LEVAR EM CONSIDERAÇÃO O RISCO CONCRETO DE O AGENTE REITERAR NA PRÁTICA DELITIVA, SENDO QUE NO CASO EM COMENTO, CONSOANTE JA DESTACADO, HÀ INDICATIVOS DE QUE O PACIENTE SE APROVEITA DO BENEFÍCIO DA PRISÃO DOMICILIAR PARA COMETER NOVOS CRIMES.
+ADEMAIS, PARA A CONCESSÃO DO MENCIONADO BENEFÍCIO, EXIGE-SE PROVA TÉCNICA APTA A COMPROVAR QUE O AGENTE  PORTADOR DE DOENÇA GRAVE QUE LHE ACARRETE EXTREMA DEBILIDADE, ASSIM COMO A DEMONSTRAÇÃO DA IMPOSSIBILIDADE DE SE PRESTAR A DEVIDA ASSISTÊNCIA MÉDICA NA UNIDADE PRISIONAL. AQUI, CABE DESTACAR QUE, A DESPEITO DA EXIST NCIA DE INDICAÇÃO MÉDICA DE TRATAMENTO CIRÚRGICO, BEM COMO SESSÕES DE FISIOTERAPIA APÓS A RESPECTIVA INTERVENÇÃO CIRÚRGICA, NÃO HÁ COMPROVAÇÃO INCONTESTE DE QUE DITO TRATAMENTO NÃO POSSA SER REALIZADO PELA CASA PRISIONAL EM QUE ELE SE ENCONTRA CUSTODIADO, AINDA QUE "DE FORMA EXTERNA - MEDIANTE ESCOLTA, BEM COMO EM INTERNAÇÃO HOSPITALAR, SENDO QUE COMPETE À SUSEPE O GERENCIAMENTO DA SITUAÇÃO" (PASSAGEM DA DECISÃO IMPUGNADA).
+PARA ALÉM DISSO, CONSOANTE DESTACADO PELO TOGADO SINGULAR, (..) PODERA A CASA PRISIONAL, OU MESMO A DEFESA, POSTULAR A TRANSFERENCIA DO APENADO PARA OUTRO ESTABELECIMENTO QUE MELHOR ATENDA SUAS NECESSIDADES, CASO ENTENDAM NECESSÁRIO". A PROPÓSITO, DISPÕE O ARTIGO 7", INCISO II. DA RESOLUÇÃO N 404/2021. DO CNJ, QUE "A TRANSFERENCIA DE PESSOA PRESA PODERÁ SER EFETUADA COM FUNDAMENTO EM: (..) II NECESSIDADE DE TRATAMENTO MEDICO".
+AUSENTE CONSTRANGIMENTO ILEGAL.
+ORDEM DENEGADA. ACÓRDÃO
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, pois o paciente, por possuir doença grave, deve ter assegurado o direito ao cumprimento da pena em prisão domiciliar para evitar o agravamento do seu estado de saúde, especialmente considerando a impossibilidade de tratamento adequado no estabelecimento prisional.
+Requer, em suma, a concessão da prisão domiciliar humanitária.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+ ..  NO PERÍODO EM QUE USUFRUÍA DO BENEFÍCIO DA PRISÃO DOMICILIAR, THIAGO TERIA SE ENVOLVIDO NO COMETIMENTO DOS DELITOS DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS.
+ ..
+AQUI, CABE DESTACAR QUE, A DESPEITO DA EXIST NCIA DE INDICAÇÃO MÉDICA DE TRATAMENTO CIRÚRGICO, BEM COMO SESSÕES DE FISIOTERAPIA APÓS A RESPECTIVA INTERVENÇÃO CIRÚRGICA, NÃO HÁ COMPROVAÇÃO INCONTESTE DE QUE DITO TRATAMENTO NÃO POSSA SER REALIZADO PELA CASA PRISIONAL EM QUE ELE SE ENCONTRA CUSTODIADO, AINDA QUE "DE FORMA EXTERNA - MEDIANTE ESCOLTA, BEM COMO EM INTERNAÇÃO HOSPITALAR  ..  (fls. 15-16).
+Esse entendimento está de acordo com a jurisprudência firmada nesta Corte de que a prisão domiciliar humanitária poderá ser concedida ao apenado desde que comprovado que está acometido de moléstia grave e que no estabelecimento penal não há a assistência médica necessária ao tratamento adequado de sua saúde, o que não é o caso dos autos segundo se extrai do trecho acima transcrito.
+Ademais, para afastar os fundamentos adotados na origem a fim de justificar o indeferimento do pedido de prisão domiciliar seria necessário o revolvimento fático-probatório dos autos, o que não é cabível na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. GRAVE ESTADO DE SAÚDE E INEXISTÊNCIA DE TRATAMENTO ADEQUADO NA UNIDADE PRISIONAL. AUSÊNCIA DE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP.
+2. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram que o paciente está tendo o tratamento adequado no estabelecimento prisional. Para afastar essa conclusão, é necessário o revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 801.974/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. APENADO FORAGIDO. IDOSO. DOENÇA. COVID-19. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante encontra-se foragido, não tendo sequer dado início ao cumprimento da pena no regime semiaberto, cuja alegada ausência de vaga não fora comprovada nos autos.
+2. A idade avançada e as doenças apresentadas pelo agravante não autorizam a concessão automática da prisão domiciliar, devendo ser levado em consideração diversos aspectos relacionados ao apenado, à pena, à situação de risco e às medidas tomadas pelo poder público.
+3. Inexiste flagrante ilegalidade no indeferimento do pedido de prisão domiciliar pelo juízo da execução penal, o qual possui maiores condições de avaliar a real urgência e imprescindibilidade da medida em questão, ressaltando-se, ainda, a impossibilidade de reexame aprofundado do conjunto fático-probatório em habeas corpus.
+4. O agravante foi condenado por delito hediondo, atraindo a incidência do art. 5-A da Recomendação n. 62/2020 do CNJ.
+5. Agravo regimental desprovido. (AgRg no HC n. 800.902/RJ, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31.3.2023.)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
