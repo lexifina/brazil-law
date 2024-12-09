@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial .
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO PELA PRESENÇA DE ELEMENTOS CONCRETOS: PETRECHOS DO TRÁFICO E DECLARAÇÃO DE TESTEMUNHAS. ILEGALIDADE NÃO EVIDENCIADA. INDEFERIMENTO FUNDAMENTADO. REVISÃO. VIA IMPRÓPRIA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RESP.
+I. CASO EM EXAME
+Agravo em recurso especial interposto por CARLOS EDUARDO SCHETZ contra decisão que inadmitiu o recurso especial com base nas Súmula 7 e 83/STJ. O agravante busca a concessão da minorante do tráfico privilegiado, alegando que é primário, de bons antecedentes e que a suposta dedicação à atividade criminosa não foi demonstrada por fundamentos idôneos.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) verificar se o agravante faz jus à aplicação da minorante prevista no §4º do art. 33 da Lei 11.343/2006; (ii) analisar se o afastamento da referida minorante encontra-se devidamente fundamentado, ou se houve violação ao mencionado dispositivo legal.
+III. RAZÕES DE DECIDIR
+A jurisprudência do STJ entende que a presença de elementos como petrechos típicos de tráfico (balança de precisão, invólucros plásticos), constitui prova idônea para afastar a minorante do tráfico privilegiado, evidenciando a dedicação do réu a atividades criminosas.
+Tendo as instâncias ordinárias afastado a minorante fundamentadamente, com base em elementos concretos extraídos dos autos, como a apreensão de petrechos do tráfico , a pretendida revisão do julgado, com vistas à concessão da minorante, não se coaduna com a estreita via do especial, a teor da Súmula 7/STJ.
+IV . AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CARLOS EDUARDO SCHETZ contra decisão que inadmitiu o recurso especial ante a incidência das Súmulas 7 e 83/STJ.
+A defesa sustenta violação do art. 33, §4º, da Lei 11.343/06. Aduz que: "A aplicação da causa de diminuição de pena prevista no art. 33, § 4., da Lei n. 11.343/06 constitui direito subjetivo do Acusado, caso presentes os requisitos legais, não sendo possível obstar sua aplicação com base em considerações subjetivas do juiz" (e-STJ fl. 526).
+Requer seja conhecido e provido o recurso, a fim de que seja concedida ao agravante a minorante do tráfico privilegiado.
+Contrarrazoado, o MPF manifestou-se pelo provimento do recurso.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO PELA PRESENÇA DE ELEMENTOS CONCRETOS: PETRECHOS DO TRÁFICO E DECLARAÇÃO DE TESTEMUNHAS. ILEGALIDADE NÃO EVIDENCIADA. INDEFERIMENTO FUNDAMENTADO. REVISÃO. VIA IMPRÓPRIA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RESP.
+I. CASO EM EXAME
+Agravo em recurso especial interposto por CARLOS EDUARDO SCHETZ contra decisão que inadmitiu o recurso especial com base nas Súmula 7 e 83/STJ. O agravante busca a concessão da minorante do tráfico privilegiado, alegando que é primário, de bons antecedentes e que a suposta dedicação à atividade criminosa não foi demonstrada por fundamentos idôneos.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) verificar se o agravante faz jus à aplicação da minorante prevista no §4º do art. 33 da Lei 11.343/2006; (ii) analisar se o afastamento da referida minorante encontra-se devidamente fundamentado, ou se houve violação ao mencionado dispositivo legal.
+III. RAZÕES DE DECIDIR
+A jurisprudência do STJ entende que a presença de elementos como petrechos típicos de tráfico (balança de precisão, invólucros plásticos), constitui prova idônea para afastar a minorante do tráfico privilegiado, evidenciando a dedicação do réu a atividades criminosas.
+Tendo as instâncias ordinárias afastado a minorante fundamentadamente, com base em elementos concretos extraídos dos autos, como a apreensão de petrechos do tráfico , a pretendida revisão do julgado, com vistas à concessão da minorante, não se coaduna com a estreita via do especial, a teor da Súmula 7/STJ.
+IV . AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+Conforme relatado, busca a defesa a concessão da minorante do tráfico privilegiado.
+A questão foi assim tratada no acórdão recorrido (e-STJ fls. 107-110):
+Ao negar a benesse o juízo a quo consignou (ev. 173):
+ ..  Não há como se reconhecer a figura do tráfico privilegiado previsto no parágrafo quarto do art. 33 da LAD, visto que pressupõe requisitos cumulativos, quais sejam: que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+No particular, além da expressiva quantidade e a variedade das drogas apreendidas, restou incontroverso que há aproximadamente dois meses o acusado alugava imóvel com a finalidade única de armazenar as substâncias entorpecentes, não obstante se encontrasse desempregado desde 14 de junho de 2022 (evento 23, CTPS3).
+É contexto que evidencia a dedicação do réu às atividades criminosas, pois, se fosse neófito na narcotraficância, dificilmente teria em depósito a expressiva quantidade de 2,8 kg de maconha (suficiente para produzir até 5.626 cigarros de maconha, conforme acima descrito), 239,79 gramas de cocaína (com valor comercial superior a R$ 10.000,00  dez mil reais ) e 19,2 gramas de crack, tampouco teria alugado imóvel destinado unicamente a este fim, notadamente em situação de desemprego e sem renda lícita declarada.
+Conforme normatiza o art. 33, § 4º, da Lei n. 11.343/06: "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa ".
+É cediço que tais requisitos são cumulativos.
+In casu, ainda que o réu seja primário - até porque contava com apenas 19 anos de idade à época -, e não ostente antecedentes criminais, sua dedicação às atividades criminosas restou devidamente comprovada.
+Prova disso, é que o próprio réu, em juízo, confirmou que tinha alugado aquele imóvel, há aproximadamente 2 (dois) meses, tão somente para guardar as drogas, pois tinha uma dívida de drogas, no valor de aproximadamente R$ 4.000,00 (quatro mil reais), razão pela qual aceitou guardar os entorpecentes. O próprio apelante informou em juízo, que durante esse período ia todos os dias até o local, 1 (uma) ou 2 (duas) vezes por dia, para pegar a quantidade de droga solicitada e entregar à pessoa para quem estava guardando.
+Como se vê, ao contrário do que tenta fazer crer a defesa, o recorrente não preenche os requisitos para ser agraciado com a aplicação da aludida causa especial de diminuição de pena, pois conforme entendimento sedimentado, a benesse contida no art. 33, § 4º, da Lei n. 11.343/06 visa beneficiar o traficante "de primeira viagem", ou seja, aquela pessoa que cometeu um único ato isolado, situação na qual o réu não se encaixa, pois como o próprio réu enfatizou, durante aproximadamente 2 (dois) meses, ele se dirigia diariamente ao local aonde os entorpecentes estavam guardados, fracionava as drogas e as entregava ao solicitante, o que, por si só, evidencia sua dedicação às atividade criminosas.
+E ainda que a defesa alegue que o réu apenas aceitou guardar as drogas para quitar sua dívida de R$ 4.000,00 (quatro mil reais), da detida análise do feito, verifica-se que referida tese não faz nenhum sentido. Ora, se de fato o réu estivesse devendo esse valor, seria muito mais lógico que ao invés de alugar um imóvel e pagar aluguel por ele, o réu entregasse, mensalmente, esse valor ao seu credor.
+Consigno ainda, que a versão defensiva não é minimamente crível, pois se a pessoa já está devendo, porque motivo ela iria contrair mais dívidas (pagamento mensal do aluguel) para tentar quitar seu débito  Como se vê, não faz sentido.
+Assim, considerando que restou sobejamente comprovado que o réu estava guardando considerável quantidade de maconha, cocaína e crack, que por aproximadamente 2 (dois) meses manteve esses entorpecentes armazenados em local específico, e diariamente se dirigia ao imóvel para fracionar e entregar as drogas, fica evidente que os fatos apurados nesse feito não foram um evento isolado, razão pela qual o recorrente não faz jus a aplicação da benesse.
+Como bem pontuado pelo Órgão Ministerial (ev. 14):
+ ..  In casu, CARLOS alugou um apartamento exclusivamente para armazenar a droga que seria comercializada, bem como tinha em depósito mais de 2,5kg (dois quilos e quinhentos gramas) de maconha, demonstrando habitualidade criminosa.
+E também pela douta Procuradoria-Geral de Justiça (ev. 18):
+ ..  Ora, extrai-se dos autos, que o próprio Recorrente admitiu que já estava traficando drogas há quase dois meses.
+Outrossim, é importante destacar que a quantidade e natureza dos estupefacientes apreendidos, afora os petrechos achados na residência de Carlos, somados, ainda, ao contexto que levou à abordagem policial, deflagrada a partir de informações da perpetração do narcotráfico pelo Insurgente, confirmam de maneira incontroversa que ele não era traficante de primeira viagem, mas estava cometendo de maneira habitual o espúrio comércio.
+Destarte, por mais que o Causídico tenha reclamado do indeferimento do benefício do tráfico privilegiado em favor do Apelante, aduzindo que não foi comprovada a dedicação de Carlos à prática do crime de tráfico de drogas, a verdade que salta aos olhos é única e não deixa margem à dúvida da contumácia do Sentenciado no cometimento do narcotráfico.
+Por fim, e apenas para complementar, ainda que a defesa alegue que a benesse foi negada apenas pela quantidade e diversidades dos entorpecentes, que já foram inclusive utilizados na primeira fase da dosimetria para exasperar a pena, referida situação não se verifica no presente caso.
+Ademais, o Superior Tribunal Justiça considera que "não há bis in idem na dosimetria da pena, quando, para justificar a impossibilidade de aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, são mencionados, além da quantidade de drogas apreendidas, outros elementos concretos dos autos que permitem a conclusão de que o agente se dedica a atividades criminosas ou integra organização criminosa " (AgRg no HC n. 707.668/SP, rel. Mini. Rogerio Schietti Cruz, Sexta Turma, j. em 22/2/2022, DJe de 3/3/2022).
+Assim sendo, deixo de acolher o pedido defensivo.
+Como ressaltado na decisão ora agravada, nos termos da orientação jurisprudencial desta Corte Superior:
+Elementos tais quais petrechos e anotações típicos de tráfico, balança de precisão, ponto habitual de venda, forma de acondicionamento da droga, entre outros, somados à quantidade e à variedade de entorpecentes, são idôneos para afastar a benesse do tráfico privilegiado, pois indicam a dedicação do acusado a atividades ilícitas.
+(AgRg no AREsp n. 2.181.966/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/3/2023, DJe de 10/3/2023.)
+No caso dos autos, verifica-se que, não obstante a alusão a fatores que não justificam isoladamente a negativa da benesse, como a quantidade de drogas apreendida ou o fato de o recorrente ter alugado um imóvel para armazenar as drogas, as instâncias ordinárias também apontaram elementos concretos, suficientes para afastar a minorante, notadamente: "a apreensão de embalagens de plástico distintas e diversos petrechos utilizados para a traficância, consistentes em: uma faca de cozinha, um rolo de plástico filme, uma balança de precisão" (e-STJ fl. 367), além de declarações no sentido de que o réu vinha praticando o tráfico há dois meses.
+Nesse contexto, verifica-se que a negativa da benesse encontra-se devidamente fundamentada na dedicação do agravante a atividades criminosas, inexistindo ilegalidade a ser sanada, sendo imprópria a estreita via do especial à revisão do entendimento, a teor da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
