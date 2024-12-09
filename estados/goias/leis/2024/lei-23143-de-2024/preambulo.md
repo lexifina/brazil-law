@@ -1,0 +1,3 @@
+# LEI Nº 23.143, DE 6 DE DEZEMBRO DE 2024
+Institui o "Novembrinho Azul Goiano" no âmbito do Estado de Goiás e dá outras providências.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
