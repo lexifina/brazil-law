@@ -1,0 +1,14 @@
+DECISÃO
+SIRANO SCHEREDER MELLEGARI, PAOLA TOLDO RODRIGUES, ADRIANO LUIZ MELLEGARI JUNIOR e LUANA SUELEN DUARTE BLEICHVEHL alegam ser vítimas de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no HC n. 5027176-20.2023.8.24.0000.
+Consta dos autos que os pacientes foram denunciados pela prática do crime de tráfico de drogas.
+A defesa aduz, em síntese, nulidade da busca pessoal feita em Anderson Massochini, usuário de drogas, e das provas dela derivadas. Requer a declaração da nulidade.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 128-133).
+Decido.
+De acordo com o art. 5º, LXVIII, da Constituição Federal: "Conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder". No mesmo sentido, determina o art. 647 do CPP que "Dar-se-á habeas corpus sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, salvo nos casos de punição disciplinar".
+Com base na leitura do acórdão ora impugnado, verifico que o Tribunal de origem já determinou o trancamento do processo penal em relação a todos os pacientes deste writ em razão da nulidade das buscas pessoais nos pacientes e do ingresso policial em suas residências (fl. 98, grifei):
+Vistos e relatados estes autos em que são partes as acima indicadas, a Egrégia 5ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina decidiu, por unanimidade, conhecer do writ e conceder parcialmente a ordem para declarar a nulidade das provas derivadas das buscas pessoais dos pacientes e da invasão dos domicílios dos pacientes e, em consequência, relaxar o flagrante em relação aos pacientes S. S. M. e P. T. R., bem como determinar, em relação a todos os pacientes, o trancamento do IP n. 5009464-94.2023.8.24.0039, judicializado na forma da AP n. 5009809-60.2023.8.24.0039, ante à ausência de justa causa para o prosseguimento da respectiva ação - devendo, portanto, o paciente S. S. M. ser posto em liberdade IMEDIATAMENTE, se por outro motivo não estiver preso.
+Comunique-se, com urgência, ao Juízo a quo, para que adote as providências necessárias, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+Tendo em vista que já foi determinado o trancamento do processo penal pelo Tribunal de origem em relação a todos os pacientes, não há persecução penal nenhuma em trâmite em seu desfavor. Portanto, não mais se verifica coação ou mesmo ameaça de coação à liberdade de locomoção dos pacientes, razão pela qual incabível o habeas corpus.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
