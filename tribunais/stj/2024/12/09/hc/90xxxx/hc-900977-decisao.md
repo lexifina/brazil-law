@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de IGOR EDUARDO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do HC n. 0013883-56.2024.8.16.0000.
+Extrai-se dos autos que o paciente foi preso preventivamente e posteriormente condenado pela prática dos delitos tipificados nos arts. 33, caput, da Lei n. 11.343/06, e 329 do Código Penal - CP (tráfico de drogas e resistência).
+Foi interposto recurso de apelação o qual encontra-se pendente de julgamento.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual conheceu, em parte, do mandamus e, nesta extensão, denegou a ordem, nos termos do aresto assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS E RESISTÊNCIA (ART.33, "CAPUT" DA LEI FEDERAL N. 11.343/2006 E ARTIGO 329DO CP). IMPETRANTE QUE ALEGA CONSTRANGIMENTO ILEGAL DECORRENTE DA DEMORA NA DESIGNAÇÃO DE RELATOR PARA O JULGAMENTO DA APELAÇÃO CRIMINAL INTERPOSTA. NÃO CONHECIMENTO. ATO TIDO COMO COATOR EMANADO DESTE TRIBUNAL DE JUSTIÇA. COMPETÊNCIA PARA ANÁLISE E JULGAMENTO DO "WRIT" DO SUPERIOR TRIBUNAL DE JUSTIÇA. ARTIGO 105, INCISO I, ALÍNEA "C", DA CONSTITUIÇÃO FEDERAL. IMPETRANTE QUE SE INSURGE EM FACE DA SENTENÇAQUE NEGOU O DIREITO DE RECORRER EM LIBERDADE. ALEGAÇÃODE ILEGALIDADE DECORRENTE DA AUSÊNCIA DE JUSTIFICATIVAPARA A MANUTENÇÃO DA CUSTÓDIA. ILEGALIDADE NÃO VERIFICADA. FUNDAMENTAÇÃO IDÔNEA. RÉU QUE PERMANECEU CUSTODIADO DURANTE TODA A INSTRUÇÃO CRIMINAL E QUETEVE OS FUNDAMENTOS DA PRISÃO CAUTELAR CONVALIDADOS NA SENTENÇA. ALEGADA IRREGULARIDADE DECORRENTE DO NÃO CUMPRIMENTO DO PRAZO NONAGESIMAL PREVISTO NO ARTIGO316, PARÁGRAFO ÚNICO, DO CPP. NÃO ACOLHIMENTO. A PROLAÇÃO DE SENTENÇA CONDENATÓRIA FAZ ESGOTAR A PRESTAÇÃO JURISDICIONAL PELO 1º GRAU DE JURISDIÇÃO E CESSAR O DEVER SE REAVALIAR A CUSTODIA PREVENTIVA PERIODICAMENTE. ALEGADAS CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA.
+1. Quando o alegado constrangimento ilegal decorre de o como a autoridade coatora, consequentemente, competirá ao Superior Tribunal de Justiça a análise do aludido ato, nos termos do artigo 105, inciso I, alínea "c", da Constituição Federal.
+2. A sentença condenatória que fundamenta a manutenção da prisão preventiva, no fato do réu ter sido mantido preso durante toda a instrução processual, se encontra devidamente fundamentada, conforme entendimento pacificado na jurisprudência, o qual concebe que preservado o quadro fático processual que justificou a prisão preventiva, afigura-se um contrassenso jurídico conceder o direito de apelar em liberdade ao réu que foi mantido preso cautelarmente, durante todo o processo criminal e teve em seu desfavor proferida uma sentença penal condenatória.
+3. O Superior Tribunal de Justiça já fixou entendimento de que "o dever de reavaliar periodicamente, a cada 90 dias, a necessidade da prisão preventiva cessa com a formação de um juízo de certeza da culpabilidade do réu, declarado na sentença, e ingresso do processo na fase recursal"(STJ, Quinta Turma, AgRg nos EDcl no HC n. 714.962/MS).
+4.Presentes os requisitos que autorizam o decreto da prisão preventiva, a existência de condições pessoais favoráveis, como a primariedade, domicílio fixo e profissão lícita, não é suficiente para afastar, automaticamente, a prisão cautelar. Precedentes do STJ e do TJPR.
+5. Ordem parcialmente conhecida e, nesta parte, denegada." (fls. 138/139)
+No presente writ, o impetrante alega excesso de prazo no julgamento da apelação, destacando que o paciente se encontra acautelado há aproximadamente 11 meses.
+Alega, ainda, ofensa ao art. 316, parágrafo único, do Código de Processo Penal, uma vez que a custódia cautelar não teria sido reavaliada.
+Requer a concessão da ordem, para determinar o relaxamento da prisão preventiva, ainda que mediante aplicação das medidas cautelares previstas no art. 319 do CPP.
+É o breve relatório.
+Decido.
+O writ está prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, no dia 21/11/2024, o decreto condenatório proferido nos autos da Ação Penal n. 0007864-72.2023.8.16.0031 transitou em julgado.
+Desse modo, constata-se a perda superveniente do objeto do presente writ, considerando que a prisão do paciente passou a decorrer do cumprimento de pena definitiva.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
