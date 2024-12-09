@@ -1,0 +1,95 @@
+RECURSO EXTRAORDINÁRIO. DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. LIMITES DA COMPETÊNCIA DO PODER JUDICIÁRIO PARA DETERMINAR OBRIGAÇÕES DE FAZER AO ESTADO. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. DIREITO À EDUCAÇÃO. REFORMA DE ESCOLA PÚBLICA ESTADUAL. PRECARIEDADE DA ESTRUTURA FÍSICA. RISCO DE DESABAMENTO. SITUAÇÃO EXCEPCIONAL. RISCO À VIDA, À INTEGRIDADE FÍSICA E À SEGURANÇA DOS DISCENTES E DOCENTES. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. OFENSA NÃO CONFIGURADA. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE INEXISTÊNCIA DE OMISSÃO ESTATAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO DESPROVIDO.
+
+    DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+    “APELAÇÃO CÍVEL DO ESTADO. AÇÃO CIVIL PÚBLICA. REFORMA DE ESCOLA ESTADUAL. PRECARIEDADE DA ESTRUTURA FÍSICA, RISCO DE DESABAMENTO. CONDENAÇÃO DO ESTADO À OBRIGAÇÃO DE FAZER CONSUBSTANCIADA NA IMPLEMENTAÇÃO DE REFORMA DA ESCOLA. PROCEDÊNCIA DO PEDIDO. IRRESIGNAÇÃO. PRELIMINAR DE NULIDADE. REJEIÇÃO. MÉRITO. POSSIBILIDADE DO JUDICIÁRIO COMPELIR O EXECUTIVO A REFORMAR ESCOLA PÚBLICA EM SITUAÇÕES EXCEPCIONAIS. PRECEDENTES DO STF. AUSÊNCIA DE VIOLAÇÃO DO ART. 2° DA CONSTITUIÇÃO FEDERAL. EXTRAORDINARIEDADE DA PRECARIEDADE ESTRUTURAL. SUPERAÇÃO DOS LIMITES DE TOLERABILIDADE. RISCO À VIDA, À INTEGRIDADE FÍSICA E À SEGURANÇA DOS DISCENTES E DOCENTES. COMPROVAÇÃO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+
+    1. ‘As duas Turmas do Supremo Tribunal Federal possuem entendimento de que é possível ao Judiciário, em situações excepcionais, determinar ao Poder Executivo a implementação de políticas públicas para garantir direitos constitucionalmente assegurados, a exemplo do direito ao acesso à educação básica, sem que isso implique ofensa ao princípio da separação dos Poderes’ (STF, ARE 761127 AgR, Rel. Min. Roberto Barroso, Primeira Turma, julgado em 24/06/2014, Dje-158).
+
+    2. Configuradas a peculiar insalubridade do ambiente afetado ao processo ensino-aprendizagem e a excepcional precariedade da estrutura física da escola, com grave risco à vida, à integridade corporal, à segurança alimentar, o núcleo essencial de dignidade humana é alvejado, o que autoriza a excepcional interferência do Judiciário na gestão administrativa do Executivo.
+
+    3. O prazo concedido ao Poder Executivo para cumprimento da obrigação de fazer deve ser proporcional à extensão e complexidade da obra e à demora natural do correspondente procedimento licitatório, estando dentro dos parâmetros da razoabilidade.” (Doc. 13, p. 1-2, destaquei)
+
+    Os embargos de declaração opostos (Doc. 15) foram desprovidos (Doc. 19).
+
+    Nas razões do apelo extremo, o Estado da Paraíba apresenta preliminar de repercussão geral e, no mérito, aponta violação aos artigo 2º e 165 da Constituição da República. Sustenta, em síntese, a ocorrência de afronta aos princípios da separação dos poderes e da reserva do possível. Alega, ainda, a inexistência de omissão estatal, no presente caso. Requer, ao final, a reforma do acórdão ora recorrido para julgar improcedente o pedido formulado na presente ação civil pública (Doc. 21).
+
+    O Ministério Público do Estado da Paraíba apresentou contrarrazões ao recurso extraordinário (Doc. 23).
+
+    A Presidência do Tribunal a quo determinou o encaminhamento do feito ao órgão julgador para eventual juízo de retratação quanto ao Tema 698 da Repercussão Geral (Doc. 25).
+
+    O Órgão julgador do Tribunal de origem, em juízo negativo de retratação, manteve o acórdão recorrido (Doc. 27).
+
+    A Presidência do Tribunal de origem, então, admitiu o recurso extraordinário (Doc. 29).
+
+    É o relatório. DECIDO.
+
+    Ab initio, antes de qualquer consideração acerca dos requisitos de admissibilidade e do mérito do recurso extraordinário, façamos um resumo, ainda que breve, da questão debatida nos autos.
+
+    Na origem, o Ministério Público do Estado da Paraíba ajuizou ação civil pública objetivando a condenação do referido ente federativo à imediata reforma da Escola Pública Estadual de Ensino Fundamental e Médio Padre Hildon Bandeira, localizada no Município de Alagoa Grande (Doc. 2).
+
+    O Juízo de Direito da Vara Única da Comarca de Alagoa Grande julgou procedente o pedido (Doc. 7).
+
+    A Terceira Câmara Cível do Tribunal de Justiça de origem desproveu o recurso de apelação interposto pelo Estado da Paraíba (Doc. 13).
+
+    Superadas as questões preambulares, subjaz o exame do presente recurso.
+
+    O agravo não merece prosperar.
+
+    A jurisprudência desta Suprema Corte está sedimentada no sentido de que o Poder Judiciário, em casos excepcionais e configurada a inércia ou morosidade da Administração, pode determinar a implementação pelo Estado de políticas públicas para assegurar o exercício de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação ao princípio da separação dos poderes (artigo 2º da Constituição da República). Nesse sentido, confiram-se, à guisa de exemplo, julgados proferidos pela Primeira e pela Segunda Turmas deste Tribunal, in litteris:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 14.6.2016. DIREITO CONSTITUCIONAL. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. POSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSIÇÃO DE MULTA. AGRAVO REGIMENTAL DESPROVIDO.
+
+    1. O Poder Judiciário, em situações excepcionais, pode determinar ao Estado a obrigação de fazer reparação em escolas, quando estas se encontrarem em condições precárias, por se relacionarem a direitos ou garantias fundamentais, sem que isso ofenda o princípio da separação dos poderes.
+
+    2. Agravo regimental a que se nega provimento, com majoração de honorários advocatícios, com base no art. 85, § 11, do CPC, e aplicação de multa, nos termos do art. 1.021, § 4º, do CPC.” (ARE 942.573-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe de 13/02/2017, destaquei)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. MELHORIAS NAS INSTALAÇÕES E SOLUÇÕES CONCRETAS PARA A CARÊNCIA DE PESSOAL NO CIEP LUIS CARLOS PRESTES, SITUADO NA CIDADE DE DEUS. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS PELO PODER JUDICIÁRIO. POSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. PRECEDENTES. OMISSÃO ESTATAL. SITUAÇÃO DE RISCO PARA CRIANÇAS E ADOLESCENTES. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO.” (ARE 1.062.995-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 31/10/2017, destaquei)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. REFORMA EM ESCOLA. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS PELO PODER JUDICIÁRIO. POSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. PRECEDENTES. OMISSÃO ESTATAL. SITUAÇÃO DE RISCO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO.” (ARE 1.071.070-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 11/12/2017, destaquei)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. POLÍTICAS PÚBLICAS. EDUCAÇÃO. REFORMA DE ESCOLA PÚBLICA. DETERMINAÇÃO PELO PODER JUDICIÁRIO. LIMITES ORÇAMENTÁRIOS. VIOLAÇÃO À SEPARAÇÃO DOS PODERES. INOCORRÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+      I – A jurisprudência desta Corte entende ser possível ao Poder Judiciário determinar ao Estado a implementação, em situações excepcionais, de políticas públicas previstas na Constituição sem que isso acarrete contrariedade ao princípio da separação dos poderes.
+
+    II – Quanto aos limites orçamentários aos quais está vinculado o recorrente, o Poder Público, ressalvada a ocorrência de motivo objetivamente mensurável, não pode se furtar à observância de seus encargos constitucionais.
+
+    III – Agravo regimental a que se nega provimento.” (ARE 928.654-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 19/03/2018, destaquei)
+
+    “RECURSO EXTRAORDINÁRIO – ALEGADA VIOLAÇÃO A PRECEITO CONSTITUCIONAL – AUSÊNCIA DE PREQUESTIONAMENTO – POLÍTICAS PÚBLICAS – MANUTENÇÃO DE ESCOLA – DETERMINAÇÃO PELO PODER JUDICIÁRIO – PRINCÍPIO DA SEPARAÇÃO DOS PODERES – OFENSA NÃO CONFIGURADA – PRECEDENTES – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO.” (RE 958.246-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 19/06/2017, destaquei)
+
+    In casu, a inércia da Administração Estadual quanto à necessidade urgente de reforma da Escola Pública Estadual de Ensino Fundamental e Médio Padre Hildon Bandeira, localizada no Município de Alagoa Grande, consoante assentado pelo Juízo de Direito e pelo Tribunal de origem, à luz de ampla cognição fático–probatória, coadjuvada pela possibilidade de o Poder Judiciário determinar a implementação de políticas públicas, sem que essa decisão se afigure ingerência no âmbito do poder discricionário do Poder Executivo, recomendam o desprovimento do recurso sub examine.
+
+    Nesse contexto, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. ALVARÁS INVÁLIDOS. OBRAS REALIZADAS. OBRIGAÇÃO DE DEMOLIR. CONVERSÃO EM PERDAS E DANOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES.
+
+    1. O recurso extraordinário não se presta à análise de matéria infraconstitucional, tampouco ao reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF).
+
+    2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+
+    3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.332.366-AgR, Rel. Min. Luiz Fux, Plenário, DJe de 13/10/2021)
+
+    Por oportuno, vale destacar a lição de Roberto Rosas sobre a Súmula 279 do Supremo Tribunal Federal:
+
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+
+    A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 137-138)
+
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do Código Processo Civil de 2015.
+
+    Ex positis, DESPROVEJO o RECURSO EXTRAORDINÁRIO, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 9 de dezembro de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
