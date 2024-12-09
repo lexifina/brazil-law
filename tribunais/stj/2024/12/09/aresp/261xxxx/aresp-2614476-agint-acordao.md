@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Ausente, ocasionalmente, o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO DE EDUCAÇÃO INFANTIL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. MENÇÃO À TESE SUSTENTADA QUANDO AUSENTE O COTEJO DAS PREMISSAS FÁTICAS DO ACÓRDÃO PROFERIDO NA ORIGEM. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, cuida-se de ação declaratória, com obrigação de fazer, visando à percepção de Gratificação de Educação Infantil.
+2. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+3. Não se mostra suficiente, para desconfigurar a afirmação genérica, breve menção à tese sustentada quando ausente o cotejo das premissas fáticas do acórdão proferido na origem.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANGELITA CRISOLINA PEREIRA contra decisão da presidência do Superior Tribunal de Justiça, que não conheceu do agravo em especial (fls. 205-207).
+Pondera a parte agravante em sua razões que (fls. 247-250):
+No agravo em recurso especial foram claramente abordados diversos argumentos, entre eles: afronta ao art. 6ª do CPC. Essas são questões de extrema relevância que, devidamente apresentadas e fundamentadas, constituem os argumentos que embasaram a decisão que não conheceu o recurso especial.
+Ao destacar esses aspectos no agravo, torna-se evidente que todos os argumentos pertinentes à decisão foram devidamente abordados. A fundamentação dessas questões demonstra que não houve omissão ou negligência por parte do recorrente na interposição de seu recurso.
+ ..
+Além dos argumentos já expostos, ressalta-se que, no presente caso, não é aplicável a Súmula 7 do Superior Tribunal de Justiça (STJ). Tal súmula estabelece que "a pretensão de simples reexame de prova não enseja recurso especial". No entanto, o presente caso não trata de reexame de fatos e provas, mas sim de questão de direito, especificamente a interpretação e aplicação correta do Código de Processo Civil, em especial o artigo 6º, que consagra o princípio da cooperação processual.
+A matéria discutida não demanda a revisão do conjunto probatório, mas sim a análise sobre se os princípios e normas processuais foram devidamente observados pelo juízo a quo. A questão central é a aplicação do princípio da cooperação entre as partes e a necessidade de o magistrado assegurar uma decisão justa e efetiva, baseada em um conjunto probatório completo, sem cerceamento de defesa.
+A jurisprudência do STJ reconhece que o exame de questões de direito, especialmente aquelas relacionadas à aplicação de normas processuais, não se confunde com o reexame de provas. Neste sentido, a análise da violação ao art. 6º do CPC e a aplicação do princípio da cooperação processual envolvem interpretação jurídica e não a reavaliação de fatos ou provas já apreciados pelas instâncias inferiores.
+Portanto, não há que se falar em impedimento pela Súmula 7 do STJ, uma vez que a discussão está centrada em aspectos de direito processual. A interpretação e aplicação de dispositivos legais do Código de Processo Civil são matérias de direito que podem e devem ser apreciadas em recurso especial, conforme previsto no art. 105, inciso III, da Constituição Federal.
+Pede, assim, a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Segunda Turma desta Corte Superior, com o provimento do recurso especial.
+Decorrido o prazo para apresentação de contraminuta ao agravo (fl. 256).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO DE EDUCAÇÃO INFANTIL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. MENÇÃO À TESE SUSTENTADA QUANDO AUSENTE O COTEJO DAS PREMISSAS FÁTICAS DO ACÓRDÃO PROFERIDO NA ORIGEM. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, cuida-se de ação declaratória, com obrigação de fazer, visando à percepção de Gratificação de Educação Infantil.
+2. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+3. Não se mostra suficiente, para desconfigurar a afirmação genérica, breve menção à tese sustentada quando ausente o cotejo das premissas fáticas do acórdão proferido na origem.
+4. Agravo interno não provido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Na origem, cuida-se de ação declaratória, com obrigação de fazer, ajuizada por Angelita Crisolina Ferreira contra o Município de Padre Bernardo, visando à percepção de Gratificação de Educação Infantil (fls. 2-10).
+Após julgado improcedente o pedido em primeira instância (fls. 99-101), o Tribunal de origem, em sede de apelação, não proveu o recurso, devido a não indicação da lotação funcional da servidora (fls. 176-786).
+Nas razões do recurso especial interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante alegou afronta aos arts. 6º e 373, § 1º, do CPC (fls. 340-353).
+Nos termos da decisão agravada, o agravo em recurso especial não foi conhecido porque deixou de ser impugnada a incidência da Súmula n. 7 do STJ, fundamento este utilizado pelo Tribunal de Justiça do Estado de Goiás para não admitir o apelo nobre.
+Portanto, inarredável a incidência da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..  Em se tratando de agravo em recurso especial, a parte agravante deve impugnar todos os fundamentos da decisão que negou admissibilidade ao recurso especial na origem, ainda que tais fundamentos se refiram a pontos autônomos em relação à matéria principal debatida no recurso especial, sob pena de incidência do teor do art. 932, III, do CPC/2015 e da aplicação, por analogia, da Súmula nº 182 do STJ. (AgInt no AREsp n. 2.179.576/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+ ..  Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+No que concerne à Súmula n. 7 do STJ, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório.
+Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC).
+A propósito:
+ ..
+Para afastar o óbice do Enunciado 7 da Súmula do STJ, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a eles. (AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+ ..
+A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021). Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Ademais, não é suficiente para desconfigurar a afirmação genérica breve menção à tese sustentada quando ausente o cotejo das premissas fáticas do acórdão proferido na origem.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. AGRAVO EM RECURSO ESPECIAL QUE NÃO FOI CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O agravo em recurso especial não foi conhecido em razão da ausência de impugnação dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial na origem em razão da incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem.
+3. Para a impugnação do fundamento referente à Súmula n. 83/STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023.)
+4. As razões do agravo regimental efetivamente não modificam a conclusão da decisão recorrida, uma vez que no agravo em recurso especial não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+5. Agravo regimental improvido. (AgRg no AREsp n. 2.408.924/ES, relator Ministro Og Fernandes, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recorrente não atacou especificamente todos os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atrai o óbice da Súmula n. 182/STJ.
+2. "É entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016)" (AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023).
+3. Agravo regimental desprovido. (AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
