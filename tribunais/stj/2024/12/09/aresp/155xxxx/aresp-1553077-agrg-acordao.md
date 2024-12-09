@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. ART. 320 DO CÓDIGO PENAL MILITAR. AUTORIA DELITIVA RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. PLEITO ABSOLUTÓRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem manteve a condenação do réu pelo crime do art. 320 do Código Penal Militar, apontando que o veículo "estava irregular quando foi abordado na barreira policial. O recorrente, inobstante, em vez de atuar conforme a lei, apreendendo o veículo e multando o infrator, se fosse o caso, resolveu obter vantagem econômica, propondo ao civil um documento de tráfego irregular. Assim, o apelante ofereceu a solução do problema ao civil de modo ilegal, ofertando documento produto de crime e violando seu dever funcional com o fim de obter lucro em razão da função. De consequência, auferiu vantagem pecuniária a si próprio, razão pela qual plenamente configurado o elemento subjetivo do tipo".
+2. A desconstituição das premissas fáticas adotadas na origem demandaria nova incursão no conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 desta Corte. Precedentes.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por LUCIANO CINTRA TAVEIRA contra decisão monocrática de minha relatoria que conheceu em parte do recurso especial e, nessa extensão, deu-lhe provimento para redimensionar a pena do recorrente para 2 anos e 4 meses de reclusão em regime aberto, como incurso no art. 320 do Código Penal Militar.
+O agravante requer o provimento integral do recurso especial alegando que "a questão suscitada demanda tão somente a revaloração jurídica da moldura fática já expressamente delineada no acórdão da apelação, de forma que o recurso especial manejado pelo agravante não incorreu no vício apontado na decisão denegatória. Desse modo, é imprescindível que seja afastado o óbice da Súmula 7/STJ, de forma que o recurso possa ser conhecido e provido também em relação a esse ponto, absolvendo o recorrente por insuficiência de provas em relação ao crime do artigo 320 do Código Penal Militar" (e-STJ fls. 521-528).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. ART. 320 DO CÓDIGO PENAL MILITAR. AUTORIA DELITIVA RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. PLEITO ABSOLUTÓRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem manteve a condenação do réu pelo crime do art. 320 do Código Penal Militar, apontando que o veículo "estava irregular quando foi abordado na barreira policial. O recorrente, inobstante, em vez de atuar conforme a lei, apreendendo o veículo e multando o infrator, se fosse o caso, resolveu obter vantagem econômica, propondo ao civil um documento de tráfego irregular. Assim, o apelante ofereceu a solução do problema ao civil de modo ilegal, ofertando documento produto de crime e violando seu dever funcional com o fim de obter lucro em razão da função. De consequência, auferiu vantagem pecuniária a si próprio, razão pela qual plenamente configurado o elemento subjetivo do tipo".
+2. A desconstituição das premissas fáticas adotadas na origem demandaria nova incursão no conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 desta Corte. Precedentes.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir os fundamentos que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+No tocante à autoria delitiva, o acórdão recorrido encontra-se fundamentado nos seguintes termos (e-STJ fls. 436-440):
+"Na hipótese, ao contrário do sustentado pela defesa no recurso, não pairam dúvidas quanto a conduta do apelante.
+Incontroversa a prova carreada aos autos, baseada em depoimentos contundentes, demonstrando que o sentenciado praticou a conduta delitiva narrada na denúncia, a fim de obter, por meio de atividade especulativa, vantagem pessoal.
+Colhe-se da figura típica em questão a descrição da conduta:
+"Art. 320. Violar, em qualquer negócio de que tenha sido incumbido pela administração militar, seu dever funcional para obter especulativamente vantagem pessoal, para si ou para outrem:
+Pena - reclusão, de dois a oito anos."
+Cediço que o tipo penal violação do dever funcional com o fim de lucro previsto no Art. 320 do Código Penal Militar atinge a Administração Militar. Assim, o sujeito ativo do referido delito é o militar da ativa. Em outra senda, o sujeito passivo do tipo é a Instituição Militar. O núcleo da conduta descrita no tipo penal, é violar, ou seja, desobedecer preceito legal decorrente do cargo que ocupa, com objetivo certo, que é a intenção de obter vantagem pessoal, para si ou para outrem. Realçe-se que esta vantagem deve ser de ordem econômica, já que o tipo menciona "lucro".
+O elemento subjetivo do crime de violação do dever funcional com o fim de lucro é o dolo específico, pois é praticado com o fim de obter vantagem. O crime se consuma com a violação do dever funcional promovida pela ação indevida, a saber, a ação em desconformidade com o ordenamento jurídico, ou pela omissão (inércia no agir quando se tinha o dever de fazê-lo)ou pelo retardamento do ato de ofício.
+Extrai-se da análise detida do processo que o veículo conduzido por Guilherme Alves Ferreira e Souza estava irregular quando foi abordado na barreira policial.
+O recorrente, inobstante, em vez de atuar conforme a lei, apreendendo o veículo e multando o infrator, se fosse o caso, resolveu obter vantagem econômica, propondo ao civil um documento de tráfego irregular.
+Assim, o apelante ofereceu a solução do problema ao civil de modo ilegal, ofertando documento produto de crime e violando seu dever funcional com o fim de obter lucro em razão da função. De consequência, auferiu vantagem pecuniária a si próprio, razão pela qual plenamente configurado o elemento subjetivo do tipo.
+(..)
+Segundo o douto sentenciante, a condenação do apelante veio baseada nos seguintes elementos prova:
+a) as declarações de Guilherme Alves Ferreira e Souza, colhidas na fase de investigação, que apontam o réu como o fornecedor do documento e recebedor da importância de R$350,00; b) o depoimento judicial de Nayara Mariane Gomes Dias, que presenciou o réu deixar "um documento verde" no escritório de Guilherme, afirmando que ele não trabalhou como segurança na empresa; c) o depósito efetivado pela irmã de Guilherme na conta corrente do réu - documento de fl. 34, no exato valor informado; d) as inúmeras contradições e inconsistências encontradas no interrogatório do réu, que não soube explicar como Guilherme o encontrou, e nem porque teria prestado serviço de segurança por apenas um dia, percebendo R$350,00, tampouco porque o pagamento foi realizado em conta corrente; tenho que a materialidade e autoria do fato relativo à violação do dever funcional (art. 320, do CPM),como narrado na denúncia, restaram cabalmente comprovadas por todo o exposto. (fls. 363).
+Logo, irretorquível o provimento singular, devendo ser mantida a condenação."
+Verifico que o acórdão recorrido apresenta fundamentação suficientemente idônea na apreciação do arcabouço fático e das provas colhidas para manter a condenação do acusado. A desconstituição das premissas fáticas utilizadas na origem demandaria nova incursão no conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 desta Corte. Nesse sentido:
+"Constatado que a condenação encontra-se devidamente fundamentada nas provas colhidas nos autos, a pretensa revisão do julgado, com vistas à absolvição do recorrente, não se coaduna com a estreita via do especial, dada a necessidade de reexame de fatos e provas, a teor do disposto na Súmula 7/STJ."
+(AgRg no REsp n. 1.961.534/TO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
