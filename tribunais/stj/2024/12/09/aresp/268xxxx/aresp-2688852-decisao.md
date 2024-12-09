@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARCIO PICHEBICHEVSKI, contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/5/2024.
+Concluso ao gabinete em: 6/9/2024.
+Ação: "de imissão na posse cumulada com pedido liminar" (fl. 1) ajuizada pelo agravante.
+Sentença: julgou procedente a ação para imitir a parte autora na posse do imóvel, confirmando a liminar concedida, e condenando os requeridos, a título de perdas e danos, no pagamento de R$ 11.000,00 (onze mil reais) por mês a partir de 17/9/2020 até a data da efetiva desocupação do imóvel.
+Acórdão: por unanimidade, conheceu em parte da apelação e, nesta extensão, deu-lhe parcial provimento, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE IMISSÃO NA POSSE - SENTENÇA DE PROCEDÊNCIA - IMÓVEL ADQUIRIDO DA CAIXA ECONÔMICA FEDERAL QUE OPEROU A CONSOLIDAÇÃO DA PROPRIEDADE NA EXECUÇÃO DE CONTRATO DE FINANCIAMENTO INADIMPLIDO - APELANTES QUE ADQUIRIRAM O IMÓVEL DOS ANTIGOS CONTRATANTES DO FINANCIAMENTO COM A CAIXA ECONÔMICA FEDERAL - PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO - IMPOSSIBILIDADE - PRETENSÃO QUE DEVE SER FORMULADA EM PEÇA APARTADA DIRIGIDA AO RELATOR. ART. 1.012, § 3º, DO CÓDIGO DE PROCESSO CIVIL E ART. 335 DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DO PARANÁ - PRELIMINAR DE INOVAÇÃO RECURSAL ARGUIDA EM CONTRARRAZÕES - NÃO CARACTERIZAÇÃO - JUSTIÇA GRATUITA REQUERIDA NO RECURSO E IMPUGNADA EM CONTRARRAZÕES - PREPARO RECURSAL REALIZADO - INCOMPATIBILIDADE LÓGICA COM A ALEGADA HIPOSSUFICIÊNCIA - NÃO CONHECIMENTO - MÉRITO DO RECURSO DE APELAÇÃO - ALEGADO DESCABIMENTO DE CONDENAÇÃO EM PERDAS E DANOS - POSSE DE BOA-FÉ ORIUNDA DE JUSTO TÍTULO - DESCONHECIMENTO DO OBSTÁCULO IMPEDITIVO DA AQUISIÇÃO DA PROPRIEDADE - IMÓVEL DESOCUPADO VOLUNTARIAMENTE DENTRO DO PRAZO DETERMINADO POR DECISÃO JUDICIAL - VIABILIDADE DO RECURSO PARA AFASTAR A CONDENAÇÃO EM PERDAS E DANOS - HONORÁRIOS ADVOCATÍCIOS - AUSÊNCIA DE PRETENSÃO RESISTIDA - DESCABIMENTO DA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS A QUALQUER DAS PARTES - CONDENAÇÃO NO PAGAMENTO DAS DESPESAS PROCESSUAIS - INTERESSE DO APELADO NA IMISSÃO DA POSSE DO IMÓVEL - PRINCÍPIO DA CAUSALIDADE E DO INTERESSE - CONDENAÇÃO MANTIDA - SENTENÇA PARCIALMENTE REFORMADA - RECURSO PARCIALMENTE CONHECIDO E NA PARTE CONHECIDA PARCIALMENTE PROVIDO.
+(fls. 379-380)
+Recurso especial: alega violação aos arts. 85, §1º, 86, 90, §1º e §4º, 336, 344 e 346, parágrafo único, do Código de Processo Civil; aos arts. 186, 389, 395, 402 e 927 do Código Civil; e ao art. 22 da Lei n. 8.906/94, ao argumento de que: a) deve ser reconhecida a "presunção de veracidade advinda da revelia e de questões não impugnadas tempestivamente, tais como a caracterização do nexo causal, bem como referente ao ônus da prova da parte Recorrida quando à indenização pleiteada" (fl. 466); e b) os recorridos devem ser condenados a título de honorários advocatícios sucumbenciais, ainda que meramente em virtude da imissão de posse, pois caracterizada a sucumbência.
+Prévio juízo de admissibilidade: o TJPR inadmitiu o recurso especial interposto (fls. 497-499).
+É o relatório.
+DECIDO.
+1. DA AUSÊNCIA DE PREQUESTIONAMENTO
+1. No que diz respeito à suposta violação aos arts. 336, 344 e 346, parágrafo único, do CPC e aos arts. 186, 389, 395, 402 e 927 do Código Civil, tem-se, no ponto, inviável o debate, pois não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+2. DOS HONORÁRIOS ADVOCATÍCIOS
+2. Por fim, derruir a conclusão a que chegou o Tribunal a quo, verificando se houve ou não adequada distribuição dos ônus sucumbenciais, demandaria o reexame de fatos e provas, o que é vedado pelo enunciado da Súmula 7 do STJ. Nesse sentido: AgInt no AREsp n. 2.099.311/RJ, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024; AgInt no REsp n. 2.082.084/PB, Segunda Turma, julgado em 27/5/2024, DJe de 29/5/2024; AgInt no REsp n. 2.059.044/MG, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024.
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários de sucumbência recursais, tendo em vista a ausência de arbitramento na origem.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. IMISSÃO NA POSSE. REVELIA. PRESUNÇÃO DE VERACIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. ÔNUS SUCUMBENCIAIS. DISTRIBUIÇÃO. SÚMULA 7 DO STJ.
+1. No que diz respeito à suposta violação aos arts. 336, 344 e 346, parágrafo único, do CPC e aos arts. 186, 389, 395, 402 e 927 do Código Civil, tem-se, no ponto, inviável o debate, pois não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+2. Derruir a conclusão a que chegou o Tribunal a quo, verificando se houve ou não adequada distribuição dos ônus sucumbenciais, demandaria o reexame de fatos e provas, o que é vedado pelo enunciado da Súmula 7 do STJ.
+3. Agravo conhecido. Recurso especial não conhecido.
