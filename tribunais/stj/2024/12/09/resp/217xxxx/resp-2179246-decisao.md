@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por CURTUME AÇAY S/A, com fundamento no art. 105, III, a e c, da Constituição Federal.
+Na origem, a empresa contribuinte apresentou exceção de pré-executividade, que foi rejeitada pelo juízo da execução fiscal.
+O agravo de instrumento interposto foi improvido por TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS. O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. DECADÊNCIA. MATÉRIA PRECLUSA. RECURSO CONHECIDO E IMPROVIDO.
+1 - Resta legítima a decisão fustigada, que rejeitou exceção de pré- executividade em razão da preclusão da matéria. O artigo 507 do Código de Processo Civil veda a discussão de questões já decididas a cujo respeito se operou a preclusão.
+2 - In casu, a alegação de decadência fora apreciada anteriormente, restando afastada, pois que nos termos postos, deveria ter sido alegada em sede de embargos e, eventual equívoco perpetrado por patrono anterior, não consubstancia hipótese de retificação do entendimento judicial firmado.
+3 - Nesse, contexto, uma vez já debatida a matéria, não cabe ao Juiz Singular repisá-la, nos termos do artigo 507 do CPC, impositiva a manutenção do decisum singular.
+4 - RECURSO CONHECIDO E IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, CURTUME AÇAY S/A interpôs o presente recurso especial, apontando violação do art. 1.022, II, do CPC/2015, sustentando, em síntese, que o Tribunal de origem foi omisso ao não enfrentar questão jurídica relevante.
+Adiante, afirma ofensa ao art. 503 do CPC/2015, justificando, em suma, que a alegação de decadência do crédito tributário deve ser analisada por se tratar de matéria de ordem pública que não está sujeita à preclusão.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Quanto à alegada afronta aos arts. 489, II, §1º, IV, e 1.022 do CPC/2015, verifica-se que o acórdão recorrido examinou a controvérsia dos autos, fundamentando suficientemente sua convicção, e não havendo se falar em omissões porque inocorrentes quaisquer dos vícios previstos no referido dispositivo legal, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: REsp 1808357/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/9/2019, DJe de 20/9/2019 e EDcl no AgInt no AREsp 1422337/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/9/2019, DJe de 12/9/2019 e AgInt no REsp 1780519/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/6/2019, DJe de 28/6/2019.
+Em relação à questão de fundo, a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a discussão acerca da decadência é matéria de ordem pública, a qual não se sujeita a ocorrência de preclusão e pode ser objeto de questionamento por meio da apresentação de exceção de pré-executividade. In verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. VIOLAÇÃO DOS
+ARTS. 489, § 1º, IV, e 1.022, II, DO CPC. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. ILEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE PRECLUSÃO NAS INSTÂNCIAS ORDINÁRIAS. PROVIMENTO NEGADO.
+1. Verifica-se inexistir a alegada violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, pois a prestação jurisdicional havia sido dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incidência no presente caso da Súmula 283 do Supremo Tribunal Federal (STF).
+3. Nos termos da jurisprudência do STJ, "as matérias de ordem pública (e.g. prescrição, decadência, condições da ação, pressupostos processuais, consectários legais, incompetência absoluta, impenhorabilidade, etc) não se sujeitam à preclusão, podendo/devendo ser apreciadas a qualquer momento e de ofício nas instâncias ordinárias" (REsp 1.809.145/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2020, DJe de 27/5/2020).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.583.922/MA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 14/10/2024, DJe de 21/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECADÊNCIA. MATÉRIA DE ORDEM PÚBLICA. COGNIÇÃO DE OFÍCIO NÃO SUJEITA A PRECLUSÃO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A decadência tributária, por ser matéria de ordem pública, pode ser arguida a qualquer tempo na instância ordinária e analisada inclusive de ofício, não se configurando a preclusão enquanto o debate não se encerrar no âmbito da Corte de origem. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.131.010/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. ICMS. EXCLUSÃO. STF. REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. PRESCRIÇÃO. QUESTÃO ANTERIORMENTE DECIDIDA. PRECLUSÃO.
+1. O acórdão recorrido decidiu a controvérsia sob o fundamento de que "juízo de retratação está restrito à tese firmada pelo Supremo Tribunal Federal no RE nº 574.706/PR (Tema 69)". Todavia, nas razões recursais, a parte recorrente se limita a afirmar que "o juízo de retratação não impede o conhecimento de ofício da aplicação da prescrição quinquenal, uma vez que a egrégia Corte Regional estava a reformar um julgado seu, estando, portanto, o processo ainda na esfera da instância ordinária, sendo proferido novo acórdão, agora em harmonia ao precedente qualificado da instância extraordinária".
+2. A fundamentação utilizada pela Corte a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a ausência de impugnação de fundamento autônomo e a deficiência na motivação.
+3. O entendimento do Tribunal de origem está em consonância com a orientação do STJ de que as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias. Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno. Precedentes: AgInt no REsp 1.584.287/DF, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 21/05/2018; EDcl no AgInt no REsp 1.594.074/PR, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 26/6/2019.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.101.852/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/6/2024, DJe de 24/6/2024.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a exceção de pré-executividade apresentada pelo contribuinte, ante a ausência de preclusão da matéria de ordem pública.
+Publique-se. Intimem-se.
+EMENTA
