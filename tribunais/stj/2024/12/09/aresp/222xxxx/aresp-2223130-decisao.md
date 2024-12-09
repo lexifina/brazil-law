@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por LEANDRO DA SILVA COSTA contra a decisão do Tribunal de Justiça do Estado do Tocantins que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0025052-97.2021.8.27.2729.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 426/432).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+De outra parte, no que se refere ao recurso especial em si, não há dúvida de que a insurgência é manifestamente inadmissível.
+A tese deduzida no recurso especial é no sentido da nulidade das provas obtidas em busca domiciliar e em interceptação de mensagens via Whatsapp levadas a efeito sem autorização judicial (fls. 344/358).
+No caso, o Tribunal de origem, soberano na análise das circunstâncias fático-probatórias do feito, concluiu nos seguintes termos (fls. 320/322 - grifo nosso):
+APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. INVASÃO A DOMICÍLIO. SITUAÇÃO DE FLAGRÂNCIA. INEXISTÊNCIA DE NULIDADE. CRIME PERMANENTE. DESNECESSIDADE DE MANDADO JUDICIAL. AUTORIZAÇÃO CONCEDIDA PELO APELANTE. ACESSO INDEVIDO AO APARELHO CELULAR. TESE NÃO COMPROVADA. PENA DE MULTA. EXCLUSÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Segundo o art. 5º, inciso XI, da Constituição Federal, "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial". Todavia, o delito de tráfico de drogas é de natureza permanente, o que autoriza, quando observado o estado de flagrância, a incursão policial em domicílio sem mandado de busca e apreensão, exatamente como no caso em exame.
+2. Além disso, conforme se verifica no evento 1 dos autos do inquérito, o apelante autorizou os policiais a entrarem em sua residência e, a despeito de ter afirmado em seu interrogatório judicial que naquela oportunidade sofreu agressão física, nada mencionou sobre isso ao ser interrogado pela autoridade policial. Ademais, submetido ao Exame de Corpo de Delito logo após ser preso, não foram constatados quaisquer "sinais eternos de violência" (conforme Laudo juntado o evento 58 daqueles autos).
+3. Não há comprovação de que o conteúdo dos celulares foi acessado pelos policiais que efetuaram a prisão, sendo que a defesa descurou-se de produzir provas nesse sentido.
+4. A impossibilidade financeira do réu não afasta a imposição da(e-STJ Fl.320) Documento recebido eletronicamente da origem pena de multa, inexistindo previsão legal de isenção do preceito secundário do tipo penal incriminador.
+5. Recurso NÃO PROVIDO.
+ ..
+Outrossim, como bem colocado nas contrarrazões recursais apresentadas pelo Parquet, "o Recorrente foi flagrado com drogas na parte externa do imóvel, quando foi chamado pelos policiais e abordado, o que, de igual modo, legitima a realização da busca domiciliar. Além disso, a entrada dos agentes foi autorizada pelo Apelante, cuja manifestação de vontade foi registrada em arquivo de vídeo, juntado no Evento 1, anexo "AUDIO_MP32", do Inquérito Policial, em conformidade com a mais recente orientação jurisprudencial do Supremo Tribunal Federal (STF) acerca do tema."
+Destaco ainda inexistir comprovação de que o conteúdo dos celulares foi acessado pelos policiais que efetuaram a prisão, sendo que a defesa descurou-se de produzir provas nesse sentido.
+Assim, no presente feito, em relação ao conjunto probatório amealhado durante a investigação policial, o qual foi plenamente confirmado em juízo, não há qualquer vício a contaminar-lhe, de modo que a condenação possui lastro amplo, robusto e consistente.
+Pontua-se que, da moldura fática estabelecida na sentença e mantida no acórdão atacado, o ingresso dos policiais na propriedade não se deu de forma açodada ou aleatória, mas, diante de um contexto fático prévio e concreto apto a indicar a prática de crime permanente no local da busca, consistente no flagrante na parte externa do imóvel. Ademais, há o consentimento do morador gravado em vídeo.
+Em casos que tais, esta Corte tem concluído pela legalidade da busca, conforme se verifica em precedentes recentes: AgRg nos EDcl no REsp n. 2.115.455/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/6/2024; AgRg no RHC n. 195.432/ES, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 3/7/2024; e AgRg no HC n. 889.329/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 15/5/2024.
+De outro lado, para rever e alterar esse entendimento, a fim de reanalisar a legalidade do flagrante e da busca domiciliar, seria necessário, inevitavelmente, o reexame do acervo fático-probatório, providência que não encontra respaldo na via eleita, a teor da Súmula 7/STJ. O mesmo se aplica à suposta quebra do sigilo telefônico/telemático pois o Tribunal reconheceu que não houve violação.
+No caso, a avaliação se o ingresso dos policiais não ocorreu nos exatos termos reconhecidos pelo Tribunal de origem ou mesmo se houve violação do sigilo telemático, como asseverado no recurso especial (fls. 344/358), ao contrário do que se alega no agravo, demandaria uma nova análise dos fatos.
+No mesmo sentido, o parecer do Ministério Público Federal (fls. 431/432):
+Assim, o pleito de desconstituição do entendimento das instâncias ordinárias demandaria, mesmo, nova análise da matéria fático-probatória carreada aos autos, com o objetivo de apurar a veracidade dos argumentos sustentados pela Defensoria Pública estadual, o que não pode ser realizado no âmbito restrito da via eleita, esbarrando a insurgência na Súmula 7/STJ.
+Por fim, tampouco diviso ilegalidade flagrante que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ILICITUDE DA PROVA. INVASÃO DE DOMICÍLIO. INEXISTÊNCIA. FUNDADAS RAZÕES PARA A BUSCA DOMICILIAR. AUSÊNCIA DE VIOLAÇÃO DO SIGILO TELEMÁTICO. IMPOSSIBILIDADE DE ALTERAÇÃO DAS CONCLUSÕES DA INSTÂNCIA ORDINÁRIA. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
