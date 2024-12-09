@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por WESLLEY RUAN DIAS DE ABREU contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que deu parcial provimento ao apelo ministerial "para declarar a nulidade do julgamento, relativamente ao acusado Wesley, tão-somente, determinando seja esse submetido a outro, em que deve a quesitação atinente às infrações imputadas ao réu precitado dar-se em séries distintas".
+O agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 985-996).
+Contraminuta apresentada (e-STJ fls. 1001-1002).
+O Ministério Público Federal manifestou-se "pelo desprovimento do agravo" (e-STJ fls. 1018-1023).
+É o relatório.
+Decido.
+O acórdão recorrido encontra-se fundamentado nos seguintes termos (e-STJ fls. 888-889):
+"Procede em parte o recurso ministerial.
+Isso porque o magistrado, relativamente ao acusado Wesley, houve a formulação de uma só série de quesitos, embora imputada ao precitado acusado a prática de dois crimes de homicídio tentado, com evidente inobservância da regra posta no artigo 483, § 69, do Código de Processo Penal", mostrando-se impositiva a invalidação do julgamento, merecendo registro a circunstância consistente em que foi a invalidade, de natureza absoluta, oportunamente suscitada.
+E, acolhida a preliminar de nulidade do julgamento por deficiência na quesitação, anódino o exame da alegação de cerceamento da acusação em face do desentranhamento dos registros policiais, infracionais e criminais do acusado Wesley.
+Por outro turno, com respeito ao réu Carlos Adriano, razão alguma há para que se declare a nulidade do julgamento, pois os documentos desentranhados guardam relação com o outro acusado, tendo sido a juntada dos documentos em questão postulada pela defesa daquele, inclusive. E nenhum a irregularidade houve na quesitação.
+Por isso que estou provendo em parte o recurso, para declarar a nulidade do julgamento, relativamente ao acusado Wesley, tão-somente, determinando seja esse submetido a outro, em que deve a quesitação atinente às infrações imputadas ao réu precitado dar-se em séries distintas."
+Assiste razão ao Ministério Público Federal quando aduz em seu parecer que "não obstante os argumentos da defesa, a análise de tais pretensões ensejaria o reexame fático-probatór io, o que vedado a teor do verbete da Súmula 7/STJ, a qual apresenta-se intransponível, pois não há como o Superior Tribunal de Justiça decidir pelo eventual provimento do recurso especial sem antes analisar o conjunto fático probatório minunciosamente, tal como já procedido pelas instâncias ordinárias, soberanas na apreciação de fatos e provas" (e-STJ fl. 1020).
+De fato, esta Corte possui precedentes no sentido de que "uma vez que as instâncias ordinárias concluíram pela necessidade de se repetir a quesitação ante a contradição nas respostas dos jurados, não se mostra possível na estreita vida do mandamus inverter tal entendimento e acolher a tese de desrespeito à soberania dos veredictos, por demandar revolvimento fático-probatório dos autos" (AgRg no HC n. 842.913/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024).
+Não procede a alegação do agravante no sentido de que a denúncia descreveria tão somente "uma única conduta, inclusive porque o parquet se utiliza de termos no singular ao afirmar que "o crime não se consumou", "o delito foi praticado", "o ato cometido"" (e-STJ fl. 914). Com efeito, a simples leitura da denúncia (e-STJ fls. 1-4) evidencia que o Ministério Público dividiu a imputação em dois fatos distintos explicitamente enumerados, de modo que não há que se falar em "conduta única".
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
