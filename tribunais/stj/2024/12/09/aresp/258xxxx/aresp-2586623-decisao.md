@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensas aos artigos 1.022, II, parágrafo único, I e II, e 489, § 1º, III e IV, do CPC.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 742):
+APELAÇÃO MANDADO DE SEGURANÇA PREVENTIVO ICMS COMBUSTÍVEL GASOLINA E DIESEL LEI COMPLEMENTAR 192/22 - Pretensão da impetrante de declarar a ilegalidade da exigência do ICMS sobre a importação e comercialização de gasolina e diesel anteriores a edição da Lei Complementar no 192/22 com a restituição dos valores pagos nos últimos 05 anos - Denegação da ordem em primeira instância Insurgência Descabimento Direito líquido e certo não demonstrado quanto a ilegalidade ou inconstitucionalidade da exigência do ICMS combustível antes da Lei Complementar 192/22 Validade do Convênio CONFAZ no 110/07, da legislação estadual (Lei 6.374/89) e Lei Kandir (LC 87/96) Sentença mantida Recurso improvido.
+-Apelação provida.
+Os embargos de declaração opostos foram julgados nos termos da seguinte ementa (fl. 780):
+EMBARGOS DE DECLARAÇÃO OMISSÃO - Inexistência de qualquer omissão, contradição ou obscuridade a autorizar o manejo do recurso - Mero inconformismo com o julgado Matéria devolvida para análise devidamente apreciada EMBARGOS REJEITADOS.
+No recurso especial a parte recorrente alega violação dos artigos 1.022, II, parágrafo único, I e II, e 489, § 1º, III e IV, do CPC, ao argumento de que o Tribunal de origem deixou de se manifestar sobre questões essenciais à solução da controvérsia.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se, inicialmente, que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Segundo a recorrente, mesmo após oposição de embargos de declaração, o Tribunal a quo não se manifestou sobre os seguintes argumentos formulados desde a Exordial: (i) de que o Estado de São Paulo não poderia exigir o ICMS nas operações com combustíveis até que editada lei complementar federal prescrita na Emenda Constitucional n. 33/2001 à luz da orientação vinculativa do STF inserta nas Teses ns. 1.094, 1093 e 825 de sua Repercussão Geral; (ii) para fins de seu devido prequestionamento explícito, da validade da exigência do ICMS-Combustível antes da edição da lei complementar ou Convênio do CONFAZ previstos nos arts. 2º e 4º da Emenda Constitucional n. 33/2001, à luz do disposto nos art. 146, I e III, "a" e "c", art. 150, I, art. 155, §2º, XII, "a", "d" e "h", e art. 155, §§ 4º e 5º (com redação dada pelo art. 2º da Emenda Constitucional n. 33/2001), todos da Constituição Federal).
+Com efeito, em sede de recurso especial, não cabe ao STJ examinar alegação de suposta omissão de questão de natureza constitucional, sob pena de usurpação da competência do STF. Cite-se: AgInt nos EAREsp 731.395/SP, rel. Min. Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp 1.679.519/SE, rel. Min. Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp 1.527.216/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe 13/11/2018; e AgRg no REsp 961.258/CE, rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe de 13/12/2010.
+A propósito:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATIVIDADE ESPECIAL. CONVERSÃO DE TEMPO PARA COMUM.
+CONTAGEM RECÍPROCA. ARTS. 40, §§ 1º E 5º e 201, §§ 7º e 8º DA CONSTITUIÇÃO FEDERAL. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL.
+ ..
+4. É firme o posicionamento de que " n ão cabe ao Superior Tribunal de Justiça, a pretexto de examinar suposta ofensa ao art. 535, II, do CPC/73, aferir a existência de omissão do Tribunal de origem acerca de matéria constitucional, sob pena de usurpar a competência reservada ao Supremo Tribunal Federal" (AgInt no AREsp 224.127/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 10/2/2017).
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.744.624/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. OMISSÃO DE QUESTÃO CONSTITUCIONAL. COMPETÊNCIA DO STF. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULS 284/STF. PRINCÍPIOS DO DIREITO. VIOLAÇÃO. NÃO CABIMENTO. CONCEITO DE LEI FEDERAL. EMPRESA OPTANTE DA APURAÇÃO DO IMPOSTO DE RENDA COM BASE NO LUCRO REAL. PIS E COFINS. SUJEIÇÃO AO REGIME DA NÃO CUMULATIVIDADE, RESSALVADAS AS HIPÓTESES LEGAIS DE EXCLUSÃO. CONFORMIDADE DO ACÓRDÃO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DO ÓBICE DA SÚMULA 83/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016.
+2. Não há falar em afronta aos arts. 1.022 e 489 do CPC/2015, quando o órgão julgador presta a tutela jurisdicional por meio de fundamentação jurídica clara, específica e condizente para a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido - caso dos autos. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. Em sede de recurso especial, não cabe ao STJ examinar alegação de suposta omissão de questão de natureza constitucional, sob pena de usurpação da competência do STF. Cite-se: AgInt nos EAREsp 731.395/SP, rel. Min. Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp 1.679.519/SE, rel. Min. Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp 1.527.216/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe 13/11/2018; e AgRg no REsp 961.258/CE, rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe de 13/12/2010.
+ ..
+9. Agravo interno não provido. (AgInt no REsp n. 2.046.776/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO DE QUESTÃO CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
