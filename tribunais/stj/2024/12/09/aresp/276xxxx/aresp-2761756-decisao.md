@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LIB EMPREENDIMENTOS E PARTICIPACOES LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+RECURSO DE APELAÇÃO. COMPRA E VENDA. EMBARGOS MONITÓRIOS. SUPOSTO ACORDO VERBAL DE RESPONSABILIDADE PELO CUSTEIO DE REPARO DE MOTOR DE EMBARCAÇÃO. SENTENÇA DE ACOLHIMENTO DOS EMBARGOS. INSURGÊNCIA DA EMBARGADA. - ACORDO VERBAL. PROVA DOCUMENTAL INSUFICIENTE. CONVERSAS TROCADAS POR "WHATSAPP" QUE NADA COMPROVAM ACERCA DA RESPONSABILIDADE PELO CUSTEIO DO REPARO. PROVA TESTEMUNHAI QUE NÀO CONCLUI PELA RESPONSABILIDADE DO EMBARGANTE. EMBARGANTE QUE IMPUGNOU DE FORMA ESPECÍFICA OS FATOS NARRADOS PELA EMBARGADA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 700 do CPC, no que concerne à existência de prova capaz de justificar o cabimento da ação monitória, trazendo a seguinte argumentação:
+2.1. Diversamente do decidido pelo D. magistrado singular e mantido pelo E. Tribunal a quo, o procedimento monitório há de ser admitido.
+2.2. Ora, tivesse a Autora/Recorrente a prova escrita, líquida e assinada pelo devedor se comprometendo a honrar o débito sub judice, a recorrente teria obviamente utilizado do procedimento executório, próprio e mais célere.
+2.3. É certo, porém, que tal deficiência documental não desnatura ou desqualifica a pretensão da parte Autora.
+ ..
+2.5. Diferentemente do que dispôs a r. sentença recorrida e mantido pelo v. acórdão, o conjunto probatório reunido nos autos, sobretudo a prova oral colhida e mensagens carreadas às fls. 102/110, corrobora, de forma harmônica, o afirmado pela Autora/recorrente acerca da responsabilidade do Requerido pelo reparo da embarcação (fls. 306-307).
+Quanto à segunda controvérsia, a parte recorrente alega violação do art. 85, § 11 do CPC, no que concerne ao afastamento da majoração dos honorários recursais, eis que não houve apresentação de contrarrazões, trazendo a seguinte argumentação:
+3.1. Outrossim, o v. acórdão recorrido também viola o disposto no art. 85, §11 do CPC, ao majorar os honorários do recorrido mesmo sem a apresentação de contrarrazões ou atuação em grau recursal.
+3.2. Isso porque, conforme certificado às fls. 280, apesar de intimado, não houve apresentação de contrarrazões, não havendo, portanto, atuação do patrono do apelado em grau recursal que justifique a majoração..(fl. 310).
+É o relatório.
+Decido.
+Quanto à primeira e à segunda controvérsias, o Tribunal a quo se manifestou nos seguintes termos:
+Em realidade, os elementos trazidos aos autos pela apelante não dão respaldo probatório à tese fática de responsabilização de FABIO DANIELE pelos reparos realizados, uma vez que o orçamento não ostenta qualquer assinatura e as conversas juntadas nada comprovam. Os documentos juntados não oferecem substrato suficiente à demanda e não sobrevivem diante da prova testemunhal e dos argumentos expostos pelo apelado.
+Nesse cenário, é caso de reconhecer que os documentos não são suficientes para embasar a pretensão monitória.
+Era da apelante, na condição de autora da ação monitória, o ônus probatório dos fundamentos fáticos e jurídicos da pretensão. Contudo, desse ônus ele não se desincumbiu, o que impunha mesmo a procedência dos embargos monitórios, nos exatos termos do art. 373, inciso I, do Código de Processo Civil.
+A sentença deu ao caso solução adequada, o que autoriza preservar o acolhimento dos embargos monitórios. Como consequência do integral desprovimento do recurso, por força do tempo adicional dedicado à demanda e do maior trabalho desenvolvido em sede recursal, em observância ao art. 85, § 11, do Código de Processo Civil, ficam majorados de 10% (dez por cento) para 15% (quinze por cento) do valor atualizado da causa os honorários devidos pela apelante ao advogado do apelado (fl. 288).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-prob atório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias d e origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
