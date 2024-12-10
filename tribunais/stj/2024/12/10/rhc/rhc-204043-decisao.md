@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto pela Defensoria Pública do Estado da Bahia, em benefício de THIAGO EVANGELISTA DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no julgamento do Habeas Corpus n. 8045677-62.2024.8.05.0000.
+Extrai-se dos autos que o paciente foi preso em 19/5/2024, pela possível prática de crime descrito no art. 155, caput c/c art. 14, II, do Código Penal e o da contravenção penal prevista no art. 19 do Decreto-Lei 3.688/41.
+Levado ao juízo de custódia, teve homologado o auto de prisão em flagrante e convertida a prisão em preventiva.
+Em sede de habeas corpus, o Tribunal de Justiça do Estado da Bahia conheceu parcialmente da impetração, porém, nesta parte, negou a ordem, em acórdão assim ementado (fls. 132/149):
+"DIREITO PENAL. DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PACIENTE PRE So PREVENTIVAMENTE POR SUPOSTA PRÁTICA DE FURTO TENTADO. PORTE DE ARMA BRANCA (ART.155, CAPUT C/C ART. 14, II, DO CÓDIGO PENAL C/C ART. 19 DA LEI DE CONTRAVENÇÕES PENAIS). TESE DE VIOLAÇÃO AO PRINCÍPIO DA HOMOGENEIDADE. NÃO CONHECIMENTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. EXCESSO DE PRAZO para O OFERECIMENTO DA DENÚNCIA. prejudicialidade. QUESTÃO SUPERADA ANTE A DEFLAGRAÇÃO DA AÇÃO PENAL no curso do presente writ.
+ALEGAÇÃO DE DESNECESSIDADE DA MEDIDA EXTREMA E POSSIBILIDADE DE APLICAÇÃO DE CAUTELARES DIVERSAS. INALBERGAMENTO. PRESENÇA DOS REQUISITOS LEGAIS. ATO CONSTRITOR FUNDAMENTADO EM INDÍCIOS DE AUTORIA E MATERIALIDADE DO CRIME. RECONHECIMENTO DO FLAGRANTEADO PELAS VÍTIMAS. HISTÓRICO DE RECALCITRÂNCIA CRIMINOSA. PACIENTE QUE RESPONDE DIVERSAS AÇÕES PENAIS PELA PRÁTICA DE DELITOS CONTRA O PATRIMÔNIO. PERICULOSIDADE SOCIAL EVIDENCIADA. RISCO DE REITERAÇÃO. FAVORABILIDADE DAS CONDIÇÕES PESSOAIS. IRRELEVÂNCIA. DELITO PRATICADO NO GOZO DE LIBERDADE PROVISÓRIA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. GARANTIA DA ORDEM PÚBLICA QUE SE FAZ NECESSÁRIA.
+PARECER DA PGJ PELA PREJUDICIALIDADE DA ORDEM.
+ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E DENEGADA.
+1. Trata-se de Habeas Corpus, com pedido liminar, impetrado pela DEFENSORIA PÚBLICA DO ESTADO DA BAHIA, em favor de THIAGO EVANGELISTA DA SILVA apontando como autoridade coatora o MM. Juiz de Direito da Vara Criminal da Comarca do Remanso/BA, Dr. Mateus Santana de Meneses.
+2. Narra que o Paciente foi preso em flagrante, no dia 19/05/2024, pela suposta prática dos crimes previstos nos artigos 155, caput c/c art. 14, II, do Código Penal e o artigo 19 do Decreto-Lei 3.688/41.
+3. Não se conhece, em habeas corpus, do argumento acerca da homogeneidade da prisão cautelar, por demandar aprofundamento probatório incompatível com o writ.
+4. Em consulta ao sistema Pje de 1º grau, é possível constatar o oferecimento da denúncia em 08/08/2024, dando início a persecução penal, nos autos da ação penal tombada sob o nº 8002006-44.2024.8.05.0208.
+5. Nessa senda, forçoso reconhecer a perda superveniente do objeto do presente mandamus, restando assim, prejudicada a análise deste tópico da insurgência.
+6. Desponta dos autos que o Paciente foi preso em flagrante no dia 19/05 /2024, por volta das 02h45, na estrada do Major, em Remanso/BA, após detido por seguranças de uma festa que acontecia no Clube "Pé de Areia", no momento em que tentava adentrar o local portando 01 (um) facão da marca "Tramontina", cor preta.
+7. Na oportunidade, a pessoa de J. L. B. A. D. S., que se encontrava no local, teria reconhecido o Paciente como autor de uma tentativa de furto à sua residência, na noite anterior, razão pela qual fora acionada a Polícia Militar, que realizou a sua condução à Delegacia.
+8. Sem adentrar ao mérito, sobreleva notar, primeiramente, que o Paciente foi imediatamente reconhecido pela vítima da tentativa de furto em sua residência no dia anterior, tendo esta acionado os policiais, o que se constitui em indício veemente da autoria delitiva.
+9. O contexto fático delineado, sem sombra de dúvidas, revela a necessidade de resguardo da ordem pública, sobretudo ao considerar o histórico de contumácia delitiva do Paciente, em crimes contra o patrimônio, acumulando diversas ações penais em curso, consoante se extrai das certidões anexadas aos autos, bem assim de consulta ao sistema PJE de 1º Grau.
+10. Com efeito, os elementos reunidos nos autos evidenciam a periculosidade social do Paciente e a necessidade de mantê-lo sob custódia cautelar, a bem da garantia da ordem pública, sobretudo quando há histórico de recalcitrância criminosa, tal como referido no decreto prisional.
+11. Gizo, ainda, que para o juízo de periculosidade social do agente não configura constrangimento ilegal a consideração de inquéritos policiais ou ações penais em curso, prática vedada apenas em sede de dosimetria da pena, nos termos da Súmula 444 do STJ.
+12. Noutro giro, mesmo que não seja tecnicamente reincidente, já é por demais consabido que os predicados pessoais, isoladamente considerados, não impõem a concessão automática de liberdade ao Paciente.
+13. Forçoso reconhecer, ainda, que as medidas substitutivas do art. 319 do Código de Processo Penal não se revelam suficientes nem adequadas ao caso vertente.
+14. Como sucedâneo, conclui-se que o decreto prisional apresenta fundamentação robusta e idônea, impondo-se a rejeição dos argumentos aduzidos pelo Impetrante.
+15. A ilustre Procuradoria de Justiça, através do Parecer de id 67200648, subscrito pelo Dr. Moisés Ramos Marins, opinou pela prejudicialidade da Ordem, tendo em vista o oferecimento da denúncia.
+16. Não conhecimento da impetração no que se refere às teses de violação ao princípio da homogeneidade;
+17. Prejudicialidade da alegação de excesso de prazo no oferecimento da denúncia;
+18. Conhecimento da alegação de desnecessidade da medida extrema e possibilidade de aplicação de cautelares diversas.
+19. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESTA PARTE, DENEGADA."
+Em resumo, pretende a Defensoria seja reconhecido aquilo que foi negado na decisão da instância recorrida, alegando violação ao princípio da homogeneidade das cautelares, ao argumento de que, em situação hipotética de condenação, não resultaria pena de prisão e, porquanto, no máximo medidas cautelares diversas bastariam.
+Requer a expedição de alvará de soltura.
+Parecer do Ministério Público Federal pela denegação da ordem (fls. 182/195).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+No habeas corpus impetrado perante o Tribunal de Justiça da Bahia, a impetrante invocou excesso de prazo em virtude da demora de mais de 60 dias, estando o paciente preso, para oferecimento de denúncia. Todavia, a arguição esvaiu naquele juízo porque, quando da análise, esta questão já se achava superada.
+O paciente acha-se preso por suposta prática do crime de furto, na modalidade tentada, e contravenção penal de posse de arma branca. Já se vão mais de 180 dias sem que tenha o desfecho da ação penal. Em busca na página virtual do Tribunal de origem, vê-se que houve designação de audiência somente para o dia 18 de dezembro do corrente ano, mantendo-se aprisionado o paciente.
+Pois bem.
+Não se verifica nos autos, razões para a custódia preventiva, podendo, claramente, ser substituída por medidas cautelares diversas da prisão. Ao cabo, e mesmo sem invocar o princípio da homogeneidade, tem-se, no presente, solução cautelar mais severa do que seria dada, efetivamente, mesmo em caso de condenação.
+Abstratamente, a prisão preventiva não se resume a este ponto. Trazendo para a situação concreta, não se vê motivações outras que justifiquem à necessidade de manutenção da medida extrema, sendo suficiente outras cautelares diversas. Além disso, tanto o juízo primevo, quanto o juízo no habeas corpus, não apresentaram referências claras quanto a existência de fatos precedentes que impeçam solução mais branda.
+A decisão há de pautar-se em dados concretos, objetivos, passíveis de demonstração e, mais do que isso, demonstrados, o que não se percebe no caso presente.
+Ante o exposto, com fundamento no art. 34, XX, e no art. 202, c/c o art. 246, todos do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso em habeas corpus para relaxar a prisão preventiva, com determinação de imposição de medidas cautelares alternativas, a serem definidas pelo Juízo de primeiro grau.
+ EMENTA
