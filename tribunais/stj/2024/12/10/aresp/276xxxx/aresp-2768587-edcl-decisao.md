@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por PELSUL INDUSTRIA E COMERCIO DE PAPEIS LTDA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  há omissão sobre o direito da parte recorrente de não perpetuar uma ou mais das insurgências que agora julga desnecessária. Ora, se a parte recorrente avaliou que não havia mais sentido em insistir em sua alegação de violação ao art. 1.022, II do Código de Processo Civil, não se pode obrigá-la a levar adiante a insurgência, como condição ao conhecimento do agravo em recurso especial, especialmente porque o capítulo do recuso especial que se relaciona à violação aos artigos 85, 98 e 99 do CPC/15 é independente e pode, por si só, reverter o acordão recorrido. Ao compreender que era dever da parte recorrente impugnar a não admissão do recurso especial no que tange à alegação de omissão, ainda que a parte concorde com este ponto da decisão judicial, o Nobre Ministro Relator também restou omisso sobre o princípio devolutivo (artigos 1.002 e 1.013 do CPC/2015), que se aplica a todas as espécies de recurso, e segundo o qual é direito da parte recorrente escolher quais matérias serão devolvidas ao órgão jurisdicional que analisará o recurso.  ..  (fl. 188)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 284/STF.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26.8.2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24.8.2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
