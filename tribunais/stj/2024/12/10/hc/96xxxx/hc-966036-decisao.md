@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS TEIXEIRA DA SILVA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5941596.62.2024.8.09.0137).
+Consta dos autos que, em sessão plenária realizada, o paciente foi considerado culpado pelo Conselho de Sentença e condenado às penas de 10 (dez) anos e 8 (oito) meses de reclusão, em regime inicial fechado, pela prática do delito de homicídio qualificado-privilegiado, com reconhecimento da participação de menor importância (art. 121, § 1º e § 2º, inciso IV c/c o art. 29, § 1º, do CP).
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que manteve o decisum que determinara a execução provisória das penas.
+Neste writ, a defesa alega, em síntese, constrangimento ilegal na privação da liberdade do paciente de forma precária.
+Aduz que a pena nem mesmo teria sido superior a quinze anos.
+Explica que, "conforme se verifica da ata de julgamento, o argumento de que a acusação gostaria de ter feito perguntas ao paciente configura uma argumentação ilegal, uma vez que remete de forma inadequada ao silêncio do réu, direito constitucionalmente assegurado. Tal postura, com o devido respeito, compromete a neutralidade necessária ao julgamento  ..  havendo indícios de nulidade ou de condenação manifestamente contrária à prova dos autos, o tribunal, valendo-se do poder geral de cautela, pode suspender a execução da decisão até o julgamento definitivo do recurso" (fl. 8, grifei).
+Assere que a prisão cautelar deve ser considerada exceção e que sua decretação deve ser fundamentada de maneira concreta e específica.
+Requer, inclusive liminarmente, "suspender a execução da decisão até o julgamento do recurso" (fl. 17). Ao final, a cassação da decisão que determinou a execução antecipada da pena.
+É o relatório. DECIDO.
+A controvérsia cinge-se à tese da defesa de não cabimento da segregação cautelar, ante a ausência dos requisitos exigidos pelo Código de Processo Penal. Pugna, assim, pela cassação da decisão que determinou a execução antecipada da pena.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ademais, é assente nessa Corte Superior o entendimento de que, caso se constate manifesta e flagrante ilegalidade, deve ela ser afastada, por meio da concessão da ordem de ofício.
+No caso em tela, porém, não se verifica qualquer ilegalidade.
+Como visto, o paciente foi condenado pelo Tribunal do Júri pela prática de delito doloso contra a vida com autorização de imediata execução do julgado. Em tais casos, a Constituição Federal conferiu às decisões proferidas pelo Tribunal do Júri a nota de soberania dos seus veredictos.
+Assim, sobrevindo condenação, é viável a imediata execução, especialmente quando a possibilidade de sua revisão, comparativamente à decisão proferida por juiz togado, foi propositadamente restringida pelo Constituinte e pelo legislador ordinário.
+No julgamento do RE n. 1.235.340/SC (Tema n. 1.068 da Repercussão Geral), finalizado em 12/9/2024, o Supremo Tribunal Federal deu interpretação conforme à Constituição ao art. 492 do CPP, excluindo o limite mínimo de 15 anos para a execução da condenação imposta pelo Tribunal do Júri, firmando a tese de que a soberania dos veredictos autoriza a imediata execução da pena, independentemente do total da pena aplicada.
+E este o entendimento assente nesta Corte Superior:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. PACIENTE CONDENADO PELO TRIBUNAL DO JÚRI. EXECUÇÃO PROVISÓRIA DA SENTENÇA CONDENATÓRIA (ART. 492, I, e DO CPP). POSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA 1.068 DA REPERCUSSÃO GERAL JULGADO PELA SUPREMA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. LIMINAR REVOGADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Caso em que o magistrado Presidente do Tribunal do Júri, ao proferir a sentença, determinou a prisão do réu com base na regra prevista no art. 492, I, e, do Código de Processo Penal, que estabelece a execução provisória das sentenças do Tribunal do Júri. Ausência de constrangimento ilegal.
+3. O plenário do Supremo Tribunal, por maioria de votos, apreciando o tema 1.068 da repercussão geral, "deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados" e fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+4. Habeas corpus não conhecido. Liminar revogada (HC n. 913.224/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.)
+Incursões acerca da possibilidade de que a condenação proferida pelo Tribunal do Júri possa ser cassada em grau de recurso, demandam o reexame aprofundado de provas, incompatível com a presente via.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
