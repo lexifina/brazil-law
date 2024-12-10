@@ -1,0 +1,14 @@
+DECISÃO
+O presente recurso em habeas corpus interposto por JOSUE GOMES SANTIAGO - condenado como incurso no crime de tráfico de drogas (fls. 35/39 - Ação Penal n. 0000667-50.2008.8.06.0070, da Vara Única Criminal da comarca de Crateús/CE) - contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (fls. 24/33 - HC n. 0627763-45.2024.8.06.0000), comporta acolhimento.
+Com efeito, busca o recurso a revisão da dosimetria imposta, com a incidência de causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), e o abrandamento do regime inicial.
+Liminar indeferida (fls. 44/45) e prestadas informações (fls. 50/52 e 55/57), o Ministério Público Federal opinou pelo não conhecimento recurso em habeas corpus (fls. 63/67).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 20/3/2019 (conforme informações do endereço eletrônico do Tribunal estadual), o que afastaria a competência desta Corte Superior para análise do pleito.
+Entretanto, tem-se que há constrangimento ilegal na dosimetria da pena, uma vez que a causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) foi afastada, unicamente, em razão da quantidade de entorpecente apreendido - confirmado histórico de ilícito ao envolvido, sendo o tráfico o meio de vida do réu que estava em patamar avançado no tráfico, comprovado pela quantidade e diversidade da droga (fl. 37) -, em desacordo com o entendimento desta Corte Superior.
+Necessário, então, redimensionar a pena corporal imposta: na primeira fase, mantida a pena fixada na sentença, em 10 anos de reclusão e 1.000 dias-multa (fl. 38). Sem alterações na fase intermediária (fl. 38). Na terceira fase, aplica-se a causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), na fração máxima, especialmente porque a quantidade de entorpecente já foi utilizada na primeira fase, resultando a pena definitiva em 3 anos e 4 meses de reclusão, e 333 dias-multa.
+Finalmente, considerando a pena corporal aplicada e a existência de circunstâncias judiciais negativadas (fl. 38), tem-se que o recorrente faz jus a iniciar o cumprimento de pena em regime inicial semiaberto.
+Em razão disso, dou provimento ao presente recurso a fim de redimensionar a pena imposta ao recorrente para 3 anos e 4 meses de reclusão, e 333 dias-multa, além de fixar o regime inicial semiaberto, referente à condenação proferida na Ação Penal n. 0000667-50.2008.8.06.0070, Vara Única Criminal da comarca de Crateús/CE.
+Comunique-se.
+Publique-se.
+EMENTA
+PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONSIDERAÇÃO DA QU ANTIDADE DE ENTORPECENTE PARA AFASTAR A MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. PENA REDIMENSIONDA. REGIME PRISIONAL READEQUADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido nos termos do dispositivo.
