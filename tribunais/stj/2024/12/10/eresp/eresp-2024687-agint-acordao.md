@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 04/12/2024 a 10/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181 DO STF. INAFASTABILIDADE DA JURISDIÇÃO. NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 895 DO STF. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, fundamentada na ausência de repercussão geral das matérias discutidas, conforme definido nos Temas n. 181 e 895 do STF.
+1.2. A parte agravante sustenta que os mencionados temas de repercussão geral não se aplicam ao caso dos autos, afirmando que houve violação direta aos princípios constitucionais apontados.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A aplicabilidade do Tema n. 181 do STF quando há necessidade de discussão ou superação de óbices de admissibilidade que resultaram no não conhecimento de recurso de competência do STJ.
+2.2 Discute-se se a questão da violação do princípio da inafastabilidade de jurisdição caracteriza-se como matéria de natureza infraconstitucional e, portanto, se estaria ausente a repercussão geral necessária para o seguimento do recurso extraordinário.
+III. RAZÕES DE DECIDIR
+3.1. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.2 As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.3 A Suprema Corte firmou o entendimento de que a questão relativa à violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional quando envolve óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou a necessidade de análise de matéria fática, estando ausente a repercussão geral (Tema n. 895 do STF).
+3.4 Essa conclusão foi adotada sob o regime da repercussão geral, sendo de aplicação obrigatória, conforme disposto no art. 1.030, I, a, do Código de Processo Civil.
+3.5 No caso concreto, a aferição da existência da apontada violação do art. 5º, XXXV, da Constituição Federal, demandaria a superação de óbices processuais, enquadrando-se na hipótese tratada no Tema n. 895 do STF, o que justifica a negativa de seguimento ao recurso extraordinário.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo interno interposto contra a decisão de fls. 912-914, proferida pela Presidência do STJ, que negou seguimento ao recurso extraordinário, com base na aplicação dos Temas 895 e 181 do STF.
+A parte agravante alega a existência de repercussão geral na matéria debatida e a violação aos princípios da inafastabilidade da jurisdição e da prestação jurisdicional plena e efetiva, do devido processo legal, do contraditório e da ampla defesa.
+Afirma que é inconstitucional o entendimento firmado pela Corte Superior de Justiça no sentido de que a análise da pretensão recursal encontraria óbice na Súmula n. 7/STJ, pois não há necessidade de incursão em fatos ou provas, mas a mera leitura do v. acórdão da Corte de origem, do qual se extrai que, no caso, o mesmo perito apresenta pareceres técnicos ou laudos de avaliação do imóvel a ser expropriado com valores absoluta e manifestamente discrepantes.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 937-944.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181 DO STF. INAFASTABILIDADE DA JURISDIÇÃO. NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 895 DO STF. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, fundamentada na ausência de repercussão geral das matérias discutidas, conforme definido nos Temas n. 181 e 895 do STF.
+1.2. A parte agravante sustenta que os mencionados temas de repercussão geral não se aplicam ao caso dos autos, afirmando que houve violação direta aos princípios constitucionais apontados.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A aplicabilidade do Tema n. 181 do STF quando há necessidade de discussão ou superação de óbices de admissibilidade que resultaram no não conhecimento de recurso de competência do STJ.
+2.2 Discute-se se a questão da violação do princípio da inafastabilidade de jurisdição caracteriza-se como matéria de natureza infraconstitucional e, portanto, se estaria ausente a repercussão geral necessária para o seguimento do recurso extraordinário.
+III. RAZÕES DE DECIDIR
+3.1. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.2 As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.3 A Suprema Corte firmou o entendimento de que a questão relativa à violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional quando envolve óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou a necessidade de análise de matéria fática, estando ausente a repercussão geral (Tema n. 895 do STF).
+3.4 Essa conclusão foi adotada sob o regime da repercussão geral, sendo de aplicação obrigatória, conforme disposto no art. 1.030, I, a, do Código de Processo Civil.
+3.5 No caso concreto, a aferição da existência da apontada violação do art. 5º, XXXV, da Constituição Federal, demandaria a superação de óbices processuais, enquadrando-se na hipótese tratada no Tema n. 895 do STF, o que justifica a negativa de seguimento ao recurso extraordinário.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+VOTO
+2. Como demonstrado na decisão agravada, não se conheceu de parte do recurso anterior, de competência do Superior Tribunal de Justiça, porque não preenchidos todos os pressupostos de admissibilidade, em razão da incidência dos óbices das Súmulas 7 e 518, do STJ, e da falta de indicação do dispositivo de lei federal interpretado divergentemente.
+Por isso, qualquer alegação do recurso extraordinário sobre essas questões, demandaria, inicialmente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do Supremo Tribunal Federal.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário a envolver o conhecimento de recurso anterior não possui repercussão geral, fixando a seguinte tese:
+T ema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Essa conclusão, adotada sob o regime da repercussão geral e de aplicação obrigatória, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil, impõe a negativa de seguimento ao recurso extraordinário.
+Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao STF, como exemplifica o julgado a seguir:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA  .. . PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021.)
+Tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fundo do recurso do qual não se conheceu. Confira-se:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO NÃO ANALISADO NO TSE. RECURSO ESPECIAL ELEITORAL NÃO ADMITIDO POR AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL POR ALEGADA INOBSERVÂNCIA LEGAL. OFENSA REFLEXA. DESCABIMENTO DO EXTRAORDINÁRIO.
+1. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181 - RE 598.365).
+ ..
+3. Agravo regimental a que se nega provimento.
+(ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.)
+Também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+3. No mais, quanto à alegação de violação ao princípio da inafastabilidade de jurisdição, conforme consignado na decisão agravada, o Supremo Tribunal Federal já definiu que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional "quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou análise de matéria fática".
+Essa é a orientação consolidada no Tema n. 895 do STF, no qual a Suprema Corte fixou a seguinte tese:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+Esse entendimento foi adotado sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+No caso dos autos, o exame da alegada ofensa ao princípio da inafastabilidade de jurisdição, previsto no art. 5º, XXXV, da Constituição, demandaria a superação de óbices processuais, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 895.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
