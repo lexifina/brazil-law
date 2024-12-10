@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GRAN PARK BOM DESPACHO EMPREENDIMENTOS IMOBILIÁRIOS S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/08/2024.
+Concluso ao gabinete em: 27/09/2024.
+Ação: declaratória de inexistência de dívida c/c obrigação de fazer e indenização por danos materiais e morais, ajuizada por MARCO TULIO SILVA, em face da agravante, fundada no inadimplemento de pacto rescisório e na negativação indevida.
+Sentença (e-STJ, fls. 115/121): julgou parcialmente procedente os pedidos para condenar a agravante a excluir em definitivo o nome do agravado dos órgãos de restrição ao crédito, ao pagamento da quantia de R$ 15.000,00 (quinze mil reais) a título de compensação por danos morais, além do pagamento dos valores das parcelas remanescentes da rescisão contratual, no valor de R$3.027,16 (três mil e vinte e sete reais e dezesseis centavos).
+Acórdão (e-STJ, fls. 156/163): negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - INCLUSÃO INDEVIDA DOS DADOS DA PARTE NOS CADASTROS DE RES-TRIÇÃO AO CRÉDITO - DANO MORAL CONFIGURADO - FIXAÇÃO DO VALOR - RAZOABILIDADE.
+- A inclusão indevida do nome da parte nos cadastros negativadores acarreta a responsabilidade do credor de indenizar a vítima em razão do dano moral injustamente causado, porquanto presumíveis os prejuízos sofridos em decorrência de tal ato ilícito.
+- Ao mesmo tempo em que não deve permitir o enriquecimento injustificado do lesado, a reparação por danos morais também não pode ser fixada em valor insignificante, pois deve servir de reprimenda para evitar a repetição da conduta abusiva.
+Recurso especial (e-STJ, fls. 166/179): alega violação dos arts. 186, 927 e 944, do CC/02, bem como dissídio jurisprudencial.
+Sustenta que não haveria que se falar em condenação por danos morais, visto que não haveria provas seguras de que houve, de fato, a negativação, além de que existiriam provas de que o agravado possuiria outras negativações, de modo a incidir a Súmula 385/STJ.
+Defende ainda que o valor fixado a título de compensação por danos morais seria excessivo e deveria ser reduzido, bem como que o termo inicial dos juros de mora deveria ser a data do seu arbitramento.
+É O RELATÓRIO. DECIDO.
+- Da preclusão
+Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC, o agravo interno, no próprio Tribunal de origem, é o único recurso cabível contra a decisão que nega seguimento a recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ em sede de recurso especial repetitivo (art. 1.030, I, "b"), não sendo admissível a interposição de agravo em recurso especial.
+Na hipótese dos autos, a decisão de admissibilidade proferida pelo Tribunal de origem negou seguimento ao recurso especial, no que concerne ao termo inicial dos juros de mora, com base na aplicação do Tema 440 dos recursos especiais repetitivos e não houve a interposição do recurso competente.
+Assim, preclusa a referida matéria, passa-se à análise das demais questões ventiladas no recurso especial.
+- Da existência de fundamento não impugnado
+A agravante não impugnou os fundamentos utilizados pelo TJ/MG no sentido de que a agravante teria se limitado a apresentar "print" de documento virtual do Serasa, no qual não constariam pendências em nome do agravado, mas apenas uma restrição em nome da sua pessoa jurídica (e-STJ, fl. 159), que a pessoa física não se confunde com a pessoa jurídica e que haveria inovação recursal na alegação de aplicação da Súmula 385/STJ (e-STJ, fl. 162).
+Como esses fundamentos não foram impugnados, deve-se manter o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da comprovação da negativação indevida do nome do agravado pela agravante, da inexistência de prova de outras negativações em seu nome, da configuração dos danos morais e da razoabilidade do valor fixado a título de compensação, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ademais, quanto ao valor arbitrado a título de compensação por danos morais, a jurisprudência do STJ é pacífica no sentido de que a sua modificação somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes: AgInt no AREsp 1623846/PB, 4ª Turma, DJe de 05/08/2020; AgInt no AREsp 1529503/MS, 4ª Turma, DJe de 06/12/2019; REsp 1.668.302/RS, minha relatoria, 3ª Turma, DJe de 22/06/2017; AgInt no AREsp 1.036.187/PE, 4ª Turma, DJe de 01/08/2017; AgInt no AREsp 962.044/DF, 3ª Turma, DJe de 30/11/2016. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% do valor da condenação (e-STJ, fls. 163) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM BASE EM TESE REPETITIVA. AGRAVO INTERNO JULGADO IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. ÚNICO RECURSO CABÍVEL POR PREVISÃO LEGAL EXPRESSA. PRECLUSÃO DA CONTROVÉRSIA REFERENTE AO TEMA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação declaratória de inexistência de dívida c/c obrigação de fazer e indenização por danos materiais e morais, fundada no inadimplemento de pacto rescisório e na negativação indevida.
+2. Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC, o agravo interno, no próprio Tribunal de origem, é o único recurso cabível contra a decisão que nega seguimento a recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ em sede de recurso especial repetitivo (art. 1.030, I, "b"), não sendo admissível a interposição de agravo em recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo em recurso especial conhecido. Recurso especial não conhecido, com majoração de honorários.
