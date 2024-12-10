@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL. Princípio da insignificância. Reiteração delitiva. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial, mantendo a condenação do réu por furto tentado de um ar-condicionado, sem avaliação, e dois canos de cobre, estes avaliados em R$ 15,00.
+2. O Juiz de 1º grau absolveu o réu com base no princípio da insignificância, considerando o valor irrisório dos bens furtados. O Tribunal a quo reformou a decisão, afastando o princípio da insignificância devido à habitualidade criminosa do réu, que possui oito condenações por furto.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o princípio da insignificância é aplicável em casos de furto de bens de valor irrisório, quando o réu possui histórico de reiteração delitiva.
+III. Razões de decidir
+4. O princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas.
+5. Hipótese na qual o agravante subiu no telhado da residência da vítima, no período noturno, danificou o cabeamento e o aparelho de ar condicionado, assim como as telhas, tendo sido flagrado pelos policiais quando tentava praticar o furto. Ademais, ostenta 8 condenações com trânsito em julgado, 5 delas consideradas como maus antecedentes na dosimetria, não sendo recomendável, neste caso, a aplicação do princípio bagatelar.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. O princípio da insignificância não tem aplicabilidade em casos de reiteração delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas".
+Dispositivos relevantes citados: Não há dispositivos legais específicos citados.
+Jurisprudência relevante citada: STF, HC 84.412/SP, Rel. Min. Celso de Mello, Segunda Turma, DJ 19/11/2004; STJ, AgRg no HC 789.772/MS, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 27/03/2023; STJ, AgRg no REsp 2.014.614/MG, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 07/03/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANIEL ANTONIO AKCHUM DE OLIVEIRA contra decisão monocrática desta relatoria que conheceu do agravo para negar provimento ao recurso especial.
+A parte agravante aduz ser a hipótese de aplicação do princípio da insignificância, diante da tentativa de subtração de canos de cobre, avaliados em R$ 15,00, o que corresponde a menos de 2% (dois por cento) do salário mínimo vigente à época, que era de R$ 1.212,00.
+Ressalta que a majorante do repouso noturno e a reincidência não seriam empecilho para o reconhecimento do princípio bagatelar, devendo-se ponderar as circunstâncias objetivas do fato.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao crivo do órgão colegiado, a fim de que seja provido o recurso com a absolvição do agravante, por atipicidade material da conduta.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL. Princípio da insignificância. Reiteração delitiva. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial, mantendo a condenação do réu por furto tentado de um ar-condicionado, sem avaliação, e dois canos de cobre, estes avaliados em R$ 15,00.
+2. O Juiz de 1º grau absolveu o réu com base no princípio da insignificância, considerando o valor irrisório dos bens furtados. O Tribunal a quo reformou a decisão, afastando o princípio da insignificância devido à habitualidade criminosa do réu, que possui oito condenações por furto.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o princípio da insignificância é aplicável em casos de furto de bens de valor irrisório, quando o réu possui histórico de reiteração delitiva.
+III. Razões de decidir
+4. O princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas.
+5. Hipótese na qual o agravante subiu no telhado da residência da vítima, no período noturno, danificou o cabeamento e o aparelho de ar condicionado, assim como as telhas, tendo sido flagrado pelos policiais quando tentava praticar o furto. Ademais, ostenta 8 condenações com trânsito em julgado, 5 delas consideradas como maus antecedentes na dosimetria, não sendo recomendável, neste caso, a aplicação do princípio bagatelar.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. O princípio da insignificância não tem aplicabilidade em casos de reiteração delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas".
+Dispositivos relevantes citados: Não há dispositivos legais específicos citados.
+Jurisprudência relevante citada: STF, HC 84.412/SP, Rel. Min. Celso de Mello, Segunda Turma, DJ 19/11/2004; STJ, AgRg no HC 789.772/MS, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 27/03/2023; STJ, AgRg no REsp 2.014.614/MG, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 07/03/2023.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Conforme já consignado, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público". (STF, HC 84.412/SP, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, DJ 19/11/2004).
+Vale dizer, não basta à caracterização da tipicidade penal a adequação pura e simples do fato à norma abstrata, pois, além dessa correspondência formal, é necessário o exame materialmente valorativo das circunstâncias do caso concreto, a fim de se evidenciar a ocorrência de lesão grave e penalmente relevante ao bem em questão. Assim, além dos pressupostos objetivos, idealizados pelo Pretório Excelso, deve estar presente também o requisito subjetivo, indicativo de que o réu não poderá ser um criminoso habitual.
+No caso, o Juiz de 1º grau julgou improcedente a denúncia para absolver o réu, com amparo na seguinte fundamentação (e-STJ, fls. 167-171, com destaque):
+"Não obstante tenham sido devidamente comprovadas a materialidade, a autoria e a intenção, tenho que o fato é atípico, ante a aplicação do princípio da insignificância. Há de se ter em mente que nem toda afetação ao bem juridicamente tutelado representa a afetação mínima necessária para desencadear a aplicação da lei penal, razão pela qual entendo que o fato praticado pelo réu - furto tentado de um ar- condicionado (sem avaliação) e de dois canos de cobre, avaliados em R$ 15,00 quinze reais) -, é atípico. Nesse sentido, inclusive já se manifestaram o STJ e o STF, respectivamente:
+ ..
+Importante ressaltar que o caso em análise se amolda perfeitamente aos julgados ora colacionados. Ainda, sublinho que o réu é reincidente, contudo, essa circunstância é indiferente para a aferição da aplicação do princípio da bagatela, que prescinde da análise de circunstâncias de ordem subjetiva.
+Por outro lado, o Tribunal a quo deu provimento ao apelo ministerial, e afastou o princípio da insignificância, nos seguintes termos (e-STJ, fls. 320-321, grifou-se):
+"Seguindo esta linha de raciocínio, constata-se que a conduta delituosa praticada por DANIEL , apesar de ter atingido bem de valor irrisório  avaliado em R$15,00 (quinze reais) (mov. 1.6), perfazendo menos de 2% (dois por cento) do salário mínimo vigente à época dos fatos , é imbuída de maior carga de reprovabilidade, visto que o delito praticado não constituiu episódio isolado na sua vida.
+Isso porque, do exame à folha de antecedentes criminais (mov. 40.1), constata-se que o Sr. DANIEL apresenta habitualidade criminal ao ostentar oito condenações pelo crime de furto, todas com trânsito em julgado posterior ao presente caso (ações penais nº 0010708-03.2020.8.16.0030; 0014350-81.2020.8.16.0030; 0015154-49.2020.8.16.0030; 0000867-47.2021.8.16.0030; 0007843-70.2021.8.16.0030; 0016895-90.2021.8.16.0030; 0006284-44.2022.8.16.0030; 0018183-39.2022.8.16.0030), sendo cinco delas provenientes de delitos anteriores ao crime em análise (17/12/2021) e três por crimes cometidos após o caso em questão.
+Ora, o injusto sob enfoque, quando avaliado em conjunto com a vida pregressa do réu, mostra-se conduta deveras relevante, que deve ser sancionada pelo Direito Penal. Conforme consabido, de acordo com a jurisprudência do Superior Tribunal de Justiça e desta Corte Paranaense, a reiteração delitiva recomenda, de regra, o afastamento da aplicação do preceito da bagatela  .. ."
+A decisão encontra-se em consonância com a jurisprudência desta Quinta Turma, segundo a qual o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas.
+Consta dos autos que o recorrente subiu no telhado da residência da vítima, no período noturno, danificou o cabeamento e o aparelho de ar condicionado, assim como as telhas, tendo sido flagrado pelos policiais quando tentava praticar o furto. Ademais, o recorrente ostenta 8 (oito) condenações com trânsito em julgado, 5 (cinco) delas consideradas como maus antecedentes na dosimetria.
+Tais circunstâncias, decerto, obstam o imediato reconhecimento da atipicidade material, por não restarem demonstradas as exigidas: mínima ofensividade da conduta e ausência de periculosidade social da ação, bem como em razão da contumácia do recorrente na prática de delitos contra o patrimônio.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO. PLEITO DE INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO COMPROVAÇÃO DA INCIDÊNCIA DOS REQUISITOS PARA O RECONHECIMENTO DA ATIPICIDADE MATERIAL. MAUS ANTECEDENTES E REINCIDÊNCIA. CONTUMÁCIA DELITIVA. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sendo demonstrada a contumácia delitiva do Agente, o qual é portador de maus antecedentes e reincidente, já tendo sido condenado definitivamente pela prática dos crimes de furto qualificado, tráfico de drogas e apropriação indébita, não é possível o reconhecimento da atipicidade material da conduta. Precedentes.
+2. Agravo regimental desprovido."
+(AgRg no HC n. 789.772/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. PEDIDO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA ESPECÍFICA. REITERAÇÃO DELITIVA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Esta Corte tem entendimento pacificado no sentido de que não há que se falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+II - É assente o entendimento deste Superior Tribunal de Justiça no sentido de que a reincidência e os maus antecedentes, via de regra, afastam a incidência do princípio da bagatela.
+III - Na espécie, trata-se de situação que não atrai a incidência excepcional do princípio da insignificância, uma vez que, apesar do valor da res furtiva não superar o percentual de 10% (dez por cento) do salário mínimo vigente à época dos fatos - R$ 80,00 (oitenta reais - fl. 41), "o presente fato não se trata de fato isolado na vida pregressa do acusado, já tendo ele, inclusive, sido condenado por outros delitos patrimoniais, conforme se extrai da CAC acostada às fis. 42/45 dos autos, não sendo o caso, portanto, de aplicação do mencionado princípio" (fl. 134, grifei), consoante constou na r. sentença condenatória, bem como na Certidão de Antecedentes Criminais acostada aos autos (fls. 67-69), o que afasta o reduzido grau de reprovabilidade da conduta, não sendo possível do princípio da bagatela.
+Agravo regimental desprovido."
+(AgRg no REsp n. 2.014.614/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/3/2023, DJe de 14/3/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
