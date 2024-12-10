@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO da decisão em que o Ministro Napoleão Nunes Maia Filho conheceu do agravo para dar provimento ao recurso especial dos agravados, julgando improcedente o pedido condenatório (fls. 727/729).
+A parte agravante afirma ter sido realizada uma análise ampla do conjunto fático-probatório, revisando o quanto concebido pelo acórdão de origem, o que é vedado pela Súmula 7 do STJ.
+Aduz que o presente recurso especial não se enquadra nas hipóteses que autorizam o julgamento monocrático e que se ignorou a comprovação do desvio de finalidade e a falta de qualificação profissional da pessoa nomeada, elementos que, segundo a jurisprudência dos Tribunais Superiores, não excluem a incidência da Súmula Vinculante 13.
+Requer a reconsideração da decisão ou a apresentação do processo ao órgão colegiado competente.
+A parte agravada não apresentou impugnação (fls. 749/750).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo a novo exame do recurso.
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ELVIS CARLOS DE SOUSA e SUZETI MARIA SAO FELICE DE SOUSA se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 456):
+APELAÇÃO - AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - Nepotismo - Nomeação de cônjuge para o cargo de Secretário Municipal de Assistência e Desenvolvimento Social - Afronta ao artigo 37 da CF - Violação aos princípios da moralidade e da impessoalidade - Desnecessidade de enquadramento exato nos termos da Súmula Vinculante n.º 13 - Força normativa dos comandos constitucionais -Principio da Supremacia da Constituição - Flagrante desobediência aos preceitos constitucionais- Sentença que julgou parcialmente procedente a pretensão ministerial - Manutenção que se impõe - Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 538/543).
+Nas razões de seu recurso especial, a parte recorrente alega que a nomeação da sua esposa para o cargo de secretária municipal não foi dolosa e visou atender à necessidade administrativa, considerando o pequeno porte do Município e a qualificação da nomeada.
+Afirma terem sido desempenhadas as funções adequadamente, não havendo enriquecimento ilícito ou prejuízo aos cofres públicos.
+Aduz que as sanções aplicadas são desproporcionais à conduta a eles imputada, considerando a ausência de dolo e dano.
+A condenação contraria, ainda, a correta interpretação dos arts 37, inciso V, 76, 84 da Constituição Federal, e da SV 13 do STF, não se aplicando a vedação ao nepotismo a agentes políticos.
+Na origem, o Ministério Público do Estado de São Paulo ajuizou ação por improbidade administrativa contra o Município de Pontalinda e seu Prefeito, Elvis Carlos de Souza, e sua esposa, Suzeti Maria São Felice de Souza, diante da nomeação para o cargo de Secretária de Assistência e Desenvolvimento Social, violando os princípios administrativos e a Súmula Vinculante 13 do Supremo Tribunal Federal, que proíbe a nomeação de parentes para cargos públicos em comissão, configurando nepotismo, tendo em vista a ausência de habilitação técnica para o cargo.
+O juízo de primeiro grau julgou parcialmente procedentes os pedidos, anulando a Portaria 121 de 5/2/2013 e condenando os réus, à exceção do Município de Pontalinda, pela prática de ato de improbidade administrativa prevista no artigo 11, caput, da Lei 8.429/1992, aplicando-lhes as seguintes sanções: suspensão dos direitos políticos pelo período de três anos; multa civil equivalente a dez vezes o valor da sua última remuneração como Secretária Municipal; e proibição de contratar com o Poder Público pelo prazo de três anos.
+O Tribunal de Justiça de São Paulo negou provimento ao apelo, mantendo a sentença condenatória.
+Ainda em 2018, o Supremo Tribunal Federal afetou ao rito da repercussão geral a discussão acerca da possibilidade de nomeação de cônjuge, companheiro ou parente, em linha reta colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante, para o exercício de cargo político (Tema 1.000).
+É necessário, assim, para que se identifique como ímproba a conduta imputada aos réus, aguardar o julgamento do RE 1.133.118/SP
+Ante o exposto, reconsidero a decisão agravada e julgo prejudicado o recurso especial, determina ndo a devolução dos autos ao Tribunal de origem, com a devida baixa no Superior Tribunal de Justiça (STJ), para que, após o julgamento do Tema 1.000 pelo STF, a Corte de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimem-se.
+EMENTA
