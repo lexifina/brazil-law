@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Daniela Teixeira e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, ocasionalmente, o Sr. Ministro Messod Azulay Neto.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+Direito penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL . Dosimetria da pena. Tráfico de drogas. QUANTIDADE DA DROGA APREENDIDA. PRIMEIRA E TERCEIRA FASES DO CÁLCULO DA PENA. OUTRAS CIRCUNSTÂNCIAS CONSIDERADAS NA ÚLTIM FASE. AUSÊNCIA DE Bis in idem. Agravo regimental DESprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo a dosimetria da pena aplicada em condenação por tráfico de drogas.
+2. O agravante alega ocorrência de bis in idem na dosimetria da pena, argumentando que a quantidade de drogas foi utilizada tanto para a exasperação da pena-base quanto para a eleição da fração de 1/6 na aplicação da minorante do tráfico privilegiado.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve bis in idem na consideração da quantidade de drogas para a exasperação da pena-base e para a aplicação da fração mínima da causa de diminuição de pena do tráfico privilegiado.
+III. Razões de decidir
+4. A jurisprudência do STJ entende que não há bis in idem quando a quantidade e a natureza da droga são consideradas para a exasperação da pena-base e, na terceira fase, outras circunstâncias do crime são invocadas para refutar o tráfico privilegiado.
+5. No caso, além da quantidade de droga, foi considerado que o entorpecente estava acondicionado em compartimento preparado no veículo, denotando sofisticação e profissionalismo, o que justifica a fração mínima da causa de diminuição e não viola o princípio do non bis in idem.
+IV. Dispositivo e tese
+6. Agravo regimental des provido.
+Tese de julgamento: "Não há bis in idem na consideração da quantidade e natureza da droga para a exasperação da pena-base e para a aplicação da fração mínima da causa de diminuição do tráfico privilegiado quando outras circunstâncias do crime são invocadas nesta última etapa do cálculo da sanção".
+Dispositivos relevantes citados: Lei 11.343/2006, art. 33, §4º; art. 42.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.520.001/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 15.10.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por APARECIDO CAMILO MONTEIRO contra decisão monocrática de minha relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a parte agravante reitera que ocorreu bis in idem pois a quantidade de drogas foi utilizada como fundamento para a exasperação da pena-base e para a eleição da fração de 1/6 (um sexto) quanto à minorante do tráfico privilegiado.
+Requer a reconsideração da decisão agravada ou a submissão do recurso ao crivo do órgão colegiado, a fim de que seja provido.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL . Dosimetria da pena. Tráfico de drogas. QUANTIDADE DA DROGA APREENDIDA. PRIMEIRA E TERCEIRA FASES DO CÁLCULO DA PENA. OUTRAS CIRCUNSTÂNCIAS CONSIDERADAS NA ÚLTIM FASE. AUSÊNCIA DE Bis in idem. Agravo regimental DESprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo a dosimetria da pena aplicada em condenação por tráfico de drogas.
+2. O agravante alega ocorrência de bis in idem na dosimetria da pena, argumentando que a quantidade de drogas foi utilizada tanto para a exasperação da pena-base quanto para a eleição da fração de 1/6 na aplicação da minorante do tráfico privilegiado.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve bis in idem na consideração da quantidade de drogas para a exasperação da pena-base e para a aplicação da fração mínima da causa de diminuição de pena do tráfico privilegiado.
+III. Razões de decidir
+4. A jurisprudência do STJ entende que não há bis in idem quando a quantidade e a natureza da droga são consideradas para a exasperação da pena-base e, na terceira fase, outras circunstâncias do crime são invocadas para refutar o tráfico privilegiado.
+5. No caso, além da quantidade de droga, foi considerado que o entorpecente estava acondicionado em compartimento preparado no veículo, denotando sofisticação e profissionalismo, o que justifica a fração mínima da causa de diminuição e não viola o princípio do non bis in idem.
+IV. Dispositivo e tese
+6. Agravo regimental des provido.
+Tese de julgamento: "Não há bis in idem na consideração da quantidade e natureza da droga para a exasperação da pena-base e para a aplicação da fração mínima da causa de diminuição do tráfico privilegiado quando outras circunstâncias do crime são invocadas nesta última etapa do cálculo da sanção".
+Dispositivos relevantes citados: Lei 11.343/2006, art. 33, §4º; art. 42.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.520.001/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 15.10.2024.
+VOTO
+No que interessa à solução da controvérsia, tem-se que o Colegiado de origem declinou as seguintes razões (e-STJ, fls. 66-67; grifou-se):
+"O requerente pretende a revisão do acórdão para que seja realizada nova dosimetria da reprimenda, reconhecendo-se a causa de diminuição do art. 33, §4 da Lei 11.343/06 em patamar maior que o mínimo. Alega, em suma que o juiz incorreu em bis in idem ao valorar tanto na primeira, como na terceira fase da dosimetria, as mesmas circunstâncias (natureza e quantidade da droga). É sabido que, em sede de revisão criminal, não há espaço para reavaliação do conjunto probatório e para substituição do livre convencimento do juiz pelo entendimento do Tribunal. In casu, verifico que o magistrado, por ocasião da sentença exasperou a pena-base com os seguintes fundamentos:
+"De outro lado, a apreensão de 52,8 kg (cinquenta e dois quilos e oitocentos gramas) de maconha e 1,1 kg de (um quilo e cem gramas) de cocaína (na forma de base) representa quantidade significativa, a justificar a elevação da pena-base com base no artigo 42 da Lei n. 11.343/06. Assim, considerando a existência de circunstância judicial desfavorável, incide a majoração de 1/6 sobre o intervalo entre a pena mínima e máxima estipulada no dispositivo legal, assim, fixo a pena-base em 05 (cinco) anos e 09 (nove) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa."
+Depreende-se da fundamentação colacionada que a sentença de primeiro grau, exasperou a pena-base em razão da da quantidade da droga. De fato, merece valoração negativa a quantidade da substância apreendida, nos termos do art. 42 da Lei 11.343/06. O juiz sentenciante exasperou a pena-base, trazendo elementos de sua convicção para considerar a quantidade elevada de entorpecente como desfavorável. Destaque-se que o artigo 42 da Lei 11.343/2006 expressamente ressalta a prevalência da natureza e da quantidade do entorpecente em relação às demais circunstâncias judiciais. A grande quantidade de droga apreendida denota que o tráfico em questão tinha potencial para provocar consequências severas, na medida em que a droga poderia ser disponibilizada para um número grande de usuários, o que indica a necessidade de maior rigor na aplicação da pena. Por outro lado, a causa de diminuição de pena do art. 33, §4 da Lei 11.343/06 foi fixada no mínimo legal com base nos seguintes argumentos:
+"A quantidade de droga foi sopesada na primeira fase da aplicação da pena, situação que, em regra, obsta a utilização desse fato para fazer incidir o mínimo legal previsto no art. 33, 4º da Lei 11.343/11. No entanto, deve ser salientado que a quantidade transportada foge as raias da normalidade, inclusive, de regiões de fronteira, ademais, a droga estava acondicionada no interior de um compartimento preparado no veículo, denotando maior grau de sofisticação e profissionalismo, com a clara intenção de burlar a fiscalização, fatos que lastreiam um juízo desfavorável impondo que a redução seja realizada no mínimo legal, em 1/6 (um sexto), fixando a pena em 04 (quatro) anos e 08 (oito) meses e 470 (quatrocentos e setenta) dias-multa"
+Da leitura do excerto colacionado verifico que o juiz sentenciante, de fato, fez menção a quantidade da droga que, segundo ele, "foge as raias da normalidade". No entanto, expressamente, fez a ressalva de que a quantidade da droga fora utilizada na primeira fase da dosimetria. Neste contexto, ressaltou o juiz que outras circunstâncias - droga acondicionada em compartimento adrede preparado revelando sofisticação e profissionalismo - seriam suficientes para "um juízo desfavorável impondo que a redução seja realizada no mínimo legal". Assim, não se verifica o alegado bis in idem. A revisão criminal não se presta para reavaliar os critérios subjetivos utilizados pelo magistrado, ao fazer a dosagem da pena, dentro dos limites previstos em lei. O pedido de revisão criminal não admite ampla revisão da pena aplicada, que nesta sede processual só pode ser modificada em caso de erro técnico ou de injustiça manifesta, o que não se verifica. Nesse sentido, já decidiu a 1ª Seção desta Corte:  .. "
+De acordo com a jurisprudência desta Corte, " n ão há bis in idem na consideração da quantidade e natureza da droga apreendida para a exasperação da pena-base e para refutar o tráfico privilegiado se na terceira fase foram também invocadas outras circunstâncias do crime" (AgRg no AREsp n. 2.520.001/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2024, DJe de 18/10/2024).
+No caso, observa-se que a quantidade da droga não foi o único argumento utilizado para eleger a fração da causa de diminuição pelo tráfico privilegiado, porquanto as instâncias ordinárias ressaltaram que o entorpecente estava acondicionado no interior de um compartimento do veículo, preparado previamente para a realização do transporte da droga. Desse modo tendo sido invocadas outras circunstâncias, não há bis in idem.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
