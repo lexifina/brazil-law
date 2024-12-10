@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Agravo apresentado por NOTRE DAME INTERMEDICA SAUDE S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PLANO DE SAÚDE - OBRIGAÇÃO DE FAZER - PRETENSÃO DA AUTORA DE COMPELIR A OPERADORA AO CUSTEIO DE CIRURGIAS REPARADORAS APÓS IMPORTANTE PERDA DE PESO DECORRENTE DE CIRURGIA BARIÁTRICA - COM O JULGAMENTO DO TEMA 1069. O STJ REAFIRMOU A POSSIBILIDADE DE EXCLUSÃO DE COBERTURA DE PROCEDIMENTOS COM FINALIDADE PURAMENTE ESTÉTICA, OU SEJA, DE PREOCUPAÇÃO EXCLUSIVA DO PACIENTE COM O SEU EMBELEZAMENTO FÍSICO, CONSOANTE O ART. 17, PARÁGRAFO ÚNICO, II, DA RN N. 465/2021 DA ANS, SEM AFASTAR CONTUDO A OBRIGAÇÃO DE COBERTURA DE CIRURGIAS PLÁSTICAS REPARADORAS, COMPLEMENTARES AO TRATAMENTO DE OBESIDADE, DEVIDAMENTE INDICADAS PELO MÉDICO ASSISTENTE - VERIFICA-SE DA PRESCRIÇÃO DO MÉDICO ASSISTENTE QUE ALGUNS PROCEDIMENTOS PODEM TER NATUREZA MERAMENTE ESTÉTICA SEGUNDO OS PARÂMETROS DA SBCBM, O QUE ENSEJA A DILAÇÃO PROBATÓRIA COM A REALIZAÇÃO DE PERÍCIA MÉDICA - SENTENÇA ANULADA DE OFÍCIO (fl. 812).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 507 do CPC, no que concerne à configuração de preclusão quanto à produção de prova pericial, trazendo a seguinte argumentação:
+Conforme já alegado em sede de contestação e apelação, cabe à autora a comprovação dos fatos que alega, uma vez que não foi determinada a inversão do ônus da prova.
+A parte autora, quando instada a manifestar-se quanto às provas, não requereu produção de prova pericial. E, posteriormente, não poderia ser analisada tal matéria, uma vez que preclusa a produção da prova.
+
+Ora, se a lei prevê que preclusa a oportunidade, descabe à parte requerer ou manifestar-se sobre a matéria, não poderi a o MM Juízo reformar a decisão que apenas acolheu o pedido das partes pela ausência de prova pericial.
+Evidente que o MM Juízo admite ainda que o direito do autor não encontra-se devidamente comprovado em Juízo, pelo que seria necessária a produção de prova pericial. Contudo, preclusa a oportunidade, somente resta admitir a improcedência do pedido pela ausência da prova não requerida pela autora (fls. 822/823).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
