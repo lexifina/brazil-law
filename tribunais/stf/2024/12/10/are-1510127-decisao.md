@@ -1,0 +1,25 @@
+DESPACHO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado em face do acórdão assim ementado:
+
+    “APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - ISS SOBRE SERVIÇOS BANCÁRIO - NULIDADE DA CDA - INOCORRÊNCIA - OBSERVÂNCIA DE TODOS OS REQUISITOS LEGAIS - ISS SOBRE TARIFAS BANCÁRIAS - LISTA ANEXA À LEI COMPLEMENTAR 116/2003 - EMBORA TAXATIVA, POSSUI INTERPRETAÇÃO AMPLA E EXTENSIVA - SÚMULA 424, DO STJ - "OPERAÇOES DE CÂMBIO E COMÉRCIO EXTERIOR" - CONFIGURAÇÃO DE SERVIÇO BANCÁRIO - ISS DEVIDO - "CONTRATAÇÃO DE OPERAÇÕES ATIVAS (CREGE CHEQUE OURO EMPRESARIAL/ CREGE CHEQUE OURO PÚBLICO EM GERAL/ CREGE TÍTULOS DESCONTADOS/ CREGE OUTROS/ CREGE CHEQUE ESPECIAL CLASSIC/PÚBLICO)" - EXPRESSA PREVISÃO NO SUBITEM 15.8 DA LISTA ANEXA À LEI COMPLEMENTAR 116/2003 - ISS DEVIDO - "DEPÓSITOS (CONTAS NÃO MOVIMENTADAS/ LANÇAMENTO EM CONTA CORRENTE! CHEQUE CONSULTADO E CHEQUE VISADO)" - EXPRESSA PREVISÃO NOS SUBITENS 15.2, 15.7 E 15.15 DA LISTA ANEXA À LEI COMPLEMENTAR 116/2003 - ISS DEVIDO - ALEGAÇÃO DE ABUSIVIDADE NA APLICAÇÃO DA MULTA - INOCORRÊNCIA - MULTA PROPORCIONAL E RAZOÁVEL - RESPALDO EM LEI MUNICIPAL - MINORAÇÃO DOS HONORÁRIOS DEVIDA - FIXAÇÃO DA VERBA HONORÁRIA EM R$ 2.000,00 - RECURSO PARCIALMENTE PROVIDO.”
+
+    Na minuta, sustenta-se violação do art. 150, IV, da Constituição da República.
+
+    É o relatório.
+
+    Da leitura dos autos, verifica-se que a matéria versada no presente recurso foi submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 882.461-RG, assim ementado:
+
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ISSQN. INCIDÊNCIA. INDUSTRIALIZAÇÃO POR ENCOMENDA. SUBITEM 14.5 DA LISTA ANEXA À LEI COMPLEMENTAR Nº 116/2003. MULTA FISCAL MORATÓRIA. LIMITES. VEDAÇÃO AO EFEITO CONFISCATÓRIO. MATÉRIA CONSTITUCIONAL. QUESTÕES RELEVANTES DOS PONTOS DE VISTA ECONÔMICO E JURÍDICO. TRANSCENDÊNCIA DE INTERESSES. REPERCUSSÃO GERAL RECONHECIDA.” (RE 882461 RG, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 12.06.2015)
+
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC.
+
+    Devolvam-se os autos à Corte de origem.
+
+    Publique-se.
+
+    Brasília, 10 de dezembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
