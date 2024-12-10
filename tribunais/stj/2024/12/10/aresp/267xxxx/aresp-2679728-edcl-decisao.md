@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se embargos de declaração opostos por DOUGLAS ADRIAN DE ALMEIDA PORTELA FERREIRA COELHO e MARIANE MESQUITA SOUZA HARTUNG contra decisão unipessoal que deu parcial provimento ao recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. ATRASO NA ENTREGA DE IMÓVEL. MERO DESCUMPRIMENTO CONTRATUAL. DANO MORAL AFASTADO. SÚMULA 568/STJ. 1. Ação de rescisão contratual c/c indenização por danos materiais e morais. 2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. 3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. 4. A jurisprudência desta Corte Superior é no sentido de que "o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial". 5. Agravo conhecido. Recurso especial parcialmente conhecido e, na extensão, parcialmente provido. Honorários redistribuídos.
+Em suas razões recursais, a parte embargante alega omissão quanto a fatos específicos que justificaram o arbitramento do dano moral pelo Tribunal de origem. Afirma que realizaram grande esforço financeiro para aquisição do imóvel, em razão de sua localização em condomínio fechado, que era sonho dos embargantes, que restou frustrado pela parte embargada. Alega que não se trata de atraso na entrega do imóvel, mas, em verdade, que o imóvel não foi entregue pela embargada.
+Requer, assim, o acolhimento dos presentes embargos, com efeitos infringentes.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Não há que se falar em omissão quanto ao dano moral, pois, aplicando-se a jurisprudência consolidada desta Corte, no sentido de que o mero descumprimento contratual, no caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais, e considerando a fundamentação do acórdão, entedeu-se que o caso não apresenta particularidades capazes de justificar indenização por danos morais.
+Assim, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
