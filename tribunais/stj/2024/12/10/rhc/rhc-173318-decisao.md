@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por ANAELIO NANNINI JUNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o recorrente foi preso "pela prática, em tese, do crime tipificado no artigo 33, caput, por quatro vezes, c/c artigo 40, inciso V, ambos da Lei nº. 11.343/06, bem como artigo 180, caput, do Código Penal, e artigo 2º, §3º, na forma do artigo 1º, §1º, ambos da Lei nº 12.850/13, todos nos termos do artigo 69 do Código Penal" (e-STJ fl. 3233).
+Na ação originária, a defesa pugnou pelo reconhecimento de inúmeras nulidades processuais.
+No entanto, a Corte de origem denegou a ordem, nos termos da seguinte ementa (e-STJ fls. 3232):
+EMENTA: HABEAS CORPUS-ORGANIZAÇÃO CRIMINOSA -TRÁFICO DE DROGAS -RECEPTAÇÃO -PRISÃO PREVENTIVA -REVOGAÇÃO -PEDIDOS ABORDADOS EM WRITANTERIOR -REITERAÇÃO -PEDIDO CONHECIDO PARCIALMENTE -NULIDADES DO PROCESSO PRINCIPAL -PATENTE ILEGALIDADE NÃO DEMONSTRADA -EXAME APROFUNDADO DE PROVAS -INÉPCIA DA DENÚNCIA -NÃO OCORRÊNCIA -TRANCAMENTO DA AÇÃO PENAL -IMPOSSIBILIDADE -NÃO DEMONSTRADA NECESSIDADE DE PLANO. -Não se conhece de pedidos formulados em habeas corpus que sejam mera reiteração de requerimento anterior. -Não é possível o exame, em sede de habeas corpus, de nulidade não patente, quando a sua verificação demandar a análise de elementos de provas no feito principal, incompatível com celeridade do rito do writ.- A tese de ilicitude de provas é incompatível com o habeas corpus, já que importa em dilação probatória, devendo ser reservada ao processo crime, exceto em casos de flagrante violação a direito constitucional do suspeito, o que não restou demonstrado. -Em observância ao que dispõe o artigo 563 do CPP, deve a defesa demonstrar o prejuízo sofrido em decorrência dos atos atacados, não sendo possível, do contrário, o reconhecimento das nulidades alegadas.- Tendo a denúncia preenchido os requisitos constantes no artigo 41 do CPP, não há falar em sua inépcia.- O trancamento da ação penal é medida excepcional e requer comprovação, de plano, da atipicidade da conduta, causa extintiva de punibilidade ou ausência de indícios mínimos de autoria.
+Nas razões do presente recurso ordinário, a defesa reafirma as alegações originárias.
+A liminar foi indeferida (e-STJ fls. 3300/3302).
+As informações foram prestadas (e-STJ fls. 3308/3597).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ fls. 3604/3612).
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que houve a prolação de sentença condenatória pelo juízo de primeira instância.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título e novos fundamentos, não submetidos ao pronunciamento do Tribunal de origem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. DECISÃO DE PRONÚNCIA. SUPERVENIÊNCIA. PREJUDICIALIDADE DO MANDAMUS. RECURSO NÃO PROVIDO.
+1. Segundo reiterada jurisprudência de ambas as Turmas Criminais deste Tribunal Superior, a superveniência de sentença condenatória ou de decisão de pronúncia, por constituir novo título judicial a amparar o encarceramento provisório do acusado, é causa de prejudicialidade do mandamus impetrado contra anterior decreto de prisão preventiva.
+2. Correto o entendimento da Corte de origem, ao ter julgado prejudicado o habeas corpus lá impetrado em razão da superveniência de decisão de pronúncia, porquanto o referido remédio constitucional questionava anterior decreto de custódia preventiva.
+3. Uma vez que a prisão cautelar do ora agravante atualmente decorre da decisão de pronúncia - título judicial que ainda não foi analisado pela Corte estadual -, fica impossibilitado a este Superior Tribunal apreciar os fundamentos do novo decreto constritivo sem que haja prévia submissão dessa tese ao Tribunal de origem, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+4. Agravo regimental não provido. (AgRg no HC 333.297/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/02/2016, DJe 02/03/2016.)
+Assim, patente que o presente writ está prejudicado haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se
+ EMENTA
