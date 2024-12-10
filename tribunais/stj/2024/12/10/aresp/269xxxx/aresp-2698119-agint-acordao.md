@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CUMPRIMENO DE SENTENÇA. LIMINAR NÃO CUMPRIDA. ASTREINTES. CABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. VALOR DA MULTA. REVISÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A alteração da conclusão dos juízos de origem e o consequente acolhimento da tese recursal que pleiteia a redução do valor das astreintes demandariam o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Tal óbice, conforme assentado por esta Corte Superior, somente comporta temperamentos quando se trata de valor manifestamente irrisório ou exorbitante, o que não se verifica no particular.
+4. Agravo interno desprovido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por NOTRE DAME INTERMEDICA SAUDE S.A. contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: de obrigação de fazer, em fase de cumprimento de sentença, ajuizada por MAYELLEN FRANCA LEITE em face da agravante, visando a execução da multa diária imposta à operadora por descumprimento de liminar.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença da agravante.
+Acórdão: negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+EMENTA: CUMPRIMENTO PROVISÓRIO DE SENTENÇA - PLANO DE SAÚDE - TUTELA CAUTELAR EM CARÁTER ANTECEDENTE - DECISÃO QUE REJEITOU A IMPUGNAÇÃO APRESENTADA - A EXEQUENTE PUGNA PELA APLICAÇÃO DE MULTA DIÁRIA DE R$ 1.000,00 À EXECUTADA EM RAZÃO DO DESCUMPRIMENTO DO "DECISUM" QUE DETERMINARA AUTORIZASSE O PROCEDIMENTO CIRÚRGICO DE QUE NECESSITAVA - DESCUMPRIMENTO QUE PERDUROU CERCA DE 400 DIAS - "ASTREINTES" LIMITADAS COM ACERTO A R$ 30.000,00 - INTELIGÊNCIA DOS ARTS. 536, § 1º, E 537, § 1º, AMBOS DO CPC - RAZOABILIDADE E PROPORCIONALIDADE OBSERVADAS - PRECEDENTE - DECISÃO MANTIDA - RECURSO DESPROVIDO
+Recurso especial: alega violação dos arts. 537 do CPC e 884 do CC, bem como dissídio jurisprudencial. Sustenta a inexistência de descumprimento de determinação judicial, o que afastaria a incidência da multa por descumprimento. Insurge-se contra o valor da multa fixada, reputando-a como exorbitante e desproporcional.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial em virtude da incidência da Súmula 7/STJ tanto na insurgência relacionada à inexistência de descumprimento de medida liminar, quanto na relativa à exorbitância do valor da multa.
+Agravo interno: o agravante reitera a insurgência contra o valor da multa, reputando-a exorbitante e desproporcional e aduz que a pretensão recursal não demanda o reexame de provas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CUMPRIMENO DE SENTENÇA. LIMINAR NÃO CUMPRIDA. ASTREINTES. CABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. VALOR DA MULTA. REVISÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A alteração da conclusão dos juízos de origem e o consequente acolhimento da tese recursal que pleiteia a redução do valor das astreintes demandariam o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Tal óbice, conforme assentado por esta Corte Superior, somente comporta temperamentos quando se trata de valor manifestamente irrisório ou exorbitante, o que não se verifica no particular.
+4. Agravo interno desprovido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, tanto o efetivo descumprimento de determinação judicial quanto a razoabilidade e adequação do valor da multa aplicada foram fundamentadamente decididas no acórdão recorrido, como se vê do seguinte trecho:
+"A i. Magistrada observou que "o recebimento da ordem liminar se deu em 17/09/2022 e, segundo afirma a exequente, não houve o cumprimento da obrigação de fazer até esta oportunidade. A executada, contudo, refuta tal realidade. De fato, vê-se que pelas fls. 375 dos autos principais a executada recebeu a ordem liminar em 17/09/2022. A executada tergiversa e não demonstra o cumprimento do comando judicial ou óbice justificável para não cumpri-lo. Com efeito, diferentemente do que aduz a executada, não faltou cooperação da exequente, e sim da própria requerida. (..) Além de não comprovar, portanto, que há de fato impedimento para cumprir a integralidade da decisão no prazo concedido, busca contornar a decisão judicial com trâmites burocráticos para prestar os serviços a que faz jus a exequente e que são necessários para o restabelecimento de sua saúde. A conduta esperada, à luz da cooperação judicial e em respeito à coercitividade da ordem estatal, é que ao menos após o deferimento da medida de urgência, já confirmada na sentença proferida em primeiro grau, a executada revisse sua conduta e prestasse o atendimento adequado à exequente. Contudo, como se constata pelas declarações das partes, os óbices persistem. A autora continua recebendo tratamento paliativo, em regime de urgência/emergência. Assim, conclui-se que a requerida não cumpriu a ordem judicial devidamente e, portanto, cabível a execução da multa diária arbitrada em R$ 1.000,00. Entretanto, decorridos aproximadamente 400 dias desde a sua incidência, o montante executável, mostra-se exorbitante. Até porque, a exequente demorou meses para iniciar esse incidente, em afronta ao duty to mitigate the loss. Não obstante a liminar concedida em setembro de 2022, apenas em julho de 2023 este incidente foi instaurado. Logo, pelas razões expostas e para evitar enriquecimento indevido da exequente, por ora, limito o valor da execução da multa à quantia de R$ 30.000,00 (trinta mil reais). A executada é devedora, portanto, de R$ 30.000,00, os quais devem ser depositados em 15 dias" (verbis).
+(..)
+"Nesses termos, com vistas aos princípios da razoabilidade e proporcionalidade, bem como aos parâmetros existentes na jurisprudência, o MM. Juízo a quo houve-se com acerto ao limitar as astreintes a R$ 30.000,00, importância suficiente a estimular o cumprimento das determinações judiciais, evitando que a operadora de planos de saúde reitere o discutido procedimento. "(fls. 81/83, e-STJ).
+Diante do embasamento e fundamentação expressadas no acórdão recorrido, inverter a conclusão da Corte de origem a respeito da ocorrência do efetivo descumprimento de liminar, bem como da análise da razoabilidade e proporcionalidade do valor da multa aplicada demanda a revisão do conjunto fático probatório dos autos, medida incabível na estreita via do recurso especial, nos termos da Súmula 7/STJ.
+Não merece reparos, portanto, a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
