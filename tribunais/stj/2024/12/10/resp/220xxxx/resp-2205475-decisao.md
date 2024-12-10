@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por MARLENE TEIXEIRA RODRIGUES contra decisão que não admitiu o recurso especial fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual impugna acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fls. 307-308):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS. RESPONSABILIDADE SOLIDÁRIA E OBJETIVA. CDC. FRAUDE CONHECIDA COMO "GOLPE DO MOTOBOY". DANOS MATERIAIS. DEMONSTRAÇÃO. DANOS MORAIS. AUSÊNCIA. SENTENÇA PARCIALMENTE REFORMADA.
+1. Incumbe ao juiz determinar as provas necessárias ao julgamento do mérito, indeferindo as diligências inúteis ou protelatórias (arts. 370 e 371 do CPC/15). O julgamento antecipado da lide ou o indeferimento do pedido de produção de prova, quando os documentos carreados aos autos são suficientes para esclarecer a questão, não caracteriza cerceamento de defesa.
+2. Nos termos do art. 14 do Código de Defesa do Consumidor, "O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos".
+3. A despeito de a Autora ter reconhecido que, por ter sido vítima de um golpe, forneceu o cartão de crédito e a senha a terceiros, não se pode desconsiderar que as transações realizadas em nome da consumidora destoavam completamente do histórico de gastos dela, de modo que era possível à operadora do cartão de crédito perceber a ocorrência da fraude e adotar as medidas de segurança cabíveis para evitá-la.
+4. Considerando que cabe às operadoras de cartão de crédito zelar pelo sistema antifraude e que houve notória atipicidade dos gastos efetuados com o cartão da consumidora, constata-se a falha na prestação do serviço, bem como a relação de causalidade entre a conduta do Réu/Apelado e os prejuízos causados à cliente, o que atrai a responsabilidade objetiva e solidária pela reparação dos danos materiais.
+5. Uma vez que a situação delineada no feito não desborda de mero aborrecimento do cotidiano, não resta configurado o dano moral.
+6. Apelação conhecida e parcialmente provida. Preliminar rejeitada.
+Nas razões do especial, a agravante sustentou a violação ao art. 6º, inciso VIII, do CDC; 369 e 373, inciso I, ambos do CDC, considerando a nulidade pelo indeferimento das provas requeridas pela recorrente para comprovar os danos morais.
+Alegou que a afronta e a divergência de interpretação quanto ao art. 6º, incisos I e VI, do CDC, diante da caracterização dos danos morais.
+Contrarrazões apresentadas (e-STJ, fls. 539-553).
+Brevemente relatado, decido.
+Ao analisar o alegado cerceamento de defesa, o Tribunal local destacou que a parte recorrente não demonstrou a necessidade de dilação da fase de produção de provas, com os seguintes fundamentos (e-STJ, fls. 311-312; sem grifos no original):
+Pretende a Recorrente a cassação da sentença, pois entende que o julgamento antecipado do mérito sem que fosse oportunizado a ela meios de comprovar integralmente suas alegações lhe causou prejuízos. Acredita que a produção de prova é indispensável para elucidar os fatos que fundamentam sua defesa.
+Contudo, a alegada preliminar deve ser rejeitada.
+O julgamento antecipado da lide não pode ser considerado cerceamento de defesa quando se tratar de feito que verse sobre questão unicamente de direito ou, quando de direito e de fato, não estiver presente a necessidade de dilação probatória.
+Destacam-se alguns julgados desta eg. 8ª Turma que retratam a jurisprudência dominante sobre o tema:
+ ..
+Realmente, se o Magistrado entendeu desnecessária a produção de novas provas, bem fundamentando seu posicionamento, não há que falar na ocorrência de cerceamento de defesa.
+Cumpre ressaltar que o Juiz pode dispor sobre a conveniência ou não da produção de provas, visando à livre formação de seu convencimento.
+Desse modo, tendo o magistrado concluído que os autos estavam suficientemente instruídos, procedeu ao julgamento antecipado da lide, nos termos do art. 355, I, do Código de Processo Civil, sem que isso implicasse afronta aos princípios constitucionais do contraditório e da ampla defesa.
+Rejeito, portanto, a preliminar de cerceamento de defesa.
+Com efeito, a jurisprudência desta Corte é no sentido de que o julgador, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes.
+Nesse contexto, alterar a conclusão do acórdão do Tribunal a quo acerca da necessidade das provas pretendidas pela agravante demandaria reexame do acervo fático-probatório dos autos, pretensão incompatível com o rito do recurso especial, ante a incidência da Súmula n. 7 do STJ.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. JUIZ. DESTINATÁRIO FINAL DA PROVA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. ATENDIMENTO DE EMERGÊNCIA/URGÊNCIA. CARÊNCIA. RECUSA INJUSTIFICADA. INCIDÊNCIA DA SÚMULA N. 568 DO STJ. DANOS MORAIS. CARACTERIZAÇÃO. REVISÃO. VEDAÇÃO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O magistrado é o destinatário final das provas, a quem compete aferir a conveniência e necessidade da prova, de modo que a ele cabe indeferir as diligências que considerar inúteis ou protelatórias, nos termos do art. 370 do NCPC.
+2. O período de carência contratualmente estipulado pelo plano de saúde não prevalece diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e a razão de ser do negócio jurídico firmado, como é o caso dos autos.
+Precedentes.
+3. A inversão de entendimento quanto à configuração dos danos morais encontra vedação na Súmula n. 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.597.580/SP, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Quanto ao mérito, a agravante pretende o reconhecimento da caracterização dos danos morais em razão de falha na prestação de serviço bancário.
+Sobre o tema, fundamentou o Tribunal distrital (e-STJ, fls. 319-321; sem grifos no original):
+O pedido de condenação do Réu/Apelado ao pagamento de indenização por danos morais em razão dos prejuízos sofridos ou pela incidência da Teoria do Desvio Produtivo não procede.
+Em regra, o direito à compensação por danos morais resulta da comprovação da prática de um ato ilícito e da ocorrência de resultado danoso, além da existência de nexo causal entre eles. Ou seja, a comprovação do dano deve ser considerada como pressuposto do dever de indenizar.
+Apenas em situações excepcionais a doutrina e a jurisprudência pátrias admitem a presunção da ocorrência do dano moral, dispensando sua comprovação em juízo, pois resultaria da própria situação vexatória naturalmente provocada pela conduta ilícita praticada pelo ofensor - hipótese de dano moral "in re ipsa".
+Ademais, especificamente quanto á Teoria do Desvio Produtivo, registra-se que ela incide apenas quando o consumidor despende tempo desproporcional na busca pela solução do problema, ultrapassando o aceitável na vida cotidiana, de modo a justificar o arbitramento ou majoração da indenização por danos morais.
+Estabelecida essa premissa, uma vez que a questão em exame não se enquadra nas exceções em que o dano moral é presumido, afigura-se necessária a demonstração dos prejuízos de ordem moral suportados pela Autora em razão da conduta do Réu/Apelado.
+Com efeito, a aferição da ocorrência do dano moral deve analisar as consequências negativas perpetradas pelo Apelado, notadamente se passível de aumentar sobremaneira o sofrimento e a aflição psicológica da Apelante.
+No caso vertente, a Autora não logrou êxito em comprovar a ocorrência de situação que ultrapassou a esfera do mero aborrecimento da vida em sociedade, capaz de configurar o dano moral.
+De fato, inexiste demonstração nos autos de que o débito lançado em desfavor da Apelante tenha comprometido a subsistência dela e da família, ou que tenham causado a negativação indevida do nome da consumidora.
+Ademais, embora seja desagradável à correntista, atualmente, ter que ir à agência bancária solucionar problemas, não restou demostrados nos autos dispêndio de tempo desproporcional na busca pela solução do problema.
+Nesse contexto, embora se reconheça que houve falha na prestação do serviço pelo Réu/Apelado, haja vista que esse poderia ter identificado de pronto a fraude, não se pode desconsiderar que o "golpe do motoboy" sofrido pela Autora foi perpetrado por terceiros, que deram causa ao transtorno, de modo que eventual aflição psicológica ou desvio produtivo causados à consumidora não podem ser imputados exclusivamente ao Réu/Apelado.
+Portanto, não estando evidenciada circunstância apta a causar abalo à honra subjetiva ou objetiva da Autora/Apelante, deve ser mantida, nesse ponto, a r. sentença de improcedência.
+Na hipótese retratada nos autos, a Corte local destacou que não houve dano maior que repercutisse na honra objetiva e subjetiva da parte agravante, que ensejasse a reparação pecuniária. Nesse contexto, está expresso no acórdão recorrido que não houve cobrança indevida ou negativação do nome do consumidor em órgãos de proteção ao crédito, não se verificando o dispêndio de tempo desproporcional para a solução do caso.
+Diante dessa conclusão, mostra-se inviável, por meio do julgamento do recurso especial, que o Superior Tribunal de Justiça altere o posicionamento adotado pela instância ordinária, pois, para tanto, seria necessário o revolvimento dos fatos e das provas acostadas aos autos, o qual é vedado pela Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE, C/C INDENIZAÇÃO POR DANOS MORAIS. DESCONTOS EM CONTA BANCÁRIA REFERENTES A CONTRATOS DE EMPRÉSTIMOS NÃO CONTRATADOS. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Cinge-se a controvérsia acerca da ocorrência de dano moral a ser indenizado em razão de contratação, mediante fraude, de empréstimo bancário em nome da parte autora, ora recorrente.
+2. O acórdão recorrido está em harmonia com a jurisprudência desta E. Corte, segundo a qual a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes.
+3. Modificar as conclusões alcançadas pelo Tribunal de origem só seria viável mediante um novo exame do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, conforme o teor da Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 2.161.169/SP, Relator Ministro Humberto Martins, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMPRÉSTIMO FRAUDULENTO. DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. A AGRAVANTE TEVE O VALOR CREDITADO EM CONTA BANCÁRIA, TODAVIA, NÃO PROCEDEU À DEVOLUÇÃO AO AJUIZAR A AÇÃO. MERO ABORRECIMENTO. DANO MORAL. NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. "(..) a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12.12.2022, DJe de 14.12.2022), o que não ocorreu na espécie.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.117.699/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+Cumpre registrar que a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o proveito econômico obtido pelo réu.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO POR DANOS MATERIAIS E MORAIS. FRAUDE BANCÁRIA. INDEFERIMENTO DO PEDIDO DE PRODUÇÃO DE PROVAS DESNECESSÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CARACTERIZAÇÃO DOS DANOS MORAIS. MODIFICAÇÃO DAS PREMISSAS FÁTICAS. VEDAÇÃO. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
