@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por INSTITUTO NACIONAL DE PESQUISA E GESTÃO DE SAÚDE (INSAUDE) contra decisão que inadmitiu o recurso especial em razão da inviabilidade de análise de ofensa a dispositivo constitucional, de ausência de demonstração da alegada vulneração dos arts. 355, I, e 334, do Código de Processo Civil, da incidência da Súmula n. 7 do STJ e da não comprovação do dissídio.
+A agravante, reiterando as razões do recurso especial, defende a nulidade da sentença decorrente da não designação, injustificada, da audiência de conciliação requerida pelas partes, alegando a existência de dissídio pretoriano acerca dessa questão.
+Sustenta que a divergência jurisprudencial foi demonstrada, citada e cotejada com o caso concreto, afirmando que há julgados de outros tribunais que reconhecem a nulidade do processo pela supressão da audiência de conciliação requerida por uma das partes.
+Aduz que fora surpreendida com a sentença, proferida sem se oportunizar a produção de outras provas, que o prejuízo é claro e que os atos decisórios são nulos.
+Requer a concessão de efeito suspensivo e, no mérito, o provimento do agravo para permitir o conhecimento e provimento do recurso especial para reformar o acórdão combatido e anular a sentença.
+Impugnação da parte agravada às fls. 870-874
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na inviabilidade de análise de ofensa a dispositivo constitucional, na ausência de demonstração da alegada vulneração dos arts. 355, I, e 334 do Código de Processo Civil, na incidência da Súmula n. 7 do STJ e na não comprovação do dissídio.
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada de inviabilidade de análise de afronta a dispositivo constitucional e de incidência da Súmula n. 7 do STJ, limitando-se a reiterar as razões de mérito do recurso especial.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022.
+Assim, tendo em vista que a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar todos os fundamentos da decisão agravada e, considerando o julgamento dos EAREsp n. 746.775, em 19/9/2018, em que a Corte Especial do STJ assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
