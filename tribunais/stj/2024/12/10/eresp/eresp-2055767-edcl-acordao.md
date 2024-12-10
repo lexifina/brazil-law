@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 04/12/2024 a 10/12/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  RECURSO  ESPECIAL.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE  NÃO  VERIFICADAS.  INTUITO  INFRINGENTE.  DISPOSITIVO  CONSTITUCIONAL.  ANÁLISE.  INVIABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Não  cabe  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial  ou  em  posteriores  embargos  de  divergência,  o  exame  de  eventual  ofensa  a  dispositivo  da  Constituição  Federal,  ainda  que  para  o  fim  de  prequestionamento,  sob  pena  de  usurpação  da  competência  reservada  ao  Supremo  Tribunal  Federal.
+3.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  ASSOCIAÇÃO  BRASILEIRA  DE  EMPRESAS  PRESTADORAS  DE  SERVIÇOS  POSTAIS  DE  PERNAMBUCO  -  ABRAPOST-PE  e  OUTRAS  ao  acórdão  da  Corte  Especial  assim  ementado:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  HIPÓTESES  DE  CABIMENTO.  RECURSO  ESPECIAL.  REGRA  TÉCNICA  DE  ADMISSIBILIDADE.  DISCUSSÃO.  INADMISSIBILIDADE.
+1.  Nos  termos  do  art.  1.043  do  Código  de  Processo  Civil  e  do  art.  266  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  os  embargos  de  divergência  são  cabíveis  contra  acórdão  que,  em  recurso  especial,  divergir  do  julgamento  de  qualquer  outro  órgão  do  tribunal,  sendo  ambos  os  acórdãos,  embargado  ou  paradigma,  de  mérito  -  seja  de  natureza  processual  seja  material  -,  ou  quando,  embora  não  conhecendo  do  recurso,  tenham  apreciado  a  controvérsia.
+2.  O  inciso  II  do  art.  1.043  do  CPC  previa  a  possibilidade  de  interposição  de  embargos  de  divergência  em  se  tratando  de  acórdãos  relativos  a  juízo  de  admissibilidade,  mas  tal  hipótese  de  cabimento  foi  revogada  pela  Lei  nº  13.256/2016.
+3.  O  Superior  Tribunal  de  Justiça  já  firmou  entendimento  no  sentido  de  serem  incabíveis  embargos  de  divergência  com  o  intuito  de  reapreciar  a  efetiva  ocorrência  dos  óbices  de  admissibilidade  do  recurso  especial.
+4.  Agravo  interno  não  provido"  (e-STJ  fl.  1.951).
+Em  suas  razões,  as  embargantes  sustentam  ,  reafirmando  a  tese  trazida  nos  embargos  de  divergência,  omissão  no  acórdão,  pois  não  houve  manifestação  acerca  dos  fundamentos  relacionados  com  o  não  conhecimento  ou  o  não  provimento  do  recurso  especial  interposto  pela  ECT  ante  a  incidência  das  Súmulas  nºs  279,  282,  283  e  284/STF  e  nºs  5,  7  e  211/STJ.
+Aduzem,  ainda,  a  necessidade  de  prequestionamento  dos  arts.  5º,  XXXV,  XXXVI,  LIV  e  LXXVIII,  93,  IX  e  105,  III,  da  Constituição  Federal.
+Ao  final,  requerem  o  acolhimento  do  recurso.
+Impugnação  às e-STJ  fls.  2.003/2.023.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  RECURSO  ESPECIAL.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE  NÃO  VERIFICADAS.  INTUITO  INFRINGENTE.  DISPOSITIVO  CONSTITUCIONAL.  ANÁLISE.  INVIABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Não  cabe  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial  ou  em  posteriores  embargos  de  divergência,  o  exame  de  eventual  ofensa  a  dispositivo  da  Constituição  Federal,  ainda  que  para  o  fim  de  prequestionamento,  sob  pena  de  usurpação  da  competência  reservada  ao  Supremo  Tribunal  Federal.
+3.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição,  (b)  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  art.  489,  §  1º,  do  CPC,  que  configurariam  a  carência  de  fundamentação  válida,  e  (c)  corrigir  o  erro  material.
+No  caso,  o  voto  condutor  do  acórdão  embargado,  acolhido  por  unanimidade  pela  Corte  Especial,  foi  claro  ao  afirmar  a  inviabilidade  de  acolhimento  da  pretensão  contida  no s  embargos  de  divergência.
+Destacou-se  expressamente:
+(i)  nos  termos  do  art.  1.043  do  Código  de  Processo  Civil  e  do  art.  266  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  os  embargos  de  divergência  são  cabíveis  contra  acórdão  que,  em  recurso  especial,  divergir  do  julgamento  de  qualquer  outro  órgão  do  tribunal,  sendo  ambos  os  acórdãos,  embargado  ou  paradigma,  de  mérito  -  seja  de  natureza  processual ,  seja  material  -,  ou  quando,  embora  não  conhecendo  do  recurso,  tenham  apreciado  a  controvérsia;
+(ii)  o  Superior  Tribunal  de  Justiça,  nesse  contexto,  firmou  orientação  no  sentido  de  serem  incabíveis  embargos  de  divergência  com  o  intuito  de  reapreciar  a  efetiva  ocorrência  dos  óbices  de  admissibilidade  do  recurso  especial,  como  no  caso;
+(iii)  o  II  do  art.  1.043  do  Código  de  Processo  Civil  previa  a  possibilidade  de  interposição  de  embargos  de  divergência  em  se  tratando  de  acórdãos  relativos  a  juízo  de  admissibilidade,  mas  tal  hipótese  de  cabimento  foi  revogada  pela  Lei  nº  13.256/2016,  e
+(iv)  da  leitura  das  razões  do  recurso  apresentado,  depreende-se  que  a  parte  embargante  alega  apenas  a  inviabilidade  de  conhecimento  do  recurso  especial  ante  a  incidência  das  Súmulas  nºs  279,  282,  283  e  284/STF  e  nºs  5,  7  e  211/STJ,  não  apontando  a  existência  de  um  dissídio  jurisprudencial  propriamente  dito,  restringindo-se  a  buscar  apenas  a  reforma  do  acórdão  ora  embargado.
+ Registra-se,  em  atenção  à  pretensão  de  prequestionamento  de  dispositivos  da  Constituição  Federal,  que  não  cabe  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial  ou  em  posteriores  embargos  de  divergência,  o  exame  de  eventual  ofensa  a  tais  normas,  ainda  que  para  o  fim  de  prequestionamento,  sob  pena  de  usurpação  da  competência  reservada  ao  Supremo  Tribunal  Federal.
+A  propósito:
+"EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DIVERGÊNCIA  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  CONTRADIÇÃO.  AUSÊNCIA.  PREQUESTIONAMENTO  DE  DISPOSITIVOS  CONSTITUCIONAIS.  NÃO  CABIMENTO.
+1.  A  inexistência  de  omissão  ou  contradição  no  acórdão  embargado  conduz  à  rejeição  dos  embargos  de  declaração.
+2.  Segundo  precedente  da  Corte  Especial,  a  pretensão  de  mero  prequestionamento  de  dispositivos  constitucionais  para  a  viabilização  de  eventual  recurso  extraordinário  não  possibilita  a  oposição  de  embargos  declaratórios.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  nos  EAREsp  1.595.021/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  CORTE  ESPECIAL,  DJe  16/6/2023  -  grifou-se).
+Assim,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  sanar  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração  com  a  advertência  de  que,  havendo  reiteração  de  embargos  protelatórios,  a  multa  prevista  no  art.  1.026  do  Código  de  Processo  Civil  será  aplicada.
+É  o  voto.
