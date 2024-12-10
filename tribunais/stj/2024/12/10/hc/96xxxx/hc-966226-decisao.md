@@ -1,0 +1,26 @@
+DECISÃO
+O presente writ, impetrado em benefício de ALEXANDRE FRANCISCO DA SILVA - preso preventivamente pela prática, em tese, do crime de furto circunstanciado (Processo n. 5011585-16.2024.8.13.0056) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS (HC n. 1.0000.24.451932-8/000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta e mantida pelo Juízo da 3ª Vara Criminal e da Infância e da Juventude da comarca de Barbacena/MG (fls. 315/321 e 355/356), ao argumento de ausência de fundamentação idônea e dos requisitos necessários para a manutenção prisão preventiva, motivada na gravidade abstrata do delito e de forma genérica, bem como de desproporcionalidade da prisão em caso de eventual condenação.
+Ocorre que inexiste o alegado constrangimento.
+No caso, o Juízo singular converteu a prisão em flagrante em preventiva, sob os seguintes fundamentos (fls. 317/318 - grifo nosso):
+ ..
+Analisando atentamente o feito, tenho como necessário acolher o pedido de prisão preventiva, sendo inviável a concessão do benefício da liberdade provisória no presente caso, porquanto os acontecimentos exteriorizam a perpetração, em tese, de prática reiterada de crimes, haja vista os registros lançados na CAC e FAC do flagrado, sendo que ele já foi condenado por prática de outros crimes, incluindo crime contra o patrimônio como o versado nestes autos e, agora volta a delinquir, demonstrando assim que é pessoa avessa à ressocialização.
+A certidão cartória judicial acostada no ID n. 10322290976, demonstra que o custodiado ostenta duas condenações definitivas pela prática de outros crimes, o que evidencia sua reincidência específica.
+Desse modo, tendo em vista que o autuado demonstrou sua predisposição em cometer delitos da mesma natureza, o que enfatiza a reprovabilidade de seu comportamento, mostra-se temerária a aplicação do referido princípio nesta fase embrionária.
+Ademais, a soltura do autuado, que vem incindindo de forma reiterada no seu comportamento criminoso, pode estimular a prática de delitos contra o patrimônio e, consequentemente, gerar sensação de impunidade à coletividade.
+O Tribunal mineiro convalidou a segregação preventiva por entendê-la motivada, nestes termos (fl. 28 - grifo nosso):
+ ..
+De fato, o delito em tese praticado se revela de especial e concreta gravidade, considerando, especialmente, o reiterado contato do paciente com a criminalidade, tendo em vista sua reincidência específica, conforme consta em sua CAC fls. 94/99 - doc. único, o que demonstra sua real periculosidade e reforça a necessidade de sua segregação cautelar.
+Evidentemente compromete o meio social e autoriza a custódia cautelar do autuado, a fim de se evitar a repetição do ato nocivo censurável e, com isso, garantir a ordem pública.
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Observa-se da análise dos trechos transcritos que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao risco de reiteração delitiva, a justificar a necessidade de manutenção da medida extrema.
+A propósito, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019) - (AgRg no HC n. 813.512/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/6/2023).
+E, ao contrário do sustentado pelo impetrante, não há como concluir que, na sentença, será fixado regime inicial diverso do fechado. O tema será apreciado em momento processual oportuno e não impede a imposição da constrição cautelar.
+No entanto, não há falar em ofensa ao princípio da homogeneidade das medidas cautelares no particular, pois não cabe a esta Corte Superior, em um exercício de futurologia, prever de antemão qual seria o possível quantum de aplicação da pena em razão de a recorrente supostamente possuir condições pessoais favoráveis, o que implicaria análise do conjunto probatório, inviável nesta via estreita (RHC n. 58.640/MS, Ministro Felix Fischer, Quinta Turma, DJe 6/10/2015).
+Por fim, vale destacar que, concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas (AgRg no HC n. 573.598/SC, da minha relatoria, Sexta Turma, DJe 30/6/2020).
+É inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública, como na espécie.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DA CONDUTA. RISCO FUNDADO DE REITERAÇÃO DELITIVA. MOTIVAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PRECEDENTES.
+Inicial indeferida liminarmente.
