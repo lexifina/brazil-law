@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, com extensão ao corréu, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. CONDENAÇÃO DOS RÉUS POR TRANSPORTE DE DROGAS. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. FIXAÇÃO DA REDUTORA EM 1/6. APLICAÇÃO DO ARTIGO 580 DO CPP. REGIME SEMIABERTO PARA O PACIENTE. REGIME FECHADO PARA O CORRÉU. ORDEM PARCIALMENTE CONCEDIDA, DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de condenado por tráfico de drogas, requerendo a aplicação da causa de diminuição de pena do tráfico privilegiado (§ 4º do art. 33 da Lei n. 11.343/2006) no patamar máximo (2/3) e a fixação do regime inicial semiaberto, em razão das circunstâncias do caso e das condições pessoais do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se é cabível a aplicação da minorante do tráfico privilegiado em seu patamar máximo, considerando a quantidade de droga apreendida e as características pessoais do paciente; e (ii) qual o regime prisional adequado para o cumprimento da pena, em vista das circunstâncias judiciais e da pena fixada.
+III. RAZÕES DE DECIDIR
+3. A quantidade expressiva de entorpecentes transportada (18.471,8g de maconha e 876,6g de cocaína), a ausência de ocupação lícita e as circunstâncias do transporte indicam que o paciente não é um traficante eventual, justificando a aplicação da minorante no patamar mínimo (1/6), incidindo, diante das similitudes fática e processual, o art. 580 do CPP, por analogia.
+4. Quanto ao regime inicial de cumprimento da pena, o STJ tem admitido o regime semiaberto para condenações inferiores a 8 anos, desde que não haja circunstâncias judiciais desfavoráveis suficientes para justificar regime mais severo. Considerando que o paciente possui circunstâncias judiciais favoráveis, é cabível o regime semiaberto.
+5. Em relação ao corréu, a presença de circunstâncias judiciais desfavoráveis, como antecedentes e culpabilidade negativa, justifica a fixação do regime fechado, conforme entendimento consolidado nesta Corte Superior.
+IV. ORDEM NÃO CONHECIDA, MAS CONCEDIDA DE OFÍCIO PARA FIXAR A PENA FINAL DE ROBERT DE SOUZA SILVA EM 4 ANOS E 2 MESES DE RECLUSÃO E 416 DIAS-MULTA, NO REGIME INICIAL SEMIABERTO, E, POR EXTENSÃO (ART. 580 DO CPP), A PENA FINAL DE ANÍZIO GOMES DE MACEDO NETO EM 6 ANOS E 3 MESES DE RECLUSÃO E 583 DIAS-MULTA, NO REGIME INICIAL FECHADO.
+RELATÓRIO
+Trata-se de habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça de São Paulo.
+O paciente foi condenado a 5 anos de reclusão, no regime inicial fechado, e 500 dias-multa, nos termos do art. 33, caput, da Lei n. 11.343/2006.
+Requer o impetrante, em suma, a aplicação da minorante do tráfico privilegiado no patamar máximo (2/3) e a fixação do regime semiaberto.
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. CONDENAÇÃO DOS RÉUS POR TRANSPORTE DE DROGAS. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. FIXAÇÃO DA REDUTORA EM 1/6. APLICAÇÃO DO ARTIGO 580 DO CPP. REGIME SEMIABERTO PARA O PACIENTE. REGIME FECHADO PARA O CORRÉU. ORDEM PARCIALMENTE CONCEDIDA, DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de condenado por tráfico de drogas, requerendo a aplicação da causa de diminuição de pena do tráfico privilegiado (§ 4º do art. 33 da Lei n. 11.343/2006) no patamar máximo (2/3) e a fixação do regime inicial semiaberto, em razão das circunstâncias do caso e das condições pessoais do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se é cabível a aplicação da minorante do tráfico privilegiado em seu patamar máximo, considerando a quantidade de droga apreendida e as características pessoais do paciente; e (ii) qual o regime prisional adequado para o cumprimento da pena, em vista das circunstâncias judiciais e da pena fixada.
+III. RAZÕES DE DECIDIR
+3. A quantidade expressiva de entorpecentes transportada (18.471,8g de maconha e 876,6g de cocaína), a ausência de ocupação lícita e as circunstâncias do transporte indicam que o paciente não é um traficante eventual, justificando a aplicação da minorante no patamar mínimo (1/6), incidindo, diante das similitudes fática e processual, o art. 580 do CPP, por analogia.
+4. Quanto ao regime inicial de cumprimento da pena, o STJ tem admitido o regime semiaberto para condenações inferiores a 8 anos, desde que não haja circunstâncias judiciais desfavoráveis suficientes para justificar regime mais severo. Considerando que o paciente possui circunstâncias judiciais favoráveis, é cabível o regime semiaberto.
+5. Em relação ao corréu, a presença de circunstâncias judiciais desfavoráveis, como antecedentes e culpabilidade negativa, justifica a fixação do regime fechado, conforme entendimento consolidado nesta Corte Superior.
+IV. ORDEM NÃO CONHECIDA, MAS CONCEDIDA DE OFÍCIO PARA FIXAR A PENA FINAL DE ROBERT DE SOUZA SILVA EM 4 ANOS E 2 MESES DE RECLUSÃO E 416 DIAS-MULTA, NO REGIME INICIAL SEMIABERTO, E, POR EXTENSÃO (ART. 580 DO CPP), A PENA FINAL DE ANÍZIO GOMES DE MACEDO NETO EM 6 ANOS E 3 MESES DE RECLUSÃO E 583 DIAS-MULTA, NO REGIME INICIAL FECHADO.
+VOTO
+O acórdão assim se manifestou acerca da aplicação da causa de diminuição (e-STJ, fls. 39-40):
+ ..  Anoto, ainda, por oportuno, que agiu corretamente o nobre Magistrado de primeiro grau ao deixar de reduzir a pena dos acusados com base no § 4º, do artigo 33, da Lei nº 11.343/2006, haja vista que as circunstâncias do caso em comento constituem indícios sérios de envolvimento dos réus com a criminalidade, sabido que a referida causa de diminuição de pena tem por objetivo beneficiar somente o traficante eventual, de "primeira viagem", e não aqueles que estão efetivamente comprometidos com o tráfico de drogas, como, certamente, ocorre com os apelantes, surpreendidos transportando expressiva quantidade de entorpecentes nada menos do que 18471,8g de "maconha", acondicionados em 20 tijolos da droga, e 876,6g de "cocaína", em porção a granel, como se vê nas fotos de fls. 65/70 com destino à cidade litorânea às vésperas do período de férias escolares e, portanto, em alta temporada, decerto que a vasta quantidade de entorpecente apreendido atingiria um sem-número de usuários. Ademais, os acusados não demonstraram ocupação lícita à época dos fatos e admitiram inicialmente terem aceitado o transporte da droga por valor que seria dividido entre eles. Não bastasse, a grande quantidade da droga transportada demonstra a confiança do fornecedor nas pessoas dos réus, uma vez que se fossem iniciantes dificilmente lhes seria confiada quantidade tão grande de drogas para o transporte e posterior distribuição, o que, por certo, bem evidencia que ambos estavam inseridos em atividade criminosa e faziam do tráfico o seu meio de vida. ..
+A análise realizada pelo Tribunal de origem não está em linha com a jurisprudência desta Corte acerca da temática. Confira-se:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TRANSPORTE INTERESTADUAL DE ENTORPECENTES. MINORANTE DO TRÁFICO PRIVILEGIADO. IDÔNEA A APLICAÇÃO DO PATAMAR DE 1/6. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que concedeu de ofício em parte o habeas corpus para aplicar a causa de diminuição de pena do § 4º do art. 33 da Lei 11.343/06 (1/6) e redimensionar a pena da paciente, ora agravante, para 5 anos, 8 meses e 2 dias, no regime semiaberto, além do pagamento de 567 dias-multa no mínimo legal.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de aplicação do redutor de pena do art. 33, § 4º, da Lei 11.343/2006, no patamar máximo (2/3), considerando a quantidade de droga apreendida e a alegada dedicação da ré à atividade criminosa.
+III. Razões de decidir
+3. "Na linha da jurisprudência deste Tribunal Superior, "a condição de "mula" do tráfico, por si só, não comprova que o Acusado integra organização criminosa e, por via de consequência, não se presta a fundamentar a não aplicação da minorante do tráfico privilegiado, mas, tão-somente, justifica a aplicação da referida causa de diminuição em seu patamar mínimo, de 1/6 (um sexto)" (AgRg no HC n. 663.260/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/8/2021, DJe 25/8/2021, grifei)." (AgRg no HC n. 924.373/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+4. A decisão monocrática está em consonância com a jurisprudência de ambas as Turmas que compõem a 3ª Seção do STJ.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.821/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024.)
+No presente feito, tratando-se da figura de "mula do tráfico", a redutora deve ser aplicada no patamar de 1/6, conforme o precedente acima.
+Ademais, diante das similitudes fática e processual, aplico, por analogia, o art. 580 do CPP, e estendo a ordem aqui concedida ao corréu ANÍZIO GOMES DE MACEDO NETO.
+Passa-se, assim, ao redimensionamento das penas.
+Fixada a pena provisória de ROBERT, ora paciente, até a segunda etapa da dosimetria, em 5 anos de reclusão e 500 dias-multa (e-STJ, fls. 38-39), perfaz a sanção definitiva, com a incidência de 1/6 da minorante, em 4 anos e 2 meses de reclusão, e 416 dias-multa.
+Em relação ao corréu ANÍZIO, arbitrada a reprimenda provisória em 7 anos e 6 meses de reclusão, além de 700 dias-multa (e-STJ, fl. 39), totaliza sua pena final, com a aplicação da redutora em 1/6, 6 anos e 3 meses de reclusão, e 583 dias-multa.
+O regime prisional inicial para o ora paciente deverá ser o semiaberto, em razão das circunstâncias judiciais favoráveis, e o fechado para o corréu ANÍZIO, devido à presença de duas circunstâncias judiciais desfavoráveis na basilar, quais sejam, maus antecedentes e culpabilidade.
+"Embora a pena tenha sido estabelecida em patamar superior a 4 (quatro) anos e inferior a 8 (oito) anos, o regime inicial fechado é o adequado para o cumprimento da pena reclusiva, diante da existência de circunstâncias judiciais desfavoráveis (culpabilidade e antecedentes), que serviram de lastro para elevar a pena-base acima do mínimo legal." (AgRg no AREsp n. 2.209.206/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+Vedada a substituição das penas por expressa disposição legal, a teor do que dispõe o art. 44, I, do Código Penal.
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem de ofício para recalcular a pena final de ROBERT DE SOUZA SILVA ao total de 4 anos e 2 meses de reclusão, e 416 dias-multa, no regime semiaberto, e de ANÍZIO GOMES DE MACEDO NETO (art. 580 - CPP), ao montante de 6 anos e 3 meses de reclusão, e 583 dias-multa, mantendo-se, no mais, o acórdão condenatório.
+É o voto.
