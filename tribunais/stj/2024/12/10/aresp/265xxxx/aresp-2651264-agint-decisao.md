@@ -1,0 +1,71 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno de fls. 1500-1522 (e-STJ), reconsidero a decisão da Presidência deste STJ de fls. 1439-1440 (e-STJ) e passo a novo exame do agravo interposto por ELETROFRIOS LTDA, contra decisão interlocutória que negou seguimento ao seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/04/2024.
+Concluso ao Gabinete em: 07/08/2024.
+Ação: embargos à execução movido por ELETROFRIOS LTDA contra BANCO DO BRASIL S/A.
+Sentença: julgou improcedente os embargos.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS DO DEVEDOR. NULIDADE DASENTENÇA. NOVAÇÃO. APRESENTAÇÃO DOS CONTRATOS ANTERIORES. DISPENSABILIDADE. 1) A menção genérica de que a sentença seja nula não é capaz de retirar sua eficácia, notadamente quando o julgador enfrentou a questão apresentada fazendo alusão à prescrição, existência do título executivo, aplicação da Sumula nº 286 do STJ e não essencialidade dos contratos anteriores. 2) Consoante disciplina do art. 360, I, do Código Civil, há novação quando o devedor contrai como credor nova dívida para extinguir e substituir a anterior. 3) Não há dever de apresentação dos contratos anteriores à novação pela instituição credora quando a contratação data de período superior a cinco (5) anos, pois a novação constitui novo contrato com autonomia em relação às pactuações anteriores que a originaram. 4) Apelo não provido. (e-STJ fl. 829)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: aponta violação dos arts. 9º, 10, 141, 374, II e III, 382, §2º, 389, 487, 489, §1º, IV, 490, 492, 1.022, 1.103, §1º, do CPC; 1.194 do Código Civil; e Súmula 286/STJ, bem como dissídio jurisprudencial. Além de negativa jurisdicional, sustenta que não existem contratos anteriores que justifiquem a existência da dívida. Aduz inexistência de novação. Assevera que houve decisão surpresa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da existência da dívida, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC quando o Tribunal de origem decide de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Quanto à novação e a existência da dívida, o TJ/AP decidiu no seguinte sentido:
+Ao contrário do argumento do apelante, as partes celebraram contrato novando a dívida, conforme se extrai do termo firmado livremente pelos contratantes.
+ ..
+Consoante disciplina do art. 360, I, do Código Civil, há novação quando o devedor contrai com o credor nova dívida para extinguir e substituir a anterior. A nova dívida, portanto, desconsidera as anteriores firmando novo pacto com o devedor que se obrigou a cumprir essa nova pactuação.
+Em razão do princípio do pacta sunt servanda livremente manifestado pelas partes, há o dever de pagamento da obrigação constituída para substituir as anteriores. Desse modo, para fins de execução do contrato firmado, não há necessidade de se juntar os contratos anteriores que deixam deter validade e eficácia diante do novo ajuste firmado pelos interessados.
+ ..
+Desse modo, estando a ação de execução fundada em contrato válido e eficaz, não se acolhe o pedido de extinção da execução pela ausência de contratações anteriores. Aliás, deve ser evidenciado que a pretensão de exibição de tais documentos integrou o bojo da ação nº 0022184-30.2016.8.03.0001, havendo sido apreciada a mesma questão no processo nº 0043023-71.2019.8.03.0001.
+Analisando-se o conteúdo do processo cautelar para exibição de documentos, no qual ANA CAROLINA PESSOA DO REGO CARVALHO questionava a origem do débito executado no processo nº 0034078-95.2019.8.03.0001, consta da sentença que:
+" ..  O objetivo desta ação era a apresentação dos contratos de financiamento, empréstimos e renegociações (quitados e não quitados) firmados entre as partes - referentes aos últimos cinco anos.
+Devidamente intimado a parte requerida apresentou dentro do prazo assinalado os documentos requisitados.
+Não houve apresentação de contestação.  .. Diante do exposto, HOMOLOGO a produção de prova baseada na apresentação dos contratos de financiamentos, empréstimos e renegociações (quitados e não quitados) firmados entre as partes - referentes aos últimos cinco anos e resolvo o processo com julgamento de mérito, nos termos do art. 487, I, do CPC.
+Custas pela parte requerida.
+Condeno a parte requerida ao pagamento de honorários de advogado no valor de R$ 1.000,00 (mil reais), nos termos do § 8º do art. 85, do NCPC.
+Registro eletrônico.
+Intime-se.  .. ."
+A via adequada para a obtenção de documentos para se constituírem em provas a é a que fora eleita. A apelante dela se valeu e, ao que consta daqueles autos, foram apresentados os documentos pretendidos. Consta daquele feito a manifestação da autora (mov. 42) pedido de suspensão do processo pela "..necessidade de analisar detalhadamente os contratos contraídos com o réu..". Em seguida, o advogado da apelante pediu a homologação da prova (mov. 50).
+A sentença que homologou a produção de prova transitou em julgado em 17.11.2017 (mov. 58), pois dela não houve recurso das partes. Analisando os documentos daquele processo se verifica que constituíram toda a movimentação financeira da apelante no período desde31/12/2009. Sem apresentação de recursos a respeito da produção de prova relativa à exibição de documentos, entendo que sobre o tema se formou a coisa julgada material. Essas questões integraram o julgamento proferido nos autos do processo nº 0043023-71.2019.8.03.0001  ..
+No caso desta demanda em que se pediu a exibição dos contratos que serviram de base para a novação, o processo teve início em 19.09.2019. Segundo os movimentos 92 e 111 deste feito, juntou-se cópia dos contratos 385.105.869 de 15.01.2014, no valor de R$ 87.000,00 (oitenta e sete mil reais) e do contrato 385.105.352, de 04.04.2013, no valor de R$ 45.000,00 (quarenta e cinco mil reais), não sendo apresentados os de número 385.104.391 com valor de R$ 38.574,83 e o de número 14362 que apresentou saldo devedor R$ 0,00 (zero). Portanto, não interferindo na operação.
+Os bancos são obrigados a manter documentação disponível por até cinco (5) anos, consoante se extrai da Resolução do Banco Central nº 2.078/1994. A intimação para apresentar os contratos, a pedido do apelante, ocorreu em 09.03.2021 o que implica o dever de prestar a informação referente aos cinco (5) anos anteriores, ou seja, até 09.03.2016. Acontece que a operação de novação questionada data de 06.01.2015, portanto, não havia para o banco o dever de conservação desses documentos.
+Sem ser exigível o dever de apresentação dos documentos que, inevitavelmente, tiveram celebração anterior à data da novação e considerando o trânsito em julgado da ação cautelar de exibição de documentos concluo que não há dever de apresentação dos contratos anteriores à novação, tendo o novo contrato total autonomia em relação às pactuações anteriores que a originaram.
+ ..
+A falta da apresentação dos contratos anteriores não implica inexigibilidade do título executivo a ponto de retirar sua eficácia, notadamente se por outros meios legitimamente válidos o interessado lograr êxito em demonstrar a certeza, liquidez e exigibilidade da dívida. De outro modo, é possível haver demonstração de novação válida, em que uma dívida nova substitui integralmente uma antiga, inaugurando novo vínculo obrigacional de força executiva nas condições estipuladas.
+A oposição do apelante ao pretender sua exoneração da dívida executada, todavia, não guarda correspondência mínima nos elementos dos autos a ponto de que suas alegações mereçam acolhimento. No caso se observa a longa relação entre as partes, os inúmeros contratos existentes entre eles, a elevada movimentação financeira e a inexistência de elementos que permitam concluir, com segurança, que o título executivo seja inválido. Os argumentos apresentados no apelo não se constituem em motivos idôneos a afastar as presunções que goza o título executivo firmado e que instrui a ação de execução. (e-STJ fls. 834-840)
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+- Do reexame de fatos e provas
+O TJ/AP assim se manifestou a respeito da inexistência de decisão surpresa no caso concreto:
+Não há decisão surpresa, notadamente quando a questão abordada pelo embargante não constitui o único fundamento para rejeição da apelação. Ademais, inexiste valoração excessiva ao se reconhecer a pretensão do próprio embargante, que requisitou documentos judicialmente e obteve homologação da prova. Estes são fatos que independem de outra justificativa, pois inseridos no curso da respectiva demanda. (e-STJ fl. 937)
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 374, II e III, 382, §2º, 389, 487, 1.103, §1º, do CPC; e 1.194 do Código Civil, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, RECONSIDERO a decisão da Presidência de fls. 1439-1440 (e-STJ) para CONHECER do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. RECONSIDERAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A interposição de recurso especial não é cabível quando ocorre violação de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Reconsiderada a decisão de fls. 1439-1440.
+9. Agravo conhecido. Recurso especial não conhecido.
