@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interno interposto por BANESTES S.A. BANCO DO ESTADO DO ESPÍRITO SANTO contra decisão monocrática proferida pelo Ministro Herman Benjamin, por meio da qual não conheceu do agravo em recurso especial, por incidência do óbice da Súmula 284/STF (fls. 676-677 e 901-902).
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 608):
+AGRAVO INTERNO - APELAÇÃO CÍVEL - DECISÃO MONOCRÁTICA - INADMISSIBILIDADE - RETIFICAÇÃO DO VALOR DA CAUSA - AUSÊNCIA DE INTIMAÇÃO - ALEGAÇÃO DE NULIDADE - IMPROCEDENCIA.
+Rejeitados os embargos de declaração opostos (fls. 538-542).
+Interposto recurso especial, sobreveio o juízo de admissibilidade negativo na origem. Diante do não conhecimento do agravo em recurso especial, a parte recorrente interpôs o presente agravo interno.
+Alega o agravante a inaplicabilidade da Súmula n. 284/STF, "uma vez que a decisão impugnada viola diretamente dispositivos de lei federal, notadamente no que diz respeito ao contraditório, à ampla defesa e à vedação de decisões surpresas, nos termos dos artigos 9º e 10 do Código de Processo Civil" (fl. 682).
+Aduz que o "Tribunal de origem proferiu decisão que alterou o valor da causa sem a devida intimação da parte agravante, configurando cerceamento de defesa e afronta ao devido processo legal, conforme jurisprudência consolidada pelo Superior Tribunal de Justiça" (fl. 683).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Os agravados, instados a manifestarem-se, silenciaram (fls. 693-695).
+É, no essencial, o relatório.
+Assiste razão à agravante, pois ficou demonstrada a impugnação ao óbice da Súmula n. 284/STF, de modo que reconsidero a decisão às fls. 676-677.
+Passo à análise do recurso especial.
+A irresignação recursal não merece prosperar. Com efeito, da análise das razões do recurso especial, observa-se que a parte recorrente limita-se a suscitar cerceamento de defesa por ausência de intimação quanto à alteração do valor da causa e deixa de impugnar os fundamentos do acórdão recorrido acerca do uso indevido do recurso, bem como do reconhecimento de que a ausência de impugnação decorreu de sua própria inércia. Vejamos (fls. 516-517):
+Cinge-se a controvérsia em analisar requerimento de nulidade, em virtude de alegado cerceamento de defesa.
+Analisando-se os autos da apelação nº 1.0000.23.115760-3/001, mormente documentos de ordem 06 e 07, consubstanciados em cópias dos embargos de terceiros opostos por HENNY ARAMUNI GONÇALVES, JOAQUIM JOSE GONCALVES FILHO e RAUL BARBOSA BRANDAO FILHO, vê-se que a retificação do valor da causa, objeto da insurgência do agravante, foi realizada antes da citação do Banco no procedimento de embargos de terceiros.
+Destaca-se que referida retificação foi em atendimento a despacho do Juízo, que assim ordenou sob o fundamento de que o valor informado, primeiramente, na inicial, era muito abaixo do proveito econômico postulado, "diante do valor dos imóveis constantes das escrituras". (Doc. de ordem 06 fl.02 ap nº 1.0000.23.115760-3/001).
+Destarte, não há falar-se em necessidade de intimação do Banco embargado, ora agravante, e tampouco em configuração de vício de nulidade por cerceamento de defesa.
+Em verdade, o agravante está a utilizar do presente recurso de forma indevida, não para recorrer da decisão monocrática que inadmitiu a apelação, mas para tentar modificar o valor dos honorários advocatícios fixados na sentença proferida em sede dos embargos de terceiros nº 0044715-32.2017.8.13.0443. Referida sentença foi objeto da impugnação ao cumprimento de sentença, procedimento em sede do qual foi proferida decisão que originou a interposição da apelação nº 1.0000.23.115760- 3/001, sede da decisão monocrática agravada.
+Assim, reexaminando os autos e os argumentos apresentados pela parte agravante, a meu ver, não se mostram presentes novos fatos e fundamentos que me convençam a reconsiderar e/ou modificar a decisão agravada. (grifei)
+Ainda, em âmbito de embargos de declaração, assim se manifestou o Tribunal de origem (fls. 540-541):
+A inexistência de intimação da parte requerida, ora embargante, acerca da modificação do valor da causa, ocorrida ANTES da citação não viola os princípios do contraditório e da ampla defesa. A parte requerida, quando tomou ciência da demanda, poderia ter se insurgido quanto ao valor da causa, e assim não o fez. Destaca-se que não o fez, nem no prazo para apresentar defesa, nem em momento nenhum da demanda originária, vindo a fazê-lo apenas em sede de agravo interno, interposto contra decisão proferida em impugnação ao cumprimento de sentença, ajuizada pelos ora agravados, Henny Aramuni Gonçalves, Joaquim Jose Goncalves Filho e Raul Barbosa Brandão Filho.
+Transcrevo, a seguir, trecho do acórdão embargado;
+"Destarte, não há falar-se em necessidade de intimação do Banco embargado, ora agravante, e tampouco em configuração de vício de nulidade por cerceamento de defesa. Em verdade, o agravante está a utilizar do presente recurso de forma indevida, não para recorrer da decisão monocrática que inadmitiu a apelação, mas para tentar modificar o valor dos honorários advocatícios fixados na sentença proferida em sede dos embargos de terceiros nº 0044715- 32.2017.8.13.0443. Referida sentença foi objeto da impugnação ao cumprimento de sentença, procedimento em sede do qual foi proferida decisão que originou a interposição da apelação nº 1.0000.23.115760- 3/001, sede da decisão monocrática agravada."
+Em verdade, o embargante busca indevido reexame do julgado. (grifei).
+Nesse contexto, é imperiosa a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. NOVA ANÁLISE. SÚMULA N. 283 DO STF. USUCAPIÃO. BEM IMÓVEL. REQUISITOS NÃO COMPROVADOS. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes, por si sós, para a manutenção do julgado acarreta a incidência da Súmula n. 283 do STF.
+ ..
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.495.412/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024, grifo meu.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C. C. COBRANÇA DE ALUGUERES E ENCARGOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO EM RECURSO ESPECIAL. SÚMULA N.º 7 DO STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AUSÊNCIA DO DEVIDO PREQUESTIONAMENTO. SÚMULA N.º 282 DO STF. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só para a manutenção do decidido, acarreta a incidência, por analogia, da Súmula n.º 283 do STF.
+ ..
+5. Agravo interno não provido. (AgInt no AREsp n. 2.303.380/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024, grifo meu.)
+Ademais, alterar as conclusões do Tribunal de origem demandaria a reanálise dos fatos e provas constantes nos autos, o que é vedado a esta Corte, nos termos da Súmula 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. MANUTENÇÃO DO SEGURADO. COISA JULGADA. REVISÃO. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ. FUNDAMENTO INATACADO. SÚM 283 DO STF.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal aprecia a controvérsia de forma completa e devidamente fundamentada, não incorrendo em omissão, contradição ou obscuridade.
+3. Na espécie, entender de forma diversa do acórdão recorrido para reconhecer que o recorrente não detêm título executivo judicial apto ao cumprimento de sentença para fins de mantença no plano de saúde agravante demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+4. É firme a jurisprudência do STJ "no sentido de que a execução de título judicial deve ser realizada nos termos da condenação exposta na sentença exequenda, sendo defeso ao juízo da execução modificar o que foi decidido no título executivo, sob pena de violação da coisa julgada"(AgInt no AgInt no AREsp n. 983.778/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe de 1/6/2017.)
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.569.838/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+Ante o exposto, reconsidero a decisão de fls. 676-677 para conhecer do agravo e não conhecer do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. VALOR DA CAUSA. ALTERAÇÃO. USO INDEVIDO DO RECURSO DE APELAÇÃO E INÉRCIA DO RECORRENTE. FUNDAMENTOS INATACADOS. INCIDÊNCIA DA SÚMULA N. 283/STF. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
