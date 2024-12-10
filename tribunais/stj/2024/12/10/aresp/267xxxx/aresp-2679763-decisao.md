@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VANDERLEI BARBIAN contra decisão que inadmitiu o recurso especial em razão da ausência de negativa de prestação jurisdicional e da incidência das Súmulas n. 5 e 7 do STJ.
+No agravo em recurso especial, a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Apelação Cível n. 1.0000.21.214871-2/002 ) assim ementado (fl. 596):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO - AUSÊNCIA DE INFORMAÇÃO DAS CLÁUSULAS GERAIS - AFASTAMENTO - FURTO DE ACESSÓRIOS DE MAQUINÁRIO AGRÍCOLA - RISCO NÃO COBERTO. Restando evidenciado que foi fornecido ao segurado o contrato de seguro com as cláusulas gerais, das quais constavam expressamente os riscos não cobertos, não há que se falar em ofensa ao dever de informação. Existindo cláusula clara e de fácil compreensão que excluiu a cobertura securitária relativa a furto de acessórios/peças do bem segurado, não há que se falar em obrigação da seguradora no pagamento da indenização securitária.
+Os embargos de declaração opostos foram rejeitados (fls. 627-637).
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 1.022, I e II, do CPC, alegando a existência de omissão, contradição e obscuridade nos acórdãos recorridos, pois não foi enfrentada a tese de aplicação dos arts. 47 e 51, IV, do CDC ao caso;
+b) 11 e 489, II e § 1º, IV e VI, do CPC, aduzindo a falta de fundamentação no julgado quanto às arguições de nulidade das cláusulas restritivas de direito em face das disposições contidas nos arts. 47 e 51, IV, do CDC;
+c) 47 e 51, IV, do CDC, sustentando que a interpretação das cláusulas deve ser mais favorável ao consumidor e que há nulidade de cláusula contratual por abusividade.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 658-668).
+É o relatório. Decido.
+I - Violação dos arts. 1.022, I e II, 11 e 489, II e § 1º, IV e VI, do CPC
+Inicialmente, observa-se que a parte recorrente aponta a existência de omissão, contradição, obscuridade e ausência de fundamentação no julgado, mas de maneira genérica, sem especificar: a) o argumento capaz de infirmar o resultado do julgamento que deixou de ser enfrentado no acordão recorrido; b) como se deu a contradição ou obscuridade; e c) o precedente invocado em relação ao qual se deixou de demonstrar a distinção ou superação.
+Limitando-se a afirmar, genericamente, ausência de fundamentação quanto à aplicação dos arts. 47 e 51, IV, do CDC ao caso, não comprovou a alegada negativa de prestação jurisdicional, uma vez que não se desincumbiu de demonstrar, de maneira clara e compreensível, de que maneira a ausência de manifestação sobre a aplicação dos referidos dispositivos infirmaria o resultado do julgamento.
+A alegação genérica de violação de normas legais sem a efetiva demonstração da contrariedade a lei federal impede o conhecimento do recurso especial por deficiência de fundamentação.
+Incide, pois, na espécie a Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha de entendimento:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA Nº 284/STF. ARTIGO 373, I, DO CPC/2015. VIOLAÇÃO. SÚMULA Nº 7/STJ. HONORÁRIOS RECURSAIS. REQUISITOS. CUMPRIMENTO. EXIGIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do CPC/2015, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF, aplicada por analogia.
+3. A intervenção do Superior Tribunal de Justiça quanto à satisfação do ônus probatório e à valoração das provas encontra óbice na Súmula nº 7/STJ, o que impede a análise da violação do art. 373, I, do CPC/2015 no recurso especial.
+4. A majoração dos honorários recursais é devida no caso de cumprimento dos requisitos cumulativos para a sua cobrança.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.516.630/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/11/2019, DJe de 27/11/2019.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO SOB A DISCIPLINA DO CPC/73. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PENSÃO POR MORTE. ACÓRDÃO QUE APONTA A AUSÊNCIA DE DEMONSTRAÇÃO DA DEPENDÊNCIA ECONÔMICA DO EX-CÔNJUGE. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. Para fins de percepção de pensão por morte, a dependência econômica do ex-cônjuge, em relação ao suposto instituidor do benefício, deve ser demonstrada. Entretanto, na espécie, o Tribunal de origem consignou a ausência de comprovação de que o de cujus provia a subsistência da parte autora, tampouco de que havia a alegada convivência conjugal.
+3. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 745.172/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/4/2016, DJe de 13/4/2016.)
+De toda sorte, mesmo que fosse possível superar esse óbice, melhor sorte não assistira à recorrente.
+Trata-se, na origem, de ação de cobrança de seguro julgada improcedente. Inconformada, a parte autora apelou.
+O Tribunal de origem negou provimento ao recurso nestes termos (fls. 603-610):
+Pretende o Autor, ora Apelante, a reforma da decisão de primeiro grau para que seja a Seguradora/Ré, ora Apelada, condenada ao pagamento de indenização securitária, em razão de furto de acessórios/peças de maquinários segurados pelo Autor.
+Na espécie, observa-se que as partes celebraram, em 20/06/2018, dois contratos de seguro, envolvendo a garantia de equipamentos agrícolas, conforme dados das apólices colacionadas à ordem 05/06:
+ ..
+Denota-se, ainda, que, em 26/09/2018, foram subtraídos os equipamentos de GPS acoplados aos referidos maquinários, fato este demonstrado por meio do Boletim de Ocorrência de ordem 07:
+ ..
+Em razão do ocorrido, o Autor buscou indenização securitária, oportunidade em que teve seu pedido negado pela Seguradora/Ré, ao fundamento de que as referidas peças/acessórios não estavam cobertas pelo seguro.
+Afirma o Autor/Apelante, contudo, que, no momento da contratação, não lhe foi informado que os acessórios/peças dos maquinários estariam excluídos da garantia securitária, não lhe sendo sequer entregue as cláusulas gerais do contrato.
+Alega, ainda, que, além da violação ao direito do recorrido à prévia informação acerca das cláusulas contratuais restritivas de seu direito, é de se destacar que as cláusulas que excluem as coberturas dos GPS, que são partes integrantes dos bens segurados e sem os quais não funcionam, são abusivas por restringir direitos fundamentais inerentes à natureza do contrato, ameaçando o seu objeto e mostrando-se excessivamente onerosa, evidenciando que, nos termos do art. 51, XVI, II e III do CDC, merecendo ser reconhecidas como nulas de pleno direito".
+Primeiro, cumpre esclarecer que incumbe à Seguradora demonstrar que as condições gerais do contrato foram entregues ao segurado no momento da contratação e, ainda, que houve ciência das cláusulas limitativas do direito à indenização.
+E assim porque, nos termos da jurisprudência do Superior Tribunal de Justiça, "incumbe à estipulante a obrigação de prestar informações ao segurado (consumidor) sobre os termos, condições gerais e cláusulas limitativas de direito estabelecidos no contrato de seguro de vida em grupo, constituindo-se esse dever em pressuposto lógico da aceitação da proposta de adesão pelo interessado. Inteligência do artigo 3º, inciso III, da Resolução CNSP 107/2004". (AgInt no R Esp 1844362/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/10/2021, D Je 14/12/2021).
+No caso concreto, em que pese a alegação do Autor de que não lhe foi entregue a integralidade do contrato, com as cláusulas gerais e, ainda, que não lhe foi esclarecido quais riscos não estariam cobertos, tenho que as provas colacionadas aos autos apontam em sentido contrário.
+O próprio Autor colaciona aos autos cópia de parte das Apólices, das quais se verifica a existência de numeração das páginas nas notas de rodapé, não se mostrando crível que tenha recebido apenas parte dos documentos do contrato, sem qualquer irresignação.
+Esta questão não passou despercebida pelo Magistrado de origem, o qual consignou na sentença que:
+ ..
+Denota-se, ainda, que a parte Ré, quando da contestação, juntou a integralidade dos contratos, apresentando, ainda, uma carta - com numeração 01 no rodapé - da qual se extrai que todos os documentos, inclusive as cláusulas gerais, foram sim encaminhados ao Autor:
+ ..
+Percebe-se, ainda, que consta da referida carta o endereço de sítio eletrônico da seguradora, no qual o Autor, caso necessitasse de alguma informação, teria acesso integral às cláusulas contratuais, inclusive as cláusulas que excluíam a indenização.
+E a prova testemunhal colhida durante a instrução não afastou a demonstração de que o contrato de seguro, incluindo as cláusulas gerais, foi entregue ao Autor/Apelante, ressaltando que os documentos do contrato foram, conforme demonstrado neste voto, encaminhados a ele em momento diverso daquele em que a testemunha estava presente.
+Lado outro, as cláusulas contratuais não se mostram dúbias, verificando expressamente a exclusão de risco em relação a acessórios e peças dos bens segurados. Inexistindo, pois, ofensa ao CDC:
+ ..
+Neste caso, tenho que não restou demonstrada a ausência de informação das cláusulas que indicavam os ricos não cobertos, bem como eventual abusividade do contrato, devendo, assim, ser mantida a decisão de primeiro grau.
+Os embargos de declaração opostos foram assim rejeitados (fl. 636):
+ ..
+Ou seja, ao contrário do mencionado pela parte Embargante, havia cláusula expressa afastando a cobertura indenizatória para acessórios ou sobressalentes do bem segurado, não podendo, pois, reivindicar indenização destas peças.
+Da mesma forma, não está esta Turma Julgada obrigada a acompanhar jurisprudência não vinculante, apresentada por outra Câmara deste TJMG, mormente quando apresentados no acórdão os fatos e fundamentos que levaram ao entendimento ali esposado.
+Verifico que o que pretende o Embargante, em verdade, é valer- se desta via processual com evidente intenção de reexame de matéria já decidida, o que é vedado, por ser tal pretensão incompatível com a própria natureza jurídica dos embargos de declaração.
+Assim, em se tratando de rediscussão de matéria, já decidida no v. acórdão embargado, inapropriados se revelam os presentes embargos de declaração, diante não ocorrência de quaisquer das hipóteses legais previstas no artigo 1.022 do CPC.
+Afasta-se a alegada ofensa aos arts. 11, 489 e 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Nada obstante as alegações da parte recorrente, não há omissão, obscuridade ou contradição que caracterize vício no julgado, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, com enfrentamento e solução da questão debatida na lide.
+Ora, sendo os fundamentos apresentados suficientes, por si sós, para manter a sentença, seria desnecessário o Tribunal de origem examinar todos os argumentos levantados pela recorrente, os quais não seriam capazes de infirmar o julgado.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. VIOLAÇÃO AOS PRECEITOS DO DIREITO DE VIZINHANÇA. REVER A CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao percentual de reparação a ser custeado pelo ora recorrido. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+2. Rever a conclusão a que chegou o Tribunal de origem e entender, como quer a parte recorrente, que houve malferimento da legislação que regulamenta o despejo de águas em imóvel inferior, pois os danos em seu imóvel decorreram exclusivamente de conduta do ora recorrido, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+AGRAVO DESPROVIDO. (AgInt no AREsp n. 2.083.838/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. CASO FORTUITO E FORÇA MAIOR. NÃO CONFIGURAÇÃO. ATRASO EXPRESSIVO. DANOS MORAIS. REVISÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do Código de Processo Civil de 2015 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.954.373/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.)
+Vejam-se ainda estes precedentes: AgInt no REsp n. 1.942.363/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no AREsp n. 1.957.754/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022; AgInt no REsp n. 2.000.968/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.
+II - Violação dos arts. 47 e 51, IV, do CDC
+A Corte local, soberana na análise dos fatos e provas dos autos e na interpretação de cláusulas contratuais, concluiu que a sentença deveria ser mantida, pois não foi " demonstrada a ausência de informação das cláusulas que indicavam os ricos não cobertos, bem como eventual abusividade do contrato" (fl. 610).
+Desse modo, para rever as conclusões adotadas na origem e acatar a tese recursal de existência de cláusula abusivas, desfavoráveis ao consumidor, seria imprescindível a interpretação de cláusulas contratuais e o reexame fático-probatório dos autos, medidas vedadas em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+III - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
