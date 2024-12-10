@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Antonio Geraldo Pereira Ignácio contra acórdão proferido pela Quarta Turma desta Corte Superior, assim ementado (fl. 494):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Agravo interno desprovido.
+O recorrente sustenta que o agravo interno que deixa de impugnar fundamentos autônomos não comporta a aplicação da Súmula 182/STJ. Assim, alega que deve ser conhecido o recurso na parte que impugna os capítulos autônomos, conforme observado nos acórdãos paradigmas proferidos no EDcl no AgRg no Ag 890.243/RS e AgRg no REsp 1.382.619/PI, Terceira Turma; AgRg no AgRg e Ag 1.161.747/SP, Segunda Turma; EAREsp 746.775/PR e EREsp 1.424.404/SP, Corte Especial. Caso afastada a Súmula 182/STJ, requer a apreciação da questão de mérito, que trata da violação de normas sobre a desconsideração da personalidade jurídica.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Feito esse registro, constata-se que o recurso de divergência não deve ser admitido.
+Na espécie, não se verifica a existência da indispensável similitude fática e jurídica entre os acórdãos confrontados.
+Os acórdãos paradigmas compreenderam pela não aplicação da Súmula 182/STJ quando, em sede de agravo interno, o agravante opta pela impugnação parcial da decisão agravada, o que abre a via do recurso interno para o exame dos demais capítulos autônomos da decisão agravada que foram impugnados. Já o acórdão embargado não tratou dessa questão, apenas manteve a aplicação da Súmula 182/STJ que já havia sido aplicada pela decisão anterior de não conhecimento do agravo em recurso especial.
+É dizer, é nítida a distinção entre a aplicação da Súmula 182/STJ por decisão do relator que não conhece do agravo em recurso especial, por não haver impugnação específica a todos os fundamentos da decisão da Corte de origem que inadmitiu o apelo especial, do acórdão que, ao apreciar essa decisão do relator em sede de agravo interno, a mantém por entendê-la correta.
+Desse modo, evidencia-se que o acórdão impugnado nestes embargos de divergência está de acordo com a jurisprudência desta Corte Superior, o que também implica não admissão do recurso em razão da incidência da Súmula 168/STJ.
+Ante o exposto, indefiro liminarmente os embargos de divergência (art. 266- C do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRETENSÃO QUE BUSCA SUPERAR A INCIDÊNCIA DA SÚMULA 182/STJ ORIGINALMENTE APLICADA POR DECISÃO DO RELATOR E POSTERIORMENTE MANTIDA POR ACÓRDÃO DO ÓRGÃO JULGADOR. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 168/STJ. RECURSO INDEFERIDO LIMINARMENTE.
