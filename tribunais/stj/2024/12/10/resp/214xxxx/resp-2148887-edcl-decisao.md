@@ -1,0 +1,49 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por MULTIGIRO COMERCIO E DISTRIBUIÇÃO LTDA. contra decisão que conheceu do Recurso Especial da parte ora embargada e deu-lhe parcial provimento.
+Sustenta, em síntese, omissão sobre a aproveitamento de créditos de PIS e COFINS relativos ao ICMS/Antecipação.
+Requer o acolhimento dos embargos para sanar os vícios apontados.
+Sem impugnação (certidão de fl. 1.451e).
+Feito breve relato, decido.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. FAIXA DE DOMÍNIO DE RODOVIA SOB CONCESSÃO. COBRANÇA EM DESFAVOR DE CONCESSIONÁRIA DE SERVIÇO DE TELEFONIA. POSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A prescrição trazida pelo art. 489 do CPC/2015, na esteira interpretativa sufragada no Superior Tribunal de Justiça, significa que o julgador deve enfrentar apenas as questões capazes de infirmar a conclusão adotada na decisão recorrida, hipótese aqui não verificada (EDcl no MS n. 21315/DF, Primeira Seção, DJe 15/06/2016).
+3. A Primeira Seção desta Corte firmou o entendimento de que o poder concedente, com respaldo no art. 11 da Lei n. 8.987/1995 (Lei de Concessões e Permissões), pode autorizar a concessionária a efetuar cobrança pela utilização de faixas de domínio de rodovia, mesmo de outra concessionária de serviços públicos, desde que haja previsão no contrato de concessão da rodovia, como verificado na hipótese.
+4. A Primeira Turma desta Corte tem reconhecido o caráter manifestamente inadmissível ou improcedente do agravo interno, a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015 quando a decisão agravada está fundamentada em precedente julgado sob o regime da repercussão geral, sob o rito dos recursos repetitivos ou com base em jurisprudência pacífica de ambas as Turmas da 1ª Seção.
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1.079.824/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 07/03/2018)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. INEXISTENTE. ACÓRDÃO QUE ENFRENTOU TODAS AS QUESTÕES NECESSÁRIAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Conforme pacífico entendimento desta Corte, o órgão julgador não é obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A determinação contida no art. 489 do CPC/2015 "veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+II - A corte de origem analisando o contexto fático-probatório dos autos concluiu (fl. 270): "Neste caso, ainda que houvesse buracos no asfalto e ainda que a pista apresentasse irregularidades, é certo que o acidente que vitimou fatalmente  ..  somente ocorreu por culpa do motociclista que invadiu a contramão da via em alta velocidade".
+III - Para alterar tais conclusões seria necessário o reexame fático-probatório, vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual: " pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido
+(AgInt no AREsp 1.037.131/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017).
+Ao contrário do que alega a Embargante, a matéria sobre a qual se alega omissão foi efetivamente examinada, nos seguintes termos (fls. 1424/1425e):
+- Da inclusão do ICMS-antecipado na base dos créditos do PIS e da COFINS Esta Corte firmou tese, em julgamento de recurso repetitivo, Tema n. 1231/STJ, segundo a qual: "Os tributos recolhidos em substituição tributária não integram o conceito de custo de aquisição previsto no art. 13, do Decreto-Lei n. 1.598/77; Os valores pagos pelo contribuinte substituto a título de ICMS-ST não geram, no regime não cumulativo, créditos para fins de incidência das contribuições ao PIS/PASEP e COFINS devidas pelo contribuinte substituído". Nesse cenário, impõe-se o parcial provimento do recurso especial para, reformando o acórdão recorrido, declarar que o revendedor/substituído não tem direito de apurar créditos, no âmbito do regime não-cumulativo do PIS e COFINS, dos valores correspondentes a ICMS-Substituição e ICMS-Antecipação recolhidos pelo substituto.
+Vale acrescentar que o valor do ICMS, independentemente da forma de recolhimento e de integrar ou não o custo de aquisição da mercadoria, não gera direito a créditos de PIS e de COFINS por expressa vedação legal:
+Lei n. 10.833/2003
+Art. 3o Do valor apurado na forma do art. 2o a pessoa jurídica poderá descontar créditos calculados em relação a:
+ ..
+§ 2o Não dará direito a crédito o valor:
+III - do ICMS que tenha incidido sobre a operação de aquisição.
+Nesse cenário, impõe-se reconhecer que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios d o art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1.431.157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 1.041.181/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1.334.203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+Ressalto que, de acordo com a jurisprudência desta Corte, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, acórdão proferido pelo tribunal de origem em outro processo, o entendimento da parte, outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. NÃO CARACTERIZAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+(..)
+4. Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. No caso em exame, o dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede, não havendo contradição interna a ser sanada.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 308.455/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/09/2013, DJe 10/09/2013).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535, INCS. I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA.
+(..) 3. A contradição que autoriza os embargos de declaração é a interna do acórdão, e não aquela em que o fundamento do voto colidiria com a jurisprudência em caso análogo - error in judicando.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 438.306/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/04/2014, DJe 20/05/2014).
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou a sua revisão mediante embargos de declaração.
+Ante o exposto, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
+EMENTA
