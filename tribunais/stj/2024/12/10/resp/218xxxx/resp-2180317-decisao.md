@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual discute a concessão de mandado de segurança para "enquadrar como salário maternidade os valores pagos às empregadas gestantes afastadas por força da Lei n. 14.151/2021, durante todo o período de emergência de saúde pública".
+É o relatório. Decido.
+A Primeira Seção deste Tribunal Superior decidiu afetar à sistemática dos recursos repetitivos o REsp 2153347/PR e o REsp 2160674/RS para o fim de definir teses a respeito da "legitimidade passiva ad causam (se do INSS ou da Fazenda Nacional) nas ações em que empregadores pretendem reaver valores pagos a empregadas gestantes durante a pandemia de Covid-19"; e a respeito da possibilidade de "enquadrar como salário-maternidade a remuneração de empregadas gestantes que foram afastadas do trabalho presencial durante o período da pandemia de Covid-19, nos termos da Lei n. 14.151/2021, a fim de autorizar restituição ou compensação tributária desta verba com tributos devidos pelo empregador".
+Nesse contexto, o recurso especial deve retornar ao Tribunal Regional Federal para que, após a publicação do acórdão por este Tribunal Superior, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pela Primeira Seção; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Fica prejudicado recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. TEMA A SER DEFINIDO PELA PRIMEIRA SEÇÃO EM RECURSO REPETITIVO. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO PREJUDICADO.
