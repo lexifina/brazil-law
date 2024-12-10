@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. REINCIDÊNCIA. VALOR DO BEM FURTADO. INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Terceira Seção desta Corte, no julgamento do EREsp n.º 221.999/RS, de minha relatoria, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação que a medida é socialmente recomendável.
+2. A jurisprudência se firmou no sentido de ser incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos.
+3. Agravo regimental im provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FLAVIO DOMINGOS DE OLIVEIRA contra decisão na qual conheci do agravo para negar provimento ao recurso especial (e-STJ fls. 382/384).
+Alega a defesa ser cabível a incidência do princípio da insignificância, a despeito da reincidência e do valor do bem furtado ser superior a 10% do salário mínimo vigente à época dos fatos. Isso porque "A conduta em questão, ao não gerar consequências expressivas ao ofendido e não representar risco social, demonstra a sua insignificância penal" (e-STJ. 398).
+Pede, assim, a reconsideração da decisão agravada ou a apreciação do recurso pela Quinta Turma (e-STJ fls. 392/402).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. REINCIDÊNCIA. VALOR DO BEM FURTADO. INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Terceira Seção desta Corte, no julgamento do EREsp n.º 221.999/RS, de minha relatoria, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação que a medida é socialmente recomendável.
+2. A jurisprudência se firmou no sentido de ser incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos.
+3. Agravo regimental im provido.
+VOTO
+O agravo regimental não merece prosperar.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para reformar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.l
+Conforme consta da decisão agravada, a lei penal não deve ser invocada para atuar em hipóteses desprovidas de significação social, razão pela qual os princípios da insignificância e da intervenção mínima surgem, para atuar como instrumentos de interpretação restrita do tipo penal.
+Entretanto, a ideia não pode ser aceita sem restrições, sob pena de o Estado dar margem a situações de perigo, na medida em que qualquer cidadão poderia se valer de tal princípio para justificar a prática de pequenos ilícitos, incentivando, por certo, condutas que atentem contra a ordem social.
+Assim, o princípio da insignificância deve ser analisado em conexão, com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de "certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada" (HC n. 98.152/MG, Relator Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+Nessa linha, a Terceira Seção desta Corte, no julgamento do EREsp n.º 221.999/RS, de minha relatoria, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação que a medida é socialmente recomendável. Precedentes: AgRg no REsp n.º 1.739.282/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 14/8/2018, DJe 24/8/2018; AgRg no HC n.º 439.368/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 14/8/2018, DJe 22/8/2018; AgRg no AREsp n.º 1.260.173/DF, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 7/8/2018, DJe 15/8/2018; AgRg no HC n.º 429.890/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/4/2018, DJe 12/4/2018.
+Ainda, a jurisprudência se firmou no sentido de ser incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos. Precedentes: AgRg no AREsp n. 1.242.213/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 4/9/2018, DJe 12/9/2018; AgRg no AREsp n. 1.308.314/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 23/8/2018, DJe 4/9/2018; AgRg no AREsp n. 1.313.997/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 21/8/2018, DJe 30/8/2018; AgRg no REsp n. 1.744.802/MS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 2/8/2018, DJe 10/8/2018; HC n. 425.168/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 7/6/2018, DJe 15/6/2018; AgRg no REsp n. 1.734.968/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 22/5/2018, DJe 30/5/2018.
+No caso, o entendimento do Tribunal de origem deve ser mantido, tendo em vista se tratar de réu multirreincidente, além do fato de ter sido furtado um botijão de gás, cujo prejuízo à vítima foi de R$ 250,00 (acórdão, e-STJ fls. 261 e 265).
+Estando o acórdão recorrido em consonância com o entendimento desta Corte, mantém-se a incidência da Súmula 568 do STJ, segundo a qual: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante".
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
