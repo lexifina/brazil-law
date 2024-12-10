@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLECIO MOREIRA DA SILVA contra a decisão do Tribunal de Justiça de São Paulo que inadmitiu recurso especial apresentado na Apelação Criminal n. 0002296-22.2017.8.26.0544.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 731/742).
+É o relatório.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) a contrariedade à Constituição Federal deve ser objeto de recurso extraordinário; b) ausência de prequestionamento (Súmulas 282/STF e 356/STF); c) ausência das condições exigidas para o recurso com fundamento em dissídio jurisprudencial; e d) óbice da Súmula 7/STJ (fls. 511/513).
+Todavia, a parte agravante, nas razões do agravo em recurso especial (fls. 516/532), não impugnou, de maneira específica, a fundamentação atinente ao óbice previsto na Súmula n. 7/STJ, o que afasta a possibilidade de conhecimento do agravo.
+No caso, da análise das razões do agravo, observa-se que o agravante apenas rebateu: a) a ausência de prequestionamento; b) a contrariedade à Constituição Federal; e c) a existência de divergência jurisprudencial.
+E, sobre o óbice da Súmula 7/STJ, a parte apenas informa que o recurso especial interposto somente existe matéria de direito, não tendo o escopo de provar fatos ou circunstancias, mas sim de que seja praticada a correta aplicação da lei ao presente caso (fl. 518), sem indicar o quadro fático reconhecido pelo Tribunal de origem, nem a roupagem jurídica que entende ser cabível à hipótese.
+A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que, para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.024.908/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023).
+No mesmo sentido: AgRg no AREsp n. 2.295.325/SP, Ministra Laurita Vaz, Sexta Turma, DJe 9/5/2023.
+Na espécie, na argumentação constante d o agravo em recurso especial, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório. Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC, c/c o art. 3º do CPP).
+Nesse sentido: AgRg no AREsp n. 2.364.704/PR, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023; e AgRg no AREsp n. 2.198.230/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 25/8/2023.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.068.764/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 12/9/2022.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. RECURSO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
