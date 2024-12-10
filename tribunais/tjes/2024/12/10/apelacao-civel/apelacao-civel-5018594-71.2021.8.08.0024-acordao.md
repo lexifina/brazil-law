@@ -1,0 +1,186 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5018594-71.2021.8.08.0024
+
+APELAÇÃO CÍVEL (198)
+
+APELANTE: THAIS YUMI BABA
+
+APELADO: GOL LINHAS AEREAS S.A.
+
+RELATOR(A):
+FERNANDO ESTEVAM BRAVIN RUY
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Ementa
+: DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. TRANSPORTE AÉREO. CANCELAMENTO DE VOO. ATRASO NA CHEGADA AO DESTINO. ALEGAÇÃO DE FALHA NA PRESTAÇÃO DE ASSISTÊNCIA MATERIAL. DANO MORAL. NÃO CONFIGURAÇÃO. RECURSO DESPROVIDO.
+
+I. CASO EM EXAME
+
+1.
+Apelação cível interposta contra sentença que julgou improcedente ação de indenização por danos morais ajuizada contra a Gol Linhas Aéreas S.A. O pedido inicial sustentava que a companhia aérea teria falhado na prestação de assistência após o cancelamento de voo, o que resultou em atraso de oito horas na chegada ao destino. A apelante alega que o cancelamento se deu por necessidade de readequação da malha aérea, não tendo sido comprovadas as alegadas más condições climáticas, e sustenta que, mesmo que houvesse problemas climáticos, esses constituem fortuito interno, inerente ao risco da atividade.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2.
+Há duas questões em discussão: (i) verificar se houve falha na prestação de assistência material pela companhia aérea em decorrência do cancelamento de voo e (ii) determinar se o atraso de oito horas e os transtornos resultantes configuram dano moral indenizável.
+
+III. RAZÕES DE DECIDIR
+
+3.
+A companhia aérea comprova, por meio de relatório meteorológico da Rede de Meteorologia do Comando da Aeronáutica (REDEMET), que o cancelamento ocorreu devido a más condições climáticas, caracterizando evento imprevisível e inevitável que rompe o nexo de causalidade e afasta o dever de indenizar.
+
+4.
+A companhia aérea demonstrou que, após o cancelamento do voo, ofereceu reacomodação na primeira oportunidade disponível, em conformidade com o artigo 21 da Resolução nº 400/2016 da ANAC, bem como forneceu assistência material com alimentação, conforme indicado pela própria apelante na petição inicial.
+
+5.
+A ausência de aviso prévio sobre o cancelamento foi justificada, uma vez que a decisão de retorno a Guarulhos/SP ocorreu apenas após a tentativa frustrada de pouso em Vitória/ES, sendo o aviso comunicado em tempo compatível com o desenrolar dos eventos.
+
+6.
+A simples necessidade de arcar com despesas de alimentação em restaurante diverso daquele oferecido pela companhia, por opção da apelante, não configura situação excepcional apta a justificar a reparação por dano moral.
+
+7.
+A jurisprudência pátria é firme no sentido de que atrasos e cancelamentos de voo, quando devidamente amparados por assistência material e ocorridos por motivo alheio à vontade do transportador, como más condições climáticas, configuram mero aborrecimento, não ensejando, por si só, reparação por dano moral.
+
+IV. DISPOSITIVO E TESE
+
+8.
+Recurso desprovido.
+
+Tese de julgamento
+:
+
+1. O cancelamento de voo motivado por más condições climáticas constitui fortuito externo, rompendo o nexo de causalidade e afastando o dever de indenizar a título de dano moral, sobretudo quando a companhia aérea oferece a assistência material prevista na legislação.
+
+Dispositivos relevantes citados
+: Resolução ANAC nº 400/2016, arts. 12, 21, 27 e 28; CPC, art. 85, §11.
+
+Jurisprudência relevante citada
+: TJSP, AC 1072237-77.2021.8.26.0002, Rel. Des. Ernani Desco Filho, julgado em 25.03.2024; TJMS, AC 0812019-89.2023.8.12.0001, Rel. Des. Sideni Soncini Pimentel, julgado em 12.03.2024; TJSP, AC 1007540-35.2022.8.26.0609, Relª Desª Ana de Lourdes Coutinho Silva da Fonseca, julgado em 22.02.2024.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: VISTOS, relatados e discutidos estes autos, ACORDAM os Desembargadores que integram a colenda Terceira Câmara Cível do egrégio Tribunal de Justiça do Estado do Espírito Santo, na conformidade da ata e das notas taquigráficas da sessão, que integram este julgado, à unanimidade, CONHECER do recurso de apelação e, no mérito, NEGAR-LHE PROVIMENTO para manter incólume a r. sentença, nos termos do voto do eminente Desembargador relator.
+
+Órgão julgador vencedor
+: 013 - Gabinete Des. FERNANDO ESTEVAM BRAVIN RUY
+
+Composição de julgamento: 013 - Gabinete Des. FERNANDO ESTEVAM BRAVIN RUY - FERNANDO ESTEVAM BRAVIN RUY - Relator / 025 - Gabinete Des. SÉRGIO RICARDO DE SOUZA - SERGIO RICARDO DE SOUZA - Vogal / 005 - Gabinete Des. CARLOS SIMÕES FONSECA - CARLOS SIMOES FONSECA - Vogal
+VOTOS VOGAIS
+025 - Gabinete Des. SÉRGIO RICARDO DE SOUZA - SERGIO RICARDO DE SOUZA (Vogal)
+Proferir voto escrito para acompanhar
+005 - Gabinete Des. CARLOS SIMÕES FONSECA - CARLOS SIMOES FONSECA (Vogal)
+Proferir voto escrito para acompanhar
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+VOTO
+
+Conforme brevemente relatado, cuidam os autos de recurso de apelação cível interposto por
+THAIS YUMI BABA
+em face da r. sentença do evento 9505868, proferida pela douta magistrada da 9ª Vara Cível de Vitória – Comarca da Capital que, nos autos da ação indenizatória ajuizada em face de
+GOL LINHAS AEREAS S.A.
+, julgou improcedente o pedido inicial.
+
+Em suas razões recursais, acostadas no evento 9505870, a apelante
+
+alega, em síntese, que: I) “
+cabia à apelada apresentar noticiários, informações de órgãos reguladores, etc., para comprovar a suposta má condição climática, mas assim não fez, de modo que deve ser rechaçada a tese de má condição climática no voo em questão
+” (fl. 04); II) “
+em nenhum momento houve informação de alteração de voo em razão de má condição climática, eis que o cancelamento se deu pela necessidade de readequação da malha aérea
+” (fl. 04); III) “
+ainda que eventual má condição climática fosse comprovada não seria o caso de afastar a responsabilidade da apelada, pois, condição climática É POSSÍVEL PREVER, ou seja, trata-se de fortuito interno, risco inerente à própria atividade
+” (fl. 04); IV) “
+Soma-se a isso o fato de que a cia aérea NÃO PRESTOU AVISO PRÉVIO em relação ao cancelamento do voo (artigo 12 da Res. 400 da ANAC). Também NÃO FORNECEU AUXÍLIO, como facilidades de comunicação e alimentação (artigo 27, I e II da Res. 400 da ANAC). E, ainda, NÃO REALIZOU REACOMODAÇÃO IMEDIATA, eis que não foi feita em voo próprio ou de terceiro para o mesmo destino na primeira oportunidade, mas somente 8 horas depois (artigo 28, I e II da Res. 400 da ANAC)
+” (fl. 06); V) “
+o dano moral não deve ser analisado apenas sob a ótica do atraso para chegada ao destino, que por si só é suficiente para comprovar o dano, mas também pelos inúmeros transtornos sofridos por conta das consecutivas falhas da cia aérea na prestação dos serviços
+” (fl. 07).
+
+No caso dos autos, a apelante comprova a aquisição, junto à companhia requerida, de passagem aérea partindo de Curitiba/PR às 6h15 e destino à Vitória/ES às 10h15, com conexão em Guarulhos/SP, para a data de 23.08.2021 (evento 9505180). A partida de Guarulhos/SP para Vitória/ES estava marcada para as 8h50.
+
+Contudo, seu voo com partida de Guarulhos/SP foi cancelado (evento 9505181), resultando em um atraso de oito horas para a chegada a Vitória/ES, cujo desembarque foi efetuado às 18h38 daquele dia (evento 9505183).
+
+De acordo com a própria exordial, o cancelamento do voo se deu após a aeronave, que voaria o trecho GRU x VIX, ter sido impedida de pousar no local de destino em decorrência de más condições climáticas, tendo que retornar ao aeroporto de Guarulhos “
+mesmo havendo pouso de outras aeronaves
+”.
+
+Nota-se, apesar de o e-mail acostado à exordial (evento 9505181) ter informado que o voo foi cancelado devido aos ajustes na malha aérea, a peça de ingresso revela que a autora teve ciência de que o real motivo para o cancelamento do voo foram as condições climáticas.
+
+E mais, a narrativa evidencia que o voo foi cancelado após a aeronave ter sido impedida de pousar no aeroporto de Vitória/ES, ou seja, quando já estava chegando ao destino final, o que justifica que o aviso de cancelamento tenha se dado apenas às 11h11 da manhã daquele dia, pois é um horário condizente com a frustrada tentativa de pouso e retorno a Guarulhos/SP.
+
+Ainda que assim não fosse, em sua contestação, a companhia aérea demonstrou, por meio de documento extraído da Rede de Meteorologia do Comando da Aeronáutica – REDEMET (fl. 08 do evento 9505855), que as condições climáticas estavam desfavoráveis, o que constitui fato imprevisível e inevitável, capaz de romper com o nexo de causalidade e consequentemente afastar o dever de indenizar.
+
+Além disso, apesar do cancelamento, a
+GOL LINHAS AEREAS S.A.
+
+procedeu de acordo com o artigo 21, da Resolução nº 400/2016, da ANAC, abaixo transcrito:
+
+Art. 21. O transportador deverá oferecer as alternativas de reacomodação, reembolso e execução do serviço por outra modalidade de transporte, devendo a escolha ser do passageiro, nos seguintes casos:
+
+I - atraso de voo por mais de quatro horas em relação ao horário originalmente contratado;
+
+II - cancelamento de voo ou interrupção do serviço;
+
+III - preterição de passageiro; e
+
+IV - perda de voo subsequente pelo passageiro, nos voos com conexão, inclusive nos casos de troca de aeroportos, quando a causa da perda for do transportador.
+
+Parágrafo único. As alternativas previstas no caput deste artigo deverão ser imediatamente oferecidas aos passageiros quando o transportador dispuser antecipadamente da informação de que o voo atrasará mais de 4 (quatro) horas em relação ao horário originalmente contratado.
+
+A reacomodação foi fornecida à passageira apelante, que na petição inicial também deixa claro que a companhia aérea forneceu a assistência necessária com a alimentação dos passageiros, mas a recorrente, por sua liberalidade, “
+optou
+por se alimentar em outro restaurante, tendo que arcar com o pagamento
+”.
+
+Ademais, embora a apelante afirme que precisou adquirir pacote de internet para comunicação com familiares, esse fato não induz à conclusão de que sofreu constrangimento indenizável.
+
+Sopeso que o painel de embarque doméstico (evento 9505834) denota que a reacomodação foi imediata, pois se deu exatamente no próximo voo disponibilizado ao mesmo destino pela apelada.
+
+Outrossim, a requerente não trouxe aos autos nenhum elemento capaz de demonstrar que havia a possibilidade de execução do serviço por outra modalidade de transporte mais efetiva em relação à reacomodação ofertada, o que corrobora a ausência de ilícito praticado pela companhia aérea.
+
+Desse modo, evidenciado o atendimento às normas aplicáveis para o caso de cancelamento de voo, assim como não comprovada nenhuma situação excepcional que tenha configurado lesão aos direitos da personalidade da autora, não há amparo para reforma da r. sentença de improcedência proferida em primeiro grau.
+
+A orientação ora adotada encontra respaldo na jurisprudência pátria, conforme arestos abaixo colacionados:
+
+APELAÇÃO. Pretensão de indenização por danos morais rejeitada pelo Egrégio Juízo a quo. Insurgência autoral. Descabimento. ATRASO DE VOO NACIONAL. Chegada ao destino (Porto Seguro) com delay de quinze horas. Fornecimento de voucher de alimentação. Aplicação da legislação consumerista que não significa o automático e irrestrito acolhimento dos pleitos autorais. DANOS MORAIS NÃO CONFIGURADOS. Necessidade de comprovação de situação excepcional que ocasione prejuízos subjetivos. Aplicação do art. 251-A do Código Brasileiro de Aeronáutica c/c Resolução 400 da Anac. Inúmeros precedentes desta Colenda Câmara. Jurisprudência do Colendo Superior Tribunal de Justiça. SENTENÇA RATIFICADA. RECURSO DESPROVIDO. (TJSP; AC 1072237-77.2021.8.26.0002; Ac. 17713043; São Paulo; Décima Oitava Câmara de Direito Privado; Rel. Des. Ernani Desco Filho; Julg. 25/03/2024; DJESP 02/04/2024; Pág. 1755)
+
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ATRASO VOO. MANUTENÇÃO DE EMERGÊNCIA. PRESTAÇÃO DE ASSISTÊNCIA PELA EMPRESA AÉREA (ALIMENTAÇÃO E ACOMODAÇÃO NO VOO DO SEGUINTE). DANOS MORAIS INEXISTENTES. REFORMA DA SENTENÇA. DANOS MATERIAIS AFASTADOS. CONDENAÇÃO DA AUTORA NA SUCUMBÊNCIA. RECURSO CONHECIDO E PROVIDO. 1. No que se refere aos danos morais, há que ser destacado que apesar de a apelante não cumprir com o contratado, disponibilizou a reacomodação no próximo voo disponível, além de ter fornecido voucher para custeio da alimentação. Ademais, no dia seguinte, chegou a cidade de destino ainda no período posterior. 2. Apesar do transtorno inerente a situação, a autora não anexou qualquer prova no sentido de que perdeu qualquer compromisso ou que teve qualquer abalo extrapatrimonial considerável, principalmente porque a empresa aérea prestou a assistência necessária e a autora estava em seu retorno de férias. Assim, verificando-se que no caso específico dos autos o atraso no voo/conexão representou mero aborrecimento a autora, inarredável o afastamento do dano moral. 3. É incontroverso nos autos que foi disponibilizado a autora um voucher para custeio de sua alimentação, sendo que a autora afirma que tal quantia foi insuficiente, no entanto apenas apresenta nos autos a compra de uma refeição em valor inferior aos disponibilizado o que leva a crer que a quantia ofertada pela requerida foi suficiente para o custeio da alimentação durante o período de espera, sendo assim deve ser afastada a condenação por danos materiais. 4. Sucumbência a ser suportada pela parte autora, observado o disposto no art. 98,§3º, do CPC. (TJMS; AC 0812019-89.2023.8.12.0001; Campo Grande; Quarta Câmara Cível; Rel. Des. Sideni Soncini Pimentel; DJMS 12/03/2024; Pág. 109)
+
+APELAÇÃO. TRANSPORTE AÉREO NACIONAL. CANCELAMENTO DE VOO POR MOTIVOS TÉCNICO-OPERACIONAIS. REALOCAÇÃO. ATRASO NA CONCLUSÃO DO ITINERÁRIO SUPERIOR A DOZE HORAS E ESPERA NO AEROPORTO. ASSISTÊNCIA MATERIAL. DANO MORAL. Pretensão de improcedência da demanda. Cabimento. Hipótese em que ficou comprovado que o voo originário foi cancelado, por problemas técnicos em aeronave. Fortuito interno, integrante do risco da atividade. Inocorrência de força maior ou fortuito externo, ainda que se considere que os defeitos técnicos foram inesperados. Falha no serviço configurada. Dano moral que, todavia, não ficou demonstrado. Ausência de elementos de convicção, ainda que indiciários, da permanência das autoras no aeroporto durante a espera pelo novo voo. Inviabilidade de inversão do ônus da prova, pois não caracterizada uma verossimilhança mínima do alegado. Companhia aérea que apresentou print comprovando a disponibilização de voucher para transporte de táxi. Documento que, a despeito de produzido unilateralmente, não é desprovido de eficácia probatória, sobretudo por não ter sido objeto de impugnação específica ou de arguição de falsidade. Prioridade legal de atendimento que não impõe reacomodação no voo imediatamente seguinte, e, sim, no primeiro voo em que possível fazê-lo. Designação, no voo substituto, de assento em corredor, em vez de próximo à janela, como se daria no voo originário, que não enseja, por si, algum transtorno. Falta de demonstração mínima de que a autora menor teria apresentado quadro de febre durante a espera para o voo redesignado, tendo tal fato sido alegado tardiamente, apenas em contrarrazões. Dano moral não configurado, ausente prova mínima dos fatos constitutivos dos eventos lesivos alegados, considerados os parâmetros delineados pelo STJ. Dano moral que deve ser afastado. Demanda julgada improcedente. RECURSO PROVIDO. (TJSP; AC 1007540-35.2022.8.26.0609; Ac. 17602022; Taboão da Serra; Décima Terceira Câmara de Direito Privado; Relª Desª Ana de Lourdes Coutinho Silva da Fonseca; Julg. 22/02/2024; DJESP 27/02/2024; Pág. 1554)
+
+Pelo exposto,
+CONHEÇO
+do recurso de apelação para, no mérito,
+
+NEGAR
+-LHE PROVIMENTO.
+
+Ato seguinte, uma vez que não foi alcançado o limite objetivo no arbitramento da verba honorária realizada pelo juízo de origem, as partes apelantes deverão suportar condenação ao pagamento de honorários recursais, nos ditames do artigo 85, §11, do CPC, que ora fixo em 5% (cinco por cento), de modo que a verba honorária totalizará a importância de 15% (quinze por cento) sobre o valor atribuído à causa.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+
+Acompanho o voto de relatoria.
+
+Des. Sérgio Ricardo de Souza:
+
+acompanho a Relatoria.
