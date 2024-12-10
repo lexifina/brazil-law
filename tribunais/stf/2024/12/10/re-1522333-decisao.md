@@ -1,0 +1,59 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. CIRCULAÇÃO ENTRE ESTABELECIMENTOS DO MESMO TITULAR. TEMA RG Nº 1.099. MODULAÇÃO DE EFEITOS NA ADC Nº 49/RN. MANDADO DE SEGURANÇA PREVENTIVO IMPETRADO POSTERIORMENTE À PUBLICAÇÃO DA ATA DE JULGAMENTO TIDA COMO MARCO MODULATÓRIO. EXAÇÃO ACOMPANHADA DO CREDITAMENTO, ANTE O PRINCÍPIO DA NÃO CUMULATIVIDADE. ART. 155, INC. II, § 2º, DA CONSTITUIÇÃO DA REPÚBLICA. NEGATIVA DE SEGUIMENTO.
+
+    1. Trata-se de recurso extraordinário interposto contra acórdão da 2ª Câmara Cível do Estado do Paraná assim ementado:
+
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA PREVENTIVO. ICMS. TRANSFERÊNCIA DE MERCADORIA ENTRE ESTABELECIMENTOS DA MESMA EMPRESA. SEGURANÇA CONCEDIDA PARA OBSTAR A INCIDÊNCIA DO IMPOSTO. APELO DA FAZENDA PÚBLICA. NÃO ACOLHIMENTO. MERO DESLOCAMENTO FÍSICO DE MERCADORIA. SÚMULA 166 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO REPETITIVO Nº 1.125.133/SP. ENTENDIMENTO CONSOLIDADO EM REPERCUSSÃO GERAL PELO SUPREMO TRIBUNAL FEDERAL NO TEMA 1.099. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+
+    Tema nº 1099 do Supremo Tribunal Federal: ‘Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia’ (STF, ARE 1255885 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 14/08/2020, PROCESSO ELETRÔNICO DJe-228 DIVULG 14-09-2020 PUBLIC 15-09-2020).” (e-doc. 13).
+
+    2. Nas razões do presente recurso, interposto com fundamento na alínea “a” do permissivo constitucional, o Estado do Paraná argumenta violação ao art. 102, § 2º, da Constituição da República, sob a alegação de que, no tema relativo à incidência do ICMS na movimentação de mercadorias entre estabelecimentos do mesmo titular, o ajuizamento do mandado de segurança é posterior (20/04/2022) à publicação da ata de decisão do mérito da ADC nº 49/RN (29/04/2021). Por isso, assevera o descumprimento da ordem de modulação contida na referida ação objetiva (e-doc. 16).
+
+    3. Foram apresentadas as contrarrazões ao recurso extraordinário (e-doc. 18).
+
+    É o relatório.
+
+    Decido.
+
+    4. Desde o julgamento do Tema nº 1.099 do ementário da Repercussão Geral, encontrava-se assentada, na jurisprudência desta Suprema Corte, a questão relativa à não incidência do ICMS no deslocamento de mercadorias entre estabelecimentos do mesmo titular:
+
+    “EMENTA. Recurso extraordinário com agravo. Direito Tributário. Imposto Sobre Circulação de Mercadorias e Serviços (ICMS). Deslocamento de mercadorias. Estabelecimentos de mesma titularidade localizados em unidades federadas distintas. Ausência de transferência de propriedade ou ato mercantil. Circulação jurídica de mercadoria. Existência de matéria constitucional e de repercussão geral. Reafirmação da jurisprudência da Corte sobre o tema. Agravo provido para conhecer em parte do recurso extraordinário e, na parte conhecida, dar-lhe provimento de modo a conceder a segurança. Firmada a seguinte tese de repercussão geral: Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia.”
+
+    (ARE nº 1.255.885-RG/MS, Tema RG nº 1.099, Rel. Min. Presidente Dias Toffoli, Tribunal Pleno, j. 14/08/2020, p. 15/09/2020; destaques acrescidos).
+
+    5. Após o julgamento do recurso extraordinário paradigma, sobreveio a exame do Pretório Excelso a ADC nº 49/RN, com a mesma discussão relacionada à incidência do ICMS entre estabelecimentos do mesmo contribuinte, em vista das disposições dos arts. 11, § 3º, inc. II, 12, inc. I, e 13, § 4º, da Lei Complementar federal nº 87, de 1996. A ação foi julgada improcedente quanto às expressões que aludem à autonomia de estabelecimentos diversos do mesmo titular, bem assim à incidência do tributo sobre a circulação de mercadoria entre os estabelecimentos do mesmo titular, ou seja, sem a transferência da titularidade do bem. Confira-se:
+
+    “Ementa: DIREITO CONSTITUCIONAL E TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE. ICMS. DESLOCAMENTO FÍSICO DE BENS DE UM ESTABELECIMENTO PARA OUTRO DE MESMA TITULARIDADE. INEXISTÊNCIA DE FATO GERADOR. PRECEDENTES DA CORTE. NECESSIDADE DE OPERAÇÃO JURÍDICA COM TRAMITAÇÃO DE POSSE E PROPRIDADE DE BENS. AÇÃO JULGADA IMPROCEDENTE. 1. Enquanto o diploma em análise dispõe que incide o ICMS na saída de mercadoria para estabelecimento localizado em outro Estado, pertencente ao mesmo titular, o Judiciário possui entendimento no sentido de não incidência, situação esta que exemplifica, de pronto, evidente insegurança jurídica na seara tributária. Estão cumpridas, portanto, as exigências previstas pela Lei n. 9.868/1999 para processamento e julgamento da presente ADC. 2. O deslocamento de mercadorias entre estabelecimentos do mesmo titular não configura fato gerador da incidência de ICMS, ainda que se trate de circulação interestadual. Precedentes. 3. A hipótese de incidência do tributo é a operação jurídica praticada por comerciante que acarrete circulação de mercadoria e transmissão de sua titularidade ao consumidor final. 4. Ação declaratória julgada improcedente, declarando a inconstitucionalidade dos artigos 11, §3º, II, 12, I, no trecho “ainda que para outro estabelecimento do mesmo titular”, e 13, §4º, da Lei Complementar Federal n. 87, de 13 de setembro de 1996.”
+
+    (ADC nº 49/RN, Rel. Min. Edson Fachin, Tribunal Pleno, j. 19/04/2021, p. 04/05/2021; destaques acrescidos).
+
+    6. Com a oposição de embargos de declaração sobre o citado julgamento da ação objetiva, que vinha na mesma linha do julgamento do Tema RG nº 1.099, foi destacado o fato de que, à revelia do anterior julgamento do STF, os Estados prosseguiram na cobrança do ICMS, e conferiram o creditamento do tributo ao estabelecimento de destino, ante a não cumulatividade do imposto, conforme se extrai do voto-vogal do e. Ministro Luís Roberto Barroso:
+
+    “(...) 9. No caso em comento, este Supremo Tribunal Federal e o Superior Tribunal de Justiça reconhecem, de longa data, a impossibilidade de incidência do ICMS sobre a transferência de mercadorias entre estabelecimentos de mesmo titular. Não por outra razão, o STJ editou a Súmula nº 166, segundo a qual “[n]ão constitui fato gerador do ICMS o simples deslocamento de mercadoria de um para outro estabelecimento do mesmo contribuinte”. Essa conclusão também foi endossada no julgamento do REsp 1.125.133 (representativo de controvérsia, Rel. Min. Luiz Fux, j. em 25.08.2010) 1 . Esta Suprema Corte, de igual modo, enfrentou em inúmeras oportunidades idêntica controvérsia, tendo ratificado o seu entendimento sobre o assunto por ocasião do ARE 1.255.885 (Rel. Min. Luiz Fux, j. em 14.08.2020) 2 .
+
+    10. Tais elementos demonstram, de maneira inequívoca, que a decisão de mérito desta ação declaratória de constitucionalidade em nada inova na jurisprudência de ambos os Tribunais Superiores. Ratifica-se um entendimento já consolidado por ambas as Cortes. Nessas circunstâncias, a modulação dos efeitos da decisão só pode se dar em caráter excepcional, exigindo um forte ônus argumentativo.
+
+    11. De acordo com a Governadora do Estado do Rio Grande do Norte e os amici curiae que representam interesses dos contribuintes, os Estados, em manifesta contrariedade com o entendimento consolidado pelos Tribunais Superiores, mantiveram a cobrança do ICMS sobre as transferências de mercadorias entre estabelecimentos de mesmo titular. Diante disso, muitos contribuintes efetuaram o pagamento, sobretudo para possibilitar a transferência de créditos entre seus estabelecimentos, sem o risco de virem a ser anulados os relativos às operações anteriores, com base no art. 155, § 2º, II, b, da CF/1988. Outros contribuintes, diversamente, iniciaram demandas administrativas e judiciais, pretendendo afastar a referida cobrança. Esse cenário se protraiu no tempo e atingiu um estágio em que os Estados e alguns contribuintes buscam a modulação dos efeitos da decisão de mérito, com a atribuição de eficácia prospectiva. Procura-se, desse modo, conferir prazo aos Estados para adaptar a legislação ao entendimento consolidado nesta ação, sem prejuízo das deliberações no âmbito do Conselho Nacional de Política Fazendária (CONFAZ), especialmente para viabilizar a aludida transferência de créditos entre estabelecimentos de mesmo titular.
+
+    12. Além disso, o abalo à segurança jurídica e o excepcional interesse social, que justificariam a modulação, estariam evidenciados pelo seguinte: (a) haveria uma ‘profunda modificação da sistemática de apuração do ICMS’, de modo a elevar a carga tributária devida pelos contribuintes – o que é incompatível com o princípio da não surpresa e da anterioridade tributária – e a reduzir a arrecadação de alguns Estados; (b) os Estados concederam inúmeros benefícios fiscais relativos às saídas para estabelecimentos de mesmo titular; e (c) os Estados precisam ‘discu[tir] e uniformiz[ar] [a] interpretação, para fins de aplicação da legislação pertinente a outros fundamentos [...]: a anulação do crédito do imposto relativo às operações anteriores [...]; a eventual possibilidade de apropriação do crédito da origem pelo destino e os casos de diferimento do imposto nas operações internas anteriores às transferências interestaduais. A não modulação, na visão da embargante, implicaria a natureza indevida dos pagamentos, o cabimento da repetição do indébito tributário e o estorno dos créditos respectivos.
+
+    13. De fato, a manutenção da vigência das normas estaduais que autorizam a cobrança do ICMS nas transferências de mercadorias entre estabelecimentos de mesmo titular e a realização de pagamentos pelos sujeitos passivos com a apuração e o aproveitamento de créditos configura um contexto em que me parece razoável que se mantenham intactas algumas situações já constituídas até aqui.”
+
+    7. Foi por esse norte que o Plenário, então, consignou nova modulação efeitos para o exercício financeiro de 2024, ressalvadas as ações já propostas, e, ainda, pendentes, ao tempo da publicação da ata de julgamento do acórdão de mérito (04/05/2021), notadamente, para que os Estados planejem o creditamento em seu território e, mais ainda, sobrevenha lei complementar federal para disciplinar a circulação em estados distintos.
+
+    8. No caso, estamos a tratar de mandado de segurança preventivo, no qual a parte impetrante, ora recorrente, visa evitar a cobrança do ICMS justamente na hipótese de transferência de mercadorias sem a “circulação jurídica” entre distintos empresários.
+
+    9. Considerando a propositura do writ em 20/04/2022, extraio dos autos que o Estado do Paraná se enquadra na hipótese da modulação elaborada na ADC nº 49/RN, de modo que, até o exercício de 2024, admite-se a incidência do ICMS, uma vez acompanhada do correspondente creditamento, repito, em vista da não cumulatividade do ICMS, nos moldes do art. 155, inc. II, § 2º, da Constituição da República.
+
+    10. Logo, é certo que o acórdão de origem diverge da orientação do Plenário deste Pretório Excelso, notadamente, ao assentar “que, até 2024, não incide ICMS sobre a transferência de mercadorias entre estabelecimentos do mesmo contribuinte com fundamento na Súmula nº 166, STJ, Tema 259, STJ, e Tema 1099, STF, e, após 2024, a não incidência è baseada, também, na ADC 49”.
+
+    11. Ante o exposto, dou provimento ao recurso extraordinário do Estado do Paraná, para, nos moldes da modulação da ADC nº 49/RN, denegar a segurança pretendida. Deixo de fixar a verba honorária sucumbencial, nos termos do enunciado nº 512 da Súmula do STF.
+
+    Publique-se.
+
+    Brasília, 10 de dezembro de 2024.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
