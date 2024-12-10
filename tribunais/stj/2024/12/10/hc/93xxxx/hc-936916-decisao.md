@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CAIO CÉZAR ALVES DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o Juízo das execuções indeferiu o pedido de indulto, feito com base no Decreto Presidencial n. 11.302/2022, pelo não preenchimentos dos requisitos. O Tribunal de origem negou provimento ao agravo em execução.
+A impetrante sustenta que (fl. 6):
+não é o caso de aplicação do art. 11, uma vez que este dispositivo somente incide na hipótese de concurso de infrações em que alguma delas é de natureza impeditiva. Quando nenhuma das penas em execução for em razão da prática de um dos crimes impeditivos, deve se aplicar o caput do art. 5, sob pena de malferimento do princípio da especialidade
+Pugna pela concessão da ordem para que seja reconhecido o direito ao indulto.
+O Ministério Público manifestou-se pela concessão de ofício.
+É o relatório.
+O acórdão está assim fundamentado (fls. 10-11):
+Com efeito, dispõe o art. 5º do Decreto Presidencial nº 11.302/2022: "Art. 5º. Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Parágrafo único. Para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal".
+Desse modo, as penas impostas ao sentenciado devem ser consideradas individualmente somente no caso de concurso de crimes, como se depreende do dispositivo acima citado e não em casos de condenações distintas, como acontece nos autos.
+Sendo assim, tal a regra não se aplica ao caso concreto, pois há circunstância de unificação de penas, nos termos do art. 111 da Lei de Execução Penal, fazendo incidir o disposto no "caput" do art. 11 da norma, in verbis: "Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022, nos termos do art. 111 da Lei nº 7.210, de 11 de julho de 1984".
+Destarte, verifica-se que a somatória de penas até a data limite do decreto, 25/12/2022, resulta em montante superior ao limite máximo de cinco anos previsto no Decreto (fls. 22/28) (grifo próprio).
+No presente caso, o Tribunal de origem manteve o afastamento do pedido de indulto apontando como fundamento o fato de não se tratar de concurso de crimes, logo, inaplicável o art. 5º do Decreto Presidencial n. 11.302/2022, que nesses casos aponta a consideração individual da pena de cada delito.
+Além disso, ressaltou-se que era aplicável o art. 11 do mesmo diploma legal, segundo o qual devem ser unificadas as penas de crimes diversos, ficando obstado o indulto se houver resultado maior que 5 anos.
+Entretanto, nos termos da jurisprudência do Superior Tribunal de Justiça:
+ ..  a melhor interpretação sistêmica oriunda da leitura conjunta do art. 5º e do art. 11 do Decreto n. 11.302/2022 é a que entende que o resultado da soma ou da unificação de penas efetuada até 25/12/2022 não constitui óbice à concessão do indulto àqueles condenados por delitos com pena em abstrato não superior a 5 (cinco) anos, desde que (1) cumprida integralmente a pena por crime impeditivo do benefício; (2) o crime indultado corresponda a condenação primária (art. 12 do Decreto) e (3) o beneficiado não seja integrante de facção criminosa (parágrafo 1º do art. 7º do Decreto) (AgRg no HC n. 824.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+Portanto, deve ser afastada a razão pela qual impedido o reconhecimento do indulto na origem.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECURSO DO MINISTÉRIO PÚBLICO. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. ALEGAÇÃO DE INCONSTITUCIONALIDADE. IMPROPRIEDADE DA VIA ELEITA. DECISÃO MANTIDA. AGRAVADO QUE PREENCHE OS REQUISITOS PARA A CONCESSÃO DE INDULTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Constata-se que " A  alegação de inconstitucionalidade não é suscetível de análise na via do habeas corpus, que não pode ser utilizado como mecanismo de controle da validade das leis e dos atos normativos em geral. Ademais, o exame de constitucionalidade do teor do decreto já foi submetido à discussão no Supremo Tribunal Federal, em Ação Direta de Inconstitucionalidade, sem a determinação, por ora, de suspensão dos efeitos do dispositivo legal questionado" (AgRg no HC n. 840.517/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023).
+2. Consoante a jurisprudência desta Corte Superior, não é possível utilizar a soma das penas unificadas para impedir a concessão do indulto, nos termos do art. 11 do Decreto Presidencial n. 11.302/2022. Para os propósitos estabelecidos no art. 5º do mesmo ato normativo, as penas máximas em abstrato devem ser consideradas individualmente. Precedentes.
+3. Cabível a concessão de indulto ao agravado, nos termos previstos no Decreto n. 11.302/2022 pois, consoante consta dos autos, ele possui condenações transitadas em julgado por crimes cujas penas privativas de liberdade máxima em abstrato não são superiores a 5 anos, até 25 de dezembro de 2022 e os demais crimes não são do tipo impeditivo.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 873.444/SP, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.)
+Ante o exposto, concedo o habeas corpus para que o Juízo das execuções prossiga na análise do pedido de indulto em relação às condenações com pena máxima em abstrato inferiores a 5 anos.
+Comunique-se. Publique-se. Intimem-se.
+ EMENTA
