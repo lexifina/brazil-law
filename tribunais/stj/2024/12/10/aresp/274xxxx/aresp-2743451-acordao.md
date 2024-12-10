@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO ANTE A INSUFICIÊNCIA DE PROVAS OU APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. A QUANTIDADE E A FORMA COMO AS SUBSTÂNCIAS FORAM APREENDIDAS ASSOCIADA À APREENSÃO DE ARMA DE FOGO CARACTERIZA O CRIME DE TRÁFICO DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE REEXAME DE PROVAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial, mantendo a condenação por tráfico de drogas. O recorrente pretende a absolvição ante a insuficiência de provas ou a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, alegando ausência de habitualidade criminosa e questionando a consideração de atos infracionais anteriores.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se as provas são insuficientes para a condenação; (ii) se é possível a aplicação da minorante do tráfico privilegiado, considerando a existência de atos infracionais anteriores e a quantidade e forma de apreensão das drogas.
+III. RAZÕES DE DECIDIR
+3. O Tribunal de origem fundamentou de forma idônea que a quantidade e forma como as substâncias foram apreendidas, estando acondicionadas de modo fracionado, associada ainda a apreensão de arma de fogo caracteriza o crime de tráfico de drogas, sendo inviável a absolvição do agravante.
+4. A jurisprudência do STJ permite a consideração de atos infracionais como indicativo de dedicação a atividades criminosas, desde que haja fundamentação idônea que analise a gravidade e contemporaneidade desses atos.
+5. As instâncias ordinárias fundamentaram adequadamente a não aplicação da minorante do tráfico privilegiado, com base na quantidade, diversidade e forma de acondicionamento das drogas apreendidas, além da posse de arma de fogo, indicando dedicação à atividade criminosa.
+6. A revisão do entendimento adotado pelas instâncias inferiores demandaria reexame de matéria fático-probatória, o que é vedado em recurso especial, conforme Súmula 7 do STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO ANTE A INSUFICIÊNCIA DE PROVAS OU APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. A QUANTIDADE E A FORMA COMO AS SUBSTÂNCIAS FORAM APREENDIDAS ASSOCIADA À APREENSÃO DE ARMA DE FOGO CARACTERIZA O CRIME DE TRÁFICO DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE REEXAME DE PROVAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial, mantendo a condenação por tráfico de drogas. O recorrente pretende a absolvição ante a insuficiência de provas ou a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, alegando ausência de habitualidade criminosa e questionando a consideração de atos infracionais anteriores.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se as provas são insuficientes para a condenação; (ii) se é possível a aplicação da minorante do tráfico privilegiado, considerando a existência de atos infracionais anteriores e a quantidade e forma de apreensão das drogas.
+III. RAZÕES DE DECIDIR
+3. O Tribunal de origem fundamentou de forma idônea que a quantidade e forma como as substâncias foram apreendidas, estando acondicionadas de modo fracionado, associada ainda a apreensão de arma de fogo caracteriza o crime de tráfico de drogas, sendo inviável a absolvição do agravante.
+4. A jurisprudência do STJ permite a consideração de atos infracionais como indicativo de dedicação a atividades criminosas, desde que haja fundamentação idônea que analise a gravidade e contemporaneidade desses atos.
+5. As instâncias ordinárias fundamentaram adequadamente a não aplicação da minorante do tráfico privilegiado, com base na quantidade, diversidade e forma de acondicionamento das drogas apreendidas, além da posse de arma de fogo, indicando dedicação à atividade criminosa.
+6. A revisão do entendimento adotado pelas instâncias inferiores demandaria reexame de matéria fático-probatória, o que é vedado em recurso especial, conforme Súmula 7 do STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da Súmula n. 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da Súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da Súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da Súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violados os arts. 386, VII, do Código de Processo Penal e 33, §4º, da Lei n. 11.343/2006.
+As análises das razões motivadas na origem - pleito de absolvição por falta de provas ou se reconhecimento do tráfico privilegiado - indicam que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula n. 83/STJ, conforme se verifica da fundamentação adotada (e-STJ fls. 215-216):
+A materialidade delitiva restou devidamente comprovada pelo auto de exibição e apreensão (id 53517024, fl. 7), laudo de constatação prévia (id 53517024, fl. 14) e laudo de exame pericial definitivo (id 53517175 e 53517176). Este último assevera que as substâncias apreendidas eram aquelas vulgarmente conhecidas como maconha e cocaína, ambas de uso proscrito no Brasil, conforme Portaria 344/98 da Secretaria de Vigilância Sanitária do Ministério da Saúde.
+A autoria atribuída a ARLON REIS SANTOS, por sua vez, é verificada a partir da prova oral produzida.
+ ..
+Na presente hipótese, o SD/PM JOSÉ EDVALDO DE JESUS FILHO, devidamente arrolado como testemunha pela acusação, quando de suas declarações em juízo, portanto, sob o crivo da ampla defesa e do contraditório, conforme gravação disponível no sistema P Je Mídias, afirmou ter sido um dos profissionais da guarnição responsável pela diligência que culminou na prisão em flagrante do acusado, confirmando o confisco das drogas e arma de fogo descritas no auto de apreensão e exibição.
+ ..
+Na mesma direção foram as declarações prestadas pelo SD/PM JOSEVAL FREITAS DOS SANTOS e SD/PM PAULO PEREIRA DE JESUS, que igualmente atuaram na diligência e foram arrolados como testemunhas pela acusação, sendo ouvidos sob o crivo da ampla defesa e do contrário.
+ ..
+Vale destacar que, na ocasião de sua oitiva, a testemunha SD/PM JOSEVAL FREITAS DOS SANTOS reconheceu o ora Apelante como sendo a pessoa apreendida na diligência.
+Ressalte-se ainda que o ora Apelante, em seu interrogatório judicial, cuja gravação se encontra igualmente disponível no sistema PJe Mídias, limitou-se a negar a prática do crime, informando que os policiais já chegaram ao local atirando, porque estava em uma região conhecida como ponto de tráfico, o que fez com que todas as pessoas que ali estavam corressem. "Eu corri também. Não vou ficar para tomar bala." Ocorre que acabou sendo apreendido por outra viatura, que o conduziu para a delegacia apenas porque ostentava passagens anteriores pelo sistema de justiça. Esta versão, contudo, destoa das provas arregimentadas.
+Assim, a quantidade e forma como as substâncias foram apreendidas, estando acondicionadas de modo fracionado, associada ainda a apreensão de arma de fogo caracteriza o crime de tráfico de drogas, de modo que se mostra inviável a absolvição do acusado, inclusive porque, no processo penal, vigora o princípio do livre convencimento motivado, sendo dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, como ocorreu na presente hipótese.
+ ..
+No caso dos autos, o Juízo a quo afastou a sua incidência sob argumento de que "o réu foi preso dispensando, não apenas relevante quantidade de droga, mas também arma tipo revolver, carregada com três munições, fato que indica sua periculosidade, bem como a gravidade de sua conduta. Digno de nota também é o fato de que o réu confessou já possuir uma passagem anterior, também por tráfico, demonstrando envolvimento mais grave com o crime."
+Conforme se observa, o Tribunal de origem fundamentou de forma idônea que a quantidade e forma como as substâncias foram apreendidas, estando acondicionadas de modo fracionado, associada ainda a apreensão de arma de fogo caracteriza o crime de tráfico de drogas, sendo inviável a absolvição do agravante.
+Outrossim, as instâncias ordinárias fundamentaram adequadamente a não aplicação da minorante do tráfico privilegiado, com base na quantidade, diversidade e forma de acondicionamento das drogas apreendidas, além da posse de arma de fogo e da confissão, por parte do agravante, de que já se envolvia com a traficância, apontando, inclusive, já possuir passagem anterior pelo mesmo crime, indicando dedicação à atividade criminosa.
+No mesmo sentido, cite-se o seguinte precedente da Quinta Turma, cujo entendimento se assemelha ao adotado pelo acórdão recorrido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, §4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. REGISTROS DE ATOS INFRACIONAIS RECENTES E GRAVES. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. A Terceira Seção, por ocasião do julgamento do EREsp 1.916.596/SP, fixou o entendimento de que "o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração" (Rel. Ministro JOEL ILAN PACIORNIK, Rel. p/ Acórdão Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 8/9/2021, DJe 4/10/2021).
+3. No caso, os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência desta Corte Superior. Além do registro de atos infracionais recentes e análogos aos delitos de tráfico de drogas e roubo, as circunstâncias do cometimento do delito (apreensão de maconha, crack e cocaína já fracionados em diversas porções, além de arma de fogo e munições) denotam a dedicação do agravante à atividade criminosa, tudo a indicar que não se trataria de traficante eventual.
+4. Para modificar o entendimento adotado nas instâncias inferiores de que a prática do tráfico de drogas e a dedicação em atividade criminosa estão configuradas e aplicar a minorante prevista na Lei de Drogas, seria necessário reexaminar o conteúdo probatório dos autos, o que é inadmissível, a teor da Súmula 7 do STJ.
+5. Agravo regimental desprovido. DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, mantendo a condenação por tráfico de drogas. O agravante busca a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, alegando ausência de habitualidade criminosa e questionando a consideração de atos infracionais anteriores.
+II. Questão em discussão2. A questão em discussão consiste na possibilidade de aplicação da minorante do tráfico privilegiado, considerando a existência de atos infracionais anteriores e a quantidade de drogas apreendidas.
+III. Razões de decidir3. A jurisprudência do STJ permite a consideração de atos infracionais como indicativo de dedicação a atividades criminosas, desde que fundamentada e com análise da gravidade e contemporaneidade dos atos.
+4. As instâncias ordinárias fundamentaram adequadamente a não aplicação da minorante, com base na quantidade e diversidade de drogas apreendidas, além da posse de arma de fogo, indicando dedicação à atividade criminosa.
+5. A revisão do entendimento adotado pelas instâncias inferiores demandaria reexame de matéria fático-probatória, o que é vedado em recurso especial, conforme Súmula 7 do STJ.
+IV. Dispositivo e tese6. Agravo regimental desprovido.
+Tese de julgamento: 1. Atos infracionais podem ser considerados para afastar a minorante do tráfico privilegiado, desde que fundamentados e contemporâneos. 2. A quantidade e diversidade de drogas, além da posse de arma, indicam dedicação à atividade criminosa, impedindo a aplicação da minorante.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º;
+Código Penal, art. 59; Súmula 7 do STJ.
+Jurisprudência relevante citada: STJ, HC 457.637/SP, Min. Ribeiro Dantas, DJe 23/10/2018; EREsp 1916596/SP, Min. Joel Ilan Paciornik, Rel. p/ Acórdão Ministra Laurita Vaz, DJe 04/10/2021; AgRg no HC 691.281/SP, Min. Rogerio Schietti Cruz, DJe 29/09/2021.
+(AgRg no AREsp n. 2.555.901/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2024, DJe de 4/10/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. INOVAÇÃO RECURSAL. DESCLASSIFICAÇÃO. PORTE PARA USO PRÓPRIO. INVIABILIDADE. FUNDAMENTOS CONCRETOS. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante inova em seu recurso, postulando o reconhecimento da nulidade pela busca pessoal contra ele perpetrada, aduzindo tema que não foi inicialmente vertido em sede mandamental, o que viola os limites de apreciação do agravo regimental. Precedentes.
+2. O habeas corpus não se presta a apreciação de alegações que buscam a absolvição ou desclassificação do crime do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+3. As instâncias ordinárias ofertaram fundamentos concretos para a condenação pelo crime de tráfico, notadamente se considerada a forma de acondicionamento das drogas apreendidas em conjunto com arma de fogo, o que evidencia a prática mercantil do comércio de entorpecentes. Nesse contexto, inviável o pedido desclassificatório.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 846.388/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
