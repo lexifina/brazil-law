@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIZ CARLOS MACAGNAN contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. - INTERESSE PROCESSUAL. NULIDADE DE CITAÇÃO. O INTERESSE DE AGIR DIZ RESPEITO À UTILIDADE E NECESSIDADE DO PROVIMENTO JURISDICIONAL. A NINGUÉM É DADO POSTULAR EM NOME PRÓPRIO DIREITO ALHEIO, EXCETO QUANDO PREVISTO NO ORDENAMENTO JURÍDICO, COMO DISPOSTO NO ART. 18 DO CPC/15. CIRCUNSTÂNCIA DOS AUTOS EM QUE O CORRÉU NÃO TEM INTERESSE DE AGIR QUANTO À ALEGAÇÃO DE NULIDADE DA CITAÇÃO DE CORRÉU. - NULIDADE DE ATOS PROCESSUAIS. AUSÊNCIA DE INTIMAÇÃO. REABERTURA DE PRAZO. PRECLUSÃO. A INTIMAÇÃO DOS ATOS PROCESSUAIS QUANDO A PARTE ESTÁ REGULARMENTE REPRESENTADA NOS AUTOS É REQUISITO QUE INDUZ NULIDADE. A NULIDADE DEVE SER RECONHECIDA QUANDO DO ATO RESULTA PREJUÍZO À PARTE QUE A ALEGA NA PRIMEIRA OPORTUNIDADE EM QUE SE MANIFESTA NOS AUTOS. CIRCUNSTÂNCIA DOS AUTOS EM QUE NA PRIMEIRA OPORTUNIDADE NÃO HOUVE ARGUIÇÃO DE NULIDADE; E NO PONTO SE IMPÕE NEGAR PROVIMENTO AO RECURSO. RECURSO EM PARTE CONHECIDO E DESPROVIDO.
+LUIZ CARLOS MACAGNAN interpôs recurso especial com base no art. 105, III, a e c, da CF, apontando a violação dos arts. 6º, 76, 133 a 137, 269 a 274, 276, 513 e 523 do CPC, além de dissídio jurisprudencial, ao argumento de que tem interesse de agir quanto à alegada nulidade da citação e que a falta de citação do sócio da empresa ré, para fins de pedido de desconsideração da personalidade jurídica, tornaria nulo o processo.
+O recurso especial não foi admitido pelo Tribunal de Justiça do Rio Grande do Sul, por incidir, no caso, o teor da Súmula nº 7 desta Corte (e-STJ, fls. 146/147).
+Nas razões do presente agravo, LUIZ CARLOS MACAGNAN refuta os termos da decisão de inadmissibilidade do recurso especial (e-STJ, fls. 158/177).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Da apontada falta de citação do sócio da empresa ré
+LUIZ CARLOS MACAGNAN apontou violação dos arts. 6º, 76, 133 a 137, 269 a 274, 276, 513 e 523 do CPC, além de dissídio jurisprudencial, ao argumento de que tem interesse de agir quanto à alegada nulidade da citação e que a falta de citação do sócio da empresa ré, para fins de pedido de desconsideração da personalidade jurídica, tornaria nulo o processo.
+Todavia, encontra-se consignado no acórdão recorrido que:
+(..) agravante não tem interesse processual para arguir nulidade de citação do réu Márcio Roberto Bitelbron.
+(..)
+Com efeito, o interesse de agir diz respeito à utilidade e necessidade do provimento jurisdicional; a ninguém é dado postular em nome próprio direito alheio, exceto quando previsto no ordenamento jurídico, como disposto no art. 18 do CPC/15. Circunstância dos autos em que o corréu não tem interesse de agir quanto à alegação de nulidade da citação de corréu.
+(..)
+No caso dos autos, a parte postula a reabertura de prazo apontando que também merece ser modificado o despacho agravado, quanto a falta de intimação ocorrida nos autos, falha extremamente grave se dá, quando temos que o despacho que decretou a desconstituição jurídica da empresa nunca foi intimado às partes; que nulo os atos processuais, havido após a falta de intimação, quando inexistente a intimação dos mesmos, aos procuradores do feito, eis que infringido os artigos 269 a 274 e 276 do CPC.
+No entanto, na linha dos fundamentos desta decisão, não há razão para deferir o pleito, pois ao fim e ao cabo a parte foi citada no processo recebendo o mandado e sendo cientificado do inteiro teor da decisão de desconsideração da personalidade jurídica (Evento 3, PROCJUDIC6, página 04).
+Na primeira manifestação a parte agravante insurgiu-se quanto a penhora (Evento 3, PROCJUDIC7, página 16-21); e nada arguiu acerca da ora alegada .
+Com efeito, a intimação dos atos processuais quando a parte está regularmente representada nos autos é requisito que induz nulidade. A nulidade deve ser reconhecida quando do ato resulta prejuízo à parte que a alega na primeira oportunidade em que se manifesta nos autos.
+Circunstância dos autos em que na primeira oportunidade não houve arguição de nulidade; e no ponto se impõe negar provimento ao recurso (e-STJ Fls.80/83).
+Analisando as alegações da recorrente e os fundamentos lançados no acórdão recorrido, conclui-se que a análise da controvérsia, para seu subsequente deslinde, demandaria necessária incursão nos fatos da causa, hipótese vedada, nesta sede, conforme o teor da Súmula nº 7 do STJ.
+O recurso, portanto, não merece que dele se conheça.
+Salienta-se que, de acordo com o pacífico entendimento desta Corte Superior, os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando, portanto, prejudicada a apreciação do dissídio jurisprudencial.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+P ublique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TÍTULO EXTRAJUDICIAL. EXECUÇÃO. NULIDADE DE CITAÇÃO. INTERESSE PROCESSUAL. NÃO RECONHECIMENTO. NULIDADE DOS ATOS PROCESSUAIS. AUSÊNCIA DE INTIMAÇÃO. REABERTURA DE PRAZO. PRECLUSÃO. DESCONSTITUIÇÃO DOS TERMOS DO ACÓRDÃO RECORRIDO. I MPOSSIBILIDADE. REEXAME DOS ASPECTOS FÁTICOS DA CONTROVÉRSIA. VEDAÇÃO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
