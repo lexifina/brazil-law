@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por MARCOS HENRIQUE DA SILVA JUNIOR contra o acórdão proferido pelo Tribunal de Justiça da Paraíba que denegou a ordem no HC n. 0823061-23.2024.8.15.0000 (fls. 173/178).
+Extrai-se dos autos que o recorrente foi preso em flagrante, em 10/7/2024, convertida a prisão em preventiva e pronunciado pela suposta prática do crime de homicídio qualificado (Ação Penal n. 0809259-63.2024.8.15.2002, da 1ª Vara do Tribunal do Júri da Capital/PB).
+No presente recurso, o recorrente alega ausência de fundamentação concreta para a manutenção da prisão preventiva na sentença de pronúncia, não estando caracterizados os requisitos do art. 312 do CPP . Ressalta as suas condições pessoais favoráveis e a suficiência das medidas cautelares alternativas.
+Pede, em caráter liminar e no mérito, a revogação da prisão preventiva.
+É o relatório.
+In casu, verifico, de plano, a inviabilidade do presente recurso.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+O Juízo de primeiro grau decretou e manteve a prisão preventiva com base na seguinte fundamentação (fl. 16 - grifo nosso):
+ ..
+Com efeito, o crime imputado ao acusado reveste-se de gravidade, uma vez que foi cometido mediante grave ameaça contra a pessoa, tratando-se de crime hediondo. Além do mais, o flagranteado cometeu o delito com emprego de disparo de arma de fogo, sem motivo e sem dar oportunidade de defesa à vítima, agindo de surpresa, de maneira a demonstrar periculosidade e tendência à criminalidade, merecendo a conduta rigorosa atuação do Poder Judiciário, com o fim de acautelar a sociedade e a própria credibilidade da Justiça, não sendo indicada a concessão da liberdade provisória nesta análise inicial e perfunctória do juízo de Custódia.
+Ademais, o flagranteado possui antecedentes criminais, demonstrando que a personalidade revela tendência à criminalidade e que, em consequência, não está aptos a conviver em sociedade, de forma a impor a decretação da custódia provisória para garantia da ordem pública.
+ ..
+Foi profer ida sentença de p ronúncia, tendo sido negado o direito de recorrer em liberdade ante a gravidade do delito, revelada pelo modus operandi da conduta, sendo desnecessário repeti-la para que se evite tautologia, além de que não houve mudança no quadro fático para que modifique as condições que ensejaram a prisão (fl. 43).
+O Tribunal local, por sua vez, destacou que a reincidência de práticas criminosas e o risco de novos crimes ou de interferência no processo judicial reforçam a importância da segregação cautelar (fl. 177).
+Da leitura das peças que compõem estes autos, verifica-se que a prisão cautelar está devidamente fundamentada na gravidade concreta da conduta e na periculosidade social do recorrente - que planejou e executou o homicídio, dada a ação em vingança por supostas alegações de ameaças anteriores, ainda no ano de 2020 (fl. 19) - e porque possui outros registros criminais, havendo a necessidade da constrição para a garantia da ordem pública .
+Nesse sentido, o Superior Tribunal Justiça já se manifestou em caso semelhante: Conforme sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 805.011/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/10/2023).
+Sobre o modus operandi, confira-se o HC n. 850.429/MA, Ministra Daniela Teixeira, Quinta Turma, DJe 11/11/2024.
+Cumpre salientar que, no presente caso, com efeito, a prisão foi mantida por ser concretamente grave a conduta praticada pelo agravante, bem como pelo fato de permanecerem inalterados os motivos ensejadores da custódia, além de ele ter permanecido preso durante toda a instrução penal, o que justifica a decretação e manutenção da medida constritiva (AgRg no RHC n. 177.268/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/5/2023 - grifo nosso).
+Por fim, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva. Nesse cenário, há nos autos elementos hábeis a recomendar a manutenção da custó dia cautelar do recorrente, não se mostrando suficien tes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo P enal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA MANTIDA NA PRONÚNCIA. MODUS OPERANDI. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. INEVIDÊNCIA DE ILEGALIDADE.
+Recurso em habeas corpus improvido.
