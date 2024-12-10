@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARLI ABREU DE SOUZA KNAPIK contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, no qual se discute, dentre outros, a possibilidade de extensão do pagamento da gratificação de desempenho da atividade do seguro social - GDASS, a servidor inativo aposentado, da parcela mínima de 70 (setenta) pontos, paga a todos os servidores ativos independente de resultado em avaliação de desempenho, por força da alteração legislativa promovida pela Lei n. 13.324/2016.
+É o relatório. Decido.
+Com efeito, o Supremo Tribunal Federal reconheceu a repercussão geral do tema objeto da presente discussão, no RE n. 1.408.525 (tema n. 1.289: "Possibilidade de extensão de pagamento de gratificação de desempenho para servidor inativo com direito à paridade, em razão da fixação de valor mínimo da parcela".
+Nesse contexto, os autos devem retornar ao Tribunal de origem para que o recurso fique sobrestado até o exercício do juízo de conformação pelo órgão julgador a quo com a tese a ser definida pelo Supremo Tribunal Federal, no precedente qualificado.
+Ante o exposto, prejudicada a análise do recurso, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pela Primeira Seção; ou b) seja, novamente, examinado, caso dela divirja (arts. 1.039, 1.040, I e II, e 1. 041 do CPC/2015).
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR INATIVO. GRATIFICAÇÃO DE DESEMPENHO. FIXAÇÃO DE VALOR MÍNIMO DA PARCELA. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. SOBRESTAMENTO. TEMA N. 1.289/STF. DEVOLUÇÃO DOS AUTOS À ORIGEM.
