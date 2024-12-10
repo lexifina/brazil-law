@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por DANIEL PEDRO KASPER, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta nos autos que o recorrente foi preso em flagrante, em 24/04/2024, pela suposta prática dos crimes previstos nos arts. 33, caput, da Lei n.º 11.343/06 e 14 da Lei n.º 10.826/2003, sendo a prisão convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO. PRESENTES OS REQUISITOS LEGAIS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. EXCESSO DE PRAZO NÃO CONFIGURADO.
+I. NÃO CONFIGURADO O EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. OS PRAZOS ESTABELECIDOS NA LEGISLAÇÃO PROCESSUAL PENAL NÃO SÃO ABSOLUTOS. OBSERVADA RAZOABILIDADE NO LAPSO TEMPORAL ATÉ ENTÃO DESPENDIDO NA TRAMITAÇÃO DO FEITO, DE ACORDO COM A COMPLEXIDADE DO CASO CONCRETO.
+II. NOS TERMOS DO ART. 312 DO CPP, DEMONSTRADO O FUMUS COMISSI DELICTI, ANTE A MATERIALIDADE COMPROVADA E A PRESENÇA DE INDÍCIOS DE AUTORIA, BEM COMO MANTIDOS OS FUNDAMENTOS A JUSTIFICAR O PERICULUM LIBERTATIS, NÃO SE MOSTRA SUFICIENTE A ADOÇÃO DE MEDIDAS CAUTELARES DIVERSAS.
+ORDEM DENEGADA." (e-STJ, fl. 60).
+Nesta Corte, o recorrente sustenta, em suma, a ocorrência de constrangimento ilegal decorrente do excesso de prazo para a formação da culpa, ressaltando que está preso preventivamente desde 25/4/2024, sem que a defesa tenha dado causa à demora, inexistindo previsão para seu julgamento.
+Aduz que "transcorridos quase 120 dias (119) da prisão do réu, NÃO FOI SEQUER RECEBIDA A DENÚNCIA, NEM MESMO DESIGNADA QUALQUER AUDIÊNCIA, restringindo-se o julgador a rever a prisão preventiva e determinar a anotação para revisão da mesma." (e-STJ, fl. 74)
+Argumenta que o tempo transcorrido entre a prisão até a presente data "já arrefeceu a necessidade da restrição de liberdade" (e-STJ, fl. 132).
+Requer a revogação da prisão preventiva, ainda que mediante fiscalização eletrônica.
+Liminar indeferida (e-STJ, fl. 111).
+Foram prestadas informações (e-STJ, fls. 118-125).
+O Ministério Público Federal opinou pelo não provimento do recurso em habeas corpus (e-STJ, fls. 127-136).
+É o relatório.
+Decido.
+Quanto ao suposto excesso de prazo na formação da culpa, o Tribunal assim decidiu:
+"Quanto ao alegado excesso de prazo na formação da culpa, entendo que não assiste razão à impetrante. Explico.
+Sabe-se que as prisões cautelares devem ser observadas a partir de principiologia própria, esta que abarca os princípios da jurisdicionalidade, fundamentação, contraditório, provisionalidade, excepcionalidade e proporcionalidade.
+Em relação ao princípio da provisionalidade, este nos lembra que as prisões cautelares são situacionais, já que tutelam uma situação fática, de forma que se o suporte legitimador da medida desaparecer deve-se cessar a prisão de imediato. Todavia, no caso concreto, estando a prisão corporificada na presença do fumus commissi delicti e do periculum libertatis atual, não há o que falar na soltura do paciente.
+Contudo, de fato, há um princípio que resulta da provisionalidade que também deve ser analisado, tratando-se este da provisoriedade, que está relacionado ao fator tempo, ressaltando-nos que toda prisão cautelar deve ser de breve duração.
+No presente feito, a defesa do paciente nos aponta que a prisão preventiva prolonga-se no tempo devido ao excesso de prazo na formação da culpa.
+No caso, verifico que o paciente está preso há 120 dias e, conforme analisado acima, estão presentes os requisitos e os fundamentos para manutenção da sua prisão cautelar. Todavia, não se pode dizer que são poucos dias de limitação absoluta de sua liberdade, restando-nos avaliar, portanto, a condição de tramitação da ação penal.
+Sendo assim, verifico que o paciente foi preso em flagrante em 24/04/2024, sendo homologada a prisão, a qual foi convertida em preventiva na mesma ocasião, em 25/04/2024 (evento 9, DESPADEC1).
+Em 15/05/2024, a Autoridade Policial solicitou autorização para extração de dados telefônicos ( 34.1), sendo o pedido deferido, após manifestação do Ministério Público, em 20/05/2024 (34.1).
+A denúncia foi oferecida em 21/05/2024 ( 1.1).
+Em 22/05/2024, o juízo originário determinou a notificação do o acusado para oferecer resposta prévia (3.1). Na mesma oportunidade, deferiu os pedidos de diligência do Ministério Público.
+O acusado foi efetivamente notificado em 14/06/2024 ( 18.1) e a defesa preliminar foi apresentada em 27/06/2024, com pedido de liberdade provisória (24.1).
+Em 12/08/2024, foi indeferido o pleito de revogação da prisão preventiva do paciente e determinado que o expediente n.º 5000530-55.2024.8.21.0150 fosse vinculado ao processo principal, visto envolver o fato descrito na denúncia (33.1).
+No ponto, ressalto a dificuldade de compreensão acerca da tramitação do presente caso, diante da multiplicidade de expedientes envolvendo o mesmo inquérito policial, bem como da ausência da i ntegralidade dos expedientes existentes na aba ""relacionados"" do sistema E-proc, haja vista a última determinação do juízo a quo.
+(i) no primeiro, constam a representação pela homologação do flagrante e conversão em preventiva, a audiência de custódia, o mandado de prisão, bem como a representação pela extração de dados telefônicos (50005305520248210150);
+(ii) no segundo, há cópia do inquérito policial e o relatório final, bem como manifestação do Ministério Público, informando que os autos foram distribuídos em duplicidade (50005955020248210150);
+(iii) por fim, no terceiro, constam o inquérito policial e o relatório final, além de promoção do órgão acusatório no sentido de que ofereceu denúncia (50005946520248210150).
+Atualmente, o feito se encontra na fase de cumprimento da determinação do juízo originário.
+Diante do cenário, imperioso lembrar que, no início de maio, teve início um grande volume de chuvas que assolou o Rio Grande do Sul, desencadeando as enchentes que afetaram mais de 80% do Estado.
+Nesse meio tempo, houve um colapso desencadeado em razão da falta de luz, água, impossibilidade de acesso ao ambiente de trabalho, entre vários outros problemas que causaram o acúmulo de tarefas do judiciário, que se viu sobrecarregado.
+Nessa esteira, eventuais atrasos na remessa de processos ou proferimento de decisões, nesse meio tempo, não se tratam de descaso ou mora do Estado, mas sim, da necessidade de remanejamento frente ao acúmulo de trabalho.
+Logo, apresentado o contexto de andamento da ação penal, não constato, por ora, excesso de prazo na formação da culpa, ao contrário, percebo tramitação célere, com atuação presente e diligente do Juízo a quo.
+Assim, considerando que os prazos estabelecidos na legislação processual penal sequer são absolutos, devendo-se observar o critério da razoabilidade, ressalto minha compreensão de que não houve excesso na dilação temporal, estando todos os atos dentro dos limites procedimentais, especialmente diante do contexto apresentado.
+Nesse sentido, não considero desproporcional ou desarrazoado o tempo de segregação até aqui suportado pelo paciente.
+Saliento, ainda, que a prisão cautelar não se trata de cumprimento antecipado de pena ou violação ao princípio da presunção de inocência, já que é hipótese prevista na Constituição Federal e no Código de Processo Penal, quando necessária a garantir a ordem pública, a aplicação da lei penal ou a asseguração da instrução processual.
+Nessa conjuntura, estando demonstrada a necessidade da segregação cautelar, pois preenchidos os requisitos e legítimos os fundamentos, não é cabível a substituição por medidas cautelares alternativas, já que não atestada a suficiência delas, bem como não evidenciada a desproporcionalidade da prisão preventiva imposta.
+Por fim, tenho que o caso em comento postula análise a ser realizada pelo Colegiado, com maior acuidade, razão pela qual se mostra prudente, nesses termos, a prévia tramitação plena do presente habeas corpus, para o posterior julgamento do mérito da irresignação.
+Conforme mencionado, em relação ao alegado excesso de prazo na formação da culpa, apresentado o contexto de andamento da ação penal, não constato excesso de prazo na formação da culpa, ao contrário, percebo tramitação célere, com atuação presente e diligente do Juízo a quo, o qual recebeu a denúncia em 23/08/2024 (47.1).
+Assim, considerando que os prazos estabelecidos na legislação processual penal sequer são absolutos, devendo-se observar o critério da razoabilidade, ressalto minha compreensão de que não houve excesso na dilação temporal, estando todos os atos dentro dos limites procedimentais, especialmente diante do contexto apresentado.
+Por fim, tenho como correta a interpretação do Juízo originário, quanto à necessidade de manutenção da prisão preventiva do paciente, diante das circunstâncias específicas do caso, especialmente porque estão presentes os requisitos e a decisão que decretou a medida está devidamente fundamentada.
+Observada a situação acima e considerada a inexistência de qualquer ilegalidade na violação à liberdade de locomoção do paciente, concluo pela denegação da ordem de habeas corpus.
+Ante o exposto, voto por denegar a ordem de habeas corpus." (e-STJ, fls. 58-59; sem grifos no original)
+No tocante ao excesso de prazo para a formação da culpa, esta Quinta Turma possui orientação pacificada no sentido de que "o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade, não se ponderando a mera soma aritmética dos prazos para a realização dos atos processuais" (RHC 58.140/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/9/2015, DJe 30/9/2015; RHC 58.854/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2015, DJe 30/9/2015).
+Sob tal contexto, embora o recorrente esteja cautelarmente segregado há 7 meses, verifica-se que o processo segue trâmite regular. Conforme ressaltado pelo Parquet, "consta das informações que a audiência de instrução e julgamento ocorreu em 23/09/2024, bem como apresentados memoriais pelo Ministério Público. Sendo que, atualmente, aguarda-se pela apresentação de memoriais por parte da defesa para, após isso, ser prolatada a sentença (e-STJ fls.123/124). Desse modo, razão não há para alegação de excesso de prazo na a formação da culpa." (e-STJ, fl. 134 )
+Ademais, de acordo com informações extraídas do site do Tribunal de origem, observa-se que a defesa já apresentou alegações finais.
+No ponto, cumpre anotar que, o encerramento da instrução processual atrai a incidência da Súmula 52/STJ, que dispõe: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo". Sobre o tema, reporto-me aos seguintes precedentes desta Corte: RHC 82.215/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/05/2017, DJe 25/05/2017; RHC 77.699/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/04/2017, DJe 0 5/05/2017.
+Desse modo, por ora, não se identifica manifesto constrangimento ilegal imposto à recorrente passível de ser reparado por este Superior Tribunal, em razão do suposto excesso de prazo na custódia provisória.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
