@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por EDER FERNANDO DE MORAIS contra acórdão da 3ª Câmara Criminal do Tribunal de Justiça de Goiás, no HC n. 5796627-74.2024.8.09.0000, assim ementado:
+HABEAS CORPUS CRIMINAL. ESTELIONATO. TRANCAMENTO DA AÇÃO PENAL. NÃO CONHECIMENTO. DECADÊNCIA. AUSÊNCIA DE REPRESENTAÇÃO DA VÍTIMA. INDEFERIMENTO. FUNDAMENTOS DA PRISÃO PREVENTIVA. REVOGAÇÃO DA PRISÃO NO JUÍZO SINGULAR. ALVARÁ DE SOLTURA DEVIDAMENTE CUMPRIDO. PERDA DO OBJETO. PREJUDICIALIDADE.
+1. O trancamento da ação penal na via estreita do Habeas Corpus, é medida excepcional, e, na espécie, como já houve a conclusão do procedimento investigativo e oferecimento da denúncia, não há que se falar em trancamento do inquérito, porquanto, não se verifica ilegalidade a ensejar o trancamento da ação penal, que somente se faz viável, em sede de habeas corpus, quando prontamente desponta a inocência do acusado, a atipicidade da conduta ou se acha extinta a punibilidade, circunstâncias não demonstradas no caso.
+2. A prescindibilidade de formalidade para a representação da vítima em crimes de ação pública condicionada, permite que a demonstração do evidente interesse da vítima para ingressar em juízo, como a comunicação às autoridades policiais e o registro da ocorrência, seja suficiente para caracterizá-la. Precedentes: STJ.
+3. Sendo o paciente colocado em liberdade na origem, cessada está a coação ou constrangimento ilegal apontada na inicial, restando prejudicado o presente mandamus, em razão da perda de seu objeto. Inteligência do art. 659 do C.P.P. e do art. 159 do RITJGO.
+ORDEM PARCIALMENTE CONHECIDA E NESSA EXTENSÃO DENEGADA. QUANTO AO PEDIDO DE CONCESSÃO DA LIBERDADE, JULGO PREJUDICADO PELA PERDA DO OBJETO. (e-STJ, fls. 248-249)
+Em seu arrazoado, o recorrente aponta desatendimento ao disposto no art. 171, § 5º, do Código de Processo Penal. Alega que a pessoa nominada como vítima na representação criminal não era de fato a vítima do crime de estelionato. Sustenta, ainda, que o documento é apócrifo, isto é, não foi assinado.
+Pugna pelo trancamento da ação penal.
+Foram apresentadas contrarrazões (e-STJ, fls. 282-283), ratificando o parecer de fls. 198-207, e-STJ.
+O Ministério Público opinou pelo desprovimento do recurso (e-STJ, fls. 290-296).
+É o relatório.
+Decido.
+Nos termos do entendimento desta Corte Superior, a manifestação de vontade, condição específica de procedibilidade sem a qual é inviável a propositura do processo criminal na ação penal condicionada à representação, não exige maiores formalidades, sendo desnecessário que haja uma peça escrita nos autos do inquérito ou da ação penal com nomen iuris de representação, bastando que reste inequívoco o seu interesse na persecução penal.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AÇÃO PENAL. ESTELIONATO. TESE DE RETROATIVIDADE DO ART. 171, § 5º, DO CP. MANIFESTAÇÃO DA VÍTIMA NO SENTIDO DA PERSECUÇÃO PENAL. PRESTAÇÃO DE SERVIÇOS. PRETENSÃO DE SUBSTITUÇÃO POR MULTA. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Pleno do Supremo Tribunal Federal, no julgamento do AgRg no HC n. 208.817/RJ, afirmou a retroatividade do art. 171, § 5º, do CP aos processos em curso, mesmo após o recebimento da denúncia anterior à Lei n. 13.964/2019.
+2. A condenação da agravante é definitiva e o Tribunal a quo destacou o interesse da vítima na apuração do estelionato (registro do boletim de ocorrência e depoimento prestado na delegacia de polícia). Houve opção, em repartição policial, pela persecução penal.
+3. Conforme precedentes desta Corte, quando a legislação estipula como consequência de um crime, para fins de sua prevenção e repressão, tanto a multa quanto a prisão, não se mostra recomendável aplicar outra dívida de valor em substituição à pena privativa de liberdade. A opção das instâncias ordinárias pela prestação de serviços não irrazoável, a demandar correção em habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 858.117/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024; grifou-se.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ESTELIONATO. REPRESENTAÇÃO DA VÍTIMA. INEXISTÊNCIA DE FORMALIDADE ESPECIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acórdão atacado está de acordo com a jurisprudência desta Corte que não exige formalidade especial para a representação, sendo suficiente o registro de Boletim de Ocorrência na Delegacia de Polícia.
+2. Agravo regimental desprovido.
+(AgRg no RHC n. 191.790/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifou-se.)
+Tal entendimento é suficiente para rechaçar a alegação de nulidade da representação criminal pela ausência de assinatura da vítima, questão que inclusive não foi alvo de cognição pela Corte estadual.
+In casu, extrai-se do acórdão impugnado que, no dia 19/7/2024, "a vítima compareceu em delegacia para fazer o registro da ocorrência e, apesar de não expressar seu desejo de representação de forma formal, deixou claro seu interesse de iniciar a ação penal contra o Paciente" (e-STJ, fl. 253). Ainda nos termos do decisum, "ao contrário do alegado pela defesa, a exigência da representação da vítima já se encontra plenamente satisfeita, uma vez que o ofendido registrou o boletim de ocorrência, reportando o ocorrido à autoridade policial" (e-STJ, fl. 254).
+Em seu parecer, o Ministério Público de São Paulo também registrou que:
+não deve prosperar o argumento de ausência de representação da vítima Rogério Ribeiro Rosa, tendo em vista que foi esclarecido que no dia 19/07/2024, a vítima compareceu na delegacia relatando que o paciente foi até sua loja aos 12/07/2024 e adquiriu as baterias para caminhões, pagando no ato com um cheque falso (ideológica), em nome da empresa DECIO COM E SER RODOVIÁRIOS LTDA, preenchido no valor de R$ 3.000,00 (três mil reais), recebendo ainda R$280,00 (duzentos e oitenta reais) como troco, e informou que, no dia 15/07/2024, depositou a referida folha de cheque falsa (ideológica), o qual retornou aos 18/07/2024 com essa informação. Assim, no dia seguinte, a vítima Rogério Ribeiro Rosa compareceu à Delegacia e representou criminalmente em desfavor do paciente pela prática de estelionato, inclusive consta dos autos Termo de Representação  ..  (e-STJ, fl. 200)
+Vale registrar que a alegação de que a representação foi formulada por pessoa que não é a vítima de fato não foi alvo de enfrentamento pela Corte estadual porque não questionada na impetração originária. Ademais, o acolhimento dessa questão demandaria incursão em conteúdo fático-probatório dos autos, inviável na via do mandamus.
+Diante do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
