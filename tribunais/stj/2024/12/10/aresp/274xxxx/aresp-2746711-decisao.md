@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ROHTO-MENTHOLATUM DO BRASIL COMERCIO DE PRODUTOS PARA SAUDE LTDA, contra decisão que inadmitiu recurso especial fundamentado EXCLUSIVAMENTE na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/05/2024.
+Concluso ao gabinete em: 19/09/2024.
+Ação: obrigação de não fazer c/c indenização por danos materiais, ajuizada por ROHTO-MENTHOLATUM DO BRASIL COMERCIO DE PRODUTOS PARA SAUDE LTDA em face de CATHARINE HELLEN SOUSA LEAL CHOU, na qual alega que a requerida distribui, por meio de seu comércio eletrônico, produtos das marcas, cuja licença para importação foi concedida à autora pelas titulares da marca, em concorrência desleal. Requer decisão que obrigue o réu a não comercializar os produtos das marcas licenciadas bem como o pagamento de indenização por danos materiais, consubstanciado pelos lucros cessantes (e-STJ fl. 21-22).
+Sentença: julgou improcedentes os pedidos, fundamentando que "instada a especificar quais provas pretendia produzir, a autora limitou-se a requerer o julgamento antecipado do feito. Ausente comprovação de violação dos direitos marcários da requerente, também não vejo como reconhecer qualquer dano que possa ter sido causado à parte autora." (e-STJ fl. 151).
+Acórdão: negou provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 215):
+APELAÇÃO. OBRIGAÇÃO DE NÃO FAZER C. C. INDENIZAÇÃO POR DANOS MATERIAIS. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DESPROVIDO. Apelação. Obrigação de não fazer c. c. indenização por danos materiais. Sentença de improcedência. Insurgência da autora. CONCORRÊNCIA DESLEAL. PRÁTICA NÃO COMPROVADA. Alegada comercialização de cosméticos originais importados do Japão pela ré, violando o contrato de exclusividade firmado entre fabricante e autora. Discussão sobre concorrência desleal e não uso indevido de marca. Não incidência do art. 189, I, da LPI. Contrato de exclusividade que não impede a venda e distribuição dos produtos por outros canais até a data da assinatura. Ausente prova da afirmada importação paralela pela ré, ou de que os produtos expostos foram adquiridos após a celebração do contrato. Capturas de postagens em redes sociais que não demonstram a data da comercialização ou que os cosméticos são aqueles da lista de produtos exclusivos. Ônus da prova que cabia à autora. Art. 373, I, do CPC. Concorrência desleal não caracterizada. Sentença mantida. Recurso desprovido.
+Recurso especial: Alega violação do art. 373, I e II, do CPC; 129, 132, III e 195 da LPI e 225 do CC. Sustenta I) suficiência das provas para comprovar os fatos alegados na exordial; II) revelia da parte recorrida; e III) descumprimento DA LEI DE PROPRIEDADE INDUSTRIAL EM PARTICULAR QUANTO A CONCORRÊNCIA DESLEAL. (e-STJ fl. 239-240). Requer provimento do Recurso Especial e inversão do ônus sucumbencial.
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 373, II, do CPC; 129, 132, III e 195 da LPI e 225 do CC, indicados como violados, não tendo a parte recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+O TJ/SP ao analisar o recurso interposto por ROHTO-MENTHOLATUM DO BRASIL COMERCIO DE PRODUTOS PARA SAUDE LTDA, concluiu o seguinte (e-STJ fls. 221-222):
+A recorrente não provou que os cosméticos em questão foram importados paralelamente e nem que a alegada importação teria ocorrido após a celebração do contrato de exclusividade, sendo certo que produtos adquiridos do fabricante japonês até 31/12/2019 não violam a avença, nos termos do supracitado artigo 2.3.
+Quanto às telas encartadas fls. 57/65, não constam as datas das efetivas capturas, apenas o número total de semanas desde a publicação, descabida a presunção de que todas ocorreram à data de distribuição do processo. Assim, desnecessária a realização de cálculo retroativos das semanas, pois era ônus da apelante comprovar que as publicações foram feitas já durante a vigência do contrato de fornecimento exclusivo.
+Ademais, as imagens apresentadas têm baixa resolução e as embalagens dos produtos, à exceção das fls. 57 e 65, estão em língua japonesa, o que impede o cotejo com a lista de comercialização exclusiva de fl. 55. E, ainda que o produto "Skin Aqua Tone Up UV Essence Lavender SPF50 PA  " aparentemente conste do referido anexo A (pois não se fala especificamente de "Lavender", apenas de "Mint Green"), não restou demonstrada a sua efetiva comercialização pela ré a partir de 01/01/2020.
+Destarte, uma vez que a apelante não se desincumbiu do ônus de provar a alegada comercialização de produtos sobre os quais detém a exclusividade, nos termos do artigo 373, inciso I, do Código de Processo Civil, não se caracteriza a alegada prática de concorrência desleal.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de não fazer cumulada com indenização por danos materiais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
