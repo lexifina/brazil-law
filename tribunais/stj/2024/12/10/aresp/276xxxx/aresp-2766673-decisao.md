@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VIBRA ENERGIA S.A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÀO MONITORIA-ANTERIOR AJUIZAMENTO DE AÇÀO DE RESCISÃO CONTRATUAL - MESMO CONTRATO - CONEXÃO - RECONHECIMENTO. 1. SERÁO REUNIDOS PARA JULGAMENTO CONJUNTO OS PROCESSOS QUE POSSAM GERAR RISCO DE PROLAÇÀO DE DECISÕES CONFLITANTES OU CONTRADITÓRIAS CASO DECIDIDOS SEPARADAMENTE.
+Quanto à controvérsia, a parte recorrente alega violação do art. 55, caput e § 3º, do CPC, no que concerne à inexistência de conexão entre as lides, afastando a necessidade de julgamento conjunto das demandas, trazendo a seguinte argumentação:
+27. O Tribunal a quo negou provimento ao recurso de agravo de instrumento, por entender que há necessidade de julgamento conjunto das demandas, nos termos do art. 55, §3º, do CPC, diante do perigo de decisões conflitantes.
+28. Ocorre que não há mínima semelhança entre as causas de pedir ou os pedidos formulados nas demandas, tampouco qualquer risco de prolação de decisões conflitantes que pudesse minimamente justificar a reunião dos processos para julgamento conjunto.
+ ..
+30. Pois bem, tanto o MM. Juízo a quo, quanto o Tribunal de Justiça entenderam que a ação monitória de piso deve ser considerada conexa com o processo nº 5089526-17.2019.8.13.0024, que tem como objeto a rescisão das cláusulas contratuais, sob o fundamento de que há coligação entre os mesmos, bem como existir risco de prolação de decisões conflitantes, acolhendo o apontamento dos Recorridos de que o não pagamento dos débitos, discutidos nesta ação, possui ligação com a rescisão contratual pretendida na outra ação.
+31. Ocorre que, não há uma questão comum entre as duas demandas a ser decidida pelo d. juízo a quo capaz de ensejar a prolação de decisões conflitantes.
+32. Isso porque o objeto da presente ação monitória não é - e não poderia ser - a revisão de cláusulas contratuais ou qualquer outra questão relativa à rescisão dos contratos firmados entre as partes, mas apenas a pretensão de pagamento de débitos inadimplidos pelo Recorrido, dos quais inexiste alegação de pagamento, mas apenas alegações voltadas a aspectos cuja cognição é impertinente, já que em nenhum momento discute-se a natureza dos contratos entabulados entre os litigantes, tampouco sua rescisão.
+ ..
+34. Assim, enquanto na ação monitória se discute o não pagamento de duplicatas, na ação rescisória se discute o inadimplemento das obrigações contratuais, evidenciando de forma inequívoca que as demandas possuem apenas as mesmas partes, no entanto, é impossível que haja decisões conflitantes ou contraditórias entre elas, eis que se discutem coisas completamente distintas nas mesmas.
+35. Ademais, é de se destacar que as referidas demandas possuem pedidos completamente diferentes, sendo certo que a causa de pedir vinculada ao pedido formulado nos autos da presente ação monitória é a ausência de pagamento de débitos referentes ao fornecimento de produtos derivados de petróleo, cujo pagamento incontroversamente não foi realizado pelo Posto Recorrido (fls. 976-978).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Analisando-se os autos, verifica-se que a presente lide se trata de Ação Monitória, ajuizada em 11/12/2019 por PETROBRAS DISTRIBUIDORA S.A - BR em desfavor de POSTO VANORTE LTDA - ME, pleiteando a expedição e posterior conversão de mandado de pagamento em título judicial, na importância de R$ 1.169.620,56 (um milhão e cento e sessenta e nove mil e seiscentos e vinte reais e cinquenta e seis centavos), decorrentes de um do Contrato de Promessa de Compra e Venda Mercantil com Licença de Uso de Marca e Outros Pactos, negócio jurídico consubstanciado no fornecimento de produtos derivados do petróleo.
+Por outro lado, em 21/06/2019, foi ajuizada a ação 5089526- 17.2019.8.13.0024, por meio da qual POSTO VANORTE LTDA - ME pretende que sejam rescindidos contratos firmados com VIBRA ENERGIA S.A., incluindo-se o contrato discutido na presente demanda.
+Analisando-se os documentos dos autos, verifica-se que há necessidade de julgamento conjunto das demandas, nos termos do art.
+55, §3º, do CPC, diante há perigo de decisões conflitantes, tendo em vista que, na ação 5089526-17.2019.8.13.0024 há discussão sobre a legalidade das cláusulas do contrato que embasa a presente lide.
+ ..
+Portanto, verifica-se a identidade de relação jurídica a sustentar a prevenção, o que impõe que feitos devem ser reunidos para que tramitem conjuntamente, evitando-se, assim, julgamentos distintos (fls. 924-925).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
