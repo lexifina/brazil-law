@@ -40,6 +40,7 @@ Subseção II
 Da Autonomia Esportiva
 Subseção III
 (VETADO)
+Subseção III-A
 Dos Subsistemas Esportivos Privados
 Subseção IV
 Das Representações Olímpica e Paralímpica Brasileiras
