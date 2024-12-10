@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALLIED TECNOLOGIA S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. DIFAL. PRECEDENTE STF. DECISÃO MANTIDA.
+I. Trata-se de agravo de instrumento interposta por ALLIED TECNOLOGIA S. A. em face de decisão interlocutória proferida nos autos da Ação nº 0813824- 17.2022.8.18.0140 que move em face do ESTADO DO PIAUÍ.
+II. Nos termos do entendimento exarado pelo Ministro Relator na Ação Direta de Inconstitucionalidade 7.066/DF, do Supremo Tribunal Federal:
+"O Princípio da anterioridade previsto no art. 150, III, "b", da CF, protege o contribuinte contra intromissões e avanços do Fisco sobre o patrimônio privado, o que não ocorre no caso em debate, pois trata-se um tributo já existente (diferencial de alíquota de ICMS), sobre fato gerador antes já tributado (operações interestaduais destinadas a consumidor não contribuinte), por alíquota (final) inalterada, a ser pago pelo mesmo contribuinte, sem aumento do produto final arrecadado. Em momento algum houve agravamento da situação do contribuinte a exigir a incidência da garantia constitucional prevista no referido artigo 150, III, "b" da Constituição Federal, uma vez que, a nova norma jurídica não o prejudica, ou sequer o surpreende, como ocorre com a alteração na sujeição ativa do tributo promovida pela LC 190/2022 (EC 87/2015). A EC 87/2015 previu a progressiva substituição da incidência da alíquota interna pela soma da alíquota interestadual com o DIFAL, transferindo a receita dos Estados de origem para os Estados de destino, nessa modalidade de operação (art. 99 do ADCT). A disciplina do Convênio ICMS CONFAZ 93/2015 pretendeu alcançar o mesmo arranjo fiscal que, agora, a LC 190/2022 preservou, a fim de sanar o vício formal apontado pela CORTE no julgamento da ADI 5469, mas sem qualquer inovação relevante no tratamento da matéria. Além disso, a suspensão da incidência do DIFAL, mantida a incidência apenas da alíquota interestadual, seria inconsistente sob o ponto de vista de que essa tributação não ocorria assim antes da lei impugnada (ou da EC 87/2015), quando incidia a alíquota interna em favor do Estado de origem. Caso se entendesse que a nova sistemática de tributação não poderia ser exigida no presente exercício, como pretende a Requerente ABIMAQ, a solução adequada seria resgatar a sistemática anterior à EC 87/2015, e não aplicar parte da regulamentação que se reputa ineficaz, sob pena de, a pretexto de evitar majoração, causar decesso na arrecadação do tributo. Dessa maneira, em sede de cognição sumária, não se constata a presença do fumus boni juris a justificar a suspensão da eficácia da norma impugnada. Em relação ao pedido de medida cautelar formulado pelos Estados de Alagoas e Ceará quanto ao art. 3º da LC 190/2022, no que faz referência ao art. 150, III, "c", da CF, deve-se reconhecer que o decurso de mais de 90 dias desde a edição da norma descaracteriza a presença do requisito do periculum in mora, necessário para a apreciação desse pedido em sede provisória."
+III. Considerando o atual entendimento do Supremo Tribunal Federal, resta patente a inexistência do fumus boni iuris, sendo necessário esclarecer que a ausência de tal pressuposto, por si só, já inviabiliza a concessão da medida vindicada.
+IV. Agravo de Instrumento conhecido e improvido.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, o recorrente interpôs o presente recurso especial, apontando violação aos arts. 1.022, II, e 489, §1º, IV, do CPC.
+Sustenta, em síntese, que o acórdão recorrido não possui fundamentação adequada, pois não enfrentou todos os argumentos relevantes apresentados nos embargos de declaração, especialmente aqueles relacionados à análise do direito subjetivo de realizar depósitos judiciais como forma de suspensão da exigibilidade do crédito tributário.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Em relação à indicada violação dos arts. 489 e 1.022, do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja, o pedido de depósitos judiciais como forma de suspensão da exigibilidade do crédito tributário, tendo o julgador abordado a questão com fundamentação adequada, consignando que:
+(..)
+A insurgência do embargante é acerca do pedido de autorização para realização dos depósitos judiciais de créditos de DIFAL e FECP sobre operações de venda e remessa interestaduais de mercadorias praticadas pela Embargante.
+Conforme fundamentado anteriormente, no entanto, destaco decisão proferida pelo Supremo Tribunal Federal, relatada pelo Ministro Alexandre de Moraes, nos autos da ADI 7066/DF:
+(..)
+Por oportuno, mais uma vez registro, a Lei Complementar nº 190/2022 não criou imposto e não implicou aumento da carga tributária atrelada ao ICMS, a aplicação imediata das suas regras legais, a partir da data da sua publicação, não significa violação às regras das anterioridades anual e nonagesimal.
+Portanto, o que houve foi entendimento diferente do entendimento do embargante, o que não caracteriza qualquer omissão a ser sanada via embargos de declaração.
+(..)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação dos arts. 489 e 1.022, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. CUMULAÇÃO DAS OBRIGAÇÕES DE INDENIZAR E DE REPARAR DANO AMBIENTAL. CABIMENTO. SÚMULA 629/STJ. REVISÃO DOS PARÂMETROS DE DEFINIÇÃO DO VALOR INDENIZÁVEL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDÊNCIA DO PIS E COFINS. ZONA FRANCA DE MANAUS. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+ ..
+2. Não configurada a violação apontada ao art. 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque a Corte de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum a quo.
+ ..
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
