@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de ALESSANDRO DOMICIANO SILVA - condenado pela prática de tráfico ilícito de entorpecentes -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação n. 0243070-12.2022.8.19.0001), não comporta acolhimento.
+Pretende a impetrante, em suma, seja aplicada a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 ao argumento de que o paciente agiu apenas na condição de mula e a jurisprudência do Superior Tribunal de Justiça entende que a quantidade de droga apreendida, por si só, não indica a integração ou a dedicação a atividades criminosas, tornando possível a aplicação do benefício (fl. 6), bem como de que, tendo a arma de fogo encontrada com o réu sido considerada como conduta autônoma, afigura-se ilegal a dupla valoração de tal circunstância para afastar o tráfico privilegiado (fl. 9).
+Prestadas as informações (fls. 84/90), o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 95/100).
+É o relatório.
+De início, observo ser inviável a impetração do writ como forma de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias.
+Ademais, na hipótese, inexiste constrangimento ilegal manifesto capaz de justificar o excepcional conhecimento do writ, porquanto, como bem asseverou o Parquet Federal, tendo em vista a quantidade de droga apreendida (6,430 kg de maconha), bem como a apreensão de uma arma de fogo com 17 cartuchos e 18 munições extras, tem-se por devidamente fundamentada a decisão que afastou a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/06, visto que "a jurisprudência desta Corte Superior é no sentido da possibilidade da valoração da apreensão de arma de fogo, no mesmo contexto do tráfico, como fundamento indicativo de dedicação do réu à atividade criminosa, o que afasta a aplicação da minorante" (AgRg nos EDcl no AREsp, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, Julgamento em 15/8/2023, Publicação DJe em 22/8/2023) - (fls. 99/100 - grifo nosso).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA DA PENA. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. INCIDÊNCIA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
