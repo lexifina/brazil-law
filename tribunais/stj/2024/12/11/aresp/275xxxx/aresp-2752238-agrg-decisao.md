@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por WELLIGTON CAMILO DE MELO SILVA, contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial (e-STJ fls. 448/450).
+Em seu agravo regimental (e-STJ fls. 458/463), a parte recorrente alega a redução da pena-base, tendo em vista a ausência de fundamentação idônea para a exasperação, no tocante ao desvalor das circunstâncias do crime.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Segundo o artigo 12 da Lei nº 10.826/03, configura crime a conduta de possuir ou manter sob sua guarda arma de fogo, acessório ou munição, de uso permitido, em desacordo com determinação legal ou regulamentar, no interior de sua residência ou dependência desta, ou, ainda no seu local de trabalho, desde que seja o titular ou o responsável legal do estabelecimento ou empresa.
+As circunstâncias do crime como circunstância judicial referem-se à maior ou menor gravidade do crime em razão do modus operandi. No presente caso, como sustentado pela defesa, não se constata a existência de fundamentação concreta e idônea, a qual efetivamente evidenciou aspectos mais reprováveis do modus operandi delitivo, uma vez que o fato do acusado guardar a arma de fogo e a munição no interior da residência em que morava com sua namorada está dentro do tipo penal em análise.
+Assim, mantidos os critérios da Corte de origem, reduzida a pena-base ao mínimo legal e compensada a agravante da reincidência com a atenuante da confissão, fica a reprimenda definitiva em 1 ano de detenção e pagamento de 10 dias-multa.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 448/450 e, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial para redimensionar a reprimenda do acusado para 1 ano de detenção e pagamento de 10 dias-multa, mantidos os demais termos da condenação.
+Intimem-se.
+EMENTA
