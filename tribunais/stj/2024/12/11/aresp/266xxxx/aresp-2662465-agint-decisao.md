@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão de fls. 202-203.
+Em suas razões de agravo interno, alegam que "demonstraram o manejo do reclamo por violação à lei federal e não divergência jurisprudencial, não havendo, portanto, como atender ao art. 1029, § 1º CPC e art. 255, §1º RISTJ" (fl. 209), razão pela qual entendem não prosperar o não conhecimento do recurso especial pela ausência de demonstração do dissídio jurisprudencial.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Em melhor análise, observa-se que a argumentação apresentada pelas partes agravantes merecem acolhida, razão pela qual reconsidero a decisão de fls. 202-203 e procedo novo exame da questão.
+Tendo as partes insurgentes impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No recurso especial, os recorrentes alegam violação do artigo 1.022, incisos I e II, do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito da distinção entre o cumprimento de sentença contra a Fazenda Pública e o cumprimento de sentença contra particulares para fins de fixação de honorários em sede de rejeição de impugnação (fl. 121).
+Quanto à questão de fundo, sustentam ofensa aos artigos 85, §§ 1º e 7º, e 535, §§ 3º e 4º, do CPC/2015, sob o argumento de que "o recorrido impugnou o cumprimento de sentença, e houve a sua rejeição. Logo, ele não se insere na exceção do § 7º, mas sim na regra do § 1º" (fl. 118).
+Alegam que "tanto a Súmula 519/STJ, quanto o Tema 408, que assentam não serem cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença, não se aplicam ao caso dos autos, isto porque não veiculam a hipótese de execução contra a Fazenda Pública, que tem regramento específico (art. 85, §7º do CPC)" (fl. 119).
+Pois bem, no que diz respeito à violação aos artigos 85, §§ 1º e 7º, e 535, §§ 3º e 4º, do CPC/2015, evidencia-se que houve negativa de seguimento do recurso em razão da conformidade do acórdão com a orientação firmada pelo Superior Tribunal de Justiça (Súmula n. 519/STJ), sendo descabida, portanto, nova discussão do tema.
+Quanto à questão remanescente, afasta-se a violação ao artigo 1.022, incisos I e II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que a Corte de origem expressamente menciona as razões pelas quais se afastou a condenação ao pagamento dos honorários advocatícios em sede de impugnação ao cumprimento de sentença, conforme se extrai do acórdão recorrido (fls. 77-79):
+Por fim, pretende o DER afastar a condenação ao pagamento dos honorários advocatícios em razão da rejeição da impugnação. Neste ponto, assiste razão à agravante.
+Tratando-se de Cumprimento de Sentença Contra a Fazenda Pública para pagamento de quantia certa, imperioso se faz observar as regras previstas nos artigos 534 e 535 do Código de Processo Civil, que determinam a intimação para impugnar a execução no prazo de 30 (trinta) dias e não para o pagamento voluntário da quantia exigida, sendo certo que as disposições dos §§ 3º e 4º do art. 535 do Código de Processo Civil não deixam dúvida quanto à inaplicabilidade das regras gerais.
+Tem-se que os honorários advocatícios somente serão devidos em caso de acolhimento (total ou parcial) da impugnação apresentada pela Fazenda Pública, e não na hipótese de sua rejeição, consoante se depreende da Súmula nº 519 do C. Superior Tribunal de Justiça: "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios", aplicável ao caso dos autos.
+Sobra a aplicação da mencionada Súmula 519/STJ  ..
+ ..
+Dessa forma, merece parcial reforma a decisão guerreada que ao rejeitar impugnação fixou honorários advocatícios, o que deve ser afastado.
+Isto colocado, pelo meu voto, DÁ-SE PARCIAL PROVIMENTO ao recurso de agravo, apenas para excluir a condenação ao pagamento de verba honorária, mantendo-se a decisão no que concerne a rejeição dos cálculos apresentados pela executada. (grifo nosso).
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Ante o exposto, dou provimento ao agravo interno para, exercendo o juízo de retratação, tornar sem efeito a decisão de fls. 202-203 (art. 259, § 6º do RISTJ, combinado com o § 2º do artigo 1.021 do CPC/2015), e, com fundamento no art. 932, III, IV, V do CPC/2015, combinado com o art. 34, XVIII, "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
