@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ALEX RAVEL SILVA DA SILVA contra acórdão prolatado pela Seção de Direito Penal do Tribunal de Justiça do Estado do Pará.
+Consta dos autos que o recorrente foi denunciado nas sanções do art. 121, § 2º, incisos I, IV e VII c.c. o art. 29, caput, ambos do Código Penal, por ter, no dia 13/5/2022, participado do homicídio do qual foi vítima Valmir Soares da Silva. A denúncia foi recebida (e-STJ, fls. 17-21).
+Irresignada, a Defesa impetrou habeas corpus perante a Corte estadual, tendo sido a ordem denegada. Eis a ementa:
+Ementa: Direito Penal e Processual Penal. Habeas Corpus. Trancamento de Ação Penal. Alegação de nulidade de provas obtidas por acesso não autorizado ao celular de corréu. Prova material (pix) questionada. Ausência de justa causa para a ação penal. Incompatibilidade com a via estreita do habeas corpus. Ausência de ilegalidade manifesta. Ordem denegada.
+I. Caso em exame
+1. Trata-se de habeas corpus impetrado em favor de Alex Ravel Silva da Silva, denunciado pelo crime de homicídio qualificado (art. 121, §2º, incisos I, IV e VII, do CP) como mentor intelectual, com base em provas obtidas no celular do corréu e comprovante de transferência bancária (pix).
+II. Questão em discussão
+2. A defesa sustenta a nulidade das provas obtidas por meio de acesso ao celular do corréu sem autorização judicial e a ausência de nexo causal entre o comprovante de pix e o crime de homicídio, requerendo o trancamento da ação penal por falta de justa causa.
+III. Razões de decidir
+3. O trancamento da ação penal pela via do habeas corpus é medida excepcional, cabível apenas quando evidente a atipicidade da conduta, a extinção da punibilidade ou a falta de justa causa manifesta.
+4. A matéria exige dilação probatória, sendo incompatível com a via eleita do habeas corpus. Não há, nos autos, ilegalidade ou provas manifestamente ilícitas que justifiquem o trancamento da ação penal.
+5. A denúncia está devidamente fundamentada, sendo o acesso ao celular realizado com a colaboração do corréu e diante de fundada suspeita, não configurando violação de direitos.
+IV. Dispositivo e tese
+6. Ordem denegada.
+Tese de julgamento: "O trancamento de ação penal pelo habeas corpus é medida excepcional, cabível apenas quando evidente a ausência de justa causa ou (e-STJ, fl. 136)
+Neste recurso, o recorrente, em síntese, sustenta a ausência de justa causa para a deflagração da ação penal.
+Alega a nulidade das provas colhidas no aparelho celular do corréu, colhidas em "entrevista informal" em que foi franqueado o acesso aos policiais. Tais provas indicariam a suposta participação do recorrente no crime e teriam embasado a denúncia.
+Pugna, ao final, pelo provimento do recurso para o trancamento da ação penal tendo em vista a nulidade das provas obtidas no celular do corréu.
+É o relatório.
+Decido.
+Sem razão a defesa.
+Cabe destacar que é consolidado na jurisprudência desta Casa o entendimento de que o trancamento de ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+Com efeito, acerca da controvérsia, a Quinta Turma desta Corte já se posicionou no sentido de que "os dados constantes de aparelho celular obtidos por órgão investigativo - mensagens e conversas por meio de programas ou aplicativos (WhatsApp) - somente são admitidos como prova lícita no processo penal quando há precedente mandado de busca e apreensão expedido por juiz competente ou quando há autorização voluntária de interlocutor da conversa." (AgRg no HC n. 646.771/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 10/8/2021, DJe de 13/8/2021).
+Segundo narra a denúncia, o corréu "EDIPO MULLER BARROS DA SILVA foi parado em um bloqueio policial e ele foi encaminhado para delegacia para prestar depoimento. Em interrogatório informal e após ele ter franqueado acesso pelos policiais ao seu aparelho celular, foi constatado que ele recebeu uma transferência via "pix" no valor de R$ 500,00 da conta bancária de ALEX RAVEL SILVA DA SILVA logo após o momento de execução do homicídio." (e-STJ, fl. 45).
+Ao analisar a questão, o Tribunal a quo destacou não estar configurada, em análise preambular, a ilegalidade do acesso ao aparelho celular do corréu, acrescentando que "a tese levantada pela defesa exige dilação probatória para sua constatação." (e-STJ, fl. 142).
+No caso concreto, no que se refere à alegada nulidade pela obtenção de provas contidas no aparelho celular do corréu, conforme decidido pela Corte estadual, entendo não ser possível ao Superior Tribunal de Justiça, nesta fase da persecução penal, debruçar-se sobre questão de natureza probatória antes dos pronunciamentos definitivos das instâncias ordinárias, competentes para examiná-las com profundidade, a fim de que delineiem os fatos para futuro exame do Tribunal. Eventual análise antecipada desta Corte implicaria indevi da supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE REVISÃO CRIMINAL. NÃO INDICAÇÃO DE HIPÓTESE PREVISTA NO ART. 621 DO CPP. INADMISSIBILIDADE. CONCESSÃO DA ORDEM DE OFÍCIO. IMPOSSIBILIDADE. NULIDADE. ACESSO A MENSAGENS DE CELULAR. CONTEÚDO FRANQUEADO PELO PROPRIETÁRIO. VALIDADE DO CONSENTIMENTO. MATÉRIA NÃO DEBATIDA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. PRETENSÃO DE ABSOLVIÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. No caso, como não existe no STJ julgamento de mérito passível de revisão relativamente à condenação definitiva sofrida pelo paciente, deve-se reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+2. Consoante jurisprudência desta Corte Superior, o não cabimento da impetração substitutiva de revisão criminal é reforçado quando a defesa não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso. Afasta-se ainda a possibilidade de conceder a ordem de ofício.
+3. De acordo com o entendimento deste Superior Tribunal, "é ilícita a devassa de dados, bem como das conversas de Whatsapp, obtidas diretamente pela polícia em celular apreendido no flagrante, sem prévia autorização judicial" (REsp n. 1.675.501/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 27/10/2017).
+4. Por ocasião do julgamento do RHC n. 51.531/RO (Rel. Ministro Nefi Cordeiro, 6ª T., DJe 9/5/2016), precedente paradigmático quanto ao tema, esta Sexta Turma enfatizou a necessidade de uma análise casuística, ante a impossibilidade de esgotar-se a complexidade do tema em um único julgado.
+5. No caso, ficou comprovada nos autos a anuência do proprietário para o manuseio de seu aparelho celular, pois o corréu Douglas autorizou o acesso aos dados de forma voluntária.
+6. Eventual vício no consentimento não foi debatido no acórdão recorrido, o que impede o exame direto por esta Corte, sob pena de indevida supressão de instância.
+7. "A hipótese de insuficiência ou fragilidade do arcabouço probatório não encontra respaldo em nenhuma das hipóteses legais de cabimento da revisão criminal, previstas nos incisos do art. 621 do Código de Processo Penal - CPP" (AgRg no REsp n. 2.004.958/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+8. Com base nas provas dos autos - imagens, vídeos e conversas entre os membros da organização criminosa sobre diversos crimes de furtos e roubos de veículos -, o Tribunal de origem entendeu pela condenação do réu. Alterar a referida conclusão demandaria reexame de fatos e provas, providência não admitida em habeas corpus.
+9. Agravo regimental não provido.
+(AgRg no HC n. 905.413/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024, grifou-se.)
+Por fim, tendo as instâncias ordinárias concluído por haver indícios suficientes da autoria, reconhecendo a justa causa para o oferecimento da denúncia e seu recebimento, não se mostra viável rever tal entendimento na via eleita, por demandar revolvimento do acervo fático-probatório.
+Vale mencionar os elementos de provas contidos na denúncia, dando conta de que o ora recorrente "é membro da Facção criminosa "Comando Vermelho" e possui cargo relevante nos bairros da Pratinha e do Tapanã, tendo posição de liderança em relação à EDIPO MULLER", bem como que "a transferência via "pix" no valor de R$ 500,00 efetuada por ALEX RAVEL SILVA DA SILVA, logo após o homicídio da vítima, simboliza o pagamento a EDIPO MULLER por ter dado fuga aos executores do ofendido." (e-STJ, fl. 46).
+Ante o exposto, indefiro liminarmente o recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
