@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por NAIR NOGUEIRA DOS SANTOS NETTO à decisão de fls. 1145/1146, que não conheceu do recurso.
+Sustenta a parte embargante:
+Ocorre que o Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), por meio da Portaria Conjunta 54/2024, suspendeu o expediente da Secretaria e dos Ofícios Judiciais do Distrito Federal e dos Territórios no dia 31 de maio de 2024 (sexta-feira após o feriado de Corpus Christi), e tal norma estabeleceu, que os prazos que deviam iniciar ou acabar no referido dia, ficaram prorrogados para o primeiro dia útil subsequente, conforme documento anexo.
+Portanto, o dia 24 de junho de 2024, é manifestamente tempestivo para o aludido Recurso Especial.
+Assim sendo, requer que sejam recebidos e providos os presentes Embargos de Declaração, pugnando pela reconsideração do R. Despacho/Decisão nº 240, e pelo prosseguimento do feito, por ser melhor forma de Direito e estar fielmente aplicando Justiça (fl. 1150).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 8.8.2018; AgInt nos EDcl no AREsp 1421854/RJ, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 3.6.2019.
+Ressalte-se que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 662/1949 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro.
+Além desses, são considerados feriados forenses, o Dia da Justiça (8 de dezembro) e a terça de carnaval, elencados na Lei nº 1.408/1951.
+No caso, a segunda-feira de carnaval, a Quarta-Feira de Cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal (AgInt no AREsp n. 2.493.227/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 15.5.2024; AgInt nos EDcl no AREsp n. 1.759.735/SC, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe de 13.5.2024; e, AgInt no AREsp n. 2.398.408/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 2.5.2024.).
+É certo que o feriado nacional não precisa ser comprovado. Porém, os dias 30 e 31.5.2024 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC (redação anterior à Lei n. 14.939/2024).
+Com isso, os documentos apresentados com os presentes Embargos de Declaração não podem ser conhecidos, em razão da preclusão.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman B enjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
