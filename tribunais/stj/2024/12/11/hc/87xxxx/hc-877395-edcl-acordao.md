@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2024 a 11/12/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PROCESSUAL  PENAL.  ART.  619  DO  CÓDIGO  DE  PROCESSO  PENAL.  OMISSÃO  INEXISTENTE.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Consoante  o  disposto  no  art.  619  do  Código  de  Processo  Penal,  os  embargos  de  declaração  destinam-se  a  sanar  ambiguidade,  suprir  omissão,  afastar  obscuridade  ou  eliminar  contradição  eventualmente  existentes  no  julgado,  o  que  não  se  verificou  na  hipótese.
+2.  É  incabível,  na  via  dos  aclaratórios,  a  rediscussão  de  matéria  devidamente  apreciada  e  decidida  no  decisum  embargado.
+3.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  EDILSON  JANUARIO  DOS  SANTOS  ao  acórdão  proferido  pela  Sexta  Turma  desta  Corte  assim  ementado  (fl.  221):
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PROCESSUAL  PENAL.  HOMICÍDIO  QUALIFICADO  E  RESISTÊNCIA.  PRISÃO  PREVENTIVA.  REQUISITOS.  GRAVIDADE  CONCRETA  DOS  FATOS.  MODUS  OPERANDI.  AMEAÇA  ÀS  TESTEMUNHAS.  FUNDADO  RECEIO  DE  REITERAÇÃO  DELITIVA.  FUNDAMENTAÇÃO  IDÔNEA.  CONTEMPORANEIDADE.  MEDIDAS  CAUTELARES  DIVERSAS.  INSUFICIÊNCIA,  NA  HIPÓTESE.  PRISÃO  DOMICILIAR.  PRETENSÃO  DEFERIDA  NA  ORIGEM.  PREJUDICIALIDADE.  AGRAVO  REGIMENTAL  PARCIALMENTE  PREJUDICADO  E,  NO  MAIS,  NÃO  PROVIDO.
+1.  A  prisão  preventiva  está  devidamente  fundamentada,  pois,  consoante  afirmado  pelas  instâncias  ordinárias,  o  agravante  supostamente  envolveu-se  em  uma  discussão  em  um  bar  e  desferiu  golpes  de  facão  na  cabeça  da  vítima.  O  Magistrado  singular  destacou  que  o  réu  teria  ameaçado  os  policiais  que  atenderam  a  ocorrência  e  as  demais  pessoas  presentes  no  local.  Por  fim,  foi  ressaltada  a  suposta  prática  de  novo  delito  contra  a  vida  pelo  acusado.  Tais  circunstância,  nos  termos  da  jurisprudência  desta  Corte,  são  aptas  a  justificar  a  segregação  cautelar  para  a  garantia  da  ordem  pública  e  a  conveniência  da  instrução  criminal.  Precedentes.
+2.  O  exame  da  existência  de  contemporaneidade  é  realizado  não  apenas  com  relação  ao  tempo  entre  os  fatos  e  o  decreto  de  prisão  preventiva,  mas  também  na  necessidade  da  segregação  e  na  permanência  dos  requisitos  de  cautelaridade  .  (AgRg  no  RHC  n.  169.803/ES,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  13/02/2023,  DJe  de  22/02/2023).
+3.  Na  hipótese,  constata-se  a  atualidade  nos  fundamentos  da  prisão  preventiva,  pois  a  segregação  foi  decretada  com  a  superveniência  de  novo  delito  contra  a  vida,  supostamente  praticado  pelo  agravante,  a  indicar  a  permanência  dos  riscos  advindos  de  sua  liberdade,  sobretudo  diante  das  ameaças  por  ele,  em  tese,  proferidas  contra  a  vítima  sobrevivente  e  as  testemunhas.
+4.  Tendo  sido  concretamente  demonstrada  a  necessidade  da  prisão  preventiva  nos  autos,  não  se  apresenta  suficiente  a  aplicação  de  medidas  cautelares  mais  brandas,  nos  termos  do  art.  282,  inciso  II,  do  Código  de  Processo  Penal.
+5.  Deferido  o  pleito  de  prisão  domiciliar  pelo  Juízo  de  primeira  instância,  evidencia-se  a  prejudicialidade  desta  insurgência,  no  ponto.
+6.  Agravo  regimental  parcialmente  prejudicado  e,  no  mais,  não  provido.
+Em  suas  razões,  o  embargante  sustenta  que  não  teria  sido  examinado  no  acórdão  atacado  o  argumento  de  que,  no  novo  processo  pelo  qual  responde,  sua  prisão  preventiva  foi  indeferida  por  três  vezes,  por  entender  o  Juízo  processante  não  estar  presente  o  periculum  libertatis.
+Argumenta  que
+  o  acórdão  embargado  não  se  ateve  a  todos  os  argumentos  apresentados,  muito  embora  fossem  evidentemente  capazes  de,  em  tese,  infirmar  as  conclusões  adotadas,  ao  que  resta  presente  a  violação  ao  disposto  no  inc.  IV  do  §2º  do  art.  315  do  CPP  (fl.  239).
+Requer,  desse  modo,  o  acolhimento  presentes  declaratórios,  com  efeitos  infringentes.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PROCESSUAL  PENAL.  ART.  619  DO  CÓDIGO  DE  PROCESSO  PENAL.  OMISSÃO  INEXISTENTE.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Consoante  o  disposto  no  art.  619  do  Código  de  Processo  Penal,  os  embargos  de  declaração  destinam-se  a  sanar  ambiguidade,  suprir  omissão,  afastar  obscuridade  ou  eliminar  contradição  eventualmente  existentes  no  julgado,  o  que  não  se  verificou  na  hipótese.
+2.  É  incabível,  na  via  dos  aclaratórios,  a  rediscussão  de  matéria  devidamente  apreciada  e  decidida  no  decisum  embargado.
+3.  Embargos  de  declaração  rejeitados.
+VOTO
+Consoante  o  disposto  no  art.  619  do  Código  de  Processo  Penal,  os  embargos  de  declaração  destinam-se  a  suprir  eventual  omissão,  afastar  obscuridade,  eliminar  contradição  ou  ambiguidade  existentes  no  julgado.
+No  caso,  vê-se  que  a  quaestio  juris  foi  solucionada  no  acórdão  embargado  em  consonância  com  a  legislação  pertinente  e  com  a  orientação  jurisprudencial  desta  Corte.
+Vê-se,  portanto,  que  os  presentes  embargos  de  declaração  revelam  mero  inconformismo  do  embargante,  tendo  sido  opostos  com  o  manifesto  propósito  de  promover  a  rediscussão  de  matéria  devidamente  apreciada  e  já  decidida,  o  que  evidentemente  não  corresponde  à  finalidade  desse  recurso.
+A propósito:
+PROCESSO  PENAL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS  E  ASSOCIAÇÃO  AO  TRÁFICO.  OMISSÃO  E  CONTRADIÇÃO.  MERA  PRETENSÃO  DE  REVISÃO  DO  JULGADO.  IMPOSSIBILIDADE.  EMBARGOS  REJEITADOS.
+1.  Nos  termos  do  art.  619  do  Código  de  Processo  Penal,  os  embargos  de  declaração,  como  recurso  de  correção,  destinam-se  a  suprir  omissão,  contradição  e  ambiguidade  ou  obscuridade  existente  no  julgado.  Não  se  prestam,  portanto,  para  sua  revisão  no  caso  de  mero  inconformismo  da  parte.
+2.  Como  se  sabe,  "o  julgador  não  está  obrigado  a  responder  a  todas  as  questões  suscitadas  pelas  partes,  quando  já  tenha  encontrado  motivo  suficiente  para  proferir  a  decisão".  (EDcl  no  MS  21.315/DF,  Rel.  Ministra  DIVA  MALERBI  (DESEMBARGADORA  CONVOCADA  TRF  3ª  REGIÃO),  PRIMEIRA  SEÇÃO,  julgado  em  8/6/2016,  DJe  15/6/2016).
+3.  Embargos  de  declaração  rejeitados.
+(EDcl  no  AgRg  no  AREsp  n.  2.209.206/SP,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  0  2/04/2024,  REPDJe  de  0  7/05/2024,  DJe  de  16/04/2024).
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO  E  CONTRADIÇÃO.  NÃO  OCORRÊNCIA.  MERA  IRRESIGNAÇÃO.  EMBARGOS  DECLARATÓRIOS  REJEITADOS.
+1.  Não  há  nenhum  fundamento  que  justifique  a  oposição  do  reclamo  declaratório,  que  se  presta  tão  somente  a  sanar  um  dos  vícios  previstos  no  art.  619  do  Código  de  Processo  Penal  no  acórdão  combatido  e  são  inadmissíveis  quando,  a  pretexto  da  necessidade  de  esclarecimento,  aprimoramento  ou  complemento  da  decisão  embargada,  objetivam  novo  julgamento  do  caso.
+2.  Esta  Corte  é  firme  em  salientar  que  "a  contradição  passível  de  ser  sanada  na  via  dos  embargos  declaratórios  é  a  contradição  interna,  entendida  como  ilogicidade  ou  incoerência  existente  entre  os  fundamentos  e  o  dispositivo  do  julgado  em  si  mesmo  considerado,  e  não  a  contradição  externa,  relativa  à  incompatibilidade  do  julgado  com  tese,  lei  ou  precedente  tido  pelo  Embargante  como  correto".  (EDcl  no  AgRg  no  HC  n.  827.911/SP,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  19/09/2023,  DJe  de  25/09/2023).
+3.  Embargos  de  declaração  rejeitados.
+(EDcl  no  AgRg  no  AREsp  n.  2.101.569/PA,  relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  23/04/2024,  DJe  de  30/04/2024).
+Saliento,  ainda,  que  não  incumbe  ao  Superior  Tribunal  de  Justiça,  nem  mesmo  para  fins  de  prequestionamento,  examinar  supostas  ofensas  a  dispositivos  constitucionais,  sob  pena  de  usurpação  da  competência  atribuída  pela  Constituição  da  República  ao  Supremo  Tribunal  Federal.
+Ilustrativamente:
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  REGIMENTAL  NO  RECURSO  EM  HABEAS  CORPUS.  ARMAZENAMENTO  DE  ALIMENTOS  EM  CONDIÇÕES  IMPRÓPRIAS  PARA  CONSUMO.  LAUDO  PERICIAL.  NECESSIDADE.  OMISSÃO.  NÃO  OCORRÊNCIA.  PREQUESTIONAMENTO.  EXAME  DE  MATÉRIA  CONSTITUCIONAL.  INVIABILIDADE.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Os  embargos  de  declaração  são  cabíveis  somente  nas  hipóteses  de  ambiguidade,  obscuridade,  contradição  ou  omissão  ocorridas  no  acórdão  embargado  e  são  inadmissíveis  quando,  a  pretexto  da  necessidade  de  esclarecimento,  aprimoramento  ou  complemento  da  decisão  embargada,  objetivam  novo  julgamento  do  caso.
+2.  Apenas  excepcionalmente,  quando  constatada  a  necessidade  de  mudança  no  resultado  do  julgamento  em  decorrência  do  próprio  reconhecimento  da  existência  de  algum  desses  vícios,  é  que  se  descortina  a  possibilidade  de  emprestarem-se  efeitos  infringentes  aos  aclaratórios.
+3.  Na  espécie,  ficou  devidamente  explicitado  que,  em  caso  como  o  dos  autos,  no  qual  há  imputação  da  prática  do  crime  previsto  no  art.  7º,  IX,  da  Lei  n.  8.137/1990,  a  produção  de  laudo  pericial  é  imprescindível  para  a  comprovação  da  materialidade  delitiva,  nos  termos  da  pacífica  orientação  deste  Superior  Tribunal.
+4.  É  inviável  que  esta  Corte  examine  supostas  violações  de  dispositivos  constitucionais,  nem  sequer  para  fins  de  prequestionamento,  por  ser  matéria  reservada  ao  Supremo  Tribunal  Federal,  nos  termos  do  art.  102,  III,  da  Constituição  Federal.
+5.  Embargos  de  declaração  rejeitados.
+(EDcl  no  AgRg  no  RHC  n.  128.525/RJ,  relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  19/04/2022,  DJe  de  25/04/2022;  grifamos).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
