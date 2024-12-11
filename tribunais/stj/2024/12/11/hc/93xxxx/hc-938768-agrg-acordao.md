@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2024 a 11/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  FURTO  (ARTIGO  155,  CAPUT,  DO  CÓDIGO  PENAL).  PRINCÍPIO  DA  INSIGNIFICÂNCIA.  IMPOSSIBILIDADE.  VÁRIOS  REGISTROS  EM  CRIMES  CONTRA  O  PATRIMÔNIO.  PRECEDENTES  DO  STJ.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Para  a  aplicação  do  princípio  da  bagatela,  é  necessário  considerar  algumas  condições,  tais  como  (a)  mínima  ofensividade  da  conduta  do  agente,  (b)  ausência  de  periculosidade  social  da  ação,  (c)  baixo  grau  de  reprovabilidade  do  comportamento  e  (d)  inexpressividade  da  lesão  jurídica  provocada  (STF:  HC  n.  84.412,  rel.  Min.  Celso  de  Mello,  publicado  no  DJe  de  02/08/2004 - STJ:  AgRg  no  HC  n.  543.291/ES,  rel.  Min.  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  06/02/2020,  DJe  de  12/02/2020).
+2.  A  jurisprudência  desta  Corte  tem  rechaçado  a  aplicação  do  princípio  da  insignificância  ao  crime  de  furto  quando  o  agente  for  reincidente  ou  portador  de  maus  antecedentes  em  razão  da  maior  ofensividade  e  reprovabilidade  da  conduta  (AgRg  no  AgRg  no  AREsp  n.  2.250.234/MG,  rel.  Min.  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  25/04/2023,  DJe  de  28/04/2023).
+3.  Agravo  regimental  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  no  habeas  corpus  interposto  por  EDEMILSO NUNES  contra  a  decisão,  por  mim  proferida,  não  conheceu  do  habeas  corpus  (e-STJ  fls.  315/317).
+A Defesa de recorrente aduz  que, apesar de o valor da res furtivae ser superior a 10% (dez por cento) do salário mínimo e de se tratar de reincidente, não se afasta a aplicação do princípio da insignificância.
+Postula,  assim,  a  reconsideração  da  decisão  agravada  ou,  caso  assim  não  se  entenda,  que  seja  o  agravo  regimental  submetido  ao  Órgão  Colegiado.
+É  o  relatório.
+EMENTA
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  FURTO  (ARTIGO  155,  CAPUT,  DO  CÓDIGO  PENAL).  PRINCÍPIO  DA  INSIGNIFICÂNCIA.  IMPOSSIBILIDADE.  VÁRIOS  REGISTROS  EM  CRIMES  CONTRA  O  PATRIMÔNIO.  PRECEDENTES  DO  STJ.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Para  a  aplicação  do  princípio  da  bagatela,  é  necessário  considerar  algumas  condições,  tais  como  (a)  mínima  ofensividade  da  conduta  do  agente,  (b)  ausência  de  periculosidade  social  da  ação,  (c)  baixo  grau  de  reprovabilidade  do  comportamento  e  (d)  inexpressividade  da  lesão  jurídica  provocada  (STF:  HC  n.  84.412,  rel.  Min.  Celso  de  Mello,  publicado  no  DJe  de  02/08/2004 - STJ:  AgRg  no  HC  n.  543.291/ES,  rel.  Min.  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  06/02/2020,  DJe  de  12/02/2020).
+2.  A  jurisprudência  desta  Corte  tem  rechaçado  a  aplicação  do  princípio  da  insignificância  ao  crime  de  furto  quando  o  agente  for  reincidente  ou  portador  de  maus  antecedentes  em  razão  da  maior  ofensividade  e  reprovabilidade  da  conduta  (AgRg  no  AgRg  no  AREsp  n.  2.250.234/MG,  rel.  Min.  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  25/04/2023,  DJe  de  28/04/2023).
+3.  Agravo  regimental  não  provido.
+VOTO
+Não  obstante  os  esforços  perpetrados  pelo  ora  agravante,  não  verifico  fundamentos  suficientes  para  infirmar  a  decisão  agravada,  cuja  conclusão  mantenho.
+A  decisão  impugnada  está  assim  fundamentada  (e-STJ  fl.  316  ):
+Na espécie, verifico que não há ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, visto que, de acordo com o entendimento consolidado do Superior Tribunal de Justiça,  a  reincidência e a habitualidade delitiva têm sido compreendidas como obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso. Ademais, não cabe o princípio da bagatela quando o valor do bem furtado supera o percentual de 10% do salário-mínimo em vigor à época dos fatos (AgRg no HC n. 921.477/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 02/09/2024, DJe de 05/09/2024). Ante o exposto, não conheço do pedido de habeas corpus.
+Tem-se  que  a  habitualidade  delitiva  é  fundamento  suficiente  a  afastar  a  incidência  do  princípio  da  bagatela.
+Nesse  sentido:
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  FURTO  SIMPLES.  PRINCÍPIO  DA  INSIGNIFICÂNICA.  ABSOLVIÇÃO.  IMPOSSIBILIDADE.  RÉU  REINCIDENTE  E  CONTUMAZ  NA  PRÁTICA  DE  DELITOS  CONTRA  O  PATRIMÔNIO.  INAPLICABILIDADE.  PRECEDENTES.  DECISÃO  AGRAVADA  MANTIDA  POR  SEUS  PRÓPRIOS  FUNDAMENTOS.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  Supremo  Tribunal  Federal  -  STF  e  esta  Corte  possuem  o  entendimento  de  que  para  a  aplicação  do  princípio  da  insignificância  deverão  ser  observados  os  seguintes  vetores:  a)  mínima  ofensividade  da  conduta  do  agente;  b)  nenhuma  periculosidade  social  da  ação;  c)  inexpressividade  da  lesão  jurídica  e  d)  reduzido  grau  de  reprovabilidade  do  comportamento  do  agente.
+No  caso  dos  autos,  esse  último  vetor  não  se  mostra  presente,  pois  se  trata  de  agente  com  histórico  de  reiteração  em  delitos  contra  o  patrimônio,  o  que  revela  maior  reprovabilidade  de  sua  conduta.  Da  análise  da  sua  ficha  criminal,  acostada  às  fls.  45/72,  evidencia-se  que  o  paciente  é  reincidente  e  possui  maus  antecedentes  em  razão  da  prática  de  furtos  e  roubo.
+2.  Decisão  agravada  mantida  por  seus  próprios  fundamentos,  em  que  pesem  os  argumentos  apresentados  pelo  agravante.
+3  .  Agravo  regimental  desprovido.  (AgRg  no  HC  n.  894.650/SP,  rel.  Min.  Joel  Ilan  Paciornik,  Quinta  Turma,  julgado  em  23/10/2024,  DJe  de  25/10/2024,  grifamos).
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  FURTO  QUALIFICADO.  PRINCÍPIO  DA  INSIGNIFICÂNCIA.  INAPLICABILIDADE.  REITERAÇÃO  EM  DELITOS  CONTRA  O  PATRIMÔNIO.  REGIME  SEMIABERTO.  CIRCUNSTÂNCIAS  JUDICIAIS  NEGATIVAS  E  REINCIDÊNCIA.  AUSÊNCIA  DE  CONSTRANGIMENTO  ILEGAL.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Segundo  a  jurisprudência  desta  Corte  Superior,  a  reiteração  em  delitos  contra  o  patrimônio  afasta  a  aplicação  do  princípio  da  insignificância.
+2.  No  caso  dos  autos,  os  pacientes  possuem,  cada  um,  três  condenações  definitivas  pela  prática  de  crimes  patrimoniais,  situação  que  denota  sua  habitualidade  na  prática  delitiva.
+3.  A  pretensão  de  abrandar  o  regime  prisional  também  é  contrária  à  jurisprudência  desta  Corte  e  ao  texto  expresso  da  lei  (art.  33,  §  2º,  "c"  e  §  3º,  do  CP),  pois  os  pacientes  são  reincidentes  e  as  penas-base  foram  majoradas  em  razão  da  presença  de  circunstâncias  judiciais  negativas  (maus  antecedentes  e  conduta  social,  para  Vitor,  e  maus  antecedentes,  para  Erinalva).
+4.  Agravo  regimental  não  provido .  (AgRg  no  HC  n.  920.750/DF,  rel.  Min.  Rogério  Schietti  Cruz,  Sexta  Turma,  julgado  em  16/10/2024,  DJe  23/10/2024,  grifamos).
+Por  isso,  conclui-se  que  o  recurso  não  traz  argumentos  novos  capazes  de  alterar  o  entendimento  anteriormente  firmado.
+Ant e  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
