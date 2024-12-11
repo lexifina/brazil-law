@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEAN GABRIEL SALES DE PAULA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi autuado em flagrante delito, pela prática, em tese, do delito previsto no artigo 33, caput, da lei n. 11.343/2006; o juízo de primeiro grau concedeu a liberdade provisória mediante a imposição de medidas cautelares diversas; o Ministério Público estadual interpôs Recurso em Sentido Estrito, que fora provido e, decretada a prisão preventiva.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 20-27), assim ementado:
+ ..  RECURSO EM SENTIDO ESTRITO PRETENDIDA A DECRETAÇÃO DA PRISÃO PREVENTIVA ACOLHIMENTO PRESENÇA DOS REQUISITOS DO ARTIGO 312 DO CPP Tendo em vista a existência de indícios da autoria e de prova da materialidade, bem como de fatos indicadores da real necessidade da prisão cautelar do recorrido, de rigor a decretação da prisão preventiva. Recurso provido.  ..  (fl. 21)
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do paciente, apontando ausência de fundamentação para a prisão cautelar.
+Requer a concessão da ordem liminarmente, com a confirmação no mérito, por conseguinte, a revogação da segregação cautelar, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, diante da presença dos vetores contidos no art. 312, do Código de Processo Penal.
+No ponto, consta no acórdão hostilizado:
+ ..  considerando as circunstâncias concretas em que, em tese, praticado o delito, tendo em vista a quantidade de drogas apreendidas (140 porções de cocaína, pesando 79,5g), bem como o fato de os guardas civis terem supostamente visualizado o Paciente, já conhecido dos meios policiais pela prática do tráfico de drogas, próximo de um ponto de venda de drogas com um grande volume na cintura, conforme denúncia de fls. 257/258 dos autos principais, a decretação da prisão preventiva era mesmo medida de rigor, para atender às finalidades previstas no artigo 312 do Código de Processo Penal.  ..  (fl. 23).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+ ..  O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta  ..  (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019).
+ ..  São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente  ..  (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+Quanto ao argumento de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados.
+A respeito:
+ ..  O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual  ..  (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022).
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: DJe 03/10/ 2019).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Nessa toada:
+ ..  É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu  ..  (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+Ante o exposto, denego a ordem em habeas corpus.
+Dê-se ciência ao representante do Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
