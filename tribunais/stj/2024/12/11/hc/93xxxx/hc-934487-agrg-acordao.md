@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2024 a 11/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+ AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PENAL  E  PROCESSUAL  PENAL.  INSURGÊNCIA  CONTRA  O  ACÓRDÃO  TRANSITADO  EM  JULGADO.  MANEJO  DO  HABEAS  CORPUS  COMO  REVISÃO  CRIMINAL.  DESCABIMENTO.  ART.  105,  INCISO  I,  ALÍNEA  "E",  DA  CONSTITUIÇÃO  DA  REPÚBLICA.  ROUBO  MAJORADO.  REGIME  INICIAL  FECHADO.  GRAVIDADE  CONCRETA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Não  deve  ser  conhecido  o  writ  que  se  volta  contra  o  acórdão  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.  Nos  termos  do  art.  105,  inciso  I,  alínea  "e",  da  Constituição  Federal,  compete  ao  Superior  Tribunal  de  Justiça,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados.  Precedentes  da  Quinta  e  da  Sexta  Turma  do  Superior  Tribunal  de  Justiça.
+2.  Na  hipótese  em  apreço,  inexiste  flagrante  ilegalidade,  pois,  não  obstante  a  pena-base  ter  sido  fixada  no  mínimo  legal  e  a  sanção  definitiva  não  tenha  ultrapassado  08  (oito)  anos  de  reclusão,  impôs-se  regime  inicial  fechado  com  base  na  gravidade  concreta  do  crime  praticado.
+3.  Agravo  regimental  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  FERNANDO  BEZERRA  DA  SILVA  NETO  contra decisão  de  minha  lavra,  na  qual  não  conheci  da  ordem  de  habeas  corpus  (fls.  78-79).
+Consta  nos  autos  que  o  agravante  foi  condenado  às  penas  de  06  (seis)  anos  e  08  (oito)  meses  de  reclusão,  em  regime  inicial  semiaberto,  e  16  (dezesseis)  dias-multa  como  incurso  no  art.  157,  §  2º-A,  inciso  I,  do  Código  Penal.
+O  Tribunal  de  origem  deu  provimento  ao  recurso  interposto  pelo  Ministério  Público  para  redimensionar  o  regime  prisional  para  o  inicialmente  fechado.
+Nas  razões  do  writ,  a  impetrante  sustentou  a  necessidade  de  fixação  do  regime  inicial  semiaberto  para  cumprimento  da  pena.
+Aduziu  que  o  fato  de  o  crime  ter  sido  praticado  em  local  com  alta  circulação  de  pessoas,  mediante  o  emprego  de  arma  de  fogo,  não  justifica  a  imposição  de  regime  mais  gravoso,  especialmente  quando  as  circunstâncias  judiciais  são  favoráveis  ao  acusado.
+Argumentou  que,  em  se  tratando  de  réu  primário,  com  pena-base  fixada  no  mínimo  legal,  deve  ser  aplicado  o  regime  inicial  semiaberto,  conforme  Súmulas  n.  718  e  719/STF  e  n.  440/STJ.
+O  pedido  de  habeas  corpus  não  foi  conhecido  (  fls.  78-79).
+No  agravo  regimental,  a  Defesa  reitera  as  alegações  feitas  na  inicial  do  writ.
+Requer  a  reconsideração  da  decisão  agravada  ou  a  submissão  do  agravo  regimental  ao  Colegiado  competente.
+Certidão  de  decurso  de  prazo  (fls.  99  e  100).
+É  o  relatório.
+EMENTA
+ AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PENAL  E  PROCESSUAL  PENAL.  INSURGÊNCIA  CONTRA  O  ACÓRDÃO  TRANSITADO  EM  JULGADO.  MANEJO  DO  HABEAS  CORPUS  COMO  REVISÃO  CRIMINAL.  DESCABIMENTO.  ART.  105,  INCISO  I,  ALÍNEA  "E",  DA  CONSTITUIÇÃO  DA  REPÚBLICA.  ROUBO  MAJORADO.  REGIME  INICIAL  FECHADO.  GRAVIDADE  CONCRETA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Não  deve  ser  conhecido  o  writ  que  se  volta  contra  o  acórdão  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.  Nos  termos  do  art.  105,  inciso  I,  alínea  "e",  da  Constituição  Federal,  compete  ao  Superior  Tribunal  de  Justiça,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados.  Precedentes  da  Quinta  e  da  Sexta  Turma  do  Superior  Tribunal  de  Justiça.
+2.  Na  hipótese  em  apreço,  inexiste  flagrante  ilegalidade,  pois,  não  obstante  a  pena-base  ter  sido  fixada  no  mínimo  legal  e  a  sanção  definitiva  não  tenha  ultrapassado  08  (oito)  anos  de  reclusão,  impôs-se  regime  inicial  fechado  com  base  na  gravidade  concreta  do  crime  praticado.
+3.  Agravo  regimental  não  provido.
+VOTO
+O  inconformismo  não  prospera.
+Consoante  destacado  na  decisão  impugnada,  o  presente  habeas  corpus  foi  impetrado  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo  já  transitado  em  julgado.  Diante  dessa  situação,  não  deve  ser  conhecido  o  presente  writ,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+Com  efeito,  nos  termos  do  art.  105,  inciso  I,  alínea  "e",  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça  decidir,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados  .  (AgRg  no  HC  n.  573.735/SP,  rel.  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  27/04/2021,  DJe  de  30/04/2021;  AgRg  no  HC  n.  610.106/PR,  rel.  Ministro  Felix  Fischer,  Quinta  Turma,  julgado  em  23/02/2021,  DJe  de  01/03/2021;  HC  n.  512.674/CE,  rel.  Ministro  Sebastião  Reis  Júnior,  decisão  monocrática,  DJe  de  30/05/2019;  HC  n.  482.877/SP,  rel.  Ministro  Jorge  Mussi,  decisão  monocrática,  DJe  de  29/03/2019;  HC  n.  675.658/PR,  Ministro  Ribeiro  Dantas,  decisão  monocrática,  DJe  de  04/08/2021,  e  HC  n.  677.684/SP,  Ministro  Antonio  Saldanha  Palheiro,  decisão  monocrática,  02/08/2021).
+Além  disso,  inexiste  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  pois,  de  acordo  com  o  entendimento  do  STJ,  admite-se  a  imposição  de  regime  prisional  mais  gravoso  do  que  aquele  que  permite  a  pena  aplicada,  quando  apontados  elementos  fáticos  demonstrativos  da  gravidade  concreta  do  delito  (AgRg  no  HC  n.  778.769/SP,  relator  Ministro  Messod  Azulay  Neto,  Quinta  Turma,  julgado  em  07/02/2023,  DJe  de  02/03/2023).
+Assim,  por  não  terem  sido  declinados,  nas  razões  recursais,  os  fundamentos  jurídicos  que  infirmem  os  motivos  da  decisão  ora  agravada,  deve  ess  e  ato  ser  integralmente  mantido  por  seus  próprios  fundamentos.
+ Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
