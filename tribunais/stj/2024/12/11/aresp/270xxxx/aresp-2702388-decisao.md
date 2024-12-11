@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONDOMÍNIO ARBORE contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 282 e 356 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0009351-10.2022.8.16.0194) assim ementado (fls. 525-529):
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. AUSÊNCIA DE TRANSFERÊNCIA DO BEM IMÓVEL PENHORADO EM AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. APLICAÇÃO DA SÚMULA 303 /STJ, DO PRINCÍPIO DA CAUSALIDADE E DO TEMA REPETITIVO 872 /STJ. RESISTÊNCIA POR PARTE DO EMBARGADO AO LEVANTAMENTO DA PENHORA. HONORÁRIOS ADVOCATÍCIOS. PLEITO DE FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. RESP Nº 1.850.512/SP. SENTENÇA ESCORREITA. FIXAÇÃO DE HONORÁRIOS RECURSAIS NOS TERMOS DO ART. 85, §11 DO CPC.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial (fls. 533-550), a parte recorrente aponta violação do art. 85, § 2º, do Código de Processo Civil.
+Aduz que o recorrente "insurgiu-se em face da sentença apenas quanto a condenação sucumbencial, que lhe fora atribuída sem atenção ao princípio da causalidade e tampouco a jurisprudência desta corte, sobretudo quanto a sumula n.º 303 que determina que os honorários devem ser arcados por quem deu causa a constrição" (fl. 537).
+Reforça que a incidência da verba honorária deve se basear no princípio da causalidade, situação não respeitada no caso.
+Requer o provimento do recurso para reformar o aresto impugnado, nos termos das razões apresentadas.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+No que se refere à pretendida redistribuição dos ônus sucumbenciais, no sentido de condenar o recorrido ao pagamento integral da verba honorária, com base no art. 86, parágrafo único, do CPC, o Tribunal de origem assim decidiu, a saber (fls. 525-529, destaquei):
+Com efeito, preceitua a Súmula 303/STJ: "Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios" No caso em tela, muito embora tenha o embargado alegado a ausência de conhecimento da propriedade do imóvel, fato é que apresentou contestação (mov. 24.1), na qual se opôs ao levantamento da penhora em virtude da natureza propter rem da dívida.
+ ..
+Desta forma, tendo o embargado (ora apelante) apresentado resistência ao levantamento da penhora deverá arcar com as verbas de sucumbência dos embargos de terceiro.
+ ..
+Neste quadro, sem razão o recorrente, merecendo confirmação a r. sentença neste ponto.
+Conclui-se, portanto, que o Tribunal a quo dirimiu a lide com base no contexto fático dos autos no sentido de reconhecer a sucumbência do recorrente por ter resistido à demanda, e rever esse entendimento demandaria dilação probatória, não permitida na instância especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. SÚMULA 303/STJ E TEMA N. 872/STJ. REVISÃO DO JULGADO. PRETENSÃO QUE DEMANDA O REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. No caso, o Tribunal de origem, com base na Súmula 303/STJ e no entendimento firmado no Tema 872/STJ, manteve a sentença que, à luz do princípio da causalidade, fixou a distribuição dos encargos de sucumbência em desfavor do embargante, consignando expressamente que este deu causa à constrição, pois não houve o devido registro da alteração na titularidade dominial do imóvel em questão, bem como, após a efetiva ciência da transmissão do bem, a parte embargada não opôs nenhuma resistência à desconstituição da penhora.
+3. O acolhimento das teses veiculadas no recurso especial - centralizadas na alegação de necessidade de aplicação do princípio da sucumbência para distribuição dos honorários advocatícios nos embargos de terceiro, dado que a parte então embargada, mesmo ciente da transmissão do imóvel em questão, postulou injustificadamente a constrição do bem, em confronto com as conclusões obtidas pela Corte estadual - exigiria necessariamente o reexame do conjunto fático-probatório dos autos, o que é vedado, no âmbito do recurso especial, devido ao óbice da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.713.428/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA. LITISPENDÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem trata-se de embargos à execução fiscal. Na sentença julgou-se improcedente o pedido. No Tribunal a quo a sentença foi reformada para julgar procedentes os embargos à execução.
+II - O Tribunal a quo entendeu, em suma, pela litispendência entre a ação anulatória sobre o mesmo débito e os embargos à execução, mantendo a extinção dos embargos à execução e alterando a fixação de honorários para de apreciação equitativa.
+III - O recorrente apontando a violação dos arts. 55, §§1º e 2º, I e 313, V, "A", 485 e 85, todos do CPC, argumenta, em suma, que os embargos à execução deveriam ser suspensos até o trânsito em julgado da ação vinculada, em face da prejudicialidade existente entre o feito executivo e a ação anulatória.
+IV - Sustenta ainda, em síntese, que não seria devida a condenação em honorários advocatícios nos embargos à execução tendo em vista a ocorrência de litispendência e a motivação do ajuizamento dos embargos.
+V - Quanto ao pedido de suspensão dos embargos à execução enquanto não definitivamente julgada a ação anulatória, verifica-se que a litispendência, com tríplice identidade dos elementos identificadores da ação, implica na extinção da ação e não a sua suspensão. Sobre o assunto confiram-se: AgInt no AgInt no AREsp 1.041.483/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 15/12/2017; AgInt no AREsp n. 1.594.804/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/6/2023, DJe de 22/6/2023; AgInt no AREsp n. 1.829.331/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/4/2023, DJe de 20/4/2023.
+VI - Já no tocante à condenação em honorários advocatícios, observa-se que a condenação da verba foi efetivada em face da interpretação da hipótese fática descrita nos autos para o emprego do princípio da causalidade. Nesse panorama, para analisar essa parcela recursal seria necessário adentrar na convicção do magistrado, o que implica no reexame do conjunto probatório, o que é vedado no âmbito do recurso especial. Incidência da súmula 7/STJ.
+VII - Agravo interno improvido. (AgInt no AgInt no AREsp n. 2.385.059/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Assim, aplica-se na hipótese a Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em mais 2 % sobre o percentual já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
