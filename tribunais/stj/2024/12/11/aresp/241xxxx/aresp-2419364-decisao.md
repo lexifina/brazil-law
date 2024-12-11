@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual FELICE AUTOMÓVEIS LTDA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 196):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PARA PIS-PASEP E COFINS, BASE DE CÁLCULO. DEDUÇÃO DE INSUMOS. TEMA 779 DO STJ, ESSENCIALIDADE E RELEVÂNCIA.
+1. O conceito de insumo cujo custo de aquisição pode ser deduzido na apuração da base de cálculo das contribuições para PIS-PASEP e COFINS pelo regime não cumulativo submete-se aos critérios de essencialidade e relevância, considerando a imprescindibilidade ou a importância de determinado item, bem ou serviço para o desenvolvimento da atividade econômica desempenhada pelo contribuinte. Tese no tema 779 de recursos repetitivos do Superior Tribunal de Justiça.
+2. Análise de elementos da atividade produtiva relacionada ao objeto social da impetrante, observada a prova pré-constituída. Caso em que não enquadradas no conceito legal de insumo as despesas com fretes entre estabelecimentos próprios da empresa.
+Os embargos de declaração opostos foram rejeitados (fls. 234/239).
+Nas razões de seu recurso especial, a parte recorrente alega que houve violação aos arts. 195, I, b e § 12, e 239 da Constituição Federal, assim como ao art. 3º, II, da Lei 10.637/2002 e ao art. 3º, II e IX, da Lei 10.833/2003.
+Sustenta que o acórdão recorrido adotou uma interpretação limitadora do conceito de insumo, pois foram demonstradas a relevância e a essencialidade para fins do creditamento relativo a PIS/COFINS sobre as suas despesas com o frete intercompany. Aduz que essa despesa também compõe parte da operação de venda, confirmando o seu direito ao creditamento.
+Requer que seja dado provimento ao recurso especial.
+A parte adversa apresentou contrarrazões (fls. 450/452).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Quanto à alegada violação ao art. 3º, IX, da Lei 10.833/2003, quando do julgamento dos embargos de declaração opostos pela parte recorrente, o Tribunal de origem decidiu que o creditamento com fretes nas operações de venda não fora objeto do mandado de segurança.
+Asseverou, ainda, que ficou evidenciado que todas as operações de frete dizem respeito ao transporte interno de mercadorias entre filiais ou concessionárias, e não à operação de venda ao consumidor final.
+Concluiu que, ainda que assim não fosse, não se aplicaria ao caso da parte ora recorrente.
+Por oportuno, transcrevo o excerto correspondente (fls. 238/239):
+Não há contradição interna no julgado embargado pois a hipótese abstrata prevista - possibilidade de dedução dos custos com fretes nas operações de venda quando o ônus do pagamento for suportado pelo vendedor - não foi objeto do pedido inicial do mandado de segurança:
+ ..
+A embargada evidencia que todas as operações de frete abarcadas pelo processo dizem respeito ao transporte interno de mercadoria entre filiais ou entre concessionárias (intercompany) e não à operação de venda ao consumidor final:
+ ..
+Ainda que mencionada em tese, a dedução dos custos com fretes prestados por terceiro - nas operações de venda quando o ônus do pagamento for suportado pelo vendedor - não se aplica ao caso da impetrante. A sentença merece ser mantida por seus próprios fundamentos.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aqueles fundamentos, limitando-se a afirmar, em síntese, que "interditar o creditamento das despesas de frete intercompany quando a legislação explicitamente autoriza esse procedimento mediante a expressão "frete na operação de venda" constitui medida flagrantemente divorciada da teleologia que envolve o Diploma Legal examinado" (fl. 276).
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Quanto à questão de fundo, a Corte regional concluiu que não deveria haver o creditamento pretendido pela parte ora recorrente nestes termos (fl. 183):
+Assim, para definir quais bens e serviços são essenciais e, por isso, qualificam-se como insumos cujo custo de aquisição é dedutível da base de cálculo das contribuições para PIS-PASEP e COFINS, deve-se analisar o objeto social da contribuinte para verificar se a abstrata exclusão do insumo da produção ainda assim a atividade econômica pode ser desenvolvida.
+Dispõe o contrato social da impetrante (e1d3 na origem) ser seu objeto o comércio de venda de veículos, novos e usados; comércio de peças e acessórios; oficina de prestação de serviço para assistência técnica e agenciamento de vendas para terceiros.
+Observada a necessidade de prova pré-constituída em mandado de segurança (TRF4, Primeira Turma, AC 50098611820204047002, Roger Raupp Rios, j. 17mar.2021) passa-se a analisar a possibilidade de enquadramento como insumo dos bens ou serviços apontados pela impetrante: despesas com fretes de produtos acabados e/ou em elaboração entre seus estabelecimentos, mediante contratação junto a terceiros ou fretes próprios ("frete intercompany").
+FRETES
+A despesas com serviços de frete entre estabelecimentos próprios da empresa, prestado por terceiro contratado ou por sócios e empregados da própria empresa, não podem ser considerados como insumos. Esse custo observa as conveniências da empresa, ainda que informadas por razões de eficiência econômica, e não está demonstrada nem é evidente a essencialidade para a atividade. Com relação aos fretes de terceiros, a dedução pode ocorrer apenas nas operações de venda quando o ônus do pagamento for suportado pelo vendedor, como expressamente previsto na legislação. Nesse sentido: TRF4, Segunda Turma, 5017364-12.2019.4.04.7201, rel. Rômulo Pizzolatti, j. 17ago.2021; TRF4, Primeira Turma, AC 5006026- 47.2019.4.04.7102, rel. Francisco Donizete Gomes, j. 28ago.2020; TRF4, Primeira Turma, AC 5003759-80.2016.4.04.7111, rel. Alexandre Rossato da Silva Ávila, j. 26set.2018.
+Deve ser mantida a sentença.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CRÉDITO DE PIS E COFINS. DESPESAS NÃO QUALIFICADAS COMO INSUMO. SÚMULA 83/STJ. ESSENCIALIDADE E RELEVÂNCIA NÃO VERIFICADOS. REEXAME VEDADO. SÚMULA 7/STJ. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A Primeira Seção deste Tribunal Superior firmou o entendimento, por ocasião de julgamento de recurso repetitivo - Tema 779, de que o creditamento do PIS e da COFINS subordina-se ao conceito de insumo, o qual deve ser aferido à luz dos critérios da essencialidade ou da relevância de determinado bem ou serviço para o desenvolvimento da atividade econômica desempenhada pelo contribuinte.
+2. Na espécie, o Tribunal de origem aplicou a orientação firmada pelo STJ, de modo que incide no caso o óbice da Súmula 83 do STJ.
+3. Além disso, dissentir das conclusões então adotadas, a fim de atestar a essencialidade e a relevância da despesa para fins de creditamento do PIS e da COFINS, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Agravo interno da empresa a que se nega provimento.
+(AgInt no AREsp n. 1.921.159/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS E COFINS. CREDITAMENTO. FRETE EM OPERAÇÃO DE COMPRA DE MERCADORIAS. INSUMO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. A Primeira Seção definiu que "o conceito de insumo deve ser aferido à luz dos critérios de essencialidade ou relevância, ou seja, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo Contribuinte" (REsp 1.221.170/PR, repetitivo, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 24/4/2018).
+3. O Tribunal de origem concluiu não ser possível o reconhecimento do serviço de frete na operação de compra de mercadorias como insumo, uma vez que não se mostra essencial ou relevante para o desenvolvimento das atividades da empresa e, para se chegar a conclusão diversa, seria necessária a incursão no quadro fático-probatório dos autos, providência que encontra óbice na Súmula 7 desta Corte de Justiça.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.741.323/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/10/2022, DJe de 24/11/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. REGIME NÃO CUMULATIVO. DESPESAS DIVERSAS. PRETENSÃO DE QUALIFICÁ-LAS COMO INSUMOS PARA FINS DE CREDITAMENTO. ACÓRDÃO RECORRIDO PELA IMPROCEDÊNCIA DO PEDIDO. CONTEXTO FÁTICO-PROBATÓRIO. GERAÇÃO DE CRÉDITOS. IMPOSSIBILIDADE.
+ ..
+5. A respeito, o acórdão do TRF3 decidiu: "o disposto nos arts. 3º, II, X das Leis n. 10.637/02 e n. 10.833/03 não pode ser interpretado extensivamente para assegurar à autora o creditamento pretendido, visto que as hipóteses de exclusão do crédito tributário devem ser interpretadas literalmente e restritivamente, não comportando exegese extensiva, à luz do art. 111, I, do CTN. Destarte, não é qualquer crédito do PIS e da COFINS que pode ser deduzido da base de cálculo das referidas contribuições".
+6. No contexto, o recurso não pode ser conhecido porque eventual conclusão em sentido contrário dependeria do exame de provas, o que não se admite na via do recurso especial, consoante enuncia a Súmula 7 do STJ.
+ ..
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.960.370/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+Para o Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os julgados comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a demonstração da divergência jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO PARA IMPUGNAR DECISÃO QUE DEFERIU LIMINAR EM PRODUÇÃO ANTECIPADA DE PROVA. NÃO CABIMENTO. ART. 382, § 4º, DO CPC/2015. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+ ..
+3. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Na espécie, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.893.155/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/4/2021, DJe de 28/4/2021, sem destaque no original.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ABONO PERMANÊNCIA. PRESCRIÇÃO. ALEGAÇÃO DE RELAÇÃO DE TRATO SUCESSIVO. INCABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DO ENUNCIADO N. 83. DIVERGÊNCIA NÃO COMPROVADA.
+ ..
+VII - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 1.656.796/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/4/2021, DJe de 29/4/2021, sem destaque no original.)
+No caso dos autos, a parte recorrente não procedeu ao devido cotejo analítico dos julgados confrontados, apenas transcreveu suas ementas.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
