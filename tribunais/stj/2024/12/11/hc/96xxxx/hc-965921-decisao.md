@@ -1,0 +1,13 @@
+DECISÃO
+WANDERSON CORREIA DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+O paciente se insurge contra a unificação das penas de reclusão e de detenção para determinar o regime de cumprimento da pena. Pede a aplicação do art. 76 do CP, a fim de que "as penas sejam consideradas isoladamente para fins de concessão de benefícios, principalmente o de progressão de regime" (fl. 8).
+Decido.
+O habeas corpus não está instruído com a cópia da decisão de primeiro grau. Ademais, a pretensão é contrária à jurisprudência desta Corte, firme em assinalar que "As penas de reclusão e as de detenção constituem reprimendas de mesma espécie, e portanto, para efeito de fixação do regime prisional, devem ser consideradas cumulativamente" (AgRg no AREsp n. 2.590.721/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/9/2024, DJe de 17/9/2024.
+Ao que se tem, "o apelante se encontrava recluso, cumprindo a pena do primeiro delito, logo, dentro da penitenciária", e, sobrevindo nova guia de recolhimento, "foram somadas uma pena de 21 anos em regime fechado, e uma pena de 4 meses e 25 dias de detenção" (fl. 11).
+A defesa pretende que as penas relativas às condenações diversas sejam consideradas isoladamente para fim de progressão de regime.
+Contudo, "a conclusão obtida pelas instâncias de origem sobre a unificação das penas com o fito de fixação do regime prisional, está em harmonia com a jurisprudência desta Corte de Justiça, no sentido de que o art. 111 da Lei n. 7.210/1984, que trata da unificação das penas, não faz a distinção pretendida pelo impetrante, razão pela qual devem ser consideradas cumulativamente tanto as penas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem reprimendas de mesma espécie, ou seja, ambas são penas privativas de liberdade" (AgRg no HC n. 667.544/PB, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 8/6/2021).
+O Tribunal de origem está alinhado à jurisprudência desta Corte Superior de Justiça, que é assente no sentido de que, "de acordo com o art. 111 da Lei de Execução Penal, as penas de reclusão e de detenção devem ser somadas para fins de unificação da pena, tendo em vista que ambas são modalidad es de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie" (AgRg no REsp n. 1.978.082/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 6/8/2024, DJe de 8/8/2024).
+No mesmo sentido, cito o AgRg no HC n. 947.693/SP, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
