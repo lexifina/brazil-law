@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Marcio Fortes da Silva contra o ato coator proferido pelo Quarto Grupo Criminal do Tribunal de Justiça do Rio Grande do Sul que, nos autos dos Embargos Infringentes e de Nulidade n. 8001305-24.2024.8.21.0019, negou provimento à insurgência defensiva, mantendo a cassação do livramento condicional (Execução n. 3357469-73.2010.8.21.1001, 3º Juizado da VEC Regional de Novo Hamburgo/RS).
+A defesa alega, em síntese, que os fundamentos utilizados para indeferir o livramento condicional não se sustentam, pois implementados os requisitos objetivo e subjetivo.
+Sustenta que a falta grave foi cometida em 21/12/2014, cumprido o requisito do art. 83, III, b, do Código Penal.
+Pede, em caráter liminar e no mérito, a concessão da ordem (fls. 2/7).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+A norma anterior já previa a necessidade de comportamento satisfatório durante o resgate da pena para o deferimento do livramento condicional. A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo, não se aplicando limite temporal à análise desse pressuposto. Com efeito, segundo nossos julgados, deve ser analisado todo o período de execução, a fim de se averiguar o mérito do apenado, e a eventual circunstância de o paciente já haver se reabilitado, pela passagem do tempo ou pela aplicação de sanção, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal.
+Nesse sentido, entre inúmeros outros, confiram-se estes precedentes: HC n. 612.296/MG, da minha relatoria, Sexta Turma, DJe 26/10/2020; AgRg no HC n. 624.403/RS, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020; AgRg no HC n. 584.224/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020; AgRg no HC n. 613.683/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/2/2021; AgRg no HC n. 619.682/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/12/2020; e HC n. 623.157/SP, Ministro Felix Fischer, Quinta Turma, DJe 15/12/2020.
+De mais a mais, o afastamento dos fundamentos utilizados quanto ao mérito subjetivo do paciente para concluir ter ele demonstrado assimilação à terapêutica penal demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. LIVRAMENTO CONDICIONAL. ART. 83 DO CP. NOVA REDAÇÃO DADA PELA LEI ANTICRIME. REQUISITO SUBJETIVO. FALTA DISCIPLINAR DE NATUREZA GRAVE. TRANSCURSO DE MAIS DE 12 MESES DA OCORRÊNCIA. IRRELEVÂNCIA. NECESSIDADE DE COMPORTAMENTO SATISFATÓRIO DURANTE O RESGATE DA PENA. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
