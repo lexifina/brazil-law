@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional da 2ª Região, assim ementado (fl. 478):
+PROCESSUAL CIVIL. TÉCNICA DE JULGAMENTO PREVISTA NO ARTIGO 942 DO CPC. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TRABALHO SOB CONDIÇÕES ESPECIAIS. COMPROVAÇÃO PARCIAL. TEMPO SUFICIENTE PARA A CONCESSÃO DO BENEFÍCIO PLEITEADO.
+I - O Perfil Profissiográfico Previdenciário constante dos autos consigna que o autor laborou com exposição a ruído em intensidade acima do limite de tolerância estabelecido para a época até 05/03/1997 (80 dB(A)).
+II - A ausência de responsável técnico pela medição dos registros ambientais em determinados períodos não inviabiliza o reconhecimento da especialidade dos períodos vagos, desde que mantidas as mesmas condições de trabalho. Ademais, em função do estabelecido no art. 58 da Lei 8.213/1991, presume-se que as informações constantes do PPP são verdadeiras, não sendo razoável nem proporcional prejudicar o trabalhador por eventual irregularidade formal de referido formulário, eis que ele não é responsável pela elaboração do documento e porque cabe ao Poder Público fiscalizar a elaboração do PPP e dos laudos técnicos que o embasam.
+III - Retificado erro material na contagem do tempo de contribuição em relação a período reconhecido como especial na sentença por enquadramento em categoria profissional, nos termos do item 2.4.2 do Anexo do Decreto nº. 53.831/64, mas não contabilizado.
+IV - Procedendo à nova contagem do tempo de contribuição, o autor alcança total suficiente para a concessão de aposentadoria por tempo de contribuição, com a incidência de fator previdenciário.
+V - Embargos de declaração da parte autora conhecidos e parcialmente providos.
+Opostos embargos declaratórios, foram rejeitados (fl. 524).
+A parte recorrente aponta violação dos arts. 31 da Lei nº 3.807/1960 c/c Decreto nº 53.831/1964; 60, do Decreto nº 83.080/1979; 57 §§ 3º, 4º e 5º, e 58, § 1º da Lei nº 8.213/1991; e 1.022, II, do CPC. Sustenta que teria havido negativa de prestação jurisdicional e que (fl. 547/548):
+A ausência de indicação do profissional qualificado que teria subscrito o laudo torna completamente inválido o PPP. Seria como se o laudo não existisse, ou se o laudo tivesse sido feito por pessoa não qualificada, disso decorrendo que os critérios técnicos de aferição não teriam sido observados, porque o que atesta a correção da aferição é a responsabilidade técnica assumida por quem está qualificado a desempenhar essa medição corretamente.
+Contrarrazões às fls. 555/564.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Observe-se o seguinte exceto do voto condutor do acórdão recorrido (fl. 475):
+Peço vênia para divergir parcialmente do eminente Relator, especificamente no que se refere à análise da especialidade do período de 02/03/1992 a 05/03/1997.
+O Perfil Profissiográfico Previdenciário constante do evento 1, PPP8 consigna que o autor laborou, durante o período em exame, com exposição a ruído, na intensidade de 83,9 dB(A), acima, portanto, do limite de tolerância estabelecido para a época (até 80 dB(A) até 05/03/1997).
+Acrescento, por oportuno, que a ausência de responsável técnico pela medição dos registros ambientais em determinados períodos não inviabiliza o reconhecimento da especialidade dos períodos vagos, desde que mantidas as mesmas condições de trabalho, como no caso em tela.
+Ademais, em função do estabelecido no art. 58 da Lei 8.213/1991, presume-se que as informações constantes do PPP são verdadeiras, não sendo razoável nem proporcional prejudicar o trabalhador por eventual irregularidade formal de referido formulário, eis que ele não é responsável pela elaboração do documento e porque cabe ao Poder Público fiscalizar a elaboração do PPP e dos laudos técnicos que o embasam.
+Dessa forma, concluo pelo reconhecimento da especialidade do período de 02/03/1992 a 05/03/1997.
+Assim, descabe falar em violação do art. 1.022 do CPC.
+Quanto ao mais, o recurso da autarquia previdenciária encontra melhor sorte.
+Com efeito, este Superior Tribunal de Justiça firmou entendimento de que o Perfil Profissiográfico Previdenciário (PPP) é suficiente para a comprovação do labor em condições especiais, exceto quando haja dúvida objetiva e idônea levantada pelo INSS sobre a congruência entre seus dados e os informados no laudo técnico que lhe serviu de base.
+Nesse sentido:
+PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. PREVIDENCIÁRIO. COMPROVAÇÃO DE TEMPO DE SERVIÇO ESPECIAL. RUÍDO. PERFIL PROFISSIOGRÁFICO PREVIDENCIÁRIO (PPP). APRESENTAÇÃO SIMULTÂNEA DO RESPECTIVO LAUDO TÉCNICO DE CONDIÇÕES AMBIENTAIS DE TRABALHO (LTCAT). DESNECESSIDADE QUANDO AUSENTE IDÔNEA IMPUGNAÇÃO AO CONTEÚDO DO PPP.
+1. Em regra, trazido aos autos o Perfil Profissiográfico Previdenciário (PPP), dispensável se faz, para o reconhecimento e contagem do tempo de serviço especial do segurado, a juntada do respectivo Laudo Técnico de Condições Ambientais de Trabalho (LTCAT), na medida que o PPP já é elaborado com base nos dados existentes no LTCAT, ressalvando-se, entretanto, a necessidade da também apresentação desse laudo quando idoneamente impugnado o conteúdo do PPP.
+2. No caso concreto, conforme destacado no escorreito acórdão da TNU, assim como no bem lançado pronunciamento do Parquet, não foi suscitada pelo órgão previdenciário nenhuma objeção específica às informações técnicas constantes do PPP anexado aos autos, não se podendo, por isso, recusar-lhe validade como meio de prova apto à comprovação da exposição do trabalhador ao agente nocivo "ruído".
+3. Pedido de uniformização de jurisprudência improcedente.
+( Pet n. 10.262/RS , relator Ministro Sérgio Kukina, Primeira Seção, DJe de 16/2/2017.)
+Assim, ao considerar o PPP como único e suficiente documento para comprovar o labor especial, mesmo ante o questionamento da autarquia previdenciária quanto a sua congruência com o laudo técnico, o acórdão recorrido desalinhou-se da jurisprudência deste Superior Tribunal, em evidente error in procedendo, pelo que, nesta parte, a irresignação merece ser acolhida.
+Todavia, o afastamento dessa prova demandará o reexame dos demais fatos constantes do acervo probatório coligido aos autos, a fim de aferir a extensão do direito do autor, providência que não pode ser tomada por esta Corte Superior em sede de recurso especial, em razão do óbice imposto pela Súmula 7/STJ.
+Por essa razão, o singular caso que ora se examina recomenda o retorno do feito ao tribunal de origem para novo exame.
+ANTE O EXPOSTO, dou parcial provimento ao recurso especial para, cassando o acórdão recorrido, determinar o retorno do feito ao Tribunal de origem, a fim de que proceda a nova avaliação do direito d o autor.
+Publique-se.
+EMENTA
