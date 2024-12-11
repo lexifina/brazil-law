@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 255):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA DE EXTINÇÃO DO FEITO POR ABANDONO. INCONFORMISMO DA PARTE AUTORA. RECURSO INTERPOSTO POR ADVOGADO APÓS O FALECIMENTO DO OUTORGANTE. MANDATO CESSADO COM O ÓBITO, NOS TERMOS DO ART. 682, II DO CPC. SUBSCRITOR DO PRESENTE RECURSO QUE NÃO POSSUI INSTRUMENTO VÁLIDO PARA ASSEGURAR SUA ATUAÇÃO NO FEITO. HONORÁRIOS RECURSAIS. INVIABILIDADE. RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 489 e 1.022 do Código de Processo Civil, sob a alegação de que foram opostos dois embargos de declaração e em nenhum momento foram analisados os pedidos dos agravantes relativos: (i) ao deferimento da habilitação dos espólios, representados pelo requerente; (ii) ao reconhecimento da nulidade da sentença; (iii) à determinação de retorno dos autos à origem para o regular prosseguimento do feito, com a devida instrução processual e a realização dos demais atos necessários ao objetivo do processo - o julgamento do mérito; e (iv) ao deferimento da juntada da documentação apresentada, visando à regularização processual do polo ativo.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, em relação à alegada violação do artigo 1.022 do Código de Processo Civil, observo que o Tribunal de origem não se manifestou acerca dos pontos suscitados nos dois embargos de declaração, são eles: (i) ao deferimento da habilitação dos espólios, representados pelo requerente; (ii) ao reconhecimento da nulidade da sentença; (iii) à determinação de retorno dos autos à origem para o regular prosseguimento do feito, com a devida instrução processual e a realização dos demais atos necessários ao objetivo do processo - o julgamento do mérito; e (iv) ao deferimento da juntada da documentação apresentada, visando à regularização processual do polo ativo.
+Releva notar que as teses referidas foram expressamente devolvidas à Corte Local, conforme extraio das razões dos embargos apresentadas pelos ora recorrentes (fls. 298 - 302).
+A despeito disso, observo que a Corte Local não se manifestou acerca das omissões apresentadas, limitando-se a tecer considerações genéricas de que o acórdão embargado estaria devidamente fundamentado (fls. 262 - 270 e 314 - 316).
+Portanto, evidenciado que o Tribunal de origem apreciou a apelação aquém dos limites da matéria devolvida, reconheço a violação do artigo 1.022 do CPC/15.
+Em face do exposto, dou provimento ao recurso especial para cassar o acórdão recorrido, e determino a devolução dos autos ao Tribunal de origem, para que proceda a novo julgamento dos embargos de declaração (fls. 314 - 316), como entender de direito, apreciando detidamente todos os pontos suscitados pelo embargante, nos termos da fundamentação acima.
+As demais questões ficam prejudicadas.
+Intimem-se.
+EMENTA
