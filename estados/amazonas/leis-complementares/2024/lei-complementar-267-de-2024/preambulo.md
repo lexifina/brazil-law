@@ -1,0 +1,7 @@
+LEI COMPLEMENTAR Nº 267, DE 11 DE DEZEMBRO DE 2024.
+
+ALTERA a Lei Complementar nº 01, de 30 de março de 1990, e dá outras providências.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
