@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO , assim ementado, in verbis:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APELAÇÃO. LIMITES DAS MATÉRIAS IMPUGNADAS EM APELAÇÃO. REAFIRMAÇÃO DA DER. TERMO INICIAL. CORREÇÃO MONETÁRIA E JUROS DE MORA. IMPLANTAÇÃO.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violados os arts. 1.022, II, do CPC, sustentando, em síntese, omissões relevantes na Corte de origem que caracterizam negativa de prestação jurisdicional.
+No mérito, alega violação do art. 103 da Lei n. 8.213/1991 no que concerne à tese, adotada na origem, de que a ciência da decisão indeferitória definitiva de um pedido de revisão de um benefício em manutenção seria marco para a contagem de um novo prazo decadencial de 10 anos.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+No mérito, o Tribunal assim se manifestou:
+ ..
+Nos autos, a pretensão da parte é a revisão de benefício concedido em 08/04/2008, data a partir da qual o INSS, no recurso integrativo, julga ter iniciado o curso do prazo decadencial. Ocorre que o pedido de revisão administrativa foi protocolado em 13/07/2017 (evento 1, PROCADM6, página 1), ainda dentro do prazo decadencial de 10 anos. A decisão administrativa de 02/03/2018, alterou a RMI de R$ 564,63 para R$ 858,80, sendo então proposta a presente ação em 20/12/2019. O pedido administrativo de revisão, proposto dentro do prazo, afasta a decadência no caso. Nesses sentido, colaciono os seguintes julgados:
+ ..
+O entendimento externado pela Corte de origem está de acordo com a juris prudência desta Corte, conforme se verifica dos seguintes julgados, feitas as devidas adaptações:
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. PRAZO DECADENCIAL. TERMO INICIAL. ART. 103 DA LEI N. 8.213/91. NÃO OCORRÊNCIA. REVISÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS objetivando a revisão da aposentadoria por invalidez.
+II - Não há violação do art. 535, II, do CPC/1973 quando o acórdão recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+III - O art. 103 da Lei n. 8.213/91 é claro em definir como o termo inicial do prazo decadencial o dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo. Precedentes: AgInt no REsp n. 1.581.284/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 7/6/2018, DJe 14/6/2018 e REsp n. 1.689.929/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/10/2017, DJe 20/10/2017.
+IV - No caso dos autos, o Tribunal de origem, em conformidade com a jurisprudência desta Corte, afastou a decadência, visto que o autor recebe a aposentadoria por invalidez desde 24/9/2002 e que a ação foi proposta dentro do prazo decadencial decenal, em 3/6/2011.
+Assim, para rever tal posicionamento e acolher a tese recursal de que a aposentadoria teria sido concedida em data diversa, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito do recurso especial ante a incidência do enunciado n. 7 da Súmula do STJ.
+V - Recurso especial parcialmente conhecido e improvido.
+(REsp n. 1.690.594/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/11/2018, DJe de 21/11/2018.)
+PREVIDENCIÁRIO. RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. DECADÊNCIA. TERMO INICIAL. CIÊNCIA DO INDEFERIMENTO DO PEDIDO ADMINISTRATIVO.
+1. No caso dos autos, o Tribunal a quo afastou a decadência aplicando a segunda parte do art. 103, caput, da Lei 8.213/1991, porquanto houve pedido de revisão administrativa antes de transcorridos 10 anos da data da concessão do benefício, e a Administração permaneceu inerte, somente indeferindo o pedido revisional após mais de uma década.
+2. Recurso especial a que se nega provimento (REsp 1647146/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/12/2017, DJe 13/12/2017). (grifei).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. DECADÊNCIA. TERMO INICIAL. CIÊNCIA DO INDEFERIMENTO DO PEDIDO ADMINISTRATIVO.
+1. No caso dos autos, o Tribunal a quo aplicou a decadência ao pleito de revisão de benefício, desconsiderando a segunda parte do art. 103, caput, da Lei 8.213/1991, porquanto houve pedido de revisão administrativa antes de transcorridos 10 anos da data da concessão do benefício, decisão totalmente desalinhada do entendimento deste Superior Tribunal. Precedente.
+2. Recurso especial provido para, afastando a decadência, determinar o retorno dos autos ao Tribunal de origem a fim de que prossiga no julgamento do pleito autoral.
+(REsp 1630262/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 05/12/2017). (grifei).
+PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. DECADÊNCIA. ART. 103 DA LEI N. 8.213/1991. MATÉRIA SUBMETIDA AO RITO DO RECURSO ESPECIAL REPETITIVO. RECURSOS ESPECIAIS 1.309.529/PR E 1.326.114/SC. TERMO INICIAL PARA CONTAGEM DO PRAZO DECADENCIAL. PEDIDO DE REVISÃO ADMINISTRATIVA.
+1. A Primeira Seção desta Corte Superior, na assentada do dia 28/11/2012 ao apreciar os Recursos Especiais 1.309.529/PR e 1.326.114/SC, ambos de relatoria do Min. Herman Benjamim, submetidos ao rito dos recursos repetitivos, conforme art. 543-C do CPC, decidiu que a revisão, pelo segurado, do ato de concessão dos benefícios concedidos antes da vigência da Medida Provisória 1.523-9/1997 (convertida na Lei 9.528/97) tem prazo decadencial decenal, com seu termo a quo a partir do início da vigência da referida medida provisória, qual seja, 27.6.1997.
+2. No caso dos autos, o Tribunal a quo afastou a decadência aplicando a segunda parte do art. 103, caput, da Lei 8.213/1991, porquanto houve pedido de revisão administrativa antes de transcorridos 10 anos da data da concessão do benefício, e a Administração permaneceu inerte, sem comunicar o resultado do pedido revisional.
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1505512/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/04/2015, DJe 22/04/2015). (grifei).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. REVISÃO DE APOSENTADORIA. PRAZO DECADENCIAL. ART. 103 DA LEI 8.213/91. EXISTÊNCIA DE REQUERIMENTO ADMINISTRATIVO.
+1. Havendo omissão no acórdão embargado, quanto à existência de requerimento administrativo apresentado anteriormente ao transcurso do prazo decadencial, admite-se a correção do vício na via dos embargos de declaração.
+2. De acordo com a atual redação do art. 103 da Lei n. 8.213/91, "é de dez anos o prazo de decadência de todo e qualquer direito ou ação do segurado ou beneficiário para a revisão do ato de concessão de benefício, a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo".
+3. Hipótese em que a ação foi ajuizada antes da consumação do prazo decadencial, contado a partir da ciência da decisão indeferitória definitiva no âmbito administrativo.
+4. Embargos de declaração acolhidos, com efeitos infringentes (EDcl no AgRg nos EDcl no AREsp 31.746/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/10/2014, DJe 03/11/2014). (grifei).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
