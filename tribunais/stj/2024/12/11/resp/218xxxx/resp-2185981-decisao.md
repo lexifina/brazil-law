@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA NACIONAL com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FICAL. PENHORA ON LINE - BACENJUD. LEI 11.382/2006. JUÍZO DE ADEQUAÇÃO.
+1. Ao julgar o Recurso Especial 1.184765/PA, sob a sistemática vinculante de recurso repetitivo, o Superior Tribunal de Justiça firmou, no Tema 425. a tese jurídica de que a "utilização do Sistema BACEN-JUD, no período posterior à vacatio legis da Lei 11.382/2006 (21.01.2007), prescinde do exaurimento de diligências extrajudiciais, por parte do exeqüente, a fim de se autorizar o bloqueio eletrônico de depósitos ou aplicações financeiras".
+2. O julgamento do agravo de instrumento e dos embargos declaratórios, sem nenhuma omissão, obscuridade ou contradição, não desafia o entendimento vinculante, tratando de questão diversa, que diz com a prioridade da ordem legal do ato de constrição e sua necessária conjugação com os preceitos legais referentes à realização da execução de modo que, em situação de equilíbrio, garanta o crédito em cobrança e, ao mesmo tempo, atenda ao princípio da menor onerosidade ao executado.
+3. Não havendo adequação a ser efetuada, os autos devem ser encaminhados à Vice- Presidência da Corte, em face do recurso especial interposto.
+Em seu recurso especial, a recorrente aponta violação a dispositivos de lei federal, sustentando, em síntese, que é possível a recusa, pela Fazenda Nacional, dos bens ofertados para penhora pelo contribuinte em desrespeito à ordem legal de constrição.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência consolidada no sentido da possibilidade da Fazenda Pública recusar bem nomeado à penhora em desobediência à ordem legal prevista no art. 11 da Lei 6.830/1980 e no art. 835 do CPC/2015, não caracterizando tal ato, violação ao princípio da menor onerosidade constante do art. 805 do diploma adjetivo civil.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. RECUSA DA FAZENDA PÚBLICA. INOBSERVÂNCIA DA ORDEM LEGAL. POSSIBILIDADE. MATÉRIA JULGADA NESTA CORTE SOB O RITO DO ART. 543-C DO CPC/1973.
+1. Nos termos do que decidido pelo Plenário do STJ, " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. No julgamento do REsp 1.337.790/PR, submetido ao rito do art. 543-C do CPC/1973, esta Corte ratificou o entendimento de que é legítima a recusa por parte da Fazenda de bem nomeado à penhora, caso não observada a gradação legal, não havendo falar em violação do art. 620 do CPC/1973, uma vez que a Fazenda Pública pode recusar a nomeação por quaisquer das causas previstas no art. 656 do CPC/1973 ou nos arts. 11 e 15 da LEF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1581091/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 7/2/2017, DJe de 14/2/2017).
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRECATÓRIOS JUDICIAIS. RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. ORDEM DE INDICAÇÃO NÃO OBSERVADA. INEXISTÊNCIA DE EQUIVALÊNCIA COM DINHEIRO. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS.
+1. A jurisprudência do STJ firmou-se no sentido de que é legítima a recusa da Fazenda Pública de bem oferecido à penhora quando não observada a ordem prevista nos arts. 655 do CPC e 11 da Lei 6.830/80, inclusive em recurso repetitivo (art. 543-C do CPC), no julgamento do REsp 1.090.898/SP, Rel. Min. Castro Meira.
+2. A Primeira Seção do STJ, no julgamento do REsp 1.337.790/PR (Rel. Ministro HERMAN BENJAMIN, DJe de 7/10/2013), representativo da controvérsia, decidiu que é possível à Fazenda Pública recusar a nomeação à penhora de precatório judicial, quando a nomeação não observar a ordem legal, cabendo ao executado apresentar elementos concretos, que justifiquem a incidência do princípio da menor onerosidade, sendo insuficiente a mera invocação genérica do art. 620 do CPC, tal como ocorreu, in casu.
+3. O princípio da menor onerosidade do devedor, insculpido no art. 620 do CPC, tem de estar em equilíbrio com a satisfação do credor, sendo indevida sua aplicação de forma abstrata e presumida, cabendo ao executado fazer prova do efetivo prejuízo.
+4. Agravo interno improvido.
+(AgInt no AREsp 898.753/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/8/2016, DJe 17/08/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer como legítima a recusa do bem ofertado e determinar que a constrição dos ativos seja realizada em consonância com a ordem legal estabelecida.
+Publique-se. Intimem-se.
+EMENTA
