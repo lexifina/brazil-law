@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2024 a 11/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO DE USO PERMITIDO. MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+2. No caso, mostra-se inviável o conhecimento do writ que pretende a desconstituição de condenação transitada em julgado, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia, notadamente por não se verificar flagrante ilegalidade a atrair a concessão da ordem de ofício.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por JEFFERSON HENRIQUE FERREIRA contra decisão de e-STJ fls. 68/71, por meio da qual não conheci do presente habeas corpus em virtude de ser usado pela defesa como substitutivo de revisão criminal.
+Depreende-se dos autos que o agravante foi condenado à pena de 11 anos de reclusão, em regime inicial fechado, pela prática dos delitos de tráfico de drogas e porte de arma de fogo de uso permitido.
+Interposta apelação pela defesa, o Tribunal de origem deu parcial provimento ao recurso para redimensionar a pena para 7 anos de reclusão, mantidos os demais termos da sentença.
+Daí o presente writ, no qual alegou a defesa que o acusado sofria constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada. Requereu, desse modo, a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, na terceira fase da dosimetria da pena.
+Neste recurso, a defesa repisa as alegações originárias de ausência de fundamentação para a não incidência da referida minorante, por entender estarem preenchidos os requisitos legais.
+Requer, assim, a reconsideração do decisum ora agravado ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO DE USO PERMITIDO. MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+2. No caso, mostra-se inviável o conhecimento do writ que pretende a desconstituição de condenação transitada em julgado, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia, notadamente por não se verificar flagrante ilegalidade a atrair a concessão da ordem de ofício.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Na espécie, verifico que, não obstante as razões defensivas, não há argumentos aptos a ensejar a alteração do entendimento firmado na decisão agravada.
+Como afirmado anteriormente, é inviável o conhecimento do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência do Superior Tribunal de Justiça acerca da controvérsia.
+É que esta Corte, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, consignei que este Tribunal Superior, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Ainda que assim não fosse, especialmente no caso, ressalto que as demandas buscadas por meio do writ impetrado não evidenciam situação de flagrante ilegalidade, a atrair a concessão da ordem de ofício, pois as conclusões do Tribunal de origem não divergem dos entendimentos jurisprudenciais consolidados nesta Corte.
+É que, na hipótese, a condenação do agravante pelas instâncias ordinárias como incurso no art. 14, da Lei n. 10.823/2006, ante a apreensão de "um revólver Taurus calibre 38, com 12 munições do mesmo calibre" (e-STJ fl. 30), revela-se como elemento concreto que denota a prática habitual e profissional do delito de tráfico de drogas e, portanto, apto a impedir a concessão da minorante pleiteada.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. TRÁFICO DE ENTORPECENTES. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE DE RECONHECIMENTO. CIRCUNSTÂNCIAS CONCRETAS QUE EVIDENCIAM A DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. REVOLVIMENTO PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Fixada a pena-base no mínimo legal, a instância de origem indeferiu a minorante do § 4º do art. 33 da Lei n. 11.343/2006, com base em dados concretos que evidenciavam a dedicação do agravante às atividades criminosas. Além do transporte de considerável quantidade de droga apreendida, aproximadamente 2,8kg (dois quilos e oitocentos gramas) de maconha, destacou a Corte de origem que, nesse contexto da prática de traficância, ele portava arma de fogo e munições.
+2. No caso, foi afastada a referida minorante em razão da demonstração de que o agravante dedicar-se-ia a atividades criminosas, de maneira que, para infirmar as conclusões da Corte de origem nesse sentido, acolhendo-se o pleito de sua aplicação, seria imprescindível o reexame do material fático-probatório dos autos, providência incompatível com a via do habeas corpus.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 842.645/PE, minha relatoria, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023, grifei)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. APLICAÇÃO DA MINORANTE. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Fixada a pena-base no mínimo legal, a instância de origem indeferiu a minorante do § 4º do art. 33 da Lei n. 11.343/2006, com base em dados concretos que evidenciavam a dedicação do agravante às atividades criminosas. Além do transporte de relevante quantidade de drogas especialmente nocivas, destacou a Corte de origem que, nesse contexto da prática de traficância, ele portava arma de fogo com numeração suprimida, que estava municiada.
+2. A revisão desse entendimento demandaria imprescindível reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7 desta Corte Superior 3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.982.667/RS, minha relatoria, Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023, grifei)
+Des se modo, infirmar o que ficou estabelecido nas instâncias ordinárias, no ponto, ensejaria também o reexame aprofundado de todo conjunto fático-probatório produzido no processo, providência incompatível com os estreitos limites do remédio constitucional, marcado pela celeridade e pela sumariedade na cognição.
+Assim, mantenho a decisão agravada, por seus próprios fundamentos, e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
