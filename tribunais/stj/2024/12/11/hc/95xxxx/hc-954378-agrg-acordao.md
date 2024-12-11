@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2024 a 11/12/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE PELA PRESIDÊNCIA DO STJ. LESÃO CORPORAL GRAVÍSSIMA. ABSOLVIÇÃO. RECONHECIMENTO DA LEGÍTIMA DEFESA. ALTERAÇÃO DO REGIME PRISIONAL. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO. DESCABIMENTO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trago à análise da Turma agravo regimental de VICTORIO VALERI NETO, contra a decisão monocrática da Presidência desta Corte que indeferiu liminarmente o pedido de habeas corpus formulado em seu favor (fls. 91/92).
+Nesta via, o agravante sustenta que existe evidente constrangimento ilegal, por falta de provas para a condenação (a 2 anos, 8 meses e 20 dias de reclusão, por lesão corporal gravíssima) ou pela ausência de reconhecimento da incidência da excludente de ilicitude da legítima defesa, ainda porque o acórdão da apelação destoa das mais recentes decisões do Superior Tribunal de Justiça quanto ao regime prisional aplicado (fechado), mencionando ainda a Súmula 719/STF e a Súmula 440/STJ.
+Requer a retratação da decisão hostilizada e, caso não seja possível, o provimento do agravo regimental para que possa ser concedida a ordem nos termos da inicial do writ.
+Não abri prazo para a parte agravada apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE PELA PRESIDÊNCIA DO STJ. LESÃO CORPORAL GRAVÍSSIMA. ABSOLVIÇÃO. RECONHECIMENTO DA LEGÍTIMA DEFESA. ALTERAÇÃO DO REGIME PRISIONAL. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO. DESCABIMENTO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido, de que, segundo a jurisprudência do STJ, não deve ser conhecido o writ manejado como substitutivo de revisão criminal em hipótese na qual não houve inauguração da competência desta Corte e de que não se verifica no julgado impugnado ilegalidade flagrante que justifique a concessão de Habeas Corpus de ofício nos termos do § 2º do artigo 654 do Código de Processo Penal (fl. 92).
+As razões do agravo regimental são inaptas para desconstituir a motivação da decisão agravada. Assim, à falta de contrariedade, mantêm-se hígidos os motivos expendidos pela decisão recorrida.
+Ora, de fato, diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022).
+Ademais, não há evidência de constrangimento ilegal, porquanto a via eleita não se presta ao revolvimento dos fatos e das provas, não é o meio processual adequado para analisar a tese de insuficiência probatória para a condenação, tampouco de legítima defesa. E, em casos como o dos autos, em que o réu é reincidente e há reconhecimento de circunstância judicial negativa, a jurisprudência desta Corte Superior é firme quanto a ser cabível o regime inicial fechado para penas inferiores a 4 anos de reclusão (AgRg no HC n. 911.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/9/2024).
+Bom, não tendo o agravante, nas razões deste recurso, infirmado especificamente todos os fundamentos da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (AgRg no HC n. 782.971/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/9/2023).
+Ante o exposto, não conheço do agravo regimental.
