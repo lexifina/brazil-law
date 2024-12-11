@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2024 a 11/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. PRECEDENTE. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se cassou acórdão que exigia prévio exame criminológico e se restabeleceu a concessão de progressão de regime deferida pelo Juízo da execução, uma vez que esta Corte Superior entende ser ilegal a retroatividade da Lei n. 14.843/2024, pois a exigência de realização de exame criminológico para toda e qualquer progressão de regime constitui novatio legis in pejus. Precedente.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público de São Paulo contra a decisão monocrática de minha lavra que concedeu liminarmente a ordem a Thiago Silva de Souza, conforme os termos da seguinte ementa (fl. 40):
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. REINCIDÊNCIA E O QUANTUM DE PENA A CUMPRIR. FUNDAMENTOS INIDÔNEOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
+O agravante alega, em síntese, que o writ foi impetrado em substituição ao recurso legalmente cabível.
+Sustenta que a Lei n. 14.843/2024, ao instituir a obrigatoriedade do exame criminológico, estabeleceu norma procedimental, aplicável desde logo.
+Pede o provimento do agravo regimental para que seja restabelecida a exigência de exame criminológico (fls. 48/55).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. PRECEDENTE. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se cassou acórdão que exigia prévio exame criminológico e se restabeleceu a concessão de progressão de regime deferida pelo Juízo da execução, uma vez que esta Corte Superior entende ser ilegal a retroatividade da Lei n. 14.843/2024, pois a exigência de realização de exame criminológico para toda e qualquer progressão de regime constitui novatio legis in pejus. Precedente.
+2. Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve prosperar.
+Primeiramente, a despeito de o writ ter sido impetrado em substituição ao recurso cabível, ficou caracterizada a ilegalidade e, portanto, a concessão da ordem.
+Depois, conforme expressei na decisão agravada, a Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14.843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+Assim, sem terem sido demonstradas razões para exigir o exame criminológico, fica configurada a flagrante ilegalidade, nos termos da Súmula 439/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
