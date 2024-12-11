@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado por JONAS FERREIRA DE ARAUJO E OUTRO em favor do paciente MARCOS VINICIUS VILELA MARIANO, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi denunciado e preso preventivamente em razão da prática, em tese, dos crimes previstos no art. 2º da Lei 12.850/13, no art. 1º, inciso I, alínea "a", com a majorante do §4º, inciso III, da Lei 9.455/97 e no art. 148, §2º, do Código Penal, na forma do art. 29 do Código Penal (Processo nº 1500579-92.2022.8.26.0068).
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada (Processo nº 2129537-15.2023.8.26.0000).
+Na presente impetração, busca-se a concessão da ordem, para que seja revogada a prisão preventiva do paciente e, subsidiariamente, a fim de que sejam fixadas medidas cautelares diversas da prisão.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Nesta toada, a tese de negativa de autoria resvala na via estreita do habeas corpus, que impossibilita o revolvimento de matéria fático-probatória nestes autos, consoante jurisprudência sedimentada desta Corte.
+A propósito, mutatis mutandis:
+GRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO NO TOCANTE AO DELITO DE ASSOCIAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES. 1/6. PROPORCIONALIDADE. PRIVILÉGIO. INAPLICABILIDADE. CONDENAÇÃO CONCOMITANTE PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - No presente caso, as instâncias ordinárias fundamentaram devidamente a condenação pelo crime de associação para o tráfico, com fulcro em robusto conjunto probatório, restando configurada a estabilidade e a permanência da associação, bem como a função da agravante e dos demais integrantes, com hierarquia e divisão de tarefas. IV - O rito do habeas corpus não admite o revolvimento de matéria fático probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local. (..) Agravo regimental desprovido (AgRg no HC 895457 / SC, QUINTA TURMA, de minha relatoria, DJe 16/05/2024).
+Em adição, na espécie, reputo presentes o fumus comissi delicti e o periculum libertatis, de sorte que a custódia cautelar é essencial para a garantia da ordem pública, com fulcro no art. 312 do Código de Processo Penal, diante da prova da materialidade do crime e de indícios de autoria delitiva, da gravidade concreta do delito e do modus operandi adotado (paciente que foi reconhecido como um dos indivíduos que teria arrebatado as vítimas e as levado para dentro do carro), devendo-se atentar, ademais, que se trata de paciente foragido, o que também impõe a segregação cautelar para fiel aplicação da lei penal.
+Sendo assim, não se afigura aconselhável, por ora, a substituição da custódia cautelar por nenhuma das medidas cautelares diversas da prisão enumeradas no art. 319 do Código de Processo Penal.
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
