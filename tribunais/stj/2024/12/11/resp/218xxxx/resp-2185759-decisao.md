@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICíPIO DE VITÓRIA contra o acórdão assim e mentado, in verbis:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. ISENÇÃO. LEI RESTRITIVA. CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO DE CUSTAS. AUSÊNCIA DE ISENÇÃO. RECURSO CONHECIDO E IMPROVIDO. I. A isenção tributária somente se dá por meio de expressa previsão legal, cuja interpretação deve ser restrita e literal, nos exatos termos do art. 111, II e 176, ambos do CTN. II. Não inserido o ente municipal no rol de isentos previstos na Lei Estadual nº 9.974/2013, não pode a Lei Federal nº 6.830/80, fazê-lo por pagamento de taxa estadual (custas processuais), pois a Lei Federal não pode, sob pena de inconstitucionalidade, renunciar a receitas provenientes de tributos estaduais e municipais, por previsão contida no artigo 151, III, da CF. III. Apelação conhecida e improvida.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial a recorrente aponta violação do art. 39 da Lei 6830/1980, argumentado, em suma, que a Fazenda Pública é isenta de custas e emolumentos, não sendo devida a condenação nesse ônus.
+É o relatório. Decido.
+Contrarrazões pela manutenção do acórdão recorrido.
+A respeito da alegação de que seria inexigível o pagamento de custas processuais pela Fazenda nas ações executivas, o STJ firmou entendimento no sentido de que a Fazenda Pública (da União, dos Estados, do Distrito Federal e dos Municípios) é isenta do recolhimento de custas nas ações de execução fiscal, independentemente de qual esfera do Poder Judiciário tramitar a ação.
+Nesse sentido:
+TRIBUTÁRIO. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FAZENDA NACIONAL. CUSTAS EFETIVAMENTE ESTATAIS. ISENÇÃO. RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP 1.107.543/SP, REL. MIN. LUIZ FUX, DJE 26.4.2010. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS MODIFICATIVOS, PARA DAR PROVIMENTO AO RECURSO ESPECIAL DA FAZENDA NACIONAL.
+(..)
+4. No caso vertente, esta egrégia Corte Superior, no REsp. 1.107.543/SP, julgado na forma do art. 543-C do CPC/73 (Representativo do Controvérsia), da relatoria do eminente Ministro LUIZ FUX, firmou o entendimento, segundo o qual a Fazenda Pública Federal é isenta do pagamento das custas processuais e emolumentos, mesmo quando a execução fiscal tenha sido proposta perante a Justiça Estadual, devendo ressarcir, entretanto, as despesas que tiverem sido antecipadas pelo contribuinte, caso seja vencida.
+5. Embargos de Declaração da FAZENDA NACIONAL acolhidos, com efeitos modificativos, para dar provimento ao Recurso Especial, de modo a declarar o direito da recorrente à isenção das custas processuais (EDcl no AgRg no REsp 1276844/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/12/2016, DJe de 6/2/2017).
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CUSTAS PROCESSUAIS. ISENÇÃO. FAZENDA PÚBLICA. ARTS. 39, CAPUT E PARÁGRAFO ÚNICO, DA LEF E ART. 27 DO CPC.
+1. A Fazenda Pública - da União, dos Estados, do Distrito Federal ou dos Municípios - é isenta do recolhimento de custas nas ações de Execução Fiscal, sendo irrelevante a esfera do Poder Judiciário na qual a demanda tramita. Precedentes do STJ.
+2. Recurso Especial provido (REsp 1254027/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/6/2011, DJe de 31/8/2011).
+PROCESSUAL CIVIL. OMISSÃO. ART. 535 DO CPC. EXECUÇÃO FISCAL. JUSTIÇA ESTADUAL. UNIÃO. PRESCRIÇÃO. PEDIDO DO EXEQUENTE. ANTES DE REALIZADA A CITAÇÃO. CUSTAS PROCESSUAIS. DESCABIMENTO.
+1. Não se conhece de recurso especial por suposta violação do art. 535 do CPC se a parte não especifica o vício que inquina o aresto recorrido, limitando-se a alegações genéricas de omissão no julgado, sob pena de tornar-se insuficiente a tutela jurisdicional.
+2. A Primeira Seção desta Corte, ao julgar o Recurso Especial 1.144.687/RS, de relatoria do Min. Luiz Fux, sob o regime do art. 543-C do CPC e da Resolução STJ 08/2008, consolidou a distinção entre custas efetivamente estatais, cuja natureza jurídica é de taxa e as demais despesas processuais devidas a pessoas estranhas ao corpo funcional do Poder Judiciário, como o leiloeiro e o depositário.
+3. A isenção prevista no art. 39 da Lei 6.830/80 refere-se exclusivamente às custas processuais e emolumentos, devendo a Fazenda Pública, quando vencida, apenas ressarcir as despesas que tiverem sido antecipadas pelo particular. Esse mesmo entendimento é aplicável às execuções fiscais propostas pela União perante a Justiça Estadual. Precedente.
+4. De acordo com o art. 26 da LEF, "se, antes da decisão de primeira instância, a inscrição de Dívida Ativa for, a qualquer título, cancelada, a execução fiscal será extinta, sem qualquer ônus para as partes".
+5. No caso, considerando-se que a execução foi extinta antes da realização da citação, sem qualquer adiantamento de despesa por parte do executado e a pedido da própria exequente - que reconheceu o transcurso do lapso prescricional - não é cabível a condenação da Fazenda Pública ao pagamento de custas processuais.
+6. Recurso especial provido (REsp 1205580/RS, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 2/12/2010, DJe de 10/12/2010).
+RECURSO ESPECIAL. EXECUÇÃO FISCAL. COMPETÊNCIA FEDERAL DELEGADA. JUSTIÇA ESTADUAL. FAZENDA NACIONAL. CUSTAS. ISENÇÃO.
+1. O entendimento predominante deste Superior Tribunal de Justiça, a partir do julgamento do Eresp nº 43.192/RS, Primeira Seção, é no sentido de que a Fazenda Pública da União, dos Estados, do Distrito Federal e dos Municípios é isenta do recolhimento de custas nas ações de execução fiscal, mesmo quando a demanda tem curso na Justiça Estadual.
+2. Recurso especial conhecido e provido (REsp 1180437/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 18/3/2010, DJe de 26/3/2010).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial afastar a condenação da Fazenda Pública nas custas e emolumentos.
+Publique-se. Intimem-se.
+EMENTA
