@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por WALTER TEODORO DE PAULA, com fundamento na alínea "a" e "c" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (e-STJ, fls. 1.699-1700):
+E M E N T A PENAL. PROCESSUAL PENAL. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO. DOSIMETRIA DA PENA. 1. Declarada extinta a punibilidade pela prescrição da pretensão punitiva do Estado em relação a um dos corréus. 2. Majoração da pena-base devidamente justificada, em vista da valoração negativa do vetor consequências do crime (o valor suprimido monta a R$ 9.427.779,04 - nove milhões, quatrocentos e vinte e sete mil, setecentos e setenta e nove reais e quatro centavos). 3. A supressão das contribuições previdenciárias perdurou entre 2007 e 2009. Para fins de se determinar o percentual de aumento de pena por força da continuidade delitiva (CP at. 71), há que se levar em consideração os exercícios fiscais nos quais ocorreu o crime e não o número de meses em que se verificou a supressão da contribuição previdenciária. Raciocínio diverso conduziria à aplicação invariável do percentual máximo de aumento (2/3 - dois terços), pois a fiscalização tributária, procedimento que antecede a apuração dos delitos contra a ordem tributária, alcança, em regra, mais de um exercício. 4. Apelações da Defesa e do Ministério Público Federal parcialmente providas.
+Em suas razões recursais (e-STJ, fls. 1.754-1.764), a parte recorrente aponta violação do art. 337-A, do CP e art. 5º, LV, da Constituição da República. Aduz para tanto, em síntese, que é indispensável a presença do dolo para a configuração do tipo penal em comento.
+Com contrarrazões (e-STJ, fls. 1.777-1.785), o recurso especial foi inadmitido na origem (e-STJ, fls. 1.789-1.791), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 1.830-1.833).
+É o relatório.
+Decido.
+A simples reiteração dos argumentos do recurso especial, como fez aqui o agravante, viola o princípio da dialeticidade e torna inadmissível o agravo do art. 1.042 do CPC, nos termos da Súmula 182/STJ. A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. PRELIMINAR DE PRESCRIÇÃO. EXAME DE OFÍCIO. ART. 61 DO CPP. NÃO IMPLEMENTO DO PRAZO PRESCRICIONAL ENTRE OS MARCOS INTERRUPTIVOS. 2. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. TESE FIRMADA PELO PLENÁRIO DO STF. HC 176.473/STF. 3. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO NÃO CONHECIDO. TRÂNSITO EM JULGADO QUE RETROAGE. ARESP 386.266/SP. 4. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS FUNDAMENTOS DA DECISÃO. CORRETA INCIDÊNCIA DA SÚMULA 182/STJ. 5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. A decisão agravada não conheceu do agravo em recurso especial, porque o recorrente se limitou a repetir, na íntegra, os termos do recurso especial. Como é de conhecimento, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão que não admite o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessa forma, mostra-se correta a incidência do enunciado n. 182 da Súmula desta Corte, o que impede o provimento ao presente agravo regimental.
+5. Agravo regimental a que se nega provimento".
+(AgRg no AREsp n. 1.260.918/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/5/2020, DJe de 19/5/2020.)
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo em recurso especial, o qual não supera o juízo de admissibilidade.
+Aduz-se ainda que o agravante veicula dispositivos legais não contidos no recurso especial sem, contudo, justificar a incidência para a reapreciação da decisão de inadmissibilidade, o que encontra óbice na Súmula 284/STF.
+No mais, o recurso especial não é admissível no tocante à alegada divergência jurisprudencial, pois não demonstrado o suposto dissídio. É absolutamente indispensável o efetivo cotejo analítico entre os arestos impugnado e paradigma, com o exame da identidade ou similitude fática entre estes, nos moldes legais e regimentais, o que não foi feito neste caso. A propósito:
+"Ademais, para a demonstração do dissídio, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional. Precedentes."
+(AgRg no AREsp n. 1.622.044/DF, relator Ministro Jorge Mussi, Quinta Turma, julgado em 5/5/2020, DJe de 29/6/2020.)
+É inviável também o debate acerca da contrariedade a dispositivos da CR/88 em sede de recurso especial, uma vez que não compete a esta Corte Superior o seu enfrentamento, sob pena de usurpação da competência do STF. Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS E DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO DE ANÁLISE POR ESTA CORTE. COMPETÊNCIA DO STF. CONDENAÇÃO CRIMINAL COM TRÂNSITO EM JULGADO HÁ MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. PRECEDENTES. ROUBO. CONSUMAÇÃO. DESNECESSIDADE DE POSSE MANSA E PACÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete ao Supremo Tribunal Federal analisar eventual existência de ofensa a princípios ou dispositivos constitucionais, não cabendo a esta Corte se pronunciar acerca de eventual violação à Constituição Federal sob pena de usurpação da competência.
+ ..
+4. Agravo regimental desprovido."
+(AgRg no REsp n. 1.668.004/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2017, DJe de 2/10/2017.)
+" ..
+2. Não compete ao Superior Tribunal de Justiça se manifestar explicitamente acerca de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência reservada ao Supremo Tribunal Federal.
+Agravo regimental desprovido."
+(AgRg nos EDcl no AREsp n. 905.964/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado 8/8/2017, DJe de 18/8/2017.)
+Não há, ainda, prequestionamento do art. 337-A tal como discorrido na peça recursal. O Tribunal de origem não se manifestou sobre a matéria tratada no dispositivo legal apontado pela parte recorrente, o que atrai a incidência da Súmula 211/STJ.
+Por fim, a inversão do julgado sobre o dolo específico, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
