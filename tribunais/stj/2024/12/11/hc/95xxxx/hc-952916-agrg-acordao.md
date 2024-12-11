@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2024 a 11/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO DE DROGAS.  INDEFERIMENTO LIMINAR DO  WRIT  SUBSTITUTIVO  DE  RECURSO  PRÓPRIO.  AUSÊNCIA  DE  FLAGRANTE  ILEGALIDADE.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  Superior  Tribunal  de  Justiça,  de  longa  data,  vem  buscando  fixar  balizas  para  a  racionalização  do  uso  do  habeas  corpus,  visando  a  garantia  não  apenas  do  curso  natural  das  ações  ou  revisões  criminais mas  também  da  efetiva  priorização  do  objeto  ínsito  ao  remédio  heroico,  qual  seja,  o  de  prevenir  ou  remediar  lesão  ou  ameaça  de  lesão  ao  direito  de  locomoção.  Nessa  linha,  "é  incognoscível,  ordinariamente,  o  habeas  corpus  impetrado  em  substituição  à  via  recursal  de  impugnação  própria"  (AgRg  no  HC  n.  716.759/RS,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  26/9/2023,  DJe  de  2/10/2023),  notadamente  no  caso,  em  que  não  se  verifica  nenhuma  ilegalidade  flagrante  a  atrair  a  concessão  da  ordem  de  ofício.
+2.  Agravo  regimental  desprovido,  mantida  a  decisão  por  seus  próprios  fundamentos.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  ANTONIO  SALDANHA  PALHEIRO  (Relator):
+Trata-se  de  agravo  regimental  interposto  por  KAROLINE GOMES LIMA contra  decisão  monocrática  de  minha  lavra  (e-STJ  fls.  108/112).
+Consta  dos  autos  que  a  agravante foi condenada à pena de 5 anos, 5 meses e 10 dias de reclusão, no regime inicialmente semiaberto, pela prática do delito de tráfico de drogas, ante a apreensão de cerca de 4,900kg (quatro quilos e novecentos gramas) de cocaína.
+Interposta apelação, o Tribunal de origem deu provimento ao recurso para redimensionar a pena para 3 anos, 10 meses e 20 dias de reclusão, no regime inicial aberto, conforme acórdão ementado às e-STJ fls. 98/102.
+Na  decisão  agravada,  indeferi liminarmente o  habeas  corpus  por  se  tratar  de  impetração  substitutiva  de  recurso  especial  e  por  inexistir  flagrante  ilegalidade  a justificar a concessão de ordem de ofício para a redução da pena-base.
+Nas  razões  do  presente  agravo,  a  defesa  repisa ser devida a incidência da fração de 1/6 para a exasperação da basilar, na primeira etapa da dosimetria.
+Requer, assim,  a  reconsideração  da  decisão  ou  o  julgamento  do  recurso  pela  Sexta  Turma.
+É  o  relatório.
+EMENTA
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO DE DROGAS.  INDEFERIMENTO LIMINAR DO  WRIT  SUBSTITUTIVO  DE  RECURSO  PRÓPRIO.  AUSÊNCIA  DE  FLAGRANTE  ILEGALIDADE.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  Superior  Tribunal  de  Justiça,  de  longa  data,  vem  buscando  fixar  balizas  para  a  racionalização  do  uso  do  habeas  corpus,  visando  a  garantia  não  apenas  do  curso  natural  das  ações  ou  revisões  criminais mas  também  da  efetiva  priorização  do  objeto  ínsito  ao  remédio  heroico,  qual  seja,  o  de  prevenir  ou  remediar  lesão  ou  ameaça  de  lesão  ao  direito  de  locomoção.  Nessa  linha,  "é  incognoscível,  ordinariamente,  o  habeas  corpus  impetrado  em  substituição  à  via  recursal  de  impugnação  própria"  (AgRg  no  HC  n.  716.759/RS,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  26/9/2023,  DJe  de  2/10/2023),  notadamente  no  caso,  em  que  não  se  verifica  nenhuma  ilegalidade  flagrante  a  atrair  a  concessão  da  ordem  de  ofício.
+2.  Agravo  regimental  desprovido,  mantida  a  decisão  por  seus  próprios  fundamentos.
+VOTO
+O  EXMO.  SR.  MINISTRO  ANTONIO  SALDANHA  PALHEIRO  (Relator):
+Em  que  pesem  as  razões  da  combativa  defesa,  o  recurso  não  apresenta  argumento  capaz  de  desconstituir  os  fundamentos  que  embasaram  a  decisão  ora  impugnada,  que  deve  ser  integralmente  mantida,  in  verbis  (e-STJ  fls.  108/112):
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição da condenação da paciente, a qual transitou em julgado anteriormente à impetração do presente habeas corpus, conforme assinalado pela própria defesa e certificado à e-STJ fl. 105.
+Ainda que assim não fosse, não verifico flagrante ilegalidade na dosimetria, a atrair a concessão da ordem de ofício.
+Acerca da dosimetria, assim se manifestou a Corte de origem (e-STJ fls. 95/98, grifei:
+Na primeira fase da dosimetria, o juízo fundamentou, em poucas linhas, que a natureza da droga - por se tratar de cocaína - e a quantidade - 4,92kg -, que entendeu de "vulto", seriam circunstâncias aptas a justificar a aplicação da pena-base em 07 anos.
+Entendemos que, de fato, a natureza da substância justifica o sopesamento negativo, já que, como se sabe, a cocaína é droga com alto poder aditivo, além de ter efeitos devastadores nos que a usam.
+Do mesmo modo, quantidade, que chega perto dos 5kg, também se mostra apta a exasperar a pena-base.
+Contudo, como bem destrinchou a Douta PRR em seu parecer, não pode, o juízo, a um só tempo, considerar natureza e quantidade para aumentar a pena-base na primeira fase e, mais adiante, considerar os mesmos fatores para aumentar a pena intermediária na terceira fase, sob pena de incidir em bis in idem.
+Nesse sentido, têm se posicionado os tribunais, inclusive após o enfrentamento do tema em sede de repercussão geral, senão vejamos:
+ ..
+Diante do entendimento acima esposado, portanto, entendemos que a quantidade e natureza devem ser sopesadas apenas na primeira fase, de forma que deve ser mantida a pena-base de 07 anos de reclusão.
+Todavia, por abarcar tais elementos na primeira fase, o fato é que, na terceira, a fração de redução deve ser fixada em 2/3, pois não se pode considerar novamente a quantidade para exasperar a pena, consoante já firmado.
+Levando em conta a causa de aumento relativa à transnacionalidade, portanto, tem-se que a pena privativa de liberdade final é de 03 anos, 10 meses e 20 dias de reclusão, a ser cumprida em regime aberto.
+Obedecendo à proporcionalidade e razoabilidade, temos que a quantidade de dias-multa também merece decréscimo, motivo pelo qual fixamos o montante em 300 dias-multa.
+Apelo parcialmente provido para reduzir a pena privativa de liberdade para 03 anos, 10 meses e 20 dias de reclusão, a ser cumprida em regime inicialmente aberto, bem como a quantidade de dias- multa para 300.
+Da pena-base
+Como é cediço, a primeira etapa de fixação da reprimenda tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal.
+Nesse contexto, não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do CP, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+Assim, acerca do tema, a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou, ainda, a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas, neste último caso, que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+As instâncias ordinárias exasperaram a pena-base tendo como fundamento as vetoriais natureza e quantidade de droga, o que gerou um aumento da basilar em 2 anos acima do mínimo legal.
+No caso, tendo a pena-base sido estabelecida acima do mínimo em consideração à natureza e quantidade das drogas apreendidas, em observância ao disposto no art. 42 da Lei n. 11.343/2006, verifico que tal exasperação não ocorreu de maneira desproporcional, sobretudo em razão da quantidade de drogas apreendidas - 4,9kg (quatro quilos e novecentos gramas) de cocaína -, a qual se revela expressiva o suficiente para justificar a negativação da referida vetorial no patamar eleito pelas instâncias ordinárias.
+Por fim, verifico que, tendo sido a pena-base exasperada em 2 anos pelas instâncias ordinárias com fundamento na natureza e quantidade de droga apreendida, de rigor se fez a aplicação da minorante em seu grau máximo, sob pena de bis in idem. Afinal, segundo a jurisprudência desta Corte, a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria.
+Não vislumbro, portanto, a aventada ilegalidade.
+À vista do exposto, denego a ordem liminarmente.
+Assim, mantenho a decisão agravada, por seus próprios fundamentos, e  nego  provimento  ao  agravo  regimental.
+É  o  voto.
+Ministro  ANTONIO  SALDANHA  PALHEIRO
+Relator
