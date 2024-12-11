@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se, na origem, de ação declaratória de inexigibilidade de cobrança c/c indenizatória por dano moral ajuizada por CRISTINA YURI KAMINICE com objetivo de, além de obter a declaração de inexigibilidade da cobrança de valores, receber indenização por danos morais, em razão dos danos suportados pela falha na prestação do serviço da ré.
+Julgada parcialmente procedente a demanda, o Tribunal local reformou parcialmente a senten ça, tendo o acórdão sido assim ementado:
+"Julgamento antecipado da lide - Cerceamento de defesa - Prolator da sentença que tinha em mãos todos os elementos necessários para que fossem apreciados os argumentos desenvolvidos no processo - Prova documental existente nos autos que era suficiente para a antecipação do julgamento da demanda - Nulidade da sentença, por ofensa ao art. 5º, LV, da CF, que não pode ser decretada.
+Responsabilidade civil - "Golpe da troca de cartões" - Pretensão da autora à responsabilização do banco réu pela fraude da qual foi vítima - Inviabilidade - Autora que, ao tentar realizar uma compra de um ambulante, teve o seu cartão substituído por outro de terceiro, havendo sido vítima do "golpe da troca de cartões" - Autora que se deu conta da troca de seu cartão de crédito ao receber uma notificação do banco réu sobre uma compra no valor de R$ 6.499,99 - Fato que não pode ser reputado como fortuito interno.
+Responsabilidade civil - "Golpe da troca de cartões" - Existência, todavia, de falha na prestação de serviços do banco réu caracterizada pela não detecção e bloqueio da operação realizada pelo estelionatário, em padrão destoante do perfil de utilização da autora - Caso em que chama a atenção o fato de a referida compra, no valor de R$ 6.499,99, ter sido realizada em um "bar restaurante" localizado no Estado do Rio de Janeiro - Autora que faz jus ao reconhecimento da inexigibilidade do débito e de seus consectários.
+Responsabilidade civil - Dano moral - Negativa de estorno do valor contestado que não impôs à autora mais do que mero aborrecimento - Fato que não gerou desdobramento danoso à esfera moral da autora -Inaplicabilidade da teoria do "desvio produtivo" - Indenização por danos morais afastada - Sentença reformada nesse ponto - Procedência parcial da ação decretada - Apelo do banco réu provido em parte.
+Responsabilidade civil - Dano moral - Pretensão da autora à majoração da indenização por dano moral que ficou prejudicada, diante do resultado do julgamento do recurso do banco réu - Tutela de urgência que não foi desrespeitada pelo banco réu - Impossibilidade de se cogitar da aplicação de multa cominatória ao banco réu - Apelo da autora desprovido"
+A recorrente, CRISTINA YURI KAMINICE, aponta divergência jurisprudencial no tocante à aplicação do art. 14 do Código de Defesa do Consumidor, sustentando que em virtude da falha na prestação do serviço a ré deveria ser condenada ao pagamento de indenização por danos morais, uma vez que o ocorrido não gerou mero dissabor, mas verdadeiro abalo de ordem moral.
+Sem contrarrazões.
+Juízo de admissibilidade negativo às fls. 477/479 e-STJ.
+Agravo em recurso especial às fls. 499/513 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, ao apreciar a controvérsia, concluiu pela inexistência de dano moral indenizável, tendo em vista que o ocorrido gerou mero dissabor e aborrecimento para a recorrente. Vejamos:
+"2.4. Dos fatos narrados na inicial da ação, todavia, não se depreende a ocorrência de qualquer desdobramento capaz de gerar abalo moral à autora, sendo certo que não se trata de dano moral puro.
+A negativa de estorno do valor contestado não impôs à autora mais do que mero aborrecimento, não havendo nos autos notícia de que ela tivesse experimentado qualquer outro dissabor capaz de representar abalo à sua esfera extrapatrimonial.
+O cenário por ela narrado, portanto, não induz dano moral indenizável, caracterizando-se como lesão de bem patrimonial.
+(..)
+2.5. Tampouco pode preponderar a pretensão à aplicação da denominada teoria do "desvio produtivo" (fl. 8).
+A autora não comprovou que tivesse despendido o seu tempo de maneira demasiada para solucionar o caso administrativamente"
+Assim, a pretensão da recorrente de alterar a conclusão adotada, por demandar o reexame do contexto fático-probatório dos autos, esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES. FIANÇA NÃO EXONERADA. INSCRIÇÃO EM CADASTROS RESTRITIVOS DE CRÉDITO. AUSÊNCIA DE COMPROVAÇÃO DO ILÍCITO. MERO DISSABOR. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 1.022, II, do CPC/2015, uma vez que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O acolhimento da pretensão recursal quanto à alegada existência do ato ilícito e do dever de indenizar o agravante pelos danos morais supostamente sofridos, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+3. Agravo interno não provido" (AgInt no AREsp n. 1.411.924/SP, relator Ministro Luis Felipe Salomão, QUARTA TURMA, DJe de 23/8/2019.)
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
