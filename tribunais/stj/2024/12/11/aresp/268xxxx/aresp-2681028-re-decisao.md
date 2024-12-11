@@ -1,0 +1,37 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que não conheceu do agravo regimental, diante da existência do óbice previsto na Súmula n. 182 do STJ.
+O julgado recorrido recebeu a seguinte ementa (fl. 465):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. SÚMULA 182/STJ.
+1. O art. 932, III, do Código de Processo Civil, positivou o princípio da dialeticidade recursal, sendo aplicável por força do art. 3º do Código de Processo Penal. Assim, cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+2. No caso, no agravo regimental, foi apenas mencionado o fundamento pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, isto é, a falta de impugnação ao fundamento utilizado pelo Tribunal de origem para inadmitir o apelo nobre e que houve insurgência contra a aplicação das Súmulas 284/STF e 7 e 518/STJ, mas não foi concretamente demonstrado como as razões do agravo em recurso especial teriam efetuado a citada impugnação.
+3. Agravo regimental não conhecido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que (fl. 480):
+O acórdão que indeferiu o agravo regimental sob o pretexto de que a defesa não teria atacado todos os fundamentos da decisão agravada fere a proteção constitucional do devido processo legal e da ampla defesa, especialmente quando se observa que, no caso em tela, houve a impugnação dos pontos centrais e prejudiciais ao recorrente.
+Alega que o Tema 660 do STF não poderia ser aplicado, tendo em vista que, na hipótese dos autos, a discussão não depende da análise detalhada do caso concreto ou de normas infraconstitucionais.
+Aduz, ainda, que (fl. 483):
+No Tema 339, o STF concluiu que a decisão deve conter fundamentação suficiente, sem análise minuciosa de todas as alegações. Da mesma forma, o recurso especial deve ter a liberdade de impugnar apenas os fundamentos considerados prejudiciais, desde que seja suficiente para demonstrar o erro da decisão recorrida.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não conheceu do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 470-471):
+No caso, no agravo regimental, foi apenas mencionado o fundamento pelo qual não se conheceu do agravo em recurso especia l nesta Corte Superior, isto é, a falta de impugnação ao fundamento utilizado pela Corte a quo para inadmitir o apelo nobre (aplicação da Súmula 182/STJ) e que houve insurgência contra a aplicação das Súmulas 284/STF e 7 e 518 do STJ, mas não foi concretamente demonstrado como as razões do agravo em recurso especial teriam efetuado a citada impugnação.
+Portanto, tem incidência a Súmula 182/STJ, também ao presente recurso interno.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado à correta aplicação de óbices processuais pelo STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
