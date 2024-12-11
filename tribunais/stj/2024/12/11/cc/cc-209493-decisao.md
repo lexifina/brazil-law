@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado entre o JUÍZO FEDERAL DA 2ª VARA DE ARAÇATUBA (SJ/SP) e o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE ARAÇATUBA (SP).
+Ajuizada a ação inicialmente perante o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE ARAÇATUBA (SP), o magistrado declinou de sua competência em razão dos seguintes fundamentos (fl. 22):
+Figurando no polo passivo desta ação empresa pública federal (Caixa Econômica Federal), declino da competência para conhecer e julgar presente a ação e determino, com fundamento no art. do art. 109, inciso I, da Constituição Federal, que se proceda à sua redistribuição, com urgência, para a Vara da Justiça Federal desta Comarca, dando-se baixa no Cartório Distribuidor e efetuando-se as anotações necessárias.
+Recebidos os autos, o JUÍZO FEDERAL DA 2ª VARA DE ARAÇATUBA (SJ/SP) suscitou o presente conflito argumentando que (fls. 25-26):
+Data maxima venia ao entendimento lançado nos autos pelo Juízo Comum Estadual da 4" Vara Cível da Comarca de Araçatuba/SP. a presente demanda, a despeito da presença no polo passivo de uma empresa pública federal (CAIXA ECONÔMICA FEDERAL), não se insere 110 raio de competência da Justiça Comum Federal.
+Conforme já decidido pelo E. Superior Tribunal de Justiça, é da Justiça Comum Estadual a competência para julgar as
+ações que buscam repactuação de dívidas em razão de superendividamento (artigos 104-A a 1Q4-C do Código de Defesa do Consumidor), ainda que um dos credores seja entidade federal, pois o artigo 109. inciso I. da Constituição Federal, ao mencionar os processos de falência, abarca nas exceções da competência dos juízes federais todas as hipóteses em que haja concurso de credores.
+Essa decisão foi tomada à unanimidade pela Segunda Seção do Superior Tribunal de Justiça nos autos do CONFLITO DE COMPETÊNCIA n. 193.066/DF. ficando assim ementada:
+ ..
+Como se observa, tanto este Juízo (2* Vara Federal de Araçatuba/SP) quanto o Juízo Comum Estadual da 4" Vara Cível da Comarca de Araçatuba/SP consideram-se incompetentes para processar e julgar este feito. Desse modo, caracterizado o conflito negativo de competência, SUSCITO-O na forma do inciso II do artigo 66 do novo Código de Processo Civil.
+Parecer do Ministério Público Federal, às fls. 32-36, opinando pela competência do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE ARAÇATUBA (SP).
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Ao apreciar o tema em debate, a Segunda Seção do STJ firmou o entendimento no sentido de que compete à Justiça estadual processar e julgar a demanda relativa à repactuação de dívidas (superendividamento) amparada na Lei n. 14.181/2021, ainda que o ente federal figure como requerido na demanda.
+Confira-se a ementa do referido julgado:
+CONFLITO DE COMPETÊNCIA - CÓDIGO DE DEFESA DO CONSUMIDOR - AÇÃO DE REPACTUAÇÃO DE DÍVIDAS - SUPERENDIVIDAMENTO - CONCURSO DE CREDORES PREVISTO NOS ARTIGOS 104-A, B E C, DO CDC, NA REDAÇÃO CONFERIDA PELA LEI 14.181/21 - POLO PASSIVO COMPOSTO POR DIVERSOS CREDORES BANCÁRIOS, DENTRE ELES, A CAIXA ECONÔMICA FEDERAL - EXCEÇÃO À REGRA DE COMPETÊNCIA PREVISTA NO ART. 109, I, DA CF/88 - EXEGESE DO COL. SUPREMO TRIBUNAL FEDERAL DEFINIDA EM REPERCUSSÃO GERAL - DECLARAÇÃO DE COMPETÊNCIA DA JUSTIÇA COMUM DO DISTRITO FEDERAL.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente incidente, pois apresenta controvérsia acerca do exercício da jurisdição entre juízos vinculados a Tribunais diversos, nos termos do artigo 105, I, "d", da Constituição Federal.
+2. A discussão subjacente ao conflito consiste na declaração do juízo competente para o processar e julgar ação de repactuação de dívidas decorrentes do superendividamento do consumidor, em que é parte, além de outras instituições financeiras privadas, a Caixa Econômica Federal.
+3. A alteração promovida no Código de Defesa do Consumidor, por meio do normativo legal n.º 14.181/2021, de 1º de julho de 2021, supriu lacuna legislativa a fim de oferecer à pessoa física, em situação de vulnerabilidade (superendividamento), a possibilidade de, perante seus credores, rediscutir, repactuar e, finalmente, cumprir suas obrigações contratuais/financeiras.
+4. Cabe à Justiça comum estadual e/ou distrital processar e julgar as demandas oriundas de ações de repactuação de dívidas decorrentes de superendividamento - ainda que exista interesse de ente federal - porquanto a exegese do art. 109, I, do texto maior, deve ser teleológica de forma a alcançar, na exceção da competência da Justiça Federal, as hipóteses em que existe o concurso de credores.
+5. Conflito conhecido para declarar a competência do r. juízo comum do Distrito Federal e Territórios para processar e julgar a ação de repactuação de dívidas por superendividamento, recomendando-se ao respectivo juízo, ante à delicada condição de saúde do interessado, a máxima brevidade no exame do feito.
+(CC 193.066/DF, relator Ministro Marco Buzzi, julgado em 22/03/2023, DJe de 31/03/2023, grifei.)
+No mesmo sentido, trago, entre outros, os seguintes julgados: CC n. 200.381/DF (relator Min. Antonio Carlos Ferreira, DJe de 6/11/2023), CC n. 199.709/MG (relator Min. Marco Aurélio Bellizze, DJe de 25/10/2023) e CC n. 200.271/DDF (relator Min. Marco Buzzi, DJe de 20/10/2023).
+Com efeito, verifica-se que o presente caso amolda-se perfeitamente aos julgados acima referidos, devendo ser adotada a mesma solução jurídica para a hipótese.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE ARAÇATUBA (SP).
+Comunique-se o teor da presente decisão aos juízos suscitado e suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. REPACTUAÇÃO DE DÍVIDAS. ENTE FEDERAL NO POLO PASSIVO DA DEMANDA. EXCEÇÃO AO ART. 109, I, DA CF/1988. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
