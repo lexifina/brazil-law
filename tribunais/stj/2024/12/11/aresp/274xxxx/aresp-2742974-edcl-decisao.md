@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos declaratórios em agravo em recurso especial opostos por PAULA ROBERTA CHAVES CÂMARA e outros, em que figura como embargado o Estado do Rio Grande do Norte.
+Aduzem os embargantes a existência de omissões e obscuridade na decisão monocrática de fls. 1375/1389, que conheceu do agravo para negar conhecimento ao recurso especial obstado no Tribunal local, ante a aplicação das Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+Alegam que a primeira omissão e obscuridade consistem no fato de que a decisão embargada "não esclareceu por qual motivo, no caso presente, seria preciso reanalisar os fatos e provas constantes dos autos, já que os elementos para a análise da violação ao art. 145, I, do Código de Processo Civil constam do teor e podem ser analisados da simples leitura do acórdão de origem" e "também não indicou por qual motivo seria inaplicável os precedentes e firme jurisprudência dessa Corte Superior sobre a Súmula 7 neste caso".
+A segunda omissão decorreria do fato de que "a decisão embargada não enfrentou ou se manifestou sobre a ofensa a outros dispositivos da legislação federal, que indicam a nulidade do acórdão do TJRN", "sendo indispensável que que seja analisada a admissibilidade do Recurso Especial no ponto em que invocou violação aos arts. 489, § 1º, I, III e IV, e 1.022, CPC".
+Argumenta que "o Tribunal a quo deixou de analisar a matéria, mesmo após a oposição de Embargos de Declaração, limitando-se a tecer uma decisão genérica. Portanto, o Tribunal de origem incidiu em vício de nulidade por negativa de prestação jurisdicional, em ofensa aos arts. 1.022 e 489, §1, III e IV, do CPC/2015" e que "a decisão monocrática embargada, contudo, não se manifestou sobre o ponto e não analisou a alegada ofensa à legislação federal. Por isso, verifica-se a existência de omissão, a ser suprida pelo julgamento destes embargos de declaração".
+Requerem sejam afastados os vícios apontados, para que seja esclarecida a obscuridade e supridas as omissões indicadas, atribuindo-se ao recurso efeitos modificativos.
+Apesar de devidamente intimado, o embargado não apresentou contrarrazões.
+É, no essencial, o relatório.
+Consoante a interpretação do artigo 1022, do Código de Processo Civil, os embargos declaratórios são o recurso interposto perante o órgão jurisdicional que proferiu a decisão no intuito de afastar obscuridade, suprir omissão ou eliminar contradição existente no julgado.
+Nos autos ora analisados, decerto não assiste razão ao embargante ao alegar obscuridade e omissão no decisum impugnado, conforme passo a demonstrar:
+A omissão consiste na falta de pronunciamento judicial sobre ponto ou questão suscitada pelas partes, ou que o juiz ou juízes deveriam pronunciar-se de ofício. Conclui-se, assim, que as questões que o juiz não pode deixar de decidir são todas as questões relevantes postas pelas partes para a solução do litígio, bem como as questões de ordem pública, as quais o juiz deve resolver de ofício. Deixando de apreciar algum desses pontos, ocorre a omissão.
+Todavia, não se pode confundir questão ou ponto com fundamento ou argumento que servem de base fática, lógica para a questão, pois o juiz não está obrigado a examinar todos os fundamentos das partes, sendo importante que indique somente o fundamento em que apoiou sua convicção no decidir.
+In casu, não obstante as matizadas altercações postas à deliberação, é certo que a decisão monocrática embargada expôs satisfatoriamente as razões pelas quais esta relatoria se convenceu de que seria inviável o conhecimento do recurso especial obstado no Tribunal de origem, ante a incidência das Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+Quanto a esse ponto, vejamos trecho do decisum recorrido:
+(..) Como se pode constatar, o Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, rejeitou o incidente de suspeição, por entender que não havia motivos aptos a afastar a imparcialidade do julgador. Nesse contexto, a modificação do entendimento firmado demandaria o reexame de fatos e provas, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. (..) Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com efeito, impossível apor-se a tais argumentações a pecha de omissão.
+Não há falar também em obscuridade.
+De acordo com a doutrina e jurisprudência, há obscuridade quando a redação da decisão não é suficientemente clara, dificultando sua compreensão ou interpretação.
+Na hipótese, os embargantes sequer apontaram qual seria a obscuridade no julgado, limitando-se a alegar a existência do vício de forma genérica.
+Nas razões do recurso não está o embargante expressando que não entendeu o julgamento, mas busca tão somente rediscutir a matéria já apreciada por esta relatoria, traduzindo meramente a sua inconformidade com o decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
