@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão monocrática de minha lavra que recebeu o seguinte dispositivo:
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar, do valor determinado à restituição, as parcelas anteriores à data da impetração.
+Nos embargos, a parte recorrente alega que a decisão embargada omitiu-se quanto ao fato de que não teria havido, na petição inicial, pretensão de restituição de valores via precatório, mas somente via compensação administrativa.
+Fundamenta, ainda, com base na Súmula n. 461/STJ, segundo a qual o contribuinte teria o direito de optar entre receber o indébito tributário, certificado por sentença declaratória transitada em julgado, por meio de precatório ou de compensação.
+Também argumenta que a decisão deixou de abordar de forma clara a existência do marco temporal definido pelo STF no julgamento do Tema n. 69 de repercussão geral, qual seja, 15 de março de 2017, nos termos da modulação de efeitos julgada.
+É o relatório. Decido.
+Os embargos de declaração não comportam acolhimento.
+A pretensão do embargante é de rediscutir o mérito da decisão prolatada, o que não é admissível no âmbito dos embargos declaratórios, na medida em que se trata de recurso de fundamentação vinculada.
+Não há omissão, contradição ou obscuridade na decisão embargada.
+A possibilidade de pagamento do indébito tributário reconhecido em decisão concessiva de mandado de segurança por meio de precatório ou requisição de pequeno valor foi aventada no acórdão que julgou os embargos de declaração opostos na origem (fl. 663):
+Verifica-se, pois, o entendimento dos Tribunais Superiores no sentido da possibilidade de instauração de liquidação/cumprimento de sentença proveniente de mandado de segurança, uma vez que autorizado o pagamento de indébito tributário oriundo de decisão concessiva da ordem, por meio de precatório ou requisição de pequeno valor. Assim sendo, inexiste também qualquer vício na r. decisão a esse respeito, cabendo à embargante, caso queira revisar o julgado de acordo com sua tese, utilizar-se da via recursal própria.
+A questão foi abordada no recurso especial da Fazenda Pública, inclusive com referência ao Tema n. 831 de repercussão geral, sob a ótica do cerne recursal, isto é, a impossibilidade de que sejam abrangidas parcelas anteriores à data da impetração.
+A determinação de observância ao regime de precatórios, nos termos do Tema n. 831/STF, diz respeito à impossibilidade de que seja procedida a restituição administrativa em dinheiro bem como ao fato de que o termo inicial dos valores é a data da impetração. Não há oposição, portanto, à Súmula n. 461, segundo a qual "o contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado".
+Ademais, o que se determinou no dispositivo da decisão monocrática ora embargada foi o afastamento, do valor determinado à restituição, das parcelas anteriores à data da impetração, não havendo qualquer disposição impositiva quanto à forma de restituição. No mesmo sentido, as seguintes decisões monocráticas: REsp n. 2.174.563, Ministro Francisco Falcão, DJe de 15/10/2024; REsp n. 2.163.138, Ministro Gurgel de Faria, DJe de 27/11/2024; REsp n. 2.146.453, Ministro Paulo Sérgio Domingues, DJe de 27/08/2024.
+Anote-se, ainda, a orientação jurisprudencial do Superior Tribunal de Justiça, no sentido de que "se revela incabível a utilização do mandado de segurança para se pleitear a restituição do indébito tributário, anterior à impetração, por meio de precatório ou de RPV, sob pena de conferir a vedada natureza de ação de cobrança ao mandamus" (AgInt no REsp 2.133.241/ES, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/9/2024, DJe de 3/10/2024).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
