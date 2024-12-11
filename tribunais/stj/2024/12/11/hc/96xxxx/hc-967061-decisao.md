@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de DANDARA MARCELA SILVA RABELO, em face de decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que a paciente foi condenada às penas de três (3) anos, um (1) mês e dez (10) dias de reclusão, em regime inicial semiaberto (art. 33, § 3º, do CP), e trinta e oito (38) dias-multa, no valor de um trigésimo (1/30) do salário mínimo vigente na data dos fatos, para cada dia-multa, corrigidos na forma legal, dando-a como incursa nas sanções do artigo 155, § 4º, inciso IV, c/c artigo 29, caput, ambos do Código Penal, por cinco vezes, na forma do artigo 71, caput, também do Código Penal e, encontra-se presa preventivamente.
+Irresignada, a defesa, impetrou prévio habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado:
+ ..  HABEAS CORPUS. FURTOS QUALIFICADOS PELO CONCURSO DE AGENTES E EM CONTINUIDADE DELITIVA (ART. 155, §4º, INCISOIV, POR CINCO VEZES, NA FORMA DO ART. 71, CAPUT, DO CÓDIGO PENAL). AUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA. NÃO OCORRÊNCIA. NECESSIDADE DE ACAUTELAR A ORDEM PÚBLICA DIANTE DO RISCO CONCRETO DE REITERAÇÃO DELITIVA. PACIENTE QUE RESPONDE A AÇÕES PENAIS PORFURTO QUALIFICADO. MOTIVAÇÃO IDÔNEA PARA AFASTAR AS MEDIDAS CAUTELARES ALTERNATIVAS. PRISÃO DOMICILIAR PELA CONDIÇÃO DE GENITORA DE CRIANÇAS MENORES. INVIABILIDADE DA APLICAÇÃO DO PRECEDENTE DO HC COLETIVO N. 143641 DO STF. PRÁTICA DOS ILÍCITOS NA PRESENÇA DA PROLE. INFANTE QUE ESTÁ AOS CUIDADOS DAAVÓ MATERNA. RESIDÊNCIA FIXA E TRABALHO LÍCITO. PREDICADOS POSITIVOS QUE NÃO ELIDEM A NECESSIDADE DA SEGREGAÇÃO CAUTELAR. ORDEM DENEGADA.  ..  (fl. 16)
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor da Paciente, em especial por ser genitora de uma criança.
+Requer a concessão da ordem liminarmente e, no mérito, subsidiariamente, a imposição de medidas cautelares diversas.
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não suficientemente instruídos. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não foi juntada a íntegra do acórdão hostilizado, peças essenciais à análise das questões controvertidas.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 774.358/PE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/12/2022).
+Ante o exposto, com fulcro no art. 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem -se.
+EMENTA
