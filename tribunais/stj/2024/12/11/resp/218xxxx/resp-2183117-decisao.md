@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se recurso especial interposto por MARIA JOSE DA SILVA com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 29/1/2024.
+Concluso ao gabinete em: 6/12/2024.
+Ação: "revisional de contrato com pedido de exibição incidental de documento" (fl. 1) ajuizada pela recorrente.
+Sentença: julgou improcedente o pedido, extinguindo o feito com resolução do mérito, nos termos do art. 487, inciso I do Código de Processo Civil.
+Acórdão: por unanimidade, deu parcial provimento ao recurso de apelação, nos termos da seguinte ementa:
+PROCESSO Rejeição da preliminar de não conhecimento do recurso da parte autora A apelação oferecida satisfaz os requisitos do art. 1.010, do CPC/2015. CONTRATO DE EMPRÉSTIMO CONSIGNADO JUROS REMUNERATÓRIOS E CUSTO EFETIVO TOTAL Embora a taxa de juros remuneratórios contratada não exceda o limite de 2,14% ao mês, previsto na então vigente Instrução Normativa INSS/PRESS 28/2008, com redação vigente na data da contratação objeto da ação, restou caracterizada a abusividade no emprego da taxa de 2,40% ao mês para Custo Efetivo total CET, uma vez que "a taxa de juros não poderá ser superior a dois inteiros e quatorze centésimos por cento (2,14%) ao mês, devendo expressar o custo efetivo do empréstimo", conforme previsão expressa do inciso II, do art. 13, da Instrução Normativa INSS PRES 28, de 19 de maio de 2008, com redação dada pelo art. 1º da Instrução Normativa do INSS/PRES nº 125, de 9 de dezembro de 2021, vigente à época da contratação (18.03.2022), impondo-se, em consequência, a limitação da cobrança do CET, que incorpora todos os encargos e despesas incidentes nas operações de crédito (taxa de juro, mas também tarifas, tributos, seguros e outras despesas cobradas), à taxa teto da instrução normativa em questão. INDÉBITO Caracterizada a cobrança abusiva por ilicitude de encargos exigidos no caso dos autos, apenas e tão somente, a cobrança do Custo Efetivo Total CET, no percentual superior ao permitido , de rigor, o acolhimento do pedido de revisão para o afastamento de tal exigência e a compensação do indébito, constituído por valores pagos para satisfação da cobrança abusiva por ilicitude de encargo exigido, em dobro, para os pagamentos das parcelas, todos após 30.03.2021 (modulação estabelecida nos EAREsp 600.663/RS e 676.608/RS), dado que consubstancia conduta contrária à boa-fé objetiva, a cobrança abusiva por ilicitude de encargo exigido, e até mesmo a repetição de eventual saldo credor em favor da parte autora, incidindo sobre o indébito, correção monetária, pelos índices da Tabela Prática do Eg. Tribunal de Justiça, para atualização de débitos judiciais, a partir de cada pagamento indevido, e juros de mora a partir da citação na taxa de 12% ao ano, em montante a ser apurado em cumprimento de sentença. LITIGÂNCIA DE MÁ-FÉ - Incabível o reconhecimento de litigância de má-fé da parte autora As alegações deduzidas não ultrapassaram os limites razoáveis do exercício do direito de ação e defesa. Recurso provido, em parte.
+(fls. 164-165)
+Embargos de declaração: opostos, foram rejeitados (fls. 221-228).
+Recurso especial: alega, em síntese, além de divergência jurisprudencial, ofensa ao art. 85, §8º e §8º-A, do Código de Processo Civil, ao argumento de que o valor arbitrado de honorários advocatícios sucumbenciais deveria ser majorado equitativamente.
+Prévio juízo de admissibilidade: o TJSP admitiu o recurso especial interposto (fls. 265-266).
+É o relatório.
+DECIDO.
+1. DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS
+1. Aduz a recorrente, em síntese que o valor arbitrado de honorários advocatícios sucumbenciais deveria ser majorado equitativamente.
+2. A Corte de origem, não obstante, em razão da sucumbência mínima da parte autora, condenou a parte ré, por meio de apreciação equitativa, ao pagamento de honorários fixados em R$1.412,00, máxime tendo em vista que a tabela da OAB para a fixação de honorários não seria vinculante, verbis:
+10. Provido, em parte, o recurso, com base nos arts. 85, caput, §§ 1º e 8º, considerando os parâmetros dos incisos I a IV, do § 2º, do mesmo art. 85, em razão da sucumbência mínima da parte autora (CPC, art. 86, § único), condena-se a parte ré ao pagamento das custas e despesas processuais (CPC, art. 82/ § 2º, do CPC) e de verba honorária fixada em R$1.412,00, com incidência de correção a partir deste julgamento, montante este que se mostra adequado para remunerar condignamente o patrono da parte autora, sem se mostrar excessivo, nem desproporcional à complexidade da causa.
+Anota-se que se adota a orientação de que o §8º-A, do art. 85, do CPC traz mera recomendação de valores, sem vincular o prudente arbítrio judicial na apreciação equitativa dos honorários advocatícios.
+(fl. 177)
+3. Nesse contexto, importa consignar que esta Corte Superior perfilha o entendimento de que os valores estabelecidos pela tabela da OAB para os honorários advocatícios não vinculam o juiz.
+4. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS. ART. 85, § 8º-A, DO CPC. TABELA DA ORDEM DOS ADVOGADOS DO BRASIL. NÃO VINCULAÇÃO. SÚMULA N. 83/STJ. REVISÃO DOS VALORES DE HONORÁRIOS. SÚMULA N. 7/STJ.
+1. No caso dos autos, decidiu o Tribunal a quo pela fixação equitativa dos honorários sucumbenciais, cingindo-se a controvérsia a definir se o comando inserto no § 8º-A do art. 85 do CPC impõe a utilização da tabela de honorários da OAB pelo magistrado de forma vinculativa.
+2. O STJ possui entendimento consolidado sobre a não vinculação do magistrado aos valores estabelecidos pela tabela da OAB para a fixação de honorários advocatícios, sendo essa tabela apenas uma referência. Portanto, os juízes têm discricionariedade para arbitrar os honorários de acordo com os critérios previstos no Código de Processo Civil, como o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa, o trabalho realizado e o tempo exigido.
+3. Alterar o decidido no acórdão impugnado, no que se refere à majoração dos honorários fixados por equidade, seria necessário o reexame de fatos e provas, vedado em recurso especial pela Súmula n. 7 do STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 2.131.493/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)  g.n.
+5. No mesmo sentido: AgInt no REsp n. 2.106.286/SP, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024; AgInt no AREsp n. 1.033.446/SP, Quarta Turma, julgado em 29/6/2020, DJe de 1/7/2020.
+6. Como consequência, alterar o decidido no acórdão impugnado, no que se refere à majoração dos honorários fixados por equidade, demandaria o reexame de fatos e provas o que é vedado pelo enunciado da Súmula 7 do STJ. Nesse sentido: AgInt no REsp n. 2.131.493/DF, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024; AgInt no REsp n. 2.103.955/SP, Terceira Turma, julgado em 24/6/2024, DJe de 27/6/2024.
+Forte nessas razões, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. TABELA DA OAB. NÃO VINCULAÇÃO. SÚMULA 7 DO STJ.
+1. Esta Corte Superior perfilha o entendimento de que os valores estabelecidos pela tabela da OAB para os honorários advocatícios não vinculam o juiz. Precedentes.
+2. Alterar o decidido no acórdão impugnado, no que se refere à majoração dos honorários fixados por equidade, demandaria o reexame de fatos e provas o que é vedado pelo enunciado da Súmula 7 do STJ.
+3. Recurso especial não conhecido.
