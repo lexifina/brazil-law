@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Ribeiro Dantas e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. ROUBO MAJORADO. REGIME PRISIONAL. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de condenado à pena de 6 anos e 8 meses de reclusão, em regime fechado, pela prática do crime de roubo majorado, conforme art. 157, § 2º, II e § 2º-A, I, do Código Penal.
+2. A defesa alega ausência de fundamentação concreta para a fixação de regime prisional mais gravoso, em desrespeito às Súmulas 440 do STJ, 718 e 719 do STF, e requer a alteração do regime para o semiaberto.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a fixação do regime prisional fechado, com base na gravidade concreta do delito, é válida, mesmo quando a pena-base foi fixada no mínimo legal e as circunstâncias judiciais são favoráveis.
+III. RAZÕES DE DECIDIR
+4. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+5. A análise do regime prisional estabelecido pelo Tribunal de origem está em conformidade com a jurisprudência, considerando gravidade concreta do crime, praticado com superioridade numérica e uso de armas de fogo, o que demonstra maior reprovabilidade da conduta.
+6. Alterar o regime prisional demandaria dilação probatória, inviável em sede de habeas corpus.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fl. 92 e-STJ:
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WESLEM CONCEICAO DE JESUS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal 0271063-30.2022.8.19.0001).
+O paciente foi condenado à pena de 8 anos de reclusão em regime fechado, além do pagamento de 21 dias-multa, pela prática do crime previsto no art. 157, § 2º, II e § 2º-A, I, do Código Penal.
+A apelação interposta pela defesa foi parcialmente provida para redimensionar a pena do paciente ao patamar de 6 anos e 8 meses de reclusão, além do pagamento de 16 dias-multa, mantido o regime de cumprimento fixado na sentença.
+A defesa alega ausência de fundamentação concreta para a fixação de regime prisional mais gravoso, ante a inexistência de valoração negativa das circunstâncias judiciais previstas no art. 59 do Código Penal, e em inobservância à orientação das Súmulas 440 do STJ, 718 e 719 do STF.
+Requer, liminar e definitivamente, deferimento da ordem a fim de que seja estabelecido o regime prisional semiaberto para cumprimento da pena.
+É o relatório.
+A defesa alega, em síntese, a ocorrência de ilegalidade na fixação do modo inicial de cumprimento da pena.
+Requer a concessão da ordem para obter a alteração do regime prisional para o semiaberto.
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. ROUBO MAJORADO. REGIME PRISIONAL. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de condenado à pena de 6 anos e 8 meses de reclusão, em regime fechado, pela prática do crime de roubo majorado, conforme art. 157, § 2º, II e § 2º-A, I, do Código Penal.
+2. A defesa alega ausência de fundamentação concreta para a fixação de regime prisional mais gravoso, em desrespeito às Súmulas 440 do STJ, 718 e 719 do STF, e requer a alteração do regime para o semiaberto.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a fixação do regime prisional fechado, com base na gravidade concreta do delito, é válida, mesmo quando a pena-base foi fixada no mínimo legal e as circunstâncias judiciais são favoráveis.
+III. RAZÕES DE DECIDIR
+4. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+5. A análise do regime prisional estabelecido pelo Tribunal de origem está em conformidade com a jurisprudência, considerando gravidade concreta do crime, praticado com superioridade numérica e uso de armas de fogo, o que demonstra maior reprovabilidade da conduta.
+6. Alterar o regime prisional demandaria dilação probatória, inviável em sede de habeas corpus.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, na medida em que o acórdão assim se manifestou acerca da dosimetria:
+No plano da dosimetria a sentença desafia ajustes.
+Na primeira fase, pena base no piso da lei, 04 anos de reclusão e 10 DM, no que foi à intermediária, onde deverá constar o registro da confissão informal de Weslem junto aos agentes da lei, bem como a sua menoridade penal (nascido em 03/07/2002, pasta 26, e fatos praticados em 11/10/2022), sendo certo, contudo, que nenhuma dessas atenuantes surtirá efeitos práticos, à conta do teor da Súmula 231, do E. STJ.
+Na derradeira, duas causas de aumento, o concurso de agentes e o emprego da arma de fogo.
+Contudo, o cômputo dessas majorantes não se dará como engendrado pelo ilustre sentenciante, mas, sim, atraindo o que dispõe o parágrafo único, do art. 68, do CP, empregando-se, para tanto, a fração de 2/3, para que a sanção se aquiete em 06 anos e 08 meses de reclusão e 16 dias-multa.
+Em relação ao regime inicial de cumprimento, é certo que as sanções básicas e o regime prisional possuem finalidades distintas, ainda que norteados pelos mesmos critérios de valoração, ou seja, as circunstâncias judiciais previstas no art. 59, do Código Penal.
+Por isso, a existência do inciso III, do art. 59, do Código Penal, no qual o legislador determinou ao magistrado, como etapa seguinte à quantificação da pena privativa de liberdade (inciso II do mesmo artigo), a escolha do regime inicial para seu cumprimento.
+Interpretação doutrinária no mesmo sentido pode ser extraída do item 34, da Exposição de Motivos da Nova Parte Geral do Código Penal, onde está expresso que a opção pelo regime inicial da execução cabe, pois, ao juiz da sentença, que o estabelecerá no momento da fixação da pena.
+Relevante notar, portanto, a inquietude e a apreensão já instaladas no seio social, causadas por fatos idênticos aos protagonizados pelo agente da conduta criminosa.
+Convém relembrar que a vítima, na sede policial e ainda sob o frescor dos fatos, declarou de maneira contundente que "foi surpreendido por quatro indivíduos armados, sendo dois deles portando fuzis, e dois deles portando pistolas" (GRIFEI).
+Nesses termos, considerando que o apelante, além de empregar esforços de outros comparsas, fez uso de arma de fogo para anular eventual reação da vítima.
+Eis que o evento delitivo, portanto, facilmente poderia transbordar do objeto juridicamente tutelado no crime em exame, que é o património, para alcançar valores bem mais preciosos como a incolumidade física ou a própria vida humana, o que aumenta sobremaneira a periculosidade e a culpabilidade do agente do delito, exigindo, por isso, a necessária reciprocidade da resposta estatal.
+Portanto, o regime fechado arbitrado deverá ser mantido, por se mostrar o único capaz de atender aos objetivos da pena, inclusive aquele de verve pedagógica, com vistas a uma futura ressocialização do apenado.
+Impossível a substituição do art. 44 ou mesmo o "sursis" do art. 77, ambos do CP, haja vista a presença da violência ínsita ao roubo, além da superação dos quantitativos limites de pena à aquisição de tais benefícios.
+Em relação ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.".
+Nesse mesmo sentido, as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente, in verbis: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada." e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Nota-se que o Tribunal de origem fixou o regime fechado em razão da gravidade concreta do crime, pois foi praticado com superioridade numérica me diante uso de fuzil e pistolas, o que exige maior reprovabilidade da conduta.
+Assim, embora a pena aplicada se situe, na hipótese, em patamar superior a 4 anos e inferior a 8 anos de reclusão e as circunstâncias judiciais sejam favoráveis, é cabível a imposição de regime mais gravoso, ante a gravidade concreta do delito, mostrando-se viável a fixação do modo fechado, nos termos do art. 33, §§ 2º e 3º, do CP.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. REGIME PRISIONAL INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO DELITO. CIRCUNSTÂNCIAS DO CASO CONCRETO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência firmada nesta Corte, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito, nos termos do Enunciado n. 440 da Súmula deste Tribunal.
+2. Na hipótese, a despeito de a pena-base ter sido fixada no mínimo legal, o regime prisional inicial fechado foi aplicado pela gravidade concreta da conduta, a qual foi ressaltada pelo Tribunal a quo, tendo em vista as circunstâncias que envolveram o delito, cometido mediante o uso ostensivo de arma de fogo, em estabelecimento comercial, elementos que justificam a aplicação de regime inicial mais gravoso, tendo em vista a especial gravidade do modus operandi do delito. Precedentes.
+3. Agravo regimental a que se nega provimento. (AgRg no HC n. 866.242/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME. GRAVIDADE CONCRETA. VIOLÊNCIA EXACERBADA. MANUTENÇÃO DA MODALIDADE MAIS GRAVOSA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Na espécie, o recrudescimento do regime deu-se com base na gravidade concreta do delito praticado "em concurso de agentes e com emprego de violência - aplicação do golpe conhecido como "gravata", depois de terem simulado serem passageiros comuns de aplicativo o que acarretou pânico e insegurança ao ofendido, situação que revela grande obstinação e audácia e se reveste de gravidade concreta, não havendo de se cogitar de baixa culpabilidade dos apelantes". Assim, não há, no caso, desobediência ao preconizado nas Súmulas n. 440 desta Corte Superior e n. 718 e 719 do Supremo Tribunal Federal. Precedentes.
+2. Agravo regimental improvido. (AgRg no HC n. 819.595/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. REGIME PRISIONAL FECHADO. MOTIVAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+2. Os fundamentos utilizados pelo Tribunal a quo, no tocante à gravidade concreta da conduta, - roubo perpetrado por dois agentes, que abordaram a vítima em plena via pública, enquanto dirigia sua motocicleta, com o emprego de arma de fogo, a qual foi utilizada para ameaçar a vítima, tendo sido apontada para sua cabeça, o que a fez parar a motocicleta e entregá-la aos agentes, juntamente com os demais bens pessoais que portava - não podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), não havendo que se falar em violação da Súmula 440/STJ, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+3. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Código Penal, desde que mediante fundamentação idônea, como na hipótese.
+4. Agravo regimental não provido. (AgRg no HC 761.265/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe de 2/12/2022) (Grifamos)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. REGIME INICIAL FECHADO. PENA INFERIOR A OITO ANOS DE RECLUSÃO. PRIMARIEDADE DOS RECORRENTES. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DO DELITO.
+I - A fixação do regime inicial deve se dar nos termos do art. 33, §§ 2º e 3º, do Código Penal, de modo que, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos.
+II - No caso, a Corte de origem invocou fundamentos para manter o regime mais gravoso que estão em sintonia com o entendimento deste Sodalício, que admite o recrudescimento do regime inicial com base na gravidade concreta da conduta, ainda que a pena-base tenha sido fixada no mínimo legal. Precedentes.
+Agravo regimental desprovido. (AgRg no AREsp n. 2.275.228/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E PELO CONCURSO DE PESSOAS - ART. 157, §§ 2º, II, E 2º-A, I, DO CÓDIGO PENAL - CP. DOSIMETRIA. REGIME PRISIONAL MAIS GRAVOSO. OUSADIA. PERICULOSIDADE. MAIOR REPROVABILIDADE NA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese, embora as circunstâncias judiciais tenham sido consideradas favoráveis, o paciente seja primário e a reprimenda corporal tenha sido estabelecida em 6 anos e 8 meses de reclusão, constata-se que o regime inicial fechado foi estabelecido a partir de motivação concreta extraída dos autos.
+2. As circunstâncias do caso concreto evidenciam o grau mais elevado de periculosidade e gravidade nas condutas do agravante, que praticou a empreitada criminosa na companhia de outros dois agentes, mediante grave ameaça com o uso de arma de fogo em um shopping center, e depois de realizarem o delito, os meliantes, em desobediência às ordens policiais, acabaram se envolvendo em uma perseguição com troca de tiros em via pública, o que, de fato, demonstra uma maior reprovabilidade na conduta do paciente, justificando o regime prisional mais severo, exatamente nos termos do que dispõe o art. 33, §§ 2º e 3º do Código Penal. Inaplicável, portanto, os enunciados das Súmulas n. 440/STJ e n. 718/STF. Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC n. 709.682/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/2/2022, DJe de 2/3/2022.)
+Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória em sede de habeas corpus.
+Ante o exposto, não conheço do presente habeas corpus.
+É o voto.
