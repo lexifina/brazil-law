@@ -1,0 +1,12 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por LEONE TARIK CALDAS NOBLAT CARDOSO - preso em flagrante delito, pela suposta prática do crime de tráfico de drogas, mediante o uso de arma de fogo, arts. 33 e 40, IV, da Lei n. 11.343/2006 - contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE ALAGOAS, não comporta acolhimento.
+Com efeito, busca o recorrente a nulidade das provas, por ilegalidade na busca pessoal realizada e aponta também ser desnecessária a prisão cautelar, que não deve ser a regra imposta pelo Juízo de Direito da Vara Plantonista Criminal de Maceió/AL (Autos n. 0700524-78.2024.8.02.0067).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois os policiais estavam realizando moto-patrulhamento de rotina quando passaram por local já conhecido como ponto de tráfico de drogas, e visualizaram o recorrente, em atitude suspeita, fazendo movimento de que se evadiria do local, momento esse em que foi feita a abordagem pelos policiais e, junto com substância aparentando ser maconha, foi também apreendida uma arma de fogo (fls. 79/80).
+No mesmo sentido: a fuga do paciente ao avistar a equipe policial constitui elemento suficiente para configurar fundada suspeita, justificando a abordagem e a realização de busca pessoal, conforme jurisprudência consolidada desta Corte Superior (HC n. 809.094/SP, Ministra Daniela Teixeira, Quinta Turma, D Je 29/10/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da form a como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável na via eleita.
+Por fim, quanto ao decreto de prisão, houve concreta fundamentação para a necessidade da constrição cautelar, qual seja, o risco de reiteração delitiva, pela existência de condenação transitada em julgado em desfavor do recorrente (fls. 39/42).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS MEDIANTE O USO DE ARMA DE FOGO. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA. EXISTÊNCIA. TENTATIVA DE FUGA AO AVISTAR OS POLICIAIS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRIÇÃO CAUTELAR. CONCRETA FUNDAMENTAÇÃO. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso em habeas corpus improvido.
