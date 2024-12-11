@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão de fls. 380-381, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A parte embargante sustenta que a questão versada no presente feito está abarcada pelo decidido no Tema 1199/STJ, razão pela qual pugna pelo acolhimento dos aclaratórios e devolução dos autos à origem para fins de juízo de conformação, nos termos dos artigos 1030 e 1040 do CPC/2015.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, observa-se, de fato, que não houve anterior apreciação do pleito de fls. 360-363.
+A matéria objeto da controvérsia foi objeto de afetação e julgamento pelo Superior Tribunal de Justiça nos autos dos REsps 2015301/MA e 2036429/MA, Rel. Min. Paulo Sérgio Domingues, Primeira Seção, DJe de 15/9/2023, representativos de controvérsia, nos quais foi firmado o Tema 1199/STJ: "Nos procedimentos de demarcação de terrenos de marinha, é válido o ato jurídico de chamamento de interessados certos ou incertos à participação colaborativa com a Administração formalizado exclusivamente por meio de edital, desde que o ato tenha sido praticado no período de 31/05/2007 até 28/03/2011, em que produziu efeitos jurídicos a alteração legislativa do art. 11 do Decreto-lei 9.760/46 promovida pelo art. 5º da Lei 11.481/2007.".
+Ante o exposto, acolho excepcionalmente os embargos de declaração, com efeitos modificativos, para tornar sem efeito a decisão embargada e determinar a devolução dos autos ao Tribunal de origem pelo Tema 1199/STJ, para que, em observância aos arts. 1030 e 1040 do CPC/2015: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCEDIMENTOS DEMARCATÓRIOS. ART. 11 DO DECRETO 9760/1946. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1199/STJ. DEVOLUÇÃO À ORIGEM.
