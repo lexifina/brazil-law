@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A (NORCON), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Sergipe, assim ementado:
+APELAÇÃO CIVEL. AÇÃO DE INDENIZAÇÃO C/C DANOS MATERIAIS E DANOS MORAIS. ATRASO NA ENTREGA DAS CHAVES. EXTRAPOLADO O PRAZO DE TOLERÂNCIA DE 180 DIAS PREVISTO CONTRATUALMENTE. AGRAVO RETIDO. NÃO CONHECIDO. AUSÊNCIA DE RATIFICAÇÃO. APELAÇÃO CIVEL. DANOS MORAIS CARACTERIZADOS. DANOS MATERIAL PARCIALMENTE COMPROVADOS. CUMULAÇÃO DE MULTA CONTRATUAL E INDENIZAÇÃO POR PERDAS E DANOS. POSSIBILIDADE. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. EMBARGOS DECLARATÓRIOS MANIFESTAMENTE PROTELATÓRIOS. ÔNUS SUCUMBENCIAL REDISTRIBUIDOS. HONORÁRIOS ADVOCATÍCIOS MAJORADOS POR FORÇA DO ART. 85, § 11 DO NCPC. AGRAVO RETIDO NÃO CONHECIDO. APELOS CONHECIDOS E PARCIALMENTE PROVIDOS. DECISÃO UNÂNIME (e-STJ, fls. 460/461)
+Referido acórdão foi modificado, em momento subsequente, para observância das teses fixadas nos Temas 970 e 971 do STJ, que tratam, respectivamente, da cumulação de lucros cessantes com cláusula penal e da inversão da cláusula penal em benefício do consumidor.
+Confira-se:
+APELAÇÃO CÍVEL. RECURSO REAPRECIADO NA FORMA DO ARTIGO 1040, II DO NOVO CPC. AÇÃO DE INDENIZAÇÃO C/C DANOS MATERIAIS E DANOS MORAIS. ATRASO NA ENTREGA DAS CHAVES. EXTRAPOLADO O PRAZO DE TOLERÂNCIA DE 180 DIAS PREVISTO CONTRATUALMENTE - AGRAVO RETIDO. NÃO CONHECIDO. MÉRITO. LEGALIDADE DA CLÁUSULA QUE PREVÊ O PRAZO DE 180 DIAS DE TOLERÂNCIA - DANOS MORAIS CARACTERIZADOS. QUANTUM INDENIZATÓRIO MINORADO PARA R$ 6.500,00 (SEIS MIL E QUINHENTOS REAIS), PROPORCIONALIDADE E RAZOABILIDADE. DANOS MATERIAIS AFASTADOS. JULGAMENTO DE ACORDO COM O RECURSO ESPECIAL (RESP Nº1.635.428/SC - TEMA 970, STJ). CLAUSULA PENAL MORATÓRIA. IMPOSSIBILIDADE DE CUMULAÇÃO COM OS DANOS MATERIAIS. RATIO DECIDENDI APLICÁVEL AOS DANOS MATERIAIS SEJA NA MODALIDADE LUCROS CESSANTES, SEJA QUANTO AOS DANOS EMERGENTES. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. EMBARGOS DECLARATÓRIOS MANIFESTAMENTE PROTELATÓRIOS. SENTENÇA REFORMADA EM PARTE. DISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL MANTIDA. SUCUMBÊNCIA RECURSAL DA PARTE AUTORA. MAJORAÇÃO DA VERBA ADVOCATÍCIA (ART. 85, §§ 1º E 11 DO CPC). VEDADA A COMPENSAÇÃO (ART. 85, §14, CPC). SUSPENSÃO (ART. 98, § 3º, CPC). GRATUIDADE PROCESSUAL DEFERIDA À REQUERENTE. AGRAVO RETIDO NÃO CONHECIDO. APELAÇÃO CÍVEL AUTORAL CONHECIDA E DESPROVIDA. APELO DA CONSTRUTORA DEMANDADA CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.(e-STJ, fl. 1.202).
+Nas razões do presente recurso, NORCON alegou dissídio jurisprudencial e ofensa aos arts. 186 e 927 do CC, afirmando que o simples atraso na entrega da obra não seria suficiente para configurar danos morais passíveis de indenização (e-STJ, fls. 1.223/1.248).
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece provimento.
+A respeito dos danos morais em hipóteses de atraso na entrega de empreendimento imobiliário, a Terceira Turma desta Corte, no julgamento do REsp nº 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1426710/RS, Terceira Turma, julgado em 25/10/2016, DJe 9/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ , Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e,
+c) muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas da caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp 1.637.627/RJ, DJe 14/12/2016; REsp 1.633.274/SP; DJe 11/11/2016; AgRg no AREsp 809.935/RS, DJe 11/3/2016; e REsp 1.551.968/SP, Segunda Seção, DJe 6/9/2016. (grifou-se).
+No caso dos autos, o TJSE entendeu cabível a fixação de indenização por danos morais tendo em vista o longo tempo de atraso na entrega das obras.
+Confira-se:
+Desta forma, considerando que o atraso se deu por cerca de 24 meses, entendo como justo reduzir o fixado pelo juízo a título de danos morais, quantum a quo, para R$ 6.500,00 (seis mil reais), fixado pelo Juízo a quo, por ser valor condizente com o critério da razoabilidade e, ao mesmo tempo em que não gera qualquer enriquecimento ilícito à autora da ação, serve ainda como punição para que a Ré não venha a cometer novos ilícitos desta natureza (e-STJ, fl. 468)
+Referida circunstância - longo tempo de atraso - tem sido admitida como suficiente para excepcionar a regra antes assinalada e autorizar a configuração do dano extrapatrimonial.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. PROMESSA DE COMPRA E VENDA. ATRASO DEMASIADAMENTE LONGO E INJUSTIFICADO NA ENTREGA DE IMÓVEL. DANOS MORAIS CONFIGURADOS. SÚMULA N. 7/STJ.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+2. O Superior Tribunal de Justiça possui entendimento no sentido de que o mero inadimplemento contratual não causa, por si só, abalo moral indenizável, mas o excessivo atraso na entrega de unidade imobiliária enseja compensação por dano extrapatrimonial.
+Precedentes.
+3. A revisão da matéria, tanto em relação a caracterização do dano moral no caso, como em relação ao valor arbitrado para a indenização , implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Agravo improvido.
+(AgInt no AgInt no AREsp n. 2.205.837/RJ, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. ENTREGA DE OBRA. ATRASO EXCESSIVO. DANOS MORAIS CONFIGURADOS. SÚMULA N. 83 DO STJ. AGRAVO DESPROVIDO.
+1. A ausência de enfrentamento da matéria pelo tribunal de origem impede o acesso do recurso à instância especial, porquanto não preenchido o requisito do prequestionamento.
+2. O mero inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Nada obstante, se se trata de longo período de atraso, como no caso de mais de dois anos, pode ensejar o reconhecimento de dano extrapatrimonial.
+3. Agravo interno provido em parte para se conhecer em parte do recurso especial e negar-lhe provimento.
+(AgInt nos EDcl no AREsp n. 2.356.797/BA, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da NORCON, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO EXCESSIVO NA ENTREGA. DANOS MORAIS. CONFIGURAÇÃO. RECURSO ESPECIAL NÃO PROVIDO.
