@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de ALUIZIO TELES DE AZEVEDO JUNIOR, alegando constrangimento ilegal por parte do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no HC n. 0043180-27.2024.8.19.0000.
+Consta dos autos que o paciente está preso preventivamente pela suposta prática dos crimes descritos nos arts. 180, caput, do Código Penal, 33, caput, da Lei n. 11.343/2006, e 14, caput, da Lei n. 10.826/2003, todos na forma do art. 69, do Código Penal.
+Neste writ, a Defesa sustenta que a prisão preventiva do paciente configura constrangimento ilegal, pois ele está preso há mais de um ano sem que a instrução criminal tenha sido concluída, caracterizando excesso de prazo. Alega, ainda, que a prisão foi mantida sem fundamentação idônea, uma vez que o paciente é primário, possui residência fixa e trabalho lícito, não havendo elementos concretos que justifiquem a necessidade de sua prisão preventiva.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, com a expedição imediata de alvará de soltura, e caso necessário, com aplicação de medidas cautelares diversas da prisão.
+Decisão indeferindo a liminar às fls. 36-40.
+Informações prestadas às fls. 45-52.
+Ministério Público manifestou-se, às fls. 56-59, opinando pelo não conhecimento do mandamus.
+É o relatório.
+DECIDO.
+No caso, o Tribunal de origem assim manteve a segregação cautelar (fls.17-20):
+Como sabido, o prazo para o término da instrução criminal não pode resultar de mera soma aritmética, devendo-se exigir do Juiz apenas que zele pela regularidade e normal desenvolvimento do processo, o que efetivamente ocorreu no caso concreto.
+Ademais, o entendimento de há muito consolidado pelos Tribunais Superiores com relação aos prazos indicados pela lei para a persecução criminal, homenageando o princípio da razoabilidade é no sentido de que:
+"(..) os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, porquanto variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado". (STJ, HC nº. 58.462-MS, Rel. Min. Laurita Vaz, 5ª Turma, julgado em 17.10.2006)
+O constrangimento somente deve ser reconhecido como ilegal quando o retardo ou a delonga forem injustificados e possam ser atribuídos exclusivamente ao Judiciário, não sendo a hipótese dos autos.
+Analisando-se as informações apresentadas pela autoridade apontada como coatora e aquelas obtidas mediante consulta ao sítio eletrônico do Tribunal de Justiça conclui-se não existir qualquer nulidade a ser sanada.
+No caso em tela, trata-se de processo que tem como objeto apurar as circunstâncias que envolveram a execução dos crimes receptação, de tráfico ilícito de drogas e de porte ilegal de uso de arma de fogo, em concurso material, descritos nos artigos 180, caput, do Código Penal, c/c artigo 33, caput, da Lei nº 11.343/06, c/c artigo 14, caput, da Lei nº 10.826/03, tudo na forma do artigo 69, do Código Penal.
+E como visto, é evidente o empenho do juiz singular para que a prestação jurisdicional seja entregue no menor prazo possível, verificando-se a inexistência de inércia injustificada por parte do Poder Judiciário na condução do feito originário, cujo trâmite processual está absolutamente compatível com as peculiaridades do caso concreto.
+No caso, extrai-se das informações prestadas pela autoridade apontada como coatora que os autos aguardam o cumprimento do mandado de busca e apreensão do laudo do veículo, para posterior intimação e manifestação do Ministério Público e da Defesa para apresentação de alegações finais.
+ .. .
+E, embora a prisão cautelar do paciente já perdure por tempo considerável, não restou verificado qualquer período de paralisação indevida ou injustificada na marcha processual, sendo possível verificar que o magistrado de piso vem se empenhando na condução do feito.
+Como dito, os prazos processuais não podem ser tratados como mero cálculo aritmético, devendo o magistrado analisar caso a caso, cuidando do seu regular andamento.
+A autoridade apontada como coatora ressaltou que os autos aguardam o cumprimento da Carta Precatória com mandado de busca e apreensão do laudo do veículo, para posterior intimação e manifestação do Ministério Público e da Defesa para apresentação de alegações finais.
+Diante disso, não há que se falar em excesso de prazo na formação da culpa, uma vez que o processo segue seu regular andamento.
+Compulsando os autos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada pela grande quantidade de drogas apreendida pela Polícia Rodoviária Federal (mais de 10kg de maconha), acrescidos dos crimes de receptação (veículo na posse do paciente era roubado) e porte ilegal de arma de fogo de uso permitido.
+Tais circunstâncias demonstram a periculosidade do agente e são aptas a justificarem a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/04/2024, DJe de 30/04/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..).
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..).
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Por outro lado, também não se sustenta a alegação de que houve excesso de prazo para conclusão da instrução. Primeiro, porque há três crimes sendo apurados com ritos distintos: tráfico de drogas, posse irregular de arma de fogo e receptação. Segundo, porque há uma pendência no cumprimento da carta precatória com mandado de busca e apreensão do laudo do veículo. Terceiro, porque, como a instrução foi encerrada, faltando apenas as alegações finais das partes, não há mais que se alegar excesso de prazo na forma da Súmula n. 52/STJ (Encerrada a instrução processual, fica superada a alegação de constrangimento ilegal por excesso de prazo).
+Neste sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INOCORRÊNCIA. TRÂMITE REGULAR. COMPLEXIDADE DA AÇÃO PENAL. DIGITALIZAÇÃO DOS AUTOS COM MIGRAÇÃO AO SISTEMA PJE. RETIFICAÇÃO DE DADOS. INCIDÊNCIA DA SÚMULA N. 52 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. Constitui entendimento consolidado do Superior Tribunal de Justiça - STJ que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+2. Na hipótese, não restou caracterizada a existência de mora na tramitação do processo a justificar o relaxamento da prisão preventiva, porquanto este tem seguido seu trâmite regular. A insatisfação da defesa com a relativa delonga na conclusão do feito não pode ser atribuída ao Juízo, mas às suas peculiaridades, em que o processo foi digitalizado e, após a migração para o sistema PJe, o processo passou pela fase de retificação de dados, o que naturalmente causou certo atraso na conclusão do feito.
+3. Outrossim, consignou-se no aresto impugnado que a audiência de instrução e julgamento foi realizada e que os autos aguardam a apresentação das alegações finais da defesa e do Parquet, a atrair a incidência o enunciado sumular n. 52 desta Corte Superior de Justiça.
+4. Assim, não há, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputada ao Judiciário a responsabilidade pela demora, como bem fundamentado pelo Tribunal de origem.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 888.960/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
