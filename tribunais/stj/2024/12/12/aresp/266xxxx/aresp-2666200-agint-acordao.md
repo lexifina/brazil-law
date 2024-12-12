@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ÔNUS DA PROVA. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A alteração das premissas adotadas pela Corte de origem quanto à verificação do ônus da prova , tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Município de Timbaúba desafiando decisão da Presidência da Corte que conheceu do agravo para não conhecer do recurso especial, sob o fundamento de que o acolhimento da alegação deduzida, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em apelo nobre, conforme o óbice previsto na Súmula 7/STJ.
+A parte agravante, em suas razões, sustenta não ser o caso de aplicação da Súmula 7/STJ, sob a alegação de que "além de não ter comprovado o seu direito de receber as mencionadas verbas, a Agravada também não comprovou que não recebeu os valores por ela pleiteados, demonstrando total ausência de sua responsabilidade em comprovar a constituição de crédito devido pela Edilidade em seu favor, demonstrado a patente violação ao artigo 373, inciso I, do CPC.  ..  não há razões para obstar o prosseguimento do Recurso Especial em razão de uma suposta vedação da Súmula 7 do STJ, tendo em vista que, para o deslinde da questão, faz-se necessário apenas a apreciação formal de que o ônus da prova foi transferido, indevidamente, para o Município/Recorrente, sem necessidade de reexame do conjunto fático e probatório" (fls. 308/311).
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ÔNUS DA PROVA. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A alteração das premissas adotadas pela Corte de origem quanto à verificação do ônus da prova , tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado no decisório da Presidência, colhe-se do acórdão recorrido a seguinte fundamentação (fl. 210):
+Com relação ao ônus da prova, cabia ao município, apontado como inadimplente, demonstrar nos autos o pagamento dos valores cobrados, a fim de se desincumbir da obrigação. Vale dizer, a teor do art. 333, II, é ônus do réu constituir prova dos fatos impeditivos, modificativos e extintivos do direito do autor, e, não o tendo feito, deve arcar com o pagamento das verbas salariais reclamadas, em face do reconhecimento da procedência do pedido inaugural
+Está correto o decisum ao observar, pois, que o acolhimento da alegação deduzida, quanto à verificação do ônus da prova do direito, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. MILITAR. PROMOÇÃO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA DEFERIDO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. RECURSO PARCIALMENTE PROVIDO.
+1. Verifica-se que, "nos termos do § 3º do art. 99 do CPC/2015, presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural. Pedido de gratuidade da justiça deferido. Conforme a jurisprudência desta Corte Superior, os efeitos da concessão da referida benesse são "ex nunc", ou seja, não possuem efeito retroativo." (AgInt no AREsp 1532602/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19/11/2019)" (AgInt no REsp 1.401.760/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/12/2019, DJe de 4/2/2020).
+2. O Tribunal de origem reconheceu que a parte agravante não se desincumbiu do ônus da prova quanto ao fato constitutivo de seu direito, pois não demonstrou que preencheu os requisitos legais para a promoção na carreira militar, tendo em vista que, apesar das "inúmeras comparações que o apelante fez com seus colegas promovidos, não é possível extrair-se dos autos elementos comprovadores de que estes foram preteridos em relação a ele". Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno parcialmente provido apenas para deferir o pedido de gratuidade da justiça.
+(AgInt no REsp 2.077.294/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ÔNUS DA PROVA. ART. 373, I, DO CPC. VERIFICAÇÃO DE QUE HOUVE CERCEAMENTO DO DIREITO DE DEFESA E DE QUE AS REMESSAS INDICADAS PELA AUTORA FORAM FEITAS A TÍTULO DE BONIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Afasta-se a alegação de ofensa ao art. 1.022 do CPC, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Segundo o art. 373, I, do CPC, o ônus da prova quanto ao fato constitutivo do direito incumbe à parte autora.
+3. A jurisprudência desta Corte Superior de Justiça, no julgamento do Recurso Repetitivo 1.111.156/SP, firmou a orientação de que as mercadorias dadas incondicionalmente em bonificação não sofrem a incidência do ICMS próprio.
+4. No caso, o Tribunal de origem, com arrimo no acervo probatório, constatou a ausência de cerceamento de defesa, bem como a inexistência de prova de que as remessas indicadas foram feitas a título de bonificação, de modo que a revisão de tais premissas ensejaria o reexame da matéria fática, providência vedada nesta quadra recursal, nos termos da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 2.178.653/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
