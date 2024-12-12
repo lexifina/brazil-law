@@ -1,0 +1,20 @@
+DECISÃO
+T rata-se de embargos de declaração opostos por JOSE KAIQUE MIGUEL ARRUDA contra decisão na qual indeferi liminarmente o habeas corpus, por ser substitutivo de recurso próprio, mas concedi a ordem, de ofício, para reduzir a pena imposta ao embargante, pela prática do delito de tráfico de drogas, para 6 anos e 3 meses de reclusão, mantendo, no mais, a condenação (e-STJ fls. 612/616).
+Inconformado, o recorrente alega, em suma, omissão na decisão embargada quanto à possibilidade de fixação do regime inicial menos gravoso, tendo em vista o quantum de pena.
+Requer, assim, "seja reconhecida a flagrante ilegalidade da decisão que manteve o regime fecha- do, e que, diante das circunstâncias judiciais favoráveis, seja concedido regime menos gravoso ao paciente, em respeito ao princípio da proporcionalidade e individualização da pena, conforme preceituado pelo art. 33, § 2º, "b", do Código Penal" (e-STJ fl. 627).
+É o relatório.
+Decido.
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão, inexistentes no caso.
+De fato, conforme relatado, na decisão embargada, concedi a ordem de ofício para reduzir a pena imposta ao embargante, pela prática do delito de tráfico de drogas, para 6 anos e 3 meses de reclusão, mantendo, no mais, a condenação
+Ora, tendo sido estabelecido o regime fechado na condenação, ao mantê-la na decisão ora embargada, mantive o regime mais gravoso, e não sem fundamento, pois o recrudescimento deu-se pela existência de circunstância judicial desfavorável.
+De fato, embora tenha afastado o vetorial relativo à quantidade/natureza do entorpecente, de ofício, ficou mantida o vetor das circunstâncias do delito "em razão do lugar e do modo de execução da conduta delitiva, pois a droga foi apreendida no interior da residência do réu, lugar onde ele morava com sua mãe e irmãs, demonstrando, destarte, uma maior reprovabilidade na conduta do agente" (e-STJ fl. 27).
+Ademais, justificado está o recrudescimento do regime, nos termos da jurisprudência do Superior Tribunal de Justiça, in verbis:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO. FURTO QUALIFICADO E RECEPTAÇÃO. REGIME PRISIONAL. CIRCUNSTÂNCIAS DESFAVORÁVEIS. RÉU PRIMÁRIO. REGIME SEMIABERTO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Quanto ao regime prisional, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+3. No caso dos autos, a reprimenda de 3 anos e 6 meses de reclusão e se tratando de réu primário, cujas circunstâncias judiciais foram desfavoravelmente valoradas, deve ser fixado o regime prisional semiaberto, nos termos do art. 33, § 2º, "b", e § 3º do CP.
+4. Não se mostra possível, pelo mesmo motivo, a substituição da pena privativa de liberdade pela restritiva de direitos, haja vista o óbice do art. 44, III, do Código Penal, que veda o benefício àquele que possui circunstância judicial desfavorável, qual seja, o maior grau de culpabilidade do agente.
+5. Habeas corpus não conhecido. (HC 547.782/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/03/2020, DJe 13/03/2020, grifei.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
