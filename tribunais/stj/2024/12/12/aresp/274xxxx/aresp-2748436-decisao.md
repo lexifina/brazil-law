@@ -1,0 +1,19 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia que deu parcial provimento ao apelo defensivo para desclassificar a tipificação atribuída à conduta praticada pelo réu do art. 33 da Lei n. 11.343/2006 para o disposto no art. 28 da Lei n. 11.343/2006, reconhecendo, na sequência, a extinção da punibilidade em decorrência da prescrição da pretensão punitiva, e, em relação ao crime previsto no artigo 16, § 1º da Lei n. 10.826/2003, para redimensionar a pena corporal definitiva em 3 anos de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direito, a serem definidas pelo Juízo da Vara de Execuções Penais.
+A defesa aponta violação do art. 386, V do CPP, alegando, em síntese, que não há nos autos provas seguras para a condenação do recorrente pelo crime de porte de arma de fogo.
+Contrarrazões às e-STJ fls. 460/467.
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls. 508/509.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o TJBA deu parcial provimento ao apelo defensivo para desclassificar a tipificação atribuída à conduta praticada pelo réu do art. 33 da Lei n. 11.343/2006 para o disposto no art. 28 da Lei n. 11.343/2006, reconhecendo, na sequência, a extinção da punibilidade em decorrência da prescrição da pretensão punitiva, e, em relação ao crime previsto no artigo 16, § 1º da Lei n. 10.826/2003, para redimensionar a pena corporal definitiva em 3 anos de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direito, a serem definidas pelo Juízo da Vara de Execuções Penais.
+A defesa alega que não há nos autos provas seguras para a condenação do recorrente pelo crime de porte de arma de fogo.
+A tese defensiva não pode ser conhecida, isso porque cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018.)
+Ainda nessa mesma linha:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. INÉPCIA DA DENÚNCIA. TESE PREJUDICADA. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA. NULIDADES DECORRENTES DE COAÇÃO E VIOLAÇÃO DE DOMICÍLIO. NECESSIDADE DE REEXAME FÁTICO-PORBATÓRIO. NULIDADE POR CERCEAMENTO DE DEFESA. INOCORRÊNCIA. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. RÉU CONDENADO PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PLEITO DE AFASTAMENTO DA CAUSA DE AUMENTO PREVISTA NO ART. 40, INCISO IV, DA LEI N. 11.343/2006. REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+ ..
+3. O Tribunal de origem entendeu comprovadas a autoria e a materialidade dos crimes de tráfico e associação para o tráfico de drogas. A revisão dos fundamentos utilizados pela Corte Estadual, para decidir pela absolvição pela ausência de prova concreta para a condenação, como requer a defesa, importa amplo revolvimento de matéria fático- probatória, providência vedada da estreita via do habeas corpus.
+ ..
+7. Agravo regimental desprovido. (AgRg no HC n. 770.259/MG, relator Ministro JOEL ILAN PACIORNIK , Quinta Turma, DJe de 14/12/2022.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
