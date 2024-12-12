@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUSTAVO FONSECA DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS.
+Depreende-se dos autos que o paciente foi preso em flagrante delito e teve a prisão convertida em preventiva pela suposta prática do crime previsto no artigo 33, caput, da Lei 11.343/2006 e art. 14 da Lei 10.826/2003.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem em razão do risco de reiteração delitiva, em acórdão de fls. 78-82.
+No presente writ, sustenta a defesa a ocorrência de constrangimento ilegal em razão da ausência de fundamentação concreta e idônea para a segregação cautelar, ponderando as condições pessoais favoráveis do paciente, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Alega que não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Salienta, ainda, que em caso de condenação, terá direito a regime diverso do fechado.
+Aduz violação ao artigo 310 do Código de Processo Penal uma vez que a audiência de custódia foi realizada quase uma semana depois após a prisão em flagrante.
+Requer a revogação da prisão preventiva do paciente ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de liminar indeferido às fls. 88-89.
+Informações prestadas às fls. 96-98.
+Juntada de petição às fls. 108-114.
+O Ministério Público Federal, às fls. 99-103, manifestou "pelo não conhecimento do habeas corpus. Se conhecido, pela denegação da ordem."
+É o relatório. DECIDO.
+Primeiramente, quanto a alegação acerca violação ao artigo 310 do Código de Processo Penal uma vez que a audiência de custódia foi realizada quase uma semana depois após a prisão em flagrante, da leitura do acórdão objurgado verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Sobre o tema, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o paciente "responde a outra ação penal pelo crime de furto previsto no art. 155, §4º, incisos II, do Código Penal, conforme autos nº 00161973320238272706, além de responder a dois TCOs pela prática do delito previsto no art. 28 da Lei 11.343/2006"
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Quanto a afirmação de que em caso de condenação terá direito a regime diverso do fechado, a desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual.
+Nesse sentido:
+"Não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que a agravante venha sofrer no fim do processo, porquanto, em habeas corpus e no respectivo recurso ordinário é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado" (AgRg no RHC n. 189.368/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
