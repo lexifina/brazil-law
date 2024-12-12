@@ -1,0 +1,71 @@
+DECISÃO
+Cuida-se de reclamação proposta por INVERSIONES ROSMARINO S.L. (INVERSIONES), objetivando garantir a autoridade do entendimento do Superior Tribunal de Justiça pronunciado no Tema n.º 410, verbis: O acolhimento ainda que parcial da impugnação gerará o arbitramento dos honorários, que serão fixados nos termos do art. 20, § 4º, do CPC, do mesmo modo que o acolhimento parcial da exceção de pré-executividade, porquanto, nessa hipótese, há extinção também parcial da execução.
+É o relatório.
+De acordo com o art. 187 do Regimento Interno do Superior Tribunal de Justiça, para preservar a competência do Tribunal ou garantir a autoridade de suas decisões, caberá reclamação da parte interessada.
+Com a entrada em vigor do NCPC, o art. 988 reproduziu nos incisos I e II o dispositivo regimental. Acresceu, ainda, a garantia da observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+Do exame dos autos não se constata a existência de decisão desta Corte proferida em benefício da ora Reclamante, cuja autoridade esteja sendo desrespeitada, de modo a autorizar o processamento da presente reclamação a fim de garanti-la.
+Relativamente à usurpação da competência, o Tribunal de Justiça do Estado do Rio Grande do Norte agiu nos exatos limites de sua jurisdição sem nenhuma invasão à área de atuação desta Corte.
+Tampouco verifica-se que houve pronunciamento, pelo TJRN, sobre tese firmada em incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+O Tema n.º 410 do STJ se realizou sob o rito dos recursos repetitivos.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. RECLAMAÇÃO. CABIMENTO. SÚMULA Nº 568/STJ.
+ ..
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, não cabe reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos. Incidência da Súmula nº 568/STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl na Rcl n. 42.949/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, DJe de 10/10/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. REAJUSTES DE REMUNERAÇÃO. ÍNDICE DA URV LEI N. 8.880/1994. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Trata-se de reclamação interposta, alegando, resumidamente, descumprimento de decisão desta Corte.
+II - A Reclamação dirigida ao STJ não se presta a proteger o jurisdicionado de decisões judiciais que não tenham seguido o posicionamento majoritário da jurisprudência desta Corte ou tese posta em enunciado de súmula deste Tribunal. Tal entendimento deflui do fato de que o único inciso do art. 988 do CPC/2015 que faz alusão ao cabimento de Reclamação para garantir a observância de enunciado de súmula é o inciso III que restringe a proteção da Reclamação à ofensa às súmulas vinculantes do Supremo Tribunal Federal. (AgRg na Rcl n. 41.479/MG, relator Ministro Reynaldo Soares Da Fonseca, Terceira Seção, julgado em 24/3/2021, DJe 29/3/2021). Nesse mesmo sentido: AgInt na Rcl n. 41.684/CE, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 31/8/2021, DJe 9/9/2021.
+III - O objetivo da reclamação é preservar a competência e garantir a autoridade de suas decisões, não sendo via própria, por ausência de previsão legal e constitucional, para impugnar julgado desta Corte Superior, hipótese em que serviria como simples sucedâneo do recurso originalmente cabível. A aderência estrita do objeto do ato reclamado ao conteúdo do paradigma é requisito de admissibilidade da reclamação constitucional. Nesse sentido: AgInt nos EDcl no AgInt na Rcl n. 38.162/SP, relator Ministro Og Fernandes, Primeira Seção, julgado em 31/8/2021, DJe 10/9/2021; AgInt na Rcl n. 41.285/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 9/6/2021, DJe 14/6/2021).
+IV - Ademais, "segundo a orientação deste Superior Tribunal, firmada pela Corte Especial por ocasião do julgamento da Reclamação n. 36.476/SP, é inviável a utilização da reclamação para exame de indevida aplicação de precedente oriundo de recurso especial repetitivo" (Rcl n. 36.476/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/2/2020, DJe 6/3/2020; AgRg na Rcl n. 38.094/GO). Nesse diapasão: relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 14/6/2021; e AgInt na Rcl n. 42.260/MS, relatora Ministra Assusete Magalhães, Primeira Seção, DJe 31/3/2022.
+V - Conforme entendimento assente desta Corte, para que haja o deferimento de reclamação deve estar comprovado objetivamente que o ato reclamado desconsiderou decisão proferida pelo STJ, circunstância inexistente, na hipótese em que os documentos juntados não têm a aptidão para comprovar o descumprimento alegado. Nesse sentido: AgRg nos EDcl na Rcl n. 23.662/DF, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 14/9/2021, DJe 16/9/2021.
+VI - Agravo interno improvido.
+(AgInt na Rcl n. 42.830/MT, relator Ministro FRANCISCO FALCÃO, Primeira Seção, DJe de 22/9/2022.)
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. UTILIZAÇÃO DA RECLAMAÇÃO PARA GARANTIR A AUTORIDADE DE DECISÃO PROFERIDA EM RECURSO REPETITIVO. NÃO CABIMENTO. PRECEDENTE DA CORTE ESPECIAL (RCL N. 36.476/SP). DECISÃO AGRAVADA MANTIDA.
+1. Segundo a orientação deste Superior Tribunal, firmada pela Corte Especial por ocasião do julgamento da RCL n. 36.476/SP, é inviável a utilização da reclamação para exame de indevida aplicação de precedente oriundo de recurso especial repetitivo.
+2. Agravo regimental improvido.
+(AgRg na Rcl n. 43.760/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, DJe de 16/9/2022.)
+Registre-se, também, a inadequação da via eleita para compelir os Tribunais de apelação a aplicarem a jurisprudência ou súmula desta Corte Superior.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. PEDIDO AJUIZADO COM FUNDAMENTO EM ENTENDIMENTO DESTA CORTE SUPERIOR QUE, EM SEU CONTEÚDO, TERIA SIDO DESRESPEITADO POR JULGADO DO TRIBUNAL ESTADUAL. A RECLAMAÇÃO DIRIGIDA AO STJ NÃO SE PRESTA A PROTEGER O JURISDICIONADO DE DECISÕES JUDICIAIS QUE NÃO TENHAM SEGUIDO O POSICIONAMENTO MAJORITÁRIO DA JURISPRUDÊNCIA DESTA CORTE OU TESE POSTA EM ENUNCIADO DE SÚMULA DESTE TRIBUNAL. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça tem o entendimento de que "a Reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015 (redação da Lei n. 13.256/2016), constitui ação destinada à preservação da competência do Superior Tribunal de Justiça (inciso I), a garantir a autoridade de suas decisões (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º)" (AgInt na Rcl 40.414/SP, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 20/10/2021).
+2. A reclamação dirigida a este Tribunal "não se presta a proteger o jurisdicionado de decisões judiciais que não tenham seguido o posicionamento majoritário da jurisprudência desta Corte ou tese posta em enunciado de Súmula deste Tribunal" (AgRg na Rcl 41.479/MG, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 29/3/2021).
+3. O instrumento não é útil sequer "para adequar as decisões reclamadas aos julgados do STJ proferidos em recursos repetitivos" (AgInt na Rcl 41.859/SP, relator Ministro Og Fernandes, Primeira Seção, DJe de 9/11/2021).
+4. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 43.541/RJ, relator Ministro PAULO SÉRGIO DOMINGUES, Primeira Seção, DJe de 22/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. DESOBEDIÊNCIA DA AUTORIDADE DE DECISÃO PROFERIDA POR ESTA CORTE. USURPAÇÃO DE COMPETÊNCIA. NÃO VERIFICADA. PETIÇÃO INICIAL INDEFERIDA. RECLAMAÇÃO EXTINTA SEM JULGAMENTO DE MÉRITO. MANUTENÇÃO DA DECISÃO UNIPESSOAL.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, a usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Consoante a jurisprudência dominante do STJ, é incabível o ajuizamento de reclamação como sucedâneo recursal a fim de adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em Súmula ou em recurso especial repetitivo.
+3. Agravo interno não provido.
+(AgInt na Rcl n. 46.931/DF, relatora Ministra NANCY ANDRIGHI, Segunda Seção, DJe de 3/6/2024.)
+AGRAVO REGIMENTAL NA RECLAMAÇÃO NÃO CONHECIDA. UTILIZAÇÃO DO RECLAMO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. ALEGAÇÃO DE VIOLAÇÃO À JURISPRUDÊNCIA DESTA CORTE SUPERIOR. HIPÓTESE NÃO CONTEMPLADA NO ART. 988 DO CÓDIGO DE PROCESSO CIVIL - CPC. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. Conforme art. 105, I, f da Constituição Federal - CF, compete ao Superior Tribunal de Justiça - STJ processar e julgar originalmente a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões. Em observância ao referido dispositivo constitucional, o Regimento Interno do STJ prevê, em seu art. 187, que "para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária".
+No caso em análise, o reclamante se insurge contra recebimento da denúncia utilizando a reclamação como sucedâneo recursal, o que é inadmissível. Precedentes.
+2. A reclamação, nos moldes propostos, objetiva preservar jurisprudência desta Corte Superior, hipótese não contemplada no art. 988 do CPC. "A Reclamação dirigida ao STJ não se presta a proteger o jurisdicionado de decisões judiciais que não tenham seguido o posicionamento majoritário da jurisprudência desta Corte ou tese posta em enunciado de súmula deste Tribunal" (AgRg na Rcl n. 41.479/MG, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 29/3/2021.)
+ ..
+5. Agravo regimental não provido.
+(AgRg na Rcl n. 45.848/SP, relator Ministro JOEL ILAN PACIORNIK, Terceira Seção, DJe de 4/9/2023.)
+Ademais, a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de não ser cabível reclamação para rever decisão do Tribunal de origem que, em agravo interno, confirma a negativa de seguimento de recurso especial, por estar o acórdão recorrido em conformidade com tese firmada em julgamento proferido sob o rito dos recursos repetitivos.
+Na mesma linha:
+PEDIDO DE RECONSIDERAÇÃO NA RECLAMAÇÃO.  .. . 2. RECLAMAÇÃO AJUIZADA CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL ANTE A CONFORMIDADE ENTRE O ACÓRDÃO RECORRIDO E A TESE FIRMDA PELO STJ EM RECURSO REPETITIVO. NÃO CABIMENTO. 3. AGRAVO DESPROVIDO.
+ ..
+2. Segundo a sistemática recursal introduzida pelo Código de Processo Civil de 2015, a decisão que nega seguimento ao recurso especial em razão da conformidade entre o acórdão recorrido e o entendimento firmado pelo STJ em recurso especial repetitivo é impugnável apenas por agravo interno no âmbito da própria Corte local, não sendo cabível o ajuizamento da reclamação.
+3. Pedido de reconsideração recebido como agravo interno para negar-lhe provimento.
+(RCD na Rcl n. 44.087/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. UTILIZAÇÃO PARA ADEQUAÇÃO AO RECURSO ESPECIAL REPETITIVO. NÃO CABIMENTO. PRECEDENTES. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Cuida-se de Reclamação interposta de decisão colegiada que, em Agravo Interno, manteve a decisão monocrática da Presidência do Tribunal de origem que negou seguimento ao Recurso Especial.
+2. O STJ possui entendimento de que é incabível Reclamação contra Acórdão que, em Agravo Interno ou Regimental, mantém a decisão da Presidência/Vice-Presidência do Tribunal de não admissão de Recurso Especial, por considerar que o acórdão hostilizado seguiu a tese de representativo da controvérsia. Nesse sentido: AgInt na Rcl 39.249/SP, Rel. Min. Herman Benjamin, Primeira Seção, DJe 17.12.2020; AgInt na Rcl 40.891/DF, Rel. Min. Maria Isabel Gallotti, Segunda Seção, DJe 14.4.2021; AgInt na Rcl 40.178/RJ, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 19.3.2021; e AgInt na Rcl 40.579/DF, Rel. Min. Francisco Falcão, Primeira Seção, DJe 23.3.2021.
+3. Agravo Interno não provido.
+(AgInt na Rcl n. 43.841/SP, relator Ministro HERMAN BENJAMIN, Primeira Seção, DJe de 13/12/2022.)
+PROCESSUAL CIVIL. RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE POR FUNDAMENTO EM REPETITIVO. DESCABIMENTO.
+ ..
+2. Mostra-se inadmissível a interposição do agravo do art. 1.042 do CPC/2015 contra negativa de seguimento a recurso especial com fundamento em julgado firmado em recurso extraordinário com repercussão geral e em recurso especial repetitivo. Inteligência do art. 1.030, § 2º, do CPC/2015.
+3. Caso em que a pretensão da parte reclamante, no sentido de destrancar seu apelo nobre inadmitido pela Vice-Presidência do Tribunal local, em juízo de prelibação, por força do julgamento repetitivo referente ao Tema 975 do STJ, destoa da orientação desta Corte Superior, devendo ser mantida a decisão agravada.
+4. Agravo interno desprovido.
+(AgInt na Rcl n. 42.618/PR, relator Ministro GURGEL DE FARIA, Primeira Seção, DJe de 1/7/2022.)
+Portanto, a presente reclamação é manifestamente inadmissível.
+Nessas condições, nos termos do art. 34, XVIII, a, do RISTJ, NÃO CONHEÇO da reclamação.
+Por oportuno, previno a parte de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. SUPERIOR TRIBUNAL DE JUSTIÇA. HIPÓTESES DE CABIMENTO. AUSÊNCIA. NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM TESE FIRMADA EM RECURSO REPETITIVO. AGRAVO INTERNO. ÚNICO RECURSO CABÍVEL. PEDIDO NÃO CONHECIDO.
