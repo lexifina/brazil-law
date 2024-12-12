@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo juízo de Direito da Vara Criminal da comarca de São Miguel do Iguaçu/PR, tendo por suscitado o juízo de Direito da 1ª Vara de Tóxicos, Organização Criminosa e Lavagem de Bens e Valores da comarca de Belo Horizonte/MG.
+O juízo suscitante afirma que os bens não foram destinados e ainda permanecem nas dependências da Delegacia de Polícia de São Miguel do Iguaçu/PR" e que "Entretanto, tal fato não altera a competência para analisar eventual pedido de restituição ou mesmo determinar a destinação dos bens. A competência para tanto é do juízo em que tramita o feito principal, onde estão vinculados os bens, qual seja, a Ia Vara de Tóxicos. Organização Criminosa e Lavagem de Bens e Valores da Comarca de Belo Horizonte/MG." (e-STJ Fl. 219-220)
+O Ministério Público Federal promove a competência do juízo suscitado (e-STJ Fl. 226-228).
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A análise dos autos indica que o juízo suscitante promoveu a remessa do Inquérito Policial em sua integralidade ao juízo suscitado em razão da ocorrência de prevenção. Diante disso, compete a este, materialmente, deliberar sobre os pleitos de restituição de objetos apreendidos em razão de diligências ocorridas na fase investigativa que supervisiona.
+Não altera tal fato a localização física dos bens, competindo à autoridade responsável o recambiamento ou, se o caso, a deliberação independentemente de sua remoção.
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o juízo de Direito da 1ª Vara de Tóxicos, Organização Criminosa e Lavagem de Bens e Valores da comarca de Belo Horizonte/MG, o Suscitado, para processar e decidir os pedidos de restituição de bens apreendidos na Ação Penal n. 86809-17.2015.8.13.0024.
+EMENTA
