@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por ALFREDO DA SILVA NETO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SANTA CATARINA, em acórdão prolatado no julgamento de agravo interno em revisão criminal (fls. 358/369), assim ementado:
+AGRAVO INTERNO EM REVISÃO CRIMINAL. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU O PEDIDO FORMULADO, TENDO EM VISTA AS MATÉRIAS TEREM SIDO APRECIADAS EM RECURSO DE APELAÇÃO. PRETENDIDA, EM SUMA, A NULIDADE EM RAZÃO DA VIOLAÇÃO DA CORRESPONDÊNCIA ENTRE ACUSAÇÃO E SENTENÇA; O AFASTAMENTO DA RESPONSABILIDADE OBJETIVA; E A APLICAÇÃO EXCLUSIVA DA PENA DE MULTA. INVIABILIDADE.
+"Observado serem teses já apreciadas e rejeitadas em grau de recurso, não deve ser conhecida a revisão, visto este recurso estar se transformando em segunda apelação" (TJSC, Revisão Criminal n. 4024202-03.2018.8.24.0000, de Biguaçu, rel. Des. José Everaldo Silva, Primeiro Grupo de Direito Criminal, j. 30-10-2018).
+DECISUM MANTIDO. AGRAVO DESPROVIDO.
+No recurso especial, a defesa requereu, em síntese (fl. 400): a) seja reconhecida a violação ao artigo 621, I do CPP, determinando-se a anulação do acórdão que rejeitou o pedido revisional e seja determinado novo julgamento, julgando-se procedente a revisão criminal; b) seja conhecido e provido o recurso especial por ofensa ao artigo 384 do CPP vez que ferida a congruência entre acusação e sentença, julgando-se procedente a revisão criminal, determinando-se a anulação da sentença de piso e refazimento da instrução processual ante a mudança da imputação; c) seja conhecido e provido o recurso especial por ofensa ao artigo 13, do Código Penal, para julgar procedente a revisão criminal para afastar a equivocada responsabilidade objetiva, absolvendo-se o recorrente; d) seja conhecido e provido o recurso especial por ofensa ao artigo 49 do CP, julgando-se procedente a revisão criminal para aplicar ao recorrente exclusivamente a pena de multa, prevista no comando secundário da norma incriminadora.
+Inadmitido o recurso na origem (fls. 425/431), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 439/474).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 506/511), em parecer com a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. INADMISSÃO. SÚMULAS N. 83 DO STJ E 284, 282 E 356 DO STF. REVISÃO CRIMINAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 7º, IX C/C PAR. ÚNICO DA LEI N. 8.137/90. REGIME PRISIONAL. ALEGADA VIOLAÇÃO AOS ARTS. 13 E 59 DO CP; 384 E 621, I E III DO CPP.
+- O agravante não rebateu adequadamente o fundamento da decisão agravada referente à Súmula n. 83, deixando de demonstrar por meio de julgados atuais que o caso é distinto daqueles veiculados nos precedentes invocados para aplicar referido óbice. Incidência da Súmula 182/STJ.
+- Ausência de flagrante constrangimento ilegal que permita a concessão de habeas corpus de ofício.
+Pelo não conhecimento.
+É o relatório.
+O agravo não impugna adequadamente o juízo de inadmissibilidade sobre a incidência da Súmula 83/STJ.
+O óbice da Súmula 83/STJ aplica-se tanto pela alínea a, quanto pela alínea c do permissivo constitucional. Para impugnar tal óbice o agravante deveria demonstrar que a orientação do Tribunal de origem diverge desta Corte Superior. Todavia, os julgados colacionados pelo agravante não se adequam ao caso presente.
+Destarte, aplicável no caso o teor da Súmula 182/STJ.
+Neste sentido, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nas razões do presente agravo, a defesa deixou de impugnar de forma clara e objetiva os fundamentos do decisum agravado, o que impede o seu conhecimento, por ausência de requisito de admissibilidade (Súmula 182/STJ).
+2. Como tem reiteradamente decidido esta Corte, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a simples insistência no mérito da controvérsia.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.262.653/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/5/2018).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83 DO STJ. IMPUGNAÇÃO ESPECÍFICA. INEXISTÊNCIA.
+ ..
+3 . Não houve adequada impugnação ao fundamento da decisão recorrida que aplicou a Súmula n. 83 dessa Corte, cuja impugnação pressupõe a demonstração por meio de julgados atuais de que o caso é distinto daquele veiculado nos precedentes invocados como paradigmas, o que não ocorreu na hipótese.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.198.267/RO, Ministra Maria Isabel Gallotti, Quarta Turma, DJe 5/10/2023).
+Não se vislumbra, também, o alegado constrangimento ilegal para concessão de habeas corpus de ofício.
+No acórdão recorrido, restou assentado que a pretensão do recorrente era a reapreciação de questões já analisadas e decididas naquela Corte (fl. 441): a revisão criminal não foi conhecida porque as matérias que o apenado pretende ver revisadas já foram debatidas e equacionadas por este Egrégio Tribunal de Justiça quando da apreciação do do recurso de Apelação Criminal (n. 0001288-26.2013.8.24.0020), da Relatoria do eminente Des. Luiz Neri Oliveira de Souza.
+Inclusive, o Tribunal consignou, no acórdão da apelação, que, quando da prolação da sentença a Magistrada a quo, entendeu por desclassificar a conduta dolosa para a culposa, proveniente do parágrafo único do artigo 7, da lei n. 8.137/90, ao afastar referida tese, também levantada em alegações finais pela defesa. Veja-se: "Neste particular, apesar da capitulação atribuída ao final da denúncia tenha se dado na modalidade dolosa, à toda evidência a narrativa atribuiu a ele a conduta negligente de não evitar a contaminação da mercadoria por conta da sua função de comando dentro da pessoa jurídica, não havendo que falar em responsabilidade objetiva, portanto" (f. 361). Reforçou, ainda, que "A denúncia deixa claro, ao expor de modo alternativo, a condenação por culpa, ao descrever que "cumpre esclarecer alternativamente que, se não foi ele quem pessoalmente entregou a mercadoria, detinha o domínio do fato sobre o que ocorria em sua empresa, podendo, em face do comando exercido, evitar que tais alterações na mercadoria ocorressem (fl. 361).
+Pelo exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INADMISSÃO. SÚMULAS 83/STJ E 182/STJ. REVISÃO CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO IDENTIFICADO CONSTRANGIMENTO ILEGAL APTO À CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+Agravo em recurso especial não conhecido.
