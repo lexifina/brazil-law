@@ -1,0 +1,14 @@
+DECISÃO
+VIVIAN MARIA CARVALHO AVILA alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que indeferiu o pedido de anulação de ANPP homologado judicialmente.
+A paciente, na condição de vítima de apropriação indébita, impetra o habeas corpus para apontar a nulidade do ANPP, ante a violação do artigo 28-A, §2º, IV, do CPP, pois deveria haver sido intimada sobre a homologação do acordo, o que não aconteceu. Além disso, explica que o Sr. Johan Bismark não poderia ser beneficiado com o negócio jurídico, pois havia medida protetiva de urgência em curso. Por fim, o Ministério Público deixou de propor a condição de restituição de valores à ofendida, os quais ultrapassam R$ 145 mil.
+Pede, por isso, "a anulação do acordo de não persecução penal homologado no processo 202353100226 e que seja dado prosseguimento a ação penal" (fl. 12).
+Decido.
+Nos termos do art. 5º, LXVIII, da CF: "conceder-se-á habeas-corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Também a teor do art. 647 do CPP: "Dar-se-á habeas corpus sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, salvo nos casos de punição disciplinar".
+É condição de agir da ação constitucional a identificação de risco ao direito de locomoção, direto ou indireto, seja pela iminência de prisão ou de qualquer ato ou abuso de poder que possa resultar em constrangimento ilegal à liberdade do indivíduo.
+No caso, apurava-se o crime de apropriação indébita e o investigado foi beneficiado com o acordo de não persecução penal. O Tribunal de Justiça deixou de conhecer a impetração, uma vez que "não há restrição à liberdade da paciente, mas sim tentativa de anular um ANPP devidamente homologado na instância primeva e de ingresso da ora paciente como assistente de acusação no processo de origem, o que, de pronto, vê-se não ser caso de habeas corpus" (fl. 17).
+Além da indevida supressão de instância (art. 105 da CF), não há ilegalidade no acórdão nem negativa de prestação jurisdicional, pois a via eleita não é adequada para "discutir questões alheias à liberdade de locomoção" (STF, HC n. 202.958 AgR, Rel. Ricardo Lewandowski, 2ª T., DJe 6/8/2021, destaquei).
+A paciente não demonstrou a existência de ato que pudesse vir a causar ofensa ou ameaça, ainda que de forma reflexa, à sua liberdade de locomoção, não sendo possível o manejo da ação constitucional. O "habeas corpus não pode ser utilizado como panaceia para toda e qualquer situação,  ..  a fim de que não se desvirtue a finalidade dessa garantia constitucional" (AgInt no RHC n. 129.877/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 1/2/2022.)
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
