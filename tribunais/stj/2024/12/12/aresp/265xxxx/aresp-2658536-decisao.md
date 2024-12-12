@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ONESIMO DOS SANTOS AZEVEDO, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SE.
+Agravo em recurso especial interposto em: 29/4/2024.
+Concluso ao gabinete em: 15/8/2024.
+Ação: de indenização por danos materiais ajuizada por ONESIMO DOS SANTOS AZEVEDO contra M M TELECOM - ENGENHARIA E SERVICOS DE TELECOMUNICACOES LTDA, atualmente em fase de cumprimento de sentença.
+Sentença: o Juízo de primeiro grau julgou extinto o cumprimento de sentença, em razão da prescrição intercorrente (e-STJ fl. 545).
+Acórdão: o TJ/SE negou provimento à apelação interposta por ONESIMO, nos termos da seguinte ementa:
+Processual civil - Cumprimento de sentença - Sentença de extinção pela prescrição intercorrente - Instituto de natureza processual com imediata aplicação, sem relação com a inércia do credor, mas com a ineficiência do processo - Aplicação da LEI 14.195/2021 , art. 206, § 3º , V, art.206-A CC c/c SÚMULA 150 STF - Ineficiência processual e racionalização do processo - Ausência de ofensa ao art. 14 CPC- Prescrição intercorrente consumada - Sentença mantida. Recurso Conhecido e improvido.
+(e-STJ fl. 623)
+Embargos de declaração: opostos por ONESIMO, foram rejeitados.
+Recurso especial: alega violação dos arts. 134, § 3º, 921, III, §§ 3º e 4º, 1.022, II, do CPC, além de dissídio jurisprudencial. Sustenta, além da negativa de prestação jurisdicional, que:
+I) "o fluxo da prescrição, antes da Lei 14.195/2021, se dava uma ano após o prazo de suspensão decretado pelo Juiz. E esta se dava após esgotadas as possibilidades de procura de bens, e não de forma automática, nos termos do novel § 4º do art. 921, aplicado somente às execuções iniciadas após sua vigência, nos termos do art.14/CPC" (E-STJ fl. 652);
+II) "a prescrição, portanto, começou a correr não da data da 1ª intimação sobre ausência de bens, mas sim um ano após a data de suspensão da execução, que se deu em 29/09/2017.  ..  Deste modo, resta claro o desacerto da sentença em dizer que quando da suspensão para fins do art. 134 CPC em 27 de maio de 2020, a prescrição intercorrente já estava consumada, pois não estava" (e-STJ fls. 653-654).
+Juízo prévio de admissibilidade: o TJ/SE inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+É O RELATÓRIO. DECIDE-SE.
+1. Da prescrição intercorrente
+No particular, o Tribunal de origem se utilizou da data da ciência do devedor acerca da primeira tentativa infrutífera de localização de bens (22/10/2014) para a contagem da prescrição intercorrente, aplicando o art. 921, § 4º, do CPC, com a redação alterada pela Lei nº 14.195/2021, para fatos ocorridos antes da sua vigência, sob o fundamento de que se trata de norma processual de aplicação de imediata.
+No entanto, segundo a jurisprudência desta Corte, a referida norma trata também de direito material, de modo que "o novo regime da prescrição intercorrente introduzido pela Lei n. 14.195/21 não pode ser aplicado retroativamente, mas apenas: a) aos novos processos ou àqueles em que a execução infrutífera for posterior à nova lei; e b) aos processos anteriores à nova lei no qual ainda não tenha sido determinada a suspensão da execução" (REsp 2.090.768/PR, Terceira Turma, DJe 14/11/2024).
+No mesmo sentido: AgInt no REsp 2.090.626/PR, Quarta Turma, DJe 2/5/2024.
+Registra-se, assim, que se o advento da Lei n. 14.195/21 ocorreu depois ou durante a determinação de suspensão da execução pelo Juiz, na forma do art. 921, § 1º, do CPC, não se aplica a nova lei. Nessa hipótese, o termo inicial do prazo prescricional seria o fim do prazo de suspensão, conforme a redação original do § 4º do referido dispositivo.
+Todavia, verificar essas premissas demanda o reexame do conjunto fático-probatório dos autos, de modo que, uma vez afastado o fundamento do acórdão recorrido, devem os autos retornar ao Tribunal de origem para novo julgamento.
+Com efeito, conforme a jurisprudência desta Corte, "afastado o fundamento jurídico do acórdão recorrido, deve-se aplicar o direito à espécie, nos termos do art. 255, § 5º, do RISTJ e da Súmula 456/STF. Porém, se a apreciação da causa necessitar do reexame do conjunto fático-probatório, os autos devem retornar ao Tribunal de origem para novo julgamento, considerando-se, agora, o entendimento perfilhado por esta Corte Superior" (REsp 2.086.705/SP, Terceira Turma, DJe 7/3/2024).
+Ficam prejudicadas as demais alegações recursais, considerando que haverá novo julgamento pelo Tribunal local.
+2. Da divergência jurisprudencial
+Diante da análise do mérito do recurso especial pela alínea "a" do permissivo constitucional, fica prejudicado o exame da divergência jurisprudencial alegada sobre o mesmo tema.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 34, XVIII, "a" e "c", do RISTJ, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para reformar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda a novo julgamento da apelação quanto à prescrição intercorrente, devendo observar o entendimento fixado por esta Corte, nos termos da fundamentação.
+Deixo de fixar honorários advocatícios, tendo em vista que o processo será objeto de novo julgamento pela Corte local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. FASE DE CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. LEI N. 14.195/2021. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE. APLICAÇÃO DO DIREITO À ESPÉCIE. REEXAME DE FATOS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. NECESSIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de indenização por danos materiais, em fase de cumprimento de sentença.
+2. O novo regime da prescrição intercorrente introduzido pela Lei n. 14.195/21 não pode ser aplicado retroativamente, mas apenas: a) aos novos processos ou àqueles em que a execução infrutífera for posterior à nova lei; e b) aos processos anteriores à nova lei no qual ainda não tenha sido determinada a suspensão da execução. Precedentes.
+3. Conforme a jurisprudência desta Corte, "afastado o fundamento jurídico do acórdão recorrido, deve-se aplicar o direito à espécie, nos termos do art. 255, § 5º, do RISTJ e da Súmula 456/STF. Porém, se a apreciação da causa necessitar do reexame do conjunto fático-probatório, os autos devem retornar ao Tribunal de origem para novo julgamento, considerando-se, agora, o entendimento perfilhado por esta Corte Superior.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido para reformar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda a novo julgamento da apelação quanto à prescrição intercorrente, devendo observar o entendimento fixado por esta Corte, nos termos da fundamentação.
