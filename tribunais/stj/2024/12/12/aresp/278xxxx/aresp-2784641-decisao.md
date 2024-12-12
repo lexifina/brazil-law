@@ -1,0 +1,22 @@
+DECISÃO
+A COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA - COELBA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 0556285-11.2018.8.05.0001.
+A agravada foi absolvida, em primeira instância, pelo crime previsto no art. 168, § 1º, III, do Código Penal. A Corte de origem manteve a sentença absolutória.
+Nas razões do recurso especial, a agravante alegou violação dos arts. 59, 69 e 168, § 1º, III, do Código Penal, e 155 do Código de Processo Penal. Pleiteou a condenação da investigada pelas condutas imputadas na denúncia.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 876-880, pelo não provimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem manteve a absolvição da acusada e, para tanto, explicitou a seguinte conclusão (fls. 427-428):
+ ..
+Observa-se dos relatos suso transcritos que os funcionários da Coelba responsáveis pelo gerenciamento da emissão da insurgente, pelo recebimento dos bens da empresa e pela prestação de contas, não tinham a certeza em apontá-la como a autora dos saques indevidos realizados com o cartão corporativo após o seu desligamento, como também afirmaram não saber de nenhuma subtração indevida ocorrida na empresa, e nem ter presenciado a denunciada ter sacados aqueles valores no Banco do Brasil.
+De fato, o que se percebe dos autos é que, apesar da insurgente ser responsável pela devolução do cartão corporativo à empresa no momento de sua demissão, não há como se comprovar que esta não tenha, de fato, o restituído - como afirmou ter feito, ainda que de modo informal -, uma vez que a própria Coelba, segundo relatos de seus próprios funcionários, não possuía - ou não fez, naquela oportunidade - a correta checagem dos bens utilizados pelos funcionários demitidos e que deveriam lhe ser entregues. Não se notou, com clareza, a existência de um funcionário designado que procedesse com àquela tarefa de recolher os pertences da empresa que foram afetados à insurgente e que realizasse um checklist, dando cópia do termo de recebimento à funcionária desligada.
+Outrossim, também não há nos autos comprovação de que a insurgente tenha pessoalmente efetuado os referidos saques com o cartão corporativo da Coelba, uma vez que o Banco do Brasil, instituição financeira responsável pela entrega dos valores, informou não mais possuir imagens dos saques efetuados em suas agencias nos meses de março e abril de 2015, pois seu sistema de monitoramento e vigilância somente mantém armazenadas as mídias gravadas pelo período de 30 (trinta) dias, como se constata do comento à fl. 200.
+De acordo com o exposto, entende-se que a Assistente de Acusação não conseguiu comprovar que o crime de apropriação indébita dos R$ 4.000,00 (quatro mil reais) da Coelba teria sido efetivamente realizado pela insurgente, visto que nem a própria empresa teria tido um controle eficaz da devolução de seus pertences no momento do ato demissional. Logo, ante a fragilidade das provas existentes nos autos, julga-se improcedente o pleito de condenação pela prática do crime previsto no art. 168, § 1º, inciso III c/c art. 69, caput, ambos do CP, restando, por consequência, prejudicado o pedido recursal de aplicação da reprimenda-base no máximo legal.
+Conforme se observa, o acórdão registrou não haver nos autos prova suficiente da autoria delitiva, especificamente quanto à não devolução do cartão e sobre a acusada haver sido quem de fato realizou os saques.
+Evidentemente que não é missão do STJ dirimir controvérsia de natureza fática, especialmente no tocante à insuficiência da prova, em vista da necessidade de confrontar elementos não examinados no julgado de origem.
+Dessa forma, a pretensão condenatória ensejaria desconstituir a premissa estabelecida pelas instâncias antecedentes de insuficiência da prova para comprovação da autoria e dolo delitivos e isso demandaria necessário reexame de fatos e provas, não permitido, em recurso especial, segundo o entendimento da Súmula n. 7 do STJ.
+A questão relativa à eventual dosimetria da pena está prejudicada, em vista da inadmissibilidade do recurso especial quanto à autoria delitiva.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
