@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SUCUS BRASIL COMÉRCIO DE IMPORTAÇÃO E EXPORTAÇÃO DE SUCOS E FRUTAS LTDA. (SUCUS) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 658/666).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, SUCUS alegou a violação dos arts. 373, I e II, 1.022 do CPC, 746, 747, 749, 750 do CC, ao sustentar que (1) o acórdão recorrido foi obscuro, tendo em vista que a recorrida estava ciente dos danos causados; (2) o acórdão vergastado foi omisso quanto à possibilidade de que os prejuízos sejam deduzidos em liquidação de sentença; (3) a variação de temperatura é suficiente para causar a deterioração das frutas, cabendo à recorrida comprovar o contrário; (4) o transportador apenas se exime da responsabilidade objetiva na hipótese de caso fortuito, força maior ou culpa exclusiva de terceiro; (5) não foram juntados documentos que comprovassem que os danos não ocorreram no destino; e (6) os valores devem ser readequados em vista da teoria da imprevisão (e-STJ, fls. 624/637).
+(1) Da violação do art. 1.022 do CPC
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 4/9/2023, DJe de 6/9/2023.)
+Afasta-se, portanto, a alegada violação.
+(3) (4) e (5) Da responsabilidade do transportador
+O Tribunal estadual consignou que SUCUS não comprovou o fato constitutivo do direito alegado, não tendo demonstrado que a carga tenha chegado ao destino com avarias ou o montante do prejuízo , confira-se:
+No entanto, não há nos autos qualquer documento que comprove a chegada da carga ao destino com avarias, nem qual seria o valor do prejuízo. A autora juntou documentos demonstrando que a carga estava em ordem (fls. 21/25 e 40/43), mas não há documento atestando a situação da carga na chegada ao destino, nem qualquer documento, comunicação, e-mail dos destinatários reclamando a respeito da mercadoria, afirmando que não iam efetuar o pagamento e que o produto estava imprestável. Há um e-mail originário da Rússia (fls. 33), de remetente (Diana Lipatova Remedy Law Firm) cuja identificação não tem qualquer relação com o destinatário (Cityfruit) que menciona a letter of claim (carta de avaria) anexada, mas o documento não consta dos autos. Não bastasse a ausência de provas a respeito do perecimento da carga, as provas apresentadas pela ré corroboram suas alegações de o transporte se deu de maneira regular e na temperatura indicada. Com relação ao contêiner HLBU9172725 com destino à Holanda, o relatório de fls. 138/155 mostra que entre 03/05/2018 e 23/05/2018 a temperatura no geral variou entre 8 e 9º C. Quanto ao contêiner SEGU9290738, verifica- se que até 30/05/2018 a temperatura foi mais alta, variando entre 25 e 30º C, mas a partir dessa data passou a ser em média de 8º C (fls. 391/418). Ainda que em determinados momentos a temperatura possa ter sido superior à indicada, tal oscilação não é suficiente para demonstrar a perda da integralidade da carga, não havendo nenhum outro elemento que indique o perecimento das frutas. Desse modo, tem-se que a autora não se desincumbiu do ônus de provar os fatos constitutivos de seu direito, nos termos do art. 373, inciso I, do Código de Processo Civil (e-STJ, fls. 594/595).
+Assim, rever as conclusões quanto à ausência de comprovação dos fatos alegados demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+(6) Da teoria da imprevisão
+SUCUS sustentou a aplicação da teoria da imprevisão, sem, contudo, indicar o artigo tido por violado.
+A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+Assim, quanto a esse ponto, o recurso não pode ser conhecido em virtude da incidência da Súmula nº 284 do STF, por analogia.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de SUCUS, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. TRANSPORTE INTERNACIONAL DE CARGA. AVARIA. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA. RESPONSABILIDADE DO TRANSPORTADOR. COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. TEORIA DA IMPREVISÃO. DISPOSITIVO LEGAL VIOLADO. NÃO INDICAÇÃO. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
