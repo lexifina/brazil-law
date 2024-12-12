@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. DESAPROPRIAÇÃO. UTILIDADE PÚBLICA. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC. TESE NÃO VEICULADA NO APELO NOBRE. INDEVIDA INOVAÇÃO RECURSAL. IMISSÃO NA POSSE DO IMÓVEL APÓS DEPÓSITO DO VALOR APURADO EM JUÍZO. JUROS MORATÓRIOS E COMPENSATÓRIOS AFASTADOS NA ORIGEM, COM ARRIMO EM RECURSO ESPECIAL REPETITIVO. TEMAS 210 E 211 DO STJ. AFERIÇÃO DA EXATIDÃO DO LAUDO PERICIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Em demanda expropriatória ajuizada pelo Município de São Paulo contra os ora agravantes, a pretensão foi julgada procedente, sem a fixação de juros compensatórios e moratórios, ao fundamento de que a imissão na posse do imóvel ocorreu após o depósito integral da indenização em juízo.
+2. É incabível a análise de tese que não foi agitada no recurso especial, pois constitui indevida inovação recursal.
+3. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+4. Na espécie, o Tribunal a quo, ao realizar o juízo de adequação previsto no art. 1.030, II, do CPC, julgou incabível a incidência de juros moratórios e compensatórios, ancorando-se nos entendimentos firmados pelo STJ quando do julgamento de recurso especial repetitivo (REsp 1.118.103/SP - Temas 210 e 211). Nesse panorama, fica prejudicada a análise dessa matéria na atual quadra processual.
+5. No caso concreto, a Corte de origem asseverou que o laudo pericial está devidamente fundamentado, revelando-se hábil a amparar a formação da convicção do magistrado. Nesse contexto, para se chegar à premissa diversa da adotada pelo órgão julgador de origem, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+6. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Ricardo Rafael Caro e outra contra decisão que negou provimento ao agravo em recurso especial, sob o fundamento de que é incabível o reexame de matéria fática no âmbito do apelo nobre, ex vi da Súmula 7/STJ.
+Inconformada, a parte agravante sustenta que o decisório agravado teria deixado de apreciar a questão relativa aos juros de mora e compensatórios, visto que o apelo nobre está amparado na ofensa aos arts. 15-A e 15-B do Decreto-Lei 3.365/1941. Em acréscimo, aduz que "não há necessidade de reexame de fatos no caso em tela, mas sim que se aplique de forma correta a legislação levando-se em conta fatos já consolidados nas instâncias ordinárias" (fl. 1.955).
+O recurso foi impugnado às fls. 1.962/1.964.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. DESAPROPRIAÇÃO. UTILIDADE PÚBLICA. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC. TESE NÃO VEICULADA NO APELO NOBRE. INDEVIDA INOVAÇÃO RECURSAL. IMISSÃO NA POSSE DO IMÓVEL APÓS DEPÓSITO DO VALOR APURADO EM JUÍZO. JUROS MORATÓRIOS E COMPENSATÓRIOS AFASTADOS NA ORIGEM, COM ARRIMO EM RECURSO ESPECIAL REPETITIVO. TEMAS 210 E 211 DO STJ. AFERIÇÃO DA EXATIDÃO DO LAUDO PERICIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Em demanda expropriatória ajuizada pelo Município de São Paulo contra os ora agravantes, a pretensão foi julgada procedente, sem a fixação de juros compensatórios e moratórios, ao fundamento de que a imissão na posse do imóvel ocorreu após o depósito integral da indenização em juízo.
+2. É incabível a análise de tese que não foi agitada no recurso especial, pois constitui indevida inovação recursal.
+3. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+4. Na espécie, o Tribunal a quo, ao realizar o juízo de adequação previsto no art. 1.030, II, do CPC, julgou incabível a incidência de juros moratórios e compensatórios, ancorando-se nos entendimentos firmados pelo STJ quando do julgamento de recurso especial repetitivo (REsp 1.118.103/SP - Temas 210 e 211). Nesse panorama, fica prejudicada a análise dessa matéria na atual quadra processual.
+5. No caso concreto, a Corte de origem asseverou que o laudo pericial está devidamente fundamentado, revelando-se hábil a amparar a formação da convicção do magistrado. Nesse contexto, para se chegar à premissa diversa da adotada pelo órgão julgador de origem, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+6. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não merece prosperar.
+Da leitura do recurso especial de fls. 1.558/1.570, denota-se indevido incremento argumentativo no agravo de fls. 1.867/1.886. Com efeito, constitui inovação recursal a tese que alega ofensa ao art. 1.022 do CPC, pois não é possível considerar as razões trazidas no agravo em recurso especial para fins de suplantar deficiência de fundamentação recursal do apelo raro, visto que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISPOSITIVO DE LEI FEDERAL. INDICAÇÃO. AUSÊNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. JULGAMENTO EXTRA PETITA E ULTRA PETITA. INEXISTÊNCIA.
+ ..
+5. Inviável a análise de matéria que não foi suscitada no apelo nobre, tendo em vista constituir indevida inovação recursal.
+ ..
+7. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AgInt no AREsp n. 1.933.262/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/10/2024, DJe de 16/10/2024.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO PROFERIDO EM SEDE DE AÇÃO RESCISÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIO DE OMISSÃO. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INCABÍVEL. USURPAÇÃO DE COMPETÊNCIA DO STF. RECURSO ESPECIAL CONTRA RESCISÓRIA IMPROCEDENTE. RESTRIÇÃO ÀS HIPÓTESES DE CABIMENTO DA AÇÃO. RAZÕES RECURSAIS QUE NÃO APONTAM VIOLAÇÃO AO ART. 966 DO CPC/2015 (ART. 485 DO CPC/1973). REDISCUSSÃO DO ACÓRDÃO RESCINDENDO. INVIABILIDADE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+ ..
+5. Agravo interno do particular que se nega provimento.
+(AgInt no AREsp n. 2.501.330/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/6/2024, DJe de 1º/7/2024.)
+No que se refere aos arts. 15-A e 15-B do Decreto-Lei 3.365/1941, razão não assiste à parte agravante.
+Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+No caso concreto, o Tribunal paulista, quando da realização do juízo de adequação previsto no art. 1.030, II, do CPC, decidiu que o acórdão recorrido estava em conformidade com o que foi decidido por esta Corte Superior no julgamento do REsp 1.118.103/SP (Temas 210 e 211), nestes termos (fls. 1.600/1.603):
+Ocorre que o referido precedente foi devidamente aplicado pela Turma Julgadora, não cabendo retratação do acórdão.
+A uma porque a questão dos juros moratórios e compensatórios nem sequer foi levantada pelos recorrentes.
+E a duas porque, ainda que fosse examinada, por se tratar de questão de ordem pública, apreciável de ofício, não haveria quaisquer reparos a serem feitos com relação à sentença.
+Com efeito, consoante registrou a M Ma. Juíza a quo, não há que se falar em imposição de juros moratórios ou compensatórios, uma vez que o valor da indenização decorrente da desapropriação foi integralmente depositado pelo expropriante anteriormente à imissão na posse. É o que se verifica dos depósitos de fls. 85, 355 e 3591361, realizados anteriormente à imissão na posse (fls. 539), e que correspondem ao valor indenizatório fixado em sentença (fls. 1.196).
+Como é cediço, os juros compensatórios incidem desde a imissão na posse, porque se destinam "a compensar o que o desapropriado deixou de ganhar com a perda antecipada do imóvel, ressarcir o impedimento do uso e gozo econômico do bem, ou o que deixou de lucrar". (Resp. 891.631/SP, STJ, 1ª, Turma, Rel. Min. Luiz Fux, j. 02.10.2007).
+E, em seu recurso especial, os recorrentes se limitam a afirmar a aplicação dos referidos juros, sem nem sequer mencionar esta circunstância.
+Ora, se há nos autos depósitos de numerário que satisfaz aquele valor, não se há falar em incidência dos juros compensatórios e moratórios.
+Nesse panorama, fica prejudicada a análise da matéria do presente apelo nobre. A propósito, essa orientação já havia sido adotada por este relator quando proferida a decisão de fls. 1.678/1.679, na qual restou expressamente consignado que o Sodalício de origem deveria aplicar o art. 1.040, I, do CPC quanto ao tema, e não houve, à época, qualquer insurgência recursal.
+Com relação aos arts. 369, 371, do CPC; e 27 do Decreto-Lei 3.365/1941, melhor sorte não socorre à parte agravante.
+Ao solucionar a controvérsia, o Tribunal a quo asseverou (fls. 1.543/1.544):
+O assistente técnico dos expropriados também discorda da metodologia de pesquisa, afirmando que apenas um dos elementos pesquisados se aproxima das características do imóvel em questão (fls. 919/959).
+De um lado, portanto, a assistente técnica da autora sugere a fixação da indenização por meio da aplicação de fator genérico de depreciação de 5% "com base em dados equivalentes entre ZCLz 1 e ZCLz II em outras regiões da cidade" - frise-se, sem fornecer os mencionados dados que levaram ao cálculo do fator de depreciação -, diante da inexistência de elementos compatíveis com o imóvel.
+O assistente técnico dos expropriados, por sua vez, propõe o cálculo da indenização com base em apenas um elemento comparativo, em um universo de seis, e que possui visivelmente o maior valor por metro quadrado em relação aos demais.
+A pesquisa realizada pelo perito e sua metodologia, portanto, traduzem com maior fidedignidade o valor aproximado do metro quadrado, levando em consideração número expressivo de elementos comparativos em zonas urbanas pouco mais amplas do que aquela em que se encontra o imóvel expropriado, devendo ser adotados.
+Como se vê, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nessa mesma linha de raciocínio:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ADMINISTRATIVO. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. DESAPROPRIAÇÃO. VALOR DA INDENIZAÇÃO. LAUDO PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. JUROS MORATÓRIOS. TRÂNSITO EM JULGADO. SÚMULA 70 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III -Rever o entendimento do Tribunal de origem, que consignou que o laudo pericial não apresenta falhas, bem como, observando-se a justa indenização, em razão de constituição de servidão administrativa, deve corresponder ao efetivo prejuízo suportado pelo proprietário do imóvel, levando-se em consideração as características do imóvel, sua localização e o mercado no qual está inserido, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7/STJ.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no REsp n. 1.432.183/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO. ESTAÇÃO ECOLÓGICA. INDENIZAÇÃO FIXADA. LAUDO PERICIAL. VIOLAÇÃO A NORMATIVOS FEDERAIS. PRESTAÇÃO JURISDICIONAL INCOMPLETA. RAZÕES GENÉRICAS. SÚMULA 284/STF. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ.
+1. A alegação de violação ao art. 1.022 do CPC/2015 exige do recorrente a indicação de qual o texto legal, as normas jurídicas e as teses recursais não foram objeto de análise nem de emissão de juízo de valor pelo Tribunal da origem, pena de a preliminar carecer de fundamentação pertinente. Inteligência da Súmula 284/STF.
+2. Não é cognoscível o recurso especial para o exame da justeza da indenização arbitrada em ação de desapropriação quando a verificação disso exigir a revisão e a reinterpretação dos critérios e da metodologia utilizados nos laudos do assistente técnico e do perito judicial. Inteligência da Súmula 07/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 1.531.146/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/4/2021, D Je de 21/6/2021.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
