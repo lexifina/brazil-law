@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO ASSENTADO EM NORMA DE DIREITO LOCAL E CONSTITUCIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF E IMPOSSIBILIDADE DE REVISÃO, EM SEDE DE RECURSO ESPECIAL, DE ACÓDÃO AMPARADO EM FUNDAMENTOS CONSTITUCIONAIS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+II - É entendimento pacífico desta Corte que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a examinar possível ofensa à norma Constitucional, bem como a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão que, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, não conheceu do Recurso Especial, ante a incidência da Súmula n. 280 e em razão da inviabilidade de, em sede de recurso especial, revisar acórdão com fundamentação constitucional.
+Sustenta o Agravante, em síntese, não incidir os óbices apontados, porquanto a controvérsia demanda apenas análise da Lei de Responsabilidade Fiscal.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 443/450e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO ASSENTADO EM NORMA DE DIREITO LOCAL E CONSTITUCIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF E IMPOSSIBILIDADE DE REVISÃO, EM SEDE DE RECURSO ESPECIAL, DE ACÓDÃO AMPARADO EM FUNDAMENTOS CONSTITUCIONAIS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+II - É entendimento pacífico desta Corte que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a examinar possível ofensa à norma Constitucional, bem como a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao Agravante.
+Consoante registrado anteriormente, o tribunal de origem, ao manifestar-se acerca da matéria ora impugnada, assim consignou (fls. 247/252e):
+Apesar das contrarrazões recursais não questionarem a constitucionalidade da Lei 6.560/14, é comum o Estado do Piauí embargar acórdãos que versam sobre questão de reenquadramento com este fundamento. Para evitar dilação desnecessária, assevero desde logo que o Tribunal Pleno, ao julgar o Mandado de Segurança Coletivo 2015.0001.003079-2, assentou o entendimento de que, publicada a Lei nº 6.560/2014, o reajuste vencimental nela previsto passou a integrar o patrimônio jurídico dos servidores, desde que comprovado os requisitos para o reenquadramento funcional, em face do princípio do direito adquirido (art. 5º, XXXVI, da CF/1988). Vejamos:
+(..)
+A Lei mencionada, bem como as Leis 6.790/16 e 6.856/16 que a alteraram, não trata de revisão de salários ou remuneração pura e simplesmente, mas sim de reajuste decorrente de progressão funcional, com base na comprovação do tempo de serviço, conforme previsto no Plano de cargos, carreiras e salários do Estado.
+A lei impugnada, neste contexto, não trata de readaptação concreta de vantagens dos servidores públicos do Piauí, mas sim de uma previsão abstrata acerca de seus enquadramentos conforme o plano de cargos e carreiras, com os respectivos reajustes vencimentais, desde que comprovado o tempo de serviço, que será analisado individualmente por uma comissão da Secretaria de Administração do Estado.
+Em relação à suposta violação aos limites impostos pela Lei de Responsabilidade Fiscal, Lei Complementar nº. 101/2000, também este Tribunal já se pronunciou que o atingimento do limite prudencial previsto na LRF não é óbice à implementação de direito subjetivo de servidor público. E a ausência de previsão orçamentária também não consiste em justificativa idônea para o Estado se exonerar da obrigação.
+Ademais, importante destacar que embora a Administração rotineiramente questione a Lei nº 6.560/14, não se desincumbiu de requerer a declaração da inconstitucionalidade da norma, o que permitiria o direcionamento ao órgão competente para a devida apreciação. E apóia seus argumentos nas leis posteriores que não derrogam, mas apenas alteram alguns termos da Lei nº. 6.560/14.
+Dito isso, passo à análise do caso concreto.
+(..)
+Em resumo: o reenquadramento dos apelantes encontra previsão legal pois, na ausência de legislação específica para os servidores do IAPEP ou, não preenchidos os requisitos previstos em legislação específica, o reajuste previsto na Lei 6.560/14 é plenamente aplicável aos servidores do IAPEP, o que foi reconhecido por decreto do Poder Executivo, faltando tão somente que os servidores usufruam dos impactos financeiros de um direito incorporado ao seu patrimônio jurídico.
+Destarte, deve ser reformada a sentença para determinar a implementação dos reajustes vencimentais previstos no art. 2º da Lei nº 6.560/2014, independentemente de previsão orçamentária, assegurando ainda as Requerentes o recebimento das diferenças patrimoniais devidas desde a data da publicação da Lei nº 6.560/2014.
+Contudo, importante salientar que a Lei Estadual nº 6.560/2014 fora revogada parcialmente pelas Leis Estaduais nº. 6.790/16 e 6.856/16, estabelecendo datas diferentes para a evolução salarial. Dessa forma, os efeitos financeiros decorrentes devem observar a ordem e o montante de pagamento assinalado na última lei.
+Transcrevo o texto vigente no art. 2º da Lei nº 6.856/16, in verbis:
+(..)
+Assim, entendo que é direito adquirido da Apelada ser reenquadrada e perceber os reajustes remuneratórios nos termos da legislação vigente à época do ajuizamento da ação, qual seja, Lei Estadual nº 6.856/16.
+De fato, depreende-se do acórdão transcrito ter sido a lide julgada à luz de interpretação de legislação local, qual seja, a Lei Estadual n. 6.560/2014.
+Com efeito, da forma como definido pelo tribunal de origem, imprescindível seria a análise da lei local para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário", ensejando o não conhecimento do recurso especial.
+Nesse sentido:
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI LOCAL.
+Se a reforma do julgado demanda a interpretação de lei local, o recurso especial é inviável (STF, Súmula nº 280). Agravo regimental não provido.
+(AgRg no AREsp 325.430/PE, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 03/06/2014)
+IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). SUBVENÇÃO PARA INVESTIMENTO. PRODEC. LEI LOCAL. SÚMULA 280/STF.
+1. Verifica-se que a demanda foi dirimida com base em Direito local, in casu, na legislação estadual catarinense (Lei 3.342/05 e no Decreto 704/07). Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário." 2. Agravo Regimental não provido.
+(AgRg no REsp 1.433.745/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/04/2014, DJe 22/04/2014).
+Outrossim, o acórdão impugnado adotou como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do princípio constitucional do direito adquirido (art. 5º, XXXVI, da Constituição da República).
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014 - destaques meus).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014 - destaques meus).
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016 - destaque meu).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp n. 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016 - destaque meu).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPETRAÇÃO DE MANDADO DE SEGURANÇA. COMPETÊNCIA ORIGINÁRIA. PRIMEIRO GRAU DE JURISDIÇÃO. DENEGAÇÃO. INTERPOSIÇÃO DE APELAÇÃO. DESPROVIMENTO. IMPUGNAÇÃO POR VIA DE RECURSO ORDINÁRIO. DESCABIMENTO MANIFESTO. HIPÓTESE INADEQUADA. RECORRIBILIDADE. RECURSO ESPECIAL. NÃO CONHECIMENTO. IMPOSSIBILIDADE. DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. JURISPRUDÊNCIA SEDIMENTADA. AGRAVO INTERNO. CARÁTER DE MANIFESTA IMPROCEDÊNCIA. COMINAÇÃO DE MULTA.
+1. A denegação do mandado de segurança mediante julgamento proferido originariamente por Tribunal de Justiça ou por Tribunal Regional Federal desafia recurso ordinário, na forma do art. 105, inciso II, alínea "b", da Constituição da República.
+2. No entanto, quando impetrada a ação de mandado de segurança em primeiro grau de jurisdição e instada a competência do Tribunal local apenas por via de apelação, o acórdão respectivo desafia recurso especial, conforme o disposto no art. 105, inciso III, da Constituição da República.
+3. Dessa forma, a interposição do recurso ordinário no lugar do recurso especial constitui erro grosseiro e descaracteriza a dúvida objetiva. Precedentes.
+4. O agravo interno que se volta contra essa compreensão sedimentada na jurisprudência e que se esteia em pretensão deduzida contra texto expresso de lei enquadra-se como manifestamente improcedente, porque apresenta razões sem nenhuma chance de êxito.
+5. A multa aludida no art. 1.021, §§ 4.º e 5.º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas.
+6. Agravo interno não provido, com a condenação do agravante ao pagamento de multa de cinco por cento sobre o valor atualizado da causa, e razão do reconhecimento do caráter de manifesta improcedência, a interposição de qualquer outro recurso ficando condicionada ao depósito prévio do valor da multa.
+(AgInt no RMS n. 51.042/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/03/2017, DJe 03/04/2017 - destaque meu).
+No caso, não obstante o improvimento do Agravo Interno, não resta configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+É o voto.
