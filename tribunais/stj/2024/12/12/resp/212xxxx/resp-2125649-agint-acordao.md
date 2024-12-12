@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Nancy Andrighi.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DA CADEIA DE PROCURAÇÃO E SUBSTABELECIMENTO OUTORGADOS AO SUBSCRITOR DO RECURSO ESPECIAL. PARTE INTIMADA PARA REGULARIZAÇÃO. NÃO ATENDIMENTO DE FORMA INTEGRAL. INVIABILIDADE. SÚMULA 115/STJ. INCIDÊNCIA.
+1. Incidente de desconsideração da personalidade jurídica.
+2. A jurisprudência desta Corte Superior assenta que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Precedentes.
+3. Tendo sido oportunizada à parte recorrente a juntada da cadeia completa de substabelecimento/mandato e não tendo sido cumprida a exigência no prazo determinado, inviável o conhecimento do recurso.
+4. Além disso, entende também o STJ que a parte deve providenciar o traslado da procuração constante no feito principal ou fazer juntar novo instrumento, quando forem formulados incidentes processuais.
+5. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por F3C EMPREENDIMENTOS E PARTICIPAÇÕES S.A. contra decisão singular da Presidência desta Corte Superior, que não conheceu do recurso especial, nos termos do art. 21-E, V, do RISTJ, em razão da incidência da Súmula 115/STJ.
+Ação: de incidente de desconsideração de pessoa jurídica.
+Decisão do Juízo de 1º Grau: julgou improcedente o pedido de desconsideração de pessoa jurídica.
+Acórdão: negou provimento ao agravo de instrumento interposto por BANCO ABC BRASIL S. A., nos termos da seguinte ementa:
+Agravo de Instrumento. Incidente de desconsideração da personalidade jurídica. Relação jurídica de natureza civil. Art. 50 do Código Civil. Pedido julgado improcedente. Desacerto. Confusão patrimonial e desvio de finalidade evidenciados. Grupo econômico de fato. Diversas alterações nos quadros societários dos executados entre si, envolvendo familiares e terceiros. Negócios jurídicos (tais como transferências de imóveis, constituição de garantias e outorga de procurações com poderes de compra e venda de imóveis) que nitidamente provocaram o esvaziamento do patrimônio dos devedores e, por conseguinte, ocasionaram a frustração da satisfação do crédito exequendo. Demais elementos que indicam inequívoco abuso da personalidade jurídica, a justificar a inclusão da agravada no polo passivo. Decisão reformada. Recurso provido.
+Embargos de declaração: foram rejeitados.
+Recurso especial: alegou violação aos arts. 329, 1.022 e 1.025 do CPC e art. 50 Código Civil.
+Decisão da Presidência do STJ: não conheceu do recurso especial, em razão da incidência da Súmula 115/STJ.
+Agravo interno: aduz que foi juntada procuração ainda no Primeiro Grau, mas por erro do e-SAJ, não foi reconhecida a assinatura eletrônica do documento e que não houve intimação para regularizar a representação processual.
+Sustenta que não pode ser penalizada por erro do sistema eletrônico do Tribunal.
+Argumenta que não há fundamentação legal para que o mandado juntado seja data de data pretérita à interposição do recurso .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DA CADEIA DE PROCURAÇÃO E SUBSTABELECIMENTO OUTORGADOS AO SUBSCRITOR DO RECURSO ESPECIAL. PARTE INTIMADA PARA REGULARIZAÇÃO. NÃO ATENDIMENTO DE FORMA INTEGRAL. INVIABILIDADE. SÚMULA 115/STJ. INCIDÊNCIA.
+1. Incidente de desconsideração da personalidade jurídica.
+2. A jurisprudência desta Corte Superior assenta que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Precedentes.
+3. Tendo sido oportunizada à parte recorrente a juntada da cadeia completa de substabelecimento/mandato e não tendo sido cumprida a exigência no prazo determinado, inviável o conhecimento do recurso.
+4. Além disso, entende também o STJ que a parte deve providenciar o traslado da procuração constante no feito principal ou fazer juntar novo instrumento, quando forem formulados incidentes processuais.
+5. Agravo interno não provido.
+VOTO
+Da análise dos autos, observo que a decisão agravada não conheceu do agravo em recurso especial, ante a aplicação do verbete sumular 115 desta Corte Superior.
+Com efeito, consoante reiterada e uníssona jurisprudência desta Corte Superior, o recurso dirigido ao Superior Tribunal de Justiça deve estar acompanhado do instrumento de procuração que outorga poderes ao advogado da parte recorrente, além da cadeia de substabelecimentos, conforme preceitua o enunciado da Súmula 115/STJ.
+Conforme se verifica, a parte agravante foi intimada para regularizar a representação processual, nos termos dos arts. 76 c/c 932, p.u., do CPC, sendo que não houve a juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes à subscritora do recurso especial quando do primeiro peticionamento, consoante registrado na decisão agravada:
+"Mediante análise do recurso de F3C EMPREENDIMENTOS E PARTICIPAÇÕES S. A., a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao Dr. Fernando Cezar Vernalha Guimaraes, subscritor do recurso especial.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, uma vez que os poderes consignados no instrumento de mandato de fl. 405, foram outorgados ao subscritor do recurso em data posterior à sua interposição."(e-STJ Fl.424)
+Havendo intimação para regularização de pressuposto processual e não sendo esta atendida de forma completa, não haverá nova oportunidade para correção do vício processual, mesmo dentro do prazo concedido para a regularização, tendo em vista a ocorrência de preclusão consumativa, a qual impede "à parte apresentar aditivos, emendas ou complementos a suas razões de insurgência, mesmo dentro do prazo recursal" (AgInt no AREsp 2.023.345/MS, Quarta Turma, DJe de 21/05/2024), ou quando "manejadas duas petições contra o despacho que determinou a regularização do preparo, a segunda petição não pode ser considerada, uma vez que a primeira cumpriu a finalidade decorrente daquele despacho, não cabendo nova oportunidade para sua regularização, em razão da preclusão consumativa, não havendo falar em ementa à petição" (AgInt no AREsp 1766022/MG, Terceira Turma, DJe de 15/04/2021).
+Na hipótese, o despacho presidencial facultou a juntada do instrumento de procuração ou substabelecimento da advogada subscritora do recurso especial - Dr. Fernando Cezar Vernalha Guimaraes-, porém não houve atendimento de forma completa, pois os substabelecimentos juntados não foram suficientes para evidenciar a cadeia de representação que outorga poderes à referida causídica, especialmente porque os poderes foram outorgados ao subscritor do recurso em data posterior à sua interposição.
+Não há que se falar em ilegalidade no entendimento firmado, porquanto é firme a jurisprudência desta Corte Superior no sentido de que não supre o vício de representação processual a juntada de procuração ou substabelecimento com data de outorga posterior à data de interposição do recurso.
+Por oportuno, cita-se: AgInt no REsp n. 2.110.317/SP, r Terceira Turma, julgado em 9/9/2024, DJe de 11/9/2024; AgInt no REsp n. 2.127.066/SP, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgInt no AREsp n. 2.489.083/SP, R Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgInt no AREsp n. 2.559.665/SP, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024; AgInt no AREsp n. 2.482.099/SP, Primeira Turma, julgado em 24/6/2024, DJe de 3/7/2024; AgInt no AREsp n. 2.541.460/RJ, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.
+Além disso, também nos termos da jurisprudência desta Corte, a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/15, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, pois a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento" (AgInt nos EDcl no AREsp 1.704.046/SP, Terceira Turma, DJe 3/3/2021 e AgInt no AREsp 1.634.557/SP, Quarta Turma, DJe 3/12/2020).
+Cita-se: AgInt no AREsp 2.208.246/SP, Terceira Turma, DJe de 13/3/2023; AgInt no AREsp 2.133.193/SP, Quarta Turma, DJe de 10/3/2023.
+Por fim, cabe consignar que a orientação pacífica desta Corte assenta que a parte deve providenciar o traslado da procuração constante no feito principal ou fazer juntar novo instrumento, quando forem formulados incidentes processuais  ..  (AgRg no AREsp n. 669.569/GO, Terceira Turma, DJe de 23/2/2016).
+Nesse mesmo sentido: AgRg no AREsp n. 592.921/SP, Quarta Turma, DJe de 17/4/2015. Assim sendo, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
