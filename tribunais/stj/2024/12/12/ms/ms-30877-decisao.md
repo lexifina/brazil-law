@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por JACKSON DA SILVA LIMA, no qual se aponta como autoridade coatora o Tribunal de Justiça Militar do Estado de São Paulo (fls. 02-09).
+Em suas razões, o impetrante alega que o Tribunal de Justiça Militar, órgão competente para julgar crimes militares e questões relacionadas com a execução penal de militares, estaria cometendo constrangimento ilegal ao mantê-lo em um presídio militar após sua exoneração e consequente perda do status de militar.
+Aduz que a autoridade coatora teria violado a Instrução n. 02/2020-GABCGER/CGER, a qual determina, em seu artigo 2º, que o Juízo das Execuções Criminais da Justiça Militar deve comunicar ao Corregedor Geral da Justiça Militar sobre qualquer preso que não atenda às condições estabelecidas no artigo 1º, adotando as providências necessárias para corrigir tal situação (fl. 06).
+Defende que,
+ n o caso do Impetrante, essa comunicação e as subsequentes providências não foram realizadas, resultando em uma clara violação dos procedimentos regulamentares. A manutenção do Impetrante no Presídio Militar Romão Gomes, sem nenhuma justificativa legal ou humanitária, contraria diretamente as orientações da Corregedoria e configura um abuso de poder por parte da autoridade responsável.
+Portanto, a não observância da Instrução nº 02/2020-GABCGER/CGER por parte do Tribunal de Justiça Militar evidencia uma falha grave na aplicação das normas que regem a execução penal de ex-militares (fl. 07).
+Ao final, requer (fl. 08-09):
+a) conceda, liminarmente, a segurança pleiteada, com a expedição do competente ofício, determinando que a autoridade coatora suspenda o ato lesivo e cumpra as determinações legais (art. 9º da Lei nº 12.016/2009), assegurando ao impetrante o direito plausividade do direito do Impetrante, já que conforme estabelecido pela Instrução nº 02/2020- GABCGER/CGER do Tribunal de Justiça Militar do Estado de São Paulo, o Presídio Militar Romão Gomes destina-se exclusivamente a indivíduos que ostentam a condição de militar. O Impetrante, tendo sido exonerado de suas funções na Polícia Militar, não mais se enquadra nessa categoria, configurando sua permanência no referido presídio uma clara violação das normas regulamentares o até julgamento do mérito deste mandado.
+b) acate as provas que demonstram o direito líquido e certo do impetrante que acompanham a presente petição inicial, conformando a prova pré-constituída como exigência do mandado de segurança;
+c) determine a notificação da autoridade coatora para prestar informações no prazo legal de dez dias, conforme art. 7º, I, da Lei nº 12.016/2009; d) intime pessoalmente o representante legal da pessoa jurídica à qual está vinculada a autoridade coatora, nos termos do art. 7º, II, da Lei nº 12.016/2009; e) determine a oitiva do Ministério Público para oferecer parecer, conforme da art. 12, caput, da Lei nº 12.016/2009; f) fixe multa para o caso de descumprimento da medida liminar e da segurança concedida, nos termos do art. 77, IV, §§ 1º e 2º, CPC/15; g) ao final, pleiteia a concessão definitiva da segurança com a ratificação da liminar deferida assegurando-se o direito líquido e certo do impetrante.
+É o relatório.
+DECIDO.
+O mandamus não merece conhecimento.
+Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, o mandado de segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal, nos termos do art. 105, inciso I, alínea "b", da Constituição Federal.
+Assim, o mandado de segurança em tela é manifestamente descabido, uma vez que não se insere na competência constitucional desta Corte Superior processar e julgar pretenso ato coator proveniente de Tribunal de Justiça Militar dos Estados.
+Com efeito, nos termos da Súmula n. 41/STJ,  o  Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos.
+Ante o exposto, com base no art. 212 do RISTJ e n o art. 10 da Lei n. 12.016/2009, indefiro liminarmente o presente mandado de segurança.
+Sem condenação em honorários advocatícios, haja vista o disposto na Súmula n. 105/STJ e no art. 25 da Lei n. 12.016/2009.
+Publique-se. Intimem-se.
+EMENTA
