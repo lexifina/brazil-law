@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por YAN CARLOS DO NASCIMENTO BASILIO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ que inadmitiu o recurso especial, ante a incidência da Súmula n. 7 do STJ (e-STJ fls. 222/224).
+O agravante YAN CARLOS DO NASCIMENTO BASILIO foi condenado nas sanções do art. 157, caput, do Código Penal (crime de roubo) à pena de 4 anos de reclusão e 10 dias-multa, em regime inicial semiaberto. A defesa recorreu alegando que a conduta se enquadrava ao art . 155, caput, do Código Penal (crime de furto), uma vez que a suposta violência foi direcionada exclusivamente à coisa (o celular) e não à vítima.
+O recurso de apelação foi julgado improcedente pelo Tribunal de Justiça do Ceará, mantendo-se a condenação por roubo sob o argumento de que a força empregada intimidou a vítima (e-STJ fls. 185/192).
+A parte agravante alega, em síntese, que não seria caso de incidência da referida Súmula, pois não é necessário reexaminar fatos ou provas, mas apenas reavaliar juridicamente os elementos já reconhecidos no acórdão (e-STJ fl. 235/243).
+Requer que seja conhecido o referido agravo para conhecer do recurso especial e, no mérito, provê-lo.
+Parecer do Ministério Público Federal pelo conhecimento do agravo, para negar conhecimento e provimento ao recurso especial, mantendo-se o acórdão ora por seus próprios fundamentos (e-STJ fls. 264/266).
+É o relatório.
+Decido.
+De pronto, verifica-se a existência dos requisitos extrínsecos de admissibilidade relativos à tempestividade e à regularidade formal do agravo interposto.
+Quanto aos requisitos intrínsecos, houve, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+No entanto, nos termos do art. 932, IV, do CPC, combinado com o art. 253, parágrafo único, II, a, do Regimento Interno desta Corte, incumbe ao Relator conhecer do agravo para não conhecer do recurso especial que for inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+No presente caso, o recurso especial interposto alega que o tribunal a quo, no acórdão proferido, teria violado o art. 155 do CP. A defesa do agravante entende que a conduta descrita no acórdão consistiu em arrebatamento do celular da vítima, sem contato direto ou grave ameaça. A violência empregada foi dirigida apenas ao objeto, razão pela qual seria necessário desclassificar a conduta para o crime de furto.
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 7/STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, o que não fez. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. TIPICIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. CONTINUIDADE DELITIVA. ÓBICE DA SÚMULA 283/STF. ATENUANTE INOMINADA DO ART. 66 DO CÓDIGO PENAL. SÚMULA 7/STJ. VALOR DA PRESTAÇÃO PECUNIÁRIA. SÚMULA 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que diz respeito à atipicidade da conduta, em razão da ausência da alegada ausência de dolo, deve-se ressaltar que para afastar a incidência da Súmula 7 desta Corte exige-se a demonstração clara e objetiva de que a solução da controvérsia e a violação de lei federal independem do reexame do conjunto fático-probatório dos autos.
+(..) 5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.517.591/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+Com efeito, para transcender o óbice da Súmula 7/STJ, a defesa precisa demonstrar em que medida as teses não exigiriam a alteração do quadro fático delineado pela Corte local, não bastando a assertiva genérica de que o recurso visa à revaloração das provas, vale dizer, no caso, avaliar a tese de desclassificação para o crime de furto, como quer a defesa, demandaria revolvimento fático-probatório, e não questões de direito ou de má aplicação da lei federal.
+Ante o exposto, com fundamento nos artigos 638 do CPP, 932, IV, do Código de Processo Civil de 2015 e 253, parágrafo único, II, a, do RISTJ, conheço do agravo em recurso especial para não conhecer do recurso especial, porquanto inadmissível.
+Publique-se.
+Intimem-se.
+ EMENTA
