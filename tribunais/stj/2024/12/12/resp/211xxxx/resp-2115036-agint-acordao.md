@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RECURSO QUE NÃO ATACA ESPECIFICAMENTE OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+3. Está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado do Paraná desafiando decisão de fls. 436/440, que conheceu em parte do recurso especial e, na parte conhecida, negou-lhe provimento, com base nos seguintes fundamentos: (I) não restou configurada a negativa de prestação jurisdicional; (II) incidência da Súmula 283/STF; e (III) aplicação do óbice da Súmula 7/STJ.
+Inconformada, a parte agravante repisa os argumentos acerca da negativa de prestação jurisdicional bem como alega que impugnou os alicerces do acórdão recorrido e que "a pretensão recursal não esbarra no óbice do enunciado de Súmula n.º 07/STJ, uma vez que o recurso não parte de pressupostos estranhos ao aresto  ..  " (fl. 454).
+A parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RECURSO QUE NÃO ATACA ESPECIFICAMENTE OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+3. Está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Com efeito, conforme consignado na decisão agravada, o aresto recorrido decidiu a questão com base na seguinte fundamentação (fls. 160/168):
+Entretanto, o trânsito em julgado da sentença coletiva apresenta peculiaridades
+que tornam forçosa a revisão do entendimento.
+Isso porque na ação coletiva, houve julgamento de embargos de declaração opostos contra acórdão em 08/03/2016 (autos 0003203-59.2008.8.16.0004, mov. 1.16, fl. 92), sem interposição de recursos aos Tribunais Superiores.
+O recurso da decisão proferida antes da vigência do Código de Processo Civil de 2015 (18 de março de 2016) deve ser regido pelo diploma revogado, que determinava a contagem dos prazos em dias corridos. Nesse sentido:
+ ..
+Ademais, pela mesma Corte: Enunciado administrativo n. 2 -Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. Enunciado administrativo n. 3 - Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Vale dizer, o acórdão transitou em julgado em 08/04/2016, todavia sob a égide do Código de Processo Civil de 1973, que regulava a contagem do prazo para interposição de recurso especial/extraordinário.
+Ao contrário do estabelecido pela decisões - agravada e que concedeu a tutela recursal de urgência - incide sobre o julgamento da impugnação ao cumprimento de sentença a modulação de efeitos tese fixada pelo STJ no julgamento do Tema n. 880, de Recursos Repetitivos.
+ ..
+A decisão coletiva ora executada, embora transitada em julgado após 17/03/2016, estabilizou-se sob a égide do CPC/73, porque o prazo recursal ainda era regido por este último, nos termos de jurisprudência assente do próprio STJ, que também fixou este precedente de obediência obrigatória (Tema 880 de Repetitivos).
+Prevê o art. 1º, do Decreto n. 20.910/32, que as dívidas da Fazenda Pública prescrevem em cinco anos. Acerca da prescrição da pretensão executória do título judicial, a Súmula n. 150 do STF estabelece que ." p rescreve a execução no mesmo prazo de prescrição da ação"Nessa ordem de ideias, considerada a modulação de efeitos do precedente de obediência obrigatória fixado pelo STJ, a pretensão executiva prescreveria somente em 01/07/2022.
+Ainda, conforme o julgamento da Corte Cidadã, não é relevante se a documentação foi suficientemente apresentada pelo ESTADO DO PARANÁ em 12/03/2018, no âmbito dos autos 0008041-64.2016.8.16.0004 (mov. 35.1).
+Transitada em julgado a sentença sob a égide do CPC/73, "e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017".
+Nesse contexto, não há falar em ofensa ao art. 1.022 do CPC, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia acerca da preclusão; não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Frise-se, mais, que o órgão colegiado não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+Quanto ao mérito, melhor sorte não socorre à parte agravante.
+No presente caso, o recurso especial não impugnou alicerce basilar que ampara o acórdão recorrido, qual seja, " a  decisão coletiva ora executada, embora transitada em julgado após 17/03/2016, estabilizou-se sob a égide do CPC/73, porque o prazo recursal ainda era regido por este último, nos termos de jurisprudência assente do próprio STJ, que também fixou este precedente de obediência obrigatória (Tema 880 de Repetitivos)" esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp 1.679.006/SP, rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+Ademais, acertada a decisão agravada ao consignar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
