@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SAINGLERGE CLERGE contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2263757-13.2024.8.26.0000.
+Consta nos autos que o paciente foi preso em flagrante delito no dia 31/08/2024, convertida a custódia em preventiva, tendo sido posteriormente denunciado como incurso nos arts. 29, § 1º, e 129, § 12, por duas vezes, na forma do art. 71, ambos os delitos em concurso material.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, alega a parte impetrante, em síntese, que não se encontram presentes os requisitos autorizadores da prisão preventiva e que a segregação provisória se mostra excessiva e desproporcional, notadamente por tratar-se de réu primário, com domicílio fixo no distrito da culpa e que estava exercendo sua atividade laboral no momento da prisão.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do paciente, ainda que mediante a imposição de medidas cautelares alternativas.
+O pedido liminar foi deferido às fls. 305-307.
+Informações prestadas às fls. 311-321 e 323-326.
+O Ministério Público Federal manifestou-se às fls. 328-331, opinando pela denegação da ordem.
+É o relatório.
+DECIDO.
+A ordem comporta deferimento.
+Para a decretação da prisão preventiva, faz-se necessário demonstrar, além da existência de prova da materialidade delitiva e de indícios suficientes de autoria, o preenchimento dos requisitos que autorizam a medida extrema, previstos no art. 312 do Código de Processo Penal.
+Ademais,
+a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual  ..  mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade (AgRg no RHC n. 182.523/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023).
+No caso, para a adequada solução da controvérsia, destaco os seguintes trechos da decisão impugnada (fl. 99):
+(..). No caso em apreço, destaco que os crimes de lesão corporal majorada, porque cometidos com violência contra agentes de segurança pública, que provocaram ferimentos consideráveis nas vítimas, como se extrai das fotografias de fls. 37/39, poderiam redundar em resultados até mais gravosos, dado o instrumento utilizado para a prática do crime: robusto (sic) barra de madeira contendo pregos em sua extremidades (sic). Se não bastasse, o averiguado ainda resistiu à sua prisão, opondo-se, portanto, à execução de ato ilegal, fato que prejudicou a conclusão da ação conjunta promovida entre as forças policiais e agentes da municipalidade, circunstância que qualifica sua conduta, consoante art. 329, §1º, do CP. Tal contexto, sob pena de total perda de credibilidade do Sistema de Justiça, au toriza a custódia cautelar para garantia da ordem pública.
+A despeito da reprovabilidade das condutas apuradas nos autos, entendo que os fundamentos apresentados pela instância de origem não autorizam a conclusão de que a prisão preventiva é a única medida cautelar adequada à espécie, notadamente por tratar-se de réu primário e com endereço certo.
+Ilustrativamente:
+RECURSO EM HABEAS CORPUS. LESÃO CORPORAL, DANO QUALIFICADO, DESOBEDIÊNCIA E RESISTÊNCIA. PRISÃO PREVENTIVA. MEDIDA DESPROPORCIONAL. SUFICIÊNCIA DE CAUTELARES ALTERNATIVAS. CONFIRMAÇÃO DE LIMINAR DEFERIDA. RECURSO EM HABEAS CORPUS PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na espécie, o Magistrado de primeira instância decretou a custódia cautelar do acusado em virtude da gravidade da conduta, extraída do fato de o agente, em tese, haver causado danos ao patrimônio público e agredido um policial. Todavia, esse fundamento não se mostra bastante, em juízo de proporcionalidade, para manter o recorrente sob o rigor da cautela pessoal mais extremada, sobretudo porque ele é primário, tem ocupação lícita e endereço certo. Além disso, o decreto prisional não evidenciou a ocorrência de agressões exacerbadas ou circunstâncias que demonstrassem a especial periculosidade do réu ou o concreto risco de reiteração delitiva.
+3. Os argumentos apresentados, por si sós, não poderiam ensejar a imposição da prisão preventiva, se outras medidas menos invasivas se mostram suficientes e idôneas para os fins cautelares, especialmente para o objetivo de evitar a prática de novas infrações penais (art. 282, I, CPP).
+4. Recurso provido para substituir a prisão preventiva do recorrente pelas medidas cautelares previstas no art. 319, I, III e IV, do CPP.
+(RHC n. 182.625/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/8/2023, DJe de 17/8/2023).
+Ante o exposto, concedo a ordem de habeas corpus para, confirmando a liminar deferida, determinar a soltura do paciente, se por outro motivo não estiver preso, com a advertência de que deverá permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo da fixação de medidas cautelares alternativas pelo Juiz da causa, desde que de forma fundamentada.
+Publique-se. Intimem-se.
+EMENTA
