@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por HAPVIDA ASSISTÊNCIA MÉDICA S.A. (HAPVIDA), na demanda em que contende com HOSPITAL SANTA LUCIA S.A. (HOSPITAL), contra acórdão da Quarta Turma, da relatoria do Ministro MARCO BUZZI, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. De acordo com a jurisprudência desta Corte Superior, "A paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto" (AgInt no AR Esp 846.717/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/11/2017, D Je de 30/11/2017). Incidência da Súmula 83 do STJ.
+3. Rever o entendimento do Tribunal de origem, no sentido de aferir a existência de prejudicialidade externa, a ocorrência de cerceamento de defesa, a ausência de inadimplemento contratual e de ofensa à boa-fé objetiva, e se a parte se desincumbiu do seu ônus probatório, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas aos autos, o que é vedado pela Súmula 7 do STJ. Precedentes.
+3.1. Conforme entendimento desta Corte Superior, não há como aferir eventual ofensa ao art. 373 do CPC/15 (correspondente ao art. 333 do CPC/73), sem incursão no conjunto probatório dos presentes autos. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido (e-STJ, fls. 1.490/1.491).
+Opostos embargos de declaração, foram eles rejeitados (e-STJ, fls. 1.533/1.538).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito ao indeferimento da produção de provas.
+Sustentou que enquanto o acórdão paradigma da Terceira Turma entendeu que há cerceamento de defesa quando o juiz indefere a realização de provas e profere julgamento que é desfavorável à parte com fundamento na ausência de provas, o acórdão embargado da Quarta Turma entendeu que o art. 370 do CPC permitiria que o juiz indeferisse a produção de prova que reputar inútil, mesmo diante de julgamento desfavorável à parte requerente com fundamento no ônus da prova.
+O embargante citou como paradigma o acórdão da Terceira Turma prolatado no REsp nº 1.874.259/SP, relatora Ministra NANCY ANDRIGHI, j. 19/10/2021, DJe de 22/10/2021 (e-STJ, fls. 1.087/1.205).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito ao indeferimento da produção de provas.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+O art. 1.043, II, do CPC, estabelece que cabem embargos de divergência contra o acórdão que em recurso especial divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+Na hipótese, o acórdão embargado da Quarta Turma entendeu incidir o óbice da Súmula nº 7 do STJ.
+Nesse sentido, a Quarta Turma do STJ entendeu que o acórdão estadual analisou a questão com base no conjunto fático-probatório e, diante do quadro fático delimitado, concluiu que analisar o cerceamento de defesa e o não cabimento de dinamização do ônus probatório esbarraria no óbice da Súmula nº 7 do STJ.
+Confira-se trecho do acórdão embargado:
+ ..
+Ademais, não merece acolhida a pretensão da parte agravante de ver afastado o óbice da Súmula 7 do STJ, em relação às teses de ocorrência de cerceamento de defesa e de não cabimento de dinamização do ônus probatório.
+Consoante asseverado na decisão ora combatida, o Tribunal de origem, a partir da minuciosa análise do acervo probatório dos autos, concluiu que a realização da prova pericial era desnecessária ao julgamento da causa (fls. 1224 e 1252-1253, e- STJ).
+Com efeito, segundo disposto no art. 370 do CPC/2015, cabe ao juiz determinar, de ofício ou a requerimento, a produção das provas necessárias à elucidação das questões apresentadas pelas partes. Como consequência de tal potestade, prevê o parágrafo único do referido dispositivo, inclusive, que o magistrado deverá indeferir as diligências inúteis ou meramente protelatórias.
+Não merece prosperar, portanto, o pretenso afastamento da Súmula 7/STJ, pois, para alterar as referidas conclusões do órgão julgador, no sentido de verificar a ocorrência de cerceamento de defesa, seria necessário o reexame do acervo fático- probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal (e-STJ, fls. 1.497/1.489).
+Não se configura divergência entre julgados quando um deles adentra o mérito do recurso, apreciando a questão controvertida, ao passo que o outro não conhece do recurso especial, sem enfrentar a tese de mérito, em razão de óbice relacionado à admissibilidade recursal.
+Isto porque não há similitude fática quando o acórdão embargado trata da inadmissibilidade do recurso especial e o paradigma do mérito.
+É que, nos embargos de divergência, os acórdãos cotejados devem exibir idêntico grau de cognição.
+Embora o art. 1.043, III, do NCPC, estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.
+No caso em exame, o acórdão embargado não adentrou no mérito da questão e manteve as conclusões do Tribunal de origem inalteradas, em virtude do óbice da Súmula nº 7 do STJ.
+Não há, pois, nessa oportunidade, como se alterar e reavaliar os critérios sobre o conhecimento do recurso para concluir, segundo pretende o embargante, que era o caso de reconhecer o cerceamento de defesa.
+Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou, de fato, o juízo de admissibilidade, e o julgado paradigma admitiu o recurso e enfrentou o mérito, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados.
+Confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO PARADIGMA QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA. DIVERGÊNCIA CIRCUNSCRITA À APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE DIVERGÊNCIA DE TESES JURÍDICAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 1.043 do Código de Processo Civil, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+2. "O Superior Tribunal de Justiça já firmou entendimento no sentido de serem incabíveis embargos de divergência com o intuito de reapreciar a efetiva ocorrência dos óbices de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.225.660/RJ, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/8/2023, DJe de 14/8/2023).
+3. Na hipótese, a parte embargante pretende reverter o juízo de admissibilidade do recurso especial buscando a aplicação dos óbices das Súmulas 5 e 7 do STJ no caso dos autos, de modo que incabíveis os presentes embargos.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp nº 1.815.823/SP, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 29/10/2024, DJe de 7/11/2024 - sem destaques no original)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SOCIEDADE EDUCACIONAL. EXCLUSÃO DE SÓCIO. JUSTO MOTIVO. NÃO OCORRÊNCIA. ACÓRDÃO EMBARGADO. JUÍZO DE MÉRITO. ACÓRDÃO PARADIGMA. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 7. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO NÃO PROVIDO.  ..
+4. Nos embargos de divergência os acórdãos cotejados devem exibir idêntico grau de cognição. Doutrina.
+5. Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado admitiu o recurso e enfrentou o mérito, e o julgado paradigma não ultrapassou, de fato, o juízo de admissibilidade, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados. Precedentes.
+6. Agravo interno não provido.
+(AgInt nos EREsp 1.280.051/MG, Rel. Ministro MOURA RIBEIRO, Segunda Seção, j. 13/12/2017, DJe 6/3/2018 - sem destaque no original)
+Desse modo, permanece hígido o entendimento da Corte Especial de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 7 DO STJ. ACÓRDÃO PARADIGMA. JUÍZO DE MÉRITO. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. REGRA TÉCNICA. EMBARGOS REJEITADOS LIMINARMENTE.
