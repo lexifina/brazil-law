@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado por OTAVIO MEDEIROS DE SOUZA NETO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 248/249):
+AGRAVO INTERNO EM APELAÇÃO. ART. 1.021, DO CPC.
+MANDADO DE SEGURANÇA IMPETRADO EM 04/08/2022, CONTRA ATO TIDO COMO ABUSIVO E ILEGAL IMPUTADO AO PRESIDENTE E AO CHEFE DE FISCALIZAÇÃO DA FUNDEMA-FUNDAÇÃO MUNICIPAL DO MEIO AMBIENTE DE BARRA VELHA. VALOR ATRIBUÍDO À CAUSA: R$ 76.180,90.
+OBJETIVADO RECONHECIMENTO DA NULIDADE DOS AUTOS DE INFRAÇÃO N. 014/2022 E N. 015/2022, EXPEDIDOS EM RAZÃO DO DESCARTE IRREGULAR DE RESÍDUOS SÓLIDOS DE CONSTRUÇÃO CIVIL DIRETAMENTE NA FAIXA DE AREIA, E DA APRESENTAÇÃO DE RESISTÊNCIA AO TRABALHO DA FISCALIZAÇÃO AMBIENTAL, ISTO MEDIANTE A MODIFICAÇÃO DO CENÁRIO REAL.
+VEREDICTO DENEGANDO A ORDEM PLEITEADA.
+JULGADO MONOCRÁTICO QUE NEGOU PROVIMENTO À APELAÇÃO INTERPOSTA PELO IMPETRANTE.
+INCONFORMISMO DE OTÁVIO MEDEIROS DE SOUZA NETO.
+DEFENDIDA ILEGITIMIDADE PASSIVA, SOB O ARGUMENTO DE NÃO SER O AUTOR DAS INFRAÇÕES AMBIENTAIS.
+ALEGAÇÃO DE QUE SE TRATA DE TERRENO DE MARINHA, PERTENCENTE À UNIÃO.
+CONJECTURA FRÍVOLA. PROPOSIÇÃO MALOGRADA.
+AGRAVANTE QUE RESIDE NO IMÓVEL, TENDO INCLUSIVE ADMITIDO QUE A CONSTRUÇÃO DO MURO IRREGULAR DEU-SE PARA A PROTEÇÃO DO BEM DE RAIZ.
+PROLOGAIS.
+"Nos termos da Súmula 623 do STJ: "As obrigações ambientais possuem natureza propter rem, sendo admissível cobrá-las do proprietário ou possuidor atual e/ou dos anteriores, à escolha do credor" (Desembargador Carlos Adilson Silva)". (TJSC, Agravo de Instrumento n. 5050601- 13.2022.8.24.0000, rel. Des. Artur Jenichen Filho, Quinta Câmara de Direito Público, j. em 18/07/2023).
+ROGO PARA MINORAÇÃO DA SANÇÃO IMPOSTA, ANTE ALEGADA INOBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+LUCUBRAÇÃO INFECUNDA. ESCOPO BALDADO.
+MONTANTE FIXADO DENTRO DOS LIMITES DA LEI MUNICIPAL N. 1.870/2020, COM APLICAÇÃO DA AGRAVANTE DISPOSTA NO ART. 40 DA LEGISLAÇÃO DE REGÊNCIA, RELATIVA AO ATO DE IMPEDIR OU DIFICULTAR A AÇÃO FISCALIZADORA DA COMUNA.
+PRECEDENTES.
+"A despeito dos argumentos invocados, certo que a cominação foi arbitrada com o devido embasamento legal e com fulcro na constante desobediência às solicitações do órgão municipal.  ..  O montante foi corretamente graduado "de acordo com a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor" (art. 57, CDC) e não desponta afrontoso ao critério da razoabilidade e proporcionalidade quando tem por intuito atentar a "função pedagógica e punitiva" (TJSC, Apelação n. 5085269-72.2021.8.24.0023, rel. Des. Pedro Manoel Abreu, Primeira Câmara de Direito Público, j. 15-8- 2023). Em outras palavras, respeitados os parâmetros normativos das multas no caso concreto, não há espaço para que o judiciário interfira juridicamente na sanção de atos administrativos". (TJSC, Apelação Cível n. 5000970-50.2021.8.24.0028, rel. Des. Diogo Nicolau Pítsica, Quarta Câmara de Direito Público, j. em 27/09/2023).
+DECISÃO UNIPESSOAL MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos:
+(I) art. 100 do Decreto n. 6.515/2008, afirmando que "sequer detém legitimidade para responder para penalidade interposta, uma vez que jamais exerceu a posse do imóvel, tampouco perpetrou os fatos apurados pela autoridade coatora, devendo ser declarada a nulidade dos autos de infração em testilha" (fl. 270);
+(II) art. 3º e 5º do Decreto n. 6.514/2008, ao argumento de que, diante da inexistência de gravidade aos fatos imputados, da ausência de antecedente e da situação econômica, a correta sanção era a pena de advertência.
+Acrescenta que o valor atribuído a título de multa é exorbitante e não condiz com a denúncia realizada e nem com os fatos narrados no Auto de Infração em espécie, uma vez que, não obstante ser pessoa física, foi multado como se fosse pessoa jurídica (EPP), circunstância equivocada e ilegal.
+Aduz, também, que "a autoridade coatora não logrou êxito em comprovar o dano ambiental no presente caso, em violação ao princípio da motivação, que deve reger os processos administrativos, bem como, os laudos técnicos apresentados não são capazes de comprovar efetivamente os supostos danos elencados" (fl. 276).
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do agravo (fls. 353/358).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida. Inicialmente, não se conhece da alegada ofensa a dispositivos do Decreto n. 6.514/2008, pois, conforme farta jurisprudência deste Superior Tribunal de Justiça, o recurso especial não é via recursal adequada para exame de suposta ofensa a decreto regulamentar, por não se enquadrar no conceito de tratado ou lei federal de que cuida o art. 105, III, a, da Constituição Federal. A propósito:
+ADMINISTRATIVO, AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. RECUPERAÇÃO DE ÁREA DEGRADADA. PLEITO DE DEMOLIÇÃO DE EDIFICAÇÕES. SÚMULA 126/STJ. INCIDÊNCIA. ART. 535 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 182 DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA. EXTRAPOLADA A ESTREITA VIA DO APELO NOBRE. VIOLAÇÃO A DECRETO REGULAMENTAR. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE TRATADO OU LEI FEDERAL. ACÓRDÃO DO TRIBUNAL A QUO ANCORADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, ao decidir sobre o pleito de reparação das áreas degradadas e de realocação de pessoas, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+3. Em recurso especial não cabe invocar violação à norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 182 da Constituição Federal.
+4. Não se conhece da alegada ofensa aos arts. 6º, I, do Decreto-Lei n. 2.398/87; 3º, VIII, e 19, I e II, do Decreto n. 6.514/2008, pois, conforme farta jurisprudência deste Superior Tribunal de Justiça, o recurso especial não é via recursal adequada para exame de suposta ofensa a decreto regulamentar, por não se enquadrar no conceito de tratado ou lei federal de que cuida o art. 105, III, a, da Constituição Federal.
+5. No caso concreto, o Tribunal a quo rejeitou o pleito de demolição de edificações e remoção de pessoas com base em premissas fáticas.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.517.735/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/3/2021, DJe de 8/4/2021.)
+Naquilo que diz respeito às demais teses veiculadas no bojo do apelo nobre, observa-se que a parte não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
