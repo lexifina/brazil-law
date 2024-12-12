@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALISSON DOS SANTOS DELLA MEA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul proferida no julgamento do pedido liminar formulado na Correição Parcial n. 5361848-77.2024.8.21.7000.
+Extrai-se dos autos que o paciente é réu na Ação Penal n. 5011124-98.2022.8.21.0021, destinada a apurar crime doloso contra a vida. Na primeira fase do procedimento, o réu foi interrogado, mas, segundo o impetrante, o vídeo contendo a oitiva do paciente não estava mais disponível. A defesa pleiteou acesso ao depoimento ao juízo de primeiro grau, mas o pleito foi indeferido.
+A defesa, então, ajuizou correição parcial alegando, em síntese, cerceamento de defesa, em razão da indisponibilidade do arquivo de áudio e vídeo. O pedido liminar foi indeferido e não houve julgamento de mérito da correição parcial.
+Em suas razões, a defesa argumenta que o vício decorrente da inacessibilidade do arquivo contendo o interrogatório do réu enseja a nulidade do feito e demanda a repetição do ato processual.
+Diante disso, requer, liminarmente, a suspensão da sessão designada para o dia 10 de dezembro de 2024 e, no mérito, a concessão da ordem para determinar a repetição do interrogatório do acusado.
+É o relatório. Decido.
+Este habeas corpus não comporta conhecimento.
+Os temas trazidos a exame por meio desta impetração já foram previamente submetidos ao escrutínio desta Corte por ocasião do julgamento do HC n. 967.004/RS, indeferido liminarmente em decisão proferida em 9 de dezembro de 2024.
+Dessa maneira, constata-se que este mandamus é mera reiteração dos argumentos previamente já apresentados pela defesa do paciente motivo pelo qual não é possível conhecer da impetração. De fato, é assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Relator Ministro Rogerio Schietti Cruz, DJe de 10/8/2017). (AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato  Desembargador Convocado do TJDFT, Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+No mesmo sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE. 1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015. 2. Agravo regimental improvido. (AgRg no RCD no HC 329.224/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1/9/2015, DJe 22/9/2015).
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
