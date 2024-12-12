@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ANESTOR MEZZOMO e ROSMARI RUDOLF MEZZOMO contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial em razão da Súmula n. 182/STJ (fls. 1.081-1.082).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 940):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA PARTE RÉ. AVENTADA EXCLUDENTE DE RESPONSABILIDADE. INSUBSISTÊNCIA. AQUAPLANAGEM QUE NÃO CARACTERIZA CASO FORTUITO OU FORÇA MAIOR. DEVER DE SOBRECAUTELA DO CONDUTOR REQUERIDO. ARTS. 28 E 43 DO CTB. ADEMAIS, VELOCIDADE DO VEÍCULO DO RÉU E HISTÓRICO DE ACIDENTES NO LOCAL DO SINISTRO NÃO COMPROVADOS. DEVER DE INDENIZAR MANTIDO. VALOR INDENIZATÓRIO. DANO MORAL E ESTÉTICO. PATAMAR FIXADO QUE SE REVELA CONDIZENTE AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS FIXADOS. RECURSO CONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 972-973).
+Alega a parte agravante, nas razões do agravo interno, que "é impossível aplicar a referida súmula 284 do e. STF, pois, repita-se à exaustão, as razões recursais permitem a exata compreensão da controvérsia, na medida em que a violação a todos os artigos foi devidamente exposta" (fl. 1.089).
+Reitera, no mais, as razões do recurso especial.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada não apresentou contrarrazões.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O Tribunal de origem inadmitiu o recurso especial por entender no sentido da ausência de indicação do ponto omisso, contraditório ou obscuro, Súmula 284/STF, e pela incidência da Súmula 7/STJ, como se pode depreender do seguinte trecho extraído da decisão de fls. 1.025-1.027:
+No que se refere à alegada violação dos arts. 3º, 489, §1º, III e IV, e 1.022 do Código de Processo Civil, o recurso não apresenta condições para ser admitido, sendo impedido pela Súmula 284 do Supremo Tribunal Federal, por analogia, em razão da fundamentação deficiente na argumentação recursal.
+A parte recorrente alegou, de maneira genérica, a violação aos referidos dispositivos legais, sem demonstrar de forma objetiva os motivos pelos quais o acórdão impugnado teria sido omisso ou mal fundamentado.
+No caso dos autos, verifica-se que, de fato, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. A seguir, trecho do agravo em recurso especial que deveria tratar da inaplicabilidade da Súmula n. 284/STF (fl. 1.045):
+Por fim, ainda que soe redundante, mostra-se necessário demonstrar, ponto a ponto, todos os argumentos expostos no recurso especial, que atacam diretamente os fundamentos utilizados pelo e. TJSC, afastando-se, de uma vez por todas a suposta incidência da súmula 284 do STF.
+27. Como se sabe, o inquérito policial é um procedimento muito útil para verificar as condições do acidente (pneus em bom estado, não consumo de álcool pelo motorista, etc.) mas a real causa do acidente, essa nunca foi confirmada pelo laudo pericial, situação que necessitaria de perícia.
+28. Entretanto, a decisão do juízo a quo indeferiu o pleito do agravante (ev. 49), alegando, em síntese, que não há controvérsia acerca da dinâmica do sinistro, e que há hipótese de caso fortuito ou força maior é questão meramente de direito.
+29. Ocorre que, basta um passar de olhos no inquérito para se perceber que, nele, inúmeras perguntas fundamentais não são respondidas: não foram identificadas testemunhas, não foi feita biópsia cadavérica (o exame alcóolico só foi realizado por insistência da inventariante - doc. 9.1), os carros não foram periciados, a velocidade final dos veículos não foi aferida. Nada.
+30. Apenas para citar um exemplo, a causa do acidente pode ter sido um mal súbito que acometeu o autor momentos antes. Afinal, basta um passar de olhos pelo histórico clínico do autor para verificar que essa é uma possibilidade real (doc. 9.3). Porém, nada disso foi investigado, apesar dos insistentes pedidos da viúva (doc. 9.1.).
+31. Ou, ainda, existem grandes chances de o banco do carona ter se desprendido e atingido a passageira no assento de trás, sendo essa a real causa do falecimento, revelando vício e fato do produto aptos a caracterizar a responsabilidade consumerista.
+32. Como se sabe, o inquérito policial não é fonte de certeza para qualquer provimento judicial. Se até na esfera penal, o juiz não pode se basear tão somente no inquérito (CPP, art. 155): Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas (grifou-se).
+33. Logicamente, isso também é verdade para a esfera civil. Isso decorre da ausência de contraditório (requisito de validade para toda prova) na sua confecção.
+34. Apenas o inquérito policial não é prova nem no penal, nem no civil. Vale dizer, o inquérito policial, em nenhum momento, afirma que o acidente aconteceu por negligência e imperícia de Anestor. Não há uma virgula sequer sobre isso.
+35. Os autores pincelaram uma frase do membro do MPSC como se ela tivesse a força da coisa julgada, construída com base num robusto acervo probatório e, principalmente, tivesse submetida ao crivo do contraditório. Isso é inaceitável. Não se pode considerar uma frase do Ministério Público como uma análise fidedigna do acontecimento.
+36. Ora, a responsabilidade civil, no caso, é subjetiva e não se trata de nenhuma hipótese que autoriza a inversão do ônus da prova. Assim, os autores devem confirmar suas alegações (CPC, art. 372, I), demonstrando cabalmente a existência de todos os requisitos da responsabilidade civil (conduta, dano, culpa e nexo causal).
+37. Logicamente, o inquérito policial não é suficiente para tanto.
+38. Em suma, houve grave cerceando do direito de defesa. E isto não é brincadeira, tal situação trará enorme prejuízo ao agravante.
+Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu adequadamente a incidência da Súmula n. 284 do STJ quanto aos arts. 3º, 489, §1º, III e IV, e 1.022 do Código de Processo Civil, limitando-se a reiterar as razões do recurso especial.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido, cito: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
