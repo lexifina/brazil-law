@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela Defensoria Pública de Minas Gerais em favor de CRISTIANO JOSÉ INÁCIO DA SILVA em face de acórdão do Tribunal de Justiça de Minas Gerais por ocasião do julgamento de agravo em execução nº 1.0000.23.094650-1/001 (e-STJ fls. 3-8).
+O paciente teve o livramento condicional concedido pelo Juízo da Vara de Execuções Penais de Viçosa/MG, fixando, dentre outras condições, a obrigação de "permanecer recolhido em sua residência no período noturno- sendo-lhe permitido se ausentar de seu domicílio entre 07:00 horas e 19:00 horas, no período de segunda a sexta-feira, e aos sábados, entre 07:00 horas e 14:00 horas-, podendo, também, se ausentar de sua residência - fora o horário já estabelecido - nos horários em que estiver laborando, devendo permanecer recolhido integralmente aos domingos, dias santificados, feriados, salvo os casos de grave situação de risco, como incêndios, desabamentos e etc" (e-STJ fl. 13).
+Irresignada, a Defesa interpôs agravo em execução perante o Tribunal de origem, a fim de afastar a citada condição, sendo negado provimento ao recurso nos termos do acórdão assim ementado (e-STJ fls. 41-53):
+EMENTA: AGRAVO EM EXECUÇÃO - LIVRAMENTO CONDICIONAL - AFASTAMENTO DE CONDIÇÕES - INVIABILIDADE - DISCRICIONARIEDADE DO JUÍZO - 1. Durante o gozo do livramento condicional, o beneficiado se sujeita ao cumprimento de condições específicas - 2. Nos termos do artigo 132 da Lei de Execução Penal, as condições fixadas para o gozo do livramento condicional podem ser obrigatórias ou facultativas. - 3. A lei concede ao juízo de origem a discricionariedade de imposição de condições facultativas para o gozo do livramento condicional. - 4. A fixação de condições específicas para gozo do livramento condicional, em juízo discricionário, mostra-se razoável, sobretudo diante da expressa previsão legal do condicionamento de horário de recolhimento residencial.
+Objetiva-se a reforma da decisão do Tribunal a quo, a fim de que "seja declarada a nulidade da decisão do magistrado primevo, por ausência de fundamentação, decotando a obrigação facultativa de recolhimento noturno" (e-STJ fl. 8)
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus ou pela denegação da ordem (e-STJ fls. 212-215).
+É o relatório.
+Decido.
+Em consulta ao Sistema Eletrônico de Execução Unificado (SEEU), verifica-se que, na data de 10/04/2024, o Juízo da Vara de Execuções Penais de Viçosa/MG, nos autos de execução de pena nº 44000012-72.2019.8.13.0713, declarou extinta a pena privativa de liberdade imposta ao apenado, ora paciente, ante o cumprimento integral, nos termos dos arts. 66, II e 146, da Lei 7.210/1984 (item 530.1).
+Essa circunstância evidencia a perda do objeto da presente impetração.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
