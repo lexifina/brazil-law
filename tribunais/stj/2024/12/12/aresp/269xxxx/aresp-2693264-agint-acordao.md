@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURIDICIONAL. NÃO VISLUMBRADA. ÔNUS PROBATÓRIO. FALTA DE DEMONSTRAÇÃO DE FATO CONSTITUTIVO DO DIREITO DO AUTOR. REEXAME DE PROVA. IMPOSSIBILIDADE. HONORÁRIOS RECURSAIS. DESPROPORCIONALIDADE. NÃO OCORRÊNCIA.
+1. A desconstituição das premissas adotadas pela Corte de origem, quanto à alegada falta de demonstração de fato constitutivo do direito por parte do autor, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Sobre os honorários recursais fixados no decisum, não há falar em desproporcionalidade, estando a majoração da verba honorária de acordo com os parâmetros estabelecidos no art. 85, §§ 2º, 3º e 11, do CPC.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):  Trata-se de agravo interno interposto por Estado de Roraima desafiando decisão que conheceu do agravo para não conhecer do recurso especial, em virtude da incidência da Súmula 7/STJ (fls. 192/194).
+Inconformada, a parte agravante sustenta que " o  acórdão ao analisar o recurso de apelação, limita-se a alegar a ausência de demonstração de fato impeditivo, modificativo ou extintivo do direito do autor, sem manifestar-se quanto à alegada ausência de provas na petição inicial" (fl. 202).
+Acrescenta que se trata "apenas de análise das provas que já constam no presente processo e não de reanálise de provas. Frisa-se: não há uma linha sequer do recurso interposto referindo-se "a reexame de matérias fáticas", a ensejar a inadmissão do recurso especial. Não há, portanto, circunstância que importe na incidência da Súmula STJ nº 07, como equivocadamente decidiu o Tribunal de Justiça. Em realidade, as questões de direito suscitadas pelo ora recorrente em sede de Apelação e em Recurso Especial foram desprezadas" (fl. 202).
+Destaca que " o  E. Superior Tribunal de Justiça, no julgamento de Recurso Especial, ao aplicar o direito ao caso concreto, precisa apreciar os fatos e provas constante dos autos. Assim, o que é vedado e consta das súmulas 07/STJ, data venia, é o reexame, ou seja, a nova análise das provas" (fl. 202).
+Aduz que " a  fixação dos honorários recursais em 15%, não atende aos princípios da razoabilidade e da proporcionalidade, arbitrado com evidente onerosidade excessiva aos cofres públicos" (fl. 204).
+Requer a reconsideração do decisum ou a submissão do feito ao julgamento colegiado.
+O recurso foi objeto de impugnação às fls. 209/211.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURIDICIONAL. NÃO VISLUMBRADA. ÔNUS PROBATÓRIO. FALTA DE DEMONSTRAÇÃO DE FATO CONSTITUTIVO DO DIREITO DO AUTOR. REEXAME DE PROVA. IMPOSSIBILIDADE. HONORÁRIOS RECURSAIS. DESPROPORCIONALIDADE. NÃO OCORRÊNCIA.
+1. A desconstituição das premissas adotadas pela Corte de origem, quanto à alegada falta de demonstração de fato constitutivo do direito por parte do autor, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Sobre os honorários recursais fixados no decisum, não há falar em desproporcionalidade, estando a majoração da verba honorária de acordo com os parâmetros estabelecidos no art. 85, §§ 2º, 3º e 11, do CPC.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):  Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Ao solucionar a controvérsia, o Tribunal de origem asseverou que da análise do caderno processual se verifica a existência de obrigação e o inadimplemento por parte do Estado de Roraima (fls. 56/58):
+Ao analisar a demanda, ponderou o nobre reitor singular ( EP 74 / 1º grau ):
+ ..  Pelo conjunto probatório produzido nos autos, verifica-se que o débito postulado pelo requerente é comprovado nos autos. Observa-se que consta dos autos o Termo de Contrato Administrativo nº 010/2017 (EP. 1.3), bem como o comprovante de depósito da garantia contratual (EP. 1.4). A garantia contratual visa assegurar o cumprimento das cláusulas avençadas, No caso em tela, poderia o requerido, ter demonstrado através de documentação administrativa, o regular processo administrativo, de suposto inadimplemento contratual da requerente apto a justificar a retenção da garantia. Portanto, é crível concluir que a não devolução espontânea do requerido se revela como conduta anticontratual, pois não está amparada pelas disposições contratuais. Com efeito, não há dúvida razoável sobre o efetivo fornecimento dos produtos contratados. Deve-se entender que o fornecimento do objeto do contrato foi realizado conforme ajustado. Diante de tais fatos, verifico que a conduta do requerido ocasionou o inadimplemento contratual, não cumprindo com obrigação lhe cabia ajustada previamente. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da lei, respondendo cada uma pelas consequências de sua inexecução total ou parcial (Art. 66 da Lei 8.666/1993). Com efeito, os documentos juntados pela requerente, notadamente extrato de depósito bancário, demonstram a prova do seu direito (art. 373, I, do CPC) não deixando margem para dúvidas acerca da efetiva inadimplência contratual . De outra banda, cabia ao requerido demonstrar cumprimento de sua obrigação contratual, ou seja, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor (art. 373, II, do CPC).
+Portanto, a análise do presente caderno processual revela a impossibilidade de sucesso da pretensão recursal apresentada pelo 1º Apelante Estado de Roraima, posto que além de olvidar da apresentação de elementos de persuasão, o conjunto probatório demonstra a existência da obrigação e seu inadimplemento.
+Portanto, não logrando êxito a fazenda pública estadual em demonstrar fatos impeditivos, modificativos ou extintivos do direito da apelada, inobservando o art. 373, inciso II, do CPC, impõe-se o desprovimento do recurso.
+Diante desse contexto, a desconstituição das premissas adotadas pela Corte de origem, quanto à alegada falta de demonstração de fato constitutivo do direito por parte do autor, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse vértice:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE. AUTO DE INFRAÇÃO. PRESUNÇÃO DE LEGITIMIDADE. AFASTAMENTO. ÔNUS DA PROVA.
+1. Consoante enuncia a Súmula 282 do STF, não se conhece de recurso especial quando não prequestionados os dispositivos tidos por violados.
+2. A revisão da conclusão consignada no acórdão recorrido de que a parte autora não logrou comprovar o fato constitutivo do direito invocado demanda necessário reexame de prova, o que é vedado em sede do especial, em face do óbice da Súmula 7 desta Corte.
+3. Em ação anulatória, compete ao autor contribuinte produzir prova tendente a afastar a presunção relativa de legitimidade de que goza o auto de infração atacado. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.089.052/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/2/2020, DJe de 28/2/2020.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. INOVAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ISS. AUSÊNCIA DE COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO. NÃO FORAM JUNTADOS DOCUMENTOS NECESSÁRIOS À COMPROVAÇÃO DO REAL ENQUADRAMENTO DAS ATIVIDADES TRIBUTADAS. SENTENÇA MANTIDA PELO TRIBUNAL DE ORIGEM COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+3. Não há contradição em afastar a alegada violação do art. 535 do CPC e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado.
+4. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que (e-STJ, fls. 678-680): "da leitura das razões recursais verifica-se que o principal fundamento adotado na sentença, de que o autor não comprovou o fato constitutivo de seu direito, ao deixar de juntar os documentos aludidos pelo vistor judicial e que permitiria concluir pelo real enquadramento das atividades objetos da incidência do ISS, sequer foi pontualmente atacado " Rever tal entendimento esbarra no óbice da Súmula 7 do STJ.
+5. Recurso Especial parcialmente conhecido e, nesta parte, não provido.
+(REsp n. 1.659.694/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2017, DJe de 11/5/2017.)
+Por fim, sobre os honorários recursais fixados no decisum, não há falar em desproporcionalidade, estando a majoração da verba honorária de acordo com os parâmetros estabelecidos no art. 85, §§ 2º, 3º e 11, do CPC.
+A propósito, veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RECURSO SOB A VIGÊNCIA DO CPC/2015. EXISTÊNCIA DE CONDENAÇÃO ANTERIOR. HONORÁRIOS RECURSAIS. CABIMENTO. PRECEDENTES.
+1. O Plenário do STJ decidiu que, somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC (Enunciado Administrativo 7), sendo necessário para a sua fixação a existência de arbitramento anterior de honorários sucumbenciais.
+2. Na hipótese, prolatada a sentença e interposto o respectivo recurso na vigência do CPC/2015 e havendo o arbitramento anterior de honorários sucumbenciais, devem os honorários recursais ser fixados nos moldes do art. 85, § 11, do novo CPC.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.776.655/RN, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 3/11/2020.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
