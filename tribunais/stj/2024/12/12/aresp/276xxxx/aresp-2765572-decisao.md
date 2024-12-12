@@ -1,0 +1,30 @@
+DECISÃO
+THIAGO SOUZA DOMINGUES agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500140-39.2022.8.26.0567.
+O agravante foi condenado, pelos crimes previstos nos arts. 180, §§ 1º e 2º, e 311 do Código Penal, em continuidade delitiva, à sanção de 9 anos, 6 meses e 10 dias de reclusão mais 22 dias-multa, no regime inicial fechado.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 68, 71 e 180, caput e §§ 1º e 2º, todos do Código de Processo Penal. Defendeu, em síntese, a absolvição por ausência de dolo e, alternativamente, a absorção do crime de adulteração de sinal identificador de veículo pela receptação. Suscitou também a desclassificação da receptação qualificada para a modalidade simples. Subsidiariamente, requereu o afastamento da continuidade delitiva no tocante ao crime do art. 311 do CP.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 1.290-1.295, pelo conhecimento do AREsp para não conhecer do REsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte antecedente apresentou os fundamentos a seguir (fls. 1.120-1.121):
+ ..
+Assim, diversamente do pretendido pelas combativas defesas, não há como reconhecer a tese de que as versões dos policiais são controversas, ou perfilhar o entendimento de que lhes imutaram acusações aleivosas. A impressão que melhor se coaduna à realidade dos autos é a de que os recorrentes se dedicavam à prática de desmanche ilegal de veículos no local, no exercício de atividade comercial, e teriam adulterado, suprimido, remarcado número de chassi, monobloco, motor, placa de identificação, ou qualquer sinal identificador de veículo automotor, sem autorização do órgão competente, caracterizando os delitos de receptação qualificada e adulteração de sinal identificador de veículo, tendo em vista a localização dos bens de origem ilícita, além do instrumentos utilizados no desmonte dos automóveis, como lixadeiras, furadeira, máquina de solda, entre outras, afastando por completo as versões de que estariam no local prestando serviços variados, mas desvinculados de qualquer atividade ilícita.
+Nesse ponto, deve ser afastado o pedido de absorção do crime de adulteração de sinal identificador de veículo pelo delito de receptação qualificada, já que se tratam de infrações de natureza autônoma e que possuem momentos consumativos distintos, com objetividades jurídicas diversas, já que o primeiro atenta contra a fé pública e o segundo contra o patrimônio, não sendo necessário para caracterização de um a ocorrência do outro; portanto, inviável a incidência do princípio da consunção.
+Nestes termos, as provas bem indicam a caracterização dos delitos pelos quais, acertadamente, foram condenados em primeira instância.
+As testemunhas de defesa não presenciaram os fatos e não trouxeram narrativa apta a desconstituir o sólido conjunto probatório em desfavor dos apelantes (cf. fls. 813/814).
+Não há dúvida, portanto, que as condutas descritas na denúncia restaram comprovadas.
+Com efeito, a pretensão absolutória é inadmissível, haja vista que a análise da alegada ausência de dolo delitivo implicaria reexame de fatos e provas, não permitido, em recurso especial, conforme entendimento da Súmula n. 7 do STJ.
+ ..
+1. A Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do réu pelo delito previsto no art. 180 do Código Penal. Para rever o julgado, seria necessária a incursão no conjunto fático-probatório, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do STJ.
+2. A jurisprudência desta Corte é firme no sentido de que, no crime de receptação, se o bem for apreendido em poder do agente, " cabe  à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova" (AgRg no AREsp n. 1.843.726/SP, Rel. Ministro Antônio Saldanha Palheiro, 6ª T., DJe 16/8/2021).
+3. O exame da pretensão de desclassificação da conduta imputada ao agravante para aquela prevista no § 3º do art. 180 do Código Penal demandaria o revolvimento do suporte fático-probatório delineado nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ  ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.552.194/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/8/2024.)
+Ademais, a questão não foi prequestionada na instância de origem nos moldes pleiteados e nem sequer houve a oposição de embargos de declaração a fim de que fosse sanada eventual omissão. Assim, a pretensão é inviável segundo o disposto na Súmula n. 356 do STF.
+O recurso especial também é inviável no tocante ao pedido de absorção de condutas e de desclassificação, uma vez que seria necessário empreender reexame de fatos e provas, vedado na via eleita, conforme entendimento da Súmula n. 7 do STJ, a fim de averiguar a autonomia das condutas impostas e a relação de meio e fim entre elas, o que não é possível apenas com a análise do acórdão recorrido.
+No tocante à continuidade delitiva, a defesa alegou que "a denúncia (fls. 455 a 457) e até mesmo os memoriais de acusação (fls. 821 a 829), sempre foram no sentido de que o crime continuado se deu na violação do artigo 180 §§ 1º e 2º e não na acusação da violação do art. 311 do CP" (fl. 1.147).
+Em que pesem os argumentos defensivos, a matéria não foi examinada pela instância antecedente e nem houve a oposição de embargos de declaração para apontar a omissão. Assim, está caracterizada a ausência de prequestionamento que inviabiliza a admissibilidade do recurso especial, consoante a orientação da Súmula n. 356 do STF.
+II. Dispositivo
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
