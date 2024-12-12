@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Sucesso Iacanga Auto Posto - Em Recuperação Judicial e Out ros contra decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região que negou seguimento ao recurso especial com base no Tema 1.093/STJ e inadmitiu o recurso ante os seguintes fundamentos: (I) ausência de violação ao art. 489, § 1º, IV, do CPC; e (II) incidência da Súmula 83/STJ quanto à legitimidade.
+A agravante, em síntese, alega que "não cabe ao vice presidente do tribunal o julgamento do mérito do recurso ao STJ" (fl. 909).
+O Ministério Público Federal ofereceu parecer às fls. 976/980.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, sem razão a parte recorrente ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Lado outro, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, os seguintes fundamentos: (I) ausência de violação ao art. 489, § 1º, IV, do CPC; e (II) incidência da Súmula 83/STJ quanto à legitimidade.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
