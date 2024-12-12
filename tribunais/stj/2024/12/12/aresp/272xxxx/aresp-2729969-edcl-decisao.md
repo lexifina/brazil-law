@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADOLFO TURQUINO (ADOLFO) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. SUCESSÕES. ADIANTAMENTO E QUINHÃO HEREDITÁRIO. ANTECIPAÇÃO DA TUTELA. AUSÊNCIA DE PREQUESTIONAMENTO DO PRECEITO LEGAL ARROLADO. SÚMULAS NºS 282 E 356 DO STF. ACÓRDÃO PROLATADO EM SEDE DE ANTECIPAÇÃO DE TUTELA. SÚMULAS NºS 735 DO STF E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. (e-STJ, fl..832.)
+Nas razões do presente inconformismo, defendeu que (1) a possibilidade de se atribuir efeitos infringentes aos embargos de declaração; (2) a decisão embargada é equivocada ao considerar como não prequestionado o preceito legal dito violado; (3) o Tribunal estadual foi totalmente silente quanto aos documentos apresentados pelo recorrente e procedeu a uma análise distorcida do caso concreto, aplicando ao recorrente uma multa absurda, mesmo existindo decisão reconhecendo a existência de documentos novos aptos a modificar o julgado; (4) daí a interposição do recurso especial em razão da inadequada valoração das provas apresentadas com negativa de vigência ao art. 435 do CPC; (5) no contexto dos autos, deve ser considerada a ocorrência do prequestionamento implícito.
+Não foi apresentada impugnação.
+É o relatório.
+Decido
+Os embargos vão rejeitados em virtude da ausência dos vícios previstos no art. 1.022 do CPC.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Na hipótese vertente, a decisão embargada foi bastante clara ao afirmar que (1) não ocorreu o prequestionamento do preceito legal dito violado, sendo caso de aplicação das Súmulas nºs 282 e 356 do STF; e (2) ser caso de incidência das Súmulas nºs 735 do STF e 7 do STJ, pois o recurso especial do recorrente/embargante foi interposto para impugnar acórdão que indeferiu a antecipação da tutela.
+Verifica-se que inexistem vícios a contaminar a decisão embargada que se pronunciou acerca de todas as questões submetidas à sua apreciação, sendo forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+No entanto, tal pretensão desborda das hipóteses previstas no art. 1.022 do CPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, advirto as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do CPC.
+EMENTA
+CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015 NÃO CONFIGURADA. ADIANTAMENTO DE QUINHÃO HEREDITÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO DO PRECEITO LEGAL ARROLADO. SÚMULAS NºS 282 E 356 DO STF. ACÓRDÃO PROLATADO EM SEDE DE ANTECIPAÇÃO DE TUTELA. SÚMULAS NºS 735 DO STF E 7 DO STJ. PRETENSÃO DE REAPRECIAÇÃO DA LIDE. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
