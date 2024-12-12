@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE DE TUTELA DE URGÊNCIA POR MEIO DE RECURSO ESPECIAL. SÚMULA N. 735/STF.
+1. A jurisprudência do STJ não admite, em regra, a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que negam ou deferem medida liminar ou antecipação de tutela. Incide analogicamente a Súmula n. 735 do STF.
+Isso porque a alteração das conclusões adotadas pelo Tribunal a quo, no sentido de conferir se estão presentes os requisitos autorizadores da tutela de urgência, demandaria novo exame do acervo fático-probatório constante dos autos, providência não admitida em recurso especial, conforme a Súmula n. 7/STJ.
+2. O STJ admite a mitigação da Súmula n. 735 do STF apenas quando a própria medida importe em ofensa direta à lei federal que disciplina a tutela provisória (art. 273 do CPC/1973 ou art. 300 do CPC/2015), como, por exemplo, quando houver norma proibitiva da concessão dessa medida, de modo que "apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgInt no REsp n. 1179223/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15/3/2017).
+3. Na hipótese, apesar de apontada violação ao art. 300 do Código de Processo Civil, em verdade, insurge-se a recorrente quanto ao próprio mérito da controvérsia
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PAULA CORREA DE OLIVEIRA KOZENKO contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula n. 735/STF (fls. 150-152).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fls. 85):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO CIVIL PÚBLICA COLETIVA DE CONSUMO. TUTELA DE URGÊNCIA. REALIZAÇÃO DE PROCEDIMENTOS ESTÉTICOS POR PROFISSIONAL DE ENFERMAGEM. MICROAGULHAMENTO, APLICAÇÃO DE TOXINA BOTULÍNICA E PREENCHIMENTOS COM ÁCIDO HIALURÔNICO. PROCEDIMENTOS INVASIVOS, RESTRITOS AOS PROFISSIONAIS COM FORMAÇÃO EM MEDICINA. LEI DO ATO MÉDICO. ORDEM DE ABSTENÇÃO DA REALIZAÇÃO DE PROCEDIMENTOS ESTÉTICOS INVASIVOS. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Sem embargos de declaração.
+Alega a agravante a inaplicabilidade da Súmula n. 735/STF pois "a tese recursal está amparada na ausência de probabilidade do direito do recorrido com base no artigo 300 do CPC" (fl. 162).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, silenciou.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE DE TUTELA DE URGÊNCIA POR MEIO DE RECURSO ESPECIAL. SÚMULA N. 735/STF.
+1. A jurisprudência do STJ não admite, em regra, a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que negam ou deferem medida liminar ou antecipação de tutela. Incide analogicamente a Súmula n. 735 do STF.
+Isso porque a alteração das conclusões adotadas pelo Tribunal a quo, no sentido de conferir se estão presentes os requisitos autorizadores da tutela de urgência, demandaria novo exame do acervo fático-probatório constante dos autos, providência não admitida em recurso especial, conforme a Súmula n. 7/STJ.
+2. O STJ admite a mitigação da Súmula n. 735 do STF apenas quando a própria medida importe em ofensa direta à lei federal que disciplina a tutela provisória (art. 273 do CPC/1973 ou art. 300 do CPC/2015), como, por exemplo, quando houver norma proibitiva da concessão dessa medida, de modo que "apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgInt no REsp n. 1179223/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15/3/2017).
+3. Na hipótese, apesar de apontada violação ao art. 300 do Código de Processo Civil, em verdade, insurge-se a recorrente quanto ao próprio mérito da controvérsia
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não assiste razão à agravante.
+Segundo consta da decisão embargada, a jurisprudência do STJ não admite, em regra, a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que negam ou deferem medida liminar ou antecipação de tutela. Incide analogicamente a Súmula n. 735 do STF. Isso porque a alteração das conclusões adotadas pelo Tribunal a quo, no sentido de conferir se estão presentes os requisitos autorizadores da tutela de urgência, demandaria necessariamente novo exame do acervo fático-probatório constante dos autos, providência não admitida em recurso especial, conforme a Súmula n. 7/STJ. Veja-se:
+INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE. (..). 3. É incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária. Incidência da Súmula 735 do STF. 3.1. (..). 4. Agravo interno provido para reconsiderar a decisão de fls. 110-111 e-STJ, e agravo em recurso especial desprovido. (AgInt no AREsp n. 1.804.102/GO, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/8/2021, DJe de 2/9/2021.)
+Impende ressaltar que esta Corte admite a mitigação da Súmula n. 735 do STF apenas quando a própria medida importe em ofensa direta à lei federal que disciplina a tutela provisória (art. 273 do CPC/1973 ou art. 300 do CPC/2015), como, por exemplo, quando houver norma proibitiva da concessão dessa medida, de modo que "apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgInt no REsp n. 1179223/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15/3/2017).
+Contudo, na hipótese, apesar de apontada violação ao art. 300 do Código de Processo Civil, em verdade, insurge-se a recorrente quanto ao próprio mérito da controvérsia, destacando que "os procedimentos praticados pela agravante não constituem "procedimentos invasivos" consoante artigo 4º da Lei nº 12.842/2013" (fl. 162) de modo que não se faz possível o conhecimento deste recurso especial.
+Assim, apesar das alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
