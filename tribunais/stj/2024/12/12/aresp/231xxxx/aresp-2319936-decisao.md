@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo interposto por TRANSRIO CAMINHÕES, ÔNIBUS, MÁQUINAS E MOTORES LTDA. contra a decisão que não admitiu o recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado (e-STJ fl. 759):
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL JULGADA PARCIALMENTE PROCEDENTE - RECURSO QUANTO AO DEFERIMENTO DO DANO MORAL -MANUTENÇÃO - VEÍCULO DO AUTOR QUE PERMANECEU POR MAIS DE OITO MESES DENTRO DO ESTABELECIMENTO DA APELANTE, PARA CONSERTO - AUSÊNCIA DE PROVAS QUE AFASTEM A CULPA EXCLUSIVA DA EMPRESA - DANO MORAL CONFIGURADO (R$ 10.000,00) - SENTENÇA MANTIDA - DESPROVIMENTO DO APELO -DECISÃO UNÂNIME."
+Os embargos de declaração opostos foram acolhidos sem alteração do julgado nos seguintes termos (e-STJ fl. 733):
+"EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL JULGADA PARCIALMENTE PROCEDENTE - RECURSO QUANTO AO DEFERIMENTO DO DANO MORAL -MANUTENÇÃO - VEÍCULO DO AUTOR QUE PERMANECEU POR MAIS DE OITO MESES DENTRO DO ESTABELECIMENTO DA APELANTE, PARA CONSERTO - AUSÊNCIA DE PROVAS QUE AFASTEM A CULPA EXCLUSIVA DA EMPRESA - DANO MORAL CONFIGURADO (R$ 10.000,00). REDISCUSSÃO DA MATÉRIA - OMISSÕES SUPRIDAS - AUSÊNCIA DE LITIGÃNCIA, DE REQUISITOS DE DENUNCIAÇÃO À LIDE À SEGURADORA E MANUTENÇÃO DO TERMO INICIAL DA CORREÇÃO DO EVENTO DANOSO - OMISSÃO SUPRIDA - DESFECHO MANTIDO - RECURSO CONHECIDO E PROVIDO - DECISÃO UNÂNIME."
+No recurso especial, a recorrente alega negativa de vigência aos artigos 489 e 1.022, ambos do Código de Processo Civil, ao argumento de que há negativa de prestação jurisdicional sob o fundamento de que o acórdão recorrido restou silente quanto à alegação de desrespeito dos seguintes dispositivos legais: arts. 2º e 32 do Código de Defesa do Consumidor; arts. 5º, 6º, 80, I, II e V, 8 1, 85, § 2º, 125, § 1º, 128, parágrafo único, c/c 129, 485, VI, 489, II, §§ 1º e 2º e 1.013, §1º, do Código de Processo Civil de 2015 e arts. 107, 110, 111, 113, 405, 653 c/c 663, 884, parágrafo único, c/c 944, parágrafo único, do Código Civil.
+Assevera contrariedade aos arts. 884 e 944, do Código Civil ao argumento de que a condenação em danos morais configura flagrante enriquecimento sem causa da parte adversa.
+Afirma ofensa aos arts. 125, 128 e 129 do CPC em razão da necessidade de condenação regressiva da seguradora na lide secundária.
+Aponta negativa de vigência ao art. 405, do Código Civil em relação à fixação dos juros de mora desde a citação.
+Aduz malferimento ao art. 85, § 2º, CPC, sustentando a necessidade de readequação dos honorários sucumbenciais fixados na origem.
+Por fim, requer o provimento do recurso especial.
+Houve apresentação de contrarrazões às e-STJ fls. 844/855 e 857/864.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Quanto à ocorrência de negativa de prestação jurisdicional, verifica-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como consabido, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)" (AgInt no AREsp 2.205.438/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+No que tange ao dever de indenizar, o Tribunal de Justiça do Estado de Sergipe, ao julgar o recurso de apelação, manteve a decisão de primeiro grau sob os seguintes fundamentos (e-STJ fl. 760):
+"(..)
+Inicialmente, devo ressaltar que restou incontroverso o fato de que o veículo do autor permaneceu por mais de oito meses junto à concessionária apelante para que fosse consertada. Essa afirmação foi feita a todo tempo pela recorrente, em todas as peças da ação.
+A dúvida é perquirir se tal prazo foi excessivo, que resultaria na má prestação do serviço e daria ensejo à uma reparação cível ou se há prova de excludente de responsabilidade da prestadora do serviço que comprove que a demora na solução do problema se deu por razões diversas.
+(..)
+Do cotejar dos autos, vejo que, a todo tempo, a concessionária diz que não teve culpa na demora para execução dos reparos, sem, contudo, provar, documentalmente, que o conserto demorou mais de oito meses por razões que fugiram de sua alçada.
+(..)
+Assim sendo, sob qualquer aspecto que se veja, não se pode considerar razoável um carro entrar na concessionária e lá permanecer por mais de oito meses sem que haja uma explicação plausível ou sem que tenha havido uma forma de minimizar o consumidor do contratempo.
+Portanto, resta cabalmente demonstrado o constrangimento sofrido pelo autor que permaneceu sem o seu instrumento de trabalho por tanto tempo, por culpa exclusiva da apelante."
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias acerca do dever de indenizar, demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Veja-se :
+"AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ACORDO EM AÇÃO DE EXECUÇÃO. PAGAMENTO FEITO. REEMBOLSO DO VALOR PELO DEVEDOR SOLIDÁRIO. REEXAME DE PROVAS E DO CONTRATO FIRMADO ENTRE AS PARTES. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência deste STJ é assente no sentido de que o devedor solidário responde pela totalidade da dívida, podendo o credor escolher contra quem pretende litigar. Incidência da Súmula 83 do STJ.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento" (AgInt no AgInt no AREsp 2.390.314/RS, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+Em relação ao pedido de denunciação da lide, o Tribunal de Justiça, ao julgar os embargos de declaração, indeferiu o pedido nos seguintes termos (e-STJ fl. 1.006):
+"(..)
+De forma simples, não vejo razoabilidade em deferir o pedido de denunciação à lide.
+A ação é de danos morais e materiais pelo atraso de conserto de automóvel, atraso este atribuído à concessionária. Está sim é quem tem que responder objetivamente.
+Qualquer obrigação paralela deve ser perquirida em ação própria, mormente considerando a fase que se encontra o processo.
+Assim, inacolho o pedido de denunciação à lide."
+Desse modo, rever o entendimento firmado pelas instâncias ordinárias acerca da denunciação da lide, demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DENUNCIAÇÃO DA LIDE. INDEFERIMENTO. INEXISTÊNCIA DOS REQUISITOS AUTORIZADORES DA MEDIDA. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação aos arts. 489, § 1º, inciso VI, e 1.022, incisos I e II, ambos do Código de Processo Civil de 2015 não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. O Superior Tribunal de Justiça entende que "o Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida. Incidência da Súmula 83/STJ" (AgInt no AREsp n. 2.278.439/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023).
+3. Infirmar a conclusão do aresto quanto ao indeferimento da denunciação da lide demandaria a reinterpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, providências que encontram óbice nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido" (AgInt no AREsp 2.476.612/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+No que tange ao termo inicial dos juros de mora, o Tribunal de Justiça, ao julgar os embargos de declaração, destacou o seguinte (e-STJ fl. 1.007):
+"(..)
+Por fim, quanto aos juros, também foi mantido o de sentença, considerando-se o termo inicial o evento danoso, do mesmo modo em relação à distribuição do ônus de sucumbência, já que o valor aduzido na exordial à título de dano moral foi mera sugestão."
+No entanto, conforme a jurisprudência do Superior Tribunal de Justiça, os juros de mora, nos casos de responsabilidade contratual, devem incidir a partir da citação.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PROCEDIMENTO CIRÚRGICO REALIZADO PARA RESOLVER SÍNDROME DA APNÉIA OBSTRUTIVA DO SONO (SASO). FALECIMENTO DO PACIENTE. CONTRADIÇÃO E OMISSÃO VERIFICADAS NO ACÓRDÃO EMBARGADO, QUANTO AO TERMO INICIAL DOS JUROS DE MORA E EM RELAÇÃO AO ÍNDICE DE CORREÇÃO MONETÁRIA. RESPONSABILIDADE CONTRATUAL. JUROS MORATÓRIOS QUE DEVEM INCIDIR A PARTIR DA CITAÇÃO. APLICAÇÃO DA TAXA SELIC. JURISPRUDÊNCIA PACÍFICA DO STJ. EMBARGOS ACOLHIDOS PARCIALMENTE, COM EFEITOS INFRINGENTES.
+1. Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, isto é, quando houver omissão, obscuridade, contradição ou erro material no decisum embargado.
+2. O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição, supressão de omissão ou correção de erro material, prestam-se os aclaratórios a modificar o julgado.
+3. O argumento de que as condições do paciente não interferiram no risco cirúrgico não se trata propriamente de contradição no julgado, mas mera tentativa de rediscutir os fundamentos do acórdão embargado em relação ao reconhecimento da falha no dever de informação, o que não se admite na via dos aclaratórios.
+4. Também não há qualquer omissão acerca da sucumbência estipulada em desfavor dos autores em relação à Clínica Pedro Cavalcanti.
+Conforme expressamente consignado no acórdão embargado, como os autores não impugnaram o afastamento da responsabilidade da Clínica Pedro Cavalcanti, operou-se a preclusão, razão pela qual, em relação a ela, a sentença de improcedência não fora modificada.
+5. No tocante à solidariedade entre os réus, incide o disposto no art. 942, in fine, do Código Civil, no sentido de que "Os bens do responsável pela ofensa ou violação do direito de outrem ficam sujeitos à reparação do dano causado; e, se a ofensa tiver mais de um autor, todos responderão solidariamente pela reparação".
+6. Já em relação ao termo inicial dos juros de mora e ao índice de correção monetária, os embargantes têm razão quanto aos vícios apontados.
+7. No caso, trata-se de responsabilidade contratual, tendo em vista que a falha no dever de informação decorre justamente do contrato de prestação de serviços médicos firmado entre as partes, razão pela qual os juros de mora devem incidir a partir da citação.
+8. É pacífico o entendimento do STJ no sentido de que, "atualmente, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, sendo inviável a sua cumulação com outros índices de atualização monetária" (AgInt no AREsp 1.199.672/PR, Relator o Ministro Marco Buzzi, DJe de 8/10/2021).
+9. Embargos de declaração acolhidos, em parte, com efeitos modificativos"(EDcl no REsp 1.848.862/RN, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 10/6/2024, DJe de 13/6/2024).
+Por último, no que diz respeito aos honorários sucumbenciais, a revisão do valor fixado na origem esbarra no óbice previsto na Súmula nº 7/STJ.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA EMBARGANTE.
+1. A jurisprudência desta Corte Superior, preconiza que a pretensão de majoração do quantum fixado como honorários advocatícios é admitida excepcionalmente, nas hipóteses em que a verba for arbitrada em montante exorbitante ou irrisório. Hipótese em que a verba honorária não se mostra desarrazoada, o que inviabiliza sua revisão judicial na presente instância, ante a incidência da Súmula 7/STJ.
+2. "Na vigência do diploma processual anterior, a jurisprudência do STJ considerava irrisória a verba honorária fixada em montante inferior a 1% (um por cento) do valor da causa, critério objetivo que, embora não se mostrasse absoluto, enunciava um limite mínimo para a adequada remuneração do profissional da advocacia" (AgInt no AREsp 1.094.880/MG, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/11/2021, DJe de 26/11/2021).
+3. Agravo interno desprovido" (AgInt no AREsp 1.529.670/RJ, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento para fixar o termo inicial dos juros de mora a partir da citação.
+Publique-se.
+Intimem-se.
+EMENTA
