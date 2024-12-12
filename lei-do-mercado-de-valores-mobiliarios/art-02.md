@@ -8,6 +8,7 @@ VI - as notas comerciais;
 VII - os contratos futuros, de opções e outros derivativos, cujos ativos subjacentes sejam valores mobiliários;
 VIII - outros contratos derivativos, independentemente dos ativos subjacentes; e
 IX - quando ofertados publicamente, quaisquer outros títulos ou contratos de investimento coletivo, que gerem direito de participação, de parceria ou de remuneração, inclusive resultante de prestação de serviços, cujos rendimentos advêm do esforço do empreendedor ou de terceiros.
+X - os ativos integrantes do Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE) e os créditos de carbono, quando negociados no mercado financeiro e de capitais.
 § 1º Excluem-se do regime desta Lei:
 I - os títulos da dívida pública federal, estadual ou municipal;
 II - os títulos cambiais de responsabilidade de instituição financeira, exceto as debêntures.
