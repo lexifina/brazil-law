@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de a gravo interno interposto por EVIDENCE PREVIDENCIA S.A. contra decisão monocrática proferida pela presidência do STJ que aplicou a Súmula n. 182 do STJ (fls. 1.244/1245).
+O recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 1.156/1.157):
+DIREITOS PREVIDENCIÁRIO, CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL EM NOMINADA "AÇÃO ORDINÁRIA". SENTENÇA DE IMPROCEDÊNCIA. (1) -RECURSO DA AUTORA PRELIMINAR DE NULIDADE DA SENTENÇA ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO A RESPEITO DA DESCONSIDERAÇÃO DO LAUDO PERICIAL - NÃO ACOLHIMENTO - DECISÃO SUFICIENTEMENTE CLARA ACERCA DOS MOTIVOS PELOS QUAIS O CONTRATO NÃO MERECE SER REVISTO OU RESCINDIDO - SENTENÇA QUE, A PAR DO QUE CONCLUIU O LAUDO, ATRIBUIU AO RISCO DO NEGÓCIO TODAS AS VARIÁVEIS OCORRIDAS DURANTE O PERÍODO CONTRATUAL E QUE DEVERIAM SER PREVISTAS PELA AUTORA - LIVRE APRECIAÇÃO DAS PROVAS PELO JUIZ, COM INDICAÇÃO DE SUAS RAZÕES (ART. 371/CPC). (2) REPACTUAÇÃO OU RESCISÃO DO CONTRATO DE PREVIDÊNCIA PRIVADA CONTRATADA EM 1999, COM FUNDAMENTO NOS ARTIGOS 317 E 478 DO CÓDIGO CIVIL - ALEGAÇÃO DE QUE O CONTRATO SE TORNOU EXCESSIVAMENTE ONEROSO POR FATOS IMPREVISÍVEIS, COMO A EVOLUÇÃO DA TÁBUA BIOMÉTRICA, A ALTERAÇÃO DAS CONDIÇÕES POLÍTICAS E ECONÔMICAS E A REDUÇÃO DA TAXA BÁSICA DE JUROS - FATOS QUE INTEGRAM O RISCO DO NEGÓCIO - SUSEP QUE JÁ DECIDIU SER IMPOSSÍVEL A RESCISÃO DA RELAÇÃO CONTRATUAL EM CASOS TAIS COMO O PRESENTE, DIANTE DA AUSÊNCIA DE CONFIGURAÇÃO DAS HIPÓTESES PREVISTAS E DE DENÚNCIA DO CONTRATO - SENTENÇA MANTIDA, COM MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. 1. A sentença, que trouxe de maneira suficiente as razões pelas quais o contrato não merece ser revisto ou rescindido, não ignorou o laudo pericial, tendo em verdade, considerado que as conclusões do perito são atribuíveis ao risco do negócio e deveriam ser previstas pela autora. 2. Conforme artigo 371 do Código de Processo Civil, o juiz é livre para apreciar as provas segundo a sua convicção, indicando as razões de seu convencimento. 3. Os fatos invocados pela autora para o fim de autorizar a revisão ou rescisão do contrato não se configuram como imprevisíveis, eis que inerentes ao risco do negócio de previdência privada. 4. A SUSEP já definiu a impossibilidade de rescisão unilateral da relação contratual quando não houver configurada qualquer das hipóteses previstas, bem como de denúncia do contrato. RECURSO CONHECIDO E NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 1179/1186).
+Alega o agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido pela lei.
+Aduz que o agravo apresentado é claro e objetivo, não sendo o caso de aplicação da Súmula n. 182 do STJ.
+Sustenta que "a ora agravante impugnou de maneira específica, consistente e pontual a incidência dos óbices dos Enu nciados das Súmulas n 05 e 07/STJ" (fl. 1.248).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada não apresentou manifestação (fl. 1.255).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O Tribunal de origem inadmitiu o recurso especial por entender que não houve violação do art. 1022 do CPC e que as razões recursais têm óbice nas Súmulas n. 5 e 7 do STJ.
+No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a incidência das Súmulas n. 5 e 7 do STJ.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido, confiram-se: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+No mais, para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1.  ..
+6. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.996.512/SP, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
