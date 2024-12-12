@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ CARLOS DOS SANTOS, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LOCAÇÃO. PRESCRIÇÃO INTERCORRENTE. AUTOR QUE DEIXOU DE PROMOVER OS ATOS NECESSÁRIOS AO ANDAMENTO DO FEITO POR PRAZO SUPERIOR A 5 ANOS. ARTIGO 206, § 5º, INCISO I DO CC. INTELIGÊNCIA DA SÚMULA 150 DO STF. INÉRCIA CONFIGURADA. CUSTAS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. EXECUTADOS QUE DERAM CAUSA À PROPOSITURA DA DEMANDA. RECURSO PARCIALMENTE PROVIDO.
+1. Nos termos da Súmula 150 do STF, a execução prescreve no mesmo prazo de prescrição da ação, sendo que o prazo prescricional intercorrente se inicia após o lapso de um ano da suspensão da execução, sendo desnecessária a intimação pessoal do exequente para dar andamento ao feito.
+2. No presente caso, têm-se que o prazo prescricional aplicável é a regra trazida pelo artigo 206, § 5º, inciso I do Código Civil (5 anos), sendo que o marco inicial é a data da última manifestação da parte no processo e não a movimentação promovida pelo próprio cartório, como faz crer a apelante.
+3. Resta demonstrada a ocorrência da prescrição intercorrente, tendo em vista que a parte apelante deixou de promover a movimentação processual por mais de 5 anos (05.07.2013 à 13.03.2019), sendo irretocável a sentença neste ponto.
+4. Em atenção ao princípio da causalidade, ainda que o feito tenha sido extinto, por inércia da parte autora, a ré deu causa ao ajuizamento da ação, eis que deixou de efetuar o pagamento dos valores apontados na inicial" (e-STJ fls. 1.498/1.500).
+Os embargos de declaração opostos foram acolhidos sem efeitos modificativos (e-STJ fls. 437/440).
+No recurso especial (e-STJ fls. 443/450), o recorrente aponta a violação do art. 1.056 do Código de Processo Civil, bem como divergência jurisprudencial, sustentando, em síntese, que não houve o implemento da prescrição intercorrente no caso concreto.
+Sem a apresentação de contrarrazões (e-STJ fl. 462), o recurso especial foi admitido na origem (e-STJ fls. 463/465), ascendendo a esta Corte Superior.
+DECIDO.
+A irresignação merece prosperar.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)" (AgInt no AREsp 2.641.457/PR, Relator Ministro Raul Araújo, Quarta Turma, julgado em 7/10/2024, DJe de 22/10/2024).
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR ACIDENTE DE TRABALHO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. PRÉVIA INTIMAÇÃO DO CREDOR PARA DAR ANDAMENTO AO FEITO. DESNECESSIDADE. TEMA IAC N. 1. AGRAVO INTERNO DESPROVIDO.
+1. O prazo prescricional, na vigência do CPC de 1973, conta-se do dia seguinte ao termo final do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do dia após o transcurso de 1 ano (aplicação analógica do art. 40, § 2º, da Lei n. 6.830/1980).
+2. A prévia intimação da parte exequente para dar andamento ao feito é desnecessária para a decretação da prescrição intercorrente, exigindo-se apenas a intimação do credor para opor algum fato impeditivo à incidência da prescrição, em respeito ao princípio do contraditório.
+3. Agravo interno desprovido" (AgInt no AREsp 2.380.796/PR, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO DA EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE RECONHECIDA. DECISÃO MANTIDA.
+1. A Segunda Seção, no julgamento do REsp n. 1.604.412/SC, de relatoria do Ministro Marco Aurélio Bellizze, sob o rito do incidente de assunção de competência, consolidou entendimento segundo o qual nos processos regidos pelo CPC/1973, incide a prescrição intercorrente quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado. Nesse caso, o termo inicial do prazo prescricional conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 ano (aplicação analógica do art. 40, § 2º, da Lei n. 6.830/1980).
+2. O termo inicial do prazo prescricional nos termos do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor do novo código, o que não é o caso dos autos.
+2. Considerando os marcos temporais delimitados na origem para o exercício da pretensão executória, deve-se manter a decisão que reconheceu a prescrição intercorrente, com amparo na jurisprudência desta Corte, não se aplicando, ao caso dos autos, o art. 1.056 do CPC/2015.
+Agravo interno improvido" (AgInt no AREsp 2.138.031/SP, Relator Ministro Humberto Martins, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023).
+Logo, ao afirmar que "o marco inicial é a data da última manifestação da parte no processo e não a movimentação promovida pelo próprio cartório" (e-STJ fl. 415), o acórdão recorrido destoa do entendimento jurisprudencialmente consolidado no STJ, devendo, por isso, ser reformado.
+Ante o exposto, conheço e dou provimento ao recurso especia l para, afastado o termo inicial adotado para a contagem da prescrição na hipótese, determinar o retorno dos autos à origem para que se prossiga no exame da execução proposta.
+Publique-se.
+Intimem-se.
+EMENTA
