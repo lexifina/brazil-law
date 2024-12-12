@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RECURSO QUE NÃO ATACA ESPECIFICAMENTE OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+3. Está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado do Paraná desafiando decisão de fls. 324/327, que conheceu em parte do recurso especial e, na parte conhecida, negou-lhe provimento, com base nos seguintes fundamentos: (I) não restou configurada a negativa de prestação jurisdicional; (II) incidência das Súmulas 7/STJ e 283/STF.
+Inconformada, a parte agravante repisa os argumentos relativos à negativa de prestação jurisdicional bem como alega que houve a impugnação aos fundamentos do acórdão de origem e que "a pretensão recursal não esbarra no óbice do enunciado de Súmula n.º 07/STJ, uma vez que o recurso não parte de pressupostos estranhos ao aresto, já expostos no item anterior. As premissas são suficientes para vislumbrar o desajuste da decisão aos termos da jurisprudência - inclusive vinculante - deste Tribunal" (fl. 341).
+A parte agravada apresentou impugnação às fls. 348/366.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RECURSO QUE NÃO ATACA ESPECIFICAMENTE OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+3. Está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Com efeito, conforme consignado na decisão agravada, no que toca ao Tema 880, a Corte estadual entendeu pela sua inaplicabilidade ao presente caso, " eis que o prosseguimento da execução sem apresentação dos documentos pelo Estado do Paraná era impossível, pois inviabilizada a realização de quaisquer cálculos" (fl. 116).
+Tem-se, assim, que a alteração das premissas adotadas pela Corte de origem, no que toca à impossibilidade de realização dos cálculos para fins de execução, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, o aresto recorrido decidiu a questão com base na seguinte fundamentação (fls.116/117):
+No presente caso, ocorreu o prévio ajuizamento de cumprimento da obrigação de fazer (autos nº 0008041-64.2016.8.16.0004) em 08/11/2016, tendo o executado cumprido com a entrega da documentação (CD com as fichas financeiras) em 14/05/2019, em seq. 53 dos mencionados autos.
+Ocorre que as partes entraram em tratativas de acordo, sendo então determinada a suspensão do feito por 60 (sessenta) dias em 06/10/2020, (mov. 86), com renovação da suspensão por mais 90 (noventa dias) em 05/03/2021, conforme mov. 279 dos mencionados autos.
+Considerando que o acordo não logrou êxito, o feito retomou seu prosseguimento em 30/11/2021, conforme mov. 1620.1 dos mencionados autos de obrigação de fazer, período no qual centenas de execuções individuais foram propostas pelos substituídos, para recebimento dos valores.
+Observa-se, portanto, que entre a data do trânsito em julgado (08/04/2016) e a data da 1ª suspensão (06/10/2020) se passaram 4 anos e 6 meses.
+O feito permaneceu suspenso entre 06/10/2020, tendo sido renovada a suspensão em 05/03/2021 e somente tendo retomado o prosseguimento em 30/11/2021.
+Assim, correta a conclusão do juízo de primeiro grau de que o prazo prescricional foi retomado a partir de 30/11/2021, restando ainda 6 meses para que os substituídos possam ajuizar o cumprimento individual, vindo a encerrar-se em 30/05/2022.
+De fato, no caso em questão não há como se ignorar os prazos de suspensão, postulados pelas próprias partes, que tentaram uma composição amigável para resolução e que, por motivos alheios, o acordo não se concretizou. A parte não pode ser penalizada por aguardar a realização de possível acordo.
+Além disso, seria incorreto reconhecer a prescrição intercorrente quando não setem elementos que comprovem a inércia da parte credora, que é pressuposto para configuração do referido instituto.
+Nesse contexto, acertada a decisão ao consignar que não há falar em ofensa ao art. 1.022 do CPC, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia acerca da preclusão; não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "não há como se ignorar os prazos de suspensão, postulados pelas próprias partes, que tentaram uma composição amigável para resolução e que, por motivos alheios, o acordo não se concretizou. A parte não pode ser penalizada por aguardar a realização de possível acordo", esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp 1.711.262/SE, rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp 1.679.006/SP, rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
