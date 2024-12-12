@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. APLICABILIDADE.
+1. Na forma da jurisprudência desta Corte, "o Recurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF" (AgInt no REsp 1.846.621/MA, rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 11/12/2020).
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Josué Ferreira e Jania Eliane de Melo Pelzl desafiando decisão de fls. 189/191 que não conheceu do recurso especial, com base no obstáculo da Súmula 284/STF.
+Inconformada, sustenta a parte agravante, em resumo, que (fls. 196/199):
+ ..  o motivo e fundamento da interposição do Recurso Especial tem alicerce na negativa de vigência ao disposto no artigo 82, §2º, e 85, ambos do CPC (CF, Art. 105, III, a), por força da atual interpretação do Superior Tribunal de Justiça (CF, Art. 195, III, c) relativamente ao tema sucumbencial, tudo em conformidade com os princípios que regem ao ponto reclamado  ..
+ ..
+Portanto, resta evidenciado que a interpretação dada à lei federal regulamentadora da sucumbência (CPC, Art. 82, §2º, e 85), exarada no acórdão ensejador do recurso especial interposto (CF, Art. 105, III, a), diverge totalmente daquela atribuída atualmente pelo Superior Tribunal de Justiça (CF, Art. 105, III, c), no sentido de que a imposição dos ônus processuais, no Direito Brasileiro, pauta-se pelo princípio da sucumbência, norteado pelo princípio da causalidade.
+A parte agravada, devidamente intimada, não apresentou impugnação (cf. certificado à fl. 207).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. APLICABILIDADE.
+1. Na forma da jurisprudência desta Corte, "o Recurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF" (AgInt no REsp 1.846.621/MA, rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 11/12/2020).
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Como afirmado no decisório agravado, a argumentação recursal seguiu no seguinte sentido (fls. 189/190):
+A parte recorrente sustenta que o princípio da sucumbência não é apto a resolver todas as situações concretas, sendo uma mera aplicação específica, mas não a única. De outra parte, alega que o princípio da causalidade é postulado maior, segundo o qual aquele que perdeu a demanda deve arcar com os custos do processo (fls. 37/38).
+Segue afirmando que " ..  nenhuma razoabilidade existe no fato de o credor, no cumprimento de sentença, apresentar os cálculos conforme o título executivo judicial, e sofrer ônus decorrente da manifesta inércia do devedor durante todo o trâmite processual, restando indene de dúvida que a sucumbência para fixação de honorários deve ser analisada com observância de quem deu causa à controvérsia" (fl. 39).
+Requer o provimento do recurso para que, " ..  reconhecida a contrariedade do acórdão recorrido ao princípio da causalidade e aos precedentes do Superior Tribunal de Justiça, eis que premiou o causador da controvérsia com o princípio da sucumbência em detrimento do princípio da causalidade, o qual é o adequado na hipótese, nos termos do art. 105, inciso III, alíneas a e c, da CF, para que seja afastada a condenação dos recorrentes no pagamento de honorários advocatícios  .. " (fl. 41).
+Portanto, em relação à questão de fundo, a despeito da referência simples aos arts. 82, § 2º ("A sentença condenará o vencido a pagar ao vencedor as despesas que antecipou"), e 85 do CPC nas razões recursais (fl. 38), a parte recorrente se limitou a tecer considerações genéricas acerca do mérito da controvérsia, como se apelação fosse, sem, contudo, particularizar, indicando de forma clara, precisa e congruente os dispositivos de lei federal contrariados (lembro que só o art. 85 do CPC possui 20 parágrafos), bem como a maneira pela qual, no seu entendimento, teriam sido diretamente ofendidos, o que caracteriza deficiência de fundamentação, nos termos da Súmula 284/STF, aplicada por analogia.
+Com efeito, na forma da jurisprudência desta Corte, "o Recurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF" (AgInt no REsp 1.846.621/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 11/12/2020).
+Nesse sentido, cito os seguintes julgados:
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. FUNDAMENTAÇÃO GENÉRICA DO APELO NOBRE. INCIDÊNCIA DAS SÚMULAS 281 E 284/STF, POR ANALOGIA.
+1. Como cediço, "o art. 105, III da Constituição Federal é taxativo ao preconizar que a competência desta Corte se cinge às causas decididas em única ou última instância pelos Tribunais ali referidos, exigindo, dessa forma, o esgotamento das vias ordinárias" (AgRg no Ag 1.233.603/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 25/04/2013).
+2. "Nos termos da jurisprudência do STJ, "não cabe recurso especial interposto diretamente contra decisão monocrática que rejeita os embargos de declaração, ainda que opostos contra acórdão do Tribunal." (AgInt nos EDcl no AREsp 141.844/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 23/8/2016, DJe 30/8/2016)" (AREsp 1.165.699/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/02/2018). Incidência, por analogia, da Súmula 281/STF.
+3. Limitando-se a parte agravante, em seu recurso especial, a tecer argumentação genérica como se apelação fosse, sem indicar de forma clara, precisa e congruente de que forma os vários dispositivos de lei federal citados teriam sido violados, incide na espécie a Súmula 284/STF, por analogia. Precedente: AgRg no REsp 1.196.326/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 26/09/2014.
+4. Agravo interno improvido.
+(AgInt no REsp 1.570.635/RN, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/8/2018.)
+PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Ficou decidido pelo Tribunal de origem que "a prova documental entranhada é suficiente, por isto que a sentença atacada, tal qual proferida, diferentemente do que pretendem fazer crer os recorrentes, não porta vício atraente de nulidade. Tanto que os próprios autores, após a AIJ, suscitaram não haver mais provas a produzir, postulando pelo julgamento da lide" (fl. 365, e-STJ).
+2. O entendimento pacificado nesta Corte é que a necessidade de produção de determinadas provas encontra-se submetida ao princípio do livre convencimento do juiz, diante das circunstâncias de cada caso. Desse modo, a revisão do posicionamento adotado pelo acórdão recorrido é inviável em sede de recurso especial, por necessário reexame do contexto fático-probatório dos autos, o que encontra o óbice da Súmula 7/STJ. Precedentes.
+3. Em relação à alegada divergência jurisprudencial quanto à legitimidade dos avós para a busca do direito pleiteado, furtaram-se os recorrentes de indicar qual dispositivo de lei teve interpretação divergente àquela dada por outro tribunal e redigiram seu recurso como se apelação fosse, olvidando-se dos estreitos limites de cognição do apelo especial que examina a possível ofensa à legislação federal. Incidência analógica da Súmula 284/STF. Precedentes.
+Agravo regimental improvido.
+(AgRg no AREsp 782.171/RJ, relator Ministro Humberto Martins, Segunda Turma, DJe de 24/11/2015.)
+Logo, a aplicação da Súmula 284/STF se mostrou acertada.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
