@@ -1,0 +1,26 @@
+DECISÃO
+DANILO JOSÉ BERNARDO GUINHONI agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0704410-56.2021.8.07.0001.
+O agravante foi condenado, pelo crime previsto no art. 304 do Código Penal, à sanção de 2 anos e 6 meses de reclusão mais 12 dias-multa, no regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritivas de direito.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 17, 59 e 304 do Código Penal e 383 do Código de Processo Penal. Em síntese, pleiteou a violação do princípio da congruência, ao argumento de o acusado haver sido condenado por fato diverso daquele narrado na denúncia. Defendeu, ainda, a absolvição por atipicidade decorrente da hipótese de crime impossível. Subsidiariamente, pleiteou a redução da pena-base, mediante o decote da vetorial culpabilidade, ou a diminuição da fração de exasperação da pena.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 1.347-1.353, pelo não provimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou (fls. 1.166-1.668):
+ ..
+O acórdão foi claro ao consignar que os elementos probatórios colacionados ao longo da instrução criminal, mormente os depoimentos coesos e coerentes prestados pelas testemunhas, corroborados pela farta prova documental, evidenciam que o réu ofereceu em garantia, conforme aposto no contrato de cédula bancária (assinado pelo réu), lotes que sabia não serem de sua propriedade, mediante a apresentação à instituição financeira das respectivas certidões de matrículas que, além de não terem sido emitidas pelo Cartório de Santo Antônio do Descoberto, ostentam informação inverídica, no sentido de ser o réu o legítimo proprietário dos lotes - fez uso de certidões de matrículas de imóveis falsas.
+Registrou que o crime de uso de documento falso, tipificado no art. 304 do Código Penal, consuma-se com a simples apresentação do documento que o agente sabe ser falso, independente de obtenção de vantagem indevida ou produção de dano, o que ocorreu na hipótese dos autos.
+Ressaltou que a entrega, no ato da assinatura da cédula de crédito bancário, de documentos emitidos em data posterior reforça a falsidade das certidões apresentadas pelo réu.
+Certificou, ainda, que a falsificação somente foi constatada no momento da apresentação da cédula ao Cartório do RI de Santo Antônio do Descoberto/Go para averbação e registro da garantia à margem das matrículas respectivas, circunstância que evidencia não se tratar de uma falsificação grosseira - incapaz de ludibriar, de plano, uma pessoa comum.
+Eis o teor de fragmentos cuja atenta leitura permite tal constatação (ID 58415791, págs. 14/15):
+ ..
+Insta registrar que, ainda que o Juízo de origem tenha considerado a possibilidade de a entrega dos documentos ter ocorrido em data posterior à emissão da Cédula de Crédito Bancário, não haveria falar em violação ao princípio da congruência, uma vez ter sido imputado ao réu o uso de documento público falso como garantia de contrato de Progiro, celebrado no dia 24/09/2015, no qual são elencados, de forma expressa, os lotes referentes às certidões falsas.
+Nesse contexto, não há falar em omissão ou contradição a ensejar o acolhimento dos presentes embargos . O que se depreende, em verdade, é o desígnio de rediscutir a matéria já decidida, fazendo prevalecer interpretação diversa em razão de inconformismo - circunstância alheia ao propósito integrativo dos aclaratórios que, inclusive, revela intuito de reexame da controvérsia, objetivo que transborda os limites da via recursal eleita.
+Conforme se observa, a instância antecedente asseverou: "a entrega, no ato da assinatura da cédula de crédito bancário, de documentos emitidos em data posterior reforça a falsidade das certidões apresentadas pelo réu" (fl. 1.167).
+A sentença condenatória, por sua vez, esclareceu que "a certidão é material e ideologicamente falsa, ou seja, não se poderia esperar a veracidade da data ali contida, pois não foi efetivamente registrada em cartório" (fl. 957).
+Assim, a premissa fática em que se baseia a pretensão defensiva - violação do princípio da correlação e atipicidade da conduta - não se afigura incontroversa, razão pela qual a análise demandaria revolvimento ou até mesmo dilação probatória, procedimentos vedados , em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+No tocante à dosimetria da pena, a orientação desta Corte Superior é de não haver um valor predefinido para elevação da pena-base. Na hipótese, a culpabilidade foi acrescida na fração de 1/8 do intervalo entre o máximo e o mínimo previsto para o tipo penal. A avaliação desfavorável da culpabilidade foi idoneamente justificada no elevado valor do contrato (R$ 6.400.000.00) obtido de forma fraudulenta.
+II. Dispositivo
+À vista do exposto, conheço do agravo para conhecer, em parte, do recurso especial e, nessa extensão, negar-lhe provimento .
+Publique-se e intimem-se.
+EMENTA
