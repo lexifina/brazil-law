@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEXANDRE ROBERTO SANTANA NASCIMENTO contra acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ fl. 53):
+AGRAVO EM EXECUÇÃO PENAL - Multa - Prescrição da pretensão executória Lapso não verificado - Prazo prescricional que é disciplinado pelo art. 115 do Código Penal - Recurso defensivo desprovido.
+Consta dos autos que o recorrente, na qualidade de reeducando, condenado definitivamente à pena de 04 (quatro) anos e 02 (dois) meses de reclusão, teve por indeferido - pela Vara de Execuções Penais da localidade - o pedido de extinção da punibilidade Estatal da pena de multa, pela prescrição da pretensão executória (e-STJ fl. 53).
+Na sequência, a Corte de origem negou provimento ao agravo em execução (e-STJ fls. 52-67).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta ofensa do art. 51 do CP, associada à dicção do art. 174, caput, do CTN (e-STJ fl. 79).
+Para tanto, assevera (em síntese) que, nos termos da Lei n. 9.268/1996,
+uma vez transitada em julgado a sentença condenatória, a multa deve ser considerada dívida de valor, aplicando a ela as normas da legislação relativa à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição (e-STJ fl. 79).
+Estratifica que, como o trânsito em julgado para as partes operou-se em 16/12/2016 e por força do lapso prescricional incidente ser de 05 (cinco) anos, a prescrição da pretensão executória teria ocorrido em 15/12/2021 (e-STJ fl. 80).
+Desta feita, diante da natureza jurídica de dívida de valor da pena de multa, a permitir sua cobrança pela Fazenda Pública, ante eventual omissão do Ministério Público (e-STJ fl. 81), pugna seja declarada extinta a punibilidade Estatal da aludida sanção.
+Contrarrazões pelo Parquet estadual (e-STJ fls. 88-94).
+O Tribunal a quo, em juízo de prelibação provisório, nos contornos do art. 1.030, V, do CPC, c/c art. 3º, do CPP, admitiu o apelo especial, com sua conseguinte remessa a esta Corte de Uniformização, para fins de regular processamento e julgamento do feito (e-STJ fls. 97-98).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ, pelo não provimento do recurso especial (e-STJ fls. 107-111).
+É o relatório.
+DECIDO.
+Preenchidos os pressupostos recursais (intrínsecos e extrínsecos), passa-se à apreciação do apelo raro.
+Sobre a temática controvertida, o Tribunal bandeirante, ao rechaçar a vindicada prescrição da pretensão executória da pena de multa, exortou (e-STJ fls. 53-55, grifamos):
+Esclarece que o agravante foi condenado à pena de 04 anos e 02 meses de reclusão, transitando em julgado para as partes em 16/12/2016, razão pela qual a prescrição da pretensão executória teria ocorrido em 15/12/2021, enquanto, nos termos da r. sentença, tal fato somente ocorreria em 15/12/2028.
+Sustenta o agravante que o C. STF reconheceu a natureza de dívida de valor da mesma multa penal, possuindo natureza dúplice, não se podendo julgar a presente causa tendo apenas em conta a natureza penal.
+ ..
+Pretende o provimento do presente agravo para declarar extinta a punibilidade decorrente da pena de multa.
+ ..
+Não há que se falar, na hipótese, na prescrição executória da pena de multa. Deveras, conforme se pode extrair da guia de recolhimento definitiva de fls. 13/14 da r. decisão recorrida, foi o agravante, no processo nº 0086224-68.2012.8.26.0050, condenado às penas de 4 anos e 2 meses, por incursão, no art. 33, §4º da Lei 11.343/06.
+E, nesse passo, o prazo prescricional aplicável, ao contrário do sugerido, corresponde, nos termos do que preceitua o art. 114, II, do CP, a 12 anos, prazo esse que não decorrera na hipótese, mormente ao se observar que o trânsito em julgado da condenação para a defesa ocorreu apenas em 16/12/2016 e para a acusação em 09/11/2016.
+ ..
+Deveras, embora se encontre sedimentado o entendimento de que a pena de multa detém caráter penal, de modo que, a despeito da previsão, no art. 51, do CP, da aplicação das normas relativas à dívida ativa da Fazenda Pública, no que concerne às causas interruptivas e suspensivas da prescrição (previsões que se referem à ação de cobrança de dívida de valor), no que diz respeito aos prazos prescricionais, devem ainda ser observados os regramentos contidos expressamente na legislação penal, sobretudo no Código Penal (artigo 114, incisos I e II), até em face de sua especialidade.
+De se observar que a redação do art. 51, do CP, antes do advento da Lei nº 13.964/2019, trazia regramento quase idêntico ao ora vigente, tendo a novel legislação apenas inserido, de forma explícita, que a multa em baila deverá ser executada perante o Juiz da execução penal.  ..
+Dos excertos transcritos, deflui-se que o aresto fustigado converge ao (remansoso) entendimento trilhado por ambas Cortes de Vértice, em casos análogos.
+Em introito, não se descuida esta Relatoria que o Plenário da Suprema Corte, ao julgar a ADI n. 3.150/DF (STF, Rel. Ministro Marco Aurélio, Rel. p/ Acórdão Ministro Roberto Barroso, Tribunal Pleno, DJe-170 divulg. 5/8/2019 public. 6/8/2019), assentou que a derrogação do art. 51 do CP, pelo advento da Lei n. 9.268/1996, manteve o caráter de sanção criminal da pena de multa.
+Mais recentemente, também não se olvida este Sodalício que, em sessão realizada no dia 25/03/2024, o Plenário do Pretório Excelso, ao julgar a ADI n. 7.032/DF, sob a relatoria do Min. Flávio Dino (STF, DJ-e divulg. 11/04/2024, public. 12/04/2024), deu interpretação conforme à CF/88 ao art. 51 do CP (com redação atual dada pela Lei n. 13.964/2019), no sentido de que:
+cominada conjuntamente com a pena privativa de liberdade, o inadimplemento da pena de multa obsta o reconhecimento da extinção da punibilidade, salvo comprovada impossibilidade de seu pagamento, ainda que de forma parcelada (grifamos).
+Com efeito, ex vi do 51 do CP, derrogado recentemente pelo advento da Lei n. 13.964/2019 (Pacote Anticrime), tem-se por incontroversa a possibilidade da aplicação (supletiva) das normas relativas à dívida ativa da Fazenda Pública, circunscritas (apenas) às causas interruptivas (art. 174, parágrafo único, do CTN) e suspensivas (Lei n. 6.830/1980) da prescrição, bem como do CPC.
+Todavia, releva sublinhar que, a execução da pena de multa (abarcada sobretudo pelo cômputo especial do lapso prescricional incidente) dar-se-á, exclusivamente, por força da especialidade normativa subjacente, sob a égide da legislação "criminal" e perante o juiz da execução penal, pelo rito plasmado nos arts. 164 e 170, ambos da LEP, c/c o art. 114, I e II, do CP, pelo que vale conferir:
+Art. 164 (LEP) - Extraída certidão da sentença condenatória com trânsito em julgado, que valerá como título executivo judicial, o Ministério Público requererá, em autos apartados, a citação do condenado para, no prazo de 10 (dez) dias, pagar o valor da multa ou nomear bens à penhora.
+§ 1º Decorrido o prazo sem o pagamento da multa, ou o depósito da respectiva importância, proceder-se-á à penhora de tantos bens quantos bastem para garantir a execução.
+§ 2º A nomeação de bens à penhora e a posterior execução seguirão o que dispuser a lei processual civil (grifamos).
+Art. 170 (LEP) - Quando a pena de multa for aplicada cumulativamente com pena privativa da liberdade, enquanto esta estiver sendo executada, poderá aquela ser cobrada mediante desconto na remuneração do condenado (artigo 168).
+§ 1º Se o condenado cumprir a pena privativa de liberdade ou obtiver livramento condicional, sem haver resgatado a multa, far-se-á a cobrança nos termos deste Capítulo (grifamos).
+Art. 114 (CP) - A prescrição da pena de multa ocorrerá:
+I - em 2 (dois) anos, quando a multa for a única cominada ou aplicada;
+II - no mesmo prazo estabelecido para prescrição da pena privativa de liberdade, quando a multa for alternativa ou cumulativamente cominada ou cumulativamente aplicada (grifamos).
+Desta feita, ao revés do quanto aventado pela combativa Defensoria Pública - na esteira de que, diante da natureza jurídica de dívida de valor da pena de multa, permite-se sua cobrança pela Fazenda Pública, ante eventual omissão do Ministério Público (e-STJ fl. 81) -, por mandamento legal, fora abolida a patrocinada legitimidade "residual" do órgão fiscal, cabendo tal mister (exclusivamente) a cargo do titular da persecução criminal, como dominus litis.
+Neste esquadro, a Suprema Corte, em 07/02/2023, ao julgar o RE n. 1.377.843/PR, sob a relatoria do Min. André Mendonça, com Repercussão Geral já reconhecida (Tema n. 1219/STF), propunha ao Colegiado:
+(i) seja observado o disposto no art. 51 do Código Penal, na redação dada pela Lei nº 13.964/2019, a partir da sua entrada em vigor; (ii) sejam devolvidos ao juízo de execução penal todos os processos em que o Ministério Público, após a vigência da Lei nº 13.964/2019, manteve-se inerte e foi determinada a remessa à Fazenda Pública para fins de inscrição em dívida ativa da pena de multa; (iii) deve ser observada a modulação de efeitos formulada na ADI 3.150, que estabeleceu a competência concorrente da Procuradoria da Fazenda Pública quanto às execuções findas ou iniciadas até a data do trânsito em julgado daquele processo; e, por fim, c) para fins de repercussão geral, propunha a fixação da seguinte tese de julgamento (tema 1.219 da repercussão geral): "À luz do artigo 51 do Código Penal, na redação dada pela Lei nº 13.964, de 2019, o Ministério Público é o legitimado exclusivo para a cobrança da multa criminal, a ser realizada na vara de execuções criminais, não cabendo indicar legitimidade subsidiária da Fazenda Pública na espécie" (STF, RE n. 1.377.843/PR, Plenário, Rel. Min. André Mendonça, Sessão Virtual de 16.12.2022 a 6.2.2023, Dje. 09/02/2023, grifamos).
+O Tribunal da Cidadania, por sua vez, ao encampar o raciocínio epigrafado, quanto à inaplicabilidade do alvitrado prazo quinquenal "fiscal", já assentou:
+ a  nova redação do art. 51 do Código Penal não retirou o caráter penal da multa. Assim, embora se apliquem as causas suspensivas da prescrição previstas na Lei n. 6.830/80 e as causas interruptivas disciplinadas no art. 174 do Código Tributário Nacional, o prazo prescricional continua sendo regido pelo art. 114, inciso II, Código Penal (REsp n. 1.724.316/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 26/5/2020, DJe de 2/6/2020, grifamos).
+No mesmo flanco:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. MULTA COMINADA CUMULATIVAMENTE. PRESCRIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme determinado pelo art. 114, inciso II, do Código Penal, o prazo prescricional da pena de multa ocorre no mesmo prazo estabelecido para prescrição da pena privativa de liberdade cumulativamente aplicada.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.998.779/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2023, DJe de 26/10/2023, grifamos).
+Neste cenário, em paráfrase à explanação averbada pelo Tribunal estadual:
+ o  prazo prescricional aplicável, ao contrário do sugerido, corresponde, nos termos do que preceitua o art. 114, III, do CP, a 12 anos, prazo esse que não decorrera na hipótese, mormente ao se observar que o trânsito em julgado da condenação para a defesa ocorreu apenas em 16/12/2016 e para a acusação em 09/11/2016 (e-STJ fl. 54, grifamos).
+Incide, portanto, no ponto em voga, a Súmula 568/STJ, segundo a qual: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
