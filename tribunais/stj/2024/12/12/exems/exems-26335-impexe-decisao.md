@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de impugnação oposta pela União ao cumprimento de sentença, iniciado por Jorge Signorini, referente a mandado de segurança no qual foi concedida a ordem para restabelecer a validade da Portaria anistiadora do Ministério da Justiça nº. 19, de 8 de janeiro de 2004.
+Como reflexo financeiro da aludida decisão, a impetrante promoveu a execução das parcelas da prestação mensal, permanente e continuada não pagas durante o período em que a portaria de anistia esteve anulada.
+A executada apontou excesso de execução, aduzindo que: a) devem ser pagos apenas os valores compreendidos entre a data da impetração do Mandado de Segurança (12/06/2020) e a data a partir da qual foi restabelecido o pagamento da prestação mensal (20/06/2021), b) não foram observados os termos da EC 113/2021, e c) foi considerado o valor mensal integral para o cálculo da Gratificação Natalina relativa ao ano de 2020, quando deveria ser utilizado o valor proporcional de 7/12.
+Pediu a procedência da impugnação e a condenação do exequente ao pagamento de honorários advocatícios sucumbenciais.
+Em resposta, o exequente refutou a alegação de excesso de execução, pois há discrepância nos índices de correção e juros aplicados, devendo ser utilizados os seus cálculos. Pugnou pela improcedência da impugnação oposta pela União e a condenação desta ao pagamento das custas e dos honorários advocatícios sucumbenciais.
+Na sequência, a decisão de fl. 150 determinou a expedição do requisitório de valor incontroverso e, assim, foi autuado o Prc 10296/DF, conforme certidão de fl. 158.
+É o relatório. Decido.
+Tendo havido a expedição da requisição de valor incontroverso, remanesce o julgamento dos pontos impugnados pela União às fls. 19-35.
+Passo, assim, à análise dos pontos controvertidos.
+PERÍODO DOS VALORES A SEREM PAGOS
+Verifica-se que possui razão a União, pois os cálculos do autor abrangem a integralidade das parcelas relativas aos meses de junho de 2020 e junho e julho de 2021. Contudo, o período devido na presente execução deve iniciar em 26/06/2020 - data da impetração do writ - e se encerrar na data em que foi restabelecido o pagamento da prestação mensal, a qual ocorreu em 20/06/2021, conforme se verifica à fl. 34, no título de proventos.
+DOS ÍNDICES DE CORREÇÃO MONETÁRIA E DE JUROS DE MORA
+Quanto aos índices de correção monetária e de juros de mora, frise-se que eles devem seguir os seguintes critérios:
+Índice de Correção Monetária a ser aplicada: IPCA-E (Tema 905/STJ e Tema 810/STF); a partir da data de publicação da EC n.º 113/2021 (9/12/2021), taxa Selic.
+Índice de Juros a serem aplicados: de julho/2009 até a data da EC n. º 113/2021 (8/12/2021), remuneração oficial da caderneta de poupança. A partir da data de publicação da referida emenda (9/12/2021), taxa Selic
+GRATIFICAÇÃO NATALINA
+Para fins de Gratificação Natalina "há que se frisar que o cálculo deve ser feito de maneira proporcional à data de impetração da segurança" (PET na ExeMS n. 7.497, Ministro Ribeiro Dantas, DJe de 16/06/2023.). No caso em tela, o writ foi impetrado em 12/06/2020, devendo, a partir dessa data, ser calculada a Gratificação Natalina.
+CONCLUSÃO
+Ante o exposto, julgo procedente a impugnação oposta pela União ao cumprimento de sentença.
+Considerada a tese firmada no julgamento do Tema 1.232/STJ, deixo de fixar os honorários de sucumbência.
+Encaminhem-se os autos à Coordenadoria de Processamento de Feitos em Execução J udicial para elaboração de cálculos em conformidade com os critérios fixados nesta decisão.
+Após, as partes deverão ser intimadas acerca das informações prestadas pela CPEX, independentemente de nova conclusão. Havendo concordância, tácita ou expressa das partes, expeça-se o requisitório complementar, com destaque de honorários advocatícios, se for o caso.
+EMENTA
