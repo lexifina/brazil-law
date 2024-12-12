@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de impugnação oposta pela União ao cumprimento de sentença, iniciado pela beneficiária Maria de Jesus Barros Cosenza, referente a mandado de segurança no qual foi concedida a ordem para restabelecer a validade da Portaria anistiadora do Ministério da Justiça nº. 2.329, de 17 de dezembro de 2002. Como reflexo financeiro da aludida decisão, a impetrante promoveu a execução das parcelas da prestação mensal, permanente e continuada não pagas durante o período em que a portaria de anistia esteve anulada.
+A União apontou excesso de execução, aduzindo que: a) devem ser pagos apenas os valores compreendidos entre a data da impetração do Mandado de Segurança (17/06/2020) e a data a partir da qual foi restabelecido o pagamento da prestação mensal (30/06/2020), b) a base de cálculo está incorreta, c) o termo inicial da correção monetária é a data da impetração enquanto o termo inicial dos juros de mora é a data da notificação da autoridade impetrada, e d) não foram observados os termos da EC 113/2021.
+Pediu a procedência da impugnação e a condenação do exequente ao pagamento de honorários advocatícios sucumbenciais.
+Em resposta, o exequente refutou a alegação de excesso de execução. Alega que: a) a União não incluiu o exequente na folha de pagamento dos meses de junho e julho de 2020, porém em outubro de 2020 realizou pagamento de valores retroativos, b) a base de cálculo utilizada pelo autor corresponde ao mesmo valor que consta no seu contracheque de agosto de 2020, e c) foram utilizados os critérios do Manual de Cálculos do Conselho da Justiça Federal para atualização dos consectários legais.
+Na sequência, a decisão de fl. 65 determinou a expedição do requisitório de valor incontroverso e, assim, foi autuado o RPV 15099/DF, conforme certidão de fl. 73.
+É o relatório. Decido.
+Tendo havido a expedição da requisição de valor incontroverso, remanesce o julgamento dos pontos impugnados pela União às fls. 17-28.
+Passo, assim, à análise dos pontos controvertidos.
+PERÍODO DOS VALORES A SEREM PAGOS
+Verifica-se que possui razão a União, pois os cálculos do autor abrangem a integralidade das parcelas relativas aos meses de junho e julho de 2020. Contudo, o período devido na presente execução deve iniciar em 17/06/2020 - data da impetração do writ - e se encerrar na data em que foi restabelecido o pagamento da prestação mensal, a qual ocorreu em 30/06/2020, conforme se verifica à fl. 27, no título de proventos.
+BASE DE CÁLCULO
+A União alega que a base de cálculo deve corresponder à R$ 13.604,25, conforme título de proventos à fl. 27, e não a R$ 13.851,60, utilizado pelo exequente. Observa-se que a divergência decorre da diferença dos valores considerados no adicional de habilitação: a União aplicou o percentual de 16%, enquanto o exequente utilizou o percentual de 19%, sob o fundamento de que em seu contracheque do mês de agosto de 2020 foi aplicado esse mesmo percentual majorado.
+Os dados financeiros informados pela União, à fl. 27, referem-se aos valores e adicionais vigentes já para o mês de junho de 2020. O exequente, sem maiores razões jurídicas, aduz que devem ser utilizados os mesmos valores do mês de agosto de 2020, o que não prospera, já que com maior tempo de antiguidade - ainda que sejam dois meses - as gratificações podem ser majoradas. Isso se comprova quando se verifica o contracheque do mês de julho (e seguintes) de 2021 (fl.47), no qual foi aplicado o percentual de 22% ao adicional de habilitação.
+Assim, deve ser considerado como base de cálculo o valor de R$ 13.604,25
+DOS ÍNDICES DE CORREÇÃO MONETÁRIA E DE JUROS DE MORA
+Quanto aos índices de correção monetária e de juros de mora, frise-se que eles devem seguir os seguintes critérios:
+Índice de Correção Monetária a ser aplicada: IPCA-E (Tema 905/STJ e Tema 810/STF); a partir da data de publicação da EC n.º 113/2021 (9/12/2021), taxa Selic.
+Índice de Juros a serem aplicados: de julho/2009 até a data da EC n. º 113/2021 (8/12/2021), remuneração oficial da caderneta de poupança. A partir da data de publicação da referida emenda (9/12/2021), taxa Selic.
+DIES A QUO DOS CONSECTÁRIOS LEGAIS
+Em relação à matéria, esta Corte Superior entende que "o termo inicial dos juros de mora é a data da notificação da autoridade coatora no mandado de segurança, porquanto é neste momento que o devedor será constituído em mora (arts. 405, do Código Civil e 240, do CPC)." (AgInt na PET na ExeMS n. 12.401/DF, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 16/8/2023.). Nesse mesmo sentido: Resp 1.773.992/SP, Relator Ministro Herman Benjamin, Segunda Turma, Dje de 19/12/2018. Já a correção monetária possui como termo inicial a data da impetração do mandado de segurança. (ImpExe na ExeMS n. 26.669/DF, Rel. Min. Regina Helena Costa, DJe 01/03/2024). Assim, prosperam as razões da União .
+CONCLUSÃO
+Ante o exposto, julgo procedente a impugnação oposta pela União ao cumprimento de sentença.
+Considerada a tese firmada no julgamento do Tema 1.232/STJ, deixo de fixar os honorários de sucumbência.
+Encaminhem-se os autos à Coordenadoria de Processamento de Feitos em Execução Judicial para elaboração de cálculos em conformidade com os critérios fixados nesta decisão.
+Após, as partes deverão ser intimadas acerca das informações prestadas pela CPEX, independentemente de nova conclusão. Havendo concordância, tácita ou expressa das partes, expeça-se o requisitório complementar, com destaque de honorários advocatícios, se for o caso.
+EMENTA
