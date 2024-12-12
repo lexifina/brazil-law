@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALAN RODRIGUES SPINOLA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial, ante a incidência, por analogia, da Súmula n. 7 do STJ (e-STJ fls. 512/514).
+O agravante Alan Rodrigues Spínola foi denunciado e condenado nas sanções do art. 180, caput, do Código Penal (crime de receptação), à pena de 2 anos de reclusão, em regime inicial aberto (e-STJ fls. 347/355). O recurso de apelação reduziu a pena para 1 ano de reclusão, mantendo o regime aberto e rejeitando a alegação de ilegalidade da abordagem policial e consequente nulidade das provas (e-STJ fls. 447/465).
+O recurso especial, interposto sob o argumento de violação aos arts. 240, §1º, e 244 do Código de Processo Penal, foi inadmitido pelo Vice-Presidente do TJGO com base na Súmula 7 do STJ.
+A parte agravante alega, em síntese, que não seria caso de incidência da referida Súmula, pois a análise requer apenas que o STJ avalie a validade jurídica da abordagem policial à luz dos arts. 240, §1º, e 244 do CPP, sem necessidade de incursão no acervo fático-probatório (e-STJ fl. 518/528).
+Requer que seja conhecido o referido agravo para conhecer do recurso especial e, no mérito, provê-lo.
+Contraminuta do MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS pelo não conhecimento do recurso especial. (e-STJ fls. 532/533).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso especial (e-STJ fl. 545).
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo de desnecessidade de revisão de fatos e provas, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Por fim, a tese não exige o reexame de provas, pois parte de fatos incontroversos nos autos para discutir questão sobre se a legalidade da abordagem policial (não incidência da súmula nº 7 do STJ).
+Sendo assim, conheço do recurso especial. E, no mérito, entendo que a pretensão recursal não merece provimento.
+A controvérsia posta em julgamento se refere aos requisitos legais da busca pessoal e a abordagem policial que não teriam sido atendidos, na forma prevista nos artigos 240, §1º, e 244 do CPP, que demandam justificativa objetiva e fundada para a realização da medida.
+No caso, restou plenamente justificada a busca pessoal, pois os policiais militares estavam em patrulhamento de rotina quando avistaram o recorrente em local conhecido por intenso roubo de veículos, ocasião em que o recorrente estava na posse de automóvel com restrição de roubo e, após consulta, verificaram que se tratava de indivíduo portador de maus antecedentes.
+É pacífica a jurisprudência deste Superior Tribunal de Justiça no sentido da licitude da busca pessoal em circunstâncias como as dos autos, conforme segue:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. BUSCA PESSOAL. LEGALIDADE. REGIME PRISIONAL REGIME ADEQUADAMENTE FIXADO. AGRAVO DESPROVIDO.
+1 Conforme a jurisprudência desta Corte Superior, quanto à realização de busca pessoal, o próprio § 2º do art. 240 do CPP consagra que é necessária a presença de fundada suspeita para que seja autorizada a medida invasiva, padecendo de razoabilidade e de concretude a abordagem de indivíduo tão somente por ser conhecido pelo prévio envolvimento delitivo e pelo subjetivo argumento de estar em "atitude suspeita".
+2. No caso, restou plenamente justificada a busca pessoal, pois os policiais militares estavam em patrulhamento de rotina quando avistaram dois indivíduos dentro de um veículo, os quais, ao perceberem a aproximação dos agentes públicos, tentaram evadir-se, apresentando, assim, atitude suspeita, que se revelou verdadeira, tanto que, ao efetuarem a pesquisa do número do chassi do veículo em que estavam os réus, identificaram ser objeto de furto, afastando-se a ilegalidade das provas obtidas por ocasião do flagrante delito.
+3. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+4. Na hipótese, malgrado o paciente Rafael seja reincidente, tem como favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal e, considerando que a reprimenda imposta não ultrapassa os 4 anos de reclusão, o paciente faz jus ao regime semiaberto de cumprimento de pena, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal e da Súmula 269/STJ. No que tange ao paciente Renan, tendo circunstâncias judiciais desfavoráveis, mostra-se adequado o regime fechado.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 925.845/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2024, DJe de 28/10/2024, grifei)
+Ante o exposto, com fundamento nos artigos 638 do CPP, 932, IV, do Código de Processo Civil de 2015 e 253, parágrafo único, II, a, do RISTJ, conheço do agravo em recurso especial para conhecer e negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
