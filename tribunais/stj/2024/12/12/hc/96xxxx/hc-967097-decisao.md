@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado por JOAQUIM PEDRO DE MORAIS FILHO, em favor da AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (autos n. 2294451-62.2024.8.26.0000), haja vista o indeferimento do pedido formulado pela agência reguladora para atuar na qualidade de assistente simples em ação civil pública movida pelo Ministério Público do Estado de São Paulo contra as empresas Enel Distribuição São Paulo S/A e Enel Brasil S/A.
+Em sua petição inicial (fls. 02-07), o impetrante alega, em síntese que a A ANEEL, como agência reguladora, tem interesse jurídico direto na ação civil pública, uma vez que esta discute a aplicação das normas regulatórias por ela estabelecidas. A decisão judicial pode afetar diretamente a interpretação e aplicação das suas resoluções, afetando, assim, sua esfera jurídica".
+Sustenta que "a competência para decidir sobre o interesse da ANEEL no processo é exclusiva da Justiça Federal, conforme a Súmula 150 do STJ" e, nesse cenário, "a decisão do TJ-SP que nega esta competência viola a Constituição Federal e a jurisprudência do STJ".
+Requereu a concessão de liminar para "para suspender imediatamente a eficácia da decisão do TJSP que negou a intervenção da ANEEL, pelo menos até a análise do presente pedido de habeas corpus, com a suspensão da licitação da Enel no Estado de São Paulo e no Brasil, por se tratar de medida necessária para evitar lesão grave à ordem pública, à economia pública e ao interesse público" (fls. 05-06).
+No mérito, pediu que fosse julgada procedente a ordem de habeas corpus "para que seja reconhecido o direito da ANEEL de intervir no processo na qualidade de assistente simples, garantindo-se assim que os serviços de energia elétrica sejam regulamentados de forma adequada e que as licitações envolvendo a Enel sejam suspensas até que se decida sobre a legalidade e a qualidade do serviço prestado." (fl. 7).
+É o relatório. Decido.
+A presente impetração não tem como prosperar, sendo evidente a inadequação da via eleita.
+Nos termos do art. 5º, LXVIII, da Constituição Federal, "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Como a referida liberdade de locomoção diz respeito a pessoa natural, o writ é incabível quando se trata de pessoa jurídica.
+Nesse sentido: RHC n. 161.149/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/03/2022, DJe de 24/3/2022; RHC n. 88.264/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/2/2018, DJe de 21/2/2018; RHC n. 48.172/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/10/2015, DJe de 10/11/2015; e PExt no RHC n. 42.618/SP, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 5/5/2015, DJe de 19/5/2015.
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
