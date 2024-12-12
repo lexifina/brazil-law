@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial apresentado por INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS e pelo ESTADO DE MINAS GERAIS, com base no art. 105, III, a, desafiando acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 87):
+REEXAME NECESSÁRIO E APELAÇÃO CÍVEL - DIREITOTRIBUTÁRIO - SERVIDOR PÚBLICO ESTADUAL - INCONSTITUCIONALIDADE DA CONTRIBUIÇÃO SOCIAL COMPULSÓRIA DESTINADA AO CUSTEIO DA SAÚDE - RESTITUIÇÃO DOS VALORES INDEVIDAMENTE DESCONTADOS - IRRELEVÂNCIA QUANTO À FRUIÇÃO DOS SERVIÇOS MEDICO-HOSPITALARES - INDEBITO TRIBUTÁRIO - ART. 165, I DO CTN. 1. O Supremo Tribunal Federal, quando do julgamento da ADI n. 3.1061MG, reconheceu e declarou a inconstitucionalidade do vocábulo "compulsoriamente", inserido nos §§ 4º e 5º do art. 85 da Lei Complementar estadual n. 6412002.
+2. Reconhecida a ilegitimidade da exação, impõe-se a repetição do indébito, nos termos do art. 165, I do CTN, independentemente de ter sido o serviço colocado à disposição dos servidores. Jurisprudência consolidada do eg. STJ.
+3. Nos indébitos tributáiros estaduais, os juros de mora devem observer o regramento especial que prevê a aplicação da taxa SELIC, a partir do tránsito em julgado da sentença (Súmula n. 188 do eg. STJ).
+4. Redução da verba honorária sucumbencial, diante da simplicidade e repetitividade da causa, que versa sobre matéria unicamente de direito, já pacificada nas instâncias superiores.
+5. Sentença parcialmente reformada em reexame necessário conhecido de oficio. Prejudicado o apelo voluntirio
+Apresentados embargos de declaração pelos recorrentes, estes foram rejeitados, com a imposição de multa (e-STJ, fls. 107-111).
+Nas razões do recurso especial (e-STJ, fls. 115-120), os recorrentes alegam violação aos arts. 249, § 2º, 535, II, e 538, parágrafo único, do CPC/1973; 1º-F da Lei 9.494/1997 e 161, § 1º, do CTN.
+Sustentam, em síntese, a ocorrência de negativa de prestação jurisdicional, uma vez que o acórdão recorrido não se manifestou a respeito das questões suscitadas nos aclaratórios relacionadas aos juros e correção monetária, imprescindíveis para a solução da controvérsia.
+Defendem que as demandas envolvendo a Fazenda Pública devem se sujeitar, para fins de juros e correção, ao disposto no art. 1º-F da Lei 9.494/1997.
+Aduzem que os embargos de declaração opostos na origem não possuíam propósito protelatório, razão pela qual entendem descabida a multa imposta.
+Contrarrazões não apresentadas (e-STJ, fl. 123).
+O Tribunal de origem não admitiu o processamento do recurso especial (e-STJ, fls. 125-131).
+Interposto agravo em recurso especial às fls. 134-137 (e-STJ).
+Apreciado o recurso especial pela Segunda Turma do STJ, foi determinada a reautuação do agravo como recurso especial (e-STJ, fls. 196-198).
+Em seguida, em virtude da admissão de recurso especial como representativo da controvérsia relacionado a mesma questão objeto dos presentes autos, o Ministro Mauro Campbell Marques, relator do processo, determinou a devolução dos autos ao Tribunal local para que, após a publicação do acórdão do referido recurso, houvesse novo julgamento.
+Após o reexame do processo, a 5ª Câmara Cível do Tribunal de Justiça de Minas Gerais deu parcial provimento ao recurso da parte ora recorrente, nos seguintes termos (e-STJ, fl. 472):
+JUÍZO DE RETRATAÇÃO - APELAÇÃO CÍVEL - AÇÃO DE REPETIÇÃO DE INDÉBITO - CPC, ART. 1.030, II - JULGAMENTO DE RECURSO. EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA E RECURSOS ESPECIAIS SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS - CONTRIBUIÇÃO SOCIAL COMPULSÓRIA DESTINADA AO CUSTEIO DA SAÚDE - INCONSTITUCIONALIDADE - CORREÇÃO MONETÁRIA - TEMAS 905!STJ E 8I0ISTF- APLICABILIDADE DO IPCA-E - NATUREZA CONTRATUAL - REFORMA PARCIAL DO JULGADO, EM JUÍZO DE RETRATAÇÃO
+1. No julgamento da ADI 3.106/MG, o STF concluiu que a relação jurídica existente entre o Estado de Minas Gerais e seus servidores, no tocante ao serviço de assistência à saúde ofertado pelo IPSEMG, possui natureza contratual, e não tributária.
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 870.947/SE (Tema n. 810), e o Superior Tribunal de Justiça, no julgamento dos Recursos Especiais 1.492.221/PR, 1.495.144/RS e 1.495.1461MG (Tema n. 905), reafirmaram o entendimento jurisprudencial dominante no sentido de que o art. 1º-F da Lei 9.494/1 997, com redação dada pela Lei 11.96012009, para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, devendo-se observar o IPCA-E como índice substitutivo, por melhor refletir as variações inflacionárias.
+3. Determinada a aplicabilidade do IGPM e da taxa SELIC, índices diversos do estipulado pelos Tribunais Superiores, impõe-se a reforma parcial do acórdão, em juízo de retratação, para determinar a incidência tão-somente do IPCA-E, com a consequente fixação de juros moratórios Cc. segundo os índices aplicáveis à caderneta de poupança, desde a citação.
+4. Acórdão reformado em parte, em juízo de retratação.
+Em novo juízo de admissibilidade, o TJMG admitiu o recurso especial quanto à violação ao art. 538, parágrafo único do CPC/1973, negando seguimento quanto à questão decidida nos REsp nº 1.492.221/PR, REsp nº 1.495.144/RS e REsp nº 1.495.146/MG - Tema 905.
+Brevemente relatado, decido.
+A questão remanescente questionada pela parte recorrente, cinge-se em verificar a possibilidade de exclusão da multa imposta pelo Tribunal local, sob a alegação de sua inaplicabilidade, uma vez que os embargos de declaração foram opostos na origem para fins de prequestionamento .
+O Tribunal estadual, ao julgar os embargos de declaração opostos pela parte ora recorrente, assim concluiu (e-STJ, fls. 109-110, sem grifo no original):
+Data maxima venia, não vislumbro quaisquer das hipóteses previstas no art. 535 do CPC a ensejar o acolhimento do presente recurso.
+Cediço que os embargos de declaração possuem objeto restrito, prestando-se apenas a conferir clareza e coerência à decisão recorrida quando se vislumbre a ocorrência de omissão, contradição, obscuridade ou erro material no julgado embargado.
+Assim, diz-se que os aclaratórios têm efeito meramente integrativo, pois não se prestam à reabertura da discussão principal ou a análise do mérito da demanda, servindo apenas para aperfeiçoar a prestação jurisdicional.
+Verifico que os recorrentes pretendem, pela via inadequada dos embargos de declaração, reabrir a discussão que foi exaurida no julgado embargado.
+Não ha qualquer omissão, obscuridade ou contradição a ensejar a interposição dos embargos, os quais se apresentam, com a devida vênia, destituidos de fundamento jurídico plausivel e, portanto, com caráter manifestamente protelatório.
+ ..
+A reiteração dos argumentos já rechaçados, fundamentadamente, afigura-se, a meu sentir, litigância temerkia da parte, a qual deve ser repudiada, condenando-se a parte embargante ao pagamento da multa prevista no art. 538, parágrafo único, do CPC, correspondente a 1% sobre o valor da causa.
+ ..
+Ante o exposto, REJEITO os presentes embargos declaratórios e, nos termos do art. 538, parágrafo único, do CPC, condeno os embargantes a pagará parte embargada multa de 1% (um por cento) sobre o valor dado à causa.
+No que se refere à multa aplicada em sede de embargos de declaração, examinando o acórdão, constata-se que os aclaratórios foram manifestados com o intento de prequestionar a matéria objeto do apelo especial.
+Assim, ausente o caráter protelatório, a multa deve ser afastada, aplicando-se, ao caso, a previsão constante na Súmula 98 desta Corte: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Veja-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. ACÓRDÃO NÃO UNÂNIME PROLATADO EM APELAÇÃO EM MANDADO DE SEGURANÇA. INVIABILIDADE DE OPOSIÇÃO DE EMBARGOS INFRINGENTES. SÚMULA N. 169/STJ. RECOLHIMENTO DA MULTA DO ART. 538 DO CPC/1973 COMO REQUISITO DE ADMISSIBILIDADE RECURSAL. CABIMENTO APENAS EM CASO DE REITERAÇÃO DE EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. RECURSO INTEGRATIVO COM NÍTIDO FIM DE PREQUESTIONAMENTO. SÚMULA N. 98/STJ. ARRENDAMENTO MERCANTIL (LEASING). EXCLUSÃO DA RECEITA DECORRENTE DA ALIENAÇÃO DOS BENS ARRENDADOS DA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS NO REGIME CUMULATIVO. BENS QUE INTEGRAM O ATIVO PERMANENTE (NÃO CIRCULANTE) DA ARRENDADORA. INTELIGÊNCIA DOS ARTS. 3º DA LEI N. 6.099/1974 E 3º, § 2º, IV, DA LEI N. 9.718/1998. RECURSO ESPECIAL PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - Incabível a oposição de embargos infringentes contra acórdão não unânime prolatado em sede de apelação em mandado de segurança, nos termos da Súmula n. 169 desta Corte.
+III - A exigência de prévio recolhimento da multa prevista no art. 538, parágrafo único, do CPC/1973, como requisito extrínseco de admissibilidade recursal, não se aplica quando há oposição de um único recurso integrativo. Precedentes.
+IV - O tribunal de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+V - A oposição de embargos de declaração com nítido fim de prequestionamento não enseja a aplicação da multa prevista no art. 538, parágrafo único, do CPC/1973, a teor do disposto na Súmula n. 98 desta Corte. Precedentes.
+V - Durante a vigência do arrendamento mercantil, a sociedade empresária arrendadora é proprietária dos bens arrendados, os quais integram o seu ativo permanente (não circulante), nos termos do art. 3º da Lei n. 6.099/1974.
+VI - O art. 3º, § 2º, IV, da Lei n. 9.718/1998, exclui da base de cálculo da contribuição ao PIS e da COFINS no regime cumulativo a receita oriunda da alienação de bens do ativo permanente (não circulante), previsão que alcance a receita decorrente da alienação dos bens objeto de operação de leasing na qual instituição financeira figura como arrendadora.
+VII - Os §§ 5º e 6º do art. 3º da Lei n. 9.718/1998 constituem normas especiais que convivem harmonicamente com as regras gerais previstas no § 2º do mesmo dispositivo de lei, razão pela qual as instituições financeiras descritas no art. 22, § 1º, da Lei n. 8.212/1991 podem deduzir da base de cálculo da contribuição ao PIS e da COFINS as receitas oriundas da alienação de bens do ativo permanente.
+VIII - Recurso Especial provido.
+(REsp n. 1.747.824/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/11/2022, DJe de 12/12/2022.)
+Portanto, a multa aplicada em sede se embargos de declaração deve ser excluída.
+Ante o exposto, dou provimento ao recurso especial, para excluir a multa imposta em sede de embargos de declaração.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO ORDINÁRIA. TRIBUTÁRIO. EMBARGOS PROTELATÓRIOS. MULTA. EXCLUSÃO. NECESSIDADE. RECURSO ESPECIAL PROVIDO.
