@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOUBERT DE SOUZA MORAES (JOUBERT) contra decisão que negou seguimento ao seu apelo nobre, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, de relatoria do Des PEDRO RAGUENET, assim ementado:
+Apelação Cível. Ação indenizatória. Afirmação de lesões sofridas dentro de coletivo, em razõe de abalroamento entre veículos de propriedade das demandadas. Pretenção indenizatória pelos danos estéticos e morais sofridos. Sentença de improcedência. Irresignação da parte autora. Alegação de "cerceamento de defesa" (sic). Sentença lançada consoante estado dos autos. Pretensão de realização de dilação probatória. Questão que se remete à apreciação conjuntamente com o mérito do recurso. Demanda apresentada, assim como ocorreu com o recurso, com esmero em fugir de indicar em qual dos coletivos envolvidos no choque se encontrava o autor. Pretensão manejada em nome deste que pretende, de forma aleatória, solidariedade entre as empresas de transporte e reciprocidade das consequências do não cumprimento correto do contrato de transporte. Incorreção conceitual, à conta das características do contrato de transporte de passageiros e da relação unívoca entre passageiro e transportador. Autor que, em sede policial, afirma ser passageiro da empresa "Litoral". Demandante que, em petição inicial, omite qual a empresa que o trnasportava. Indicação, contudo, do nome do motorista do coletivo, funcionário da ré Redentor. Ausência de provas da condição de passageiro do autor em relação ao coletivo pertencente à Viação Redentor. Afastamento do liame da ocorrencia do evento ocorrido com o veículo de propriedade da empresa Litoral. Prova testemunhal pretendida pela demandante que resta prejudicada. Ausência de qualquer prejuízo processual ao recorrente. Pretensão genérica de solidariedade de ambas as rés que não se acolhe. Sentença que se prestigia neste tópico. Multa processual fixada na sentença que não se prestigia. Retirada da mesma que se impõe. Recurso provido em menor parte (e-STJ, fl. 293).
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, JOUBERT alegou a violação dos arts. 7º, 11, 281, 373 e 374 do CPC, 734 e 735 do CC, ao sustentar (1) cerceamento de defesa; e, (2) dissenso jurisprudencial (e-STJ, fls. 339/358).
+Foram apresentadas as contrarrazões por VIAÇÃO REDENTOR (e-STJ, fls. 385/392).
+O recurso especial não foi admitido pelo Tribunal de Justiça do Estado do Rio de Janeiro, diante da (1) incidência da Súmula nº 7 do STJ, tanto para a alínea a quanto para a alínea c; e, (2) ausência de demonstração da alegada divergência, deixando a parte de colacionar precedentes favoráveis à tese defendida, apresentar o cotejo analítico, assim como de evidenciar a similitude fática, incidindo, à espécie, a Súmula nº 284 do STF (e-STJ, fls. 417/429).
+Nas razões do presente agravo, JOUBERT alegou que não incide, ao caso, a Súmula nº 7 do STJ, tendo sido demonstrados os dispositivos de lei federal afrontados e a Jurisprudência do STJ (e-STJ, fls. 513/527).
+Foi apresentada contraminuta por VIAÇÃO REDENTOR (e-STJ, fls. 547/557).
+É o relatório.
+DECIDO.
+A irresignação não comporta acolhimento.
+Isso porque, da análise do presente inconformismo, verifica-se que JOUBERT, nas razões do agravo em recurso especial, não se dirigiu especificamente contra todos os fundamentos da decisão que negou seguimento ao apelo nobre, pois não refutou, de forma arrazoada, a falta de demonstração da alegada divergência jurisprudencial, com a colação dos precedentes favoráveis à tese defendida, apresentação do cotejo analítico, assim como da similitude fática, com a incidência, ao caso, da Súmula nº 284 do STF
+JOUBERT sustentou que não incide, ao caso, a Súmula nº 7 do STJ , tendo sido demonstrados os dispositivos de lei federal afrontados e a jurisprudência do STJ
+O agravo em recurso especial, reitere-se, não infirmou adequadamente os óbices processuais apontados na decisão agravada, devendo, portanto, ser mantido o seu não conhecimento, porque apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. ADEQUADO. MOMENTO. PRECLUSÃO. SÚMULA Nº 7/STJ. HONORÁRIOS. MAJORAÇÃO. IMPOSSIBILIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (artigo 932, inciso III, do Código de Processo Civil).
+ ..
+3. O momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+ ..
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.189.780/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 27/3/2023, DJe de 31/3/2023 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. MAJORAÇÃO DOS HONORÁRIOS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISIDIÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+ ..
+4. Agravo interno de fls. 821-828 desprovido. Agravo interno de fls. 812-819 não conhecido.
+(AgInt no AREsp n. 2.277.243/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, j. 17/4/2023, DJe de 19/4/2023 - sem destaques no original)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. APLICAÇÃO DO ART. 543-C, § 7º, I, DO CPC/1973 EM RELAÇÃO A DETERMINADO CAPÍTULO. INADEQUAÇÃO DA VIA ELEITA. JUÍZO DE INADMISSIBILIDADE EM RELAÇÃO AOS DEMAIS CAPÍTULOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+ ..
+3. De acordo com o disposto no art. 544, § 4º, I, do CPC/1973 e nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para inadmitir o recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.135.014/SP, relator Ministro GURGEL DE FARIA, Primeira Turma, j. 16/3/2020, DJe de 27/3/2020 - sem destaques no original)
+Assim, o não conhecimento do agravo em recurso especial é medida que se impõe.
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AÇÃO. INDENIZATÓRIA. ACIDENTE. COLETIVO. DANOS MORAIS E ESTÉTICOS. CERCEAMENTO DE DEFESA. DISSENSO JURISPRUDENCIAL. SÚMULAS NºS 7 DO STJ E 284 DO STF. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, CPC. AGRAVO NÃO CONHECIDO
