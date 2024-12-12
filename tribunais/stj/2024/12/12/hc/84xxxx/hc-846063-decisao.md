@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (e-STJ fls. 195-205):
+AGRAVO DE EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PEDIDO DE NULIDADE. CARÁTER EXTRA PETITA DA DECISÃO AGRAVADA. INOCORRÊNCIA. BENEFÍCIO QUE PODE SER CONCEDIDO DE OFÍCIO PELO JUIZ DA VARA DE EXECUÇÕES PENAIS. REFORMA DA DECISÃO QUE CONCEDEU LIVRAMENTO CONDICIONAL COM PREPONDER NCIA EM RELAÇÃO AO REGIME ABERTO. ALEGAÇÃO DE QUE O REGIME ABERTO É MAIS BENÉFICO AO APENADO. INSUBSISTÊNCIA. LIVRAMENTO CONDICIONAL COMO O ÚLTIMO ESTÁGIO DA EXECUÇÃO PENAL, SENDO O INSTITUTO QUE MELHOR ATENDE À RESSOCIALIZAÇÃO DO CONDENADO. AGRAVO IMPROVIDO.
+1. O livramento condicional, assim como ocorre com outros direitos da execução penal, deve ser passível de reconhecimento de ofício pelo juiz da execução, não havendo, portanto, que se falar em nulidade da decisão por julgamento extra petita.
+2. Não há ilegalidade na decisão que concede livramento condicional em detrimento do regime aberto, dadas as vantagens do primeiro, sendo o último estágio da execução penal e, portanto, o instituto que melhor atende à ressocialização do condenado. Precedentes TJPE.
+3. Recurso desprovido.
+O paciente cumpre pena total de 8 anos de reclusão pela prática dos crimes previstos no art. 33, caput, da Lei 11.343/2006 e art. 16 da Lei 10.826/2003. Atualmente encontra-se em liberdade condicional.
+O pedido de conversão do livramento condicional para o regime aberto foi indeferido pelo Juízo da Execução, ao fundamento de que o primeiro é mais benéfico ao apenado. Tal decisão foi mantida pelo Tribunal de origem.
+A Defensoria Pública alega, em síntese, que o regime aberto é mais benéfico que o livramento condicional, afirmando a presença dos requisitos para o benefício pleiteado.
+Ao final, requer a concessão da ordem para que, ao invés do livramento condicional, seja emitido o atestado de pena de forma a indicar a data de progressão do regime semiaberto ao aberto, bem como a progressão ao regime aberto, por ser medida mais benéfica (e-STJ fl. 3-9).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Com efeito, o entendimento firmado no acórdão impugnado está em consonância com a jurisprudência desta Corte de Justiça, no sentido de que a concessão do benefício do livramento condicional conduz o apenado a situação mais favorável que a progressão ao regime aberto, não havendo qualquer ilegalidade na decisão que assim entendeu.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS . EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PLEITO PREJUDICADO. CONCESSÃO DO LIVRAMENTO CONDICIONAL AO APENADO. BENESSE MAIS FAVORÁVEL. INTERESSE PROCESSUAL AUSENTE. PRECEDENTES. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, como já decidido anteriormente, ficou demonstrada a ausência de interesse processual para apreciação do pleito do ora agravante, acerca da progressão de regime, diante da concessão, em 14/09/2021, do livramento condicional ao apenado, que o colocou em situação mais favorável.
+III - Assente nesta Corte Superior que, "No caso concreto, o pleito de progressão ao regime aberto encontra-se prejudicado, haja vista que ao ora agravante foi deferido o benefício do livramento condicional, encontrando-se o apenado, portanto, em situação mais favorável (..)" (AgRg no HC n. 679.591/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/8/2021).
+IV - No mais, os argumentos lançados no writ em voga atraem a Súmula n. 182 desta Corte Superior de Justiça. Agravo regimental desprovido."
+(AgRg no HC n. 743.322/GO, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 20/3/2023, DJe de 27/3/2023) Grifo acrescido
+"AGRAVO REGIMENTAL NO HABEAS CORPUS . EXECUÇÃO PENAL. CONCESSÃO DO BENEFÍCIO DE LIVRAMENTO CONDICIONAL. PLEITO DE PROGRESSÃO AO REGIME ABERTO. PREJUDICIALIDADE. RECURSO NÃO PROVIDO.
+1. No caso concreto, o pleito de progressão ao regime aberto encontra-se prejudicado, haja vista que ao ora agravante foi deferido o benefício do livramento condicional, encontrando-se o apenado, portanto, em situação mais favorável. Precedentes desta Corte: AgRg no HC 462.289/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 30/5/2019, DJe 11/6/2019; HC 193.681/SP, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 22/10/2013, DJe 5/11/2013.
+2. Agravo regimental não provido."
+(AgRg no HC n. 679.591/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021) Grifo acrescido
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO AO REGIME ABERTO. DECISÃO DO JUÍZO DA EXECUÇÃO CONCEDENDO LIVRAMENTO CONDICIONAL, MAIS BENÉFICO AO APENADO. CONSTRANGIMENTO ILEGAL INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o Agravante, em cumprimento de pena total de 12 (doze)anos, 9 (nove) meses e 13 (treze) dias, atualmente no regime semiaberto, formulou pedido de progressão para o regime aberto. O Juízo da Execução Penal, contudo, entendeu deferir o benefício do livramento condicional, por ser mais benéfico ao Apenado, o que foi mantido pelo Tribunal estadual.
+2. Esta Corte de Justiça tem jurisprudência no sentido de que a concessão do benefício do livramento condicional conduz o Apenado a situação mais favorável que a progressão ao regime aberto. Precedentes desta Corte e do STF.
+3. Agravo regimental desprovido." (AgRg no HC n. 831.570/PE, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023) Grifo acrescido
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
