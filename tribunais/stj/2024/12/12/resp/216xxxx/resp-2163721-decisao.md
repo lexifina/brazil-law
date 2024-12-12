@@ -1,0 +1,51 @@
+DECISÃO
+Tratam-se de recursos especiais interpostos por CASAALTA CONSTRUÇÕES LTDA. EM RECUPERAÇÃO JUDICIAL e por EMERSON LUIZ JAREK e OUTRA contra o acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. APELAÇÃO CÍVEL. SFH. ATRASO NA ENTREGA DA OBRA. RESPONSABILIDADE SOLIDÁRIA DA CEF E DA CONSTRUTORA/INCORPORADORA. ABUSIVIDADE DA CLÁUSULA QUE TRANSFERE AOS MUTUÁRIOS A INICIATIVA DE SUBSTITUIR A CONSTRUTORA. JUROS DE OBRA. LUCROS CESSANTES/DANOS EMERGENTES. BASE DE CÁLCULO. JUROS MORATÓRIOS. CLÁUSULA PENAL. CLÁUSULA DE IMPONTUALIDADE. DANOS MORAIS.
+1. A responsabilidade da CEF e da construtora/incorporadora pelos danos (materiais e morais) suportados pela parte autora em razão de atraso na obra é solidária e decorre do fato de todas terem descumprido o convencionado, já que o banco, além de agente financeiro, atua também como fiscalizador de prazos e da qualidade da obra, gerindo os recursos financeiros e técnicos juntamente com a construtora/incorporadora e interferindo diretamente na execução do projeto.
+2. Mostra-se abusiva a cláusula contratual que transfere a responsabilidade pela fiscalização das obras aos mutuários, condicionando a iniciativa de substituir a construtora à manifestação da vontade da maioria dos devedores, formalizada à CEF com base nos motivos previstos em lei e no próprio contrato.
+3. Independentemente da efetiva conclusão da obra e entrega do imóvel, a cobrança dos "juros de obra" tem como termo inicial a assinatura do financiamento habitacional destinado à compra do bem, e termo final a data pré-estabelecida para essa finalidade ou o decurso do prazo em meses contratualmente previsto para a conclusão da construção.
+4. Os lucros cessantes/danos emergentes devem incidir a partir da data do evento danoso (atraso na entrega da obra) até a data de disponibilização das chaves. O valor da indenização equivale, por mês, a 0,5% do valor atualizado do imóvel (importância atribuída ao imóvel à época da contratação, devidamente atualizada pelo IPCA-E até a data do evento danoso), acrescido de juros moratórios entre a data do evento danoso e a data do efetivo pagamento.
+5 . Constituindo-se a cláusula penal em estimativa prévia dos prejuízos sofridos com o inadimplemento ou mora contratual, deve incidir isoladamente caso prefixe em patamar razoável a indenização, sem cumulação com lucros cessantes/danos emergentes. Sendo a cláusula penal insuficiente para compensar os danos efetivamente suportados pelo comprador, porém, inexiste óbice a que seja complementada pela indenização por lucros cessantes/danos emergentes ou ceda lugar à incidência isolada desta, quando o quantum indenizatório mostrar-se suficiente para a reparação total pretendida. Nesse caso, a indenização atinge o objetivo almejado pela cláusula penal, não violando o princípio pacta sunt servanda. Tema Repetitivo nº 970 do STJ.
+6. Não cabe ao juiz aplicar cláusula penal sem a prévia convenção entre as partes, mas apenas adequá-la proporcionalmente ao prejuízo. Incabível, assim, a inversão da cláusula de impontualidade prevista no contrato de financiamento habitacional.
+7. O atraso na entrega da obra evidenciado nos autos sem dúvida alguma gerou na parte mutuária sofrimento, transtorno e inquietações caracterizadores do dano moral, sendo suficiente para ensejar a obrigação de reparar o dano extrapatrimonial à CEF e à construtora/incorporadora.
+8. Configurados os pressupostos, a fixação do dano moral deve observar os princípios de moderação e de razoabilidade, assegurando à parte lesada a justa reparação, sem incorrer em enriquecimento ilícito e não deixando de observar o caráter pedagógico ao agente que cometeu o ato lesivo. O quantum indenizatório sujeita-se à incidência exclusiva da Selic a partir da data do arbitramento. Apesar do reconhecimento de que são devidos os juros de mora a contar do evento danoso (Súmula nº 54 do STJ), deve ser considerado que tais encargos estão embutidos no valor indenizatório arbitrado judicialmente" (e-STJ fls. 1.203/1.204).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial interposto por CASAALTA CONSTRUÇÕES LTDA. EM RECUPERAÇÃO JUDICIAL, a recorrente alega, além de divergência jurisprudencial, violação do artigo 186 do Código Civil, sob o argumento de que o simples atraso na entrega do imóvel não gera dano moral presumido e que o acórdão atacado não menciona nenhuma circunstância excepcional capaz de gerar a reparação pleiteada.
+No recurso especial interposto por EMERSON LUIZ JAREK e OUTRA, os recorrentes sustentam a violação dos artigos 398 e 405 do Código Civil, haja vista a impossibilidade de aplicação da Taxa Selic, desde o arbitramento, sobre a indenização por danos morais.
+As partes apresentaram contrarrazões.
+Foi negado seguimento ao recurso especial de CASAALTA CONSTRUÇÕES LTDA. EM RECUPERAÇÃO JUDICIAL, dando ensejo à interposição de agravo, e admitido o recurso especial de EMERSON LUIZ JAREK e OUTRA.
+É o relatório.
+DECIDO.
+Primeiramente, examino o inconformismo de CASAALTA CONSTRUÇÕES LTDA. EM RECUPERAÇÃO JUDICIAL.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+Tem razão a recorrente no que tange à não configuração dos danos morais porque a condenação se deu em virtude, tão-somente, do atraso na entrega de imóvel adquirido pelo recorrido.
+Esta Corte já decidiu que o simples inadimplemento contratual não enseja abalo extrapatrimonial.
+Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANOS MORAIS. NÃO CONFIGURAÇÃO. SIMPLES INADIMPLEMENTO CONTRATUAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. A demora na entrega do imóvel, em regra, constitui mero inadimplemento contratual o que, por si só, não gera o dever de indenizar.
+3. Agravo interno não provido."
+(AgInt no REsp 1.715.842/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 21/11/2018)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO MANEJADO SOB A ÉGIDEDO CPC/73. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. INDENIZAÇÃO.PARCIAL PROCEDÊNCIA. OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. RESPONSABILIDADE DA CONSTRUTORA. AUSÊNCIA DE EXCLUDENTE. LUCROS CESSANTES DEVIDOS. CUMULAÇÃO COM MULTA. POSSIBILIDADE. EQUIPARAÇÃO DE MULTAS. VALOR EXAGERADO PARA O COMPRADOR. DESEQUILÍBRIO CONTRATUAL. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. RECENTE ENTENDIMENTO DESTA CORTE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+(..)
+5. A moderna jurisprudência firmada no âmbito da Terceira Turma desta Corte é no sentido de que o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes compradores.
+6. No caso concreto, a fundamentação do dano moral está justificada somente da frustração da expectativa da autora, que se privou do uso do imóvel pelo tempo em que perdurou o atraso na entrega da obra, sem tecer nota adicional ao mero atraso que pudesse, além dos danos materiais, causar grave sofrimento ou angústia a ponto de configurar verdadeiro dano moral.
+7. Agravo regimental parcialmente provido a fim de excluir a condenação por dano moral."
+(AgRg no AREsp 847.358/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 1º/6/2017)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIALCOMPROVADO. INADIMPLEMENTO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DEIMÓVEL. AUSÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. DANO MORAL NÃO CONFIGURADO.
+1.- Dissídio jurisprudencial comprovado.
+2.- "O inadimplemento de contrato, por si só, não acarreta dano moral, que pressupõe ofensa anormal à personalidade. É certo que a inobservância de cláusulas contratuais pode gerar frustração na parte inocente, mas não se apresenta como suficiente para produzir dano na esfera íntima do indivíduo, até porque o descumprimento de obrigações contratuais não é de todo imprevisível." (REsp 876.527/RJ).
+3.- Agravo improvido."
+(AgRg no AREsp 287.870/SE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 5/6/2013)
+No caso dos autos, o Tribunal local fundamenta a existência de dano moral unicamente no atraso na entrega do imóvel, como se vê do seguinte trecho do voto condutor:
+"(..)
+O atraso na entrega da obra evidenciado nos autos sem dúvida alguma gerou na parte mutuária sofrimento, transtorno e inquietações caracterizadores do dano moral, sendo suficiente para ensejar a obrigação de reparar o dano extrapatrimonial à CEF e à construtora.
+Ademais, é assente na jurisprudência que o dano moral oriundo da impossibilidade de usufruir de imóvel adquirido é conhecido pela experiência comum e considerado in re ipsa, isto é, não se faz necessária a prova do prejuízo, que é presumido e decorre do próprio fato, independentemente do prazo pelo qual o atraso perdurou. Note-se que, à empresa, os transtornos decorrentes do atraso são inerentes à atividade desenvolvida; ao consumidor, não. Ao adquirir imóvel residencial, em especial novo, o indivíduo cria expectativas legítimas de morar no bem e de melhorar sua(e-STJ Fl.1199) Documento recebido eletronicamente da origem qualidade a vida. Frustradas essas expectativas, revela-se a configuração do dano moral" (e-STJ fls. 1.199/1.200).
+Portanto, o aresto combatido merece reforma, pois está em confronto com a jurisprudência do Superior Tribunal de Justiça, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Tendo em vista o afastamento da condenação aos danos morais, fica prejudicado o recurso especial interposto por EMERSON LUIZ JAREK e OUTRA, por perda superveniente de objeto.
+Ante o exposto, conheço do agravo de CASAALTA CONSTRUÇÕES LTDA. EM RECUPERAÇÃO JUDICIAL e dou provimento ao recurso especial para afastar da condenação a indenização por danos morais, e julgo prejudicado o recurso especial de EMERSON LUIZ JAREK e OUTRA.
+Custas e honorários advocatícios nos termos da sentença (e-STJ fls. 1.067/1.076).
+Publique-se.
+Intimem-se.
+EMENTA
