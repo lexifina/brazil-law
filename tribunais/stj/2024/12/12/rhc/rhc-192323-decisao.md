@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por MAURICIO DANIEL KERBER GALVAO - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0007622-07.2023.8.16.0131) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Processo n. 115155-30.2023.8.16.0000), não comporta provimento.
+Com efeito, busca o recorrente a fixação do regime inicial semiaberto na condenação imposta pelo Juízo de Direito da Vara Criminal da comarca de Pato Branco/PR, ao argumento de que, em que pese ter reconhecido a primariedade do agente, sem fundamento algum, fixou o regime mais gravoso na sentença condenatória, contudo, há se de salientar que tal decisão encontra-se carente de fundamentação, pois tal fundamentação se prestaria a qualquer outro processo de tráfico, não houve singularidade do caso em tela (fl. 60).
+Ocorre que, além de se tratar de recurso em habeas corpus destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica ausência de fundamentação na imposição do regime inicial mais rigoroso, tendo o Juízo de primeiro grau consignado que, diante da grande quantidade e variedade de drogas que a conduta do réu envolveu, que é fator preponderante neste crime (art. 42 da Lei de Drogas) e do tempo da pena privativa de liberdade aplicada, fixo o regime fechado para o início do seu cumprimento, de acordo com o disposto no art. 33, § 3º, do Código Penal (fl. 32). Trata-se de 298 g de crack e 3 kg de maconha .
+Em face do exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (298 G DE CRACK E 3 KG DE MACONHA). REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. REGIME INICIAL. IMPOSIÇÃO DO FECHADO. FUNDAMENTAÇÃO. EXISTÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
