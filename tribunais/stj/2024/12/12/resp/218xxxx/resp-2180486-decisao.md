@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED CAMPINAS - COOPERATIVA DE TRABALHO MÉDICO, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE SAÚDE - Paciente grávida, portadora de trombofilia, com mutação genética homozigota MTHFR, com risco de abortamento - Negativa de cobertura ao medicamento Enoxoparina por ser de uso domiciliar e não ser de cobertura obrigatória pela ANS - Abusividade - A Operadora não pode estabelecer o tratamento que o paciente deve se submeter para o alcance da cura e não pode restringir aqueles que forem prescritos pelo médico, independentemente de tratar-se de procedimento obrigatório do rol da ANS - Súmula 102 do TJSP - A evolução dos fármacos, possibilitando a ingestão em ambiente domiciliar, impõe a devida interpretação da disposição contratual, até porque a ausência de internação hospitalar ou regime ambulatorial, além de resultar em tratamento mais humanizado ao paciente, é menos oneroso à fornecedora do serviço - Não se pode opor a vigente Resolução Normativa RN n. 465/2021 da ANS naquilo em que viola a Lei n. 8.078/90 (Súmula 608 STJ) quanto à devida prestação dos serviços contratados, a não ser que a Operadora demonstre que existe, para a cura ou atendimento do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol, consoante entendimento dos EREsp 1886929 e EREsp 1889704 - Dano moral - Negativa fundada em cláusula contratual - Controvérsia que obsta a caracterização de dano moral - Recurso provido em parte" (e-STJ fls. 588/596).
+No recurso especial, a recorrente alega, em síntese, que o medicamento pleiteado nos presentes autos - Enoxaparina 40mg, de uso domiciliar - não está descrito no rol da Agência Nacional de Saúde Suplementar, situação a afastar a obrigatoriedade de custeio, em consonância com o disposto nos artigos 10, inciso VI e § 4º, e 35-F da Lei nº 9.656/1998, tidos por violados.
+Defende afronta aos artigos 51, incisos VI e 54, § 4, do Código de Defesa do Consumidor, porquanto lícita a limitação contratual estabelecida.
+Sem contrarrazões (e-STJ fl. 613).
+É o relatório.
+DECIDO.
+A insurgência merece prosperar.
+A questão controvertida devolvida a este Tribunal é definir se o medicamento - Enoxaparina 40mg, de uso domiciliar - deve ser custeado pelo plano de saúde para tratamento de trombofilia diagnosticada durante a gestação da beneficiária.
+Quanto ao tema, a jurisprudência do Superior Tribunal de Justiça assentou-se no sentido de ser lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, ou seja, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, exceto os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e aqueles incluídos no rol da ANS para esse fim.
+A propósito:
+"AGR AVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. 1. PEDIDO DE JUSTIÇA GRATUITA NO AGRAVO INTERNO. SEM PROVEITO PARA A PARTE, PORQUANTO, AINDA QUE DEFERIDO, NÃO PRODUZ EFEITOS RETROATIVOS. 2. MEDICAMENTO DE USO DOMICILIAR QUE NÃO SE ENQUADRA EM NENHUMA DAS SITUAÇÕES ESPECIAIS QUE OBRIGAM O FORNECIMENTO. RECUSA DA OPERADORA QUE SE REVELA JUSTIFICADA. 3. AGRAVO INTERNO IMPROVIDO.
+1. O pedido de gratuidade de justiça formulado nesta fase recursal não tem proveito para a parte, porque o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, conquanto fosse deferido, não produziria efeitos retroativos. Precedentes.
+2. Com efeito, as Turmas que compõem a Segunda Seção do STJ, possuem o entendimento segundo o qual "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim" (AgInt no AgInt nos EDcl no REsp n. 1.964.771/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022).
+3. Agravo interno improvido."
+(AgInt no REsp 2.141.518/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO. USO DOMICILIAR. NÃO DEMONSTRAÇÃO NOS AUTOS. RECUSA DE COBERTURA INDEVIDA. AGRAVO INTERNO PROVIDO.
+1. Na saúde suplementar, é lícita a exclusão do fornecimento de medicamentos prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde (tratamento domiciliar), salvo os antineoplásicos orais, a medicação assistida (home care) e os incluídos no rol da ANS para esse fim.
+2. O medicamento de uso domiciliar refere-se ao fármaco ministrado fora do ambiente ambulatorial ou hospitalar.
+3. Na hipótese em que não se evidencia o uso especificamente domiciliar de medicamento, é indevida a recusa de cobertura pelo plano de saúde.
+4. Agravo interno provido."
+(AgInt no REsp 1.989.664/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 26/8/2024, DJe de 28/8/2024).
+Na hipótese vertente, repisa-se que o Tribunal de origem esclareceu que a paciente foi diagnosticada com trombofilia. Assim, o supracitado medicamento não se enquadra como neoplásico e é autoadministrado pela paciente em seu domicílio, não exigindo, por conseguinte, a intervenção de profissional de saúde habilitado.
+Configura-se  lícita, portanto,  a  recusa  da  operadora  do  plano  de  saúde  em  custear  o  medicamento  requerido  pela  autora.
+Ante o exposto, dou provimento ao recurso especial para julgar improcedentes os pedidos formulados na petição inicial .
+Em consequência, condeno a parte autora ao pagamento das custas e honorários sucumbenciais, os quais arbitro em 10% (dez por cento) sobre o valor atualizado da causa, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
