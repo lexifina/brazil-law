@@ -1,0 +1,21 @@
+DECISÃO
+O presente writ, impetrado em benefício de MARCELO CUSTODIO PEREIRA DA SILVA - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0047154-07.2012.8.26.0224) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta ao paciente pelo Juízo de Direito da 4ª Vara Criminal da comarca de Guarulhos/SP, para a incidência do redutor do tráfico privilegiado e fixação de regime inicial de cumprimento de pena mais benéfico, ao argumento de que a qualidade das drogas apreendidas jamais poderia ensejar o afastamento do redutor e que, ao ser fixada a pena-base em seu mínimo legal e reconhecidas favoráveis as circunstâncias judiciais, incabível a imposição de regime prisional mais gravoso (fls. 3/7).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as instâncias ordinárias afastaram o redutor em razão da existência de elementos que denotam que o paciente se dedicava a atividades criminosas.
+Ao fundamentar o acórdão, assim decidiu o Tribunal local (fls. 141/143 - grifo nosso):
+ ..
+Na terceira fase, não era mesmo o caso de se aplicar o redutor do tráfico privilegiado, considerando as circunstâncias do caso concreto, notadamente a notícia anônima do envolvimento do réu com tráfico e crimes patrimoniais, a qualidade de drogas apreendidas (maconha e cocaína), a apreensão de arma, de munições e anotações típicas do tráfico de drogas, tudo a indicar que MARCELO não se trata de "traficante de primeira viagem", mas sim de pessoa que vinha se dedicando sistematicamente às atividades criminosas.
+ ..
+Em seguida, impossível a substituição da reprimenda privativa de liberdade por restritivas de direitos ou a concessão do sursis, haja vista que não preenchidos os requisitos objetivos dos artigos 44, inciso I, e 77, caput, ambos do Código Penal.
+Finalmente, correta a estipulação da modalidade prisional fechada, considerando não só o quantum de pena imposto, mas também por guardar plena sintonia com a gravidade do caso concreto, a quantidade de droga apreendida, e, ainda, com as seríssimas consequências deste delito.
+ ..
+A combinação de elementos concretos dos autos, consistentes na apreensão de arma, munições e anotações típicas da traficância, são circunstâncias capazes de denotar a dedicação a atividades criminosas (Precedentes) - (HC n. 396.926/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/8/2017).
+Assim, a despeito das alegações da impetrante, o redutor foi afastado não apenas em razão da qualidade das drogas, mas sim pela soma de todos os elementos já mencionados, o que está em consonância com a jurisprudência desta Corte.
+Ademais, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do habeas corpus.
+Por fim, quanto à fixação regime inicial de cumprimento de pena mais benéfico, também sem razão a impetrante. O acórdão impugnado fixou o regime inicial fechado tendo como fundamento a gravidade concreta do delito que, in casu, foi justificada pela apreensão de arma e munições, além de anotações indicando que o paciente se dedicava a atividades criminosas.
+No mais, é firme o entendimento desta Corte Superior a respeito da possibilidade de imposição de regime mais gravoso de cumprimento de pena com fundamento na gravidade concreta do delito, como ocorreu na hipótese dos autos. A propósito, confiram-se os seguintes precedentes: AgRg no HC n. 819.595/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/8/2023; e HC n. 603.600/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2020.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS (APREENSÃO DE ARMA, MUNIÇÕES E ANOTAÇÕES TÍPICAS DO TRÁFICO ILÍCITO). CONSTRANGIMENTO ILEGAL. AUSÊNCIA. ABRANDAMENTO DO REGIME PRISIONAL. IMPOSSIBILIDADE.
+Ordem denegada.
