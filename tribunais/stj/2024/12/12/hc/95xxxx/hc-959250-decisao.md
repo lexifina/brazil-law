@@ -1,0 +1,21 @@
+DECISÃO
+MARCELO ANDRADE alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação Criminal n. 816.600-3).
+A defesa busca a absolvição do réu e o redimensionamento da condenação, aos argumentos de que a decisão proferida pelo Conselho de Sentença se deu com base exclusivamente em elementos contidos no inquérito policial e de que a pena-base é desproporcional.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Este habeas corpus foi impetrado em 5/11/2024 e se insurge contra acórdão de apelação proferido em 12/6/2012 e transitado em julgado em 17/9/2012 (fl. 851). Cerca de 12 anos depois do trânsito em julgado da condenação, a defesa impetrou este writ, que é, portanto, substitutivo de revisão criminal.
+Chama a atenção, também, que, em 7/6/204, o mesmo advogado impetrou anteriormente o HC n. 919.987/PR, contra o mesmo acórdão ora recorrido e com idêntico pedido de absolvição.
+A referida impetração não foi conhecida pelos seguintes fundamentos (fls. 1.041-1.043 daqueles autos):
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+No caso em apreço, não há evidências de que a defesa haja solicitado ao Tribunal de Justiça a revisão de condenação.
+Sem existir acórdão sobre essa questão, é incabível eventual constatação de manifesta ilegalidade em seu conteúdo.
+Assim, não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP). Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..
+(AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Pelos mesmos fundamentos, este habeas corpus também não merece conhecimento.
+À vista do exposto, não conheço do habeas corpus não conheço do habeas corpus, não sem lamentar a falta de cooperação da parte quanto à economia processual que há de nortear a atuação de todos os sujeitos processuais, máxime em um quadro de hiperjudicialização dos conflitos, a abarrotar os escaninhos (físicos ou eletrônicos) dos tribunais.
+Publique-se e intimem-se.
+EMENTA
