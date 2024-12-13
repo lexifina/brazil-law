@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de PAOLO GERALDO DA ROCHA NUNES DE ARAUJO - condenado como incurso nos crimes de homicídio qualificado, por três vezes, e organização criminosa -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Recurso em Sentido Estrito n. 0035230-63.2020.8.06.0001), não comporta conhecimento.
+Com efeito, a defesa alega a ocorrência de: 1) nulidade processual decorrente da obtenção de provas por meio de coação policial; 2) vício procedimental decorrente da ausência de perícia técnica no local do crime; e 3) ausência de provas da autoria delitiva quanto ao ora paciente.
+Inicialmente, entendo que a análise dos pleitos defensivos esbarra na deficiência da instrução dos autos, uma vez que, tendo sido indicado o recurso em sentido estrito (RESE n. 0035230-63.2020.8.06.0001) como ato coator, a juntada da decisão de pronúncia seria imprescindível, por se tratar de documento essencial para a adequada apreciação da controvérsia.
+Em destaque, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante.
+Por outro lado, a nulidade processual decorrente da obtenção de provas por meio de coação policial e o vício procedimental decorrente da ausência de perícia técnica no local do crime nem sequer foram debatidos pela Corte estadual no RESE n. 0035230-63.2020.8.06.0001, de forma que a revisão por este Superior Tribunal configuraria indevida supressão de instância.
+P or fim, no que se refere ao pedido de reconhecimento de ausência de provas da autoria delitiva a fim de consubstanciar a sentença de pronúncia, verifico que tal pleito perdeu o objeto diante da sentença condenatória proferida pelo Tribunal do Júri. Ao revés, caso o intuito da defesa fosse o reconhecimento da ausência de provas para a condenação, vê-se que tal argumento não foi levado a julgamento perante a Corte a quo, o que torna impossível sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO, POR TRÊS VEZES, E ORGANIZAÇÃO CRIMINOSA. NULIDADES. INSTRUÇÃO DEFICIENTE. DEBATE DA QUESTÃO PELA CORTE ESTADUAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
