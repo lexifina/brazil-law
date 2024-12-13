@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de tutela cautelar em caráter antecedente proposta em face da "omissão pelo Juízo Relator da 3ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, o Des. Kleber Leyser de Aquino, que, até a data de hoje, contadas 02 semanas (ou 10 dias úteis) da conclusão, não apreciou o pedido liminar formulado nos autos do agravo de instrumento nº 2361175- 48.2024.8.26.0000, cujo objeto consiste na concessão do efeito ativo ao referido recurso, de modo a viabilizar o trâmite na primeira instância" (fl. 3).
+A peticionária, ESPAÇO SOLIDÁRIO ASSOCIAÇÃO ASSISTENCIAL busca, assim, a "atribuição de efeito ativo ao recurso de agravo de instrumento na origem, de modo a dar sequência à tramitação no primeiro grau (instância em que pende de apreciação um pedido de tutela cautelar requerida em caráter antecedente relacionado ao repasse das verbas)" (fl. 5).
+É o relatório. Decido.
+De plano, ressai manifesta a incompetência do Superior Tribunal de Justiça para conhecer da presente medida acautelatória, inequivocamente prematura.
+Com efeito, nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento de eventual recurso especial pelo tribunal de origem.
+O STJ admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, D Je de 3/8/2020).
+No caso em tela, não foi interposto recurso especial nem sequer houve exaurimento da instância ordinária, na medida em que o Tribunal de origem ainda não apreciou o pedido de efeito suspensivo ao Agravo de Instrumento, sendo certo que não foi verificada qualquer ilegalidade na decisão recorrida, motivo pelo qual, conforme preceituam as súmulas mencionadas do STF, não é competente o STJ para processar o pedido de tutela provisória.
+Ante o exposto, não conheço da presente tutela antecipada antecedente.
+Publique-se. Intimem-se.
+EMENTA
