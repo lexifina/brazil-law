@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DA EXECUÇÃO. CABIMENTO. INTERVENÇÃO NA ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. ART. 6º DA LEI N.º 6.024/74.
+Da suspensão do curso do cumprimento de sentença
+1. Preambularmente, é oportuno destacar que o art. 44 da Lei Complementar n.º 109/01 estabelece que poderá ser decretada a intervenção na entidade de previdência complementar para resguardar os direitos dos participantes, desde que preenchidos determinados requisitos.
+2. Verifica-se que a entidade em tela sofreu intervenção pela Superintendência de Seguros Privados - SUSEP, conforme a portaria 6.419, de 17/12/2015, publicada no Diário Oficial da União em 18/12/2015 - fl. 26 - Seção 02.
+3. Dessa forma, em tendo sido decretada a intervenção pela SUSEP, aplicável ao caso em análise as disposições do art. 6º da Lei n.º 6.024/74, que estabelece a suspensão do curso do feito nesta hipótese.
+Dado parcial provimento ao agravo de instrumento.
+Embargos de declaração rejeitados (fls. 229-237).
+Nas razões do especial, sustentou a ora agravante, em suma, violação aos artigos 49, 62 da Lei Complementar 109/2001; 6º e 18 da Lei nº 6.024/74, sob o argumento de que não se aplica às entidades de previdência privada somente as disposições cabíveis da intervenção e liquidação extrajudicial das instituições financeiras.
+Assim delimitada a questão, observo que, nos termos dos artigos 6º da Lei nº 6.024/1974 e 45 da LC nº 109/2001, respectivamente, "a intervenção produzirá, desde sua decretação, (..) a suspensão da exigibilidade das obrigações vencidas", sendo "decretada pelo prazo necessário ao exame da situação da entidade e encaminhamento de plano destinado à sua recuperação".
+Diante disso, a despeito de a agravante afirmar não se aplicar às entidades de previdência privada as regras da Lei nº 6.024/74 que dispõem sobre a intervenção e a liquidação extrajudicial de instituições financeiras, o certo é que a Lei Complementar 109/2001, em seu artigo 62, faz menção expressa à aplicação das normas referentes àquela lei às intervenções das entidades de previdência complementar, sendo assente perante este Superior Tribunal de Justiça, ao examinar hipóteses absolutamente idênticas, que não há incompatibilidade alguma na determinação de suspensão da fase executiva em razão da decretação de intervenção em entidade de previdência privada.
+Nesse sentido:
+EMPRESARIAL. AGRAVO INTERNO NO RECURSO ESPECIAL. INSTITUTO DE
+PREVIDÊNCIA PRIVADA COMPLEMENTAR. DECRETAÇÃO DE INTERVENÇÃO FEDERAL.
+SUSPENSÃO DAS AÇÕES E EXECUÇÕES REFERENTES AOS DIREITOS E INTERESSES REFERENTES AO ACERVO DA ENTIDADE. PRECEDENTES ESPECÍFICO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Terceira Turma firmou o entendimento no sentido de que, não havendo a demonstração de ilegalidade na sucessiva prorrogação da intervenção federal em instituto de previdência privada complementar, é perfeitamente aplicável o art. 6º da Lei n.º 6.024/74, devendo, assim, ser suspensa a exigibilidade das obrigações vencidas e, por consectário lógico, deve ocorrer a suspensão do andamento das execuções em curso.
+2. Agravo interno não provido.
+(AgInt no RESP 2.028279/SP, Terceira Turma, Relator Ministro Moura Ribeiro, DJ 4.10.2023)
+AGRAVO INTERNO. PREVIDÊNCIA COMPLEMENTAR. PROCESSUAL CIVIL. PLANO DE BENEFÍCIOS DA ENTIDADE PORTUS. INTERVENÇÃO E LIQUIDAÇÃO DE ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. INSTITUTOS DIVERSOS. A DECRETAÇÃO DA LIQUIDAÇÃO EXTRAJUDICIAL DA ENTIDADE DE PREVIDÊNCIA PRIVADA OU DE PLANO DE BENEFÍCIOS IMPLICA SUSPENSÃO DAS AÇÕES E EXECUÇÕES
+INICIADAS SOBRE DIREITOS E INTERESSES RELATIVOS AO ACERVO E
+VENCIMENTO ANTECIPADO DAS OBRIGAÇÕES. MERA INTERVENÇÃO.
+SOBRESTAMENTO DA EXECUÇÃO POR PRAZO ILIMITADO. DESARRAZOABILIDADE.
+1. No caso, consta dos autos que: a) A autarquia federal Superintendência Nacional de previdência Complementar, em 22 de agosto de 2011, decretou a intervenção federal, em ato administrativo (portaria) que desde então vem sendo renovado; b) A entidade previdenciária, ora recorrente, que administra um único plano de benefícios, depositou em Juízo o crédito incontroverso dos recorridos e ofereceu impugnação, em outubro de 2007, afirmando excesso de execução - antes da decretação da intervenção.
+2. Conforme precedentes das duas Turmas de direito privado do STJ, a teor do art. 49, I, da Lei Complementar n. 109, a decretação da liquidação extrajudicial é que produzirá, de imediato, o efeito de suspender "ações e execuções iniciadas sobre direitos e interesses relativos ao acervo da entidade liquidanda".
+3. No caso, houve "apenas" decretação de intervenção que, como admitido pela própria recorrente no recurso especial, é situação regida pelo art. 62 da Lei Complementar n. 109/2001, estabelecendo que aplicam-se à intervenção e à liquidação das entidades de previdência complementar, no que couber, os dispositivos da legislação sobre a intervenção e liquidação extrajudicial das instituições financeiras, cabendo ao órgão regulador e fiscalizador as funções atribuídas ao Banco Central do Brasil.
+4. Por um lado, após a interposição do recurso especial, a entidade previdenciária, como reconhecido no presente recurso, celebrou, no ano de 2020, acordo mediado pela Câmara de Conciliação da Administração Federal (CCAF) da Advocacia-Geral da União (AGU) para equacionamento da solvência do único plano de benefícios administrado, a indicar a perda do objeto do recurso especial. Por outro lado, ainda que assim não fosse, a questão recairia no óbice da Súmula 7/STJ, pois a Corte local, desde o já distante ano de 2016, entendeu que, no caso concreto, não seria justificável manter sobrestada a execução, e também pontuando que, mesmo aplicando a Lei n. 6.024/1974, invocada pela agravante, não poderia haver a suspensão da exigibilidade das obrigações por tempo indeterminado, mas apenas durante o período de intervenção que "não excederá a seis meses o qual, por decisão do Banco Central do Brasil, poderá prorrogado uma única vez, até o máximo de outros seis meses" (artigo 4º da Lei número 6.024/74)"; "todavia, a intervenção tinha sido decretada "em 22 de agosto de 2011 (fls.09), o que impossibilita o acolhimento do pedido, em razão da superação do período anual de suspensão (máximo) e da impossibilidade de conceder à Executada privilégio não previsto na norma de extensão".
+5. Agravo interno não provido.
+(AgInt no RESP 1.631.261/SP Quarta Turma, Relator Ministro Luis Felipe Salomão, DJ 27.5.2022)
+Tem aplicação, pois, a Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
