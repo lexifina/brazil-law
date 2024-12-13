@@ -1,0 +1,52 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE BOM CONSELHO contra acórdão prolatado, por unanimidade, pela 2ª Câmara Regional de Caruaru do Tribunal de Justiça do Estado de Pernambuco no julgamento de Apelação, assim ementado (fl. 436e):
+APELAÇÃO CÍVEL. AÇÃO POPULAR. PRELIMINAR PERDA DO OBJETO. AFASTADA. DECLARAÇÃO INCONSTITUCIONALIDADE. CAUSA PEDIR. SUSPENSÃO EFICÁCIA ATO NORMATIVO E DE SEUS EFEITOS FINANCEIROS. PEDIDO PRINCIPAL. AUMENTO SUBSÍDIOS AGENTES EXECUTIVO MUNICIPAL. ALTERAÇÃO DENTRO DO LAPSO TEMPORAL VEDADO PELA LRF. IMPOSSIBILIDADE. APELO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 462/467e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos arts. 373, I, 489, § 1º, IV, 1.013, e 1.022, II, do Código de Processo Civil, alegando-se, em síntese, que o tribunal de origem quedou-se omisso acerca das questões suscitadas em embargos de declaração opostos em face do acórdão recorrido.
+Sustenta-se, ademais, a inadequação da via eleita, bem como a inaplicabilidade do art. 21, parágrafo único, da Lei de Responsabilidade Fiscal à fixação dos subsídios de agentes políticos municipais.
+Sem contrarrazões (certidão de fl. 504e), o recurso foi inadmitido (fls. 505/511e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 542e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 549/555e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+De pronto, verifico não ser possível conhecer da suscitada violação ao art. 1.022 do Código de Processo Civil, porquanto o recurso, nessa extensão, cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual a importância do vício integrativo a inquinar o acórdão recorrido para o deslinde da controvérsia, atraindo o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte, como espelha o julgado assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETENCIA. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE ARGUMENTAÇÃO. NÃO CONHECIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/2015 devem ser exigidos os requisitos de admissibilidade na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Na espécie, verifica-se que o embargante não apontou concretamente quaisquer dos vícios autorizadores da oposição do recurso manejado, tampouco acerca do dever de motivação das decisões judiciais, sem fazer qualquer correlação com o caso concreto, tampouco com o acórdão embargado.
+4. Com efeito, mostra-se deficiente a argumentação recursal em que a alegação de ofensa aos arts. 1.022, II, parágrafo único, II c/c art. 489, § 1º, IV se faz de forma genérica, dissociada dos fundamentos da decisão embargada, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. A ausência de tal demonstração enseja juízo negativo de admissibilidade dos embargos de declaratórios, uma vez desatendido o disposto no art. 1.023 do CPC, além de comprometer a compreensão da exata controvérsia a ser dirimida com o oferecimento dos aclaratórios, o que atrai a incidência da Súmula n. 284 do STF.
+5. Embargos de declaração não conhecidos.
+(EDcl no AgInt no CC n. 187.144/DF, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, j. 12.12.2023, DJe de 15.12.2023 - destaque meu).
+Quanto às demais alegações, concernentes à aplicabilidade da Lei Complementar n. 101/2000 à fixação de subsídios de agentes políticos municipais, observo não haver firme indicação, pelo Recorrente, de qual seria o dispositivo de lei federal violado pelo acórdão recorrido, atraindo a incidência, por analogia, do óbice contido na Súmula n. 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. DISPOSITIVO DE LEI VIOLADO. INDICAÇÃO. SÚMULA 284. NÃO INCIDÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A Súmula 284 do STF é aplicada quando houver deficiência na fundamentação que comprometa a análise do julgado, como, por exemplo, quando a parte não indica ou faz mera citação ao dispositivo legal sem qualquer demonstração.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.906.293/RS, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12.04.2021, DJe de 05.05.2021 - destaque meu).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. CUMULAÇÃO DE PENSÃO POR MORTE E AUXÍLIO RECLUSÃO. IMPOSSIBILIDADE. TEMA N. 896/STJ. INAPLICABILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. FUNDAMENTAÇÃO SUFICIENTE DO TRIBUNAL DE ORIGEM. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+III - Ademais, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF.
+ ..
+VI - Agravo interno improvido.
+(AgInt no REsp n. 2.075.044/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04.12.2023, DJe de 06.12.2023 - destaque meu).
+Além disso, o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto a parte recorrente deixou de proceder ao cotejo analítico entre os acórdãos confrontados, a fim de demonstrar a identidade de situações fático-jurídicas idênticas e a adoção de conclusões discrepantes.
+Com efeito, nos moldes dos arts. 1.029, § 1º, do Código de Processo Civil, e 255, §§ 1º e 2º, do Regimento Interno desta Corte, deve o Recorrente transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Na mesma linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRABALHO. AGENTE PENITENCIÁRIO BALEADO. PARAPLEGIA. INDENIZAÇÃO POR DANOS MORAIS E DANOS ESTÉTICOS. VALOR INDENIZATÓRIO. MODIFICAÇÃO DAS PREMISSAS DO JULGADO A QUO. CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO ADEQUADA. NECESSIDADE.
+1. O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ. Isso porque a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+Note-se que a mera transcrição de ementas de arestos não satisfaz essa exigência.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.485.481/SP, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 12.08.2024, DJe de 15.08.2024 - destaques meus).
+PROCESSUAL CIVIL. NA ORIGEM TRATA-SE DE TRIBUTÁRIO. CONTRIBUIÇÃO DE TERCEIROS. SALARIO-EDUCAÇAO (FNDE). PRODUTOR RURAL PESSOA FÍSICA. INSCRIÇÃO NO CNPJ. CONCEITO AMPLO DE EMPRESA. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+ ..
+V - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp n. 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp n. 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp n. 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 2.626.433/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07.10.2024, DJe de 09.10.2024 - destaque meu).
+Por fim, à vista do não conhecimento do presente recurso, e nos termos do art. 85, §§ 2º e 11, do estatuto processual de 2015, de rigor a majoração dos honorários anteriormente fixados em 10% (dez por cento; fl. 370e), para 12% (doze por cento) sobre o valor da causa.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
