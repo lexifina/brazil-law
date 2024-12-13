@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JAIME DAL BEM DE BARROS FILHO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DIREITO DE VIZINHANÇA - OBRIGAÇÃO DE NÃO FAZER C.C. PEDIDOS INDENIZATÓRIO MORAL  PROCEDÊNCIA DA AÇÃO - APELAÇÃO DO RÉU COM PEDIDO DE GRATUIDADE JUDICIÁRIA APRESENTADO NAS RAZÕES RECURSAIS E INDEFERIDO PRELIMINARMENTE, COM DETERMINAÇÃO PARA RECOLHIMENTO DAS CUSTAS DEVIDAS - PREPARO NÃO RECOLHIDO  DESERÇÃO CARACTERIZADA - RECURSO NÃO CONHECIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 489, § 1º, do CPC, no que concerne à ausência de fundamentação da decisão recorrida, trazendo a seguinte argumentação:
+Este fato foi apresentado, porém, o v. Acórdão deixou de considera-lo, ocorrendo ofensa ao art. 489, § 1º, do CPC, o qual menciona que:
+Art. 489. São elementos essenciais da sentença:
+I - o relatório, que conterá os nomes das partes, a identificação do caso, com a suma do pedido e da contestação, e o registro das principais ocorrências havidas no andamento do processo;
+ ..
+É o que houve no presente caso, pois, a r. decisão deixou de fundamentar o motivo do não acolhimento do pedido de justiça gratuita e principalmente.
+II - os fundamentos, em que o juiz analisará as questões de fato e de direito;
+III - o dispositivo, em que o juiz resolverá as questões principais que as partes lhe submeterem.
+O fundamento ou fundamentação da decisão proferida é requisito indispensável para sua validade, sob pena de error in procedendo, ou seja, sua falta implica em nulidade do julgado (fls. 325-327).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte aduz ofensa ao art. 99, § 2º, do CPC, no que concerne à necessidade de concessão da gratuidade de justiça, tendo em vista que não foi oportunizado à recorrente prazo para demonstrar a sua condição de hipossuficiência, trazendo a seguinte argumentação:
+Ao receber o recurso interposto, a r. decisão recorrida denegou provimento ao recurso, porém, não acolheu o pedido de justiça gratuita e sequer oportunizou prazo ou tempo hábil para a Recorrente demonstrar sua condição de hipossuficiente economicamente.
+Desta forma, a r. decisão monocrática ofende o art. 99, § 2º, do CPC:
+Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos (fls. 325).
+Quanto à terceira controvérsia, pela alínea "a" do permissivo constitucional, a parte aduz ofensa ao art. 99, § 3º, do CPC, no que concerne à presunção de veracidade da declaração de hipossuficiência apresentada pelo recorrente, trazendo a seguinte argumentação:
+Ademais, deve-se ressaltar a existência de elementos concretos nos autos que comprovem a incapacidade financeiras do Recorrente para arcar com as custas processuais. A alegação de insuficiência de recursos, neste contesto, deveria ser suficiente para a concessão da gratuidade da justiça, conforme a presunção de miserabilidade prevista na legislação.
+Há no v. Acórdão, inobserv ância do Art. 99, § 3º do CPC, que carece de fundamentação detalhada para negação do benefício da justiça gratuita. A decisão deveria ter se baseado em análise aprofundada da situação financeira atual do recorrente, considerando todos os aspectos relevantes, como liquidez dos bens, despesas correntes e outras obrigações financeiras (fl. 326).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Quanto à segunda e terceira controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
