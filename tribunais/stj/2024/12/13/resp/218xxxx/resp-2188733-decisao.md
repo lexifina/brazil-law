@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO da decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu o recurso especial dirigido contra o acórdão assim ementado (fl. 75):
+AGRAVO DE INSTRUMENTO. MEIO AMBIENTE. CUMPRIMENTO DE SENTENÇA. De acordo com o posicionamento do E. STJ, tendo havido o trânsito em julgado do título exequendo, com base na Lei nº 4.771/65, descabe a retroatividade dos dispositivos da Lei nº 12.651/12 (novo Código Florestal), em reverência à imutabilidade das situações jurídicas consolidadas e prestígio à tutela ambiental mais ampla, aplicada de acordo com o "tempus regit actum". Por outro lado, o C. STF ressalvou, em determinadas hipóteses, a eficácia retroativa da Lei 12.651/2012, mesmo em relação a situações consolidadas, diante da possibilidade de regularização ambiental de imóveis rurais, a partir das novas disposições do Código Florestal de 2012 (e não a partir da legislação vigente na data dos ilícitos ambientais). Esse é justamente um dos pontos declarados constitucionais nos julgamentos das ADC 42, ADI 4.901, ADI 4.902, ADI 4.903 e ADI 4.937. No presente caso, os executados, ora agravantes, demonstraram a regularização do imóvel em comento, à luz das novas disposições do Código Florestal de 2012, porque a área objeto da lide deixou de ser considerada Área de Preservação Permanente (APP), não remanescendo dano ambiental a ser reparado, como constatado no âmbito administrativo. Ainda que se possa argumentar pela independência entre a esfera administrativa e a judicial, a execução do presente título judicial se mostra prejudicada. Decisão reformada, para se decretar a extinção do cumprimento de sentença relativo aos autos do Processo n. 0015526-33.2008.8.26.0032. AGRAVO PROVIDO.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 107-112).
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a parte ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 8º, 487, inciso I, 489, inciso II e § 1º, incisos III, IV, V e VI, e § 3º, 502, 927, § 1º, 932, inciso III, 1.013, §§ 1º, 2º e 3º, inciso I, 1.022 e 1.025, do CPC; 6º da LINDB; 3º, inciso IV, 4º, incisos VI e VII, e 14, § 1º, da Lei n. 6.938/1981; 25 da Lei n. 8.625/1993; e 1.228, § 1º, do CC.
+Contrarrazões às fls. 179-182.
+Não admitido o recurso pelo Tribunal de origem (fls. 183-185), seguiu-se o presente agravo em recurso especial (fls. 192-210).
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 228-233).
+É o relatório.
+Decido.
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Ante o exposto, DOU PROVIMENTO ao agravo, convertendo-o em recurso especial, sem prejuízo da aferição dos respectivos requisitos de admissibilidade a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
