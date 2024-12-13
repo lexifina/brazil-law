@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ZANDRO GONCALVES MORAES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ no julgamento do Habeas Corpus Criminal n. 0809386-20.2024.8.14.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 7/3/2024, posteriormente convertido em prisão preventiva, e restou denunciado pela suposta prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006. Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 91):
+"HABEAS CORPUS LIBERATÓRIO. TRÁFICO DE DROGAS. PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA ESPECÍFICA. ALTA QUANTIDADE DE ENTORPECENTE APREENDIDA. GRAVIDADE EM CONCRETO. AUSÊNCIA DE ILEGALIDADE. PRISÃO MANTIDA. PRECEDENTES DO STJ. ORDEM DENEGADA."
+Nas razões do presente recurso, sustenta que não foi apresentada fundamentação idônea para a manutenção da segregação cautelar do paciente, a qual estaria baseada na gravidade abstrata do delito, reputando ausentes os requisitos autorizadores da constrição antecipada, elencados no art. 312 do Código de Processo Penal - CPP.
+Alega que o Tribunal Estadual teria inovado na motivação apresentada para a manutenção da custódia preventiva, tendo em vista que a reincidência específica do paciente não constava do decreto preventivo.
+Ressalta as condições pessoais favoráveis do acusado e a possibilidade de aplicação das medidas cautelares alternativas ao cárcere na hipótese dos autos.
+Requer, em liminar e no mérito, o provimento do recurso para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+A liminar foi indeferida às fls. 118/119. Informações prestadas às fls. 125/135 e 136/548. O Ministério Público Federal - MPF opinou pelo desprovimento do recurso às fls. 552/556.
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente recurso, a revogação da custódia cautelar imposta ao recorrente.
+Verifica-se que o Magistrado de primeiro grau converteu a prisão em flagrante do acusado em preventiva, consignando o seguinte:
+"Nos termos do art. 312 do CPP, "a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado".
+A existência dos possíveis crimes e os indícios de autoria se mostram presentes, de acordo com os elementos que constam dos autos de prisão em flagrante, em especial pelos depoimentos prestados, auto de apreensão e laudo da droga.
+Quanto ao perigo gerado pelo estado de liberdade, observa-se a necessidade de assegurar a garantia da ordem pública, tendo em vista a gravidade em concreto do delito imputado aos autuados, considerando que se apura a prática de tráfico de entorpecentes, situação na qual os autuados foram presos com 61 quilos de cloridato de cocaína e 6 quilos de Skunk/Maconha no interior do ônibus de transporte intermunicipal da empresa Guanabara, oriundo da cidade de Belém/PA com destino a Recife/PE.
+Com efeito, embora primários e de bons antecedentes, os elementos objetivos e concretos denotam o risco da liberdade dos custodiados, uma vez que a trama criminosa, em tese, envolveu agentes criminosos no Estado do Pernambuco e no Estado do Pará, onde, em tese, as drogas foram despachadas com destino a cidade de Recife.
+Outrossim, a quantidade de drogas apreendidas (aproximadamente setenta quilos), embora a jurisprudência indique não ser este elemento, por si só, suficiente para justificar a segregação, pode ser sopesado com outros elementos indiciários e informativos colhidos e juntados nos autos, a demonstrar que a liberdade dos investigados, neste momento, impõe sério risco à ordem pública.
+Evidente, portanto, que nesta etapa da persecução, a aplicação de medidas cautelares diversas da prisão não se mostram suficientes para vincular a custodiada ao processo, nem para resguardar a ordem pública.de sua liberdade individual para garantia da ordem publico" (fl. 27).
+A referida segregação antecipada foi mantida pelo Tribunal de origem, nos seguintes termos:
+"Confirmando o que já foi apreciado na decisão monocrática, verifico que a manutenção da prisão decretada ocorreu dentro da normalidade e de acordo com as previsões legais, não havendo traços de generalidade ou inépcia caracterizada, vez que delimitadas as condições fáticas e pessoais que ensejaram a constrição de liberdade do paciente.
+Ademais, trata-se de reincidente específico, haja vista que ZANDRO já respondeu anteriormente pelo cometimento do crime de tráfico de drogas, o que evidencia a sua contumácia delitiva (ID 19967860).
+Não obstante, a vultosa quantidade de entorpecente apreendido - somada às demais razões, apenas sustenta a manutenção da cautelar máxima pela gravidade concreta da conduta perpetrada. Anoto especial trecho da decisão ora impugnada:
+Quanto ao perigo gerado pelo estado de liberdade, observa-se a necessidade de assegurar a garantia da ordem pública, tendo em vista a gravidade em concreto do delito imputado aos autuados, considerando que se apura a prática de tráfico de entorpecentes, situação na qual os autuados foram presos com 61 quilos de cloridrato de cocaína e 6 quilos de Skunk/Maconha no interior do ônibus de transporte intermunicipal da empresa Guanabara, oriundo da cidade de Belém/PA com destino a Recife/PE." (fl. 95).
+O Superior Tribunal de Justiça - STJ firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo sido demonstrada pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade do recorrente, evidenciadas pela elevada quantidade, variedade e natureza das drogas localizadas - 61kg de cloridrato de cocaína e 6kg de skunk -, o que, somado ao fato de os entorpecentes terem sido apreendidos no interior de um ônibus de transporte coletivo interestadual, oriundo da cidade de Belém/PA com destino a Recife/PE, demonstra maior envolvimento com o narcotráfico e risco ao meio social.
+Ademais, a prisão do recorrente também se justifica para evitar a reiteração na prática delitiva, uma vez que é reincidente específico.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação. A propósito, vejam-se os seguintes precedentes:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. AGRAVO DES PROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, mantendo a prisão preventiva do agravante pelo delito de tráfico de drogas.
+2. Fato relevante. O agravante foi preso em flagrante com 303,34g de cocaína, e a custódia cautelar foi fundamentada na garantia da ordem pública, conforme art. 312 do CPP.
+II. Questão em discussão3. A questão em discussão consiste em saber se a quantidade de droga apreendida e a gravidade concreta da conduta justificam a manutenção da prisão preventiva do agravante.
+III. Razões de decidir4. A custódia cautelar está devidamente motivada na garantia da ordem pública, dada a gravidade concreta da conduta delitiva.
+5. A quantidade e a diversidade dos entorpecentes encontrados evidenciam a maior reprovabilidade do fato, justificando a prisão preventiva.
+6. Condições pessoais favoráveis do agravante não são suficientes para desconstituir a prisão cautelar quando há elementos que autorizam sua manutenção.
+IV. Dispositivo e tese7. Agravo desprovido.
+Tese de julgamento: "A quantidade e a diversidade dos entorpecentes apreendidos podem fundamentar a prisão preventiva quando evidenciam a maior reprovabilidade do fato e a necessidade de garantia da ordem pública".
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citada: STJ, HC 393.308/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20.03.2018; STJ, HC 425.704/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 27.02.2018;
+STJ, AgRg no RHC 197.192/MG, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 24.09.2024.
+(AgRg no HC n. 950.269/RR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2024, DJe de 3/12/2024.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. GRANDE QUANTIDADE DE DROGA. RISCO DE REITERAÇÃO DELITIVA. AGRAVO DESPROVIDO.
+I. Caso em exame 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso próprio ou revisão criminal, em razão da inadequação da via eleita.
+2. O agravante busca a revogação da prisão preventiva, alegando ausência de fundamentos para a segregação cautelar.
+3. O caso envolve apreensão de mais de 1,5 kg de cocaína, com prisão preventiva decretada para garantia da ordem pública.
+II. Questão em discussão 4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, e se há ilegalidade flagrante que justifique a concessão da ordem de ofício.
+5. Outra questão é a análise da legalidade da prisão preventiva, considerando a gravidade concreta do delito.
+III. Razões de decidir 6. O habeas corpus não é cabível como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+7. A prisão preventiva está fundamentada na garantia da ordem pública, devido à quantidade de droga apreendida e ao risco de reiteração delitiva.
+8. Medidas cautelares alternativas à prisão são inadequadas, dado o risco de influência no processo.
+IV. Dispositivo 9. Agravo regimental desprovido.
+(AgRg no HC n. 940.908/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Ressalto que a presença de condições pessoais favoráveis não impede, por si só, a decretação da prisão preventiva.
+Ademais, o entendimento deste Superior Tribunal de Justiça é no sentido de ser inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. LAVAGEM DE CAPITAIS. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. NÃO PROCEDE A ALEGADA AUSÊNCIA DE CONTEMPORANEIDADE DA MEDIDA CONSTRITIVA DE LIBERDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - No caso em tela, tenho que a prisão preventiva se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerado o fundado receio de reiteração criminosa, haja vista que a conduta, em exame, não é fato isolado na vida do Agravante, constando nos autos, que está no contexto de um grupo sediado na comarca de Coxim/MS, dedicado ao tráfico de drogas; circunstâncias que evidenciam um maior desvalor da conduta e a sua periculosidade, justificando a segregação cautelar imposta.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+IV - A contemporaneidade do decreto de custódia preventiva se verifica da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado.
+V - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no HC n. 849.475/MS, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 23/2/2024. )
+Por fim, quanto à alegação de inovação nos fundamentos do decreto cautelar por parte da Corte a quo, é de se observar que a prisão preventiva do recorrente foi decretada especialmente para garantia da ordem pública, o que restou preservado pelo órgão colegiado, tendo, portanto, a custódia sido mantida pelos mesmos motivos apresentados pelo Magistrado de primeiro grau, não havendo falar em novos fundamentos.
+Além disso, somente se verifica a existência de reformatio in pejus quando, em recurso exclusivo da defesa, o Tribunal promove o agravamento da situação do acusado, o que não se verificou na hipótese dos autos.
+Ante o exposto, nos termos do art. 34, XX, c/c o art. 202, c/c o art. 246, todos do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao presente recurso ordinário em habeas corpus .
+Publique-se.
+Intimem-se.
+EMENTA
