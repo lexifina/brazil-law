@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 137):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A parte agravante alega, em síntese, que, "diversamente do entendimento da r. decisão, a ora Agravante infirmou, especificamente, todos os fundamentos da decisão que não admitiu seu Recurso Especial, dedicando em seu recurso tópicos específicos para tratar da inaplicabilidade do óbice da Súmula nº 7/STJ rebatendo tal fundamento de maneira pormenorizada e devidamente fundamentada, conforme se passa a demonstrar" (fl. 446) e "quanto ao segundo capítulo do Recurso Especial, em que se reclamava, no mérito, a reforma do acórdão de segundo grau, igualmente a ora Agravante impugnou a incidência do óbice da Súmula nº 7/STJ, demonstrando que, quanto às alegações de violação aos artigos 11 e 805 do CPC (matéria distinta da discutida no tópico de anulação do Acórdão por omissão), todas as questões suscitadas no Recurso Especial estavam devidamente delimitadas no Acórdão recorrido, apontando quais são essas questões fáticas delimitadas e demonstrando que delas só se reclamava a requalificação jurídica, permitida por essa Corte Superior (fl. 453).
+Impugnação (fls. 480-483).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, um dos fundamentos da decisão que inadmitiu o recurso na Corte de origem, qual seja, relativo à incidência da Súmula 7/STJ (as razões que levaram a E. Câmara decidir pela manutenção, por ora, da penhora é matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, que não perfaz questão de direito, mas tão somente reanálise fático-probatória, inadequada para interposição de recurso especial).
+Neste agravo interno, a parte agravante não demonstrou ter se insurgido, efetivamente, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada na incid ência do referido óbice.
+À agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Com efeito, a adequada impugnação à Súmula 7/STJ exige da parte que esta desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação jurídica - e aí deve comprovar tal circunstância, não apenas alega-la -, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido - e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+Nesse sentido, são os recentes julgados desta Corte:
+2. Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas
+ ..
+Agravo interno improvido.(AgInt no AREsp n. 2.224.243/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+III. Nos termos da jurisprudência desta Corte, quando o recurso especial não é admitido pelo Tribunal de origem com base na Súmula 7/STJ, é dever da parte agravante demonstrar, no agravo em recurso especial, sob pena de preclusão, que a referida Súmula não se aplica ao caso, evidenciando de que forma a violação aos dispositivos federais, suscitada nas razões recursais, não depende de reanálise do conjunto fático-probatório dos autos - deixando claro, por exemplo, que todos os fatos estão devidamente consignados no acórdão recorrido -, sendo insuficiente a mera alegação no sentido da inaplicabilidade da Súmula 7/STJ ou de que o exame da controvérsia dispensa reexame probatório, por revelar-se como combate genérico e não específico. Ou seja, "Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente" (STJ, AgInt no AREsp 1.160.579/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/04/2018).
+ ..
+V. Agravo interno improvido. (AgInt no AREsp n. 2.584.143/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/10/2024, DJe de 22/10/2024.)
+No caso, a providência não foi observada.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
