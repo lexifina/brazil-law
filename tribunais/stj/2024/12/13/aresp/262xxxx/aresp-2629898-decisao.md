@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por CONTABILIDADE ATUALIZADA LTDA. e outros contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CONTRATO DE CÉDULA DE CRÉDITO BANCÁRIO - EFEITO SUSPENSIVO - INADEQUAÇÃO DA VIA ELEITA - INÉPCIA DA INICIAL - INOCORRÊNCIA - CERCEAMENTO DE DEFESA ANTE O INDEFERIMENTO DE PROVA - NÃO VERIFICAÇÃO - REVISÃO - TAXA DE JUROS FIXADOS DE ACORDO COM A MÉDIA DO MERCADO - AUSÊNCIA DE ABUSIVIDADE - CAPITALIZAÇÃO DE JUROS - UTILIZAÇÃO DA TABELA PRICE - VALIDADE. 1- Nos termos do artigo 1.012, §3º, do Código de Processo Civil, nas hipóteses em que a sentença começa a produzir efeitos imediatamente após a sua publicação (§1º), o pedido de atribuição de efeito suspensivo à apelação deve ser realizado em petição autônoma. 2- Preenchidos os requisitos previstos no artigo 798, inciso II do Código de Processo Civil, não há que se falar em inépcia da inicial executória. 3- Não há que se falar em cerceamento de defesa em razão da negativa de produção de prova quando a prova havida nos autos se mostra suficiente para resolver a controvérsia. 4- Segundo orientação jurisprudencial, positivada pelo Superior Tribunal de Justiça, somente é possível a revisão dos juros remuneratórios que superem substancialmente a taxa média de mercado à época da contratação, como demonstrado no caso dos autos. 5- Não se mostra irregular ou ilegal a utilização do Sistema Francês de Amortização, mais conhecido como Tabela Price, diante do reconhecimento da legalidade da capitalização dos juros nos contratos bancários" (e-STJ fl. 436).
+Não foram opostos embargos de declaração.
+No recurso especial (e-STJ fls. 492/499) os recorrentes apontam violação dos arts. 330, 331, 334, 355, e 420, do Código de Processo Civil, sustentando que "As provas requeridas no presente caso são imprescindíveis para o deslinde da causa, visto que somente a prova pericial pode comprovar todos os excessos e abusividades, afastando tal cobrança e apontando o valor devido efetivamente" (e-STJ fl. 496).
+Com as contrarrazões (e-STJ fls. 531/536), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origem entendeu o seguinte:
+"No que se refere a preliminar de nulidade da sentença, por cerceamento de defesa, suscitado pela parte apelante em razão do indeferimento seu pedido de realização de prova pericial, melhor sorte não lhe assiste.
+Isso porque, segundo entendo, não configura cerceamento de defesa o deslinde da causa, com o julgamento antecipado da lide, quando o magistrado entender substancialmente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente.
+Ora, a livre apreciação da prova e o livre convencimento motivado do juiz são princípios basilares do sistema processual civil brasileiro, donde se conclui que a prova pericial somente se apresenta necessária e imprescindível quando a informação depender do conhecimento de especialista na matéria, hipótese não caracterizada no caso em tela.
+E isso porque, como fundamentado pelo juízo sentenciante, as supostas abusividades das cobranças podem ser constatadas mediante simples análise das disposições do pacto celebrado entre as partes, mostrando-se desnecessária a realização de prova pericial, cujo indeferimento não constituiu cerceamento de defesa" (e-STJ fls. 443/444).
+Com efeito, ao afastar o cerceamento de defesa, a Corte de origem decidiu em consonância com a jurisprudência do Superior Tribunal de Justiça, o que atrai a aplicação da Súmula nº 568/STJ, e a modificação das premissas estabelecidas no acórdão recorrido, é providência que demanda o reexame do conjunto fático-probatório dos autos, situação que esbarra na Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. CERCEAMNTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA N. 7 DO STJ. DANOS MORAIS. CARACTERIZADOS. REVISÃO. SÚMULA N. 7 DO STJ. TEMA N. 990 DO STJ. INAPLICABILIDADE. SÚMULA N. 83 DO STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova técnica requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+3. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Inadmissível recurso especial quando o entendimento adotado pelo tribunal de origem encontra-se em harmonia com a jurisprudência do STJ (Súmula n. 83 do STJ).
+5. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+6. Agravo interno desprovido"
+(AgInt no REsp 2.077.630/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. NEXO CAUSAL, DANOS MORAIS E ESTÉTICOS CONFIGURADOS. QUANTUM INDENIZATÓRIO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. NÃO CABIMENTO. SÚMULA N. 7/STJ. 3. JUROS. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência vigente nesta Corte Superior, a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+2. Modificar as conclusões do Tribunal local, acerca da prescindibilidade de produção de outras provas, da comprovação do nexo causal e do quantum indenizatório, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem obsta o conhecimento do recurso especial pela ausência de prequestionamento.
+4. Agravo interno desprovido"
+(AgInt no AREsp 2.674.495/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
