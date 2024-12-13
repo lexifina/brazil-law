@@ -1,0 +1,41 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fl. 72 (e-STJ):
+"Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL DA SILVA LOPES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelação n. 0011701- 19.2017.8.08.0048). O paciente foi condenado pela prática do crime previsto no art. 121, § 2º, I e IV, c. c. o art. 29, do Código Penal à pena de 21 anos de reclusão, em regime inicial fechado.
+O Tribunal local deu provimento parcial ao apelo defensivo para reduzir a pena para 15 anos de reclusão.
+O impetrante sustenta nulidade decorrente de decisão de pronúncia calcada apenas em elemento colhidos, unilateralmente, no inquérito policial, sem contraditório e confirmação em juízo. Requer, liminarmente e no mérito, a anulação do processo desde a decisão de pronúncia e a consequente despronuncia do paciente."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, o que não verifico no caso.
+O Tribunal local assim se manifestou sobre a matéria ora debatida (e-STJ fls. 43-44):
+"Como se sabe, a expressão "manifestamente contrária à prova dos autos", contida no art. 593, inciso 111, alínea "d", do Código de Processo Penal, tem, por fim, impor limite ao tribunal de Segunda Instância que somente poderá anular o julgamento realizado Relo Júri quando o veredicto repugnado não se apoiar em absolutamente nenhJma prova existente no feito, caracterizando-se uma decisão arbitrária. Tal limitação se justifica em razão da garantia constitucional da soberania dos veredictos, prevista no art. 5º, inciso XXXVIII, alínea "c", da CF/88.
+Sendo assim, em respeito ao citado principio, é unanime o entendimento referente à permissão de escolha por parte dos jurados de uma das versões alternativas apresentadas em Plenário, ainda que tal opção não seja respaldada pela maioria dos elementos probatórios irrogados nos autos.
+Exige- se, tão somente, que a versão optada pelo Júri seja, ao menos, verossímil e calcada em algum elemento idôneo de prova, a fim de que não se caracterize em uma decisão despótica.
+No presente caso, o apelante afirma que a condenação foi manifestamente contrária às provas dos autos, uma vez que a condenação teria se fundado exclusivamente na palavra do tio e do pai da vítima, bem como teria sido baseada apenas em testemunhas de "ouvir dizer".
+Contudo, observo que os argumentos não prosperam, pois, além dessas declarações, há também relatos de terceiro desinteressado (Policial Civil - fi. 161), que confirma ter ouvido diretamente de testemunhas oculares acerca da autoria por parte dos dois réus, havendo informações reiteradas de que todas expressaram grande temor em prestarem depoimentos formais, tendo em vista que os acusados são pessoas que exercem posição de liderança no tráfico de drogas naquele bairro. _, Sendo assim, considerando que o Conselho de Sentença julga pelo sistema da íntima convicção, não é possível acolher os argumentos defensivos, na medida em que há provas que corroboram a tese acusatória sufragada em Plenário de Júri, de modo que não há ilegalidade em não terem os jurados decidido no sentido do suposto álibi alegado pela defesa."
+O posicionamento acima delineado encontra-se em consonância com a jurisprudência deste Tribunal Superior no sentido de que "o pedido de revisão da decisão de pronúncia está prejudicado. Nesta perspectiva: "o recurso contra a decisão que pronunciou o acusado encontra-se prejudicado, na linha da jurisprudência dominante acerca do tema, quando o recorrente já foi posteriormente condenado pelo Conselho de Sentença" " (AgRg no HC n. 810.692/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023 e AgRg no AREsp n. 1.412.819/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 17/8/2021).
+E ainda, de minha relatoria:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO (SEIS VEZES). NULIDADE DA SENTENÇA DE PRONÚNCIA. INOCORRÊNCIA. DECOTE DE QUALIFICADORAS. INVIÁVEL. SENTENÇA CONDENATÓRIA SUPERVENIENTE. PREJUDICADOS OS PEDIDOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não há elementos suficientes para reconsiderar a decisão proferida.
+2. Acusado, já submetido a julgamento pelo Júri e condenado pelo delitos imputados na denúncia a uma pena de 24 (vinte e quatro) anos de reclusão, fixado o regime fechado, tendo sido cientificado o trânsito em julgado.
+3.Pedido de revisão da decisão de pronúncia está prejudicado.
+Precedentes.
+(..)
+9. Impossibilidade de conhecimento do habeas corpus substitutivo, bem como que não há na hipótese flagrante ilegalidade apta a justificar a concessão de ofício da ordem.
+Nesse aspecto, o acórdão atacado não padece de teratologia.
+10. Para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+11. Agravo regimental não provido.
+(AgRg no HC n. 850.740/AL, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 16/9/2024.) (Grifos acrescidos)
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
