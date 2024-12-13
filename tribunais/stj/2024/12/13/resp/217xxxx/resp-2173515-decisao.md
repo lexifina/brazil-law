@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado por Comissão de Valores Mobiliários, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 29):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INDISPONIBILIDADE DE BENS. CNIB. DÍVIDA DE VALOR REDUZIDO. INADEQUAÇÃO DA MEDIDA. 1. O entendimento deste Tribunal é no sentido de que não cabe determinar a indisponibilidade de bens prevista no art. 185-A do CTN aos casos em que, por ser reduzido o valor da execução, não for evidenciada a possibilidade de se observarem os limites à medida estabelecidos no §1º do referido dispositivo. 2. Hipótese em que se executa crédito tributário de valor que não justifica seja decretada a indisponibilidade de bens do executado (CTN, art. 185-A).
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 42/44.
+A parte recorrente aponta violação aos arts. 932, III, c/c ART. 1.018, § 1º, do CPC e 185-A do CTN. Sustenta, em resumo, que: (I) "A reconsideração da decisão agravada, portanto, implica necessariamente na perda do interesse em recorrer, requisito de admissibilidade de qualquer recurso, a traindo o comando do art. 932, III, do CPC" (fl. 52) e (II) "no que tange ao baixo valor da dívida, que, em se tratando de crédito público, há indisponibilidade do direito. Aliás, a verificação da conveniência na satisfação do crédito, mesmo que de baixo valor, compete à Fazenda Pública" (fl. 52).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso especial epigrafado foi interposto no bojo de agravo de instrumento, manejado pela ora Recorrente em 06/09/2023, contra decisão de Juiz Singular que rejeitou o pedido de decretação de indisponibilidade dos bens e direitos.
+Conforme consulta ao sítio eletrônico do Tribunal Regional, em 13/9/2023, foi prolatada decisão determinando "inclua-se o executado VICTOR CESAR SOARES DESCARDECI, na Central Nacional de Indisponibilidade de Bens - CNIB, segundo Provimento nº 39/2014 do CNJ, para fins de indisponibilização junto aos Cartórios de Registro de Imóveis".
+Ressai, pois, evidente a perda superveniente de interesse recursal do ora agravante em ver reformado o aresto proferido em agravo de instrumento, haja vista a decisão proferida nos autos da execução fiscal 5003640-75.2018.4.04.7200/SC.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, julgo prejudicado o recurso, pela perda superveniente do interesse recursal.
+Publique-se.
+EMENTA
