@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pela CAIXA ECONÔMICA FEDERAL da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu recurso especial dirigido contra o acórdão exarado no Agravo de Instrumento n. 1135531-2. Confira-se a ementa (fls. 525):
+I. - AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. II. - DECISÃO QUE DECLINOU A COMPETÊNCIA PARA A JUSTIÇA FEDERAL. III.- FEITO QUE DEVE SER MANTIDO NA JUSTIÇA ESTADUAL POR AUSÊNCIA DE DEMONSTRAÇÃO DE COMPROMETIMENTO, NO CASO CONCRETO, DO FCVS. NESSE SENTIDO, A DECISÃO DA 22 SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO INCIDENTE DE PROCESSO REPETITIVO EM EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL Nº 1.091.393 -SC. IV. - INAPLICÁVEL AO CASO A NOVA TENTATIVA DE AFASTAR A RESPONSABILIDADE DAS SEGURADORAS, ATRAVÉS DA MEDIDA PROVISORIA Nº 633, DE 26-12-2013, DADA A SUA IRRETROATIVIDADE E TAMBÉM PORQUE, COMO ALI CONSTA NA REDAÇÃO DO ART. 1Q -A DA LEI 12.409, A INTERVENÇÃO DA CEF DEVERÁ OCORRER APENAS QUANDO A AÇÃO JUDICIAL REPRESENTAR RISCO OU IMPEDIMENTO ECONÔMICO DO FCVS OU ÀS SUAS SUBCONTAS, O QUE NÃO ESTÁ COMPROVADO NOS AUTOS. V. - RECURSO PROVIDO.
+É o relatório.
+Decido.
+A Corte de origem in admitiu o apelo nobre com base no argumento de que, prolatada a sentença de mérito na ação originária, há perda de objeto do recurso especial interposto no julgamento de agravo de instrumento.
+Todavia, nas razões do agravo em recurso especial, a parte não impugnou, de maneira específica, a decisão agravada. Em vez de explicitar as razões pela quais a perda de objeto não teria ocorrido, limita-se a alegar genericamente que a sentença de mérito seria nula porque proferida após a edição da MP 513/2010.
+Por conseguinte, na hipótese dos autos, aplicam-se o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Embora não seja possível conhecer do agravo, devido às razões acima expostas, apenas a título de argumentação, observo que a decisão agravada não merece reforma, já tendo a Segunda Turma do STJ reconhecido a perda de objeto em caso análogo, de que é exemplo a ementa abaixo transcrita:
+PROCESSUAL CIVIL. ADMINISTRATIVO. VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL FEDERAL CÍVEL. AGRAVO DE INSTRUMENTO. PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - A matéria versada nestes autos consiste, em síntese, na discussão relativa a contrato de seguro habitacional, com risco de comprometimento do Fundo de Compensação de Variações Salariais - FCVS. No Tribunal a quo, o agravo de instrumento interposto foi improvido.
+II - O acórdão recorrido foi prolatado em agravo de instrumento, nos autos de ação relativa à discussão acerca de reparação de danos em imóvel financiado pelo Sistema Financeiro da Habitação, nos quais foi determinada a remessa ao juízo especial federal cível, em razão do valor da causa.
+III - Em consulta ao sítio oficial do Tribunal a quo, confirma-se a informação de que a ação originária já teve desfecho de mérito, proferida pela 2ª Vara do Juízo Especial Federal de Maringá em 24/08/2018, julgando improcedente a ação, decisão modificada em sede de recursal, extinguindo-se o feito sem resolução de mérito, em razão de o contrato de financiamento em discussão já ter sido encerrado.
+IV - Referido acórdão transitou em julgado em 17/03/2021.
+V - Nesse panorama, dada a superveniência do julgamento da ação originária, não mais persiste a discussão acerca da decisão interlocutória, nos termos do firme entendimento jurisprudencial desta Corte: AgInt no REsp 1.712.508/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/5/2019, DJe 22/5/2019 e EDcl no AgInt no AREsp 1.344.445/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/6/2019, DJe 10/6/2019.
+VI - Agravo interno improvido. (AgInt no AREsp n. 1.538.265/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/10/2021, DJe de 25/10/2021.)
+Ante o exposto, com fundam ento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Por se tratar, na origem, de recurso interposto de decisão interlocutória na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
