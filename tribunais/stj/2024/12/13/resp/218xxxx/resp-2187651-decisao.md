@@ -1,0 +1,29 @@
+DECISÃO
+Conselho Regional dos Representantes Comerciais do Paraná - CORE/PR propôs execução fiscal de dívida ativa contra a Agro Veterinária Martini Ltda., objetivando a cobrança de crédito decorrente de anuidades devidas pela sociedade comercial ré, referente aos exercícios de 2011 a 2015, perfazendo o montante de R$ 4.205,36 (Quatro mil e duzentos e cinco reais e trinta e seis centavos).
+Na primeira instância, deliberou-se pela extinção da execução fiscal, porquanto na ação de procedimento comum n. 5049204-66.2016.4.04.7000 foi reconhecida a dispensabilidade do registro da empresa executada no CORE/PR(fls. 169-170).
+O Tribunal Regional Federal da 4ª Região, em sede recursal, negou provimento ao recurso de apelação da sociedade comercial Agro Veterinária Martini Ltda., que pretendia a reforma da sentença no tocante a não condenação da CORE/PR em honorários advocatícios, nos termos da seguinte ementa (fl. 225):
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO FISCAL. HONORÁRIOS. CONDENAÇÃO EM AÇÃO ORDINÁRIA. BIS IN IDEM.
+1. No que diz respeito ao arbitramento de honorários, o entendimento desta Corte é no sentido de que é incabível a condenação sucumbencial na extinção da execução fiscal quando houver prévia condenação em ação ordinária, sob pena de bis in idem.
+2. Apelação desprovida.
+Opostos embargos de declaração, foram eles rejeitados (fls. 81-84).
+Agro Veterinária Martini Ltda interpôs recurso especial, fundamentado no artigo 105, inciso III, alínea a, da Constituição da República, no qual aponta a negativa de vigência ao art. 85, caput e §10º, do CPC de 2015, visto que, em suma, da possibilidade de cumulação de honorários na execução fiscal e na anulatória de débito, consoante entendimento firmado no Tema 587/STJ.
+Ofertadas contrarrazões ao recurso especial às fls. 255-259.
+É o relatório. Decido.
+A respeito da alegação de negativa de vigência ao art. negativa de vigência ao art. 85, caput e §10º, do CPC/2015, com razão a sociedade comercial recorrente, encontrando-se o aresto vergastado em dissonância com o entendimento desta Corte Superior, no sentido de que, tendo sido a execução fiscal extinta em razão de decisão proferida em ação anulatória de débito fiscal, não há impedimento para a fixação de honorários sucumbenciais em favor da parte executada, desde que respeitados os limites legalmente previstos.
+A esse respeito, os seguintes julgados desta Corte:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. CANCELAMENTO DA DÍVIDA DECORRENTE DE AÇÃO ANULATÓRIA. ÔNUS SUCUMBENCIAIS DEVIDOS. CUMULAÇÃO. POSSIBILIDADE. AÇÕES AUTÔNOMAS. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de possibilitar a fixação cumulada da verba honorária em execução fiscal e na ação conexa que visa a desconstituição do crédito executado, ante a natureza autônoma das ações.
+2. Na hipótese, tendo sido a execução fiscal extinta em razão de decisão proferida em ação anulatória de débito fiscal, não há impedimento para a fixação de honorários sucumbenciais em favor da parte executada, respeitados os limites legalmente previstos.
+3. Agravo interno da Fazenda Nacional desprovido (AgInt no REsp n. 1.819.887/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. AÇÃO ANULATÓRIA DO CRÉDITO EXEQUENDO. ÔNUS SUCUMBENCIAIS. CUMULAÇÃO. POSSIBILIDADE. AÇÕES AUTÔNOMAS. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de possibilitar a fixação cumulada da verba honorária em execução fiscal e na ação conexa que visa a desconstituição do crédito executado, ante a natureza autônoma das ações.
+2. Na hipótese, tendo sido a execução fiscal extinta em razão de decisão proferida em ação ordinária, onde reconheceu-se a inexigibilidade do crédito executado, não há impedimento para a fixação de honorários sucumbenciais em favor da parte executada, respeitados os limites legalmente previstos .
+3. Agravo interno a que se nega provimento (AgInt no REsp n. 1.820.812/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 29/11/2021, DJe de 1/12/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL E EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCOS. CUMULAÇÃO.
+1. Nos termos da jurisprudência pacífica do STJ, consolida em recurso representativo da controvérsia - REsp n. 1.520.710/SC, é possível a cumulação da verba honorária fixada em execução fiscal com aquela arbitrada em ação conexa (embargos à execução/ação anulatória), de forma relativamente autônoma, sendo vedada a sua compensação e desde que respeitados os limites percentuais e parâmetros previstos na legislação.
+2. Nas hipóteses de procedência parcial ou integral dos embargos, é possível a fixação única dos honorários no julgamento dos embargos, desde que se estipule que o valor fixado atenda à execução e aos embargos e a soma dos percentuais obedeça aos limites fixados na legislação. Precedentes.
+3. Hipótese em que os embargos à execução foram julgados totalmente procedentes, extinguindo a execução fiscal e a verba honorária fixada para atender ambas as ações. Impossibilidade de cumulação.
+Agravo interno improvido (AgInt no AgInt no REsp n. 1.845.359/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023).
+Ante o exposto, com fundamento no art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial, para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda ao arbitramento de honorários advocatícios, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
