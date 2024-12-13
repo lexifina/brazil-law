@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DANIEL INÁCIO NOGUEIRA contra acórdão da 11ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (HC n. 2266848-14.2024.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 23/2/2024, com posterior conversão em preventiva, pela suposta prática do crime previsto no art. 171, caput, c/c art. 14, II, do Código Pena.
+Em 10/4/2024 foi proferida decisão nesta Corte, no HC 903.800/SP, de minha relatoria, concedendo a ordem de ofício "para revogar a prisão preventiva do paciente, ressalvada a aplicação de outras cautelares mais brandas pelo Juízo de primeiro grau, entre elas o monitoramento eletrônico".
+Em 11/4/2024, o paciente foi colocado em liberdade, com utilização de tornozeleira eletrônica.
+Alegando excesso de prazo da medida, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, nos termos do acórdão de e-STJ fls. 15/19.
+No presente writ, a defesa alega que não há qualquer previsibilidade de quando haverá a prolação da sentença. Afirma que a medida é desproporcional. Relata que houve o aditamento da denúncia, bem como adiamento de audiência designada para o dia 7/8/2024, sem remarcação de data.
+Ressalta que "o paciente é empresário individual e exerce a função de vendedor autônomo, e até antes de sua prisão em flagrante o paciente viajava diuturnamente brasil afora visitando clientes e comercializando fios e tecidos" (e-STJ fl. 5). Afirma que o monitoramento eletrônico impacta em sua atividade profissional e que por tal restrição vem passando dificuldades financeiras. Reitera que a medida dura mais de 180 dias, sem que tenha se encerrado a instrução criminal. Destaca que o paciente é portador de neoplasia maligna da próstata e que deve regularmente comparecer no Hospital PUC Campinas para tratamento.
+Requer a revogação da medida cautelar de monitoramento eletrônico, ainda que com manutenção de outras medidas cautelares.
+A liminar foi indeferida às e-STJ fls. 248/250.
+Informações às e-STJ fls. 255/257.
+O Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem (e-STJ fls. 261/263).
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, a, da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Busca-se, no caso, o reconhecimento do excesso de prazo da medida cautelar de monitoramento eletrônico imposta ao paciente.
+Ao examinar a matéria, assim se manifestou o Tribunal a quo (e-STJ fls. 15/19):
+O paciente foi denunciado e está sendo processado pela prática do crime de estelionato tentado. O fato está datado de 23 de fevereiro de 2023.
+Anota-se, desde logo, que a prisão preventiva do paciente foi mantida por esta Corte no âmbito do Habeas Corpus nº 2049590-72.2024.8.26.0000, julgado em 27 de março de 2024, em razão dele ser reincidente específico.
+O Superior Tribunal de Justiça, porém, ao julgar o Habeas Corpus nº 903.800, concedeu a ordem de ofício para revogar a prisão preventiva, ressalvada a aplicação de outras cautelares mais brandas pelo juízo de primeiro grau, entre elas o monitoramento eletrônico (fls. 227/231 da ação penal).
+O alvará de soltura foi cumprido em 11 de abril de 2024 (fls. 247/252 da ação penal).
+Pois bem. Em matéria de excesso de prazo, vigora o princípio da razoabilidade, segundo o qual o exame de eventual demora para a conclusão da instrução não pode estar apoiado apenas em mera soma aritmética. Na verdade, devem ser observadas as peculiaridades de cada caso isoladamente, somente autorizando o relaxamento da prisão aquele atraso que puder ser atribuído à acusação ou ao juízo apontado como coator.
+No caso, não há desídia do Magistrado na condução do processo. A audiência marcada para o dia 7 de agosto de 2024 não se realizou em razão do aditamento da denúncia, para incluir no polo passivo da demanda o corréu Dario Nunes de Freitas, que teve contra si revogado o acordo de não persecução penal, em virtude do descumprimento das condições.
+Ademais, a despeito da restrição parcial decorrente das cautelares, é conveniente ressaltar que o paciente está em liberdade e a monitoração eletrônica não impede que ele realize as atividades rotineiras.
+Ante tal contexto, não se vislumbra presente constrangimento ilegal a ser sanado nesta via.
+Recomenda-se, porém, ao juízo de origem a adoção de providências para o célere andamento do feito, a fim de evitar a ocorrência de excesso de prazo para a formação da culpa.
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação". No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Assim, segundo a jurisprudência desta Corte e do Supremo Tribunal Federal, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+No caso, não se verifica desídia na condução do feito, inclusive tendo sido designada audiência para o dia 7/8/2024, somente não realizada em razão do aditamento da denúncia para incluir corréu no polo passivo da ação penal.
+Ou seja, o feito somente não alcançou seu termo em razão de óbices que sobrevieram ao processo, não podendo ser a demora imputada à atuação do juízo.
+Ressalto, ademais, que a restrição à liberdade do paciente já foi abrandada por esta Corte em ocasião prévia. Como resultado, foram-lhe aplicadas as medidas de comparecimento trimestral em juízo; proibição de se ausentar da Comarca sem autorização judicial; recolhimento domiciliar noturno e monitoramento eletrônico.
+A defesa almeja a revogação das medidas impostas com a finalidade de exercer sua profissão de comerciante de fios e tecidos, com a qual viajaria por todo o país.
+Entretanto, o abrandamento pleiteado é inviável, tendo em vista a necessidade de obstar novas condutas. Com efeito, a denúncia atribui ao paciente exatamente o crime de estelionato, no qual, em tese, teria tentado induzir o dono de empresa de tecidos a entregar erroneamente carga para transportador por ele contratado. Ademais, convém atentar que ele é reincidente específico.
+Não se justifica, portanto, que as medidas sejam revogadas para que ele retorne a tal ramo de atividades.
+Diante dessas circunstâncias, revela-se suficiente reforçar a recomendação expedida pelo Tribunal a quo, de que seja dada prioridade ao feito, de modo a evitar a configuração de constrangimento ilegal.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus. Recomendo, entretanto, de ofício, ao Juízo dê prioridade ao processo, de forma a possibilitar o julgamento em data próxima.
+Intimem-se.
+EMENTA
