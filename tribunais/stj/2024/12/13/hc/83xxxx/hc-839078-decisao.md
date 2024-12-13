@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de ELANE MELO SALES - condenada como incursa no crime de tráfico de drogas e uso de documento falsificado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Apelação Criminal n. 0710203-98.2020.8.07.0004), não comporta conhecimento.
+Com efeito, busca a impetração o afastamento da agravante do art. 62, IV, do Código Penal (crime praticado mediante paga ou promessa de recompensa), ao argumento de que a referida agravante não pode incidir nos crimes em que a vantagem econômica ou de outra natureza for ínsita ao tipo legal do crime, como é a decorrente do crime de tráfico de drogas, nos termos do art. 33, caput, da Lei n. 11.343/2006 (fl. 7).
+Ocorre que, além de se tratar de writ substitutivo de recurso próprio, o que é inadmissível, não é possível que a defesa, não tendo alegado a tese sobre a impossibilidade de incidência da referida agravante perante as instâncias ordinárias - notadamente em sede de apelação perante o Tribunal local -, venha diretamente ao Superior Tribunal de Justiça buscando que tal questão seja aqui decidida.
+Do próprio acórdão combatido extrai-se que a paciente não invocou a tese ora suscitada perante as instâncias ordinárias, contentando-se em fazer pedido genérico de revisão da dosimetria (trecho do acórdão de fl. 18), motivo pelo qual não houve o enfrentamento do tema em questão pelo Tribunal de origem - impossibilidade de incidência da agravante genérica do art. 62, IV, do CP ao crime de tráfico de drogas.
+Ora, admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir (AgRg no HC n. 818.673/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023).
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS E USO DE DOCUMENTO FALSO. DOSIMETRIA. AGRAVANTE DO ART. 62, IV, DO CP (CRIME PRATICADO MEDIANTE PAGA OU PROMESSA DE RECOMPENSA). INCIDÊNCIA SOBRE O CRIME DE TRÁFICO DE ENTORPECENTES. DEBATE DA QUESTÃO PELA CORTE ESTADUAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
