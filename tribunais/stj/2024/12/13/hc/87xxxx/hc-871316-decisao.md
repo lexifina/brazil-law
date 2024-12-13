@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VITOR CAETANON DA COSTA em face de acórdão do Tribunal de Justiça de Minas Gerais por ocasião do julgamento de agravo em execução nº 1.0000.23.068515-8/001 (e-STJ fls. 3-10).
+O Juízo da Vara das Execuções Penais de Ribeirão das Neves/MG deixou de instaurar incidente de apuração de falta grave, considerando que o Conselho Disciplinar do estabelecimento prisional classificou as infrações do apenado como de natureza média (e-STJ fls. 122-123).
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal de origem, o qual deu provimento ao recurso, nos termos do acórdão assim ementado (e-STJ fls. 23-28):
+EMENTA: AGRAVO EM EXECUÇÃO - FALTA GRAVE - DECISÃO ADMINISTRATIVA - CONSELHO DISCIPLINAR - ABSOLVIÇÃO - RECONHECIMENTO DE FALTA MÉDIA - INDEPENDÊNCIA DA ESFERA JUDICIAL - INEXISTÊNCIA DE VINCULAÇÃO - PROSSEGUIMENTO DO INCIDENTE DE APURAÇÃO- NECESSIDADE - 1. No procedimento de apuração de falta grave, as esferas administrativa e judicial são independentes. - 2. A decisão proferida pelo conselho disciplinar - embora possa servir de parâmetro - não vincula o juízo da execução. - 3. Conforme precedente do Superior Tribunal de Justiça, "é possível o controle judicial - pelo Juízo da execução penal - sobre decisão de Conselho Disciplinar que, no uso de suas atribuições, concluiu pelo cometimento de falta disciplinar de natureza média imputada a reeducando do sistema prisional" (HC 381.237/MG). - 4. O reconhecimento judicial da infração disciplinar é cabível mesmo quando o procedimento administrativo disciplinar (PAD) não tiver sido instaurado, podendo a sua ausência ser suprida pela realização da audiência de justificação, conforme inteligência do Tema Repetitivo nº 941 do STF (precedente vinculante).
+Objetiva-se a reforma da decisão do Tribunal a quo, a fim de que "seja reformada a decisão do egrégio Tribunal de Justiça de Minas Gerais e, por conseguinte, mantida a decisão do Juízo da Execução Penal, que deixou de instaurar incidente de apuração de falta grave de forma fundamentada, tendo em vista que o conselho disciplinar classificou as infrações como de natureza média" (e-STJ fls. 9-10)
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (e-STJ fls. 136-140).
+É o relatório.
+Decido.
+Em consulta ao Sistema Eletrônico de Execução Unificado (SEEU), verifica-se que, na data de 24/04/2024, o Juízo da Vara das Execuções Penais de Ribeirão das Neves/MG, nos autos de execução de pena nº 440080565.2020.8.13.0231, realizou audiência de justificação e afastou a falta objeto do presente writ, com anuência do Ministério Público e da Defesa (item 277.1 do SEEU).
+Essa circunstância evidencia a perda do objeto da presente impetração.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
