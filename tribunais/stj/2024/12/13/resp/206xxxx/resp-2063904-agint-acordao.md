@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. A jurisprudência desta Corte tem reconhecido que o acolhimento, ainda que parcial, da exceção de pré-executividade, autoriza a fixação de honorários advocatícios.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BANCO DO BRASIL S.A.  contra  a  decisão  que  deu provimento ao  recurso  especial  para fixar os honorários advocatícios no percentual de 10% (dez por cento) sobre o valor do proveito econômico obtido  (e-STJ  fls.  881/883).
+Em suas razões,  o  agravante  defende  que  o demandado deu causa ao processo executivo.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Impugnação às  e-STJ  fls.  875/879  .
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. A jurisprudência desta Corte tem reconhecido que o acolhimento, ainda que parcial, da exceção de pré-executividade, autoriza a fixação de honorários advocatícios.
+2. Agravo interno não provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Conforme consta da decisão atacada, o entendimento do acórdão recorrido diverge da jurisprudência desta Corte Superior de que o acolhimento, ainda que parcial, da exceção de pré-executividade, autoriza a fixação de honorários advocatícios.
+Nesse sentido:
+"PROCESSUAL CIVIL. NA ORIGEM. APELAÇÕES. ANULATÓRIA DE DÉBITO FISCAL DECORRENTE DE CREDITAMENTO DE ICMS CONSIDERADO INDEVIDO PELO FISCO. MULTA PUNITIVA. REDUÇÃO. POSSIBILIDADE. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO DOS HONORÁRIOS SEGUNDO O GRAU DE ZELO DO PROFISSIONAL, LUGAR DE PRESTAÇÃO DO SERVIÇO, NATUREZA E IMPORTÂNCIA DA CAUSA, TRABALHO REALIZADO PELO ADVOGADO E TEMPO EXIGIDO PARA O SERVIÇO. INTELIGÊNCIA DO ART. 85 DO CPC. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Na origem cuida-se de agravo de instrumento contra decisão que rejeitou a exceção de pré-executividade. No Tribunal a quo a decisão foi parcialmente reformada para reconhecer a irregularidade dos cálculos e condenar em honorários. O valor da causa foi fixado em R$ 1.593.729,86 (Um milhão, quinhentos e noventa e três mil, setecentos e vinte e nove reais e oitenta e seis centavos).
+II - No STJ, trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+III - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Ademais, os demais dispositivos legais mencionados pela parte recorrente na petição de recurso especial (art. 203 do CPC/2015) não foram objeto de análise na Corte de origem. Tampouco o conteúdo foi objeto no acórdão proferido na Corte de origem. Assim, não é possível o conhecimento do recurso especial diante da falta de prequestionamento da matéria. Para que o art. 1.025 do CPC/2015 seja aplicado, e permita-se o conhecimento das alegações da parte recorrente, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem (e. 211/STJ) e indicação de violação do art. 1.022 do CPC/2015, no recurso especial (REsp 1.764.914/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/11/2018, DJe 23/11/2018). A matéria deve ser: i) alegada nos embargos de declaração opostos (AgInt no REsp 1.443.520/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1º/4/2019, DJe 10/4/2019); ii) devolvida a julgamento ao Tribunal a quo (AgRg no REsp n. 1.459.940/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/5/2016, D Je 2/6/2016) e; iii) relevante e pertinente com a matéria (AgInt no AREsp 1.433.961/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/9/2019, DJe 24/9/2019.)
+V - O entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, no sentido de que o acolhimento, ainda que parcial, da exceção de pré-executividade, autoriza a fixação de honorários advocatícios (AgInt no REsp n. 1.850.461/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/8/2021, DJe de 1/9/2021; AgInt no REsp n. 1.861.569/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/9/2020, DJe de 16/9/2020.)
+VI - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+VII - Agravo interno improvido." (AgInt no AREsp n. 2.318.279/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCLUSÃO DOS ACESSÓRIOS RELATIVOS À CORREÇÃO MONETÁRIA, MULTA E JUROS. REDUÇÃO DO VALOR DA EXECUÇÃO. FIXAÇÃO DE VERBA HONORÁRIA. POSSIBILIDADE. ENTENDIMENTO VAI AO ENCONTRO DO JULGAMENTO DO RESP N. 1.134.186/RS, JULGADO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS, TEMA REPETITIVO N. 410.
+I - Na origem, trata-se de agravo de instrumento, com pedido de efeito suspensivo ativo contra decisão que, nos autos da execução fiscal, rejeitou a Exceção de Pré-executividade e deferiu o pedido de penhora online de ativos financeiros na conta do executado.
+II - No Tribunal a quo, a sentença foi reformada para excluir, da cobrança do crédito elencado na execução fiscal, a incidência de correção monetária, multas de ofício e juros, estes últimos, após a decretação da liquidação extrajudicial, além de afastar o bloqueio eletrônico de ativo financeiro do recorrente (via Bacen Jud).
+III - É cabível o arbitramento de honorários advocatícios em exceção de pré- executividade quando a execução fiscal é extinta ou quando há redução do valor cobrado, como na hipótese dos autos, excluídos os acessórios relativos à correção monetária, multa e juros.
+IV - Este entendimento vai ao encontro do julgamento do REsp n. 1.134.186/RS, julgado sob o rito dos recursos especiais repetitivos, Tema Repetitivo n. 410, cuja tese restou assim firmada: "O acolhimento ainda que parcial da impugnação gerará o arbitramento dos honorários, que serão fixados nos termos do art. 20, § 4º, do CPC, do mesmo modo que o acolhimento parcial da exceção de pré-executividade, porquanto, nessa hipótese, há extinção também parcial da execução." Nesse sentido: AgInt no REsp n. 1.840.377/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 3/11/2020, DJe 17/11/2020; AgRg no REsp n. 1.528.801/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2015, D Je 8/9/2015 e AgInt no REsp n. 1.861.569/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/9/2020, DJe 16/9/2020.
+V - Agravo interno improvido." (AgInt no REsp n. 1.850.461/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/8/2021, DJe de 1/9/2021).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE PRÉEXECUTIVIDADE. ACOLHIMENTO PARCIAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EQUIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. O Superior Tribunal de Justiça consolidou orientação segundo a qual o acolhimento da exceção de pré-executividade, ainda que parcial, enseja arbitramento de verba honorária. Precedentes.
+2. Na hipótese, a execução fiscal foi parcialmente extinta em relação ao reconhecido excesso de juros moratórios inicialmente cobrados com base na Lei estadual n. 13.918/2009.
+3. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice conhecimento estampado na Súmula 83 do STJ.
+4. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial (art. 85, § 8º, do CPC, in casu), há falta do prequestionamento, o que faz incidir na espécie o óbice da Súmula 282 do STF.
+5. Agravo interno desprovido." (AgInt no REsp n. 1.861.569/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/9/2020, DJe de 16/9/2020.)
+Desse  modo,  as  razões  do  presente  recurso  são  insuficientes  para  a  reforma  da  decisão  atacada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
