@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ASSOCIACAO SANTA CASA SAUDE DE ARAÇ ATUBA, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PRELIMINARES - IMPUGNAÇÃO AO VALOR DA CAUSA - Valor da causa que deve corresponder à somatória da anuidade do custo do tratamento pretendido (art. 292, § 2º, do CPC) com a indenização por danos morais pleiteada - Valor do tratamento ilíquido - Valor da Causa Corrigido em Parte - CERCEAMENTO DE DEFESA - Desnecessidade de Produção de Novas Provas - Existência de Provas Suficientemente Esclarecedoras para Comprovar as Alegações das Partes - INCONGRUÊNCIA NA SENTENÇA - Erro Material verificado que, entretanto, não traz qualquer prejuízo à Apelante, sendo facilmente sanável com a sua desconsideração - Preliminares de Cerceamento de Defesa e Incongruência na Sentença REJEITADAS, e ACOLHIDA EM PARTE a Impugnação ao Valor da Causa.
+APELAÇÃO PLANO DE SAÚDE Obrigação de Fazer C/C Indenização por Danos Morais Fornecimento do Medicamento Dupilumabe para Tratamento de Dermatite Atópica Procedência da Ação Insurgência da Operadora Descabimento Recusa Injusta Laudo Médico claro ao demonstrar a necessidade dos tratamentos pleiteados Indicação que cabe somente ao médico assistente Súmula 102 do E. TJSP Rol da ANS Taxatividade do Rol que não é absoluta Ausência de demonstração de atualização do Rol, substituto terapêutico ou contraindicação ao procedimento prescrito, o qual possui eficácia notória Inteligência das Teses Firmadas por ocasião do Julgamento dos EREsps nº 1.886.929/SP e 1.889.704/SP Violação da Boa-Fé Objetiva e da Função Social do Contrato Precedentes desta 2ª Câmara de Direito Privado Danos Morais Ocorrência Agravamento da condição de dor e de abalo psicológico da Autora, considerando a sensível situação em que se encontra a Paciente Indenização Devida Honorários Advocatícios corretamente arbitrados sobre percentual do valor da causa; Tema 1076 do C. STJ.
+Sentença Reformada em relação ao Valor da Causa. RECURSO PROVIDO EM PARTE" (e-STJ fls. 455/456).
+No recurso especial, a recorrente alega, em síntese, que o medicamento pleiteado nos presentes autos - Dupilumabe, de uso domiciliar - não está descrito no rol da Agência Nacional de Saúde Suplementar, situação a afastar a obrigatoriedade de custeio, em consonância com o disposto no artigo 10, inciso VI, e 12 da Lei nº 9.656/1998, tidos por violados.
+Quanto ao ponto, suscita dissídio jurisprudencial.
+Contrarrazões apresentadas às e-STJ fls. 648-680.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+A questão controvertida devolvida a este Tribunal Superior é definir se o medicamento - Dupilumabe, de uso domiciliar - deve ser custeado pelo plano de saúde para tratamento de dermatite atópica moderada grave que acomete a beneficiária.
+Quanto ao tema, não se desconhece que a jurisprudência do Superior Tribunal de Justiça assentou-se no sentido de ser lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, ou seja, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, exceto os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e aqueles incluídos no rol da ANS para esse fim.
+Registra-se que o medicamento Dupilumabe prescrito pelo médico assistente para tratamento de Dermatite Atópica Grave e Refratária, ao contrário do aventado pela recorrente, consta da RN-ANS nº 465/2021 como medicamento de cobertura obrigatória para o tratamento da condição, de modo que se figura abusiva a recusa em custear a cobertura.
+Nesse sentido, colhe-se os seguintes julgados desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. ANS. ROL TAXATIVO. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. COBERTURA DE MEDICAMENTO. DERMATITE ATÓPICA. USO AMBULATORIAL. DUPILUMABE. INCORPORAÇÃO AO ROL DA ANS. COBERTURA OBRIGATÓRIA.
+1. Não pode ser conhecido o recurso especial que não traz impugnação específica dos pressupostos do acórdão recorrido, atraindo a incidência, por analogia, da Súmula nº 283/STF.
+2. É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim.
+3. Na hipótese, registra-se que o medicamento Dupixent (Dupilumabe) prescrito pelo médico assistente para tratamento de Dermatite Atópica Grave e Refratária consta da RN-ANS nº 465/2021 como medicamento de cobertura obrigatória para o tratamento da condição, de modo que deve ser custeado pelo plano de saúde.
+4. A inclusão superveniente do medicamento no Rol da ANS denota a existência de comprovação científica da eficácia do medicamento.
+5. Agravo interno não provido.
+(AgInt no AREsp 2.557.271/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024)
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. DERMATITE ATÓPICA GRAVE. MEDICAMENTO. USO DOMICILIAR. DUPILUMABE. INCORPORAÇÃO AO ROL DA ANS. COBERTURA OBRIGATÓRIA. AGRAVO INTERNO DESPROVIDO.
+1. "O fármaco prescrito pelo médico assistente para tratamento de Dermatite Atópica Grave e Refratária consta da RN-ANS nº 465/2021 como medicamento de cobertura obrigatória para o tratamento da condição, de modo que deve ser custeado pelo plano de saúde" (AgInt no REsp n. 1.889.699/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 2.003.368/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024)
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DERMATITE ATÓPICA GRAVE E REFRATÁRIA. MEDICAMENTO. USO DOMICILIAR. DUPILUMABE. INCORPORAÇÃO AO ROL DA ANS. COBERTURA OBRIGATÓRIA. AGRAVO INTERNO DESPROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim.
+Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. No caso em exame, o fármaco prescrito pelo médico assistente para tratamento de Dermatite Atópica Grave e Refratária consta da RN-ANS nº 465/2021como medicamento de cobertura obrigatória para o tratamento da condição, de modo que deve ser custeado pelo plano de saúde.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.889.699/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023)
+Incidência, portanto, da Súmula 568/STJ.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 17% (dezessete por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
