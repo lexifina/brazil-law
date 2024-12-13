@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por NOVA PARTICIPACOES S.A EM RECUPERACAO JUDICIAL, NOVA FUNDIÇÃO E COMÉRCIO DE METAIS LTDA EM RECUPERACAO JUDICIAL, e NOVA MOTORES E FIOS LTDA EM RECUPERACAO JUDICIAL contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO DE CRÉDITO. PROCEDÊNCIA DO PEDIDO. IRRESIGNAÇÃO DAS DEVEDORAS. ADMISSIBILIDADE. CONTRARRAZÕES. TESE DE AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. REJEIÇÃO. RECURSO QUE POSSUI PERTINÊNCIA COM O CONTEÚDO DO DECISUM AGRAVADO. MÉRITO. CRÉDITO GARANTIDO PELA ALIENAÇÃO FIDUCIÁRIA DE MÁQUINAS E EQUIPAMENTOS. AUSENTE REGULAR CONSTITUIÇÃO DA GARANTIA. REJEIÇÃO. CONTRATO REGISTRADO NO REGISTRO DE TÍTULOS E DOCUMENTOS. DESCRIÇÃO DOS BENS ALIENADOS FIDUCIARIAMENTE CONTIDA EM DOCUMENTO ARQUIVADO JUNTAMENTE COM O INSTRUMENTO CONTRATUAL. OBSERVÂNCIA DOS ARTS. 1.361 E 1.362 DO CC. EXISTÊNCIA DE PUBLICIDADE DA GARANTIA PERANTE TERCEIROS. CRÉDITO NÃO SUJEITO À RECUPERAÇÃO JUDICIAL. ART. 49, § 3º, DA LEI N. 11.101/2005. MANUTENÇÃO DA DECISÃO AGRAVADA. CONDENAÇÃO DAS DEVEDORAS NAS PENAS POR LITIGÂNCIA DE MÁ-FÉ. REJEIÇÃO. NÃO OCORRÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 80 DO CPC. HONORÁRIOS RECURSAIS. CRITÉRIOS CUMULATIVOS ESTABELECIDOS PELA CORTE SUPERIOR NO EDCL NO AGINT NO RESP 1.573.573/RJ. DECISÃO RECORRIDA PUBLICADA NA VIGÊNCIA DO CPC/2015, FIXAÇÃO DA VERBA PELO JUÍZO DE ORIGEM E NÃO PROVIMENTO INTEGRAL DO RECURSO. REQUISITOS PREENCHIDOS. MAJORAÇÃO DEVIDA. RECURSO CONHECIDO E DESPROVIDO." (e-STJ fl. 263).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 318/319).
+No recurso especial, as recorrentes alegam, além de divergência jurisprudencial, violação dos artigos 1.361, caput, e 1º, e 1.362, IV, do Código Civil.
+Afirmam que o instrumento de constituição da garantia fiduciária, contendo a descrição dos bens dados em garantia, precisa ser registrado no Registro de Títulos e Documentos onde se situa a sede da devedora.
+Alegam que, na hipótese dos autos, o contrato de alienação fiduciária em garantia foi devidamente registrado no Cartório de Títulos e Documentos mas, o documento (anexo 1) contendo a descrição dos bens objeto da garantia, foi arquivado juntamente com aquele, mas não registrado.
+Consideram que se trata de solenidade essencial, sem a qual não se aperfeiçoou a propriedade fiduciária.
+Alegam que o cartório não esclareceu os motivos pelos quais ambos os documentos não foram registrados. Ressaltam que os bens relacionados correspondem a todos aqueles que compunham seu ativo permanente à época e foram extraídos de um contrato de locação firmado entre as partes. Esclarecem que não assinaram o documento contendo a relação de bens.
+Asseveram que
+"Não se arquiva documento não registrado no Cartório de Títulos e Documentos, posto o que torna o documento certificável e a sua inscrição no livro próprio, estabelecido em Lei, dele se podendo extrair a devida certidão de registro" (fl. 363, e-STJ)
+Apontam como paradigmas acórdãos do Tribunal de Justiça de São Paulo - AI nº 22194181820148260000, do Tribunal de Justiça do Estado do Rio Grande do Sul - AI nº 70051638062 e desta Corte - REsp nº 1.835.598/SP.
+Requerem o provimento do recurso especial para que o crédito da recorrida seja reclassificado como concursal, na classe dos quirografários.
+Com as contrarrazões (e-STJ fls. 384/401), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+A recorrida afirma que o recurso não merece ser conhecido diante da incidência dos óbices contidos nas Súmulas nºs 7, 283 e 284/STF.
+Sustenta que as recorrentes deixaram de impugnar o principal fundamento do aresto recorrido: o suprimento da finalidade publicista com o registro do instrumento de garantia fiduciária.
+A Subprocuradoria-Geral da República opina pelo não provimento do agravo, em parecer assim sintetizado:
+"AGRAVO EM RECURSO ESPECIAL. SUPOSTAS VIOLAÇÕES 1.361, § 1º E 1.362, DO CC. FALTA DE PREQUESTIONAMENTO. REGISTRO DA GARANTIA FIDUCIÁRIA. ALTERAÇÃO DO QUE DECIDIDO PELA CORTE RECORRIDA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. INVIABILIDADE. PELO DESPROVIMENTO DO AGRAVO.
+1. Inviável o apelo especial em relação às supostas contrariedades aos arts. 1.361, § 1º e 1.362, do CC Dispositivos que não foram submetidos ao requisito do prequestionamento, atraindo a previsão dos enunciados n. os 282 e 356 da súmula do Supremo Tribunal Federal, bem como do enunciado n.º 211 da súmula dessa Corte Superior de Justiça.
+2. Não cabe ao Superior Tribunal de Justiça reapreciar as provas que levaram o juízo a quo a concluir que a garantia fiduciária em questão foi devidamente registrada. A análise das circunstâncias que fundamentaram tal decisão exigiria, a toda evidência, inadequada revisão do suporte fático-probatório constante dos autos, atraindo a incidência do óbice do enunciado n.º 7 da súmula do Superior Tribunal de Justiça. Precedentes.
+3. De se ressaltar, por fim, que o exame do pretenso dissídio jurisprudencial não se mostra viável, pois "A incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea c do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática" (AgRg no AR Esp 756384/RS - Relatora: Maria Isabel Gallotti - Órgão Julgador: Quarta Turma - Publicação: D Je de 19/02/2016).
+4. Pelo desprovimento do agravo" (e-STJ fl. 481).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, o entendimento jurisprudencial consolidado nas Turmas de Direito Privado desta Corte é no sentido de que os créditos garantidos por alienação fiduciária, ainda que o instrumento não tenha sido levado a registro, não se sujeitam aos efeitos da recuperação judicial.
+Confiram-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO RECLAMO. INSURGÊNCIA DA RECORRIDA.
+1. A decisão proferida pelo Tribunal estadual, em juízo de admissibilidade, não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial.
+2. Segundo o entendimento jurisprudencial firmado pelas Turmas que compõem a Segunda Seção desta Colenda Corte, os créditos garantidos por meio de alienação fiduciária não se sujeitam aos efeitos da recuperação judicial, ainda que destituídos de registro. Precedentes.
+3. Agravo interno desprovido".
+(AgInt nos EDcl no AREsp nº 831.496/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. BENS DADOS EM GARANTIA FIDUCIÁRIA. CRÉDITO NÃO SUJEITO A RECUPERAÇÃO JUDICIAL. POSSIBILIDADE DE AFETAÇÃO DOS BENS DADOS EM GARANTIA AO PLANO DE SOERGUIMENTO DA EMPRESA. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ALEGAÇÃO DE PREJUDICIALIDADE DO APELO NOBRE PELO PAGAMENTO DA DÍVIDA. CIRCUNSTÂNCIA NÃO CERTIFICADA PELAS INSTÂNCIAS DE ORGIEM. ALEGAÇÃO DE FALTA DE PREQUESTIONAMENTO REJEITADA. PRETENSÃO RECURSAL QUE NÃO DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICA. ALEGAÇÃO DE COISA JULGADA RECONHECENDO A CONCURSALIDADE DO CRÉDITO. INOVAÇÃO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não há como acolher a alegação de prejudicialidade do recurso especial por falta de interesse recursal decorrente do pagamento da dívida, porque essa circunstância fática além de não ter sido certificada pelas instâncias de origem, é impugnada pela parte recorrida.
+3. Ao contrário do que afirmado no presente agravo interno, houve prequestionamento expresso do dispositivo de lei apontado como violado nas razões do recurso especial.
+4. A pretensão deduzida no apelo nobre não esbarrava na Súmula n.º 7 do STJ porque, segundo a Jurisprudência desta Corte, os créditos garantidos por alienação fiduciária são excluídos dos efeitos da recuperação judicial independentemente do seu registro no Cartório de Títulos e Documentos.
+5. A alegação de que haveria coisa julgada, sujeitando o crédito questionado aos efeitos da recuperação judicial, não foi submetida ao Tribunal estadual, tendo sido apresentada somente nos embargos de declaração a decisão ora agravada, constituindo, por isso, indevida inovação recursal.
+6. Agravo interno não provido".
+(AgInt nos EDcl no REsp nº 1.864.698/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS RECEBIDOS COMO AGRAVO INTERNO. APLICAÇÃO DO ART. 1.024, § 3º, DO CPC/2015. CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. NÃO SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. REGISTRO. DESNECESSIDADE. BENS MÓVEIS FUNGÍVEIS. NÃO SUBMISSÃO AO REGRAMENTO DO CÓDIGO CIVIL. AGRAVO INTERNO DESPROVIDO.
+1. Sendo manifesto o intuito infringente dos embargos de declaração opostos, é possível o seu recebimento como agravo interno, desde que se determine previamente a intimação da parte recorrente para complementar as razões recursais, nos termos do art. 1.024, § 3º, do CPC/2015, como ocorrido na espécie.
+2. Conforme jurisprudência desta Casa, os créditos garantidos por alienação fiduciária estão excluídos dos efeitos do processo de recuperação judicial, independentemente do seu registro no Cartório de Títulos e Documentos do domicílio do devedor.
+3. Os bens objeto da presente garantia caracterizam-se como bens móveis fungíveis, não se submetendo, portanto, ao regramento do Código Civil.
+4. Agravo interno desprovido".
+(AgInt no AREsp nº 1.525.661/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/3/2021, DJe de 17/3/2021)
+Na hipótese dos autos, conforme assentou a Corte de origem, o instrumento particular de Constituição de Garantia Fiduciária encontra-se devidamente registrado. Assim, não há como afastar a conclusão de que o crédito se submete aos efeitos da recuperação judicial.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor não submetido à recuperação judicial, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
