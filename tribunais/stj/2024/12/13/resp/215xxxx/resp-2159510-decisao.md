@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO CESP com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Apelação cível. Plano de saúde. Cobertura para medicamento à base de cannabis. Indenização por danos morais. Sentença de parcial procedência. Recurso interposto pela ré.
+1. Medicamento não possui registro na ANVISA. Uso no caso concreto não caracteriza infração sanitária. Distinção do caso dos autos em relação ao precedente fixado pelo Superior Tribunal de Justiça, tema 990. No caso, a própria ANVISA autoriza a utilização do medicamento, sem registro. Desse modo, o próprio ente competente afasta a ocorrência de ilegalidade, ou risco à saúde pública, na importação do medicamento, desde que cumpridos os requisitos para importação estabelecidos na autorização.
+2. Medicamento de uso domiciliar. Cobertura excepcional. Aplicação analógica da ressalva disposta no art. 10, VI, Lei 9656/98. Medicamento destinado a tratar grave doença e é de alto custo.
+3. Rol da ANS. Pacta sunt se rvanda não é absoluto e deve ser interpretado em consonância com as normas de ordem pública, com os princípios constitucionais e, na presente hipótese, com o escopo de preservar a natureza e os fins do contrato. Boa-fé objetiva e função social do contrato (arts. 421 e 422, CC). O pleito encontra amparo ainda na Lei 14.454/22, que alterou a Lei 9656/98 e tornou o rol da ANS de taxatividade mitigada. Situação excepcional, que autoriza cobertura para procedimento não previsto no rol, conforme precedente STJ EREsps 1886929 e 1889704. Eficácia do tratamento presumida pela receita médica. Ausência de prova em sentido contrário. Inexistência de outro método igualmente eficaz e menos custoso.
+Apelação não provida." (e-STJ fl. 478).
+Os embargos declaratórios foram rejeitados (e-STJ fls. 659/665).
+No recurso especial (e-STJ fls. 487/520), a recorrente aponta, além de divergência jurisprudência, violação dos artigos 10 da Lei nº 9.656/1998 e 422 do Código Civil.
+Aduz que não se trata de medicamento para tratamento específico previsto em contrato, mas de cobertura de medicamento para uso domiciliar que não se destina à quimioterapia oral.
+Sustenta, ainda, não existir obrigatoriedade em fornecer medicamento fora da cobertura contratual e sem registro na ANVISA.
+Ao final, requer o provimento do recurso.
+Com contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+É certo que "as operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA" (Tema Repetitivo nº 990 do STJ).
+Confira-se o precedente qualificado:
+"RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. PLANO DE SAÚDE. CONTROVÉRSIA ACERCA DA OBRIGATORIEDADE DE FORNECIMENTO DE MEDICAMENTO NÃO REGISTRADO PELA ANVISA.
+1. Para efeitos do art. 1.040 do NCPC:
+1.1. As operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA.
+2. Aplicação ao caso concreto:
+2.1. Não há ofensa ao art. 535 do CPC/73 quando o Tribunal de origem enfrenta todas as questões postas, não havendo no acórdão recorrido omissão, contradição ou obscuridade.
+2.2. É legítima a recusa da operadora de plano de saúde em custear medicamento importado, não nacionalizado, sem o devido registro pela ANVISA, em atenção ao disposto no art. 10, V, da Lei nº 9.656/98, sob pena de afronta aos arts. 66 da Lei nº 6.360/76 e 10, V, da Lei nº 6.437/76. Incidência da Recomendação nº 31/2010 do CNJ e dos Enunciados nº 6 e 26, ambos da I Jornada de Direito da Saúde, respectivamente, A determinação judicial de fornecimento de fármacos deve evitar os medicamentos ainda não registrados na Anvisa, ou em fase experimental, ressalvadas as exceções expressamente previstas em lei; e, É lícita a exclusão de cobertura de produto, tecnologia e medicamento importado não nacionalizado, bem como tratamento clínico ou cirúrgico experimental.
+2.3. Porém, após o registro pela ANVISA, a operadora de plano de saúde não pode recusar o custeio do tratamento com o fármaco indicado pelo médico responsável pelo beneficiário.
+3. Recurso especial parcialmente provido. Acórdão sujeito ao regime do art. 1.040 do NCPC."
+(REsp nº 1.726.563/SP, relator Ministro MOURA RIBEIRO, Segunda Seção, julgado em 8/11/2018, REPDJe de 3/12/2018, DJe de 26/11/2018)
+Todavia, em caso de medicamento sem registro cuja importação foi autorizada pela ANVISA, este Tribunal Superior tem promovido o distinguishing.
+Nesse sentido, o entendimento jurisprudencial desta Corte Superior é de que a autorização da ANVISA para a importação do medicamento para uso próprio do paciente, sob prescrição médica, é medida que, embora não substitua o devido registro, evidencia a segurança sanitária do fármaco, porquanto pressupõe a análise da Agência Reguladora quanto à sua segurança e eficácia, além de excluir a tipicidade das condutas previstas no art. 10, IV, da Lei nº 6.437/1977, bem como nos arts. 12 c/c 66 da Lei nº 6.360/1976.
+A propósito:
+"RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. OBRIGAÇÃO DE A OPERADORA DE PLANO DE SAÚDE CUSTEAR MEDICAMENTO IMPORTADO NÃO REGISTRADO NA ANVISA. ATENDIMENTO AO CONCEITO DE SAÚDE BASEADA EM EVIDÊNCIAS (SBE) DO ROL TAXATIVO MITIGADO E DO ROL EXEMPLIFICATIVO COM CONDICIONANTES. TEMA 990. APLICAÇÃO DA TÉCNICA DA DISTINÇÃO (DISTINGUISHING) ENTRE A HIPÓTESE CONCRETA DOS AUTOS COM A QUESTÃO DECIDIDA EM SEDE DE RECURSO REPETITIVO. INTERPRETAÇÃO RAZOÁVEL DA CLÁUSULA CONTRATUAL. DANO MORAL NÃO CONFIGURADO.
+1. Ação de obrigação de fazer ajuizada em 16/09/2019, da qual foi extraído o presente recurso especial, interposto em 23/11/2021 e atribuído ao gabinete em 25/08/2022.
+2. O propósito recursal consiste em decidir sobre (i) a obrigação de a operadora de plano de saúde custear medicamento importado para o tratamento da doença que acomete a beneficiária, o qual, não consta no rol da ANS e, apesar de não registrado pela ANVISA, possui autorização para importação; e (ii) o cabimento da compensação por dano moral.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A prescrição do tratamento medicamentoso pelo médico assistente da beneficiária-recorrida está amparada no conceito de saúde baseada em evidências - SBE, em consonância seja com a tese da taxatividade mitigada do rol da ANS, firmada pela Segunda Seção, no julgamento dos EREsp 1.886.929/SP e dos EREsp 1.889.704/SP (DJe 03/08/2022), seja com a tese do rol exemplificativo com condicionantes, da Lei nº 14.454/2022.
+5. Segundo o entendimento consolidado pela 2ª Seção no julgamento do REsp 1.712.163/SP e do REsp 1.726.563/SP, sob a sistemática dos recursos repetitivos, "as operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA" (Tema 990 - julgado em 01/09/2020, DJe de 09/09/2020).
+6. A autorização da ANVISA para a importação do medicamento para uso próprio, sob prescrição médica, é medida que, embora não substitua o devido registro, evidencia a segurança sanitária do fármaco, porquanto pressupõe a análise da Agência Reguladora quanto à sua segurança e eficácia, além de excluir a tipicidade das condutas previstas no art. 10, IV, da Lei 6.437/77, bem como nos arts. 12 c/c 66 da Lei 6.360/76.
+7. Necessária a realização da distinção (distinguishing) entre o entendimento firmado no precedente vinculante e a hipótese concreta dos autos, na qual o medicamento (PURODIOL 200mg/ml) prescrito à beneficiária do plano de saúde, embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde.
+8. A orientação adotada pela jurisprudência desta Corte é a de ser possível, em determinadas situações fáticas, afastar a presunção de dano moral na hipótese em que a recusa de cobertura pelo plano de saúde decorrer de dúvida razoável na interpretação do contrato, por não configurar conduta ilícita capaz de ensejar o dever de compensação.
+9. Hipótese em que a atuação da operadora esta revestida de aparente legalidade, a afastar a ocorrência do ato ilícito caracterizador do dano moral.
+10. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido."
+(REsp nº 2.019.618/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 29/11/2022, DJe de 1/12/2022)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CUSTEIO DE MEDICAMENTO NÃO REGISTRADO NA ANVISA. AUTORIZAÇÃO EXCEPCIONAL PARA IMPORTAÇÃO. DEVER DE COBERTURA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. De acordo com a orientação da jurisprudência desta Corte, "a autorização da ANVISA para a importação excepcional do medicamento para uso hospitalar ou sob prescrição médica, é medida que, embora não substitua o devido registro, evidencia a segurança sanitária do fármaco, porquanto pressupõe a análise da Agência Reguladora quanto à sua segurança e eficácia, além de excluir a tipicidade das condutas previstas no art. 10, IV, da Lei 6.437/77, bem como nos arts. 12 c/c 66 da Lei 6.360/76" (REsp n. 1.923.107/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe de 16/8/2021).
+3. No caso, o medicamento prescrito ao beneficiário do plano de saúde, conquanto se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação autorizada, em caráter de excepcionalidade, pela referida agência reguladora, sendo, por conseguinte, de cobertura obrigatória pela operadora de plano de saúde. Precedentes.
+4. Estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior, tem incidência a Súmula n. 83/STJ, aplicável por ambas as alíneas autorizadoras.
+5. Agravo interno desprovido."
+(AgInt no REsp nº 2.076.008/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONHECIMENTO. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO CARACTERIZADO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. PACIENTE DIAGNOSTICADO COM TRANSTORNO DO ESPECTRO AUTISTA, EPILEPSIA E CONSTIPAÇÃO CRÔNICA DECORRENTE DE MÁ FORMAÇÃO CONGÊNITA INTESTINAL. TRATAMENTO MEDICAMENTOSO NECESSÁRIO. PRODUTO À BASE DE CANABIDIOL. AUTORIZAÇÃO EXCEPCIONAL PARA IMPORTAÇÃO. TEMA REPETITIVO N.º 990 DO STJ. DISTINÇÃO. RECUSA BASEADA NA INEXISTÊNCIA DE PREVISÃO DO TRATAMENTO EM ATO NORMATIVO DA ANS. DESCABIMENTO. COBERTURA DEVIDA. INCIDÊNCIA DAS SÚMULAS N.os 7 E 568 DO STJ. ALEGAÇÃO DE USO DOMICILIAR DA MEDICAÇÃO. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Para modificar o entendimento do Tribunal estadual acerca do cerceamento de defesa, seria necessário o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável nesta instância recursal em razão do óbice da Súmula n.º 7 do STJ.
+3. Esta Corte Superior tem decidido que é devida a cobertura do medicamento, o qual, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/8/2021, DJe 16/8/2021).
+4. É inviável o revolvimento das provas dos autos na estreita via do recurso especial, a teor do que dispõe a Súmula n.º 7 do STJ.
+5. Inadmissível o recurso especial referente à questão que não foi apreciada pelo Tribunal de origem, pela ausência de prequestionamento.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invoc ados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido."
+(AgInt no REsp nº 2.082.137/DF, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 9/10/2023, DJe de 11/10/2023)
+O Tribunal de origem fundamentou que:
+"(..)
+De fato, o medicamento não tem registro perante a ANVISA, mas nem por isso há que se falar em infração sanitária decorrente de sua importação e utilização, no caso concreto.
+É que, por meio da RDC nº 327, de dezembro de 2019, a ANVISA regulamentou os procedimentos para concessão da Autorização Sanitária para a fabricação e a importação, bem como estabeleceu requisitos para a comercialização, prescrição, a dispensação, o monitoramento e a fiscalização de produtos de Cannabis para fins medicinais.
+Ou seja, embora a substância não tenha sido efetivamente registrada, pode ser utilizada em território nacional, em situações excepcionais, previamente aprovadas e fiscalizadas pela própria ANVISA.
+Dessa forma, não há impedimento para uso desse medicamento no tratamento do autor.
+Assim, deve ser feita distinção entre o presente caso e a tese fixada pelo Superior Tribunal de Justiça, no julgamento dos recursos repetitivos nos R Esps 1.712.163/SP e 1.726.563/SP: "As operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA".
+O fundamento para fixação da tese foi a obediência às normas que regulam a saúde pública, notadamente a vedação de comercialização de substâncias sem o prévio controle da Agência Estatal.
+No caso, a própria ANVISA autoriza a utilização do medicamento, sem registro. Desse modo, o próprio ente competente afasta a ocorrência de ilegalidade, ou risco à saúde pública, na importação do medicamento, desde que cumpridos os requisitos para importação estabelecidos na autorização.
+Assim sendo, conclui-se que a ausência de registro é suprida pela autorização excepcional emitida pela ANVISA, não havendo impedimento para que a operadora forneça o tratamento.
+Também não vinga a tese de que a negativa é lícita, em razão do uso domiciliar do medicamento. Isso porque a Lei 9656/98, em seu art. 10, VI, diz que os medicamentos antineoplásicos, mesmo ministrados oralmente e de uso domiciliar, têm cobertura obrigatória.
+Essa ressalva deve ser aplicada analogicamente ao autor desta demanda, que também é portador de grave doença e o medicamento é de alto custo. Entendimento contrário seria dar tratamento diferente a situações iguais.
+Especificamente sobre o contrato em testilha, é típico contrato de adesão, impondo-se a regra de hermenêutica segundo a qual as cláusulas devem ser interpretadas a favor do autor, que aderiu a contrato-padrão estabelecido pelo réu.
+A aplicação da normas e dos dos princípios que regem o Direito Civil, notadamente o princípio da boa-fé e função social do contrato, levam à conclusão que a ré tem obrigação de fornecer o tratamento.
+(..)
+Nada obstante válido o princípio da pacta sunt servanda, não é ele absoluto, e deve ser interpretado em consonância com as normas de ordem pública, com os princípios constitucionais e, na presente hipótese, com o escopo de preservar a natureza e os fins do contrato.
+O objetivo contratual da assistência médica comunica-se, necessariamente, com a obrigação de restabelecer ou procurar restabelecer, através dos meios técnicos possíveis, a saúde dos pacientes. Ora, se a doença tem cobertura contratual, os tratamentos e exames também terão e devem acompanhar a evolução das técnicas da medicina.
+O procedimento prescrito nada mais é do que a continuidade do tratamento para doença coberta pelo contrato. A negativa viola justa expectativa do paciente pela cobertura pelo método com melhores chances sucesso.
+Efetivamente, podem as limitações contratuais (art. 757, 758 e 759, CC) até abranger rede de atendimento hospitalar, laboratorial e tipo de acomodação, mas em nenhuma circunstância o tratamento que tenha por objetivo restabelecer a saúde da contratante. Não pode o plano de saúde limitar os métodos que levarão à cura do paciente, sob pena de frustrar a finalidade do contrato.
+Assim sendo, o rol da ANS representa cobertura mínima, mas jamais exaustiva, pois a lista de procedimentos médicos e medicamentos autorizados é editada com certo atraso e esse fato não pode prejudicar o paciente.
+Restringir o atendimento ao rol da ANS seria negar ao paciente tratamento mais avançado, ou até ao único existente, pois os trâmites burocráticos da Agência não acompanham o avanço científico.
+O pleito encontra amparo ainda na lei 14.454/22, que alterou a lei 9656/98 e tornou o rol da ANS de taxatividade mitigada:
+(..)
+Em situações excepcionais, como a dos autos, a cobertura deve ser estendida a tratamento não previsto no rol, sob pena de negar ao paciente o único tratamento disponível.
+Veja-se que o precedente do Superior Tribunal de Justiça abre essa possibilidade (ER Esps 1886929 e 1889704):
+(..)
+No caso, a eficácia do medicamento está amparada no relatório médico, cuja presunção não foi afastada por qualquer prova em sentido contrário, bem como não houve indicação pela ré de outro método igualmente efetivo e menos custoso." (e-STJ fls. 479/483).
+Não pode a operadora de plano de saúde recusar o custeio de fármaco cuja importação foi permitida pela ANVISA para o tratamento de saúde.
+Assim, como o acórdão estadual está em harmonia com a jurisprudência deste Tribunal Superior, não há como reformá-lo.
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 2.200,00 (dois mil e duzentos reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
