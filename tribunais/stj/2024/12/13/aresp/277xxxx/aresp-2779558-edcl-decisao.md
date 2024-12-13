@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CARLOS ALBERTO ZITTA à decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+Excelência, com o devido respeito, o Embargante impugnou especificamente todos os fundamentos da decisão que não admitiu o recurso especial, qual seja, o art. 1.026 do CPC, bem como, trouxe à luz a discussão sobre a matéria de ordem pública reconhecida por esta corte, qual seja, a interrupção do prazo de apelação tendo em vista o conhecimento dos embargos de declaração opostos em primeira instância.
+A decisão proferida pela presidência do Tribunal de Origem, fundamentou especificamente quando o não reconhecimento e aplicação dos efeitos do art. 1.026.
+O embargante fez a impugnação específica dos fundamentos apresentados pelo Tribunal, demonstrando que a contagem do prazo deveria ser a partir da decisão que conhece dos Embargos de Declaração, a qual interrompe a contagem do prazo recursal. E como os embargos foram de fato conhecidos em primeira instância, ao longo de suas razões recursais e razões do agravo restou comprovado e utilizado de fundamento para atacar os fundamentos do tribunal de origem.
+Ademais, a embargante, também invoca a matéria de ordem pública em suas razões de agravo e de recurso especial, qual seja a Interrupção do prazo de interposição de recurso, ante ao conhecimento dos embargos de declaração em primeira instância.(fl. 592).
+Ademais, o embargante invocou a Matéria de Ordem Pública já que, pelo entendimento do STJ, a tempestividade é um dos requisitos de admissibilidade do Recurso, desta forma o recurso especial deve ser admitido para ter a análise da matéria de ordem pública invocada pelas competentes turmas a qual seria distribuído, justamente para sanar eventual injustiça.(fl.593)
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, Súmula 283/STF e deficiência de cotejo analítico, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
