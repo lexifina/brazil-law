@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por CREFISA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra a decisão que inadmitiu seu recurso especial.
+O apelo extremo, fundamentado no artigo 105, III, alíneas "a" e "c" da Constituição Federal, impugna acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"REVISIONAL DE CONTRATO DE EMPRÉSTIMO BANCÁRIO - POSSIBILIDADE DE READEQUAÇÃO DAS TAXAS DE JUROS REMUNERATÓRIOS ESTIPULADAS NO MÚTUO DIANTE DA DESVANTAGEM EXAGERADA E DA ONEROSIDADE EXCESSIVA A QUE FOI EXPOSTA A CONSUMIDORA - ENTENDIMENTO SUFRAGADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA - MITIGAÇÃO DO PACTA SUNT SERVANDA - REDUÇÃO DOS JUROS COMPENSATÓRIOS EM RAZÃO DA IDENTIFICADA ABUSIVIDADE - MUTUÁRIA QUE FAZ JUS À DEVOLUÇÃO DO QUE LHE FOI COBRADO INDEVIDAMENTE - HONORÁRIOS SUCUMBENCIAIS QUE COMPORTAM MINORAÇÃO - RECURSO PROVIDO, EM PARTE
+Deve ser flexibilizado o mantra jurídico pacta sunt servanda para autorizar-se a revisão contratual de mútuo bancário, dês que a abusividade seja demonstrada (STJ - Agravo Interno no Recurso Especial nº 1.920.112/PR, Terceira Turma, unânime, relator Ministro Marco Aurélio Bellizze, j. em 21.2.2022). Se isso for constatado, os juros remuneratórios comportam redução para equivalerem à média de mercado (STJ - Agravo Interno no Agravo em Recurso Especial nº 1.823.166/RS, Quarta Turma, unânime, relator Ministro Marco Buzzi, j. em 21.2.2022).
+"A procedência dos pedidos formulados em ação revisional de contrato bancário possibilita tanto a compensação de créditos quanto a devolução da quantia paga indevidamente, em obediência ao princípio que veda o enriquecimento ilícito" (STJ - Agravo Interno no Recurso Especial nº 1.679.635/PR, Quarta Turma, unânime, relator Ministro Antonio Carlos Ferreira, j. em 10.8.2020).
+A singela complexidade da causa e a azeitada fluidez do trâmite do processo devem influenciar no arbitramento dos honorários sucumbenciais, de modo que comporta minoração o estipêndio fixado em valor hiperbólico, ou seja, em dissonância com as balizas emanadas do disposto no artigo 85, § 2º, do Código de Processo Civil." (e-STJ fl. 548)
+Os embargos de declaração foram rejeitados, com aplicação de multa (e-STJ fls. 655-658).
+Nas razões do recurso especial, a recorrente aponta violação art. 421 do Código Civil, sustentando, em síntese, que no mútuo bancário, os juros remuneratórios não podem ser considerados abusivos apenas se comparadas as taxas dos juros contratados com a média de mercado.
+Indica contrariedade aos arts. 80, VII, e 1.026, § 2º, do Código de Processo Civil, insurgindo-se contra a multa arbitrada nos embargos de declaração, sob o argumento de que não são protelatórios, já que opostos com a finalidade de prequestionar a matéria em discussão nos autos, nos termos da Súmula nº 98/STJ.
+Aponta divergência jurisprudencial entre o acórdão recorrido e o Recurso Especial nº 1.821.182/RS, acerca da limitação dos juros remuneratórios.
+Sem contrarrazões (e-STJ fl. 856).
+Na origem, negou-se seguimento ao recurso especial quanto à limitação dos juros remuneratórios, em razão dos Temas 24 a 27/STJ, e, quanto à multa dos embargos de declaração, inadmitiu-se o recurso por incidência da Súmula 7/STJ .
+O agravo interno interposto contra a negativa de seguimento do apelo nobre foi improvido (e-STJ fl. 909-912)
+O presente agravo defende a não incidência da Súmula nº 7/STJ para o afastamento da abusividade dos juros remuneratórios e da multa arbitrada nos embargos
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Relativamente à limitação dos juros (Tema 24 a 28/STJ), a 3ª Vice-Presidente do Tribunal de Justiça do Estado de Santa Catarina negou seguimento ao recurso especial com base no art. 1.030, inciso I, "b", do Código de Processo Civil, o que enseja a interposição de agravo interno no próprio tribunal de origem, nos termos do art. 1.030, § 2º, do CPC.
+Assim, no ponto, o agravo não merece ser conhecido.
+Quanto à apontada violação do art. 1.026, § 2º, do Código de Processo Civil, o tribunal de origem assim dirimiu a questão:
+"2. Ao opor recurso com intuito de ressuscitar a discussão de matéria explicitamente tratada no acórdão objurgado, vislumbra-se, de forma evidente, o intuito protelatório da instituição financeira, cuja conduta errática deve ser repreendida tanto com aplicação da multa prevista no artigo 1.026, § 2º quanto do artigo 80, inciso VII, ambos do Código de Processo Civil.
+Ante o exposto, voto no sentido de rejeitar os aclaratórios, condenando-se a embargante no pagamento da sanção prevista no artigo 1.026, § 2º do Código de Processo Civil, no valor de 2% do valor atualizado da causa, bem como de multa por litigância de má-fé no percentual de 10% do valor atualizado atribuído à causa (CPC, art. 80, inc. VII)." (e-STJ fls. 655-656)
+Ao que se vê, o reexame da questão, a fim de se afastar o caráter protelatório dos embargos de declaração demandaria o revolvimento de matéria fático-probatória, o que é inviável na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO DA PRESIDÊNCIA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS POR SUPOSTA INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO - SERASA -VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, I, DO CPC. NÃO OCORRÊNCIA. MULTA PROCESSUAL APLICADA NA ORIGEM. ART. 1.026, § 2º, DO CPC. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ATO ILÍCITO DO SERASA. NÃO VERIFICADO. LITIGÂNCIA DE MÁ-FÉ. RECONHECIMENTO NA ORIGEM. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DEFICIÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência do STJ, cabe aos bancos de dados e cadastros de inadimplentes apenas a anotação das informações passadas pelos credores, não sendo de sua alçada a confirmação dos dados fornecidos.
+4. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+5. Rever a conclusão adotada pela Corte estadual sobre a caracterização de litigância de má-fé demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, em razão do teor da Súmula 7 do STJ 6. O dissídio jurisprudencial deve ser demonstrado conforme preceitua o art. 1.029, § 1º, do Código de Processo Civil, mediante o cotejo analítico dos arestos e a demonstração da similitude fática, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+7. Agravo interno desprovido."
+(AgInt no AREsp n. 2.615.433/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/10/2024, DJe de 16/10/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. OFENSA A ENUNCIADO DE SÚMULA. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA. ARTS. 489, § 1º, IV, e 1.022, I e II, DO CPC. OMISSÃO. INEXISTÊNCIA. SIMULAÇÃO E USUCAPIÃO CONFIGURADAS E APLICAÇÃO DE MULTA NOS EMBARGOS DE DECLARAÇÃO. ANÁLISE. INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+3. A conclusão a que chegou o Tribunal de origem, no sentido de que estão evidenciadas a simulação no contrato de compra e venda e a usucapião, bem como é cabível a aplicação da multa nos embargos declaratórios, foi baseada no contrato celebrado entre as partes, assim como nos fatos e provas existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente na interpretação das cláusulas contratuais e no reexame dos fatos e provas, o que é vedado nesta fase recursal. Incidência das Súmulas n. 5 e 7/STJ.
+(..)
+Agravo interno improvido."
+(AgInt nos EDcl no AREsp n. 2.331.331/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023)
+Ante o exposto, conheço parcialmente do agravo e, nesta extensão, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 1.700,00 (um mil e setecentos reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
