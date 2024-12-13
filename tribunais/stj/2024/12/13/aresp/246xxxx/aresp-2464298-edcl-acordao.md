@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. MANIFESTAÇÃO CLARA E FUNDAMENTADA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por FUNDAÇÃO COSIPA DE SEGURIDADE SOCIAL ao acórdão assim ementado:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA FECHADA. APOSENTADORIA SUPLEMENTAR. CESSAÇÃO DE PAGAMENTO. INADIMPLEMENTO DA PATROCINADORA. DECRETAÇÃO DA FALÊNCIA (COFAVI). RESPONSABILIDADE PATRIMONIAL. PREVIDÊNCIA USIMINAS. PACIFICAÇÃO DO TEMA. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/1973.
+1. A Segunda Seção deste Tribunal Superior, ao apreciar o REsp nº 1.964.067/ES e os EREsp nº 1.673.890/ES, adotou, por maioria, o entendimento de que é dever do ente previdenciário assegurar o pagamento do benefício ao participante que já cumpriu as condições previstas contratualmente para tanto, embora tenha ocorrido a falência da patrocinadora e a ausência de repasse de contribuições ao fundo previdenciário.
+2. Até a liquidação extrajudicial do plano de previdência privada dirigido aos empregados da Companhia Ferro e Aço de Vitória - COFAVI, a Fundação Cosipa de Seguridade Social - FEMCO, atual PREVIDÊNCIA USIMINAS, é responsável pelo pagamento, contratado no respectivo plano de benefícios, de complementação de aposentadoria devida aos participantes/assistidos, ex-empregados da patrocinadora COFAVI, aposentados em data anterior à denúncia do convênio de adesão, em março de 1996, mesmo após a falência da COFAVI, observada a impossibilidade de se utilizar o patrimônio pertencente ao fundo FEMCO/COSIPA quando, na instância ordinária, for reconhecida a ausência de solidariedade entre os fundos. Precedentes.
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+4. Não escapa o recorrente da imposição da multa de que trata o parágrafo único do art. 538 do Código de Processo Civil de 1973 ante a oposição de declaratórios de caráter manifestamente protelatório.
+5. Agravo interno não provido" (e-STJ fls. 3.387/3.388).
+Nas presentes razões, a parte embargante aduz que devem ser esclarecidas quais reservas patrimoniais da entidade fechada de previdência garantirão o pagamento do benefício a ser pago, considerando que ela não tem fins lucrativos nem patrimônio próprio.
+Afirma que houve erro de premissa acerca do entendimento firmado no REsp 1.248.975/ES, pelo contrário, pois busca que a aplicação deste seja aprimorada, a fim de que se afaste a necessidade de verificação casuística da inexistência de solidariedade e do exaurimento dos recursos do fundo FEMCO/Cofavi.
+Por fim, aponta violação dos arts. 5º, XXII, e 202 da Constituição Federal, a qual deve ser apreciada por esta Corte.
+Impugnação às e-STJ fls. 3.416/3.419.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. MANIFESTAÇÃO CLARA E FUNDAMENTADA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se, desde logo, que a decisão embargada não padece de nenhum dos vícios ensejadores dos embargos de declaração enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindo omissão ou erro material a serem sanados.
+Eis, por oportuno, excertos do referido julgado:
+"(..)
+No caso, conforme consignado na decisão agravada, a Segunda Seção deste Tribunal Superior, ao apreciar o REsp nº 1.964.067/ES e os EREsp nº 1.673.890/ES, adotou, por maioria, o entendimento de que é dever do ente previdenciário assegurar o pagamento do benefício ao participante que já cumpriu as condições previstas contratualmente para tanto, embora tenha ocorrido a falência da patrocinadora e a ausência de repasse de contribuições ao fundo previdenciário.
+(..)
+Ademais, as teses aventadas nas razões recursais do presente agravo interno (exaurimento de recursos do fundo previdenciário e direito de propriedade dos participantes da Femco/Cosipa) foram devidamente exteriorizadas nos votos vencidos daqueles feitos paradigmáticos. Assim, acabou por ser reafirmada a orientação definida anteriormente no REsp nº 1.248.975/ES (rel. Ministro Raul Araújo, Segunda Seção, DJe 20/8/2015), no sentido de que,
+"(..)
+Até a liquidação extrajudicial do plano de previdência privada dirigido aos empregados da Companhia Ferro e Aço de Vitória - COFAVI, a Fundação Cosipa de Seguridade Social - FEMCO, atual PREVIDÊNCIA USIMINAS, é responsável pelo pagamento, contratado no respectivo plano de benefícios, de complementação de aposentadoria devida aos participantes/assistidos, ex-empregados da patrocinadora COFAVI, aposentados em data anterior à denúncia do convênio de adesão, em março de 1996, mesmo após a falência da COFAVI, observada a impossibilidade de se utilizar o patrimônio pertencente ao fundo FEMCO/COSIPA quando, na instância ordinária, for reconhecida a ausência de solidariedade entre os fundos."
+Ressalta-se que a Quarta Turma desta Corte Superior já vem reforçando o entendimento majoritário adotado na Seção de Direito Privado, conforme se colhe dos seguintes julgados:
+(..)
+Tal entendimento foi consolidado pela Segunda Seção desta Corte, conforme se colhe na seguinte ementa:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA USIMINAS. RESPONSABILIDADE PATRIMONIAL DA ENTIDADE PREVIDENCIÁRIA. TEMA PACIFICADO PELA SEGUNDA SEÇÃO DO STJ. ENTENDIMENTO ADOTADO PELO SÚMULA 168/ST AGRAVO NÃO PROVIDO.
+1. Os embargos de divergência visam a harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+2. O acórdão embargado está em consonância com a jurisprudência atual do STJ no sentido de que a falência da patrocinadora Cofavi ou o eventual esgotamento dos recursos do fundo de previdência não constituiu fato extraordinário hábil a isentar a entidade previdenciária da obrigação de pagar os benefícios pelos quais se comprometeu, concluindo-se, portanto, pela responsabilidade da Previdência Usiminas" (REsp n. 1.964.067/ES, Rel. Min. Luis Felipe Salomão, Segunda Seção, julgado em 8/6/2022, D Je 5/8/2022).
+3. Agravo interno não provido." (AgInt nos EAREsp nº 1.145.398/ES, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 28/5/2024, DJe de 3/6/2024) (..)" (e-STJ fls. 3.390/3.393).
+Além disso, nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar nesta seara a violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO VIRTUAL. RETIRADA DE PAUTA. SUSPENSÃO DO PROCESSO. PARTE RECORRENTE. DOENÇA. PEDIDO IMPROCEDENTE. AUSÊNCIA. PREJUÍZO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Inexiste o direito de suspensão do processo e retirada de pauta do agravo interno em razão de doença da parte recorrente, tendo em vista ser representada no processo por seu advogado, inexistindo prejuízo.
+2. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+3. Embargos de declaração rejeitados" (EDcl no AgInt no AgInt no AREsp 1.603.181/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOCUMENTO QUE JÁ ENCONTRAVA NOS AUTOS. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. ANÁLISE DE OFENSA A MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. "É vedado à parte recorrente, em sede de embargos de declaração e agravo regimental, suscitar matéria que não foi suscitada anteriormente, em virtude da ocorrência da preclusão consumativa" (AgRg no RE nos EDcl no AgRg no AREsp n. 744.187/DF, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/11/2018, DJe de 28/11/2018).
+2. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+3. Com efeito, "não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt nos EREsp 1.544.786/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020).
+4. Embargos de declaração rejeitados" (EDcl no AgInt no AREsp 2.407.679/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEBATE NA INSTÂNCIA ORDINÁRIA. SÚMULA N. 211/STJ. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, observou que a Corte de origem não debateu acerca da incidência da Taxa Selic, o que impede esta Corte Superior de conhecer sobre a temática ante o óbice da Súmula n. 211/STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+4.Diante do caráter manifestamente protelatório dos embargos de declaração, aplica-se multa à parte embargante de 2% sobre o valor atualizado da causa, com base no art. 1.026, § 2º, do CPC.
+Embargos de declaração rejeitados, com aplicação de multa" (EDcl nos EDcl no AgInt nos EDcl no AREsp 2.270.307/MA, Relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024).
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+É o voto.
