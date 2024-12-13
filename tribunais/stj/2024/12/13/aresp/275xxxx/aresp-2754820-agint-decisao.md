@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interno interposto por SUPERMERCADOS BH COMÉRCIO DE ALIMENTOS S.A. (SUPERMERCADOS BH) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação dos fundamentos da decisão de inadmissibilidade do apelo nobre (ausência de afronta ao art. 1.022 do CPC, Súmula n.º 735 do STF e Súmula n.º 7 do STJ).
+Nas razões do presente inconformismo, alegou ter se insurgido contra todos os fundamentos do juízo de admissibilidade do recurso especial, pugnando pela reforma da decisão agravada.
+Foi apresentada contraminuta (e-STJ, fls. 1.122/1.123).
+É o relatório.
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de, e-STJ, fls. 1.096/1.097, e passo ao exame do recurso especial que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, SUPERMERCADOS BH alegou a violação dos arts. 369, 489, § 1º, IV, e 1.022, I, do CPC, e 68, II, da Lei n.º 8.245/91, ao sustentar (1) a existência de contradição no acórdão recorrido acerca dos requisitos para a concessão da tutela de urgência, notadamente, ante o manifesto desequilíbrio contratual, pela cobrança de valor desproporcional; e (2) a razoabilidade e proporcionalidade do valor indicado por sua assessoria técnica, que se baseou em vistoria adequeda e critérios idôneos para a obtenção do aluguel provisório do imóvel, até que seja concluída a fase instrutória e julgado em definitivo o processo.
+Na origem, trata-se de agravo de instrumento interposto por CHEVEL IMOBILIÁRIA LTDA. - EMPRESA DE PEQUENO PORTE e JOSÉ SILVA & FILHOS EMPREENDIMENTOS E PARTICIPAÇÕES SOCIETÁRIAS LTDA. contra a decisão do Juízo singular que, nos autos da ação revisional de contrato de locação comercial ajuizada pelo ora insurgente, deferiu a tutela de urgência para fixar o aluguel provisório no percentual de 80% do atual valor cobrado, a partir da citação e até ulterior revisão da decisão.
+O recurso foi provido pelo Tribunal de Justiça de Minas Gerais, para reformar a decisão impugnada e indeferir a tutela de urgência requerida .
+(1) Da violação aos arts. 489, § 1º, IV, e 1.022, I, do CPC
+Sobre o tema controvertido, ao dar provimento ao agravo de instrumento interposto pelas ora recorridas, o Tribunal mineiro assim se pronunciou:
+No caso dos autos, a parte agravada afirma que, desde 01 de novembro de 2010, as partes possuem relação jurídica por meio de Contrato de Locação, cujo objeto consiste na locação da loja de nº 116, localizada na Rua Centralina, nª 109, em Divinópolis/MG.
+Narra que, na oportunidade, fora pactuado o aluguel mensal no importe de R$ 35.000,00 (trinta e cinco mil reais), ou 1,5% do faturamento total mensal, com a duração de 120 meses.
+Neste contexto, a agravada afirmou que foram firmados três termos aditivos de contrato no decorrer dos anos, razão pela qual o valor atualizado do aluguel perfaz o montante de R$ 100.064,50 (cem mil e sessenta e quatro reais e cinquenta centavos) mensais, valor este extremamente desarrazoado, motivando a propositura da demanda.
+Conforme dispõe a Lei nº 8.245/91, em seu artigo 68, II, alínea "b", o juiz poderá fixar aluguel provisório, na ação revisional de aluguéis, nos seguintes termos:
+Art. 68. Na ação revisional de aluguel, que terá o rito sumário, observar-se-á o seguinte:
+ ..
+II - ao designar a audiência de conciliação, o juiz, se houver pedido e com base nos elementos fornecidos tanto pelo locador como pelo locatário, ou nos que indicar, fixará aluguel provisório, que será devido desde a citação, nos seguintes moldes:
+ ..
+b) em ação proposta pelo locatário, o aluguel provisório não poderá ser inferior a 80% (oitenta por cento) do aluguel vigente;
+ ..
+No entanto, a própria redação do dispositivo acima vincula o magistrado à análise dos elementos de convicção apresentados tanto pelo locador quanto pelo locatário, ou àqueles que o próprio Juiz indicar.
+No caso em exame, a parte agravada pleiteou a fixação do aluguel provisório no importe de R$80.051,60 (oitenta mil cinquenta e um reais e sessenta centavos), correspondentes a 80% do valor atual do contrato de locação vigente, sendo este pedido deferido pelo magistrado singular.
+Contudo, a agravada não cuidou de juntar documentos demonstrativos de incompatibilidade entre os valores cobrados em outros contratos locatícios, limitando-se a juntar laudo de avaliação unilateral.
+Ademais, ao analisar as razões apresentadas e os documentos jungidos aos autos, é possível perceber a necessidade de uma ampla instrução processual para se averiguar os fundamentos de fato e de direito que foram levantadas pela parte agravada, razão pela qual afasta a probabilidade do direito invocado. Saliente-se a parte recorrida não demonstrou o gravíssimo desequilíbrio contratual, de modo que a simples alegação de dificuldade econômica enfrentada pela autora, não é suficiente, por si só, a justificar a redução dos alugueis no patamar pretendido.
+Ressalte-se que a questão posta demanda maior dilação probatória. Assim, antes de demonstrado satisfatoriamente o desequilíbrio contratual, com a afetação do contrato, deve ser preservada a autonomia da vontade das partes.
+Além disso, não se evidencia o perigo de dano ou risco ao resultado útil do processo para o deferimento do pedido formulado pela parte autora, tendo em vista que a recorrida se trata de uma grande cadeia de supermercados com expressivo capital social, bem como ausentes elementos que demonstrem a impossibilidade de arcar com o aluguel vigente até decisão final (e-STJ, fls. 778/880).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do CPC, o que busca SUPERMERCADOS BH é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n.º 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original.)
+Não se verifica, portanto, a apontada negativa da prestação jurisdicional.
+(2) Dos requisitos para a concessão da tutela de urgência
+Por sua vez, da leitura dos fundamentos transcritos no tópico anterior, verifica-se que, a partir da análise das circunstâncias fático-probatórias da causa, concluiu o órgão julgador pela ausência dos requisitos ensejadores da concessão liminar da fixação de honorários provisórios, daí não se justificar a redução dos aluguéis no patamar pretendido.
+Na linha da jurisprudência desta Corte Superior, em regra, não é cabível recurso especial com o objetivo de reexaminar acórdão que defere ou indefere medida liminar ou antecipação de tutela, em virtude da natureza precária do provimento jurisdicional concedido pela origem, e que está sujeito a modificação a qualquer tempo.
+Incide, por analogia, a Súmula n.º 735 do STF, in verbis: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS E LUCROS CESSANTES. TUTELA DE URGÊNCIA ANTECIPADA. DEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA TUTELA REQUERIDA. SÚMULA 7/STJ E 735 /STF. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula n. 735/STF.
+2. A análise do preenchimento ou não dos requisitos da tutela de urgência demandaria o reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp n.º 1.740.126/GO, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 1º/3/2021, DJe de 3/3/2021.)
+Nessas condições, em juízo de reconsideração, passando a nova análise da causa, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO REVISIONAL DE CONTRATO DE LOCAÇÃO COMERCIAL. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. (2) AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE EXAMINA PEDIDO DE LIMINAR. INCIDÊNCIA DAS SÚMULAS N.º 735 DO STF E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
