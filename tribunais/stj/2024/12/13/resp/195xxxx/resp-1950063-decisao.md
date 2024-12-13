@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELAINE FERREIRA JACULI SILVA, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - CARTÃO DE CRÉDITO - EXTRAVIO, FURTO OU ROUBO - SENHA PESSOAL E INTRANSFERÍVEL - RESPONSABILIDADE DO TITULAR ATÉ A COMUNICAÇÃO DO FATO À ADMINISTRADORA.
+Incumbe ao usuário de cartão de crédito, utilizável mediante senha pessoal e secreta, comunicar imediatamente o seu extravio, furto ou roubo, sob pena de ser responsável pelas transações realizadas até a comunicação" (fl. 197 e-STJ).
+No recurso especial, a recorrente alega que houve violação dos arts. 14 do Código de Defesa do consumidor, 186 e 927 do Código Civil, pois a responsabilidade por danos causados por terceiros, quando não há culpa do titular do cartão, é das administradoras dos cartões de crédito.
+Apresentadas as contrarrazões (fls. 217/223 e-STJ), o recurso foi admitido por força da decisão proferida no AgInt no AREspnº 1.574.907/MG (fl. 272 e-STJ).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+O tribunal estadual, ao negar provimento ao apelo da ora recorrente, consignou que
+"(..)
+A autora Elaine Ferreira Jaculi Silva firmou com o réu Banco Itaucard S/A contrato para utilização do cartão de crédito por este administrado (cf. 63 e seguintes).
+A utilização do cartão de crédito se faria mediante senha secreta, escolhida e registrada pelo usuário, como reconhecido pela autora na exordial.
+Nas condições gerais do contrato firmado pelas partes, que se acha às f. 63 e seguintes, ficou claro que, para evitar fraudes, o usuário do cartão deveria "manter o sigilo das senhas relativas ao Cartão, as quais são de uso pessoal e intransferível" (cláusula 11.2, alínea "a", às f. 67).
+Restou, ainda, avençado que, "no caso de furto ou roubo do Cartão", o usuário deveria "comunicar imediatamente o fato à central de atendimento e encaminhar ao Emissor a cópia do Boletim de Ocorrência lavrado pela autoridade policial competente" e que, "até que haja a comunicação da perda, extravio, furto ou roubo do Cartão", o usuário continuaria "responsável pela utilização do Cartão e por todos os débitos daí decorrentes" (cláusula 11.1, às f. 67).
+Com estas observações, adentro ao mérito da demanda.
+Por volta das 20:45 horas do dia 1 de junho de 2.015, o veículo da autora foi roubado, o que motivou a lavratura, às 22:01 horas do mesmo dia, do Boletim de Ocorrência Policial anexado às f. 19 e seguintes. Consta do referido Boletim o roubo de vários objetos que se encontravam no veículo, entre os quais o cartão de crédito acima mencionado (f. 21).
+Não obstante isto, o cartão só foi cancelado às 22:17 do mesmo dia, quando já haviam sido efetuadas, pelos meliantes, quatro compras com a utilização do referido cartão.
+Estas compras, conforme reconhecido pela autora na exordial, ocorreram no intervalo de tempo entre o roubo e a sua comunicação ao Banco, como reconheceu a autora na exordial (f. 3).
+Como já ressaltado, incumbe ao usuário de cartão de crédito, utilizável mediante senha pessoal e secreta, comunicar imediatamente o seu extravio, furto ou roubo, sob pena de ser responsável pelas transações realizadas até a comunicação, que é o que ocorreu na espécie.
+Anoto que o Código de Defesa do Consumidor, aplicável ao caso, determina que "o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços" (caput do artigo 14), considerando-se que "o serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar" (1º do mesmo artigo).
+Esta responsabilidade só não será imputada ao prestador dos serviços se comprovar que "o defeito inexiste"ou que houve "a culpa exclusiva do consumidor ou de terceiro" (incisos 1 e II do § 30 do mesmo artigo 14).
+No presente caso, não houve a falha na prestação dos serviços e tudo ocorreu por culpa exclusiva do consumidor, que não comunicou a tempo o roubo do cartão de crédito, bem como permitiu que os meliantes soubessem a sua senha secreta e pessoal, sem a qual não poderiam se valer do cartão de crédito para efetuarem as transações" (fls. 199-201 e-STJ - grifou-se).
+Nesse contexto, embora a jurisprudência do STJ esteja sedimentada quanto à compreensão de que "o fato de as compras terem sido realizadas no lapso existente entre o furto e a comunicação ao banco não afasta a responsabilidade da instituição financeira" (REsp n. 1.995.458/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/8/2022, DJe de 18/8/2022), também é assente o entendimento no sentido de que "a responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista" (AgInt no AREsp n. 2.616.138/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/11/2024, DJe de 13/11/2024).
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDANTE.
+1. Os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar em inovação recursal.
+2. Nos termos da jurisprudência deste STJ, há responsabilidade do correntista pelos prejuízos decorrentes de operações bancárias realizadas por terceiros com uso de cartão e senha pessoais. Incidência da Súmula 83/STJ.
+2.1. Rever as conclusões das instâncias ordinárias sobre a ocorrência dos fatos que envolvem a lide encontra óbice na Súmula 7/STJ.
+3. Agravo interno desprovido." (AgInt no REsp n. 2.096.143/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024 - grifou-se)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECLAMAÇÃO. DIREITO DO CONSUMIDOR. COMPRAS REALIZADAS POR TERCEIRO COM APRESENTAÇÃO FÍSICA DO CARTÃO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA AFASTADA. PRECEDENTES.
+1. "A responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista" (AgInt no REsp 1.855.695/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/8/2020, DJe 27/8/2020).
+2. Agravo interno a que se nega provimento." (AgInt no AREsp n. 2.394.866/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024 - grifou-se)
+E, no caso, como se extrai da moldura fática assentada pelo acórdão recorrido, "não houve a falha na prestação dos serviços e tudo ocorreu por culpa exclusiva do consumidor, que não comunicou a tempo o roubo do cartão de crédito, bem como permitiu que os meliantes soubessem a sua senha secreta e pessoal, sem a qual não poderiam se valer do cartão de crédito para efetuarem as transações".
+Portanto, além de a jurisprudência desta Corte ser firme no sentido de "não se poder rever o entendimento exarado no Tribunal de origem quanto à eventual ausência de responsabilidade civil objetiva e em razão da ausência de nexo causal, ante o óbice da Súmula n. 7/STJ" (AgInt nos EDcl no AREsp n. 1.869.356/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024.), considerada a culpa da recorrente apontada pelo aresto atacado, a linha argumentativa desenvolvida pela recorrente não se revela capaz de evidenciar o malferimento da legislação federal invocada, o que também atrai a incidência da Súmula nº 284/STF.
+De fato, ao contrário do alegado, o acórdão recorrido se alinha à jurisprudência do STJ, atraindo a Súmula nº 568/STJ.
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
