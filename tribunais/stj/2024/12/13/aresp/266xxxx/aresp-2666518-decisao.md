@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por INTROPEDI PRESTAÇÃO DE SERVICOS E COBRANÇA EIRELI e OUTROS contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Ação de Cobrança c. c. Rescisão Contratual e Restituição de Valores. Demandante que afirma ter sido impedido de reaver os valores investidos. DECISÃO que indeferiu o pedido de arresto em sede de tutela provisória de urgência. INCONFORMISMO deduzido no Recurso. EXAME: configuração de elementos que evidenciam a probabilidade do direito reclamado e o risco ao resultado útil do processo, com perigo de dano irreparável ou difícil reparação de perda do capital aplicado pelos autores. Inteligência do artigo 300, "caput", do Código de Processo Civil. Caso que revela ao menos indícios de abuso da personalidade jurídica por desvio de finalidade e por confusão patrimonial. Aplicação do artigo 50 do Código Civil. Possibilidade de bloqueio imediato de ativos financeiros pelo Sistema Sisbajud e de pesquisa de bens. Aplicação do artigo 301 do Código de Processo Civil. Decisão reformada. RECURSO PROVIDO" (e-STJ fl. 272).
+No recurso especial, os recorrentes alegam violação dos arts. 9, 10, 134, 135 e 1.019, II, do Código de Processo Civil e 50 e 1.052 do Código Civil, argumentando, em síntese, a impossibilidade de concessão do pedido cautelar de arresto ante a necessidade de intimação prévia da parte contrária, pois
+"(..)
+O Acórdão de forma equivocada, sem se atentar aos contratos que embasam a ação de cobrança em rito ordinário (38/39, 42/43), composição societária das empresas, terceiros inocentes, e o que é pior, adentrando ao mérito do pedido de desconsideração da personalidade jurídica, contra a decisão do juízo natural e muito mais próximo das partes, reformou decisão judicial relevante sem a oitiva e chance de defesa das partes" (e-STJ fls. 339/340).
+Apresentadas contrarrazões (e-STJ fls. 396/429).
+O recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+No caso vertente, é mesmo possível inferir a probabilidade do direito reclamado e também vislumbrar perigo de dano de difícil reparação de perda do capital investido pelo autor, mormente considerando que a própria demandada informou a incapacidade de transferir a quantia devida aos clientes.
+A Ação principal, já se viu, foi movida contra a Empresa Intropedi Prestação de Serviços e Cobrança Ltda. e as demais Empresas do Grupo Econômico, e também contra os integrantes de seu quadro social, com pedido de desconsideração da personalidade jurídica (v. fls. 1/33 dos autos principais).
+Ressalta-se que a petição inicial foi instruída com cópia do Contrato de Mútuo assinado por Francisco Milton, com comprovantes dos aportes financeiros realizados pelo autor, ora agravante, e com cópia de mensagens trocadas entre as partes no período indicado. A documentação é suficiente para demonstrar a contratação e o alegado descumprimento por parte dos agravados.
+Verifica-se ainda que foram ajuizadas diversas Ações relacionadas ao mesmo tema contra os requeridos, ora agravados, havendo notícia de alienação de bens de propriedade da Empresa e dos sócios (fls. 90/166 dos autos principais).
+Portanto, o caso dos autos revela ao menos indícios de abuso da personalidade jurídica por desvio de finalidade e por confusão patrimonial, conforme previsto no artigo 50 do Código Civil, havendo elementos que evidenciam a probabilidade do direito reclamado e o risco ao resultado útil do processo, com perigo de dano irreparável ou de difícil reparação pela perda do capital aplicado pelo autor.
+Por outro lado, quanto aos demandados Renata Ferreira Intropedi, Fernanda Ferreira Intropedi e Thiago Bordini Tufano, não restou comprovada, ao menos por ora, a participação societária deles nas Empresas do Grupo. Ressalta-se que o fato de serem parentes dos sócios Francisco e Silmara não basta por si só para a concessão da medida nessa fase prematura em que se encontra o feito, devendo ser observado o contraditório e a ampla defesa, com a dilação probatória adequada.
+Assim, ante a configuração dos requisitos do artigo 300, "caput", do Código de Processo Civil, bem ainda a ausência de perigo de irreversibilidade dos efeitos da decisão, tem-se como cabível a tutela de urgência para o bloqueio: a) de ativos financeiros dos agravados através do Sistema Sisbajud; b) de veículos automotores, mediante o Sistema Renajud; e c) de imóveis, mediante o Sistema Arisp, mas tão somente quanto às Empresas Intropedi Prestação de Serviços e Cobrança Ltda., Synergy Prestação de Serviços e Cobrança, Sfi Gestão de Dívidas Ltda. e aos sócios Francisco Milton Intropedi Filho e Silmara dos Santos Ferreira Intropedi, até o limite do capital investido (v. artigo 301 do Código de Processo Civil)" (e-STJ fls. 277/279 - grifou-se).
+De início, verifica-se que a alegação de necessidade de intimação prévia da parte contrária suscitada no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+"EMBARGOS DE DECLARAÇÃO CONHECIDO COMO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGADA VIOLAÇÃO AOS ARTS. 26 E 29 DA LEI 10.931 E 789 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ATRAÇÃO DO ENUNCIADO 282/STF. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO AO QUAL SE NEGA PROVIMENTO."
+(EDcl no REsp 1.789.134/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/11/2020, DJe de 3/12/2020 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido."
+(AgInt no AREsp 1.097.857/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/11/2017 - grifou-se)
+Ainda que superado o óbice, esta Corte Superior entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, atraindo a aplicação, por analogia, do enunciado da Súmula nº 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Por fim, a revisão das conclusões do acórdão a respeito do atendimento dos requisitos para a concessão da tutela de urgência, esbarra, inevitavelmente, no óbice da Súmula nº 7/STJ, visto que não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TUTELA CAUTELAR ANTECEDENTE. DEFERIMENTO PARCIAL DA ANTECIPAÇÃO DOS EFEITOS DA TUTELA. JULGAMENTO VIRTUAL. SUSTENTAÇÃO ORAL. NÃO DEMONSTRADO O PREJUÍZO. FATO NOVO. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO DOS ARTS. 489, § 1º, III, IV, 1.022, II, DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. REQUISITOS DA TUTELA. SÚMULA Nº 735 DO STF. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. INDISPENSABILIDADE DA INTIMAÇÃO DA PARTE ADVERSA. AUSÊNCIA DE NULIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, considerando a natureza precária da decisão, conforme disposta na Súmula n.º 735 do STF.
+5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmulas n.º 7 do STJ.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido."
+(AgInt no REsp 2.032.857/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 11, 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA. PRESSUPOSTOS. INDEFERIMENTO. SÚMULAS N. 83 DO STJ e 735 DO STF. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir decisão que defere ou indefere medida liminar ou de antecipação de tutela. Incidência, por analogia, da Súmula n. 735 do STF.
+4. Rever as conclusões do acórdão impugnado que, em sintonia com a orientação do STJ, concluiu não estarem presentes os requisitos ensejadores da concessão de tutela antecipada, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos. Incidência das Súmulas n. 7 e 83 do STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1.900.869/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/4/2024, DJe de 24/4/2024)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
