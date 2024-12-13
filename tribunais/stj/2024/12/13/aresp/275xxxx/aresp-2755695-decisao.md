@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por FIGLIUOLO, GENTIL, TAVARES & BRANDAO ADVOGADOS ASSOCIADOS, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl.49):
+"Agravo de instrumento. Impugnação ao cumprimento de sentença. Cálculo complexo. Conversão de moeda. Nulidade. Honorários advocatícios sucumbenciais. Valor da causa. Correção monetária. IPCA-E. Juros de mora. Trânsito em julgado.
+1. O ato judicial que rejeita impugnação ao cumprimento de sentença, sem se socorrer de auxílio da Contadoria Judicial ou de Perito para apurar o acerto ou não dos cálculos apresentados pelos litigantes, padece de nulidade. A necessidade de conversão de antiga moeda corrente no país para atual denota a complexidade da conta para apuração do quantum debeatur, não podendo o órgão julgador solucionar o litígio sem utilização da Contadoria Judicial ou Perito.
+2. Na condenação de honorários sucumbenciais sobre o valor atualizado da causa, a correção monetária deve ocorrer desde o ajuizamento da ação e os juros de mora a partir do transito em julgado, quando passou a ser exigível a verba alimentar. 3. Agravo de instrumento conhecido e provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 69-73 e 133-137).
+O recorrente alegou, nas razões do recurso especial (e-STJ, fls. 142-166), a violação dos arts. 9º, 10, 85, 489, 492 e 1.022 do Código de Processo Civil de 2015.
+Sustentou , em síntese, a ausência de prestação jurisdicional e de fundamentação; alegando que o Tribunal a quo violou a vedação à decisão surpresa e foi contraditório ao fixar os honorários sucumbenciais com base no valor atualizado da execução e concluiu afirmando que o cálculo deve ser feito com base no valor atualizado da causa.
+Foram apresentadas contrarrazões (e-STJ, fls. 186-192).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a inexistência de violação dos arts. 489 e 1.022 do CPC/2015 (e-STJ, fls. 193-194).
+É o relatório. Decido.
+Primeiramente, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ENCAMINHAMENTO DOS AUTOS À CONTADORIA JUDICIAL. DÚVIDA QUANTO AO VALOR DISCUTIDO. ACÓRDÃO EM PERFEITA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível ao magistrado encaminhar os autos à contadoria para apurar se os cálculos estão em conformidade com o título em execução, consoante art. 524, § 2º, do CPC/2015. 3.
+Agravo interno desprovido.
+(AgInt no AREsp n. 2.604.512/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+O Tribunal a quo, ao analisar as questões apontadas como omissas e contraditórias, fundamentou nos seguintes termos (e-STJ, fls. 51-53):
+Quanto ao mérito, penso que a decisão deve ser anulada, a fim de que perante o Juízo de piso seja realizada cálculo pela Contadoria Judicial acerca do montante devido na execução.
+Quando as partes controvertem acerca do quantum devido pela execução do julgado e não dispondo o Juiz de conhecimento específico para a liquidação, o envio dos autos à Contadoria Judicial ou designação de perito é medida essencial, ensejando nulidade do ato judicial quando tal providência não é adotada.
+(..)
+A parte agravada tem direito aos honorários advocatícios sucumbenciais fixados no acórdão, às fls. 218/227, e a execução do título extrajudicial tinha como valor da causa a importância de Cr$ 800.000.000,00 (oitocentos milhões de cruzeiros).
+E de conhecimento de todos que o cruzeiro não está em circulação, logo faz-se necessária sua conversão em moeda corrente para fim de liquidação do julgado e apuração do quantum devido, bem como sobre o valor convertido deve incidir a correção pelo IPCA-E índice que é capaz de recompor as perdas pela inflação.
+Ademais, quando os honorários advocatícios são arbitrados sobre o valor da causa, os juros de mora sobre os honorários sucumbenciais incidem desde sua exigibilidade, ou seja, a partir do trânsito em julgado.
+(..)
+No caso, na planilha do débito às fls. 240/248 acostada pela parte exequente, consta a incidência de juros de mora a partir de 31/12/1985, em nítida afronta ao entendimento do STJ.
+Desta forma, para os cálculos a Contadoria Judicial deverá observar que os juros de mora somente incidem após o trânsito em julgado do acórdão, onde ocorreu o arbitramento.
+Assim, havendo necessidade de realização de cálculos complexos pela Contadoria Judicial para liquidação do julgado e estando a decisão em desacordo com a legislação, pois deixou de determinar a realização de conta por terceiro imparcial, em razão da divergência sobre o valor devido.
+Posto isso, conheço e dou provimento ao recurso para anular a decisão impugnada a fim de determinar que o Juízo de piso adote as providencias necessárias para o envio dos autos à Contadoria Judicial com a finalidade de elaboração de planilha do quantum debeatur, em perfeita harmonia com os fundamentos acima mencionados e legislação vigente. (Sem grifo no original)
+E, ainda, do acórdão dos embargos de declaração extrai-se o seguinte excerto (e-STJ, fls. 135-136):
+A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, porquanto ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022, do Código de Processo Civil.
+Ademais, não há o que se falar em padecer de nulidade extra petita o acórdão ao manifestar-se acerca da aplicação correta de índice para fins de atualização da base de cálculo, quando o acórdão proferido se limitou a analisar os pontos objetos do recurso interposto, veja- se:
+(..)
+Além disso, não há o que se falar em ocorrência de decisão surpresa quando da prolação do acórdão embargado, já que é de fácil percepção pela leitura do despacho à fl. 44, a intimação das partes para dar-lhes conhecimento da inclusão dos autos em julgamento virtual, oportunizando-os inclusive, de manifestar-sem acerca de eventual oposição quanto ao julgamento eletrônico, nesta senda, houve manifestação expressa do embargante quanto a não oposição ao julgamento, conforme depreende-se da leitura do petitório à fl. 48, não ocorrendo portanto, em vedação ao que determina os artigos 9o e 10 do Código de Processo Civil.
+Ainda, a contradição que autoriza a oposição de embargos declaratórios é a interna, ou seja, entre as proposições do próprio julgado, não cabendo entre a sua conclusão e o discutido nos autos, especialmente no tocante à prova e dispositivos legais entendidos como aplicáveis ao caso. (Sem grifo no original)
+Da leitura do acórdão recorrido, verifica-se que a  despeito  de  toda  a  argumentação  sobre  a base de cálculo dos honorários sucumbenciais e a ocorrência de decisão surpresa,  a parte  recorrente  não  demonstrou  de  que  forma  o  Tribunal  de  origem  teria  violado  os  dispositivos  apontados.
+Dessa  forma,  há  de  se  concluir  que  as  razões  recursais  são  dissociadas  do  conteúdo  do  acórdão  recorrido  e  não  têm  o  poder  de  infirmá-lo,  porquanto  os  fundamentos  autônomos  e  suficientes  à  manutenção  do  aresto,  no  ponto,  mantiveram-se  inatacados  e  incólumes  nas  razões  do  recurso  especial,  convocando,  na  hipótese,  a  incidência  das  Súmulas  n.  283  e  284  do  STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. MATÉRIA DE OR DEM PÚBLICA. PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS NºS 283 E 284/STF. MULTA. ART. 523, § 1º, DO CPC/2015. AFASTAMENTO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de discussão, pelo tribunal de origem, acerca das questões ventiladas no recurso especial (arts. 525, § 1º, e 485, VI, do CPC/2015) acarreta falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que mesmo as questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional e não houver insurgência da questão no momento oportuno.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Aplicação das Súmulas nºs 283 e 284/STF.
+6. Conforme entendimento desta Corte Superior, a multa a que se refere o art. 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a discussões a respeito do débito, o que não é o caso dos autos.
+7. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.877.822/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
