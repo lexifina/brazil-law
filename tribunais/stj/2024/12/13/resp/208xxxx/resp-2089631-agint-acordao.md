@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. PROVIMENTO DO RECURSO. NÃO CABIMENTO.
+1. Não houve o preenchimento dos requisitos cumulativos para a fixação dos honorários recursais, nesta instância, considerando que houve o provimento do recurso especial da ora agravante, o que afasta a pretensão de incremento da verba honorária.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Erbe Incorporadora 018 S.A. (fls. 562-566 e-STJ), em face de decisão singular de minha Relatoria de fls. 553-558 e-STJ, em que dei provimento ao recurso especial da parte agravante para permitir a retenção de 25% (vinte e cinco por cento) do valor efetivamente pago pelos adquirentes em favor da parte recorrente.
+Em razões de agravo interno (fls. 562-566 e-STJ), a parte agravante alega que, apesar da decisão acertada do mérito, "verificou-se que os honorários arbitrados não foram majorados em sede recursal, de modo que não foi observada a regra prevista no artigo 85, § 11, do Código de Processo Civil" (fl. 563 e-STJ).
+A parte agravada foi devidamente intimada, mas não apresentou contrarrazões, conforme certidão de fl. 570 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. PROVIMENTO DO RECURSO. NÃO CABIMENTO.
+1. Não houve o preenchimento dos requisitos cumulativos para a fixação dos honorários recursais, nesta instância, considerando que houve o provimento do recurso especial da ora agravante, o que afasta a pretensão de incremento da verba honorária.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não merece prosperar o recurso da parte agravante.
+Com efeito, nos termos da jurisprudência desta Corte, os honorários recursais são cabíveis em favor do advogado do recorrido quando preenchidos os seguintes requisitos: a) a decisão recorrida for publicada a partir de 18/3/2016, data em que entrou em vigor o Código de Processo Civil de 2015; b) o recurso não for conhecido integralmente ou desprovido; e c) houver condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL COMERCIAL. AÇÃO DE DESPEJO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. NECESSIDADE DE PROVA DA INSUFICIÊNCIA DE RECURSOS. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO. INVIABILIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO. (..) 4. Na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1539725/DF, sob a relatoria do Ministro ANTONIO CARLOS FERREIRA, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. No caso, não houve condenação em honorários sucumbenciais em desfavor da agravante, nas instâncias ordinárias. Portanto, inviável a majoração de honorários recursais. 5. Agravo interno a que se dá parcial provimento." (AgInt nos EDcl no AREsp n. 2.035.202/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. HIGIDEZ DO LAUDO PERICIAL, CONFIGURAÇÃO DO DANO, VALOR DO DANO MORAL COLETIVO E PERCENTUAL FIXADO A TÍTULO DE HONORÁRIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA PREVISTA NO ART. 81 DO CPC/2015. NÃO CABIMENTO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. MAJORAÇÃO INDEVIDA. AGRAVO INTERNO DESPROVIDO. (..) 4. Não houve o preenchimento dos requisitos cumulativos para a fixação dos honorários recursais, nesta instância, considerando que houve o parcial provimento do recurso especial da ora agravante, o que afasta a pretensão, contida em contrarrazões, de incremento da verba honorária. 5. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.208.042/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 28/6/2024).
+Na hipótese dos autos, o recurso especial interposto pela parte agravante foi provido para permitir a retenção de 25% (vinte e cinco por cento) do valor efetivamente pago pelos adquirentes em favor da parte recorrente.
+Assim, tendo o recurso especial da parte agravante sido provido, não devem ser majorados os honorários advocatícios sucumbenciais, conforme jurisprudência pacífica desta Corte acima citada.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
