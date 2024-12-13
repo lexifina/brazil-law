@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RESIDENCIAL ESTORIL EMPREENDIMENTOS SPE LTDA., RESIDENCIAL SANTA CLARA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA., RESIDENCIAL BOA VISTA EMPREENDIMENTOS SPE LTDA., RESIDENCIAL RIO VERDAO EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. e RESIDENCIAL RECANTO DAS EMAS 01 EMPREENDIMENTOS SPE LTDA. contra decisão de minha lavra, em que não conheci do agravo em recurso especial, em razão do descabimento da interposição contra decisão que nega seguimento a recurso especial contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos (e-STJ fls. 3.823/3.833).
+Sustenta a parte embargante que a decisão embargada incorreu em omissão quando deixou de observar que a decisão de inadmissibilidade também baseou-se na incidência da Súmula 7 desta Corte, o que permitiria o conhecimento do agravo do art. 1.042 do CPC.
+Intimada, a parte embargada formulou impugnação, postulando a manutenção do decisum (e-STJ fls. 3.844/3.851).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, há omissão a sanar.
+De fato, a decisão de inadmissibilidade do apelo especial da parte ora embargante possui dupla fundamentação, visto que deixou de admitir o recurso com fulcro na súmula 7 do STJ e negou-lhe seguimento com supedâneo no Tema 1.076 do STJ, conforme e-STJ fls. 3.491/3.494.
+De acordo com o entendimento desta desta Corte Superior, nos casos em que há dupla fundamentação no juízo de prelibação do apelo especial na instância de origem também, não se admite a aplicação do princípio da fungibilidade para conhecer do agravo em recurso especial quando o óbice sumular relativo à inadmissibilidade do especial (incidência da Súmula 7 do STJ) se acha atrelado à mesma questão decidida sob o rito dos recursos repetitivos
+Isso porque a Corte de origem, ao entender que "as teses e as ofensas a dispositivos apontados como violados no recurso especial estão vinculadas à aplicação da mesma matéria fixada no regime dos recursos repetitivos, deveria negar seguimento também nesse ponto, e não inadmitir o recurso especial" (AgInt no AREsp n. 2.097.467/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.).
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. CABIMENTO. JUÍZO DE PRELIBAÇÃO. DUPLA FUNDAMENTAÇÃO. ORIENTAÇÃO FIRMADA EM RECURSO REPETITIVO E INCIDÊNCIA DA SÚMULA 7 DO STJ. ÓBICE SUMULAR ATRELADO AO PRECEDENTE OBRIGATÓRIO (TEMA 779). AGRAVO INTERNO. CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Nos termos da Súmula 568 desta Corte e do art. 255, § 4º, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver entendimento dominante sobre o tema.
+2. De acordo com o disposto no art. 1.030, § 2º, do CPC/2015, o agravo interno é o recurso cabível contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos, constituindo a sede própria para demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+3. Hipótese em que o fundamento condutor adotado na decisão proferida na origem é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, no caso, com o Tema 779 (REsp 1.221.770/SP, repetitivo), sendo certo que o óbice à admissibilidade do especial (incidência da Súmula 7 do STJ) também se refere a essa mesma questão (insumos para fins de creditamento da Contribuição ao PIS e da Cofins). Não se admite, no caso, a aplicação do princípio da fungibilidade.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.531.863/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/10/2024, DJe de 21/10/2024.)
+Com essas considerações, ACOLHO os embargos de declaração para sanar a omissão apontada, SEM efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
