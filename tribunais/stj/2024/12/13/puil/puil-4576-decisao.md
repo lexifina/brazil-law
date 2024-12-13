@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal requerido pelo Estado do Rio Grande do Norte, com o objetivo de reformar acórdão proferido pela Terceira Turma Recursal do Rio Grande do Norte, "especialmente quanto ao termo inicial dos juros de mora, para que seja ele considerado como a data da citação" (fl. 320).
+O aresto em questão é apresentado às fls. 93/96 e guarda a seguinte ementa:
+CONSTITUCIONAL E ADMINISTRATIVO. RECURSO INOMINADO. SERVIDOR PÚBLICO. GRATIFICAÇÃO NATALINA E TERÇO CONSTITUCIONAL DE FÉRIAS. POSSIBILIDADE DE CONSIDERAR NA BASE DE CÁLCULO OS VALORES DEVIDOS A TÍTULO DE AUXÍLIO-ALIMENTAÇÃO. CARÁTER REMUNERATÓRIO E PERMANENTE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. DÉBITO ORIUNDO DE DETERMINAÇÃO LEGAL. MANUTENÇÃO DO TERMO INICIAL DOS JUROS. SENTENÇA DE PROCEDÊNCIA QUE DEVE SER MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. (fl. 301)
+No pedido dirigido a esta Corte, fls. 309/320, argumenta o ente estatal que, ao assim decidir, o colegiado potiguar "violou frontalmente o disposto nos arts. 240 do Código de Processo Civil e o art. 405 do Código Civil, dando interpretação divergente da que vem sendo trilhada por essa Corte de Justiça em matéria de juros moratórios" (fl. 311), como também os arts. 926 e 927, III, do CPC, "os quais estabelecem, em suma, que os tribunais devem uniformizar sua jurisprudência, bem como devem observar os acórdãos proferidos em incidente de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos" (fl. 319).
+Em contrarrazões, fls. 337/339, Vanda Santos Morais Pordeus, na qualidade de requerida, pleiteia o não conhecimento do PUIL, ao argumento de não existir o anunciado dissenso interpretativo, visto que os julgados selecionados pelo requerente (bem como os artigos tidos por violados) dizem respeito a obrigações ilíquidas, o que não é o caso dos autos.
+Feito isento de custas, conforme prevê o art. 3º, IV, da Resolução STJ/GP n. 2, de 1º de fevereiro de 2017.
+Representação ex lege.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O pedido de uniformização de interpretação de lei federal é um meio de impugnação de decisão judicial muito peculiar e próprio dos microssistemas dos juizados especiais, cujo juízo de admissibilidade se dá por critérios assemelhados aos que esta Corte emprega para a admissão do recurso especial.
+Na presente hipótese, como relatado, o intento do requerente é reformar o acórdão proferido pela Turma Recursal e, para isso, busca amparo nas disposições da Lei n. 12.259/2001, ao argumento de violação de dispositivos do CC e do CPC.
+Todavia, à luz da moldura fático-jurídica que dos autos emerge, não há como dar curso ao pedido.
+Em primeiro lugar porque, cuidando-se, como é o caso, de ação processada e julgada no âmbito do microssistema dos juizados especiais da Fazenda Pública, rege-se o procedimento, inteiramente, por lei específica, a saber, a Lei 12.153, de 22 de dezembro de 2009.
+Consoante expressamente dispõe o art. 18 do aludido diploma legal, o pedido de uniformização de lei somente tem lugar "quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". Logo, incabível para examinar eventual afronta aos arts. arts. 926 e 927, III, do CPC, como requer o postulante.
+Em segundo lugar, em razão da simetria com o juízo de admissibilidade empregado para os recursos especiais, é patente a falta do prequestionamento dos dispositivos do código civil que o requerente tem por violados, pois os artigos 240 e 405 do Código Civil não foram examinados pelas instâncias ordinárias e não constituíram fundamento nem da sentença (fls. 258/260), nem do acórdão que a confirmou (fls. 301/308). Daí a apontada ausência do indispensável prequestionamento, suficiente, só por si, para justificar o não conhecimento do pedido. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. DIREITO DO TRÂNSITO. AGRAVO INTERNO NA TUTELA PROVISÓRIA INCIDENTAL NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO. FALTA DE DEMONSTRAÇÃO. PEDIDO INDEFERIDO LIMINARMENTE. AGRAVO INTERNO DESPROVIDO.
+1. A falta de efetivo debate pela origem da matéria objeto do pedido de uniformização impede o reconhecimento de seu prequestionamento.
+2. Ausentes os inteiros teores dos julgados de turmas recursais tidos como divergentes, é inviável a análise do pedido de uniformização, pela falta de demonstração adequada do dissídio.
+3. Agravo interno desprovido.
+(AgInt na TutPrv no PUIL n. 1.577/SP, relator Ministro Afrânio Vilela, Primeira Seção, DJe de 26/8/2024.)
+Assim, por todas essas razões, individual ou conjuntamente consideradas, não se revela cabível o manejo do PUIL.
+ANTE O EXPOSTO, e com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do presente pedido de uniformização de interpretação de lei federal.
+Publique-se.
+EMENTA
