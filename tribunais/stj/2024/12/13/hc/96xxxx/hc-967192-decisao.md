@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de JOSE ANTONIO DO NASCIMENTO WILLEMEN - condenado como incurso no crime de homicídio qualificado -, atacando-se o acórdão da apelação criminal proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (fls. 10/20), não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da pena imposta - na condenação proferida na Ação Penal n. 0028148-04.2005.8.19.0014 (fls. 89/94 - da 1ª Vara Criminal da comarca de Campos dos Goytacazes/RJ) -, com o afastamento da negativação dos vetores:
+a) circunstâncias do crime, aduzindo que a pena foi majorada em virtude do instrumento utilizado no crime, qual seja, arma de fogo. Entretanto, não se trata de um argumento idôneo para tal desiderato, na medida em que, como sabido, na maioria das vezes em que há cometimento de homicídio, consumado ou tentado, o agente se vale de uma arma de fogo. Além disso, não se nota no caso em apreço qualquer excepcionalidade na escolha desse instrumento para a prática do crime (fls. 6/7); e
+b) consequências do delito, sustentando que supostamente a vítima era o exclusivo provedor de sua casa, chefe de família, eis que possuía uma filha, à época com 19 anos ainda em idade estudantil, e um filho menor impúbere de apenas 15 anos de idade. Ora, a morte, a saudade e o sentimento de perda são desdobramentos normais do crime de homicídio. Não ultrapassam as já esperadas consequências para esse tipo delito, de modo que não têm o poder de repercutir negativamente na reprimenda (fl. 8).
+Sem pedido liminar.
+Inicialmente, tem-se que não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois não há ilegalidade na fundamentação da negativação das:
+a) circunstâncias do crime - a vítima foi atingida por 6 projéteis de arma de fogo, sendo certo que mais tiros foram ouvidos, a agravar a censurabilidade da conduta (fl. 18) -, com fundamento em elementos concretos dos autos; e
+b) consequências do delito - a vítima era o principal provedor da casa, tendo que a família vender alguns bens para poder se reestruturar financeiramente, além de ter causado intenso sofrimento nos filhos que assistiram á morte do pai, e que relataram traumas e dificuldades para dormir, e tratamento psicológico para superar o terror que vivenciaram (fl. 19) -, uma vez que em consonância com o entendimento desta Corte Superior (AgRg no REsp n. 2.074.103/PA, de minha relatoria, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. HOMICÍDIO QUALIFICADO. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
