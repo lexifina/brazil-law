@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  CERCEAMENTO  DE  DEFESA.  PRINCÍPIO  DO  LIVRE  CONVENCIMENTO  MOTIVADO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Não  viola  o  artigo  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  O  sistema  processual  civil  é  orientado  pelo  princípio  do  livre  convencimento  motivado,  cabendo  ao  julgador  determinar  as  provas  que  entender  necessárias  à  instrução  do  processo,  bem  como  indeferir  aquelas  que  considerar  inúteis  ou  protelatórias.
+3.  É  firme  a  jurisprudência  desta  Corte  Superior  no  sentido  de  que  compete  às  instâncias  ordinárias  exercer  juízo  acerca  da  necessidade  ou  não  da  produção  de  provas,  haja  vista  sua  proximidade  com  as  circunstâncias  fáticas  da  causa,  cujo  reexame  é  vedado  em  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+4 .  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  MINISTÉRIO  PÚBLICO  DO  ESTADO  DE  GOIÁS  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento  (e-STJ  fls.  1.019/1.022).
+No  presente  recurso  (e-STJ  fls.  1.051/1.072),  o  agravante  insiste  na  tese  de  negativa  de  prestação  jurisdicional  e  sustenta  que  não  há  falar  em  incidência  da s  Súmulas  nº s  7  e  83/STJ,  tendo  em  vista  que
+"(..)  o  TJGO  reconheceu  expressamente,  no  caso  vertente,  a  existência  de  prova  pericial  consistente  no  Laudo  Pericial  da  Superintendência  de  Polícia  Técnico-Científica  da  Delegacia  Estadual  de  Repressão  a  Crimes  Contra  o  Consumidor  do  Estado  de  Goiás,  produzido  em  sede  de  inquérito  civil,  procedimentalizado  dentro  dos  ditames  legais  pelo  Ministério  Público,  irrepetível  e  referente  a  um  fato  determinado:  adulteração  da  bomba  de  combustível  em  data  pretérita.  Tratam-se,  portanto,  de  fatos  incontroversos.
+Estreme  de  dúvidas  que  a  circunstância  destacada  é  suficiente  para  revelar,  por  si  só,  a  correção  do  juízo  de  1º  grau  em  julgar  antecipadamente  a  lide  e  afastar  o  pleito  da  defesa  de  nova  perícia  judicial,  pois  seria  tal  diligência  incapaz  de  identificar,  ou  afastar,  a  fraude  passada,  considerando  que  a  natureza  de  tal  elemento  probatório  é  irrepetível  e,  ainda  que  fosse  realizada  nova  perícia,  esta  somente  serviria  para  demonstrar  se  a  irregularidade  encontrada  persiste  ou  não,  mas  não  para  macular  a  conclusão  levada  a  efeito  pelos  peritos  e  contida  na  emissão  do  laudo,  ao  tempo  dos  fatos.
+(..)
+(..)  é  indene  de  dúvidas  que  o  acórdão  objurgado  pelo  recurso  especial,  ao  entender  que  seria  necessária  a  dilação  probatória,  sob  a  premissa  de  que  o  laudo  pericial  produzido  no  inquérito  civil  seria  passível  de  ser  refutado  por  contraprova  produzida  em  contraditório,  foram  de  encontro  à  jurisprudência  mais  moderna  desse  STJ"  (e-STJ  fls.  1.058/1.064).
+A  parte  contrária  apresentou  impugnação  às  e-STJ  fls.  1.077/1.090.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  CERCEAMENTO  DE  DEFESA.  PRINCÍPIO  DO  LIVRE  CONVENCIMENTO  MOTIVADO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Não  viola  o  artigo  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  O  sistema  processual  civil  é  orientado  pelo  princípio  do  livre  convencimento  motivado,  cabendo  ao  julgador  determinar  as  provas  que  entender  necessárias  à  instrução  do  processo,  bem  como  indeferir  aquelas  que  considerar  inúteis  ou  protelatórias.
+3.  É  firme  a  jurisprudência  desta  Corte  Superior  no  sentido  de  que  compete  às  instâncias  ordinárias  exercer  juízo  acerca  da  necessidade  ou  não  da  produção  de  provas,  haja  vista  sua  proximidade  com  as  circunstâncias  fáticas  da  causa,  cujo  reexame  é  vedado  em  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+4 .  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  acolhida.
+Na  origem,  o  recorrente  ajuizou  ação  civil  pública.  A  ação  foi  julgada  parcialmente  procedente,  com  a  condenação  da  parte  recorrida  ao  pagamento  de  dano  moral  coletivo  no  importe  de  R$  50.000,00  (cinquenta  mil  reais)  corrigido  monetariamente  .  O  tribunal  de  origem  reformou  a  sentença,  acolhendo  a  alegação  de  cerceamento  de  defesa  em  acórdão  cujos  fundamentos  estão  assim  descritos:
+"(..)
+Cediço  que  o  inquérito  é  procedimento  administrativo  e,  embora  na  sua  elaboração  deva  haver  observância  das  garantias  constitucionais,  é  produzido  unilateralmente,  sendo  temerário  alicerçar,  sozinho,  decreto  judicial  condenatório,  já  que  tem  presunção  relativa  de  veracidade  das  informações  nele  contidas,  devendo  ser  corroborado  por  outras  provas  produzidas  em  juízo  com  observância  das  referidas  garantias,  especialmente  do  contraditório,  ampla  defesa  e  devido  processo  legal.
+(..)
+Cediço  que,  sendo  o  Estado-Juiz  o  destinatário  das  provas  a  serem  produzidas  pelas  partes,  a  ele  cabe  o  exame  da  necessidade  ou  não  de  sua  dilação,  atividade  que  pode  ser  realizada  mesmo  de  ofício.
+(..)
+Enfim,  ressalte-se,  ainda,  que,  embora  a  ação  coletiva  de  consumo  seja  um  instrumento  processual  voltado  à  tutela  de  interesses  difusos  da  coletividade,  os  chamados  metaindividuais,  transindividuais  ou  paraindividuais,  divididos  em  difusos,  coletivos  em  sentido  estrito  e  individuais  homogêneos  (artigos  127  e  129,  II,  da  Constituição  Federal;  art.  25,  IV,  da  Lei  Orgânica  Nacional  do  Ministério  Público  e  art.  81  do  Código  de  Defesa  do  Consumidor),  verifica-  se  que,  na  hipótese,  o  juízo  de  origem  sequer  decretou,  eventualmente,  a  inversão  do  ônus  da  prova  ao  longo  de  todo  o  procedimento  (art.  6º,  inciso  VIII,  do  Código  de  Defesa  do  Consumidor),
+o  que  significa  dizer  mais  um  motivo,  portanto,  para  a  cassação  da  sentença  recorrida,  na  forma  em  que  foi  exarada.
+(..)
+Ante  ao  exposto,  versando  a  controvérsia  sobre  questão  de  ordem  pública,  decreto,  de  ofício,  a  cassação  da  sentença  recorrida,  devendo  o  juízo  de  origem  determinar  a  dilação  probatória  para  que  as  partes  possam  demonstrar  a  veracidade  de  suas  alegações,  em  observância  a  todos  os  princípios  e  garantias  constitucionais,  especialmente  do  contraditório,  ampla  defesa  e  devido  processo  legal"  (e-STJ  fls.  849/853).
+De  fato,  é  inviável  o  acolhimento  da  tese  recursal  relativa  à  suposta  violação  do  artigo  1.022  do  Código de Processo Civil.
+Observa-se  dos  autos  que  o  tribunal  de  origem  agiu  corretamente  ao  rejeitar  os  declaratórios  opostos  pelo  recorrente,  não  subsistindo  nenhuma  omissão,  ficando  patente,  em  verdade,  não  só  o  propósito  infringente  dos  aclaratórios  como  também  a  pretensão  de  obter  do  colegiado  julgador  pronunciamento  acerca  de  questões  desinfluentes  para  a  solução  da  demanda  e  manifestação  explícita  a  respeito  de  temas  que  já  haviam  sido  suficientemente  abordados  pela  Corte  local.
+Com  efeito,  o  aresto  recorrido,  com  ampla  cognição  dos  elementos  concretos
+constantes  dos  autos,  destacou  os  motivos  suficientes  para  reconhecer  a  ocorrência  do  cerceamento  de  defesa.
+Registra-se,  ainda,  que  o  órgão  julgador  não  está  obrigado  a  se  pronunciar  a  respeito  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  somente  acerca  daqueles  considerados  suficientes  para  fundamentar  sua  decisão.
+A  motivação  contrária  ao  interesse  da  parte,  ou  mesmo  omissa  quanto  aos  pontos  considerados  irrelevantes  pelo  julgador,  não  autoriza  o  acolhimento  dos  declaratórios.
+Não  se  revela  configurada  na  hipótese  a  aludida  negativa  de  prestação  jurisdicional.
+Ade mais,  de  fato,  consoante  a  jurisprudência  desta  Corte,  a  determinação  da  realização  de  provas  é  uma  faculdade  do  magistrado,  incumbindo-lhe  sopesar  sua  necessidade  e  indeferir  diligências  inúteis,  protelatórias  ou  desnecessárias.
+Dessa  forma,  o  juízo  acerca  da  produção  da  prova  compete  soberanamente  às  instâncias  ordinárias,  e  o  seu  reexame,  na  estreita  via  do  recurso  especial,  encontra  óbice  na  Súmula  nº  7/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INDENIZATÓRIA.  DANOS  MORAL  E  MATERIAL.  PROVA  PERICIAL  E  TESTEMUNHAL.  INDEFERIMENTO.  PRINCÍPIO  DO  LIVRE  CONVENCIMENTO  MOTIVADO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  INDENIZAÇÃO.  PREJUÍZOS.  AUSÊNCIA  DE  COMPROVAÇÃO.  REEXAME  FÁTICO  PROBATÓRIO.  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  O  nosso  sistema  processual  civil  é  orientado  pelo  princípio  do  livre  convencimento  motivado,  cabendo  ao  julgador  determinar  as  provas  que  entender  necessárias  à  instrução  do  processo,  bem  como  indeferir  aquelas  que  considerar  inúteis  ou  protelatórias.
+3.  É  firme  a  jurisprudência  desta  Corte  Superior  no  sentido  de  que  compete  às  instâncias  ordinárias  exercer  juízo  acerca  da  necessidade  ou  não  da  produção  de  prova  pericial  e  testemunhal,  haja  vista  sua  proximidade  com  as  circunstâncias  fáticas  da  causa,  cujo  reexame  é  vedado  em  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+(..)
+6.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.488.982/RS,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  16/11/2020,  DJe  24/11/2020  -  grifou-se).
+Verifica -se  que  não  há  como  afastar  a  incidência  da  Súmula  nº  7/STJ,  visto  que  as  conclusões  do  tribunal  de  origem  acerca  do  mérito  da  demanda  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos.
+Por  fim,  assim  como  consta  na  decisão  agravada  o  entendimento  do  tribunal  de  origem  no  sentido  de  que  a  presunção  de  veracidade  das  informações  contidas  no  inquérito  é  relativa,  está  em  consonância  com  a  jurisprudência  desta  Corte.
+A  propósito:
+"PROCESSUAL  CIVIL.  AÇÃO  CIVIL  PÚBLICA.  INQUÉRITO  CIVIL  PÚBLICO.  VALOR  PROBATÓRIO.  AUSÊNCIA  DE  CONTRAPROVA  JUDICIALIZADA.
+1.  Ação  civil  pública,  na  qual  o  parquet  imputa  à  requerida  suposta  prática  abusiva,  consistente  em  outorgar  assinatura  gratuita  de  periódicos  e  brindes,  mediante  pagamento  de  taxa  de  expediente,  que,  na  verdade,  constituiria  o  valor  de  anuidade.
+2.  As  provas  produzidas  no  inquérito  civil  público  têm  valor  probatório  relativo,  mas  só  devem  ser  afastadas  quando  há  contraprova  produzida  sob  a  vigilância  do  contraditório.
+3.  Recurso  especial  conhecido  e  provido"  (REsp  2.080.523/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  22/8/2023,  DJe  de  5/9/2023).
+Desse  modo,  as  razões  do  presente  recurso  não  são  suficientes  para  reformar  a  decisão  agravada,  que  merece  ser  mantida  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
