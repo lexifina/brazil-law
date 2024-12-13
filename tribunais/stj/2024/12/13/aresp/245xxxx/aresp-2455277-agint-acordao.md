@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO AGRAVO INTERNO NO AGRAVO EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO DE COBRANÇA DE CORRETAGEM DE BEM IMÓVEL. DEFERIMENTO DE TUTELA PROVISÓRIA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  DECISÃO SEM CARÁTER DEFINITIVO. SÚMULA  Nº 735/STF. INCIDÊNCIA POR ANALOGIA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  MC PARTICIPACOES IMOBILIARIAS LTDA.  contra  a  decisão  que  conheceu do agravo para conhecer parcialmente do recurso especial e nessa extensão, negar-lhe provimento.
+Naquela  oportunidade,  foram  adotados  os  seguintes  fundamentos:  a)  o  órgão  julgador  enfrentou  todas  as  questões  suscitadas  pela  parte  recorrente e  b)  é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, nos termos da Súmula nº  735/STJ.
+Em  suas  alegações  (e-STJ  fls.  1.171/1.179),  a  agravante  reitera  parte  da  argumentação  desenvolvida  nas  razões  do  recurso  especial,  alegando,  inicialmente,  que  o  órgão  julgador  incorreu  em  negativa  de  prestação  jurisdicional  ao  deixar  de  enfrentar  os  questionamentos  formulados  nos  embargos  de  declaração.
+Ressalta que
+"por se tratar de agravo de instrumento manifestado contra decisão que deferiu, inaudita altera pars, a tutela provisória de urgência, deve o órgão ad quem, obrigatoriamente, levar em consideração os documentos e argumentos ventilados no agravo de instrumento, mesmo que ainda não tenham sido cotejados pelo juízo primevo, pois, se assim não for, os recursos das decisões interlocutórias seriam meramente retóricos" (e-STJ fl. 1.174).
+Aduz, ainda, que é possível a mitigação da Súmula nº 735/STF.
+Ao  final,  requer  a  reconsideração  da  decisão  agravada  ou  o  processamento  do  agravo  interno  perante  o  órgão  colegiado  para  que  a  ele  seja  dado  integral  provimento,  com  o  consequente  provimento  do  recurso  especial.
+A parte  contrária  apresentou  impugnação  (e-STJ  fls. 1.183/1.187).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO AGRAVO INTERNO NO AGRAVO EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO DE COBRANÇA DE CORRETAGEM DE BEM IMÓVEL. DEFERIMENTO DE TUTELA PROVISÓRIA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  DECISÃO SEM CARÁTER DEFINITIVO. SÚMULA  Nº 735/STF. INCIDÊNCIA POR ANALOGIA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Conforme  salientado  na  decisão  agravada,  trata-se, na origem, de agravo de instrumento interposto contra decisão que deferiu o pedido liminar formulado em ação de de cobrança de corretagem pela venda de imóvel.
+Inicialmente, no que tange ao art. 1.022 do CPC, não há falar em negativa de prestação jurisdicional nos declaratórios, a qual somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento acerca de questão que deveria ser decidida, e não foi.
+Concretamente, verifica-se que o órgão julgador enfrentou todas as questões suscitadas pela recorrente, tendo expressamente no acórdão dos embargos de declaração afirmado que:
+"o que a embargante persegue, em verdade, é a reapreciação de matéria já enfrentada por este órgão julgador, pelo simples fato de que o deslinde da controvérsia contraria seus interesses, o que, sabe-se, não é permitido pela via adotada.
+Afinal, a omissão acerca dos dispositivos invocados pela embargante não existe, notadamente porque o STJ orienta que: " ..  O órgão julgador não está obrigado a se pronunciar sobre todas as questões suscitadas pelas partes, sendo imprescindível apenas analisar os pontos suficientes para fundamentar a decisão. Precedentes desta Corte. 3. Não há omissão quando o fundamento acolhido na decisão exclui ou afasta, direta ou indiretamente, por incompatibilidade ou prejudicialidade, os demais fundamentos sustentados pelas partes em seus recursos." (REsp 964.426/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 26/04/2012).
+Justamente por isso a embargante olvida que este sodalício tem repudiado a supressão de instância inclusive nos casos em que a liminar tenha sido deferida sem a oitiva da parte contrária, a título ilustrativo, (..)
+(..)
+Ademais, tanto a decisão monocrática invocada pela embargante não tem caráter vinculante como demais julgados que não traduzem as pecularidades do caso concreto que exigem uma apurada dilação probatória perante a origem, motivo pelo qual não há que se falar de ofensa aos dispositivos contidos no art. 1.022, parágrafo único, II, c/c art. 489, §1º, VI, do CPC" (e-STJ fls. 998/999 -grifou-se).
+Frisa-se que, mesmo à luz do art. 489 do Código de Processo Civil , o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV), não se podendo confundir, portanto, negativa de prestação jurisdicional ou ausência de fundamentos com decisão contrária aos interesses da parte.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. VIOLAÇÃO AOS ARTS. 489, §1º, IV, E 1.022, II, DO CPC/2015. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. OMISSÃO. PECULIARIDADES DE CADA CASO. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, apresentando todos os fundamentos jurídicos pertinentes à formação do juízo cognitivo proferido na espécie, apenas não foi ao encontro da pretensão da parte agravante.
+(..)
+4. Agravo interno a que se nega provimento." (AgInt no AREsp 1.518.865/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2020, DJe 1º/2/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 489 e 1.022 DO CPC/2015. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4. Agravo interno a que se nega provimento." (AgInt no REsp 1.659.130/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/11/2020, DJe 9/12/2020).
+Quanto ao mais,  o Superior Tribunal de Justiça entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário.
+Isso porque "(..) somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (REsp nº 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 6/4/2006, DJ 8/5/2006).
+De fato, de acordo com a jurisprudência, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância a quo.
+Dessa forma, configura-se a ausência do pressuposto constitucional relativo ao esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência extraordinária. Aplicável, portanto, ao caso, a Súmula nº 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUCESSÃO EMPRESARIAL. LEGITIMIDADE PASSIVA. CLÁUSULA CONTRATUAL. REINTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 5/STJ. TUTELA DE URGÊNCIA. ART. 300 DO CPC. SÚMULA Nº 735/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Na hipótese, rever a conclusão do acórdão recorrido, que entendeu, com base na análise de cláusula contratual, pela legitimidade passiva do HSBC em participar do cumprimento de sentença devido à sucessão do Banco Bamerindus, encontra o óbice da Súmula nº 5/STJ.
+3. A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+4. No caso, a verificação da presença dos requisitos para o deferimento da tutela de urgência é providência que demandaria o revolvimento do acervo fático-probatório dos autos, o que esbarra na Súmula nº 7/STJ.
+5. Agravo interno não provido." (AgInt no AgInt no AREsp 2.001.123/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023 - grifou-se).
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMÓVEL ARREMATADO EM LEILÃO. HOMOLOGAÇÃO DE ACORDO POSTERIOR. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. TUTELA DE URGÊNCIA. INCIDÊNCIA DA SÚMULA N. 735 DO STF AGRAVO INTERNO DESPROVIDO.
+1. Alterar a conclusão do acórdão do tribunal a quo acerca da análise das provas e da necessidade de nova perícia demanda reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+2. Esta Corte Superior, em sintonia com o disposto na Súmula 735/STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, por não representar pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeito a modificação a qualquer tempo. (AgInt no AREsp n. 1.645.228/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+3. Agravo interno desprovido" (AgInt no AREsp n. 2.090.283/MG, Rel. Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE PROCESSUAL. SUSTENTAÇÃO ORAL NÃO REALIZADA. RESPONSABILIDADE DO DEFENSOR. REVISÃO. SÚMULA 7/STJ. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. TUTELA DE URGÊNCIA. DEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. SÚMULA 735/STF. PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA MEDIDA REQUERIDA. SÚMULA 7/STJ. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A jurisprudência desta Corte Superior, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, a Súmula 735/STF.
+4. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria necessariamente o revolvimento do acervo fático-probatório dos autos, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015, quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido" (AgInt no REsp n. 1.982.124/TO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023 - grifou-se).
+Anota-se, apenas para responder aos argumentos apresentados pela ora agravante, mesmo porque não haveria como superar, no caso, o óbice da Súmula nº 735/STF, que a reversão do entendimento de que não se fazem presentes, na espécie, os requisitos para o deferimento da tutela de urgência, dependeria do reexame do contexto fático-probatório dos autos, o que vedado na via recursal eleita, consoante o disposto na Súmula nº 7/STJ.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. TUTELA PROVISÓRIA DE URGÊNCIA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. REQUISITOS LEGAIS. NÃO COMPROVAÇÃO. PROVIMENTO NEGADO.
+1. Agravo interno interposto contra a decisão que indeferiu pedido de atribuição de efeito suspensivo a recurso especial. A parte recorrente busca a reforma da decisão, alegando a prescrição intercorrente da execução fiscal e o perigo de demora devido ao leilão de veículo essencial para tratamento médico.
+2. A questão em discussão consiste na análise da presença dos requisitos para concessão de tutela provisória de urgência, notadamente a plausibilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+3. A decisão combatida deve ser mantida, pois não se verifica a plausibilidade do direito, dado à possível aplicação do óbice da Súmula 7 do Superior Tribunal de Justiça (STJ) quanto à alegada ocorrência de prescrição intercorrente.
+4. Não há evidências de urgência do provimento jurisdicional, uma vez que medidas processuais estão disponíveis para suspender a exigibilidade do crédito tributário.
+5. Agravo interno a que se nega provimento"
+(AgInt no REsp n. 2.160.347/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+Ante o exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
