@@ -1,0 +1,17 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 1.0693.12.013060-6/001.
+Nas razões recursais, o Parquet estadual aponta violação dos arts. 311, caput, do Código Penal e 386, III, do Código de Processo Penal, ao argumento de que para a caracterização do crime de adulteração de sinal de veículo automotor não importa o material utilizado, "e se a modificação foi grosseira ou não. Relevante, tão-somente, é que houve efetiva adulteração" (fl. 416).
+Requer o provimento do recurso, para que seja restabelecida a sentença condenatória em seus exatos termos.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu não provimento (fls. 457-461).
+Decido.
+De plano, verifico a perda do interesse-utilidade deste recurso especial, o que prejudica a análise do mérito.
+Os recorridos foram condenados, em 27/1/2016, pela prática dos delitos tipificados nos arts. 311 e 333, do Código Penal, ambos à pena de 5 anos de reclusão mais 20 dias-multa, em regime semiaberto.
+No âmbito de apelação exclusiva da defesa, o Tribunal a quo absolveu os réus com fulcro no art. 386, III, do Código de Processo Penal, em relação ao crime de adulteração de sinal identificador de veículo por atipicidade da conduta.
+Contra esse acórdão, insurge-se o Ministério Público por meio deste recurso especial, para que seja restabelecida a condenação imposta aos recorridos, em primeiro grau de jurisdição. Contudo, mesmo em caso de procedência do recurso especial, a prescrição da pretensão punitiva ocorreu entre a prolação do édito condenatório e a presente data, atingindo todos os efeitos secundários e civis da condenação.
+O art. 110, § 1º, do Código Penal disciplina que a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação, regula-se pela pena aplicada. A pena aplicada aos recorridos transitou em julgado para o Ministério Público, pois o recurso especial versa, somente, sobre o restabelecimento da sentença.
+Assim, ainda que o recurso especial da acusação fosse provido, subsistiria a pena fixada na sentença condenatória, que, para o caso concreto, foi de 3 anos de reclusão. Nessas circunstâncias, o prazo prescricional é de 8 anos, conforme disposto nos arts. 109, IV, e 110, § 1º, do CP.
+Considerando que o último marco interruptivo da prescrição ocorreu com a publicação da sentença condenatória, em 27/1/2016 (fl. 282), e transcorridos mais de 8 anos entre a referida data e o presente momento, o reconhecimento da prescrição da pretensão punitiva, ocorrida após a interposição do especial, seria medida cogente na espécie, o que evidencia a superveniente perda do interesse-utilidade deste recurso, ou, nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal. 6. ed. rev., atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2009, p. 71)
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
