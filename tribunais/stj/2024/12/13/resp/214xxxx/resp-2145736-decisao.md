@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEO KAYREH (LEO), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, da relatoria do Des, HENRIQUE RODRIGUERO CLAVISIO, assim ementado:
+Indenizatória - Transporte aéreo nacional - Cancelamento de voo em virtude de condições climáticas - Assistência material insuficiente - Trecho realizado de ônibus - Danos morais - "Quantum" indenizatório - Arbitramento em patamar adequado - Reconhecimento - Regra de equilíbrio - Extensão e consequência da injustiça - Observância aos princípios da razoabilidade e proporcionalidade - Majoração descabida - Honorários advocatícios - Readequação - Impertinência - Montante fixado em atendimento aos requisitos legais - Artigo 85, §§2º e 8º, do CPC - Sentença mantida - Artigo 252 do RITJ/SP c/c artigo 23 do Assento Regimental nº 562/2017. Recurso não provido (e-STJ, fl. 255).
+Os embargos de declaração opostos por LEO foram rejeitados (e-STJ, fls. 275/280).
+Nas razões do presente recurso, LEO alegou violação aos arts. 85, § 8º-A, e 1.022, I e II, do CPC, ao sustentar que (1) o acórdão recorrido foi omisso quanto à necessidade de aplicação do § 8º-A do art. 85 do CPC, afastando-se entendimento anterior à alteração legislativa; e (2) a apreciação equitativa dos honorários sucumbenciais deve observar a tabela de honorários da OAB, nos termos do art. 85, § 8º-A, do CPC
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da violação do art. 1.022, I e II, do CPC
+O Tribunal estadual pronunciou-se sobre o tema consignando que a tabela da OAB não é impositiva, exigindo-se uma interpretação sistemática do art. 85 do CPC. Confira-se:
+No mais, com relação aos honorários advocatícios sucumbenciais, sopesando o caso, vê-se que seu arbitramento em R$ 960,98 (em prol do patrono do apelante) se encontra em consonância com os requisitos estabelecidos em lei (artigo 85, §§2º e 8º, do CPC), não comportando acolhimento, portanto, a pretensão de readequação.
+Ressalta-se que eventual fixação de honorários advocatícios no patamar previsto na Tabela de Honorários do Conselho Seccional da OAB (artigo 85, §8º-A, do CPC) ensejaria, na hipótese, violação aos princípios da razoabilidade e da proporcionalidade, considerando a baixa complexidade da causa e a exígua duração do processo, em ofensa aos preceitos do §2º do citado artigo, que impõe ao julgador a observância dos seguintes requisitos: "I - o grau de zelo do profissional; II - o lugar de prestação do serviço; III - a natureza e a importância da causa; IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço".
+Cumpre lembrar que o §8º-A do artigo 85 do CPC não deve ser analisado de forma estrita, porquanto não se pode ignorar a "mens legis" extraída das disposições da Lei nº 14.365/2022 (responsável pela inclusão do referido dispositivo legal), que tem o objetivo de impedir a fixação de honorários advocatícios em valores incompatíveis com a importância econômica da causa ou em desacordo do quanto previsto nos §§2º, 8º e 20 do artigo 85 do CPC.
+Entendimento em sentido diverso, aliás, suprimiria o prudente arbítrio do julgador, a quem incumbe a adoção do critério equitativo.
+Isso significa que a aplicação do referido dispositivo deve ser entendida de forma sistemática com os critérios estabelecidos pelos demais parágrafos do artigo 85 do CPC, concluindo-se que tampouco se poderia admitir o arbitramento da verba honorária em valores exorbitantes ou irrazoáveis, incompatíveis com a baixa complexidade e exígua duração do processo, entendida a referida adoção da Tabela de Honorários do Conselho Seccional da OAB como mera recomendação de parâmetro, sem caráter vinculante (e-STJ, fl. 258).
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA PELO IDEC EM NOME DE POUPADORES ESPECÍFICOS E DETERMINADOS. REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA REGRA DO PROCESSO CIVIL TRADICIONAL. NECESSIDADE DE RECOLHIMENTO PRÉVIO DAS CUSTAS JUDICIAIS DO PROCESSO DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. No presente caso, não se evidencia a existência da omissão e da contradição apontadas, porquanto decididas, clara e devidamente fundamentadas, as questões submetidas a julgamento pela parte embargante, sobretudo no que diz respeito à necessidade de recolhimento das custas judiciais na fase de liquidação de sentença intentada pelo Idec, na condição de representante processual, em nome de beneficiários específicos de determinados, equiparando-se, portanto, à liquidação individual de sentença coletiva, a qual se sujeita à regra geral disposta na lei processual acerca da responsabilidade pelo pagamento das despesas processuais.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.637.366/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 22/2/2022, DJe 3/3/2022)
+Afasta-se, portanto, a alegada violação.
+(2) Da observância da tabela da OAB
+Esta Corte possui jurisprudência consolidada de que, mesmo após a inserção do § 8º-A do art. 85 do CPC, a tabela de honorários da OAB não vincula o magistrado na fixação da verba sucumbencial, tendo caráter meramente orientativo.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO INDENIZATÓRIO. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. ADOTAR A TABELA DA OAB. NÃO OBRIGATORIEDADE. CORTE A QUO DECIDIU DE ACORDO COM A JURISPRUDÊNCIA CONSOLIDADA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. VALOR FIXADO. REVISÃO. PRETENSÃO DE REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Verifica-se que a Corte a quo decidiu de acordo com a jurisprudência consolidada desta Corte de Justiça no sentido de que, na fixação de honorários por equidade, o magistrado deve observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil, não necessariamente adotá-los.
+3. Indubitável a incidência, no caso, da Súmula n. 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", à qual se aplicam as hipóteses das alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal.
+4. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que inviável a revisão do entendimento proferido na origem relativo à fixação de honorários advocatícios, ante o óbice da Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.524.416/SP, relator Ministro HUMBERTO MARTINS, Terceira Turma, j. em 24/6/2024, DJe de 27/6/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS. ART. 85, § 8º-A, DO CPC. TABELA DA ORDEM DOS ADVOGADOS DO BRASIL. NÃO VINCULAÇÃO. SÚMULA 83/STJ. REVISÃO DOS VALORES DE HONORÁRIOS. SÚMULA 7/STJ.
+1. No caso dos autos, decidiu o Tribunal a quo pela fixação equitativa dos honorários sucumbenciais, cingindo-se a controvérsia a definir se o comando inserto no § 8º-A do mesmo artigo impõe a utilização da tabela de honorários da OAB pelo magistrado de forma vinculativa.
+2. É firme o entendimento no sentido da inexistência de vinculação do magistrado aos valores estabelecidos pela tabela da OAB para os honorários advocatícios. Incidência da Súmula 83/STJ.
+3. Alterar o decidido no acórdão impugnado, no que se refere à majoração dos honorários fixados por equidade, seria necessário o reexame de fatos e provas, vedado em recurso especial pela Súmula 7 do STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 2.103.955/SP, relator Ministro HUMBERTO MARTINS, Terceira Turma, j. em 24/6/2024, DJe de 27/6/2024)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Terceira Turma, deve ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poder á acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CANCELAMENTO DE VOO. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. VERBA SUCUMBENCIAL. EQUIDADE. TABELA DA OAB. NÃO VINCULANTE. RECURSO ESPECIAL NÃO PROVIDO.
