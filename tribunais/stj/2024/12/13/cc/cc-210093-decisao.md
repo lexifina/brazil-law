@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara da Comarca de Igarapava/SP em face de decisão do Juízo de Direito da 2ª Vara Criminal da Comarca de Uberaba/MG que se reputou incompetente para processar e julgar o auto de prisão em flagrante de MARCO TÚLIO JANUÁRIO DA SILVA.
+Consta que o detento veio a ser preso em Uberaba/MG, em 27/11/2024, pelo furto de uma motocicleta ocorrido em Igarapava/SP.
+Após receber a comunicação da prisão, o Juízo suscitado (de MG) declinou de sua competência para a Comarca de Igarapava/SP e, sem prejuízo, designou audiência de custódia que foi por ele realizada, sem se pronunciar sobre a prisão.
+Por sua vez, o Juízo suscitante (de SP), com amparo em precedente desta Corte no CC 201.785/SP (de minha Relatoria, DJe de 03/05/2024), sustenta que a competência para deliberar sobre o status prisional do custodiado, após a homologação do flagrante, é do juízo ao qual incumbe a realização da audiência de custódia, na forma do previsto na Resolução n. 213/2015 do Conselho Nacional de Justiça.
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pela competência do Juízo suscitado (de MG), em parecer assim ementado:
+CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUÍZOS ESTADUAIS SUBMETIDOS A TRIBUNAIS DIVERSOS. CRIME DE FURTO MAJORADO. PROCESSUAL PENAL. COMPETÊNCIA. PRISÃO EM FLAGRANTE REALIZADA EM LOCALIDADE DIVERSA DAQUELA EM QUE O CRIME FOI PRATICADO. PRISÃO PREVENTIVA. COMPETÊNCIA DO JUÍZO RESPONSÁVEL PELA REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. LOCAL DA PRISÃO.
+- A prisão em flagrante/preventiva deve ser analisada na audiência de custódia que, por sua vez, deve ser realizada na localidade em que ocorreu a prisão.
+- Competência do juízo suscitado para análise do status prisional do investigado.
+É o relatório. Decido.
+O conflito merece ser conhecido, uma vez que os Juízos que suscitam a incompetência estão vinculados a Tribunais diversos, sujeitando-se, portanto, à jurisdição desta Corte, a teor do disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+Questiona-se, nos autos, se a competência para decidir sobre a legalidade de prisão de flagrante, assim como sobre pedido de conversão em prisão preventiva é do Juízo do local da prisão ou do Juízo do local em que o delito ocorreu.
+Tem razão o Juízo suscitante.
+Lembro, inicialmente, que a jurisprudência desta Corte Superior está fixada no sentido de que "a audiência de custódia, no caso de mandado de prisão preventiva cumprido fora do âmbito territorial da jurisdição do Juízo que a determinou, deve ser efetivada por meio da condução do preso à autoridade judicial competente na localidade em que ocorreu a prisão. Não se admite, por ausência de previsão legal, a sua realização por meio de videoconferência, ainda que pelo Juízo que decretou a custódia cautelar." (CC n. 168.522/PR, relatora Ministra LAURITA VAZ, Terceira Seção, julgado em 11/12/2019, DJe 17/12/2019, sem grifos no original).
+No mesmo sentido:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. MANDADO DE PRISÃO PREVENTIVA. CUMPRIMENTO EM UNIDADE JURISDICIONAL DIVERSA. AUDIÊNCIA DE CUSTÓDIA. REALIZAÇÃO. COMPETÊNCIA. JUÍZO DA LOCALIDADE EM QUE EFETIVADA A PRISÃO. REALIZAÇÃO POR MEIO DE VIDEOCONFERÊNCIA PELO JUÍZO ORDENADOR DA PRISÃO. DESCABIMENTO. PREVISÃO LEGAL. INEXISTÊNCIA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITANTE.
+1. A audiência de custódia, no caso de mandado de prisão preventiva cumprido fora do âmbito territorial da jurisdição do Juízo que a determinou, deve ser efetivada por meio da condução do preso à autoridade judicial competente na localidade em que ocorreu a prisão. Não se admite, por ausência de previsão legal, a sua realização por meio de videoconferência, ainda que pelo Juízo que decretou a custódia cautelar.
+2. Conflito conhecido para declarar competente o Juízo Federal da Vara da Seção Judiciária do Paraná, o Suscitante.
+(CC n. 168.522/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 11/12/2019, DJe de 17/12/2019.) - negritei.
+Seguindo a mesma orientação, podem ser consultadas, ainda, as seguintes decisões monocráticas: CC 201.801/PR, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe de 13/12/2023; CC 197.149/SP, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe de 12/06/2023; CC 197.238/SC, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 09/06/2023; CC 196.844/SP, Rel, Min. JESUÍNO RISSATO (Desembargador convocado do TJDFT), DJe de 07/06/2023; CC 195.321/SC, Rel. Min. RIBEIRO DANTAS, DJe de 22/05/2023; CC 194.433/SC, Rel. Min. JOEL ILAN PACIORNIK, DJe de 04/05/2023.
+No caso concreto, como bem ponderou o parecer ministerial, a prisão realizada na cidade de Uberaba/MG sequer decorreu de mandado de prisão em aberto, não havendo que se cogitar na competência do Juízo de Direito da 2ª Vara de Igarapava/SP para decidir sobre ela.
+Ademais, com efeito, como salientou o Juízo suscitante (de SP), o art. 8º, §§ 1º e 3º, da Resolução n. 213/2015 do Conselho Nacional de Justiça é clara ao estabelecer que o Juízo do local da prisão, competente para a realização da audiência de custódia, será competente também para decidir sobre a legalidade e manutenção da prisão.
+Eis o exato teor da norma:
+Art. 8º Na audiência de custódia, a autoridade judicial entrevistará a pessoa presa em flagrante, devendo:
+(..)
+§ 1º Após a oitiva da pessoa presa em flagrante delito, o juiz deferirá ao Ministério Público e à defesa técnica, nesta ordem, reperguntas compatíveis com a natureza do ato, devendo indeferir as perguntas relativas ao mérito dos fatos que possam constituir eventual imputação, permitindo-lhes, em seguida, requerer:
+I - o relaxamento da prisão em flagrante;
+II - a concessão da liberdade provisória sem ou com aplicação de medida cautelar diversa da prisão;
+III - a decretação de prisão preventiva;
+IV - a adoção de outras medidas necessárias à preservação de direitos da pessoa presa.
+§ 2º A oitiva da pessoa presa será registrada, preferencialmente, em mídia, dispensando-se a formalização de termo de manifestação da pessoa presa ou do conteúdo das postulações das partes, e ficará arquivada na unidade responsável pela audiência de custódia.
+§ 3º A ata da audiência conterá, apenas e resumidamente, a deliberação fundamentada do magistrado quanto à legalidade e manutenção da prisão, cabimento de liberdade provisória sem ou com a imposição de medidas cautelares diversas da prisão, considerando-se o pedido de cada parte, como também as providências tomadas, em caso da constatação de indícios de tortura e maus tratos.
+(texto disponível no endereço eletrônico https://atos.cnj.jus.br/files/resolucao_comp_213_15122015_22032019144706.pdf - consulta em 30/04/2024, negritei)
+Assim sendo, a competência para decidir sobre os requerimentos do Ministério Público e da Defesa, referentes ao status prisional do investigado, preso em flagrante, deve recair sobre o Juízo competente para a realização da audiência de custódia e não sobre o Juízo competente para o processo e julgamento do fato criminoso.
+Ante o exposto, com amparo no art. 34, XXII, do Regimento Interno do STJ, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara Criminal da Comarca de Uberaba/MG, o suscitado, para deliberar sobre o status prisional dos investigados presos em flagrante na sua Comarca.
+Dê-se ciência aos Juízes em conflito.
+Intimem-se.
+EMENTA
