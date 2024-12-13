@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA DE DESENVOLVIMENTO HABITACIONAL DO DISTRITO FEDERAL - CODHAB/DF contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 0707568-73.2018.8.07.0018, assim ementado (fls. 1227-1228):
+APELAÇÃO CÍVEL. TURBAÇÃO. MANUTENÇÃO DA POSSE. BEM PÚBLICO DOMINICAL. POSSIBILIDADE. AUTOTUTELA. ART. 1210, § 1º, DO CÓDIGO CIVIL. PRINCÍPIOS CONSTITUCIONAIS. SENTENÇA REFORMADA.
+1. Na hipótese, a recorrente pretende que a CODHAB se abstenha de promover qualquer ato que configure turbação à posse exercida sobre bem imóvel que compõe o acervo público dominical.
+2. É possível o exercício da posse sobre bens públicos dominicais. Esses bens não precisam de desafetação para que sejam alienados, desde que, evidentemente sejam observadas as exigências legais respectivas (art. 101 do Código Civil e art. 17 da Lei nº 8.666/1993).
+3. A possibilidade de alienação e do subsequente apossamento dos bens públicos não se confunde com a questão da insuscetibilidade de aquisição pela via da usucapião. Nos termos dos artigos 183, § 3º, e 191, parágrafo único, da Constituição Federal e do art. 101 do Código Civil, os imóveis públicos não podem ser adquiridos pela via direta (enunciado nº 340 da Súmula do Excelso Supremo Tribunal Federal), mas apenas pela via indireta.
+4. Em nosso sistema jurídico a autotutela é admitida de forma excepcionalíssima, notadamente na hipótese do art. 1210, § 1º, do Código Civil, cuja regra enuncia que "o possuidor turbado, ou esbulhado, poderá manter-se ou restituir-se por sua própria força, contanto que o faça logo; os atos de defesa, ou de desforço, não podem ir além do indispensável à manutenção, ou restituição da posse".
+5. No caso, a CODHAB não poderá, sob o pretexto da constituição de um conjunto habitacional no local dos fatos, proceder à demolição das acessões físicas erigidas ou a retirada da vegetação ali existente sem a devida intermediação da atividade jurisdicional.
+6. Diante das peculiaridades nos presentes autos, nada impede que as autoridades públicas, desde que respeitados os preceitos constitucionais e legais aplicáveis, exerçam poder de polícia administrativo ao fiscalizar se a agravante, no exercício de sua posse, estaria ou não a violar as regras de parcelamento do solo, ou mesmo se teria promovido construções no local sem a devida licença administrativa.
+7. Recurso conhecido e provido.
+Opostos os embargos de declaração, os quais foram conhecidos e parcialmente providos, para reconhecer a sucumbência recíproca e equivalente entre as partes e para fixar os honorários advocatícios no valor de R$ 30.000,00 (trinta mil reais), sendo devido o montante de R$ 15.000,00 (quinze mil reais) para os patronos de cada parte (fls. 1314-1327).
+No recurso especial, a parte recorrente aduz, além da divergência jurisprudencial, a violação dos arts. 101, 884, 1.208, 1210 e 1255 do CC, art. 489, § 1º, incisos IV e VI, 555, 827, inciso IV e art. 1.022, incisos I e II, parágrafo único, todos do CPC.
+Assevera que "ao deixar de enfrentar argumento da recorrente essencial ao deslinde da controvérsia, atinente a inoponibilidade das ações possessórias por particular em face do poder público, a inexistência de posse mas mera detenção por ocupante irregular de imóvel público, violou o tribunal de origem o disposto no art. 489, § 10 , IV do CPC" (fl. 1352).
+Alega que:
+a) no ponto atinente à natureza jurídica do imóvel, como já delineado em linhas volvidas, o bem público objeto da controvérsia fora afetado à construção de residências familiares para atender a camada mais necessitada da sociedade, tratando-se de área pública doada pela União representada pela Secretária Patrimônio da União (SPU/DF), com destinação específica para habitação de interesse social (regularização fundiária e provimento habitacional), contrariando a argumentação de que se trata de bem dominical, sendo na verdade bem público de uso especial (fl. 1.357);
+b) admitir a tese firmada pelo tribunal de origem implica em chancelar verdadeiro enriquecimento sem causa e locupletamento, nos termos do art. 884, p. u. do Código Civil (fl. 1.361)
+Assim, afirma que (fl. 1.364):
+ ..  merece reforma o v. acórdão, na medida em que resta evidenciada a patente ofensa aos dispositivos legais apontados pelo tribunal de origem, ao passo que conferiu à recorrida o status de possuidora de bem público, legitimando-a à utilização de ação possessória em desfavor do poder público, garantindo sua permanência em imóvel destinado à política habitacional no âmbito do Distrito Federal, em contrariedade à jurisprudência do E. STJ que é sedimentada no sentido de que o particular tem apenas detenção em relação ao Poder Público, não se cogitando de proteção possessória.
+Não foram apresentadas as contrarrazões ao recurso especial.
+Inadmitido o recurso na origem (fls. 1418-1420), o que ensejou a interposição do presente agravo (fls. 1423-1447). Contraminuta às fls. 1470-1510.
+É o relatório.
+Decido.
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Ante o exposto, DOU PROVIMENTO ao agravo, convertendo-o em recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
