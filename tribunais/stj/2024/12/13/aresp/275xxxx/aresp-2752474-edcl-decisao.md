@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se  de  embargos  de  declaração  opostos  pela AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT  contra  decisão  monocrática,  proferida  à  fl.  1.833,  na qual foi homologada a desistência do agravo em recurso especial, nos termos do inc. IX do art. 34 do Regimento Interno do Superior Tribunal de Justiça.
+Sustenta a parte embargante que na decisão embargada teria ocorrido erro, pois, "A empresa UTIL - UNIÃO TRANSPORTES INTERESTADUAL DE LUXO LTDA, na petição de fls. e-STI 1.828, formulou renúncia ao direito em que se funda a ação"" (fl. 1.850).
+Alega que, "a parte renunciante figura como agravada, e não agravante, de modo que se mostra indevida a homologação de desistência do agravo em recurso especial" (fl. 1.850).
+Pede o conhecimento e acolhimento dos embargos de declaração "a fim de que, sanando-se os erros de fato existentes na r. decisão embargada acima demonstrados, seja apreciado e homologado o pedido de renúncia à pretensão formulado pela parte adversa na petição de fls. e-STJ 1.828, extinguindo- se o processo com resolução do mérito (art. 487. III. "c", do CPC) e, por consequência, tornando-se prejudicado o agravo em recurso especial do ente público e a correspondente e subsequente decisão de fls. e-STJ 1.838-1.844" (fl. 1.852).
+Intimada, a parte embargada não apresentou impugnação (fls. 1.860).
+Passo a decidir.
+Nos termos do § 2º do art. 1.024 do Código de Processo Civil, os embargos de declaração opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo órgão prolator da decisão embargada e serão cabíveis quando houver obscuridade, contradição, omissão ou erro material na decisão, conforme o disposto nos incs. I a III do art. 1.022 do Código de Processo Civil.
+In casu, diferente do alegado pelo embargante, a parte embargada interpôs agravo em recurso especial, conforme se verifica às fls. 1.769-1.773.
+Acolho os embargos de declaração quanto a omissão à menção expressa a renúncia à pretensão formulada nos autos.
+Considerando que o processo trata de direito que admite autocomposição e estando presentes os pressupostos de validade do negócio jurídico processual entabulado, não há óbice para homologação do pedido.
+Ante o exposto, acolho os Embargos de Declaração para suprir a omissão e, com fundamento nos artigos 487, inciso III, alínea "c" do CPC e 34, incisos IX e XI, do RISTJ, HOMOLOGAR o pedido de desistência do agravo em recurso especial interposto por UTIL - União Transportes Interestadual d e Luxo Ltda., bem como a renúncia ao direito sobre o qual se funda a ação. Julgo prejudicado o agravo em recurso especial interposto pela Agência Nacional de Transportes Terrestres - ANTT e a decisão de fls. 1.838-1.844.
+Ante a necessidade de análise de legislação local, eventual pedido de condenação da parte agravante em custas e honorários advocatícios deverá ser apreciado pelo juízo de origem, competindo a este Tribunal tão somente a homologação da desistência. (AgRg no AREsp 546.389/MG, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 04/03/2015) Precluso o presente decisum, certifique-se o trânsito em julgado e baixe-se os autos à origem, para o cumprimento do entabulado entre as partes.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM PETIÇÃO DE DESISTÊNCIA DE AGRAVO EM RECURSO ESPECIAL. EMBARGOS ACOLHIDOS. HOMOLOGAÇÃO DA RENÚNCIA AO DIREITO NO QUAL SE FUNDA A AÇÃO.
