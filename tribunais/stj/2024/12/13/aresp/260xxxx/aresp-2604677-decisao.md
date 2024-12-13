@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CÁSSIO FERNANDO DE FREITAS MUNDIM contra decisão que inadmitiu recurso especial com fundamento na ausência de ofensa ao art. 1.022 do CPC.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios (Apelação Cível n. 715624-10.2022.8.07.0001) assim ementado (fls. 521-522):
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. REVISÃO DE CLÁUSULA. REPETIÇÃO DE INDÉBITO. INVERSÃO DO ÔNUS DA PROVA NÃO ADMITIDA. ART. 6º, INC. VIII, DO CDC. ÔNUS PROBATÓRIO DO AUTOR. ART. 373, INC. I, DO CPC. AUSÊNCIA DE ABUSIVIDADE. RECURSOS DESPROVIDOS.
+1. Na presente hipótese a questão submetida ao conhecimento deste Egrégio Tribunal de Justiça consiste em examinar se o apelante se desincumbiu do ônus de provar o fato constitutivo da pretensão referente à revisão dos valores atinentes ao negócio jurídico de seguro de vida celebrado entre as partes e à repetição de indébito relativamente aos valores pagos pelo segurado à seguradora.
+2. A inversão do ônus da prova depende da regular comprovação dos requisitos estabelecidos no art. 6º, inc. VIII, do Código de Defesa do Consumidor, quais sejam: a verossimilhança, a hipossuficiência e a vulnerabilidade do consumidor. 2.1. No caso em deslinde ao indeferir o requerimento formulado pelo consumidor, atinente à inversão do ônus da prova, o Juízo singular afirmou a ausência de hipossuficiência técnica na produção da prova dos fatos articulados na causa de pedir, com a subsequente intimação para se manifestar a respeito da possibilidade de produzir outras provas ao deslinde da controvérsia. 2.2. Na oportunidade o consumidor se manteve inerte, tendo alegado que o conjunto probatório coligido aos autos seria suficiente à solução da lide. 2.3. Além disso, é imperioso destacar que o art. 373, inc. I, do CPC, atribui ao demandante a incumbência de provar o fato constitutivo de sua pretensão.
+3. O valor atribuído à causa cuja pauta se restringe ao reajuste do atual valor referente ao prêmio do seguro, à repetição de indébito das 12 (doze) derradeiras parcelas e à indenização por dano moral observou o disposto no art. 292, incisos II e V, do CPC.
+4. Pelas razões expostas as alegações articuladas nas razões recursais deduzidas pelas partes não podem alterar a correta conclusão exarada pelo Juízo singular.
+5. Recursos conhecidos e desprovidos.
+Os embargos de declaração foram rejeitados (fls. 573-594).
+Nas razões do recurso especial, o ora agravante aponta ofensa ao art. 1.022 do CPC, aduzindo que, mesmo após a oposição de embargos de declaração, o Tribunal de origem não analisou a alegação de que cumpriu efetivamente o ônus da prova para demonstrar o fato constitutivo da sua pretensão. Alega, ainda, omissão e contradição quanto à majoração dos honorários advocatícios, argumentando que não foi apresentada justificativa para a referida majoração.
+Requer o conhecimento e o provimento do recurso e a concessão dos benefícios da justiça gratuita.
+Contrarrazões às fls. 634-658.
+É o relatório. Decido.
+Inicialmente, defiro a gratuidade de justiça.
+Entretanto, o recurso não merece prosperar, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões apontadas como omitidas, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Com relação à ausência de cumprimento do ônus probatório, o Tribunal de origem asseverou o seguinte (fls. 526-528 ):
+"No caso em deslinde ao indeferir o requerimento formulado pelo consumidor, atinente à inversão do ônus da prova, o Juízo singular afirmou a ausência de hipossuficiência técnica, razão pela qual determinou a intimação do demandante para que se manifestasse a respeito da possibilidade de produzir outras provas necessárias ao deslinde da controvérsia (Id. 44375256).
+De acordo com os comandos normativos previstos nos artigos 370 e 371, ambos do Código de Processo Civil, houve, na oportunidade, a indicação, pelo Juízo singular, de que o consumidor poderia lançar mão de outros meios probatórios à solução da controvérsia.
+O consumidor, no entanto, manteve-se inerte, ao argumento de que os elementos de provas documentais já trazidos aos autos seriam suficientes para a comprovação do fato constitutivo da pretensão ora exercida (Id. 44375259).
+Observa-se, portanto, que o consumidor, mesmo após ter sido alertado a respeito da necessidade de comprovar a alegação de abusividade dos valores pagos em razão da relação jurídica negocial em deslinde, não se desincumbiu do seu ônus probatório, nos termos do art. 373, inc. I, do CPC.
+Assim, as alegações ora articuladas no sentido de que os reajustes promovidos nos valores referentes aos prêmios pagos em todo o período contratual (2002 a 2022) foram superiores ao acúmulo da variação do índice IGP-M são insuficientes.
+A propósito, verifica-se que a seguradora trouxe aos autos a planilha dos valores pagos pelo segurado a partir do ano de 2002, referida no Id. 44375248, a respeito da qual o consumidor não deduziu impugnação específica em sede de resposta à contestação (Id. 44375253).
+Aliás, as afirmações deduzidas pelo segurado, dão conta de que não obteve ciência a respeito dos percentuais efetivamente cobrados.
+Em relação à única apólice trazida aos autos pelo segurado é possível observar os cálculos efetuados pela seguradora, bem como a aplicação do índice IGP-M, e o consequente resultado dos valores devidos (Id. 44375212 e Id. 44375245), a partir dos quais incumbiria ao segurado demonstrar a abusividade, ou, pelo menos, requerer a realização de perícia.
+Quanto à majoração dos honorários advocatícios sucumbenciais, o Tribunal de origem afirmou o seguinte (fl. 580):
+No que diz respeito à fixação do valor referente aos honorários de advogado, em favor da ora embargada, convém observar a determinação de majoração da aludida quantia em decorrência da apreciação da apelação e da sucumbência recursal, de acordo com a regra expressamente prevista no art. 85, §11, do CPC.
+Desse modo, não há falar em omissão ou obscuridade, pois o Tribunal a quo tratou, de forma expressa, da questão suscitada pelo agravante.
+Existindo, portanto, manifestação da Corte de origem a respeito das matérias suscitadas, não há elementos que possam contribuir para o sucesso do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
