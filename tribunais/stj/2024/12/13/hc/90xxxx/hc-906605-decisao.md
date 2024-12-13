@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de LUCAS RAFAEL DE OLIVEIRA SALES e RENNER REIS DO NASCIMENTO, em que se aponta como órgão coator o Tribunal de Justiça de Mato Grosso do Sul.
+Depreende-se dos autos que o Juízo de Direito da Vara Única da comarca de Nova Alvorada do Sul/MS, na Ação Penal n. 0001314-47.2016.8.12.0054, condenou os pacientes à pena de 5 anos e 10 meses de reclusão, cada, pelo delito previsto no art. 33, caput, c/c o art. 40, inciso V, ambos da Lei n. 11.343/2006.
+Interposta apelação pelas partes, o Tribunal a quo negou provimento ao recurso da acusação e deu parcial provimento ao recurso da defesa para o fim de afastar a circunstância judicial relativa à culpabilidade, sem efeito, contudo, na sanção final imposta.
+Aqui, alega-se constrangimento ilegal na dosimetria da pena e requer-se a concessão da ordem a fim de que seja aplicado o redutor previsto no art. 33, § 4º, da Lei de Drogas.
+Sem pedido liminar.
+Parecer do Ministério Público Federal, às fls. 661/664, pelo não conhecimento do writ.
+É o relatório.
+No caso, a Corte local afastou a minorante mediante os seguintes fundamentos (fl. 645 - grifo nosso):
+ ..
+Malgrado argumentos expendidos, não é de se aplicar a benesse do art. 33, § 4º, da Lei n. 11.343/06, vez que as provas dos autos apontam que os acusados, se não dedicados à atividades ilícitas, ao menos contribuem com organização criminosa.
+Com efeito, a quantidade de maconha aprendida - 135 kg (cento e trinta e cinco quilos), aliado ao modus operandi dos acusados que deixaram suas cidade em que residiam (Cuiabá e São Gabriel do Oeste) apenas com o intento de transportar as ilícitas substâncias de Ponta Porã até Cuiabá (MT), pelo valor de R$ 1.500,00 (um mil e quinhentos reais) cada, evidencia elo com organização criminosa.
+Assim, tais circunstâncias analisadas conjuntamente permitem inferir com grau de certeza suficiente sobre a efetiva participação dos acusados na cadeia do tráfico, não sendo possível crer que fosse a primeira vez que transportavam as ilícitas substâncias, notadamente em face da grande quantidade transportada, na medida em que denota confiança do contratante.
+Desta forma, não estando preenchidos os requisitos do art. 33, § 4º, da Lei n. 11.343/06, a incidência da minorante resta absolutamente inviável.
+ ..
+Com efeito, não há fundamentação idônea para afastar a incidência da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, tendo em vista que as meras suposições ventiladas no acórdão não possuem a idoneidade necessária para firmar a certeza da dedicação dos pacientes às atividades criminosas.
+A partir da narrativa fática delineada pelas instâncias ordinárias, isto é, que os acusados deixaram suas cidades em que residiam (Cuiabá e São Gabriel do Oeste) apenas com o intento de transportar as ilícitas substâncias de Ponta Porã até Cuiabá (MT) - fl. 645, constata-se que a situação descrita nos autos se amolda à hipótese usualmente conhecida como "mula" do tráfico, em que a pessoa aceita prestar serviços à organização criminosa, especialmente no transporte de entorpecentes, sem efetivamente passar a integrar o grupo criminoso organizado, o que não é suficiente, por si só, para o afastamento da minorante do tráfico privilegiado, mesmo no caso de apreensão de expressiva quantidade de droga.
+Na linha da jurisprudência deste Tribunal Superior, "a condição de "mula" do tráfico, por si só, não comprova que o Acusado integra organização criminosa e, por via de consequência, não se presta a fundamentar a não aplicação da minorante do tráfico privilegiado, mas, tão somente, justifica a aplicação da referida causa de diminuição em seu patamar mínimo, de 1/6 (um sexto)" (AgRg no HC n. 663.260/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/8/2021, DJe 25/8/2021, grifei) - (AgRg no HC n. 924.373/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/9/2024, DJe 12/9/2024 - grifo nosso).
+Ademais, excluído o fundamento da condição de "mula", resta a fundamentação baseada na quantidade de droga apreendida.
+Contudo, a grande quantidade de entorpecentes apreendidos somente pode ser considerada para o afastamento da minorante do tráfico privilegiado, se houver a indicação de elementos concretos adicionais. Inadmitido, portanto, conjecturas e suposições acerca da dedicação ou integração com organização criminosa. (AgRg no HC n. 892.844/MG, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 17/5/2024 - grifo nosso).
+No ponto, registro que a Terceira Seção do Superior Tribunal de Justiça, em 27/4/2022, no julgamento do HC n. 725.534/SP, reafirmou o entendimento exposto no REsp n. 1.887.511/SP, no sentido de que a quantidade e a natureza da droga apreendida não permitem, por si sós, afastar a aplicação da minorante.
+Por outro lado, o fato de o acusado ostentar a condição de "mula" do tráfico justifica a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 na fração mínima (1/6), dada a maior gravidade da conduta decorrente do exercício dessa função de transporte, que se revela como uma etapa fundamental para que a traficância alcance vasta escala de distribuição.
+No caso em análise, portanto, diante do fato de os acusados ostentarem a condição de "mula" do tráfico, incide a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 na fração mínima de 1/6.
+Fixadas essas premissas, passo a redimensionar as penas dos pacientes.
+Na primeira fase, mantenho a pena-base fixada no acórdão condenatório (diante da exclusão da culpabilidade, dividi o aumento em primeira instância por circunstancia judicial negativada), qual seja, 6 anos e 3 meses de reclusão, e 650 dias-multa.
+Na segunda etapa, diante da confissão e da menoridade relativa, diminui-se a pena para 5 anos de reclusão e 500 dias-multa..
+Na terceira fase, mantém-se a aplicação da causa de aumento do art. 40, V, da Lei n. 11.343/2006 (com acréscimo de 1/6): 5 anos e 10 meses de reclusão, e 580 dias-multa. Aplico, também, a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração mínima de 1/6, de modo que a sanção definitiva fica concretizada em 4 anos, 10 meses e 10 dias de reclusão, e 483 dias-multa, no valor unitário mínimo, para cada réu.
+Em consequência, mantenho o regime inicial fechado, considerando o quantum de pena fixado e a circunstância judicial desfavorável.
+Ante o exposto, concedo a ordem de habeas corpus para aplicar a minorante do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 1/6, ficando estabelecida a reprimenda definitiva, para cada paciente, em 4 anos, 10 meses e 10 dias de reclusão, e 483 dias-multa, mantido o regime inicial fechado.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. RECONHECIMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006, EM SUA FRAÇÃO MÍNIMA DE 1/6. CONDIÇÃO DE MULA.
+Ordem concedida nos termos do dispositivo.
