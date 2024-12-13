@@ -1,0 +1,22 @@
+DECISÃO
+FRANKLIN ANDRADE DO NASCIMENTO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte no Agravo Regimental no HC n. 0805212-97.2024.8.20.0000.
+Consta dos autos que o paciente foi condenado, pela prática dos delitos de latrocínio e roubo majorado.
+A defesa pleiteia, por meio deste recurso ordinário, a absolvição do paciente relativamente ao crime de latrocínio e, alternativamente, o reconhecimento do concurso formal próprio de crimes.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+Este recurso em habeas corpus foi impetrado em 26/4/2024 e se insurge contra acórdão de agravo regimental interposto, que foi julgado em 21/6/2024 pelo Tribunal de origem e denegou a ordem no writ lá manejado.
+Em consulta ao sítio eletrônico desta Corte de Justiça, observa-se que o postulante interpôs o Agravo no Recurso Especial n. 2.153.041/RN, em virtude de o apelo especial, interposto contra o acórdão de apelação, haver sido inadmitido na origem. O ora paciente postulou o reconhecimento da cooperação dolosamente distinta para o crime de latrocínio ou, alternativamente, a aplicação do concurso formal perfeito entre o crime mais grave e os roubos majorados.
+Em 26/2/2024, o agravo foi por mim conhecido. Todavia, neguei provimento ao recurso especial, em 27/10/2022. O trânsito em julgado dessa decisão deu-se em 11/11/2024.
+Observo que o postulante impetra "habeas corpus substitutivo de revisão criminal" (fl. 4) e pretende o reexame das matérias já analisadas no âmbito do AREsp acima individualizado.
+Diante desse cenário, não conheço deste habeas corpus porque esta Corte, em diversas ocasiões, reconhece a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus"(AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe 15/3/2024).
+A despeito da ampliação do uso da mencionada ação constitucional, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte, que orbita em delimitar teses a fim de trazer uniformidade e previsibilidade ao sistema jurídico.
+Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+No caso em apreço, a defesa deixou de solicitar ao Tribunal de Justiça a revisão de condenação.
+Assim, não está em curso processo do qual o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a eventualidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP).
+Menciono, por oportuno, que:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..  (AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+A despeito disso, nota-se a preclusão temporal do pleito de negativa de materialidade e de autoria, além de modificação na dosimetria, haja vista que "a jurisprudência deste Tribunal Superior, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021) (AgRg no HC n. 860.367/SC, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 13/9/2024).
+À vista do exposto, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
