@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela VALE S.A. para desafiar decisão proferida às e-STJ fls. 1.933/1.935, que não conheceu do agravo em recurso especial, pois a agravante não impugnou especificamente todos os fundamentos da decisão agravada, abstendo-se de atacar a ausência de afronta ao art. 1.022 do CPC.
+Sustenta a parte agravante, às e-STJ fls. 1.939/1.963, que, ao contrário do consignado, impugnou, de forma específica e em tópico próprio, o referido fundamento, ao demonstrar que a decisão de inadmissibilidade invadiu o mérito recursal, usurpando competência desta Corte.
+Requer, assim, a reconsideração da decisão ora recorrida ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 1.969/1.980, em que se pleiteia a aplicação da multa prevista no art. 1.021, § 4.º, do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, a teor do disposto nos arts. 253, parágrafo único, I, do RISTJ, e 932, III, do CPC/2015.
+Nas razões do agravo em recurso especial, a agravante não infirmou de forma clara e específica todos os fundamentos da decisão agravada, abstendo-se de atacar a ausência de afronta ao art. 1.022 do CPC, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, a parte limitou-se a alegar, entre outras razões, o seguinte (e-STJ fls. 1.866/1.868):
+37. No caso em apreço, o e. TJMG inadmitiu o Recurso Especial, em relação ao art. 1.022, I, do CPC, com base em fundamento de mérito. In verbis: "(..)".
+38. Da leitura da r. decisão, extrai-se de forma muito clara que o fundamento utilizado como suposta hipótese de inadmissibilidade foi o entendimento do Exmo. Desembargador Primeiro Vice-Presidente do e. TJMG quanto ao mérito do Recurso Especial.
+39. O il. Julgador sequer tratou a decisão como se fosse quanto aos pressupostos de admissibilidade, julgou o mérito do recurso e consignou todo o seu entendimento apesar de não ser a sua competência.
+40. Sendo assim, resta evidente que o e. TJMG extrapolou a competência do juízo de admissibilidade e analisou o mérito do Recurso Especial, o que não encontra amparo legal.
+41. Logo, vedar o acesso das Agravantes à Corte Superior, quando presentes todos os requisitos de admissibilidade do recurso especial, representa flagrante ilegalidade e invasão de competência do c. STJ.
+42. De mais a mais, está-se diante de manifesta desobediência aos preceitos legais que regulamentam a matéria, pois está expresso que, admitido o recurso (ou seja, após o exame de admissibilidade), os autos serão remetidos a este c. Superior Tribunal de Justiça, conforme dispõe o artigo 1.031 do CPC.
+43. Assim, se o e. Tribunal de Justiça a quo, que faz o exame de admissibilidade, pudesse apurar as razões de provimento do Recurso Especial, não haveria qualquer sentido a remessa dos autos ao e. STJ.
+44. Sendo assim, a r. decisão agravada deve ser reformada neste ponto, pois usurpou a competência do STJ ao apreciar o mérito do Recurso Especial. Em sequência, requer seja conhecido e dado provimento ao Recurso Especial, a fim de se reconhecer a existência de contradição não sanada no decisum recorrido, em flagrante desrespeito ao art. 1.022, I, do CPC.
+Cumpre destacar que "os arts. 932, inciso III, e 1.042 do CPC/2015 estabelecem regras expressas autorizando o relator do agravo a deixar de conhecê-lo quando manifestamente inadmissível ou quando não atacar especificamente os fundamentos da decisão agravada, hipótese esta na qual se insere o caso em que o agravante, em vez de confrontar o juízo de admissibilidade da instância ordinária, limita-se a argumentar a usurpação de competência ou a falta dela, a reiterar com exatidão as razões do recurso especial ou, ainda, a impugnar apenas parte da motivação. Inteligência da Súmula 182/STJ" (AgInt no AREsp 1490462/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/11/2019, DJe 29/11/2019).
+Nesse contexto, não se mostra suficiente a mera alegação de usurpação de competência ou a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante efetivo ataque aos seus fundamentos.
+Assim, no tocante à alegada ofensa ao art. 1.022 do CPC, caberia à agravante especificar quais seriam as questões que eventualmente deixaram de ser adequadamente enfrentadas pelo Tribunal de origem e, principalmente, a sua relevância para o resultado da demanda, o que não ocorreu.
+Logo, mostra-se inafastável o desprovimento do presente agravo interno.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, AUTÔNOMOS OU NÃO. ART. 932, III, DO CPC/2015 E SÚMULA N. 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I - Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, ante o óbice da Súmula n. 182 do STJ.
+II - Nos termos da jurisprudência atual e consolidada desta Corte, incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o recurso especial, autônomos ou não, demonstrando o seu desacerto, de modo a justificar o processamento do recurso, sob pena de não ser conhecido o agravo em recurso especial (art. 932, III, do CPC vigente). Nesse sentido: STJ, EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018; AgInt nos EAREsp n. 1.074.493/RS, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 20/8/2019; AgInt no AREsp n. 1.505.281/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2019; AgInt no AREsp n. 1.579.338/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1º/7/2020; AgRg nos EAREsp n. 1.642.060/SC, relator Ministro Raul Araújo, Corte Especial, DJe de 16/9/2020; AgInt nos EDcl no AREsp n. 1.693.577/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/11/2020.
+III - No caso, por simples cotejo entre o decidido e as razões do agravo em recurso especial, verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o recurso especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015, bem como do teor da Súmula n. 182 do Superior Tribunal de Justiça, por analogia.
+IV - A mera "alegação de suposta usurpação de competência desta Corte, por si só, não é suficiente para cumprir com o dever de impugnação dos fundamentos de inadmissibilidade do Recurso Especial" (STJ, AgInt no AREsp n. 2.098.383/BA, relator Ministro Manoel Erhardt (Desembargador Federal convocado do TRF5), Primeira Turma, DJe de 17/8/2022), já que é firme o entendimento na Corte Superior, no sentido de que incumbe à Presidência do Tribunal de origem realizar o juízo de admissibilidade do recurso, inclusive, em relação aos pressupostos constitucionais e específicos concernentes ao mérito recursal, sem que isso implique usurpação da competência do STJ. Precedentes.
+V - Agravo interno desprovido.
+(AgInt no AREsp n. 1.492.020/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/9/2024, DJe de 6/9/2024.) (grifo acrescido)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. MULTA ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE, NA ORIGEM, O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso especial. Incidência da Súmula 182 do STJ.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, DJe de 30/11/2018).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.930.439/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 29/11/2021, DJe de 2/12/2021.)
+No tocante ao pleito da parte agravada, tenho que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise, razão pela qual deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
