@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALAM JACSON VALLEJO GONCALVES contra decisão que indeferiu liminarmente o habeas corpus.
+A parte embargante alega que há nos autos a cópia integral do acórdão impugnado.
+É o relatório. Decido.
+A despeito da juntada do inteiro teor do pronunciamento atacado, a ordem não merece ser conhecida em parte.
+A legalidade do flagrante já foi objeto do RHC 172.717/RS, sendo inviável a reiteração de pedido.
+Quanto ao pleito absolutório/desclassificatório, é inviável o reexame de fatos e provas na via do habeas corpus, não havendo ilegalidade manifesta a teor do acórdão impugnado:
+Os elementos probatórios revelam que tanto a materialidade quanto a autoria resultam incontroversas, em que pese a negativa dos apelantes. Os policiais relataram que os acusados eram conhecidos pela policia por seu envolvimento como tráfico de drogas na cidade. Disseram que no dia dos acontecimentos, passaram pelo local e avistaram Odair realizando duas vendas de narcóticos. Geralmente, Alam Jacson não era visto entregando as drogas, mas para surpresa dos policiais, ele entrou na rua de bicicleta e eles conseguiram flagrar o momento em que ele entregou dois invólucros para Odair e saiu em direção à Rua Irineu, onde fica sua residência. Relataram que alguns policiais ficaram encarregados de abordar Odair, enquanto outros iriam abordar Alam Jacson. Conseguiram deter Alam, e realizaram buscas no local. Relataram que durante a abordagem de Odair, notaram que ele recebeu pacotes de Alam Jacson e os deixou no meio-fio. Dentro dos pacotes foram encontradas pedras de crack, embaladas em papel branco, o que é característico do ponto de tráfico de drogas daquela região.
+Os depoimentos prestados pelos agentes policiais são uníssonos e harmônicos, relatadas todas as minúcias dos fatos, devendo prevalecer sobre a versão exculpativa dos réus quanto ao delito de tráfico de drogas.
+ ..
+A luz de tais diretrizes, tenho que a variedade de matéria proscrita apreendida, ainda que em pouca quantidade (45 pedras de crack, pesando 4,5g.), somadas às circunstâncias da apreensão, mostra-se incompatível com o uso, afastando qualquer possibilidade de desclassificação da conduta para os lindes do artigo 28 da Lei n. 11.343/06.
+No tocante à dosimetria, a natureza e a quantidade da droga justificam, em tese, a exasperação da pena-base acima no mínimo legal, nos termos do que dispõe o art. 42 da Lei n. 11.343/2006.
+Contudo, no caso, constato que, a despeito da natureza da droga apreendida, a quantidade - 45 pedras de crack no montante de 4,5 gramas (e-STJ fl. 15) -, para além de não ser expressiva, segundo a orientação desta Corte, não é apta, por si só, a indicar maior desvalor da conduta.
+De fato, verifica-se que o entendimento adotado pelas instâncias ordinárias está em dissonância com a jurisprudência deste Superior Tribunal, segundo a qual "existe manifesta ilegalidade no tocante à fixação da pena-base acima do mínimo legal, porquanto a quantidade apreendida - 5,07g de maconha, 10,95g de cocaína e 1,79g de crack - não se mostra expressiva o suficiente a ponto de justificar a exasperação da pena na primeira fase da dosimetria" (HC n. 427.177/SP, Sexta Turma, relator Ministra Maria Thereza de Assis Moura, DJe 8/3/2018, grifos acrescidos).
+Nesse mesmo sentido o parecer ministerial: "Como se observa dos excertos, em relação à vetorial quantidade/natureza dos entorpecentes, em que pese não desprezível, 4,5g de crack não serve para incrementar a pena-base, pelo que o acórdão comporta reforma".
+Passo a redimensionar a pena (5033334-85.2022.8.21.0008/RS).
+Na pena-base do crime de tráfico de drogas, foram consideradas duas circunstâncias negativas, agora reduzido a uma (1/6), razão pela qual a pena-base fica fixada em 5 anos e 10 meses de reclusão, e 583 dias-multa.
+Na segunda fase, presente a agravante da reincidência (1/6), estabeleço a pena definitiva de ALAM JACSON VALLEJO GONCALVES em 6 anos, 9 meses e 20 dias de reclusão em regime fechado, e 680 dias-multa, ausentes causas de aumento ou diminuição.
+Ante o exposto, acolho os embargos de declaração e concedo a ordem para fixar a pena do paciente nos termos acima.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
