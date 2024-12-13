@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015).
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pela parte embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela BRF S.A. contra acórdão da Primeira Turma, de minha relatoria, assim ementado (e-STJ fl. 2.177):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. REEXAME DE PROVAS. INVIABILIDADE.
+1. Segundo pacífica orientação da jurisprudência do STJ, "nos recursos de fundamentação vinculada, como é o caso de recurso especial, a simples demonstração de insatisfação não possibilita o reexame da questão" (AgRg no REsp 1.478.870/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 05/02/2015, D Je 12/02/2015). Hipótese em que a parte recorrente não desenvolveu argumentos que demonstram em que medida teria havido ofensa à legislação federal indicada, incidindo, por analogia, o óbice da Súmula 284 do STF.
+2. Reconhecida inconsistência na documentação da ora agravante pelas instâncias ordinárias, s, que não se confunde com mera irregularidade formal, a autorizar suspensão do IPI nas remessas de mercadorias para o depósito, a revisão do acórdão recorrido demandaria reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+A embargante sustenta a existência de omissão relevante a ser sanada. Argumenta, em resumo, "ser possível concluir que a remessa para depósito, por estar contida na premissa de que a incidência somente se dá quando houver transferência de titularidade, não se sujeita ao pagamento do IPI, sendo irrelevante a existência de irregularidades formais" (e-STJ fl. 2.191).
+Sem impugnação (certidão de e-STJ fl. 2.214).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015).
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pela parte embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), vícios inexistentes na espécie.
+No acórdão embargado, apresenta-se claro o entendimento da turma julgadora no sentido de que: a) a deficiência de fundamentação enseja a incidência, por analogia, do óbice da Súmula 284 do STF; e b) o reexame de provas em recurso especial é inviável, nos termos da Súmula 7 do STJ.
+Do voto condutor do julgado extraio o seguinte trecho, que bem demonstra essa compreensão (e-STJ fls. 2.181):
+No caso, a ora agravante, em suas razões de recurso especial, limitou-se a defender, de modo genérico e superficial, que: a) o ICMS não compõe a base de cálculo do IPI (em relação à parte da autuação que identificou pagamento do tributo na saída de produtos para terceiros), b) não incide a multa por irregularidades escriturais; e c) é indevida a multa de ofício ou, pelo menos, deve ser reduzida, fazendo, para tanto, mera referência aos arts. 142 do CTN e 61, § 2º, da Lei n. 9.430/1996. Não desenvolveu argumentos tendentes a demonstrar, especificamente, na presente hipótese, eventualmente, em que medida teria havido ofensa à legislação federal indicada. Incide, pois, por analogia, o óbice da Súmula 284 do STF.
+Na decisão agravada foi dado parcial provimento ao recurso especial da ora agravante, ao fundamento de que o acórdão recorrido atuou em desconformidade com a orientação da Primeira Turma desta Corte Superior, que assentou não incidir IPI sobre a saída de produtos industrializados para outro estabelecimento do mesmo contribuinte, diante da ausência de onerosidade e mudança de titularidade.
+No tocante à não incidência do tributo sobre a alegada remessa de mercadorias para o depósito, em que se exige cumprimento de requisitos para suspensão do tributo, o pleito não foi objeto do provimento jurisdicional, porquanto não foi reconhecida a idoneidade da documentação apresentada pela ora agravante, tanto pela autoridade tributária quanto pelas instâncias ordinárias
+O excerto transcrito revela que, no tocante à autuação da ora embargante relativamente a irregularidades formais, para fins de suspensão de IPI na remessa de mercadorias para depósito, a Primeira Turma entendeu que, reconhecido pelas instâncias ordinárias o descumprimento dos requisitos legais, a revisão do julgado demandaria, no ponto, reexame de provas, a atrair o óbice da Súmula 7 do STJ.
+Ressalte-se que essa questão da irregularidade formal na remessa de mercadorias constitui apenas parte da autuação fiscal, conforme bem descrita às e-STJ fls. 1.424/1.464. Nesse ponto, não se conheceu do recurso especial, em razão do óbice sumular em tela, de modo que ele não foi objeto do provimento jurisdicional contido na decisão monocrática, mantida no acórdão recorrido, a saber (e-STJ fl. 1.964):
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e DOU-LHE PROVIMENTO para julgar parcialmente procedentes os pedidos formulados nos embargos à execução fiscal, a fim anular a CDA apenas no que se refere à cobrança de IPI sobre as transferências de matérias-primas, produtos intermediários e produtos de embalagens realizadas entre os estabelecimentos da ora recorrente e, por conseguinte, aos consectários legais incidentes (multas e juros de mora) e aos demais reflexos da autuação fiscal impugnada.
+Além disso, a existência de irregularidades formais se mostra absolutamente relevante. A legislação tributária permite a suspensão de IPI nas remessas de mercadorias para depósito. Ou seja, não se exige o tributo, desde que o contribuinte cumpra os requisitos formais. Não há tal benefício, tampouco a referida exigência, quando se transfere mercadorias para filiais. Assim, diante dos regramentos específicos, não há como estender o provimento jurisdicional em debate.
+Essas circunstâncias também foram retratadas no acórdão embargado (e-STJ fls. 2.182/2.183):
+De fato, conforme bem exposto no acórdão recorrido, a própria legislação de regência assegura a suspensão do IPI nas remessas de mercadorias para o depósito, desde que cumpridos os requisitos legais pertinentes, reconhecendo, assim, nessa hipótese, a não incidência imediata do tributo, quando da saída do estabelecimento industrial ou equiparado.
+Nesse contexto, reconhecida inconsistência na documentação da ora agravante pelas instâncias ordinárias, que não se confunde com mera irregularidade formal, a autorizar suspensão do IPI nas remessas de mercadorias para o depósito, a revisão do acórdão recorrido demandaria reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ, sendo incabível a extensão do provimento jurisdicional contido na decisão ora agravada.
+Nesse contexto, a parte embargante insiste em argumentos de questões amplamente debatidas no acórdão embargado, não havendo vício de integração a ser acolhido.
+Ponderados esses elementos, constato que a insurgência da parte embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
