@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MANASSERO E CAMPELLO SOCIEDADE DE ADVOGADOS à decisão de minha relatoria de fls. 625/630.
+A parte embargante alega que a decisão embargada é omissa, com estes argumentos (fls. 636/637):
+2. Entretanto, sequer constou da r. Decisão Embargada os fundamentos pelos quais V. Exa. entendeu que não houve violação ao artigo 85, § 2º, §3º, II, §4º, III e §6º, do CPC. O fundamento adotado para o desprovimento do recurso também não enfrentou as seguintes questões, que são suficientes para levar à conclusão oposta (i) o fato de não ter havido o enfrentamento do mérito não induz necessariamente à fixação de honorários sucumbenciais por equidade, tampouco em falta de estimativa do proveito econômico - ao ser excluída da lide a Arcor deixou de correr o risco de vir a pagar a verba pretendida pelo DER e refletida no valor da causa, sendo este o valor perfeitamente estimável do proveito econômico obtido; e (ii) ainda que se considere que o proveito econômico seja inestimável, a base de cálculo para cômputo dos honorários, nessa situação, permanece sendo o valor atualizado da causa, conforme dicção legal expressa.
+3. Em relação ao item "i" acima, conforme disciplinado pelo §6º, do art. 85, do CPC, mesmo na hipótese de extinção do processo sem resolução do mérito e, portanto, de inexistência de condenação - tal como ocorreu no presente caso em virtude da exclusão da Arcor do polo passivo da lide - deve-se ser observar os limites previstos nos §§ 2º e 3º, do supramencionado artigo:
+ ..
+4. Em outras palavras, para fixação dos honorários advocatícios sucumbenciais no presente caso deveriam ter sido observados os seguintes parâmetros/critérios: (i) mínimo de 10% e o máximo de 20% sobre o valor atualizado da causa (art. 85, §2º, CPC); ou, alternativamente, (ii) em sendo o DER uma autarquia estadual pertencente à administração pública, o mínimo de 8% e máximo de 10% por cento sobre o valor atualizado da causa (art. 85, §3º, II e §4º, III, do CPC).
+5. Quanto ao item "ii", a mera inexistência de proveito econômico não induz à fixação de honorários por equidade, eis que trata-se de situação excepcionalíssima apenas aplicável em situações em que o proveito econômico é inestimável ou irrisório vem acompanhado de um valor da causa muito baixo (art. 85, §8º, do CPC):
+ ..
+Requer que o recurso seja acolhido, para "determinar a readequadação dos honorários advocatícios sucumbenciais, que devem ser fixados entre o patamar de 8% a 10% do valor do valor atualizado da causa" (fl. 638).
+A parte adversa não apresentou impugnação (fl. 649).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Na decisão recorrida, a controvérsia foi solucionada nestes termos, em síntese (fl. 630):
+Verifico que o acórdão recorrido encontra-se em consonância com a tese firmada quanto ao Tema 1.076/STJ, uma vez que, diante do não enfrentamento do mérito da demanda, não houve fixação de indenização, não havendo a base de cálculo sido definida à luz do art. 27, § 1º, Decreto-Lei 3.365/1941. O proveito econômico obtido pela parte recorrente, portanto, enquadra-se no conceito de inestimável, autorizando a aplicação do art. 85, § 8º, do Código de Processo C ivil.
+Ou seja, a respeito da questão apontada no recurso ora examinado, foi fixado na decisão ora embargada que o proveito econômico obtido pela parte enquadra-se no conceito de inestimável, de modo que aplica-se o art. 85, § 8º, do Código de Processo Civil para arbitramento dos honorários.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
