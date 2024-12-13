@@ -1,0 +1,55 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por ALICIA TABACNIK, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/6/2024.
+Concluso ao gabinete em: 27/9/2024.
+Ação: de obrigação de fazer, em fase de cumprimento de sentença, ajuizada por LJ EMPREENDIMENTOS E PARTICIPACOES LTDA. em desfavor da agravante.
+Decisão interlocutória: rejeitou a impugnação à avaliação do bem imóvel apresentada pela agravante e homologou o laudo pericial.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA.
+RECURSO INTERPOSTO CONTRA RESPEITÁVEL DECISÃO QUE HOMOLOGOU LAUDO PERICIAL DE AVALIAÇÃO DO IMÓVEL DA DEVEDORA.
+INCONFORMISMO DA DEVEDORA. ALEGAÇÃO DE QUE O VALOR DA AVALIAÇÃO ESTÁ AQUÉM DO PRATICADO PELO MERCADO.
+LAUDO DE AVALIAÇÃO ELABORADO POR PERITO JUDICIAL EMBASADO EM DOCUMENTOS E MÉTODO VÁLIDO.
+DESCONTENTAMENTO DA AGRAVANTE NÃO ACOLHIDO. AVALIAÇÃO UNILATERAL, REALIZADA NO INTERESSE DA PARTE E SEM EMBASAMENTO SEGURO, SENDO INCAPAZ DE INFIRMAR A AVALIAÇÃO DO PERITO JUDICIAL. MANTIDA A HOMOLOGAÇÃO DO LAUDO DE AVALIAÇÃO JUDICIAL.
+RECURSO DESPROVIDO. (e-STJ Fl. 23)
+Recurso especial: alega violação dos arts. 489, § 1º, IV, e 873 do CPC. A par da nulidade do julgado, sustenta que foram desconsideradas as circunstâncias dos autos, não havendo fundamentação suficiente no acórdão da origem a ensejar o afastamento da pretensão aviada. Insurge-se contra o laudo pericial apresentado e assevera erro de avaliação do bem imóvel, sobretudo em razão da discrepância entre as avaliações comparadas. Consigna, assim, " ..  que a  ..  diferença de R$ 262.800,00 (duzentos e sessenta e dois mil e oitocentos reais) entre as avaliações comparadas, é potencialmente gravosa à Recorrente, uma vez que o valor da avaliação realizada pelo eminente perito está aquém do valor real para venda do referido imóvel" (e-STJ Fl. 34).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 489, § 1º, IV, e 873 do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+A Súmula 284/STF estabelece que para que um recurso especial seja considerado admissível, é imprescindível que a parte recorrente comprove a violação do dispositivo legal federal invocado no recurso, estabelecendo uma associação direta entre os fundamentos do acórdão recorrido e os artigos mencionados.
+No entanto, na hipótese em análise, essa correlação não foi devidamente estabelecida, uma vez que os argumentos invocados não guardam relação direta com os artigos mencionados. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+Ademais, é importante salientar que a menção genérica ao artigo de lei supostamente violado sugere a interpretação de que a alegada violação se refere apenas ao seu caput, que serve meramente como introdução ao conjunto de normas estabelecidas nos seus incisos, parágrafos e alíneas. No mesmo sentido: AgInt no AgInt no AREsp n. 2.260.168/DF, Terceira Turma, DJe de 6/12/2023 e AgInt no AREsp n. 2.158.801/RJ, Quarta Turma, DJe de 6/11/2023.
+- Do reexame de fatos e provas
+De toda sorte, ainda que assim não fosse, no que tange ao pleito de nova avaliação do bem imóvel, verifica-se que o Tribunal de origem assim se manifestou:
+ ..  O perito apresentou o laudo (p. 737/757 dos autos de origem); e, após a impugnação dos agravantes (p. 770/779 da origem), ratificou o valor da avaliação refutando a estimativa apresentada pelos recorrentes (p. 785/787 dos autos de origem).
+Sem desmerecer o trabalho do técnico de confiança do recorrente, a singela avaliação apresentada pela agravante se baseia em valor apurado unilateralmente no interesse da parte, sem que tenha sido apresentado qualquer documentação capaz de embasar o convencimento de como o avaliador chegou aos valores apurados (p. 772/779 dos autos de origem).
+De outro lado, o perito judicial realizou apuração isenta de interesse de quaisquer das partes, sob o crivo do contraditório, adotando método comparativo, devidamente fundamentado e instruído com documentação dos imóveis semelhantes comparados, destacando: "Foram coletadas pesquisas de imóveis que estão sendo ofertados, anunciados em sites imobiliários conceituados, pesquisas com corretores de imóveis dessa cidade e também do mapa atualizado de 2023 da prefeitura local, com os valores de terrenos da região, sendo assim possível comparar os dados, para concluir o valor do imóvel o presente laudo (..) o valor do imóvel é determinado a partir da análise técnica do comportamento do mercado imobiliário, relativo a imóveis semelhantes na região ou em outras regiões semelhantes a nível socioeconômico" (destaquei).
+Como bem fundamentado pelo MM. Juiz: "Consoante asseverado pelo auxiliar do Juízo, a avaliação por ele realizadas está em consonância com a realidade do mercado imobiliário da região. Outrossim, o jurisperito positivou ter buscado informações em imobiliárias localizadas no centro da cidade de Americana, as quais indicaram em média o mesmo valor para o imóvel em comento. E saliente- se que o fato de o jurisperito ter consignado uma variação de 5% para mais ou para menos em relação ao valor de avaliação, não se traduz, em absoluto, em falta de precisão, eis que referida variação reflete a realidade do comércio, uma vez que é público e notório que fatores de diversas ordens tais como a aquisição do bem à vista, parceladamente ou via financiamento, dação em pagamento de veículo ou imóvel de menor valor, exemplificativamente, influenciam no preço final da negociação, sem se olvidar que o mercado imobiliário não funciona de maneira linear, estando sujeito a inúmeras variáveis. Nesse diapasão, logrou êxito o jurisperito, sem embargo da impugnação levada a efeito pela executada, em convencer o Juízo acerca da correção dos valores avaliatórios por ele encontrados, sem se olvidar que se trata de profissional imparcial, sem qualquer vínculo com os litigantes, não possuindo a intenção de beneficiar ou prejudicar quem quer que seja. Sendo assim, convencido de que os valores apurados pelo jurisperito refletem a realidade do mercado imobiliário local, estando em consonância com o preço praticado, REJEITO a impugnação ofertada e, consequentemente, HOMOLOGO o laudo de avaliação de pgs.737/757."
+O laudo de avaliação elaborado pelo perito judicial foi produzido de forma adequada, seguindo as normas técnicas e método apropriado, realizando amplo estudo do caso, devendo prevalecer sua conclusão.
+Em que pese o descontentamento apresentado pela agravante, não há fundamento para afastar a conclusão apontada pelo perito judicial.
+Portanto, o descontentamento apresentado em relação a prova pericial em nada altera a solução do voto, porque inexiste elemento seguro capaz de infirmar a avaliação realizada pelo perito judicial.
+ ..  (e-STJ Fls. 24/25, grifos nossos)
+Assim alterar o decidido no acórdão impugnado, notadamente quanto à necessidade de realização de nova avaliação do bem imóvel, bem como de afastar o laudo apresentado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+A corroborar:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. AUSÊNCIA. HASTA PÚBLICA. SUBAVALIÇÃO DO BEM. DESNECESSIDADE DE NOVA AVALIAÇÃO. DEMONSTRAÇÃO DA NECESSIDADE. REEXAME. SUMULA 7/STJ. OFENSA AO PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME. SÚMULA 7/STJ.
+1. No que tange à admissibilidade do presente recurso por violação aos arts. 489 e 1.022, ambos do CPC, verifica-se que, no ponto, não houve negativa de prestação jurisdicional, máxime porque a Corte de origem analisou de maneira adequada e suficiente as questões deduzidas pelos recorrentes.
+2. Derruir a conclusão a que chegou o Tribunal a quo no sentido de que não houve a suficiência do suporte fático previsto no art. 873 do CPC, notadamente porque inexiste comprovação de eventual subavaliação do bem, demandaria o revolvimento do arcabouço fático-probatório dos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+3. Esta Corte Superior perfilha o entendimento de que a reavaliação de bem penhorado depende da existência de elementos capazes de demonstrar a sua efetiva necessidade.
+4. Alterar a conclusão a que chegou o Tribunal a quo no sentido de que não houve a comprovação da necessidade de reavaliação do bem, demandaria o revolvimento de fatos e provas, o que é vedado ante o enunciado da Súmula 7 do STJ.
+5. Derruir a conclusão a que chegou o Tribunal a quo no sentido de que os agravantes não lograram êxito em comprovar a alegada ofensa ao princípio da menor onerosidade, demandaria o revolvimento do arcabouço fático-probatório colacionado aos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020, grifos nossos.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA. NOVA AVALIAÇÃO. 873, I, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+2. O Tribunal de origem examinou a prova dos autos para concluir não comprovado erro ou dolo na avaliação do bem. Alterar esse entendimento é inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.362.619/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/3/2019, DJe de 1/4/2019, grifos nossos.)
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. LAUDO PERICIAL. AVALIAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer. Cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido para não conhecer do recurso especial.
