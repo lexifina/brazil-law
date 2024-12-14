@@ -1,0 +1,3 @@
+# Autoriza a abertura de crédito suplementar ao Orçamento Fiscal do Estado em favor das unidades orçamentárias Procuradoria-Geral de Justiça, Fundo Especial do Ministério Público do Estado de Minas Gerais e Fundo Estadual de Proteção e Defesa do Consumidor.
+O GOVERNADOR DO ESTADO DE MINAS GERAIS,
+O Povo do Estado de Minas Gerais, por seus representantes, decretou e eu, em seu nome, promulgo a seguinte lei:
