@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial, interposto por A B DA S (MENOR), com arrimo nas alínea "a" do permissivo constitucional, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Acre, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE DANOS MORAIS E TUTELA ANTECIPADA. RESCISÃO CONTRATUAL. NOTIFICAÇÃO PRÉVIA. FORMALIDADE OBSERVADA. PREQUESTIONAMENTO. APELO PROVIDO.
+1. A respeito de plano de saúde individual, faz-se imprescindível a notificação do beneficiário antes do cancelamento unilateral por inadimplência, conforme consignado no art. 13 , inciso II, da Lei nº 9.656 /98.
+2. Diante da inadimplência pela defluência do prazo de 60 (sessenta) dias, sendo estes consecutivos ou não, e da notificação pessoal do consumidor, mostra-se legítimo o cancelamento unilateral do plano de saúde.
+3. Apelo provido.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 13, parágrafo único, inciso II, da Lei 9.656/1998. Sustenta, em síntese, que não houve o cumprimento dos requisitos para a rescisão do plano de saúde, tendo em vista que a notificação não fora recebida pela genitora do menor, bem como, não há que se falar em inadimplência, uma vez que foi realizado o pagamento das faturas pelo genitor do infante.
+Contrarrazões às fls. 304-316.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso especial, às fls. 327-333.
+É o relatório. Decido.
+A irresignação não comporta provimento.
+Com efeito, o Tribunal de Justiça do Estado do Acre, analisando as circunstâncias do caso, consignou pela presença dos requisitos para a rescisão contratual , quais sejam, inadimplência superior a 60 dias, consecutivos ou não, e notificação. A título elucidativo, confira-se trecho do v. acórdão estadual:
+"Na origem a parte autora alega que teve seu contrato rescindido no dia 13/10/2021, sem ter sido intimada pessoalmente pelo requerido. Em que pese a alegação da parte autora, o requerido colacionou aos autos comprovante de entrega de notificação recebida no endereço da parte autora no dia 08/09/2021, informando que, o não pagamento da mensalidade em atraso desde 10/08/2021, poderá gerar o cancelamento unilateral do contrato definitivamente (pp. 160-162). Consta que a inadimplência ultrapassou o prazo de 60 (sessenta) dias, mais precisamente 66 (sessenta e seis) dias, onde a parte autora foi notificada em seu endereço cadastrado no momento da contratação, sendo este recebido por membro familiar (pp. 162 e 16). Tratando-se de plano de saúde individual, faz-se imprescindível a notificação do beneficiário antes do cancelamento unilateral por inadimplência. Desse modo, tenho que o cancelamento do contrato se deu de forma legítima, em observância à previsão do art. 13, parágrafo único, II, da Lei nº 9.656/1998, pois os atrasos totalizaram 66 dias, 6 acima do limite legal. Portanto, diante da inadimplência pelo decurso do prazo de 60 (sessenta) dias, consecutivos ou não, e da notificação pessoal do consumidor, mostra-se legítimo o cancelamento unilateral do plano de saúde. Assim, resolveu a parte requerida pela rescisão unilateral do contrato, levando em conta a somatória dos dias de atraso. Deste modo, a culpa é exclusiva do consumidor. Nesse sentido o art. 238, parágrafo único, do CPC:
+(..)
+Logo, o Recurso manejado pela UNIMED RIO BRANCO COOPERATIVA DE TRABALHO MÉDICO LTDA deve ser conhecido e provido, levando em consideração que a sentença proferida em instância singular destoa da jurisprudência dominante, merecendo provimento o apelo interposto pela requerida."
+Nos termos da jurisprudência desta Corte, "É vedada a suspensão ou a rescisão unilateral do contrato de plano de saúde, salvo por fraude ou não-pagamento da mensalidade por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o consumidor seja comprovadamente notificado até o quinquagésimo dia de inadimplência (art. 13, parágrafo único, II, da Lei n. 9656/98)"(AgInt no AREsp n. 2.477.912/SE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.).
+Nesse sentido, confiram-se os seguintes precedentes:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO UNILATERAL. NECESSIDADE DE NOTIFICAÇÃO PRÉVIA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem consignou que não foi realizada a notificação, de forma satisfatória, do contratante acerca do cancelamento e, portanto, há que ser mantida a sentença, pois não foram cumpridos os requisitos legais para a rescisão contratual.
+2. A jurisprudência desta Corte Superior é firme no sentido de que, nos termos do art. 13, parágrafo único, II, da Lei 9.656/98, é obrigatória a notificação prévia ao cancelamento do contrato por inadimplemento, sendo ônus da seguradora comprovar a notificação do segurado.
+3. Estando o acórdão recorrido de acordo com a jurisprudência do STJ, o recurso especial encontra óbice na Súmula 83.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.445.180/PA, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Ademais, a pretensão de modificar o entendimento firmado, quanto ao cumprimento dos requisitos para a rescisão contratual, inclusive em relação à notificação encaminhada ao endereço dos beneficiários, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais de 10% para 11% sobre o valor estabelecido na origem, observada eventual gratuidade de justiça, nos termos do art. 98, §3º, do CPC/2015.
+Publique-se.
+EMENTA
