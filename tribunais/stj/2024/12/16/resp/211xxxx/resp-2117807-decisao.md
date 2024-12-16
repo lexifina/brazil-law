@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOÃO CLAUDINO DA SILVA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ fl. 527):
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA. QUESTÃO PRECLUSA. DECISÃO MANTIDA.
+I. À falta de interposição de recurso contra a decisão que consolidou o valor da dívida e determinou a expedição dos requisitórios, torna-se preclusa questão atinente ao índice de correção monetária que o próprio exequente adotou no demonstrativo do débito que instruiu o pedido de cumprimento de sentença, na linha do que dispõe o artigo 507 do Código de Processo Civil
+II. A expressão econômica da pretensão executória é definida, pelo exequente, no demonstrativo atualizado do débito que constitui requisito indispensável do requerimento de cumprimento de sentença, consoante a inteligência dos artigos 509, § 2º e 524, caput, do Código de Processo Civil.
+III. É exatamente a partir do valor do débito discriminado na planilha de cálculos apresentada pelo exequente que o executado pode investir contra eventual "excesso de execução", segundo os artigos 525, § 1º, inciso V, e 535, inciso IV, do Código de Processo Civil. IV. A dívida não pode ter o seu conteúdo alterado, inclusive quanto ao índice de correção monetária, após a propositura do cumprimento de sentença, sob pena de se admitir a modificação do próprio pedido e de se restringir gravemente o direito de defesa do executado.
+V. Recurso conhecido e desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 580/587).
+Nas suas razões, a parte recorrente aponta violação dos arts. 322, § 1º, 505, I, 502, 503, 507, 525, § 1º, 535, 924, II, e 1.022, II, do CPC/2015, sustentando, além de que houve negativa de prestação jurisdicional, que "a correção monetária é questão de ordem pública, possuindo natureza estatutária e institucional, e pode ser revista de ofício pelo Poder Judiciário a qualquer tempo, ainda que não seja requerida, bem como, essa matéria é consectário lógico da condenação, e, por isso, considera-se pedido implícito" (e-STJ fl. 612).
+Contrarrazões às e-STJ fls. 666/675.
+Juízo positivo de admissibilidade às e-STJ fls. 678/680.
+Passo a decidir.
+A irresignação não comporta acolhida.
+Constata-se que o recurso especial não merece ser conhecido quanto à suposta violação do art. 1.022 do CPC/2015, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a parte recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Essa circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 2.107.963/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 14/09/2022; AgInt no AREsp 2.053.264/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe 1º/09/2022; AgInt no REsp 1.987.496/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 1º/09/2022; EDcl nos EDcl no AgInt no AREsp 1.574.705/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1.718.316/RS, Relator Ministro Og Fernandes; Segunda Turma, DJe 24/11/2020.
+Quanto às demais alegações, esta Corte Superior entende que, ainda que os juros de mora e a correção monetária constituam matéria de ordem pública, a falta de impugnação pelo credor no momento processual adequado resulta na ocorrência de preclusão. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. ADMINISTRATIVO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DE CÁLCULOS E A EXPEDIÇÃO DA RESPECTIVA ORDEM DE PAGAMENTO. PRECLUSÃO. OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Segundo a jurisprudência desta Corte, a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.989.971/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. JUROS DE MORA E CORREÇÃO MONETÁRIA. OFÍCIOS REQUISITÓRIOS DE PEQUENO VALOR. COMPLEMENTAÇÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão (AgInt no REsp n. 1.939.917/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.072.712/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PRECATÓRIO. CÁLCULOS APURADOS. CONCORDÂNCIA. JUROS DE MORA. PRECLUSÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. O aresto regional não se afastou do entendimento firmado neste Superior Tribunal de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão.
+2. A alteração das conclusões adotadas pela Corte de origem, tal como proposta pela parte recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.908.074/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022 )
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. EXPEDIÇÃO DE PRECATÓRIO. JUROS MORATÓRIOS. COMPLEMENTAÇÃO. APRESENTAÇÃO DE NOVOS CÁLCULOS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. ACÓRDÃO ALINHADO AO ENTENDIMENTO DESTA CORTE SUPERIOR.
+I - Na origem, trata-se de cumprimento de sentença ajuizado contra a União objetivando a cobrança de honorários sucumbenciais e parcelas não pagas em decorrência da execução de sentença coletiva. Na sentença, determinou-se o pagamento das diferenças de juros de mora, através de requisitórios complementares, após homologação do valor a ser apurado pela Contadoria Judicial, extinguindo-se a execução. No Tribunal a quo, a sentença foi mantida. Nesta Corte, deu-se provimento ao recurso especial para extinguir a execução pela ocorrência da preclusão.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão.
+III - A parte exequente concordou expressamente com as RPV"s expedidas em seu favor, de modo que é incabível o pedido posterior de complementação do valor, dada a preclusão. No mesmo sentido, mutatis mutandis: (AgInt nos EDcl no AREsp 713.282/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/12/2019, DJe 19/12/2019) IV - Agravo interno improvido.
+(AgInt no REsp n. 1.939.917/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Incide na hipótese o óbice da Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
