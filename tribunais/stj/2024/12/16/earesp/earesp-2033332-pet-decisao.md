@@ -1,0 +1,11 @@
+DECISÃO
+Os presentes embargos de divergência foram definitivamente julgados pela eg. Segunda Seção na sessão virtual de 14/08/2024 a 20/08/2024 (nas fls. 2.226/2.229), rejeitando o recurso de embargos de declaração cujo acórdão foi publicado em 2/9/2024 (na fl. 2.232), transitando em julgado nesta Corte (preclusão da instância), no dia 23/9/2024 (fato ainda não certificado nos autos).
+Ocorre que ALÉCIO CESAR PELETTI, terceiro alegadamente interessado, protocolou nos presentes autos uma primeira petição, de nº 00772810/2024, recebida em 05/09/2024, requerendo juntada de procuração e uma segunda petição nº 00842634/2024 recebida em 25/09/2024, após o trânsito/preclusão, portanto.
+A segunda petição, como já dito, apresentada já após o transito em julgado da lide nesta Corte, requer, além da anulação de todos os atos processuais já praticados, com o retorno do feito a seu começo, o ingresso na lide, porquanto alega que é interessado no desfecho, posto que "a procedência da ação é prejudicial (a ele), visto que parte das terras pretendidas pelo autor também se encontram ocupadas pelo requerente" (na fl. 2.285).
+Não há o que deferir, pois, como o acórdão que julgou os Embargos de Declaração, opostos em face do aresto proferido em Agravo Interno, foi publicado em 2/9/2024, o mister jurisdicional da Segunda Seção encerrou-se em 23/9/2024, justamente com a interposição de Recurso Extraordinário pelo recorrente JOAQUIM BORIS JACOBSEN. Em outras palavras, a instância está preclusa e a presente petição, portanto, é intempestiva.
+Ainda que assim não fosse, o próprio requerente juntou à sua petição documento (mandado de citação) comprovando que foi citado como confinante e que tomou pleno conhecimento da pretensão prescritiva aquisitiva, podendo opor-se a ela do modo preconizados na Legislação Adjetiva.
+Ademais, ainda que alega surpresa com os limites da área usucapida, que alega ser parcialmente coincidente com aquelas que também usucapiu, a solução dessa questão também é estranha o mister desta Corte, podendo, talvez, ser exercitada por meios rescisórios, se preenchidos os necessários requisitos.
+Ante o exposto, não conheço do pedido, determinando a remessa dos autos à eg. Vice-Presidência desta Corte para apreciação do Recurso Extraordinário.
+Comunique-se.
+Cumpra-se.
+EMENTA
