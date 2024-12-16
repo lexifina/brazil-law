@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Ausente, justificadamente, o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E AMBIENTAL. ACÓRDÃO EMBARGADO. ERRO MATERIAL E OBSCURIDADE. INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ENOB ENGENHARIA AMBIENTAL LTDA. contra o acórdão de fls. 2672-2676, em que foi negado provimento ao agravo interno nos termos da seguinte ementa (fl. 2662):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AMBIENTAL. PROCESSUAL CIVIL. SUPOSTA CONTRARIEDADE A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE NA VIA DO APELO NOBRE. ALEGAÇÃO DE AFRONTA AOS ARTS. 489, § 1º, INICISO VI, e 1.022 DO CPC/2015. INEXISTENTE. PRETENSAS AUSÊNCIA DE INTERESSE DE AGIR DO MINISTÉRIO PÚBLICO ESTADUAL E ILEGITIMIDADE PASSIVA AD CAUSAM. INVERSÃO DO JULGADO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República.
+2. O acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Inexistência de contrariedade ao art. 1.022 do CPC/2015.
+3. O aresto atacado apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. Ausência de afronta ao art. 489 do CPC/2015.
+4. O Tribunal de origem concluiu que, na espécie, não há falar em ausência de interesse do Parquet estadual para a propositura da ação civil pública, tampouco em ilegitimidade passiva ad causam. A inversão do julgado encontra óbice na Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+Alega a parte embargante que o acórdão padece de erro material, porquanto, "de modo tangencial e inexoravelmente periférico a Embargante mencionou o art. 225, § 3º da Constituição Federal, na fundamentação do apelo nobre, mas jamais como dispositivo normativo violado" (fl. 2686). Aduz, ainda, que o julgado padece de obscuridade quanto à "argumentação de violação aos arts. 485, VI; 489, §1º, e 1.022 do CPC" (fl. 2687), pois "é justamente a ausência de provas concretas, robustas e incontroversas que apontem para a condenação da Embargante, o que importaria, portanto, em devolução dos autos para o Tribunal de origem" (ibidem).
+Impugnação apresentada pela parte embargada às fls. 2696-2698.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E AMBIENTAL. ACÓRDÃO EMBARGADO. ERRO MATERIAL E OBSCURIDADE. INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, apresentando todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado concluiu-se que (fls. 2673-2676):
+Sustentou a parte agravante, nas razões do recurso especial, contrariedade aos arts. 5º, § 3º, e 225, § 3º, da Carta Magna; aos arts. 485, inciso VI, 489, § 1º, inviso IV, e 1.022, parágrafo único e inciso II, do CPC/2015; bem como aos arts. 3º, inciso IV, 4º, inviso VII, e 14, § 1º, da Lei n. 6.938/81.
+Afirmou que houve negativa de prestação jurisdicional, por parte do Tribunal a quo, quando do julgamento dos embargos de declaração.
+Argumentou que os acórdãos proferidos pelo Tribunal de Justiça do Estado de São Paulo carecem de fundamentação adequada.
+Alegou que o Ministério Público do Estado de São Paulo, por inexistência de necessidade, não tem interesse de agir em relação à ora Agravante, no tocante à presente ação civil pública, porquanto o objeto desta demanda é exatamente o mesmo do Termo de Ajustamento de Conduta firmado entre o Parquet estadual, a Construtora Coccaro e a SEMAE, sendo certo que essas duas últimas assumiram exclusiva e solidariamente a responsabilidade pelos danos ambientais decorrentes do mau funcionamento da Estação de Tratamento de Esgoto.
+ ..
+Inicialmente, esclareço que a via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República. A propósito: AgInt no AREsp n. 2.298.562/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, D Je de 11/12/2023; AgInt no AREsp n. 2.085.690/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, D Je de 17/11/2023.
+ ..
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Além disso, o acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões , inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. O que se denota, uma vez mais, é irresignação do Agravante com o desfecho do julgamento que foi contrário às respectivas pretensões.
+Portanto, não há ofensa ao art. 489 do Código de Processo Civil. Nesse sentido: AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, D Je de 1/6/2023; AgInt no AR Esp n. 2.172.041/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, D Je de 16/3/2023. No mais, o aresto proferido pelo Tribunal de Justiça do Estado de São Paulo, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 2158-2159):
+ ..
+Como se vê, o Tribunal de origem, soberano quanto ao exame do acervo fático-probatório acostado aos autos, concluiu que, na espécie, não há falar em ausência de interesse do Parquet estadual para a propositura da ação civil pública, tampouco em ilegitimidade passiva ad causam da ora Agravante. Portanto, a inversão do julgado demandaria, necessariamente, nova incursão nos elementos probantes e fatos amealhados ao presente processo, desiderato esse incabível na via estreita do recurso especial, a teor do comando normativo contido na Súmula n. 7 do STJ.
+Ressalto que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
