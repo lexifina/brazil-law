@@ -1,0 +1,66 @@
+DECISÃO
+FRANSCISCO LOURENÇO DA SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Ceará no Recurso em Sentido Estrito n. 0007518-19.2011.8.06.0000.
+A defesa sustentou violação dos arts. 25 do Código Penal e 413 do Código de Processo Penal.
+Argumentou estar demonstrado nos autos que o réu agiu em incontestável legítima defesa.
+Entendeu que a decisão de pronúncia carece de fundamentação concreta e idônea, especialmente porque não indicou quais seriam as provas judicializadas a embasar a decisão, não examinou as teses defensivas nem indicou os elementos dos autos que justificariam a admissão da qualificadora.
+Argumentou, ainda, que a solução dada pela Corte estadual diverge da adotada por outros tribunais em situações semelhantes.
+Requereu a absolvição sumária do réu. Subsidiariamente, pleiteou, ainda que ante a concessão de habeas corpus de ofício, a anulação da pronúncia por falta de fundamentação ou, ainda, a exclusão da qualificadora da surpresa.
+O especial foi inadmitido, haja vista a incidência da Súmula n. 7 do STJ.
+O Ministério Público Federal opinou pelo "pelo não conhecimento do agravo, e, no mérito, por seu não provimento" (fl. 1.170).
+Decido.
+O agravo é tempestivo e infirmou a causa de inadmissão do recurso.
+O especial, por sua vez, preenche os requisitos constitucionais, legais e regimentais para ser conhecido.
+A decisão que pronunciou o réu por incursão no art. 121, § 2º, IV, do CP foi assim lavrada (fls. 616-617):
+É o breve relatório.
+PASSA-SE A DECISÃO
+As condições necessárias à pronúncia do réu estão previstas no art. 413 do CPP, e consistem no livre convencimento do juiz quanto à existência da materialidade do delito e indícios de que o réu seja o autor do crime.
+Presentes tais pressupostos, é dever do Juiz pronunciar o réu, tendo em vista que nesta fase do procedimento impera o principio do in dubio pro societate, ou seja, na dúvida prevalece o interesse social.
+Nesse sentido:
+ ..
+Evidentemente, a MATERIALIDADE do delito encontra-se demonstrada através do auto de exame de corpo de delito cadavérico de fls. 65.
+Quanto à AUTORIA, há indícios suficientes de que o delatado foi o autor do evento deletério, consoante se observa nos depoimentos de fls. 184/185.
+A prova contida nos autos demonstra a possibilidade do réu ter desfechado tiro mortal contra a vitima. Assim como, a par dos relatos judicializados, evidencia-se de possível aferição a qualificadora de concurso que dificulte ou tome impossível a defesa do ofendido." (fls.1 84/187).
+Com o respaldo Jurisprudencial:
+ ..
+E mais, quanto à pretensão do assistente de acusação de inovar  em sede de alegações  para fazer incluir a tipicidade do art. 14 da lei 10826/03, NAO HÁ DE PROSPERAR, por vertente Jurisprudencial já firmada por ter decidido o Superior Tribunal de Justiça, que o porte de arma é absorvido pelo crime de homicídio quando houver relação de meio a fim, isto é quando a arma é utilizada para o cometimento do homicídio - com supedâneo do PRINICPIO DA CONSUNÇÃO, veja-se:
+ ..
+Diante do exposto, julgo PROCEDENTE a denúncia, para PRONUNCIAR o réu FRANCISCO LOURENÇO DA SILVA, qualificado na denúncia, como incurso nas sanções do Artigo 121, S20, IV do CPB, sujeitando-o a julgamento pelo Tribunal Popular do Júri desta Comarca.
+O Tribunal a quo, ao analisar a tese defensiva de falta de fundamentação na decisão de pronúncia, asseriu (fls. 715-716):
+Destarte, não assiste razão ao recorrente, pois a sentença de pronúncia de fls. 98/99 atende a todos os requisitos estabelecidos no art. 413, CPP e art. 93, IX, CF/88, uma vez que o magistrado fundamentou sua decisão cumprindo os termos do art. 413, CPP, ou seja, delineou as provas que o convenceram da materialidade do delito, e os indícios suficientes de autoria.
+ ..
+Considerando, pois, que a sentença de pronúncia é de conteúdo meramente declaratório, encerrando mero juízo de admissibilidade, nela se cuidando unicamente da viabilidade da acusação, a qual tem como pré-requisito apenas elementos que convençam o juiz da existência do crime e de indícios suficientes de autoria, resta ao Tribunal do Júri  a quem compete o juízo natural dos crimes dolosos contra a vida  o encargo de julgar o réu pronunciado, acatando ou não o que ficou estabelecido na denúncia ministerial.
+Conforme relatado, a defesa entende que a pronúncia carece de vício de fundamentação.
+Assiste razão ao insurgente nesse ponto. Isso porque a leitura da referida decisão revela que o Juiz de primeiro grau, apesar de concluir haver elementos judicializados nos autos suficientes para embasar a pronúncia do réu, não demonstrou quais seriam essas provas.
+Assim, consoante se observa, não houve apontamento dos elementos que justificam a submissão do réu a julgamento pelo Tribunal do Júri pelo crime de homicídio qualificado. Da mesma forma, evidenciado que a defesa, em seus memoriais, sustentou a tese de legítima defesa, verifica-se que, também nesse ponto, a decisão foi deficientemente fundamentada, pois em não analisou a alegação.
+É dever do julgador explicitar os motivos que o levaram a decidir pela pronúncia, por ser este o momento crucial e definitivo quanto à delimitação da matéria a ser apreciada pelo Tribunal do Júri.
+A ausência de fundamentação concreta das decisões é causa de nulidade absoluta do julgado. Deveras, a motivação dos atos jurisdicionais, conforme imposição do artigo 93, IX, da Constituição Federal ("Todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade.."), funciona como garantia da atuação imparcial e secundum legis (sentido lato) do órgão julgador.
+Presta-se, assim, a motivação dos atos judiciais a servir de controle social e das partes sobre a atividade intelectual do julgador, para que verifiquem se este, ao decidir, considerou todos os argumentos e as provas produzidas e se bem aplicou o direito ao caso concreto.
+Destarte, constatada a ausência de fundamentação, de rigor a cassação da pronúncia com determinação de que o Juízo de primeiro grau prolate nova decisão, com efetiva e concreta análise acerca das teses da acusação e da defesa, com demonstração das provas consideradas para sua conclusão, tudo dentro das balizas impostas pelo art. 413 do CPP.
+Nesse sentido, mutatis mutandis:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal. HOMICÍDIO QUALIFICADO TENTADO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO IMPUGNADO. AUSÊNCIA DE INDICAÇÃO DAS PROVAS QUE EMBASARAM A DECISÃO DOS JURADOS. EIVA CONFIGURADA.
+1. A imprescindibilidade de fundamentação das decisões judiciais mereceu destaque na Constituição Federal, constando expressamente do inciso IX do artigo 93, justificando-se na medida em que só é possível o seu controle ou impugnação se as razões que as justificaram forem devidamente apresentadas.
+2. Em respeito à soberania dos veredictos, o âmbito de recorribilidade das decisões proferidas pela Corte Popular é restrito, permitindo o exercício do duplo grau de jurisdição apenas nas hipóteses previstas nas alíneas do inciso III do artigo 593 do Código de Processo Penal, sendo que nos casos em que a insurgência é baseada na alegação de que veredicto seria manifestamente contrária à prova dos autos, ao órgão recursal se permite, apenas, verificar a existência de suporte probatório para o decreto dos jurados.
+3. Embora o acórdão deva ser proferido com cautela para não adentrar no mérito da causa, a ser apreciado exclusivamente pelo Conselho de Sentença, exige-se que o Tribunal decline os elementos de convicção que justificam a manutenção ou não da decisão proferida pelos jurados, pois somente a partir de sua análise é que é possível concluir se há ou não contrariedade à prova dos autos.
+4. Na espécie, em momento algum a autoridade impetrada indicou quais provas embasariam a decisão dos jurados, cingindo-se a afirmar que se o recurso em sentido estrito interposto contra a pronúncia foi desprovido porque se entendeu que haveria indícios suficientes para a submissão do acusado a julgamento pelo Tribunal do Júri, não se poderia afirmar que se estaria diante de veredicto manifestamente contrário aos elementos de convicção reunidos no curso do feito, o que revela a nulidade do aresto objurgado por falta de fundamentação.
+5. Habeas corpus não conhecido. Ordem concedida de ofício para anular o acórdão impugnado, determinando-se que outro seja proferido com a devida motivação.
+(HC n. 447.363/RS, Rel. Ministro Jorge Mussi, 5ª T., DJe 30/5/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. TENTATIVA. OMISSÃO NO JULGADO. EXISTÊNCIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. NULIDADE CONSTATADA DE OFÍCIO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+2. O Tribunal de origem não enfrentou as alegações trazidas pelo ora paciente, conquanto tivessem sido estas objeto da apelação criminal.
+Destaque-se, ainda, que se não olvidou apontar a falha da fundamentação no âmbito dos embargos de declaração, os quais não foram conhecidos, permanecendo as aludidas teses sem apreciação.
+Nesse contexto, no caso, configurada ausência de prestação jurisdicional, haja vista a impossibilidade de superação do óbice processual por este Tribunal em decorrência da verdadeira omissão no julgado recorrido. Vislumbra-se, assim, ofensa ao art. 93, IX, da Constituição Federal - CF o que impõe a declaração de nulidade do julgado. Precedentes.
+3. Por consequência, considerando, sobretudo, conforme sentença acostada aos autos às fls. 235/247 que ao réu foi concedido o direito de apelar em liberdade, na medida em que assim esteve durante toda a tramitação do processo, e mormente que, ex vi da orientação jurisprudencial desta Corte de Justiça, prematura mostra-se a determinação de execução provisória da pena fundada exclusivamente no princípio da soberania do Tribunal do Júri, de rigor, a suspensão da execução provisória da pena determinada pelo Tribunal de origem até o exaurimento dos recursos sujeitos à instância ordinária. Precedentes.
+4. Habeas corpus não conhecido. Concedo, contudo, a ordem, de ofício, para decretar a nulidade do acórdão recorrido por ausência de fundamentação na análise das nulidades alegadas pela defesa e determinar que outro seja proferido. Em consequência, suspenso o processo de execução provisória da pena até o exaurimento dos recursos sujeitos a julgamento pelo Tribunal estadual, devendo ser observadas, no ponto, as medidas cautelares estabelecidas na sentença condenatória (de fls. 235/247).
+(HC n. 372.036/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 16/11/2018)
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO, NA MODALIDADE TENTADA. NULIDADE DO ACÓRDÃO DO RECURSO EM SENTIDO ESTRITO. AUSÊNCIA DE FUNDAMENTAÇÃO. VIOLAÇÃO DO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais, quando manifesta a ilegalidade ou sendo teratológica a decisão apontada como coatora.
+2. É permitido ao Tribunal reportar-se ao parecer ministerial ou a decisão de primeira instância, e a motivação pode ser, inclusive, sucinta. Porém, vale salientar, que mesmo assim, o decisum deve garantir a possibilidade de compreensão das razões pelas quais ela foi tomada, o que não ocorreu neste caso.
+3. O acórdão impugnado não atende ao preceito do art. 93, IX, da CF/1988.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para declarar nula a decisão impugnada, determinando que outra seja proferida, com fundamentação de acordo com os ditames legais.
+(HC n. 207.526/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 28/9/2016)
+Saliento que a cassação da decisão de pronúncia prejudica o pleito de absolvição sumária do réu.
+À vista do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento, para cassar a decisão de pronúncia e determinar que nova decisão seja proferida.
+Publique-se e intimem-se.
+EMENTA
