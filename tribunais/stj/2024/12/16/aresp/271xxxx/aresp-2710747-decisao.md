@@ -1,0 +1,8 @@
+DECISÃO
+A questão tratada nos autos - decidir sobre a possibilidade de exclusão da base de cálculo das contribuições ao PIS/PASEP e COFINS do montante da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) considerando a identidade dos fatos geradores dos tributos - será julgada pelo Superior Tribunal de Justiça sob o rito dos recursos repetitivos (Tema n. 1276 do STJ).
+Há determinação da suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, inciso II, do CPC/2015 e 256-L do RISTJ).
+Por medida de economia processual e para evitar decisões dissonantes, orienta-se que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim o juízo de conformação, hoje disciplinado no art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, julgo prejudicado o recurso e determino a devolução dos autos ao tribunal de origem para que, após a publicação do acórdão a ser proferido no recurso e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) seja negado seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) seja realizado o juízo de retratação, caso o acórdão impugnado divirja da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
+EMENTA
