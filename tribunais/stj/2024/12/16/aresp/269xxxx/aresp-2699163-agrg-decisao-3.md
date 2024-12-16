@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo regimental (e-STJ, fls. 1531-1539) interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL contra decisão que conheceu do agravo para dar parcial provimento ao recurso especial de EVERTON LUIZ COSTA DE OLIVEIRA (e-STJ, fls. 1501-1511).
+Em suas razões recursais o agravante sustenta, em síntese, que o agravo em recurso especial sequer deveria ter sido conhecido, pois, para concluir que o agravado era "mula" do tráfico seria necessário revolv imento fático-probatório.
+Ainda, caso seja superado óbice, aduz que há elementos concretos que demonstram a integração do agente com organização criminosa, consubstanciada nas circunstâncias do flagrante e do modus operandi do delito.
+Portanto, requer a reconsideração da decisão agravada ou a submissão do presente recurso ao Colegiado.
+É o relatório.
+Decido.
+À luz das razões apresentadas pela parte agravante e em homenagem aos princípios da celeridade e da economia processual, reconsidero a decisão de fls. 1501-1511 (e-STJ) no tocante ao tráfico privilegiado.
+O agravo em recurso especial de EVERTON LUIZ COSTA DE OLIVEIRA deve continuar a ser conhecido, pois infirmou adequadamente os fundamentos da decisão do Tribunal de origem que inadmitiu seu recurso especial.
+Já em relação à minorante do tráfico privilegiado, é importante salientar que o legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual.
+Nessa linha, a jurisprudência desta Corte Superior firmou-se no sentido de que as circunstâncias da apreensão das drogas ou da prisão em flagrante podem ser utilizadas para impedir a incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+O Tribunal Estadual negou a aplicação do privilégio nos seguintes termos:
+"Os apelantes argumentam que fazem jus ao reconhecimento da causa de diminuição do § 4º do art. 33 da Lei n.º 11.343/2006, em seu patamar máximo. Deve ser assentado, de início, que a referida minorante destina-se ao agente que, a despeito de ter praticado conduta relacionada ao tráfico de drogas, não se dedique à traficância.
+Cabe salientar que, para que o réu possa fazer jus ao benefício da diminuição, com base nessa causa de diminuição, devem estar presentes 4 (quatro) requisitos cumulativos: a) primariedade; b) bons antecedentes; c) não dedicação às atividades criminosas; e d) não integração de organização criminosa.
+Os últimos requisitos - não dedicação às atividades criminosas e não integração de organização criminosa - a análise deve ser mais criteriosa e envolve uma apreciação subjetiva do magistrado a respeito do que pode ser entendido por "se dedicar às atividades criminosas" e "integrar organização criminosa".
+ ..
+Portanto, para avaliar se é cabível a aplicação dessa causa de diminuição da pena, é necessário analisar a conduta social do agente, assim como devem ser apuradas as circunstâncias em que o crime de tráfico de drogas se desenvolveu, as condições em que se deu a conduta criminosa.
+Segundo se extrai dos autos, os apelantes estavam transportando grande quantidade de drogas - 35 tabletes de cocaína que pesavam 119,5 Kg - com símbolo característico para identificação referente a duas águias, acondicionadas no tanque de combustível de três veículos Toyota SW4.
+Os elementos de provas produzidos no processo, sobretudo as circunstâncias do caso concreto, justificam a condenação e o afastamento do privilégio, diante da inexistência dos requisitos legais autorizadores, já que as circunstâncias que envolveram a conduta criminosa evidencia claramente que os apelantes estavam integrando e contribuíram para uma organização criminosa." (e-STJ, fls. 856-857)
+In casu, a sofisticação do transporte e acondicionamento de drogas demonstram o envolvimento do agente com organização criminosa, de forma que reformar esse entendimento demandaria maior incursão nos autos, o que é vedado pela Súmula 7/STJ.
+Nesse sentido:
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. INAPLICABILIDADE. PRECEDENTES. NECESSIDADE DE REEXAME DE PROVAS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto por réu condenado por tráfico de drogas, questionando a não aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006 (tráfico privilegiado), sob o argumento de que a quantidade de droga (70 kg de maconha) não é suficiente para presumir sua participação em organização criminosa.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a quantidade de droga apreendida e as circunstâncias do caso afastam a aplicação da minorante do art. 33, § 4º, da Lei nº 11.343/2006; (ii) definir se a reanálise das provas nos autos é permitida nesta instância. III. RAZÕES DE DECIDIR
+3. A não aplicação da minorante do tráfico privilegiado se justifica pela complexidade da operação criminosa, que envolveu mais de 70 kg de maconha, veículos modificados para transporte da droga, a utilização de batedor e o envolvimento de várias pessoas, ainda que não identificadas. Tais elementos indicam organização criminosa e planejamento, afastando o privilégio.
+4. A reanálise de provas é vedada em sede de recurso especial, conforme entendimento consolidado tanto pelo STF quanto pelo STJ. As instâncias ordinárias já examinaram a matéria fática e concluíram pela dedicação do réu a atividades criminosas, o que impede a revisão dessa conclusão nesta fase processual.
+5. O Tribunal de Justiça do Estado de Mato Grosso do Sul fundamentou adequadamente o afastamento da minorante, alinhando-se à jurisprudência do STF, que autoriza a consideração de elementos fáticos distintos, como a organização criminosa, sem incorrer em bis in idem.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL."
+(AREsp n. 2.282.819/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJe de 4/12/2024.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. CONCLUSÃO DIVERSA QUE ESBARRA NO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Corte, ao julgar o REsp n. 1.887.511/SP, bem como o REsp n. 1.977.027/PR, este último sob a sistemática dos recursos repetitivos (Tema n. 1139), firmou o entendimento de que a quantidade, natureza e a variedade de drogas apreendidas, por si sós, não são suficientes para se concluir pela dedicação do acusado a atividades criminosas, além da existência de inquéritos policiais e/ou ações penais em curso também não serem suficientes para afastar a redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, ante o princípio da presunção de inocência.
+2. No caso concreto, a causa especial de diminuição de pena deixou de ser aplicada em razão de os fatos terem envolvido a atuação do agravante em uma rede organizada e voltada para a prática do tráfico de drogas, que visava o transporte de 5.320kg de maconha. Também foi ressaltado o modus operandi da prática delitiva, em que o entorpecente estava acondicionado em veículo previamente preparado, sob promessa de pagamento em dinheiro, além da participação de terceiro na empreitada criminosa.
+3. Desse modo, verifica-se que o fundamento utilizado pelas instâncias ordinárias para não aplicar a pretendida causa de diminuição de pena não foi exclusivamente a quantidade de droga apreendida, mas também a sua associação a outros elementos que evidenciavam a dedicação do agente ao tráfico de drogas, o que justifica a não aplicação da minorante prevista no art. 33, § 4º, da Lei n.11.343/2006.
+4. Diante da conclusão das instâncias ordinárias, para se acolher a tese de que o agente não se dedicava às atividades criminosas, seria necessário o reexame aprofundado das provas, providência inadmissível na via do apelo nobre, em razão do óbice da Súmula n. 7 do STJ.
+5. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.417.079/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/6/2024, DJe de 14/6/2024.)
+Portanto, passo ao redimensionamento da pena.
+Na primeira fase, mantenho a pena-base em 08 (oito) anos e 04 (quatro) meses de reclusão, mais 750 (setecentos e cinquenta) dias-multa.
+Na segunda fase, estão ausentes atenuantes e agravantes, pelo que mantenho a pena no mesmo patamar.
+Na terceira fase, não há majorantes e minorantes, fazendo com que a reprimenda final fique estabelecida em 08 (oito) anos e 04 (quatro) meses de reclusão, mais 750 (setecentos e cinquenta) dias-multa.
+O regime fechado é o único cabível para o início do cumprimento de pena, ante o quantum de pena aplicado, conforme preceituado pelo art. 33, §2º, "a" do Código Penal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
