@@ -1,0 +1,47 @@
+DECISÃO
+ADRIANO CRUZ DE OLIVEIRA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro na Revisão Criminal n. 0066433-44.2024.8.19.0000.
+O paciente foi condenado, pelo crime de roubo majorado por concurso de agentes e emprego de arma de fogo, a 7 anos de reclusão, em regime fechado, mais 16 dias-multa.
+O Tribunal de origem negou parcial provimento à apelação defensiva.
+A condenação transitou em julgado, e o pedido de revisão criminal foi julgado improcedente.
+Pleiteia a defesa que (fl. 12):
+ ..  seja afastada a valoração negativa da circunstância judicial da conduta social, operando-se o decote proporcional na pena-base e, ainda, quando da análise da terceira fase da dosimetria da pena, que seja aplicada a fração de 1/3 (um terço) em substituição a fração de 2/5 (dois quintos), redimensionado a pena final e definitiva.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 1.466-1.474).
+Decido.
+I. Pena-base
+Na sentença, a pena-base foi assim estabelecida (fls. 1.251-1.252, grifei):
+Na primeira fase verifico que, quanto à culpabilidade, o grau de reprovação excede a normalidade para o injusto praticado.
+Com efeito, o delito foi praticado com a invasão de uma residência por vários homens armados, no período noturno, quando só estavam presentes mulheres e crianças, inclusive com um bebê de apenas dois anos de vida e os agentes permaneceram um bom tempo ameaçando e atemorizando as vitimas.
+Acrescente-se, ainda, que existem nos autos elementos suficientes para afirmar negativamente a conduta social do acusado, haja vista sua extensa folha de antecedentes criminais, dando conta da prática de variados tipos penais, o que demonstra que, no mínimo, o acusado não se porta adequadamente no convívio social.
+Inexistem outras circunstâncias judiciais dignas de registro e, de acordo com as assertivas acima, impõe-se a fixação da pena acima do patamar mínimo, motivo pelo qual fixo-lhe a pena-base em 5 (cinco) anos de reclusão e 12 (doze) dias-multa, sendo o valor unitário mínimo.
+Em apelação, os fundamentos acima expostos foram mantidos, nestes termos (fl. 1.334):
+As circunstâncias judiciais foram bem examinadas, justificando- se a exasperação da pena base, em 01 (um) ano, diante da elevada culpabilidade do agente.- Consignou a juíza que "o delito foi praticado com a invasão de uma residência por vários homens armados, no período noturno, quando só estavam presentes mulheres e crianças, inclusive com um bebê de apenas dois anos de vida e os agentes permaneceram um bom tempo ameaçando e atemorizando as vítimas".- Acrescentou, ainda, que "existem nos autos elementos suficientes para afirmar negativamente a conduta social do acusado, haja vista sua extensa folha de antecedentes criminais, dando conta da prática de variados tipos penais, o que demonstra que, no mínimo, o acusado não se porta adequadamente no convívio social".- Realmente tais condutas merecem uma resposta firme do Poder Judiciário.-
+O Tribunal de origem, no julgamento da revisão criminal, manteve a pena-base, mas assim alterou seus argumentos (fls. 19-20, destaquei):
+Não se desconhece a orientação já sedimentada nos Tribunais Superiores que inquéritos policiais ou ações penais sem certificação do trânsito em julgado não podem ser levados em consideração como maus antecedentes, nem como personalidade deturpada, para a elevação da pena-base, em obediência ao princípio da presunção de não culpabilidade -Súmula nº 444 do Superior Tribunal de Justiça.
+Na hipótese, além das circunstâncias do crime, que demonstraram a maior culpabilidade do réu, também foi considerada a sua folha de antecedentes criminais, na qual constam várias anotações, dentre elas uma condenação anterior configuradora de maus antecedentes - pasta 1122 dos autos principais.
+Logo, além da maior culpabilidade, há os maus antecedentes. Ou seja, estão presentes duas circunstâncias judiciais desfavoráveis.
+Não prevê o art. 59 do Código Penal o quantum de aumento que o Juiz pode aplicar por cada circunstância judicial desfavorável, a jurisprudência admite utilização as frações de 1/6, sobre a pena mínima, ou de 1/8, sobre o intervalo entre as penas mínima e máxima, exigindo-se fundamentação concreta e objetiva para o uso de percentual de aumento diverso de um desses.
+Adotada a fração de 1/6 para cada circunstância judicial negativa, por ser mais benéfica ao réu, o Juiz poderia ter aplicado um aumento na pena base de 1/3. Em vez disso, aplicou um aumento menor, de 1/5. O que foi mais benéfico para o requerente.
+Desconsiderar os maus antecedentes plenamente comprovados nos autos violaria o princípio da devida individualização da pena.
+Mantem-se, portanto, o aumento aplicado na pena base.
+De fato, "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social" (REsp n. 1.794.854/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 23/6/2021, DJe de 1/7/2021 - Tema Repetitivo n. 1.077).
+Todavia, ao julgar a revisão criminal, o Colegiado estadual deslocou a valoração negativa de condenação definitiva anterior, da conduta social para o vetor dos antecedentes. Diante disso, alterou fundamentos da dosimetria, em recurso exclusivo da defesa.
+Com efeito, a proibição da reforma para pior (reformatio in pejus) diz respeito a cada item do dispositivo da pena, e não apenas à quantidade total da dosimetria. É esse o entendimento que registrei em meu voto-vista no julgamento dos EDv nos EREsp n. 1.826.799/RS (relator Ministro Ribeiro Dantas, relator para acórdão Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 8/9/2021, DJe de 8/10/2021), o qual, na ocasião, acompanhou a decisão majoritária da Terceira Seção desta Corte.
+Portanto, não cabe à Corte revisora, em recurso exclusivo da defesa, alterar ou inovar os fundamentos usados para valorar negativamente qualquer elemento do cálculo dosimétrico, o que resulta na impossibilidade de complementação dos argumentos ou deslocamento de vetores pelo Tribunal.
+Nesse sentido, confira-se ainda o seguinte precedente:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL ROUBO. ALTERAÇÃO OU INOVAÇÃO DE FUNDAMENTOS PARA VALORAÇÃO NEGATIVA NA DOSIMETRIA DA PENA. RECURSO EXCLUSIVO DA DEFESA. DESCABIMENTO. VEDAÇÃO À REFORMATIO IN PEJUS. ART. 617 DO CPP. NOVO ENTENDIMENTO DA TERCEIRA SEÇÃO DESTE STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite que o Tribunal, em julgamento de recurso exclusivo da defesa, altere ou inove os fundamentos utilizados para valorar negativamente qualquer elemento na dosimetria da pena, pela vedação à reformatio in pejus. Entendimento firmado pela Terceira Seção no julgamento dos EDv nos EREsp 1.826.799/RS, de minha relatoria, Rel. p/ Acórdão Ministro ANTONIO SALDANHA PALHEIRO, julgado em 8/9/2021, DJe 8/10/2021.
+2. Não havendo fundamentação idônea na sentença para se considerar desfavorável qualquer dos fatores que tenha impactado a dosimetria (seja na primeira, segunda ou terceira fases), a pena deverá ser reduzida proporcionalmente, sem a possibilidade de complementação de fundamentos ou deslocamento de vetores pelo Tribunal.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.976.892/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/4/2022, DJe de 28/4/2022).
+Assim , afasto os fundamentos do acórdão recorrido empregados para deslocar os elementos caracterizadores da conduta social para os antecedentes, os quais ficam excluídos do cálculo da basilar.
+II. Causas de aumento - art. 157, § 2º, do CP (redação anterior à da Lei n. 13.654/2018)
+A presença de duas majorantes não acarreta, necessariamente, o incremento da sanção acima do mínimo legal, de 1/3, previsto no art. 157, § 2º, do CP. Exige-se, para tanto, fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ.
+Como se observa, na terceira etapa da dosimetria, a exasperação da reprimenda ocorreu em virtude do concurso de agentes e do emprego de arma de fogo (art. 157, § 2º, I e II, do CP, com redação anterior à da Lei n. 13.654/2018). O Juízo sentenciante empregou a fração de 2/5, sob o fundamento do " efetivo e duradouro temor imposto  a  mais de duas vítimas" (fl. 1.252, grifei). A referida motivação é concreta e idônea para justificar a opção judicial.
+III. Nova dosimetria
+Na primeira fase, excluo o vetor dos antecedentes, valorado no julgamento da revisão criminal. Diante da culpabilidade, elevo a pena em 1/8, parâmetro adotado na sentença para cada circunstância judicial negativa, e consolido a pena-base em 4 anos e 6 meses de reclusão e 11 dias-multa
+Na segunda fase, a reprimenda fica inalterada, pois ausentes agravantes e atenuantes.
+Na terceira etapa, mantenho o aumento de 2/5, decorrente das majorantes relativas ao concurso de agentes e ao emprego de arma de fogo, o que resulta na sanção definitiva de 6 anos, 3 meses e 18 dias de reclusão e 15 dias-multa, mantido o regime fechado, nos termos da sentença.
+IV. Dispositivo
+Ante o exposto, concedo parcialmente a ordem, a fim de alterar a sanção definitiva do paciente para 6 anos, 3 meses e 18 dias de reclusão e 15 dias-multa, mantido o regime fechado.
+Publique-se e intimem-se, inclusive as vítimas, para ciência do resultado do julgamento.
+EMENTA
