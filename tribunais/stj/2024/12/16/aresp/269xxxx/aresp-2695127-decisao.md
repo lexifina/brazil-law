@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por Alceu Dias Pinheiro, desafiando decisão do Presidente do Tribunal de Justiça do Distrito Federal e dos Territórios, que não admitiu recurso especial, pelas seguintes razões: (I) impossibilidade do reexame de matéria fática no âmbito do recurso especial, nos termos da Súmula 7/STJ; e (II) "apesar da parte recorrente ter fundado seu apelo também na alínea "c" do permissivo constitucional, não foram colacionados os paradigmas para ilustrar a divergência jurisprudencial, tornando-se inviável estabelecer-se qualquer confronto com o aresto recorrido, não se configurando, portanto, o dissenso interpretativo" (fl. 380).
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, o fundamento de que, "apesar da parte recorrente ter fundado seu apelo também na alínea "c" do permissivo constitucional, não foram colacionados os paradigmas para ilustrar a divergência jurisprudencial, tornando-se inviável estabelecer-se qualquer confronto com o aresto recorrido, não se configurando, portanto, o dissenso interpretativo" (fl. 380).
+De fato, a parte agravante se limitou a afirmar que "suscitou divergência de entendimento entre o V. Acórdão recorrido e o Artigo 85, ficando refutados, inclusive, pela ocorrência do desejado prequestionamento, o julgado trazido no V. Acórdão de id número 48993570 (5ª T. Cível, ac. 1.412.001, Des. Ana Catarino, julgado em 2022)" ( fl. 394), abstendo-se de apresentar trecho do apelo nobre em que teria colacionado os arestos paradigmáticos.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Publique-se.
+ EMENTA
