@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a parte autora, em 28/7/2010, ajuizou ação ordinária com valor da causa atribuído em R$ 20.000,00 (vinte mil reais), objetivando a anulação do ato administrativo que o excluiu do concurso público para o cargo de Técnico em Segurança Pública CTSP/2010, referente ao Edital DRH/CRS n. 07/2019, com base em suposta inaptidão psicológica.
+Após sentença que julgou procedente o pedido, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS deu provimento à apelação do ente público e reformou a sentença em reexame necessário, ficando consignado que "a perícia judicial não identificou vícios interpretativos ou legais que pudessem contaminar o exame psicológico realizado no apelante ao tempo do certame" (fl. 389).
+O referido acórdão foi assim ementado, in verbis:
+EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. INGRESSO NA POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS. CURSO DE RECRUTAMENTO E SELEÇÃO. EXAME PSICOLÓGICO. PREVISÃO LEGAL DEVIDAMENTE EXPLICITADA NO EDITAL. OBJETIVIDADE DO TESTE. ELIMINAÇÃO DO CANDIDATO. PRINCÍPIO DA ISONOMIA E IMPESSOALIDADE. IRDR N. 1.0024.12.105255-9/002 (TEMA N. 37). PERÍCIA JUDICIAL. AUSÊNCIA DE COMPROVAÇÃO DE VÍCIOS NO EXAME PSICOLÓGICO. APELO PROVIDO.
+- Os arts. 37, I e II, e o 39, § 3º, CF, estabelecem que o provimento dos cargos públicos deve obedecer aos requisitos estabelecidos em lei, sendo certo que cada ente político pode determinar as diretrizes que considera pertinentes e razoáveis para a natureza das atribuições a serem exercidas, consoante se observa da Súmula nº 686 do Supremo Tribunal Federal.
+- Esta Corte, no âmbito do IRDR n. 1.0024.12.105255-9/002 (tema n. 37), firmou a tese segundo a qual "O Poder Judiciário não pode anular o ato administrativo de reprovação do candidato em exame psicológico legalmente realizado, como base em laudo pericial novo, produzido judicialmente; mas pode ser realizada perícia, judicialmente, que fique restrita à reavaliação psicológica do candidato no momento da realização do exame oficial, limitada ao exame das fichas técnicas para detectar vícios interpretativos ou legais."
+- Hipótese em que a perícia judicial não identificou vícios interpretativos ou legais que pudessem contaminar o exame psicológico realizado no apelante ao tempo do certame.
+Os embargos de declaração opostos foram acolhidos sem efeitos infringentes, ficando consignado que:
+as alegações do recorrente de que está integrado há 13 anos da PMMG e de que possui notas altas de desempenho não lhe socorrem, sendo certo que a posse em razão de medida judicial, de caráter precário, não permite a aplicação da Teoria do Fato Consumado, conforme entendimento firmado pelo excelso Supremo Tribunal Federal, em julgamento submetido ao rito da repercussão geral (RE 608.482/RN). (fl. 427)
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação do art. 1.022 do CPC, bem como divergência jurisprudencial.
+Apresentadas contrarrazões.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. CUMULAÇÃO DAS OBRIGAÇÕES DE INDENIZAR E DE REPARAR DANO AMBIENTAL. CABIMENTO. SÚMULA 629/STJ. REVISÃO DOS PARÂMETROS DE DEFINIÇÃO DO VALOR INDENIZÁVEL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDÊNCIA DO PIS E COFINS. ZONA FRANCA DE MANAUS. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+ ..
+2. Não configurada a violação apontada ao art. 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque a Corte de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum a quo.
+ ..
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+No tocante à parcela recursal referente à alínea c do inciso III do art. 105, não se mostra cognoscível o presente recurso.
+Isso porque a falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial.
+No mesmo sentido, mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula n. 284/STF.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.088.741/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ALEGADA VIOLAÇÃO AOS ARTS. 20, § 5º, E 23, PARÁGRAFO ÚNICO, DA LEI COMPLEMENTAR 87/96. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. ART. 97 DO CTN. FUNDAMENTO CONSTITUCIONAL. TESE DE CERCEAMENTO DE DEFESA. DEFICIÊNCIA NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, A E C, DA CF/88, POR FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO OU RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. SÚMULA 284/STF, APLICADA POR ANALOGIA. FALTA DE COMPROVAÇÃO E DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AGRAVO INTERNO IMPROVIDO.
+(..)
+IX. Quanto à tese de cerceamento de defesa, a falta de particularização, no Recurso Especial, interposto seja pela alínea a, seja pela alínea c do permissivo constitucional, dos dispositivos de lei federal que teriam sido contrariados ou objeto de interpretação divergente, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Ademais, não houve a devida comprovação do dissídio invocado, nem a realização do devido cotejo analítico, porquanto a parte recorrente limitou-se a transcrever as ementas dos julgados paradigma, furtando-se de demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com solução jurídica diversa, a viabilizar o conhecimento do apelo nobre, pela divergência jurisprudencial.
+X. Agravo interno improvido.
+(AgInt no REsp n. 1.699.430/TO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 3/5/2021, DJe de 6/5/2021.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO STF. NÃO PROVIMENTO.
+1. A jurisprudência consolidada do Superior Tribunal de Justiça determina que, na interposição do Recurso Especial pelo art. 105, inciso III, alínea "c", da Constituição Federal, é preciso particularizar o dispositivo de lei federal violado para analisar a divergência jurisprudencial entre os acórdãos recorrido e paradigma.
+A falta desse pressuposto configura deficiência de fundamentação, inviabilizando o conhecimento do recurso, ante a incidência, por analogia, da Súmula 284 do STF.
+2. Agravo Interno não provido.
+(AgInt no AREsp n. 1.616.851/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/6/2020, DJe de 21/8/2020.)
+Ante o exposto, com esteio no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Com fundamento no art. 85, § 11, do CPC/2015, majoro a condenação da verba honorária fixada pelo Tribunal a quo para R$ 1.500,00 (um mil e quinhentos reais), sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados, cuja condenação ficará suspensa por ser a parte autora beneficiária da Justiça Gratuita, com fulcro no art. 98, § 3º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
