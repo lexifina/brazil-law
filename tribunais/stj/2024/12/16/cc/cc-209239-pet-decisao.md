@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de petição apresentadas por Contax S/A - em Recuperação Judicial em face de decisão que conheceu parcialmente do conflito de competência, assentando que, no caso, "os créditos trabalhistas vindicados possuem natureza jurídica mista: o período anterior ao pedido gerou créditos concursais e o período posterior fez nascer créditos extraconcursais", determinando o retorno dos autos à origem, para que o d. Juízo do Trabalho, liquide em separados os créditos concursais e os créditos extraconcursais, dividindo, portanto, os depósitos/penhoras de forma proporcional aos créditos (nas fls. 276/278).
+Na petição, deseja a Contax, contrariamente ao entendimento jurisprudencial desta Corte, demonstrado na decisão que decide o conflito de competência, "seja declarado que o fato gerador das verbas trabalhistas deferidas é a data de admissão" (na fl. 291).
+Não há o que deferir, pois a decisão que decidiu o conflito de competência transitou em julgado no dia 27/11/20024, pelo que a presente petição é intempestiva.
+EMENTA
