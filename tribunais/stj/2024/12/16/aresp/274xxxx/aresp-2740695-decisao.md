@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de instrumento contra decisão proferida em cumprimento de sentença contra a Fazenda Pública. No Tribunal a quo, negou-se provimento ao recurso.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. REVISÃO DE BENEFÍCIO. TETOS. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. COISA JULGADA.
+1. No julgamento do Incidente de Assunção de Competência (IAC) nº 5051417- 59.2017.4.04.0000 a Terceira Seção do Tribunal Regional Federal da 4ª Região considerou que tanto o maior como o menor valor-teto são elementos externos ao benefício e, por isso, devem ser desconsiderados quando da atualização do salário de benefício para fim de readequação aos novos tetos constitucionais.
+2. É imprópria a modificação de decisão que foi proferida em consonância com o que foi decidido no IAC n.º 5037799-76.2019.4.04.0000 e com o título judicial transitado em julgado.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No presente caso, verifica-se que o cálculo da contadoria judicial (evento 72 dos autos originários) aplicou os critérios definidos no título executivo, que, por sua vez, reproduz o entendimento do STF, no RE 564.354/SE.
+Além disso, os parâmetros fixados pelo MM. Juiz estão em conformidade a tese fixada no Incidente de Assunção de Competência (IAC) nº 5037799-76.2019.4.04.0000, conforme segue:
+(1) O entendimento firmado pela Suprema Corte no julgamento do 564.354/SE, no sentido de que o histórico contributivo do segurado compõe seu patrimônio e deve, sempre que possível, ser recuperado mediante a aplicação dos novos tetos de pagamento vigentes na respectiva competência, também é aplicável para os benefícios concedidos antes da vigência da Constituição Federal de 1988;
+(2) Menor e maior valor-teto, previstos respectivamente nos incisos II e III do art. 5º da Lei nº 5.890/73, assim como o limitador de 95% do salário de benefício, estabelecido pelo § 7º do art. 3º do citado dispositivo legal, consistem em elementos externos ao benefício e, por isso, devem ser desprezados na atualização do salário de benefício para fins de readequação ao teto vigente na competência do respectivo pagamento; e
+(3) A readequação da renda mensal ao teto vigente na competência do respectivo pagamento, mediante a atualização monetária do salário de benefício apurado na data da concessão, não implica qualquer revisão do ato concessório do benefício, permanecendo hígidos todos os elementos - inclusive de cálculo - empregados na ocasião, razão pela qual não se aplica, à hipótese, o prazo decadencial estabelecido pelo art. 103 da Lei nº 8.213/91. - grifei
+ ..
+Conclui-se, pois, que a decisão agravada foi proferida em consonância com o que foi decidido no IAC n.º 5037799-76.2019.4.04.0000 e com o título judicial transitado em julgado, razão pela qual não merece reforma.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (Lei 5.890/1973, art. 3º, § 4º e § 7º; art. 5º, II, b; Dec. 89.312/1984, art. 21, § 4º; art. 23, II, b; art. 23, § 1º), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
