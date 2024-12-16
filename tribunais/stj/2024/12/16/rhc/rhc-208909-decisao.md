@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MANOEL SATIRO NEGRÃO DE MORAES no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Pará, que denegou a ordem no HC n. 0810953-86.2024.8.14.0000, assim ementado:
+ ..  III. Razões de decidir: 3. Verifico que a defesa do coato suscitou, em alegações finais, junto ao juiz primevo, pleito pelo reconhecimento de ilegalidade na abordagem policial e da busca pessoal do paciente, dentre outros argumentos, os quais se encontram pendente de apreciação pela apontada autoridade coatora, o que inviabiliza o conhecimento desta matéria na presente via eleita, diante da vedada supressão de instância. 4. A custódia do paciente foi suficientemente fundamentada e, de fato, se revela necessária em razão não só dos indícios de autoria e materialidade do delito, mas, principalmente, como garantia da ordem pública e aplicação da lei penal, com base nas argumentações explanadas na decisão coatora, não estando caraterizado nos autos a prisão como antecipação da pena posto não possuir caráter punitivo, mas tão somente cautelar. 5. Quanto ao pedido de substituição da prisão preventiva por medidas cautelares, se mostra incabível, na medida em que devidamente fundamentado pelo Magistrado quando demonstra não se revelam adequadas e suficientes, face à presença dos requisitos preconizados no artigo 312 do CPP. 6. Por sua vez, o contexto fático que resultou na prisão do coato revela que suas condições pessoais são insuficientes para resguardar adequadamente à ordem pública, conforme entendimento da Súmula nº 8 desta Corte Estadual. IV. Dispositivo: 7. Ordem conhecida e denegada. Decisão Unânime.
+Segundo se infere dos autos, o recorrente teve a prisão preventiva decretada em 7/10/2023 e foi denunciado pela suposta prática do delito previsto no art. 33, caput, da Lei 11.343/2006 - porque estava na posse "de 04 (quatro) porções de substância conhecida como "maconha" pesando aproximadamente 200g." (e-STJ, fl. 81).
+Nesta Corte, a defesa alega, em suma, a ilicitude da prova colhida em busca pessoal sem fundadas razões. Afirma, ainda, que não há fundamento concreto para a prisão cautelar.
+É o relatório.
+Decido.
+O recurso perdeu seu objeto.
+Segundo informações prestadas pelo TJPA, o recorrente foi colocado em liberdade por decisão do Juiz de primeiro grau.
+"o Juízo de 1º grau de jurisdição proferiu em 09/12/2024 sentença penal absolutória em favor do recorrente pelo cometimento do crime de tráfico de drogas com base no art.386, VII, do CPP e, por conseguinte, revogou a prisão preventiva do réu.
+Sendo assim, houve a expedição de alvará de soltura em 09/12/2024 no BNMP 3.0 e seu cumprimento pela Secretaria de Estado de Administração Penitenciária do Estado do Pará (SEAP/PA) no dia seguinte, estando, portanto, o paciente solto." (e-STJ, fl. 374)
+Ante o exposto, julgo prejudicado este recurso .
+Publique-se. Intimem-se.
+ EMENTA
