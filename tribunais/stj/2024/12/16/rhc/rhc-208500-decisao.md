@@ -1,0 +1,17 @@
+DECISÃO
+MARCIA RODRIGUES DA SILVA postula a extensão dos feitos da decisão que revogou a prisão preventiva decretada em desfavor das corrés. Sustenta, ainda, o excesso de prazo da segregação cautelar e a desnecessidade da cautela extrema.
+Decido.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+Na hipótese, porém, não há como aferir, a partir da documentação acostada aos autos, a similitude fática entre a situação da requerente e das corrés, razão pela qual não é possível, neste momento, simplesmente deferir a pleito de extensão.
+No mesmo sentido, manifestou-se o Tribunal estadual:
+No caso dos autos, deve-se verificar que a impetração deixou de individualizar os paradigmas que pretendia argumentar estarem na mesma situação da paciente, necessário pelo fato de que a benesse foi concedida por diferentes motivos. Notadamente, o impetrante resumiu- se somente a apontar a decisão que concedeu a liberdade àquelas no processo de origem. Da análise dos autos, o que se tem é que as corrés, Cesarina Maria Oliveira e Sara Maria Nascimento da Conceição, tiveram o benefício concedido pelo magistrado singular, por este não observar estarem presentes indícios de que a liberdade de ambas ponha em risco a garantia da ordem pública. Todavia, não se constata que o magistrado tenha sido instado a manifestar-se sobre a possibilidade de extensão de tal benefício para a paciente, em que pese tenha indeferido o pedido de revogação da prisão preventiva, o fez por entender que não houveram fatos novos que modificassem a situação da paciente.
+ ..
+A respeito das corrés Karine Fontenele Santos e Francisca Ingrid de Jesus, estes foram concedidos em sede de habeas corpus, que inclusive deixou a impetração de juntar os acórdãos relativos, todavia, o que se tem é que as ordens foram concedidas analisando-se as circunstâncias pessoais das referidas rés, mães de crianças menores de 12 anos e com necessidades especiais, o que, no caso da paciente deste mandamus, não resta demonstrado que possui tal condição análoga.
+Faço registrar que o pedido relacionado à desnecessidade da segregação cautelar não pode ser analisado por esta Corte neste recurso. Com efeito, a matéria deve ser preliminarmente submetida à instância ordinária, sob pena de supressão de instância.
+No que tange ao excesso de duração da prisão, os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, D Je 11/3/2022).
+Na hipótese, é possível verificar que o processo é complexo e envolve 19 réus e que a recorrente está presa desde 29/8/2023.
+Diante do exposto, não constato ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a supo sta alegação de incúria na prestação jurisdicional.
+À vista do exposto, nego provimento ao recurso, in limine.
+Publique-se e intimem-se.
+EMENTA
