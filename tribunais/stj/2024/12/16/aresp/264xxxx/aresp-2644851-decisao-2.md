@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado por espólio de Ronaldo Casado Figueiredo e outros contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AÇÃO CONSTITUTIVA-NEGATIVA DE NULIDADE DE CLÁUSULAS EM CÉDULAS DE CRÉDITO RURAL - SENTENÇA DE PARCIAL PROCEDÊNCIA APELAÇÕES CÍVEIS - PLEITO DE REFORMA - ALEGADO DIREITO À PRORROGAÇÃO AUTOMÁTICA DO CRÉDITO - NÃO RECONHECIDO - NECESSÁRIA FORMULAÇÃO DE REQUERIMENTO NÃO APRESENTADO A CONTENTO - CAPITALIZAÇÃO DEVIDAMENTE PREVISTAS NOS CONTRATOS DISCUTIDOS - POSSIBILIDADE - COMISSÃO DE PERMANÊNCIA - IMPOSSIBILIDADE DE COBRANÇA - IMPOSSIBILIDADE DE FALAR EM DESCARACTERIZAÇÃO DA MORA - SENTENÇA MANTIDA - HONORÁRIOS RECURSAIS - AMBOS OS RECURSOS DESPROVIDOS.
+Alegou-se, no especial, violação dos artigos 14 da Lei 4.829/65 e 13 do Decreto-Lei 167/67, além de dissídio jurisprudencial, sob os argumentos de que é direito do produtor o alongamento da dívida rural independentemente de tratativas administravas com a instituição financeira e que não se admite na hipótese dos autos a capitalização de juros.
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte tem entendimento de que é direito do produtor rural a renegociação de sua dívida, preenchidos os requisitos legais, devendo ser formulado o requerimento junto à instituição financeira.
+Na hipótese dos autos, a Corte local consignou que não houve o mencionado requerimento, de modo que o reexame da questão encontra o óbice de que trata o verbete n. 7 da Súmula desta Corte.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. AÇÃO MONITÓRIA. CÉDULA RURAL PIGNORATICIA. SÚMULA 284/STF. APLICAÇÃO DA LEI 10.696/03. SÚMULA 7/STJ.
+1. A comprovação da tempestividade do recurso especial em decorrência de suspensão de expediente forense no Tribunal de origem pode ser feita posteriormente, em agravo regimental, desde que por meio de documento idôneo capaz de evidenciar a prorrogação do prazo do recurso cujo conhecimento pelo STJ é pretendido.
+2. A normatividade do art. 11 do Decreto-Lei 167/67 encontra-se desassociada da faticidade verificada no processo em comento para sua aplicabilidade, e, por conseguinte, do conteúdo decisório do acórdão. No caso, evidencia-se de forma indubitável que a alegação traçada no recurso especial encontra-se desassociada do fundamento do acórdão recorrido, o que configura deficiência insanável em sua fundamentação e atrai a inteligência da Súmula 284/STF.
+3. A revisão do entendimento do Tribunal de origem, no sentido de que a lei não determinou a automática securitização da dívida, devendo o devedor preencher os requisitos legais, efetuando requerimento neste sentido, mas que, no caso não houve pedido de renegociação, demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 693.720/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/3/2016, DJe de 21/3/2016.)
+É, quanto ao mais, antigo o enunciado n. 93 da Súmula desta Casa quanto à possibilidade de capitalização de juros em cédula de crédito rural, havendo sido concluído que "todos os contratos ora sob análise previram a possibilidade de capitalização de juros" (e-STJ, fl. 1.935).
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
