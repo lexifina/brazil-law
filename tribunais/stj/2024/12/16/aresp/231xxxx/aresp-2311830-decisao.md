@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por EDMAR ANGELO COUTO contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. Rescisão contratual cumulada com reintegração na posse e perdas e danos. Sentença de parcial procedência. Inconformismo da parte ré. Preliminar de inépcia da inicial. Não acolhimento. Reintegração na posse que decorre da declaração de rescisão da avença e consequente retorno das partes ao status quo ante, não havendo que se falar em demanda possessória e o preenchimento de seus particulares requisitos. Mérito. Compra e venda de bem imóvel sob o viés e cooperativa e cooperado. Alegação de que procedimentos administrativos prévios ao encerramento do negócio jurídico não foram observados. Não acolhimento. Exercício do direito de ação, porquanto a Lei, para o caso concreto, prescinde dos atos apontados como ausentes. Pedido subsidiário de manutenção do contrato, por adimplemento substancial. Não acolhimento. Dívida que perfaz a monta de vinte por cento do total do crédito. Manutenção do comprador na posse que implicaria em ônus desproporcional ao vendedor, cujo crédito já não está satisfeito. Retenção de benfeitorias. Não acolhimento. Pedido genérico, sem apontamento de quais seriam as melhorias úteis indenizáveis, que implica em improcedência do pleito. Precedentes. Sentença mantida. Recurso não provido" (e-STJ fl. 337).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 362/366).
+Nas razões do especial (e-STJ fls. 343/354), o recorrente aponta violação dos arts. 421, 422 e 1.228 do Código Civil, 17, 485, inciso VI e 561 do Código de Processo Civil e 34 e 44, inciso II, da Lei nº 5.746/1971.
+Alega que a recorrida nunca teve o direito de posse do imóvel, mas tão-somente o direito à posse do bem (intrinsicamente relacionado ao direito de propriedade), portanto só poderia ter se valido de ações petitórias, notadamente da ação de imissão na posse, restando demonstrado o não preenchimento dos requisitos para a defesa possessória por meio do provimento jurisdicional de caráter reintegratório.
+Aduz que nunca recebeu qualquer notificação da Cooperativa acerca da eliminação do grupo e que foram incluídas no débito 30 (trinta) parcelas adicionais, que não foram aprovadas pela assembleia. Dessa forma, tais parcelas são indevidas.
+Sustenta que em virtude do número de prestações quitadas frente àquelas que estavam em aberto, há de se considerar o adimplemento substancial do débito, sob pena de violação aos princípios da boa-fé objetiva (artigo 422 do Código Civil) e da função social dos contratos (artigo 421).
+Apresentadas as contrarrazões, o recurso não foi admitido na origem. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Com efeito, o Tribunal de origem decidiu a controvérsia com base nos seguintes fundamentos:
+"Afasta-se a preliminar de inépcia da inicial, pelas mesmas razões expostas pelo Juízo de primeiro grau, que corretamente endereçou a prejudicial de mérito.
+Não se trata de demanda possessória, como insiste em assim a caracterizar, a parte recorrente. Cuida-se de declaratória de rescisão contratual cujo objeto é, em essência e a despeito das nomenclaturas utilizadas pelos contratantes, a venda e compra de um imóvel.
+Logo, efeito jurídico lógico da rescisão contratual, com o retorno das partes ao status quo ante, seria a reintegração de posse, pela parte vendedora, no bem que é o escopo do negócio jurídico.
+Quanto à não exclusão da parte apelante, do quadro de cooperados, nos moldes do estatuto social, referida questão não possui o condão de afastar o direito que surge à parte credora, de reivindicar o fim do vínculo contratual pelo inadimplemento da parte adversa.
+É questão administrativa sobre a qual a Lei, para o objeto dessa demanda, não exige cumprimento prévio. Quer se dizer, a rescisão contratual prescinde a exclusão administrativa.
+No mesmo sentido, desnecessária a articulação sobre a efetiva ocorrência ou não de notificações para adimplemento da dívida, porquanto sua ocorrência (do débito), é fato incontroverso nos autos.
+Portanto, confirmado o inadimplemento unilateral das obrigações contratuais, relativas à compra e venda do bem imóvel, surge para o outro contratante o direito potestativo de ver encerrada a avença.
+Inaplicável a teoria do adimplemento substancial, porquanto o débito existente, ainda que desconsiderada grande parte das parcelas (trinta, como invocado pela parte), remanesce na monta de vinte por cento do total, sem perspectiva alguma de pagamento pela parte recorrente.
+Manter o autor, apelante, no imóvel, remetendo a requerida, apelada, para uma execução de valores devidos, considerando que o devedor já está há mais de dois anos inadimplente, é impor ao credor ônus desproporcional, pois já foi ponderado no julgado a devolução integral dos valores dispendidos pelo comprador.
+Por fim, agiu com acerto, novamente, o Juízo sentenciante, uma vez que a contestação não evidencia direito à indenização e retenção de benfeitorias introduzidas no imóvel, já que não há qualquer especificação a respeito.
+Não há descrição ou mesmo comprovação das edificações que teriam sido realizadas no imóvel ou mesmo de que os réus foram responsáveis por elas, o que obsta a indenização e o respectivo direito de retenção" (e-STJ fls. 338/340 - grifou-se).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável em recurso especial ante a natureza excepcional da via eleita, conforme o disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% sobre o valor da causa, os quais devem ser majorados para o patamar de 20% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
