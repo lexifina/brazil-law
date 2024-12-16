@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. tráfico de drogas. posse de arma de uso restrito com numeração suprimida. Agravo regimental. Habeas corpus. Busca domiciliar. trânsito em julgado anterior a 2021. impossibilidade de aplicação de novo entendimento jurisprudencial de forma retroativa. ausência de ilegalidade flagrante. Desclassificação de crime. desnecessidade. réu condenado pelo art. 16, da lei n. 10.286/2003. crime que tipifica as condutas de possuir e portar. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor do agravante, que pretendia o reconhecimento da nulidade da busca domiciliar ou a desclassificação do crime do art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003, para o crime do art. 16, caput, da mesma Lei.
+2. O Tribunal de origem rejeitou a revisão criminal quanto à alegada nulidade da busca domiciliar, afirmando que não houve violação de domicílio, pois os policiais estavam no local para cumprimento de mandado de busca e apreensão, e o ingresso na residência ocorreu com autorização da corré.
+3. O acórdão revisional esclareceu que o paciente já foi condenado pelo crime de posse de arma de fogo, não havendo desclassificação a ser feita, pois a arma apreendida possuía sinal de identificação raspado, suprimido ou adulterado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há nulidade na busca domiciliar realizada com autorização da corré e se é possível a desclassificação do crime do art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003, para o crime do art. 16, caput, da mesma Lei.
+III. Razões de decidir
+5. Não se verifica flagrante ilegalidade na busca domiciliar, pois o ingresso ocorreu com autorização da corré e em cumprimento de mandado de busca e apreensão.
+6. A alteração de entendimento jurisprudencial posterior ao trânsito em julgado da condenação não autoriza a revisão criminal, sob pena de violação à segurança jurídica.
+7. A desclassificação do crime não é cabível, pois a arma apreendida possuía sinal de identificação adulterado, conforme tipificado no art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. Não há nulidade na busca domiciliar realizada com autorização da corré e em cumprimento de mandado de busca e apreensão. 2. A alteração de entendimento jurisprudencial posterior ao trânsito em julgado não autoriza revisão criminal. 3. A desclassificação do crime de posse de arma de fogo de uso restrito para posse de arma de fogo de uso permitido não é cabível quando a arma possui sinal de identificação adulterado".
+Dispositivos relevantes citados: CR /1988, art. 5º, XI; CPP, art. 303; Lei n. 10.826/2003, art. 16, parágrafo único, inciso IV.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27.03.2020; STF, AgR no HC 147.210, Rel. Min. Edson Fachin, Segunda Turma, julgado em 30.10.2018.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RODRIGO MEIRA contra decisão monocrática, por mim proferida, a qual não conheceu do habeas corpus impetrado em seu favor.
+Na espécie, pretendia o agravante fosse reconhecida a nulidade da busca domiciliar ou a desclassificação do crime do art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003, para o crime do art. 16, caput, da mesma Lei.
+Neste agravo regimental, repisa o agravante os mesmos argumentos expendidos na inicial mandamental, pugnando ao final, que seja provido o presente agravo regimental para reformar a decisão monocrática que não conheceu do habeas corpus, remetendo o recurso ao órgão colegiado competente para regular julgamento, concedendo o pleito para que seja declarada a nulidade da busca domiciliar ou acolhido o pleito desclassificatório mencionado.
+Por não reconsiderar a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma desta Corte.
+É o relatório.
+EMENTA
+Direito processual penal. tráfico de drogas. posse de arma de uso restrito com numeração suprimida. Agravo regimental. Habeas corpus. Busca domiciliar. trânsito em julgado anterior a 2021. impossibilidade de aplicação de novo entendimento jurisprudencial de forma retroativa. ausência de ilegalidade flagrante. Desclassificação de crime. desnecessidade. réu condenado pelo art. 16, da lei n. 10.286/2003. crime que tipifica as condutas de possuir e portar. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor do agravante, que pretendia o reconhecimento da nulidade da busca domiciliar ou a desclassificação do crime do art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003, para o crime do art. 16, caput, da mesma Lei.
+2. O Tribunal de origem rejeitou a revisão criminal quanto à alegada nulidade da busca domiciliar, afirmando que não houve violação de domicílio, pois os policiais estavam no local para cumprimento de mandado de busca e apreensão, e o ingresso na residência ocorreu com autorização da corré.
+3. O acórdão revisional esclareceu que o paciente já foi condenado pelo crime de posse de arma de fogo, não havendo desclassificação a ser feita, pois a arma apreendida possuía sinal de identificação raspado, suprimido ou adulterado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há nulidade na busca domiciliar realizada com autorização da corré e se é possível a desclassificação do crime do art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003, para o crime do art. 16, caput, da mesma Lei.
+III. Razões de decidir
+5. Não se verifica flagrante ilegalidade na busca domiciliar, pois o ingresso ocorreu com autorização da corré e em cumprimento de mandado de busca e apreensão.
+6. A alteração de entendimento jurisprudencial posterior ao trânsito em julgado da condenação não autoriza a revisão criminal, sob pena de violação à segurança jurídica.
+7. A desclassificação do crime não é cabível, pois a arma apreendida possuía sinal de identificação adulterado, conforme tipificado no art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. Não há nulidade na busca domiciliar realizada com autorização da corré e em cumprimento de mandado de busca e apreensão. 2. A alteração de entendimento jurisprudencial posterior ao trânsito em julgado não autoriza revisão criminal. 3. A desclassificação do crime de posse de arma de fogo de uso restrito para posse de arma de fogo de uso permitido não é cabível quando a arma possui sinal de identificação adulterado".
+Dispositivos relevantes citados: CR /1988, art. 5º, XI; CPP, art. 303; Lei n. 10.826/2003, art. 16, parágrafo único, inciso IV.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27.03.2020; STF, AgR no HC 147.210, Rel. Min. Edson Fachin, Segunda Turma, julgado em 30.10.2018.
+VOTO
+Pretende o agravante que seja reformada a decisão agravada. Contudo, a ele não assiste razão.
+Com efeito, a decisão agravada merece subsistir por seus próprios e jurídicos fundamentos.
+Não se verifica nenhuma flagrante ilegalidade a ser corrigida.
+Conforme se observa do excerto, o Tribunal de origem rejeitou a revisão criminal, no tocante à alegada nulidade da busca domiciliar, nos seguintes termos:
+" ..
+Em relação à preliminar arguida, como se observa da prova oral colhida e do exame dos autos originários, não se há falar em nulidade das provas obtidas na fase de investigações em razão da violação de domicílio.
+Os policiais militares afirmaram que estavam no local para cumprimento de mandado de busca e apreensão de um veículo em nome do peticionário, momento em que Rodrigo apareceu na porta da cozinha e depois retornou correndo para o interior do imóvel. Ato contínuo, os agentes públicos uso chamasse para retirar o equipamento de som do veículo, oportunidade em que ela disse que ele não estava no local. Em sequência, com a autorização da corré, entraram no imóvel, apreenderam os objetos e substâncias ilícitas descritos na denúncia e constataram a fuga do peticionário.
+Relembra-se que os agentes compareceram à residência para o cumprimento de um mandado de busca e apreensão, como já dito. O peticionário correu para o interior da casa ao verificar a presença dos policiais militares, justa causa para a Polícia cumprir a sua função pública de prevenção ao crime. Não bastasse, a corré franqueou o ingresso dos policiais na residência, de modo que inexiste violação de domicílio a ser reconhecida.
+Frisa-se que o delito de tráfico de drogas, no verbo ter em depósito, núcleo do tipo descrito no artigo 33 da Lei Antidrogas, além do crime de posse ilegal de arma de fogo, apontados na denúncia, implicam o reconhecimento de crimes permanentes, nos quais o momento consumativo se prolonga no tempo pela vontade do agente.
+Logo, enquanto não cessada a permanência, a prisão em flagrante pode ser realizada a qualquer tempo, nos termos do artigo 303 do Código de Processo Penal. Acresça-se que a Constituição Federal, em seu artigo 5.º, inciso XI, admite o ingresso na casa asilo inviolável do indivíduo sendo uma das exceções a ocorrência de flagrante delito, independentemente de ordem judicial".
+(e-STJ, fls. 82-83. Sem grifos no original).
+Não há nulidade quando o ingresso policial no domicílio se dá por fundadas razões da prática de crime. É o descrito pelo acórdão questionado: a presença dos policiais no local se dava para cumprimento de mandado de busca e apreensão e o ingresso na casa ocorreu após o retorno do paciente para o seu interior, ao avistar os agentes, seguida da autorização dada pela corré, presente no local.
+Além disso, registre-se que "a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa  .. , sob pena de serem violados os princípios da coisa julgada e da segurança jurídica" (STJ, 5ª Turma, AgRg. no HC. nº 782.558/SC, Rel. Min. Messod Azulay Neto, DJ. de 14.2.2023).
+Convém ponderar que os fatos remontam ao ano de 2009 e que o acórdão que julgou o apelo interposto contra a sentença condenatória transitou em julgado em 2011, quando o entendimento jurisprudencial dominante admitia a prova da legitimidade do ingresso no domicílio com base na natureza permanente do delito de tráfico e nos depoimentos dos policiais prestados em juízo. Tampouco a questão foi objeto de insurgência de defesa em ambas as instâncias que conheceram do feito.
+Desse modo, inviável seria revisitar, por meio da revisão criminal, o entendimento adotado no referido acórdão, sob pena de violação à segurança jurídica. Nesse sentido, transcrevo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL EM VIA PÚBLICA. DENÚNCIA ANÔNIMA DEVIDAMENTE CIRCUNSTÂNCIADA. AUSÊNCIA DE ILEGALIDADE. BUSCA DOMICILIAR. MUDANÇA JURISPRUDÊNCIAL DO ENTENDIMENTO ACERCA DA DOCUMENTAÇÃO DA AUTORIZAÇÃO VERBAL DO MORADOR PARA INGRESSO EM CASA ALHEIA. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. MATÉRIA ARGUIDA QUASE 3 ANOS APÓS O TRÂNSITO EM JULGADO. REVISÃO CRIMINAL IMPROCEDENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Restou devidamente comprovada a existência de justa causa para a busca pessoal, tendo em vista que os policias estavam em diligência para averiguar a
+veracidade de notícia crime anônima da prática de crime de tráfico de drogas no local. A informação recebida pelos policiais indicava o prenome e as características físicas do paciente que foi abordado em via pública. Logo, não há falar em nulidade da busca pessoal.
+2. Em alteração jurisprudencial, ambas as Turmas desta Corte Superior responsáveis pelo julgamento de matéria criminal passaram a entender que a autorização verbal do morador, não documentada, não mais serve como justa causa para que os agentes públicos deixem de buscar o suprimento judicial para a busca domiciliar. Nesse sentido, cito o paradigmático HC n. 598.051/SP, de Relatoria do Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe de 15/3/2021.
+3. A jurisprudência dominante desta Corte é no sentido de que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+4. Os fatos em comento ocorreram em 18/6/2019, tendo a apelação sido julgada em 12/6/2020 e transitado em julgado logo em seguida.
+5. O standard probatório à época exigido pela jurisprudência para validar a incursão policial em casa alheia se satisfazia com a prova oral consistente no depoimento em juízo dos policiais que atuaram na ocorrência. Precedentes. Em momento algum no curso das investigações ou da ação penal foi contestada a versão
+apresentada pelos militares responsáveis pelo flagrante.
+6. A falta de documentação da autorização do morador para a busca residencial, em que foram apreendidos 40kg de maconha e 5kg de cocaína, somente foi arguida quase três anos após o trânsito em julgado da condenação em sede de revisão criminal que foi julgada improcedente. Desse modo, não há falar em constrangimento ilegal.
+7. Agravo Regimental no habeas corpus desprovido.(AgRg no HC n. 814.053/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Por último, quanto ao pedido de desclassificação do crime de porte de arma de fogo de uso restrito para posse de arma de fogo de uso permitido, também não se verifica ilegalidade flagrante no ato judicial impugnado.
+O acórdão revisional o apreciou esclarecendo que o paciente já foi condenado pelo crime de posse de arma de fogo, não havendo desclassificação a ser feita.
+De fato, o art. 16, da Lei n. 10.286/2003 (na redação então vigente), tipifica ambas as condutas, possuir e portar, sendo o diferencial para o enquadramento no parágrafo único, inciso IV, a existência de sinal de identificação raspado, suprimido ou adulterado, fato mencionado pelos títulos condenatórios como atinente à arma apreendida. Qualquer análise que supere tais circunstâncias incorreria em reexame fático probatório, o que está vedado na via estreita do writ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
