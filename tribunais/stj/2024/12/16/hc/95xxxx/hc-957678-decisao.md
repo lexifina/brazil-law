@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WANDERSON HENRIQUE DE OLIVEIRA DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5037091-59.2024.8.24.0000).
+Consta dos autos que o paciente está preso preventivamente pela suposta prática do delito capitulado no art. 180 do Código Penal.
+Neste writ, a Defesa sustenta ilegalidade da decisão que decretou a prisão preventiva, em face à ausência dos requisitos dispostos no art. 313 do Código de Processo Penal.
+Argumenta que o paciente é primário, possui endereço fixo e trabalho lícito.
+Aduz que a alegação de que a prisão é necessária para a preservação da ordem pública não se ampara em fatos objetivos ou recentes, carecendo de evidências concretas.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva, expedindo-se o alvará de soltura, com a aplicação, se for o caso, das medidas cautelares alternativas previstas no art. 319 do CPP.
+Indeferida a liminar às fls. 29/30.
+Informações acostadas aos autos às fls. 35/36.
+Parecer ministerial opinando pelo não conhecimento do remédio, mas pela concessão de ofício da ordem (fls. 42/47).
+É o relatório.
+DECIDO.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/06/2020, DJe de 25/08/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/03/2020, DJe de 02/04/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/02/2020 - pacificaram a orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso em tela, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal.
+Assim, a fim de que não se desvirtue a finalidade dessa garantia constitucional, o habeas corpus não pode ser utilizado como substituto de recurso próprio.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente, ressaltou o seguinte (fl. 12/15; grifamos):
+Os fatos narrados retratam a prática, ao menos em tese, pelos custodiados de crimes patrimoniais de receptação em série. Da dinâmica dos fatos se colhe que, ao menos em mais de uma oportunidade, após ocorrência de furtos nas cidades de Ituporanga, Aurora e Leoberto Leal, os custodiados Jonas, Wanderson e Luan receptaram os objetos subtraídos e os guardaram em suas residências. Conforme apresentado nos autos de constatação anexados ao evento 01, APF 1, 2 e 3, diversos foram os objetos encontrados como semijoias, óculos, meias e até doces, entendendo o juízo que os crimes se deram em continuidade delitiva. Cabe ainda mencionar que o custodiado Jonas apresenta maus antecedentes além de ser reincidente em crime patrimonial, conforme noticiado no evento 5 e que o custodiado Luan já restou investigado por prática de crime patrimonial, restando demonstrada a gravidade concreta da situação e indiciariamente que os custodiados representam neste momento perigo social, demonstrando o risco à ordem pública com seu anterior estado de liberdade e lícita a presunção de potencial reiteração das condutas criminosas.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar (fls. 20/25):
+A solução da investigação, e sobretudo o oferecimento da denúncia poderão, de fato, revelar condutas outras, como de fato já se anuncia. Tenho, a rigor, certa cautela nessa fase (indiciária), na medida em que, conforme posto na decisão liminar, o paciente não ostenta histórico e não há como cogitar-se de denúncia até então. Em razão dessas circunstâncias (sem esquecer, ainda, que parte do flagrante sequer foi homologado), e conquanto o somatório de possíveis penas sirva para medir-se o critério objetivo fixado no art. 311, I, do CPP, o próprio STJ tem admitido a custódia, na fase administrativa, quando se apura delitos em concurso.
+Verifico que a medida cautelar extrema foi, em princípio, suficientemente fundamentada pelas instâncias ordinárias, em virtude da necessidade de garantia da ordem pública, diante da possibilidade de reiteração da conduta delitiva, constatando-se que dois dos envolvidos respondem a processos por delitos patrimoniais.
+Ocorre que o paciente não se enquadra pelo menos, por ora, na possibilidade de reiteração delitiva, tendo em vista que não possui nenhuma anotação criminal em sua vida pregressa, ao contrário dos demais denunciados, como anteriormente citado.
+Sendo assim, a jurisprudência do STJ é no sentido de que sendo o paciente primário, sem antecedentes criminais e não tendo os crimes imputados sido perpetrados com violência ou grave ameaça, como no caso em apreço, há a possibilidade de substituição da custódia cautelar por outras medidas mais brandas.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. RECEPTAÇÃO E ASSOCIAÇÃO CRIMINOSA. CRIME PRATICADO SEM VIOLÊNCIA. AUTOR VENDE MATERIAIS RECICLÁVEIS (FERRO VELHO). RESPONDE PELA VENDA DE FIOS DE COBRE FURTADOS. PRISÃO PREVENTIVA DESNECESSÁRIA. RÉU TEM ENDEREÇO E TRABALHO CERTOS E FAMÍLIA CONSTITUÍDA, PODE RESPONDER AO PROCESSO EM LIBERDADE. RECURSO MINISTERIAL. AGRAVO DESPROVIDO
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Laercio Correa, denunciado por associação criminosa e receptação, com prisão preventiva decretada. A defesa alega inadequação da fundamentação da prisão preventiva, primariedade do paciente e possibilidade de substituição por medidas cautelares diversas. A ordem foi concedida.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste na adequação da fundamentação da prisão preventiva e a possibilidade de substituição por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. A decisão de origem fundamentou a prisão preventiva na gravidade dos crimes e no risco à ordem pública.
+4. Despacho monocrático concedeu a ordem para que o paciente responda ao processo com medidas cautelares, sem necessidade de prisão preventiva, já que presentes as circunstâncias legais autorizadoras: primário, sem antecedentes criminais, crime praticado sem violência, com endereço certo, família estabelecida e compareceu a todos os atos do processo, colaborando com a instrução criminal.
+5. A decisão monocrática agravada e stá em consonância com a jurisprudência da 5ª Turma do STJ, que não vislumbrou periculum libertatis concreto.
+IV. AGRAVO REGIMENTAL IMPROVIDO (AgRg no HC n. 887.220/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024; grifamos).
+Ante o exposto, diante da manifesta ilegalidade, concedo a ordem de habeas corpus para substituir a prisão preventiva do paciente, se por algum outro motivo não estiver preso, pelas medidas cautelares descritas nos incisos I (comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades) e IV (proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução) do art. 319 do Código de Processo Penal.
+Ficará a cargo do Juízo de primeira instância especificar as condições e fiscalizar o cumprimento das medidas impostas, o qual poderá, também, acrescer outras cautelares necessárias, desde que devidamente justificadas.
+Alerte-se ao paciente que a prisão preventiva poderá novamente ser decretada em caso de descumprimento das referidas medidas (art. 282, § 4º, c/c o art. 316 do Código de Processo Penal) ou de superveniência de fatos novos.
+Comunique-se ao Tribunal de origem e ao Juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
