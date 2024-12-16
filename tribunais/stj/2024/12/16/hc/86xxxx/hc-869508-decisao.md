@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Edivaldo Alves Pereira Junior - preso preventivamente e denunciado como incurso no art. 158, §§ 1º e 3º, c/c o art. 29, ambos do Código Penal -, apontando-se como órgão coator o Tribunal de Justiça de São Paulo, que denegou a ordem no HC n. 2222960-29.2023.8.26.0000 (fls. 35/48), preservando a custódia cautelar imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Itaquaquecetuba/SP nos Autos n. 1521150-07.2023.8.26.0050 (fls. 59/64).
+Aponta-se constrangimento ilegal na segregação cautelar, ante a falta de requisitos e ausência de fundamentação do decreto prisional.
+Requer-se, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva do paciente, com a expedição do alvará de soltura em seu favor.
+Liminar indeferida (fls. 160/162).
+Prestadas as informações (fls. 171/265), o Ministério Público Federal opinou pela inadmissibilidade do habeas corpus e, se admitido, pela denegação da ordem (fls. 268/274).
+Informações complementares às fls. 282/424.
+É o relatório.
+De acordo com a documentação juntada aos autos (fls. 396/413), em 20/9/2024, foi proferida sentença no Processo n. 1521150-07.2023.8.26.0050, condenando o ora paciente a cumprir a pena de 8 anos de reclusão, em regime inicial fechado, e ao pagamento de 13 dias-multa, como incurso no art. 158, §§ 1º e 3º, c/c o art. 29, ambos do Código Penal. Na oportunidade, negou-lhe o recurso em liberdade.
+Desse modo, na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título judicial diverso, consubstanciado em novos fundamentos, quais sejam, efeitos da condenação e pelo fato de responder preso à instrução criminal - os acusados continuar ão presos cautelarmente; o compêndio probatório torna uma ofensa à ordem pública mera possibilidade de soltura imediata dos acusados; ademais, não se corrobora razoável livrar-se dos grilhões o acusado constrito durante toda a ilação processual e objeto de sentença condenatória donde se reconheceu lancinante reprovabilidade (fl. 412) -, cujos requisitos específicos desafiam, portanto, impugnação própria perante o Tribunal de origem. Nesse sentido, os seguintes julgados: AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017; AgRg no HC n. 366.680/SC, minha Relatoria, Sexta Turma, DJe 14/11/2016; e RHC n. 64.321/AL, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/10/2015.
+Tal o contexto, julgo prejudicado o presente habeas corpus (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 158, §§ 1º E 3º, C/C O ART. 29, AMBOS DO CP. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS. EFEITOS DA CONDENAÇÃO E POR RESPONDER PRESO À INSTRUÇÃO CRIMINAL. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA E ASSEGURAR A APLICAÇÃO DA LEI PENAL. NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR QUE DEVE SER ANTES SUBMETIDO À ANÁLISE DO TRIBUNAL A QUO. PRECEDENTES DESTA CORTE SUPERIOR. PERDA DE OBJETO.
+Writ prejudicado.
