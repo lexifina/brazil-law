@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE USURA E EXTORSÃO MAJORADA WRIT INDEFERIDO LIMINARMENTE. ABOLITIO CRIMINIS. MATÉRIA JÁ SUBMETIDA A ESTA CORTE SUPERIOR, NO BOJO DO HC N. 952.823/SP. MERA REITERAÇÃO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte Superior é firme no sentido de não possibilitar a rediscussão da matéria, via habeas corpus, quando já formulados e analisados pedidos idênticos, acerca dos mesmos fundamentos, de matéria já analisada neste Tribunal Superior, por se tratar de reiteração de pedido (AgRg no HC n. 839.421/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.).
+2. Na hipótese, deve ser mantida a decisão que indeferiu liminarmente o habeas corpus, visto que a matéria de fundo contida na impetração é a mesma tratada no HC N. 952.823/SP.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS EDUARDO CREMONEZ contra decisão monocrática, da minha lavra, que indeferiu liminarmente o mandamus.
+O agravante sustenta, em síntese, "a existência de fatos e documentos novos - cópias do recurso de embargos de declaração e acórdão rejeitando os embargos de declaração (fls. 23/25) negando vigência e contrariando o disposto no artigo 3º, inciso II da Lei nº: 14.905/2024, deixando de aplicar no caso em apreço, o disposto no artigo 5º, inciso XL da Constituição Federal da República Federativa do Brasil e artigo 2º do Código Penal Brasileiro, temos que encontram-se presentes os requisitos necessários a reforma da decisão agravada (fls. 2273/2275) para conhecer e conceder a ordem de Habeas Corpus" (e-STJ fls. 2.284/2.285).
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE USURA E EXTORSÃO MAJORADA WRIT INDEFERIDO LIMINARMENTE. ABOLITIO CRIMINIS. MATÉRIA JÁ SUBMETIDA A ESTA CORTE SUPERIOR, NO BOJO DO HC N. 952.823/SP. MERA REITERAÇÃO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte Superior é firme no sentido de não possibilitar a rediscussão da matéria, via habeas corpus, quando já formulados e analisados pedidos idênticos, acerca dos mesmos fundamentos, de matéria já analisada neste Tribunal Superior, por se tratar de reiteração de pedido (AgRg no HC n. 839.421/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.).
+2. Na hipótese, deve ser mantida a decisão que indeferiu liminarmente o habeas corpus, visto que a matéria de fundo contida na impetração é a mesma tratada no HC N. 952.823/SP.
+3. Agravo regimental a que se nega provimento.
+VOTO
+A irresignação defensiva não merece prosperar, uma vez que não foram apresentados argumentos novos, aptos a infirmar os fundamentos da decisão agravada.
+Conforme consignado na decisão monocrática, foi impetrado anteriormente perante esta Corte Superior o HC n. 952.823/SP, também em benefício do ora agravante, alegando a mesma tese de abolição do crime descrito no artigo 158, § 1º, do CP, tendo em vista que a vantagem econômica  consistente na suposta cobrança de juros acima do permissivo legal por meio de títulos de créditos  passou a ser considerada lícita, inexistindo, portanto, a tipicidade da conduta do paciente ao crime de extorsão.
+Nesse aspecto, "A jurisprudência desta Corte Superior é firme no sentido de não possibilitar a rediscussão da matéria, via habeas corpus, quando já formulados e analisados pedidos idênticos, acerca dos mesmos fundamentos, de matéria já analisada neste Tribunal Superior, por se tratar de reiteração de pedido" (AgRg no HC n. 839.421/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+No mesmo sentido:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. REITERAÇÃO DE PEDIDO DE RECONHECIMENTO DE COMPETÊNCIA DA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA COMUM RECONHECIDA POR ESTE COLEGIADO. IMPOSSIBILIDADE DE CONCESSÃO DE ORDEM DE HABEAS CORPUS CONTRA ATO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+2. Além de o HC n 765363/SP reiterar pedido já analisado pela Quinta Turma do Superior Tribunal de Justiça no julgamento do HC n. 764.059/SP, frise-se que este Colegiado se pronunciou pela competência da Justiça Comum quanto aos fatos delituosos apurados na Ação Penal 0010201-20.2016.8.26.0510 que tramitou perante a Segunda Vara Criminal da Comarca de Rio Claro/SP.
+Diante disso, é defeso a esta Corte Superior de Justiça julgar habeas corpus contra ato próprio, porquanto, à luz do art. 650, § 1º, do Código de Processo Penal - CPP, a competência para conhecer originalmente do pedido de habeas corpus cessará sempre que a violência ou coação provier de autoridade judiciária de igual ou superior jurisdição. Nesse sentido: AgRg no HC n. 272.077/PE, de minha relatoria, Quinta Turma, DJe de 19/10/2018 e RHC n. 39.858/TO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 4/11/2014.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Outrossim, o fato do presente writ apontar como ato coator o julgado que rejeitou os embargos de declaração na apelação criminal em nada modifica a conclusão de que, com rejeição dos aclaratórios, ao fim, tem-se como ato coator o mesmo acórdão - da apelação criminal - formulando-se o mesmo pedido, com fundamento na mesma causa de pedir, revelando-se, portanto, o presente mandamus mera reiteração.
+De mais a mais, ao examinar o inteiro teor do voto condutor dos aludidos embargos de declaração, observa-se que a tese de abolitio criminis não foi examinada pela Corte local, depreendendo-se do relatório que o tema sequer constou nas razões recursais da defesa, que se limitou a aduzir: "omissão e contradição, repisando teses (preliminares e absolvição, por atipicidade ou insuficiência probatória)" (e-STJ fl. 24).
+Por conseguinte, mantenho o entendimento contido da decisão agravada.
+Ante o exposto, nego provimento ao presente agravo regimental.
+É como voto.
