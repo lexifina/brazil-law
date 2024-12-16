@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de MARCOS EUGENIO DOS REIS ALMEIDA - condenado por tentativa de latrocínio -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Revisão Criminal n. 1.0000.24.364272-5/000), não comporta processamento.
+Pretende a impetrante a revisão da dosimetria da pena, asseverando que a reprimenda fora recrudescida sem fundamentação, violando o art. 93, IX, da Constituição Federal, além de ser evidentemente excessiva e desproporcional, violando também o princípio da individualização das penas e o princípio da isonomia, na medida em que o corréu fora absolvido.
+Requer, assim, o restabelecimento da sentença condenatória que condenou o paciente à pena de 8 anos e 3 meses de reclusão, e pagamento de 55 dias-multa, ou, alternativamente, seja fixada a pena estabelecida no voto vencido do recurso de apelação, reconhecendo, assim, a ausência de fundamentos idôneos, o excesso e a desproporcionalidade da pena aplicada.
+De início, observo ser inviável a impetração do writ como forma de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias.
+Ademais, conforme asseverado no julgamento do HC n. 938.185/MG, de minha relatoria, impetrado contra o julgamento do recurso de apelação, em que foram apresentados os mesmos argumentos da presente exordial, não há flagrante ilegalidade apta a justificar a concessão da ordem de ofício, na medida em que o recrudescimento da pena é decorrente da alteração da capitulação jurídica dada ao evento delituoso, o que não foi impugnado; de qualquer forma, oportuno registrar que sua revisão exigiria o revolvimento de todo o conjunto fático-probatório dos autos, providência inviável na via eleita, caracterizada pelo rito célere e de cognição sumária (DJe de 22/10/2024).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE LATROCÍNIO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO MANTIDA EM REVISÃO CRIMINAL. FALTA DE CABIMENTO. DOSIMETRIA DA PENA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTOS, DE EXCESSO E DESPROPORCIONALIDADE DA REPRIMENDA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Inicial indeferida liminarmente.
