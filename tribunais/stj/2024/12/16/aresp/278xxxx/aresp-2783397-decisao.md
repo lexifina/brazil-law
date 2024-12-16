@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por QUALICORP ADMINISTRADORA DE BENEFICIOS S.A. contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/09/2024.
+Concluso ao gabinete em: 10/12/2024.
+Ação: de obrigação de restabelecer plano de saúde c/c compensação por danos morais ajuizada por FERNANDA DA CONCEIÇÃO OLIVEIRA em face de CENTRAL NACIONAL UNIMED e QUALICORP ADMINISTRADORA DE BENEFÍCIOS S.A. visando o restabelecimento de contrato de plano de saúde indevidamente cancelado, na constância de tratamento médico.
+Sentença: julgou procedente a demanda para determinar a continuidade da cobertura do tratamento prescrito e condenar a agravante no pagamento de compensação por danos morais no valor de R$ 8.000,00 (oito mil reais).
+Acórdão: deu parcial provimento ao recurso da parte agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. RESCISÃO CONTRATUAL PELA OPERADORA. Sentença de procedência. Irresignação da administradora de planos de saúde. Aduz que no trâmite processual ocorreu novo cancelamento por inadimplemento. Tece comentários a respeito da distinção das regras do cancelamento de planos individuais e coletivos, defendendo a regularidade do cancelamento e o afastamento da indenização por danos morais. Insurge-se também a operadora de planos de saúde, defendendo a licitude do cancelamento, ante a natureza de contrato coletivo. Recurso da autora, pugnando pela majoração da indenização fixada a título de danos morais para o importe de R$ 17.147,40. JULGAMENTO. O caso em análise foi bem explorado quando do julgamento do agravo de instrumento n. 2164351-53.2023.8.26.0000. Princípios da função social do contrato e da proporcionalidade analisados sob a luz da dignidade da pessoa humana. Prejuízo patrimonial da operadora que não se constata, pois a autora assumiu o pagamento integral da contraprestação. Situação que representa ônus da atuação em ramo tão sensível como o fornecimento de serviços de saúde suplementares. Aplicação analógica do tema 1.082 do STJ. Danos morais comportam majoração para o importe de R$ 10.000,00, em conformidade com precedentes desta C. Câmara. Sentença reformada. Recurso das requeridas desprovido e da autora provido em parte.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 186, 884, 927 e 944 do CC. Sustenta o não cabimento de condenação por danos morais quando houver discussão a respeito da validade de cláusula contratual, ou mesmo em razão de mero descumprimento do contrato. Aduz a não ocorrência de quaisquer atos ilícitos a justificar a condenação. Insurge-se, por fim, contra o valor fixado como danos morais, reputando-o excessivo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à efetiva configuração dos danos morais advindos do cancelamento indevido do plano de saúde, na constância de tratamento de doença grave, sem a prévia notificação nos termos legais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da compensação por danos morais
+Quanto ao pleito de redução dos danos morais, esta Corte Superior de Justiça possui firme entendimento que a alteração do valor fixado a título de compensação por danos morais na estreita via do recurso especial somente pode ocorrer nas hipóteses em que se tratar de valor exorbitante ou irrisório, o que não se verifica nos autos, em que foi fixado o valor de R$ 10.000,00 (dez mil reais), considerando a gravidade e a extensão do dano experimentado pelo paciente. Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 6/9/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/9/2016.
+Salvo essas hipóteses, incide a Súmula 7 do STJ, impedindo o conhecimento do recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 536) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER DE RESTABELECIMENTO DE PLANO DE SAÚDE C/C COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. VALOR DA COMPENSAÇÃO. SÚMULA 7/STJ.
+1. Ação de obrigação de fazer de restabelecimento de plano de saúde c/c compensação por danos morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso. Precedentes.
+4. Agravo conhecido. Recurso especial não conhecido.
