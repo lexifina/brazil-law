@@ -1,0 +1,33 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele Estado na Apelação Criminal n. 202400300596.
+Os réus foram condenados a 2 anos de reclusão mais multa, no regime inicial aberto, pelo crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Nas razões do recurso especial, o recorrente alega violação do art. 33, § 4º, da Lei de Drogas.
+Requer a alteração da fração da minorante para 1/6 ante a apreensão de expressiva quantidade de entorpecentes.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Marcelo Muscogliati, manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Fração da minorante
+A Corte estadual considerou devida a aplicação da referida minorante no patamar de 2/3, sob o argumento de que (fls. 546-548, grifei):
+Observa-se que a Magistrada de 1º grau fez menção à natureza e à quantidade das drogas apreendidas, utilizando a natureza para exasperação da pena base e a quantidade para a aplicação do privilégio em seu patamar mínimo.
+Acontece que a jurisprudência do STJ considera tais circunstâncias (natureza e quantidade da droga) como vetor único, consoante entendimento a seguir, que também foi adotado por esta Câmara Criminal:
+ ..
+Tendo em vista que a natureza e a quantidade da droga apreendida caracteriza-se como circunstância judicial única, como já relatado acima, deve incidir uma única vez no cálculo da dosimetria da penalidade de forma preponderante.
+Saliente-se, ainda, que os demais vetores previstos no art. 59 do CP foram considerados favoráveis aos réus no feito, restando a pena-base aplicada aos sentenciados em 06 (seis) anos de reclusão, não poderá ser majorada em razão da não possibilidade de reformatio in pejus.
+Ainda analisando o recurso do Réu Marcos José Serafim Azevedo (Apelante 1), avista-se que subsidiariamente sua defesa pretende a fixação da pena no patamar mínimo legal, além da aplicação da causa de diminuição da pena prevista no art. 33, §4º da Lei nº 11.343/2006.
+Valorada negativamente 01 (uma) circunstância judicial, qual seja a natureza e quantidade, não deve prosperar o pedido recursal do apelante para a fixação da pena base no mínimo legal, razão pela qual mantenho a pena-base fixada em 06 (seis) anos de reclusão.
+Também não há como aplicar novamente o privilegio, já aplicado em favor do réu pelo Juízo de 1º grau.
+Contudo, diante do pleito recursal da apelante Ana Cristina, que não discute materialidade e autoria do delito e se limita a pretender a aplicação da fração máxima ao privilégio reconhecido e a substituição da pena por pena restritiva de direito, entendo que deverá ser reavaliada a 3ª fase da dosimetria em relação aos dois apelantes.
+Apesar da grande quantidade de entorpecentes apreendidos em poder dos recorrentes, reconheceu-se na sentença combatida, o privilégio, em favor dos sentenciados, aplicando a magistrada a fração de 1/6 para diminuir a pena aplicada. Em sua fundamentação para aplicar o privilégio em seu patamar mínimo, utilizou-se a Juíza sentenciante da elevada quantidade da droga apreendida. Todavia, houve a utilização do vetor único da natureza e quantidade para a fixação da pena-base, caracterizando, portanto bis in idem a sua utilização também na terceira fase dosimétrica. A pretensão da sentenciante em separar a quantidade da natureza, não possui respaldo jurídico e jurisprudencial, razão pela qual a fração utilizada para a aplicação do privilégio deverá ser revista.
+Sendo assim, considerando a aplicação do benefício referente ao tráfico aos recorrentes, já que preencheram os privilegiado (art. 33, §4º, da Lei n.º 11.343/2006) requisitos legais, como indicado pelo Juiz de 1º grau, pois os réus são primários, sem antecedentes criminais, além do que não restou comprovado no feito que eles se dedicam às atividades delituosas, nem integram organização criminosa, tendo em vista a ausência de fundamento idôneo, reformo a sentença combatida neste capítulo apenas para aplicar a fração em seu grau máximo (2/3), na 3ª (terceira) fase dos cálculos, em favor de ambos os apelantes.
+É certo que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: HC n. 379.203/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/2/2017.
+No entanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+No caso, a quantidade de droga foi usada para majorar a pena-base, de modo que não pode ser novamente considerada na terceira fase para modular a fração da minorante do tráfico privilegiado, sob pena de bis in idem.
+Além disso, verifica-se que o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, porquanto "a quantidade e natureza da droga, em conformidade com a interpretação do art. 42 da Lei 11.343/2006 somente pode ser valorada como uma única vetorial, não como fizeram as instâncias ordinárias, separando-se a natureza e a quantidade como se fossem duas circunstâncias judiciais distintas" (HC n. 567.261/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/6/2020, grifei).
+Assim, diante dessas considerações, deve ser mantida a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo de 2/3.
+II. Dispositivo
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
