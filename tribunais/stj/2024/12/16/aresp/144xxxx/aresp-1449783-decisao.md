@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão oriunda do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que negou seguimento ao recurso especial.
+Depreende-se dos autos que os agravados foram denunciados como incursos no art. 67 da Lei n. 9.605/1998.
+Ao final da instrução, à exceção de Paulo, foram eles absolvidos.
+O Tribunal de origem negou provimento ao recurso de apelação do Ministério Público e deu provimento ao recurso do agravado Paulo para absolvê-lo. O acórdão está assim ementado (e-STJ fls. 1033/1034):
+PENAL. PROCESSUAL PENAL. APELAÇÃO. CONCESSÃO INDEVIDA DE LICENÇA, AUTORIZAÇÃO OU PERMISSÃO AMBIENTAL. ARTIGO 67 DA LEI Nº 9.605/98. PROVA INSUFICIENTE. FALTA DE PERÍCIA. LAUDO DE ÓRGÃOS AMBIENTAIS INSUFICIENTE COMO PROVA. MEIOS INDIRETOS DE PROVA. RECURSO DO MPF NÃO PROVIDO. RECURSO DA DEFESA PROVIDO.
+I - O crime imputado deixa vestígio (dano ambiental), o que significa que, para demonstração da materialidade, é imprescindível o laudo pericial, a teor dos artigos 158 e 159, §1º do CPP com incidência na hipótese por força do art. 79 da Lei n. 9605/98.
+II - A imprescindibilidade da perícia é confirmada pelo art. 184 do CPP, que somente autoriza ao juiz a negativa de pedido de perícia formulado pelas partes caso não seja necessária para comprovação da verdade, excetuando-se dessa hipótese de indeferimento o exame de corpo de delito;
+III - O exame de corpo de delito é a regra. Somente poderia haver comprovação da materialidade por outros meios probatórios, caso houvesse o desaparecimento dos vestígios, o que não é o caso.
+IV - E conditio sine qua non a palavra do perito acerca do fato de o crime deixar ou não vestígios. Somente na hipótese de o perito chancelar que não há vestígios, estará autorizado o exame indireto.
+V - O art. 159, § 1º, do CPP é cristalino ao afirmar que somente na falta de perito oficial, é permitido o exame por outras pessoas com habilitação técnica, o que não é o caso, porquanto a Polícia Federal dispõe de corpo próprio de peritos.
+VI - As hipóteses de suspeição do juízo previstas no art. 254 do CPP são extensivas ao perito, conforme se denota da leitura do artigo 280 do CPP; Pelo mesmo raciocínio, é aplicável ao perito o elenco de impedimentos contidos no art. 252 do CPP, notadamente aquele insculpido no seu inciso IV.
+VII - Elementos de fiscalização e autuação produzidos por agentes do IBAMA e outros órgãos congêneres não suprem a falta de exame pericial imprescindível a ser feito por peritos (isentos) oficiais. Nem mesmo poderiam ser nomeados peritos, tais agentes, caso não houvesse oficiais, pois a eles também se aplicam as causas de impedimento e suspeição dos mesmos nestas causas, considerando o interesse que possuem nos referidos casos.
+VIII - A exigência do exame de corpo de delito é tão relevante e indispensável, que é erigida a causa de nulidade absoluta, nos termos do art. 564, III, "b" do CPP.
+IX - A necessidade de perícia, tem como consectário, outrossim, a garantia da ampla defesa. A formulação de quesitos prevista no § 3º do art. 159 do CPP, permitida ao Ministério Público, ao assistente de acusação, ao ofendido, ao querelante e ao acusado, tem como escopo garantir o contraditório.
+X - A realização de perícia oficial é o único meio de proporcionar às partes contraditório pleno e substancial, na medida em que, consoante o dispositivo citado, as partes podem formular quesitos ao expert. Providência inviável quando não há nomeação de peritos, mas simples opção ilegal de reconhecer validade àquele elemento indiciário representado pela manifestação do agente administrativo de fiscalização do órgão (e a quem, repita-se, ninguém pode formular quesitos).
+XI - Não se olvida que o art. 19 da Lei nº 9.605/98 permite o aproveitamento de perícia produzida em inquérito civil ou no juízo civil. O termo usado em lei é perícia e tem significado técnico, não se admitindo interpretação que amplie sua conotação para que se aceite mero laudo produzido por quem não é perito.
+XII - Não se tem notícia de nenhuma medida adotada na esfera cível. Não há nos autos qualquer inquérito civil que tenha baseado alguma ação civil pública, e onde se tenha produzido prova pericial para servir de prova emprestada.
+XIII - O art. 167 do CPP também permite a utilização de meios indiretos de prova no caso do desaparecimento dos vestígios do crime. Apesar disso, o tipo penal do art. 67 da Lei nº 9.605/98 indica conduta que deixa vestígio. Por conseguinte, entendo que o recurso à prova indireta demandaria a indicação fundamentada e precedida de quesitos das partes, também a par da manifestação de perito técnico, no sentido de que os vestígios não mais subsistem.
+XIV - Recurso do MPF não provido. Recurso da defesa provido.
+Os embargos de declaração que se seguiram foram acolhidos para esclarecer obscuridade.
+Foi então interposto o recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, no qual apontou a defesa violação aos arts. 158 do Código de Processo Penal e 67 da Lei n. 9.605/1998.
+Para tanto, sustentou que "o delito em questão possui natureza de crime de mera conduta, tendo em vista que independe de qualquer resultado naturalístico para sua configuração, não exigindo, por conseguinte, a produção de prova pericial para demonstrar a sua ocorrência" (e-STJ fl. 1067).
+O Parquet Federal manifestou-se pelo desprovimento do agravo.
+É o relatório.
+A presente insurgência perdeu seu objeto, pois, ainda que fosse dado provimento ao recurso especial a que se refere o agravo, o provimento jurisdicional não teria utilidade.
+É que, em relação ao agravado Paulo, condenado em primeiro grau e absolvido em segundo, o restabelecimento da condenação à pena de 1 ano de detenção não seria possível em razão do advento da prescrição, cujo prazo, nos termos do art. 109, V, do Código Penal, é de 4 anos. E os embargos de declaração, último marco interruptivo, foram julgados em sessão no dia 12/6/2018.
+Em relação aos demais agravados, o prazo seria de 8 anos, conforme o art. 109, IV, do CP, mas, no caso deles, tendo em vista que foram absolvidos em ambas as instâncias, o último marco interruptivo foi o recebimento da denúncia, ocorrido em 8/4/2014.
+Ate o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
+EMENTA
