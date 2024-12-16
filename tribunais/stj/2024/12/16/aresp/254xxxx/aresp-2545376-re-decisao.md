@@ -1,0 +1,31 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 1.806):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL. MANUTENÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Deve ser mantida a decisão da Presidência do STJ que não conheceu do recurso especial em que a parte não indicou o dispositivo legal violado. Incidência da Súmula n. 284 do STF.
+2. A defesa buscava, no recurso especial, o desaforamento do julgamento do acusado. Todavia, não apontou qual artigo de lei haveria sido violado pelo Tribunal estadual.
+3. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.828-1.829 e1.831-1.833).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que o pedido de desaforamento não poderia ter sido indeferido ante a distinguida repercussão do crime na localidade.
+Afirma que se trata de homicídio de policial militar, que residia na cidade vizinha e que era intimamente ligado a toda população, o quer causaria fundado receio sobre a imparcialidade dos jurados.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+Não foram apresentadas contrarrazões (fl. 1.858).
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não examinou o mérito do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 1.809-1.810):
+A defesa buscava, no recurso especial, o desaforamento do julgamento pelo Tribunal do Júri. Às fls. 1.761-1.762, a Presidência do STJ não conheceu do REsp, pelo óbice da Súmula n. 284 do STF, uma vez que o recorrente não havia apontado o dispositivo legal supostamente infringido. Veja-se (fls. 1.761-1.762, grifei):
+Mediante análise do recurso de CARLOS ODEON BANDEIRA, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.) Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+Portanto, é acertada a decisão agravada, que não conheceu do recurso especial por ausência de indicação dispositivo infraconstitucional infringido. Para rebater a aplicação da Súmula n. 284 do STF, quando aplicada por ausência de indicação de artigo supostamente violado, como na espécie, é necessário que o agravante demonstre que apontou, nas razões do especial, o dispositivo legal com força normativa capaz de alterar o aresto atacado.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
