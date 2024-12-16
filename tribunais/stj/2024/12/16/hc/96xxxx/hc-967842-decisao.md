@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOICE NOLDIN no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo em Execução Penal n. 8001306-80.2024.8.24.0033).
+Depreende-se dos autos que o Juízo de primeiro grau deferiu o pedido de saídas temporárias à apenada (e-STJ fl. 42/43).
+Irresignado, o Ministério Público do Estado de Santa Catarina interpôs agravo em execução perante o Tribunal de origem, o qual deu provimento ao recurso para cassar o benefício nos termos do acórdão que foi assim ementado (e-STJ fl. 15):
+DIREITO PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. CONCESSÃO DO BENEFÍCIO DA SAÍDA TEMPORÁRIA. RECURSO DO MINISTÉRIO PÚBLICO PROVIDO.
+I. CASO EM EXAME
+1. Recurso contra decisão que afastou a aplicabilidade da Lei n. 14.843/2024 e deferiu ao apenado a concessão do benefício da saída temporária.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a nova Lei n. 14.843/2024, que impede a concessão do benefício da saída temporária aos condenados por de crimes hediondos ou com violência ou grave ameaça à pessoa (art. 122, § 2º, daLEP), tem caráter processual (de aplicabilidade imediata) ou material (aplicável apenas aos crimes praticados após sua vigência).
+III. RAZÕES DE DECIDIR
+3. Em que pese o posicionamento desta Relatora em sentido diverso até então, e não obstante a divergência deste Tribunal sobre a matéria, acompanho, por ora, até a uniformização da temática nas Cortes, as razões do Ministério Público para adotar a aplicabilidade imediata das alterações promovidas pela Lei14.843/2024 às execuções penais em andamento, por entender que as inovações não tratam de conteúdo de natureza material, já que não implicam a supressão de direito ou garantia aos apenados, mas tão somente regulam os requisitos parao gozo de um benefício já previsto.
+4. Oportuno consignar o entendimento pessoal no sentido de que, caso já concedido ao apenado o benefício da saída temporária antes do advento da nova norma, deve assim ser mantido, a fim de se resguardar o direito daqueles que à época tiveram o benefício devidamente deferido com base em lei vigente no período, admitindo-se a revogação da benesse apenas se verificado não mais preencher os requisitos para tanto - situação diversa do caso presente.
+IV. DISPOSITIVO
+5. Recurso conhecido e provido.
+A defesa alega, na presente impetração, que as condenações impostas ao paciente são referentes a delitos praticados antes da Lei n. 14.836/2024, razão pela qual deve prevalecer a decisão de primeiro grau.
+Requer, inclusive liminarmente, a concessão da ordem para restabelecer a decisão que deferiu as saídas temporárias.
+É o relatório.
+Decido.
+A questão posta a deslinde refere-se à possibilidade de concessão do benefício de saídas temporárias a condenados por crime hediondo antes da edição da Lei n. 14.836/2024.
+No caso dos autos, o Juízo da execução deferiu o pedido de saída temporária, consignando, para tanto, que (e-STJ fls. 42/43):
+Nos termos do art. 122, da LEP, "os condenados que cumprem pena em regime semiaberto poderão obter autorização para saída temporária do estabelecimento, sem vigilância direta", trazendo hipóteses de concessão.
+Por sua vez o art. 123, da LEP, traz como requisitos: a) comportamento adequado; b ) cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e 1/4 (um quarto), se reincidente; c) compatibilidade do benefício com os objetivos da pena.
+Na hipótese dos autos, o requisito objetivo somente estará satisfeito em 12/01/2025, conforme se verifica dos cálculos homologados, assim como o bom comportamento pode ser atestado pelo boletim carcerário constante do sequencial 24.5.
+Ademais, diante do princípio da princípio da irretroatividade da lei penal maléfica, disposto no artigo 5º, inciso XL, da Constituição Federal de 1988, ainda que o apenado possua condenação por crime praticado com violência/grave ameaça, considerando o fato é anterior à Lei n. 14.846/2024, que promoveu a alteração do §2º do art. 122 da LEP, o benefício deve ser concedido.
+ ..
+Nesta ótica, sendo válido o regime das saídas temporárias anteriores a Lei 14.846/ 2024, aplicável ainda o regramento do art. 124, da LEP, de modo que CONCEDO o benefício da saída temporária somente a partir de 12/01/2025, desde que mantido o bom comportamento carcerário, e, considerando a revogação do artigo 124 da LEP e a ausência de parâmetros legais para a fruição do benefício, utilizado o referido artigo como parâmetro e autorizo o afastamento deJOICE NOLDIN DE OLIVEIRA, em 5 (cinco) oportunidades distintas, a serem usufruídas no período de um ano e pelo prazo de 7 (sete) dias cada uma delas. Fica a critério da direção da unidade prisional a fixação dos dias e horários de saída e retorno, que deverão respeitar o intervalo mínimo de 45 (quarenta e cinco) dias entre si.
+O Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público e, assim, cassou a decisão de primeiro grau, com a seguinte fundamentação (e-STJ fls. 18/19):
+Denota-se que a nova redação do § 2º do artigo 122 da Lei de Execução Penal coíbe a concessão da benesse da saída temporária a todos os condenados pela prática de crime hediondo ou com violência ou grave ameaça contra pessoa, sendo que, até então, a norma previa o impedimento às punições por crimes hediondos com resultado morte (resultado morte alcançado).
+Sendo assim, ocorreu o alargamento do rol de crimes impeditivos de fruição do privilégio, ou seja, uma reforma na legislação que, logo, acarreta prejuízo ao condenado, e que, em aplauso ao princípio da irretroatividade da lei penal mais gravosa disposto no inciso XL do artigo 5º da Constituição Federal, não deve ser aplicado no presente caso.
+Os que defendem a aplicação da nova redação, sustentam que a norma não teria natureza penal, pois seria relacionada ao formato de como é executada a reprimenda (cunho processual).
+Tal discussão já ocorreu no passado, com outras alterações legislativas, e é provável que venha suceder novamente.
+Contudo, meu entendimento - até que sobrevenha decisão vinculante - é de que todas as disposições que tratem da pena vinculada à prática de um delito e ao modo de seu cumprimento possuem caráter de direito penal material.
+Ora, o princípio da irretroatividade da lei penal mais grave é basilar ao estado democrático de direito, pela proteção ao direito fundamental de evitar que mudanças legislativas mais rigorosas afetem situações jurídicas consolidadas.
+E o recrudescimento da norma - em eufonia com os brados da opinião pública e de movimentos radicalizados, que pregam maior dureza das leis penal e processual penal como salvação para o aumento da criminalidade, sem debater outras mazelas da sociedade -, com sua aplicação indistinta, atinge também o princípio do devido processo legal.
+Assim, orientado por tais princípios, mesmo ciente do atual entendimento dosintegrantes da c. 1ª Câmara Criminal, entendo que a restrição ao benefício da saídatemporária não pode ser aplicada de forma retroativa para prejudicar os condenados queestavam cumprindo pena por crimes praticados antes da vigência da nova redação do § 2º doartigo 122 da Lei de Execução Penal.
+ ..
+Neste contexto, diante da natureza de direito material penal das leis atinentes àexecução penal, e da consequente irretroatividade dessas normas quando prejudiciais aocondenado, acertada a decisão da instância primeva no sentido de não-aplicação da Lei n.14.843/2024.
+De fato, com o advento da Lei n. 14.843/2024, foi alterada a redação do art. 122, § 2º, da LEP, in verbis: "Não terá direito à saída temporária de que trata o caput deste artigo ou a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa."
+Contudo, a nova legislação deve ser aplicada aos crimes praticados durante a sua vigência, o que não ocorre no caso concreto.
+Na mesma linha de raciocínio:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO NÃO JUSTIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+2. Após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+3. Com base nessas premissas, deve ser mantida a concessão do habeas corpus, pois o Tribunal de Justiça determinou o estudo de periculosidade utilizando-se de fundamentação inidônea, não relacionada ao período de resgate da pena, relativa à própria prática dos delitos e à falta grave que ocorreu há mais de uma década. Perpetuar durante toda a execução comportamentos negativos muito antigos desconsideraria tanto os princípios da razoabilidade e da ressocialização da pena quanto o direito ao esquecimento. 4.
+Agravo regimental não provido.
+(AgRg no HC n. 913.379/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024, grifei.)
+RECURSO EM HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CASOS COMETIDOS SOB ÉGIDE DA LEI ANTERIOR. PRECEDENTES.
+1. A exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade.
+2. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+3. No caso, todas as condenações do paciente são anteriores à Lei n. 14.843/2024, não sendo aplicável a disposição legal em comento de forma retroativa.
+4. Recurso em habeas corpus provido para afastar a aplicação do § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024 , determinando o retorno dos autos ao Juízo da execução para que prossiga na análise do pedido de progressão de regime.
+(RHC n. 200.670/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024, grifei.)
+Nesse contexto, é indene a dúvidas que, na apreciação do pedido de saída temporária (trabalho extramuros e visita periódica ao lar), houve a análise acerca do atendimento aos requisitos previstos no art. 123 da LEP , que preceitua a necessidade de exame da compatibilidade dos benefícios com os objetivos da pena, o que não foi visualizado no caso.
+Do excerto do acórdão combatido, vê-se que a Corte estadual levou em conta apenas a imposição de lei posterior à execução ora em apreciação, o que, segundo os precedentes já citados, não constitui fundamentação idônea para negar a progressão de regime.
+Ante o exposto, concedo a ordem para cassar o acórdão proferido no julgamento do Agravo de Execução Penal n. 8001306-80.2024.8.24.0033 e, consequentemente, restabelecer a decisão do Juízo das execuções que concedeu à paciente as saídas temporárias.
+Publique-se. Intimem-se.
+EMENTA
