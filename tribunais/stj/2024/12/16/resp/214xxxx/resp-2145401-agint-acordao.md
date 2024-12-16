@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. ATROPELAMENTO. PROCEDÊNCIA. PLEITO DE REDUÇÃO DO VALOR REPARATÓRIO POR DANOS MORAIS. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que a redução ou a majoração do quantum indenizatório, a título de dano moral, é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n. 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do valor fixado.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo Interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AUTO OMNIBUS NOVA SUISSA S/A (AUTO OMNIBUS) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. RECURSO DA RÉ. ACIDENTE DE TRÂNSITO. ATROPELAMENTO EM VIA PÚBLICA. DANOS MORAIS. PLEITO DE REDUÇÃO DO VALOR INDENIZATÓRIO. INVIABILIDADE. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+(e-STJ, fl. 1.434).
+Nas razões do presente inconformismo, AUTO OMNIBUS defendeu que o valor indenizatório, decorrente do acidente de trânsito (atropelamento), fixado na quantia de R$ 30.000,00 (trinta mil reais) se mostra exorbitante e desproporcional à gravidade das lesões sofridas pela agravada, e em total desacordo ao previsto no art. 944 do CPC, devendo, assim, ser reduzido para patamar mais razoável (e-STJ, fls. 1.444-1.456).
+Foi apresentada contraminuta (e-STJ, fls. 1.460-1.469).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. ATROPELAMENTO. PROCEDÊNCIA. PLEITO DE REDUÇÃO DO VALOR REPARATÓRIO POR DANOS MORAIS. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que a redução ou a majoração do quantum indenizatório, a título de dano moral, é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n. 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do valor fixado.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo Interno não provido.
+VOTO
+O recurso não merece prosperar.
+(1) Do pleito de redução do quantum indenizatório
+Destaca-se, por necessário, que a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E EXTRAPATRIMONIAIS. ACIDENTE DE TRÂNSITO. DANOS MORAIS. QUANTUM. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(Agint no Aresp n. 2.131.197/RS, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 3/4/2023, DJE 27/4/2023 - sem destaque no original)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. ACIDENTE DE TRÂNSITO. CONTRATO DE TRANSPORTE. RESPONSABILIDADE DO TRANSPORTADOR. DANO MORAL E DANO ESTÉTICO. CUMULAÇÃO. POSSIBILIDADE. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. PERDA DA CAPACIDADE LABORATIVA. PENSÃO. CABIMENTO. VALOR DAS INDENIZAÇÕES. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+4. É lícita a cumulação das indenizações por dano estético e dano moral, ainda que derivados de um mesmo fato, desde que passíveis de identificação em separado. Precedentes.
+5. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+6. No caso concreto, o Tribunal de origem conclui ter havido dano moral e estético indenizáveis, bem como perda da capacidade laborativa a ensejar o arbitramento de pensão à vítima do acidente. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+7. Somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a importância fixada a título de indenização por danos morais e estéticos, é possível o afastamento da Súmula n. 7/STJ, a ensejar a revisão da quantia arbitrada, o que não se observa. 8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.863.811/DF, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 8/5/2023, DJe de 12/5/2023 - sem destaques no original)
+No caso dos autos, o TJMG, ao fixar o valor da indenização por danos morais, levou em consideração a gravidade do acidente e dos danos causados.
+A esse respeito, confira-se:
+Ora, dúvida não se tem de que dos acidente ocorreu, como também de que a autora dele saiu acidentada, presentes, pois, a causa e o efeito quanto à extensão da lesão é causa de ser observada apenas na proporcionalidade ao valor a ser arbitrado, não sendo razoável ignorar a dor alheia, dela fazendo-se um indiferente jurídico.  .. . Quanto ao valor, apesar de inexistir orientação uniforme e objetiva na doutrina ou na jurisprudência de nossos tribunais para a fixação dos danos morais, é ponto pacífico que o Juiz deve sempre observar as circunstâncias fáticas do caso, examinando a gravidade objetiva do dano, seu efeito lesivo, natureza e extensão, as condições socioeconômicas da vítima e do ofensor, visando com isto que não haja enriquecimento indevido do ofendido e que a indenização represente verdadeiramente um desestímulo a novas agressões. A "quantificação" do dano sofrido por alguém é sempre uma árdua tarefa que se afigura aos magistrados. É necessário ter em mente a sua função "educadora/corretiva/punitiva", imposta ao ofensor, no sentido de evitar que novos danos se concretizem. Por outro lado, na visão do ofendido, é impossível que se estabeleça uma compensação aritmética, ou matematicamente mensurável. O que se busca é tão somente uma contrapartida ao mal sofrido, daí denominar-se "compensação por danos morais". Assim, fixo o dano moral em R$ 30.000,00, já que a lesão foi de NATUREZA GRAVE, incapacitante, apta causar defeito duradouro, embora não permanente e com atendimento hospitalar e não se pode negar que no caso ocorreu ferimento/lesão e com relevância jurídica. (e-STJ, fls. 1.054/1.055 - grifou-se).
+Como visto, após o detido exame dos fatos e das provas constantes nos autos, concluiu a Corte local que houve culpa exclusiva do preposto da demandada, de modo que rever tal entendimento, a fim de acolher a tese de que a culpa teria sido exclusiva da vítima, encontra óbice no enunciado da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. MANUTENÇÃO. RESPONSAIBLIDADE CIVIL. ACIDENTE DE TRÂNSITO COM CONSEQUÊNCIA MORTE. ART. 944 DO CPC. REVISÃO. VALOR INDENIZATÓRIO. NÃO É IRRISÓRIO OU EXORBITANTE. PROPORCIONAL AO EVENTO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se, na origem, de ação indenizatória ajuizada pela parte agravante em face da parte agravada em razão de acidente de trânsito que gerou a morte de parente.
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o montante estabelecido pela Corte local não se mostra excessivo, a justificar sua reavaliação.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.328.122/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. REVISÃO DO QUANTUM INDENIZATÓRIO. DANOS MORAIS. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7/STJ.
+1. Em suma, a controvérsia sub examine diz respeito ao valor arbitrado pelo Tribunal a quo a títulos de danos morais à parte ora recorrida (jovem de 17 anos).
+2. Extrai-se do acórdão objurgado que o evento lesivo consiste em um acidente de trânsito provocado pelo mau funcionamento de um semáforo luminoso, o que lhe ocasionou o rompimento da 5ª vértebra e a sua invalidez permanente
+3. Nas razões do agravo regimental, a parte ora recorrente aponta violação ao artigo 944 do Código Civil, por entender que o valor de R$30.000,00 (trinta mil reais), fixado a título indenização por danos morais, seria excessivo e não estaria em consonância com a situação econômica da recorrida, ferindo o princípio da razoabilidade e acarretando seu enriquecimento ilícito.
+4. Não obstante, tendo em vista a proporcionalidade do valor arbitrado, alterar a fundamentação do aresto recorrido é tarefa que demandaria, necessariamente, incursão no acervo fático-probatório dos autos o que é vedado ante o óbice preconizado na Súmula 7 deste Tribunal. Precedentes do STJ.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 1.376.972/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/8/2013, DJe de 22/8/2013 -grifou-se)
+Dessa forma, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
