@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por CIDADE VERDE SERRA EMPREENDIMENTOS IMOBILIÁRIOS S.A. e OUTRA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+"APELAÇÃO CÍVEL E RECURSO ADESIVO. DIREITO CIVIL E CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. NÃO ENTREGA DO EMPREENDIMENTO. INADIMPLEMENTO POR CULPA EXCLUSIVA DAS PROMITENTES-VENDEDORAS. DEVER DE RESTITUIÇÃO INTEGRAL. NÃO COMPROVAÇÃO DE FORÇA MAIOR. DANO MORAL CARACTERIZADO. APELAÇÃO DOS AUTORES PROVIDA E RECURSO ADESIVO DAS REQUERIDAS DESPROVIDO. 1. Não prospera a alegação da requerida GRAN VIVER URBANISMO S. A., de que não é parte legítima passiva, especialmente porque vinculou o empreendimento a sua marca, asseverando ser responsável, além de negociar e vender os imóveis e integrar o mesmo grupo econômico da outra parte ré. 2. Incontroverso que o empreendimento, sequer, foi finalizado, pelo contrário, restou inacabado e abandonado, de modo que o reconhecimento da culpa exclusiva das rés é medida que se impõe. 3. A não entrega do empreendimento gerou mais que um mero dissabor cotidiano aos consumidores, sendo presumível a angústia, ansiedade e frustração por não poderem concretizar o tão sonhado dia da aquisição da casa própria, devendo a construtora ser condenada ao pagamento de indenização por danos morais de R$ 5.000,00 (cinco mil reais) para cada parte autora. 4. Apelação dos autores provida e recurso adesivo das rés desprovido" (e-STJ fl. 341).
+No recurso especial, as recorrentes alegam violação dos arts. 186, 421, 422, 475, 884, 927 e 944 do Código Civil.
+Defendem a inexistência de ato ilícito no atraso da entrega da obra, haja vista a possibilidade de prorrogação da data prevista no contrato, nos casos de acontecimentos fortuitos ou de força maior.
+Asseveram que os agravados não fazem jus aos danos morais e que o valor arbitrado a esse título é excessivo e deve ser minorado.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, as conclusões do Tribunal de origem acerca da existência de ato ilícito e da comprovação dos danos morais decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+No que se refere a rescisão do contrato, com o reconhecimento de culpa exclusiva das rés, tenho que melhor sorte não assiste as requeridas.
+Ora, incontroverso nos autos que o empreendimento, sequer, foi finalizado, pelo contrário, restou inacabado e abandonado.
+E mais, tal fato já foi reconhecido por este Tribunal, como se vê dos da arestos citados, de rés modo que o reconhecimento culpa exclusiva das é medida que se impõe.
+Outrossim, embora algum as rés aleguem caso de força maior, em momento comprovaram a ocorrência da foi referida excludente de responsabilidade e qual o fator determinante pela não entrega do empreendimento, deixando de traçar um paralelo entre a sua alegação e a comprovação.
+Veja-se que referida alegação foi "lançada ao léu", sem o mínimo de lastro probatório, imputação que lhe II, competia pela regra imposta no artigo 373, inciso do CPC.
+Deste modo, também deve ser mantida a sentença que declara a resolução do contrato firmado entre bem as partes por culpa exclusiva das requeridas, como determina a restituição dos valores aos requerentes.
+(..)
+Embora firmado o contrato entre as partes, as do requeridas, sequer, concluíram obras empreendimento, frustrando a legítima expectativa dos autores de ter seu imóvel, além de impor um sentimento de completa insegurança.
+A presente contenda não se traduz, em sua inteireza, em um simples inadimplemento contratual, mas na violação de uma expectativa de aquisição de um imóvel, objeto de desejo de todo e qualquer cidadão brasileiro, o que não pode ser desprezado para a aferição da existência ou não do dano.
+Ademais, ao adquirir um imóvel o seu comprador projeta-lhe incontáveis sonhos e expectativas, assim, sua frustração do gozo sem qualquer justificativa plausível da parte adversa, a qual lhe exige estrita observância contratual, não pode residir apenas no campo do mero aborrecimento" (e-STJ fls. 346/347).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Com relação ao valor indenizatório, o Superior Tribunal de Justiça tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando a quantia arbitrada é irrisória ou abusiva, circunstâncias inexistentes no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização devida pelos recorrentes no valor de R$ 5.000,00 (cinco mil reais) para cada autor.
+A propósito:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+2.1. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a parte agravada foi exposta ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.592.602/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 30/8/2024) (indenização por danos morais fixada em R$ 10.000,00 - dez mil reais, para cada adquirente)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. VIOLAÇÃO DOS ARTS 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA N.º 7 DO STJ. QUANTUM FIXADO COM RAZOABILIDADE. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do NCPC), não se prestando ao rejulgamento do que foi decidido.
+2. No caso, a fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade do promitente-comprador, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, ante a incidência da Súmula n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.212.403/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 9/3/2023) (indenização por danos morais fixada em R$ 10.000,00 - dez mil reais)
+Assim, não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie da já mencionada Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
