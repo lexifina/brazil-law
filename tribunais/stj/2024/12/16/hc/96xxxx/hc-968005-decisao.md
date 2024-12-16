@@ -1,0 +1,13 @@
+DECISÃO
+LUIZ ANTÔNIO COSTA OLIVERIA, condenado por organização criminosa, lavagem de dinheiro, corrupção passiva, prevaricação e favorecimento real, alega sofrer coação ilegal em decorrência da demora no julgamento da apelação interposta perante o Tribunal de Justiça do Estado de Minas Gerais, motivo pelo qual requer a revogação da prisão preventiva.
+O caso comporta o julgamento antecipado, visto que se adequa a pacífica orientação sobre o tema. Deveras, infere-se dos autos que o paciente, preso desde 25/8/2021, foi condenado, em primeiro grau às penas de 42 anos de reclusão; 3 anos e 6 meses de detenção; e ao pagamento de 168 dias-multa, em regime inicial fechado.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, relator Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+Além disso, "esta Corte tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória" (HC n. 692.845/RS, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe 17/12/2021)."
+Na hipótese, é possível verificar que a pena aplicada ao acusado foi bastante elevada (42 anos de reclusão e 3 anos e 6 meses de detenção) e que o prazo de segregação cautelar, nesse cenário, não se mostra desarrazoado, mormente se considerada grande complexidade do feito. Some-se a isso, a seguinte informação prestada pelo Tribunal de origem (fl. 1.691, destaquei):
+Nesse sentido, conforme se extrai dos autos, trata-se o presente feito de caso complexo, sendo certo, ademais, que a instrução se encontra encerrada e o recurso de apelação pautado para julgamento em 11 de fevereiro de 2025, pelo que, nos termos da súmula 52 do Col. STJ, não se há falar em excesso de prazo na formação da culpa na hipótese.
+Diante do exposto, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de constrangimento ilegal.
+Diante do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
