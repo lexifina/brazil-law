@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE DAR QUANTIA CERTA C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. REEMBOLSO DE DESPESA REALIZADA FORA DA REDE CREDENCIADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Ação de dar quantia certa c/c compensação por danos morais.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Agravo interno desprovido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por UNIMED RONDONÓPOLIS COOPERATIVA DE TRABALHO MÉDICO LTDA contra decisão que deu provimento ao recurso especial de DIRCEU KOLLING.
+Ação: de obrigação de dar quantia certa c/c compensação por danos morais ajuizada por DIRCEU KOLLING em face de UNIMED RONDONÓPOLIS COOPERATIVA DE TRABALHO MÉDICO LTDA visando o reembolso de cirurgia de nefrectomia parcial laparoscópica robótica no tratamento de câncer renal.
+Sentença: julgou improcedente a demanda.
+Acórdão: negou provimento ao recurso do agravante, nos termos da seguinte ementa:
+AÇÃO DE OBRIGAÇÃO DE DAR QUANTIA CERTA C/C DANO MORAL - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - CONJUNTO PROBATÓRIO DOCUMENTAL SUFICIENTE À SOLUÇÃO DA LIDE - PLANO DE SAÚDE - CIRURGIA ROBÓTICA - HOSPITAL NÃO CREDENCIADO - SITUAÇÃO DE URGÊNCIA CONFIGURADA - REEMBOLSO LIMITADO AO VALOR DA TABELA PRATICADA PELO PLANO DE SAÚDE - DANO MORAL - DESCABIMENTO - RECURSO DESPROVIDO.
+O imediato julgamento da lide é cabível e oportuno quando o julgador averiguar que o conjunto probatório já disponível no feito é idôneo e suficiente para nortear e sustentar o pronunciamento jurisdicional (CPC, art. 355), autorizando a dispensa da dilação probatória, sobretudo quando a prova pretendida pela parte não tiver aptidão de influenciar na resolução do mérito.
+Revelando-se de urgência/ o tratamento buscado, deve a operadora do de emergência plano saúde custear as despesas, mesmo que o nosocômio não seja na rede credenciada, contudo, o reembolso do valor é limitado à tabela praticada pela rede credenciada e efetivamente contratada.
+Não ocorrendo a negativa do tratamento em si, havendo discussão apenas sobre a interpretação de cláusulas contratuais, não há se falar em danos extrapatrimoniais, por não evidenciar violação ao direito da personalidade.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 e 489 do CPC. Alega negativa de prestação jurisdicional quanto ao apontado cerceamento de defesa, uma vez que a Corte de origem não teria se manifestado sobre a necessidade de produção de provas a respeito da situação de urgência do paciente, a indisponibilidade do tratamento na rede credenciada e a publicidade da tabela de reembolso que limitaria o ressarcimento das despesas médicas realizadas.
+Decisão unipessoal: deu provimento ao recurso especial de DIRCEU KOLLING para reconhecer a omissão apontada, determinando novo julgamento pela Corte de origem.
+Agravo interno: o agravante alega a inexistência de omissão, tendo a Corte de origem analisando integralmente as condições de reembolso requerido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE DAR QUANTIA CERTA C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. REEMBOLSO DE DESPESA REALIZADA FORA DA REDE CREDENCIADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Ação de dar quantia certa c/c compensação por danos morais.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Agravo interno desprovido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, muito embora a Corte de origem, ao limitar o reembolso ao valor da tabela praticada pelo plano de saúde, deixou de analisar questões suscitadas pela parte ora agravada, relevantes ao tema do reembolso, inclusive sobre a possibilidade de sua integralidade.
+É que, como bem delineado na decisão agravada, embora esta Corte Superior de Justiça tenha firmado entendimento no sentido de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp .459.849/ES, julgado em 14/10/2020, DJe de 17/12/2020) , hipóteses nas quais, em regra, "o reembolso poderá ser limitado aos preços e às tabelas efetivamente contratados com o plano de saúde" (AgInt no REsp 1.946.918/SP, Terceira Turma, DJe de 25/5/2022; AgInt no AREsp 1.489.704/SP, Quarta Turma, julgado em 30/11/2020, DJe de 18/12/2020), não analisou especificamente a disponibilidade, dentro da rede credenciada, do tratamento prescrito .
+E a Terceira Turma realizou a distinção da hipótese tratada na referida orientação jurisprudencial com as situações em que se caracteriza a inexecução do contrato pela operadora, causadora de danos materiais ao beneficiário, a ensejar o direito ao reembolso integral das despesas realizadas:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. CIRURGIA DE EMERGÊNCIA REALIZADA FORA DA REDE CREDENCIADA. RECUSA INDEVIDA DE COBERTURA PELA OPERADORA DO PLANO DE SAÚDE. PROCEDIMENTO CUSTEADO PELA BENEFICIÁRIA. OBRIGAÇÃO DE REEMBOLSO PELA OPERADORA. INDENIZAÇÃO PELO DANO MATERIAL. DIREITO DA BENEFICIÁRIA AO REEMBOLSO INTEGRAL. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. JULGAMENTO: CPC/2015.
+1. Ação de obrigação de fazer c/c compensação por dano moral ajuizada em 28/10/2014, da qual foi extraído o presente recurso especial, interposto em 17/04/2019 e atribuído ao gabinete em 02/10/2019.
+2. O propósito recursal é decidir sobre: (i) a negativa de prestação jurisdicional; (ii) a obrigação de a operadora de plano de saúde reembolsar os valores despendidos com a realização de cirurgia buco-maxilo-facial; (iii) o valor a ser reembolsado.
+3. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. A Segunda Seção decidiu que o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento (EAREsp 1.459.849/PR, julgado em 14/10/2020).
+5. Se o requerimento para a realização de procedimento cirúrgico de emergência coberto pelo contrato não é deferido no prazo regulamentar ou se é indeferido indevidamente, não há outra opção para o beneficiário que se encontra em iminente risco de lesão grave à saúde senão a de buscar realizá-lo por conta própria, custeando o tratamento, se possível, ou buscando o SUS, se necessário.
+6. O reembolso previsto no art. 12, VI, da Lei 9.656/1998 é obrigação cuja fonte é o próprio contrato, cabível nos casos de atendimento de urgência ou emergência, quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras; o reembolso integral, como pleiteado pela beneficiária e determinado pelo Tribunal de origem, constitui obrigação diversa, de natureza indenizatória, cuja fonte é a inexecução do contrato, e visa, na realidade, a reparação do
+consequente dano material suportado.
+7. Hipótese em que, tendo sido a beneficiária obrigada a pagar todos os custos da cirurgia de emergência, após a recusa manifestamente indevida de cobertura pela operadora de plano de saúde, em flagrante desrespeito à obrigação assumida no contrato, faz jus ao reembolso integral, a título de indenização pelo dano material.
+8. Em virtude do exame do mérito, por meio do qual foram rejeitadas as teses sustentadas pela recorrente, fica prejudicada a análise da divergência jurisprudencial.
+9. Recurso especial conhecido e desprovido. (REsp n. 1.840.515/CE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/11/2020, DJe de 1/12/2020.)
+Desse modo, verificar a disponibilidade do tratamento na rede credenciada, de forma a configurar ou não a inexecução contratual, é matéria relevante à solução da lide, tendo a Corte de origem se omitido neste exame.
+Caracterizada a omissão, é mesmo o caso de retorno dos autos à origem para analisar tais temas.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
