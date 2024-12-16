@@ -1,0 +1,34 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local no Agravo em Execução n. 0730867-94.2022.8.07.0000.
+Nas razões recursais, o Parquet aponta violação do art. 66, I, da Lei de Execução Penal, ao argumento de não ser possível "a aplicação retroativa de novo entendimento jurisprudencial benigno, fixado em sede de recurso repetitivo, a processos transitados em julgado" (fl. 639).
+Requer o provimento do recurso, para afastar a aplicação retroativa da nova orientação jurisprudencial na espécie.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 674-680).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o recorrido foi condenado pela prática do delito previsto no art. 155, §§ 1º e 4º, I, IV, do Código Penal. A sentença transitou em julgado para a defesa em 18/11/2016.
+O Juízo da Execução penal indeferiu o pedido de aplicação de nova orientação jurisprudencial, referente ao Tema n. 1.087/STJ julgado sob o rito os Recursos Repetitivos, em 25/5/2022. Todavia, o Tribunal de origem deu provimento ao agravo em execução defensivo para decotar a majorante do repouso noturno na forma qualificada do furto.
+No caso, verifico que, ao tempo do trânsito em julgado da condenação, o entendimento não era consolidado e as Turmas da Terceira Seção do Superior Tribunal de Justiça entendiam pela possibilidade de aplicação da causa de aumento do repouso noturno na hipótese de furto qualificado.
+Decerto que esse entendimento foi superado pela atual compreensão pelo afastamento da referida causa de aumento quando o delito praticado for o do art. 155, § 1º, do CP.
+Tanto a jurisprudência do STJ como a do STF se consolidaram na direção de que não é admissível a utilização da revisão criminal para reconhecer a ultratividade da jurisprudência benéfica, de modo a modificar a situação delineada para o condenado conforme o pensamento da época da condenação.
+No STJ: "Segundo entendimento pacífico desta Corte, não se admite o ajuizamento de revisão criminal fundada em mudança de entendimento jurisprudencial superveniente ao trânsito em julgado de decisão, sentença ou acórdão, devendo a irresignação ser encaminhada ao Juízo das Execuções Penais" (AgRg no HC n. 703.269/DF, Rel. Ministro Joel Ilan Paciornik, DJe 4/4/2022).
+No STF: "A inadmissão da Revisão Criminal em razão de meras variações jurisprudenciais, ressalvadas situações excepcionais de abolitio criminis ou declaração de inconstitucionalidade de dispositivos legais (inclusive incidenter tantum), é historicamente assentada por esta Corte (RE 113601, Primeira Turma, Rel. Min. Moreira Alves, j. 12/06/1987; RvC 4645, Tribunal Pleno, Rel. Min. Néri da Silveira, j. 01/04/1982)" (RvC nº 5.457/SP-AgR, Tribunal Pleno, Relator o Ministro Luiz Fux, DJe de 11/10/17)" (HC n. 153.805 AgR/SC, Rel. Ministro Dias Toffoli, DJe 17/10/2018).
+No mesmo sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA REVISÃO CRIMINAL. MUDANÇA JURISPRUDENCIAL. NÃO CABIMENTO DA REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A mudança ou modificação na orientação jurisprudencial, mesmo que favorável ao condenado, não autoriza o uso da revisão criminal, conforme firme entendimento desta Corte e do Supremo Tribunal Federal.
+2. Agravo regimental não provido.
+(AgRg nos EDcl na RvCr n. 5.544/DF, Rel. Ministro Rogerio Schietti, 3ª S., DJe 17/8/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE ENTORPECENTES. PLEITO DE RECONHECIMENTO DA REDUTORA DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. REVISÃO CRIMINAL. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+IV - Consoante entendimento jurisprudencial, tanto do STJ quanto do STF, não se presta à desconstituição do trânsito em julgado eventual mudança de orientação jurisprudencial, como ocorreu no presente caso, dado que, à época da condenação transitada em julgado, a jurisprudência deste Tribunal era no sentido que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006". Precedentes. Agravo regimental desprovido .
+(AgRg no HC n. 760.139/ES, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 29/11/2022, grifei).
+Assim, na hipótese dos autos, há de prevalecer o entendimento jurisprudencial vigente à época do julgamento da apelação defensiva, segundo o qual incidia a causa de aumento de cometimento do furto no período noturno sobre a sua forma qualificada.
+Confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. FURTO QUALIFICADO MAJORADO. PLEITO DE EXCLUSÃO DA CAUSA DE AUMENTO DE PENA DO REPOUSO NOTURNO. ATO IMPUGNADO NA INICIAL DESTE FEITO: ACÓRDÃO PROFERIDO EM REVISÃO CRIMINAL. SUPERVENIENTE MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL QUE NÃO AUTORIZA, POR SI SÓ, A DESCONSTITUIÇÃO DOS EFEITOS DA COISA JULGADA. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Novo entendimento jurisprudencial, firmado após o trânsito em julgado da condenação, ainda que mais benéfico ao Réu, não autoriza, por si só, a revisão do édito condenatório. Precedentes.
+2 . É certo que, em julgamento qualificado concluído em 25/05/2022 do REsp n. 1.888.756/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, a Terceira Seção do Superior Tribunal de Justiça, em overruling, passou a compreender que a majorante do art. 151, § 1.º, do Código Penal é incompatível com a forma qualificada do delito de furto.
+Ocorre que, quando do julgamento da apelação (09/12/2021), havia consenso em ambas as Turmas da Terceira Seção deste Sodalício quanto à plena possibilidade de aplicação da causa de aumento do repouso noturno ao furto qualificado. Correta a conclusão da Corte local, portanto, de que o pedido de revisional lá formulado não pode ser acolhido.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 811.636/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023, destaquei)
+À vista do exposto, dou provimento ao recurso especial, para restabelecer a decisão do juízo da execução, que negou a aplicação retroativa da nova orientação jurisprudencial.
+Publique-se e intimem-se.
+EMENTA
