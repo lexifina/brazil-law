@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, dar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Ausente, justificadamente, o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. INAPLICABILIDADE DA SÚMULA N. 13 DO STJ. ALEGADA DIVERGÊNCIA JURISPRUDENCIAL ENTRE TRIBUNAIS DISTINTOS. REXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Inaplicável ao caso o óbice da Súmula n. 13 do STJ, visto que o agravante trouxe, como paradigma para apontar a divergência jurisprudencial, acórdão prolatado pelo TRF-4, sendo que o presente processo foi julgado pelo TJSP.
+2. Hipótese em que a controvérsia foi resolvida à luz do conjunto fático-probatório do caso, sendo certo que não há como acolher a tese recursal, de modo a se aferir a ilegalidade da multa aplicada, em face do óbice contido na Súmula n. 7 do STJ.
+3. Agravo interno provido para afastar o óbice da Súmula n. 13 do STJ, e não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno (fls. 491-498) interposto por LATICÍNIOS BELA VISTA S.A. contra decisão da Presidência do STJ, que conheceu do agravo para não conhecer do recurso especial, ao entendimento de que incidia no caso a Súmula n. 13 do STJ, tendo em vista que o recorrente interpusera o recurso especial com fundamento na alínea "c" do art. 105, III da CF, mas apontara divergência entre julgados da mesma corte.
+Sustenta a parte agravante que a divergência jurisprudencial exposta envolveu precedentes de dois tribunais distintos, sendo eles o Tribunal de Justiça do Estado de São Paulo (TJSP) e o Tribunal Regional Federal da 4ª Região (TRF-4), relativa à correta aplicação do art. 257, § 4º, do Código de Trânsito Brasileiro.
+Não foram apresentadas contrarrazões ao agravo interno (fl. 506).
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. INAPLICABILIDADE DA SÚMULA N. 13 DO STJ. ALEGADA DIVERGÊNCIA JURISPRUDENCIAL ENTRE TRIBUNAIS DISTINTOS. REXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Inaplicável ao caso o óbice da Súmula n. 13 do STJ, visto que o agravante trouxe, como paradigma para apontar a divergência jurisprudencial, acórdão prolatado pelo TRF-4, sendo que o presente processo foi julgado pelo TJSP.
+2. Hipótese em que a controvérsia foi resolvida à luz do conjunto fático-probatório do caso, sendo certo que não há como acolher a tese recursal, de modo a se aferir a ilegalidade da multa aplicada, em face do óbice contido na Súmula n. 7 do STJ.
+3. Agravo interno provido para afastar o óbice da Súmula n. 13 do STJ, e não conhecer do recurso especial.
+VOTO
+No que tange à a argumentação acerca da não incidência da Súmula n. 13 do STJ no presente caso, entendo que assiste razão ao agravante.
+Isto porque, de fato, em seu recurso especial, trouxe, como paradigma para apontar a divergência jurisprudencial, acórdão prolatado pelo TRF-4, sendo que o presente processo foi julgado pelo TJSP.
+Assim sendo, inaplicável ao caso a Súmula n. 13 do STJ, que preceitua o seguinte "a divergência entre julgados do mesmo tribunal não enseja recurso especial".
+Contudo, ainda que superado tal óbice, entendo que não merece conhecimento o recurso especial interposto, como será exposto a seguir.
+Trata-se, na origem, de ação anulatória proposta pela ora agravante contra o DER/SP- Departamento de Estradas de Rodagem do Estado de São Paulo objetivando, em suma, anulação das multas aplicadas por tráfego de caminhão com excesso de peso.
+Aduz o recorrente, em suma, que a autoridade fiscalizadora não efetua a medição da carga transportada em si e não utiliza nenhum método de dedução da tara do veículo para efeitos de comparação, não sendo assim possível verificar que o peso aferido no ato da fiscalização é inferior ao declarado em nota fiscal pela autora, de forma que devem ser anuladas as autuações.
+Contudo, ao compulsar o acórdão atacado pelo apelo nobre, verifica-se que o Tribunal de origem decidiu pela legalidade do auto de infração, dentre outros aspectos, com base em uma argumentação específica que constava da sentença de primeiro grau, a qual sobreleva destacar (fl. 286):
+Verifica-se dos autos de infração colacionados que há informação precisa quanto ao modelo dos veículos. Ciente de que a legislação supracitada exige que o peso do veículo esteja em local de fácil visualização, a fim de permitir que o fiscal faça a dedução da tara ao conferir o valor declarado em nota, além da presunção de legalidade e legitimidade do ato administrativo, e embora a autora não tenha informado a tara de cada um dos veículos autuados, a ré informou que consultou os dados técnicos de cada veículo e demonstrou que estes foram considerados quando das autuações impugnadas, conforme cálculo demonstrativo de fl. 259.
+Com efeito, havendo excesso decorrente da lotação, a responsabilidade por este recai sobre a autora, na qualidade de embarcadora.
+Portanto, diferentemente do que aduz o recorrente, os dados de cada veículo foram considerados quando das autuações impugnadas, de forma que não ficou comprovado nos autos que o recorrido deixou de considerar a tara do veículo.
+De se notar, portanto, que a controvérsia foi resolvida à luz do conjunto fático-probatório do caso, sendo certo que não há como acolher a tese recursal, de modo a se aferir a ilegalidade da multa aplicada, e se a tara do veículo foi ou não considerada quando da autuação, em face do óbice contido na Súmula n. 7 do STJ.
+Nessa linha de raciocínio, destaco precedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ADUANEIRO. NÃO PRESTAÇÃO DE INFORMAÇÃO SOBRE VEÍCULO OU CARGA TRANSPORTADA. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. O Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que: a) não só o transportador, mas também o agente de carga (pessoa que, em nome do importador ou do exportador, contrate o transporte de mercadoria, consolide ou desconsolide cargas e preste serviços conexos) também fica obrigado a informar à Receita Federal a carga transportada, não havendo, pois, que se falar em ilegitimidade da parte autora; b) a declaração do embarque das mercadorias é obrigação acessória e sua apresentação intempestiva caracteriza infração formal, cuja penalidade não é passível de ser afastada pela denúncia espontânea.
+2. A fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sob o ponto. Aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. A insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada. Incide na espécie, por analogia, o princípio estabelecido na Súmula 284/STF.
+4. Ademais, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial." 5. Agravo Interno não provido. (AgInt no REsp n. 1.613.696/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/4/2017).
+Ante o exposto, DOU PROVIMENTO ao agravo para afastar o óbice da Súmula n. 13 do STJ e NÃO CONHECER do recurso especial.
+É como voto.
