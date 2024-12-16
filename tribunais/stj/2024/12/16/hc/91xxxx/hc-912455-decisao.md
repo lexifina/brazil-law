@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOÃO PEDRO DA CRUZ em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO .
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão no regime semiaberto como incurso nas sanções do art. 35 c/c 40, VI, da Lei n. 11.343/2006.
+O impetrante sustenta, em síntese, que não houve fundamentação idônea para a fixação do regime inicial mais gravoso.
+Requer, liminarmente e no mérito, que seja fixado o regime aberto.
+O Ministério Público manifestou-se pela denegação da ordem.
+É o relatório.
+Este Tribunal Superior firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Verificam-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Ademais, no caso em exame, não se constata a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+A respeito da dosimetria da pena, consta da sentença (fl. 51):
+Do réu JOÃO PEDRO.
+A culpabilidade do réu situa-se acima da média, na medida em que a prova demonstrou que praticava o tráfico de forma reiterada (cocaína e maconha) e detinha o controle da ação dos demais membros da organização. Exercia, pois, papel de destaque e liderança no tráfico de drogas na cidade de Quatã. Tendo isso em conta, sopesando as circunstâncias judiciais do artigo 59 do Código Penal e do artigo 42 da Lei nº 11.343/06 (natureza e quantidade de droga comercializada pelo réu  maconha e cocaína), tenho por bem em aumentar a pena base em um sexto, a totalizar 3 (três) anos e 6 (seis) meses de reclusão, bem como 816 (oitocentos e dezesseis) dias-multa. A seguir, por conta da menoridade do ré circunstância atenuante, a pena é reduzida ao mínimo legal de 3 (três) anos de reclusão, bem como 700 (setecentos) dias-multa. A seguir, com fulcro no artigo 40, VI, da Lei nº 11.343/06, a pena é aumenta de mais um sexto, a totalizar 3 (três) anos e 6 (seis) meses de reclusão, bem como 816 (oitocentos e dezesseis) dias-multa. Considerando que o réu exercia atividade de liderança no tráfico, que envolvia menores, entendo como não recomendável a substituição da pena privativa de liberdade por restritiva de direito. Ausentes os efeitos da reincidência criminal, fixo o regime semiaberto para início do cumprimento da pena privativa de liberdade.
+O acórdão está assim fundamentado (fl. 68):
+Correto, ademais, o regime prisional fechado em função da hediondez do delito de tráfico de drogas e necessidade de uma resposta penal rigorosa do Poder Judiciário em razão da grave lesão que causa à saúde pública, bem como pela intranquilidade e insegurança que traz para a sociedade atual. Ademais, somente o regime fechado se mostra suficiente para a prevenção da prática de crimes e reprovação de conduta criminosa, aspectos que norteiam também a fixação do regime prisional, artigo 59, inciso III, do Código Penal. Assim, inexiste qualquer ilegalidade em se fixar o regime mais gravoso para início do cumprimento da privativa de liberdade em delitos envolvendo o tráfico de drogas, não causando ofensa às Súmulas 718 e 719 do E. STF e 440 do STJ, uma vez que os fatos e circunstâncias do caso em concreto não recomendam a adoção de regime prisional mais brando, sobretudo para não criar afrouxamento excessivo e intolerável estímulo ao criminoso, fazendo crescer em seu espírito a equivocada sensação de ilusória impunidade. Fica desta forma mantido o regime fechado quanto ao delito de tráfico de drogas para cumprimento das penas privativas de liberdade infligidas aos apelantes.
+Como se observa, as instâncias ordinárias consideraram adequada a fixação do regime mais gravoso (semiaberto), em razão da presença de circunstância judicial negativa, destacando, a propósito, que o réu "exercia, pois, papel de destaque e liderança no tráfico de drogas na cidade de Quatã".
+Assim, o regime inicial adequado é o semiaberto, nos termos dos arts. 33, § 3º, e 59 do Código Penal, na esteira dos seguintes precedentes desta Corte Superior (grifo próprio):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PRETENSÃO DE ALTERAÇÃO DO REGIME PRISIONAL. REVISÃO CRIMINAL. HIPÓTESES EXCEPCIONAIS. NÃO CABIMENTO COMO NOVA APELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão criminal não deve ser usada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, a dispensar a interpretação ou a análise subjetiva das provas produzidas.
+2. O "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/2/2016).
+3. A questão relativa ao regime prisional não foi prequestionada na instância de origem. O STJ exige o requisito do prequestionamento mesmo para a matérias tidas como de ordem pública.
+4. Ademais, não se verifica ilegalidade flagrante, pois, consoante entendimento desta Corte Superior de Justiça, a fixação da pena-base no mínimo legal não impede a aplicação de regime mais gravoso, desde que devidamente justificado nas peculiaridades do caso analisado, tal como ocorreu na hipótese dos autos, em que se baseou na quantidade relevante de drogas.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.211.036/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/8/2024, DJe de 19/8/2024.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. REGIME INICIAL DE CUMPRIMENTO DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MAUS ANTECEDENTES, CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME. AUSÊNCIA DE ILEGALIDADE. ORDEM NÃO CONHECIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em substituição a recurso próprio, visando a alteração do regime prisional de semiaberto para aberto, alegando constrangimento ilegal.
+2. O paciente foi condenado por furto qualificado, com pena redimensionada em apelação para 2 anos e 8 meses de reclusão em regime semiaberto.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é cabível o habeas corpus como substitutivo de recurso próprio para alterar o regime prisional, diante de alegado constrangimento ilegal. III. RAZÕES DE DECIDIR
+4. O habeas corpus não é cabível como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+5. Não se verifica flagrante ilegalidade ou constrangimento ilegal que justifique a concessão da ordem de ofício.
+6. No caso, a existência de circunstâncias judiciais negativas (culpabilidade, maus antecedentes e circunstâncias do crime)
+permitem a fixação de regime inicial mais gravoso, consoante a jurisprudência desta Corte.
+IV. HABEAS CORPUS NÃO CONHECIDO
+(HC n. 836.284/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
