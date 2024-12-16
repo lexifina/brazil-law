@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RESIDENCIAL NUNES DE MORAIS EMPREENDIMENTOS LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/08/2024.
+Concluso ao gabinete em: 12/11/2024.
+Ação: cominatória c/c indenizatória ajuizada por ROGERIO RODRIGUES DE MELO em face da agravante e ação anulatória ajuizada pela agravante em face de IMOBILIARIA SAO SEBASTIAO LTDA, RICARDO RODRIGUES DE MELO e ROGERIO RODRIGUES DE MELO, julgadas conjuntamente.
+Sentença: julgou improcedente a ação anulatória e procedente a cominatória, para determinar a escrituração dos bens imóveis descritos nos autos, bem como condenar a agravante ao pagamento de indenização por danos morais no valor de R$ 10.000,00 (dez mil reais) (e-STJ, fls. 1119).
+Acórdão: negou provimento às apelações interpostas pela agravante e por ROGERIO RODRIGUES DE MELO, nos termos da seguinte ementa (e-STJ, fls. 1232):
+EMENTA: DUPLA APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA . AÇÃO COMINATÓRIA. JULGAMENTO CONJUNTO. COAÇÃO. VÍCIO DE VONTADE NÃO DEMONSTRADO. ERRO DE PROCEDIMENTOS. AUSÊNCIA DE SUPRESSÃO PROCEDIMENTAL. SENTENÇA FUNDAMENTADA. JUROS CAPITALIZADOS NÃO DEMONSTRADOS. CONTRATO VÁLIDO. DANOS MORAIS. VALOR RAZOÁVEL E PROPORCIONAL. RELAÇÃO CONTRATUAL. JUROS DE MORA A PARTIR DA CITAÇÃO. HONORÁRIOS SUCUMBENCIAIS. PERCENTUAL CONDIZENTE COM A SITUAÇÃO ENCONTRADA. 1- A coação é matéria de ordem pública, mas deve estar efetivamente demonstrado que a parte sofreu ameaça irresistível que traga justo receio de grave prejuízo a sua pessoa, seus bens , sua família, o que não restou comprovado nos autos. 2- Erro de procedimento . Foram seguidos os procedimentos corretos pelo juízo de 1º grau , não havendo nos autos nenhuma supressão procedimental que devesse incidir no caso. 3- A sentença foi bem fundamentada, sem vício substancial que afete o conteúdo da mesma. 4- Configurado o dano moral e, portanto, em dever de indenizar por dano extrapatrimonial, atento às peculiaridades do caso concreto, especialmente quanto à conduta da empresa ré, o valor de R$10.000,00 (dez mil reais) encontra-se razoável e proporcional. 5- Tratando-se de relação contratual, os juros de mora contam-se desde a citação inicial, nos termos do disposto no artigo 405 do Código Civil. 1ª APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. 2ª APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 11, 489, §1º, IV, e 1.022, I e II, todos do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, também defende a atribuição de efeito suspensivo ao recurso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, sobre a forma de pagamento prevista em contrato, inclusive, com reprodução literal dos termos contratuais (e-STJ, fls. 1226), bem como concluiu pela inexistência de provas acerca da alegada incidência de juros capitalizados, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, na extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 1229) para 18%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. AÇÃO ANULATÓRIA. JULGAMENTO CONJUNTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação cominatória c/c indenizatória e ação anulatória, julgadas conjuntamente.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, na extensão, não provido.
