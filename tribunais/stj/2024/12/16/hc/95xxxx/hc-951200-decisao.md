@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCOS ADRIANO MONTEIRO DALSASSO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA na Apelação n. 0000697-25.2019.8.24.0062.
+Consta dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime semiaberto, pela prática do crime previsto no art. 33, caput, e art. 40, III, ambos da Lei n. 11.343/06 e em 15 (quinze) dias de detenção, em regime aberto, por infração do art. 330, caput, do Código Penal.
+O Tribunal local negou provimento ao apelo defensivo (fls. 07-31).
+Neste writ, a defesa sustenta constrangimento ilegal em razão da ausência de fundamentação idônea para justificar o afastamento da redutora do tráfico privilegiado.
+Assevera violação ao entendimento firmado pela 3ª Seção do STJ no Tema Repetitivo n. 1.139, que veda a utilização de ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/06.
+Acrescenta que, ainda que o entendimento tenha sido firmado após a data do acórdão, já existiam, àquele tempo, julgados nesse mesmo sentido proferidos pelo STJ e pelo Supremo Tribunal Federal.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus para que seja aplicada a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, em sua fração máxima.
+Liminar indeferida às fls. 56-57.
+Informações prestadas às fls. 65-69.
+Parecer do MPF às fls. 71-74, opinando pela concessão da ordem.
+É o relatório.
+Decido.
+O Tribunal de origem manteve o afastamento da redutora prevista no art. 33, § 4º, da Lei n. 11.343/2006 assente nos seguintes fundamentos (fl. 30):
+Como pontuado na sentença, a circunstância de responder outro processo por fatos anteriores e pela prática também do crime de tráfico de drogas (autos n. 0000223-54.2019.8.24.0062) caracteriza a dedicação à atividade criminosa, ainda que não sirva para configuração dos maus antecedentes ou reincidência, de modo que resta impedida a aplicação da minorante em exame.
+Nessa toada: "Segundo entendimento do Superior Tribunal de Justiça "embora a existência de inquéritos e ações penais em andamento não maculem os antecedentes criminais do acusado, por expressa disposição da Súmula 444 do STJ, constitui circunstância apta, em princípio, a evidenciar a dedicação a atividades criminosas, salvo hipóteses excepcionais" (HC 358.417/RS, Rel. P/ Acórdão Nefi Cordeiro, j. em 20/09/2016). Assim, a existência de ação penal em andamento, em tese, pela prática do crime de tráfico de drogas praticado anterior aos fatos revelam a dedicação do acusado às atividades criminosas, circunstância que torna incabível a aplicação da causa especial de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/06". (TJSC, Apelação Criminal n. 0004074-92.2017.8.24.0023, da Capital, rel. Des. Luiz Neri Oliveira de Souza, Quinta Câmara Criminal, j. 14-02-2019 - grifou-se).
+O Superior Tribunal de Justiça ao decidir o REsp n. 1977027/PR, em 18/08/2022, editou o Tema Repetitivo n. 1.139, fixando a seguinte tese:
+É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/06.
+Ocorre que acórdão impugnado transitou em julgado em 29/01/2021 (fl. 68), período anterior ao julgamento do Tema Repetitivo 1.139/STJ, sobre égide de entendimento jurisprudencial diverso:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PLEITO DE RECONHECIMENTO DA REDUTORA DO TRÁFICO PRIVILEGIADO. AÇÃO PENAL EM CURSO. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. RECENTE ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL.. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1- No caso, a condenação da paciente transitou em julgado em 18/2/2017, tendo sido a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06 fundada na existência de uma ação penal em curso contra a paciente por tráfico de entorpecentes, sem condenação definitiva.
+2- À época da prolação da sentença condenatória, bem como de sua ratificação pelo acórdão ora combatido, a jurisprudência dessa Corte era no sentido de que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006" (EREsp 1.431.091/SP. Quinta Turma, Rel. Ministro Felix Fischer, DJe 1º/2/2017).
+3- Apenas mais recentemente tal controvérsia restou pacificada, quando a Terceira Seção desta Corte Superior, em acórdão publicado em 18 de agosto de 2022, de relatoria da Min. Laurita Vaz, fixou, em sede de controvérsia repetitiva, a tese de que "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06". (REsp n. 1.977.027/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 10/8/2022, DJe de 18/8/2022.)
+4- Consoante entendimento jurisprudencial, tanto do STJ quanto do STF, não se presta à desconstituição do trânsito em julgado eventual mudança de orientação jurisprudencial, como ocorreu no presente caso, dado que, à época da condenação transitada em julgado, a jurisprudência deste Tribunal era no sentido que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006". Precedentes.
+5- Agravo regimental improvido.
+(AgRg no HC n. 883.684/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Portanto, ainda que atualmente o entendimento jurisprudencial seja pela impossibilidade de utilizar-se de ação penal em curso para o afastamento do tráfico privilegiado, à época da condenação transitada em julgado, a jurisprudência era em sentido oposto.
+Ante o exposto, denego o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
