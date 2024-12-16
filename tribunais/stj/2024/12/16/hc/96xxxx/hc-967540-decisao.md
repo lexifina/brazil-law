@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de TAINA APARECIDA DIAS NASCIMENTO DE ARAUJO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500700-49.2022.8.26.0318).
+Depreende-se dos autos que a paciente foi condenada, como incursa nas sanções do art. 33 da Lei n. 11.343/2006, à pena de 5 anos de reclusão, a ser cumprida no regime inicial fechado.
+A apelação defensiva foi desprovida pelo Tribunal de origem.
+Daí o presente writ, no qual alega a defesa que a paciente sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, desse modo, inclusive liminarmente, a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, o abrandamento do regime e a substituição da pena.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Essa é a situação dos autos, na qual vislumbro flagrante ilegalidade apta a atrair a concessão da ordem de ofício.
+Isso porque, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+No caso, acerca da controvérsia, consta do acórdão impugnado o seguinte (e-STJ fl. 43):
+Malgrado o reclamo da defesa, não era mesmo hipótese de aplicar-se o redutor do § 4º, art. 33, da Lei nº 11.343/06, que é facultativo e não obrigatório, cabendo ao magistrado ponderar o comportamento do réu para sua aplicação. As peculiaridades do caso demonstram que a acusada, embora primária e sem antecedentes, não era uma neófita na prática delitiva e na mercancia de drogas, do contrário não estaria na posse de tão expressiva quantidade de entorpecentes, bem como de balança de precisão e cápsulas plásticas vazias (petrechos utilizados na traficância), deixando clara sua vinculação com alguma organização criminosa e dedicação a atividades delituosas, não fazendo jus à benesse.
+Como se vê, é evidente o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, na fração de 2/3, a pena da paciente deve ser reduzida para 1 ano e 8 meses de reclusão.
+No caso em análise, a natureza e a quantidade dos entorpecentes apreendidos - consideradas para exasperar a pena-base - justificam a fixação do regime mais gravoso do que aquele previsto para o quantum de pena aplicado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. INADMISSÃO DO RECURSO ESPECIAL DEVIDAMENTE IMPUGNADA. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4º, DA LEI DE DROGAS. MULA. EXPRESSIVA QUANTIDADE DE DROGAS. APLICAÇÃO. POSSIBILIDADE. FRAÇÃO DE 1/6. ILEGALIDADE. OCORRÊNCIA. REDIMENSIONAMENTO. NECESSIDADE. AGRAVO PROVIDO.
+1. Haja vista que os fundamentos da decisão de inadmissão do recurso especial foram devidamente impugnados, o agravo deve ser conhecido.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6.
+3. Tendo sido fixada a pena-base no mínimo legal, sem agravantes e atenuantes, a pena deve majorada em 1/6, em razão de o delito ter sido praticado dentro de transporte público, e reduzida em 1/6, pela aplicação da minorante do Tráfico privilegiado, reduzindo a reprimenda para 4 anos e 10 meses e 10 dias, além de 485 dias-multa.
+4. Considerada a fundamentação concreta trazida pelo Tribunal de origem, referente à grande quantidade de droga apreendida - 1 kg de cocaína -, deve ser fixado o regime imediatamente mais gravoso, o fechado.
+5. Não é cabível a substituição da pena privativa de liberdade por restritivas de direitos, haja vista o quantum da pena aplicada, nos termos do art. 44, inciso I, do Código Penal.
+6. Agravo regimental provido para fixar a pena da recorrente DEBORA SILVA PINTO em 4 anos, 10 meses e 10 dias de reclusão, em regime fechado, além do pagamento de 485 dias-multa.
+(AgRg no AREsp n. 1.711.745/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/11/2020, DJe 20/11/2020, grifei.)
+Por derradeiro, rememoro que, nos moldes da jurisprudência do Superior Tribunal de Justiça, a "circunstância concreta relacionada à quantidade, natureza e diversidade das drogas apreendidas, é motivação suficiente para impedir a substituição da pena privativa pelas restritivas de direitos" (AgRg no AREsp n. 1.060.222/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 12/9/2017, DJe 20/9/2017).
+Ante o exposto, não conheço do presente habeas corpus. Contudo, concedo a ordem de ofício, a fim de, reconhecendo a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, reduzir a pena da paciente para 1 ano e 8 meses de reclusão, a ser cumprida no regime inicial semiaberto, vedada a substituição da pena.
+Publique-se. Intimem-se.
+EMENTA
