@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de RAFAEL GOMES DE CARVALHO - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação Criminal n. 1500196-70.2020.8.26.0073), não comporta acolhimento.
+Insurge-se a impetração contra a condenação imposta ao paciente pelo Juízo de Direito da 2ª Vara Criminal da comarca de Avaré/SP, e mantida pela Corte estadual, ao argumento de que cabível no caso a minorante referente ao tráfico privilegiado, pois afastada a associação ao tráfico de drogas e estabelecida a reprimenda no mínimo legal, tendo em vista que a natureza e a quantidade do entorpecente apreendido (4 porções de maconha: 19 gramas aproximadamente) não se revelam exorbitantes (fl. 5). Postula, também, a alteração do regime inicial para o aberto e/ou semiaberto, bem como substituição da reprimenda corporal por pena restritiva de direitos (fl. 4).
+De início, observo que o writ foi indevidamente utilizado como espécie de "segunda apelação criminal"  em especial considerando o julgamento da apelação criminal perante a Corte estadual em 21/11/2022  , dirigida a uma Corte de Precedentes, o que é inadmissível.
+Ademais, os fatos narrados não se mostram com a nitidez imprimida na inicial, uma vez que se extrai do acórdão a quo que, conforme sobejamente demonstrado, pois, quanto a Rafael, tão somente a prática da narcotraficância, desde antes da data de sua prisão, daí porque não há que se falar em aplicação do parágrafo 4º do artigo 33, uma vez que ele não preenche o terceiro requisito deste dispositivo (fl. 112).
+Assim, desconstituir as conclusões alcançadas pelo Tribunal a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada na via eleita.
+Ressalte-se que a dosimetria da pena não se vincula a um critério puramente matemático, devendo ser respeitada a discricionariedade regrada do julgador.
+Por fim, também cabe à defesa, em observância ao princípio da cooperação, aplicável não só na seara cível, mas, no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pena de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO. APELAÇÃO CRIMINAL JULGADA EM 22/11/2022. UTILIZAÇÃO INDEVIDA DO WRIT. CONSTRANGIMENTO ILEGAL . AUSÊNCIA.
+Ordem denegada.
