@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, cuja controvérsia cinge-se ao cômputo do tempo de serviço especial de contribuinte individual.
+Passo a decidir.
+A Primeira Seção afetou a seguinte questão jurídica para julgamento pela sistemática dos recursos repetitivos:
+Definir se há possibilidade de reconhecimento, como especial, da atividade exercida pelo contribuinte individual não cooperado após 29/04/1995, à luz do disposto no art. 22, II, da Lei n. 8.212/1991 e nos arts. 11, V, "h", 14, I, parágrafo único, 57, caput, §§ 3º, 4º, 5º, 6º e 7º, e 58, caput, §§ 1º e 2º, da Lei n. 8.213/1991.
+Para esse fim, foram escolhidos os Recursos Especiais 2.163.429/RS e 2.163.998/RS, de minha relatoria, conforme afetação finalizada na sessão de 08/10/2024, publicada no DJe de 06/11/2024 (Tema 1.291).
+Assim, encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp 2.079.384/PR, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022; EDcl no AgInt no REsp 2.000.033/DF, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/12/2022, DJe de 12/12/2022; e EDcl no AgInt no REsp 2.003.948/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
