@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. CONJUNTO PROBATÓRIO QUE INDICA A EFETIVA PRÁTICA DOS DELITOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. SEDE INADEQUADA. ÓBICES DAS SÚMULAS 7 e 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, no qual se busca a absolvição dos crimes de tráfico de drogas e associação para o tráfico, ou a desclassificação para uso pessoal.
+2. Fato relevante. Os recorrentes foram condenados com base em provas testemunhais, especialmente depoimentos de policiais militares, que indicaram a prática de tráfico de drogas e associação para o tráfico, com estabilidade e permanência.
+3. As decisões anteriores. O Tribunal de origem manteve a condenação, entendendo que as provas eram suficientes para demonstrar a autoria e materialidade dos crimes.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se as provas apresentadas, especialmente os depoimentos dos policiais, são suficientes para a condenação por tráfico de drogas e associação para o tráfico, e se é possível a desclassificação para uso pessoal sem revolvimento fático-probatório.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do STJ considera idôneos os depoimentos de policiais para a condenação, quando em harmonia com as demais provas e colhidos sob o crivo do contraditório e ampla defesa.
+6. A configuração do crime de associação para o tráfico exige dolo associativo estável e permanente, o que foi demonstrado no caso concreto pelo conjunto probatório.
+7. A desclassificação para uso pessoal não é possível ante a forma de acondicionamento das drogas, aliada às demais provas.
+8. O pedido de absolvição dos crimes ou de desclassificação da conduta demandariam revolvimento fático-probatório, e não questões de direito ou de má aplicação da lei federal.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelos ora agravantes.
+Contraminuta apresentada, em que a parte recorrida postula o não conhecimento do recurso ou o seu desprovimento.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. CONJUNTO PROBATÓRIO QUE INDICA A EFETIVA PRÁTICA DOS DELITOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. SEDE INADEQUADA. ÓBICES DAS SÚMULAS 7 e 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, no qual se busca a absolvição dos crimes de tráfico de drogas e associação para o tráfico, ou a desclassificação para uso pessoal.
+2. Fato relevante. Os recorrentes foram condenados com base em provas testemunhais, especialmente depoimentos de policiais militares, que indicaram a prática de tráfico de drogas e associação para o tráfico, com estabilidade e permanência.
+3. As decisões anteriores. O Tribunal de origem manteve a condenação, entendendo que as provas eram suficientes para demonstrar a autoria e materialidade dos crimes.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se as provas apresentadas, especialmente os depoimentos dos policiais, são suficientes para a condenação por tráfico de drogas e associação para o tráfico, e se é possível a desclassificação para uso pessoal sem revolvimento fático-probatório.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do STJ considera idôneos os depoimentos de policiais para a condenação, quando em harmonia com as demais provas e colhidos sob o crivo do contraditório e ampla defesa.
+6. A configuração do crime de associação para o tráfico exige dolo associativo estável e permanente, o que foi demonstrado no caso concreto pelo conjunto probatório.
+7. A desclassificação para uso pessoal não é possível ante a forma de acondicionamento das drogas, aliada às demais provas.
+8. O pedido de absolvição dos crimes ou de desclassificação da conduta demandariam revolvimento fático-probatório, e não questões de direito ou de má aplicação da lei federal.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+O agravo é tempestivo e o agravante impugnou os fundamentos da decisão recorrida, então merece ser conhecido. Os demais requisitos de admissibilidade também estão devidamente preenchidos, visto que a matéria objeto deste recurso está prequestionada, isto é, foi tratada pelo acórdão impugnado.
+A análise das razões motivadas na origem se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula nº 83/STJ, conforme se verifica da fundamentação adotada:
+A prova testemunhal confirmada em juízo demonstra que os policiais militares já vinham acompanhando os Recorrentes, após terem recebido denúncias da comercialização de drogas na residência habitada por eles.
+No dia dos fatos, os militares perceberam que os Recorrentes estavam de mudança, visualizando todos eles num caminhão com seus pertences.
+Insta salientar que a testemunha ouvida em juízo, o policial militar Jefferson Rodrigues Borges, foi firme ao narrar que percebeu quando os Recorrentes dispensaram as drogas, após perceberem a presença da polícia.
+Por sua vez, o policial militar Petrins Sheron Ferreira Cortez afirmou que na mudança haviam pertences de todos os Recorrentes.
+ ..
+Em que pese a argumentação dos Recorrentes de que as quantidades de substância entorpecente apreendidas se destinariam ao próprio consumo, as informações policiais confirmadas em juízo se apresentam em sentido contrário.
+Aliado a isso, tem-se que os interrogatórios dos Recorrentes se apresentaram confusos, não passando de meras tesas defensivas.
+A corroborar, necessário se faz consignar que o crack estava embalado separadamente, pronto para a comercialização.
+ ..
+Por fim, a defesa dos Recorrentes pleiteia a absolvição quanto ao crime de associação ao tráfico de drogas, sustentando também não haver qualquer prova nos autos que indique terem praticado tal crime.
+Todavia, compulsando os autos, denota-se que tanto a materialidade quanto a autoria do crime de associação para o tráfico de drogas também restou devidamente comprovada.
+Em que pese todo o esforço defensivo pela negativa, diante do relato dos policiais militares ficou claro o liame associativo entre os réus, demonstrando assim estabilidade e permanência, quando se uniram, alugando residências para a finalidade do comércio de drogas.
+Importante frisar que para a configuração do crime de associação para o tráfico, o fato deve ser revestido de caráter permanente e duradouro, o que é o caso dos autos. Os Recorrentes já estavam sendo monitorados em razão das inúmeras denúncias recebidas quanto a "boca de fumo" organizada por eles. Portanto, nítida a estabilidade da relação negocial, comprovando a prática do crime de associação ao tráfico de drogas.
+Nesse prisma, insta novamente destacar que os depoimentos dos policiais que participaram das investigações, colhidos em juízo sob o crivo do contraditório e ampla defesa, aliado com o conjunto probatório dos autos, os quais afirmaram a existência de vínculo associativo permanente entre os Recorrentes para o cometimento do crime de tráfico de drogas.
+Sobre o tema, o Juízo a quo ponderou:
+Conforme depoimentos prestados em juízo, bem como através do resultado dos trabalhos investigativos, a despeito da tese defensiva, verifica-se que o vínculo associativo duradouro ficou evidente, haja vista que as provas produzidas indicam que os acusados se organizaram para fins de traficância, tendo ponto exclusivo onde funcionava a boca de fumo, tanto que até mesmo residiam juntos e estavam de mudança para certamente continuarem com as atividades ilícitas em outra localidade.
+Ora, tais elementos constituem meio de prova seguro e incontroverso, no sentido de demonstrar a materialidade delitiva, e a autoria atribuída, não havendo que se falar em ausência ou insuficiência de provas e atipicidade das condutas, uma vez que a estabilidade e a permanência do vínculo associativo, bem como o seu objetivo pré-definido de traficar, são elementos suficientes para configurar a figura típica em referência que é a associação para o tráfico.
+A Lei n. 11.343/2006 estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas, de modo que, em relação ao artigo 33, caput, dispõe, dos seguintes verbos: "Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar. "
+O que avulta do contexto fático delineado pela Corte a quo é a subsunção dos fatos ao crime de tráfico de entorpecentes, pois constam nos autos o auto de prisão em flagrante e os depoimentos testemunhais, em harmonia com as demais provas, sob o crivo do contraditório e da ampla defesa, que demonstram a subsunção dos fatos à hipótese descrita no artigo 33, caput da Lei n. 11.343/2006.
+No mesmo sentido, cite-se o seguinte precedente da Quinta Turma, cujo entendimento se assemelha ao adotado pelo acórdão recorrido, no sentido de que "Firme a jurisprudência desta Corte no sentido de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese."(AgRg no REsp n. 2.099.832/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Veja-se: "O Tribunal de Justiça - TJ, com base nas provas dos autos, entendeu comprovada a conduta criminosa descrita na denúncia, qual seja, a prática do crime de tráfico de drogas, demonstrando provas da autoria e da materialidade delitivas. Desse modo, a revisão da conclusão da instância ordinária para se acatar o pleito de absolvição ou desclassificação da conduta demandaria o necessário revolvimento do conjunto fático-probatório do feito, o que se mostra inviável nesta via especial, nos termos da Súmula n. 7 do STJ." (AgRg no REsp n. 2.099.832/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Quanto à desclassificação para uso, a Lei n. 11.343/2006 não elenca critérios de distinção entre as figuras do usuário e a do pequeno, médio ou grande traficante. Nesse compasso, para a adequada subsunção dos fatos à apropriada hipótese prevista em lei, devem ser levadas em consideração as especificidades fáticas do delito, vale dizer, o contexto em que praticado o crime.
+No caso, dos fatos avaliados pela Corte de origem, denota-se que não não se tratam de condutas de usuários de substância entorpecente, mas a de pessoas que faziam da mercancia de drogas o meio de vida, ante o modo de acondicionamento das drogas, ademais dos depoimentos judiciais.
+Alterar o quadro formado no Tribunal de origem demandaria inviável dilação probatória em recurso especial.
+Quanto à absolvição do crime de associação ao tráfico, o tipo previsto no art. 35 da Lei nº 11.343/2006 se configura quando duas ou mais pessoas se reúnem com a finalidade de praticar os crimes previstos nos art. 33 e 34 da norma referenciada. Indispensável, portanto, o animus associativo de forma estável e duradoura com a finalidade de cometer tais delitos.
+Nesse diapasão: "Para a configuração do delito de associação para o tráfico de drogas é necessário o dolo de se associar com estabilidade e permanência, sendo que a reunião de duas ou mais pessoas sem o animus associativo não se subsume ao tipo do art. 35 da Lei n. 11.343/2006. Trata-se, portanto, de delito de concurso necessário. "(HC 434.880/RJ, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 09/04/2018).
+Ressalte-se ainda que os crimes de associação para o tráfico e tráfico de ilícito de entorpecentes são autônomos, não dependendo a caracterização daquele da efetiva prática de quaisquer das condutas delituosas deste.
+No caso, o Tribunal de origem exarou que os agravantes já estavam sendo monitorados, em razão das inúmeras denúncias recebidas quanto à boca de fumo organizada por eles, bem como "as provas produzidas indicam que os acusados se organizaram para fins de traficância, tendo ponto exclusivo onde funcionava a boca de fumo, tanto que até mesmo residiam juntos".
+Dessa forma, estando demonstrado pelo elenco probatório a associação à estável societas criminis dedicada à prática do tráfico ilícito de entorpecentes, correta a condenação como incurso no art. 35, caput, da Lei n. 11.343/2006, conforme entendimento do STJ.
+Qualquer incursão que escape à moldura fática ora apresenta da não se coaduna com os estreitos limites da via especial.
+Para transcender o óbice da Súmula n. 7/STJ, o agravo precisa demonstrar em que medida as teses não exigiriam a alteração do quadro fático delineado pela Corte local, não bastando a assertiva genérica de que o recurso visa à revaloração das provas, vale dizer, no caso, o pedido de absolvição dos crimes ou de desclassificação, como quer a defesa, demandariam revolvimento fático-probatório, e não questões de direito ou de má aplicação da lei federal.
+Acrescenta-se que a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Não basta, para tanto, a menção superficial à leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação.
+De relevo acentuar que o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+É o voto.
