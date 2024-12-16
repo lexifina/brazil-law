@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME DE FURTO (ART. 155, CAPUT, DO CÓDIGO PENAL). FIXAÇÃO DA PENA-BASE. UTILIZAÇÃO DE CONDENAÇÕES ANTERIORES PARA VALORAR DESFAVORAVELMENTE A PERSONALIDADE DO AGENTE. FLAGRANTE ILEGALIDADE. FIXAÇÃO DO REGIME INICIAL SEMIABERTO. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Robson Vinicius dos Santos Silva, condenado pelo Tribunal de Justiça do Estado de São Paulo à pena de 1 ano e 2 meses de reclusão, em regime inicial fechado, pela prática de furto simples (art. 155, caput, do Código Penal). O impetrante pleiteia a fixação do regime aberto, com base no princípio da proporcionalidade e no art. 33, § 2º, c, do Código Penal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a utilização de condenações anteriores para valorar negativamente a personalidade do paciente configura ilegalidade na fixação da pena-base; e (ii) determinar o regime inicial de cumprimento de pena adequado, considerando a reincidência do paciente e as circunstâncias judiciais.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça estabelece que condenações transitadas em julgado, quando não utilizadas para caracterizar a reincidência, somente podem ser valoradas a título de maus antecedentes e não como fundamento para desvalorar a personalidade do agente, sob pena de bis in idem (EREsp n. 1.688.077/MS, rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 14/8/2019).
+4. É firme o entendimento desta Corte no sentido de que inquéritos policiais e ações penais em andamento não constituem fundamento idôneo para afastar a pena-base do mínimo legal, conforme a Súmula 444/STJ.
+5. No caso concreto, a pena-base do paciente foi fixada acima do mínimo legal sob a justificativa de personalidade voltada para o crime, com apoio na certidão de antecedentes criminais, o que contraria a jurisprudência desta Corte.
+6. Fixada pena privativa de liberdade inferior a 4 anos de reclusão e ausentes circunstâncias judiciais desfavoráveis, mas presente a reincidência, deve ser fixado o regime semiaberto, conforme o art. 33, § 2º, c, e art. 59, § 3º, ambos do Código Penal e Súmula n. 269/STJ.
+IV. HABEAS CORPUS NÃO CONHECIDO. CONCEDIDA A ORDEM DE OFÍCIO.
+RELATÓRIO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROBSON VINICIUS DOS SANTOS SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1501416-89.2022.8.26.0540).
+Consta dos autos que o Tribunal de origem manteve a condenação do paciente pela suposta prática do crime capitulado no art. 155, caput, do Código Penal, à pena de 1 ano e 2 meses de reclusão, em regime inicial fechado (fls. 37-45).
+Neste mandamus, o impetrante sustenta que deve ser fixado o regime prisional aberto para o início de cumprimento de pena do paciente, com amparo no princípio da proporcionalidade e no art. 33, § 2º, c, do Código Penal.
+Requer, liminarmente, que o paciente possa aguardar o julgamento do presente habeas corpus em liberdade ou que seja fixado o regime prisional aberto. No mérito, pleiteia a fixação do regime aberto.
+O pedido liminar foi indeferido (fls. 50-51).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 58-62).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME DE FURTO (ART. 155, CAPUT, DO CÓDIGO PENAL). FIXAÇÃO DA PENA-BASE. UTILIZAÇÃO DE CONDENAÇÕES ANTERIORES PARA VALORAR DESFAVORAVELMENTE A PERSONALIDADE DO AGENTE. FLAGRANTE ILEGALIDADE. FIXAÇÃO DO REGIME INICIAL SEMIABERTO. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Robson Vinicius dos Santos Silva, condenado pelo Tribunal de Justiça do Estado de São Paulo à pena de 1 ano e 2 meses de reclusão, em regime inicial fechado, pela prática de furto simples (art. 155, caput, do Código Penal). O impetrante pleiteia a fixação do regime aberto, com base no princípio da proporcionalidade e no art. 33, § 2º, c, do Código Penal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a utilização de condenações anteriores para valorar negativamente a personalidade do paciente configura ilegalidade na fixação da pena-base; e (ii) determinar o regime inicial de cumprimento de pena adequado, considerando a reincidência do paciente e as circunstâncias judiciais.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça estabelece que condenações transitadas em julgado, quando não utilizadas para caracterizar a reincidência, somente podem ser valoradas a título de maus antecedentes e não como fundamento para desvalorar a personalidade do agente, sob pena de bis in idem (EREsp n. 1.688.077/MS, rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 14/8/2019).
+4. É firme o entendimento desta Corte no sentido de que inquéritos policiais e ações penais em andamento não constituem fundamento idôneo para afastar a pena-base do mínimo legal, conforme a Súmula 444/STJ.
+5. No caso concreto, a pena-base do paciente foi fixada acima do mínimo legal sob a justificativa de personalidade voltada para o crime, com apoio na certidão de antecedentes criminais, o que contraria a jurisprudência desta Corte.
+6. Fixada pena privativa de liberdade inferior a 4 anos de reclusão e ausentes circunstâncias judiciais desfavoráveis, mas presente a reincidência, deve ser fixado o regime semiaberto, conforme o art. 33, § 2º, c, e art. 59, § 3º, ambos do Código Penal e Súmula n. 269/STJ.
+IV. HABEAS CORPUS NÃO CONHECIDO. CONCEDIDA A ORDEM DE OFÍCIO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que se verifica de plano na hipótese dos autos.
+Acerca da controvérsia trazida à discussão, colhe-se do acórdão impugnado (fls. 44-45):
+A pena-base foi fixada um sexto acima do mínimo legal, em razão da personalidade voltada para a prática de crimes contra o patrimônio (fls. 26/29). Embora não se desconheça o teor do Tema 1077 do Superior Tribunal de Justiça, não há nenhuma dúvida de que o histórico de reiteração criminosa revela personalidade voltada à prática delitiva. Na segunda fase do cálculo, a confissão foi compensada com a reincidência. Ausentes causas de aumento e de diminuição.
+Na origem foi imposto o regime prisional fechado, modalidade prisional que deve ser mantida em razão da personalidade e da reincidência específica, a evidenciar que o recorrente vem fazendo do crime patrimonial seu meio de vida.
+Da sentença, colhem-se os seguintes fundamentos (fl. 40):
+Orientado pelas diretrizes fixadas pelo art. 59 do Código Penal, que prejudicam o réu, já que ostenta ele personalidade voltada para a prática de crimes, em especial contra o patrimônio, conforme se extrai da certidão de fls. 26/29, fixo-lhe a pena base acima do mínimo legal, ou seja, em um ano de reclusão e pagamento de dez dias- multa.
+Na segunda fase, compenso a circunstância agravante da reincidência, comprovada pela certidão de fls. 26/29, com a circunstância atenuante da confissão espontânea e mantenho a pena anteriormente fixada.
+Por fim, na terceira e última fase da aplicação da pena, à míngua de causas de aumento ou de diminuição, fixo definitivamente ao réu a pena de um ano e dois meses de reclusão e pagamento de onze dias-multa.
+O regime inicial que mais se ajusta ao cumprimento da pena privativa de liberdade aplicada ao réu, diante da personalidade e da reincidência específica dele, é o fechado.
+Verifica-se que, ao valorar desfavoravelmente a personalidade do agente, com fundamento na folha de antecedentes do paciente, o Juízo sentenciante incorreu em flagrante ilegalidade.
+Isto porque, conforme a jurisprudência da Terceira Seção deste Tribunal, "eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente" (EREsp n. 1.688.077/MS, relator Ministro REYNALDO SOARES DA FONSECA, Terceira Seção, julgado em 14/8/2019, DJe 28/8/2019).
+Além disso, "É firme o entendimento deste Superior Tribunal de Justiça no sentido de que, em observância ao princípio da presunção da inocência, a existência de inquéritos policiais e/ou ações penais em andamento não constitui fundamentação idônea para afastar a pena-base do mínimo legal, seja a título de maus antecedentes, conduta social negativa ou personalidade. Incidência da Súmula 444/STJ" (AgRg no REsp n. 2.034.540/AC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+Desse modo, deve a pena-base ser fixada no mínimo legal de 1 ano de reclusão e 10 dias-multa. Na segunda fase, mantém-se referido patamar, ante a compensação da agravante da reincidência com a atenuante da confissão. Na terceira fase, ausentes causas de aumento ou diminuição, torna-se definitivo.
+Assim, fixada pena privativa de liberdade inferior a 4 anos de reclusão e ausentes circunstâncias judiciais desfavoráveis, mas presente a reincidência, deve ser fixado o regime semiaberto, conforme o art. 33, § 2º, c, e art. 59, § 3º , ambos do Código Penal e Súmula n. 269/STJ. Veja-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DISPARO DE ARMA DE FOGO E POSSE DE DROGAS PARA USO PESSOAL. PLEITO DE ABSOLVIÇÃO. INVIÁVEL EM SEDE DE AÇÃO MANDAMENTAL A REANÁLISE DO MATERIAL FÁTICO-PROBATÓRIO . PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. RÉU REINCIDENTE. REGIME SEMIABERTO. AUSÊNCIA DE CONSTRANGIMETO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inviável que este Superior Tribunal de Justiça - STJ, em sede de ação mandamental, adentre às razões de fato e de direito adotadas pelas instâncias ordinárias, soberanas na análise do contexto fático-probatório dos autos, para fins de desconstituir condenação criminal sob a alegação genérica de falta de provas. Precedentes.
+2. Tratando-se de paciente reincidente, ainda que a pena tenha sido fixada em patamar inferior a quatro anos, é correta a fixação do regime inicial semiaberto, conforme disposições do art. 33, § 2º, "c", e 59, ambos do Código Penal - CP e o enunciado da Súmula n. 269/STJ, que dispõe que "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+3. Agravo regimental desprovido.
+(AgRg no HC n. 933.255/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Ante o exposto, não conheço do habeas corpus e concedo a ordem de ofício para reduzir a pena do paciente a 1 ano de reclusão e 10 dias-multa e fixar o regime inicial semiaberto.
+É o voto.
