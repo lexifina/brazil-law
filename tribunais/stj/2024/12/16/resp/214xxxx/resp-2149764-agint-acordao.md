@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, nÃ o conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Ausente, justificadamente, o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ, APLICADA POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ". (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015" (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024).
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SOLANGE SILVA FEITOSA contra decisão monocrática, de lavra do eminente Ministro Herman Benjamin, à época relator do feito, que não conheceu do recurso especial por aplicação dos enunciados 284 da Súmula do STF, 211 da Súmula do STJ e 280 da Súmula do STF (fls. 595-599).
+Em seu agravo interno às fls. 603-623, a agravante afirma que esta Corte Superior ao analisar outro recurso especial contra acórdão da lavra do mesmo relator de segundo grau, em ação com fatos e fundamentos semelhantes aos do processo que se ora agrava, sabiamente entendeu de forma diversa no que diz respeito a decisão surpresa.
+Defende que não pode prosperar o entendimento de que a recorrente é carecedora de interesse processual posto que a arguição de inconstitucionalidade levantada na ação ordinária seria o objeto principal da demanda e não fora combatido.
+Relata que a arguição de inconstitucionalidade seria do ato de reduzir salários, não no sentido de requerer a declaração de inconstitucionalidade de lei ou de dispositivo de lei.
+Argumenta que a "decisão ora agravada diz que o recurso especial não deixou claro a afronta ao art. 489, §1º do CPC, ocorre que a citação do acórdão que decidiu pela extinção do processo por inadequação da via eleita foi feita, foi na síntese do feito informada a propositura de ação ordinária de cobrança e o que foi pleiteado, e citado o art. 489 onde o julgador devia enfrentar todos os argumentos do processo capazes de infirmar a conclusão adotada pelo julgador" (fl. 619).
+Alega que em momento algum se invocou lei estadual estadual, devendo ser afastada a Súmula 280 do STF.
+Sustenta que a análise por esta Corte deve ser realizada, pois não se pode aprisionar o autor das omissões ocorridas em 2ª grau e suas ilegalidades.
+Acrescenta que "consta nos embargos a fundamentação das teses firmadas no recursos especial trabalhando-se o art. 489 do CPC , art. 7, 9 e 10 do CPC" (fl. 622).
+Requer seja reconsiderada a decisão monocrática ora agravada ou seja submetido o presente recurso ao órgão colegiado, a fim de que os autos retornem ao Tribunal de origem para facultar prévia manifestação dos sujeitos processuais a respeito dos elementos fáticos e jurídicos a serem considerados pelo órgão julgador.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ, APLICADA POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ". (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015" (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024).
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno não comporta conhecimento.
+O art. 932, III, do CPC assevera que "incumbe ao relator (..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Idêntica redação consta do art. 255, §4º, I, do RISTJ. Ambos os dispositivos nasceram por inspiração no enunciado 182 da Súmula do STJ, que reza:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+O regramento supra mencionado é utilizado para o julgamento unipessoal dos processos que, no âmbito desta Corte, não tenham obedecido o princípio da dialeticidade.
+Para o agravo interno, o Código de Processo Civil trouxe a previsão contida no art. 1.021, § 1º, segundo o qual "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". No mesmo sentido é a dicção do art. 259, § 2º, do RISTJ.
+Na hipótese vertente, a decisão monocrática que não conheceu do recurso especial, ora agravada, assentou-se em três fundamentos: (i) incidência da Súmula 284/STF quanto à alegada violação ao artigo 489 do CPC; (ii) incidência da Súmula 211/STJ quanto à alegada violação aos artigos 7º, 9º, 10 e 492 do CPC; (iii) Incidência da Súmula 280 do STF.
+Todavia, no presente agravo interno, a recorrente deixou de infirmar especificamente e a contento todos os fundamentos da decisão agravada, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+A respeito do tema, saliente-se que, "em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ." (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+De fato, "o princípio da dialeticidade impõe à defesa o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos". (AgRg no HC n. 783.172/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe de 15/2/2023)
+Desse modo, "verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024). No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDO DE SEGURANÇA. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL QUANDO DA INTERPOSIÇÃO DO RECURSO. COVID-19.
+(..)
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ, não se conhece de agravo interno que não impugna os fundamentos de decisão agravada.
+4. Agravo interno não conhecido. (AgInt nos EDcl no MS n. 28.813/DF, rel. Min. João Otávio de Noronha, Corte Especial, DJe de 16/8/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Cuida-se de agravo contra decisão da Presidência desta Corte que inferiu liminarmente os embargos de divergente ao fundamento de que "não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, atraindo, por analogia, o teor da Súmula n. 315/STJ".
+3. À luz do do disposto na Súmula 182/STJ e nos artigos 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ o recorrente impugnará especificadamente os fundamentos da decisão agravada, sob pena de não conhecimento. Precedentes. 4. Agravo interno não conhecido. (AgInt nos EAREsp n. 1.738.515/RJ, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 30/11/2021, DJe de 2/12/2021.)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
