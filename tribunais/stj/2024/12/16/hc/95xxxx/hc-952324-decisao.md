@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de FABIO LUIZ DE GOUVEA CIANNI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0001854-77.2017.8.26.0634).
+Consta dos autos que o paciente foi condenado à pena de 3 (três) anos de reclusão, em regime inicial fechado, além do pagamento de 60 (sessenta) dias-multa, no piso, por infração ao art. 180, caput, do Código Penal.
+Interposta a apelação, o Tribunal de origem negou provimento ao recurso.
+O impetrante sustenta a ocorrência de constrangimento ilegal, porquanto as reprimendas foram exacerbadamente majoradas em todas as fases, chegando ao triplo do patamar mínimo, bem como foi fixado o regime mais grave, sem fundamentação fática e jurídica, negando vigência à legislação infraconstitucional conexa.
+Afirma que embora tenha sido reconhecida a reincidência, o paciente era primário à época dos fatos.
+Requer, liminarmente e no mérito, a concessão da ordem para que a pena do paciente seja redimensionada nos termos delineados na impetração.
+Liminar indeferida às fls. 1.093-1.094.
+Foram prestadas informações às fls.1.099-1.1111.
+O Ministério Público Federal manifestou-se às fls. 1.115-1.121, opinando pelo não conhecimento do habeas corpus, e caso conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+De acordo com as informações prestadas (fls. 1.099 ), verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, já transitado em julgado. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados (AgRg no HC n. 573.735/SP, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021, DJe de 30/04/2021, e AgRg no HC n. 610.106/PR, rel. Ministro Felix Fischer, Quinta Turma, julgado em 23/02/2021, DJe de 1º/03/2021; decisões monocráticas: HC n. 512.674/CE, rel. Ministro Sebastião Reis Júnior, DJe de 30/05/2019; HC n. 482.877/SP, rel. Ministro Jorge Mussi, DJe de 29/03/2019; HC n. 675.658/PR, rel. Ministro Ribeiro Dantas, DJe de 04/08/2021; HC n. 677.684/SP, rel. Ministro Antonio Saldanha Palheiro, DJe de 02/08/2021).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Insta  asseverar que  n ão há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias, como no caso (AgRg no HC n. 820.316/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/06/2023, DJe de 23/06/2023).
+No tocante ao pleito de afastamento da reincidência, esclareço que a matéria não foi apreciada pelo Tribunal de origem, motivo pelo qual não pode esta Corte examinar originariamente o tema, sob pena de indevida supressão de instância.
+Por fim,  tendo sido estabelecida a pena definitiva em patamar inferior a 4 (quatro) anos, mas presente uma circunstância judicial desfavorável, é impositiva a fixação do regime inicial semiaberto (EAREsp n. 1.905.458/RN, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 22/03/2023, DJe de 03/04/2023).
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
