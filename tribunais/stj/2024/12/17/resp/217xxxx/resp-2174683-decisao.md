@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por FATO DELLA VALLE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA, fundamentado no art. 105, III, "a" e "c" , da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - Ação de Rescisão Contratual de Contrato de Compra e Venda c/c Restituição de Valores Pagos Instrumento Particular de Contrato de Compra e Venda de Imóvel Urbano com Pacto de Alienação Fiduciária em Garantia de Pagamento e Outras Avenças - Propositura pela compradora Alegação de dificuldades financeiras para cumprir o contrato - Sentença de improcedência - Inconformismo da autora, alegando, basicamente, que não houve registro da alienação fiduciária, cabendo a rescisão do contrato firmado entre as partes e a devolução de 90% dos valores pagos Parcial cabimento Alienação fiduciária não garantida pela ausência de registro do contrato -Ademais, considerando que a alienação fiduciária foi instituída em favor da própria vendedora e empreendedora, a ré, e não para instituição financeira, caracteriza estratégia que visa contornar as garantias previstas no Código de Defesa do Consumidor e Código Civil, o que torna possível e necessária a rescisão contratual perseguida pela autora, afastando a incidência do regramento contido na Lei n.º 9.514/9, devendo a questão ser regulada pela legislação consumerista e civil Cabível a rescisão contratual pretendida, com restituição de 80% do montante pago Recurso provido em parte para julgar a ação parcialmente procedente.
+Em suas razões de recurso especial, a parte recorrente apontou, em síntese, que deveria ocorrer a "aplicação do procedimento da Lei de Alienação Fiduciária - 9.514/97 (artigos 26, 27 e seguintes)".
+Em juízo de admissibilidade, admitiu-se o recurso especial, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Quanto à aplicação da Lei nº 9.514/97, aduziu a Corte local:
+Por outro lado, ainda que assim não se entenda, o que se admite "ad argumentandum tantum", a sentença apelada não merece ser mantida, pois verificando que no caso em tela a Alienação Fiduciária foi instituída em favor da própria vendedora e empreendedora FATO DELLA VALLE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA., ora ré, e não para instituição financeira, há que se concluir pela ocorrência de conduta abusiva da ré, por se tratar estratégia visando contornar as garantias previstas no Código de Defesa do Consumidor e Código Civil, o que torna possível e necessária a rescisão contratual perseguida pela autora, não se aplicando, portanto, o decidido pelo Colendo Superior Tribunal de Justiça no R Esp nº 1891498/SP (Tema 1095).
+Contudo, a parte ora recorrente não se desimcubiu do ônus de impugnar o referido fundamento, como manda o princípio da dialeticidade, utilizando-se de argumentos dissociados do acórdão recorrido, incidindo, na espécie, por analogia, as Súmula 283 e 284 do STF.
+Em outras palavras, verifica-se que a recorrente deixou de infirmar fundamento do acórdão recorrido - suficiente para sua manutenção -, incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Ademais, resta caracterizada a deficiência na fundamentação do apelo extremo no ponto, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+ ..  3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1397282/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/04/2019, DJe 05/04/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. ART. 3º DO DECRETO-LEI 911/1969. NECESSIDADE DE NOTIFICAÇÃO AO DEVEDOR ACERCA DA MORA. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..  2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, o óbice das Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1675490/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+2. Do exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
