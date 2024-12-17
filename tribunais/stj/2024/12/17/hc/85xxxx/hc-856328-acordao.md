@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. FURTO QUALIFICADO E CORRUPÇÃO ATIVA. CONCURSO MATERIAL. REGIME INICIAL FECHADO. PENA INFERIOR A 8 ANOS. CIRCUNSTÂNCIAS JUDICIAIS DE SFAVORÁVEIS. FIXAÇÃO DE REGIME MAIS GRAVOSO. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM NÃO CONHECIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de condenado a 4 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e 21 dias-multa, pela prática dos crimes de furto qualificado (art. 155, § 4º, II e IV, do Código Penal) e corrupção ativa (art. 333 do Código Penal), em concurso material. A defesa alega violação às Súmulas 440 do STJ e 718 e 719 do STF, além de impugnar a fixação de regime inicial mais gravoso que o cabível para o quantum da pena imposta, requerendo a alteração para o regime semiaberto.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a imposição do regime fechado, para pena inferior a 8 anos, viola as Súmulas 440 do STJ e 718 e 719 do STF, uma vez que a sanção foi aplicada com fundamento em circunstâncias judiciais desfavoráveis; e (ii) determinar se o regime mais gravoso está devidamente fundamentado, à luz das disposições do art. 33, §§ 2º e 3º, do Código Penal.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça permite a fixação de regime inicial mais severo que o indicado pelo quantum da pena, quando presentes circunstâncias judiciais desfavoráveis, nos termos do art. 33, §§ 2º, a, e 3º, do Código Penal.
+4. No caso concreto, o Tribunal de origem fundamentou a escolha do regime fechado com base em circunstâncias judiciais desfavoráveis, aplicando a pena-base acima do mínimo legal, o que constitui motivação idônea e suficiente para justificar o regime mais rigoroso, conforme as Súmulas n. 440 do STJ e 718 e 719 do STF.
+5. A imposição do regime inicial fechado não se baseou na gravidade abstrata dos delitos, mas nas características específicas do caso, afastando a configuração de constrangimento ilegal.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 138):
+ ..  Trata-se de habeas corpus com pedido de liminar impetrado em favor de YOHNATAN FORERO DIAZ em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal 5005332-03.2023.8.24.0036).
+O paciente foi condenado à pena de 4 anos, 2 meses e 20 dias de reclusão em regime fechado, além do pagamento de 21 dias-multa, pela prática dos crimes previstos nos arts. 155, § 4º, II e IV, e 333 do Código Penal, em concurso material.
+A apelação interposta pela defesa foi desprovida.
+A defesa alega: a) ofensa às Súmulas 440 do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal; e b) regime mais gravoso que o determinado pelo quantum da pena aplicada.
+Requer, liminar e definitivamente, deferimento da ordem para abandar o regime determinado para início de cumprimento da pena. ..
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. FURTO QUALIFICADO E CORRUPÇÃO ATIVA. CONCURSO MATERIAL. REGIME INICIAL FECHADO. PENA INFERIOR A 8 ANOS. CIRCUNSTÂNCIAS JUDICIAIS DE SFAVORÁVEIS. FIXAÇÃO DE REGIME MAIS GRAVOSO. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM NÃO CONHECIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de condenado a 4 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e 21 dias-multa, pela prática dos crimes de furto qualificado (art. 155, § 4º, II e IV, do Código Penal) e corrupção ativa (art. 333 do Código Penal), em concurso material. A defesa alega violação às Súmulas 440 do STJ e 718 e 719 do STF, além de impugnar a fixação de regime inicial mais gravoso que o cabível para o quantum da pena imposta, requerendo a alteração para o regime semiaberto.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a imposição do regime fechado, para pena inferior a 8 anos, viola as Súmulas 440 do STJ e 718 e 719 do STF, uma vez que a sanção foi aplicada com fundamento em circunstâncias judiciais desfavoráveis; e (ii) determinar se o regime mais gravoso está devidamente fundamentado, à luz das disposições do art. 33, §§ 2º e 3º, do Código Penal.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça permite a fixação de regime inicial mais severo que o indicado pelo quantum da pena, quando presentes circunstâncias judiciais desfavoráveis, nos termos do art. 33, §§ 2º, a, e 3º, do Código Penal.
+4. No caso concreto, o Tribunal de origem fundamentou a escolha do regime fechado com base em circunstâncias judiciais desfavoráveis, aplicando a pena-base acima do mínimo legal, o que constitui motivação idônea e suficiente para justificar o regime mais rigoroso, conforme as Súmulas n. 440 do STJ e 718 e 719 do STF.
+5. A imposição do regime inicial fechado não se baseou na gravidade abstrata dos delitos, mas nas características específicas do caso, afastando a configuração de constrangimento ilegal.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+No que tange a alegação da defesa, assim, acertadamente, entendeu o Tribunal de origem (e-STJ, fl. 123):
+ ..  No que se refere ao regime inicial, ao apelante Yohnatan Forero Diaz foi aplicada pena total inferior a 08 (oito) e superior a 04 (quatro) anos, o que, em tese, permitiria o resgate da pena em regime semiaberto. Contudo, a existência de circunstância judicial desfavorável, permite a fixação do regime mais rigoroso, isto é, o fechado, a teor do disposto no art. 33, §§ 2º, "a", e 3º, do Código Penal. ..
+A análise realizada pelo Tribunal local encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto. A propósito:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. QUADRILHA. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. ALEGADA DESPROPORCIONALIDADE DO AUMENTO NA PRIMEIRA FASE DA DOSIMETRIA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. REGIME PRISIONAL FECHADO. MOTIVAÇÃO IDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. ART. 33, § 3º, DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. CIRCUNSTÂNCIAS DO ART. 59 DO CP DESFAVORÁVEIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+5. O Tribunal a quo estabeleceu as básicas acima do mínimo legal, por terem sido desfavoravelmente valoradas circunstâncias do art. 59 do Código Penal, o que, por si só, permite a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+6. Em que pese tenha sido imposta reprimenda inferior a 8 anos de reclusão, tratando-se de réu com circunstâncias judiciais desfavoráveis, resta justificada a fixação do regime prisional fechado.
+7. No tocante à conversão da pena corporal por restritiva de direitos, além da pena ter sido estabelecida em patamar superior aos 4 anos, tendo sido reconhecida circunstâncias judiciais desfavoráveis ao paciente, tanto que as penas-base foram fixadas acima do mínimo legal, não é admissível a concessão do benefício, sem que se possa inferir bis in idem ou arbitrariedade em tal conclusão.
+8. Agravo regimental não provido.
+(AgRg no HC n. 681.019/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022.)
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei n. 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+É o voto.
