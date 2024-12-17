@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por SPE SA CAVALCANTE INCORPORACOES IMOBILIARIAS MA XIII LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/MA.
+Recurso especial interposto em: 21/8/2024.
+Concluso ao gabinete em: 6/12/2024.
+Ação: de resolução contratual ajuizada por FRANCISCO NASCIMENTO CARVALHO NETO - ESPÓLIO e MARGARETH TEIXEIRA MENDES CARVALHO contra SPE SA CAVALCANTE INCORPORACOES IMOBILIARIAS MA XIII LTDA.
+Sentença: o Juízo de primeiro grau julgou parcialmente procedentes os pedidos formulados na inicial para "1) declarar rescindido o contrato de compra e venda celebrado entre as partes, de que tratam os presentes autos; 2) determinar a devolução integral das quantias pagas pelos requerentes, com juros de 1% ao mês e correção monetária pela tabela adotada pela justiça estadual desde as datas dos pagamentos efetuados; 3) condenar a requerida no pagamento dos lucros cessantes aos requerentes, no percentual de 0,5% sobre o valor do imóvel, ao mês, a partir de dezembro de 2014 até a data da expedição do habite-se, julho de 2015, com juros de mora de 1% ao mês e correção monetária pela tabela adotada pela justiça estadual desse estado" (e-STJ fl. 251).
+Acórdão: o TJ/MA negou provimento à apelação interposta por SPE SA CAVALCANTE, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO IMÓVEL. CULPA EXCLUSIVA DO CONSTRUTOR. SÚMULA 543 DO STJ. DANOS MATERIAIS CARACTERIZADOS. LUCROS CESSANTES. POSSIBILIDADE. PRECEDENTES DO STJ. SENTENÇA MANTIDA. APELO DESPROVIDO. DE ACORDO COM O PARECER MINISTERIAL. I. A Súmula 543 do STJ determina que em caso de rescisão contratual de compra e venda de imóvel por culpa exclusiva do promitente vendedor/construtor, deve ser realizada imediata restituição das parcelas pagas pelo promitente comprador. II. O atraso injustificado na entrega da obra pelo promitente vendedor gera o dever de indenizar os danos materiais dele decorrentes. III. A jurisprudência do STJ já pacificou o assunto por intermédio de recurso especial sob a sistemática de recurso repetitivo, logo, de reprodução obrigatória para os Tribunais, no sentido de ser possível a condenação da empresa incorporadora em lucros cessantes, ante a configuração de ilícito consumerista do atraso na entrega de unidade imobiliária adquirida na planta, devendo-se tomar como parâmetro objetivo a multa estipulada em favor de uma das partes em instrumento contratual (REsp 1614721/DF, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/05/2019, DJe 25/06/2019). IV. Apelo desprovido, de acordo com o parecer ministerial.
+(e-STJ fl. )
+Embargos de declaração: opostos por SPE SA CAVALCANTE, foram rejeitados.
+Recurso especial: alega violação do art. 406 do CC, além de dissídio jurisprudencial, sustentando que:
+I) "apesar de ter ocorrido uma verdadeira convenção no Poder Judiciário maranhense quanto a fixação da taxa de juros de 1 % ao mês cumulada com a correção monetária de incidência do INPC, esta não possui qualquer fundamentação jurídica que a sustente" (e-STJ fl. 400);
+II) "a taxa aplicável é aquela que está em vigor para pagamento de impostos devidos à Fazenda Nacional" e "a jurisprudência do STJ coaduna com tal entendimento, inclusive, não admitindo a incidência de correção monetária, eis que a taxa SELIC já engloba juros e correção" (e-STJ fl. 401).
+Juízo prévio de admissibilidade: o TJ/MA admitiu o recurso.
+É O RELATÓRIO. DECIDE-SE.
+1. Dos juros e correção monetária
+No particular, o Tribunal de origem decidiu que a taxa dos juros moratórios legais prevista no art. 406 do CC corresponderia a 1%, podendo ser cumulado com a incidência de correção monetária, pelo INPC.
+No entanto, conforme a jurisprudência desta Corte, "o art. 406 do Código Civil de 2002 deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa "em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional"" (REsp 1.795.982/SP, Corte Especial, DJe 23/10/2024).
+No mesmo sentido: EREsp 727.842/SP, Corte Especial, DJe 20/11/2008 e REsp 1.111.117/PR, Corte Especial, DJe 2/9/2010.
+Assim, "nas condenações posteriores à entrada em vigor do Código Civil de 2002 (janeiro de 2003), deve-se aplicar a Taxa Selic, que é composta de juros moratórios e de correção monetária, ficando vedada sua cumulação com qualquer outro índice de atualização monetária" (AgInt no REsp 1.752.361/MG, Quarta Turma, DJe 1/7/2021; EDcl no REsp 2.108.182/MG, Terceira Turma, DJe 6/6/2024; AgInt no REsp 1.955.415/SP, Terceira Turma, DJe 4/10/2023; e REsp 1.693.414/SP, Terceira Turma, DJe 14/10/2020).
+Portanto, o recurso merece ser provido para alterar a taxa de juros moratórios e índice de correção monetária adotados pela sentença e mantidos pelo acórdão recorrido, devendo incidir apenas a Taxa SELIC, que já abrange ambos os encargos.
+2. Da divergência jurisprudencial
+Diante da análise do mérito do recurso especial pela alínea "a" do permissivo constitucional, fica prejudicado o exame da divergência jurisprudencial alegada sobre o mesmo tema.
+DISPOSITIVO
+Forte nessas razões, com fundamento no art. 34, XVIII, "a" e "c", do RISTJ, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para reformar o acórdão recorrido, a fim de determinar a incidência da Taxa SELIC como juros de mora e correção monetária, nos termos da fundamentação.
+Deixo de majorar honorários advocatícios, em virtude do provimento do recurso (AgInt nos EREsp 1.539.725/DF, Segunda Seção, DJe 19/10/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. ART. 406 DO CC. TAXA SELIC. ABRANGÊNCIA. JUROS MORATÓRIOS LEGAIS E CORREÇÃO MONETÁRIA. CUMULAÇÃO COM OUTROS ÍNDICES. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de resolução contratual.
+2. Segundo a jurisprudência desta Corte, a taxa de juros moratórios legais a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que não pode ser cumulada com a aplicação de outros índices de atualização monetária.
+3. A análise do mérito do recurso especial pela alínea "a" do permissivo constitucional prejudica o exame da divergência jurisprudencial alegada sobre o mesmo tema.
+4. Recurso especial parcialmente conhecido e, nessa extensão, provido para reformar o acórdão recorrido, a fim de determinar a incidência da Taxa SELIC como juros de mora e correção monetária, nos termos da fundamentação.
