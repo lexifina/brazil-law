@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Joao Gregorio Teodoro Lemes, desafiando decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial, pelas seguintes razões: (I) não ocorrência da alegada negativa de prestação jurisdicional; (II) ausência de violação aos dispositivos de lei federal; e (III) incidência do óbice da Súmula 7/STJ.
+Sustenta a agravante, em resumo, que a jurisprudência do STJ autoriza a "revalorização jurídica do conjunto fático-probatório" (fl. 355), que houve o prequestionamento da matéria e que foi demonstrada a violação aos artigos de lei federal.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte deixou de impugnar especificamente todos os motivos adotados pela instância de origem para negar trânsito ao a pelo especial.
+Com efeito, a insurgente não logrou infirmar o decisum, de forma específica e mediante argumentação suficiente, no ponto em que o Tribunal local assentou que "rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça" (fl . 349).
+Note-se que caberia ao agravante demonstrar, especificamente, de que modo a análise da violação aos dispositivos de lei federal prescindiria do reexame do arcabouço fático-probatório no caso concreto, não sendo suficiente a argumentação genérica de inaplicabilidade da referida vedação sumular.
+Incide, dessa forma, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
