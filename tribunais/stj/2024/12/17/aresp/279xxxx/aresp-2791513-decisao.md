@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo, interposto por PORTO POXIM LOTEAMENTO SPE LTDA, em face de decisão que não admitiu recurso especial.
+O apelo extremo, por sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, foi interposto desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DOS VALORES PAGOS - ATRASO NA ENTREGA DE IMÓVEL DEMONSTRADA - AUSÊNCIA DE INADIMPLÊNCIA POR PARTE DO AUTOR - POSSIBILIDADE DE RESCISÃO CONTRATUAL COM DEVOLUÇÃO INTEGRAL DO VALOR PAGO - OBSERVÂNCIA DA SÚMULA 543 DO STJ- INADMISSIBILIDADE DA RETENÇÃO DE COMISSÃO DE CORRETAGEM E MULTA - JUROS DE MORA DESDE A CITAÇÃO - RECURSO CONHECIDO E DESPROVIDO - DECISÃO UNÂNIME.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do especial, a recorrente aponta que o acórdão recorrido violou os artigos 489, § 1º e 1.022, I, II e III, ambos do Código de Processo Civil ante a existência de omissões apontadas em sede de embargos de declaração e não sanadas.
+Em juízo provisório de admissibilidade, o recurso especial não foi admitido, razão pela qual foi manejado o agravo de fls. 478/490, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. De início, em relação à violação aos arts. 489 e 1.022 do CPC, ante a negativa de prestação jurisdicional, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Confira-se:
+Conforme pontuado na sentença, o contrato firmado entre as partes previa a entrega do lote em março/2022 (cláusula 3. B.1 - p. 28) e mesmo que se considere a suspensão das atividades da construção civil por determinação da Justiça do Trabalho, a referida liminar durou 2 meses, enquanto o atraso da entrega do imóvel em questão foi de 7 meses. Assim, entendo que a compradora não agiu com culpa, nem deu causa à rescisão do contrato, não podendo ser punida pelo descumprimento do contrato e ser considerada inadimplente e suportar os ônus das cláusulas contratuais que autorizam a retenção de valores da corretagem e da indenização. Impõe-se, portanto, a devolução integral do valor até então pago por força contratual sem a retenção de taxa de corretagem e aplicação de multa de 10% , que somente são autorizadas nos casos em que a causa da rescisão for do adquirente, o que não é o caso. Tal entendimento se alinha ao texto da Súmula nº 543 do STJ: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" Nesta linha de intelecção, esta Corte de Justiça, oportunamente:  ..  Com relação a suposta impossibilidade de rescisão contratual em face da existência de pacto adjetivo de alienação fiduciária, também não merece prosperar, pois os artigos 26 e 27 da Lei n.9.514/97 somente serão aplicados nos casos de inadimplência do comprador/fiduciante. Igualmente não se aplica o art. 32-A na LEI Nº 6.766, que também prevê caso de resolução contratual por fato imputado ao adquirente. Ocorre que, no caso sob análise, não restou configurada a mora do comprador, uma vez que pleiteou a rescisão contratual respaldado no atraso da entrega por parte da requerida. Logo, descabida a aplicação dos dispositivos da lei regente ao caso em concreto.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2. Do exposto, com fundamento no art. 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para de plano negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
