@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de WANDERSON MACKEL SANTOS DE JESUS em face de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe.
+Consta dos autos que a paciente foi condenado, ao final da apreciação das instâncias ordinárias, à pena de 5 anos, 6 meses e 20 dias de reclusão, em regime semiaberto, mais o pagamento de 559 dias-multa, pelo crime do art. 33, caput, da Lei nº 11.343/06.
+Neste writ, a impetrante sustenta, em suma, o reconhecimento da minorante do tráfico no patamar máximo, com abrandamento do regime inicial prisional.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Pretende a impetrante o reconhecimento da minorante do tráfico de drogas, com abrandamento do regime inicial prisional.
+O acórdão, no que toca à minorante do tráfico de drogas, esposou os seguintes fundamentos:
+" ..  No presente caso, verifica-se que além da quantidade e da variedade das drogas apreendidas (7.708 gramas líquidas de maconha e 5.622 gramas líquidas de cocaína), havia rolos de papel alumínio, filme plástico e balança de precisão, apetrechos que não podem ser dissociados do arcabouço que indica dedicação à atividade criminosa e demonstra estrutura para comercialização do entorpecente, o que impede a aplicação da causa de diminuição de pena do §4º do art. 33 da Lei de Drogas" (e-STJ, fl. 36).
+De acordo com o § 4º do art. 33 da Lei n. 11.343/06, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Do excerto acima transcrito, verifica-se que o Tribunal de origem recusou a aplicação da minorante do tráfico de drogas, em linhas gerais, pela quantidade apreendida (7,7kg de maconha e 5,6kg de cocaína), agregando elementos inerentes ao tipo penal. Contudo, esse fundamento não é suficiente para, por si só, impedir a incidência da benesse, mormente quando serviu para elevar a pena-base, configurando indevido bis in idem.
+Para o caso, ante o grande quantitativo de drogas apreendidas, sopesado, entretanto, na primeira fase da dosimetria da pena, aplicável o patamar de 2/3, a fim de corrigir o equívoco cometido pelas instâncias ordinárias.
+Sobre o tema:
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO. QUANTIDADE E VARIEDADE DAS DROGAS APREENDIDAS. BIS IN IDEM NA DOSIMETRIA. EXISTÊNCIA DE ATOS INFRACIONAIS. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ORDEM CONCEDIDA PARCIALMENTE.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Vinicius de Paula Aguiar, condenado a 7 anos de reclusão, em regime fechado, além de 500 dias-multa, pela prática de tráfico de drogas (art. 33, caput, da Lei 11.343/2006). A defesa sustenta o preenchimento dos requisitos legais para aplicação da minorante do art. 33, § 4º, da Lei de Drogas, afirmando que o paciente é primário, sem antecedentes criminais, e não se dedica ao tráfico de drogas, pleiteando a aplicação do redutor, o abrandamento do regime e a substituição da pena privativa de liberdade por restritivas de direitos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se o paciente preenche os requisitos para aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, e se houve erro na dosimetria da pena com a ocorrência de bis in idem.
+III. RAZÕES DE DECIDIR
+3. A minorante do tráfico privilegiado pode ser aplicada a réu primário, com bons antecedentes, que não se dedica a atividades criminosas nem integra organização criminosa.
+4. No caso, embora o paciente seja primário e sem condenações anteriores, o Tribunal de origem afastou a aplicação da minorante com base na quantidade e variedade de drogas apreendidas, além de registro de atos infracionais pretéritos.
+5. A quantidade de drogas (4g de cocaína, 618,4g de maconha e 2,2g de crack) já foi utilizada para aumentar a pena-base, configurando bis in idem ao ser considerada novamente para afastar a minorante.
+6. Os atos infracionais mencionados pelo juízo não foram concretamente analisados quanto à sua gravidade e proximidade temporal, sendo insuficientes para justificar o afastamento da minorante.
+7. Aplica-se a minorante do tráfico privilegiado na fração máxima de 2/3, reduzindo a pena para 1 ano, 11 meses e 10 dias de reclusão, em regime inicial semiaberto, e 166 dias-multa. Substituição da pena privativa de liberdade por restritivas de direitos incabível, ante a existência de circunstância judicial desfavorável.
+IV. ORDEM CONCEDIDA PARCIALMENTE. (HC n. 870.340/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO NÃO CONSTATADO. NÃO CABIMENTO. MINORANTE DO TRÁFICO. BIS IN IDEM CONFIGURADO. FLAGRANTE ILEGALIDADE. PENA REDUZIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. O acórdão embargado não foi omisso, porquanto apontou claramente as razões para o não provimento do agravo regimental, com base na Súmula n. 182 do STJ.
+3. Em que pese a rejeição dos aclaratórios, constata-se a existência de constrangimento ilegal, pois as instâncias ordinárias sopesaram os mesmos elementos - natureza e quantidade de drogas apreendidas - tanto para fins de exasperação da pena-base quanto para justificar a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 1/6, o que evidencia ofensa ao princípio do ne bis in idem.
+4. Embargos de declaração rejeitados. Ordem concedida, de ofício, para aplicar em 2/3 a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, por conseguinte, tornar a reprimenda definitiva do réu em 2 anos e 8 meses de reclusão, no regime semiaberto, e pagamento de 266 dias-multa. (EDcl no AgRg no AREsp n. 2.217.908/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/11/2024, DJe de 7/11/2024.)
+Passo à nova dosimetria da pena da paciente.
+A pena-base vai fixada em 6 anos e 8 meses de reclusão, pela natureza e quantidade de drogas apreendidas. Na segunda fase, presente a atenuante da confissão espontânea, reduzo a pena para 5 anos, 6 meses e 20 dias. Na terceira fase, faço incidir a minorante do §4º do art. 33 da Lei n. 11.343/06 no patamar de 2/3, tornando definitiva a pena em 1 ano, 10 meses e 7 dias de reclusão. Reajusto, proporcionalmente, a pena de multa para 186 dias-multa.
+O regime inicial será o semiaberto, ex vi do art. 33, §2º, b e §3º do Código Penal.
+Inviável a substituição por penas restritivas de direito, pelo não preenchimento de requisitos do art. 44, inciso III, do Código Penal.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, a fim de reconhecer a causa de diminuição de pena do §4º do art. 33 da Lei n. 11.343/06 no patamar de 2/3, tornando a pena definitiva em 1 ano, 10 meses e 7 dias de reclusão, em regime inicial semiaberto, mais o pagamento de 186 dias-multa.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de Sergipe, bem como à 3ª Vara Criminal da Comarca de Aracaju/SE.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
