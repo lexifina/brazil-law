@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DENNIS ALEXANDRE DOS SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PROCESSO CIVIL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. GRATUIDADE JUDICIÁRIA INDEFERIDA AO AUTOR. CAPACIDADE ECONÔMICA INCOMPATÍVEL COM O BENEFÍCIO. DECISÃO MANTIDA. 1. A ALEGAÇÃO DE INSUFICIÊNCIA DEDUZIDA EXCLUSIVAMENTE POR PESSOA NATURAL PRESUME-SE VERDADEIRA, MAS NÀO ESTÁ O JUIZ OU O TRIBUNAL OBRIGADO A ACEITAR A DECLARAÇÃO DE INSUFICIÊNCIA ECONÔMICA PARA OBTENÇÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA. 2. A VERACIDADE DA PRESUNÇÃO RELATIVA FIRMADA PELA DECLARAÇÃO PODE SER SINDICADA PELO MAGISTRADO, IMPEDINDO O DESVIRTUAMENTO DO INSTITUTO, CUJA FINALIDADE É DE PROMOVER O ACESSO À JUSTIÇA DAQUELES MAIS NECESSITADOS, RECONHECIDAMENTE POBRES. 3. RECURSO IMPROVIDO, COM OBSERVAÇÃO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 98 do CPC, no que concerne à concessão da gratuidade de justiça, tendo em vista a comprovação da sua hipossuficiência financeira, trazendo a seguinte argumentação:
+O acórdão guerreado contrariou o Art.98 do Código de Processo Civil, quando o Eminente Julgador verificou apenas as informações sobre a renda mensal bruta, deixando de ponderar sobre a condição do contrato de trabalho estar suspenso desde abril de 2024 e o INSS ter negado a concessão do auxílio doença, bem como os gastos gerados para manutenção da dignidade pessoal e familiar, ou seja, o acórdão guerreado evidencia a caracterização do "erro in judicante".
+ ..
+Face a esse quadro, em que pese o valor percebido pelo recorrente quando seu contrato estava ativo ser pouco acima de três mil reais, aparentemente superior à média salarial da maioria da população, ainda assim, o art.98 do CPC não condiciona a benesse apenas com base no montante financeiro auferido ou ao saldo da conta poupança, pois a renda não é utilizada exclusivamente para o sustento isolado do recorrente, mas, sim de toda sua família, circunstância que deve fazer parte da análise cognitiva do direito pretendido, o que não foi ponderado pela decisão recorrida
+ ..
+Nesse cenário, o acórdão guerreado deveria ter primado pela analise pontual sobre o quanto recebe e o quanto sobra por mês, bem como se a conta bancária costuma receber aportes mensais e de importância significativas, deste modo, estar-se-ia respeitando o Art.98 do CPC, conforme Tese Jurisprudencial nº 150 do STJ
+ ..
+Não há riqueza ou fortuna acumulada, mas sim uma renda líquida que não é alta, suficiente apenas para uma subsistência modesta e honrada para o recorrente que está com a saúde debilitada (fls. 182-189).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Na hipótese em apreço, a declaração de imposto de renda apresentada referente ao ano exercício 2024 demonstra que o autor auferiu em 2023 rendimentos tributáveis de R$ 79.162,37 (fls. 74/81) e os demonstrativos de pagamento juntados comprovam o recebimento de salário base mensal superior a 03 salários-mínimos (fls. 83/86), bem como os extratos bancários juntados evidenciam movimentação financeira incompatível com a alegada hipossuficiência financeira (fls. 92/122).
+Portanto, o benefício da gratuidade não se justifica, de modo que a r. decisão que indeferiu o benefício deve ser integralmente mantida (fl. 166).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
