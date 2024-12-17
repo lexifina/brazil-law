@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/12/2024 a 17/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Afrânio Vilela.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. ANISTIA POLÍTICA. PORTARIA MJ N. 2.143/2004. PORTARIA DE ANISTIA. REVISÃO. ANULAÇÃO. NÃO HÁ DIREITO CERTO E LÍQUIDO, SE O ATO QUE GEROU ESSE SUPOSTO DIREITO ESTÁ EM VIAS DE SER ANULADO PELA PRÓPRIA ADMINISTRAÇÃO, NO EXERCÍCIO DE SEU PODER DE AUTOTUTELA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de mandado de segurança contra ato de Ministro de Estado, fundamentado no art. 105, I, b, da Constituição Federal.
+II - Extrai-se das informações prestadas pela autoridade coatora que há processo de revisão da Portaria MJ n. 2.143/2004 e que já se encontra em fase final "com ata da Sessão Plenária do Conselho que, por unanimidade, votou pela anulação da portaria de anistia" (fl. 159). Neste contexto, é importante destacar que a Primeira Seção desta Corte Superior firmou o entendimento de que "não há direito certo e líquido, se o ato que gerou esse suposto direito - a concessão da anistia - está em vias de ser anulado pela própria administração, no exercício de seu poder de autotutela". Veja-se: EDcl no MS n. 22.509/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 11/10/2023, DJe de 17/10/2023. No caso dos autos, diante da notícia da iminente revisão da anistia em tela, não há direito líquido e certo ao pagamento de valores retroativos, a ser amparado nesta via mandamental.
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de a gravo interno interposto contra decisão que julgou mandado de segurança fundamentado no art. 105, I, b, da Constituição Federal.
+A impetração se deu contra ato omissivo atribuído ao Ministro da Defesa, em razão do não pagamento dos valores retroativos referentes à reparação econômica constante na portaria de anistiado político.
+Afirmam as impetrantes, ora agravantes, que a Portaria n. 2.143/2004, do Ministério da Justiça , declarou Jorge Nunes de Azeredo anistiado político, sendo-lhe concedido o direito à reparação econômica no valor de R$ 217.790,50 (duzentos e dezessete mil, setecentos e noventa reais e cinquenta centavos).
+Sustentam que a autoridade coatora deixou, ilegalmente, de cumprir o disposto na portaria de anistia pois não realizou o pagamento da indenização retroativa até o presente momento.
+A autoridade coatora prestou informações, apontando, em suma: a) impropriedade da via eleita; b) ilegitimidade passiva do Ministro de Estado da Defesa; c) alto risco de pagamento de indenizações indevidas, tendo-se em conta que o processo revisional da Portaria MJ n. 2.143, de 29/7/2004, já se encontra em fase final, inclusive, com os Conselheiros da Comissão de Anistia, à unanimidade, tendo recomendado a anulação da portaria anistiadora (fls. 154-173).
+O Ministério Público Federal opina pela denegação da segurança.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, denego a segurança."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Contudo, a portaria de anistia não foi anulada. Ela está válida. Sobre o assunto, a C. Primeira Seção desse Egr. Tribunal Superior já decidiu, por ocasião de Questão de Ordem apresentada no MS 15.706, que os processos que versam sobre cumprimento de portaria de anistia devem prosseguir e ser julgados, ressalvada a prejudicialidade do cumprimento da segurança nas hipóteses de eventual anulação da portaria. Observe-se a seguir trecho do acórdão correspondente:
+ ..
+Ou seja, há muito, o Superior Tribunal de Justiça definiu que os mandados de segurança atinentes a cumprimento de portaria de anistia devem prosseguir e ser julgados. Caso efetivamente anulada a portaria, aí sim, deixa-se de cumprir os comandos da portaria.
+Há décadas a Administração busca rever anistias políticas já deferidas. Após a edição da Tese 839 da Repercussão Geral, foi afastada a decadência para a revisão do ato administrativo, de modo que se conferiu à Administração Pública a liberdade de anular portarias de anistia a qualquer tempo - décadas depois do reconhecimento dessa condição. Diante disso, a Administração vem renovando de tempos em tempos seus esforços para perpetrar mais anulações.
+Em tal situação, deve ser reconhecido o direito líquido e certo dos anistiados que têm suas portarias válidas. Não existe motivo para se aumentar o tempo de espera de idoso que teve sua Portaria de Anistia publicada há mais de duas décadas. A Administração já está em mora há 20 (vinte) anos. Caso o direito das Impetrante tenha de ficar subordinado ao fim dos esforços administrativos em cancelar anistias, seguramente, a viúva do anistiado não verá o resultado de sua pretensão em vida.
+ ..
+Ao se considerar que a portaria de anistia não foi anulada, impende seja reconhecido o direito líquido e certo a seu cumprimento, nos termos do artigo 5o, inciso LXIX, da Constituição da República e do artigo 1o da Lei 12.016/2009, direito esse que ficaria prejudicado apenas em caso de efetiva anulação do ato administrativo, conforme decidido em Questão de Ordem pela Primeira Seção do Superior Tribunal de Justiça.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. ANISTIA POLÍTICA. PORTARIA MJ N. 2.143/2004. PORTARIA DE ANISTIA. REVISÃO. ANULAÇÃO. NÃO HÁ DIREITO CERTO E LÍQUIDO, SE O ATO QUE GEROU ESSE SUPOSTO DIREITO ESTÁ EM VIAS DE SER ANULADO PELA PRÓPRIA ADMINISTRAÇÃO, NO EXERCÍCIO DE SEU PODER DE AUTOTUTELA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de mandado de segurança contra ato de Ministro de Estado, fundamentado no art. 105, I, b, da Constituição Federal.
+II - Extrai-se das informações prestadas pela autoridade coatora que há processo de revisão da Portaria MJ n. 2.143/2004 e que já se encontra em fase final "com ata da Sessão Plenária do Conselho que, por unanimidade, votou pela anulação da portaria de anistia" (fl. 159). Neste contexto, é importante destacar que a Primeira Seção desta Corte Superior firmou o entendimento de que "não há direito certo e líquido, se o ato que gerou esse suposto direito - a concessão da anistia - está em vias de ser anulado pela própria administração, no exercício de seu poder de autotutela". Veja-se: EDcl no MS n. 22.509/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 11/10/2023, DJe de 17/10/2023. No caso dos autos, diante da notícia da iminente revisão da anistia em tela, não há direito líquido e certo ao pagamento de valores retroativos, a ser amparado nesta via mandamental.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Extrai-se das informações prestadas pela autoridade coatora que há processo de revisão da Portaria MJ n. 2.143/2004 e que já se encontra em fase final "com ata da Sessão Plenária do Conselho que, por unanimidade, votou pela anulação da portaria de anistia" (fl. 159).
+Neste contexto, é importante destacar que a Primeira Seção desta Corte Superior firmou o entendimento de que "não há direito certo e líquido, se o ato que gerou esse suposto direito - a concessão da anistia - está em vias de ser anulado pela própria administração, no exercício de seu poder de autotutela". Veja-se: EDcl no MS n. 22.509/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 11/10/2023, DJe de 17/10/2023.
+No caso dos autos, diante da notícia da iminente revisão da anistia em tela, não há direito líquido e certo ao pagamento de valores retroativos, a ser amparado nesta via mandamental.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
