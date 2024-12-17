@@ -1,0 +1,2 @@
+Art. 12-B. A progressão funcional por tempo de serviço dos servidores ocupantes da carreira Profissional da Educação Básica é a movimentação do servidor na tabela de subsídio de um nível para o imediatamente posterior, a cada cinco anos de efetivo exercício na carreira.
+Parágrafo único. O ato de concessão da progressão funcional, dos servidores ocupantes dos cargos da Carreira Profissional da Educação Básica, será de competência do titular da Secretaria de Estado de Educação.

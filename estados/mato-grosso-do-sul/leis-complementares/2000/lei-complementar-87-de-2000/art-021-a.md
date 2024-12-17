@@ -1,0 +1,2 @@
+Art. 21-A. O Poder Executivo disporá em regulamento sobre as condições e os procedimentos para efetivar as convocações.
+Parágrafo único. A Administração Pública deverá publicar no Diário Oficial do Estado de Mato Grosso do Sul, mensalmente, as convocações efetivadas no mês imediatamente anterior, em cujo ato deverá constar nome do convocado, número da inscrição no Cadastro de Pessoa Física (CPF), escola e munícipio de lotação, disciplina ou componente curricular, quantidade de aulas, valor da hora-aula e o prazo da convocação.

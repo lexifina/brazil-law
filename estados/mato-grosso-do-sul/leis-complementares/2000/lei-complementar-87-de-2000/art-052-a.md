@@ -1,0 +1,2 @@
+Art. 52-A. Fica estabelecida a data-base em 1º de maio, a partir do ano de 2019, para os servidores das categorias funcionais integrantes da carreira Profissional de Educação Básica e dos cargos de Especialista de Educação e de Professor-Leigo.
+Parágrafo único. O índice concedido aos servidores públicos do Poder Executivo Estadual, a título de revisão geral anual, será deduzido quando da aplicação do índice de reajuste previsto no § 2º do art. 49 desta Lei Complementar.

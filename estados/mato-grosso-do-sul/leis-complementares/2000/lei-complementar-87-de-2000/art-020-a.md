@@ -1,0 +1,2 @@
+Art. 20-A. Os Profissionais de Educação Básica detentores de cargo efetivo poderão ser convocados temporariamente desde que estejam no Banco Reserva de Profissionais para a Função Docente de caráter temporário, haja compatibilidade de horário e a carga horária total do servidor, incluídas a do cargo efetivo e a decorrente da suplência, não ultrapasse o limite total de 50 (cinquenta) horas semanais.
+Parágrafo único. Na hipótese prevista no caput, o profissional efetivo perceberá pela convocação remuneração conforme estabelecido no art. 17-B desta Lei Complementar.

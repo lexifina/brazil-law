@@ -1,0 +1,1 @@
+Art. 86-A. Fica assegurado ao cargo de Especialista de Educação o desenvolvimento na carreira, o exercício das funções elencadas no art. 74 e a percepção das indenizações previstas nos incisos IV, V e VI do art. 54, no art. 54-A e nos arts. 75 a 77, todos desta Lei Complementar.
