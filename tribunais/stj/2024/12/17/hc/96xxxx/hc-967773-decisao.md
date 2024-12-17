@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SOLANGE OLIVEIRA DOS SANTOS, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1502103-66.2021.8.26.0228).
+Depreende-se dos autos que a paciente foi condenada como incursa nas sanções do art. 155, caput, do Código Penal, à pena de 1 ano e 2 meses de reclusão, em regime inicial fechado, e pagamento de 11 dias-multa, em decorrência da subtração de uma carteira, dois cartões de crédito, documentos pessoais e R$ 100,00 (cem reais).
+O Tribunal de origem, em 19/6/2023, negou provimento ao recurso defensivo, mantendo, na íntegra, a sentença de primeiro grau (fls. 18/24).
+Neste feito, a impetrante alega que, no caso, diante do ínfimo valor dos bens, não há como se deixar de reconhecer a irrelevância da conduta imputada à paciente para o direito penal.
+Aduz que, de acordo com a jurisprudência pacífica dos Tribunais Superiores, a existência de eventuais circunstâncias judiciais desfavoráveis, inclusive da reincidência, não constitui óbice, por si só, ao reconhecimento do princípio da insignificância, pois a discussão restringe-se ao âmbito da tipicidade material da conduta (fl. 8).
+Argumenta, ainda, que não se vislumbram motivos para a fixação do regime prisional fechado no presente caso.
+Defende que a ré está em liberdade há mais de 3 anos e, até a presente data, não há registro de novas ações penais em seu desfavor, conforme se verifica de sua folha de antecedentes (fl. 16).
+Requer a concessão de medida liminar para que seja obstada a expedição de mandado de prisão em decorrência da condenação em questão. No mérito, busca a concessão da ordem para absolver a acusada ou, subsidiariamente, para que seja estabelecido o regime prisional aberto.
+Aqui, encontra-se em tramitação o AREsp n. 2.516.752/SP, interposto pela paciente e vinculado ao mesmo ato judicial.
+É o relatório.
+Como visto, houve a interposição de recurso especial na origem contra o acórdão da apelação e, diante do juízo negativo da admissibilidade, sobreveio o respectivo agravo, ainda em tramitação. O habeas corpus não deve ser utilizado de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022). No mesmo sentido, o AgRg no RHC n. 194.676/PB, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 5/9/2024.
+De todo modo, não enxergo flagrante ilegalidade a ser reparada de ofício.
+Segundo expôs o Tribunal paulista, além da quantia subtraída não ser desprezível, sobretudo para um trabalhador, a ré também subtraiu sorrateiramente documentos e cartões de crédito da vítima, o que, inegavelmente, acarreta grandes transtornos. Nem se olvide que se trata de reincidente específica e possuidora de maus antecedentes criminais (fl. 22).
+Ora, conforme reiteradamente decidido nesta Corte Superior, a habitualidade criminosa do réu, representada na reincidência e nos maus antecedentes evidencia a acentuada reprovabilidade dos seus comportamentos, situação incompatível com a aplicação do princípio da insignificância (AgRg no HC n. 740.875/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 14/6/2022).
+Nessa mesma linha, ainda, o AgRg no HC n. 925.164/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/9/2024; o AgRg no HC n. 741.388/SP, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 23/9/2022; e o AgRg no HC n. 706.986/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 8/2/2022.
+Por fim, nas hipóteses em que a sanção corporal é definitivamente fixada em patamar igual ou inferior a 4 anos de reclusão, é justificada a fixação do regime inicial fechado quando estão presentes circunstâncias judiciais desfavoráveis (no caso, maus antecedentes) e a reincidência (AgRg no REsp n. 2.398.933/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe 5/3/2024).
+Pelo exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. CONCOMITÂNCIA DE ANDAMENTO DE ARESP NO STJ. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. DESVIRTUAMENTO DO USO DO WRIT. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. MAUS ANTECEDENTES E REINCIDÊNCIA ESPECÍFICA. PRECEDENTES. REGIME FECHADO. ADEQUAÇÃO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
