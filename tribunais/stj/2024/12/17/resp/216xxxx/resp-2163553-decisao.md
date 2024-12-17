@@ -1,0 +1,54 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão prolatado, por unanimidade, pela 10ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de Apelação, assim ementado (fl. 213e):
+PREVIDENCIÁRIO. CONCESSÃO DE PENSÃO POR MORTE DE GENITORES. FILHO MAIOR INVÁLIDO. DEPENDÊNCIA ECONÔMICA PRESUMIDA. HABILITAÇÃO TARDIA.
+1. A concessão do benefício de pensão por morte depende da ocorrência do evento morte, da demonstração da qualidade de segurado do de cujus e da condição de dependente de quem objetiva a pensão. No caso de filho maior inválido, a dependência econômica em relação aos genitores é presumida, sem qualquer ressalva, por força do disposto no art. 16, § 4º, da Lei nº 8.213/91, cabendo ao INSS desconstituí-la.
+2. No caso dos autos, tendo restado comprovado que a invalidez da parte autora é congênita e, portanto, preexistente ao óbito dos instituidores, faz jus a pensões por morte dos genitores. Havendo habilitação tardia, o termo inicial da pensão relativa ao pai é a data do óbito da mãe, evitando-se a dupla condenação da autarquia previdenciária. Precedentes.
+Os Embargos de Declaração foram rejeitados (fls. 235/238e).
+Com amparo no art. 105, III, a, da Constituição da República, a aponta-se ofensa aos arts. 74, I e II da Lei n. 8.213/91, 3º, arts. 189, 195 e 198, I do Código Civil e arts. 2º e 6º da LINDB, alegando-se, em síntese, que tratando-se de dependente relativamente incapaz aplica-se a prescrição.
+Aponta que "a parte autora é pessoa com deficiência e contra ela corre a prescrição".
+Com contrarrazões (fls. 262/269e), o recurso foi admitido (fl. 272e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Quanto à questão da capacidade civil do autor da ação, o tribunal de origem manifestou-se nos seguintes termos (fls. 650/653e):
+Também o fato de o autor ser pessoa com deficiência grave desde o nascimento não é objeto de questionamento. Veja-se que ambas as perícias realizadas na via administrativa concluíram que a doença que acomete o autor (paralisia cerebral) e a incapacidade são congênitas, pois indicaram a data de seu nascimento (12/05/1972) como data de início da invalidez (evento 1, PROCADM11, p. 66, e PROCADM12, p. 25).
+(..)
+Na situação em exame, não há elementos a infirmarem a presunção da dependência econômica, pois não ficou demonstrado nos autos -- e tal ônus cumpria ao INSS a teor do art. 373, II, do Código de Processo Civil -- que o autor goze de condição econômica privilegiada (como patrimônio elevado).
+Por fim, justamente em função de não incidir prescrição em face de pessoa com deficiência intelectual, não se aplica ao caso a prescrição quinquenal prevista no parágrafo único do art. 103 da Lei n. 8.213/91.
+(..).
+Sendo a incapacidade congênita, não há como acolher as irresignações da autarquia, pois contra os absolutamente incapazes não há prescrição, não servindo o Estatuto da pessoa com deficiência de instrumento para supressão de direitos desses indivíduos vulneráveis.
+Destaco, ainda, que a inacumulabilidade das pensões com o benefício assistencial já foi devidamente consignada em sentença, que destacou no dispositivo o período em que BPC foi pago. Portanto, não se conhece do recurso do INSS no tópico, por ausência de interesse.
+Anoto, por fim, que o termo inicial do benefício encontra-se alinhado com a jurisprudência do STJ, pois a sentença o fixou na data do óbito da genitora, evitando-se a dupla c ondenação da autarquia em relação ao período em que o benefício devido pelo óbito do pai já fora pago ao grupo familiar.
+Verifico que, ao contrário do que consigna o recorrente, não se trata de dependente relativamente incapaz, ao contrário, o dependente foi declarado absolutamente incapaz e interditado, o que afasta a possibilidade de reconhecimento da prescriçã o na hipótese.
+Não obstante, o Tribunal de origem consigna que, ainda que a presunção de incapacidade não esteja mais contida no Código Civil, a Lei n. 8.213/1991 disciplina expressamente não haver a prescrição contra as pessoas incapazes, no seu art. 103, parágrafo único.
+Entretanto, a parte recorrente deixou de impugnar esses dois fundamentos suficientes do acórdão recorrido, alegando, tão somente, que trata-se de dependente relativamente incapaz e pugnando pela aplicação das disposições genérica do Código Civil, sem atentar-se à legislação específica, nem às particularidades do caso clínico do autor, capazes de caracterizar a incapacidade civil no caso concreto.
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO MOVIDA CONTRA ESTADO. CHAMAMENTO DA UNIÃO AO PROCESSO. PRODUÇÃO DE PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RAZÕES DOS EMBARGOS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO EMBARGADO. SÚMULAS 283 E 284 DO STF. SUSPENSÃO EM RAZÃO DE RESP ADMITIDO COMO REPRESENTATIVO DE CONTROVÉRSIA. DESCABIMENTO. TEMA ESPECÍFICO.
+(..)
+3. A alegação de omissão do acórdão embargado por ter a ora embargante impugnando os fundamentos da decisão do Tribunal a quo atrai a incidência, por analogia, das Súmulas 283 e 284 do STF, uma vez que não houve menção na decisão monocrática nem no acórdão em agravo regimental sobre tal ponto, de modo que restam dissociadas as razões dos embargos de declaração com relação ao constante nos autos.
+4. Quanto à suspensão do recurso especial, tendo em vista a admissão do REsp n. 1.144.382/AL como representativo de controvérsia, tem-se que este recurso trata da solidariedade passiva da União, dos Estados e dos Municípios tão somente, e não, como no caso em exame, sobre eventual chamamento ao processo de um dos entes.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1.309.607/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2012, DJe 22/08/2012).
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONCURSO DE PREFERÊNCIA. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Na leitura do acórdão recorrido, verifica-se que o Tribunal local não olvidou o fato de possivelmente existir concurso de preferência. Apenas foi consignado que a competência para análise de tal instituto seria do Juízo da Execução. Logo, não merece respaldo a tese da agravante de que foi "inobservada a existência de concursus fiscalis entre a Fazenda Nacional e Fazenda Estadual" (fl. 861, e-STJ). Nesse sentido, verifica-se que as razões recursais mostram-se dissociadas da motivação perfilhada no acórdão recorrido e que não houve impugnação de fundamento autônomo do aresto impugnado. Incidem, portanto, os óbices das súmulas 283 e 284/STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 254.814/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2013, DJe 15/02/2013, destaque meu).
+Ademais, o acórdão recorrido está alinhado à orientação jurisprudencial desta Corte, de modo a ensejar a aplicação do óbice conhecimento estampado na Súmula 83 do STJ.
+De fato é assente nesta Corte o entendimento segundo a qual no caso de pessoas absolutamente incapazes, o prazo prescricional fica impedido de fluir, de tal maneira que, enquanto perdurar a causa, inexiste prescrição a ser contada para efeito de pretensão. A respeito do tema, os seguintes precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO. DEPENDENTE INCAPAZ CURATELADO. PRESCRIÇÃO. NÃO OCORRÊNCIA. PRECEDENTES DO STJ. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido está em consonância com o entendimento do STJ, segundo o qual a prescrição não corre em desfavor do absolutamente incapaz, inclusive os interditados, ainda que sob curatela.
+2. Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto inarredável rever o conjunto probatório dos autos para afastar as premissas fáticas estabelecidas no aresto impugnado. Aplica-se, no caso, a Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 2.066.949/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO. DEPENDENTE INCAPAZ CURATELADO. NÃO OCORRÊNCIA. PRECEDENTES DO STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte orienta-se no sentido de que não flui o prazo prescricional contra os absolutamente incapazes, inclusive os interditados ainda que sob curatela.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.011.559/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
