@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de WILLIAN MARCOS NUNES DA ROCHA - condenado pela prática dos crimes de tráfico de drogas e posse irregular de arma de fogo de uso permitido -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5038265-28.2020.8.24.0038/), não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de nulidade em razão da busca domiciliar efetivada sem fundada suspeita. Subsidiariamente, pede a incidência da minorante do tráfico privilegiado.
+De início, observo que o writ foi indevidamente utilizado como espécie de "segunda apelação criminal", dirigida a uma Corte de Precedentes, o que é inadmissível.
+Ademais, os fatos narrados não se mostram com a nitidez imprimida na inicial, uma vez que se extrai do acórdão a quo que, na data dos fatos, policiais civis foram cumprir dois mandados de busca e apreensão, um em cada residência situada no mesmo terreno, sendo uma delas de propriedade do acusado, quando então lograram êxito na apreensão de uma arma de fogo, municiada, bem como uma porção de maconha e balança de precisão. Ressalte-se que, segundo os agentes policiais, foi o próprio réu quem permitiu a entrada no imóvel e informou a existência da arma de fogo e das drogas no imóvel (fl. 379 - grifo nosso).
+A minorante do tráfico privilegiado foi afastada mediante fundamentação concreta, pois as condenações do apelante pela prática de crime idêntico e de delitos patrimoniais, aliadas as circunstâncias do caso, são suficientes para demonstrar que o Apelante se dedicava ao comércio de drogas (fl. 382).
+Assim, desconstituir as conclusões alcançadas pela Corte estadual, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada na via eleita.
+Por fim, também cabe à defesa, em observância ao princípio da cooperação, aplicável não só na seara cível, mas, no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pena de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. BUSCA DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA DE MANDADO JUDICIAL E AUTORIZAÇÃO DO PACIENTE PARA A ENTRADA DOS POLICIAIS NO IMÓVEL . DOSIMETRIA. MINORANTE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
