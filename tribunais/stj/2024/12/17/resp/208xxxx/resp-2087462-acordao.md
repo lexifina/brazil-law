@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI 11.343/2006. QUANTIDADE DE DROGAS APREENDIDAS INSUFICIENTE PARA AFASTAR O TRÁFICO PRIVILEGIADO. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS NÃO DEMONSTRADA. RECURSO ESPECIAL PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo que deu parcial provimento ao recurso de apelação da defesa, fixando o regime prisional semiaberto para o crime de tráfico de drogas.
+2. O recorrente foi condenado em primeiro grau à pena de 5 anos de reclusão, em regime inicial fechado, além de 500 dias-multa, pela prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+3. A defesa alega violação do art. 33, § 4º, da Lei n. 11.343/2006, argumentando a ausência de fundamento válido para o afastamento da minorante, considerando a pequena quantidade de drogas apreendidas e a ausência de elementos que indiquem participação em organização criminosa ou dedicação à atividade criminosa.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a quantidade de drogas apreendidas, por si só, é suficiente para afastar a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, sem a indicação de elementos concretos adicionais que demonstrem a dedicação do agente a atividades criminosas.
+III. RAZÕES DE DECIDIR
+5. A quantidade de drogas apreendidas, isoladamente, não é suficiente para afastar a minorante do tráfico privilegiado, sendo necessária a demonstração de elementos concretos adicionais.
+6. No caso, a quantidade de 85,69 gramas de "tenanfetamina" (MDA) não justifica o afastamento da minorante, ante a ausência de provas concretas de dedicação às atividades criminosas ou integração em organização criminosa.
+IV. RECURSO ESPECIAL PROVIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto por LEONARDO DE OLIVEIRA BRITO, com fundamento no artigo 105, III, a, da Carta Magna, contra acórdão proferido pela 15ª Câmara Criminal do Tribunal de Justiça de São Paulo, que deu parcial provimento ao seu recurso de apelação da defesa, a fim de fixar o regime prisional semiaberto. Vale conferir a respectiva ementa (e-STJ fls. 251/261):
+Tráfico: art. 33, caput, Lei 11.343/2006. Apelação: Defesa.
+Nulidade do inquérito policial: atipicidade. Inquérito digital: assinaturas das partes em cartório, bastando a assinatura digital da Autoridade Policial.
+Preliminar rejeitada.
+Autoria Larissa: dúvida razoável a seu favor, prevalecendo o princípio in dubio por reo.
+Materialidade e autoria Leonardo: provas bastantes para a condenação.
+Prova testemunhal policial: eficácia, na falta de elementos concretos que desabonem as ouvidas. Descrédito pelo mister público exercido: inadmissibilidade.
+Tráfico: tipicidade independente da constatação de atos de mercancia.
+Desclassificação: art. 28, caput, Lei n. 11.343/2006. Impossibilidade: uma vez caracterizado o tráfico, cuja tipicidade não é afastada pela condição de usuário.
+Pena-base: mínimo legal.
+Art. 33, § 4º, Lei n. 11.343/2006: atipicidade, não sendo o caso de tráfico eventual.
+Regime fechado: readequação ao semiaberto. Pena arbitrada, réu primário e sem antecedentes.
+Medidas restritivas de direitos, e suspensão condicional da pena: inaplicabilidade, ausentes os requisitos objetivos e subjetivos (art. 44, inc. I e III, art. 77, caput e inc. II, Cód. Penal).
+Recurso da acusada Larissa provido, para sua absolvição (art. 386, inc. VII, Cód. Proc. Penal), e do réu Leonardo provido em parte, para readequação do regime ao semiaberto.
+O recorrente foi condenado em primeiro grau pela prática do crime tipificado no artigo 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado, além de 500 dias-multa.
+A defesa sustenta, em síntese, violação do artigo 33, §4º, da Lei n. 11.343/2006, em razão da ausência fundamento válido para o afastamento, mormente considerando a pequena quantidade de drogas apreendidas, e a ausência de elementos que indiquem a participação em organização criminosa ou a dedicação à atividade criminosa.
+Após a apresentação das contrarrazões pelo Ministério Público de São Paulo (e-STJ fls. 345-354), o apelo nobre foi admitido pelo Desembargador Presidente da Seção de Direito Criminal do Tribunal de Justiça de São Paulo (e-STJ fls. 358-359).
+O Ministério Público Federal se manifestou pelo desprovimento do recurso (e-STJ fls. 393-396).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI 11.343/2006. QUANTIDADE DE DROGAS APREENDIDAS INSUFICIENTE PARA AFASTAR O TRÁFICO PRIVILEGIADO. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS NÃO DEMONSTRADA. RECURSO ESPECIAL PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo que deu parcial provimento ao recurso de apelação da defesa, fixando o regime prisional semiaberto para o crime de tráfico de drogas.
+2. O recorrente foi condenado em primeiro grau à pena de 5 anos de reclusão, em regime inicial fechado, além de 500 dias-multa, pela prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+3. A defesa alega violação do art. 33, § 4º, da Lei n. 11.343/2006, argumentando a ausência de fundamento válido para o afastamento da minorante, considerando a pequena quantidade de drogas apreendidas e a ausência de elementos que indiquem participação em organização criminosa ou dedicação à atividade criminosa.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a quantidade de drogas apreendidas, por si só, é suficiente para afastar a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, sem a indicação de elementos concretos adicionais que demonstrem a dedicação do agente a atividades criminosas.
+III. RAZÕES DE DECIDIR
+5. A quantidade de drogas apreendidas, isoladamente, não é suficiente para afastar a minorante do tráfico privilegiado, sendo necessária a demonstração de elementos concretos adicionais.
+6. No caso, a quantidade de 85,69 gramas de "tenanfetamina" (MDA) não justifica o afastamento da minorante, ante a ausência de provas concretas de dedicação às atividades criminosas ou integração em organização criminosa.
+IV. RECURSO ESPECIAL PROVIDO.
+VOTO
+Consoante relatado, a parte recorrente sustenta a violação do art. 33, 4º, da Lei 11.343/2006, pleiteando a redução da pena no patamar de 2/3.
+Quanto à controvérsia, o Tribunal de origem, assim se pronunciou:
+Isso posto, a pena-base foi fixada no mínimo legal, de 5 anos de reclusão, e 500 dias-multa, no valor de piso.
+Não incidindo circunstâncias agravantes ou atenuantes, e nem causas de aumento ou diminuição de pena, na terceira fase, em relação ao art. 33, § 4º, da Lei n. 11.343/2006, foi bem afastado o redutor, tendo em vista a quantidade de produtos apreendidos, o que desautoriza admitir ser o caso de tráfico eventual.
+A dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por esta Corte Superior. Somente em casos de evidente desproporcionalidade entre o delito e a pena imposta, caberá a reapreciação para a correção de eventual desacerto.
+O § 4º do art. 33 da Lei n. 11.343/2006 dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/2006, as circunstâncias da apreensão das drogas ou da prisão em flagrante, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+No caso, o entendimento proferido pela Corte de origem está em dissonância com o entendimento desta Corte, pois, além de se tratar de apenas 85,69 gramas de "tenanfetamina" - MDA (e-STJ fl. 255), a quantidade de entorpecentes somente pode ser considerada para o afastamento do tráfico privilegiado se houver a indicação de elementos concretos adicionais. Inadmitido, portanto, conjecturas e suposições acerca da dedicação ou integração com organização criminosa.
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06 no seu patamar máximo de 2/3.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. INCIDÊNCIA. QUANTIDADE DE DROGAS APREENDIDAS INSUFICIENTE PARA AFASTAR O TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO. 1. De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas. 2. Em relação à quantidade de drogas apreendidas, cediço que a jurisprudência desta Corte entende que este elemento, por si só, não é suficiente ao afastamento da minorante. Nesse contexto: REsp n. 1.887.511/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021. 3. A mera menção a elementos inerentes ao crime de tráfico equivale à ilação, não sendo suficiente ao afastamento da causa de diminuição, uma vez que não demonstrada, de modo concreto e comprovado nos autos, a dedicação do agravado a atividades criminosas. 4. Agravo regimental desprovido. (AgRg no HC n. 938.330/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/ 10/2024, DJe de 16/10/2024.)
+AGRAVOS REGIMENTAIS NO AGRAVO EM RECURSO ESPECIAL. RECURSO DE FERNANDO GONCALVES GIMENES. PEDIDO DE SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DOS ARTS. 1.021, § 1º, DO CPC E 253 DO RISTJ. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO. RECURSO DE FABIANO INACIO DA SILVA. DECISÃO AGRAVADA. IMPUGNAÇÃO DOS FUNDAMENTOS. RECONSIDERAÇÃO. TRÁFICO DE DROGAS. CONDENAÇÃO FUNDAMENTADA. APREENSÃO DE 197 KG DE COCAÍNA. DEPOIMENTOS DE POLICIAIS. ABSOLVIÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA. ART. 33, § 4º, DA LEI DE DROGAS. AFASTAMENTO. QUANTIDADE DE DROGAS. AUSÊNCIA DE CIRCUNSTÂNCIAS CONCRETAS ADICIONAIS. ILEGALIDADE. OCORRÊNCIA. REDIMENSIONAMENTO. NECESSIDADE. REGIME INICIAL SEMIABERTO. AGRAVO PARCIALMENTE PROVIDO.
+1. Não cabe sustentação oral no julgamento de agravo regimental, nos termos do art. 159 do RISTJ.
+2. Em relação ao agravo de Fernando Goncalves Gimenes, a ausência de impugnação específica aos fundamentos da decisão combatida atrai a incidência do disposto nos arts. 1.021, § 1º, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182/STJ, por analogia.
+3. Em relação ao agravo de Fabiano Inacio da Silva, tendo sido impugnadas todas os fundamentos da decisão agravada, o recurso deve ser conhecido.
+4. Tendo a Corte de origem concluído pela existência de prova apta a amparar o édito condenatório, considerando que houve a apreensão de 197 kg de cocaína, não tendo sido produzida qualquer prova da suspeição ou impedimento dos policiais, a revisão do julgado, para fins de absolvição do delito, demandaria o revolvimento do conjunto fático-probatório, inadmissível a teor da Súmula 7/STJ.
+5. Orienta-se a jurisprudência no sentido de que os depoimentos dos agentes policiais, colhidos sob o crivo do contraditório, merecem credibilidade como elementos de convicção, máxime quando em harmonia com os elementos constantes dos autos.
+6. Conforme a jurisprudência desta Corte Superior, a indicação da expressiva quantidade de drogas apreendida, cerca de 197 kg de cocaína, isoladamente, sem a expressa referência a circunstâncias concretas adicionais, não justifica o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, mas autoriza a aplicação de fração inferior a 2/3, no patamar de 1/6, redimensionando-se a pena para 4 anos, 10 meses e 10 dias de reclusão, além do pagamento de 486 dias-multa.
+7. A expressiva quantidade de droga justifica a fixação do regime inicial imediatamente mais gravoso para o cumprimento de pena, o fechado, não sendo cabível a substituição da pena privativa de liberdade por restritivas de direitos, tendo em vista o total de pena aplicado, nos termos do art. 44, I, do CP.
+8. Agravo regimental de Fernando Goncalves Gimenes não conhecido e o de Fabiano Inacio da Silva parcialmente provido, para fixar a sua pena em 4 anos, 10 meses e 10 dias de reclusão, em regime inicial fechado, além do pagamento de 486 dias-multa. (AgRg no AREsp n. 1.813.031/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 25/5/2021, DJe de 31/5/2021.)
+Considerando a primariedade e o quantum de pena estabelecido, o recorrente faz jus ao regime aberto para início de cumprimento de pena, ex vi do art. 33, § 2º, c, e § 3º, do Estatuto Penal, bem como de acordo com o entendimento constante das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e da Súmula n. 440 desta Corte Superior.
+Preenchidos os requisitos do art. 44 do Código Penal, quais sejam, pena não superior a 4 anos, o crime não foi cometido com violência ou grave ameaça à pessoa, réu não reincidente e circunstâncias judiciais favoráveis, o recorrente faz jus à substituição da pena privativa de liberdade por restritivas de direitos, em moldes a serem especificados pelo Juízo da execução penal.
+Ante o exposto, dou provimento ao presente recurso especial, para de estabelecer a reprimenda corporal imposta ao recorrente em 1 ano e 8 meses de reclusão e 166 dias-multa, a ser cumprida no regime aberto e determinar a conversão da pena privativa de liberdade por restritivas de direitos, nos moldes do art. 44 do Código Penal, a ser estabelecida pelo Juízo a quo, nos termos da fundamentação supra.
+É o voto.
