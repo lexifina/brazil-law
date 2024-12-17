@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial contra acórdão assim ementado:
+APELAÇÕES CÍVEIS. SERVIDOR PÚBLICO. MAGISTÉRIO. MUNICÍPIO DE PENEDO. PISO NACIONAL OBSERVADO. LEI 11.738/2008. PROPORCIONALIDADE. ESCALONAMENTO E REFLEXOS QUE NÃO OCORREM DE FORMA AUTOMÁTICA PARA OS NÍVEIS INTERMEDIÁRIOS E SUPERIORES DA CARREIRA. PRECEDENTE DO STJ. TEMA REPETITIVO 911. PAGAMENTO DE TERÇO CONSTITUCIONAL DE FÉRIAS. INCIDÊNCIA SOBRE A REMUNERAÇÃO DO PERÍODO INTEGRAL, QUE É DE 45 DIAS PARA OS PROFESSORES DA REDE PÚBLICA DO MUNICÍPIO DE PENEDO. LEGISLAÇÃO LOCAL QUE NÃO LIMITA A REPERCUSSÃO DAQUELA RUBRICA. ADICIONAL DE TEMPO DE SERVIÇO DEVIDO. LEI MUNICIPAL GERAL QUE PREVÊ A VERBA. AUSÊNCIA DE BIS IN IDEM EM RELAÇÃO ÀS PROMOÇÕES ADVINDAS DO PLANO DE CARREIRA. RECURSOS DESPROVIDOS. COMPLEMENTO DE OFÍCIO DA SENTENÇA PARA SANAR OMISSÕES QUANTO À EXTENSÃO DE OBRIGAÇÃO, AOS HONORÁRIOS DE SUCUMBÊNCIA E AOS CONSECTÁRIOS DA CONDENAÇÃO.
+No recurso obstaculizado, a parte recorrente aponta ofensa do art. 2º, § 2º, da LINDB e do art. 50 da Lei n. 8.112/1990, pois "o requisito do tempo de serviço deve ser observado tanto no Estatuto do Servidor (Lei n. 228/1955 e alterações), quanto na Lei Municipal n. 1.088/1998 (PCCS), independentemente da existência de outros requisitos constantes na lei especifica." (e-STJ fl. 992)
+Sem contrarrazões.
+Passo a decidir.
+Embora a parte recorrente aponte ofensa a legislação federal, observa-se das razões do especial que toda a argumentação é calcada em legislação local (Lei n. 228/1955, Lei n. 1.088/1998, Lei n. 1.317/2009), sendo certo a incidência da Súmula 280 do STF.
+Ademais, verifica-se que a questão controvertida nos autos foi solucionada pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência do aludido óbice sumular.
+Por fim, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorr ente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
