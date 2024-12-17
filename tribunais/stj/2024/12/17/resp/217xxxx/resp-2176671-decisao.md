@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 38):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA DE DINHEIRO. SISBAJUD. IMPENHORABILIDADE. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL (APAE). VERBA IMPRESCINDÍVEL À MANUTENÇÃO DAS ATIVIDADES. PREJUÍZO À COMUNIDADE.
+1. É de se reconhecer a necessidade de compatibilização dos interesses do credor com a função social exercida pela parte executada, notadamente quando o bloqueio de ativos acarreta entraves ao funcionamento da entidade, prejudicando a comunidade atendida pelos serviços prestados.
+2. Caso em que o valor bloqueado corresponde a mais da metade da receita bruta mensal obtida pela entidade, sendo, portanto, imprescindível à manutenção das atividades de assistência social desenvolvidas.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigos 11, 489, §1º, I a IV e 1.022, II, do CPC/2015, ao argumento de que: (i)) a Corte de origem não se manifestou a respeito da questão suscitada nos embargos declaratórios; (ii) "a decisão do evento 16 não se pronuncia sobre os termos do recurso manejado no evento 9, mas apenas se limita a transcrever comando anteriormente proferido nos autos" (fl. 70).
+Argumenta que "nos termos do constante dos arts. 11, I da Lei nº 6.830/80 e 835, I, do CPC, a penhora sobre dinheiro prefere em relação às demais modalidades" (fl. 70).
+Acrescenta que "a Primeira Seção deste C. Superior Tribunal de Justiça, no julgamento do recurso especial representativo de controvérsia nº 1.184.765/PA, firmou o entendimento de que é possível, no âmbito da execução fiscal, a penhora de ativos financeiros do devedor como primeiro esforço tendente à garantia da dívida, não havendo necessidade de a Fazenda esgotar os meios ordinários de busca de bens do devedor antes da adoção de tal providência. Há que se observar o comando em questão, sob pena de ofensa ao constante dos arts. 11, 927, III e 489, § 1º, V e VI, todos do CPC" (fls. 70-71).
+Sustenta que "a União não se opõe à aplicabilidade da regra de impenhorabilidade de valores, mas é preciso que se reconheça a necessidade de prova da qualidade das quantias depositadas. Incide na espécie o art. 373, I do CPC" (fl. 71).
+Assevera, por fim, que "a prova dos autos milita em favor da manutenção da penhora sobre quantia, a teor do respeito aos arts. 854 e 371 do CPC" (fls. 71-72).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 84.
+É o relatório. Passo a decidir.
+De início, não se conhece da suposta afronta aos artigos 11, 489, §1º, I a IV e 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa aos referidos normativos sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Além disso, no tocante aos arts. 371, 373, I, 927, III e 854 do CPC/2015, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Por outro lado, no que diz respeito à tese da impossibilidade de levantamento da penhora realizada, o acórdão recorrido consignou o seguinte (fls. 36-37; grifos nossos):
+A decisão que deferiu o pedido de antecipação da tutela recursal foi assim fundamentada:
+ ..
+Todavia, há uma peculiaridade a ser observada no caso em exame, uma vez que a parte executada é entidade beneficente de assistência social, que presta serviços de saúde, educação e assistência social gratuitamente à população.
+Em casos análogos, esta Corte tem se posicionado no sentido de reconhecer a necessidade de compatibilização dos interesses do credor com a função social exercida pela executada, notadamente quando o bloqueio de ativos acarreta entraves ao funcionamento da entidade, prejudicando a comunidade atendida pelos serviços prestados.
+ ..
+Com efeito, no caso concreto, há comprovação de que o valor bloqueado via SISBAJUD (R$ 46.987,42 - evento 37, SISBAJUD2) corresponde a mais da metade da receita bruta mensal obtida pela entidade em agosto de 2023 (R$ 78.778,10 - evento 42, OUT2), sendo, portanto, imprescindível à manutenção das atividades de assistência social desenvolvidas.
+A origem dos recursos, que é em parte pública e em parte privada (proveniente de doações da comunidade), por si só, não pode servir como fundamento para a análise da impenhorabilidade dos valores exclusivamente sob o prisma aplicável às pessoas jurídicas em geral - que visam ao lucro -, como o fez o magistrado de origem.
+Ademais, a propositura de ação objetivando a declaração de inexistência dos débitos executados (nº 5004702-69.2022.4.04.7117) é fato que demanda ainda maior cautela na análise da constrição de ativos financeiros da entidade, com vistas à preservação de suas atividades.
+Diante de tais particularidades, e considerado o relevante interesse social envolvido, há probabilidade no direito alegado pela agravante, devendo ser deferido o pedido de levantamento da penhora de valores realizada via SISBAJUD.
+Ocorre que a recorrente não impugna a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ressalte-se, ainda, que a revisão da conclusão a que chegou o Tribunal de origem, no sentido de que o valor bloqueado representa mais de metade da receita bruta mensal obtida pela entidade, sendo imprescindível à manutenção de suas atividades, demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 11, 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. PENHORA DE DINHEIRO. VERBA IMPRESCINDÍVEL À MANUTENÇÃO DAS ATIVIDADES DA ENTIDADE BENEFICENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
