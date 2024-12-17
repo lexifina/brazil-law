@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALOISIO SILVA LEMOS (ALOISIO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal, assim ementado:
+AGRAVO DE INSTRUMENTO. COMPETÊNCIA TERRITORIAL. FORO DA SEDE DA EMPRESA RÉ. RELAÇÃO DE CONSUMO. OPÇÃO DO CONSUMIDOR. ESCOLHA INJUSTIFICADA DE FORO. DECLÍNIO DE COMPETÊNCIA.
+1. A discussão sobre a competência para o processamento e julgamento da ação possui aptidão para causar prejuízo manifesto às partes e ao trâmite processual, razão pela qual admite-se a interposição do agravo de instrumento sob a ótica da tese de taxatividade mitigada.
+2. Ainda que se admita que a relação entre as partes seja de consumo, não se pode permitir que a prerrogativa de eleição de foro converta-se em escolha injustificada, em flagrante afronta aos critérios constitucionais de competência.
+3. O próprio Superior Tribunal de Justiça já decidiu que é possível a "declinação de ofício pelo magistrado, quando constatadas a inobservância do princípio da facilitação da defesa do consumidor ou a escolha arbitrária da parte ou de seu advogado" (AgRg no AR Esp n. 667.721/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/6/2015, D Je de 15/6/2015).
+4. A questão não se limita à análise da proteção dos direitos do consumidor, mas a critérios maiores de organização judiciária dos Estados e de definição político-administrativa da República Federativa do Brasil, e seus entes federados, com reflexos na multiplicação de ações e recursos em trâmite no TJDFT, que afetam, inclusive, a celeridade e a efetiva prestação jurisdicional, dentre outros importantes fatores.
+5. Agravo de Instrumento conhecido e não provido. (e-STJ, fls. 225/233).
+Nas razões do presente recurso, ALOISIO alegou a violação aos arts. 46, 53, III, "a", 512 do CPC, 93, II, e 103, III, do CDC, 16 da Lei 7.347/85, ao sustentar que (1) é possível o consumidor escolher o foro em que tramitará a liquidação individual, sendo de rigor o reconhecimento da competência do juízo eleito; (2) a incompetência relativa não pode ser declarada de ofício.
+Foram apresentadas contrarrazões (e-STJ, fls. 425/431).
+É o relatório.
+Decido.
+Colhe-se do acórdão recorrido que se trata de liquidação de sentença com base na sentença coletiva proferida na Ação Civil Pública nº. 0008465- 28.1994.4101.3400, movida pelo Ministério Público Federal perante a 3ª Vara Federal do Distrito Federal, a qual versa sobre a devolução das diferenças pagas pelos mutuários de Cédulas de Crédito Rural (Cédula Rural nº 88/00890-8, no valor CZ$ 1.764.880,00) (e-STJ fl. 383).
+Ao julgar os Segundos Embargos de Declaração no Recurso Extraordinário n. 1.445.162-DF, o ilustre Ministro Relator Alexandre de Moraes decretou a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. Confira-se:
+(..)
+Com base no art. 1.035, § 5º, do Código de Processo Civil, DECRETO a SUSPENSÃO do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. Oficie-se ao Conselho Nacional de Justiça e aos Presidentes de todos os Tribunais do país, com cópia deste despacho e da manifestação do Relator.
+A comunicação aos juízos de 1º grau e às turmas recursais de juizados deverá ser feita pelo Tribunal de 2ª instância com os quais mantenham vinculação administrativa.
+Assim, mesmo que o tema referente ao índice de correção monetária aplicável às cédulas de crédito rural não seja objeto do recurso especial sub judice, por se tratar de liquidação de sentença, em razão de cédula de crédito rural, vigente em março de 1990, o processo deve ser suspenso, em obediência à determinação do STF.
+Nessas condições, DETERMINO a devolução do processo ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso até o julgamento do Recurso Extraordinário 1.445.162 (Tema STF 1.290), observando-se o disposto nos artigos 1.039 a 1.041 do CPC.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEMANDA COLETIVA. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL. MATÉRIA AFETADA PELO SUPREMO TRIBUNAL FEDERAL. TEMA 1.290. SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM.
