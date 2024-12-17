@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Belo Horizonte, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 252):
+EMENTA: APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - DECURSO DO LUSTRO PRESCRICIONAL - PRESCRIÇÃO INTERCORRENTE - CONFIGURAÇÃO. -A teor do Informativo 635, do STJ, "O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/1980 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor." - Transcorrido um ano da suspensão, sem que fossem localizados bens do devedor suficientes a garantir a execução, reinicia-se automaticamente a fluência do prazo prescricional quinquenal, conforme §§ 2º e 4º do art. 40 da Lei 6.830/80.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 276/280.
+A parte recorrente aponta violação aos arts. 833, X, do CPC. Sustenta, em resumo, que: "A decisão de juízo de primeiro grau coloca que "(..)restou configurada a prescrição intercorrente do crédito tributário, ante o decurso do lapso temporal superior a cinco anos, sem que houvessem causas que interrompessem o curso da prescrição.". Contudo, como alegado já pela parte Recorrente, houve a devida constrição de bens nos presentes autos" (fl. 285).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Importante registrar, à saída, que, o Sodalício de origem reconheceu a prescrição, e ao solucionar a contenda, pautou-se pelo posicionamento consolidado pelo pelo Superior Tribunal de Justiça, no julgamento dos Temas nos 566 a 571 (REsp nº 1.340.553/RS).
+Adiante, da leitura do relatório antes realizado, pode-se verificar que a tese recursal de que ocorreu a efetiva constrição de bens na execução fiscal, interrompendo o curso do prazo prescricional, mostra-se ligada à matéria que restou decidida na origem, com base na matéria do repetitivo.
+Nesse contexto, resta prejudicada a apreciação do recurso especial e de seu respectivo agravo do art. 1.042 do CPC, pois, no caso dos autos, o Tribunal de origem manteve o acórdão recorrido por estar em conformidade com a tese adotada no precedente indicado, o que afasta o disposto no art. 1.041 do CPC, segundo o qual "mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.".
+ANTE O EXPOSTO , nego provimento ao recurso.
+Publique-se.
+EMENTA
