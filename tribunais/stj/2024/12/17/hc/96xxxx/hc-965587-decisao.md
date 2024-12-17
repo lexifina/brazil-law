@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  de  liminar  impetrado  em  favor  de  ERALDO  DOS  SANTOS  PINTO  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  RIO  GRANDE  DO  SUL.
+Consta  dos  autos  que  o  paciente  foi  preso  em  flagrante  em  1º/9/2023,  pela  suposta  prática  das  condutas  descritas  nos  arts.  33,  caput,  e  35  da  Lei  n.  11.343/2006  e  16,  parágrafo  único,  IV,  da  Lei  n.  10.826/2003,  deixando  o  juízo,  na  audiência  de  custódia,  de  converter  o  cárcere  em  preventiva.
+Interposto  recurso  em  sentido  estrito  pelo  Ministério  Público  estadual,  o  Tribunal  de  origem  deu-lhe  provimento  para  decretar  a  prisão  preventiva.
+A  impetrante  sustenta  que  o  paciente  se  encontra  em  situação  fático-processual  idêntica  à  de  seu  filho  e  corréu,  JOHN  LENNON  KUBICZEWSKI  PINTO,  que  obteve  decisão  de  liberdade  provisória ,  ressaltando  a  necessidade  de  extensão  dos  efeitos,  nos  termos  do  art.  580  do  CPP.
+Requer,  liminarmente  e  no  mérito,  a  concessão  do  writ,  para  que  seja  concedido  o  benefício  de  extensão  de  efeitos  da  decisão  proferida  nos  autos  do  r ecurso em sentido estrito  n.  5001582-20.2023.8.21.0151/RS,  nos  termos  do  art.  580  do  CPP,  bem  como  a  revogação  da  prisão  preventiva,  ainda  que  mediante  a  aplicação  de  medidas  cautelares  diversas.
+É  o  relatório.
+Está  sedimentado  nesta  Corte  Superior  o  entendimento  de que  o  pedido  de  extensão  deve  ser  formulado  nos  autos  do  processo  no  qual  foi  prolatada  a  decisão  cujos  efeitos  se  pretende  estender,  o  que  não  ocorre  no  presente  caso  (HC  424.399/SP,  relator  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  julgado  em  23/8/2018,  DJe  4/9/2018).
+De todo modo, consoante se extrai do art. 580 do CPP, para que os efeitos benéficos de uma decisão sejam estendidos aos corréus é necessária a identidade fático-processual e a ausência de qualquer distinção de caráter pessoal.
+A propósito, sobre o tema assim ponderou a Corte local (fl. 39, grifei):
+Ademias, no tocante ao pedido de extensão de efeitos de decisão favorável ao corréu John Lennon Kubiczewski Pinto, observa-se que não estão preenchidos os requisitos legais para sua aplicação.
+Como se sabe, o artigo 580 do Código de Processo Penal exige identidade de condições entre os corréus e a existência de efeitos favoráveis passíveis de extensão.
+Na hipótese, o corréu John Lennon teve sua liberdade provisória deferida por decisão do juízo de primeiro grau, a qual foi apenas ratificada por esta Câmara Criminal ao julgar o recurso em sentido estrito interposto pelo Ministério Público.
+Ao contrário, em relação ao paciente Eraldo, sua liberdade provisória foi revista nesta instância, oportunidade em que este Tribunal de Justiça decretou a sua prisão preventiva, ao dar provimento ao recurso do Ministério Público.
+Dessa forma, se esta Corte proferiu decisões (benéfica em favor de John Lennon, por ser primário e diante da ausência de contemporâneidade; e outra em desfavor de Eraldo, por responder a outras ações penais e haver indícios de que integra facção criminosa), evidenciado está que foram baseadas em motivos de caráter exclusivamente pessoal, sendo inviável a aplicação do artigo 580 do CPP no caso concreto.
+Por fim, como já exposto, sendo este Tribunal de Justiça apontado como a autoridade coatora, em relação à decisão proferida em desfavor do paciente Eraldo, a matéria em comento deve ser aprecida pelas instâncias superiores.
+Ante o exposto, em decisão monocrática, com base no art. 206, XXXVIII do RITJRS, não conheço do presente habeas corpus.
+Em que pese a alegação de que o paciente encontra-se na mesma situação fático-processual do corréu John Lennon, verificam-se distinções de caráter pessoal, que tornam incabível a extensão dos efeitos da decisão, na medida em que, diversamente do corréu - primário -, o ora paciente responde a outras ações penais e há indícios de que integra facção criminosa, mostrando-se inviável a aplicação do art. 580 do CPP.
+Assim, não se apresentando a situação processual dos réus como rigorosamente idêntica , não há flagrante ilegalidade a se reconhecer.
+Por fim, a legalidade do decreto prisional já foi analisada por este Tribunal Superior nos autos do HC n. 894.577/RS, constatando-se, assim, a inadmissível reiteração, conforme a jurisprudência do Superior Tribunal de Justiça, da qual é exemplo o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ALEGADA VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA PELO ACUSADO. REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria relativa à violação do domicílio já foi decidida por esta Corte Superior no julgamento do HC n. 692.133/SP. Deste modo, diante da inadmissível reiteração de pedidos, inviável o conhecimento do writ.
+2. Apesar da alegação de se tratar de impugnação de atos processuais distintos (recebimento da denúncia e decretação da prisão preventiva), nota-se que a matéria de direito discutida nos presentes autos é a mesma daquela deduzida na impetração primeva, qual seja, a ilicitude do flagrante e das provas colhidas mediante a suposta indevida violação de domicílio, sem que as instâncias ordinárias tenham analisado qualquer novo elemento de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 721.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
