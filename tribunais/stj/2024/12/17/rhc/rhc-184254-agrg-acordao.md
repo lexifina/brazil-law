@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NULIDADE. INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDOS. AGRAVO DESPROVIDO.
+1. Segundo afirmado pelo Tribunal de Justiça, o corréu foi flagrado com drogas e indicou armazenar mais entorpecentes em residência, o que, em princípio, afasta a alegação de violação de domicílio.
+2. O tema da prisão preventiva constitui o objeto do HC n. 824.908/SP. No julgamento do referido writ, não foi identificada flagrante ilegalidade, ocasião na qual se entendeu correto o entendimento do Tribunal de origem. Dessa forma, evidencia-se a reiteração de pedido, o que é inadmissível, conforme entendimento pacífico deste Tribunal.
+3. Agravo desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por LUCAS DE NAZARETH FERNANDES LONGUINHO contra a decisão de fls. 200/215 que negou provimento ao recurso em habeas corpus.
+No recurso, o agravante reitera que policiais militares ingressaram em residência sem autorização judicial e sem consentimento do morador, não havendo, ainda, indícios prévios da prática criminosa no local.
+Requer a reconsideração do ato contestado, ou que o feito seja encaminhado a julgamento pelo órgão colegiado, a fim de revogar a prisão preventiva decretada em desfavor do agravante.
+O Ministério Público Federal - MPF manifestou-se pelo desprovimento do agravo (fls. 280/284).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NULIDADE. INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDOS. AGRAVO DESPROVIDO.
+1. Segundo afirmado pelo Tribunal de Justiça, o corréu foi flagrado com drogas e indicou armazenar mais entorpecentes em residência, o que, em princípio, afasta a alegação de violação de domicílio.
+2. O tema da prisão preventiva constitui o objeto do HC n. 824.908/SP. No julgamento do referido writ, não foi identificada flagrante ilegalidade, ocasião na qual se entendeu correto o entendimento do Tribunal de origem. Dessa forma, evidencia-se a reiteração de pedido, o que é inadmissível, conforme entendimento pacífico deste Tribunal.
+3. Agravo desprovido.
+VOTO
+Embora presentes as condições de admissibilidade, no mérito, o recurso não prospera.
+Como relatado, a defesa pretende o reconhecimento de nulidade por suposta violação de domicílio e, consequentemente, a revogação do decreto de prisão cautelar.
+A despeito dos judiciosos argumentos desenvolvidos no agravo, não é possível constatar a alegada nulidade por suposta violação de domicílio.
+Registre-se que o tema não foi deliberado com profundidade pelo Tribunal de Justiça, tendo em conta os limites cognitivos da via processual utilizada e a fase procedimental em que se encontrava o feito por ocasião da denegação da ordem, concluindo a Corte local que "diante das fundadas razões decorrentes da abordagem do corréu Thiago que, flagrado na posse de entorpecentes, indicou possuir mais porções de drogas em sua residência, não há que se falar, a princípio, em nulidade das provas" (fl. 139).
+Como asseverado pela instância antecedente, o corréu foi flagrado com drogas e indicou armazenar mais entorpecentes na sua residência, o que, em princípio, afasta a alegação de violação de domicílio. Nesse contexto, é inviável apurar com profundidade, na via do recurso em habeas corpus, as provas relativas à licitude, ou não, das diligências policiais, providência que incumbe, primeiramente, ao juízo competente.
+Por oportuno, confira-se decisão desta Corte em caso que apresenta semelhanças com o presente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. INVASÃO DE DOMICÍLIO. LEGALIDADE DA MEDIDA. DIREITO DE PERMANECER EM SILÊNCIO. AUSÊNCIA DE AVISO NO MOMENTO DA ABORDAGEM. FALTA DE PREVISÃO LEGAL. CONSENTIMENTO DO MORADOR. MODIFICAÇÃO DA PREMISSA. NECESSIDADE DE REVOLVIMENTO DO MATERIAL FÁTICO/PROBATÓRIO DOS AUTOS. TRÁFICO PRIVILEGIADO. REQUISITOS LEGAIS NÃO PREENCHIDOS. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Plenário do Supremo Tribunal Federal, no julgamento do RE n. 603.616/RO, apreciando o Tema n. 280 da repercussão geral, fixou a tese de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados.
+2. No caso, a busca domiciliar foi devidamente justificada, uma vez que o paciente, no curso de busca pessoal, confessou a existência de entorpecentes em sua residência e autorizou a entrada em seu domicílio, o que foi confirmado pelos policiais responsáveis pela abordagem. Ademais, "ainda que haja controvérsias a respeito da autorização do réu para que os agentes estatais adentrassem no imóvel, a análise da matéria demandaria revolvimento aprofundado de provas, inviável na via estreita do habeas corpus. Além disso, as circunstâncias antecedentes à abordagem policial deram suporte válido a diligência policial" (AgRg no HC n. 796.305/MS, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023)
+3. A legislação processual penal não exige que os policiais, no momento da abordagem, cientifiquem o abordado quanto ao seu direito em permanecer em silêncio (Aviso de Miranda), uma vez que tal prática somente é exigida nos interrogatórios policial e judicial (AgRg no HC n. 809.283/GO, DE MINHA RELATORIA, Quinta Turma, julgado em 22/5/2023, DJe de 24/5/2023).
+4. Não se pode afirmar que o afastamento do tráfico privilegiado se deu unicamente pelo entendimento de que o paciente estava ligado à facção Comando Vermelho, mas também nos objetos apreendidos, especialmente na balança de precisão, que demonstra a dedicação do paciente às atividades criminosas.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 859.463/PA, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/4/2024, DJe de 11/4/2024. )
+Convém registrar que após a denegação da ordem pela Corte de origem (fls. 135/146), sobreveio sentença penal condenatória proferida pelo Juízo da 1ª Vara da Comarca de Ubatuba/SP nos autos da ação penal n. 1500646-47.2023.8.26.0642 (fls. 257/267), prolatada em desfavor do corréu. Apesar disso, a defesa não indicou fato inédito capaz de ensejar novo - e excepcionalíssimo - exame da matéria pelo STJ.
+Embora o recurso mencione a irregularidade das buscas pessoais realizadas nos autuados em flagrante, este tema não foi decidido pelo Tribunal de Justiça, o que impede qualquer manifestação do STJ a respeito, sob pena de supressão de instância e inovação recursal.
+Por fim, é inviável nova deliberação acerca da higidez da custódia cautelar, pois o tema constitui objeto do HC n. 824.908/SP. No julgamento do referido writ, não foi identificada flagrante ilegalidade, ocasião na qual se entendeu correto o entendimento do Tribunal de origem. Dessa forma, evidencia-se a reiteração de pedido, o que é inadmissível, conforme entendimento pacífico deste Tribunal Superior.
+Ante o exposto, voto pelo desprovimento do recurso.
