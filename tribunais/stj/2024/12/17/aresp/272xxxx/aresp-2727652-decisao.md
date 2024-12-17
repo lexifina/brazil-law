@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOSELLE MAROCCO DA SILVA, MAGALI LUIZA MAROCCO DA SILVA e ROSMARI GERBER MAROCCO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/07/2024.
+Concluso ao gabinete em: 25/11/2024.
+Ação: de petição de herança, ajuizada pela parte ora agravante, em face de RENATA CESAR PASQUALETTO DE ASSIS, RODOLFO CESAR PASQUALETTO, ZILDA CESAR PASQUALETO, ELEN DA SILVA CESAR, MARIO DOS SANTOS, MARISA CESAR PASQUALETO COUTINHO, FLAVIO CESAR PASQUALETO, JOSE RENATO CESAR PASQUALETTO, CARLOS HENRIQUE DOS SANTOS OLIVEIRA, ALESSANDRA DOS SANTOS OLIVEIRA BATALHA, DULCE FILOMENA CESAR PASQUALETO, ANA GOVIC, LISANDRA DE ARAUJO CESAR TEIXEIRA, CELIA REGINA DOS SANTOS e OILZE DOS SANTOS FILHO, parte ora agravada.
+Na inicial, narram que são filhas de LILLIAN MAROCCO CÉSAR (falecida em 1/9/2012) e, por consequência, netas de JAIRO ANTONIO DE ARAÚJO CÉSAR, irmão do autor da herança.
+Alegam que não foram incluídas como herdeiras, apesar de possuírem direito à herança por direito de representação.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pela parte ora agravante e não conheceu do recurso adesivo interposto pela parte ora agravada, nos termos da seguinte ementa (e-STJ fl. 567):
+"APELAÇÃO AÇÃO DE PETIÇÃO DE HERANÇA IMPROCEDÊNCIA Recurso principal das autoras que não comporta provimento. Recurso adesivo da ré que se revela deserto As próprias autoras sustentam que, nos termos da lei, não fazem jus à sucessão de Luis Roberto. Genitora das autoras que, se viva fosse, poderia, na qualidade de sobrinha (ou seja, "filha de irmão"), herdar por direito de representação. Às sobrinhas-netas a lei não concede tal direito. Artigos 1.840 e 1.853, ambos do Código Civil. Eventual recebimento por terceiros que ocupam a mesma posição sucessória das autoras, porque ilegal e equivocado, não permite que o Poder Judiciário se valha da mesma ilegalidade Recurso Adesivo que se revela deserto, posto que à requerida não fora concedida a gratuidade processual, benefício que se revela personalíssimo. Preparo que teria que ser recolhido na hipótese de interposição de recurso principal, não se justificando, assim, o não recolhimento em caso de recurso adesivo Sentença mantida Recurso principal improvido, não se conhecendo do apelo adesivo"
+Recurso especial: alegam violação dos arts. 1.824 e 1.825 do CC, sustentando que: (i) o "Inventariante, que omitiu a existência de sobrinha pré-morta (Zilda) e incluiu diretamente os sobrinhos-netos, Alessandra e Carlos Henrique, na partilha de bens e omitiu totalmente as Recorrentes, que também são sobrinhas-netas, e se encontram na mesma situação, classe e condição daqueles que foram beneficiados na herança, seja para declarar a igualdade do mesmo direito destas em relação àqueles" (e-STJ fl. 581); (ii) "Lisandra, herdou 20% da quota parte da herança que caberia ao seu genitor, Jairo, enquanto a sua única irmã, que falecera dias antes do de cujos, tendo deixado três filhas, que nada receberam" (e-STJ fl. 585).
+Pugnam que seja reconhecido "o direito em favor das sobrinhas-netas do autor da herança, ora Recorrentes, mediante aplicação da norma jurídica por extensão ou exceção privilegiada, tal como ocorrera na homologação da partilha dos bens inventariados, em favor de outros sobrinhos-netos, na mesma situação, condição e classe de parentesco" (e-STJ fl. 586).
+Parecer do MPF: da lavra do I. Subprocurador-Geral Renato Brill de Góes, deixou de se manifestar sobre o mérito do recurso, requerendo o prosseguimento do processo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/SP, no sentido de que "caso terceiros na mesma posição sucessória ocupada pelas autoras tenham recebido por equívoco e contra o estabelecido em lei qualquer quinhão dos bens deixados por Luis Roberto, não compete ao Poder Judiciário fazer valer em favor das apelantes a mesma ilegalidade. Nem mesmo o princípio da isonomia permite chegar-se a tal conclusão" (e-STJ fl. 571).
+Assim, caso a parte agravante não ofereça argumentos suficientes para contestar o fundamento utilizado pelo Tribunal de origem no acórdão recorrido, este deve ser mantido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que "Lillian, no entanto, já se encontrava falecida quando do óbito de Luis Roberto, não havendo, assim, que se falar em direito de representação de suas filhas/autoras, sobrinhas-netas do de cujus" (e-STJ fl. 570), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais 2% (dois por cento) em favor do procurador da parte agravada, observados os efeitos de eventual concessão do benefício de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PETIÇÃO DE HERANÇA.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Ação de petição de herança.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
