@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial que desafia acórdão assim ementado (e-STJ fls. 360/361):
+ADMINISTRATIVO. SERVIDOR PUBLICO. REVERSÃO POSTERIORMENTE REVERTIDA. DANOS MATERIAIS. DESPESAS DECORRENTES DA MUDANÇA PARA OUTRA CIDADE. NÃO CABIMENTO. DANOS MORAIS DECORRENTES DA REVERSÃO. AUSÊNCIA DE ILEGALIDADE NO ATO DE REVERSÃO. ATO FUNDAMENTADO EM INTERPRETAÇÃO LEGAL. DESCABIMENTO. - Incabível a condenação da Administração Pública ao pagamento de indenização por danos materiais consistente nas despesas com a mudança de cidade na qual o autor morava para a cidade de lotação em função da reversão da aposentadoria, tampouco por danos morais, visto que a decisão que determinou a reversão foi amparada, meramente, em interpretação jurídica diversa, posteriormente revertida em sede judicial.
+- Não há prova de má-fé, ilicitude, ilegalidade ou abuso na prolação do ato administrativo a ensejar dano moral, ou a responsabilidade da Administração Pública pelas despesas de locomoção.
+- Apelação desprovida.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 5º, XXXVI, LV, e 37 da CF, do art. 54 da Lei n. 9.784/1999 e dos arts. 186 e 927 do Código Civil, tendo em vista (i) a decadência do ato de revisão da aposentadoria promovido pelo TCU e a ausência do contraditório e ampla defesa e (ii) a existência de danos morais.
+Contrarrazões apresentadas.
+Passo a decidir.
+Mostra-se pertinente a transcrição do excerto do julgado integrativo exarado pelo Tribunal a quo:
+Como bem fundamentado pelo juiz de Primeiro Grau, a análise feita pelo TCU não esteve revestida de ilicitude, dolo ou má-fé. Houve, sim, interpretação jurídica diversa, a qual foi definitivamente esclarecida após o trâmite de ação judicial. Na verdade, o Tribunal de Contas da União agiu nos limites de sua competência, interpretando de forma jurídica e fundamentada o fato analisado. Não se configurou, pela prova dos autos, qualquer arbitrariedade por parte dos Conselheiros que avaliaram o caso. Em razão da decisão judicial, prevalente ao entendimento administrativo do TCU, a situação deve ser reparada. A reparação, entretanto, está, de fato, no retorno do servidor à inatividade, aos mesmos moldes que estava quando de sua aposentação inicial contestada. Não restou comprovada qualquer afronta à sua reputação, ao seu íntimo, como também não se mostrou comprovada situação vexatória ou humilhante a ele imposta. Houve sim um dissabor, um aborrecimento, um incômodo, o qual não é passível de ser classificado como dano moral.
+Do excerto, verifica-se que infirmar o julgado impugnado, a fim de acolher os argumentos da parte recorrente - ocorrência de dano moral -, encontra óbice na Súmula 7 do STJ.
+Quanto aos argumentos de decadência, de inexistência do contraditório e ampla defesa, verifica-se a ausência de prequestionamento. Incidência da Súmula 282 do STF.
+Nesse ponto, é digno de registro que a parte recorrente nem sequer opôs declaratórios na origem.
+Por fim, o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
