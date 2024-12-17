@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ZENILA BALBINA FERREIRA MEIRELES, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: repetição de indébito c/c danos morais ajuizada pela agravante, em face do BANCO OLÉ BONSUCESSO CONSIGNADO S/A, em razão de empréstimo consignado firmado entre as partes.
+Acórdão: manteve decisão unipessoal do Relator que negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. EMPRÉSTIMO CONSIGNADO. TESE FIXADA EM IRDR. INEXISTÊNCIA DE DISTINÇÃO. ART. 643, CAPUT, DO RITJMA.AGRAVO NÃO CONHECIDO.
+1. Reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir os Embargos de Declaração e a Apelação, nas quais aplicou entendimento firmado no IRDR nº. 53.983/2016.
+2. Não cabe agravo interno da decisão monocrática do relator com base no art. 932, IV, c, e V, c, do Código de Processo Civil, salvo se demonstrada a distinção entre a questão controvertida nos autos e a que foi objeto da tese firmada em incidente de resolução de demandas repetitivas ou de assunção de competência (art. 643 do RITJMA).
+3.Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. Agravo interno não conhecido. (e-STJ, fl. 2.685)
+Decisão de admissibilidade do TJ/MA: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "No tocante à aplicação da Súmula 7/STJ, entendo que o Acórdão agravado incorreto em entendimento equivocado, visto que a conclusão concluída não é absolutamente incontroversa. Há fundamentos que merecem reavaliação por esta Corte, uma vez que a matéria não se resume apenas à interpretação de cláusulas contratuais ou reexame do contexto fático-probatório, como afirmado equivocadamente"; ii) "Outrossim, no que tange ao afastamento da sumula 5 do STJ, resta salientar que tal súmula não é aplicável no presente caso, visto que o Autor-Recorrente sustentou em seu recurso os princípios basilares que versam um negócio jurídico, isto é, a boa fé, a transparência e a informação, bem como as violações claras aos artigos do CDC."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 12 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
