@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. TRÁFICO PRIVILEGIADO. AFASTAMENTO FUNDAMENTADO. REEXAME DE PROVAS. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado em favor de condenado por tráfico de drogas (art. 33, caput, e §1º, da Lei nº 11.343/06), com pedido de aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, alegando-se que o paciente preenche os requisitos para o tráfico privilegiado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o habeas corpus pode ser utilizado como sucedâneo de revisão criminal para reexaminar a aplicação do tráfico privilegiado; (ii) se há flagrante ilegalidade na decisão que afastou a causa de diminuição de pena e manteve o regime inicial fechado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é substituto de revisão criminal, especialmente em casos onde há necessidade de reexame fático-probatório, como na análise dos requisitos para a aplicação do tráfico privilegiado, conforme a jurisprudência consolidada do STJ e do STF.
+4. A decisão das instâncias ordinárias afastou a aplicação do § 4º do art. 33 da Lei de Drogas com base em elementos concretos, apontando a dedicação habitual do paciente a atividades criminosas. Não se verifica flagrante ilegalidade.
+5. A reanálise das provas, como pleiteado pela defesa, é inviável na via estreita do habeas corpus, que não admite dilação probatória.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 80-81).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. TRÁFICO PRIVILEGIADO. AFASTAMENTO FUNDAMENTADO. REEXAME DE PROVAS. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado em favor de condenado por tráfico de drogas (art. 33, caput, e §1º, da Lei nº 11.343/06), com pedido de aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, alegando-se que o paciente preenche os requisitos para o tráfico privilegiado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o habeas corpus pode ser utilizado como sucedâneo de revisão criminal para reexaminar a aplicação do tráfico privilegiado; (ii) se há flagrante ilegalidade na decisão que afastou a causa de diminuição de pena e manteve o regime inicial fechado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é substituto de revisão criminal, especialmente em casos onde há necessidade de reexame fático-probatório, como na análise dos requisitos para a aplicação do tráfico privilegiado, conforme a jurisprudência consolidada do STJ e do STF.
+4. A decisão das instâncias ordinárias afastou a aplicação do § 4º do art. 33 da Lei de Drogas com base em elementos concretos, apontando a dedicação habitual do paciente a atividades criminosas. Não se verifica flagrante ilegalidade.
+5. A reanálise das provas, como pleiteado pela defesa, é inviável na via estreita do habeas corpus, que não admite dilação probatória.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 81-83):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MAYKOM DE OLIVEIRA RIBEIRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (APELAÇÃO CRIMINAL 1500018-94.2021.8.26.0200).
+O paciente foi condenada à pena de 5 (cinco) anos, em regime inicial fechado, e mais 500 dias-multa, sendo-lhe negado o direito de recorrer em liberdade, pela prática do delito previsto no art. 33, caput, da Lei 11.343/2006 (fl. 70).
+O recurso de apelação interposto pela defesa foi desprovido pelo Tribunal de origem em acórdão assim ementado (e-STJ fl. 69):
+"TRÁFICO. Conduta de guardar, para fornecimento a consumo de terceiros,436 gramas de maconha. Configuração. Materialidade e autoria demonstradas. Apreensão de 55 porções e 2 mudas de Cannabis Sativa L no quintal da casa da avó. Negativa de propriedade do entorpecente. Versão isolada e inverossímil. Imputação amparada no depoimento dos policiais responsáveis pela apreensão do entorpecente. Destinação mercantil evidenciada pela natureza, quantidade e modo de acondicionamento. Condenação mantida. PENA. Concretização no mínimo legal. Pretendido reconhecimento do privilégio. Inadmissibilidade. Traficante não eventual. Habitualidade evidenciada pela condenação por tráfico praticado em data posterior. Sanção concretizada em 5 anos de reclusão e 500 dias-multa. Manutenção do regime inicial fechado. Desprovimento do apelo defensivo."
+A defesa alega, em síntese, que a causa de diminuição de pena prevista no artigo 33, §4º, da Lei nº 11.343/06, foi afastada no seu grau máximo com base em fundamentos inidôneo (fl. 9).
+Ressalta que a condenação não transitada em julgado não é fundamento para a negativa de aplicação do tráfico privilegiado.
+Aduz, ainda, que diante da primariedade, residência fixa e etc. do paciente, somados à ausência de elementos que comprovem sua dedicação à prática de atividade ilícita ou mesmo participação em organização criminosa, somente processo em curso sobre elemento forjado, deve ser reconhecida a figura do tráfico privilegiado, sendo a reprimenda reduzida.
+Por fim, alega que o fato de não demonstrar atividade lícita não é suficiente para inferir que o paciente se dedique à traficância.
+Requer, liminar e definitivamente, deferimento da ordem para que seja reconhecida e aplicada a causa de diminuição de pena prevista no art. 33, §4º, da Lei nº 11.343/06, com o respectivo ajuste da dosimetria e abrandamento do regime prisional para o regime diverso do fechado.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal. Veja-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024). Grifos acrescidos."
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos.
+Do voto condutor do acórdão atacado extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ fls. 73-75):
+"Ademais, MAYKOM não comprovou atividade laboral lícita que lhe conferisse condições financeiras para aquisição de significativa quantidade de maconha, justificando-se, assim, a condenação por tráfico.
+Tal panorama, diante de sua condenação por outro delito de tráfico praticado em 10 de abril de 2021, ocasião em que foi flagrado em poder de droga e também de um revólver, razão de responder, inclusive, por porte ilegal de arma de fogo, torna inviável a pretensão absolutória ou mesmo eventual desclassificação para a figura delitiva do artigo 28, sequer postulada pela Defesa.
+Justas, enfim, a condenação e a pena, concretizada no mínimo legal.
+Na primeira fase, a sanção foi elevada assimetricamente para fixá-la, com amparo na quantidade apreendida, em 6 anos e 9 meses de reclusão, mais 515 dias-multa.
+Na segunda etapa da dosagem, no entanto, retornou ao piso por força da atenuante da menoridade relativa e assim foi definitivamente estabelecida, porquanto descabida, tal como decidido naorigem, a incidência da causa de diminuição prevista no § 4º do artigo 33.
+No caso, apesar da primariedade e da inexistência de antecedentes criminais em desfavor do recorrente, a mencionada condenação por delito da mesma espécie e, ainda, por porte ilegal de arma de fogo confirmada pela 15ª Câmara Criminal em feito no qual lhe foi aplicada a pena de 8 anos de reclusão e 510 dias-multa (Autos nº 1500197-13.2021.8.26.0593, já encaminhados à origem em 21 de fevereiro de 2022 SAJ) revela tratar-se de traficante habitual, dedicado a atividades ilícitas e cuja periculosidade impede o gozo do benefício legal.
+A razão da mencionada causa especial de diminuição de pena, de acordo com o entendimento dos Tribunais Superiores, é justamente punir com menor rigor o traficante ocasional, de menor expressão, ou seja, aquele indivíduo que não faz do tráfico o seu meio de vida.
+ ..
+Inviável, portanto, o reconhecimento do privilégio.
+À vista da pena concretizada, 5 anos de reclusão, impossível a substituição da privativa de liberdade por restritiva de direitos, assim como a alteração do regime prisional, considerada, in casu, periculosidade do apelante, traficante contumaz, assim como a própria gravidade em concreto do tráfico, delito equiparado aos hediondos."
+Extrai-se do trecho acima que a negativa do benefício do tráfico privilegiado teve como base nas circunstâncias concretas da apreensão do entorpecente, ao entender que o acusado dedicava-se às atividades criminosas, tendo em vista que o paciente ostenta condenação por delito da mesma espécie e, ainda, por porte ilegal de arma de fogo confirmada pela 15ª Câmara Criminal em feito no qual lhe foi aplicada a pena de 8 anos de reclusão e 510 dias-multa (Autos nº 1500197-13.2021.8.26.0593. Sendo assim, destacou-se ainda que: "revela tratar-se de traficante habitual, dedicado a atividades ilícitas e cuja periculosidade impede o gozo do benefício legal."
+Dessa forma, não se pode dizer que houve constrangimento ilegal, pois que o paciente não satisfaz as exigências para a aplicação da referida benesse legal, a sua incidência foi fundamentadamente rechaçada.
+Verifica-se, portanto, que a fundamentação do acórdão está em consonância com a jurisprudência dessa Corte Superior, não se observando qualquer constrangimento ilegal. Sendo assim, o paciente não faz jus à aplicação da causa de diminuição de pena do art. 33, §4º da Lei nº 11.343/06.
+Pelo exposto, não conheço do habeas corpus e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE IRREGULAR DE AMAR DE FOGO DE USO PERMITIDO. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. PEDIDO DE APLICAÇÃO DO TRÁFICO PRIVILEGIADO. ELEMENTOS CONCRETOS A CONFIRMAR A DEDICAÇÃO À ATIVIDADE DELITIVA. REGIME INICIAL FECHADO FUNDADO NA QUANTIDADE DE DROGAS APREENDIDAS. AUSÊNCIA DE ILEGALIDADE. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. QUANTUM DE PENA APLICADO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Nos termos do art. 932, III, do CPC, e art. 34, XVIII, a e b, do RISTJ, o Ministro relator está autorizado a proferir decisão monocrática, a qual fica sujeita à apreciação do órgão colegiado mediante interposição de agravo regimental. Assim, não há se falar em eventual nulidade ou cerceamento de defesa, notadamente diante da possibilidade de sustentação oral neste recurso.
+II - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+III - Com efeito, os requisitos previstos na causa de diminuição - ser o agente primário, possuir bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa - são de observância cumulativa, vale dizer, a ausência de qualquer deles, implica a não aplicação da causa de diminuição de pena. Ademais, na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem o envolvimento habitual do agente com o narcotráfico.
+IV - A despeito da quantidade de droga apreendida - 5.202,79 g de maconha; 250,0 g de cocaína -, há outros elementos aptos a afastar o tráfico privilegiado. Conforme exposto pela Corte originária, o paciente confessou que há 03 (três) meses praticava o comércio espúrio de drogas. Ademais, com o paciente foram apreendidos petrechos utilizados comumente no comércio espúrio de drogas: um liquidificador, 01 faca, 01 balança de precisão, 01 rolo de plástico filme, 01 rolo de sacos plásticos, 01 peneira, 01 saco contendo microtubos (pinos) vazios e 01 sacola contendo saquinhos tipo zip. Assim, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+V - De qualquer sorte, a jurisprudência desta Corte Superior tem mantido o afastamento do tráfico privilegiado, quando há condenação pela prática de crime de porte/posse de armas, na hipótese em que o delito da Lei n. 10.826/2003 é perpetrado no contexto do comércio espúrio de entorpecentes. Precedentes.
+VI - Desta feita, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus. Precedentes.
+VII - Modo inicial de resgate de pena. A quantidade e a diversidade do entorpecente - 5.202,79 g de maconha; 250,0 g de cocaína - foram utilizadas como fundamentos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Precedentes.
+VIII - Mantido o quantum de pena aplicado, o pedido de substituição da pena privativa de liberdade por restritiva de direitos encontra óbice no art. 44, I, do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 843.753/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/12/2023, DJe de 11/12/2023.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
