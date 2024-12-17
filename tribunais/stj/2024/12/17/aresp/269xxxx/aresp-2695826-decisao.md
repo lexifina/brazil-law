@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por KÁTIA ROSELI FROIS, D L F J, L F DOS S F, J L DOS S F, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/06/2024.
+Concluso ao gabinete em: 01/10/2024.
+Ação: indenizatória pelos danos materiais e compensatória pelos danos morais, ajuizada por DIVALDE LUIZ FROIS, MARIA DA CONCEIÇÃO FROIS, KÁTIA ROSELI FROIS, CARLOS AUGUSTO TEIXEIRA E SILVA, JORDANA CAROLINA FROIS, G D F E S, D L F J, L F DOS S F, J L DOS S F, J L DOS S F, G F E S e G F E S, em face de VALE S/A.
+Decisão interlocutória: indeferiu a gratuidade requerida. (e-STJ fl. 10/12)
+Acórdão: deu parcial provimento ao Agravo de Instrumento interposto por DIVALDE LUIZ FROIS, MARIA DA CONCEIÇÃO FROIS, KÁTIA ROSELI FROIS, CARLOS AUGUSTO TEIXEIRA E SILVA, JORDANA CAROLINA FROIS, G D F E S, D L F J, L F DOS S F, J L DOS S F, J L DOS S F, G F E S e G F E S, nos termos da seguinte ementa:
+"Agravo de Instrumento. Rompimento da barragem de rejeitos, em Brumadinho. Justiça gratuita. Pessoas físicas. Litisconsórcio ativo. Art. 99, § 6º, do CPC. Benefício personalíssimo. Hipossuficiência financeira. Análise individual da alegação de hipossuficiência
+- Na dicção do art. 5º, LXXIV, da CF/88, o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos.
+- A concessão de justiça gratuita independe do número de autores, já que o benefício possui caráter personalíssimo, devendo ser concedido com base na situação financeira de cada requerente/núcleo familiar individualmente considerado.
+- Diante da existência de elementos capazes de respaldar a alegada hipossuficiência financeira de alguns dos agravantes, há que ser reformada a decisão que indeferiu os benefícios da justiça gratuita.
+- Existindo nos autos indícios de que determinados agravantes podem efetuar o pagamento das custas e despesas processuais, sem prejuízo de seu sustento e de sua família, o benefício não deve ser concedido a eles.
+- Recurso parcialmente provido." (e-STJ fl. 491)
+Embargos de Declaração: opostos, por KÁTIA ROSELI FROIS, D L F J, L F DOS S F, J L DOS S F, foram parcialmente acolhidos, sem efeitos infringentes, sanando omissão, apenas para indeferir expressamente a gratuidade também a J L DOS S F. (e-STJ fl. 566/572)
+Recurso especial: alegam violação dos arts. 98, 99, § 3º, CPC, bem como dissídio jurisprudencial, sustentando que: i) a parte recorrente cumpriu com a determinação legal de efetivamente comprovar a insuficiência de recursos, o que justifica o deferimento do pedido de gratuidade judiciária, sob pena de ferir-se princípios constitucionais, como os da razoabilidade e o da proporcionalidade; e, ii) a prova documental, sobremaneira a remuneração mensal percebida pela parte recorrente, permite superar quaisquer argumentos pela ausência de pobreza, na acepção jurídica do termo; e, iii) o mérito da presente demanda percorre distintas e complexas naturezas de danos, como ambiental, pela poluição da água, solo, ar e alterações ambientais e moral, uma vez que a parte recorrente vivenciou momentos de dor, medo, angústia e tristeza, ferindo a dignidade e maculando o aspecto interior da personalidade humana, ante a devastação ambiental causada após o rompimento da barragem administrada pela parte recorrida, com ulterior alagamento de incontáveis residências, logo, considerando todas as complexidades apontadas, a instrução da presente demanda exige laudos periciais de profissionais de diversas áreas, como engenheiros, arquitetos, geólogos e outros especialistas, por isso a necessidade da concessão da gratuidade requerida. (e-STJ fl. 586/603)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelos agravantes não demonstram como o acórdão recorrido violou os arts. 98, 99, § 3º, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "D L F J declarou rendimentos tributáveis no montante de R$ 127.549,93 e L F DOS S F declarou recebimentos no valor de R$ 34.488,00, docs. 97 e 91, sucessivamente, ou seja, pela simples operação aritmética, vê-se que a renda do núcleo familiar perfaz a quantia mensal de aproximadamente R$ 13.500,00, o que os afasta do perfil de pessoas hipossuficiente do ponto de vista financeiro", bem como de que "não há comprovantes de despesas extraordinárias ou outros gastos fixos que comprometam demasiadamente a renda percebida pelo núcleo familiar formado por D L F J e L F DOS S F", assim também de que "KÁTIA ROSELI FROIS juntou declaração de hipossuficiência (doc. 34), da qual se extrai que ela é empresária, mas não há qualquer outro comprovante que corrobore a hipossuficiência firmada na declaração", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E COMPENSATÓRIA POR DANOS MORAIS. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação indenizatória por danos materiais e compensatória por danos morais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
