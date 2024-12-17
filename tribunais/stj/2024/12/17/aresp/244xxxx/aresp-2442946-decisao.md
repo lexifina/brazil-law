@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Taciane Moreira Viera, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 252/253):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZATÓRIA. AUTORA ALEGA QUE TEVE SEU NOME INSCRITO EM CADASTRO DE DÍVIDA ATIVA POR INADIMPLEMENTO NO PAGAMENTO DO ISS. SENTENÇA DE PROCEDÊNCIA PARCIAL. RECURSO DO RÉU. DÉBITO FISCAL LEVADO A PROTESTO ENCONTRAVA-SE EM ABERTO DESDE 2014. REGULARIDADE DO PROTESTO DE DÉBITO FISCAL INADIMPLIDO DESDE 2014 LANÇADO EM 27-11-2017. PEDIDO DE PARCELAMENTO DO DÉBITO FISCAL NO DIA DO LANÇAMENTO DO PROTESTO ASSIM COMO A REGULARIDADE NO PAGAMENTO DAS PARCELAS NÃO AFASTAM O DEVER DO CONTRIBUINTE INADIMPLENTE DE PROMOVER A BAIXA JUNTO AO CARTÓRIO COMPETENTE. INEXISTE NOS AUTOS QUALQUER INDICAÇÃO DE QUE O ENTE MUNICIPAL TENHA ENCAMINHADO AOS BANCOS DE DADOS PRIVADOS DE CADASTRO DE INADIMPLENTES A COMUNICAÇÃO DO DÉBITO FISCAL. RESPONSABILIDADE OBJETIVA. RÉU DEMONSTRA QUE AGIU DE FORMA REGULAR PARA RECUPERAR CRÉDITO FISCAL DE CONTRIBUINTE INADIMPLENTE. EXERCÍCIO REGULAR DE DIREITO QUE AFASTA A ALEGAÇÃO DE DANO MORAL. NEGATIVAÇÃO EM CADASTRO PRIVADO DECORRE DA PUBLICIDADE INERENTE À PUBLICIDADE DO PROTESTO DO TÍTULOS. A INSCRIÇÃO DEVIDA EM CADASTRO DE DÍVIDA ATIVA GERA NATURALMENTE REPERCUSSÕES NEGATIVAS. PROVIMENTO DO RECURSO.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 306/310.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 4º e 5º da Lei n. 11.419/2006; 183, § 1º, 246, §§ 1º e 2º, 270 e parágrafo único, 272 e 1.050 do CPC. Sustenta, em síntese, a intempestividade da apelação interposta pelo Município de Miracema.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação mão merece acolhimento.
+A matéria pertinente aos arts. 4º e 5º da Lei n. 11.419/2006; 183, § 1º, 246, §§ 1º e 2º, 270 e parágrafo único, 272 e 1.050 do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Por fim, observe-se que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a avaliação do dissídio jurisprudencial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se .
+EMENTA
