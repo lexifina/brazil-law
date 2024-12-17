@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer parcialmente do recurso e lhe dar parcial provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DO REDUTOR DO ART. 33, § 4º, DA LEI 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS NÃO COMPROVADA. QUANTIDADE DE DROGA, DENÚNCIAS ANÔNIMAS E AÇÕES PENAIS EM CURSO . ELEMENTOS INSUFICIENTES PARA AFASTAR A MINORANTE. PARECER FAVORÁVEL DO MINISTÉRIO PÚBLICO FEDERAL.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado da Bahia que afastou a aplicação da causa de diminuição de pena do tráfico e majorou a pena definitiva do réu para 5 anos de reclusão, no regime semiaberto, e pagamento de 500 dias-multa.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o recorrente faz jus à aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, considerando a quantidade de droga apreendida e a existência de denúncias anônimas e ações penais em curso.
+III. RAZÕES DE DECIDIR
+3. No que concerne à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, a jurisprudência desta Corte exige a demonstração concreta de dedicação a atividades criminosas para afastar ou limitar o redutor. A mera menção à quantidade de entorpecentes apreendidos, a existência de denúncias anônimas e o registro de ações penais em curso não são suficientes para tal exclusão.
+4. 4. No presente caso, diante da apreensão de 220,58g de maconha, deve-se aplicar o redutor em seu patamar máximo de 2/3, conforme precedentes do STJ, que tratam de situações similares envolvendo pequenas quantidades de drogas.
+5. Considerando-se a ausência de circunstâncias judiciais desfavoráveis e a primariedade do recorrente, deve ser fixado o regime inicial aberto, substituindo-se a pena privativa de liberdade por duas restritivas de direitos, uma vez que preenchidos os requisitos do art. 44 do Código Penal.
+IV. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO, A FIM DE REDIMENSIONAR A PENA DO RÉU, ABRANDAR O REGIME E SUBSTITUIR A PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS.
+RELATÓRIO
+Trata-se de recurso especial interposto contra acórdão do Tribunal de Justiça da Bahia (Apelação Criminal n. 0506205-66.2016.8.05.0113).
+Consta dos autos que o recorrente foi condenado como incurso no art. 33 da Lei n. 11.343/2006, a 1 ano e 8 meses de reclusão, no regime inicial aberto, e pagamento de 166 dias-multa, substituída a pena privativa de liberdade por restritivas de direitos.
+Interposta apelação, o recurso ministerial foi provido para majorar a pena definitiva do réu para 5 anos de reclusão, no regime semiaberto, e pagamento de 500 dias-multa.
+No presente recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, aponta a defesa violação do art. 33, § 4º, da Lei n. 11.343/2006, ao argumento de carência de fundamentação idônea para a negativa de aplicação da causa de diminuição de pena relativa ao tráfico privilegiado.
+Requer, assim, o conhecimento e o provimento do recurso para que a pena seja redimensionada, aplicando-se a causa de diminuição em seu grau máximo.
+Apresentadas as contrarrazões (e-STJ, fls. 285-290) e admitido na origem (e-STJ, fls. 307-310), manifestou-se o Ministério Público Federal pelo provimento do recurso especial (e-STJ, fls. 344-351).
+É o relatório.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DO REDUTOR DO ART. 33, § 4º, DA LEI 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS NÃO COMPROVADA. QUANTIDADE DE DROGA, DENÚNCIAS ANÔNIMAS E AÇÕES PENAIS EM CURSO . ELEMENTOS INSUFICIENTES PARA AFASTAR A MINORANTE. PARECER FAVORÁVEL DO MINISTÉRIO PÚBLICO FEDERAL.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado da Bahia que afastou a aplicação da causa de diminuição de pena do tráfico e majorou a pena definitiva do réu para 5 anos de reclusão, no regime semiaberto, e pagamento de 500 dias-multa.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o recorrente faz jus à aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, considerando a quantidade de droga apreendida e a existência de denúncias anônimas e ações penais em curso.
+III. RAZÕES DE DECIDIR
+3. No que concerne à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, a jurisprudência desta Corte exige a demonstração concreta de dedicação a atividades criminosas para afastar ou limitar o redutor. A mera menção à quantidade de entorpecentes apreendidos, a existência de denúncias anônimas e o registro de ações penais em curso não são suficientes para tal exclusão.
+4. 4. No presente caso, diante da apreensão de 220,58g de maconha, deve-se aplicar o redutor em seu patamar máximo de 2/3, conforme precedentes do STJ, que tratam de situações similares envolvendo pequenas quantidades de drogas.
+5. Considerando-se a ausência de circunstâncias judiciais desfavoráveis e a primariedade do recorrente, deve ser fixado o regime inicial aberto, substituindo-se a pena privativa de liberdade por duas restritivas de direitos, uma vez que preenchidos os requisitos do art. 44 do Código Penal.
+IV. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO, A FIM DE REDIMENSIONAR A PENA DO RÉU, ABRANDAR O REGIME E SUBSTITUIR A PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS.
+VOTO
+Inicialmente, destaco que " a  interposição do recurso especial com fulcro na alínea c, do inciso III, do art. 105, da Constituição Federal, exige o atendimento dos requisitos do art. 1029, § 1º, do CPC, e art. 255, § 1º, do RISTJ, para a devida demonstração do alegado dissídio jurisprudencial, competindo à parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência ou indicar repositório oficial ou credenciado, bem como transcrever os acórdãos para a comprovação da divergência e realizar o cotejo analítico entre o aresto recorrido e o paradigma, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ocorreu na espécie" (AgRg no REsp n. 2.034.303/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024.)
+No mais, acerca da controvérsia, o acórdão assim dispôs (e-STJ, fls. 259-268):
+Consta na sentença vergastada, quando da aplicação da causa de diminuição contida no artigo 33, $ 4º, da Lei 11.343/06:
+" ..  Não há causas gerais ou especiais de aumento, mas há, contudo, causa especial de diminuição a ser ponderada, a prevista no artigo 33, 8 4º, da Lei 11.343/06, pois nota-se que o réu é primário e sem nenhum mal antecedente, devendo incidir a Súmula 444 do STJ para o fato de que o réu responde a outra ação penal, mas ainda sem julgamento definitivo, conforme demonstrado pela acusação nas folhas 134 a 136.
+Também não há provas ou indícios nos autos, juntados pela autoridade policial ou pelo Ministério Público, de que Rogério se dedique a atividades criminosas ou integre organização criminosa, o que, aliás, motivou sua absolvição pelo crime de associação ao tráfico. Pelo contrário, o que se infere e se presume é que tenha feito um ato isolado em sua vida, o que justifica a redução da pena, em seu grau máximo, haja vista a pequena quantidade e o tipo de drogas encontrada (pouco mais de 200 gramas de maconha), razão pela qual reduzo a pena para um ano e oito meses de reclusão e cento e sessenta e seis dias-multa.
+Esclareça-se que a incidência desta causa de diminuição de pena "qualifica" o delito como "tráfico privilegiado" conforme novo entendimento emanado no HC 118533, de Relatoria da Ministra Cármem Lúcia, do Tribunal Pleno do Supremo Tribunal Federal, julgado em 23.6.2016 (vide Informativo 831). Diga-se que esse novo entendimento revoga o anterior, cujos termos eram previstos na Súmula 512 do Superior Tribunal de Justiça - STJ.  ..)".
+Compulsando os autos, verifica-se do conjunto probatório existente que o Apelado, de fato, não faz jus a benesse ora combatida.
+Os elementos contidos nos autos revelam a existência de outra Ação Penal tramitando em desfavor do Recorrido, como por exemplo às fls. 134/136, restando evidenciado o seu envolvimento em atividades criminosa de forma contumaz.
+Assim, em relação a causa de diminuição contida no artigo 33, § 4º, da Lei 11.343/06 aplicada pelo juizo a quo, entendo que a mesma deve ser excluída do édito condenatório.
+Importante salientar que o Superior Tribunal de Justiça pacificou entendimento no sentido da possibilidade de afastamento da causa de diminuição contida no artigo 33, $4º da Lei 11.343/06 se o acusado estiver sendo processado por outros crimes, uma vez que tal condição é indício de dedicação a atividades criminosas, sem que se cogite ofensa à presunção de inocência:
+ ..
+Vale, ainda, transcrever trecho do Parecer da douta Procuradoria de Justiça:
+" ..  Nosta-se que, para aplicabilidade do referido redutor da pena não pode o acusado ter contra si as hipóteses previstas in fine do referido parágrafo, devidamente destacadas.
+Sucede que a prova produzida nos autos denota que o recorrido se dedica a atividade criminosa, notadamente em razão da quantidade de droga apreendida no momento do fragrante, além da forma de acondicionamento.
+ ..
+Além da quantidade elevada de droga encontrada como o recorrido, salta aos olhos o relato firmado pelo IPC Alex Arruda França, perante a autoridade judicial, vide Termo de fl. 130 e mídia acostada à fl. 11, respectivamente, nos cadernos virtuais e fisicos, como segue:
+"(.. ) Que fez parte da equipe que cumpriu o mandado de busca e apreensão; que encontraram maconha na casa dos réus; que havia denúncia que havia tráfico no local; que tinha informação de que o réu traficava na casa; que recebeu denúncia de populares do bairro; que havia informação de comércio de drogas no local; que observaram movimentação de pessoas e motos; que notou que o réu fazia o tráfico sozinho; que não pode afirmar o que as pessoas faziam na casa, se pegavam a droga ou se consumiam no local etc (.. )".
+Ademais, conforme declaração acostada a fl. 136, o recorrido atua junto ao tráfico de drogas daquela região, promovendo atos de violência para cobrança de divídas atinentes à venda de substâncias ilícitas.
+fad Saliente-se que os fatos narrados ensejaram a Ação Penal em face do ora recorrido e de outros dois réus, sob a acusação da prática do delito previsto no artigo 158, caput, c/c artigo 71, ambos do Código Penal, como faz prova a cópia da denúncia acostada as fls. 134-135  .. ".
+Com isso, não se pode reconhecer, no presente caso, o tráfico de drogas privilegiado quando resta demonstrado nos autos que o agente se dedica a atividades criminosas, afasto o redutor contido no $ 4º do artigo 33 da Lei 11.343/06.
+Assim, torno definitiva a pena do Réu Fernando Brito de Sousa em 05 (cinco) anos de reclusão e ao pagamento de 500 (quinhentos) dias-multa, em cada um no equivalente a um trigésimo do salário mínimo vigente ao tempo do fato delituoso.
+Com efeito, assiste razão à defesa no que concerne à aplicação da causa de diminuição de pena, porquanto a análise realizada pelo Tribunal de origem não está em linha com a jurisprudência desta Corte acerca da temática:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. AGRAVO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do STJ que indeferiu liminarmente habeas corpus, no qual se pleiteia o reconhecimento da minorante do tráfico privilegiado, com fixação de regime inicial menos gravoso e substituição da pena privativa de liberdade por restritivas de direitos. A agravante foi condenada por tráfico de drogas, com pena-base fixada em cinco anos de reclusão, sem aplicação da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006, devido à quantidade de droga apreendida, à existência de denúncias anônimas e à confissão informal da agente.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se a agravante faz jus à aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei 11.343/2006, considerando a quantidade de droga apreendida e a existência de denúncias anônimas.
+III. Razões de decidir
+3. A jurisprudência desta Corte entende que a quantidade de droga e as denúncias anônimas, isoladamente, não são suficientes para afastar a minorante do tráfico privilegiado.
+4. A confissão extrajudicial não confirmada em juízo, sem provas adicionais, não impede a aplicação da minorante.
+5. A agravante é primária e de bons antecedentes, não havendo elementos concretos que demonstrem sua dedicação a atividades criminosas.
+IV. Dispositivo e tese6. Agravo provido.
+Tese de julgamento: 1. A quantidade de droga e as denúncias anônimas não são suficientes para afastar a minorante do tráfico privilegiado. 2. A confissão extrajudicial não confirmada em juízo, sem provas adicionais, não impede a aplicação da causa de diminuição de pena.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; Código Penal, art. 33, § 2º, "c", e § 3º; Código Penal, art. 44.
+Jurisprudência relevante citada: AgRg no REsp n. 1.687.969/SP, Min. Nefi Cordeiro, Sexta Turma, DJe 26/3/2018; AgRg no HC n. 901.723/MG, Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024; AgRg no HC n. 815.864/MS, Min. Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.
+(AgRg no HC n. 937.675/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2024, DJe de 6/11/2024).
+Ademais, " a o apreciar o Tema Repetitivo 1139, a Terceira Seção do STJ fixou a tese de que inquéritos e ações penais em curso não podem impedir a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei 11.343/06." (AgRg no AREsp n. 2.066.116/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023).
+No presente feito, em se tratando da apreensão de 220,58g de maconha (e-STJ, fl. 142), o redutor deve ser aplicado em seu patamar máximo, qual seja o de 2/3 (dois terços), em linha com os precedentes desta Corte.
+Outrossim, considerando-se a ausência de circunstâncias judiciais desfavoráveis e a primariedade do recorrente, deve ser fixado o regime inicial aberto, substituindo-se a pena privativa de liberdade por duas restritivas de direitos, uma vez que preenchidos os requisitos do art. 44 do Código Penal.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, a fim de recalcular a pena relativa ao delito do art. 33 da Lei Antidrogas aplicada, estabelecendo-a em 1 ano e 8 meses de reclusão e 167 dias-multa, a ser cumprida no regime aberto, substituída a pena corporal por duas restritivas de direito a serem fixadas pelo Juízo de origem.
+Se estiver preso, o recorrente deverá ser imediatamente posto em liberdade, salvo se outro motivo não justificar sua prisão.
+É o voto.
