@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE PALMAS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+1. APELAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE. DECRETO LEGISLATIVO. PREVISÃO SOBRE A PRESTAÇÃO DE CONTAS À CÂMARA MUNICIPAL DE PALMAS-TO. NÃO REPRODUÇÃO EM NORMA POSTERIOR. PERDA SUPERVENIENTE DO OBJETO. RECURSO PROVIDO.
+1.1 Evidencia perda superveniente do objeto a inexistência de reprodução em norma legislativa posterior (Decreto Legislativo n.
+370, de 2022, editado pela Presidência da Assembléia Legislativa do Estado do Tocantins) de previsão anterior que estabelecia a obrigação de prestação de contas de atos e despesas públicas à Câmara Municipal (artigo 3º, do Decreto legislativo n. 275, de 2021).
+1.2 A constatação de que a norma posterior apenas previu a necessidade de veiculação dos atos e despesas públicas em portal de transparência, e não mais sobre a obrigação de prestação de contas, reflete na superação da previsão anterior, fato confirmado pela Assembléia Legislativa do Estado do Tocantins e Estado do Tocantins.
+Quanto à controvérsia, a parte recorrente aduz violação ao art. 485, VI, do CPC, no que concerne à definição "se a revogação do ato infralegal questionado faz com que feneça o interesse processual relativamente ao período em que esteve vigente tutela antecipada que suspendeu os efeitos da norma, considerando que, diferentemente da lei, a decisão judicial liminar não é dotada de retroatividade" (fls. 281). Traz, ainda, a seguinte argumentação:
+O Decreto Legislativo nº. 275/2021, exarado pela Assembleia Legislativa do Estado do Tocantins, prorrogou o reconhecimento do estado de calamidade pública no Município de Palmas em decorrência da pandemia de SARS-CoV-2, para os fins do art. 65 da Lei Complementar nº. 101/ 2000, impondo, em seu art. 3º, que "a Chefe do Executivo Municipal preste contas, a cada 30 dias, dos atos decorrentes da situação de calamidade pública".
+Conforme se infere da análise dos autos, o Decreto Legislativo nº. 275/2021 entrou em vigência em 23/2/2021 com efeitos retroativos a 1º/1/2021.
+É bem verdade que em 25/1/2022 foi editado o Decreto Legislativo nº. 307/2022, que novamente prorrogou o reconhecimento do Estado de Calamidade Pública no Município de Palmas até 29/6/2022, com efeitos retroativos a 1º/1/2022, sem, contudo, trazer a exigência de que a Chefe do Executivo Municipal preste contas, a cada 30 dias, dos atos decorrentes da situação de calamidade pública.
+Ocorre que a revogação tácita da obrigação estabelecida pelo art. 3º, do Decreto Legislativo 275/2021 não operou efeitos retroativos ao exercício de 2021.
+Assim, enquanto esteve vigente, no período de 1/1/2021 a 31/12/2021, o Decreto Legislativo nº. 275/2021 produziu regularmente seus efeitos, de sorte que as obrigações nele cominadas, pelo menos em tese, eram exigíveis e seu desatendimento poderia ensejar responsabilização.
+O fato é que eventual reconhecimento da perda do objeto com extinção do feito sem resolução do mérito, na forma do art. 485, VI, do Código de Processo Civil, tornaria sem efeito a tutela provisória de urgência concedida initio litis pelo magistrado de primeiro grau, com o que seriam restabelecidos os efeitos do art. 3º, do Decreto Legislativo 275/2021, no período em que vigente.
+ ..
+Assim, a corte local acabou por incorrer em error in judicando ao reconhecer a perda superveniente do objeto da lide e extinguir o feito na forma do art. 485, VI, do CPC, que, portanto, acabou por ser violado. (fls. 282-283).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente, no que cinge à necessidade de verificação da legalidade do art. 3º do Decreto Legislativo nº. 275/2021, no período em que esteve vigente, inexistindo, portanto, a perda do interesse processual.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
