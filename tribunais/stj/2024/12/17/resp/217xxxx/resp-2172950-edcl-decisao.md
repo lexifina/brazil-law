@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela EQUIPASUL ATACADISTA LTDA. contra a decisão constante às e-STJ fls. 223/228, na parte em que fixei os honorários advocatícios sucumbenciais em prol da defesa da embargante mediante "a aplicação do percentuais mínimos estabelecidos para as faixas escalonadas descritas nos incisos do § 3º do art. 85 do CPC/2015, que deverão incidir sobre o proveito econômico obtido, no caso, referente ao valor atualizado do crédito tributário executado".
+Nas suas razões (e-STJ fls. 231/234), a embargante sustenta que a decisão ora impugnada incorreu em omissão, pois deixou de se manifestar sobre os seguintes pontos: (i) o valor da causa é muito baixo, comportando o arbitramento da verba honorária por equidade (art. 85, § 8º, do CPC/2015); (ii) a extensão do serviço realizado nos presentes autos, que, entre outras manifestações, exigiu a interposição de dois recursos especiais para ver reconhecido o direito pleiteado, deve ser levado em consideração para a fixação da verba sucumbencial, uma vez que o valor deferido na espécie, de aproximadamente R$ 700,00, não remunera condignamente o trabalho profissional.
+Sem impugnação pela parte embargada, conforme certificado à e-STJ fl. 296.
+Passo a decidir.
+O recurso integrativo comporta parcial acolhimento.
+Não há omissão em relação à aplicação do art. 85, § 8º, do CPC/2015, visto que o valor atribuído à causa em 21/09/2020, de R$ 4.192,95, não pode ser considerado muito baixo a ensejar o arbitramento da verba honorária mediante apreciação equitativa.
+Entretanto, a embargante tem razão quanto à necessidade de se ponderar a destacada extensão do trabalho profissional desenvolvido nesse processo na quantificação dos honorários advocatícios sucumbenciais.
+Na hipótese, além do trabalho realizado nas instâncias ordinárias, o advogado da empresa embargante viu-se obrigado a interpor dois recursos especiais sucessivos para ver reconhecido o direito de sua cliente, o que revela os especiais zelo, volume e tempo do trabalho prestado, circustâncias essas determinantes para a correta quantificação da verba ho norária (art. 85, § 2º, I e IV, do CPC/2015).
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração, com efeitos infringentes, para, com amparo no art. 85, §§ 2º e 3º, I, do CPC/2015, fixar a verba honorária em 20% (vinte por cento) sobre o valor atualizado do crédito tributário executado.
+Publique-se. Intimem-se.
+EMENTA
