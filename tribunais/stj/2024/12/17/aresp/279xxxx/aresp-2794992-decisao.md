@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por NATALICIO RIBEIRO LIMA contra decisão da Corte de origem que não admitiu o recurso especial em razão da ausência de violação ao art. 1.022, II do Código de Processo Civil de 2015 e incidência da Súmula 282/STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 341):
+"APELAÇÃO. DIREITO PREVIDENCIÁRIO. AÇÃO DE RESTABELECIMENTO DE AUXÍLIO-DOENÇA OU CONCESSÃO DE APOSENTADORIA POR INVALIDEZ JULGADA IMPROCEDENTE. LAUDO PERICIAL. AUSÊNCIA DE PROVA DE INCAPACIDADE PARA O TRABALHO OU ATIVIDADE HABITUAL. SENTENÇA MANTIDA. APELAÇÃO NÃO PROVIDA".
+Opostos embargos de declaração, os mesmos foram rejeitados (fls. 376-387).
+Nas razões do recurso especial, o recorrente alega violação ao art. 1.022 do Código de Processo Civil de 2015 ao argumento de que a Corte de origem foi omissa com relação ao argumento de que foi submetido a reabilitação profissional com redução de sua capacidade laboral, de modo que tem direito ao auxílio-acidente.
+Sem contrarrazões.
+Juízo negativo de admissibilidade às fls. 408-413.
+Interposto agravo em recurso especial às fls. 416-423.
+É o relatório. Passo a decidir.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, observa-se que a Corte de origem afirmou que o auxílio-doença seria devido em caso de incapacidade temporária e enquanto permanece r a inabilidade, não havendo nos autos elementos para embasar esta hipótese, in verbis:
+"No tocante aos embargos declaratórios, sabe-se que são espécie de recurso de fundamentação vinculada e somente podem ser admitidos nas hipóteses taxativas em lei, como assim dispõe o art. 1.022, do CPC. Da análise dos autos, observa-se que a discussão recursal se refere à possibilidade de reconhecer ao embargante o benefício de auxílio-acidente. No caso, embora tenha aduzido omissão e contradição no referido acórdão vergastado, não se verifica a incidência de quaisquer dos vícios alegados pelo embargante. Observa-se que no acórdão foram apreciados todos os fundamentos de fato e de direito invocados pelas partes, sendo demonstrados os motivos que levaram à conclusão do julgado pela manutenção da sentença de improcedência do pedido autoral. Com efeito, conforme restou anotado no acórdão recorrido, houve expressa definição sobre a matéria discutida nos presentes aclaratórios, nos seguintes termos:
+"(..) Inclusive, em resposta aos quesitos das partes, a expert expressamente pontuou que o apelante foi considerado apto para o trabalho habitual ou outro semelhante, devendo sempre manter os cuidados preventivos para evitar agravamento das lesões e recidiva dos sintomas e, ademais, que não existe incapacidade para a mesma função exercida. (..)"
+Sobre o assunto, o auxílio-doença é devido em razão da incapacidade temporária, enquanto permanecer a inabilidade do segurado para o exercício de suas atividades habituais e, como pode ser constatado dos autos, não existem elementos suficientes para embasar o argumento do embargante de que estivesse incapacitado à época do pedido." (fl. 380)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
