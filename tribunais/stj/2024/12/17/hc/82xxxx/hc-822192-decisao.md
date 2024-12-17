@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DEIRES BARBOSA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Agravo em Execução Penal 1.0313.06.203554-5/001).
+O Juízo da Vara de Execuções Penais, em razão do co metimento de novo crime, fixou a data-base para concessão de novos benefícios ao paciente em 11/07/2019. O Tribunal de origem deu parcial provimento ao recurso da defesa.
+A impetrante sustenta: a) "a decisão do Tribunal de Justiça de Minas Gerais, em alterar a data-base para a concessão de novos benefícios, configura grave constrangimento ilegal contra o Paciente" (e-STJ fls. 5); b) "o cometimento de crime doloso no decurso do livramento condicional não altera a data-base para a concessão de novos benefícios" (e-STJ fls. 8); e c) "é de se manter a data-base anteriormente fixada (06/04/1999), uma vez que inexiste previsão legal para a sua alteração" (e-STJ fls. 5).
+Requer, liminar e definitivamente, deferimento da ordem para "manutenção da data-base em 06 de abril de 1999, em virtude da prática de novo crime durante o período de prova do livramento condicional" (e-STJ fls. 11).
+O juízo de primeiro grau e o Tribunal de origem prestaram informações (e-STJ fls. 54-57 e 59-73).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ fls. 78-83).
+É o relatório. Fundamento e decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+No caso, seria cabível, em tese, a interposição do recurso especial, razão pela qual não há possibilidade de impetração de habeas corpus.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente.
+De fato, a alteração da data-base não foi motivada em razão da simples prática de crime doloso no curso de livramento condicional, mas em função da nova prisão.
+O acórdão recorrido explicou corretamente o que se passou:
+"Aduz a parte recorrente a ilegalidade da alteração da data-base, devendo ser mantida a data anteriormente fixada (06/04/1999), uma vez que a nova condenação e a unificação das penas não constitui fundamento para fixação de novo marco.
+A tese não comporta guarida.
+ ..
+Muito embora a prática de novo crime durante o período do livramento condicional realmente não constitua falta grave, uma vez que referido benefício possui regramento próprio, é certo que se revela inviável, no caso dos autos, o deslocamento do marco inicial para a data pretendida pelo agravante. Isso porque, a consulta ao autos junto ao SEEU (autos da execução penal n. 2035545-87.2006.8.13.0313) revela que, em que pese a fruição do livramento condicional, o reeducando foi preso em flagrante delito no dia 12/07/2019 (seq. 1.15), operando-se a conversão da prisão em preventiva, nos termos da decisão juntada ao seq. 1.18, a qual foi mantida na oportunidade da sentença acostada ao seq. 1.27:
+ ..
+A consulta à linha do tempo disponível junto ao SEEU revela, também, que desde a referida data, o reeducando vem sendo mantido em regime fechado, de modo que tal prazo constitui seu retorno à privação de liberdade, devendo ser considerado como marco inicial para concessão de novos benefícios, após a revogação do livramento condicional.
+Nessa esteira, revogado o benefício e tendo em vista a superveniência de nova guia, com a unificação/soma das penas, o marco inicial para concessão de novos benefícios (à exceção do livramento condicional), deve ser mantido como a data da última prisão.
+ ..
+Tenho por necessário observar que, na ausência de insurgência ministerial a respeito, embora entenda por correta a fixação do dia 12/07/2019 como data-base, data da prisão em flagrante, indicada junto à linha do tempo disponível no SEEU, mantenho o marco indicado pelo magistrado (11/07/2019), por ser mais benéfico ao apenado." (e-STJ fls. 33-36, grifou-se)
+O entendimento do Tribunal de origem está em linha com jurisprudência dessa Corte de Justiça, segundo a qual, em caso de unificação de penas, deve ser considerada como data-base a data da última prisão.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. UNIFICAÇÃO. DATA-BASE. ÚLTIMA PRISÃO.
+1. A Terceira Seção desta Corte Superior pacificou o entendimento de que a unificação das penas, por si só, não altera a data-base para concessão de novos benefícios, devendo ser considerada a data da última prisão ou a data da última infração disciplinar (REsp n. 1.557.461, Ministro Rogerio Schietti Cruz, DJe 15/3/2018).
+2. Agravo regimental a que se nega provimento. (AgRg no HC n. 868.657/SC, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024, grifou-se.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA PROGRESSÃO DE REGIME. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme orientação jurisprudencial desta Corte, "seja no caso de unificação de penas, ou de crime único, deve ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, sob pena de se proclamar, como pena efetivamente cumprida, o período em que ele permaneceu em liberdade" (AgRg no HC 756.257/GO, relator o Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/03/2023, DJe de 31/03/2023)".
+2. Agravo regimental não provido. (AgRg no HC n. 844.314/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024, grifou-se.)
+Unificadas as penas, a data da última prisão deve ser a data-base, como decidido na origem.
+Por esses fundamentos, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
