@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por TLX TRANSPORTE E LOGÍSTICA EIRELI - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 1ª Vara Empresarial, De Recuperação de Empresas e de Falências de Fortaleza/CE, no qual se processa a recuperação judicial da suscitante (Processo nº 0239513-09.2024.8.06.0001), e a 4ª Vara do Trabalho de Teresina/PI, onde tramita a reclamação trabalhista n.º 0001024-48.2022.5.22.0004, ajuizada por RAIMUNDO NONATO BATISTA.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos constritivos (levantamento de depósitos recursais) nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, o qual, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados deste STJ.
+Requer a concessão de liminar objetivando sobrestar o ato executório determinado pelo r. Juízo laboral e, no mérito, a declaração de competência do r. juízo recuperacional. (fls. 3/13)
+É o relatório.
+Decisão.
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Não se desconhece a orientação desta Casa segundo a qual, Após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação. (ut. AgInt nos EDcl no CC 174322/SP, Rel. Min. Nancy Andrighi, DJe de 14/6/2021)
+Contudo, na hipótese dos autos, a alegação apontada pela ora suscitante a teor das peças acostadas aos autos (fl. 15) em verdade, não é possível identificar a suscitada autorização, pelo r. juízo laboral, de levantamento de valores atinentes a depósitos recursais, impondo-se, por conseguinte, o não conhecimento do presente conflito de competência.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC/15 c/c Súmula 568/STJ, não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
