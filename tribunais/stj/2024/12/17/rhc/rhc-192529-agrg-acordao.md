@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO HABEAS CORPUS. ESTATUTO DO DESARMAMENTO. PRISÃO EM FLAGRANTE REALIZADA POR GUARDA MUNICIPAL. TRANCAMENTO AÇÃO PENAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE PROVA SEGURA ACERCA DA SITUAÇÃO EM QUE SE DEU A PRISÃO EM FLAGRANTE. EXCEPCIONALIDADE NÃO DEMONSTRADA. INCIDÊNCIA DA SÚMULA 182 SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE NOVOS ARGUMENTOS CAPAZES DE ALTERAR O ENTENDIMENTO ANTERIORMENTE FIRMADO. RECURSO NÃO CONHECIDO. DECISÃO MANTIDA.
+I. Caso em exame 1. Agravo regimental interposto pela defesa de Idelvan Martins de Jesus contra decisão monocrática que negou provimento a recurso em habeas corpus, mantendo a ação penal em curso e a validade da prisão em flagrante realizada por guardas municipais, por suposta prática de porte ilegal de arma e ameaça. O agravante alega constrangimento ilegal e requer o trancamento da ação penal em virtude da nulidade decorrente da prisão em flagrante.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) se a prisão em flagrante realizada por guardas municipais configura ilegalidade; (ii) se é possível o trancamento da ação penal com base na alegação de nulidade da prisão.
+III. Razões de decidir
+3. O agravo regimental não traz argumentos novos capazes de alterar o entendimento já firmado, atraindo a aplicação da Súmula 182/STJ.
+4. Conforme jurisprudência consolidada, o trancamento da ação penal via habeas corpus é medida excepcional, cabível apenas quando evidenciadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a ausência de justa causa, o que não ocorre no caso concreto.
+5. A prisão em flagrante realizada por guardas municipais é válida, nos termos do art. 301 do CPP, que autoriza qualquer do povo a efetuar prisão em flagrante delito, sendo a atuação dos guardas corroborada pela denúncia anônima e circunstâncias que indicam flagrante regular.
+6. Não há comprovação de que a prisão em flagrante tenha ocorrido em desacordo com os parâmetros fixados pelo STF ou STJ, inviabilizando o reconhecimento da nulidade apontada e o trancamento da ação penal.
+IV. Dispositivo e tese
+7. Agravo regimental não conhecido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto pela defesa de IDELVAN MARTINS DE JESUS contra decisão monocrática por mim exarada que negou provimento ao recurso em habeas corpus (e-STJ 345/348).
+O recorrente alega, em síntese, a existência de constrangimento ilegal na decisão impugnada que não teria trancado a ação penal.
+Sustenta a ilegalidade da sua prisão em flagrante delito ao fundamento de ter sido realizada por Guardas Municipais.
+Requer a reconsideração da decisão agravada ou o provimento de seu recurso pelo colegiado a fim de que seja trancada a ação penal em virtude da nulidade decorrente da sua prisão em flagrante (e-STJ 353/367).
+Sem contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO HABEAS CORPUS. ESTATUTO DO DESARMAMENTO. PRISÃO EM FLAGRANTE REALIZADA POR GUARDA MUNICIPAL. TRANCAMENTO AÇÃO PENAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE PROVA SEGURA ACERCA DA SITUAÇÃO EM QUE SE DEU A PRISÃO EM FLAGRANTE. EXCEPCIONALIDADE NÃO DEMONSTRADA. INCIDÊNCIA DA SÚMULA 182 SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE NOVOS ARGUMENTOS CAPAZES DE ALTERAR O ENTENDIMENTO ANTERIORMENTE FIRMADO. RECURSO NÃO CONHECIDO. DECISÃO MANTIDA.
+I. Caso em exame 1. Agravo regimental interposto pela defesa de Idelvan Martins de Jesus contra decisão monocrática que negou provimento a recurso em habeas corpus, mantendo a ação penal em curso e a validade da prisão em flagrante realizada por guardas municipais, por suposta prática de porte ilegal de arma e ameaça. O agravante alega constrangimento ilegal e requer o trancamento da ação penal em virtude da nulidade decorrente da prisão em flagrante.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) se a prisão em flagrante realizada por guardas municipais configura ilegalidade; (ii) se é possível o trancamento da ação penal com base na alegação de nulidade da prisão.
+III. Razões de decidir
+3. O agravo regimental não traz argumentos novos capazes de alterar o entendimento já firmado, atraindo a aplicação da Súmula 182/STJ.
+4. Conforme jurisprudência consolidada, o trancamento da ação penal via habeas corpus é medida excepcional, cabível apenas quando evidenciadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a ausência de justa causa, o que não ocorre no caso concreto.
+5. A prisão em flagrante realizada por guardas municipais é válida, nos termos do art. 301 do CPP, que autoriza qualquer do povo a efetuar prisão em flagrante delito, sendo a atuação dos guardas corroborada pela denúncia anônima e circunstâncias que indicam flagrante regular.
+6. Não há comprovação de que a prisão em flagrante tenha ocorrido em desacordo com os parâmetros fixados pelo STF ou STJ, inviabilizando o reconhecimento da nulidade apontada e o trancamento da ação penal.
+IV. Dispositivo e tese
+7. Agravo regimental não conhecido.
+VOTO
+O presente recurso não merece ser conhecido, uma vez que assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos (súmula 182).
+Ademais, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos.
+No caso, o recorrente foi preso em flagrante no dia 05/05/2023, pela suposta prática dos delitos tipificados no artigo 14 da Lei nº 10.826/03 c/c artigo 147, caput, c/c artigo 333, ambos do Código Penal.
+A defesa impetrou habeas corpus na origem sustentando a necessidade de trancamento da ação penal diante da ilicitude da prisão em flagrante e da busca pessoal que deu origem à apreensão da arma, munições. A ordem foi denegada em acórdão assim ementado:
+EMENTA: HABEAS CORPUS. DENÚNCIA ANÔNIMA. PORTE DE ARMA DE FOGO. PRISÃO EM FLAGRANTE REALIZADA POR. GUARDAS MUNICIPAIS. ILEGALIDADE NÃO CARACTERIZADA. ORDEM DENEGADA.1. Segundo o Supremo Tribunal Federal, "o habeas corpus é via adequada ao trancamento de ação penal apenas em casos excepcionais, de evidente atipicidade da conduta, extinção da punibilidade ou ausência de justa causa" (STF - HC: 205000 RJ 0058761-03.2021.1.00.0000).2. Não há ilegalidade na prisão realizada por guardas municipais, em razão de denúncia anônima, que descrevia fatos que coincidiam com aqueles presenciados .3. O art. 301, do CPP autoriza qualquer do povo a prender quem quer seja encontrado em flagrante delito o que por consequência autoriza a guarda municipal, mesmo que diante de uma denúncia anônima.4. Ordem denegada (E-STJ 292/305).
+Conforme destacado na decisão impugnada, o trancamento do inquérito policial e da ação penal, é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria de provas e materialidade do delito.
+Nesse sentido, a jurisprudência desta Corte de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. NULIDADE POR BUSCA VEICULAR EM VIA PÚBLICA. ABORDAGEM DE TERCEIRO EM OPERAÇÃO OSTENSIVA DE PATRULHAMENTO DA POLÍCIA RODOVIÁRIA FEDERAL. TRANCAMENTO DO INQUÉRITO POLICIAL. IMPOSSIBILIDADE. PRESENÇA DE JUSTA CAUSA PRIMA FACIE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - O trancamento do inquérito policial constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade. Precedentes.
+III - No caso concreto, a abordagem policial de terceiro foi realizada em plena operação de policiamento ostensivo por policiais rodoviários federais, não havendo falar em nulidade patente do ato.
+Precedente do STF.
+IV - Como ainda consignado na origem, a renda do terceiro (então abordado na operação policial) seria aparentemente incompatível com o valor pago pelo veículo, tudo o que também poderia ser verificado por meio de provas independentes.
+V - No mais, os argumentos atraem a Súmula n. 182, STJ.
+Agravo regimental desprovido.(AgRg no HC n. 872.320/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.) grifo acrescido.
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA. LEGALIDADE DA ABORDAGEM POLICIAL. AGRAVO DESPROVIDO.1. O trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.2. No caso, a abordagem do agravante e demais acusados decorreu de diligências investigativas prévias, seguidas de denúncia anônima acerca do transporte interestadual de drogas e armas, confirmada, ainda, por meio de pesquisas quanto ao deslocamento do veículo denunciado, circunstâncias que teriam motivado a busca pessoal e veicular.3. Não se vislumbra qualquer ilegalidade na atuação dos policiais na busca pessoal, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social.4. "Em situação assemelhada, este Superior Tribunal já decidiu que "É válido considerar que a atuação policial no caso em questão se justifica, uma vez que as características do veículo abordado são idênticas às mencionadas na denúncia anônima recebida pelas autoridades. Tal correspondência fortalece a suspeita de envolvimento em atividades ilícitas, nesse caso específico, o tráfico de drogas". (AgRg no HC n. 824.520/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, D
+Je de 16/8/2023.)" (AgRg no HC n. 843.918/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/11/2023, D
+Je de 16/11/2023.) 5. Agravo regimental desprovido.(AgRg no HC n. 873.916/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.) grifo acrescido.
+No caso em análise, da leitura dos documentos que instruem o feito não se constata, de plano, se a prisão em flagrante do recorrente se deu à margem dos parâmetros fixados pelo Supremo Tribunal Federal, no julgamento da ADPF 995/DF, bem como dos parâmetros fixados por esta Corte de Justiça, no julgamento do HC 830.530/SP, especialmente no que tange à ocorrência ou não do flagrante delito.
+Dessa forma, por não ser possível de vislumbrar, de plano, a nulidade apontada, negou-se provimento ao recurso.
+Em assim sendo, não conheço do agravo regimental.
+É como voto.
