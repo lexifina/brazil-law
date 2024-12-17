@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+AGRAVO DE EXECUÇÃO PENAL - Remição por leitura - Impossibilidade - O rol do artigo 126 da LEP é taxativo - Lacuna que não pode ser suprida por ato diverso daquele emanado do Poder Legislativo da União, sob pena de vilipêndio à separação de Poderes - Inconstitucionalidade da Lei Estadual n. 16.648/2018 declarada pelo Órgão Especial deste E. Tribunal, em decisão foi mantida pelo Pretório Excelso - Impossibilidade de concessão do benefício - Agravo não provido.
+Consta dos autos que o paciente cumpre pena de 20 anos de reclusão em regime inicial fechado, pela prática do crime de homicídio qualificado (art. 121, § 2º, incisos I e IV, do Código Penal).
+A defesa alega, em síntese: a) que tendo a jurisprudência flexibilizado o art. 126 da LEP para permitir a remição da pena pela leitura e pelo estudo por conta própria, não se mostra razoável impedir o cômputo do benefício, tão somente pelo argumento de ausência de supervisão, uma vez que foram apresentados resumos de próprio punho, redigidos pelo reeducando; b) que a remição da pena pela leitura, prevista na Recomendação n. 44/2013, posteriormente revogada pela Resolução n. 391/2021, ambas do CNJ, é constitucional e está de acordo com a intelecção do art. 126 da Lei de Execução Penal.
+Ao final, requer a concessão da ordem para reconhecer a remição de pena pela leitura realizada pelo paciente.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, verifico a presença de flagrante ilegalidade capaz de fundamentar a concessão da ordem de ofício.
+Este Superior Tribunal de Justiça possui entendimento no sentido da aplicação da interpretação extensiva in bonam partem para premiar com a remissão da pena o reeducando que pratique atividades de estudo, leitura e ou outras que não estejam expressamente previstas no texto legal, como forma de incentivo à ressocialização, que é um dos escopos da pena.
+A par desta orientação, o Conselho Nacional de Justiça editou a Resolução nº 391/2021, concebida para estabelecer procedimentos e diretrizes a serem observados pelo Poder Judiciário para o reconhecimento do direito à remição de pena por meio de práticas sociais educativas em unidades de privação de liberdade, e que estabelece em seu art. 5º o que segue:
+Art. 5o Terão direito à remição de pena pela leitura as pessoas privadas de liberdade que comprovarem a leitura de qualquer obra literária, independentemente de participação em projetos ou de lista prévia de títulos autorizados, considerando-se que:
+I - a atividade de leitura terá caráter voluntário e será realizada com as obras literárias constantes no acervo bibliográfico da biblioteca da unidade de privação de liberdade;
+Portanto, a despeito do reconhecimento da inconstitucionalidade da norma estadual que tratava especificamente do tema, entendo que a orientação jurisprudencial e o CNJ se afinaram para prestigiar o esforço voluntário do reeducando que busca na educação, no esporte e em outras áreas culturais, sua reinserção no meio social.
+Nessa esteira de entendimento são os precedentes:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. REMIÇÃO PELA LEITURA. LEGALIDADE. INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM DO ART. 126 DA LEP. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem, de ofício.
+II - A jurisprudência deste Superior Tribunal de Justiça tem admitido que a norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento em razão de atividades que não estejam expressas no texto legal, como no caso, a leitura e resenha de livros, nos termos da Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+III - O fato de o estabelecimento penal onde se encontra o paciente assegurar acesso a atividades laborais e à educação formal, não impede que se obtenha também a remição pela leitura, que é atividade complementar, mas não subsidiária, podendo ocorrer concomitantemente, havendo compatibilidade de horários.
+IV - Parecer do Ministério Público Federal pela concessão da ordem, de ofício.
+Habeas corpus não conhecido.
+Ordem concedida, de ofício, para restabelecer a r. decisão de 1º grau que declarou remidos 16 (dezesseis) dias da pena do paciente.
+(HC n. 353.689/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 14/6/2016, DJe de 1/8/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO PELA LEITURA. POSSIBILIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM DISSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. MANUTENÇÃO DA DECISÃO AGRAVADA. INSURGÊNCIA DESPROVIDA.
+1. Hipótese em que o reeducando teve remidos quatro dias de sua reprimenda privativa de liberdade pela leitura, nos termos da Recomendação n.º 44/2013, do Conselho Nacional de Justiça.
+2. Esta Corte Superior de Justiça firmou entendimento no sentido de ser viável a concessão da remissão por atividades não expressas na lei, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 696.637/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 23/2/2016, DJe de 4/3/2016.)
+Ante o exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem, de ofício, para determinar ao Juízo da Execução avalie, a partir dos parâmetros trazidos na Resolução nº 391/2021 do CNJ, a possibilidade de remição da pena do paciente pela sua leitura e respectivos resumos das obras literárias.
+Publique-se. Intimem-se.
+ EMENTA
