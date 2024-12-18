@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental NO HABEAS CORPUS. Tráfico de drogas. Tráfico privilegiado. Afastamento. Agravo DESprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se pleiteava a concessão do benefício do tráfico privilegiado, previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a quantidade e a natureza da droga, aliadas à existência de mandado de prisão em aberto e condenação por crime anterior, inviabilizam a aplicação do redutor do tráfico privilegiado.
+3. A questão também envolve a análise sobre a possibilidade de valoração negativa dos antecedentes do réu, em razão de condenação por crime anterior, cujo trânsito em julgado ocorreu após a prática do delito em apuração.
+III. Razões de decidir
+4. A jurisprudência consolidada do STJ permite a valoração negativa dos antecedentes do réu, mesmo que a condenação por crime anterior tenha trânsito em julgado posterior à prática do delito em apuração, inviabilizando a aplicação do redutor do tráfico privilegiado.
+5. O reexame do conteúdo probatório dos autos, para modificar o entendimento do Tribunal de origem sobre a dedicação do réu à atividade criminosa, é inadmissível em sede de habeas corpus.
+IV. Dispositivo e tese
+6 . Agravo regimental des provido.
+Tese de julgamento: "A condenação por crime anterior, com trânsito em julgado posterior à prática do delito em apuração, permite a valoração negativa dos antecedentes e inviabiliza a aplicação do redutor do tráfico privilegiado".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, HC 385.941/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 27/4/2017, DJe 8/5/2017; STJ, HC 390.837/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2017, DJe 31/8/2017; STJ, AgRg no AREsp 684.527/SP, Rel. Ministro Ribeiro Dantas , Quinta Turma, julgado em 12/6/2018, DJe 20/6/2018.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FELIPE OLIVEIRA SILVA DOS SANTOS de decisão na qual indeferi liminarmente o habeas corpus (e-STJ, fls. 96-100).
+O agravante alega, em suma, que "não se trata de reexame de provas, mas trata-se tão somente de uma discussão meramente jurídica por manifesto constrangimento ilegal ante a negatória de concessão do benefício do tráfico privilegiado." (e-STJ, fl. 110)
+Aduz que "ao tempo da prolação da sentença o agravante era tecnicamente primário e possuía bons antecedentes." (e-STJ, fl. 112)
+Sustenta que "é impossível que um trânsito em julgado ocorrido APÓS a sentença condenatória, apenas por ser anterior ao Acórdão, possa ser utilizado como fundamento idôneo para afastamento do privilégio." (e-STJ, fl. 116)
+Requer a reconsideração da decisão agravada ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental NO HABEAS CORPUS. Tráfico de drogas. Tráfico privilegiado. Afastamento. Agravo DESprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se pleiteava a concessão do benefício do tráfico privilegiado, previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a quantidade e a natureza da droga, aliadas à existência de mandado de prisão em aberto e condenação por crime anterior, inviabilizam a aplicação do redutor do tráfico privilegiado.
+3. A questão também envolve a análise sobre a possibilidade de valoração negativa dos antecedentes do réu, em razão de condenação por crime anterior, cujo trânsito em julgado ocorreu após a prática do delito em apuração.
+III. Razões de decidir
+4. A jurisprudência consolidada do STJ permite a valoração negativa dos antecedentes do réu, mesmo que a condenação por crime anterior tenha trânsito em julgado posterior à prática do delito em apuração, inviabilizando a aplicação do redutor do tráfico privilegiado.
+5. O reexame do conteúdo probatório dos autos, para modificar o entendimento do Tribunal de origem sobre a dedicação do réu à atividade criminosa, é inadmissível em sede de habeas corpus.
+IV. Dispositivo e tese
+6 . Agravo regimental des provido.
+Tese de julgamento: "A condenação por crime anterior, com trânsito em julgado posterior à prática do delito em apuração, permite a valoração negativa dos antecedentes e inviabiliza a aplicação do redutor do tráfico privilegiado".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, HC 385.941/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 27/4/2017, DJe 8/5/2017; STJ, HC 390.837/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2017, DJe 31/8/2017; STJ, AgRg no AREsp 684.527/SP, Rel. Ministro Ribeiro Dantas , Quinta Turma, julgado em 12/6/2018, DJe 20/6/2018.
+VOTO
+O recurso não merece prosperar.
+O Tribunal de origem afastou o redutor do tráfico privilegiado nos seguintes termos:
+"Na 3ª etapa, fora aplicada a causa de diminuição da pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, no seu patamar máximo 2/3 (dois terços), tornando definitiva a reprimenda em 1 (um) ano, 4 (quatro) meses e 20 (vinte) dias de reclusão, no regime inicial aberto. Todavia, como dito alhures, o Ministério Público pleiteia o afastamento da respectiva minorante, pelo fato de o Réu responder a outras ações penais, além de ressaltar a natureza e quantidade de drogas apreendidas. Subsidiariamente, a sua manutenção, mas no patamar mínimo de 1/3 (um terço).
+Na hipótese, revela-se devido o afastamento do benefício (tráfico privilegiado) concedido ao Réu/Apelante não pela existência de ações penais em curso, em atenção ao Tema 1.139 do STJ, firmado por ocasião do julgamento dos Recursos Especiais n. 1.977.027/PR e 1.977.180/PR, de 10/08/2022, sob o rito dos recursos especiais repetitivos, mas por outros motivos.
+Com efeito, foram apreendidas 309,33g (trezentos e nove gramas e trinta e três centigramas) de cocaína, acondicionadas em micro tubos plásticos. Aliado a esse fato, à época da conduta criminosa, o Réu se encontrava foragido e, por esta razão, possuía um mandado de prisão em aberto, pois tinha conhecimento da ação penal de nº 0512417-12.2020.8.05.0001, existente em seu desfavor e de outros indivíduos, em trâmite no 1º Juízo da 2ª Vara do Tribunal do Júri de Salvador/BA, por acusação de homicídio ocorrido no dia 10.10.2019.
+Apesar de o Acusado ter afirmado, na Delegacia de Polícia, que desconhecia o mandado de prisão, oriundo do crime de homicídio, o mesmo não se pode falar da respectiva ação penal, haja vista que fora citado no dia 23.12.2020, consoante se infere da certidão da Oficiala de Justiça naqueles autos e, só foi possível o cumprimento do respectivo mandado no dia 7.01.2023, quando preso em flagrante pela prática do crime de tráfico de drogas, objeto de análise destes autos.
+Por outro lado, noticia a denúncia a existência de outra ação penal (nº 8146943-94.2021.8.05.0000), pela prática do crime de tráfico de entorpecentes, na 1ª Vara de Tóxicos da Capital. Em consulta ao PJe de 1º grau, observa-se que os fatos ali descritos ocorreram no dia 20.05.2020, e quando em liberdade provisória (21.05.2020) concedia naqueles autos, o Réu voltou a ser preso em 6.01.2023, pelo mesmo crime, ou seja, objeto deste recurso de apelação. Inclusive, a ação penal de nº 8146943-94.2021.8.05.0000, transitou em julgado no dia 23.05.2024.
+Sendo assim, diante da quantidade e nocividade da droga apreendida, e o fato de o Réu quando em liberdade provisória foi preso em flagrante pelo mesmo delito de tráfico de entorpecentes, inclusive, possuía um mandado de prisão em aberto sob a acusação da prática de crime grave (homicídio qualificado), além de, atualmente, possuir uma condenação transitada em julgado também por tráfico de drogas, resta evidenciada a sua dedicação à atividade criminosa, razão pela qual não faz jus a causa de diminuição de pena descrita no §4º, da Lei nº 11.343/2006." (e-STJ, fl. 31; sem grifos no original)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+No caso, observa-se que a instância antecedente afastou a minorante por entender que a quantidade e nocividade da droga apreendida (309,33g de cocaína), bem como o fato de o paciente possuir um mandado de prisão em aberto sob a acusação da prática de crime grave (homicídio qualificado), além de estar em liberdade provisória, pelo mesmo delito de tráfico de entorpecentes (Ação Penal nº 8146943-94.2021.8.05.0000), quando foi preso em flagrante, em 6/1/2023, pelos fatos descritos nos presentes autos, evidencia a sua dedicação à atividade criminosa, razão pela qual não faz jus a causa de diminuição de pena descrita no §4º, da Lei nº 11.343/2006.
+Anotou-se, ainda, que, na Ação Penal (nº 8146943-94.2021.8.05.0000), o réu foi condenado por fatos que ocorreram no dia 20/5/2020, tendo sido certificado o trânsito em julgado da referida ação em 23/5/2024.
+Assim, assentado pelo Tribunal de origem, soberano na análise dos fatos, com fulcro em elementos colhidos nos autos, que o réu é habitual na prática delitiva, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus (HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017).
+Vale lembrar que esta Corte consolidou o entendimento de que a condenação por crime anterior à prática delitiva, com trânsito em julgado posterior à data do crime sob apuração, malgrado não configure reincidência, enseja a valoração negativa dos antecedentes do agente e inviabiliza a aplicação do redutor por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE E NATUREZA DA DROGA E MAUS ANTECEDENTES. FUNDAMENTOS IDÔNEOS. TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS. MAUS ANTECEDENTES. REGIME FECHADO. POSSIBILIDADE. 5 ANOS E 10 MESES DE RECLUSÃO. PENA-BASE ACIMA DO MÍNIMO LEGAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. QUANTUM SUPERIOR A 4 ANOS. HABEAS CORPUS NÃO CONHECIDO.
+- O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva de habeas corpus, passaram a restringir sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- A viabilidade do exame da dosimetria da pena, por meio de habeas corpus, somente se faz possível caso evidenciado eventual desacerto na consideração de circunstância judicial, desproporcionalidade no quantum ou erro na aplicação do método trifásico, se daí resultar flagrante ilegalidade e prejuízo ao réu.
+- Em se tratando de crime de tráfico de drogas, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei 11.343/2006.
+- Quanto aos maus antecedentes, esta Corte tem entendimento reiterado no sentido de que a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes.
+- Não há se falar em ilegalidade na exasperação da pena-base, porquanto os fundamentos utilizados são idôneos.
+- Quanto à redutora, para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa. No caso, não há se falar em sua aplicação, tendo em vista que o acusado é portador de maus antecedentes.
+ ..
+- Habeas corpus não conhecido."
+(HC 390.837/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 31/8/2017)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. EXASPERAÇÃO DA PENA-BASE E INAPLICABILIDADE DA MINORANTE. BIS IN IDEM. INOCORRÊNCIA. REGIME INICIAL SEMIABERTO. REGISTRO DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/06, exige que o condenado preencha cumulativamente os requisitos legais, quais sejam, ser primário, ter bons antecedentes, não se dedicar às atividades criminosas e nem integrar organização criminosa.
+2. Na espécie, verifica-se que as instâncias de origem negaram a incidência da referida minorante, em razão dos maus antecedentes do réu. Assim, não há falar em bis in idem na utilização dos maus antecedentes para exasperar a pena-base e, ao mesmo tempo, afastar a aplicação da causa de diminuição do tráfico privilegiado, por expressa previsão legal. 3. O art. 33, § 3º, do CP dispõe que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código". Assim, conquanto a pena tenha sido fixada em 4 anos de reclusão, revela-se correta a fixação do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP, tendo em vista o registro de circunstância judicial negativa (maus antecedentes) na primeira fase da dosimetria.
+4. Agravo regimental não provido."
+(AgRg no AREsp 684.527/SP, minha relatoria, QUINTA TURMA, julgado em 12/6/2018, DJe 20/6/2018)."
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
