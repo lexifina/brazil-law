@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2024 a 18/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRETENSÃO NÃO ANALISADA PELA INSTÂNCIA DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRETENDIDA CONCESSÃO DE ORDEM DE HABEAS CORPUS EX OFFICIO. NÃO CONFIGURAÇÃO. AGRAVO IMPROVIDO.
+1. Não havendo o Tribunal de origem se manifestado acerca da pretensão defensiva ventilada nas razões da impetração, o não conhecimento do writ pelo Superior Tribunal de Justiça é medida que se impõe, sob pena de incursão em vedada supressão de instância.
+2. No caso, a questão poderia ter sido suscitada nas contrarrazões à apelação manejada pelo Órgão ministerial, ou, ainda, nas razões dos embargos de declaração, opostos perante a Corte de origem, sem o questionamento quanto ao tema ora trazido à apreciação.
+3. A concessão da ordem de ofício em habeas corpus, nos termos do art. 654, § 2º, do Código de Processo Penal, somente é admitida quando constada ilegalidade flagrante em processos nos quais a competência do Tribunal foi formalmente inaugurada. Tal providência não tem o condão de possibilitar provimento favorável à defesa sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade. Precedentes.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por OSMAR VITOR PEREIRA JÚNIOR contra decisão proferida às fls. 183-184, que não conheceu do habeas corpus.
+A defesa alega impropriedade na decisão de não conhecimento, tendo em vista a ocorrência de supressão de instância, pois a matéria ventilada na impetração somente teria surgido nos autos com a procedência da apelação pelo Tribunal de Justiça do Estado de São Paulo - TJSP.
+Aduz que o objeto da impetração é exatamente a impossibilidade de condenação criminal em segundo grau, matéria que não poderia nem mesmo ter sido alegada antes, já que a sentença foi absolutória.
+Reitera que o acórdão local foi o que originou a ilegalidade que se visa sanar, mostrando-se cabível o recurso.
+Requer a reconsideração da decisão agravada, com o provimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRETENSÃO NÃO ANALISADA PELA INSTÂNCIA DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRETENDIDA CONCESSÃO DE ORDEM DE HABEAS CORPUS EX OFFICIO. NÃO CONFIGURAÇÃO. AGRAVO IMPROVIDO.
+1. Não havendo o Tribunal de origem se manifestado acerca da pretensão defensiva ventilada nas razões da impetração, o não conhecimento do writ pelo Superior Tribunal de Justiça é medida que se impõe, sob pena de incursão em vedada supressão de instância.
+2. No caso, a questão poderia ter sido suscitada nas contrarrazões à apelação manejada pelo Órgão ministerial, ou, ainda, nas razões dos embargos de declaração, opostos perante a Corte de origem, sem o questionamento quanto ao tema ora trazido à apreciação.
+3. A concessão da ordem de ofício em habeas corpus, nos termos do art. 654, § 2º, do Código de Processo Penal, somente é admitida quando constada ilegalidade flagrante em processos nos quais a competência do Tribunal foi formalmente inaugurada. Tal providência não tem o condão de possibilitar provimento favorável à defesa sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade. Precedentes.
+4. Agravo regimental improvido.
+VOTO
+Inicialmente, é necessário ressaltar que a presente insurgência aponta como ato coator o julgamento de apelação perante a Corte de origem, na qual o agravante acabou condenado pela prática de crimes de trânsito. O julgamento data de 31/3/2023.
+Opostos embargos de declaração pela defesa do paciente (fls. 168-171), extrai-se do relatório lançado no acórdão que a matéria aqui debatida não foi suscitada perante a Corte de origem, observa-se (fl. 169):
+Dizem os embargantes, de forma sintética, que o v. aresto é contraditório, tem erro de valoração da prova e interpreta de modo equivocado os laudos periciais (fls. 01/14 e 15/18 do apenso).
+Os embargos foram rejeitados, nos termos da seguinte ementa (fl. 168):
+EMBARGOS DE DECLARAÇÃO  PREQUESTIONAMENTO  MERA DISCORDÂNCIA COM O RESULTADO QUE NÃO DESAFIA O PRESENTE RECURSO ORDINÁRIO  REPISAMENTO NESTES EMBARGOS DECLARATÓRIOS DE TEMAS ENFRENTADOS OBJETIVAMENTE NO V. ARESTO QUE DECIDIU A APELAÇÃO CRIMINAL  INOCORRÊNCIA DE OFENSA A PRECEITO CONSTITUCIONAL, TAMPOUCO NORMA INFRACONSTITUCIONAL  INEXISTÊNCIA DE ERRO DE FATO OU DE DIREITO, OMISSÃO, AMBIGUIDADE, OBSCURIDADE OU MESMO CONTRADIÇÃO  EMBARGOS REPELIDOS, COM OBSERVAÇÃO.
+Interposto recurso especial, este não foi admitido pelo Colegiado estadual (fls. 172-173), não havendo como saber se a defesa arguiu a ilegalidade aqui trazida como razões na impetração.
+Nesse contexto, correta a decisão que não conheceu do habeas corpus em decorrência da supressão de instância.
+Com efeito, não havendo o Tribunal de origem se manifestado acerca da pretensão defensiva ventilada nas razões da impetração, o não conhecimento do writ é medida que se impõe, sob pena de incursão em vedada supressão de instância.
+No caso, a parte poderia ter aventado eventual ilegalidade na condenação em segunda instância nas contrarrazões à apelação do Ministério Público, levando a Corte local a se manifestar preliminarmente quanto ao ponto, já que o pedido ministerial era justamente a condenação dos réus. Ou ainda, poderia ter questionado a atuação nas razões dos embargos de declaração lá opostos, o que também não se verificou.
+Logo, o enfrentamento do tema originariamente nesta Corte de Justiça não se mostra adequado.
+Por fim, extrai-se da dicção do art. 647 do Código de Processo Penal que a ordem de habeas corpus será concedida sempre que alguém sofrer ou se encontrar na iminência de sofrer violência ou coação ilegal em sua liberdade de ir e vir. Nesse contexto, conforme os arts. 647-A e 654, § 2º, do CPP, a ordem poderá ser concedida de ofício, desde que alguém sofra ou se ache ameaçado de sofrer violência ou coação na liberdade de locomoção.
+Infere-se daí que a concessão da ordem de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Tal prov idência não tem o condão de possibilitar provimento favorável à defesa sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade.
+Sobre o tema, a propósito (grifo acrescido):
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. MANEJO CONCOMITANTE, NA ORIGEM, DE HABEAS CORPUS E RECURSO DE APELAÇÃO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. COGNIÇÃO AMPLA DA CAUSA A SER CONCRETIZADA NO JULGAMENTO DA APELAÇÃO. LITISPENDÊNCIA. IMPOSSIBILIDADE DE ESTA CORTE EXAMINAR A MATÉRIA EX OFFICIO, AINDA QUE SE TRATE DE QUESTÃO DE ORDEM PÚBLICA. AGRAVO DESPROVIDO.
+1. O manejo concomitante de recursos e de habeas corpus contra o mesmo ato não é admissível, sob pena de violação do princípio da unirrecorribilidade.
+2. A pretensão defensiva (declaração de nulidade, em caso no qual na sentença foi reconhecido o direito de apelar em liberdade) não se refere, diretamente, à tutela da liberdade ambulatorial. Ocorre que, conforme o que fora definido em leading case da Terceira Seção do Superior Tribunal de Justiça (HC 482.549/SP, relator Ministro Rogerio Schietti Cruz), "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita imediatamente na liberdade do paciente". Concluiu-se na mesma oportunidade, outrossim, que "nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual" (julgado em 11/03/2020, DJe 03/04/2020; sem grifos no original).
+3. Não podem ser analisados habeas corpus e recursos nos quais se constata litispendência, instituto que se configura quando há igualdade de partes, de objeto e de causa petendi - como ocorre na origem, em que o juízo exauriente sobre as provas ocorrerá no julgamento do recurso de apelação, via de impugnação com o espaço cognitivo adequado.
+4. Ausência de pressuposto para a concessão de ordem ex officio.
+5. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é concedido por iniciativa própria dos Tribunais, ao identificarem ilegalidade flagrante em casos nos quais a respectiva competência foi inaugurada. Tal providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade.
+6. Omissão não configurada. Não é dever jurisdicional do Magistrado justificar os motivos pelos quais não concedeu ordem de ofício, pois essa iniciativa decorre de sua atuação própria e não em resposta a postulações das partes.
+7. Agravo desprovido.
+(AgRg no RHC n. 174.708/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/3/2023, DJe de 30/3/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. REVISÃO CRIMINAL. ALEGAÇÕES DE NULIDADE DA CONDENAÇÃO. UTILIZAÇÃO DA REVISÃO CRIMINAL COMO NOVO RECURSO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS E REALIZAÇÃO DE NOVA DOSIMETRIA DA PENA. DESCABIMENTO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de habeas corpus ex officio é de iniciativa exclusiva do julgador quando se deparar com flagrante ilegalidade em procedimento de sua competência, o que, todavia, não se vislumbra na hipótese.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.359.506/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
