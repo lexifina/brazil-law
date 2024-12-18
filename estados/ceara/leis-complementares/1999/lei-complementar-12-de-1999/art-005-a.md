@@ -1,0 +1,1 @@
+Art. 5º-A. A contribuição previdenciária do SUPSEC, decorrente de valores pagos em cumprimento de decisão judicial, ainda que derivada de homologação de acordo, será retida na fonte, antes do pagamento ao beneficiário ou seu representante legal, pelo órgão do Poder Judiciário responsável pelo pagamento, mediante a aplicação da alíquota prevista nesta Lei sobre o valor pago.

@@ -1,0 +1,1 @@
+Art. 5º-B. A não retenção das contribuições pelo órgão pagador, inclusive nas hipóteses previstas no art. 5º-A, sujeita o responsável às sanções penais e administrativas, cabendo a esse órgão apurar os valores não retidos e proceder ao desconto na folha de pagamento do servidor ativo, do aposentado e do pensionista, em rubrica e classificação contábil específicas.
