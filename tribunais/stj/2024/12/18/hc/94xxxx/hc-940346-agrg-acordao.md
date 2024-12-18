@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2024 a 18/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. INSURGÊNCIA CONTRA O ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA "E", DA CONSTITUIÇÃO DA REPÚBLICA. ALEGADA PRESCRIÇÃO. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA PENAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. CONTINUIDADE DELITIVA. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não deve ser conhecido o writ que se volta contra o acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes da Quinta e da Sexta Turma do Superior Tribunal de Justiça.
+2. A fixação da pena está inserida no critério de discricionariedade do Juiz, vinculado às circunstâncias específicas do caso concreto e às características subjetivas do agente, podendo ser revista por este Tribunal Superior apenas nas hipóteses de desrespeito aos limites legais ou evidente desproporcionalidade.
+3. No caso, acolher a pretensão de aplicação do crime continuado seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ ARISTEU DE ALMEIDA contra decisão de minha lavra, na qual não conheci da ordem de habeas corpus (fls. 544-547).
+Consta nos autos que o agravante foi condenado pela prática de 11 (onze) crimes em concurso material, previstos no artigo 313-A, c/c o artigo 69, do Código Penal à pena de 16 (dezesseis) anos e 03 (três) meses de reclusão, em regime inicial fechado.
+Nas razões do writ, a parte impetrante sustentou que 08 (oito) das imputações contra o réu estão prescritas, pois ocorreram antes da vigência da Lei n. 12.234/2010, que alterou o art. 110 do Código Penal, ou seja, as imputações anteriores estão sujeitas à prescrição retroativa, considerando a irretroatividade da lei penal mais gravosa.
+Alegou, ademais, que violado o princípio da individualização da pena e que houve erro na dosimetria da pena, sem a devida fundamentação para o aumento da pena-base em 06 (seis) meses, quando deveria ter sido apenas 04 (quatro) meses, além de pleitear a aplicação do crime continuado para as imputações não prescritas.
+O pedido de habeas corpus não foi conhecido (fls. 544-547).
+No agravo regimental, a Defesa reitera as alegações feitas na inicial do writ.
+Requer a reconsideração da decisão agravada ou a submissão do agravo regimental ao Colegiado competente.
+Manifestação do Ministério Público Federal à fl. 591.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. INSURGÊNCIA CONTRA O ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA "E", DA CONSTITUIÇÃO DA REPÚBLICA. ALEGADA PRESCRIÇÃO. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA PENAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. CONTINUIDADE DELITIVA. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não deve ser conhecido o writ que se volta contra o acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes da Quinta e da Sexta Turma do Superior Tribunal de Justiça.
+2. A fixação da pena está inserida no critério de discricionariedade do Juiz, vinculado às circunstâncias específicas do caso concreto e às características subjetivas do agente, podendo ser revista por este Tribunal Superior apenas nas hipóteses de desrespeito aos limites legais ou evidente desproporcionalidade.
+3. No caso, acolher a pretensão de aplicação do crime continuado seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+4. Agravo regimental não provido.
+VOTO
+O inconformismo não prospera.
+Consoante destacado na decisão impugnada, o presente habeas corpus foi impetrado contra o acórdão do Tribunal de Justiça do Estado de São Paulo já transitado em julgado. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados (AgRg no HC n. 573.735/SP, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021, DJe de 30/04/2021; AgRg no HC n. 610.106/PR, rel. Ministro Felix Fischer, Quinta Turma, julgado em 23/02/2021, DJe de 1º/03/2021; HC n. 512.674/CE, rel. Ministro Sebastião Reis Júnior, decisão monocrática, DJe de 30/05/2019; HC n. 482.877/SP, rel. Ministro Jorge Mussi, decisão monocrática, DJe de 29/03/2019; HC n. 675.658/PR, Ministro Ribeiro Dantas, decisão monocrática, DJe de 04/08/2021, e HC n. 677.684/SP, Ministro Antonio Saldanha Palheiro, decisão monocrática, 02/08/2021).
+Além disso, reitero que inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque a tese defensiva - de reconhecimento da prescrição da pretensão punitiva, na espécie retroativa - que se pretende que s eja analisada por esta Corte Superior não foi sequer alegada perante o Tribunal de origem, a redundar em inadmissível supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE INDULTO. EXTINÇÃO DA PUNIBILIDADE. PREJUDICIALIDADE DA ORDEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A matéria relativa à alegação de prescrição da pretensão punitiva, na modalidade retroativa, não foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+ ..
+(AgRg no AgRg no HC n. 772.665/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/08/2023, DJe de 30/08/2023, grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FALSIDADE IDEOLÓGICA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUPRESSÃO DE INSTÂNCIA. TERMO INICIAL DA PRESCRIÇÃO. CONHECIMENTO DA FALSIDADE (ART. 111, IV, DO CP). AUSÊNCIA DE INFORMAÇÃO A RESPEITO DA DATA DO CONHECIMENTO DO FATO. IMPOSSIBILIDADE DE ANÁLISE. RECURSO IMPROVIDO.
+1. Da análise do acórdão proferido em sede de habeas corpus, constata-se que a Corte de origem não debateu especificamente a respeito da prescrição da pretensão punitiva, o que torna inviável a análise diretamente por este Tribunal superior, sob pena de incorrer em indevida supressão de instância.
+ ..
+(AgRg no RHC n. 141.770/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/06/2022, DJe de 24/06/2022, grifamos).
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. PRESCRIÇÃO. MATÉRIA DE ODEM PÚBLICA. PREQUESTIONAMENTO. EXIGÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES .
+1. Os embargos de declaração destinam-se a suprir omissão, aclarar obscuridade, bem como eliminar contradição ou ambiguidade eventualmente existentes no julgado impugnado, não constituindo meio processual adequado para veicular simples inconformismo e o propósito de rediscussão de matéria decidida. Precedente.
+2. Nas razões do agravo regimental houve preliminar de prescrição da pretensão executória da pena aplicada em sentença transitada em julgado, que não fora examinada no acórdão embargado.
+3. A jurisprudência pacífica desta Corte orienta que o exame do instituto da prescrição, ainda que seja matéria de ordem pública - cognoscível em qualquer grau de jurisdição e até mesmo de ofício - exige o requisito do prequestionamento, a fim de evitar a supressão de instância pelo Superior Tribunal de Justiça. Precedentes.
+4. Embargos de declaração acolhidos, apenas para fins de esclarecimentos, sem atribuição de efeitos infringentes.
+(EDcl no AgRg no AREsp n. 2.188.013/SP, relator Ministro João Batista Moreira (Desembargador Convocado do Trf1), Quinta Turma, julgado em 21/11/2023, DJe de 5/12/2023, grifamos)
+Ademais, de acordo com o entendimento consolidado/STJ,
+a dosimetria da pena insere-se dentro de um Juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC n. 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Insta asseverar que
+não há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 (um sexto) sobre a pena-base, 1/8 (um oitavo) do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias, como no caso (AgRg no HC n. 820.316/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/06/2023, DJe de 23/06/2023).
+A título ilustrativo:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA PENAL. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. Segundo se infere dos autos, os fatos objeto deste mandamus ocorreram em 2017, tendo sido verificado o trânsito em julgado da condenação em 2019, de modo que, ante à longa passagem de tempo entre a data dos fatos e esta impetração, forçoso o reconhecimento da preclusão da pretensão ora manifestada, em homenagem ao princípio da segurança jurídica, notadamente quando o pleito tem nítidas características revisionais.
+2. Ademais, anote-se que a definição dos índices de aumento da pena-base, de acordo com aferição desfavorável de cada circunstância judicial, está dentro do critério de discricionariedade vinculada do julgador, e será revista por esta Corte, excepcionalmente, nos casos de manifesta ilegalidade, o que não se verificou, de pronto
+3. Agravo não provido
+(AgRg no HC n. 898.369/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/05/2024, DJe de 15/05/2024).
+Por fim, para se acolher a pretensão de aplicação do crime continuado seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+Nesse sentido:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SATISFAÇÃO DE LASCÍVIA MEDIANTE PRESENÇA DE CRIANÇA OU ADOLESCENTE. ABSOLVIÇÃO. PRESENÇA DE PROVAS PARA A MANTENÇA DA CONDENAÇÃO. PALAVRAS DA VÍTIMA. ÓBICE AO REVOLVIMENTO PROBATÓRIO NA VIA DO WRIT. CONTINUIDADE DELITIVA. REQUISITO TEMPORAL DO ART. 71 DO CP NÃO PREENCHIDO. AGRAVO DESPROVIDO.
+ ..
+4. No caso, o Tribunal a quo não constatou a existência dos requisitos objetivos entre os crimes, máxime se considerado o lapso temporal de mais de 1 mês entre as condutas. Deveras, conforme jurisprudência deste Superior Tribunal, " a pesar de o legislador não ter delimitado expressamente o intervalo de tempo necessário ao reconhecimento da continuidade delitiva, firmou-se, nesta Corte, o entendimento de que não ser possível a aplicação da regra quando os delitos tiverem sido praticados em período superior a 30 dias" (AgRg no REsp n. 1.503.538/SC, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe de 21/5/2018).
+5. Pretender conclusão diversa das instâncias ordinárias se mostra inviável nesta estreita via do habeas corpus, sob pena de indevido revolvimento fático-probatório.
+6. Agravo desprovido.
+(AgRg no HC n. 876.370/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 04/03/2024, DJe de 07/03/2024).
+Assim, por não terem sido declinados, nas razões recursais, os fundamentos jurídicos que infirmem os motivos da decisão ora agravada, deve esse ato ser integralmente mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
