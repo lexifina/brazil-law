@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR N.° 344, DE 18.12.24 (D.O. 18.12.24)
+ALTERA AS LEIS COMPLEMENTARES N.º 31, DE 5 DE AGOSTO DE 2002, N.º 12, DE 23 DE JUNHO DE 1999, E N.º 227, DE 16 DE DEZEMBRO DE 2020.
+O GOVERNADOR DO ESTADO DO CEARÁ. Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
