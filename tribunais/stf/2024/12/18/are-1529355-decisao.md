@@ -1,0 +1,29 @@
+Trata-se de recurso extraordinário interposto contra acórdão da Turma Recursal do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+
+    RECURSO INOMINADO. JUIZADO ESPECIAL. AUXILIO ALIMENTAÇÃO. ÍNDICE DE REAJUSTE. CORREÇÃO MONETÁRIA. LEI MUNICIPAL ESPECÍFICA. IMPLEMENTAÇÃO E RETROATIVO. IMPOSSIBILIDADE. SÚMULA VINCULANTE N. 42/STF. INCONSTITUCIONALIDADE INCIDENTAL. 1. É dever do magistrado, a todo tempo, proceder ao exame da constitucionalidade das normas que lhe são submetidas à análise, vinculadas às pretensões manejadas em juízo. 2. O enunciado da Súmula Vinculante n. 42 do STF estabelece ser inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária. 3. Vinculação de índice em flagrante afronta a autonomia do ente federativo (doc. 6, p. 9).
+
+    Os embargos de declaração que se seguiram foram rejeitados (doc. 9, p. 3).
+
+    O recorrente, fundado no art. 102, III, a, da Constituição Federal, alega, em suma, que o acórdão recorrido contrariou os arts. 2º; 5º, I, II, e XXXVI; 37, X, XIII, §4º; e 39, da mesma Carta, “ao não observar a determinação legislativa, cujo teor, referendado pelos dois poderes competentes, LEGISLATIVO e EXECUTIVO, é expresso em determinar a atualização do auxílio-alimentação pelo IGPM-FGV, anualmente, repisando o fato não ser este índice, federal, como interpretado pela nobre Corte Ordinária” (doc. 10, p. 12).
+
+    A pretensão recursal não merece acolhida.
+
+    Isso porque o acórdão impugnado está em consonância com o entendimento consolidado na Súmula Vinculante n. 42, segundo a qual “é inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária”. Nessa linha, destaco os seguintes julgados:
+
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 8.278/2004, DO ESTADO DE MATO GROSSO, QUE ESTABELCE A POLÍTICA DE REVISÃO GERAL ANUAL DA REMUNERAÇÃO E SUBSÍDIO DOS SERVIDORES PÚBLICOS ESTADUAIS. VINCULAÇÃO AO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR – INPC, CALCULADO PELO IBGE. ATRELAMENTO REMUNERATÓRIO A ÍNDICE DE CORREÇÃO EDITADO POR ENTIDADE FEDERAL. CONCESSÃO DE REAJUSTE AUTOMÁTICO. INCONSTITUCIONALIDADE. VIOLAÇÃO DO ART. 37, XIII, DA CF, E DO ENUNCIADO DA SÚMULA VINCULANTE 42. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE. I - A jurisprudência do Supremo Tribunal Federal foi firmada no sentido de que é vedada a vinculação ou equiparação de quaisquer espécies de reajuste para o efeito de remuneração de pessoal do serviço público. Art. 37, XIII, da CF. Precedentes. II - É inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária por afrontarem a autonomia dos entes subnacionais para concederem os reajustes aos seus servidores. Súmula Vinculante 42. Precedentes. III - Os dispositivos questionados promovem vinculações remuneratórias e, por isso, ensejam a concessão de reajustes automáticos, tão logo ocorra a variação do Índice Nacional de Preços ao Consumidor – INPC, calculado pela Fundação Instituto Brasileiro de Geografia e Estatística – IBGE. IV - Ação direta de inconstitucionalidade julgada procedente para declarar a inconstitucionalidade da Lei 8.278/2004, do Estado de Mato Grosso (ADI 5.584/MT, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 14/12/2021 — grifei).
+
+    EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REVISÃO DE REMUNERAÇÃO. LEI MUNICIPAL Nº 1.709/2014. VINCULAÇÃO A ÍNDICE FEDERAL. IMPOSSIBILIDADE. SÚMULA VINCULANTE Nº 42. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO. 1. Na esteira do entendimento firmado por esta Suprema Corte e forte no art. 1.024, § 3º, do CPC, recebo como agravo regimental os embargos de declaração, aplicado o princípio da fungibilidade à espécie. 2. O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada neste Supremo Tribunal Federal, cristalizada no enunciado da Súmula Vinculante nº 42: “É inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária”. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Embargos de declaração recebidos como agravo interno, ao qual se nega provimento (ARE 1.388.730 AgR/RJ, Rel. Min. Rosa Weber, Primeira Turma, DJe 31/8/2022 — grifei).
+
+    Com essa mesma orientação, especificamente sobre o caso dos autos, cito ainda o julgamento do RE 1.475.806 AgR/RO, da relatoria do Ministro Dias Toffoli, cuja ementa segue transcrita:
+
+    Agravo regimental em recurso extraordinário. Auxílio-alimentação. Vinculação a índice federal de atualização monetária. Impossibilidade. Súmula Vinculante nº 42 do STF. Precedentes. 1. Incidência da orientação consolidada na Súmula Vinculante nº 42, segundo a qual “é inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária”. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita (DJe 22/5/2024).
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC). Com apoio no art. 85, § 11, do Código de Processo Civil, majoro os honorários em 10% (dez por cento) sobre o total da verba fixada a esse título, observados os limites legais
+
+    Publique-se.
+
+    Brasília, 18 de dezembro de 2024.
+
+Ministro Cristiano Zanin
+
+Relator
