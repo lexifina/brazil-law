@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2024 a 18/12/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS COM SEGUIMENTO NEGADO . ROUBO, RESISTÊNCIA E FALSIFICAÇÃO DE DOCUMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RAZÕES QUE NÃO INFIRMAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. SÚMULA 182/STJ. INCIDÊNCIA.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MIQUEIAS DE JESUS GONCALVES contra a decisão de minha lavra, às fls. 96/98, assim ementada:
+RECURSO EM HABEAS CORPUS. ROUBO, RESISTÊNCIA E FALSIFICAÇÃO DE DOCUMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. RISCO FUNDADO DE REITERAÇÃO DELITIVA. MOTIVAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PRECEDENTES.
+Recurso a que se nega seguimento.
+Nesta via, o agravante simplesmente reitera as alegações do recurso em habeas corpus, sustentando a ausência de fundamentos concretos para a custódia cautelar, motivada na gravidade abstrata dos crimes e de forma genérica.
+Defende, ainda, que houve violação do princípio da presunção de inocência.
+Requer a retratação da decisão hostilizada e, caso não seja possível, seja o presente regimental provido para que possa ser dado provimento ao recurso ordinário em habeas corpus nos termos da inicial.
+Não abri prazo para a parte agravada apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS COM SEGUIMENTO NEGADO . ROUBO, RESISTÊNCIA E FALSIFICAÇÃO DE DOCUMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RAZÕES QUE NÃO INFIRMAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. SÚMULA 182/STJ. INCIDÊNCIA.
+Agravo regimental não conhecido.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, esses não têm o condão de infirmar os fundamentos insertos na decisão agravada.
+Veja-se que as alegações dele foram devidamente decididas de acordo com os precedentes desta Corte Superior, como se observa deste trecho do decisum (fls. 96/98 - grifo nosso):
+ ..
+Busca o recorrente a revogação da prisão cautelar imposta a ele pelo Juízo da Vara de Audiência de Custódia da comarca de Salvador/BA (Autos n. 8107831-16.2024.8.05.0001), sustentando a ausência de fundamentação idônea e dos requisitos necessários para a manutenção da constrição cautelar.
+Ocorre que inexiste o alegado constrangimento.
+No caso, o Juízo de primeiro grau decretou a custódia preventiva, sob os seguintes fundamentos (fls. 21/23 - grifo nosso):
+ ..
+Analisando o teor dos depoimentos colhidos no APF, tem-se que o Autuado aparentemente foi capturado no contexto de flagrância própria quanto ao crime previsto no art. 157, caput do CP. Os depoimentos do condutor, da vítima e das testemunhas são uníssonos neste sentido, pelo que o caso é de homologação da prisão em flagrante. Ademais, o conduzido resistiu à prisão e apresentou-se com nome falso na abordagem policial.
+Quanto ao pedido de decretação de prisão preventiva, é de se rememorar que após o advento da Lei nº 13.964/19, tem-se que a prisão preventiva se constitui como medida de ultima e extrema ratio, somente podendo ser aplicada quando presentes a seguinte ordem de requisitos: 1) prova da materialidade; 2) indícios de autoria; 3) comprovação da necessidade de garantia da ordem pública, instrução criminal ou aplicação da lei penal; 4) perigo gerado pelo estado de liberdade do imputado; 5) gravidade e contemporaneidade fática; 6) insuficiência das medidas cautelares diversas da prisão.
+Em relação à prova da materialidade e os indícios de autoria, tenho que estes encontram-se presentes à exaustão na hipótese a ensejar a decretação das medidas requeridas pelo Ministério Público.
+ ..
+Vê-se, pois, que, no juízo perfunctório próprio deste momento processual, há prova suficiente da existência de materialidade e indícios de autoria a ligar o representado à prática dos crimes em apuração, restando devidamente preenchido o requisito da prisão preventiva fumus comissi delicti.
+Quanto à necessidade de garantia da ordem pública, periculum statu libertatis, é de se ressaltar que segundo a tese nº 12, da "Jurisprudência de Teses", do C. STJ, "a prisão cautelar pode ser decretada para garantia da ordem pública potencialmente ofendida, especialmente nos casos de: reiteração delitiva, participação em organizações criminosas, gravidade em concreto da conduta, periculosidade social do agente, ou pelas circunstâncias em que praticado o delito (modus operandi)"".
+Os documentos dos autos demonstram que o autuado é pessoa inclinada à vida delitiva. Da certidão cartorária de ID457530288 se extrai que o autuado tem contra si os procedimentos criminais números 0300160-75.2016.8.05.0001, 0002347-37.2011.8.05.0250, 0403872-23.2012.8.05.0001 e 0341350-52.2015.8.05.0001, já tendo sido preso outras vezes.
+ ..
+Como se vê, o periculum libertatis do recorrente foi evidenciado pelas instâncias ordinárias.
+Observa-se da análise dos trechos transcritos que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao risco de reiteração delitiva, a justificar a necessidade de manutenção da medida extrema.
+A propósito, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019) - (AgRg no HC n. 813.512/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/6/2023).
+Por fim, é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública, como na espécie.
+Em face do exposto, nego seguimento ao recurso ordinário.
+No agravo regimental, o agravante, porém, limitou-se a repetir, de forma bem genérica, as teses refutadas, o que não basta. Assim, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+É inviável, portanto, o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula 182 do Superior Tribunal de Justiça. Precedentes (AgRg no AREsp n. 936.228/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2017).
+Diante da incidência da Súmula 182/STJ, não conheço do agravo regimental.
