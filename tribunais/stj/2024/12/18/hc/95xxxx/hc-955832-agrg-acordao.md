@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2024 a 18/12/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO DO DELITO ASSOCIATIVO. MINORANTE. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não tendo o agravante, nas razões deste recurso, infirmado os fundamentos da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ROBERTO ALVES DE SOUSA contra a decisão de e-STJ fls. 1.036/1.040, por meio da qual indeferi liminarmente o writ.
+No caso, o ora agravante foi condenado às penas de 8 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 1.283 dias-multa, pela prática dos delitos tipificados pelos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, na forma do art. 69 do Código Penal (e-STJ fls. 54/62).
+A apelação defensiva foi desprovida pelo Tribunal de origem, em acórdão cuja ementa foi assim definida (e-STJ fls. 34/35):
+Apelação. Tráfico de drogas e associação para o tráfico. Sentença condenatória. Recurso da defesa. Absolvição. Fragilidade probatória. Pleitos subsidiários: a) reconhecimento da figura do tráfico privilegiado; b) fixação do regime prisional aberto; c) substituição da pena privativa de liberdade por restritiva de direitos.
+1. Policiais civis que receberam informações dando conta de que indivíduo foragido da justiça estaria se escondendo em imóvel situado na Av. dos Bandeirantes, n. 5949. Campanas realizadas durante uma semana, em dias e horários alternados. Policiais que, durante as diligências, observaram a constante presença de um Fiat/Palio, de cor vermelha, de placas OUX5A62, no local. Ocupantes daquele veículo que sempre retiravam diversas sacolas do interior do carro e as levavam para o interior da casa. Parte da equipe de policiais que decidiu seguir os ocupantes do automóvel Fiat/Palio. Veículo que foi estacionado em um condomínio existente nas proximidades da comunidade de Heliópolis. Réu Roberto e outros indivíduos que desembarcaram do Fiat/Palio e efetuaram o transbordo de sacolas plásticas para o carro GM/Spin, que estava estacionado ao lado. Policiais que permaneceram de campana na Av. Dos Bandeirantes e na comunidade de Heliópolis durante toda noite. Réu Roberto que foi abordado no dia seguinte, logo pela manhã, na posse da chave do veículo GM/Spin, onde os policiais encontraram 50 tijolos de cocaína. Demais acusados que foram abordados no imóvel situado na Av. Dos Bandeirante, local em que foram apreendidos outros 121 tijolos da mesma substância.
+2. Do delito de tráfico de drogas. Condenação. Prova da materialidade e de autoria. Depoimentos dos policiais uniformes e convergentes. Credibilidade que não foi afetada diante da ausência de prova em sentido contrário. Modelo probatório que não se filiou ao sistema das provas legais segundo o qual os meios de prova registrariam valores aprioristicamente determinados pelo legislador. Livre convencimento motivado.
+3. Associação para o tráfico de drogas. Manutenção da condenação do réu. Vínculo associativo entre o acusado e outros agentes demonstrado. Permanência e estabilidade comprovadas através das investigações realizadas pelos policiais civis.
+4. Dosimetria. 4.1 Do delito de tráfico de drogas. Presença de circunstâncias judiciais desfavoráveis que permitem a aplicação da pena base acima do mínimo legal e com o acréscimo de 1/6. Agravantes ou atenuantes. Inexistentes. Apreensão de expressiva quantidade de cocaína. Circunstâncias do fato que permitem concluir que o acusado participava de organização criminosa e se dedicava à prática de atividades ilícitas o que impede o reconhecimento da figura do tráfico privilegiado. 4.2 Do delito de associação para o tráfico de drogas. Ausência de circunstâncias judiciais desfavoráveis que permitem a aplicação da pena base no mínimo legal. Agravantes, atenuantes, causas de aumento ou mesmo de diminuição de pena. Inexistentes. 4.3 Do concurso material de crimes. Penas que devem ser somadas.
+5. Manutenção do regime prisional fechado. Substituição da pena privativa de liberdade por restritiva de direitos. Incabível.
+6. Recurso conhecido e improvido.
+Neste writ, alegou a defesa, em síntese, que o ora agravante faria jus à incidência da minorante do tráfico privilegiado, bem como à alteração do regime prisional fixado e à substituição da pena privativa de liberdade por restritiva de direitos; aduziu, outrossim, que não ficaram caracterizadas as elementares necessárias à configuração do delito de associação para o tráfico de drogas.
+Requereu, ao final, a concessão da ordem para absolver o agravante em relação ao delito associativo e, posteriormente, para aplicar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Nesta oportunidade, a defesa assevera que a análise da controvérsia prescinde de revolvimento de matéria fática, e que o intuito do habeas corpus é "tão-somente revisar a validade da conclusão a que chegou o Tribunal a quo, ao entender que a decisão dos jurados não afrontou as provas produzidas nos autos" (e-STJ fl. 1.050).
+Reforça, nesse sentido, que "as discussões trazidas à baila no Habeas Corpus não implicam reexame de matéria fático-probatória. Ao revés: a apelação foi interposta, também, com fulcro no artigo 593, III, "d", o que foi devidamente reconhecido nos autos, também o sendo a própria contrariedade da decisão absolutória com a prova produzida" (e-STJ fl. 1.051).
+Requer, ao final, a reconsideração da decisão agravada a fim de que ao writ se dê conhecimento e provimento, "a partir de uma devida análise do mérito nele alegado" (e-STJ fl. 1.052).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO DO DELITO ASSOCIATIVO. MINORANTE. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não tendo o agravante, nas razões deste recurso, infirmado os fundamentos da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo regimental nem sequer supera o conhecimento.
+Pelo princípio da dialeticidade, o agravante tem o ônus de impugnar especificamente os fundamentos da decisão agravada, a fim de desconstituir o impedimento à cognição do recurso interposto.
+Com efeito, conforme asseverado na decisão monocrática ora combatida, a condenação do ora agravante transitou em julgado em 30/8/2024, de maneira que não se pode conhecer do habeas corpus impetrado como sucedâneo de revisão criminal.
+Além disso, frisei não estar demonstrada ilegalidade flagrante em relação à condenação do agravante pelo delito de associação para o tráfico de drogas e, via de consequência, diante da impossibilidade de concessão da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, destacando que:
+Segundo consta do acórdão aqui impugnado, o ora paciente foi denunciado porque, em 22/4/2022, juntamente com os corréus Alexsandro Alves Da Silva, Osmar Passos Mota e Guilherme Bahia De Sousa, tinha em depósito, guardou e transportou 172kg (cento e setenta e dois quilos) de cocaína; consta, ademais, que em período incerto, mas até o dia 22/4/2022, o paciente e os demais agentes associaram-se entre si e com outros indivíduos não identificados para o fim de praticar, reiteradamente ou não, o crime de tráfico de drogas.
+E, em relação ao crime de associação para o tráfico de drogas, ficou assente no acórdão da Corte local que o delito ficou configurado em vista da investigação policial que demonstrou a estabilidade e permanência da associação (e-STJ fls. 39/48).
+Nesse contexto, tem-se que, para infirmar as conclusões da instância ordinária, soberana na análise do acervo fático-probatório dos autos, seria imprescindível o profundo revolvimento do caderno processual existente, desiderato incompatível com os limites de cognição da via eleita, notadamente quando a impetração foi utilizada em substituição à revisão criminal pertinente.
+De mais a mais, condenado o paciente pelo delito de associação para o tráfico de drogas, não há que se falar em possibilidade de incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. QUEBRA DA CADEIA DE CUSTÓDIA. NÃO OCORRÊNCIA. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA COMPROVADAS. MINORANTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Precedentes.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.463.929/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/5/2024, DJe de 28/5/2024, grifei.)
+Contudo, nas razões deste agravo regimental, o ora recorrente não impugnou especificamente os fundamentos da decisão monocrática proferida nesta Corte Superior, limitando-se a ponderar o cabimento do writ mediante argumentação que, frise-se, não se relaciona ao caso dos autos, já que a defesa sustenta o cabimento do writ para discutir a "validade da conclusão a que chegou o Tribunal a quo, ao entender que a decisão dos jurados não afrontou as provas produzidas nos autos".
+Tal situação atrai, a toda evidência, a incidência da Súmula n. 182/STJ, segundo a qual " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERAÇÃO DA SÚMULA N. 691/STF. FUNDAMENTAÇÃO INIDÔNEA. REITERAÇÃO DE HABEAS CORPUS. INADMISSÍVEL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, engano do agravante em suas razões quanto ao motivo de indeferimento do writ, alegando que a ordem foi denegada com base na Súmula n. 691/STF.
+2. Observa-se que a decisão teve como fundamento a matéria já ter sido suscitada no HC n. 900.721/MT.
+3. Não foram trazidos argumentos novos para a desconstituição da decisão agravada, limitando-se a reiterar as razões do habeas corpus, já examinadas e rechaçadas pela decisão monocrática, atraindo a Súmula n. 182/STJ, por violação ao princípio da dialeticidade.
+4. Agravo regimental não provido.
+(AgRg no HC n. 900.892/MT, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+Portanto, o não conhecimento do presente recurso é medida que se impõe.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
