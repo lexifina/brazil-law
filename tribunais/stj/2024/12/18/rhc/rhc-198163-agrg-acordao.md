@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2024 a 18/12/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. NULIDADE DAS BUSCAS PESSOAL E VEICULAR. INVASÃO DE DOMICÍLIO. REVOGAÇÃO DA DECISÃO QUE CONVOLOU A PRISÃO EM FLAGRANTE EM CUSTÓDIA PREVENTIVA. SUPERVENIENTE PROLAÇÃO DE SENTENÇA. EXAME DAS TESES SUSCITADAS. INTERPOSIÇÃO DE APELAÇÃO. PREJUDICIALIDADE DO RECURSO. AGRAVO NÃO PROVIDO.
+1. A prolação de sentença torna prejudicada a análise das teses suscitadas nesta impetração, pois como o decreto condenatório rejeitou tais questões e os fundamentos ali consignados não foram apreciados pela Corte estadual, é prudente que a matéria seja primeiramente submetida a tal órgão jurisdicional, para que não se incorra em supressão de instância.
+2. Ademais, a leitura da sentença evidencia que, para refutar a alegação de nulidade do feito, o Juízo singular fez menção aos depoimentos colhidos durante a instrução processual, dados desconhecidos no momento da interposição deste recurso em habeas corpus e que, por isso mesmo, não foram considerados no momento da prolação do acórdão aqui combatido.
+3. Além disso, a matéria relacionada à nulidade das buscas pessoal, veicular e domiciliar foi suscitada no recurso de apelação interposto pela defesa do agravante, o que permite concluir que a Corte local realizará nova análise do tema, à luz da motivação exarada pela Magistrada de primeiro grau na sentença condenatória.
+4. Agravo não provido.
+RELATÓRIO
+THAYNA JOSE PEREIRA RIBEIRO agrava de decisão em que julguei prejudicado o recurso em habeas corpus.
+No regimental, a defesa sustenta que "a sentença apenas confirma a grosseira ilegalidade buscada neste remédio constitucional, cuja demora na análise do Habeas corpus não pode ser fundamento para punir o recorrente, principalmente no que tange a sua liberdade" (fl. 463).
+Apresenta cópia da sentença proferida pelo Juízo singular e do recurso de apelação interposto contra tal decisum (fls. 467-539).
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado, para que conheça do recurso e lhe dê provimento.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. NULIDADE DAS BUSCAS PESSOAL E VEICULAR. INVASÃO DE DOMICÍLIO. REVOGAÇÃO DA DECISÃO QUE CONVOLOU A PRISÃO EM FLAGRANTE EM CUSTÓDIA PREVENTIVA. SUPERVENIENTE PROLAÇÃO DE SENTENÇA. EXAME DAS TESES SUSCITADAS. INTERPOSIÇÃO DE APELAÇÃO. PREJUDICIALIDADE DO RECURSO. AGRAVO NÃO PROVIDO.
+1. A prolação de sentença torna prejudicada a análise das teses suscitadas nesta impetração, pois como o decreto condenatório rejeitou tais questões e os fundamentos ali consignados não foram apreciados pela Corte estadual, é prudente que a matéria seja primeiramente submetida a tal órgão jurisdicional, para que não se incorra em supressão de instância.
+2. Ademais, a leitura da sentença evidencia que, para refutar a alegação de nulidade do feito, o Juízo singular fez menção aos depoimentos colhidos durante a instrução processual, dados desconhecidos no momento da interposição deste recurso em habeas corpus e que, por isso mesmo, não foram considerados no momento da prolação do acórdão aqui combatido.
+3. Além disso, a matéria relacionada à nulidade das buscas pessoal, veicular e domiciliar foi suscitada no recurso de apelação interposto pela defesa do agravante, o que permite concluir que a Corte local realizará nova análise do tema, à luz da motivação exarada pela Magistrada de primeiro grau na sentença condenatória.
+4. Agravo não provido.
+VOTO
+A despeito das alegações defensivas, não identifico motivos para alterar a conclusão do decisum de fls. 454-455.
+Com efeito, como já sinalizado naquele ato decisório, a prolação de sentença torna prejudicada a análise das teses suscitadas nesta impetração, pois como o decreto condenatório rejeitou tais questões e os fundamentos ali consignados não foram apreciados pela Corte estadual, é prudente que a matéria seja primeiramente submetida a este órgão jurisdicional, para que não se incorra em supressão de instância.
+Ademais, a leitura da sentença evidencia que, para refutar a alegação de nulidade do feito, o Juízo singular fez menção aos depoimentos colhidos durante a instrução processual, dados desconhecidos no momento da interposição deste recurso em habeas corpus e que, por isso mesmo, não foram considerados no momento da prolação do acórdão aqui combatido.
+Em complemento, vejo que a matéria relacionada à nulidade das buscas pessoal, veicular e domiciliar foi suscitada no recurso de apelação interposto pela defesa do agrava nte (fls. 503-538), o que permite concluir que a Corte local realizará nova análise do tema, à luz da motivação exarada pela Magistrada de primeiro grau na sentença condenatória.
+Logo, deve ser mantida a decisão impugnada, in verbis (fl. 454, destaques no original):
+Em consulta à página eletrônica da Corte de origem, o gabinete verificou que foi proferida sentença condenatória em 23/10/2024, ocasião em que o Juízo singular negou ao acusado o direito de recorrer em liberdade. Contra esse decisum, a defesa interpôs apelação, sem julgamento até o momento.
+Evidencia-se, dessa forma, a superveniente perda do objeto deste feito, em que era pretendido o trancamento do processo sob alegação de nulidade das buscas pessoal, veicular e domiciliar, bem como a revogação da decisão que convolou a prisão em flagrante em custódia preventiva.
+À vista do exposto, nego provimento ao agravo regimental.
