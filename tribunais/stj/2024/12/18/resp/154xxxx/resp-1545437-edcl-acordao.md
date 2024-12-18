@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2024 a 18/12/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. OMISSÃO. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por me io de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos declaratórios opostos contra acórdão de e-STJ fls. 919/920, em que foi desprovido o agravo regimental em julgado assim ementado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. NULIDADE. ART. 563 DO CPP. AUSÊNCIA DE INDICAÇÃO CONCRETA DO PREJUÍZO. DECISÃO DOS JURADOS MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. VÍCIO NA QUESITAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. REVERSÃO DO ENTENDIMENTO DO COLEGIADO LOCAL. SÚMULA N. 7/STJ. VIOLAÇÃO AO ART. 619 DO CPP. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A defesa aponta nulidade posterior à pronúncia, uma vez que o Juiz de primeiro grau deferiu seu pedido, a fim de que fossem disponibilizados dois objetos durante a sessão plenária, consistentes na jaqueta usada pelo agravante e na faca apreendida em poder da vítima por ocasião do homicídio, o que não foi atendido.
+2. A Corte estadual elucidou que esses itens não foram localizados pela autoridade policial. Nada obstante, ressaltou que, no caso, inexistiu prejuízo, até porque " n ão se sabe ao certo o que a defesa pretendia fazer com os objetos". De fato, o agravante não demonstrou concretamente o prejuízo, já que a arguição de nulidade, ao argumento de que pretendia sustentar a tese de legítima defesa perante o conselho de sentença, foi deduzida apenas nas razões do recurso especial, não havendo o exame do tema, sob esse enfoque, perante a instância ordinária. Com efeito, essa excludente de ilicitude foi suscitada exclusivamente quanto ao corréu. Nesse contexto, deve permanecer hígida a conclusão do colegiado local.
+3. O argumento de que a decisão dos jurados foi manifestamente contrária à prova dos autos, da maneira como aqui trazido, não foi objeto de análise pelo acórdão recorrido, inexistindo o requisito do prequestionamento, motivo pelo qual não pode ser analisado, ante o que preceituam as Súmulas n. 282 e 356/STF. Como acima mencionado, foi arguida a legítima defesa apenas quanto ao corréu.
+4. Ademais, para que fosse possível a análise da pretensão recursal, seria imprescindível o reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial em virtude do que preceitua a Súmula n. 7 desta Corte Superior de Justiça.
+5. A deficiência na formulação dos quesitos também não foi debatida de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Súmulas n. 282 e 356/STF.
+6. A mencionada ofensa ao art. 619 do CPP constitui clara inovação recursal que impede o exame da controvérsia. Digno de nota que não foram opostos embargos de declaração contra o aresto proferido na apelação, nos termos do art. 1.025 do CPC, sendo descabida a hipótese de prequestionamento ficto.
+7. Agravo regimental desprovido.
+No presente recurso, a parte embargante alega haver omissão relevante, pois "deixou o acórdão embargado de abordar a matéria referente ao prejuízo decorrente da impossibilidade de exibição do objeto potencialmente lesivo apreendido em poder da vítima por ocasião da Sessão de Julgamento pelo Tribunal do Júri" (e-STJ fl. 939).
+Reafirma que "o argumento de futurologia perigosista empregado para afastar a nulidade reclamada consistente na teoria de que o ocorrido provavelmente não afetaria o resultado do julgamento, não se revela suficientemente adequado para chancelar tamanha atipia processual no rito especial do Tribunal do Júri e validar uma condenação criminal de 12 anos de reclusão em regime inicial fechado" (e-STJ fl. 939).
+Requer o acolhimento do recurso, com efeitos infringentes.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. OMISSÃO. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por me io de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+7. Embargos de declaração rejeitados. (EDcl na APn n. 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+No caso em tela, não se fazem presentes nenhum dos citados defeitos, valendo destacar os seguintes excertos do acórdão ora embargado (e-STJ fls. 927/928, grifei):
+Argumenta a defesa nulidade posterior à pronúncia, tendo em vista o descumprimento das diligências requeridas no bojo da contrariedade ao libelo, que foram deferidas pelo Juiz de primeiro grau, consistentes na exibição da faca apreendida com a vítima e da jaqueta utilizada pelo agravante na ocasião do cometimento do homicídio.
+No julgamento levado a efeito pelo Tribunal de Justiça, foi consignado que (e-STJ fls. 678/679):
+A defesa aduziu ocorrência de nulidade posterior à pronúncia, entendendo que o não atendimento das diligências postuladas por ocasião da contrariedade ao libelo gerou a nulidade do processo.
+Não tem razão.
+Ao ofertar a contrariedade ao libelo, a defesa pediu a seguinte diligência: "Outrossim, requer, seja colocada a disposição da defesa em plenário, a jaqueta usada pelo co-réu Atair Boff, descrita no documento de folhas 15 (Auto de Apreensão), e a faca que estava em poder da vítima, descrita no documento de folhas 17 (auto de apreensão), objetos arrecadados pela autoridade policial" (fl. 392).
+Tal diligência foi deferida pelo juízo, conforme consta no ofício de fl. 405.
+Ocorre que, segundo informou a distribuidora do foro (fl. 410), os objetos pleiteados pela defesa não foram remetidos ao foro.
+Ainda, conforme noticiou o Delegado de Polícia (fl. 421), devido ao grande número de apreensões e ao longo tempo decorrido, os artefatos solicitados pela defesa não foram localizados no depósito.
+Assim, embora seja reprovável a não localização dos objetos, entendo que nenhum prejuízo adveio para a defesa em razão disso.
+Não se sabe ao certo o que a defesa pretendia fazer com os objetos, mas provavelmente isso não afetaria o resultado do julgamento.
+Ademais, vejo que o juízo a quo não se quedou inerte frente ao pedido defensivo, pois houve tentativa de localizar os referidos bens, apenas restando infrutífera a diligência.
+Destarte, não há qualquer nulidade posterior à pronúncia. (Grifei.)
+Rememoro que, nos moldes do art. 563 do Código de Processo Penal, nenhum ato será declarado nulo se da nulidade não resultar danos às partes. Nessa toada, é evidente que a tipicidade dos atos processuais funciona somente como instrumento para a correta aplicação do direito. Sendo assim, eventual desrespeito às formalidades prescritas em lei apenas deverá acarretar a invalidação do ato processual quando a finalidade para a qual foi instituída a forma for comprometida pelo vício. Conclusivamente, somente a atipicidade relevante, bastante a evidenciar dano concreto às partes, autoriza o reconhecimento do vício. Na mesma linha intelectiva, elucida o art. 566 do Código de Processo Penal que não será declarada a nulidade do ato processual quando não houver influído na verdade substancial ou na decisão da causa. Com efeito, demonstrada a inocuidade do ato processual viciado, inabilitado de influir no convencimento judicial, é inviável o reconhecimento da nulidade.
+Como antes analisado, não houve a comprovação do prejuízo sofrido pelo recorrente. Nesse palmilhar, não se pode perder de vista que a jurisprudência dos tribunais superiores é assente de que o princípio do pas de nullité sans grief exige, em regra, a demonstração de prejuízo concreto à parte que suscita o vício, independentemente da sanção prevista para o ato e do caráter relativo ou absoluto da nulidade, uma vez que não se decreta nulidade processual por mera presunção (v.g. RHC n. 123.890 AgR/SP, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 5/5/2015, DJe 15/5/2015; RHC n. 71.626/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2017, DJe 1º/12/2017).
+No caso, não se vislumbra a nulidade aventada pela defesa, uma vez que, conforme destacou a Corte estadual, "embora seja reprovável a não localização dos objetos, entende-se que nenhum prejuízo adveio para a defesa em razão disso. Não se sabe ao certo o que a defesa pretendia fazer com os objetos, mas provavelmente isso não afetaria o resultado do julgamento" (e-STJ fl. 675, grifei).
+Diante desse cenário, ainda que o recorrente alegue que esse fato "impossibilitou que a defesa, pudesse comprovar e demonstrar aos JUÍZES DO POVO, os instrumentos usados pela vítima por ocasião dos fatos. Ou seja faca, que a vítima usou contra os recorrentes, bem como a jaqueta que o réu ALTAIR usava naquele dia, e que  ..  foi  rasgada pelo ataque da vítima contra este acusado" (e-STJ fl. 699), não parece haver a nulidade de tal ato, pois a instância antecedente não analisou a tese sob esse enfoque. Digno de nota que a tese de legítima defesa foi examinada em relação ao corréu Deoclécio (e-STJ fls. 670 e 679/680) e, pertinente ao agravante, foram deduzidas as alegações de que ele não participou do crime ou não efetuou os disparos contra a vítima.
+Ademais, nesse ponto, não há como acolher o argumento apresentado pela defesa sem o reexame do feito, porquanto tal proceder ofende os termos da Súmula n. 7/STJ.
+Nesse cenário, inexiste o vício da omissão no aresto objurgado. Percebe-se, isso sim, uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos declaratórios.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
