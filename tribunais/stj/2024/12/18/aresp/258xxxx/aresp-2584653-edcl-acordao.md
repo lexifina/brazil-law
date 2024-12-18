@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2024 a 18/12/2024, por unanimidade, não conhecer do recurso, com determinação de certificação de trânsito em julgado, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO A DESTEMPO. ART. 619 DO CPP. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. S ão intempestivos os embargos de declaração em matéria criminal opostos após o escoamento do prazo de 02 (dois) dias, previsto nos arts. 619 do Código de Processo Penal e 263 do RISTJ.
+2. No caso, o acórdão embargado foi disponibilizado em 23/10/2024 e considerado publicado em 24/10/2024. Entretanto, os presentes embargos foram protocolizados somente em 29/10/2024, quando já esgotado o lapso de 02 (dois) dias, conforme certidão de decurso de prazo recursal.
+3. Embargos de declaração não conhecidos, com determinação de imediata certificação do trânsito em julgado e, independentemente de publicação deste acórdão, a baixa dos autos à origem para as providências legais.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por WARLEY MIRANDA DE OLIVEIRA ao acórdão proferido pela Sexta Turma desta Corte Superior de Justiça, de minha relatoria, ementado nos seguintes termos (fl. 951):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO INTERNO. SÚMULA N. 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS UTILIZADOS PARA NÃO CONHECER DO RECURSO ESPECIAL. ÔNUS DA PARTE AGRAVANTE. ALEGAÇÕES DO RECURSO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO. SÚMULA N. 284/STF. REDISCUSSÃO DA MATÉRIA. MERO INCONFORMISMO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não se verificou na hipótese.
+2. No caso, as razões dos embargos de declaração se encontram dissociadas dos fundamentos do acórdão embargado. Incidência da Súmula n. 284/STF.
+3. Não há falar em vício no acórdão embargado, pois concluiu que a ausência de efetiva impugnação aos fundamentos da decisão que não conheceu do recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos da Súmula n. 182/STJ.
+4. É incabível, na via dos aclaratórios, a rediscussão de matéria devidamente apreciada e já decidida.
+5. Embargos de declaração não conhecidos.
+Nas razões do recurso, a Defesa apresenta nova reiteração das teses meritórias já expostas anteriormente, tanto nos embargos de declaração (fls. 908-931), como no agravo regimental (fls. 832-860), nos embargos de declaração (fls. 795-823), no agravo em recurso especial (fls. 708-737) e no recurso especial (fls. 602-630), pleiteando, em síntese, a desclassificação da conduta do embargante e, subsidiariamente, o redimensionamento da reprimenda.
+Foram apresentadas contrarrazões (fls. 989-990).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO A DESTEMPO. ART. 619 DO CPP. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. S ão intempestivos os embargos de declaração em matéria criminal opostos após o escoamento do prazo de 02 (dois) dias, previsto nos arts. 619 do Código de Processo Penal e 263 do RISTJ.
+2. No caso, o acórdão embargado foi disponibilizado em 23/10/2024 e considerado publicado em 24/10/2024. Entretanto, os presentes embargos foram protocolizados somente em 29/10/2024, quando já esgotado o lapso de 02 (dois) dias, conforme certidão de decurso de prazo recursal.
+3. Embargos de declaração não conhecidos, com determinação de imediata certificação do trânsito em julgado e, independentemente de publicação deste acórdão, a baixa dos autos à origem para as providências legais.
+VOTO
+Os presentes aclaratórios não merecem conhecimento.
+São intempestivos os embargos de declaração em matéria criminal opostos após o prazo de 02 (dois) dias, previsto nos arts. 619 do Código de Processo Penal e 263 do RISTJ.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACLARATÓRIOS OPOSTOS FORA DO PRAZO PREVISTO NO ART. 619 DO CPP. INTEMPESTIVIDADE. ERRO MATERIAL. CORREÇÃO DE OFÍCIO, SEM EFEITOS INFRINGENTES.
+I - Em matéria penal, aplicam-se as regras previstas no Código de Processo Civil apenas subsidiariamente, a teor do art. 3º do Código de Processo Penal. Desse modo, o prazo para a oposição de embargos de declaração em feitos criminais possui regramento próprio e não foi alterado em razão do advento do Novo Código de Processo Civil, sendo, portanto, de 2 (dois) dias, conforme prevê o artigo 619 do Código de Processo Penal.
+II - No caso, consoante certidão de fl. 2551, "O prazo para oposição de embargos de declaração em relação ao acórdão de folha 2492 teve início em 13/05/2024 e término em 14/05/2024 e a petição n. 405603/2024 (EDcl) foi protocolizada em 17/05/2024", sendo, portanto, manifestamente intempestivos os presentes embargos declaratórios.
+Embargos não conhecidos e, de ofício, determinada a correção de erro material sem efeitos infringentes.
+(EDcl nos EDcl no AgRg no AREsp n. 1.843.747/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 04/06/2024, DJe de 07/06/2024).
+PROCESSO PENAL E PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO FORA DO PRAZO PREVISTO NO ART. 619 DO CPP. INTEMPESTIVIDADE. EMBARGOS NÃO CONHECIDOS.
+1. São intempestivos os embargos de declaração opostos após o prazo de 2 (dois) dias contínuos de que tratam os arts. 263 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, 619 e 798, ambos do Código de Processo Penal - CPP.
+2. Só há prorrogação do prazo recursal quando se comprovar que o sistema de peticionamento eletrônico do STJ esteve indisponível no último dia de vencimento do prazo processual por período superior a 60 minutos, ininterruptos ou não, no período de 6 às 23 horas ou ocorrer indisponibilidade das 23 horas às 24 horas.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp n. 2.422.381/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/05/2024, DJe de 17/05/2024).
+No caso, o acórdão embargado foi disponibilizado em 23/10/2024 e considerado publicado em 24/10/2024. Entretanto, os presentes embargos foram protocolizados somente em 29/10/2024, quando já esgotado o lapso de 02 (dois) dias, conforme certidão de fl. 981.
+Ademais, conforme relatado, observa-se que a parte embargante apresenta nova reiteração das teses meritórias já apresentadas anteriormente, em diversos recursos, deixando de impugnar as decisões combatidas e sem apresentar novos fundamentos, pois limita-se a transcrever as mesmas razões.
+Verifica-se, assim, claramente o intuito protelatório da embargante e inequívoco abuso do direito de recorrer ao manejar diversas petições recursais manifestamente improcedentes.
+Com efeito, a Corte Especial do STJ possui entendimento firmando no sentido de que,
+ n a esfera penal, embora não seja comum a fixação de multa por litigância de má-fé, a insistência dos recorrentes, por meio de sucessivos recursos, sem que haja vício algum nas decisões e acórdãos recorridos, revela não só o exagerado inconformismo, mas também o desrespeito ao Poder Judiciário diante do seu nítido caráter protelatório, constituindo espécie de abuso de direito. (AgRg nos EAREsp 1.916.804/SC, rel. Ministra Maria Isabel Gallotti, Corte Especial, DJe de 15/08/2022).
+Ilustrativamente:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MANIFESTO ABUSO DO DIREITO DE RECORRER. AFRONTA AOS DEVERES DE LEALDADE E BOA-FÉ PROCESSUAIS. AGRAVO REGIMENTAL NÃO CONHECIDO, COM DETERMINAÇAO DE BAIXA IMEDIATA DOS AUTOS E CERTIFICAÇÃO DE TRÂNSITO EM JULGADO, INDEPENDENTEMENTE DE PUBLICAÇÃO OU INTERPOSIÇÃO DE OUTROS RECURSOS.
+1. Hipótese em que o Ministro Relator conheceu do agravo para não conhecer do recurso especial; os subsequentes embargos de declaração foram rejeitados; os embargos de divergência foram liminarmente indeferidos pela Presidência desta Corte, por serem manifestamente incabíveis contra decisão monocrática; o agravo regimental foi desprovido pela Corte Especial; os embargos de declaração foram rejeitados pela Corte Especial; houve segundos embargos de divergência, mais uma vez liminarmente indeferidos pela Presidência; o agravo regimental foi desprovido pela Terceira Seção; outros embargos declaração foram rejeitados pela Terceira Seção; e terceiros embargos de divergência, foram manejados e, outra vez, liminarmente indeferidos pela Presidência; agora, novamente interposto agravo regimental.
+2. A sequência de petições recursais manifestamente improcedentes, em descompasso com requisitos elementares dos recursos manejados, denota claro intuito protelatório da parte.
+3. Constata-se inequívoco abuso do direito de recorrer, conduta que reflete desrespeito a esta Corte Superior e a seus Ministros, em evidente inobservância dos deveres de lealdade e boa-fé processuais.
+4. O Superior Tribunal de Justiça tem jurisprudência consolidada no sentido de que, "diante da reiterada oposição de recursos meramente protelatórios pela parte, deve ser determinada a baixa dos autos à origem, independentemente da publicação do acórdão recorrido e da certificação do trânsito em julgado". (AgRg nos EAREsp 1.916.804/SC, rel. Ministra Maria Isabel Gallotti, Corte E special, DJe de 15.08.2022).
+5. Agravo regimental não conhecido, com determinação de certificação do trânsito em julgado nesta Corte e imediata remessa dos autos ao Supremo Tribunal Federal em razão do agravo em recurso extraordinário interposto na origem, independentemente da publicação deste acórdão e da eventual interposição de outros recursos.
+(AgRg na Pet n. 15.607/SC, rel. Ministra Laurita Vaz, Terceira Seção, DJe de 30/08/2023, grifamos).
+Ademais,
+verificada a intenção protelatória e o abuso do direito de recorrer, há a possibilidade de determinar-se a certificação do trânsito em julgado nesta Corte e a baixa dos autos à origem, ainda que pendente a publicação do respectivo acórdão, a fim de que tenha início o cumprimento da pena ou para que se prossiga no andamento do processo. (EDcl nos EDcl no AgRg no AREsp n. 2.036.994/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/04/2022).
+Ante o exposto, não conheço do recurso.
+Certifique-se o trânsito do aresto de fls. 955-958, com baixa imediata dos autos, independentemente de publicação desse acórdão ou da remessa dos autos para o Supremo Tribunal Federal (na hipótese de remanescer recurso pendente de competência daquela Corte).
+É o voto.
