@@ -1,0 +1,35 @@
+DECISÃO
+Extrai-se dos autos que os pacientes foram condenados à pena de 2 anos, 7 meses e 27 dias de reclusão, além do pagamento de 13 dias, em regime semiaberto.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao recurso, por maioria, nos termos do acórdão que recebeu a seguinte ementa:
+"EMENTA - APELAÇÃO CRIMINAL DEFENSIVA - FURTO QUALIFICADO - AFASTAMENTO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO - AUSÊNCIA DE PERÍCIA - QUALIFICADORA SUFICIENTEMENTE COMPROVADA POR OUTROS ELEMENTOS DOS AUTOS - RECURSO CONHECIDO E DESPROVIDO.
+Não há falar em afastamento da qualificadora de rompimento de obstáculo quando, não obstante a ausência da prova pericial, outros elementos dos autos comprovam sem à saciedade a sua ocorrência. Recurso conhecido e desprovido." (e-STJ, fls. 303-312)
+Os embargos infringentes opostos foram rejeitados, consoante acórdão assim ementado:
+"EMENTA - EMBARGOS INFRINGENTES E DE NULIDADE EM APELAÇÃO CRIMINAL - FURTO QUALIFICADO - ROMPIMENTO DE OBSTÁCULO - AFASTAMENTO DA QUALIFICADORA - INVIABILIDADE - PROVA PERICIAL DIRETA PRESCINDÍVEL - FARTOS ELEMENTOS DE PROVA - NÃO PROVIMENTO, COM O PARECER.
+I - Na hipótese, a despeito da ausência de prova pericial direta, o rompimento de obstáculo restou pelo conjunto probatório dos autos, prova testemunhal, perícia indireta e relatório de investigações, pelo que deve ser mantida a qualificadora.
+II - Embargos não acolhidos." (e-STJ, fls. 19-27)
+Neste writ, a defesa alega, em síntese, que deve ser afastada a qualificadora do rompimento de obstáculo, considerando que não foi realizada perícia ou apresentada justificativa para sua não realização.
+Requer a concessão da ordem para que seja afastada a qualificadora.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem assim considerou, em sede de embargos infringentes:
+"Após bem ver e examinar todos os elementos contidos no processo, à luz dos argumentos lançados nas razões recursais e de acordo com a motivação do Acórdão impugnado, entendo que os embargos não merecem provimento.
+A qualificadora do rompimento de obstáculo, mesmo que não haja exame pericial direto, pode ser demonstrada por outros elementos de prova e no caso dos autos foi comprovada pelos depoimentos judiciais, sendo, ademais, de fácil constatação sua ocorrência, eis que não se exige maior conhecimento ou preparo técnico específico para a comprovação. Além disso, no caso foram juntados aos autos fotografias do local do delito, onde pode ser visualizado o dito arrombamento (fls.25-32), bem relatório de investigação (f. 40-41), atestando também o arrombamento da janela da cozinha da residência.
+Nesse contexto, afigura-me ilógico, completamente fora do razoável, o afastamento da qualificadora em questão."
+Sobre o tema, a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a incidência da qualificadora prevista no art. 155, § 4º, I, do Código Penal, exige exame pericial para a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto, o que não restou explicitado nos autos. Nesse sentido: AgRg no REsp 1.513.004/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1/10/2015, Dje 7/10/2015; AgRg no HC 300.808/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/3/2015, DJe 26/3/2015.
+Todavia, no caso em análise nota-se que o Tribunal a quo, ao apreciar a questão, não se manifestou a respeito dos motivos pelos quais a perícia não foi realizada.
+Deste modo, importa ressaltar que, não obstante haver, nos autos, outros elementos aptos a comprovar o rompimento de obstáculo, deve a qualificadora ser afastada, pois, além de não ter sido demonstrada a impossibilidade de realização da perícia técnica, tais provas não suprem a necessidade de sua efetivação.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA DIRETA. CRIME QUE DEIXA VESTÍGIOS. NECESSIDADE. NÃO REALIZAÇÃO. QUALIFICADORA. INCIDÊNCIA. ILEGALIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, é imprescindível, para a constatação da qualificadora referente ao rompimento de obstáculo, a realização do exame de corpo de delito, a qual somente pode ser suprida pela prova testemunhal, confissão ou outro meio indireto quando os vestígios tenham desaparecido por completo ou em razão de outra excepcionalidade expressamente justificada, circunstâncias que não foram expostas pela instância de origem.
+2. Agravo regimental desprovido." (AgRg no REsp n. 2.086.408/RS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024);
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. INSURGÊNCIA QUANTO AO AFASTAMENTO DA MAJORANTE DO REPOUSO NOTURNO. OBSERVÂNCIA DO TEMA REPETITIVO N. 1087. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada está correta, pois observou o entendimento, fixado pela Terceira Seção deste Superior Tribunal no Tema Repetitivo n. 1087, de que " a  causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (REsp n. 1.888.756/SP, Rel. Ministro João Otávio de Noronha, 3ª S., DJe 27/6/2022).
+2. O reconhecimento das qualificadoras do rompimento de obstáculo e da escalada exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+3. Na hipótese, é incontroverso que não foi realizado exame pericial para atestar as referidas qualificadoras e as instâncias antecedentes não demonstraram qualquer excepcionalidade que justificasse a sua ausência.
+4. Agravo regimental não provido." (AgRg no REsp n. 2.089.587/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/11/2023, DJe de 6/12/2023).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para afastar a qualificadora de rompimento de obstáculo, determinando o retorno dos autos ao Tribunal de origem para que proceda à readequação da pena.
+Publique-se.
+Intime-se.
+EMENTA
