@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VÍCIOS CONSTRUTIVOS. PROGRAMA MINHA CASA, MINHA VIDA (PMCMV). AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de indenização por danos morais e materiais, em decorrência de vícios construtivos em imóvel adquirido por meio do PMCMV.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade por incidência da Súmula 7/STJ, bem como da Súmula 83/STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por ERBE INCORPORADORA 037 S.A. contra decisão que não conheceu do agravo em recurso especial.
+Ação: de indenização por danos materiais e morais, ajuizada por JANAINA DA SILVA CASSEMIRO contra ERBE INCORPORADORA 037 S.A. e CAIXA ECONÔMICA FEDERAL, em decorrência de vícios construtivos em imóvel adquirido por meio do Programa Minha Casa Minha Vida (PMCMV).
+Sentença: julgou extinto o processo sem resolução de mérito, "por ausência de pressuposto processual de desenvolvimento válido e regular do processo, diante da inépcia da petição inicial e por ausência de interesse processual (necessidade e adequação)" (e-STJ fl. 793).
+Acórdão: deu provimento à apelação interposta por JANAINA DA SILVA CASSEMIRO, nos termos da seguinte ementa (e-STJ fl. 912):
+DIREITO PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. VÍCIOS NA CONSTRUÇÃO DE IMÓVEL. "PROGRAMA MINHA CASA, MINHA VIDA". SENTENÇA DE EXTINÇÃO SEM JULGAMENTO DE MÉRIRO. INTERESSE DE AGIR COMPROVADO. INÉPCIA DA INICIAL AFASTADA. RECURSO DA PARTE AUTORA PROVIDO. SENTENÇA ANULADA. 1. Configura-se o interesse processual no momento em que a parte autora demonstra a real necessidade de provocar o Poder Judiciário, para obter o provimento jurisdicional pretendido e, consoante os elementos trazidos nos autos, houve tentativa infrutífera para solução administrativa do conflito. 2. A verificação da inépcia da inicial deve limitar-se a questões de irregularidades formais que impeçam o juiz de se pronunciar sobre o direito levado à juízo, ou a parte ré de apresentar sua defesa e, no caso dos autos, é perfeitamente possível delimitar a controvérsia e identificar o pedido e a causa de pedir. 3. Segundo decidiu o STJ, na impossibilidade de se especificar o valor em ações indenizatórias por dano moral ou material, é possível a formulação de pedido genérico de ressarcimento na petição inicial do processo. O arbitramento da quantia indenizatória compete exclusivamente ao juiz. 4. Apelação provida. Sentença anulada.
+Embargos de declaração: opostos por ERBE INCORPORADORA 037 S.A., foram rejeitados.
+Recurso especial: alega violação dos arts. 17, 319, IV, 489, § 1º, IV, 1.022, II e parágrafo único, II, do CPC/2015, sustentando, além da negativa de prestação jurisdicional, que: I) "os pedidos formulados na inicial são genéricos e não especificam os defeitos de construção cuja responsabilização pretende discutir o autor, ora recorrido, de modo que não restaria preenchido o requisito da petição inicial" (e-STJ fl. 969); e II) não há interesse de agir da recorrida, diante da "falta de comprovação de qualquer tentativa de resolver o litígio na via administrativa" (e-STJ fl. 973).
+Juízo prévio de admissibilidade: o TRF3 inadmitiu o recurso, ensejando a interposição do agravo em recurso especial.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega que: I) todos os aspectos essenciais foram tocados pela sentença e pelo acórdão (e-STJ fl. 1.045); e II) existe jurisprudência do STJ tratando de casos análogos que divergem da decisão (e-STJ fl. 1.046). Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VÍCIOS CONSTRUTIVOS. PROGRAMA MINHA CASA, MINHA VIDA (PMCMV). AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de indenização por danos morais e materiais, em decorrência de vícios construtivos em imóvel adquirido por meio do PMCMV.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade por incidência da Súmula 7/STJ, bem como da Súmula 83/STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação dos seguintes fundamentos da decisão de inadmissibilidade proferida pelo TRF3:
+I) incidência da Súmula 7 do STJ; ou reexame de contexto fático probatório (Súmula 7 do STJ); e
+II) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ);
+-Do reexame de contexto fático-probatório (Súmula 7 do STJ)
+Da análise das razões do agravo em recurso especial, verifica-se que a parte agravante não impugnou a incidência da Súmula 7/STJ de forma consistente, limitando-se a alegar genericamente que pretendia a aplicação do direito à hipótese, sem demonstrar a desnecessidade do revolvimento de fatos e provas.
+Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe de 21/12/2023.
+-Do fundamento referente à consonância do acórdão recorrido com a jurisprudência do STJ
+Em seu agravo em recurso especial, a parte agravante não refutou a incidência da Súmula 83/STJ, pois não indicou precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a comprovar que o acórdão recorrido diverge da orientação jurisprudencial desta Corte Superior, tampouco realizou qualquer distinção entre o precedente aplicado à hipótese e a questão jurídica decidida neste processo.
+Nesse sentido: AgInt no AREsp 868.542/RJ, Terceira Turma, DJe de 1/8/2017 e AgInt no AREsp 2.257.194/GO, Quarta Turma, DJe de 26/10/2023.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp n. 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp n. 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
