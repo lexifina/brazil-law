@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO DE DECISÃO. PEDIDO DE NOME EXPRESSO DE ADVOGADO. NOME INCOMPLETO. AUSÊNCIA DE NULIDADE. PRESENÇA DE OUTROS ELEMENTOS, TAIS COMO NÚMERO DA OAB, DO PROCESSO E NOME DAS PARTES. ATO PROCESSUAL QUE ATINGIU SUA FINALIDADE. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL CONFIRMADA. AGRAVO INTERNO DESPROVIDO.
+1. "Não ocorre a violação do art. 272, § 4º, do CPC ("A grafia dos nomes dos advogados deve corresponder ao nome completo e ser a mesma que constar da procuração ou que estiver registrada na Ordem dos Advogados do Brasil"), quando a intimação do patrono baseia-se nos dados registrados na OAB" (AgInt no AREsp n. 1.551.101/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+2. Na hipótese, tem-se que o nome que consta da procuração dos agravantes outorgantes à advogada outorgada é exatamente o mesmo constante da publicação da decisão que intimou a advogada. Não procede, assim, o pedido de nulidade, baseado em não ter havido o acréscimo do último nome da causídica, pois constou justamente o nome conforme está no referido mandato. Por conseguinte, a publicação seguiu os termos da Lei (CPC, art. 272, § 4º), não havendo falar em nulidade da intimação.
+3. Agravo interno não provido.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por FINANCE MOINHOS ASSESSORIA E CONSULTORIA EMPRESARIAL LTDA E OUTROS contra a decisão de fls. 21-23 da Ministra Presidente do STJ, Maria Thereza de Assis Moura, que indeferiu o pedido de fls. 2-12, do expediente avulso, requerendo o reconhecimento da nulidade da intimação da decisão de fls. 680-681, dando azo, consequentemente, à devolução do prazo recursal.
+Sustenta que:
+i) "Negado conhecimento ao agravo em recurso especial ao fundamento de inexistência de impugnação específica com relação à aplicação da Súmula 07/STJ, a respectiva decisão monocrática de fls. e-STJ 680/681, restou disponibilizada no DJE/STJ em data de 10/11/2023, considerando-se publicada em 13/11/2023, conforme Termo de Disponibilização presente em e-STJ 683. No entanto, a referida publicação não contemplou o nome completo da advogada dos agravantes, de forma que a causídica não tomou ciência da negativa de conhecimento ao recurso, senão após já decorrido o prazo legal para a apresentação de insurgência (o trânsito em julgado ocorreu em 06/12/2023, conforme Certidão presente à fl. e-STJ 685)";
+ii) "no caso em concreto, comprovado nos autos que o erro da Secretaria não permitiu ao sistema de buscas de movimentações processuais da empresa terceirizada, identificar a advogada e informa-la do andamento processual do recurso";
+iii) "o erro cartorário em questão provocou efetivo prejuízo jurídico à parte, tendo em vista que não permitiu o conhecimento de teor de decisão contrária a seus interesses, senão após o seu trânsito em julgado, quando já decorrido o prazo para a apresentação de recurso";
+iv) "o prejuízo jurídico provocado pelo erro da Secretaria, é ainda mais grave se considerado que a parte ora agravante já havia recebido tutela antecedente deste Egrégio para o efeito de conceder efeito suspensivo ao agravo em recurso especial, justamente por vislumbrar, ao menos de forma perfunctória, o alegado quanto à ausência de debate pelo Tribunal regional, da matéria fática invocada para justificar o provimento da apelação dos agravantes";
+v) "a advogada não agiu de forma concorrente para a consequência danosa sofrida, pois demonstrado que o nome completo da advogada já havia sido devida e corretamente cadastrado no ARESP 2.481.230/RS, vide Histórico de Representantes (e-STJ 01 / abaixo), não havendo justificativa para o erro ocorrido";
+vi) houve "ofensa ao devido processo legal, consubstanciado no injusto óbice ao exercício da ampla defesa e do contraditório";
+vii) houve "ofensa direta ao § 4º do art. 272 do CPC, no sentido de que, para a validade da intimação, é indispensável que a grafia do nome do advogado corresponda ao seu nome completo".
+viii) há "precedentes deste Egrégio, pela nulidade da intimação do advogado quando diante de erro de grafia de seu nome, não tendo sido realizada qualquer distinção no caso em julgamento nem justificada a superação do entendimento, nos termos do art. 489, § 1º, VI, do CPC";
+ix) "o art. 280 do CPC expressamente prevê a nulidade da intimação realizada sem a observância das prescrições legais. Ou seja, a matéria em comento apresenta natureza de ordem pública, na qual a lei impera e se relaciona com os pressupostos de constituição e de regular trâmite processual; assim, o princípio da instrumentalidade das formas não é capaz de amparar a manutenção de ato processual para o qual existe forma prescrita em lei sob pena de nulidade";
+x) houve ofensa ao "princípio da boa-fé processual objetiva, assim como ao princípio da confiança, uma vez que o advogado não tinha condições de antever que a grafia do seu nome poderia constar de forma incorreta nas intimações";
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO DE DECISÃO. PEDIDO DE NOME EXPRESSO DE ADVOGADO. NOME INCOMPLETO. AUSÊNCIA DE NULIDADE. PRESENÇA DE OUTROS ELEMENTOS, TAIS COMO NÚMERO DA OAB, DO PROCESSO E NOME DAS PARTES. ATO PROCESSUAL QUE ATINGIU SUA FINALIDADE. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL CONFIRMADA. AGRAVO INTERNO DESPROVIDO.
+1. "Não ocorre a violação do art. 272, § 4º, do CPC ("A grafia dos nomes dos advogados deve corresponder ao nome completo e ser a mesma que constar da procuração ou que estiver registrada na Ordem dos Advogados do Brasil"), quando a intimação do patrono baseia-se nos dados registrados na OAB" (AgInt no AREsp n. 1.551.101/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+2. Na hipótese, tem-se que o nome que consta da procuração dos agravantes outorgantes à advogada outorgada é exatamente o mesmo constante da publicação da decisão que intimou a advogada. Não procede, assim, o pedido de nulidade, baseado em não ter havido o acréscimo do último nome da causídica, pois constou justamente o nome conforme está no referido mandato. Por conseguinte, a publicação seguiu os termos da Lei (CPC, art. 272, § 4º), não havendo falar em nulidade da intimação.
+3. Agravo interno não provido.
+VOTO
+2. A irresignação não prospera.
+A decisão agravada da Min. Maria Thereza de Assis Moura asseverou que:
+O pedido não comporta deferimento.
+Veja-se que o pedido de nulidade de intimação em razão de existência de erro de grafia no nome da causídica não comporta deferimento, uma vez que somente ocorreu com relação à última parte do nome, sendo que houve a correta indicação do restante do nome, bem como do correto número da Ordem dos Advogados do Brasil.
+Dessa forma, conforme jurisprudência reiterada desta Corte, "A incorreção ou incompletude de nome atribuído a advogado em publicação oficial, o qual pode ser identificado pelo número do seu registro na Ordem dos Advogados do Brasil, não acarreta a nulidade do ato processual quando houver outros elementos que viabilizem a identificação do processo, em atenção ao princípio da instrumentalidade das formas" (AgInt no AREsp n. 1.551.101/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+Ainda, no mesmo sentido:
+ ..
+Ante o exposto, indefiro o pedido de fls. 2-12, do expediente avulso.
+Tendo em vista que os autos já se encontram baixados, remetam-se cópia completa deste expediente à origem, inclusive com cópia desta decisão, para ciência.
+Publique-se. Intimem-se. Arquive-se.
+(fls. 21-23)
+Realmente, a referida decisão que, afastou qualquer nulidade no que toca à intimação da advogada dos agravantes, está em conformidade com a jurisprudência do STJ, bem como com a lei de regência.
+Com efeito, na espécie, da atenta leitura dos autos, constata-se que o nome constante da procuração dos agravantes à agravada (outorgantes e outorgada) é "ANA PAULA VIEIRA DE MORAES" (fl. 203), exatamente o nome publicado na intimação da decisão de fls. 680-681, objeto do pedido de nulidade (por não ter havido o acréscimo do PEARSE ao final do nome ANA PAULA VIEIRA DE MORAES, ao contrário do que consta do referido mandato).
+Por conseguinte, constata-se que a publicação seguiu os termos da lei (CPC, art. 272, § 4º), in verbis:
+Art. 272. Quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial.
+§ 1º Os advogados poderão requerer que, na intimação a eles dirigida, figure apenas o nome da sociedade a que pertençam, desde que devidamente registrada na Ordem dos Advogados do Brasil.
+§ 2º Sob pena de nulidade, é indispensável que da publicação constem os nomes das partes e de seus advogados, com o respectivo número de inscrição na Ordem dos Advogados do Brasil, ou, se assim requerido, da sociedade de advogados.
+§ 3º A grafia dos nomes das partes não deve conter abreviaturas.
+§ 4º A grafia dos nomes dos advogados deve corresponder ao nome completo e ser a mesma que constar da procuração ou que estiver registrada na Ordem dos Advogados do Brasil.
+Dessarte, a decisão agravada, repita-se, está em sintonia com o entendimento do STJ no sentido de que "a incorreção ou incompletude de nome atribuído a advogado em publicação oficial, o qual pode ser identificado pelo número do seu registro na Ordem dos Advogados do Brasil, não acarreta a nulidade do ato processual quando houver outros elementos que viabilizem a identificação do processo, em atenção ao princípio da instrumentalidade das formas  ..  Não ocorre a violação do art. 272, § 4º, do CPC ("A grafia dos nomes dos advogados deve corresponder ao nome completo e ser a mesma que constar da procuração ou que estiver registrada na Ordem dos Advogados do Brasil"), quando a intimação do patrono baseia-se nos dados registrados na OAB" (AgInt no AREsp n. 1.551.101/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.).
+E ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO DE DECISÃO. PEDIDO DE NOME EXPRESSO DE ADVOGADO. NOME INCOMPLETO. AUSÊNCIA DE NULIDADE. PRESENÇA DE OUTROS ELEMENTOS, TAIS COMO NÚMERO DA OAB, DO PROCESSO E NOME DAS PARTES. ATO PROCESSUAL QUE ATINGIU SUA FINALIDADE. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL CONFIRMADA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta eg. Corte assenta que, ainda que incorreto ou incompleto o nome de determinado advogado em uma publicação, esta será considerada válida se houver outros elementos capazes de identificar o processo e, assim, a publicação atinja a sua finalidade.
+2. No caso em apreço, a ausência do último sobrenome da nobre advogada, na publicação da decisão que inadmitiu o recurso especial na eg. Instância a quo, não tem o condão, por si só, de inviabilizar a finalidade da intimação, mormente, quando, além de outros dois sobrenomes, consta o respectivo número da OAB, do processo e o nome das partes.
+3. Decisão agravada, que não conheceu do agravo em recurso especial por considera-lo intempestivo, que merece ser confirmada.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.116.119/PE, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 24/10/2017, DJe de 30/10/2017.)
+3. Ante o exposto, nego provimento ao agravo interno.
+Prejudicado o pedido de tutela cautelar e respectivos embargos de declaração.
+É o voto.
