@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE. EMBARGOS PROTELATÓRIOS. MULTA.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Opostos segundos embargos de declaração, somente podem ser examinados os vícios suscitados nos primeiros aclaratórios, mas não sanados por ocasião de seu julgamento, ou os vícios que somente surgiram por ocasião do julgamento dos primeiros aclaratórios.
+3. Caracterizado o manifesto propósito protelatório, aplica-se ao embargante a multa inserta no art. 1.026, § 2º, do CPC.
+4. Embargos de declaração rejeitados, com imposição de multa.
+RELATÓRIO
+Examinam-se embargos de declaração opostos por ANTIGUA MATERIAIS PARA SANEAMENTO EIRELI contra acórdão que rejeitou os embargos de declaração opostos contra o agravo interno nos embargos de declaração no recurso especial por este interposto, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA PREVIAMENTE ANALISADA. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar os seguintes vícios: obscuridade, contradição, omissão ou erro material. Descabe seu acolhimento quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+Nas razões do presente recurso, o embargante suscita omissão no acórdão embargado, sob o fundamento de que "os pedidos do Embargando consistiram em duas matérias (desconformidade/contaminação), sendo sucumbente em uma delas, decaindo em igual proporção, a demanda deverá ser julgada parcialmente procedente" (e-STJ fls. 2338-2343). Requer a reforma do decisum, com a alteração dos ônus sucumbenciais.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE. EMBARGOS PROTELATÓRIOS. MULTA.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Opostos segundos embargos de declaração, somente podem ser examinados os vícios suscitados nos primeiros aclaratórios, mas não sanados por ocasião de seu julgamento, ou os vícios que somente surgiram por ocasião do julgamento dos primeiros aclaratórios.
+3. Caracterizado o manifesto propósito protelatório, aplica-se ao embargante a multa inserta no art. 1.026, § 2º, do CPC.
+4. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Conforme anteriormente consignado no acórdão embargado, os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Ademais, sabe-se que a questão ventilada nos segundos embargos deve guardar pertinência temática com aquela que fora devolvida pela parte nos primeiros embargos, mas que não tenha sido por ele sanada, ou, ao menos, deve ter surgido por ocasião do julgamento dos primeiros embargos.
+No particular, o embargante tem reiterado - sem sucesso - as teses defensivas que foram rechaçadas nos julgamentos dos embargos de declaração no recurso especial às fls. 2088-2090, no agravo interno de fls. 2127-2131, nos embargos de declaração no agravo interno às fls. 2169-2171, no recurso especial de fls. 2188-2192, nos embargos de declaração no recurso especial de fls. 2203-2206, no agravo interno de fls. 2292-2297 e nos embargos de declaração no agravo interno de fls. 2331-2333.
+Recorda-se que, na origem, houve o julgamento de procedência dos pedidos da ação indenizatória contra o embargante, seguido do desprovimento de seu recurso de apelação.
+Na sequência, esta Relatora conheceu e deu provimento ao recurso especial da parte contrária (MANZ VILLAS BOAS SOCIEDADE DE ADVOGADOS) a fim de redimensionar a verba honorária, arbitrando os honorários advocatícios em 15% sobre o valor atualizado da condenação, custeados pelo embargante. Tal decisão foi mantida pelo Colegiado da Terceira Turma/STJ ao negar provimento ao agravo interno do embargante.
+Do mesmo modo, o recurso especial interposto pelo embargante sequer foi conhecido por este Colegiado em razão da Súmula 7/STJ, uma vez que o Tribunal de origem foi categórico ao considerar que o embargante descumpriu as normas técnicas previstas, o que acarretou a procedência integral dos pedidos iniciais. Destacou-se, no momento, que, para alterar tal conclusão, seria imprescindível o reexame de fatos e provas - atividade vedada perante esta Corte.
+Dito isso, verifica-se que não assiste razão ao embargante, ao pleitear a procedência apenas parcial dos pedidos com o redimencionamento da verba sucumbencial, inexistindo vício de omissão no acórdão embargado.
+De outro lado, percebe-se nitidamente que o recurso está sendo utilizado pela parte com manifesto intuito protelatório, buscando retardar, ainda mais, o trânsito em julgado da decisão favorável ao embargado.
+Acrescente-se, por oportuno, que em todas as decisões previamente mencionadas o embargante foi devidamente advertido acerca da possível aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+Desse modo, considerando que o presente recurso não reúne os pressupostos específicos para o seu acolhimento, nos termos do art. 1.022 do CPC, e, considerando o caráter manifestamente protelatório dos embargos de declaração, condeno a parte embargante a pagar à embargada multa de 1% do valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração nos embargos de declaração no agravo interno nos embargos de declaração no recurso especial, com aplicação de multa de 1% sobre o valor atualizado da causa.
+Previno o embargante que a oposição de novos embargos acarretará a majoração da multa prevista no art. 1.026, § 2º, do CPC.
