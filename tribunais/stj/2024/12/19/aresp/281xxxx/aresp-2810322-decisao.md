@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/07/2024.
+Concluso ao gabinete em: 13/12/2024.
+Ação: revisional de contrato proposta por FRANCISCO FARIA, em face da agravante, em razão de excesso na cobrança de juros remuneratórios, decorrente de contrato de empréstimo.
+Sentença: julgou parcialmente procedentes os pedidos para o fim de limitar os juros remuneratórios do contrato à taxa média de mercado à época da contratação, condenando a agravante à devolução dos valores cobrados em excesso.
+Acórdão: deu parcial provimento aos recursos interpostos pela agravante e agravado, com nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. SENTENÇA QUE JULGOU DE FORMA CONJUNTA SEIS AÇÕES REVISIONAIS DE EMPRÉSTIMO PESSOAL NÃO CONSIGNADO. MESMAS PARTES APELANTES. ANÁLISE CONJUNTA DOS RECURSOS. RECURSO DA INSTITUIÇÃO FINANCEIRA. POSSIBILIDADE DE MITIGAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA. ANÁLISE DE EVENTUAIS ABUSIVIDADES NAS CLÁUSULAS CONTRATUAIS QUE COMPETE AO JUDICIÁRIO. PLEITO DE APLICAÇÃO DA SÉRIE TEMPORAL 20742 PARA A LIMITAÇÃO DE JUROS DOS CONTRATOS ORA REVISADOS. POSSIBILIDADE. CASO CONCRETO EM QUE O JUIZ APLICOU A TEMPORAL 20743 PARA ALGUNS CONTRATOS. ENTRETANTO, A APLICAÇÃO DESTA SÉRIE TEMPORAL FICA RESTRITA AOS CASOS EM QUE AS OPERAÇÕES REFINANCIADAS SEJAM DE MODALIDADES DISTINTAS, O NO MAIS, QUE NÃO É O CASO. ALEGAÇÕES DE QUE É EMPRESA QUE CONCEDE CRÉDITO DE RISCO. AVENTADA IMPOSSIBILIDADE DE CONSTATAR A ABUSIVIDADE COM BASE SOMENTE NA MÉDIA DE MERCADO. NÃO ACOLHIMENTO. TAXA MÉDIA DE MERCADO QUE É IMPORTANTE REFERENCIAL, AINDA QUE NÃO SEJA PARÂMETRO EXATO. TAXA DE JUROS QUE SUPERA EM MUITO A MÉDIA DIVULGADA PELO BACEN. EVIDENTE ABUSIVIDADE. SENTENÇA MANTIDA. RECURSO PARCIALMENTE PROVIDO.
+RECURSO DA PARTE AUTORA. PLEITO PELA RESTITUIÇÃO EM DOBRO DOS VALORES DESCONTADOS. IMPOSSIBILIDADE. APLICAÇÃO AO CASO DO PELA CORTE ESPECIAL DO STJ ENTENDIMENTO FIRMADO NOS EARESP NºS 676.608/RS E 600.663/RS. AUSÊNCIA DE MÁ-FÉ COMPROVADA. DESCONTOS ANTERIORES A 30/03/2021. PLEITO PELA FIXAÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE. COBRANÇA DE JUROS ABUSIVOS QUE, POR SI SÓ, NÃO PRESUME A OCORRÊNCIA DE ABALO MORAL INDENIZÁVEL. CASO CONCRETO EM QUE INEXISTE PROVA A ESSE RESPEITO. PLEITO PELA MAJORAÇÃO DA VERBA SUCUMBENCIAL. CASO CONCRETO EM QUE OS HONORÁRIOS FORAM FIXADOS EM 15% SOBRE O VALOR DA CONDENAÇÃO, NA PROPORÇÃO DE 50% PARA CADA PARTE. VALOR IRRISÓRIO. VERBA FIXADA EM PERCENTUAL SOBRE O VALOR DA CAUSA, CONSOANTE ENTENDIMENTO FIRMADO POR ESTA CORTE. RECURSO PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 421 do Código Civil, bem como divergência jurisprudencial. Insurge-se, em síntese, contra a limitação dos juros remuneratórios, sustentando ausência de abusividade da taxa pactuada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Conquanto se saiba que a jurisprudência do STJ entende que, o simples fato de os juros remuneratórios contratados serem superiores à taxa média de mercado, por si só, não configura abusividade, no caso dos autos, observa-se que o TJ/PR, após analisar o acervo probatório reunido nos autos, concluiu que:
+Portanto, uma vez comparadas as taxas praticadas com a taxa média, a abusividade no presente caso é flagrante e deve ser mantido seu reconhecimento, uma vez que supera - em muito - uma vez e meia, o dobro ou até mesmo o triplo da taxa média divulgada pelo BACEN.
+Assim, não há dúvidas que as taxas praticadas são absolutamente abusivas se comparada à média de mercado. (e-STJ, fl. 632)
+Portanto, alterar o decidido no acórdão impugnado no tocante à abusividade das taxas de juros remuneratórios, exige o reexame do contexto fático e probatório valorado pelas instâncias ordinárias, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência da similitude fática. Ressalte-se que é necessário que se aponte e explicite como os casos são semelhantes e qual é a proximidade fática e jurídica entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese. Nesse sentido: AgInt no REsp n. 1.961.625/SP, Terceira Turma, DJe de 12/9/2022 e AgInt no AREsp n. 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. DISSÍDIO PREJUDICADO.
+1. Ação revisional de contrato.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
