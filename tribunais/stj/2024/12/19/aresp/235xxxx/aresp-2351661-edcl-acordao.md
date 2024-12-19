@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, rejeitar os embargos de declaraÃ§Ã o, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO  .  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  OBSCURIDADE.  CONTRADIÇÃO.  INEXISTÊNCIA.
+1.  Os  embargos  de  declaração  só  se  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão,  não  servido  à  rediscussão  da  matéria  já  julgada  no  recurso.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos po r COOPERATIVA ECONOMIA E CRÉDITO MÚTUO DOS COLABORADORES DO GRUPO PITÁGORAS LTDA em face de acórdão, de minha relatoria, no qual a Quarta Turma negou provimento ao agravo interno, assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COOPERATIVA DE CRÉDITO. REVISÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES. SÚMULA 568 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. "A orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de se admitir a aplicação das disposições do Código de Defesa do Consumidor às relações travadas entre cooperados e cooperativas quando estas desenvolvem atividades equiparadas às instituições financeiras" (AgInt nos EAREsp n. 1.302.248/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/10/2020, DJe de 29/10/2020). Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+Nas razões deste recurso, a parte embargante afirma que há omissão no acórdão embargado no que se refere à inaplicabilidade do Código de Defesa do Consumidor ao caso.
+Aduz que a Lei nº 5.764/71, que trata das cooperativas, define estas como sociedades de pessoas com natureza jurídica própria, possuindo particularidades que as distinguem de outras formas de organização, e que é inegável que a relação entre o Cooperado e a Cooperativa não pode ser simplesmente enquadrada nos moldes de uma relação de consumo, como previsto pelo Código de Defesa do Consumidor.
+Afirma que "a aplicação do Código de Defesa do Consumidor nesse contexto específico se mostra inadequada e desalinhada com a essência das cooperativas, uma vez que a legislação que rege as cooperativas foi pensada para abranger as particularidades desse tipo de associação, estabelecendo normas que respeitam sua natureza e objetivos" (e-STJ, fl. 1.101).
+Defende que o acórdão embargado, ao considerar as cooperativas como parte integrante do sistema financeiro e, por isso, enquadrar a relação como de consumo, padeceu de vício de omissão.
+A impugnação não foi apresentada (e-STJ, fl. 1.114).
+É o relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO  .  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  OBSCURIDADE.  CONTRADIÇÃO.  INEXISTÊNCIA.
+1.  Os  embargos  de  declaração  só  se  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão,  não  servido  à  rediscussão  da  matéria  já  julgada  no  recurso.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não se verifica a omissão apontada, mas mera pretensão de rejulgamento da causa.
+De acordo com a jurisprudência desta Corte, os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+Nas razões deste recurso, a parte embargante afirma que "a aplicação do Código de Defesa do Consumidor nesse contexto específico se mostra inadequada e desalinhada com a essência das cooperativas, uma vez que a legislação que rege as cooperativas foi pensada para abranger as particularidades desse tipo de associação, estabelecendo normas que respeitam sua natureza e objetivos" (e-STJ, fl. 1.101)
+Defende que o acórdão embargado, ao considerar as cooperativas como parte integrante do sistema financeiro e, por isso, enquadrar a relação como de consumo, padeceu de vício de omissão.
+Sem razão, contudo.
+No acórdão, ora embargado, foi expressamente consignado que, sobre o tema da incidência do Código de Defesa do Consumidor, "a orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de se admitir a aplicação das disposições do Código de Defesa do Consumidor às relações travadas entre cooperados e cooperativas quando estas desenvolvem atividades equiparadas às instituições financeiras" (AgInt nos EAREsp n. 1.302.248/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/10/2020, DJe de 29/10/2020). Confira-se:
+Sobre o tema da incidência do Código de Defesa do Consumidor, como expressamente consignado na decisão agravada, "a orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de se admitir a aplicação das disposições do Código de Defesa do Consumidor às relações travadas entre cooperados e cooperativas quando estas desenvolvem atividades equiparadas às instituições financeiras" (AgInt nos EAREsp n. 1.302.248/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/10/2020, DJe de 29/10/2020).
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. MONOCRÁTICA AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. PRECLUSÃO. 2. COOPERATIVA E COOPERADO. ATO ATÍPICO. RECONHECIMENTO. REVISÃO EM RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 3. COOPERATIVA AGRÍCOLA. EMPRÉSTIMO A COOPERADO. INCIDÊNCIA DO CDC. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. 1. Não impugnada a aplicação das Súmulas n. 282 e 356 do STF, está preclusa a discussão a respeito de os recorridos serem destinatários finais do valor objeto do empréstimo. 2. O especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ. O Tribunal de origem, ao manter a incidência do Código de Defesa do Consumidor, concluiu que o empréstimo contratado ultrapassou as atividades típicas de cooperado e cooperativa, "envolvendo, também, relações nitidamente bancárias". Alterar esse entendimento demandaria o reexame das provas, o que é vedado neste recurso. 3. "A orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de se admitir a aplicação das disposições do Código de Defesa do Consumidor às relações travadas entre cooperados e cooperativas quando estas desenvolvem atividades equiparadas às instituições financeiras" (AgInt nos EAREsp n. 1.302.248/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/10/2020, DJe de 29/10/2020). Aplicação da Súmula n. 83 do STJ. 4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.172.183/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/5/2023, DJe de 2/6/2023.)
+No caso dos autos, o Tribunal de origem consignou que (i) as cooperativas de crédito integram o Sistema Financeiro Nacional e se equiparam às instituições financeiras, estando, inclusive sujeiras às normas do Código de Defesa do Consumidor; e (ii) recorrida utilizou os créditos obtidos junto à cooperativa requerida, mediante cédulas de crédito bancário para empréstimo pessoal.
+Como se vê, a incidência do CDC ao caso se amolda à jurisprudência do STJ sobre o tema, sendo devida a manutenção do óbice da Súmula 568 do STJ  ..  (e-STJ, fls. 1.091/1.092).
+No caso dos autos, o Tribunal de origem afirmou que recorrida utilizou os créditos obtidos junto à cooperativa requerida, mediante cédulas de crédito bancário para empréstimo pessoal; portanto desenvolvendo atividade equiparada às instituições financeiras.
+Não há como ser afastada a incidência do Código de Defesa do Consumidor, como pretendido pela parte embargante.
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Verifico, assim, que a parte embargante pretende, sob o pretexto de existência de omissão, o rejulgamento da causa, o que não se admite.
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
