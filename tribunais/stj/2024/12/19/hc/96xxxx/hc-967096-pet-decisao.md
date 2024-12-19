@@ -1,0 +1,37 @@
+DECISÃO
+PEDRO PAULO RODRIGUES FELIX requer a reconsideração da decisão de fls. 69-70, por meio da qual indeferi liminarmente este habeas corpus, em razão da insuficiência da instrução.
+Diante da juntada das peças faltantes, reconsidero a referida decisão e passo a examinar o pedido de liminar neste habeas corpus.
+Decido.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes previstos nos arts. 297 e 304, ambos do Código Penal.
+O flagrante foi homologado e a prisão convertida em preventiva, por meio de decisão assim fundamentada (fls. 73-74, destaquei):
+Trata-se de auto de prisão em flagrante no qual a autoridade policial subscritora comunica a prisão de PEDRO PAULO RODRIGUES FÉLIX, já qualificado, efetuada no dia 12/09/2024, no Município de Aracaju, Sergipe. Da análise documental, verifico que o autuado foi preso pelo suposto cometimento das infrações penais tipificadas nos arts. 297, caput, e 304, ambos do Código Penal, na situação prevista no inciso I do art. 302 do Código de Processo Penal.
+Em sede policial foram realizadas as oitivas necessárias, qualificado e interrogado o até então flagrado. O auto de prisão está assinado e contém as advertências legais em relação aos direitos constitucionais do preso. A nota de culpa foi entregue, bem assim foram feitas as comunicações legais.
+Ademais, a materialidade delitiva resta satisfatoriamente comprovada, representada pelos documentos e depoimentos acostados. No que tange à autoria, há indícios no in folio que apontam para a conduta do autuado, conforme os depoimentos supramencionados.
+As partes não suscitaram ilegalidades.
+Dessa forma, cumpridas as formalidades previstas na legislação processual penal e na Constituição Federal, considero HÍGIDA A PRISÃO EM FLAGRANTE submetida à análise.
+Passo, doravante, a me manifestar acerca do disposto nos incisos II e III do art. 310 do Código de Processo Penal.
+Com efeito, a soma das penas máximas em abstrato das infrações penais supostamente cometidas é superior a quatro anos, havendo, portanto, pressuposto legal para a conversão do presente flagrante em prisão preventiva, nos termos do art. 313, inciso I, do Código de Processo Penal.
+Diante disso, cabe verificar se há também, na hipótese, alguns dos fundamentos exigidos para a aplicação da cautelar máxima, elencados no caput do art. 312 do Código de Processo Penal.
+Sobre esse ponto, embora o autuado não ostente histórico criminal desfavorável registrado junto ao SCPV, o modus operandi narrado nos autos revela, em análise perfunctória, elevado desvalor da ação. Isso porque o increpado, oriundo do estado da Bahia, supostamente veio a Sergipe com o intuito único de aplicar golpes financeiros. Ressoa do caderno de informações que increpado está em território sergipano a poucos dias, não havendo nos autos justificativa minimamente idônea para tal fato.
+Destarte, tal ocorrência inegavelmente atenta contra a ordem pública e a paz social, de modo que um hipotético estado de liberdade do autuado é fato gerador de perigo concreto a demandar a decretação da sua prisão preventiva, nos termos do art. 315, § 1º, do Código de Processo Penal.
+O raciocínio ora perfilhado não discrepa daquele adotado pelo STJ, conforme avistável no HC 546.242/SP.
+Ainda, considerando o potencial envolvimento de terceiros, conforme indicado nos autos, a necessidade de se interromper ou diminuir a atuação de integrantes de eventual organização ou associação criminosa se enquadra no conceito de garantia da ordem pública, constituindo fundamentação idônea e suficiente para a imposição da prisão preventiva (STF, HC 95.024/SP).
+Ressalte-se que, conforme entendimento consolidado pelo STJ, eventuais condições subjetivas favoráveis, como residência fixa e ocupação habitual, não autorizam, por si sós, a concessão de liberdade provisória. No caso dos autos, como dito alhures, existem elementos concretos a recomendar a segregação cautelar do agente.
+Em arremate, constatado o fumus comissi delicti e o periculum libertatis, preenchidos os pressupostos e fundamentos legais, afigura-se cabível a conversão do flagrante sub examine em prisão preventiva, nos termos do art. 312, caput, do Código de Processo Penal, a fim de se garantir a ordem pública, restando prejudicada a aplicação das medidas previstas no art. 319 do Código, por se mostrarem insuficientes e inadequadas para este caso concreto.
+Posto isso, acolho o parecer ministerial e CONVERTO A PRISÃO EM FLAGRANTE de PEDRO PAULO RODRIGUES FÉLIX em PRISÃO PREVENTIVA, com base nos arts. 312 e 313, ambos do Código de Processo Penal, a fim de garantir a ordem pública.
+O Tribunal a quo ratificou o decisum supra.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Sob essas premissas, verifico que o decreto cautelar não apresentou nenhuma circunstância concreta dos autos que pudesse indicar o periculum libertatis do agente e tão somente limitou-se a afirmar o cabimento da prisão preventiva porque o "increpado está em território sergipano a poucos dias, não havendo nos autos justificativa minimamente idônea para tal fato" (fl. 74).
+Deixou, portanto, de mencionar elemento individualizado que indicasse a necessidade de tutela da ordem pública ou a garantia da aplicação penal ou da instrução criminal.
+Verifica-se que houve apenas a descrição da conduta típica supostamente praticada pelo paciente, valendo ressaltar que se trata de réu primário e os crimes descritos na denúncia não foram praticados com violência ou grave ameaça.
+Concluo, portanto, que os elementos apresentados, por si sós, não servem para denotar a periculosidade exacerbada do investigado, a ponto de justificar o emprego da cautela máxima, o que impõe o deferimento da liminar, sob pena de essa prisão perder sua natureza excepcional e se transformar em mera resposta punitiva antecipada.
+Nessa perspectiva:
+ ..
+1. Segundo a jurisprudência desta Corte Superior de Justiça, toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais.
+2. A menção do magistrado, pura e simples, a conjecturas a respeito da gravidade abstrata do crime, sem a incidência de nenhum elemento concreto, não é suficiente para decretar a prisão preventiva do acusado. Se assim fosse, a prisão provisória passaria a ter caráter de prisão obrigatória.
+ ..
+(HC n. 362.072/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/2/2017, destaquei)
+À vista do exposto, reconsidero a decisão de fls. 69-70 e concedo a ordem in limine para revogar a prisão preventiva do paciente, devendo ser colocado em liberdade, se por outro motivo não estiver ou não houver a necessidade de ser preso, sem prejuízo da possibilidade de nova decretação, se concretamente demonstrada sua necessidade cautelar, ou de imposição de medida alternativa, nos termos do art. 319 do CPP.
+Publique-se e intimem-se.
+EMENTA
