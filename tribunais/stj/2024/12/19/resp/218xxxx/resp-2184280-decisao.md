@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por PREMIER COMÉRCIO DE CALÇADOS E CONFECÇÕES LTDA, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no julgamento do AGRAVO DE INSTRUMENTO N. 5036710-76.2023.4.04.0000/RS, assim ementado (fl. 32):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. TÍTULO EXECUTIVO JUDICIAL. TRÂNSITO EM JULGADO.
+1. O cumprimento de sentença se processa segundo os critérios e limites delineados no título executivo judicial, qual seja, o pronunciamento havido em primeiro grau com as modificações decorrentes do julgamento dos recursos por este Tribunal e nas instâncias superiores, quando for o caso.
+2. Em atenção à coisa julgada, não cabe discussão, em cumprimento de sentença, acerca dos honorários de sucumbência fixados no título executivo judicial.
+Interposto recurso especial em que se alega violação dos arts. 525, § 1º, inciso III, e 783, ambos do CPC (fls. 40-45).
+Apresentadas contrarrazões às fls. 51-55.
+O Tribunal de origem admitiu o recurso especial (fl. 58).
+É o relatório.
+Decido.
+O recurso especial não merece conhecimento.
+Nos termos do art. 932, incisos III, IV e V, do CPC, combinados com os arts. 34, inciso XVIII, alíneas b e c, e 255, incisos I e II, do RISTJ, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a: a) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; b) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e c) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568 do STJ.
+Diante disso, passo a análise do presente caso.
+A recorrente alega haver violação dos arts. 525, § 1º, inciso III, e 783, ambos do CPC. Nesse ponto, em resumo, aduz o seguinte (fls. 43-44):
+Nos termos do art. 525, § 1º, inciso III, do CPC, é cabível impugnação contra cumprimento de sentença quando houver a inexequibilidade do título executivo judicial, o qual corresponde no caso em tela à decisão proferida nos autos do processo nº 5000262-09.2021.4.04.7103 que condenou a ora Recorrente ao pagamento de honorários advocatícios sucumbenciais fixados em 2,5% sobre o valor atualizado da causa em favor da Recorrida, em razão do julgamento improcedente do pedido de anulação dos débitos decorrentes dos autos de lançamento nº 33.546.914-6, 35.546.916-4 e 35.546.916-2.
+Verifica-se, assim, que a referida sentença não é exequível, pois não se trata de obrigação certa, líquida e exigível, conforme determina o art. 783, do CPC, ainda que tenha transitado em julgado. Isso porque os débitos cujo pedido de anulação foi julgado improcedente são objetos de cobrança na execução fiscal nº 5003868-50.2018.4.04.7103, ajuizada em 05/02/2009 perante a 3ª Vara Federal de Santo Ângelo.
+No referido processo, já foram incluídos os honorários advocatícios sucumbenciais da União, por meio do acréscimo de encargos legais nas Certidões de Dívida Ativa (CDA"s) que embasam a execução, sendo ora cobrados em duplicidade.
+Além disso, foi apresentada defesa pela ora Recorrente requerendo o reconhecimento da prescrição intercorrente, com a consequente extinção da dívida e da sua cobrança, o que se encontra pendente de julgamento no TRF4.
+ ..
+Dessa forma, impende que seja reformado o acórdão recorrido para reconhecer a inexequibilidade do referido título diante da ausência de certeza, liquidez e exigibilidade, uma vez que os honorários advocatícios sucumbenciais cobrados já foram incluídos nas CDA"s objeto da execução fiscal nº 5003868-50.2018.4.04.7103, bem como se encontra pendente de julgamento recurso acerca da possibilidade de prescrição intercorrente.
+O Tribunal de origem, quando do enfrentamento da temática, fundamentou sua conclusão na ocorrência da coisa julgada, não cabendo discussão acerca dos honorários de sucumbência fixados no título executivo judicial em cumprimento de sentença, senão vejamos (fl. 30):
+O cumprimento de sentença se processa segundo os critérios e limites delineados no título executivo judicial, qual seja, o pronunciamento havido em primeiro grau com as modificações decorrentes do julgamento dos recursos por este Tribunal e nas instâncias superiores, quando for o caso.
+Em atenção à coisa julgada, não cabe discussão, em cumprimento de sentença, acerca dos honorários de sucumbência fixados no título executivo judicial.
+ ..
+Na linha da decisão agravada, não há falar em ausência de certeza e liquidez do título em face da pendência de agravo no bojo da execução fiscal, inclusive porque, além de o agravo de instrumento interposto contra a decisão que não reconheceu a prescrição não ter efeito suspensivo, eventual prescrição da execução fiscal em tela não possui o condão de afastar a condenação em honorários advocatícios de sucumbência fixados em decisão transitada em julgado.
+No caso, importa registrar que as razões recursais apenas repetem as alegações feitas quando da interposição do agravo de instrumento (fls. 3-7), não havendo a impugnação específica e concreta dos fundamentos do acórdão recorrido.
+Tal fato caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF.
+Nesse sentido: AgInt no AREsp n. 2.299.240/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023; AgInt no AREsp n. 2.174.200/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023.
+Ante o exposto, com fundamento no art. 932 do CPC c.c. o art. 255 do RISTJ, NÃO CONHEÇO do recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. COISA JULGADA. CUMPRIMENTO DE SENTENÇA. RAZÕES RECURSAIS QUE NÃO IMPUGNA O FUNDAMENTO DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA N. 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
