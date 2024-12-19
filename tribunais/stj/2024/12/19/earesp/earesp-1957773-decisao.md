@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de divergência em agravo em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Relator Ministro HUMBERTO MARTINS, assim ementado (e-STJ fl. 566):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ. Agravo interno improvido.
+Os embargos de declaração foram rejeitados (STJ fls. 604/610).
+A parte embargante defende que o acórdão recorrido contrariou o AgInt no AREsp n. 1.852.926/SP, QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 04/09/2023. Assevera que, "O acórdão paradigma julgou agravo interno interposto contra decisão monocrática que não conheceu do AREsp com fundamento na ausência de impugnação específica da decisão de inadmissibilidade agravada, a qual indicava a incidência da Súmula n. 7/STJ. Nesse contexto, a Agravante buscava o reconhecimento de que efetivamente combateu todos os fundamentos da decisão que inadmitiu o recurso especial.  ..  A examinar o agravo interno, a C. Quarta Turma, por unanimidade, deu parcial provimento ao recurso para reconhecer, após análise cuidadosa das alegações recursais, que a Agravante efetivamente impugnou o aludido fundamento da decisão de inadmissibilidade do especial.  ..  No caso dos autos, por sua vez, a ora Embargante interpôs agravo interno com o mesmo objetivo, após decisão unilateral que não conheceu do agravo em recurso especial, aplicando a Súmula n. 182/STJ (ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o especial), especificamente quanto ao fundamento de incidência da Súmula n. 7/STJ ao caso" (e-STJ fl. 622).
+Reitera as razões para conhecimento do recurso especial e pede a reforma do acórdão embargado (e-STJ fls. 627/628).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA, e o AgInt no AREsp n. 1.852.926/SP, QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 04/09/2023.
+O acórdão recorrido não conheceu de agravo nos próprios autos, em razão do óbice da Súmula n. 182/STJ, tendo em vista a falta de impugnação específica de um dos tópicos do juízo de admissibilidade do recurso especial, feito no Tribunal de origem. Por outro lado, o paradigma deu provimento a agravo interno para superar a Súmula n. 182/STJ e adentrar no mérito do recurso especial, em caso específico (e-STJ fls. 629/637).
+Dessa forma, os embargos de divergência não merecem conhecimento por causa da impossibilidade de análise da correta aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial, diante da ausência de similitude entre o acórdão embargado e o paradigma. Portanto, são incabíveis os embargos de divergência, consoante o art. 1.043, § 4º, do CPC/2015 e o art. 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se e intimem-se.
+EMENTA
