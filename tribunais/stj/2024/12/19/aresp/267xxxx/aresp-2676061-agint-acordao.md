@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, nÃ o conhecer do recurso, com aplicaÃ§Ã o de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA.
+1. Ação revisional de cláusulas contratuais.
+2. É inepta a petição de agravo interno no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com a aplicação de multa.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Examina-se agravo interno interposto por BANCO INTER S/A, contra decisão unipessoal que não conheceu do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Ação: revisional de cláusulas contratuais apresentada por CARLOS HENRIQUE VIEIRA EM CAUSA PRÓPRIA em face do agravante, na qual alega abusividade de cláusulas contratuais.
+Agravo interno interposto em: 07/11/2024.
+Concluso ao gabinete em: 19/11/2024.
+Sentença: julgou parcialmente procedente o pedido para declarar nulas as cobranças relativas a seguro e ressarcimento de serviço de despachante.
+Acórdão: deu parcial provimento ao recurso interposto pelo agravante, para declarar a legalidade da cobrança da tarifa de serviços de terceiro (denominada no contrato de "Ressarcimento de Serviço de Despachante") e negou provimento ao apelo interposto pelo agravado, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS - CÓDIGO DE DEFESA DO CONSUMIDOR - APLICABILIDADE - LIMITAÇÃO DOS JUROS REMUNERATÓRIOS - INADMISSIBILIDADE - PACTUAÇÃO ABAIXO DA TAXA MÉDIA DE MERCADO - TARIFAS DE REGISTRO DE CONTRATO E DE AVALIAÇÃO DE BEM - SERVIÇO EFETIVAMENTE PRESTADO E INEXISTÊNCIA DE ONEROSIDADE EXCESSIVA - LEGALIDADE - TARIFA DE SERVIÇOS DE TERCEIROS - SERVIÇO ESPECIFICADO NO CONTRATO - LEGALIDADE - CONTRATAÇÃO DE SEGURO - ABUSIVIDADE - DEVOLUÇÃO EM DOBRO DE VALORES INDEVIDAMENTE COBRADOS - REQUISITOS DOS ARTS. 42, PARÁGRAFO ÚNICO, DO CDC, E 940 DO CÓDIGO CIVIL NÃO DEMONSTRADOS. O prazo prescricional para as ações revisionais é decenal, nos termos do art. 205 do Código Civil, posto que fundadas em direito pessoal, não se enquadrando nas hipóteses previstas no art. 206 do mesmo Código Civil. O Código de Defesa do Consumidor é aplicável aos negócios jurídicos firmados com as instituições financeiras. Pacificado o entendimento no colendo Superior Tribunal de Justiça de que as instituições financeiras não se sujeitam ao disposto na Lei de Usura, não indicando a fixação dos juros remuneratórios em patamar superior a 12% ao ano, por si só, abuso que autorize a sua revisão pelo Poder Judiciário. Estando dentro dos parâmetros, e até mesmo abaixo da taxa média de mercado praticada em operações da mesma natureza na época da contratação, deve ser mantida a taxa de juros remuneratórios livremente avençada entre as partes. É válida a cobrança das Tarifas de Registro de Contrato e de Avaliação do Bem, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado e a possibilidade de controle da onerosidade excessiva em cada caso concreto (REsp 1.578.533-SP submetido ao rito do art. 1.040 e seguintes do CPC). É abusiva a cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem especificação do serviço a ser efetivamente prestado, ou quando tal cobrança se mostrar excessiva, onerando em demasia o consumidor (REsp nº 1.578.533-SP). Não constando do contrato celebrado entre as partes que o cliente tem direito de escolher livremente a contratação ou não do seguro e nem a companhia seguradora de sua preferência, deve ser declarada a ilegalidade dessa cobrança. A devolução em dobro, prevista no art. 42, parágrafo único, do CDC, e no art. 940 do Código Civil, é condicionada à comprovação de má-fé do credor, pressupondo o preenchimento de dois requisitos indissociáveis, quais sejam cobrança indevida e ação consciente do credor.
+Embargos de declaração: opostos pelo agravado foram acolhidos com efeitos infringentes para dar parcial provimento ao recurso de apelação por este interposto, determinando a limitação dos juros remuneratórios previstos no contrato discutido à taxa média de mercado.
+Opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 373, I e 487, II, do Código de Processo Civil; e 5º, inciso IV, da Lei nº 9.514/97. Sustenta a prescrição. Aduz que devem ser mantidos os juros remuneratórios pactuados, pois definidos de acordo com os valores praticados no mercado, bem como a legalidade da contratação dos seguros.
+Decisão unipessoal: não conheceu do agravo em razão da incidência da Súmula 182 do STJ, com fundamento no art. 932, III, do CPC/15.
+Agravo interno: nas razões do presente recurso, o agravante sustenta que "a discussão referente ao prazo prescricional foi atacada pelo agravante por meio da alínea "a", tendo sido demonstrado que o entendimento do STJ no sentido de que o prazo prescricional para as ações revisionais de contratos bancários é o decenal". Aduz que a impugnação específica do entendimento do Tribunal de que há consonância do acórdão recorrido com a jurisprudência do STJ (quanto ao prazo prescricional), não necessitava da juntada de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, já que restou devidamente demonstrado que o contexto que envolve o presente caso diverge daquele aplicado pelo STJ nos casos comuns de revisão de contrato.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA.
+1. Ação revisional de cláusulas contratuais.
+2. É inepta a petição de agravo interno no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com a aplicação de multa.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada não conheceu do recurso especial interposto pela agravante, com base na seguinte fundamentação:
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte fundamento:
+i) consonância do acórdão recorrido com a jurisprudência do STJ (quanto ao prazo prescricional).
+Ressalte-se que na hipótese em que se pretende impugnar o referido fundamento, deve a parte agravante indicar precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não foi feito.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso. (e-STJ, fl. 706-707)
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante, não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada. Isso porque, nas razões do presente agravo não impugnou, consistentemente, o fundamento da decisão agravada.
+Conforme constou da decisão agravada, na hipótese em que se pretende impugnar o referido fundamento, deve a parte agravante indicar precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que, de fato, não foi feito nas razões do agravo em recurso especial.
+Ressalte-se que, a incidência do mencionado óbice abrange os recursos especiais interpostos com amparo nas alíneas "a" e/ou "c" do permissivo constitucional. (AgInt no REsp n. 2.089.090/SP, Quarta Turma, DJe de 13/5/2024 e AgInt nos EDcl no AREsp n. 1.089.431/RS, Terceira Turma, DJe de 20/4/2018).
+Assim, cabia à agravante apontar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, §1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no §4º do art. 1.021 do CPC/15.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+É o voto.
