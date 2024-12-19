@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se recurso especial interposto por SONIA NOVAIS DA SILVA E OUTROS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: comum "para liberação de hipoteca"(e-STJ Fl.2), ajuizada por SONIA NOVAIS DA SILVA E OUTROS em face de CAIXA ECONÔMICA FEDERAL E OUTRO.
+Sentença: julgou procedentes os pedidos formulados na exordial.
+Acórdão: deu provimento ao recurso interposto pelo recorrido, nos termos assim ementados:
+"Processual Civil. Venda de unidade residencial, ainda na planta, via contrato no qual os compradores permitem a construtora o poder de oferecer todas as unidades residenciais, inclusive a adquirida por eles, a instituição bancária onde a construtora busque financiamento. Caso em que o contrato de compra e venda foi assinado em 20 de junho de 2014 e o contrato de empréstimo em 03 de abril de 2017, ficando a unidade residencial dos compradores hipotecada a Caixa Econômica Federal.(e-STJ Fl.477) Documento recebido eletronicamente da origem O que se verifica é que, em suma, a apelada-Caixa Econômica Federal não fez negócio com os autores, e, sim, unicamente, com a construtora, que terminou hipotecando o imóvel a Caixa Econômica Federal. No cotejo na inicial, vê-se lide a envolver os autores contra a construtora e a Caixa Econômica Federal. Ocorre que a Caixa Econômica Federal não realizou nenhum negócio com os demandantes, negócio sim que ata os autores a construtora. Daí se enxergar que o correto seria, como será, a demanda dos autores contra a construtora, sem a inclusão da Caixa Econômica Federal, por não ter esta nenhum negócio que a ligue aos autores, sendo aqui a empresa pública federal parte ilegítima. Provimento ao recurso de apelação da Caixa Econômica Federal, invertendo a condenação em honorários, acrescida de honorários recursais de dois por cento sobre o valor da condenação em primeiro grau, por não ter legitimidade passiva, reservando aos autores o uso das vias ordinárias, na Justiça Estadual, contra a construtora, querendo."(e-STJ Fl.478)
+Embargos de Declaração: opostos pelo recorrido, foram acolhidos.(e-STJ Fl.587)
+Recurso especial: alega violação dos arts. 422 do CC, 51, IV, do CDC, art. 927, IV do NCPC e da Súmula 308 do STJ.
+Sustenta que o consumidor que quitou integralmente o imóvel não pode ser prejudicado com a manutenção de hipoteca decorrente da relação da construtora com a instituição financeira.
+É o relatório. Decide-se.
+- Da aplicação da Súmula 308/STJ
+Nos termos da jurisprudência desta Corte, "a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel" (Súmula 308 do STJ).
+Acrescente-se que não altera este entendimento o fato de não ser regido o contrato pelas normas do Sistema Financeiro da Habitação, consoante decidiu a Terceira Turma por ocasião do julgamento do REsp 953.510/PR (Rel. Min. ARI PARGENDLER, DJ de 22/08/2008; AgInt no REsp n. 2.129.038/RJ, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024; AgInt nos EDcl no REsp n. 1.927.672/PB, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022; AgInt no REsp n. 1.702.163/PR, Quarta Turma, julgado em 15/10/2019, DJe de 6/11/2019; AgInt nos EDcl no AgInt no REsp n. 1.290.882/RJ, Quarta Turma, julgado em 14/8/2018, DJe de 23/8/2018).
+Contudo, o Tribunal de origem concluiu que não deveria ser aplicada a Súmula 308 do STJ à espécie porque o imóvel não fora adquirido pelo Sistema Financeiro de Habitação.
+Por essa razão, há de ser reformado o acórdão quanto ao ponto, embora já tenha sido decidido que "ainda que não se trate de imóvel adquirido no âmbito do SFH, é de ser reconhecida a ineficácia da hipoteca firmada entre a construtora e a instituição bancária, quando posterior à assinatura da promessa de compra e venda e não houver prova suficiente da ciência do gravame pelo terceiro adquirente, presumindo-se a sua boa-fé"(e-STJ Fl.454).
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE provimento para determinar a aplicação da Súmula 308 do STJ à espécie.
+Incabível a majoração de honorários, ante a ausência simultânea dos requisitos elencados pela Segunda Seção no julgamento do AgInt nos EREsp 1.539.725/DF, (julgado em 09/08/2017, DJe 19/10/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMUM PARA LIBERAÇÃO DE HIPOTECA. HIPOTECA. SFH. ADQUIRENTES
+1. Ação comum para liberação de hipoteca.
+2. A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel. (Súmula 308 do STJ).
+3. Recurso especial conhecido e provido.
