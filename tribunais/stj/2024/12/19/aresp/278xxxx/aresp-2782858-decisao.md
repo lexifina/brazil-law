@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo manejado por Maxwal - Rio Locações, Comércio e Serviços Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 608):
+Contrato administrativo. Equipamentos de informática. Prorrogação tácita. Impossibilidade. Apelação desprovida.
+1. Consoante o art. 57, § 3º. da Lei 8.666/93, é vedada a estipulação de contratos administrativos por prazo indeterminado.
+2. Pretende a apelante obter o pagamento por locação de equipamentos de informática por prazo superior ao estipulado.
+3. A pretensão da apelante não encontra lastro legal ou contratual. Com efeito, não há prova de que tenha sido negada a restituição das máquinas após o fim do contrato.
+4. No mais, não demonstrou ter havido substituição ou manutenção dos equipamentos, sendo certo que equipamentos de informática se tornam rapidamente obsoletos.
+5. Apelação a que se nega provimento.
+Opostos embargos declaratórios, foram rejeitados (fls. 657/661).
+Nas razões do recurso especial, a parte recorrente aponta violação aos seguintes dispositivos legais:
+(I) 489, § 1º, IV, 1.022, II, parágrafo único, II, do CPC, na medida em que o acórdão impugnado apresentou omissões não supridas;
+(II) 10 do CPC, "Ao decidir com base em questões não levantadas pelo ESTADO e a respeito das quais a MAXWAL sequer se manifestou (art. 57, §§ 2º e 3º, da Lei de Licitações e suposta obsolescência dos equipamentos de informática locados)" (fl. 681);
+(III) 54 e 59, parágrafo único, da Lei n. 8.666/93; 569, II e IV, e 574 do CC; sustentando que "a administração pública deve ressarcir os serviços prestados sem cobertura contratual, sem limitação no tempo, ainda que não se considere o caráter contratual da obrigação, mas extracontratual, decorrente da vedação ao enriquecimento sem causa e do confisco de bens do particular" (fl. 684);
+(IV) 389, 402, 422, 475 e 884, caput, do CC, uma vez que "deve o ESTADO ressarcir a MAXWAL pelas perdas e danos experimentados,  sendo certo que os referidos dispositivos legais  vedam o enriquecimento sem causa da parte" (fl. 684).
+Foram ofertadas contrarrazões às fls. 713/724.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, IV, 1.022, II, parágrafo único, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, a matéria pertinente aos arts. 10 do CPC, 389, 402, 422, 475 e 884, caput, do CC não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+Adiante, tem-se que a Corte a quo entendeu que a parte agravante "(..) não comprovou a apelante ter buscado a retomada dos bens com o fim do prazo do contrato e tampouco que a permanência dos equipamentos sob a posse do apelado tenha se dado por sua culpa" (fl. 612), concluindo que "(..) não há prova do adimplemento da obrigação de prestar assistência técnica aos equipamentos" (fl. 612). A propósito, transcreve-se o seguinte excerto do acórdão recorrido (fls. 611/613):
+Realizada a licitação, na qual a apelante saiu-se como vencedora, entabularam as partes contrato de prestação de serviços de locação de equipamentos de informática, em 26/07/2012, com vigência de 12 meses a contar da referida data.
+O aludido contrato foi prorrogado por três vezes, findando-se a vigência em 02.08.2016.
+Alega a apelante que, não restituídos os equipamentos locados, ocorreu a prorrogação tácita do contrato, fazendo jus ao pagamento das prestações vencidas durante todo o período em que permaneceram sob a posse do apelado.
+No entanto, não lhe assiste razão.
+Com efeito, a Lei nº. 8.666/93 veda expressamente a estipulação de contratos administrativos por prazo indeterminado, como pretende a apelante.
+É o que decorre do art. 57, §§ 2º. e 3º. da Lei de Licitações:
+ ..
+No caso vertente, não comprovou a apelante ter buscado a retomada dos bens com o fim do prazo do contrato e tampouco que a permanência dos equipamentos sob a posse do apelado tenha se dado por sua culpa. Com efeito, cumpria à apelante proceder à retirada dos equipamentos, não cabendo imputar-se ao apelado a responsabilidade pelo pagamento após o fim do prazo contratual se não há prova de que efetivamente negou a devolução.
+Outrossim, como ressaltado na r. sentença, não há prova do adimplemento da obrigação de prestar assistência técnica aos equipamentos.
+Não se olvide que tais equipamentos foram supostamente entregues entre 2010 e 2014 e que, por se tratar de equipamentos de informática, precisam de constante manutenção e que rapidamente se tornam obsoletos. Não demonstrou a apelante que permaneceram tais equipamentos em uso por prazo superior ao acordado e tampouco que tenha ficado impossibilitada de retirar tais equipamentos diante de risco da interrupção das atividades.
+Assim, não logrou a apelante fazer prova do fato constitutivo do seu direito na forma do art. 373, I, CPC.
+Sua pretensão, insiste-se, não conta com lastro legal ou contratual.
+Por onde se analise, o apelo não prospera.
+Por tais fundamentos, conhece-se da apelação e nega-se-lhe provimento. Ante a regra do art. 85, § 11, CPC, condena-se a apelante ao pagamento de honorários advocatícios recursais no percentual de 10% do valor dos honorários advocatícios já fixados na r. sentença.
+Diante desse contexto, é certo que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse passo:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ATO ILÍCITO PRATICADO PELO ESTADO. INDENIZAÇÃO EM DANOS MORAIS E MATERIAIS. CONDENAÇÃO. SÚMULA 7/STJ. DANOS MORAIS. CORREÇÃO DO MONTANTE FIXADO SOMENTE QUANDO IRRISÓRIO OU EXORBITANTE. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DA PRETENSÃO INDENIZATÓRIA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. PROVIMENTO NEGADO.
+1. O pleito de correção do montante estabelecido a título de danos morais somente pode ser atendido pelo Superior Tribunal de Justiça quando tratar-se de quantia irrisória ou exorbitante.
+2. O Tribunal de origem, ao fixar o quantum objeto de irresignação do agravante, o fez em observância às peculiaridades do caso concreto, de maneira arrazoada e fundamentada. Desta feita, alterar tal entendimento implicaria o revolvimento ao acervo fático-probatório, conduta vedada a esta corte em recurso especial.
+3. Ainda que o recurso especial não careça de prequestionamento quanto à suscitada violação ao art. 373, I, do Código de Processo Civil (CPC), a corte de origem alegou que as agravadas se desincumbiram do ônus probatório quanto aos fatos constitutivos do direito perseguido. Incidência da súmula 7 do Superior Tribunal de Justiça (STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.141.972/PI, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CADÁVER ENCONTRADO NO RESERVATÓRIO DE ÁGUA. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA NÃO COMPROVAÇÃO DA EXISTÊNCIA DE DANO MORAL INDENIZÁVEL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação Ordinária, ajuizada pela parte agravante em face da Companhia de Saneamento de Minas Gerais - COPASA, a fim de obter indenização por danos morais, decorrentes da existência de cadáver humano em reservatório de água sob a responsabilidade da ré. O acórdão do Tribunal de origem manteve a sentença, que julgara improcedente o pedido.
+III. O Tribunal a quo, à luz das provas dos autos, concluiu que ser "imprescindível a comprovação do fato constitutivo do direito invocado (art. 373, I, do CPC), ou seja, do abalo psicológico suficiente ao ressarcimento respectivo", para a reparação a título individual, e que "não logrou êxito a recorrente em demonstrar o sofrimento dela, específico, subjetivo, próprio e exacerbado em decorrência dos fatos. Ao contrário, limitou-se às alegações genéricas de que foram acometidos de grande sentimento de nojo, asco e repugnância". Consignou o acórdão recorrido, ademais, que "os exames foram realizados em diversos pontos da cidade, bem ainda em datas distintas, sendo que as amostras permitiram estudo técnico cronológico que concluiu pela ótima qualidade do produto, e afastou hipótese de contaminação humana pela ingestão". Desse modo, concluiu a Corte de origem que, "ao que se vislumbra da realidade dos autos, ausente a comprovação do dano pessoal alegado, sendo a repulsa coletiva - e aqui não se faz juízo do mérito referente à eventual lesão moral social - fator que não induz a configuração do dano moral individual". Tal entendimento não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 1.544.731/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 10/3/2020, DJe de 17/3/2020.)
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
