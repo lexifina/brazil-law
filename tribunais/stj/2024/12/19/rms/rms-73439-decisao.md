@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Thúlio de Oliveira Alves contra o acórdão de fls. 536/571, proferido à unanimidade pela 6.ª Câmara Cível do Tribunal de Justiça do Estado de Goiás, resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA CIVIL. SEGURANÇA DENEGADA.
+1. AGRAVO INTERNO CONTRA DECISÃO DENEGATÓRIA DA LIMINAR. PREJUDICADO.
+- Tendo em vista que o mandado de segurança já foi devidamente processado, estando apto para ser apreciado, julgo prejudicado o agravo interno interposto contra decisão denegatória do pleito liminar.
+2. ILEGITIMIDADE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO AFASTADA.
+- O Secretário de Estado da Administração de Goiás é autoridade legítima a figurar no polo passivo do mandamus, haja vista ser o responsável, juntamente com o Instituto AOCP pela elaboração e condução do certame.
+3. ANULAÇÃO DA ETAPA RECURSAL DO EXAME PSICOTÉCNICO E DO ATO INQUINADO COATOR. PREJUDICIALIDADE. AUSÊNCIA DO DIREITO LÍQUIDO E CERTO.
+- Imperativo reconhecer que o ato inquinado coator, consistente no edital que confirmou o afastamento do impetrante do certame, na fase de avaliação psicológica, publicado em 21/6/2023, foi tornado sem efeito o que, por sua vez, acarreta no reconhecimento da prejudicialidade do writ em apreço, o que induz a denegação da segurança requestada, vez que extirpada a existência jurídica do ato apontado como coator a eventual direito líquido e certo do impetrante.
+- Ad argumentandum, tendo em vista que os primeiros resultados dos recursos administrativos interpostos contra a avaliação psicológica foram anulados, sendo constituídas novas bancas de correção dos testes psicológicos e de análise dos recursos administrativos e que, nesta nova avaliação, publicada em 13/7/2023, o impetrante foi novamente contraindicado, não há se falar em direito líquido e certo a ser tutelado, uma vez que tal deliberação se revestiu de legalidade.
+- Isso porque, além da impossibilidade do Judiciário se imiscuir no mérito administrativo, a legalidade do exame psicotécnico foi consentânea com os 03 (três) pressupostos elencados pelo STJ em questões deste jaez: a) previsão legal; b) cientificidade e objetividade dos critérios adotados; e c) possibilidade de revisão do resultado obtido pelo candidato.
+- Neste cenário, sob qualquer ângulo que se analise a questão em debate, não há se falar em direito líquido e certo a ser tutelado, sendo a denegação da segurança medida que se impõe.
+SEGURANÇA DENEGADA. AGRAVO INTERNO PREJUDICADO. (fls. 563/564).
+Colhe-se dos autos que o Impetrante, considerado não recomendado em etapa de avaliação psicológica no certame para provimento de cargos de Escrivão Policial de 3.ª Classe dos quadros da Polícia Civil do Estado de Goiás, impetrou o subjacente writ no qual apontou, como ato coator, o laudo de avaliação psicológica a que foi submetido e que justificou sua eliminação do concurso.
+O Tribunal de Justiça, como se pode aferir da ementa supra, denegou a ordem, firme em que o desfazimento do primeiro laudo (ato coator) teria prejudicado o objeto da impetração.
+Nas razões recursais, fls. 582/610, o Autor alega que "ao contrário do que fora exposto na manifestação da banca e acolhida em decisão que denegou a ordem, não houve uma nova avaliação, sendo que a banca aproveitou o mesmo teste realizado com a fraude e incluiu o nome de outros profissionais, o que não de denota legal para tanto" (sic. fl. 592), e que "qualquer ato posterior a fraude não poderá ser aproveitado, devendo uma nova avaliação ser realizada ao contrário de uma nova entrega de laudos, como assim o fez a banca, com a suposta participação de outros psicólogos, sem a participação destes apontados em primeira avaliação" (fl. 592). Quanto ao mais, tece considerações sobre anunciada fraude no concurso e falhas de ordem formal no processo.
+Recurso sem contrarrazões, conforme certidão de fls. 671.
+O Ministério Público Federal, pela Subprocurador-Geral da República Edson Oliveira de Almeida, manifestou-se pelo não provimento do apelo, consoante o parecer de fls. 685/690, principalmente porque:
+12. Com efeito, a mencionada irregularidade relacionada à presença de profissional alheio ao concurso foi identificada especificamente na fase de correção e análise dos recursos administrativos contra o resultado preliminar da avaliação psicológica. Sanado esse problema, por meio da anulação e a nova correção/análise de recursos, inexiste motivo para invalidar a etapa anterior, regularmente realizada por profissionais distintos, que consistiu na aplicação dos exames.
+13. De outro giro, com relação à alegada falta de requisitos objetivos para a correção do exame psicotécnico, note-se que o recorrente limita-se a afirmar, de maneira imprecisa, que sua reprovação se deu com base em critérios subjetivos, carentes de fundamentação. Contudo, não cuidou de comprovar, sequer de especificar, de que maneira tal fato ocorreu, o que inviabiliza o conhecimento dessa irresignação, especialmente em sede mandado de segurança. (fls. 689/690).
+Recurso tempestivo.
+Representação regular (fl. 83).
+Benefício de gratuidade de justiça deferido pela Corte de origem (fls. 667).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Na hipótese que ora se apresenta ao exame desta Corte superior, observo que a Corte estadual denegou a ordem, à unanimidade, por um único fundamento, bem destacado na própria ementa do aresto combatido:
+3. ANULAÇÃO DA ETAPA RECURSAL DO EXAME PSICOTÉCNICO E DO ATO INQUINADO COATOR. PREJUDICIALIDADE. AUSÊNCIA DO DIREITO LÍQUIDO E CERTO.
+- Imperativo reconhecer que o ato inquinado coator, consistente no edital que confirmou o afastamento do impetrante do certame, na fase de avaliação psicológica, publicado em 21/6/2023, foi tornado sem efeito o que, por sua vez, acarreta no reconhecimento da prejudicialidade do writ em apreço, o que induz a denegação da segurança requestada, vez que extirpada a existência jurídica do ato apontado como coator a eventual direito líquido e certo do impetrante.
+Nas razões recursais, contudo, o recorrente, passando ao largo deste único fundamento, insiste nas mesmas teses veiculadas pela inicial (quanto à nulidade do exame) e rebate os pontos que foram acrescidos pela Corte Estadual como simples obiter dicta ("Ad argumentandum") e que não constituem, por isso mesmo, a razão de decidir adotada pelo colegiado.
+Nesse contexto, o apelo não merece ir para além do juízo de admissibilidade recursal, por falta de combate específico e integral ao fundamento do aresto impugnado, como prescreve o diploma processual vigente.
+Com efeito, essa irregularidade, porque violadora do princípio da dialeticidade, impede, só por si, o conhecimento do recurso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetração.
+4. Agravo interno não provido.
+(AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/10/2021)
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário, porquanto não houve impugnação específica e integral dos reais fundamentos do acórdão recorrido.
+Publique-se.
+EMENTA
