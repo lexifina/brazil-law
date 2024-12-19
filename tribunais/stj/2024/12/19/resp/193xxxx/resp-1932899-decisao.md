@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 323):
+DIREITO CÍVEL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. COMPENSAÇÃO DE VALORES ENTRE AS PARTES. DECISÃO JUDICIAL TRANSITADA EM JULGADO QUE ESTABELECEU OS VALORES A SEREM COMPENSADOS. COISA JULGADA. IMPOSSIBILIDADE DE ALTERAÇÃO. 1. O cumprimento de sentença deve observar exatamente o que restou decidido na fase de conhecimento, sob pena de ofensa à coisa julgada. 2. Recurso de agravo de instrumento conhecido, e, no mérito, parcialmente provido.
+Os embargos de declaração foram rejeitados, com imposição de multa (e-STJ fls. 407/411).
+Em suas razões (e-STJ fls. 429/484), a parte recorrente aponta o seguinte:
+1º) contrariedade e negativa de vigência aos institutos jurídicos da coisa julgada (art. 5º, inc. XXXVI, CF, e art. 6º, § 3º, da Lei de Introdução, e art. 502, CPC), da preclusão (art. 223, do CPC) e da compensação (art. 525, inc. VII, CPC, e arts. 368 e 369, do Código Civil)  isso pelo recusar direito de compensação expressamente reconhecido em coisa julgada constituída na sentença liquidanda e recusar direito de compensação expressamente reconhecido em coisa julgada constituída em acórdão anterior do Tribunal havido já na fase de liquidação;
+2º) nulidade absoluta do v. acórdão de integração por recusa indevida de prestação jurisdicional e, por ai, contrariedade e negativa de vigência aos arts. 1.022, 1.025 e 1.026, § 2º, do Código de Processo Civil, e bem assim por divergência com a Súmula 98, do STJ  isso pelo indevidamente recusar declaração em relação a argumentos juridicamente relevantes à cifração e decifração da lide e por, demais disso, enquanto questão surgida no próprio acórdão de integração, impor multa manifestamente inaplicável à hipótese de embargos de declaração formulados com propósito de aperfeiçoar o prequestionamento.
+Contrarrazões apresentadas (e-STJ fls. 512/519).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, a questão sobre a inexistência de coisa julgada em relação ao direito de compensação dos valores relativos ao BNDS, CDC e LEASING foi expressamente manifestada pelo Tribunal de origem (e-STJ fls. 327/328 - grifei):
+No caso dos Autos, cinge-se a controvérsia a respeito dos valores que devem ser compensados com o crédito exequendo.
+Pelo que se verifica, em sede de conhecimento, o douto Magistrado condenou os Agravante ao pagamento de R$ 1.024.584,24 (um milhão cento e vinte e quatro mil quinhentos e oitenta e quatro reais e vinte e quatro centavos), descontados os valores que tenham quitado nos processos de parcelamento perante Receita Federal e o Instituto Nacional do Seguro Social - INSS, bem como eventuais dívidas trabalhistas cujos fatos geradores tenham ocorrido antes do dia 30 de abril de 2004.
+Ainda, condenou os Agravantes a pagar R$ 1.180.555,48 (um milhão cento oitenta mil quinhentos e cinquenta e cinco reais e quarenta e oito centavos), correspondentes as prestações vencidas do período de 15 de dezembro de 2005 a 15 de abril de 2007.
+Em sede de cumprimento de sentença, o douto Magistrado proferiu determinação judicial pela qual rejeitou a impugnação ao cumprimento de sentença.
+No julgamento do agravo de instrumento n. 1.688.775-1, a colenda 7ª (Sétima) Câmara Cível do Tribunal de Justiça do Estado do Paraná reformou a determinação judicial, e determinou o processamento e julgamento da impugnação ao cumprimento de sentença (seq. 113.2).
+Nesse contexto, há de se ressaltar que os Agravantes fundamentaram as razões do recurso a fim de assegurar o processamento e o julgamento da impugnação ao cumprimento de sentença n. 0012322-95.2005.8.16.0021, pelo que não se determinou que a compensação abrangeria todos os créditos apresentados pelos Agravantes.
+ ..
+Nesse contexto, tem-se que a coisa julgada atribui à decisão judicial caráter imutável, de modo a proporcionar ao jurisdicionado segurança (jurídica) de que o seu direito não poderá ser contestado e alterado.
+In casu, verifica-se que na determinação judicial, aqui, objurgada, entendeu-se que não podem sem abatidos os valores relativos ao BNDS, CDC e LEASING, como também valores cujo fatos geradores tenham ocorrido antes de 30 de abril de 2004 (seq. 157.1).
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+No mais, "derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, quanto ao reconhecimento de ofensa à coisa julgada, ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial ante o óbice estabelecido pela Súmula 7 do STJ" (AgInt no REsp n. 1.671.773/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/9/2024, DJe de 25/9/2024).
+Por fim, os "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório, não cabendo a aplicação da multa prevista no art. 1.026, § 2º, do CPC" (AgInt no REsp n. 2.085.055/SE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/11/2024, DJe de 6/11/2024).
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se.
+ EMENTA
