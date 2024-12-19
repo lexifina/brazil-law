@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, rejeitar os embargos de declaraÃ§Ã o, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BRADESCO AUTO/RE COMPANHIA DE SEGUROS, contra acórdão da Quarta Turma assim ementado (e-STJ fl. 2.593):
+PROCESSO CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REVISÃO DO JULGADO.
+REEXAME DE MATÉRIA FÁTICA DA LIDE E DE CLÁUSULAS CONTRATUAIS PACTUADAS ENTRE AS PARTES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+A parte embargante afirma que houve omissão na decisão embargada. Sustenta que "É imperioso ressaltar que no recurso especial foi demonstrado que o acórdão do Tribunal de origem violou os arts. 319 e 320 do CC, ao determinar o pagamento da complementação da indenização securitária por dano decorrente de incêndio, ignorando a transação efetuada entre as partes, na qual a seguradora realizou o pagamento de R$ 248.928,32 relativo a indenização securitária, objeto dos presentes autos. Convém pontuar que é patente e incontroverso nos autos que as partes firmaram acordo e deram quitação geral e completa das pretensões envolvendo a indenização securitária, exaurindo por completo a pretensão da parte recorrida" (fl.2.620).
+Alega que, "Como se verifica, é patente e notório que o acórdão combatido não respeitou os limites da avença firmada, conferindo indenização superior aos limites previamente estabelecidos, e provoca o enriquecimento ilícito da parte recorrida, violando as garantias contidas nos arts. 319, 320, 757, 760 e 781 do CC" (fl. 2.621).
+Foi apresentada a impugnação pela parte embargada (fls. 2.637-2.638 eSTJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Não se verifica a ocorrência de omissão, contradição, nem obscuridade.
+O julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pela parte embargante, circunstância que não eiva o acórdão de nulidade. A matéria ora suscitada já foi objeto de apreciação, tendo sido expostos os fundamentos que levaram ao entendimento de que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de negativa de prestação jurisdicional.
+O Tribunal de origem enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Com efeito, o Colegiado estadual, ao julgar a causa, deixou consignados os seguintes fundamentos (fls. 2.082-2.083):
+Da análise dos elementos constantes do caderno probatório, depreende-se ser evidente a ocorrência de danos sofridos pelo Apelante, em razão do incêndio narrado na peça de ingresso, incontroverso nos autos.
+Importante gizar que quando da ocorrência de um dano material, duas subespécies de prejuízos surgem via de consequência desta situação, os danos emergentes, ou seja, aquele efetivamente causado, decorrente da diminuição patrimonial sofrida pela vítima; e os lucros cessantes, o que esta deixou de ganhar em razão do ato ilícito.
+Os documentos ora juntados, laudo de avaliação (fls. 75) e orçamento da arquiteta Andréia Rolin (fls. 91-92) em que pese sejam documentos unilaterais, foram firmados por profissionais das respectivas áreas, inexistindo qualquer motivo para desabonar os prejuízos ali constatados.
+Merece, portanto, acolhida esse pedido, impondo-se ao Apelado o pagamento de indenização pelo valor dos prejuízos experimentados pelo Apelante, cuja extensão haverá de ser apurada - mediante produção de novas provas, com oportunidade do exercício do contraditório - em procedimento de liquidação de sentença.
+No mais, verifico que o Tribunal de origem concluiu o seguinte no acórdão proferido em embargos declaratórios (fls. 2.140-2.142):
+Com efeito, de acordo com o artigo 757, caput, do Código Civil, pelo contrato de seguro, o segurador se obriga a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados. Desta forma, os riscos assumidos pelo segurador são exclusivamente os assinalados na apólice, dentro dos limites por ela fixados, não se admitindo a interpretação extensiva, nem analógica.
+Outrossim, restando comprovado o prejuízo sofrido, o valor da indenização deve corresponder ao montante máximo previsto nas apólices para o evento danoso incêndio.
+Logo, como os autores já receberam administrativamente a quantia de R$ 248.928,32, é devida uma complementação no montante máximo previsto nas apólices, corrigido monetariamente pelo IGP-M, desde o pagamento parcial (setembro de 2009), e acrescido dos juros moratórios de 1% ao mês, a contar da citação, por se tratar de relação contratual.
+Ante o exposto, acolho parcialmente os embargos declaratórios opostos por Supermercado São Lucas, para o fim de reconhecer que os valores devidos são àqueles limitados nas apólices, descontando-se o valor já pago administrativamente, conforme acima explicitado.
+Nesse contexto, observo que o Colegiado local reconheceu que "os valores devidos são àqueles limitados nas apólices, descontando-se o valor já pago administrativamente, conforme acima explicitado" (fl. 2.142).
+Assim, a alteração dessas premissas firmadas pela Corte estadual esbarraria nas vedações de nova incursão nas cláusulas contratuais pactuadas entre as partes e de reexame do conjunto fático-probatório por esta via do recurso especial, o que é inviável, diante da incidência das Súmulas 5 e 7 desta Corte, no caso.
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes do art. 1029, § 1º, do Código de Processo Civil/2015. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Nesses termos, ainda que a parte embargante discorde do acórdão, não pode considerá-lo omisso.
+Verifico, assim, que a parte embargante pretende, sob o pretexto de existência de omissão e contradição, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente a prequestionar os pontos levantados pela parte. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SERVIDORA PÚBLICA REMOVIDA CONTRA A SUA VONTADE. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA INOCORRÊNCIA DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO PELAS MESMAS RAZÕES QUE INVIABILIZARAM O RECURSO PELA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+l. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 19/12/2018.
+II - O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, pela inexistência da alegada violação ao art. 1.022 do CPC/2015, pela incidência da Súmula 7/STJ e pelo não cabimento do Recurso Especial, com base no dissídio jurisprudencial (alínea c), em face das mesmas razões que inviabilizaram o conhecimento do apelo pela alínea a do permissivo constitucional.
+III - Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV - Embargos de Declaração rejeitados.
+(EDcl no Aglnt nos EDcl no AREsp 1321153/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 13/5/2019.)
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
