@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por GEOVANE DOS SANTOS PAULO, com fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 0000619-60.2017.8.26.0542, assim ementado (fl. 448):
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTE - CORRÉUS QUE EXECUTARAM O ILÍCITO COMÉRCIO NA VIA PÚBLICA E FORAM VISUALIZADOS À DISTÂNCIA POR GUARDAS MUNICIPAIS - FLAGRANTE LÍDIMO, ESTRIBADO EM OCORRÊNCIA DE CRIME PERMANENTE QUE PODERIA SER EXECUTADO POR QUALQUER DO POVO - GUARDA MUNICIPAL, ADEMAIS, QUE INTEGRA OS QUADROS DA SEGURANÇA PÚBLICA, CONFORME ORIENTAÇÃO DO STF - CORRÉU GEOVANE QUE OSTENTA MAUS ANTECEDENTES - VETORIAL NEGATIVA QUE IMPLICA NA CASSAÇÃO DA MITIGADORA DO PARÁGRAFO QUARTO DO TIPO PENAL, RECRUDESCIMENTO DA PENA-BASE, AGRAVAMENTO DO REGIME PRISIONAL E ARREDAMENTO DA PENA ALTERNATIVA - PRELIMINARES REPELIDAS, RECURSOS DEFENSIVOS DESPROVIDOS E PROVIDO O APELO MINISTERIAL.
+O Juízo de primeiro grau condenou o acusado como incurso no art. 33, caput e § 4º, da Lei n. 11.343/2006 a 01 (um) ano e 08 (oito) meses de reclusão, em regime inicial aberto, substituída por prestações pecuniária e de serviços comunitários, além de 166 (cento e sessenta e seis) dias-multa (fl. 332-335).
+O Tribunal de origem negou provimento ao apelo defensivo e proveu o ministerial a fim de, reconhecidos os maus antecedentes e decotada a minorante do tráfico privilegiado, fixar a pena em 05 (cinco) aos e 10 (dez) meses de reclusão, em regime inicial fechado, além de 583 (quinhentos e oitenta e três) dias-multa (fls. 447-455).
+Nas razões do recurso especial, a Defesa alega violação dos arts. 8º, item 2, do Pacto de São José da Costa Rica, 33, § 4º, da Lei n. 11.343/2006 e 33, §§ 2º e 3º, do Código Penal.
+Assevera que não há comprovação nos autos de que a condenação imposta ao recorrente em outro feito criminal já tenha transitado em julgado, motivo pelo qual dever ser considerada sua primariedade. Nesse contexto, não se justificam (i) a majoração da pena-base por maus antecedentes, (ii) o afastamento da minorante do tráfico privilegiado e, ainda, (iii) a fixação de regime mais gravoso que o previsto pelo quantum da pena imposta.
+Contrarrazões apresentadas às fls. 484-493.
+O recurso especial foi admitido (fls. 496-497).
+Parecer do Ministério Público Federal pelo não provimento do recurso especial (fls. 507-511).
+É o relatório.
+DECIDO.
+Presentes os requisitos de admissibilidade, conheço do recurso especial.
+O cerne da pretensão recursal é o afastamento da valoração negativa dos antecedentes do acusado e, como consectário lógico, o restabelecimento da pena imposta na sentença. Quanto ao ponto, o acórdão recorrido está assim fundamentado (fl. 454):
+GEOVANE tem maus antecedentes (ação penal nº 0005511-35.2017.8.26.0405 fls. 276) e, nessa linha, justificável a calibragem da pena-base na fração de 1/6 (um sexto), atingindo 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 583 (quinhentos e oitenta e três) dias-multa, no valor unitário mínimo. No ponto, trata-se de expiação por fato anterior (18/02/2017), com trânsito em julgado para o réu posterior aos fatos aqui tratados, o que tipifica desabonadores antecedentes (e não recidiva).
+Como se vê, o julgado faz expressa referência à certidão de antecedentes constante à fl. 276. Ocorre que, como bem observou o magistrado de primeiro grau (fl. 333), da aludida certidão, não consta o eventual trânsito em julgado da sentença penal condenatória proferida Ação Penal n. 0005511-35.2017.8.26.0405.
+Assim, ausente comprovação nos autos de trânsito em julgado da sentença condenatória precedente ou mesmo do momento de sua ocorrência, afigura-se inidônea a fundamentação para o incremento da pena-base e a fixação de regime mais gravoso que o previsto em lei para o quantum da pena imposto.
+Essa realidade fático-processual faz incidir a Súmula n. 444/STJ que dispõe ser vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. PENAL. TRÁFICO DE DROGAS. NULIDADE. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVAS. DISCRICIONARIEDADE. LEGALIDADE. DOSIMETRIA. PENA-BASE. MINORANTE. REINCIDÊNCIA. AGRAVO PARCIALMENTE PROVIDO.
+1. Ao magistrado é dada a liberdade na dinâmica de valoração das provas, desde que o faça de forma motivada, como ocorreu no presente caso.
+2. No caso em tela, o julgador deixou bem registrado que uma prova era impossível e a outra irrelevante.
+3. "Nos termos da Súmula 444 do STJ, "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base." Nesse passo, a existência de processos em curso não permite a valoração negativa da personalidade do agente" (AgRg no HC n. 462.299/PE, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/4/2021, DJe 26/4/2021)" (AgRg no AREsp n. 2.510.209/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/6/2024, DJe de 10/6/2024).
+4. A reincidência constitui óbice absoluto à aplicação da minorante do tráfico dito privilegiado, ex vi da literalidade do § 4º da Lei n. 11.343/2006, que disciplina a referida redutora.
+5. Agravo regimental parcialmente provido para reduzir a pena-base ao mínimo legal. (AgRg no HC 711372/SP, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 09/09/2024, DJe de 12/09/2024, grifamos)
+Do mesmo modo, quanto à aplicação da redutora atinente ao tráfico privilegiado, a ausência de comprovação adequada do anterior trânsito em julgado faz incidir o comando do Tema Repetitivo n. 1.139/STJ, que dispõe ser vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06.
+Incide, portanto, a Súmula n. 568/ STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante  o  exposto,  dou provimento ao recurso especial a fim de restabelecer a sentença de fls. 332-335.
+Publique-se  e  intimem-se.
+ EMENTA
