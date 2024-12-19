@@ -1,0 +1,63 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO PM/MA. TESTE DE APTIDÃO FÍSICA. INAPTO. AUSÊNCIA DE ILEGALIDADE. RECURSO CONHECIDO E NÃO PROVIDO.
+
+    1. Do cotejo das provas trazidas aos autos, reputo que o magistrado singular acertadamente decidiu pela ausência de vício ou ilegalidade na eliminação do Autor/Apelante em razão de não terem sido atendidos os requisitos exigidos na realização do Teste de Aptidão física.
+
+    2. Nesse toar, não encontra-se colacionado aos autos prova apta a ensejar conclusão diversa daquela definida pela banca examinadora, ou seja, considerar inapto o candidato, isso porque a ficha do Teste de Aptidão Física acostada sob o id. 20209057, demonstra que o Autor no “teste de meio sugado” não conseguiu atingir o número mínimo de repetições exigidas (12 repetições), sendo realizada 09 (nove) repetições na primeira tentativa e 11 (onze) repetições na segunda tentativa.
+
+    3. Ademais, no teste de corrida de doze minutos, o candidato deveria percorrer uma distância mínima de 2.100 (dois mil e cem) metros, todavia, o Autor/Apelante somente percorreu o equivalente a 1.850 (mil, oitocentos e cinquenta) metros, ou seja, distância inferior a exigida para considerá-lo apto.
+
+    4. Assim, não verifico relevância na produção de prova pericial, bem como na necessidade de acesso a vídeos dos exames, tendo em vista a prova documental trazida pela banca examinadora. Não há insurgência quanto ao fato de não ter atingido valor mínimo exigido na realização do TAF, mas mera pretensão de desqualificar a prova trazida com argumento de que os fiscais do exame não possuem qualificação técnica para avaliar os candidatos.
+
+    5. Apelação conhecida e não provida.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXXV e LV, e 37 da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas editalícias, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte. Nesse sentido:
+
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. SÚMULAS Nº 279 E Nº 454 DO STF. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, o reexame da interpretação conferida a cláusulas de edital de concurso público e a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+
+    2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+
+    3. Ausente condenação anterior em honorários, inaplicável o art. 85, § 11, do CPC/2015.
+
+    4. Agravo interno conhecido e não provido”. (ARE 1.037.228-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 20/09/2017)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CUMPRIMENTO DOS REQUISITOS EXIGIDOS PARA A POSSE DO CANDIDATO NO CARGO. NECESSIDADE DE ANÁLISE DE PROVAS E CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos e de cláusulas editalícias, o que atrai a incidência das Súmulas 279 e 454 do STF. Precedentes.
+
+    II – Agravo regimental a que se nega provimento”. (ARE 821.913-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 28/8/2014)
+
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 757.852-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 16/09/2013)
+
+    Além disso, o Supremo Tribunal Federal, examinando o Recurso Extraordinário com Agravo nº 639228 segundo a sistemática da repercussão geral (Tema nº 424), decidiu que: não há repercussão geral (questão infraconstitucional) - Trânsito em Julgado Em 31/08/2011.
+
+    Ante o exposto, no ponto relativo ao enquadramento, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal). Quanto ao mais, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 19 de dezembro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
