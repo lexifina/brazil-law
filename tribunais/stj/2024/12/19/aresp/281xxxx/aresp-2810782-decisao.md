@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/08/2024.
+Concluso ao gabinete em: 13/12/2024.
+Ação: revisional cumulada com repetição de indébito, ajuizada por APARECIDA DIAS PEREIRA DE FIGUEIREDO, em face de CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS.
+Sentença: julgou parcialmente procedentes os pedidos, para decretar a nulidade das cláusulas dos contratos celebrados entre os litigantes, na parte em que estabelecem as taxas de juros remuneratórios, determinando a aplicação, em substituição, da taxa média praticada pelo mercado financeiro à mesma época para a mesma modalidade de operação, bem como para condenar a agravante a restituir à agravada os valores por ela indevidamente pagos a título de juros remuneratórios acima da taxa média de mercado, condenando-a, ainda, ao pagamento das custas e dos honorários, os quais foram arbitrados em 12% do valor da condenação. (e-STJ fl. 300/304)
+Acórdão: rejeitando as preliminares arguidas negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível. Ação revisional. Contrato de empréstimo pessoal não consignado. Sentença de parcial procedência. Insurgência da instituição financeira.
+1) Alegada violação ao dever de fundamentação (Art. 489, § 1º, IV e VI, do CPC/15). Inadmissibilidade. Sentença que expôs, suficientemente, as razões para a procedência do pedido revisional, bem como está em consonância com o entendimento jurisprudencial desta Corte.
+2) Declarado cerceamento de defesa. Não ocorrência. Fatos discutidos em juízo que podem ser suficientemente esclarecidos por meio de mera consulta ao instrumento de contrato. Possibilidade de julgamento antecipado do feito (Art. 355, I, CPC).
+3) Apontada inépcia da inicial. Violação ao art. 330, § 2º, do CPC/15. Inviabilidade. Petição inicial que delimita, com clareza e objetividade, as pretensões autorais voltadas à revisão dos juros remuneratórios. Cálculos acostados.
+4) Pretendida manutenção dos juros remuneratórios contratados. Não acolhimento. Abusividade constatada. Percentual que extrapola o dobro da média de mercado praticada nos respectivos períodos. Sentença mantida. Ajuste da incidência dos consectários legais. Sucumbência recursal. Majoração dos honorários advocatícios.
+Recurso não provido." (e-STJ fl. 606/607)
+Embargos de declaração: opostos, pela agravante, foram rejeitados, (e-STJ fl. 636/639)
+Recurso especial: alega violação do art. 421, CC, bem como dissídio jurisprudencial, sustentando que: i) a Corte local invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na taxa média de mercado, sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão; e, ii) houve flagrante violação ao disposto no art. 421 do Código Civil, visto que a Corte local se pautou unicamente na taxa média de mercado, sem se atentar as peculiaridades do caso concreto, as particularidades das contratações firmadas entre as partes e principalmente desconsiderando os altos riscos assumidos pela recorrente, riscos estes que sabidamente não são assumidos pelas demais instituições financeiras, para invalidar um ato jurídico perfeito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que resulta clara a cobrança de juros remuneratórios em patamares abusivos, uma vez que, em todos os casos demonstrados, foram fixados em percentual muito superior ao dobro da média de mercado (5,1 vezes maior, 10,4 vezes maior, 11,6 vezes maior, 14,1 vezes maior, 12,1 vezes maior, 7,5 vezes maior, 9,6 vezes maior), além de que não há qualquer elemento de convicção suficiente a justificar a prática de juros remuneratórios em patamar tão acima do divulgado pelo Banco Central, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fl. 615) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação revisional cumulada com repetição de indébito.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido.
