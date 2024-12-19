@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRO SANTOS RIPPER da decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, que não admitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 0197170-15.2017.4.02.5101, assim ementado (fls. 692-693):
+TRIBUTÁRIO. APELAÇÃO. IMPOSTO DE RENDA. FATO GERADOR. CONTRATO DE ALIENAÇÃO. CLÁUSULA EARN OUT. GANHOS FUTUROS. INCIDÊNCIA DO ART. 43, DO CTN. GANHO DE CAPITAL. TRIBUTAÇÃO. MOMENTO DA DISPONIBILIDADE ECONÔMICA.
+1. Sentença que julgou improcedente o pedido que objetivava o reconhecimento do direito à aplicação da alíquota de 15%, relativo ao Imposto de Renda sobre ganho de capital, incidente sobre todos os recebimentos decorrentes da cláusula earnout do contrato de alienação de quotas da sociedade alienada datado de 07/08/2015, na forma da Lei nº 8.981/95, antes das alterações promovidas pela Lei nº 13.259/16.
+2. O Impetrante era sócio cotista da empresa alienada (BEMOBI). Em 07 de agosto de 2015, o Recorrente e os demais cotistas alienaram o seu controle societário para as empresas Opera Software Brasil Ltda. e Opera Mediaworks Ireland Limited, através do instrumento "Quota Purchase Agreement".
+3. A negociação em tela, foi realizada em 07/08/2015, tendo o subitem 1.2 (preço da compra) do contrato esclarecido como seria a forma de pagamento, que se daria nos seguintes termos: (ii) o valor (se houver) que cada Vendedor recebe de acordo com o Percentual de Participação do Vendedor dos pagamentos dos Ganhos Futuros Condicionados (se houver) de acordo com Cláusula (subitem) 1.4. O referido subitem, diz respeito ao pagamento de ganhos futuros condicionados ao desempenho da sociedade empresarial alienada (cláusula earn out), que se dará de forma parcelada.
+4. No momento da venda, parte do preço é certo e determinado, enquanto que a outra parte é postergada, pois, dependeria de condições futuras. Assim temos uma parte fixa e uma parte variável. Logo, a earn out é uma parte do preço que pode ser realizada em várias parcelas, vinculada ao cumprimento futuro de metas de desempenho.
+5. O fato gerador do Imposto de Renda é a aquisição de disponibilidade de renda ou provento (art. 43, CTN). Assim, ausente tal disponibilidade ao contribuinte, não há a ocorrência do fato gerador e, portanto, não existe a obrigação tributária relativa ao imposto.
+6. A incidência do Imposto de Renda sobre o ganho de capital, somente ocorrerá quando ocorrer a efetiva disponibilidade econômica para o alienante, o que no caso, somente ocorrerá com a efetiva disponibilidade de numerários. Pouco importa o nome dado a transação efetivada entre as partes, e, sim, o momento da disponibilidade econômica.
+7. A cláusula de pagamento em questão reflete uma condição suspensiva, não havendo a sua efetiva disponibilização de modo a caracterizar o fato gerador do Imposto de Renda.
+8. O fato gerador do Imposto de Renda é uma situação de fato, e não jurídica. Assim, aplica-se a regra do art. 116, I, do CTN, segundo a qual se considera ocorrido o fato gerador no momento em que se verifiquem as circunstâncias materiais necessárias a que produza os efeitos que normalmente lhe são próprios - os quais, tratando-se de pessoas físicas, mantêm estrita dependência com a efetiva aquisição da renda. Precedentes: STJ, REsp 1069372/RJ, Rel. Ministro CASTRO MEIRA, Segunda Turma, julgado em 07/10/2008, DJe 05/11/2008; TRF4, AG 5015145-03.2016.4.04.0000, Primeira Turma, Relator JORGE ANTONIO MAURIQUE, juntado aos autos em 16/06/2016.
+9. Nas alienações, como a ora analisada, o ganho de capital deve ser tributado no momento em que as parcelas são recebidas.
+10. Trata-se uma cláusula (earn out) de ganhos futuros, fato que por si só atrai a incidência do art. 43 do CTN.
+11. A nova legislação ao alterar as alíquotas do Imposto de Renda, não modificou qualquer critério para sua apuração, eis que este já estava previsto anteriormente, ou seja, que o Imposto de Renda é devido a partir de cada recebimento pelas alienações geradoras do ganho de capital (art. 21, de Lei nº 7.713/88).
+12. Trata-se de incidência de lei nova no momento da ocorrência de fato gerador futuro e não de aplicação de norma retroativa.
+13. Apelação desprovida.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 728-741).
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a parte ora agravante aponta, além de divergência jurisprudencial, ofensa aos arts. 9.º, 43, 105, 116, inciso I, e 144, todos do Código Tributário Nacional, 140 do Decreto n. 3.000/1999, 21 da Lei n. 7.713/1988, 21 da Lei n. 8.981/1995 e 1.022, inciso II, do CPC.
+Aduz que a Corte a quo não apreciou todos os argumentos suscitados na origem.
+Alega que "o fato gerador é a disponibilidade econômica, ou jurídica, o que ocorrer primeiro. No caso concreto, a disponibilidade jurídica nasce com o negócio entabulado em 2015 e não com o auferimento dos valores" (fl. 778).
+Argumenta que "a exigência do imposto surgiu em agosto de 2015, quando houve a disponibilidade jurídica decorrente da celebração do contrato de alienação de cotas sociais da BEMOBI com preço superior ao de aquisição pelo Recorrente e, por este motivo, a alteração legislativa posterior (Lei nº 13.259/16) não pode ser aplicada à hipótese" (fl. 779).
+Assinala que, "realizada a operação que repercute em ganho de capital, a sistemática e o cálculo do imposto fica consolidado naquele momento, devendo haver, no máximo, correção monetária em razão do lapso temporal entre o contratado e o pagamento do imposto, conforme recebimentos das prestações" (fl. 786).
+Contrarrazões às fls. 881-886.
+Não admitido o recurso pelo Tribunal de origem (fls. 890-895), seguiu-se o presente agravo em recurso especial (fls. 975-1008).
+É o relatório.
+Decido.
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elenca dos na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Ante o exposto, CONHEÇO do agravo para, nos termos do art. 253, inciso II, alínea d, do RISTJ, determinar sua autuação como recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos c onclusos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
