@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, rejeitar os embargos de declaraÃ§Ã o, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO  .  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  OBSCURIDADE.  CONTRADIÇÃO.  INEXISTÊNCIA.
+1.  Os  embargos  de  declaração  só  s e  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão,  não  servido  à  rediscussão  da  matéria  já  julgada  no  recurso.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SUPERMERCADO SÃO LUCAS LTDA - MICROEMPRESA, contra acórdão da Quarta Turma assim ementado (e-STJ fl. 2.600):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DO ENUNCIADO SUMULAR 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ.
+Precedentes.
+3. Agravo interno a que se nega provimento.
+A parte embargante afirma que houve omissão na decisão embargada. Sustenta que não se aplica a Súmula 7/STJ no caso. Argumenta que "Ocorre que a Embargante teve os seus pedidos principais atendidos, quais sejam, indenização pelo dano material e lucros cessantes, os quais se traduzem no importe de R$ 661.707,22, sucumbindo apenas quando aos danos morais, que se tratam de pedido acessório. Nesta esteira, não há que se falar em sucumbência recíproca, posto que devem as Embargadas ser condenadas ao pagamento integral dos honorários advocatícios" (fl. 2.612).
+Alega que, "Assim sendo, em razão de ter sido sagrada vencedora na maioria e principais matérias, não há razão para a Embargante arcar com o ônus da sucumbência, devendo tal ônus ser integralmente pago pela Embargadas" (fl. 2.613).
+Foram apresentadas as impugnações pelas partes embargadas (fls. 2.629-2.630 e 2.632-2.635 e-STJ), requerendo, "Diante do descabimento dos declaratórios e evidente intuito de reforma do julgado, requer seja aplicada multa do artigo 1.206, § 2º, do CPC" (fl. 2.630) e pedindo "a aplicação de multa em desfavor da parte embargante e no valor correspondente a 2% sobre o valor atualizado da causa (art. 1026, § 2º, do CPC)" (fl. 2.635).
+É o relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO  .  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  OBSCURIDADE.  CONTRADIÇÃO.  INEXISTÊNCIA.
+1.  Os  embargos  de  declaração  só  s e  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão,  não  servido  à  rediscussão  da  matéria  já  julgada  no  recurso.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não se verifica a ocorrência de omissão, contradição, nem obscuridade.
+O julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pela parte embargante, circunstância que não eiva o acórdão de nulidade. A matéria ora suscitada já foi objeto de apreciação, tendo sido expostos os fundamentos que levaram ao entendimento de que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de negativa de prestação jurisdicional.
+O Tribunal estadual enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+No mais, verifico que o Tribunal de origem concluiu o seguinte (fl. 2.085):
+Com a alteração da sentença, e consequente sucumbência parcial de cada litigante, redistribuo os respectivos ônus, condenando os litigantes ao pagamento proporcional de 50% das custas processuais e honorários advocatícios, estes fixados em 15% do valor da causa, nos termos do art. 85, § 2º, do CPC, já considerada a atuação em grau recursal.
+Além disso, o Colegiado estadual deixou registrado no acórdão proferido em embargos declaratórios o seguinte (fl. 2.142):
+Com relação aos honorários advocatícios, não vislumbro razões para modificação do julgado, haja vista a sucumbência parcial de cada litigante, a qual se reflete no número de pedidos providos e não providos e não na expressão econômica, razão pela qual fica mantido o acórdão embargado neste ponto.
+Nesse contexto, observo que o Colegiado local reconheceu a ocorrência de sucumbência recíproca na hipótese dos autos, considerando "a sucumbência parcial de cada litigante, a qual se reflete no número de pedidos providos e não providos" (fl. 2.142).
+Nesse sentido, a jurisprudência desta Corte proclama que a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame no âmbito do recurso especial, por envolver aspectos fáticos e probatórios. A propósito, vejam-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. PLANO DE SAÚDE. CONTRATO COLETIVO. REAJUSTE. ABUSIVIDADE. NÃO CONFIGURAÇÃO. SUCUMBÊNCIA RECÍPROCA. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. "É possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe de 10/6/2015).
+3. A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1915821/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO EM DOBRO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. TARIFA DE ÁGUA. CONSUMO MÍNIMO. CÁLCULO TARIFÁRIO INDEVIDO. REPETIÇÃO DO INDÉBITO. DANO MORAL. INEXISTÊNCIA.EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. AFASTAMENTO. SÚMULA N. 7 DO STJ. SUCUMBÊNCIA. SÚMULA N. 7 DO STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA.
+(..).
+V - No que diz respeito à verba honorária, melhor sorte não socorre ao recorrente, já que a jurisprudência do STJ é firme também sobre a incidência da Súmula n. 7/STJ no tocante à análise da sucumbência mínima ou recíproca. Nesse sentido, os seguintes precedentes: AgInt no AREsp n. 1.329.349/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe 26/8/2021 e AgInt no AREsp n. 1.883.184/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021.
+VI - O referido óbice também se aplica ao recurso interposto com base em divergência jurisprudencial.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1951180/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes do art. 1029, § 1º, do Código de Processo Civil/2015. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Nesses termos, ainda que a parte embargante discorde do acórdão, não pode considerá-lo omisso.
+Verifico, assim, que a parte embargante pretende, sob o pretexto de existência de omissão e contradição, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente a prequestionar os pontos levantados pela parte. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SERVIDORA PÚBLICA REMOVIDA CONTRA A SUA VONTADE. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA INOCORRÊNCIA DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO PELAS MESMAS RAZÕES QUE INVIABILIZARAM O RECURSO PELA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 19/12/2018.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, pela inexistência da alegada violação ao art. 1.022 do CPC/2015, pela incidência da Súmula 7/STJ e pelo não cabimento do Recurso Especial, com base no dissídio jurisprudencial (alínea c), em face das mesmas razões que inviabilizaram o conhecimento do apelo pela alínea a do permissivo constitucional.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.(EDcl no AgInt nos EDcl no AREsp 1321153/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 13/5/2019.)
+Em que pese o não provimento do recurso, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 18/12/2017).
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
