@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO no julgamento da Apelação Criminal n. 0000842-45.2015.4.03.6107.
+Depreende-se dos autos que o agravante foi condenado ao cumprimento da pena de 81 (oitenta e um) anos e 08 (oito) meses de reclusão, em regime inicial FECHADO, além do pagamento de 8.400 (oito mil e quatrocentos) dias-multa, cada qual no importe máximo de 05 (cinco) salários mínimos vigentes à época do delito, tendo em vista a prática, por quatro vezes, do crime de tráfico internacional de drogas (FATOS 1, 2, 4 e 5), tipificado no artigo 33, "caput", c/c art. 40, inciso I, da Lei Federal n. 11.343/2006, e por uma vez do crime de associação ao tráfico internacional de drogas, previsto no artigo 35, "caput", c/c art. 40, inciso I, da mesma Le;, todos cumulados na forma do artigo 69 do Código Penal (concurso material de infrações).
+O Tribunal de origem deu parcial provimento ao recurso da defesa para absolver o réu dos delitos previstos no art. 33, caput, c/c art. 40, I, da Lei 11.343/2006 (Fatos 1, 2, 4 e 5), com fundamento no art. 386, VII, do Código de Processo Penal, bem como para reduzir a pena-base do delito de associação para o tráfico internacional de drogas, fixando a pena total em 10 (dez) anos, 01 (um) mês e 10 (dez) dias de reclusão, além do pagamento de 1.400 (um mil e quatrocentos) dias-multa, no importe máximo de 05 (cinco) vezes o valor do salário mínimo vigente à época do delito, a ser atualizado até o dia do efetivo pagamento, pela prática do crime previsto no art. 35, c. c. art. 40, I, da Lei n. 11.343/06.
+Embargos de declaração opostos e rejeitados (e-STJ fls. 11482/11494).
+A defesa interpôs então recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, no qual alegou violação aos arts. 35 da Lei 11.343/06; 155 e 386 do Código de Processo Penal; 59 e 68 do Código Penal, 42 da Lei de Drogas, e 120 do Código de Processo Penal (e-STJ fls. 11514/11556).
+Argumenta pela ausência dos elementos constitutivos do tipo de associação, requerendo a absolvição. Alega a necessidade subsidiária de remodelagem da pena e pugna pela restituição de bens.
+Contrarrazões apresentadas (e-STJ fls. 11847/11959).
+Inadmitido o apelo extremo (e-STJ fls. 12325/12334), ante os óbices das súmulas 7/STJ, 83/STJ, 211/STJ e 282/STF.
+O recurso subiu a esta Corte por meio do presente agravo (e-STJ fls. 12386/12398).
+O Ministério Público Federal apresentou parecer pelo não provimento do agravo (e-STJ fls. 12757/12770).
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o recurso, tendo em vista que o pedido esbarra nos óbices da Súmula n. 7/STJ, 83/STJ e 211/STJ e 282/STF.
+Verifica-se que a defesa não argumentou especificamente de que forma não
+demandaria incursão no acervo fático-probatório dos autos a revisão das premissas fixadas pelo Tribunal de origem, limitando-se a reproduzir as razões do recurso especial de forma genérica.
+No caso, deveria ele demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão de origem, o que não aconteceu.
+Ademais, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+No presente caso, o recorrente limitou-se a alegar que a interpretação destoa no caso concreto.
+Por fim, no que tange aos óbices relacionados às súmulas 211/STJ e 282/STF, apenas argumentou que a análise requerida pela defesa não atrai tais vedações sumulares.
+Desse modo, não havendo impugnação específica de todos os fundamentos da decisão questionada, deve ser aplicado o teor da Súmula n. 182 deste Tribunal Superior.
+É digno de nota que não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A ausência de efetiva impugnação dos fundamentos da decisão que negou provimento ao agravo em recurso especial, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte, obstando-se o provimento do agravo.
+2. Na decisão de inadmissão do recurso especial foi consignado que "o acórdão está fundamentado e contém os motivos pelos quais reconheceu a minorante do tráfico privilegiado em favor da recorrida, conforme se lê do seguinte excerto do seu voto condutor", e o agravante não impugnou o respectivo fundamento.
+3. Ademais, " p ara infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese.
+Precedentes." (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.441.051/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 5/3/2024, DJe de 11/3/2024.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. PLEITO PARA INTIMAÇÃO QUANTO À DATA DE JULGAMENTO, COM O FIM DE APRESENTAR SUSTENTAÇÃO ORAL. INCABÍVEL MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULAS N.os 7 e 83 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. PEDIDO PARA CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 258 do Regimento Interno deste Superior Tribunal de Justiça, o agravo regimental relativo à matéria penal em geral será apresentado em mesa, para que o órgão colegiado sobre ela se pronuncie, confirmando-a ou reformando-a. Além disso, o art. 159, inciso IV, do RISTJ também afasta a realização de sustentação oral no julgamento do agravo regimental, salvo expressa disposição legal em contrário, o que não constitui a hipótese dos autos. Precedente da Terceira Seção.
+2. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à aplicação da Súmula 284 do Supremo Tribunal Federal, e à incidência das Súmulas n. 7 e 83 do Superior Tribunal de Justiça, atraindo, à espécie, a aplicação da Súmula n. 182/STJ.
+3. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+4. O comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+5. No tocante à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, nas razões do agravo em recurso especial, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte.
+6. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade.
+7. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 1 777813/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/3/2021, DJe 25/3/2021.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
