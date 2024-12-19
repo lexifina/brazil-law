@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Conforme entendimento da Segunda Seção do STJ, consolidado no IAC 1, "incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002". E, ainda, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)".
+2. Nos termos da jurisprudência do STJ, "a promoção de diligências infrutíferas não tem o condão de suspender ou interromper o prazo prescricional, tornando a dívida imprescritível. Precedentes" (AgInt no REsp 1.986.517/PR, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022).
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por SANTA RITA COMERCIAL LTDA contra decisão monocrática da Presidência do STJ (e-STJ, fls. 2.804/2.805), que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 182/STJ, uma vez que não houve impugnação específica dos fundamentos da decisão de admissibilidade.
+Nas razões do agravo interno (e-STJ, fls. 2.808/2.822), a agravante alega que houve impugnação dos fundamentos da decisão de admissibilidade.
+A parte agravada deixou transcorrer in albis o prazo para impugnação (fls. 2.827/2.844).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Conforme entendimento da Segunda Seção do STJ, consolidado no IAC 1, "incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002". E, ainda, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)".
+2. Nos termos da jurisprudência do STJ, "a promoção de diligências infrutíferas não tem o condão de suspender ou interromper o prazo prescricional, tornando a dívida imprescritível. Precedentes" (AgInt no REsp 1.986.517/PR, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022).
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+À vista das razões apresentadas no agravo interno, reconsidero a decisão da Presidência desta Corte, tendo em vista a impugnação de todos os óbices atestados na decisão de admissibilidade proferida pelo eg. TJSP.
+Passa-se, assim, a novo exame do recurso.
+Trata-se de agravo de SANTA RITA COMERCIAL LTDA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO Execução de título extrajudicial Alegação de prescrição intercorrente Decisão que rejeitou a prescrição - Ocorrência Aplicação das teses firmadas pelo STJ em Incidente de Assunção de Competência 001 (REsp 1.604.412/SC) Suspensão da execução por período superior a 3 anos (art. 206, §3º, VIII, do CC e art. 18, I, da Lei 5474/68) Prescrição intercorrente consumada Recurso provido." (e-STJ, fl. 2.611)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 2.630/2.634).
+Nas razões do recurso especial (e-STJ, fls. 2.637/2.666), a recorrente alegou violação dos arts. 240, § 1º, do CPC/2015; 202, I, 206, § 5º, I, do CC, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que: (i) é necessário requerer a aplicação de multa por litigância de má-fé, uma vez que os recorridos estão preenchendo todos os incisos do artigo 80 do CPC/2015; (ii) "ainda não havia sido transcorrido o triênio legal para o perfazimento do lapso prescricional, quando do desarquivamento dos autos" (fl. 2.649); (iii) "não tendo havido intimação pessoal da parte exequente para dar andamento ao feito, não há falar em prescrição" (fl. 2.649); (iv) "não se estabelece a prescrição intercorrente nos casos em que a execução deixou de ter andamento por falta de bens penhoráveis" (fl. 2.652).
+In casu, o Tribunal de origem, ao analisar a controvérsia, consignou que as teses no sentido de incidência da regra de transição prevista no artigo 1.056 do CPC/2015 e necessidade prévia de intimação do credor para fluência do prazo prescricional foram superadas, pois aplicáveis apenas em processos que estavam suspensos na data da entrada em vigor no Código de Processo Civil de 2015. Além disso, o processo ficou paralisado por cinco anos após o desarquivamento, sem que houvesse o pedido de diligências pelo credor exequente.
+É o que se extrai do trecho do acórdão a seguir (fls. 2.615/2.619):
+"As alegações trazidas direcionam-se à extinção da execução, por caracterizada a prescrição intercorrente, tendo em vista o lapso temporal em que o processo ficou suspenso.
+Reza o art. 206 do Código Civil:
+"Prescreve:
+(..) § 3 o Em três anos:
+(..) VIII - a pretensão para haver o pagamento de título de crédito, a contar do vencimento, ressalvadas as disposições de lei especial;".
+O art. 18, I, da Lei 5474/68, prevê que a execução amparada em duplicatas mercantis possui o prazo prescricional de 3 anos.
+A prescrição intercorrente ou a prescrição superveniente é aquela que ocorre após o ajuizamento da pretensão de direito material e caracteriza-se pela inércia do titular do direito. Em tal modalidade de prescrição, necessário examinar a conduta das partes para verificar quem deu causa à paralisação do feito.
+A jurisprudência do STJ reconhece a prescrição intercorrente quando existir desídia do credor, quando intimado a diligenciar permanece inerte.
+Neste sentido:
+"A prescrição intercorrente pressupõe desídia do credor que, intimado a diligenciar, se mantém inerte, hipótese, segundo as instâncias ordinárias, não verificada no caso dos autos."(AgRg no ARESp 144978/RJ, Rel. Ministra Maria Isabel Gallotti, 4ª T., DJ 04/06/2013).
+"Na linha de entendimento da Corte, estando suspensa a execução, em razão da ausência de bens penhoráveis, não corre o prazo prescricional, ainda que se trate de prescrição intercorrente." (REsp 280.873/PR, Rel. Min. Sálvio de Figueiredo Teixeira, 4ª T., DJU 28/05/2001).
+Tem-se, ainda, julgado do STJ firmando entendimento no sentido de que o prazo prescricional, em feitos cuja suspensão do andamento ocorreu sob a égide do CPC de 1973, inicia-se com o término do prazo de suspensão fixado ou, inexistindo fixação, após o transcurso de um ano.
+ ..
+Pacificado, portanto, o entendimento no sentido da possibilidade de aplicação da prescrição intercorrente na vigência do CPC/1973, cujo termo inicial tem início após o prazo de suspensão fixado pelo juízo ou, se não houver tal fixação, do decurso de um ano, conforme aplicação analógica do art. 40 da Lei 6.830/1980.
+Importante registrar ainda que, com o entendimento firmado atualmente no STJ, no incidente de assunção de competência (RE 1.604.412-SC), restaram superadas as teses no sentido da incidência da regra de transição prevista no art. 1.056 do CPC/2015 (aplicável apenas em processos que se encontravam suspensos na data da entrada em vigor no novo codex) e da necessidade de prévia intimação do credor para fluência do prazo prescricional, a qual visa apenas assegurar o contraditório.
+A respeito da prévia intimação do credor para fluência do prazo prescricional, destaca-se trecho do voto do I. Ministro Marco Aurélio Bellizze, no referido IAC:
+"Diante da distinção ontológica entre a prescrição intercorrente e o abandono da causa, nota-se que a prescrição intercorrente independe de intimação para dar andamento ao processo. Esta intimação prevista no art. 267, § 1º, do CPC/1973 era exigida para o fim exclusivo de caracterizar comportamento processual desidioso, dando ensejo à punição processual cominada na forma de extinção da demanda sem resolução de mérito. Porém, mesmo sendo reconhecível de ofício, a prescrição não é indiferente à necessidade do prévio contraditório." (..) "Nessa ordem de ideias, a viabilização do contraditório, ampliada pelo art. 10 do novo CPC que impõe sua observância mesmo para a decisão de matérias conhecíveis de ofício - ,concretiza a atuação leal do Poder Judiciário, corolária da boa-fé processual hoje expressamente prevista no art. 5º do novo CPC e imposta a todos aqueles que no processo." (..)
+"Destarte, para o eventual reconhecimento de ofício da prescrição intercorrente, em ambos os textos legais tanto na LEF como no novo CPC prestigiou-se a abertura do prévio contraditório, não para que a parte dê andamento ao processo, mas para assegurar-lhe oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos da prescrição. Portanto, frisa-se, não para promover, extemporaneamente, o andamento do processo. (..)".
+A execução encontra-se fundada em duplicatas mercantis. Tratando- se de título de crédito, considera-se o disposto no art. 206, §3º, VIII, do CC, sendo trienal o prazo prescricional.
+Na hipótese, após infrutíferas tentativas de localização de bens penhoráveis, a execução foi suspensa em 16/12/2009 (fl. 645), encaminhada ao arquivo em 02/03/2010 (fl. 647).
+Dessa forma, passados cinco anos, 25/05/2015, data em que o credor requereu o desarquivamento dos autos, consumou-se a prescrição.
+Ressalta-se a não incidência, no caso, do início da contagem do prazo prescricional depois de um ano da vigência do CPC/2015, nos termos do art. 1.056, uma vez que o início do prazo prescricional ocorreu sob a égide da legislação processual anterior.
+Nesse contexto, ante a inércia do credor exequente agravado, constata-se a consumação da prescrição, sendo o caso de extinção da execução, pela consumação da prescrição intercorrente, com base no art. 924, V, do CPC.
+ ..
+De se ressaltar que a agravada foi intimada para se manifestar sobre a alegada prescrição, respeitando-se o contraditório."
+Sobre o tema, nos termos da mais recente jurisprudência desta Corte, a promoção de diligências infrutíferas não tem o condão de suspender ou interromper o prazo prescricional, sob pena de tornar a dívida imprescritível.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DILIGÊNCIAS INFRUTÍFERAS. NÃO SUSPENSÃO DO PRAZO PRESCRICIONAL, SOB PENA DE IMPRESCRITIBILIDADE DA DÍVIDA.
+1. A promoção de diligências infrutíferas não tem o condão de suspender ou interromper o prazo prescricional, tornando a dívida imprescritível.
+Precedentes.
+2. No caso, o prazo prescricional é trienal. Não obstante, mesmo após efetuadas diversas diligências ao longo de 20 anos, a dívida ainda não foi satisfeita.
+3. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que houver jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III e IV, do Código de Processo Civil de 2015).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.986.517/PR, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE.
+DILIGÊNCIAS INFRUTÍFERAS. SÚMULA 314/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Esta Corte possui entendimento de que "Não havendo a citação de qualquer devedor por qualquer meio válido e/ou não sendo encontrados bens sobre os quais possa recair a penhora (o que permitiria o fim da inércia processual), inicia-se automaticamente o procedimento previsto no art. 40 da Lei n. 6.830/80, e respectivo prazo, ao fim do qual restará prescrito o crédito fiscal. Esse o teor da Súmula n. 314/STJ: "Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição qüinqüenal intercorrente"." (REsp 1.340.553/RS, Rel Min. Mauro Campbell Marques, Primeira Seção, DJe de 16/10/2018, representativo de controvérsia). Logo, o requerimento de diligências infrutíferas não tem o condão de interromper ou suspender a prescrição intercorrente.
+3. Agravo interno não provido.
+(AgInt no REsp 1.987.286/MG, relator Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 8/8/2022, DJe de 10/8/2022)
+Dessa forma, verifica-se que o acórdão recorrido julgou em conformidade com entendimento desta Corte, incidindo a Súmula 83/STJ.
+Ante o exposto, dou provimento ao agravo interno, a fim de reconsiderar a decisão de fls. 2.804/2.805, para conhecer do agravo e não conhecer do recurso especial.
+É como voto.
