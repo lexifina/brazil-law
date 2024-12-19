@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE CEDRO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, que inadmitiu o recurso especial manejado em face de acórdão assim ementado (fls. 25-26):
+EMENTA. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CÁLCULOS APRESENTADOS PELAS AUTORAS/AGRAVADAS E HOMOLOGADOS PELO JUÍZO A QUO EM DISSONÂNCIA COM O COMANDO SENTENCIAL DE MÉRITO. JUROS DE MORA QUE DEVEM SER ADEQUADOS. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM ATENÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. DECISÃO MANTIDA NESTA PARTE. AGRAVO DE INSTRUMENTO A QUE SE DÁ PARCIAL PROVIMENTO, PARA DETERMINAR QUE OS CÁLCULOS REFERENTES AOS JUROS DE MORA SEJAM REFEITOS ADOTANDO- SE O ÍNDICE PREVISTO NO COMANDO SENTENCIAL DE MÉRITO. À UNANIMIDADE DE VOTOS.
+Os embargos de declaração opostos foram rejeitados (fls. 48-54).
+Nas razões do recurso especial (fls. 64-73), interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante aponta violação dos arts. 85, § 2º, e 489, § 1º, incisos I, II e III, do Código de Processo Civil, sustentando que:
+ ..  observa-se que a decisão recorrida não foi fundamentada, já que não apresentou as razões para fixação dos referidos honorários, de modo que se demostra cabível a sua reforma, tendo em vista a violação do disposto no art. 489, §1º, incisos I, II e III, do CPC/15.
+ ..
+ ..  a manutenção do pagamento dos honorários advocatícios sob o patamar acima mencionado termina por violar, de forma patente, o art. 489 § 1º, inciso I, II e III, do CPC, além de violar também o artigo 85, §2º do Código de Processo Civil.
+Demonstra-se, portanto, a evidente violação aos artigos acima mencionados uma vez que, ao manter a fixação dos honorários advocatícios, a decisão foi desarrazoada, e desproporcional em relação ao percentual fixado, considerando o valor da causa que é elevado, e não levando em consideração os critérios estabelecidos pelo Código de Processo Civil, para o seu justo arbitramento.
+A jurisprudência desse tribunal é pacifica no sentido de que sendo o valor da causa elevado a fixação dos honorários deve se dar por arbitramento para evitar enriquecimento sem causa do advogado.
+É notório, portanto, que houve no presente caso a supervalorização da atuação singela do agente auxiliar da justiça, o que jamais pode acontecer, principalmente em se tratando a parte vencida da Fazenda Pública, uma vez que a manutenção da referida condenação gerará enriquecimento ilícito do causídico da parte adversa, em detrimento dos cofres públicos.
+Ao final, requer o provimento do recurso especial para que seja reduzido o percentual fixado a título de honorários advocatícios ou fixados com base na equidade.
+Sem contrarrazões (fl. 79), o recurso foi inadmitido na origem (fls. 80-84).
+Apresentado agravo em recurso especial às fls. 86-94.
+Sem contraminuta (fl. 99).
+É o relatório.
+Decido.
+Preenchidos os pressupostos para o conhecimento do agravo, prossegue-se na análise do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, o acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 489 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+No que diz respeito aos honorários advocatícios, o Tribunal de origem assim dispôs (fl. 24; sem grifos no original):
+No que concerne aos honorários advocatícios, tenho que os mesmos foram arbitrados dentro dos critérios da proporcionalidade e razoabilidade, não havendo o que reformar na decisão agravada nesse ponto.
+Nos termos da pacífica jurisprudência deste Sodalício, " a  pretensão de redução do percentual adotado na sentença a título de honorários advocatícios demanda o reexame fático-probatório dos autos, encontrando óbice na Súmula nº 7/STJ" (AgInt no AREsp n. 2.206.758/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+Com idêntica conclusão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022, AMBOS DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. COBRANÇA DE MULTA PELO DESCUMPRIMENTO PARCIAL DO CONTRATO. REFORMA DO JULGADO QUE DEMANDARIA A ANÁLISE DE CLÁUSULAS CONTRATUAIS E O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. HONORÁRIOS DE SUCUMBÊNCIA. REVISÃO DO PERCENTUAL APLICADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+ ..
+3. "É assente no STJ que a modificação do valor da verba honorária fixado pelas instâncias de origem esbarra no óbice da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja Recurso Especial"), o qual somente é relativizado em situações excepcionais, que se configuram quando os honorários são estabelecidos em montantes irrisórios ou exorbitantes, que não é o caso dos autos" (AgInt no AREsp n. 2.430.361/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 2.582.951/MS, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/11/2024, DJe 18/11/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PRÉVIA E INTEGRAL. LIQUIDAÇÃO. APURAÇÃO POR MEIO DE CÁLCULO ATUARIAL. COMPENSAÇÃO. POSSIBILIDADE. PRESERVAÇÃO DO SALÁRIO DE PARTICIPAÇÃO. CÁLCULO ALTERAÇÃO. SÚMULAS 5 E 7/STJ. VIOLAÇÃO A DISPOSITIVOS LEGAIS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. Modificar o entendimento do Tribunal local (acerca do percentual fixado como honorários advocatícios e da distribuição da sucumbência) exigiria reexame de matéria fático-probatória, também inviável devido ao óbice da Súmula 7/STJ.
+6. Agravo interno desprovido. (AgInt no REsp n. 2.155.885/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+Desse modo, os argumentos recursais somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a este Tribunal, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7 do STJ.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado , respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL. REDUÇÃO. ALEGADA VIOLAÇÃO DO ART. 489 DO CPC. INEXISTÊNCIA. ACÓRDÃO FUNDAMENTADO. VERBA ADVOCATÍCIA. REVISÃO. INVIABILIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
