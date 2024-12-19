@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de reclamação ajuizada por ILDO SEVERINO VIEIRA e OUTRA contra decisão do Tribunal de Justiça de Minas Gerais proferida nos autos da Apelação n. 0489404-83.2009.8.13.0344, bem como contra decisão proferida no REsp n. 1.954.694/SP.
+Sustenta a parte reclamante que o julgamento do REsp n. 1.954.694/SP foi no sentido da impossibilidade de se admitir o recurso especial sem que haja nele a indicação do permissivo constitucional que o embasa.
+Em razão de tal óbice, ficou mantido o acórdão da 10ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, "perpetuando uma afronta à uniformidade jurisprudencial e aos precedentes obrigatórios desta Corte mas, contrariando as Súmulas 84 e 375 do STJ, que protegem terceiros adquirentes de boa-fé e asseguram a posse legítima, mesmo em ausência de registro".
+Argumenta que o entendo do Tribunal de origem, confirmado no REsp n. 1.954.694/SP, fere precedentes do STJ e afronta os princípios da segurança jurídica, boa-fé objetiva e proteção ao ato jurídico perfeito.
+Defende que a reclamação é o instrumento adequado para a correção da referida situação e passa a desenvolver a defesa de mérito da questão posta nos autos daquele recurso especial, para concluir, inclusive, pela violação dos arts. 493 e 933 do Código de Processo Civil.
+Por fim, afirma o seguinte:
+No presente caso, não houve a devida aplicação desse entendimento. Ao decidir com base na alegada diferença entre as fazendas mencionadas no contrato e na matrícula (Fazenda Rec reio e Fazenda Bom Sucesso), o julgador considerou um fato superveniente que não foi previam ente comunicado às partes, desrespeitando o que preconizam os artigos 493 e 933 do CPC, o que configura grave violação ao contraditório e à ampla defesa, um a vez que os reclamantes não tiveram oportunidade de apresentar documentos ou esclarecimentos que poderiam demonstrar que ambas as fazendas se tratam do mesmo imóvel, fato amplamente conhecido na região, bem com o realizou um julgamento extra petita tendo em vista que momento algum esse fato esteve disposto no decorrer processual.
+Sendo assim , a decisão extrapolou os limites da demanda, tratando de um aspecto que não foi suscitado pela parte contrária e que poderia ter sido sanado c om a simples intimação para manifestação das partes. Tal postura vai de desencontro ao entendimento do próprio ST J, que preza pela análise criteriosa dos fatos apresentados no início da demanda, sem alteração substancial dos elementos da lide ao longo do processo. A ausência de aplicação do entendimento do R Esp n.º 1.727.069/SP, demonstra a necessidade da presente Reclamação ser provida a fim de respeitar as decisões da corte.
+É o relatório. Decido.
+O processamento da reclamação pressupõe a existência de um comando positivo do STJ cuja eficácia deva ser assegurada, protegida e conservada (Rcl n. 2.784/SP, de minha relatoria, Segunda Seção, julgado em 13/5/2009, DJe de 22/5/2009).
+Assim, nos termos dos arts. 105, I, f, da Constituição Federal, 988, II, do CPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal, ou quando as decisões do STJ não estiverem sendo cumpridas por quem de direito.
+Com esse norte hermenêutico, a presente reclamação deve ser rejeitada.
+Ademais, a reclamação não tem cabimento como sucedâneo recursal, sendo essa a clara pretensão manifestada pelo reclamante.
+Inexiste na espécie hipótese legal de cabimento da presente reclamação, sendo de rigor o indeferimento liminar.
+Ante o exposto, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se.
+EMENTA
