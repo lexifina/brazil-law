@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RAFAEL PEREIRA GONCALVES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 anos e 4 meses de reclusão, em regime semiaberto, além do pagamento de 10 dias-multra, como incurso no art. 180 do Código Penal.
+A defesa interpôs recuso de apelação perante o Tribunal de origem, que deu parcial provimento ao recurso, para reduzir a pena do paciente, nos termos do acórdão que recebeu a seguinte ementa:
+"EMENTA: APELAÇÃO CRIMINAL RECEPTAÇÃO SIMPLES. DESCLASSIFICAÇÃO PARA O DELITO DE RECEPTAÇÃO CULPOSA. INADMISSIBILIDADE. REDUÇÃO DA PENA. CABIMENTO. OFERECIMENTO DE ANPP. INVIABILIDADE.
+1) Impõe-se referendar o édito condenatório quando o substrato probatório harmônico amealhadoaos autos, composto pelos elementos informativos e, posteriormente, jurisdicionalizados, demonstra, de forma clara, a materialidade e a autoria do crime de receptação simples, bem como o dolo específico do agente, não sobrando espaço para o pronunciamento desclassificatório.
+2) Constatado equívoco quanto à análise dos antecedentes criminais do apelante, necessária a reforma da sentença penal a fim de que seja considerada neutra a referida modeladora.
+3) O Acordo de Não Persecução Penal (ANPP) poderá ser aplicado aos fatos anteriores à vigência da Lei 13.964/2019, dada a retroatividadeda lei mais benéfica. Todavia, no caso em análise, impossível retroagir em razão da prolação da sentença condenatória, porquanto evidente o confronto entre a atual fase do processo e a própria natureza jurídica do instituto (despenalizar). RECURSO CONHECIDO E PARCIAL PARCIALMENTE PROVIDO. SANÇÃO CORPÓREA REDUZIDA." (e-STJ, fls. 15-22)
+Neste writ, a defesa alega, em síntese, que a existência de sentença condenatória não impede a propositura de acordo de não persecução penal. Assevera que o acordo de não persecução penal é um poder-dever do Ministério Público e que, no caso, o paciente preenche todos os reqisitos legais para a sua concessão. Entende que o acordo deve ser deve ser realizado de forma retroativa, pois ainda não ocorreu o trânsito em julgado da ação penal. Por outro lado, aponta ilegalidade na substituição da pena por duas restritivas de direitos, considerando que a pena aplicada pelo Tribuna de origem permaneceu em 1 ano de reclusão.
+Requer a concessão da ordem para que seja anulado o acórdão proferido em sede de apelação, determinando-se a remessa dos autos ao Ministério Público para que seja avaliada a aplicação do acordo de não persecução penal nos termos previstos no artigo 28-A do Código de Processo Penal. Alternativamente, pugna pela concessão da ordem para que a pena privativa de liberdade seja substituída por apenas uma pena restritiva de direitos.
+Às fls. 482-486, deferi a ordem, de ofício, para determinar a remessa dos autos ao Ministério Público oficiante junto ao STJ, para que se manifestasse sobre a possibilidade de oferecimento do ANPP.
+A manifestação foi juntada às fls. 490-494, no sentido do indeferimento do acordo de não persecução penal.
+É o relatório.
+Decido.
+Considerando o não oferecimento de acordo de não persecução penal, passo ao exame do pedido de substituição da pena privativa de liberdade por apenas uma restritiva de direitos.
+Nesse aspecto, o acórdão impugnado, ao reduzir a pena do paciente para 1 ano de reclusão, manteve a substituição da pena privativa de direitos por duas restritivas de direitos, o que não se coaduna com o § 2º do art. 44 do Código Penal.
+A jurisprudência desta Corte Superior, por sua vez, assim como o dispositivo legal, é clara no sentido de que a substituição, no caso de pena inferior ou igual a um ano, pode ser por multa ou uma pena restritiva de direitos:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. ESCOLHA DO MODO DE APLICAÇÃO. ART. 44, § 2º, DO CÓDIGO PENAL CP. DISCRICIONARIEDADE DO JULGADOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão referente ao oferecimento de acordo de não persecução penal não foi analisada no acórdão atacado, sendo que este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+2. O art. 44, § 2º, do Código Penal dispõe que, "na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos".
+Nessa toada, este Superior Tribunal de Justiça STJ tem entendido que fixada a pena corporal nos patamares delineados no art. 44, § 2º, do Código Penal, compete ao julgador a escolha fundamentada do modo de aplicação da benesse legal. Precedentes.
+3. Agravo regimental desprovido." (AgRg no HC 646.217/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/10/2021, DJe 03/11/2021);
+"RECURSO ESPECIAL. PENAL. FURTO SIMPLES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. EXIGÊNCIA DE FUNDAMENTAÇÃO PARA A ESCOLHA DA SANÇÃO SUBSTITUTIVA. CONVERSÃO POR MULTA. POSSIBILIDADE. PENA INFERIOR A UM ANO E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS.
+1. Este Superior Tribunal de Justiça assentou sua jurisprudência no sentido de que a substituição da pena privativa de liberdade igual ou inferior a 1 (um) ano deve acompanhar a literalidade da disposição normativa contida na primeira parte do parágrafo 2º do art. 44 do Código Penal, ou seja, a substituição deve se dar por multa ou por uma pena restritiva de direitos.
+(..)
+4. Recurso provido." (REsp 1.546.553/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/10/2015, DJe 23/10/2015)
+Assim, tratando-se de condenação inferior a um ano, deve o juízo da execução adequar a pena restritiva de direitos ao previsto no art. 44, § 2º, do Código Penal.
+Ante o exposto, não conheço do habeas corpus e concedo a ordem, de ofício, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
