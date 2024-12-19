@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO MARANHÃO com fundamento na alínea "a" do permissivo constitucional contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado (e-STJ fl. 48):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+I - Ao rejeitar a impugnação apresentada pelo Estado do Maranhão, todas as questões arguidas pelo ora agravante já foram objeto de debate e rechaçadas nos autos da Ação Coletiva nº 28553-84.2012.8.10.0001 transitada em julgado, não comportando neste momento processual a rediscussão do julgado.
+II - Ressalte-se que, embora o agravante afirme que em razão da inexigibilidade do título executivo inclusive ajuizou a Ação Rescisória n.º 0814178-67.2020.8.10.0000, a liminar nela pleiteada foi indeferida, de modo que não há que se falar em suspensão de todas as execuções individuais referentes ao referido título Coletivo.
+III - Agravo de instrumento desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas suas razões, a parte recorrente alega violação dos arts. 485, IV, 489, § 1º, IV, 493, 505, I, 535, VI, 969, 1.022, parágrafo único, II, do CPC/2015, do art. 97 da CF e da Súmula Vinculante 10 do STF, sustentando, além da negativa de prestação jurisdicional, que: a) o título executivo está com a exigibilidade suspensa em razão de liminar deferida em ação rescisória; b) houve a incorporação do índice em face da edição de lei reestruturadora da carreira (com a perda superveniente da eficácia da decisão que determinou a implantação do índice); c) não observada a reserva de plenário; d) não há violação à coisa julgada por se tratar de relação de trato sucessivo.
+Requer, ao final, a atribuição de efeito suspensivo ao recurso.
+Após contrarrazões, o recurso foi admitido.
+Passo a decidir.
+Quanto à negativa de prestação jurisdicional, esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a parte recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas, sem indicar em que aspectos residiriam as omissões. Essa circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes AgInt no AREsp 1.245.152/PE, rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 08/10/2018; REsp 1.627.076/SP, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 14/08/2018; AgInt no AREsp 1.134.984/MG, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 06/03/2018; e AgInt no REsp 1.720.264/MG, rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 21/09/2018.
+No tocante ao art. 97 da Constituição Federal, não compete ao STJ analisar a matéria em sede de recurso especial, sob pena de usurpação de competência do STF.
+Quanto às demais alegações, verifica-se que os mencionados dispositivos legais não foram prequestionados e que os embargos de declaração apresentados não cumpriram com a finalidade de suprir essa omissão. Nessa hipótese, devem incidir os enunciados das Súmulas 211 do STJ e 282 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. FRAUDE DE TERCEIRO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. SÚMULAS 282/STF E 211/STJ. 3. ART. 70, III, DO CPC/1973. DENUNCIAÇÃO DA LIDE. FALTA DE OBRIGATORIEDADE NO CASO. SÚMULAS 7 E 83/STJ. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. CARACTERIZAÇÃO DO DANO MORAL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ocorre violação ao art. 535 do CPC/1973 quando o julgador decide a lide, como no caso examinado, de forma fundamentada, indicando os motivos de seu convencimento, ainda que o resultado seja contrário ao esperado pela parte.
+2. Não se conhece de recurso especial se, mesmo opostos embargos de declaração, não ocorreu o prequestionamento dos preceitos legais ditos violados. Incidência das Súmulas 282 do STF e 211 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 894.587/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 29/08/2016)
+É certo que o Código de Processo Civil/2015 trouxe nova disciplina acerca do prequestionamento. Em seu bojo, inovou o legislador ao introduzir o art. 1.025 do CPC/2015, que consagrou o chamado "prequestionamento ficto", ao prescrever, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017; e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 27/06/2017, DJe 30/06/2017).
+No caso dos autos, a parte recorrente não atendeu à exigência, já que indicou a preliminar de negativa de prestação jurisdicional desprovida de fundamentação.
+Ademais, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Ante o exposto, nos termos do art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Fica PREJUDICADO o pedido de atribuição de efeito suspensivo.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
