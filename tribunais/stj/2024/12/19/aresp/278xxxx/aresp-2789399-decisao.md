@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  ausência  de  demonstração  da  alegada  vulneração  à  lei  federal  (e-STJ  fls.  341/342).
+O  acórdão  recorrido  encontra-se  assim  ementado  (e-STJ  fl.  245):
+Apelação cível. Rescisão contratual e reintegração de posse. CDHU. Inadimplemento incontroverso. Alegação de usucapião como defesa. Inadmissibilidade, em razão da natureza de bem público do imóvel. Precedentes desta Corte. Sentença mantida. Recurso improvido.
+Nas  razões  do  recurso  especial  (e-STJ  fls.  565/571),  interposto  com  fundamento  no  art.  105,  III,  "a" ,  da  CF,  a  parte  apontou  contrariedade  aos  arts.  51, II, e 53 do CDC, 422, 884, 1.201, 1.219 e 1.240 do CC.  Alegou  que  "deve ser reconhecida a nulidade absoluta da cláusula que prevê a perda das parcelas pagas em caso de rescisão motivada pelo inadimplemento, condenando a CDHU nesta devolução, eis que desrespeita os artigos supracitados.  ..  a CDHU se sujeita ao regime jurídico próprio das empresas privadas, sendo perfeitamente possível a aquisição de seus bens por terceiros através da usucapião.  ..  No presente caso, não se pode deixar de observar que a recorrida somente ajuizou a presente ação 14 (catorze) anos após a data que alega ter iniciado o inadimplemento da recorrente. Nítida, portanto, a violação ao princípio da boa-fé previsto no artigo 422 do Código Civil, o que, mais uma vez, justifica a manutenção do contrato.  ..  A recorrente, pessoa simples e humilde adquiriu o imóvel de boa-fé. Com efeito, realizou diversas benfeitorias necessárias e úteis no imóvel, a fim de manter e melhorar a qualidade do apartamento, o que por certo aumentou o valor econômico do imóvel"  (e-STJ  fls.  258/262).
+Assim,  requereu  o  provimento  do  recurso.
+No  agravo  (e-STJ  fls.  411/416),  afirma  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Foi  apresentada  contraminuta às fls. 419/426 (e-STJ).
+É  o  relatório.
+Decido.
+Atendidos  os  requisitos  de  admissibilidade,  especialmente  a  dialeticidade  recursal,  conheço  do  agravo.
+Na  origem,  a  Corte  estadual  negou  provimento  à apelação  da  parte  ora  recorrente,  assentando  que  (e-STJ  fls.  245/247):
+Trata-se de apelação interposta por SÔNIA CÍCERO BORGES contra a r. sentença de fls. 172/178, cujo relatório se adota, que nos autos da ação de reintegração de posse que lhe promove CDHU COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO, julgou procedente a pretensão inicial.
+ ..
+Ademais, em que pese a argumentação alternativa da apelante, não merece guarida a pretensão de reconhecimento da prescrição aquisitiva, pois, não obstante a titularidade do imóvel pertencer a sociedade de economia mista, o imóvel que comercializou possui natureza equiparável a de bem público, em virtude da predominância de capital público e da finalidade social de proporcionar habitação a pessoas de baixa renda. Da natureza de bem público decorre a incidência do art. 183, § 3º da Constituição Federal e, no mesmo sentido, a Súmula nº. 340 do Supremo Tribunal Federal:
+Desde a vigência do Código Civil, os bens dominicais, como os demais bens públicos, não podem ser adquiridos por usucapião.
+A  decisão  de  admissibilidade  não  merece  reparo.
+Quanto  à  suscitada  violação  dos  arts.  51, II, e 53 do CDC, 422, 884, 1.201 e 1.219 do CC,  o  recurso  especial  é  inadmissível,  tendo  em  vista  que  o  Tribunal  de  origem, no acórdão recorrido,  não  se  manifestou  de  forma  específica  sobre  o conteúdo d os  dispositivos,  e não fo ram  opostos  embargos  de  declaração quanto aos pontos,  o  que  impede  o  conhecimento  do  tema  nesta  Corte  por  ausência  do  prequestionamento  (Súmulas n. 282 e 356 do STF).  Destaco  que  tais  dispositivos  não  cuidam  do  tema  efetivamente  decidido  no  acórdão  recorrido. Observe-se que  o  recurso  especial  não  invoca  ofensa  ao  art.  1.022  do  CPC.
+Com relação ao tema da prescrição aquisitiva, verifica-se que o acórdão estadual está assentado igualmente em fundamento constitucional, que não foi combatido por meio de recurso extraordinário, atraindo o óbice da Súmula n. 126/STJ.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a Gratuidade da Justiça na instância ordinária, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se  e  intimem-se.
+EMENTA
