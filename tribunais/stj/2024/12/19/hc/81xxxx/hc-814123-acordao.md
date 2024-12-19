@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. CONCESSÃO DE OFÍCIO EM CASO DE ILEGALIDADE FLAGRANTE. FURTO QUALIFICADO. DOSIMETRIA DA PENA. MAUS ANTECEDENTES. DIREITO AO ESQUECIMENTO. NÃO INCIDÊNCIA NO CASO CONCRETO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM NÃO CONHECIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Luciano Nascimento condenado como incurso no art. 155, § 4º, I, do Código Penal, a 3 anos e 4 meses de reclusão, em regime inicial fechado, bem como ao pagamento de 16 dias-multa. A defesa alegou que, pelo tempo decorrido desde as condenações anteriores, aplicar-se-ia o "direito ao esquecimento", afastando-se a consideração dos maus antecedentes para fins de exasperação da pena-base.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se as condenações pretéritas, alcançadas pelo período depurador quinquenal previsto no art. 64, I, do Código Penal, podem ser utilizadas para caracterizar maus antecedentes na dosimetria da pena; e (ii) determinar se a ausência de indicação, nos autos, das datas de extinção das penas anteriores impede a análise do pedido de aplicação do direito ao esquecimento.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça firma que o período depurador de 5 anos, previsto no art. 64, I, do Código Penal, limita os efeitos da reincidência, mas não impede a utilização de condenações antigas para a configuração de maus antecedentes e consequente majoração da pena-base.
+4. O Supremo Tribunal Federal, em repercussão geral (RE n. 593.818/SC), estabelece que o prazo quinquenal para a reincidência não se aplica para fins de reconhecimento de maus antecedentes.
+5. A teoria do direito ao esquecimento recomenda cautela na valoração de condenações muito antigas, para evitar uma perpetuação dos efeitos penais de atos passados. Entretanto, tal aplicação depende de comprovação do lapso temporal suficiente para justificar a desconsideração dos antecedentes.
+6. No caso concreto, não constam dos autos as datas de extinção das penas anteriores, impossibilitando a análise quanto à incidência do direito ao esquecimento, o que afasta a alegação de ilegalidade manifesta na majoração da pena-base.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 83):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUCIANO NASCIMENTO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1522730-57.2022.8.26.0228).
+O paciente foi condenado à pena de 3 anos e 4 meses de reclusão em regime fechado, além do pagamento de 16 dias-multa, por infração ao art. 155, § 4º, I, do Código Penal.
+A apelação interposta pela defesa foi desprovida pelo Tribunal de origem.
+A impetrante sustenta: a) "não se desconhece o entendimento de que as condenações anteriores ostentadas pelo réu, atingidas pelo período depurador previsto no artigo 64, inciso I do Código Penal, possam ser valoradas como maus antecedentes. Contudo, as condenações utilizadas pelos i. Julgadores são muito antigas" (e-STJ fl. 5); b) "6 dos 8 processos utilizados para majorar apena a título de maus antecedentes tiveram a pena extinta pelo integral cumprimento há mais de 10 anos" (e-STJ fl. 6); e c) "boa parte delas estavam com a pendência quanto ao pagamento das multas e, quando se trata do inadimplemento da pena de multa, o mais recente entendimento Superior Tribunal de Justiça é no sentindo de que, excepcionalmente, caso o condenado não tenha como pagá-la, isso não obstaria a extinção de punibilidade" (e-STJ fl. 10).
+Requer, liminar e definitivamente, deferimento da ordem para afastar o aumento aplicado na primeira fase da dosimetria da pena pelos maus antecedentes, com redimensionamento da reprimenda fixada ao paciente, bem como para fixar o regime semiaberto.
+É o relatório.
+A defesa alega, em síntese, constrangimento ilegal decorrente da exasperação da pena-base com base nos antecedentes do réu.
+Requer a concessão da ordem para que a pena seja redimensionada, com a fixação do regime inicial semiaberto.
+Parecer do Ministério Público Federal pelo não conhecimento do writ ou, caso dele se conheça, por sua denegação (e-STJ, fls. 122-127).
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. CONCESSÃO DE OFÍCIO EM CASO DE ILEGALIDADE FLAGRANTE. FURTO QUALIFICADO. DOSIMETRIA DA PENA. MAUS ANTECEDENTES. DIREITO AO ESQUECIMENTO. NÃO INCIDÊNCIA NO CASO CONCRETO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM NÃO CONHECIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Luciano Nascimento condenado como incurso no art. 155, § 4º, I, do Código Penal, a 3 anos e 4 meses de reclusão, em regime inicial fechado, bem como ao pagamento de 16 dias-multa. A defesa alegou que, pelo tempo decorrido desde as condenações anteriores, aplicar-se-ia o "direito ao esquecimento", afastando-se a consideração dos maus antecedentes para fins de exasperação da pena-base.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se as condenações pretéritas, alcançadas pelo período depurador quinquenal previsto no art. 64, I, do Código Penal, podem ser utilizadas para caracterizar maus antecedentes na dosimetria da pena; e (ii) determinar se a ausência de indicação, nos autos, das datas de extinção das penas anteriores impede a análise do pedido de aplicação do direito ao esquecimento.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça firma que o período depurador de 5 anos, previsto no art. 64, I, do Código Penal, limita os efeitos da reincidência, mas não impede a utilização de condenações antigas para a configuração de maus antecedentes e consequente majoração da pena-base.
+4. O Supremo Tribunal Federal, em repercussão geral (RE n. 593.818/SC), estabelece que o prazo quinquenal para a reincidência não se aplica para fins de reconhecimento de maus antecedentes.
+5. A teoria do direito ao esquecimento recomenda cautela na valoração de condenações muito antigas, para evitar uma perpetuação dos efeitos penais de atos passados. Entretanto, tal aplicação depende de comprovação do lapso temporal suficiente para justificar a desconsideração dos antecedentes.
+6. No caso concreto, não constam dos autos as datas de extinção das penas anteriores, impossibilitando a análise quanto à incidência do direito ao esquecimento, o que afasta a alegação de ilegalidade manifesta na majoração da pena-base.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+No que tange à alegação da defesa, assim entendeu o Tribunal de origem (e-STJ, fls. 28-33):
+Insurge-se a Defesa, porém, buscando a determinação da redução da pena-base ao mínimo legal, diante do afastamento dos maus antecedentes; além da fixação de regime semiaberto para o início do cumprimento da pena, sem razão, senão vejamos.
+A juíza a quo aplicou a pena na sentença, condenando o apelante à pena-base em 2/3 acima do piso, em razão dos maus antecedentes (fls. 25/65 e 187/271).
+Na segunda fase, foi reconhecida a agravante da reincidência, que foi compensada com a atenuante da confissão espontânea.
+E, diante da inexistência de outras causas, as reprimendas se tornaram definitivas em 03 anos e 04 meses, e o pagamento de 16 dias-multa, no piso.
+Ao contrário do alegado pela combativa defesa o limite temporal de cinco anos é utilizado para fins de caracterização de reincidência, podendo, entretanto, decisão cuja punibilidade foi extinta há mais de cinco anos caracterizar maus antecedentes.
+ ..
+Ademais, no que tange ao aumento da pena pelos maus antecedentes, levando-se em conta condenações antigas, acrescenta-se que não se está diante de qualquer irregularidade. Pelo contrário, a referida circunstância encontra amparo na própria Constituição Federal, diante da interpretação dos princípios da Isonomia, Proporcionalidade e Razoabilidade, bem como na Individualização da Pena.
+Tem-se, dessa forma, que tal acréscimo decorre da necessária distinção que se há de fazer entre os agentes, após análise da personalidade de cada um, tendo em vista atos pregressos de seu comportamento social. Sendo clara a injustiça, caso contrário, em que aquele que insiste na prática de crimes receba o mesmo tratamento dado a um condenado primário.
+Ora, voltar a cometer um crime revela maior reprovabilidade no fato concreto em julgamento e merece uma resposta penal mais severa, justificando a imposição dos maus antecedentes.
+Deste modo, não há razão para afastamento da referida circunstância.
+Sendo certo, também, que, o princípio da obrigatoriedade de individualização das penas, para ser cumprido integralmente, exige que sejam considerados vários requisitos, como os antecedentes, conduta social e personalidade do agente (Const. Fed., art. 5º, incs. XXXIX, 2ª parte, e XLVI; Cód. Pen., arts. 53, 59, inc. II, e 68, caput, Cód. de Proc. Pen., arts. 6º, inc. IX, e 387, inc. II).
+ ..
+Consigno, ademais, que a fixação da pena privativa de liberdade fica a critério do Magistrado sentenciante, dentro da chamada discricionariedade regrada, a qual tem por limite as balizas legais, não podendo o sentenciado escolher a que melhor lhe aprouver.
+ ..
+Por isso, justificável a exacerbação da pena, sendo certo que o réu não tem direito subjetivo à estipulação da sanção no mínimo legal, podendo o Magistrado majorá-la a fim de alcançar os objetivos da pena (JCAT, 81-82/666).
+"Quanto à aplicação do denominado "direito ao esquecimento", ambas as Turmas que compõem a Terceira Seção desta Corte Superior posicionaram-se no sentido de que a avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade, levando-se em consideração o lapso temporal transcorrido entre extinção da pena anteriormente imposta e a prática do novo delito, qual seja mais de 10 anos" (AgRg no AREsp n. 2.720.056/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/9/2024, DJe de 1º/10/2024).
+No caso, no entanto, não se verifica o apontado constrangimento ilegal, porquanto não se verifica dos autos as datas de extinção das penas consideradas para os maus antecedentes do paciente, apenas sendo registrado na sentença o número dos processos utilizados para fins de negativação da vetorial relativa aos maus antecedentes, o que inviabiliza a análise da controvérsia.
+Nesse sentido, cito:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO TENTADO. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. DIREITO AO ESQUECIMENTO. NÃO INCIDÊNCIA NO CASO CONCRETO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - No tocante aos maus antecedentes, a jurisprudência deste Tribunal Superior é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base.
+III - O Supremo Tribunal Federal, no julgamento do RE n. 593.818/SC, em repercussão geral, decidiu que "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal" (RE n. 593.818/SC, Tribunal Pleno, Rel. Min. Roberto Barroso, julgado em 18/8/2020).
+IV - Outrossim, quando os registros da folha de antecedentes do réu são muito antigos, deve ser feita uma valoração com cautela, na primeira fase da pena, para evitar uma condenação perpétua, e ser possível aplicar a teoria do direito ao esquecimento. (AgRg no HC n. 613.578/RS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 29/3/2021).
+V - Na presente hipótese, não consta dos autos a data da extinção da pena considerada para os maus antecedentes do paciente, impedindo dessa forma a aferição do período depurador previsto no art. 64, I, do Código Penal, não se verificando, de plano, manifesta ilegalidade no aumento da pena-base. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 777.329/SP, relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, julgado em 13/11/2023, DJe de 30/11/2023).
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano nenhuma violação do ordenamento jurídico ou flagrante constrangimento ilegal que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei n. 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Por fim, alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória em habeas corpus.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+É o voto.
