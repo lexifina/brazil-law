@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO BETANIA DE AÇÃO SOCIAL, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO na Apelação Cível n. 5036405-83.2019.4.04.7000/PR, assim ementado (fl. 327):
+PROCESSUAL CIVIL. TRIBUTÁRIO. SENTENÇA EXTRA PETITA. PROCEDIMENTO COMUM. IMUNIDADE. ART. 195, §7º, DA CF. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL. CERTIFICAÇÃO. TEMA 32 - STF. NECESSIDADE DA ENTIDADE SER PORTADORA DO CEBAS.
+1. A sentença extra petita deve ser reduzida aos limites do pedido.
+2. O STF no julgamento dos Embargos de Declaração no RE nº 566.622 firmou entendimento de que é "constitucional o art. 55, II, da Lei nº 8.212/1991", dispositivo que exigia, como requisito para a imunidade tributária, que a entidade fosse portadora de CEBAS, previsão repetida no caput do art. 29 da Lei nº 12.101/09.
+3. Deste modo, é legítima a exigência do CEBAS, para os fins da imunidade do § 7º do art. 195 da CF.
+Foram opostos embargos de declaração (fls. 337-340), os quais foram rejeitados (fls. 364-366).
+No recurso especial (fls. 374-386), a parte recorrente aponta violação dos arts. 489, § 1º, inciso IV, 1.022, inciso II, do Código de Processo Civil; 9º, 14 do Código Tributário Nacional; 3º da Lei n. 12.101/2009. Sustenta, em suma: (a) a ocorrência de negativa de prestação jurisdicional, porquanto o Tribunal de origem teria sido omisso quanto à natureza declaratória do Certificado de Entidade Beneficente de Assistência Social - CEBAS, retroagindo seus efeitos à época em que preenchidos os requisitos; e (b) a restituição do indébito em decorrência da imunidade tributária na condição de instituição beneficente de assistência social retroage ao exercício fiscal anterior ao ano de requerimento da certificação.
+Sem contrarrazões (fl. 393). O recurso especial foi admitido à fl. 396.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+Como relatado, a parte recorrente aponta negativa de prestação jurisdicional, tendo em vista o Tribunal de origem ter incorrido em omissão quanto à natureza declaratória do certificado CEBAS, cujos efeitos devem retroagir ao exercício fiscal anterior ao ano de requerimento da certificação.
+Opostos embargos de declaração, visando sanar as omissões relatadas, foram rejeitados, limitando-se o Tribunal de origem a afirmar, genericamente, a ausência dos vícios apontados, nos seguintes termos (fls. 364-365):
+Os embargos de declaração são cabíveis contra decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão ou corrigir erro material no julgado, conforme prescrito no art. 1.022 do CPC.
+Não se prestam, via de regra, à reforma do julgamento proferido, nem substituem os recursos previstos na legislação processual para que a parte inconformada com o julgamento possa buscar sua revisão ou reforma.
+O órgão julgador não está obrigado a mencionar, exaustivamente, todos os dispositivos legislativos referidos pelas partes e nem mesmo a analisar e a comentar um a um os fundamentos jurídicos invocados e/ou relativos ao objeto do litígio. Basta a apreciação das questões pertinentes de fato e de direito que lhes são submetidas (art. 489, inc. II, CPC) com argumentos jurídicos suficientes, ainda que não exaurientes.
+Decisão cujos fundamentos foram expostos com clareza e suficiência, ainda que de forma sucinta e sem menção a todos os dispositivos legais correlatos, supre a necessidade de prequestionamento e viabiliza o acesso às Instâncias Superiores.
+No caso em tela, o aresto não apresenta os vícios da omissão e da contradição conforme alegado, sendo que divergência quanto ao encaminhamento dado ao mérito deve ser discutida mediante recurso apropriado para tal, cujo escopo refoge ao âmbito dos embargos de declaração.
+Nesse contexto, está configurada a violação do art. 1.022 do CPC.
+Com efeito, o Tribunal de origem se omitiu acerca das alegações suscitadas pela ora agravante, no momento processual oportuno, as quais, em tese, se acolhidas, poderiam eventualmente levar a desfecho diverso no julgamento da apelação em que foi parcialmente sucumbente, o que evidencia a sua relevância e a necessidade de que fossem expressamente enfrentadas.
+Com a anulação do julgamento dos embargos de declaração, fica prejudicada a apreciação dos demais temas recursais suscitados no recurso especial, ficando ressalvada a possibilidade de serem objeto de nova insurgência, após o novo julgamento dos declaratórios a ser proferido pelo Tribunal de origem, caso persista interesse da parte recorrente nesse sentido.
+Ante o exposto, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para anular o julgamento dos embargos de declaração e determinar que outro seja proferido pelo Tribunal de origem, com o expresso enfrentamento dos temas suscitados no referido recurso integrativo e especificados nesta decisão, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. CERTIFICADO DE ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL - CEBAS. CONTRIBUIÇÕES SOCIAIS E DE TERCEIROS. EFEITO DECLARATÓRIO DA CERTIFICAÇÃO. ACÓRDÃO RECORRIDO. QUESTÕES RELEVANTES. OMISSÃO. EXISTÊNCIA. DEMAIS TEMAS PREJUDICADOS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
