@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LUCINETE MARIA NASCIMENTO RODRIGUES, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/09/2024.
+Concluso ao gabinete em: 11/12/2024.
+Ação: de obrigação de pagar cumulada com indenizatória por danos morais, ajuizada pela ora agravante, em face de CIPLAN CIMENTO PLANALTO S/A e MARIO CELSO SANTIAGO MENESES, parte ora agravada.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pela parte ora agravante, nos termos da seguinte ementa (e-STJ, fl. 374):
+"APELAÇÃO CÍVEL. CESSÃO PARCIAL DE CRÉDITO. PRECATÓRIO. PRETERIÇÃO NÃO CONFIGURADA. RECURSO CONHECIDO E DESPROVIDO. 1. Sobre a cessão de crédito de precatório a ser pago na Justiça local, a Portaria Conjunta/TJDFT nº 51, de 08/06/2021, determina, em seu artigo 2º, a exigência, pelo tabelião de notas, da certidão de titularidade de crédito para a lavratura do instrumento de cessão de direitos. 2. O fato de a certidão ter indicado o nome do credor e o valor da requisição não significa que a cessão de crédito se deu na integralidade do respectivo valor, mas visou tão somente atender o requisito determinado na Portaria Conjunta/TJDFT nº 51, de 08/06/2021. 3. Ao constar na escritura pública de cessão dos direitos e representado pelo precatório, que o cedente transferiu apenas parte do crédito, mais precisamente 70% (setenta por cento) do respectivo montante, não se verifica a suposta preterição na reserva da quantia necessária à quitação dos honorários previamente ajustados e sobre o benefício econômico alcançado com a demanda - 30% (trinta por cento). 4. RECURSO CONHECIDO E DESPROVIDO."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega, além da existência de dissídio jurisprudencial, violação do art. 287 do CC, sustentando, em síntese, que: (i) "O fato de constar em cessão de crédito valor em percentual não é a mesma coisa de reservar quantia necessária à quitação dos honorários previamente ajustados e sobre o benefício econômico alcançado com a demanda - 30% (trinta por cento)" (e-STJ fl. 441); (ii) seria necessária que fosse feita a referida ressalva; (iii) "Os réus ardilosamente buscaram confundir o cedente o que confirma o pedido de titularidade de crédito sem qualquer ressalva, tanto que a certidão emitida não consta nada a respeito" (e-STJ fl. 439).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca da tese de que "O fato de constar em cessão de crédito valor em percentual não é a mesma coisa de reservar quantia necessária à quitação dos honorários previamente ajustados e sobre o benefício econômico alcançado com a demanda - 30% (trinta por cento)" (e-STJ fl. 441), apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à tese de que "Os réus ardilosamente buscaram confundir o cedente o que confirma o pedido de titularidade de crédito sem qualquer ressalva, tanto que a certidão emitida não consta nada a respeito" (e-STJ fl. 439), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais 2% (dois por cento) em favor do procurador da parte agravada.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE PAGAR C/C INDENIZATÓRIA POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação de obrigação de pagar cumulada com indenizatória por danos morais.
+2. A ausência de decisão acerca da tese levantada, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
