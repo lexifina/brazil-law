@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo interposto por JOAO WICTOR DA COSTA FRAZAO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fls. 936):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MATERIAIS E MORAIS. LIGAÇÃO EXTERNA DA REDE DE ÁGUA. RESPONSABILIDADE DA SANEAGO. PUBLICIDADE ENGANOSA. COMPROVADA. DANOS MORAIS CONFIGURADOS. I. No que se refere à implantação do sistema de água, não há como impor ao Réu providência que não seria de sua competência. Contudo, embora não se possa exigir-lhe a conclusão de obras cuja finalização depende de outrem - ligação da água pela SANEAGO - o Decreto nº 249/2010, previu o prazo de 4 anos para entrega das obras de infraestrutura. No entanto, conforme Termo de Entrega de Benfeitorias e Infraestrutura, estas se deram em 17/11/2015, perfectibilizando-se, portanto, o atraso. II. Considerando o atraso na entrega, está autorizada a sua condenação ao pagamento de multa contratual, como estabelecida na sentença recorrida. III. Configurada a propaganda enganosa, tendo em vista que nos panfletos de divulgação do empreendimento consta que o loteamento possuía "infraestrutura completa", contando com rede de água, esgoto, asfalto, energia elétrica. IV. Acerca do dano moral, o atraso na entrega de infraestrutura do empreendimento (rede seca) enseja dano extrapatrimonial a ser indenizado, pois suas consequências atingiram a esfera da dignidade da compradora. V. Quanto ao dano moral, fixado em R$ 10.000,00 (dez mil reais), verifica-se que este se mostra excessivo, posto que o atraso foi de apenas dois meses, devendo ser reduzido à metade.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 980-987):
+No recurso especial alega o agravante que o acórdão contrariou as disposições contidas nos artigos 219, 220, 224, 231 e 1003 do Código de Processo Civil e 4º da Lei n. 11.419/06.
+Defende que o recurso de apelação do agravado está intempestivo, de forma que deve ser declarado nulo.
+Foram oferecidas contrarrazões ao recurso especial (fls.1.034-1.041).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.046-1.048), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.064-1.068).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de ação de obrigação de fazer c/c reparação de danos materiais e morais movida pelo agravante JOAO WICTOR DA COSTA FRAZAO em desfavor do agravado RECANTO SONHADO EMPREENDIMENTOS IMOBILIÁRIOS E NÁUTICOS LTDA.
+A parte agravante sustenta que a petição de apelação deu-se de forma intempestiva, pois interposta fora do prazo processual previsto no Código de Processo Civil.
+Quanto ao ponto, assim fundamentou a origem nos embargos de declaração (fl.984):
+In casu, a matéria levantada nas razões dos embargos , intempestividade do apelo, não merece acolhimento.
+O prazo de 15 (quinze) dias úteis para interposição do recurso de apelação cível conta-se da data em que o advogado é intimado da decisão (arts. 219 e 1.003, caput e §5º, do CPC).
+Como a intimação da decisão efetivou-se pelo Diário da Justiça eletrônico, considera-se como início do prazo recursal a data de sua publicação (art. 231, VII, do CPC), excluindo-se o dia do começo e incluindo-se o dia do vencimento, além de se computar apenas os dias úteis (art. 224 do CPC).
+A intimação da decisão foi efetivada em 18/12/2024 (mov. 58) e publicada no Diário da Justiça eletrônico em 22/01/2024, tendo o prazo recursal se iniciado em 23/02/2024 e findando em 14/02/2024.
+Esclareça-se que o dia 12 e 13 de fevereiro foi feriado de carnaval e dia 14 desse mês, quarta-feira de cinzas, no entanto, teve o expediente iniciado às 12 horas (meio dia), sendo necessário seu computo como dia útil. Aludido dia seria desconsiderado apenas se correspondesse ao dia do começo ou do vencimento, por força do artigo 224, parágrafo primeiro, do Código de Processo Civil, o que não é o caso.
+Desse modo, considerando que o prazo recursal se findou em 14/02/2024 e o recurso foi interposto nesse mesmo dia, em 14/02/2024, revela- se portanto tempestivo, tornando positivo o seu conhecimento.
+Assim, considerando que o tribunal de origem analisou e refutou a tese da intempestividade, rever as datas nas quais foram publicadas as decisões para fins de constatar a data inicial para interposição do recurso demanda a incursão na seara fática probatória, o que é vedado pelo óbice da Súmula n. 7/STJ.
+A propósito, mutatis mutandis, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRES IGNAÇÃO RECURSAL DA AGRAVANTE.
+1. "Esta Corte de Justiça consagra entendimento de que não há ofensa à coisa julgada quando o juízo da execução confere ao título executivo judicial a interpretação que melhor viabilize o seu cumprimento" (AgInt no AREsp 219.669/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe de 12/04/2019).
+Precedentes. Incidência da Súmula 83/STJ.
+2. No caso dos autos, rever a conclusão do Tribunal de origem acerca da tempestividade do agravo de instrumento, aferindo a natureza do ato judicial, bem como avaliar ocorrência de violação à coisa julgada, exige a incursão na seara probatória, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.383.893/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO. ARTS. 1.022 E 489 DO CPC/2015. AUSÊNCIA DE OMISSÕES E DE DEFICIÊNCIA DE FUNDAMENTAÇÃO. RECURSO ADESIVO. NÃO CABIMENTO. AFRONTA A DISPOSITIVOS DO REGIMENTO INTERNO DO TRIBUNAL ESTADUAL. SÚMULA 280 DO STF. HONORÁRIOS. REVISÃO. REEXAME. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, uma vez que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A pretensão do recorrente de ser afastada a intempestividade do recurso de apelação, bem como a aferição da interrupção do prazo recursal, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos. Incidência da Súmula 7 do STJ.
+3. Sobre a ofensa ao art. 157, do RITJPR, em se tratando de matéria de competência interna de tribunal local, não cabe a esta Corte fazer análise de sua viabilidade, uma vez que demandaria apreciação de legislação local, o que é vedado no âmbito do recurso especial.
+Incidência da Súmula n. 280/STF. 4. O recurso adesivo somente será admitido quando caracterizada a sucumbência recíproca entre a parte que recorreu e a parte que interpôs o recurso adesivamente, o que na espécie não ocorreu.
+5. Em relação à redução dos honorários advocatícios, a alteração da conclusão do Tribunal de origem depende da analise do conjunto fático-probatório dos autos, sendo inviável a pretensão recursal em razão da Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.471.516/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/10/2019, DJe de 5/11/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - MATÉRIAS JÁ ARGUIDAS EM SEDE DE EMBARGOS À EXECUÇÃO INTEMPESTIVOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO EXECUTADO.
+1. Inocorrência de negativa de prestação jurisdicional, pois o Tribunal de origem, nos exatos termos determinados por esta Corte Superior no âmbito do ARESP 278.386/AP sanou o vício de omissão apontado, tendo analisado adequadamente a controvérsia acerca da tempestividade da apelação.
+2. A reforma do aresto no tocante à alegada intempestividade da apelação, a fim de modificar a conclusão da origem, demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. Os embargos do devedor foram extintos em razão de sua intempestividade e sobre isso não houve recurso por parte da executada, estando as matérias arguidas naquela impugnação que, em grande parte, coincidem com as aduzidas nessa exceção de pré-executividade sob o manto da coisa julgada, não podendo ser reeditadas as mesmas questões lá aduzidas agora no âmbito de objeção de pré-executividade, notadamente por não consistirem matérias de ordem pública, porquanto atinentes ao direito disponível e demandarem ampla dilação probatória.
+3.1 No caso, o Tribunal de origem consignou, de acordo com os precedentes do STJ, a ocorrência de preclusão quanto ao tema referente ao excesso de execução, uma vez que a matéria encontra-se coberta pela deliberação que considerou intempestivos os embargos do devedor. A jurisprudência do STJ é firme no sentido de que as questões decididas definitivamente não podem ser renovadas, em razão da preclusão. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.537.498/AP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/6/2018, DJe de 1/8/2018.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários, visto que já foram fixados na origem no patamar máximo de 20% (fl. 942).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE APELAÇÃO. NÃO VERIFICADA. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
