@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CICERO ANDRE DE CASTRO JARDIM, MARIA APARECIDA CASTRO JARDIM, ROSEMARY CASTRO JARDIM, contra decisão que inadmitiu recurso especial fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/09/2023.
+Concluso ao gabinete em: 17/05/2024.
+Ação: de indenização por danos morais e materiais, ajuizada por CICERO ANDRE DE CASTRO JARDIM, MARIA APARECIDA CASTRO JARDIM, ROSEMARY CASTRO JARDIM contra CAIXA SEGURADORA S/A, pleiteando indenização securitária em decorrência de vícios e avarias em imóvel adquirido mediante contrato de financiamento com a CAIXA ECONÔMICA FEDERAL, bem como contrato de seguro do imóvel junto à CAIXA SEGURADORA S/A, tendo o contrato de financiamento sido aprovado após vistoria por engenheiro especialista, que teria atestado atestado as condições adequadas do bem.
+Sentença: julgou improcedente a ação, "de modo a rejeitar as pretensões lançadas pelos requerentes na exordial e extinguir o feito em tela com julgamento do mérito (artigo 487 , inciso 1, do CPC /2015)" (e-STJ fl. 940).
+Acórdão: negou provimento à apelação interposta por CICERO ANDRE DE CASTRO JARDIM, MARIA APARECIDA CASTRO JARDIM, ROSEMARY CASTRO JARDIM, nos termos da seguinte ementa (e-STJ fls. 1.001):
+APELAÇÃO - Ação Reparação de Danos Materiais e Morais c. c. Exibição de Documentos e Produção Antecipada de Provas - Pretensão de condenação da ré no pagamento de indenização securitária em razão da existência de vícios constrututivos de imóvel adquirido através de financiamento imobiliário- - Sentença de improcedência - Inconformismo dos autores, alegando que não há se falar ausência de cobertura securitária para os vícios construtivos apresentados no imóvel adquirido pelos autores, uma vez que a cobertura contratual não pode se limitar à eventos externos - Descabimento - Cláusulasda apólice de seguro que são categóricas ao limitar a cobertura securitária a eventos provocados dos agentes ou causas externas, tais como incêndios, explosão e inundação, não abrangendo os vícios construtivos preexistentes - Expert judicial que foi categórico ao concluir que os problemas apresentados no imóvel dos autores decorrem de vícios construtivos preexistentes e ausência de reparos adequados, eventos diversos da cobertura securitária contratada junto à empresa ré - Sentença mantida - Inteligência do art. 252 do Regimento Interno desta E. Corte - Recurso desprovido.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 47 do CDC. Sustenta: I) aplicação da interpretação extensiva em favor do Consumidor, fundada nas cláusulas 6.1 e 6.2 do contrato do seguro (e-STJ fl. 1.070); e II) ocorrência de sinistro por "causa extrema" em razão de "omissão e imperícia, dolosa ou culposa do engenheiro da CEF quando da avaliação e perícia do imóvel em atos anteriores a liberação do financiamento" (e-STJ fl. 1.075). Por fim, requer que seja provido o recurso para reformar o acórdão do Tribunal de origem (e-STJ fl. 1077).
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+A Súmula 284/STF estabelece que para que um recurso especial seja considerado admissível, é imprescindível que a parte recorrente comprove a violação do dispositivo legal federal invocado no recurso, estabelecendo uma associação direta entre os fundamentos do acórdão recorrido e os artigos mencionados.
+No entanto, na hipótese em análise, essa correlação não foi devidamente estabelecida, uma vez que os argumentos invocados não guardam relação direta com o artigo mencionado. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere a pretensão de condenação da parte agravada no pagamento de indenização securitária, em razão da existência de vícios construtivos preexistentes, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INDENIZAÇÃO SECURITÁRIA. VÍCIOS CONSTRUTIVOS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de indenização por danos morais e materiais, em decorrência de vícios construtivos.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
