@@ -1,0 +1,73 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MAURO LUGO FILHO, em face de decisão que inadmitiu o recurso especial da insurgente.
+O apelo extremo, manejado com amparo nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 982/983, e-STJ):
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS E REPETIÇÃO DE INDÉBITO. CARTÃO DE C R É D I T O C O N S I G N A D O . L E G A L I D A D E . I R D R N º 53.983/2016. APLICAÇÃO - 1ª, 2ª E 4ª TESES. ART. 373, II, DO CPC. PROVA ROBUSTA. RESPONSABILIDADE CIVIL NÃO CONFIGURADA. DANOS MORAIS. INEXISTENTES. RESTITUIÇÃO DO INDÉBITO INDEVIDA. APELAÇÃO CONHECIDA E, MONOCRATICAMENTE, DESPROVIDA (ART. 932, IV, "C", DO CPC).
+I. Segundo o que dispõe o art. 985, I, do CPC, julgado o incidente de resolução de demandas repetitivas, a tese jurídica será aplicada a todos os processos individuais ou coletivos que versem sobre idêntica questão de direito e que tramitem na área de jurisdição do respectivo tribunal;
+II. Ressalta-se que a situação jurídica debatida nos autos deve observar a distribuição do ônus da prova estabelecida na 1ª tese do IRDR nº 53.983/2016, assim como o disposto nos arts. 6º do CDC e 373 do CPC;
+III. Diante da juntada do contrato pela instituição financeira, em que se verifica, sem maiores dificuldades, a especificação clara acerca da modalidade de negócio jurídico firmado entre as partes, bem como autorização de desconto em folha apenas os valores referentes ao mínimo do cartão de crédito, não pairam dúvidas acerca da legalidade da contratação, não havendo que falar em pagamento de indenização por danos morais e restituição de valores em dobro;
+IV. Deve ser aplicada ao caso a 4ª tese jurídica firmada no IRDR nº 53.983/2016, que afirma ser lícita a contratação de quaisquer modalidades de mútuo financeiro, desde que não haja vício na contratação, o que não foi configurado no caso dos autos;
+V. Apelo conhecido e desprovido de forma monocrática.
+Opostos embargos de declaração (fls. 1052/1061, e-STJ), esses foram rejeitados.
+Em suas razões de recurso especial (fls. 1062/1106, e-STJ), o agravante apontou, além do dissídio jurisprudencial, ofensa aos artigos 489 e 1022, II, 985, todos do Código de Processo Civil, 93, IX, da CF/88, 39, V, 51, inciso IV e §1º, inciso III, do Código de Defesa do Consumidor.
+Sustentou, em síntese: i) negativa de prestação jurisdicional, por não terem sido supridas as omissões suscitadas nos aclaratórios em relação ao enfrentamento adequado da questão relacionada às provas acostadas aos autos, em face de o contrato estar em branco; ii) a nulidade do contrato de empréstimo razão de vício de consentimento, má-fé e insuficiência das informações prestadas, bem como pela existência de cláusulas abusivas; iii) contrariedade a entendimento firmado por meio de IRDR pelo E. Tribunal de Justiça (4ª Tese do IRDR n.º 53983/2016) e da ação civil pública n.º 0010064-91.2015.8.10.0001.
+Por fim, requer, subsidiariamente, que seja afastada a multa aplicada pelo art. 1.021, §4º do CPC.
+Contrarrazões às fls. 1179/1182, e-STJ.
+Em juízo de admissibilidade (fls. 1184/1185, e-STJ), negou-se o processamento do recurso especial, com amparo na incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 1187/1201, e-STJ), em que o recorrente impugna, especificamente, as razões da decisão agravada.
+Contraminuta às fls. 1203/1209, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Com efeito, no que tange à alegada violação aos artigos 489 e 1022 do CPC/15, não merece acolhimento a insurgência, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+Aduz o ora agravante a ocorrência de negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem teria sido omisso em relação ao enfrentamento da questão relativa à ausência de informações obrigatórias no contrato e a estipulação de vantagem excessiva em detrimento do consumidor.
+Contudo, da leitura dos autos, constata-se que referida tese foi expressamente examinada pela Corte a quo, consoante se denota dos seguintes trechos (fls. 984/985, e-STJ):
+Constata-se que a controvérsia reside na viabilidade de contratação denominada
+"cartão de crédito consignado" junto ao apelado.
+De início, é importante ressaltar que a relação jurídica debatida nos autos deve ser examinada sob os auspícios dos princípios do direito do consumidor, pois se amolda aos exatos termos do art. 3º, § 2º, do CDC.
+Não obstante a isso, há que se observar também a distribuição do ônus da prova
+estabelecida na 1ª tese do IRDR nº 53.983/2016, assim como o disposto nos arts. 6º do CDC e 373 do CPC, no caso em análise, a regularidade dos descontos ora questionados restou comprovada com a juntada aos autos do contrato firmado entre as partes registrado sob o ID nº 19422778, 19422779 e 19422780.
+Assim, diante da juntada do contrato, em que se verifica, sem maiores dificuldades, a especificação clara acerca da modalidade de negócio jurídico formalizado pelas partes, bem como autorização de desconto em folha apenas os valores referentes ao mínimo do cartão de crédito, não pairam dúvidas acerca da legalidade da contratação, não havendo que falar em pagamento de indenização por danos morais e restituição de valores em dobro.
+Ressalte-se, ainda, que deve ser aplicado ao caso a 4ª tese jurídica firmada no IRDR nº 53.983/2016, que afirma ser lícita a contratação de quaisquer modalidades de mútuo financeiro, desde que não haja vício na contratação, o que não foi configurado no caso dos autos.
+Desta forma, considerando que a questão trazida à discussão foi dirimida pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, merece ser afastada a alegada negativa de prestação jurisdicional.
+2. No tocante à alegada violação ao artigo 93, IX, da CF, esta Corte tem entendimento firmado no sentido de que a via especial é inadequada para análise de arguição de contrariedade a texto constitucional, sob pena de usurpação da competência atribuída ao STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. LEGITIMIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. Ao Superior Tribunal de Justiça não cabe se manifestar sobre supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+(..) 5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1763228/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/06/2020, DJe 26/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC/2015.
+(..) 2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+(..) 4. Agravo interno não provido.
+(AgInt no AREsp 1206969/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/04/2018, DJe 13/04/2018)
+3. O insurgente sustenta a nulidade da contratação do empréstimo, por falta de informação adequada acerca das condições do contrato e em razão de vício de consentimento.
+Da acurada análise do acórdão recorrido, verifica-se que o Tribunal de origem concluiu pela licitude da contratação, bem como pela ausência de vício de consentimento (fl. 985, e-STJ):
+Assim, diante da juntada do contrato, em que se verifica, sem maiores dificuldades, a especificação clara acerca da modalidade de negócio jurídico formalizado pelas partes, bem como autorização de desconto em folha apenas os valores referentes ao mínimo do cartão de crédito, não pairam dúvidas acerca da legalidade da contratação, não havendo que falar em pagamento de indenização por danos morais e restituição de valores em dobro.
+Ressalte-se, ainda, que deve ser aplicado ao caso a 4ª tese jurídica firmada no IRDR nº 53.983/2016, que afirma ser lícita a contratação de quaisquer modalidades de mútuo financeiro, desde que não haja vício na contratação, o que não foi configurado no caso dos autos.
+Para derruir as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a apontada nulidade do contrato, segundo as razões vertidas no apelo extremo, seria imprescindível a análise de cláusulas contratuais e o revolvimento do acervo fático-probatório, providências vedadas na via estreita do recurso especial, ante a incidência das Súmulas 5 e 7/STJ.
+A propósito, citam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO COM DESCONTO EM FOLHA. ILICITUDE NÃO CONSTATADA. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO A FIM DE NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..) 2. No caso, o Tribunal de origem afastou a índole abusiva do contrato de cartão de crédito com reserva de margem consignada e declarou a legitimidade das cobranças promovidas, por concluir que a prova documental apresentada pela instituição financeira demonstrou a autorização para desconto em folha de pagamento do valor mínimo da fatura e a efetiva utilização do cartão de crédito pela autora.
+3. Para derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, no sentido de se atribuir a nulidade do contrato firmado, por estar evidenciada contratação onerosa ao consumidor, seria necessário o revolvimento das provas constantes dos autos, bem como a interpretação das previsões contratuais, providências vedadas em sede de recurso especial, ante os óbices estabelecidos pelas Súmulas 5 e 7 do STJ.
+4. Agravo interno provido para conhecer do agravo a fim de negar provimento ao recurso especial.
+(AgInt no AREsp 1.512.052/SP, Rel. Ministro RAUL ARAÚJO, QUARTA
+TURMA, julgado em 15.10.2019, DJe 08.11.2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. CONSUMIDOR. CARTÃO DE CRÉDITO CONSIGNADO. EXIBIÇÃO DE DOCUMENTOS. INDENIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..) 3. "Para derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, no sentido de se atribuir a nulidade do contrato firmado, por estar evidenciada contratação onerosa ao consumidor, seria necessário o revolvimento das provas constantes dos autos, bem como a interpretação das previsões contratuais, providências vedadas em sede de recurso especial, ante os óbices estabelecidos pelas Súmulas 5 e 7 do STJ" (AgInt no AREsp 1512052/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/10/2019, DJe 08/11/2019).
+(..) 5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1.843.393/RO, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 20/09/2021, DJe 23/09/2021)
+Desse modo, inafastável, no ponto, a incidência dos óbices estabelecidos pelas Súmulas 5 e 7/STJ.
+4. Por fim, insta salientar que encontra-se prejudicado o conhecimento do recurso pela alínea "c", haja vista que a incidência da Súmula 7 do STJ impede o exame da divergência jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão a quo, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a instância ordinária.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ANULAÇÃO DE ATOS PROCESSUAIS SUPERVENIENTES À PENHORA. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. AUSÊNCIA DE REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA DE INTIMAÇÃO DO LAUDO DE AVALIAÇÃO DO IMÓVEL PENHORADO, BEM COMO DO DIA, HORA E LOCAL DA ALIENAÇÃO. ARREMATAÇÃO DO IMÓVEL POR PREÇO VIL. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+ ..
+5. Dissídio jurisprudencial não demonstrado uma vez que é pacífica a jurisprudência desta Corte no sentido de que a incidência da Súmula nº 7 do STJ, relativamente à alínea a, impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto com base na qual a Corte de origem deu solução à causa.
+ ..
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1587058/MT, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/02/2018, DJe 12/03/2018)
+5. Em relação ao pleito de aplicação da multa recursal, formulado em impugnação ao agravo interno, a Segunda Seção desta Corte Superior firmou o entendimento de que a sanção prevista no art. 1.021, § 4º, do CPC/15 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório (AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016).
+No mesmo sentido, precedentes desta Corte: EDcl no AgInt no AREsp 647.276/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 20/10/2017; EDcl no AgInt nos EDcl no REsp 1327956/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 24/10/2017.
+No caso em tela, embora o agravo interno não tenha logrado êxito, não se verificou o intuito meramente protelatório, senão a utilização de recurso cabível à impugnação da deliberação que foi desfavorável à agravante, não havendo justificativa para imposição da sanção prevista no artigo 1.021, § 4º, do CPC/15.
+6. Do exposto, conheço do agravo, para conhecer parcialmente o recurso especial e, nessa parte, dar-lhe provimento apenas para afastar a multa prevista no art. 1.021, §4º do CPC. Com fulcro no artigo 85, § 11, CPC/2015, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem, observando-se o disposto no artigo 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
