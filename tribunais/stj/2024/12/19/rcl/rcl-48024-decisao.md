@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Reclamação ajuizada por MARIA CLENI CORTES BOCHI, com fundamento no art. 105, inciso I, alínea f, da CF/88 c.c. o art. 988, inciso IV, do CPC, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, proferida no Agravo de Instrumento n. 5236279-66.2024.8.21.7000.
+A reclamante alega, em síntese, que: a) ajuizou ação ordinária, com pedido de tutela de urgência, em face do Estado do Rio Grande do Sul, objetivando o fornecimento de medicamento para o tratamento da moléstia que lhe acomete; b) o juízo de primeiro grau deferiu a tutela pleiteada; c) o Estado do Rio Grande do Sul interpôs agravo de instrumento, ao argumento de que, como se trata de fármaco não incluído nos protocolos normativos do SUS, seria imprescindível a inclusão da União Federal no polo passivo da demanda; d) o Relator concedeu parcialmente o efeito suspensivo ao recurso; e) a decisão reclamada não observou a questão de ordem decidida no Incidente de Assunção de Competência n. 14/STJ, quanto ao dever da prática de abstenção de ato de declinação de competência nas demandas de saúde.
+Pede a concessão da liminar, com "a suspensão dos efeitos do ato impugnado, a fim de que seja determinado o prosseguimento do Processo n. 5001279-50.2024.8.21.0125 perante a Justiça Estadual" (fl. 23), e no mérito, seja julgada procedente, "para determinar a suspensão e cassação do acordão impugnado, a fim de assegurar a autoridade da decisão desta Egrégia Corte, aplicando-se o precedente no IAC nº 14, e, com isso, afastando a determinação de inclusão da União e mantendo a tramitação do feito na Justiça Estadual" (idem).
+Deferido pedido de justiça gratuita à fl. 90.
+Concedeu-se a medida liminar (fls. 100-101), contra a qual o ESTADO DO RIO GRANDE DO SUL interpôs agravo interno (fls. 122-126), tendo o referido Ente Público também apresentado contestação (fls. 127-135).
+O Ministério Público Federal opina pelo não conhecimento da reclamação (fls. 174-179).
+É o relatório.
+Decido.
+Após a concessão da medida liminar, a Primeira Seção do Superior Tribunal de Justiça, em 27/11/2024, em razão da superveniência do julgamento do Tema n. 1234 da Repercussão Geral do Supremo Tribunal Federal revogou as teses firmadas no IAC n. 14, apontadas como descumpridas.
+Nesse contexto, diante da revogação da decisão desta Corte Superior, indicada como tendo sido d esrespeitada pelo Órgão Reclamado, perdeu-se o objeto da presente reclamação, ficando, também, esvaziado o agravo interno interposto contra a concessão da liminar.
+Ante o exposto, julgo PREJUDICADA a presente reclamação, ficando revogada a liminar concedida, julgando PREJUDICADO, também, o agravo interno de fls. 122-126 (Petição n. 00852419/2024).
+Condeno a parte reclamante ao pagamento de honorários advocatícios, os quais fixo em 10% (dez por cento) do valor da causa, em atenção ao disposto no art. 85, § 2º, do Código de Processo Civil, devendo ser observado que a parte reclamante é beneficiária da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. PROCESSUAL CIVIL. TRATAMENTO DE SAÚDE. DECISÃO APONTADA COMO DESCUMPRIDA. IAC N. 14. POSTERIOR REVOGAÇÃO PELO STJ. PERDA DO OBJETO. RECLAMAÇÃO PREJUDICADA.
