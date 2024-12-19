@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MIKAELLE DE MELO ALVAREZ no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado da Paraíba, que julgou improcedente a revisão criminal n. 0819045-31.2021.8.15.0000.
+Segundo se infere, a paciente foi definitivamente condenada à pena total de 18 anos, 1 mês e 24 dias de reclusão, em regime inicial fechado, mais o pagamento de 2.175 dias- multa pela prática dos crimes previstos nos arts. 33, caput e 35, caput, c. c 40, inciso V, todos da Lei n. 11.343/06.
+Neste habeas corpus, busca a defesa a absolvição da ré pelo delito de associação ao tráfico porque ausente prova da estabilidade e permanência entre os agentes, bem como o reconhecimento do tráfico privilegiado porque atendidos os requisitos legais.
+É o relatório.
+Decido.
+Em consulta na base de dados desta Corte, observa-se que este habeas corpus constitui mera reiteração dos pedidos formulados no HC 897.596/PB, de minha relatoria, no qual neguei provimento ao agravo regimental, em acórdão assim ementado:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA ELEITA. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE. REDIMENSIONAMENTO. INVIABILIDADE. AUMENTO ADEQUADAMENTE JUSTIFICADO. MINORANTE DO TRÁFICO DE DROGAS. NÃO INCIDÊNCIA. CONDENAÇÃO SIMULTÂNEA POR TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que se refere à absolvição pelos crimes de tráfico de drogas e associação para o tráfico, não obstante tal tema seja incompatível com a natureza da ação mandamental, por demandar revolvimento de matéria fático-probatória, do acórdão da revisão criminal dessume-se que a agravante foi presa em flagrante em veículo que lhe pertencia, dentro do qual havia 5kg de crack, bem como que ela esteve envolvida em negociações para aquisição e venda de drogas, fatos que justificam a sua condenação por ambos os crimes, pois soberanamente reconhecidos pelas instâncias ordinárias, responsáveis pelo detido exame da prova contida nos autos da ação penal, não sendo possível infirmar essa conclusão na via mandamental.
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+3. As instâncias ordinárias utilizaram-se de fundamentos concretos para justificar o recrudescimento da pena-base, mencionando o envolvimento do filho menor para negativar a culpabilidade, e sopesando negativamente a natureza e quantidade de drogas apreendida (5kg de crack), nos termos do art. 42 da Lei n. 11.343/2006, não se vislumbrando flagrante ilegalidade no patamar de 2 anos escolhido pela origem para aumentar a reprimenda básica da agravante pelos crimes de tráfico de drogas e associação para o tráfico.
+4. Inaplicável a causa de diminuição do §4º do art. 33, da Lei n. 11.343/2006 haja vista ter havido condenação concomitante pelos crimes de tráfico de drogas e associação para o tráfico, o que denota, ao ver da jurisprudência desta Corte, a dedicação à atividade criminosa.
+5. Agravo regimental desprovido.
+Logo, houve o esgotamente desta instância, para o conhecimento dos temas. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDOS. AGRAVO DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - No presente caso, o writ não passa de mera reiteração de pedidos no HC n. 712.783/SP, já julgado. Nesse passo, "Inviável o reexame de matéria já apreciada em mandamus anteriormente julgado, configurada a inadmissível reiteração de pedido, conforme art. 210 do Regimento Interno do STJ" (AgRg no HC n. 756.282/SE, Quinta Turma Rel. Min. Ribeiro Dantas, DJe de 20/10/2022).
+Agravo regimental desprovido.
+(AgRg no HC n. 752.006/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/12/2022, DJe de 16/12/2022.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 750.512/SP. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n. 750.512/SP, foi formulada idêntica pretensão em favor do ora Recorrente. O recurso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria. Assim, é incognoscível a insurgência defensiva.
+2. Não é possível a concessão da ordem de habeas corpus de ofício na hipótese de reiteração de pedido, porquanto a viabilidade de se proceder de tal maneira deve ser verificada quando do j ulgamento do writ conexo.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 172.358/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022.)
+Ante o exposto, julgo prejudicado este habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
