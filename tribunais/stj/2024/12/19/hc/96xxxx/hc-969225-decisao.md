@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO LACERDA DE LIMA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2267972-32.2024.8.26.0000).
+Consta dos autos que o paciente foi denunciado como incurso no art. 33, caput, c/c o art. 40, inciso VI, ambos da Lei n. 11.343/2006. Foi requerido acesso à prova digital utilizada na audiência, tendo o pleito sido indeferido. Irresignada, a defesa impetrou prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 8):
+PENAL. "HABEAS CORPUS". TRÁFICO DE DROGAS. ACESSO A PROVAS.
+Pretendida a concessão da ordem para determinar acesso integral da prova produzida "digitalmente", por meio de "link" ou entrega em cartório.
+Verificada a prolação de sentença penal condenatória pelo Juiz "a quo", com análise aprofundada da questão aqui controvertida pelo paciente (em síntese, a respeito do indeferimento de acesso integral de conversas realizadas por aplicativos de mensagens), após, evidentemente, dilação probatória e ponderação sobre a necessidade do pleiteado, o que não seria admissível, então, na via estreita do writ, restaria prejudicada a ordem, haja vista não mais persistir decisão anterior, ora impugnada e avaliada. De qualquer maneira, conveniente, desde logo, observar não surgir situação, constrangimento ilegal, passível de correção via remédio heroico. Como destinatário das provas, pode o Juízo indeferir provas impertinentes ao feito, destacando-se que, no caso concreto, a toda evidência, foram encartados nos autos os trechos de interesse ao deslinde da questão fática. Impetrante que poderá apresentar recurso de apelação para buscar as referidas pretensões, não servindo o habeas corpus como remédio para ver adiantadas as teses que devem ser objeto de análise oportuna, por meio de recurso próprio. Denegação de rigor.
+Ordem denegada.
+No presente mandamus, a defesa busca, em síntese, ter acesso a toda prova dos autos. Pugna, liminarmente, pela suspensão do processo e, no mérito, pela nulidade da sentença e pela soltura do paciente, para que seja reaberta a instrução processual, com efetivo acesso às provas.
+É o relatório. Decido.
+Pela leitura do acórdão impugnado, verifica-se que, entre a impetração do prévio mandamus e seu julgamento, houve a prolação de sentença condenatória, cujo mérito ainda não foi impugnado perante o Tribunal de origem. Tem-se, assim, alteração substancial da situação fática e processual dos autos, o que inviabiliza o conhecimento do presente writ .
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
