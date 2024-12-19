@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de ROBSON JOSÉ XIMENES - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0001376-42.2022.8.12.0001) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Apelação Criminal n. 0001376-42.2022.8.12.0001), não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 3ª Vara Criminal de Campo Grande/MS (Ação Penal n. 0001376-42.2022.8.12.0001), ao argumento de que a busca domiciliar não foi precedida de fundada suspeita da prática de crime.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, conforme consta dos autos, os policiais realizaram a abordagem do veículo que havia saído em alta velocidade de uma residência e, ao checarem os documentos, desconfiaram do comportamento do réu José e do fato de o carro estar em nome de terceiro. Resolveram ir até a residência de Robson (nome de quem estava o carro e local de onde José havia saído) e lá solicitaram a autorização para averiguar o imóvel, o que foi consentido pelo réu Robson. No local foram apreendidos 41,562 kg de cocaína (fls. 52/53).
+Tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. CONTEXTO FÁTICO ANTERIOR. EXISTÊNCIA DE AUTORIZAÇÃO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
