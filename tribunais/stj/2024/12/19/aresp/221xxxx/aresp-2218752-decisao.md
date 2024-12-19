@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contr a decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa aos artigos arrolados e falta de comprovação de similitude entres os julgados confrontados (e-STJ fls. 272/274).
+O acórdão recorrido está assim ementado (e-STJ fl. 227):
+APELAÇÃO - AÇÃO DE RESCISÃO CONTRATUAL C.C. INDENIZATÓRIA - Compra e venda de bem móvel - Sentença de improcedência - Autora que não comprovou a suposta adulteração na documentação do veículo adquirido do réu - Existência de comunicação de venda que não configura vício oculto - Verificação da condição do bem adquirido que configura cautela esperada de empresa do ramo de comércio de automóveis - Manutenção da decisão que se impõe - Honorários advocatícios recursais - Negado provimento.
+Nas razões do recurso especial (e-STJ fls. 233/244), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 147, 441, 443 e 444 do CC/2002. Sustentou que (e-STJ fl. 239):
+ ..  o Recorrido não agiu de boa-fé, e sim com dolo omisso, pois ocultou da Recorrente que o automóvel possuía restrição que impossibilitaria a transferência do veículo, restrição está que, na verdade se tratava de um "comunicado de venda", que no caso em tela impossibilitou a Recorrente de transferir o bem para o seu cliente.
+O próprio Recorrido confessa que adquiriu o veículo de terceiro, mas não chegou a transferir o veículo para o seu nome (fls.92 - item III, parágrafo segundo), e mesmo assim vendeu o automóvel para a Recorrente como se toda a documentação estivesse regularizada.
+Indicou julgados do TJPR, do TJDFT e do TJAC, a fim de demonstrar a divergência de entendimentos.
+Sem contrarrazões (e-STJ fl. 271).
+No agravo (e-STJ fls. 277/287), declara a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 352).
+É o relatório.
+Decido.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 229/230):
+A alegada omissão acerca da comunicação de venda existente não socorre a autora, já que não se trata de vício oculto do produto, sendo que por tratar-se de empresa especializada na compra e venda de veículos, conhecedora dos percalços, riscos e prejuízos que podem surgir das falhas nos trâmites burocráticos de regularização de documentação, era seu dever diligenciar a respeito da efetiva situação do bem junto ao órgão de trânsito antes de concretizar a compra e efetuar a revenda mediante financiamento, certificando-se sobre as informações do automóvel, o que não fez, conforme confessado pela autora devido à alegada relação de confiança existente com o réu.
+A aquisição sem a devida diligência configura risco da atividade desenvolvida pela requerente, não havendo como atribuir ao réu a frustração na transferência do registro de propriedade do bem, sequer tendo sido demonstradas as infrutíferas tentativas de regularização junto ao órgão de trânsito, não se podendo ainda olvidar que desde a tradição (setembro/2014) até a venda a Alan Pereira de Souza (maio/2015) ao que parece a autora ficou com o carro sem realizar qualquer verificação, sendo que se a tivesse feito teria constatado a existência de comunicação de venda ativa e não teria efetuado a venda mediante financiamento.
+Dessa forma, ausente prova de adulteração da documentação do veículo e sabendo-se que a constatação de existência de restrição administrativa (comunicação de venda ativa) era diligência esperada da autora, de rigor a manutenção da improcedência da ação, não se podendo admitir a alegação de vício oculto mais de quatro anos após a tradição do bem (ação ajuizada em janeiro/2019) sem qualquer prova de tentativa de resolução junto ao réu em momento anterior.
+Os argumentos apresentados no especial não impugnaram os fundamentos adotados no acórdão recorrido.
+A recorrente não rebateu as razões adotadas pela Corte local de que (a) não se trata de vício oculto, (b) a aquisição do bem sem a devida diligência configura risco da atividade, (c) não foram demonstradas as tentativas infrutíferas de regularização junto ao órgão de trânsito, e (d) inexiste prova da adulteração da documentação do veículo.
+A deficiência na fundamentação do recurso, que apresenta argumentos dissociados do que foi decidido pelo acórdão recorrido, deixando de impugnar os fundamentos adotados pelo Tribunal de origem, obsta o conhecimento do recurso especial (Súmulas n. 283 e 284 do STF).
+Além disso, a conclusão a que chegou o TJSP decorreu do exame do acervo fático-probatório dos autos. Dessa forma, decidir de outro modo demandaria revisão de elementos de fato, o que é incabível no especial, por força da Súmula n. 7/STJ.
+Referidos óbices - Súmulas n. 283 e 284 do STF e 7 do STJ - impedem o conhecimento do recurso interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
