@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 150):
+TRIBUTÁRIO E ADUANEIRO. IMPOSTO DE IMPORTAÇÃO. REMESSA POSTAL. DECRETO-LEI N.º 1.804/1980. ISENÇÃO. PORTARIA MF Nº 156/99. ILEGALIDADE.
+1. A tributação das remessas postais e encomendas aéreas internacionais obedece ao Regime de Tributação Simplificada, instituído pelo Decreto-Lei 1.804/80, o qual estabelece que as remessas de até cem dólares são isentas do imposto de importação quando destinados a pessoas físicas.
+2. A Portaria MF 156/99, ao exigir que tanto o destinatário quanto o remetente fossem pessoas físicas, e ao reduzir a cota de isenção para o valor de cinquenta dólares, extrapolou os limites claramente fixados na lei que rege a matéria, violando o princípio da legalidade ao qual estão vinculados os atos administrativos. Precedentes desta Corte.
+Os embargos de declaração opostos foram rejeitados (fls. 188/191).
+A parte recorrente s ustenta que, a despeito da oposição dos embargos de declaração, o Tribunal de origem omitiu-se na análise da legislação aplicável ao caso concreto, notadamente no que diz respeito às previsões contidas no art. 2º do Decreto-Lei 1.804/1980, frente ao alcance restritivo da norma isentiva (art. 111, II, do Código Tributário Nacional - CTN), violando o art. 1.022, II, do Código de Processo Civil (CPC).
+Tal dispositivo, conforme discorre, "prevê a possibilidade de isenção do imposto de importação em mercadorias importadas via remessa fiscal no valor de até 100 dólares, reservando à autoridade fiscal a possibilidade de regulamentar a matéria, o que foi feito pelas Portarias MF 156/99 e IN 096/99" (fl. 209).
+Aduz que o art. 1º, § 4º, do Decreto-Lei 1.804/1980 estabelece requisitos e condições para a aplicação do Regime de Tributação Simplificada (RTS), o qual está em discussão, e o art. 2º, caput, estende o Regime de Tributação Simplificada à hipótese isentiva prevista no seu inciso II.
+Segue afirmando que a hipótese de isenção prevista no art. 2º, II, está inserida no regime de tributação simplificada (RTS criada pelo art. 1º do Decreto-Lei 1.804/1980) e que não se trata de norma isolada, portanto, mas de norma inserida em um regime de tributação específico, que atribui ao Ministro da Fazenda a faculdade de dispor sobre as isenções previstas no inciso II, com permissão para estabelecer requisitos e condições, dentre elas a de que as remessas postais beneficiadas com a isenção devem ser provenientes de pessoas físicas, não se aplicando às remessas provenientes de pessoas jurídicas. Tal permissão objetiva restringir o alcance dos benefícios criados. Cita o art. 111, II do CTN.
+Dessa forma, ao contrário do entendimento adotado pelas instâncias ordinárias, há autorização legal expressa para a criação de requisitos e condições em dispositivo próprio da disciplina do Regime de Tributação Simplificada (RTS).
+Requer o provimento do recurso a fim de que o acórdão recorrido "seja declarado para fins de supressão da omissão veiculada" (fl. 212).
+A parte adversa não apresentou contrarrazões.
+O recurso foi admitido na origem (fls. 228/229).
+É o relatório.
+A irresignação não merece acolhimento.
+Trata-se, na origem, de mandado de segurança impetrado pela parte ora recorrida cujo pedido foi julgado parcialmente procedente para declarar a inexigibilidade do recolhimento do imposto de importação sobre mercadorias, sobre o excedente a US$ 50,00, por violação do art. 2º, II, do Decreto-Lei 1.804/1980.
+Em apelação, a parte recorrente alegou que a isenção do imposto de importação está condicionada às restrições do Decreto-Lei 1.804/1980 e da Portaria MF 156/1999, as quais estabelecem que estarão isentos os bens que integrem remessa postal internacional no valor de até US$ 50.00 (cinquenta dólares americanos) ou o equivalente em outra moeda, desde que o remetente e o destinatário sejam pessoas físicas.
+O Tribunal de origem, ao negar provimento à apelação, fundamentou seu entendimento nestes termos (fls. 152/155):
+A tributação das remessas postais e encomendas aéreas internacionais obedece ao Regime de Tributação Simplificada, instituído pelo Decreto-Lei 1.804/80, verbis:
+Art. 1º Fica instituído o regime de tributação simplificada para a cobrança do imposto de importação incidente sobre bens contidos em remessas postais internacionais, observado o disposto no artigo 2º deste Decreto-lei.
+(..)
+Art. 2º - O Ministério da Fazenda, relativamente ao regime de que trata o art. 1º deste decreto-Lei, estabelecerá a classificação genérica e fixará as alíquotas especiais a que se refere o § 2º do art. 1º, bem como poderá:
+I - dispor sobre normas, métodos e padrões específicos de valoração aduaneira dos bens contidos em remessas postais internacionais;
+II - dispor sobre a isenção do imposto sobre a importação dos bens contidos em em remessas de valor de até cem dólares norte americanos, ou o equivalente em outras moedas, quando destinados a pessoas físicas.
+A Portaria MF 156/99 dispõe:
+Art. 1º - O regime de tributação simplificada - RTS, instituído pelo Decreto-Lei nº 1.804, de 3 de setembro de 1980, poderá ser utilizado no despacho aduaneiro de importação de bens integrantes de remessa postal ou encomenda aérea internacional no valor de até US$ 3.000,00 (três mil dólares dos Estados Unidos da América) ou o equivalente em outra moeda, destinada a pessoa física ou jurídica, mediante o pagamento do Imposto de Importação calculado com a aplicação da alíquota de 60% (sessenta por cento) independentemente da classificação tarifária dos bens que compõem a remessa ou encomenda.
+§2º - os bens que integrarem remessa postal internacional no valor de até US$ 50,00 (cinqüenta dólares dos Estados Unidos da América) ou o equivalente em outra moeda, serão desembaraçados com isenção do Imposto de Importação, desde que o remetente e o destinatário sejam pessoas físicas.
+Observa-se que o Decreto-Lei 1.804/80 estabelece que as remessas de até cem dólares são isentas do imposto de importação quando destinados a pessoas físicas, nada mencionando sobre o remetente.
+A Portaria MF 156/99, ao exigir que tanto o destinatário quanto o remetente sejam pessoas físicas, e ao reduzir a cota de isenção para o valor de cinquenta dólares, extrapolou os limites claramente fixados na lei que rege a matéria, violando o princípio da legalidade ao qual estão vinculados os atos administrativos.
+ ..
+No caso concreto, a impetrante recebeu, pela via postal, mercadorias avaliadas em US$ 72,75 (ev. 1 EMAIL7), enquadrando-se, assim, nos parâmetros de isenção fixados pelo Decreto-lei 1.804/80 em seu art. 2º, inciso II.
+Consta nos autos, ainda, petição da ré informando o cumprimento da liminar concedida em juízo, acompanhada do Demonstrativo de Impostos e Serviços - DIS, demonstrando a cobrança apenas das despesas postais (ev. 26), o que já havia sido noticiado pelo impetrante no ev. 22.
+Logo, ante a prova do direito alegado no mandamus quanto ao imposto de importação, deve ser mantida a concessão da segurança.
+Da leitura da fundamentação acima, observo que a Corte regional, ao tratar da pretensão da parte recorrente no tocante à observância e aplicação da norma isentiva, deu solução adequada à lide, devidamente fundamentada, adotando conclusão pertinente e condizente com a interpretação dada à legislação analisada (fls. 152/154).
+Vê-se, portanto, que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ante o exposto, conheço do recurso e a ele nego provimento.
+Publique-se. Intimem-se.
+ EMENTA
