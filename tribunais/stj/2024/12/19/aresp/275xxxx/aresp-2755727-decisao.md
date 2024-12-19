@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado por Renato Silveira Braga contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 48):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. RECURSO SECUNDUM EVENTUM LITIS. EXCEÇÃO DE PRÉ EXECUTIVIDADE. REITERAÇÃO. INADMISSIBILIDADE. PRECLUSÃO. DECISÃO MANTIDA. 1. O agravo de instrumento é um recurso secundum eventum litis, devendo sua análise ater-se apenas as matérias tratadas na decisão agravada. 2. Interposta exceção de pré- executividade e analisada a matéria nela trazida, não pode novo incidente da mesma espécie ser oposto, ainda que discuta outras questões, pois patente a preclusão consumativa. 3. À luz da sistemática processual vigente, é inadmissível a instauração de sucessivas objeções de pré-executividade, ainda que sejam arguidas diferentes matérias de defesa. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 71/103).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 485, IV, §3º, 507 e 782, do CPC.
+Sustenta, em síntese, que não se opera a preclusão consumativa da segunda exceção de pré-executividade, na hipótese em que não houve julgamento anterior da matéria deduzida, tendo em vista que o referido expediente processual cuida de matéria de ordem pública.
+Contrarrazões às fls. 185/199 .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Assiste razão à parte agravante.
+Com efeito, o STJ, em conformidade com a disposição do CPC, entende que as matérias de ordem pública, conhecíveis de ofício pelo julgador, não se submetem ao instituto da preclusão. Assim, esta Corte Superior entende que só ocorre a preclusão consumativa quando a matéria for deduzida e apreciada em julgamento anterior de exceção de pré-executividade.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA COLETIVO. PARCELA AUTÔNOMA DE EQUIVALÊNCIA. PAE. JUÍZES CLASSISTAS. MATÉRIA NÃO APRECIADA ANTERIORMENTE. AUSÊNCIA DE PRECLUSÃO. LIMITES DA COISA JULGADA. SÚMULA 7/STJ. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 282/STF. DIVERGÊNCIA PREJUDICADA.
+1. A tese recursal quanto à suposta ofensa ao art. 987, § 2º, do CPC não foi objeto de debate pela Corte regional. Frise-se que não foram sequer opostos Embargos de Declaração na origem para sanar eventual vício. Assim, ante a falta de prequestionamento, aplica-se, por analogia, a Súmula 282/STF.
+2. Consoante o posicionamento do Superior Tribunal de Justiça, quando suscitada em Exceção de Pré-Executividade matéria de ordem pública não apreciada e decidida anteriormente, não há falar em preclusão. Nessa linha: AgInt no AREsp 2.248.572/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11.5.2023; e AgRg no REsp 1.513.681/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23.6.2015.
+3. Alterar a conclusão a que chegou o órgão julgador sobre a coisa julgada e a legitimidade da parte implica revolver o conjunto fático-probatório produzido nos autos, procedimento inadmissível na via eleita ante o óbice da Súmula 7 do STJ.
+4. Por fim, na forma da jurisprudência do STJ, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (AgInt no AREsp 912.838/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.3.2017). Na mesma linha: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 24.3.2017.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.102.318/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/4/2024, DJe de 2/5/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. SEGUNDA EXEÇÃO DE PRÉ-EXECUTIVIDADE. NOVO ARGUMENTO. PRESCRIÇÃO INTERCORRENTE. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO CONSUMATIVA. INEXISTÊNCIA. ANÁLISE DA MATÉRIA. NECESSIDADE. VIOLAÇÃO AO ART. 1022 DO CPC.
+I - O recorrente em seu agravo de instrumento interposto afirmou que a execução deveria ter sido extinta diante da ocorrência de prescrição intercorrente. O Tribunal a quo, afirmou que teria ocorrido a preclusão consumativa, uma vez se tratar de uma segunda exceção.
+II - A exceção de pré-executividade que traz em seu bojo, questão de ordem pública, não se sujeitando à preclusão, sendo possível a apresentação de nova exceção com objeto diverso da primeira.
+Precedentes: AgInt no AREsp n. 2.248.572/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/5/2023, DJe de 11/5/2023 e AgInt no AREsp n. 1.268.464/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/6/2020, DJe de 19/6/2020.
+III - Verificando-se a possibilidade de análise de uma segunda exceção de pré-executividade com objeto diverso, e sendo a questão de ordem pública, se faz necessária a análise da hipótese pelo Tribunal a quo, assim, não ocorrendo a referida análise se se apresenta reconhecida a omissão, com violação ao art. 1022 do CPC.
+IV - Agravo interno provido, para conhecer do agravo e dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal a quo para que se analise a questão da prescrição intercorrente.
+(AgInt no AREsp n. 2.251.851/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/11/2023, DJe de 27/11/2023.)
+Na espécie, o Tribunal de origem considerou que, apresentada exceção de pré-executividade, não poderia a parte executada se valer novamente do instituto em razão da preclusão consumativa.
+Ocorre que, em exceção de pré-executividade, a matéria alegada é, em tese, de ordem pública, não se sujeitando à preclusão, de modo que, não tendo sido apreciada anteriormente, plenamente possível a apresentação de nova objeção com objeto diverso.
+Dessa forma, estando o acórdão recorrido baseado em premissa jurídica equivocada, devem os autos retornar ao Tribunal de origem para que prossiga no julgamento do Agravo de Instrumento.
+ANTE O EXPOSTO, conheço do agravo para dar provimento ao recurso especial e determinar o retorno dos autos ao Tribunal a quo para que prossiga no julgamento do agravo de instrumento como entender de direito.
+Publique-se.
+EMENTA
