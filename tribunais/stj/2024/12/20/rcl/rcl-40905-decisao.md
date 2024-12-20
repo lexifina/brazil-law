@@ -1,0 +1,19 @@
+DECISÃO
+Em reclamação ajuizada por HEBER LOPES, alega-se de encontro a acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Agravo de instrumento com pedido liminar. Ação de reintegração de posse. Decisão da nobre magistrada de primeiro grau que não é teratológica e muito menos ilegal. Enunciado 59 da Súmula desta Corte.
+Deferimento em audiência inaudita altera pars da reintegração pretendida. Juíza que não se afasta, embora sem citar expressamente do art. 562 e seus parágrafos, bem como do poder geral de cautela de urgência dos artigos 294 e 297 do CPC, com decisão amparada em provas suficientes para a cognição breve, que não pode ser considerada desmotivada.
+Inexistência de violação ao contraditório, que nos termos do artigo 9" do CPC/15, aplicável à espécie, por força do enunciado administrativo 03 do STJ. Acerto da decisão que enfocou como tema principal a vantagem indevida do agravante em detrimento do agravado, logo, tendo por ponto nodal o dano e o prejuízo. Aplicação do princípio da asserção. Decisão que se mantem. AGRAVO CONHECIDO E DESPROVIDO. (fls. 12-13).
+Alega a reclamante que, "Em decisão publicada em 15.09.2020, a Exma. Desembargadora usurpa a competência deste Tribunal quando determina a colocação em pauta do mandado de segurança de onde emanou a decisão ora Reclamada, mesmo o Reclamante reiterando a Exma. Relatora de que ela é demandada na exceção de suspeição por ser Membro do Órgão Especial, assim figura como demandada na exceção de suspeição que tramita nos autos no 0035234-29.2009.8.19.0000, que data máxima vênia, ainda não foi apartada dos autos principais" (fl. 3).
+Ressalta que a "Relatora proferiu a decisão Reclamada, colocando o Mandado de Segurança em pauta para ser julgado pelos Exceptos, que insistem em continuar julgando processos do beneficiário das decisões, mesmo sendo demandados em excepcionalidades que não são remetidas para ser apreciado pelo Juízo competente, sendo ele o Superior Tribunal de Justiça" (fl. 3).
+Conclui, assim, que "a competência do Superior Tribunal de Justiça, está sendo usurpada guando os demandados insistem em julgar ações onde são demandados" (fl. 4).
+É o relatório.
+Decido.
+A reclamação é procedimento destinado a preservar a competência do Superior Tribunal de Justiça sempre que haja indevida usurpação por outros órgãos judiciais ou para garantir a autoridade de suas decisões. Para legitimar o acesso à via reclamatória, no entanto, torna-se imperioso que, de maneira efetiva, demonstre-se a existência de desrespeito à decisão deste STJ.
+A esse propósito, destaca-se que, de acordo com a uníssona orientação jurisprudencial, o ajuizamento da reclamação, tendo por finalidade garantir a autoridade de suas decisões, pressupõe a existência de um comando positivo proferido no caso concreto, cuja eficácia deva ser assegurada, protegida e conservada.
+Nesse sentido, os seguintes precedentes: AgInt nos EDcl na Rcl 36.498/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 19/03/2019, DJe 29/03/2019; AgInt na Rcl 32.352/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 03/05/2017; Agint na Rcl 32.938/MS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 07/03/2017.
+Na mesma linha de intelecção: Rcl 27.560/PR, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 02/03/2017; AgInt na Rcl 31.875/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe de 19/12/2016; AgInt na Rcl 32.938/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 07/03/2017; AgInt na Rcl 32.276/PA, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, j ulgado em 14/06/2017, DJe 27/06/2017.
+No caso, constata-se inexistir qualquer comando proferido por este STJ, cuja autoridade tenha sido desrespeitada pela instância de origem, de modo que, impositivo o não conhecimento da presente reclamação.
+Ante o exposto, não conheço da reclamação.
+Publique-se. Intimem-se.
+Decorrido o prazo recursal, arquivem-se os autos .
+EMENTA
