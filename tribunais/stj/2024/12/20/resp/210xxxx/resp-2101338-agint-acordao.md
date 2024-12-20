@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+ AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL  DE  CONTRATO  DE  PRESTAÇÃO  DE  SERVIÇOS  EDUCACIONAIS.  CURSO  DE  MEDICINA.  VALOR  DA  MENSALIDADE.  REDUÇÃO.  PANDEMIA  DA  COVID-19 .  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  AUSÊNCIA.  FUNDAMENTAÇÃO  RECURSAL.  DEFICIÊNCIA.  SÚMULA  Nº  283/STF.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Não  pode  ser  conhecido  o  recurso  que  não  impugna  especificamente  os  fundamentos  do  acórdão  recorrido,  atraindo  a  incidência  da  Súmula  nº  283/STF,  aplicada  por  analogia.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SOCIEDADE  DE  ENSINO  SUPERIOR  ESTÁCIO  DE  SÁ  LTDA.  contra  a  decisão  que  conheceu  parcialmente  do  recurso  especial  para  ,  nessa  extensão,  negar-lhe  provimento  devido  à  ausência  de  violação  do  artigo  1.022  do  Código  de  Processo  Civil  e  incidência  da  Súmula  nº  283/STF  (e-STJ  fls.  1.873/1.876).
+Nas  presentes  razões,  a  agravante  aduz  que  a  decisão  do  tribunal  de  origem  foi  omissa  e  contraditória,  alegando  que:
+"(..)  aplicou  de  forma  contraditória  o  entendimento  firmado  pelo  e.  STF  na  ADPF  713  sobre  a  inconstitucionalidade  das  decisões  pautadas  na  eclosão  da  pandemia  e  na  transposição  do  ensino  para  o  ambiente  virtual,  além  de  ter  deixado  de  apreciar  provas  capazes  de  infirmar  o  julgado"  (e-STJ  fl.  1.886).
+Afirma,  ainda,  que  é  inaplicável  a  Súmula  nº  283/STF,  aduzindo  que:
+" (..)  impugnou  adequadamente  todos  os  fundamentos  do  acórdão  recorrido,  inexistindo  óbice  à  apreciação  do  recurso.  Especialmente  quanto  à  ausência  de  prestação  dos  serviços  com  base  aplicação  da  teoria  da  imprevisão  ao  caso  e  na  inocorrência  de  desequilíbrio  contratual,  justamente  porque  os  serviços  não  deixaram  de  ser  prestados! "  (e-STJ  fl.  1.883).
+Por  fim,  alega  que  a  divergência  jurisprudencial  foi  demonstrada.
+Não  foi  apresentada  impugnação  (e-STJ  fls.  1.898/1.908).
+É  o  relatório.
+EMENTA
+ AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL  DE  CONTRATO  DE  PRESTAÇÃO  DE  SERVIÇOS  EDUCACIONAIS.  CURSO  DE  MEDICINA.  VALOR  DA  MENSALIDADE.  REDUÇÃO.  PANDEMIA  DA  COVID-19 .  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  AUSÊNCIA.  FUNDAMENTAÇÃO  RECURSAL.  DEFICIÊNCIA.  SÚMULA  Nº  283/STF.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Não  pode  ser  conhecido  o  recurso  que  não  impugna  especificamente  os  fundamentos  do  acórdão  recorrido,  atraindo  a  incidência  da  Súmula  nº  283/STF,  aplicada  por  analogia.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  caso  dos  autos,  o  tribunal  de  origem  assim  se  manifestou  acerca  da  possibilidade  de  redução  das  mensalidades  do  curso  de  medicina:
+"  (..)  vale  consignar  que  o  objeto  da  presente  demanda,  ajuizada  em  maio  de  2020,  diz  respeito  às  mensalidades  daquele  ano  e  aquelas  que  venceram  durante  o  período  de  suspensão  das  aulas  presenciais.
+Outrossim,  cabe  registrar  o  entendimento  firmado  no  Supremo  Tribunal  Federal,  no  julgamento  das  ADPFs  706  e  713,  na  qual  se  reconheceu  a  inconstitucionalidade  da  concessão  de  descontos  lineares  sobre  as  mensalidades  cobradas  pelas  instituições  de  ensino  superior,  sem  considerar,  no  caso  concreto,  as  peculiaridades  dos  efeitos  da  crise  pandêmica  para  as  partes  envolvidas  no  contrato.
+(..)
+(..)  de  acordo  com  o  quadro  probatório  delineados  nos  autos,  impõe-se  aferir  se  houve  o  efetivo  desequilíbrio  contratual  a  ensejar  a  redução  do  valor  das  mensalidades  do  curso  de  medicina  durante  o  período  em  que  vigoraram  as  medidas  de  restrição;  o  que  encontra  respaldo  na  regra
+do  artigo  317  do  Código  Civil1e  no  princípio  que  veda  o  enriquecimento  sem  causa,  uma  vez  que  a  pandemia  da  COVID-19  se  enquadra  como  fato  superveniente,  extraordinário  e  imprevisível.
+No  caso,  verifica-se  que,  no  1º  semestre  de  2020,  os  Autores  estavam  matriculados  no  1º  período  do  curso  de  Medicina  (v.  index  71/197).
+Decerto  que  a  Instituição  de  Ensino  ré,  para  dar  continuidade  às  atividades  educacionais,  implementou  o  sistema  de  aulas  remotas,  por  meio  digital,  transferindo  para  essa  modalidade  as  disciplinas  teórico-cognitivas,  tal  como  autorizado  pelas  Portarias  do  MEC.
+Cabe  destacar  que  o  contrato  de  prestação  de  serviços  educacionais  não  foi  interrompido,  haja  vista  que  as  aulas  relacionadas  às  disciplinas  teórico-cognitivas  foram  ministradas  de  forma  síncrona,  quando  necessário.
+Não  se  desconhece  o  fato  de  que  a  implementação  do  sistema  digital  exigiu  da  parte  ré  investimentos  em  tecnologia  para  adaptar-se  à  nova
+realidade,  visando  a  disponibilização  de  aulas  remotas,  assim  como  a  contratação  de  colaboradores  necessários  para  o  funcionamento  do  regime  proposto.
+Todavia,  de  acordo  com  as  medidas  restritivas  sanitárias,  as  aulas  práticas  foram  suspensas.
+E,  segundo  o  Manual  do  aluno,  a  grade  curricular  do  mencionado  período  contemplava  grande  número  de  aulas  práticas  de  laboratório  (v.  index  684-p.  e.  04),  para  as  quais,  repise-se,  era  vedada  a  manutenção  do  sistema  presencial,  bem  como  a  disponibilização  por  meio  virtual.
+É  certo  que  a  suspensão  das  atividades  presenciais  importa,  notoriamente,  em  significativa  redução  de  custos  operacionais,  tais  como  consumo  de  energia  elétrica,  água,  material  de  limpeza,  dentre  outros.
+Com  efeito,  depreende-se  que  o  valor  da  mensalidade  para  o  1º  semestre  do  ano  de  2020  era  de  aproximadamente  R$  11.000,00  (v.  index  71/197);  quantia  esta  que,  naturalmente,  contemplava  toda  a  grade  curricular,  ou  seja,  remunera  tanto  as  aulas  teóricas  quanto  as  práticas.
+Neste  cenário,  mostra-se  desarrozoado  que  o  aluno  arque  com  os  custos  de  um  serviço  que  não  lhe  foi  prestado  integralmente,  razão  pela  qual  deve  ser  obstada  a  cobrança  dos  créditos  correspondentes  àquelas  atividades  pedagógicas  que  não  foram  fornecidas  conforme  contratadas.
+Portanto,  o  pagamento  integral  do  valor  da  mensalidade  consubstancia  obrigação  que  coloca  o  consumidor  em  clara  e  exagerada  desvantagem,  tendo  em  vista  que  o  serviço  deixou  de  ser  prestado  pela  Ré  conforme  contratado;  o  que  autoriza  a  revisão  do  contrato  firmado  entre  as  partes  para  reduzir  o  valor  das  mensalidades  impostas  à  parte  autora.  Tal  conclusão  está  amparada  pelo  disposto  nos  artigos  6º,  inciso  V  e  51,  §  1º,  inciso  II  do  Código  de  Defesa  do  Consumidor.  No  caso,  a  solução  mais  justa,  adequada  e  prudente  à  espécie  é  o  abatimento  dos  valores  inerentes  às  disciplinas  que  efetivamente  deixaram  de  ser  oferecidas  com  o  ensino  remoto,  mantendo-se  a  cobrança  regular  das  aulas  que  foram  ministradas  online"  (e-STJ  fls.  1.574/1.584  -  grifou-se).
+De  fato,  verifica-se  que  a  Corte  local  se  pronunciou  acerca  dos  motivos  que  o  levaram  a  concluir  pelo  cabimento  da  redução  no  valor  da  mensalidade,  afastando  os  argumentos  deduzidos  que,  em  tese,  seriam  capazes  de  infirmar  a  conclusão  adotada.
+Desse  modo,  o  não  acolhimento  das  teses  ventiladas  pela  recorrente  não  significa  omissão  ou  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia,  como  na  espécie.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INCIDENTE  PROCESSUAL.  DECISÃO  QUE  DEFERIU  O  PEDIDO  DE  DESCONSIDERAÇÃO  DA  PERSONALIDADE  JURÍDICA  DA  EMPRESA  EXECUTADA.  PRECLUSÃO.  OCORRÊNCIA.  REVISÃO.  SÚMULA  N.  7/STJ.  TEORIA  MENOR.  OBSTÁCULO  AO  RESSARCIMENTO  DOS  DANOS  CAUSADOS  AOS  CONSUMIDORES.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  O  ENTENDIMENTO  DESTA  CORTE.  SÚMULA  83/STJ.  DESCONSIDERAÇÃO  DA  PERSONALIDADE  JURÍDICA.  REQUISITOS  CONSTATADOS.  REVISÃO.  REVOLVIMENTO  DE  FATOS  E  PROVAS.  SÚMULA  7/STJ.  PENHORA  SOBRE  SALDO  DE  PLANOS  DE  PREVIDÊNCIA  PRIVADA.  POSSIBILIDADE.  NÃO  UTILIZAÇÃO  PARA  FINS  ALIMENTARES.  REVISÃO.  NECESSIDADE  DE  INCURSÃO  NO  ACERVO  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.  MULTA  DO  ART.  1.021,  §  4º,  DO  CPC/2015.  ANÁLISE  CASUÍSTICA.  NÃO  OCORRÊNCIA,  NA  ESPÉCIE.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Não  ocorre  negativa  de  prestação  jurisdicional  quando  o  Tribunal  de  origem  examina,  de  forma  fundamentada,  todas  as  questões  que  lhe  foram  submetidas,  ainda  que  tenha  decidido  contrariamente  à  pretensão  da  parte.  Nesse  contexto,  esta  Corte  já  se  manifestou  no  sentido  de  que  não  há  se  confundir  decisão  contrária  aos  interesses  da  parte  e  negativa  de  prestação  jurisdicional,  nem  fundamentação  sucinta  com  ausência  de  fundamentação.
+(..)"  (AgInt  no  AREsp  2.205.438/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023).
+Ademais,  verifica-se  que  o  tribunal  local  ,  ao  decidir  acerca  da  redução  da  mensalidade,  afirmou  que  essa  era  possível  em  razão  da  ausência  da  prestação  do  serviço,  fundamento  esse  que  não  foi  objeto  de  impugnação  específica,  atraindo,  por  analogia,  a  incidência  da  Súmula  nº  283/STF  :  "É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles."
+A  esse  respeito:
+"PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL.  AGRAVO  DE  INSTRUMENTO.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  SÚMULA  N.  283/STF.  DISSÍDIO  JURISPRUDENCIAL.  AUSÊNCIA  DE  COMPROVAÇÃO.  NÃO-REALIZAÇÃO  DO  COTEJO  ANALÍTICO.
+1.  A  ausência  de  impugnação  dos  fundamentos  do  acórdão  recorrido  que  são
+suficientes  para  mantê-lo  enseja  o  não-conhecimento  do  recurso.  Incidência  da  Súmula  n.  283  do  STF.
+(..)
+3.  Agravo  regimental  desprovido"  (AgRg  no  Ag  1.109.816/DF,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  4/6/2009,  DJe  15/6/2009).
+Por  fim,  a  incidência  da  Súmula  nº  283/STF  impede,  também,  a  análise  da  alegada  divergência  jurisprudencial.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+  Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
