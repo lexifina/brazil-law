@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DESERÇÃO. IRREGULARIDADE NO PREENCHIMENTO DA GUIA DE RECOLHIMENTO. ERRO NA INDICAÇÃO DO NÚMERO DO PROCESSO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. "Havendo indicação errônea do processo originário na na guia de recolhimento das custas devidas ao STJ, e não atendida a intimação regularmente efetuada para sanear o vício, na forma do § 7º do art. 1.007 do Código de Processo Civil, é deserto o recurso interposto" (AgInt no AREsp 2.448.343/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/4/2024, DJe de 11/4/2024).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por POSTO AUTOMAN LTDA contra decisão da Presidência desta Corte, que não conheceu do agravo em recurso especial em razão da sua deserção, incidindo a Súmula 187/STJ.
+Nas razões recursais, a agravante pretende a reforma da decisão, sustentando, em síntese que "o número constante na guia de recolhimento foi justamente o relacionado ao Tribunal Local constante no acórdão recorrido, a saber, processo nº 1.000.19.077962-9/003, conforme consta da Guia de Custas processuais acostada à fl. 648 (e-STJ)" (fl. 729).
+Ao final, sustenta que, "uma vez que o agravante demonstrou o recolhimento das custas processuais a tempo e modo, a majoração dos honorários consignada na decisão agravada não deve prosperar" (fl. 730).
+Devidamente intimada, a parte agravada apresentou impugnação (fls. 736-740).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DESERÇÃO. IRREGULARIDADE NO PREENCHIMENTO DA GUIA DE RECOLHIMENTO. ERRO NA INDICAÇÃO DO NÚMERO DO PROCESSO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. "Havendo indicação errônea do processo originário na na guia de recolhimento das custas devidas ao STJ, e não atendida a intimação regularmente efetuada para sanear o vício, na forma do § 7º do art. 1.007 do Código de Processo Civil, é deserto o recurso interposto" (AgInt no AREsp 2.448.343/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/4/2024, DJe de 11/4/2024).
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não prospera.
+A certidão de fl. 711 dispõe que "A parte indicou erroneamente o "Processo na Origem" ou "Número do Processo que consta no Acórdão Recorrido" na guia de recolhimento das custas judiciais juntada aos autos, uma vez que o número utilizado não corresponde aos existentes na origem" (fl. 711).
+Intimada a proceder ao recolhimento das custas, na forma do § 7º do art. 1.007 do Código de Processo Civil, a ora agravante se limitou a afirmar que "o número indicado na guia de recolhimento de custas processuais foi justamente o número no Tribunal Local constante no acórdão recorrido, a saber, processo nº 1.000.19.077962-9/003, conforme consta da Guia de Custas processuais acostada à fl. 648 (e-STJ)" (fl. 716).
+Conforme asseverado na decisão agravada, "ao contrário do alegado, veja-se que consta no acórdão recorrido o n.º 1.0000.19.077962-9/003 (fl. 587) e na guia consta o n.º 1.000.19.077962- 9/003 (fl. 648)" (fl. 722).
+O entendimento consolidado desta Corte é firme no sentido de que, "havendo indicação errônea do processo originário na na guia de recolhimento das custas devidas ao STJ, e não atendida a intimação regularmente efetuada para sanear o vício, na forma do § 7º do art. 1.007 do Código de Processo Civil, é deserto o recurso interposto" (AgInt no AREsp 2.448.343/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/4/2024, DJe de 11/4/2024). No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DO PAGAMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO COM RECOLHIMENTO EM DOBRO DAS CUSTAS. IRREGULARIDADE NO PREENCHIMENTO DA GUIA DE RECOLHIMENTO. ERRO NA INDICAÇÃO DO NÚMERO DO PROCESSO. DESERÇÃO. SÚMULA N. 187 DO STJ. CONTROVÉRSIA DE MÉRITO NÃO ANALISADA PELO ACÓRDÃO EMBARGADO. INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA N. 315 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o demandante será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal, conforme estabelece o art. 1.007, caput e § 4º, do CPC.
+2. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula n. 187 do STJ).
+3. A irregularidade no preenchimento das guias do preparo -consistente na indicação errônea do número do processo - caracteriza a sua deserção.
+4. São inviáveis os embargos de divergência quando o acórdão embargado nem sequer adentra o mérito do recurso especial, abstendo-se, assim, de fixar tese a respeito da questão federal controvertida (Súmula n. 315 do STJ).
+5. Agravo interno desprovido."
+(AgInt nos EAREsp n. 2.200.629/RS, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 1/10/2024, DJe de 4/10/2024)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. RECOLHIMENTO DO PREPARO RECURSAL NO ATO DE INTERPOSIÇÃO DO RECURSO ESPECIAL NÃO COMPROVADO. GUIA DE RECOLHIMENTO. PREENCHIMENTO COM NÚMERO INCORRETO DO PROCESSO NA ORIGEM. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO DO ART. 1.007, § 4º, DO CPC/2015. DESERÇÃO. SÚMULA 187/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015 INCABÍVEL. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que "a ausência de regular comprovação do preparo, no ato de interposição do recurso, implica a incidência do § 4º do art. 1.007 do CPC/2015. Quem não prova o pagamento a tempo e modo, sem o amparo de justa causa (§ 6º), nem efetua o recolhimento em dobro quando intimado (§§ 4º e 5º), sofre a pena da deserção (Súmula 187/STJ)" - (AgInt no REsp n. 1.856.622/RS, Relator o Ministro Og Fernandes, Segunda Turma, julgado em 15/6/2020, DJe de 24/6/2020).
+2. Na hipótese dos autos, percebeu-se, nesta Corte Superior, haver irregularidade no recolhimento do preparo recursal. Isso porque "a parte não indicou o número do processo no Tribunal de origem, que corresponde à informação "Processo na Origem" ou "Número do Processo que consta no Acórdão Recorrido" na guia de recolhimento das custas judiciais juntada aos autos".
+3. Não saneado o defeito constatado no preparo do recurso especial, após a intimação da parte recorrente, impositivo o não conhecimento do meio de impugnação, considerando que, "havendo indicação errônea do processo originário na na guia de recolhimento das custas devidas ao STJ, e não atendida a intimação regularmente efetuada para sanear o vício, na forma do § 7º do art. 1.007 do Código de Processo Civil, é deserto o recurso interposto" (AgInt no AREsp n. 2.448.343/PE, Relatora a Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+4. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição, situação esta não configurada no caso.
+5. Agravo interno desprovido."
+(AgInt no REsp n. 2.109.780/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/8/2024, DJe de 15/8/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. Nos termos da jurisprudê ncia desta Corte, deve ser reconhecida a deserção do recurso (Súmula 187/STJ), quando a parte recorrente, mesmo devidamente intimada, deixa de regularizar o preparo no prazo concedido.
+1.1. No caso dos autos, a indicação errônea do número de origem na guia de recolhimento das custas devidas ao STJ juntada aos autos, apontando número dissociado dos existentes na origem, a qual não foi sanada mesmo após intimação da agravante, nos termos do § 4º do art. 1.007 do Código de Processo Civil de 2015, enseja a deserção.
+2. Inviável a concessão de novo prazo ou admissão de regularização extemporânea, em razão da preclusão.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.086.240/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/6/2022, DJe de 24/6/2022)
+Por fim, a pretensão que visa afastar a majoração do montante arbitrado na decisão monocrática agravada não merece prosperar, porque o incremento de 15% (quinze por cento) sobre o valor já atribuído a esse título pelas instâncias ordinárias é condizente com o trabalho realizado pelo patrono da parte agravante e não viola os princípios da razoabilidade e da proporcionalidade, porquanto o acréscimo estipulado guarda consonância com as balizas estabelecidas no § 11 do art. 85 do CPC/2015.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
