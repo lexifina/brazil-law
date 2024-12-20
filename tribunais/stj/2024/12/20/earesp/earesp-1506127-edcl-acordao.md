@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. REITERAÇÃO DE ARGUMENTOS. MERO INCONFORMISMO. RECURSO REJEITADO COM IMPOSIÇÃO DE MULTA.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC). Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Manifesto propósito procrastinatório da parte embargante, uma vez que insiste na utilização do recurso integrativo para manifestar seu inconformismo para com a solução conferida à causa.
+3. Embargos de declaração rejeitados com aplicação de multa no importe de 1% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LIDWINA MEDEIROS DAMASCENO contra o acórdão da PRIMEIRA TURMA, de minha relatoria, de fls. 887/891.
+A parte embargante afirma que acórdão de fls. 830/840 continha vício de omissão, vício esse que não havia sido sanado quando da apreciação dos primeiros embargos de declaração opostos.
+A parte embargante busca o pronunciamento sobre os seguintes pontos:
+"(1) aplicação ou não do Decreto nº 20.910/1932 para o reconhecimento da prescrição, por ter sido reconhecida no Tribunal de origem a paralisação (inércia) do processo por mais de cinco anos (entre maio de 1998 e outubro de 2003) por culpa da exequente (em decorrência do conflito de atribuições entre a Procuradoria da Sudene e a da Fazenda Nacional);
+(2) não aplicação do verbete sumular nº 106 do STJ, em decorrência do Tribunal de origem haver reconhecido a culpa concorrente da exequente e do Judiciário, enquanto a pacífica jurisprudência do STJ informa que a aplicação do mencionado verbete restringe-se à culpa exclusiva do Judiciário." (fl. 896)
+Requer que o recurso seja acolhido com efeitos infringentes.
+A parte adversa não apresentou impugnação (fls. 917 e 918).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. REITERAÇÃO DE ARGUMENTOS. MERO INCONFORMISMO. RECURSO REJEITADO COM IMPOSIÇÃO DE MULTA.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC). Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Manifesto propósito procrastinatório da parte embargante, uma vez que insiste na utilização do recurso integrativo para manifestar seu inconformismo para com a solução conferida à causa.
+3. Embargos de declaração rejeitados com aplicação de multa no importe de 1% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+VOTO
+De acordo com o disposto no art. 1.022 do Código de Processo Civil (CPC), são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material da decisão recorrida.
+Neste caso, a PRIMEIRA TURMA do Superior Tribunal de Justiça, no acórdão objeto do recurso ora examinado, não conheceu dos embargos de declaração da parte ora embargante porque não houve omissão (fls. 887/891). Na oportunidade foi esclarecido que:
+Na presente hipótese, o tema referente à prescrição intercorrente foi decidido de forma clara e fundamentada, seguindo o entendimento consolidado pela Primeira Seção desta Corte Superior, no julgamento do Recurso Especial 1.340.553/RS, submetido à sistemática do art. 1.036 e seguintes do CPC (Temas 566 e 570), de que o início do prazo prescricional previsto no art. 40 da Lei 6.830/1980, aplicável também para dívida não tributária, dá-se com a ciência da Fazenda Pública acerca de ausência de efetiva citação do devedor ou de localização de bens penhoráveis, de modo que a ausência de intimação da parte exequente sobre o resultado negativo dessas diligências afasta a alegação de prescrição intercorrente porque nesses casos o prejuízo é presumido.
+O acórdão embargado consignou, ainda, que, em apelação, a exceção de pré-executividade havia sido rejeitada pelo Tribunal de origem com o fundamento de que a parte exequente não poderia ser penalizada com o reconhecimento da prescrição do crédito vindicado diante da demora em se promover a citação válida, quando tanto a Fazenda Pública como o Judiciário deram causa à paralisação do processo executivo, embora em períodos distintos.
+Tal orientação vai ao encontro da jurisprudência consolidada pela Primeira Seção desta Corte Superior no julgamento do Recurso Especial 1.102.431/RJ, sob o rito de recursos repetitivos (Tema 179), de que não se verifica a perda da pretensão executiva pelo decurso do prazo prescricional quando a demora na citação da parte executada decorre da inércia do aparelho judiciário, segundo as disposições da Súmula 106/STJ ("proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência").
+Nestes embargos de declaração, a parte embargante reitera as razões apresentadas no recurso anterior, insistindo na alegação de que, conforme consta do acórdão de origem, a demora na citação não decorreu de culpa exclusiva do Poder Judiciário, visto que a paralisação do trâmite processual decorreu da necessidade de se resolver o conflito administrativo de atribuições entre a Fazenda Nacional e a Procuradoria da Superintendência do Desenvolvimento do Nordeste (Sudene)
+Para esta Corte Superior, a reiteração dos argumentos lançados nos embargos de declaração rejeitados caracteriza a natureza protelatória, o que enseja a condenação ao pagamento da multa prevista no art. 1.026, § 2º, do CPC.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+ ..
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, "os segundos embargos de declaração devem limitar-se a apontar os vícios porventura constatados no acórdão que julgou os primeiros embargos, sendo inadmissíveis quando se contrapõem aos argumentos delineados no aresto anteriormente impugnado" (EDcl nos EDcl no AgRg na AR n. 3.817/MG, relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 23/4/2008, DJe de 12/5/2008). Nesse sentido: EDcl nos EDcl nos EAg n. 884.487/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/12/2017, DJe de 20/2/2018.
+4. A reiteração de alegações já expressamente enfrentadas demonstra o caráter protelatório desses segundos embargos de declaração, a ensejar a imposição de multa ao embargante, fixada em 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC/2015.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EREsp n. 1.864.303/SC, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 5/3/2024, DJe de 7/3/2024, sem destaques no original.)
+Advirto, ainda, que eventual nova oposição de recurso integrativo será objeto de elevação da multa, conforme faculta o § 3º daquele dispositivo legal (art. 1.026 do CPC).
+Ante o exposto, rejeito os embargos de declaração com aplicação de multa no valor de 1% (um por cento) do valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+É o voto.
