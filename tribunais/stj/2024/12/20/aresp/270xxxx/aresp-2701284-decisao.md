@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ (e-STJ fls. 524/525).
+O Tribunal de origem negou provimento ao recurso do recorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 480):
+APELAÇÃO CÍVEL contra r. sentença que julgou procedente a ação de indenização por danos morais, condenando o réu ao pagamento de R$ 5.000,00, em virtude de ofensas de cunho racista perpetradas. RECURSO DO RÉU. Nulidade por falta de relatório e fundamentação. Não configuração. Presença de relatório suscinto e fundamentação dirimente com retomada dos fatos. Indenização por dano moral. Configuração. Apelante que xingou o réu de "macaco", durante atendimento do ofendido como garçom. Ofensa demonstrada, não havendo motivos para desconsideração da versão do autor e da testemunha. Minoração da indenização. Não acolhimento. Quantia fixada que atende às funções reparatória, repreensiva e pedagógica da indenização e considera a alta reprovabilidade da conduta do réu. Valor bem sopesado pelo i. Juízo de origem. RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 513/517).
+No recurso especial (e-STJ fls. 490/505), fundamentado no art. 105, III, "a", da CF, o recorrente apontou violação dos arts. 7º, 9º, 10, 139, I, 141 e 370 do CPC, sustentando que o acórdão recorrido não realizou a necessária reconstrução do caso em julgamento. Ressaltou que "ao confirmar a r. sentença de primeiro grau, o v. acórdão vergastado deixou de observar que o "descrédito" do juiz de primeiro grau, em relação ao depoimento da testemunha do recorrente  ..  deixou de assegurar às partes, em especial ao recorrente, réu na ação indenizatória, a paridade de tratamento em relação ao exercício de direitos e faculdades processuais" (e-STJ fl. 501).
+Contrarrazões apresentadas (e-STJ fls. 520/523).
+No agravo (e-STJ fls. 528/538), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta não apresentada (e-STJ fl. 540).
+É o relatório.
+Decido.
+I) Quanto à responsabilidade civil em razão do incidente, o Tribunal de origem consignou, com base nos elementos fático-probatórios, que, no caso em exame, (i) inexistiu qualquer nulidade na fundamentação da decisão, e (ii) que as provas demonstraram a ofensa, não havendo motivos para desconsideração da versão do autor e da sua testemunha. Confira-se (e-STJ fl. 484):
+Ajuizou o autor a presente demanda com intuito de ser reparado pelo dano sofrido em razão das ofensas de cunho racista que teria sofrido em seu local de trabalho como garçom. Na ocasião, em síntese, o apelante teria xingado o apelado de "macaco", perante outras pessoas que estavam no restaurante.
+Na contramão do que narra o recorrente, embora tenha sido reconhecida a divergência entre os depoimentos do Srs. Paulo e Sebastião, mais especificamente no tocante à injuria racial, não houve "descrédito" ao depoimento deste último, mas simples valoração da prova, nos termos do art. 370, do Código de Processo Civil. Da mesma forma, em nada desabona o documento firmado perante a Polícia.
+O i. Magistrado, com base no livre convencimento motivado, aderiu à versão autoral e da testemunha de acusação, acertadamente concluindo pela veracidade dos fatos narrados na exordial, mormente diante da ausência de animosidade prévia entre as partes.
+Diante dos reprováveis e repugnantes acontecimentos, indiscutível, pois, a presença do dano moral, devidamente reconhecido pela sentença, assim como o valor da indenização, que resta bem arbitrado, não merecendo qualquer ajuste. Senão vejamos.
+A Corte de origem concluiu que ficou comprovada a responsabilidade do recorrente pela ofensa ao recorrido, assim como a correta valoração das provas pelo juízo a quo.
+A revisão do julgado encontra óbice na Súmula n. 7 do STJ, pois dependeria da análise do acervo fático-probatório dos autos, o que impede a admissão do recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Nos termos do art. 85, §§ 1º e 11, do CPC/2015, seria caso de majorar os honorários advocatícios. No entanto, deixo de fazê-lo, tendo em vista que foram arbitrados em percentual máximo.
+Publique-se e intimem-se.
+EMENTA
