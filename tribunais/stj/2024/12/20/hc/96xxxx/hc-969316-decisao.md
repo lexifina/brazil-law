@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOHN KENNEDY LOPES RAMOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, em virtude do julgamento da revisão criminal n. 5012714-68.2024.8.08.0000.
+Consta nos autos que o paciente foi inicialmente condenado pelo juízo de primeiro grau, na ação penal n. 0021976-70.2015.8.08.0024, por incursão no artigo 33 da Lei 11.343/2006, à pena de 5 (cinco) anos de reclusão e ao pagamento de 500 (quinhentos) dias-multa (fls. 24-31).
+A defesa apelou ao Tribunal de Justiça do Estado do Espírito Santo, que negou provimento ao recurso (fls. 32-37).
+Após o trânsito em julgado, foi proposta a revisão criminal n. 5012714-68.2024.8.08.0000 perante o Tribunal de Justiça do Estado do Espírito Santo, cujo pedido foi julgado improcedente (fls. 15-20), sendo esse o título judicial impugnado pela defesa.
+Na presente impetração, busca-se a concessão da ordem para reconhecer o privilégio previsto no § 4º do artigo 33 da Lei 11.343/2006.
+É o relatório. DECIDO .
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da negativa à aplicação da causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.343/2006.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem ofício, em observância §2º do artigo 654 do Código de Processo Penal, transcrevo, para uma melhor compreensão, os fundamentos empregados no título judicial impugnado (fls. 15-20):
+ ..
+Dito isso, verifica-se que o requerente, como dito, pretende a revisão da sentença condenatória, com fundamento no art. 621, I, do CPP, por ser contrária ao texto expresso da legislação penal ou à evidência dos autos, sob o argumento que "(..) não aplicou a causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, embora os requisitos legais para a incidência do benefício estivessem presentes."
+Contudo, ao analisar detidamente a petição inicial, concluo que pretende o requerente tão somente a rediscussão da condenação que lhe fora imposta, em razão de seu inconformismo, possuindo evidente intenção de reexame do mérito da causa.
+Nota-se que a Magistrada sentenciante, ponderou devidamente a questão da aplicação da causa de diminuição de pena prevista no § 4º, do art. 33, da Lei nº 11.343/2006, tendo concluído que "(..) o acusado John Kennedy Lopes Ramos não faz jus à causa de diminuição de pena prevista no parágrafo 4º do art. 33, da Lei n. 11.343/2006, em razão da elevada quantidade de substância entorpecente apreendida em seu veículo, ou seja, cerca de 2 Kg de maconha, divididos em dois tabletes e em outras duas pequenas porções, além da grande quantidade de dinheiro em espécie apreendido no mesmo local, qual seja R$ 3.230,00 (três mil duzentos e trinta reais), que indicam que ele se dedicava à atividade criminosa."
+Desse modo, constata-se que a Magistrada primeva realizou análise cuidadosa das evidências dos autos e da jurisprudência aplicável à hipótese, tendo apreciado o tema de forma fundamentada de acordo com as razões que ensejaram o entendimento adotado.
+ ..
+No caso concreto, verifico que o Tribunal local se valeu unicamente da quantidade dos entorpecentes para concluir que o paciente é dedicado a atividades criminosas, o que contraria a jurisprudência do Superior Tribunal de Justiça e caracteriza coação ilegal.
+A Terceira Seção desta Corte Superior de Justiça decidiu, no REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, DJe 1º/7/2021), que " a  utilização supletiva desses elementos  natureza e da quantidade da droga apreendida  para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+Tendo em vista que a quantidade da droga apreendida - aproximadamente 2 quilos de maconha - foi isoladamente sopesada para levar à conclusão de que o réu seria dedicado a atividades criminosas, reputo inadequado o afastamento do privilégio.
+A esse respeito:
+ ..
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça estabelece que a quantidade e a natureza dos entorpecentes não são, por si só, suficientes para afastar a causa de diminuição do tráfico privilegiado, sendo necessário demonstrar a dedicação do réu a atividades criminosas.
+5. O Tribunal de origem concluiu inexistirem provas suficientes a demonstrar a dedicação dos acusados às atividades criminosas, considerando que os instrumentos apreendidos poderiam ser utilizados para o cultivo de café na mesma propriedade.
+6. A revisão dos fatos e provas para desconstituir a conclusão do Tribunal de origem é vedada pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A quantidade e a natureza dos entorpecentes não são suficientes para afastar a causa de diminuição do tráfico privilegiado. 2. É necessário demonstrar a dedicação do réu a atividades criminosas para afastar a minorante do tráfico privilegiado. 3. A revisão de fatos e provas é vedada em recurso especial, conforme Súmula n. 7 do STJ."
+ ..
+(AgRg no AREsp n. 2.457.195/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/12/2024, DJe de 9/12/2024.)
+Passo, portanto, à nova dosimetria da pena.
+1ª Fase: Preservados os critérios empregados pela instância originária, mantenho a pena-base em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+2ª Fase: Mantidos os critérios empregados pela instância originária, que reconheceu a atenuante da confissão espontânea e manteve a pena intermediária em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, em atenção ao entendimento consubstanciado pela Súmula 231/STJ.
+3ª Fase: Reconheço a causa especial de diminuição de pena do §4º do artigo 33 da Lei 11.343/2006 e, em razão da quantidade de entorpecentes apreendidos - aproximadamente 2 quilos de maconha - estabeleço a fração de 1/2 (um meio), ficando a pena definitiva estabilizada em 2 (dois) anos e 6 (seis) meses de reclusão, cumulada com 250 dias-multa.
+Fixo o regime inicial semiaberto, com fundamento no artigo 33, § 3º, e 59 do Código Penal, em virtude da quantidade dos entorpecentes, assim como deixo de substituir a pena privativa de liberdade por pena restritiva de direitos por não se fazerem presentes os requisitos do artigo 44, III, do Código Penal.
+Assim, uma vez verificado que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça, não há nenhum óbice à concessão da ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Ante o exposto, não conheço do habeas corpus. Concedo parcialmente a ordem, de ofício, em favor de JOHN KENNEDY LOPES RAMOS para redimensionar sua pena para 2 (dois) anos e 6 (seis) meses de reclusão, cumulada com 250 dias-multa, a ser cumprida no regime inicial semiaberto, mantidos os demais termos da condenação.
+Comunique-se com urgência à autoridade coatora e ao juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
