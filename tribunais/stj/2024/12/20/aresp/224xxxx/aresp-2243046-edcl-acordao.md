@@ -1,0 +1,100 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOMAL AUTO PECAS LTDA contra o acórdão da PRIMEIRA TURMA, de minha relatoria, assim ementado (fls. 288/289):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CDA. LIQUIDEZ E CERTEZA NÃO ILIDIDAS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. PROVIMENTO NEGADO.
+1. Para o Superior Tribunal de Justiça (STJ), "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória" (Súmula 393/STJ).
+2. Se o Tribunal a quo, com base nos fatos e nas provas dos autos, concluir que não foi apresentada prova inequívoca, capaz de fulminar a presunção relativa de liquidez e certeza da certidão de dívida ativa (CDA), a inversão desse entendimento demanda necessariamente o revolvimento do conjunto fático-probatório dos autos, o que é vedado na instância especial ante o óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+A parte embargante alega que o acórdão recorrido violou os arts. 1.022, c/c o art. 489, § 1º, III, ambos do CPC, pois "limita-se a apontar que o entendimento está de acordo com a jurisprudência desta Corte, apresentando uma série de julgados acerca deste tema, sem apontar os elementos que os identificam com este caso concreto" (fl. 304).
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+Sem impugnação (fl. 313).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Neste caso, não há vício de fundamentação, conforme preceitua o art. 489 do CPC.
+No acórdão embargado, a controvérsia foi decidida nos seguintes termos (fls. 293/298 - destaques originais):
+A alegação trazida no recurso especial é a de que a certidão de dívida ativa (CDA) que embasa a execução fiscal não atende a todas as exigências legais, assinalando a parte recorrente que não houve citação para manifestação no processo administrativo.
+Conforme já fundamentado, a matéria foi levada a debate em objeção de pré-executividade, tendo sido o expediente sumário rejeitado pelo Juízo de primeiro grau, entendimento esse mantido pelo Tribunal de origem, porquanto os elementos de prova carreados aos autos foram insuficientes para o seu acolhimento, antes carecendo de dilação probatória, mantendo-se, assim, a liquidez e a certeza da CDA.
+Nesse sentido, a propósito, é o que se pode constatar do seguinte excerto do acórdão recorrido (fls. 65/68):
+O objeto do presente agravo cinge-se em determinar possível ausência de liquidez da certidão de dívida ativa, sob a alegação de que não atende os requisitos necessários previstos em lei, bem como ante a ausência de notificação no bojo do processo administrativo.
+Trata-se de ação executiva fiscal proposta pela Fazenda Nacional para cobrança de dívida inscrita em certidão de dívida ativa em nome de Jomal Auto Peças Ltda.
+A exceção de pré-executividade é instrumento destinado à defesa do executado, sempre que houver matéria de ordem pública, cognoscível de ofício, a impedir o prosseguimento da ação executiva.
+O uso desse instrumento pressupõe que a matéria alegada seja evidenciada mediante simples análise da petição, não sendo admissível dilação probatória, que somente seria cabível em sede de embargos à execução, após seguro o Juízo.
+O curso normal que traçou o legislador para a defesa judicial do executado passa ao largo da possibilidade de ilações desprendidas de contexto rígido, sem prazos próprios nem disciplina comum, o que só contribui para criar o caos na administração da justiça em detrimento da adequada tutela jurisdicional.
+A jurisprudência encontrou um razoável consenso acerca dos motivos em que é cabível o manejo da via pretendida. Veja-se acórdão da lavra do Em. Min Luiz Fux, verbis:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INOCORRÊNCIA. TRIBUTÁRIO. EXECUÇÃO FISCAL. (LEI Nº 6.830/80. ART. 16, § 3º). EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ARGÜIÇÃO DE PRESCRIÇÃO. POSSIBILIDADE. DESPACHO CITATÓRIO. ART. 8º, § 2º, DA LEI Nº 6.830/80. ART. 174, DO CTN. INTERPRETAÇÃO SISTEMÁTICA.
+(..) 2. A exceção de pré-executividade é servil à suscitação de questões que devam ser conhecidas de ofício pelo juiz, como as atinentes à liquidez do título executivo, os pressupostos processuais e as condições da ação executiva.
+3. O espectro das matérias suscitáveis através da exceção tem sido ampliado por força da exegese jurisprudencial mais recente, admitindo-se a argüição de prescrição e de ilegitimidade passiva do executado, desde que não demande dilação probatória (exceção secundum eventus probationis).
+4. Consectariamente, a veiculação da prescrição em exceção de pré-executividade é admissível. Precedentes (RESP 388000/RS; DJ DATA:18/03/2002, Relator Min. JOSÉ DELGADO; e RESP 537617/PR, DJ DATA:08/03/2004, Relator Min. TEORI ALBINO ZAVASCKI).
+5. Recurso Especial improvido (REsp 680776/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 15.02.2005, DJ 21.03.2005 p. 289).
+Quanto à nulidade da certidão de dívida ativa, alegada pela requerente, convém destacar que a certeza e liquidez, bem como a exigibilidade, são requisitos indispensáveis à execução de qualquer crédito, nos termos do artigo 783 do CPC/15. Trata-se de elementos individualizadores do direito a que o título executivo se refere.
+A certeza refere-se aos sujeitos da relação jurídica (credor e devedor), bem como com a natureza do direito (direito de crédito) e o objeto devido (pecúnia).
+Já a fixação da quantidade devida ou a indicação de todos os elementos necessários a apurá-la significa sua liquidez.
+Em se tratando de execução fiscal, cujo título executivo, consubstanciado na certidão de dívida ativa, é formado unilateralmente pelo credor, e, portanto, não inclui declaração de reconhecimento de débito, é regular a inscrição nos assentamentos da dívida ativa, dela decorrendo a presunção legal de liquidez e certeza da dívida.
+O art. 2º, §§ 5º e 6º, da Lei nº 6.830/80 e os arts. 202 e 203, do CTN, estabelecem diversos requisitos à formação do Termo de Inscrição em Dívida Ativa, cujos elementos devem ser reproduzidos na Certidão de Dívida Ativa (CDA), sob pena de nulidade da inscrição e do processo de cobrança dela decorrente, ali não constando qualquer exigência no sentido de que a certidão venha acompanhada de cópia integral dos autos do processo administrativo tributário que lhe deu origem, mas tão somente de que se faça menção a ele, na hipótese de débitos assim originados.
+É sabido que os autos do processo administrativo tributário estão sempre à disposição do devedor, que deverá dirigir-se à repartição fiscal competente, a fim de obter cópia dele, somente havendo oportunidade para cogitar-se de eventual violação ao princípio da ampla defesa, na hipótese de recusa da autoridade fiscal em disponibilizá-lo, o que deve ser alvo de comprovação efetiva.
+Nesse sentido, o entendimento do egrégio Superior Tribunal de Justiça, in verbis:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. INDEFERIMENTO DA PERÍCIA. CERCEAMENTO DE DEFESA.REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PROCESSO ADMINISTRATIVO FISCAL. PRODUÇÃO DE CÓPIAS. ÔNUS DO EMBARGANTE. PRESUNÇÃO DE CERTEZA E DE LIQUIDEZ DA CDA.
+1. A análise quanto à necessidade da realização de prova pericial, em contrariedade ao entendimento do Tribunal de origem requer o reexame de fatos e provas, o que esbarra no óbice da Súmula n. 7/STJ. Precedentes do STJ.
+2. A Certidão de Dívida Ativa goza de presunção de certeza e liquidez, cujo ônus de ilidi-la é do contribuinte, cabendo a ele, ainda, a juntada do processo administrativo, caso imprescindível à solução da controvérsia.
+3. "A despeito da possibilidade de o magistrado determinar a exibição de documentos em poder das partes, bem como a requisição de processos administrativos às repartições públicas, nos termos dos arts. 355 e 399, II, do CPC, não é possível instar a Fazenda Pública a fazer prova contra si mesma, eis que a hipótese dos autos trata de execução fiscal na qual há a presunção de certeza e liquidez da CDA a ser ilidida por prova a cargo do devedor." (REsp 1.239.257/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/03/2011, DJe 31/03/2011.) 4. Agravo regimental improvido (AgRg no REsp 1523774/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/06/2015, DJe 26/06/2015).
+Não se verificando prova inequívoca capaz de fulminar a presunção relativa de liquidez e certeza que goza a CDA, incabível a exceção de pré-executividade.
+Quanto à nulidade da certidão de dívida ativa, alegada pela requerente, por ausência de citação no processo administrativo na pessoa da executada, a princípio não há nem que se falar em necessidade de procedimento administrativo para a cobrança, eis que no caso dos tributos sujeitos a lançamento por homologação "a declaração do débito feita sem o respectivo pagamento tem o condão de constituir o crédito e todos os seus consectários, sem a necessidade de procedimento administrativo" (STJ, 2ª Turma, AgRg no REsp 1251419/RJ, Rel. Min. Humberto Martins, julgado em 01/09/2011).
+ ..
+Demais disso, alegações que dependem de prova, como a falta de respeito ao devido processo legal, não são passíveis de serem alegados em sede de exceção de pré-executividade, eis que dependeriam de dilação probatória, incompatível com essa via.
+Desta feita, não se verifica prova inequívoca capaz de fulminar a presunção relativa de liquidez e certeza que goza a CDA. (Destaquei.)
+O entendimento acima exarado não destoa da jurisprudência do STJ, consolidada em repetitivo, de que é cabível a exceção de pré-executividade nas situações em que das questões o magistrado possa conhecer de ofício e que não demandem dilação probatória. Confira-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC. EXECUÇÃO FISCAL. INCLUSÃO DOS REPRESENTANTES DA PESSOA JURÍDICA, CUJOS NOMES CONSTAM DA CDA, NO PÓLO PASSIVO DA EXECUÇÃO FISCAL. POSSIBILIDADE. MATÉRIA DE DEFESA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INVIABILIDADE. RECURSO ESPECIAL DESPROVIDO.
+ ..
+2. Por outro lado, é certo que, malgrado serem os embargos à execução o meio de defesa próprio da execução fiscal, a orientação desta Corte firmou-se no sentido de admitir a exceção de pré-executividade nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras.
+3. Contudo, no caso concreto, como bem observado pelas instâncias ordinárias, o exame da responsabilidade dos representantes da empresa executada requer dilação probatória, razão pela qual a matéria de defesa deve ser aduzida na via própria (embargos à execução), e não por meio do incidente em comento.
+4. Recurso especial desprovido. Acórdão sujeito à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ.
+(REsp n. 1.104.900/ES, relatora Ministra Denise Arruda, Primeira Seção, julgado em 25/3/2009, DJe de 1º/4/2009, destaquei).
+Nesse mesmo sentido também é a Súmula 393/STJ: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Confiram-se, ainda, os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DA CDA E PRESCRIÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste ofensa ao art. 1.022, II, do CPC/2015, quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão do recorrente.
+3. É cabível exceção de pré-executividade para discutir pressupostos processuais, condições da ação, vícios objetivos do título executivo atinentes à certeza, liquidez e exigibilidade, desde que não demandem dilação probatória, nos termos da Súmula 393 do STJ.
+4. Hipótese em que o Tribunal de origem manteve a decisão de improcedência da exceção de pré-executividade por não vislumbrar, primo ictu oculi, a ocorrência da prescrição e nenhuma irregularidade na CDA, entendendo que a nulidade apontada deve ser averiguada na via dos embargos à execução.
+5. A alteração das conclusões das instâncias ordinárias demandaria a apreciação dos elementos de convicção presentes nos autos, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.952.452/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 10/10/2022, DJe de 10/11/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. CDA. PRESUNÇÃO DE LIQUIDEZ E CERTEZA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. ART. 489 DO CPC/2015. OFENSA NÃO CONFIGURADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. IMPUGNAÇÃO DEFICIENTE. SÚMULA 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO DO STJ.
+1. Cuida-se de Agravo Interno interposto contra decisão que não conheceu do Agravo em Recurso Especial por ausência de impugnação específica à Súmula 7/STJ, fazendo incidir a Súmula 182/STJ.
+2. Tratou-se, na origem, de Agravo de Instrumento interposto contra decisão que, em Execução Fiscal, rejeitou Exceção de Pré-executividade por entender que as Certidões de Dívida Ativa preenchem todos os requisitos legais e que a análise das demais teses suscitadas demandaria aprofundamento da cognição e eventual dilação probatória.
+3. Inarredável a revisão do conjunto probatório dos autos para afastar as premissas estabelecidas pelo acórdão recorrido de que "o não cabimento da cobrança, sem a necessária dilação probatória, faria letra morta da presunção de certeza e liquidez que reveste a certidão de dívida ativa". Aplica-se, portanto, o óbice da Súmula 7/STJ.
+4. A Primeira Seção do Superior Tribunal de Justiça, sob a sistemática do art. 543-C do CPC/1973, consagrou o entendimento de que Exceção de Pré-Executividade somente é cabível nas situações em que não se faz necessária dilação probatória ou em que o magistrado possa conhecer das questões de ofício. (REsp 1.104.900/ES, Rel. Min. Denise Arruda, Primeira Seção, DJe 1º.4.2009)
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.922.465/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2021, DJe de 10/12/2021.)
+Neste caso, tendo o Tribunal de origem afirmado categoricamente que "não se verifica prova inequívoca capaz de fulminar a presunção relativa de liquidez e certeza quer goza a CDA" (destaquei), conclusão diversa somente poderia ser alcançada mediante nova incursão na seara probatória da causa, medida defesa em recurso especial.
+Em outras palavras, a respeito da questão apontada no recurso ora examinado, conforme exaustivamente fundamentado nas decisões anteriores, a pretensão da parte ora embargante de ver reconhecida a nulidade da certidão de dívida ativa (CDA) que embasa a execução fiscal não pode ser reconhecida em recurso especial, porque, conforme decidido pela Corte de origem, dependeria de reexame das provas já analisadas pela instância ordinária, estando o acórdão embargado apoiado em julgados que foram citados em cada capítulo de sua fundamentação.
+Como se vê, ao contrário do alegado pela parte recorrente, a decisão embargada não padece de vício algum, não havendo necessidade de esclarecer, complementar ou integrar o que foi decidido, pois a tutela jurisdicional foi prestada de forma clara e fundamentada, tendo havido manifestação satisfatória sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à questão instaurada.
+A argumentação apresentada pela parte embargante não passa de mero inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+ ..
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021 - sem destaque no original.)
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
