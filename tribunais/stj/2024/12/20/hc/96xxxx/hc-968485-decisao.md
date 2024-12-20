@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de IAGO ROCHA - condenado como incurso no crime de homicídio qualificado -, atacando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (fls. 10/14 - HC n. 1.0000.24.496499-5/000), compo rta pronto acolhimento.
+Com efeito, busca a impetração o redimensionamento da dosimetria da pena imposta - na condenação proferida na Ação Penal n. 0011834-19.2016.8.13.0093 (fls. 15/22 - da Vara Única da comarca de Buritis/MG) -, com a alteração da fração de aumento da pena para 1/6 por agravante, ao argumento de que inexistem elementos aptos a ensejar o recrudescimento da penal além do critério de 1/6 da pena mínima, conforme orientam os precedentes jurisprudenciais (fl. 8).
+Do atento exame dos autos, observo que via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024).
+Entretanto, tem-se que foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois, reconhecidas as agravantes da reincidência, recurso que dificultou a defesa da vítima e meio cruel, tem-se que a pena aumentada em fração superior a 1/6 por agravante (agravo a reprimenda anteriormente fixada, do que resultam 22 (vinte e dois) anos, 02 (dois) meses e 23 (vinte e três) dias de reclusão - fl. 17), sem qualquer fundamentação para modulação da fração aplicada, em desacordo com o entendimento desta Corte.
+Necessário, então, redimensionar a pena imposta: mantida a pena imposta na primeira fase, em 14 anos de reclusão (fl. 17). Na segunda fase, aplica-se as frações de 1/6 por cada uma das agravantes (reincidência, recurso que dificultou a defesa da vítima e meio cruel - AgRg no HC n. 882.377/SC, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, DJe 21/6/2024), tem-se a reprimenda em 21 anos de reclusão. Sem alterações na terceira fase (fl. 17), a pena definitiva restou fixada em 21 anos de reclusão.
+Finalmente, considerando a pena imposta, não há ilegalidade na fixação do regime inicial fechado.
+Em razão disso, concedo liminarmente a ordem impetrada, a fim de redimensionar a pena imposta ao paciente para 21 anos de reclusão, referente à condenação proferida na Ação Penal n. 0011834-19.2016.8.13.0093, da Vara Única da comarca de Buritis/MG.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. SEGUNDA FASE. AGRAVANTES DA REINCIDÊNCIA, RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA E MEIO CRUEL. FRAÇÃO UTILIZADA. AUSÊNCIA DE MOTIVAÇÃO PARA MODULAÇÃO. PENA REDIMENSIONADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida, nos termos do dispositivo.
