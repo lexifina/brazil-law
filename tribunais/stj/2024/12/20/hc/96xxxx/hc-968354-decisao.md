@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de FABIO PEREIRA DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo no Habeas Corpus Criminal n. 2358076-70.2024.8.26.0000. Consta dos autos que, em decisão proferida em 13/11/2024, no bojo da Execução Penal n. 0014453-37.2024.8.26.0041, o Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 1ª RAJ - da Comarca de São Paulo/SP determinou a realização de exame criminológico para fins de progressão de regime (e-STJ fls. 143/145).
+Inconformada, a defesa impetrou habeas corpus junto ao Tribunal de Justiça estadual que denegou a ordem (e-STJ fls. 39/45):
+Na presente impetração, a defesa alega constrangimento ilegal, tendo em vista que a decisão a quo constitui evidente afronta ao entendimento consolidado pelo STJ, pois se utilizou da gravidade abstrata dos crimes praticados para justificar a perícia criminológica (e-STJ fl. 3).
+Aponta que deve ser considerado suficiente para a progressão de regime ora pleiteada o cumprimento dos requisitos objetivo - lapso temporal - e subjetivo - bom comportamento -, ambos já devidamente cumpridos pelo paciente (e-STJ fl. 5).
+Assevera que a necessidade de perícia técnica só restará justificada com fundamento em decisão individualizada, não abstrata, quando consideradas as circunstâncias concretas do cumprimento da pena, o que não se deu no caso. A invocação da natureza ou gravidade do crime não são fundamentos idôneos (e-STJ fl. 5)
+Requer, liminarmente e no mérito, seja concedida a ordem a fim de anular a decisão que determinou a realização do exame criminológico apreciando-se o pedido de progressão de regime independentemente de perícia (e-STJ fl. 7).
+A defesa atravessou petição requerendo reconsideração da decisão do Juízo de 1º grau que indeferiu o pedido de progressão de regime, tendo em vista a juntada de exame criminológico com parecer desfavorável (e-STJ fls. 157/159). Anexou decisão e documentos referentes ao exame criminológico (e-STJ fls. 160/185).
+É o relatório. Passo a decidir.
+Na hipótese, a defesa juntou aos autos decisão proferida em 15/12/2024 pelo Juízo de 1º grau indeferimento pedido de progressão ao regime aberto sob fundamento de que "o reeducando não preencheu o requisito subjetivo para a concessão do benefício, e o exame criminológico não traz elementos que permitam concluir, de forma segura, pela adequação da concessão da progressão ao sentenciado" (e-STJ fls. 160/163).
+Sendo assim, penso que não remanesce nenhum interesse na insurgência posta nesta impetração.
+Ante o exposto, com amparo no art. 34, XI, do Regimento interno do STJ, julgo prejudicado o pedido formulado no presente habeas corpus, ante a perda superveniente de seu objeto.
+Intimem-se.
+EMENTA
