@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UNIÃO contra decisão monocrática que afastou a preliminar de limitação subjetiva arguida em impugnação ao cumprimento de sentença.
+Afirma a embargante:
+Ocorre que o citado julgado não trata da situação específica do servidor ARISVAL VIGBERTO VESPER RODRIGUES, que foi a óbito antes da impetração do Mandado de Segurança! Conforme consta da impugnação da União e do parecer do Departamento de Cálculos e Perícias, a ele acostado, o referido servidor faleceu em 22/02/2014, antes, portanto, de protocolado o writ, em 20/02/2015.
+Como se sabe, como óbito do servidor, é o pensionista quem passa a deter legitimidade ativa ad causam para pleitear em ação própria a incorporação à sua pensão de vantagem remuneratória devida ao servidor em atividade, e não a entidade associativa.
+(..)
+Inexistente o título executivo, é de se reconhecer que nenhum valor é devido ao servidor ARISVAL VIGBERTO VESPER RODRIGUES, nos termos do que foi requerido pela União.
+Subsidiariamente, o ente público requereu a limitação do cálculo a janeiro/2019, visto que, conforme informação constante na COTA n. 03332/2021/CONJUR-MAPA/CGU/AGU, deixou de haver sua vinculação funcional com a UPAG 1506 -CEPLAC.
+Impugnação às fls. 612-618.
+É o relatório. Decido.
+De fato, há omissão quanto à extensão dos efeitos da coisa julgada coletiva ao pensionista do servidor falecido antes da impetração do mandado de segurança.
+Contudo, a pretensão de exclusão da pensionista de ARISVAL VIGBERTO VESPER RODRIGUES não deve prosperar, uma vez que a a entidade associativa detém legitimidade para representar os pensionistas da categoria. Dessa maneira, os beneficiários de pensão têm a faculdade de executar o título judicial coletivo em nome próprio ou por substituição.
+A propósito, cito precedentes, um deles, inclusive, envolvendo a mesma associação:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO INATIVO E PENSIONISTA. INCORPORAÇÃO DE GRATIFICAÇÃO. MORTE DO SUBSTITUÍDO ANTES DA IMPETRAÇÃO. DIREITO PRÓPRIO DO PENSIONISTA. LEGITIMIDADE DA ENTIDADE DE CLASSE PARA REPRESENTAÇÃO. RELATIVIZAÇÃO DA LIMITAÇÃO SUBJETIVA NO TÍTULO JUDICIAL PARA O CASO ESPECÍFICO DE INSTITUIDOR DE PENSÃO E PENSIONISTA. MORTE DO SUBSTITUÍDO NO CURSO DO MANDADO DE SEGURANÇA. ESVAZIAMENTO DO DIREITO DO FALECIDO. INEXISTÊNCIA. RESULTADO PATRIMONIAL DO MANDADO DE SEGURANÇA. LEGITIMIDADE DO HERDEIRO PARA EXECUÇÃO. MORTE DO SUBSTITUÍDO APÓS O TRÂNSITO EM JULGADO DO MANDADO DE SEGURANÇA. DIREITO DO HERDEIRO E DO PENSIONISTA. AGRAVO IMPROVIDO.
+1. A entidade associativa detém legitimidade para representar os pensionistas da categoria. Dessa maneira, os beneficiários de pensão têm a faculdade de executar o título judicial coletivo em nome próprio ou por substituição.
+2. No caso específico de instituidores e pensionistas, o benefício de pensão advém do vínculo que o servidor falecido detinha com o órgão de origem, de maneira que, ainda que o título tenha limitado o direito aos substituídos indicados na petição inicial do mandado de segurança, não há óbice ao prosseguimento da execução em favor dos pensionistas, pois os valores devidos terão como base o montante instituído por interessado relacionado na exordial.
+3. Em se tratando de mandado de segurança coletivo do qual resulta efeitos patrimoniais, o óbito ocorrido na fase de conhecimento, ainda que antes da concessão da ordem, não esvazia o direito do substituído falecido, conferindo aos herdeiros legitimidade para requerer a execução dos valores devidos até o evento morte. Os valores devidos após o falecimento representam crédito de pensão cabível aos pensionistas.
+4. Para a hipótese de falecimento ocorrido após o trânsito em julgado, os herdeiros têm legitimidade para requerer a execução dos valores devidos até o óbito, por se tratar de crédito de herança.
+Havendo pensionistas, o montante devido após essa data poderá ser executado neste feito a título de crédito de pensão.
+5. Agravo interno improvido.
+(AgInt na ExeMS n. 21.601/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 3/3/2022, DJe de 8/3/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO. SERVIDOR FALECIDO ANTES DA IMPETRAÇÃO DO MANDADO DE SEGURANÇA COLETIVO. LEGITIMIDADE DO SINDICATO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Agravo de Instrumento interposto pela parte agravante, contra decisão singular que, em sede de Execução de Título Judicial, deferiu a habilitação dos herdeiros de ex-servidor falecido da impetração do mandamus coletivo.
+III. É firme o entendimento no âmbito desta Corte, no sentido de que o óbito de um servidor, abrangido pela atuação do sindicato representativo de toda a classe, antes da impetração do Mandado de Segurança coletivo, não tem relevância para a formação do título judicial, cujo efeito erga omnes possibilita que eventual pensionista pleiteie, em nome próprio ou por substituição, os direitos alcançados pela concessão da segurança no procedimento executivo. Precedentes: STJ, AgInt no REsp 2.001.114/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 04/11/2022; AgInt no REsp 1.990.427/RN, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 13/10/2022; AgInt no AREsp 1.928.282/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/03/2022; AgInt no AREsp 1.753.262/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 29/04/2021; AgInt na ExeMS 10.424/DF, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe de 03/04/2019.
+IV. Agravo interno improvido.
+(AgInt no REsp n. 1.844.406/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Quanto ao pedido subsidiário de limitação do cálculo a janeiro/2019, a matéria será objeto de apreciação após o parecer técnico da contadoria judicial.
+Ante o exposto, acolho parcialmente os Embargos de Declaração, sem efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
