@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPM, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 140):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TAXA ANUAL POR HECTARE - TAH. NATUREZA JURÍDICA DE PREÇO PÚBLICO. DECADÊNCIA. INÍCIO DA CONTAGEM DO PRAZO. VENCIMENTO.
+1. O egrégio Supremo Tribunal Federal reconhece que:: "Em virtude de a TAH ostentar natureza de preço público, o seu caráter é eminentemente administrativo e o prazo prescricional não pode ser regido pelas normas do CTN, sendo aplicável a essa a prescrição quinquenal" (STF, ADI 2.586, Rel. Ministro Carlos Velloso, Tribunal Pleno, julgado em 16/05/2002, DJ de 01/08/2003).
+2. Nesse sentido, esta colenda Sétima Turma reconhece que: "A "Taxa Anual por Hectare - TAH" não é "tributo", mas - sim "preço público" e, por tal quilate, tem (assim como os encargos/multas decorrentes) seu prazo prescricional de cobrança - que é quinquenal - regido pelo art. 1º do Decreto nº 20.910/1932 ou, mais recentemente, para os fatos geradores a eles contemporâneos, pelo art. 1º-A da Lei nº 9.873/1999 e pelo art. 47 da Lei nº 9.636/1998 (e alterações); é igualmente à luz de tal ordenamento específico que se baliza o seu prazo decadencial para lançamento/constituição. O termo inicial prescricional ou decadencial é o "vencimento" do débito.  .. " (AC 0018526-08.2014.4.01.3800, Rel. Desembargadora Federal Gilda Sigmaringa Seixas, Sétima Turma, P Je 10/08/2021).
+3. O vencimento da dívida ocorreu em 31/01/2000, com a inscrição em dívida ativa em 05/07/2010, quando já consumado o prazo decadencial do direito à constituição do crédito.
+4. Apelação não provida.
+Não foram apresentados embargos de declaração.
+Em suas razões recursais, a parte recorrente alega violação ao art. 47 da Lei 9.636/1998, ao argumento de que o prazo prescricional para pagamento da taxa anual por hectare (TAH) somente se inicia com o término do contencioso administrativo, e não da data de vencimento da taxa anual por hectare (TAH), prevista na certidão de dívida ativa (CDA).
+Afirma, ainda, que houve inobservância ao art. 2º, § 3º, da Lei 6.830/1980, uma vez que o prazo decadencial se encerraria com o lançamento do crédito público no processo de constituição do crédito, e não com a inscrição em dívida ativa.
+A parte adversa apresentou contrarrazões (fls. 167/180).
+O recurso foi admitido na origem (fls. 181/182).
+É o relatório.
+Na origem, trata-se de exceção de pré-executividade oposta por MARIA DA GLORIA FERREIRA, em que alega o decurso do prazo decadencial.
+Ao solucionar a controvérsia, o Tribunal de origem assim se pronunciou (fls. 138/139):
+Destaco que a Taxa Anual por Hectare - TAH possui natureza de dívida não tributária e está sujeita à aplicação da suspensão do prazo de 180 (cento e oitenta) dias a contar da inscrição em dívida ativa, a teor do que dispõe o art. 2º, § 3º, da Lei nº 6.830/1980.
+ ..
+Dessa forma, ressalto que o termo inicial de contagem da decadência é a data de vencimento da dívida que, no caso sob exame, ocorreu em 31/01/2000.
+Assim, considerando que o débito foi inscrito em dívida ativa em 05/07/2010, observo a ocorrência do prazo decadencial do direito à constituição do crédito (ID 99131528 - fls. 07/09 do PDF).
+O acórdão recorrido está em conformidade com a jurisprudência deste Tribunal, estabelecida no sentido de que o prazo decadencial se inicia com o vencimento da obrigação.
+Apesar da aplicação do prazo decadencial de dez anos, conforme preceituado no art. 47 da Lei 9.636/1998, com redação dada pela Lei 10.852/2004, verifico que de fato houve a decadência, tendo em vista que a dívida venceu em 31/1/2000 e que sua inscrição ocorreu apenas em 5/7/2010, ultrapassando o prazo de dez anos.
+Nesse mesmo sentido, cito os seguintes julgados:
+ADMINISTRATIVO. EXECUÇÃO FISCAL. TAXA ANUAL POR HECTARE (TAH). PRESCRIÇÃO E DECADÊNCIA. LEGISLAÇÃO APLICÁVEL. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ.
+1. A Primeira Seção do STJ, sob o rito de recursos repetitivos, fixou o seguinte entendimento: "(a) o prazo prescricional, anteriormente à edição da Lei 9.363/98, era quinquenal, nos termos do art. 1º do Decreto 20.910/32; (b) a Lei 9.636/98, em seu art. 47, institui a prescrição quinquenal para a cobrança do aludido crédito; (c) o referido preceito legal foi modificado pela Lei 9.821/99, que passou a vigorar a partir do dia 24 de agosto de 1999, instituindo prazo decadencial de cinco anos para constituição do crédito, mediante lançamento, mantendo-se, todavia, o prazo prescricional quinquenal para a sua exigência; (d) consectariamente, os créditos anteriores à edição da Lei 9.821/99 não estavam sujeitos à decadência, mas somente a prazo prescricional de cinco anos (art. 1º do Decreto 20.910/32 ou 47 da Lei 9.636/98); (e) com o advento da Lei 10.852/2004, publicada no DOU de 30 de março de 2004, houve nova alteração do art. 47 da Lei 9.636/98, ocasião em que foi estendido o prazo decadencial para dez anos, mantido o lapso prescricional de cinco anos, a ser contado do lançamento" (REsp 1133696/PE, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 13/12/2010, DJe 17/12/2010).
+2. Na hipótese vertente, consta dos autos a informação de que o crédito em debate, referente à despesa cujo vencimento se deu em 29/1/1999, somente foi inscrito em dívida ativa em 31/8/2010. Assim, considerando-se que, a partir do vencimento da obrigação, transcorreu prazo superior a 10 (dez) anos para a constituição do crédito por meio do lançamento, há que se reconhecer a decadência do direito vindicado pela agravante.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.469.144/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2020, DJe de 17/11/2020, sem destaque no original.)
+ADMINISTRATIVO. EXECUÇÃO FISCAL. TAXA ANUAL POR HECTARE (TAH). DECADÊNCIA. PRAZO DE 10 (DEZ) ANOS. NÃO OCORRÊNCIA. RECURSO PROVIDO.
+1. Quanto ao prazo decadencial de dez anos para a constituição do crédito, a Terceira Seção do STJ, ao julgar o REsp 1.114.938/AL, Rel. Min. Napoleão Nunes Maia Filho, DJe de 2.8.2010, assentou a aplicação imediata da lei que amplia o referido prazo decadencial.
+2. No julgamento do REsp 1.114.938/AL, Rel. Min. Napoleão Nunes Maia Filho, submetido ao regime dos recursos repetitivos (art. 543-C do CPC), reconheceu-se que a ampliação do prazo decadencial deve ser aplicada imediatamente, devendo ser computado o período já transcorrido sob o manto da legislação anterior.
+3. Na hipótese do autos, não há falar em decurso do prazo decadencial. Isso porque os vencimentos das TAHs ocorreram em 31.7.2000 e 31.7.2001, e a notificação do minerador da constituição do crédito ocorreu respectivamente em 20.8.2009 e 29.3.2011, dentro, portanto, do prazo de 10 (dez) anos.
+4. Recurso Especial provido para afastar a decadência e determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do feito.
+(REsp n. 1.679.288/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/9/2017, DJe de 9/10/2017, sem destaque no original.)
+A parte recorrente alegou violação ao art. 2º, § 3º, da Lei 6.830/1980, uma vez que o prazo decadencial se encerraria com o lançamento do crédito público no processo de constituição do crédito, e não com a inscrição em dívida ativa.
+O dispositivo em questão possui a seguinte redação:
+Art. 2º - Constitui Dívida Ativa da Fazenda Pública aquela definida como tributária ou não tributária na Lei nº 4.320, de 17 de março de 1964, com as alterações posteriores, que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.
+ ..
+§ 3º - A inscrição, que se constitui no ato de controle administrativo da legalidade, será feita pelo órgão competente para apurar a liquidez e certeza do crédito e suspenderá a prescrição, para todos os efeitos de direito, por 180 dias, ou até a distribuição da execução fiscal, se esta ocorrer antes de findo aquele prazo.
+Não é possível conhecer do recurso quanto ao ponto porque o dispositivo em questão não contém comando normativo capaz de infirmar o fundamento de que o crédito deve ser inscrito na dívida ativa antes do término do prazo decadencial de dez anos.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, a ele nego provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
