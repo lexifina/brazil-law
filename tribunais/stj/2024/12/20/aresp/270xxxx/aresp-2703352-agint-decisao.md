@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo interno interposto por BANCO SAFRA S.A. contra decisão monocrática da presidência do STJ que não conheceu do agravo em recurso especial em razão da Súmula n. 182/STJ (fls. 436-437).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 335):
+EXECUÇÃO POR TÍTULO EXTRAJUDICIAL Instrumento Particular de Aditamento a Cédula de Crédito Bancário Posterior transação extrajudicial Embargos à execução A admissibilidade da execução forçada exige a concorrência de dois pressupostos básicos e indispensáveis, quais sejam: o inadimplemento do devedor (CPC, art. 786), e; o título executivo, judicial ou extrajudicial, que deve ser líquido, certo e exigível (CPC, art. 783), pois, do contrário, reputar-se-á nula (CPC, art. 803, inc. I) Sentença mantida Majoração da verba honorária advocatícia de sucumbência Recurso não provido.
+Rejeitados os embargos de declaração opostos (fl. 352).
+Nas razões do agravo interno, alega a agravante que todos os fundamentos da decisão que inadmitiu o recurso especial foram impugnados no agravo em recurso especial.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada não apresentou contrarrazões.
+É, no essencial, o relatório.
+Assiste razão ao agravante quanto à não incidência da Súmula n. 182/STJ, porquanto os fundamentos da decisão que inadmitiu o recurso especial foram impugnados especificamente.
+Assim, reconsiderada a decisão que não conheceu do agravo em recurso especial, passo ao exame do recurso especial.
+No recurso especial, a parte recorrente alega preliminarmente que o acórdão violou os arts. 489 e 1.022, II, do CPC. Aduz que (fl. 365):
+Evidente que a omissão do acórdão recorrido quanto à análise da matéria cerne do recurso originário (a incidência da cláusula 3.4 do do contrato firmado entre as partes), acarretou verdadeiro defeito na formação do julgado e, consequentemente, prejuízo ao recorrente, já que tal exame seria incumbência do Tribunal de origem.
+No mérito, aduz que foram violados os arts. 1.425, III, do CC e 28, § 1º, III, da Lei n. 10.931/2004. Afirma que (fls. 366-367):
+Conforme demonstrado nestes autos, antes mesmo do acordo ser apresentado perante o juízo singular, que tardou a ser devolvido assinado pelos recorridos, eles já descumpriram com a quitação das parcelas acordadas. Comprovando, mais uma vez, que a má-fé sempre esteve presente nos autos dos apelados e nunca o contrário.
+(..)
+Assim, em função da aludida inadimplência, operou-se contra os recorridos o vencimento automático das demais 24 parcelas vincendas da transação e a rescisão imediata do instrumento, nos exatos termos da cláusula contratual ajustada
+Aponta divergência jurisprudencial com acórdão de outra Corte.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, deixou claro que o recorrente abriu mão do vencimento antecipado ao aceitar os pagamentos com atraso (fl. 338):
+Vale destacar que ocorreu atraso no pagamento da segunda parcela, que foi aceito pelo embargado, optando, assim, também por aceitar os pagamentos das demais parcelas, não lançando mão, portanto, da cláusula 3.4 da transação, isto é, de antecipação dos vencimentos das demais parcelas, à luz da cláusula geral da boa-fé objetiva.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022; grifo meu.)
+No mérito, o Tribunal de origem considerou que não estão presentes os pressupostos autorizadores da execução forçada, visto que as recorridas não estavam inadimplentes, mas estavam pagando as parcelas do acordo extrajudicial, ainda que tenham atrasado determinada parcela, com a tolerância do credor (fl. 338):
+No caso em apreço as embargantes não podem ser consideradas inadimplentes, um dos pressupostos para a admissibilidade da execução forçada.
+Como fundamentado na r. sentença apelada, as quatro primeiras parcelas do acordo foram adimplidas (que incluiu também débito do contrato de cheque empresa nº 5810276), como se pode ver dos seguintes documentos: (a) fls. 28/29 (primeira parcela, no valor de R$4.932,33, paga no vencimento estipulado no boleto, isto é, 07 de outubro de 2020); (b) fls. 30/31 (segunda parcela, no valor de R$4.932,33, paga em 07 de dezembro de 2020, após o vencimento estipulado no boleto em 12 de novembro de 2020); (c) fls. 32/33 (terceira parcela, no valor de R$4.932,33, paga no vencimento estipulado no boleto, isto é, 05 de fevereiro de 2021), e; (d) fls. 34/35 (quarta parcela, no valor de R$4.932,33, paga no vencimento estipulado no boleto, isto é, 19 de fevereiro de 2021).
+Vale destacar que ocorreu atraso no pagamento da segunda parcela, que foi aceito pelo embargado, optando, assim, também por aceitar os pagamentos das demais parcelas, não lançando mão, portanto, da cláusula 3.4 da transação, isto é, de antecipação dos vencimentos das demais parcelas, à luz da cláusula geral da boa-fé objetiva.
+Diante desse quadro, a execução deve ser mesmo extinta, ausente inadimplência das executadas.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+Nesse sentido, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO PELO RELATOR. CONFIRMAÇÃO PELO COLEGIADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame 1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir 2. A decisão monocrática que nega seguimento a recurso especial, com base em jurisprudência consolidada desta Corte, encontra previsão nos arts. 932, IV, do CPC/2015 e 255, § 4º, II, do RISTJ, não havendo falar, pois, em nulidade por ofensa à nova sistemática do Código de Processo Civil. Ademais, a interposição do agravo interno, e seu consequente julgamento pelo órgão colegiado, sana eventual nulidade.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu pela falta de comprovação dos requisitos para a concessão do efeito suspensivo aos embargos à execução. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. "O Superior Tribunal de Justiça entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, circunstância que atrai, por analogia, a Súmula nº 735/STF" (AgInt no AREsp n. 2.073.533/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022).
+III. Dispositivo 6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.552.412/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. DEFEITOS NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. EXTINÇÃO DA FIANÇA. AUSÊNCIA DE MORATÓRIA. REVISÃO. INVIABILIDADE. SÚMULAS 5 E 7/STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Não se caracteriza a violação ao art. 489 do CPC/2015, uma vez que a Presidência desta Corte se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a transação e a moratória, conquanto sejam institutos jurídicos diversos, têm um efeito em comum quanto à exoneração do fiador que não anuiu com o acordo firmado entre o credor e o devedor" (REsp n. 1.013.436/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/9/2012, DJe de 28/9/2012).
+3. Dessa forma, quando houver o aditamento, a transação ou qualquer modificação do contrato de locação, os fiadores devem anuir expressamente, pois a fiança é um contrato a ser interpretado restritivamente, ou seja, a responsabilidade dos fiadores se resume aos termos expressamente acordados.
+4. Infirmar a conclusão do Tribunal local - quanto à ausência de concessão de moratória - pressupõe a interpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, providências que encontram óbice nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+5. Em consonância com a orientação jurisprudencial desta Corte, "a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (EDcl no AgInt no AREsp n. 1.808.342/RJ, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/2/2022, DJe 24/2/2022).
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.575.392/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, reconsidero a decisão de fls. 436-437 e conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. INADIMPLÊNCIA NÃO COMPROVADA. SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
