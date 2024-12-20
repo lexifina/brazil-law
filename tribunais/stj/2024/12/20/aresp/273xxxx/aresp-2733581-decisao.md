@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por DOUGLAS SEVERINO DE OLIVEIRA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESPÍRITO SANTO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0024108-67.2015.8.08.0035 (fls. 561/579), com a seguinte ementa:
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO. ABSOLVIÇÃO. INSUFICIÊNCIA PROBATÓRIA. NÃO CONFIGURAÇÃO. PROVAS QUE CONFIRMAM A PRÁTICA DELITIVA. AFASTAMENTO DA QUALIFICADORA RELATIVA AO ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. POSSIBILIDADE DE AFERIÇÃO POR OUTROS MEIOS PROBATÓRIOS. RECURSO IMPROVIDO.
+1. Considerando que o réu foi encontrado, logo após a notícia da subtração, no mesmo local do crime, com a posse do bem furtado, circunstância esta aliada à confissão extrajudicial e ao depoimento dos policiais em juízo, tem-se que a autoria delitiva encontra-se plenamente configurada.
+2. O exame pericial pode ser substituído por outros meios probatórios, quando não se puder exigir que a vítima preserve os vestígios do furto e presentes outros meios aptos a provar o rompimento de obstáculo de forma inconteste. Precedentes do STJ. Hipótese em que o Chefe de Departamento de Criminalística da Polícia Civil certificou que não foi possível realizar a perícia porque o veículo foi colocado para conserto. Por sua vez, o motorista do caminhão prestou depoimento em juízo e confirmou que foi necessário consertar o veículo. Há elementos nos autos, portanto, que evidenciam a existência de avaria no caminhão ocasionada em razão da subtração, motivo pelo qual a qualificadora deve ser mantida.
+3. Recurso conhecido e, no mérito, improvido.
+No recurso especial, a defesa requereu, em síntese, a reforma do acórdão, para a exclusão da qualificadora do rompimento de obstáculo, em razão da ausência de perícia nos autos (fls. 583/589).
+Inadmitido o recurso na origem (fls. 597/601), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 604/611).
+O Ministério Público Federal opinou pelo conhecimento e desprovimento do agravo (fls. 633/639), em parecer com a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. PERÍCIA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ SOBRE A MATÉRIA. INCIDÊNCIA DA SÚMULA 83 DO STJ. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO AGRAVO.
+É o relatório.
+Conheço do agravo, porquanto presentes os pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Pretende o agravante a exclusão da qualificadora do rompimento de obstáculo, diante da ausência de laudo pericial nos autos.
+Sem razão a parte agravante.
+Segundo a jurisprudência desta Corte, em regra, as qualificadoras da destruição ou rompimento de obstáculo e da escalada só podem ser aplicadas ao crime de furto mediante realização de exame pericial, tendo em vista que, por ser infração que deixa vestígio, é imprescindível a realização de exame de corpo de delito direto, por expressa imposição legal.
+No entanto, este Tribunal tem admitido a manutenção da qualificadora quando outras provas demonstrarem cabalmente o rompimento do obstáculo à subtração da coisa, e que fique demonstrada a impossibilidade de realização da prova técnica.
+No caso dos autos, restou devidamente certificado nos autos, pelo Chefe de Departamento de Criminalística da Polícia Civil, quatro dias após o crime, não ter sido possível a realização da perícia porque o veículo foi colocado para conserto. Há nos autos prova testemunhal no sentido da comprovação do rompimento de obstáculo.
+Nesse contexto, esta Corte Superior tem entendido que o exame pericial pode ser substituído por outros meios probatórios, quando não se puder exigir que a vítima preserve os vestígios do furto e estiverem presentes outros meios aptos a provar o rompimento de forma inconteste (AgRg no AREsp n. 2.299.413/SE, Rel. Min. JOÃO BATISTA MOREIRA, Des. convocado, Quinta Turma, DJe 22/8/2023).
+Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO POR ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA TÉCNICA. POSSIBILIDADE DE COMPROVAÇÃO POR OUTROS MEIOS DE PROVA INCONTESTE. DEPOIMENTO DA VÍTIMA PRESTADO EM JUÍZO. NECESSIDADE DE REPARO DO LOCAL DANIFICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, para o reconhecimento da qualificadora, "o exame pericial pode ser substituído por outros meios probatórios, quando não se puder exigir que a vítima preserve os vestígios do furto e presentes outros meios aptos a provar o rompimento de obstáculo de forma inconteste" (AgRg no AREsp n. 2.299.413/SE, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+2. Na hipótese, encontram-se presentes nos autos elementos aptos a comprovar a qualificadora de forma inconteste (indene de dúvida), especialmente o depoimento do ofendido prestado em juízo, o qual confirmou que o acusado teve qu e utilizar ferramenta para romper o vidro da janela da residência, o qual teve que ser consertado posteriormente em razão da prática delitiva.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.118.512/SC, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe 5/9/2024).
+Pelo exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO POR ROMPIMENTO DE OBSTÁCULO. VIOLAÇÃO DOS ARTS. 158 DO CPP E 155, § 4º, IV, DO CP. AUSÊNCIA DE LAUDO PERICIAL. QUALIFICADORA QUE PODE SER COMPROVADA POR OUTROS ELEMENTOS DE PROVA, QUANDO NÃO FOR EXIGÍVEL À VÍTIMA A PRESERVAÇÃO DOS VESTÍGIOS. NECESSIDADE DE CONSERTO DO BEM. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
