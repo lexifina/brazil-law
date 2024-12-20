@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por Orlando Venialgo Vilhalba contra a decisão proferida pelo Tribunal de Justiça do Paraná que inadmitiu o recurso especial por ele apresentado, com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão prolatado na Apelação Criminal n. 0031621-06.2020.8.16.0030.
+Nas razões do recurso especial, a defesa apontou, além de divergência jurisprudencial, violação dos arts. 5º, LV e LVIII, e 109 da Constituição Federal; 59, 63, 64 e 68 do Código Penal e 33, § 4º, da Lei n. 11.343/2006, sustentando, em síntese, a nulidade absoluta dos atos processuais praticados, em razão da incompetência da Justiça estadual; equívoco na dosimetria da pena, com violação do princípio da proporcionalidade e da individualização da pena; e ausência de fundamentação para a não aplicação da causa de diminuição do § 4º do art. 33 da Lei de Drogas na fração de 2/3 (fls. 466/474).
+Apresentadas contrarrazões (fls. 477/483), a Corte de origem inadmitiu o recurso, em razão de sua intempestividade (fls. 485/488).
+Daí o presente agravo (fls. 525/541). O Ministério Público Federal opina pelo desprovimento do agravo, nos seguintes termos (fl. 604):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INTEMPESTIVIDADE DO RECURSO ESPECIAL. RECESSO FORENSE. NECESSIDADE DE COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTEMPESTIVIDADE.
+1. Segundo orienta o STJ, é inaceitável a a ausência de comprovação da suspensão do expediente forense no âmbito da Corte de origem, devendo-se reconhecer a intempestividade do recurso.
+2. Para efeito de tempestividade, a prova do feriado local ou recesso forense deve ser feita pela parte interessada por meio de documento idôneo, sendo insuficiente, para tanto, a mera referência, nas razões do recurso, à existência de norma local ou ato normativo do tribunal de origem ou a juntada de documento não dotado de fé pública. Precedentes.
+3. Parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+A insurreição não comporta conhecimento.
+Isso porque o recurso especial é manifestamente intempestivo.
+In casu, verifica-se, nos autos, que a intimação do acórdão recorrido foi expedida em 7/12/2021 (fls. 459 e 461). Como a parte não realizou a leitura da intimação no prazo de 10 dias, esta se operou automaticamente em 17/12/2021; todavia, o recurso especial somente interposto em 24/1/2022 (fl. 462), ou seja, quando já ultrapassado o prazo recursal, sem qualquer comprovação, no ato da interposição, de suspensão do expediente forense no âmbito do Tribunal de origem.
+O recurso é, pois, manifestamente intempestivo, porquanto oferecido fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Ressalte-se que, nos termos do § 6º do art. 1.003 do Código de Processo Civil, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, mediante a juntada de documento idôneo, notadamente porque manejado no Tribunal de origem, o que impossibilita a regularização posterior.
+A propósito: AgRg no AREsp n. 2.479.686/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/11/2024; AgRg no AREsp n. 2.704.382/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/10/2024; AgRg no AREsp n. 2.646.961/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/9/2024; AgRg no AREsp n. 2.466.067/MG, Ministra Daniela Teixeira, Quinta Turma, DJe 5/9/2024; AgRg no AREsp n. 2.508.761/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 29/8/2024; AgRg nos EDcl no AREsp n. 2.174.802/PB, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 30/6/2023, dentre outros.
+Não é outra a opinião da Subprocuradora-Geral da República (fl. 606):
+ ..  O agravo não merece prosperar, pois o recurso especial, de fato, padece de intempestividade.
+Como se sabe, a parte recorrente deve comprovar a existência do feriado local ou o ato de suspensão de prazos processuais por meio de documentação idônea, não servindo a essa finalidade mera menção, no corpo da petição, da existência de legislação ou ato normativo.
+No caso em análise, o agravante não cumpriu o requisito necessário à demonstração da tempestividade recursal, lastreado no argumento de que "é publico e notório que, chega-se aos finais de ano, e todos os TRIBUNAIS ESTADUAIS, suspendem os seus prazos processuais, em razão do RECESSO JUDICIARIO".
+Todavia, consoante a jurisprudência do STJ, a ocorrência de suspensão de prazos processuais nos Tribunais de Justiça não se presume pública e notória em âmbito nacional, motivo pelo qual se impõe sua comprovação por documento idôneo nos recursos às Cortes Superiores. Nesse sentido:  ..
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, em consonância com o parecer ministerial, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO.
+Agravo em recurso especial não conhecido.
