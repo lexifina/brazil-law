@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por Ministério Público do Estado de Sergipe contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 91):
+AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA - LICENÇA AMBIENTAL - SUSPENSÃO DA ATIVIDADE EMPRESARIAL - DECISÃO QUE INDEFERIU A ANTECIPAÇÃO DOS EFEITOS DA TUTELA PARA PARALISAÇÃO DAS ATIVIDADES DO ESTABELECIMENTO COMERCIAL POR NÃO POSSUIR LICENCIAMENTO AMBIENTAL - LIMINAR DEFERIDA - PRAZO PARA COMPROVAR QUE FOI EFETIVADO O REQUERIMENTO JUNTO À SEMA - MANUTENÇÃO DA DECISÃO - RECURSO CONHECIDO E PROVIDO - DECISÃO UNÂNIME.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 10 da Lei n. 6.938/1981, 2º da Resolução n. 237/1997 do Conama e 60 da Lei n. 9.605/1998, sustentando a necessidade de a parte recorrida obter licenciamento ambiental em razão de sua atividade ser potencialmente poluidora. Postula a concessão de tutela inibitória enquanto não regularizada a situação da parte requerida.
+Foram ofertadas contrarrazões às fls. 123/147.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, não é cabível, em regra, recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem em decisões precárias para deferir ou indeferir medidas liminares ou antecipações de tutela.
+Dessarte, na hipótese dos autos não se está, ainda, diante de "causa decidida em única ou última instância", apta a ensejar a abertura da via especial, o que atrai a incidência da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+Ademais, observa-se que, no caso dos autos, o Tribunal de origem manifestou-se nos seguintes termos (fl. 93 - g.n ):
+Constato nos documentos juntados aos autos o Termo de Responsabilidade Ambiental (doc. 16), datado em 19/12/2023, onde declara que a atividade exercida pela agravante é dispensada de licenciamento ambiental, pois atende aos critérios e limites de porte proposto na Resolução CEMA nº 06, de 12/04/2012 e normas ambientais vigentes.
+A ACP foi instruída com o Ofício nº 0021/2017, de 07 de março de 2017, expedido pela Secretaria do Meio Ambiente de Aracaju com a informação de que o estabelecimento foi fiscalizado e notificado para efetivar a Licença Ambiental, em razão do advento do art. 108, §1º, do Decreto nº 6.514/2008, por descumprimento do termo de embargo.
+Foi juntado, também, o Auto de Infração de 10/01/2017, noticiando que o estabelecimento continua funcionando apesar do embargo, com abertura de Processo Administrativo nº 2016-0093 (fls. 40/43).
+Não obstante o agravante dispor de Certificado de Dispensa de Licença, expedido pela Secretaria Municipal do Meio Ambiente - SEMA, seu estabelecimento foi fiscalizado e notificado sobre a necessidade de obter licenciamento ambiental, em razão de sua atividade ser potencialmente poluidora. No entanto, o recorrente não diligenciou a fim de regularizar a situação do seu estabelecimento perante o órgão responsável pela concessão de licença ambiental.
+Portanto, diante da peculiaridade, tratando de fase preambular do processo originário e considerando comprovada a necessidade de trabalho do agravante para sua subsistência e de sua família, entendo que ser possível conceder prazo para o agravante providenciar o comprovante de que promoveu o encaminhamento para o pedido de licenciamento para se adequar a legislação ambiental.
+Nesse sentido, entendo que deve ser suspensa a liminar que determinou a suspensão das atividades do recorrente, determinando que o agravante, no prazo de 45 dias demonstre nos autos que diligenciou para dar entrada no pedido de autorização perante a SEMA, sob pena de haver revigoramento automático da liminar deferida pelo Juízo singular.
+Assim, é certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de asseverar que deve ser suspensa a tutela de urgência, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse vértice:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. MULTA. REVISÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. TUTELA ANTECIPADA. REQUISITOS. ANÁLISE. INVIABILIDADE.
+1. Aplica-se o óbice da Súmula 284 do STF quando a alegação de ofensa ao art. 1.022, II, do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+2. A revisão do valor da multa fixada por descumprimento de decisão judicial encontra óbice na Súmula 7 desta Corte, pois sua imposição advém das peculiaridades do caso concreto.
+3. Somente em situações excepcionais, quando irrisório ou exorbitante o quantum arbitrado, admite-se a reavaliação, em recurso especial, do montante fixado, o que não se observa no presente caso.
+4. É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.992.209/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/6/2023, DJe de 16/6/2023 - g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COM CIVIL COM PÚBLICA. TUTELA DE URGÊNCIA. PRESENÇA DOS REQUISITOS LEGAIS. REVISÃO. ÓBICE DAS SÚMULAS 7 DO STJ E 735 DO STF. DEMAIS FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ.
+1. A parte não refuta à afirmativa de ausência de violação dos arts.
+489 e 1.022 do CPC/2015. A ausência de combate específico às conclusões da decisão combatida impossibilita o conhecimento do agravo interno, seja em virtude do disposto no art. 1.021, § 1º, do CPC/2015, seja pela incidência do enunciado da Súmula 182/STJ.
+2. Registro o entendimento do STF de que a exigência de fundamentação prevista no art. 93, IX, da CF não demanda exame pormenorizado de cada uma das alegações ou provas suscitadas pelas partes, nem mesmo se estiver correta a motivação da decisão. Desse modo, não há que se falar em fundamentação deficiente.
+3. Na espécie, a Corte local entendeu que estão presentes os requisitos legais para a concessão da antecipação de tutela.
+4. Nesse contexto, é certo que revolver os fundamentos elencados pelo Tribunal de Justiça no que tange ao não preenchimento dos requisitos necessários à decretação da medida esbarraria na Súmula 735/STF.
+5. Com efeito, de acordo com a jurisprudência deste Tribunal Superior, a verificação dos requisitos para a concessão da medida liminar de natureza cautelar ou antecipatória dos efeitos da tutela consiste em matéria de fato e de caráter precário, sendo defesa a análise em recurso especial, nos termos preconizados nas Súmulas 7/STJ e 735/STF, respectivamente: "A pretensão de simples reexame de prova não enseja recurso especial"; "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+6. Agravo interno parcialmente conhecido e não provido.
+(AgInt no AREsp n. 1.862.065/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 8/3/2022, DJe de 25/3/2022 - g.n.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+ EMENTA
