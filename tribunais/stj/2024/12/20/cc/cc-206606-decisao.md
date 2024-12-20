@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência sendo suscitante o JUÍZO DA 6ª VARA DO TRABALHO DE RIBEIRÃO PRETO - SP e suscitado o JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE RIBEIRÃO PRETO - SP.
+Na origem, UNIMED NORDESTE PAULISTA - FEDERAÇÃO INTRAFEDERATIVA DAS COOPERATIVAS MÉDICAS ajuizou ação cautela pleiteando, junto aos órgãos de proteção ao crédito, a suspensão da publicidade de débitos anotados nos órgãos de proteção ao crédito pelo SINDICATO DOS CORRETORES DE PLANOS DE SAÚDE MÉDICOS E ODONTOLÓGICOS NO ESTADO DE SÃO PAULO - SINCOPLAN. As cobranças não pagas referem-se a "valores retidos de imposto sindical dos profissionais que atuaram como pessoa física, prestando serviços de corretores e intermediários na venda de planos de saúde, onde tiveram desconto pela fonte pagadora do imposto sindical sobre comissões pagas e tarefas realizadas nos exercícios de 2016 e 2017" (e-STJ fl. 16).
+O JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE RIBEIRÃO PRETO - SP declinou da competência ao argumento de que a matéria tratada nos autos diz respeito ao vínculo trabalhista.
+O JUÍZO DA 6ª VARA DO TRABALHO DE RIBEIRÃO PRETO - SP, por sua vez, suscitou o presente conflito com base nos seguintes fundamentos:
+"De fato, o art. 114 da Constituição Federal de 1988, introduzido pela EC nº 45/04, estabeleceu a competência da Justiça do Trabalho para processar e julgar as ações cujos objetos estão enumerados em cada um dos incisos do referido artigo. Contudo, a matéria envolvida no caso dos autos - em razão de a autora não ter sequer ideia da origem do débito - não está elencada em nenhum dos incisos do art. 114 da Constituição Federal. Ora, se a própria autora desconhece de onde provém o débito, como saber se é derivado de uma relação de trabalho ou quiçá de uma cobrança de contribuição sindical em sentido lato  Ademais, as próprias decisões trazidas aos autos para fundamentar o pedido da autora foram emanadas da Justiça Cível. Assim, a competência, in casu, para processar e julgar o presente feito, bem assim conceder a tutela antecipada pretendida, é da Justiça Comum, porquanto a discussão não se refere a qualquer questão decorrente de relação de trabalho" (e-STJ fl. 46).
+Instado, o Ministério Público Federal opinou pelo conhecimento e declaração de competência da Justiça comum estadual para o julgamento do feito (e-STJ fls. 68/71).
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Sabe-se que a competência para processamento e julgamento do feito é definida em razão do pedido e da causa de pedir.
+Da petição inicial extrai-se que a autora, operadora de plano de saúde, busca a suspensão da publicidade de negativação junto ao SPC/SERASA inserida pelo Sindicato dos Corretores de Planos de Saúde, Médicos e Odontológicos no Estado de São Paulo.
+Dessa forma, inexistindo vínculo trabalhista entre as partes, é da competência da Justiça comum o julgamento da causa. Assim, respeitados a causa de pedir, o pedido e, enfim, os limites nos quais a demanda foi proposta, constata-se que a pretensão formulada tem cunho eminentemente civil.
+Nesse sentido:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS COMUM E TRABALHISTA. RESPONSABILIDADE CIVIL. ACIDENTE DURANTE A JORNADA DE TRABALHO. EMPRESA RÉ ESTRANHA À RELAÇÃO LABORAL. CAUSA DE PEDIR IMEDIATA. DEVER DE INDENIZAR DECORRENTE DA LEGISLAÇÃO CIVIL. ARTS. 186, 927 E 950 DO CÓDIGO CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Consoante a jurisprudência sedimentada nesta Corte Superior, a competência em razão da matéria se define a partir da natureza jurídica da controvérsia, que se afere da análise do pedido e da causa de pedir veiculados na inicial.
+2. A delimitação da causa petendi, para fins de definição da competência ratione materiae, não pode resultar apenas da análise da causa de pedir mediata (ou remota) da ação, mas especialmente de sua causa de pedir imediata (ou próxima), ou seja, da aferição da natureza dos fundamentos jurídicos que justificam o pedido.
+3. Compete à Justiça Comum, e não à Justiça especializada, processar e julgar a ação reparatória proposta contra parte com a qual o autor não possua nenhuma relação trabalhista, quando fundada na existência do dever de indenizar decorrente das disposições da legislação civil ou das normas de proteção ao consumidor, ainda que, em tese, os fatos narrados na inicial possam corresponder a acidente laboral.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível da Comarca de São Mateus/ES, o suscitado" (CC nº 121.723/ES, de minha relatoria, Segunda Seção, julgado em 26/2/2014, DJe 28/2/2014).
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE RIBEIRÃO PRETO - SP , o suscitado, para processar e julgar o presente feito.
+Oficiem-se.
+Publique-se.
+Intime-se.
+EMENTA
