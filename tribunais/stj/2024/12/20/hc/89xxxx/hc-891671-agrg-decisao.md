@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por KAUAN DA SILVA RODRIGUES contra decisão singular por mim proferida, às fls. 130/137, em que não conheci do habeas corpus.
+No presente recurso (fls. 140/149), a defesa reitera a nulidade das provas obtidas no momento do flagrante, tendo em vista o ingresso dos policiais na casa do paciente sem ordem judicial ou autorização expressa devidamente documentada de algum morador. Reafirma que não havia indícios da prática de crime preexistente no interior da residência, não sendo válida a posterior ratificação da atuação policial ao argumento de tratar-se de crime permanente, bem como que a atuação policial se deu em razão exclusiva de denúncia anônima e que os policiais somente avistaram o paciente após adentrarem o pátio da residência.
+Assim, requer o provimento do agravo regimental a fim de conceder a ordem determinando o trancamento da ação penal.
+É o relatório.
+Decido.
+O recurso encontra-se prejudicado.
+Isso porque, em consulta ao site do Tribunal de origem, verificou-se que, em 6/9/2024, nos autos da Ação Penal n. 5000225-04.2024.8.24.0113, que aqui se trata, foi proferida sentença condenando o ora agravante pela prática do crime disposto no artigo 33, caput, c/c o artigo 40, VI, ambos da Lei n. 11.343/06, estabelecendo a pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, e o pagamento de 583 (quinhentos e oitenta e três) dias-multa; tendo-lhe concedido o direito de recorrer em liberdade.
+Em 31/10/2024, o magistrado sentenciante julgou os embargos de declaração apresentados pela defesa.
+Interposto recurso de apelação, encontra-se pendente de julgamento no Tribunal de origem.
+Da análise do édito condenatório, bem como do recurso integrativo, aferiu-se que a apontada ilicitude das provas por violação de domicílio foi analisada pela Magistrada sentenciante, que entendeu não ter ocorrido qualquer nulidade na busca domiciliar operada pelos policiais.
+Dessa forma, não há como negar a perda superveniente do objeto do mandamus, porquanto as razões expendidas pelo Juízo de primeiro grau para indeferir o pedido de nulidade em razão da violação de domicilio não mais subsistem. Fundamentos diversos e complementares foram apresentados pela magistrada sentenciante. Assim, diante do novo contexto fático, evidente a perda do objeto da presente impetração. Os novos fundamentos devem ser submetidos perante o Tribunal a quo antes de serem aqui analisados, sob pena de se incidir em indevida supressão de instância.
+Nesse sentido, confiram-se os seguintes precedentes da egrégia Quinta Turma desta Corte Superior de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA QUE CONCEDEU O DIREITO DE RECORRER EM LIBERDADE. QUESTÃO SUPERADA. VIOLAÇÃO DE DOMICÍLIO AFASTADA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO DEVE SER ENFRENTADA PREVIAMENTE PELA CORTE A QUO. AGRAVO PREJUDICADO.
+1. Em data posterior à decisão agravada, foi proferida sentença condenando a ré às penas de 5 anos de reclusão, em regime inicial semiaberto, e pagamento de 500 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo sido concedido o direito de recorrer em liberdade. Dessa forma, não mais persistindo a segregação ora debatida, vislumbra-se a perda de objeto pretendido.
+2. No que se refere à alegada ilicitude das provas, o pleito também se encontra prejudicado, tendo em vista que foi analisado pelo Magistrado sentenciante, que, analisando as provas juntadas durante a instrução criminal - dentre elas, autorização de busca domiciliar assinada por moradores do imóvel -, entendeu não ter ocorrido violação ao domicílio da paciente.
+3. É certo que os elementos de convicção utilizados pelo Juízo de primeiro grau adotados na sentença condenatória a fim de afastar a violação de domicílio devem ser levados à apreciação do Tribunal de origem, antes de serem analisados por esta Corte Superior.
+4. Agravo Regimental prejudicado.
+(AgRg no HC n. 765.589/PR, de minha relatoria, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE DE ARMA DE FOGO DE USO RESTRITO. BUSCA VEICULAR. PEDIDO DE TRANCAMENTO PREJUDICADO. SUPERVENIÊNCIA DE SENTENÇA COM NOVOS ELEMENTOS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A superveniência de sentença com exame de fatos novos, ainda não apreciados em apelação - pendente de julgamento -, torna prejudicado o exame do habeas corpus anteriormente impetrado para o trancamento do processo por nulidade da busca veicular.
+2. A prisão preventiva tem natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém deve, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+3. Na hipótese, mostram-se bastantes as razões invocadas pelas instâncias ordinárias para justificar a prisão cautelar do paciente, porquanto contextualizaram, em dados concretos dos autos, o periculum libertatis, sobretudo diante da reincidência do acusado, que estava em cumprimento de pena e foi preso com arma de fogo e munição de uso restrito, e do seu apontado envolvimento com organização criminosa e delitos contra a vida.
+4. Agravo regimental não provido.
+(AgRg no HC n. 771.734/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ROUBO MAJORADO. TRANCAMENTO DA AÇÃO PENAL. TESE DE NULIDADE DA BUSCA DOMICILIAR REALIZADA PELA GUARDA MUNICIPAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPETRAÇÃO PREJUDICADA. RECURSO DE APELAÇÃO INTERPOSTO. POSSIBILIDADE DE ANÁLISE AMPLA E EXAURIENTE NO ÂMBITO DO RECURSO. ORDEM JULGADA PREJUDICADA. I. CASO EM EXAME
+1. A defesa impetrou habeas corpus com o objetivo de trancar a ação penal sob alegação de nulidade nas provas e no processo. Ocorre que, durante o trâmite do habeas corpus, foi proferida sentença condenatória em desfavor do paciente, estabelecendo a pena de 10 anos e 4 meses de reclusão, além de 513 dias-multa, pelo crime de tráfico de drogas e roubo, com regime inicial fechado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o habeas corpus, que busca o trancamento da ação penal, permanece cabível após a prolação de sentença condenatória.
+III. RAZÕES DE DECIDIR
+3. A superveniência de sentença condenatória torna prejudicado o habeas corpus que busca o trancamento da ação penal, uma vez que a análise das nulidades e ilegalidades suscitadas pode ser realizada de forma ampla e exauriente no julgamento do recurso de apelação, que já foi interposto pela defesa.
+4. Conforme jurisprudência pacífica desta Corte, após a sentença condenatória, o habeas corpus que busca trancar a ação penal perde o objeto, devendo a matéria ser discutida no âmbito do recurso de apelação, que possui efeito devolutivo amplo.
+5. O Superior Tribunal de Justiça já consolidou o entendimento de que, em casos de impetração simultânea de habeas corpus e apelação, o writ não deve ser conhecido, salvo quando tutelar diretamente a liberdade de locomoção do paciente, o que não se verifica no presente caso, uma vez que o paciente encontra-se preso em razão de sentença condenatória.
+IV. HABEAS CORPUS JULGADO PREJUDICADO.
+(HC n. 863.144/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.)
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente agravo regimental.
+Publique-se.
+Intimações necessárias.
+EMENTA
