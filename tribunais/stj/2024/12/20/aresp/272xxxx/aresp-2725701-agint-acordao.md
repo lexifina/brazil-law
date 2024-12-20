@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ÍNDOLE ABUSIVA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal a quo concluiu pelo caráter abusivo dos juros remuneratórios pactuados, considerando que excederam, de forma exorbitante, a taxa média de mercado. Nesse contexto, observa-se que a controvérsia foi decidida em conformidade com a jurisprudência do Superior Tribunal de Justiça. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CREFISA S/A CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra decisão monocrática proferida por esta Relatoria (fls. 609-612), que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões recursais, a agravante sustenta, em síntese, a inaplicabilidade da Súmula 83 do STJ, visto o aresto recorrido não se encontrar em conformidade com a jurisprudência do STJ, além de repisar a tese exposta no apelo especial, quanto à ausência de caráter abusivo dos juros remuneratórios contratados em comparação à taxa média de mercado.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Intimada, a parte agravada não apresentou impugnação, conforme certidão de fl. 628.
+É o relatório.
+EMENTA
+BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ÍNDOLE ABUSIVA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal a quo concluiu pelo caráter abusivo dos juros remuneratórios pactuados, considerando que excederam, de forma exorbitante, a taxa média de mercado. Nesse contexto, observa-se que a controvérsia foi decidida em conformidade com a jurisprudência do Superior Tribunal de Justiça. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+VOTO
+A decisão não merece reparos, devendo ser mantida por seus próprios fundamentos.
+Quanto aos juros remuneratórios, cabe averiguar se o tão só fato de estes extrapolarem a taxa média praticada pelo mercado financeiro em operações de mesma espécie, no período de celebração do pacto, indicaria a existência de cobrança abusiva.
+Ao julgar o recurso representativo da controvérsia que pacificou a questão acerca da índole abusiva dos juros remuneratórios (REsp 1.061.530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe de 10/3/2009), a em. Min. Relatora consignou, no que toca ao parâmetro a ser considerado para inferir se os juros contratados são abusivos ou não, o seguinte:
+"Descartados índices ou taxas fixos, é razoável que os instrumentos para aferição da abusividade sejam buscados no próprio mercado financeiro.
+Assim, a análise da abusividade ganhou muito quando o Banco Central do Brasil passou, em outubro de 1999, a divulgar as taxas médias, ponderadas segundo o volume de crédito concedido, para os juros praticados pelas instituições financeiras nas operações de crédito realizadas com recursos livres (conf. Circular nº 2957, de 30.12.1999).
+ ..
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros.
+A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos."
+Vê-se, assim, que a circunstância de a taxa de juros remuneratórios, praticada pela instituição financeira, exceder a taxa média de mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras, tal como entendeu o eg. Tribunal de origem.
+Portanto, para considerar aviltantes os juros remuneratórios praticados, é imprescindível que se proceda à demonstração cabal de sua natureza abusiva, em cada caso específico.
+No caso dos autos, segundo os fatos definitivamente delineados no acórdão recorrido, o Tribunal de origem concluiu pela limitação da taxa dos juros remuneratórios à média de mercado, em razão da impossibilidade de comprovar a taxa de juros efetivamente contratada, pela falta de juntada do instrumento aos autos, in verbis:
+"No caso, aos 31/07/2019, as partes firmaram o contrato de empréstimo pessoal não consignado vinculado à composição de dívidas (proposta n.º 031000056795 - evento 1, CONTR11), mediante taxas de 22,00%a.m., quando a média de mercado em operações da mesma espécie era de 3,72% a.m. (254651).
+Ao reverso do que argumenta a ré, está adequada a utilização do referencial das operações vinculadas à composição de dívidas, porquanto parte do valor da operação em litígio foi destinado à liquidação de operações anteriores. No que tange à espécie das dívidas repactuadas, não veio aos autos seus respectivos contratos, de modo que a ré não logrou demonstrar que as dívidas diziam respeito a mesma modalidade de crédito. Destarte, tenho que a aferição da abusividade deve ser analisada a partir das médias das operações vinculadas à composição de dívida, tal como procedeu a sentença.
+Nessa senda, note-se que valor aplicado (22% a. m.) supera em cerca de 500% a taxa média de mercado praticada sobre operações congêneres pelas demais instituições financeiras. Uma estipulação notoriamente exorbitante às médias. E se as médias são suficientes para remunerar a média das instituições, no caso indiscutível que tal patamar proporciona exagerada vantagem em favor da instituição financeira em detrimento da presumida hipossuficiência do consumidor tomador do empréstimo." ( fl. 404)
+Quanto ao tema, esta Corte Superior possui o entendimento, consolidado na Súmula 530/STJ, de que "nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor".
+Na mesma linha de intelecção:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. TAXA DE JUROS REMUNERATÓRIOS. AUSÊNCIA DE PACTUAÇÃO. LIMITAÇÃO DA TAXA À MÉDIA DE MERCADO. SÚMULA N. 530/STJ. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. 3. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Nos termos da jurisprudência desta Corte Superior, "nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor" (Súmula 530/STJ)" - (AgInt no REsp 1.549.044/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/9/2020, DJe 1º/10/2020).
+2.1. Na hipótese dos autos, não houve, no contrato, a previsão expressa da taxa de juros remuneratórios, sendo o caso de limitar a sua cobrança à média de mercado. Incide, no ponto, o óbice da Súmula 83 desta Corte.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.288.952/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA -
+DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Conforme entendimento desta Corte "Nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor." (Súmula 530/STJ ).
+2. Agravo interno desprovido."
+(AgInt no REsp n. 1.999.528/PR, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023)
+Desse modo, constatada a conformidade do acórdão recorrido com a jurisprudência desta Corte, é inviável o provimento do recurso especial no tópico, nos termos da Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
