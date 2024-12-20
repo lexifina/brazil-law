@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado por Município de Belo Horizonte com fundamento no art. 105, III, c, da CF, contra acórdão proferido pelo Tribunal de Justiça daquele Estado, assim ementado (fl. 91):
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - EXTINÇÃO DO PROCESSO - ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS SOBRE O VALOR ATUALIZADO DA CAUSA - SENTENÇA CONFIRMADA - APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE - PEDIDO DE FIXAÇÃO POR EQUIDADE - INDEFERIMENTO - RECURSO NÃO PROVIDO.
+1. Em regra, nas causas em que a Fazenda Pública for parte, a verba honorária deve ser arbitrada sobre o valor da condenação ou do proveito econômico obtido, nos termos da regra prevista no art. 85, §3º, do Código de Processo Civil.
+2. É admitido o arbitramento de honorários advocatícios por equidade apenas quando, havendo ou não condenação, o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou o valor da causa for muito baixo (STJ, Tema nº 1076).
+3. Verificado que o proveito econômico discutido na demanda não é irrisório nem o valor atribuído à causa é baixo, tem-se que a verba honorária fixada na decisão de primeiro grau se acha correta.
+4. Recurso n ão provido.
+A parte recorrente aponta dissídio jurisprudencial acerca do art. 85, §8º, do CPC. Sustenta, em resumo, que: "considerando que não houve defesa efetiva, a fixação de honorários advocatícios excessivos não se justifica, tornando imprescindível o ajuste proporcional da condenação sucumbencial" (fl. 119).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação merece prosperar.
+Trata-se de execução fiscal extinta com fundamento no art. 26 da Lei 6.830/80, restando o ente municipal condenado ao pagamento de honorários advocatícios nos percentuais mínimos previstos no art. 85, § 3º, do CPC.
+Acerca do tema trazido a julgamento, o entendimento adotado pela Primeira Turma deste Superior Tribunal de Justiça é no sentido de que nos casos previstos no art. 26 da LEF "não é possível identificar objetiva e direta relação de causa e efeito entre a atuação do advogado e o proveito econômico obtido pelo seu cliente, a justificar que a verba honorária seja necessariamente deferida com essa base de cálculo, de modo que ela deve ser arbitrada por juízo de equidade do magistrado, critério que, mesmo sendo residual, na específica hipótese dos autos, encontra respaldo nos princípios da razoabilidade e da proporcionalidade preconizados no art. 8º do CPC/2015 " (REsp n. 1.795.760/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/11/2019, DJe de 3/12/2019).
+Nesse mesmo sentido, confira-se:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO. INSCRIÇÃO EM DÍVIDA ATIVA. CANCELAMENTO. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL SOBRE O VALOR DA CAUSA. DESPROPORCIONALIDADE. JUÍZO DE EQUIDADE. POSSIBILIDADE. ENTENDIMENTO FIRMADO NO JULGAMENTO DO TEMA REPETITIVO 1.076 DO STJ. DISTINÇÃO.
+1. Não obstante a literalidade do art. 26 da LEF, que exonera as partes de quaisquer ônus, a jurisprudência desta Corte superior, sopesando a necessidade de remunerar a defesa técnica apresentada pelo advogado do executado em momento anterior ao cancelamento administrativo da CDA, passou a admitir a fixação da verba honorária, pelo princípio da causalidade. Inteligência da Súmula 153 do STJ.
+2. A necessidade de deferimento de honorários advocatícios nesses casos não pode ensejar ônus excessivo ao Estado, sob pena de esvaziar, por completo, o referido artigo de lei.
+3. Da sentença fundada no art. 26 da LEF não é possível identificar objetiva e direta relação de causa e efeito entre a atuação do advogado e o proveito econômico obtido pelo seu cliente, a justificar que a verba honorária seja necessariamente deferida com essa base de cálculo, de modo que ela deve ser arbitrada por juízo de equidade do magistrado, critério que, mesmo sendo residual, na específica hipótese dos autos, encontra respaldo nos princípios da razoabilidade e da proporcionalidade preconizados no art. 8º do CPC/2015. Precedente: REsp 1.795.760/SP, rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 21/11/2019, DJe 03/12/2019.
+4. A hipótese em exame não se encontra abarcada pela tese jurídica firmada no julgamento do Tema repetitivo 1.076 do STJ, pois a solução adotada no caso concreto decorre da interpretação do art. 26 da LEF, aspecto não tratado no precedente obrigatório, o que justifica a distinção.
+5. Agravo interno não provido
+(AgInt no AgInt no AREsp n. 1.967.127/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/6/2022, DJe de 1/8/2022.)
+Assim, por estar em dissonância com a jurisprudência desta Corte Superior, merece reparos o aresto impugnado, nos termos da fundamentação supra.
+ANTE O EXPOSTO, dou provimento ao recurso especial e determino o retorno dos autos à origem, a fim de que seja fixada a verba sucumbencial com base na equidade.
+Publique-se.
+EMENTA
