@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANIELA APARECIDA DA CONCEIÇÃO, tendo como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão do julgamento da apelação criminal n. 0002434-28.2015.8.26.0198.
+Consta nos autos que a paciente foi inicialmente condenada pelo Juízo da Vara Criminal da Comarca de Franco da Rocha, na ação penal n. 0002434-28.2015.8.26.0198, por incursão no artigo 33, caput, c/c artigo 40, III, da Lei 11.343/2006, à pena de 7 anos de reclusão e 700 dias-multa, no regime inicial fechado (fls. 91-99).
+A defesa interpôs apelação criminal ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso (fls. 117-126).
+Na presente impetração, busca-se a concessão da ordem para revisar os critérios empregados na dosimetria da pena e no estabelecimento do regime inicial prisional.
+É o relatório. DECIDO.
+A controvérsia gira em torno de uma possível coação ilegal, caracterizada pelos critérios empregados na dosimetria da pena e no estabelecimento do regime inicial prisional.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem ofício, em observância ao §2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos empregados na decisão colegiada impugnada (fls. 117-126):
+ ..
+Individualização. Passa-se ao cálculo da reprimenda lançada em desfavor da acusada.
+1ª fase. Seguindo as diretrizes dos arts. 59 e 68, ambos do Código Penal, e art. 42 da Lei de Drogas, levando-se em conta a expressiva quantidade de drogas altamente viciantes (mais 340g), bem como os maus antecedentes (fls. 163/164), a pena-base foi corretamente imposta em 1/5 acima do mínimo legal, ou seja, 6 anos de reclusão e 600 dias-multa.
+Apesar do inconformismo defensivo, a justificativa para o acréscimo nesta etapa é adequada, além do que não houve abuso ou exagero na fração de aumento imposta pelo magistrado sentenciante, que atuou em seu campo de discricionariedade, bem como dentro dos critérios da razoabilidade e proporcionalidade, além de atender ao disposto no art. 42 da Lei de Drogas.
+É inequívoco que tamanha quantidade de entorpecentes seria capaz de disseminar o vício em grande escala, sendo necessário maior rigor na penalização. 2ª fase. Ausentes agravantes e atenuantes, a reprimenda permaneceu inalterada.
+3ª fase. Tendo em vista que o delito se deu em uma unidade prisional, de rigor a aplicação da causa de aumento correspondente, prevista no art. 40, inc. III, da Lei nº 11.343/2006, majorando o escarmento em 1/6 (um sexto), chegando-se ao quantum de 7 (sete) anos de reclusão, além do pagamento de 700 (setecentos) dias- multa, no patamar mínimo.
+À míngua de outras circunstâncias modificadoras, a sanção se torna definitiva.
+Face aos maus antecedentes, era incabível a aplicação do redutor do § 4º, do art. 33, da Lei de Drogas, salientando que não caracteriza dupla penalização o aumento da pena pelas referidas circunstâncias e a não redução por essa benesse, que expressamente é facultada apenas àqueles que sejam primários, possuidores de bons antecedentes e não tenham envolvimento com organizações criminosas ou dedicação a atividades delituosas.
+ ..
+No caso, não há ilegalidade a ser sanada, uma vez que a quantidade de droga apreendida não é inexpressiva - 340g de cocaína - que seria inserida no sistema prisional. Conjugada com a vetorial dos maus antecedentes, são circunstâncias que justificam o aumento da pena-base na fração de 1/5 acima da pena mínima do delito de tráfico de drogas.
+Pelos mesmos motivos, o estabelecimento do regime inicial prisional mais gravoso guarda razão de proporcionalidade com a gravidade da conduta, estando adequado à diretriz dos artigos 33, §3º, e 59 do Código Penal.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a dosimetria da pena e seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, sendo passível de revisão por esta Corte apenas no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, o que não se observa na hipótese dos autos.
+A esses respeito:
+ ..
+- A dosimetria da pena e seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- Na espécie, verifico que apesar de o montante da pena - 5 anos de reclusão - permitir, em tese, a fixação do regime inicial semiaberto, deve ser mantido o regime mais gravoso, haja vista a gravidade concreta da conduta perpetrada, consubstanciada na natureza e expressiva quantidade de entorpecente apreendido - 300g de cocaína (e-STJ, fl. 299) -, o que justificou, inclusive, a exasperação da pena-base em 1/6; o que está em harmonia com a jurisprudência desta Corte Superior, que é pacífica no sentido de que a existência de circunstâncias judiciais desfavoráveis ou, ainda, outra situação que demonstre a gravidade concreta do delito perpetrado, como in casu, são condições aptas a recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta, de modo que não existe ilegalidade na fixação do regime inicial fechado ao paciente, nos termos do art. 33, §§ 2º e 3º, do Código Penal, e do art. 42 da Lei n. 11.343/2006. Precedentes.
+- Inviável também a substituição da reprimenda, por expressa vedação legal, nos termos do art. 44, I, do Código Penal.
+- Agravo regimental não provido.
+(AgRg no HC n. 754.859/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.)
+De toda sorte, não vislumbro coação ilegal que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
