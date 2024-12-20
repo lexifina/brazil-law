@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. SENTENÇA DE IMPROCEDÊNCIA. FUNDAMENTOS NÃO IMPUGNADOS. APELAÇÃO NÃO CONHECIDA. PRINCÍPIO DA DIALETICIDADE NÃO OBSERVADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEG AR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do STJ, "embora a mera reprodução da petição inicial nas razões de apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015" (AgInt no REsp 1.735.914/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe de 14/08/2018).
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por SCHERER E SAUER LTDA contra decisão da Presidência desta Corte, acostada às fls. 678/679, que não conheceu do agravo em recurso especial, ante a ausência de impugnação específica dos fundamentos da decisão de admissibilidade do recurso especial.
+Nas razões do agravo interno, sustenta a agravante a reconsideração da decisão, alegando para tanto que a Súmula 182/STJ deve ser afastada, pois houve a impugnação específica dos fundamentos da decisão recorrida.
+A impugnação do presente recurso foi apresentada às fls. 706/707.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. SENTENÇA DE IMPROCEDÊNCIA. FUNDAMENTOS NÃO IMPUGNADOS. APELAÇÃO NÃO CONHECIDA. PRINCÍPIO DA DIALETICIDADE NÃO OBSERVADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEG AR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do STJ, "embora a mera reprodução da petição inicial nas razões de apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015" (AgInt no REsp 1.735.914/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe de 14/08/2018).
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+Verifica-se que houve a impugnação específica dos fundamentos da decisão de admissibilidade, devendo ser reconsiderada a decisão de fls. 678/679.
+O recurso especial a ser revisitado desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 18):
+"APELAÇÃO CÍVEL. LOCAÇÃO. AÇÃO DECLARATÓRIA C/C. INDENIZATÓRIA. SENTENÇA IMPROCEDENTE. RAZÕES RECURSAIS QUE NÃO ATACAM OS FUNDAMENTOS DA SENTENÇA APELADA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. ART. 1.010, INCISOS II E III, DO CPC/2015. PRECEDENTES. RECURSO NÃO CONHECIDO."
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, em síntese, que houve ofensa ao artigo 1.010, II e III, do CPC/2015, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que atendeu ao princípio da dialeticidade, pois, "no recurso de apelação apresentado, a parte recorrente esclareceu justamente que prova da quitação - ou seja, atacou o argumento da sentença" (fl. 36).
+Na hipótese, a eg. Corte de origem verificou que a parte ora agravante não se ateve aos fundamentos da sentença para a interposição do recurso de apelação, afrontando, assim, o princípio da dialeticidade recursal, conforme se vê no trecho do acórdão a seguir:
+Ocorre que a recorrente não trouxe qualquer argumento no sentido de rebater de forma direta e específica a fundamentação exarada na sentença, qual seja, de que era inviável reanalisar a citada relação jurídica entabulada entre as partes ou, ainda, a exigência do referido débito, uma vez que o tema já foi objeto de exame judicial, circunstância que atrai a incidência do art. 507 do CPC/2015, que reza: É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
+O ônus de impugnar especificamente os fundamentos utilizados pelo julgador na decisão proferida é chamado de "princípio da dialeticidade", que consiste "na necessidade de que o recorrente exponha os fundamentos de fato e de direito pelos quais está inconformado com a decisão recorrida, bem como decline as razões do pedido de prolação de outra decisão. Portanto, de acordo com esse princípio, o recurso deverá ser dialético, isto é, discursivo" (Orione Neto, Luiz. Recursos Cíveis. São Paulo: Saraiva, pp. 202/205).
+Com efeito, a situação posta nos autos evidencia total incongruência e ausência de correlação entre o fundamento da sentença e a argumentação invocada em sede recursal.
+Nesse contexto, uma vez que o apelo não atende ao princípio da dialeticidade, deixando de observar o requisito de admissibilidade recursal previsto no art. 1.010, incs. II e III, do CPC/2015, é de rigor seu não conhecimento.
+Com efeito, conforme é sabido, para que qualquer recurso possa ser conhecido no direito pátrio, exige-se o preenchimento de diversos requisitos legais. Estes conhecidos como requisitos de admissibilidade recursal, dentre os quais se insere o da "regularidade formal". É dizer: o recorrente deve apresentar, quando da interposição de sua apelação, as respectivas razões de seu recurso que possam levar à reforma da r. sentença recorrida (art. 1.010, III, do Código de Processo Civil), sob pena de inadmissibilidade por ausência de regularidade formal, respeitando-se, por conseguinte, o princípio da dialeticidade.
+Sobre o tema, confiram-se precedentes desta Corte de Justiça:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CONHECIMENTO DA APELAÇÃO. REPRODUÇÃO DAS RAZÕES DEDUZIDAS NA PETIÇÃO INICIAL. AUSÊNCIA DE IMPUGNAÇÃO DO ARGUMENTO REFERENTE À DECADÊNCIA. PRINCÍPIO DA DIALETICIDADE NÃO OBSERVADO. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. O recorrente deixou de observar as diretrizes fixadas pelo princípio da dialeticidade, como a indispensável pertinência temática entre as razões de decidir e os argumentos fornecidos pelo recurso para justificar o pedido de reforma do julgado combatido.
+2. O acórdão adotou solução em consonância com o entendimento firmado nesta Corte no sentido de que, embora a mera reprodução da petição inicial nas razões de apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015. Incidência, no ponto, da Súmula 83/STJ.
+3. Agravo interno improvido."
+(AgInt no REsp 1735914/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 14/08/2018)
+Com essas considerações, conclui-se que o recurso não merece prosperar, ante a incidência da Súmula 83/STJ.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+É como voto.
