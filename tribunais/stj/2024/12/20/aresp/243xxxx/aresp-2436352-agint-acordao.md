@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO SURPRESA. NÃO CARACTERIZAÇÃO. IMPLANTAÇÃO DE POLÍTICA PÚBLICA. FORNECIMENTO DE EXAMES GENÉTICOS. DIREITO COLETIVO NÃO COMPROVADO. INTERFERÊNCIA DO PODER JUDICIÁRIO. DESCABIMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO da decisão em que conheci do agravo para não conhecer do recurso especial (fls. 1.104/1.108).
+A parte agravante afirma que a reforma do acórdão recorrido, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, não depende da revisão de fatos e provas presentes nos autos (fls. 1.116/1.132).
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 1.139).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO SURPRESA. NÃO CARACTERIZAÇÃO. IMPLANTAÇÃO DE POLÍTICA PÚBLICA. FORNECIMENTO DE EXAMES GENÉTICOS. DIREITO COLETIVO NÃO COMPROVADO. INTERFERÊNCIA DO PODER JUDICIÁRIO. DESCABIMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+2. Agravo interno a que se nega provimento.
+VOTO
+Na origem, foi interposta ação civil pública pela qual se pleiteou o fornecimento de exames genéticos pelo município ora agravado. O pedido foi julgado improcedente na sentença de fls. 710/716.
+O Tribunal de origem, ao examinar o processo, concluiu pela manutenção da improcedência do pedido, por fundamento diverso, reconhecendo que não ficou demonstrado o direito coletivo alegado.
+A Corte local aduziu que inexistira decisão surpresa no caso em tela, uma vez que o acórdão recorrido tivera sua fundamentação lastreada nas alegações das partes, tendo sido oportunizada a manifestação da parte contrária.
+Ressaltou, ainda, a ausência de comprovação do direito coletivo alegado, considerando não terem sido demonstradas a necessidade ou relevância do fornecimento contínuo dos exames genéticos pelo município ora agravado.
+Por fim, asseverou que careceria ao Poder Judiciário legitimidade para determinar ao Poder Executivo Municipal que dispusesse de recursos materiais e humanos para o atendimento do pleito da parte ora agravante , o que poderia ocasionar interferência direta na organização orçamentária e imposição de despesas em determinado sentido para atender ao pedido.
+Assim, foi colacionado excerto do acórdão recorrido (fls. 824/825):
+A sentença de improcedência (peça 000851) está lastreada na inexistência de indicação, na petição inicial, de estabelecimento de saúde da rede pública municipal que atenda aos requisitos dos artigos 17a 19 da Portaria MS nº 199/2014, necessários para que seja pleiteada sua habilitação como Serviço de Atenção Especializada ou Serviço de Referência em Doenças Raras, a partir do que seria indiscutível o dever de fornecimento dos exames, nos termos do disposto no artigo 35 da mesma portaria, além de tornar possível a obtenção de incentivo financeiro da União, custeado pelo Fundo de Ações Estratégicas e Compensação - FAEC.
+Deve ser mantida a improcedência, mas por fundamento diverso, eis que não restou demonstrado, antes da propositura e mesmo no trâmite do processo, o direito coletivo que lastreia o pedido, nos termos do disposto no artigo 1º, IV da Lei nº 7.347/85, pois não comprovada a necessidade ou relevância do fornecimento contínuo dos 16 (dezesseis) exames genéticos pelo Município de Campos dos Goytacazes.
+À falta de informações detalhadas sobre a necessidade constante de tais exames, falece ao Poder Judiciário legitimidade para determinar ao Poder Executivo Municipal que disponha de recursos materiais e humanos para atender a tal finalidade, interferindo diretamente na organização orçamentária e imposição de despesas em determinado sentido.
+Ao que se deduz dos autos, por ora, é de ser mantido a forma atual de prestação deste serviço público específico, inclusive com a possibilidade de sequestro de verba para a realização dos exames exigidos em benefício de tal ou qual doente.
+Nesse contexto, expressamente constou do acórdão integrativo que julgou os embargos de declaração opostos na origem que (fls. 924/926):
+De início, verifica-se que o acórdão julgou o recurso de apelação da ora embargante valendo-se da apreciação das provas dos autos, não consistindo o acórdão embargado em decisão-surpresa, eis que o Colegiado decidiu a lide com base nas alegações apresentadas pelas partes, sobre as quais foi observada a oportunidade de manifestação da parte contrária durante o trâmite do feito.
+ ..
+As alegações da ora embargante foram detidamente analisadas no acórdão, eis que afirmou em suas razões de apelação o acesso universal à saúde e a incorporação ao SUS dos exames genéticos para doenças raras, não importando como o Poder Executivo deve se desincumbir de tal providência, ao que o aresto foi expresso quanto ao direito de todos à saúde, dever do estado lato sensu, nos termos do disposto no artigo 196 da CF, falecendo, entretanto, ao Poder Judiciário legitimidade para determinar ao Poder Executivo Municipal que disponha de recursos materiais e humanos, interferindo diretamente na organização orçamentária e imposição de despesas em determinado sentido para atender ao pedido.
+O aresto embargado é claro, ainda, quanto a não ter restado demonstrada a necessidade ou relevância, para a saúde da população e dos portadores de doenças raras do Município de Campos dos Goytacazes, do fornecimento contínuo dos 16 (dezesseis) exames genéticos previstos no Relatório nº 109/2013 do CONITEC e apontados pelo Ambulatório de Genética Clínica municipal (fls. 12/13 e 179/180).
+Não se constata a afirmada contradição entre a não demonstração do direito coletivo alegado e a obtenção dos exames de doenças genéticas raras mediante ordem judicial em demandas individuais, de forma eficiente e ágil.
+Constou do acórdão menção à existência de indícios de grande demanda de exames genéticos para diagnóstico criada por um único médico, conforme o procedimento de instrução nº 5/2015, preparatório da ACP, confirmado por cópia de petição de processo individual acostada aos autos pela Defensoria, ao oferecer réplica.
+Não obstante tenha opinado, por fim, pela procedência do pedido inicial, o aresto destacou o parecer ofertado pelo órgão do Ministério Público em atuação perante o 1º grau no sentido do indeferimento da tutela de urgência (peça 000218) quanto a não haver, nas portarias do SUS, "determinação para a realização de mapeamento genético de forma irrestrita e sim, após o aconselhamento genético que é realizado por equipe multidisciplinar do Serviço de Referência em Doenças Raras".
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso com fundamento na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
