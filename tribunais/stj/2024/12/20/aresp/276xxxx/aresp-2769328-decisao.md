@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por ALENCAR ENEAS ECKERT contra a decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 5014959-47.2021.4.04.7002/PR (fls. 296/300), com a seguinte ementa:
+PENAL. FURTO QUALIFICADO TENTADO. ART. 155, § 4º, INCISO II, NA FORMA DO ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL. REGIME INICIAL DE CUMPRIMENTO. MANUTENÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. INVIABILIDADE. CUSTAS PROCESSUAIS. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES CRIMINAIS. PEDIDO NÃO CONHECIDO.
+1. A despeito de fixada pena inferior a 4 (quatro) anos, ostenta o réu nada menos que sete condenações transitadas em julgado, razão pela qual o abrandamento do regime de cumprimento, embora usual ao quantitativo imposto, não se denota indicado e suficiente para bem reprimir a reiteração delitiva do apelante. Pelos mesmos fundamentos, mostra-se incabível sua suspensão condicional ou sua substituição por restritivas de direitos.
+2. É do juízo das execuções criminais a competência para apreciar pedidos de isenção de custas e de Justiça Gratuita. Precedentes do Tribunal.
+No recurso especial, a defesa requereu, em síntese, o reconhecimento da violação do art. 33, §§ 1º e 2º, do CP, alterando-se o regime inicial de cumprimento de pena para o semiaberto (fls. 307/314).
+Inadmitido o recurso na origem (fls. 328/330), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 338/350).
+O Ministério Público Federal opinou pelo não conhecimento do agravo e, acaso conhecido, pelo desprovimento (fls. 372/378), em parecer com a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APELO ESPECIAL INADMITIDO EM RAZÃO DO ÓBICE DA SÚMULA 83 DO STJ. PRECEDENTES. DECISÃO AGRAVADA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. FURTO QUALIFICADO TENTADO. REGIME INICIAL DE CUMPRIMENTO. MANUTENÇÃO. REGIME INICIAL FECHADO. CIRCUNSTÂNCIA DESFAVORÁVEL. MULTIRREINCIDÊNCIA. MODO MAIS GRAVOSO JUSTIFICADO. DECISÃO FUNDAMENTADA.
+PARECER PELO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL E, ACASO CONHECIDO, PELO SEU DESPROVIMENTO.
+É o relatório.
+Conheço do agravo, porquanto presentes os pressupostos para sua admissibilidade. O agravante logrou infirmar com suficiência os fundamentos para inadmissão do especial.
+Pretende o agravante a modificação do regime de cumprimento de pena, para o semiaberto, argumentando ser o mais indicado ao caso dos autos, tendo em vista a quantidade de pena ao final fixada.
+O réu restou condenado a uma pena de 1 ano e 13 dias de reclusão, e 10 dias-multa, pela prática do furto qualificado-privilegiado.
+Na sentença restou devidamente assinalada a multirreincidência do réu, na segunda fase de dosimetria, bem como seus maus antecedentes, na análise das circunstâncias judiciais.
+Não se trata, portanto, de réu reincidente, indicado como tal em razão de uma única condenação, mas de indivíduo portador de seis anotações de condenações definitivas, devidamente indicadas, e portador de maus antecedentes, indicados por condenação definitiva diversa, tal como firmado na sentença.
+Destarte, não colhem os argumentos defensivos no sentido de que o regime semiaberto é o mais adequado ao caso, em razão da quantidade de pena fixada ao final, justamente porque o art. 33, § 3º, do CP indica que a fixação do regime inicial de cumprimento da pena observará não somente a regra do § 2º, mas também observará a análise das circunstâncias judiciais.
+Sendo assim, a fixação do regime inicial fechado é decorrência da própria aplicação dos preceitos legais referidos.
+Sobre o tema, colham-se os julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DESCRITO NO ART. 155, CAPUT, DO CP. CONDENAÇÃO. PRETENSÃO A REGIME INICIAL MENOS GRAVOSO. PACIENTE REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PENA-BASE ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE SUPERIOR. INAPLICABILIDADE DA SÚMULA N. 269/STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS LEGAIS (ART. 44 DO CP). INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. MATÉRIA SEQUER SUSCITADA PERANTE O TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. In casu, conquanto tenha a reprimenda final imposta ao agravante sido fixada em patamar não superior a 4 anos, foi-lhe aplicado o regime prisional fechado, considerando a reincidência e a circunstância judicial desfavorável (maus antecedentes), que afastou a pena-base do seu mínimo legal, revelando-se em total conformidade com a jurisprudência desta Corte Superior.
+2. A tese de incidência do princípio da insignificância sequer foi suscitada perante o Tribunal de origem, impedindo, assim, o pronunciamento diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 534.561/SP, de minha relatoria, Sexta Turma, julgado em 8/2/2022, DJe 16/2/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PENA IGUAL OU INFERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REINCIDÊNCIA. REGIME INICIAL FECHADO. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É cabível a imposição do regime inicial fechado aos condenados reincidentes e com circunstâncias judiciais desfavoráveis, mesmo que a pena seja igual ou inferior a quatro anos de reclusão.
+2. Na espécie, é idônea a fixação do modo mais gravoso de cumprimento de pena aos agravantes, reincidentes, condenados a reprimenda inferior a quatro anos de reclusão e com circunstâncias judiciais desfavoráveis.
+3. Agravo regimental não provido.
+(AgRg no HC n. 856.108/SE, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2024, DJe 2/4/2024).
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO- PROBATÓRIA. SÚMULA 7/STJ. REGIME MAIS GRAVOSO E IMPOSSIBILIDADE DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, aptos a manter a condenação do envolvido pelos delitos de furto qualificado. Assim, rever os fundamentos utilizados pela Corte de origem, para decidir pela absolvição, por ausência de prova concreta para a condenação ou, subsidiariamente, pela desclassificação da conduta para o delito de receptação simples, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. No que tange ao regime de cumprimento de pena, , embora a reprimenda corporal tenha sido estabelecida em patamar inferior a 4 (quatro) anos de reclusão, o regime inicial fechado encontra-se justificado, uma vez que além da reincidência, houve a consideração de circunstância judicial negativa para a exasperação da pena-base, não havendo falar, portanto, em afronta ao enunciado n. 269/STJ.
+3. Na mesma linha, além da reincidência, a pena-base foi fixada acima do mínimo legal, em razão da existência de circunstância judicial negativa, não se mostrando cabível a substituição da sanção privativa de liberdade por restritivas de direitos, pela falta de preenchimento de requisito subjetivo previsto no art. 44, inciso III, do Código Penal.
+4. Agravo regimental não provido.
+AgRg no AREsp n. 2.483.092/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe 20/8/2024).
+Pelo exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO PRIVILEGIADO QUALIFICADO TENTADO. VIOLAÇÃO DO ART. 33, §§ 1º E 2º, DO CP. PENA INFERIOR A 4 ANOS. RÉU MULTIRREINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. FIXAÇÃO DO REGIME FECHADO PARA INÍCIO DE CUMPRIMENTO DE PENA. INTELIGÊNCIA DO ART. 33, § 3º, DO CP.
+Agravo conhecido para negar provimento ao recurso especial.
