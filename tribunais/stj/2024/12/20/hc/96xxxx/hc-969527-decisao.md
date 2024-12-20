@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de JOSE ALVES CABRAL - condenado pela prática do delito tipificado no art. 1º, I e II, c/c o art. 12, I, ambos da Lei n. 8.137/1990 -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação n. 0901200-79.2017.8.24.0033), não comporta processamento.
+Pretende a parte impetrante, em suma, seja decotada da pena a majorante prevista no art. 12, I, da Lei n. 8.137/1990, em razão da completa ausência de motivação da sentença condenatória, que fez referência apenas ao quantum sonegado.
+Afirma, a esse respeito, que, com o julgamento do REsp 1.849.120, em 11 de março de 2020, pela Terceira Seção do Superior Tribunal de Justiça, foi definida a tese de que "a incidência da causa de aumento de pena prevista no art. 12, inciso I, da Lei n. 8.137/1990 deve observar o valor de crédito tributário definido com o prioritário ou o conceito de grande devedor definido pela Fazenda Nacional, Estadual ou Municipal, conforme seja o ente público titular do crédito"; contudo, no Estado de Santa Catarina, a portaria que definia grandes devedores - dívida igual ou superior a R$ 1.000.000,00 (um milhão de reais) - foi revogada.
+Aduz que, nesses casos, a jurisprudência do Superior Tribunal de Justiça exige para a incidência da referida causa de aumento de pena, a indicação de algum elemento concreto, além do valor sonegado, a fim de que se evidencie a ocorrência de dano à coletividade.
+Subsidiariamente, defende que o quantum sonegado seja considerado apenas para negativar a vetorial referente às consequências da ação delituosa, na primeira fase de fixação da reprimenda, o que autorizaria a fixação do regime aberto, a substituição da pena privativa de liberdade ou, ainda, a aplicação da suspensão condicional da pena (sursis etário).
+Ocorre que, além de a via eleita ter sido indevidamente utilizada para revisar condenação transitada em julgado, o Tribunal a quo nem sequer debateu a insurgência formulada na impetração - até porque não fora instado a fazê-lo -, configurando indevida supressão de instância.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÃO DE EXCLUSÃO DA CAUSA DE AUMENTO DE PENA PREVISTA NO ART. 12 DA LEI N. 8.137/1990. DEBATE DO TEMA PELO TRIBUNAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA.
+Inicial indeferida liminarmente.
