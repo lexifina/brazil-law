@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA NECESSÁRIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por RODOGARCIA TRANSPORTES RODOVIARIOS LTDA da decisão em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa parte, a ele negar provimento (fls. 231/234 ).
+A parte agravante afirma que houve negativa de prestação jurisdicional pelo Tribunal de origem, que sobre seu recurso não incidem os óbices das Súmulas 283 e 284 do Supremo Tribunal Federal (STF) e que para o deslinde do cerne recursal não é necessário o reexame do conjunto fático-probatório.
+Requer a reconsideração da decisão agravada ou que seja dado provimento ao agravo.
+A parte adversa não apresentou impugnação (fl. 253).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA NECESSÁRIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Agravo interno a que se nega provimento.
+VOTO
+Inicialmente, registro que, ao contrário do alegado pela parte ora agravante, a decisão agravada não apresentou fundamentação concernente à incidência das Súmulas 283 e 284 do STF, ficando prejudicada a análise do agravo, no ponto.
+Apesar das alegações da parte ora agravante, verifico que, ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu o seguinte (fls. 145/146):
+Anote-se que há suficiente fundamentação acerca do entendimento no sentido de que, melhor analisando os fatos, e, a despeito das alegações deduzidas pela ora embargante, vislumbra-se que eventuais operações de importação e de atividades sujeitas à substituição tributária que tenham sido porventura realizadas pela executada, não podem ser sumariamente descartadas apenas em razão do seu objeto social ("transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"), notadamente em virtude do vultoso valor a título de ICMS cobrado no executivo fiscal em curso, revelando-se imprescindível a necessidade de produção de novas provas, incompatível com a via eleita, de modo que não se pode imputar a decisão embargada de omissa/contraditória/obscura, a fim de provocar a rediscussão sobre a matéria.
+O patente inconformismo da parte embargante não deve ser veiculado em embargos de declaração, meio que se mostra inadequado para alterar a decisão, notadamente porque a matéria versada nestes autos foi exaustivamente debatida pelos membros que compõem esta C. Turma Julgadora, que, ao final, proferiram decisão colegiada por unanimidade de votos, tendo sido mantida a posição de não liberação dos valores bloqueados nos ativos financeiros, pois eles representam apenas 1% do valor da dívida, estampando sua difícil liquidez.
+Observo, portanto, que a Corte local manifestou-se expressamente sobre o descabimento da análise de mérito pretendida pela parte ora agravante (nulidade das certidões de dívida ativa) em exceção de pré-executividade, diante da imprescindibilidade da produção de novas provas, incompatível com a via eleita.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Nesse contexto, quanto ao cerne recursal, melhor sorte não assiste à parte agravante.
+A propósito, cito o seguinte excerto do acórdão recorrido (fls. 114/115):
+Melhor analisando os fatos, e, a despeito das alegações deduzidas pela agravante, observo que eventuais operações de importação e de atividades sujeitas à substituição tributária que tenham sido porventura realizadas pela executada, não podem ser sumariamente descartadas apenas em razão do seu objeto social ("transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"), notadamente em virtude do vultoso valor a título de ICMS cobrado no executivo fiscal em curso, revelando-se imprescindível a necessidade de produção de novas provas, incompatível com a via eleita.
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso, no ponto, com fundamento na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
