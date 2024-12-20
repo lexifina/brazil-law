@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo de NICOLAS AUGUSTO HILARIA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1511948-93.2019.8.26.0228.
+Consta dos autos que o agravante foi absolvido da imputação pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas) (fls. 157/161).
+Recurso de apelação interposto pela acusação foi provido para condenar o agravante pelo delito do art. 33, § 4º, da Lei n. 11.343/06, à pena de 3 anos e 4 meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos (fl. 230). O acórdão ficou assim ementado:
+"TRÁFICO DE ENTORPECENTES - PRELIMINAR - Afronta ao princípio constitucional da não autoincriminação (direito ao silêncio). Inexistência - Rejeição.
+MÉRITO - Configuração. Materialidade e autoria demonstradas. Depoimento do policial militar em harmonia com o conjunto probatório. Negativa do réu isolada - Apreensão de considerável quantidade e variedade de drogas (43 porções de maconha, com peso líquido de 101,4 gramas; e 133 porções de cocaína, pesando 42,9 gramas) - Condenação que se impõe.
+PENAS e REGIME DE CUMPRIMENTO - Bases assentadas nos mínimos - Redutor do § 4º do artigo 33 da Lei de Drogas (1/3) - Regime aberto - Substituição da pena privativa de liberdade por restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária) - Apelo ministerial provido para condenar o réu pelo crime do artigo 33, caput (com incidência do redutor do § 4º, no coeficiente de 1/3) da Lei nº 11.343/06." (fl. 225)
+Em sede de recurso especial (fls. 241/257), a defesa apontou violação ao art. 386, VII, do CPP, porque o TJSP condenou o agravante sem elemento seguro para comprovação da autoria delitiva. Destaca a controvérsia entre a palavra do agravante e a palavra de único policial.
+Em seguida, a defesa apontou violação ao art. 33, § 4º, da Lei n. 11.343/06, porque o TJSP não aplicou a redução máxima da pena. Entende que a quantidade de droga e as circunstâncias do crime ensejam a fração de 2/3.
+Requer seja restabelecida a sentença condenatória ou a redução de pena.
+Contrarrazões (fls. 261/266).
+O recurso especial teve seguimento negado no TJSP em relação à consideração da natureza e quantidade da droga, bem como foi inadmitido quanto ao restante em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 269/270).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 276/284).
+Contraminuta (fls. 287/294).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do agravo e/ou desprovimento do recurso especial (fls. 309/313).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+De plano, registro que ao agravo em recurso especial não tem o condão de permitir o conhecimento do recurso especial no tocante à alegada violação ao art. 33, § 4º, da Lei n. 11.343/06, ante a negativa de seguimento ao recurso especial nesta parte que deveria ter sido impugnada por via própria.
+Sobre a violação ao art. 386 do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO condenou o agravante nos seguintes termos do voto do relator:
+"Ultrapassada a questão prefacial, no mérito a irresignação comporta provimento.
+Restou comprovado que Nicolas Augusto Hilária Silva, no dia 17 de maio de 2019, por volta das 11h05, na rua Edmundo Abreu, nº 170, Parque do Carmo, na cidade e comarca de São Paulo, trazia consigo, para fins de entrega ao consumo de terceiros, 43 (quarenta e três) porções de maconha, com peso líquido de 101,4 gramas; e 133 (cento e trinta e três) porções de cocaína, pesando 42,9 gramas; substâncias estas entorpecentes causadoras de dependência física e psíquica, sem autorização ou em desacordo com determinação legal ou regulamentar. Na ocasião, foram apreendidos R$ 15,00 (quinze reais).
+A materialidade está consubstanciada no laudo de constatação (fls. 27/30) e, principalmente, no exame químico-toxicológico (fls. 71/74) que resultou positivo para as substâncias tetrahidrocanabinol (THC) e cocaína, de uso proscrito no Brasil conforme listas da Portaria SVS/MS nº 344/1998 e atualizações posteriores (Portaria SPTC nº 136/2020).
+A autoria, igualmente, é incontroversa.
+Nicolas, na fase inquisitiva, permaneceu em silêncio (fl. 10). Em juízo, infirmou a imputação, alegando que estava se dirigindo à feira e parou para comprar dois "chás" (maconha), quando avistou a viatura policial; o indivíduo que estava vendendo a droga empreendeu fuga, dispensando uma sacola no chão. Foi abordado por policiais militares, os quais lhe atribuíram a posse do entorpecente apreendido (disponível no e-SAJ).
+A versão do réu não está em plena consonância com as demais provas.
+O policial militar Lucas Silva Alves, um dos responsáveis pela abordagem do apelado e apreensão das drogas, narrou os fatos de forma harmônica e segura. Realizava patrulhamento preventivo na região, em conhecido ponto de tráfico, e avistou o apelado na via pública, mexendo em uma sacola plástica. Ao perceber a aproximação da viatura, Nicolas dispensou a sacola e saiu correndo, mas foi abordado. Em revista pessoal, foram localizadas duas porções de maconha e dinheiro, ao verificar o conteúdo da sacola, encontrou diversas porções de maconha e cocaína. Advertido sobre o direito de permanecer em silêncio, o apelante confessou a traficância (disponível no e-SAJ).
+Está pacificado na jurisprudência, que a condição de policial seja militar ou civil, estadual ou federal por si só, não invalida os seus testemunhos, porquanto eles não estão impedidos de depor e se sujeitam a compromisso como outra testemunha qualquer2.
+Consolidadas, no caso, à saciedade, as relevantes circunstâncias indicativas do tráfico, ou seja, os elementos da prova testemunhal e a considerável quantidade e variedade de entorpecentes, aliada à forma profissional como eles estavam acondicionados (43 porções de maconha, com peso líquido de 101,4 gramas; e 133 porções de cocaína, pesando 42,9 gramas cf. laudos de fls. 27/30 e 71/74)." (fls. 227/229)
+Por seu turno, na sentença constou o seguinte:
+"A autoria, contudo, não restou suficientemente demonstrada.
+Lucas Silva Alves, policial militar, afirmou em Juízo que que estava em patrulhamento quando viram o rapaz com uma sacola, ao ver a viatura ele jogou a sacola e fugiu a pé. Feita a abordagem, em busca pessoal foram encontradas porções de maconha e 15,00 reais. Voltou e na sacola encontrou maconha, cocaína. Ele confessou a prática do crime no momento da abordagem.
+Raul Papa dos Santos, policial militar, afirmou em Juízo que estavam em patrulhamento, em local costumeiro como de tráfico. O rapaz estava com drogas, fugiu e foi detido. Ele saiu correndo quando viu a viatura por isso foi apreendido. Não se recorda onde as drogas foram encontrados.
+Nicolas Augusto está preso por tráfico. Relatou que estava saindo e que na rua de sua casa efetivamente há uma biqueira. Foi comprar dois chás (maconha), os policiais pegaram o interrogando. A droga que foi apreendida estava com o menino, ele correu e deixou a droga lá.
+A testemunha ouvida nesta data não se recordou dos fatos. Indagada sobre o motivo da abordagem, respondeu que foi o fato do réu haver corrido quando viu os policiais, nada mencionando a respeito de abandonar sacola. Nenhum outro elemento concreto relacionado aos fatos foi narrado pelo policial.
+A testemunha ouvida anteriormente, de igual modo, embora tenha relatado os fatos com mais detalhes que a testemunha ouvida hoje, não forneceu elementos mais precisos quanto à diligência, não mencionando a partir de qual distância teriam visto o acusado abandonar as drogas, como teria se dado tal perseguição.
+À falta destes elementos confrontados com a versão apresentada pelo réu, de que estava no local para compra das drogas, e não existindo detalhes sobre a cena vista pelos policiais, não há depoimentos que bastem para considerar isolada a versão apresentada pelo acusado em juízo, até porque apresentou versão compatível dada a localização de duas porções de maconha consigo.
+Neste sentido importante notar a relevância da confirmação da narrativa feita pelo primeiro policial, o que não ocorreu nos presentes autos." (fls. 159/160)
+Extrai-se dos trechos acima que a versão dos policiais ficou no sentido de que o agravante, ao avistá-los, dispensou uma sacola e correu, sendo abordado com porções de maconha, bem como que constatada a existência de mais drogas na sacola. Por outro lado, a versão do agravante está no sentido de que era mera usuário, sendo que outrem correu e deixou a droga ali. Em tempo, ainda tem-se depoimento de testemunha no sentido de que o agravante correu dos policiais.
+Sendo assim, tem-se que os depoimentos dos policiais estão coerentes entre si e com o que foi possível apurar na instrução criminal, razão pela qual a condenação deve ser mantida. De fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça. No mesmo sentido, citam-se precedentes:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA CONSUMO PESSOAL. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, aplicando o óbice da Súmula n. 7 do STJ, em relação à pretensão de desclassificação do crime de tráfico de drogas para transporte para consumo pessoal.
+2. O Tribunal de origem confirmou a condenação por tráfico de drogas, com base em provas documentais e orais, especialmente nos depoimentos dos policiais militares responsáveis pela prisão em flagrante.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível desclassificar o crime de tráfico de drogas para uso pessoal, considerando as circunstâncias apuradas na prisão em flagrante e a validade dos depoimentos dos policiais como prova.
+III. Razões de decidir
+4. A decisão de origem baseou-se em provas suficientes, incluindo depoimentos coerentes dos policiais responsáveis pela prisão em flagrante.
+5. A quantidade de droga e as circunstâncias da apreensão indicam destinação ao tráfico, não ao uso pessoal. A revisão do entendimento demandaria reexame de provas, o que é vedado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. Os depoimentos coerentes de policiais são meios idôneos de prova. 2. A desclassificação mediante reconhecimento do transporte para consumo pessoal esbarra no óbice da Súmula n. 7 desta Corte."
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33; Súmula n. 7 do STJ.
+Jurisprudência relevante citada: AgRg no AREsp n. 2.441.372/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024; AgRg no AREsp n. 2.480.768/DF, Rel. Min. Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024.
+(AgRg no AREsp n. 2.713.001/RO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/11/2024, DJe de 9/12/2024.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. TRANSPORTE E GUARDA DE ENTORPECENTES. ECSTASY E LSD. CONJUNTO PROBATÓRIO SUFICIENTE. PALAVRA DOS POLICIAIS. RECONHECIMENTO DO CRIME DE TRÁFICO. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA POSSE PARA CONSUMO PRÓPRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra acórdão que manteve a condenação do recorrente pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), com base na apreensão de 24 comprimidos de ecstasy e 89 micropontos de LSD. A condenação apoiou-se em depoimentos de policiais rodoviários e na admissão, pelo réu, da propriedade das substâncias entorpecentes.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a conduta do recorrente caracteriza o crime de tráfico de drogas ou se deve ser desclassificada para posse de drogas para uso pessoal (art. 28 da Lei n. 11.343/2006), considerando as circunstâncias da apreensão e as provas testemunhais.
+III. RAZÕES DE DECIDIR
+3. A Corte de origem concluiu pela existência de elementos suficientes para caracterizar o tráfico de drogas, com base nos depoimentos coerentes dos policiais rodoviários e na quantidade e natureza das substâncias apreendidas (ecstasy e LSD), que indicavam destinação a terceiros, afastando a hipótese de uso exclusivo.
+4. A desclassificação da conduta para posse de drogas para consumo próprio demandaria o reexame aprofundado do acervo probatório, em especial para verificar a real destinação das drogas, o que é vedado na via do recurso especial, em razão da Súmula 7 do STJ.
+5. A jurisprudência do STJ reconhece que a condenação por tráfico de drogas pode se fundamentar em elementos indiciários que permitam inferir a prática de mercancia, dispensando a necessidade de flagrante ato de venda, sendo válida a palavra dos policiais em tais contextos, desde que coerente e alinhada ao restante das provas.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.707.209/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJe de 6/12/2024.)
+Ante o exposto, conheço do agravo para conhecer, em parte, do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
