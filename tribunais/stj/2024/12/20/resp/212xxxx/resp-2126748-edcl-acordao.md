@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÕES E CONTRADIÇÕES NO ACÓRDÃO VERGASTADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Previstos no art. 619 do CPP, os embargos de declaração são cabíveis para corrigir omissão, contradição, ambiguidade ou obscuridade da decisão judicial. Eventual alteração do conteúdo decisório é admitida somente quando deriva da correção de um desses vícios.
+2. No caso, a defesa apenas repetiu os argumentos dos últimos embargos de declaração opostos, como vem fazendo reiteradamente. Vale recordar que os embargos que ora se analisam são o quarto recurso contra a decisão que não conheceu do recurso especial.
+3. Dada a insistência da defesa em reapresentar as mesmas teses já examinadas pelo STJ, oportuno esclarecer que a reiteração no emprego de meios impugnativos consecutivamente inadmissíveis caracteriza intuito protelatório e abuso do direito de recorrer, onera o Poder Judiciário e impede a razoável duração do processo. Por isso, fica consignada a advertência expressa quanto aos efeitos da reiteração dessa estratégia.
+4. Embargos de declaração não conhecidos.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ALEX TAVARES DE SOUZA opõe embargos de declaração contra o acórdão por meio do qual a Sexta Turma rejeitou anteriores embargos de declaração.
+Em suas razões, o embargante repete as razões desenvolvidas nos embargos anteriormente opostos.
+Pede "sejam liminarmente revogadas as medidas cautelares fixadas (suspensão do direito de advogar, impedimento de comunicar-se com o advogado Dr. Jaqués Félix Ribeiro, uso de tornozeleira eletrônica e impossibilidade do embargante adentrar em seu escritório)".
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÕES E CONTRADIÇÕES NO ACÓRDÃO VERGASTADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Previstos no art. 619 do CPP, os embargos de declaração são cabíveis para corrigir omissão, contradição, ambiguidade ou obscuridade da decisão judicial. Eventual alteração do conteúdo decisório é admitida somente quando deriva da correção de um desses vícios.
+2. No caso, a defesa apenas repetiu os argumentos dos últimos embargos de declaração opostos, como vem fazendo reiteradamente. Vale recordar que os embargos que ora se analisam são o quarto recurso contra a decisão que não conheceu do recurso especial.
+3. Dada a insistência da defesa em reapresentar as mesmas teses já examinadas pelo STJ, oportuno esclarecer que a reiteração no emprego de meios impugnativos consecutivamente inadmissíveis caracteriza intuito protelatório e abuso do direito de recorrer, onera o Poder Judiciário e impede a razoável duração do processo. Por isso, fica consignada a advertência expressa quanto aos efeitos da reiteração dessa estratégia.
+4. Embargos de declaração não conhecidos.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Na hipótese, a defesa apenas repetiu os argumentos dos últimos embargos de declaração opostos, como vem fazendo reiteradamente.
+Relembro que o recurso especial da parte não foi admitido e que o agravo em recurso especial não foi conhecido, ante a incidência da Súmula n. 182 do STJ. Interposto agravo regimental, ele não foi provido, por ser correta a decisão que não conheceu do agravo em recurso especial, e, opostos embargos de declaração, eles também não foram conhecidos, haja vista a parte haver desenvolvido argumentação estranha aos autos e não haver apontado as teses sobre as quais incidiriam os vícios então suscitados. Novos embargos de declaração foram opostos, oportunidade na qual a Sexta Turma esclareceu que "São incabíveis embargos de declaração para que o Superior Tribunal de Justiça - STJ enfrente matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal - STF" (EDcl nos EDcl no AgRg no AREsp n. 2.142.013/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/10/2023, DJe de 20/10/2023, grifei).
+Diante dessas circunstâncias, reafirmo não haver que se falar em omissão e nem em obscuridade quanto ao mérito do recurso especial, haja vista que, conforme devidamente exposto nas decisões anteriores, o mencionado recurso nem mesmo ultrapassou a barreira do conhecimento.
+Destaco que esta é a terceira vez que a defesa opõe embargos de declaração contra o acórdão proferido em agravo regimental, que manteve a decisão que não conheceu do agravo em recurso especial, o que evidencia o caráter manifestamente protelatório na atuação da defesa, mediante a sucessiva interposição de recursos que, sabidamente, não têm o condão de influenciar no resultado do feito. Nota-se, dessa forma, verdadeiro abuso do direito de recorrer, postura que onera os serviços judiciários, como se não houvesse outros cidadãos à espera de prestação jurisdicional.
+A defesa, ao assim agir, mostra desrespeito à decisão proferida pela Sexta Turma, que encerrou a discussão no egrégio Superior Tribunal de Justiça.
+O direito de recorrer, consagrado na estrutura judiciária brasileira desde as suas mais remotas matrizes portuguesas, não pode ser exercido de forma abusiva, visto que desencadeia, de forma reflexa, lesões a outros direitos, como o da razoável duração do processo. Por tal motivo, na seara penal, nos casos peculiares em que é constatado o nítido caráter protelatório dos recursos, este Superior Tribunal admite a baixa definitiva dos autos, independentemente da publicação do acórdão e da apresentação de novas irresignações.
+Confiram-se:
+ ..
+3. Ainda que na esfera penal não seja comum a fixação de multa por litigância de má-fé, não é demais gizar que a insistência da embargante diante das sucessivas oposições de embargos de declaração contra acórdão proferido pela Quinta Turma desta Corte, revela não só o exagerado inconformismo, bem como o desrespeito ao Poder Judiciário e o seu nítido caráter protelatório, no intuito de impedir o trânsito em julgado da sentença condenatória, constituindo abuso de direito, em razão da violação dos deveres de lealdade processual e comportamento ético no processo, bem como do desvirtuamento do próprio postulado da ampla defesa.
+4. Nos termos da jurisprudência remansosa deste Sodalício, diante da reiterada oposição de aclaratórios meramente protelatórios pela parte, em abuso do seu direito de defesa, é de se determinar a baixa dos autos para o início da execução da sanção, independente da publicação do acórdão.
+5. Embargos de declaração rejeitados, com determinação de baixa dos autos para o início da execução da sanção imposta à embargante, independente da publicação do acórdão, devendo-se proceder à certificação do trânsito em julgado.
+(EDcl nos EDcl nos EDcl nos EDcl no AgRg nos EDcl no AREsp n. 1.191.360/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 16/11/2018, grifei)
+ ..
+2. O recorrente, nestes quartos embargos de declaração, reitera os mesmos argumentos já rechaçados nos acórdãos anteriores, o que evidencia ser o presente recurso meramente protelatório, ficando caracterizado o manifesto abuso do direito de recorrer.
+3. Tratando-se de recurso meramente protelatório, certifique-se o trânsito em julgado, independentemente da interposição de novo recurso. Embargos de declaração rejeitados.
+(EDcl nos EDcl nos EDcl nos EDcl no AgRg no RE nos EDcl no AgRg no AREsp n. 99.096/MA, Rel. Ministro Humberto Martins, Corte Especial, DJe 16/12/2016, destaquei)
+Assim, dada a insistência da defesa em reapresentar as mesmas teses já examinadas pelo STJ, fica consignada a advertência expressa quanto aos efeitos da reiteração dessa estratégia.
+À vista do exposto, não conheço dos embargos de declaração.
+À Coordenadoria da Turma para cumprir o quanto determinado pela decisão de fls. 7.014-7.019 .
