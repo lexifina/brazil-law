@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por THAILO UENDEL BARBOSA DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada em razão da sua não localização, em 11/09/2023, pela suposta prática do crime de homicídio qualificado (em suposta disputa envolvendo tráfico de drogas)- fl. 45. Foi efetivamente recolhido ao sistema prisional apenas em 26/06/2024-fl.87.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 45-47.
+No presente recurso, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva.
+Sustenta, ainda, ausência de contemporaneidade da prisão preventiva já que a prática do delito teria ocorrido em 2019.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de liminar indeferido às fls. 79-80.
+Informações prestadas às fls. 86-89. O Ministério Público Federal, às fls. 94-97, manifestou pelo "desprovimento do recurso".
+É o relatório. DECIDO.
+No presente caso, quanto ao pleito da revogação da prisão preventiva ou a aplicação de medidas cautelares diversas da prisão ao fundamento de ausência de fundamentação para a manutenção da a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, o recurso ordinário em habeas corpus não comporta conhecimento, porquanto a deficiente instrução impede a compreensão da controvérsia.
+Saliente-se que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298).
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ .
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. INSTRUÇÃO DEFICIENTE. INVIABILIDADE DE EXAME. RECURSO NÃO PROVIDO. 1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada pelo impetrante. 2. De acordo com a orientação jurisprudencial emanada por esta Corte, "não se coaduna com o remédio heroico o propósito de "busca" de informações a respeito da situação do réu, quando não fornecidos sequer elementos mínimos que possam demonstrar a plausibilidade das razões suscitadas. " (AgRg no HC 289.502/MA, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 01/04/2014, DJe de 07/04/2014). 3. Agravo regimental não provido"(AgRg no HC n. 783.393/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 10/4/2024.)
+No caso dos autos, a impetração não veio instruída com a cópia integral da decisão que decretou a prisão preventiva do recorrente, peça fundamental compreender as alegações da inicial.
+A deficiente instrução, portanto, impede sejam verificados os argumentos da inicial e a suposta existência de flagrante ilegalidade.
+No que tange a alegação de ausência de contemporaneidade, o argumento da ausência de contemporaneidade foi afastado pela Corte de origem em razão do período em que o recorrente permaneceu foragido. Nesse sentido, jurisprudência consolidada desse Superior Tribunal de Justiça.
+A propósito:
+"A fuga do acusado justifica a manutenção da prisão preventiva, afastando a alegação de ausência de contemporaneidade".(AgRg no HC n. 893.375/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+"Com relação à ausência de contemporaneidade, tem-se que "a fuga constitui o fundamento do juízo de cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (HC n. 484.961/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/2/2019, DJe 15/3/2019"(AgRg no HC n. 935.653/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+Ante o exposto, conheço em parte do recurso e, na parte conhecida, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
