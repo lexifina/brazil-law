@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  CUMPRIMENTO  DE  SENTENÇA.  VERBA  DE  SUCUMBÊNCIA.  CONSÓRCIO.  REDIRECIONAMENTO  DA  EXECUÇÃO.  EMPRESA  CONSORCIADA  QUE  NÃO  INTEGROU  A  RELAÇÃO  PROCESSUAL.  IMPOSSIBILIDADE.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  TORREÃO  BRAZ  ADVOGADOS  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  CUMPRIMENTO  DE  SENTENÇA.  VERBA  DE  SUCUMBÊNCIA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  CONSÓRCIO.  REDIRECIONAMENTO  DA  EXECUÇÃO.  EMPRESA  CONSORCIADA  QUE  NÃO  INTEGROU  A  RELAÇÃO  PROCESSUAL.  IMPOSSIBILIDADE.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Não  se  admite,  na  fase  de  cumprimento  de  sentença,  a  constrição  de  bens  de  quem  não  participou  do  processo  na  fase  de  conhecimento.
+3.  Eventual  solidariedade  de  empresas  consorciadas  quanto  ao  objeto  do  contrato  não  implica  idêntico  tratamento  para  a  condenação  ao  pagamento  das  verbas  de  sucumbência  impostas  somente  a  quem  efetivamente  integrou  a  relação  processual.
+4.  Agravo  interno  não  provido."
+Em  suas  razões  (e-STJ  fls.  524-541),  o  embargante  afirma  que  o  acórdão  embargado  é  omisso  quanto  ao  exame  da  divergência  jurisprudencial  indicada  no  recurso  especial,  tendo  em  vista  i)  a  existência  de  previsão  contratual  dispondo  sobre  a  responsabilidade  solidária  das  empresas  consorciadas,  inclusive  pelas  verbas  de  sucumbência,  ii)  a  identidade  entre  o  acórdão  paradigma  e  o  caso  em  julgamento,  e  iii)  a  efetiva  existência  de  uma  fase  de  conhecimento  na  ação  monitória.
+Ainda  quanto  ao  alegado  dissídio  interpretativo,  ressalta  a  existência  de  diversos  julgados  mais  recentes  em  que  consórcios  de  empresa  figuravam  como  parte  e,  diante  da  previsão  de  solidariedade  no  contrato  de  constituição,  a  responsabilidade  das  consorciadas  pelo  passivo  foi  reconhecida  e/ou  confirmada  por  essa  Corte  Superior.
+Destaca  a  existência  de  julgado  da  Quarta  Turma  no  qual  se  decidiu  pela  possibilidade  de  responsabilização  das  consorciadas,  ainda  que  não  fossem  parte  do  processo,  desde  que  verificada  a  previsão  no  sentido  da  solidariedade  no  contrato  de  constituição  do  consórcio,  tudo  com  base  no  art.  278,  §  1º,  da  Lei  das  Sociedades  Anônimas.
+Ao  final,  requer  o  acolhimento  dos  embargos  de  declaração,  com  efeitos  infringentes,  para  que  o  recurso  especial  seja  provido.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  aos  aclaratórios  às e-STJ  fls.  545-552.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  CUMPRIMENTO  DE  SENTENÇA.  VERBA  DE  SUCUMBÊNCIA.  CONSÓRCIO.  REDIRECIONAMENTO  DA  EXECUÇÃO.  EMPRESA  CONSORCIADA  QUE  NÃO  INTEGROU  A  RELAÇÃO  PROCESSUAL.  IMPOSSIBILIDADE.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  ,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+No  caso  em  apreço,  o  acórdão  embargado  apresentou  fundamentação  suficiente  para  decidir  que  o  acórdão  indicado  como  paradigma,  além  de  ter  sido  proferido  no  bojo  de  uma  ação  monitória,  na  qual  não  há,  propriamente,  uma  fase  de  conhecimento,  senão  a  emissão  de  um  título  executivo  judicial  com  base  em  prova  escrita  sem  eficácia  executiva,  admitiu  o  redirecionamento  da  execução  para  as  empresas  consorciadas  em  virtude  da  existência  de  disposição  contratual  prevendo  a  responsabilidade  solidária  pelas  obrigações  contraídas,  e  que  eventual  solidariedade  das  empresas  consorciadas  quanto  ao  objeto  do  contrato  não  implica  idêntico  tratamento  para  a  condenação  ao  pagamento  das  verbas  de  sucumbência  impostas  somente  a  quem  efetivamente  integrou  a  relação  processual.
+Na  oportunidade,  também  se  fez  a  ressalva  de  que  caberá  ao  exequente  requerer  a  instauração  do  incidente  de  desconsideração  da  personalidade  jurídica,  desde  que  presentes  os  requisitos  legalmente  exigidos.
+Dessa  maneira,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
