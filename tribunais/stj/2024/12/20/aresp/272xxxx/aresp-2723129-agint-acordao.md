@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DIVERGÊNCIA JURISPRUDENCIAL FORA DAS EXIGÊNCIAS LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Caracteriza-se a deficiência da fundamentação recursal quando o recurso especial não indica de modo preciso os dispositivos legais violados, a atrair o óbice da Súmula nº 284/STF.
+2. Não há como se conhecer do dissídio quando a recorrente não promoveu a realização do devido cotejo analítico entre os arestos confrontados, restando desatendidas as exigências legais estatuídas pelos artigos 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JULIANA MARCELA PAQUES PIRES  contra  a  decisão  proferida  pela  Presidência  do  Superior  Tribunal  de  Justiça  (e-STJ  fls.  602/603)  que  não  conheceu  do  recurso  em  virtude  da  incidência  da  Súmula  nº  284/STF  e  de não ter sido o dissídio jurisprudencial demonstrado dentro dos moldes legais.
+Em suas razões  (e-STJ  fls.  606/614) , a  recorrente  alega  que, no agravo em recurso especial, demonstrou de maneira pormenorizada a violação da lei federal, não tendo aplicação a Súmula nº 284/STF. Além disso, aduz que o acórdão recorrido diverge do entendimento demonstrado no arestos paradigmas.
+Defende, em  seguida,  o preenchimento de todos os requisitos para o conhecimento do recurso especial e a reforma do aresto impugnado.
+Não foi apresentada impugnação (e-STJ fl. 619).
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DIVERGÊNCIA JURISPRUDENCIAL FORA DAS EXIGÊNCIAS LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Caracteriza-se a deficiência da fundamentação recursal quando o recurso especial não indica de modo preciso os dispositivos legais violados, a atrair o óbice da Súmula nº 284/STF.
+2. Não há como se conhecer do dissídio quando a recorrente não promoveu a realização do devido cotejo analítico entre os arestos confrontados, restando desatendidas as exigências legais estatuídas pelos artigos 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+De fato, conforme consignado pela decisão da Presidência desta Corte Superior, a deficiência na fundamentação recursal ficou evidenciada, pois , embora tenha se insurgido quanto à motivação da decisão, a agravante não indicou especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido, inviabilizando, assim, a compreensão da controvérsia posta nos autos.
+Incide, nesse ponto, o óbice da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Confiram-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA - DANOS MORAIS. PLANO DE SAÚDE. CARÊNCIA DE APONTAMENTO CLARO DO DISPOSITIVO DE LEI FEDERAL QUE TERIA SIDO MACULADO NO ACÓRDÃO ESTADUAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, o conhecimento de recurso especial exige a indicação dos dispositivos de lei federal supostamente violados. Ausente tal requisito, "incide a Súmula n. 284/STF" (AgInt no AREsp n. 2.108.361/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/9/2022, DJe de 23/9/2022).
+2. (..).
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 2.175.300/BA, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA CUMULATIVA DE CLÁUSULA PENAL E DE JUROS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que os agravados foram expostos ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. Divergência jurisprudencial, não demonstrada ante a incidência das Súmulas n. 284 do STF e 7 e 83 do STJ. Além disso, "decisão monocrática não serve para comprovação de divergência jurisprudencial" (AgInt no AREsp n. 1.180.952/RJ, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 17/5/2018, DJe 24/5/2018).
+6. Agravo interno a que se nega provimento" (AgInt no AREsp 2.141.911/RJ, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022 - grifou-se).
+Reitera-se que, da mesma forma, o recurso não merece ser conhecido no que tange à alegada divergência jurisprudencial, tendo em vista que não houve a realização do devido cotejo analítico entre os arestos confrontados, restando desatendidas as exigências legais estatuídas pelos artigos 1.029, § 1º, do Código de Processo Civil e do 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONTRATAÇÃO. FALHA. PRESTAÇÃO. SERVIÇOS. RELAÇÃO DE CONSUMO. ILEGITIMIDADE PASSIVA. DANO MORAL. ATO ILÍCITO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO PREJUDICADO. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA. PREQUESTIONAMENTO. SÚMULA Nº 282/STF. MULTA. ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE.
+(..)
+4. Não há como se conhecer do dissídio quando a parte recorrente não promoveu a realização do devido cotejo analítico entre os arestos confrontados, restando desatendidas as exigências legais estatuídas pelos artigos 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+(..)
+7. Agravo interno não provido" (AgInt no AREsp 2.642.478/AM, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 14/10/2024, DJe de 17/10/2024 - grifou-se).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
