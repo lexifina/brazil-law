@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  COMPRA  E  VENDA.  INADIMPLEMENTO.  CONTRATUAL.  RESPONSABILIDADE  CIVIL.  SITUAÇÃO  EXCEPCIONAL.  DANO  MORAL.  INDENIZAÇÃO.  REVISÃO.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  a  fixação  da  indenização  por  danos  morais  resultou  de  uma  situação  excepcional  que  configurou  violação  do  direito  da  personalidade  da  promitente-compradora,  indo  além  do  mero  inadimplemento  contratual.  Dessa  forma,  a  questão  não  pode  ser  revista  nesta  instância  extraordinária,  em  razão  da  aplicação  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  MACAE  REALTY  EMPREENDIMENTOS  IMOBILIÁRIOS  LTDA.  e  JOÃO  FORTES  ENGENHARIA  S.A.  -  EM  RECUPERAÇÃO  JUDICIAL  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  conheceu  do  agravo  em  recurso  especial  para  não  conhecer  do  recurso  especial  em  virtude  da  aplicação  da  Súmula  nº  7/STJ.
+Nas  presentes  razões  (e-STJ  fls.  1.054/1.064),  as  agravantes  argumenta  m  que  ,  "(..)  da  simples  leitura  do  acórdão  recorrido,  os  dados  objetos  de  análise  por  esta  Corte  constam  de  modo  expresso  na  referida  decisão,  o  que  afasta  a  necessidade  de  exame  dos  demais  fatos  e  provas"  (e-STJ  fl.  1.059).  Desse  modo,  não  há  falar  em  incidência  da  Súmula  nº  7/STJ  para  verificar  a  violação  dos  arts.  186  e  927  do  Código  Civil.
+Defendem  que,  nos  termos  da  jurisprudência  desta  Corte,  a  ocorrência  do  dano  moral  não  se  presume,  "(..)  configurando-se  apenas  em  situações  excepcionais  que,  devidamente  comprovadas,  importem  em  significativa  e  anormal  violação  a  direito  da  personalidade  dos  promitentes-compradores"  (e-STJ  fl.  1.061).
+Salientam  que  a  responsabilidade  civil  pressupõe  a  existência  de  conduta  ilícita,  ocorrência  do  dano,  nexo  causal  e  culpa  (se  subjetiva  a  responsabilidade  civil).
+Ao  final,  requerem  a  reforma  da  decisão  atacada.
+Sem  impugnação  (e-STJ  fl.  1.069).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  COMPRA  E  VENDA.  INADIMPLEMENTO.  CONTRATUAL.  RESPONSABILIDADE  CIVIL.  SITUAÇÃO  EXCEPCIONAL.  DANO  MORAL.  INDENIZAÇÃO.  REVISÃO.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  a  fixação  da  indenização  por  danos  morais  resultou  de  uma  situação  excepcional  que  configurou  violação  do  direito  da  personalidade  da  promitente-compradora,  indo  além  do  mero  inadimplemento  contratual.  Dessa  forma,  a  questão  não  pode  ser  revista  nesta  instância  extraordinária,  em  razão  da  aplicação  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  recurso  especial,  as  recorrentes  apontam  negativa  de  vigência  dos  arts.  186  e  927  do  Código  Civil.  Sustentam,  em  síntese,  que  o  inadimplemento  do  contrato  de  prestação  de  serviço  de  intermediação  imobiliária  não  enseja  indenização  por  dano  moral.
+Com  efeito,  as  conclusões  do  tribunal  de  origem  acerca  do  mérito  da  demanda  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  pode  aferir  a  partir  da  leitura  dos  fundamentos  do  julgado  atacado,  que  ora  se  colaciona,  na  parte  que  interessa:
+"(..)  as  apelantes  impugnam  a  condenação  em  indenização  por  dano  moral,  reputando  tratar-se  de  mero  aborrecimento,  e  que  não  haveria  conduta  ilícita  de  sua  parte  -  ponto  já  analisado  e  rejeitado,  eis  que  responsáveis  solidariamente  pelos  atos  praticados  por  sua  representante  comercial/corretora,  que  recebeu  valor  e  prometeu  viabilizar  o  negócio,  mas  não  cumpriu.
+O  sonho  da  casa  própria  é  comum  a  inúmeros  brasileiros,  em  especial  os  de  baixa  renda,  sobre  os  quais  surtem  especial  efeito  as  promessas  de  financiamento  através  de  programa  governamental,  e  fazem  sucesso  os  empreendimentos  visando  esse  público,  adequados  a  tal  programa.
+É  esse  o  caso  do  empreendimento  objeto  da  demanda,  inscrito  no  programa  "Minha  Casa,  Minha  Vida"  voltado  ao  público  de  baixa  renda  que  desejasse  adquirir  o  primeiro  imóvel  próprio,  para  sua  moradia.
+A  frustração  da  autora  é  inequívoca,  ao  descobrir-se  vítima  de  um  golpe  praticado  por  pessoa  a  quem  confiou  seu  sonho  e  recursos,  e  que  ostentava  status  de  confiabilidade  concedido  pela  incorporadora  que  a  contratou  para  apregoar  as  unidades,  no  stand  de  vendas  do  empreendimento.  Ressalto  que,  na  hipótese,  a  autora  não  escolheu  a  corretora  nem  tinha  como  realizar  seu  sonho  e  adquirir  a  unidade  sem  a  participação  dela.
+A  incorporadora,  ao  escolher  tal  profissional  para  intermediar  as  vendas  do  empreendimento,  não  deu  opção  outra  ao  consumidor  (principalmente  aquele  que  não  tem  meios  de  acessar  os  sócios  ou  a  sede  da  empresa),  que  não  contratar  através  dela,  entregando-lhe  seus  documentos  e  confiando  na  prometida  aprovação  do  financiamento  e  da  compra.
+O  dano  moral  sofrido  pela  autora  é  evidente,  ao  constatar  que  havia  caído  em  um  golpe,  que  não  havia  registro  algum  de  seus  documentos  ou  do  que  lhe  fora  prometido  contratar.
+A  preposta  simplesmente  recebeu  seu  dinheiro  e  nada  fez.  Até  mesmo  o  outro  preposto  que  se  sucedeu  no  stand,  Sr.  Ferreira,  não  foi  capaz  de  prestar  informação  alguma  sobre  o  andamento  da  avença  e,  pegando  cópias  de  todos  os  documentos  da  autora  mais  uma  vez,  não  lhe  deu  retorno  algum.
+Não  prospera  o  apelo  nesse  ponto,  constatando-se  o  dano  moral  causado  pelos  representantes  que  a  incorporadora  contratou,  a  reclamar  sua  responsabilidade"  (e-STJ  fls.  900/901  -  grifou-se).
+Nesse  contexto,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+A  propósito:
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  COMPRA  E  VENDA  DE  IMÓVEL.  PROGRAMA  MINHA  CASA,  MINHA  VIDA.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  VÍCIOS  CONSTRUTIVOS.VIOLAÇÃO  DOS  ARTS.  489  e  1.022  do  CPC.  NÃO  OCORRÊNCIA.  PRESCRIÇÃO.  PRAZO  DECENAL.  SÚMULA  N.  83  DO  STJ.  OCORRÊNCIA  DE  SITUAÇÃO  EXCEPCIONAL  QUE  DEMONSTROU  A  EXISTÊNCIA  DO  DANO  MORAL  VINDICADO.  REEXAME  DE  PROVAS.  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Trata-se  de  ação  de  indenização  por  danos  materiais  e  morais  em  razão  de  vícios  construtivos  em  imóvel  objeto  de  contrato  de  compra  e  venda  firmado  pelo  programa  Minha  Casa,  Minha  Vida.
+2.  Os  aclaratórios  são  espécie  de  recurso  de  fundamentação  vinculada,  exigindo  para  seu  conhecimento  a  indicação  de  erro  material,  obscuridade,  contradição  ou  omissão  em  que  teria  incorrido  o  julgador  (arts.  489  e  1.022  do  CPC),  não  se  prestando  a  novo  julgamento  da  causa.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que,  nas  demandas  envolvendo  responsabilidade  civil  por  descumprimento  contratual,  a  prescrição  obedece  ao  prazo  decenal  do  art.  205  do  Código  Civil.
+4.  No  caso,  a  fixação  da  indenização  por  danos  morais  decorreu  de  situação  excepcional  que  configurou  ofensa  ao  direito  da  personalidade  do  promitente-comprador,  extrapolando  a  esfera  do  mero  inadimplemento  contratual,  não  podendo  a  questão  ser  revista  nesta  via  excepcional,  ante  a  incidência  da  Súmula  n.º  7  do  STJ.
+5.  Agravo  interno  não  provido"  (AgInt  no  REsp  2.142.869/MS,  Relator  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  23/9/2024,  DJe  de  25/9/2024  -  grifou-se).
+
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
