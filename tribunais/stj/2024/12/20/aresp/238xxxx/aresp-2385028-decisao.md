@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo contra decisão que inadmitiu o recurso especial interposto por JOSIANE MARIA DE OLIVEIRA, interposto com fundamento na alínea "a" do permissivo constitucional, visando a reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REPARAÇÃO DE DANOS IMPOSTA EM AÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO. INEXISTÊNCIA DE TÍTULO EXECUTIVO JUDICIAL NA ESFERA PENAL. I - A extinção da punibilidade consiste na perda da pretensão punitiva do Estado, de modo que não há mais a possibilidade de imposição de uma pena ou sanção ao réu. II - "Extinta a punibilidade pela prescrição da pretensão punitiva, em razão do disposto no art. 118 do Código Penal, fica afastada também a condenação à reparação de danos, fixada nos termos do art. 387, inciso IV, do Código de Processo Penal, sem prejuízo do acesso da Vítima às vias civis." (AgRg no AREsp n. 1.895.039/PI, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/9/2021, DJe de 30/9/2021.)." (e-STJ, fls. 3816-3824).
+Em suas razões recursais, a recorrente aponta violação aos arts. 200 e 935 do Código Civil, bem como ao art. 515, VI, do CPC . Afirma que houve extinção da punibilidade da ação penal pela prescrição, o que não atinge a parte do título judicial referente à reparação do dano.
+Com contrarrazões (e-STJ, fls. 10464-10473), o recurso foi inadmitido na origem (e-STJ, fls. 10477-10478), ao que se seguiu a interposição de agravo (e-STJ, fls. 17155-17160).
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal opinou pelo conhecimento do agravo e provimento do recurso especial (e-STJ, fls. 17200-17204).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No tocante à controvérsia, extrai-se do voto condutor do acórdão recorrido:
+"(..) É direito, pois, da vítima executar, no juízo cível, a pena de reparação de danos imposta na sentença condenatória penal. Por sua vez, bem se sabe que a punibilidade surge a partir da prática de um crime por um agente, momento este em que nasce, para o Estado, a possibilidade de punir o responsável, sendo certo que a extinção da punibilidade constitui na perda dessa pretensão punitiva do Estado, de modo que não há mais a possibilidade de impor uma pena ou sanção ao réu.
+No caso em apreço, a agravada ajuizou "Ação de Cumprimento Provisório de Sentença", objetivando receber a importância de R$15.000,00, fixada a título de reparação de danos, na sentença penal condenatória proferida contra o agravante nos autos do processo nº 0004932-09.2016.8.13.0430. Ocorre que, na execução da referida a ação penal foi reconhecida a prescrição da pretensão executória e, com arrimo no art. 107, IV, do CP, foi julgada extinta a punibilidade do agravante, tendo sido o feito arquivado em 24.05.2022m como se vê nos documentos de ordem 09 e 10.
+Rogando vênia ao d. magistrado "a quo", entendo que, por se tratar de penalidade imposta no juízo criminal, uma vez extinta a punibilidade do ofensor, não prevalece nenhuma das sanções que lhe foram cominadas." (e-STJ, fls. 3816-3824).
+Com efeito, o julgamento proferido pelo Tribunal a quo deve ser reformado, pois, ao contrário da prescrição da pretensão punitiva, o reconhecimento da prescrição da pretensão executória impossibilita o Estado de executar a pena aplicada, sem, contudo, rescindir a sentença penal condenatória, razão pela qual seus efeitos secundários permanecem inalterados.
+Como é possível notar no julgamento de origem, menciona-se precedente sobre os efeitos da prescrição da pretensão punitiva que, no entanto, não se aplicam ao caso dos autos, que se refere à prescrição da pretensão executória.
+Este Superior Tribunal de Justiça possui o entendimento pacificado de que os efeitos secundários da sentença, em que se inclui a reparação do dano, ficam preservados, ainda que reconhecida a prescrição da pretensão executória.
+Neste sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a quantidade de droga apreendida, bem como a reincidência específica ("cuja pena foi declarada extinta pela prescrição da pretensão executória").
+3. O reconhecimento da prescrição da pretensão executória impossibilita o Estado de executar a pena aplicada, sem, contudo, rescindir a sentença penal condenatória, razão pela qual seus efeitos secundários permanecem inalterados.
+4. Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+5. Habeas corpus denegado."
+(HC n. 470.455/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/2/2019, DJe de 19/2/2019.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DISPARO DE ARMA DE FOGO. REGIME PRISIONAL SEMIABERTO. REINCIDÊNCIA DO RÉU. AÇÃO PENAL ANTERIOR EXTINTA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. EFEITOS SECUNDÁRIOS SUBSISTENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, ficou assentado pela instância ordinária que a declaração de extinção da punibilidade do réu ocorreu por incidência do instituto da prescrição da pretensão executória. A via eleita é inadequada à mudança do entendimento, sem o necessário revolvimento do conjunto fático-probatório.
+2. Prescrita a pretensão executória, subsistem os efeitos secundários da pena, incluída a reincidência. Precedentes.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 697.856/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022.)
+"RECURSO ESPECIAL. REABILITAÇÃO. INTERESSE DE AGIR. EXTINÇÃO DA PRETENSÃO EXECUTÓRIA. SUBSISTÊNCIA DE EFEITOS PENAIS SECUNDÁRIOS.
+1. A declaração de extinção da punibilidade pela prescrição da pretensão executória impede a execução da pena mas não afasta os efeitos penais secundários decorrentes da existência de condenação criminal que transitou em julgado, tais como a formação de reincidência e os maus antecedentes.
+2. Remanescendo os efeitos penais secundários da condenação transitada em julgado, resta inequívoco o interesse de agir do condenado em obter reabilitação criminal.
+3. Recurso especial provido."
+(REsp n. 1.580.644/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 24/5/2016, DJe de 13/6/2016.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo e dou provimento ao recurso especial para reformar o acórdão e restabelecer a decisão de primeiro grau que determinou a execução do título judicial em relação à reparação do dano .
+Publique-se. Intimem-se.
+EMENTA
