@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por Mike Everton Soares de Oliveira contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da CF), apresentado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0000573-85.2024.8.26.0361) que manteve a decisão proferida pelo Juízo da 3ª Vara Criminal da comarca de Mogi das Cruzes/SP que indeferiu o pedido da Defensoria Pública de extinção da punibilidade sem o pagamento da multa imposta ao apenado.
+Nas razões do recurso especial, a defesa do agravante suscitou contrariedade aos arts. 833, inciso X, e 836, ambos do Código de Processo Civil, e aplicou indevidamente o art. 168 da Lei de Execução Penal e art. 927, III, do Código de Processo Civil (fls. 93/100).
+A Corte de origem inadmitiu o recurso com fundamento nas Súmulas 7/STJ (fls. 111/112).
+Contra o decisum a def esa interpôs o presente agravo (fls. 118/122).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (fl. 144).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Passo, então, ao exame do recurso especial.
+No julgamento do REsp n. 2.024.901/SP e do REsp n. 2.090.454/SP (Ministro Rogerio Schietti Cruz, DJe 1º/3/2024), ambos submetidos ao rito dos recursos especiais repetitivos e em proposta de revisão da tese fixada no julgamento do Tema 931, a Terceira Seção desta Corte firmou a compreensão de que o inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária.
+No caso, extrai-se do combatido aresto a seguinte fundamentação (fls. 73/82 - grifo nosso):
+ ..
+O recurso não merece ser provido.
+Com efeito, não cabe acolhimento ao pedido da Defesa de levantamento dos valores penhorados via SISBAJUD (R$ 963,19 - fls. 24/29), já que não houve nenhuma comprovação de que esses valores estão vinculados à subsistência do agravante, sendo certo que a incomprovada hipossuficiência não tem o condão de obstar, genericamente, quaisquer valores penhorados em prejuízo do executado.
+ ..
+Ademais, observo que não há comprovação nos autos de que o valor bloqueado seja originado de remuneração. De qualquer forma, sobre a possibilidade de desconto na remuneração do condenado, confira-se: "AGRAVO EM EXECUÇÃO PENAL DECISÃO QUE DETERMINOU O DESCONTO NA PROPORÇÃO DE 25% DO VALOR MENSAL NA REMUNERAÇÃO DO SENTENCIADO PARA PAGAMENTO DA PENA DE MULTA INSURGÊNCIA DEFENSIVA SOB ARGUMENTO DA IMPOSSIBILIDADE DE PENHORA DO PECÚLIO DESCABIMENTO INTELIGÊNCIA DOS ARTIGOS 168 E 170 DA LEP POSSIBILIDADE DE DESCONTO MENSAL COM LIMITE MÁXIMO CORRESPONDENTE À QUARTA PARTE DA REMUNERAÇÃO AFASTAMENTO DA APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DIANTE DA EXISTÊNCIA DE NORMA ESPECÍFICA SOBRE O TEMA - DECISÃO MANTIDA - RECURSO DESPROVIDO." (TJSP; Agravo em Execução Penal nº 0002784-36.2021.8.26.0576; Relatora: Ivana David; 4ª Câmara de Direito Criminal; Data do Julgamento: 16/06/2021; Data de Registro: 16/06/2021).
+ ..
+Nesse contexto, havendo previsão específica na Lei de Execução Penal da cobrança da multa mediante penhora de bens, inclusive através de desconto na remuneração do condenado, não incidindo, portanto, o disposto no artigo 833, incisos IV e X, do Código de Processo Civil, e diante da inércia do sentenciado em efetuar o pagamento da pena de multa ou indicar bens a serem penhoráveis, não tendo ele comprovado a completa impossibilidade de adimplir a multa, sendo certo que a alegação de que os recursos penhorados prejudicam a subsistência do agravante deve ser comprovada, e não presumida, mostra-se oportuna a realização de diligência consistente na penhora de valores via portal disponível ao Poder Judiciário, como bem decidido pelo Juízo a quo.
+ ..
+Com efeito, ao decidir pela manutenção do bloqueio dos valores penhorados para fins de execução da pena de multa, a Corte de origem decidiu em conformidade com a jurisprudência desta Corte (REsp n. 2.113.000/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2024, DJe 10/4/2024).
+No mais, para se alterar a conclusão alcançada pela instância ordinária, quanto à solvabilidade do agravante, seria necessária a incursão da seara fático-probatória, medida inviável na via estreita do recurso especial.
+Nesse sentido: é inviável a revisão do entendimento exarado pelo Tribunal de origem acerca da com provação da hipossuficiência, pois demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inadmissível em recurso especial ante o óbice contido na Súmula 7/STJ (AgInt no AREsp n. 1.309.646/SP, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 26/10/2018 - grifo nosso).
+E, no caso, em consulta aos autos da Execução n. 0013098-47.2018.8.26.0996, obtive a informação de que o apenado ainda cumpre pena privativa de liberdade em regime fechado.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE MULTA. PLEITO DE EXTINÇÃO DA PUNIBILIDADE COM BASE NA HIPOSSUFICIÊNCIA DO AGRAVANTE. ALEGAÇÃO REFUTADA PELA INSTÂNCIA ORDINÁRIA COM BASE EM CIRCUNSTÂNCIAS FÁTICAS. LEGALIDADE. TEMA N. 931/STJ. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ. APENADO QUE AINDA CUMPRE PENA PRIVATIVA DE LIBERDADE.
+Agravo conhecido para negar provimento ao recurso especial.
