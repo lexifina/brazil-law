@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Daniela Teixeira, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. DELITO DO ART. 121, § 2º, INCISOS I E IV, NA FORMA DO ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. INADMISSÃO DO APELO NOBRE PELOS Ó BICES DAS SÚMULAS N. 283/STF E 7 DESTA CORTE. FALTA DE IMPUGNAÇÃO DE TODOS ELES. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. ART. 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA N. 182/STJ. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO. INOCORRÊNCIA. TESE DE DEFICIÊNCIA DE DEFESA TÉCNICA. IMPROCEDÊNCIA. VÍCIOS APONTADOS NO JULGAMENTO REALIZADO PELO TRIBUNAL DO JÚRI. PRECLUSÃO. DECISÃO AGRAVADA MANTIDA.
+I - A decisão proferida pela Presidência desta Corte deixou de conhecer do agravo por ofensa ao princípio da dialeticidade em razão de o Agravante não ter refutado todos os fundamentos declinados pela Corte de justiça de origem para inadmitir o apelo nobre.
+II - A defesa, tal como asseverado na decisão agravada, não traçou, nas razões do agravo, uma linha sequer para o fim de refutar os fundamentos relativos aos óbices das Súmulas n. 283/STF e 7/STJ.
+III - A discordância acerca dos pedidos, teses e estratégias adotadas ou não pelo advogado anterior não caracteriza ausência ou deficiência de defesa técnica capaz de gerar nulidade processual.
+IV - Nos termos da Súmula n. 523 da Suprema Corte, só a ausência de defesa técnica implica nulidade absoluta, o que não ocorreu na hipótese dos autos, em que o Agravante foi assistido por advogados, escolhidos por ele mesmo, ao longo de todo o feito.
+V - As alegações de vícios que, supostamente, teriam ocorrido por ocasião da realização do julgamento pelo Tribunal do Júri, não reúnem condições de serem conhecidas por esta Corte, nesta ocasião, por força da preclusão, uma vez que deveriam ter sido suscitadas em sede de apelação.
+Agravo regimental conhecido e desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JORGE LUIZ THIEL MIGUEL FILHO contra a decisão da Presidência desta Corte, que não conheceu do agravo com lastro no óbice da Súmula n. 182/STJ (fls. 437-438).
+Consta dos autos que o Agravante foi condenado a 12 (doze) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, em regime fechado, pelo delito do art. 121, § 2º, incisos I e IV, na forma do art. 14, inciso II, ambos do Código Penal; e ao pagamento de trinta salários mínimos a título de indenização em favor da Vítima (fls. 280-281).
+A Corte de justiça de origem negou provimento ao apelo defensivo (fls. 362-380).
+Nas razões do apelo nobre, interposto pela alínea a do permissivo constitucional, a Defesa requereu o afastamento das qualificadoras do art. 121, § 2º, incisos I e IV, do Código Penal (fls. 389-393); alegou excessiva elevação da pena-base (fls. 393-395); apontou bis in idem no acréscimo da punição na segunda fase (fls. 395-396); ressaltou que a consumação do crime ficou longe de ser configurada, devendo a redução da pena ser fixada na fração máxima (fls. 396-397); pugnou pelo reconhecimento da atenuante da confissão espontânea (fls. 397-398); asseverou ausência de intenção de matar (fls. 398-399); aduziu que o regime fechado foi fixado em razão da hediondez do crime (fls. 399); e requereu a progressão de regime pelo cumprimento de quarenta por cento da pena (fls. 399-400).
+Apresentadas as contrarrazões (fls. 405-413), sobreveio juízo negativo de admissibilidade apoiado nos óbices das Súmulas n. 283/STF e 7 desta Corte (fls. 416-417).
+A Defesa interpôs agravo (fls. 420-422), que não foi conhecido pela Presidência desta Corte com apoio na Súmula n. 182/STJ (fls. 437-438).
+Nas razões do regimental, a Defesa alega, em suma, que a ausência de impugnação dos fundamentos da decisão de inadmissão do recurso especial revelou deficiência técnica do ex-patrono do Agravante e, por isso, requer a anulação do processo até a fase de apresentação do recurso especial e, se houver necessidade, até à interposição do próprio agravo de instrumento, com a reabertura de prazo para o atual defensor constituído às fls. 468-469 (fls. 449-454); e aproveita o ensejo para elencar vários vícios que, supostamente, teriam ocorrido por ocasião da realização do julgamento pelo Tribunal do Júri (fls. 455-460). E, por fim, alega que a decisão ora agravada padece de fundamentação específica (fls. 461-463).
+Requer, dessa forma, o provimento do regimental (fls. 463-464).
+O Ministério Público Federal opina pelo não conhecimento do regimental (fls. 484-493).
+Às fls. 498-537, a Defesa requer, em suma, seja dado efeito suspensivo ao agravo regimental para que o Agravante possa aguardar em liberdade a decisão final ou que seja determinado ao Juízo da Vara do Júri de Taubaté que se abstenha de exarar qualquer decisão enquanto os autos estiverem sob análise desta Corte e que recolha o mandado de prisão; argumentando para tanto que o Réu é primário, possui bons antecedentes, tem emprego, possui um filho altista, além de o pai estar recém operado e necessitando de cuidados e de a Vítima não ter corrido risco de morte (fls. 500-502).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. DELITO DO ART. 121, § 2º, INCISOS I E IV, NA FORMA DO ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. INADMISSÃO DO APELO NOBRE PELOS Ó BICES DAS SÚMULAS N. 283/STF E 7 DESTA CORTE. FALTA DE IMPUGNAÇÃO DE TODOS ELES. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. ART. 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA N. 182/STJ. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO. INOCORRÊNCIA. TESE DE DEFICIÊNCIA DE DEFESA TÉCNICA. IMPROCEDÊNCIA. VÍCIOS APONTADOS NO JULGAMENTO REALIZADO PELO TRIBUNAL DO JÚRI. PRECLUSÃO. DECISÃO AGRAVADA MANTIDA.
+I - A decisão proferida pela Presidência desta Corte deixou de conhecer do agravo por ofensa ao princípio da dialeticidade em razão de o Agravante não ter refutado todos os fundamentos declinados pela Corte de justiça de origem para inadmitir o apelo nobre.
+II - A defesa, tal como asseverado na decisão agravada, não traçou, nas razões do agravo, uma linha sequer para o fim de refutar os fundamentos relativos aos óbices das Súmulas n. 283/STF e 7/STJ.
+III - A discordância acerca dos pedidos, teses e estratégias adotadas ou não pelo advogado anterior não caracteriza ausência ou deficiência de defesa técnica capaz de gerar nulidade processual.
+IV - Nos termos da Súmula n. 523 da Suprema Corte, só a ausência de defesa técnica implica nulidade absoluta, o que não ocorreu na hipótese dos autos, em que o Agravante foi assistido por advogados, escolhidos por ele mesmo, ao longo de todo o feito.
+V - As alegações de vícios que, supostamente, teriam ocorrido por ocasião da realização do julgamento pelo Tribunal do Júri, não reúnem condições de serem conhecidas por esta Corte, nesta ocasião, por força da preclusão, uma vez que deveriam ter sido suscitadas em sede de apelação.
+Agravo regimental conhecido e desprovido.
+VOTO
+Em que pesem os argumentos da parte agravante, a decisão impugnada deve ser mantida incólume.
+A Corte de justiça de origem inadmitiu o recurso especial com apoio nos óbices das Súmulas n. 283/STF e 7 desta Corte (fls. 416-417).
+A decisão ora agravada deixou de conhecer do agravo nestes termos (fls. 437-438):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 283/STF e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial."
+Tal como asseverado, de forma explícita, na decisão ora agravada, a defesa não traçou, nas razões do agravo, uma linha sequer para o fim de refutar os fundamentos relativos aos óbices das Súmula 283/STF e 7/STJ, tendo se restringido a asseverar que foi indicado o dispositivo constitucional autorizador da interposição do recurso especial, além da exposição das razões do pedido; do prequestionamento acerca da matéria e a ausência de interesse do Recorrente no reexame de provas (fls. 421-422).
+Portanto, não houve mesmo observância do princípio da dialeticidade e, também, não há se falar em ausência de fundamentação da decisão ora agravada, pois foi explícita e suficiente ao justificar o não conhecimento do agravo.
+A propósito:
+" ..
+1. Neste agravo regimental, não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no Enunciado n. 182 da Súmula desta Corte Superior e inviabilizam o conhecimento do agravo, por violação do princípio da dialeticidade.
+ ..
+6. Agravo regimental a que se nega provimento" (AgRg no HC n. 921.388/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+Citam-se ainda o AgRg no AREsp n. 1.921.106/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021; e o AgRg no AREsp n. 1.965.463/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/10/2021, DJe de 4/11/2021.
+Quanto ao pleito de reconhecimento de deficiência técnica do ex-patrono do Agravante, com a consequente devolução de prazos, não deve prosperar, pois, de acordo com a jurisprudência desta Corte, a discordância do atual acerca dos pedidos, teses e estratégias adotadas ou não pelo advogado anterior não caracteriza ausência ou deficiência de defesa capaz de gerar nulidade processual.
+Nesse sentido:
+" ..
+4. Nesse contexto, não há falar em ofensa ao princípio da ampla defesa, pois foi assegurado ao Réu a imprescindível Defesa Técnica.
+A discordância do atual Defensor com os pleitos, teses e estratégias adotados ou não pelo Causídico anterior não caracteriza ausência/deficiência de defesa capaz de gerar nulidade processual.
+5. Agravo regimental desprovido" (AgRg no RHC n. 176.203/RN, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023).
+Na mesma linha, o AgRg no AREsp n. 1.920.189/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/2/2024, DJe de 26/2/2024.
+Além disso, nos termos da Súmula n. 523 da Suprema Corte, só a ausência de defesa técnica implica nulidade absoluta, o que não ocorreu na hipótese dos autos, em que o Agravante foi assistido por causídicos, escolhidos por ele mesmo, ao longo de todo o feito.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O PATRIMÔNIO. LATROCÍNIO (ART. 157, § 3º, DO CÓDIGO PENAL). CERCEAMENTO DE DEFESA. DESÍDIA DO PATRONO ANTERIOR. NÃO OCORRÊNCIA. REVELIA. MUDANÇA DE ENDEREÇO NÃO COMUNICADA. DESCLASSIFICAÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No presente caso, o Colegiado estadual destacou que não houve comprovação nem de desídia do advogado, nem de efetivo prejuízo ao acusado. Registre-se que, ainda que a Defesa suscite deficiência de defesa técnica, verifica-se que esta foi exercida por profissional habilitado, tendo sido obedecidos todos os prazos processuais, tendo o advogado atuante à época agido dentro dos limites da autonomia profissional. A propósito, a Súmula 523/STF preleciona que, no processo penal, a falta de defesa constitui nulidade absoluta, mas sua deficiência só o anulará se houver prova do prejuízo para o réu, o que não ocorreu na espécie.
+ ..
+6. Agravo regimental não provido" (AgRg no AREsp n. 2.265.981/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023 ).
+Ainda no mesmo sentido o AgRg no HC n. 876.650/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024.
+Quanto às alegações de vários vícios que, supostamente, teriam ocorrido por ocasião da realização do julgamento pelo Tribunal do Júri (fls. 455-460), estas não reúnem condições de serem conhecidas por esta Corte, nessa ocasião, por força da preclusão, uma vez que deveriam ter sido suscitadas em sede de apelação.
+Por fim, quanto aos pedidos constantes da petição de fls. 498-537, o agravo regimental não é o meio processual adequado à obtenção de efeito suspensivo da decisão proferida pelo juízo de origem que determinou a execução da pena privativa de liberdade imposta ao Agravante.
+Assim, a decisão agravada deve ser mantida intacta pelos seus próprios termos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
