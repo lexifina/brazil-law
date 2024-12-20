@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual INSTITUTO NACIONAL DO SEGURO SOCIAL insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 331/332):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REMESSA OFICIAL. NÃO CONHECIMENTO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. REQUISITOS. NÃO PREENCHIMENTO. REFILIAÇÃO POSTERIOR AO INÍCIO DA INCAPACIDADE. DEVOLUÇÃO DE PARCELAS RECEBIDAS A TÍTULO DE TUTELA ANTECIPADA. DESCABIMENTO. ENTENDIMENTO DO STF. SUCUMBÊNCIA.
+I- Tendo em vista julgado proferido pelo C. STJ, ao apreciar o REsp 1.735.097/RS (08/10/2019), Rel. Min. Gurgel de Faria, entendendo que "não obstante a aparente iliquidez das condenações em causas de natureza previdenciária, a sentença que defere benefício previdenciário é espécie absolutamente mensurável, visto que pode ser aferível por simples cálculos aritméticos, os quais são expressamente previstos na lei de regência, e são realizados pelo próprio INSS", e observando-se o disposto no artigo 496, §3º, I do CPC, não se conhece da remessa oficial.
+II- A autora refiliou-se à Previdência Social quando já se encontrava incapacitada para o trabalho, razão pela qual a improcedência do pedido é de rigor.
+III- É pacífica a jurisprudência do E. STF, no sentido de ser indevida a devolução de valores recebidos por força de decisão judicial antecipatória dos efeitos da tutela, em razão da boa-fé do segurado e do princípio da irrepetibilidade dos alimentos. (Precedentes: ARE 734242, Rel. Min. Roberto Barroso, DJe de 08.09.2015; Rel. Min. Luiz Fux, DJe de 04.04.2016).
+IV- Honorários advocatícios fixados em R$1.000,00 (um mil reais), conforme previsto no artigo 85, §§ 4º, III, e 8º, do CPC. A exigibilidade da verba honorária ficará suspensa por 05 (cinco) anos, desde que inalterada a situação de insuficiência de recursos que fundamentou a concessão dos benefícios da assistência judiciária gratuita, nos termos do artigo 98, §3º, do mesmo estatuto processual.
+V- Remessa Oficial não conhecida. Apelação do INSS provida.
+Os embargos declaratórios foram rejeitados (fls. 360/369).
+Nas razões de seu recurso especial (fls. 371/381), a parte agravante alega violação dos arts. 296, 297, parágrafo único, 300, § 3º, 302, I e II, 520, I e II, 948 e 949, do CPC, art. 3º da LICC, art. 115, II e § 1º, da Lei 8.213/91, art. 154 do Decreto 3.048/99, e arts. 876, 884 e 885, do CC.
+Defende, em suma, a necessidade de devolução dos valores recebidos por força de tutela antecipada e posteriormente revogada, ainda que presente a boa-fé, a fim de evitar o enriquecimento sem causa.
+Sustenta que "embora o instituto da tutela antecipada possibilite a fruição imediata do direito material, sua natureza jurídica é de provimento provisório e precário, conforme ressai do artigo 296 do Novo Código de Processo Civil (artigo 273, § 4º, do CPC revogado), motivo pelo qual subsiste a possibilidade de revisão da decisão a qualquer tempo, cuja consequência é o regresso das partes à situação de fato anterior ao ajuizamento da ação" (fl. 373).
+Requer o provimento do recurso especial.
+Não foram apresentadas contrarrazões.
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A insurgência não merece prosperar.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+O acórdão recorrido decidiu a contenda nos seguintes termos (fls. 326/329):
+Da remessa oficial
+Tendo em vista julgado proferido pelo C. STJ, ao apreciar o REsp 1.735.097/RS (08/10/2019), Rel. Min. Gurgel de Faria, entendendo que "não obstante a aparente iliquidez das condenações em causas de natureza previdenciária, a sentença que defere benefício previdenciário é espécie absolutamente mensurável, visto que pode ser aferível por simples cálculos aritméticos, os quais são expressamente previstos na lei de regência, e são realizados pelo próprio INSS", e observando-se o disposto no artigo 496, §3º, I do CPC, não conheço da remessa oficial.
+Do mérito
+Os benefícios pleiteados pela autora, nascida em 23.08.1956, estão previstos nos arts. 42 e 59 da Lei 8.213/91 que dispõem:
+A aposentadoria por invalidez, uma vez cumprida, quando for o caso, a carência exigida, será devida ao segurado que, estando ou não em gozo de auxílio doença, for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, e ser-lhe-á paga enquanto permanecer nesta condição.
+O auxílio-doença será devido ao segurado que, havendo cumprido, quando for o caso, o período de carência exigido nesta Lei, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 (quinze) dias consecutivos.
+O laudo, cuja perícia médica foi realizada em 13.06.2017, atesta que a autora, 61 anos de idade, costureira autônoma, é portadora de neoplasia de mama abordada cirurgicamente, tendo sido submetida à mastectomia radical com esvaziamento linfonodal em nível I. Submetida à reconstrução de mama esquerda, sem sucesso, desenvolvendo quadro psiquiátrico, caracterizado como transtorno de humor afetivo orgânico e transtorno misto ansioso e depressivo. O perito concluiu pela incapacidade total e temporária para o trabalho. Fixou o início do quadro neoplásico em março de 2014 e tratamento cirúrgico em 10/06/2014.
+De outro turno, colhe-se dos autos, bem como dos dados do Cadastro Nacional de Informações Sociais, que a autora esteve filiada à Previdência Social, contando com vínculos em períodos interpolados, entre 1970 a 2000, tornando a refiliar-se, como contribuinte individual, vertendo contribuições sobre o valor mínimo, no período de 01.02.2015 a 31.01.2019. Requereu o benefício de auxílio-doença em 25.04.2016, que foi indeferido pela autarquia sob o fundamento de perda da qualidade de segurada, ensejando o ajuizamento da presente ação. Gozou, ainda, da benesse em tela, no período de 10.06.2014 a 17.06.2019, em virtude de tutela antecipada concedida nestes autos.
+Assim, resta claro dos elementos analisados, que a autora refiliou-se à Previdência Social quando já se encontrava incapacitada para o trabalho, razão pela qual a improcedência do pedido é de rigor.
+Saliento, por último, que é pacífica a jurisprudência do E. STF, no sentido de ser indevida a devolução de valores recebidos por força de decisão judicial antecipatória dos efeitos da tutela, em razão da boa-fé do segurado e do princípio da irrepetibilidade dos alimentos.
+Nesse sentido, colaciono os julgados:
+DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. BENEFÍCIO PREVIDENCIÁRIO. NATUREZA ALIMENTAR. RECEBIMENTO DE BOA-FÉ EM DECORRÊNCIA DE DECISÃO JUDICIAL. TUTELA ANTECIPADA REVOGADA. DEVOLUÇÃO.
+1. A jurisprudência do Supremo Tribunal Federal já assentou que o benefício previdenciário recebido de boa-fé pelo segurado, em decorrência de decisão judicial, não está sujeito à repetição de indébito, em razão de seu caráter alimentar. Precedentes.
+2. Decisão judicial que reconhece a impossibilidade de descontos dos valores indevidamente recebidos pelo segurado não implica declaração de inconstitucionalidade do art. 115 da Lei nº 8.213/1991. Precedentes. 3. Agravo regimental a que se nega provimento.
+(ARE 734242, Rel. Min. Roberto Barroso, DJe de 08.09.2015)
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ACÓRDÃO DO TCU QUE DETERMINOU A IMEDIATA INTERRUPÇÃO DO PAGAMENTO DA URP DE FEVEREIRO DE 1989 (26,05%). EXCLUSÃO DE VANTAGEM ECONÔMICA RECONHECIDA POR DECISÃO JUDICIAL COM TRÂNSITO EM JULGADO. NATUREZA ALIMENTAR E A PERCEPÇÃO DE BOA-FÉ AFASTAM A RESTITUIÇÃO DOS VALORES RECEBIDOS ATÉ A REVOGAÇÃO DA LIMINAR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte firmou entendimento no sentido do descabimento da restituição de valores percebidos indevidamente em circunstâncias, tais como a dos autos, em que o servidor público está de boa-fé. (Precedentes: MS 26.085, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 13/6/2008; AI 490.551-AgR, Rel. Min. Ellen Gracie, 2ª Turma, DJe 3/9/2010).
+2. A boa-fé na percepção de valores indevidos bem como a natureza alimentar dos mesmos afastam o dever de sua restituição.
+3. Agravo regimental a que se nega provimento.
+(MS 25921, Rel. Min. Luiz Fux, DJe de 04.04.2016)
+Honorários advocatícios fixados em R$1.000,00 (um mil reais), conforme previsto no artigo 85, §§ 4º, III, e 8º, do CPC. A exigibilidade da verba honorária ficará suspensa por 05 (cinco) anos, desde que inalterada a situação de insuficiência de recursos que fundamentou a concessão dos benefícios da assistência judiciária gratuita, nos termos do artigo 98, §3º, do mesmo estatuto processual.
+Ante o exposto, não conheço da remessa oficial e dou provimento à apelação do réu para julgar improcedente o pedido da parte autora.
+É como voto.
+Após analisar o acórdão recorrido, verifico que, a respeito dos dispositivos apontados como violados, a questão federal pleiteada não pode ser conhecida por este Superior Tribunal de Justiça, pois o juízo de origem não se manifestou a respeito. Incidente a Súmula nº 211/STJ - Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo mas também a delimitação da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. INEXISTÊNCIA. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+ ..
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada ao dispositivo de lei supostamente violado, mesmo após opostos embargos de declaração.
+4. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp n. 2.289.147/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.)
+Ressalto não haver possibilidade para o reconhecimento do prequestionamento ficto previsto no art. 1.025 do CPC, pois sequer foi arguida violação ao art. 1.022 do CPC no apelo extremo.
+Confira-se:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SIMILITUDE FÁTICO-JURÍDICO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO IMPLÍCITO. INDICAÇÃO DE VIOLAÇÃO AO ART. 1022 DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices.
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017).
+3. Agravo interno ao qual se nega provimento.
+(AgInt nos EAREsp n. 2.436.858/SP, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 22/10/2024, DJe de 25/10/2024.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS APONTADOS COMO VIOLADOS. SÚMULA 211/STJ. AGRAVO CONHECIDO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
