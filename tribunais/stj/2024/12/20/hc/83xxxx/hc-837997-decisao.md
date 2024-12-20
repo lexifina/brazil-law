@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MIRELLEN DE JESUS SILVA DUARTE em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que a paciente foi condenada à pena de 02 anos de reclusão, em regime inicial aberto, além do pagamento de 10 dias-multa, pela prática do crime previsto no artigo 14, caput, da Lei n. 10.826/03.
+A defesa interpôs apelação no Tribunal de origem, que negou provimento ao recurso.
+A impetrante sustenta "que houve evidente nulidade processual, uma vez que a prova produzida revela-se ilícita, em face da violação do domicílio da paciente, sem autorização judicial e ausente situação de flagrância, inexistindo nos autos qualquer prova de que a situação autorizasse a severa restrição do referido direito fundamental."
+Defende que a mera suspeita não é suficiente para autorizar o ingresso na residência sem o mandado judicial e que a confirmação da ocorrência do flagrante delito não legitima a ação policial.
+Requer, liminarmente e no mérito, o reconhecimento da nulidade apontada e da ilegalidade da prova produzida, com a consequente absolvição da paciente.
+Acórdão impetrado, às fls. 256/266.
+Decisão que indeferiu a liminar requerida, às fls. 297/298.
+Informações prestadas pelo Tribunal impetrado, às fls. 344/378.
+Parecer do MPF, às fls. 389/393, onde se manifesta pelo não conhecimento do writ, ressaltando a ausência, em seu entender, de qualquer ilegalidade a ser sanada.
+É o relatório. Decido.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Como se sabe, a inviolabilidade domiciliar constitui direito fundamental de estatura constitucional, pois a ninguém é permitido entrar em um domicílio sem o consentimento do morador, ressalvadas as estritas hipóteses estampadas na Carta Magna, quais sejam, flagrante delito, desastre, prestação de socorro, ou, durante o dia, por determinação judicial de acordo com o art.5º, XI da CF.
+Outrossim, o consentimento do morador para ingresso em sua residência, para que seja considerado válido, deve provir de um contexto que lhe permita expressar sua decisão sem pressões exteriores, de forma consciente e informada.
+No caso dos autos, colhe-se do acórdão impetrado os seguintes esclarecimentos:
+"Pois bem, no que tange à preliminar de ilicitude da prova por invasão de domicílio, não merece acolhimento, na medida em que não verificada ofensa aos artigos 157, § 1º, e 573, § 1º, ambos do CPP. Isso porque, como bem salientado na sentença, os acusados foram avistados portando arma de fogo e munições em via pública. Veja-se que, segundo os depoimentos, uma guarnição policial foi acionada para averiguar suposta ocorrência relacionada a veículo sendo utilizado para a traficância. No local, não avistaram o referido automóvel. Todavia, visualizaram os acusados em via pública, tendo o réu Jackson dispensado um pacote em um mato próximo. Assim, realizada a abordagem dos acusados, com eles foram localizados os objetos apreendidos, consistentes em arma de fogo e munições. Nessa senda, verifica-se que, ao contrário do alegado pela defesa, a abordagem dos réus se deu em via pública, diante da situação de flagrância. No ponto, há de se ressaltar que o delito de porte ilegal de arma de fogo de uso permitido, tipificado no artigo 14, caput, da Lei n.º 10.826/03, se trata de crime permanente, cuja situação de flagrância se protrai no tempo. Diante disso, ainda que houvesse ocorrido o alegado ingresso no domicílio após a situação de flagrância em via pública, estariam os policiais autorizados a tanto."
+Conforme se observa pela narrativa transcrita, não há esteio nos autos de que a apreensão do armamento tenha decorrido do ingresso indevido dos policiais na residência do paciente; ao revés, o relato exposto indica que a localização do armamento se deu em abordagem realizada na via pública.
+Ademais, é válido frisar que não há qualquer elemento nos autos que infirme a credibilidade do relato prestado pelos policiais, os quais, por se tratarem de servidores públicos em exercício, possuem fé pública.
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
