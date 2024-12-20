@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO SELSON PEREIRA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 2.ª REGIÃO na Apelação Cível n. 5076239-24.2019.4.02.5101/RJ, assim ementado (fl. 200):
+PROCESSUAL CIVIL. EXECUÇÃO. PENHORA. EMBARGOS DE TERCEIRO. PROVA DA POSSE.
+- Prescreve o art. 434 que a petição inicial deve ser instruída com os documentos por meio dos quais a parte pretende provar suas alegações, renovando-se a oportunidade de as juntar, a qualquer tempo, se destinados a fazer prova de fatos ocorridos depois dos articulados na inicial ou para contrapô-los aos que foram produzidos nos autos (art. 435).
+- Na forma do caput do art. 1.245 do Código Civil, é requisito inafastável para a transferência da propriedade o registro no Registro de Imóveis do título translativo, o que não se deu no caso dos autos. Ademais, o instrumento particular de promessa de compra e venda, se não registrado no registro de imóveis, não é invocável em face de terceiros, mas apenas entre os contratantes, como disposto no art. 221 do Código Civil.
+- Apelação não provida.
+Consta dos autos que o Juízo singular julgou improcedentes os embargos de terceiro opostos pelo ora recorrente, que buscava "o levantamento da penhora sobre o imóvel  .. , realizada nos autos da Execução Fiscal (Processo n. 5000186-06.2018.4.02.5111) por meio da qual o INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA persegue a satisfação de crédito titulado em face de João Baptista Pereira" (fl. 192).
+Irresignada, a parte recorrente interpôs apelação, que não foi provida (fls. 197-198).
+Os subsequentes embargos de declaração opostos contra o referido julgado foram rejeitados (fls. 224-225).
+Nas razões do recurso especial, a parte recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 1.046 do CPC/1973 e 674, caput e parágrafos, do CPC/2015.
+Argumenta que os referidos dispositivos infraconstitucionais asseguram "o direito ao possuidor de salvar o imóvel com a prova da posse, que, com todas as vênias, não depende nem sequer de contrato de compromisso de compra e venda, de modo que exigir a prova do registro prévio do mencionado instrumento é totalmente ilegal, com entendimento já firmado na Súmula n. 84 do C. STJ" (fl. 240).
+Sustenta que a "aquisição da posse da sala se deu em tempo em que inexistia a dívida em execução, que remonta ao ano de 2005" (fl. 237).
+Requer o provimento do recurso para "julgar procedentes as alegações deduzidas nos embargos de terceiro, cancelando a penhora" (fl. 245).
+Contrarrazões às fls. 343-349.
+O recurso especial foi admitido (fl. 355).
+É o relatório.
+Decido.
+O acórdão recorrido está assim fundamentado (fl. 198; grifos diversos do original):
+No caso dos autos, o Apelante não juntou prova a que não tinha acesso ou conhecimento do fato ora ventilado - o que, aliás, soa absolutamente incoerente, vez que o fundamento dos embargos é o Embargante ostentar a condição de possuidor, situação a qual obviamente não poderia desconhecer -, razão bastante para ser rejeitada a alegação - que pretende provar por meio das declarações - de exercer posse exclusiva do imóvel penhorado, havendo-se de considerar o Executado João Baptista Pereira ainda possuidor e proprietário do bem.
+Assim, rejeito também os pedidos de anulação da Sentença e determinação de realização de nova Audiência de Instrução e Julgamento.
+Correta a Sentença no que afasta a idoneidade do instrumento particular de promessa de compra e venda (evento 1, CONTR7) como meio de prova da propriedade do imóvel objeto da penhora.
+É que, na forma do caput do art. 1.245 do Código Civil, é requisito inafastável para a transferência da propriedade o registro no Registro de Imóveis do título translativo, o que não se deu no caso dos autos. Ademais, e como também positivado na Sentença, o instrumento particular de promessa de compra e venda (Evento 1, CONTR7) não é invocável em face de terceiros, mas apenas entre os contratantes, como disposto no art. 221 do Código Civil:
+ ..
+Repise-se que o requisito para a oponibilidade a terceiro - nomeadamente, o registro público - não foi adimplido.
+Por derradeiro, naquele instrumento não há reconhecimento das firmas dos contratantes, de tudo se havendo concluir que o imóvel permanece sob a titularidade do Executado João Baptista Pereira, decorrendo regular a penhora realizada no imóvel.
+Nos termos do entendimento consolidado na Súmula n. 84 do STJ, "É admissível a oposição de embargos de terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóvel, ainda que desprovido do registro".
+No entanto, no caso em tela, o Tribunal de origem expressamente consignou que a parte recorrente não comprovou "exercer posse exclusiva do imóvel penhorado, havendo-se de considerar o Executado João Baptista Pereira ainda possuidor e proprietário do bem" (fl. 198), bem como destacou que "naquele instrumento não há reconhecimento das firmas dos contratantes, de tudo se havendo concluir que o imóvel permanece sob a titularidade do Executado João Baptista Pereira, decorrendo regular a penhora realizada no imóvel" (fl. 198).
+Desse modo, para se concluir que a documentação apresentada pela parte recorrente nestes autos é apta a comprovar a sua posse sobre o imóvel penhorado, seria necessário o reexame das provas, o que é vedado pela Súmula n. 7 do STJ.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. IMÓVEL. CONSTRIÇÃO JUDICIAL. COMPRA E VENDA. AUSÊNCIA DE REGISTRO. POSSE. NÃO COMPROVAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+ ..
+4. No caso concreto, o Tribunal de origem concluiu pela ausência de comprovação da propriedade ou da posse do imóvel. Entender de modo contrário demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.860.903/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/5/2023, DJe de 2/6/2023; sem grifos no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DE SÚMULA. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. VEDADA ANÁLISE NO ÂMBITO DO STJ. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO. IMÓVEL. CONSTRIÇÃO JUDICIAL. COMPRA E VENDA. AUSÊNCIA DE REGISTRO. POSSE. NÃO COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. ALÍNEA "C". PREJUDICADA.
+1. É vedado ao STJ analisar a violação de Súmula porque o termo não se enquadra no conceito de lei federal.
+2. Hipótese em que o Tribunal de origem, com base no substrato fático-probatório dos autos, concluiu não estar comprovada a posse do agravante sobre o imóvel penhorado. Dessa forma, desconstituir tal premissa requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ por esbarrar no óbice da Súmula 7/STJ.
+ ..
+4. Recurso Especial não provido. (REsp n. 1.656.491/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/3/2017, DJe de 20/6/2017; sem grifos no original.)
+No mais, cabe ressaltar que, segundo entendimento desta Corte Superior, a existência de óbice processual impedindo conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da divergência jurisprudencial acerca do tema. Nesse sentido: AgRg no AREsp n. 2.172.856/PR, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 05/09/2023, DJe de 11/09/2023; AgRg no AREsp n. 2.218.965/CE, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/03/2023, DJe de 27/03/2023.
+Ainda que assim não fosse, a parte recorrente não realizou o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos dos acórdão recorrido e paradigma, demonstrando a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal. Tal ausência inviabiliza o conhecimento do recurso especial, pela alínea c do permissivo constitucional. A esse respeito: AgInt no AREsp n. 2.388.423/SC, relator Ministro Franc isco Falcão, Segunda Turma, julgado em 20/2/2024, DJe de 23/2/2024; AgInt no REsp n. 2.082.599/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fls. 42 e 198), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PROVA DA POSSE. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
