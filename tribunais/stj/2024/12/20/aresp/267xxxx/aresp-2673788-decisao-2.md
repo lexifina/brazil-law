@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por FERNANDO CEZAR DOS SANTOS FILHO contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 284 do STF e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 1.260/1.271).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 1.049):
+EMENTA - APELAÇÃO CÍVEL - USUCAPIÃO EXTRAORDINÁRIO - REQUISITOS PREENCHIDOS TÃO SOMENTE QUANTO AO LOTE QUE ESTÁ INSTALADO O IMÓVEL DE RESIDÊNCIA E A PLANTAÇÃO MANTIDA - POSSE MANSA, PACÍFICA E CONTÍNUA SOMENTE ONDE ESTÃO FIXADAS AS BENFEITORIAS CUJA PROVA DA POSSE FICOU DEMONSTRADA - DEMAIS LOTES NÃO HÁ PROVA CRISTALINA DO ALEGADO - SENTENÇA PARCIALMENTE REFORMADA - RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS. Os requisitos necessários para se adquirir imóvel por usucapião extraordinária são: posse de quinze (15) anos, que pode ser reduzida para dez (10) anos se o possuidor tiver estabelecido no imóvel sua moradia habitual ou realizado obras ou serviços de caráter produtivo, exercida com ânimo de dono, mansa, pacífica e ininterrupta. Configurado o tempo e a posse ad usucapionem, exercida sem oposição, o pedido de usucapião extraordinário deve ser julgado procedente. No caso dos autos, os requisitos restam configurados apenas no lote em que está edificada a moradia da apelada e a extensão de "quinta" com plantação - lotes 01, 02, 03 e 04.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.173/1.189).
+Nas razões do recurso especial (e-STJ fls. 1.180/1.195), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação do art. 1.238 do CC/2002. Sustentou que "a posse da parte autora sobre os lotes em questão foi exercida de forma esporádica, pontual, em face mera tolerância do proprietário registral. E isso retira o animus domini que seria essencial para reconhecer a ocorrência de prescrição aquisitiva" (e-STJ fl. 1.088).
+Afirma que, "inexistindo comprovação da posse qualificada, como a realização de obras ou serviços de caráter produtivo no imóvel, inaplicável o prazo decenal" (e-STJ fl. 1.091).
+No agravo (e-STJ fls. 1.273/1.284), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.289/1.295).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 1.058/1.059):
+A narrativa contida na inicial, aliada às provas produzidas nos autos, restou comprovado, de maneira uníssona, pelos documentos carreados na inicial, bem como pela prova testemunhal, cujos depoimentos e informes estão acima sintetizados pelo magistrado sentenciante, que a autora está no imóvel, com animus de dono, há mais de vinte anos, todavia, referida prova restou uníssona tão somente no local em que está construída a sua residência e a plantação existente - lotes 01, 02, 03 e 04 da quadra 444, aliado ao auto de constatação de f. 865.
+No tocante aos demais lotes, em especial o lote 05 da quadra 444 - onde está localizado um canil - como a própria requerente informa em seu depoimento pessoal - não há qualquer menção sobre referidos lotes na prova produzida nos autos, não sendo possível afirmar, de forma cristalina, a existência de posse em referidos lotes. Além do mais, o simples fato de existir cerca nos terrrenos, por si só, não é capaz de ensejar a aquisição de propriedade.
+ ..
+Desta feita, de acordo com as testemunhas e a própria constatação realizada pelo Oficial de Justiça, restou comprovado apenas de forma cristalina e suficiente a ocupação dos lotes 01, 02, 03 e 04 da quadra 444.
+Modificar o entendimento do acórdão impugnado quanto ao preenchimento dos requisitos para o reconhecimento da usucapião sobre o imóvel em questão demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por fim, este Tribunal tem entendimento no sentido de que a incidência da Súmula n. 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+Ante o exposto, NEGO PROVIMENTO ao agravo de FERNANDO CEZAR DOS SANTOS FILHO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
