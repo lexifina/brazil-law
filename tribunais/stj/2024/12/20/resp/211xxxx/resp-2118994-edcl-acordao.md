@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PREVIDÊNCIA PRIVADA. REGIME DE CUSTEIO. DIREITO ADQUIRIDO. INEXISTÊNCIA. CARÁTER ESTATUTÁRIO DO PLANO. CONTRIBUIÇÕES EXTRAORDINÁRIAS. POSSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ACIR VASSALLO VIDAL E OUTROS ao acórdão da Terceira Turma assim ementado:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CARACTERIZAÇÃO. PREVIDÊNCIA PRIVADA. REGIME DE CUSTEIO. DIREITO ADQUIRIDO. INEXISTÊNCIA. CARÁTER ESTATUTÁRIO DO PLANO. CONTRIBUIÇÕES EXTRAORDINÁRIAS. POSSIBILIDADE. BUSCA DO EQUILÍBRIO FINANCEIRO E ATUARIAL DO FUNDO PREVIDENCIÁRIO. RESULTADO DEFICITÁRIO. ÔNUS DE PATROCINADORES, PARTICIPANTES E ASSISTIDOS. MUTUALIDADE. DECADÊNCIA ADMINISTRATIVA. AFASTAMENTO.
+1. Não há falar em negativa de prestação jurisdicional nos embargos declaratórios, a qual somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento a respeito de questão que deveria ser decidida, e não foi.
+2. Cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide, embora não no sentido pretendido pela parte. Inexistência de nulidade do acórdão recorrido por deficiência de motivação, sobretudo se foram abordados todos os pontos relevantes da controvérsia.
+3. É assegurada ao participante que tenha cumprido os requisitos para obtenção dos benefícios previstos no plano a aplicação das disposições regulamentares vigentes na data em que se tornou elegível a um benefício de aposentadoria. Todavia, disso não decorre nenhum direito adquirido a regime de custeio, o qual poderá ser alterado a qualquer momento para manter o equilíbrio atuarial do plano, sempre que ocorrerem situações que o recomendem ou exijam, obedecidos os requisitos legais.
+4. O resultado deficitário nos planos ou nas entidades fechadas será suportado por patrocinadores, participantes e assistidos, devendo o equacionamento ser feito, dentre outras formas, por meio do aumento do valor das contribuições, instituição de contribuição adicional ou redução do valor dos benefícios a conceder, observadas as normas estabelecidas pelo órgão regulador e fiscalizador (art. 21, § 1º, da Lei Complementar nº 109/2001).
+5. Na hipótese, o art. 61, § 2º, do Regulamento do plano previdenciário dos autores (Plano BD Eletrobrás) - que isentava de responsabilidade os assistidos "blindados" na cobertura de futuros e eventuais déficits atuariais - foi declarado ilegal e inconstitucional, tanto que foi modificado, de modo que tal norma não pode ser utilizada para amparar a pretensão autoral.
+6. Tanto o STJ quanto o STF possuem jurisprudência firmada no sentido de que a decadência quinquenal prevista no art. 54 da Lei nº 9.784/1999 não se aplica em casos de flagrante inconstitucionalidade.
+7. Agravo interno não provido" (e-STJ fls. 3.221/3.228).
+Nas presentes razões (e-STJ fls. 726/729), os embargantes sustentam a existência de omissão no aresto embargado no que tange à responsabilidade da patrocinadora pelo déficit criado, tendo em vista o fechamento do plano e, ainda, a migração dos ativos com oferecimento de novo plano.
+Aduzem a ocorrência de omissão quanto ao benefício auferido pelas patrocinadoras pelos atos praticados.
+Apontam omissão no que se refere a alegada afronta à tutela da confiança e ao venire contra factum proprium praticado, ante a imposição, em 2020, de contribuições extraordinárias. Nesse contexto, destacam que o acórdão ora embargado, ao chancelar tal ação, violou os arts. 442 do Código Civil e 23 e 24 da LINDB.
+Afirmam que o acórdão restou omisso no que refere ao art. 202, §3º, parte final, da Constituição Federal, cujas disposições são restritas às contribuições normais, não abarcando, assim, às de natureza extraordinária.
+Impugnação aos embargos à e-STJ fl. 3.270.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PREVIDÊNCIA PRIVADA. REGIME DE CUSTEIO. DIREITO ADQUIRIDO. INEXISTÊNCIA. CARÁTER ESTATUTÁRIO DO PLANO. CONTRIBUIÇÕES EXTRAORDINÁRIAS. POSSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+De fato, o acórdão embargado não padece de nenhum dos vícios ensejadores dos declaratórios enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+No caso dos autos, os ora embargantes alegam omissão do julgado "ao não avaliar a responsabilidade civil e contratual das EMBARGADAS pelo déficit criado ante o (i) fechamento do plano pela Patrocinadora e (ii) migração dos ativos com oferecimento de novo plano, os dois fatos absolutamente incontroversos e devidamente prequestionados na origem" e "não abordar como as específicas ações das Patrocinadoras as beneficiaram" (e-STJ fls. 3.243/3.245).
+Pleiteiam ainda a integração do acórdão "para abordar a questão relacionada a violação à tutela da confiança e ao venire contra factum proprium por parte das EMBARGADAS ao imporem "contribuições extraordinárias" em fevereiro de 2020, modificando conduta praticada pelas partes desde 2006 até 2019" (e-STJ fl. 3.246).
+Defendem, por fim, que "o Texto Constitucional, ao instituir a paridade contributiva, apenas alude à contribuição normal, não fazendo menção à contribuição extraordinária" (e-STJ fl. 3.257).
+A respeito dos aludidos pontos, o aresto embargado foi cristalino ao assentar a regularidade das contribuições extraordinárias impostas:
+"No mais, impende asseverar que, pelo regime de capitalização, o benefício de previdência complementar será decorrente do montante de contribuições efetuadas e do resultado de investimentos, podendo haver, no caso de desequilíbrio financeiro e atuarial do fundo, superávit ou déficit, a influenciar os participantes do plano como um todo, já que pelo mutualismo serão beneficiados ou prejudicados, de modo que, nessa última hipótese, terão que arcar com os ônus daí advindos.
+É certo que é assegurada ao participante que tenha cumprido os requisitos para obtenção dos benefícios previstos no plano a aplicação das disposições regulamentares vigentes na data em que se tornou elegível a um benefício de aposentadoria. Todavia, disso não decorre nenhum direito adquirido a regime de custeio, o qual poderá ser alterado a qualquer momento para manter o equilíbrio atuarial do plano, sempre que ocorrerem situações que o recomendem ou exijam, obedecidos os requisitos legais.
+É por isso que o resultado deficitário nos planos ou nas entidades fechadas será suportado por patrocinadores, participantes e assistidos, devendo o equacionamento "ser feito, dentre outras formas, por meio do aumento do valor das contribuições, instituição de contribuição adicional ou redução do valor dos benefícios a conceder, observadas as normas estabelecidas pelo órgão regulador e fiscalizador" (art. 21, § 1º, da Lei Complementar nº 109/2001).
+Nesse sentido, os seguintes precedentes:
+ ..
+Na espécie, a instituição de contribuição extraordinária ocorreu na forma legal, tendo sido precedida de estudos técnico-financeiros supervisionados pelo Órgão
+Regulador do setor (Previc).
+Logo, por imposição legal (norma cogente), não procede a pretensão de que as contribuições extraordinárias devam ser suportadas exclusivamente pela patrocinadora.
+Ressalta-se que o art. 61, § 2º, do Regulamento do plano previdenciário dos autores (Plano BD Eletrobrás) - que isentava de responsabilidade os assistidos "blindados" na cobertura de futuros e eventuais déficits atuariais - foi declarado ilegal e inconstitucional, tanto que foi modificado, de modo que tal norma não pode ser utilizada para amparar a pretensão autoral.
+Por outro lado, não há que se falar em decadência da Administração para a
+declaração de ilegalidade do § 2º do art. 61 do Regulamento PBDE, porquanto tal dispositivo estatutário afronta regra constitucional (art. 202, § 3º, da CF).
+Nesse contexto, tanto o STJ quanto o STF possuem jurisprudência firmada no sentido de que a decadência quinquenal prevista no art. 54 da Lei nº 9.784/1999 não se aplica em casos de flagrante inconstitucionalidade" (e-STJ fls. 3.223/3.226).
+O excerto acima colacionado evidencia, de maneira clara, a insubsistência dos vícios lançados nos presentes embargos de declaração, tendo em vista que, repisa-se, "não procede a pretensão de que as contribuições extraordinárias devam ser suportadas exclusivamente pela patrocinadora" (e-STJ fl. 3.226).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+Desse modo, o cotejo das razões de decidir com o quanto alegado na petição dos embargos de declaração evidencia a inexistência das omissões aventadas, a afastar possibilidade de manejo dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no artigo 1.026, § 2º, do Código de Processo Civil será aplicada.
+É o voto.
