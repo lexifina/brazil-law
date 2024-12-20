@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravos interpostos das decisões que inadmitiram os recursos especiais que se insurgiram contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim ementado (fl. 2.814):
+APELAÇÃO CÍVEL  AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA  PRESTAÇÃO DE SERVIÇOS MÉDICOS  FUNDAÇÃO HOSPITALAR DE SAÚDE  SERVIDOR QUE RECEBEU A RESPECTIVA REMUNERAÇÃO E HORAS EXTRAORDINÁRIAS SEM CUMPRIMENTO DA JORNADA LABORAL E DAS HORAS EXTRAS  RECEBIMENTO INDEVIDO DE VERVAS REMUNERATORIAS NOS ANOS DE 2010 E 2011  ALEGAÇÃO DE NULIDADE DA SENTENÇA POR ILIQUIDEZ, PRESCRIÇÃO QUINQUENAL E  DO INEXISTÊNCIA POSSIBILIDADE DO DELITO DE APURAÇÃO VALOR A SER RESSARCIDO EM LIQUIDAÇÃO PRECEDENTE DE SENTENÇA  DO STJ  NÃO OCORRÊNCIA DA PRESCRIÇÃO - DOLO COMPROVADO INSCULPIDA NO  HIPÓTESE ART. 9º, XI, DA LEI 8.429/92 INCISO  PENALIDADES  ART. 12, I, DA LIA  PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE  GRADAÇÃO DA SANÇÃO  MANUTENÇÃO DA SENTENÇA  RECURSO CONHECIDO E IMPROVIDO  POR MAIORIA.
+Os embargos de declaração opostos pelo réu foram rejeitados (fls. 2.837/2.839).
+Opostos novos embargos, foram acolhidos, em acórdão assim ementado (fl. 2.850):
+Embargos de Declaração - Alegação de omissão. Modificações na Lei nº 8429/92 pela Lei nº14230/21. Perda da função pública atinge apenas o vínculo de mesma qualidade e natureza que o agente público detinha com o poder público na época do cometimento da infração. Inteligência do artigo 12, §1º, da Lei 14230/21. Conhecimento e Provimento do recurso. Decisão Unânime.
+Nas razões de seu recurso especial (fls. 2.855/2.880), THIAGO FRANCISCO DO NASCIMENTO, alega, além do dissídio jurisprudencial, o seguinte:
+(I) ofensa aos 489, §1º, e 1.022, Incisos I, II e III, do Código de Processo Civil (CPC), apontando negativa da prestação jurisdicional em razão do não exame dos argumentos apresentados nos embargos de declaração opostos;
+(II) violação dos arts. 1º, §2º, e 9º, XI, da Lei 8.429/1992 (LIA), afirmando inexistir dolo na sua conduta, bem como não estar comprovado nos autos o efetivo dano e o enriquecimento ilícito.
+Nas razões de seu recurso especial (fls. 2.961/2.975), o MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE, ofensa ao art. 12, 1, §1º, da LIA, sustentando que o acórdão não poderia deixar de estender a perda da função pública aos demais vínculos que o réu possui com a administração pública.
+A parte adversa apresentou contrarrazões (fls. 1.710/1.731).
+Os recursos não foram admitidos na origem (fls. 3.021/3.033 e 3.036/3.073), razão da interposição dos presentes agravos.
+Contraminuta às fls. 1.846/1.858.
+O Ministério Público Federal apresentou parecer (fls. 3.245/.3250).
+É o relatório.
+A questão debatida no recurso especial do Ministério Público do Estado de Sergipe, qual seja, a ofensa ao artigo 12, parágrafo 1º, da LIA, que prevê que a perda da função pública atinge apenas o vínculo de mesma qualidade e natureza do agente com o poder público no momento da prática do ato, encontra-se pendente de apreciação pelo Supremo Tribunal Federal, nos autos da Ação Direta de Inconstitucionalidade 7236/DF, de relatoria do Ministro Alexandre de Moraes, que deferiu medida liminar para suspender a eficácia da daquela norma.
+Por medida de economia processual e para evitar decisões divergentes entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos de temas similares em curso neste Tribunal foram baixados para aguardar na Corte de origem a solução da ADI 7236/DF, viabilizando, assim, o juízo de conformação nos termos dos arts. 1.039 e 1.040 do Código de Processo Civil (CPC), aplicados por analogia.
+Somente após tal providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Tribunal para a análise das questões jurídicas nele suscitadas e que não ficarem prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC, aplicados por analogia, prejudicado o exame dos agravos em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
