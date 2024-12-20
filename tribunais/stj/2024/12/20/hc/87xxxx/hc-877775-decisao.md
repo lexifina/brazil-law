@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TIAGO LAZARO DE SOUZA E SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, em virtude da apelação criminal nº 1.0024.12.276294- 1/002.
+Consta dos autos que o paciente foi sentenciado à pena de 17 anos de reclusão pela prática do crime previsto no art. 121, §2º, incisos I e IV, c/c art. 29, ambos do Código Penal. A apelação defensiva foi parcialmente provida quanto ao paciente, para reduzir a sua pena para 15 anos de reclusão.
+Nesta via, o impetrante alega, em síntese, que a condenação lastreou-se apenas em elementos oriundos do inquérito policial, em violação ao art. 155 do CPP.
+Argumenta que o testemunho indireto não é apto à comprovação da autoria delitiva e requer, liminarmente, a suspensão do cumprimento da condenação. No mérito, pugna pela a submissão do paciente a novo Júri.
+Acórdão do Tribunal impetrado, às fls. 39/47.
+Decisão que indeferiu a liminar, às fls. 55/56.
+Informações prestadas pelo Tribunal impetrado, às fls. 69/86.
+Parecer do MPF, às fls. 89/91, onde se manifesta pela denegação da ordem.
+É o relatório. Decido.
+Segunda informação constante nos autos, à fl. 69, o acórdão contra o qual se insurge o impetrante foi julgado em sessão realizada em 17/03/2021, sem que tenha sido interposto recurso por nenhuma das partes, com a consequente baixa definitiva em 15/06/2021.
+Observa-se, portanto, que o impetrante busca se valer do remédio heroico como sucedâneo de revisão criminal, o que não se mostra cabível. Sobre o tema, transcrevo recente precedente desta Turma da minha relatoria, nos seguintes termos:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. SUBSTITUIÇÃO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. AGRAVO DESPROVIDO.
+(..) 4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substituto de revisão criminal e se há ilegalidade flagrante que justifique a concessão da ordem de ofício.
+5. O habeas corpus não pode ser utilizado como substituto de revisão criminal, conforme jurisprudência consolidada do STJ.
+(AgRg no HC 946074 / PR, Rel. Ministro Messod Azulay Neto, Quinta Turma, Julgado em 22/10/2024)
+Também não vislumbro a presença de ilegalidade flagrante que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654, do Código de Processo Penal.
+Isto porque é possível verificar que ao Tribunal apontado como autoridade coatora foi possível reconhecer e elencar os elementos utilizados no âmbito da sessão de julgamento pelo Júri que levaram à condenação do paciente.
+Do acórdão oriundo do Tribunal impetrado é possível extrair os seguintes fundamentos que embasaram a decisão que deu provimento parcial ao apelo do paciente:
+"Não merece prosperar a pretensão do réu Tiago Lázaro de ver cassada a decisão dos jurados, uma vez que o veredicto, ao contrário do que foi por ele alegado, encontra pleno suporte na prova coligida. Na verdade, a negativa de autoria por parte do referido acusado é que afronta as evidências constantes dos autos. Conforme se extrai dos depoimentos das testemunhas civis ouvidas nos autos, colhidos no inquérito, os autores do homicídio que vitimou R.M.S. foram Tiago (vulgo "Touro"), Vair e Arayane, estes agindo em concurso com o corréu Richard (vulgo "ZN")  este último falecido no curso do processo. A propósito, merecem destaque os seguintes depoimentos: ( ) Há, ainda, os depoimentos das testemunhas Ana Paula Martins de Souza (fls. 49/50) e Dione Marques Manhago Silva (fls. 55/58), dando conta de que a vítima vinha sendo ameaçada de morte pelo apelante Vair e pelo corréu Richard (Z6i), em virtude das dívidas relacionadas ao tráfico. Em Plenário, o policial Wesley Regis Teixeira ratificou o depoimento que prestara durante o juízo de formação da culpa, esclarecendo que elucidaram o crime através de parentes da vítima, em especial por intermédio da testemunha Camila, cunhada do ofendido. Segundo ele, os acusados, à exceção de Arayane, estavam envolvidos com a criminalidade e eram de altíssima periculosidade. Vair, à época, era o "patrão" da região. Neste cenário, a despeito das declarações da corré Arayane em Plenário, atribuindo a autoria do homicídio ao seu falecido companheiro Richard, os demais elementos coligidos estão a respaldar a decisão dos jurados. Saliente-se, por oportuno, que Arayane, interrogada em Plenário, após atribuir o crime ao seu falecido marido (também assassinado) verbalizou o seu temor de também sofrer represálias por parte dos acusados, o que certamente não passou despercebido aos jurados. Neste cenário, mostra-se inviável a cassação do veredicto."
+Pelos trechos transcritos, é possível concluir que, ao revés do apontado pela defesa, a condenação não se baseou apenas nos elementos colhidos na fase investigativa, mas também se valeu dos relatos testemunhais colhidos sob o crivo do contraditório.
+Ademais, como bem apontado no parecer do MPF, não cabe ao Tribunal de origem, tampouco a este Tribunal Superior se substituir à apreciação realizada no âmbito do Tribunal do Júri, instituto soberano no julgamento dos crimes dolosos contra a vida, nos termos da Constituição Federal.
+Não há dúvida, portanto, que o acórdão impetrado foi proferido com lastro nos elementos probatórios existentes nos autos, razão pela qual deve ser mantido.
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
