@@ -1,0 +1,12 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por JHENNIFER FERREIRA DA SILVA - presa preventivamente pela prática, em tese, do crime de tráfico de drogas (Ação Penal n. 5004322-77.2024.8.13.0396) - contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus n. 1.0000.24.473708-6/000), não comporta provimento.
+Com efeito, busca a recorrente a revogação da prisão cautelar ao argumento de nulidade da prisão em flagrante, em razão da busca domiciliar efetivada com base em denúncia anônima e sem fundada suspeita.
+É o relatório.
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+No caso dos autos, a Corte local, ao afastar a alegação de violação de domicílio, considerou que a Polícia recebeu notícias anônimas dando conta de que no terceiro andar da residência situada na Avenida JK, número 139, estaria ocorrendo intenso tráfico de drogas, e que a responsável pela mercancia era uma moça de nome Jhennifer. De posse das informações, os Militares montaram campana no local e observaram, durante algum tempo, intensa movimentação de usuários. Que,  a to contínuo, abordaram um agente que "confirmou que estaria ali para comprar maconha" da pessoa conhecida como Jhennifer. Assim, foram até a residência da paciente e realizaram buscas, logrando êxito em localizar drogas, materiais comumente utilizados na mercancia e um sistema de monitoramento de câmeras (fl. 219 - grifo nosso).
+Alcançar conclusão inversa, uma vez evidenciada a existência da indicação de fundadas suspeitas do cometimento de crime no recinto - após denúncia anônima, seguida de prévia campana e abordagem por policiais militares, um agente confirmou estar no local para comprar maconha -, demandaria reexame de provas, inviável na via estreita.
+Em face do exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. REALIZAÇÃO DE CAMPANA PRÉVIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
