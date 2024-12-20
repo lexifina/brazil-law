@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por RAFAELA BARALDI SACARDO contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 0000063-76.2018.8.26.0557.
+Consta dos autos que a agravante foi condenada, em primeiro grau, à pena de 10 (dez) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 1.632 (mil seiscentos e trinta e dois) dias-multa, no valor mínimo unitário, como incursa nos arts. 33 e 35, ambos c/c art. 40, VI, todos da Lei n. 11.343/2006 (e-STJ fls. 1.019/1.020).
+O Tribunal de origem negou provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fls. 1.278/1.279):
+Tráfico de entorpecentes e associação para fins de tráfico Pretensão de aguardar o recurso em liberdade Julgamento da apelação Pedido prejudicado;
+Tráfico de entorpecentes e associação para fins de tráfico Prisão em flagrante por guarda municipal Possibilidade Art. 144, § 8º, da Constituição Federal regulamentado pela Lei nº 13.022/2014 Crime, ademais, permanente, que autoriza a prisão por qualquer pessoa Inteligência do art. 301, do Código de Processo Penal Ingresso em residência Mandado judicial Desnecessidade Preliminar rejeitada;
+Tráfico de entorpecentes e associação para fins de tráfico Situação de flagrante Análise dos dados contidos no celular de uma das acusadas Autorização judicial Prova necessária ao esclarecimento dos fatos e que não se subordina aos ditames da Lei nº 9.296/96 Nulidade inexistente Preliminar rejeitada;
+Tráfico de entorpecentes Prisões em flagrante Apreensão de maconha e cocaína nas residências dos envolvidos Denúncias apontando o tráfico praticado por todos eles Depoimento dos guardas seguros, coerentes e sem desmentidos Ausência de motivos para duvidar da veracidade dessas palavras Responsabilidade penal dos apelantes bem comprovada Condenação mantida;
+Associação para o tráfico Prova que indica o ajuste prévio, permanente e estável para a prática de tráfico entre os acusados Delito bem comprovado Sentença mantida;
+Tráfico de entorpecentes e associação para fins de tráfico Envolvimento de adolescentes bem demonstrado Qualificadora do art. 40, inciso VI, da Lei de Drogas Ocorrência;
+Tráfico de drogas e associação para fins de tráfico Pena Aplicação do redutor do § 4º do art. 33 da Lei de Drogas Incompatibilidade Substituição da pena privativa de liberdade por restritivas de direitos Impossibilidade Regime prisional fechado Gravidade do crime, equiparado aos hediondos Cabimento Detração Matéria a ser aferida pelo juízo das execuções;
+Justiça Gratuita Requisitos para o deferimento Matéria a ser avaliada pelo juízo das execuções, quando os acusados serão chamados a satisfazer a obrigação e que foge aos limites do recurso Recursos parcialmente providos para redução das penas impostas
+A defesa interpôs embargos de declaração (e-STJ fls. 1.495/1.497), que foram rejeitados (e-STJ fl. 1.505):
+Embargos de declaração - Acórdão que analisou as questões colocadas nos autos  Condenação decretada com base nas provas colhidas  Inexistência de manifestação acerca da possibilidade de cumprimento de pena em regime domiciliar em relação a uma das embargantes  Omissão  Ocorrência  Embargos parcialmente acolhidos, com a rejeição dos demais.
+Interposto recurso especial, com fulcro no art. 105, III, a e c, da Constituição Federal, a defesa alegou violação aos arts. 155, § único e 157, § 1º, ambos do Código de Processo Penal; aos arts. 59 e 60, ambos do Código Penal e ao art. 42 da Lei n. 11.343/2006.
+Afirmou que a condenação se baseia em provas ilícitas, na medida em que a decisão que deferiu a quebra de sigilo telefônico foi proferida de ofício, em sede de audiência de custódia e sem a devida fundamentação. Requereu, assim, a declaração de nulidade das provas.
+Subsidiariamente, pretendeu a redução da pena-base do delito de tráfico ao mínimo legal, aduzindo não ser justificado o aumento em razão da quantidade e natureza das drogas apreendidas. Ainda, pugnou pelo afastamento da causa especial de aumento de pena prevista no art. 40, VI, da Lei n. 11.343/2006.
+O recurso especial foi inadmitido (e-STJ fls. 1.583/1.585).
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices elencados (e-STJ fls. 1.701/1.703 ).
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada (e-STJ fls. 1.768/1.776).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo não conhecimento ou desprovimento do agravo em recurso especial (e-STJ fls. 1.822/1.824).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+Acerca da decisão que deferiu a quebra de sigilo telefônico, assim pontuou o Tribunal de origem (e-STJ fls. 1.286/1.287):
+Da mesma forma não há como aceitar o argumento da Defesa, no sentido de que a condenação foi baseada em prova ilícita, uma vez que inexiste qualquer ilegalidade a ser reconhecida no que se refere à quebra do sigilo telefônico para apuração dos dados telefônicos dos celulares das corrés Rafaela e Érica.
+Isso porque, esta ação foi regularmente determinada e autorizada pela decisão judicial de fls. 58/61, mas ainda que assim não fosse, havia informações de que os acusados estavam praticando o tráfico, tanto que foi apreendida relevante quantidade de entorpecentes em sua guarda.
+Nessa situação, tem-se como razoável a providência adotada nos autos, principalmente porque a situação já estava aperfeiçoada e, por outro lado, o Código de Processo Penal determina que logo que se tenha conhecimento da pratica de infração penal, devem ser colhidas todas as provas que servirem para o esclarecimento do fato e suas circunstâncias (art. 6º, inciso III), de modo que não há falar em prova ilícita.
+Ademais, violação de sigilo de comunicação telefônica não se confunde com verificação de dados previamente gravados em aparelho de comunicação, como já definiram os Tribunais Superiores.
+Do trecho transcrito, verifico que o Tribunal de origem, no acórdão recorrido, de forma fundamentada, ressaltou que a quebra de sigilo merecia acolhimento, pois necessária para a completa apuração das condutas criminosas sob investigação, ante a informação de que os acusados estavam associados para o cometimento do delito de tráfico. Ainda, pontuou que não se trata de interceptação telefônica, mas sim de quebra de sigilo de dados.
+No que tange à causa de aumento de pena prevista no art. 40, VI, da Lei n. 11.343/2006, o acórdão recorrido consignou ter ficado devidamente comprovado que a prática delitiva pela recorrente envolveu adolescentes, cujos documentos comprobatórios da idade foram juntados aos autos (e-STJ fl. 1.298):
+Observe-se que a causa de aumento do art. 40, inciso VI, da Lei nº 11.343/06 ficou bem demonstrada, pois, como se viu, a conduta dos réus envolveu os adolescentes Paulo Henrique Rodrigues Cizina e Matheus Ricato, que tinham respectivamente 16 e 17 anos de idade na época dos fatos (fls. 11 e 13/14), circunstância suficiente à caracterização da qualificad ora.
+Por outro lado, a análise acerca da imprescindibilidade da quebra de sigilo, bem como sobre a participação de adolescente implica revolvimento fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7/STJ.
+Entretanto, em relação ao delito de tráfico, o Tribunal a quo manteve a exasperação da pena-base em 1/6 ao argumento de que "foi apreendida relevante quantidade de entorpecentes variados, que serviria para abastecer um número inestimável de consumidores, com consequências devastadoras para a sociedade" (e-STJ fl. 1.299).
+Pois bem, no momento da fixação da reprimenda dos crimes abarcados pela Lei n. 11.343/2006, o julgador deve valorar, com preponderância sobre as demais circunstâncias judiciais, a natureza e a quantidade da droga, de acordo com o que dispõe o art. 42 da referida lei.
+Conforme consta da denúncia, houve a apreensão total de 25,87 gramas de cocaína e 115,19 gramas de maconha.
+Todavia tenho que a quantidade apreendida não é significativa e, por isso, não tem força para justificar o aumento da pena-base.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. INVIABILIDADE. CONDENAÇÃO FUNDAMENTADA IDONEAMENTE. DOSIMETRIA. PENA-BASE. ANTECEDENTES. CONDENAÇÕES ANTERIORES. ART. 28 DA LEI N. 11.343/2006. NÃO CONFIGURAÇÃO. SÚMULA N. 444 DO STJ. QUANTIDADE E NATUREZA DA DROGA. MINORANTE. TRÁFICO PRIVILEGIADO. NÃO RECONHECIMENTO. HABITUALIDADE CRIMINOSA. REGIME INICIAL. SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PERDIMENTO DE BENS. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+3. Não obstante a natureza do entorpecente apreendido seja adotada de alto poder viciante, se a quantidade apreendida foi inexpressiva, no caso ora analisado - 2,56 g de crack -, mostra-se manifestamente desproporcional sopesar tais circunstâncias para justificar a exasperação da pena-base. Do contrário, qualquer agente que fosse apreendido com cocaína, ainda que com uma porção com peso de 1 g, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+ ..
+7. Agravo regimental parcialmente provido, apenas para redimensionar a pena do agravante para 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa.(AgRg no AgRg no AREsp 1605930/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2020, DJe 13/05/2020, grifei).
+Tomando as considerações alhures, passo ao redimensionamento da pena do delito de tráfico.
+A pena-base fica estabelecida no mínimo, qual seja, 5 anos de reclusão.
+Na segunda fase, permanece a pena inalterada.
+No terceiro estágio, reconhecida a majorante do art. 40, VI, da Lei n. 11.343/2006, na fração de 1/6, alcança a pena o patamar de 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, que fica assim definitivamente estabelecido, já que inexistentes outras majorantes ou minorantes.
+Mantido, no mais, o acórdão recorrido.
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
+ EMENTA
