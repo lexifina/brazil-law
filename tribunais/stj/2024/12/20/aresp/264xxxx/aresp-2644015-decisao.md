@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo de ROGERIO DE PAULA DA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1500166-74.2023.8.26.0608.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157, § 1º, do Código Penal (roubo com violência logo depois de subtraída a coisa), à pena de 4 anos e 8 meses de reclusão, em regime inicial fechado, e 11 dias-multa (fl. 192).
+Recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"Apelação - Roubo impróprio - Sentença condenatória - Recurso defensivo - Alegação de ilicitude da prova trazida aos autos consistente nas imagens das câmeras do circuito interno do supermercado - Tese de que a aludida prova teria sido juntada aos autos após o encerramento da instrução - Nulidade inexistente - Prova requerida pela própria defesa - Certidão contendo o link de acesso ao arquivo de mídia disponibilizada no mesmo dia da audiência de instrução, debates e julgamento - Defesa que nada requereu na fase do art. 402 do Código de Processo Penal, tampouco impugnou a aludida prova em alegações finais - Prejuízo, ademais, não demonstrado - Mérito - Autoria e materialidade comprovadas - Réu que subtraiu, para si, coisas alheias móveis, mediante emprego de violência física contra segurança do estabelecimento comercial, a fim de assegurar a impunidade do crime - Versão exculpatória trazida pelo apelante isolada nos autos e totalmente infirmada pelo conjunto probatório - Palavra da vítima e depoimento da testemunha que constituem elemento seguro de prova - Prova oral corroborada pelas imagens extraídas das câmeras de segurança do supermercado - Inexistência de violação ao disposto no art. 155, do Código de Processo Penal - Desclassificação do crime de roubo impróprio para o delito de furto - Inviabilidade - Emprego de violência - Circunstância elementar do tipo - Crime impossível - Incorrência - Mecanismos de vigilância (físicos ou eletrônicos) que apenas atrapalham a ação dos criminosos, não impedindo, de modo absoluto, a ocorrência do delito - Dosimetria bem aplicada - Pena-base fixada em 1/6 acima do mínimo legal, em razão dos maus antecedentes - Pena inalterada nas etapas seguintes - Confissão qualificada - Atenuante não reconhecida - Regime inicial fechado adequado - Gravidade concreta do crime e circunstâncias judiciais desfavoráveis que constituem circunstâncias aptas a recrudescer o regime prisional, em detrimento apenas do quantum de pena aplicada - Sentença mantida - Recurso não provido." (fl. 297).
+Em sede de recurso especial (fls. 317/350), a defesa apontou violação ao art. 59 do CP, porque o TJSP manteve a valoração negativa dos maus antecedentes, apesar do registro ser de crime praticado em 2004. Destaca que o afastamento da vetorial negativa enseja regime menos gravoso.
+Em seguida, apontou violação ao art. 156 do CPP, porque mantida a condenação, embora não comprovada a prática delitiva, pois inexistente o dolo.
+Adiante, apontou violação ao art. 157, § 1º, do CP, porque não houve roubo impróprio, mas tentativa de fuga, razão pela qual deve ser desclassificada a conduta para furto tentado.
+No próximo tópico, apontou violação aos art. 17 do CP, porque não reconhecido crime impossível. Ainda, indicou violação ao art. 155 do CPP porque inexistente prova judicial para amparar a condenação, inexistindo evidências de autoria e materialidade.
+Requereu a absolvição, a desclassificação, a redução da pena-base ao mínimo legal e o regime aberto, com substituição da pena privativa de liberdade por restritivas de direitos.
+Contrarrazões (fls. 354/363).
+O recurso especial teve seguimento negado no tocante ao pleito absolutório por crime impossível e foi inadmitido no TJSP quanto ao restante em razão de: a) óbice da Súmula n. 283/STF; b) ausência de prequestionamento; e c) óbice da Súmula n. 7 do (fls. 366/370).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 373/396).
+Contraminuta (fls. 425/428).
+Agravo interno contra negativa de seguimento foi desprovido (fls. 439/443).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do agravo recurso especial (fls. 460/461).
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+De plano, o recurso especial não deve ser conhecido para a tese de crime impossível, consoante negativa de seguimento.
+Sobre a violação aos arts. 155 e 156, ambos do CPP, e 157, § 1º, do CP, o Tribunal paulista manteve a condenação nos seguintes termos do voto do relator:
+"A versão exculpatória trazida pelo apelante está isolada nos autos e restou totalmente infirmada pelo conjunto probatório.
+A vítima G. M. R., segurança do supermercado, em ambas as etapas da persecução penal, confirmou os fatos descritos na denúncia.  ..
+As declarações da vítima G. M. R. foram reforçadas pelo depoimento da testemunha A. E. M. E., o qual reiterou que o réu foi abordado do lado de fora do supermercado.  ..
+Outrossim, as imagens extraídas das câmeras de segurança do supermercado (link de fls. 138), são inequívocas quanto à dinâmica dos fatos, que se coaduna com as versões trazidas pela vítima e pela testemunha de acusação.
+ ..
+Salienta-se que as aludidas imagens infirmam a versão apresentada pelo réu no sentido de que foi abordado antes de sair pela porta do supermercado; de que ao ser abordado, de pronto, se dispôs a pagar pela mercadoria subtraída e não ofereceu resistência ou agrediu os seguranças; de que foi abordado por quatro seguranças; de que foi desapossado do capacete antes de ingressar na sala reservada do supermercado; de que na aludida sala, recebeu um "mata-leão" e foi "espancado".
+Ressalta-se que antes de empreender a segunda fuga, o réu estava em pé na sala, solto, acompanhado de apenas um segurança, que estava distante e chega a dar às costas para ele, o que possibilitou sua fuga do local, devendo ser ressaltado que o réu não interrompeu a fuga voluntariamente, inclusive, deu um golpe, com os pés, no segurança que, todavia, conseguiu detê-lo.
+Aliás, a agressão relatada pela vítima está em consonância com a fotografia e com o laudo de lesão corporal, que atestou a presença de "escoriação linear na região malar direita com 04 cm de extensão" (fls. 22 e 50/51).
+De outra parte, a testemunha de defesa L. R. A. de O. que disse já ter trabalhado com o réu não presenciou os fatos e seu depoimento também está dissonante do conjunto probatório, inclusive, da versão apresentada pelo próprio réu, que mencionou ter sofrido apenas "um soco", ao passo que a testemunha disse ter presenciado o segurança dando "três a quatro murros" na barriga do réu. Não bastasse, afirmou que o réu, durante a segunda fuga, parou voluntariamente, o que foi rechaçado pelas imagens mencionadas.
+Cabe salientar que o artigo 155, "caput", do Código de Processo Penal veda, como regra, que a condenação seja fundamentada "exclusivamente nos elementos informativos colhidos na investigação" (g. n.), porém não há óbice algum a que os elementos de informação sejam valorados em cotejo com as provas produzidas na ação penal, tal como no caso em apreço.
+Outrossim, inviável a pretensão defensiva de desclassificação do delito de roubo impróprio para furto tentado, porquanto este somente se caracteriza quando a subtração de bens não envolve violência ou grave ameaça à pessoa. No caso em apreço, houve efetiva inversão da posse dos bens subtraídos e o apelante buscou assegurar a impunidade do crime mediante emprego de violência contra os seguranças do estabelecimento comercial." (fls. 301/304).
+Extrai-se do trecho acima que a acusação comprovou de forma suficiente a imputação delitiva para fins de condenação, inclusive com elementos produzidos na fase judicial para corroborar os angariados na fase policial, sendo que a conduta configurou roubo impróprio.
+De fato, para se concluir de modo diverso seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça. No mesmo sentido, citam-se precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE ROUBO IMPRÓPRIO. DESCLASSIFICAÇÃO. EMPREGO DE GRAVE AMEAÇA CONTRA A VÍTIMA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consuma-se o delito de roubo impróprio quando o agente emprega grave ameaça contra a vítima, visando assegurar a posse de bem subtraído.
+2. "A pretensão de simples reexame de prova não enseja Recurso Especial" (Súmula n. 7 do STJ).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.705.250/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 9/12/2020, DJe de 14/12/2020.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO IMPRÓPRIO. ART. 157, § 1º, DO CP. DESCLASSIFICAÇÃO PARA O CRIME DE FURTO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Rever o entendimento externado pelas instâncias ordinárias, para afastar as elementares do crime de roubo impróprio (art. 157, § 1º, do CP), implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 718.983/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/3/2016, DJe de 28/3/2016.)
+Sobre a violação ao art. 59 do CP, o TJSP manteve os maus antecedentes nos seguintes termos do voto do relator:
+"Passa-se à dosimetria. Na primeira fase, a pena- base foi fixada em 1/6 acima do mínimo legal, qual seja, 4 anos e 8 meses de reclusão e 11 dias-multa, em razão dos maus antecedentes (fls. 150/153), o que encontra respaldo no artigo 59 do Código Penal, tendo o i. Magistrado fundamentado a exasperação nos seguintes termos:
+ ..
+ ..
+Salienta-se que o C. Supremo Tribunal Federal já decidiu que não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal (Tema de Repercussão Geral nº 150), devendo ser ressaltado que as condenações pretéritas não podem ser consideradas desimportantes, pois revelam a recalcitrância do apelante na prática de delitos patrimoniais, de modo que o recorrente acabou sendo beneficiado com o módico incremento da pena-base no patamar de 1/6. " (fls. 307/308).
+Extrai-se do trecho acima que os maus antecedentes foram mantidos em razão dos registros na certidão de fls. 150/153.
+Compulsando a referida certidão, tem-se que as penas do agravante foram extintas em 24/4/2013, em razão de decisão de 28/5/2012, pela concessão do indulto natalino. Por seu turno, o presente delito foi cometido em 5/5/2023, quando já ultrapassados 10 anos da extinção da punibilidade.
+Destarte, consoante entendimento desta Corte, devem ser afastados os maus antecedentes. Precedente:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS TRANSNACIONAL. ART. 33, CAPUT, C/C ART. 40, I, DA LEI N. 11.343/06. EXASPERAÇÃO DA PENA-BASE. NATUREZA E QUANTIDADE DE SUBSTÂNCIA ENTORPECENTE APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. PLEITO PARA QUE SEJA APLICADA A CAUSA DE DIMINUIÇÃO CAPITULADA NO ART. 33, § 4º, DA LEI N. 11.343/06. IMPOSSIBILIDADE. MAUS ANTECEDENTES DO RÉU. CONDENAÇÕES CONSIDERADAS PELO TRIBUNAL DE ORIGEM QUE NÃO SÃO ANTIGAS. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+ ..
+2. "A jurisprudência desta Corte entende que condenações definitivas atingidas pelo período depurador de 5 anos não podem ser usadas para fins de reincidência, mas podem ser sopesadas para exasperar a pena-base a título de maus antecedentes, caso não atingidas pelo lapso temporal de 10 anos entre a extinção da pena e o cometimento da nova infração" (AgRg no HC n. 904.040/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+ ..
+3. Agravo regimental conhecido e desprovido.
+(AgRg no AREsp n. 2.414.048/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024.)
+Passo a refazer a dosimetria da pena.
+Na primeira fase, fica a pena no mínimo legal de 4 anos e 10 dias-multa.
+Na segunda fase, ausentes agravantes e atenuantes.
+Na terceira fase, ausentes causas de aumento e de diminuição, torno definitiva a pena da primeira.
+Quanto ao regime, fixo o aberto, em atenção ao disposto no art. 33, § 2º, "c", do CP.
+Descabida a substituição da pena privativa de liberdade por restritivas de direitos em razão da violência empregada.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, com fundamento na Súmula n. 568 do STJ, dar-lhe provimento para afastar os maus antecedentes, ficando a pena definitiva em 4 anos de reclusão, em regime inicial aberto, e 10 dias-multa.
+Publique-se. Intimem-se.
+EMENTA
