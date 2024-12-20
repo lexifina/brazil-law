@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto por LOG & PRINT GRAFICA, DADOS VARIAVEIS E LOGISTICA S.A., com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO Execução de título extrajudicial Penhora de direitos - Opção de compra de ações - Preclusão - Inocorrência - Recurso que não ataca a constrição propriamente dita, mas a possibilidade de exercício do direito de compra de ações pela credora - Questão decidida pela decisão impugnada - Impossibilidade - Direito que depende do respectivo exercício por seu titular - Exequente que poderá se beneficiar das opções exercidas pelo devedor, mas não exercer tal direito em seu lugar Decisão reformada Recurso provido." (e-STJ fl. 163).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 179/184).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 489, § 1º, IV, do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação;
+(ii) art. 1.022, II, e parágrafo único, II, do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, especialmente a alegação de que as garantias pessoais não têm o condão de modificar a natureza do crédito residual;
+(iii) art. 10 do Código de Processo Civil - porque o Tribunal de origem proferiu decisão surpresa, pois manteve a extraconcursalidade integral do crédito com base em fundamento que jamais foi ventilado;
+(iv) art. 49, § 3º, e 161, § 1º, da Lei nº 11.101/2005 - porque a garantia ordinária não tem o condão de atribuir natureza extraconcursal ao crédito. Cita o Enunciado 51 da I Jornada de Direito Comercial do CJF.
+Contrarrazões às e-STJ fls. 213/224.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Com efeito, conforme se colhe dos autos, a recorrente incluiu parte do crédito do recorrido como concursal, sob a alegação de que o valor da avaliação dos bens dados em garantia estaria desatualizado, de modo que não seria mais suficiente para cobrir a integralidade do crédito.
+O Juiz de primeiro grau deu provimento à impugnação apresentada pelo BNDES, consignando:
+"(..)
+Ademais, tampouco há se considerar a avaliação produzida unilateralmente pela impugnada de sorte a estabelecer uma espécie de corte do montante que poderia ser considerado quirografário, uma vez que em sendo a recuperação extrajudicial espécie de acordo a ser supervisionado pelo magistrado apenas no aspecto da legalidade, caberia somente ao próprio credor com garantia real aceitá-la ou não justamente em decorrência da natureza negocial do instituto, o que não se deu na espécie" (e-STJ fl. 56 - grifou-se).
+Nos subsequentes embargos de declaração, o Juiz de primeiro grau acrescentou:
+"(..)
+Em relação ao ponto dois de mencionados embargos, em que pese toda a fundamentação jurídica trazida, inclusive com menção a precedentes, o certo é que, em análise mais acurada, a tese ventilada não se sustenta por três motivos: 1) há expressa norma reconhecendo o caráter extraconcursal do crédito da embargada; 2) o presente caso se trata de recuperação extrajudicial, em que os envolvidos entabulam acordo em auxílio à recuperanda, não se podendo impor aos credores não abrangidos pelo plano amigável os efeitos da respectiva recuperação (o que, em verdade, é desejado pela recuperanda desde o início do feito); 3) até o presente momento, a embargada não tomou qualquer iniciativa judicial para a retomada dos bens, de sorte que não se realizarão as famigeradas retomada e venda e, destarte, não se terá como "decotar" eventual montante que venha a sobejar a alienação, não se aplicando, por óbvio, os entendimentos colacionados pela embargante, inclusive as ementas e o enunciado" (e-STJ fl. 58 - grifou-se)
+O agravo de instrumento interposto pela ora recorrente não foi provido, destacando-se do acórdão o seguinte excerto:
+"(..)
+Subsumindo-se o entendimento retro ao caso em tela, verifica-se que, no contrato de financiamento firmado entre as partes, aposto às fls. 135/162, ratificado pelos aditivos de fls. 163/175 e 176/197, todos nos autos da impugnação de origem, especificamente às Cláusulas Sexta e Décima Terceira que, além da garantia advinda da propriedade fiduciária, houve a subscrição de dois fiadores, quais sejam, os senhores ARISTEU BATISTA e ANTÔNIO JOSÉ DE ALMEIDA CARNEIRO, que anuíram para com a responsabilização solidária do valor total do contrato, até o final de sua liquidação.
+Percebe-se que, desde o início da contratação, as agravantes concordaram com a extensão abrangente da garantia, não podendo agora rever seu posicionamento a respeito da matéria.
+Nesse cenário, em razão da previsão contratual da garantia, reitero, no valor total das prestações contratadas, não se aplica o enunciado 51 da I Jornada de Direito Comercial do CJF.
+(..)
+Dessarte, estando o saldo de crédito completamente coberto pela garantia, não há que se falar em consideração de parcela quirografária, restando escorreita a decisão que considerou a extraconcursalidade integral do crédito." (e-STJ fls. 165/167 - grifou-se)
+Como se verifica do trecho transcrito, a Corte de origem, na realidade, considerou que o valor do contrato estava totalmente coberto pela garantia fiduciária, não podendo agora a devedora querer rever o valor da garantia, modificando seu posicionamento a respeito da matéria.
+Tanto é assim que cita, em sequência, acórdão que acolhe a tese segundo a qual os créditos, ainda que não performadas as garantias fiduciárias (recebíveis), são considerados integralmente garantidos.
+Assim, com a devida venia, a intepretação que a recorrente quer dar ao acórdão, no sentido de que a garantia pessoal é que teria sido considerada para concluir pela extraconcursalidade do crédito, não parece a correta.
+O Tribunal de origem reiterou que a dívida "em razão da previsão contratual da garantia, reitero, no valor total das prestações contratadas", estava totalmente coberta pelos bens dados em garantia, não restando demonstrada a falha na prestação jurisdicional, nem tampouco a existência de decisão surpresa.
+De todo modo, antes de ser consolidada a propriedade fiduciária com a subsequente venda do bem não há como dizer, como quer a recorrente, que parcela do crédito é extraconcursal. Somente depois da alienação é que o saldo em aberto estará submetido aos efeitos da recuperação judicial, conforme reiterada jurisprudência desta Corte.
+Confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. GARANTIA PRESTADA POR TERCEIRO. ALIENAÇÃO FIDUCIÁRIA. PRECEITO CONSTITUCIONAL. EXAME. INVIABILIDADE. ENTENDIMENTO DOMINANTE. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É extraconcursal o crédito garantido por alienação fiduciária, embora oferecido o bem por terceiros, não sendo necessária a identificação pessoal do fiduciante ou fiduciário com o bem imóvel ofertado em garantia ou com a própria recuperanda.
+2. No REsp nº 1.953.180/SP não houve a modificação do entendimento jurisprudencial de que o crédito garantido por alienação fiduciária detém natureza extraconcursal. Na verdade, a Terceira Turma consignou que será extraconcursal, nos limites do valor do bem objeto da garantia, de modo que eventual saldo devedor superior ao montante do bem terá natureza concursal.
+3. É inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+4. Malgrado a literalidade da dicção legal do art. 932, V, do NCPC, esta Corte Superior já se manifestou no sentido de que a interpretação sistêmica do Código recomenda uma exegese ampliativa da norma, de modo a autorizar o julgamento monocrático dos recursos com amparo na existência de orientação jurisprudencial dominante.
+5. A apreciação do tema pelo órgão colegiado no agravo interno supera eventual nulidade da decisão singular.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido".
+(AgInt no AREsp n. 1.810.708/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023 - grifou-se)
+"CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO JUDICIAL. JUÍZO DA EXECUÇÃO DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DEVEDOR FIDUCIANTE EM RECUPERAÇÃO JUDICIAL. CONSOLIDAÇÃO DA PROPRIEDADE PELO FIDUCIÁRIO. VENDA DO BEM. EXTINÇÃO DA PROPRIEDADE FIDUCIÁRIA. VALOR ARRECADADO INSUFICIENTE PARA O PAGAMENTO DA DÍVIDA. SALDO DEVEDOR. NATUREZA QUIROGRAFÁRIA. SATISFAÇÃO DO REMANESCENTE DA DÍVIDA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. A princípio, o credor titular da posição de proprietário fiduciário de bem móvel ou imóvel não se submete aos efeitos da recuperação judicial, consoante disciplina o art. 49, § 3º, da Lei 11.101/2005.
+2. Porém, no caso dos autos, o bem alienado fiduciariamente em garantia já foi objeto de apreensão judicial e adjudicado ao exequente, com a consolidação da propriedade e sua posterior alienação.
+3. Desse modo, o presente conflito de competência é circunscrito à definição do Juízo perante o qual devem prosseguir os atos tendentes à satisfação do remanescente do crédito derivado de contrato de alienação fiduciária em garantia, visto que a consolidação da propriedade do bem dado em garantia, e sua consequente e necessária alienação, não foi suficiente para a quitação integral da dívida.
+4. Segundo a doutrina e os precedentes específicos desta Corte, no caso de alienação fiduciária em garantia, consolidada a propriedade e vendido o bem, o credor fiduciário ficará com o montante arrecadado, desaparecendo a propriedade fiduciária. Eventual saldo devedor apresenta natureza de dívida pessoal, devendo ser habilitado na recuperação judicial ou falência na classe dos credores quirografários.
+5. Conflito conhecido para declarar competente o Juízo da Recuperação Judicial".
+(CC nº 128.194/GO, relator Ministro Raul Araújo, Segunda Seção, julgado em 28/6/2017, DJe de 1/8/2017 - grifou-se)
+Vale transcrever trecho do voto proferido no julgamento do REsp nº 1.953.180/SP:
+"(..)
+Diante disso, é possível concluir que o que diferencia o credor garantido por alienação fiduciária dos demais credores é a propriedade do bem alienado em garantia. Assim, é o objeto da garantia que traça os limites da extraconcursalidade do crédito.
+Em outras palavras, se a alienação do bem dado em garantia for suficiente para quitar o débito, extingue-se a obrigação. Por outro lado, se o valor apurado com a venda do bem não for bastante para extinguir a obrigação, o restante do crédito em aberto não mais poderá ser exigido fora da recuperação judicial do devedor, pois não mais existirá a característica que diferenciava o credor titular da posição de proprietário fiduciário dos demais" (grifou-se).
+Nesse contexto, não é possível estabelecer discussões prévias acerca da avaliação do bem com a finalidade de submeter o crédito, ou parcela dele, aos efeitos da recuperação judicial.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
