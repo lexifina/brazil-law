@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado por Nissin Foods do Brasil Ltda., em face de decisão que inadmitiu o recurso especial de fls. 828/858, interposto em face de acórdão proferido pelo órgão colegiado local em juízo de adequação ao tema de repercussão geral, resumido pela seguinte ementa (fl. 809):
+JUÍZO DE RETRATAÇÃO Retorno dos autos determinada pela E. Presidência da Seção de Direito Público para a realização do juízo de conformidade com o entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE nº 628.075/RS (Tema 490/STF) O estorno proporcional de crédito de ICMS efetuado pelo Estado de destino, em razão de crédito fiscal presumido concedido pelo Estado de origem sem autorização do Conselho Nacional de Política Fazendária (CONFAZ), não viola o princípio constitucional da não cumulatividade - Acórdão que se encontra em consonância com o mencionado precedente - Desnecessidade de retratação/adequação - Manutenção do v. acórdão.
+É O BREVE RELATO. SEGUE A FUNDAMENTAÇÃO.
+Passo ao julgamento do apelo raro de fls. 828/858.
+Há muito restou consolidado no STJ o entendimento de que "Na sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009" (Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011).
+Essa mesma intelecção é aplicável ao caso em tela, devendo-se ter como inadmissível a interposição de novo recurso especial contra o acórdão de adequação a repercussão geral proferido pelo Tribunal Local.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. NOVO RECURSO ESPECIAL. NÃO CABIMENTO. MANDADO DE SEGURANÇA. CARÁTER NORMATIVO. JUROS DECORRENTES DE INADIMPLEMENTO DE CONTRATO. IMPOSTO DE RENDA PESSOA JURÍDICA - IRPJ. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. INCIDÊNCIA. PRECEDENTE DA PRIMEIRA SEÇÃO DO STJ.
+1. Há muito restou consolidado no STJ o entendimento de que " n a sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009" (Questão de Ordem no Ag n. 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011).
+2. Inadmissível a interposição de novo recurso especial contra o acórdão de adequação a repetitivo proferido pelo Tribunal local. Nesse sentido: AgInt no AREsp n. 2.073.120/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/10/2023.
+3. A via mandamental não se presta à obtenção de sentença preventiva genérica aplicável a todos os casos futuros da mesma espécie. A propósito: AgInt no AREsp n. 1.648.130/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 19/4/20224; e AgInt no RMS n. 58.652/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/12/2019.
+4. A Primeira Seção deste STJ firmou a orientação de que incidem o IRPJ e a CSLL nos juros de mora decorrentes do inadimplemento de contratos por possuírem a natureza de lucros cessantes. Precedente:
+AgInt nos EREsp n. 1.523.149/RS, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 1º/12/2023.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.469.588/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 12/9/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo (fls. 983/1.007) .
+Publique-se.
+EMENTA
