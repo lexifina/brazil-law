@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 11ª VARA CÍVEL DO RIO DE JANEIRO (RJ) e o JUÍZO DE DIREITO DA 21ª VARA CÍVEL DE BRASÍLIA (DF).
+Inicialmente, o JUÍZO DE DIREITO DA 21ª VARA CÍVEL DE BRASÍLIA (DF) declinou de sua competência argumentando que (fls. 18-19):
+Consoante se observa da inicial a parte requerente, subscritora do contrato, possui sede em Juazeiro do Norte-CE e a parte ré no Rio de Janeiro-RJ, contudo os autores, sob alegação de eleição de foro, distribuíram o processo perante o Juízo de Brasília-DF.
+Com efeito, o caput do art. 63 do CPC prevê que "As partes podem modificar a competência em razão do valor e do território, elegendo foro onde será proposta ação oriunda de direitos e obrigações".
+No caso vertente, valendo-se dessa disposição legal, as partes convencionaram cláusula de eleição de foro nos contratos celebrados entre elas, ID nº 167854284, Pág. 10, nº 167854288, Pág. 10, nº 167854290, Pág. 4, nº 167854294, Pág. 3, nº 167856847, Pág. 3, nº 167856851, Pág. 3, nº167856856, Pág. 3, nº 167856857, Pág. 4, nº 167856862, Pág. 11 e nº 167856870, Pág. 3.
+Ocorre que o §3º do mesmo art. 63 do CPC estabelece a possibilidade de que o magistrado, ao verificar a abusividade da cláusula de eleição de foro, declare de ofício a sua ineficácia, remetendo os autos ao Juízo competente para processar e julgar o feito, nos seguintes termos: "Antes da citação, a cláusula de eleição de foro, se abusiva, pode ser reputada ineficaz de ofício pelo juiz, que determinará a remessa dos autos ao juízo do foro de domicílio do réu".
+Assim, embora o enunciado da Súmula 33 do c. STJ disponha que "A incompetência relativa não pode ser declarada de ofício", em caso de cláusula de eleição de foro abusiva, a própria legislação processual possibilita que o magistrado a afaste de ofício.
+Em verdade, constata-se que, a despeito de as partes terem eleito o foro de Brasília-DF para julgar ações decorrentes do contrato celebrado entre elas, a escolha por demandar neste Tribunal parece ter sido feita de forma aleatória, mormente considerando que nenhuma das partes possui qualquer vínculo com o Distrito Federal.
+A cláusula que elege foro aleatório e injustificado é abusiva, pois não é lastreada em nenhum critério legal de definição de competência, em violação ao Juiz Natural e à organização judiciária.
+ ..
+Ante o exposto, declaro a invalidade da cláusula de eleição de foro por abuso de direito, reconheço a incompetência absoluta deste Juízo e determino a remessa do processo a uma das Varas Cíveis do Rio de Janeiro-RJ. Remeta-se os autos ao Juízo competente. I.
+Remetidos os autos, o JUÍZO DE DIREITO DA 11ª VARA CÍVEL DO RIO DE JANEIRO (RJ) suscitou o presente conflito defendendo que (fls. 8-11):
+Venho pelo presente ofício suscitar conflito negativo de competência nos autos da Ação de Tutela Cautelar Antecedente, em epigrafe, pelos seguintes motivos.
+Em que pese a r. decisão do Juízo suscitado, entendo, s. m. j., que nada obstante o aduzido, da inicial se verifica, com facilidade, que a demanda possui caráter contratual. Ademais, saliente-se, desde logo, que não se trata de demanda afeta ao direito do consumidor, sendo certo que, a despeito de se tratar de contrato de prestação de serviços, não se vislumbrou qualquer quebra de equilíbrio entre as Partes ou violação da isonomia hábil a justificar o afastamento da escolha licitamente levada a efeito pelo autor.
+ ..
+Por outro lado, a jurisprudência do Superior Tribunal de Justiça se orienta no sentido da validade da cláusula de eleição de foro em contratos, desde que ausente a hipossuficiência e/ou vulnerabilidade de uma das partes, bem como, não seja inviabilizado o acesso ao Poder Judiciário, sendo esta a hipótese dos autos, eis que ambas as partes são sociedades empresárias, inexistindo, pois, vulnerabilidade entre partes, devendo prevalecer o foro de eleição contratual.
+ ..
+Feitas tais considerações, não restou demonstrado que o Réu ostente condição de vulnerabilidade de modo a fazer jus à tutela prevista no Código de Defesa do Consumidor. Desinfluente, no caso, a diferença de capital das pessoas jurídicas envolvidas. É preciso que se justifique a impossibilidade de prover a própria defesa em pé de igualdade com a parte contrária por deficiência flagrante, pois, do contrário, o tratamento excepcional tornar-se-ia a regra.
+Acresça-se que o Réu não é uma Empresa Individual, nem uma Microempresa (ME), possuindo características que afastam a presunção de vulnerabilidade, apresentando uma estrutura organizacional incompatível com a hipossuficiência presumida.
+Assim, considerando o delineado, não se vislumbra qualquer prejuízo que o ajuizamento da ação, na Comarca eleita pelo Autor, pudesse trazer à defesa da requerida.
+Pelo exposto espera ver reconhecida a competência do Juízo suscitado.
+Parecer do MPF, às fls. 356-361, opinando pela competência do JUÍZO DE DIREITO DA 21ª VARA CÍVEL DE BRASÍLIA (DF).
+É, no essencial, o relatório.
+Em regra, é válida a cláusula de eleição de foro, firmada nos casos em que se evidencia a natureza tipicamente empresarial da relação jurídica existente entre as partes, inclusive na hipótese em que se discute a licitude do próprio contrato ou do negócio jurídico, cabendo ressaltar que "a mera desigualdade de porte econômico entre as partes não caracteriza hipossuficiência econômica ensejadora do afastamento do dispositivo contratual de eleição de foro" (AgRg no AREsp n. 201.904/MS, Relatora a Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/5/2014).
+Portanto, a princípio, não haveria razão para o afastamento da cláusula de eleição de foro, ante a ausência de quaisquer elementos que denotem a existência de desigualdade entre os contratantes, ou mesmo evidenciem a dificuldade dos réus em litigar no foro eleito.
+Contudo, o § 5º do art. 63 do CPC, incluído pela Lei n. 14.879/2024, dispõe que "o ajuizamento de ação em juízo aleatório, entendido como aquele sem vinculação com o domicílio ou a residência das partes ou com o negócio jurídico discutido na demanda, constitui prática abusiva que justifica a declinação de competência de ofício".
+No caso, conforme destacado pelo Juízo suscitado, "a escolha por demandar neste Tribunal parece ter sido feita de forma aleatória, mormente considerando que nenhuma das partes possui qualquer vínculo com o Distrito Federal " (fl. 19).
+Necessário reconhecer, nesse contexto, que se trata de escolha aleatória de foro.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 11ª VARA CÍVEL DO RIO DE JANEIRO (RJ).
+Comunique-se aos juízos suscitante e suscitado acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. ALEATORIEDADE. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO SUSCITANTE.
