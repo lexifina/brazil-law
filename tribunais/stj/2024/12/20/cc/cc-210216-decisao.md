@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo Federal da 10ª Vara Criminal de Brasília - SJ/DF em face do Juízo Federal da 5ª Vara Criminal do Rio de Janeiro - SJ/RJ.
+O conflito foi suscitado no bojo do Inquérito Policial nº 1071374-73.2023.4.01.3400, instaurado a partir de acordos de colaboração premiada firmados com Ricardo Pernambuco Júnior e Ricardo Pernambuco, que narram o pagamento por serviços de estudo e estruturação imobiliária com valores mantidos em contas estrangeiras, cuja remessa não fora declarada, indicando a possível ocorrência do delito do art. 22 da Lei 7.492/86.
+O Juízo suscitado (do RJ), acatando o pedido de declínio de atribuição do Ministério Público Federal e sem se pronunciar acerca da competência, determinou a remessa dos autos ao JUÍZO FEDERAL DA 10ª VARA CRIMINAL DE BRASÍLIA - SJ/DF, nos seguintes termos:
+A atuação do Judiciário, nesta fase pré-processual, somente se faz necessária para a adoção de medidas investigativas ou coercitivas sujeitas à reserva de jurisdição, o que não ocorre no caso.
+No caso, observa-se que não há qualquer medida cautelar vinculada a esta investigação e submetida à apreciação do juízo, tampouco pende manifestação de qualquer questão restrita à jurisdição.
+Assim, cuida-se aqui de declínio de atribuição do órgão do Ministério Público Federal que funciona neste juízo. Caso o membro do Ministério Público Federal destinatário do procedimento venha a suscitar conflito de atribuição, este será dirimido pelo Procurador-Geral da República (STF, ACO 924/PR, Relator: Min. Luiz Fux, Tribunal Pleno, julgado em 19/5/2016), em se tratando de membros do Ministério Público Federal, ou pelo Conselho Nacional do Ministério Público, se o conflito ocorrer entre membros do MPF e do MPE (STF, ACO 843/SP, Rel. para acórdão Min. Alexandre de Moraes, julgado em 5/6/2020).
+Intimem-se o Ministério Público Federal e a Polícia Federal para ciência.
+Em seguida, dê-se baixa na distribuição e remetam-se os autos, por meio de ofício, a 10ª Vara Federal Criminal de Brasília. Informe-se que não se trata de declínio de competência, mas exclusivamente de encaminhamento dos autos, para fins de registro naquele juízo, em razão do declínio de atribuição promovido pelo Ministério Público Federal no Rio de Janeiro.
+(e-STJ fl. 336 - negritei)
+Por sua vez, o Juízo suscitante (do DF) declarou-se incompetente afirmando existir conexão entre os fatos investigados no citado IP, instaurado pela Polícia Federal do Rio de Janeiro, com aqueles apurados no IP 0062092-76.2016.4.01.3400 e na Ação Penal n. 1016001-33.2018.4.01.3400, em curso na 10ª Vara Federal Criminal de Brasília.
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pelo não conhecimento do conflito, por entender que não houve judicialização bilateral da controvérsia.
+É o relatório. Decido.
+De acordo com o art. 118 do Código de Processo Civil de 1973, texto reproduzido no art. 953 do novo CPC (Lei 13.105/2015), o conflito de competência poderá ser suscitado pela parte, por petição que deverá ser instruída com documentos necessários à prova do conflito e à clara identificação das particularidades da controvérsia que possam influenciar na definição da competência de um Juízo em detrimento de outro.
+De registrar-se que a mesma exigência é feita no art. 114, I, do Código de Processo Penal:
+Art. 114. Haverá conflito de jurisdição:
+I - quando duas ou mais autoridades judiciárias se considerarem competentes, ou incompetentes, para conhecer do mesmo fato criminoso;
+Mostra-se, portanto, imprescindível a demonstração de que dois ou mais juízes se declararam competentes ou incompetentes para o julgamento do mesmo processo (AgRg no CC 113.767/DF, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 01/07/2011, DJe 14/10/2011). Isso porque a divergência de entendimento entre a parte e o magistrado que conduz a demanda sobre a sua competência para o julgamento da controvérsia não se resolve por meio do conflito de competência, mas, sim, por meio do recurso próprio que deve ser interposto a tempo e modo contra a decisão do julgador que rejeitar a alegação de sua incompetência absoluta.
+No caso concreto, como bem ponderou o parecer ministerial, "Não houve judicialização bilateral da controvérsia, porquanto o Juízo suscitado não se pronunciou acerca da sua competência, manifestando-se, apenas de que o conflito de atribuições deve ser dirimido pelo Ministério Público, tampouco o Suscitante devolveu os autos ao Suscitado na tentativa de se judicializar a controvérsia. Nesse contexto, não se identifica conflito a ser dirimido pelo Superior Tribunal de Justiça" (e-STJ fl. 730).
+Com efeito, na decisão do Juízo suscitado, ele deixa bem claro que "não se trata de declínio de competência, mas exclusivamente de encaminhamento dos autos, para fins de registro naquele juízo, em razão do declínio de atribuição promovido pelo Ministério Público Federal no Rio de Janeiro" (e-STJ fl. 336).
+Nesse sentido, entre outros, os seguintes precedentes:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE COMPETÊNCIA DA JUSTIÇA FEDERAL. AUSÊNCIA DE JUÍZOS CONFLITANTES. NÃO CONHECIMENTO. AGRAVO DESPROVIDO.
+1. Somente ha verá conflito de competência quando houver manifestação de dois órgãos jurisdicionais que se considerem competentes ou incompetentes para julgamento da mesma causa, o que não ocorreu na hipótese dos autos, em que não há manifestações conflituosas dos magistrados nesse sentido.
+2. A competência da Justiça Federal para julgamento de crime de tráfico de entorpecentes apenas se efetiva com a suficiente comprovação de seu caráter internacional, que foi afastado pelas instâncias ordinárias e não pode ser reconhecido nesta via sem vedado exame de provas.
+3. Agravo regimental desprovido.
+(AgRg no CC n. 198.039/MG, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 3/8/2023, DJe de 8/8/2023.)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA CRIMINAL. AUSÊNCIA DE MANIFESTAÇÃO DO SUPOSTO JUÍZO SUSCITADO. CONFLITO NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O conflito de competência existe quando dois ou mais juízos se declaram competentes (positivo), incompetentes (negativo) ou divergem sobre reunião de feitos.
+II - Na espécie, não há manifestação do Juízo Federal da Vara Cível e Criminal de Manhuaçu/MG, após a prolação da decisão de declínio de competência pelo Juízo de Direito da Vara de Paraopeba/MG, afirmando sua competência ou incompetência para o processamento e julgamento do MS nº 5002204-93.2021.8.13.0474 impetrado contra ato supostamente ilegal praticado por Delegado da Polícia Civil.
+III - Inexistindo efetivo conflito entre Juízos, nada há que ser decidido por esta Corte.
+Agravo regimental desprovido.
+(AgRg no CC n. 190.393/MG, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 14/12/2022, DJe de 19/12/2022.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DOS JUÍZOS SUSCITADOS. INEXISTÊNCIA DE CONFLITO. RECURSO DESPROVIDO.
+1. Nos termos do art. 114 do Código de Processo Penal, a configuração do conflito de competência, positivo ou negativo, reclama a manifestação de duas ou mais autoridades judiciárias declarando-se competentes ou incompetentes para o julgamento do feito, situação que não ocorre na espécie.
+2. No caso, pretende o agravante, que é réu na ação penal, ver reconhecida, na presente via, indevidamente, a competência da Justiça Militar. Tal intento, contudo, deve ser buscado nas vias adequadas.
+3. Agravo regimental desprovido.
+(AgRg no CC n. 186.653/SP, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 10/8/2022, DJe de 24/8/2022.)
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. INEXISTÊNCIA DE CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE JUDICIALIZAÇÃO BILATERAL DA CONTROVÉRSIA. INCIDENTE NÃO CONHECIDO.
+1. Para a configuração de conflito de competência é indispensável a judicialização bilateral da controvérsia, porquanto, nos termos do artigo 114 do Código de Processo Penal - CPP, dá-se conflito de competência, quando duas ou mais autoridades judiciárias se considerarem competentes, ou incompetentes, para conhecer do mesmo fato criminoso ou quando entre elas surgir controvérsia sobre unidade de juízo, junção ou separação de processos. Precedentes.
+2. No caso dos autos, o Ministério Público do Estado de Santa Catarina opinou pelo declínio de competência em favor da Justiça do Estado do Paraná. Todavia o Juízo de Direito do Estado de Santa Catarina, sem se pronunciar acerca da competência, entendeu que a questão deveria ser resolvida no âmbito do Ministério Público.
+Diante disso, os autos foram encaminhados para o Estado do Paraná, onde o Parquet daquela unidade federativa suscitou conflito negativo de atribuição e pleiteou o envio do feito à Procuradoria-Geral da República. Entretanto, a despeito do pedido ministerial, o Juízo de Direito o Estado do Paraná determinou o encaminhamento do feito ao Superior Tribunal de Justiça suscitando conflito de competência.
+3. Nesse contexto em que não houve manifestação de uma das autoridades judiciais acerca da competência, não se identifica conflito a ser dirimido pelo Superior Tribunal de Justiça.
+4. Conflito de competência não conhecido.
+(CC n. 171.100/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 14/10/2020, DJe de 16/10/2020.)
+Ante o exposto, com amparo no art. 34, XXII, do Regimento Interno do STJ (na redação dada pela Emenda Regimental n. 24/2016), não conheço do conflito.
+Dê-se ciência aos dois Juízos apontados como suscitado e suscitante.
+Intimem-se.
+EMENTA
