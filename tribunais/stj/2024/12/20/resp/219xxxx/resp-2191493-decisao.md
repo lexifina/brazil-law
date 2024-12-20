@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL da decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, que não admitiu o recurso especial dirigido contra o acórdão proferido nos autos da Apelação/Remessa Necessária n. 5001796-81.2019.4.02.5108/RJ, assim ementado (fl. 250):
+TRIBUTÁRIO. APELAÇÃO. REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. INDENIZAÇÃO DECORRENTE DE RESCISÃO DE CONTRATO DE REPRESENTAÇÃO COMERCIAL. CSLL, PIS E COFINS. NÃO INCIDÊNCIA.
+1. Trata-se de remessa necessária e recurso de apelação interposto pela UNIÃO FEDERAL/FAZENDA NACIONAL em face de sentença proferida pelo Juízo da 1ª Vara Federal de Niterói/RJ, que concedeu a segurança, confirmando a tutela liminar inicialmente deferida, para declarar o direito líquido e certo de a impetrante não sofrer a incidência da CSLL, do PIS e da COFINS, nos termos do artigo 70 da Lei 9.430/96, sobre os valores auferidos a título de indenização por reposição patrimonial pelo encerramento da relação comercial com a empresa Boston Scientific Do Brasil Ltda.
+2. A controvérsia cinge-se a verificar a incidência do PIS, Cofins e CSLL sobre a indenização percebida em razão do rompimento do contrato de representação comercial por parte da BOSTON SCIENTIFIC DO BRASIL LTDA.
+3. No caso em exame, os documentos juntados aos autos pela Impetrante são aptos para demonstrar seu direito líquido e certo de não sofrer incidência do PIS, Cofins e CSLL sobre a indenização percebida em razão do rompimento do contrato de representação comercial, razão por que é dispensável a dilação probatória, por certo, inadmissível na via estreita do mandado de segurança.
+4. A jurisprudência do STJ já se orientou no sentido de que que "não incide Imposto de Renda sobre a verba recebida em virtude de rescisão sem justa causa de contrato de representação comercial disciplinado pela Lei n. 4.886/65, porquanto a sua natureza indenizatória decorre da própria lei que a instituiu". No mesmo sentido, precedente desta Corte Regional: 0104287-29.2015.4.02.5001 (TRF2 2015.50.01.104287-3), Órgão julgador: 3ª TURMA ESPECIALIZADA, Data de decisão 04/05/2020, Relator MARCUS ABRAHAM.
+5. No que se refere à incidência ou não do PIS e da COFINS, o Supremo Tribunal Federal entende que "receita bruta e faturamento, para fins de definição da base de cálculo para a incidência do PIS e da COFINS, são termos equivalentes e consistem na totalidade das receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços, assim entendido como a soma das receitas oriundas do exercício das atividades empresarias típicas" (RE 776474 AgR/RS), por não se amoldar no conceito de receita a verba em discussão, em razão do seu caráter indenizatório, indevida é a cobrança do PIS e da COFINS. Seguindo o mesmo raciocínio, a verba em discussão não pode ser classificada como lucro, de modo que se afigura ilegítima a cobrança da CSLL. Precedentes.
+6. Ante o caráter indenizatório, indevida é a incidência do PIS e da COFINS e da CSLL sobre os valores oriundos da rescisão sem justa causa do contrato de representação comercial firmado com a Impetrante
+7. Remessa necessária e apelação da UNIÃO FEDERAL/FAZENDA NACIONAL desprovidas.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 291-293).
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte ora agravante aponta violação dos arts. 1.022, inciso II, do CPC, 1.º da Lei n. 10.637/2002, 1.º da Lei n. 10.833/2003, 12 do Decreto-Lei n. 1.598/1977 e 111 do CTN.
+Argumenta que o Tribunal a quo não apreciou todos os argumentos suscitados na origem, bem como aduz que "as verbas percebidas pelo recorrido face à rescisão imotivada de contrato de representação comercial, independente de sua natureza, constituem receita, por serem decorrentes de seu objeto social, devendo integrar a base de cálculo do PIS e da COFINS" (fl. 316).
+Não foram apresentadas contrarrazões.
+Não admitido o recurso pelo Tribunal de origem (fls. 349-350), seguiu-se o presente agravo em recurso especial (fls. 360-367).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 441-451).
+É o relatório.
+Decido.
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, no tadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Ante o exposto, CONHEÇO do agravo para, nos termos do art. 253, inciso II, alínea d, do RISTJ, determinar sua autuação como recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
