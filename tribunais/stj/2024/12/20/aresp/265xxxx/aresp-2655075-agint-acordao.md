@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL  E  CIVIL.  PROCESSUAL  CIVIL.  PROMESSA  DE  COMPRA  E  VENDA.  IMÓVEL  EM  CONSTRUÇÃO.  QUITAÇÃO.  BAIXA  DA  HIPOTECA.  ATRASO  INJUSTIFICADO.  DANO  MORAL.  OCORRÊNCIA.  REEXAME.  SÚMULAS  NºS  5  E  7/STJ.
+1.  O  longo  período  de  atraso  no  cumprimento  da  obrigação  contratual,  como  a  entrega  de  imóvel  ou  a  baixa  de  gravame,  é  capaz  de  gerar  dano  moral  passível  de  ser  reparado.
+2.  Na  hipótese,  alterar  a  conclusão  da  instância  ordinária  para  entender  que  o  dano  moral  não  restou  configurado  depende,  necessariamente,  da  interpretação  de  cláusula  contratual  e  do  reexame  dos  elementos  probatórios  constante  dos  autos,  prática  vedada  a  esta  Corte  por  força  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  p  or  SPE  AMÉRICAS  PROJETO  02  EMPREENDIMENTOS  IMOBILIÁRIOS  LTDA.  -  EM  RECUPERAÇÃO  JUDICIAL  e  JOÃO  FORTES  ENGENHARIA  S .A.  -  EM  RECUPERAÇÃO  JUDICIAL  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  (e-STJ  fls.  404/407).
+Em  suas  razões  (e-STJ  fls.  412/422),  as  agravante s  postulam  o  afastamento  dos  óbices  das  Súmulas  nºs  5  e  7/STJ,  ao  argumento  de  que
+"(..)  não  há  o  óbice  expresso  da  referida  súmula,  já  que  não  se  mostra  necessária  a  incursão  na  seara  fático-probatória  para  concluir-se  ter  havido  a  apontada  ofensa  aos  artigos  186  e  927  do  CC,  porque  o  acórdão  recorrido  declara  expressamente  que  o  dano  moral  faz-se  presente  pela  obrigação  contratual  inadimplida  (baixa  do  gravame  hipotecário  no  imóvel  além  do  prazo  acordado  entre  as  partes).
+Veja-se  que  o  acórdão  recorrido  entendeu,  de  forma  equivocada,  que  o  suposto  descumprimento  contratual  das  agravantes  teve  o  condão  de  causar  abalos  significativos  a  agravada.
+Todos  os  argumentos  expostos  no  acórdão  são  suficientes  para  o  Superior  Tribunal  de  Justiça  proferir  decisão  acerca  dos  danos  morais,  principalmente  por  se  afastar  do  entendimento  consolidado  pelo  Tribunal  Superior  de  que  MERO  INADIMPLEMENTO  CONTRATUAL  NÃO  CONFIGURA  DANO  MORAL".
+Aduzem  que  é  necessária  a  comprovação  de  circunstância  excepcional  para  que  o  dano  moral  seja  configurado  em  casos  de  inadimplemento  contratual.  E  que,  no  caso,  o  acórdão  manteve  a  condenação  das  agravantes  ao  pagamento  de  indenização  por  dano  moral  de  forma  presumida,  sem  esclarecer  ter  havido  circunstância  excepcional  que  comprove  efetiva  violação  da  personalidade  da  agravada.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  às  e-STJ  fls.  426/432,  postulando  a  majoração  dos  honorários  advocatícios  ao  patamar  máximo,  nos  termos  do  art.  85,  §§  1º,  2º  e  11  do  Código  de  Processo  Civil.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL  E  CIVIL.  PROCESSUAL  CIVIL.  PROMESSA  DE  COMPRA  E  VENDA.  IMÓVEL  EM  CONSTRUÇÃO.  QUITAÇÃO.  BAIXA  DA  HIPOTECA.  ATRASO  INJUSTIFICADO.  DANO  MORAL.  OCORRÊNCIA.  REEXAME.  SÚMULAS  NºS  5  E  7/STJ.
+1.  O  longo  período  de  atraso  no  cumprimento  da  obrigação  contratual,  como  a  entrega  de  imóvel  ou  a  baixa  de  gravame,  é  capaz  de  gerar  dano  moral  passível  de  ser  reparado.
+2.  Na  hipótese,  alterar  a  conclusão  da  instância  ordinária  para  entender  que  o  dano  moral  não  restou  configurado  depende,  necessariamente,  da  interpretação  de  cláusula  contratual  e  do  reexame  dos  elementos  probatórios  constante  dos  autos,  prática  vedada  a  esta  Corte  por  força  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Com  efeito,  como  consignado  na  decisão  agravada,  quanto  à  condenação  por  dano  moral,  é  certo  que  o  mero  inadimplemento  contratual  não  gera  o  dever  de  reparação.
+Contudo,  o  longo  período  de  atraso  no  cumprimento  da  obrigação  contratual,  como  a  entrega  de  imóvel  ou  a  baixa  de  gravame  (caso  dos  autos),  é  capaz  de  gerar  dano  moral  passível  de  ser  reparado.
+No  caso  em  apreço,  concluiu  o  tribunal  de  origem  que
+"(..)  o  inadimplemento  do  contrato  da  parte  ré,  qual  seja  o  atraso,  injustificado,  na  baixa  na  garantia  hipotecária,  por  certo,  inviabilizou  a  regularização  da  titularidade  do  imóvel  no  Cartório  de  RGI  -  Registro  Geral  de  Imóveis,  após  a  quitação  integral  do  preço,  restando  o  dever  de  indenizar  o  autor  pelos  danos  morais  experimentados.
+Isso  porque,  tem  natureza  objetiva  a  reponsabilidade  civil  da  parte  ré,  sendo  evidente  que  o  atraso  no  cumprimento  da  obrigação  que  assumira  acarretou  prejuízo  imaterial  ao  autor  que  teve  limitado  o  exercício  de  seu  direito  de  propriedade,  sendo  patente  o  dever  de  indenizar"  (e-STJ  fl.  317).
+Conforme  se  pode  constatar,  a  conclusão  do  tribunal  local  não  destoa  da  orientação  traçada  neste  tribunal,  o  que  atrai  a  incidência  do  enunciado  da  Súmula  nº  568/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NA  PET  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OBRIGAÇÃO  DE  FAZER  CUMULADA  COM  INDENIZATÓRIA.  ATRASO  NA  TRANSFERÊNCIA  DA  PROPRIEDADE  DE  IMÓVEL.  AUSÊNCIA  DE  BAIXA  DA  HIPOTECA.  DANOS  MORAIS  CONFIGURADOS.  AGRAVO  INTERNO  DESPROVIDO.
+1.  O  simples  inadimplemento  contratual,  em  razão  do  atraso  na  entrega  do  imóvel,  não  é  capaz,  por  si  só,  de  gerar  dano  moral  indenizável,  sendo  necessária  a  comprovação  de  circunstâncias  específicas  caracterizadoras  da  lesão  extrapatrimonial.
+2.  Na  hipótese,  as  instâncias  de  origem  apontaram  atraso  de  aproximadamente  dois  anos  no  cumprimento  da  obrigação  da  recorrente  em  proceder  à  transferência  da  propriedade  do  imóvel  objeto  da  lide  e  da  própria  baixa  da  hipoteca,  de  modo  que  a  frustração  da  legítima  expectativa  do  recorrido  extrapolou  o  mero  aborrecimento  resultante  do  descumprimento  contratual,  acarretando  significativa  violação  ao  direito  da  personalidade,  situação  que  comporta  a  compensação  por  danos  morais.  Precedentes.
+3.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  na  PET  no  AREsp  2.127.363/RJ,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  4/12/2023,  DJe  de  7/12/2023  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  VIOLAÇÃO  DO  ART.  1.022  DO  CPC.  PROMESSA  DE  COMPRA  E  VENDA.  ATRASO  DEMASIADAMENTE  LONGO  E  INJUSTIFICADO  NA  ENTREGA  DE  IMÓVEL.  DANOS  MORAIS  CONFIGURADOS.  SÚMULA  N.  7/STJ.
+1.  Inexiste  a  alegada  violação  dos  arts.  489  e  1.022  do  CPC  uma  vez  que  o  Tribunal  de  origem  se  manifestou,  de  forma  clara  e  fundamentada,  quanto  aos  pontos  alegados  como  omissos.
+2.  O  Superior  Tribunal  de  Justiça  possui  entendimento  no  sentido  de  que  o  mero  inadimplemento  contratual  não  causa,  por  si  só,  abalo  moral  indenizável,  mas  o  excessivo  atraso  na  entrega  de  unidade  imobiliária  enseja  compensação  por  dano  extrapatrimonial.  Precedentes.
+3.  A  revisão  da  matéria,  tanto  em  relação  a  caracterização  do  dano  moral  no  caso,  como  em  relação  ao  valor  arbitrado  para  a  indenização  ,  implica  o  imprescindível  reexame  das  provas  constantes  dos  autos,  o  que  é  defeso  na  via  especial,  ante  o  que  preceitua  a  Súmula  n.  7/STJ.
+Agravo  improvido"  (AgInt  no  AgInt  no  AREsp  2.205.837/RJ,  Rel.  Ministro  HUMBERTO  MARTINS,  Terceira  Turma,  julgado  em  26/2/2024,  DJe  de  29/2/2024  -  grifou-se).
+Registra-se,  ainda,  e  por  reforço  de  argumentação,  que  alterar  a  conclusão  da  instância  ordinária  para  entender  que  o  dano  moral  não  restou  configurado  depende,  necessariamente,  da  interpretação  de  cláusula  contratual,  bem  como  do  reexame  dos  elementos  probatórios  constante  dos  autos,  prática  vedada  a  esta  Corte  por  força  das  Súmulas  nºs  5  e  7/STJ.
+Não  prosperam,  portanto,  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
