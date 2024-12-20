@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Rio Grande do Sul, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local nos Embargos Infringentes e de Nulidade no Recurso em Sentido Estrito n. 5000369-65.2015.8.21.0019/RS (fls. 884/892):
+EMBARGOS INFRINGENTES. RECURSO EM SENTIDO ESTRITO. DECISÃO MINORITÁRIA QUE OPEROU DESCLASSIFICAÇÃO DO DELITO DESCRITO NA DENÚNCIA (HOMICÍDIO NA FORMA TENTADA) PARA COMPETÊNCIA DIVERSA DO TRIBUNAL DO JÚRI. VIABILIDADE. PROVAS DOS AUTOS NÃO SÃO SUFICIENTES PARA PRONÚNCIA. INEXISTÊNCIA DE VERTENTE PROBATÓRIA QUE SUSTENTA A ACUSAÇÃO POR TENTATIVA DE HOMICÍDIO. EMBARGOS INFRINGENTES ACOLHIDOS.
+Opostos embargos de declaração (fls. 901/910), não foram acolhidos (fls. 945/947):
+EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, AMBIGUIDADE, OU OBSCURIDADE NA DECISÃO EMBARGADA. NÃO VERIFICADA A OCORRÊNCIA DOS PRESSUPOSTOS PREVISTOS NO ARTIGO 619 DO CÓDIGO DE PROCESSO PENAL. INTENTO DE REDISCUSSÃO DE MATÉRIA DECIDIDA. ACLARATÓRIOS DESACOLHIDOS.
+O recurso especial suscita a violação dos arts. 74, § 1º, e 413, caput e § 1º, ambos do Código de Processo Penal, e 619 do Código de Processo Penal.
+Assevera o recorrente que, salvo em hipóteses excepcionais, ou seja, quando estreme de dúvida a inexistência do fato ou que o imputado não seja seu autor ou, ainda, que não esteja presente o elemento subjetivo do tipo, ao juiz não é lícito afastar a imputação, sob pena de usurpar competência do Tribunal do Júri (artigo 74, parágrafo 1º, do Código de Processo Penal) - fl. 960.
+Reforça que, considerando que a desclassificação se deu por maioria de votos, impede o Tribunal local de, simplesmente, adotar a solução mais favorável ao acusado e suprimir a competência da Corte Popular para o julgamento dos crimes dolosos contra a vida (fl. 961).
+Indica, também, que, considerando o antagonismo entre os votos condutor e vencido, é possível afirmar ser a versão acusatória, no mínimo, plausível, condição que autoriza a submissão dos acusados a julgamento pelo Tribunal Popular, sob pena de negativa de vigência aos artigos 74, §1º, e 413 do Código de Processo Penal; e de contrariedade ao artigo 419, caput, do Diploma Processual Penal, sendo impositiva sua pronúncia (fls. 966/967).
+Aponta, ainda, que, resulta manifesta a negativa de prestação jurisdicional, haja vista a persistência de omissões - mesmo após a oposição de embargos declaração - a respeito de pontos cruciais, cujo pronunciamento mostrava- se imprescindível à solução da controvérsia (fl. 968).
+Ao final da peça recursal, o MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL requer a admissão do presente Recurso Especial e, ao final, o seu integral provimento na Superior Instância para reformar a decisão do SEGUNDO GRUPO CRIMINAL do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, para pronunciar os réus, nos termos da denúncia (fl. 969).
+Oferecidas contrarrazões (fls. 976/987), o recurso especial foi admitido na origem (fls. 990/996):
+RECURSO ESPECIAL. HOMICÍDIO. TENTATIVA. PRONÚNCIA. DESCLASSIFICAÇÃO. ANIMUS NECANDI. VOTO DIVERGENTE. RECURSO ADMITIDO.
+O Ministério Público Federal opina pelo conhecimento e provimento da insurgência (fls. 1.014/1.018).
+É o relatório.
+A irresignação não merece prosperar.
+Extrai-se do voto condutor do acórdão dos embargos infringentes e de nulidade no recurso em sentido estrito o seguinte trecho, que revela o fundamento utilizado pela Corte gaúcha para lastrear a decisão de desclassificação da conduta dos recorridos (fl. 892 - grifo nosso):
+ .. , o contexto probatório não se mostra apto para demonstração do animus necandi dos acusados. A ausência de testemunhas oculares, assim como da versão da vítima, já que esta foi ouvida em juízo, fragibiliza a indicação de delito contra a vida.
+Neste cenário, reputo acertada a decisão de primeira instância, assim como endosso o entendimento esposado no voto vencido, de forma a acolher a tese de desclassificação do delito imputado na denúncia, para de competência diversa do tribunal do júri.
+ ..
+Como observado, a Corte de origem concluiu que o acervo probatório não era suficiente para amparar a pronúncia dos recorridos. Entender de forma diversa, como pretendido, demandaria necessariamente o reexame do conjunto fático-probatório, o que é vedado em recurso especial, a teor da Súmula 7/STJ.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AOS ARTS. 121, CAPUT, DO CP, 413, CAPUT, E § 1º, DO CPP. DECISÃO DO TRIBUNAL A QUO QUE DESCLASSIFICOU A CONDUTA DO ACUSADO DE HOMICÍDIO DOLOSO PARA CULPOSO. PLEITO DE RECLASSIFICAÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar se, ao final da primeira fase do procedimento escalonado do júri, há provas ou não para pronunciar, impronunciar, desclassificar ou absolver sumariamente o acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.371.867/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/6/2014 - grifo nosso).
+PENAL. PROCESSUAL PENAL. RECURSO ESPECIAL. HOMICÍDIO. DECISÃO DE IMPRONÚNCIA. AUSÊNCIA DE INDÍCIOS DE AUTORIA. REEXAME PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ. RECURSO NÃO CONHECIDO.
+1. É a pronúncia reconhecimento de justa causa para a fase do júri, com a presença de prova da materialidade de crime doloso contra a vida e indícios de autoria, não representando juízo de procedência da culpa.
+2. Caso em que a Corte de origem concluiu pela inexistência de indícios mínimos de autoria, notadamente porque os informantes ouvidos em juízo, além de não terem presenciado o fato, não souberam apontar os autores.
+3. Rever o entendimento da instância a quo, a fim de pronunciar o recorrido, implicaria o necessário reexame do contexto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+4. Recurso especial não conhecido.
+(REsp n. 1.494.211/RS, Ministro Rogério Schietti Cruz, Rel. p/ Acórdão Ministro Nefi Cordeiro, Sexta Turma, DJe 3/4/2018 - grifo nosso).
+Além disso, em contraponto ao quanto argumentando pelo recorrente, não compete ao STJ efetuar análise aprofundada desses e de outros elementos de prova, ao propósito de assentar qual das versões antagônicas há de prevalecer, visto que tal providência ensejaria revolvimento do acervo fático-probatório delineado nos autos, em afronta ao disposto na Súmula n. 7 desta Corte. (REsp n. 1.750.906/DF, Ministro Sebastião Reis Júnior, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2019 - grifo nosso).
+Por fim, não prospera a alegação de ofensa ao art. 619 do Código de Processo Penal, porquanto as controvérsias atinentes ao reconhecimento do animus necandi dos recorridos, foram devidamente analisadas pela instância ordinária.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL PENAL. HOMICÍDIO TENTADO. ACÓRDÃO. MANUTENÇÃO DA DECISÃO DE DESCLASSIFICAÇÃO. VIOLAÇÃO DOS ARTS. 74, § 1º, E 413, CAPUT E § 1º, AMBOS DO CPP. ALEGAÇÃO DE SUFICIÊNCIA DAS PROVAS DE AUTORIA E MATERIALIDADE PARA O RECONHECIMENTO DO ANIMUS NECANDI. DA PRESENÇA DE VERSÕES ANTAGÔNICAS. REVISÃO DO ENTENDIMENTO. NECESSIDADE. DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 619 DO CPP. ALEGAÇÃO DE PRESTAÇÃO JURISDICIONAL DEFICIENTE EM SEDE DE EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA.
+Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
