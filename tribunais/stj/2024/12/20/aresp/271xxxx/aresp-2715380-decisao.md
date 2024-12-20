@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por FIH DO BRASIL INDUSTRIA E COMÉRCIO DE ELETRÔNICOS LTDA. contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO REGIMENTAL Determinação para que a recorrente complemente o valor de preparo do seu recurso de apelação, com base na pretensão nele inserta. Reclama a recorrente que o valor a ser pago seria muito elevado, argumento que não porta consistência jurídica alguma e é totalmente contraditório com a pretensão recursal de substancial elevação da verba honorária sucumbencial fixada em sentença Complementação necessária, nos termos da regulamentação legal Recurso improvido. (e-STJ fl. 2.641).
+Nas razões do especial (e-STJ fls. 2.645/2.652), a parte recorrente aponta negativa de vigência dos arts. 85, § 2º, do CPC, 4º, § 2º, da Lei nº 11.608/2003, 15.855/2015, Comunicado 1.530/2021 da CGJ do Estado de São Paulo.
+Sustenta, em síntese, que
+"(..) O recurso de apelação possui, como alvo único, o arbitramento da verba honorária da sucumbência. O disposto no § 2º, do artigo 4º da Lei nº 11.608/2003 (que disciplina justamente a taxa judiciária no âmbito do E. TJSP) é claro e expresso ao determinar que o valor do preparo será calculado levando em conta o "valor fixado na sentença". (e-STJ fl. 2.650).
+Esclarece que a determinação de recolhimento do preparo do recurso com base no valor que pretendia receber, está totalmente contrária ao que determina a Lei 11.608/2003, Lei 15.855/2015 e o Comunicado 1.530/2021 da CGJ do Estado de São Paulo (anexos), pois a base de cálculo foi o quantum fixado pela sentença, que, no caso, foi de R$ 10.000,00 (dez mil reais).
+Sem as contrarrazões (e-STJ fls. 2.671), o recurso não foi admitido na origem, dando ensejo ao presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do especial.
+A irresignação não merece acolhida.
+Verifica-se que a questão acerca do recolhimento do preparo da apelação foi decidida pela Corte estadual mediante análise de legislação local. Assim, inviável a análise do ponto ante o óbice da Súmula nº 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. CUSTAS. IRREGULARIDADE. DESERÇÃO. SÚMULA Nº 280/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A irregularidade no recolhimento das custas implica deserção do recurso de apelação.
+3. Na hipótese, analisar a questão referente ao preparo da apelação interposta no tribunal de origem impõe a análise de legislação local, o que atrai a incidência da Súmula nº 280/STF. Precedentes.
+4. Agravo interno não provido" (AgInt no REsp n. 1.846.765/PA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022- grifou-se.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. DESERÇÃO APLICADA PELA CORTE LOCAL. PREENCHIMENTO DE CAMPO DE DOCUMENTO DE ARRECADAÇÃO DE RECEITAS ESTADUAIS - GARE.PROVIMENTO CG Nº 16/2012 DA CORREGEDORIA. NORMAS DE DIREITO LOCAL.
+IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. AGRAVO INTERNO NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no Código de Processo Civil de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A pretensão recursal esboçada no sentido da ofensa ao art. 511, § 2º, do CPC/73, por ter ocorrido o correto recolhimento e comprovação do preparo, demanda, na realidade, a análise do Provimento CG 16/2012 da Corregedoria de Justiça do Tribunal de Justiça de São Paulo, o que impede o trânsito do apelo nobre, conforme dispõe a Súmula nº 280 do STF. Precedentes.
+3. Em razão da improcedência do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Agravo interno não provido, com imposição de multa" (AgInt no REsp 1.702.833/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 05/6/2018, DJe 18/6/2018- grifou-se).
+"AGRAVO INTERNO. APELAÇÃO CONSIDERADA DESERTA PELA CORTE LOCAL.REGULARIZAÇÃO POSTERIOR À INTERPOSIÇÃO DO RECURSO. DESERÇÃO.PRECLUSÃO CONSUMATIVA. SÚMULA 280/STF. INCIDÊNCIA.
+1. O Superior Tribunal de Justiça possui tese consolidada, na Corte Especial e nas Seções Especializadas, no sentido de que a comprovação do preparo deve ser feita no ato de interposição do recurso, conforme determina o art. 511 do Código de Processo Civil de 1973, sob pena de preclusão, não se afigurando possível comprovação ou regularização posterior, ainda que o pagamento das custas tenha ocorrido dentro do prazo recursal.
+2. A análise da questão do preparo da apelação interposta no Tribunal de origem remete à análise de legislação local, qual seja, o Provimento da Corregedoria Geral da Justiça de São Paulo 33/2013, o que atrai a incidência da Súmula 280 do STF e impede o conhecimento do apelo extremo.
+3. Agravo interno não provido" (AgInt no REsp 1.727.664/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/05/2019, DJe 15/05/2019- grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO.EMBARGOS MONITÓRIOS. DIVERGÊNCIA JURISPRUDENCIAL. SIMPLES TRANSCRIÇÃO DE JULGADOS. SÚMULA N. 284 DO STF. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. APELAÇÃO. DIFERIMENTO DO PAGAMENTO DAS CUSTAS PARA O FINAL DO PROCESSO. PEDIDO FUNDAMENTADO EM LEI LOCAL. SÚMULAS N. 83 DO STJ E 280 DO STF. EMBARGOS DE DECLARAÇÃO OPOSTOS AO ACÓRDÃO RECORRIDO. CARÁTER PROTELATÓRIO.APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO.IMPOSSIBILIDADE. SÚMULA N. 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige que a parte comprove o dissídio mediante cotejo analítico entre o acórdão recorrido e os paradigmas (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973), ônus do qual não se desincumbiu. Aplicação da Súmula n. 284 do STF.
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. "Não se aplica a legislação que versa sobre o benefício da gratuidade judiciária ao pedido de diferimento de custas efetuado pela agravante com base na Lei estadual n. 11.608/2003" (AgInt nos EDcl no AgInt no AREsp n. 1.357.719/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/6/2020, DJe 5/6/2020). Ademais, nos termos da Súmula n. 280 do STF, aplicada por analogia, " Por ofensa a direito local não cabe recurso extraordinário".
+4. A oposição de embargos declaratórios, pretendendo a rediscussão do julgado e invocando questões suficientemente decididas no acórdão embargado, caracteriza o manifesto intuito protelatório, sendo correta a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015. Aplicação da Súmula n. 83 do STJ.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos" (AgInt no AREsp 1.680.968/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 31/08/2020, DJe 08/09/2020- grifou-se).
+Além disso, no que se refere à ofensa ao art. 85, § 2º, do CPC, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+"EMBARGOS DE DECLARAÇÃO CONHECIDO COMO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGADA VIOLAÇÃO AOS ARTS. 26 E 29 DA LEI 10.931 E 789 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ATRAÇÃO DO ENUNCIADO 282/STF. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO AO QUAL SE NEGA PROVIMENTO."
+(EDcl no REsp 1.789.134/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/11/2020, DJe de 3/12/2020 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido."
+(AgInt no AREsp 1.097.857/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/11/2017 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que a recorrente não restou condenada na origem.
+Publique-se.
+Intimem-se.
+EMENTA
