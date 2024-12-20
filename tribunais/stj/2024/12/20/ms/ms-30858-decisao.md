@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado contra suposto ato coator atribuído à Ministra de Estado da Gestão e da Inovação em Serviços Públicos.
+Alega o impetrante que se inscreveu no Concurso Público Nacional Unificado e que realizou a prova do certame cumprindo todos os requisitos no que tange a sua identificação no gabarito da prova, tendo sido eliminado por não ter atingido a nota mínima nas provas objetivas.
+Sustenta que não há transparência nos informes oficiais publicados na tela de acompanhamento do impetrante, "pois não é divulgado o ponte de corte para correção da prova dissertativa em cada cargo que o impetrante/candidato concorre" (fl. 6).
+Aduz que teve sua situação alterada no certame, conforme informado em mensagem eletrônica enviada pela Fundação Cesgranrio, mas que foi mantido "incólume o mesmo resultado" (fl. 6).
+Requer, liminarmente, a concessão de tutela de urgência, "determinando-se que a autoridade coatora recoloque o impetrante no certame, corrija a sua prova discursiva e mantenha até o final do certame (provisoriamente)", sob pena de multa por descumprimento da medida.
+No mérito, pleiteia a concessão da segurança "para fins de impor de que a autoridade impetrada seja compelida determinar que o impetrante tenha a sua prova discursiva corrigida e retorne em definitivo para o certame, para que seja submetido a todas as fases e, se aprovado, seja imediatamente nomeado para o cargo a que concorre (em definitivo)" (fl. 8).
+É o relatório.
+Nos termos do art. 105, I, "b", da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, "os mandados de segurança (..) contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Além disso, nos termos do § 3º do art. 6º da Lei n. 12.016/2009, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+Da análise dos autos, verifica-se que o ato apontado como coator, que eliminou o impetrante do Concurso Público Nacional Unificado, não é da lavra da Ministra de Estado da Gestão e da Inovação em Serviços Públicos, e sim da comissão organizadora do certame, qual seja, a Fundação Cesgranrio. Dessa forma, não há falar em legitimidade passiva da autoridade apontada como coatora.
+Nesse sentido, confiram-se precedentes da Seção de Direito Público do Superior Tribunal de Justiça:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. PRETENSÃO DE RECORREÇÃO DE PROVA DISCURSIVA E DE REANÁLISE DE TÍTULOS. ATRIBUIÇÃO. EXECUTORA DO CERTAME. ILEGITIMIDADE "AD CAUSAM" DO ENTE PÚBLICO CONTRATANTE.
+1. Em matéria de concurso público, a definição de quem deve compor o pólo passivo da demanda instaurada por pretensão do candidato há de considerar a causa de pedir e o pedido feitos, de modo que, a depender dessa formulação e do bem da vida buscado é que surgirá quem deverá suportar o ônus da demanda.
+2. Na hipótese de concurso público cuja regulação editalícia atribui a elaboração, execução e correção de prova discursiva, e a análise da prova de títulos, ao ente privado contratado para a organização e execução do certame, carece de legitimidade "ad causam" o ente público que o contratou para o desempenho desse mister.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.074.569/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/12/2017, DJe de 18/12/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. REPROVAÇÃO DO CANDIDATO NA PROVA DE TÍTULOS. REVISÃO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DA CIÊNCIA E TECNOLOGIA. ATO DE ATRIBUIÇÃO DO CESPE. INDEFERIMENTO DA PETIÇÃO INICIAL.
+1. A ação mandamental exige a demonstração, de plano, da existência do ato ilegal ou abusivo atribuído à autoridade impetrada. Na espécie, contudo, a petição inicial não atribui tal prática ao Ministro de Estado da Ciência e Tecnologia, nem a qualquer outra autoridade mencionada no art. 105, inc. I, "b", da Constituição Federal.
+2. Autoridade coatora é a pessoa que ordena, executa diretamente ou omite a prática do ato impugnado, não sendo este o caso do Ministro impetrado em relação à avaliação dos títulos apresentados pelo candidato, no âmbito de concurso público para provimento de vagas em cargos do Ministério da Ciência e Tecnologia.
+3. A teor da compreensão firmada pelo Superior Tribunal de Justiça, "A homologação do concurso é mera consequência do seu resultado, de modo que, na verdade, a presente impetração volta-se contra ato de atribuição do CESPE, a quem compete a elaboração, correção da prova e análise dos recursos administrativos, o que acaba por afastar a competência desta Corte para conhecer desta ação mandamental" (AgRg no MS 14.132/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, julgado em 25/3/2009, DJe 22/4/2009).
+4. Agravo regimental a que se nega provimento.
+(AgRg no MS n. 14.254/DF, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/4/2013, DJe de 16/4/2013.)
+Ante o exposto, indefiro liminarmente a petição inicial, com fundamento nos arts. 6º, § 3º, da Lei 12.016/2009 e 34, XIX do Regimento Interno desta Corte Superior, e julgo prejudicado o pedido de liminar.
+Publique-se.
+Intimem-se.
+EMENTA
+MANDADO DE SEGURANÇA. AUSÊNCIA DE ATO CONCRETO PRATICADO POR MINISTRO DE ESTADO. INCOMPETÊNCIA MANIFESTA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 105, I, "B", DA CONSTITUIÇÃO FEDERAL. WRIT INDEFERIDO LIMINARMENTE.
