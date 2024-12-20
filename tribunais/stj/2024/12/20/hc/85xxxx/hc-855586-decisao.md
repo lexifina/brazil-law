@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LORENA GLAUCIA DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Agravo em Execução nº 5346786-15.2023.8.09.0000).
+Consta dos autos que o juízo da execução penal indeferiu o pedido de alteração da data-base para o dia da última falta grave praticada pela paciente (28/05/2014), constando como marco o momento da última prisão (15/08/2020)(fl. 12-14).
+O Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, em julgado assim ementado (fl. 543-547):
+AGRAVO EM EXECUÇÃO PENAL. RETIFICAÇÃO DO RELATÓRIO DE SITUAÇÃO PROCESSUAL EXECUTÓRIA. ALTERAÇÃO DA DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. IMPOSSIBILIDADE. Mantém-se a decisão que, em consonância com precedentes do Superior Tribunal de Justiça e desta Corte, considerou como data-base para concessão do benefício da progressão de regime a data da última prisão da Agravante. AGRAVO CONHECIDO E DESPROVIDO.
+Neste habeas corpus, o impetrante alega que não houve homologação da nova falta grave consistente na suposta fuga desde o dia 09/06/2020, tampouco foi realizado PAD ou audiência de justificação. Assevera que, sem a homologação da falta grave, não pode haver alteração da data-base para benefícios. Pede a concessão da ordem para "determinar a retificação do cálculo para considerá-lo como sendo o dia 28/05/2014, data da última falta grave cometida pela paciente" (fl. 3-8).
+As informações foram prestadas, às fl. 562-573
+O Ministério Público Federal manifestou-se, às fls. 578-582, opinando pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+A questão submetida a esta Corte Superior refere-se à definição da necessidade de homologação da falta grave (fuga) para que a data da recaptura (última prisão) seja utilizada para cálculo dos benefícios da execução penal.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Entretanto, diante da possibilidade de concessão da ordem de ofício, em caso de coação ilegal, em observância § 2º do artigo 654 do Código de Processo Penal, passo à análise das alegações defensivas.
+No caso em comento, verifica-se das informações prestadas pelo juízo a quo que a apenada cumpria pena em regime fechado quando foi agraciada com prisão domiciliar, em 18/09/2017, por estar gestante e possuir dois filhos com idade inferior a 12 anos. Em 17/07/2020, o juízo da execução revogou a prisão domiciliar e determinou a expedição de mandado de prisão, em virtude das informações de que havia reiterado descumprimento das condições impostas, com rompimento do equipamento de monitoração eletrônica, que caracterizam a fuga. O mandado de prisão (recaptura) foi cumprido, em 15/08/2020, com a reinserção da apenada no regime fechado em estabelecimento prisional.
+Como se verifica, as peculiaridades do caso concreto apontam a desnecessidade da homologação da falta grave para que ocorra a alteração da data-base para cálculo de benefícios da execução penal, pois diante da interrupção do cumprimento da pena em razão da fuga (descumprimento do monitoramento na prisão domiciliar para mulheres mães de crianças), a nova data-base deverá ser o momento da última prisão (recaptura), quando houve o reinício do cumprimento da pena .
+Nesse sentido é a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. ALTERAÇÃO DA DATA-BASE PARA PROGRESSÃO DE REGIME. FUGA DO ESTABELECIMENTO PRISIONAL. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA ESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acórdão encontra-se em consonância com o entendimento desta Corte de que "a prática de falta grave, consubstanciada em fuga do estabelecimento prisional, implica interrupção do lapso temporal exigido para a obtenção do benefício da progressão de regime, devendo ser considerado como novo termo a quo do período aquisitivo a data da recaptura do apenado, por se tratar de infração disciplinar de natureza permanente" (HC n. 335.399/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/11/2015, DJe de 26/11/2015).
+2. Agravo desprovido.
+(AgRg no HC n. 866.369/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/8/2024, DJe de 14/8/2024.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. DATA-BASE PARA OBTENÇÃO DA PROGRESSÃO DE REGIME. PLEITO PELO RECONHECIMENTO DA DATA DO PRIMEIRO RECOLHIMENTO COMO DATA-BASE. FUGA. FALTA GRAVE. INTERRUPÇÃO DO PRAZO PARA A PROGRESSÃO DE REGIME. MARCO TEMPORAL. DATA DA ÚLTIMA PRISÃO.
+1. A prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base.
+2. Hipótese em que o apenado empreendeu fuga do estabelecimento prisional em 24/4/2016, tendo sido recapturado em 23/1/2017, data esta que deve ser considerada como termo a quo para aferição do benefício da progressão de regime.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.745.244/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/9/2018, DJe de 14/9/2018.)
+Assim, não identifico a existência de flagrante ilegalidade que justifique a concessão da ordem, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
