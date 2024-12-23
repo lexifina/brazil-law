@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de agravo interposto por JOAQUIM VIANA NETO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu recurso especial dirigido em oposição ao acórdão prolatado na Apelação n. 0363226-14.2006.8.09.0051.
+Consta dos autos que o Juízo de primeiro grau acolheu a Exceção de Pré-Executividade ajuizada pelo ora Agravante, a fim de decretar a prescrição intercorrente dos créditos e, nos termos do inciso V do art. 924 do CPC/2015, declarou extinto o processo (fls. 714-718).
+O Tribunal de origem deu provimento à apelação para determinar o regular processamento da execução fiscal (fls. 772-793). A propósito, a ementa do referido julgado (fl. 786):
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. RESP. 1.340.553/RS. REQUISITOS NÃO PREENCHIDOS. PRESCRIÇÃO INTERCORRENTE AFASTADA. SENTENÇA CASSADA.
+1. Nas ações de execução fiscal, para ser reconhecida a prescrição intercorrente, deve ter transcorrido o prazo de um ano da suspensão, procedido o arquivamento provisório dos autos, bem como o processo ficar paralisado por mais de cinco anos (RESP 1.340.553/RS), porquanto a norma que autoriza o arquivamento provisório do feito não constitui causa de suspensão do prazo prescricional.
+2. Além disso, é imprescindível, também, a prévia oitiva da Fazenda Pública, em tema de prescrição quinquenal intercorrente operada em execução fiscal. (inteligência do art. 40, § 4º, da Lei nº 6.830/80 e do art. 10 do CPC (princípio da não surpresa).
+3. No caso, não restou demonstrado que a execução fiscal foi suspensa, seguida de arquivamento provisório, com paralisação por 5 (cinco) anos e prévia intimação da Fazenda Pública, impondo-se, portanto, a cassação da sentença para seu prosseguimento regular.
+APELAÇÃO CÍVEL PROVIDA.
+Os embargos de declaração opostos foram rejeitados (fls. 839-860).
+Sustenta a parte agravante, nas razões do apelo nobre, além da existência de dissídio pretoriano, contrariedade aos arts. 489, § 1º, incisos IV e VI, 927, inciso III, e 1.022, inciso II e parágrafo único, do CPC/2015; ao art. 40, §§ 1º a 4º, da Lei n. 6.830/80; bem como à Súmula n. 314/STJ.
+Alega negativa de prestação jurisdicional, por parte do Tribunal a quo, quando do julgamento dos embargos de declaração.
+Afirma que o aresto atacado carece de fundamentação adequada.
+Aduz que o aresto atacado afastou a prescrição, mas ignorou os parâmetros estabelecidos no Recurso Especial Repetitivo n. 1.340.553/RS.
+Argumenta que " ..  o início do prazo de suspensão e prescrição dispensa a determinação pelo magistrado da suspensão ou arquivamento do processo  .. " (fl. 892).
+Aponta que laborou em equívoco a Corte de origem ao condicionar, de forma expressa, a contagem do prazo de suspensão e prescrição à determinação judicial.
+Esclarece que " ..  a peculiar contagem do prazo de suspensão e prescricional adotada pelo v. acórdão recorrido ignora completamente a interpretação conferida por esta Egrégia Corte do art. 40, §§ 1º e 2º da Lei de Execução Fiscal, uma vez que exige para o início do prazo de suspensão e prescrição a respectiva determinação judicial nesse sentido  .. " (fl. 896).
+Não foram apresentadas contrarrazões (fls. 1096 e 1099). O recurso especial não foi admitido (fls. 1104-1107). Foi interposto agravo (fls. 1114-1128).
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 788-792):
+ ..  a prescrição intercorrente se configura em caso de desídia ou desinteresse da parte exequente em promover os atos processuais que lhe compete.
+Ademais, de acordo com a tese definida no REsp nº 1.340.553/RS, submetido ao rito dos recursos repetitivos, a contagem do prazo alusivo à prescrição intercorrente deve iniciar-se 01 (um) ano após a intimação da Fazenda Pública sobre o desfecho do mandado expedido nos autos.
+ ..
+Ressalte-se que a prescrição intercorrente somente é verificada, em sede de execução fiscal, quando, transcorrido o prazo de suspensão, o processo permanecer paralisado por mais de cinco anos por inércia da Fazenda Pública e, ainda assim, após prévia oitiva desta, nos termos do art. 40, § 4º, da Lei nº 6.830/80:
+ ..
+Desta forma, não encontrado o devedor ou bens a penhorar, o processo inicialmente deve ser suspenso pelo prazo máximo de um ano, não correndo o lapso temporal prescricional;
+segundo, após decorrido esse tempo, e não sendo encontrado nenhum bem penhorável, o processo será arquivado provisoriamente; e terceiro, se desta última decisão houver decorrido o prazo previsto no art. 174 do Código Tributário Nacional (5 anos), sem qualquer alteração na situação, pode o julgador reconhecer a prescrição intercorrente, intimando-se, previamente, a Fazenda Pública para manifestar-se.
+Cumpre-se observar que a prescrição intercorrente é um instrumento de racionalidade e economicidade para o Estado, pois evita a perenização de demandas que estão fadadas ao insucesso e que acarretam apenas gastos desnecessários ao erário. Assim, a prescrição existe em nome da segurança jurídica e tem por objetivo evitar a eternização dos conflitos.
+No caso, proposta a execução fiscal em 14.11.2006, foi determinada a citação da executada em 01.02.2007 (mov. 3-doc.02). Com o encerramento da empresa, foi ordenada a citação de seus sócios, em 17.09.2009 (mov. 3-doc.14).
+Diante da ausência de bens penhoráveis, foi determinada suspensão processual somente por apenas 90 (noventa) dias, em 04.12.2018 (mov. 59).
+Dessa forma, não restaram caracterizados os requisitos necessários para configurar a prescrição intercorrente, em especial a paralisação do feito por prazo superior a cinco anos, impondo-se, desde logo, a cassação da sentença que reconheceu a prescrição intercorrente, pois, frise-se, não houve a comprovação do desinteresse do exequente em obter o seu crédito na via judicial.
+Ademais, verifica-se que sequer foi arquivada a ação de execução fiscal, conforme apregoa o § 4º do art. 40 da Lei nº 6.830/80, para ensejar o reconhecimento, de ofício, da prescrição intercorrente e decretá-la de imediato.
+ ..
+Diante do contexto ora apresentado, equivocada se mostra a sentença recorrida, devendo ser determinado o prosseguimento do processo executivo.
+O ora Agravante opôs embargos de declaração, apontando ocorrência dos seguintes vícios (fls. 808-826; sem grifos no original):
+A tese de que a contagem do prazo de suspensão/prescrição se dá automaticamente e independentemente de qualquer decisão judicial, o que faria com que o prazo de 6 anos (1 5) fosse atingido, não foi analisada pelo v. acórdão ora embargado.
+ ..
+De outro lado, o acórdão deixou de se manifestar sobre tese firmada em julgamento repetitivo, uma vez que deixou de analisar que, na forma de contagem prescricional prevista no RESP n. 1340.553/RS, o crédito em questão está prescrito, fundamentando em sentido contrário ao tratado no aresto, o que justifica a interposição do presente recurso também com fulcro no inciso I, do parágrafo único, do art. 1.022, do CPC.
+ ..
+ ..  os prazos de suspensão/prescrição (1  5) iniciam-se automaticamente na data da ciência da Fazenda Pública a respeito da não localização de bens e só se interrompem com a penhora.
+Bastas lermos as teses firmadas nos Temas Repetitivos 566, 567, 568, 569, 570 e 571, através do julgamento do RESP 1340553/RS, para percebemos que, após o início do prazo de suspensão e prescrição, nada o interrompe, a não ser a citação ou penhora
+ ..
+Pela tese firmada pelo Tema Repetitivo 566, fica claro que o início do prazo de suspensão e prescrição independe da determinação pelo magistrado da suspensão ou arquivamento do processo  ..
+ ..
+O v. acórdão ora embargado, a despeito de ter transcrito o referido RESP, afasta a prescrição justamente com base na ausência de determinação judicial de suspensão e arquivamento da ação  ..
+ ..
+A sentença e a Defensoria, em sede de contrarrazões, trouxeram aos autos a tese jurídica, firmada em acórdão julgado em sede de recurso repetitivo, de que o prazo de suspensão/prescrição inicia-se AUTOMATICAMENTE, ou seja, independentemente de qualquer ato da parte ou provimento judicial, dentre eles a determinação judicial de suspensão ou arquivamento dos autos.
+O acórdão ora embargado, data vênia, não se atentou para a tese firmada no tema repetitivo 566 e 567, ao defender que o prazo prescricional se iniciaria somente com determinação judicial de suspensão ou arquivamento do feito (vide trecho acima do voto).
+Além disso, como argumento complementar, o acórdão ora embargado invocou a Súmula 106 do STJ, consignando que a demora processual por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição ou prescrição.
+Há de se ressaltar que a Súmula 106 trata de citação e não localização de bens penhoráveis.
+De qualquer forma, a citação de tal súmula pelo acórdão se deu no sentido de que a Fazenda Pública não se manteve inerte na busca de bens penhoráveis do devedor.
+Esse argumento viola outro tema repetitivo do STJ, desta vez o 568, que dispõe o seguinte:
+ ..
+Como se viu, não importa se a Fazenda peticionou na busca de bens penhoráveis durante o prazo prescricional. Considera-se que a credora saiu da inércia somente no caso de efetivação da constrição, o que veio a ocorrer em junho de 2019, ou seja, nos termos da sentença, mais de nove anos depois da data em que a Fazenda tomou ciência da não localização de bens do devedor (05/02/2010).
+ ..
+Como se vê, pela narrativa da própria Exequente, desde 25.06.2010 a Fazenda Pública já tinha comparecido aos autos buscando a penhora de bens (data em que se inicia o prazo de suspensão/prescrição), o que veio a se concretizar somente em junho de 2019 (Eventos 81/89).
+ ..
+O Ministro Mauro Campbell, em julgamento de embargos de declaração opostos no Resp 13440553 tratou expressamente da impossibilidade de se exigir a determinação judicial de suspensão da ação ou arquivamento do feito para que tenha início a contagem do prazo prescricional  ..
+ ..
+Desta forma, como estamos tratando de prescrição intercorrente, cuja tese foi firmada em sede de recurso repetitivo e acatada pela sentença (Temas Repetitivos 566 a 571), justamente baseada no RESP 1.340.553/RS, necessário se faz que esta Egrégia Corte, nos termos do inciso II e § único, inciso I, ambos do art. 1.022, do CPC, se manifeste sobre a contagem do prazo de suspensão/prescrição, consolidada na forma do julgamento do citado Resp, que se dá automaticamente pela ciência da credora da inexistência de bens (é incontroverso que se deu em 2010), pronunciando- se se houve o transcurso do prazo de 6 anos (1 5), até a data da constrição, que se deu em junho de 2019.
+O Tribunal a quo, ao julgar os aclaratórios assentou o seguinte (fls. 856-858):
+Não obstante as assertivas lançadas no recurso, verifica-se que não prospera o inconformismo do embargante.
+De fato, as características intrínsecas dos embargos de declaração estão delineadas no artigo 1.022 do Código de Processo Civil, quais sejam, suprir omissão, eliminar contradição ou aclarar obscuridade na decisão atacada e corrigir hipótese de erro material.
+In casu, entrementes, da análise do conjunto da fundamentação e disposição do acórdão recorrido, depreende-se que não há quaisquer dos vícios elencados na predita norma legal, uma vez inexistir ponto obscuro, contraditório ou omisso no julgado embargado.
+Efetivamente, verifica-se a contradição quando o julgado apresenta proposições entre si inconciliáveis, ou seja, a contradição é a afirmação conflitante entre as proposições contidas na motivação, na parte decisória, ou, ainda, entre alguma afirmação enunciada nas razões de decidir e o dispositivo ou entre a ementa e o corpo do acórdão, hipóteses inocorrentes no caso.
+Lado outro, o acórdão conterá obscuridade quando ambíguo e de entendimento impossível, ante os termos e enunciados equívocos que contém, consistindo na falta de clareza do julgado, tornando-se difícil fazer uma exata interpretação, o que, inquestionavelmente, não se vê no acórdão recorrido.
+Por fim, a omissão consiste na falta de pronunciamento judicial sobre ponto ou questão suscitado pelas partes, indicando a lacuna vedada pelo ordenamento jurídico em vigor, o que, igualmente, não ocorre na espécie, mormente porque o ato judicial recorrido expressamente manifestou-se sobre as teses aventadas pelo embargante, conforme se vê do seguinte excerto:
+ ..
+Assim, na forma como posta a questão pelo embargante, verifica-se que o decisum embargado não padece de nenhum dos vícios ensejadores de sua interposição. Vislumbra-se, ao contrário, que foi o mesmo explícito nas proposições e os fundamentos que levaram à prestação jurisdicional restaram bem definidos.
+De outro flanco, não se deve confundir omissão, obscuridade ou contradição com resultado contrário aos interesses. O ofício jurisdicional está cumprido e o fato do embargante possuir entendimento diverso não caracteriza hipótese de cabimento do recurso, vez que em sede de embargos declaratórios é impossível a pretensão de nova decisão ou nova interpretação de questões já decididas no acórdão.
+Certo é que, acaso existam eventuais incorreções na apreciação dos fatos, da prova existente nos autos ou, ainda, na aplicação do direito, devem ser as mesmas atacadas pelos recursos adequados, jamais por embargos declaratórios.
+No que diz respeito ao prequestionamento para fins de eventual interposição dos recursos especial e extraordinário, saliente-se que o órgão judicial, para expressar a sua convicção, não precisa aduzir comentários sobre todos os pontos e dispositivos legais levantados pelas partes, quando já tenha encontrado motivo suficiente para alicerçar sua decisão.
+Como se vê, o Tribunal a quo, quando do julgamento dos recursos integrativos, não se manifestou acerca das questões veiculadas nos citados apelos.
+Nesse contexto, entende o Superior Tribunal de Justiça que há afronta ao art. 1.022 do CPC/2015 quando o acórdão hostilizado deixa de se manifestar, de forma fundamentada, sobre tese essencial ao deslinde da controvérsia, o que se coaduna ao caso em exame.
+Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E RECONVENÇÃO. HONORÁRIOS SUCUMBENCIAIS. DISTRIBUIÇÃO. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022, I E II, DO CPC/2015. QUESTÕES RELEVANTES, EM TESE, À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE SUSCITADA NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. AGRAVO EM RECURSO ESPECIAL CONHECIDO E RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência desta Corte, ocorre violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015 quando o Tribunal de origem deixa de enfrentar questões relevantes ao julgamento da causa, suscitadas pela parte recorrente. Adotando tal orientação: STJ, AgInt no AREsp 1.377.683/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 01/10/2020; REsp 1.915.277/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 27/04/2021.
+III. No caso, embora o Tribunal a quo tenha sido instado no Apelo, inclusive mediante Embargos de Declaração, a se pronunciar sobre questões relevantes ao deslinde da controvérsia, quedou-se silente aquele Sodalício sobre tais matérias, que se revelam relevantes e podem conduzir à modificação do entendimento perfilhado pela Corte de origem.
+IV. Nesse contexto, impõe-se a confirmação da decisão que, em face da reconhecida violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015, conheceu do Agravo em Recurso Especial e deu provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanando-se as omissões indicadas.
+V. Agravo interno improvido. (AgInt no AgInt no AREsp n. 1.810.873/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL. DANO INTERCORRENTE (INTERINO, TRANSITÓRIO, TEMPORÁRIO, INTERMEDIÁRIO, PROVISÓRIO). INDENIZAÇÃO PECUNIÁRIA. POSSIBILIDADE. ESPÉCIE DE DANO DISTINTA DO DANO RESIDUAL (PERMANENTE, DEFINITIVO, PERENE). VÍCIO DE FUNDAMENTAÇÃO. REENVIO DO FEITO À ORIGEM.
+1. Os danos ambientais interinos (também ditos intercorrentes, transitórios, temporários, provisórios ou intermediários) não se confundem com os danos ambientais definitivos (residuais, perenes ou permanentes).
+2. Os danos definitivos somente se verificam, e são indenizáveis em pecúnia, se a reparação integral da área degradada não for possível em tempo razoável, após o cumprimento das obrigações de fazer. Seu marco inicial, portanto, é o término das ações de restauração do meio ambiente.
+3. O marco inicial do dano intercorrente, a seu turno, é a própria lesão ambiental. Seu marco final é o da reparação da área, seja por restauração in natura, seja por compensação indenizatória do dano residual, se a restauração não for viável.
+4. O dano residual compensa a natureza pela impossibilidade de retorná-la ao estado anterior à lesão. O dano intercorrente compensa a natureza pelos prejuízos causados entre o ato degradante e sua reparação.
+5. O poluidor deve não só devolver a natureza a seu estado anterior, mas reparar os prejuízos experimentados no interregno, pela indisponibilidade dos serviços e recursos ambientais nesse período.
+6. A origem afastou a indenização pela possibilidade de restauração integral da natureza a seu estado anterior com o cumprimento das obrigações de fazer. A hipótese, efetivamente, trata de dano residual.
+7. Ao tratar o dano intercorrente, especificamente suscitado por ocasião dos aclaratórios, como se afastado diante dos fundamentos de inexistência de dano residual, o acórdão incorre em relevante omissão e, em consequência, nulidade do julgamento integrativo.
+8. O acolhimento do vício de fundamentação prejudica o exame da matéria de fundo.
+9. Recurso especial conhecido em parte e, nessa extensão, provido, para determinar o reenvio do feito à origem, para saneamento da omissão ora afirmada. (REsp n. 1.845.200/SC, relator Ministro Og Fernandes, Segunda Turma, julgad o em 16/8/2022, DJe de 6/9/2022.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e DAR PARCIAL PROVIMENTO ao recurso especial, a fim de anular o julgamento dos embargos de declaração e, por conseguinte, determinar que outro seja proferido pelo Tribunal de origem, com a efetiva apreciação, como entender de direito, das omissões apontadas no recurso integrativo, conforme descritas neste decisum. Prejudicadas as demais questões postas no apelo nobre.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL . VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÕES RECONHECIDAS. QUESTÕES DE RELEVÂNCIA AO DESLINDE DA CONTROVÉRSIA. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
