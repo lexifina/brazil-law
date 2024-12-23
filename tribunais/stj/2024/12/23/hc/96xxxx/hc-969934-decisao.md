@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Ementa. Direito Penal. Habeas Corpus. Tráfico de entorpecentes. Revogação da prisão preventiva. Pedido sustentado na alegação de que não estariam presentes os requisitos da custódia cautelar. Constrangimento ilegal não verificado. Requisitos da constrição cautelar que se encontram presentes no caso em análise, sendo necessária a manutenção da prisão do paciente. Crime com pena máxima superior a quatro anos. Inteligência do artigo 313, inciso I, do CPP. Necessidade de garantia da ordem pública. Prisão mantida. Impossibilidade de aplicação de quaisquer das medidas cautelares diversas do cárcere (artigo 319 do mesmo Diploma Legal). Decisão de primeira instância bem fundamentada que não se mostrou ilegal ou teratológica. Ordem denegada.
+Imputa-se ao paciente a prática do crime de tráfico ilícito de entorpecentes, nos termos do art. 33 da Lei nº 11.343/2006.
+A defesa alega, em síntese, que: (i) a prisão preventiva do paciente foi decretada sem fundamentos concretos, baseando-se apenas na gravidade abstrata do crime de tráfico de drogas e na quantidade de substância apreendida com um passageiro, ignorando as circunstâncias favoráveis ao paciente; (ii) o paciente é primário, possui bons antecedentes, residência fixa e exercia atividade lícita no momento da prisão, transportando um passageiro em seu veículo registrado como de aplicativo; e (iii) a decisão do Tribunal de Justiça de São Paulo reafirmou genericamente a necessidade de garantia da ordem pública, sem considerar elementos como a ausência de risco concreto à sociedade ou à aplicação da lei penal, demonstrando, assim, a desproporcionalidade da prisão preventiva.
+Ao final, requer a concessão de habeas corpus, com pedido liminar, para que o paciente seja colocado em liberdade provisória ou prisão domiciliar, com a aplicação de medidas cautelares, alegando que a manutenção da prisão cautelar configura constrangimento ilegal e afronta ao princípio da proporcionalidade, uma vez que eventual condenação provavelmente resultará em regime menos severo ou pena restritiva de direitos.
+É o relatório.
+Decido.
+Verifica-se que o habeas corpus foi impetrado sem a documentação necessária à solução da controvérsia. O auto de prisão em flagrante juntado às e-STJ fls. 20-29 refere-se a pessoa distinta da pessoa do paciente e, aparentemente, não possui nenhuma conexão com os fatos que motivaram a prisão que se pretende revogar por meio do presente habeas corpus. Além disso, não há nos autos cópia da decisão de primeira instância que decretou a medida cautelar extrema.
+Nos termos da jurisprudência desta Corte, o rito do habeas corpus pressupõe prova pré-constituída, por exemplo:
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. REMIÇÃO DA PENA. OMISSÃO NÃO VERIFICADA. DECISÃO EM CONSONÂNCIA COM A DOCUMENTAÇÃO ACOSTADA AOS AUTOS. EMBARGOS REJEITADOS.
+1. Não há falar em vício na decisão embargada, pois a remição da pena foi decidida em consonância com a documentação acostada aos autos.
+2. O procedimento do habeas corpus não permite a dilação probatória, pois exige prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração.
+3. Embargos de declaração rejeitados.
+(EDcl no HC 701.933/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 5/4/2022, DJe de 7/4/2022).
+
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA. INSTRUÇÃO DEFICIENTE. ÓBICE AO EXAME DAS RAZÕES DO WRIT. AGRAVO DESPROVIDO.
+1. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com cópia do acórdão proferido no julgamento do apelo defensivo, peça imprescindível para análise da impetração. De fato, na decisão colegiada acostada aos autos, limitou-se o Tribunal de origem a examinar os fundamentos do decreto preventivo, sem que fossem analisados os parâmetros adotados no cálculo dosimétrico. Precedentes.
+2. Ainda que tenha interposto agravo regimental, no qual reconheceu a deficiência da instrução do feito, o impetrante não logrou apresentar a cópia do acórdão proferido no julgamento da apelação, alegando não ter conseguido localizar tal peça processual.
+3. Tratando-se de decreto condenatório transitado em julgado, é facultado à defesa ajuizar revisão criminal no Tribunal de origem, com vistas à modificação dos parâmetros dosimétricos, nas hipóteses de manifesta violação dos critérios dos arts. 59 e 68 do Código Penal, sob o aspecto da ilegalidade, da falta ou evidente deficiência de fundamentação ou ainda do erro de técnica.
+4. Agravo regimental desprovido.
+(AgRg no HC 647.927/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/5/2021, DJe de 10/5/2021).
+Ante o exposto, nos termos do art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
