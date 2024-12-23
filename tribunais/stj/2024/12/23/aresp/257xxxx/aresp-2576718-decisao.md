@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por SILVIO APORTAS FLOR em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 310):
+APELAÇÃO INCÊNDIO QUALIFICADO
+Materialidade e autoria delitivas nitidamente delineadas nos autos Firmes e seguras palavras das vítimas e testemunhas policiais, que não teriam razão para mentir, não maculadas pela confusa negativa de autoria, que restou isolada no conjunto probatório Pena e regime prisional bem fixados, sem insurgência defensiva Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados, nos termos da seguinte ementa (e-STJ fl. 337):
+EMBARGOS DE DECLARAÇÃO Alegação de nulidade por falta de intimação pessoal de defensor dativo sobre a data do julgamento da apelação e resultado do julgamento. Inocorrência Intimação prévia pelo DOJ, sem oposição ao julgamento virtual com posterior intimação do resultado, também pela via oficial. Prequestionamento. Desnecessidade - Inexistência de qualquer vício no v. acórdão Embargos conhecidos e rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 376/398), fundado nas alíneas "a" e "c" do permissivo constitucional, alega a parte recorrente afronta ao art. 370, §§ 1º e 4º do CPP e art 5º, § 5º, da Lei 1.060/50, por falta de intimação pessoal do defensor dativo (e-STJ, fl. 385).
+No mérito, requer a absolvição do recorrente na prática do crime de incêndio, com fulcro no art. 386, inciso VII, do Código de Processo Penal, diante da ausência de provas idôneas para sustentar a condenação, a fixação da pena-base no mínimo legal, o estabelecimento de regime prisional menos gravoso, a substituição da pena p rivativa de liberdade por restritiva de direitos e a redução da pena pecuniária.
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo parcial provimento do recurso (e-STJ, fls. 584/586).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Dispõe o art. 5º, § 5º, da Lei 1.060/1950 que "o defensor dativo goza do mesmo privilégio assegurado à Defensoria Pública, qual seja, de ser intimado, pessoalmente, de todos os atos processuais, sob pena de nulidade. Tal prerrogativa está prevista, expressamente, no § 4º do art. 370 do Código de Processo Penal" (AgRg no HC n. 778.701/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/4/2023, DJe de 27/4/2023).
+Na hipótese, o defensor dativo não foi pessoalmente intimado da data da sessão de julgamento do recurso de apelação e alegou a nulidade na primeira oportunidade, quando da oposição dos embargos de declaração, evidenciando-se, assim, prejuízo à ampla defesa. Nesse sentido: AgRg no HC n. 751.363/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2024, DJe de 12/6/2024.
+Incide, portanto, a Súmula 568 do STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante".
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para determinar que seja procedido novo julgamento da Apelação Criminal 1500501-45.2019.8.26.0637, determinando a prévia intimação do defensor dativo, nos termos do art. 370, §§ 1º e 4º do CPP e art 5º, § 5º, da Lei 1.060/50.
+Intimem-se.
+EMENTA
