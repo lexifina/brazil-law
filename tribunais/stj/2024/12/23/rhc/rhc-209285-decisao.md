@@ -1,0 +1,10 @@
+DECISÃO
+FABIO FIORI, condenado por homicídio qualificado, interpõe recurso em habeas corpus, no qual alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, que denegou a ordem impetrada naquela Corte, na qual pretendia obstar o imediato cumprimento de pena imposta, objetivo este reiterado nesta oportunidade.
+O caso comporta o julgamento antecipado, visto que se adequa a orientação firmada pelo STF em repercussão geral sobre o tema, a qual é contrária a pretensão defensiva.
+Deveras, a referida exceção ao Tema n. 1.068/STF aventada pela defesa, não se adequa à espécie, como pontuou o acórdão, notadamente porque as normas processuais novas se aplicam a todos os casos em tramitação, a elas não sendo observado o princípio da irretratividade da lei penal mais gravosa. Assim, a Lei n. 13.964/2019, no seu aspecto processual, aplica-se ao caso concreto.
+No particular, destacou corretamente o referido decisum que "a par dos questionamentos relativos à incidência das disposições trazidas pela Lei nº 13.964/19 (pacote anticrime), inclusive quanto à sua eficácia no tempo, vislumbra-se que a interpretação conferida pela Corte Suprema, pertinente ao Tema 1.068, decorre do comando constitucional do art. 5º, inciso XXXVIII, "c", da Carta Magna, e não do citado dispositivo infraconstitucional, tanto que está autorizada a execução provisória independentemente do total da pena aplicada" (fls. 59-60).
+Logo, incesurável o acórdão impugnado que apenas aplicou o recente entendimento do STF, o qual, por sua vez, decidiu, em julgamento realizado em 12/9/2024 e em Repercussão Geral (Tema n. 1.068), que pessoas condenadas pelo Júri devem começar a cumprir pena imediatamente, mesmo que o réu ainda possa recorrer a outras instâncias na Justiça.
+À vista do exposto, com fundamento nos arts. 34, XX e 246, ambos do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
