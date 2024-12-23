@@ -1,0 +1,8 @@
+DECISÃO
+ADELIO DO ROSÁRIO SELENKO e EDENILSO ROCHA BUENO pleiteiam a concessão de efeito suspensivo a recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, o qual foi admitido, ao argumento de que ele preenche o requisito de plausibilidade jurídica de êxito, de modo a impedir "dano grave, iminente e irreparável aos Recorrentes, notadamente pelo risco de imediato cumprimento da reprimenda" (fl. 19).
+De início, registro que o cumprimento definitivo da pena somente é possível com o trânsito em julgado da condenação, conforme torrencial jurisprudência que se consolidou no STF e no STJ e não há, nos autos, a comprovação da existência de determinação que esse cumprimento se dê antes que isso ocorra, mas, ao contrário, há essa imposição apenas após o trânsito em julgado, conforme parte dispositiva da sentença condenatória à fl. 158. Esse quadro afasta a necessidade de concessão de efeito suspensivo com essa finalidade.
+Sob distinta angulação, observa-se que os temas ventlados pela defesa no recurso especial (violação dos arts. 156 e 386, VI e VII, ambos do CPP, 59, caput, do CP, 387, IV, do CPP e 381 do CPP), que até obtiveram juizo positivo de admissibilidade na origem, gravitam em torno de discussão complexa, que demanda o exame vertical de todos os argumentos externados na origem em confronto com os documentos que instruem o processo, situação que refoge ao exame de cognição sumária da plausibilidade jurídica do pedido.
+Ante o exposto, indefiro, desde logo, o pedido de Tutela de Urgência, com a finalidade de empresar efeito suspensivo ao recurso especial, visto que não preenchido os requisitos necessários.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
