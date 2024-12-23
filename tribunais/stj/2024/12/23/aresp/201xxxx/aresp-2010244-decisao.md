@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS REIS DOS SANTOS JUNIOR, LUIS ARTUR DA SILVA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 0016110-84.2018.8.26.0506.
+Consta dos autos que o agravante foi condenado, em primeiro grau, à pena de 11 (onze) anos, 88 (oito) meses e 14 (catorze) dias de reclusão, em regime inicial fechado, mais 1.632 (hum mil, seiscentos e trinta e dois) dias-multa, no valor mínimo unitário, como incurso no art. 33, caput, c. c. art. 40, VI e art. 35, c. c. art. 40, VI, todos da Lei nº 11.343/06 e na forma do artigo 69, caput, do Código Penal.
+O Tribunal de origem apenas reconheceu erro material quanto à pena estabelecida para o delito tipificado no artigo 35 da Lei Antidrogas, reduzindo-a para 4 anos e 1 mês de reclusão e 952 dias-multa, perfazendo, após as somas das penas, 10 (dez) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e 1.632 (mil seiscentos e trinta e dois) dias-multa, de valor unitário mínimo, em acórdão assim ementado (e-STJ fls.1869/1910):
+Apelação. Interceptação telefônica. Subsidiariedade analisada na decisão de autorização. Transcrição da integralidade das gravações e perícia de voz. Desnecessidade. Preliminares rejeitadas. Tráfico ilícito de drogas e associação para a prática desse crime. Prova. Suficiência. Materialidade e autoria comprovada. Réus Luís e Brendo. Ausência de comprovação da ligação com as drogas apreendidas na posse do adolescente. Absolvição decretada. Penas. Pena-base do réu Guilherme. Redução. Inteligência da Súmula 444 do C. STJ. Possibilidade. Pena aplicada ao acusado Marcos pela prática do delito tipificado no artigo 35 da Lei Antidrogas. Erro material. Redução. Possibilidade. Penas dos demais acusados mantidas. Regimes mantidos. Recursos interpostos por Guilherme, Marcos, Luís e Brendo providos em parte. Apelos dos demais acusados improvidos.
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou violação aos artigos 3º da Lei n. 9.472/97 e do art. 7º da Lei n. 12.965/1.
+Afirmou que a prova obtida por meio da interceptação telefônica é nula.
+Sustentou que a interceptação telefônica decorreu do acesso ao aparelho telefônico de Jocenildo Bezerra Justo, o qual foi acessado pelos agentes policiais sem qualquer autorização. Assim, alegou que a interceptação é ilícita por derivação.
+Aduziu ainda que não houve autorização judicial fundamentada para a realização do monitoramento das conversas, tratando-se de decisão genérica.
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices elencados (e-STJ fls. 2148/2162).
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada (e-STJ fls. 2182/2187).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo em recurso especial (e-STJ fls. 2214/2215).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+Quanto à nulidade das interceptações telefônicas, o Tribunal de origem assim se manifestou (e-STJ fls. 1873/1877):
+No que concerne à ausência de fundamentação para a autorização das interceptações telefônicas, cumpre ponderar que a decisão judicial que analisou os requisitos da medida, ao pronunciar-se acerca das circunstâncias nas quais foi elaborado o pedido já indicou a subsidiariedade do meio de obtenção de prova.
+Vale dizer, a atuação dos réus foi descoberta após autorização de acesso às conversas de indivíduo investigado por receptação praticada com caráter transnacional, nas quais constatou-se a ligação entre essa pessoa e três associações que atuavam na Comarca de Ribeirão Preto.
+Após a interceptação de integrantes de cada uma das associações, apurou-se a ligação de Guilherme com os demais acusados, inclusive o acordo realizado para a comercialização de ponto de tráfico de drogas pertencente ao corréu Brendo. Observa-se que os métodos comuns de investigação não foram suficientes para a apuração da ação dos apelantes, motivo pelo qual a interceptação telefônica mostrou-se indispensável.
+Ressalte-se, ainda, que a investigação não foi iniciada com essa medida, mas sucedeu a realização de busca e apreensão dos bens de "Chiquinho", o indivíduo anteriormente investigado por receptação. Dessa forma, não há que se falar em ausência de fundamentação ou inobservância da subsidiariedade da medida."
+No caso em concreto, a interceptação telefônica foi autorizada judicialmente após autorização de acesso às conversas de indivíduo investigado por receptação onde se identificou mensagens relacionadas ao tráfico de drogas, atendendo aos requisitos do art. 2º da Lei n. 9.296/1996, sem evidências de ilegalidade.
+Os fundamentos para interceptação são idôneos, portanto.
+A jurisprudência do STJ admite a utilização de interceptação telefônica, desde que a decisão judicial que autoriza a medida esteja fundamentada de forma legítima, ainda que concisa, demonstrando a complexidade da investigação e a necessidade de prorrogações sucessivas, conforme entendimento firmado pelo STF no Tema 661.
+Além disso, o exame da pretensão esbarra no óbice da Súmula n. 7/STJ, uma vez que, para dissentir da conclusão do Tribunal estadual quanto à imprescindibilidade das medidas cautelares ou da existência de outros meios de obtenção da prova, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+No que toca à autorização para acesso ao celular apreendido, verifico também ser inviável a sua análise por esta Corte Superior. Primeiro porque a questão não foi apreciada pela instância ordinária, o que evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema. Além disso, eventual análise importaria no revolvimento de provas, o que é vedado pela Súmula n. 7/STJ,
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
