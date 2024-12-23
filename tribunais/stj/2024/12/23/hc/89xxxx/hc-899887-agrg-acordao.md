@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO MAJORADO. REITERAÇÃO DE PEDIDO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, sob o fundamento de que a matéria relativa à violação do procedimento de reconhecimento do art. 226 do Código de Processo Penal não foi apreciada no acórdão impugnado.
+2. O habeas corpus foi considerado inadequado para apreciação de pedido de absolvição, pois demandaria reanálise do acervo fático-probatório, o que é vedado no rito do habeas corpus.
+3. A pretensão de revisão da dosimetria da pena já havia sido apresentada em recurso especial anterior, configurando reiteração de pedido.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo regimental pode ser provido para reconsiderar decisão que não conheceu de habeas corpus, em razão de reiteração de pedido e ausência de apreciação de matéria pelo tribunal de origem.
+III. Razões de decidir
+5. A decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma, que não admite reiteração de pedido em habeas corpus quando já decidido em recurso anterior.
+6. A análise de pedido de absolvição ou revisão de dosimetria de pena em habeas corpus é inviável, pois requer reexame de provas, o que é vedado no rito célere do habeas corpus.
+7. A ausência de apreciação da matéria pelo tribunal de origem impede a análise direta pela Corte Superior, sob pena de supressão de instância.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não é a via adequada para reanálise de provas ou revisão de dosimetria de pena. 2. A reiteração de pedido em habeas corpus, já decidido em recurso anterior, é inadmissível. 3. A ausência de apreciação de matéria pelo tribunal de origem impede análise direta pela Corte Superior."
+Dispositivos relevantes citados: CPP, art. 226; RISTJ, art. 210.
+Jurisprudência relevante citada: STJ, AgRg no RHC 198.668/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 01.07.2024; STJ, AgRg no HC 762.206/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23.08.2022.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 371).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO MAJORADO. REITERAÇÃO DE PEDIDO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, sob o fundamento de que a matéria relativa à violação do procedimento de reconhecimento do art. 226 do Código de Processo Penal não foi apreciada no acórdão impugnado.
+2. O habeas corpus foi considerado inadequado para apreciação de pedido de absolvição, pois demandaria reanálise do acervo fático-probatório, o que é vedado no rito do habeas corpus.
+3. A pretensão de revisão da dosimetria da pena já havia sido apresentada em recurso especial anterior, configurando reiteração de pedido.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo regimental pode ser provido para reconsiderar decisão que não conheceu de habeas corpus, em razão de reiteração de pedido e ausência de apreciação de matéria pelo tribunal de origem.
+III. Razões de decidir
+5. A decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma, que não admite reiteração de pedido em habeas corpus quando já decidido em recurso anterior.
+6. A análise de pedido de absolvição ou revisão de dosimetria de pena em habeas corpus é inviável, pois requer reexame de provas, o que é vedado no rito célere do habeas corpus.
+7. A ausência de apreciação da matéria pelo tribunal de origem impede a análise direta pela Corte Superior, sob pena de supressão de instância.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não é a via adequada para reanálise de provas ou revisão de dosimetria de pena. 2. A reiteração de pedido em habeas corpus, já decidido em recurso anterior, é inadmissível. 3. A ausência de apreciação de matéria pelo tribunal de origem impede análise direta pela Corte Superior."
+Dispositivos relevantes citados: CPP, art. 226; RISTJ, art. 210.
+Jurisprudência relevante citada: STJ, AgRg no RHC 198.668/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 01.07.2024; STJ, AgRg no HC 762.206/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23.08.2022.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 871-874):
+"A matéria trazida na impetração sobre suposta violação do procedimento de reconhecimento do art. 226 do Código de Processo Penal não foi apreciada no acórdão impugnado, o que impede a apreciação por parte dessa Corte. Neste sentido: (..)
+Outrossim, o habeas corpus não é adequado para apreciar pedido de absolvição uma vez que seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte. Nesse sentido:
+"O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória". (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+Por fim, verifica-se que já foi apresentada no REsp 1857971/SP (2020/0009255-3) a pretensão de revisão da dosimetria - compensação da reincidência e a confissão espontânea. Tratando-se de reiteração, inadmissível a impetração:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, DA LEI N. 11.343/2006, E ART. 2.º, DA LEI N. 8.072/1990. PLEITO DE REDUÇÃO DA PENA E DE ABRANDAMENTO DO REGIME PRISIONAL INICIAL. REITERAÇÃO DO PEDIDO. MATÉRIA JÁ VEICULADA, COM A MESMA CAUSA DE PEDIR, NO ARESP N. 1.222.516/MG. DECISÃO DEFINITIVA DO STJ. HIPÓTESE DE INDEFERIMENTO LIMINAR DO WRIT. AGRAVO REGIMENTAL DESPROVIDO. - A defesa pretendeu, com o mandamus, que a pena definitiva do agravante fosse reduzida e que se abrandasse o seu regime prisional inicial. - O mandamus, porém, consiste em mera reiteração do pedido formulado no AR Esp n. 1.222.516/MG, o qual, ademais, tinha a mesma causa de pedir. - Naquela oportunidade (julgamento do AgRg nos E Dcl no AR Esp n.º 1.222.516/MG) decidiu-se que "houve fundamentação concreta quando do não reconhecimento do tráfico privilegiado, consubstanciada na conclusão de que o recorrente se dedica às atividades criminosas, ante a apreensão de quantidade elevada de drogas e pelas demais circunstâncias que envolveram o delito, elementos aptos a justificar o afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006". Outrossim, ficou decidido que, "considerando o patamar da pena definitiva que, em tese, comportaria o regime semiaberto, foi estabelecido o fechado de forma fundamentada, não havendo, portanto, ilegalidade a ser sanada.". - Em casos como o presente, a impetração deve ser inadmitida de plano, nos termos do art. 210, do RISTJ. - Agravo regimental desprovido. (AgRg no HC 762.206/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022).
+Esta é, aliás, a orientação que vem sendo adotada por esta Quinta Turma, que tem afirmado que "Incide o instituto da coisa julgada quando o habeas corpus é reiteração de recurso ordinário anteriormente julgado e desprovido, havendo identidade de partes, pedido e causa de pedir, ainda que impugnem acórdão diferentes, quando não houver sequer alegação de alteração fática que justifique uma nova abordagem das teses antes resolvidas. (AgRg no HC: 695150 SP 2021/0303500-0, Data de Julgamento: 03/05/2022, QUINTA TURMA, Data de Publicação: D Je 10/05/2022)
+Ante o exposto, não conheço do presente habeas corpus."
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 157, § 2º, DO CP. BUSCA PESSOAL. FUNDADAS SUSPEITAS. PACIENTE ENCONTRADO, LOGO APÓS A PRÁTICA CRIMINOSA, EM DECORRÊNCIA DO RASTREAMENTO DO VEÍCULO SUBTRAÍDO. MONITORAMENTO DO PACIENTE NAS ADJACÊNCIAS DO LOCAL. ATITUDES INCOMUNS. OCULTAÇÃO DE OBJETOS. RECONHECIMENTO PESSOAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO. 1. A busca pessoal é regida pelo art. 244, do Código de Processo Penal. Exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, a medida é válida quando for determinada no curso de busca domiciliar. 2. Na hipótese, verifica-se que os policiais agiram mediante fundada suspeita, pois agiram pontualmente em razão da localização, por meio de rastreador, do automóvel subtraído, logo após o crime, havendo ainda o monitoramento prévio do paciente, encontrado nas adjacências do local, o qual manteve atitudes incomuns para a situação, além de encontrar-se na posse de bens não identificáveis. 3. Somado a isso, os policiais ainda verificaram que o paciente, ao constatar a presença da guarnição, tentou disfarçar seu comportamento e, para isso, ocultou alguns objetos que carregava, a priori não identificados, próximo a roda de um carro que estava sendo lavado por um morador da região, e manuseou a mangueira, a fim de aparentar que estava bebendo água. Desse modo, a busca pessoal traduziu exercício regular da atividade investigativa promovida pela autoridade policial. 4. Devidamente justificada a ação policial, não há que se falar em ilicitude das provas dela decorrentes que ensejaram a condenação do paciente. 5. Na hipótese, verifica-se que a Corte local não examinou a pretensão defensiva relativa ao reconhecimento de ilicitude da prova em decorrência do reconhecimento pessoal, sem o que se torna inviável a apreciação do tema diretamente por esta Corte superior, sob pena de indevida supressão de instância. 6. Agravo regimental improvido. (AgRg no HC n. 893.859/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, D Je de 16/4/2024.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
