@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 159):
+APELACÃO CÍVEL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. CONSECTÁRIOS LEGAIS. COISA JULGADA.
+Definidos expressamente os critérios de atualização do montante devido em título formado quando já estavam em vigor as inovações da Lei 11.960, não é possível a sua modificação em cumprimento de sentença, sob pena de ofensa à coisa julgada.
+Os embargos de declaração opostos foram rejeitados (fl. 187).
+A parte recorrente alega ofensa ao art. 1.022, II, do Código de Processo Civil (CPC), ao art. 6º da Lei de Introdução às Normas do Direito Brasileiro e ao art. 1º-F da Lei 9.94/1997, com redação dada pela Lei 11.960/2009, porque (fl. 198):
+ ..  muito embora o acórdão tenha sido proferido após a publicação da Lei 11.960/09 (30.06.2009), que alterou o percentual de juros de mora aplicáveis nas condenações contra a Fazenda Pública, o que se observa no caso dos autos é que a matéria somente foi debatida em primeiro grau de jurisdição sob a égide da legislação até então vigente. O acórdão que julgou a Apelação não exerceu cognição sobre incidência da Lei 11.960/09: cingiu-se ao exame da legalidade da sentença em relação à legislação vigente na data em que ela foi proferida (anterior a 2009). Ou seja, em nenhum momento as instâncias superiores, analisando os recursos interpostos, enfrentaram a Lei 11.960/09, razão pela qual a alteração normativa sobre o tema deve ser observada em sede de cumprimento de sentença, com especial atendimento ao art. 6º da LINDB:
+ ..
+Note-se que o E. STJ entende que não há violação à coisa julgada a adoção de critérios de correção monetária fixados por legislação superveniente à formação do título executivo:
+Requer que "o recurso seja conhecido e provido, a fim de reformar o acórdão para que sejam fixados os juros moratórios nos mesmos percentuais aplicados à poupança" (fl. 201).
+A parte adversa não apresentou contrarrazões (fl. 207).
+O recurso foi admitido na origem (fls. 210/211).
+É o relatório.
+O Supremo Tribunal Federal (STF), no julgamento do RE 1.317.982, fixou a seguinte tese quanto ao Tema 1.170:
+"É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado" (relator Ministro Nunes Marques, DJe de 8/1/2024).
+Conforme os arts. 1.040 e 1.041 do Código de Processo Civil, publicado o acórdão paradigma submetido ao regime de repercussão geral ou dos recursos especiais repetitiv os, o Tribunal de origem deve negar seguimento aos recursos e encaminhá-los para retratação do órgão colegiado, a fim de que haja o alinhamento das teses ou a manutenção da decisão divergente.
+Ante o exposto, determino a devolução dos autos à instância de origem, com a devida baixa nesta Corte Superior, para que, nos termos dos arts. 1.040 e 1.041 do Código de Processo Civil, seja realizado o juízo de conformação à luz do que decidiu o Supremo Tribunal Federal quanto ao Tema 1.170/STF.
+Publique-se. Intimem-se.
+ EMENTA
