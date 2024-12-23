@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de MAGNO CARDOSO DOS SANTOS - condenado como incurso no crime de roubo majorado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação Criminal n. 0000244-27.2016.8.26.0564), não comporta acolhimento.
+Insurge-se a impetração contra a condenação imposta ao paciente pelo Juízo de Direito da 4ª Vara Criminal da comarca de São Bernardo do Campo/SP e mantida pela Corte estadual, ao argumento de que ser cabível a sua absolvição por insuficiência probatória e necessidade de reajuste da dosimetria da pena.
+De início, observo que o writ foi indevidamente utilizado como espécie de "segunda apelação criminal"  em especial considerando o julgamento do recurso perante a Corte estadual em 11/12/2018  , dirigida a uma Corte de Precedentes, o que é inadmissível.
+Ademais, os fatos narrados não se mostram com a nitidez imprimida na inicial, uma vez que se extrai do acórdão a quo, após ampla e exauriente análise das provas dos autos, que MAGNO comandou o grupo, determinando a marca e modelo de caminhão à ser subtraído, "teto alto", mantendo distância do local do crime, aproximando-se do veículo roubado apenas para a retirada do rastreador, enquanto JOSÉ HÉLIO era o responsável por arregimentar e levar os roubadores ao local da abordagem da vítima e depois escoltar o produto do crime até o local de "descanso", e JOSÉ NILTON conduziu o caminhão roubado até a área de "descanso", sabendo tratar-se de produto ilícito, como por ele confessado (fl. 179).
+Ressalte-se que a dosimetria da pena não se vincula a um critério puramente matemático, devendo ser respeitada a discricionariedade regrada do julgador. E, no caso, mostra-se irreparável a dosimetria revisada pela Corte estadual, pois se afastar da conclusão das instâncias ordinárias de que o paciente seria o comandante da ação delituosa ensejaria o revolvimento de fatos e provas, providência indesejável na via eleita.
+Po r fim, também cabe à defesa, em observância ao princípio da cooperação, aplicável não só na seara cível, mas, no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pena de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO. ABSOLVIÇÃO E DOSIMETRIA. APELAÇÃO CRIMINAL JULGADA EM 11/12/2018. UTILIZAÇÃO INDEVIDA DO WRIT. CONSTRANGIMENTO ILEGAL . AUSÊNCIA.
+Ordem denegada.
