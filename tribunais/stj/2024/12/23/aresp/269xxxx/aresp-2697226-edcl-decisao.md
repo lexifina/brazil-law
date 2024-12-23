@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IRMANDADE DA SANTA CASA DE MISERICORDIA DE CACONDE contra decisão da minha lavra em que conheci do agravo da União para conhecer de seu recurso especial e, nessa extensão, dar-lhe provimento para reconhecer a existência de litisconsórcio passivo necessário, com a consequente anulação dos atos decisóri os até agora proferidos, com o retorno dos autos à instância de origem, onde se deve determinar à parte autora a providência disposta no art.115, parágrafo único, do CPC/2015, ficando prejudicadas as demais alegações (e-STJ fls. 1.033/1.037).
+Sustenta a parte embargante que o julgado padece de omissão, porque a União não teria impugnado adequadamente a decisão de inadmissão, além da incidência das Súmulas 283/STF, 126 e 211/STJ em relação ao apelo nobre.
+Impugnação às e-STJ fls.1.065/1.070 sustentando a inexistência de vício de integração e tentativa reapreciação do mérito.
+Passo a decidir.
+A Primeira Seção, na sessão virtual de 11 a 17 de dezembro de 2024, afetou os Recursos Especiais 2.176.897/DF, 2.176.896/DF, 2.184.221/DF e 2.182.157/DF, de relatoria da eminente Ministra Regina Helena Costa, à sistemática dos recursos repetitivos para definir as seguintes teses controvertidas:
+a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS;
+b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; e
+c) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar.
+Encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp n. 2.079.384/PR, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022; EDcl no AgInt no REsp n. 2.000.033/DF, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/12/2022, DJe de 12/12/2022; e EDcl no AgInt no REsp n. 2.003.948/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto,
+a) RECONSIDERO a decisão anterior, às e-STJ fls. 1.033/1.034, tornando-a sem efeito;
+b) em consequência, PREJUDICADOS os aclaratórios, às e-STJ fls. 1.041/1.056; e
+c) DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
