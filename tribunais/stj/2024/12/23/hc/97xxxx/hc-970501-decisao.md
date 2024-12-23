@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de LUCAS PEREIRA SILVA - preso preventivamente pela prática, em tese, do crime de tráfico de drogas -, apontando-se como autoridade coatora o Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido liminar nos autos do Habeas Corpus n. 2389569-65.2024.8.26.0000 (fls. 14/23).
+Busca-se a superação da Súmula 691 do STF para conceder a ordem, inclusive em caráter liminar, para revogar a prisão preventiva imposta ao paciente pelo Juízo de Direito da 1ª Vara da comarca de Iguape/SP (Autos n. 1501407-74.2024.8.26.0244 - fls. 24/26), ou, subsidiariamente, substituí-la por outras medidas cautelares mais brandas, argumentando-se a ausência de fundamentos idôneos do decreto de custódia cautelar e desproporcionalidade da medida coercitiva, pois, na hipótese de eventual condenação, há possibilidade de imposição de regime de cumprimento menos severo, tendo em vista que o réu fará jus à causa de diminuição especial da Lei de Drogas.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, principalmente diante dos seguintes argumentos: a custódia cautelar, neste caso, é necessária para a garantia da ordem pública, impedindo a reiteração da traficância, vez que há evidência de que o custodiado fazia desse comércio ilícito seu meio de vida, notadamente pelas circunstâncias da prisão e pela quantidade e variedade das drogas. Isso porque os indiciados foram presos na posse de grande quantidade e variedade de entorpecentes (Lucas tinha consigo 80 pinos de cocaína, 88 embalagens de crack, 10 porções de maconha, 25 microtubos com skunk, e Luan tinha 155 eppendorfs de cocaína e 168 embalagens de crack) - fl. 25.
+Ressalto que, no presente caso, as questões trazidas na impetração não foram ainda enfrentadas pelo Tribunal a quo, não se admitindo a pretendida supressão de instância.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+Writ indeferido liminarmente.
