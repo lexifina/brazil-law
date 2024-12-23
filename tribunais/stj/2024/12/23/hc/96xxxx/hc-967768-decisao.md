@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ROGERIO LUIS DA SILVA JUNIOR, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no HC n. 5071852-19.2024.8.24.0000.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 (seis) anos e 8 (oito) meses de reclusão, no regime inicial fechado, além do pagamento de 666 (seiscentos e sessenta e seis) dias-multa.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que indeferiu a inicial e julgou extinto o feito sem apreciação do mérito, ato contínuo, a Defesa interpôs Agravo Interno, que não foi conhecido pelo Desembargador Relator.
+Neste writ, o impetrante sustenta que A autoridade coatora argumenta que a defesa não impugnou especificamente os fundamentos da decisão que não concedeu a ordem de habeas corpus e por tal motivo restou inviabilizada a análise do agravo regimental. No entanto, a argumentação não merece amparo. Isso porque, não obstante o relator tenha consignado a fundamentação genérica no sentido de que o habeas corpus não serve como sucedâneo recursal, na mesma decisão combateu os fundamentos arguidos pela defesa acerca do flagrante constrangimento ilegal. Com efeito, não há que se falar em ofensa ao princípio da dialeticidade, notadamente porque a defesa combateu os argumentos lançados na decisão. Além disso, no próprio remédio constitucional a defesa discorreu acerca do cabimento do habeas corpus. Ainda que assim não fosse, diferente do que arguido pela decisão coatora, é flagrante o constrangimento ilegal de que padece o paciente, de modo que o juízo a quo poderia analisar e conceder a ordem de oficio, conforme se verá no tópico a seguir. (fl. 04).
+Aduz, também, que Ao analisar detidamente os autos, é incontroverso que não se deve manter o regime fechado estabelecido na sentença, pois ausentes valorosos fundamentos para tanto. No caso, é incontroversa a desproporcionalidade do regime mais gravoso, uma vez que o paciente é primário, não havendo, portanto, motivos suficientes para tanto. Sim, é primário, porquanto, muito embora ostente duas condenações criminais (autos n. 17156120088240064 e 105827320098240075), elas já atingiram o período depurador previsto pelo art. 64 do CP e não podem ser considerados para fins de reincidência. Não bastasse isso, referidas condenações tratam-se de fatos ocorridos nos idos de 2008 e 2009 (há mais de quinze anos) e as penas foram extintas em 2016 (há oito anos). (fls. 05/06).
+Requer, em liminar e no mérito, a concessão do presente writ, para alterar o regime inicial de cumprimento da pena privativa de liberdade.
+É o relatório.
+DECIDO.
+No caso, verifico que a parte impetrante se insurge contra decisão monocrática de Desembargador Relator do Tribunal de origem, que não conheceu recurso interposto pela Defesa.
+Assim, segundo a orientação adotada nesta Corte Superior de Justiça, é inviável o conhecimento da ação mandamental, pois ausente o exaurimento da instância antecedente.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR QUE NÃO CONHECEU DE MANDAMUS PRÉVIO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+1. De acordo com o disposto no art. 105, II, "a", da Constituição da República, compete ao Superior Tribunal de Justiça "julgar, em recurso ordinário, os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória".
+2. No caso, o mandamus foi impetrado contra decisão monocrática que não conheceu de habeas corpus prévio, não tendo sido impugnada pelo recurso cabível para submetê-la à apreciação do órgão colegiado. Dessa forma, não esgotada a instância ordinária, é manifesta a supressão de instância. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 912.579/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
