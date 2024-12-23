@@ -1,0 +1,17 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS agrava de decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 386582-10.2013.8.09.0175.
+Nas razões recursais, o Parquet estadual aponta a violação ao art. 2º, II, da Lei n. 8.137/1990, ao argumento de que é típica a conduta de deixar de repassar ao fisco o ICMS indevidamente apropriado.
+Requer o provimento do recurso, a fim de reconhecer a tipicidade da conduta imputada aos recorridos.
+O apelo especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo. O Ministério Público Federal manifestou-se pelo provimento do reclamo (fls. 651-655).
+Decido.
+De plano, verifico a perda do interesse-utilidade deste recurso especial, o que prejudica a análise do mérito.
+Os recorridos foram condenados, em 25/1/2016, pela prática do delito tipificado no art. 2º, II, da Lei n. 8.137/1990, à pena de 9 meses de detenção.
+No âmbito de apelação exclusiva da defesa, o Tribunal a quo absolveu os réus com fulcro no art. 386, III, do Código de Processo Penal, por atipicidade da conduta.
+Contra esse acórdão, insurge-se o Ministério Público por meio deste recurso especial, para que seja restabelecida a condenação imposta aos recorridos, em primeiro grau de jurisdição. Contudo, mesmo em caso de procedência do recurso especial, a prescrição da pretensão punitiva ocorreu entre a prolação do édito condenatório e a presente data, atingindo todos os efeitos secundários e civis da condenação.
+O art. 110, § 1º, do Código Penal disciplina que a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação, regula-se pela pena aplicada. A pena aplicada ao recorrido transitou em julgado para o Ministério Público, pois o recurso especial versa, somente, sobre o restabelecimento da sentença.
+Assim, ainda que o recurso especial da acusação fosse provido, subsistiria a pena fixada na sentença condenatória, que, para o caso concreto, foi de 9 meses de detenção. Nessas circunstâncias, o prazo prescricional é de 3 anos, conforme disposto nos arts. 109, VI, e 110, § 1º, do CP.
+Considerando que o último marco interruptivo da prescrição ocorreu com a publicação da sentença condenatória, em 25/1/2016 (fl. 408), e transcorridos mais de 3 anos entre a referida data e o presente momento, o reconhecimento da prescrição da pretensão punitiva, ocorrida após a interposição do especial, seria medida cogente na espécie, o que evidencia a superveniente perda do interesse-utilidade deste recurso, ou, nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal. 6. ed. rev., atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2009, p. 71)
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 34, XVIII, "a", do RISTJ, não conheço do agravo em recurso especial por ausência de interesse de agir.
+Publique-se e intimem-se.
+EMENTA
