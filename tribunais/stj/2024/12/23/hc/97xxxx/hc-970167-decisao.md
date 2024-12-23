@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de HELTON DE SOUSA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO (HC n. 0829714-79.2024.8.10.0000).
+Consta dos autos que a prisão preventiva do paciente foi decretada em 10/11/2004 e efetivada apenas em 18/10/2024, pela suposta prática do delito de homicídio qualificado - art. 121, § 2º, II, do Código Penal.
+Impetrado habeas corpus no Tribunal de origem, o pedido liminar foi indeferido (e-STJ fls. 28-38).
+Neste writ, a defesa sustenta a ausência de fundamentação idônea bem como dos requisitos legais para a decretação da prisão preventiva do paciente, a qual teria sido embasada tão somente na gravidade abstrata do delito.
+Aduz a ausência de contemporaneidade dos motivos ensejadores da prisão tendo em vista que o paciente foi preso 20 anos após os fatos.
+Afirma ser suficiente a aplicação de medidas cautelares diversas da prisão para a garantia da ordem pública.
+Alega que a manutenção da segregação cautelar do agente evidencia a ocorrência de flagrante ilegalidade e demonstra a necessidade de mitigação do disposto na Súmula n. 691 do Supremo Tribunal Federal.
+Requer, liminarmente e no mérito, a revogação da prisão cautelar ainda que com a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça possui jurisprudência firmada no sentido de que não cabe habeas corpus contra decisum que indefere liminar no writ precedente (enunciado 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não se verifica na espécie, ainda mais diante do que consignou a Corte local (e-STJ fls. 30/37, grifei):
+Pelo que se abstrai da decisão é que o juízo impetrado fundamentou sua decisão nas disposições do art. 312 do CPP, diante dos indícios de autoria e prova quanto à materialidade. Na decisão que indeferiu o pedido de revogação da prisão, restou consignado que a prisão preventiva foi decretada tanto para assegurar a ordem pública quanto para garantia da aplicação da lei penal, porquanto o requerente, após o cometimento do crime, empreendeu fuga do distrito da culpa, estando foragido há mais de 20 (vinte) anos. Acrescenta que a decisão que decretou a prisão preventiva é contemporânea aos fatos e, destarte, continua legal e que não se pode analisar tal contemporaneidade com o cumprimento do mandado de prisão, sob pena de se privilegiar indivíduos que optam como estratégia de defesa a fuga.
+Neste momento processual de cognição sumária, próprio das liminares, não encontro presente fundamentos ao deferimento do pedido, especialmente aquele que se refere à plausibilidade do direito invocado, que recai em suposto excesso injustificado de prazo e ausência dos requisitos para a manutenção da prisão.
+É pacífico, no âmbito do Superior Tribunal de Justiça, que "o fato de o paciente permanecer foragido constitui causa suficiente para caracterizar risco à aplicação da lei penal a autorizar a manutenção da preventiva." (STJ, AgR no HC 209198, Relator (a): ROSA WEBER, Primeira Turma, julgado em 08/02/2022, PROCESSO ELETRÔNICO DJe- 028 DIVULG 14-02-2022 PUBLIC 15-02-2022).
+ ..
+Quanto à alegação de que não se fazem presentes os requisitos para a manutenção da prisão, entendo que se o juízo não revogou a prisão preventiva, ainda não desapareceram os motivos que ensejaram sua decretação.
+ ..
+Desta feita, tenho que a prisão processual está devidamente fundamentada em dados concretos e também na gravidade abstrata do delito, pautando-se na finalidade de resguardar a ordem pública, sendo, portanto, inviável a revogação da prisão cautelar ou a substituição por medidas cautelares alternativas à prisão.
+Ante o exposto, INDEFIRO o pedido liminar, sem prejuízo do julgamento do mérito pela 1ª Câmara Criminal.
+O Juiz de primeiro grau manteve a segregação cautelar nos seguintes termos (e-STJ fl. 19, grifei):
+Quanto à necessidade de custódia cautelar, a insuficiência das medidas cautelares alternativas à prisão e o perigo na liberdade, verifico que a prisão preventiva foi decretada tanto para assegurar a ordem pública quanto para a garantia da aplicação da lei penal, porquanto o requerente, após o cometimento do crime, empreendeu fuga do distrito da culpa, estando foragido há mais de 20 (vinte) anos.
+No caso dos autos, consta da investigação, que o denunciado matou a vítima, pois, várias vezes teria procurado as horas para o requerente, começaram uma discussão, o réu se armou com uma arma branca e deferiu várias facadas na vítima, ceifando-lhe a vida.
+Com efeito, um indivíduo que, supostamente, comete um homicídio decorrente de discussão em bar e pelo motivo de a vítima ter perguntado as horas para o denunciado revela extraordinária violência e, assim, risco à ordem pública.
+Como se vê, a manutenção da prisão preventiva, corroborada pelo Tribunal de origem, foi fundamentada na gravidade concreta do crime praticado e pelo fato de que o paciente esteve foragido por mais de 20 anos.
+Com efeito, é firme o entendimento jurisprudencial de que "a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta" (AgRg no HC 582.326/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020), a evidenciar a periculosidade real, propensão à prática delitiva e conduta violenta, como no caso.
+Ademais, verifica-se que a jurisprudência desta Corte Superior sedimentou-se no sentido de que "a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal" (AgRg no HC n. 568.658/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 13/8/2020).
+Por fim, "a contemporaneidade da cautelar deve ser aferida não tomando por base apenas a data dos fatos investigados, mas, igualmente, levando em conta a permanência de elementos que indicam que os riscos aos bens que se buscam resguardar com sua aplicação ainda existem" (AgRg no HC n. 732.879/PA, Relator Ministro Jesuíno Rissato, Quinta Turma, julgado em 24/5/2022, DJe de 31/5/2022).
+Não bastasse, as questões formuladas, notadamente diante das peculiaridades do caso, necessitam de averiguação mais aprofundada pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar de maneira aprofundada o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+A propósito, guardadas as devidas particularidades:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE AS SIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça (RISTJ) , indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
