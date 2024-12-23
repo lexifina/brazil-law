@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO PIAUÍ contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação n. 0822667-05.2021.8.18.0140, assim ementado (fls. 143-144):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE OBRIGAÇÃO DE FAZERCUMULADA COM O PAGAMENTO DE ATRASADOS. DISTINÇÃO ENTRE VERBAREMUNERATÓRIA E VERBA INDENIZATÓRIA. INCIDÊNCIA DE VERBAREMUNERATÓRIA SOBRE BASE DE CÁLCULO DO DÉCIMO TERCEIROSALÁRIO E TERÇO CONSTITUCIONAL. PREVISÃO LEGAL. INCIDÊNCIA DARUBRICA ADICIONAL NOTURNO. INDEFERIMENTO DA INCIDÊNCIA DA RUBRICA AUXÍLIO REFEIÇÃO. AUSÊNCIA DE COMPROVAÇÃO DA NATUREZAREMUNERATÓRIA. IMPOSSIBILIDADE DE CONDENAÇÃO AO PAGAMENTO DEINDENIZAÇÃO A TÍTULO DE DANOS MORAIS. RECURSO CONHECIDO EPARCIALMENTE PROVIDO.
+1. Trata-se o feito originário de ação declaratória de obrigação de Fazer cumulada com o pagamento de atrasados ajuizada em desfavor do Estado do Piauí, sob a alegação de que encontra-se incorreto o cálculo e o pagamento do décimo terceiro salário e terço de férias, ante a necessidade que estes valores sejam calculados com base na "remuneração integral", na qual estão incluídas as gratificações ou adicionais percebidos pelo servidor público.
+2. Para análise da incorporação das demais gratificações e vantagens, é necessário fazer uma distinção entre verba remuneratória e verba indenizatória, porquanto somente aquela integra a remuneração, permite a correspondente repercussão sobre as férias, acrescidas do terço constitucional e o décimo terceiro salário. A ideia principal para entender a diferença entre estas verbas é a de que, se um valor foi gasto pelo empregado/servidor para possibilitar a realização de uma atividade laboral e ele está sendo ressarcido, esse pagamento tem natureza indenizatória. Por outro lado, se o valor é pago pelo trabalho realizado, ele tem natureza remuneratória. 3. Observa-se que a rubrica Adicional noturno encontra previsão expressa na LC nº 13/1994 (Estatuto dos servidores públicos estaduais do Piauí), consistente em verba remuneratória de caráter permanente, integram a remuneração do servidor, deverão ter seus reflexos garantidos e incidindo sobre o cálculo das férias, décimo terceiro salário e terço constitucional, apurados em liquidação de sentença, sendo devido também o pagamento das diferenças dos valores, considerando a prescrição quinquenal das parcelas anteriores, nos termos do 1º do Decreto nº 20.810/1992.
+4. Entretanto, não merece acolhida a pretensão recursal, uma vez que não foi apresentada pelo autor provas hábeis a comprovar a natureza remuneratória da vantagem auxílio refeição, de forma a justificar a sua incidência sobre a base de cálculo do 13º salário e terço constitucional, na forma requerida.
+5. O apelante não demonstrou situação de vexame frente a comunidade ou família, dificuldades para pagar as suas dívidas ou até mesmo ausência de recursos para o pagamento de suas despesas básicas, não ficando demonstrados os sentimentos de frustração e sofrimento suportados pelo recorrente, tratando-se o caso de mero dissabor o que não autoriza o pagamento de indenização por dano moral.
+6. Recurso conhecido e parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (fls. 187-196).
+Nas razões do apelo nobre, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, o agravante alega violação dos arts. 373, inciso I, 489 e 1.022, inciso II, do CPC.
+Requer, assim:
+ ..
+que esse Excelso SUPERIOR TRIBUNAL DE JUSTIÇA conheça do presente recurso e lhe dê provimento para anular o acórdão, determinado a suspensão do processo.
+Subsidiariamente, requer o reconhecimento e provimento do recurso para requalificação jurídica do fatos debatidos no acórdão, de maneira a reformar a decisão a quo, declarando totalmente improcedente a pretensão autoral. (fl. 214)
+O Tribunal a quo não admitiu o apelo nobre (fls. 243-250).
+Apresentado agravo em recurso especial (fls. 275-280).
+Intimada, a parte Agravada deixou de apresentar contraminuta (fl. 285).
+É o relatório.
+Decido.
+O agravo não deve ser conhecido.
+De início, trata-se de Ação declaratória c.c cobrança interposta pelo Agravado em face do Estado do Piauí, julgada improcedente (fls. 65-72).
+O Tribunal de origem, ao examinar a apelação da parte autora, deu parcial provimento ao recurso (fls. 143-175).
+Em sede do juízo de admissibilidade, o Tribunal a quo decidiu "que o acórdão se manifestou expressamente a respeito da natureza do adicional noturno e do auxílio-refeição, restando evidente o mero inconformismo do Recorrente com a solução jurídica aplicada ao caso, não havendo que se falar em omissão" (fl. 250).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a ausência de omissão no acórdão recorrido.
+Além disso, ao proceder análise do processo, infere-se que o Tribunal de origem não apreciou a suposta violação do art. 373, inciso I, do CPC, e a parte recorrente não suscitou a questão em seus embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e 356, ambas do STF.
+Ressalta-se que mesmo nos casos em que a suposta ofensa à lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que a Corte de origem se manifeste sobre o tema a ser veiculado no recurso especial, ainda que se cuide matéria de ordem pública. Nesse sentido: AgInt no AREsp n. 1.064.207/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023; AgInt no REsp n. 2.024.868/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/8/2023, DJe de 31/8/2023.
+Dessa forma, conclui-se que o Agravante deixou de impugnar especificamente o fundamento da decisão agravada, relativo ao óbice da súmula n. 282 do STF.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022. Sem grifo no original.)
+Ante o exposto, com fundamento no art. 932 do CPC, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 173), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DISTINÇÃO ENTRE VERBA REMUNERATÓRIA E VERBA INDENIZATÓRIA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS: INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO; INCIDÊNCIA NOS ÓBICES DAS SÚMULAS N. 282 E 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
