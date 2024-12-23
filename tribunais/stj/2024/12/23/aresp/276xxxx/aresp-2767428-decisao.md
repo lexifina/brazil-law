@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 89-90):
+PENSÃO MILITAR. JUSTIÇA GRATUITA. ANÁLISE DO CASO CONCRETO. NÃO APRESENTAÇÃO DE DOCUMENTOS COMPROBATÓRIOS DOS REQUISITOS. APELAÇÃO DESPROVIDA.
+1. O art. 5º, LXXIV, da CF/88 assegura a assistência judiciária gratuita ao interessado que comprove situação econômica que não o permita vir a juízo sem prejuízo da sua manutenção ou de sua família. O art. 98 do CPC/2015 disciplina sobre aqueles que podem ser beneficiários da justiça gratuita.
+2. O Superior Tribunal de Justiça e esta Corte Regional pacificaram o entendimento, no sentido de que o benefício da assistência judiciária gratuita tem por pressuposto a impossibilidade de a parte custear o processo sem prejuízo próprio ou de sua família, sendo que a declaração correspondente pode ser firmada pela parte ou por procurador constituído com poderes específicos para declará-la em juízo, assegurando a possibilidade de responsabilização em caso de falsidade. No entanto, o que assegura o benefício é a condição real daquele que pretende a gratuidade, aferível pela documentação apresentada aos autos, ou mesmo pela qualificação da parte e por elementos que podem indicar a capacidade de pagamento das custas e mais despesas processuais.
+3. Verifica-se pelos documentos juntados com a inicial que a autora não se enquadra em situação de hipossuficiência, uma vez que recebe uma pensão de mais de vinte mil reais e, apesar de demonstrar descontos por empréstimos consignados, ainda recebe líquido mais de seis mil reais, não tendo demonstrado a impossibilidade de pagar as despesas processuais.
+4. Apelação desprovida.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos artigos 17, 98, 141 e 492 do CPC/2015, aos seguintes argumentos: (i) "é ônus da parte adversa comprovar que a parte autora detém capacidade financeira para arcar as despesas advindas do processo" (fl. 138); (ii) "não existe pronunciamento produzido de forma congruente aos efeitos da declaração de hipossuficiência ou/e adequada ao fundamento do pedido" (fl. 141).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes o óbice apontado na decisão agravada.
+É o relatório. Decido.
+De início, no que diz respeito aos artigos 17, 141 e 492 do CPC/2015, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+No que diz respeito ao art. 98 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não restou comprovada a hipossuficiência da parte recorrente, a justificar a concessão da justiça gratuita, nos seguintes termos (fl. 89):
+Na espécie, a apelante requer a declaração de inexistência de relação jurídica de natureza funcional, previdenciária e tributária entre a Força Militar e a Sra.: Adriana Cozendey e a cessação de imediato da cobrança compulsória realizada para incrementar o fundo de pensão militar. Foi indeferida a justiça gratuita e a parte intimada para pagar as custas, o que não foi cumprido.
+Verifica-se pelos documentos juntados com a inicial que a autora não se enquadra em situação de hipossuficiência, uma vez que recebe uma pensão de mais de vinte mil reais e, apesar de demonstrar descontos por empréstimos consignados, ainda recebe líquido mais de seis mil reais, não tendo demonstrado a impossibilidade de pagar as despesas processuais.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. JUSTIÇA GRATUITA. REQUISITOS. INDEFERIMENTO. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. ÓBICE DA SÚMULA 7/STJ.
+1. Conforme entendimento do Superior Tribunal de Justiça, o recebimento de verba indenizatória não implica, necessariamente, a revogação do benefício da justiça gratuita concedido à parte.
+Contudo, a declaração de pobreza tem presunção juris tantum, podendo ser afastado o benefício se o magistrado se convencer que não ficou configurada a miserabilidade jurídica.
+2. No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar."
+(fl. 40).
+3. Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. O mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a avaliação do dissídio jurisprudencial.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024.)
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. GRATUIDADE DE JUSTIÇA. COMPROVAÇÃO. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
