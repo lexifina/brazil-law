@@ -1,0 +1,36 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 275):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DE INADMISSÃO. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão que, na origem, não admitiu o recurso especial assentou o óbice da Súmula n. 7/STJ. Todavia, no respectivo agravo, a Defesa limitou-se a arguir, genericamente, a inaplicabilidade do referido entrave.
+2. Para afastar a incidência da Súmula n. 7/STJ, exige-se a demonstração clara e objetiva de que a solução da controvérsia e a verificação de violação da lei federal independem do reexame do conjunto fático-probatório dos autos. Na espécie, os dados concretos constantes do acórdão recorrido não foram sequer contextualizados.
+3. A falta de ataque a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+4. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 306-309).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que (fl. 316):
+Ao examinar os autos, constata-se que os v. acórdãos não apreciaram adequadamente o presente processo ao proferir a decisão que julgou os embargos de declaração. Caso tenha o feito, as fundamentações utilizadas nas decisões são inadequadas, pois se baseiam em elementos que não correspondem ao conteúdo dos autos. Em razão disso, a fundamentação apresentada revela-se genérica e inexata, comprometendo a validade da decisão proferida.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 279-280):
+A decisão por mim proferida está assim fundamentada (fls. 244-245):
+Em suas razões, o Agravante sustenta que não incide o óbice da Súmula n. 7/STJ, pois não se trata de reexame do conjunto probatório, mas tão somente de revaloração jurídica. Nas razões do agravo, contudo, a Parte deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório. Não houve sequer o cuidado de contextualizar dados concretos constantes do acórdão recorrido.
+Como se sabe, "são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos." (AgRg no AREsp 2176543/SC. Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/03/2023, DJe de 29/09/2023), o que não se verifica na hipótese. A propósito: (..).
+Conclui-se, portanto, que o agravo não preenche os requisitos de admissibilidade, vez que deixou de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do recurso especial, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal. Com igual conclusão: (..).
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Observa-se que a decisão de inadmissão do recurso especial assentou o óbice da Súmula n. 7/STJ. Todavia, no respectivo agravo, a Defesa limitou-se a arguir, genericamente, a inaplicabilidade do referido entrave.
+Especificamente no tocante à refutação da Súmula n. 7/STJ, a parte deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório, não havendo sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido.
+A propósito:
+Como se sabe, são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos (AgRg no AREsp 2176543/SC. Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/9/2023), o que não se verifica na hipótese.
+No mesmo diapasão: AgRg no AREsp 2422499/SP. Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 05/03/2024, DJe de 08/03/2024.
+Esta Corte Superior pacificou o entendimento de que a ausência de efetiva impugnação dos fundamentos da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos do art. 932, III, CPC/ 2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+Verifica-se, portanto, que foram suficientemente apresentadas as razões pelas quais não foram preenchidos os requisitos de admissibilidade do recurso dirigido ao STJ, não tendo sido examinada a matéria de fundo, motivo pelo qual é inviável o exame das questões relacionadas ao acerto da aplicação de óbices processuais por esta Corte.
+Assim , demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
