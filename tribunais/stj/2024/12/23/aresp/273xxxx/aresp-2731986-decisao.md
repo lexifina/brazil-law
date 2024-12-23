@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. CAUTELAR DE PROTESTO CONTRA ALIENAÇÃO DE BENS. TUTELA DE URGÊNCIA EM CARÁTER ANTECEDENTE. Decisão que deferiu o pedido de protesto contra alienação de bens atendendo ao requerido pelas autora, sob fundamento de "prevenir responsabilidades, conservar e ressalvar direitos". Insurgência recursal do réu, sócio retirante, que insiste na revogação da medida. Pertinência - Tumultuada relação jurídica. Acusações mútuas. Arguição de má conduta na petição, concorrência desleal e desvios de recursos das Sociedades não possuem lastro suficiente para amparar o alegado receio de atos de disposição ou oneração patrimonial capazes de frustrar a percepção de eventual indenização material. Ausência de prova do risco de dilapidação do patrimônio. Decisão revogada. Cautela que reflete entendimento desta Corte. Agravo de instrumento provido.
+DISPOSITIVO: Agravo provido para revogar a r. decisão que em tutela cautelar em caráter antecedente, deferiu protesto judicial contra alienação de bens.
+Alegou-se, no especial, violação dos artigos 139, IV, 297, 300, 301 e 726 do Código de Processo Civil sob o argumento de que "o poder geral de cautela do juiz, disciplinado no art. 301 do CPC, é supedâneo para permitir a averbação, no registro de imóveis, do protesto contra de alienação de bens se justifica pela necessidade de dar amplo conhecimento do protesto a terceiros servindo desse modo como advertência a pretendentes à aquisição dos imóveis do possível devedor, resguardando, portanto, os interesses de eventuais adquirentes de boa-fé e da própria parte interessada" (e-STJ, fl. 418).
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem consignou que a "decisão agravada versa unicamente sobre o deferimento da liminar que atendeu ao pedido de protesto contra alienação de bens formulado pelos Agravados" (e-STJ, fl. 376).
+Concluiu, por sua vez, que:
+"(..) circunstâncias apresentadas até o momento são relevantes, graves e merecem a atenção desta C. Corte, entretanto, nesta fase inaugural, não permitem o alcance determinado na r. decisão agravada.
+É certo que as relação entre as partes possui inúmeros reflexos a serem verificados, entretanto, a mera conjetura acerca do receio de dilapidação patrimonial e frustração de recebimento de indenizações sequer reconhecidas demonstram que risco suscitado é relativo, senão inexiste.
+Observa-se, ainda, não terem as Agravadas  ora agravantes  indicado de maneira precisa e didática as eventuais condutas dos Coagravados  aqui recorridos  que pudessem configurar risco de dilapidação e imediato prejuízos a seus interesses" (e-STJ, fl. 377).
+Inequívoco, pois, que o reexame da questão encontra os óbices de que tratam os verbetes n. 7 da Súmula desta Corte e 735 do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
