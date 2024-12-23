@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo JUÍZO DE DIREITO DA 5ª VARA DAS EXECUÇÕES CRIMINAIS - FORO CENTRAL CRIMINAL BARRA FUNDA - SÃO PAULO - SP.
+Consta dos autos que o interessado foi absolvido impropriamente no processo n. 0041748-14.2011.8.05.0001 pelo Juízo de Direito da 2ª Vara dos Feitos Relativos aos Crimes Contra Criança e Adolescente da Comarca de Salvador - BA.
+Em 20 de setembro de 2024, o mandado de internação foi cumprido em São Paulo, tendo o Juízo suscitante determinado que não ocorresse a inclusão do interessado no Hospital de Custódia e Tratamento Psiquiátrico do Estado, em razão de inexistência de vagas. Pontuou, ainda, que não há processo em andamento em desfavor do interessado no Estado, razão pela qual determinou o recambiamento deste para a Bahia. Informou que o Juízo suscitado comunicou ao Centro de Detenção Provisória Belém I de São Paulo que "o processo encontra-se em fase de execução sob a égide da DECRIM 5 - Vara de Execução de Medida de Segurança" (fl. 33), razão pela qual suscitou o presente conflito de competência.
+É o relatório. DECIDO.
+De acordo com o art. 114 do Código de Processo Penal, haverá conflito de competência quando dois ou mais juízos se considerarem competentes ou incompetentes para conhecer do mesmo fato criminoso.
+No caso dos autos, embora o Juízo de Direito da 5ª Vara das Execuções Criminais - Foro Central Criminal Barra Funda - São Paulo tenha suscitado o presente conflito, não há nos autos decisão de qualquer juízo da Justiça do Estado da Bahia declinando de sua competência, constando apenas um ato expedido pela Diretora de Secretaria do Juízo de Direito da 2ª Vara dos Feitos Relativos aos Crimes Contra Criança e Adolescente da Comarca de Salvador - BA (fl. 27).
+Se não há manifestação de, ao menos, dois juízos vinculados a tribunais diversos, o dissenso não está instaurado e, por tal razão, não existe conflito a ser dirimido pelo Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea d, da Constituição Federal. Nesse sentido:
+"Nos termos do art. 114 do Código de Processo Penal, a configuração do conflito de competência, positivo ou negativo, reclama a manifestação de duas ou mais autoridades judiciárias declarando-se competentes ou incompetentes para o julgamento do feito, situação que não ocorre na espécie." (AgRg no CC n. 186.653/SP, Terceira Seção, Rel Min. Antonio Saldanha Palheiro, DJe de 24/8/2022)
+Assim, não conheço do conflito de competência.
+Publique-se. Intimem -se.
+EMENTA
