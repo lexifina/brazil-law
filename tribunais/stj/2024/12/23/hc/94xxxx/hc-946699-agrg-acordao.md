@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental. Substituição de pena privativa de liberdade por restritiva de direitos. Reincidência não específica. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para substituir a pena privativa de liberdade imposta à agravada por restritiva de direitos, a ser estabelecida pelo Juízo de 1º grau.
+2. O agravante sustenta que a reanálise da substituição de pena privativa de liberdade por restritiva de direitos não é cabível em sede de habeas corpus, por exigir reexame de fatos e provas, e que a reincidência em crime doloso é óbice à concessão da benesse.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a substituição da pena privativa de liberdade por restritiva de direitos é cabível em caso de reincidência não específica, considerando a natureza distinta das condenações anteriores e a ausência de violência nos delitos.
+III. Razões de decidir
+4. A pena-base foi estabelecida no piso legal e não foi demonstrada a razão pela qual a substituição da pena corporal por restritiva de direitos não seria socialmente adequada.
+5. A reincidência da agravada não é específica, pois as condenações anteriores não se referem ao mesmo crime apurado nos autos, inexistindo óbice à concessão da substituição da pena.
+6. A jurisprudência desta Corte admite a substituição da pena privativa de liberdade por restritiva de direitos em casos de reincidência não específica, desde que a medida seja socialmente recomendável.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "A substituição da pena privativa de liberdade por restritiva de direitos é cabível em casos de reincidência não específica, desde que a medida seja socialmente recomendável e as condenações anteriores não se refiram ao mesmo crime".
+Dispositivos relevantes citados: Código Penal, art. 44, § 3º.
+Jurisprudência relevante citada: STJ, HC n. 480.781/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/2/2019, DJe de 26/2/2019 ; STJ, AgRg no HC 756.585/SP, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 27.09.2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra a decisão que não conheceu do writ, mas concedeu a ordem, de ofício, a fim de substituir a pena privativa de liberdade imposta à agravada por restritiva de direitos, a ser estabelecida pelo Juízo de 1º grau.
+Em razões, o agravante sustenta, em síntese, que o Supremo Tribunal Federal vem decidindo que a reanálise quanto ao cabimento de substituição de pena privativa de liberdade por restritivas de direitos não encontra cabimento em sede de writ, por ser imprescindível, para tanto, o reexame de fatos e provas, providência inviável na via eleita e por diversas vezes já reconheceu que a reincidência em crime doloso é óbice idôneo para a benesse.
+Pugna, assim, pelo provimento do agravo a fim de que seja admitido o agravo para restabelecer o indeferimento da substituição de pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Substituição de pena privativa de liberdade por restritiva de direitos. Reincidência não específica. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para substituir a pena privativa de liberdade imposta à agravada por restritiva de direitos, a ser estabelecida pelo Juízo de 1º grau.
+2. O agravante sustenta que a reanálise da substituição de pena privativa de liberdade por restritiva de direitos não é cabível em sede de habeas corpus, por exigir reexame de fatos e provas, e que a reincidência em crime doloso é óbice à concessão da benesse.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a substituição da pena privativa de liberdade por restritiva de direitos é cabível em caso de reincidência não específica, considerando a natureza distinta das condenações anteriores e a ausência de violência nos delitos.
+III. Razões de decidir
+4. A pena-base foi estabelecida no piso legal e não foi demonstrada a razão pela qual a substituição da pena corporal por restritiva de direitos não seria socialmente adequada.
+5. A reincidência da agravada não é específica, pois as condenações anteriores não se referem ao mesmo crime apurado nos autos, inexistindo óbice à concessão da substituição da pena.
+6. A jurisprudência desta Corte admite a substituição da pena privativa de liberdade por restritiva de direitos em casos de reincidência não específica, desde que a medida seja socialmente recomendável.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "A substituição da pena privativa de liberdade por restritiva de direitos é cabível em casos de reincidência não específica, desde que a medida seja socialmente recomendável e as condenações anteriores não se refiram ao mesmo crime".
+Dispositivos relevantes citados: Código Penal, art. 44, § 3º.
+Jurisprudência relevante citada: STJ, HC n. 480.781/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/2/2019, DJe de 26/2/2019 ; STJ, AgRg no HC 756.585/SP, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 27.09.2022.
+VOTO
+Razão não assiste ao agravante.
+Como o reconhecido na decisão ora impugnada, a pena-base foi estabelecida no piso legal e em patamar bastante inferior a 4 anos de reclusão, sendo certo que não restou demonstrada a razão pela qual a substituição da pena corporal por restritiva de direitos não seria socialmente adequada, impondo-se, pois, a concessão da medida.
+Nesse sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ART. 183 DA LEI 9.472/1997. ATIVIDADE CLANDESTINA DE TELECOMUNICAÇÃO. RADIODIFUSÃO. REGIME PRISIONAL. CIRCUNSTÂNCIAS FAVORÁVEIS. RÉ REINCIDENTE. REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA. INOCORRÊNCIA DE CRIME COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA. MEDIDA SOCIALMENTE RECOMENDÁVEL. REINCIDÊNCIA LONGÍNQUA DECORRENTE DE CRIME DE MÉDIO POTENCIAL OFENSIVO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. 1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. 2. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com a Súmula 719/STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea". 3. Os fundamentos utilizados no decreto condenatório constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso do que o indicado pela quantidade de pena imposta ao agente (art. 33, §§ 2º e 3º, do Código Penal), nos termos da Súmula 440 desta Corte. Tratando-se de ré reincidente, cujas circunstâncias judiciais foram favoravelmente valoradas, e condenada à pena de 2 anos e 6 meses de detenção, deve a reprimenda ser cumprida em regime inicial semiaberto. 4. O Tribunal de origem entendeu incabível o deferimento da permuta legal, por ser a paciente reincidente em crime doloso, nos termos do art. 44, II, do Código Penal, contudo, o § 3º do referido dispositivo legal ressalva a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, desde que, em face da condenação anterior, a medida seja socialmente recomendada e a reincidência não tenha se operado em razão da prática do mesmo delito. 5. In casu, observa-se que a condenação anterior registrada pela paciente é de natureza distinta da originária desse processo, uma vez que refere-se ao delito de estelionato, cometido em 23/3/1999, que resultou na aplicação da pena de 1 ano e 2 meses de reclusão, com o deferimento do sursis do art. 78 do CP (e-STJ, fl. 25). Por conseguinte, como se trata de reincidência não específica, decorrente de fato de médio potencial ofensivo com grande afastamento temporal, praticado sem violência, há indícios que seja socialmente recomendável a substituição da pena privativa de liberdade pela restritiva de direitos. 4. Habeas corpus não conhecido. Ordem concedida, de ofício, confirmando a tutela provisória, para determinar que o Juízo das Execuções proceda à substituição da pena privativa de liberdade pelas penas restritivas de direitos, nos termos do art. 44, § 2º do Código Penal. (HC n. 480.781/SP, de minha relatoria, Quinta Turma, julgado em 19/2/2019, DJe de 26/2/2019.).
+Além disso, esta Corte já decidiu que, "consoante dispõe o art. 44, § 3º, do Código Penal, a permuta da sanção reclusiva ao reincidente só é possível no caso de a reincidência não ter operado em virtude da prática do mesmo delito, o que não se verifica na espécie" (AgRg no HC n. 756.585/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022). No caso, percebe-se que as condenações anteriores não se referem ao mesmo crime apurado nos autos, não se tratando de reincidência específica, inexistindo óbice à concessão da benesse.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
