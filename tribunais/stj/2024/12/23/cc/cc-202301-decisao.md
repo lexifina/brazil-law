@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA 1ª VARA DE OURINHOS (SJSP) e o JUÍZO DE DIREITO DA VARA ÚNICA DE IPAUSSU (SP), para definir a competência para processamento e julgamento de ação de indenização por vícios de construção ajuizada por CARLOS LUIZ PERES em desfavor de SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS.
+O JUÍZO DE DIREITO DA VARA ÚNICA DE IPAUSSU, no qual a ação foi proposta, determinou a remessa dos autos à Justiça Federal.
+O JUÍZO FEDERAL DA 1ª VARA DE OURINHOS determinou o retorno dos autos ao JUÍZO DE DIREITO DA VARA ÚNICA DE IPAUSSU (fls. 25-31).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ao apreciar o Agravo de Instrumento n. 2227737-91.2022.8.26.0000, pontuou sobre o eventual interesse da Caixa Econômica Federal na referida ação e determinou a remessa dos autos à Justiça Federal em acórdão assim ementado (fl. 38):
+AGRAVO DE INSTRUMENTO. SEGURO HABITACIONAL. COMPETÊNCIA. A análise definitiva do interesse da Caixa Econômica Federal na ação de origem não é de competência da Justiça Estadual, mas sim da Justiça Federal. Aplicação da tese consolidade pelo STF no RE nº827996/PR (Tema 1011). Remessa dos autos à Justiça Federal. Recurso provido.
+O JUÍZO FEDERAL DA 1ª VARA DE OURINHOS entendeu que, a despeito da manifestação da CEF, não havia nos autos a prova do comprometimento do FCVS, razão pela qual reconheceu a ilegitimidade do ente federal para figurar no polo passivo da demanda e suscitou o presente conflito (fls. 4-6).
+O Ministério Público Federal manifestou-se no sentido de não ser caso de sua atuação (fls. 11-14).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve Juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+A controvérsia cinge-se a definir qual o juízo competente para processar e julgar ação ordinária de responsabilidade obrigacional ajuizada por Nelson Alexandrino e outros em desfavor de Caixa Seguradora, em razão de vícios de construção.
+O JUÍZO DE DIREITO DA VARA ÚNICA DE IPAUSSU remeteu os autos à Justiça Federal em razão de eventual interesse da Caixa Econômica Federal na referida ação.
+Após receber os autos, o JUÍZO FEDERAL DA 1ª VARA DE OURINHOS concluiu pela ausência de ente federal na demanda e determinou a devolução dos autos à Justiça estadual. Confira-se trecho da decisão (fl. 29, destaquei):
+Portanto, diante da ausência de demonstração de cobertura securitária pelo FCVS e de risco efetivo de exaurimento da reserva técnica do FESA, com comprometimento do FCVS, é de se concluir pela não admissão da CEF no feito e, consequentemente, pela não atração da competência da Justiça Federal.
+Ante o exposto, uma vez não atendidos todos os requisitos do Repetitivo nº 50 do STJ no caso concreto para se fixar a competência da Justiça Federal para processar e julgar o feito, reconheço a ilegitimidade passiva da CEF e, como consequência, excluo-a da presente relação processual. Como consequência, ante a ausência de qualquer dos entes indicados no art. 109, I, CF/88 na relação processual, fica afastada a competência da Justiça Federal para processá-la e julgá-la.
+Destarte, nos termos do Enunciado nº 224 da Súmula do STJ, determino a devolução dos autos ao r. Juízo de origem.
+É assente no STJ o entendimento de que compete à Justiça Federal decidir a respeito da exclusão de ente federal da relação processual a fim de definir a competência para o julgamento da causa, descabendo novo exame da questão pela Justiça comum estadual.
+Nesse sentido, os seguintes enunciados:
+- Súmula n. 150 do STJ: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas pública".
+- Súmula n. 224 do STJ: "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito".
+- Súmula n. 254 do STJ: "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual".
+A propósito, confiram-se ainda os seguintes precedentes: AgRg no CC n. 122.649/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 22/8/2012, DJe de 28/8/2012; AgRg no CC n. 107.692/TO, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 14/9/2011, DJe de 20/9/2011; AgRg no CC n. 109.096/SC, relator Ministro Cesar Asfor Rocha, Primeira Seção, julgado em 25/5/2011, DJe de 10/6/2011.
+No presente caso, convém ressaltar que a Justiça Federal, ao analisar a causa, concluiu que não fora preenchido requisito necessário referente ao legítimo interesse jurídico da Caixa Econômica Federal para a causa, fundamentando-se no entendimento do STJ a respeito da matéria.
+Confira-se precedente:
+DIREITO PROCESSUAL CIVIL. SFH. SEGURO. AÇÃO INDENIZATÓRIA. CAIXA ECONÔMICA FEDERAL. INTERESSE. INTERVENÇÃO. LIMITES E CONDIÇÕES. INCIDENTE DE PROCESSO REPETITIVO. ART. 543-C DO CPC.
+1. Nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interesse jurídico para ingressar na lide como assistente simples somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09 - e nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66).
+2. Ainda que compreendido no mencionado lapso temporal, ausente a vinculação do contrato ao FCVS (apólices privadas, ramo 68), a CEF carece de interesse jurídico a justificar sua intervenção na lide.
+3. O ingresso da CEF na lide somente será possível a partir do momento em que a instituição financeira provar documentalmente o seu interesse jurídico, mediante demonstração não apenas da existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA, colhendo o processo no estado em que este se encontrar no instante em que houver a efetiva comprovação desse interesse, sem anulação de nenhum ato anterior.
+4. Evidenciada desídia ou conveniência na demonstração tardia do seu interesse jurídico de intervir na lide como assistente, não poderá a CEF se beneficiar da faculdade prevista no art. 55, I, do CPC.
+5. Na hipótese específica dos autos, tendo o Tribunal Estadual concluído pela ausência de vinculação dos contratos de seguro ao FCVS, inexiste interesse jurídico da CEF para integrar a lide.
+6. Embargos de declaração parcialmente acolhidos, com efeitos infringentes. (EDcl nos EDcl no REsp n. 1.091.393/SC, relatora Ministra Maria Isabel Gallotti, relatora para o acórdão Ministra Nancy Andrighi, Segunda Seção, julgado em 10/10/2012, DJe de 14/12/2012.)
+Vejam-se também as seguintes decisões monocráticas: CC n. 206.952/PR, relator Ministro Humberto Martins, DJe de 7/8/2024; CC n. 144.048/RS, relator Ministro Marco Aurélio Bellizze, DJe de 19/6/2019.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única de Ipaussu (SP), o suscitado.
+Comunique-se aos Juízos envolvidos o teor desta decisão.
+Publique-se. Intimem-se.
+EMENTA
