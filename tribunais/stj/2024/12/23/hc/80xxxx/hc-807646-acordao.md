@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO QUALIFICADO. FIXAÇÃO DO REGIME INICIAL FECHADO PARA CUMPRIMENTO DE PENA. GRAVIDADE CONCRETA DA CONDUTA E MODUS OPERANDI. IDONEIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado pela defesa de condenado à pena de 5 anos e 4 meses de reclusão em regime semiaberto, com 13 dias-multa, pela prática do crime de roubo qualificado (art. 157, § 2º, II, do Código Penal). O Tribunal de origem deu provimento à apelação da acusação para fixar o regime inicial fechado, sem alterar os demais termos da sentença. A defesa sustenta que a decisão de alteração do regime inicial careceu de fundamentação adequada, pois não considerou as circunstâncias judiciais favoráveis ao paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é legítima a imposição do regime inicial fechado, considerando as circunstâncias do delito, embora a pena aplicada permita, em tese, o regime semiaberto.
+III. RAZÕES DE DECIDIR
+3. A fixação do regime inicial fechado para cumprimento da pena encontra justificativa na gravidade concreta do delito, evidenciada pelo modus operandi, que incluiu violência física contra a vítima, ameaças de morte e a restrição de liberdade mediante trancamento da vítima no baú do veículo, em contexto de roubo de carga com significativo valor econômico e participação de diversos indivíduos.
+4. A jurisprudência desta Corte admite o regime fechado, mesmo em casos de pena inferior a 8 anos, quando o crime revela gravidade concreta e circunstâncias desfavoráveis, como uso de violência exacerbada e organização criminosa, superando a gravidade abstrata do tipo penal de roubo.
+5. Embora o paciente seja primário, as circunstâncias específicas do crime justificam a aplicação de um regime mais rigoroso para início do cumprimento da pena, conforme entendimento consolidado nesta Corte.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 24):
+ ..  Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALDENOR ALEXSANDRO CORDEIRO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1507156-91.2022.8.26.0228).
+O paciente foi condenado à pena de 5 anos e 4 meses de reclusão em regime semiaberto, e ao pagamento de 13 dias-multa pela prática do crime previsto no art. 157, § 2º, II, do Código Penal.
+A acusação interpôs recurso de apelação, tendo o Tribunal a quo dado provimento "para fixar o regime inicial fechado para o cumprimento da pena  .. , mantendo-se, no mais, a r. sentença por seus próprios e jurídicos fundamentos" (e- STJ fl. 6).
+O impetrante sustenta que a "2ª Câmara de Direito Criminal não fundamentou a aplicação do regime distinto do semiaberto", uma vez que não se ateve às circunstâncias judiciais da "culpabilidade, conduta social, personalidade e consequências do crime", todas "favoráveis para o paciente" (e-STJ fl. 4).
+Requer, liminar e definitivamente, deferimento da ordem para que seja restabelecido o regime semiaberto. ..
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal "no sentido da não admissão do writ, descabida a concessão de uma ordem de habeas corpus ex officio" (e-STJ, fl. 51).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO QUALIFICADO. FIXAÇÃO DO REGIME INICIAL FECHADO PARA CUMPRIMENTO DE PENA. GRAVIDADE CONCRETA DA CONDUTA E MODUS OPERANDI. IDONEIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado pela defesa de condenado à pena de 5 anos e 4 meses de reclusão em regime semiaberto, com 13 dias-multa, pela prática do crime de roubo qualificado (art. 157, § 2º, II, do Código Penal). O Tribunal de origem deu provimento à apelação da acusação para fixar o regime inicial fechado, sem alterar os demais termos da sentença. A defesa sustenta que a decisão de alteração do regime inicial careceu de fundamentação adequada, pois não considerou as circunstâncias judiciais favoráveis ao paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é legítima a imposição do regime inicial fechado, considerando as circunstâncias do delito, embora a pena aplicada permita, em tese, o regime semiaberto.
+III. RAZÕES DE DECIDIR
+3. A fixação do regime inicial fechado para cumprimento da pena encontra justificativa na gravidade concreta do delito, evidenciada pelo modus operandi, que incluiu violência física contra a vítima, ameaças de morte e a restrição de liberdade mediante trancamento da vítima no baú do veículo, em contexto de roubo de carga com significativo valor econômico e participação de diversos indivíduos.
+4. A jurisprudência desta Corte admite o regime fechado, mesmo em casos de pena inferior a 8 anos, quando o crime revela gravidade concreta e circunstâncias desfavoráveis, como uso de violência exacerbada e organização criminosa, superando a gravidade abstrata do tipo penal de roubo.
+5. Embora o paciente seja primário, as circunstâncias específicas do crime justificam a aplicação de um regime mais rigoroso para início do cumprimento da pena, conforme entendimento consolidado nesta Corte.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+No que tange à alegação da defesa, assim entendeu o Tribunal de origem, acertadamente (e-STJ, fls. 9-10):
+ ..  Por fim, em razão da gravidade do crime praticado, praticado com emprego e violência física contra a vítima (ela levou vários socos dos roubadores e foi ameaçada de morte em diversos momentos pelos mesmos) e demonstrada, ainda, a extrema periculosidade dos réus que, não bastasse terem praticado roubo de carga com enorme valor econômico e em companhia de, ao menos, outros três indivíduos, trancaram o ofendido no baú de seu veículo para lograrem êxito no sucesso da empreitada criminosa, entendo que era, de fato, necessária maior rigorosidade na aplicação da pena, a despeito da primariedade dos apelados. Ressalta-se, ainda, que embora tenham tentado convencer quanto aos seus arrependimentos durante seus interrogatórios judiciais, ambos sentenciados negaram a dinâmica do crime tal qual ela ocorreu, pois disseram não terem praticado qualquer agressão ao ofendido, tampouco lhe proferido ameaças, tentando convencer que suas ações limitaram ao transporte da carga subtraída.
+Nesse sentido:
+"(..) Não obstante o montante da pena final comporte, a princípio, o regime inicial semiaberto, não há ilegalidade flagrante na manutenção do regime inicial fechado, considerando a presença de circunstâncias judiciais desfavoráveis, que, inclusive, fundamentaram a fixação da pena-base acima do mínimo legal, evidenciando a gravidade concreta do delito, nos termos do art. 33, §§ 2º e 3º, c/c o art. 59 do Código Penal.(..)" (AgRg no HC n. 689.049/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/2/2022, DJe de 15/2/2022). ..
+De análise da decisão colacionada, verifica-se que não assiste razão à defesa, conforme o entendimento desta Corte:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSOLVIÇÃO. AUSÊNCIA DE INDIVIDUALIZAÇÃO DA CONDUTA. REVOLVIMENTO DE PROVA, ÓBICE NA VIA ELEITA. DOSIMETRIA. AGRAVANTE OBJETIVADA IDADE DA VÍTIMA MANTIDA. INCREMENTO EM 2/3 NA TERCEIRA FASE PELO EMPREGO DE ARMA DE FOGO. DEMAIS CAUSAS DE AUMENTO DESCONSIDERADAS. REGIME FECHADO. GRAVIDADE CONCRETA DA CONDUTA. AGRAVO DESPROVIDO.
+ ..
+7. Nos termos do entendimento desta Corte, "a despeito de a pena-base ter sido fixada no mínimo legal, o regime prisional inicial fechado foi aplicado pela gravidade concreta da conduta, a qual foi ressaltada pelo Tribunal a quo, tendo em vista as circunstâncias que envolveram o delito, cometido mediante o uso ostensivo de arma de fogo, em estabelecimento comercial, elementos que justificam a aplicação de regime inicial mais gravoso, tendo em vista a especial gravidade do modus operandi do delito. Precedentes.
+"(AgRg no HC n. 866.242/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023.).
+8. No caso, nada obstante a primariedade do agente e a fixação da básica no piso legal, não se revela desproporcional o regime fechado para o início do desconto da reprimenda inferior a 8 anos de reclusão, pois o modus operandi do crime revela gravidade superior à ínsita ao crime de roubo.
+9. Agravo regimental desprovido.
+(AgRg no HC n. 913.488/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Ante o exposto, não conheço do habeas corpus.
+É o voto.
