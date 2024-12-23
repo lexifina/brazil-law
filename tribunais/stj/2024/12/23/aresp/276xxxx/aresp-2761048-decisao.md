@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por NIQUITO CHAVES EMPREENDIMENTOS IMOBILIARIOS SA e LUCIANO ORNELAS CHAVES contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+"APELAÇÃO CÍVEL. AGRAVO INTERNO. DECLARATÓRIA DE NULIDADE. COMPRA E VENDA DE IMÓVEL. JULGAMENTO CONJUNTO. PRELIMINAR. NÃO CONHECIMENTO. AFRONTA À DIALETICIDIDADE. CERCEAMENTO DE DEFESA NÃO OCORRÊNCIA. SIMULAÇÃO. NÃO CONFIGURADA. VÍCIO DE CONSENTIMENTO.
+ANULABILIDADE. DECADÊNCIA.
+1. A repetição dos argumentos contidos na petição inicial ou na contestação não implica, por si só, ofensa ao princípio da dialeticidade, desde que no apelo haja fundamentos de fato e de direito aptos a evidenciar o desejo de reforma da sentença impugnada. Preliminar rejeitada. Precedente do STJ.
+2. Não há cerceamento de defesa quando os documentos juntados aos autos se mostraram suficientes para a apreciação da lide, assim como para firmar a livre convicção do julgador.
+3. Ausentes a divergência entre a vontade interna e a declarada, bem como conluio entre as partes com intuito de enganar - características fundamentais da simulação - forçoso reconhecer a ausência da nulidade alegada.
+4. Ainda que da narrativa das partes seja possível cogitar tratar-se de hipótese de anulação de negócio jurídico por vício de consentimento, o transcurso do prazo decadencial (CC, art. 178, II) impede sua análise.
+5. Não se desconhece o entendimento coincidente do Superior Tribunal de Justiça (REsp n. 1.501.640/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/11/2018, REPDJe de 7/12/2018, DJe de 06/12/2018) e deste Tribunal de Justiça (Acórdão 1647871, 07049807620208070001, Relator: Sandoval Oliveira, 2ª Turma Cível, data de julgamento: 7/12/2022, publicado no DJE: 14/12/2022) sobre a nova dimensão da nulidade do negócio jurídico por simulação, que pode ser, na vigência do Código Civil de 2002, alegada, inclusive, por um dos contratantes, não sendo causa privativa de arguição por terceiro, alheio ao contrato. A improcedência dos pedidos se dá pela inexistência de simulação e não pela ilegitimidade da sua arguição.
+6. Ação com conteúdo predominantemente declaratório, adjudicatória ou possessória, em regra, não possui proveito econômico novo. Nesses casos, é cabível a fixação da verba honorária por equidade (CPC, art. 85, § 8º) sob pena de gerar à parte sucumbente condenação desproporcional e injusta.
+7. Agravo interno julgado prejudicado. Preliminar rejeitada. Apelação conhecida e não provida" (e-STJ fls. 3.359/3.379).
+Os embargos de declaração opostos foram rejeitados, com imposição de multa (e-STJ fls. 3.434/3.443).
+No recurso especial, os recorrentes relatam que, na sentença primeva, o magistrado assentou a impossibilidade de um dos contratantes arguir simulação. No julgamento da apelação, o Tribunal de origem apesar de reconhecer a viabilidade da discussão, julgou, desde já, o mérito da demanda, afastando, por conseguinte, a ocorrência da simulação alegada, em evidente supressão de instância e contrariedade aos artigos 396, inciso I, 489, 369, 370, 371 do Código de Processo Civil; 167, 187, 186, 476 e 477 do Código Civil; e 5, inciso LV, da Constituição Federal.
+Sustentam afronta ao artigo 357, incisos I, II, III, IV e V, §§1º, 2º, 3º, 4 e 5, do Código de Processo Civil, ante o indeferimento das diligências pleiteadas, consubstanciadas na produção da prova testemunhal e oitiva da parte contrária.
+Defendem a simulação do negócio jurídico entabulado, tendo em vista que o recorrido, voluntariamente, apresentou documentos e aditivos contratuais com a falsa informação da possibilidade de destinação hospitalar para o terreno adquirido pelos recorrentes.
+Pleiteia, por fim, a exclusão da multa arbitrada ante a ausência de litigância de má-fé na oposição dos aclaratórios.
+Contrarrazões apresentadas às e-STJ fls. 3.503/3.519.
+O recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Primeiramente, vale destacar que o reconhecimento da simulação pressupõe que os contratantes, de comum acordo e no intuito de ludibriar, celebrem intencionalmente vontade dissociada da realidade.
+Neste diapasão, lecionam Nelson Nery Junior e Rosa Maria de Andrade Nery: "a simulação compõe-se de três elementos: a) a intencionalidade da divergência entre a vontade interna e a declarada; b) o intuito de enganar; c) conluio entre os contratantes (acordo simulatório). A intencionalidade da divergência entre a vontade interna e a declarada é a característica fundamental do negócio simulado". (Código Civil Comentado, 11ª edição, São Paulo: Editora Revista dos Tribunais, 2014, p. 537).
+Compulsando os autos, verifica-se que o juiz de primeira instância julgou improcedente os pedidos formulados na exordial, ao fundamento de que "a descrição da parte autora no tocante à aquisição do imóvel com intuito de nele empreender atividade hospitalar - que seria de conhecimento do requerido -, com posterior descobrimento de vedação legal para o desiderato, não se enquadra nos moldes do vício social da simulação, que gera a nulidade do negócio jurídico, já que, para tanto, teriam que estar em conluio os requerentes e o requerido e, ainda, imbuídos do intento de enganar a terceiros ou fraudar a lei" (e-STJ fl. 3.365).
+O Tribunal de origem, por sua vez, consignou que, "ao contrário do que defendem os apelantes no recurso, não se trata de (i)legitimidade de uns dos contratantes para requerer a nulidade de negócio jurídico simulado. A sentença nega a existência da simulação alegada" (e-STJ fl. 3.365).
+Fixada tais premissas, ao revés do alegado, a sentença primeva afastou a ocorrência de simulação ante a ausência de conluio entre os contratantes.
+Assim, não há nulidade a ser decretada.
+Noutro giro, os recorrentes suscitam afronta ao artigo 357, incisos I, II, III, IV e V, §§1º, 2º, 3º, 4 e 5, do Código de Processo Civil, em razão do indeferimento da diligência pleiteada, consubstanciada na produção da prova testemunhal e oitiva da parte contrária.
+Sem razão, contudo. Cabe ao magistrado, como destinatário da prova, valorar a determinação daquelas necessárias a instrução, no cumprimento do exercício do seu poder-dever de condução do processo.
+Nessa toada, "a jurisprudência do STJ é no sentido de que o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa" (AgInt no AREsp 2.698.699/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024).
+E ainda:
+PROCESSO CIVIL, AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. CERCEAMENTO DE DEFESA. AUSÊNCIA.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se verificando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. O juiz é o destinatário das provas e pode indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado, não configurando cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento. (e. g. 1ª T. AgInt nos EDcl no REsp 1880718/RS, Rel. Ministro Gurgel de Faria, j. 16.08.2021, DJe 20.08.2021; e 2ª T. AgInt. no AREsp 1816381/SP, Rel. Min. Herman Benjamin, j. 31.05.2021, DJe 01.07.2021).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.368.822/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024)
+Ademais, alegam os recorrentes que "restou amplamente comprovado pelas provas juntadas aos autos que o recorrido procedeu com atos irregulares induzindo o recorrente na simulação contratual para justificar a possibilidade de edificação de obra hospitalar no terreno vendido" (e-STJ fl. 3.454).
+No ponto, o Tribunal de origem consignou que
+34. Em suas razões recursais, os apelantes defendem, em síntese, estar comprovada a "simulação" praticada pela apelada e que, tendo em vista a má-fé com que agiu, deve ser determinada a devolução do total pago pelo terreno, bem como a indenização pela quantia já desembolsada na construção do empreendimento.
+35. Os apelantes não têm razão.
+ ..
+39. De acordo com os fatos expostos pelas partes, não há divergência entre a vontade interna e a declarada, nem conluio entre as partes com intuito de enganar - características fundamentais do negócio simulado.
+40. A partir da narrativa constante dos autos, em que os apelantes afirmam terem sido deliberadamente enganados pela apelada, é possível cogitar tratar-se de hipótese de negócio jurídico anulável por vício de consentimento resultante de erro substancial ou de dolo (CC, art. 171, II)" (e-STJ fl. 3.364/3.366).
+Assim, o acolhimento das alegações recursais, a fim de atestar a simulação do negócio jurídico, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Por fim, a questão referente à multa prevista no art. 1.026, § 2º, do CPC merece ser revista.
+No presente caso, nota-se que os aclaratórios tiveram o objetivo de prequestionar teses para a interposição do apelo nobre, motivo pelo qual é inviável a imposição da multa, diante do comando da Súmula nº 98/STJ.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO.MULTA. ART. 1.026, §2º, CPC. OPOSIÇÃO UMA ÚNICA VEZ. INTUITOPROTELATÓRIO. AUSÊNCIA. REFORMA PARCIAL.
+1) Afasta-se a multa do artigo 1.026, § 2º, do CPC/2015 quando não se caracteriza o intento protelatório na oposição dos embargos de declaração.
+2) Devem ser acolhidos os embargos de declaração quando constatada contradição no acórdão embargado.
+3) Embargos de declaração acolhidos, ao efeito de afastar a multa do artigo 1.026, §2º, do CPC/2015 (EDcl nos EDcl no REsp 2.090.647/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/9/2024,DJe de 18/9/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. SÚMULA 182 DO STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DADECISÃO DA PRESIDÊNCIA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. EXTINÇÃO.SUCUMBÊNCIA. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. MULTA DO § 2º DO ART.1.026 DO CPC/2015 AFASTADA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSOESPECIAL CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.1. A jurisprudência desta Corte manifesta-se no sentido de que "aquele que deu causa à instauração da demanda deve arcar com as verbas sucumbenciais. Extinta a execução/cumprimento do julgado, sem resolução do mérito, os honorários de sucumbência ficam a cargo da parte que deu causa, in casu, os agravantes. Inteligência do art. 90 do CPC." (AgInt na ExeAR n.6.369/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 14/5/2024, DJe de 16/5/2024.)
+2. Os embargos de declaração foram opostos com o intuito de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios; daí que, em conformidade com a Súmula 98/STJ, deve ser afastada a multa aplicada pelo Tribunal local.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para dar parcial provimento ao recurso especial, a fim de afastar a multa do art. 1.026, § 2º, do CPC/2015 (AgInt nos EDcl no AREsp 2.543.473/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024).
+Ante o exposto, conheço do agravo para conhecer parcialmente o recurso especial e, nessa extensão, dar provimento tão somente para afastar a multa prevista no art. 1.026, § 2º, do Código de Processo Civil, prejudicado o pedido de efeito suspensivo.
+Deixo de majorar os honorários advocatícios, conforme determina o art. 85, § 11, do CPC/2015, em virtude do parcial provimento do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
