@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado por ADRIANO BRETAS E OUTROS em favor do paciente CARLOS ADRIANO BOTELHO DE ASSIS, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o paciente foi preso em flagrante delito em razão da suposta prática do crime previsto no artigo 121, § 2º, VI, do Código Penal, tendo como vítima sua ex-companheira (Vanes sa dos Santos da Cunha), mediante 50 (cinquenta) golpes de faca em diferentes regiões do corpo, tendo a prisão em flagrante sido convertida em custódia preventiva (Processo nº 0007439-07.2023.8.16.0173).
+Impetrado habeas corpus pela defesa (Processo nº 55116-67.2023.8.16.0000), a ordem foi denegada pelo Tribunal de origem.
+Na presente impetração, busca-se a concessão da ordem, para que a prisão preventiva seja convertida em domiciliar.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Na espécie, reputo presentes o fumus comissi delicti e o periculum libertatis, de sorte que a custódia cautelar é essencial para a garantia da ordem pública, com fulcro no art. 312 do Código de Processo Penal, diante dos indícios de materialidade e de autoria delitivas, bem como da gravidade concreta da conduta atribuída ao paciente e do modus operandi demonstrado, tratando-se de crime que teria sido consumado mediante 50 (cinquenta) golpes de faca em diferentes regiões do corpo da vítima, sua ex-companheira, tudo a indicar a periculosidade do agente.
+No que toca à prisão domiciliar pretendida, "o rito do habeas corpus não admite o revolvimento de matéria fático probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local" (AgRg no HC 895457 / SC, QUINTA TURMA, de minha relatoria, DJe 16/05/2024).
+De todo modo, conquanto a documentação acostada pelo paciente indique as enfermidades que o acometem, não logrou êxito a defesa em comprovar que o paciente se encontra extremamente debilitado por motivo de doença grave e o risco à vida decorrente do encarceramento, conforme previsão do art. 318, inciso II, do Código de Processo Penal, inexistindo nos autos demonstração cabal no que concerne à incompatibilidade entre eventual tratamento de saúde e o seu encarceramento (art. 318, parágrafo único, do mesmo diploma legal).
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
