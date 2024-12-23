@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE MEDICINA DO ESTADO DO RIO DE JANEIRO, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 289):
+ADMINISTRATIVO. EXECUÇÃO FISCAL. COBRANÇA DE ANUIDADE. DÍVIDA ATIVA TRIBUTÁRIA. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA ESTRITA. ART. 150, I, CRFB/1988. LEI 12.514/11. JUROS E CORREÇÃO MONETÁRIA. INDEXADOR DISTINTO DA SELIC. ART. 37-A DA LEI 10.522/02. IMPOSSIBILIDADE DE EMENDA OU SUBSTITUIÇÃO DA CDA. EXTINÇÃO DA EXECUÇÃO FISCAL. RECURSO DESPROVIDO.
+1. Aponte-se que crédito constante no título executivo deve ser atualizado pela taxa SELIC, pois trata- se de índice de correção monetária e juros aplicados a todos os créditos públicos federais.
+2. Sobre o tema, insta ressaltar que a jurisprudência do C. STJ, ao julgar o REsp 879.844/MG, de relatoria do eminente Ministro Luiz Fux, DJe 25/11/2009, mediante o procedimento previsto no art. 543- C do CPC/1973 (recursos repetitivos), firmou entendimento, em se tratando de débitos de natureza tributária, no sentido da legalidade da utilização da Taxa SELIC como índice de correção monetária e juros de mora, na atualização desses valores pagos em atraso.
+3. Além disso, registre-se que, no tocante à possibilidade de emenda ou substituição da CDA, a jurisprudência desta Colenda Oitava Turma Especializada se firmou no sentido de que, nos casos em que ocorrem vícios insanáveis do título executivo, mostra-se incabível oportunizar ao exequente a emenda ou substituição da CDA, visto que será indispensável que o próprio lançamento seja revisado, a teor do entendimento firmado pelo egrégio STJ (REsp 1045472/BA, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 25/11/2009, D Je 18/12/2009).
+4. Recurso de apelação desprovido, para manter a sentença recorrida em sua integralidade. Sem majoração de honorários, ante a ausência de condenação neste tocante.
+Embargos de declaração rejeitados (e-STJ fls. 339/341).
+Em suas razões de recurso especial (e-STJ fls. 351/367), a parte aponta a existência de dissenso pretoriano e a violação do art. 2º, § 8º, da Lei n. 6.830/1980. Argumenta, em suma, a possibilidade de readequação da Certidão de Dívida Ativa para correção do indexador da correção monetária, do INPC para a Selic.
+Sem contrarrazões.
+Juízo de retratação negativo (e-STJ fls. 396/401).
+Recurso especial admitido (e-STJ fls. 425/426).
+Passo a decidir.
+A pretensão recursal merece prosperar.
+No caso, o Tribunal de origem assentou que a CDA presente nos autos é nula, não podendo ser, pois, emendada ou substituída, porquanto baseada em indexadores diversos dos legalmente previstos, fato a macular a regularidade do próprio ato administrativo de lançamento tributário.
+Ocorre que o acórdão regional recorrido está em desconformidade com a orientação jurisprudencial do Superior Tribunal de Justiça, que entende pela "possibilidade de alteração da CDA, desde que haja simples operação aritmética para expurgar a parcela indevida, como no presente caso, em que houve apenas a adequação no cálculo dos juros de mora (substituição para a Selic)" (AgInt no AREsp 1.254.709/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 31/08/2020, DJe de 04/09/2020).
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. TR. ILEGALIDADE. UTILIZAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA. DESNECESSIDADE DE ANULAÇÃO DA CDA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. A indicada afronta do art. 1º do Decreto-Lei 1.025/1969 e dos arts. 161, 202 e 203 do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O STJ preconiza, seguindo a orientação do Supremo Tribunal Federal na ADIN 493-0, pela inaplicabilidade da TR como índice de correção monetária dos créditos ou débitos tributários, por constituir taxa nominal de juros, devendo ser aplicado, na vigência da Lei 8.177/91, o INPC, e, a partir de janeiro/92, a UFIR. Incide a TR apenas como taxa de juros sobre débitos fiscais, mesmo após a modificação da Lei 8.177/91 pela Lei 8.218/91.
+3. O acórdão recorrido deve ser reformado para ser excluída da CDA a utilização da TR para fins de correção monetária do crédito tributário, contudo a substituição do índice de correção monetária constante da certidão de dívida ativa não induz à sua anulação, pois não afeta sua liquidez e certeza.
+4. Recurso Especial parcialmente conhecido e, nessa parte provido.
+(REsp 1.587.881/SP, Rel. MINISTRO HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/05/2016, DJe 31/05/2016).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para determinar o regular prosseguimento da execução fiscal, com a intimação da exequente, ora recorrente, para proceder à adequação da CDA, com a alteração do indexador utilizado na atualização do débito executado.
+Publique-se. Intimem-se.
+EMENTA
