@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 203):
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS - REVALIDA. CERTIFICADO DE CONCLUSÃO DE CURSO. ACEITAÇÃO.
+1. Hipótese em que se discute se a autora, que alega ter concluído o curso de Medicina na UDABOL - "Universidade de Aquino Bolívia" na cidade de Santa Cruz, Bolívia, faz jus a ter deferida a inscrição no Exame Nacional de Revalidação de Diplomas Médicos - REVALIDA (Edital nº 3/2022), sem que lhe seja exigida a apresentação do diploma no ato de inscrição, mas, apenas, do certificado de conclusão de curso;
+2. A matéria foi apreciada ao ensejo do julgamento do Agravo de Instrumento Nº 0800473-05.2022.4.05.0000, movido pelo ora apelante, e que manteve a decisão que deferiu a antecipação de tutela;
+3. A Lei nº 9.394/96 - que estabelece as diretrizes e bases da educação nacional - prevê, em seu art. 48, §2º, de forma taxativa, que os diplomas de graduação expedidos por universidades estrangeiras serão revalidados por universidades públicas que tenham curso do mesmo nível e área ou equivalente, respeitando-se os acordos internacionais de reciprocidade ou equiparação. No caso do curso de Medicina, existe ainda a possibilidade de o titular de diploma em Universidade estrangeira submeter-se ao Exame Nacional de Revalidação de Diplomas Médicos - REVALIDA, regulado pela Portaria Interministerial MEC/MS nº 278/11;
+3. No caso, a autora juntou aos autos, dentre outros documentos, cópia do certificado de conclusão e histórico escolar do curso de Medicina, o que confirma a sua situação de graduada na UDABOL. Nessa situação, a parte não pode ser prejudicada pela morosidade na expedição do diploma a que faz jus, até porque o certificado de conclusão de curso é documento hábil para substituir a apresentação do diploma enquanto este não for confeccionado;
+4. Impedir a participação de graduado no exame em questão por ausência de apresentação do diploma, seria desproporcional, em prol de mera exigência formal, considerando que este poderá ser apresentado até o final do exame REVALIDA sem qualquer prejuízo;
+5. Honorários recursais a serem suportados pelo apelante, fixados em 1% (um por cento) sobre o valor da causa (que é de R$ 70.000,00 - setenta mil reais), a ser acrescido aos 10% já fixados na sentença;
+6. Apelação improvida.
+Em suas razões recursais, a parte recorrente afirma haver, preliminarmente, violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil (CPC), argumentando que o acórdão recorrido não se manifestou quanto à aspectos constantes de seus embargos de declaração.
+Afirma também haver violação dos arts. 2º, II, da Lei 13.959/2019 e 48, § 2º, e 53, VI, da Lei 9.394/1996 porque, "para fins de inscrição no Revalida, não são aceitas declarações de conclusão de curso ou documentos congêneres que não sejam os diplomas devidamente reconhecidos nos termos do edital do Exame" (fl. 227).
+Por fim, aponta violação dos arts. 296, 297 e 520 do CPC sob o argumento de que "não há que se falar em fato consumado, haja vista que o Poder Judiciário pode a qualquer momento reverter tal situação desfavorável ao INEP , diante da ilegalidade cometida" (fl. 242).
+A parte adversa apresentou contrarrazões (fls. 253/259).
+Em juízo de retratação, nos termos do art. 1.040, II, do CPC, o órgão fracionário manteve o acórdão, com os seguintes fundamentos (fls. 275/276):
+ADMINISTRATIVO. RETORNO DOS AUTOS DA VICE-PRESIDÊNCIA. JUÍZO DE RETRATAÇÃO. DESCABIMENTO.
+1. Retornaram os autos da Vice-Presidência com o seguinte despacho: No julgamento de representativos de controvérsia afetados ao Tema 599, o Superior Tribunal de Justiça firmou a seguinte tese:
+"O art. 53, inciso V, da Lei 9394/96 permite à universidade fixar normas específicas a fim de disciplinar o referido processo de revalidação de diplomas de graduação expedidos por estabelecimentos estrangeiros de ensino superior, não havendo qualquer ilegalidade na determinação do processo seletivo para a revalidação do diploma, porquanto decorre da necessidade de adequação dos procedimentos da instituição de ensino para o cumprimento da norma, uma vez que de outro modo não teria a universidade condições para verificar a capacidade técnica do profissional e sua formação, sem prejuízo da responsabilidade social que envolve o ato.".
+Tendo em vista que o acórdão proferido por este Tribunal Regional Federal da 5ª Região encontra-se em aparente confronto com a tese supracitada, determino a devolução deste processo à Turma julgadora para, se assim entender, proceder ao juízo de retratação, nos termos do artigo 1.040, II, do Código de Processo Civil.
+2. O acórdão que julgou a apelação foi assim ementado:
+ ..
+3. Não é o caso de se proceder ao juízo de retratação, dado que o acórdão não vai de encontro ao decidido pelo STJ em relação ao tema acima referido, sendo certo que o certificado de conclusão do curso constitui documento hábil a possibilitar a verificação da capacidade técnica do profissional e sua formação, podendo o diploma ser apresentado até o final do exame REVALIDA sem qualquer prejuízo para a administração;
+4. Juízo de retratação não exercido.
+O recurso foi admitido na origem (fl. 295).
+É o relatório.
+Quanto à apontada violação dos arts. 489 e 1.022 do Código de Processo Civil, considerando que não houve a necessária oposição de embargos de declaração para provocar o Tribunal de origem a esclarecer obscuridade, eliminar contradição ou suprir omissão, o exame da alegada nulidade do julgado se encontra inviabilizado em razão do óbice contido na Súmula 284 do Supremo Tribunal Federal (STF), aplicado por analogia.
+Nesse mesmo sentido: AgInt nos EDcl nos EDcl no AREsp 1.794.204/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021; e AgInt no REsp 1.367.247/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/9/2016, DJe de 6/10/2016.
+Os arts. 296, 297 e 520 do CPC, o art. 2º, II, da Lei 13.959/2019 e o art. 53, VI, da Lei 9.394/1996 não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Quanto ao mérito da controvérsia, a Corte de origem decidiu (fls. 200/201):
+A Lei n.º 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional) estabelece que:
+Art. 48. Os diplomas de cursos superiores reconhecidos, quando registrados, terão validade nacional como prova da formação recebida por seu titular.
+(..)
+§ 2º Os diplomas de graduação expedidos por universidades estrangeiras serão revalidados por universidades públicas que tenham curso do mesmo nível e área ou equivalente, respeitando-se os acordos internacionais de reciprocidade ou equiparação.
+(..)
+Verifica-se que o dispositivo citado determina, de forma taxativa, que os diplomas de graduação expedidos por universidades estrangeiras, para ter validade no Brasil, deverão se submeter ao processo de revalidação, no âmbito das universidades públicas que tenham curso do mesmo nível e área ou equivalente, respeitando-se os acordos internacionais de reciprocidade ou equiparação.
+No caso do curso de Medicina, existe, ainda, a possibilidade de o titular de diploma em Universidade estrangeira submeter-se ao Exame Nacional de Revalidação de Diplomas Médicos - REVALIDA, regulado pela Portaria Interministerial MEC/MS nº 278/11.
+O Edital nº 3, de 06/01/2022, publicado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP, estabeleceu como um dos requisitos de participação do candidato no REVALIDA 2022, seja esse portador de diploma de graduação em Instituição Estrangeira reconhecida no Brasil, autenticado por autoridade consular brasileira ou submetido ao procedimento Apostilamento da Haia.
+A autora juntou aos autos, dentre outros documentos, cópia do certificado de conclusão e histórico escolar do curso de Medicina (docs. 4058500.5535748 e 4058500.5535750), o que confirma a sua situação de graduada na UDABOL. Nessa situação, a parte não pode ser prejudicada pela morosidade na expedição do diploma a que faz jus, até porque o certificado de conclusão de curso é documento hábil para substituir a apresentação do diploma enquanto este não for confeccionado.
+Impedir a participação de graduado no exame em questão por ausência de apresentação do diploma, seria desproporcional, em prol de mera exigência formal, considerando que este poderá ser apresentado até o final do exame REVALIDA sem qualquer prejuízo.
+A parte recorrente alegou violação ao art. 48, § 2º, da Lei 9.394/1996, uma vez que, "para fins de inscrição no Revalida, não são aceitas declarações de conclusão de curso ou documentos congêneres que não sejam os diplomas devidamente reconhecidos nos termos do edital do Exame" (fl. 227).
+O dispositivo em questão possui a seguinte redação:
+Art. 48. Os diplomas de cursos superiores reconhecidos, quando registrados, terão validade nacional como prova da formação recebida por seu titular.
+ ..
+§ 2º Os diplomas de graduação expedidos por universidades estrangeiras serão revalidados por universidades públicas que tenham curso do mesmo nível e área ou equivalente, respeitando-se os acordos internacionais de reciprocidade ou equiparação.
+Não é possível conhecer do recurso quanto ao ponto porque esse dispositivo não contém comando normativo capaz de amparar a tese recursal e infirmar o fundamento do acórdão recorrido.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
