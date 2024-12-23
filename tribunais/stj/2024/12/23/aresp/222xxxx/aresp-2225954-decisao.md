@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal, da incidência da Súmula n. 7 do STJ e da ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 480/482).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 373):
+APELAÇÃO. Ação de execução. Aluguéis. Alegação de execução em excesso não alcançada pela preclusão ou coisa julgada. Matéria de ordem pública. Silêncio do contrato quanto a índice de correção aplicável no período de inadimplência. Impossibilidade de fazer incidir o IGP-M. Aplicação da Tabela Prática. Depósito judicial que não contemplou custas e despesas processuais, nem honorários advocatícios arbitrados em embargos à execução. Reconhecida a insuficiência do pagamento e determinado o prosseguimento da execução com relação aos valores faltantes. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 391/395).
+Nas razões do recurso especial (e-STJ fls. 397/408), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) art. 1.022 do CPC/2015, por negativa de prestação jurisdicional e
+(b) arts. 507 e 508 do CPC/2015, sustentando, em síntese, a impossibilidade de reconhecimento do excesso de execução, pois sujeito aos efeitos da preclusão. Segundo afirma, "o fato de ter ocorrido a preclusão consumativa, ao deixar a recorrida/devedora de questionar excesso de execução nos respectivos embargos, julgados improcedentes e transitados e também o fato de haver execução anterior, transitada em julgado, onde houve o pagamento voluntário com o índice IGPM e o título executivo, o contrato de locação foi dado como hígido na sentença de extinção dessa execução, não seriam óbices para apuração, de ofício, e para decote de excesso de execução, derivado de uso de índices diversos de correção monetária" (e-STJ fl. 402).
+No agravo (e-STJ fls. 485/494), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fls. 497/529).
+É o relatório.
+Decido.
+Não há falar em afronta ao art. 1.022 do CPC/2015, pois a agravante limitou-se a apontar violação do referido artigo, não especificando, de forma clara e precisa, como e em que medida o acórdão reco rrido o teria afrontado. Portanto, incide no caso, por analogia, a Súmula n. 284 do STF.
+No caso, o TJSP reconheceu que a alegação de excesso de execução não estaria preclusa, decidindo com base nos seguintes fundam entos (e-STJ fls. 3 74/375):
+Antes da prolação da r. sentença dos embargos à execução o executado depositou nos autos principais o valor de R$ 1.594.771,82 e pleiteou a extinção da execução.
+O apelante impugnou o montante depositado, pois entendeu que o índice de correção monetária para o período do inadimplemento deve ser o IGP-M, tendo o executado atualizado os valores de acordo com a Tabela Prática deste Eg. Tribunal de Justiça.
+Em que pese a insistência do apelante sobre o tema, a alegação de excesso de execução não foi alcançada pela preclusão ou mesmo pela coisa julgada. Isto porque a discussão versa sobre a liquidez da obrigação exequenda e, em consequência, cuida-se de matéria de ordem pública, cognoscível a qualquer tempo, inclusive de ofício (art. 803, I, CPC) e independentemente dos embargos à execução.
+A decisão recorrida está em conformidade com a jurisprudência desta Corte, no sentido de que "a questão pertinente aos juros moratórios e à correção monetária, por se tratar de matéria de ordem pública, pode ser conhecida de ofício pelo juiz, independentemente de pedido ou recurso da parte, e a alteração dos seus termos não configura julgamento extra petita nem reformatio in pejus" (AgInt no AREsp n. 1.199.672/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe de 8/10/2021).
+Nesse mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REGRESSIVA DE COBRANÇA. AVAL. NOTAS PROMISSÓRIAS. CORREÇÃO MONETÁRIA E JUROS DE MORA. APLICAÇÃO DA TAXA SELIC. MERA ALTERAÇÃO DOS CONSECTÁRIOS DA CONDENAÇÃO (BASE DE CÁLCULO DOS JUROS E DA CORREÇÃO MONETÁRIA). AUSÊNCIA DE MODIFICAÇÃO OU REDISTRIBUIÇÃO DA SUCUMBÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a correção monetária e os juros de mora são consectários legais da condenação principal, sendo considerados pedidos implícitos, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício" (AgInt no AREsp n. 1.555.087/SP, relator o Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+2. Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 2.043.210/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/10/2023, DJe de 3/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ENVIO DOS AUTOS À CONTADORIA JUDICIAL DE OFÍCIO. POSSIBILIDADE. AUSÊNCIA DE REFORMATIO IN PEJUS. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. "O juiz pode, de ofício, independentemente de requerimento das partes, enviar os autos à contadoria judicial quando houver dúvida acerca do correto valor da execução e verificar que os cálculos apresentados estão em desacordo com o título em execução." (AgInt no AREsp 637.591/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/10/2019, DJe 24/10/2019).
+2. "A jurisprudência é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus" (AgInt no AgInt no AREsp n. 1.379.692/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 2/12/2019, DJe 5/12/2019).
+3. "Não é deficiente a fundamentação do julgado que elenca suficientemente as razões pelas quais fez incidir os enunciados sumulares cabíveis na hipótese" (AgInt no AREsp n. 911.502/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/12/2016, DJe 7/12/2016).
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.661.519/SP, de minha relatoria, QUARTA TURMA, julgado em 21/2/2022, DJe de 25/2/2022.)
+Incide as Súmulas n. 83 e 568 do STJ.
+Por fim, os precedentes apresentados como paradigmas referem-se a situações em que a matéria de ordem pública foi decidida de forma definitiva. Isso não se aplica ao caso dos autos, em que não houve decisão sobre o tema.
+Portanto, o recurso especial fundado na alínea "c" do permissivo constitucional também não reúne condições de êxito, ante a inexistência de similitude fática entre os acórdãos tidos por divergentes.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
