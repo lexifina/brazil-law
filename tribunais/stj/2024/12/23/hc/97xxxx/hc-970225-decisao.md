@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de WAGNER BENEDITO DA SILVA contra acórdão do Tribunal de Justiça de São Paulo.º
+Consta dos autos que o paciente foi condenado nas sanções do artigo 155, § 4º, inciso I, combinado com o artigo 14, inciso I, do Código Penal, ao cumprimento da pena de 01 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, em regime fechado, além do pagamento de 08 (oito) dias-multa, no valor unitário mínimo.
+Irresignado, o Parquet apelou ao Colegiado de origem, que deu providência ao recurso a fim de estabelecer a pena definitiva imposta ao réu no montante de 02 anos e 04 meses de reclusão e ao pagamento de 10 dias-multa, no piso legal, em regime fechado, nos termos da seguinte ementa:
+"Ementa. Apelação Criminal. Furto qualificado. Subtração de pertences pessoais na residência das vítimas. Pleito ministerial requerendo a reforma da dosimetria. Autoria e materialidade delitivas demonstradas. Robusto conjunto probatório que lhe é desfavorável. Suficiência para a comprovação dos fatos. Condenação mantida. Dosimetria reformada. Multirreincidência específica ostentada pelo réu que permite a exasperação na fração de metade. Regime fechado mantido ante a multirreincidência ostentada pelo réu. Recurso provido."
+Neste mandamus, a defesa requer sejam requisitadas informações ao impetrado, caso necessário, e, após o parecer do Ministério Público Federal, seja concedida a ordem, a fim de que seja retificada a pena imposta, fixando o aumento pela recidiva em 1/6, com o restabelecimento da sentença originalmente prolatada pelo juízo de primeira instância.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício
+Quanto à fração da agravante da reincidência, sabe-se que o nosso Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, cabendo à prudência do magistrado fixar o patamar necessário, dentro de parâmetros razoáveis e proporcionais, com a devida fundamentação.
+Nesse contexto, a jurisprudência deste Superior Tribunal firmou-se no sentido de que o aumento da pena em fração superior a 1/6, pela aplicação da agravante da reincidência, deve ser fundamentado.
+No caso, o aumento superior a 1/6, na segunda fase dosimétrica, lastreou-se no fato de ser o paciente multirreincidente, argumento que se alinha à jurisprudência deste Tribunal Superior.
+Nesse sentido:
+DIREITO PENAL. HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. PENA-BASE. FUNDAMENTOS CONCRETOS PARA O AUMENTO DA PENA-BASE E PROPORCIONALIDADE DO AUMENTO. FRAÇÃO DA REINCIDÊNCIA. EXISTÊNCIA DE DIVERSAS CONDENAÇÕES CARACTERIZADAS DE MULTIRREINCIDÊNCIA, AS QUAIS LEGITIMAM O MAIOR AGRAVAMENTO NA FRAÇAO APLICADA. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. JUSTIFICATIVA IDÔNEA DA AUSÊNCIA DO LAUDO PERICIAL. POSSIBILIDADE DE UTILIZAÇÃO DE OUTROS MEIOS DE PROVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame 1. Habeas corpus impetrado em favor de condenado por furto qualificado, questionando a dosimetria da pena aplicada e a qualificadora.
+II. Questão em discussão 2. A questão em discussão consiste em saber se é cabível o habeas corpus como substitutivo de recurso próprio ou revisão criminal, e se há flagrante ilegalidade na dosimetria e na incidência da qualificadora.
+III. Razões de decidir 3. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. O reconhecimento da qualificadora de rompimento de obstáculo foi devidamente demonstrado pelo Tribunal de origem, com base em declarações da vítima e testemunhas. A ausência do laudo pericial também foi bem justificada, uma vez que era necessário evitar a continuidade da vulnerabilidade do local danificado pelo delito.
+Precedentes.
+5. As condenações pretéritas podem ser utilizadas tanto para valorar os maus antecedentes na primeira fase, quanto para agravar a pena na segunda fase, a título de reincidência, desde que as condenações sejam de fatos diversos, como no presente caso, em que o paciente detém seis condenações transitadas em julgado, sendo cinco delas específicas.
+6. O agravamento da pena em fração superior a 1/6 está justificado pelo fato de o paciente diversas condenações definitivas anteriores.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que a multirreincidência constitui justificativa idônea para acréscimo superior a 1/6 na segunda fase da dosimetria da pena.
+7. O regime adequado à hipótese é o inicial fechado, nos termos do art. 33, §§ 2º e 3º, do CP, uma vez que o paciente detém circunstâncias judiciais desfavoráveis e é multirreincidente.
+IV. HABEAS CORPUS NÃO CONHECIDO."
+(HC n. 927.038/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. SEGUNDA FASE. AGRAVANTE DA REINCIDÊNCIA. AUMENTO EM FRAÇÃO SUPERIOR A 1/6. FUNDAMENTAÇÃO CONCRETA. PACIENTE MULTIRREINCIDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à fração da agravante da reincidência, sabe-se que o nosso Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, cabendo à prudência do magistrado fixar o patamar necessário, dentro de parâmetros razoáveis e proporcionais, com a devida fundamentação.
+2. Nesse contexto, a jurisprudência deste Superior Tribunal firmou-se no sentido de que o aumento da pena em fração superior a 1/6, pela aplicação da agravante da reincidência, deve ser fundamentado.
+3. Hipótese em que o aumento superior a 1/6, na segunda fase dosimétrica, lastreou-se no fato de ser o paciente multirreincidente, argumento que se alinha à jurisprudência deste Tribunal Superior. Precedentes.
+4. Agravo não provido.
+(AgRg no HC n. 905.909/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Ante o exposto, não conheço da impetração.
+Publique-se. Intimem-se.
+EMENTA
