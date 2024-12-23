@@ -1,0 +1,20 @@
+DECISÃO
+DENIS MEDEIRO PEREIRA opõe embargos declaratórios contra a decisão de fls. 2.621-2.624, por meio da qual dei parcial provimento ao recurso especial, mas preservei a fração de redução relativa à atenuante da confissão.
+Nas razões dos aclaratórios, o embargante sustenta omissão no julgado impugnado e postula que "se manifeste acerca do fato de a confissão parcial do recorrente ter sido considerada como elemento probatório no édito condenatório" (fl. 2.638).
+Requer, assim, o acolhimento dos embargos de declaração, com efeitos infringentes, para que seja provido o recurso especial em maior extensão .
+Decido.
+Não obstante os esforços perpetrados pelo ora embargante, não constato os vícios apontados na decisão embargada.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Sobre a matéria de fundo, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não haja mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante e a de redução pelas atenuantes em observância aos princípios da razoabilidade e da proporcionalidade.
+No caso, a Corte estadual salientou que, emborra o recorrente haja admitido a prática do crime, "se tratou de confissão meramente parcial, dotada de menor grau de colaboração com a Justiça" (fl. 2.535). Portanto, uma vez que foi concretamente fundamentada a incidência da atenuante em patamar inferior a 1/6, com base em argumentos idôneos e específicos dos autos, não há como acolher o pleito defensivo.
+Nesse sentido, este Superior Tribunal considerou válida a redução da reprimenda na fração de 1/12, pela incidência da atenuante da confissão espontânea, em razão de o réu haver afirmado que agiu em legítima defesa:
+4. No caso, o Colegiado de origem limitou-se a reduzir a reprimenda na fração de 1/12 pela incidência da atenuante do art. 65, III, "d", do CP, pois o réu afirmou ter agido em legítima defesa, bem como em razão da existência de um vasto conjunto probatório a respaldar a condenação do réu, notadamente declarações de testemunhas presenciais do fato, não havendo, portanto, ilegalidade na segunda fase da dosimetria a justificar a concessão da ordem de ofício, porquanto restou declinada motivação idônea para a redução inferior a 1/6.
+5. Writ não conhecido.
+(HC n. 449.831/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 20/6/2018).
+Diante de tais considerações, não existem os vícios descritos no art. 619 do CPP no aresto combatido. Noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de dec laração.
+Publique-se e intimem-se.
+EMENTA
