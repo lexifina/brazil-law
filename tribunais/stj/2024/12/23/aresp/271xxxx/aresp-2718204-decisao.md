@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual PARAÍBA PREVIDÊNCIA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA de fls. 98/116.
+Não foram opostos embargos de declaração.
+A parte recorrente aponta violação do art. 4º, § 1º, VII, da Lei 10.887/2004, do art. 2º da Lei Complementar estadual 50/2003, do art. 2º, § 2º, da Lei estadual 9.703/2012 e do art. 17, I, "a", "3" e "e", da Lei Complementar estadual 67/2005 (fl. 137). Afirma (fls. 138/139):
+ ..  resta indubitável que o congelamento das parcelas "adicional de inatividade" e "anuênio" exigido pela LCE 50/2003 abrange as remunerações dos servidores públicos civis e militares, impossibilitando qualquer interpretação divergente acerca de dita previsão.
+A parte adversa não apresentou contrarrazões (fls. 142/151).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O recurso especial tem como uma de suas características a fundamentação vinculada, sendo imprescindível que em suas razões sejam apontados os dispositivos de lei que teriam sido violados pelo acórdão recorrido, com a indicação, de forma clara e direta, da interpretação que se entende deva ser dada à norma, não bastando a mera citação dos dispositivos de lei.
+Neste caso, no que tange à alegação de violação do art. 4º, § 1º, VII, da Lei 10.887/2004, a parte recorrente não fez sua indicação acompanhada de argumentação específica sobre o modo como foi violado; assim, há deficiência de fundamentação, razão pela qual incide no ponto a Súmula 284/STF e dessa parte do recurso não é possível conhecer.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE ERRO NOS CÁLCULOS DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. ADEQUAÇÃO DA MEMÓRIA DE CÁLCULO AO TÍTULO JUDICIAL EXECUTIVO. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+ ..
+3. O recorrente não enfrentou especificamente os fundamentos da decisão agravada, limitando-se a apresentar argumentação genérica sobre a suposta violação legal, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal, por analogia, em razão da deficiência na fundamentação do Recurso.
+4. A jurisprudência do STJ é pacífica no sentido de ser inadmissível o Recurso Especial quando o agravante não demonstra de forma adequada e específica o equívoco na decisão que não admitiu o Recurso, conforme princípio da dialeticidade.
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.409.038/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/3/2024, DJe de 7/5/2024, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. CONSELHO PROFISSIONAL. ANUIDADE. REGULAR CONSTITUIÇÃO DO CRÉDITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+II - Revela-se deficiente a argumentação quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.921.863/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021, sem destaque no original.)
+Da leitura da petição recursal, constato que a parte defende a ocorrência de violação de dispositivo de lei local, notadamente do art. 2º da Lei Complementar estadual 50/2003, do art. 2º, § 2º, da Lei estadual 9.703/2012 e do art. 17, I, "a", "3" e "e", da Lei Complementar estadual 67/2005.
+Logo, o conhecimento da pretensão demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, é aplicável à espécie, por analogia, o enunciado da Súmula 280/STF ("Por ofensa ao direito local não cabe recurso extraordinário"). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DE LEI LOCAL. SÚMULA 280/STF. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. VIOLAÇÃO DO ARTIGO 489 DO CPC. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. EXISTÊNCIA DE REFORMATIO IN PEJUS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No tocante à tese de prescrição da pretensão, verifica-se que o recorrente invoca dispositivos de lei estadual em suas razões recursais (artigo 18 da Lei Estadual 3.213/78). Ocorre que a análise de lei local não é cabível em sede de recurso especial, o que atrai ao caso o óbice da Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário"), por analogia.
+2. O recorrente argumentou a ocorrência de violação a dispositivo da Constituição Federal (artigo 93, IX). O Superior Tribunal de Justiça não é competente para analisar, em sede de recurso especial, violação de dispositivo constitucional (artigo 102, § 2º, da Constituição Federal), sob pena de usurpar a competência do Supremo Tribunal Federal.
+3. No tocante à suposta negativa de prestação jurisdicional, relativa à ilicitude da prova que embasou a condenação, o Tribunal a quo se manifestou sobre a alegação de nulidade da prova. Ora, a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao artigo 489 do CPC/2015, pois não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+4. Ademais, os fundamentos acerca da inovação recursal e da não limitação da fundamentação da sentença aos depoimentos colhidos na fase administrativa, relevantes para o deslinde da controvérsia, não foram devidamente impugnados nas razões do recurso especial, o que leva à incidência da Súmula 283/STF a inviabilizar a análise do mérito da alegação.
+5. Por fim, no tocante à fixação das sanções impostas ao ora recorrente, para analisar a suposta ocorrência de reformatio in pejus, seria necessário o revolvimento do conjunto fático probatório dos autos, com as informações, não constantes no acórdão recorrido, quanto ao valor do dano a ser ressarcido e que serviu de base para a multa civil fixada em primeira instância, bem como quanto ao valor da remuneração do recorrente, base para a multa civil fixada pelo Tribunal local. Destarte, fica evidenciada a incidência do óbice da Súmula 7/STJ no ponto, uma vez que tal análise não pode ser realizada em sede de recurso especial.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.884.368/ES, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/2/2021, DJe de 26/2/2021.)
+AGRAVO INTERNO. RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. ARTS. 166 E 2.028 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. VIOLAÇÃO DE LEI LOCAL. ALEGAÇÃO GENÉRICA. SÚMULAS 280 E 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Os temas insertos nos arts. 166 e 2.028 do Código Civil, tidos por contrariados, não foram objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suprir eventual omissão. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Não cabe, em sede de recurso especial, a análise de conteúdo normativo local, no caso, malferimento da lei complementar estadual 52/1991, do Estado de Rondônia. Incide, na espécie, por analogia, a Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário)".
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.699.361/RO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/6/2018, DJe de 13/6/2018.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
