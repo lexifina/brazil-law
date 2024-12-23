@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de PEDRO HENRIQUE FERREIRA RODRIGUES - condenado como incurso no crime de roubo simples -, atacando-se o acórdão da apelação criminal proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (fls. 319/333), comporta, de pronto, parcial acolhimento.
+Com efeito, busca a impetração redimensionar a pena imposta - na condenação proferida na Ação Penal n. 0012805-22.2023.8.13.0040 (fls. 245/250 - da 1ª Vara Criminal e de Execuções Penais da Comarca de Araxá/MG) -, com o afastamento da negativação do vetor consequências do delito - sustentando que o prejuízo patrimonial da vítima é inerente a todo e qualquer crime contra o patrimônio (fl. 5) - e, consequentemente, o abrandamento do regime inicial.
+Sem pedido liminar.
+Ao que se tem, não deveria ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Entretanto, foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fundamentação utilizada pela Corte estadual para negativação do vetor consequências do delito - em se tratando de casos em que não há a restituição integral da res, é possível a análise desfavorável do vetor em exame, hipótese mais grave e reprovável do que os casos em que há a devolução do bem (fl. 330) -, especialmente por não se tratar de elevado prejuízo material, está em desacordo com o entendimento desta Corte Superior.
+Necessário, então, redimensionar a pena imposta: na primeira fase, mantida a negativação dos vetores culpabilidade e antecedentes (fl. 330), exaspera-se a pena na proporção definida pelas instâncias ordinárias (fl. 248), fixando-a em 4 anos e 3 meses de reclusão, e 11 dias-multa. Na segunda fase, mantida a agravante da reincidência em 1/6 (fl. 331), passando a reprimenda para 4 anos, 11 meses e 15 dias de reclusão, e 13 dias-multa. Na terceira fase, sem alterações (fl. 331), tem-se a pena definitiva em 4 anos, 11 meses e 15 dias de reclusão, e 13 dias-multa.
+Finalmente, considerando a pena imposta, existência de circunstâncias negativadas e reincidências, tem-se que não há ilegalidade no regime inicial fechado, fixado pelas instâncias ordinárias (fl. 331).
+Em razão disso, concedo liminarmente a ordem impetrada, em parte, a fim de redimensionar a pena imposta ao paciente para 4 anos, 11 meses e 15 dias de reclusão, e 13 dias-multa, mantido do regime inicial fechado, referente à condenação proferida na Ação Penal n. 0012805-22.2023.8.13.0040, da 1ª Vara Criminal e de Execuções Penais da comarca de Araxá/MG.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO SIMPLES. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS. NEGATIVAÇÃO. PREJUÍZO NÃO ELEVADO. IMPOSSIBILIDADE. PENA RETIFICADA. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
