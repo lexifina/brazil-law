@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual JOSE RUBENS REZENDE GONCALVES DA MOTTA se insurgiu, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. EXECUÇÃO DE MULTA CIVIL. Penhora de precatório. Impenhorabilidade. Alegada natureza alimentar do crédito penhorado. Descabimento. Relativização em face da necessidade de satisfação de outras verbas de caráter alimentar. Jurisprudência do STJ. Executado servidor aposentado como Procurador Assistente Técnico Legislativo que percebe proventos superiores a R$ 23.000,00. Penhora do crédito que visa garantir pagamento, sem afetar dignidade de vida do devedor. Manutenção. Agravo não provido.
+Nas suas razões recursais, a parte alega, em síntese, ter sido condenada em uma ação de improbidade administrativa ao pagamento de multa civil, penhorando-se precatório de sua titularidade que, por sua natureza alimentar, equipara-se a salários, aposentadorias e pensões e, assim, é impenhorável, violando-se os arts. 833, IV, do Código de Processo Civil (CPC), 100, §1º, da Constituição Federal.
+Violado, ainda, o 1.022, II, do CPC, tendo em vista a omissão do Tribunal acerca da natureza alimentar e, assim, impenhorável dos valores a serem percebidos mediante precatório.
+É o relatório.
+A parte recorrente sustenta omisso o acórdão no tocante à natureza alimentar das verbas penhoradas.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO reafirmou o quanto decidido no agravo de instrumento, nos seguintes termos (fls. 2.290/2.291):
+"(..)
+Depreende-se dos autos que o recorrente é aposentado no cargo de Procurador Assistente Técnico Legislativo, percebendo proventos a ele pertinentes, que giravam em torno de R$ 23.000,00, mensais, em 2014 (fls. 1939). Foi deferida penhora de crédito nos autos do processo número 0501264-85.1990.8.26.0053 e 0031005.42.2004, até o limite do débito de R$ 2.428.202,89 e o recorrente se volta contra a decisão debatendo-se pela impenhorabilidade dos valores relativos aos precatórios, já que seriam provenientes de verba alimentar.
+Pois bem, o art. 833, inciso IV, e §2º do CPC dispõe o seguinte:
+"Art. 833. São impenhoráveis: (..) IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º ;
+(..)
+§ 2º O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º , e no art. 529, § 3º"
+Acerca do tema, o Superior Tribunal de Justiça vem adotando um novo posicionamento, no sentido da relativização das impenhorabilidades, como sustentou o Ministro Raul Araújo, no julgamento do AgInt no Agravo em Recurso Especial nº 1.408.762/AM, em 11/06/2019:
+(..)
+Sendo assim, é permitida a mitigação da impenhorabilidade, inclusive quando se trata de vencimentos do devedor, com o escopo de garantir a efetividade da tutela jurisdicional, quando resguardada a sua dignidade e de sua família.
+Na hipótese, o debate não versa nem mesmo sobre os proventos do recorrente, os quais são de alta monta e até o momento não há notícia de penhora.
+Trata-se, em verdade, de penhora de crédito, não havendo, portanto, a fortiori, que se falar em proteção absoluta, ainda que se trate de verba alimentar ou indenizatória, já que a dignidade do recorrente encontra-se garantida com o percebimento mensal de seus proventos. (..)"
+Como visto, nada a ser alterado, uma vez que juridicamente justificada a relativização da impenhorabilidade de verbas alimentares.
+Vê-se que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+No tocante à impenhorabilidade das verbas inscritas em precatório, é preciso deixar claro que a penhora não se deu sobre a pensão do servidor aposentado, mas sobre valores acumulados a ele devidos por força de ação judicial e que serão recebidos acumuladamente.
+Conjugam-se, assim, o quanto disposto no inciso IV do art. 833 do CPC ao que previsto no seu §2º, que claramente excepciona a impenhorabilidade das verbas alimentares superiores a 50 (cinquenta) salários-mínimos mensais.
+O acórdão recorrido deixou claro que a constrição de modo algum comprometeria o sustento do devedor executado, que, em 2014, percebia proventos mensais em torno de R$ 23.000,00 e que "a dignidade do recorrente encontra-se garantida com o percebimento mensal de seus proventos" (fl. 2254).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Esta Corte, por outro lado, ao reconhecer a ausência de comprometimento da dignidade do devedor, excepciona a impenhorabilidade de verbas alimentares, expecioalmente quando recebidas de forma acumulada, superando o patamar previsto no inciso X do art. 833 do CPC .
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
