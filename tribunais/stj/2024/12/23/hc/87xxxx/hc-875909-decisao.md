@@ -1,0 +1,8 @@
+DECISÃO
+HELIO DOS SANTOS JUNIOR alega sofrer coação ilegal em decorrência de acórdão proferido pela Corte local nos autos da Apelação n. 0039870-74.2014.8.26.022.
+A defesa postula a absolvição do paciente - condenado definitivamente a 9 anos e 26 dias de reclusão, em regime inicial fechado, como incurso no art. 157, § 2º-A, I, do Código Penal -, sob o argumento de "ausência das formalidades legais para o reconhecimento fotográfico feito na delegacia e irregularidade no reconhecimento pessoal feito em juízo".
+As informações de fls. 70-74 indicam que este habeas corpus pretende a rediscussão da condenação definitiva , transitada em julgado após o julgamento em segunda instância, evidenciando-se, assim, que não deve ser conhecido o writ, pois tal providência exige a instauração de revisão criminal, ação autônoma para a qual esta Corte Superior não possui competência na espécie.
+Com efeito, nos termos do art. 105, I, "e", da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, as revisões criminais e as ações rescisórias de seus próprios julgados, o que não é o caso dos autos. Nesse sentido: AgRg no HC 661.172/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 14/5/2021 .
+À vista do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
