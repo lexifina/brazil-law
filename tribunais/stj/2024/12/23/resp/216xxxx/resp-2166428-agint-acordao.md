@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA À COISA JULGADA. INEXISTÊNCIA. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão no sentido da inexistência de ofensa à coisa julgada. A revisão de tais conclusões demanda a incursão nos fatos e provas dos autos. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 588):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. OFENSA À COISA JULGADA. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A agravante alega que, "como se constata das razões recursais, a decisão recorrida está em dissonância com o determinado no título executivo executado, sendo desnecessário o revolvimento fático da matéria por ser questão conhecível pela simples leitura do recurso especial, razão pela qual não e aplica o óbice previsto na Súmula n.º 7 do STJ" (fl. 600).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA À COISA JULGADA. INEXISTÊNCIA. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão no sentido da inexistência de ofensa à coisa julgada. A revisão de tais conclusões demanda a incursão nos fatos e provas dos autos. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, verifica-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Ressalte-se que a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão no sentido da inexistência de ofensa à coisa julgada, nos seguintes termos (fl. 590):
+Na particular hipótese dos autos, ressai nítida a inadvertida renitência do ente público devedor em quitar o débito que se lhe exige, apegando-se à tese, sucessivamente rechaçada, de que o assim chamado regime de competências, previsto no art. 12-A da Lei 7.713, de 22.12.1998, não estaria abarcado no título exequendo e que, portanto, a sua inclusão nos cálculos ofenderia a coisa julgada.
+Diante disso, em que pese as alegações do agravante, não há como se afastar a incidência do óbice da Súmula 7/STJ, sendo caso de sua manutenção.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. APELO NOBRE. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA. VIOLAÇÃO À COISA JULGADA. AVERIGUAÇÃO. SÚMULA 7/STJ. FUNDAMENTO BASILAR INATACADO. SÚMULA 283/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA 282/STF.
+1. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008.
+Precedente: Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+2. Na espécie, a Corte local assinalou expressamente ser aplicável o entendimento consolidado pelo STJ no Tema 179, concluindo pela adequação (arts. 1.030 e 1.040 do CPC) do acórdão recorrido a esse precedente, pelo que resta prejudicada a apreciação do recurso especial no ponto.
+3. A alteração das premissas adotadas pela instância de origem acerca dos limites da coisa julgada ao caso concreto, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. O recurso especial não é cabível na hipótese em que as razões recursais não refutaram alicerce autônomo e suficiente à manutenção do que decidido pelo Tribunal local acerca da impenhorabilidade do bem de família, já decidida anteriormente nos embargos à execução fiscal, a atrair o impedimento da Súmula 283/STF.
+5. Inviável o conhecimento do recurso especial quando a Corte a quo não examinou a controvérsia sob o enfoque do art. 836, tampouco foram opostos os competentes embargos de declaração a fim de suscitar omissão quanto a tal ponto. Aplicação do Enunciado Sumular 282/STF.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.344.867/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/10/2023; grifos nossos.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. IMPOSTO DE RENDA. DIFERENÇAS SALARIAIS RECEBIDAS ACUMULADAMENTE. LIQUIDAÇÃO DE SENTENÇA. REGIME DE COMPETÊNCIA. MATÉRIA PACIFICADA PELA SISTEMÁTICA DO RECURSO REPETITIVO - TEMA 351/STJ. VIOLAÇÃO DA COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. AUSÊNCIA. REVISÃO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. É deficiente a fundamentação do recurso especial em que é alegada a ofensa ao art. 1.022 do CPC/2015 de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia.
+Incide no presente caso, assim, o óbice previsto na Súmula 284/STF, por analogia.
+2. Relativamente às alegações de (a) necessidade de somatório da diferença paga com atraso aos rendimentos oportunamente adimplidos, nos termos da decisão exequenda, (b) impossibilidade de aplicação retroativa da Lei 12.350/2010 e (c) impossibilidade de se conceder isenção tributária não prevista em lei, observa-se que esses argumentos não são suficientes para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, demanda, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+3. A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+4. Indubitavelmente, não é o caso de prequestionamento ficto. Isso porque, conforme o entendimento desta Corte Superior, a incidência do art. 1.025 do Código de Processo Civil exige que o recurso especial tenha alegado a ocorrência de violação do art. 1.022 do caderno processual, possibilitando verificar a omissão do Tribunal de origem quanto à apreciação da matéria de direito de lei federal controvertida, o que não ocorreu na espécie.
+5. No caso dos autos, não obstante conste das razões do recurso especial a afronta ao art. 1.022 do CPC, o recurso não comporta conhecimento quanto ao tópico pela deficiência de fundamentação recursal, o que obsta o reconhecimento de eventual vício de integração e, por conseguinte, a admissão do prequestionamento ficto previsto no art. 1.025 daquele diploma legal.
+6. O acórdão recorrido nada dispôs sobre os termos da decisão transitada em julgado, de modo que a análise da alegação do recorrente de que houve violação da coisa julgada em virtude de se determinar forma de cálculo diversa daquela estabelecida no título executivo judicial implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+7. Ademais, o Tribunal gaúcho seguiu a orientação do Superior Tribunal de Justiça, firmada no julgamento do REsp 1.118.429/SP, julgado pelo rito repetitivo (Tema 351/STJ), de que a cobrança do imposto de renda incidente sobre o montante pago em razão de condenação que reconhece o direito a diferenças salariais deve observar as tabelas vigentes no momento em que tais diferenças deveriam ter sido pagas, considerando-se o regime de competência.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.700.877/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 20/9/2023; grifos nossos.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
