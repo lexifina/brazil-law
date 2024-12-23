@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+DIREITO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO. FUNDAMENTAÇÃO IDÔNEA. BUSCA E APREENSÃO BASEADA EM FUNDADAS SUSPEITAS. NECESSIDADE DESEGREGAÇÃO CAUTELAR.
+I. CASO EM EXAME
+1. Habeas corpus liberatório impetrado contra decisão que converteu prisão em flagranteem preventiva, com fundamento na apreensão de drogas, arma de fogo e munições,bem como na existência de anotações anteriores por tráfico de drogas.
+II. QUESTÃO EM DISCUSSÃO2.
+A questão em discussão consiste em: (i) analisar a legalidade da busca pessoal edomiciliar; e (ii) verificar a fundamentação e a necessidade da prisão preventiva.
+III. RAZÕES DE DECIDIR
+3. A busca pessoal foi realizada diante das fundadas suspeitas originadas porinformações do serviço de inteligência, corroboradas por elementos obtidos naabordagem inicial, que demonstrou a necessidade dos agentes públicos se dirigirem àresidência do paciente.
+4. A prisão preventiva encontra-se justificada pela gravidade concreta dos fatos,evidenciada pela apreensão de quantidade expressiva de droga (288,895g de skunk ousupermaconha), arma de fogo e munições, além de indicativos de reiteração delitiva, em razão das anotações na certidão de antecedentes criminais, não sendo suficientes medidas cautelares alternativas.
+5. Não se conhece da tese de desproporcionalidade entre a prisão preventiva e o regimedecorrente de eventual condenação, porque vigora o princípio da presunção deinocência.
+IV. DISPOSITIVO E TESE
+6. Ordem conhecida em parte e, nesta extensão, denegada.
+O paciente foi preso em flagrante no dia 29 de outubro de 2024, pela suposta práticado crime de tráfico de drogas e posse de arma de fogo de uso permitido.
+A defesa alega, em síntese que inexistem pressupostos que autorizem a decretação da prisão preventiva ou apermanência do acautelamento do paciente, que é primário, tem boa conduta social, residência fixa, exercetrabalho lícito como marceneiro, bem como é pai de filhos menores. Diante disso, alega que são cabíveis asmedidas cautelares mais brandas. Verbera que a prisão é desproporcional e fere o princípio da homogeneidade, pois, na hipótese de condenação, será fixado regime diverso do fechado.
+Ao final, requer a concessão da ordem para converter a prisão preventiva em prisão domiciliar com monitoração eletrônica.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o  habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado  (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Quanto à ilegalidade da prisão em flagrante, por ausência de justa causa para aabordagem policial, que resultou na busca pessoal, seguida da domiciliar, consigno que a análise da referida tese somente se mostra compatível com a via estreita do habeas corpus - que não admite ampla incursão no conjunto fático probatório - quando os elementos produzidos forem suficientemente claros a indicar situação de abuso ou erro na ação policial.
+Considerando que não está evidenciada a flagrante ilegalidade na abordagem policial a ponto de ser reconhecida em Habeas Corpus, imperiosa a continuidade da Ação Penal, com a fase da instrução criminal, para melhor averiguação das circunstâncias anteriores à apreensão das drogas, munições e arma.
+Consta dos autos que na ocasião, segundo a ocorrência policial, teriam sido apreendida uma porção de skunk (supermaconha), com massa de 288,895g, arma de fogo calibre .380 e 12 munições de igual calibre.
+No que tange à prisão preventiva, assim entendeu o Tribunal de origem (e-STJ fls. 31-39 ):
+Relativamente à fundamentação e necessidade da prisão preventiva, a decisão já transcritarevela motivos idôneos para a manutenção do paciente no cárcere: a gravidade em concreto da conduta,porque possivelmente apreendidas uma porção de skunk (supermaconha), com massa de 288,895g; armade fogo calibre .380 e 12 munições de igual calibre, além de duas anotações por tráfico de drogas, apesarda primariedade.Os referidos elementos são suficientes para fundamentar a medida extrema, para a garantia da ordem pública, evitando-se a reiteração delitiva, evidenciada a prova da materialidade, indícios de autoria, enas circunstâncias acima narradas, demonstrando que as cautelares mais brandas são insuficientes, adespeito de eventual comprovação de residência fixa, trabalho lícito, primariedade e de ter filhas menores. Além disso, há a informação do envolvimento do paciente com crimes contra a vida, o que demanda apuração.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu pela manutenção da custódia cautelar do recorrente em razão da gravidade concreta das condutas perpetradas e para evitar a reiteração delitiva, o que denotaria sua periculosidade.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
