@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por LUIS CARLOS BARROSO e OUTROS contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE DANOS MORAIS E PEDIDO DE - RESPONSABILIDADE CIVIL. TUTELA DE URGÊNCIA OFENSAS EM REDE SOCIAL ( ) - POSTAGEM COM FACEBOOK CUNHO OFENSIVO DIRECIONADO À REDE DE POSTOS DE GASOLINA. SÚMULA 227 DO SUPERIOR TRIBUNAL DE JUSTIÇA - VIOLAÇÃO À HONRA OBJETIVA DA PESSOA JURÍDICA QUE AUTORIZA A INDENIZAÇÃO POR DANO MORAL. ALEGAÇÃO DE PRÁTICA CRIMINOSA, CARTEL E CRIME CONTRA A ECONOMIA POPULAR - VIOLAÇÃO AO BOM NOME, CREDIBILIDADE E REPUTAÇÃO - POSTAGEM QUE ALCANÇOU UM NÚMERO RAZOÁVEL DE PESSOAS. DEVER DE INDENIZAR - SENTENÇA MANTIDA - ARBITRAMENTO DE VERBA HONORÁRIA RECURSAL. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E NÃO PROVIDO.
+1. No contexto fático delineado, tem-se cabalmente a prova da ocorrência de lesão à imagem, bom nome e reputação das recorridas, sendo evidenciado efetivo prejuízo sobre suas valorações sociais no meio em que atua, porquanto a postagem com teores ofensivos alcançou um número razoável de pessoas, considerando a população total do município em que operam as demandantes" (e-STJ fls. 237/238).
+No recurso especial (e-STJ fls. 253/265), os recorrentes apontam, além de divergência jurisprudencial, violação dos artigos 373, I, do Código de Processo Civil; 186 e 944 do Código Civil.
+Defendem, em síntese, que o acórdão recorrido não examinou devidamente as provas produzidas, bem como sopesou de modo deficiente o ônus da prova de cada parte.
+Ainda, aduzem que "o Tribunal de origem manteve a parcial procedência da sentença de primeiro grau, sem qualquer tipo de comprovação no processo dos danos sofridos pelas autoras, entendendo pela existência do dano exclusivamente por conta do cometimento do ato ilícito pelos ofensores (in re ipsa)" (e-STJ fl. 259).
+Por fim, afirmam que não havendo adequada demonstração da existência de danos à honra objetiva sofridos pelas recorridas, deve ser afastada a condenação à compensação de dano moral, que, para as pessoas jurídicas, não pode ser considerado uma intrínseca decorrência do ato ilícito.
+Ao final, requerem o provimento do recurso.
+Sem a apresentação de contrarrazões (e-STJ fl. 251), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Compulsando ao autos, verifica-se que as instâncias ordinárias concluíram que, na situação em análise, ocorreu a violação à honra objetiva das pessoas jurídicas.
+Sobre o tema, esta Corte Superior de Justiça tem se orientado no sentido de "(..) ser cabível indenização por danos morais quando o consumidor de veículo zero quilômetro necessita retornar à concessionária, por diversas vezes, para reparo de defeitos apresentados no veículo adquirido" (AgInt no AREsp n. 2.163.568/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/3/2023, DJe de 30/3/2023).
+A jurisprudência desta Corte Superior também admite a possibilidade de as pessoas jurídicas sofrerem dano moral.
+Nesse sentido:
+"PROCESSUAL CIVIL. TELEFONIA. DANOS MORAIS. PESSOA JURÍDICA. COMPROVAÇÃO. ANÁLISE DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. REEXAME. MATÉRIA DE PROVA.
+1. O STJ possui entendimento firmado quanto à possibilidade de a pessoa jurídica sofrer dano moral, nos termos da Súmula 227/STJ, desde que haja ofensa à sua honra objetiva. Ocorre que, para averiguar se houve ou não comprovação dos danos morais sofridos, necessário o revolvimento de matéria fático-probatória, o que é vedado nesta seara recursal, ante o óbice da Súmula 7/STJ.
+2. Em relação ao quantum indenizatório, a jurisprudência do STJ consolidou que a revisão do valor arbitrado a título de danos morais é possível quando exorbitante ou insignificante a verba estipulada, em flagrante violação dos princípios da razoabilidade e da proporcionalidade. 3. No caso em foco, a fixação da indenização por dano moral na importância de R$ 10.000,00 (dez mil reais) a título de danos morais não se mostra teratológica, dadas as peculiaridades do caso, de forma que o exame do valor arbitrado e a sua revisão demandam reavaliação de fatos e provas, o que é vedado em Recurso Especial, ante o óbice contido na Súmula 7/STJ.
+4. Recurso Especial não conhecido" (REsp n. 1.726.984/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2018, DJe de 19/11/2018).
+Nesse contexto, a revisão do julgado para alterar a conclusão das instâncias ordinárias quanto à configuração do dano moral, soberanas no exame do acervo fático-probatório constante dos autos, esbarra no óbice da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL (CPC/2015). AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DEFEITO MECÂNICO EM VEÍCULO ADQUIRIDO ZERO QUILÔMETRO. ALEGADA AFRONTA AO ART. 1022, INCISO II, DO CPC NÃO DEMONSTRADA. VALORAÇÃO DAS PROVAS CARREADAS AOS AUTOS. PRERROGATIVA DO MAGISTRADO. ADOÇÃO DO PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. DANOS MORAIS RECONHECIDOS NA INSTÂNCIA ORDINÁRIA. QUANTUM INDENIZATÓRIO FIXADO. PLEITO DE EXCLUSÃO DA RESPONSABILIDADE E REDUÇÃO DO MONTANTE INDENIZATÓRIO FIRMADO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO" (AgInt no AREsp n. 1.543.570/MS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/12/2019, DJe de 19/12/2019).
+Além disso, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte e por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o b enefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
