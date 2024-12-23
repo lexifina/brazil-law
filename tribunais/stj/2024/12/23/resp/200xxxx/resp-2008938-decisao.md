@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1a REGIÃO assim ementado (fl. 3.397):
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PARA O FUST. AUTORIDADE APONTADA COMO COATORA. LEGITIMIDADE PASSIVA AD CAUSAM. DEFESA DO ATO IMPUGNADO. APLICAÇÃO DA TEORIA DA ENCAMPAÇÃO. SÚMULA 7 DA ANATEL. ILEGALIDADE. ENTENDIMENTO DESTA CORTE. SENTENÇA MANTIDA.
+1. A autoridade coatora no mandado de segurança é o agente público que pratica o ato impugnado, aquele que tem o dever funcional de responder pelo seu fiel cumprimento e o que dispõe de competência para corrigir eventual ilegalidade.
+2. "Aplica-se a Teoria da Encampação, se a autoridade apontada coatora, hierarquicamente superior à autoridade legitimada, ao prestar informações, ainda que para suscitar sua ilegitimidade, defendeu o mento do ato impugnado, atraindo para si a legitimidade passiva ad causam". Nesse sentido: (AC 0030916-22.2009.4.01.3400 - Rel. Desembargadora Federal Maria do Carmo Cardoso - e-Dj 01/04/2016).
+3. No caso dos autos, embora a impetração apontado como autoridade coatora o Superintendente de Radiofrequência e Fiscalização, este, ao prestar as informações solicitadas, apesar de alegar sua ilegitimidade passiva ad causam, defendeu o mérito do ato impugnado, aplicando-se, assim, a teoria da encampação.
+4. O FUST - Fundo de Universalização dos Serviços de Telecomunicações, instituído pela Lei 9.998, de 17/08/2000, e regulamentado pelo Decreto 3.624, de 5/10/2000, cuja finalidade é de proporcionar recursos destinados a cobrir a parcela de custo exclusivamente atribuível ao cumprimento das obrigações de universalização de serviços de telecomunicações, que não possa ser recuperada com a exploração eficiente do serviço, nos termos do disposto no inciso lido art. 81 da Lei n º 9.472, de 16 de julho de 1997, e que, a teor do art. 6º, inc. IV, da mesma lei, incide no montante de um por cento sobre a receita operacional bruta, decorrente de prestação de serviços de telecomunicações nos regimes público e privado, excluindo-se o Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transportes Interestadual e Intermunicipal e de Comunicações - ICMS, o Programa de Integração Social - PIS e a Contribuição para o Financiamento da Seguridade Social - Cofins
+5. Com efeito, a regulamentação do FUST prevê, no § 2º do art. 7o do Decreto 3.624/2000, que não haverá a incidência da contribuição de que trata este artigo sobre as transferências feitas de uma prestadora de serviços de telecomunicações para outra e sobre as quais já tenha havido o recolhimento por parte da prestadora que emitiu a conta ao usuário nos termos de regulamentação emitida pela Agência Nacional de Telecomunicações.
+6. Esta Corte já se pronunciou sobre o tema discutido nos autos, no sentido de que é indevida a inclusão na base de cálculo da contribuição das receitas recebidas de prestadoras de serviços de telecomunicações, a título de remuneração de intercomunicações e pelo uso de recursos integrados em suas redes, como prevê a Súmula 7/2005 da Anatel. Nesse sentido: Numeração única: 0017807- 43.2006.4.01.3400. AC 2006.34.00.018012-6 / DF; APELAÇÃO CIVEL. Relator: DESEMBARGADOR FEDERAL NOVÉLY VILANOVA. Órgão: OITAVA TURMA. Publicação: 02/03/2018 e-DJF1. Data Decisão: 29/01/2018.
+7. Apelação e remessa oficial às quais se nega provimento.
+Os embargos de declaração opostos foram rejeitados (fls. 3.441/3.446).
+A parte recorrente alega violação a estes artigos:
+(1) 1.022 do Código de Processo Civil (CPC), pois o Tribunal de origem não teria se manifestado a respeito de pontos importantes ao deslinde da controvérsia;
+(2) 6º, §5º, da Lei 12.016/2009 e 267, VI, do CPC/1973 pois "o presente Mandado de Segurança consiste em via inadequada para veicular a pretensão autoral, na medida em que questiona o conteúdo de normas em tese, qual seja, a Súmula n. 07/2005 da ANATEL e as disposições do art. 6º, inc. IV e par. único da Lei n. 9.998/2000, requerendo, em última análise, a revisão judicial de seu conteúdo, o que se afigura inviável na esfera do mandamus" (fl. 3.456);
+(3) 6º, IV e seu parágrafo único, e 10, ambos da Lei 9.998/2000, 6º, 19, I, X, XI, XIV, XVI e XXV, 60, caput e §§ 1º e 2º, 80, § 1º, 126, 127, II, V, VI e VII, 128, IV e V, 136, § 3º, 146, 147, 152 e 153 da Lei 9.472/1997, 884 e 885 do Código Civil e 97, VI, e 111 do Código Tributário Nacional pois:
+(a) "as receitas auferidas pelas prestadoras com interconexão e pelo uso de recursos integrantes das redes só existem em razão da própria condição de prestadoras de serviços de telecomunicações. Não custa lembrar que para prestar tais serviços a prestadora deve ter a outorga junto à ANATEL" (fl. 3.460);
+(b) "não se vislumbra qualquer legislação especifica que afaste a receita operacional bruta das prestadoras obtida a título de interconexão ou do uso de recursos integrantes de suas redes da incidência da CIDE-FUST. Ao contrário, o dispositivo legal é geral e expresso no sentido de que deve haver incidência do tributo sobre a receita operacional bruta decorrente da exploração do serviço de telecomunicações. Como sabido, somente a lei poderia estabelecer hipóteses de exclusão, suspensão e extinção de créditos tributários (arts. 97, VI e 111 do Código Tributário Nacional - CTN)" (fl. 3.461);
+(c) "a interconexão é uma atividade indispensável à oferta de telecomunicações. Assim, nos termos do art. 60 da LGT, a interconexão é considerada como serviço de telecomunicações" (fl. 3.462);
+(d) "Não há que se falar em bitributação, uma vez que os sujeitos passivos da contribuição ao FUST são distintos, assim como as modalidades de serviço prestadas" (fl. 3.472);
+(e) "o v. acórdão não se atentou para a competência legal da ANATEL, acabando por adentrar indevidamente no mérito administrativo, devendo, pois, também por esse motivo ser reformado" (fl. 3.476);
+(f) a decisão causou desequilíbrio concorrencial.
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 3.482/3.509).
+O recurso foi admitido na origem (fls. 3.517/3.518).
+É o relatório.
+Nas razões do recurso especial, relativamente à violação ao art. 1.022 do Código de Processo Civil, a parte recorrente alegou o seguinte (fl. 3.453):
+Ora, os Embargos de Declaração opostos se reportaram a omissões relacionadas a pontos essenciais da presente lide.
+A lide também deixou de ser apreciada à luz de vários dispositivos legais, conforme apontado nos Aclaratórios, deixando o Eg. Tribunal a quo de se pronunciar sobre pontos que deveriam ter sido por ele enfrentados.
+Dessa forma, a não apreciação dos dispositivos legais apontados nos Embargos de Declaração da ANATEL caracteriza verdadeira afronta ao art. 1.022 do CPC/2015, razão pela qual deve o v. acórdão ser cassado ante a grave pecha de ilegalidade que o macula, sob pena de se vituperar, inclusive, os preceitos constitucionais que consagram o devido processo legal e garantem à parte o acesso a uma efetiva prestação jurisdicional.
+Com efeito, a recorrente tem direito à válida e completa entrega da prestação jurisdicional, por meio de uma decisão clara, precisa e que delimite a sua amplitude, para assegurar a ampla defesa e o contraditório da parte que se sentir prejudicada com a decisão, sob pena, além de consubstanciar-se um juízo incompleto, de incorrer-se na própria negativa da prestação jurisdicional.
+Constata-se que foram feitas alegações genéricas, que se deixou de indicar especificamente os pontos sobre os quais o julgador deveria ter se manifestado. O recurso especial é deficiente, o que inviabiliza a compreensão da controvérsia.
+Incide no ponto em questão, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+A parte recorrente alegou violação aos arts. 6º, § 5º, da Lei 12.016/2009 e 267, VI, do CPC/1973 uma vez que "o presente Mandado de Segurança consiste em via inadequada para veicular a pretensão autoral, na medida em que questiona o conteúdo de normas em tese, qual seja, a Súmula n. 07/2005 da ANATEL e as disposições do art. 6º, inc. IV e par. único da Lei n. 9.998/2000, requerendo, em última análise, a revisão judicial de seu conteúdo, o que se afigura inviável na esfera do mandamus" (fl. 3.456)".
+Os dispositivos em questão possuem a seguinte redação:
+Lei 12.016/2009
+Art. 6º A petição inicial, que deverá preencher os requisitos estabelecidos pela lei processual, será apresentada em 2 (duas) vias com os documentos que instruírem a primeira reproduzidos na segunda e indicará, além da autoridade coatora, a pessoa jurídica que esta integra, à qual se acha vinculada ou da qual exerce atribuições.
+ ..
+§ 5º Denega-se o mandado de segurança nos casos previstos pelo art. 267 da Lei 5.869, de 11 de janeiro de 1973 - Código de Processo Civil.
+CPC/1973
+Art. 267. Extingue-se o processo, sem resolução de mérito:
+ ..
+IV - quando se verificar a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo;
+Não é possível conhecer do recurso quanto ao ponto porque os dispositivos em questão não contêm comando normativo capaz de sustentar a argumentação do recorrente de que o mandado de segurança é a via inadequada para a pretensão autoral uma vez que contesta o conteúdo de normas em tese.
+No ponto em apreço incide, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Em seu recurso, a parte recorrente apontou como violados os arts. 10, da Lei 9.998/2000, 6º, 19, I, X, XI, XIV, XVI e XXV, 60, caput e §§ 1º e 2º, 80, § 1º, 126, 127, II, V, VI e VII, 128, IV e V, 136, § 3º, 146, 147, 152 e 153 da Lei 9.472/1997, 884 e 885 do Código Civil e 97, VI, e 111 do Código Tributário Nacional
+O acórdão recorrido, entretanto, não decidiu a causa por meio da aplicação daqueles dispositivos. Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial relativamente ao ponto nos termos da Súmula 282 do Supremo Tribunal Federal (STF), aplicada por analogia.
+A parte recorrente alegou violação ao art. 6º, IV, da Lei 9.998/2000.
+O dispositivo em questão possui a seguinte redação:
+Art. 6º Constituem receitas do Fundo:
+ ..
+IV - contribuição de 1% (um por cento) sobre a receita operacional bruta, decorrente de prestação de serviços de telecomunicações nos regimes público e privado, a que se refere o inciso XI do art. 21 da Constituição Federal, excluindo-se o Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), o Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (Cofins)
+Não é possível conhecer do recurso quanto ao ponto porque o dispositivo em questão não contém comando normativo capaz de fundamentar os argumentos da parte recorrente no sentido que as receitas recebidas de prestadoras de serviços de telecomunicações, referentes à remuneração de interconexão e ao uso de recursos de suas redes, não devem ser consideradas como "transferências".
+Quanto ao ponto, incide a Súmula 284 do Supremo Tribunal Federal, por analogia.
+Ante o exposto, não conheço do recurso especial.
+Publique- se. Intimem-se.
+EMENTA
