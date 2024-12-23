@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por KLEBER DA SILVA PEREIRA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"HABEAS CORPUS - TRANSFERÊNCIA DE COMARCA PARA CUMPRIMENTO DE PENA DE LIBERDADE - PRISÃO DOMICILIAR - INDEFERIMENTO DE SAÍDAS TEMPORÁRIAS - NÃO CONHECER - MATÉRIAS AFETAS À EXECUÇÃO PENAL - VIA IMPRÓPRIA - RETROATIVIDADE DA LEI PENAL MAIS GRAVOSA - INVIABILIDADE - CONSTRANGIMENTO ILEGAL - VERIFICAÇÃO - CONCESSÃO DE OFÍCIO - NECESSIDADE. Não se admite Habeas Corpus em substituição ao recurso ou ação adequada, ressalvados os casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício. Em atenção ao princípio da individualização da pena, verifica-se que a inovação legislativa prevista na Lei nº 14.843/24 é mais gravosa, sendo vedada a retroatividade da novatio legis in pejus. O indeferimento da autorização para as saídas temporárias não pode amparar-se, exclusivamente, na alteração legislativa promovida pela Lei Federal nº 14.843/24 sem que reste demonstrado, de modo concreto, a necessidade de indeferimento do referido benefício da Execução Penal." (e-STJ, fl. 79).
+Em suas razões, o recorrente afirma que foi progredido ao regime semiaberto e está cumprindo a pena na comarca de Alfenas/MG. Todavia, seu vínculo familiar se encontra na cidade de Poços de Caldas/MG, o que torna difícil sua reintegração social e compromete sua saúde física e mental. Assevera que houve negativa de vigência ao art. 5º, XLVI, da CR/1988, e ao art. 112 da LEP.
+Sustenta que é caso de concessão de prisão domiciliar, com base no direito à convivência familiar (art. 41, X, da LEP) e que o benefício atende ao princípio da proporcionalidade (art. 5º, LIV, da CR/1988).
+Aduz que, devido à baixa escolaridade, não consegue obter emprego e garantir sua subsistência, havendo, portanto, violação do art. 6º da CR/1988.
+Requer, inclusive liminarmente, a concessão da prisão domiciliar.
+A liminar foi indeferida.
+Prestadas as informações, os autos foram encaminhados ao Ministério Público Federal, que opinou pelo desprovimento do recurso ordinário.
+É o relatório.
+Decido.
+De plano, observo que a matéria trazida à discussão não foi debatida pelo Tribunal de origem.
+Dessa forma, encontra-se obstada a análise do recurso por afronta ao princípio do duplo grau de jurisdição e incabível supressão de instância.
+Nesse sentido, esta Corte Superior já decidiu que, "em face do obstáculo da supressão de instância, não é possível o exame, por esta Corte, de discussão não apreciada no Tribunal de origem" (HC n. 376.650/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 14/2/2017, DJe de 22/2/2017).
+A respeito, confiram-se:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, IV, DO CÓDIGO PENAL). PRISÃO PREVENTIVA. DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI. GRAVIDADE CONCRETA. ACUSADO QUE PERMANECEU FORAGIDO. ORDEM PÚBLICA. CÁLCULO DOSIMÉTRICO. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+ ..
+3. A tese referente ao excesso de dosimetria da pena não foi apreciada pelo colegiado estadual, assim, esta Corte não pode dela conhecer, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+4. Agravo regimental a que se nega provimento." (AgRg no HC n. 898.589/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. CRIMES DE LATROCÍNIO TENTADO E ASSOCIAÇÃO CRIMINOSA. TRANCAMENTO DA AÇÃO PENAL APENAS EM RELAÇÃO À ASSOCIAÇÃO CRIMINOSA. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE ACESSO AOS AUTOS FÍSICOS DO INQUÉRITO POLICIAL. NOMEAÇÃO DE ADVOGADO DATIVO SEM A PRÉVIA INTIMAÇÃO DO RÉU. MATÉRIAS NÃO EXAMINADAS PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. O prequestionamento das teses jurídicas constitui requisito de admissibilidade da via eleita, inclusive em se tratando de matérias de ordem pública, bem como em caso de suposta nulidade absoluta, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte Superior.
+5. Os pleitos de anulação do processo em razão da impossibilidade de acesso aos autos físicos do inquérito policial pela defesa e da nomeação direta de defensor dativo para patrocinar o paciente em audiência de instrução e julgamento não foram efetivamente debatidos pela Corte local e a defesa sequer opôs embargos de declaração para sanar eventual omissão do acórdão impugnado. Assim, esta Corte Superior fica impedida de se antecipar às matérias, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+6. Agravo regimental a que se nega provimento." (AgRg no HC n. 934.464/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024.)
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
