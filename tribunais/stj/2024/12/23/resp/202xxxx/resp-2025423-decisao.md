@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto pela parte MARCIA YUMI SA KAMOTO QUEIROZ contra acórdão assim ementado (e-STJ fl. 488):
+RESPONSABILIDADE CIVIL - DANO MORAL e ESTÉTICO  Pretensão fundada em responsabilidade civil médica e hospitalar - Paciente portadora de catarata no olho direito - Submissão a cirurgia de implante de lente intra-ocular - Infecção manifestada no pós-operatório - Dúvida sobre a causa primeira desse processo (se hospitalar ou não) - Dúvida que beneficia a consumidora - Prova pericial que aponta falha médica no pós-operatório danoso, a ponto de provocar a perda da visão e deformidade (por perda) no olho ("olho murcho") - Instalação de processo infeccioso com perda definitiva da visão - Não realização de tampão (dito desnecessário ou dispensável, dada a técnica utilizada) ou de fornecimento de óculos especiais (ditos indicados pela mesma técnica, mas não comprovadamente ofertados à paciente) - Infecção grave, impositiva de dores - Indicação, por outro profissional, em atendimento emergencial, de internação em outro nosocômio - Orientação pela médica cirurgiã de não internação, indicando tratamento medicamentoso, mal sucedido - Alegação de que a infecção é intra-ocular e endôgena - Ausência de comprovação - Falha na prestação de serviço, configurada - Danos materiais e estéticos comprovados - Indenização devida - Fixação destes em R$ 90.000, 00 - Sentença reformada para julgar procedente a ação.
+Apelação provida.
+Os embargos de declaração opostos pela parte MED CENTER UNIDADE CIRÚRGICA S/C LTDA foram rejeitados (e-STJ fls. 526/537).
+Em suas razões (e-STJ fls. 609/621), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 186, 407 e 944 do CC/2002, 14, § 4º, do CDC e da Súmula n. 362/STJ.
+Insurge-se contra a conclusão da Corte local de que "houve falha na prestação do serviço no pós-operatório, em que pese o esforço desenvolvido pela equipe médica para curar a paciente, após constatada a instalação do processo infeccioso, processo esse que evoluiu de modo a causar os severos danos descritos no laudo  ..  Evidenciado, portanto, nexo causal entre essas condutas e o dano suportado pela autora, evidente o dever de indenizar. " (e-STJ fl. 500).
+A parte afirma:
+(i) violação dos arts. 186 e 94 4 do CC, pois, "Se a perda da vida na decisão acima foi de R$ 70.000,00 (setenta mil reais), no presente caso, é de se observar que a indenização se dá em vista da perda da visão do olho direito, arbitrando indenização vultuosa concedida a título de danos morais, R$ 90.000,00 (noventa mil reais). É exagerado, exorbitante" (e-STJ fl. 617);
+(ii) inobservância do art. 14, § 4º, do CDC, porque "a obrigação do médico, enquanto profissional liberal, é de meio e não de resultado" (e-STJ fl. 618);
+(iii) "afronta à Súmula 362 do STJ" e ao art. 407 do CC, uma vez que "não seria possível exigir do Recorrente o adimplemento de obrigação fundada em mera estimativa/expectativa, por se tratar, de fato e de direito, de obrigação ainda inexistente e, portanto, inexigível, que somente veio a se convalidar agora com decisão do Acordão" (e-STJ fl. 619).
+Contrarrazões apresentadas às fls. 635/644 (e-STJ).
+A parte MED CENTER UNIDADE CIRÚRGICA S/C LTDA também interpôs recurso especial, o qual será apreciado em apartado.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A controvérsia tem origem em "AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS DECORRENTE DE INFECÇÃO HOSPITALAR" (e-STJ fl. 2), ajuizada contra a médica cirurgiã e a clínica onde foi realizada a cirurgia oftalmológica.
+(I) O valor estabelecido pela instância ordinária a título de danos morais pode ser revisto, sem encontrar óbice na Súmula n. 7/STJ, tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+O Tribunal de origem, com base nas circunstâncias fáticas da demanda, especialmente no fato de a paciente ter sofrido "perda da visão e deformidade  ..  ("olho murcho")" (e-STJ fl. 488), arbitrou a indenização em R$ 90.000,00 (noventa mil reais), quantia que não se mostra exorbitante a justificar a intervenção desta Corte.
+(II) O Tribunal de origem concluiu que "a falha na prestação de serviço tanto da médica quanto da clínica foi reconhecida porque a instalação do processo infecciosos no olho da paciente ou se deu durante a internação ou no pós-operatório, não havendo elemento algum a indicar que a perda da visão se deveu a infecção de caráter endógeno" (e-STJ fl. 534).
+Modificar o entendimento do acórdão impugnado quanto à falha na prestação do serviço médico, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+(III) No que diz respeito à alegada afronta aos arts. 407 do CC, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Por fim, não é cabível a interposição de recurso especial sob a alegação de violação de súmulas, por não se enquadrarem no conceito de lei federal.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em desfavor da ora recorrente, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
