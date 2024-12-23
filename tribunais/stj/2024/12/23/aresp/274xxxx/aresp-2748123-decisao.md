@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, no qual alega violação do art. 485 do Código de Processo Civil - CPC/2015 e do art. 40 da Lei n. 6.830/1980, sustentando a ilegalidade da extinção do processo executivo fiscal, por inexistência de abandono.
+Sem contrarrazões, o recurso não foi admitido porque seu conhecimento encontraria óbice na Súmula 7 do STJ, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários à admissão do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 79/85):
+Sabe-se que o art. 485, III, do CPC, estabelece que, por não promover os atos e as diligências que lhe incumbir, o autor abandonar a causa por mais de 30 (trinta) dias, o juiz ordenará o arquivamento dos autos, declarando a extinção do processo, desde que seja realizada a intimação pessoal da parte, no prazo de 5 (cinco) dias, para suprir a falta.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o art. 485, III, do CPC é aplicável ao processo de Execução Fiscal, diante do disposto no art. 1º da Lei nº 6830/80, que expressamente prevê a incidência subsidiária das normas do Código de Processo Civil, conforme REsp 1966183 SP.
+No caso em tela, restou caracterizado o abandono da causa, visto que, após a intimação da exequente, em (ID nº 20373915), para se manifestar sobre a devolução da carta de citação, sem êxito, quedou-se inerte por mais de 30 (trinta) dias (certidão de id 20373916), após, foi intimado novamente para dar impulso ao processo sob pena de extinção por abandono, conforme despacho de ID nº 20373918, devendo ser ressaltado que a última intimação foi realizada pessoalmente, nos termos do art. 5º, caput e §§ 3º e 6º, da Lei nº 11.419/2006 c/c art. 183, parágrafo 1º, do CPC.
+Ressalte-se que entre a primeira intimação da exequente, Id. 20373915, e a prolação da sentença, transcorreram mais de 2 (dois anos, a despeito da alegação de prazo exíguo para o cumprimento da determinação judicial.
+De mais a mais, atente-se para o fato de que o art. 40 da LEF prevê a possibilidade de suspender a execução enquanto não for localizado o devedor, situação que não se amolda aos presentes autos.
+Pois bem.
+Nos termos do art. 485, inc. III, § 1º, do Código de Processo Civil - CPC/2015, o magistrado pode extinguir a execução fiscal, na hipótese em que a parte exequente permanece inerte por mais de 30 dias, após a intimação para tomar as providencias necessárias à regular tramitação do processo executivo fiscal. A respeito, entre outros: REsp n. 1.352.882/MS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 12/6/2013, DJe de 28/6/2013; REsp n. 1.120.097/SP, relator Ministro Luiz Fux, Primeira Seção, julgado em 13/10/2010, DJe de 26/10/2010; AgInt no AREsp n. 2.474.386/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/4/2024, DJe de 2/5/2024.
+No caso dos autos, sem reexame fático-probatório, não há como se proceder à revisão do acórdão recorrido, pois o contexto descrito pelo órgão julgador a quo não é suficiente à eventual conclusão pela ilegalidade do ato de extinção do processo executivo.
+No contexto, portanto, o conhecimento do recurso encontra óbice na Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
