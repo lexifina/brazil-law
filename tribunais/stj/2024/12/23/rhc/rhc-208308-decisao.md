@@ -1,0 +1,25 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por VALTEMIR SILVESTRE DE ALMEIDA - condenado como incurso no crime de oferecer drogas para consumo compartilhado - contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Agravo Interno Criminal n. 0734337-65.2024.8.07.0000), comporta acolhimento.
+Busca o recurso a absolvição do recorrente na ação penal que tramitou perante o Juízo de Direito do 3º Juizado Especial Criminal de Brasília (Ação Penal n. 0733795-33.2023.8.07.0016), do delito de oferecimento de drogas para consumo compartilhado, ao argumento, em síntese, de que a flagrante ilegalidade se manifesta da simples leitura da ementa do acórdão da Turma Recursal, o qual, não só despreza a necessidade de laudo pericial e toxicológico para a condenação pelo delito previsto no § 3º do art. 33 da Lei n. 11.343/2006, como o entendimento pacificado desse Tribunal Superior em sentido contrário (fl. 206).
+Verifica-se que o recurso em habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Consoante o site do Tribunal local, consta que a condenação transitou em julgado em 27/8/2024.
+No entanto, evidenciada a existência de ilegal constrangimento, tal entendimento pode ser excepcionado para sanar a coação verificada.
+Com efeito, a Terceira Seção desta Corte Superior de Justiça, no julgamento do HC n. 686.312/MS, consolidou o entendimento de que a apreensão de drogas é imprescindível para a comprovação da materialidade do crime previsto no art. 33 da Lei n. 11.343/2006, não sendo admissível que a materialidade seja demonstrada por outros meios de prova.
+A propósito, confira-se:
+ ..
+Pelo que decidido nos autos dos EREsp n. n. 1.544.057/RJ, é possível inferir que, em um ou outro caso, ou seja, com laudo toxicológico definitivo ou, de forma excepcionalíssima, com laudo de constatação provisório, é necessário que sejam apreendidas drogas.
+Em outros termos, para a condenação de alguém pela prática do crime de tráfico de drogas, é necessária a apreensão de drogas e a consequente elaboração ao menos de laudo preliminar, sob pena de se impor a absolvição do réu, por ausência de provas acerca da materialidade do delito.
+Pelo raciocínio desenvolvido no julgamento dos referidos EREsp n. 1.544.057/RJ, também é possível depreender que, nem mesmo em situação excepcional, a prova testemunhal ou a confissão do acusado, por exemplo, poderiam ser reputadas como elementos probatórios aptos a suprir a ausência do laudo toxicológico, seja ele definitivo, seja ele provisório assinado por perito e com o mesmo grau de certeza presente em um laudo definitivo.
+ ..
+Na hipótese dos autos, embora os depoimentos testemunhais e as provas oriundas das interceptações telefônicas judicialmente autorizadas tenham evidenciado que a paciente e os demais corréus supostamente adquiriam, vendiam e ofereciam "drogas" a terceiros - tais como maconha, cocaína e crack -, não há como subsistir a condenação pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006, se, em nenhum momento, houve a apreensão de qualquer substância entorpecente, seja em poder dela, seja em poder dos corréus ou de terceiros não identificados.
+Apesar das diversas diligências empreendidas pela acusação, que envolveram o monitoramento dos acusados, a realização de interceptações telefônicas, a oitiva de testemunhas (depoimentos de policiais) etc., não houve a apreensão de droga, pressuposto da materialidade delitiva. Assim, mesmo sendo possível extrair dos autos diversas tratativas de comercialização de entorpecentes pelos acusados, essas provas podem caracterizar o crime de associação para o tráfico de drogas, mas não o delito de tráfico em si.
+ ..
+(HC n. 686.312/MS, relator Ministro Sebastião Reis Júnior, relator para acórdão Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 19/4/2023 - grifo nosso).
+Entendo que o mesmo entendimento deve ser aplicado à conduta do art. 33, § 3º, da Lei n. 11.343/2006, espécie do crime de tráfico.
+Ora, no caso em análise, não foram apreendidas as drogas e a materialidade do delito foi demonstrada apenas com base nas declarações dos policiais que abordaram o réu e na confissão do próprio acusado que admitiu o uso da droga.
+Ocorre que não houve apreensão de qualquer substância entorpecente, seja em posse do recorrente, ou da sua colega Maria, o que inviabiliza o reconhecimento da materialidade do delito.
+Em face do exposto, dou provimento ao recurso interposto para absolver o recorrente do crime de oferecimento de drogas para consumo compartilhado na Ação Penal n. 0733795-33.2023.8.07.0016, que tramitou perante o Juízo de Direito do 3º Juizado Especial Criminal de Brasília.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. CRIME DE OFERECIMENTO DE DROGAS PARA CONSUMO COMPARTILHADO. FALTA DE APREENSÃO DE ENTORPECENTES. AUSÊNCIA DE PROVA DA MATERIALIDADE DELITIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido.
