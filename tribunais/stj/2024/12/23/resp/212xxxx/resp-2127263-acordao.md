@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECONHECIMENTO DA FORMA PRIVILEGIADA NA SENTENÇA CONDENATÓRIA. POSSIBILIDADE DE APLICAÇÃO RETROATIVA DA NORMA PREVISTA NO ART. 28-A DO CPP. FUNDAMENTAÇÃO INIDÔNEA DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que negou a possibilidade de oferta de Acordo de Não Persecução Penal (ANPP) à recorrente, condenada por tráfico privilegiado a pena de 2 anos e 6 meses de reclusão, em razão do recebimento da denúncia antes da vigência da Lei n. 13.964/2019.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o Acordo de Não Persecução Penal pode ser aplicado retroativamente a processos em curso até o trânsito em julgado, mesmo que a denúncia tenha sido recebida antes da vigência da Lei n. 13.964/2019.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Supremo Tribunal Federal entende que o ANPP pode ser aplicado retroativamente até o trânsito em julgado de eventual sentença penal condenatória, devido à sua natureza de direito material.
+4. No julgamento do Tema Repetitivo 1098, a Terceira Seção definiu que é cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigor da Lei n. 13.964/2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado da condenação.
+5. Ainda, a retroatividade do ANPP é possível desde que o pedido seja formulado na primeira oportunidade de manifestação nos autos após a vigência do art. 28-A do CPP.
+IV. RECURSO ESPECIAL PROVIDO PARA DETERMINAR O ENVIO DOS AUTOS AO MINISTÉRIO PÚBLICO FEDERAL PARA ANÁLISE DA POSSIBILIDADE DE CELEBRAÇÃO DO ANPP COM A RECORRENTE.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (fls. 328-329):
+Cuida-se de Recurso Especial interposto por ANA PAULA APARECIDA DE FREITAS, com fundamento no art. 105, III, a e c, da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná negando provimento ao apelo da Defesa para manter a condenação pela prática do crime previsto no artigo 33, § 4º, da Lei nº 11.343/2006, à pena de 02 anos e 06 meses de reclusão, em regime inicial aberto, esta substituída por duas penas restritivas de direitos, mais o pagamento de 250 dias-multa.
+Em suas razões, a recorrente aponta violação ao artigo 28-A e seguintes, do CPP, por não ter o Tribunal aplicado retroativamente o instituto do acordo de não persecução penal. Sustenta ter sido denunciada pelo delito de tráfico de drogas (artigo 33, caput, da Lei nº 11.343/2006), sendo reconhecida, todavia, na sentença, a figura privilegiada (art. 33, § 4º da Lei nº 11.343/2006), alterando, com isso, o quadro fático com o preenchimento dos requisitos legais para a propositura do acordo.
+Pede o conhecimento e provimento do recurso, determinando-se a remessa dos autos ao Ministério Público para propositura de acordo de não persecução penal. (fls. 273/286).
+Com as contrarrazões, o recurso foi admitido. (fls. 313/316)
+O recurso é próprio, tempestivo, restando atendidos os pressupostos genéricos de admissibilidade.
+A defesa busca, em suma, a celebração do acordo de não persecução penal, haja vista o preenchimento dos requisitos legais previstos no art. 28-A do CPP.
+O parecer do MPF é pelo não conhecimento ou, se conhecido, pelo desprovimento do recurso especial (fls. 328-334)
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECONHECIMENTO DA FORMA PRIVILEGIADA NA SENTENÇA CONDENATÓRIA. POSSIBILIDADE DE APLICAÇÃO RETROATIVA DA NORMA PREVISTA NO ART. 28-A DO CPP. FUNDAMENTAÇÃO INIDÔNEA DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que negou a possibilidade de oferta de Acordo de Não Persecução Penal (ANPP) à recorrente, condenada por tráfico privilegiado a pena de 2 anos e 6 meses de reclusão, em razão do recebimento da denúncia antes da vigência da Lei n. 13.964/2019.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o Acordo de Não Persecução Penal pode ser aplicado retroativamente a processos em curso até o trânsito em julgado, mesmo que a denúncia tenha sido recebida antes da vigência da Lei n. 13.964/2019.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Supremo Tribunal Federal entende que o ANPP pode ser aplicado retroativamente até o trânsito em julgado de eventual sentença penal condenatória, devido à sua natureza de direito material.
+4. No julgamento do Tema Repetitivo 1098, a Terceira Seção definiu que é cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigor da Lei n. 13.964/2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado da condenação.
+5. Ainda, a retroatividade do ANPP é possível desde que o pedido seja formulado na primeira oportunidade de manifestação nos autos após a vigência do art. 28-A do CPP.
+IV. RECURSO ESPECIAL PROVIDO PARA DETERMINAR O ENVIO DOS AUTOS AO MINISTÉRIO PÚBLICO FEDERAL PARA ANÁLISE DA POSSIBILIDADE DE CELEBRAÇÃO DO ANPP COM A RECORRENTE.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso. No mérito, a irresignação prospera, devendo a pretensão defensiva ser acolhida, com envio dos autos ao Ministério Público Federal a fim de que seja analisada a possibilidade de celebração do acordo de não persecução penal, senão vejamos.
+Para melhor delimitação da controvérsia, colaciono os fundamentos invocados pela Corte de origem para não acolher a pretensão de oferta do ANPP (fls. 256-262-grifei):
+Quanto à insurgência recursal, reitera-se que a irresignação defensiva se cinge sobre a possibilidade de ser oferecida à apelante proposta de Acordo de Não Persecução Penal.
+Pois bem.
+O Acordo de Não Persecução Penal (ANPP) consiste em negócio jurídico pré-processual entre o Ministério Público e o averiguado e sua defesa técnica, com o fim de evitar a judicialização criminal.
+Há espaço para debate nas tratativas das cláusulas a serem cumpridas pelo acusado; por ajuste voluntário entre os envolvidos, o pacto culmina na assunção de obrigações pelas partes. Tal instrumento, que já foi objeto de resolução editada pelo Conselho Nacional do Ministério Público, ganhou contornos de Lei Federal, instituindo-se, pois, propriamente no processo penal brasileiro.
+Trata-se, com efeito, de uma inovação inserida na Lei Adjetiva Penal pela Lei n. 13.964/2019 (Pacote Anticrime), estando sua regulação presente no artigo 28-A:
+(..)
+Conforme assinala o Eminente Ministro Rogerio Schietti Cruz, em precedente pelo Superior Tribunal de Justiça, o instituto em tela "se revela como uma maneira consensual de alcançar resposta penal mais célere ao comportamento criminoso, por meio da mitigação da obrigatoriedade da ação penal, com inexorável redução das demandas judiciais criminais".
+Ressalva-se no julgado que o instrumento não foi concebido com o propósito específico de beneficiar o réu, "mas para beneficiar a justiça criminal em sua integralidade, compreendidos, é certo, também os interesses dos investigados".
+Desse modo, pontua-se que "o novel instituto traz benefícios tanto ao investigado quanto ao Estado, visto que ambos renunciam a direitos ou pretensões em troca de alguma vantagem: o Estado renuncia a obter uma condenação penal, em troca de antecipação e certeza da resposta punitiva; o réu renuncia a provar sua inocência, mediante o devido processo legal (com possibilidade de ampla defesa, contraditório e direitos outros, como o direito ao duplo grau de jurisdição), em troca de evitar o processo, suas cerimônias degradantes e a eventual sujeição a uma pena privativa de liberdade" (HC n. 657.165/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/8/2022, D Je de 18/8/2022).
+Introduzida a matéria ventilada no apelo, consigne-se, de início, que conquanto o Acordo de Não Persecução Penal seja admissível somente a infrações penais cometidas sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o crime de tráfico de drogas possui modalidade privilegiada, cujo espectro penal possibilita a incidência do instrumento despenalizador, em atenção à redação do artigo 28, § 1º, do Código de Processo Penal.
+No entanto, Guilherme de Souza Nucci ressalva:
+(..)
+De fato, o Superior Tribunal de Justiça já assentou que, " consoante o disposto no § 1º do art. 28-A do Código de Processo Penal, para a aplicação do Acordo de Não Persecução Penal, na aferição da pena mínima cominada ao crime serão consideradas as causas de aumento e diminuição, as quais, de acordo com o entendimento pacificado nesta Corte Superior, devem estar descritas na denúncia, não sendo possível considerar a pena mínima apurada após a aplicação da causa de diminuição, reconhecida somente por ocasião da prolação da sentença condenatória. (AgRg no AREsp n. 2.059.445/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, D Je de 22/8/2022)" (AgRg no HC n. 788.988/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe de 15/5/2023).
+Portanto, por se tratar o narcotráfico de crime censurável com pena mínima de 05 (cinco) anos de reclusão (superior a requisito do artigo 28-A, caput, da Lei Processual Penal), por si só se revela incabível a propositura do Acordo de Não Persecução Penal.
+(..)
+Em acréscimo, sublinhe-se que referido consenso entre acusação e defesa deve ocorrer, à luz do entendimento jurisprudencial das Cortes Superiores, antes do recebimento da denúncia:
+(..)
+Sendo assim, é certo dizer que, embora se reconheça a existência de efeitos retroativos ao Acordo de Não Persecução Penal, de modo a possibilitar sua aplicação a fatos anteriores à Lei n. 13.964/2019 (Pacote Anticrime), tal instituto se esgota na etapa pré-processual da persecução penal, sobretudo porque a consequência de sua recusa, sua não homologação ou seu descumprimento, é o oferecimento da denúncia ou a inauguração da ação penal por meio do recebimento da inicial acusatória.
+E, no presente caso, extrai-se das movimentações processuais constantes nestes autos que a denúncia, oferecida em 05.04.2017, foi recebida pelo magistrado singular em 05 de abril de 2017, por meio da decisão interlocutória simples anexada ao mov. 42.1, a inviabilizar qualquer consideração favorável ao pedido defensivo.
+Diante do exposto, não obstante a elogiável fundamentação do recurso, mantém-se incólume a sentença condenatória.
+Como se vê, o Tribunal de origem invoca fundamentos no sentido de que a retroatividade do norma processual criada no art. 28-A do CPP se limita ao momento do recebimento da denúncia, ocorrida no presente caso em 5/4/2017, antes da vigência da Lei n. 13.964/2019.
+Ocorre que a Segunda Turma do Supremo Tribunal Federal, interpretando o referido dispositivo, vêm entendendo pela sua retroatividade para sentenças sem o trânsito em julgado, mormente diante da sua natureza de direito material, haja vista que o cumprimento das condições eventualmente pactuadas, implica a extinção da punibilidade do agente, que não terá qualquer antecedente em sua ficha criminal.
+Nesse sentido:
+Agravo regimental no habeas corpus. 2. Direito Constitucional, Penal e Processual Penal. 3. Acordo de Não Persecução Penal - ANPP. 4. Art. 28-A do Código de Processo Penal, redação dada pela Lei 13.964/2019. 5. No caso concreto, o pedido de aplicação do Acordo de Não Persecução Penal  ANPP  pela defesa se deu na primeira oportunidade de manifestar-se nos autos após a entrada em vigor do citado art. 28-A do CPP. 6. Agravo regimental não provido.
+(HC 217749 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 21-02-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 27-02-2024 PUBLIC 28-02-2024)
+Agravo regimental no habeas corpus. 2. A Segunda Turma tem entendimento no sentido de que o ANPP é possível a processos ainda em curso até o trânsito em julgado, isto é, com sentença que ainda não transitou em julgado, desde que o acusado tenha formulado o pedido de análise do ANPP na primeira oportunidade de intervenção nos autos após a data de vigência do art. 28-A do CPC, sob pena de estabilização da controvérsia por meio dos efeitos preclusivos do comportamento omisso, em observância da boa-fé objetiva e do princípio da cooperação processual. 3. Pedido deferido na origem para que o Ministério Público aprecie a possibilidade de oferta do ANPP. 4. Agravo não provido.
+(HC 242078 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 28-10-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 08-11-2024 PUBLIC 11-11-2024)
+Além disso, no julgamento do Tema Repetitivo 1098, a Terceira Seção definiu que é cabível a celebração de Acordo de Não Persecução Penal em casos de processos em an damento quando da entrada em vigor da Lei n. 13.964/2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado da condenação.
+Ante o exposto, dou provimento ao recurso especial, para determinar o envio dos autos ao Ministério Público Federal com vistas à análise dos pressupostos para celebração com a recorrente do instituto previsto no art. 28-A do CPP.
+É o voto.
