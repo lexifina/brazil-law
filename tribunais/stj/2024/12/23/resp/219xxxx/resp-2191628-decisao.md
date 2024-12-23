@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DE LOURDES ALVES LANDFELD da decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu o recurso especial dirigido contra acórdão assim ementado (fl. 1514):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE RURAL. REGIME DE ECONOMIA FAMILIAR. PROVA.
+1. No período anterior à Emenda Constitucional nº 103/2019, de 13/11/2019, e respeitadas as alterações trazidas pela Emenda Constitucional nº 20/1998, a aposentadoria por tempo de contribuição é devida à/ao segurada/segurado que tenha laborado por 25/30 anos (proporcional) ou 30/35 anos (integral), desde que cumprida a carência de 180 contribuições (artigos 25, II, 52, 53 da Lei 8.213/91 e 201, § 7º, I, da Constituição Federal), observada regra de transição prevista no artigo 142 da Lei de Benefícios, para os  liados à Previdência Social até 24/07/1991. Após 13/11/2019, devem ser observados os arts. 15 a 18 das regras de transição da Emenda Constitucional nº 103/2019.
+2. Nos termos do art. 55, §2º, da Lei 8.213/1991, "O tempo de serviço do segurado trabalhador rural, anterior à data de início de vigência desta Lei, será computado independentemente do recolhimento das contribuições a ele correspondentes, exceto para efeito de carência, conforme dispuser o Regulamento". A partir de 31/10/1991, nos termos do art. 39, II, da Lei 8.213/91, pretendendo o segurado especial computar tempo de serviço rural para obtenção de aposentadoria por tempo de contribuição deverá comprovar o recolhimento de contribuições facultativas, na forma do art. 25, §1º, da Lei 8.212/91.
+3. É devido o reconhecimento do tempo de serviço rural, em regime de economia familiar, quando comprovado mediante início de prova material corroborado por prova testemunhal.
+4. O reconhecimento de atividade laboral antes dos 12 anos foi objeto da Ação Civil Pública nº 5017267-34.2013.4.04.7100/RS, tendo sido autorizado o cômputo de período de trabalho rural realizado antes dos 12 anos de idade, para fins de reconhecimento de tempo de serviço e de contribuição pelo exercício das atividades descritas no art. 11 da Lei 8.213/91, sem a fixação de requisito etário. Com efeito, admite-se, excepcionalmente, o reconhecimento de atividade rural anterior aos 12 anos de idade, desde que caracterizado o efetivo exercício de labor rural. Não comprovado que o labor da parte autora era indispensável à própria subsistência e a do grupo familiar, incabível seu reconhecimento.
+5. Comprovados os requisitos, é devida a concessão da aposentadoria por tempo de contribuição em favor da parte autora.
+Os subsequentes embargos de declaração foram rejeitados.
+Nas razões do recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, a parte ora agravante alega divergência jurisprudencial e violação do art. 11, inciso VII, da Lei n. 8.213/1991, requerendo o reconhecimento de tempo de serviço rural alegadamente exercido em regime de economia familiar.
+Sem contrarrazões, e inadmitido o apelo nobre na origem (fls. 1770-1772), adveio o presente agravo em recurso especial (fls. 1780-1789). Não foi apresenta contraminuta.
+É o relatório.
+Decido.
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Ante o exposto, DOU PROVIMENTO ao agravo, convertendo-o em recurso especial, sem prejuízo da aferição dos respectivos requisitos de admissibilidade a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA. AGRAVO CONHECIDO E PROVIDO .
