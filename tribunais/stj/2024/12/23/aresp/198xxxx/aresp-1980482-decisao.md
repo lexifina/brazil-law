@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por SAINT-GOBAIN CANALIZAÇÃO LTDA. contra decisão que não admitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás, que, em ação de recuperação judicial, manteve decisão de primeiro grau que havia reconhecido a intempestividade das objeções ao plano de recuperação judicial das empresas agravadas , nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CIENTIFICAÇÃO DOS CREDORES. PUBLICAÇÃO DE EDITAL. PRAZO PARA OBJEÇÃO AO PLANO DE RECUPERAÇÃO JUDICIAL. DESNECESSIDADE DE INTIMAÇÃO DOS ADVOGADOS.
+I. Conforme o entendimento jurisprudencial e doutrinário, a Lei 11.101/05 prevê que a cientificação dos credores, durante a fase da recuperação judicial relativa à objeção quanto ao Plano após a disponibilização da denominada segunda lista de credores, deverá ocorrer por meio da publicação de editais, não sendo a hipótese de aplicação subsidiária do artigo 272, §2º, do CPC, máxime porquanto os credores não são cadastrados nos autos da Recuperação Judicial como partes.
+II. Mostra-se bastante a publicação do edital contendo a relação de credores e o aviso sobre o Plano de Recuperação Judicial, sendo despicienda a intimação simultânea dos advogados dos credores.
+AGRAVO DE INSTRUMENTO CONHECIDO E IMPROVIDO.
+Alega a agravante, em síntese, que o acórdão recorrido violou o disposto no art. 272, §2º, do Código de Processo Civil.
+Sustenta que o edital que deu início ao prazo para apresentação de objeções ao plano de recuperação judicial foi publicado sem a identificação dos advogados das partes, conforme exigido pelo referido dispositivo legal. Defende que tal irregularidade comprometeu a ciência formal das partes e resultou em prejuízo processual, já que não foram devidamente intimadas.
+Argumenta, também, que a ampla publicidade e a transparência não foram observadas no caso, considerando que a publicação do edital foi realizada fora do prazo legal, sem controle judicial ou notificação adequada das partes interessadas.
+Além disso, defende que "o prazo para apresentação de Objeção ao Plano de Recuperação é preclusivo e só pode ser praticado por advogado, regularmente constituído nos autos, em manifestação dirigida ao magistrado" (fl. 264).
+Contrarrazões apresentadas.
+Assim posta a questão, passo a decidir.
+Na hipótese dos autos, o Tribunal de origem asseverou que "a cientificação dos credores, durante a fase da recuperação judicial relativa à objeção quanto ao Plano após a disponibilização da denominada segunda lista de credores, deverá ocorrer por meio da publicação de editais, não sendo a hipótese de aplicação subsidiária do artigo 272, §2º, do CPC, máxime porquanto os credores não são cadastrados nos autos da Recuperação Judicial como partes" (fl. 240).
+Ao assim decidir, o TJGO adotou entendimento em consonância com a jurisprudência desta Corte, segundo a qual, no processo de recuperação judicial, os credores não exercem a qualidade de parte, o que evita o tumulto que se instalaria, por exemplo, na intimação do advogado de milhares de interessados, tornando impraticável que a recuperação atingisse o seu objetivo. Diante disso, a obrigatoriedade de publicação se restringe ao edital, sem que implique a intimação nominal dos procuradores.
+Os seguintes precedentes atestam esse entendimento:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO JUDICIAL. PUBLICAÇÃO (LEI 11.101/2005, ART. 191). VEICULAÇÃO PREFERENCIAL PELO DIÁRIO DA JUSTIÇA. RECURSO ESPECIAL DESPROVIDO.
+1. O art. 191 da Lei 11.101/2005, na redação anterior ao advento da Lei 14.112/2020, determinava fossem as publicações de interesse da recuperação judicial ou da falência realizadas precipuamente pela imprensa oficial, termo correspondente, em tal contexto, ao Diário da Justiça, aquele veículo da imprensa oficial que os advogados obrigatoriamente acompanham.
+2. Ao admitir a publicação concomitante em outros meios oficiais e, ainda, em jornais e revistas de circulação regional ou nacional, agregando mais certeza quanto à plena divulgação dos atos, a Lei não torna dispensável a via principal do diário oficial que concentra a publicidade dos atos do Poder Judiciário, o Diário da Justiça.
+3. Recurso especial desprovido.
+(Quarta Turma, REsp 1.641.651/MT, relator p/ ac. Ministro Raul Araújo, maioria, DJe de 12.8.2021)
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. RELAÇÃO DE CRÉDITOS. EDITAL.
+ART. 7º, § 2º, E 191 DA LEI 11.101/05. PUBLICAÇÃO NA IMPRENSA OFICIAL. OBRIGATORIEDADE. INEXISTÊNCIA DE PREJUÍZO. NULIDADE DO ATO NÃO RECONHECIDA.
+1. Ação ajuizada em 11/5/2012. Recurso especial interposto em 1/1/2014 e concluso ao Gabinete em 25/8/2016.
+2. O propósito recursal é definir se, de acordo com a regra do art. 191 da Lei 11.101/05, é imprescindível a publicação na imprensa oficial do edital previsto no art. 7º, § 2º, da mesma Lei.
+3. A leitura do caput do art. 191 da Lei de Falência e Recuperação de Empresas revela que as publicações devem ser levadas a cabo sempre na imprensa oficial, sendo apenas exigível que se proceda à publicação em jornal ou revista de circulação regional ou nacional se as possibilidades financeiras do devedor ou da massa falida assim comportarem. Doutrina.
+4. A jurisprudência do STJ exige, como pressuposto para declaração de nulidade, a demonstração de prejuízo concreto a quem a alega, como corolário dos princípios da instrumentalidade das formas e da celeridade processual, circunstância não verificada no particular.
+RECURSO ESPECIAL NÃO PROVIDO.
+(REsp n. 1.758.777/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/9/2018, DJe de 13/9/2018.)
+RECURSO ESPECIAL. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/1973. RECUPERAÇÃO JUDICIAL. IMPROCEDÊNCIA DA ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. EDITAL DE INTIMAÇÃO. IRREGULARIDADE FORMAL. INEXISTÊNCIA. INTIMAÇÃO DE ADVOGADO. DESNECESSIDADE. CREDOR FIDUCIÁRIO. RENÚNCIA. PLANO DE RECUPERAÇÃO. RECONHECIMENTO DA VIABILIDADE ECONÔMICA.
+1. Não procede a arguição de ofensa aos arts. 131 e 535, II, do CPC quando o Tribunal a quo se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. Somente se pronuncia a nulidade do ato com a demonstração de efetivo prejuízo, o que não ocorre quando descumprido o prazo exigido para a realização de primeira convocação nem sequer instalada.
+3. As deliberações a serem tomadas pela assembleia de credores restringem-se a decisões nas esferas negocial e patrimonial, envolvendo, pois, os destinos da empresa em recuperação. Inexiste ato judicial específico que exija a participação do advogado de qualquer dos credores, razão pela qual é desnecessário constar do edital intimação dirigida aos advogados constituídos.
+4. É possível ao credor fiduciário renunciar aos efeitos privilegiados que seu crédito lhe garante por força de legislação específica. Essa renúncia somente diz respeito ao próprio credor renunciante, pois o ato prejudica a garantia a que tem direito, sendo desnecessária a prévia anuência de todos os outros credores quirografários.
+5. As decisões da assembleia de credores representam o veredito final a respeito dos destinos do plano de recuperação. Ao Judiciário é possível, sem adentrar a análise da viabilidade econômica, promover o controle de legalidade dos atos do plano sem que isso signifique restringir a soberania da assembleia geral de credores.
+6. Não constatada nenhuma ilegalidade evidente, meras alegações voltadas à alteração do entendimento do Tribunal de origem quanto à viabilidade econômica do plano de recuperação da empresa não são suficientes para reformar a homologação deferida.
+7. Recurso especial conhecido e desprovido.
+(REsp n. 1.513.260/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 5/5/2016, DJe de 10/5/2016.)
+Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
