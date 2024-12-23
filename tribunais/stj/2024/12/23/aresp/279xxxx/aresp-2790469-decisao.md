@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por CILON CAMILO DE OLIVEIRA contra decisão que não admitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina que negou provimento ao seu recurso de apelação, mantendo a sentença de improcedência da ação de cobrança de indenização securitária, nos termos da seguinte ementa:
+AGRAVO INTERNO EM APELAÇÃO. JULGAMENTO MONOCRÁTICO QUE JULGOU IMPROCEDENTE O RECURSO, DE MODO A NEGAR A COBRANÇA POR INDENIZAÇÃO SECURITÁRIA DE SEGURO DE VIDA EM GRUPO. RECURSO DO AUTOR.
+ALEGADO DESACERTO DA DECISÃO. ARGUMENTAÇÃO DE QUE O LAUDO PERICIAL CONFIRMA A SUA INVALIDEZ FUNCIONAL TOTAL PERMANENTE TOTAL POR DOENÇA (IFPD). SEM RAZÃO. ESTUDO QUE, CONQUANTO DEMONSTRE A GRAVIDADE DA CONDIÇÃO DE SAÚDE QUE AFETA O SEGURADO, NÃO COMPROVA A PERDA DA SUA EXISTÊNCIA INDEPENDENTE. DECISÃO ADEQUADA À SITUAÇÃO FÁTICA DOS AUTOS E FUNDAMENTADA EM JURISPRUDÊNCIA PACÍFICA DESTE TRIBUNAL DE JUSTIÇA E ÓRGÃO FRACIONÁRIO. EXEGESE DOS ARTS. 932 DO CPC E 132, XVI, DO RITJSC.
+DECISÃO MONOCRÁTICA MANTIDA. RECURSO DESPROVIDO.
+Alega o agravante, em síntese, que o acórdão recorrido violou o art. 489, II e IV, § 1º, do Código de Processo Civil, ao deixar de se manifestar sobre os fundamentos expostos no recurso de apelação e no agravo interno. Sustenta que o quadro clínico apresentado no laudo pericial judicial corresponde à hipótese de "alienação mental total e permanente, com perda das funções cognitivas superiores (cognição)", conforme previsto na Cláusula 3ª, item IV, das Cláusulas Complementares da Cobertura de Invalidez Funcional Permanente e Total por Doença.
+Aduz que o laudo pericial atesta a gravidade do quadro psiquiátrico, demonstrando prejuízo irreversível nas funções cognitivas superiores, tais como capacidade de memória, concentração, planejamento e decisões, configurando, assim, o risco expressamente coberto pela referida cláusula contratual.
+Sustenta, ainda, que o acórdão é omisso por não analisar especificamente o enquadramento da situação concreta na cláusula contratual mencionada, violando o dever de fundamentação imposto pelo art. 489, § 1º, IV, do CPC.
+Contrarrazões apresentadas (fls. 867/888).
+Assim delimitada a controvérsia, passo a decidir.
+Da análise dos autos, verifico que não merece prosperar o recurso quanto à alegada negativa de prestação jurisdicional, uma vez que as questões relevantes para o deslinde da controvérsia foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre a matéria, ainda que em sentido contrário à pretensão da parte agravante.
+Com efeito, o acórdão recorrido expressamente concluiu, com base no conjunto fático-probatório, que a situação do agravante não configura Invalidez Funcional Total Permanente por Doença (IFPD), conforme critérios definidos na apólice contratada.
+Transcrevo, abaixo, trechos do acórdão recorrido, para melhor compreensão da controvérsia (fl. 802):
+"Isso porque não se nega a gravidade da condição de saúde que afeta o recorrente. Contudo, do que se extrai do laudo pericial, é possível observar que não houve perda da sua existência independente para o fim de configurar Invalidez Funcional Total Permanente Total por Doença (IFPD), ou seja, não é cabível a condenação pela indenização securitária.
+Por oportuno, transcrevo da decisão recorrida (evento 7, DESPADEC1):
+"Ocorre que o laudo pericial, embora ateste a gravidade da situação de saúde do autor, relata que não há falar em perda da vida independente do segurado (evento 85, LAUDO1, p. 6, origem):
+17. Tendo em vista as patologias diagnosticadas, questiona-se se o periciado possui invalidez FUNCIONAL, isto é, eventual incapacidade restringe suas atividades de rotina diária (vestir-se, alimenta-se e manter a higiene pessoal), bem como o torna dependente de terceiros
+R: Não. A incapacidade não atinge a execução de atividades de higiene e alimentação, embora se encontrem prejudicadas.
+18. É possível alegar que as doenças que acometem o periciado acarretem o total e definitivo impedimento da sua capacidade de transferência corporal
+R: Não.
+Ou seja, ao tempo em que o autor estava resguardado pelo contrato de seguro de vida em grupo, não houve Invalidez Funcional Total Permanente Total por Doença (IFPD) que respalde a cobrança pela indenização securitária. ""
+Opostos embargos de declaração, o TJPR reiterou que o quadro clínico atestado pelo laudo pericial não configura o risco expressamente coberto pela apólice securitária, razão pela qual não foi reconhecido o direito à indenização. Veja-se, nesse sentido (fl. 827):
+"Ou seja, o acórdão impugnado demonstrou, de maneira fundamentada, que a situação que acomete o embargante não se enquadra no conceito de Invalidez Funcional Total Por Doença (IFPD), elaborado pela Circular n. 302/2005 da Superintendência de Seguros Privados do Ministério da Fazenda.
+Assim, não deve receber a indenização constante no risco coberto por toda a Cláusula 3ª (evento 122, OUT2, origem), que trata de incapacidade que, conforme consta do laudo pericial, não possui."
+Ademais, cumpre ressaltar que a alteração das premissas estabelecidas no acórdão recorrido, relativas ao enquadramento do quadro clínico do agravante na cláusula contratual securitária, demandaria o reexame de matéria fático-probatória, bem como a análise das disposições contratuais. Tal procedimento, contudo, é vedado em sede de recurso especial, em razão dos óbices previstos nas Súmulas 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
