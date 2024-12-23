@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Ementa: PROCESSO PENAL. HABEAS CORPUS. SUSPEIÇÃO DE MAGISTRADO E DE PROCURADORES DA REPÚBLICA. TESES NÃO APRECIADAS EM INCIDENTE PRÓPRIO. SUPRESSÃO DE INSTÂNCIA. TESES POSTAS PERANTE O SUPREMO TRIBUNAL FEDERAL EM PEDIDO DE EXTENSÃO. SEGURANÇA JURÍDICA. EXTENSÃO DE ORDEM. INCOMPETÊNCIA DESTA CORTE. "HABEAS CORPUS". NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus interposto contra acórdão da 4ª Seção do Tribunal Regional Federal da 4ª Região, que julgou improcedente a revisão criminsal. O impetrante sustenta a suspeição do Juiz, apontando conluio com membros do Ministério Público Federal na condução da "Operação Lava Jato". Pleiteia a nulidade de atos processuais praticados.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) verificar se é possível o reconhecimento da suspeição sem o cumprimento do procedimento previsto no Código de Processo Penal;
+(ii) analisar a viabilidade de conhecimento da matéria em sede de "Habeas Corpus" substitutivo de recurso voltado contra acórdão que negou revisão criminal.
+III. RAZÕES DE DECIDIR
+3. O reconhecimento da suspeição de magistrado exige a instauração de procedimento próprio, nos termos dos arts. 100 e 101 do CPP, assegurando o contraditório e a ampla defesa ao magistrado acusado. A análise direta pelo habeas corpus, sem manifestação prévia do juiz suspeito, caracteriza indevida supressão de instância.
+4. A existência de ações em trâmite no STF, como a Reclamação 43.007/DF e o Habras Corpus 164.493/PR, sobre a mesma matéria, reforça a inviabilidade de decisão pelo STJ para evitar decisões contraditórias entre instâncias judiciais.
+IV. "HABEAS CORPUS" NÃO CONHECIDO.
+RELATÓRIO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+REVISÃO CRIMINAL. DIREITO PENAL. LAVAGEM DE DINHEIRO. SUSPEIÇÃO DO MAGISTRADO. STF. HC"S 164.493 E 193.726. APLICAÇÃO RESTRITA . ALEGAÇÕES DISCUTIDAS E AFASTADAS EM DIVERSOS JULGAMENTOS ANTERIORES. 1. Não é suficiente a mera irresignação contra a decisão condenatória para a propositura da revisão criminal, sendo necessária a demonstração inequívoca da adequação do caso concreto a uma das hipóteses contidas no artigo 621 do Código de Processo Penal. 2. Hipótese em que o requerente pretende, na realidade, rediscutir o mérito da ação penal, alegando a suspeição do magistrado julgador de primeiro grau sob diversos aspectos, muitos deles posteriores à própria prolação da sentença condenatória. 3. O entendimento manifestado pelo STF nos autos dos HC"s 164.493 e 193.726 é aplicável apenas àqueles autos respectivos.
+O paciente foi condenado pela prática do delito de lavagem de capitais.
+A defesa alega, em síntese, a ocorrência de equívocos na dosimetria e a parcialidade do magistrado sentenciante.
+Ao final, requer a concessão da ordem para "reconhecer a parcialidade do ex-Juiz Federal Sergio Fernando Moro na condução da Ação Penal n. 5025687- 03.2014.404.7000/PR".
+É o relatório.
+EMENTA
+Ementa: PROCESSO PENAL. HABEAS CORPUS. SUSPEIÇÃO DE MAGISTRADO E DE PROCURADORES DA REPÚBLICA. TESES NÃO APRECIADAS EM INCIDENTE PRÓPRIO. SUPRESSÃO DE INSTÂNCIA. TESES POSTAS PERANTE O SUPREMO TRIBUNAL FEDERAL EM PEDIDO DE EXTENSÃO. SEGURANÇA JURÍDICA. EXTENSÃO DE ORDEM. INCOMPETÊNCIA DESTA CORTE. "HABEAS CORPUS". NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus interposto contra acórdão da 4ª Seção do Tribunal Regional Federal da 4ª Região, que julgou improcedente a revisão criminsal. O impetrante sustenta a suspeição do Juiz, apontando conluio com membros do Ministério Público Federal na condução da "Operação Lava Jato". Pleiteia a nulidade de atos processuais praticados.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) verificar se é possível o reconhecimento da suspeição sem o cumprimento do procedimento previsto no Código de Processo Penal;
+(ii) analisar a viabilidade de conhecimento da matéria em sede de "Habeas Corpus" substitutivo de recurso voltado contra acórdão que negou revisão criminal.
+III. RAZÕES DE DECIDIR
+3. O reconhecimento da suspeição de magistrado exige a instauração de procedimento próprio, nos termos dos arts. 100 e 101 do CPP, assegurando o contraditório e a ampla defesa ao magistrado acusado. A análise direta pelo habeas corpus, sem manifestação prévia do juiz suspeito, caracteriza indevida supressão de instância.
+4. A existência de ações em trâmite no STF, como a Reclamação 43.007/DF e o Habras Corpus 164.493/PR, sobre a mesma matéria, reforça a inviabilidade de decisão pelo STJ para evitar decisões contraditórias entre instâncias judiciais.
+IV. "HABEAS CORPUS" NÃO CONHECIDO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A questão ganha em relevo quando o "habeas corpus" substitutivo se insurge contra decisão transitada em julgado, hipótese em que a impetração finda por buscar efeitos similares aos da revisão criminal, a qual possui feição processual e material própria, que impõe a estrita observância do foro competente e dos limites estabelecidos pelo art. 621 do CPP.
+Nestas hipóteses, "Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. No caso, como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido." (HC 829748 / GO, RELATOR Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DATA DO JULGAMENTO 05/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 11/12/2023)
+Além disso, a ausência de apontamento adequado de matéria elencada no art. 621 do CPP finda por erigir nova barreira ao conhecimento do "writ", considerando o trânsito em julgado da matéria discutida.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Com efeito, verifica-se que a questão ora apresentada a esta Corte, relativa à suspeição, não foi debatida na instância de origem e nem sequer se submeteu ao procedimento previsto nos arts. 100 e 101 do CPP, a evidenciar que seu conhecimento representa indevida supressão de instância.
+Dessa forma, "Ausente manifestação colegiada do Tribunal sobre a matéria ora trazida a exame, incabível o conhecimento do presente habeas corpus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ)." (AgRg no HC 911447 / MT, Relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, Data do Julgamento 01/07/2024, Data da Publicação/Fonte DJe 02/08/2024)
+Ademais, mesmo que assim não fosse e, considerando o inegável caráter absoluto da nulidade decorrente da quebra da imparcialidade do julgador, certo é que, como evidenciado na decisão recorrida, a matéria encontra-se posta perante a suprema corte.
+De fato, tem sido o procedimento adotado pelas defesas em processos ligados à denominada "Operação Lava-Jato" a solicitação de que as repercussões relativas à parcialidade dos magistrados que atuaram em primeira instância, em especial à luz do teor da denominada "Operação Spoofing" sejam apuradas com profundidade em pedidos de extensão formulados em apenso, por exemplo, ao HABEAS CORPUS 164.493/PR ou à RECLAMAÇÃO 43.007/DF.
+Trazer o debate a esta Quinta Turma, em especial em processos onde a corte de origem não tratou do tema e a defesa já acionou a suprema corte, representaria hipótese de ameaça à segurança jurídica, diante da possibilidade de prolação de decisões contraditórias entre si em um sistema de superposição de instâncias judiciais.
+Não por outra razão, em hipóteses similares, o colegiado tem dado cumprimento a decisões provenientes do Supremo Tribunal Federal quando da análise de pedidos de extensão que buscam ver aplicado, ao caso concreto, os entendimentos lá firmados acerca da parcialidade dos julgadores e da ilicitude de provas, "verbis":
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MATÉRIA PROCESSUAL PRELIMINAR SUPERVENIENTE DE NULIDADE DAS PROVAS DECLARADA PELO SUPREMO TRIBUNAL FEDERAL. EFEITOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA DECLARAR A NULIDADE DA PROVA E DOS ATOS PROCESSUAIS POSTERIORES .
+1. Recebimento de ofício comunicando decisão emanada do Supremo Tribunal Federal relativa à nulidade do material processual utilizado na ação penal importa na superveniência de matéria de ordem pública, a ser analisada em embargos de declaração.
+2. A análise dos autos evidencia que a denúncia oferecida pelo Ministério Público Federal em face dos réus aponta como substrato material da capitulação penal elementos colhidos no sistema "Drousys", que foi declarado ilegal pelo Eg. Supremo Tribunal Federal.
+3. Na esteira do entendimento proferido pelo Supremo Tribunal Federal, o reconhecimento da nulidade no material probatório em análise deve ser tido por absoluto e, fundando de maneira estrutural o teor da denúncia, merece não só ser dos autos extirpado, mas também determinar o reinício da análise da peça inaugural, com o retorno "ab initio" da demanda penal.
+4. Embargos de declaração providos para declarar a nulidade probatória e dos atos processuais que são a ela posteriores.
+(EDcl no AgRg no REsp n. 1.883.830/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/6/2024, DJe de 24/6/2024.)
+De fato, certo é que, "mutatis mutandis", "quanto ao pleito de extensão da ordem concedida pelo Tribunal a quo ao corréu, insta registrar que a esta Casa, por razões óbvias de competência, não cabe a análise da pretendida extensão, pois, como é cediço, o exame do writ prende-se aos estreitos limites do julgado impugnado" (HC 746.144/BA, Relator Ministro Sebastião Reis Júnior, 6ª Turma, j. em 11/04/2023, DJe 13/04/2023).
+Ou seja, apontada a aplicação de tese firmada pela suprema corte ao caso concreto, não dispõe o Superior Tribunal de Justiça de competência para analisar sua extensão ao caso concreto, mesmo que a pretexto de aplicação do art. 580 do CPP, em especial quando se tem em vista que a defesa do paciente tem adotado medidas concretas perante a Suprema Corte para obtenção da providência que pleiteia perante esta corte .
+Por fim, quanto às alegações relativas à dosimetria formuladas na fundamentação, não se mostra viável seu acolhimento em razão da ausência de pedido formal do impetrante que possa balizar a atuação desta relatoria.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+É o voto.
