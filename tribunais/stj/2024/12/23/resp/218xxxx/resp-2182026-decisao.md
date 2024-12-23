@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS - MPMG com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG em julgamento dos embargos de declaração na Apelação Criminal n. 1.0194.21.000908-1/005.
+Consta dos autos que a recorrida, Lorena Suellen Silva Arruda, foi condenada pela prática do delito tipificado no art. 121, § 2º, I, III e IV, e § 4º, do Código Penal - CP (homicídio qualificado), à pena de 20 anos de reclusão, em regime inicial fechado (fl. 653 ).
+Recursos de apelação interpostos pela defesa e pela acusação foram desprovidos. O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - TRIBUNAL DO JÚRI - HOMICÍDIO QUALIFICADO - DECISÃO MANIFESTAMENTE CONTRÁRIA A PROVA DOS AUTOS - IMPOSSIBILIDADE - REDUÇÃO DA PENA FIXADA - NÃO CABIMENTO - IRRESIGNAÇÃO MINISTERIAL - INCREMENTO DA PENA - NÃO CABIMENTO - DECOTE ATENUANTE CONFISSÃO ESPONTÂNEA -NÃO CABIMENTO.
+-Impõe-se a manutenção do julgamento realizado pelo Conselho de sentença, se evidenciada a adoção de tese compatível com os elementos probatórios produzidos, o que se estende às circunstâncias qualificadoras.
+-Mantém-se a pena aplicada ao primeiro apelante, porquanto reconhecida circunstância judicial desfavorável nos autos e a exasperação é adequada e suficiente para a reprovação e prevenção dos delitos.
+-Conforme o entendimento consolidado na Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para funda mentar a sua condenação, o que ocorreu na espécie" (fl. 874).
+Embargos de declaração opostos pela acusação foram rejeitados. O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO - APELAÇÃO CRIMINAL - OMISSÃO - INOCORRÊNCIA - REJEIÇÃO.
+- O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619 do Código de Processo Penal.
+- Os embargos de declaração não se prestam a rediscutir teses amplamente debatidas por ocasião do julgamento do recurso de apelação, mesmo que para fins de prequestionamento" (fl. 912).
+Em sede de recurso especial (fls. 924/931), o Parquet apontou violação aos arts. 3º, 315, § 2º, IV e VI, e 619 do Código de Processo Penal - CPP, aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil - CPC e ao art. 59 do CP, ao argumento de que há deficiência na fundamentação nos acórdão proferidos pelo Tribunal de origem, eis que a Corte deixou de analisar a questão referente à valoração negativa das consequências do crime, consubstanciadas nos danos psicológicos à comunidade local à testemunha Jandira, que ficou traumatizada após a acusada arremessar no seu quintal um recém-nascido, asfixiado em um saco plástico.
+Pugnou, dessarte, pelo provimento da pretensão recursal para que o acórdão proferido pelo Tribunal de origem seja anulado diante da sua omissão em analisar todas as questões aventadas pelo MPMG. Subsidiariamente, requereu a valoração negativa das consequências do crime e, por consequência, readequação da dosimetria da pena.
+Admitido o recurso no TJMG (fls. 936/938), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial para valorar negativamente as consequências do crime e, por consequência, readequar a dosimetria da pena (fls. 947/951).
+É o relatório.
+Decido.
+Acerca da afronta aos arts. 3º, 315, § 2º, IV e VI, e 619 do CPP, aos arts. 489, § 1º, IV, e 1.022, II, do CPC e ao art. 59 do CP, colaciona-se o seguinte trecho do acórdão proferido pelo Tribunal de origem no julgamento dos aclaratórios:
+"Com a devida vênia, o aresto não padece de quaisquer vícios que possam ensejar o acolhimento dos embargos ou o reconhecimento de alguma nulidade.
+Analisando as razões recursais, percebo o nítido propósito do embargante de rediscutir a matéria exaustivamente debatida por ocasião do julgamento do recurso de apelação.
+A fim de evitar repetições desnecessárias, peço vênia para transcrever alguns trechos do acórdão embargado que analisaram especificamente a tese novamente suscitada pelo Parquet em sede dos presentes embargos de declaração:
+"(..)Enquanto o Ministério Público pugna pela elevação das penas aplicadas, bem como o decote da atenuante da confissão espontânea e a defesa requer a redução da pena.
+Com o devido respeito, verifico que r. sentença recorrida fixou a pena da ré de forma justa e proporcional, não merecendo qualquer reparo.
+A dosimetria da pena é questão atrelada à discricionariedade judicial, visto que o Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação, devendo ser observado, entretanto, o critério de proporcionalidade.
+Assim já decidiu o Superior Tribunal de Justiça:
+"A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade." (STJ - HC 410.543/SP - Rel. Min. Reynaldo Soares da Fonseca - 5ª Turma - DJE 02/10/2017).
+Ao fixar a pena-base, o d. Juiz singular considerou a existência de 01 (uma) circunstância desfavorável a apelante, nestes termos:
+"(..) a conduta da ré justifica juízo de culpabilidade (reprovação), além daquele já contido no tipo penal e qualificadora reconhecida, porquanto foi planejado por longo período de tempo;
+Em consequência, fixou a pena-base em 13 (treze) anos de reclusão.
+No que concerne à culpabilidade, entendida como o grau de reprovabilidade da conduta, verifico que ela extrapolou aquela normal ao delito.
+Com isso, ante a existência de 01 (uma) circunstância desfavorável a ré, mantenho a pena-base em 13 (treze) anos de reclusão.
+Na segunda fase, sem razão o Parquet quanto ao decote da atenuante de confissão espontânea da acusada.
+Conforme o entendimento consolidado na Súmula 545 do Superior Tribunal de Justiça, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação, o que ocorreu na espécie.
+Isso posto, mantenho a aplicação da atenuante prevista no artigo 65, inciso III, alínea "d", do Código Penal.
+Assim, na segunda fase, presentes as atenuantes de confissão espontânea e menoridade relativa, bem como as agravantes do motivo torpe, do emprego de asfixia e pratica de crime contra descendente, mantenho a pena intermediaria fixada em 15 (quinze) anos de reclusão.
+Na terceira fase, presente a causa de aumento da pratica de crime contra menor de 14 anos, pelo quê, a pena foi aumentada em 1/3 (um terço), concretizando-se em 20 (vinte) anos de reclusão.
+Mantenho o regime inicial fechado, nos termos da sentença.
+Do exposto, ressai claro o mero inconformismo do embargante com o resultado do julgamento, e a nítida intenção de rediscutir questões já decididas na apelação criminal, a fim de que prevaleça o seu entendimento, o que não pode ser acatado.
+Além disso, a dosimetria da pena está inserida no âmbito da discricionariedade vinculada do Julgador, de modo que, havendo circunstância judicial desfavorável ou agravante, não há falar em obrigatoriedade de adoção de determinado percentual de aumento ou diminuição nas duas primeiras etapas do critério trifásico, tampouco em observância à pena mínima ou ao intervalo entre as balizas abstratamente cominadas pelo legislador.
+Diante do exposto, se a decisão ora embargada não correspondeu à correta aplicação do Direito ou à melhor interpretação das provas, como cediço, essa via não se apresenta apropriada para sua reapreciação.
+Conforme já salientado anteriormente, os embargos declaratórios não se prestam ao reexame do mérito já sufragado em tempo oportuno, não merecendo provimento ainda que opostos com o objetivo de prequestionamento, se não vislumbrada, na decisão recorrida, as hipóteses previstas no artigo 619 do Código de Processo Penal.
+ ..
+De todo o modo, os dispositivos apontados na peça recursal ficam prequestionados, conforme preconiza o artigo 1.025 do Código de Processo Civil, aplicado por força do artigo 3º do Código de Processo Penal" (fls. 914/917).
+Infere-se do excerto que efetivamente há deficiência na fundamentação do acórdão proferido na origem, porquanto a Corte a quo deixou de analisar a tese Ministerial no sentido de que há de ser valorada negativamente as consequências do crime, notadamente pelo fato de a acusada ter arremessado a vítima, asfixiada em um saco plástico, no quintal da testemunha Jandira, circunstância que supostamente causou dano psicológico a esta, bem como abalou a comunidade local.
+Neste ponto, cumpre salientar que a referida questão foi oportunamente aventada pelo Parquet no seu recurso de apelação (fls. 675/688) e reiterada nos seus aclaratórios (fls. 904/907).
+Em contrapartida, o TJMG apenas fundamentou que a dosimetria da pena está inserida no âmbito da discricionariedade vinculada do julgador e deixou de apreciar as questões fáticas e de direito trazidas pela acusação, que sustentavam a sua tese para exasperar a pena-base com fulcro na valoração negativa das circunstâncias do crime.
+Destarte, diante da negativa de prestação jurisdicional, há de se anular o julgamento dos embargos de declaração para determinar que o Tribunal de origem se manifeste expressamente acerca do suposto abalo psicológico ocasionado pelo ilícito penal à testemunha Jandira e à comunidade local, bem como esclareça se tal circunstância seria suficiente para valorar negativamente as consequências do crime e, por co nseguinte, exasperar a pena-base da ora recorrida.
+Para corroborar, colhe-se da jurisprudência deste Sodalício (grifo meu):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APONTADA VIOLAÇÃO DO ART. 619 DO CÓDIGO DE PROCESSO PENAL. CONTRADIÇÃO E OMISSÃO. CONSTATAÇÃO. QUESTÃO DE RELEVÂNCIA AO DESLINDE DA CONTROVÉRSIA. AUSÊNCIA DE FUNDAMENTAÇÃO INDIVIDUALIZADA NO ACÓRDÃO RECORRIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da orientação jurisprudencial deste Superior Tribunal de Justiça, há afronta ao art. 619 do CPP quando o acórdão hostilizado deixa de se manifestar, de forma fundamentada, sobre questão essencial ao deslinde da controvérsia, o que se coaduna ao caso em exame.
+Embora não esteja o Julgador obrigado a enfrentar todos os pontos alegados pelas Partes, havendo omissão e contradição sobre questão relevante para o deslinde da controvérsia, devem estas serem aclaradas em sede de embargos de declaração, sob pena de nulidade do julgado.
+2. Não sendo os argumentos apresentados capazes de desconstituir os fundamentos da decisão agravada, o agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo este ser mantido em seus próprios termos.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.719.549/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/2/2022, DJe de 25/2/2022.)
+Ficam prejudicadas as demais alegações.
+Ante o exposto, conheço em parte do recurso especial e dou-lhe provimento para reconhecer violação ao art. 619 do CPP e, por consequência, determinar o retorno dos autos àquele Sodalício para que seja realizado novo julgamento, com a efetiva apreciação das irresignações veiculadas na medida integrativa.
+Publique-se. Intimem-se.
+ EMENTA
