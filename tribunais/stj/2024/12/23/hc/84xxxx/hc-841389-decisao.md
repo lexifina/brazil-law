@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FELLIPE HENRIQUE DA SILVA SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Depreende-se dos autos que o paciente foi pronunciado pela suposta prática do crime de homicídio qualificado, tendo-lhe sido concedido o direito de recorrer em liberdade.
+Irresignado o parquet interpôs recurso em sentido estrito perante o tribunal de origem, que deu provimento ao recurso a fim de restabelecer a segregação cautelar, em acórdão de fls. 537-558.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva.
+Liminar indeferida às fls. 567-569.
+Informações prestadas às fls. 576-583; 592-596 e 606-710.
+O Ministério Público Federal em parecer, às fls. 834-841, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+Na presente hipótese dos autos, verifica-se que o decreto encontra-se concretamente fundamentado para a garantida da ordem pública, em razão da gravidade concreta da conduta atribuída ao paciente, haja vista, que o paciente teria desferido vários disparos de arma de fogo na cabeça da vítima, em plena via pública, tendo como motivação vingança pela morte de seu tio - fl. 542.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"No caso, o decreto de prisão preventiva possui fundamentação idônea, tendo em vista o descumprimento de medida cautelar anteriormente imposta, bem como em razão da gravidade concreta do delito tipificado no art. 121, § 2º, I, III e IV, do CP, "tendo sido apontado na denúncia que o crime teria sido motivado por vingança, a forma de execução teria se dado por meio cruel, perigo comum, emboscada e mediante recurso que dificultou a defesa do ofendido  ..  o que indica acentuada periculosidade do recorrido, que é apontado como um dos participantes que auxiliou na emboscada e efetuou golpes na vítima".
+ ..
+3. É firme o entendimento jurisprudencial de que "a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta" (AgRg no HC n. 582.326/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe de 13/8/2020), a evidenciar a periculosidade real, propensão à prática delitiva e conduta violenta, como no caso"(AgRg no HC n. 904.133/RS, relator Ministro Og Fernandes, Sexta Turma, DJe de 23/10/2024).
+No mesmo sentido: AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJe de 28/8/2024; AgRg no HC n. 856.692/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/12/2023 e AgRg no RHC n. 184.703/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2023.
+Salientou, ainda, o acórdão recorrido ao decretar a segregação cautelar que o paciente "enquanto estava em liberdade provisória pelo crime tratado neste recurso, praticou novo delito da mesma espécie desferindo disparos de arma de fogo contra o policial militar Ideyvison Barbosa da Silva, nos autos nº 0003239-10.2021.8.17.1370, além de ter sido preso em flagrante pelo delito de porte ilegal de arma de fogo nos autos nº 0000013-80.2021.8.17.1370" (fl. 542), circunstância que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa.
+A propósito:
+"No caso em debate, ao contrário do sustentado pela Defesa, embora o paciente tenha respondido ao processo em liberdade, verifico que a prisão preventiva foi adequadamente decretada na sentença, tendo sido demonstrada pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta. Destacou-se a periculosidade do paciente e necessidade de se evitar a reiteração delitiva, uma vez que, após ter sua prisão preventiva relaxada nos autos em questão, cometeu duas vezes o crime de tráfico de drogas quando estava em liberdade, demonstrando o risco ao meio social"(AgRg no RHC n. 194.155/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/7/2024).
+Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
