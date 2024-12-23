@@ -1,0 +1,52 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, em razão da matéria estar suficientemente enfrentada pela segunda instância, a qual emitiu pronunciamento de forma fundamentada, além dos óbices previstos nas Súmulas n. 7 do STJ e 282 e 356 do STF.
+O julgado recorrido recebeu a seguinte ementa (fls. 3.732-3.740):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. ABRANGÊNCIA DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PREMISSA EQUIVOCADA. POSSIBILIDADE DE CORREÇÃO, COM EFEITOS INFRINGENTES, PELA VIA DOS ACLARATÓRIOS. PRECEDENTES. ÔNUS SUCUMBENCIAIS. PRETENSÃO DE REDISTRIBUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. Apesar de rejeitados os embargos de declaração, a matéria em exame foi suficientemente enfrentada pela segunda instância, que sobre ela emitiu pronunciamento de forma fundamentada.
+2. A jurisprudência do STJ é no sentido de que "a regra do art. 489, §1º, VI, do CPC/2015, segundo a qual o juiz, para deixar de aplicar enunciado de súmula, jurisprudência ou precedente invocado pela parte, deve demonstrar a existência de distinção ou de superação, somente se aplica às súmulas ou precedentes vinculantes, mas não às súmulas e aos precedentes apenas persuasivos" (REsp n. 1.698.774/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2020, DJe de 9/9/2020).
+3. Modificar o entendimento do Tribunal local, acerca de quais verbas estariam abarcadas pela coisa julgada, demandaria o reexame de matéria fático-probatória, o que é inviável na via eleita, devido ao óbice contido na Súmula 7/STJ.
+4. O posicionamento jurisprudencial desta Corte é no sentido de ser possível, excepcionalmente, a atribuição de efeitos modificativos aos embargos de declaração com o propósito de corrigir premissa equivocada sobre a qual tenha se fundado o julgado embargado, quando se tratar de questão decisiva para o resultado do julgamento, como se deu na espécie.
+5. Não houve pronunciamento estadual acerca da pretensão de redistribuição dos honorários sucumbenciais, tampouco foram opostos embargos declaratórios a fim de suscitar a discussão na origem sobre o tema, estando ausente o prequestionamento. Incidência das Súmulas 282 e 356/STF.
+6. A jurisprudência desta Casa exige o prequestionamento da matéria ainda que a suposta afronta a norma federal surja no próprio acórdão recorrido.
+7. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 3.779-3.785).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXVI, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, eis que os vícios apontados no acórdão dos embargos de declaração da Corte local não foram analisados pelo STJ, pois a violação à coisa julgada pode ser aferida a partir da leitura da sentença condenatória.
+Alega que as matérias que dizem respeito ao pro labore, dividendos e ações não integralizada são as verbas que compõem a indenização passível de quantificação por liquidação de artigos, as quais não poderiam estar acobertadas pelo manto da coisa julgada.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não examinou o mérito do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fl. 3.736):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Apesar de rejeitados os embargos de declaração, a matéria em exame foi suficientemente enfrentada pela segunda instância, que sobre ela emitiu pronunciamento de forma fundamentada.
+Com efeito, ao analisar a controvérsia, o Colegiado estadual se manifestou de forma satisfatória sobre a questão jurídica controvertida, consignando que o pró-labore, os dividendos e as ações não integralizadas não se submeteriam ao procedimento de liquidação, por se tratarem de valores abrangidos pela coisa julgada.
+Veja-se (e-STJ, fls. 3.197-3.198):
+1. Trânsito em julgado da condenação ao pagamento de multa cominatória, pró-labore, valor correspondente às ações não integralizadas e dividendos não distribuídos:
+Compulsando com vagar os autos, é incontroverso que o que se submete ao processo de liquidação, é tão somente, a parte do comando judicial referente à indenização, ficando excluídas, portanto, as demais verbas (multa cominatória, pró-labore, valor correspondente às ações não integralizadas, dividendos não distribuídos).
+Em sendo assim, esse ponto deverá ser decotado no Acórdão invectivado de fls. 1941/1951, uma vez que o decisum deveria ter limitado sua análise somente a matéria relacionada à fixação do quantum devido, tendo em vista que a sentença exarada na ação ordinária, transitada em julgado, já proferiu comando condenatório determinando o que é obrigação da parte apelada com a parte apelante.
+Nesse diapasão esta matéria não poderia ser devolvida ao juízo ad quem, uma vez que já estava consagrada pela coisa julgada, não possuindo esta Câmara competência para alterar decisão sobre a qual o Judiciário já se manifestou em definitivo, finalizando a sua prestação judicial, tendo em vista que é defeso, na fase de liquidação, reativar questão já resolvida pela sentença em processo de conhecimento. (grifos no original)
+Dessa forma, impossível se reconhecer a negativa de prestação jurisdicional, não se podendo atribuir o vício de omissão ao acórdão recorrido apenas porque resolveu a celeuma em sentido contrário ao postulado pela parte recorrente.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, o STF já definiu que a alegação de afronta aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, XXXVI, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fl. 3.737):
+Noutro ponto, percebe-se que o Tribunal originário concluiu que o pró-labore, os dividendos não distribuídos e as ações não integralizadas seriam verbas abarcadas pela coisa julgada, não cabendo, portanto, rediscussão sobre os respectivos valores na fase de liquidação.
+Nesse contexto, não há como desconstituir o entendimento formado - para entender que tais matérias não estariam abrangidas pela coisa julgada - sem o prévio reexame do acervo fático-probatório, procedimento obstado na seara extraordinária, em virtude do disposto na Súmula 7 desta Casa.
+Outrossim, é importante registrar que este STJ perfilha o entendimento de que é possível, excepcionalmente, a atribuição de efeitos modificativos aos embargos de declaração com o propósito de corrigir premissa equivocada sobre a qual tenha se fundado o julgado embargado, quando se tratar de questão decisiva para o resultado do julgamento.
+A propósito:
+ ..
+No caso, nota-se que a segunda instância, ao examinar os embargos declaratórios, corrigiu premissa equivocada - de que seria possível a análise da questão relativa à compensação -, reconhecendo a preclusão da matéria em exame.
+Assim, estando a Corte a quo autorizada a corrigir o vício apontado, com a consequente atribuição de efeitos infringentes, não haveria como reconhecer a ofensa aos arts. 463, I, e 535 do CPC/1973.
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
