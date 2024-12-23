@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ (e-STJ fls. 1.217/1.219).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 1.162):
+APELAÇÃO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - AJUIZAMENTO ANTERIOR À HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL - HONORÁRIOS ADVOCATÍCIOS - ONUS DA RÉ - PRINCÍPIO DA CAUSALIDADE
+- Execução de Título Extrajudicial - Ajuizamento Anterior à Homologação do Plano de Recuperação Judicial - Honorários Advocatícios - Ônus da Ré - Princípio da causalidade
+- Descabe a fixação de honorários advocatícios em benefício do patrono do réu, por força do ajuizamento da ação executiva anterior à homologação do plano de recuperação judicial. Interesse de agir configurado na propositura. RECURSO NÃO PROVIDO.
+No recurso especial (e-STJ fls. 851/867), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente apontou ofensa ao art. 85 do CPC, insurgindo-se contra sua condenação aos honorários sucumbenciais. Nesse contexto, asseverou que o recorrido movimentou desnecessariamente a máquina judiciária, ressaltando que as despesas processuais e os honorários advocatícios devem ser suportados pela instituição financeira, pois foi ela quem deu causa a ação de execução de título extrajudicial.
+Sustentou, por fim, que "deve ser reconhecido que a recorrida deve suportar o ônus da sucumbência decor rente da extinção do processo, na medida em que optou pela sua propositura, mesmo tendo ciência do ajuizamento prévio da ação de recuperação judicial, e que seus créditos lá estavam arrolados" (e-STJ fl. 1.190).
+Foram oferecidas contrarrazões (e-STJ fls. 1.202/1.216).
+No agravo (e-STJ fls. 1.222/1.246), foram refutados os fundamentos da decisão agravada e foi alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.249/1.262).
+É o relatório.
+Decido.
+A irresignação não prospera.
+Quanto à alegação específica de que a recorrida tinha ciência do ajuizamento prévio da ação de recuperação judicial, devendo suportar os ônus sucumbenciais da presente execução, não houve pronunciamento do Tribunal a quo acerca da questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+Ademais, o entendimento do Tribunal de origem não pode ser desconstituído apenas com base no art. 85, caput, do CPC - segundo o qual, "A sentença condenará o vencido a pagar honorários ao advogado do vencedor" -, porque o dispositivo em referência nada dispõem a respeito do fundamento de que (e-STJ fl. 1.166):
+ ..  no momento da distribuição a ação executiva, os credores não têm como saber se seu credito será aprovado na recuperação, razão pela qual eles tem interesse de agir na propositura da ação, que somente deixa de existir, em razão da homologação do plano, diante da constituição de novo título executivo, conforme o artigo 59, §1º da Lei de Recuperação Judicial
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ainda que assim não fosse, a instância ordinária, com base nos elementos fático-probatórios dos autos, concluiu que o ora recorrente é quem deu causa ao ajuizamento da demanda, definindo os honorários sucumbenciais em seu desfavor. Segue trecho do acórdão recorrido (e-STJ fls. 1.165/1.167):
+Cinge-se a controvérsia recursal ao cabimento da condenação do banco exequente às verbas sucumbenciais, em razão da extinção da ação executiva após o ajuizamento da Recuperação Judicial da pessoa jurídica ré.
+Pois bem. Consoante incontroverso, quando do ajuizamento da ação executiva, em 24 de julho de 2020, fundamentada em Cédula Rural Pignoratícia n.º 007100300410, pelo valor principal de R$1.000.000,00 (um milhão de reais), já havia sido ajuizada a ação de recuperação judicial da apelante de nº 5121655.05.2020.8.09.0072, que tramita na 1ª Vara Cível da Comarca de Inhumas/GO, distribuída em10/03/2020, cujo pedido foi deferido em 31/03/2020.
+O plano de recuperação judicial foi aprovado em 29/06/2021, e homologado em 11/03/2022.
+Como se viu, o ajuizamento da ação executiva foi anterior à homologação do plano, e portanto, inexistia óbice ao seu ajuizamento, pois o crédito perseguido pelo exequente foi homologado naquele feito em data posterior.
+ ..
+Nos exatos termos do art. 85, § 10, do Código de Processo Civil, verificada a perda de objeto, as verbas de sucumbência serão suportadas por quem deu causa ao ajuizamento, não podendo tal responsabilidade recair sobre o exequente que apenas perseguia de forma legítima seu crédito.
+Nesse contexto, a análise da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em recurso especial pela Súmula n. 7 do STJ.
+Por fim, o entendimento exarado pelo Tribunal de origem coaduna-se com a jurisprudência do STJ, no sentido de que, nos casos em que a execução foi extinta em razão da novação dos créditos, em consequência da aprovação do plano de recuperação judicial da parte executada, a responsabilidade pelo pagamento de honorários de sucumbência deve ser fixada com base no princípio da causalidade, segundo o qual quem deu causa à instauração do processo deve suportá-las.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARALÇÃO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO (ART. 1.042, DO CPC/15) PARA NEGAR PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE EXECUTADA.
+1. Assim como ocorre nas hipóteses de execução frustrada ou reconhecimento de prescrição intercorrente, afigura-se um contrassenso condenar o credor ao pagamento de honorários advocatícios de sucumbência em razão da extinção parcial e anômala do feito executório, em razão da aprovação do plano de recuperação judicial da parte devedora.
+1.1 Nestes casos, mostra-se oportuno que o princípio da causalidade incida em desfavor da parte executada, já que foi a causadora da demanda executiva ao deixar de cumprir espontaneamente e tempestivamente com a obrigação evidenciada no título executivo.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.959.034/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, Dje 31/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DEVEDORA PRINCIPAL EM RECUPERAÇÃO JUDICIAL. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. INCIDÊNCIA EM DESFAVOR DA PARTE EXECUTADA. PRINCÍPIO DA CAUSALIDADE. SÚMULA 83 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência reconsiderada.
+2. "Assim como ocorre nas hipóteses de execução frustrada ou reconhecimento de prescrição intercorrente, afigura-se um contrassenso condenar o credor ao pagamento de honorários advocatícios de sucumbência em razão da extinção anômala do feito executório, em razão da aprovação do plano de recuperação judicial da parte devedora. Nestes casos, mostra-se oportuno que o princípio da causalidade incida em desfavor da parte executada, já que foi a causadora da demanda executiva ao deixar de cumprir espontaneamente e tempestivamente com a obrigação evidenciada no título executivo" (AgInt nos EDcl no AREsp 1.959.034/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/3/2022, DJe de 31/3/2022).
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em nova análise, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.331.538/PR, Rel. Ministro Raúl Araújo, Quarta Turma, julgado em 14/08/2023, DJe 18/08/2023.)
+Inafastável, portanto, o óbice da Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC .
+Publique-se e intimem-se.
+EMENTA
