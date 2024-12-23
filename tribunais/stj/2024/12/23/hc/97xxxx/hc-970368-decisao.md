@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ITAMAR TAVARES DE OLIVEIRA JÚNIOR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS
+Consta dos autos que o paciente foi condenado pelo Tribunal do Júri à pena de 11 anos, 2 meses e 12 dias de reclusão em regime inicial fechado como incurso nas sanções do art. 121, § 2º, II e IV, c/c o art. 14, II, do Código Penal, sendo-lhe concedido o direito de recorrer em liberdade.
+O impetrante sustenta a ilegalidade da execução provisória da pena como efeito automático da sentença condenatória proferida pelo Tribunal do Júri, tendo em vista que ao paciente foi permitido responder ao processo em liberdade.
+Afirma que, embora tenha havido alteração no art. 492 do Código de Processo Penal, promovida pela Lei n. 13.964/2019, é ilegal a execução provisória da pena, ainda que firmada em sentença condenatória emanada pelo Júri.
+Requer, liminarmente e no mérito, a revogação da prisão cautelar, conferindo-se o direito de recorrer em liberdade ao paciente.
+É o relatório.
+Na sentença condenatória, o direito de recorrer em liberdade foi deferido ao paciente nos seguintes termos (fl. 21):
+ ..  Em homenagem ao art. 492, I, "e", do CPP, CONCEDO ao réu, ITAMAR TAVARES DE OLIVEIRA JÚNIOR, o direito de recorrer em liberdade, porquanto não se fazem presentes os requisitos da prisão preventiva. ..
+Posteriormente, o Juízo de primeiro grau determinou a execução provisória, consignan do que (fls. 21-22 ):
+ ..  In casu, verifica-se que o réu foi condenado a pena de 11 anos, 02 meses e doze dias de reclusão, em regime inicial fechado, como incurso no art. 121, §2º, II e IV c/c art. 14, II, todos do CP, pendente recursos em Cortes Superiores.
+Todavia, no julgamento do RE nº 1.235.340/SC, no dia 12/09/2024, sob o rito da repercussão geral (Tema 1.068), o STF deu interpretação ao art. 492, I, "e", do CPP, conforme a Constituição, com redução de texto, fixando a seguinte tese: "A Soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo Corpo de Jurados, independentemente do total de pela aplicada".
+Atento ao que foi decidido e reconhecendo a eficácia imediata da decisão, o Corregedor Nacional de Justiça, Ministro Mauro Campbell Marques, por meio do Oficio-Circular de nº 43/COGP, determinou a imediata adoção das providências necessárias ao fiel cumprimento do referido julgado.
+Sendo assim, cuidando-se de norma processual, aplica-se a partir de sua vigência, pelo princípio tempus regit actum, inclusive aos procedimentos em curso, conforme aduz o art. 2º, do CPP. Além do mais, as teses fixadas pelo STF, em repercussão geral, têm aplicação imediata.  ..
+Ante o exposto, INDEFIRO o pleito defensivo, para manter a custódia preventiva do acusado, ITAMAR TAVARES DE OLIVEIRA JÚNIOR. ..
+Consoante disposto no art. 492, I, e, do Código de Processo Penal, alterado pela Lei n. 13.964/2019, o presidente do Júri:
+Art. 492.  ..
+I - no caso de condenação:
+ ..  e) mandará o acusado recolher-se ou recomendá-lo-á à prisão em que se encontra, se presentes os requisitos da prisão preventiva, ou, no caso de condenação a uma pena igual ou superior a 15 (quinze) anos de reclusão, determinará a execução provisória das penas, com expedição do mandado de prisão, se for o caso, sem prejuízo do conhecimento de recursos que vierem a ser interpostos; (Grifei.)
+No presente caso, o paciente foi condenado pelo Conselho de sentença a 11 anos, 2 meses e 12 dias de reclusão anos de reclusão, circunstância que impõe a execução provisória da pena, nos termos do dispositivo mencionado.
+A matéria, a propósito, teve a repercussão geral reconhecida pelo Supremo Tribunal Federal (RE n. 1.235.340/SC - Tema n. 1.068) e foi julgada em 12/9/2024, oportunidade em que o Tribunal, por maioria:
+ ..  (b) deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados. Por arrastamento, excluiu do § 4º e do § 5º, inciso II, do mesmo art. 492 do CPP, a referência ao limite de 15 anos; e (c) fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+Logo, em que pese às alegações defensivas, não mais subsiste a necessidade de discussão sobre os requisitos da custódia cautelar ou sobre a idoneidade da fundamentação da prisão preventiva, pois, havendo a condenação pelo Júri Popular, independentemente da reprimenda aplicada, deverá ser determinada a execução provisória da pena e expedido o mandado de prisão, nos termos do art. 492, I, e, do Código de Processo Penal, em conjunto com o julgamento supramencionado.
+No mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. PACIENTE CONDENADO PELO TRIBUNAL DO JÚRI. EXECUÇÃO PROVISÓRIA DA SENTENÇA CONDENATÓRIA (ART. 492, I, e DO CPP). POSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA 1.068 DA REPERCUSSÃO GERAL JULGADO PELA SUPREMA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. LIMINAR REVOGADA. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Caso em que o magistrado Presidente do Tribunal do Júri, ao proferir a sentença, determinou a prisão do réu com base na regra prevista no art. 492, I, e, do Código de Processo Penal, que estabelece a execução provisória das sentenças do Tribunal do Júri. Ausência de constrangimento ilegal.
+3. O plenário do Supremo Tribunal, por maioria de votos, apreciando o tema 1.068 da repercussão geral, "deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados" e fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+4. Habeas corpus não conhecido. Liminar revogada.
+(HC n. 913.224/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
