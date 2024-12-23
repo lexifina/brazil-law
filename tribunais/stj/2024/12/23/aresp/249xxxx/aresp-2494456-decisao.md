@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Ação Cautelar Inominada n. 1.0000.22.295834-0/000.
+Consta dos autos que o agravado foi condenado definitivamente pela prática do delito de homicídio qualificado e encontrava-se cumprindo a pena que lhe foi imposta em regime semiaberto com autorização para o trabalho externo. O Juízo da Execução Penal autorizou o agravado a cumprir a pena em regime domiciliar excepcional, por tempo indeterminado, com fundamento na Súmula n. 56 do Supremo Tribunal Federal - STF.
+Ação Cautelar inominada ajuizada pela acusação foi julgada improcedente (fl. 128). O acórdão ficou assim ementado:
+"AÇÃO CAUTELAR INOMINADA - ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM EXECUÇÃO PENAL - IMPOSSIBILIDADE. O art. 197 da Lei de Execução Penal prevê taxativamente a impossibilidade de atribuição de efeito suspensivo ao recurso de agravo em execução penal" (fl. 125).
+Em recurso especial (fls. 135/144), a acusação apontou violação ao art. 489, § 1º, IV, e art. 3º, ambos do Código de Processo Penal - CPP, porque o Tribunal de Justiça - TJ desconsiderou as reiteradas decisões desta Corte Superior que admitem a concessão de efeito suspensivo a agravo em execução penal quando presentes o fumus boni iuris e o periculum in mora, como seria o caso dos autos, "em que o deferimento de prisão domiciliar excepcional, de ofício, a apenados em cumprimento de pena em regime semiaberto, que possuem alta periculosidade, representa risco concreto não só à efetividade da lei penal, como também para a sociedade" (fl. 140).
+Sobre o fumus boni iuris, alegou violação ao art. 33, § 2º, do Código Penal - CP e arts. 112 e 117 da Lei n. 7.210/1984, porque a inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, devendo ser observadas as providências determinadas pela Súmula Vinculante n. 56. Sustentou, ainda, que a manutenção do acórdão recorrido implicaria em progressão de regime per saltum, afrontando o sistema progressivo de pena previsto na Lei n. 7.210/1984. Sobre periculum libertatis, argumentou que "basta a mera concessão de prisão domiciliar sem a observância dos requisitos legais a um reeducando condenado a uma pena total de 18 (dezoito) anos e 09 (nove) mês de reclusão pela prática dos delitos previstos no artigo 16, caput, da Lei 10.826/03 e no artigo 121, §2º, do Código Penal (hediondo), da qual restam mais de 8 (oito) anos a cumprir" (fl. 142).
+Requereu a concessão de efeito suspensivo ao recurso. No mérito, o provimento do recurso especial para dar efeito suspensivo ao agravo em execução interposto pelo Ministério Público, com o consequente afastamento do benefício da prisão domiciliar do apenado.
+Sem contrarrazões de CLEUBER DA SILVA RIBEIRO (fl. 147).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 148/150).
+Em agravo em recurso especial, a acusação impugnou o referido óbice (fls. 155/163).
+Sem contraminuta (fl. 166).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo conhecimento do agravo para não conhecer do recurso especial, em razão da incidência dos óbices das Súmulas n. 283 e 284, ambas do Supremo Tribunal Federal - STF (fls. 177/182).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Quanto à pretensão recursal (atribuir efeito suspensivo ao Agravo em Execução Penal), verifica-se que, nas razões do recurso especial, a parte não apresentou argumentos para refutar o fundamento do Tribunal a quo de que a suposta hipótese de violação da Súmula Vinculante n. 56, que teria motivado a decisão do Juízo das Execuções Penais de concessão da prisão domiciliar, carece de dilação probatória própria do recurso de Agravo em Execução Penal. Ou seja, não era evidente a probabilidade do direito (fumus boni iuris) para que se pudesse atribuir efeito suspensivo ao recurso de agravo em execução penal.
+Assim, o recurso especial não merece conhecimento, pois o recorrente não atacou fundamento autônomo capaz de manter o acórdão recorrido.
+Incidente, na espécie, o óbice da Súmula n. 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, citam-se precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. DOSIMETRIA. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. SÚMULA N. 283/STF. PRIVILÉGIO DO ART. 155, § 2º, DO CÓDIGO PENAL. RECONHECIMENTO NA FRAÇÃO DE 1/3. VALOR DOS BENS SUBTRAÍDOS. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo consignado a instância ordinária que as vítimas relataram que as grades de proteção da bateria do automóvel foram rompidas para a prática do crime, e não tendo sido tal fundamento autônomo e suficiente para a configuração da referida qualificadora devidamente impugnado nas razões do apelo nobre, incidiu ao caso o óbice da Súmula n. 283 do STF.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.013.183/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 222 DO CPP. CARTA PRECATÓRIA. NÃO SUSPENSÃO DA INSTRUÇÃO CRIMINAL. RESPEITO AO ART. 400 DO CPP. INTERROGATÓRIO COMO ÚLTIMO ATO INSTRUTÓRIO. NULIDADE QUE SE SUJEITA À DEMONSTRAÇÃO DE PREJUÍZO. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. No presente caso, a Corte de origem consignou que sequer houve argumentação de prejuízo efetivo para a instrução. Mesmo que o réu tenha sido interrogado antes do regresso da precatória, prejuízo algum há, pois, como se disse, a carta é para inquirição do policial responsável pela prisão, não de testemunha presencial (e-STJ fls. 564). Ocorre que a parte deixou de atacar o referido fundamento, autônomo e suficiente para manter o julgado, incidindo a Súmula 283 do STF.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.168.397/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
