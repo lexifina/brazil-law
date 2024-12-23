@@ -1,0 +1,24 @@
+DECISÃO
+RAFAEL HENRIQUE DA SILVA, paciente neste habeas corpus, alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0700313-91.2014.8.02.0067.
+Depreende-se dos autos que o paciente foi condenado às penas de 9 anos e 6 meses de reclusão, no regime inicial fechado, e pagamento de 815 (oitocentos e quinze) dias-multa, pela prática dos delitos previstos no art. 33 da Lei n. 11.343/2006 e no art. 12 da da Lei n. 10.826/03, na forma do art. 69, caput, do Código Penal.
+Nas razões deste writ, busca a defesa seja reduzida a pena-base.
+Instado a se manifestar, o Ministério Público Federal opinou pela concessão da ordem, consoante parecer assim ementado (fl. 257):
+HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. EXASPERAÇÃO DA PENA-BASE. ÍNFIMA QUANTIDADE APREENDIDA. AUMENTO DESPROPORCIONAL. REINCIDÊNCIA. FRAÇÃO DE 1/6. PRECEDENTES.
+PARECER PELO NÃO CONHECIMENTO, PORÉM COM REQUERIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO.
+Decido.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juízo singular destacou circunstâncias que autorizariam o recrudescimento da pena-base; ao sentenciar o feito, aduziu o seguinte: (fls. 59-74):
+Observando a quantidade da droga, (art.42 da Lei nº 11.343/2006), constata-se que o réu guardava 460 gramas de maconha, em 1 tablete. Portanto, essa circunstância é desfavorável ao réu, de modo que pena-base deve ser aumentada em virtude da grande quantidade de maconha apreendida em poder do réu.
+Não se desconhece que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, apesar da diversidade e natureza das substâncias apreendidas constituírem, de fato, elementos preponderantes a ser considerados na dosimetria da reprimenda, foi apreendida quantidade não foi excessiva de drogas de natureza menos deletéria: 460 g de maconha. Portanto, mostra-se manifestamente desproporcional sopesar, no caso ora analisado, tais circunstâncias para justificar a exasperação da pena-base.
+Entendo, na verdade, que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento externado no AgRg no REsp n. 1.448.529/RJ, de relatoria da Ministra Maria Thereza de Assis Moura (DJe 23/4/2015).
+Nesse contexto, deve a ordem ser concedida, a fim de afastar a majoração da reprimenda pela quantidade de drogas. Fixo, portanto, a pena-base no mínimo legal: em 5 anos de reclusão e pagamento de 500 dias multa.
+II. Nova dosimetria
+Na primeira fase, a sanção fica estabelecida em 5 anos de reclusão e pagamento de 500 dias-multa. Na segunda, majoro a reprimenda em 1/6 em razão da reincidência, atingindo 5 anos e 10 meses de reclusão e 583 dias-multa. Na terceira etapa, ausentes causas de aumento e de diminuição, torno a pena do réu definitivamente estabelecida em 5 anos e 10 meses de reclusão e 583 dias-multa, mantido o regime fechado, em razão da reincidência.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de reduzir a pena-base do condenado ao mínimo legal; torno, portanto, a sanção do réu em relação ao tráfico definitiva em 5 anos e 10 meses de reclusão, no regime fechado, e 583 dias-multa.
+Comunique-se, com urgência, o in teiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
