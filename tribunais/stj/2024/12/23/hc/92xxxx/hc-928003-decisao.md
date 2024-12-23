@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de JEAN CLEBER DA SILVA CUSTODIO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0005272-84.2024.8.26.0502).
+Os autos dão conta de que o Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Campinas - DEECRIM 4ª RAJ indeferiu o pedido de concessão de livramento condicional (e-STJ fls. 31/32).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão de e-STJ fls. 38/41 (sem ementa).
+No presente writ, a defesa alega, em síntese, que o paciente preenche os requisitos objetivo e subjetivo para concessão do livramento condicional uma vez que possui atestado de bom comportamento carcerário e a negativa do benefício foi fundamentada em falta grave antiga, ocorrida em 2018, já reabilitada em 2019.
+Por isso, requer, inclusive liminarmente, a concessão da ordem a fim de que seja concedido o livramento condicional ao paciente.
+Liminar indeferida (e-STJ fls. 44/45).
+Informações prestadas (e-STJ fls. 50/53).
+Parecer do Ministério Público Federal "pelo não conhecimento do habeas corpus e, diante da ausência de ilegalidade, pela não concessão da ordem de ofício" (e-STJ fl. 62).
+É o relatório.
+Decido.
+Segundo o disposto nos artigos 131 da Lei de Execução Penal e 83 do Código Penal, com as alterações trazidas pela Lei 13.964/2019, conhecida como Pacote Anticrime, para que o reeducando tenha direito ao livramento condicional é necessário o preenchimento dos requisitos objetivo e subjetivo.
+O requisito subjetivo é aferido por meio de atestado de bom comportamento carcerário, expedido pelo diretor do estabelecimento no qual o condenado cumpre sanção privativa de liberdade. No entanto, pela jurisprudência desta Corte, o magistrado pode indeferir o livramento condicional quando, a despeito de o reeducando apresentar bom comportamento carcerário, a situação fática demonstrar ausência de mérito do sentenciado.
+No caso dos autos, o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, consignando, para tanto, que (e-STJ fls. 40/41):
+Da leitura do arrazoado recursal depreende-se que os pontos controvertidos restaram cabalmente analisados pelo E. Juízo a quo, inexistindo na argumentação proficientemente expendida pelos doutos recorrentes matéria de direito ou alegações não abrangidas pelo édito monocrático.
+Impende, em adição, registrar que o reeducando é protagonista de dois roubos circunstanciados, três furtos qualificados (dois deles em continuidade delitiva) e falsa identidade, tem o término de expiação previsto para 16.06.2033 e ostenta três faltas disciplinares, duas de natureza grave  consistentes em "USO DE NOME FALSO" aos 27.01.2016 e "NÃO RETORNO SAÍDA TEMPORÁRIA" em 14.05.2018 (fls. 12)  e outra média  "BURLAR A VIGILÂNCIA" na data de 28.06.2018 (idem) . Não bastasse, Jean Cleber perpetrou um dos roubos majorados em 20.05.2021, quando em gozo de regime aberto, na modalidade prisão albergue-domiciliar (fls. 10 e 17).
+Enfim, como se nota, a despeito de o insurgente não ter cometido "falta grave nos últimos 12 (doze) meses"  à luz do artigo 83, inciso III, alínea b, do Código Penal - ensejando, inclusive, a expedição de atestado de bom comportamento carcerário (cf. fls.08) , inexiste - não é possível questionar - comportamento satisfatório durante a execução da pena (alínea a do mencionado dispositivo legal).
+Diante disso, preserva-se por seus próprios sustentáculos a r. sentença de primeiro grau, ficando adotados, ratificados e expressamente incorporados, também como fundamento deste acórdão, os motivos inteligentemente nela deduzidos (grifos acrescidos).
+As premissas para indeferimento do livramento condicional estão, portanto, em consonância com a jurisprudência desta Corte, v.g.:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTAS DISCIPLINARES GRAVES. DECISÃO DEVIDAMENTE FUNDAMENTADA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.
+3. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+4. O afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+5. Habeas corpus não conhecido.
+(HC n. 718.890/SP, relator o Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/3/2022, DJe de 21/3/2022, grifos acrescidos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83 DO CP. NOVA REDAÇÃO DADA PELA LEI ANTICRIME. REQUISITO SUBJETIVO. FALTA DISCIPLINAR DE NATUREZA GRAVE. TRANSCURSO DE MAIS DE 12 MESES DA OCORRÊNCIA. IRRELEVÂNCIA. NECESSIDADE DE COMPORTAMENTO SATISFATÓRIO DURANTE O RESGATE DA PENA. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A Corte a quo constatou a carência do preenchimento de requisito subjetivo necessário à obtenção do livramento condicional, destacando que o sentenciado praticou falta grave, consistente no cometimento de novo delito no curso da execução da pena.
+2. O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+3. O afastamento dos fundamentos utilizados quanto ao mérito subjetivo do paciente para concluir ter ele demonstrado assimilação à terapêutica penal demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 718.066/RS, relator o Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/5/2022, DJe de 9/5/2022, grifos acrescidos).
+Ademais, como se pode extrair dos precedentes acima colacionados, desconstituir a conclusão a que chegaram as instâncias ordinárias quanto à ausência do requisito subjetivo demandaria amplo revolvimento de questões fático-probatórias, inviável no habeas corpus.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
