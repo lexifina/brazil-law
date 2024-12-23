@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de CARLOS EDUARDO DOS SANTOS JUNIOR - condenado como incurso no crime de roubo majorado -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1509572-67.2021.8.26.0066), não comporta acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 2ª V ara Criminal da comarca de Barretos/SP, ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de outras provas suficientes para a comprovação da autoria delitiva.
+Ocorre que, além de se tratar de writ destinado a revisar condenação transitada em julgado, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois o reconhecimento (fotográfico e pessoal), ainda que, por ventura, contenha algum vício, não se afigura como um único elemento probatório que lastreia a denúncia, que se encontra amparada em outras provas independentes (independent source), reclamando-se, assim, a aplicação da ressalva contida no próprio leading case da Sexta Turma desta Corte, firmado no julgamento do HC n. 598.886/SC (AgRg no HC n. 779.678/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/11/2022).
+No ca so, a Corte estadual destacou que (fl. 23 - grifo nosso):
+ ..
+A vítima compareceu à delegacia, relatou os fatos detalhadamente e descreveu as características físicas dos assaltantes, ocasião em que o investigador de polícia lhe mostrou 12 diferentes fotografias de indivíduos que possuíam semelhanças físicas, sendo que o ofendido sequer sabia que os autores do roubo estavam entre as fotos. Ao analisá-las, prontamente apontou os dois apelantes como os roubadores. Veja-se que, no tocante ao apelante CARLOS, as tatuagens que têm na mão facilitaram seu reconhecimento (tendo o ofendido dito que pareciam ser uma flor, o que foi confirmado pelo agente, que detalhou que o apelante CARLOS tinha em suas mãos tatuagem em tons de vermelho que se assemelhavam a pétalas). Assim, a despeito da tentativa da defesa de invalidar a prova, o fato de a vítima não ter descrito com detalhes a referida tatuagem, não macula o reconhecimento, sendo que o próprio recorrente confirmou que tem tatuagens por praticamente todo o corpo.
+ ..
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. RECONHECIMENTO PESSOAL. ALEGAÇÃO DA EXISTÊNCIA DE VÍCIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
