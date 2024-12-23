@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ILGA FOSCH contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu o recurso especial dirigido contra o acórdão assim ementado (fl. 41):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS FIXADOS NA AÇÃO COLETIVA DE CONHECIMENTO. EXECUÇÃO FRACIONADA. DESCABIMENTO. HONORÁRIOS RELATIVOS AO CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. CABIMENTO.
+1. É indevida a cobrança dos honorários sucumbenciais da ação coletiva nos autos do cumprimento de sentença manejado individualmente por servidor público substituído na ação de conhecimento, uma vez que os honorários advocatícios constituem crédito autônomo, uno e indivisível, sendo vedado o seu fracionamento.
+2. Tratando-se de Cumprimento de Sentença oriundo de ação coletiva, seja o valor executado submetido ao regime de Precatório, seja requisitado por RPV, incidem honorários advocatícios, mesmo que não impugnado, conforme enunciado da Súmula nº 133 deste TRF4 e Tema 973 do STJ (REsp 1.650.588).
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 67-68).
+Reiterados os aclaratórios, foi dado provimento exclusivamente para fim de prequestionamento (fls. 87-89).
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte ora agravante aponta violação do art. 1.022, inciso II, do CPC, sustentando a falta de manifestação, na decisão recorrida, sobre a distinção do caso relatado nestes autos e o conteúdo do Tema n. 1.142 do STF.
+Suscita, ainda, ofensa aos arts. 141, 492, 503, 505, 507 e 508 do CPC, no que diz respeito à inexistência de fracionamento de honorários advocatícios, fixados na fase conhecimento, por distinção com o decidido n o Tema n. 1.142 do STF e à violação da coisa julgada, já que preclusa a discussão da verba honorária.
+Requer, assim, o provimento ao recurso especial (fls. 97-112).
+Contrarrazões às fls. 118-120.
+O apelo nobre foi inadmitido na origem, devido devido à confluência de entendimento jurisprudencial da Suprema Corte com o teor do acórdão recorrido, não havendo omissão, e à incidência das Súmulas n. 5 e 7 do STJ (fls. 123-125).
+Razões do agravo em recurso especial nas fls. 133-141.
+Apresentada contraminuta ao agravo (154-156).
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+Na origem, agravo de instrumento em cumprimento de sentença individual de ação coletiva interposto pelo Instituto Nacional do Seguro Social contra Ilga Fosch, argumentando que (fl. 42):
+ ..  é indevida a inclusão dos honorários advocatícios de sucumbência fixados na ação coletiva de conhecimento que originou o título exequendo. Sustenta que não é cabível o fracionamento da execução, conforme entendimento consolidado no julgamento do Tema nº 1142/STF. Insurge-se, também, quanto à fixação da verba honorária em razão do cumprimento de sentença. Refere que o ente público submete-se ao regime dos precatórios. Argumenta que a fixação dos honorários advocatícios em sede de cumprimento de sentença contra a Fazenda Pública decorre da rejeição de impugnação eventualmente apresentada. Afirma o não cabimento de honorários advocatícios de cumprimento de sentença no caso de execução não impugnada.
+A Corte de origem não admitiu o apelo nobre pelos seguintes fundamentos (fls. 123-124):
+Em que pese a alegação de afronta ao art. 1.022 do Novo CPC, tendo em conta a ausência de suprimento da omissão indicada nos embargos declaratórios - ainda que opostos para efeito de prequestionamento - cumpre observar, quanto à questão de fundo, que o presente recurso não reúne as necessárias condições de admissibilidade, tornando despiciendo o exame da violação, em tese, ao apontado dispositivo infraconstitucional.
+O Superior Tribunal de Justiça e/ou o Supremo Tribunal Federal, ao apreciar(em) recurso(s) submetido(s) à sistemática dos recursos repetitivos e/ou da repercussão geral, fixou(aram) a(s) seguinte(s) tese(s):
+Tema STF 1142 - Os honorários advocatícios constituem crédito único e indivisível, de modo que o fracionamento da execução de honorários advocatícios sucumbenciais fixados em ação coletiva contra a Fazenda Pública, proporcionalmente às execuções individuais de cada beneficiário, viola o § 8º do artigo 100 da Constituição Federal.
+Em relação à(s) matéria(s), o Órgão julgador desta Corte decidiu a hipótese apresentada nos autos em consonância com o entendimento do(s) referido(s) Tribunal(is). Por sua vez, em atenção à sistemática prevista nos arts. 1.030, I, e 1.040, I, do CPC/2015, deve ser negado seguimento a recurso especial interposto contra acórdão que esteja em conformidade com a orientação firmada pelo STJ e/ou pelo STF em regime de recursos repetitivos e/ou de repercussão geral.
+ ..
+No remanescente, tendo em vista que a análise da questão invocada revela a necessidade de reapreciação de interpretação de cláusulas contratuais, a insurgência encontra óbice na súmula 05 do STJ: "A simples interpretação de cláusula contratual não enseja recurso especial".
+ ..
+Ademais, a questão suscitada implica inevitável revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+Entretanto, a parte ora agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à incidência dos óbices das Súmula n. 5 e 7 do STJ.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 932 do CPC, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. HORÁRIOS ADVOCATÍCIOS. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
