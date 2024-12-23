@@ -1,0 +1,14 @@
+DECISÃO
+Neste writ , impugna-se a decisão monocrática do Desembargador Relator do HC n. 2387011-23.2024.8.26.0000, que indeferiu liminarmente o habeas corpus ajuizado no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em favor de GUILHERME FERNANDO GIRALDELLI PAIXAO (fls. 180/186).
+Argumenta-se que, tratando-se de réu primário, bom comportamento carcerário e com reprimenda de 5 (cinco) anos e 10 (dez) meses com cumprimento em regime inicial semiaberto, não há que se falar em necessidade do cumprimento de 1/6 da pena para fazer jus ao benefício da saída temporária (fl. 7).
+Requer-se, liminar e no mérito, que seja afastado do cálculo de pena a necessidade do cumprimento de 1/6 da pena para concessão do direito á saída temporária, bem como, seja determinada a inclusão do Executado na lista da próxima saída temporária que ocorrerá no dia 23/12/2024 (fl. 10).
+É o relatório.
+Este habeas corpus foi impetrado contra decisão terminativa, monocrática, proferida no Tribunal local, para a qual há previsão legal de interposição de recurso interno a ser submetido ao Colegiado competente, na mesma instância.
+Ora, ausente a interposição de agravo regimental a fim de submeter a decisão unipessoal e a questão ao órgão colegiado a quo, exaurindo a instância antecedente, não cabe a análise da controvérsia por esta Corte Superior. A esse respeito, entre outros, os seguintes precedentes: AgRg no HC n. 659.332/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 17/5/2021; AgRg no HC n. 625.731/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020; AgRg no HC 509.051/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/6/2019; RCD no HC n. 447.287/SP, de minha relatoria, Sexta Turma, DJe 29/5/2018; e AgRg no HC n. 645.300/GO, Ministro Reynaldo Soares da Fonseca, DJe 15/3/2021.
+Afora isso, a hipótese não revela inquestionável teratologia nem ilegalidade manifesta.
+Com efeito, nos termos da jurisprudência desta Casa, para a concessão de saída temporária, é indispensável o adimplemento do requisito objetivo, ainda que o cumprimento da pena tenha se iniciado no regime semiaberto. Nesse sentido: AgRg no HC n. 550.844/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 17/12/2019, DJe 4/2/2020; e AgRg no HC n. 761.151/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe 17/3/2023.
+P elo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA. DESCABIMENTO. INSTÂNCIA ANTECEDENTE NÃO EXAURIDA. ANÁLISE DO MÉRITO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. PRECEDENTES. SAÍDA TEMPORÁRIA. REQUISITO OBJETIVO. NECESSIDADE DO ADIMPLEMENTO DE 1/6 DA PENA, AINDA QUE O CUMPRIMENTO DA REPRIMENDA TENHA SE INICIADO NO REGIME SEMIABERTO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição indeferida liminarmente.
