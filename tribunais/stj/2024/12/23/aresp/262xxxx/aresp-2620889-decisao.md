@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo do MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido no julgamento de Embargos de Declaração no Habeas Corpus n. 5784236-13.2023.8.09.0036.
+Consta dos autos que o agravado foi condenado pela prática do delito tipificado no art. 121, § 2º, II, do Código Penal (homicídio qualificado pelo motivo fútil), à pena de 15 anos de reclusão, em regime inicial fechado, com execução provisória da pena (fls. 68/69).
+Habeas corpus impetrado pela defesa foi conhecido em parte para concessão da ordem de direito de aguardar em liberdade o trânsito em julgado (fl. 180). O acórdão ficou assim ementado:
+"EMENTA: HABEAS CORPUS. HOMICÍDIO QUALIFICADO. I - DIREITO DE RECORRER EM LIBERDADE. ACOLHIMENTO. O decreto de prisão está calcado, exclusivamente, no entendimento de que seria possível a execução provisória da pena, ante o veredicto condenatório proferido pelo Tribunal do Júri. No entanto, configura constrangimento ilegal a sentença que nega ao réu o direito de recorrer em liberdade sem apontar fundamento idôneo para a prisão cautelar, mormente que permaneceu solto durante toda a instrução criminal. Além disso, a execução provisória da pena, com base no art. 492, inc. I, alínea "e" do CPP, é objeto de Repercussão Geral, Tema 1.068, nos autos do RE N. 1235340, ainda pendente de resolução e enquanto não dirimida a questão dever ser observado o princípio da presunção da inocência. II - RECONHECIMENTO DE NULIDADE DA SESSÃO PLENÁRIA DO JÚRI. NÃO CONHECIMENTO. Incomportável a análise da matéria nos limites estreitos deste remédio heroico, mormente porque já interposto recurso de apelação, por meio do qual a análise da insurgência aventada será melhor avaliada. Ademais, conquanto relevantes os argumentos trazidos com a impetração, nota-se, a teor do disposto no art. 563 do Código de Processo Penal, que o writ não trouxe comprovação pré-constituída de efetivo prejuízo à defesa pelo motivo alegado, afastando, dessa forma, qualquer vício capaz de contaminar o ato judicial questionado. ORDEM PARCIALMENTE CONHECIDA E, NESTA PARTE, CONCEDIDA." (fls. 180/181)
+Embargos de declaração opostos pela acusação foram desprovidos, conforme acórdão de fls. 214/220.
+Em sede de recurso especial (fls. 225/246), o MPE apontou violação ao arts. 312, 492, I, "e", e 619, todos do CPP, porque o TJGO determinou a soltura do agravado por considerar execução antecipada da pena incompatível com a presunção de não culpabilidade, sem estarem presentes os requisitos da prisão preventiva. Entende que a execução provisória da pena decorre de disposição legal, conforme a soberania dos vereditos, não se confundindo com prisão preventiva. Acresce que o TJGO se omitiu acerca da presunção de constitucionalidade e da diferenciação com a prisão preventiva.
+Requer seja restabelecida a ordem de prisão.
+Contrarrazões (fls. 275/282).
+O recurso especial foi inadmitido no TJGO em razão de: a) ausência de violação ao art. 619 do CPP; e b) óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 296/298).
+Em agravo em recurso especial, o MPE impugnou os referidos óbices (fls. 308/323).
+Contraminuta (fls. 340/347).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial (fls. 367/372).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS conferiu ao agravado o direito de aguardar em liberdade o trânsito em julgado da sentença penal condenatória nos seguintes termos do voto do relator:
+"I - DIREITO DE RECORRER EM LIBERDADE
+Depreende-se dos documentos acostados na movimentação 01, arquivo 09, páginas 67/71 que o paciente, preso no dia 21 de novembro de 2023 (ver movimentação 128, arquivo 02, pág. 224 do feito principal), foi denunciado, pronunciado e condenado pela prática do crime previsto no art. 121, § 2º, inc. II do Código Penal, à pena de 15 (quinze) anos de reclusão, em regime inicial fechado, sem direito de recorrer em liberdade.
+Os impetrantes, na exordial, discorrem sobre a desnecessidade da prisão cautelar, uma vez que Antônio Luiz de Moura permaneceu solto durante a instrução criminal. Reforçam que o decisum que decretou a prisão preventiva está carente de fundamentação idônea.
+Relativamente ao início imediato de cumprimento de pena, a sentença penal condenatória foi motivada nos seguintes termos:
+"Fixo a pena-base em 15 anos de reclusão. Deixo de acolher a confissão espontânea do réu, por se tratar de confissão qualificada, quando declarado pelo réu que a vítima teria lhe subtraído uma importância em dinheiro e também lhe chamado de corno, motivos que seriam determinantes para ceifar-lhe a vida. Tais fatos não restaram demonstrados no curso da instrução, o que afasta a fidelidade da confissão. Ausentes atenuantes, agravantes, causa de aumento ou diminuição de pena, o que determina o quantum definitivo da pena aplicada no limite de sua fixação inicial.
+Aplicado na espécie a norma expressa do artigo 492, inciso I, "e", 2ª parte, do Código de Processo Penal, que determina a execução provisória da pena, sem prejuízo do conhecimento de recursos que vierem a ser interpostos.
+No caso, o fundamento da exequibilidade imediata das decisões tomadas pelos jurados encontra supedâneo ao texto constitucional.
+Conforme julgado da lavra do Ministro Luís Roberto Barroso acerca da matéria, que deu interpretação conforme a Constituição, com redução de texto, para excluir a limitação de quinze anos de reclusão contida nos dispositivos do artigo 492 supracitado, com a redação dada pela Lei nº 13.964/19. Consoante esse entendimento, aplicável, portanto, a exequibilidade imediata independentemente do quantum da pena aplicada. (..)
+Assim sendo, decreto a prisão do réu ANTÔNIO LUIZ DE MOURA, consoante o disposto no artigo 492, inciso I, "e", do Código de Processo Penal. Expeça-se mandado de prisão." (Movimentação 123, arquivo 02, páginas 192/193 da ação penal n. 0133768-39.2010.8.09.0036).
+De fato, o paciente faz jus ao direito de aguardar em liberdade o trânsito em julgado da sentença penal condenatória.
+Segundo o art. 387, § 1º do Código de Processo Penal, o Juiz deve fundamentar a decretação ou a manutenção da custódia, por ocasião da sentença condenatória. Dessa forma, deve ser demonstrada, nessa fase, com base em dados concretos dos autos, a existência de, pelo menos, um dos fundamentos da prisão preventiva previstos no art. 312 do Código de Processo Penal.
+Consoante acima transcrito, o decreto de prisão está calcado na possibilidade da execução provisória da pena, ante o veredicto condenatório proferido pelo Tribunal do Júri. Ocorre que a constitucionalidade do dispositivo que ampara tal entendimento é objeto de Repercussão Geral, Tema 1.068, nos autos do RE n. 1235340, ainda pendente de resolução.
+Destaca-se que não se pretende aqui reconhecer ou não a constitucionalidade de tal dispositivo, até porque tal questão já está em discussão na Corte Suprema, de modo que, enquanto não dirimida lá, filio-me a corrente jurisprudencial de que não se admite a execução imediata de condenação pelo Tribunal do Júri.
+Nesse toar, cabe salientar que existe precedente posterior da Segunda Turma do Supremo Tribunal Federal julgando pela impossibilidade da execução provisória da pena, mesmo em caso de condenação pelo Tribunal do Júri (STF, Segunda Turma, HC n. 163.814 ED/MG, Min. Gilmar Mendes, julgado em 19/11/2019).
+O art. 492, inc. I do Código de Processo Penal é questão controversa e parece ferir frontalmente o art. 5º, inc. LVII da Constituição Federal, que assegura expressamente que "ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória".
+Sobre o assunto, colaciono julgados da Superior Tribunal de Justiça:
+ ..
+Ademais, vale reforçar que o Plenário do Supremo Tribunal Federal, no julgamento das A Dcs 43 e 44, firmou entendimento no sentido de permitir a execução da pena somente após confirmação da condenação em segunda instância. Na hipótese, o recurso interposto pela defesa ainda está na fase de processualização.
+O Superior Tribunal de Justiça reiteradamente tem destacado a excepcionalidade das prisões preventivas, somente podendo ser decretadas ou mantidas com base em elementos concretos que indiquem a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+Ainda que haja condenação, a prisão antecipada não perde o caráter de cautelaridade, adstrita, portanto, aos requisitos do art. 312 do Código de Processo Penal, o que, no caso, não ficou demonstrado.
+Vale destacar, que o paciente encontra-se em liberdade desde 13/09/2010, conforme alvará de soltura presente na movimentação 03, arquivo 02, pág. 204 do feito principal, ou seja, por mais de treze anos, não tendo sido apresentado nenhum fato novo ou contemporâneo que justifique o seu encarceramento.
+Sendo assim, não é possível extrair da decisão conduta do paciente que indique possibilidade de violação da ordem pública, da ordem econômica ou que implique perigo para a aplicação da lei penal, até mesmo por ter respondido o processo em liberdade e comparecido à sessão de julgamento.
+Ora, sabe-se que, segundo recente alteração legislativa, decorrente do prefalado "pacote anticrime", faz-se imprescindível que a medida constritiva seja fundamentada em fatos novos ou contemporâneos.
+Ressalta-se que, antes mesmo da alteração legal, o Superior Tribunal de Justiça já possuía entendimento no sentido de que a urgência intrínseca às cautelares exige a contemporaneidade dos fatos justificadores dos riscos que se pretende evitar com a segregação processual (6ª Turma, HC n. 529.837/SP, Rel. Min. Rogério Schietti Cruz, D Je 29/11/2019).
+Feitas tais considerações, não há fundamento idôneo que autorize a custódia cautelar, devendo ser garantido, ao sentenciado, o direito de recorrer em liberdade.
+Dessa forma, ante a carência de fundamentação da decisão em fatos indicativos da medida excepcional em desfavor do paciente, que foi solto em 13/09/2010, mostra-se evidente o constrangimento ilegal a ser corrigido pela via eleita." (fls. 174/179)
+Extrai-se do trecho acima que o Tribunal goiano afastou a execução da pena de 15 anos em razão de condenação pelo Tribunal do júri por entender incompatível com a ordem constitucional, seguindo precedentes do STJ, bem como por não verificar a necessidade de prisão preventiva.
+Tal entendimento não mais encontra amparo na jurisprudência desta Corte, pois o STF julgou constitucional o art. 492, I, "e", do CPP, sendo irrelevante a análise dos requisitos do art. 312 do CPP. Precedentes:
+DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DA PENA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo a execução provisória da pena de 19 anos de reclusão por homicídio qualificado, com base no art. 492, I, "e", do CPP. A defesa alega constrangimento ilegal pela falta de fundamentação na decretação da prisão preventiva e sugere medidas cautelares alternativas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste na possibilidade de execução provisória da pena imposta pelo Tribunal do Júri, mesmo com recurso pendente, à luz do art. 492, I, "e", do CPP e da presunção de inocência.
+III. RAZÕES DE DECIDIR
+3. A decisão de execução provisória da pena está fundamentada no quantum da pena e na soberania dos veredictos do Tribunal do Júri.
+4. O STF, no julgamento do RE nº 1.235.340/SC, formou maioria para permitir a execução imediata da condenação pelo Tribunal do Júri, não violando a presunção de inocência.
+5. A jurisprudência do STJ confirma a validade do art. 492, I, "e", do CPP, não havendo declaração de inconstitucionalidade.
+IV. DISPOSITIVO
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 199.912/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. PACIENTE CONDENADO PELO TRIBUNAL DO JÚRI. EXECUÇÃO PROVISÓRIA DA
+SENTENÇA CONDENATÓRIA (ART. 492, I, e DO CPP). POSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA 1.068 DA REPERCUSSÃO GERAL JULGADO PELA SUPREMA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. LIMINAR REVOGADA. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Caso em que o magistrado Presidente do Tribunal do Júri, ao proferir a sentença, determinou a prisão do réu com base na regra prevista no art. 492, I, e, do Código de Processo Penal, que estabelece a execução provisória das sentenças do Tribunal do Júri.
+Ausência de constrangimento ilegal.
+3. O plenário do Supremo Tribunal, por maioria de votos, apreciando o tema 1.068 da repercussão geral, "deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados" e fixou a seguinte tese:
+"A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+4. Habeas corpus não conhecido. Liminar revogada.
+(HC n. 913.224/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.)
+Ficam prejudicadas as demais alegações.
+Ante o exposto, conheço do agravo para conhecer, em parte, do recurso especial e, com fundamento na Súmula n. 568 do STJ, dar-lhe provimento para revogar a ordem concedida no acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
