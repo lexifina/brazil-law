@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MURILO BARBOSA DA SILVA contra acórdão assim ementado (e-STJ fl. 10):
+RECURSO EM SENTIDO ESTRITO Decisão que indeferiu o pedido de indulto efetuado pela defesa Insurgência do réu Descabimento Indulto que estabelece causa de extinção de punibilidade Indulto que deve ser concedido para pessoas já condenadas até a data da publicação do correspondente Decreto Decreto n. 11.302/2022 que foi concedido às pessoas condenadas, não havendo previsão de contemplação de casos futuros Precedentes. Recurso em sentido estrito não provido.
+O paciente foi condenado às penas de 01 ano e 08 meses de reclusão, em regime inicial aberto, e pagamento de 166 dias-multa, no valor unitário mínimo; substituída a pena privativa de liberdade por duas restritivas de direitos consistentes em prestação de serviços à comunidade em entidades a serem indicadas pelo juízo da execução e prestação pecuniária no valor 01 salário mínimo também em favor de entidades a serem indicadas pelo juízo da execução, pela prática do delito previsto no art. 33, caput, da Lei 11.343/2006 (e-STJ fls. 39-40).
+A defesa alega, em síntese, a ocorrência de constrangimento ilegal, ante a ausência de fundamentação idônea para o indeferimento do pedido de indulto natalino; Aduz que o paciente foi condenado pelo crime de tráfico privilegiado; o paciente preenche os requisitos para concessão do indulto; Aduz, ainda, que artigo 7º, inciso VI, do Decreto n. 11.302/22, de 22/12/2022, excetua o delito previsto no artigo 33, §4º, da Lei n. 11.343/06, deixando expresso que em tal hipótese é cabível o indulto. Ressalta que o Tribunal negou, sob o argumento de que no caso concreto, a sentença condenatória foi publicada em 23/11/2023 e o trânsito em julgado ocorreu em 04/12/2023 (fl. 260 dos autos de origem), isso, mesmo os fatos sendo do ano de 2020 (fl. 18).
+Ao final, requer a concessão da ordem para que seja declarada a extinção da punibilidade, e que o paciente preenche os requisitos para concessão do indulto.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023)."
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+O art. 5º do Decreto n. 11.302/2022 restringe a aplicação do indulto aos indivíduo condenados, ou seja, que estão cumprindo pena:
+Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+No que tange à concessão do indulto, assim entendeu o Tribunal de origem (e-STJ fls. 10-12):
+Concedido por ato normativo de competência do Presidente da República, nos termos do artigo 84, XII, da Constituição, o indulto estabelece causa de extinção da punibilidade, podendo ser individual ou coletivo.
+Ocorre, no entanto, que o indulto deve ser concedido para pessoas já condenadas até a data da publicação do correspondente Decreto, aplicando-se a quem preencha os requisitos impostos, não podendo abranger situações futuras.
+ ..
+No caso concreto, a sentença condenatória foi publicada em 23/11/2023 e o trânsito em julgado ocorreu em 04/12/2023 (fl. 260 dos autos de origem).
+Assim, não se mostra possível conceder o benefício ao paciente, tendo em vista que sua condenação e trânsito em julgado foram posteriormente à edição do decreto de indulto de 2022, publicado em 22/12/2022.
+Como se vê do excerto, o Tribunal de origem destacou corretamente que a sentença condenatória do paciente foi publicada em 23/11/2023 e o trânsito em julgado ocorreu em 04/12/2023, não sendo possível a concessão do benefício, tendo em vista que sua condenação foi posteriormente à edição do decreto de indulto de 2022, publicado em 22/12/2022.
+Desse modo, não se mostra possível conceder o benefício ao paciente, tendo em vista que sua condenação se deu em 04/12/2023 (fl. 12), posteriormente à edição do decreto de indulto de 2022.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
