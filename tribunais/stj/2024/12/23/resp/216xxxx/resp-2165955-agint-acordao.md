@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Ausente, justificadamente, o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CNEN. PARÂMETRO DE CÁLCULO. GRATIFICAÇÃO POR RAIO X E A IRRADIAÇÃO IONIZANTE NA BASE DE CÁLCULO DAS HORAS EXTRAS NÃO CONTEMPLADO NO TÍTULO TRANSITADO EM JULGADO. OMISSÃO DA DECISÃO DO TRIBUNAL DE ORIGEM. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento com pedido de efeito suspensivo. Na decisão o pedido foi julgado parcialmente procedente. Nesta Corte, o recurso especial foi provido.
+II - De fato, foi apreesentada questão jurídica relevante, qual seja, a exclusão dos meses trabalhados remotamente em decorrência da pandemia de COVID-19 e a compensação do pagamento de horas extras já realizado. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+III - Correta a decisão que deu provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou pelo conhecimento do agravo em recurso especial para da provimento ao recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a qu o a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Trata-se de fase de cumprimento de sentença onde o Tribunal a quo resolveu por modificar a decisão apenas para retirar a gratificação de raios-x e o pagamento do adicional de radiação ionizante dos cálculos das horas extras, decorrentes da alteração da jornada de 40h para 24h. A Recorrente, ora Agravada, interpôs recurso especial alegando que não teria sido analisado o pedido de exclusão do período da COVID do pagamento e o da compensação das horas. Contudo, consoante se depreende do voto abaixo, é INEQUÍVOCA a apreciação dessas duas questões pelo Ev. 43 VOTO2 (fls. 295/306 e-STJ), onde o Relator do agravo de instrumento em referência se debruçou minuciosamente, debatendo o tema com os seus pares, mas, acabou sendo VENCIDO quanto a ambas as questões. Assim, o julgamento do Colegiado foi, por maioria, no sentido de que a CNEN não deveria ter sucesso quanto a elas.
+ ..
+Dessa forma, o v. acórdão decidiu POR MAIORIA em dar PARCIAL provimento ao agravo de instrumento da CNEN após análise mais criteriosa sobre as duas questões objeto do Recurso Especial. Ocorreu que, a MAIORIA dos Exmos. Desembargadores Federais acabou DIVERGINDO do Relator quanto a ambos os temas, pois a COISA JULGADA analisada corretamente por eles já previa o pagamento desde a r. sentença, pelo que NÃO houve a alegada omissão capaz de gerar a nulidade equivocadamente concedida pela r. decisão monocrática de fls. 428/431 e-STJ.
+ ..
+Essa conduta da CNEN em alegar supostas omissões para ver seu recurso especial perpetuando processos e, com isso, postergar o pagamento devido ao seu servidor, tem sido useira e vezeira. O recurso especial não contém fundamento por se basear em premissa inexistente de omissão que nunca ocorreu no caso concreto dos autos, conforme demonstrado pelos votos acima transcritos. No que concerne à alegação de que o servidor não deveria receber qualquer quantia no período da pandemia, tendo em vista que não teria ficado exposto a tais substâncias, nota-se que o agravado acostou ao feito declaração assinada pelo chefe imediato informando que o recorrido trabalhou efetivamente de forma presencial, além das folhas de ponto igualmente comprovarem o labor in loco no período de março a agosto de 2020. No que concerne à alegação de que já teria havido o pagamento das horas extras, restou comprovado ausência de pagamento através dos contracheques juntados nos autos. Ressalta-se que adentrar nestes méritos é necessariamente ter que REANALISAR FATOS E PROVAS, o que é vedado pela Súmula 7, razão suficiente para negar provimento ao recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CNEN. PARÂMETRO DE CÁLCULO. GRATIFICAÇÃO POR RAIO X E A IRRADIAÇÃO IONIZANTE NA BASE DE CÁLCULO DAS HORAS EXTRAS NÃO CONTEMPLADO NO TÍTULO TRANSITADO EM JULGADO. OMISSÃO DA DECISÃO DO TRIBUNAL DE ORIGEM. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento com pedido de efeito suspensivo. Na decisão o pedido foi julgado parcialmente procedente. Nesta Corte, o recurso especial foi provido.
+II - De fato, foi apreesentada questão jurídica relevante, qual seja, a exclusão dos meses trabalhados remotamente em decorrência da pandemia de COVID-19 e a compensação do pagamento de horas extras já realizado. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+III - Correta a decisão que deu provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+De fato, foi apresentada questão jurídica relevante, qual seja, a exclusão dos meses trabalhados remotamente em decorrência da pandemia de COVID-19 e a compensação do pagamento de horas extras já realizado. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. OMISSÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CONSTATAÇÃO.
+CORREÇÃO NÃO EFETIVADA. DEVOLUÇÃO DOS AUTOS À ORIGEM. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, constatada a deficiência na fundamentação e/ou omissão, contradição, obscuridade ou erro material não sanado, impõe-se a devolução dos autos à Corte estadual, a fim de que realize novo julgamento dos embargos de declaração, corrigindo o vício atestado.
+2. No julgamento do agravo interno, demonstra-se incabível a fixação de honorários recursais.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1692326/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/02/2021, DJe 12/02/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TESE DE VIOLAÇÃO DO ART. 1.022 DO CPC. ACÓRDÃO QUE POSSUI FUNDAMENTAÇÃO GENÉRICA. OMISSÃO CONFIGURADA. DEVOLUÇÃO DOS AUTOS PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A omissão do órgão fracionário do Tribunal de Justiça do Estado do Rio Grande do Sul está configurada porque, conforme demonstrado na decisão monocrática, a observação (feita no acórdão da Apelação) de que a empresa não trouxe provas para demonstrar irregularidade ou nulidade no lançamento tributário - em tese apta a justificar o acórdão que rejeitou a pretensão recursal da sociedade empresarial - foi apresentada de modo genérico, sem fundamentação específica para infirmar a argumentação de que o conteúdo probatório não aponta o fato gerador da exação cobrada.
+2. De lembrar que a agravada, reportando-se à prova dos autos, informou à Corte estadual que o relatório de que se valeu o Tribunal de origem indica operações que, conforme reconhecido pelo próprio Fisco, não se encontram sujeitas à tributação, assim como operações que foram declaradas na GIA (o que afasta a possibilidade de que a empresa tenha sonegado informações a respeito). Da mesma forma, indicou a existência de premissa equivocada em relação à base de cálculo, dado que a soma indicada pela empresa (cerca de R$113.000, 00 - cento e treze mil reais) jamais conduziria a uma autuação que resultasse no lançamento de montante superior a R$16.000.000,00 (dezesseis milhões de reais).
+3. Como tais pontos não foram satisfatoriamente esclarecidos nas instâncias de origem, mesmo depois da oposição dos aclaratórios, há necessidade de devolução dos autos ao Tribunal a quo, diante da violação do art. 1.022 do CPC.
+4. Agravo Interno não provido.
+(AgInt no AgInt no REsp 1814285/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 30/11/2020, DJe 09/12/2020)
+Apesar do disposto no art. 1.025 do CPC/2015, que trata do prequestionamento ficto, permitindo que esta Corte analise a matéria cuja apreciação não se deu na instância a quo, em se tratando de matéria fático-probatória - tal qual a hipótese dos autos -, incabível fazê-lo neste momento, em razão do óbice sumular n. 7STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
