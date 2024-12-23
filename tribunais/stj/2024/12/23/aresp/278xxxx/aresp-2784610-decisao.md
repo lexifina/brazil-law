@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  agravo do MUNICÍPIO DE SÃO PAULO, em que objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJSP assim  ementado:
+AGRAVO DE INSTRUMENTO - Execução Fiscal - IPTU e multa do exercício de 2018 - Municipalidade de São Paulo Exceção de pré-executividade rejeitada pela decisão agravada - Registro de aquisição de propriedade decretado nulo pela Justiça Trabalhista - Embora fundado em fraude à execução, nulidade expressamente decretada - Fundamento da decisão não coberto pela coisa julgada (art. 792 do CPC) - Propriedade afastada em decorrência do reconhecimento da nulidade (art. 182 do CC) - Ilegitimidade passiva reconhecida - Exceção de pré-executividade acolhida - Recurso provido.
+No  especial,  a  parte  alega  violação  dos  arts. 32 e 34 do CTN, do art. 792 do CPC/2015 e do art. 1.245 do CC/2002.
+Aduz que o reconhecimento de fraude à execução só tem o condão de tornar sem efeito a alienação do bem em relação ao credor, não interferindo nas relações com os terceiros.
+Assim, defende que o reconhecimento da fraude à execução no juízo trabalhista apenas serviu para submeter o bem à satisfação do crédito na justiça do trabalho executado em desfavor do antigo proprietário, não alterando a titularidade da propriedade do bem.
+Por fim, sustenta que a alteração da propriedade apenas ocorre com o registro translativo no registro de imóveis, sendo válido o lançamento em desfavor do proprietário registral do bem.
+O recurso especial foi inadmitido aplicação do óbice da Súmula 7 do STJ, fundamento atacado no agravo.
+Passo a decidir.
+O apelo nobre se origina de agravo de instrumento contra decisão que não acolheu exceção de pré-executividade em que se discutia, entre outros temas, a ilegitimidade passiva do executado que alega não possuir, ao tempo do fato gerador, qualquer relação de direito real ou obrigacional sobre o imóvel desde a anulação do registro da propriedade em seu nome por decisão em ação trabalhista.
+O Tribunal bandeirante deu provimento ao a gravo de instrumento em acórdão com os seguintes fundamentos, anotados no que interessa:
+Depreende-se do registro que, em 1986, o imóvel matriculado sob o nº 5.029 junto ao 1º Cartório de Registro de Imóveis da Capital foi adquirido pela Studi o de Fotolito Litokromia Ltda. (cf. registro 14, fls. 17 dos autos de origem) a qual, em 2011, foi alvo de reclamação trabalhista (proc. 0000151-77.2011.5.02.0202).
+Em 2013, o imóvel foi adjudicado à Advocacia Benko Lopes S/C (cf. r. 19, fls. 18/19 ibidem), a qual, em 2015, deu o bem em pagamento a Ester Righetti Evangelista, ora agravante.
+Em 2017, o Tribunal Regional do Trabalho da 2ª Região decidiu pela nulidade do registro da transmissão do imóvel ao escritório de advocacia e deste à agravante (fls. 27/28 ibid.). Em 2018, foi determinado o registro dessa decisão (fls. 23 ibid.), o que foi realizado alguns meses depois (cf. registro nº 22, fls. 20 ibid.).
+Finalmente, em 28/01/2020, a Municipalidade de São Paulo ajuizou execução contra Ester Righetti Evangelista, cobrando R$ 78.223,00 em débitos de IPTU e multa do exercício de 2018.
+ ..
+Depreende-se do dispositivo da decisão que foi decretada a nulidade do registro nº 20, pelo qual a recorrente adquiriu o imóvel tributado.
+Embora se verifique que a nulidade tenha sido fundamentada no art. 792 do CPC, que regulamenta a fraude à execução e tem por conseqüência a ineficácia do ato, o dispositivo da decisão muito claramente decretou a nulidade do registro, que resulta na restituição das partes ao estado anterior com efeito "ex tunc" (cf. art. 182 do Código Civil, ".Anulado o negócio jurídico, restituir-se-ão as partes ao estado em que antes dele se achavam  .. ")
+Considerando que a coisa julgada atinge o dispositivo e não sua fundamentação (art. 504, inc. I, do CPC), considerando ainda que o registro do título de propriedade (registro nº 20, fls. 19 dos autos de origem) foi declarado nulo (cf. acórdão, fls. 25/28 ibidem, e registro nº 22, fls. 20 ibid.), conclui-se que a agravante efetivamente não deve ser considerada proprietária na data do fato gerador (01/01/2018), devendo ser reconhecida sua ilegitimidade passiva e extinta a execução relativamente a ela.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+Como relatado, o Tribunal estadual deu provimento ao agravo de instrumento consignando que a decisão proferida em ação trabalhista determinou o cancelamento dos registros translativos do bem imóvel com relação ao anterior adquirente e aos posteriores adquirentes do bem nas operações sucessivas, não sendo o executado o proprietário do bem no momento do fato gerador do IPTU ora executado .
+Quanto à alegação relativa aos efeitos do reconhecimento da fraude à execução, consignou que, no caso em tela, em que pese estar a decisão do Juízo trabalhista fundada no art. 792 do CPC/2015, o seu dispositivo decretou expressamente a nulidade dos registros translativos e o retorno das partes ao estado anterior com efeito "ex tunc".
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal a quo sobre a questão demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+ Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  NÃO  CONHECER  do  recurso  especial.
+Publique-se. Intimem-se.
+EMENTA
