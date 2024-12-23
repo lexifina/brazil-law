@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto pelo BANCO BRADESCO S/A contra decisão que não admitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que, em ação de recuperação judicial, manteve decisão que prorrogou o stay period e redesignou data para a realização da assembleia geral de credores, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. Recurso interposto em face de decisão interlocutória que prorrogou o stay period em recuperac ão judicial, e redesignou as datas para a realizac ão da assembleia geral de credores. Recuperação judicial que conta com milhares de credores e diversos incidentes. Poder de gestão do magistrado, a considerar a complexidade do procedimento e, ainda, a necessidade de atuação de diversos sujeitos, como administradores judiciais e leiloeiros, que se tornou ainda mais difícil durante a pandemia. Prorrogação plenamente compatível com o artigo 3º, da Recomendação n. 63 do CNJ, de 2020, que visa justamente a disciplinar o andamento das recuperações judiciais durante a pandemia da COVID-19. Atenção ao objetivo último de preservação e continuidade da empresa, na forma do artigo 47, da Lei n. 11.101/2005. Precedentes. RECURSO DESPROVIDO.
+Nas razões do recurso especial, alegou o agravante que o acórdão recorrido violou o art. 6º, § 4º, da Lei n. 11.101/2005, ao autorizar a sétima prorrogação do stay period, em contrariedade ao limite estabelecido no referido dispositivo legal.
+Além disso, apontou ofensa ao art. 1.206, § 2º, do Código de Processo Civil, em virtude da aplicação de multa em embargos de declaração.
+Sem contrarrazões.
+Em juízo de admissibilidade, a Terceira Vice-Presidência do TJRJ negou seguimento ao recurso especial interposto, no que diz respeito à alegada violação ao art. 1.206, § 2º, do CPC, à luz do Tema Repetitivo 698, e, no mais, não admitiu o recurso em virtude do óbice da Súmula 7/STJ.
+Assim posta a questão, passo a decidir.
+Em consulta processual realizada junto ao Juízo de origem, constata-se ter ocorrido a homologação dos planos de recuperação judicial de que tratam os autos e a convolação em falência das empresas cujos planos foram rejeitados.
+Diante disso, é evidente a perda superveniente do interesse em recorrer do BANCO BRADESCO S/A, que objetivava revogar a prorrogação do stay period.
+Em face do exp osto, não conheço do agravo em recurso especial interposto, visto que prejudicado, nos termos do art. 932, III, do CPC de 2015 e do art. 255, § 4º, I, do Regimento Interno do STJ.
+Intimem-se.
+EMENTA
