@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA DIOMAR TITO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, do acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 257):
+CIVIL. PROCESSUAL. ADMINISTRATIVO. IMÓVEIS FINANCIADOS COM RECURSOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. SEGURO. FCVS. APÓLICE PÚBLICA. CEF. LEGITIMIDADE. JUSTIÇA FEDERAL. COMPETÊNCIA. TEMA 1011 DO STF. VÍCIOS DE CONSTRUÇÃO. AUSÊNCIA DE COBERTURA SECURITÁRIA.
+1. O STF pacificou a questão da legitimidade da CEF para figurar no polo processual em demandas envolvendo contrato de seguro vinculado à apólice pública, consoante trecho do voto do Relator Ministro Gilmar Mendes nos autos do RE 827996/PR: "Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1ºA da Lei12.409/2011". Ademais, desnecessário aguardar o julgamento dos Embargos de Declaração interpostos nos autos desse Recurso Extraordinário, conforme precedente do STJ no EDcl no REsp 1524136/PR.
+2. A seguradora não pode ser responsabilizada pela reparação de vícios construtivos no imóvel, inerentes à sua própria estrutura ou, ainda, aqueles causados por reformas e alterações de projeto, pois a cobertura securitária, nos termos do contrato e apólice, abrange exclusivamente as avarias causadas por agentes externos, ou seja, aquelas que atuam sobre a edificação.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte recorrente alega o seguinte:
+(a) há pendência de julgamento dos embargos de declaração opostos no processo representativo da controvérsia de que trata Tema 1.011 do Supremo Tribunal Federal (STF), o que é motivo para a suspensão do processo;
+(b) a cobertura securitária habitacional deve ser estendida aos vícios construtivos acobertados ao longo do tempo, mesmo após a conclusão do contrato, se concomitante à sua vigência, ainda que somente revelado depois de sua extinção;
+(c) o Código de Defesa do Consumidor deve ser aplicado.
+Aponta divergência jurisprudencial.
+Decisão de admissibilidade às fls. 326/328 na qual a Corte regional nega seguimento ao recurso quanto ao Tema 1.011 do STF, pois a decisão estaria em consonância com o entendimento firmado, e admite o recurso quanto ao remanescente.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o regime de julgamento de recursos repetitivos e foi assim delimitada:
+"Possibilidade, ou não, de se excluir da cobertura securitária os danos decorrentes de vícios construtivos em imóveis financiados no âmbito do Sistema Financeiro de Habitação e vinculados ao FCVS" (Recursos Especiais 2.178.751/PR e 2.179.119/PR, relatoria do Ministro Sérgio Kukina).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
