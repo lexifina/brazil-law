@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 2.516):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ALEGADA OFENSA À SÚMULA. NÃO CABIMENTO DO APELO ESPECIAL. SÚMULA N. 518/STJ. PROVA EMPRESTADA. CONTRADITÓRIO E AMPLA DEFESA. OBSERVÂNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante alega, em síntese, a necessidade de aplicação ao caso vertente das alterações realizadas pela Lei n. 14.230/2021, em razão da ausência de dolo específico, tampouco dano efetivo ao erário para a configuração do alegado ato ímprobo.
+Com impugnação (e-STJ, fls. 2.581-2.587 e 2.589-2.595) .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, aos seguintes fundamentos: (a) incidência do óbice contido na Súmula n. 518 do STJ no tocante à alegada ofensa à Súmula n. 209 do STJ; (b) necessidade de reexame do conjunto fático-probatório dos autos para rever a conclusão do Tribunal de origem de que foi oportunizado o contraditório e a ampla defesa em relação à prova emprestada que acompanhou a petição inicial (e-STJ, fl. 2.029); e (c) aplicação da Súmula n. 284/STF em relação à tese de ilegitimidade passiva da recorrente, porquanto não indicado o normativo de lei federal ou tratado supostamente violado pelo acórdão de origem, o que inviabiliza a exata compreensão da controvérsia.
+Ocorre que a agravante não impugnou, especificamente, nenhum dos referidos fundamentos, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgRg nos EAREsp 1.870.554/SP, relator Ministro Humberto Martins, Corte Especial, DJe 14/3/2023; AgInt no AREsp 2.215.294/PA, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 8/3/2023; AgInt no AREsp 2.158.581/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2022; AgInt no AgInt no REsp 1.914.726/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/12/2022; AgRg nos EAREsp 2.007.922/PR, relator Ministro Og Fernandes, Corte Especial, DJe 29/9/2022; AgInt no TP 3.879/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 2/6/2022; AgInt no AREsp 1.949.877/PE, relator Ministro Gurgel de Faria, Primeira Turma, DJe 12/4/2022.
+Por oportuno, registre que as alterações realizadas pela Lei n. 14.230/2021 na Lei n. 8.429/1992 não incidem no caso em apreço, haja vista o reconhecimento do dano efetivo ao erário, bem como do elemento subjetivo para a configuração do ato ímprobo em questão (esquema fraudulento para aquisição de ambulância - art. 10, incisos I, V, VIII, XI e XII, da LIA), consoante se depreende do excerto abaixo transcrito (e-STJ, fls. 2.023; 2.026-2.027):
+ ..
+Da detida análise dos elementos probatórios carreados aos autos, em especial do Relatório de Auditoria, elaborado em conjunto pelo Departamento Nacional de Auditoria do Sistema Único de Saúde e pela Controladoria Geral da União (fls. 1.824/1.840), depreende-se que as irregularidades no procedimento licitatório foram devidamente comprovadas, destacando-se as seguintes: a) aquisição de ambulância diversa da prevista no plano de trabalho do convênio; b) ausência de disponibilização, pela Prefeitura de São João de Meriti, do respectivo procedimento licitatório, a indicar que houve, na realidade, uma simulação de licitação, direcionada para a adjudicação do objeto à empresa integrante do esquema criminoso - SANTA MARIA COMÉRCIO E REPRESENTAÇÃO LTDA; e c) superfaturamento do objeto contratado, no valor de R$ 6.787,61 (seis mil, setecentos e oitenta e sete reais e sessenta e um centavos), conforme apurado no âmbito do Tribunal de Contas da União (fls. 581/592).
+ ..
+Do acurado exame dos autos, constata-se que foram devidamente comprovados a autoria e o elemento subjetivo na conduta de ALMERINDA FILGUEIRAS DE CARVALHO, que, na condição de Deputada Federal, foi a responsável pela elaboração da emenda orçamentária que destinou recursos financeiros para a consecução do convênio ora em questão.
+Não restam dúvidas de que a ré agiu com dolo, na medida em que constam dos autos cópia de declarações prestadas no bojo de ações penais pelos acusados LUIZ ANTÔNIO TREVISAN VEDOIN - 2006.36.00.007594-5 em trâmite perante a 2ª Vara Federal de Cuiabá/MT - e DARCI JOSÉ VEDOIN - 2006.36.00.007573-6 e 2006.36.00.008041-2 em trâmite perante a 2ª Vara Federal de Cuiabá/MT -, ratificadas em juízo, no sentido de que ela tinha efetiva participação na empreitada delituosa, sendo a ela destinados valores como contrapartida à edição da emenda orçamentária.
+ ..
+Ante o exposto, não conheço do agravo interno.
+É como voto.
