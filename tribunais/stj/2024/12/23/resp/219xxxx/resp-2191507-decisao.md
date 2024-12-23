@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por CBL-COMPANHIA BRASILEIRA DE LACTEOS da decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que não admitiu o recurso especial dirigido contra o acórdão assim ementado (fl. 723 - 724):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. NOTIFICAÇÃO FISCAL POR APROPRIAÇÃO DE CRÉDITO DE ICMS EM LIMITE SUPERIOR AO PERMITIDO NA LEGISLAÇÃO TRIBUTÁRIA EM RAZÃO DA AQUISIÇÃO DE MERCADORIAS ORIUNDAS DE OUTRAS UNIDADES DA FEDERAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA EMBARGANTE. INCIDÊNCIA DO TEMA N. 490 DO STF. MODULAÇÃO DOS EFEITOS, COM O RESGUARDO DOS EFEITOS JURÍDICOS DAS RELAÇÕES TRIBUTÁRIAS JÁ CONSTITUÍDAS. MANUTENÇÃO DO CRÉDITO TRIBUTÁRIO. PRETENDIDA REMISSÃO, COM FULCRO NA LEI COMPLEMENTAR N. 160/2017 E NO CONVÊNIO ICMS N. 190/2017. IMPOSSIBILIDADE. DIRETRIZES A SEREM APLICADAS A DEPENDER DO REQUERIMENTO ADMINISTRATIVO DO INTERESSADO E DA ANÁLISE CRITERIOSA DA ADMINISTRAÇÃO. CONFIRMAÇÃO DA SENTENÇA.
+1. O Supremo Tribunal Federal sedimentou o entendimento de que "O estorno proporcional de crédito de ICMS efetuado pelo Estado de destino, em razão de crédito fiscal presumido concedido pelo Estado de origem sem autorização do Conselho Nacional de Política Fazendária (CONFAZ), não viola o princípio constitucional da não cumulatividade. (Tema 490 da repercussão geral)" (STF, RE 628075/RS, Tribunal Pleno, Relator para o acórdão Min. Gilmar Mendes, j. 18-08-2020). Após, ao modular os efeitos do precedente vinculante, conferiu "à decisão efeitos ex nunc, a partir da decisão do Plenário desta Corte, para que fiquem resguardados todos os efeitos jurídicos das relações tributárias já constituídas; e, caso não tenha havido ainda lançamentos tributários por parte do Estado de destino, este só poderá proceder ao lançamento em relação aos fatos geradores ocorridos a partir da presente decisão".
+2. No caso, estando a pretensão dos autos voltada à anulação de lançamento tributário (Notificação Fiscal n. 136030072201) ocorrido em julho de 2013, portanto, anteriormente à decisão do paradigma, datada de agosto de 2020, há que se resguardar todos os efeitos da relação jurídica já constituída, o que enseja a manutenção do crédito tributário.
+3. " ..  Nos termos da Portaria SEF n. 83/2022, a Lei Complementar n. 160/2017 não tem o efeito pretendido pela impetrante, com a anistia automática dos créditos tributários vinculados à aplicação do artigo 35-B do RICMS/SC, dependendo da análise criteriosa da Fazenda Pública a partir de requerimento formulado pelo contribuinte.  .. " (TJSC, Apelação n. 0501365-89.2011.8.24.0038, do Tribunal de Justiça de Santa Catarina, rel. Vera Lúcia Ferreira Copetti, Quarta Câmara de Direito Público, j. 08-12-2022).
+HONORÁRIOS RECURSAIS. CABIMENTO.
+RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte ora agravante aponta violação dos arts. 1º, 3º e 5º, da Lei Complementar n. 160/2017.
+Contrarrazões às fls. 818-836.
+Não admitido o recurso pelo Tribunal de origem (fls. 857 - 862), seguiu-se o presente agravo em recurso especial (fls. 878 - 892).
+É o relatório.
+Decido.
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Ante o exposto, CONHEÇO do agravo para, nos termos do art. 253, inciso II, alínea d, do RISTJ, determinar sua autuação como recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
