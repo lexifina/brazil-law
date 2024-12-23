@@ -1,0 +1,48 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de e-STJ fls. 358-359:
+Leonardo Correia dos Santos interpõe recurso especial, com fundamento no art. 105, III, "a", da CF, em face de acórdão do TJSP, que negou provimento à apelação defensiva e proveu parcialmente a apelação do parquet, para estabelecer a pena de 5 anos e 10 meses de reclusão, no regime semiaberto, pela prática do crime de tráfico de drogas, previsto no art. 33, caput, da Lei 11.343/06.
+Em razões recursais, o recorrente alega violação ao art. 33, § 4º, da Lei 11.343/06, bem como aos arts. 59, 33 e 44, todos do Código Penal.
+Com efeito, em síntese, afirma que o acórdão recorrido afastou a aplicação do art. 33, § 4º, da Lei 11.343/06, empreendida pela sentença, partindo da suposição de que o recorrente, em face da quantidade das drogas apreendidas consigo, dedicava-se a atividades criminosas - 68 porções (107,4 gramas líquido), 82 porções de crack (19,5 gramas líquido), 24 porções de maconha (17,9 gramas líquido) e 27 porções de skunk (15,2 gramas líquido), de maconha (467,1 gramas líquido) e 136 porções de cocaína; tudo somado, com peso total de 627,1 gramas.
+Aduz que a quantidade de droga, por si só, não serve de parâmetro para definir a dedicação do agente a atividades criminosas, para cuja conclusão depende da conjugação de outros elementos de prova.
+Requer a aplicação da minorante por tráfico privilegiado na fração de 2/3, a determinação do regime aberto para o início do cumprimento da pena e a substituição da pena corporal por restritiva de direitos.
+Contrarrazões às fls. 340/346.
+Parecer ministerial pelo provimento do recurso (e-STJ fls. 358-364).
+Recurso especial. Tráfico de drogas. A quantidade e diversidade das drogas não são parâmetros legais autônomos para, isoladamente, calibrar a pena aplicada. A quantidade, natureza e diversidade de drogas constituem elementos de um só vetor a ser valorado no apena- mento. Precedentes. Segundo entendimento atual do STJ, quando não utilizado para aumentar a pena-base (art. 42, da Lei 11.343/06), o vetor quantidade e natureza da droga pode ser aplicado na 3ª fase dosimétrica para "modular" a fração de redução da pena, pela aplicação da minorante de tráfico privilegiado. Acórdão recorrido que aumentou a pena-base e afastou a minorante. Ilegalidade. Non bis in idem. Sentença que aplicou a fração mínima de 1/3 da minorante de tráfico privilegiado, porém, sem qualquer fundamentação. Ilegalidade. Atendimento aos requisitos objetivos previstos no art. 33, § 4º, da Lei 11.343/06. Direito à fração máxima de 2/3 de redução da pena. Resgate da pena no regime aberto. Substituição da pena corporal por restritiva de direitos que deverá ser avaliada pelo juízo da execução. Parecer pelo provimento do recurso especial.
+É o relatório.
+Decido.
+De início, verifico o preenchimento dos requisitos intrínsecos e extrínsecos de admissibilidade, por isso o recurso merece ser conhecido.
+Pois bem. A controvérsia posta em julgamento é se a quantidade de drogas apreendida é elemento suficiente para negar a aplicação da causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06.
+A respeito da utilização da quantidade da droga apreendida como circunstância para inferir a dedicação à atividade criminosa e ao pertencimento à organização criminosa, a jurisprudência deste col. STJ é pacífica no sentido de que não é elemento suficiente.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (20 KG DE MACONHA). CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. QUANTIDADE DO ENTORPECENTE APREENDIDO. IMPOSSIBILIDADE DE, ISOLADAMENTE CONSIDERADA, TER O CONDÃO DE AFASTAR A MINORANTE. RECONHECIMENTO QUE SE IMPÕE. RETORNO DOS AUTOS PARA ESCOLHA DO PATAMAR DE REDUÇÃO APLICÁVEL AO CASO.
+ .. .
+3. A jurisprudência desta Corte Superior é no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018) - (AgRg no AREsp n. 1.480.074/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/7/2019).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.071.188/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023.) - grifos acrescidos
+PENAL, PROCESSO PENAL E CONSTITUCIONAL. DOSIMETRIA DE PENA. PECULIARIDADES DO TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 42 DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIA PREPONDERANTE A SER OBSERVADA NA PRIMEIRA FASE DA DOSIMETRIA. UTILIZAÇÃO PARA AFASTAMENTO DO TRÁFICO PRIVILEGIADO OU MODULAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CARACTERIZAÇÃO DE BIS IN IDEM. NÃO TOLERÂNCIA NA ORDEM CONSTITUCIONAL. RECURSO PROVIDO PARA RESTAURAÇÃO DA SENTENÇA DE PRIMEIRA INSTÂNCIA.
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+9. Na modulação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, podem ser utilizadas circunstâncias judiciais não preponderantes, previstas no art. 59 do Código Penal, desde que não utilizadas de maneira expressa na fixação da pena-base.
+10. Recurso provido para restabelecimento da sentença.
+(REsp n. 1.887.511/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1/7/2021 - grifos acrescidos).
+No caso, o acórdão afastou a aplicação da causa de diminuição de pena com a seguinte fundamentação (e-STJ fls. 200-202 - grifos acrescidos):
+Por fim, não é caso de aplicação do redutor legal. A elevada quantidade de entorpecente (627,1 gramas de peso líquido total) indica a existência de estrutura organizada, não sendo razoável imaginar que o acusado agisse isoladamente.
+E na esteira de precedente do Supremo Tribunal Federal, o Superior Tribunal de Justiça tem afastado a incidência do redutor de que trata o artigo 33, § 4º, da Lei 11.343/06, em situações como esta retratada aqui.
+Nesse sentido:
+(..)
+Ficam, pois, as penas finais agora estabelecidas em cinco anos e dez meses de reclusão e pagamento de quinhentos e oitenta e três dias-multa, no piso.
+Deve ser adotado regime prisional inicial semiaberto, em face, de um lado, da primariedade do agente e, de outro, da quantidade da pena, da variedade e quantidade de drogas apreendidas, circunstâncias que revelam a periculosidade concreta do agente, que com sua conduta gera instabilidade em inúmeros lares, exigindo, em consequência, resposta penal mais enérgica com a qual não é compatível solução mais branda.
+Extrai-se, portanto, que o Tribunal de origem entendeu pelo afastamento da aplicação do § 4º, única e exclusivamente, em razão da quantidade de drogas apreendidas, o que, como visto. é argumento inidôneo para tal.
+Sendo assim, aplico o redutor do §4º do art. 33 da Lei nº 11.343/06.
+Destaco que, nos termos da jurisprudência desta Corte, a quantidade da droga apreendida pode ser utilizada para modular o quantum de diminuição. Extrai-se dos autos que o recorrente trazia consigo 68 porções de maconha (467,1 gramas líquido), 136 porções de cocaína (107,4 gramas líquido), 82 porções de crack (19,5 gramas líquido), 24 porções de maconha (17,9 gramas líquido) e 27 porções de skunk (15,2 gramas líquido), e-STJ fls. 196-197. Assim, e de acordo com a jurisprudência do Tribunal, aplico a fração de 1/3 na terceira fase da dosimetria.
+Passo a redimensionar a pena:
+Tem-se que a pena-base do crime de tráfico de drogas ficou estabelecida em 5 anos e 10 meses de reclusão, além do pagamento de 500 dias multa, considerada, corretamente, a diversidade de drogas apreendidas (e-STJ fls. 197).
+Na segunda fase, não se verifica presentes agravantes ou atenuantes (e-STJ fls. 198).
+Na terceira etapa, pelo acima exposto, verificadas as condições para aplicação do § 4º do art. 33 da Lei nº 11.343/06, no patamar de 1/3, torno definitivo o quantum em 03 anos, 10 meses e 20 dias de reclusão, além de 333 dias-multa.
+Não observando circunstâncias dignas de nota além daquelas já consideradas na dosimetria da pena, estabeleço o regime aberto como inicial de cumprimento de pena, nos termos do art. 33, §2º, c, do CP.
+Deixo de substituir a pena privativa de liberdade por restritivas de direito, tendo em vista o não preenchimento dos requisitos do artigo 44 do Código Penal.
+Ante o exposto, dou provimento ao recurso especial para reduzir a pena do recorrente para 03 anos, 10 meses e 20 dias de reclusão, em regime inicial aberto, além de 333 dias-multa.
+Comunique-se, com urgência, o Tribunal de origem e ao Juízo a quo.
+Publique-se. Intimem-se.
+ EMENTA
