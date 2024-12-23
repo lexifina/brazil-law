@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Teodoro Silva Santos.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Ausente, justificadamente, o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. PROCEDIMENTO DEMARCATÓRIO. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A impugnação da Súmula n. 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída.
+2. A parte recorrente não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO contra decisão por mim proferida, por meio da qual não foi conhecido o recurso especial, assim ementada (fls. 1362-1367):
+PROCESSUAL CIVIL E ADMINISTRATIVO. TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. PROCEDIMENTO DEMARCATÓRIO. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Pondera a parte agravante que o óbice da Súmula n. 7 do STJ não incide no caso por ser desnecessário o reexame dos fatos e provas dos autos, tendo em vista que todas as circunstâncias fáticas necessárias à compreensão da causa e das violações apontadas no apelo estão precisamente delineadas no acórdão do Tribunal Regional (fls. 1371-1374).
+Foi apresentada resposta ao agravo interno (fls. 1380-1386).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. PROCEDIMENTO DEMARCATÓRIO. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A impugnação da Súmula n. 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída.
+2. A parte recorrente não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade.
+3. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Nos termos da decisão agravada, o recurso especial não foi conhecido porque as matérias sobre as quais se insurge a recorrente foram julgadas pelo Tribunal de origem considerando os fatos e provas constantes nos autos.
+Nesse ponto, merece transcrição os seguintes trechos da decisão agravada (fls. 1365-1367):
+ ..
+As irresignações apontadas pela UNIÃO em seu recurso especial foram analisadas e julgadas pelo Tribunal de origem considerando os fatos e provas relacionados à matéria, conforme pode ser verificado dos trechos extraídos do acórdão que julgou o recurso de apelação (fls. 1223-1227) e do acórdão que julgou os embargos de declaração (fls. 1305-1308):
+ACÓRDÃO (FLS. 1223-1227) - APELAÇÃO
+ ..
+De fato, as Certidões expedidas pela Secretaria do Patrimônio da União vinculam o Ente Federal e a ele são oponíveis, uma vez que se trata do órgão encarregado pelo cadastramento e pela administração dos terrenos de marinha e acrescidos, inclusive pela abertura dos procedimentos administrativos de demarcação.
+No caso, é fato que a certidão emitida pela SPU, em outubro de 2002, ao afirmar que o imóvel não seria de marinha, fez menção ao "terreno a lote Rua Almirante Batista Leão 660, Lote 7-A, Quadra LVII, Bairro Americano, Boa Viagem, Recife-PE" e que o imóvel onde a Construtora Demandante ergueu seu empreendimento e que é objeto da presente ação está localizado no lote 7-A, no Loteamento Bairro Americano, Rua Almirante Batista Leão, nº 53, Bairro de Boa Viagem. Portanto, há divergência entre os números do imóvel descrito na certidão pela SPU e daquele objeto da presente ação, o que poderia ser suficiente para rechaçar o pleito autoral.
+No entanto, a Autora trouxe a lume, no curso do processo, traslados do livro 2 de Registro Geral do 1º Cartório de Registro de Imóveis de Recife/PE onde constam o registro da permuta do imóvel em comento, bem como das unidades habitacionais do Edifício Tree Park, erguido no local, e dos Instrumentos Particulares de Venda e Compra de algumas dessas unidades, quando fez-se referência ao arquivamento de Certidões Negativas de Domínio da União expedidas pela GRPU-PE nos anos de 2008, 2009 e 2010 para fins de efetivação do aludido negócio jurídico.
+ ..
+A União, por sua vez, tenta argumentar que houve um procedimento administrativo demarcatório no ano de 1973, com homologação das linhas de Marinha definitivas em 21/03/1973. No entanto, hora alguma, trouxe aos autos cópia desse procedimento administrativo, limitando-se a trazer um procedimento levado a efeito pela SPU apenas após o adquirente da unidade 204 do aludido empreendimento ter entrado com pedido de inscrição de ocupação em abril de 2011.
+Ressalte-se que o ônus de provar deve repousar sobre o Ente Federal, uma vez ser o detentor da íntegra do processo de demarcação, haja vista a sua condição de órgão responsável pelo cadastramento e administração dos terrenos de marinha e acrescidos.
+Portanto, além de haver documentos nos autos aptos a demonstrar que o imóvel objeto da presente contenda era classificado como alodial pela SPU ainda nos anos de 2008, 2009 e 2010, a SPU não conseguiu se desincumbir do ônus de provar a realização do procedimento administrativo de demarcação antes disso ou mesmo após essas datas.
+ACÓRDÃO (FLS. 1305-1308) - EMBARGOS DE DECLARAÇÃO
+ ..
+Quanto ao argumento de que houve cerceamento ao direito de defesa da Embargante, alguns esclarecimentos merecem destaque.
+O Magistrado de Primeira Instância entendeu que havia indícios de irregularidade no procedimento demarcatório. Em razão disso e no curso do processo, intimou a União para se pronunciar. No entanto, o Ente Federal não trouxe a cópia do aludido procedimento de demarcação para provar que houve a intimação do possuidor.
+Ademais, a União, intimada mais uma vez nos autos para produzir as provas que entendesse pertinentes, informou, por meio de petição, não ter a intenção de produzir qualquer espécie de prova além das já apresentadas, por entender que o arcabouço probatório já coligido ao processo seria suficiente para o julgamento pela improcedência do pedido.
+Portanto, não há que falar em cerceamento ao direito de defesa da União, uma vez que teve ela diversas oportunidades de trazer ao processo o aludido procedimento administrativo de demarcação, mas não o fez.
+Nota-se, pelas transcrições acima, que houve expressa manifestação do Tribunal de origem sobre o alegado cerceamento ao direito de defesa, razão pela qual inexistente qualquer violação por negativa de prestação jurisdicional.
+Além disso, não ficou comprovada a efetivação de procedimento administrativo demarcatório no ano de 1973, motivo pelo não se adentrou na análise da prescrição.
+Por fim, a Corte a quo decidiu, com base no conjunto probatório existente nos autos, que o imóvel objeto da presente contenda era classificado como alodial pela SPU ainda nos anos de 2008, 2009 e 2010.
+No que concerne à Súmula n. 7 do STJ, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório.
+Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC/2015).
+A propósito:
+ ..  Para afastar o óbice do Enunciado 7 da Súmula do STJ, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a eles. (AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+ ..  A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021). Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..  Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
