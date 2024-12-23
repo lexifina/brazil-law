@@ -1,0 +1,8 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS opõe embargos declaratórios contra decisão de fls. 954-959, em que conheci do agravo para dar provimento ao recurso especial e aplicar a fração de 2/3 em virtude da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, além de estabelecer a reprimenda em 2 anos, 3 meses e 7 dias de reclusão mais 230 dias-multa, em regime aberto, para o delito de tráfico ilícito de entorpecentes.
+Aponta a omissão no referido decisum, porque não foi consignado que o recorrente também fora condenado pelo delito do art. 307 do CP, à pena de 3 meses de detenção e que, portanto, a sanção definitiva do tráfico privilegiado deverá ser cumulada materialmente com a mencionada reprimenda, nos termos do art. 69 do CP.
+Razão assiste ao embargante, pois verifico, na espécie, que a referida decisão pode ser aclarada no ponto. De fato, as instâncias originárias impuseram ao recorrente a sanção de 3 meses de detenção, em regime aberto, pelo delito de falsa identidade e aplicaram o concurso material entre os crimes (fl. 796).
+Todavia, como não houve insurgência recursal sobre esta matéria, deixei de mencioná-la na fundamentação do julgamento monocrático. Assim faço constar que a sanção definitiva do réu, em razão do cúmulo material dos delitos do art. 307 do CP e art. 33, § 4º, da Lei 11.343/2006, é de: 2 anos, 3 meses e 7 dias de reclusão e 03 meses de detenção, mais 230 dias multa.
+À vista do exposto, acolho os embargos, tão somente para corrigir a apontada omissão, sem efeitos modificativos q uanto ao mérito da decisão.
+Publique-se e intimem-se.
+EMENTA
