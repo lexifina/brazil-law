@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DISCUSSÃO ACERCA DE CLÁUSULA DO PLANO DE RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. CRÉDITO DISTINTO E INFERIOR ÀQUELE PREVISTO NAS CONDIÇÕES DEBATIDAS. MÉRITO RECURSAL PREJUDICADO.
+1. Tendo a empresa agravante confessado que seu crédito ainda se encontra sendo discutido judicialmente, inclusive em sede recursal (AI 5184604.58.2018), cuja decisão, até o momento, lhe garantiu valor de R$ 240.000,00, não tem ela interesse recursal suficiente para discutir cláusula ou condição do plano de recuperação judicial destinado a créditos acima de R$ 250.000,00, sobretudo porque naqueloutro recurso não foi obtido efeito suspensivo, de modo que seu agravo de instrumento não deve sequer ser conhecido.
+2. O mérito do presente recurso, em virtude do seu não conhecimento, resta prejudicado.
+3. AGRAVO DE INSTRUMENTO NÃO CONHECIDO.
+Alegou-se, no especial, violação dos artigos 1.022 do Código de Processo Civil e 39, § 2º, 56, § 3º, 58, § 2º, 59, § 2º e 126, todos da Lei 11.101/05, sob os argumentos de que o acórdão local é omisso e que o plano de recuperação judicial prevê discriminação ilegal em relação à recorrente.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+A agravante afirma, quanto ao mais, que possui um crédito acima de R$ 2.000.000,00 (dois milhões de reais) e que "a recorrente é a única credora da classe IV que discute crédito superior ao limite estabelecido para pagamento integral da dívida, de modo que as recorridas criaram tal condição para tolher apenas o seu crédito (caso seja reconhecido no apelo especial acima referido), muito provavelmente pelo valor envolvido" (e-STJ, fl. 423).
+O Tribunal local, todavia, não reconheceu o interesse de agir da parte, haja vista que o seu crédito, em que pese haver discussão judicial de seu montante, até agora é de R$ 240.000,00 (duzentos e quarenta mil reais), abaixo, portanto, do valor para qual se estipularam as mencionadas reduções.
+Leia-se:
+"Primeiramente, faz-se necessário esclarecer que a agravante possui sim legitimidade ativa recursal, porquanto ainda defende possuir crédito acima da casa dos R$ 250.000,00, muito embora o agravo de instrumento que discute tal matéria (5184604.58.2018) tenha obtido parcial provimento para reconhecer seu crédito de apenas R$ 240.000,00 (evento 33 daqueles autos).
+Assim, fixo como parâmetro o valor de R$ 240.000,00 estabelecido por esta Corte (AI 5184604.58.2018), até porque não há recurso com efeito suspensivo naqueles autos, e esclareço apenas que a questão ainda não resta sacramentada pelo trânsito em julgado, dada a interposição de recursos aos Tribunais Superiores.
+Neste sentido, em segundo lugar, verifico que, quanto a falta de interesse recursal da empresa agravante, corretas as agravadas.
+Ora, se a recorrente confessa em sua petição inicial recursal (evento 1), mais precisamente no parágrafo de nº 1 da página 4, que possui crédito milionário em discussão judicial, nesse momento, ela não tem condições plenas de discutir a cláusula do plano de recuperação judicial, que trata de créditos acima de R$ 250.000,00, vejamos:
+1. A agravante possui crédito em discussão judicial (impugnação de crédito nº 5300921.54.2016.8.09.0051, em sede de agravo de instrumento), com valor da causa milionário, já tendo sido reconhecido o crédito de ao menos R$ 200.000,00 (duzentos mil reais), em sede de agravo de instrumento n. 5184604.58.2018.8.09.0000. (negritei)
+Assim, tendo a parte agravante sido devidamente intimada para se manifestar com relação à não existência de interesse recursal no evento 19, em respeito aos artigos 9º e 10 do CPC, bem como havendo pedido expresso das agravadas quanto a tal questão em suas contrarrazões, não vejo outra saída, senão deixar de conhecer do presente recurso, porque o crédito da recorrente, de R$ 240.000,00 até o presente momento, não lhe dá o direito de discutir condição do plano de recuperação judicial que trata de valores acima de R$ 250.000,00" (e-STJ, fls. 375/376).
+O recurso, por consequência, não foi conhecido.
+Esse fundamento não foi, todavia, impugnado pela parte e, sendo certo de que o juízo de conhecimento antecede ao de reforma, é inafastável a incidência do verbete n. 283 da Súmula do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
