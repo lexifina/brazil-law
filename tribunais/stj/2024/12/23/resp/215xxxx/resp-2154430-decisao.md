@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 44):
+AÇÃO ORDINÁRIA EM FASE DE CUMPRIMENTO DE SENTENÇA/CORREÇÃO MONETÁRIA E JUROS DE MORA
+Pretensão da agravante de que seja reconhecida a nulidade da decisão impugnada, para que outra seja proferida apreciando todas as questões arguidas em sede de impugnação - Ausência de óbice à aplicação do disposto no Tema 810 do STF aos juros e à correção monetária - Excesso com relação à verba honorária não verificado.
+Embargos de declaração acolhidos para "que seja reconhecido o excesso de execução com relação à verba honorária, devendo ser utilizado como base de cálculo o montante apontado a fls. 2.517 dos autos principais" (e-STJ fl. 68).
+Em suas razões, a parte recorrente aponta violação dos arts. 1º-F e 1º-E da Lei n. 9.494/1997, dos arts. 5º, 200, 276, 534, II, 535, §3º, I e II, §§5º e 8º, 775, 798, I, "b" e 805, do CPC/2015, sustentando a ocorrência de "preclusão consumativa da utilização de índice não previsto na conta apresentada pelo próprio exequente" (e-STJ fl. 74), ressaltando que a eleição de índices para os consectários legais no ato de propositura do cumprimento de sentença faz precluir o direito de pleitear diferenças de correção por outro índice.
+Acrescenta, ainda, que os exequentes apresentaram comportamento contraditório ao pleitear a alteração dos referidos índices.
+Contrarrazões às e-STJ fls. 85/99.
+De início o recurso especial foi inadmitido (e-STJ fls. 100/103).
+Determinou-se o retorno dos autos para que aguardasse o julgamento do Tema 1.170 do STF (e-STJ fls. 157/59), o que ocasionou o reexame da matéria objeto da repercussão geral, tendo o Tribunal de origem negado o juízo de retratação, conforme acórdão assim ementado (e-STJ fl. 204):
+CUMPRIMENTO SENTENÇA/JUROS DE MORA E CORREÇÃO MONETÁRIA
+Acórdão proferido nos autos de agravo de instrumento que deu provimento ao recurso, mantendo as r. decisões proferidas em Ação Ordinária em fase de cumprimento de sentença, sendo que a primeira determinou a aplicação dos parâmetros do Tema 810 do STF no que concerne aos juros moratórios e correção monetária dos cálculos, enquanto a segunda acolheu os embargos de declaração opostos apenas para acrescentar alguns fundamentos à decisão impugnada, mas sem efeito modificativo do julgado - Retorno dos autos nos termos do art. 1.040, II, do CPC, para eventual adequação ou manutenção do v. acórdão  Orientação firmada pelo STF no julgamento do RE nº 1.317.982/ES (Tema nº 1.170)  Desnecessária a retificação do julgado.
+Restituição dos autos à egrégia Presidência da Seção de Direito Público deste Tribunal de Justiça, sem alterações no julgamento do agravo de instrumento.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 211/212.
+Passo a decidir.
+Em relação à única tese objeto do especial - "preclusão consumativa da utilização de índice não previsto na conta apresentada pelo próprio exequente" (e-STJ fl. 74) - registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento. Incide, na hipótese, a Súmula 282 do STF.
+O Código de Processo Civil/2015 trouxe nova disciplina acerca do prequestionamento. Em seu bojo, inovou o legislador ao introduzir o art. 1.025 do CPC/2015, que consagrou o chamado "prequestionamento ficto", ao prescrever, in verbis :
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017; e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 27/06/2017, DJe 30/06/2017).
+No caso dos autos, a parte recorrente não atendeu à exigência ao indicar a preliminar de negativa de prestação jurisdicional, sendo certo que o tema nem sequer foi objeto dos aclaratórios opostos na origem.
+Ademais, extrai-se do acórdão recorrido o seguinte (e-STJ fl. 45):
+Conquanto tenham os juros e a correção monetária sido definidos em título executivo transitado em julgado, não há óbice à aplicação do disposto no Tema 810 do STF ao cálculo do montante devido, uma vez que o trânsito em julgado ocorreu em data posterior ao advento da Lei nº 11.960/09.
+Observa-se que o apelo nobre apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF. Nesse sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+(..)
+3. Nas razões do Recurso Especial, a parte deixou de atacar os fundamentos adotados pela Corte regional para decidir a controvérsia no que tange ao arbitramento de honorários advocatícios, limitando-se a sustentar que este deveria ser aplicado sobre o valor da causa, e não sobre o da condenação. Nesse contexto, tendo a parte recorrente se limitado a manifestar seu inconformismo com o resultado que lhe foi desfavorável, apresentando fundamento deficiente, com razões recursais dissociadas da fundamentação do acórdão objurgado, têm incidência, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+4. Agravo Interno não provido.
+(AgInt no REsp 1860013/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/06/2020, DJe 21/08/2020)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
