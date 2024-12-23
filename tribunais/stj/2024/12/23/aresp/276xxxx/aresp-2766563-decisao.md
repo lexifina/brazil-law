@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial em que se discute a possibilidade de pessoa jurídica aderir aos benefícios fiscais do Programa de Retomada do Setor de Eventos - PERSE, com aplicação da alíquota zero para o cálculo da contribuição ao PIS, da COFINS, do IRPJ e do CSLL.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A Primeira Seção deste Tribunal Superior decidiu afetar o REsp 2126436/RJ, o REsp 2126428/RJ e REsp 2130054/CE à sistemática dos recursos repetitivos para o fim de definir o tema 1283, ocasião em que decidirá a respeito da necessidade de o contribuinte estar previamente inscrito no Cadastro de Prestadores de Serviços Turísticos (Cadastur) para usufruir dos benefícios previstos no Programa Emergencial de Retomada do Setor de Eventos (PERSE); e a respeito da possibilidade de o contribuinte optante pelo SIMPLES Nacional poder-se beneficiar da alíquota zero para o cálculo da contribuição ao PIS, da COFINS, da CSLL e do IRPJ.
+Nesse contexto, os autos devem retornar ao Tribunal Regional Federal para que o recurso fique sobrestado até o exercício do juízo de conformação pelo órgão julgador a quo com a tese a ser definida pela Primeira Seção.
+Ante o exposto, determino a devolução dos autos ao Tribunal Regional Federal, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pela Primeira Seção, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Ficam prejudicados o agravo em recurso especial e o recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PROGRAMA DE RETOMADA DO SETOR DE EVENTOS - PERSE. TEMA A SER DEFINIDO NA SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSOS PREJUDICADOS.
