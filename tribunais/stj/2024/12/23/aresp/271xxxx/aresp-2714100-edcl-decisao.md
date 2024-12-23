@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por APLAUSO ALUGUEL DE EQUIPAMENTOS LTDA contra decisão de minha relatoria que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, nos termos da seguinte ementa (fls. 290-294):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXECUÇÃO FISCAL. PEDIDO DE JUNTADA DE PROCESSO ADMINISTRATIVO. IMPUGNAÇÃO À PENHORA. OFENSA AO ART. 1.022, INCISO II, DO CPC. INOCORRÊNCIA. OMISSÕES INEXISTENTES. OFENSA AO ART. 525, § 11º, DO CPC. POSSIBILIDADE DE ALEGAR DE EXECUÇÃO DOBRADA EM SEDE DE IMPUGNAÇÃO À PENHORA. FUNDAMENTO SUFICIENTE NÃO IMPUGNADO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 283 DO STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Sustenta a parte embargante, em síntese, que a decisão impugnada padece de omissão no tocante "ao fato de que o processo administrativo não pode ser juntado somente em sede de agravo de instrumento - sobretudo quando já transcorrido o prazo para oposição de embargos à execução" (fl. 300).
+É o relatório.
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art.1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados na decisão ora embargado.
+Isso porque a decisão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nela plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, ao contrário do que foi alegado pela embargante (fl. 300), a decisão ora embargada não "entendeu que o processo administrativo teria sido integralmente juntado nos autos do agravo de instrumento nº 5009167- 26.2021.4.02.0000 - o que, em tese, supriria à necessidade de acesso prévio ao processo administrativo para elaboração de embargos à execução".
+Na realidade, na decisão impugnada, foi asseverado que o inconformismo da parte com o resultado do julgado, inclusive quanto ao entendimento citado, não se traduz em omissão no acórdão proferido pelo Tribunal a quo, uma vez que o aresto recorrido apresentou, concretamente, os fundamentos que justificaram a sua conclusão (fl. 293).
+Outrossim, na decisão embargada foi assentado que a recorrente, ora embargante, deixou de atacar o fundamento de inviabilidade de realização de dilação probatória na impugnação à penhora e, deixando de impugnar fundamento suficiente, incidiu o óbice da Súmula n. 283 do STF (fl. 294).
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame na decisão embargada, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de d eclaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
