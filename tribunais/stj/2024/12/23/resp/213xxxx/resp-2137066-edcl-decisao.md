@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA ALELUIA DOS SANTOS contra decisão de minha lavra, proferidas às fls. 349/350, em que determinei a devolução dos autos ao Tribunal de origem para possibilitar a realização do juízo de conformidade com a tese a ser firmada pela Suprema Corte por ocasião do julgamento do Tema 1.255 do STF, nos termos do art. 1.040 do CPC/2015.
+Sustenta a embargante que a existência de obscuridade na decisão agravada, visto que determinou o sobrestamento do presente feito, até o julgamento do Tema 1.255 pelo Supremo Tribunal Federal, sem atentar para o fato de que a matéria tratada no recurso especial carece do devido prequestionamento.
+Afirma que a questão jurídica objeto do Tema 1.255/STF não foi debatida pelo Tribunal de origem, tendo em vista que se limitou a arbitrar os honorários advocatícios em favor da Defensoria Pública, em 12% do valor atualizado da causa, com fulcro no disposto nos §§ 1º a 4º, do art. 85, do CPC/2015, sem adentrar no mérito da discussão sobre a possibilidade de fixação da referida verba de forma equitativa, como pretende o ora embargado.
+Sem impugnação.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Primeiramente, cumpre esclarecer que o ato judicial que determina o sobrestamento do feito e a devolução dos autos à origem, a fim de que lá seja exercido o competente juízo de retratação ou conformação após o julgamento de questão cuja repercussão geral foi reconhecida pelo STF, não possui conteúdo decisório, razão pela qual é irrecorrível.
+Além do mais, conforme registrado no decisum embargado, encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nesse sentido: AgInt nos EDcl nos EDcl no AREsp n. 1.726.150/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023; AgInt no REsp n. 2.080.469/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023 e AgInt no AgInt no AREsp n. 2.169.047/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2023, DJe de 28/6/2023.
+Com efeito, a decisão embargada sequer emitiu juízo de valor sobre os requisitos de admissibilidade do recurso especial, tampouco sobre o mérito recursal, limitando-se a identificar a existência de controvérsia que se amolda ao Tema 1.255 do STF e determinar o retorno dos autos para observância do art. 1.040 do CPC/2015.
+A única hipótese de alteração da decisão de sobrestamento seria a demonstração, por meio de requerimento (e não por embargos de declaração), de que a questão a ser decidida no processo e aquela a ser julgada no recurso especial afetado seriam distintas.
+Desse modo, considerando que a parte recorrente não fez o distinguishing necessário, deve ser mantida a decisão que determinou a devolução dos autos ao Tribunal de origem.
+Por fim, advirto ao recorrente que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, NÃO CONHEÇO d os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
