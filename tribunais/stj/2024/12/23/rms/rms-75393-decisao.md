@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por TANYA MARA JUCK CORTES, fundamentado no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, no qual se insurge contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO INTERNO. DECISÃO MONOCRÁTICA. RECURSO DE APELAÇÃO NÃO ADMITIDO. INSURGÊNCIA CONTRA O INDEFERIMENTO DA INICIAL DE MANDADO DE SEGURANÇA DE COMPETÊNCIA ORIGINÁRIA. RECURSO CABÍVEL. AGRAVO. ART. 10, §1º, DA LEI N.º 12.016/2009. PRINCÍPIOS DA INSTRUMENTALIDADE DAS FORMAS E DA FUNGIBILIDADE. INAPLICABILIDADE. ERRO GROSSEIRO. 1. De acordo com o artigo 10, §1º, da Lei n.º 12.016/2009, "Do indeferimento da inicial pelo juiz de primeiro grau caberá apelação e, quando a competência para o julgamento do mandado de segurança couber originariamente a um dos tribunais, do ato do relator caberá agravo para o órgão competente do tribunal que integre". 2. Configura erro grosseiro, a afastar a incidência dos princípios da instrumentalidade das formas e da fungibilidade, a interposição de recurso de apelação em face da decisão de indeferimento liminar da petição inicial de mandado de segurança de competência originária do Tribunal. 3. Agravo interno conhecido e não provido." (e-STJ fls. 182).
+No recurso ordinário, a parte recorrente alega que o não conhecimento do mandado de segurança seria medida formalista e burocrática que inviabiliza o acesso ao duplo grau de jurisdição.
+Sem as contrarrazões, o recurso ordinário foi remetido a esta Corte Superior.
+É o relatório.
+DECIDO.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Verifica-se que a parte recorrente foi intimada do acórdão recorrido em 20 de junho de 2024 (e-STJ fl. 186), de forma que o prazo recursal se expirou em 11 de julho de 2024. No entanto, a recorrente somente interpôs o recurso em mandado de segurança em 12 de julho de 2024 (e-STJ fl. 192).
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 33 da Lei n. 8.038/90 e dos arts. 1.003, § 5º, e 219, caput, ambos do Código de Processo Civil.
+Embora a Lei do Mandado de Segurança (Lei nº 12.016/2009) estipule o cabimento do recurso ordinário nas hipóteses de denegação da ordem, nada estabelece quanto aos prazos e aos procedimentos para o processamento do recurso cabível, pelo que todas essas questões devem ser tratadas e solvidas observando-se as disposições contidas no Código de Processo Civil, como se extrai, v.g., dos arts. 1º, 13, 15 e 16 do diploma processual vigente.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso em mandado de segurança.
+Publique-se.
+Intimem-se.
+EMENTA
