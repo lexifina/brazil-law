@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o INSTITUTO NACIONAL DO SEGURO SOCIAL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 237):
+PROCESSO CIVIL. PREVIDENCIÁRIO. REMESSA OFICIAL TIDA POR INTERPOSTA. APOSENTADORIA POR IDADE HÍBRIDA. ATIVIDADE RURAL. REGIME DE ECONOMIA FAMILIAR NÃO CARACTERIZADO. REQUISITOS LEGAIS NÃO COMPROVADOS. HONORÁRIOS ADVOCATÍCIOS.
+I - Remessa oficial tida por interposta, aplicando-se ao caso o Enunciado da Súmula 490 do E. STJ.
+II - Do conjunto probatório constante dos autos, a situação fática não se amolda ao conceito de atividade rural exercida em regime de economia familiar, ficando ilidida a condição de segurado especial do autor nos períodos alegados.
+III - Nesse sentido, constata-se que o IR de 1999 indica o valor de R$ 73.678,19 como base de cálculo do imposto, sendo que o salário mínimo na época era de R$ 136,00, bem como as notas fiscais revelam intensa comercialização de leite, o que descaracteriza a condição de segurado especial em regime de economia familiar. Denota-se, ainda, que o Imposto de Renda de 2017 aponta patrimônio de mais de um milhão e meio de reais.
+IV - Na verdade, o legislador teve por escopo dar proteção àqueles que, não qualificados como empregados, desenvolvem atividades primárias, sem nenhuma base organizacional e sem escala de produção, em que buscam, tão-somente, obter aquele mínimo de bens materiais necessários à sobrevivência. Não é, portanto, o caso dos autos, devendo o autor ser qualificado como contribuinte individual, a teor do art. 11, V, a, da Lei nº 8.213/91.
+V - Honorários advocatícios devidos pelo autor fixados em R$ 1.000,00 (mil reais), conforme previsto no artigo 85, §§ 4º, III, e 8º, do CPC. A exigibilidade da verba honorária, devida pela parte autora, ficará suspensa por 05 (cinco) anos, desde que inalterada a situação de insuficiência de recursos que fundamentou a concessão dos benefícios da assistência judiciária gratuita, nos termos do artigo 98, §3º, do mesmo estatuto processual.
+VI - Remessa oficial tida por interposta e apelação do INSS providas.
+Os embargos de declaração opostos foram rejeitados (fls. 276/294).
+Nas razões de seu recurso especial, a parte alega violação aos arts. 296, 297, parágrafo único, 300, § 3º, 302, I e II, e 520, I e II, 927, III, 948 e 949 e 1.022, II, do Código de Processo Civil; art. 3º da Lei de Introdução ao Código Civil; art. 115, II e § 1º, da Lei 8.213/1991; art. 154 do Decreto 3.048/1999; e arts. 876, 884 e 885 do Código Civil.
+Defende, em resumo, que a parte recorrida deve devolver os valores por ela recebidos por força de decisão antecipatória de tutela posteriormente revogada.
+Requer o provimento de seu recurso.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A questão debatida nos autos foi analisada pela Primeira Seção do Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, por ocasião do julgamento do Tema 692 (REsp 1.401.560/MT e Pet 12.482/DF), em que foi firmada a seguinte tese:
+"A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago, restituindo-se as partes ao estado anterior e liquidando-se eventuais prejuízos nos mesmos autos, na forma do art. 520, II, do CPC/2015 (art. 475-O, II, do CPC/73)".
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratem da mesma controvérsia devem retornar ao Tribunal de origem para que seja feito o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, que estabelece que o relator deve "determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis".
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimem-se.
+EMENTA
