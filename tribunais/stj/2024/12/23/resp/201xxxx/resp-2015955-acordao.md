@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. RECONHECIMENTO DA REINCIDÊNCIA NA FASE DE EXECUÇÃO. PRINCÍPIOS DA LEGALIDADE, INDIVIDUALIZAÇÃO DA PENA E COISA JULGADA. INCIDÊNCIA DA SÚMULA 126/STJ. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, desafiando acórdão de Tribunal estadual que reformou decisão do juízo da execução penal para individualizar os percentuais de progressão de regime conforme a reincidência específica em cada guia de execução penal, considerando a ausência de reconhecimento da agravante da reincidência na sentença penal condenatória.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a reincidência pode ser reconhecida na fase de execução penal para fins de progressão de regime quando tal circunstância agravante não foi declarada na sentença penal condenatória; e (ii) determinar se o recurso especial é admissível quando o acórdão recorrido está fundamentado, simultaneamente, em argumentos constitucionais e infraconstitucionais, sendo os primeiros suficientes para sua manutenção.
+III. RAZÕES DE DECIDIR
+3. O acórdão recorrido está amparado tanto em fundamentos constitucionais quanto infraconstitucionais, sendo os primeiros suficientes para mantê-lo. Ausente a interposição de recurso extraordinário, aplica-se a Súmula n. 126/STJ, que impede a admissibilidade do recurso especial.
+IV. RECURSO ESPECIAL NÃO CONHECIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto com fundamento na alínea a do permissivo constitucional contra acórdão assim ementado (e-STJ, fl. 165):
+AGRAVO EM EXECUÇÃO PENAL - PROGRESSÃO DE REGIME - INCIDÊNCIA DA REINCIDÊNCIA A TODAS AS GUIAS DE EXECUÇÃO - IMPOSSIBILIDADE. Se na sentença não tiver sido reconhecida a agravante da reincidência, é vedado ao juízo da execução reconhecê-la, sob pena de ofensa aos princípios da legalidade, da individualização das penas e da coisa julgada.
+Aponta o MPMG violação dos arts. "63, 64, 83, inciso II, todos do Código Penal, artigo 66 da Lei nº 7.210/84, artigo 1.022, parágrafo único, inciso II, c/c artigo 489, § 1º, inciso VI, ambos do CPC c/c artigo 3º do CPP" (e-STJ, fl. 220), aduzindo, em suma, que "reconhecida a condição pessoal de reincidente específico do reeducando, há que ser modificada a fração para fins de progressão de regime para 3/5 (60%), em relação a todas as guias ativas da execução penal, vedando-se, ainda, o livramento condicional (e-STJ, fl. 221).
+Requer, ao final, "o provimento do presente recurso para que, reformada a decisão do Tribunal a quo, seja fixada a fração de 60% de cumprimento da pena unificada para progressão do regime prisional" (e-STJ, fl. 226).
+Apresentadas as contrarrazões, manifestou-se o MPF pelo provimento recursal.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. RECONHECIMENTO DA REINCIDÊNCIA NA FASE DE EXECUÇÃO. PRINCÍPIOS DA LEGALIDADE, INDIVIDUALIZAÇÃO DA PENA E COISA JULGADA. INCIDÊNCIA DA SÚMULA 126/STJ. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, desafiando acórdão de Tribunal estadual que reformou decisão do juízo da execução penal para individualizar os percentuais de progressão de regime conforme a reincidência específica em cada guia de execução penal, considerando a ausência de reconhecimento da agravante da reincidência na sentença penal condenatória.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a reincidência pode ser reconhecida na fase de execução penal para fins de progressão de regime quando tal circunstância agravante não foi declarada na sentença penal condenatória; e (ii) determinar se o recurso especial é admissível quando o acórdão recorrido está fundamentado, simultaneamente, em argumentos constitucionais e infraconstitucionais, sendo os primeiros suficientes para sua manutenção.
+III. RAZÕES DE DECIDIR
+3. O acórdão recorrido está amparado tanto em fundamentos constitucionais quanto infraconstitucionais, sendo os primeiros suficientes para mantê-lo. Ausente a interposição de recurso extraordinário, aplica-se a Súmula n. 126/STJ, que impede a admissibilidade do recurso especial.
+IV. RECURSO ESPECIAL NÃO CONHECIDO.
+VOTO
+Acerca da matéria aqui trazida, assim se manifestou o Tribunal local (e-STJ, fls. 166-170):
+ ..  Sigo o entendimento de que a reincidência não pode ser reconhecida na fase de execução da pena se a circunstância agravante não tiver sido aplicada na sentença penal condenatória.
+A uma, porque o Código Penal determina em seu art. 76 que, no concurso de infrações, executar-se-á primeiramente a pena mais grave. Ora, se as penas serão executadas segundo a gravidade, é evidente que conferir tratamento uniforme às reprimendas violaria o princípio da legalidade (art. 5º, II, da CF).
+A duas, porque o tratamento uniforme das penas para fins de progressão de regime, independentemente da natureza da infração penal praticada (comum ou hediondo) ou da condição pessoal do condenado (primário ou reincidente) violaria o princípio constitucional da individualização das penas (art. 5º, XLVI, da CF) e a coisa julgada (art. 5º, XXXVI, da CF).
+ ..
+Ademais, como bem pontuou o douto Defensor Público, com o advento da Lei 13.964/19, o legislador estabeleceu uma sistemática em que o cálculo da progressão de regime deve ser realizado de forma individualizada, pois o percentual para preencher o requisito objetivo se modifica conforme a condição pessoal do agente (se primário ou reincidente), a natureza do crime (se comum ou hediondo), o modus operandi (se houve emprego de violência ou grave ameaça), as consequências do delito (se houve morte) e a posição ocupada pelo sentenciado em eventual organização criminosa.
+Desse modo, não é possível aplicar uma única porcentagem a toda a pena do reeducando, sob pena de subversão do sistema imposto pelo legislador.
+Com a nova sistemática, não se diferencia a progressão com base exclusivamente na condição pessoal do sentenciado (se primário ou reincidente) e na natureza do delito cometido (comum ou hediondo).
+Portanto, não se pode admitir que a reincidência posterior (específica ou não) retroceda e altere o requisito objetivo da progressão de regime relativo aos delitos anteriores.
+Dito isso, no presente caso, conforme relatório da situação processual executória do SEEU, o agravante executa duas condenações definitivas: (1) uma de 06 anos de reclusão pelo delito de tráfico, na qual ele foi considerado primário (0003608-98.2018.8.13.0628, seq. 1.8 e 48.2), e (2) uma de 12 anos, 01 mês e 18 dias de reclusão pelos delitos de tráfico e associação para o tráfico, na qual ele foi considerado reincidente (0008555-64.2019.8.13.0628, seq. 68.10).
+Diante disso, reformo a decisão agravada para aplicar o percentual de 40% para a guia 0003608-98.2018.8.13.0628 (art. 112, V, da LEP), a fração de 1/6 ao delito do art. 35 e a fração de 3/5 ao delito do art. 33 da Lei 11.343/06, na guia 0008555-64.2019.8.13.0628 (art. 112 da LEP e art. 2º, § 2º, da Lei 8.072/90, com redação anterior à Lei 13.964/19), porquanto esses crimes foram praticados antes da entrada em vigor do Pacote Anticrime.
+Por todo o exposto, DOU PROVIMENTO AO RECURSO para reformar a decisão agravada e, consequentemente, retificar o atestado de pena do agravante para fazer constar a necessidade de cumprir 40% da pena para progredir de regime para o delito da guia 0003608- 98.2018.8.13.0628, 1/6 para o crime do art. 35 da Lei 11.343/06 e 3/5 para o delito do art. 33 da Lei 11.343/06, esses dois da guia 0008555- 64.2019.8.13.0628. ..
+Como se vê, ao dar provimento ao recurso do executado, ora recorrido, amparou-se o Tribunal estadual, outrossim, em fundamentos constitucionais - destacados, acima - suficientes para mantê-lo.
+No entanto, não há nestes autos notícia de interposição do adequado recurso ao Supremo Tribunal Federal, incidindo, portanto, a Súmula n. 126/STJ, a qual dispõe: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário". Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. CONCESSÃO DE TRABALHO EXTERNO E VISITA A FAMILIARES. NÃO PREENCHIMENTO DOS REQUISITOS OBJETIVOS. SUPERAÇÃO. FUNDAMENTOS DO TRIBUNAL DE ORIGEM AMPARADOS EM ARGUMENTOS E PRINCÍPIOS CONSTITUCIONAIS. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO PELO AGRAVANTE. INCIDÊNCIA DA SÚMULA N. 126 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese, o Juiz das Execuções Criminais deferiu ao agravado a realização de trabalho externo e a saída temporária para visitar familiares, mesmo diante do não cumprimento dos requisitos objetivos exigidos para a concessão dos benefícios.
+2. O Tribunal de origem manteve a decisão singular com amparo nos princípios da fraternidade, liberdade, igualdade, da humanidade e da dignidade da pessoa humana, ora previstos na Constituição Federal - CF. Desse modo, percebe-se que o acórdão está amparado, especialmente, em fundamentação constitucional, ora considerada suficiente para mantê-lo.
+3. Entretanto, conforme bem concluído na decisão hostilizada, o agravante não interpôs o devido recurso extraordinário, o que impede a análise da controvérsia apresentada no apelo nobre, nos termos do Enunciado da Súmula n. 126 do Superior Tribunal de Justiça, segundo o qual "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário". Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.025.908/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ante o exposto, não conheço o recurso especial.
+É o voto.
