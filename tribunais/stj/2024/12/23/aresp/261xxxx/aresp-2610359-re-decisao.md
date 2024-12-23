@@ -1,0 +1,48 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 232):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AFASTAMENTO DA SÚMULA N. 182 DO STJ. NOVA ANÁLISE. VIOLAÇÃO DOS ARTS. 11, 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AÇÃO DE EXECUÇÃO. LEVANTAMENTO DOS VALORES INCONTROVERSOS. AUSÊNCIA DE INTERESSE RECURSAL. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 11, 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência não foram conhecidos (fls. 288-291).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido ausência total de fundamentação em relação aos pontos suscitados pela parte recorrente. Afirma que impugnou especificamente todos os fundamentos da decisão denegatória, devendo ser afastada a aplicação da Súmula 182 do STJ, mas essa tese não teria sido apreciada.
+Requer, assim, a concessão do efeitos suspensivo ativo, bem como a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 235-238):
+Razão assiste à parte agravante quanto à inaplicabilidade da Súmula n. 182 do STJ, de modo que a decisão de fls. 172-173 deve ser reconsiderada.
+Procedo, pois, a novo exame de admissibilidade do recurso especial.
+Em nova análise, contudo, a irresignação do apelo nobre não reúne condições de prosperar.
+O recurso especial foi interposto por EDIFÍCIO SKY TRADE CENTER, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de instrumento n. 2062363- 86.2023.8.26.0000) nos autos de ação de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 20):
+Agravo de instrumento - Execução de título extrajudicial - Insurgência em face da decisão que dispôs que o pedido de levantamento do valor depositado nos autos será apreciado oportunamente - Decisão agravada que não indeferiu o pleito do exequente, mas, apenas, relegou sua apreciação para momento oportuno - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente apontou violação dos arts. 11, 489 e 1.022 do CPC e 93, IX, da CF, queixando-se de negativa de prestação jurisdicional.
+Alegou que o Tribunal a quo não se manifestou sobre a possibilidade do levantamento dos valores incontroversos depositados e afirmou contradição no acórdão recorrido, pois os valores depositados são incontroversos, razão pela qual não se justifica o impedimento a imediato levantamento.
+Aduziu que enfrenta escassez financeira em razão da inadimplência da parte recorrida e que depende dos valores depositados em juízo para honrar suas despesas ordinárias, o que ampara a urgência pleiteada.
+Mencionou os arts. 374, III, 523, caput, do CPC no sentido de que a ausência de impugnação oportuna a respeito dos valores acarreta a presunção de veracidade, tornando o fato incontroverso e permitindo o seu imediato levantamento, não se justificando a não liberação do dinheiro.
+Requereu o provimento do recurso especial para que seja anulado o acórdão que apreciou os embargos de declaração pela origem, determinando-se a realização de um novo julgamento. Subsidiariamente, pleiteou o provimento do recurso especial para que sejam declarados incontroversos os valores depositados nos autos pela parte recorrida com a autorização de seu imediato levantamento, prosseguindo-se a execução pelo saldo devedor remanescente.
+Passo, pois, à análise das proposições deduzidas.
+A respeito da apontada ofensa ao art. 93, IX, da CF, é incabível a pretensão de que esta Corte delibere sobre a suposta violação de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+Além disso, afasta-se a alegada ofensa aos arts. 11, 489 e 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Veja-se que o Tribunal paulista foi claro ao rejeitar o agravo de instrumento lá interposto, com fundamento na ausência de interesse recursal, na medida em que o pedido de levantamento dos valores depositados em juízo ainda não havia sido rejeitado pelo magistrado na origem. Observe-se (fls. 20-21, destaquei):
+A decisão agravada, apenas e tão somente, relegou para momento oportuno a apreciação do pedido de levantamento dos valores depositados nos autos. Diante disso, não tendo sido negado o pedido do credor, não se verifica presente o interesse recursal, bastando ao exequente que, oportunamente, renove sua pretensão perante o juízo a quo, podendo, se assim entender adequado, provocar o órgão jurisdicional para que esclareça qual a oportunidade que se aguarda para que a questão seja resolvida, valendo-se, caso não seja clara a resposta, de embargos de declaração, os quais, a propósito, já poderiam ter sido utilizados em face da r. decisão agravada.
+Posto isso, nego provimento ao recurso.
+E ainda, provocado por embargos de declaração, reiterou (fls. 37-38):
+Quer o embargante, na verdade, tentar fazer com que a Câmara, a partir de nova leitura de argumentos utilizados anteriormente, mude a interpretação que já firmou acerca de todos os fenômenos jurídicos relevantes para o julgamento do agravo, em especial no que diz respeito ao fato de que, no caso concreto, o juízo de primeiro grau não negou o seu pedido de levantamento de valores, mas, apenas e tão somente, relegou a apreciação de tal pleito para momento oportuno, bastando ao exequente renovar sua pretensão perante o juízo a quo e, se assim entender adequado, pedir para que se esclareça qual a oportunidade que se aguarda para que a questão seja resolvida.
+Não há omissão, contradição, obscuridade ou erro material na decisão embargada.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Outrossim, como visto, da leitura do acórdão recorrido acima transcrito, verifica-se que o Tribunal a quo concluiu pela ausência de interesse recursal da parte recorrente, tendo em vista a inexistência de rejeição do pedido pelo juízo de primeira instância.
+Nas razões do recurso especial, a parte restringiu-se a defender a possibilidade e necessidade de saque do dinheiro depositado, fazendo referência aos arts. 374, III, 523, caput, do CPC, com a intenção de que os valores depositados nos autos sejam entendidos como incontroversos e seja autorizada a sua imediata retirada do processo. Em momento algum rebateu o fundamento do acórdão recorrido - ausência de interesse recursal, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Pontue-se que a deficiência na fundamentação recursal, atrai a aplicação da Súmula n. 284 do STF, obstando o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial, inviabilizando a compreensão da controvérsia.
+Ante o exposto, nego provimento ao agravo interno.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Por fim, diante da negativa de seguimento ao recurso extraordinário, o pleito de atribuição de efeito suspensivo ativo fica prejudicado.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
