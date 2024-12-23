@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUCEDÂNEO DE RECURSO ESPECIAL. EXPEDIÇÃO DE SALVO CONDUTO PARA PLANTAÇÃO DE MACONHA PARA FINS MEDICINAIS. REITERAÇÃO DE PEDIDO. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Com efeito, "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi" (AgRg no HC n. 773.624/PI, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022). No caso, a defesa manejou o recurso adequado, o Recurso Especial, registrado nesta Corte sob n. 2.168.258, o qual já recebeu o parecer ministerial e se encontra concluso para julgamento, configurando o presente writ mera reiteração de pedido.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por IZAIAS LEAL contra decisão que não conheceu do habeas corpus por configurar reiteração do RESP 2.168.258 (e-STJ fls. 129/133)
+Segundo consta dos autos, a defesa postulou um salvo conduto no juízo de primeiro grau para que os agentes policiais se abstenham de atentar contra a liberdade de locomoção do paciente, e que ficassem impedidos de apreender as plantas utilizadas para o tratamento medicinal. O juízo de primeiro grau, contudo, denegou a ordem (e-STJ fls. 51/56).
+Inconformada, a defesa interpôs recurso em sentido estrito alegando sofrer o paciente com dor crônica, havendo indicação médica para uso de medicamento à base de canabidiol.
+Nas razões do presente recurso, a defesa alega haver "distinções fundamentais entre as bases que sustentam o Recurso Especial e o habeas corpus, as quais merecem análise mais detalhada": i) "o RESP visa questionar o entendimento adotado pelo TRF-3, que estaria em desacordo com precedentes consolidados de tribunais superiores. Portanto, o RESP se debruça sobre aspectos técnicos e doutrinários, cuja solução impacta diretamente na correta aplicação da lei federal"; ii) "o habeas corpus impetrado possui natureza distinta, focando no risco de coação ilegal imposta ao paciente" (e-STJ fl. 143).
+Diante disso, pede seja o recurso provido para conceder "salvo-conduto de ofício, conforme vasta jurisprudência do E. STJ, sempre visando a garantia dos direitos constitucionais do paciente e a melhor prestação jurisdicional" (e-STJ fl. 14).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUCEDÂNEO DE RECURSO ESPECIAL. EXPEDIÇÃO DE SALVO CONDUTO PARA PLANTAÇÃO DE MACONHA PARA FINS MEDICINAIS. REITERAÇÃO DE PEDIDO. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Com efeito, "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi" (AgRg no HC n. 773.624/PI, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022). No caso, a defesa manejou o recurso adequado, o Recurso Especial, registrado nesta Corte sob n. 2.168.258, o qual já recebeu o parecer ministerial e se encontra concluso para julgamento, configurando o presente writ mera reiteração de pedido.
+3. Agravo regimental a que se nega provimento.
+VOTO
+A decisão deve ser mantida na íntegra.
+Primeiro, de acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, a, da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Segundo, porque a defesa manejou o recurso adequado, o Recurso Especial, registrado nesta Corte sob n. 2.168.258, o qual já recebeu o parecer ministerial e se encontra concluso para julgamento, configurando o presente writ mera reiteração de pedido.
+Não há dúvida que se trata de reiteração de pedido, como consta da petição do recurso especial: "seja dado provimento, reformando-se o respectivo acórdão recorrido, para que ao fim seja concedido o salvo-conduto nos termos inicialmente pleiteados".
+Com efeito, " a  mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus" (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+Assim, "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi" (AgRg no HC n. 773.624/PI, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
