@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de CARLOS ALBERTO AMORIM JUNIOR, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2277605-67.2024.8.26.0000.
+Extrai-se dos autos que o paciente se encontra preso pela suposta prática do delito tipificado no artigo 121, §2º, inciso II e IV, cumulado com o artigo 14, inciso II, ambos do Código Penal.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 81-87 (e-STJ).
+Neste writ, a defesa alega, genericamente o descabimento da prisão preventiva.
+Aduz que "evidente desproporcionalidade na decretação de uma eventual decretação da prisão preventiva no caso em tela, ainda que evidente que a acusação de tráfico de entorpecentes seja tão logo grave, se faz totalmente desnecessário, tendo em vista a quantidade ínfima de drogas" (e-STJ, fl. 13).
+Requer a concessão da ordem, inclusive liminarmente, para que seja revogada a prisão preventiva com aplic ação das medidas cautelares do art. 319 do CPP.
+É o relatório.
+Decido.
+Inicialmente, verifica-se que a prisão preventiva foi decretada em razão de suposto crime de homicídio e a petição inicial traz questões genéricas acerca do art. 312 do CPP e faz referências como se o paciente tivesse sido preso em razão de tráfico de drogas.
+Assim, em razão de petição deste writ trazer razões totalmemente desconexas com o acórdão atacado, não há como conhecer do pedido.
+Nesse sentido, mudando o que tem que mudar:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DESCONEXAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. CONCESSÃO DA ORDEM DE HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DAS PENAS. ATENUANTE. CONFISSÃO ESPONTÂNEA. CONFISSÃO EXTRAJUDICIAL. INCIDÊNCIA INDEPENDENTEMENTE DA UTILIZAÇÃO NA FORMAÇÃO DO CONVENCIMENTO. TRÁFICO PRIVILEGIADO. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. TRANSPORTE DE DROGAS. MULA. REDUTORA APLICADA NA FRAÇÃO MÍNIMA DE 1/6. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. A dissociação entre as razões do regimental (e-STJ fls. 585/591) e o teor do decisum agravado (e-STJ fls. 580/581) evidencia deficiência na fundamentação impeditiva da exata compreensão da controvérsia, atraindo para a espécie, por analogia, a Súmula n. 284/STF. Precedentes.
+2. Ademais, a decisão agravada não conheceu do agravo em recurso especial com fundamento na Súmula n. 284/STF (e-STJ fls. 580/581).
+Nas razões do regimental (e-STJ fls. 585/591), por sua vez, a agravante deixou de infirmar especificamente o referido entrave.
+3. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (decisão de não conhecimento do agravo em recurso especial) inviabiliza o conhecimento do recurso. Incidência da Súmula n. 182/STJ. Precedentes.
+4. Verificada, de ofício, a ocorrência de ilegalidades quanto ao não reconhecimento da incidência da atenuante da confissão espontânea e da minorante do tráfico privilegiado, na segunda e terceira fases da dosimetria, respectivamente, revela-se necessária a concessão de habeas corpus quanto a esses aspectos.
+5. A jurisprudência desta Corte Superior se consolidou no sentido de que, nos casos em que a confissão do acusado servir como um dos fundamentos para a condenação, a aplicação da atenuante em questão é de rigor, "pouco importando se a confissão foi espontânea ou não, se foi total ou parcial, ou mesmo se foi realizada só na fase policial com posterior retração em juízo" (AgRg no REsp 1412043/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/3/2015, DJE 19/3/2015). A matéria encontra-se sumulada, consoante o enunciado n. 545 desta Corte Superior.
+6. A Quinta Turma deste Superior Tribunal, na apreciação do REsp n. 1.972.098/SC, de relatoria do Ministro RIBEIRO DANTAS, julgado em 14/6/2022, DJe 20/6/2022, firmou o entendimento de que o réu fará jus à atenuante da confissão espontânea nas hipóteses em que houver confessado a autoria do crime perante a autoridade, ainda que a confissão não tenha sido utilizada pelo julgador como um dos fundamentos da condenação, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada. Precedentes.
+7. In casu, reconhecida, no acórdão recorrido, a existência de confissão extrajudicial da ré (e-STJ fls. 485, 487 e 489), de rigor a incidência da atenuante genérica.
+8. Para fazer jus à incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 a 2/3, a depender das circunstâncias do caso concreto.
+9. A qualidade de "mula", isoladamente, não se mostra suficiente para denotar que o réu integra organização criminosa, configurando, por outro lado, circunstância concreta e elemento idôneo para valorar negativamente a conduta da agente, na terceira fase da dosimetria, a fim de modular a aplicação da causa especial de diminuição de pena pelo tráfico privilegiado. Precedentes.
+10. É firme o entendimento desta Corte Superior no sentido de que o conhecimento do acusado de estar a serviço de organização criminosa voltada ao tráfico de drogas, como na hipótese dos autos, é circunstância apta a justificar a redução da pena no patamar mínimo, isto é, de 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006. Precedentes.
+11. Agravo regimental não conhecido e concedida, de ofício, a ordem de habeas corpus, para reconhecer a incidência da atenuante da confissão espontânea e da minorante do tráfico privilegiado, redimensionando a reprimenda definitiva, mantidos os demais termos da condenação.
+(AgRg no AREsp n. 2.497.505/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intime-se.
+ EMENTA
