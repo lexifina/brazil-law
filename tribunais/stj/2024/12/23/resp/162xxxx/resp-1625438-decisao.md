@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 485/486):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. TERÇO CONSTITUCIONAL DE FÉRIAS. INCIDÊNCIA. RE 1.072.485 (TEMA 985). JUÍZO DE RETRATAÇÃO EXERCIDO.
+1. Feito que retorna da Vice-Presidência deste Regional, nos termos do art. 1.040, II, do CPC/2015, para realização do juízo de retratação, caso se entenda pertinente, em relação ao RE 1.072.485/PR (Tema 985).
+2. Em sessão realizada em 21/10/2014, esta Segunda Turma deu provimento, em parte, à apelação do demandante para afastar da base de cálculo das contribuições referidas os valores pagos a título de abono de férias e negou provimento à apelação da Fazenda Nacional e à remessa oficial, mantendo os demais termos da sentença que acolheu, em parte, a pretensão para afastar da base de cálculo das contribuições referidas os valores concernentes às férias indenizadas, terço constitucional de férias, horas extras, os quinze primeiros dias de afastamento em razão do auxílio-doença/acidente e o aviso prévio indenizado.
+3. Sobre o tema, o Plenário do Supremo Tribunal Federal (em sessão virtual encerrada em 28/08/2020), quando do julgamento do RE 1.072.485/PR, com repercussão geral reconhecida (Tema 985), fixou a tese de que "é legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias".
+4. Remessa necessária e apelação da Fazenda Nacional parcialmente providas, em juízo de retratação, para reconhecer a legitimidade da incidência da contribuição previdenciária patronal sobre o terço constitucional de férias. Mantida a condenação da parte ré ao pagamento de honorários advocatícios, conforme determinado na sentença, em razão da sucumbência mínima da autora.
+Os embargos de declaração opostos pela recorrente foram rejeitados (fls. 513/522).
+Nas razões do recurso especial, a recorrente aponta, inicialmente, ofensa aos arts. 489, § 1º, IV e VI, e 1.022, inciso II, do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, especificamente quanto ao fato de que, com a alteração do julgamento, a sucumbência se tornou recíproca merecendo aplicação o disposto no art. 86 do CPC.
+Quanto à questão de fundo, alega violação dos arts. . 22, I e § 2º, e 28, § 9º da Lei nº 8.212/91, sustentando que as parcelas pagas pelo empregador a título de horas extras estão sujeitas à incidência da contribuição previdenciária.
+Contrarrazões às fls. 548/568.
+Decisão de admissibilidade à fl. 570.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Compulsando-se os autos, verifica-se que a recorrente pretende a anulação do acórdão proferido pela Corte de origem no julgamento dos embargos de declaração sob o argumento de negativa de prestação jurisdicional, por entender que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente, nas razões dos embargos de declaração, requereu a manifestação expressa do órgão julgador a respeito do disposto no art. 86 do CP, uma vez que, com a alteração do julgamento, a sucumbência se tornou recíproca.
+Observa-se que os embargos de declaração foram rejeitados sem manifestação quanto o tema, conforme se observa no seguinte excerto do voto condutor (fl. 515):
+Nos termos do art. 1.022 do CPC/2015, cabem embargos declaratórios para esclarecer obscuridade ou eliminar contradição (inc. I); suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento (inc. II) e para corrigir erro material (inc. III).
+Os embargos de declaração não são meio próprio ao reexame da causa, devendo limitar-se ao esclarecimento de obscuridade, contradição, omissão ou erro material, , inexistentes no acórdãoin casu embargado.
+As questões suscitadas nos presentes embargos são, na verdade, rediscussão do mérito, incabível em sede de embargos de declaração.
+Ademais, a omissão só se caracteriza, no que tange ao enfrentamento dos dispositivos de lei, quando a parte demonstra que, caso tivessem estes sido abordados, o resultado da demanda seria outro, circunstância que, no caso, não ocorreu, limitando-se a embargante a pedir o pronunciamento do julgado.
+Ressalte-se, por fim, que a mera interposição de embargos de declaração mostra-se suficiente para prequestionar a matéria, nos termos do art. 1.025 do CPC/2015.
+Com efeito, a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresentam imprescindíveis à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1022 do CPC/2015, o que enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGO 1. 022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
