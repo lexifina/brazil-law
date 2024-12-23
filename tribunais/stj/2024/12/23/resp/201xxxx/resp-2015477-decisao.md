@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLAUDEMIR MARANGONI, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 135):
+AÇÃO RESCISÓRIA - CUMPRIMENTO DE SENTENÇA - AÇÃO REVISIONAL DE APOSENTADORIA C/C COBRANÇA DE PROVENTOS - PRETENSÃO DE REVISÃO DO JULGADO - APLICAÇÃO DO QUANTO DECIDIDO PELO STF NO JULGAMENTO DO RE 870.947 - TEMA 810 - AMPARO NOS ARTIGOS 525, §§ 12º E 15º E 535, §§ 5º E 8º - MATÉRIA DE DEFESA DO EXECUTADO - INAPLICABILIDADE NA HIPÓTESE - AUSÊNCIA DE INTERESSE DE AGIR - INDEFERIMENTO DA PETIÇÃO INICIAL.
+1. Hipótese de cabimento. Pretensão de rescisão do acórdão para aplicação do quanto decidido pelo Supremo Tribunal Federal no julgamento do recurso extraordinário nº 870.947 - Tema 810. Pedido amparado nos artigos 525, §§ 12º e 15º e 535, §§ 5º e 8º, ambos do Código de Processo Civil. Dispositivos que preveem as matérias de defesa do executado na impugnação ao cumprimento de sentença. Inaplicabilidade no presente caso, em que a pretende aexequente rescisão do julgado. Precedentes: TJPR. 3ª Seção Cível. 055106-28.2020.8.16.0000. Rel.: Juiz de Direito Substituto em Segundo Grau Kennedy Josue Greca De Mattos. J. 06.10.2021; TRF 3ª Região, 3ª Seção, AR - AÇÃO RESCISÓRIA - 5030858-06.2020.4.03.0000, Rel. Desembargador Federal CARLOS EDUARDO DELGADO, julgado em 18/05/2021; TRF4, ARS 5024501-80.2020.4.04.0000, TERCEIRA SEÇÃO, Relator JOÃO BATISTA PINTO SILVEIRA, juntado aos autos em 26/08/2021.
+2. Indeferimento da petição inicial.
+Não foram opostos embargos de declaração.
+A parte recorrente alega a ocorrência de violação aos arts. 525, caput, § 1º, III e §§ 12 e 15, III e §§ 5º e 8º, bem como ao art. 966 Código de Processo Civil (CPC).
+Em suas razões recursais, sustenta que (fls. 156/160):
+O direito à desconstituição nasce com o trânsito em julgado da decisão ofensiva à ordem jurídica. Ele é conferido a todos que, de algum modo, possam ser atingidos pelos efeitos da decisão viciada. Essa é a razão pela qual a legitimidade da rescisória abrange todas as partes do processo originário (art. 967, I do CPC/2015). É irrelevante a postura das partes no processo originário para aferir a legitimidade ativa na ação rescisória.
+Além disso, ressalta-se que a decisão rescindenda transitou em julgado em 12/09/2018, ou seja, APÓS a declaração de inconstitucionalidade do art. 1º-F da lei federal nº 9494/97 com a redação da lei nº 11.960/09 pelo STF/ RE 870.947 -SE.
+É cabível o reconhecimento da inexigibilidade do título quando fundado em norma inconstitucional ou na não aplicação de norma constitucional, desde que o reconhecimento da constitucionalidade ou inconstitucionalidade pelo Supremo Tribunal Federal tenha ocorrido em julgamento anterior ao trânsito em julgado da decisão exequenda.
+Além disso, ressalta-se que a decisão rescindenda transitou em julgado em 12/09/2018, ou seja, APÓS a declaração de inconstitucionalidade do art. 1º-F da lei federal nº 9494/97 com a redação da lei nº 11.960/09 pelo STF/ RE 870.947 -SE.
+É cabível o reconhecimento da inexigibilidade do título quando fundado em norma inconstitucional ou na não aplicação de norma constitucional, desde que o reconhecimento da constitucionalidade ou inconstitucionalidade pelo Supremo Tribunal Federal tenha ocorrido em julgamento anterior ao trânsito em julgado da decisão exequenda.
+ ..
+Assim, parece bem evidente que a tese da decisão recorrida não encontra nenhum amparo constitucional, como também destoa flagrantemente da interpretação sistemática que se deve dar ao ordenamento jurídico como um todo, e especificamente à legislação processual civil vigente, visando dar coesão ao sistema, sempre visando a defesa do primado da Constituição e dos direitos fundamentais por ela protegidos - dentre os quais o da propriedade, malferido pela Lei n. 11.960/09 (art. 5º), o qual deu nova redação ao art. 1º-F da Lei n. 9.494/97, conforme expressamente reconheceu o STF no julgamento do TEMA 810.
+ ..
+Importante destacar que a Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicada no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera os consectários legais deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada.
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 171/182).
+O recurso foi admitido na origem (fls. 188/189).
+É o relatório.
+O Tribunal de origem, ao analisar a controvérsia, afirmou que (fls. 138/142):
+A requerente pretende a rescisão do acórdão proferido pela c. 7ª Câmara Cível nos autos de apelação cível nº 1.682.044-7, a fim de que seja proferido novo julgamento, adequando a decisão ao quanto decidido pelo Supremo Tribunal Federal no julgamento do recurso extraordinário nº 870.947 - Tema 810.
+A requerente embasa seu pedido no disposto nos artigos 525, §§ 12º e 15º e 538, §§ 5º e 8º, ambos do Código de Processo Civil, que assim dispõem:
+ ..
+Da leitura dos dispositivos, é possível concluir que ambas as normas dispõem acerca da matéria que pode ser arguida em sede de impugnação ao cumprimento de sentença, ou seja, matérias passíveis de serem alegadas pelo executado, visando a inexequibilidade do título ou inexigibilidade da obrigação, o que não é o caso dos autos, uma vez que a requerente ocupa a posição de exequente no cumprimento de sentença.
+ ..
+Ademais, é preciso observar que a presente ação também não se enquadra em nenhuma das hipóteses previstas no art. 966 do Código de Processo Civil, razão pela qual não merece ser conhecida.
+Ressalte-se, por fim, que não se desconhece precedente julgado em sentido contrário por esta egrégia 3ª Seção Cível (TJPR - 3ª Seção Cível - 0032010-81.2020.8.16.0000 - Ribeirão Claro - Rel.: DESEMBARGADORA ANA LÚCIA LOURENÇO - J. 15.02.2021) 1 , porém, até que haja pronunciamento definitivo sobre a matéria, esta Relatoria manterá seu entendimento no sentido da inaplicabilidade dos artigos 525, §§ 12º e 15º e 535, §§ 5º e 8º, ambos do Código de Processo Civil, como matéria de defesa do exequente.
+Ante o exposto, voto no sentido de indeferira petição inicial, reconhecendo a carência de ação - pela ausência de interesse de agir -, com a consequente extinção do processo, sem resolução do mérito, com fulcro nos artigos 330, inciso III, e 485, incisos I e VI, do Código de Processo Civil.
+O acórdão recorrido está em consonância com o entendimento firmado por esta Corte Superior, qual seja, de que "a exceção inserta no art. 535, § 8º, é exclusiva do executado, não servindo ao credor" (AgInt no AREsp 2.362.394/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2023, DJe de 19/12/2023.)
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRAZO DECADENCIAL PARA AJUIZAMENTO DA AÇÃO RESCISÓRIA. JULGADO EM HARMONIA COM O ENTENDIMENTO DO STJ.
+1. O Tribunal de origem, interpretando o disposto no art. 525, § 15, c/c art. 535, § 8º, do CPC, concluiu que os mencionados dispositivos legais referem-se à matéria de defesa, exclusiva do executado, razão pela qual não há fundamento legal para que o credor do título executivo calcule o prazo decadencial para ajuizamento da ação rescisória a partir do trânsito em julgado da decisão proferida pelo Supremo Tribunal Federal.
+2. Nesses termos, a matéria foi decidida em conformidade com a jurisprudência desta Corte, no sentido de que os artigos ora invocados guardam relação com o executado, não aproveitando ao exequente.
+3 . Agravo interno não provido.
+(AgInt no AREsp n. 2.382.534/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/08/2024, DJe de 22/08/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DECURSO DE MAIS DE 2 (DOIS) ANOS ENTRE O TRÂNSITO EM JULGADO DA DECISÃO RESCINDENDA E O AJUIZAMENTO DA DEMANDA. PRETENSÃO DE APLICAÇÃO DO ART. 535, III, §§ 5º E 8º, DO CPC/2015. IMPOSSIBILIDADE. MATÉRIA DE DEFESA EXCLUSIVA DO EXECUTADO. AGRAVO INTERNO IMPROVIDO.
+1. O acórdão recorrido está em conformidade com a jurisprudência deste Superior Tribunal de Justiça, segundo a qual deve ser aplicada a regra geral constante do art. 975 do CPC no caso de ação rescisória ajuizada pela parte credora, visto que a exceção inserta no art. 535, § 8º, é exclusiva do executado, não servindo ao credor.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.187.696/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 13/5/2024, DJe de 17/5/2024.)
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
