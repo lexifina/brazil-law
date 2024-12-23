@@ -1,0 +1,26 @@
+DECISÃO
+IGOR DE CAMARGO MARIA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n.2178798-12.2024.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante, posteriormente convertido em custódia preventiva, pela suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/06.
+A defesa pretende a revogação da custódia preventiva do recorrente, ou a substituição por medidas cautelares alternativas à prisão. Afirma, para tanto, que a constrição provisória carece de fundamentação idônea.
+Indeferida a liminar, o Ministério Público Federal opinou pela concessão parcial da ordem (fls. 78-85).
+Decido.
+I. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Juízo singular, ao converter a prisão em flagrante do réu em preventiva, assim fundamentou, no que interessa (fls. 23-24, grifei):
+Quanto à prisão do autuado, ainda que tenha havido pleito tanto do Ministério Público como da Defensoria Pública pela liberdade, verifico que, para o momento, há prova da materialidade delitiva e indícios de autoria, estes consistentes no depoimento dos policiais militares que realizaram o flagrante, no sentido de que foi o detido apontado por um usuário como o vendedor do entorpecente, além de afirmarem tê-lo visto dispensando o entorpecente encontrado posteriormente.
+Nesse cenário, e tratando-se de reincidente (fls. 44/46), inviabiliza-se a concessão da liberdade provisória, na forma do art. 310, §2º, do Código de Processo Penal, sendo, para o momento, salutar à ordem pública e melhor instrução do feito a manutenção da segregação cautelar, sem prejuízo de melhor e posterior exame pelo juízo competente ao mérito da causa. Portanto, estão, pois, presentes os pressupostos do artigo 312 do Código de Processo Penal para a decretação da prisão preventiva do réu, sendo absolutamente insuficientes, por inócuas, quaisquer outras medidas alternativas. Ante o exposto, CONVERTO A PRISÃO EM FLAGRANTE do indiciado IGOR DE CAMARGO MARIA em PRISÃO PREVENTIVA, que ora decreto, com fundamento no art. 310, inciso II, do Código de Processo Penal.
+No que diz respeito à apontada ausência de quaisquer dos fundamentos previstos no art. 312 do CPP, verifico que o Magistrado de primeiro grau mencionou que o réu é reincidente.
+Tal circunstância, na compreensão do Juízo de primeiro grau, evidenciaria a necessidade de manutenção da custódia cautelar para o bem da ordem pública.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao recorrente - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, considero, ao menos initio litis, ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado, notadamente porque a quantidade de drogas apreendidas foi bastante pequena (1g de cocaína) e o réu possui endereço fixo e trabalho lícito.
+Nesse sentido, aliás, foi o parecer favorável do Ministério Público Federal (fls. 78-85), da lavra da Subprocuradora-Geral da República Samantha Chantal Dobrowolski.
+II. Dispositivo
+À vista do exposto, concedo a ordem para, à luz das peculiaridades do caso concreto, substituir a prisão preventiva do recorrente pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades;
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+Alerte-se ao acusado que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo de primeiro grau e ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
