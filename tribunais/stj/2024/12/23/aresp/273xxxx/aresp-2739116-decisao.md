@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE MAUÁ contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 592):
+TRIBUTÁRIO. ISS E TAXAS. SENTENÇA QUE JULGA IMPROCEDENTE AÇÃO ANULATÓRIA. AUSÊNCIA DE FATOS GERADORES. LANÇAMENTOS BASEADOS EM PRESUNÇÃO DE PRESTAÇÃO DE SERVIÇOS. FALTA DE COMUNICAÇÃO, PARA FINS DE ATUALIZAÇÃO DO CADASTRO MUNICIPAL, QUE NÃO ENSEJA A EXAÇÃO. APELO DA AUTORA PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 613/615 e 624/626), com aplicação de multa no julgamentos dos segundos declaratórios.
+No recurso especial (e-STJ fls. 598/606), o recorrente aponta violação dos arts. 142, 148 e 204, caput, e parágrafo único, do CTN. Afirma que "A fundamentação utilizada pela Corte Paulista inverteu o ônus da prova na desconstituição do crédito tributário, imputando à Fazenda Pública a incumbência da qual se reveste a contribuinte" (e-STJ fl. 603).
+Por fim, diz que "Subsidiariamente, na hipótese rejeição da tese acima exposta, requer o Município que sejam julgados os pontos controvertidos trazidos nos embargos declaratórios opostos e que não foram devidamente esclarecidos pelo juízo de segundo grau, impondo ainda uma indevida Multa ao Município que apenas buscava a decisão jurisdicional a que fazia jus" (e-STJ fl. 604).
+As contrarrazões foram oferecidas.
+O recurso especial não foi admitido (art. 1.030, V do CPC/2015) em razão da ausência de violação à legislação apontada e da incidência da Súmula 7 do STJ (e-STJ fls. 641/642).
+No agravo em recurso especial (e-STJ fls. 645/650), o agravante alega que "a questão versa unicamente sobre a aplicação da lei ao fato, ou seja, não importa em ofensa à Súmula 7 do STJ, bastando o mero cotejo da sentença proferida com o teor do acórdão recorrido, sem qualquer necessidade de valoração das provas como erroneamente alegado na inadmissão do recurso" (e-STJ fl. 649).
+A contraminuta foi apresentada.
+Passo a decidir.
+O Tribunal de origem não admitiu o recurso especial, dentre outros motivos, em razão da incidência da Súmula 7 do STJ.
+Contudo, nas razões do agravo, o agravante limita-se a sustentar genericamente que "a reanálise probatória se demonstraria desnecessária, pois a divergência reside na interpretação dos artigos do CTN que possibilitam o arbitramento, o lançamento e a presunção de legitimidade do ato" (e-STJ fls. 648/649).
+Sendo assim, constata-se que a parte não impugnou específica e adequadamente a incidência do referido enunciado.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não se r conhecido.
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp 1.694.099/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022.).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
