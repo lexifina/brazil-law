@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de MICHAEL ROBSON SANTOS DA CONCEIÇÃO, impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no Agravo em Execução n. 0008479-12.2024.8.26.0496, assim ementado (fl. 14):
+PENAL - PROCESSO PENAL - EXECUÇÃO PENAL AGRAVO EM EXECUÇÃO PROGRESSÃO DE REGIME RECURSO DEFENSIVO EXAME CRIMINOLÓGICO FAVORÁVEL REQUISITOS NÃO PREENCHIDOS. Em que pese o Agravante preencher o requisito objetivo para a progressão e, contar com conclusão favorável no Exame Criminológico, não pode a progressão ser concedida diante de aspectos negativos, não podendo a sociedade ser usada como cobaia para aferição de índice de recuperação de condenado. RECURSO DESPROVIDO.
+Consta dos autos que o paciente cumpre pena de 03 (três) anos de reclusão por crime de porte ilegal de arma de fogo, tendo iniciado o cumprimento em 13 de janeiro de 2024, com término previsto para 12 de janeiro de 2027.
+Em 09/09/2024, o Juízo da Unidade Regional de Departamento Estadual de Execução Criminal de Ribeirão Preto - DEECRIM 6ª RAJ indeferiu pedido de progressão ao regime aberto do ora paciente.
+Em 30/10/2024, o Tribunal de origem, ao julgar o agravo em execução interposto pela Defesa, manteve a decisão de primeiro grau (fls. 13/19).
+Sustenta a Defesa que o paciente cumpriu pena total de 03 (três) anos e, em 19/08/2024, teria alcançado o lapso para a progressão de regime, preenchendo, ainda, o requisito subjetivo.
+Requer, liminarmente e no mérito, que seja concedida a ordem e determinada a progressão ao regime aberto do paciente.
+O pedido liminar foi indeferido (fls. 62/63). As informações foram prestadas (fls. 69/79 e 81/90).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, ausente ilegalidade, pela não concessão da ordem, de ofício (fls. 97/101).
+É o relatório.
+DECIDO.
+O Tribunal de origem negou provimento ao agravo em execução nos seguintes termos (fls. 15/19 - grifamos):
+ ..
+Insurge-se o Agravante contra a r. decisão que indeferiu seu pedido de progressão ao regime aberto, afirmando que ao contrário do quanto reconhecido pela r. decisão agravada, preenche também o requisito de natureza subjetiva exigido para a obtenção do benefício.
+Com o advento da Lei nº 10.792/03, que alterou o art. 112, da Lei nº 7.210/84, a realização do exame criminológico para concessão de Agravo de Execução Penal nº 0008479-12.2024.8.26.0496 progressão de regime e de livramento condicional tornou-se prescindível.
+O art. 112, da Lei de Execução Penal, passou a prever a possibilidade de progressão de regime quando o preso tiver cumprido ao menos um sexto da pena no regime anterior (requisito objetivo/temporal), e ostentar bom comportamento carcerário (requisito subjetivo), assim firmado pelo diretor do estabelecimento prisional.
+Nesse sentido, a obrigatoriedade de exame criminológico para a progressão a regime mais brando foi extirpada, bastando para atendimento do requisito subjetivo a expedição de atestado de bom comportamento carcerário pelo diretor do estabelecimento prisional.
+Todavia, isso não significa que o magistrado esteja impedido de determinar o exame, caso as peculiaridades do caso sub judice demonstrem ser necessária sua realização.
+ ..
+O Agravante, reincidente, cumpre pena de 03 anos de reclusão, por crime de porte ilegal de arma de fogo, praticado em 13.01.2024 (Processo Crime nº 1500100-22.2024.8.26.0556 2ª Vara da Comarca de Américo Brasiliense). Iniciou o cumprimento da pena aos 13.01.2024 e o término encontra-se previsto para o dia 12.01.2027 (fls. 19/23).
+Não consta do Boletim Informativo que o Agravante tenha exercido trabalho laborterápico ou estudo na unidade prisional.
+Ademais, submetido a exame criminológico, constou que o Agravante possui projetos futuros e discurso superficiais, logo, como bem destacado na r. decisão agravada: ".. o sentenciado ainda não assimilou adequadamente a terapêutica penal de reeducação, não ostentando, por conseguinte, aptidão para desfrutar de regime prisional menos rigoroso, mediante contato direto com a sociedade e desprovido vigilância. Mostra-se ele, ainda, carente de autodisciplina e de senso de responsabilidade, condições imprescindíveis para ingressar no regime prisional em questão.." (fls. 08).
+Com isso, agiu corretamente o d. Juízo das Execuções ao reconhecer que o Agravante não preenche o requisito subjetivo para obtenção da progressão de regime prisional, pois o exame criminológico apresentou aspectos desfavoráveis à concessão do benefício.
+Para a progressão de regime prisional não basta tenha o condenado cumprido parte de sua pena e, simplesmente apresente bom comportamento carcerário, comprovado por atestado expedido pela administração do estabelecimento penal onde recolhido. Outros fatores devem ser considerados para a análise, especialmente, do preenchimento do requisito subjetivo.
+Com propriedade destacou o eminente Desembargador GERALDO WOHLERS, ex-componente desta Terceira Câmara de Direito Criminal, nos autos de Agravo em Execução nº 990.09.096770-6, j. 17.11.2009, da sua relatoria:
+ ..  Risco na concessão de progressão de regime sempre existe, no entanto, a sociedade não pode ser usada como cobaia para aferição de recuperação de condenado que faz da prática de crimes o seu modo de vida.
+Com isso, permite-se concluir, com a certeza necessária, pelo acerto da r. decisão agravada que indeferiu seu pedido de progressão de regime prisional.
+Ante todo o exposto, NEGO PROVIMENTO ao presente Agravo em Execução, interposto por MICHAEL ROBSON SANTOS DA CONCEIÇÃO, qualificado nos autos, mantendo a r. decisão que indeferiu seu pedido de progressão do regime semiaberto para o aberto por seus próprios fundamentos.
+Registre-se que
+ E sta Corte Superior de Justiça firmou orientação no sentido de que "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" (HC 468.765/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/12/2018, DJe 18/12/2018) (AgRg no HC n. 879.565/SC, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024, grifamos).
+Como visto, na decisão de indeferimento do Juízo da Unidade Regional de Departamento Estadual de Execução Criminal de Ribeirão Preto - DEECRIM 6ª RAJ consta que o apenado foi submetido a exame criminológico e (fl. 21 - grifamos)
+apesar da conclusão favorável ao benefício, existem importantes observações desfavoráveis ao condenado, em destaque para o fato de possuir projetos pós cárcere superficiais, apresentando discurso superficial, onde apenas verbaliza arrependimento e sofrimento, as condições subjetivas para o enfrentamento de maiores responsabilidades mostram-se fragilizada.
+Em outras palavras: o sentenciado ainda não assimilou adequadamente a terapêutica penal de reeducação, não ostentando, por conseguinte, aptidão para desfrutar de regime prisional menos rigoroso, mediante contato direto com a sociedade e desprovido vigilância. Mostra-se ele, ainda, carente de autodisciplina e de senso de responsabilidade, condições imprescindíveis para ingressar no regime prisional em questão.
+O Tribunal de origem concluiu que o Juízo de primeira instância agiu acertadamente ao reconhecer que o ora paciente não preenche o requisito subjetivo para obtenção da progressão de regime prisional, pois o exame criminológico apresentou aspectos desfavoráveis à concessão do benefício (fl. 17 - grifamos).
+Consoante apontado pelo Juízo das Execuções, o laudo de exame criminológico, apesar da conclusão favorável ao benefício (fl. 21), apresentou aspectos desfavoráveis, sem demonstrar fatos ocorridos durante a execução penal, tendo sido indeferido o pleito em descompasso com a jurisprudência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. ASPECTOS DO LAUDO PSICOLÓGICO DESFAVORÁVEIS. HISTÓRICO PRISIONAL CONTURBADO.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. Não é vedado ao Juiz singular o indeferimento da benesse quando, a despeito do exame criminológico favorável, entender não implementado o requisito subjetivo, desde que aponte particularidades fáticas que expressem a ausência de mérito do condenado.
+3. No caso, foram apontados pontos desfavoráveis ao réu no laudo psicológico que compõe o exame criminológico, além do conturbado histórico prisional, não havendo que se falar em constrangimento ilegal a ser sanado via remédio heroico.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 878.766/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024 - grifamos)
+Nesses termos, entendo presente o constrangimento ilegal.
+Ante o exposto, concedo a ordem de habeas corpus, de ofício, para que seja determinada a progressão ao regime aberto do paciente, devendo o Juízo das Execuções estabelecer as regras pertinentes.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo das Execuções.
+Publique-se. Intimem-se.
+EMENTA
