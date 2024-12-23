@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de DANIEL VITORINO, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Tribunal de origem julgou improcedente a revisão criminal distribuída, no bojo da qual se pretendia a reforma da sentença que condenou o paciente à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, em razão da prática do crime previsto no art. 157, § 2º, II, do Código Penal.
+Na presente impetração, busca-se a concessão da ordem, para que o paciente seja absolvido do crime pelo qual foi condenado. Subsidiariamente, requer-se a desclassificação do delito e a fixação de regime de cumprimento inicial aberto, bem como a substituição da pena privativa de liberdade por restritiva de direitos.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Consoante entendimento desta Corte Superior, a revisão criminal não pode ser utilizada como nova apelação para reexame de fatos e provas sem os pressupostos do art. 621 do CPP (AgRg no HC 944966 / PR, QUINTA TURMA, de minha relatoria, DJe 29/11/2024), como se tem no caso em apreço.
+Quanto à invocada violação ao art. 226 do Código de Processo Penal, ao que se extra do acórdão da revisão criminal, a comprovação da autoria delitiva não decorreu apenas do reconhecimento efetuado pela vítima na delegacia, tendo sido foi amparada por outros elementos de prova, inclusive com a oitiva dos policiais e com a ratificação do reconhecimento formal em juízo, oportunidade em que a vítima salientou não ter qualquer dúvida a respeito da autoria (fls. 17).
+Ademais , como bem pontuado pelo Parquet, "embora o TJ/SP tenha mencionado que o procedimento do art. 226 do CPP consiste em mera recomendação, o que contraria a atual jurisprudência dessa Corte, é fundamental observar que a condenação do paciente foi amparada também em outras provas, como demonstra uma breve leitura da sentença às fls. 28/35" (fls. 77/79).
+Por derradeiro, o regime inicial de cumprimento da pena está calcado no art. 33, §1º, "b", do Código Penal, sendo vedada a substituição da pena privativa de liberdade por restritiva de direitos, na forma do art. 44, inciso I, do mesmo diploma legal.
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
