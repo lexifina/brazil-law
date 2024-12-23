@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDUARDO LIMA BENEVENTO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 0000116-60.2017.8.26.0535.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003, à pena de 06 (seis) anos de reclusão, em regime inicial fechado, mais pagamento de 19 (dezenove) dias-multa.
+O Tribunal de origem deu parcial provimento ao recurso defensivo a fim de reduzir a pena para 05 (cinco) anos e 04 (quatro) meses de reclusão e pagamento de 17 (dezessete) dias-multa.
+Neste writ, a parte impetrante se insurge contra a fração de exasperação relativa à reincidência.
+Alega serem insuficientes os motivos para justificar o acréscimo da sanção em 1/3, pois o fato de ter sido condenado anteriormente é o que justifica o agravamento, de modo que há flagrante ilegalidade na fundamentação (fl. 4).
+Requer, em liminar e no mérito, a concessão do presente writ, para que seja redimensionada a pena do paciente.
+O pedido liminar foi indeferido às fls. 42-43.
+Informações prestadas às fls. 51-53 e 54-80.
+O Ministério Público Federal manifestou-se às fls. 85-88, opinando pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício para fazer incidir a fração de 1/6 a título de agravante pela reincidência.
+É o relatório.
+DECIDO.
+Constato que o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem já transitado em julgado. Nesse contexto, não deve ser conhecido este writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados (AgRg no HC n. 573.735/SP, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021, DJe de 30/04/2021, e AgRg no HC n. 610.106/PR, rel. Ministro Felix Fischer, Quinta Turma, julgado em 23/02/2021, DJe de 1º/03/2021; decisões monocráticas: HC n. 512.674/CE, rel. Ministro Sebastião Reis Júnior, DJe de 30/05/2019; HC n. 482.877/SP, rel. Ministro Jorge Mussi, DJe de 29/03/2019; HC n. 675.658/PR, rel. Ministro Ribeiro Dantas, DJe de 04/08/2021; HC n. 677.684/SP, rel. Ministro Antonio Saldanha Palheiro, DJe de 02/08/2021).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque, de acordo com a jurisprudência do Superior Tribunal de Justiça, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+Na hipótese, o Tribunal de origem fundamentou concretamente a escolha da fração superior a 1/6 (um sexto) a título de reincidência pela gravidade do crime anterior.
+Cito, no mesmo sentido, a seguinte decisão monocrática da lavra do Ministro ANTONIO SALDANHA PALHEIRO, no HC n. 936563/SP, publicada em 15/08/2024, contendo discussão similar a destes autos:
+No que se refere à segunda etapa da dosimetria das penas, a defesa alega que a fração superior a 1/6 pela agravante da reincidência foi aplicada sem a devida fundamentação. Todavia, a Corte de origem corroborou o aumento pela reincidência escorreitamente, com lastro na gravidade do crime anterior (roubo), consignando que, "no presente caso, levando-se em conta a natureza violenta do crime pretérito, conveniente a adoção de coeficiente de exacerbação superior a 1/6" (e-STJ fl. 111).
+Na hipótese, a Corte a quo exasperou a pena do paciente em fração mais gravosa do que 1/6 preconizada como a medida padrão pela jurisprudência desta Corte amparada em elementos concretos, atuando mediante a necessária apresentação de fundamentos para tal proceder.
+Assim, também em relação à fração de aumento da segunda etapa da dosimetria dos crimes, houve fundamentação concreta que, efetivamente, justifica o afastamento da razão de 1/6, consolidada jurisprudencialmente para as hipóteses de ausência de motivação apresentada para a exasperação em fração diversa, o que não é o caso dos autos, em que foi consignado que a violência do crime anterior justifica a escolha de aumento maior do que o padrão.
+Destarte, inexiste ilegalidade a ser corrigida nos quantitativos de aumento da basilar do descumprimento de medida protetiva e das penas intermediárias deste delito e do crime de ameaça, uma vez que, em ambas as etapas da dosimetria, as frações de majoração diversas de 1/6 foram eleitas com o devido respeito, pelas instâncias ordinárias, à discricionariedade vinculada.
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se. Intimem-se.
+EMENTA
