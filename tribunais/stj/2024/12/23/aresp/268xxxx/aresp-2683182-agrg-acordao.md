@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. RÉU PRONUNCIADO POR HOMICÍDIO TENTADO. ALEGAÇÃO DE LEGÍTIMA DEFESA AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. PLEITO DE ABSOLVIÇÃO SUMÁRIA QUE DEMANDA AMPLA INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Tendo a Corte de origem, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, concluído pela presença de indícios suficientes de autoria e prova da materialidade do crime, ressaltando não haver prova cabal e irrefutável da prática da conduta sob legítima defesa, a desconstituição de tais conclusões demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ" (AgRg no AREsp n. 2.514.383/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+2. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por BALDUINO DA SILVA CALDAS NETO contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que negou provimento ao recurso em sentido estrito, em acórdão assim ementado:
+"RECURSO EM SENTIDO ESTRITO. ABSOLVIÇÃO SUMÁRIA. TENTATIVA DE HOMICÍDIO. ALEGAÇÃO DE LEGÍTIMA DEFESA. ANIMUS NECANDI DISCUTÍVEL NO CASO. COMPETÊNCIA RESERVADA AO CONSELHO DE SENTENÇA. 1. A Absolvição Sumária pela excludente de ilicitude de legítima defesa (real ou putativa) de crime contra a vida se revela viável quando indene de dúvidas a ausência do dolo de matar, sob pena de usurpação da competência soberana do Tribunal do Júri. 2. In casu, comprovada a materialidade do crime e havendo indícios suficientes de autoria, revelados pelos elementos de convicção colacionados aos autos, forçoso concluir que a configuração da legítima defesa padece de dúvida, e portanto, discutível, não havendo, por essas razões, se falar em absolvição sumária, sob pena de usurpar- se a competência do Conselho de Sentença. RECURSO CONHECIDO E DESPROVIDO"
+O recorrente requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 855-863).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. RÉU PRONUNCIADO POR HOMICÍDIO TENTADO. ALEGAÇÃO DE LEGÍTIMA DEFESA AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. PLEITO DE ABSOLVIÇÃO SUMÁRIA QUE DEMANDA AMPLA INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Tendo a Corte de origem, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, concluído pela presença de indícios suficientes de autoria e prova da materialidade do crime, ressaltando não haver prova cabal e irrefutável da prática da conduta sob legítima defesa, a desconstituição de tais conclusões demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ" (AgRg no AREsp n. 2.514.383/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir os fundamentos que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Não merece reparo a decisão que inadmitiu o recurso especial, cabendo destacar o seguinte trecho de sua fundamentação (e-STJ fl. 798):
+"A bem da verdade, a análise de eventual ofensa ao dispositivo tido por violado encontra óbice na Súmula 7 do STJ, pois a conclusão sobre o acerto ou desacerto do acórdão atacado demandaria sensível incursão do acervo fático-probatório, para que se pudesse aferir, casuisticamente, se foram ou não preenchidos os requisitos da referida excludente de ilicitude. E isso, de forma hialina, impede o trânsito do recurso especial (cf. STJ, 5ª T., HC n. 474.428/R Si, relator Ministro Reynaldo Soares da Fonseca, DJe de 1/3/2019)."
+De fato, a decisão agravada encontra-se em perfeita consonância com a jurisprudência desta Corte, que se firmou no sentido de que "tendo a Corte de origem, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, concluído pela presença de indícios suficientes de autoria e prova da materialidade do crime, ressaltando não haver prova cabal e irrefutável da prática da conduta sob legítima defesa, a desconstituição de tais conclusões demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ" (AgRg no AREsp n. 2.514.383/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
