@@ -1,0 +1,4 @@
+iNSTRUÇÃO NORMATIVA BCB Nº 570, DE 20 DE Dezembro DE 2024
+Dispõe sobre a data-limite para a remessa das datas-bases dos meses de janeiro, fevereiro e março de 2025 do documento de código 4111 – Saldos Contábeis Diários, de que trata a Instrução Normativa BCB nº 524, de 18 de setembro de 2024.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro – Desig no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, divulgado por meio da Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alínea “b”, do referido Regimento, e tendo em vista o disposto na Resolução CMN nº 4.966, de 25 de novembro de 2021, nas Resoluções BCB ns. 208, de 22 de março de 2022, 352, de 23 de novembro de 2023, e 428, de 7 de novembro de 2024, e na Instrução Normativa BCB nº 524, de 18 de setembro de 2024,
+R E S O L V E:
