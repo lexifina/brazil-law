@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial, interposto por RESPIRE VENDA E LOCACAO DE EQUIPAMENTOS MEDICOS LTDA contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 275, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - DANOS MATERIAIS E MORAIS - AQUISIÇÃO DE PRODUTO NOVO - USO MEDICINAL E DOMICILIAR - VÍCIO OCULTO - PRAZO DA GARANTIA - MAU USO - INEXISTÊNCIA DE PROVA - DEVER DE INDENIZAR - DANO MORAL - SITUAÇÃO QUE ULTRAPASSA A ESFERA DO MERO DISSABOR - PERDA DE TEMPO ÚTIL DO CONSUMIDOR - RESCISÃO DE CONTRATO - DANO MATERIAL - INDENIZAÇÃO - CABIMENTO.
+- Comprovado o defeito do produto no prazo da garantia e inexistente a prova do mau uso, ônus probatório da parte ré, é cabível a restituição do valor correspondente ao preço desembolsado para aquisição desse bem, juntamente com as despesas de envio à assistência técnica e aluguel de aparelho semelhante.
+- Há dano moral no fato de uma empresa vender um produto, por ele receber e não dar a assistência devida ao consumidor durante o prazo da garantia, obrigando-o a tentar resolver a questão na esfera extrajudicial, sem êxito, para, posteriormente, ter de acionar o Poder Judiciário, com evidente perda de tempo útil, para obter o reconhecimento de seu direito.
+Em suas razões de recurso especial (fls. 303-312, e-STJ), a insurgente alega violação aos artigos 357, III e 373, I, do CPC. Sustenta, em síntese, que o autor não comprovou o alegado vício oculto, ônus do qual lhe incumbia, quanto ao fato constitutivo do seu direito.
+Contrarrazões às fls. 502-506, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que justificou a interposição do presente agravo (fls. 537-541, e-STJ).
+Sem contraminuta (fl. 776, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Verifica-se, que a parte agravante não demonstrou de que forma o artigo 357, III, do CPC foi violado pelo acórdão recorrido.
+Com efeito, a alegação de ofensa à lei federal pressupõe a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, de maneira a demonstrar a devida correlação jurídica entre o fato e o mandamento legal.
+Nesse sentido, a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incide, portanto, o disposto na Súmula 284/STF, que se aplica por analogia.
+Nesse sentido, precedentes desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVANTE.  ..  3. A simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incidência da Súmula 284/STF, por analogia. 4. Agravo interno desprovido. (AgInt no AREsp n. 2.245.737/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. NÃO COMPROVAÇÃO NA MUDANÇA DE CAPACIDADE FINANCEIRA DO ALIMENTANTE. AUSÊNCIA DE FUNDAMENTOS CLAROS E CONCATENADOS. ILAÇÕES GENÉRICAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. REVISÃO DE ALIMENTOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. NOVO CPC. INAPLICABILIDADE. DECISÃO MANTIDA. 1. A alegada afronta à lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula nº 284 do STF.  ..  4. Agravo regimental não provido. (AgRg no AREsp 797.525/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/04/2016, DJe 05/05/2016)
+Apesar de a parte recorrente ter indicado, nas razões recursais, o dispositivo que entende violado, não demonstrou, clara e precisamente, no que consistiu a alegada negativa de vigência à lei, ou mesmo qual a sua correta aplicação, o que impossibilita a exata compreensão da controvérsia, atraindo a aplicação, à hipótese, do enunciado 284 da Súmula do Supremo Tribunal Federal, por aplicação analógica.
+2. O aresto entendeu pela ocorrência do vício oculto, premissa que não foi afastada pela ré, ora insurgente. Justificou o julgado que o laudo técnico apresentado, não evidenciou que o defeito existente seria decorrente de mau uso, apenas informando ter entrado água no interior do aparelho denominado CPAP, para respiração mecânica.
+Apreciando o ônus da distribuição da prova, firmou-se que a agravante não juntou aos autos comprovação de seu direito, de que a falha no bem ocorreu por mau uso do adquirente.
+Veja-se (fls. 279-281, e-STJ):
+ ..
+Com a inicial a parte autora juntou o documento comprovando a entrega do aparelho à assistência técnica, no qual consta a informação de que esse produto teria sido danificado devido à entrada de água, e que a placa da fonte estaria queimada:
+"Eqto se apresentou não ligando, danificado devido a entrada de água, placa da fonte queimada, deverá ser substituída. Blower com pino oxidado, porém com ruido dentro da normalida, ainda pode ser usado. Filtro sujo Umidificador ok." (sic).
+Não consta nesse documento informação de que o defeito encontrado seria decorrente de mau uso, apenas informação que entrou água em seu interior.
+Considerando esse contexto, como a parte autora apresentou com a petição inicial as provas que fundamentam a sua pretensão, cabe, dessa forma, a aplicação da distribuição do ônus da prova previsto no art.373 do CPC.
+Assim, com base nesse dispositivo legal, ficou a cargo da parte ré a comprovação da "existência de fato impeditivo, modificativo ou extintivo do direito do autor." (373, II, CPC).
+Entretanto, ela não se desincumbiu desse encargo, porque não provou que o defeito seria decorrente de seu mau uso pela parte autora, como alegado em sua defesa.
+Somente a parte autora requereu a prova pericial, da qual desistiu tacitamente, e a parte ré pediu apenas a contraprova, embora fosse seu o ônus de comprovar a inexistência do alegado defeito oculto, independente da eventual possibilidade de inversão do ônus da prova, se fosse o caso.
+Diante disso, forçoso concluir pela existência de vício oculto, uma vez que restou incontroverso nos autos que a parte autora permaneceu na posse do objeto por curto tempo e já teve que acionar a assistência técnica.
+Nesse sentido, a parte autora tem direito à restituição da quantia que pagou pelo aparelho, conforme determinado na sentença recorrida, facultando à parte ré o recolhimento do aparelho defeituoso.
+Observa-se que o acórdão recorrido deu solução à controvérsia por meio de minuciosa análise do contexto fático-probatório que guarnece os autos.
+Nesse contexto, para derruir as conclusões a que chegou o Tribunal de origem, seria necessário o revolvimento dos elementos de prova insertos no processo.
+Assim sendo, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESTITUIÇÃO CUMULADA COM PEDIDO DE DANOS MORAIS. COMPRA DE QUADRICICLO NOVO QUE APRESENTOU DEFEITO NO PRAZO DE 01 ANO. VIOLAÇÃO DO ART. 10, C/C O ART. 329 DO NCPC. DECISÃO SURPRESA. INOCORRÊNCIA. VÍCIO DO PRODUTO. VÍCIO OCULTO. DISTRIBUIÇÃO DO ÔNUS DA PROVA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.  ..  3. O acolhimento da pretensão recursal sobre a distribuição do ônus probatório exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula nº 7 do STJ. 4. Agravo interno não provido. (AgInt nos EDcl no REsp n. 1.684.238/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/3/2020, DJe de 1/4/2020.)  grifou-se
+3. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
