@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS NÃO CONHECIDO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO OU REV ISÃO CRIMINAL. CRIMES DE TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PORTE DE ARMA DE FOGO. LESÃO CORPORAL GRAVE. AUSÊNCIA DE IMPUGNAÇÃO INTEGRAL. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame: agravo regimental em que a parte agravante impugna decisão monocrática que não não conheceu o habeas corpus por ser substitutivo de recurso cabível e não haver qualquer ilegalidade que permita a concessão da ordem de ofício.
+II. Questão em discussão: consiste em saber se o agravo regimental atende aos pressupostos de admissibilidade, para, assim, ser conhecido pelo Superior Tribunal de Justiça.
+III. Razões de decidir:
+1. A hipótese atrai a incidência da Súmula 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+3.O recurso interposto mostrou-se incapaz de superar o requisito de admissibilidade previsto no referido comando sumular.
+IV. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão monocrática que não conheceu o habeas corpus por ser substitutivo de recurso e não verificar qualquer ilegalidade que possibilitasse a concessão da ordem de ofício.
+A parte recorrente pugna pela reconsideração da decisão agravada ou pela apreciação da matéria pelo colegiado (e-STJ, fls. 883-885).
+Ministério Público estadual não apresentou impugnação e houve o transcurso do prazo para resposta in albis (e-STJ, fl. 894).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS NÃO CONHECIDO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO OU REV ISÃO CRIMINAL. CRIMES DE TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PORTE DE ARMA DE FOGO. LESÃO CORPORAL GRAVE. AUSÊNCIA DE IMPUGNAÇÃO INTEGRAL. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame: agravo regimental em que a parte agravante impugna decisão monocrática que não não conheceu o habeas corpus por ser substitutivo de recurso cabível e não haver qualquer ilegalidade que permita a concessão da ordem de ofício.
+II. Questão em discussão: consiste em saber se o agravo regimental atende aos pressupostos de admissibilidade, para, assim, ser conhecido pelo Superior Tribunal de Justiça.
+III. Razões de decidir:
+1. A hipótese atrai a incidência da Súmula 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+3.O recurso interposto mostrou-se incapaz de superar o requisito de admissibilidade previsto no referido comando sumular.
+IV. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo.
+No entanto, não constato elementos suficientes para reconsiderar o julgamento monocrático, ou prover o presente recurso, uma vez que a decisão agravada assim dispôs (e-STJ fls. 872-875):
+Trata-se de habeas corpus impetrado em favor de ALESSON ACIOLE DO NASCIMENTO, CARLOS ROBERTO PEREIRA DA SILVA e RAFAEL PEREIRA DA SILVA contra acórdão assim ementado (e-STJ fl. 34-55):
+PENAL E PROCESSUAL PENAL. RECURSOS DE APELAÇÃO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PORTE DE ARMA DE FOGO. LESÃO CORPORAL GRAVE. PLEITO ABSOLUTÓRIO EM RELAÇÃO AOS CRIMES DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. NÃO CABIMENTO. AUTORIA E MATERIALIDADE DEMONSTRADAS. PORTE DE ARMA DE FOGO. PRINCÍPIO DA CONSUNÇÃO. INAPLICÁVEL NO CASO CONCRETO. DESÍGNIOS AUTÔNOMOS. PENA BASE. TRÁFICO DE DROGAS. OCORRÊNCIA DE BIS IN IDEM. NÃO VERIFICADA. AJUSTE DA INDIVIDUALIZAÇÃO DAS PENAS RELATIVAS AO CRIME DE TRÁFICO DE DROGAS. RECURSOS PARCIALMENTE PROVIDOS APENAS PARA REDIMENSIONAR AS PENAS DE MULTA. DECISÃO UNÂNIME.
+1. O acervo probatório erigido em Juízo permite concluir que os apelantes se associaram, de forma estável e duradoura, para a prática do delito de tráfico de drogas, sendo responsáveis pela droga apreendida, embora localizada na residência de apenas dois dos apelantes, porquanto havia certo nível de organização e divisão de tarefas. Diante de tais provas, inviável o acolhimento do pleito absolutório em relação aos crimes previstos no art. 33, caput, e art. 35 da Lei 11.343/06;
+2. Não é aplicável o princípio da consunção ao crime previsto no art. 14 da Lei 10.826/03, na hipótese em que o crime de tráfico de drogas e o crime de porte de arma de fogo de uso permitido foram praticados em diferentes contextos, existindo desígnios autônomos;
+3. Em relação à dosimetria, não merece acolhimento a tese defensiva no sentido de ocorrência de vedado bis in idem na fixação da pena relativa ao crime de tráfico, uma vez que, destrinchados os argumentos que fundamentaram a elevação da pena base, constata-se a existência de duas circunstâncias judiciais negativas distintas - sendo valoradas negativamente a natureza da droga apreendida (maconha e crack) e as circunstâncias do delito de tráfico de drogas (praticado mediante violência e disputa com grupos criminosos rivais);
+4. Incabível a aplicação aos apelantes da minorante prevista no art. 33, §4º da Lei 11.343/06, uma vez que os apelantes não só estavam unidos para a prática do crime de tráfico de drogas, como dispunham de armas de fogo, integravam organização destinada à prática do crime de tráfico de drogas, inclusive com divisão de tarefas, e praticavam violência armada contra grupos rivais;
+5. Analisando as alegações recursais concernentes à individualização das penas no crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06), conclui-se que deve ser redimensionada apenas a pena de multa aplicada aos apelantes Carlos Roberto Pereira da Silva e Alesson Aciole do Nascimento, para o total de 750 dias-multa, cada; 6. Apelos parcialmente providos. Decisão unânime.
+Imputa-se aos pacientes a prática dos crimes previstos no art. 33, caput, e no art. 35, da Lei n. 11.343/06 (e-STJ fl. 28/30).
+A defesa alega, em síntese, que os pacientes estão sofrendo constrangimento ilegal, pois ausentes provas do dolo específico de associar-se de forma estável e permanente para a prática do delito de associação para o tráfico de drogas e provas de autoria para a condenação do suposto crime de tráfico de drogas. Ressalta que a condenação foi baseada única e exclusivamente no depoimento prestado pelos policiais que efetuaram as prisões, que sequer puderam comprovar que a droga apreendida pertencia aos pacientes ou que estes praticaram quaisquer dos verbos previstos na conduta tipificada no art. 33, caput, e 35, ambos da Lei 11.343/06. Assevera que a causa de diminuição de pena prevista no artigo 33, §4º, da Lei nº 11.343/06 foi afastada com base em fundamentos inidôneos.
+Ao final, requer a concessão da ordem para que os pacientes sejam absolvidos das imputações por falta de provas. Subsidiariamente, que seja reconhecida e aplicada a redutora prevista no §4º do art. 33 da Lei nº 11.343/06 em patamar máximo, com o respectivo ajuste da dosimetria, abrandamento do regime prisional e com a substituição da pena corporal por restritiva de direitos.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024)."
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023)."
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Ressalte-se que, com relação às teses da falta de provas, "esta Corte Superior possui pacífica jurisprudência no sentido de que: a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos préconstituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória (AgRg no HC n. 802.688/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023). 3. Agravo regimental a que se nega provimento. (AgRg no HC nº 868.208/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 30/11/2023, DJe de 5/12/2023 - grifos acrescidos).
+Assim, alterar o quadro formado no Tribunal de origem demandaria inviável exame aprofundado das provas produzidas nos autos de origem, o que não se mostra possível no habeas corpus substitutivo de recurso próprio.
+Ademais, com relação à aplicação da causa de diminuição de pena, certo é que "A condenação pelo crime de associação para o tráfico, por si só, já tem o condão de inviabilizar a aplicação do redutor previsto no art. 33, § 4º, da Lei Antidrogas, pois essa circunstância impede que o agente preencha os requisitos legais para a aplicação da minorante" (AgRg no HC 338.964/MG, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 6/6/2016).
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Outrossim, a hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+É assente nesta Corte que "não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia" (AgRg no AREsp n. 2.463.052/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada conheceu do agravo para não conhecer do recurso especial interposto pelo recorrente, apontando o óbice da Súmula 182 do STJ.
+2. Não obstante, neste agravo regimental, a parte agravante limita-se a afirmar, de modo genérico, que impugnou todos os fundamentos da decisão de admissibilidade, deixando, novamente, de atacar os fundamentos da decisão agravada.
+3. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP, o que é o caso.
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.513.329/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2024, DJe de 10/4/2024.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO. PLEITO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE IMPU GNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de admissibilidade foram preenchidos ou a mera reiteração da controvérsia. Incidência da Súmula n. 182, STJ.
+II - In casu, o agravante não enfrentou adequadamente a tese que levou ao não conhecimento do agravo em recurso especial, tendo se limitado à mera reiteração do mérito da controvérsia.
+Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.428.844/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
