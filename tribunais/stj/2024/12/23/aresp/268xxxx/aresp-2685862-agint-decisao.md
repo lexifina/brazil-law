@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pela UNIÃO contra a decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial ante o óbice da Súmula 182/STJ.
+Em suas razões recursais, a parte agravante defende: "diante da clara necessidade de formação de litisconsórcio passivo necessário e da inaplicabilidade das Súmulas 83 e 5 do STJ ao caso em tela, requer-se o provimento do presente agravo interno, a fim de que seja conhecido e provido o recurso especial interposto, com a consequente anulação dos atos decisórios até então proferidos" (fl. 639).
+Foi apresentada impugnação às fls. 643/648.
+É o relatório.
+Reconsidero a decisão agravada, pois o agravo em recurso especial preenche os requisitos de admissibilidade.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o regime de julgamento de recursos repetitivos (REsp 2.176.897/DF, REsp 2.176.896/DF, e REsp 2.184.221/DF, de relatoria da Ministra Regina Helena Costa), e foi assim delimitada:
+"Definir: a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS; b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; e c) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar".
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, julgo prejudicada a análise do recurso e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
