@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao recurso.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. DOSIMETRIA DA PENA. ROUBO CIRCUNSTANCIADO. MAJORANTE DE USO DE ARMA DE FOGO. PRIMEIRA FASE DA DOSIMETRIA. DISCRICIONARIEDADE DO JULGADOR. DESLOCAMENTO DE CAUSA DE AUMENTO. POSSIBILIDADE. INEXISTÊNCIA, PORÉM, DE IMPERATIVO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra acórdão que deu parcial provimento ao recurso especial da defesa, afastando a majoração da pena-base pela incidência da majorante de uso de arma de fogo na primeira fase da dosimetria. O Ministério Público alega violação do art. 59 do Código Penal, sustentando a possibilidade de deslocamento da majorante para a primeira fase, conforme jurisprudência do Superior Tribunal de Justiça (STJ), e requer o restabelecimento da pena-base fixada na sentença.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se o reconhecimento da majorante de uso de arma de fogo na primeira fase da dosimetria da pena é devido, mesmo quando não há fundamento concreto; (ii) estabelecer se o deslocamento da majorante é discricionário ou obrigatório.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ admite o deslocamento de majorantes para a primeira fase da dosimetria, desde que não se contrarie o sistema trifásico de aplicação da pena e que a fundamentação seja concreta, considerando as peculiaridades do caso.
+No caso concreto, o juízo de origem reconheceu a majorante de uso de arma de fogo na primeira fase, mas sem declinar as razões, o que torna a fundamentação inidônea.
+4. A aplicação de majorantes na dosimetria deve estar vinculada à discricionariedade do julgador, que deve fundamentar adequadamente a exasperação da pena com base em elementos concretos do caso. A ausência de fundamentação idônea impede o aumento na primeira fase.
+5. A Súmula 443 do STJ estabelece que o aumento na terceira fase da dosimetria exige fundamentação concreta, e, por analogia, o mesmo critério se aplica quando há deslocamento para a primeira fase.
+6. O Tribunal de origem não agiu de forma desarrazoada ao afastar a majorante, considerando que a dosimetria está inserida na discricionariedade do julgador, limitada por critérios de proporcionalidade e razoabilidade.
+IV. RECURSO ESPECIAL DESPROVIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra acórdão que deu parcial provimento ao recurso especial interposto pela defesa.
+Sustenta o MP violação do art. 59 do CP, "posto que a jurisprudência mais atual e aplicável ao caso em tela, é no sentido de manter o entendimento do juiz de 1º grau que reconheceu a majorante relativa ao emprego de arma de fogo na primeira fase dosimétrica de pena" (fl. 746).
+Assevera que "o STJ entende que o deslocamento de majorantes no caso do crime de roubo é perfeitamente possível pois é matéria inserida no juízo de discricionaridade do julgador" (fl. 585).
+Requer seja conhecido e provido o recurso, a fim de restabelecer a pena-base fixada na sentença.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. DOSIMETRIA DA PENA. ROUBO CIRCUNSTANCIADO. MAJORANTE DE USO DE ARMA DE FOGO. PRIMEIRA FASE DA DOSIMETRIA. DISCRICIONARIEDADE DO JULGADOR. DESLOCAMENTO DE CAUSA DE AUMENTO. POSSIBILIDADE. INEXISTÊNCIA, PORÉM, DE IMPERATIVO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra acórdão que deu parcial provimento ao recurso especial da defesa, afastando a majoração da pena-base pela incidência da majorante de uso de arma de fogo na primeira fase da dosimetria. O Ministério Público alega violação do art. 59 do Código Penal, sustentando a possibilidade de deslocamento da majorante para a primeira fase, conforme jurisprudência do Superior Tribunal de Justiça (STJ), e requer o restabelecimento da pena-base fixada na sentença.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se o reconhecimento da majorante de uso de arma de fogo na primeira fase da dosimetria da pena é devido, mesmo quando não há fundamento concreto; (ii) estabelecer se o deslocamento da majorante é discricionário ou obrigatório.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ admite o deslocamento de majorantes para a primeira fase da dosimetria, desde que não se contrarie o sistema trifásico de aplicação da pena e que a fundamentação seja concreta, considerando as peculiaridades do caso.
+No caso concreto, o juízo de origem reconheceu a majorante de uso de arma de fogo na primeira fase, mas sem declinar as razões, o que torna a fundamentação inidônea.
+4. A aplicação de majorantes na dosimetria deve estar vinculada à discricionariedade do julgador, que deve fundamentar adequadamente a exasperação da pena com base em elementos concretos do caso. A ausência de fundamentação idônea impede o aumento na primeira fase.
+5. A Súmula 443 do STJ estabelece que o aumento na terceira fase da dosimetria exige fundamentação concreta, e, por analogia, o mesmo critério se aplica quando há deslocamento para a primeira fase.
+6. O Tribunal de origem não agiu de forma desarrazoada ao afastar a majorante, considerando que a dosimetria está inserida na discricionariedade do julgador, limitada por critérios de proporcionalidade e razoabilidade.
+IV. RECURSO ESPECIAL DESPROVIDO.
+VOTO
+A questão foi assim apreciada pela Corte de origem (e-STJ, fl. 542):
+Com efeito, no caso dos autos, as circunstâncias judiciais do art. 59 do Código Penal, quando ponderadas, não foram valoradas negativamente pelo juízo a quo.
+Entretanto, ainda assim, o juízo sentenciante, equivocadamente, reconheceu a incidência da majorante pelo emprego de arma de fogo na primeira fase.
+É cediço que o Superior Tribunal de Justiça (STJ) concluiu ser possível o deslocamento de majorante sobrejacente (aquela ainda não considerada) para a primeira ou segunda fases da dosimetria da pena, posto que além de não contrariar o sistema trifásico da dosimetria, a movimentação da majorante sobressalente é a medida que melhor se compatibiliza com o princípio da individualização da pena.
+Entretanto, no caso dos autos, quando da análise circunstanciada dos vetores do artigo 59 do Código Penal, o magistrado de origem não considerou nenhum destes de modo desabonador. Ainda assim, reconheceu a incidência da majorante relativa ao emprego de arma de fogo na primeira fase dosimétrica da pena.
+Nesse sentido, considerando a ausência de circunstância judicial desabonadora na primeira fase da dosimetria, deve-se excluir a fração de aumento relativa ao reconhecimento da majorante do emprego de arma de fogo, fixando a pena-base no mínimo legal, a saber: 04 (quatro) anos de reclusão.
+Não procede a insurgência ministerial, porquanto, como assinalado na decisão agravada, o TJMG reconheceu a ilegalidade porque o Juiz sentenciante no caso dos autos, quando da análise circunstanciada dos vetores do artigo 59 do Código Penal, "não considerou nenhum destes de modo desabonador. Ainda assim, reconheceu a incidência da majorante relativa ao emprego de arma de fogo na primeira fase dosimétrica da pena".
+É certo que, inexistindo fundamentação concreta a respeito dos elementos de fato do caso que justifique a majoração da pena do crime de roubo na fração máxima, devido ao uso de arma branca e ao concurso de agentes, é cabível proceder-se a causa de aumento na fração de 1/3, conforme enunciado da Súmula n. 443 do STJ e do disposto no art. 68, parágrafo único, do CP (AgRg no HC n. 662.196/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 21/2/2022). A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO, POR TRÊS VEZES. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DOS CRIMES. FUNDAMENTAÇÃO INIDÔNEA. PRESENÇA DE MAIS DE UMA CAUSA DE AUMENTO. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. SÚMULA 443/STJ. FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO, COM EXTENSÃO AOS CORRÉUS.
+ ..
+7. Ademais, o acórdão, ao reconhecer as majorantes do emprego de arma de fogo e do concurso de agentes, aplicou a fração de 3/8 para majorar as penas tão somente em razão das duas causas de aumento, sem apoio em elementos concretos dos delitos. Incide, portanto, à espécie o disposto na Súmula 443 desta Corte: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes."
+8. Agravo regimental desprovido. Concessão de habeas corpus, de ofício, a fim de determinar a devolução dos autos ao Tribunal de origem para que proceda a nova dosimetria das penas do agravante, em relação aos três delitos de roubo, afastando, na primeira fase da dosimetria das penas, a circunstância judicial das consequências dos delitos, por ausência de fundamentação, bem como estabelecendo a fração de 1/3 de aumento de pena, na terceira fase da dosimetria (Súmula 443/STJ). Decisão estendida aos corréus, nos termos do art. 580 do CPP.
+(AgRg no AREsp n. 1.638.257/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/9/2020, DJe de 30/9/2020.)
+Não obstante, não se trata de imperativo legal.
+Com efeito, "o deslocamento de causas de aumento do crime de roubo para a primeira fase da dosimetria se encontra inserida no juízo de discricionariedade do julgador. Destarte, considerando que não há obrigatoriedade de aplicação de majorante sobejante para exasperar pena-base, não cabe a esta Corte alterar a conclusão exarada pelo Tribunal de origem" (AgRg nos EDcl no REsp n. 2.051.458/MG, relator Ministro Ribeiro Dantas , Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.). Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. APLICAÇÃO CUMULATIVA DAS MAJORANTES AFASTADA PELO TRIBUNAL A QUO. PEDIDO DE UTILIZAÇÃO DO CONCURSO DE AGENTES PARA EXASPERAR A PENA BASE NÃO ACOLHIDO PELA CORTE DE ORIGEM. DISCRICIONARIEDADE DO JULGADOR. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A orientação jurisprudencial desta Corte Superior é firme no sentido de que "na hipótese de existir mais de uma causa de aumento no crime de roubo, poderá ser valorada uma(s) como circunstância judicial desfavorável e outra(s) como majorante na terceira fase da dosimetria, para justificarem a elevação da pena, sem que haja qualquer ofensa ao critério trifásico" (AgRg no AREsp 1.237.603/MS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 28/6/2018).
+2. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+3. Os critérios adotados pela Corte estadual atuando dentro do critério da discricionariedade vinculada do julgador não evidenciam flagrante falta de razoabilidade ou desproporcionalidade, o que é imprescindível para a intervenção deste Tribunal Superior em recurso especial, a qual fica restrita à hipótese em que se verificar, de plano, a ocorrência de erro ou ilegalidade na dosimetria.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.417.167/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.)
+Pelo exposto, nego provimento ao recurso especial.
+É o voto.
