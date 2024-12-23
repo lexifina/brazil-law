@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 888):
+PROCESSUAL CIVIL. MULTA AMBIENTAL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante o exame da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Não cabe a este Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+V - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 933-938).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, defendendo haver omissão acerca dos argumentos aduzidos no agravo interno e nos embargos de declaração que demonstrariam a não incidência das Súmulas 280, 283 e 284 do STF, cujas matérias são de suma importância para o deslinde da demanda.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que parcialmente não conheceu do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 897-900):
+Depreende-se do acórdão transcrito ter sido a lide julgada à luz de interpretação de legislação local, qual seja, o Decreto Estadual n. 8.468/1976.
+Com efeito, da forma como definido pelo tribunal de origem, imprescindível seria a análise da lei local para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula n. 280 do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário", ensejando o não conhecimento do recurso especial, como espelham os julgados assim ementados:
+ ..
+Ademais, quanto à questão relativa à ausência de culpabilidade apurada em processo administrativo, à ausência de apuração objetiva de qualquer omissão na operação do aterro sanitário e à desproporcionalidade da multa, o tribunal de origem manifestou-se nos seguintes termos (fls. 585/590e):
+ .. , as matérias que a apelante expõe como não apreciadas pelo juízo a quo e que ensejariam - a seu ver - a anulação da r. sentença por fundamentação deficiente, quais sejam, ausência de culpabilidade apurada em processo administrativo e ausência de apuração objetiva de qualquer omissão na operação do aterro sanitário, com acerto não foram analisadas. Elas inegavelmente extrapolam o estreito limite probatório do writ constitucional em tela.
+Assim corretamente constou da r. sentença:
+Quanto à infração ambiental, pela via processual eleita, dentro dos seus limites probatórios, não é possível infirmar a presunção de veracidade e de legitimidade que reveste o auto de infração. Os documentos coligidos aos autos indicam que foram realizadas sucessivas vistorias pelas autoridades competentes e as condutas, ao contrário do alegado, encontram tipificação na lei. Também não vislumbro desproporção no valor da multa à época aproximadamente de vinte e cinco mil reais - compatível com a gravidade da infração (artigo 81, II, do Decreto nº. 8.468/78).
+ .. .
+No mérito, importante ressaltar que o pedido principal é, in verbis:
+ .. .
+ .. .
+Vemos, dos pedidos acima colacionados, que os pedidos (principal e subsidiário) são incompatíveis entre si, como já consignado, inclusive, no julgamento do Agravo de Instrumento de nº 2241255-56.2019.8.26.0000, in verbis:
+Ab initio, consigno que o feito principal consiste em mandado de segurança impetrado a fim de verificar a existência ou não de direito líquido e certo à devolução do prazo para recolhimento da multa com desconto de 30%, previsto no art. 97 do Regulamento da Lei nº 997/76. Nessa toada, incabível o pedido alternativo de desconstituição do AIA nº 16001973 e seus efeitos decorrentes.
+São eles incompatíveis entre si.
+Ainda que assim não fosse, como bem decidido pelo MM. Juízo sentenciante, a ausência de culpabilidade e a análise de desproporcionalidade quanto à multa aplicada extrapola os limites probatórios do mandado de segurança e não constituem direito líquido e certo, conforme já fundamentado no tópico que apreciou o pedido (destaques meus).
+Entretanto, a parte recorrente deixou de impugnar fundamento suficiente do acórdão recorrido, alegando, tão somente, que " ..  a autoridade competente somente poderá impor a sanção administrativa caso verifique que o administrado tenha agido com dolo ou culpa, situação que não ocorreu na presente hipótese" (fl. 648e) e que ocorreu a " ..  desproporcionalidade da multa" (fl. 662e).
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas ns. 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido:
+ ..
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No mesmo sentido, constou do acórdão dos embargos de declaração o seguinte (fl. 937):
+No caso, a Embargante revela apenas sua discordância com o deslinde da controvérsia, não demonstrando efetiva omissão a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão embargada é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição dos presentes embargos.
+Com efeito, depreende-se da leitura do acórdão que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese, notadamente, a ausência de vício integrativo e a incidência dos óbices das Súmulas ns. 280, 283 e 284 do STF, por analogia.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v. g. Corte Especial, EDcl no AgInt nos EAREsp n. 1.990.124/MG, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 14.8.2023; 1ª Turma, EDcl no AgInt nos EDcl nos EDcl nos EDcl no REsp n. 1.745.723/RJ, Rel. Min. Sérgio Kukina, DJe de 7.6.2023; e 2ª Turma, EDcl no AgInt no AREsp n. 2.124.543/RJ, Rel. Min. Assusete Magalhães, DJe de 23.5.2023).
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou sua revisão mediante embargos de declaração.
+Desse modo, totalmente destituída de pertinência mencionada formulação, porquanto não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado à correta aplicação de óbices processuais pelo STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
