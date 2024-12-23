@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial admitido pelo Tribunal de origem, nos termos da decisão de fls. 675-677/e-STJ.
+Verificado nesta Corte que houve falha no envio do processo eletrônico, uma vez que não foi possível localizar o acórdão objeto do recurso especial (fl. 684/e-STJ) sobrevieram as informações do Vice-Presidente do Tribunal de Justiça do Estado do Pará, em exercício, no sentido de que "evidenciou-se equívoco na decisão de admissibilidade do recurso especial anteriormente prolatada, haja vista que, não obstante a interposição de agravo interno, não se atentou para o fato de que o acórdão proferido se referia a julgamento de embargos de declaração inexistente nos autos, tendo sido admitido o recurso especial, por equívoco. Sendo assim, com vistas a regularização do feito, foi tomada sem efeito a decisão de admissibilidade, tendo sido determinada a devolução dos autos à Exma. Desa. Relatora, que, por sua vez, chamou o feito à ordem e tomou sem efeito o acórdão de julgamento dos embargos de declaração, estando o feito atualmente conclusos para julgamento do agravo interno interposto" (fl. 698/e-STJ).
+Em face do exposto, encaminhem-se os presentes autos (REsp 2.020.792/PA - 2022/0256295-5) ao Tribunal de Justiça do Pará, com baixa na distribuição.
+Intimem-se.
+EMENTA
