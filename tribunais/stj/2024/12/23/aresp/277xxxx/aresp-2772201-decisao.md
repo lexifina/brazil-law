@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. PLANOS ECONÔMICOS. CRÉDITO RURAL. LIQUIDAÇÃO INDIVIDUAL PROVISÓRIA DA SENTENÇA COLETIVA PROFERIDA NA AÇÃO CIVIL PÚBLICA Nº 0008465-28.1994.4.01.3400/DF.
+I - Preliminar de litisconsórcio passivo necessário e de necessidade de chamamento ao processo. Não há litisconsórcio necessário do banco com a União e o Banco Central, tampouco necessidade do chamamento ao processo dessas instituições, pois na hipótese de devedores solidários, pode o credor exigir o pagamento integral de qualquer um deles, de sorte que legitimada a responder pelo débito a instituição financeira ora requerida, já que foi com ela que a parte autora celebrou o contrato. Afastada a preliminar.
+II - Prova pericial. O banco acostou documentos extraídos do sistema XER relativos às cédulas rurais pignoratícias contratadas pelo autor, que indicam causas de redução do valor devido pela instituição financeira. Nesse contexto, pertinente a realização da perícia. Recurso provido, no ponto.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO. UNÂNIME.
+Alegou-se, no especial, violação dos artigos 130, 132, 509, II, 511 e 1.022 do Código de Processo Civil sob os argumentos de que o acórdão local é omisso, que é o caso de chamamento ao processo dos demais condenados solidariamente e que é necessária a prévia liquidação da sentença coletiva pelo procedimento cumum.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Esta Corte, quanto ao chamamento ao processo dos demais condenados solidariamente por sentença coletiva, tem entendimento de que não é cabível a integração forçada, cabendo ao credor a escolha contra quem manejará o cumprimento de sentença, mormente pelo rito diverso em face das pessoas jurídicas de direito público e privada.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CRÉDITO RURAL. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA. SUSPENSÃO DO PROCESSO EM RAZÃO DO TEMA 1290/STF. DESNECESSIDADE. AUSÊNCIA DE ABORDAGEM SOBRE O ÍNDICE DE MARÇO DE 1990 NO RECURSO. CHAMAMENTO AO PROCESSO. PRESCINDIBILIDADE. PRECEDENTES.
+1. Incabível a suspensão do processo para aguardar a solução do Tema n. 1.290 do STF se a matéria referente ao índice de correção monetária, aplicável às cédulas de crédito rural (lastreadas na caderneta de poupança), no mês de março de 1990, não foi o enfrentada no acórdão recorrido e tampouco é objeto do recurso especial.
+2. Ainda que tenham os coobrigados solidários participado da ação de cognição, pode o credor, na fase executiva, limitar o seu pedido de pagamento dos valores constantes no título executivo a apenas um deles, sem que com isso nenhum dos coobrigados possa fazer ampliar o polo passivo do cumprimento de sentença.
+3. "De outro lado, mesmo que fosse viável o chamamento na fase executiva, neste processo isso não seria admitido, porquanto inexiste a identidade de ritos. Ou seja, enquanto a União e o BACEN estão submetidos ao regime de precatórios, o Banco do Brasil segue o regime de execução comum. Portanto, inviável deferir o chamamento ao processo também pela incompatibilidade de ritos que seriam adotados" (AgInt no AREsp n. 2.076.758/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2023).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.434.032/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+No que toca, de outro lado, à necessidade de prévia liquidação por arbitramento, este é o entendimento do Superior Tribunal de Justiça, o que garante o pleno exercício do contraditório, o que não se atinge pela simples determinação de perícia, como fez a Corte de origem.
+A saber:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. DIFERENÇAS DE CORREÇÃO MONETÁRIA. CÉDULAS DE CRÉDITO RURAL. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. PRECEDENTES DESTA CORTE. DECISÃO MANTIDA.
+1. Conforme a jurisprudência do STJ, "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado" (EREsp n. 1.705.018/DF, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 9/12/2020, DJe 10/2/2021).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.991.944/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para determinar a prévia liquidação da sentença coletiva pelo procedimento comum.
+Intimem-se.
+EMENTA
