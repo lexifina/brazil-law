@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de JEFFERSON WILLIAM DA SILVA AGRELLI, apontando como autoridade coautora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei nº 11.343/06 à pena de 05 anos 07 meses e 15 dias de reclusão, em regime semiaberto, mais pagamento de 563 dias-multa (e-STJ, fls. 244-278).
+Interpostos recursos de apelação pela defesa e pela acusação, apenas este foi provido, a fim de fixar o regime fechado e restabelecer a prisão preventiva. Além disso, o Tribunal corrigiu de ofício a pena de multa (e-STJ, fls. 450-456).
+Nesta via recursal, o patrono sustenta que houve ilegalidade na busca pessoal e domiciliar, uma vez que inexistiam fundadas razões para abordagem do paciente, tampouco mandado de busca e apreensão em seu desfavor. Aduz que meras denúncias anônimas não justificam a ação policial e que não houve investigações prévias que demonstrassem a prática da narcotraficância pelo acusado.
+Frisa que "o consentimento do morador, para validar o ingresso de agentes estatais em sua casa e a busca e apreensão de objetos relacionados ao crime, precisa ser voluntário e livre de qualquer tipo de constrangimento ou coação." (e-STJ, fl. 9).
+Portanto, requer que "seja declarada a ilicitude das provas colhidas na residência, por terem sido as buscas realizadas sem um mandado judicial e sem a comprovação da prévia autorização válida do morador, devendo ser essas desentranhadas e, consequentemente, o réu absolvido por falta de provas da materialidade." (e-STJ, fl. 10).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No tocante à nulidade aventada, extrai-se do acórdão objurgado:
+"As razões do inconformismo já foram objeto de apreciação no habeas corpus de nº 1.0000.23.141374-1/000, impetrado pelo ora apelante, de minha relatoria, julgado na sessão do dia 04/07/2023, e denegado, à unanimidade. Naquela ocasião, destaquei:
+"Pretende a defesa a nulidade do processo em virtude da ilicitude da prova supostamente produzida por meio de invasão de domicílio e, em consequência, a expedição de alvará de soltura em favor de Jefferson Willian da Silva Agrelli.
+Sem razão, contudo.
+Extrai-se dos autos que o paciente foi abordado por estar em atitude suspeita, sendo-lhe direcionada ordem de parada, momento em que empreendeu fuga do local. Em seguida, foi seguido e contido pela polícia nos fundos da casa onde morava, tendo sido visto dispensando um objeto de cor verde no matagal, o qual foi posteriormente identificado como sendo 10 (dez) pedras de crack.
+Ato contínuo, os policiais conversaram com Diego Queiroz Benedito, proprietário da residência para onde o réu fugiu, o qual informou que Jefferson Willian é seu cunhado e ocupava um quarto no segundo andar. Autorizada a busca pela testemunha, foram localizadas, no quarto do paciente, 32 (trinta e duas) buchas e 17 (dezessete) tabletes de maconha, além de 1 (uma) pedra de crack.
+Desse modo, a diligência realizada na casa de Jefferson ocorreu logo após sua fuga e a apreensão de drogas por ele arremessadas, de forma que o contexto fático autorizava perfeitamente a busca domiciliar, diante das fundadas razões de que ali se encontravam drogas (art. 240, §1º, CPP).
+ ..
+Ademais, tratando-se de tipo plurinuclear e considerando que as condutas imputadas na denúncia foram as de "trazer consigo" e "ter em depósito", o tráfico de drogas é delito permanente, o que coloca o agente em constante estado de flagrância. Assim, fica dispensada a necessidade de mandado judicial para uma eventual ação policial interventiva, de forma que a prisão do paciente ocorreu de forma absolutamente regular.
+Nesse ponto, vale lembrar que dentre as exceções à garantia de inviolabilidade do domicílio (art. 5º, XI, da CF) está a hipótese de flagrante, situação em que o paciente foi preso, nos exatos termos do art. 302, I, do CPP, não havendo que se falar, portanto, em qualquer ilegalidade."
+Observadas, pois, todas as formalidades necessárias na lavratura do auto de prisão em flagrante, tendo sido respeitados os arts. 301 e seguintes do CPP, incabível qualquer alegação de nulidade.
+E, reconhecida a regularidade da atuação policial e a validade das provas colhidas, não há que se falar em absolvição, sendo imperiosa a manutenção do decreto condenatório, posto que cabalmente evidenciada a prática do tráfico de drogas pelo réu, destacando-se, sobretudo, sua confissão judicial, corroborada pelos depoimentos testemunhais colhidos." (e-STJ, fls. 452-454)
+De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+No julgamento do RHC 158.580/BA foram forjados alguns critérios para balizar a legalidade da medida extrema assentando-se o entendimento de que a busca pessoal e veicular destituída de mandado judicial é possível apenas quando as circunstâncias do caso concreto, descritas de modo preciso e aferidas objetivamente, permitirem a conclusão de que o indivíduo esteja na posse de armas ou de outros objetos ou papéis que constituam corpo de delito, não sendo admitidas abordagens e revistas exploratórias (fishing expeditions); informações de fonte não identificada; impressões subjetivas intangíveis, pautadas no tirocínio policial, de determinadas atitudes tidas como suspeitas ou certas reações ou expressões corporais que denotem nervosismo (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/4/2022).
+Nesse sentido, firmou-se o entendimento de que "fugir correndo repentinamente ao avistar uma guarnição policial configura motivo idôneo para autorizar uma busca pessoal em via pública" (HC n. 877.943/MS, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 18/04/2024, DJe de 15/5/2024).
+Dessa forma, não há flagrante ilegalidade na busca pessoal do paciente, que empreendeu fuga, após ter sido dada ordem de parada pela guarnição policial. Outrossim, o Tribunal de origem consignou que o proprietário da residência consentiu com a realização de buscas no imóvel, de forma que rever essse entendimento demandaria maior incursão no acervo fático-probatório dos autos, o que é vedado na via estreita do writ.
+Cito, a propósito:
+"DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. INVASÃO ILEGAL DE DOMICÍLIO. NÃO OCORRÊNCIA. FUNDADAS SUSPEITAS. FUGA DO RÉU AO AVISTAR OS POLICIAIS. AUTORIA AUFERIDA. INVERSÃO. REVOLVIMENTO PROBATÓRIO. INVIABILIDADE. REGIME FECHADO. REINCIDÊNCIA CONSTATADA. ILEGALIDADE. AUSÊNCIA. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de réu condenado por tráfico de drogas, questionando a validade da invasão domiciliar realizada pela polícia, que ocorreu após o réu fugir ao avistar os policiais. A condenação baseou-se em depoimentos de policiais e na apreensão de drogas no local.
+II. Questões em discussão
+2. A questão em discussão consiste na validade da invasão domiciliar sem mandado judicial, baseada na fuga do réu ao avistar a polícia, além da autoria delitiva.
+3. A adequação do regime prisional fechado, considerando a reincidência do réu.
+III. Razões de decidir
+4. A jurisprudência do STJ permite a invasão domiciliar sem mandado quando há fundadas razões para suspeitar da ocorrência de crime no interior da residência, mormente diante da fuga do réu ao avistar os agentes.
+5. Os depoimentos dos policiais, acerca da autoria, são considerados provas idôneas, não havendo falar-se em indícios de parcialidade.
+Para ir de encontro a tal desfecho, seria necessário o revolvimento probatório, procedimento esse, como se sabe, inviável na presente via.
+6. A fixação do regime prisional fechado é justificada pela reincidência do réu, ora paciente, conforme prevê o artigo 33, §§ 2º e 3º, do Código Penal. Precedentes.
+IV. Ordem de habeas corpus denegada."
+(HC n. 826.543/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 21/10/2024.)
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. SUPOSTO CRIME DE TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. TESE DEFENSIVA DE NULIDADE. INOCORRÊNCIA. BUSCA PESSOAL E DOMICILIAR SOB FUNDADAS RAZÕES. FUGA. ENTRADA FRANQUEADA. MUITA DROGA APREENDIDA. NO MAIS, NECESSIDADE DE AMPLO REVOLVIMENTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. VIA ESTREITA. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, tanto a busca pessoal quanto a domiciliar se deram sob fundadas suspeitas, seja pela tentativa de se esquivar da polícia mediante típica fuga, seja pela entrada franqueada em domicílio, gerando a apreensão de significativa quantidade de drogas (863,17g de cocaína - fl. 146). Precedentes.
+III - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de teses com necessidade de amplo revolvimento do conjunto fático-probatório. Precedentes.
+Agravo regimental desprovido."
+(AgRg no RHC n. 202.291/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
