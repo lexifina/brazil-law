@@ -1,0 +1,32 @@
+DECISÃO
+1. Cuida-se de embargos de divergência opostos em face de acórdão da Quarta Turma do STJ, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes. 3. Agravo interno desprovido (fl. 879-883, e-STJ).
+A parte embargante aponta divergência entre o julgamento levado a efeito pela Quarta Turma e o posicionamento exarado pela Segunda Turma no AgInt no Agravo em Recurso Especial nº 1.810.502/RJ e no AgInt no Agravo em Recurso Especial nº 2.295.810/SP.
+Entende a parte embargante que, diferentemente da Quarta Turma, a Segunda Turma, nos acórdãos paradigmas, sufragou entendimento segundo o qual "existindo impugnação específica e suficiente dos fundamentos da decisão recorrida, o agravo em recurso especial deve ser admitido pelo Superior Tribunal de Justiça".
+Ao final, requer o reconhecimento da "divergência jurisprudencial atual entre a Quarta e Segunda Turmas deste Col. STJ, constante do acórdão embargado e dos acórdãos paradigmas, que discutiram a aplicação das súmulas 182 e 7/STJ, bem como a realização de adequado cotejo analítico, tudo para fins de conhecimento do agravo em recurso especial".
+É o relatório.
+2. O recurso não ultrapassa a fronteira da admissibilidade.
+O acórdão embargado não conheceu do recurso especial pois, no caso concreto, a parte recorrente não impugnou todos os fundamentos utilizados pelo Tribunal a quo para negar seguimento ao recurso especial, verbis:
+"No caso dos autos, o Tribunal local negou seguimento ao recurso, ante: i) ausência de correta argumentação e comprovação de ofensa à legislação federal (Súmula 284 do STF); ii) aplicação da Súmula 07 do STJ, por demandar o revolvimento fático-probatório dos autos; e, iii) ausência de demonstração do dissídio.
+2.1. Com efeito, na hipótese, observa-se que a parte agravante não combateu, especificamente, todos os fundamentos utilizados pela Corte Estadual para inadmitir o processamento do apelo extremo. Isso porque, no tocante a incidência da Súmula 284 do STF se restringiu a negar genericamente a sua ocorrência.
+ ..
+2.2. Outrossim, nas razões do agravo do art. 1042 do CPC/2015, a parte insurgente repisou os argumentos do apelo extremo no sentido da violação a dispositivos legais e divergência jurisprudencial e sustentou - de forma genérica - a inaplicabilidade da Súmula 7/STJ, deixando de atender a dialeticidade recursal.
+A propósito, com relação à Súmula 7/STJ, esta eg. Quarta Turma, nos autos do AG Int no ARE Sp n. 1.490.629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, D Je 25/08/2021, firmou o entendimento de que "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (fls. 873-874, e-STJ).
+Nos termos da sólida jurisprudência desta Corte, os embargos de divergência não se prestam a discutir o erro ou o acerto do decisum quanto à incidência ou não de regra técnica de conhecimento de recurso especial, no caso, das Súmulas ns. 7 e 282 do Superior Tribunal de Justiça.
+Isso porque, obviamente, é a casuística de cada processo levado a julgamento que dirá se as regras técnicas para o conhecimento do recurso especial foram ou não observadas, de modo que a divergência não está na aplicação do direito federal, mas nas premissas fáticas de cada caso concreto.
+Entre muitos outros, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA. INVIABILIDADE. CONTROVÉRSIA DE MÉRITO NÃO ANALISADA PELO ACÓRDÃO EMBARGADO. INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA N. 315 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência das Súmulas 283 e 284/STF e 5, 7 e 211/STJ (AgInt nos EDcl nos EREsp n. 1.711.769/RJ, Segunda Seção).
+2. São inviáveis os embargos de divergência quando o acórdão embargado nem sequer adentra o mérito do recurso especial, abstendo-se, assim, de fixar tese a respeito da questão federal controvertida (Súmula n. 315 do STJ).
+3. Agravo interno desprovido. (AgInt nos EAREsp n. 2.021.975/SC, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 21/5/2024, DJe de 24/5/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INCIDÊNCIA DO ENUNCIADO Nº 315/STJ. DISCUSSÃO SOBRE REGRA TÉCNICA DE CONHECIMENTO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Dissídio jurisprudencial não devidamente comprovado nos termos dos arts. 1.043, § 4º, do Código de Processo Civil de 2015 e 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+2. Não são cabíveis os embargos de divergência quando o acórdão embargado não adentra no mérito do apelo especial (súmula nº 315/STJ).
+3. Os embargos de divergência não se prestam a discutir o erro ou o acerto do decisum quanto à incidência ou não de regra técnica de conhecimento de recurso especial.
+4. Agravo interno não provido.
+(AgInt nos EREsp n. 2.091.179/SP, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 22/10/2024, DJe de 25/10/2024.)
+3. Diante do exposto, indefiro liminarmente os embargos de divergência, na forma do art. 266-C do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
