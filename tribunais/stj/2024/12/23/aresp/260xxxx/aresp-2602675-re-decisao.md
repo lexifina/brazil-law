@@ -1,0 +1,43 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 4.319-4.320):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, OS FUNDAMENTOS DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL (SÚMULAS 7/STJ E 284/STF). VERIFICAÇÃO. OCORRÊNCIA. INADMISSIBILIDADE. IDÔNEA APLICAÇÃO DA SÚMULA 182/STJ. PLEITO DE NEGATIVAÇÃO DO VETOR JUDICIAL DA CULPABILIDADE. INVIABILIDADE NA VIA ELEITA. SÚMULA 7/STJ. ALEGAÇÃO DE CARÊNCIA DE PROPORCIONALIDADE NA ESCOLHA DA FRAÇÃO DE AUMENTO DA PENA-BASE. DISCRICIONARIEDADE DO JUÍZO. JURISPRUDÊNCIA DO STJ.
+1. O recurso especial não foi conhecido em razão do óbice constante das Súmulas 7/STJ e 284/STF.
+2. A insurgência não merece prosperar, haja vista à agravante não ter atacado, de forma específica, os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+3. O simples confronto entre os fundamentos da decisão agravada e as razões do agravo interno permitem afirmar que a parte agravante apresentou impugnação genérica, sem atacar especificamente os fundamentos da decisão agravada.  ..  A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no REsp n. 1.486.448/RJ, Ministro Mauro Campbell Marques, Segunda Turma, DJe 1º/2/2022).
+4. Inviável, na via eleita, alterar as premissas que levaram as instâncias ordinárias a não considerarem negativa o vetor judicial da culpabilidade.
+5.  ..  a decisão agravada está em conformidade com a massiva jurisprudência desta Corte, assentada no sentido de que a revisão de critérios de particularização de sanção impõe o esmerilamento de fatos e provas, a esbarrar no óbice contido no enunciado da Súmula 7 (AgRg no AREsp n. 461.541/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/6/2015).
+6. Razão não assiste ao agravante, quanto ao argumento de desproporcionalidade na exasperação dada à pena-base, notadamente em função da discricionariedade inerente aos juízos ordinários na valoração das circunstâncias judiciais.
+7.  ..  A jurisprudência do Superior Tribunal de Justiça é no sentido de que não há direito subjetivo ou obrigatoriedade do julgador na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas, ou mesmo outro valor (AgRg no HC n. 903.386/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 21/6/2024).
+8. Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 4.366-4.369).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Sustenta que o acórdão impugnado careceria de fundamentação idônea, pois não teria analisado, de modo satisfatório, as teses defensivas do agravo, em patente ofensa ao princípio do dever de motivação das decisões judiciais.
+Aduz que teria impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, motivo pelo qual seria inaplicável o óbice sumular utilizado para não conhecer do agravo em recurso especial.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 4.328/4.330):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando a incidência das Súmulas 7/STJ e 284/STF.
+Entretanto, a parte agravante, deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida. Conforme já assentado pela Corte Especial do Superior Tribunal de Justiça, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidênc ia, por analogia, da Súmula 182/STJ.
+Cabe ao agravante o ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica do fundamento do decisum combatido.
+No caso, o recurso especial foi inadmitido pelo fato de ter sido constatado o óbice das Súmulas 7/STJ e 284/STF (fls. 3.912/3.913); caberia, então, à agravante, no agravo em recurso especial, demonstrar a inaplicabilidade dos referidos óbices, o que não ocorreu nas razões colacionadas às fls. 3.920/3.924.
+No caso concreto, não houve impugnação específica, incidindo, portanto, o óbice da Súmula 182/STJ:
+ ..
+Ainda que superado o óbice acima apontado, melhor sorte não socorreria ao agravante.
+De início, inviável, na via eleita, alterar as premissas que levaram as instâncias ordinárias a não considerarem negativa o vetor judicial da culpabilidade.
+Com efeito, a decisão agravada está em conformidade com a massiva jurisprudência desta Corte, assentada no sentido de que a revisão de critérios de particularização de sanção impõe o esmerilamento de fatos e provas, a esbarrar no óbice contido no enunciado da Súmula 7 (AgRg no AREsp n. 461.541/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, D Je de 22/6/2015 - grifo nosso).
+Por fim, quanto ao argumento de desproporcionalidade na exasperação dada à pena-base, razão não assiste ao agravante, notadamente em função da discricionariedade inerente aos juízos ordinários na valoração das circunstâncias judiciais.
+Nesse sentido: A jurisprudência do Superior Tribunal de Justiça é no sentido de que não há direito subjetivo ou obrigatoriedade do julgador na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas, ou mesmo outro valor (AgRg no HC n. 903.386/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 21/6/2024 - grifo nosso).
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
