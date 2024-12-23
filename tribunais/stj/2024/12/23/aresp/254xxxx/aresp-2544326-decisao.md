@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por CLEIDE RENISA RASO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+"AÇÃO DE COBRANÇA COM INDENIZAÇÃO CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS
+Autores que pretendem a cobrança de honorários advocatícios contratuais fixados em 25% da condenação na demanda e a condenação da ré ao pagamento de indenização por danos morais Sentença de parcial procedência, com afastamento do pleito indenizatório Recurso da ré Afastamento da preliminar de não conhecimento do recurso por ausência de dialeticidade, dada a impugnação específica da ré Arguição de incompetência territorial já afastada por esta Câmara no julgamento de recurso de apelação anterior, operando-se a coisa julgada formal Inocorrência de sentença extra petita, pois o montante da condenação equivaleu ao pedido relativo aos honorários advocatícios contratuais Mérito Contrato de prestação de serviços advocatícios celebrado entre os autores e os genitores da ré, que previa remuneração de 20% da indenização recebida em ação de indenização movida em face do Município de Itanhaém Aditivo contratual que ampliou a verba honorária em mais 5% da indenização para a propositura de ação de sequestro, após a recusa de honrar os precatórios expedidos Tese defensiva de novo acordo para redução dos honorários para o patamar original de 20% Ausência de prova de pactuação do aditivo mencionado pela ré Afastamento da alegação de negligência dos autores no patrocínio da demanda Grau de zelo evidenciado pelo sucesso na demanda e pela avaliação de perito judicial Desavenças pessoais entre os advogados autores devido a problemas em seu relacionamento conjugal que não afetou a atuação técnica no processo em face da municipalidade Serviços advocatícios prestados pelos autores que abarcaram a integralidade da fase de conhecimento e a maior parte das providências do cumprimento de sentença Honorários contratuais integralmente devidos Sentença mantida Honorários recursais devidos RECURSO DESPROVIDO." (e-STJ fls. 982)
+No recurso especial, a recorrente alega violação do artigo 22 da Lei 8.906/1994. Argumenta que houve revogação do instrumento de mandato e nomeação de novo patrono que veio a atuar nos autos posteriormente à atuação dos recorridos. Nada obstante, foi atribuída a integralidade dos honorários aos patronos anteriores, já que se deixou de remunerar por completo a nova patrona constituída nos autos.
+Diz que a ação continha o pedido de arbitramento de honorários e não apenas a cobrança, considerando-se que o encargo não foi integralmente cumprido.
+Defende que a possibilidade de arbitramento e não de cobrança denota a necessidade de que o valor seja fixado e partilhado entre os prestadores de serviços, dentro do valor contratado.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Verifica-se que o artigo 22 da Lei 8.906/1994, apontado como violado, não se encontra prequestionado no acórdão combatido, nem mesmo de modo implícito.
+Além das apontadas omissões, nem sequer foram opostos embargos de declaração para suprir a deficiência. As razões recursais também não alegam negativa de prestação jurisdicional por parte do TJSP.
+Logo, ante a deficiência técnica do recurso, incide, por analogia, a Súmula nº 282/STF.
+Neste sentido: AgInt nos EAREsp nº 1.495.714/MT, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/11/2020, DJe de 23/11/2020; AgRg no RE no AgRg no AREsp nº 174.088/GO, relatora Ministra Eliana Calmon, Corte Especial, julgado em 20/2/2013, DJe de 28/2/2013; AgInt no REsp nº 2.024.146/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgInt nos EDcl no AREsp nº 2.399.029/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/4/2024, DJe de 13/5/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais , pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de tal verba.
+Publique-se.
+Intimem-se.
+EMENTA
