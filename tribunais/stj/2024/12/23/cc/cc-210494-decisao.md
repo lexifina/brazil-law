@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se  de  conflito  de  competência  suscitado  por  ALEXANDRE DE SOUZA HERNANDES em face do JUÍZO FEDERAL DA VARA CRIMINAL DE SÃO PAULO - SJ/SP e do JUÍZO DE DIREITO DA 3ª VARA CRIMINAL DE SÃO PAULO - SJ/SP.
+O suscitante alega que "o Foro Competente para se julgar a causa é uma das varas criminais da Justiça Federal em São Paulo. E o TRIBUNAL competente para se julgar o caso é o TRIBUNAL REGIONAL DA TERCEIRA REGIÃO" (e-STJ fl. 2).
+É  o  relatório.
+Decido.
+Embora  seja  a  parte  interessada  legitimada  para  instaurar  o  incidente,  ex  vi  do  art.  115,  I,  do  Código  de  Processo  Penal,  é  necessário  que  haja  manifestação  de  ambos  os  juízos  envolvidos,  seja  reconhecendo  a  competência, caso  em  que  o  conflito  será  positivo,  seja  rejeitando-a,  hipótese  em  que  o  conflito  será  negativo.
+Nesse  sentido:
+AGRAVO  REGIMENTAL  NO  CONFLITO  DE  COMPETÊNCIA.  AUSÊNCIA  DE  MANIFESTAÇÃO  DO  JUÍZO  SUSCITADO.  INEXISTÊNCIA  DE  CONFLITO.  RECURSO  DESPROVIDO.
+1.  Consoante  a  dicção  do  art.  115,  incisos  I  e  II,  do  CPC,  para  ocorrer  conflito  de  competência  é  necessário  que  dois  ou  mais  juízes  se  declarem  competentes  ou  incompetentes  para  o  julgamento  de  um  processo.  E,  na  hipótese  em  análise,  não  restou  demonstrada  a  existência  de  manifestações  por  parte  de  juízos  diversos  que  possam  configurar  o  conflito,  a  não  ser  o  inconformismo  do  executado,  ora  agravante,  diante  da  omissão  do  juízo  suscitado  em  apreciar  o  seu  pedido  para  que  os  autos  fossem  encaminhados  para  a  Justiça  Federal,  nos  termos  do  art.  109,  I,  da  Carta  Magna.  Cabe  ao  suscitante  se  utilizar  dos  meios  processuais  cabíveis  perante  o  próprio  juízo  da  execução,  a  fim  de  arguir  a  incompetência  da  Justiça  Cível  para  o  julgamento  da  causa,  o  que  não  se  admite  seja  feito  pela  via  eleita.
+2.  Agravo  regimental  a  que  se  nega  provimento.  (AgRg  no  CC  136.083/DF,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  SEGUNDA  SEÇÃO,  julgado  em  09/09/2015,  DJe  15/09/2015.)
+In  casu,  contudo,  não  se  verifica  nenhuma  dessas  hipóteses  de  configuração  do  conflito  de  competência, uma vez que nem sequer há nos autos manifestação dos Juízos envolvidos.  Na  verdade,  o presente conflito foi instaurado pelo réu como s ucedâneo de recurso cabível que não foi interposto.
+Registre-se que eventual "divergência de entendimento entre a parte e o magistrado sobre a sua competência para o julgamento da controvérsia não se resolve por meio do conflito de competência, mas, sim, por meio do recurso próprio que deve ser interposto a tempo e modo contra a decisão do julgador que rejeitar a alegação de sua incompetência absoluta ou relativa" (AgRg nos EDcl no CC n. 140.589/RS, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 25/11/2015, DJe 1º/12/2015).
+Ante  o  exposto,  não  conheço  do  conflito  de  competência.
+Publique-se.  Intimem-se.
+EMENTA
