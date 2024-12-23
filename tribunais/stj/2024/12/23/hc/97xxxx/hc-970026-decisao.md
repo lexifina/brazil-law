@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+EMENTA. HABEAS CORPUS. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO. REVOGAÇÃO DA PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DOS REQUISITOS AUTORIZADORES. TESE AFASTADA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INAPLICÁVEIS AO CASO. ORDEM DENEGADA.
+1. O decreto de prisão preventiva é medida excepcional que somente se justifica diante da presença do fumus commissi delicti e do periculum libertatis, demonstrados por dados concretos extraídos dos autos e qu ando impossível a aplicação das medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+2. Condições subjetivas favoráveis ao paciente, por si só, não impedem o decreto de prisão cautelar caso se verifique a existência de outros requisitos que autorizem a segregação.
+Imputa-se ao paciente a prática do crime de roubo circunstanciado (artigo 157, § 2º, incisos II e III, e § 2º-A, inciso I, do Código Penal).
+A defesa alega, em síntese: a) a ausência dos requisitos que autorizariam a manutenção da prisão cautelar do paciente, além de tal medida revelar-se desproporcional e excessiva; b) que manter o paciente preso, sob a acusação de um crime que não cometeu e para o qual não há materialidade, constitui uma afronta ao direito e à justiça; c) que o paciente possui ocupação lícita e residência fixa, demonstrando não haver risco concreto à ordem pública ou à instrução criminal.
+Ao final, requer a concessão da ordem para revogar a prisão preventiva do paciente, ainda que mediante imposição de medidas cautelares alternativas.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+No que tange às alegações da defesa, assim entendeu o Tribunal de origem (e-STJ fls. 21-22):
+De acordo com as informações prestadas pelo juízo da 2ª Vara Criminal da comarca de Ponta Porã, Fábio Wilhans Rodrigues de Miranda foi preso em decorrência da medida sigilosa n. 0001661-10.2024.8.12.0019, que apura o crime de roubo majorado pelo emprego de arma de fogo, ocorrido nas imediações do Banco Sicredi em 2/9/2024.
+O juízo deferiu busca e apreensão domiciliar, bem como a prisão temporária do paciente em 11/9/2024. A prisão foi cumprida em 19//9/2024.
+Na delegacia, o paciente afirmou que o autor do roubo seria a pessoa de Valdecy José de Araujo, ao passo que ele apenas teria lhe feito uma carona até o mercado ABEVÊ.
+Entretanto, nos deslindes da investigação, constatou-se que o paciente e Valdecy José estiveram envolvidos no roubo a banco ocorrido na cidade de Antônio João/MS (B. O nº 419/2013/DP-AJ).
+A autoridade policial representou pela prisão preventiva de Valdecy e requereu a conversão da prisão temporária de Fábio em prisão preventiva, uma vez que Fábio teria desempenhado o papel de motorista do veículo ônix, deixando Valdecy no estacionamento do mercado, sendo este último a pessoa que anunciou o roubo, mediante emprego de arma de fogo.
+A representação foi acolhida em 17/10/2024, convertendo a prisão temporária de Fábio em prisão preventiva, bem como pela preventiva de Valdecy.
+Em 31/10/2024, o juízo singular indeferiu o pedido de revogação da prisão preventiva do paciente nos autos 0805076-65.2024.8.12.0019.
+Na decisão, o magistrado fundamentou a permanência dos requisitos da segregação cautelar, assim como a gravidade concreta da conduta e o risco de reiteração delitiva: "trata-se do grave crime de roubo majorado pelo concurso de pessoas e emprego de arma de fogo. Aliado a isso, o requerente é reincidente, possuindo condenação por crimes do art. 16 da Lei 10.826/ 06 e por homicídio, depreendendo- se sua periculosidade social" (cópia; p. 165)
+Do excerto acima, verifica-se que o Tribunal de origem concluiu pela existência da materialidade e de suficientes indícios de autoria delitiva na pessoa do paciente, e pela manutenção de sua custódia cautelar em razão da gravidade concreta do delito e da periculosidade do agente, considerado seu histórico criminal, eis que é reincidente e possui condenações por porte ilegal de arma de fogo e homicídio, o que denota risco concreto à ordem pública.
+Nesse contexto, a alteração do quadro fático formado na Corte de origem demandaria a dilação probatória, providência inviável em sede de habeas corpus.
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
