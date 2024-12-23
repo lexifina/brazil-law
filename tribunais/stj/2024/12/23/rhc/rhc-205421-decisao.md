@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado por RUBENS ALEXANDRE BEZERRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 247419-61.2024.8.26.0000).
+Extrai-se dos autos que o recorrente foi preso preventivamente sob a justificativa de garantia da ordem pública e de conveniência da instrução criminal, diante da complexidade e da gravidade dos fatos narrados, que incluem a suposta prática dos delitos de envolvimento com organização criminosa, na forma do art. 2º da Lei n. 12.850/2013, comércio ilegal de arma de fogo (art. 17 da Lei n. 10.826/2003), e art. 273 do CP pelo crime de falsificação de produto para fim medicinal.
+Sustenta o recorrente que:
+a) ausentes os requisitos para a manutenção da prisão preventiva,
+b) medidas cautelares diversas da prisão seriam suficientes e adequadas para garantir a ordem pública e a conveniência da instrução criminal,
+c) o princípio da proporcionalidade e a adequação das medidas cautelares devem ser observados, e
+d) ausentes elementos concretos que justifiquem a manutenção da custódia cautelar.
+Ao final, pugna pelo provimento do recurso a fim de que seja revogada a prisão preventiva, com a fixação de medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido às fls. 172/174.
+Informações prestadas às fls. 180/183.
+O Ministério Público Federal, às fls. 187/192, manifestou-se pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+O recurso não deve ser provido.
+No caso, o Juízo de primeiro grau, ao manter a prisão preventiva do recorrente, ressaltou o seguinte (fls. 52/57 - grifamos):
+Em que pese os elevados argumentos defensivos, entendo que os requisitos da prisão preventiva permanecem presentes, na esteira do já fundamentado às fls. 4678/4759.
+Ao que consta das investigações, Rubens seria a "peça-chave" para o exercício da criminalidade de rua, em especial os roubos de carga e de grande proporção, a fim de que seja mantida por meio de fornecimento de armas pesas e dispositivos ilegais por ele fornecidos. Por intermédio dos elementos coligidos aos autos, pode-se aferir que tal investigado seria um canal de comunicação essencial entre as associações criminosas que praticam grandes roubos, bem como a interlocução com a milícia formada por Guardas Civis Metropolitanos, comercializando armas ilegais e os auxiliando nas extorsões praticadas contra os comerciantes da região.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar (fls. 84/100; grifamos):
+Por aqui, a manutenção da prisão não se mostra ilegal ou arbitrária, pois estão presentes dados sugestivos a propósito do envolvimento do paciente no comércio ilegal de armas de fogo e munições de grosso calibre, medicamento abortivo e dispositivos eletrônicos utilizados na prática de ações delituosas. Essas circunstâncias, impõem, por si só, a necessidade da custódia cautelar para resguardar a ordem pública, assegurar o regular desenvolvimento da instrução e eventual aplicação da lei penal, nos exatos termos do art. 312, do Código de Processo Penal.
+Afinal, a decisão que decretou a prisão preventiva está devidamente fundamentada, porquanto indica, de forma concreta, a presença de indícios de que o paciente, integraria um grupo de guarda civis metropolitanos, responsável pelo comércio de arma de fogo e aparelhos bloqueadores de sinais, em uma complexa rede de atividades ilícitas com a atuação de organização criminosa na região central da cidade de São Paulo/SP.
+(..)
+De mais a mais, há notícias de que o acusado foi alvo da Operação Corta-Giro, também conduzida pelo Ministério Público (processo nº 1049038-08.2023.8.26.0050), oportunidade em que foram apreendidos em sua residência 147 módulos de motocicleta sem origem lícita comprovada, bem como três caixas com peças de motocicletas, um revólver Taurus, calibre 38, e uma caixa de munições, calibre 32, contendo 10 cartuchos.
+Não bastasse isso, pelo que se vê, o paciente também foi condenado em data recente, como incurso no art. 12, caput, da Lei nº 10.826/03, ao cumprimento da pena de 1 ano de detenção em regime semiaberto, e 10 dias-multa, de valor unitário mínimo, substituída a pena privativa de liberdade por restritiva de direitos, consistente em prestação de serviços à comunidade (fls. 399/403 do processo nº 1511064-74.2023.8.26.0050).
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em virtude da especial reprovabilidade dos fatos, evidenciada a partir das circunstâncias da prática delitiva, e do fundado receio de reiteração delitiva, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+No caso em debate, pode-se constatar que a liberdade do recorrente coloca em risco a garantia da ordem pública, notadamente pela gravidade da conduta, porquanto há fortes indícios de que ele seja integrante de organização criminosa com atuação na região central de São Paulo, voltada para a prática do comércio de armas de fogo e munições, além de aparelhos bloqueadores de sinais e medicamentos abortivos, sendo considerado pela investigação policial o principal articulador do grupo em debate.
+Como se percebe, a decretação da prisão preventiva está suficientemente fundamentada, tendo as instâncias ordinárias destacado a gravidade concreta dos fatos, bem como a necessidade de impedir a reiteração delitiva e desarticular a aparente organização criminosa que supostamente o recorrente faz parte.
+Tais circunstâncias demonstram a periculosidade do agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Aplica-se à espécie o entendimento desta Corte de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades (AgRg no HC n. 773.086/SP, rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 04/10/2022, DJe de 10/10/2022).
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese vertente. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Insta consignar também que o acusado possui condenação criminal por delito inserido no Estatuto do Desarmamento, o que só reforça a necessidade de manutenção da medida aplicada, diante da reiteração delitiva.
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
