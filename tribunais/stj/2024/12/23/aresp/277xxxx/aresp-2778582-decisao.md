@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ALEX APARECIDO DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 1500713-92.2023.8.26.0583 (fls. 320/326), com a seguinte ementa:
+APELAÇÃO CRIMINAL FURTO QUALIFICADO TENTADO Sentença condenatória Recurso da defesa Pleito de absolvição por insuficiência de provas ou à luz do princípio da insignificância Impossibilidade Materialidade e autoria suficientemente comprovadas Fatos materialmente típicos ante o juízo de reprovabilidade que recai sobra a conduta Condenação mantida Pena bem dosada. Recurso desprovido.
+No recurso especial, a defesa requereu, em síntese, a reforma do acórdão para absolver o réu, com fundamento na atipicidade material, em razão da aplicação do princípio da insignificância (fls. 334/342).
+Inadmitido o recurso na origem (fls. 355/356), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 362/365).
+O Ministério Público Federal opinou pelo desprovimento do recurso especial (fls. 388/391), em parecer com a seguinte ementa:
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO. NÃO INCIDÊNCIA DA SÚMULA 07 DO STJ. RECURSO ESPECIAL. FURTO QUALIFICADO. CRIMINOSO CONTUMAZ EM CRIMES PATRIMONIAIS. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Conheço do agravo, porquanto presentes os pressupostos para sua admissibilidade. O agravante logrou infirmar com suficiência os fundamentos para inadmissão do especial.
+O recorrente requer a aplicação do princípio da insignificância ao caso presente, uma vez que a res furtiva foi avaliada em R$ 23,00 (vinte e três reais), conforme laudo de avaliação de fl. 16, valor bem inferior a 10% (dez por cento) do salário mínimo vigente, de modo a inferir a inexistência de lesão relevante ao patrimônio da vítima.
+Insta consignar que a aplicação da insignificância, no caso presente, foi afastada em razão dos seguintes fundamentos:
+"(..) apesar de o autuado ser primário, ele possui maus antecedentes, bem como está sendo investigado pela prática de ao menos outros 02 (dois) delitos de furto nesta cidade e Comarca, praticados, respectivamente, nos dias 26/09/2021 e 03/02/2022, conforme consta da sua ficha criminal e certidão de antecedentes acostadas aos autos (fls. 50/65 e 66/71). Como se não bastasse, cabe ressaltar que o autuado ele foi preso em flagrante em 14/07/2023 pela suposta prática do crime de furto, tendo lhe sido concedida a liberdade provisória em audiência de custódia realizada na mesma data, ocasião na qual foi posto em liberdade, o que demonstra a sua periculosidade, pois em 2 (dois) dias nas ruas, já voltou a praticar, em tese, outro crime de furto (..)"
+Ou seja, a periculosidade do agente foi aferida não em razão de condenações transitadas em julgado, mas de inquéritos em andamento e ações penais em curso, o que evidentemente contraria entendimento desta Corte Superior, especialmente o firmado por ocasião da edição da Súmula 444/STJ. A periculosidade da conduta do réu, a inviabilizar o reconhecimento da insignificância no caso, não pode ser presumida por tais fatores.
+Sendo assim, seja em razão do inexpressivo valor do bem subtraído, seja em razão da análise dos antecedentes do réu, vislumbra-se a viabilidade do reconhecimento da atipicidade material da conduta, em razão da aplicação do princípio da insignificância.
+Sobre o tema, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. ABSOLVIÇÃO.PRINCÍPIO DA INSIGNIFICÂNCIA. RECONHECIMENTO DO PRIVILÉGIO. SUBSTITUIÇÃO DA PENA. INVIABILIDADE. MAUS ANTECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção desta Corte Superior reafirmou, no julgamento dos EAREsp n. 221.999/RS (Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 10/12/2015), o entendimento de que, em regra, a reiteração delitiva impossibilita a aplicação do princípio da insignificância nos crimes de furto, ressalvada a possibilidade de as instâncias ordinárias, no exame do caso concreto, entenderem pela sua incidência.
+2. Na hipótese dos autos, o Tribunal de origem afastou a incidência do princípio da insignificância, do furto privilegiado e da substituição da pena, com base nas condições pessoais negativas do agravante, que possuía duas anotações anteriores por furto em sua folha de antecedentes criminais e estava em cumprimento de sursis quando praticou o crime objeto destes autos. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1793658/SP, Rel. Min. ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 22/11/2021).
+Pelo exposto, conheço do agravo, para dar provimento ao recurso especial, absolvendo o réu, com fundamento no art. 386, III, do CPP.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO TENTADO. VIOLAÇÃO DOS ARTS. 1º E 155, § 4º, II E IV, § 2º, AMBOS DO CP; 386 , III, DO CPP. BEM SUBTRAÍDO NO VALOR DE R$ 23,00 (VINTE E TRÊS REAIS), DEVOLVIDO À VÍTIMA. RÉU POSSUIDOR DE AÇÕES PENAIS EM ANDAMENTO E INQUÉRITOS EM ANDAMENTO. PERICULOSIDADE QUE NÃO PODE SER PRESUMIDA. POSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA.
+Agravo conhecido para dar provimento ao recurso especial.
