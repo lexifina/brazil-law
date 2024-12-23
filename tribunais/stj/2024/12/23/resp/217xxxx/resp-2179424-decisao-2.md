@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DECORAÇÕES RONE LTDA com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo O TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL, assim ementado (e-STJ, fl. 230):
+EMENTA - AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - PRELIMINARES DE NÃO CONHECIMENTO DO RECURSO - REJEITADAS. MÉRITO - MEDIDA ANTECIPATÓRIA QUE MANTEVE A LOCATÁRIA NA POSSE DO IMÓVEL - NECESSIDADE DE REFORMA ARTIGO 33 DA LEI Nº 8.245/1991 - DIREITO DE PREFERÊNCIA DO LOCATÁRIO - EXIGÊNCIA DE AVERBAÇÃO DO CONTRATO DE LOCAÇÃO DO IMÓVEL PELO MENOS TRINTA DIAS ANTES DA ALIENAÇÃO - CONTAGEM DO PRAZO A PARTIR DA CELEBRAÇÃO DO NEGÓCIO JURÍDICO - DISPOSITIVO LEGAL VISA PROTEGER O COMPRADOR - PRECEDENTE DO STJ. MULTA POR LITIGÂNCIA DE MÁ-FÉ - REJEITADA. PROBABILIDADE DO DIREITO DA LOCATÁRIA - NÃO CONFIGURADA. TUTELA ANTECIPADA RECURSAL REVOGADA. PRELIMINARES REJEITADAS, RECURSO PROVIDO.
+Não foram opostos embargos de declaração.
+Em suas razões recursais (e-STJ, fls. 235-262), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) art. 1024, § 3º, do CPC/15, alegando que os atos judiciais não podem ser impugnados por dois recursos simultâneos interpostos pela mesma parte, de modo que a interposição, pelos recorridos, de embargos de declaração e agravo interno simultaneamente não poderia ter ocorrido;
+b) art. 33 da Lei 8.245-91 e ao art. 1.245 do Código Civil, aduzindo que como não houve a transferência do imóvel ao adquirente Marcelo Rosa Ribeiro, não começaram a correr os prazos de 30 dias para o registro do contrato de locação na matrícula do imóvel e de 6 (seis) meses para o exercício do direito de preferência pelo locatário preterido, referidos no art. 33 da Lei Federal 8.245-91.
+Aponta, ainda, divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 319-348 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 414-421 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. De início, a alegada ofensa ao art. 1024, § 3º, do CPC/15 não merece ser acolhida.
+O Tribunal de origem, quanto ao ponto, assim consignou (e-STJ, fl. 231):
+As preliminares de não conhecimento do Recurso não merecem guarida, pelas razões a seguir delineadas. A arguição de violação ao princípio da singularidade recursal deve ser afastada, sendo que os embargos de declaração e o agravo interno constituem recursos com escopos distintos, havendo previsão legal de que o primeiro seja conhecido como o segundo (artigo 1.024, 3º, CPC). Nesse contexto, em atenção aos princípios do aproveitamento dos atos processuais, instrumentalidade das formas e economia processual, não vislumbro óbice à apreciação deste recurso, o que é corroborado pela necessária simetria decisória em relação aos Embargos de Declaração nº 1417103-25.2023.8.12.0000/50000. Da mesma forma, a alegada violação ao princípio da dialeticidade não merece guarida, visto que o Recorrente impugnou de forma específica os fundamentos lançados no decisum objurgado, o que implica a apreciação das razões de mérito delineadas na peça recursal.
+Consoante a jurisprudência do STJ, "(..) em observância ao princípio da unicidade ou unirrecorribilidade recursal, só se admite um recurso contra uma única decisão judicial, salvo os embargos de declaração e o recurso extraordinário " (AgInt no RE nos EDcl no AgInt no REsp 1.701.567/PE, Relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/05/2019, DJe 24/05/2019)."
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. UNIRRECORRIBILIDADE. DEFEITO NA REPRESENTAÇÃO PROCESSUAL. SÚMULA 115/STJ. DEVOLUÇÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO DA JUSTA CAUSA NO MOMENTO OPORTUNO. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. É inadmissível o conhecimento do segundo agravo interno interposto, pois, em observância ao princípio da unicidade ou unirrecorribilidade recursal, só se admite um recurso contra uma única decisão judicial, salvo os embargos de declaração e o recurso extraordinário. Em ocasião anterior, assentou-se nesta Corte que "é manifestamente incabível o segundo e o terceiro recursos interpostos pela mesma parte, contra a mesma decisão, em razão da preclusão consumativa e do princípio da unirrecorribilidade" (AgInt no RE nos EDcl no AgInt no REsp 1.701.567/PE, Relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/05/2019, DJe 24/05/2019).
+2. Os arts. 76, § 2º e seu inciso I, e 932, parágrafo único, do CPC/2015, dispõem que não se conhece do recurso quando a parte descumpre a determinação para regularização da representação processual. Tal orientação está consolidada no enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+3. Encerrado o prazo estipulado para a prática do ato processual, tem-se a preclusão temporal, a qual todavia poderá ser afastada, desde que a parte prove que não o realizou por justa causa.
+4. No ato de interposição do agravo interno, não foi comprovada a justa causa, não se conhecendo de documentos apresentados em momento posterior, porque "não é facultado à parte apresentar aditivos, emendas ou complementos a suas razões de insurgência, mesmo dentro do prazo recursal, em consonância com o princípio da preclusão consumativa (AgInt no AREsp n. 2.023.345/MS, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/5/2024, DJe de 21/5/2024).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.596.298/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Logo, uma vez que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, impõe-se o óbice da Súmula n. 83 do STJ.
+2. Outrossim, a apontada ofensa aos arts. 33 da Lei 8.245-91 e 1245 do Código Civil, também não prospera.
+A Corte local, ao dirimir a controvérsia, consignou o seguinte (e-STJ, fl. 232):
+O ponto de controvérsia diz respeito à exigência de o que o contrato de locação esteja averbado na matrícula do imóvel pelo menos trinta dias antes da alienação, se o prazo é contato a partir da celebração do negócio jurídico ou do registro, mostrando-se correta a primeira opção.
+Quanto ao primeiro requisito, o dispositivo legal é expresso ao exigir que o requerimento de adjudicação do imóvel seja efetuado no prazo de seis meses, a contar do registro do ato no cartório de imóveis. Já quanto ao segundo requisito, o artigo exige a averbação junto à matrícula do imóvel pelo menos trinta dias antes da alienação.
+Ou seja, o dispositivo legal traz exigência em que o termo inicial é contado a partir do registro do imóvel. Isso traz a implicação de que, se no último requisito o prazo de trinta dias devesse ser contado a partir do registro da alienação, o legislador teria feito constar expressamente "antes do registro da alienação"; porém, não o fez.
+A razão de não tê-lo feito é plausível: referida exigência tem por finalidade proteger o comprador do imóvel, de modo que tenha ciência da existência do contrato de locação antes da realização do negócio jurídico; não se trata de proteção ao locatário, de modo que o artigo 1.245 do Código Civil não o ampara.
+A empresa Recorrida, portanto, como já esposado no 1417103-25.2023.8.12.0000, moveu-se tardiamente para averbar o contrato de locação à matrícula do imóvel (prenotação em 28.07.2023 e registro em 31.08.2023, um mês após a extinção do contrato de locação), enquanto a cessão de direitos hereditários ocorreu em 14.10.2021.
+Ressalto que a tese de que o prazo de trinta dias para averbação do contrato de locação passaria a contar do registro da alienação não encontra amparo no entendimento hodierno do Superior Tribunal de Justiça, que assim decidiu em caso semelhante ao presente (destaquei):
+Como se vê, o Tribunal de origem afirmou que a parte recorrente "moveu-se tardiamente para averbar o contrato de locação à matrícula do imóvel (prenotação em 28.07.2023 e registro em 31.08.2023, um mês após a extinção do contrato de locação)".
+Nesse sentido, como esse fundamento é suficiente por si só para manter a conclusão do julgado, o qual não foi atacado de forma específica nas razões do recurso especial, incide, à hipótese, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. TAXA ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. POSSIBILIDADE. PRECEDENTES. REVISÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.013.366/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESSARCIMENTO DE DANOS. TRANSPORTE AÉREO DE MERCADORIA. AVARIA DE CARGA. ALEGAÇÃO DE DECADÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LIMITAÇÃO DA RESPONSABILIDADE. POSSIBILIDADE. PREVALÊNCIA DA CONVENÇÃO DE MONTREAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DE QUESTÃO FÁTICA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+(..)
+(AgInt no AREsp n. 1.636.421/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, nego provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
