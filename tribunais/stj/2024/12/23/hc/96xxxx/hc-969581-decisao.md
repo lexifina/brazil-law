@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARIA RAÍSSA TAMIRES DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ (Recurso em Sentido Estrito n. 0844259-71.2022.8.18.0140).
+Consta dos autos que a paciente foi presa preventivamente, em 17/11/2023, pela suposta prática do crime de homicídio qualificado - art. 121, § 2º, I e IV, c/c o art. 29, ambos do Código Penal.
+A custódia foi mantida por ocasião da sentença de pronúncia.
+Interposto recurso em sentido estrito, o Tribunal negou-lhe provimento nos termos da seguinte ementa (e-STJ fls. 11/13):
+EMENTA
+RECURSO EM SENTIDO ESTRITO. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRELIMINARES. DO RECURSO DOS RECORRENTES LAYANE CARVALHO GOMES E JOSEMIR BARBOSA DOS SANTOS. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. DO RECURSO DA RECORRENTE MARIA RAISSA TAMIRES DA SILVA . CERCEAMENTO DE DEFESA. NÃO COMPARECIMENTO DO RECORRENTE. AUSÊNCIA DE PREJUÍZO. DIREITO DE RECORRER EM LIBERDADE. IMPOSSIBILIDADE. DO RECURSO DO RECORRENTE LUCAS GABRIEL TRINDADE DA ROCHA. PEDIDO DE ABSOLVIÇÃO SUMÁRIA POR LEGÍTIMA DEFESA . INVIABILIDADE. COMPROVADOS INDÍCIOS SUFICIENTES DE AUTORIA E MATERIALIDADE DOS 4 (QUATRO) RECORRENTES. RECURSOS CONHECIDOS E IMPROVIDOS. Do Recurso dos recorrentes Layane Carvalho Gomes e Josemir Barbosa Dos Santos.
+1. Preliminar. Excesso de linguagem. O magistrado, ao proferir sentença de pronúncia, não pode ultrapassar os limites do juízo de admissibilidade da acusação e prejudicar a imparcialidade dos membros do Tribunal do Júri. Dessa maneira, a sentença de pronúncia deve ser fundamentada, contudo, é necessário que o juiz utilize palavras com moderação, utilizando-se de termos sóbrios e comedidos.
+2. In casu, o juiz, a partir do confronto das provas e versões apresentadas no decorrer do processo, entendeu pela admissibilidade da acusação e fundamentou a decisão de pronúncia com trechos dos depoimentos das testemunhas, não tendo que se falar em excesso de linguagem nos casos em que o julgador se refere às provas dos autos. Do Recurso da Recorrente Maria Raissa Tamires da Silva
+3. Cerceamento da defesa. In casu, não deve prosperar a tese do cerceamento de defesa, diante da ausência da acusada em audiência de instrução, visto que a ré foi devidamente intimada na data do dia 20/06/2023 e sua defesa técnica estava presente em audiência e concordou com o regular prosseguimento do feito, conforme ata de audiência.
+4. Mérito. Revogação da prisão preventiva. O magistrado de primeiro grau, portanto, ressaltou a subsistência dos requisitos autorizadores da prisão cautelar, quando da decretação da prisão preventiva, dando ênfase à periculosidade concreta da ré, diante da gravidade concreta do delito, uma vez que estaria ligada à facção criminosa de modo a recomendar a manutenção da sua segregação cautelar.
+5. Do Recurso do Recorrente Lucas Gabriel Trindade. Da absolvição sumária. Legítima defesa. De acordo com os relatos apresentados, a vítima, Marcelo Pinho da Silva, estava em sua residência quando os acusados chegaram inesperadamente. Maria Raissa e Layane Carvalho entregaram armas de fogo a Lucas Gabriel e Josemir Barbosa. Josemir disparou e atingiu Geovane Suly, que tentava escapar do local, enquanto Lucas Gabriel atirou contra Marcelo Pinho, que não sobreviveu aos ferimentos e faleceu. A motivação para o crime teria sido vingança, pois supostamente Marcelo Pinho estaria envolvido na morte do irmão da acusada Maria Raíssa Tamires.
+6. Análise conjunta da tese defensiva da Autoria e materialidade dos 4 (quatro) Recorrentes. No caso dos autos, a materialidade do delito encontra-se comprovada pelo relatório de investigação policial, pela Recognição Visuográfica de Local de Morte Violenta (ID 32178729 - fls. 40/52), pelo Laudo Cadavérico da vítima Geovane Suly Tavares Silva Fernandes (ID 32178729 - fls. 80/82) e pelo Laudo Cadavérico da vítima Marcelo Pinho da Silva (ID 33869947). Ademais, os depoimentos obtidos na instrução corroboram e confirmam os elementos probatórios produzidos na fase de investigação policial, havendo indícios de que os Recorrentes são os supostos autores dos homicídios em comento.
+7. Recursos conhecidos e improvidos.
+A defesa sustenta a ausência de fundamentação idônea e dos requisitos legais para a decretação da prisão preventiva da paciente, que teria sido baseada na gravidade abstrata do crime e em especulações sobre sua participação em organização criminosa.
+Destaca a inexistência de elementos que comprovem a autoria delitiva.
+Alega a ausência de contemporaneidade dos motivos ensejadores da prisão, tendo em vista que o crime teria ocorrido em 5/7/2022 e a prisão efetivada em 17/11/2023.
+Alega a existência de excesso de prazo após a sentença de pronúncia, destacando que a paciente está presa há mais de 395 dias.
+Afirma ser necessária a extensão dos efeitos a ela da decisão que teria revogado a prisão preventiva dos corréus, tendo em vista a similitude fático-processual.
+Pugna, ao final, pela revogação da prisão preventiva da acusada.
+É o relatório.
+Decido.
+De início, destaca-se que, no rito do habeas corpus, não se permite a produção de provas, pois essa ação constitucional possui o objeto de sanar ilegalidade verificada de plano, não sendo possível, portanto, aferir materialidade e autoria delitiva. Por conseguinte, as alegações quanto a esse ponto não devem ser conhecidas.
+Destaca-se, ainda, que as teses referentes à necessidade de manutenção da prisão preventiva, bem como da viabilidade de extensão dos efeitos da decisão que revogou a prisão preventiva dos corréus, já foram analisadas pelo Superior Tribunal de Justiça quando do julgamento do HC n. 922.110/PI, impetrado contra acórdão proferido pelo Tribunal de origem em sede de habeas corpus, circunstância que evidencia a indevida reiteração de pedidos.
+Nesse sentido (destaques acrescidos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA TRANSITADA EM JULGADO. EXCESSO DE LINGUAGUEM. PRECLUSÃO. REITERAÇÃO DE PEDIDOS. MATÉRIA JÁ ANALISADA EM HABEAS CORPUS ANTERIOR. AGRAVO DESPROVIDO.
+1. O presente habeas corpus, distribuído em 7/2/2024,constitui mera reiteração do pedido formulado no HC 815846, de minha relatoria, não conhecido em 13/7/2023, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Agravo regimental no HC 5012307-33.2022.8.08.0000).
+ ..
+3. Assim, esta Corte já proferiu decisão acerca da irresignação da defesa, motivo pelo qual é incabível um novo pronunciamento.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 888.335/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. REITERAÇÃO DE PEDIDOS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO QUANTO AO ART. 35 DA LEI N. 11.343/2006. SUPERVENIÊNCIA DE EXTINÇÃO DA PUNIBILIDADE PELO JUÍZO DA EXECUÇÃO. PERDA DO OBJETO. APLICAÇÃO DA CAUSA REDUTORA DA LEI DE DROGAS. REPETIÇÃO DE PRETENSÃO ANTERIOR JÁ ANALISADA PELO STJ. INADMISSIBILIDADE. PRECEDENTES.
+Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+(AgRg no HC n. 867.760/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/9/2024, DJe de 6/9/2024, grifei.)
+Por fim, as alegações de excesso de prazo e a ausência de contemporaneidade dos motivos ensejadores da prisão não foram analisadas no acórdão impugnado, o que inviabiliza o exame das questões por esta Corte Superior, sob pena de indevida supressão de instância.
+A propósito, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, relator o Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
