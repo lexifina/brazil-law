@@ -1,0 +1,17 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele Estado na Apelação Criminal n. 0001585-72.2013.8.24.0007.
+Nas razões recursais, o Parquet estadual aponta violação do art. 10 da Lei n. 7.347/1985, por considerar que a moldura fática delineada nos autos evidencia a tipicidade da conduta imputada ao recorrido.
+Requer seja restabelecida a sentença condenatória em seus exatos termos.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento.
+Decido.
+De plano, verifico a perda do interesse-utilidade deste recurso especial, o que prejudica a análise do mérito.
+O recorrido foi condenado, em sentença publicada no dia 31/3/2016, à pena de 1 ano de reclusão, em regime inicial aberto, mais multa, pela prática do delito previsto no art. 10 da Lei n. 7.347/1985, substituída a pena privativa de liberdade por restritiva de direitos.
+No âmbito de apelação exclusiva da defesa, o Tribunal a quo absolveu o réu, por considerar que "os documentos requeridos pelo Ministério Público ao réu, que serviriam como base para o processar o funcionário público, não se tratam de documentos indispensáveis à propositura de ação civil, pois sequer houve ajuizamento de processo, o que torna a conduta do réu atípica" (fl. 276).
+Contra esse acórdão, insurge-se o Ministério Público por meio deste recurso especial, para que seja restabelecida a condenação imposta ao recorrido, em primeiro grau de jurisdição. Contudo, mesmo em caso de procedência do recurso especial, a prescrição da pretensão punitiva ocorreu entre a prolação do édito condenatório e a presente data.
+O art. 110, § 1º, do Código Penal disciplina que a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação, regula-se pela pena aplicada. A pena aplicada ao recorrido transitou em julgado para o Ministério Público, pois o recurso especial versa, somente, sobre o restabelecimento da sentença.
+Assim, ainda que o recurso especial da acusação fosse provido, subsistiria a pena fixada na sentença condenatória, que, para o caso concreto, foi de 1 ano de reclusão. Nessas circunstâncias, o prazo prescricional é de 4 anos, conforme disposto nos arts. 109, V, e 110, § 1º, do CP.
+Considerando que o último marco interruptivo da prescrição ocorreu com a publicação da sentença condenatória, em 31/3/2016 (fl. 196), e transcorridos mais de 4 anos entre a referida data e o presente momento, o reconhecimento da prescrição da pretensão punitiva, ocorrida após a interposição do especial, seria medida cogente na espécie, o que evidencia a superveniente perda do interesse-utilidade deste recurso, ou, nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal. 6. ed. rev., atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2009, p. 71)
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
