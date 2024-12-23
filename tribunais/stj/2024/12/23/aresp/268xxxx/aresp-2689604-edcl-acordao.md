@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 1725):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+A embargante sustenta que "(..) o acórdão é obscuro/omisso quanto ao fato de que a decisão objeto do agravo interno entendeu que "a agravante não impugnou, especificamente, a incidência da Súmula 280/STF, o que acarreta o não conhecimento do agravo" , razão pelo qual o referido recurso impugnou tão somente esse fundamento, não havendo, portanto, que se falar em ausência de impugnação específica quanto a incidência das Súmulas nºs 7/STJ, 83/STJ, 211/STJ, 282/STF e 356/STF, já que, frisa- se, NÃO FORAM OBJETO DA DECISÃO AGRAVADA, incorrendo, nesse sentido, em erro de premissa." (fl. 1737).
+Acrescenta que "(..), ainda que assim não entenda, fato é que a ora Embargante efetivamente impugnou, em seu Agravo em REsp, a incidência das Súmulas nºs 280/STF, 7/STJ, 83/STJ, 211/STJ, 282/STF e 356/STF, além da negativa de prestação jurisdicional, por violação ao art. 1.022, 489, §1º, inciso IV, §3º, do CPC, o que foi completamente desconsiderado/omitido pelo acórdão embargado." (fl. 1738).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte sustenta que o acórdão contém obscuridade, omissão e erro porque, a uma, a decisão agravada assentou que a parte deixou de impugnar unicamente a incidência da Súmula 280/STF - pelo que não poderia o acórdão embargado exigir impugnação específica aos demais fundamentos da decisão de inadmissibilidade do apelo nobre, que não foram objeto da decisão agravada - e, a duas, porque efetivamente impugnou, em seu agravo em recurso especial, todos os fundamentos da decisão de inadmissibilidade, daí decorrendo os vícios.
+Ocorre que razão não lhe assiste.
+Veja-se que o acórdão embargado decidiu a controvérsia ao assentar que tendo a decisão que obstou o recurso especial se respaldado em quatro fundamentos (incidência da Súmula 280/STF, incidência da Súmula 7/STJ, inexistência de negativa de prestação jurisdicional, conforme Súmula 83/STJ, e incidência das Súmulas 211/STJ, 282/STF e 356/STF), a então agravante deixou de impugnar, especificamente, um deles (incidência da Súmula 280/STF).
+Nesse diapasão, explicitou que ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Isso porque no tocante à Súmula 280/STF, o adequado combate à aplicação do óbice exige da parte que ela demonstre a desnecessidade, na solução da controvérsia, de análise de legislação local, fazendo o contraponto com a incidência tão somente da legislação federal invocada, até mesmo porque a decisão agravada, na hipótese concreta, apontou que o colegiado estadual decidiu o caso a partir de interpretação daquela legislação (local) e colacionou julgados desta Corte Superior sobre a situação verificada.
+Por fim, o aresto concluiu assentando que a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo, conforme determinação contida nos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ora, verifica-se omissão no julgado quando o julgador deixa de analisar tese relevante ao deslinde da controvérsia ou de explicitar de forma adequada e fundamentada as razões do seu convencimento.
+Outrossim, quanto ao vício da obscuridade, tem-se que esta se verifica "(..) quando há evidente dificuldade na compreensão do julgado, faltando clareza à decisão, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial." (EDcl no AgRg no AREsp 270504/MG, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 8/8/2013).
+Lado outro, a jurisprudência do STJ é firme no sentido de que "Ocorre erro material quando há mero equívoco relacionado à grafia ou a cálculos consignados nos autos, o que não se confunde com discordância acerca dos critérios de cálculo a serem utilizados na fixação do quantum debeatur, tais como incidência de expurgos inflacionários, de índices de correção monetária e de juros." (REsp 702.073/PB, Rel. Min. João Otávio de Noronha, 2ª Turma, DJ de 3/82006). Mutatis mutandi, isso quer dizer que o erro material é aquele equívoco singelo, verificável de plano, que diz respeito a aspecto fático mencionado na decisão em desacordo com a realidade dos autos, não se confundindo com a mera discordância da parte com os fundamentos da decisão recorrida.
+Nesse contexto, evidencia-se que não há falar, na espécie, em qualquer dos vícios apontados, pois o aresto embargado, analisando o agravo interno - e ainda, vale ressaltar, o agravo em recurso especial -, explicitou de modo fundamentado, coerente e claro as razões do seu convencimento.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido .
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
