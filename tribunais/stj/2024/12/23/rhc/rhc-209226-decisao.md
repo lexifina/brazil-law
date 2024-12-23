@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por ELOIR NAZÁRIO JÚNIOR contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o recorrente foi preso preventivamente em 14/8/2024, pela suposta prática da conduta descrita no art. 33, caput, da Lei n. 11.343/2006, por duas vezes.
+O recorrente sustenta excesso de prazo para a formação da culpa, visto que a denúncia foi oferecida somente em 5/11/2024, ou seja, após passados 12 dias do prazo legal, quando já perfaziam 83 dias que o réu estava preso.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva do recorrente e, subsidiariamente, a imposição de quaisquer medidas cautelares diversas da prisão, em especial, o uso de monitoração eletrônica.
+É o relatório.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+Relativamente ao excesso de prazo, o Tribunal local examinou a questão nos seguintes termos, conforme se observa do voto condutor do acórdão (fl. 55)
+Inicialmente, é preciso ressaltar que, embora os prazos processuais devam nortear um célere andamento da instrução, não podem ser enfrentados com o rigorismo matemático. A resposta judicial não pode ser submetida apenas à frieza dos números, sem considerar o tempo razoável para o amadurecimento da prova.
+No caso em análise, embora o paciente esteja preso há cerca de 80 dias, a investigação tratava de tráfico de drogas em larga escala e comércio ilegal de armas de fogo. Foram necessárias diligências, como mandados de busca e apreensão, justificando a extensão do prazo da prisão.
+Ainda que assim não o fosse, após a impetração do presente writ, houve o oferecimento da denúncia, razão pela qual o excesso de prazo na formação da opinio delicti restou superado (autos n. 5002486-83.2024.8.24.0163, evento 1).
+Portanto, diante da perda superveniente do objeto, não se conhece do habeas corpus no ponto.
+Assim, considerando a complexidade do processo, que envolve investigação acerca de tráfico de drogas em larga escala, bem como o comércio ilegal de arma de fogo, não se verifica inércia ou desídia atribuível ao Poder Judiciário para a formação da culpa.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS COM SEGUIMENTO NEGADO. HOMICÍDIO QUALIFICADO E RECEPTAÇÃO SIMPLES. NULIDADE. RECEBIMENTO DA DENÚNCIA. SUPERVENIÊNCIA DA DECISÃO DE PRONÚNCIA. PREJUDICIALIDADE. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA E REITERAÇÃO DELITIVA. ELEMENTOS CONCRETOS E IDÔNEOS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. AUSÊNCIA. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se negou seguimento ao recurso ordinário, quando não evidenciado constrangimento ilegal quanto à alegada nulidade da decisão de recebimento da denúncia, nem ausência de fundamentação da segregação provisória ou coação ilegal por excesso de prazo.
+2. Prejudicada a alegação de nulidade do recebimento de denúncia, em razão da superveniência da pronúncia do ora agravante.
+3. Inexistente constrangimento quanto à fundamentação do decreto prisional, pois se demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito e a reiteração delitiva, em razão da suspeita de envolvimento com diversos delitos de homicídio ocorridos na localidade, com modo de execução semelhante, em disputas entre facções criminosas pelo tráfico de drogas na região.
+4. Inevidente o alegado excesso de prazo para formações da culpa, uma vez que se trata de feito complexo (com 4 réus, diversidade de condutas delitivas e sujeito ao procedimento especial do Tribunal do Júri) e inexiste contribuição do Judiciário na eventual mora processual, pois, nos termos das informações prestadas pelo Juízo de primeiro grau, em 7/5/2024, foi proferida a pronúncia, tendo sido interposto recurso em sentido estrito pelo ora agravante em 13/5/2024.
+5. Agravo regimental improvido.
+(AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/8/2024, DJe de 28/8/2024 - sem o destaque no original.)
+Destaca-se ainda que após a impetração do writ originário, houve o oferecimento da denúncia, razão pela qual o excesso de prazo na formação da opinio delicti está superado.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. DENÚNCIA OFERECIDA. RECURSO NÃO CONHECIDO.
