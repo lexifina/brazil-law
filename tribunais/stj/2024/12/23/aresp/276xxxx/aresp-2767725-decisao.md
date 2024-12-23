@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por CARMEN LUCIA NOGUEIRA FOLHADELA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO cuja ementa guarda os seguintes termos (fls. 284-285):
+RECURSO DE APELAÇÃO. PLANO DE SAÚDE. HIPERMETROPIA. CIRURGIA MEDIANTE LASER DE FEMTOSEGUNDOS. PROCEDIMENTO REALIZADO FORA DA REDE CREDENCIADA. REEMBOLSO LIMITADO AOS LIMITES CONTRATUAIS. DANO MORAL NÃO CONFIGURADO. REFORMA DA SENTENÇA. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. APELAÇÃO PROVIDA.
+1. A controvérsia dos autos consiste em analisar a responsabilidade do plano de saúde em reembolsar as despesas da cirurgia de correção visual a laser, do tipo FEMTOSEGUNDOS, da demandante realizada com médicos não credenciados e, consequentemente, se é hipótese de dano moral ou não.
+2. A negativa de custeio de procedimento com técnica cirúrgica mais precisa, quando prevista a cobertura para a doença apresentada pelo segurado, sem a apresentação pelo plano de saúde de justificativa de que o método coberto por ele teria a mesma eficácia que o método indicado pelo médico assistente, enseja o direito do segurado ao reembolso da quantia paga pelo respectivo tratamento, ressalvando que o reembolso das despesas com honorários médicos e custos hospitalares deve obedecer os limites da apólice por ter sido realizado fora da rede credenciada.
+3. O Superior Tribunal de Justiça fixou entendimento no sentido de que "a negativa indevida de plano de saúde para cobertura das despesas com tratamento médico do segurado não configura, de imediato, dano moral indenizável, devendo a possível reparação ser verificada com base no caso concreto, diante da constatação de situação que aponte a afronta a direito da personalidade".
+4. Ainda que se possa presumir os aborrecimentos sofridos pela autora, que não conseguiu solucionar a controvérsia na via administrativa referente à cirurgia de hipermetropia, não se vê ofensa a qualquer dos direitos da personalidade protegidos pelo instituto da responsabilidade civil, nem sofrimento ou abalo de monta que justifique a compensação pecuniária (CPC, art. 373, I).
+5. Recurso provido.
+Rejeitados os embargos de declaração opostos (fls. 313-320).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no art. 86 do CPC.
+Sustenta, em síntese, que "a recorrente não decaiu de todos os seus pedidos, mas obteve o mais importante deles, que é o reembolso das despesas cirúrgicas, sendo certo que a indenização por danos morais era pedido meramente acessório e de menor valor, enquanto que a limitação ao preço de tabela não afasta a obrigação de reembolsar a cirurgia completa. Assim, ao menos, ambas as partes deveriam ter sido condenadas a arcar com as verbas sucumbenciais, a teor do art. 86, do CPC" (fl. 430).
+Foram oferecidas contrarrazões ao recurso especial (fls. 438-444).
+Sobreveio o juízo de admissibilidade negativo na instância de origem, o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 661-664).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação merece prosperar.
+Nos termos da jurisprudência pacífica do STJ, "a distribuição dos ônus sucumbenciais, quando verificada a existência de sucumbência recíproca, deve ser pautada pelo exame do número de pedidos formulados e da proporcionalidade do decaimento de cada uma das partes em relação a cada um desses pleitos" (AgInt no REsp n. 2.095.078/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Ademais, "havendo pedido de indenização por danos morais e por danos materiais, o acolhimento de um deles, com a rejeição do outro, configura sucumbência recíproca" (AgInt nos EDcl no REsp n. 1.627.962/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 7/6/2022, DJe de 20/6/2022).
+No mesmo sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SUCUMBÊNCIA RECÍPROCA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. BASE DE CÁLCULO DOS HONORÁRIOS. VALOR DA CONDENAÇÃO. OBSERVÂNCIA DA ORDEM DE PREFERÊNCIA PREVISTA EM LEI. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO DESPROVIDO.
+1. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "havendo pedido de indenização por danos morais e por danos materiais, o acolhimento de um deles, com a rejeição do outro, configura sucumbência recíproca" (AgInt nos EDcl no REsp n. 1.627.962/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 7/6/2022, DJe de 20/6/2022).
+1.1. O Tribunal de Justiça fixou o ônus da sucumbência com base nas peculiaridades próprias ao caso concreto, considerando a procedência de um entre os dois pedidos formulados. Alterar a dinâmica sucumbencial demandaria reexame de fatos e provas, vedado no âmbito do recurso especial por força da Súmula 7/STJ.
+2. Em se considerando a ocorrência de sucumbência recíproca, cada parte deve arcar, meio a meio, com os honorários advocatícios. No caso, sua fixação sobre o montante da condenação obedeceu à ordem de preferência prevista no art. 85, § 2º, do CPC/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.055.374/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+No caso dos autos, na petição inicial constam dois pleitos: o reembolso integral das despesas com a cirurgia realizada fora da rede credenciada e a indenização por danos morais. Tendo o Tribunal de Justiça do Estado de Pernambuco julgado improcedente a pretensão de reparação por danos morais, mas mantida a condenação do plano de saúde quanto ao reembolso apesar de menor extensão (reembolso das despensas com a cirurgia de acordo com o valor de tabela do plano de saúde), a hipótese é de sucumbência recíproca.
+Desse modo, merece reforma o acórdão recorrido quanto à distribuição dos ônus sucumbenciais, de modo que as partes arquem, meio a meio, com as custas e despesas processuais, e individualmente com os honorários advocatícios da parte contrária , os quais mantenho em 10% sobre o valor da condenação, nos termos do art. 85, § 2º, do CPC.
+Por fim, fica prejudicada a análise da alegação de negativa de prestação jurisdicional (art. 1.022 do CPC), tendo em vista o princípio da primazia da decisão de mérito.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para reconhecer a sucumbência recíproca.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA CONFIGURADA. ART. 86 DO CPC. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
