@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto em favor de NATHAN FRANCISCO PAZ, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Habeas Corpus n. 2151252-79.2024.8.26.0000, assim ementado (fl. 107):
+HABEAS CORPUS - Pedido de cumprimento de pena em prisão domiciliar - Descabimento - Paciente que não retornou da saída temporária - Ausência de comprovação de impossibilidade de retorno à unidade prisional - Constrangimento ilegal não verificado - Ordem denegada.
+Consta nos autos que o recorrente foi condenado como incurso no artigo 33, caput, da Lei n. 11.343/2006, às penas de 05 (cinco) anos e 10 (dez) meses de reclusão, regime semiaberto e pagamento de 550 (quinhentos e cinquenta) dias-multa, pois transportava, entre Estados da Federação, para entrega a consumo de terceiros, 622 (mil seiscentos e vinte e dois) tijolos de substância Tetrahidrocannabinol (THC), popularmente conhecida como Maconha, pesando massa líquida de 412,09 kg (fls. 24/27).
+O Juízo do DEECRIM da 3ª RAJ - Bauru/SP, denegou o pedido de alteração de domicílio penal do recorrente para a cidade de Foz do Iguaçu/PR, em razão de evasão (fls. 97/98). Impetrado habeas corpus pela Defesa, o Tribunal de origem denegou a ordem (fls. 106/109).
+Relata a Defesa que o recorrente estava recluso no Centro de Progressão Penitenciária II de Bauru, quando usufruiu do benefício de saída temporária em março de 2024 e, alega que o recorrente não retornou por questões médicas à Unidade Prisional.
+Assevera que o recorrente informou ao Juízo das Execuções seu estado de saúde, ANTES mesmo da Unidade Prisional informar o suposto Abandono, como demonstrado às fls. 51/53 da PEC (fl. 117).
+Afirma que a Defesa não permitiu o retorno do sentenciado à Unidade Prisional, entendendo que este colegiado tem o dever de garantir a integridade física e moral do Paciente e de sua família (fl. 117).
+Requer seja provido o recurso e concedida a prisão domiciliar, bem como requer seja transferida a execução criminal para a Comarca de Foz do Iguaçu/PR.
+O Ministério Público Federal manifestou-se pelo improvimento do recurso (fls. 139/142).
+É o relatório.
+DECIDO.
+O pleito não prospera.
+O Tribunal de origem denegou a ordem de habeas corpus com os seguintes fundamentos (fls. 108/109 - grifamos):
+ ..  A ordem deve ser denegada.
+Foi informado pela MMª Juíza de origem que o paciente cumpria pena privativa de liberdade no total de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime semiaberto, pela prática do delito de tráfico de drogas. Em 14.03.2024, a Defesa do paciente formulou pedido de remessa da execução para Foz do Iguaçu, e, já na sequência, noticiou que o paciente não retornou da saída temporária por ter sido diagnosticado com COVID-19, solicitando afastamento por 10 (dez) dias, mediante apresentação de atestado datado de 29.03.2024.
+Consta ainda que, reiterado o pedido de alteração de domicílio penal do paciente, foi concedido o prazo de 5 dias para seu retorno à unidade prisional sob pena de sustação do regime semiaberto, sendo que, até o momento, não sobreveio informação de que o paciente tenha retornado (fls. 97/98).
+Por aqui, não se vislumbra qualquer ilegalidade na decisão impugnada, visto que não foram juntados quaisquer elementos que comprovem a alegada impossibilidade de retorno do paciente à unidade prisional.
+Nesse sentido, destacou a douta PGJ em seu parecer:
+"(..) Não há, seja nesta ação constitucional, seja no processo de origem, comprovação de que o paciente se encontre em situação de saúde debilitada apta a impedi-lo de retornar à unidade prisional da qual saiu, em Bauru.
+Inviável que ele, por mera liberalidade, deixe de retornar à unidade prisional, após saída temporária, e escolha onde quer cumprir o restante da pena, sem qualquer formalidade ou autorização administrativa, muito menos judicial, para tanto.
+Para postular o recâmbio para outra unidade, deve fazê-lo de maneira fundamentada e, antes de estudo, estar em cumprimento adequado da reprimenda, o que não se verifica na espécie. (..)" (fls. 103/104).
+Ademais, ainda que o paciente esteja acometido de alguma enfermidade, faz-se necessária a comprovação de que a unidade prisional carece de condições de prover o tratamento necessário para a sua condição de saúde a fim de que se possa cogitar de prisão domiciliar.
+Sendo assim, entendo que a r. decisão objurgada deve ser integralmente preservada.
+Ante o exposto, denega-se a ordem impetrada.
+Como visto, o recorrente usufruiu do benefício de saída temporária em março de 2024, não retornando mais à unidade prisional, alegando, para tanto, questões médicas. Requerido recambiamento a alteração de local para o cumprimento de pena, foi concedido ao recorrente o prazo de cinco dias para seu retorno à unidade prisional, sob pena de sustação do regime semiaberto.
+O Tribunal de origem concluiu que não foram juntados quaisquer elementos que comprovem a alegada impossibilidade de retorno do paciente à unidade prisional (fl. 108).
+No tocante à prisão domiciliar,
+É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, aliado à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, não bastando para tanto a mera constatação de que  ..  necessite de acompanhamento médico (AgRg no HC n. 633.976/BA, relator Ministro Felix Fischer, Quinta Turma, DJe de 31/5/2021).(AgRg no HC n. 924.151/MS, relator Ministro Og Fernandes, Sexta Turma, julgado em 23/10/2024, DJe de 25/10/2024 - grifamos).
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. CRIME DE HOMICÍDIO QUALIFICADO. CONCURSO DE AGENTES. OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. DOENÇA GRAVE. ASSISTÊNCIA MÉDICA NO SISTEMA PRISIONAL. IMPOSSIBILIDADE DE MEDIDAS CAUTELARES ALTERNATIVAS. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Recurso em habeas corpus visando à revogação de prisão preventiva decretada contra o paciente, preso em decorrência de suposto homicídio qualificado, cometido em concurso de agentes, motivado por relacionamento amoroso da vítima com a filha do acusado. A defesa alega ausência dos requisitos para manutenção da custódia preventiva, requerendo a aplicação de medidas cautelares alternativas. O Ministério Público Federal opinou pelo não provimento do recurso. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a prisão preventiva do paciente atende aos requisitos do art. 312 do CPP, em face da presunção de inocência; (ii) avaliar se há possibilidade de aplicação de medidas cautelares diversas da prisão. III. RAZÕES DE DECIDIR
+3. A prisão preventiva é cabível quando presentes os requisitos do art. 312 do CPP, estando comprovados o "fumus boni iuris" e o "periculum libertatis", desde que não haja substituição por medida cautelar menos gravosa (art. 282, § 6º, CPP).
+4. No caso, a prisão preventiva foi fundamentada na gravidade concreta do crime - homicídio qualificado cometido em concurso de agentes - e na conveniência da instrução criminal, em razão da destruição de provas pelo paciente.
+5. A gravidade concreta do delito, aliada à periculosidade do paciente e ao risco de obstrução das investigações, justifica a manutenção da prisão preventiva para garantir a ordem pública.
+6. A alegação de doença grave do paciente não autoriza, por si só, a revogação da prisão preventiva, mas pode justificar o cumprimento da pena em regime domiciliar, desde que demonstrada a impossibilidade de tratamento adequado no sistema prisional, o que não foi comprovado nos autos.
+7. As condições de saúde do paciente estão sendo monitoradas e tratadas adequadamente no sistema prisional, conforme laudos médicos juntados aos autos e a estrutura de assistência do sistema prisional, o que afasta o argumento de insuficiência no atendimento médico. IV. DISPOSITIVO
+8. Recurso desprovido.
+(RHC n. 187.889/ES, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 28/10/2024.)
+No tocante ao pedido de transferência, entende esta Corte que o pedido de transferência do apenado para cumprir pena em estabelecimento penal próximo ao seu meio social e familiar não é direito absoluto do réu, podendo o juiz ou o Tribunal de origem indeferir o pleito, desde que de forma fundamentada. (AgRg no HC n. 411.901/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/2/2019, DJe de 19/2/2019 - grifamos).
+Nestes termos, tem-se que o recorrente não comprovou as condições de saúde alegadas, bem como a impossibilidade do tratamento adequado no sistema prisional, não preenchendo os requisitos para a concessão da prisão domiciliar e, tampouco, poderia deixar de retornar à unidade prisional, entendendo, por liberalidade, aonde deseja cumprir o restante da pena.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
