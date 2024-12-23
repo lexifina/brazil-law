@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial apresentado em face de acórdão assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE PRESTAÇÃO DE CONTAS - ENCERRAMENTO DA PRIMEIRA FASE - PROCEDÊNCIA - DECISÃO DE NATUREZA INTERLOCUTÓRIA - RECURSO CABÍVEL - AGRAVO DE INSTRUMENTO - INTERPOSIÇÃO DE APELAÇÃO CÍVEL - INCABIMENTO - RECURSO NÃO CONHECIDO.
+O provimento jurisdicional que encerra a primeira fase da ação, no sentido de reconhecer o direito de exigir as contas, tem natureza de decisão de procedência parcial de mérito/interlocutória, de maneira que dela cabe recurso de agravo de instrumento, conforme dispõe o art. 1.015, II, do CPC.
+Os embargos de declaração foram rejeitados.
+Nas razões do especial, aponta o recorrente violação aos arts. 4º, 188, 1.024, § 3º, 1.032 e 1.033 do Código de Processo Civil, além do dissídio jurisprudencial, argumentando, em síntese, que seria possível a aplicação do princípio da fungibilidade, de modo a se conhecer da apelação como se agravo de instrumento fosse.
+Contrarrazões não foram apresentadas e o recurso especial, admitido na origem, conforme decisão de fls. 268/273.
+Assim delimitada a controvérsia, passo a decidir.
+Extraio do acórdão recorrido que o recurso da apelação não foi conhecido, em razão do entendimento do Tribunal de origem de que a interposição de apelação contra decisão que julga procedente a primeira fase da ação de exigir contas configura erro grosseiro, uma vez que o recurso previsto é o agravo de instrumento.
+Como a sentença referente à primeira fase da ação de exigir contas foi de procedência, fica evidenciada a natureza interlocutória da decisão, devendo ser impugnada por meio de agravo de instrumento, a teor do que previsto no artigo 1.015, II, do Código de Processo Civil.
+De toda forma, deve ser reconhecida a existência de dúvida plausível sobre o recurso cabível, tendo em vista a natureza ambivalente da decisão que encerra a primeira fase da ação de exigir contas em que, a depender de seu conteúdo (se encerra ou não o processo respectivo), o recurso cabível poderá ser a apelação ou agravo de instrumento.
+Com efeito, a divergência em julgados proferidos no segundo grau de jurisdição acerca do recurso cabível contra a decisão que encerra a primeira fase da ação de exigir contas, justifica a aplicação do princípio da fungibilidade nesse caso, conforme precedentes desta Corte.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CABIMENTO DE APELAÇÃO CONTRA A SENTENÇA QUE JULGA PROCEDENTE A PRIMEIRA FASE DA AÇÃO DE PRESTAÇÃO DE CONTAS. APLICAÇÃO DO ENTENDIMENTO DESTA CORTE. VERIFICAÇÃO DE DÚVIDA SOBRE O TIPO DE RECURSO CABÍVEL. INCIDÊNCIA DO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, o recurso cabível contra a decisão proferida na primeira fase da ação de exigir contas depende do conteúdo: não acarretando a decisão o encerramento do processo, o recurso cabível será o agravo de instrumento (CPC/2015, arts. 550, § 5º, e 1.015, II). No caso contrário, ou seja, se a decisão produz a extinção do processo, sem ou com resolução de mérito (arts. 485 e 487), aí sim haverá sentença, e o recurso cabível será a apelação. Precedentes.
+2. Havendo "dúvida objetiva acerca do cabimento do agravo de instrumento ou da apelação, consubstanciada em sólida divergência doutrinária e em reiterado dissídio jurisprudencial no âmbito do 2º grau de jurisdição, deve ser afastada a existência de erro grosseiro, a fim de que se aplique o princípio da fungibilidade recursal" (AgInt nos EDcl no REsp n. 1.831.900/PR, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/4/2020, DJe 24/4/2020).
+3. Agravo interno desprovido" (AgInt no AREsp n. 1.841.262/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 6/10/2021 )
+Em face do exposto, dou provimento ao recurso especial, determinando que o recurso de apelação seja regularmente processado como agravo de instrumento, em razão da aplicação do princípio da fungibilidade, nos termos do que acima decidido.
+Intimem-se.
+EMENTA
