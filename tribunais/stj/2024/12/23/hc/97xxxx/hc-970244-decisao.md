@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, ajuizado em favor de VITORIA DE SOUZA RANGERIO contra decisão monocrática proferida por Des. do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu a liminar no HC nº 2390131-74.2024.8.26.0000.
+Consta dos autos que a paciente foi definitivamente condenada à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, por incursa no artigo 33, caput, c. c. o artigo 40, inciso V, ambos da Lei n. 11.343/2006.
+Foi expedido o mandado de prisão sem a sua intimação prévia (fl. 24).
+Neste writ, a defesa alega que a sentenciada é a única responsável pelo seu filho menor de 12 anos, sendo imprescindível aos cuidados do infante.
+Assere que faz jus à prisão domiciliar, nos termos do art. 117, inciso III, da LEP.
+Requer, liminarmente e no mérito, a concessão da prisão domiciliar à sentenciada.
+É o relatório. DECIDO.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..  A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..  O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A controvérsia consiste em saber se mandado de prisão poderia ser recolhido na origem, embora a impetração seja em face de decisão de liminar indeferida pelo Tribunal.
+Assim, pelo que se afere da exordial, o habeas corpus investe contra denegação de liminar. Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento heroico em situação como a presente.
+A matéria, inclusive, encontra-se sumulada (Súmula n. 691, STF):
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+No presente caso, contudo, o TJ, ao expedir sumariamente o mandado de prisão para cumprimento da pena no regime inicial semiaberto, ao que tudo indica, desrespeitou a normativa vigente sobre o assunto.
+A jurisprudência deste Superior Tribunal de Justiça, ao interpretar o art. 674 do Código de Processo Penal e o art. 105, da Lei de Execução Penal, entende que, uma vez operado o trânsito em julgado, necessária é a prisão para a expedição da guia de execução. Tudo o que, porém, comporta temperamentos, à luz do art. 5º, inciso XXXV, da Constituição Federal.
+Isso porque, nas hipóteses em que verificado que o condenado tem direito a benefícios que impactam a situação da execução e a tornam mais branda, não se mostra razoável exigir o sacrifício da liberdade.
+Nessa linha, o CNJ, em 9/9/2022, aprovou a Resolução n. 474 (que alterou o art. 23 da anterior Resolução n. 417), prevendo a possibilidade de intimação da pessoa condenada, nos casos em que estabelecidos os regimes semiaberto ou aberto, previamente à expedição de mandado de prisão.
+Veja-se a flagrante ilegalidade na fundamentação da decisão ora questionada, que foi lastreada nos seguintes fundamentos (fl. 23):
+Ao que consta, a paciente foi definitivamente condenada à pena de 05 anos e 10 meses de reclusão, em regime inicial semiaberto, por incursa no artigo 33, caput, c. c. artigo 40, inciso V, ambos da Lei 11.343/2006 (fls. 53/54 da ação penal).
+Ora, as circunstâncias de fato e de direito trazidas à colação não evidenciam atendimento dos pressupostos cumulados típicos das cautelares.
+À medida que o juízo de cognição na presente fase revela-se extremamente restrito, a antecipação do mérito do habeas corpus exige que a ilegalidade do ato impugnado seja flagrante, de modo a justificar a imediata suspensão de seus efeitos, o que não se verifica no presente caso.
+Ademais, a questão do excesso de prazo há de ser enfrentada à luz da razoabilidade, segundo detalhada análise de circunstâncias típicas do caso concreto e, portanto, imprópria a esta esfera de cognição sumária.
+Como se não fosse o bastante, a medida liminar, in casu, confunde-se com o pedido final, tendo características próprias do provimento definitivo, possuindo caráter satisfativo.
+Indefiro, pois, a liminar, cabendo à Colenda Turma Julgadora a análise da questão em toda a sua extensão.
+Anoto que a jurisprudência desta Corte passou a adotar o posicionamento, no sentido de que, para os condenados ao regime aberto ou semiaberto, deverá ser expedida intimação para o cumprimento da pena, não havendo a necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada (AgRg no HC 796267/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/4/2023).
+Ademais, mesmo que haja a eventual prévia certificação de vagas, o entendimento não se altera:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO. REGIME SEMIABERTO. RESOLUÇÃO N. 417/2021. INOBSERVÂNCIA. AGRAVO REGIMENTAL PROVIDO.
+1. O Conselho Nacional de Justiça estabeleceu que, uma vez transitada em julgado a condenação em regime semiaberto ou aberto, o sentenciado será intimado para recolhimento espontâneo, previamente à expedição de mandado de prisão, sem prejuízo, em caso de falta de vagas, da observância das providências estabelecidas no RE 641.320/RS.
+2. Ao interpretar a Resolução n. 417/2021 do CNJ, o julgador precisa ter cuidado para não criar brechas que possibilitem resistência à execução. Em hipótese de apenado em local incerto, será necessária a determinação da prisão (conforme o art. 674 do CPP e o art. 105 da LEP) para evitar a prescrição e garantir a efetividade da sentença.
+3. A afirmação de vagas pelo Juiz da VEC não afasta a necessidade de intimação do condenado para dar início à execução, pois a lotação das unidades prisionais é dinâmica e não há registro de mudança de endereço, sem prévia comunicação ao juízo.
+4. Agravo regimental provido para determinar o recolhimento do mandado de prisão, não cumprido, para observância do art. 23, da Resolução n. 417/2021, sem prejuízo de: a) nova expedição da ordem na hipótese de inexistência de endereço atualizado nos autos para intimação e b) de manutenção do encarceramento se o condenado já estiver alojado em estabelecimento penal compatível com o regime semiaberto (AgRg no HC n. 890.182/ES, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024).
+Corroborando: as decisões monocráticas, ambas de minha relatoria, de 2/7/2024, no HC n. 924.908/SP, e de 7/8/2024, no HC n. 934.316/SP.
+Nesse contexto, embora não se possa conceder a prisão domiciliar à apenada em indevida supressão de instância, o juiz da execução, quando da sua intimação, poderá se manifestar no pedido ainda antes da prisão.
+Ante o exposto, não conheço do habeas corpus, pela indevida supressão de instância. Concedo a ordem, de ofício, para, ultrapassando a redação da Súmula n. 691, STF, determinar o recolhimento do mandado de prisão expedido e que o juiz da execução penal proceda à prévia intimação da apenada para dar início ao cumprimento da pena, nos termos da fundamentação supra.
+Intime-se a origem, com urgência, para o cumprimento.
+Publique-se. Intimem-se.
+ EMENTA
