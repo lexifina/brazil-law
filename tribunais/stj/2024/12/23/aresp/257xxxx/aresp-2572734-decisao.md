@@ -1,0 +1,31 @@
+DECISÃO
+ELEANDRO ROSO agrava da decisão que inadmitiu o recurso especial por eles interposto, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 5003309-50.2022.8.21.0021.
+A Corte de origem não admitiu o recurso especial em virtude da incidência da Súmula n. 83 do STJ e da ausência de prequestionamento.
+Nesta interposição, o agravante requer o provimento do especial.
+O Ministério Público Federal, em parecer de lavra do Subprocurador-geral da República Dr. Mario Ferreira Leite, opinou pelo desprovimento do agravo.
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No presente caso, a Corte local não admitiu o recurso em decisão assim motivada:
+ ..
+2. Prequestionamento
+Consoante a jurisprudência do Superior Tribunal de Justiça, "é condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento" (AgRg no AR Esp 553.958/MA, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 11/11/2014, Dje 27/11/2014). Aliás, ainda que "a pretensa violação de lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão. Se assim não se fez, está ausente o necessário prequestionamento" (AgRg no R Esp 1066014/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/04/2013, D Je 26/04/2013). Ademais, "se pacificou no âmbito desta c. Corte o entendimento segundo o qual o só fato de terem sido opostos embargos declaratórios não supre a falta de pronunciamento do e. Tribunal de origem sobre o tema. É preciso, portanto, que a quaestio seja efetivamente objeto de julgamento perante o órgão jurisdicional a quo. Se, a despeito da oposição dos embargos, a matéria não for ventilada, caberá então o apelo raro apontando violação, de forma efetiva e esclarecedora, ao art. 619 do Código de Processo Penal, sendo vedado, nesse último caso, alegar diretamente violação aos dispositivos legais atinentes ao mérito da discussão. Assim, observa-se que o e. Tribunal a quo não examinou a tese ora deduzida, de modo que esta Corte, portanto, fica impedida de apreciar tal questão no recurso nobre, por ausência de prequestionamento. In casu, forçoso reconhecer a incidência dos enunciados sumulares ns. 211/STJ e 282/STF" (AgRg no R Esp 1620802/PI, Rel. Min. Felix Fischer, Quinta Turma, Dje 25/05/2018; grifou-se).
+ ..
+3. Prazo sucessivo de rol de testemunhas
+Quinta Turma do Superior Tribunal de Justiça já afirmou que, "conforme o princípio do pas de nullité sans grief e nos termos do artigo 563 do Código de Processo Penal, "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"". (AgRg no AR Esp 1.610.227/RS, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 02/06/2020, DJe 15/06/2020).
+ ..
+O acórdão recorrido, pois, está alinhado aos aludidos julgados, ao afastar a alegação de nulidade posterior à pronúncia, tendo em vista a ausência de demonstração de efetivo prejuízo.
+ ..
+Incide, portanto, a Súmula 83 do Superior Tribunal de Justiça, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", também aplicável ao recurso interposto pela alínea a do artigo 105, inciso III, da Constituição da República
+ ..
+4. Número de testemunhas
+Conforme jurisprudência do Superior Tribunal de Justiça, "apesar de ser imputado ao Recorrente a prática de três delitos, verificou-se a ocorrência de apenas um contexto fático, não havendo justificativa para a pretendida extrapolação do número de testemunhas, razão pela qual a limitação impugnada está, em verdade, em conformidade com o disposto no mencionado art. 422 do Código de Processo Penal e não ofende a ampla defesa do Acusado" (RHC n. 101.708/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/6/2019, D Je de 2/8/2019.).
+No aspecto, Órgão Julgador assentou que "ocorridos os homicídios em um mesmo contexto fático, inexiste justificativa plausível para que, à Defesa do réu, fosse permitido ultrapassar o limite máximo de 05 testemunhas estabelecido no art. 422 do CPP" (Evento 36 - RELVOTO1). Incide, novamente, a Súmula 83 do Superior Tribunal de Justiça. 5. Argumento de autoridade Superior Tribunal de Justiça já decidiu que "o rol de vedações previsto no art. 478, I, do CPP é taxativo, não comportando interpretação ampliativa"  ..
+Incide, outra vez, o óbice da Súmula 83 do Superior Tribunal de Justiça.
+Ante o exposto, NÃO ADMITO o recurso especial.
+A defesa, contudo, não rebateu de forma específica os fundamentos da inadmissão do especial.
+Com e feito, depreende-se das razões recursais que o agravante não indicou em qual trecho do acórdão impugnado houve negativa de vigência do art. 30 do CP, limitando-se a afirmar que "o acórdão que julgou o apelo enfrentou, sim, a violação ao art. 30 do CP quando rechaçou a tese defensiva de que a qualificadora prevista no art. 121, §2º, inciso I (promessa de recompensa - FATO 1 da denúncia) não se aplica ao mandante".
+Saliento que são insuficientes, para rebater a incidência da Súmula n. 83 do STJ, assertivas genéricas de que a orientação do Tribunal se firmou em sentido contrário da decisão recorrida. O agravante deve assinalar, com particularidade, as decisões desta Corte que corroborariam as teses veiculadas do especial.
+Portanto, o agravante não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em r ecurso especial.
+Publique-se e intimem-se.
+EMENTA
