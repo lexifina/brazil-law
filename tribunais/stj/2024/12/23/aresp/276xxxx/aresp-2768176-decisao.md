@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SÃO PAULO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no qual alega violação dos arts. 926 e 927 do Código de Processo Civil - CPC/2015 e sustenta ter ocorrido julgamento contrário à tese firmada no REsp 947.206/RJ (tema 229).
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na Súmula 7 do STJ, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 310/316):
+As 63 CDAs (fls. 22/159) relativas a débitos de ICMS declarados e não pagos foram objeto da execução fiscal n.º 1510872-60.2020.8.26.0014, promovida pela Fazenda Pública do Estado de São Paulo contra a apelada, julgada extinta, sem resolução do mérito, com indeferimento da inicial, porque ultrapassado o número de títulos, com fundamento no artigo 113, § 1º, do CPC, anotado na ocasião que "impossível a regularização, com a limitação de CDA"s, porque após a distribuição todas as CDA"s permanecem vinculadas no sistema, mesmo que a FESP as excluir do processo, impossibilitando a emissão de carta de citação" (fl. 165). Da sentença de extinção, não houve interposição de recurso e o trânsito em julgado foi certificado em 21.1.2021 (fls. 168). Não foi ajuizada nova execução fiscal.
+ ..
+No caso, não obstante tenha sido ajuizada execução fiscal, a inicial foi indeferida e, portanto, não houve sequer determinação de citação da executada, o que leva à conclusão de que não houve causa interruptiva da prescrição. Acresça-se que o prazo prescricional, interrompido pela citação válida ou pelo despacho que a ordena, "somente reinicia o seu curso após o trânsito em julgado do processo extinto sem julgamento do mérito" (STJ, 1ª T., R Esp 1.165.458, Min. Luiz Fux, j. 15.6.10, DJ 29.6.10). Entretanto, como já mencionado, não houve sequer determinação de citação da executada na execução fiscal n.º 1510872-60.2020.8.26.0014, tampouco a apelante alegou ou comprovou haver ajuizado novo executivo após a extinção do anteriormente mencionado. Logo, não houve interrupção do prazo prescricional.
+ ..
+As 63 CDAs se referem a débitos relativos ao período de fevereiro de 2016 a março de 2017, e, portanto, não promovida execução fiscal até janeiro de 2023, inolvidável que os créditos foram fulminados pela prescrição.
+ ..
+Dessa forma, o crédito tributário perseguido pela apelante está prescrito porque não ajuizada a execução fiscal no prazo quinquenal previsto no artigo 174 do CTN, mostrando-se correta a procedência da ação anulatória com o reconhecimento da ocorrência da prescrição do crédito tributário consubstanciado nas CDAs de fls. 22/159, razão pela qual, fica mantida a sentença recorrida.
+Pois bem.
+A deficiência da peça recursal impede o conhecimento do recurso; de fato, as razões recursais não veiculam impugnação específica à fundamentação adotada pelo órgão julgador e, por isso, o conhecimento do recurso encontra óbice nas Súmula 283 do STF.
+De toda sorte, deixa-se anotado a completa falta de similitude fático-jurídica entre o acórdão proferido pela Primeira Seção no REsp 947206/RJ e o acórdão ora recorrido, ao tempo em que os artigos de lei tidos por violados não foram prequestionados.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial; e majoro em 1% a verba honorária de sucumbência arbitrada nas instâncias ordinárias, respeitados os limites e os critérios previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
