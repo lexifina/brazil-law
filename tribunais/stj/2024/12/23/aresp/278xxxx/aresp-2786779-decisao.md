@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto pela SUCESSÃO DE WASHINGTON LUIZ DE OLIVEIRA - FRANCIELE GIGARRA ROCHA, GABRIELA GIGARRA DE OLIVEIRA, GRAZIELE GIGARRA DE OLIVEIRA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 928):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PRESSUPOSTO DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. EXTINÇÃO SEM JULGAMENTO DE MÉRITO.
+1. Processo extinto sem resolução de mérito, diante da ausência da habilitação de herdeiros e sucessores.
+2. Falecida a parte autora e inexistindo habilitação de sucessores após tentativas de intimação pelos meios adequados, configura-se a ausência de pressuposto para desenvolvimento válido e regular do processo.
+3. Apelo desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 950/956) e não conhecidos os aclaratórios (e-STJ fls. 976/980).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 1.022, II, do CPC/2015, aduzindo, preliminarmente, a nulidade do julgado por negativa de prestação jurisdicional, ante o não suprimento de omissões apontadas em sede de embargos de declaração, no sentido de que, "ocorrendo o falecimento do autor, extingue-se automaticamente os efeitos do mandato de representação, impossibilitando a atuação do patrono, cabendo ao julgador a localização do espólio para habilitação nos autos, conforme determina o art. 313, inciso I e §§ 1º e 2º, inciso II do Código de Processo Civil.", bem como o art. 682, II, do CC/2002 (e-STJ fl. 994).
+No mérito, alegou contrariedade dos referidos dispositivos legais, ao argumento de que o CPC é claro ao determinar que, "para que seja possível a extinção sem resolução de mérito em razão do falecimento da parte autora, torna-se necessário que tenha ocorrido a previa intimação do espólio para que se manifeste no prosseguimento do pleito e promova a habilitação, o que não ocorreu no presente caso" (e-STJ fl. 999).
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal de origem se manifestou de maneira clara acerca do pleito de necessidade de intimação do procurador, não o conhecendo em razão da preclusão consumativa, a saber (e-STJ fls. 378/379):
+O presente recurso não deve ser conhecido.
+Da leitura da peça (evento 73, EMBDECL1), é possível concluir que a irresignação da autora é com o acórdão que confirmou a sentença (evento 49, ACOR2), não com aquele que rejeitou os embargos de declaração anteriores (evento 66, ACOR2).
+Note-se que o primeiro acórdão traçou um histórico da habilitação, inclusive mencionando a procuração de 2019 (evento 49, RELVOTO1, grifei):
+(..)
+Após constar nos autos notícia de falecimento da parte autora em 08/05/2018, foi proferido, em 07/12/2018, despacho determinando suspensão do andamento processual e intimação do procurador do de cujus para que, no prazo de 30 (trinta) dias, comprovasse o falecimento e promovesse a habilitação dos sucessores, juntando os documentos necessários para tanto (evento 211, DESPADEC1).
+Inicialmente, os procuradores Anildo Ivo da Silva e Alexandra LongoniPfeil vieram aos autos, em 28/02/2019, afirmar que "estamos diligenciando a juntada de documentos necessários para tal, dessa forma o mais breve possível ira promover a habilitação" (evento 217, PET1). A dilação foi deferida (evento 222, DESPADEC1).
+Em 15/04/2019, os procuradores afirmaram que " a sucessora legítima para ser habilitada no processo encontra-se no Estado do Paraná, retornando ao Estado do Rio Grande do Sul até o final deste mês." e requereram nova dilação (evento 225, PET1) e juntaram certidão de óbito ( evento 226, CERTOBT2). A dilação foi deferida (evento 227, ATOORD1).
+Já em 29/05/2019, os procuradores requereram nova prorrogação: " a sucessora após o falecimento do de cujus viajou retornando somente este mês ao estado. Desse modo o mais breve possível trará aos autos a documentação necessária, para cumprir a determinação, do ato ordinatório" (evento 232, PET1).
+Sem qualquer procuração, os advogados requereram a habilitação da senhora Vera Lucia Cigarra Cezar, em 01/07/2019 (evento 237, PET1). Cumpre destacar que esse sequer era o nome correto da requerente, que adotou o sobrenome do autor falecido em 06/10/1990 (evento 237, CERTCAS2).
+Portanto, transcorrido um ano e dois meses do óbito do autor, a única petição com documentos da viúva não foi acompanhada de procuração em evidente ofensa ao artigo 104 do Código de Processo Civil.
+(..)
+Assim sendo, configurada a ausência de pressuposto para o desenvolvimento válido e regular o processo, nos termos do art. 485, IV, e § 3º, c/c art. 313, §2º, II ambos do Código de Processo Civil, deve-se manter a sentença que extinguiu o feito sem resolução de mérito.
+Destaco que, de modo inexplicável, a procuração assinada por VERA LUCIA GIGARRA DE OLIVEIRA foi juntada aos autos somente em 11/11/2019 (evento 256, PROC3). Portanto, a rigor, os embargos de declaração opostos em 13/09/2019 sequer deveriam ter sido conhecidos antes da regularização (evento 244, EMBDECL1).
+É incontroverso que o processo permaneceu mais de seis meses sem andamento pela desídia na habilitação da sucessora, de modo que não há reparo a ser feito na sentença de extinção. A habilitação extemporânea não altera o fato de o prazo final concedido pelo juízo ter sido descumprido. Ademais, o local de residência da sucessora é indiferente no presente caso. Assim, tenho por preclusa a oportunidade de habilitação no presente feito. Friso que a extinção sem resolução do mérito autoriza eventual nova propositura da ação.
+(..)
+Portanto, se a embargante discordava dos termos postos, deveria ter se manifestado nos primeiros embargos de declaração. Embora acrescente fundamentos, o pedido atual é substancialmente idêntico ao recurso anterior. Ademais, os fundamentos acrescidos não podem ser conhecidos, em razão da preclusão consumativa, caracterizada pela oposição de anteriores embargos.
+Trata-se, portanto, dos segundos embargos de declaração, que são cabíveis, apenas, nos casos de vícios nascidos no acórdão que julgou os primeiros embargos. Nessa linha, os seguintes precedentes do Supremo Tribunal Federal e deste Regional (grifei):
+ ..
+Para evitar futuras alegações de nulidade, esclareço o seguinte quanto às demais teses recursais. No que tange à suposta morosidade do processo como causa da demora na habilitação, o voto condutor do primeiro acórdão esclarece a questão, conforme transcrição acima. No que tange à necessidade de intimação dos herdeiros, trata-se de irresignação quanto ao mérito, incompatível com os embargos de declaração e de inovação em relação ao recurso anterior. Por fim, quanto à alegação de prejuízos advindos da extinção do processo sem resolução do mérito, a matéria é estranha à lide ora posta.
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+No mérito, como bem salientou o aresto recorrido em sede de embargos de declaração, o tema atinente à cessação do mandato do patrono da causa para intimação dos herdeiros e consequente responsabilidade da instância a quo para fazê-lo (art. 682, II, do CC/2002) não foi oportunamente impugnado em sede dos primeiros embargos de declaração, operando-se a preclusão consumativa nesse particular.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OMISSÃO. INEXISTÊNCIA. APOSENTADORIA POR INVALIDEZ. TRABALHADOR URBANO. QUALIDADE DE SEGURADO E PERÍODO DE CARÊNCIA COMPROVADOS. LAUDO PERICIAL. INCAPACIDADE PERMANENTE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, acatando a perícia realizada, o que revela não haver o Tribunal de origem ou o Juízo de piso acolhido o pedido de suspeição formulado pelo INSS.
+2. Outrossim, reverbera a preclusão da suspeição suscitada pelo INSS, porquanto deveria ter sido aventada em momento oportuno, na jurisdição primígena.
+ ..
+4. Recurso Especial parcialmente conhecido, apenas no que diz respeito à alegação de ofensa ao art. 1.022 do CPC, e, nessa extensão, não provido.
+(REsp 1.807.432/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/10/2019, DJe de 18/10/2019.).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PARA ADEQUAÇÃO AOS TETOS INSTITUÍDOS PELAS EC"S 20/98 E 41/2003. ACÓRDÃO COM FUNDAMENTAÇÃO EXCLUSIVAMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE POR ESTA CORTE. PARCELAS EM ATRASO. PRESCRIÇÃO QUINQUENAL CONTADA DO AJUIZAMENTO DA AÇÃO INDIVIDUAL. MATÉRIA NÃO VENTILADA NO APELO NOBRE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DO INSS NÃO CONHECIDO.
+1. O argumento quanto ao reconhecimento da prescrição quinquenal das parcelas vencidas anteriormente ao ajuizamento da Ação Individual, não foi suscitado no momento oportuno, qual seja, no Recurso Especial, configurando indevida inovação recursal, o que é defeso em sede do presente Agravo Interno.
+2. Inviabilidade de exame diretamente por esta Corte, mesmo em se tratando de tema de ordem pública.
+3. Agravo Interno do INSS não conhecido.
+(AgInt no REsp 1.694.873/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/4/2018, DJe de 10/5/2018.).
+Ademais, com base no contexto fático probatório da lide, a instância a quo entendeu não ter havido a devida intimação dos herdeiros do segurado falecido.
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. VÍCIOS NO JULGAMENTO. PRESTAÇÃO JURISDICIONAL COMPLETA. FALECIMENTO DE CORRÉU. SUSPENSÃO DO PROCESSO. NÃO OCORRÊNCIA. NULIDADE RELATIVA. ART. 313, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREJUÍZO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+ ..
+2. A jurisprudência do STJ firmou o entendimento de que a eventual inobservância do disposto no art. 265, inciso I, do CPC/1973 (art. 313, inciso I, do CPC/2015), que determina a suspensão do processo em razão da morte de qualquer das partes, enseja apenas nulidade relativa, sendo válidos os atos praticados, desde que não haja prejuízo aos interessados.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 2.005.388/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 ).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
