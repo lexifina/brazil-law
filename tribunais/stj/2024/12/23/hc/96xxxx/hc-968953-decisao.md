@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRUNO APARECIDO DA SILVA contra acórdão assim ementado (fl. 14):
+APELAÇÃO CRIMINAL. ROUBO SIMPLES (ARTIGO 157, CAPUT, DO CÓDIGO PENAL). RECURSO DEFENSIVO BUSCANDO ABSOLVIÇÃO, AO ARGUMENTO DE PRECARIEDADE PROBATÓRIA. NÃO ACOLHIMENTO. MATERIALIDADE E AUTORIA DEMONSTRADAS. ESCLARECIMENTOS PRESTADOS PELA VÍTIMA E TESTEMUNHAS CORROBORADOS PELOS DEMAIS ELEMENTOS PROBATÓRIOS PRODUZIDOS NOS AUTOS. DESCLASSIFICAÇÃO PARA OS DELITOS DE FURTO OU APROPRIAÇÃO INDÉBITA. IMPOSSIBILIDADE. SUBTRAÇÃO PRATICADA COM EMPREGO DE GRAVE AMEAÇA AO OFENDIDO, PELA SIMULAÇÃO DO EMPREGO DE ARMA DE FOGO. ELEMENTARES DO ROUBO BEM DELINEADAS. CONDENAÇÃO PRESERVADA.
+DOSIMETRIA. PENA-BASE DEFINITIVAMENTE FIXADA NO MÍNIMO LEGAL, À MÍNGUA DE OUTRAS CAUSAS MODIFICADORAS. REGIME SEMIABERTO PARA INÍCIO DE CUMPRIMENTO DA PENA CORPORAL ADEQUADO E QUE NÃO COMPORTA ABRANDAMENTO, SOBRETUDO PELA GRAVIDADE CONCRETA DA CONDUTA PRATICADA.
+RECURSO DESPROVIDO.
+O paciente foi condenado à pena de 4 anos de reclusão, em regime inicial semiaberto, além do pagamento de 10 dias-multa, pela prática de infração ao art. 157, caput, do Código Penal.
+A defesa alega, em síntese, a necessidade de fixação de regime prisional aberto, porquanto a pena foi fixada no mínimo legal, o paciente é primário e tem bons antecedentes.
+Ao final, requer a concessão da ordem para seja fixado o regime aberto ao paciente.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Acerca da controvérsia, a sentença condenatória restou assim fundamentada (fls. 35-36):
+Malgrado a quantidade de pena hipoteticamente autorizasse o início do cumprimento em regime aberto, é preciso deixar claro a gravidade do crime, que merece receber uma resposta enérgica do Judiciário, já que a periculosidade demonstrada pelo réu na ameaça praticada contra a vítima justifica o regime mais rigoroso, único que atende ao princípio da suficiência na repressão e prevenção desta espécie de criminalidade.
+ ..
+Assim, o regime inicial será o semiaberto.
+Na mesma toada, o Tribunal local justificou a manutenção do regime prisional semiaberto nos seguintes termos (fls. 22-23):
+Regime Prisional. Nos termos dos §§ 2º e 3º, do artigo 33 do Código Penal, pelas circunstâncias do crime aqui tratado e gravidade concreta da conduta, praticada com grave ameaça à pessoa já minuciosamente analisadas na r. sentença, revelou-se adequado e proporcional o REGIME SEMIABERTO para início do cumprimento da pena corporal, medida necessária e suficiente para a prevenção e reprovação pelo crime praticado. Verifica-se dos autos que a conduta criminosa foi extremamente articulada e premeditada, uma vez que o acusado atraiu o ofendido ao local dos fatos simulando transação comercial de compra e venda de celular, certificou-se que o ofendido estaria na posse da quantia em espécie para pagamento do aparelho, anunciou o assalto, exigiu a entrega do numerário, o que fez mediante ameaça, simulando que portava arma de fogo.
+Pelos trechos acima transcritos, verifica-se que as instâncias ordinárias apresentaram como fundamentação para a fixação do regime semiaberto unicamente a gravidade abstrata do crime de roubo e os elementos inerentes ao tipo penal.
+Contudo, entendo que tal fundamentação é insuficiente, o paciente é primário e não foi negativada nenhuma das circunstâncias do art. 59 do Código Penal, na primeira fase da dosimetria, devendo ser aplicado o regime aberto, nos termos do art. 33, § 2º, "c", do Código Penal.
+A propósito:
+HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO. IMPOSSIBILIDADE. REGIME INICIAL FECHADO. DESPROPORCIONALIDADE. HABEAS CORPUS DENEGADO E ORDEM CONCEDIDA DE OFÍCIO, PARA FIXAR O REGIME INICIAL ABERTO.
+1. A Terceira Seção desta Corte, no julgamento dos EREsp n. 221.999/RS, estabeleceu a tese de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, o aplicador do direito verificar que a medida é socialmente recomendável.
+2. O paciente, reincidente em crime contra o patrimônio, estava em livramento condicional e respondia a outro processo por furto, quando subtraiu uma peça de carne de supermercado. Sua inclinação para a prática de atos da mesma tipologia impede o reconhecimento da atipicidade material da conduta, sob pena de fomentar a habitualidade criminosa.
+3. Entretanto, de ofício, é possível abrandar o modo de cumprimento da pena com lastro em entendimento do Tribunal Pleno do Supremo Tribunal Federal, firmado no julgamento do HC n. 123.108/MG, de relatoria do Ministro Roberto Barroso. Deveras, apesar de ser socialmente indesejável a aplicação do princípio da insignificância ao furto simples de coisa de diminuto valor, ante a contumácia do agente, a sanção privativa de liberdade deverá ser resgatada em regime inicial aberto, de modo a paralisar a incidência do art. 33, § 2º, "c", do CP, em observância ao princípio da proporcionalidade.
+4. Habeas corpus denegado. Ordem concedida de ofício para, ratificada a liminar, estabelecer o regime inicial aberto. (HC n. 474.745/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/8/2019)
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO. DOSIMETRIA. PENA-BASE. USO DE SIMULACRO DE ARMA DE FOGO. FUNDAMENTAÇÃO INIDÔNEA. DECOTE DA VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. REGIME PRISIONAL. PRIMARIEDADE. FIXAÇÃO DO REGIME ABERTO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. I. CASO EM EXAME
+ ..
+6. Em relação ao regime prisional, a exclusão da valoração negativa da circunstância judicial afasta o único fundamento que justificava a imposição de regime mais gravoso. Considerando a primariedade do paciente, o regime inicial deve ser o aberto, conforme disposto no art. 33, § 2º, c, do Código Penal.
+IV. Habeas corpus não conhecido. Ordem concedida de ofício para determinar que a pena imposta ao paciente seja cumprida no regime inicial aberto, nos termos do art. 33, § 2º, c, do Código Penal.
+(HC n. 844.237/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para determinar que a pena imposta ao paciente seja cumprida no regime inicial aberto, nos termos do art. 33, § 2º, "c", do Código Penal.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal e ao Juízo de origem.
+Ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
