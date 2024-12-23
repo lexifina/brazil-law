@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEXANDRE GONÇALVES SILVA com fundamento na alínea "a" do permissivo constitucional contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 585):
+TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO trf2FISCAL. PRESCRIÇÃO. PROCESSO ADMINISTRATIVO. SUSPENÇÃO.
+I - Rege o art. 174, do CTN, que a ação para a cobrança do crédito tributário prescreve em 5 (cinco) anos, contados da data da sua constituição definitiva. Em havendo impugnação administrativa ao lançamento, entre a data daquela e a data da intimação da decisão final do processo administrativo fiscal ocorre a suspensão da exigibilidade do crédito tributário, prevista no art. 151, III, do CTN, o que impede o curso do prazo prescricional quinquenal.
+II - Agravo Interno provido. Sentença anulada. Prosseguimento da execução.
+Os embargos de declaração foram rejeitados (e-STJ fls. 615/619).
+O recorrente aponta violação dos arts.: 267, VI e § 3º, e 535 do CPC/1973; 135, III, 142, 173, I, 174 e 204 do CTN; e 3º da Lei n. 6.830/1980.
+Alega, em resumo, a nulidade do acórdão recorrido por negativa de prestação jurisdicional, pois, mesmo provocada, a Corte de origem não se manifestou sobre as seguintes alegações: (i) o procedimento administrativo foi instaurado apenas pela empresa executada, em que o lançamento não foi vinculado ao recorrente, motivo por que deveria ser reconhecida a inexistência de lançamento a impedir a cobrança do débito em relação ao particular; (ii) a configuração da decadência do direito de cobrar e da prescrição do direito fazendário de ajuizar a execução fiscal contra o recorrente; (iii) a possibilidade de posterior reconhecimento da ilegitimidade passiva do recorrente; (iv) inviabilidade de se presumir a higidez da CDA.
+Sustenta, no mérito, que a questão referente à sua ilegitimidade para compor o polo passivo da execução fiscal constitui matéria de ordem pública, que deveria ter sido examinada pelo TRF, ante o disposto no art. 267, § 3º, do CPC/1973.
+Defende que não há obstáculo ao exame, pela Corte de origem, das temáticas referentes à decadência, prescrição e ilegitimidade passiva, ante o efeito devolutivo da apelação e por serem matérias de ordem pública.
+Aduz, no tocante à decadência, que o processo administrativo foi instaurado apenas em relação à empresa executada, motivo por que o recorrente "não foi vinculado ao lançamento dos créditos tributários executados" (e-STJ fl. 645), não se verificando a constituição válida do crédito tributário em relação a ele.
+Em relação à prescrição, assevera que "não há como se olvidar que o fato de não haver constituição válida do crédito tributário em relação ao Recorrente, no mínimo, irá impedir que os marcos interruptivos da prescrição em relação ao contribuinte relacionado no lançamento (VOTEC TÁXI AÉREO S/A) afetem o mesmo" (e-STJ fl. 649).
+Diz que foi desconsiderado, no acórdão recorrido, o fato de o nome do recorrente ter sido incluído da CDA em razão do art. 13 da Lei n. 8.620/1993, que foi julgado inconstitucional pelo STF, sendo necessária a demonstração das hipóteses do art. 135, III, do CTN para que se pudesse responsabilizar os sócios pelos débitos da executada.
+Contrarrazões às e-STJ fls. 692/699.
+Inadmitido o recurso especial, houve interposição de agravo às e-STJ fls. 714/730 e, alçados os autos ao STJ, esses foram a mim distribuídos, oportunidade em que determinei o retorno do feito ao Tribunal de origem para que fosse observada a tese jurídica fixada no Tema 962 do STJ (e-STJ fls. 753/754).
+A Corte regional, então, por meio do acórdão de e-STJ fls. 1.013/1.015, não exerceu o juízo de retratação, consoante entendimento resumido na respectiva ementa (e-STJ fl. 1.015):
+DIREITO TRIBUTÁRIO. APELAÇÃO. REDIRECIONAMENTE. CORRESPONSÁVEIS. ILEGITIMIDADE PASSIVA. JUIZO DE RETRATAÇÃO.
+1 - Conforme pode ser verificado, o acórdão, objeto do recurso especial, não possui qualquer relação com o Tema 962, pois a execução fiscal foi extinta por sentença pela declaração de prescrição, a qual foi afastada em sede de apelação.
+2 - O recorrente (recurso especial), ora apelado, não foi incluído no executivo fiscal através de redirecionamento, os nomes dos corresponsáveis constavam na CDA original.
+3 - Inclusive tal questão restou expressa no acórdão em sede de agravo de instrumento (processo nº 0003210-40.2003.4.02.5116/RJ)
+4 - Juízo de retratação não exercido.
+Decisão de admissão às e-STJ fls. 1.110.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Trata-se de execução fiscal, ajuizada pelo INSS, que foi extinta no primeiro grau de jurisdição, ante o reconhecimento de prescrição ordinária, nos termos do art. 174 do CTN (e-STJ fls. 389/391).
+A Corte regional, examinando o agravo interno manejado pelo INSS contra decisão que negou seguimento à apelação e à remessa necessária, deu-lhe provimento para afastar a prescrição, adotando os seguintes fundamentos (e-STJ fls. 581/582):
+De fato, com razão a União. Pelo que consta da CD Aque acompanha a inicial, os débitos seriam do período de 01/87a 06/87, e sua inscrição se deu em 01/02/95 (fls.03).
+A execução fiscal foi ajuizada em 30/09/1996,e o despacho ordenando a citação em 08/10/96. A citação da empresa executada se deu em 14/04/97 (fls.15. v.).
+A princípio, observando estritamente o comando inserto no caput do artigo 174 do CTN, a hipótese seria de prescrição da pretensão executória do crédito tributário.
+Todavia, o artigo 151, III, também do CTN, estabelece que as reclamações e os recursos, nos termos das leis reguladoras do processo tributário administrativo, suspendem o crédito tributário.
+Na espécie, após a manifestação dos executados informando que entre a constituição do crédito e o ajuizamento da execução teria ultrapassado mais de 5 anos, o Juízo a quo extinguiu o processo com julgamento do mérito pela ocorrência de prescrição.
+Ocorre que não foi dada ao INSS a oportunidade de informar se houve alguma causa suspensiva da exigibilidade do crédito, o que de fato aconteceu com a instauração do processo administrativo em 15 de setembro de 1988 (fls.331), e sucessivas defesas da executada até 21/06/1994 (fls.411), datada decisão administrativa final.
+De modo que, como não transcorreu o prazo de cinco anos entre a notificação do último recurso administrativo e a citação da presente execução fiscal como demonstrado acima, não há que se falarem prescrição do crédito tributário.
+As demais questões, inclusive as apresentadas pelos sócios corresponsáveis, serão apreciadas pelo Juízo a quo, sob pela de supressão de instância.
+Pelo exposto, DOU PROVIMENTO ao agravo interno da União Federal/Fazenda Nacional para, reformando a Decisão de fls.453/460, dar provimento à remessa necessária e ao recurso de apelação, e anular a sentença a quo, determinando o prosseguimento da execução.
+Pois bem.
+Impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, ao registrar que "as demais questões, inclusive as apresentadas pelos sócios corresponsáveis, serão apreciadas pelo Juízo a quo, sob pela de supressão de instância" (e-STJ fl. 582), não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650/RJ, Relator Ministro Humberto Martins, Segunda Turma, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 20/6/2014.
+Em relação às demais questões levantadas, tem-se que a Corte de origem, ao afastar a prescrição tributária reconhecida pelo juiz de piso, determinou o retorno do feito ao primeiro grau de jurisdição para que se prosseguisse no exame das alegações das partes, que não foram objeto de exame anterior em razão da decretação da prescrição, sob pena de supressão de instância.
+Esse entendimento coaduna-se com a orientação jurisprudencial do STJ, consoante se extrai dos seguintes julgados:
+PROCESSUAL CIVIL - FGTS - ACÓRDÃO QUE AFASTOU A PRESCRIÇÃO QUINQUENAL  - JULGAMENTO DO MÉRITO DA CAUSA  - IMPOSSIBILIDADE  - INTERPRETAÇÃO DO ART. 515, §§ 1º E 2º DO CPC  - PRECEDENTES.
+- Se o Tribunal reformou a sentença que acolhera a prescrição quinquenal, impõe-se a devolução dos autos ao juízo de primeiro grau, para que nova sentença seja proferida, apreciando o mérito da lide.
+- O exame do mérito pelo Tribunal "a quo", na hipótese, configuraria violação do art. 515, §§ 1º e 2º do CPC, por isso que importaria em supressão de instância.
+- Divergência jurisprudencial não comprovada.
+- Incidência da Súmula 83/STJ.
+- Recurso não conhecido.
+(REsp n. 172.425/DF, relator Ministro Francisco Peçanha Martins, Segunda Turma, julgado em 21/9/2000, DJ de 30/10/2000, p. 139.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. SERVIDOR DE CARGO EFETIVO. PRESCRIÇÃO. LEI DE IMPROBIDADE ADMINISTRATIVA E REGIME ÚNICO DOS SERVIDORES. SINDICÂNCIA. INTERRUPÇÃO DA CONTAGEM DO PRAZO. CONTAGEM PELO PADRÃO DA LEI PENAL. IMPOSSIBILIDADE PELA AUSÊNCIA DE PERSECUÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO QUE AFASTA A PRESCRIÇÃO E EVOLUI NO MÉRITO. INOCORRÊNCIA.
+1. Na hipótese de ação de improbidade administrativa promovida contra servidor efetivo, aplica-se à contagem do prazo prescricional o inciso II do art. 23 da Lei 8.429/92, em face do que se impõe a observância do art. 142 da Lei 8.112/1990.
+2. Na instauração de sindicância, interrompe-se a contagem do prazo de prescrição pelo período do processamento do procedimento disciplinar, desde que não exceda a 140 dias, ao termo do qual volta a correr pela íntegra, conforme interpretação do STF sobre os arts.
+152, caput, e 169, § 2º, da Lei 8.112/1990 (MS 22.728 - STF) 2. Quando o ato ímprobo configura (também) crime, a aplicação do prazo prescricional pela norma penal (art. 142 - Lei 8.112/1990) somente é cabível na existência da respectiva ação penal.
+Precedentes do STJ.
+4. Não configura julgamento extra petita nem supressão de instância a posição do acórdão que, ao reformar a sentença que extinguira a ação pelo implemento do prazo prescricional, evolui no mérito e julga a causa, ainda que para impor condenação, se a hipótese era de matéria unicamente de direito, estando a instrução ultimada.
+5. Recurso especial desprovido.
+(REsp n. 1.407.249/PB, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Turma, julgado em 17/12/2015, DJe de 5/2/2016.)
+Cabe esclarecer, por oportuno, que a única temática enfrentada pelo juízo de primeiro grau e alçada ao Tribunal de origem refere-se à prescrição da pretensão executiva da Fazenda Nacional em relação à empresa executada, sendo certo que o debate acerca da legitimidade passiva agitado pelo ora recorrente, poderá demandar a abertura da fase de instrução, pois busca afastar a aplicação do art. 13 da Lei n. 8.620/1993, cuja consequência seria passar ao exame das hipóteses do art. 135, III, do CTN para fins de responsabilização tributária do sócio.
+Não é demais registrar, ainda, que a questão da ocorrência da decadência e da prescrição exclusivamente em relação ao recorrente somente poderá ser analisada no caso de reconhecimento de sua legitimidade passiva, o que deverá ser feito no primeiro grau de jurisdição, como bem decidiu a Corte de origem, em linha com o entendimento desta Corte Superior.
+Incide, assim, a Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos com base na alínea "c" quanto com base na alínea "a" do permissivo constitucional.
+Por fim, em decorrência do provimento do recurso fazendário para afastar a prescrição ordinária prevista no art. 174 do CTN, observa-se que o Tribunal de origem devolveu o exame das questões apresentadas pelos sócios corresponsáveis ao primeiro grau de jurisdição, não tendo emitido, assim, juízo de valor sobre os arts. 135, III, 142, 173, I, 174 e 204 do CTN e 3º da Lei n. 6.830/1980, carecendo, portanto, do devido prequestionamento a atrai a aplicação da Súmula 282 do STF.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
+EMENTA
