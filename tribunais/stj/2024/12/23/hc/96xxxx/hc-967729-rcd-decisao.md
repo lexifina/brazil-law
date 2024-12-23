@@ -1,0 +1,15 @@
+DECISÃO
+PAULO DONIZETI SIQUEIRA DE SOUZA busca a reconsideração da decisão de fls. 64-66, em que não conheci do habeas corpus.
+A defesa afirma que os fundamentos que ensejaram a redução das penas-base dos corréus no AREsp n. 2.273.165/PE são idênticos aos que embasam o presente habeas corpus, de modo que deve ser concedida a ordem, de ofício, para aplicar a fração de 1/6 sobre a pena mínima.
+Decido.
+Na hipótese, observo que está configurada a hipótese disciplinada pelo art. 580 do CPP, pois o requerente está em idêntica situação fática e processual à dos corréus.
+O paciente foi condenado, em primeira instância, pelo delitos previstos nos arts. 180 do Código Penal e 16 da Lei n. 10.826/2003. As penas-base foram fixadas em 2 anos e 5 anos, respectivamente, pela análise negativa da culpabilidade e da conduta social.
+Cumpre destacar que, "Segundo a jurisprudência deste Tribunal Superior, a exasperação da pena basilar, pela existência de circunstâncias judiciais desfavoráveis, deve seguir o parâmetro de 1/6 (um sexto) para cada vetorial valorada negativamente, fração esta que se firmou em observância aos princípios da razoabilidade e proporcionalidade, salvo a apresentação de elementos concretos, suficientes e idôneos que justifiquem a necessidade de elevação em patamar superior" (AgRg no AREsp n. 1.895.576/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/9/2022, DJe de 3/10/2022).
+No caso, aos corréus foi aplicada a fração de 1/6 sobre a pena mínima para cada vetorial negativada. Assim, verifico a possibilidade de estender ao requerente os efeitos da decisão, pois, também em relação a ele entendo que deve ser aplicado o mesmo critério para exasperar a sanção básica.
+Passo a readequação da reprimenda.
+Em razão da avaliação desfavorável das vetoriais culpabilidade e conduta social, as penas-base dos crimes de receptação e porte ilegal de arma de fogo de uso restrito serão reduzidas, respectivamente, a 1 ano e 4 meses de reclusão e 13 dias-multa (acréscimo de 1/6 da pena mínima, por cada vetorial negativada) e a 4 anos de reclusão e 13 dias-multa (acréscimo de 1/6 da pena mínima, por cada vetorial negativada).
+Na segunda fase, mantenho o incremento de 1 ano em virtude da reincidência. Na terceira etapa, não há nenhuma causa de aumento ou diminuição, por isso fica a reprimenda do réu definitivamente estabelecida em 6 anos e 4 meses de reclusão e 30 dias-multa.
+Permanece o regime fechado, porquanto a reincidência e o registro de circunstância judicial desfavorável do art. 59 do CP justificam, em consonância com o art. 33, §§ 2º e 3º, do CP, a fixação do regime mais gravoso.
+À vista do exposto, reconsidero a decisão de fls. 64-66 e, nos termos do art. 580 do Código de Processo Penal, concedo a ordem para estender os efeitos da decisão concedida aos corréus Alisson Breno Pereira de Lima e Paulo Cesar Diogenes Targino Junior, a fim de aplicar o acréscimo de 1/6 da pena mínima por cada vetorial negativada e redimensionar a reprimenda para 6 anos e 4 meses de reclusão, em regime fechado, e 30 dias-multa.
+Publique-se e intimem-se.
+EMENTA
