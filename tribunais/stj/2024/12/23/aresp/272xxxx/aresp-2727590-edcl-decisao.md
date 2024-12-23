@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por RIO DE JANEIRO CARTORIO 16 OFICIO DE NOTAS, à decisão de fls. 244/245 que não conheceu do recurso.
+Sustenta a parte embargante:
+Conforme já dito, a r. decisão recorrida vem em total contrariedade aos julgados pelas diversas Turmas julgadoras desse E. Tribunal Superior, que orientam, por jurisprudências pacíficas, de que a intimação para sanar vício de representação deve ser feita em nome da parte, pessoalmente, e não em nome do advogado, conforme provido pela Secretaria desse R. Tribunal Superior (fl. 250).
+ ..
+Conforme se demonstra das peças instadas aos aludidos autos em questão, a intimação se deu pelo órgão de imprensa oficial, o que torna o aludido despacho imprestável para o fim de considerar preclusa a regularização processual por ausência de manifestação da parte (fl. 253).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ao contrário do alegado pela parte embargante, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação.
+Na referida edição foram apresentadas todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este recurso. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício.
+Nos termos do art. 103 do CPC, "a parte será representada em juízo por advogado regularmente inscrito na Ordem dos Advogados do Brasil". Portanto, havendo advogados constituídos pela parte, a intimação para cumprimento de diligências, será a eles direcionada.
+Registre-se que a intimação pessoal da parte, argüida pelo embargante, só é aplicada na instância ordinária, conforme entendimento jurisprudencial desta Corte Superior:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXTINÇÃO DO PROCESSO PRINCIPAL, SEM RESOLUÇÃO DO MÉRITO, POR IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL DA PARTE AUTORA, QUANDO JÁ EXISTE PROCURAÇÃO, NO PROCESSO CAUTELAR. IRREGULARIDADE SANÁVEL, NAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE INTIMAÇÃO PESSOAL DA AUTORA, PARA SANAR TAL VÍCIO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I.  .. .  .. . III. A jurisprudência desta Corte é firme no sentido de que, uma vez constatada a deficiência na representação processual, pelas instâncias ordinárias, é necessária a intimação pessoal da parte, a fim de que supra tal vício, não sendo suficiente a intimação do advogado pelo órgão de imprensa oficial, como ocorreu, no presente caso. Precedentes:  .. .
+IV. Agravo interno improvido. (AgInt no AgInt no AgRg no REsp 1307384/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.12.2019).
+Ainda: AgInt no REsp 1605687/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 7.12.2016; e , AgInt no REsp 1632805/RS, Rel. Ministro Benedito Gonçalves, Primeira urma, DJe 13.10.2017.
+Ressalte-se que só seria necessária a intimação pessoal da parte nas hipóteses previstas no art. 485, incisos II e III, do Código de Processo Civil (correspondente ao art. 267, II e III do CPC/73), não sendo este o caso dos autos (AgInt no AREsp 906.668/SP, Rel. Ministro Marco Aurélio Bellizze, Dje de 22.8.2016; e, AgInt no AREsp 1234365/SP, Rel. Ministro Marco Buzzi, Quarta Turma, Dje de 25.10.2018).
+No mais, a procuração juntada agora, sede destes aclaratórios, não pode ser aceita, em razão da preclusão (AgInt no AREsp 1520555/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30.6.2020; AgInt no REsp 1788526/TO, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; e AgInt no REsp 1830797/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 18.3.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
