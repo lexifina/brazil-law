@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se  de  tutela  cautelar  antecedente  apresentada  por  Airiston  Rosa  da  Silva na  qual  pede  "a  tutela  provisória  incidental,  com  efeito  ativo,  para  suspender  imediatamente  os  efeitos  da  decisão  que  determinou  a  imissão  na  posse,  garantindo  que:  o  agravante,  sua  companheira,  seus  filhos  menores  e  seus  pais  idosos  permaneçam  na  posse  do  imóvel  até  o  julgamento  final  do  presente  recurso;  que  seja  determinada  a  suspensão  de  quaisquer  atos  executórios  ou  medidas  coercitivas  até  o  trânsito  em  julgado  da  decisão"  ou,  ainda,  ao  menos  a  suspensão  temporária  da  imissão  na  posse  do  imóvel,  "até  que  sejam  produzidas  provas  suficientes  sobre  a  situação  de  vulnerabilidade  familiar"  (fl.  6).
+Assim  posto  o  pedido,  verifico  que  o  requerente  se  insurge  contra  decisão  de  imissão  na  posse  proferida  nos  autos  do  processo  nº  1002924-12.2014.8.26.0281,  em  trâmite  perante  a  2ª  Vara  Cível  do  Foro  de  Itatiba,  Comarca  de  São  Paulo,  em  face  de  DANIEL  JOSÉ  DE  SÁ  e  JOFEGE  FIAÇÃO  E  TECELAGEM  LTDA.
+Não  há  nos  autos,  contudo,  notícia  alguma  sobre  acórdão  objeto  de  recurso  especial  que  inaugure  a  competência  desta  Corte  e  autorize  a  concessão  da  liminar  requerida.
+Em  face  do  exposto,  indefiro  a  petição  inicial  e  julgo  extinto  o  processo,  nos  termos  do  art.  34,  XVIII,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+Intimem-se.
+EMENTA
