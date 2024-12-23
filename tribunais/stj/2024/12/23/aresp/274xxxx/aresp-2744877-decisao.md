@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ BASTOS DE OLIVEIRA JUNIOR contra a decisão do Tribunal de Justiça do Estado do Rio de Janeiro que não ad mitiu o recurso especial.
+O agravante foi condenado como incurso nas sanções do art. 2º, § 2º, c/c o § 4º, inciso II, da Lei n. 12.850/2013, à pena de 7 (sete) anos de reclusão, em regime inicial fechado, e pagamento de 35 (trinta e cinco) dias-multa (fls. 2.462-2.471).
+O Tribunal negou provimento, por unanimidade, à apelação em que a defesa requeria a absolvição por ausência de provas, a redução da pena e o abrandamento do regime prisional (fls. 2.619-2.644).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao 59 do Código Penal (fls. 2.683-2.688).
+O recurso foi inadmitido devido à incidência da Súmula n. 83, STJ (fls. 2.707-2.713).
+Neste agravo, a defesa sustenta que foram cumpridos os requisitos necessários para viabilizar a análise do mérito do recurso especial (fls. 2.727-2.731).
+O Ministério Público do Estado do Rio de Janeiro apresentou contrarrazões pelo desprovimento do agravo (fls. 2.735-2.736).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (fls. 2.762-2.765).
+É o relatório. DECIDO.
+O direito processual é regido pelo princípio da dialeticidade, segundo o qual os recursos devem impugnar concreta e especificamente os fundamentos suficientes para manter a íntegra da decisão recorrida, demonstrando, ponto a ponto, os motivos do eventual desacerto do julgado contestado.
+Na espécie, entretanto, verifico que o agravante não enfrentou adequadamente os fundamentos que ensejaram a incidência dos óbices apontados pelo Tribunal de origem para inadmitir o apelo nobre.
+Com efeito, relativamente à aplicação da Súmula n. 83, STJ, a defesa se limitou a alegar a inexistência de entendimento em desconformidade com a jurisprudência dominante desta Corte Superior (fl. 2.729).
+No entanto, para afastar a Súmula n. 83, STJ, incumbe à parte demonstrar, de modo preciso, que os precedentes citados na decisão recorrida não se aplicam à situação dos autos, ou, ainda, indicar precedentes contemporâneos ou supervenientes que demonstrem o desacerto da inadmissão do recurso interposto, o que não ocorreu.
+A propósito:
+"para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula" (AgInt no AREsp n. 2.224.460/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023)" (AgRg no AREsp n. 2.223.178/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/6/2023).
+Nesse sentido: AgRg no AREsp n. 2.346.991/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/8/2023; AgRg no AREsp n. 2.223.178/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/6/2023; AgRg no AREsp n. 2.231.715/PB, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 14/4/2023; AgRg no AREsp n. 1.995.672/PA, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 7/4/2022.
+No caso, ao não impugnar os fundamentos utilizados pelo Tribunal de origem, o agravante não observou o princípio da dialeticidade ao manter inatacadas as causas de impedimento da ascensão do recurso especial, de modo que o presente recurso não comporta conhecimento.
+Consoante orientação jurisprudencial já consolidada, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão recorrida inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Nesse sentido: AgRg na RvCr 5.740/RS, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 3/4/2023; EDcl no AgRg na RvCr 4.570/DF, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 14/5/2019.
+Houve, portanto, manifesta ofensa ao princípio da dialeticidade, por ausência de demonstração do desacerto do juízo de admissibilidade efetuado pela Corte de origem, o que reclama a aplicação, por analogia, da Súmula n. 182, STJ: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Diante do exposto, não conheço do agravo, nos termos do art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE DE MUNIÇÃO DE USO PERMITIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ. AGRAVO NÃO CONHECIDO.
