@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por DABOL INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA. da decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu o recurso especial dirigido contra o acórdão assim ementado (fl. 346):
+TRIBUT ÁRIO. PIS E COFINS. REGIME NÃO CUMULATIVO. APURAÇÃO DE CRÉDITO DE CONTRIBUIÇÃO. CONCEITO DE INSUMOS.
+- Deve-se entender como insumos, para fins de creditamento e dedução dos valores da base de cálculo da contribuição para o PIS e COFINS (arts. 3º , II, da Lei nº 10.637/2002, e 3º , II, da Lei nº 10.833/2003, respectivamente) apenas os elementos com aplicação direta na confecção do produto ou na prestação do serviço, portanto específicos e vinculados à atividade fim do contribuinte.
+- A IN SRF nº 247/02 (PIS) e a IN SRF nº 404/04 (COFINS) estão em sintonia com as Leis nº s. 10.637/2002 e 10.833/2003.
+Nas razões do Recurso Especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 535 do CPC/73; 3º, 11 e 12 das Leis n. 10.637/2002 e 10.833/2003, sustentando omissão não suprida em sede de Embargos de Declaração, bem como que deve ser reconhecido o direito ao "creditamento de todas as despesas, custos e encargos que integram a obtenção de receita bruta, qual sejam, todos os atos que geram acréscimo no patrimônio líquido da empresa, o que não pode ser restringido por atos infralegais", declarando-se ainda o direito de efetivação do creditamento devidamente atualizado pela SELIC.
+Às fls. 455-459 os autos foram devolvidos à origem "para que, após a publicação do acórdão representativo da controvérsia, o recurso especial tenha seguimento negado, caso o acórdão recorrido esteja em conformidade com a orientação firmada pelo STJ, ou para que ele seja provido, conforme o caso, quando o acórdão recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 543-C, §§ 7º e 8º, do CPC.".
+Realizado juízo de retratação às fls. 503-506, inadmitindo o recurso especial por incidência da súmula n. 7 do STJ.
+Decisão de fls. 565-567 determinou novo retorno dos autos "para que seja realizado o reexame do recurso anteriormente julgado, nos termos do art. 1.040, II, do CPC/2015."
+Em juízo de retratação às fls. 586 - 590, o acórdão anterior fora corrigindo:
+TRIBUTÁRIO. JUÍZO DE RETRATAÇÃO. CONTRIBUIÇÃO PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS). CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). CREDITAMENTO. INSUMOS. TEMA 779 DO STJ.
+1. O conceito de insumo, para fins de creditamento no regime não cumulativo do PIS e da COFINS, deve ser aferido à luz dos critérios de essencialidade ou relevância, considerando-se a imprescindibilidade ou a importância de determinado item, bem ou serviço para o desenvolvimento da atividade econômica desempenhada pelo contribuinte (R Esp nº 1.221.170/PR, Tema 779/STJ).
+2. Incumbe ao contribuinte discriminar, na ação judicial, cada bem ou serviço adquirido do qual pretende se creditar, e ainda descrever qual a sua essencialidade ou relevância no seu processo produtivo, sendo inadequada a formulação de pedido genérico de dedução de crédito de "despesas consideradas insumos".
+3. No julgamento do tema 779 de recursos repetitivos, a Primeira Seção do Superior Tribunal de Justiça expressamente refutou a tese de adoção do conceito de insumo da legislação do imposto de renda para fins de creditamento de PIS-PASEP e COFINS. Adotou-se a dita orientação intermediária, consistente em examinar, casuisticamente, se há emprego direto ou indireto no processo produtivo ("teste de subtração"), prestigiando a avaliação dos critérios da essencialidade e da pertinência, rejeitando tanto a dita orientação restrita (que adotava como parâmetro a tributação baseada nos créditos físicos do IPI, isto é, a aquisição de bens que entrem em contato físico com o produto, reputando legais, via de consequência, as Instruções Normativas da SRF ns. 247/2002 e 404/2004, orientação essa defendida pela Receita Federal), quanto a dita orientação ampliada, cujas bases assenhoreiam-se do conceito de insumo da legislação do IRPJ.
+4. Mantida a conclusão do julgado submetido à retratação.
+Opostos embargos de declaração às fls. 601-605, os quais restaram improvidos.
+Nas razões do recurso especial de fls. 630-649, interposto com fundamento na alínea a do permissivo constitucional, a parte ora agravante aponta violação dos arts. 141; 319; 322, § 2º; 489, § 1º; 490; e 1.022 do CPC e dos arts. 3º, inciso II das Leis n. 10.637/2002 e 10.833/2003 e art. 17 da Lei n. 11.033/2004.
+Decisão de fls. 658 -660 encaminhou o recurso ao STJ ante a ausência de retratação.
+É o relatório.
+Decido.
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo e do recurso especial posteriormente interposto, os quais são complementares e devem ser julgados conjuntamente.
+Ante o exposto, CONHEÇO do agravo para, nos termos do art. 253, inciso II, alínea d, do RISTJ, determinar sua autuação como recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
