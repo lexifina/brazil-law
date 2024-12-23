@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por CAYMMI, DOURADO, MARQUES, MOREIRA E COSTA ADVOGADOS ASSOCIADOS de decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que não admitiu o recurso especial dirigido contra o acórdão assim ementado (fls. 122-123):
+AGRAVO INTERNO DA FN E AGRAVO DE INSTRUMENTO - EXECUÇÃO DE SENTENÇA - COMPLEMENTAÇÃO AO FUNDEF - EXPEDIÇÃO DE PRECATÓRIO DO VALOR DITO INCONTROVERSO - IMPOSSIBILIDADE ANTE A DISCUSSÃO, NOS EMBARGOS DO DEVEDOR, DA INTEGRALIDADE DA DÍVIDA
+1. Trata-se de Agravo Interno em face da antecipação de tutela deferida pela anterior relatora (art. 1.019, I, CPC/2015), determinando a expedição de precatório para pagamento dos honorários sucumbenciais calculados sobre o valor dito incontroverso (diferença entre os cálculos apresentados pelo Município na Execução de Sentença n. 0000726-11.2016.4.01.3310 e os apresentados pela FN nos Embargos do Devedor n. 0001887-56.2016.4.01.3310) e cobrados na Execução de Sentença n. 0000727-93.2016.4.01.3310.
+2. "A Corte Especial do Superior Tribunal de Justiça firmou compreensão segundo a qual é possível a expedição de precatório relativamente à parte incontroversa da dívida quando se tratar de embargos parciais à execução opostos pela Fazenda Pública". Precedentes do STJ declinados no voto.
+3. Ocorre que, no caso dos autos, os embargos opostos buscam a exclusão total dos créditos cobrados pelo município, sendo o excesso de execução um argumento meramente subsidiário. Não haveria, portanto, base de cálculo incontroversa para estimar os honorários sucumbenciais. É o que se deduz da leitura dos referidos embargos (pedido final), que aqui reproduzo, no que interessa: "Face ao exposto, espera o recebimento dos presentes Embargos à Execução, com a intimação do Embargado, para que ofereça a impugnação que entender pertinente, e, após, sejam julgados procedentes para o fim de extinguir a execução pelas razões delineadas, ante a inépcia da inicial, ocorrência de inexigibilidade de titulo executivo (art. 741, II, do CPC), excesso de execução (art. 741, V, do CPC) e fato modificativo (art. 741, VI, do CPC), ou adequar o valor da execução e dos honorários advocatícios (..)".
+4. Em julgamento de situação semelhante, esta Corte já decidiu: "(..) Descabe a expedição de precatório, uma vez que a executada impugnou o título exequendo em sua totalidade e, apenas subsidiariamente, destacou o excesso de valores exigidos pelo credor. Como bem decidiu o juiz de primeiro grau: ".. não obstante a União ter apresentado cálculo sobre excesso de execução, sua impugnação contém pedidos de natureza extintiva da obrigação, fato que torna controvertido o valor indicado em sua conta como impugnação subsidiária". Nesse sentido prevê, a contrário senso, o art. 535, § 3º, do CPC.(..)" (TRF1/T8, EDAG 0031164-22.2017.4.01.0000, Des. Fed. NOVÉLY VILANOVA).
+5. Agravo interno provido para cassar a tutela anteriormente deferida e Agravo de Instrumento não provido.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 142-150 e 164-175).
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a parte ora agravante aponta violação do art. 535, §§ 2º e 4º, do CPC.
+Contrarrazões às fls. 218-219.
+Não admitido o recurso pelo Tribunal de origem (fls. 220-222), seguiu-se o presente agravo em recurso especial (fls. 225-240).
+É o relatório.
+Decido.
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Ante o exposto, CONHEÇO do agravo para, nos termos do art. 253, inciso II, alínea d, do RISTJ, determinar sua autuação como recurso especial, sem prejuízo da aferição dos respectivos requisitos de admissibilidade a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
