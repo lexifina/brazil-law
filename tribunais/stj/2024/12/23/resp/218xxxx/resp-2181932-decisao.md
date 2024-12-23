@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 703):
+DIREITO PROCESSUAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ARGUIÇÃO DE PRESCRIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA 393 DO STJ. OFENSA AO TEMA 1.062 DO STF. INDICES DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. A exceção de pré-executividade consiste em instrumento processual que se presta tão somente para alegação de questões de ordem pública, apreciáveis de ofício pelo juiz, além de fatos modificativos ou extintivos do direito da parte exequente, desde que dispensem dilação probatória.
+2. No caso em análise, observa-se que a matéria tratada na exceção de pré-executividade apresentada pelo Agravante, necessita de análise de todo o acervo probatório trazido nos autos e ainda sua dilação, como bem observado o Juízo a quo, vez que não foi possível identificar com o acervo presente, a ocorrência da prescrição.
+3. A tese defensiva de excesso de execução quanto a atualização dos indíces de correção e juros adotados, além de não poder ser discutida através de exceção de pré-executividade, sequer foi apresentada ao Juízo a quo. É vedado ao Juízo ad quem apreciar matéria, mesmo que de ordem pública, quando pendente de análise no Juízo a quo, sob pena de supressão de instância. Precendentes do STJ.
+Embargos de declaração rejeitados.
+A recorrente alega, inicialmente, violação dos artigos 489, III e IV, § 1º, e 1.022, II, do CPC/2015, ao argumento de que "é evidente o error in procedendo do acórdão recorrido, que trouxe fundamentação incompleta e sem substrato mínimo ao caso concreto, pois sequer citou o tema da prescrição".
+Quanto à matéria de fundo, sustenta que "se o crédito tributário foi devidamente constituído em 09/01/2007, possuindo o Fisco todos os elementos necessários à sua cobrança à partir dessa data, tem-se por demasiadamente permissivo o entendimento de que haveria o retardo na prolação do despacho inicial por inércia do Judiciário, especialmente se considerarmos o ajuizamento da ação em 05/01/2012" e "ou seja, uma vez que restou como incontroverso que o despacho inaugural foi prolatado após o lapso temporal de 5 anos, a exegese utilizada pelo Tribunal a quo é contra legem, sendo imperiosa a reforma por esta Colenda Corte, para que seja declarada a prescrição do direito de cobrança dos tributos objeto da demanda" (fls. 136-149).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 178-182
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito da questão tida por omissa. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, constou do acórdão recorrido (fls. 65-66; grifos nossos):
+No caso, mostra-se acertado o entendimento exarado pelo Juízo a quo, pois a matéria da ocorrência da prescrição alegada pelo agravante não pode ser conhecida por meio de exceção de pré-executividade, um vez que necessita de análise de todo o acervo probatório trazido nos autos e ainda sua dilação, pois não foi possível identificar com o acervo presente, a ocorrência da prescrição.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa aos artigos 489 e 1.022 do CPC/2015.
+Quanto à alegada prescrição, a parte recorrente não aponta direta e especificamente violação de nenhum dispositivo de lei federal, mas faz menção a diversos artigos na tentativa de fazer com que esta Corte reconhecesse a violação a qualquer um deles, o que dificulta identificar objetivamente os dispositivos violados e as teses a eles referentes.
+Com efeito, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+ ..
+2. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.939.623/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024; grifo nosso.)
+Ademais, evidencia-se que a tese de prescrição não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Ainda que assim não fosse, o voto condutor do acórdão recorrido consignou o seguinte (fl. 70):
+No caso em análise, observa-se que a matéria tratada na exceção de pré-executividade apresentada pelo Agravante, necessita de análise de todo o acervo probatório trazido nos autos e ainda sua dilação, como bem observado o Juízo a quo, vez que não foi possível identificar com o acervo presente, a ocorrência da prescrição.
+Ocorre que a parte recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula n. 283/STF.
+Outrossim, para rever tal conclusão, necessário o reexame do conjunto fático-probatório dos autos, o que é vedado na via estreita do recurso especial, por incidência da Súmula 7/STJ.
+Por fim, ao aplicação a Súmula n. 393 do STJ, o acórdão recorrido decidiu no mesmo sentido da jurisprudência do STJ, conforme os seguinte precedentes:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 156 E 174 DO CTN, 40 DA LEF E 219, § 5º, DO CPC/1973. SÚMULA N. 282/STF. QUESTIONAMENTOS ACERCA DE ILEGITIMIDADE PASSIVA, FRAUDE À EXECUÇÃO E PRESCRIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória (Súmula n. 393/STJ).
+ ..
+VII - Agravo Interno improvido. (AgInt no REsp n. 2.113.199/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS/COFINS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1. Consoante enunciado da Súmula 393/STJ, a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício, que não demandem dilação probatória.
+ ..
+5. Agravo interno conhecido e não provido. (AgInt no AREsp n. 2.185.170/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/3/2024, DJe de 2/4/2024.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ARGUIÇÃO DE PRESCRIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA 393 DO STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
