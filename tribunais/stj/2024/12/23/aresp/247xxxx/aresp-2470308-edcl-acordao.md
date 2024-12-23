@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Cuida-se de embargos de declaração opostos por WILSON SONS SERVIÇOS MARÍTIMOS LTDA. em face de acórdão, assim ementado (fls. 618/619):
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. ISSQN. HIGIDEZ DA CDA. RESPONSABILIDADE TRIBUTÁRIA. REVISÃO DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICES DAS SÚMULAS 7/STJ E 5/STJ. DEFICIÊNCIA DAS RAZÕES RECURSAIS. SÚMULAS 284/STF E 283/STF. ANÁLISE DE LEI LOCAL. ÓBICE DA SÚMULA 280/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015, porquanto o órgão julgador, de forma clara e coerente, analisou as questões relevantes da causa, externando fundamentação adequada e suficiente para a solução da controvérsia. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. A conclusão do acórdão quanto à higidez da CDA e da legitimidade da cobrança do ISSQN deu-se com base no exame no suporte fático-probatório e com a interpretação das cláusulas dos contratos analisados. Diante das premissas fixadas, inviável a revisão da conclusão do acórdão, sem o reexame do suporte fático-probatório e a interpretação das cláusulas dos contratos analisados. Incidência dos óbices das Súmulas 5/STJ e 7/STJ.
+4. Configura deficiência das razões recursais a apresentação de razões dissociadas e a falta de impugnação a fundamento do acórdão suficiente a manter o resultado do julgado. Incidência das Súmulas 283/STF e 284/STF.
+5. Embora a recorrente aponte violação de lei federal para sustentar a nulidade da CDA, a tese recursal vinculada diz respeito ao teor da lei local que consta como fundamento legal da CDA. A questão, nos moldes alegados, requer a análise da referida norma local, providência inviável no âmbito do recurso especial. Incidência do óbice da Súmula 280/STF.
+6. Agravo interno não provido.
+A parte embargante alega existência de vício de contradição, ao argumento de que o TJ não listou entre as atividades desempenhadas as de agenciamento marítimo, e entende haver equívoco no acórdão recorrido ao entender pela incidência do óbice da Súmula 7/STJ quanto à alegação de violação do art. 121 do CTN, uma vez que alegou não exercer atividade de agenciamento marítimo, premissa estabelecida nos autos. Sustenta erro de premissa fática e afastamento da Súmula 280/STF, uma vez que não se trata de pretende a análise de validade de lei local.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, o acórdão ora embargado, para firmar o óbice da Súmula 7/STJ, expressamente consignou (fls. 619/620/621, grifos nossos):
+O agravante alega que  ..  empresas que performam atividades de agenciamento marítimo, o que não está no escopo do objeto social da agravante, uma vez que é fato incontroverso de que sua atividade é a prestação de serviços de navegação de apoio portuário, sendo indevido, pois, o seu enquadramento como responsável tributária pelo pagamento do ISS  ..  não ser empresa de agenciamento marítimo, não sendo responsável pelo recolhimento do ISS devido pelo prestador, tendo declinado fundamentação adequada ao enfrentamento do acórdão recorrido.
+ ..
+A respeito da atividade desempenhada e da responsabilidade tributária pelo ISSQN, a agravante, ao argumento de que seria incontroverso o fato de que sua atividade é de prestação de serviços de apoio marítimo, inexistindo previsão legal de que a atividade de afretamento seria sujeita à tributação pelo ISS, alega a ilegalidade de cobrança do ISS, por não ocorrência de fato gerador, de modo que não se pode falar em constituição do crédito tributário.
+A questão, por sua vez, foi decidida pelo Tribunal a quo analisando as atividades efetivamente desempenhadas pela parte, com fundamento tanto nos contratos de prestação de serviços firmados quanto nas cláusulas do contrato social sobre seu objeto social, firmando se tratar de um contrato complexo, em que há uma atividade-meio atinente à disponibilização de bem móvel (embarcação) para a consecução do objeto contratual, qual seja, a prestação de um serviço marítimo, o qual está previsto no Item 7.21 da Lista Anexa da Lei Complementar n. 116/2003.
+ ..
+Por segundo, também é certo que, diante das premissas fixadas, inviável seria a revisão da conclusão do acórdão, sem o reexame do suporte fático-probatório e a interpretação das cláusulas dos contratos analisados. Incidência dos óbices das Súmulas 5/STJ e 7/STJ.
+Com efeito, a ora embargante articula seu argumentos para buscar, de forma transversa, a modificação das próprias premissas fixadas no acórdão, com base nas quais a Corte a quo firmou sua conclusão, pretensão inviável no âmbito do recurso especial, por demandar o reexame de fatos e provas, providência vedada por força do óbice da Súmula 7/STJ.
+A pacífica jurisprudência desta Corte Superior é firme no sentido de que incide no recurso especial o óbice da Súmula 7/STJ, quando a análise da pretensão recursal demandar o reexame do suporte fático-probatório, sendo vedada a modificação das premissas fáticas fixadas nas instâncias ordinárias. Neste sentido, confiram-se: AgInt no AREsp 2.577.122/GO, Rel. Ministro Raul Araújo, Quarta Turma, DJe 2/8/2024; AgInt no AREsp 1.804.100/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/6/2024; AgInt no AgInt no REsp 1.9882.562/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, D Je 27/6/2024; AgInt nos EDcl nos REsp n. 1.959.171/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 24/8/2022; AgRg no REsp n. 1.773.075/SP, Rel. Ministro Félix Fischer, Quinta Turma, DJe 7/3/2019.
+Quanto à Súmula 280/STF, o acórdão dispôs (fls. 619/622, grifos nossos):
+O agravante alega que a lei municipal não é objeto do recurso especial, não havendo nas razões recursais nenhum questionamento sobre a validade/legalidade da legislação municipal, argumentando que sua indicação na CDA se refere às empresas que performam atividades de agenciamento marítimo, o que não está no escopo do objeto social da agravante  .. . Sustenta a inaplicabilidade do dispositivo municipal em que fundada a CDA, afirmando não ser empresa de agenciamento marítimo, não sendo responsável pelo recolhimento do ISS devido pelo prestador, tendo declinado fundamentação adequada ao enfrentamento do acórdão recorrido.
+ ..
+A aplicação do óbice da Súmula 280/STF, por sua vez, justifica-se em razão de que a própria agravante, nas razões do recurso especial, embora aponte violação dos arts. 121, parágrafo único, II, do CTN e 2º, §§ 5º e 6º, da LEF, alega a nulidade da CDA ao argumento do não cabimento da cobrança do ISS com fundamento no teor do art. 7º, "o", da Lei Municipal n. 106/2009, evidenciando a necessidade de exame da referida norma local, com óbice na Súmula 280/STF (fls. 582/583):  ..
+Na espécie, pois, inexiste qualquer vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+A toda evidência, no presente caso, a embargante, não conformada com o resultado a seu desfavor, busca, de forma transversa, o reexame recursal. Contudo, tendo o decisório ora embargado analisado de forma clara e fundamentada a controvérsia, o rejulgamento da causa almejado é providência incompatível pela via do recurso integrativo.
+A esse respeito, colaciono os seguintes julgados:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. AUSÊNCIA DE VÍCIOS NO JULGADO.  ..
+2. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+3. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretendem os embargantes.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.539.387/RS, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe 14/2/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL.  ..
+1. Consoante dispõe o art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventuais omissão, obscuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.740.473/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 22/3/2019)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
