@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE PARA NOVA PROGRESSÃO DE REGIME. PREENCHIMENTO DOS REQUISITOS OBJETIVO E SUBJETIVO. PRECEDENTES. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, ao julgar agravo em execução penal, fixou como termo inicial para nova progressão de regime a data da realização do exame criminológico, em vez da data de cumprimento do último requisito (objetivo ou subjetivo) necessário para a progressão. O recorrente alega violação do art. 33, § 2º, do Código Penal, e do art. 112 da Lei de Execução Penal, sustentando que o termo inicial deve ser a data em que preenchidos todos os requisitos exigidos para a progressão, independentemente da data de deferimento judicial.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir o marco inicial (data-base) para fins de progressão de regime, especificamente se deve ser considerada a data em que o último requisito (objetivo ou subjetivo) foi cumprido ou a data da efetiva decisão judicial de deferimento da progressão.
+III. RAZÕES DE DECIDIR
+3. O termo inicial para nova progressão de regime deve ser a data em que preenchidos todos os requisitos do art. 112 da Lei de Execução Penal, sejam eles de natureza objetiva ou subjetiva, conforme entendimento consolidado em julgamento de recurso repetitivo pelo STJ.
+4. A decisão que defere a progressão de regime possui natureza declaratória, e não constitutiva, de forma que o cumprimento dos requisitos suficientes para a progressão configura o momento em que o direito se torna apto a ser reconhecido, independentemente do deferimento formal posterior.
+5. Eventual demora na realização de exame criminológico ou outras providências administrativas não pode prejudicar o apenado, devendo-se considerar a data em que efetivamente cumprido o último dos requisitos.
+6. Precedentes da Terceira Seção do STJ reforçam que o marco inicial para a progressão deve ser fixado de maneira casuística, observando-se o momento do cumprimento do último requisito pendente, seja ele o objetivo ou o subjetivo.
+IV. RECURSO ESPECIAL PROVIDO.
+RELATÓRIO
+Trata-se de recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo .
+Contrarrazões apresentadas, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE PARA NOVA PROGRESSÃO DE REGIME. PREENCHIMENTO DOS REQUISITOS OBJETIVO E SUBJETIVO. PRECEDENTES. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, ao julgar agravo em execução penal, fixou como termo inicial para nova progressão de regime a data da realização do exame criminológico, em vez da data de cumprimento do último requisito (objetivo ou subjetivo) necessário para a progressão. O recorrente alega violação do art. 33, § 2º, do Código Penal, e do art. 112 da Lei de Execução Penal, sustentando que o termo inicial deve ser a data em que preenchidos todos os requisitos exigidos para a progressão, independentemente da data de deferimento judicial.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir o marco inicial (data-base) para fins de progressão de regime, especificamente se deve ser considerada a data em que o último requisito (objetivo ou subjetivo) foi cumprido ou a data da efetiva decisão judicial de deferimento da progressão.
+III. RAZÕES DE DECIDIR
+3. O termo inicial para nova progressão de regime deve ser a data em que preenchidos todos os requisitos do art. 112 da Lei de Execução Penal, sejam eles de natureza objetiva ou subjetiva, conforme entendimento consolidado em julgamento de recurso repetitivo pelo STJ.
+4. A decisão que defere a progressão de regime possui natureza declaratória, e não constitutiva, de forma que o cumprimento dos requisitos suficientes para a progressão configura o momento em que o direito se torna apto a ser reconhecido, independentemente do deferimento formal posterior.
+5. Eventual demora na realização de exame criminológico ou outras providências administrativas não pode prejudicar o apenado, devendo-se considerar a data em que efetivamente cumprido o último dos requisitos.
+6. Precedentes da Terceira Seção do STJ reforçam que o marco inicial para a progressão deve ser fixado de maneira casuística, observando-se o momento do cumprimento do último requisito pendente, seja ele o objetivo ou o subjetivo.
+IV. RECURSO ESPECIAL PROVIDO.
+VOTO
+O recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual passo ao exame das alegações.
+O recurso especial está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da Súmula n. 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da Súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da Súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da Súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violado "o artigo 33, §2º, do Código Penal, bem como o artigo 112, da Lei de Execução Penal, além de ter divergido na interpretação do artigo 112, da Lei de Execução Penal", sob o argumento de que "a forma progressiva de cumprimento da pena privativa de liberdade, mediante transferência para regime menos rigoroso, subordina-se, para além do cumprimento de pressupostos de natureza objetiva, à constatação do "mérito do condenado" (art. 33, §2º, do CP), requisito que deve ser entendido como "aptidão, capacidade e merecimento, demonstrados no curso da execução" (Item 120 da Exposição de Motivos da Lei de Execução Penal)" (e-STJ, fl. 108).
+Aduz, outrossim, que "não é possível falar em direito à progressão e, portanto, na existência de marco jurídico para aquisição de novos benefícios, antes do nascimento desse direito, o que só ocorre com a cumulativa satisfação dos requisitos objetivo e subjetivo" (e-STJ, fl. 109).
+O Tribunal de Justiça do Estado de São Paulo, ao negar provimento ao agravo em execução penal ali interposto pela parte recorrente, assim se manifestou (e-STJ, fls. 340/341, grifos acrescidos):
+Ora, é bem verdade que o preenchimento do requisito objetivo não é suficiente para o aperfeiçoamento do direito à progressão de regime, pois o art.
+112, da Lei de Execução Penal, prevê também a necessidade de boa conduta carcerária.
+Em julgamento de questão repetitiva sobre a matéria, esclareceu a tese vencedora, em sede de embargos de declaração, dando a seguinte redação para o enunciado sobre o tema, de lavra do Exmo. Des. Sérgio Coelho:
+(..)
+Todavia, disto não decorre que o exame criminológico constitua, necessariamente, o momento do atendimento ao requisito subjetivo.
+Embora o laudo criminológico indique a presença do requisito subjetivo no momento de sua realização, não exclui que a boa conduta carcerária já estivesse presente no período que o antecedeu, de modo que, na ausência de elementos que indiquem a falta de méritos do sentenciado entre o aperfeiçoamento do requisito objetivo e a realização do exame, deve-se considerar que o requisito subjetivo se encontrava satisfeito já na data em que o prazo para o objetivo se concluiu.
+Afinal, repita-se, a avaliação da conduta do sentenciado é responsabilidade da administração pública e a demora na sua realização, por mais que decorra de circunstâncias inevitáveis, não pode prejudicar o apenado.
+(..)
+Como se vê, a referida tese estabeleceu que a data-base a ser considerada para fins de nova progressão é aquela em que foi preenchido, caso a caso, o último requisito, seja ele o objetivo ou o subjetivo, sem especificar quando este último requisito deve ser considerado preenchido, ou seja, em nenhum momento estabeleceu que se considera atendido o requisito subjetivo na data de elaboração do exame criminológico.
+Aliás, essa questão ficou bem esclarecida pela Turma Especial em sede de julgamento dos Embargos de Declaração Criminal nº 2103746-20.2018.8.26.0000/50000, datado de 11 de junho de 2021:
+(..)
+Portanto, a decisão ora recorrida fica confirmada, por seus fundamentos.
+A análise das razões motivadas na origem indica que não se encontram em linha com o entendimento desta Corte, pois, como cediço, o marco inicial para a próxima progressão de regime prisional é a data em que foi preenchido o último dos requisitos do artigo 112 da Lei de Execução Penal.
+A propósito, a Terceira Seção desta Corte, na sessão do dia 14/08/2024, julgou o REsp 1.972.187/SP (acórdão ainda pendente de publicação), sob o rito dos repetitivos (art. 543-C do CPC), e, com ressalva de meu entendimento contrário, assentou, por maioria de votos, a seguinte tese: "A decisão que defere a progressão de regime não tem natureza constitutiva, senão declaratória. O termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo e subjetivo descritos no art. 112 da Lei 7.210, de 11/07/1984 (Lei de Execução Penal), e não a data em que efetivamente foi deferida a progressão. Essa data deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo. Se por último for preenchido o requisito subjetivo, independentemente da anterior implementação do requisito objetivo, será aquele (o subjetivo) o marco para fixação da data-base para efeito de nova progressão de regime".
+Nesse mesmo sentido, confiram-se os seguinte precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. PREENCHIMENTO DOS REQUISITOS OBJETIVO E SUBJETIVO. ACÓRDÃO IMPUGNADO DE ACORDO COM O ENTENDIMENTO DESTA CORTE. DESPROVIMENTO DO AGRAVO.
+1. O entendimento a que chegou o Tribunal de origem, ao definir como termo inicial para fins de progressão ao regime aberto o dia em que foi realizado o exame criminológico favorável à promoção ao regime intermediário, está em sintonia com a orientação desta Corte, no sentido de que o marco inicial para a próxima progressão de regime prisional é a data em que foi preenchido o último dos requisitos do artigo 112 da Lei de Execução Penal.
+2. A Terceira Seção desta Corte, na sessão do dia 14/08/2024, julgou o REsp 1.972.187/SP (acórdão ainda pendente de publicação), sob o rito dos repetitivos (art. 543-C do CPC), e, com ressalva de meu entendimento contrário, assentou, por maioria de votos, a seguinte tese: "A decisão que defere a progressão de regime não tem natureza constitutiva, senão declaratória. O termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo e subjetivo descritos no art. 112 da Lei 7.210, de 11/07/1984 (Lei de Execução Penal), e não a data em que efetivamente foi deferida a progressão. Essa data deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo. Se por último for preenchido o requisito subjetivo, independentemente da anterior implementação do requisito objetivo, será aquele (o subjetivo) o marco para fixação da data-base para efeito de nova progressão de regime" 3. Agravo regimental desprovido.
+(AgRg no HC n. 891.305/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024) (grifos acrescidos).
+PROCESSO PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REITERAÇÃO DO MÉRITO. DECISÃO AGRAVADA DE ACORDO COM ENTENDIMENTO PACIFICADO PELO TRIBUNAL. PRECEDENTES. DATA-BASE DA PROGRESSÃO DE REGIME. CUMPRIMENTO DOS REQUISITOS OBJETIVO E SUBJETIVO.
+I - Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental destina-se a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao não conhecimento do recurso especial.
+II - Depreende-se das razões recursais que o agravante se limitou a reiterar as alegações de mérito deduzidas no acordão acerca do mérito da causa, sem apresentar argumentos suficientes para infirmar a decisão recorrida.
+III - O Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que a data-base para a progressão de regime é aquela em que o apenado cumpre ambos os requisitos do art. 112 da LEP. Precedentes.
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.091.025/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024.) (grifos acrescidos).
+Ante o exposto, dou provimento ao recurso especial, para reformar o acórdão recorrido e determinar que seja estabelecida como data-base para progressão de regime o momento em que preenchidos os requisitos de natureza objetiva e subjetiva.
+É o voto.
