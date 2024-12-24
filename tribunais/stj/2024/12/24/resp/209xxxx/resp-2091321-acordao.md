@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao recurso.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. AUSÊNCIA DE PAGAMENTO DA PENA DE MULTA. PRESUNÇÃO RELATIVA DE HIPOSSUFICIÊNCIA. ASSISTÊNCIA PELA DEFENSORIA PÚBLICA. ÔNUS DO MINISTÉRIO PÚBLICO DE AFASTAR A PRESUNÇÃO. TEMA 931/STJ REVISITADO. MANUTENÇÃO DA EXTINÇÃO DA PUNIBILIDADE. SÚMULA N. 83/STJ. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público de SP contra acórdão que reconheceu a extinção da punibilidade de condenado ao pagamento de multa criminal, sob o fundamento de que, sendo o réu assistido pela Defensoria Pública, presume-se sua hipossuficiência econômica. Alega-se violação dos arts. 32 e 51 do Código Penal, sustentando que a extinção da punibilidade sem a satisfação da multa depende de prova inequívoca da impossibilidade financeira do condenado, conforme o Tema 931/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a extinção da punibilidade pela ausência de pagamento da pena de multa pode ser reconhecida com base na presunção de hipossuficiência decorrente da assistência pela Defensoria Pública, à luz do Tema 931/STJ revisitado.
+III. RAZÕES DE DECIDIR
+3. O Tema 931/STJ, revisitado no julgamento dos REsp 2.024.901/SP e REsp 2.134.384/MG, estabelece que o inadimplemento da pena de multa, pelo condenado que comprovar sua impossibilidade financeira, não obsta o reconhecimento da extinção da punibilidade.
+4. A presunção de hipossuficiência do réu assistido pela Defensoria Pública é relativa, podendo ser afastada por prova em sentido contrário apresentada pelo Ministério Público. No caso concreto, o Tribunal local concluiu pela hipossuficiência do apenado, e o Ministério Público não produziu prova que afastasse tal presunção.
+5. A decisão recorrida está em consonância com o entendimento do Superior Tribunal de Justiça, que atribui ao Ministério Público o ônus de demonstrar a capacidade financeira do apenado para pagar a multa, nos casos em que ele é assistido pela Defensoria Pública. A ausência dessa demonstração justifica o reconhecimento da hipossuficiência e, consequentemente, a extinção da punibilidade.
+6. O reconhecimento da extinção da punibilidade pela ausência de pagamento da multa, com base na presunção de hipossuficiência não afastada, não contraria os arts. 32 e 51 do Código Penal, mas reflete interpretação alinhada ao Tema 931/STJ, atraindo a aplicação da Súmula n. 83/STJ.
+IV. RECURSO ESPECIAL DESPROVIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+Relata o recorrente que o recorrido, condenado "por incurso no artigo 33, caput e § 4º, da Lei nº 11.343/06, às penas de 01 ano e 08 meses de reclusão, em regime semiaberto, e de multa de 166 diárias, no menor valor unitário - interpôs recurso de agravo, para desafiar decisão, proferida pelo Juízo de primeiro grau, que indeferiu pleito de extinção dos efeitos da condenação criminal em razão do inadimplemento da multa" (e-STJ, fl. 76), sendo o recurso provido pelo TJSP.
+Aponta, assim, contrariedade aos arts. 32 e 51 do Código Penal, pois, "sem que haja efetiva comprovação, pelo condenado, da absoluta impossibilidade de satisfação da multa, a decretação da extinção da pena pecuniária estará, em verdade, contrariando a orientação fixada no julgamento do Tema 931" (e-STJ, fl. 88).
+Requer, ao final, o provimento do recurso "para fins de cassar o v. acórdão, em razão da impossibilidade de decretação da extinção dos efeitos penais da condenação imposta a LARRYSON RUAMA CERQUEIRA RODRIGUES sem que haja satisfação da multa ou inequívoca demonstração da impossibilidade de solvê-la" (e-STJ, fl. 91).
+Apresentadas as contrarrazões, manifestou-se o MPF pelo provimento recursal.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. AUSÊNCIA DE PAGAMENTO DA PENA DE MULTA. PRESUNÇÃO RELATIVA DE HIPOSSUFICIÊNCIA. ASSISTÊNCIA PELA DEFENSORIA PÚBLICA. ÔNUS DO MINISTÉRIO PÚBLICO DE AFASTAR A PRESUNÇÃO. TEMA 931/STJ REVISITADO. MANUTENÇÃO DA EXTINÇÃO DA PUNIBILIDADE. SÚMULA N. 83/STJ. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público de SP contra acórdão que reconheceu a extinção da punibilidade de condenado ao pagamento de multa criminal, sob o fundamento de que, sendo o réu assistido pela Defensoria Pública, presume-se sua hipossuficiência econômica. Alega-se violação dos arts. 32 e 51 do Código Penal, sustentando que a extinção da punibilidade sem a satisfação da multa depende de prova inequívoca da impossibilidade financeira do condenado, conforme o Tema 931/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a extinção da punibilidade pela ausência de pagamento da pena de multa pode ser reconhecida com base na presunção de hipossuficiência decorrente da assistência pela Defensoria Pública, à luz do Tema 931/STJ revisitado.
+III. RAZÕES DE DECIDIR
+3. O Tema 931/STJ, revisitado no julgamento dos REsp 2.024.901/SP e REsp 2.134.384/MG, estabelece que o inadimplemento da pena de multa, pelo condenado que comprovar sua impossibilidade financeira, não obsta o reconhecimento da extinção da punibilidade.
+4. A presunção de hipossuficiência do réu assistido pela Defensoria Pública é relativa, podendo ser afastada por prova em sentido contrário apresentada pelo Ministério Público. No caso concreto, o Tribunal local concluiu pela hipossuficiência do apenado, e o Ministério Público não produziu prova que afastasse tal presunção.
+5. A decisão recorrida está em consonância com o entendimento do Superior Tribunal de Justiça, que atribui ao Ministério Público o ônus de demonstrar a capacidade financeira do apenado para pagar a multa, nos casos em que ele é assistido pela Defensoria Pública. A ausência dessa demonstração justifica o reconhecimento da hipossuficiência e, consequentemente, a extinção da punibilidade.
+6. O reconhecimento da extinção da punibilidade pela ausência de pagamento da multa, com base na presunção de hipossuficiência não afastada, não contraria os arts. 32 e 51 do Código Penal, mas reflete interpretação alinhada ao Tema 931/STJ, atraindo a aplicação da Súmula n. 83/STJ.
+IV. RECURSO ESPECIAL DESPROVIDO.
+VOTO
+Acerca da matéria aqui trazida, assim se manifestou o Tribunal local (e-STJ, fls. 60-63):
+ ..  Cumpre ressaltar que, no que tange à necessidade do pagamento da multa imposta ao condenado como requisito para a extinção de sua punibilidade, caso dos autos, de rigor, antes de eventual indeferimento, a verificação das condições financeiras do sentenciado.
+E, neste ponto, entende-se que milita em favor daqueles que estão assistidos pela Defensoria Pública, presunção (relativa) de hipossuficiência, a qual pode ser afastada pelo Ministério Público.
+Contudo, não havendo a produção de provas pelo parquet acerca de condições financeiras do sentenciado, comprovando que de fato houve um não pagamento deliberado, não há como negar o direito à extinção da pena.
+ ..
+De fato, o C. STF estabeleceu, quanto à progressão de regime, que esta pressupõe a demonstração de "autodisciplina e de senso de responsabilidade", o que se relaciona ao cumprimento da obrigação de efetuar o pagamento da pena pecuniária imposta, que faz parte de sua condenação. Contudo, quando fixou tal entendimento trouxe a ressalva expressa em relação aos casos de impossibilidade econômica do apenado:
+ ..
+Conclui-se, portanto, que diante da presunção de hipossuficiência, relacionada à assistência da Defensoria Pública, não sendo esta ilidida nos autos, não se pode afirmar que a falta de pagamento da multa caracteriza a ausência de senso de responsabilidade ou de mérito do sentenciado.
+Observo que em que pese tal entendimento tenha sido fixado quando da análise da necessidade de pagamento da multa para a progressão de regime (e que superou entendimento que adotava anteriormente, no sentido de ser apenas necessário o pagamento da multa para progressão nos crimes contra a Administração Pública), não vejo razão para distinção no que tange à extinção da punibilidade - tendo sido o condenado assistido pela Defensoria Pública, há que militar em seu favor uma presunção de hipossuficiência, a qual, não afastada, deve autorizar o reconhecimento do fim da punibilidade independentemente do pagamento da pena de multa e sem prejuízo da cobrança de tal dívida de valor, pelos meios próprios.
+ ..
+Sendo assim, especialmente considerando a presunção de hipossuficiência do agravado, de rigor o deferimento do pleito defensivo. ..
+O entendimento acima encontra-se em consonância com o posicionamento da Quinta Turma desta Corte. Confira-se:
+PENAL E PROCESSUAL PENAL. EXTINÇÃO DA PUNIBILIDADE. AUSÊNCIA DE PAGAMENTO DA PENA DE MULTA. TEMA N. 931 REVISITADO. PRESUNÇÃO DE HIPOSSUFICIÊNCIA. ASSISTÊNCIA DA DEFENSORIA ALIADA A OUTROS INDICATIVOS. FUNDAMENTAÇÃO PELO TRIBUNAL A QUO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais - MPMG em face de decisão monocrática que negou provimento ao recurso especial ministerial ao fundamento de que o Tribunal de Justiça do Estado de Minas Gerais - TJMG, ao presumir a hipossuficiência do apenado, decidiu em consonância com o Tema 931 do desta Corte Superior de Justiça.
+2. "É importante destacar que, diversamente do entendimento que prevalecia nesta Corte antes do recente julgamento do REsp 2.024.901/SP, é ônus do Ministério Público comprovar que o réu tem condições de pagar a multa, e isso não foi feito aqui. Na ausência de provas que justifiquem conclusão contrária, enfim, a nova orientação definida pela Terceira Seção deste STJ privilegia a declaração da defesa sobre a hipossuficiência do apenado" (AgRg no REsp n. 2.134.384/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/6/2024, DJe de 13/6/2024).
+3. Malgrado no Tema 931/STJ tenha sido assentado que a declaração de pobreza, com presunção relativa de veracidade, seja apta para demonstrar a hipossuficiência do apenado, tal declaração não constitui a única forma que autoriza o reconhecimento da impossibilidade financeira de pagamento da multa. Dito de outro modo, "com ou sem declaração de pobreza, cumprirá ao órgão judicial competente a prudente e motivada avaliação, no exame de cada caso, da capacidade econômica do apenado, com a possibilidade, por óbvio, de que o Ministério Público faça prova em sentido contrário a tal presunção" (REsp n. 2.024.901/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 28/2/2024, DJe de 1º/3/2024).
+4. No caso concreto, o Tribunal concluiu pela hipossuficiência do apenado em razão do fato dele vir sendo assistido pela Defensoria Pública Estadual, conforme andamento do processo de execução penal e contrarrazões, devendo ser mantida a extinção da punibilidade da pena de multa. Apesar do Tribunal de Justiça não ter abordado a existência de declaração de hipossuficiência do apenado, essa justificativa encontra respaldo no revisitado Tema n. 931.
+Precedente.
+5. Agravo regimental ao qual se nega provimento.
+(AgRg no REsp n. 2.124.062/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Ante o exposto, nego provimento ao recurso especial (Súmula n. 83/STJ).
+É o voto.
