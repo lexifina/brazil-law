@@ -8,7 +8,7 @@ V - produto formulado idêntico: 60 (sessenta) dias;
 VI - produto técnico equivalente: 12 (doze) meses;
 VII - produto atípico: 12 (doze) meses;
 VIII - Registro Especial Temporário (RET): 30 (trinta) dias;
-IX - produto para a agricultura orgânica: 12 (doze) meses;
+X - produto à base de agente biológico de controle: 12 (doze) meses;
 XI - pré-mistura: 12 (doze) meses;
 XII - conjunto de alterações do art. 26 desta Lei: 30 (trinta) dias;
 XIII - demais alterações: 180 (cento e oitenta) dias.
