@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por AGNALDO ALVES DA SILVA JUNIOR com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl.112):
+"Transporte aéreo. Indenização por danos materiais. Autor que se insurge contra o reembolso parcial (apenas o voo de ida) do valor as passagens adquiridas, em razão da manifestação de desistência e pedido de cancelamento e reembolso com aproximadamente 06 (seis) meses de antecedência. Improcedência. Não se controverte que as passagens foram adquiridas por um valor menor em razão da vinculação a banda tarifária promocional, a qual não prevê o reembolso integral em caso de desistência e cancelamento. Assim, não há ilegalidade ou abusividade. Autor que optou por adquirir as passagens em tal condição ou correspondentes a tal categoria. Precedentes. Recurso desprovido."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta o recorrente, ora agravante, que o Tribunal a quo, ao não reconhecer o direito ao reembolso integral das passagens aéreas, sobre as quais houve desistência, negou vigência ao art. 740 do Código Civil e arts. 6º, V, 39, V, 51, IV, do CDC.
+Obtempera que o cancelamento se deu seis meses antes do dia do embarque, portanto em prazo suficiente para renegociação dos bilhetes, razão pela qual faz jus ao reembolso integral, e não parcial do respectivo valor despendido.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em ação indenizatória em razão de desistência de passagens aéreas, cujo pedido foi julgado improcedente considerando-se que as passagens foram adquiridas de acordo com uma banda tarifária promocional, a qual não prevê o reembolso integral na hipótese de desistência e cancelamento.
+No presente caso, é incontroverso que as passagens em questão estão vinculadas a uma banda tarifária promocional, a qual justamente por não prever o reembolso integral em caso de desistência e cancelamento, resulta num preço menor de comercialização.
+No presente caso, existe óbice para conhecimento do recurso especial, em razão de a compra das passagens aéreas estar apoiada em contrato promocional de tarifa aérea, fundamento não enfrentado pela parte recorrente.
+Deveras, consoante se extrai do voto condutor do acórdão recorrido (e-STJ Fls.113/114), "Os bilhetes em questão foram adquiridos pela tarifa econômica, ou seja, por valor promocional e sem previsão de reembolso integral em caso de cancelamento, sendo certo que o passageiro comunicou a desistência de forma voluntária. Foram observadas as condições promocionais estabelecidas e informadas no momento da aquisição, sendo sabido que o preço de bilhetes aéreos sofre variações de acordo com as possibilidades de remarcação, cancelamento e maiores percentuais de restituição. Vê-se, pois, que outras modalidades de passagem poderiam ter sido adquiridas, mas a parte autora optou pela tarifa promocional e, nesse caso, a desistência não obriga a companhia aérea ao pagamento de reembolso em valor superior ao percentual estabelecido no momento da aquisição". Referido fundamento se mostra central para o não deferimento do pedido ajuizado, mas não foi rebatido.
+Destarte, recai ao recurso especial o óbice sumular contido na Súmula 283/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. DANO MATERIAL, MORAL E EXTRAPATRIMONIAL PELA PERDA DO TEMPO ÚTIL E PRODUTIVO. AQUISIÇÃO DE PASSAGEM AÉREA. PEDIDO DE REEMBOLSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 489, § 1º, IV, do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+3. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.889.898/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/04/2022, DJe de 13/05/2022)
+Dessa forma, entende-se que o acórdão recorrido deve ser mantido pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 1%.
+Publique-se.
+EMENTA
