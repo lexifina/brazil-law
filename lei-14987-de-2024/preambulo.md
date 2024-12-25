@@ -1,0 +1,2 @@
+Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estender o direito ao atendimento psicossocial às crianças e aos adolescentes que tiverem qualquer dos pais ou responsáveis vitimado por grave violência ou preso em regime fechado.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
