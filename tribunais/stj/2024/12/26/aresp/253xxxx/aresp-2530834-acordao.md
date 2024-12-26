@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE POR CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CRITÉRIOS DISCRICIONÁRIOS. INEXISTÊNCIA DE DIREITO SUBJETIVO À ADOÇÃO DE FRAÇÃO ESPECÍFICA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que negou seguimento a recurso especial em que o recorrente contesta a dosimetria da pena, especificamente a fração aplicada para o aumento da pena-base devido à valoração negativa dos antecedentes criminais. O recorrente sustenta que deveria ser adotada uma fração de 1/6 para a exasperação da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se há obrigatoriedade de adoção de uma fração matemática específica para o aumento da pena-base em razão de circunstâncias judiciais desfavoráveis; e (ii) se a decisão recorrida observou os limites da discricionariedade vinculada no cálculo da pena.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça (STJ) é pacífica no sentido de que não há critério matemático obrigatório para o aumento da pena-base em razão de circunstâncias judiciais desfavoráveis, sendo essa uma matéria de discricionariedade do magistrado, desde que haja fundamentação idônea e proporcional.
+4. O STJ admite o uso de frações como 1/6 ou 1/8 para o aumento da pena-base, mas afirma que essas frações não possuem caráter vinculante, dependendo das circunstâncias do caso concreto e da fundamentação adotada pelo juiz de primeira instância.
+5. A revisão da dosimetria da pena em sede de recurso especial é possível apenas em situações excepcionais, quando há evidente desproporcionalidade ou flagrante ilegalidade. No caso concreto, a instância ordinária justificou adequadamente o aumento da pena, observando os princípios da discricionariedade vinculada e da proporcionalidade, não havendo ilegalidade flagrante que justifique a intervenção desta Corte.
+IV. DISPOSITIVO E TESE
+6. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça a quo que, em juízo de prelibação, inadmitiu o recurso subjacente, por considerar incidente os verbetes sumulares nº 07 e 83, ambos do STJ (e-STJ, fls. 359/360).
+No apelo nobre, interposto com fulcro na alínea "a", do permissivo constitucional, o ora agravante alegou, em síntese, que o acórdão atacado negou vigência ao artigo 59 do Código Penal, discorrendo acerca da fração utilizada para a exasperação da dosimetria da pena-base pela negativa da vetorial maus antecedentes. Postula, destarte, o provimento do recurso para que seja ocorra a revisão na dosimetria da pena-base (e-STJ, fls. 330/348).
+Nesta sede, o agravante defende, em suma, a viabilidade do agravo em recurso especial (e-STJ, fls. 365/379).
+Parecer do MINISTÉRIO PÚBLICO FEDERAL pelo conhecimento do agravo para que seja desprovido o recurso especial.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE POR CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CRITÉRIOS DISCRICIONÁRIOS. INEXISTÊNCIA DE DIREITO SUBJETIVO À ADOÇÃO DE FRAÇÃO ESPECÍFICA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que negou seguimento a recurso especial em que o recorrente contesta a dosimetria da pena, especificamente a fração aplicada para o aumento da pena-base devido à valoração negativa dos antecedentes criminais. O recorrente sustenta que deveria ser adotada uma fração de 1/6 para a exasperação da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se há obrigatoriedade de adoção de uma fração matemática específica para o aumento da pena-base em razão de circunstâncias judiciais desfavoráveis; e (ii) se a decisão recorrida observou os limites da discricionariedade vinculada no cálculo da pena.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça (STJ) é pacífica no sentido de que não há critério matemático obrigatório para o aumento da pena-base em razão de circunstâncias judiciais desfavoráveis, sendo essa uma matéria de discricionariedade do magistrado, desde que haja fundamentação idônea e proporcional.
+4. O STJ admite o uso de frações como 1/6 ou 1/8 para o aumento da pena-base, mas afirma que essas frações não possuem caráter vinculante, dependendo das circunstâncias do caso concreto e da fundamentação adotada pelo juiz de primeira instância.
+5. A revisão da dosimetria da pena em sede de recurso especial é possível apenas em situações excepcionais, quando há evidente desproporcionalidade ou flagrante ilegalidade. No caso concreto, a instância ordinária justificou adequadamente o aumento da pena, observando os princípios da discricionariedade vinculada e da proporcionalidade, não havendo ilegalidade flagrante que justifique a intervenção desta Corte.
+IV. DISPOSITIVO E TESE
+6. Agravo desprovido.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Acerca da controvérsia, o Tribunal de origem ao analisar a apelação criminal assim se manifestou (e-STJ fl. 311-325):
+"Mantenho a valoração negativa dos antecedentes. Pretende o réu seja adotada a fração de 1/6 para aumento da pena-base pela circunstância judicial negativa.
+Não há critérios para se fixar a pena-base, que não segue metodologia puramente matemática. Não previstas em lei as frações de aumento, o quantum a ser estipulado fica adstrito à prudente discricionariedade do juiz, desde que devidamente fundamentado.
+O e. STJ tem admitido, para aumento da pena-base, por circunstância judicial desfavorável, adotar as frações de 1/8 entre o mínimo e o máximo da pena em abstrato, e 1/6 da pena mínima em abstrato, assim como não adotar nenhum critério matemático, desde que haja fundamentação idônea e concreta, baseada na discricionariedade vinculada do julgador.
+Decidiu aquele e. Tribunal que "não há direito subjetivo do réu à adoção de alguma fração específica de exasperação para cada circunstância judicial desfavorável, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias" (AgRg no REsp 1951442/PE, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/11/2021, D Je 29/11/2021)."
+Relembro que esta Corte possui entendimento consolidado no sentido de que "por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos" (AgRg no HC n. 873.376/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024 e AgRg no HC n. 880.725/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024).
+Não se ignora que o aumento da pena-base em virtude das circunstâncias judiciais desfavoráveis do artigo 59 do Código Penal depende de fundamentação concreta e específica que extrapole os elementos inerentes ao tipo penal e ao elemento subjetivo da conduta. (AgRg no HC n. 747.029/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023 e AgRg no HC n. 770.059/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Todavia, ressalta-se que, conforme a jurisprudência do STJ, não há direito subjetivo do réu ou obrigatoriedade do julgador na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, seja de 1/8 do intervalo entre as penas mínimas e máximas, ou seja, de outro valor. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. DESPROPORCIONALIDADE NO QUANTUM DE EXASPERAÇÃO. FRAÇÃO DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. AUSÊNCIA DE CRITÉRIO MATEMÁTICO PURO FRAÇÃO UTILIZADA DEVIDAMENTE FUNDAMENTADA.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Nos termos do art. 42 da Lei n. 11.343/2006, o juiz, na fixação da pena, deve considerar, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente. No presente caso, verifica-se que as instâncias ordinárias fundamentaram a exasperação da pena-base em razão da quantidade e natureza da droga apreendida, qual seja, 417,30 gramas de cocaína e 165kg de maconha, a teor do disposto no art. 42 da Lei n. 11.343/2006.
+III - O entendimento desta Corte Superior firmou-se no sentido de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por este Tribunal Superior, exceto se for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal (precedentes).
+IV - Ainda, certo é que não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 (um sexto) sobre a pena-base, 1/8 (um oitavo) do intervalo entre as penas mínimas e máximas ou mesmo outro valor (precedentes).
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.034.705/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2023, DJe de 27/3/2023.)
+Ante o exposto, conheço do agravo para que seja desprovido o recurso especial.
+É o voto.
