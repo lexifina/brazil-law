@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e dar provimento ao recurso especial, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TRÁFICO PRIVILEGIADO. MODULAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DE PENA DIANTE DE AÇÕES PENAIS EM CURSO. IMPOSSIBILIDADE. VIOLAÇÃO DA PRESUNÇÃO DE INOCÊNCIA. RESTABELECIDA A FRAÇÃO MÁXIMA FIXADA EM PRIMEIRO GRAU. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, no qual se discute a modulação da fração de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006.
+2. O Tribunal de origem reformou a sentença de primeiro grau apenas quanto à fração de diminuição de pena, reduzindo-a de 2/3 para 1/3, com base em ações penais em andamento contra o réu.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se ações penais em andamento podem ser utilizadas para modular a fração de diminuição de pena do tráfico privilegiado, em face do princípio da presunção de inocência.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ é pacífica no sentido de que inquéritos ou ações penais em curso, sem condenação definitiva, não constituem fundamentos idôneos para modular a fração de diminuição de pena do tráfico privilegiado.
+5. A modulação da fração de diminuição de pena com base em ações penais em andamento viola o princípio constitucional da presunção de inocência.
+IV. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL A FIM DE RESTABELECER A PENA IMPOSTA PELO JUÍZO DE PRIMEIRO GRAU.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, em que a parte recorrida postula o não conhecimento do recurso ou o seu desprovimento.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TRÁFICO PRIVILEGIADO. MODULAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DE PENA DIANTE DE AÇÕES PENAIS EM CURSO. IMPOSSIBILIDADE. VIOLAÇÃO DA PRESUNÇÃO DE INOCÊNCIA. RESTABELECIDA A FRAÇÃO MÁXIMA FIXADA EM PRIMEIRO GRAU. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, no qual se discute a modulação da fração de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006.
+2. O Tribunal de origem reformou a sentença de primeiro grau apenas quanto à fração de diminuição de pena, reduzindo-a de 2/3 para 1/3, com base em ações penais em andamento contra o réu.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se ações penais em andamento podem ser utilizadas para modular a fração de diminuição de pena do tráfico privilegiado, em face do princípio da presunção de inocência.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ é pacífica no sentido de que inquéritos ou ações penais em curso, sem condenação definitiva, não constituem fundamentos idôneos para modular a fração de diminuição de pena do tráfico privilegiado.
+5. A modulação da fração de diminuição de pena com base em ações penais em andamento viola o princípio constitucional da presunção de inocência.
+IV. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL A FIM DE RESTABELECER A PENA IMPOSTA PELO JUÍZO DE PRIMEIRO GRAU.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da Súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da Súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da Súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da Súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violado o art. 33, §4º, da Lei n. 11.343/2006, sustentando que ações penais em andamento não podem ser utilizadas para a modulação da fração de diminuição da pena por supostamente indicar o envolvimento com atividades criminosas.
+A análise das razões suscitadas pela origem indica desconformidade com o entendimento desta Corte, conforme se verifica da fundamentação adotada (e-STJ fls. 333-334):
+- DO RECURSO DE APELAÇÃO INTERPOSTO PELO MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA:
+Restringe-se o inconformismo apresentado pelo Órgão Ministerial ao reconhecimento, em favor do Réu, da causa de diminuição de pena prevista no § 4º, do art. 33 da Lei nº 11.343/06, ao entendimento de que o Recorrido não faz jus à incidência da referida causa de diminuição, uma vez que figura como réu em outras ações penais pela prática dos crimes de tráfico de drogas e roubo majorado, apresentando, assim, conduta social voltada ao cometimento de procedimentos ilícitos, restando evidenciado que é dedicado a atividades criminosas.
+No caso sub judice, foi o Acusado condenado, pela prática do delito tipificado no art. 33, § 4º, da Lei nº 11.343.06, c/c o art. 65, I, do CP, ao cumprimento da pena definitiva de 1 (um) ano e 9 (nove) meses de reclusão, em regime aberto, substituída por duas penas restritivas de direitos, na forma do art. 44 do Código Penal , e ao pagamento de 175 (cento e setenta e cinco) dias-multa, sendo concedido ao réu o direito de recorrer em liberdade.
+O MM. Juiz a quo, ao final da sentença, ao proceder à individualização da pena, concluiu que o réu fazia jus à causa de diminuição de pena, por considerar preencher ele todos os requisitos legais autorizadores de que trata o § 4º, do art. 33, da Lei de Drogas, de acordo com os elementos probatórios existentes nos autos e em face de recente tese no Termo Repetitivo 1.139 da Terceira Seção do colendo Superior Tribunal de Justiça, no qual restou estabelecido que "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art.33, §4º, da Lei nº 11.343/06".
+Observa-se que, no caso concreto, não obstante a constatação de que o réu responde a três outras ações, ainda em curso, pelos crimes de tráfico de drogas e de roubo majorado, entretanto, à vista do quanto estabelecido no Tema 1.139 supratranscrito, foi em seu favor aplicada a causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, no seu patamar máximo, qual seja, 2/3 (dois terços).
+Vê-se, portanto, que o MM.Juiz sentenciante procedeu com acerto quando aplicou a referida causa de diminuição de pena, em obediência ao quanto estabelecido no Tema Repetitivo 1.139 do colendo Superior Tribunal de Justiça.
+Todavia, no que tange à fração máxima aplicada (2/3), convém observar o disposto no § 4º do art. 33, da Lei nº 11.343/06:
+"Art. 33 (..) § 4º. Nos delitos definidos no "caput" e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Na hipótese em apreço, o Órgão Ministerial, nas razões do recurso interposto, comprova que o Recorrido responde, além deste processo, a outras ações penais em andamento: processo nº 0534675-50.2019.8.05.0001, pela prática do delito do art. 33, "caput", da Lei nº 11.343/2006, processos nºs. 0702716-09.2021.8.05.0001 e 8102134-19.2021.8.05.0001, ambos pelo cometimento do crime de roubo majorado, circunstância que demonstra a reiteração, por parte do réu, de condutas tipificadas como crime, ou seja, habitualidade na prática de delitos.
+De ressaltar, ainda, que, in casu, foram encontradas em poder do Réu 243 (duzentos e quarenta e três) pedras de crack, envoltas em pedaços de plástico incolor; 16 (dezesseis) porções de maconha, contidas em sacos plásticos incolores, conforme auto de exibição e apreensão e certidão de ocorrência e laudo toxicológico, todos estes acostados a estes autos.
+Assim, não obstante ser forçosa a obediência à aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, nas situações em que existam outras ações movidas contra o réu que ainda estão em andamento, não se constituindo, assim, tal condição em óbice para a incidência da mesma redutora, à vista do quanto estabelecido no Tema Repetitivo 1.139, do STJ, entretanto, as disposições nele constantes não proíbem que o Julgador, diante da constatação de que o acusado reitera na prática de condutas ilícitas, opte pela aplicação de fração de diminuição, entre 1/6 e 2/3 previstas no § 4º do art. 33, que lhe pareça mais justa e adequada às circunstâncias identificadas.
+No caso em comento, diante da constatação de que o Apelado responde a mais 3 ações que se encontram ainda em curso, o que demonstra que, comprovadamente, teima ele em delinquir, assim como à vista da quantidade elevada de substâncias entorpecentes com ele apreendidas, mostra-se mais adequado aplicar-se a causa de diminuição de pena no patamar de 1/3 (um terço), em face da reiteração de condutas que indicam o envolvimento do réu em atividades criminosas.
+Com a alteração procedida da fração de diminuição de pena para 1/3 (um terço), e mantida a individualização da pena realizada nas duas primeiras fases da dosimetria, resta a pena definitiva fixada em 3 (três) anos, 5 (cinco) meses e 20 (vinte) dias de reclusão, a ser cumprida no regime aberto, e mais o pagamento de 180 (cento e oitenta) dias-multa, no valor unitário de 1/30 (um trigésimo) do salário mínimo vigente à época do fato.
+Restam mantidos também a substituição da pena privativa de liberdade aplicada por duas restritivas de direitos, nos moldes estabelecidos na sentença condenatória, bem como o direito de recorrer em liberdade.
+Provido parcialmente, por essas razões, o Recurso de Apelação interposto pelo Ministério Público Estadual.  grifei
+Como se vê, o Tribunal de origem reformou a sentença somente no que tange à fração aplicada pela causa de diminuição de pena do art. 33, §4º, da Lei n. 11.343/2006, ao fundamento de que as ações penais em curso indicam que o acusado reitera na prática de condutas ilícitas.
+Contudo, a respeito do tema, a jurisprudência do STJ é pacífica no sentido de que "Inquéritos ou ações penais em curso, sem condenação definitiva, não constituem fundamentos idôneos para afastar ou modular a fração de diminuição de pena do tráfico privilegiado, sob pena de violação do princípio constitucional da presunção de inocência (RE n. 591.054/SC, submetido ao regime de repercussão geral). O mesmo entendimento se aplica às condenações transitadas em julgado relacionadas a fatos posteriores" (AgRg no REsp 1.891.998/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022).
+Desse modo, deve ser restabelecida a sentença que aplicou a fração de 2/3 para a diminuição da pena.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de restabelecer a pena imposta pelo J uízo de primeiro grau.
+É o voto.
