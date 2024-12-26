@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial .
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FUNDADAS RAZÕES. APREENSÃO DE DROGAS ANTES DA ENTRADA NA RESIDÊNCIA EM BUSCA PESSOAL. UM TERCEIRO SAIU DA RESIDÊNCIA COM COMPRIMIDOS DE ECSTASY CUJA PROPRIEDADE ATRIBUÍU AO RÉU, QUE ESTAVA DENTRO DO IMÓVEL. ESTE MANTINHA EM DEPÓSITO 46 COMPRIMIDOS MDMA, 62,11G DE MACONHA, 10,52G DE COCAÍNA E 655ML DE DICLOROMETANO (LOLÓ). HOUVE CONSENTIMENTO DE OUTRO MORADOR. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, no qual se alega nulidade de prova decorrente de busca domiciliar sem fundadas razões.
+2. Fato relevante. A busca domiciliar resultou na apreensão de drogas e outros itens, após denúncia anônima e abordagem de indivíduo em situação suspeita.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a busca domiciliar realizada sem mandado judicial, mas com base em denúncia anônima e flagrante delito, configura prova nula.
+III. RAZÕES DE DECIDIR
+4. A busca domiciliar foi considerada válida, pois precedida de flagrante delito, dada a apreensão de drogas com terceiro quando acabará de sair da residência do réu, além de permissão de entrada por outro morador, configurando fundadas razões.
+5. A jurisprudência do STF e do STJ admite a busca domiciliar sem mandado em casos de flagrante delito, desde que haja fundadas razões.
+6. A reanálise do acervo fático-probatório é inviável em sede de recurso especial, impedindo a revisão das conclusões do Tribunal de origem.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FUNDADAS RAZÕES. APREENSÃO DE DROGAS ANTES DA ENTRADA NA RESIDÊNCIA EM BUSCA PESSOAL. UM TERCEIRO SAIU DA RESIDÊNCIA COM COMPRIMIDOS DE ECSTASY CUJA PROPRIEDADE ATRIBUÍU AO RÉU, QUE ESTAVA DENTRO DO IMÓVEL. ESTE MANTINHA EM DEPÓSITO 46 COMPRIMIDOS MDMA, 62,11G DE MACONHA, 10,52G DE COCAÍNA E 655ML DE DICLOROMETANO (LOLÓ). HOUVE CONSENTIMENTO DE OUTRO MORADOR. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, no qual se alega nulidade de prova decorrente de busca domiciliar sem fundadas razões.
+2. Fato relevante. A busca domiciliar resultou na apreensão de drogas e outros itens, após denúncia anônima e abordagem de indivíduo em situação suspeita.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a busca domiciliar realizada sem mandado judicial, mas com base em denúncia anônima e flagrante delito, configura prova nula.
+III. RAZÕES DE DECIDIR
+4. A busca domiciliar foi considerada válida, pois precedida de flagrante delito, dada a apreensão de drogas com terceiro quando acabará de sair da residência do réu, além de permissão de entrada por outro morador, configurando fundadas razões.
+5. A jurisprudência do STF e do STJ admite a busca domiciliar sem mandado em casos de flagrante delito, desde que haja fundadas razões.
+6. A reanálise do acervo fático-probatório é inviável em sede de recurso especial, impedindo a revisão das conclusões do Tribunal de origem.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violados os seguintes dispositivos: arts. 157, 245 e 564, IV, do CP, aduzindo que a condenação estaria baseada em prova nula, haja vista que a busca domiciliar teria ocorrido sem fundadas razões, contrariando inclusive a jurisprudência.
+A análise das razões motivadas na origem indica que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula nº 83/STJ, conforme se verifica da fundamentação adotada (e-STJ fls. 535/536):
+O apelante suscita ilegalidade das provas decorrentes da busca e apreensão domiciliar sob assertiva de que teria sido realizada sem mandado judicial, autorização e/ou justa causa por não haver fundadas suspeitas de flagrante delito.
+Vejamos.
+Extraem-se das narrativas dos policiais militares  Wanderson Ribeiro da Costa e Kelciano Ribeiro de Novais  que, em 9.3.2022, por volta das 18h50min, realizavam rondas pela Avenida Miguel Sutil, quando foram informados por vizinhos de uma residência, localizada à rua General Pirinel, nº 61, bairro Duque de Caxias, Cuiabá/MT, sobre a "intensa comercialização de substâncias entorpecentes" naquele local. Em diligências, após solicitar "apoio de outra viatura", visualizaram Tiago da Costa Lima saindo da casa, momento em que ele demonstrou nervosismo e intenção de retornar para o interior da residência ao perceber a aproximação da viatura. Revolveram abordá-lo e, em busca pessoal, foram localizados 3 (três) comprimidos de ecstasy, o qual informou que a droga pertencia ao apelante  ANDERSON ALMEIDA DA COSTA . O outro morador  Douglas  franqueou a entrada da equipe policial na residência, onde foram encontrados 46 (quarenta e seis) comprimidos de MDMA  ecstasy , com peso de 14,79g (catorze gramas e setenta e nove centigramas), 7 (sete) porções de maconha, com peso de 62,11g (sessenta e dois gramas e onze centigramas), 2 (duas) porções de cocaína, peso de 10,52g (dez gramas e cinquenta e dois decigramas), 2 (dois) frascos de lança perfume  diclorometano - "loló" , 1 (uma) balança de precisão e o valor de R$92,00 (noventa e dois reais), em espécie (ID 167703981; Relatório de Mídias - ID 167705190/ID 167705193).
+No caso, as apreensões de drogas, apetrechos e dinheiro, na residência do apelante ocorreram, após informações "anônimas" sobre a comercialização de substâncias 1  entorpecentes no local  rua General Pirinel, nº 61, bairro Duque de Caxias, Cuiabá/MT .
+Consigne-se que, no tráfico de drogas, a informação sem identificação do noticiante ou denunciante por temor reverencial, medo de represália e alienação moral ou física  realidade histórica no controle ao tráfico ilícito de drogas , possui relevância ao direito penal, visto que o silêncio/obediência da comunidade em relação aos traficantes de drogas constitui um mecanismo social de defesa diante do risco de morte e da inexistência de soluções institucionais adequadas (SILVA, Luiz Antônio Machado da Silva; LEITE, Márcia Pereira. Violência, crime e polícia: o que os favelados dizem quando falam desses temas . Disponível em: www.scielo.br).
+O c. STF firmou diretriz jurisprudencial que os agentes estatais devem permear suas ações com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante, cabendo ao Poder Judiciário aferir a presença de justa causa dessa diligência. Em outras palavras, "não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito, como na hipótese" (RHC 1.349.297 - Relator: Min. Alexandre de Moraes - 13.10.2021).
+Frise-se que, em entrevista à Revista Consultor Jurídico, na data de 8.5.2022  Disponível em: www.conjur.com.br , o i. Ministro Rogerio Schietti Cruz pontuou ser "legítima a ação do Estado" de impor sacrifício às liberdades individuais na hipótese de cometimento de crimes (Disponível em: www.conjur.com.br), notadamente porque a investigação envolve direito público que deve prevalecer sobre o direito individual, desde que sem abuso de autoridade e constrangimento ilegal, acrescenta-se. Por isso, cabem às instâncias ordinárias adotarem juízos críticos e valorativos nos casos concretos para não transformar a residência em local de salvo-conduto e impunidade, na hipótese de crimes permanentes (STF, HC nº 192.110 - Relator: Min. Alexandre de Moraes - 25.11.2020). (grifo nosso)
+Como se vê, adequada a fundamentação evidencia na origem, consignan do que o ingresso domiciliar foi precedido de apreensão de drogas (3 comprimidos de ecstasy), cuja posse foi atribuída ao réu, além de permissão de entrada de outro morador.
+Apurada a existência de drogas em contexto de traficância durante a busca pessoal, há a constatação da flagrância do delito permanente, a qual confere fundadas razões à busca domiciliar subsequente.
+No mesmo sentido, cite-se o seguinte precedente da Quinta Turma, cujo entendimento se assemelha ao adotado pelo acórdão recorrido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. CRIME DE TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. CASO CONCRETO. ADVERTÊNCIA DE DIREITO AO SILÊNCIO. SITUAÇÃO DE ATUAÇÃO EM FLAGRANTE. AMPLO REVOLVIMENTO FÁTICO PROBATÓRIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II No caso concreto, a fundada suspeita dos policiais residiu, não apenas na existência de diversas denúncias anônimas de que o paciente estaria praticando o tráfico de drogas em sua residência, mas também nas diversas campanas policiais, como diligências prévias ao flagrante, nas quais foi flagrado o paciente em atividades típicas de traficância. Ao procederem à abordagem finalmente, esta foi inicialmente em via pública, em busca veicular, quando ele espontaneamente confessou o delito. Na residência, foi encontrado, depois, mais de um quilo de cocaína.
+III - De qualquer forma, não há que se falar em invasão de domicílio, porque o próprio paciente (que, inclusive, acompanhou a diligência) indicou a localização da droga após a busca veicular e a confissão informal. (..)
+(HC 704331 / SC, RELATOR Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, DATA DO JULGAMENTO 14/12/2021, DATA DA PUBLICAÇÃO/FONTE DJe 16/12/2021)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
