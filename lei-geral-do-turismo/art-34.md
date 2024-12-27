@@ -5,3 +5,4 @@ III - manter em suas instalações, de forma visível, mecanismos que possibilit
 IV - manter, no exercício de suas atividades, estrita obediência aos direitos do consumidor e à legislação ambiental;
 V - manter, em local visível, mensagem referente à vedação da exploração sexual e do tráfico de crianças e adolescentes, conforme o disposto na Lei nº 11.577, de 22 de novembro de 2007;
 VI - viabilizar a ação fiscalizadora das autoridades competentes no exercício de suas funções.
+VII - inibir, no exercício de suas atividades, práticas que favoreçam o turismo sexual, entendido como a exploração sexual associada, diretamente ou não, à prestação de serviços turísticos.
