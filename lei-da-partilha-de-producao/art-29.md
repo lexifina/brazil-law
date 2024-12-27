@@ -17,8 +17,11 @@ XV - os critérios para devolução e desocupação de áreas pelo contratado, i
 XVI - as penalidades aplicáveis em caso de inadimplemento das obrigações contratuais;
 XVII - os procedimentos relacionados à cessão dos direitos e obrigações relativos ao contrato, conforme o disposto no art. 31;
 XVIII - as regras sobre solução de controvérsias, que poderão prever conciliação e arbitragem;
-XIX - o prazo de vigência do contrato, limitado a 35 (trinta e cinco) anos, e as condições para a sua extinção;
+XIX - o prazo de vigência do contrato, com duração de 35 (trinta e cinco) anos, e as condições fixadas pela União para sua extinção e prorrogação;
 XX - o valor e a forma de pagamento do bônus de assinatura;
 XXI - a obrigatoriedade de apresentação de inventário periódico sobre as emissões de gases que provocam efeito estufa - GEF, ao qual se dará publicidade, inclusive com cópia ao Congresso Nacional;
 XXII - a apresentação de plano de contingência relativo a acidentes por vazamento de petróleo, de gás natural, de outros hidrocarbonetos fluidos e seus derivados; e
 XXIII - a obrigatoriedade da realização de auditoria ambiental de todo o processo operacional de retirada e distribuição de petróleo e gás oriundos do pré-sal.
+§ 1º O disposto no inciso XIX do caput deste artigo aplica-se, inclusive, aos contratos de partilha de produção em curso na data da publicação desta Lei.
+§ 2º O procedimento para a prorrogação dos contratos de partilha de produção em curso, quando houver decisão para isso, constará de aditivo contratual firmado pelo Ministério de Minas e Energia com os contratados e com a empresa pública de que trata o § 1º do art. 8º desta Lei.
+§ 3º A prorrogação dos contratos ficará condicionada à demonstração de vantagem para a União.
