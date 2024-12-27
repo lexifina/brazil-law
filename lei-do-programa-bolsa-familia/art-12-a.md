@@ -1,0 +1,1 @@
+Art. 12-A. Os Municípios e o Distrito Federal, na atuação descentralizada da execução e da gestão do Programa Bolsa Família, deverão observar índice máximo de famílias compostas de 1 (uma) só pessoa inscritas no Programa, nos termos de ato do Poder Executivo federal.

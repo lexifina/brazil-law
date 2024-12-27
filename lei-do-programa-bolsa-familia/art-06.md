@@ -5,3 +5,6 @@ Art. 6º As famílias beneficiárias do Programa Bolsa Família cuja renda per c
 I - as famílias que voluntariamente se desligarem do Programa; e
 II - as famílias que forem desligadas do Programa em decorrência do término do período de 24 (vinte e quatro) meses previsto no caput deste artigo.
 § 4º Na hipótese prevista no § 3º deste artigo, a família deverá cumprir os requisitos para ingresso no Programa Bolsa Família estabelecidos nesta Lei e em regulamento.
+§ 5º Ato do Poder Executivo federal poderá alterar:
+I - o valor-limite de desligamento do Programa, observado o valor constante do § 1º deste artigo como máximo;
+II - o prazo a que se refere o § 2º deste artigo, não podendo ser superior ao prazo previsto no referido parágrafo.
