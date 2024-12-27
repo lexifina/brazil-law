@@ -1,0 +1,2 @@
+Altera as Leis nºs 13.999, de 18 de maio de 2020, e 12.087, de 11 de novembro de 2009, para assegurar que os recursos do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) sejam permanentes, e a Lei nº 15.042, de 11 de dezembro de 2023, para dispor sobre o valor mínimo obrigatório a ser aplicado na aquisição de créditos de carbono pelas entidades que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
