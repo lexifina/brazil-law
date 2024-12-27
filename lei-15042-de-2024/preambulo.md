@@ -1,0 +1,2 @@
+Institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE); e altera as Leis nºs 12.187, de 29 de dezembro de 2009, 12.651, de 25 de maio de 2012 (Código Florestal), 6.385, de 7 de dezembro de 1976 (Lei da Comissão de Valores Mobiliários), e 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
