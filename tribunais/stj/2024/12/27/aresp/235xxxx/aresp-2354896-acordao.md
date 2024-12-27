@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO DE PESSOAS. FORMALIDADES DO ART. 226 DO CPP. RECONHECIMENTO NA FASE POLICIAL RATIFICADO EM JUÍZO SOB O CRIVO DO CONTRADITÓRIO E AMPLA DEFESA. REGISTRO DE IMAGENS FEITO POR UMA CÂMERA PRÓXIMA AO LOCAL DO CRIME. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, no qual se discute a validade do reconhecimento de pessoa sem a observância das formalidades do art. 226 do CPP.
+2. O acórdão recorrido negou provimento ao recurso, fundamentando que a inobservância das formalidades do art. 226 do CPP não acarreta nulidade do reconhecimento na fase policial, quando ratificado em juízo sob o crivo do contraditório e da ampla defesa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a inobservância das formalidades do art. 226 do CPP invalida o reconhecimento de pessoa realizado na fase do inquérito policial, quando este é ratificado em juízo.
+III. Razões de decidir
+4. A jurisprudência do STJ entende que a inobservância das formalidades do art. 226 do CPP não invalida o reconhecimento de pessoa, desde que este seja ratificado em juízo e corroborado por outras provas colhidas sob o crivo do contraditório e da ampla defesa.
+5. No caso concreto, a autoria delitiva foi estabelecida com base em outros elementos probatórios além do reconhecimento fotográfico, como a prisão em flagrante e a confirmação do reconhecimento em juízo.
+6. A reanálise do acervo fático-probatório dos autos é necessária para superar as conclusões alcançadas na origem, o que impede a atuação excepcional do STJ.
+IV. Dispositivo e tese
+7. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO DE PESSOAS. FORMALIDADES DO ART. 226 DO CPP. RECONHECIMENTO NA FASE POLICIAL RATIFICADO EM JUÍZO SOB O CRIVO DO CONTRADITÓRIO E AMPLA DEFESA. REGISTRO DE IMAGENS FEITO POR UMA CÂMERA PRÓXIMA AO LOCAL DO CRIME. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, no qual se discute a validade do reconhecimento de pessoa sem a observância das formalidades do art. 226 do CPP.
+2. O acórdão recorrido negou provimento ao recurso, fundamentando que a inobservância das formalidades do art. 226 do CPP não acarreta nulidade do reconhecimento na fase policial, quando ratificado em juízo sob o crivo do contraditório e da ampla defesa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a inobservância das formalidades do art. 226 do CPP invalida o reconhecimento de pessoa realizado na fase do inquérito policial, quando este é ratificado em juízo.
+III. Razões de decidir
+4. A jurisprudência do STJ entende que a inobservância das formalidades do art. 226 do CPP não invalida o reconhecimento de pessoa, desde que este seja ratificado em juízo e corroborado por outras provas colhidas sob o crivo do contraditório e da ampla defesa.
+5. No caso concreto, a autoria delitiva foi estabelecida com base em outros elementos probatórios além do reconhecimento fotográfico, como a prisão em flagrante e a confirmação do reconhecimento em juízo.
+6. A reanálise do acervo fático-probatório dos autos é necessária para superar as conclusões alcançadas na origem, o que impede a atuação excepcional do STJ.
+IV. Dispositivo e tese
+7. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violados os seguintes dispositivos, art. 226 do CPP.
+A análise das razões motivadas na origem indica que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula nº 83/STJ, conforme se verifica da fundamentação adotada:
+Vale enfatizar, como bem elucidado pelo Relator, que a ação dos criminosos e sua fuga foi registrada pelo circuito de câmeras da loja Center Kennedy, a qual fica nas proximidades do local do crime. Ao obter acesso às imagens das câmeras, a ofendida reconheceu o denunciado WALEX como sendo um dos autores do delito que a vitimou, tendo reconhecido também por fotografia na fase policial e confirmando suas afirmações na audiência de instrução e julgamento.
+ ..
+O Ilustre Relator Originário, Desembargador Carmo Antônio, negou provimento ao recurso, fundamentando sua decisão com base no entendimento jurisprudencial, que informa que a inobservância de formalidades contidas no art. 266 do CPP não tem o predicado de acarretar a nulidade do reconhecimento na fase policial, quando foi devidamente ratificado em juízo sob o crivo do contraditório e da ampla defesa.
+Desse modo, constato que não há qualquer nulidade processual a ser sanada, data vênia o entendimento do Eminente Vogal, Desembargador João Lages.
+No que concerne à alegada irregularidade processual, noto que os motivos que fundamentam a decisão, estão expostos com clareza e objetividade no acórdão proferido no evento nº 145, e de forma alguma revelam qualquer vício. Tendo a referida decisão sido alicerçada em todo o conjunto probatório trazido aos autos, bem como na legislação vigente, não havendo o que se falar em qualquer requisito que autoriza a reforma no decisum.
+No mesmo sentido, cite-se o seguinte precedente da Quinta Turma, cujo entendimento se assemelha ao adotado pelo acórdão recorrido:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. FALSA IDENTIDADE. PLEITO DE ABSOLVIÇÃO. RECONHECIMENTO FOTOGRÁFICO. PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. INOBSERVÂNCIA. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. INVALIDADE DA PROVA. AUTORIA ESTABELECIDA COM BASE EM OUTROS ELEMENTOS PROBATÓRIOS. ABSOLVIÇÃO INVIÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.(..)2. Esta Corte Superior inicialmente entendia que "a validade do reconhecimento do autor de infração não está obrigatoriamente vinculada à regra contida no art. 226 do Código de Processo Penal, porquanto tal dispositivo veicula meras recomendações à realização do procedimento, mormente na hipótese em que a condenação se amparou em outras provas colhidas sob o crivo do contraditório.3. Em julgados recentes, ambas as Turmas que compõe a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa.4. Dos elementos probatórios que instruem o feito, verifica-se que a autoria delitiva do crime de roubo não tem como único elemento de prova o reconhecimento fotográfico, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial. Na hipótese, além de a vítima ter descrito as características do paciente e o reconhecido, por meio de foto, perante a autoridade policial, o reconhecimento foi confirmado, sem dúvidas, em juízo. Ademais, o paciente foi preso em flagrante, poucas horas depois do crime, ao desembarcar da garupa de uma motocicleta pilotada por outro agente que logrou fugir, e entrar no veículo roubado, com as chaves originais, e tentar liga-lo, quando foi surpreendido pelos policiais que estavam em campana. Outrossim, no momento da prisão em flagrante os policiais encontraram o paciente "munido de diversas ferramentas, além de ter fornecido identidade falsa à polícia para esconder seus antecedentes", tendo o juízo sentenciante ressaltado que "nada há nos autos que sustente a versão do indigitado de que não praticou roubo, mas foi apenas contratado para transportar o veículo, porque, se assim fosse, qual o sentido de utilizar ferramentas para remover peças do automóvel. No mais, não se preocupou em dizer onde estaria no dia e hora da ação criminosa e já estava munido com identidade falsa, e sem o aparelho de monitoramento eletrônico ao que foi submetido, justamente em razão de práticas delituosas anteriores à atual, não havendo que se falar em nsuficiência de provas para a condenação, como almejado pela defesa".5. Agravo regimental não provido.(AgRg no HC n. 746.378/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022).Grifos acrescidos.
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
