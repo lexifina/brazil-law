@@ -1,0 +1,2 @@
+Altera as Leis nºs 8.171, de 17 de janeiro de 1991 (Lei da Política Agrícola), 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), 14.601, de 19 de junho de 2023 (Lei do Programa Bolsa Família), e 14.995, de 10 de outubro de 2024, para dispor sobre políticas públicas; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
