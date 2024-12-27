@@ -1,0 +1,1 @@
+Altera a Lei nº 8.212, de 24 de julho de 1991 (Lei Orgânica da Seguridade Social), e a Lei nº 8.213, de 24 de julho de 1991 (Lei de Benefícios da Previdência Social), para dispor sobre a condição de segurado especial dos associados em cooperativas.
