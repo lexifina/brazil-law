@@ -1,0 +1,223 @@
+ANEXO II
+
+CARGO
+
+ATRIBUIÇÕES
+
+Sem prejuízo de outras atribuições definidas por resolução do Conselho Superior da Defensoria Pública.
+
+ASSESSOR DE MEMBRO DA DEFENSORIA PÚBLICA
+
+Desempenhar atividades auxiliares ao membro da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;
+
+Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.
+
+DIRETOR FINANCEIRO E CONTÁBIL
+
+Coordenar as atividades de orçamento, finanças e contabilidade no âmbito da DPE;
+
+Acompanhar e avaliar a programação orçamentária e financeira da Defensoria Pública;
+
+Estabelecer diretrizes básicas com o intuito de padronizar e racionalizar os procedimentos orçamentários, financeiros e operacionais em todos os níveis da Defensoria Pública;
+
+Examinar, consolidar e assessor a Defensoria Pública-Geral na elaboração das propostas orçamentárias.
+
+DIRETOR DE CONTRATOS E CONVÊNIOS
+
+Acompanhar a celebração dos convênios, contratos e termos aditivos, com a coleta das assinaturas, providenciando, posteriormente, a juntada dos comprovantes de publicação do extrato e encaminhamento à unidade organizacional demandante com confirmação do lançamento dos
+
+instrumentos nos sistemas do Tribunal de Contas do Estado, quando for o caso;
+
+Manter controle individualizado e atualizado de cada contrato;
+
+Instruir o processo com os documentos necessários às alterações contratuais e demais as providências necessárias para o aditamento contratual, apostilamento.
+
+DIRETOR DE COMPRAS
+
+Realizar atividades relacionadas à gerência de compras, contratos e licitações da Defensoria Pública;
+
+Formular políticas públicas administrativas e exercer a supervisão, a execução e o controle dos procedimentos técnicos e administrativos inerentes à administração de compras, contratos e licitações.
+
+DIRETOR DE TRANSPORTE
+
+Realizar atividades relacionadas com o transporte de funcionários e pessoas credenciadas, documentos e conservação de veículos e executar outras atividades afins à sua área de atuação, respeitados os regulamentos do serviço previstos na Defensoria Pública.
+
+DIRETOR DE ALMOXARIFADO E PATRIMÔNIO
+
+Manter almoxarifado para guarda, controle e preservação de material, promover e coordenar a manutenção, aproveitamento e recuperação dos bens móveis e imóveis; confeccionar os inventários e demonstrativos periódicos dos bens em almoxarifado, respeitados os regulamentos do serviço previstos no Regimento Interno da Defensoria Pública.
+
+COORDENADOR DA UNIDADE DE RECURSOS HUMANOS
+
+O Coordenador da Unidade de Recursos Humanos da Defensoria Pública é responsável por coordenar as atividades de gestão de pessoas, assegurando o cumprimento das normas legais e institucionais. Suas atribuições incluem monitorar provimentos e vacâncias, e subsidiar a elaboração lista de antiguidade, de editais e a execução de concursos públicos. É encarregado do processo de nomeação e posse de membros efetivos e comissionados, da atualização de dados no sistema de gestão e folha de pagamento, e da realização de pesquisas de desligamento para propor melhorias na gestão de pessoas.
+
+Também promove a integração de novos membros, mantém atualizado o banco de dados e emite relatórios estratégicos. Proporciona ações de capacitação e desenvolvimento de membros, monitorando indicadores de desempenho e promovendo iniciativas de valorização. Além disso, assegura a conformidade de todas as ações com as normas vigentes e assessora a alta gestão em questões relacionadas à administração de recursos humanos.
+
+ASSESSOR DA CONTROLADORIA
+
+Desempenhar atividades auxiliares à Controladoria da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei.
+
+CONSULTOR FINANCEIRO
+
+Desempenhar atividades auxiliares ao Diretor Financeiro e Contábil, consistentes na consultoria financeira, com vista à realização de suas atribuições, previstas em lei.
+
+ASSESSOR ESPECIAL AO GABINETE DO DEFENSOR PÚBLICO-GERAL
+
+Desempenhar atividades auxiliares à Defensoria Pública-Geral, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;
+
+Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.
+
+CONSULTOR JURÍDICO
+
+Desempenhar atividades auxiliares à Defensoria Pública-Geral e a 2ª Subdefensoria Pública-Geral Jurídica, consistentes na consultoria jurídica, com vista à realização de suas atribuições, previstas em lei.
+
+FISCAL DE CONTRATOS
+
+Desempenhar atividades voltadas ao acompanhamento, fiscalização e controle da execução de contratos administrativos firmados pela Defensoria Pública, com vista à realização de suas atribuições, previstas em lei.
+
+Monitorar a execução dos contratos sob os aspectos técnico, administrativo, operacional e financeiro, garantindo o cumprimento integral dos termos contratuais.
+
+Registrar ocorrências e elaborar relatórios periódicos sobre a execução contratual, apontando eventuais não conformidades.
+
+Dar conhecimento à Coordenação de Gestão, quando necessário, para regularização de obrigações contratuais.
+
+Auxiliar na análise de processos administrativos relativos à execução de contratos e seus aditamentos.
+
+SUPERVISOR DE FISCAL DE CONTRATOS
+
+Coordenar e supervisionar as atividades dos Fiscais de Contratos, assegurando o acompanhamento efetivo e a fiscalização das contratações administrativas da Defensoria Pública, com vista à realização de suas atribuições, previstas em lei.
+
+Supervisionar os Fiscais de Contratos, orientando quanto às melhores práticas e procedimentos na fiscalização contratual, substituindo-os quando necessário.
+
+Consolidar relatórios de fiscalização elaborados pelos Fiscais de Contratos, analisando os resultados e propondo melhorias ou ações corretivas. Coordenar a comunicação entre a administração e as empresas contratadas, garantindo o alinhamento das ações com os objetivos contratuais. Assessorar a alta gestão na tomada de decisões relacionadas à execução e fiscalização de contratos administrativos. Garantir o cumprimento das normas legais e regulamentares na execução contratual, promovendo treinamentos e capacitações para os Fiscais de Contratos. Intermediar a resolução de conflitos ou problemas de maior complexidade identificados durante a execução dos contratos.
+
+ASSESSOR DA COORDENADORIA DE GESTÃO
+
+Desempenhar atividades auxiliares à Coordenadoria de Planejamento e Gestão da Defensoria Pública de Pernambuco, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;
+
+Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.
+
+ASSESSOR DA ESCOLA SUPERIOR
+
+Desempenhar atividades auxiliares à Escola Superior da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;
+
+Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.
+
+DIRETOR DA ASSESSORIA DE COMUNICAÇÃO
+
+Prestar assessoramento nos assuntos relacionados à comunicação social aos órgãos da Administração Superior e aos demais órgãos da Defensoria Pública, promover a divulgação das atividades da Defensoria Pública, manter e atualizar o Portal da Defensoria Pública na internet e nas redes sociais, desenvolver e zelar pela aplicação do manual da identidade visual da Defensoria Pública, recepcionar as demandas da imprensa com relação às informações produzidas pela Defensoria Pública, elaborar produtos de comunicação interna que possuem publicidade e transparência às principais informações da Defensoria Pública, elaborar e executar o planejamento de comunicação interna e externa da Defensoria Pública.
+
+DIRETOR DA TECNOLOGIA DE INFORMAÇÃO
+
+Dirigir os processos de informatização, gestão de recursos tecnológicos da Defensoria Pública, coordenar, planejar, executar e supervisionar as atividades da instituição na área de tecnologia da informação.
+
+Desenvolver atividades administrativas e técnicas relacionadas ao desenvolvimento, à implantação e à manutenção de sistemas, projetos e desenvolvimento de programas de computador, planejamento de hipertextos, respeitados os regulamentos do serviço previstos na Defensoria Pública.
+
+ASSESSOR DA TECNOLOGIA DE INFORMAÇÃO
+
+Desempenhar atividades auxiliares ao Departamento de Tecnologia da Informação, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei.
+
+ANEXO III
+
+SIMBOLOGIA
+
+VENCIMENTO
+
+REPRESENTAÇÃO
+
+VALOR
+
+ASDEF
+
+R$ 500,99
+
+R$ 2.003,96
+
+R$ 2.504,95
+
+DEF/CC-2
+
+R$ 750,75
+
+R$ 3.083,01
+
+R$ 3.853,76
+
+DEF-1
+
+R$ 2.312,25
+
+R$ 9.249,03
+
+R$ 11.561,28
+
+DEF-2
+
+R$ 1.695,65
+
+R$ 6.782,61
+
+R$ 8.478,26
+
+DEF-3
+
+R$ 1.425,90
+
+R$ 5.703,56
+
+R$ 7.129,46
+
+DEF-4
+
+R$ 1.310,28
+
+R$ 5.241,11
+
+R$ 6.551,39
+
+DEF-5
+
+R$ 1.079,06
+
+R$ 4.316,21
+
+R$ 5.395,27
+
+Art. 3º A Lei Complementar n° 20, de 9 de junho de 1998 , passa a vigorar com as seguintes alterações:
+
+“Art. 19-A. A criação, implantação, disposição e definição dos órgãos de execução das defensorias púbicas serão definidas em Resolução do Conselho Superior da Defensoria Pública, de acordo com fatores inerentes ao volume ou a demanda de ações e processos de interesse da população de baixa renda assistida, observado o necessário critério da regionalização e da divisão jurisdicional das comarcas.” (AC)
+
+‘Art. 42. ............................................................................................................
+
+..........................................................................................................................
+
+§ 1º A gratificação por acumulação será devida a cada Defensor Público, a critério da Defensoria Pública-Geral, desde que haja dotação orçamentária, em virtude de acumulação de Núcleos ou Defensorias Públicas, Unidades Jurisdicionais ou Unidades Prisionais, por mais de 30 dias, cujos valores encontram-se descritos no Anexo I desta Lei Complementar. (NR)
+
+§ 1º-A. Os valores de que trata o Anexo I poderão ser alterados na forma do § 5° desta Lei Complementar. (AC)
+
+..........................................................................................................................
+
+§ 4° O membro da Defensoria Pública terá direito à compensação de plantão ou sua indenização em pecúnia, desde que realizados no interesse da administração e previamente autorizados pela Defensoria Pública-Geral, na forma a ser disciplinada em Resolução do Conselho Superior da Defensoria Pública. (AC)
+
+§ 5° As verbas de caráter indenizatório deverão ser disciplinadas pela Defensoria Pública-Geral, mediante estudo de viabilidade da Coordenadoria de Gestão e desde que haja dotação orçamentária. (AC)
+
+“Art. 43. ............................................................................................................
+
+Parágrafo único. Os Defensores Públicos do Estado poderão ter direito a indenização em pecúnia de 1/3 (um terço) dos dias de férias, no interesse da Administração e desde haja dotação orçamentária.” (AC)
+
+“Art. 52. ............................................................................................................
+
+..........................................................................................................................
+
+§ 6º As penas disciplinares serão aplicadas pela Defensoria Pública-Geral, garantida sempre a ampla defesa, sendo obrigatório processo administrativo disciplinar. (NR)
+
+§ 7º Os prazos prescricionais relativamente às faltas disciplinares observarão o disposto na legislação relativa aos servidores públicos estaduais.” (NR)
+
+Art. 4º As despesas decorrentes desta Lei Complementar correrão por conta de dotação orçamentária própria da Defensoria Pública do Estado de Pernambuco.
+
+Art. 5º Esta Lei Complementar entra em vigor na data de sua publicação, com seus efeitos financeiros a partir de 1º de janeiro de 2025.
+
+Palácio Joaquim Nabuco, Recife, 26 de dezembro do ano de 2024, 208º da Revolução Republicana Constitucionalista e 203º da Independência do Brasil.
+
+ÁLVARO PORTO
+
+Presidente
