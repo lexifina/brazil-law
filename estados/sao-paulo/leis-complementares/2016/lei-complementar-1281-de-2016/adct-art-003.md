@@ -1,0 +1,1 @@
+Artigo 3° - Ato do Secretário da Fazenda disciplinará a permanência, ou não, na função de Corregedor Fiscal, dos Agentes Fiscais de Rendas que estiverem exercendo a referida função na data da publicação desta lei complementar.
