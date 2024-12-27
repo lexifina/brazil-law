@@ -1,0 +1,1 @@
+Altera a Lei nº 9.478, de 6 de agosto de 1997, para autorizar a transferência de excedentes de conteúdo local entre contratos para exploração e produção de petróleo e gás natural vigentes; altera as Leis nºs 12.304, de 2 de agosto de 2010, 12.351, de 22 de dezembro de 2010, e 14.871, de 28 de maio de 2024; e revoga a Medida Provisória nº 1.255, de 26 de agosto de 2024.
