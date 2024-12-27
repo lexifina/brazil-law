@@ -1,0 +1,1 @@
+Artigo 2° - Até que seja instituída a Comissão de Centralização das Informações dos Serviços Públicos do Estado de São Paulo, suas atribuições serão exercidas pela Fundação Sistema Estadual de Análise de Dados - SEADE, criada pela Lei n. 1.866, de 4 de dezembro de 1978.
