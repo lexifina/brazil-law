@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. ATUAÇÃO DA GUARDA MUNICIPAL EM FLAGRANTE DELITO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, no qual se pleiteava a absolvição do recorrente pela prática de roubo, sob o argumento de que a busca pessoal e veicular realizada por guardas municipais, que resultou na apreensão dos objetos subtraídos, foi ilegal e deveria ser anulada.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a atuação da Guarda Municipal em situação de flagrante delito, ao realizar busca pessoal e veicular, configura nulidade absoluta por violação de competência constitucional.
+III. Razões de decidir
+3. A atuação da Guarda Municipal em situação de flagrante delito está respaldada pelo art. 301 do Código de Processo Penal, que permite a qualquer do povo realizar prisão em flagrante.
+4. A jurisprudência do Superior Tribunal de Justiça reconhece a legitimidade da atuação da Guarda Municipal em casos de flagrante delito, não configurando ilegalidade ou abuso de poder.
+5. O acórdão recorrido está em conformidade com os precedentes desta Corte, não havendo divergência jurisprudencial que justifique o conhecimento do recurso especial.
+IV. Dispositivo e tese
+6. Recurso desprovido.
+Tese de julgamento: "1. A atuação da Guarda Municipal em situação de flagrante delito é legítima e não configura nulidade, desde que observados os requisitos legais. 2. A prisão em flagrante pode ser realizada por qualquer do povo, conforme art. 301 do CPP.".
+Dispositivos relevantes citados: CPP, art. 301.
+Jurisprudência relevante citada: STJ, AgRg no HC 748.019/SP, Rel. Min. Ribeiro Dantas, DJe 22/08/2022; STJ, AgRg no HC 711.356/SP, Rel. Min. Joel Ilan Paciornik, DJe 03/05/2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEX EMANOEL FELIX DA SILVA contra a decisão de fls. 880-885, por meio da qual o recurso especial deixou de ser conhecido.
+Nas razões recursais, a Defesa alega que "O fato de terem sido encontrados os bens da vítima NÃO convalida a abordagem efetuada pela Guarda Municipal, uma vez que não havia fundada suspeita de que os indivíduos que estavam dentro do veículo também estavam na posse dos bens da vítima e os fatos não estavam relacionados de maneira clara, direta e imediata contra os bens, serviços e instalações municipais. Logo, não há como se admitir que a mera descoberta casual de situação de flagrância posterior a revista dos indivíduos, incluindo o Paciente, justifique a medida, pois realizada por quem na o detinha competência para o ato" e que "o acordão prolatado pelo Tribunal a quo não esta amparado pelos precedentes desta Corte Superior de Justiça quanto ao tema aventado" (fls. 891/899). Requer que seja reconsiderada a decisão para que seja o recurso conhecido e provido.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. ATUAÇÃO DA GUARDA MUNICIPAL EM FLAGRANTE DELITO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, no qual se pleiteava a absolvição do recorrente pela prática de roubo, sob o argumento de que a busca pessoal e veicular realizada por guardas municipais, que resultou na apreensão dos objetos subtraídos, foi ilegal e deveria ser anulada.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a atuação da Guarda Municipal em situação de flagrante delito, ao realizar busca pessoal e veicular, configura nulidade absoluta por violação de competência constitucional.
+III. Razões de decidir
+3. A atuação da Guarda Municipal em situação de flagrante delito está respaldada pelo art. 301 do Código de Processo Penal, que permite a qualquer do povo realizar prisão em flagrante.
+4. A jurisprudência do Superior Tribunal de Justiça reconhece a legitimidade da atuação da Guarda Municipal em casos de flagrante delito, não configurando ilegalidade ou abuso de poder.
+5. O acórdão recorrido está em conformidade com os precedentes desta Corte, não havendo divergência jurisprudencial que justifique o conhecimento do recurso especial.
+IV. Dispositivo e tese
+6. Recurso desprovido.
+Tese de julgamento: "1. A atuação da Guarda Municipal em situação de flagrante delito é legítima e não configura nulidade, desde que observados os requisitos legais. 2. A prisão em flagrante pode ser realizada por qualquer do povo, conforme art. 301 do CPP.".
+Dispositivos relevantes citados: CPP, art. 301.
+Jurisprudência relevante citada: STJ, AgRg no HC 748.019/SP, Rel. Min. Ribeiro Dantas, DJe 22/08/2022; STJ, AgRg no HC 711.356/SP, Rel. Min. Joel Ilan Paciornik, DJe 03/05/2022.
+VOTO
+A insurgência não merece ser acolhida. O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+Na hipótese dos autos, conforme relatado, a controvérsia suscitada neste recurso especial consiste em analisar a possibilidade de absolvição do recorrente pela prática da conduta prevista no art. 157, inciso II, do Código Penal, tendo em vista que, segundo as razões recursais, a busca pessoal e veicular com a apreensão dos objetos subtraídos foi realizada por guardas municipais, sem observância dos requisitos legais e constitucionais, devendo ser anulada e desentranhada dos autos.
+De início, a via especial não se presta à análise de ofensa a dispositivo da Constituição da República. Portanto, a aduzida violação ao art. 144, § 8º, da CF, não pode ser apreciada em sede de recurso especial, uma vez que o exame da matéria é de competência do Supremo Tribunal Federal nos termos do art. 102, inciso III, da Carta Magna.
+Sendo este o entendimento desta Corte Superior:
+"1. Não cabe em recurso especial a análise de apontamento de violação a dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. (..)" (AgRg no AgRg no AREsp n. 2.436.084/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, D Je de 6/6/2024.)
+Ademais, com relação ao pleito de nulidade da prova diante de sua ilicitude, o Tribunal de origem considerou hígida a busca pessoal e veicular realizada pelos guardas municipais e, por consequência, manteve intacta a condenação, concluindo que (fl. 821):
+"Pois bem, o que se tem da prova produzida, em resumo, é que o requerente e demais agentes estavam em um veículo Gol branco e pararam o carro, desembarcaram desse e abordaram a vítima, que estava a pé, e, mediante o uso de simulacro de arma de fogo, subtraíram os pertences dessa.
+Extrai-se, ademais, que logo na sequência o ofendido encontrou com Agentes da Guarda Municipal e narrou para eles o delito, passando as características do veículo e dos indivíduos, tendo ido com os Guardas atrás dos supostos autores e, após cerca de 10 (dez) minutos, lograram êxito em localizar o carro utilizado pelos acusados, momento em que a vítima reconheceu o veículo, os indivíduos, bem como os seus pertences, que ainda estavam na posse do requerente e dos corréus.
+É bem verdade que as atividades de investigação e de patrulhamento ostensivo não cabem à Guarda Municipal (art. 144, § 8º, da CF), porém, a jurisprudência do egrégio Superior Tribunal de Justiça já firmou entendimento no sentido de que "os integrantes da guarda municipal não desempenham a função de policiamento ostensivo; todavia, em situações de flagrante delito, como restou evidenciado ser o caso, a atuação dos agentes municipais está respaldada no comando legal do art. 301 do Código de Processo Penal" (AgRg no HC n. 711.356/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/4 /2022, D Je de 3/5/2022).
+Inclusive, a teor do que dispõe o artigo 301 do Código de Processo Penal, " qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem de modo que inexiste ilegalidade na prisão emquer que seja encontrado em flagrante delito", flagrante operada por Guardas Municipais.
+O que se depreende dos autos é que não houve qualquer investigação por parte dos Guardas Municipais, mas se tratava de situação de flagrante delito.
+Logo, não resta configurada qualquer ilegalidade na atuação dos Guardas Municipais, não sendo possível o acolhimento do pleito defensivo."
+Quanto à atuação da Guarda Civil Municipal como causa de nulidade absoluta, configurada pela realização de prisão em flagrante, esta Corte, há muito, firmou o entendimento de que, à luz do artigo 301 do Código de Processo Penal, "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito" (AgRg no HC n. 748.019/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, D Je de 22/08/2022).
+Convém registrar que o art. 144, § 8º, da Constituição Federal prevê, como órgão componente do Sistema de Segurança Pública, a Guarda Municipal, verbis:
+"Art. 144. A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos:
+(..)
+§ 8º Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei."
+Inclusive, o Supremo Tribunal Federal assentou o entendimento de que as Guardas Municipais integram o Sistema de Segurança Pública, no julgamento da ADPF 995, cujo julgado ficou assim ementado:
+"DIREITO CONSTITUCIONAL E SEGURANÇA PÚBLICA. ART. 144, §8º, DA CONSTITUIÇÃO. RECONHECIMENTO DAS GUARDAS MUNICIPAIS COMO ÓRGÃO DE SEGURANÇA PÚBLICA. LEGÍTIMA OPÇÃO DO CONGRESSO NACIONAL AO INSTITUIR O SISTEMA ÚNICO DE SEGURANÇA PÚBLICA (LEI Nº 13.675/18). PRECEDENTES. PROCEDÊNCIA DO PEDIDO.
+1. É evidente a necessidade de união de esforços para o combate à criminalidade organizada e violenta, não se justificando, nos dias atuais da realidade brasileira, a atuação separada e estanque de cada uma das Polícias Federal, Civis e Militares e das Guardas Municipais; pois todas fazem parte do Sistema Único de Segurança Pública.
+2. Essa nova perspectiva de atuação na área de segurança pública, fez com que o Plenário desta Suprema Corte, no julgamento do RE 846.854/SP, reconhecesse que as Guardas Municipais executam atividade de segurança pública (art. 144, § 8º, da CF), essencial ao atendimento de necessidades inadiáveis da comunidade (art. 9º, § 1º, da CF).
+3. O reconhecimento dessa posição institucional das Guardas Municipais possibilitou ao , com CONGRESO NACIONAL, em legítima opção legislativa, no § 7º do artigo 144 da Constituição Federal, editar a Lei nº 13.675, de 11/6/2018, na qual as Guardas Municipais são colocadas como integrantes operacionais do Sistema Único de Segurança Pública (art. 9º, § 1º, inciso VII).
+4. O quadro normativo constitucional e jurisprudencial dessa SUPREMA CORTE em relação às Guardas Municipais permite concluir que se trata de órgão de segurança pública, integrante do Sistema Único de Segurança Pública (SUSP).
+5. Arguição de Descumprimento de Preceito Fundamental conhecida e julgada procedente para, nos termos do artigo 144, §8º da CF, CONCEDER INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO aos artigo 4º da Lei 13.022/14 e artigo 9º da 13.675/18 DECLARANDO INCONSTITUCIONAL todas as interpretações judiciais que excluam as Guardas Municipais, devidamente criadas e instituídas, como integrantes do Sistema de Segurança Pública" (ADPF 995, Relator Alexandre de Moraes, Tribunal Pleno, julgado em 28/08/2023, D Je 09/10/2023).
+Ressalte-se que o julgamento do HC n. 830.530/SP pela Terceira Seção do Superior Tribunal de Justiça, em 27/09/2023, em momento algum invalidou a possibilidade de atuação da Guarda Municipal em caso de flagrante delito. Confira-se o acórdão a esse respeito:
+"HABEAS CORPUS. ATUAÇÃO DAS GUARDAS MUNICIPAIS. EXERCÍCIO DE ATIVIDADE DE SEGURANÇA PÚBLICA QUE NÃO SE EQUIPARA POR COMPLETO ÀS POLÍCIAS. ART. 301 DO CPP. FLAGRANTE DELITO. TRÁFICO DE DROGAS. NÃO OCORRÊNCIA. ART. 244 DO CPP. BUSCA PESSOAL. AUSÊNCIA DE RELAÇÃO COM AS FINALIDADES DA GUARDA MUNICIPAL. IMPOSSIBILIDADE. PROVA ILÍCITA. ORDEM CONCEDIDA.
+(..)
+13. Verifica-se, portanto, que, mesmo a proteção da população do município, embora se inclua nas atribuições das guardas municipais, deve respeitar as competências dos órgãos federais e estaduais e está vinculada ao contexto de utilização dos bens, serviços e instalações municipais, o que evidencia a total compatibilidade com a tese proposta no presente voto de que: " ..  salvo na hipótese de flagrante delito, só é possível que as guardas municipais realizem excepcionalmente busca pessoal se, além de justa causa para a medida (fundada suspeita), houver pertinência com a necessidade de tutelar a integridade de bens e instalações ou assegurar a adequada execução dos serviços municipais, assim como proteger os seus respectivos usuários".
+(..)" (HC n. 830.530/SP, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, D Je de 4/10/2023).
+Consoante se extrai dos excertos do acórdão recorrido, verifico que a circunstância em que o agravante foi encontrado e reconhecido pela vítima, cerca de 10 (dez) minutos após o cometimento do delito, no interior do veículo utilizado na empreitada criminosa e na posse dos objetos roubados, denota a certeza de que havia uma situação de flagrante delito.
+Dessarte, apesar de a função constitucional das Guardas Municipais ser restrita à proteção dos bens, serviços e instalações dos Entes Municipais, não se verifica, no caso concreto, qualquer ilegalidade ou abuso de poder na sua atuação, tendo em vista que a prisão foi efetuada em típico flagrante, cuja atuação poderia ter sido ser realizada até mesmo por qualquer do povo e sem ordem judicial específica, não havendo que se falar, portanto, em nulidade.
+Dessa forma, conforme demonstrado, o acórdão prolatado pelo Tribunal a quo está amparado pelos precedentes desta Corte Superior de Justiça quanto ao tema aventado, incide, no caso, o Enunciado Sumular n. 83, STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.".
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
