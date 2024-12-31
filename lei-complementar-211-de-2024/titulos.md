@@ -1,0 +1,1 @@
+Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências.
