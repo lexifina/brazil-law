@@ -1,0 +1,1 @@
+Art. 5º-A. O crescimento anual de despesa anualizada sujeita ao limite de que trata o inciso I do caput do art. 3º, decorrente de criação ou prorrogação de benefícios da seguridade social pela União, fica limitado pelas regras de correção do limite de crescimento da despesa previstas nos arts. 4º e 5º desta Lei Complementar.
