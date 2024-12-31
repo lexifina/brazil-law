@@ -2,6 +2,7 @@ Art. 5º A estrutura organizacional das entidades de que trata esta Lei será co
 § 1º Os Conselhos Deliberativos terão composição paritária e cada um será integrado por 6 (seis) membros.
 § 2º Os Conselhos Fiscais terão composição paritária e cada um deles será integrado por 4 (quatro) membros.
 § 3º Os membros dos conselhos deliberativos e dos conselhos fiscais das entidades fechadas serão designados pelos Presidentes da República e do Supremo Tribunal Federal e por ato conjunto dos Presidentes da Câmara dos Deputados e do Senado Federal, respectivamente. 8+7
+§ 3º-A A designação dos membros dos conselhos deliberativos e dos conselhos fiscais das entidades fechadas representantes dos participantes e dos assistidos poderá ser delegada pelas autoridades de que trata o § 3º.
 § 4º A presidência dos conselhos deliberativos será exercida pelos membros indicados pelos patrocinadores, na forma prevista no estatuto das entidades fechadas de previdência complementar.
 § 5º A presidência dos conselhos fiscais será exercida pelos membros indicados pelos participantes e assistidos, na forma prevista no estatuto das entidades fechadas de previdência complementar.
 § 6º As diretorias executivas serão compostas, no máximo, por 4 (quatro) membros, nomeados pelos conselhos deliberativos das entidades fechadas de previdência complementar.
