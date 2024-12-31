@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2246, de 30 de dezembro de 2024
+Altera a Instrução Normativa RFB nº 2.161, 28 de setembro de 2023, que dispõe sobre os preços de transferência a serem praticados nas transações efetuadas por pessoa jurídica domiciliadas no Brasil com partes relacionadas no exterior e dá outras providências.
+A SECRETÁRIA ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTA, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto o disposto tendo em vista o disposto na Lei nº 14.596, de 14 de junho de 2023, resolve:
