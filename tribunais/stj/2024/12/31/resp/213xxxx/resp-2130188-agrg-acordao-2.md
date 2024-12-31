@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, dar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Acordo de não persecução penal. Retroatividade. Agravo provido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que deu provimento ao recurso do próprio órgão para afastar a abertura de vista à acusação para fins de exame de viabilidade de oferecimento de acordo de não persecução penal.
+2. O Tribunal de origem entendeu que há fundamento jurídico para determinar o encaminhamento do processo ao Ministério Público para examinar a possibilidade de oferta de acordo de não persecução penal, considerando a individualidade do caso.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o Acordo de Não Persecução Penal (ANPP) pode ser celebrado em processos em andamento na data de vigência da Lei nº 13.964/2019, mesmo sem confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado.
+4. A questão também envolve a retroatividade do art. 28-A do CPP, considerando sua natureza híbrida e os efeitos materiais que gera, como a extinção de punibilidade.
+III. Razões de decidir
+5. O Supremo Tribunal Federal fixou tese vinculante de que é cabível a celebração de ANPP em processos em andamento na data de vigência da Lei nº 13.964/2019, mesmo sem confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado.
+6. A retroatividade do art. 28-A do CPP é justificada por sua natureza híbrida, gerando efeitos materiais que beneficiam o réu, conforme o art. 2º do Código Penal e o art. 5º, XL, da Constituição Federal.
+7. O agravo regimental foi provido para reformar a decisão anterior e restabelecer a decisão de origem, alinhando o entendimento desta Corte ao do Supremo Tribunal Federal.
+IV. Dispositivo e tese
+8. Agravo provido para restabelecer a decisão de origem.
+Tese de julgamento: "1. É cabível a celebração de Acordo de Não Persecução Penal em processos em andamento na data de vigência da Lei nº 13.964/2019, mesmo sem confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado. 2. O art. 28-A do CPP possui natureza híbrida e retroage para beneficiar o réu, conforme o art. 2º do Código Penal e o art. 5º, XL, da Constituição Federal."
+Dispositivos relevantes citados: CPP, art. 28-A; CP, art. 2º; CF/1988, art. 5º, XL.
+Jurisprudência relevante citada: STF, HC 185.913/DF, Rel. Min. Gilmar Mendes, Plenário, julgado em 18.09.2024; STJ, AgRg no REsp 2.098.985/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 26.02.2024.
+RELATÓRIO
+Trata-se de agravo regimental em recurso especial interposto pelo Ministério Público Federal (fls. 848-883) contra a decisão de fls. 865-870 que deu provimento ao recurso do próprio órgão para afastar a abertura de vista à acusação para fins de exame de viabilidade de oferecimento de acordo de não persecução penal.
+A parte agravante alega, em síntese, que "Sendo norma de natureza mista, o art. 28-A do CPP deve retroagir para beneficiar os réus nas ações penais em curso, como disposto no artigo 2º, parágrafo único, do Código Penal (A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado). Ademais, fundamenta-se no artigo 5º, XL, da Constituição Federal, segundo o qual "a lei penal não retroagirá, salvo para beneficiar o réu"." e conclui "Assim, a não retroação do acordo aos casos em curso constitui flagrante violação ao dispositivo constitucional." (fls. 881).
+Requer seja exercido o juízo de retratação ou, caso assim não entenda, seja submetido o presente recurso à Quinta Turma desta Corte, para que seja, então, reformada a decisão agravada, com o não provimento do recurso especial.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Acordo de não persecução penal. Retroatividade. Agravo provido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que deu provimento ao recurso do próprio órgão para afastar a abertura de vista à acusação para fins de exame de viabilidade de oferecimento de acordo de não persecução penal.
+2. O Tribunal de origem entendeu que há fundamento jurídico para determinar o encaminhamento do processo ao Ministério Público para examinar a possibilidade de oferta de acordo de não persecução penal, considerando a individualidade do caso.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o Acordo de Não Persecução Penal (ANPP) pode ser celebrado em processos em andamento na data de vigência da Lei nº 13.964/2019, mesmo sem confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado.
+4. A questão também envolve a retroatividade do art. 28-A do CPP, considerando sua natureza híbrida e os efeitos materiais que gera, como a extinção de punibilidade.
+III. Razões de decidir
+5. O Supremo Tribunal Federal fixou tese vinculante de que é cabível a celebração de ANPP em processos em andamento na data de vigência da Lei nº 13.964/2019, mesmo sem confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado.
+6. A retroatividade do art. 28-A do CPP é justificada por sua natureza híbrida, gerando efeitos materiais que beneficiam o réu, conforme o art. 2º do Código Penal e o art. 5º, XL, da Constituição Federal.
+7. O agravo regimental foi provido para reformar a decisão anterior e restabelecer a decisão de origem, alinhando o entendimento desta Corte ao do Supremo Tribunal Federal.
+IV. Dispositivo e tese
+8. Agravo provido para restabelecer a decisão de origem.
+Tese de julgamento: "1. É cabível a celebração de Acordo de Não Persecução Penal em processos em andamento na data de vigência da Lei nº 13.964/2019, mesmo sem confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado. 2. O art. 28-A do CPP possui natureza híbrida e retroage para beneficiar o réu, conforme o art. 2º do Código Penal e o art. 5º, XL, da Constituição Federal."
+Dispositivos relevantes citados: CPP, art. 28-A; CP, art. 2º; CF/1988, art. 5º, XL.
+Jurisprudência relevante citada: STF, HC 185.913/DF, Rel. Min. Gilmar Mendes, Plenário, julgado em 18.09.2024; STJ, AgRg no REsp 2.098.985/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 26.02.2024.
+VOTO
+Do exame das razões recursais, verifico que assiste razão ao agravante.
+Inicialmente, a respeito da natureza jurídica do ANPP, há firme jurisprudência desta Corte no sentido de que "o Acordo de Não Persecução Penal (ANPP) é um acordo pré-processual celebrado entre o órgão acusador e o autor do delito se atendidos os requisitos previstos, expressamente, no CPP: 1) confissão formal e circunstanciada; 2) infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos; e 3) necessidade e suficiência para reprovação e prevenção do crime" (AgRg no REsp n. 2.098.985/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+Nesses termos, cumpre observar que havia neste Tribunal entendimento segundo o qual a retroatividade do ANPP seria limitada pelo recebimento da denúncia.
+Dissentindo deste entendimento, o Supremo Tribunal Federal vinha traçando posicionamento de que o artigo 28-A do CPP, por possuir natureza híbrida, uma vez que, a despeito de ser norma processual, gera efeito material, consubstanciado na extinção de punibilidade, consequente do cumprimento integral do referido acordo, deveria retroagir para beneficiar os réus nas ações penais em curso, como disposto no artigo 2º do CP.
+Evoluindo a respeito da matéria, o Min. Gilmar Mendes, relator do HC n. 185.913/DF, em 22/9/2020, afetou a discussão sobre a retroatividade do ANPP ao Plenário do STF, considerando a então divergência.
+O Plenário do STF, ao julgar tal leading case, fixou a seguinte tese:
+1. Compete ao membro do Ministério Público oficiante, motivadamente e no exercício do seu poder-dever, avaliar o preenchimento dos requisitos para negociação e celebração do ANPP, sem prejuízo do regular exercício dos controles jurisdicional e interno; 2. É cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado; 3. Nos processos penais em andamento na data da proclamação do resultado deste julgamento, nos quais, em tese, seja cabível a negociação de ANPP, se este ainda não foi oferecido ou não houve motivação para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, após a publicação da ata deste julgamento, manifestar-se motivadamente acerca do cabimento ou não do acordo; 4. Nas investigações ou ações penais iniciadas a partir da proclamação do resultado deste julgamento, a proposição de ANPP pelo Ministério Público, ou a motivação para o seu não oferecimento, devem ser apresentadas antes do recebimento da denúncia, ressalvada a possibilidade de propositura, pelo órgão ministerial, no curso da ação penal, se for o caso". Por fim, o Tribunal definiu que este julgamento não afeta, em nenhuma medida, as decisões já proferidas e, ainda, que a deliberação sobre o cabimento, ou não, do ANPP deverá ocorrer na instância em que o processo se encontrar. Tudo nos termos do voto do Relator. Ausente, por motivo de licença médica, o Ministro Dias Toffoli. Presidência do Ministro Luís Roberto Barroso. Plenário, 18.9.2024.
+Com efeito, a partir do referido julgamento, fixou-se tese vinculante segundo a qual "É cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado".
+Verifico que, no presente caso, o pedido foi feito antes do trânsito em julgado da ação e o Tribunal de origem entendeu que "há estofo jurídico a se determinar o encaminhamento do caderno processual ao Órgão Ministerial fim de que examinada seja a factibilidade de oferta de acordo de não persecução penal, na individualidade do caso analisado".
+Ante o exposto, dou provimento ao agravo regimental para reformar a decisão de fls. 865-870 (STJ), a fim de adequar o entendimento desta Corte Superior ao do Supremo Tribunal Federal (STF), e negar provimento ao recurso especial de fls. 700-730, restabelecendo a decisão de origem.
+É o voto.
