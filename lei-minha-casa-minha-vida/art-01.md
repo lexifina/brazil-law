@@ -1,4 +1,4 @@
-Art. 1º O Programa Minha Casa, Minha Vida - PMCMV tem por finalidade criar mecanismos de incentivo à produção e aquisição de novas unidades habitacionais ou requalificação de imóveis urbanos e produção ou reforma de habitações rurais, para famílias com renda mensal de até R$ 4.650,00 (quatro mil, seiscentos e cinquenta reais) e compreende os seguintes subprogramas:
+Art. 1º O Programa Minha Casa, Minha Vida (PMCMV) tem por finalidade criar mecanismos de incentivo à produção e à aquisição de novas unidades habitacionais, à requalificação de imóveis urbanos, à regularização fundiária de assentamentos localizados em áreas urbanas e à produção ou reforma de habitações rurais, para famílias com renda mensal de até R$ 4.650,00 (quatro mil, seiscentos e cinquenta reais), e compreende os seguintes subprogramas:
 I - o Programa Nacional de Habitação Urbana (PNHU);
 II - o Programa Nacional de Habitação Rural (PNHR); e
 III - (VETADO).

@@ -12,6 +12,7 @@ III - a implementação pelos Municípios dos instrumentos da Lei nº 10.257, de
 § 3º O Poder Executivo federal definirá:
 I - os parâmetros de priorização e enquadramento dos beneficiários do PMCMV; e
 II - a periodicidade de atualização dos limites de renda familiar estabelecidos nesta Lei.
+III - as regras específicas para os beneficiários do programa atendidos mediante ações de regularização fundiária de assentamentos localizados em áreas urbanas.
 § 4º Além dos critérios estabelecidos no caput, os Estados, Municípios e Distrito Federal poderão fixar outros critérios de seleção de beneficiários do PMCMV, previamente aprovados pelos respectivos conselhos locais de habitação, quando existentes, e em conformidade com as respectivas políticas habitacionais e as regras estabelecidas pelo Poder Executivo federal.
 § 5º Os Estados, os Municípios e o Distrito Federal que aderirem ao PMCMV, as entidades privadas sem fins lucrativos, na qualidade de entidades organizadoras, e as instituições financeiras oficiais federais serão responsáveis pela realização do trabalho social nos empreendimentos implantados, na forma estabelecida em termo de adesão a ser definido em regulamento.
 § 6º Na atualização dos valores adotados como parâmetros de renda familiar estabelecidos nesta Lei deverão ser observados os seguintes critérios:
