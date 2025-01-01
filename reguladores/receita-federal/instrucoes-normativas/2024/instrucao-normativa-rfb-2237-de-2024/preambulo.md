@@ -1,0 +1,5 @@
+Instrução Normativa RFB nº 2237, de 4 de dezembro de 2024
+Dispõe sobre a Declaração de Débitos e Créditos Tributários Federais DCTFWeb.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 5º, § 1º, do Decreto-Lei nº 2.124, de 13 de junho de 1984, no art. 32, caput, inciso IV, e § 2º e § 9º, nos arts. 32-A e 32-C e no art. 39, § 3º, da Lei nº 8.212, de 24 de julho de 1991, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 18 da Medida Provisória nº 2.189-49, de 23 de agosto de 2001, no art. 90 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, no art. 7º da Lei nº 10.426, de 24 de abril de 2002, no art. 18 da Lei nº 10.833, de 29 de dezembro de 2003, e no art. 1º da Lei nº 12.402, de 2 de maio de 2011, resolve:
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
