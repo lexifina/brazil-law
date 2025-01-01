@@ -1,0 +1,6 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 487, DE 5 DE JULHO DE 2024
+Dispõe sobre os procedimentos para a solicitação de autorização para a utilização da metodologia completa para a avaliação da perda esperada e para a apuração e constituição da provisão para perdas esperadas associadas ao risco de crédito, facultada às instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, enquadradas no Segmento 4 (S4), mencionadas na Resolução CMN nº 4.966, de 25 de novembro de 2021, e na Resolução BCB nº 352, de 23 de novembro de 2023.
+Os Chefes do Departamento de Gestão Estratégica e Supervisão Especializada (Degef), do Departamento de Supervisão de Cooperativas e de Instituições Não Bancárias (Desuc), substituto, e do Departamento de Supervisão Bancária (Desup), no uso da atribuição que lhes confere o art. 23, inciso I, alínea “a” do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em vista o disposto no art. 67, inciso V, da Resolução CMN nº 4.966, de 25 de novembro de 2021, e no art. 82 da Resolução BCB nº 352, de 23 de novembro de 2023,
+R E S O L V E M :
+CAPÍTULO I
+DO OBJETO E DO ESCOPO DE APLICAÇÃO
