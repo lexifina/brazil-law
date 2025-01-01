@@ -1,0 +1,1 @@
+Art. 15-A. A partir de 1º de janeiro de 2028, as obras de construção civil ainda não encerradas deverão recolher as contribuições previdenciárias na forma prevista no art. 22, caput, incisos I e III, da Lei nº 8.212, de 24 de julho de 1991.
