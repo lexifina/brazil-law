@@ -1,0 +1,4 @@
+Resolução Nº 4.945 RESOLUÇÃO CMN Nº 4.945, DE 15 DE SETEMBRO DE 2021
+Dispõe sobre a Política de Responsabilidade Social, Ambiental e Climática (PRSAC) e sobre as ações com vistas à sua efetividade.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 26 de agosto de 2021, com base no disposto nos arts. 4º, incisos VI e VIII, da referida Lei, 2º, inciso VI, e 9º da Lei nº 4.728, de 14 de julho de 1965, 20, § 1º, da Lei nº 4.864, de 29 de novembro de 1965, 7º da Lei nº 6.099, de 12 de setembro de 1974, 1º, inciso II, da Lei nº 10.194, de 14 de fevereiro de 2001, 1º, § 1º, e 12, inciso V, da Lei Complementar nº 130, de 17 de abril de 2009, e 6º do Decreto-Lei nº 759, de 12 de agosto de 1969,
+R E S O L V E U :
