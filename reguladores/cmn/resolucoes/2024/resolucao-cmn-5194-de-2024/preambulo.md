@@ -1,0 +1,4 @@
+Resolução Nº 5.194 RESOLUÇÃO CMN Nº 5.194, DE 19 DE DEZEMBRO DE 2024
+Altera as Resoluções ns. 4.553, de 30 de janeiro de 2017; 4.557, de 23 de fevereiro de 2017; e 4.606, de 19 de outubro de 2017; e as Resoluções CMN ns. 4.945, de 15 de setembro de 2021; 4.955, de 21 de outubro de 2021; e 4.958, de 21 de outubro de 2021, para excluir de seus escopos de aplicação as sociedades corretoras de títulos e valores mobiliários, as sociedades distribuidoras de títulos e valores mobiliários e as sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 19 de dezembro de 2024, com base no art. 4º, caput, inciso VIII, da referida lei e tendo em vista o disposto no art. 9º-A da Lei nº 4.728, de 14 de julho de 1965,
+R E S O L V E U :
