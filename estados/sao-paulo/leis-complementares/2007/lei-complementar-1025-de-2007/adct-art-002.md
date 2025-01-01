@@ -1,0 +1,1 @@
+Artigo 2° - Ficam ratificados os convênios de cooperação e os contratos de programa relativos a serviços públicos de saneamento básico celebrados pelo Estado e pela SABESP anteriormente à data de vigência desta lei complementar.
