@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 567, DE 17 DE DEZEMBRO DE 2024
+Divulga as rubricas contábeis do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif), utilizadas como base de cálculo das contribuições ordinárias das instituições associadas ao Fundo Garantidor do Cooperativismo de Crédito (FGCoop).
+A Chefe do Departamento de Resolução e de Ação Sancionadora (Derad), substituta, no uso da atribuição que lhe confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 100, inciso III, alínea “b”, item 3., do referido Regimento, e tendo em vista o disposto no art. 6º, inciso I, da Resolução CMN nº 4.933, de 29 de julho de 2021, e no art. 10 da Resolução BCB nº 127, de 11 de agosto de 2021.
+R E S O L V E :
