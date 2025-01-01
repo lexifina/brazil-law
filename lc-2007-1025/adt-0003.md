@@ -1,0 +1,1 @@
+Artigo 3° - O disposto no artigo 48 não se aplica aos projetos de parceria público-privada que, nos termos do item 1 do § 5° do artigo 3° da Lei Estadual n° 11.668, de 19 de maio de 2004, tenham sido aprovados pelo Conselho Gestor do Programa de Parceria Público-Privada antes da vigência desta lei complementar.

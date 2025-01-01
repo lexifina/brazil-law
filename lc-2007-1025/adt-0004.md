@@ -1,0 +1,3 @@
+Artigo 4° - A adaptação da atual estrutura da Comissão de Serviços Públicos de Energia - CSPE ao disposto nesta lei complementar dar-se-á na forma a ser estabelecida em decreto.
+§ 1° - Na composição da primeira Diretoria da ARSESP, serão designados Diretores os atuais ocupantes dos cargos de Comissário-Geral e Comissário-Chefe, do Quadro da Comissão de Serviços Públicos de Energia - CSPE, pelo prazo remanescente de seus respectivos mandatos.
+§ 2° - Os mandatos dos primeiros Diretores terão seus prazos acrescidos do tempo necessário para a implantação do princípio da não-coincidência, na forma determinada no ato de designação.
