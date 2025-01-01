@@ -1,0 +1,4 @@
+Voto RESOLUÇÃO CMN Nº 5.199, DE 23 DE DEZEMBRO DE 2024
+Altera a Resolução CMN nº 4.955, de 21 de outubro de 2021, que dispõe sobre a metodologia para apuração do Patrimônio de Referência – PR e a Resolução nº 4.606, de 19 de outubro de 2017, que dispõe sobre a metodologia facultativa simplificada para apuração do requerimento mínimo de Patrimônio de Referência Simplificado – PRS5.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 23 de dezembro de 2024, com base nos arts. 3º, caput, inciso VI, e 4º, caput, incisos VIII e XI, da referida lei, 20, § 1º, da Lei nº 4.864, de 29 de novembro de 1965, 7º e 23 da Lei nº 6.099, de 12 de setembro de 1974, e 1º, § 1º, e 12 da Lei Complementar nº 130, de 17 de abril de 2009,
+R E S O L V E U :
