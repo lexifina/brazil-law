@@ -1,0 +1,2 @@
+Art. 26-B. Nos estabelecimentos de ensino fundamental e médio, públicos e privados, é obrigatória a inclusão de abordagens fundamentadas nas experiências e nas perspectivas femininas nos conteúdos curriculares.
+Parágrafo único. As abordagens a que se refere este artigo devem incluir diversos aspectos da história, da ciência, das artes e da cultura do Brasil e do mundo, a partir das experiências e das perspectivas femininas, de forma a resgatar as contribuições, as vivências e as conquistas femininas nas áreas científica, social, artística, cultural, econômica e política.
