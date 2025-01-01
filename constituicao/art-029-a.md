@@ -1,4 +1,4 @@
-Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior:
+Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159 desta Constituição, efetivamente realizado no exercício anterior:
 I - 7% (sete por cento) para Municípios com população de até 100.000 (cem mil) habitantes;
 II - 6% (seis por cento) para Municípios com população entre 100.000 (cem mil) e 300.000 (trezentos mil) habitantes;
 III - 5% (cinco por cento) para Municípios com população entre 300.001 (trezentos mil e um) e 500.000 (quinhentos mil) habitantes;
