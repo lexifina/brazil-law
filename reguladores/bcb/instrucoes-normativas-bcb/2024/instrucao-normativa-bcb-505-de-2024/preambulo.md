@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 505, DE 23 DE AGOSTO DE 2024
+Altera a Instrução Normativa BCB nº 142, de 16 de agosto de 2021, que divulga os procedimentos para a remessa de demonstrações financeiras pelas instituições em regime de liquidação extrajudicial, de que trata a Resolução BCB nº 13, de 9 de setembro de 2020.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro – Desig e o Chefe do Departamento de Resolução e de Ação Sancionadora – Derad, no uso da atribuição que lhes confere o art. 23, inciso I, alínea “a” do Regimento Interno do Banco Central do Brasil, divulgado por meio da Resolução BCB nº 340, de 21 de setembro de 2023, com base, respectivamente, nos arts. 85, inciso I, alínea “b” e 100, inciso III, alínea “b”, item 1 do referido Regimento, e considerando o disposto na Resolução BCB nº 13, de 9 de setembro de 2020,
+R E S O L V E M :
