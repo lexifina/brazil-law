@@ -1,0 +1,3 @@
+Art. 12-B. As instituições mencionadas no art. 1º que divulgarem relatório de informações financeiras relacionadas à sustentabilidade, voluntariamente ou por força de disposições legais, regulamentares, estatutárias ou contratuais, a partir da data de entrada em vigor desta Resolução, devem elaborar e divulgar esse relatório, como parte integrante de suas demonstrações financeiras, em conformidade com o disposto no art. 12-A.
+§ 1º O relatório de que trata o caput deve ser objeto de asseguração limitada por auditor independente.
+§ 2º Na divulgação de que trata o caput, a faculdade de que trata o art. 12-A, § 5º, pode ser utilizada até o terceiro exercício social de adoção.
