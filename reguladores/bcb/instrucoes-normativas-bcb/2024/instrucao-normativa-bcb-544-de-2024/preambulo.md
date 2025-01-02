@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 544 DE 06 de novembro de 2024
+Altera as Instruções de Preenchimento do documento de código 2300 - Captações de Recursos no Exterior, de que trata a Instrução Normativa BCB nº 264, de 31 de março de 2022.
+O Chefe do Departamento​ de Monitoramento do Sistema Financeiro (Desig) no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a” do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alínea “b”, do referido Regimento, e tendo em vista o disposto na Resolução CMN nº 4.966, de 25 de novembro de 2021, nas Resoluções BCB ns. 193, de 23 de fevereiro de 2022, e 352, de 23 de novembro de 2023, e nas Instruções Normativas BCB ns. 264, de 31 de fevereiro de 2022 e 426, 427, 428, 429, 430, 431,432 e 433, todas de 1º de dezembro de 2023,
+RESOLVE:
