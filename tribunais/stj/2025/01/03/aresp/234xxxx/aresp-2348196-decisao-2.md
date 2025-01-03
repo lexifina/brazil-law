@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRIGORÍFICO MARGEN LTDA contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a" do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+RECURSOS - Apelações - "Ação ordinária de reparação por danos materiais pelo rito ordinário" - Insurgência_ contra a r. sentença que julgou improcedente a demanda - Inadmissibilidade - Massa falida apelante que apresentou regular manifestação sobre o segundo laudo pericial, inexistindo o alegado cerceamento de defesa - Incontroversa existência de relação jurídica entre as partes, que teve por objeto a atuação do banco apelado, apenas na condição de consultor financeiro - Contrato entabulado entre as partes que prevê, expressamente, a ausência de responsabilidade do banco apelado pela eventual concessão de financiamento - Massa falida apelante que não se desincumbiu de seu ônus probatório, previsto no artigo 373, inciso I, do CPC, deixando de comprovar a existência de compromisso assumido pelo apelado, no sentido de implementar capital no valor equivalente a meio milhão de dólares americanos - Massa falida apelante que já enfrentava crise financeira muito antes da contratação do banco apelado, que atuou apenas na qualidade de consultor financeiro - Não evidenciada a responsabilidade civil do banco apelado pelo cancelamento da fusão, tampouco pelos prejuízos financeiros sofridos pela massa falida apelante - Sentença mantida - Honorários advocatícios majorados - Preliminar rejeitada - Recursos improvidos, com determinação." (fl. 2.960)
+Os embargos de declaração opostos foram rejeitados (fls. 2.993/2.998).
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 479 e 480 do CPC/2015, sustentando, em síntese, a nulidade do acórdão recorrido que, ao adotar as conclusões do segundo laudo pericial, deixou de fundamentar as razões que levaram à desconsideração do primeiro laudo.
+Defende que não era permitido ao juízo sentenciante desconsiderar totalmente o laudo da primeira perícia realizada, pois o segundo laudo não substituiu o primeiro, mas apenas o complementou, bem como que, diante da existência de contradição entre os dois laudos, deveria ter sido determinada a realização de uma terceira perícia.
+Apresentadas contrarrazões às fls. 3.058/3.085.
+É o relatório. Decido.
+No que tange à alegada violação dos arts. 479 e 480 do CPC/2015, verifica-se que o conteúdo normativo dos mencionados dispositivos não foi apreciado pelo Tribunal a quo, tampouco a tese trazida nas razões do recurso especial foi suscitada nos aclaratórios opostos.
+Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INDEFERIMENTO DA INICIAL. SÚMULA N. 282 DO STF. AÇÃO PENAL. PRAZO PRESCRICIONAL. AÇÃO DE INDENIZAÇÃO. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA PENAL.
+1. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF. Entendimento que também se aplica às matérias de ordem pública.
+2. Na esfera penal, em relação à pretensão à reparação de danos, a legislação civil prevê opção para a parte lesada: ou aguardar a solução da questão criminal para pleitear o ressarcimento, ou ajuizar, antecipadamente, ação de indenização.
+3. Se a parte opta por esperar o resultado da ação criminal, há suspensão do prazo prescricional para postular a reparação de dano, independentemente de a sentença penal ser condenatória ou absolutória.
+4. O art. 200 do Código Civil prevê que, tratando-se de ação originária de fato que deva ser apurado no juízo criminal, não correrá a prescrição da ação indenizatória antes da sentença definitiva, independentemente de ser ou não condenatória.
+5. Agravo interno desprovido."
+(AgInt no REsp n. 1.741.461/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/8/2024, DJe de 15/8/2024, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA DE ARREMATAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS REQUERENTES.
+1. Incide a Súmula 282/STF quando a tese recursal não foi objeto de debate pela instância ordinária e tampouco suscitada em embargos de declaração. Nesta instância especial, o requisito do prequestionamento é indispensável mesmo em questões de ordem pública.
+2. A reforma do aresto a quo, para reconhecer a nulidade da arrematação, ensejaria o reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+3. O entendimento do STJ é no sentido de que o preço vil só se caracteriza quando a arrematação não alcançar, ao menos, a metade do valor da avaliação, o que não foi o caso dos autos. Incidência da Súmula 83/STJ. 3.1. Para rever as conclusões das instâncias ordinárias sobre a questão seria necessário a incursão no acervo fático-probatório, prática vedada pela Súmula 7/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp 1552557/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 09/03/2020, DJe 16/03/2020, g.n.)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a", do RIST, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2115, majoro os honorários advocatícios devidos à parte recorrida de 15% (quinze por cento) para 16% (dezesseis por cento).
+Publique-se.
+EMENTA
