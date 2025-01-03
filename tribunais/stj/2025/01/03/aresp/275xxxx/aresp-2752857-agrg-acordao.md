@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental no agravo em recurso especial. Busca pessoal. Fundada suspeita. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a legalidade de busca pessoal realizada em operação policial de rotina.
+2. A busca foi realizada em contexto de operação de rotina, com filmagem da diligência, sem tumulto ou violência, em região com histórico de crimes cometidos por indivíduos disfarçados de motoboys.
+3. O Tribunal de origem considerou a atuação policial justificada por fundada suspeita, não configurando abuso ou ilegalidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a busca pessoal realizada em operação policial de rotina, com base em fundada suspeita, configura ilegalidade.
+III. Razões de decidir
+5. A busca pessoal foi considerada legal, pois realizada dentro dos limites da atuação policial ostensiva e preventiva, com base em fundada suspeita.
+6. A jurisprudência do Superior Tribunal de Justiça reconhece a legalidade de buscas pessoais em operações de rotina, desde que haja fundada suspeita.
+7. A atuação policial foi justificada pela necessidade de prevenir crimes em região com histórico de delitos cometidos por indivíduos disfarçados.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. A busca pessoal realizada em operação policial de rotina é legal quando baseada em fundada suspeita. 2. A atuação policial preventiva é justificada em contextos de elevada criminalidade, desde que respeitados os direitos fundamentais."
+Dispositivos relevantes citados: CPP, art. 240; CPC, art. 8º.
+Jurisprudência relevante citada: STJ, AgRg no RHC 187.927/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17.10.2023; STJ, AgRg no HC 800.452/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 19.06.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GABRIEL RIBEIRO LOPES DA SILVA (e-STJ, fls. 580-591) de decisão, por mim proferida (e-STJ, fls. 763-770), em que conheci do agravo para negar provimento ao recurso especial.
+O agravante reitera, em síntese, que inexistiu justa causa para a realização de busca pessoal.
+Assim, postula a reconsideração da decisão monocrática ou que submeta este Agravo Regimental à apreciação da Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental no agravo em recurso especial. Busca pessoal. Fundada suspeita. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a legalidade de busca pessoal realizada em operação policial de rotina.
+2. A busca foi realizada em contexto de operação de rotina, com filmagem da diligência, sem tumulto ou violência, em região com histórico de crimes cometidos por indivíduos disfarçados de motoboys.
+3. O Tribunal de origem considerou a atuação policial justificada por fundada suspeita, não configurando abuso ou ilegalidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a busca pessoal realizada em operação policial de rotina, com base em fundada suspeita, configura ilegalidade.
+III. Razões de decidir
+5. A busca pessoal foi considerada legal, pois realizada dentro dos limites da atuação policial ostensiva e preventiva, com base em fundada suspeita.
+6. A jurisprudência do Superior Tribunal de Justiça reconhece a legalidade de buscas pessoais em operações de rotina, desde que haja fundada suspeita.
+7. A atuação policial foi justificada pela necessidade de prevenir crimes em região com histórico de delitos cometidos por indivíduos disfarçados.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. A busca pessoal realizada em operação policial de rotina é legal quando baseada em fundada suspeita. 2. A atuação policial preventiva é justificada em contextos de elevada criminalidade, desde que respeitados os direitos fundamentais."
+Dispositivos relevantes citados: CPP, art. 240; CPC, art. 8º.
+Jurisprudência relevante citada: STJ, AgRg no RHC 187.927/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17.10.2023; STJ, AgRg no HC 800.452/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 19.06.2023.
+VOTO
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar a decisão agravada, motivo pelo qual a mantenho por seus próprios fundamentos, os quais restaram assim consignados (e-STJ, fls. 574-577):
+"No que interessa à solução da controvérsia, tem-se que o Colegiado de origem declinou as seguintes razões (e-STJ, fls. 475-477; grifou-se):
+"Quanto à alegação de que a atuação policial seria abusiva, já que não haveria fundada suspeita a autorizar a busca realizada no réu e na sua bolsa de motoboy, melhor sorte não socorre à defesa. Veja que os policiais justificaram sua atuação, que não foi discriminatória do acusado. Tanto que filmaram toda a diligência, que se deu sem qualquer tumulto, sem qualquer violência (vide fl. 184)". Tratou-se de operação de rotina, que teve como alvo diversos indivíduos, justificada no fato notório de que há muitos motoboys disfarçados de entregadores cometendo roubo naquela região e que, na sequência, também se valem de bolsões de motoqueiros para permanecerem homiziados (vide depoimentos dos policiais). Ou seja, havia uma fundada suspeita, que incluía o acusado e o volume que ele carregava, no local e situação em que se encontrava, e que recomendava a atuação preventiva da polícia. Atuação sem a qual, é bom que se diga, não se inibiria a ocorrência de crimes. A polícia deve ser incentivada a fazer o seu trabalho, especialmente quando o faz, como no caso, sem qualquer abuso, e buscando evitar que mais crimes aconteçam, estes muitas vezes com drásticas consequências, inclusive com perda de vidas. Aliás, é a mesma ideia que justifica as blitzes de trânsito em locais onde há maior probabilidade de flagrar pessoas embriagadas a dirigir; ou ainda a que leva a polícia de fronteira à fiscalização indiscriminada de bagagens. Se a polícia também não puder abordar motoristas em saídas de boates e restaurantes, dificilmente evitará que os que estiverem embriagados coloquem em risco a segurança viária e, eventualmente, matem outras pessoas. Se não puder fiscalizar bagagens em fronteiras, fatalmente não evitará a entrada de armas e drogas no país. Conforme reza o art. 8º do CPC, ao aplicar o ordenamento jurídico, o juiz atenderá aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência. Aqui, como se percebe, a polícia agiu dentro da lei, efetuando as buscas em razão de suspeita fundada no crescente número de criminosos que, especialmente no bairro em questão, se disfarçam de motoboys em bolsões como o da espécie (legalidade). O fez com observância da dignidade da pessoa humana, pois, conforme os vídeos encartados aos autos (publicidade), os policiais agiram de forma não truculenta. Isso sem contar que os policiais também foram eficientes, já que impediram, em tal contexto de respeito, dentro do possível, a direitos, que boa quantidade de drogas viesse a ser disseminada pelo acusado. É gritante que o bem comum exige uma certa flexibilização de garantias individuais. Não sendo razoável que, no cenário urbano violento em que vivemos, seja a polícia proibida de fazer esse tipo de fiscalização eminentemente preventiva, que é realizada no interesse de todos, no interesse de resguardar a segurança pública que é, igualmente, direito fundamental."
+No caso, a busca pessoal foi realizada no contexto de operação policial de rotina e, conforme jurisprudência sedimentada por esta Corte Superior de Justiça, não há se falar em ilegalidade em tais hipóteses.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL/VEICULAR. PROCEDIMENTO DE ROTINA. PACIENTE COM DROGA DEBAIXO DA CAMISA. AUSÊNCIA DE ILEGALIDADE. NULIDADE NÃO CONFIGURADA. AGRAVO REGIMENTAL IMPROVIDO. 1. No caso, o recorrente foi abordado durante uma fiscalização de rotina promovida por policiais com o intuito de averiguar a ocorrência de infrações administrativas de trânsito e crimes que supostamente ocorriam em rodovia no Estado de Goiás, sendo que a droga apreendida foi escondida debaixo da camisa do paciente. 2. Assim, inexiste ilegalidade na abordagem realizada pela polícia, pois a busca pessoal foi exercida dentre dos limites da atuação policial ostensiva e preventiva. 3. Agravo regimental improvido." (AgRg no RHC n. 187.927/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023; grifou-se.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA VEICULAR. ART. 244 DO CÓDIGO DE PROCESSO PENAL - CPP. EXISTÊNCIA DE FUNDADAS RAZÕES PARA A DILIGÊNCIA. NULIDADE NÃO CONFIGURADA. RECURSO DESPROVIDO. 1. Assim como a busca pessoal, a abordagem e busca veicular deve obedecer ao disposto no art. 240 do Código de Processo Penal - CPP, ou seja, para as diligências é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de drogas, objetos ou papéis que constituam corpo de delito. 2. Na hipótese dos autos, constata-se que os policiais militares rodoviários, durante fiscalização de rotina em uma praça de pedágio, ao abordarem o veículo, verificaram que havia um pacote suspeito no assoalho, ao lado do passageiro. Como os ocupantes do automóvel hesitaram em informar o seu conteúdo, foi realizada a busca veicular, oportunidade em que foi apreendido 9,04kg de cocaína e munição. 3. Nesse contexto, restou evidenciada a justificativa para a busca, decorrente de contexto prévio de fundadas razões, a qual culminou na apreensão da droga, não se vislumbrando qualquer ilegalidade na atuação dos policiais, uma vez que amparada pelas circunstâncias do caso concreto. 4. A fim de desconstituir as conclusões das instâncias ordinárias a respeito da dinâmica dos fatos que culminaram com a busca pessoal, seria necessário aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus. 5. Agravo regimental desprovido." (AgRg no HC n. 800.452/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023; grifou-se.)"
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
