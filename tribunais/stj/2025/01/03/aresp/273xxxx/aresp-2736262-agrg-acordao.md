@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental. Furto qualificado. DOSIMETRIA DA PENA. Consequências do crime. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial, mantendo a majoração da pena-base em razão das consequências do crime de furto qualificado.
+2. O recorrente foi condenado à pena de 08 anos e 04 meses de reclusão e pagamento de 250 dias-multa, posteriormente reduzida para 03 anos, 09 meses e 25 dias de reclusão e 26,4 dias-multa, com regime inicial semiaberto e substituição da pena privativa de liberdade por duas restritivas de direitos.
+3. A Corte Estadual manteve a análise negativa das consequências do delito, considerando o prejuízo patrimonial e aos serviços prestados, assim como o impacto negativo causado à imagem da instituição financeira pública.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a majoração da pena-base, com fundamento nas consequências do crime, configurou "bis in idem", haja vista que, no entendimento do recorrente, foram utilizados elementos inerentes ao tipo penal do furto qualificado.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça entende que, nos crimes contra a Administração Pública, o expressivo valor do prejuízo causado ao erário justifica a exasperação da pena-base, demonstrando maior reprovabilidade da conduta.
+6. A majoração da pena-base, em razão das consequências do crime, foi fundamentada de acordo com o princípio da legalidade e pautada por critérios de proporcionalidade e razoabilidade, considerando o montante do prejuízo, o tumulto causado na prestação do serviço público, bem como o prejuízo causado à imagem da Caixa Econômica Federal perante a sociedade.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. Nos crimes contra a Administração Pública, o expressivo valor do prejuízo causado ao erário constitui fundamento apto a ensejar a exasperação da pena-base. 2. A majoração da pena-base deve ser fundamentada de acordo com o princípio da legalidade e pautada por critérios de proporcionalidade e razoabilidade".
+Dispositivos relevantes citados: CP, art. 155, §4º; CP, art. 59.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1783374/MT, Rel. Min. Nefi Cordeiro, Sexta Turma, DJe 25/06/2019; STJ, AgRg no REsp 1752800/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 01/03/2019.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FRANCISCO CARLOS NASCIMENTO DE SOUZA contra decisão monocrática deste Relator que, fundamentada no art. 932, VIII, do CPC c/c art. 253, parágrafo único, II, "b", do RISTJ, conheceu do agravo para negar provimento ao recurso especial (e-STJ, fls. 618-621).
+A defesa reitera os argumentos expendidos no recurso especial, no sentido de que o acórdão recorrido utilizou-se de circunstância própria do crime de estelionato contra a previdência social, para aumentar a pena na primeira fase, incorrendo em verdadeiro "bis in idem".
+Sustenta que não se pode valorar negativamente as "circunstâncias ou consequências do crime" utilizando-se como argumentos elementos que sejam inerentes ao tipo penal.
+Requer, assim, a submissão do feito à Turma Julgadora, para que seja dado provimento ao recurso especial, a fim de redimensionar a pena, decotando-se o excesso decorrente da valoração negativa das consequências do delito previsto no artigo 171, § 3º, do CP (e-STJ, fls. 626-640).
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Furto qualificado. DOSIMETRIA DA PENA. Consequências do crime. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial, mantendo a majoração da pena-base em razão das consequências do crime de furto qualificado.
+2. O recorrente foi condenado à pena de 08 anos e 04 meses de reclusão e pagamento de 250 dias-multa, posteriormente reduzida para 03 anos, 09 meses e 25 dias de reclusão e 26,4 dias-multa, com regime inicial semiaberto e substituição da pena privativa de liberdade por duas restritivas de direitos.
+3. A Corte Estadual manteve a análise negativa das consequências do delito, considerando o prejuízo patrimonial e aos serviços prestados, assim como o impacto negativo causado à imagem da instituição financeira pública.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a majoração da pena-base, com fundamento nas consequências do crime, configurou "bis in idem", haja vista que, no entendimento do recorrente, foram utilizados elementos inerentes ao tipo penal do furto qualificado.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça entende que, nos crimes contra a Administração Pública, o expressivo valor do prejuízo causado ao erário justifica a exasperação da pena-base, demonstrando maior reprovabilidade da conduta.
+6. A majoração da pena-base, em razão das consequências do crime, foi fundamentada de acordo com o princípio da legalidade e pautada por critérios de proporcionalidade e razoabilidade, considerando o montante do prejuízo, o tumulto causado na prestação do serviço público, bem como o prejuízo causado à imagem da Caixa Econômica Federal perante a sociedade.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. Nos crimes contra a Administração Pública, o expressivo valor do prejuízo causado ao erário constitui fundamento apto a ensejar a exasperação da pena-base. 2. A majoração da pena-base deve ser fundamentada de acordo com o princípio da legalidade e pautada por critérios de proporcionalidade e razoabilidade".
+Dispositivos relevantes citados: CP, art. 155, §4º; CP, art. 59.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1783374/MT, Rel. Min. Nefi Cordeiro, Sexta Turma, DJe 25/06/2019; STJ, AgRg no REsp 1752800/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 01/03/2019.
+VOTO
+A pretensão não merece êxito.
+Ressalte-se, inicialmente, que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+No caso em exame, conforme consignado na decisão agravada, o recorrente foi condenado como incurso no art. 155, §4º do Código Penal (furto qualificado), à pena de 08 anos e 04 meses de reclusão e pagamento de 250 dias-multa.
+A defesa apelou, tendo a 4ª Turma do Tribunal Regional Federal da 1ª Região dado parcial provimento ao recurso, para: A) reduzir as penas a ele aplicadas para 45 meses e 25 dias (3 anos, 9 meses e 25 dias) de reclusão e 26,4 dias-multa, à razão de um trigésimo do salário mínimo, nos termos da sentença; B) fixar o regime inicial semiaberto (CP, Art. 33, § 1º, alínea b, § 2º, alínea b, § 3º, e Art. 3 5); C) substituir a pena privativa de liberdade por duas restritivas de direitos, a serem fixadas pelo juízo da execução (CP, Art. 43; Art. 44, § 2º, parte final, e § 4º).
+Todavia, a análise negativa das consequências do delito permaneceu negativamente valorada, tendo a Corte Estadual, destacado o seguinte:
+"O juízo concluiu que as "consequências do crime são desfavoráveis, pois o Réu não reparou o dano causado em montante considerável e sua conduta tumultuou o bom e regular andamento do serviço público, além de prejudicar a imagem da CEF perante clientes e a sociedade." "Como muito bem assevera Luiz Regis Prado (Curso de Direito Penal, 2013, p. 428) "(..) são consequências do crime os desdobramentos advindos da conduta do agente"." (STF, HC 134190 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 09-11-2016, DJe-249 23-11-2016.) O "vetor "consequências do crime"  deve ser  entendido como  a  extensão do dano produzido pelo ilícito em si." (STF, HC 134193, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 26-10- 2016, DJe-252 28-11-2016.) "Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal." (STJ, HC 388.549/SP, Rel. Min. RIBEIRO DANTAS, Quinta Turma, julgado em 23/05/2017, DJe 26/05/2017; HC 345.409/MG, Rel. Min.
+RIBEIRO DANTAS, Quinta Turma, julgado em 09/05/2017, DJe 11/05/2017.) (..) Assim, o montante do prejuízo patrimonial causado à vítima de furto constitui fundamento idôneo à majoração da pena-base. Nesse contexto, há fundamento idôneo à majoração da pena-base a título de consequências do crime." (e-STJ, fls. 524-525, grifou-se).
+Sobre o tema em debate, cumpre registrar que o entendimento deste Superior Tribunal de Justiça é no sentido de que "nos crimes contra a Administração Pública, o expressivo valor do prejuízo causado ao erário constitui fundamento apto a ensejar a exasperação da pena- base, por demonstrar maior reprovabilidade da conduta" (ut, AgRg no REsp 1783374/MT, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 25/06/2019).
+Corrobora:
+" ..
+1. Quando da cominação das penas referentes a delitos praticados contra a Administração Pública, a Terceira seção desta Corte vem entendendo ser possível o agravamento da pena-base com fundamento no prejuízo sofrido pelos cofres públicos, quando o valor deste representar montante elevado, dada a maior reprovabilidade da conduta.
+2. No presente caso, as instâncias ordinárias não se utilizaram de dados genéricos e vagos para justificar a exasperação da pena-base ao valorar negativamente as consequências do delito, uma vez que a conduta delitiva gerou prejuízo aos cofres previdenciários da ordem de mais de R$ 112.938,59 (cento e doze mil, novecentos e trinta e oito reais e cinqüenta e nove centavos), além de ter atingido, diretamente, os beneficiários Josefa Maria Martins e Amaro Gonçalves Santana, que não receberam os valores a que faziam jus, o que demonstra a maior reprovabilidade da conduta.
+3. A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética em que se dá pesos absolutos a cada uma delas, a serem extraídas de cálculo matemático, levando-se em conta as penas máxima e mínima cominadas ao delito cometido pelo agente, mas sim um exercício de discricionariedade vinculada que impõe ao magistrado apontar os fundamentos da consideração negativa, positiva ou neutra das oito circunstâncias judiciais mencionadas no art. 59 do CP e, dentro disso, eleger a reprimenda que melhor servirá para a prevenção e repressão do fato-crime (AgRg no HC 188.873/AC, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 8/10/2013, DJe 16/10/2013). Assim, tem-se que a pena- base majorada, diante da consideração desfavorável de apenas uma circunstância judicial (consequências do crime), acima de 1/6, conforme fundamentação apresentada, foi fixada de acordo com o princípio da legalidade e pautada por critérios de proporcionalidade e razoabilidade.
+4. Agravo regimental não provido (AgRg no REsp 1752800/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019, com destaque).
+No caso dos autos, o objeto do furto consistiu em 26 saques com valores entre R$ 600,00 e R$ 1.000,00, o que representa um montante entre R$ 15.600,00 e 26.000,00.
+Nesse contexto, de rigor a valoração negativa da referida circunstância judicial, haja vista que o prejuízo causado à Empresa Pública, na espécie, não pode ser tido como inexpressivo.
+Ademais, além do dano financeiro, a análise desfavorável das consequências do crime também levou em consideração o tumulto causado na prestação do serviço público, bem como o prejuízo causado à imagem da Caixa Econômica Federal perante os seus clientes e à sociedade, decorrentes da fraude perpetrada pelos agentes criminosos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
