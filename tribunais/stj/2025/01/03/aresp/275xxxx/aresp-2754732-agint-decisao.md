@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto por AV09 COMERCIO EXTERIOR LTDA contra decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça (fls. 234-235), que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial na origem.
+Em suas razões recursais, a parte agravante sustenta, em síntese, que houve impugnação acerca da incidência da Súmula 83/STJ, pois "demonstrou que a matéria em questão não possui entendimento consolidado e uniforme no Superior Tribunal de Justiça, uma vez que decisões análogas apontam entendimento diverso." (Fl. 246).
+Devidamente intimada, a parte agravada não apresentou impugnação.
+É, em síntese, o relatório.
+Afiguram-se relevantes as alegações da parte agravante e, ante a verificação da impugnação de todos os fundamentos da decisão que negou a admissibilidade do recurso especial, reconsidera-se a decisão agravada e passa-se à análise do agravo em recurso especial.
+Trata-se de agravo em recurso especial interposto por AV09 COMERCIO EXTERIOR LTDA contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra v. acórdão do eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TOGADO DE ORIGEM QUE MANTÉM A PENHORA SOBRE OS VALORES DEPOSITADOS NA CONTA CORRENTE DO EXECUTADO. INCONFORMISMO DO DEVEDOR.
+DIREITO INTERTEMPORAL. DECISÃO PUBLICADA EM 3-11-23. INCIDÊNCIA DO CPC/2015.
+CONSTRIÇÃO DE VALORES ALOCADOS EM CONTA-CORRENTE. IMPENHORABILIDADE ATÉ O LIMITE DE 40 (QUARENTA) SALÁRIOS MÍNIMOS INDEPENDETEMENTE DA ORIGEM DO DINHEIRO. PRECEDENTE DESTE ÓRGÃO COLEGIADO. INTELIGÊNCIA DO ART. 833, INCISO X, DO NOVO CPC. CONGRAÇAMENTO CONSOLIDADO DO STJ CONFERINDO INTREPRETAÇÃO EXTENSIVA AO TERMO "CADERNETA DE POUPANÇA". FORÇOSA LIBERAÇÃO DO MONTANTE CONSTRITO. DECISÃO REFORMADA.
+RECURSO PROVIDO." (Fl. 69).
+Os embargos de declaração opostos foram rejeitados (fls. 93-97).
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 489, §1º, IV e VI, 833, X, e 1.022, II, do CPC, sustentando, em síntese: a) haver negativa de prestação jurisdicional; b) "mesmo em se tratando de conta poupança, o desvirtuamento da função poupadora afasta a cobertura de impenhorabilidade previsto no art. 833, X, do CPC" (fl. 110).
+Decido.
+A questão de direito objeto do recurso especial foi afetada à Corte Especial como representativa de controvérsia a ser julgada sob o rito dos recursos repetitivos, conforme decisões de afetação dos REsps 2.015.693/PR e 2.020.425/RS, as quais delimitaram o Tema 1.285 nos termos da seguinte ementa:
+"Ementa. Processo civil. Recursos especiais. Indicação como representativos de controvérsia. Impenhorabilidade de quantia até 40 salários mínimos (art. 833, X, do CPC). Papel-moeda; conta corrente; caderneta de poupança; fundo de investimentos. Afetação ao rito dos repetitivos.
+I. Caso em exame 1. Recursos especiais ns. 2015693/PR e 2020425/RS selecionados como representativos de controvérsia e submetidos à avaliação para eventual afetação ao rito dos recursos repetitivos, relativos à interpretação da impenhorabilidade do art. 833, X, do Código de Processo Civil, em relação a quantia em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+II. Questão em discussão 2. A proposta de afetação ao rito dos repetitivos busca dirimir controvérsia sobre a aplicação da impenhorabilidade do art. 833, X, do Código de Processo Civil, em relação a quantia em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+III. Razões de decidir 3. Afetação ao rito dos recursos repetitivos, por serem os recursos admissíveis e estar demonstrada a repetição da controvérsia.
+Existência de orientação firmada em julgamento da Corte Especial do Superior Tribunal de Justiça, em recurso especial avulso (REsp n. 1.660.671/RS, Rel. Min. Herman Benjamin, Corte Especial, julgado em 21/2/2024).
+IV. Dispositivo e tese 4. Afetação dos recursos especiais ao rito previsto nos arts. 1.036 e 1.037 do CPC de 2015 e nos arts. 256 ao 256-X do RISTJ.
+5. Delimitação das controvérsias afetadas: Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+______
+Dispositivos relevantes citados: art. 833. X, do Código de Processo Civil.
+Jurisprudência relevante citada: STJ, REsp n. 1.660.671/RS, Rel. Min. Herman Benjamin, Corte Especial, julgado em 21/2/2024."
+(ProAfR no REsp n. 2.015.693/PR, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 17/9/2024, DJe de 7/10/2024)
+Além disso, nesses julgamentos, houve determinação de suspensão da tramitação dos processos, individuais ou coletivos, que versem sobre a mesma matéria, e nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial na segunda instância, ou que estejam em tramitação no STJ.
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
