@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por E. VARASQUIM em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SENTENÇA DE PROCEDÊNCIA. EVASÃO DE PEDÁGIOS. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. RECORRENTE QUE DEIXOU DE TRAZER OS COMPROVANTES PARA A ANÁLISE DA BENESSE PRETENDIDA, DESISTINDO, POSTERIORMENTE, DO PEDIDO, COM O PAGAMENTO DO PREPARO RECURSAL. PRESUNÇÃO DE LEGITIMIDADE DOS ATOS ADMINISTRATIVOS PRATICADOS PELA CONCESSIONÁRIA. INEXISTÊNCIA DE QUALQUER INDÍCIO EM SENTIDO CONTRÁRIO. PROVAS APRESENTADAS PELA AUTORA QUE COMPROVAM O ILÍCITO PRATICADO. RESPONSABILIDADE DO PROPRIETÁRIO DO VEÍCULO. NÃO DEMONSTRAÇÃO DE FATO MODIFICATIVO, IMPEDITIVO OU EXTINTIVO DO DIREITO DA AUTORA. ART. 373, II, DO CPC. PASSAGENS DOS VEÍCULOS DA EMPRESA REQUERIDA PELAS PRAÇAS DE PEDÁGIOS DEMONSTRADAS POR IMAGENS DE VÍDEO E REGISTROS FOTOGRÁFICOS, ACOMPANHADOS DE RELATÓRIO DESCRITIVO.
+PROVAS QUE IMPLICAM NO DEVER DE PAGAR A TARIFA.
+REFORMA DA SENTENÇA QUANTO À CONDENAÇÃO DE FUTURAS EVASÕES DE PEDÁGIO. PEDIDO INCERTO. PEDÁGIO QUE TEM COMO FATO GERADOR A UTILIZAÇÃO DO SERVIÇO.RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (e-STJ fls. 1399)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 1426/1430)
+Em suas razões recursais, a parte recorrente apontou violação dos arts. 1.022, 489, 429, II, e 373, I, ambos do CPC, todos do Código de Processo Civil.
+Na decisão de admissibilidade (e-STJ, fls. 1483), a Corte de origem não admitiu o recurso especial em razão da deserção.
+O recurso ascendeu a esta Corte Superior por meio da interposição de agravo.
+É o relatório. Decido.
+No caso, o Tribunal de origem verificou que não houve comprovação do pagamento do preparo recursal, por isso intimou a parte para regularizar a situação, sob pena de deserção (e-STJ, fl. 1478).
+Contudo, a parte deixou transcorrer o prazo sem regularizar a situação.
+Por isso, a decisão de admissibilidade reconheceu a deserção e não admitiu o recurso especial, nos termos do art. 1.007, § 2º, do Código de Processo Civil prevê que "A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias."
+Quanto ao tema, a jurisprudência desta Corte Superior entende que "a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem". (AgInt no AREsp n. 2.235.414/RJ, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023). Corroboram esse entendimento:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS LOCAIS. INTIMAÇÃO PARA A REGULARIZAÇÃO. NÃO ATENDIMENTO DA DETERMINÇÃO. APRESENTAÇÃO DE COMPROVANTE DE AGENDAMENTO. RECURSO ESPECIAL DESERTO. INOVAÇÃO RECURSAL INCABÍVEL. AGRAVO INTERNO DESPROVIDO.
+1. Em consonância com a orientação desta Corte Superior, "a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem. Precedentes" (AgInt no AREsp n. 2.380.943/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+2. No caso dos autos, o Tribunal de origem constatou a ausência de comprovação do recolhimento das custas locais. Assim, determinou a intimação da parte recorrente, "na pessoa de seu advogado, para que, em 05 (cinco) dias, complemente o preparo, recolhendo a guia Funjecc, sob pena de deserção (art. 1.007, § 2º, do Código de Processo Civil)".
+3. O vício não foi corrigido, tendo em vista que os agravantes apenas apresentaram, fora do prazo estabelecido pela Corte de origem, o comprovante de agendamento do recolhimento das custas locais. Como consequência, perante o Tribunal de origem, o recurso especial não foi conhecido por ser deserto, pressuposto de admissibilidade cuja ausência foi confirmado pela Presidência desta Corte.
+4. "A mera juntada do comprovante de agendamento de pagamento das custas não constitui meio apto à comprovação de que o preparo do recurso especial foi efetivamente recolhido" (AgInt no AREsp n. 2.315.909/GO, Relator Ministro Humberto Martins, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024).
+5. A alegação de falha da instituição financeira, que seria a responsável por promover o agendamento no recolhimento das custas recursais, não foi comprovada e caracteriza inovação recursal.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.591.156/MS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024 - sem grifo no original).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A jurisprudência do STJ possui entendimento segundo o qual deve ser reconhecida a deserção do recurso especial se, após a intimação, nos termos do art. 1.007, § 4º, do CPC/15, a parte não comprovar o pagamento ou não o efetuar em dobro.
+2. No presente caso, mesmo após a intimação da parte recorrente para que sanasse o vício apontado no prazo de 5 (cinco) dias, não houve a comprovação da regularidade no recolhimento do preparo no prazo fixado, o que impõe a incidência da Súmula 187 do STJ. Deserção do recurso especial reconhecida. Precedentes.
+3. Os recursos dirigidos à instância superior desacompanhados de procuração ou em que a cadeia de substabelecimentos mostra-se incompleta são inexistentes, à luz do disposto na Súmula 115 do STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.601.977/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024 - sem grifo no original).
+Nesse contexto, estando a decisão agravada em harmonia com o entendimento jurisprudencial desta Corte Superior, o recurso encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
