@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que não admitiu o recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, apresentado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL NÃO CONSIGNADO, VINCULADO À COMPOSIÇÃO DE DÍVIDAS.
+Preliminar de Prescrição. O prazo prescricional para a revisão de contratos de crédito pessoal é o decenal, na forma do artigo 205 do Código Civil. O marco inicial da prescrição é a data de assinatura do contrato. Precedentes do STJ e desta Câmara Cível. Não incidência do prazo quinquenal, previsto no art. 27 do CDC, quanto ao contrato sub judice. Mérito. Princípio da força obrigatória dos contratos. Pacta sunt servanda. Mitigação. As disposições do Código de Defesa do Consumidor aplicam-se às instituições  nanceiras. Assim, é cabível a revisão do contrato  rmado entre a instituição bancária e o consumidor de produtos e serviços, restringindo-se, porém, às questões alegadas pelos litigantes. Relativização do princípio do pacta sunt servanda em razão do princípio da função social dos contratos (CDC, artigo 6º, inciso V). Súmula 297 do STJ. Juros remuneratórios. O Superior Tribunal de Justiça, no julgamento do REsp nº 1.061.530/RS, sob o regime de recursos repetitivos, paci cou entendimento de que as instituiçõ es  nanceiras não se sujeitam à limitação dos juros remuneratórios ao patamar de 12% ao ano. Contudo, é possível a revisão da taxa de juros contratada em situações excepcionais, em que evidenciada a abusividade do índice  xado, utilizando-se como parâmetro a taxa média de mercado divulgada pelo Banco Central, consideradas as datas da contratação e a natureza dos créditos concedidos. Limitação dos juros remuneratórios mantida. Descaracterização da mora. No caso, revisada cláusula de normalidade da contratação (juros remuneratórios), resta descaracterizada a mora da parte autora, ainda que o contrato objeto da revisão esteja quitado. Aliás, este fato reforça o afastamento do inadimplemento que caracterizaria a mora. Repetição de indébito e/ou compensação de valores. A repetição de indébito e/ou compensação de valores é cabível quando declarada a ilegalidade e/ou abusividade de encargos contratuais. Mantida a repetição de indébito, na forma simples. Ônus da sucumbência e honorários recursais. Diante do resultado do julgamento, mantida a imposição dos ônus da sucumbência a encargo da parte réu, com  xação de honorários recursais ao procurador da parte autora, face aos parâmetros estabelecidos pelo egrégio STJ no EDcl do AgInt no REsp nº 1.573.573/RJ.
+PRELIMINAR REJEITADA. APELO DESPROVIDO.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 272-275.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 421 do Código Civil, 355, 356 e 927 do Código de Processo Civil e 51, § 1º, do Código de Defesa do Consumidor.
+Sustenta, em síntese, que: a) houve cerceamento ao direito de defesa; e b) a índole abusiva da taxa de juros não pode ser aferida pela mera comparação com a média do Banco Central, devendo ser mantida a taxa contratada.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com efeito, observa-se que, apesar da oposição dos embargos de declaração na origem, o Tribunal a quo não se manifestou a respeito dos arts. 355, 356 do Código de Processo Civil de 2015.
+Nesse contexto , cabe ao recorrente, caso o Tribunal de origem permaneça silente sobre a matéria ventilada, indicar violação do art. 1.022 do CPC/2015 (art. 535 do CPC/73), o que não ocorreu, incidindo, no caso, o óbice da Súmula n. 211 do STJ. A propósito, vide:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE COBRANÇA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. SERVIÇOS DE TELEFONIA. ALEGAÇÃO DE PRESCRIÇÃO DECENAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, não obstante a oposição de embargos declaratórios, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do STJ.
+2. É entendimento desta Corte Superior que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1526952/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/02/2020, DJe 18/03/2020)
+Noutro ponto, quanto à índole abusiva da taxa de juros aplicada pela recorrente, o Tribunal de Justiça, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+"Juros remuneratórios Os juros remuneratórios exigidos pelas instituições  nanceiras não se submetem às limitações da Lei da Usura (Decreto 22.626/1933), conforme entendimento do Supremo Tribunal Federal, a teor da Súmula 596: As disposições do Decreto 22.626/1933 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional.
+Ademais, a questão restou paci cada pelo Superior Tribunal de Justiça, no julgamento do REsp nº 1.061.530/RS, sob o regime dos recursos repetitivos, no sentido de que as instituições  nanceiras não se sujeitam à limitação dos juros remuneratórios ao patamar de 12% ao ano.
+A decisão paradigma, de relatoria da Ministra Nancy Andrigui, foi assim ementada:
+(..)
+Esse entendimento restou sumulado pela Superior Corte de Justiça, por meio do enunciado 382 do STJ, que assim dispõe: "A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade." Registre-se, ainda, que não cabe a utilização da Lei nº 4.595/64 (Lei da Reforma Bancária), para os  ns de limitação da taxa dos juros de normalidade.
+Assim, na esteira do entendimento sedimentado pelo egrégio Superior Tribunal de Justiça, somente nas situações em que  car demonstrada a abusividade dos juros remuneratórios contratados é que se admite a limitação.
+Efetivamente, um dos parâmetros para apuração da existência de abusividade é a taxa média de mercado divulgada pelo BACEN; contudo, de acordo com o Superior Tribunal de Justiça, não se trata de critério único ou absoluto, mas sim de um referencial para fins de constatação de cobrança abusiva.
+(..)
+Diante disso, esta Câmara passou a adotar, como parâmetro para apuração da existência de abusividade, a taxa média de mercado divulgada pelo BACEN, para o tipo de contratação e data em que foi entabulada, acrescida de 30%.
+Dessa forma, somente quando os juros contratados superam esse limite haverá a revisão contratual.
+No caso, a parte autora firmou o Contrato de Empréstimo Pessoal vinculado à composição de dívidas nº 031900024518,  rmado com a instituição  nanceira ré em 01/06/2017, com taxas de juros mensal de 18,50% e anual de 666,69%.
+Em consulta ao site do BACEN 1 , para a mesma modalidade de contrato e data da contratação, observa-se que o percentual dos juros remuneratórios contratados está acima das taxas médias estabelecidas (Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado vinculado à composição de dívidas - Séries 25465 e 20743 - 4,05%a.m. e 60,99%a.a.), bem como do patamar de 30% acrescido à referida taxa, de modo que está caracterizada a abusividade.
+Dessa forma, vai mantida a sentença quanto à limitação dos juros remuneratórios."
+Portanto, na espécie, a instância julgadora a quo concluiu criteriosamente pelo caráter abusivo dos juros remuneratórios pactuados, considerando que excederam, de forma considerável, a taxa média de mercado. Nesse contexto, observa-se que a controvérsia foi decidida em conformidade com a jurisprudência desta Corte de Justiça. A propósito:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE CARTÃO DE CRÉDITO. FUNDAMENTAÇÃO. AUSENTE. SÚMULA 284/STF. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DE MERCADO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação revisional de contrato de cartão de crédito.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Os juros remuneratórios incidem à taxa média de mercado em operações da espécie, apurados pelo Banco Central do Brasil, quando verificada pelo Tribunal de origem a abusividade do percentual contratado ou a ausência de contratação expressa.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido."
+(AgInt no REsp n. 1.914.387/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. JUROS REMUNARATÓRIOS. TAXA MÉDIA. REFERENCIAL. HONORÁRIOS ADVOCATÍCIOS. NASCEDOURO DO DIREITO. DATA DA SENTENÇA. SÚMULA 568/STJ
+1. Ação declaratória de inexigibilidade de débito.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A jurisprudência do STJ é no sentido de que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+Precedentes.
+5. A jurisprudência do STJ é no sentido de que a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015. Assim, se o capítulo acessório
+da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado.
+Precedente da Corte Especial.
+6. Recurso especial conhecido e não provido."
+(AgInt no REsp n. 1.977.593/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE CRÉDITO PESSOAL.
+JUROS REMUNERATÓRIOS. ABUSIVIDADE. CONFIGURADA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação revisional de contrato de crédito pessoal cumulada com repetição
+de indébito e compensação por danos morais.
+2. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil. Temas repetitivos 24 a 27.
+3. Agravo interno no agravo em recurso especial não provido."
+(AgInt no AREsp n. 2.167.236/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. BANCÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. VENDA CASADA. SEGURO. DESCABIMENTO. SÚMULA 83/STJ. JUROS REMUNERATÓRIOS. ÍNDOLE ABUSIVA. SÚMULA 382/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+2. A jurisprudência do STJ, firmada sob a sistemática dos recursos repetitivos, orienta que "o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" (REsp 1.639.320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe de 17/12/2018).
+3. "A jurisprudência desta Corte decidiu que o fato de as taxas de juros excederem o limite de 12% ao ano não configura abusividade, devendo, para seu reconhecimento, ser comprovada sua discrepância em relação à taxa média de mercado divulgada pelo BACEN" (AgInt no AREsp 1.473.053/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/11/2019, DJe de 19/11/2019).
+4. No presente caso, o Tribunal de origem concluiu que os juros remuneratórios superam em muito a média do percentual apurado para a época, de modo que a cobrança foi reputada como abusiva no caso concreto.
+5. Agravo interno desprovido."
+(AgInt no REsp n. 2.018.402/RS, relator Ministro RAUL ARAÚJO, Quarta
+Turma, julgado em 13/2/2023, DJe de 28/2/2023)
+Verifica-se, portanto, que o acórdão recorrido está em consonância com o entendimento jurisprudencial desta Corte Superior. Logo, a manutenção do referido acórdão, no ponto objeto do recurso, é medida que se impõe, mormente ante a incidência da Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
