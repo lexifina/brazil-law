@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ DONIZETTI PICINI, em face da decisão de fls. 406/409, desta relatoria, que deu provimento ao recurso especial interposto por BRF S/A, a fim de reconhecer a ilegitimidade da recorrente para figurar no polo passivo da causa.
+Nas razões dos presentes aclaratórios, o embargante alega o seguinte: "deve-se esclarecer se o Recorrido(Autor), que se sagrou vencedor na ação principal, será condenado a pagar 20% de honorários sucumbenciais à Recorrente BRF enquanto suas Patronas receberão apenas 10% de honorários da Ré Unimed, ou se, tendo sido excluída a Recorrente BRF do polo passivo da demanda a Ré Unimed passa a responder integralmente pelos honorários fixados anteriormente em 20%, em sede de Acórdão de Apelação pelo Tribunal de Justiça do Estado de São Paulo" (fl. 1.582).
+Impugnação apresentada às fls. 442/445.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide em decorrência do mero descontentamento da parte com o resultado.
+É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, assiste razão à parte ora embargante, tendo em vista que, de fato, há a existência de obscuridade/erro material na decisão embargada no que diz respeito ao ônus sucumbencial.
+Assim, os embargos merecem acolhimento, para alterar a fixação dos honorários advocatícios, considerando o reconhecimento da ilegitimidade passiva da ora Embargada, deve o embargante arcar com os ônus da sucumbência, condenando-o ao pagamento de custas e despesas processuais, bem como ao pagamento de honorários advocatícios em favor dos patronos da ora Embargada, os quais são fixados em 10% sobre o valor atualizado da causa (Código de Processo Civil, art. 85, § 2º).
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material apontado, nos termos da fundamentação acima exposta.
+Publique-se.
+EMENTA
