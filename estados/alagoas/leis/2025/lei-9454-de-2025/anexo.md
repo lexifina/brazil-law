@@ -1,0 +1,973 @@
+ANEXO I ESPECIFICAÇÃO
+
+RECEITAS CORRENTES (I) 21.503.245.930
+
+Impostos, Taxas e Contribuições de Melhoria 9.914.308.197
+
+Impostos 9.771.260.971
+
+Taxas 143.047.225
+
+Contribuições 698.962.458
+
+Receita Patrimonial 335.072.822
+
+Receita de Serviços 307.548.055
+
+Transferências Correntes 10.139.462.453
+
+Transferências da União e de suas Entidades 3.148.772
+
+Transferências de Instituições Privadas 134.800
+
+Transferências de Outras Instituições Públicas
+
+Outras Receitas Correntes 107.891.946
+
+RECEITAS DE CAPITAL (II) 1.190.599.015
+
+Operações de Crédito 1.177.529.343
+
+Alienação de Bens 13.069.672
+
+Amortização de Empréstimos 0
+
+Transferências de Capital 0
+
+RECEITAS INTRAORÇAMENTÁRIAS (III) 773.496.284
+
+TOTAL BRUTO (IV) = I + II + III 23.467.341.229
+
+DEDUÇÕES CONSTITUCIONAIS E LEGAIS (V) -4.922.520.764
+
+TOTAL LÍQUIDO (VI) = IV + V 18.544.820.466
+
+OBS: Apenas Orçamento Fiscal e da Seguridade Social - OFSS
+
+ANEXO II
+
+DESPESAS CORRENTES (I) 14.459.780.373
+
+Pessoal e Encargos Sociais 8.512.378.595 Juros e Encargos da Dívida 684.499.229 Outras Despesas Correntes 5.262.902.549 DESPESAS DE CAPITAL (II) 3.293.127.798 Investimentos 2.401.150.211 Inversões Financeiras 276.513.000 Amortização da Dívida 615.464.587 RESERVA DE CONTIGÊNCIA (III) 79.207.843 DESPESAS INTRAORÇAMENTÁRIAS (IV) 712.704.447 TOTAL LÍQUIDO (V) = I + II + III + IV 18.544.820.461 DEDUÇÕES CONSTITUCIONAIS E LEGAIS (VI) -4.922.520.764 TOTAL BRUTO (VII) = V - VI 23.467.341.225 OBS: Apenas Orçamento Fiscal e da Seguridade Social - OFSS
+
+ANEXO III
+
+ESPECIFICAÇÃO 13530 COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO 1.500.000
+
+21515 ALAGOAS ATIVOS S.A 5.000.000
+
+26537 COMPANHIA DE SANEAMENTO DE ALAGOAS - CASAL 5.723.079
+
+29529 GÁS DE ALAGOAS S.A 4.491.984
+
+TOTAL GERAL 16.715.063
+
+OBS: Apenas Orçamento da Esfera Investimento.
+
+ANEXO IV
+
+DESPESAS CORRENTES (I) 0 Pessoal e Encargos Sociais 0
+
+Juros e Encargos da Dívida 0
+
+Outras Despesas Correntes 0 DESPESAS DE CAPITAL (II) 16.715.063
+
+Investimentos 16.715.063
+
+Inversões Financeiras 0
+
+Amortização da Dívida 0 RESERVA DE CONTIGÊNCIA (III) 0 DESPESAS INTRAORÇAMENTÁRIAS (IV) 0 TOTAL GERAL 16.715.063
+
+OBS: Apenas Orçamento da Esfera Investimento.
+
+ANEXO V (Ajuste de despesa) SITUAÇÃO ATUAL
+
+Unidade Orçamentária Programa de Trabalho Região Fonte Categoria Grupo Modalidade Valor
+
+030004 - MINISTÉRIO PÚBLICO 03.122. 0004. 2500 - GESTÃO DE PESSOAS 210 - TODO ESTADO 500 3 1 90 141.689.247
+
+030004 - MINISTÉRIO PÚBLICO 03.122. 0004. 2500 - GESTÃO DE PESSOAS 210 - TODO ESTADO 500 3 1 91 15.546.574
+
+SITUAÇÃO PROPOSTA
+
+Total 157.235.821
+
+Unidade Orçamentária Programa de Trabalho Região Fonte Categoria Grupo Modalidade Valor
+
+030004 - MINISTÉRIO PÚBLICO 03.122. 0004. 2500 - GESTÃO DE PESSOAS 210 - TODO ESTADO 500 3 1 90 171.148.141
+
+030004 - MINISTÉRIO PÚBLICO 03.122. 0004. 2500 - GESTÃO DE PESSOAS 210 - TODO ESTADO 500 3 1 91 15.546.574
+
+SITUAÇÃO ATUAL
+
+Total 186.694.715
+
+Unidade Orçamentária Programa de Trabalho Região Fonte Categoria Grupo Modalidade Valor
+
+030004 - MINISTÉRIO PÚBLICO 03.091. 1011. 3818 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PROMOTORIAS E SEDES ADMINISTRATIVAS 210 - TODO ESTADO 500 4 4 90 35.000.000
+
+SITUAÇÃO PROPOSTA
+
+Total 35.000.000
+
+Unidade Orçamentária Programa de Trabalho Região Fonte Categoria Grupo Modalidade Valor
+
+030004 - MINISTÉRIO PÚBLICO 03.091. 1011. 3818 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PROMOTORIAS E SEDES ADMINISTRATIVAS 210 - TODO ESTADO 500 4 4 90 5.541.106
+
+Total 5.541.106
+
+ANEXO VI EMENDA INDIVIDUAL IMPOSITIVA EMENDA CONSTITUCIONAL Nº 47/2020, art. 174-A, I
+
+Parlamentar: ALEXANDRE AYRES
+
+Ordem de Prioridade
+
+Nº da Emenda Município Beneficiário CNPJ do Município Natureza da
+
+Despesa¹
+
+01 AY 02 PREFEITURA DE MARECHAL DEODORO 12.200.275/0001-58 3340 1.064.135,09
+
+4440 2.482.981,87
+
+01 AY 04 PREFEITURA DE QUEBRANGULO 12.241.675/0001-01 3340 300.000,00
+
+4440 700.000,00
+
+TOTAL 4.547.116,96
+
+Parlamentar: BRUNO TOLEDO
+
+Ordem de Prioridade
+
+Nº da Emenda Município Beneficiário CNPJ do Município Natureza da
+
+Despesa¹
+
+1 BT-05 CAJUEIRO 12.333.738/0001-50 3340 75.000,00
+
+4440 175.000,00
+
+TOTAL 250.000,00
+
+Parlamentar: CIBELE MOURA
+
+1 CM-11 CAPELA 12.333.753/0001-06 3340 30.000,00
+
+4440 70.000,00
+
+1 CM-12 CHÃ PRETA 12.334.629/0001-57 3340 30.000,00
+
+4440 70.000,00
+
+1 CM-13 PARIPUEIRA 35.561.471/0001-53 3340 1.170.634,81
+
+4440 2.731.481,24 TOTAL 4.102.116,05
+
+Parlamentar: MARIA DE FATIMA MOREIRA CANUTO
+
+1 FCR-03 PREFEITURA MUNICIPAL DE MARAGOGI 12.248.522/0001-96 3340 150.000,00
+
+4440 350.000,00
+
+1 FCR-04 PREFEITURA MUNICIPAL DE MAR VERMELHO 12.333.761/0001-44 3340 150.000,00
+
+4440 350.000,00
+
+1 FCR-05 PREFEITURA MUNICIPAL DE SÃO MIGUEL DOS CAMPOS 12.264.222/0001-09 3340 150.000,00
+
+4440 350.000,00
+
+1 FCR-06 PREFEITURA MUNICIPAL DE DELMIRO GOUVEIA 12.224.895/0001-27 3340 108.000,00
+
+3340 252.000,00
+
+1 FCR-07 PREFEITURA MUNICIPAL DE PILAR 12.200.150/0001-28 3340 656.135,08
+
+4440 1.530.981,87 TOTAL 4.047.116,95
+
+Parlamentar: GABI GONÇALVES
+
+1 GG-01 MUNICÍPIO DE RIO LARGO 12200168/0001-20 4440 4.372.116,96
+
+2 GG-03 MUNICÍPIO DE MARAGOGI 12248522/0001-96 4440 100.000,00
+
+2 GG-02 MUNICÍPIO DE SANTA LUZIA DO NORTE 12200317/0001-50 4440 75.000,00 TOTAL 4.547.116,96
+
+Parlamentar: INÁCIO LOIOLA DAMASCENO FREITAS
+
+IL-06 OURO BRANCO 12.258.141/0001-98 4440 500.000,00
+
+IL-07 SENADOR RUI PALMEIRA 12.421.137/0001-07 4440 500.000,00
+
+IL-08 PARICONHA 35.634.435/0001-72 4440 500.000,00
+
+IL-09 MONTEIROPOLIS 12.251.450/0001-36 4440 450.000,00
+
+IL-10 CANAPI 12.367.892/0001-42 4440 250.000,00
+
+TOTAL 2.200.000,00
+
+Parlamentar: REMI CALHEIROS
+
+1 RC-02 PREFEITURA MUNICIPAL DE MURICI 12.332.953/0001-36 4440 4.547.116,96 TOTAL 4.547.116,96
+
+Parlamentar: ROSE DAVINO
+
+1 RD-03 PREFEITURA DE MAJOR IZIDORO 12.228.904/0001-58 3340 450.000,00
+
+4440 1.050.000,00 TOTAL 1.500.000,00
+
+Parlamentar: GEORGE RAPOSO MAIA NETO (LELO MAIA)
+
+2 LM-01 JUNDIÁ 11.351.867/0001-08 3340 210.000,00
+
+4440 490.000,00
+
+2 LM-02 NOVO LINO 11.272.216/0001-22 3340 15.000,00
+
+4440 35.000,00
+
+2 LM-03 OLIVENÇA 11.248.030/0001-38 3340 90.000,00
+
+4440 210.000,00
+
+TOTAL 1.050.000,00
+
+ANEXO VII EMENDA INDIVIDUAL IMPOSITIVA ESTABELECIDO NO ART. 44, DA LEI ESTADUAL Nº 9.342/2024 (LDO)
+
+EMENDA CONSTITUCIONAL Nº 42/2019
+
+Parlamentar: ALEXANDRE AYRES Nº da emenda:
+
+AY 01 Identificação do objeto (finalidade):
+
+01 FUNDO MUNICIPAL DE SAÚDE DE MARECHAL DEODORO 11.294.109/0001-03 27524 10.302. 1015. 5069 SAÚDE 3341 210-TODO ESTADO 3.547.116,97
+
+AY 03 Identificação do objeto (finalidade):
+
+01 FUNDO MUNICIPAL DE SAÚDE DE QUEBRANGULO 07.543.773/0001-63 27524 10.301. 1016. 5065 SAÚDE 3341 210-TODO ESTADO 1.000.000,00
+
+TOTAL 4.547.116,97
+
+Parlamentar: ANDRE SILVA Nº da emenda: AS – 01 Identificação do objeto (finalidade):
+
+CUSTEIO DAS DESPESAS DAS MEDIDAS DE SAÚDE DE ATENÇÃO PRIMÁRIA DO MUNICÍPIO
+
+Programa de Trabalho¹ Área Temática
+
+01 FUNDO MUNICIPAL DE SAÚDE DE JUNQUEIRO 11.768.552/0001-60 27524 10.301. 1016. 5065 SAÚDE 3341 210 4.527.233,93
+
+Nº da emenda: AS – 03 Identificação do objeto (finalidade): DESENVOLVIMENTO DOS PROJETOS SOCIAIS DESEMPENHADOS NA REGIÃO
+
+Programa de Trabalho¹ Área Temática
+
+01 INSTUTO MÃOS DO MUNDO 09.133.682/0001-85 15024 08.244. 1027. 5214 ASSISTÊNCIA 3350 210 50.000,00
+
+Nº da emenda: AS – 04 Identificação do objeto (finalidade): DESENVOLVIMENTO DA ASSISTENCIA SOCIAL NO MUNICIPIO
+
+Programa de Trabalho¹ Área Temática
+
+01 FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL DE PORTO DE PEDRAS
+
+18.191.465/0001-32 15526 08.244. 1027. 5199 ASSISTÊNCIA 3341 210 50.000,00
+
+Nº da emenda: AS - 05 Identificação do objeto (finalidade): DESENVOLVIMENTO DO ESPORTE NO AMBITO DO ESTADO DE ALAGOAS
+
+01 INSTITUTO FAF DE POTENCIAL PLENO - IFPP 27.772.554/0001-63 36021 27.811. 1021. 5170 ESPORTE 3350 210 2.000.000,00
+
+Nº da emenda: AS – 06 Identificação do objeto (finalidade): DESENVOLVIMENTO DA ASSISTENCIA SOCIAL NO MUNICIPIO
+
+01 FUNDO MUNICIPAL DE ASSISTÊNCIA DE JUNQUEIRO 13.073.096/0001-60 15526 08.244. 1027. 5199 ASSISTÊNCIA 3341 210 2.380.000,00
+
+Nº da emenda: AS – 07 Identificação do objeto (finalidade):
+
+01 CONSELHO COMUNITARIA DE DESENVOLVIMENTO SOCIAL DO
+
+BAIRRO BENEDITO BENTES - CODEBENTES
+
+12.955.922/0001-31 15526 08.244. 1027. 5200 ASSISTÊNCIA 3350 210 17.000,00
+
+Nº da emenda: AS – 08 Identificação do objeto (finalidade):
+
+DESENVOLVIMENTO DA SAÚDE NO MUNICÍPIO
+
+01 Fundo Municipal de Saúde de Porto de Pedras 11.652.985/0001-56 27524 10.301. 1016. 5065 SAÚDE 3341 210 50.000,00
+
+Nº da emenda: AS – 09 Identificação do objeto (finalidade):
+
+DESENVOLVIMENTO DA SAÚDE NO MUNICÍPIO
+
+01 Fundo Municipal de Saúde de Campo Grande 11.169.951/0001-05 27524 10.301. 1016. 5065 SAÚDE 3341 210 20.000,00
+
+Parlamentar: ANTONIO ALABUQUERQUE Nº da emenda: AA-01 Identificação do objeto (finalidade):
+
+01 FUNDO DE SAÚDE 37524 10.301. 1016. 5065 3341 210-TODO ESTADO 9.094.233,93
+
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR Parlamentar: BRENO ALBUQUERQUE
+
+Nº da emenda: BA-01 Identificação do objeto (finalidade):
+
+Fornecer meios para garantir a continuidade do trabalho Instituto Filial Arapiraca, assegurando as pessoas menos favorecidas oportunidade de assistência em várias especialidades.
+
+1 INSTITUTO SERTANEJO DE APOIO AO SER (FILIAL) 08.150.239/0002-30 27524 10.301. 1016. 5065 SAÚDE 3350 210-TODO ESTADO 2.047.116,96
+
+Nº da emenda: BA-02 Identificação do objeto (finalidade):
+
+Fornecer meios para garantir a continuidade do trabalho Instituto Filial Arapiraca, assegurando as pessoas menos favorecidas oportunidade de assistência social em diversas situações.
+
+1 INSTITUTO SERTANEJO DE APOIO AO SER (FILIAL) 08.150.239/0002-30 15024 08.244. 1027. 5214 ASSISTÊNCIA
+
+SOCIAL
+
+3350 210-TODO ESTADO 1.047.116,96
+
+Nº da emenda: BA-03 Identificação do objeto (finalidade):
+
+Fornecer meios para garantir a continuidade do trabalho desenvolvido pelo instituto, onde se ambiciona criar uma representatividade de Alagoas no cenário nacional do futebol, gerando, dessa forma, grandes retornos para o estado, inclusive
+
+financeiro. Ordem de prioridade
+
+1 INSTITUTO FAF DE POTENCIAL PLENO - IFPP 27.772.554/0001-63 36021 27.812. 1021. 5163 ESPORTE E LAZER 3350 210-TODO ESTADO 2.000.000,00
+
+Nº da emenda: BA-04 Identificação do objeto (finalidade):
+
+Emenda destinada ao atendimento das demandas de atenção básica da saúde pública do município.
+
+1 FUNDO MUNICIPAL DE SAÚDE DE SANTANA DO MUNDAÚ 10.254.294/0001-31 27524 10.301. 1016. 5065 SAÚDE 3341 210-TODO ESTADO 500.000,00
+
+Nº da emenda: BA-05 Identificação do objeto (finalidade):
+
+Emenda destinada ao atendimento das demandas de infraestrutura do município de Santana do Mundaú.
+
+2 PREFEITURA MUNICIPAL DE SANTANA DO MUNDAÚ 12.332.979/0001-84 26031 15.451. 1031. 3813 INFRAESTRUTURA 3341 210-TODO ESTADO 150.000,00
+
+4441 210-TODO ESTADO 350.000,00
+
+Nº da emenda: BA-06 Identificação do objeto (finalidade):
+
+Emenda destinada ao atendimento das demandas de atenção básica da saúde pública do município.
+
+2 FUNDO MUNICIPAL DE SAÚDE DE CAMPO GRANDE 11.169.951/0001-05 27524 10.301. 1016. 5065 SAÚDE 3341 210-TODO ESTADO 500.000,00
+
+Nº da emenda: BA-07 Identificação do objeto (finalidade):
+
+Fornecer meios para garantir a continuidade do trabalho Instituto Filial Arapiraca, assegurando as pessoas menos favorecidas oportunidade de assistência social em diversas situações.
+
+2 FUNDO MUNICIPAL DE SAÚDE DE OLHO D'ÁGUA GRANDE 11.207.613/0001-10 27524 10.301. 1016. 5065 SAÚDE 3341 210-TODO ESTADO 500.000,00
+
+Nº da emenda: BA-08 Identificação do objeto (finalidade):
+
+Fornecer meios para garantir a continuidade do trabalho desenvolvido pelo instituto, onde se ambiciona criar uma representatividade de Alagoas no cenário nacional do futebol, gerando, dessa forma, grandes retornos para o estado, inclusive
+
+financeiro. Ordem de prioridade
+
+2 AGREMIAÇÃO SPORTIVA ARAPIRAQUENSE - ASA 12.439.568/0001-92 36021 27.812. 1021. 5163 ESPORTE E LAZER 3350 210-TODO ESTADO 1.000.000,00
+
+Nº da emenda: BA-09 Identificação do objeto (finalidade):
+
+Emenda destinada ao atendimento das demandas de atenção básica da saúde pública do município.
+
+1 INSTITUTO DE SAÚDE E CIDANANIA DO BRASIL 36.010.793/0001-77 27524 10.301. 1016. 5065 SAÚDE 3350 210-TODO ESTADO 1.000.000,00
+
+TOTAL 9.094.233,92
+
+Parlamentar: BRUNO TOLEDO Nº da emenda: BT-01 Identificação do objeto (finalidade): FUNDO ESTADUAL DE SAÚDE
+
+1 FUNDO DE SAÚDE 27524 10.302. 1015. 5069 4441 210 TODO ESTADO 7.044.233,93
+
+Nº da emenda: BT-02 Identificação do objeto (finalidade): Aquisição de equipamentos agrícolas, como trator, grade aradora e retroescavadeira, para a Associação Sônia Suruagy do Amaral, visando a tecnificação das atividades agroindustriais, recuperação de açudes e barreiros, e fortalecimento da agricultura
+
+familiar no povoado Curral Novo, zona rural de Major Isidoro – AL. Ordem de prioridade
+
+1 ASSOCIAÇÃO SÔNIA SURUAGY 10.880.369/0001-90 14000 20.607. 1025. 3703 AGRICULTURA 4450 210 TODO ESTADO 800.000,00
+
+Nº da emenda: BT-03 Identificação do objeto (finalidade): Os alunos do NES recebem treinamento avançado em Matemática e Computação, com disciplinas de nível universitário e atividades pedagógicas voltadas para a solução de problemas reais.
+
+1 FUNDEPES 12.449.880/0001-67 20000 12.368. 1012. 3794 EDUCAÇÃO 3350 210 TODO ESTADO 500.000,00
+
+Nº da emenda: BT-04 Identificação do objeto (finalidade): Realização de investimentos na infraestrutura da unidade cajuerense, incluindo reformas estruturais para proporcionar um ambiente mais confortável, seguro e adequado tanto para pacientes quanto para funcionários. Aprimorando a qualidade dos
+
+serviços de saúde oferecidos pela unidade. Ordem de prioridade
+
+1 FUNDO MUNICIPAL DE SAÚDE DE CAJUEIRO 11.436.366/0001-24 27524 10.302. 1015. 3764 SAÚDE 4441 210 TODO ESTADO 300.000,00
+
+Nº da emenda: BT-06 Identificação do objeto (finalidade): Destinação de recursos ao Instituto Amiga da Gente para execução de projetos voltados à promoção dos direitos sociais, inclusão e assistência às famílias em situação de vulnerabilidade no município de Palmeira dos Índios.
+
+1 INSTITUTO AMIGA DA GENTE 32.287.116/0001-40 15526 08.244. 1027. 5199 Assistência
+
+Social
+
+3350 210 TODO ESTADO 200.000,00
+
+TOTAL 8.844.233,93
+
+Parlamentar: CABO BEBETO
+
+Nº da emenda: CB-01 Identificação do objeto (finalidade): GUARDA-CHUVA SAÚDE
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVIL - SAUDE 27524 10.301. 1016. 5065 SAÚDE
+
+4450 210 - TODO ESTADO 2.273.558,49
+
+3350 210 - TODO ESTADO 2.273.558,48
+
+Nº da emenda: CB-02 Identificação do objeto (finalidade): GUARDA-CHUVA DEMAIS ÁREAS
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVIL - DEMAIS AREAS 13017 28.845. 0000. 2056 DEMAIS ÁREAS
+
+4450 210 - TODO ESTADO 2.273.558,48
+
+3350 210 - TODO ESTADO 2.273.558,48
+
+Parlamentar: CARLA DANTAS LIMA E SILVA Nº da emenda: CD-01 Identificação do objeto (finalidade):
+
+1 FUNDO ESTADUAL DE SAÚDE 4490 210 - TODO O ESTADO 9.094.233,93 TOTAL 9.094.233,93 Parlamentar: CIBELE CORADO DE MOURA Nº da emenda: CM-01 Identificação do objeto (finalidade): Ordem de prioridade Beneficiário CNPJ do beneficiário Unidade Orçamentária Programa de Trabalho¹ Área Temática Natureza da
+
+1 FUNDO MUNICIPAL DE SAÚDE DE CAPELA/AL 11.203.936/0001-36 27524 10.301. 1016. 5065 SAÚDE 3341 210-TODO ESTADO 400.000,00
+
+Nº da emenda: CM-02 Identificação do objeto (finalidade): Ordem de prioridade Beneficiário CNPJ do beneficiário Unidade Orçamentária Programa de Trabalho¹ Área Temática Natureza da
+
+1 FUNDO MUNICIPAL DE SAÚDE DE CHÃ PRETA/AL 11.401.087/0001-25 27524 10.301. 1016. 5065 SAÚDE 3341 210-TODO ESTADO 400.000,00
+
+Nº da emenda: CM-03 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAUDE PARIPUEIRA 11.432.702/0001-60 27524 10.301. 1016. 5065 SAÚDE 3341 210-TODO ESTADO 3.747.117,88
+
+Nº da emenda: CM-04 Identificação do objeto (finalidade):
+
+2 SECRETARIA DE ESTADO DE TURISMO 49.111.687/0001-21 29032 23.695. 1022. 5023 TURISMO 3390 210-TODO ESTADO 280.000,00
+
+Nº da emenda: CM-05 Identificação do objeto (finalidade): Ordem de prioridade Beneficiário CNPJ do beneficiário Unidade Orçamentária Programa de Trabalho¹ Área Temática Natureza da
+
+2 FEDERAÇÃO ALAGOANA DE HANDEBOL 09.315.581/0001-25 36021 27.812. 1021. 5163 ESPORTE 3350 210-TODO ESTADO 20.000,00
+
+Nº da emenda: CM-06 Identificação do objeto (finalidade):
+
+2 FEDERAÇÃO DE BASKETBALL DE ALAGOAS 08.629.727/0001-44 36021 27.812. 1021. 5163 ESPORTE 3350 210-TODO ESTADO 20.000,00
+
+Nº da emenda: CM-07 Identificação do objeto (finalidade):
+
+2 ASSOCIAÇÃO CAPOEIRA CANDEIAS DE ALAGOAS 26.939.360/0001-47 36021 27.812. 1021. 5163 ESPORTE 3350 210-TODO ESTADO 15.000,00
+
+Nº da emenda: CM-08 Identificação do objeto (finalidade):
+
+2 ASSOCIAÇÃO DOS MORADORES DO RESIDENCIAL
+
+GRACILIANO RAMOS 35.742.477/0001-27 36021 27.812. 1021. 5163 ESPORTE 3350 210-TODO ESTADO 20.000,00
+
+Nº da emenda: CM-09 Identificação do objeto (finalidade):
+
+2 ASSOCIAÇÃO TEATRAL NEGA FULÔ 05.162.686/0001-30 18021 13.392. 1020. 5104 CULTURA 3350 210-TODO ESTADO 40.000,00
+
+Nº da emenda: CM-10 Identificação do objeto (finalidade):
+
+2 FEDERAÇÃO ALAGOANA DE TÊNIS 08.628.836/0001/47 36021 27.812. 1021. 5163 ESPORTE 3350 210-TODO ESTADO 50.000,00
+
+TOTAL 4.992.117,88
+
+Parlamentar: DELEGADO LEONAM Nº da emenda: DL-01
+
+Região de Planejamento Valor
+
+1 FUNDO DE SAUDE 27524 10.302. 0205. 4347 3341 3.000.000,00 Nº da emenda: DL-02
+
+Região de Planejamento Valor
+
+1 FUNDO DE SAUDE 27524 10.302. 0205. 4347 3341 1.000.000,00 Nº da emenda: DL-03
+
+Região de Planejamento Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 27524 10.301. 0205. 4319 3350 250.000,00 Nº da emenda: DL-04
+
+Região de Planejamento Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 27524 10.301. 0205. 4319 3350 297.116,97 Nº da emenda: DL-05
+
+Região de Planejamento Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 13017 28.845. 0000. 2056 3350 200.000,00
+
+Nº da emenda: DL-06 Identificação do objeto (finalidade):
+
+Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 13017 28.845. 0000. 2056 3350 50.000,00
+
+Nº da emenda: DL-07
+
+Região de Planejamento Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 13017 28.845. 0000. 2056 3350 100.000,00
+
+Nº da emenda: DL-08
+
+Região de Planejamento Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 13017 28.845. 0000. 2056 3350 200.000,00
+
+Nº da emenda: DL-09
+
+Região de Planejamento Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 13017 28.845. 0000. 2056 3350 250.000,00
+
+Nº da emenda: DL-10
+
+Região de Planejamento Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 13017 28.845. 0000. 2056 3350 1.247.116,96
+
+Nº da emenda: DL-11
+
+Região de Planejamento Valor
+
+2 ORGANIZAÇÃO DE SOCIEDADE CIVIL 13017 28.845. 0000. 2056 3350 2.500.000,00
+
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR Parlamentar: JOSÉ WANDERLEY NETO Nº da emenda: DRW-01 Identificação do objeto (finalidade):
+
+1 FUNDO DE SAÚDE 3341 4.547.116,97 Nº da emenda: DRW-02 Identificação do objeto (finalidade):
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVIL - SAÚDE 3350 4.547.116,96 TOTAL 9.094.233,93
+
+Parlamentar: DUDU RONALSA Nº da emenda: DR-001 Identificação do objeto (finalidade):
+
+1 INSTITUTO DIVA ALVES DO BRASIL 12.955.134/0001-45 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO ESTADO 2.273.558,48
+
+Nº da emenda: DR- 002 Identificação do objeto (finalidade):
+
+1 INSTITUTO SAÚDE E CIDADANIA DO BRASIL 36.010.793/0001-77 27524 10.302. 0205. 4348 SAÚDE 3350 210-TODO ESTADO 3.000.000,00
+
+Nº da emenda: DR - 003 Identificação do objeto (finalidade):
+
+1 IEPA - INSTITUTO EDUCACIONAL PROFISSIONALIZANTE DA
+
+AMÉRICA 33.686.401/0001-04 20020 12.368. 1013. 3775 EDUCAÇÃO 3350 210-TODO ESTADO 1.820.675,45
+
+Nº da emenda: DR -004 Identificação do objeto (finalidade):
+
+1 INSTITUTO FAF DE POTENCIAL PLENO - IFPP 27.772.554/0001-63 36021 27.812. 0010. 4392 ESPORTE 3350 210-TODO ESTADO 2.000.000,00 TOTAL 9.094.233,93
+
+Parlamentar: MARIA DE FATIMA MOREIRA CANUTO Nº da emenda: FCR-001 Identificação do objeto (finalidade):
+
+CUSTEIO DAS DESPESAS DE SAUDE DO MUNICIPIO
+
+1 FUNDO MUNICIPAL DE SAUDE DE PILAR 11.405.124/0001-73 27524 10.302. 1015. 5069 SAÚDE 3341 210-TODO ESTADO 4.047.116,97
+
+Nº da emenda: FCR-002 Identificação do objeto (finalidade):
+
+CUCUSTEIO DAS DESPESAS DE SAÚDE DE ATENÇÃO PRIMÁRIA DO MUNICIPIO
+
+1 FUNDO MUNICIPAL DE SAUDE DE MARAGOGI 11.781.909/0001-40 27524 10.301. 1016. 5065 SAÚDE 3341 210-TODO ESTADO 500.000,00
+
+Nº da emenda: FCR-008 Identificação do objeto (finalidade):
+
+AQUISIÇÃO DE MÁQUINAS E EQUIPAMENTOS E DESPESA DE CUSTEIO RELACIONADAS AO CULTIVO DO CAMARÃO
+
+1 INSTITUTO OBJETIVA ALAGOAS 20.485.436/0001-25 14030 20.605. 1025. 3702 AGRICULTURA 4450 210-TODO ESTADO 300.000,00
+
+Nº da emenda: FCR-008 Identificação do objeto (finalidade):
+
+AQUISIÇÃO DE MÁQUINAS E EQUIPAMENTOS E DESPESA DE CUSTEIO RELACIONADAS AO CULTIVO DO CAMARÃO
+
+1 INSTITUTO OBJETIVA ALAGOAS 20.485.436/0001-25 14030 20.605. 1025. 3702 AGRICULTURA 3350 210-TODO ESTADO 200.000,00
+
+TOTAL 5.047.116,97
+
+Nº da emenda: FT-07 Identificação do objeto (finalidade):
+
+1 SOCIEDADE CIVIL DO DESENVOLVIMENTO CULTURAL E SOCIAL
+
+DO ESTADO DE ALAGOAS - SOCEAL
+
+04.626.489/0001-62 27524 10.301. 1016. 5065 SAÚDE 4441-3341 210-TODO ESTADO 600.000,00
+
+TOTAL 9.694.233,93
+
+Parlamentar: GABI GONÇALVES Nº da emenda: GG-04 Identificação do objeto (finalidade):
+
+REFORMA E AMPLIAÇÃO DE UNIDADES DE SAÚDE DO MUNICÍPIO DE RIO LARGO
+
+1 FUNDO MUNICIPAL DE SAÚDE DE RIO LARGO 11.615.319/0001-48 27524 10.302. 1015. 3764 SAÚDE 4441 204-METROPOLITANA 4.367.116,97
+
+Nº da emenda: GG-05 Identificação do objeto (finalidade):
+
+AQUISIÇÃO DE AMBULÂNCIA
+
+2 FUNDO MUNICIPAL DE SAÚDE DE QUEBRANGULO 07.543.773/0001-63 27524 10.302. 1015. 5070 SAÚDE 4441 210-TODOESTADO 180.000,00
+
+TOTAL 4.547.116,97 Parlamentar: GILVAN BARROS FILHO
+
+Nº da emenda: GBF-01 Identificação do objeto (finalidade):
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVIL - SAÚDE 27524 10.301. 1016. 5065 SAÚDE
+
+4450 210-TODO ESTADO 2.273.558,49
+
+3350 210-TODO ESTADO 2.273.558,48
+
+Nº da emenda: GBF-02 Identificação do objeto (finalidade):
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVIL - DEMAIS ÁREAS 13017 28.845. 0000. 2056 DEMAIS ÁREAS
+
+4450 210-TODO ESTADO 2.273.558,48
+
+3350 210-TODO ESTADO 2.273.558,48
+
+Parlamentar: FERNANDO SOARES PEREIRA
+
+Nº da emenda: FP-01 Identificação do objeto (finalidade):
+
+1 FUNDO ESTADUAL DE SAÚDE 3390 210-TODO ESTADO 4.547.116,97
+
+Nº da emenda: FP-02 Identificação do objeto (finalidade):
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVIL - DEMAIS ÁREAS 4450 210-TODO ESTADO 4.547.116,97 TOTAL 9.094.233,93
+
+Parlamentar: FLÁVIA CAVALCANTE Nº da emenda: FC-01 Identificação do objeto (finalidade):
+
+AÇÃO / CUSTEIO DA SAÚDE
+
+1 SAÚDE 27524 10.302. 1015. 5069 SAÚDE 3341 TODO O ESTADO 5.000.000,00
+
+Nº da emenda: FC-02 Identificação do objeto (finalidade):
+
+AÇÃO / CUSTEIO DA SAÚDE
+
+Ordem de prioridade Beneficiário CNPJ do beneficiário
+
+Unidade Orçamentária Programa de Trabalho¹ Área Temática Natureza da
+
+2 INSTITUTOS 27524 10.302. 1015. 5069 SÁUDE 3350 TODO O ESTADO 4.094.233,93
+
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR Parlamentar: FRANCISCO TENÓRIO Nº da emenda: FT-01 Identificação do objeto (finalidade):
+
+1 SOCIEDADE CIVIL DO DESENVOLVIMENTO CULTURAL E SOCIAL DO ESTADO DE ALAGOAS
+
+- SOCEAL
+
+04.626.489/0001-62 27524 10.301. 1016. 5065 SAÚDE 3350 TODO ESTADO 4.547.116,97
+
+Nº da emenda: FT-02 Identificação do objeto (finalidade):
+
+1 CLUBE DE REGATAS BRASIL - CRB 12.159.281/0001-09 36021 27.812. 0010. 4392 LIVRE 3350 210-TODO ESTADO 3.000.000,00
+
+Nº da emenda: FT-03 Identificação do objeto (finalidade):
+
+1 SOCIEDADE CIVIL DO DESENVOLVIMENTO CULTURAL E SOCIAL DO ESTADO DE ALAGOAS
+
+- SOCEAL
+
+04.626.489/0001-62 36021 27.812. 0010. 4392 LIVRE 3350 210-TODO ESTADO 500.000,00
+
+Nº da emenda: FT-04 Identificação do objeto (finalidade):
+
+1 SOCIEDADE CIVIL DO DESENVOLVIMENTO CULTURAL E SOCIAL DO ESTADO DE ALAGOAS
+
+- SOCEAL
+
+04.626.489/0001-62 26031 16.482. 1043. 3743 LIVRE 3350 210-TODO ESTADO 247.116,96
+
+Nº da emenda: FT-05 Identificação do objeto (finalidade):
+
+1 SOCIEDADE CIVIL DO DESENVOLVIMENTO CULTURAL E SOCIAL DO ESTADO DE ALAGOAS
+
+- SOCEAL
+
+04.626.489/0001-62 14030 20.605. 1043. 3580 LIVRE 3350 210-TODO ESTADO 200.000,00
+
+Nº da emenda: FT-06 Identificação do objeto (finalidade):
+
+1 SOCIEDADE CIVIL DO DESENVOLVIMENTO CULTURAL E SOCIAL DO ESTADO DE ALAGOAS
+
+- SOCEAL
+
+04.626.489/0001-62 27524 10.301. 1016. 5065 LIVRE 3341 210-TODO ESTADO 600.000,00
+
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR GABI GONÇALVES GILVAN
+
+Nº da emenda: FT-07 Identificação do objeto (finalidade):
+
+1 SOCIEDADE CIVIL DO DESENVOLVIMENTO CULTURAL E SOCIAL
+
+DO ESTADO DE ALAGOAS - SOCEAL
+
+04.626.489/0001-62 27524 10.301. 1016. 5065 SAÚDE 4441-3341 210-TODO ESTADO 600.000,00
+
+TOTAL 9.694.233,93
+
+Parlamentar: GABI GONÇALVES Nº da emenda: GG-04 Identificação do objeto (finalidade):
+
+REFORMA E AMPLIAÇÃO DE UNIDADES DE SAÚDE DO MUNICÍPIO DE RIO LARGO
+
+1 FUNDO MUNICIPAL DE SAÚDE DE RIO LARGO 11.615.319/0001-48 27524 10.302. 1015. 3764 SAÚDE 4441 204-METROPOLITANA 4.367.116,97
+
+Nº da emenda: GG-05 Identificação do objeto (finalidade):
+
+AQUISIÇÃO DE AMBULÂNCIA
+
+2 FUNDO MUNICIPAL DE SAÚDE DE QUEBRANGULO 07.543.773/0001-63 27524 10.302. 1015. 5070 SAÚDE 4441 210-TODOESTADO 180.000,00
+
+TOTAL 4.547.116,97 Parlamentar: GILVAN BARROS FILHO
+
+Nº da emenda: GBF-01 Identificação do objeto (finalidade):
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVIL - SAÚDE 27524 10.301. 1016. 5065 SAÚDE
+
+4450 210-TODO ESTADO 2.273.558,49
+
+3350 210-TODO ESTADO 2.273.558,48
+
+Nº da emenda: GBF-02 Identificação do objeto (finalidade):
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVIL - DEMAIS ÁREAS 13017 28.845. 0000. 2056 DEMAIS ÁREAS
+
+4450 210-TODO ESTADO 2.273.558,48
+
+3350 210-TODO ESTADO 2.273.558,48
+
+IL-12 Identificação do objeto (finalidade):
+
+1 ACADEMIA ALAGOANA DE LETRAS 12.317.947/0001-00 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 100.000,00
+
+IL-14 Identificação do objeto (finalidade):
+
+1 ASSOCIAÇÃO DOS FORROZEIROS DE ALAGOAS 20.389.46/0001-44 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 30.000,00
+
+IL-13 Identificação do objeto (finalidade):
+
+1 INSTITUTO HISTÓRICO E GEOGRÁFICO DE ALAGOAS 12.317.467/0001-49 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 100.000,00
+
+IL-15 Identificação do objeto (finalidade):
+
+1 SINDICATO DOS TRABALHADORES DO PODER LEGISLATIVO DE ALAGOAS 24.471.948/0001-93 27524 10.301. 1016. 5065 SAÚDE 3350 210-TODO ESTADO 10.000,00
+
+IL-16 Identificação do objeto (finalidade):
+
+1 INSTITUTO DR ADELMO FARIAS BARBOSA 10.699.096/0001-81 36021 27.812. 1021. 5163 ESPORTE E LAZER 3350 210-TODO ESTADO 20.000,00 Nº da emenda:
+
+IL-17 Identificação do objeto (finalidade):
+
+1 ASSENTAMENTO QUILOMBO DOS PALMARES 09.173.334/0001-31 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 25.000,00
+
+Parlamentar: INÁCIO LOIOLA DAMASCENO FREITAS Nº da emenda:
+
+IL-01 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE OURO BRANCO 1488779/0001-25 27524 10.302. 1015. 5070 SAÚDE 4441 210-TODO ESTADO 500.000,00
+
+IL-02 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE SENADOR RUI PALMEIRA 11.348.088/0001-53 27524 10.302. 1015. 5070 SAÚDE 4441 210-TODO ESTADO 500.000,00
+
+IL-03 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE PARICONHA 12.092.124/0001-23 27524 10.302. 1015. 5070 SAÚDE 4441 210-TODO ESTADO 500.000,00
+
+IL-04 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE MONTEIROPOLIS 13.079.412/0001-00 27524 10.302. 1015. 5070 SAÚDE 4441 210-TODO ESTADO 450.000,00
+
+IL-05 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE CANAPI 12.091.467/0001-73 27524 10.302. 1015. 5070 SAÚDE 4441 210-TODO ESTADO 250.000,00
+
+IL-11 Identificação do objeto (finalidade):
+
+1 CLUBE DE REGATAS BRASIL 12.159.281/0001-09 36021 27.812. 1021. 5163 ESPORTE E LAZER 3350 210-TODO ESTADO 2.000.000,00
+
+IL-12 Identificação do objeto (finalidade):
+
+1 ACADEMIA ALAGOANA DE LETRAS 12.317.947/0001-00 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 100.000,00
+
+IL-14 Identificação do objeto (finalidade):
+
+1 ASSOCIAÇÃO DOS FORROZEIROS DE ALAGOAS 20.389.46/0001-44 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 30.000,00
+
+IL-13 Identificação do objeto (finalidade):
+
+1 INSTITUTO HISTÓRICO E GEOGRÁFICO DE ALAGOAS 12.317.467/0001-49 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 100.000,00
+
+IL-15 Identificação do objeto (finalidade):
+
+1 SINDICATO DOS TRABALHADORES DO PODER LEGISLATIVO DE ALAGOAS 24.471.948/0001-93 27524 10.301. 1016. 5065 SAÚDE 3350 210-TODO ESTADO 10.000,00
+
+IL-16 Identificação do objeto (finalidade):
+
+1 INSTITUTO DR ADELMO FARIAS BARBOSA 10.699.096/0001-81 36021 27.812. 1021. 5163 ESPORTE E LAZER 3350 210-TODO ESTADO 20.000,00 Nº da emenda:
+
+IL-17 Identificação do objeto (finalidade):
+
+1 ASSENTAMENTO QUILOMBO DOS PALMARES 09.173.334/0001-31 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 25.000,00
+
+IL-18 Identificação do objeto (finalidade):
+
+1 ASSOCIAÇÃO DOS FOLGUEDOS POPULARES DA ZONA SUL DE
+
+MACEIÓ 08.008.642/0001-49 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 20.000,00
+
+IL-19 Identificação do objeto (finalidade):
+
+1 FUNDO DE SAÚDE 13017 10.302. 1015. 5069 4441 210-TODO ESTADO 389.233,93
+
+IL-20 Identificação do objeto (finalidade):
+
+1 FUNDO DE SAÚDE 27524 10.302. 1015. 5069 SAÚDE 4441 210-TODO ESTADO 2.000.000,00
+
+TOTAL 6.894.233,93
+
+Parlamentar: GEORGE RAPOSO MAIA NETO (LELO MAIA) Nº da emenda: LM-04 Identificação do objeto (finalidade):
+
+PROMOVER O RECONHECIMENTO, VALORIZAÇÃO E PRESERVAÇÃO DOS CONSELHEIROS NO ESTADO, BUSCANDO IDENTIFICAR E REGISTRAR PRÁTICAS, SABERES, CELEBRAÇÕES QUE SEJAM IMPORTANTES PARA OS CONSELHEIROS E QUE REFLITA DIRETAMENTE NA PROTEÇÃO DAS CRIANÇAS E ADOLESCENTES, SALVAGUARDANDO E GARANTINDO SUA TRANSMISSÃO, PROMOVENDO E FORTALECENDO A SOCIEDADE.
+
+2 ACECTAL - ASSOCIAÇÃO DE CONSELHEIROS E EX CONSELHEIROS TUTELARES DO ESTADO DE ALAGOAS 20.314.366/0001-42 15526 08.244. 1027. 5206 Assistência Social 3350 210-TODO ESTADO 15.000,00
+
+4450 210-TODO ESTADO 15.000,00
+
+Nº da emenda: LM-05 Identificação do objeto (finalidade):
+
+CONTRIBUIR COM O DESENVOLVIMENTO DO ESPORTE ALAGOANO, APOIANDO ATLETAS, PARATLETAS E TÉCNICOS, POR MEIO DA EXECUÇÃO DE PROGRAMAS E PROJETOS, PROMOVER ATIVIDADES ESPORTIVAS E DE LAZER À POPULAÇÃO, PRINCIPALMENTE A PARCELA QUE VIVE EM SITUAÇÃO DE VULNERABILIDADE SOCIAL, PROMOVENDO SAÚDE E MELHOR QUALIDADE DE VIDA.
+
+2 FEDERAÇÃO ALAGOANA DE BEACH SOCCER - FALABS 08.814.081/0001-75 36522 27.812. 1021. 5163 ESPORTE E LAZER 3350 210-TODO ESTADO 15.000,00
+
+4450 210-TODO ESTADO 15.000,00
+
+Nº da emenda: LM-06 Identificação do objeto (finalidade):
+
+OFERTAR À POPULAÇÃO ALAGOANA AMBIENTE ADEQUADO, COM AMPLIAÇÃO DA OFERTA DOS SERVIÇOS DE SAÚDE, PRESTANDO ASSISTÊNCIA PRIMPARIA, COM CONSULTAS OFTAMOLÓGICAS, GINECOLÓGICAS, CARDIOLÓGICAS, PEDRIÁTRICAS,
+
+OTORRINOS, NUTRICIONISTAS, PSICOLÓGICAS, ENTRE OUTRAS ATIVIDADES VOLTADAS A ÁREA DE ASSISTÊNCIA PRIMÁRIA BEM COMO AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES.
+
+2 INSTITUTO INFA EM PROL DE SÃO MIGUEL DOS
+
+CAMPOS/AL 46.672.146/0001-23 27524 10.301. 1016. 5065 SAÚDE 3350 210-TODO ESTADO 50.000,00 4450 210-TODO ESTADO 50.000,00
+
+Nº da emenda: LM-07 Identificação do objeto (finalidade):
+
+OFERTAR À POPULAÇÃO ALAGOANA AMBIENTE ADEQUADO, COM AMPLIAÇÃO DA OFERTA DOS SERVIÇOS DE SAÚDE, PRESTANDO ASSISTÊNCIA PRIMÁRIA, COM CONSULTAS OFTAMOLÓGICAS, GINECOLÓGICAS, CARDIOLÓGIAS, PEDRIÁTRICAS, OTORRINOS, CLÍNICO GERAL, NUTRICIONISTAS, PSICOLÓGICAS, EXAMES ELETROCARDIOGRAMAS, EXAMES LABORATORIAIS DE BIOQUÍMICA (SANGUE, FEZES, URINA), CITOLOGIAS. BEM COMO AQUISIÇÃO DE EQUIPAMENTO E MATERIAL PERMANENTE.
+
+1 INSTITUTO MACEIÓ 07.209.485/0001-77 15526 10.301. 1016. 5065 SAÚDE 3350 210-TODO ESTADO 3.942.116,96
+
+4450 210-TODO ESTADO 3.942.116,96
+
+TOTAL 8.044.233,92
+
+Parlamentar: MARCELO VICTOR
+
+Nº da emenda: MV-001
+
+Destinar recurso a complementar o custeio dos serviços de Assistência à média e alta complexidade – MAC, com o objetivo de melhorar o atendimento à população, incrementando o financiamento da rede de atendimento e/ou, ainda, atuando na
+
+ampliação do custeio, proporcionando a redução de filas de atendimento. Ordem de prioridade Beneficiário CNPJ do beneficiário Unidade Orçamentária
+
+1 FUNDO ESTADUALDE SAUDE 122.002.159/0001-65 27524 10.302. 1015. 5069 SAÚDE 3341 210-TODO ESTADO 9.094.233,93
+
+TOTAL 9.094.233,93 Parlamentar: MARCOS BARBOSA
+
+Nº da emenda: MB-01 Identificação do objeto (finalidade):
+
+1 SECRETARIA DE ESTADO DA SAÚDE DE ALAGOAS 12.200.259/0001-65 27524 10.302. 1015. 5069 SAÚDE 3390 210-TODO ESTADO 4.547.116,97
+
+Nº da emenda: MB-02 Identificação do objeto (finalidade):
+
+2 SECRETARIA DE ESTADO DA SAÚDE DE ALAGOAS 12.200.259/0001-65 27524 10.302. 1015. 5069 LIVRE 3390 210-TODO ESTADO 4.547.116,96
+
+Parlamentar: MESAQUE DA SILVA PADILHA
+
+Nº da emenda: MP-01 Identificação do objeto (finalidade):
+
+Trabalho¹ Área Temática Natureza da Despesa² Região de Planejamento R$ Valor
+
+1 FUNDO ESTADUAL DE SAUDE 10.301. 1016. 5065 SAUDE 3390 210-TODO ESTADO 5.000.000,00
+
+Nº da emenda: MP-02 Identificação do objeto (finalidade):
+
+Trabalho¹ Área Temática Natureza da Despesa² Região de Planejamento R$ Valor
+
+2 SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO 28.845. 0000. 2056 OUTRA A SER ESPECIFICADA 3390 210-TODO ESTADO 4.094.233,93
+
+Parlamentar: REMI CALHEIROS
+
+Nº da emenda: RC-01 Identificação do objeto (finalidade):
+
+1 Fundo Municipal de Saúde de Murici 11.120.699/0001-40 27524 10.302. 1015. 5069 SAÚDE 3341 210-TODO ESTADO 4.547.116,97 TOTAL 4.547.116,97 Parlamentar: RICARDO NEZINHO Nº da emenda: RN-01 Identificação do objeto (finalidade):
+
+1 FUNDO ESTADUAL DE SAUDE 27524 10.302. 1015. 5069 SAUDE 3390 210-TODO ESTADO 9.094.233,93 TOTAL 9.094.233,93
+
+Parlamentar: JOSÉ RONALDO MEDEIROS
+
+Nº da emenda: RM-01
+
+Serviços de assistência de saúde a pessoas em situação de vulnerabilidade
+
+Programa de Trabalho¹ Área Temática
+
+1 INSTITUTO DE BEM ESTAR SOCIAL 17.630.105/0001-27 27524 10.301. 1016. 5065 SAÚDE 4450 210-TODO ESTADO 6.365.963,75
+
+Nº da emenda: RM-01
+
+Serviços de assistência de saúde a pessoas em situação de vulnerabilidade
+
+Programa de Trabalho¹ Área Temática
+
+1 INSTITUTO DE BEM ESTAR SOCIAL 17.630.105/0001-27 27524 10.301. 1016. 5065 SAÚDE 3350 210-TODO ESTADO 2.728.270,18
+
+Parlamentar: ROSE DAVINO
+
+Nº da emenda: RD-01 Identificação do objeto (finalidade):
+
+1 FUNDAÇÃO BRASIL DE APOIO AO IDOSO - FUNBRASIL 09.412.836/0001-78 27524 10.302. 0205. 4347 SAÚDE
+
+4450 210-TODO ESTADO 5.094.233,93
+
+3350 210-TODO ESTADO 1.500.000,00
+
+Nº da emenda: RD-02 Identificação do objeto (finalidade):
+
+1 INSTITUTO HOLÍSTICO 00.912.532/0001-03 15526 08.244. 0011. 4382 ASSISTÊNCIA SOCIAL 3350 210-TODO ESTADO 20.000,00
+
+Nº da emenda: RD-04 Identificação do objeto (finalidade):
+
+2 INSTITUTO BARÃO DE ÁGUA BRANCA 10.539.785/0001-29 15526 08.244. 0011. 4382 ASSITÊNCIA SOCIAL 3350 210-TODO ESTADO 80.000,00
+
+Nº da emenda: RD-05 Identificação do objeto (finalidade):
+
+2 FAZENDA KERYGMA 03.841.870/0001-62 15526 08.244. 0011. 4382 ASSISTÊNCIA SOCIAL 3350 210-TODO ESTADO 100.000,00
+
+Nº da emenda: RD-06 Identificação do objeto (finalidade):
+
+2 FUNDO MUNICIPAL DE SAÚDE DE MACEIÓ 07.792.137/0001-752 27524 10.302. 1015. 5069 SAUDE 4441 210-TODO ESTADO 400.000,00
+
+Nº da emenda: RD-07 Identificação do objeto (finalidade):
+
+2 INSTITUTO ZEZÉ PACHECO 35.958.256/0001-90 15526 08.244. 0011. 4382 ASSISTÊNCIA SOCIAL 3350 210-TODO ESTADO 400.000,00
+
+TOTAL 7.594.233,93
+
+Parlamentar: SILVIO CAMELO Nº da emenda: SC 01 Identificação do objeto (finalidade):
+
+Ordem de prioridade Beneficiário CNPJ do beneficiário Unidade Orçamentária Programa de
+
+1 ORG. DA SOCIEDADE CIVIL - SAÚDE 27524 10.301. 1016. 5065 SAÚDE 4441 210-TODO ESTADO 4.565.065,93
+
+Nº da emenda: SC 02 Identificação do objeto (finalidade):
+
+Ordem de prioridade Beneficiário CNPJ do beneficiário Unidade Orçamentária Programa de
+
+1 ORG. DA SOCIEDADE CIVIL - DEMAIS ÁREAS 13017 28.845.0000. 4440 210-TODO ESTADO 3.499.168,00
+
+Nº da emenda: SC 03 Identificação do objeto (finalidade):
+
+Ordem de prioridade Beneficiário CNPJ do beneficiário Unidade Orçamentária Programa de
+
+1 DEPARTAMENTO EATADUAL DE TRÂNSITO DE ALDETRAN
+
+04.302.189/0001-28 19006 06.131. 1018. 5048 3390 210-TODO ESTADO 1.000.000,00
+
+Nº da emenda: SC 04 Identificação do objeto (finalidade):
+
+Ordem de prioridade Beneficiário CNPJ do beneficiário Unidade Orçamentária Programa de
+
+1 ACADEMIA ALAGOANA DE LETRAS 12.317.947/0001-00 18021 13.122. 0004. 2700 CULTURA 3350 210-TODO ESTADO 30.000,00
+
+ANEXO VIII
