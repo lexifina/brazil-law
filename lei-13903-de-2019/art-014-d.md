@@ -1,0 +1,1 @@
+Art. 14-D. A subsidiária de que trata o art. 8º-A desta Lei poderá ser contratada, mediante a utilização de recursos do Fundo Aeronáutico, para realização de projetos de interesse do Comando da Aeronáutica.

@@ -1,0 +1,3 @@
+Art. 14-B. São autorizadas a cessão de servidores e de empregados públicos e a colocação de militares à disposição da subsidiária de que trata o art. 8º-A desta Lei, independentemente da ocupação de cargo em comissão ou de função de confiança.
+§ 1º Os militares colocados à disposição da subsidiária de que trata o art. 8º-A desta Lei serão considerados, para todos os efeitos legais, no exercício de cargo de natureza militar.
+§ 2º A subsidiária de que trata o art. 8º-A desta Lei reembolsará os órgãos e as entidades de origem pelas despesas de pessoal com servidores e empregados cedidos ou com militares colocados à disposição na forma prevista neste artigo.
