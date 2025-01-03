@@ -1,0 +1,1 @@
+Art. 8º-A. A NAV Brasil é autorizada a criar subsidiária que terá por objeto explorar economicamente a infraestrutura e a navegação aeroespaciais e as atividades relacionadas ao desenvolvimento de projetos e equipamentos aeroespaciais e realizar projetos e atividades de apoio ao controle aeroespacial e áreas correlatas.
