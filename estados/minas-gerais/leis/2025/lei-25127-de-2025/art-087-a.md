@@ -1,0 +1,1 @@
+Art. 87-A - Na implementação da política estadual de desenvolvimento agrícola, serão adotadas medidas de apoio à agricultura de baixo carbono voltadas para o incentivo à política setorial e à governança, a serem aplicadas na agricultura, na pecuária e na produção florestal de baixo carbono, e voltadas para o desenvolvimento da produção florestal de baixo carbono no Estado.
