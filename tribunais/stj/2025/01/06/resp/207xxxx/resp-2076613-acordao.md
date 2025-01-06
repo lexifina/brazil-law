@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao recurso.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI 1 1.343/2006. FRAÇÃO DE REDUÇÃO EM 1/6. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. POSSIBILIDADE DE MODULAÇÃO DA FRAÇÃO. SÚMULA 83/STJ. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Recurso especial interposto por condenado pela prática de tráfico de drogas, cuja pena foi fixada em 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e 416 dias-multa, após modulação da fração de redução da causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) para 1/6, devido à quantidade e à natureza das drogas apreendidas: 16,4g de crack, 15,2g de cocaína e 542,4g de maconha. O recorrente pleiteia a aplicação da fração máxima de redução (2/3) e a substituição da pena privativa de liberdade por restritivas de direitos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a quantidade e a natureza das drogas apreendidas justificam a aplicação da fração de 1/6 na redução da pena pela causa de diminuição do tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006.
+III. RAZÕES DE DECIDIR
+3. O art. 33, § 4º, da Lei de Drogas permite a redução da pena de 1/6 a 2/3 quando o agente for primário, possuir bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa.
+4. A jurisprudência do STJ admite a modulação da fração de redução com base na quantidade e na natureza das drogas, desde que esses elementos sejam sopesados exclusivamente na terceira fase da dosimetria, sem gerar bis in idem.
+5. No caso, o Tribunal de origem fixou a fração de redução em 1/6 devido à apreensão de quase 600g de drogas, incluindo crack e cocaína, de alto potencial lesivo, o que se mostra proporcional e em consonância com a jurisprudência desta Corte.
+6. Estando a decisão recorrida em harmonia com a jurisprudência do STJ, aplica-se a Súmula 83/STJ, que obsta o conhecimento do recurso especial quando o acórdão recorrido está alinhado com entendimento consolidado.
+IV. RECURSO ESPECIAL DESPROVIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fls. 237-238):
+APELAÇÕES - Artigo 33, §4º da Lei n.º 11.343/06 - Insurgência do MP e do réu - Condenação do réu à pena de 03 anos, 10 meses e 20 dias de reclusão de reclusão, no regime inicial aberto, e pagamento de 388 dias-multa, no mínimo legal - Pedido de absolvição - Descabimento - Materialidade e autoria do tráfico comprovadas - Uníssona prova testemunhal policial - Finalidade de traficância que é corroborada por circunstâncias do caso concreto - Acerto no reconhecimento da prática do crime de tráfico pelo réu - Dosimetria da pena - Primeira fase - Pena base fixada com acerto no mínimo legal - Natureza e quantidade de drogas que não transbordam o tipo - Segunda fase - Afastamento da agravante de calamidade pública - Atenuante da confissão que deve ser reconhecida, sem repercussão na pena, que não pode ser diminuída aquém do mínimo (Súmula 231, STJ) - Terceira fase - Sentença que reconheceu a incidência da causa de diminuição de pena prevista no art. 33, §4º, Lei de Drogas, na fração de 1/3 - Manutenção do privilégio, considerando a primariedade do réu - Quantidade de drogas apreendidas não desbordam ao comum - Aspecto que, isoladamente, não faz concluir pela habitualidade do réu na prática do tráfico ou pelo engajamento inequívoco com atividades ou organização criminosa - Fração de decréscimo que deve ser, todavia, revista - Potencialidade e quantidade de drogas apreendidas que, embora não seja exorbitante, igualmente não pode ser vista como ínfima - Argumentos Ministeriais que devem ser ponderados para reduzir a fração de decréscimo de 1/3 para 1/6 - Apreensão de quase 600g de drogas, divididas em três tipos, inclusive cocaína e crack, de alto potencial lesivo - Pena definitiva aumentada para 04 anos, 02 meses de reclusão e 416 dias-multa, no patamar mínimo - Regime aberto fixado em sentença - Necessidade de agravamento para o semiaberto, considerados o quantum de pena, a não hediondez do tráfico privilegiado e a primariedade do réu - Impossibilidade de substituição de pena privativa de liberdade por restritiva de direitos, ante a fixação da pena acima de 04 anos. Apelação do MP parcialmente provida para (i) reduzir de 1/3 para 1/6 a fração de diminuição que incidiu na terceira fase (art. 33, §4º, Lei de Drogas) e para (ii) aumentar a pena do réu para 04 anos, 02 meses de reclusão e 416 dias-multa, no patamar mínimo e (iii) agravar o regime inicial de cumprimento de pena para o semiaberto e apelação do réu parcialmente provida apenas para (i) afastar a agravante prevista no artigo 61, inciso II, alínea "j", do Código Penal, (ii) reconhecer a atenuante da confissão, todavia, sem repercussão na pena, tudo consoante fundamentação do presente acórdão.
+O recorrente foi condenado pela prática do crime de tráfico de entorpecentes à pena de 3 anos, 10 meses e 20 dias de reclusão, no regime inicial aberto, e pagamento de 388 dias-multa, no mínimo legal.
+No recurso especial, sustenta violação do art. 33, § 4º, da Lei 11.343/2006, ao entendimento de que a minorante do tráfico privilegiado deve incidir na fração máxima de 2/3.
+Requer o provimento do recurso para redimensionar a pena, fixando o regime semiaberto e substituindo a pena reclusiva por restritivas de direitos.
+A insurgência foi admitida na origem e encaminhada a esta Corte.
+O Ministério Público Federal emitiu parecer no sentido do não conhecimento do recurso.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI 1 1.343/2006. FRAÇÃO DE REDUÇÃO EM 1/6. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. POSSIBILIDADE DE MODULAÇÃO DA FRAÇÃO. SÚMULA 83/STJ. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Recurso especial interposto por condenado pela prática de tráfico de drogas, cuja pena foi fixada em 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e 416 dias-multa, após modulação da fração de redução da causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) para 1/6, devido à quantidade e à natureza das drogas apreendidas: 16,4g de crack, 15,2g de cocaína e 542,4g de maconha. O recorrente pleiteia a aplicação da fração máxima de redução (2/3) e a substituição da pena privativa de liberdade por restritivas de direitos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a quantidade e a natureza das drogas apreendidas justificam a aplicação da fração de 1/6 na redução da pena pela causa de diminuição do tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006.
+III. RAZÕES DE DECIDIR
+3. O art. 33, § 4º, da Lei de Drogas permite a redução da pena de 1/6 a 2/3 quando o agente for primário, possuir bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa.
+4. A jurisprudência do STJ admite a modulação da fração de redução com base na quantidade e na natureza das drogas, desde que esses elementos sejam sopesados exclusivamente na terceira fase da dosimetria, sem gerar bis in idem.
+5. No caso, o Tribunal de origem fixou a fração de redução em 1/6 devido à apreensão de quase 600g de drogas, incluindo crack e cocaína, de alto potencial lesivo, o que se mostra proporcional e em consonância com a jurisprudência desta Corte.
+6. Estando a decisão recorrida em harmonia com a jurisprudência do STJ, aplica-se a Súmula 83/STJ, que obsta o conhecimento do recurso especial quando o acórdão recorrido está alinhado com entendimento consolidado.
+IV. RECURSO ESPECIAL DESPROVIDO.
+VOTO
+Presentes os pressupostos intrínsecos e extrínsecos de admissibilidade, impõe-se o conhecimento do recurso especial.
+Quanto ao mérito, extrai-se do acórdão a seguinte fundamentação (fls. 244-247):
+Na terceira fase, foi reconhecida a causa de diminuição de pena prevista no § 4º do artigo 33 da Lei de Drogas, ao argumento de que o réu é primário.
+Requer o MP o afastamento da causa de diminuição de pena, por outro lado, a Defesa pugna pela aplicação da redução em seu patamar máximo.
+O privilégio deve ser mantido.
+O réu é primário (fl. 62, 80/81).
+A quantidade de tóxicos apreendidos não desborda do comum ao tipo, como já mencionado na primeira fase para afastar o pretendido aumento da pena base.
+Neste caso concreto, tal aspecto, isoladamente, não pode ser utilizado para afirmar que o réu não preenche os requisitos legais para que seja aplicado o privilégio.
+A ausência de comprovação do exercício de atividade lícita não é circunstância apta a gerar presunção da dedicação do réu à traficância (STJ. 6ªTurma. HC 665.401/SP. Relª Min. Laurita Vaz, julgado em 01/06/2021).
+Não se observam quaisquer elementos nos autos que sequer indiquem traficância habitual ou engajamento inequívoco do réu com atividades ou organização criminosa.
+Note-se que, ademais, que o MP não indicou nenhum argumento que pudesse corroborar com essa hipótese
+ ..
+Quanto à fração de decréscimo, contudo, a sentença comporta reparo.
+Foi eleita em sentença a fração de 1/3 para decréscimo: "Porém, atentando-se à expressiva quantidade do entorpecente apreendida, o redutor se dá no seu patamar mínimo, ou seja, 1/3 (..)".
+Anota-se que, na verdade, o patamar mínimo de decréscimo previsto pelo dispositivo é de 1/6 e é mais adequada.
+Mercê da razoável quantidade e potencialidade das variadas drogas que o réu possuía que, embora não exorbite o ordinário para a espécie, não pode ser considerada diminuta a ponto de legitimar o decréscimo máximo da sanção e nem mesmo em sua fração intermediária de 1/3, tal como operado pela r. sentença.
+Considerando-se os argumentos da insurgência Ministerial, é o caso de eles serem ponderados, não para afastar a incidência do privilégio, mas para mensurar o patamar de diminuição, reduzindo-o de 1/3 para 1/6, já que foram apreendidos quase 600g de drogas, divididas em três tipos, inclusive cocaína e crack, de alto potencial lesivo.
+Nesse sentido:
+"Entretanto, considerando a relevante quantidade e nocividade de droga apreendida (mais de 700 porções), fator não observado na primeira fase de dosimetria, a redução de 1/6 se mostra mais razoável e a pena fica em 4 anos e 2 meses de reclusão e 416 diasmulta, (..)" (TJSP; Apelação Criminal 0002631-29.2017.8.26.0548; Relator (a): Alexandre Almeida; Órgão Julgador: 11ª Câmara de Direito Criminal; Foro de Campinas - 6ª Vara Criminal; Data do Julgamento: 15/02/2022; Data de Registro: 15/02/2022)
+Desta forma, a pena definitiva fica em 04 anos, 02 meses de reclusão e 416 dias-multa.
+Verifica-se que o acórdão estabeleceu a fração de redução de 1/6 em razão da quantidade e natureza das drogas apreendidas, "quase 600g de drogas, divididas em três tipos, inclusive cocaína e crack, de alto potencial lesivo", o que não foi considerado na primeira fase da dosimetria, podendo servir de moduladora para a fração do tráfico de drogas.
+No caso, trata-se de "16,4 gramas de "crack", divididas em 99 pedras; 15,2 gramas de cocaína, divididas em 100 eppendorfs; e 542,4 gramas tetrahidrocannabinol, maconha, divididas em 79 porções" (fl. 241), de modo que a fração de 1/6 aplicada pelo Tribunal de origem não se mostra desproporcional e se harmoniza com a jurisprudência desta Corte:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. JUSTA CAUSA CONFIGURADA. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. DESOBEDIÊNCIA. TIPICIDADE. MINORANTE DO ART. 33, §4º DA LEI N. 11.343/2006. MODULAÇÃO DA FRAÇÃO. QUANTIDADE DE ENTORPECENTE APREENDIDO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O ingresso forçado em domicílio, sem mandado judicial e a qualquer horário, é legítimo quando circunstâncias fáticas indicarem a ocorrência, no interior da residência, de situação de flagrante delito, como no caso em análise, em que a busca domiciliar só foi realizada após a abordagem dos agentes em via pública, com a constatação de que eles traziam entorpecentes consigo, após se evadirem do imóvel em questão.
+2. A prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado, demonstra que os recorrentes praticavam o tráfico de drogas. Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição dos recorrentes seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+3. Descabe falar em atipicidade da conduta descrita nos autos, pois a desobediência de ordem de parada dada por policiais militares no exercício de atividade ostensiva, destinada à prevenção e à repressão de crimes, como ocorrido no caso dos autos, configura o delito de desobediência tipificado no art. 330 do CP.
+4. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+5. In casu, a instância antecedente justificou a incidência da minorante em 1/6, com fundamento na quantidade da droga apreendida - 719,8g de maconha; 363g de cocaína; 14,1g de crack -, conforme autoriza a jurisprudência desta Corte. Cabe destacar que tal vetor foi utilizado exclusivamente na terceira etapa da dosimetria pena, inexistindo, portanto, bis in idem.
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 2.085.925/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA FRAÇÃO MÁXIMA DE REDUÇÃO. IMPOSSIBILIDADE. NATUREZA E QUANTIDADE DE DROGAS SOPESADAS NA TERCEIRA FASE DA DOSIMETRIA. MODULAÇÃO DA MINORANTE DO TRÁFICO EM 1/6. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, encontra-se justificada a redução de 1/6 da pena por incidência da minorante prevista no art. 33, §4º, da Lei de Drogas, não se constatando ilegalidade na dosimetria então fixada, tendo em vista a quantidade, natureza e variedade das drogas apreendidas (110 microtubos contendo cocaína, 41 porções de maconha, 15 pedras de crack e 10 comprimidos de ecstasy). Destaque-se que a quantidade droga apreendida não foi utilizada na primeira fase da dosimetria.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 840.864/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Estando o acórdão em harmonia com a jurisprudência desta Corte, incide a Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+É o voto.
