@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. ART. 155, § 4º, III, DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CONDENAÇÃO POSTERIOR. PRINCÍPIO DA NÃO CULPABILIDADE. INSUFICIÊNCIA DE FUNDAMENTAÇÃO PARA NEGATIVA DO BENEFÍCIO. POSSIBILIDADE DE SUBSTITUIÇÃO. PARECER FAVORÁVEL DO MPF. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que manteve a condenação de 2 anos de reclusão, em regime inicial aberto, pelo crime de furto qualificado (art. 155, § 4º, III, do Código Penal), mas negou a substituição da pena privativa de liberdade por penas restritivas de direitos. A negativa foi fundamentada na existência de condenação posterior, pela prática de delito patrimonial, como indicativo de insuficiência do benefício para fins de repressão e ressocialização.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a existência de condenação posterior ao crime em análise pode justificar validamente a negativa da substituição da pena privativa de liberdade por restritivas de direitos, à luz do art. 44, III, do Código Penal e do princípio da não culpabilidade.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que condenações ou fatos posteriores ao crime em análise não podem ser utilizados para fundamentar negativamente a análise da substituição da pena privativa de liberdade por restritivas de direitos, sob pena de violação ao princípio da não culpabilidade.
+4. O art. 44 do Código Penal estabelece que, para a substituição, devem ser considerados os critérios objetivos e subjetivos do caso, analisados com base nas circunstâncias existentes à época do delito. Condenações posteriores não têm o condão de justificar validamente a negativa do benefício.
+5. O recorrente foi condenado à pena mínima com reconhecimento de primariedade e sem circunstâncias judiciais desfavoráveis. Nessas condições, a substituição da pena privativa de liberdade por restritivas de direitos é medida socialmente recomendável e suficiente para os fins de reprovação e prevenção do delito, conforme precedentes desta Corte (AgRg no AREsp n. 2.396.126/SP, Rel. Min. Messod Azulay Neto).
+6. A negativa da substituição, com base exclusivamente em fato posterior, revela insuficiência de fundamentação idônea, em desconformidade com os princípios constitucionais e legais aplicáveis à individualização da pena.
+IV. RECURSO ESPECIAL PROVIDO PARA DETERMINAR A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE IMPOSTA AO RECORRENTE POR PENAS RESTRITIVAS DE DIREITOS, A SEREM FIXADAS PELO JUÍZO DE ORIGEM.
+RELATÓRIO
+Trata-se de recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+O recorrente foi condenado como "incurso no artigo 155, § 4º, inciso III, do Código Penal, às penas de 02 (dois) anos de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias- multa, no valor unitário mínimo" (e-STJ, fl. 189). Interposta apelação defensiva, foi desprovida.
+Nas razões de seu recurso, aponta violação do art. 44 do Código Penal, afirmando, em suma, que "se os fatos posteriores não podem servir para o aumento da pena-base, assim como os inquéritos ou processo criminais sem trânsito em julgado, do mesmo modo não podem servir como justificativa para negativa da substituição da pena privativa de liberdade por pena restritiva de direitos (ou mesmo para a negativa da suspensão condicional da pena), não se encaixando em qualquer exceção do art. 44 do CP" (e-STJ, fls. 209-210).
+Pugna, ao final, pela substituição da pena corporal por penas restritivas de direitos.
+Apresentadas as contrarrazões, manifestou-se o MPF pelo provimento recursal.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. ART. 155, § 4º, III, DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CONDENAÇÃO POSTERIOR. PRINCÍPIO DA NÃO CULPABILIDADE. INSUFICIÊNCIA DE FUNDAMENTAÇÃO PARA NEGATIVA DO BENEFÍCIO. POSSIBILIDADE DE SUBSTITUIÇÃO. PARECER FAVORÁVEL DO MPF. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que manteve a condenação de 2 anos de reclusão, em regime inicial aberto, pelo crime de furto qualificado (art. 155, § 4º, III, do Código Penal), mas negou a substituição da pena privativa de liberdade por penas restritivas de direitos. A negativa foi fundamentada na existência de condenação posterior, pela prática de delito patrimonial, como indicativo de insuficiência do benefício para fins de repressão e ressocialização.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a existência de condenação posterior ao crime em análise pode justificar validamente a negativa da substituição da pena privativa de liberdade por restritivas de direitos, à luz do art. 44, III, do Código Penal e do princípio da não culpabilidade.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que condenações ou fatos posteriores ao crime em análise não podem ser utilizados para fundamentar negativamente a análise da substituição da pena privativa de liberdade por restritivas de direitos, sob pena de violação ao princípio da não culpabilidade.
+4. O art. 44 do Código Penal estabelece que, para a substituição, devem ser considerados os critérios objetivos e subjetivos do caso, analisados com base nas circunstâncias existentes à época do delito. Condenações posteriores não têm o condão de justificar validamente a negativa do benefício.
+5. O recorrente foi condenado à pena mínima com reconhecimento de primariedade e sem circunstâncias judiciais desfavoráveis. Nessas condições, a substituição da pena privativa de liberdade por restritivas de direitos é medida socialmente recomendável e suficiente para os fins de reprovação e prevenção do delito, conforme precedentes desta Corte (AgRg no AREsp n. 2.396.126/SP, Rel. Min. Messod Azulay Neto).
+6. A negativa da substituição, com base exclusivamente em fato posterior, revela insuficiência de fundamentação idônea, em desconformidade com os princípios constitucionais e legais aplicáveis à individualização da pena.
+IV. RECURSO ESPECIAL PROVIDO PARA DETERMINAR A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE IMPOSTA AO RECORRENTE POR PENAS RESTRITIVAS DE DIREITOS, A SEREM FIXADAS PELO JUÍZO DE ORIGEM.
+VOTO
+A respeito da pretensão aqui trazida, assim se posicionou o Tribunal local (e-STJ, fl. 198):
+ ..  não se mostra cabível a substituição da corporal por restritivas de direitos, conforme bem fundamentado pelo juízo a quo. Em que pese a primariedade do acusado, não se pode ignorar a condenação transitada em julgado, pela prática de delito patrimonial cometido menos de três meses após os fatos ora analisados (Processo nº 0023821-77.2023.8.26.0050, conforme comprovado às fls. 115/116). Diversamente do alegado pela Defesa, tal condenação, embora se trate de fato posterior, no caso, demonstra a manifesta insuficiência do benefício para repressão e ressocialização, nos termos do artigo 44, inciso III, do Código Penal, o mesmo devendo ser referido ao "sursis" (artigo 77, inciso II, do Código Penal). ..
+O entendimento acima encontra-se em dissonância com a jurisprudência desta Corte, mormente quando arbitrada a pena final no mínimo legal (e-STJ, fl. 197), como bem observado pelo Ministério Público Federal: "a condenação, ainda que definitiva, por fato posterior ao delito em apreço, não tem o condão de justificar validamente o afastamento do benefício da substituição das penas, à luz do princípio da não culpabilidade" (e-STJ, fl. 238). Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. AÇÕES PENAIS EM CURSO. POSSIBILIDADE.
+I - A existência de inquéritos ou ações penais em curso não impedem a substituição da pena privativa de liberdade em restritiva de direitos.
+II - O agravante foi condenado por crime praticado sem violência ou grave ameaça à pessoa e teve a pena fixada no patamar mínimo, ante a sua primariedade e a inexistência de circunstâncias judiciais negativas, portanto, na hipótese, a medida de substituição por restritiva de direitos é socialmente recomendável.
+Agravo regimental provido para conhecer do agravo em recurso especial e dar provimento ao recurso especial.
+(AgRg no AREsp n. 2.396.126/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.)
+Ante o exposto, dou provimento ao recurso especial para que a pena privativa de liberdade imposta a MAIKON CRISPIM EUSTAQUIA seja substituída por penas restritivas de direitos, a serem estabelecidas pelo Juízo de origem (Processo n. 1525411-63.2023.8.26.0228 - 20ª Vara Criminal de São Paulo).
+É o voto.
