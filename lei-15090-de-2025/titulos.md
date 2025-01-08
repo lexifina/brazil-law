@@ -1,0 +1,1 @@
+Altera os limites do Parque Nacional da Serra do Itajaí, criado por decreto não numerado de 4 de junho de 2004, e localizado nos Municípios de Apiúna, Blumenau, Botuverá, Gaspar, Guabiruba, Indaial, Presidente Nereu e Vidal Ramos, no Estado de Santa Catarina.
