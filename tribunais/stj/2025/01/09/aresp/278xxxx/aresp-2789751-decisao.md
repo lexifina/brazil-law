@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por L A M SOCIEDADE EDUCACIONAL S/S LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. L A M SOCIEDADE EDUCACIONAL S/S LTDA. REQUISITOS LEGAIS. NO CASO, O ENCADEAMENTO DOS FATOS E AS DATAS DE CONSTITUIÇÃO DE EMPRESA, FALTA DE APRESENTAÇÃO DE DECLARAÇÕES CONTÁBEIS, DE ASSUNÇÃO DE CONTINUIDADE DE SERVIÇOS EM EDUCAÇÃO, BEM COMO PROVA TESTEMUNHAL DO LIAME COM A DEVEDORA, AUTORIZA A MANUTENÇÃO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA AO MENOS ATÉ DEFINIÇÃO FUTURA NA LIDE ORIGINAL. AGRAVO DE INSTRUMENTO IMPROVIDO.
+Quanto à controvérsia, a parte alega violação do art. 50, § 2º, I, II e III, e § 4º, do CC, no que concerne à inexistência de confusão patrimonial entre as entidades ou ainda abuso da personalidade jurídica pela recorrente, devendo, portanto, ser afastada a desconsideração da personalidade jurídica, trazendo a seguinte argumentação:
+Excelência, impositivo registrar que a parte recorrida fez apenas uma tentativa de penhora online contra o titular da pessoa jurídica devedora. Não há sequer a expedição de mandado de penhora de bens contra o devedor principal. Não há mínima pesquisa de bens junto ao CNIB, InfoJud ou SNIPER.
+Com a máxima venia, há uma tentativa de atalhar o caminho natural do processo com a apresentação do incidente processual.
+ ..
+Ora, inexiste confirmação da mencionada confusão patrimonial. O fato de diferentes empresas atuarem no mesmo endereço não repercute necessariamente em confusão do patrimônio. Não é esta a premissa constante no citado artigo. Caberia à recorrida a demonstração da confusão a partir de elementos concretos, obtidos por meio de balanço patrimonial, relação de alunos supostamente migrados, utilização de patrimônio da firma individual, o que simplesmente inexiste nos autos.
+ ..
+Salvo melhor juízo, não há nos autos a demonstração de que haja cumprimento de obrigações dos sócios pela sociedade recorrente.
+Não há absolutamente nenhum elemento neste sentido.
+Novamente cumpre registrar: a violação ao dispositivo de norma federal (art. 50, CC) ocorre quando o requisito é presumido pela decisão, sem a constatação por meio de prova
+ ..
+Por fim, cumpre apontar ainda ofensa ao § 4º do art. 50 do CC, uma vez que mesmo identificando-se o grupo econômico, necessária ainda a constatação do (i) desvio de finalidade ou (ii) confusão patrimonial. Ora, a decisão recorrida nada tratou do desvio de finalidade, o que fragiliza a desconsideração da personalidade jurídica decretada, uma vez que sem amparo no dispositivo reclamado (fls. 101-103).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+De acordo com a cronologia denota-se que no breve período de quatro meses, em 2017, a parte executada abriu uma microempresa, um mês e uma semana depois adquiriu outro estabelecimento comprometendo-se a dar continuidade a prestação de serviços educacionais do anterior; quatro meses depois constitui empresa societária para a mesma atividade, sendo que todas as empresas tinham e tem por sede o mesmo endereço, inclusive aquela adquirida. Parece indesmentível a continuidade das atividades no mesmo local da devedora e sob composição societária do mesmo original devedor. Assim, de acordo com os documentos e o depoimento entranhados, evento 92, TERMOAUD1, entendo que deva ser mantida a decisão do magistrado a quo que julgou procedente o pedido de desconsideração da personalidade jurídica da empresa em questão, eis que demonstrada a confusão patrimonial com o exercício do mesmo tipo de serviços educacionais por todas as empresas, no mesmo local e sob o comando societário do devedor originário (fl. 59).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
