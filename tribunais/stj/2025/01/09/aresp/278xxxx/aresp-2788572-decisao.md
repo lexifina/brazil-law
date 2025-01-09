@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SUPERGASBRAS ENERGIA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE MULTA - PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE GÁS - RESCISÃO ANTECIPADA - Denúncia do contrato mais de cinco anos após o prazo de vigência do contrato - Renovações sucessivas - Multa no valor integral do contrato que mostra-se abusiva, ainda que efetuado o pedido após os 30 dias previstos em contrato - Redução equitativa da multa nos termos do art. 413 do CC - Apelo parcialmente provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 421 e 422 do Código Civil, no que concerne à indevida redução da multa contratual pela metade, sem observar o princípío da função social e da boa-fé objetiva do contrato, trazendo a seguinte argumentação:
+Com a devida vênia, resta clara a ofensa aos artigos 421 e 422 do CC, isso porque, mesmo diante de toda a argumentação posta acerca da matéria, foi reformada a r. sentença proferida pelo M.M. Juiz singular, no sentido de reduzir, ad nutum, pela metade o valor da multa por rescisão contratual unilateral. Nota-se que o v. acórdão reconheceu como ocorrida e comprovadas a renovação automática do contrato, a violação contratual por parte da Recorrida e a incidência da multa no presente caso:
+ ..
+Ainda que destacados os pontos acima, o v. acórdão reforça todos os argumentos necessários para a aplicação da multa em conformidade contratual, o que foi determinado pelo Juízo a quo, porém, para a surpresa da Recorrente, ao final do decisum, o Tribunal de Justiça de São Paulo reformou parcialmente a r. sentença, reduzindo o valor da multa prevista em contrato pela metade, sem apontar a devida fundamentação, ao argumento que dessa forma estaria mitigando o prejuízo e aplicando o artigo 413 do CC. (fls. 258-259).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com efeito, a rescisão do contrato ocorreu mais de cinco anos após o início de sua vigência, o que significa dizer que os investimentos efetuados pela autora foram amortizados, não se justificando uma penalidade tão alta.
+Não há dúvida de que, quando da celebração do contrato, a requerida aceitou suas condições. Tenho decidido, de maneira segura, que, sempre que possível, deve-se prestigiar a força vinculante dos contratos e a autonomia da vontade, devendo a interferência do Poder Judiciário dar-se apenas em situações excepcionais.
+Isso porque, a despeito de válidos, tais princípios não regem soberanos as relações contratuais e devem ser interpretados segundo a função social do contrato (art. 421 do CC).
+Significa dizer que a autonomia de vontade e a força vinculante dos contratos estabelecem, cada qual em seu ramo de incidência, molduras para atuação do agente privado, que efetivamente pode praticar seus atos dentro dessas balizas delineadas pelo direito. Havendo violação dos limites reconhecidos, como é o caso dos autos, a atuação jurisdicional é medida que se impõe.
+Em outras palavras, tais princípios não podem ser invocados para justificar ou legitimar condutas reputadas como antijurídicas e lesivas aos contratantes, tornando-as infensas ao controle jurisdicional.
+Portanto, a meu ver, é caso de manter a multa, mas não em sua totalidade.
+Isto é, da análise do caso concreto, deve haver a incidência do art. 413 do CC para redução do valor da penalidade. Isso porque houve solicitação de rescisão do contrato muito tempo depois de sua celebração.
+Em outras palavras, ainda que não seja aplicável o Código de Defesa do consumidor, é indispensável, ao meu juízo, questionar a razoabilidade da imposição integral dos valores do contrato.
+No entanto, também não é caso de afastar totalmente a cobrança, pois realmente não foi observado o prazo previsto em contrato, podendo ter a autora algum prejuízo na desmobilização da prestação dos serviços.
+Assim, como forma de mitigar os prejuízos para as duas partes, entendo que é caso de julgar parcialmente procedentes os pedidos para que haja a cobrança de metade dos valores previstos em contrato. (fls. 248-249).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
