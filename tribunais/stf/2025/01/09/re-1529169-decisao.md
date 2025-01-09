@@ -1,0 +1,79 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. BRIGADA MILITAR. SELEÇÃO INTERNA. CURSO DE TÉCNICO EM SEGURANÇA PÚBLICA. ANULAÇÃO DE QUESTÃO DE PROVA PELO PODER JUDICIÁRIO: IMPOSSIBILIDADE. SITUAÇÃO EXCEPCIONAL NÃO PREVISTA NO TEMA 485 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Segunda Turma Recursal da Fazenda Pública do Juizado Especial do Rio Grande do Sul:
+
+    “RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. ESTADO DO RIO GRANDE DO SUL. CONCURSO. BRIGADA MILITAR. CURSO TÉCNICO DE SEGURANÇA PÚBLICA – CTSP. EDITAL Nº 019/DE-DET/2021. PROVA OBJETIVA. QUESTÃO Nº 14. QUESTÃO NÃO INÉDITA. DEMAIS QUESTÕES. AUSÊNCIA DE IRREGULARIDADE. TEMA 485 DO STF. SENTENÇA DE IMPROCEDÊNCIA REFORMADA EM PARTE. RECURSO INOMINADO PARCIALMENTE PROVIDO” (e-doc. 325).
+
+    Os embargos declaratórios opostos foram parcialmente acolhidos, “para corrigir o erro material na fundamentação que integrou o Acórdão embargado, devendo o voto do Juiz Relator assim ser lido: Conheço do recurso inominado, pois atendidos os requisitos legais de admissibilidade, nos termos do art. 42, § 1º, e art. 12-A da Lei nº 9.099/95. Tempestivo, uma vez que interposto em 10 dias úteis a contar da intimação da sentença. Efetuado o preparo (ev. 59)” (fl. 3, e-doc. 349).
+
+    2. O recorrente alega ter o Tribunal de origem contrariado os arts. 2º e 25, o caput do art. 5º e o inc. I e o caput do art. 37 da Constituição da República.
+
+    Argumenta que “não está autorizado o Poder Judiciário a avaliar o conteúdo das questões e as respostas dadas pelos candidatos, sob pena de afronta ao princípio da separação dos poderes, previsto nos artigos 2º e 25 da CF/88. Tal conduta implica também, sem dúvida, violação aos princípios da igualdade de todos perante o concurso (art. 5º da CF/88), em obediência ao princípio da impessoalidade e da moralidade do certame (art. 37 da Carta Magna), assim como ao preceito constitucional insculpido no inciso I do art. 37 da Constituição Federal de 1988, que permite o acesso aos cargos públicos a todos os brasileiros que preencham os requisitos legais” (fl. 6, e-doc. 359).
+
+    Salienta que “o estabelecimento de critérios na redação e utilização das questões, assim como a valoração da resposta dos candidatos, uma vez de acordo e permitidos pela lei e pela Constituição Federal, está dentro do critério discricionário da Administração Pública, que não pode ser medida, avaliada na sua conveniência pelo Poder Judiciário, sob pena de violação ao princípio constitucional da independência harmônica que deve reger a convivência dos três Poderes, conforme expressa o art. 2º da CF/88, aplicável aos Estados-Membros, por força do art. 25 da mesma Carta” (fl. 6, e-doc. 359).
+
+    Ressalta que “não há (...) embasamento legal, doutrinário ou jurisprudencial para a anulação de questão sob o fundamento de uso de questão não inédita, o que inclusive afronta o princípio da razoabilidade, como claramente fez o acórdão ora recorrido” (fl. 6, e-doc. 359).
+
+    Enfatiza que, “por afrontar o texto constitucional, especialmente os artigos 2º c/c 25 da CF/88, e assim o princípio da separação dos poderes, eis que é vedado ao Poder Judiciário adentrar no mérito do ato administrativo e rever critérios de correção e de avaliação impostos pela banca examinadora, bem como os artigos 5º, caput, e 37, caput e inciso I, da CF/88, eis que o aresto combatido acabou por atribuir pontos à parte recorrida, em detrimento aos demais candidatos, além de ter se distanciado da Tese firmada por esse E. STF, quando do julgamento de repercussão geral (Tema n. 485 – Controle jurisdicional do ato administrativo que avalia questões em concurso público), é impositiva a reforma da decisão recorrida” (fl. 9, e-doc. 359).
+
+    Pede o provimento do presente recurso extraordinário, “para julgar inteiramente improcedente o pedido contido na peça inicial” (fl. 9, e-doc. 359).
+
+    3. Em juízo de retratação do Tema 485 da repercussão geral, o Tribunal de origem manteve o acórdão recorrido, em julgado com a seguinte ementa:
+
+    “RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. JUÍZO DE RETRATAÇÃO. ESTADO DO RIO GRANDE DO SUL. CONCURSO. BRIGADA MILITAR. CURSO TÉCNICO DE SEGURANÇA PÚBLICA – CTSP. PROVA OBJETIVA. NO CASO CONCRETO, O JULGADO NÃO AFRONTA O ENTENDIMENTO CONSOLIDADO NO TEMA 485 DO STF NA MEDIDA EM QUE A QUESTÃO Nº 14 CONFIGURA QUESTÃO NÃO INÉDITA, JUSTIFICANDO, PORTANTO, A INTERVENÇÃO JUDICIAL. MANTIDO, EM JUÍZO DE RETRATAÇÃO, O JULGAMENTO DO RECURSO INOMINADO” (e-doc. 382).
+
+    4. O Primeiro Vice-Presidente do Tribunal de Justiça do Rio Grande do Sul admitiu o recurso extraordinário ao fundamento de que, “conquanto e. Ministro Roberto Barroso, na decisão supracitada [Recurso Extraordinário n. 1.431.136/RS], tenha reconhecido não estarem presentes elementos que autorizem a anulação da questão n.º 14 da prova objetiva do concurso da Brigada Militar pelo Poder Judiciário, o Órgão Julgador, em sede de juízo de retratação, manteve a decisão, pois, ‘foi reconhecido que a banca examinadora fez uso de questão não inédita no que se refere à questão nº 14 da prova objetiva, justificando, portanto, a intervenção judicial’, o que destoa, em linha de princípio, do aludido paradigma” (fls. 2-3, e-doc. 422).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    5. Razão jurídica assiste ao recorrente.
+
+    6. Na espécie vertente, a Segunda Turma Recursal da Fazenda Pública do Juizado Especial do Rio Grande do Sul resolveu a controvérsia sobre anulação de questão de prova de seleção interna para o curso de técnico em segurança pública, nestes termos:
+
+    “De início, saliento que o Supremo Tribunal Federal, no exame do RE nº 632.853/CE-RG, Relator o Ministro Gilmar Mendes, Tema 485, reconheceu a repercussão geral da matéria relativa ‘ao controle jurisdicional do ato administrativo que avalia questões em concurso público’ (...)
+
+    O Aresto reconheceu o entendimento antigo e sedimentado na jurisprudência do STF, que prestigia, ao fim e ao cabo, o princípio da separação dos Poderes, no sentido de que ‘não é possível ao Tribunal substituir-se à banca examinadora. O que se exige é que se dê tratamento igual a todos os candidatos (...) Em direito, nem sempre há uniformidade. De modo que, adotando a banca uma certa opção e exigindo de todos e a todos aplicando o mesmo tratamento, isto é o bastante’.
+
+    Descabe, portanto, ao Judiciário, desbordar do restrito controle da pertinência das questões do concurso ao conteúdo discriminado no edital e adentrar na apreciação dos critérios de avaliação ou a própria correção técnica do gabarito oficial.
+
+    Em relação às questões controvertidas, diante do contorno jurisprudencial fixado pelo STF no que tange à limitação da intervenção do Poder Judiciário à garantia da isonomia, entendo que não se verificam razões suficientes a concluir pela violação da igualdade entre os candidatos no que se refere às questões nº 15, 19, 22 e 46.
+
+    Por outro lado, diante do contorno jurisprudencial no Tribunal de Justiça e nas Turmas Recursais Fazendárias, entendo que se verificam razões suficientes a concluir pelo uso de questão não inédita no que se refere à questão nº 14 da prova objetiva do Edital nº 019/DE-DET/2021, para o Curso Técnico de Segurança Pública (CTSP/2021). (...)
+
+    Em face do exposto, voto por dar PARCIAL PROVIMENTO ao Recurso Inominado, reformando em parte a sentença para anular a questão nº 14 da prova objetiva, atribuindo ao autor a pontuação correspondente, com consequente reclassificação no certame, mantida no mais. Sem condenação ao pagamento de custas processuais e honorários advocatícios, nos termos do art. 55, caput, da Lei nº 9.099/1995” (e-doc. 324).
+
+    No julgamento do Recurso Extraordinário n. 632.853-RG (Tema 485), este Supremo Tribunal assentou não competir ao Poder Judiciário, no controle de legalidade, substituir banca examinadora de concurso, para avaliar respostas dadas pelos candidatos e notas atribuídas. Concluiu também que, em situações excepcionais, com apresentação de situação de fato demonstrada no processo, o sistema jurídico autoriza a atuação do Poder Judiciário, que pode, excepcionalmente, decidir sobre a compatibilidade do conteúdo das questões das provas com o previsto no edital do certame. Confira-se a ementa desse julgado:
+
+    “Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido” (DJe 29.6.2015).
+
+    Portanto, na espécie em exame, tem-se que, ao ser anulada questão do certame, por já ter sido apresentada de maneira idêntica em concurso anterior, ao fundamento de afronta ao princípio da isonomia, divergiu a autoridade reclamada do decidido no Recurso Extraordinário n. 632.853-RG (Tema 485), pois o órgão julgador não se ateve à análise da compatibilidade do conteúdo das questões das provas com o previsto no edital do certame.
+
+    Confiram-se exemplos de julgados deste Supremo Tribunal sobre controvérsia análoga à discutida neste processo:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. REEXAME DO CONTEÚDO DE QUESTÕES E DOS CRITÉRIOS DE CORREÇÃO UTILIZADOS PELA BANCA EXAMINADORA. TÉCNICO DE SEGURANÇA PÚBLICA DO RIO GRANDE DO SUL. EDITAL 019/DE-DET/2021. QUESTÃO 14 DA PROVA OBJETIVA. ANULAÇÃO. QUESTÃO NÃO INÉDITA. EXCEÇÃO NÃO PREVISTA NO TEMA 485 DA REPERCUSSÃO GERAL. JULGADOS PROFERIDOS EM CASOS IGUAIS: RECURSOS EXTRAORDINÁRIOS 1.465.836-ED E 1.466.823-AGR, REL. MIN. ALEXANDRE DE MORAES, PRIMEIRA TURMA; 1.431.009, REL. MIN. DIAS TOFFOLI; 1.431.136, REL. MIN. ROBERTO BARROSO; 1.431.147, REL. MIN. ANDRÉ MENDONÇA; 1.453.753-AGR, REL. MIN. NUNES MARQUES; 1.466.829-AGR E 1.473.836, REL. MIN. CRISTIANO ZANIN; E 1.467.574, REL. MIN. CÁRMEN LÚCIA. AGRAVO INTERNO DESPROVIDO” (RE n. 1.466.825-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 9.10.2024).
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÃO NÃO INÉDITA DE CONCURSO PÚBLICO PELO PODER JUDICIÁRIO. INTROMISSÃO NOS CRITÉRIOS DA BANCA EXAMINADORA. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO DIVERGIU DO TEMA 485 DA REPE
+
+    RCUSSÃO GERAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES. I. CASO EM EXAME 1. Embargos de declaração opostos contra acórdão que diverge da orientação das Turmas do Supremo Tribunal Federal. II. QUESTÃO EM DISCUSSÃO 2. O Tribunal de origem determinou a anulação de questão de concurso público, em razão de não ser inédita, divergindo do entendimento do Supremo Tribunal Federal, que, no julgamento do RE 632.853 RG (Tema 485), da relatoria do Ministro Gilmar Mendes, fixou a seguinte tese: ‘Não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade’. III. RAZÕES DE DECIDIR 3. O acórdão embargado divergiu do entendimento recentemente pacificado no Supremo Tribunal Federal, nas suas Turmas, sobre o Tema 485 da sistemática da Repercussão Geral. IV. DISPOSITIVO E TESE 4. Embargos de declaração acolhidos para, atribuindo-lhes efeitos infringentes, tornar sem efeito o acórdão embargado, bem como a decisão agravada, para dar provimento ao recurso extraordinário e, como corolário, reformar o acórdão recorrido e julgar improcedente o pedido de anulação da questão n. 14 do concurso em exame nestes autos, nos termos do entendimento firmado no Tema 485 da Repercussão Geral” (RE n. 1.490.606-AgR-ED, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 6.12.2024).
+
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. ANULAÇÃO DE QUESTÃO NÃO INÉDITA DE CONCURSO PÚBLICO PELO PODER JUDICIÁRIO. INTROMISSÃO NOS CRITÉRIOS DA BANCA EXAMINADORA. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO DIVERGIU DO TEMA 485 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O órgão julgador pode receber, como agravo interno, os embargos de declaração que notoriamente visam a reformar a decisão monocrática do Relator, sendo desnecessária a intimação do embargante para complementar suas razões quando o recurso, desde logo, exibir impugnação específica a todos os pontos da decisão embargada. Inteligência do art. 1.024, § 3º, do Código de Processo Civil de 2015. 2. O Tribunal de origem determinou a anulação de questão de concurso público, em razão de não ser inédita. 3. O acórdão recorrido divergiu do entendimento do SUPREMO TRIBUNAL FEDERAL, que no julgamento do RE 632.853-RG (Rel. Min. GILMAR MENDES, Tema 485) firmou a seguinte tese: Não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade. 4. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento” (RE n. 1.465.836-ED, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 15.2.2024).
+
+    “Agravo regimental em recurso extraordinário. Administrativo. Controle jurisdicional. Ato administrativo. Avaliação de questões de concurso público. Impossibilidade, salvo em hipóteses excepcionais. Precedentes. 1. O Supremo Tribunal Federal, no exame do RE nº 632.853/CE-RG, Rel. Min. Gilmar Mendes, feito paradigma do Tema nº 485 da Repercussão Geral, firmou o entendimento de que não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora de concurso para apreciar os critérios de avaliação e a correção técnica do gabarito oficial. 2. A Corte de Origem determinou a anulação de questão de concurso público com o fundamento de que ela não era inédita. 3. No caso dos autos, a anulação de questão de processo seletivo fora da hipótese excepcional de verificação de compatibilidade entre o conteúdo cobrado e o respectivo edital divergiu da orientação jurisprudencial do Supremo Tribunal Federal. 4. Agravo regimental provido para se dar provimento ao recurso extraordinário” (RE n. 1.489.359-AgR, Redator para o acórdão o Ministro Dias Toffoli, Segunda Turma, DJe 6.12.2024).
+
+    Na mesma linha são, por exemplo, as seguintes decisões monocráticas: RE n. 1.512.716/RS, de minha relatoria, DJe 17.9.2024; RE n. 1.502.745/RS, Relator o Ministro Gilmar Mendes, DJe 6.12.2024; RE n. 1.524.739/RS, Relator o Ministro Dias Toffoli, DJe 26.11.2024; RE n. 1.512.697/RS, Relator o Ministro Cristiano Zanin, DJe 18.9.2024; e RE n. 1.508.332/RS, Relator o Ministro Flávio Dino, DJe 30.8.2024.
+
+    7. Pelo exposto, dou provimento ao presente recurso extraordinário (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal), para cassar o acórdão recorrido e julgar improcedente o pedido de anulação da questão n. 14 do concurso em exame neste processo, em observância ao decidido no Tema 485 da repercussão geral.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 9 de janeiro de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
