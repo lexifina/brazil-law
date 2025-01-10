@@ -1,0 +1,1 @@
+Art. 27-A. Cabe ao órgão competente do Poder Executivo coordenar os leilões de energia elétrica para empreendimentos de geração localizados no mar territorial, na plataforma continental, na zona econômica exclusiva ou em outros corpos hídricos sob domínio da União, bem como os leilões de transmissão para interconexão com a rede básica do Sistema Interligado Nacional (SIN).
