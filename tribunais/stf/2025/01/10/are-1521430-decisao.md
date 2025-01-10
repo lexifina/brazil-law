@@ -1,0 +1,49 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICÍPIO DE TRÊS FORQUILHAS. PROCESSO ADMINISTRATIVO DISCIPLINAR. NULIDADE. ILEGALIDADE. REINTEGRAÇÃO NO CARGO. DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO. 1. A Lei Municipal nº 1.111/2010, o Regime Jurídico Único dos Servidores Públicos do Município de Três Forquilhas, não estabelece a pena de demissão para os ilícitos disciplinares atribuídos à autora pela Comissão Processante (os do art. 145, incisos I, II, V e VI). A manifesta falta de correlação entre as condutas violadoras de dever funcional apontadas no Relatório Final (art. 145, I, II, V e VI, Lei Municipal 1.111/2010) e a penalidade aplicada (art. 158, III e IV, Lei Municipal 1.111/2010) indica defeito de motivo no ato de imputação de responsabilidade, qualificando-se como nula a decisão de demissão. 2. Embora a portaria de instauração do PAD não exija minuciosa descrição dos fatos (STJ, RMS 2041/MT, Relator o Ministro GILSON DIPP, DJ 11/09/2006), é certo que o Relatório Final, que reflete a convicção preliminar da Comissão Processante de que a autora cometera falta grave no exercício da função, não prescinde da imputação de fato determinado e a sua falta traduz deficiência significativa, provocando prejuízo ao direito de defesa e, por consequência, ao contraditório substancial. 3. No tocante à dita falta de assiduidade, cabe anotar que a servidora já havia sido punida com advertência, sendo proibida nova punição pela mesma infração (art. 155, Lei Municipal 1.111/2010), salvo se discriminadas as faltas novas incorridas. Entretanto, nada há nos autos em termos de discriminação de faltas ou ausências. Depois, mesmo que a ilicitude disciplinar tivesse continuado a se repetir, a demissão por inassiduidade exige, primeiro, aplicação anterior das penas de repreensão e suspensão (art. 158, § 2º, Lei Municipal nº 1.111/2010). 4. Ausente demonstração de faltas disciplinares cominadas na lei como passíveis de demissão, é inequívoca e manifesta a ilegalidade da pena de demissão. Nulidade do sanção disciplinar que acarreta a reintegração da autora ao cargo, com o pagamento da remuneração vencida e vincenda desde o ato ilegal. 5. Por outro lado, não há demonstração cabal, ônus da autora (CPC, art. 373, I), a respeito do fato gerador de danos morais, com o que, no ponto, a ação não procede. 6. Sentença improcedente na origem. APELAÇÃO PROVIDA”. (eDOC 119 – ID: 39aa526a, p. 9)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º; 18; 30, I, do texto constitucional.
+
+    Nas razões recursais, sustenta-se, em síntese, que não compete ao Poder Judiciário rever uma decisão de mérito administrativo.
+
+    Afirma-se que a “decisão, como foi posta, desautoriza o Poder Executivo, desautoriza os representantes da comunidade e põe por terra as disposições constitucionais da autonomia municipal, condenando o Município e a comunidade, a reintegrar um servidor que foi afastado das funções por desejo da própria comunidade, através de seus legítimos representantes”. (eDOC 130 - ID: 06f013e8, p. 16)
+
+    Por fim, requer-se o provimento do recurso para reformar o acórdão recorrido.
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Na espécie, o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal 1.111/2010) e o conjunto probatório constante dos autos, consignou que a aplicação da penalidade à servidora era indevida, uma vez que a legislação vigente à época não estabelecia pena de demissão para os ilícitos atribuídos a ela. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “Ocorre que a Lei Municipal nº 1.111/2010 (então vigente, supervenientemente revogada pela Lei Municipal nº 1.328/2013), o Regime Jurídico Único dos Servidores Públicos do Município de Três Forquilhas, não estabelece a pena de demissão para os ilícitos disciplinares atribuídos à autora pela Comissão Processante (os do art. 145, incisos I, II, V e VI). Com efeito, ausentar-se do serviço durante o horário de expediente sem prévia autorização do chefe imediato (art. 145, I); retirar, sem prévia anuência da autoridade competente, qualquer documento ou objeto da repartição (art. 145, II); promover manifestação de apreço ou desapreço no recinto da repartição ou tornar-se solidário com elas (art. 145, V) e referir-se de modo depreciativo ou desrespeitoso às autoridades públicas ou atos do Poder Público, mediante manifestação escrita ou oral (art. 145, VI) são ilícitos disciplinares que sujeitam o servidor à pena de advertência (e não demissão!), por expressa determinação do art. 154, parágrafo único, inciso I (deve-se lê ali, art. 145, pois manifesto o erro material no texto da Lei ao referir o art. 146), a dizer:
+
+    (...)
+
+    A indisciplina, a inassiduidade e a insubordinação ventiladas no Relatório Final (ilícitos administrativos que sujeitam o servidor à pena de demissão, conforme disposto no art. 158, incisos III e IV, da Lei Municipal nº 1.111/2010) não são mencionadas na Portaria nº 495/2011 que deflagrou o processo administrativo disciplinar, expressa quanto ao art. 145, I, V, VI e XX, da Lei Municipal n° 1.111/2010 (Evento 6, PROCJUDIC2, fl. 05@).
+
+    Embora a portaria de instauração do PAD não exija minuciosa descrição dos fatos (STJ, RMS 2041/MT, Relator o Ministro GILSON DIPP, DJ 11/09/2006), é certo que o Relatório Final, que reflete a convicção preliminar da Comissão Processante de que a autora cometera falta grave no exercício da função, não prescinde da imputação de fato determinado e a sua falta traduz deficiência significativa, provocando prejuízo ao direito de defesa e, por consequência, ao contraditório substancial.
+
+    No caso, a manifesta falta de correlação entre as condutas violadoras de dever funcional apontadas no Relatório Final (art. 145, I, II, V e VI, Lei Municipal 1.111/2010) e a penalidade aplicada (art. 158, III e IV, Lei Municipal 1.111/2010) ) indica defeito de motivo no ato de imputação de responsabilidade, qualificando-se como nula a decisão de demissão.” (eDOC 119 – ID: 39aa526a, p. 2-5)
+
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+
+    Confiram-se, a propósito, os seguintes precedentes:
+
+    “Agravo regimental em recurso extraordinário. Servidor público estadual. Policial militar. Processo administrativo disciplinar. Demissão. Violação dos princípios do devido processo legal, da ampla defesa e do contraditório. Inexistência de repercussão geral. Fatos e provas. Reexame. Inadmissibilidade. Legislação infraconstitucional. Análise. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal – Tema nº 660 do Quadro de Temas de Repercussão Geral do Supremo Tribunal Federal. 2. As instâncias de origem reconheceram a legalidade do processo administrativo disciplinar que culminou na demissão do ora agravante amparadas na legislação pertinente e nos fatos e nas provas constantes dos autos. 3. São inadmissíveis, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido. 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (RE 1440088 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 11.09.2023 – grifo nosso)
+
+    “Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público. Processo administrativo disciplinar. Pena de demissão. Reexame do conjunto fático-probatório. Súmula 279/STF. Ausência de impugnação específica dos fundamentos da decisão agravada. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve a sentença de improcedência do pedido. II. Questão em discussão 2. Preenchimento dos requisitos para conhecimento do agravo. III. Razão de decidir 3. A parte recorrente não atacou todos os fundamentos da decisão agravada. Nesses casos, é inadmissível o agravo, conforme a orientação do Supremo Tribunal Federal. Precedente. IV. Dispositivo 4. Agravo interno não conhecido, determinando-se o trânsito em julgado e a baixa imediata dos autos” (ARE 1500343 AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 16.09.2024 – grifo nosso)
+
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 10 de janeiro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
