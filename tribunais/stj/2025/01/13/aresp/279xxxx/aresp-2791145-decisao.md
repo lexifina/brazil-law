@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE SÃO PAULO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - AÇÃO ORDINÁRIA - IMUNIDADE TRIBUTÁRIA - ISS - ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS - RECONHECIMENTO DE IMUNIDADE TRIBUTÁRIA - POSSIBILIDADE - AUTOR(A) QUE LOGROU DEMONSTRAR SUA QUALIDADE DE ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS - EXEGESE DO ART. 150, INCISO VI, "C", DA CF E DO ARTIGO 14, DO CTN - IMUNIDADE TRIBUTÁRIA RECONHECIDA - PRECEDENTES DO C. STF, DO E. STJ E DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA - SENTENÇA DE PROCEDÊNCIA MANTIDA - RECURSO IMPROVIDO.
+Quanto à controvérsia, a parte recorrente aduz ofensa aos arts. 9º, IV, "c", e 14 do CTN; e ao art. 373, I, do CPC, no que concerne à não comprovação dos requisitos para a obtenção da imunidade tributária, trazendo a seguinte argumentação:
+Pois bem, o Código Tributário Nacional trouxe o rol dos requisitos, de observância obrigatória sob pena de afastamento do benefício constitucional (artigos 9º, IV, "c", c.c. 14 do CTN).
+Assim, vislumbra-se que se faz necessária mais que a condição de entidade de assistência para gozar o benefício constitucional.
+Reconhecida à existência de condições previstas no Código Tributário Nacional, além das que constam da própria Constituição Federal, necessária uma segunda consideração.
+Evidente que, para efetividade do comando constitucional, as entidades que se dizem imunes devem demonstrar atenderem aos requisitos do Código Tributário Nacional. Afinal, qual o valor de condições cuja observância não é cobrada  (fl. 3838).
+Com efeito, basta ler o acórdão para perceber que em nenhum momento restou analisado o efetivo preenchimento dos ditos requisitos do Código Tributário Nacional. Muito pelo contrário, o Acórdão cria uma presunção de imunidade em favor da Recorrida.
+Diante do teor do Acórdão, torna-se importante tecermos algumas considerações.
+Aparentemente, os ilustres Desembargadores do Tribunal de Justiça do Estado de São Paulo esqueceram que não só o Recorrido, mas todas as entidades em tese agraciadas pela imunidade destinam-se ao exercício de atividades de interesse social e devem atender as determinações do Código Tributário Nacional.
+De tal sorte, o exercício das referidas atividades é o mínimo indispensável para a existência da imunidade. O mínimo, contudo, não libera as entidades, inclusive a Recorrida, de atenderem as condições criadas pela Constituição Federal.
+Não é suficiente, porém, a mera inexistência de indícios de desvio de finalidade ou recursos financeiros para que se configure a imunidade. É necessária prova segura e coerente, sob pena de não reconhecimento do benefício, no sentido de que a Recorrida atendeu ao artigo 14 do Código Tributário Nacional.
+E, veja-se: nenhuma consideração foi tecida a respeito da regularidade fiscal da Autora (emissão dos documentos fiscais), como também é exigido pelo art. 14, retro mencionado.
+Igualmente, não é o Poder Público que deve provar o desvio no exercício das atividades da Recorrida.
+O Texto Constitucional e o Código Tributário Nacional repudiam qualquer presunção de imunidade.
+Desse modo, o referido artigo 14 faz surgir para o Recorrido a obrigação de comprovar que merece o benefício da imunidade.
+Por força do quadro acima delineado, imperioso concluir que o acórdão atacado, ao estabelecer que a Recorrida não necessita demonstrar o atendimento a todas as exigências do Código Tributário Nacional, desconsiderou os artigos 9º, IV, "c", c.c. 14. Afinal, os dispositivos tornaram-se letra morta, cuja observância é desnecessário comprovar (fl. 3839).
+De todo o exposto, é impossível concordar com a "presunção de imunidade" criada no Acórdão atacado, já que a mesma viola o artigo 14, incisos I, II e III, do Código Tributário, sendo de rigor a integral reforma do Acórdão atacado (fls. 3839-3840).
+É o relatório.
+Decido.
+Quanto à controvérsia, é incabível o recurso especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma constitucional, o que extrapola a competência deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp 1.539.048/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 20/5/2020; AgInt no AREsp 1.543.160/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 24/4/2020; REsp n. 1.730.401/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/11/2018; AgRg no AREsp n. 189.566/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 3/12/2014; AgRg no REsp n. 1.218.418/PR, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 11/3/2013; AgRg no REsp n. 1.254.691/SC, relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 30/11/2011; AgRg no Ag n. 404.619/RJ, relator Ministro Vasco Della Giustina (Desembargador Convocado do TJ/RS), Sexta Turma, Dje de 5/9/2011; AgRg no REsp n. 1.029.563/DF, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/8/2008.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Sopesando a documentação acostada aos autos, verifica-se que o(a) autor(a) se enquadra nas regras de imunidade tributária, a teor do artigo 150, inciso VI, alínea(s) "c" da Constituição Federal.
+ ..
+No caso em tela, restou devidamente comprovado que o(a) autor(a) enquadra-se na finalidade beneficente, ou seja, para a consecução do objeto social da entidade e, por tal razão, faz jus à imunidade tributária (fls. 3817-3821).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
