@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MATHEUS AUGUSTO GONCALVES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO  AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - RESPONSABILIDADE CIVIL - ACIDENTE ENVOLVENDO ÔNIBUS MUNICIPAL - SENTENÇA DE PARCIAL PROCEDÊNCIA - CERCEAMENTO DE DEFESA  NÃO CONSTATADO - PRETENSO AFASTAMENTO DA RESPONSABILIDADE DA MUNICIPALIDADE  IMPOSSIBILIDADE - NEXO DE CAUSALIDADE BEM DEMONSTRADO - INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICOS  CABIMENTO - LUCROS CESSANTES E PENSÃO VITALÍCIA MENSAL  INADMISSIBILIDADE - SENTENÇA MANTIDA - RECURSOS NÃO PROVIDOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 950 do Código Civil , no que concerne ao reconhecimento do direito à pensão vitalícia decorrente de invalidez, ainda que parcial, causada após acidente envolvendo ônibus municipal, porquanto a concessão do benefício pretendido independe da gravidade das sequelas sofridas. Argumenta:
+Ainda, em sede de embargos de declaração rejeitados constou que "E, a despeito das lesões sofridas pelo autor terem se caracterizado como de natureza grave, com sequela permanente, resultando em perda funcional para trabalho, permanentemente (fls. 479), evidenciou-se que, da análise do grau de capacidade laboral restante, por se tratar de sequela de leve gravidade, alcançou-se o percentual de 6,25% (fls. 496)"
+Com efeito, o v. acórdão faz menção à perícia médica e atesta a perda funcional do recorrente em 6,25%, bem como o nexo causal.
+Como visto, o trecho de acórdão acima transcrito viola o quanto disposto no artigo 950, do Código Civil, na medida em que o (..) "o dano residual funcional é na ordem de 6,25% - fls. 496/497 mínimo, portanto.", mencionado artigo (950, CC) não diferencia se o dano é ou não de pequena monta, ou mesmo mínimo sequer.
+Entender o órgão julgador a quo que (..) "A invalidez decorrente do acidente é mínima (fls. 136), não impeditiva de trabalho.." a (..) "a despeito do déficit funcional permanente residual no ombro direito.." (fls. 631), com o devido respeito, cria requisito ou condição não elencada pela lei, bem como reserva as hipóteses de concessão da indenização somente quando a incapacidade se der de forma total e permanente, o que, nem de longe, pode ser extraído do texto legal.
+ ..
+Outrossim, condicionar a decisão a quo o arbitramento da pensão ao fato de estar a vítima totalmente incapacitada ou inválida, como se nota no quinto parágrafo da fl. 631, da mesma forma, afasta-se do comando legal que nada exige nesse sentido.
+ ..
+Extrai-se desses ensinamentos que a pensão vitalícia contemplada no art. 950 do CC contém apenas elementos objetivos. Vale dizer: a indenização não está atrelada a uma situação de total invalidade, a especulações acerca da eventual possibilidade do exercício de alguma atividade; apenas indeniza-se a impossibilidade de desempenho da mesma atividade (ou a sua redução, no caso de ser parcial) (fls. 649-651).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
