@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fls. 1167):
+"Lesão corporal de natureza grave Provas suficientes à condenação, que sequer foi impugnada Ajuste das básicas ao mínimo legal Redução da fração de aumento decorrente do concurso de crimes O número de delitos enseja a aplicação da fração de 1/5 Aumento maior não justificado na origem Diante do quantum de pena, cabível imposição de regime aberto Impossibilidade de substituição da carcerária por restritiva de direitos Requisitos do artigo 44 do CP não preenchidos Recurso provido."
+Em suas razões recursais, a parte recorrente aponta violação do artigo 33, §2º, "c", do Código Penal e indica o REsp n. 689.178/SP como paradigma. Aduz para tanto, em síntese, que o recorrido, em face da reincidência, deve cumprir a pena em regime inicial semiaberto, nada obstante a pena imposta em patamar inferior a quatro anos.
+Sem contrarrazões (fls. 1212), o recurso especial foi admitido na origem (fls. 1215).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (fls. 1226).
+É o relatório.
+Decido.
+Sem maiores delongas, entendo assistir razão ao Ministério Público paulista.
+Com efeito, a interpretação conjunta do art. 33, § 2º, "c", do Código Penal ("o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto") e do verbete sumular n. 269 desta Corte Superior ("É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais"), ao considerar que, na espécie, conforme se infere do acórdão (fls. 1168), a pena-base fora fixada no mínimo legal, ou seja, sem a exasperação de nenhuma vetorial, conduz à fixação do regime semiaberto.
+Quero dizer: a pena final fora fixada em 01 (um) ano, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão por força da regra do art. 70 do CP. Assim, mesmo tendo sido reconhecida a inexistência circunstâncias desfavoráveis, mas sendo o réu reincidente, incorreu em equivoco o Tribunal a quo, devendo ser estabelecido o regime semiaberto.
+Com efeito:
+"O art. 33, §§ 2º, a, b e c, e 3º, do Código Penal estabelece a regra geral para fixação do regime inicial de cumprimento da pena, pautando-se pela quantidade da reprimenda imposta ao final da dosimetria: a) fechado para a pena superior a 8 anos e, em casos de reincidência, para a pena igual ou inferior a 8 e superior a 4 anos; b) semiaberto para a pena igual ou inferior a 8 e superior a 4 anos, se primário o condenado; e c) aberto para a pena de até 4 anos. Além disso, nos termos da Súmula n. 269 do STJ, admite-se o regime semiaberto na hipótese de reincidente condenado a pena igual ou inferior a 4 anos se a pena-base tiver sido fixada no mínimo legal."
+(AgRg no HC n. 714.592/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+"2. Mesmo com a pena final estabelecida abaixo de quatro anos de reclusão, em razão da agravante da reincidência, possibilita-se a fixação de regime mais gravoso, no caso, o semiaberto.
+3. "Consoante dispõe a Súmula n. 269 desta Corte, o regime inicial semiaberto está adequado para o caso concreto no qual a pena definitiva ficou inferior a 4 anos e o apenado é reincidente" (AgRg no AgRg no AREsp n. 2.093.059/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022)."
+(AgRg no HC n. 712.102/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para fixar o regime semiaberto como inicial para cumprimento de pena do recorrido.
+Publique-se. Intimem-se.
+ EMENTA
