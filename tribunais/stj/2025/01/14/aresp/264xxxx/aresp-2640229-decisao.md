@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela ONDREPSB LIMPEZA E SERVIÇOS ESPECIAIS LTDA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.314):
+ADMINISTRATIVO. APELAÇÕES. REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. PREGÃO ELETRÔNICO. CONTRATAÇÃO DE SERVIÇOS. APRESENTAÇÃO DE ESCLARECIMENTOS. PREVISÃO EDITALÍCIA. POSSIBILIDADE. DEVIDO PROCESSO ADMINISTRATIVO. CONTRADITÓRIO. APRECIAÇÃO. RECURSOS E REMESSA NECESSÁRIA DESPROVIDOS.
+1. A Constituição Federal (artigo 37, inciso XXI) e a Lei nº 8.666/73 (artigo 30, inciso II) autorizam a imposição de exigências de qualificação técnica e econômica essenciais à garantia do cumprimento das obrigações relativas ao objeto da licitação.
+2 . In casu, a documentação apresentada durante o procedimento de habilitação não se refere a informações totalmente inéditas, tampouco informação que deveria constar originariamente da proposta, mas a esclarecimentos pertinentes em razão do recurso administrativo da impetrante, o que se amolda à exceção legal do artigo 43, § 3º, da Lei nº 8.666/93.
+3. No caso do pregão, é de se ponderar que o procedimento, além de mais informal e célere tanto que são aceitos lances verbais e sucessivos, conforme artigo 5º, IX, da Lei 10520/2002, é, de certa forma, invertido, no sentido de que a etapa de classificação das propostas é anterior à habilitação, e, mesmo nesta, admite-se dispensa de documentos, desde que já cadastrados no SICAF e os demais licitantes possam ter acesso aos dados (artigo 5º, XIV, da Lei 10520/2002) e, mesmo não havendo a dispensa, a habilitação é feita nos termos da exigência do Edital (artigo 5º, XV, da Lei 10520/2002).
+4. A promoção de diligências complementares, com apresentação de documento após o prazo inicialmente previsto, é possível na situação em tela, uma vez que tratava de esclarecimentos e pequenos ajustes na condição da licitante, que não afetaram a proposta, prevalecendo, na hipótese, o interesse público, mediante escolha da proposta mais vantajosa.
+5. Apelações e remessa necessária desprovidas.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 1.349):
+PROCESSO CIVIL. EMBARGOS DECLARATÓRIOS. HIPÓTESES. INADMITIDA A MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. RECURSO DESPROVIDO.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+2. A modificação do julgado é admitida apenas excepcionalmente e após o devido contraditório (artigo 1.023, § 2º, do Código de Processo Civil).
+3. Não há a necessidade do julgador mencionar os dispositivos legais e constitucionais em que fundamenta sua decisão, tampouco todos os citados pelas partes.
+4. Embargos desprovidos.
+Em seu recurso especial, às fls. 1.359-1.372, a recorrente alega violação ao art. 43, §3º, da Lei n. 8.666/1993, sustentando, para tanto, que (fls. 1.365-1.366):
+A r. decisão colegiada proferida pela 4ª Turma do Tribunal Regional Federal da 4ª Região concluiu por negar provimento ao recurso de apelação manejado contra sentença que entendeu por manter a classificação da empresa MACRO, mesmo comprovado a ora Recorrente que referida empresa teria apresentado irregularidades em sua qualificação técnica e econômico-financeira, o que confessado, mediante a juntada de documentos intempestivos, contrariando o disposto na lei de licitações.
+Segundo razões de decidir daquela Corte, seria legítima a habilitação da empresa MACRO, por tratar-se de "esclarecimentos e pequenos ajustes" na condição da licitante, que não afetariam a proposta apresentada, prevalecendo o interesse público, o que não procede, data vênia.
+Em que pese o fundamento sobre o qual se assenta o r. decisum, entende a Recorrente que este não merece prosperar, porquanto contrário à legislação vigente, que veda expressamente a apresentação de documento ou informação que deveriam constar originariamente da proposta/habilitação, não tendo a diligência administrativa o condão de suprir omissão de informação ou tampouco permitir a apresentação de novos documentos exigidos no edital, em clara ofensa ao que dispõe o §3º do art. 43 da Lei 8.666/93.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fl. 1.401):
+O recurso não merece trânsito, porquanto inviável divergir do decidido, como pretende o recorrente, no sentido de entender que as referidas informações deveriam constar originariamente da proposta, sem que isso implique revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+Em seu agravo, às fls. 1.415-1.429, a agravante sustenta, em síntese, "que não se pleiteia o reexame das provas, mas sim sua revaloração, que se cinge na análise da questão de direito" (fl. 1.423).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial a recorrente deixou de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Ressalte-se que, "para que haja a transposição do óbice da Súmula n. 7, STJ, o agravo precisa demonstrar em que medida as teses não exigem a alteração do quadro fático delineado pelo Tribunal local, não bastando a assertiva genérica de que o recurso visa à revaloração das provas" (AgRg no REsp n. 2.094/TO, rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 8/3/2024).
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, a agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
