@@ -1,0 +1,44 @@
+DECISÃO
+DORALICE BRAMBILLA opõe embargos de declaração à decisão de fls. 879-885, que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento por ausência de afronta aos arts. 489 e 1.022 e por incidência da Súmula n. 7 do STJ.
+Em suas razões, a embargante sustenta que "o julgamento dos embargos de declaração opostos contra o v. acórdão de origem, tratou de outro processo, relativo a plano de Saúde, a indicar que o recurso de embargos - assim como o de apelação -, com a devida vênia, sequer foram lidos, sendo apenas colada uma decisão de outro processo" (fl. 889).
+Requer o acolhimento dos embargos de declaração com efeitos infringentes, para serem sanadas as omissões apontadas .
+Impugnação apresentada às fls. 895-899.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No presente caso, a parte não aponta omissão ou outro vício passível de ser sanado pelo STJ em embargos de declaração. Apenas demonstra seu interesse na reanálise da questão referente a suposto equívoco ocorrido no julgamento dos embargos de declaração opostos na origem, que teriam tratado de processo diverso ao feito trazido à discussão na presente demanda.
+Eis o que consta da decisão impugnada (fls. 879-885):
+Afasta-se a alegada ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia - comprovação dos requisitos necessários à prescrição aquisitiva do imóvel -, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A respeito da alegada omissão, o acórdão recorrido assim se manifestou (fls. 765-774, destaquei):
+Analiso o mérito.
+A Ação de Usucapião é meio pelo qual se obtém direito à propriedade de um bem através da posse por tempo prolongado e ininterrupto, ou seja, a transformação da posse em domínio, pelo transcurso de tempo, depois de satisfeitos os requisitos previstos na lei.
+Na hipótese em apreço, todavia, inviável o reconhecimento da usucapião extraordinária, que exige a comprovação da posse justa, mansa, pacífica, contínua e ininterrupta, o "animus domini" (possuir como seu o imóvel), independentemente de título, pelo período mínimo de 15 (quinze) anos, ou da usucapião ordinária, prevista no artigo 1.242, do Código Civil, que exige a posse mansa, pacífica e ininterrupta do imóvel, com justo título, pelo prazo de 10 (dez) anos.
+Isso porque, a ré-reconvinte, além de não se desincumbir de comprovar o exercício da posse pelo prazo de 15 (quinze) anos, para possibilitar o reconhecimento da usucapião extraordinária, também não comprovou as alegadas benfeitorias no imóvel, eis que não requerida prova pericial para esse fim específico.
+Com efeito, merece ser mantida, por seus próprios fundamentos, a r. sentença apelada da lavra da MM. Juíza CAROLINA PEREIRA DE CASTRO, que bem analisou a questão submetida à sua apreciação, permanecendo consistente ante o cotejo das razões ofertadas pelos apelantes em seu recurso, no qual apenas reitera questões já resolvidas na decisão monocrática.
+ ..  assim passo a proceder, ratificando os seguintes fundamentos da decisão monocrática:
+"O pedido inicial é procedente.
+A parte autora enquadra seu pedido na modalidade de usucapião extraordinária, a qual, para ser reconhecida, exige tão somente o preenchimento dos requisitos tempo e posse.
+ ..
+Já no que diz respeito ao elemento posse, demanda-se que ela seja mansa, pacífica, ininterrupta e com animus domini. Não se exige que ela seja dotada de justo título, nem mesmo que haja boa-fé do possuidor.
+Pois bem.
+Conquanto o alegado contrato de cessão de posse não tenha sido juntado integralmente aos autos (o documento de fl. 28 não está assinado e é parte de uma minuta de contrato), a posse exercida por Maria Martha, mãe da autora e de Elenise, até a data de sua morte, é fato incontroverso (fls. 339/340).
+E na hipótese dos autos, provada a posse, com ânimo de dono, pela irmã da autora, Elenice, falecida em 2009. Assim, não deixando outros sucessores além da autora, conclui-se que esta, a partir do falecimento, em 2009, tornou- se a legítima possuidora do imóvel. Por corolário do princípio do droit de saisine, o domínio e a posse da herança transmitem-se, desde logo, no momento da abertura da sucessão, aos herdeiros legítimos e testamentários que, na hipótese dos autos, corresponde à autora.
+ ..
+Não vinga a alegação de que a ré teria comprado o imóvel da mãe da autora. Nem sequer há indícios dessa negociação e, além disso, uma das filhas da suposta vendedora continuou a frequentar o imóvel objeto da venda, o que leva à conclusão - firme - da inexistência de negócio jurídico envolvendo a posse do imóvel. A residência em um local por longa data não implica posse com animus domini como pretende a ré, já que tal presunção não tem previsão legal.
+Tratando-se de forma originária de aquisição da propriedade e de outros direitos reais, para sua concretização, a prescrição aquisitiva não se contenta com qualquer espécie de posse, sendo insuficiente a relação de origem justa que garanta o direito à proteção possessória, mas que não gera a usucapião.
+Não basta posse direta sobre a coisa, com a ciência de que ela não lhe pertence integralmente e com o reconhecimento inequívoco do direito dominial de outrem.
+Aplicam-se à ação de usucapião as regras de distribuição do ônus da prova, de modo que cabe ao autor a prova dos fatos constitutivos de seu direito, e ao réu os fatos modificativos, extintivos e impeditivos do direito do autor (art. 373, incisos I e II do CPC)
+A prova dos autos evidenciou que a ré reside no imóvel há longa data, mas não como se dona fosse. Com efeito, restou provado nos autos que Elenise ou sua mãe nunca cederam os direitos possessórios sobre o imóvel à ré, tanto que a mãe residiu no local até a morte e a filha Elenise comparecia em suas folgas, já que trabalhava como empregada doméstica. Ora, fosse a ré possuidora do imóvel com ânimo de dono, não permitiria que a filha da vendedora do imóvel frequentasse o local, destacando que as testemunhas afirmaram conhecer Elenise e que a viam no local aos finais de semana. Fosse Elenise uma mera visitante ocasional, como alegado pela ré, é provável que nem mesmo fosse lembrada pelas testemunhas.
+ ..
+Finalmente e o mais relevante a ré assinou um contrato em que figura como representante da falecida Elenise (fls. 148/150), esta qualificada como possuidora do imóvel situado na Rua Frederico Rene de Jaeguer, nº 665, ou seja, do imóvel usucapiendo. Fosse a ré a possuidora do imóvel com animus domini não teria se qualificado como representante da possuidora do imóvel usucapiendo. Ressalto inexistir no contrato de fl. 150 qualquer ressalva no que tange à divisão interna do imóvel.
+Tal circunstância, por si, elimina o ânimo de dono da ré, inexistindo prova alguma da transmudação da posse em relação a Elenise e Carmozina, legítimas possuidoras do imóvel desde 2009, quando do falecimento de sua mãe.
+No julgamento dos embargos de declaração, a Corte de origem registrou o seguinte (fls. 808-812, destaquei):
+Por outro lado, o acórdão em epígrafe não pode ser rotulado de omisso, pois enfrentou as questões suscitadas no recurso submetido à apreciação do colegiado, sendo oportuno relembrar, também, que o órgão julgador não está obrigado a debater ou rebater, ponto por ponto, as razões das partes, colhendo delas apenas o que é relevante para fundamentar o julgado e até as despreza de todo, sem que se increpe nulidade, "ius novit curia" (In RJTJESP 79/223 e 225).
+ ..
+O que persegue a embargante, na verdade, é o reexame da decisão de fls. 59/62, imputando omissão baseada em alegações de natureza infringente o que, obviamente, é inadmissível, a teor do que dispõe o já citado artigo 1.022 do Estatuto Adjetivo.
+ ..
+Portanto, inconteste a ausência de violação dos arts. 489 e 1.022 do CPC.
+A propósito, segundo a orientação firmada pela Corte Especial do STJ, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição ( obscuridade, contradição, omissão e erro material ).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
