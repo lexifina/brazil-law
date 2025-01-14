@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Reclamação amparada no art. 105, I, f, da Constituição Federal, com pedido de liminar, ajuizada por RAIMUNDO JOSÉ DOS REIS FILHO contra ato do Diretor da Secretaria de Administração Penitenciária de Minas Gerais e do Presidente da Ordem dos Advogados do Brasil - Seção Minas Gerais por descumprimento de decisão do Superior Tribunal de Justiça no HC 692.959/MG.
+Afirma o reclamante que tem sofrido torturas no ambiente prisional e que os reclamados não tomam nenhuma providência a respeito, o que pode ser tipificado como delito de prevaricação, desobediência e abuso de autoridade, além de tortura.
+Requer, assim, sejam encaminhados ofícios ao Conselho Nacional de Justiça, à Ordem dos Advogados do Brasil, à Corte Interamericana de Direitos Humanos e ao Tribunal Penal Internacional para o conhecimento dos supostos delitos apontados e a promoção do que for de direito.
+É o relatório.
+Decido.
+Nos termos do art. 105, I, f, da Constituição Federal, dos arts. 988, I e II, do CPC/2015 e do art. 187 do RISTJ, é permitido o uso da Reclamação para preservar a competência deste Tribunal ou garantir a autoridade de suas decisões.
+Verifica-se que o pleito em tela consiste em reiteração do formulado na Reclamação 45.722/MG, a qual não foi conhecida por decisão do Ministro Reynaldo Soares da Fonseca em decisão datada de 30.5.2023.
+Na referida decisão, o Relator afirma:
+a) o HC 692.959/MG não foi conhecido e não há nenhum provimento emanado desta Corte que possa ser descumprido;
+b) foi determinado o encaminhamento de cópia da impetração à Corregedoria do Tribunal de Justiça do Estado de Minas Gerais e à Secretaria de Administração Penitenciária estadual para as providências cabíveis, e foram recebidas informações do Governo do Estado e da Secretaria de Segurança Pública de Minas Gerais esclarecendo ter sido instaurada investigação; e
+c) a determinação de encaminhamento de cópia de habeas corpus no qual constam alegações de torturas sofridas no ambiente prisional e de falta de tratamento médico não configura ordem que obrigue a Corregedoria de Tribunal a quo a instaurar procedimento administrativo disciplinar ou a efetuar qualquer tipo de punição.
+Após consulta ao andamento processual da Execução Penal n. 4400059-22.2021.8.13.0569, o Relator concluiu não vislumbrar descaso do Poder Judiciário com o tratamento dado ao ora reclamante durante o período em que permaneceu segregado em unidade prisional, e asseverou que a Reclamação não constitui ação voltada ao atendimento de pleitos de envio de ofícios a outros órgãos, tanto mais porque tais ofícios podem ser elaborados e enviados pelo próprio reclamante.
+Tal decisão foi chancelada pela Terceira Seção em acórdão cuja ementa é reproduzida a seguir:
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DE DECISÃO DESTA CORTE QUE NÃO CONHECEU DE HABEAS CORPUS. AUSÊNCIA DE PROVIMENTO EMANADO DESTA CORTE QUE POSSA CONFIGURAR DESCUMPRIMENTO. DETERMINAÇÃO DE ENCAMINHAMENTO DE OFÍCIO À CORREGEDORIA DE TRIBUNAL DE JUSTIÇA PARA CIÊNCIA DE ALEGAÇÕES DE TORTURA NO AMBIENTE PRISIONAL E DE FALTA DE ATENDIMENTO MÉDICO ADEQUADO QUE NÃO CORRESPONDEM A ORDEM DESCUMPRIDA. RECLAMAÇÃO QUE NÃO AUTORIZA CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o julgado proferido por esta Corte e apontado como descumprido não conheceu de habeas corpus impetrado em favor do ora reclamante e nele não foi proferido nenhum tipo de provimento, não há como se identificar, primo ictu occuli, qualquer tipo de descumprimento que desafie o ajuizamento de reclamação.
+2. A determinação, no bojo do julgado apontado como descumprido, de encaminhamento de cópia do habeas corpus contendo alegações de torturas sofridas no ambiente prisional e de falta de tratamento médico não constitui ordem que obrigue a corregedoria de Tribunal a quo a instaurar procedimento administrativo disciplinar ou a efetuar qualquer tipo de punição, não se prestando, portanto, a amparar o ajuizamento de reclamação.
+3. Situação em que, ademais, a consulta ao andamento da execução penal do ora reclamante indica que foram tomadas providências pelo Juízo de Execução para que fossem fornecidos ao ora reclamante os cuidados médicos de que necessitava, à época, assim como fosse providenciada sua segregação em cela especial, não se vislumbrando, em princípio, descaso do Poder Judiciário com o tratamento dado ao ora reclamante durante o período em que permaneceu segregado em unidade prisional. A última notícia que se tem com base no andamento processual da execução penal do agravante é que ele ainda estaria em prisão domiciliar.
+4. Agravo regimental desprovido.
+(AgRg na Rcl 45.722/MG, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/6/2023.)
+Desse modo, não constatada a existência de decisão desta Corte proferida em benefício do Reclamante cuja autoridade tenha sido desrespeitada, torna-se descabida a medida eleita, a qual tampouco se presta a atender pedido de envio de ofícios a outros órgãos.
+Ante o exposto, indefiro liminarmente a presente Reclamação.
+Publique-se.
+Intimem-se.
+ EMENTA
