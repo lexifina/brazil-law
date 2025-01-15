@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de Agravo apresentado por NOTRE DAME INTERMEDICA SAUDE S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA POR DANOS MORAIS. INTERNAÇÃO EM CLÍNICA PSIQUIÁTRICA. PACIENTE EM SURTO. RECUSA DO PLANO DE SAÚDE. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega a ausência de defeito na prestação de serviço oferecido pela operadora de plano de saúde tendo em vista que não foi observado os requisitos contratuais e legais para a internação involuntária de paciente portador de doença psiquiátrica, bem como para a internação em clínica não credenciada, trazendo a seguinte argumentação:
+Pois bem, estamos diante de uma internação involuntária e realizada em hospital não credenciado, dois elementos relevantes e que demanda a devida atenção deste MM. Juízo.
+ ..
+Portanto, carece a presente demanda da comunicação do Ministério Público Estadual sobre a internação psiquiátrica do autor, fato este relevante, porque a internação precisa ser monitorada e esta competência foi conferida pela Lei ao Ministério Público, impedindo que se forme espécie de cárcere privado pela longa permanência ou desnecessidade da internação.
+ ..
+Esta conduta objetiva a defesa do próprio paciente, porquanto é realizada a estabilização clínica do mesmo em ambiente hospitalar, com o uso da medicação adequada.
+Uma vez estabilizado, o paciente é avaliado se verdadeiramente haverá necessidade de internação psiquiátrica. E isto porque, é muito comum que a família esteja exaurida do trato com o paciente e busque a internação como meio de apaziguar a relação familiar, desconsiderando o que realmente o paciente precisa.
+Neste contexto, uma vez estabilizado no hospital é avaliada, na anamnese se o paciente estava em acompanhamento ambulatorial, se tomava as medicações prescritas pelo médico psiquiatra, se era acompanhado no serviço de psicologia, etc.
+De acordo com esse histórico e ouvido o paciente, é avaliada a internação involuntária.
+Portanto, o protocolo de trabalho da Operadora é absolutamente adequado ao previsto em Lei e nas boas práticas em psiquiatria, fatos e elementos estes ausentes na inicial.
+Ademais, conforme o registro da gravação trazida aos autos, a atendente afirmou expressamente que a conduta é a internação hospitalar pela emergência hospitalar, onde é dada a primeira assistência.
+Ao contrário disto, a rep. legal do autor buscou atendimento junto a clínica não credenciada, e se recusa a permitir que o autor seja transferido para uma clínica credenciada da Operadora.
+Note que a permanência do autor na clínica não credenciada retrata uma escolha da representante legal do autor, esta que não pode ser imputada a Operadora, porquanto não há previsão contratual para atendimento do autor fora da rede credenciada.
+Escolha inclusive duvidosa, porquanto a internação do autor é meramente transitória, não representando seu melhor interesse ter o ônus de suportar a internação em clínica não credenciada.
+Deste modo, estamos diante de irregularidades tanto na conduta da internação involuntária, quanto na internação em clínica não credenciada ferindo a Lei e o contrato.
+ ..
+Como já explicitado, em caso de emergência, o paciente TEM que ser internado em hospital, para fins de estabilização e diagnóstico - nem todo delírio ou alucinação necessariamente significa um surto psicótico, ressalte-se.
+Até onde se nota, o autor não procedeu desta forma, que a LEI prescreve, mas buscou internação em clínica sem sequer ser tratado em pronto atendimento.
+É de se ressaltar que as CLÍNICAS não se prestam a INTERNAÇÕES DE EMERGÊNCIA, uma vez que não possuem estrutura de hospital, necessária em caso de crises mais severas como a que a parte autora alega estar sofrendo.
+Diante disto, é falso que as clínicas credenciadas pela ré não possuíam vaga, sendo que nem o autor nem a ré fizeram tal afirmação.
+Realidade é que as clínicas possuíam vaga, mas somente podem internar o paciente após estabilização, realizada em pronto socorro de hospital:
+Portanto, a todo tempo o tratamento dentro da rede credenciada esteve garantido. Apesar disto, a parte autora preferiu buscar atendimento fora da rede credenciada (fls. 317/323).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 12, VI, da Lei n. 9.656/1998, no que concerne ao não cabimento, no caso, de reembolso integral por internação realizada fora da rede credenciada, por não se tratar de hipótese de urgência ou emergência, trazendo a seguinte argumentação:
+Já identificada a questão da rede contratual plenamente apta a prestação do serviço ao autor, devemos prosseguir quanto a questão da regularidade do reembolso.
+E isto porque, o reembolso integral de despesas somente está previsto para a hipótese descrita no Art. 12, inc. VI, da Lei 9.656/98, que propugna situações de urgência/emergência, assim caracterizados nos termos do Art. 35-C da mesma lei.
+As demais hipóteses de reembolso decorrem do contrato pactuado entre as partes.
+E no caso dos autos, além de não fazer jus a internação em local não credenciado, ao certo, não estamos diante de hipótese de impossibilidade de acesso à rede credenciada.
+(fls. 323).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, incide a Súmula n. 284/STF, tendo em vista que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 26.8.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 26.6.2020; AgInt nos EDcl no REsp n. 1.675.932/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 4.5.2020; AgInt no REsp n. 1.860.286/RO, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14.8.2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29.6.2020; AgRg no AREsp n. 1.433.038/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14.8.2020; REsp n. 1.114.407/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18.12.2009; AgRg no EREsp n. 382.756/SC, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 17.12.2009; AgInt no AREsp n. 2.029.025/AL, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 29.6.2022; AgRg no REsp n. 1.779.821/MG, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18.2.2021; e AgRg no REsp n. 1.986.798/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ademais, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Quanto à segunda controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Segundo consta da inicial, a representante legal do autor não conseguiu vaga para internação na rede credenciada da ré, tendo sido disponibilizado apenas atendimento em hospitais de pronto atendimento, sem especialidade em psiquiatria.
+Com efeito, tornou-se incontroverso nos autos que a ré, ora apelante, não disponibilizou ao autor a internação em clínica psiquiátrica, que se fazia necessária, em caráter emergencial, a teor dos laudos médicos trazidos aos autos.
+ ..
+Nesse contexto, uma vez comprovada a situação de urgência/emergência e a necessidade de internação psiquiátrica e ausente prova da legalidade da recusa de adequado atendimento ao autor, caracterizada a falha na prestação do serviço (fls. 283/284)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
