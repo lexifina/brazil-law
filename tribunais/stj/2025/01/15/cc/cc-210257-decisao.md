@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado da Bahia em face do Juízo Federal do Juizado Especial Cível e Criminal Adjunto à 2ª Vara de Itabuna - Seção Judiciária da Bahia, nos autos de ação ajuizada por Josania Pinheira dos Santos Matos contra o INSS objetivando a concessão de auxílio doença.
+Consta do processado que o Juízo Federal declinou de sua competência asseverando que "o exame dos autos revela que as enfermidades que acometem a parte autora se deram em virtude de acidente do trabalho, consoante se depreende do laudo pericial".
+O Juízo da 3ª Vara dos Feitos de Rel. de Cons. Cíveis Comerciais e Acid. Trab. de Itabuna - BA processou e julgou o pedido parcialmente procedente condenando o INSS ao pagamento de auxílio-doença desde a data do indeferimento administrativo indevido.
+Em sede de apelação, o Tribunal de Justiça da Bahia julgou o recurso prejudicado e suscitou o presente conflito negativo de competência, assim resumido o acórdão:
+EMENTA: PREVIDENCIÁRIO. APELAÇÃO CÍVEL E RECURSO ADESIVO. SENTENÇA QUE CONCEDEU O AUXÍLIO-DOENÇA COM PAGAMENTO DE VALORES RETROATIVOS. IRRESIGNAÇÃO DO INSS EM RAZÃO DA NATUREZA DO BENEFÍCIO. INEXISTÊNCIA DE DOENÇA OCUPACIONAL. LEGISLAÇÃO ACIDENTÁRIA EXCLUDENTE. NATUREZA PREVIDENCIÁRIA DO BENEFÍCIO. INTELIGÊNCIA DO ARTIGO 19 DA LEI 8.213/1991. DECLINADA A COMPETÊNCIA. SUSCITADO DE OFÍCIO CONFLITO DE COMPETÊNCIA ENTRE A JUSTIÇA FEDERAL E ESTADUAL. RECURSO PREJUDICADO.
+1. Da análise processual é possível constatar que a Autora apresenta patologia não relacionada com o trabalho , portanto, não possui direito ao recebimento dos benefícios decorrentes de acidente de trabalho, tal como o auxílio-acidente ou o auxílio- doença acidentário, por não se adequar à descrição legal contida no art. 19 da Lei 8.213/1991, podendo, no entanto, fazer jus ao recebimento do auxílio-doença previdenciário, cuja analise dos requisitos e cabimento no caso concreto se insere no âmbito de competência da Justiça Federal.
+2. Entrementes, a ação previdenciária em julgamento não se enquadrada como decorrente de acidente de trabalho, nos termos do art. 19 da Lei 8213/91, não se adequando a exceção contida na norma constitucional descrita no art. 109, I, da CF/88.
+3. Mantem-se em vigor a liminar concedida em primeiro grau até o julgamento do conflito de competência, por se tratar de verba de natureza alimentícia.
+4. RECURSO PREJUDICADO.
+O Ministério Público Federal manifestou-se pela competência do juízo suscitante.
+É o relatório.
+Consoante relatado, Josania Pinheiro dos Santos Matos ajuizou ação contra a autarquia previdenciária objetivando a concessão de auxílio doença previdenciário, que fora indeferido indevidamente na via administrativa.
+Argumentou, para tanto, que se encontra incapacitada para exercer suas atividades habituais e laborais, sem, no entanto, mencionar qualquer tipo de acidente de trabalho.
+Desse modo, levando-se em consideração o pedido e a causa de pedir, tem-se que a pretensão é de natureza nitidamente previdenciária, cuja competência para processar e julgar é da Justiça Federal.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. PEDIDO E CAUSA DE PEDIR NÃO VINCULADA A ACIDENTE DO TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que conhecera do Conflito de Competência, instaurado em Ação ajuizada por segurada, perante a Justiça Federal, contra o Instituto Nacional do Seguro Social - INSS, postulando benefício previdenciário de auxílio-doença ou aposentadoria por invalidez.
+II. Não resta configurada hipótese de aplicação da Súmula 15/STJ ("Compete a justiça estadual processar e julgar os litígios decorrentes de acidente do trabalho"), porquanto ausente a alegação, na petição inicial, de liame entre o benefício requerido pela parte segurada e acidente do trabalho, que não foi, sequer, mencionado, como fundamento do pleito.
+III. Na forma da jurisprudência do STJ, "a definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada)" (STJ, CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe de 03/04/2012).Precedentes.
+IV. Agravo interno improvido.
+(AgInt no CC n. 154.273/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 29/11/2022, DJe de 1/12/2022.)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal do Juizado Especial Cível e Criminal Adjunto à 2ª Vara de Itabuna - Seção Judiciária da Bahia, o suscitado.
+Dê-se ciência ao Juízo suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AUXÍLIO DOENÇA. BENEFÍCIO DE NATUREZA PREVIDENCIÁRIA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
