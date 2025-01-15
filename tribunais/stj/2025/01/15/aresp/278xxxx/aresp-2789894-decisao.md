@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CARLOS EDUARDO GARCIA MERISIO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO. DIREITO CIVIL E PROCESSUAL CIVIL. LEGITIMIDADE. ATIVA. PASSIVA. PRELIMINAR. TEORIA. ASSERÇÃO. AÇÃO POSSESSÓRIA. REINTEGRAÇÃO. POSSE. REQUISITOS. DEMONSTRAÇÃO. AUSÊNCIA. INOCORRÊNCIA. ÔNUS. PROVA. AUTOR. DESINCUMBÊNCIA. HONORÁRIOS. ADVOCATÍCIOS. SUCUMBÊNCIA. FIXAÇÃO. PARÂMETRO. VALOR DA CAUSA. ALTERAÇÃO. EQUIDADE. IMPOSSIBILIDADE (fl. 629).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 34 do CTN e do princípio constitucional da segurança jurídica, no que concerne à comprovação de propriedade de bem imóvel por meio de lançamento e de cobrança do ITR, trazendo a seguinte argumentação:
+A violação da lei federal é patente, tendo em vista que o Tribunal ignorou o reconhecimento implícito da posse e da propriedade do imóvel pelo ente tributante. O Código Tributário Nacional (Lei nº 5.172/1966) estabelece, em seu artigo 34, que o lançamento e a cobrança de tributos sobre um bem evidenciam a posse ou propriedade.
+O artigo referido estabelece que, ao se lançar e cobrar tributo sobre um bem, presumir-se-á a posse ou propriedade do contribuinte sobre aquele bem. No caso em questão, a apresentação da Declaração de Imposto sobre a Propriedade Territorial Rural (ITR) e os documentos comprobatórios de cobrança de tributos demonstram que o imóvel é tratado como propriedade privada para fins tributários.
+ ..
+Portanto, a decisão do Tribunal violou não apenas o Código Tributário Nacional, mas também o princípio constitucional de segurança jurídica, ao desconsiderar a regularidade das obrigações tributárias e o reconhecimento implícito da posse e da propriedade do imóvel pelo ente tributante.
+A decisão recorrida exige a justiça e a estabilidade das relações jurídicas recorrentes, sendo necessária a reforma do a córdão para garantir a proteção possessória e garantir a aplicação correta da legislação federal (fls. 745/746).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível a interposição de Recurso Especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+Nesse sentido: "O art. 105, III, "a", da CF, ao dispor acerca da interposição de recurso especial, menciona a ocorrência de violação à lei federal, expressão que não inclui os princípios". (AgInt no AREsp n. 826.592/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 13.6.2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.304.346/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 8.4/2019; AgRg no REsp 1.135.067/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 9.11.2015.
+Ademais, incide a Súmula n. 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, Rel. Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19.10.2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, Rel. Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29.8.2005; AgInt no AREsp n. 1.264.021/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º.3.2019; AgInt no AREsp n. 953.171/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 23.8.2022; AgInt no AREsp n. 1.506.939/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.8.2022; AgRg no AREsp 1.647.409/SC, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º.7.2020; AgRg no REsp n. 1.850.296/PR, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 18.12.2020; AgRg no REsp n. 2.004.417/MT, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
