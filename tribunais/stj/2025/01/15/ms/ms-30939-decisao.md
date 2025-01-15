@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de Mandado de Segurança com pedido de liminar impetrado por MARIA MADALENA MENDES contra ato praticado pelo COMANDANTE DA SEGUNDA REGIÃO MILITAR DO EXÉRCITO BRASILEIRO (REGIÃO DAS BANDEIRAS), consubstanciado na determinação de desconto compulsório mensal, no contracheque da pensionista militar, de valores indevidamente recebidos em virtude da acumulação da pensão e de mais de um benefício previdenciário do INSS.
+A impetrante afirma que: (i) é idosa, estando às vésperas de completar 76 anos de idade; (ii) é viúva há 32 anos e não possui cônjuge ou companheiro, não tendo outros rendimentos além da pensão militar e dos proventos do INSS; (iii) "não tinha conhecimento da irregularidade, até por que, segundo seu melhor juízo, tendo as pensões e aposentadoria sido concedidas, seria devido ao fato de que os órgãos envolvidos (INSS e Exército Brasileiro) tinham analisado e reconhecido o seu direito ao recebimento dos valores" (fl. 5); (iv) em 18/3/2022, apresentou requerimento de desistência da pensão perante a Previdência Social INSS (protocolo n. 1470185752), que somente procedeu ao cancelamento do beneficio em abril de 2023; (v) de forma indevida, o Exército Brasileiro busca o ressarcimento dos valores que lhe foram pagos entre abril de 2022 e abril de 2023, ou seja, o período que o INSS demorou para cancelar a pensão por morte previdenciária; e (vi) "nas relações dentro de um estado de direito é prerrogativa do Judiciário os atos executivos de maneira que não é possível, por meio de uma sindicância (procedimento eminentemente administrativo) fazer qualquer retenção ou compensação de valores" (fl. 6).
+Liminarmente, requer a suspensão dos aludidos descontos mensais nos seus proventos de pensão militar, aduzindo que: (i) o fumus boni iuris reside no seu direito líquido e certo de receber seu benefício previdenciário integralmente; e (ii) o periculum in mora decorre da iminência dos descontos nos seus contracheques.
+É o relatório.
+Decido.
+Nos termos da alínea b do inciso I do art. 105 da Constituição de 1988, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os Mandados de Segurança impetrados contra ato do próprio Tribunal ou de Ministro de Estado ou dos Comandantes da Marinha, do Exército e/ou da Aeronáutica.
+Na espécie, a impetrante apontou como autoridade coatora o Comandante da Segunda Região Militar do Exército Brasileiro (Região das Bandeiras), autoridade que não se insere no supracitado rol.
+Observa-se, ainda, que o ato apontado como coator foi praticado pelo chefe da subseção de processo de pagamento, o que também evidencia a incompetência do STJ.
+Ante o exposto, com fundamento no art. 212 do RISTJ, indefiro liminarmente o Mandado de Segurança, por incompetência absoluta desta Corte .
+Sem condenação em honorários (Súmula n. 105 do STJ).
+Publique-se.
+Intimem-se.
+EMENTA
