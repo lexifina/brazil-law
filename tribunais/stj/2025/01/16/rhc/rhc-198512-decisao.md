@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso, interposto por Lucas Eduardo Soares Alves da Silva, pelo qual impugnado acórdão proferido pela 7ª Câmara Criminal do Tribunal de Justiça de Minas Gerais no HC n. 1.0000.24.232983-7/000 - que denegou o writ de origem, mantendo o recorrente segregado cautelarmente em razão da suposta prática do crime de tráfico de drogas -, perdeu seu objeto.
+Isso porque, diante das informações extraídas da página eletrônica do Tribunal de origem, foi proferida sentença condenatória em desfavor do recorrente em 18/11/2024, condenando-o à pena de 5 anos de reclusão, além do pagamento de 500 dias-multa, em regime fechado.
+Como se vê, na sentença, entendeu-se necessária a manutenção da custódia do réu, pois, além de ainda estarem presentes as causas que a determinaram, agora tal medida é reforçada com novos fundamentos, quais sejam, a diversidade das drogas e o juízo de certeza decorrente da sentença condenatória - de forma que a custódia cautelar não mais se ancora em meros indícios de autoria -, que ainda não foram submetidos ao crivo do Tribunal de origem.
+Ora, a superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar (AgRg no HC n. 461.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/08/2019). 3. Agravo regimental improvido (AgRg no RHC n. 157.779/MA, de minha relatoria, Sexta Turma, DJe 21/ 2/2022).
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS. PERDA DO OBJETO. Recurso prejudicado.
