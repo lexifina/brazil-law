@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+APELAÇÃO ROUBO. Admissão de subtração, procurando o apelante negar a violência ou grave ameaça. IMPOSSIBILIDADE. Situação de adentrar com o corpo, parcialmente, dentro do carro da vítima, já é suficiente para causar temor, dominando a vontade desta: inusitado e audácia de comportamento que impuseram a submissão da vontade. Roubo mantido. Art. 59, CP, a pena foi fundamentada. O critério trifásico foi observado em face dos autos. Admissão tão só de subtração, sem violência ou grave ameaça rejeitada mantida a imputação de roubo. O regime prisional tem previsão legal. NEGADO PROVIMENTO AO RECURSO.
+O paciente foi condenado à pena de 5 anos, 9 meses e 3 dias de reclusão, em regime inicial fechado, além do pagamento de 14 dias-multa, pela prática do crime previsto no art. 157, caput, do Código Penal (roubo simples).
+A defesa pleiteia o reconhecimento da confissão espontânea como atenuante e sua compensação integral com a agravante da reincidência.
+Ao final, requer a concessão da ordem para que haja compensação entre agravantes e atenuantes na segunda fase da dosimetria.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux)
+(..) A orientação jurisprudencial deste Tribunal é no sentido de que o " habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Segundo consta, no dia 20 de outubro de 2022, por volta da 1h55, em um semáforo da Avenida Francisco Matarazzo, Barra Funda, São Paulo/SP, o paciente subtraiu, mediante grave ameaça consistente na simulação de porte de arma de fogo, um aparelho celular iPhone 11, preto, 64GB, pertencente à vítima José de Paulo Ferreira.
+No caso, o paciente confessou parcialmente o crime, admitindo a subtração do bem, mas negando o emprego de grave ameaça. Na segunda fase da dosimetria, o juiz sentenciante elevou a pena em 1/5 em razão da reincidência, fixando-a definitivamente em 5 anos, 9 meses e 3 dias de reclusão.
+O Tribunal de origem, embora tenha reconhecido a confissão parcial como atenuante, manteve o patamar de exasperação de 1/5, o que deve ser mantido, na medida em que a confissão parcial tem menor valor que a reincidência múltipla, em homenagem ao princípio da individualização da pena.
+Tal entendimento encontra respaldo na jurisprudência desta Corte. Com efeito, nos casos de multirreincidência, como o dos autos, em que o paciente ostenta duas condenações definitivas anteriores, deve ser reconhecida a preponderância da agravante da reincidência sobre a atenuante da confissão, ainda que parcial.
+Assim, nenhuma censura merece o quantum estabelecido pelas instâncias ordinárias, que se mostra proporcional.
+No caso concreto, o aumento de 1/5 pela reincidência múltipla mostra-se proporcional e adequado, não havendo ilegalidade a ser sanada por esta via.
+Ausente flagrante ilegalidade que autorize a superação do óbice sumular e a concessão da ordem de ofício.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
