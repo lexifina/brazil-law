@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Habeas Corpus, com pedido liminar, impetrado em favor de ANA JÚLIA BIGINELI MENDES e OUTROS, no qual se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DE SÃO PAULO que indeferiu pedido de liminar formulado no HC n. 2397788-67.2024.8.26.0000.
+O Habeas Corpus na origem foi dirigido contra decisão do magistrado de primeiro grau que deferiu tutela de urgência pleiteada pelo Ministério Público estadual nos autos de Ação Civil Pública, "para determinar ao Município de Ipuã a adoção das medidas de regulamentação, fiscalização e aplicação das sanções cabíveis, para o fim de proibir e interditar, para fins comerciais, de locação, empréstimo ou cessão, as áreas  de lazer  situadas ao lado ou na proximidade de imóveis residenciais, bem como para notificar os demais proprietários ou responsáveis  pelas referidas áreas  a limitar as atividades até as 22h, em qualquer dia, proibindo-se o uso de instrumentos musicais ou execução de música mecânica, por caixas de som ou outras fontes sonoras, salvo se houver sistemas efeitos de contenção ou isolamento acústico".
+O Desembargador do TJSP assim fundamentou o indeferimento da liminar em Habeas Corpus:
+Trata-se, na origem, de ação civil pública movida pelo Ministério Público em face do Município de Ipuã, objetivando a condenação do Município a adotar providências para regulamentar o uso das áreas de lazer particulares, cuja finalidade é a exploração comercial por meio de locação para festas, eventos, confraternizações e similares, com a fiscalização e aplicação de respectivas sanções e outras medidas.
+O juízo de origem deferiu a tutela de urgência pretendida, para determinar ao Município de Ipuã a adoção das medidas de regulamentação, fiscalização e aplicação das sanções cabíveis, para o fim de proibir e interditar, para fins comerciais, de locação, empréstimo ou cessão, as áreas s ituadas ao lado ou na proximidade de imóveis residenciais, bem como para notificar os demais proprietários ou responsáveis por áreas de lazer a limitar as atividades até as 22h, em qualquer dia, proibindo-se o uso de instrumentos musicais ou execução de música mecânica, por caixas de som ou outras fontes sonoras, salvo se houver sistemas efeitos de contenção ou isolamento acústico.
+ ..
+Em sede de cognição sumária, isto é, não exauriente, não vislumbro a probabilidade do direito alegado. Isto porque, pela documentação apresentada nos autos, a decisão é legal, de modo que, ao menos em princípio, não há violação à liberdade de ir e vir.
+A antecipação da tutela foi concedida para o fim de proibir e interditar, para fins comerciais, de locação, empréstimo ou cessão, as áreas situadas ao lado ou na proximidade de imóveis residenciais, não havendo que se falar em obstáculo à liberdade de locomoção, por ato ilegal.
+Tampouco há ilegalidade na ordem ao determinar a limitação das atividades festivas e sonoras até as 22h, haja vista a proibição à perturbação do sossego público (Lei Municipal nº 3.043/2010).
+Assim, ausente a probabilidade do direito a permitir a concessão da ordem de habeas corpus em caráter liminar, resta negado o pedido de tutela provisória de urgência.
+Em suas razões, o impetrante afirma ser flagrante a violação ao direito de ir, vir e permanecer dos pacientes nas áreas de lazer que lhes pertencem. Sustenta que a decisão proferida na ACP "não permite, sequer, a utilização dos bens entre familiares e amigos, independentemente de exploração comercial (locação)". Aduz que "o Ministério Público não juntou qualquer documento comprobatório da alegada perturbação do sossego público ou ilícitos praticados nessas áreas que chancelasse tamanho cerceamento ao direito de ir, vir e permanecer, o que, sem sombra de dúvidas, torna a decisão ilegal". Requer, ao final, "a concessão da ordem em favor dos pacientes com o fim de garantir o salvo conduto de poder ir, vir e permanecer em suas áreas de lazer privadas no Município de Ipuã-SP, com seus familiares e/ou amigos, mesmo após às 22h, observados os preceitos da Lei Municipal n. 3.043 de 08 de junho de 2010, que dispõe sobre as regras de não perturbação do sossego público".
+É o relatório.
+Decido.
+Mesmo sem adentrar ao mérito do atípico uso do writ para a situação narrada nos autos (que não trata, propriamente, do direito de ir e vir), constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, o que atrai a incidência da Súmula n. 691 do STF, segundo a qual:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO HABEAS CORPUS - EXECUÇÃO DE ALIMENTOS - DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O WRIT, PELA APLICAÇÃO ANALÓGICA DA SÚMULA 691/STF - INSURGÊNCIA DA PARTE IMPETRANTE.
+1. Não é cabível habeas corpus em face de decisão singular de relator que indefere liminar pleiteada no Tribunal de origem. Aplicação analógica da Súmula 691 do STF. Precedentes.
+ ..  4. Agravo interno desprovido. (AgInt no HC n. 922.004/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/12/2024, DJe de 13/12/2024)
+AGRAVO INTERNO EM HABEAS CORPUS PREVENTIVO CONTRA DECISÃO LIMINAR. SÚMULA N. 691 DO STF. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE TERATOLOGIA.
+1. A teor da Súmula n. 691 do STF, não cabe conhecer de Habeas Corpus contra decisão liminar do relator no Tribunal de origem.
+2. Ausentes teratologia, ilegalidade ou aberração, impossível a concessão da ordem de ofício.
+3. O Habeas Corpus não pode ser usado como sucedâneo recursal.
+Agravo interno improvido. (AgInt no HC n. 935.130/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024)
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior, por não se vislumbrar teratologia na decisão objeto do presente Habeas Corpus, que apontou a ausência de ilegalidade na "limitação de atividades festivas e sonoras até as 22h, haja vista a proibição à perturbação do sossego público (Lei Municipal n. 3.043/2010)".
+Desse modo, deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento nos artigos 21-E, IV, e 210 do RISTJ, indefiro liminarmente o presente Habeas Corpus .
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+EMENTA
