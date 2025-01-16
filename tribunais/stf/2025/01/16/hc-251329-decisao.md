@@ -1,0 +1,65 @@
+Decisão: 1. Trata-se de novo habeas corpus impetrado em prol dos pacientes, desta vez contra acórdão do Superior Tribunal de Justiça assim ementado (eDOC 5):
+
+    EMENTA DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. REQUISITOS LEGAIS. AGRAVO DESPROVIDO. I. Caso em exame 1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a prisão preventiva dos agravantes, acusados de furto qualificado, associação criminosa e porte ilegal de arma de fogo. II. Questão em discussão 2. A questão em discussão consiste em saber se estão presentes os requisitos legais para a manutenção da prisão preventiva dos agravantes. III. Razões de decidir 3. Os indícios de autoria, nos termos da exigência contida no art. 312 do CPP, estão configurados, entre outros elementos, nas imagens obtidas por meio dos circuitos de câmeras de segurança dos condomínios nos quais ocorreram os furtos e, em especial, no fato de os agravantes terem sido flagrados em veículo utilizado para a prática dos crimes, no qual foram apreendidos, inclusive, parte dos objetos furtados pelo grupo criminoso. 4. É incabível, na estreita via do habeas corpus, a análise acerca da existência, assentada pelas instâncias ordinárias, tanto de prova da existência do crime quanto de indício de autoria suficiente para a decretação da segregação preventiva, por demandar detido e profundo revolvimento fático-probatório dos autos. 5. A prisão preventiva está suficientemente fundamentada na necessidade de garantia da ordem pública, em razão do risco concreto de reiteração delitiva, pois os agravantes, além de terem sido flagrados após a suposta prática de furtos em série, ostentam histórico criminal. Conforme consignado pelo Juízo de primeiro grau, José Alexandre já tinha contra si três execuções penais em andamento – uma iniciada em 2022 e outras duas em 2023 –, e Nathan tinha mandado de prisão em aberto, em razão de crime de roubo em outro Estado da Federação. 6. A aplicação de medidas cautelares diversas da prisão é inviável, pois a periculosidade dos agravantes indica que a ordem pública não estaria acautelada com a soltura deles. IV. Dispositivo e tese 7. Agravo desprovido. Tese de julgamento: "1. A análise de prova do crime e indícios de autoria assentados pelas instâncias ordinárias não é cabível em habeas corpus. 2. A prisão preventiva deve ser mantida para garantia da ordem pública quando há risco concreto de reiteração delitiva. 3. Medidas cautelares diversas da prisão são inviáveis quando a periculosidade dos acusados compromete a ordem pública".
+
+    Busca-se, mais uma vez, a revogação da custódia preventiva – decretada pela suposta prática dos crimes previstos no art. 2º, §4º, II, da Lei 12.850/13, e nos arts. 299, 312 e 313, todos do Código Penal. – ou, ao menos, a sua substituição por outras medidas menos gravosas, sob o argumento de que, além da carência de motivação idônea a sustentar cautela extrema, até por ausência contemporaneidade, presentes condições pessoais favoráveis.
+
+    É o relatório. Decido.
+
+    2. O sistema de recursos e meios de impugnação previsto na Constituição Federal, lida enquanto regra de distribuição de competências, tem uma razão de ser. Até então, acompanhando entendimento fixado na Primeira Turma, sustentei que não há como se admitir habeas corpus impetrado em substituição a instrumento recursal constitucionalmente previsto, como é o recurso ordinário. Nesse sentido:
+
+    “A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal” (HC 128617 AgR, Relator(a): Min. Roberto Barroso, Primeira Turma, julgado em 04.08.2015).
+
+    Contudo, a Segunda Turma desta Corte uniformizou posicionamento para admitir writ substitutivo de recurso ordinário constitucional. Nessa esteira:
+
+    “A Segunda Turma do Supremo Tribunal Federal admite a impetração de habeas corpus em substituição ao recurso ordinário constitucional (art. 102, II, a, da Constituição Federal).” (HC 122.268, Relator(a): Min. Dias Toffoli, Segunda Turma, julgado em 24.03.2015).
+
+    Outros precedentes: HC 112.836, Relator(a) Min. Cármem Lúcia, DJe 15.8.2013; e HC 116.437, Relator(a) Min. Gilmar Mendes, DJe 19.6.2013.
+
+    Sendo assim, ressalvado posicionamento pessoal sobre a matéria, agora como integrante da Segunda Turma, em observância ao princípio da colegialidade, admito o habeas corpus em substituição ao adequado recurso.
+
+    3. Ainda assim, o writ não comporta prosseguimento, pois a apontada ilegalidade não pode ser aferida de pronto.
+
+    Diversamente do que alega o impetrante, pela documentação que instrui o presente mandamus, nota-se que as instâncias antecedentes deliberaram pela manutenção da segregação preventiva à luz das peculiaridades que permearam o caso concreto.
+
+    Com efeito, por simples leitura do voto condutor do acórdão prolatado Superior Tribunal de Justiça, é possível observar que a custódia cautelar dos pacientes foi mantida porque calcada em motivação idônea.
+
+    De um lado, porque, de fato, para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. In casu, consubstanciados na indicação de que “entre outros elementos, nas imagens obtidas por meio dos circuitos de câmeras de segurança dos condomínios nos quais ocorreram os furtos e, em especial, no fato de os agravantes terem sido flagrados em veículo utilizado para a prática dos crimes, no qual foram apreendidos, inclusive, parte dos objetos furtados pelo grupo criminoso”.
+
+    Lado outro, porque apontada a periculosidade social dos agentes, “em razão do risco concreto de reiteração delitiva, pois [...], além de terem sido flagrados após a suposta prática de furtos em série, ostentam histórico criminal. Conforme consignado pelo Juízo de primeiro grau, José Alexandre já tinha contra si três execuções penais em andamento – uma iniciada em 2022 e outras duas em 2023 –, e Nathan tinha mandado de prisão em aberto, em razão de crime de roubo em outro Estado da Federação”.
+
+    A jurisprudência desta Suprema Corte, tal como o Superior Tribunal de Justiça, reconhece tais fundamentos como aptos a justificar, em tese, a medida gravosa, independentemente de juízo preditivo a respeito de eventual solução do caso ou de reprimenda a ser aplicada, que possa vir a fazer instância outra que não a competente para o processamento e julgamento da ação penal. Isso porque “A prisão preventiva pode ter fundamento na reiteração criminosa como violadora da ordem pública [...]. Para fins de acautelamento, não se exige que a reincidência seja específica; leva-se em consideração, sobretudo, o fato de o agente já ter sido anteriormente condenado definitivamente pela prática de outro crime” (RHC 240353 AgR, Primeira Turma, Relator(a) Min. Cristiano Zanin, DJe 24.05.2024).
+
+     Assim também, os seguintes julgados: HC 180623, Relator(a) Min. Marco Aurélio, Primeira Turma, DJe 15.05.2020; HC 169014 AgR, Relator(a) Min. Cármen Lúcia, Segunda Turma, DJe 14.06.2019; RHC 146.329 AgR, Relator(a) Min. Roberto Barroso, Primeira Turma, DJe 19.02.2018; RHC 193153 AgR, Relator(a) Min. Ricardo Lewandowski, Segunda Turma, DJe 28.01.2021; HC 172103 AgR, Relator(a) Min. Gilmar Mendes, Segunda Turma, julgado em 25.10.2019; HC 173042 AgR, Relator(a) Min. Cármen Lúcia, Segunda Turma, julgado em 04.10.2019; HC 169311 AgR, Relator(a) Min. Roberto Barroso, Primeira Turma, julgado em 27.09.2019 e HC 174140 AgR, Relator(a) Min. Alexandre de Moraes, Primeira Turma, julgado em 06.09.2019.
+
+    A periculosidade do agente pode ser aferida por intermédio de diversos elementos concretos, para servir de respaldo à necessidade da imposição de custódia preventiva. Já remansosa a compreensão desta Suprema Corte de que “Se as circunstâncias concretas da prática do delito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Precedentes” (HC 190.028 AgR, Primeira Turma, Relator(a) Min. Rosa Weber, DJe 11.02.2021)
+
+    Ademais, o Supremo Tribunal Federal tem entendimento pacífico de que "A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para [até mesmo] a prisão preventiva" (HC n. 95.024/SP, Primeira Turma, Relator(a) Min. CÁRMEN LÚCIA, DJe de 20/2/2009).
+
+    Na esteira do entendimento do Plenário desta Suprema Corte, a existir elementos indicativos de que ao menos uma das condutas delitivas tem seus atos de desdobramento ainda persistentes, não há que se falar em ausência de contemporaneidade para imposição da cautela (HC 143333/PR, de MINHA RELATORIA, julgado em 12.04.2018).
+
+    Mesmo após as alterações promovidas, em 2019, no CPP, a Corte vem mantendo esse entendimento, no que concerne ao requisito da contemporaneidade. Apenas à guisa de exemplo, em 2021, também sobre o requisito da contemporaneidade, no HC 190.028, da relatoria da eminente, e sempre lembrada aqui, e sempre presente, nossa eterna Presidente Ministra Rosa Weber, se assentou, perante a Primeira Turma, que (DJe 11.02.2021):
+
+    "A contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal."
+
+    Nessa mesma linha, menciono ainda, apenas à guisa de exemplo: o HC 219453 AgR, Segunda Turma, Relator(a) Min. Edson Fachin, DJe 22/06/2023; HC 226793 AgR, Segunda Turma, Relator(a) Min. Gilmar Mendes, DJe 1º/06/2023; HC 204865 AgR, Primeira Turma, Relator(a) Min. Roberto Barroso, DJe 01.12.2021; o HC 206147 AgR, Segunda Turma, Relator(a): Min. Ricardo Lewandowski, DJe 25.10.2021; o HC 202742 AgR, Segunda Turma, Relator(a): Min. Gilmar Mendes, DJe 31.08.2021; e o HC 200927, Primeira Turma, Relator(a): Min. Marco Aurélio, DJe 28.06.2021, entre outros que vão nesta direção.
+
+    Mais recentemente, o HC 226.558, julgado perante esta Segunda Turma, da relatoria do eminente Ministro André Mendonça, assentou: "O Supremo Tribunal Federal entende que a contemporaneidade relaciona-se com os motivos ensejadores da prisão preventiva, e não com o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo".
+
+    Registro, ainda, por oportuno, que as premissas decisórias indicadas pelas instâncias ordinárias não se submetem a juízo revisor a ser empreendido por esta Corte, especialmente na estreita via do writ. Afinal, “de acordo com a jurisprudência do Supremo Tribunal Federal, é inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que ampararam a conclusão das instâncias ordinárias” (HC 137695, Relator(a): Min. DIAS TOFFOLI, julgado em 10/10/2016). Nessa linha: RHC 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+
+    Por fim, saliento que, também na esteira da jurisprudência do Supremo Tribunal Federal, “Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese” (HC 161960 AgR, Relator(a): Min. Gilmar Mendes, Segunda Turma, julgado em 05.04.2019).
+
+    Atento, pois, aos limites cognitivos do mandamus, verifico que a persistência da ordem de custódia prisional dos pacientes não se trata de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, de modo que não é o caso de concessão da ordem.
+
+    4. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+
+    Publique-se e intimem-se.
+
+    Brasília, 16 de janeiro de 2025.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
