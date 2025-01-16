@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de TAINA DA SILVA OTT, denunciado e preso preventivamente pela suposta prática do crime previsto no art. 121, §2º, IV, do Código Penal (Processo n. 5001642-19.2024.8.21.0034, da Vara Criminal da comarca de São Luiz Gonzaga/RS).
+Ataca-se o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul no HC n. 5134833-20.2024.8.21.7000/RS, que manteve a prisão preventiva do réu, assim como o prosseguimento da ação penal (fls. 27/38).
+Alega-se a ausência de fundamentação idônea no acórdão da Câmara Criminal, considerando que apenas repetiu a decisão proferida pelo desembargador relator, que negou a liminar em habeas corpus, e o parecer do Ministério Público, contrário à concessão da ordem, sem acrescer qualquer outro fundamento ou examinar o mérito do remédio heroico (fl. 8).
+Aduz-se que a prisão preventiva no caso dos autos não se justifica, não sendo necessária, adequada ou proporcional em sentido estrito, de forma a resguardar a ordem pública (fl. 14), bem como que o acórdão deixou de demonstrar a imprescindibilidade da prisão e o porquê da insuficiência das medidas cautelares diversas, previstas no Código de Processo Penal (fl. 15).
+Menciona-se que a denúncia formulada pelo Parquet viola o disposto no art. 41, do CPP, sendo manifestamente inepta no que diz respeito à narrativa da circunstância qualificadora. Também, por ser absolutamente incompatível o dolo eventual e a qualificadora do emprego de recurso que dificultou a defesa da vítima, o que deveria implicar na sua rejeição, nos termos do art. 395, I, do CPP (fl. 17).
+Sustenta-se também a ausência de justa causa para a ação penal, pois, na hipótese, não é possível apontar o paciente como autor do crime de homicídio praticado com dolo eventual (fl. 22).
+Requer-se, em liminar e no mérito, a concessão de liberdade provisória ao paciente, sem prejuízo da imposição de medidas cautelares alternativas; o trancamento da ação penal por inépcia da denúncia e/ou ausência de justa causa.
+Em 20/8/2024, indeferi o pedido liminar (fls. 197/199).
+Prestadas as informações (fls. 210/211), o Ministério Público Federal, às fls. 218/228, opinou pelo parcial conhecimento do writ e, nessa extensão, pela concessão da ordem, conforme ementa a seguir:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CRIME DE TRÂNSITO. DOLO EVENTUAL. ALEGAÇÕES DE INÉPCIA DA DENÚNCIA, FALTA DE JUSTA CAUSA E ILEGALIDADE DE PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE PRONÚNCIA E DE SUBSTITUIÇÃO DA PRISÃO POR MEDIDAS CAUTELARES DIVERSAS - PERDA PARCIAL DE OBJETO. TESE DE INCOMPATIBILIDADE DE DOLO EVENTUAL E QUALIFICADORA OBJETIVA. AUSÊNCIA DE FUNDAMENTAÇÃO - USO INCORRETO DE PER RELATIONEM. PARECER PELO PARCIAL CONHECIMENTO DO WRIT E, NESSA EXTENSÃO, PELA CONCESSÃO DA ORDEM.
+É o relatório.
+Ao analisar os autos, verifico que o Juízo de primeiro grau, nas informações de fls. 210/211, esclareceu que, em 26/8/2024, foi proferida decisão de pronúncia, ocasião em que a prisão preventiva do paciente foi revogada, sendo aplicadas medidas cautelares diversas.
+Além disso, em consulta ao sítio eletrônico do Tribunal de Justiça do Rio Grande do Sul, verifiquei que foi interposto recurso em sentido estrito pela defesa, de modo que as questões suscitadas neste writ  inépcia da denúncia, insuficiência de provas da autoria delitiva e incompatibilidade do dolo eventual com a qualificadora do recurso que impossibilitou a defesa da vítima  agora são objeto da via impugnativa própria, a serem apreciadas pela Corte estadual.
+Pelo exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. SUPERVENIÊNCIA DE REVOGAÇÃO PELO JUÍZO DE PRIMEIRO GRAU NA DECISÃO DE PRONÚNCIA. TESES DEFENSIVAS A SEREM APRECIADAS NO RECURSO EM SENTIDO ESTRITO DEFENSIVO PELO TRIBUNAL ESTADUAL . PERDA DO OBJETO.
+Writ prejudicado.
