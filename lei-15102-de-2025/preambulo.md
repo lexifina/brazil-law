@@ -1,0 +1,2 @@
+Altera a Lei nº 14.165, de 10 de junho de 2021, para estabelecer critérios adicionais para a recompra de cotas pelo Fundo de Investimentos da Amazônia (Finam) e pelo Fundo de Investimentos do Nordeste (Finor); para destinar os recursos remanescentes do Finam e do Finor para investimentos em infraestrutura nas regiões Norte e Nordeste; e para reverter os saldos remanescentes em favor do Fundo de Desenvolvimento da Amazônia (FDA) e do Fundo de Desenvolvimento do Nordeste (FDNE).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
