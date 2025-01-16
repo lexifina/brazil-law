@@ -14,7 +14,6 @@ III - Imposto sobre a Exportação, para o Exterior, de Produtos Nacionais ou Na
 IV - Imposto sobre a Propriedade Territorial Rural - ITR;
 V - Imposto de Renda, relativo aos rendimentos ou ganhos líquidos auferidos em aplicações de renda fixa ou variável;
 VI - Imposto de Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo permanente;
-VII - Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF;
 VIII - Contribuição para o Fundo de Garantia do Tempo de Serviço - FGTS;
 IX - Contribuição para manutenção da Seguridade Social, relativa ao trabalhador;
 X - Contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade de contribuinte individual;
