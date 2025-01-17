@@ -1,0 +1,16 @@
+LEI Nº 4.648, DE 17 DE JANEIRO DE 2025.
+Autor: Deputada Vanda Monteiro
+Publicado no Diário Oficial nº 6.738 de 17/01/2025.
+Revoga o §13 do art. 11, da Lei n° 2.578, de 20 de abril de
+2012, que Dispõe sobre o Estatuto dos Policiais Militares e
+Bombeiros Militares do Estado do Tocantins, e adota
+outras providências.
+O GOVERNADOR DO ESTADO DO TOCANTINS
+Faço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO DO TOCANTINS
+decreta e eu sanciono a seguinte Lei:
+Art. 1º Fica revogado o §13 do art. 11, da Lei n° 2.578, de 20 de abril de 2012.
+Art. 2ºEsta Lei entra em vigor na data de sua publicação.
+Palácio Araguaia Governador José Wilson Siqueira Campos, em Palmas, aos 17 dias do
+mês de janeiro de 2025, 204º da Independência, 137º da República e 37° do Estado.
+WANDERLEI BARBOSA CASTRO
+Governador do Estado
