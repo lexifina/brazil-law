@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JOSE ANTONIO AMBROSIO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CONTRIBUIÇÕES CONDOMINIAIS. AÇÃO CONSIGNATÓRIA E RECONVENÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA, ANULADA A PRIMEIRA. RECURSO DE AMBAS AS PARTES. LAUDO PERICIAL EMPRESTADO QUE, AINDA QUE NÃO CONSTE A UNIDADE DO AUTOR, NÃO ENCONTROU ERRO NO CÁLCULO DA COTA CONDOMINIAL POR PARTE DO RÉU. DEPÓSITO EM VALOR INFERIOR PELO AUTOR, QUE DEIXOU DE DEPOSITAR O MONTANTE RELATIVO A RATEIOS E À MAJORAÇÃO DA COTA CONDOMINIAL E DEIXOU DE PAGAR ALGUNS MESES POR TER SEU INQUILINO SAÍDO DO IMÓVEL. AUSÊNCIA DE CERCEAMENTO DE DEFESA, PORQUE, APÓS A JUNTADA DO LAUDO, FORAM OPORTUNIZADOS OS DEBATES ENTRE AS PARTES. DÚVIDA A QUEM PAGAR QUE ENSEJA A PARCIAL PROCEDÊNCIA DA DEMANDA. AFASTADA A APLICABILIDADE DO TEMA 967, DO C. STJ. SENTENÇA MANTIDA. VERBA HONORÁRIA AUMENTADA. RECURSOS DESPROVIDOS.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 355, I, 369 e 370 do CPC, no que concerne à configuração de cerceamento de defesa em razão do julgamento antecipado da lide sem produção de prova imprescindível ao deslinde da demanda, trazendo a seguinte argumentação:
+O juiz singular deixou de apreciar o pedido de produção de provas e, abreviando o processo, julgou antecipadamente a lide, em sentença idêntica àquela anulada pelo Tribunal de Justiça, baseado única e exclusivamente em prova emprestada produzida à revelia do requerente, à qual atribuiu valor absoluto. Negou ao requerente qualquer interferência e possibilidade de oposição. Violou, a garantia do contraditório e ampla defesa. Descumpriu o acordão. A prova produzida à revelia do requerente é ineficaz, por violar o princípio constitucional do contraditório.
+ ..
+Ao julgar antecipadamente a lide com base em uma prova pericial que não contemplou a unidade condominial do Recorrente e que foi produzida sem o crivo do contraditório, o juízo de primeiro grau incorreu em erro ao descumprir o acórdão que determinava a abertura de debate e a produção de provas necessárias para um julgamento justo e adequado.
+ ..
+Conforme se infere do laudo pericial apurado pela empresa PK Passos & Krepe Assesssoria Empresarial contratada por parte dos condôminos nos autos do processo nº 0172889-34.2012.8.26.0100, os valores das cotas condominiais não correspondem ao valor correto.
+De outro lado, o laudo pericial produzido por perito de confiança do Juízo à revelia do apelante analisou apenas as unidades de Luiz Fernando Wesley Souza de Oliveira, Roberto Carlos Moreira, Ana Maria Lira de Souza, Juan Carlos Cavieres Carloza, Carlos Alberto Cervelin, Fernanda Lopes de Souza e Eduardo Aparecido Guariso.
+Com efeito, há que se considerar cumprida a obrigação e quitada a dívida dos condomínios em atraso, com a posterior fixação do correto valor mensal a ser pago pelo autor a título de condomínio (fls. 924-926).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Assim, em que pese a ausência da unidade do autor no laudo pericial, a conclusão a que se chegou o perito pode ser estendida a ele, como constou da r. sentença, ausente erro no cálculo da cota condominial por parte do réu.
+Portanto, de rigor o reconhecimento do depósito em valor inferior pelo autor, que deixou de depositar o montante relativo a rateios e à majoração da cota condominial e deixou de pagar alguns meses por ter seu inquilino saído do imóvel, como ele mesmo afirma (fls. 238, 787 e 867) e conforme constou da r.
+sentença (fls. 811), sem insurgência.
+Ademais, não houve cerceamento de defesa, porque, após a juntada do laudo, foram oportunizados os debates entre as partes (fl. 901).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
