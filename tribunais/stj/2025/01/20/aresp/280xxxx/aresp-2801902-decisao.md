@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE AIURUOCA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - CÁLCULOS DA CONTADORIA JUDICIAL - CONCORDÂNCIA EXPRESSA DO EXECUTADO - NOVA IRRESIGNAÇÃO - PRECLUSÃO LÓGICA - RECURSO DESPROVIDO. 1. Tendo em vista que houve concordância expressa da parte executada, ora agravante, em relação aos valores apontados pela Contadoria Judicial, não se mostra cabível a nova irresignação, após homologação dos cálculos, em virtude da preclusão lógica. 2. Recurso não provido (grifos meus).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 884 do Código Civil; e arts. 15; 16, caput e I; 17, §1º; e 21, I, da Lei Complementar n. 101/2000, no que concerne ao excesso de execução em virtude da homologação de cálculos que desconsideraram o pagamento de piso salarial pelo ente federado a partir de agosto/2014, sob pena de enriquecimento ilícito da parte adversa bem como dano ao erário. Apresenta a seguinte argumentação:
+18. No caso em comento, é de se ver pelo que está ocorrendo nos autos, é que de fato desde agosto de 2014 o Município vem cumprindo com o piso. O que pode ter ocorrido nas gestões passadas foi um atraso, mas que foi corrigido e pago as diferenças aos servidores.
+19. Ademais, permitir que uma manifestação simples se sobreponha duas vezes a impugnação à execução, a qual a Municipalidade devidamente demonstrou que efetuou o pagamento das quantias que são objeto do cumprimento de sentença, permite que a embargada se beneficie da própria torpeza, locupletando-se ilegalmente.
+ ..
+26. O art. 17, §1º, da LC 101/00, dispõe que a criação ou aumento de despesa corrente, de caráter continuado, "deverão ser instruídos com a estimativa prevista no inciso I do art. 16 e demonstrar a origem dos recursos para seu custeio". E o art. 16, I, da LC 101/00, determina que as ações que impliquem aumento de despesa deverão ser acompanhadas de "estimativa do impacto orçamentário-financeiro no exercício em que deva entrar em vigor e nos dois subsequentes", o que não ocorreu no caso em análise.
+27. Portanto, dentro dos limites orçamentários de cada ano e gestão, o Município realizou os pagamentos dentro do piso desde agosto de 2014, e, agora trazer valores em excesso, para que a parte recorrente pague em duplicidade, fere o que está dentro dos ditames da Lei Orçamentária Anual.
+28. Desta forma, considerando que a infringência ao artigo 884 do Código Civil, o qual a parte contrária está enriquecendo ilicitamente com a homologação dos cálculos a maior, necessário que o presente Recurso Especial seja conhecido e provido, para que seja apreciada e julgada procedente a impugnação ao cumprimento de sentença apresentada pelo Ente Municipal (fls. 1048-1050).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Através da decisão objurgada(ordem nº 76), o magistrado de piso considerou indevida a apuração dos valores com base na carga horária de 35 horaras/semana, e afastou a aplicação da "dobra", pois o ente municipal implementou o piso a partir de 2014.
+Por fim, consignou que os valores alcançados pelo serventuário estariam corretos, e homologou os cálculos da Contadoria Judicial.
+Ato contínuo, o município interpôs embargos declaratórios, pretendendo a modificação dos cálculos homologados, visto que a Contadoria desconsiderou a implementação do piso a partir de agosto/2014.
+O MM. Juiz rejeitou os embargos.
+Conforme relatado, pretende o recorrente a modificação dos cálculos da Contadoria Judicial.
+Todavia, anteriormente, houve concordância expressa da parte executada em relação aos valores apontados pelo serventuário, de modo de não se mostra cabível a nova irresignação, em virtude da preclusão lógica.
+Frise-se que não se trata de inexatidão material ou erro de cálculo, mas, sim, de questionamento relativo ao critério utilizado pela Contadoria.
+Assim, inviável a rediscussão pelo executado (fls. 1.013-1.014, grifos meus).
+Asseverou ainda o TJ/MG, em sede de embargos de declaração, que:
+Conforme entendimento uníssono manifestado pelos integrantes da Turma Julgadora, o alegado excesso de execução aduzido pelo Município executado, aqui embargante, foi suscitado em momento posterior à concordância expressa em relação aos cálculos elaborados pela Contadoria Judicial, ou seja, quando já não se mostrava cabível a irresignação, em virtude da preclusão lógica.
+ ..
+Com efeito, ao revés das alegações vertidas pelo embargante, não se verifica omissão no acórdão que, de forma clara e fundamentada, referendou o entendimento firmado na decisão agravada, no que tange à impossibilidade de rediscussão sobre os valores informados pela Contadoria Judicial, após expressa anuência por parte do Município exequente e a respectiva homologação dos cálculos.
+Feitas essas ponderações, forçoso reconhecer que a insistência do agravante em pugnar pela apreciação das matérias revolvidas no agravo de instrumento, ora renovadas na petição recursal em exame, as quais se encontram acobertadas pelo manto da preclusão, reflete mero inconformismo com a ratio decidendi adotada no acórdão objurgado, situação que não se confunde com o requisito previsto no art. 1.022, II do CPC/2015 (fls. 1.040-1.041, grifos meus).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
