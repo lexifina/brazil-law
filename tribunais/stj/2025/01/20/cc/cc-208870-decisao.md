@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo Federal Da 2ª Vara Criminal Do Meio Fechado E Semiaberto De Ribeirão Preto - SJ/SP, tendo por suscitado o Juízo De Direito Da Vara De Execução Criminal Da Comarca De Ribeirão Preto - SP.
+O juízo suscitante afirma que "carece a este Juízo competência para executar a pena, tendo em vista o regime inicial da pena ( semiaberto), à luz da Súmula 192 do STJ." (e-STJ Fl. 3)
+O Ministério Público Federal promove a competência do suscitado. (e-STJ Fl. 647-652)
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais estaduais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+É pacífica a jurisprudência desta corte no sentido de que "É competente o Juízo das Execuções Penais do Estado para a execução da pena imposta a sentenciado pela Justiça Federal, quando recolhido a estabelecimentos sujeitos à administração estadual" (Súmula192 STJ).
+Não altera tal quadro a progressão ou regressão do regime de cumprimento de crime:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO. JUÍZO FEDERAL DA CONDENAÇÃO. CUMPRIMENTODA PENA EM ESTABELECIMENTO PRISIONAL ESTADUAL. PROGRESSÃO PARA REGIME SEMIABERTO. SÚMULA 192/STJ. COMPETÊNCIA DO JUÍZO ESTADUAL. I - A Terceira Seção reafirmou a competência da Justiça Federal emcasos como o presente, no sentido de que e a competência paracondução da execução penal mesmo após a mudança para regimemenos gravoso, considerando até mesmo o aberto, não afasta acompetência do Juízo estadual para fiscalizar a execução da pena. Agravo regimental desprovido.(AgRg no CC n. 195.240/PR, relator Ministro Messod Azulay Neto,Terceira Seção, julgado em 14/6/2023, DJe de 19/6/2023.)
+No mesmo sentido, não se faz necessária a prisão do reeducando, pois "em tais casos (regime inicial semiaberto), cabe ao Juízo Federal remeter o processo executivo ao Juízo estadual, a quem, por sua vez, competirá efetivar a intimação preconizada na norma regulamentar e, na hipótese de inexistir vaga em estabelecimento prisional adequado, decidir acerca da aplicação da Súmula Vinculante n. 56." (CC n. 197.304/PR, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 3/8/2023, DJe de 8/8/2023)
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo De Direito Da Vara De Execução Criminal Da Comarca De Ribeirão Preto - SP, o Suscitado, para processar e decidir a Execução Penal n. 0007230-26.2024.8.26.0496.
+Publique-se. Intimem-se.
+EMENTA
