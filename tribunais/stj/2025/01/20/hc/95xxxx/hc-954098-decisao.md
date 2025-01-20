@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Alex Araujo Claudino, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2220853-75.2024.8.26.0000).
+Narram os autos que o paciente teve a prisão temporária decretada pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+Neste mandamus, o impetrante alega, de início, ausência de fundamentos concretos para a prisão temporária, destacando que não foi encontrado nenhum indício mínimo de que Alex teria possível participação nos crimes descritos na representação (fl. 11).
+Aduz que a fundamentação usada pelo Juízo de origem, além de ser abstrata, é ilegal, pois não há, no ordenamento, previsão de decretação de prisão temporária com a finalidade de produção de elementos probatórios para instruir causas criminais (prisão para averiguações) - fl. 13.
+Sustenta a ausência de contemporaneidade da prisão cautelar e a violação do princípio da congruência, segundo o qual a decisão judicial deve se limitar a enfrentar as questões suscitadas e discutidas pelas partes durante o processo (fl. 20).
+Menciona que a decisão de prisão temporária viola as Teses Fixadas pelo STF nas ADINs n. 4.109 e n. 3.360 (fl. 21).
+Requer, liminarmente, a revogação da prisão temporária do paciente ou, subsidiariamente, a substituição por outras medidas cautelares, determinando-se a imediata expedição de contramandado de prisão em favor dele.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Paulo Queiroz, pela concessão parcial da ordem (fls. 242/248).
+É o relatório.
+In casu, conforme opinou o Ministério Público Federal, cujo parecer adoto como razões de decidir, a ordem comporta concessão parcial. Vejamos, no ponto, o que interessa (fls. 243/248 - grifo nosso):
+ ..
+Temos que o habeas corpus deve ser parcialmente concedido, substituindo-se a prisão por medidas cautelares diversas.
+De acordo com os autos, a autoridade policial representou pela prisão temporária de Alex Araújo Claudino dada a "existência de elementos de investigação envolvendo os investigados, os quais estariam associados entre si e com terceiros, para a prática do tráfico de drogas, estando isto materializado conforme a prisão em flagrante de Paulo Roberto Georgin, surpreendido por policiais militares a transportar 116 "tijolos" de cocaína em pedra, sendo os investigados pessoas rotineiramente envolvidas com tal delito e detentores de poder econômico para a compra de tóxicos e insumos, entendendo que a custódia conferirá maior segurança e celeridade à instrução policial".
+Ato contínuo, o magistrado houve por bem decretar a prisão temporária do paciente, com a seguinte fundamentação:
+Nos termos do art. 1º da Lei nº 7.960/89, conclui-se pela exposição dos fatos que tenha sido requerida a medida extrema em virtude de sua imprescindibilidade para as investigações do inquérito policial.
+E necessária a custódia de Alex Araújo Claudino e Edson Calixto da Silva Maximiliano, para se saber quais suas participações nos fatos, constando inclusive uma campana feita, onde aparentemente Edson foge da diligência policial quando houve o cumprimento de mandado de busca e apreensão em sua residência e ainda ter sido visto se dirigindo até a casa de Alex Araújo, acima referido, onde havia documentação indicando a venda para ele do veículo com o qual Paulo Roberto Georgin foi preso em flagrante, havendo ainda indícios do estreito relacionamento mantido entre os investigados, tudo com vistas ao tráfico ilícito de tóxicos.
+Assim, decreto a prisão temporária de Alex Araújo Claudino e Edson Calixto da Silva Maximiliano, pelo prazo de trinta dias, prorrogável por idêntico período, caso se comprove a necessidade, devendo a autoridade policial submetê-lo a exame de corpo de delito (§3º do art. 2º da Lei nº 7.960/89 ).
+O acórdão que manteve a prisão temporária foi assim ementado:
+ ..
+No caso dos autos, a decisão que determinou a prisão temporária do paciente teve como fundamento o fato de que este estaria associado com terceiros, para a prática de tráfico de drogas, entendendo que a custódia conferirá maior segurança e celeridade à instrução policial.
+É de ver que o fumus commissi delicti está demonstrado pela existência de materialidade delitiva e indícios de autoria, conforme se vê da decisão que decretou a prisão temporária, bem como pelo acórdão que denegou a ordem de revogação da prisão.
+Ocorre que, como se sabe, a prática de um crime é uma condição necessária, mas não suficiente, para a decretação e manutenção de uma prisão cautelar, pois não é obrigatória, mas facultativa.
+Na hipótese, o acórdão assinalou que há indícios de que o investigado integra uma associação criminosa para a prática do crime de tráfico de drogas e que a prisão temporária é imprescindível para o sucesso das investigações, de modo a esclarecer a dinâmica dos fatos. Ocorre que tal fundamento não é suficiente para decretar medida tão grave.
+É que o juízo não demonstrou o risco concreto à investigação caso Alex Araújo Claudino permaneça em liberdade, tendo se limitado a indicar sua possível participação nos delitos praticados e sua autoria (materialidade e indícios de autoria), mas pouco se preocupou em motivar concretamente a necessidade da prisão.
+Referiu-se apenas que o recolhimento cautelar é imprescindível para a elucidação dos fatos e das investigações, o que justificam a necessidade do recolhimento cautelar dos envolvidos.
+Justo por isso, temos que a prisão não é necessária ao caso, uma vez que pode ser substituída por cautelares diversas.
+ ..
+É certo, ainda, que, de todas as medidas cautelares pessoais, a prisão preventiva é a mais violenta forma de intervenção sobre a liberdade, razão pela qual a sua decretação - e manutenção - só poderá ocorrer em ultima ratio, isto é, quando forem insuficientes, e enquanto o forem, outras medidas de coação menos lesivas e mais adequadas.
+A prisão temporária/preventiva será abusiva, portanto, sempre que for substituível por medida cautelar diversa.
+Como há muito se reconhece, o problema da prisão é a própria prisão, ambiente artificial, hostilíssimo e nocivo sob todos os aspectos, onde se dão violações sistemáticas de direitos humanos básicos, instituição que não é nem sequer capaz de assegurar (no Brasil) o direito à vida e à integridade física, tantos são os motins, as rebeliões e as guerras entre facções rivais, por exemplo. A prisão tampouco reeduca, mas corrompe e embrutece, não ressocializa, mas dessocializa, nem impede o cometimento de novos crimes, mas os potencializa. Logo, não é (frequentemente) um meio de prevenir delitos, em caráter geral ou especial, mas um estímulo à reincidência mesma.
+ ..
+É justo, pois, deferir parcialmente o pedido, procedendo-se à substituição da prisão temporária por algumas das medidas cautelares de que trata o art. 319 do Código de Processo Penal nos termos do art. 282, § 6º, do CPP, com a redação dada pela Lei nº 12.403/2011, especialmente: a) monitoração eletrônica; b) comparecimento periódico em juízo no prazo e nas condições fixadas pelo juiz para informar e justificar atividades; c) recolhimento noturno; d) proibição de manter contato com determinadas pessoas.
+ ..
+Assim, q uanto à prisão cautelar, na jurisprudência deste Superior Tribunal, há um sem-número de precedentes, todos exigindo que a prisão provisória venha, sempre e sempre, calcada com bons elementos de convicção, fatores concretos que justifiquem, efetivamente, a imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Não é suficiente, evidentemente, a reportação à existência de indícios de autoria e à materialidade delitiva, há que se demonstrar o periculum libertatis, uma vez que nem a gravidade abstrata do delito nem ilações e conjeturas servem para demonstrar a real necessidade da extrema cautela.
+Não desconheço a fundamentação apresentada pelo Juízo de piso ao decretar a prisão temporária (fls. 158/159), nem os argumentos usados pelo Tribunal a quo para mantê-la (fls. 35/49). Contudo, da análise acurada dos autos, observa-se cabível a concessão da ordem em menor extensão.
+Ante o exposto, acolhendo o parecer, concedo, em menor extensão, a ordem, a fim de substituir a prisão temporária do paciente por medidas cautelares alternativas, a serem aplicadas pelo Juiz de piso, sem prejuízo de decretação da prisão preventiva em caso de descumprimento de qualquer das obrigações impostas ou de superveniência de motivos novos e concretos para tanto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL. EVIDÊNCIA. PARECER ACOLHIDO.
+Ordem concedida, em menor extensão, nos termos do dispositivo.
