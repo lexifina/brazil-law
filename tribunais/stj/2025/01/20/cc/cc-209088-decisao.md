@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo Federal Da 5ª Vara Criminal De Goiânia - SJ/GO, tendo por suscitado o Juízo Federal Da 5ª Vara Criminal De São Paulo - SJ/SP.
+O juízo suscitante suscitou conflito forte nas seguintes razões (e-STJ Fl. 854-855):
+Ora, consta que a Declaração de Importação supostamente com informações falsas foi preenchida e entregue na sede fiscal da empresa BULL, sediada em São Paulo, local da consumação do crime.
+Somado a isso, impende destacar que o CNPJ da suposta filial da empresa em Aparecida de Goiânia/GO, figurava meramente como empresa importadora simulada ou falsa, não tendo aptidão para alterar o local do crime, tanto que a mercadoria apreendida foi desembaraçada e liberada em mandado de segurança cível impetrado perante o juízo da 5.ª Vara Federal de São Paulo/SP (autos nº 5018433-43.2021.4.03.6100), após o depósito de caução pelos responsáveis pela empresa autuada
+(..)
+E mais. Em regra, nos crimes de descaminho, o juízo competente é o do local da apreensão da mercadoria, nos termos da Súmula 151, do STJ.
+Entretanto, a própria jurisprudência do STJ flexibilizou a aplicação da referida Súmula, quando a mercadoria apreendida está em trânsito e já se sabe o endereço do importador (3.ª Seção, no CC 172.392/SP, D Je 29/6/2020).
+Exatamente a hipótese dos presentes autos, pois a empresa importadora de fato da mercadoria apreendida durante o transporte encontra-se sediada em São Paulo/SP.
+O Ministério Público Federal promove a competência do juízo suscitado (e-STJ Fl. 864-874)
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+É assente o entendimento nesta corte no sentido de que, nas hipóteses de apuração do delito de falsidade ideológica no processo de importação, "Há que se considerar como local da infração a sede fiscal da pessoa jurídica responsável pela inserção, na Declaração de Importação, de seu nome como importadora ostensiva, sabedora de que o real importador é outro" (CC 159.497/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 2/10/2018)
+Ademais, mesmo que tipificada a conduta como descaminho, é pacífica a jurisprudência desta corte no sentido de que "A competência para o processo e julgamento por crime de contrabando ou descaminho define-se pela prevenção do juízo federal do lugar da apreensão dos bens." (Súmula 151).
+Entretanto, a jurisprudência mais recente desta Corte reconhece a possibilidade de flexibilização da Súmula 151/STJ, aduzindo que: "(..) o delito de descaminho em tese praticado foi constatado em procedimento de fiscalização aduaneira, quando a mercadoria encontrava-se em trânsito em local distante da sede da empresa importadora, excepcionalmente, deve ser fixada a competência do Juízo do local da sede da pessoa jurídica, onde haverá maior facilidade de colheita de provas bem como do exercício da ampla defesa. (..)" CC n. 172.392/SP, relator Ministro JoelIlan Paciornik, Terceira Seção, julgado em 24/6/2020, DJe de 29/6/2020).
+No presente feito, conforme ressaltado pelo juízo suscitante, há definição quanto ao domicílio do investigado, existindo, portanto, elementos nos autos que demonstrem que a flexibilização da Súmula 151/STJ facilitaria a colheita de provas e o exercício da ampla defesa.
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo Federal Da 5ª Vara Criminal De São Paulo - SJ/SP, o Suscitado, para processar e decidir a Ação Penal n. 008618-02.2023.4.03.6181.
+Publique-se. Intimem-se.
+EMENTA
