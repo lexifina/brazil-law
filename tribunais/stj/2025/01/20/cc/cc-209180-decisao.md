@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo Federal da 7ª Vara Criminal de São Paulo, tendo por suscitado o Juízo Federal da 9ª Vara de Curitiba - SJ/PR.
+O juízo suscitante suscitou conflito forte nas seguintes razões: "O presente caso, conforme aduzido, adequou-se ao previsto pelo STJ no julgamento do CC 172.392 e o feito foi distribuído na Justiça Federal do Paraná, estabelecendo-se a competência territorial e por consequência tornando aquele juízo prevento." (e-STJ Fl.148).
+O Ministério Público Federal promove a competência do juízo suscitante (e-STJ Fl.506-511)
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+É pacífica a jurisprudência desta corte no sentido de que "A competência para o processo e julgamento por crime de contrabando ou descaminho define-se pela prevenção do juízo federal do lugar da apreensão dos bens." (Súmula 151).
+Contudo, a jurisprudência mais recente desta Corte reconhece a possibilidade de flexibilização da Súmula 151/STJ, observando que: "(..) o delito de descaminho em tese praticado foi constatado em procedimento de fiscalização aduaneira, quando a mercadoria encontrava-se em trânsito em local distante da sede da empresa importadora, excepcionalmente, deve ser fixada a competência do Juízo do local da sede da pessoa jurídica, onde haverá maior facilidade de colheita de provas bem como do exercício da ampla defesa. (..)" CC n. 172.392/SP, relator Ministro JoelIlan Paciornik, Terceira Seção, julgado em 24/6/2020, DJe de 29/6/2020).
+No presente feito, conforme ressaltado pelo juízo suscitado, não há definição quanto ao domicílio do investigado, pois "há indícios de que o endereço de sede da empresa importadora seja fictício, ali funcionando diversas pessoas jurídicas." (e-STJ FL. 143)
+Não há, portanto, elementos nos autos que demonstrem que a flexibilização da Súmula 151/STJ irá facilitar a colheita de provas e o exercício da ampla defesa, sendo de rigor, na hipótese, a manutenção da competência do juízo da apreensão da mercadoria, nos termos da Súmula 151/STJ.
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo Federal da 7ª Vara Criminal de São Paulo, o Suscitante, para processar e decidir a Ação Penal n. 5003018-63.2024.4.03.6181.
+Publique-se. Intimem-se.
+EMENTA
