@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SAVIO RICARDO CALEGARO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA.  1  APRESENTAÇÃO DE DOIS CONTRATOS PARTICULARES DE PROMESSA DE COMPRA E VENDA SOBRE O MESMO IMÓVEL, COM VALORES DISTINTOS. VALIDADE DAQUELE DE MONTANTE MAIOR  PREÇO: R$540.000 | ARRAS: R$200.000 , COMPATÍVEL COM A AVALIAÇÃO DO BEM À ÉPOCA DO NEGÓCIO. DOCUMENTO, ADEMAIS, CONFIRMADO PELA APOSIÇÃO DE RUBRICAS DAS PARTES EM TODAS AS PÁGINAS E CORRESPONDÊNCIA DO SINAL PAGO PELO ADQUIRENTE AO EXATO IMPORTE PREVISTO NESSE INSTRUMENTO. CONTRATO DE IMPORTE MENOR  PREÇO: R$400.000 | ARRAS: R$160.000  FIRMADO ENTRE AS PARTES COM NÍTIDO PROPÓSITO DE FRUSTAR A INCIDÊNCIA DE TRIBUTOS DECORRENTE DO ENCAMINHAMENTO DE DECLARAÇÃO DE INFORMAÇÕES SOBRE ATIVIDADES IMOBILIÁRIAS - DIMOB À RECEITA FEDERAL DO BRASIL INSUFICIÊNCIA DO DEPÓSITO REALIZADO TOMANDO POR BASE ESTE ÚLTIMO INSTRUMENTO CONTRATUAL. INSUFICIÊNCIA DO DEPÓSITO EFETUADO EM JUÍZO EM MONTANTE VINCULADO AO AJUSTE REPUTADO ILÍCITO. SENTENÇA DE IMPROCEDÊNCIA CONFIRMADA. RECURSO DESPROVIDO, NO PONTO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 47 do CDC, no que concerne à interpretação dos contratos de maneira mais favorável ao consumidor, devendo prevalecer a avença que estabeleceu valor menor paro o imóvel, trazendo a seguinte argumentação:
+No caso dos autos, as partes celebraram Contrato Particular de Promessa de Compra e Venda de Imóvel na importância de R$400,000,00 (quatrocentos mil reais). Na mesma ocasião, assinaram também um contrato de valor maior, na importância de R$540.000,00 (quinhentos e quarenta mil reais) para fins de financiamento bancário, tendo em vista que as instituições bancárias financiam apenas um percentual do imóvel.
+O contrato que reflete o valor real do negócio é o contrato na importância de R$ 400.000,00 (quatrocentos mil reais), tanto que foi este declarado ao fisco pela construtora recorrida através da declaração DIMOB- Declaração de Informações sobre Atividades Imobiliárias, como constou na sentença, e também no acordão recorrido e esse ponto merece ser revalorado.
+A questão é que diante da dualidade dos contratos, além das provas produzidas, em atenção ao art. 47 da Lei Protetiva, uma vez instalada contradição ou dubiedade quanto à correta interpretação a ser emprestada às avenças regidas pelo CDC, estas deverão ser compreendidas de maneira mais favorável ao consumidor.
+A decisão recorrida que considerou como válido o contrato de valor maior contraria, ou nega vigência ao art. 47 do CDC, merecendo reforma para considerar o contrato na importância de R$400.000,00 como representativo da avença celebrada entre as partes (fl. 494).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O juízo da origem rejeitou a pretensão principal deduzida pelo apelante, fundando as razões de decidir na insuficiência do depósito efetuado por este, porquanto tomou por base valor constante em contrato de compra e venda de imóvel inválido, o qual não representa o verdadeiro ajuste firmado com a construtora apelada para aquisição do bem.
+ ..
+Diante da divergência, foi determinado pelo juízo o depósito dos contratos físicos em Cartório.
+Averiguando-os em mãos, observo que os documentos são datados de 11.03.2011 e estão assinados com reconhecimento de firma (Evento 1, INF3 e Evento 27, INF33).
+O contrato do Evento 27, INF33, depositado em Cartório pela parte ré, apresenta impressão e formatação homogênea, com rubrica de ambas as partes em todas as folhas.
+Noutra toada, no contrato depositado em Cartório pelo autor (juntado eletronicamente no Evento 1, INF3), há apenas rubrica de uma das partes nas folhas do documento, o que corrobora o argumento da parte ré de que "o contrato apresentado na inicial pelo requerente foi um contrato solicitado por ele mesmo para declarar um valor menor à Receita Federal".
+Nesse contexto, importante esclarecer que ambas as partes utilizaram dessa artimanha para ludibriar o fisco, certo que o ofício encaminhado pela Receita Federal ao juízo dá conta de que a construtora ré também declarou a transação no valor de R$ 400.000,00 (Evento 82, OFIC83).
+Quanto à identificação do real valor estabelecido no contrato, necessários alguns esclarecimentos.
+ ..
+Somadas, as quantias supracitadas atingem o numerário de R$ 200.000,00 (duzentos mil reais), exatamente o valor das "arras" previstas no contrato trazido aos autos pela construtora ré (Evento 27, INF33), o que corrobora o argumento de que o documento válido é aquele no valor de R$ 540.000,00.
+ ..
+Ademais, importante destacar que o bem objeto do contrato possui área privativa de quase 295m  (valor correspondente à soma da área privativa do apartamento com a área privativa das garagens), 3 suítes, sala para 2 ambientes, lavabo, cozinha, área de serviço, terraço descoberto e piscina privativa, estando localizado no bairro Pioneiros (fl. 5 do Evento 27, PET26 e Evento 27, INF35), de sorte que o valor de mercado na monta de R$ 540.000,00 não destoa daquele praticado à época da transação.
+ ..
+As razões consignadas na sentença proferida pelo juízo de primeiro grau adotaram solução adequada para o litígio, as quais passam a integrar os fundamentos do voto, porquanto alinhadas ao entendimento fixado na orientação jurisprudencial predominante nesta Corte.
+ ..
+Tal como concluiu o juízo de primeira instância, as provas constantes dos autos evidenciam com segurança a confecção do contrato do ev. 1.3 com o único intuito de fraudar o Fisco.
+Nesse sentido, é preciso observar que, no contrato do ev. 1.3, as páginas estão rubricadas apenas pela apelada, enquanto naquele do ev. 27.33estão apostas as rubricas de ambas as partes.
+ ..
+Como bem observado na sentença, no ev. 1.4 consta um recibo, datado em 14.3.2011 (p.
+1), dando conta do pagamento de R$ 165.000,00 como "parte do pgto da parcela arras" , além de outro, expedido no dia 18.3.2011 (p. 3), no qual consta o adimplemento da importância de R$ 37.500,00.
+A soma desses valores alcança a monta de R$ 200.000,00, justamente as arras previstas no contrato do ev. 27.33, o qual atribui como preço do imóvel R$ 540.000,00. Muito embora essa avença tenha previsto as arras no ato de assinatura  11.3.2011 , a proximidade entre os adimplementos  R$ 165.000,00 em 14.3.2011 e R$ 37.500,00 em 18.3.2011  demonstra a anuência da apelada com o pagamento posterior e parcelado (fls. 442-445).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
