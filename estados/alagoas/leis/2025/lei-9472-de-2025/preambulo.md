@@ -1,0 +1,5 @@
+LEI Nº 9.472, DE 20 DE JANEIRO DE 2025.
+
+INSTITUI O PROGRAMA ALAGOANO DE ENERGIA RURAL RENOVÁVEL, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
