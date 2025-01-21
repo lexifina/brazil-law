@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por PRAIA GRANDE TRANSPORTES LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SENTENÇA DE 1MPROCEDÊNCIA DOS PEDIDOS. ATROPELAMENTO POR ÔNIBUS. LESÕES GRAVES NA PERNA DO AUTOR. EMPRESA PRESTADORA DE SERVIÇO PÚBLICO MUNICIPAL DE TRANSPORTES. RESPONSABILIDADE OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA NÃO CONFIGURADA. RÉU QUE NÃO SE DESINCUMBE DE SEU ÔNUS PROBATÓRIO. INDENIZAÇÃO POR DANO MORAL FIXADA EM QUINZE MIL REAIS. DANOS EMERGENTES E LUCROS CESSANTES NÃO COMPROVADOS.
+Quanto à controvérsia, a parte recorrente alega violação do art. 944, caput, do CC, no que concerne à redução do quantum fixado a título de danos morais, tendo em vista que arbitrado em valor excessivo, trazendo a seguinte argumentação:
+O acórdão de id. 21494809 a id. 21494814 reformou a sentença de improcedência; e, fixou indenização por dano moral puro, decorrente de lesão em perna direita causada por atropelamento, em R$15.000,00 (quinze mil reais) para o Recorrido!
+No entendimento desta Recorrente restou inconteste o exagero do valor fixado pelo Tribunal a quo!
+ ..
+Por todo o exposto, DD. Ministros, resta evidente o exagero do valor fixado pelo Tribunal a quo (acórdão id. 21494809 a id. 21494814) em decorrência do fato desse processo, com arbitramento de indenização por dano moral puro, decorrente de atropelamento com lesão leve em perna do Recorrido, em R$15.000,00 (quinze mil reais) (sic)!
+Esta decisão do Tribunal a quo (id. 21494809 a id. 21494814), merece reforma, apenas, no particular do valor fixado, para adequá-lo aos parâmetros dessa Egrégia Corte Superior de Justiça, conforme precedentes deste Colendo Tribunal, para casos idênticos (indenização por dano moral puro decorrente de acidente sem maiores sequelas) (fls. 323-324).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Quanto ao arbitramento da indenização pela lesão moral perpetuada, cabe destacar que tem duplo efeito: punitivo e educativo. Por consequência, apesar de o Ordenamento Jurídico Pátrio não estabelecer valores ou critérios, a jurisprudência uníssona preconiza que o quantum desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido à vitima.
+As circunstâncias em que ocorreram o evento e os demais elementos dos autos devem ser consideradas na fixação do valor da indenização. Algumas circunstâncias podem ser levadas em conta, tais como:
+reprovabilidade da conduta ilícita; intensidade e duração do sofrimento experimentado pela vítima; condições sociais da parte Autora; capacidade econômica do agente ou responsável; compensação à vítima; punição ao ofensor; e coibição da prática de novos atos. A partir da ponderação dessas particularidades com o que se apresenta nos autos é viável fixar o valor adequado.
+Levando-se em conta a angústia e o sofrimento vividos pelo Autor no momento do acidente, nas cirurgias corretivas realizadas e na recuperação das lesões, entendo que cabe indenização no importe de R$15.000,00 (quinze mil reais), sendo tal montante razoável e proporcional a a ressarcir os danos morais sofridos pelo Autor (fls. 243-244).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt no AREsp 1.533.714/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28.8.2020; e AgInt no AREsp 1.533.913/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 31.8.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
