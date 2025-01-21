@@ -1,0 +1,45 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. DEPOIMENTOS DOS POLICIAIS. PRESUNÇÃO DE LEGITIMIDADE E VERACIDADE. OUTROS ELEMENTOS DE PROVA. MATERIALIDADE E AUTORIA COMPROVADAS. DESCLASSIFICAÇÃO. CONSUMO COMPARTILHADO. INVIABILIDADE. DOSIMETRIA. PRIMEIRA FASE. CONDUTA SOCIAL. REGIME DE CUMPRIMENTO DE PENA ADEQUADO. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+
+    1. O depoimento do agente de polícia possui valor probatório suficiente para dar respaldo à condenação, por ser revestido de presunção de legitimidade e veracidade, somente afastado por contraprova capaz de desmerecer o relato.
+
+    2. Demonstradas a materialidade e a autoria do crime de tráfico de drogas, rejeita-se a tese defensiva de absolvição por insuficiência probatória, nos termos do art. 386, VII, do CPP, bem como o pedido de desclassificação para o art. 33, § 3º, da Lei n. 11.343 /2006.
+
+    3. Correta a valoração negativa dada à conduta social, pois o réu praticou a traficância em área residencial e, perpetrou novo delito enquanto cumpria pena por condenações anteriores.
+
+    4. A fixação do regime inicial fechado para o início do cumprimento da pena é adequada, a teor do disposto no art. 33, §§ 2° e 3° do CP, eis que o réu é reincidente, além de constar 2 (duas) circunstâncias judiciais desfavoráveis, previstas no art. 59 do CP.
+
+    5. Impedem, a substituição da pena privativa de liberdade por restritivas de direito, a valoração negativa dos maus antecedentes e da conduta social, bem como, a reincidência em crime doloso, sem desconsiderar que a pena imposta é superior ao limite previsto para a concessão do benefício.
+
+    6. Recurso parcialmente conhecido e, na extensão, desprovido.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso X, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DO TIPO PENAL: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). DOSIMETRIA DA PENA. BIS IN IDEN. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1248157/SP - AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 06/04/2020).
+
+    “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA, DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. O Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660). 2. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF). Precedente. 3. Agravo interno a que se nega provimento” (ARE 1251016/CE - AgR, Primeira Turma, Rel.  Min. Luís Roberto Barroso, DJe de 06/04/2020).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Tráfico de drogas e associação para o tráfico. Artigos 33, caput, e 35 da Lei 11.343/2006. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Tema 660 da sistemática de repercussão geral. 7. Precedentes. 8. Agravo regimental não provido” (ARE 1244158 AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 07/04/2020).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 21 de janeiro de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
