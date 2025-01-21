@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 1ª Vara da Fazenda Pública de Araraquara/SP, ora suscitante, e o Juízo da 2ª Vara do Trabalho de Araraquara/SP, ora suscitado.
+Cinge-se a controvérsia à competência para processar e julgar reclamação trabalhista ajuizada por pedreiro em face do Município de Gavião Peixoto/SP
+A ação foi inicialmente ajuizada no Juízo da 2ª Vara do Trabalho de Araraquara/SP, que declinou da competência para apreciar e julgar o feito (fls. 324/325). Encaminhados os autos ao Juízo de Direito da 1ª Vara da Fazenda Pública de Araraquara/SP, foi suscitado o presente conflito negativo de competência (fls. 333/338).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ª Vara da Fazenda Pública de Araraquara/SP (fls. 368/372).
+É o relatório.
+Com o advento da Emenda Constitucional n. 45/2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos os entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+O Supremo Tribunal Federal, no entanto, no julgamento da ADI 3.395/DF, em 05/04/2006, referendou liminar anteriormente concedida para suspender qualquer interpretação do art. 114, I, da CF, alterado pela EC n. 45/2004, que atribuísse à Justiça do Trabalho a competência para apreciar as causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Na espécie, consoante destacado pelo Ministério Público Federal, verifica-se da análise dos autos que "a relação de trabalho era de natureza jurídico-administrativa, como evidencia a Portaria de contratação do reclamante (fl. 35 e 40)", tratando-se de servidor estatutário. Nesse sentido, a competência é da Justiça comum, no caso, do Juízo de Direito da 1ª Vara da Fazenda Pública de Araraquara/SP.
+A esse respeito, confiram-se os seguintes precedentes da Seção de Direito Público do STJ:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO DE AGENTE PÚBLICO. LEI LOCAL QUE INSTITUI ESTATUTO DOS SERVIDORES. EVENTUAL NULIDADE DA NOMEAÇÃO. EVENTUAL DESNATURAÇÃO DO VÍNCULO JURÍDICO-ADMINISTRATIVO. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A princípio, lei local instituiu o regime jurídico dos servidores públicos como estatutário.
+2. Ademais, a contratação de pessoas pela administração pública, ainda que irregular, possui natureza de ato administrativo que atraí a competência da Justiça Comum.
+3. Agravo interno não provido.
+(AgInt no CC n. 170.776/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 2/3/2021, DJe de 4/3/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATAÇÃO SEM CONCURSO PÚBLICO OU PROCESSO SELETIVO. NATUREZA JURÍDICO-ADMINISTRATIVA. CONTRATAÇÃO IRREGULAR COM O PODER PÚBLICO. ATO DE NATUREZA ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM PARA RESOLVER AS CONTROVÉRSIAS PERTINENTES.
+I - Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara Única de Pariquera-Açu/SP, suscitante, e o Juízo da Vara do Trabalho de Registro-SP, suscitado, nos autos da reclamação trabalhista proposta em face do Consórcio Intermunicipal de Saúde do Vale do Ribeira-CONSAÚDE, visando ao recebimento de verbas rescisórias.
+II - Acentuo que o conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, inciso I, alínea d, da Magna Carta.
+III - A Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal - STF suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores.
+IV - Se o vínculo estabelecido entre o Poder Publico e o servidor for estatutário, a competência será da justiça comum (estadual ou federal). Em se tratando de vínculo trabalhista, a competência caberá à justiça laboral.
+V - A parte reclamante defende ter sido contratada para trabalhar na função de técnico em enfermagem, sem concurso público ou processo seletivo, desde 10/12/2012, tendo permanecido vinculado ao consórcio de direito público até 09/04/2014.
+VI - Falece competência à Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público, ainda que em contratações irregulares.
+VII - A orientação desta Corte Superior se firmou no sentido de que a contratação irregular com o poder público é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes. Confira-se: AgInt no CC 147.725/PA, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 08/02/2017, DJe 14/02/2017; AgRg nos EDcl no CC 144.107/MS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 25/05/2016, DJe 01/06/2016; AgRg no CC 108.627/MS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 24/02/2010, DJe 04/03/2010)
+VIII - Agravo interno improvido.
+(AgInt no CC n. 156.229/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 28/4/2020, DJe de 30/4/2020.)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente o Juízo de Direito da 1ª Vara da Fazenda Pública de Araraquara/SP (suscitante) para processar e julgar a demanda .
+Publique-se.
+Intimem-se.
+EMENTA
