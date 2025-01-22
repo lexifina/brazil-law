@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de DANILO DE SOUZA NOVAIS - condenado pela prática do crime de tráfico transnacional de drogas -, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO (Apelação n. 0000275-57.2019.4.03.6112), encontra-se prejudicado.
+Busca a impetração a revogação da prisão cautelar imposta pelo Juízo de Direito da 5ª Vara Federal da comarca de Presidente Prudente/SP, ao argumento de excesso de prazo para o julgamento dos dois recursos interpostos na mesma data  ..  porém apenas um deles segue aguardando apreciação judicial por mais de 8 meses  ..  - fl. 6, e que  ..  já foram superados 12 ciclos de 90 dias desde a última revisão da prisão preventiva do PACIENTE, sem que qualquer análise sobre a necessidade de manutenção atual de seu recolhimento seja feita! (fl. 8).
+Aduz, ainda, que  ..  do despacho que converteu o flagrante em preventiva, não há uma linha sequer dedicada à avaliação da possibilidade de imposição de medida menos extrema. A imposição da mais grave das opções é feita sem a apresentação de qualquer justificativa legítima ao afastamento das mais brandas - e perfeitamente cabíveis no presente caso  ..  - fl. 9.
+Ocorre que, em informações prestadas pelo Tribunal de origem (fl. 1.956), obtive a informação de que em 16/12/2024 o agravo regimental foi julgado e não conhecido, de forma que há perda do objeto.
+Afora isso, é entendimento desta Casa que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública, como se verifica no presente caso.
+Quanto à falta de análise atual sobre a necessidade de manutenção do recolhimento do paciente, verifico que a questão não foi objeto de deliberação no ato apontado como coator, de modo que o conhecimento de matérias não debatidas na origem subverte a estrutura constitucional, caso conhecidas na via eleita neste Tribunal Superior.
+Em suporte: AgRg no RHC n. 183.244/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/11/2023; AgRg no HC n. 767.936/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 17/11/2023; AgRg no HC n. 843.602/MG, de minha relatoria, Sexta Turma, DJe de 25/10/2023; AgRg no HC n. 846.353/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/10/2023.
+Assim, inviável inaugurar a análise desse tema nesta Instância Superior.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO TRANSNACIONAL DE DROGAS (475 KG DE COCAÍNA). PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE JULGAMENTO DO AGRAVO. PERDA DO OBJETO. AUSÊNCIA DE REVISÃO DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA.
+Writ prejudicado.
