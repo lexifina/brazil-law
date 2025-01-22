@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDERSON NONATO DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO.
+Consta dos autos que em 20/5/2024 foi proposta revisão criminal no Tribunal de origem e que, passados mais de 6 meses desde a propositura da ação, bem como mais de 4 meses desde que conclusos os autos para julgamento, a relatoria teria se quedado inerte, negando ao paciente o direito de acesso à jurisdição, em manifesta afronta à razoável duração do processo.
+Requer, liminarmente e no mérito, que se determine à autoridade coatora celeridade no julgamento do feito.
+O pedido liminar foi indeferido (fls. 83-84) . Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 93-95) e a manifestação do Ministério Público Federal, opinando pela denegação da ordem (fls. 98-102).
+É o relatório.
+No presente writ, a defesa alega que o paciente estaria sendo submetido a constrangimento ilegal, apontando a existência de excesso de prazo na tramitação da revisão criminal ajuizada perante o Tribunal de Justiça do Estado do Maranhão.
+A alegação de excesso de prazo, seja quanto à manutenção da prisão cautelar, seja quanto ao impulsionamento processual, deve ser analisada dentro de critérios verificados judicialmente, conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento de ilegalidade por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+No caso, a autoridade coatora justificou adequadamente a possível demora na condução do feito, ressaltando que tomou posse como Desembargadora no TJMA apenas em abril de 2024, fato que teria demandado maior tempo para analisar o acervo processual sob sua responsabilidade
+Ao prestar informações a esta Corte Superior de Justiça, a relatora informou que já impulsionou a Revisão Criminal n. 0811649-36.2024.8.10.0000, tendo disponibilizado relatório e voto, com remessa dos autos ao revisor para designação de data e inclusão em pauta de julgamento. Quanto ao ponto, colhe-se o excerto abaixo:
+5 - Não obstante o presente feito ter sido distribuído em 20 de maio de 2024, cumpre assinalar que esta Desembargadora Relatora tomou posse no Tribunal de Justiça do Estado do Maranhão em meados de abril de presente ano, circunstância esta que exigiu um maior trabalho para análise e maior familiaridade com o acervo processual que lhe foi destinado. Ademais, assinala-se que no presente feito já foi apresentado Relatório de voto, de modo que aguarda-se designação de pauta para julgamento a ser determinada pelo Desembargador Revisor.
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. REVISÃO CRIMINAL. EXCESSO DE PRAZO NO JULGAMENTO DA AÇÃO REVISIONAL. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. FEITO NA ORIGEM AGUARDA INCLUSÃO EM PAUTA DE JULGAMENTO. VOTO DA DESEMBARGADORA RELATORA APRESENTADO. ORDEM DENEGADA.
