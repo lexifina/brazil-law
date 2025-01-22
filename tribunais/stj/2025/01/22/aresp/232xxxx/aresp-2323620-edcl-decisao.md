@@ -1,0 +1,30 @@
+DECISÃO
+1. Cuida-se de embargos de declaração apresentados pela União em face da decisão monocrática de fls. 1.932-1.937, de minha relatoria.
+Aponta, em síntese, a existência de omissão da decisão ora embargada.
+Discorre sobre a competência para homologação de acordos de autocomposição, os princípios do estímulo à consensualidade, da razoável duração do processo e da eficiência.
+Pede o acolhimento dos embargos com efeitos modificativos.
+Em petição de fls. 1.949-1.951, a União afirma que o acordo entabulado abrange servidores aposentados e pensionistas, beneficiários em idade avançada, o que atrai a incidência do art. 71 da Lei n. 10.741/2023 (estatuto do idoso), que garante prioridade na tramitação processual.
+Narra que o julgamento, pelo STF, da Ação Direta de Inconstitucionalidade 7.064/DF, que alterou a imposição de um teto para o pagamento de precatórios foi determinante para que as partes realizassem e aceitassem os termos do acordo.
+Relata que o objeto do presente processo envolve um grande número de pessoas, substituídos da ação coletiva, e que o termo de acordo firmado atende aos postulados da duração razoável do processo e da eficiência, garantindo "uma resposta jurisdicional adequada, eficaz e consentânea aos anseios dos jurisdicionados representados".
+Por fim, requer a atribuição de regime de urgência na apreciação dos embargos de declaração.
+É o relatório.
+DECIDO.
+2. Observa-se, das razões dos embargos de declaração, que a União pretende, em realidade, a reforma da decisão ora recorrida, razão pela qual recebo os aclaratórios como pedido de reconsideração.
+3. No presente caso, o Sindicato Nacional dos Auditores Fiscais da Receita Federal  UNAFISCO, impetrou, em dezembro de 2004, mandado de segurança objetivando fosse determinado à autoridade impetrada o pagamento integral da Gratificação de Incremento da Fiscalização e da Arrecadação  GIFA, instituída pela Lei 10.910/2004, em seu valor máximo, aos aposentados e pensionistas substituídos pelo sindicato, nas mesmas condições pagas aos servidores em atividade.
+A sentença (fls. 609-618) concedeu, em parte, a segurança, limitando o valor da GIFA ao equivalente percentual da média nacional obtida pela categoria funcional.
+Interpostos recursos de apelação, o Tribunal Regional Federal da 1ª Região deu provimento à apelação da União para denegar a segurança e julgou prejudicada a apelação do Sindicato (fls. 721-729).
+Manejado recurso especial pelo Sindicato, não foi admitido pelo Tribunal Regional Federal (fls. 1.218-1.219), sobrevindo a interposição de agravo em recurso especial.
+O agravo em recurso especial do Sindicato foi conhecido para dar provimento ao recurso especial, em decisão (fls. 1.375-1.379) proferida pelo em. Ministro Gurgel de Faria, a fim de restabelecer os efeitos da sentença que concedeu, em parte, a segurança.
+A União interpôs agravo interno, ao qual foi negado provimento pela Primeira Turma desta Corte Superior (fls. 1.458-1.464). Manejados embargos de declaração, estes foram rejeitados pelo acórdão de fls. 1.503-1.504.
+Por fim, sobreveio a interposição de recurso extraordinário (fls. 1.527-1.535).
+Na pendência da análise de admissibilidade do referido recurso extraordinário, a União apresentou petição (fls. 1.577) requerendo a homologação de Termo Judicial de Acordo (fls. 1.578-1.585), com o objetivo de encerrar consensualmente o litígio.
+4. A partir do breve resumo do trâmite processual, observa-se que a presente demanda já se arrasta por longos 20 anos, sem que, até o momento, tenha chegado a termo final.
+Outrossim, verifica-se, ainda, que o presente processo trata de verba alimentar e os seus beneficiários são aposentados e pensionistas que, em sua maioria, encontram-se em idade avançada.
+Além disso, a cláusula décima segunda do termo de acordo apresentado dispõe que o pagamento ocorrerá mediante expedição de Precatório ou RPV, nos termos da Constituição. Ressalte-se que, para que o pagamento seja efetuado até o final do exercício de 2026 - razão determinante da realização do referido acordo -, os precatórios devem ser expedidos até 2 de abril de 2025, nos termos do art. 100, §5º, da Constituição.
+Por fim, a confluência dos elementos apresentados indicam a necessidade de uma nova avaliação contextualizada da situação, em caráter excepcional e diante das circunstâncias invocadas.
+5. Assim, a fim de prestigiar os princípios que informam a Lei n. 10.741/2003 (Estatuto do Idoso), notadamente a garantia de prioridade prevista no referido estatuto, bem como preservar um dos motivos que viabilizaram a realização do presente acordo, qual seja, o pagamento ainda no ano de 2026, reexamino a questão e constato de todo recomendável a homologação, em caráter excepcional nesta instância e diante do particular quadro fático ora apresentado, do termo de acordo firmado pela União e o Sindicato recorrente (fls. 1.578-1.585).
+Destarte, considerando que o processo trata de direito que admite autocomposição e estando presentes os pressupostos de validade do negócio jurídico entabulado, especialmente poderes aos procuradores da União para transigir, conforme art. 1º, §4º da Lei n. 9.469/97, incluído pela Lei n. 13.140/2015, bem como aos representantes do sindicato recorrente e seus advogados, conforme documentos às fls. 1.869-1.930, não há óbice formal para a homologação do pedido.
+6. Ante o exposto, reconsidero a decisão de fls. 1.932-1.937 para homologar o acordo de fls. 1.578-1.584 e julgar extinto o processo, com resolução do mérito, nos termos do art. 487, III, b, do CPC.
+Não sendo necessário aguardar o decurso do prazo recursal, cabe à Coordenadoria, tão logo publicada esta decisão, certificar o trânsito em julgado e, como medida de economia processual, observado o princípio da cooperação (art. 67 do CPC), providenciar a baixa dos autos ao primeiro grau de jurisdição, a fim de que o juízo adote as providências necessárias, a depender do efetivo cumprimento da avença ajustada entre as partes.
+7. Publique-se. Intimem-se.
+EMENTA
