@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FABRICIO GRACIANO SILVA ARAÚJO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 4 anos e 2 meses de reclusão no regime fechado e de 416 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+A impetrante sustenta que seria equivocada a modulação da fração da redutora do tráfico privilegiado, considerando-se a pequena quantidade de drogas apreendida em poder do paciente e a existência de processo posterior à condenação.
+Pondera, nos termos da Súmula n. 440 do STJ, pela mitigação do modo carcerário, argumentando que, " n o momento do acórdão, o paciente era PRIMÁRIO e a pena base foi mantida no MÍNIMO LEGAL, porque não houve em nenhum momento qualquer prova no processo que desabonasse a conduta do paciente" (fl. 12).
+Requer, liminarmente, a fixação do regime aberto para o cumprimento de pena. No mérito, pugna pela concessão da ordem para que seja aplicada a minorante do tráfico privilegiado na fração máxima, com o abrandamento do regime prisional.
+O pedido liminar foi indeferido às fls. 59-60.
+As informações foram prestadas às fls. 66-68 e 69-92.
+O Ministério Público Federal, às fls. 96-99, manifestou-se pela concessão da ordem para que seja aplicada a fração de 2/3, em razão da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+É o relatório.
+Inicialmente, a despeito do não cabimento deste writ, utilizado como substitutivo de revisão criminal , procedo à análise do feito, a fim de verificar a ocorrência de eventual constrangimento ilegal.
+No tocante à suposta ilegalidade atinente à causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, para melhor elucidação da questão, transcreve-se o seguinte trecho do acórdão impugnado (fl. 21):
+A pena-base foi fixada no mínimo legal e majorada em 2/3 diante da aplicação do artigo 33, § 4º da Lei 11.343/06.
+Contudo, a redução deve ser revista, para ser fixada no mínimo (-1/6). Isso porque além da quantidade de drogas que tinha em seu poder, estava com seiscentos reais, encaminhando a que naquele momento já tivesse vendido boa parte dos entorpecentes que estavam em seu poder, mesmo porque afirmou tanto na delegacia como para a policial Daniele que estava no final de seu turno de venda.
+Tão certo era seu envolvimento no tráfico que mesmo em liberdade provisória, retornou a mesma pratica criminosa, conforme se verifica dos autos 1504046-84.2022.8.26.0228 em que já foi confirmada sua condenação nesta instância.
+Assim, aplicado o redutor em 1/6, resulta na pena de 4 anos e 2 meses de reclusão e pagamento de 416 dias-multa.
+Como visto, o Tribunal de origem aplicou a fração de 1/6 pelo reconhecimento da minorante do tráfico privilegiado, considerando a quantidade de entorpecentes, a apreensão de quantia em dinheiro e a existência de outra ação penal em curso em desfavor do paciente, o que consubstancia o alegado constrangimento ilegal.
+Com efeito, na espécie, a quantidade não expressiva de drogas (4,4 g de cocaína e 99,5 g de maconha - fl. 19), o valor apreendido (R$ 619,00) e a existência de ação penal em curso não justificam a imposição do índice de 1/6.
+Sobre o tema, cabe ressaltar que, segundo a jurisprudência desta Corte, o fato de o réu estar respondendo à outra ação penal não constitui fundamento idôneo para amparar a modulação da minorante em patamar aquém do máximo (AgRg no REsp n. 2.074.035/MG, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+Assim, diante da ausência de elementos concretos para modular a fração do mencionado redutor, deve ser concedida a ordem de ofício, para reconhecer a incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3.
+Confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS APENAS COM BASE NA EXISTÊNCIA DE OUTRA AÇÃO EM CURSO CONTRA O PACIENTE E PELA QUANTIDADE DAS DROGAS E DINHEIRO APREENDIDOS. NÃO APONTAMENTO DE CIRCUNSTÂNCIAS CONCRETAS NO SENTIDO DA HABITUALIDADE DELITIVA. DECISÃO MONOCRÁTICA QUE NÃO APLICOU O REDUTOR REFORMADA. POUCA QUANTIDADE DE DROGAS. REDUÇÃO MÁXIMA, REGIME ABERTO, SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS E AFASTAMENTO DO CARÁTER HEDIONDO DO DELITO. AGRAVO PROVIDO.
+ ..
+4. No caso, a quantidade das drogas e o valor em dinheiro apreendidos - 10,4g de cocaína e R$ 54,30 - sequer podem ser considerados excessivos, razão pela qual a causa de diminuição deve incidir na fração máxima de 2/3. Precedentes.
+ ..
+6. Agravo regimental provido para não conhecer do habeas corpus, mas conceder a ordem, de ofício, para reduzir as penas do paciente para 1 ano e 8 meses de reclusão e 166 dias-multa, afastando o caráter hediondo do delito, além de fixar o regime inicial aberto e substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das Execuções Criminais.
+(AgRg no HC n. 812.034/SC, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 6/6/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. PRESENÇA DE ILEGALIDADE FLAGRANTE A JUSTIFICAR A CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. MINORANTE DO TRÁFICO PRIVILEGIADO NEGADA MEDIANTE FUNDAMENTOS INVÁLIDOS. AÇÃO PENAL EM ANDAMENTO E QUANTIDADE NÃO RELEVANTE DE DROGAS. PENA REDIMENSIONADA.
+ ..
+3. A Terceira Seção, no julgamento do REsp n. 1.977.027/PR (Tema repetitivo n. 1.139), firmou a tese no sentido de que "é vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06" (rel.ª Min. Laurita Vaz, julgado em 10/8/2022, DJe 18/8/2022).
+4. Outrossim, a quantidade não relevante, sem menção a circunstâncias adicionais, não constitui fundamentação válida a fim de exasperar a pena-base, negar a minorante do tráfico ou modular em patamar diverso de 2/3, bem como estabelecer o agravamento do regime prisional ou impedir a substituição da sanção privativa de liberdade por penas restritivas de direitos. Precedentes.
+5. Agravo regimental não conhecido. Concedido habeas corpus de ofício para reduzir as penas do agravante a 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituindo a pena privativa de liberdade por penas restritivas de direitos, a serem estabelecidas pelo Juízo de Execução.
+(AgRg no AREsp n. 2.240.799/SC, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.)
+Passo ao redimensionamento da pena.
+Sobre a pena intermediária estabelecida pela Corte de origem (5 anos de reclusão e 500 dias-multa), incide, na terceira fase, a minorante prevista no art. 33, § 4º, da Lei 11.343/2006, na fração de 2/3, ficando a reprimenda definitiva do paciente em 1 ano e 8 meses de reclusão e 167 dias-multa.
+Quanto ao regime prisional, com o redimensionamento da reprimenda para 1 ano e 8 meses de reclusão e considerando que o paciente é primário e que todas as circunstâncias judiciais do art. 59 do Código Penal lhe foram valoradas positivamente, estando a pena-base no mínimo legal, a fixação do regime inicial aberto é a medida que se impõe, nos termos do art. 33, § 2º, c, do Código Penal.
+Por fim, preenchidos os requisitos do art. 44 do Código Penal, a pena privativa de liberdade deve ser convertida em duas restritivas de direitos, a serem definidas pelo Juízo de origem.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente do habeas corpus, contudo concedo a ordem de ofício, a fim de reduzir as penas do paciente para 1 ano e 8 meses de reclusão e 167 dias-multa, fixar o regime inicial aberto e deferir a substituição de sua pena privativa de liberdade por duas restritivas de direitos, a serem definidas pelo Juízo de origem.
+Comunique-se. Publique-se. Intimem-se.
+ EMENTA
