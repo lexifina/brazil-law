@@ -1,0 +1,19 @@
+DECISÃO
+O presente writ, impetrado em benefício de EMERSON OLMO PIRES - preso preventivamente pela prática, em tese, do crime de feminicídio tentado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO (Habeas Corpus n. 1010847-27.2024.8.11.0000), não comporta acolhimento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente pelo Juízo de Direito da Vara Única da comarca de Rosário do Oeste/MT, ao argumento de que a decisão decretatória da custódia cautelar carece de fundamentação idônea.
+Afirma-se, ainda, que o paciente é primário, ostenta bons antecedentes, possui trabalho digno e residência fixa.
+Ocorre que, do atento exame dos autos, observo que a decisão está devidamente fundamentada para a garantia da ordem pública, tendo o Juízo de primeiro grau consignado (fls. 24/27 - grifo nosso):
+No particular, tenho pela presença dos requisitos legais supramencionados. Quanto ao "fumus comissi delicti", urge ressaltar que dos autos se extrai haver indícios suficientes de autoria e materialidade delitiva, notadamente pela Portaria de Instauração do Inquérito Policial, Boletim de Ocorrências, Laudo Pericial nº 111.1.02.9067.2024.171059-A01, Relatório e respectivas fotografias, bem como depoimentos das vítimas e testemunhas.
+Consoante se depreende dos autos, no dia 31/03/2024, por volta das 17h30min, a vítima Flavia Caroline de Oliveira Teles teria sido vítima de um disparo de arma de fogo efetuado pelo companheiro, ora representado, atingindo o lado esquerdo do peito.
+Segundo declarações, a vítima conseguiu correr e foi socorrida por vizinhos na vila em que residem na Fazenda Panflora. Já o suspeito ainda tentou carregar mais um cartucho na espingarda para disparar novamente contra a vítima, mas como o socorro foi muito rápido, o suspeito fugiu em seu veículo.
+Pela gravidade das lesões, a vítima foi transferida para o Hospital HMC em Cuiabá e naquela cidade requereu as medidas protetivas de urgência através do Plantão da Mulher, bem como foi encaminhada para realização de exame de corpo de delito.
+Quando ouvida, a vítima aduziu que a intenção do suspeito era matá-la na frente de sua filha de 7 anos, uma vez que este é exímio atirador e mirou no lado esquerdo do seu peito, não causando a morte por circunstâncias alheias a sua vontade.
+No mesmo sentido é a conclusão que se obtém quanto ao "periculum libertatis", consubstanciada na manutenção da ordem pública e para fins de assegurar a aplicação da lei penal, evitando-se, com isso, que em liberdade possa concluir o intento de ceifar a vida da vítima, bem como tomar rumo ignorado.
+Este Superior Tribunal tem reiteradamente decidido ser idônea a fundamentação calcada na periculosidade do agente, evidenciada pelo modus operandi e pela gravidade concreta do crime. No presente caso, o paciente, utilizando uma espingarda, perseguiu e atirou contra a companheira, intencionando matá-la na presença da filha de sete anos. Nesse sentido: AgRg no HC n. 916.310/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/9/2024; e AgRg no HC n. 893.944/MG, Ministro Otavio Toledo de Almeida (Desembargador convocado do TJ/SP), Sexta Turma, DJe 27/6/2024.
+Ademais, eventuais condi ções pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+Nesse cenário, há nos autos elementos hábeis a recomendar a manutenção da custódia cautelar do paciente, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal, dada a gravidade concreta do delito, reconhecida pelas instâncias de origem.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FEMINICÍDIO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. PERICULOSIDADE DO PACIENTE. NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
