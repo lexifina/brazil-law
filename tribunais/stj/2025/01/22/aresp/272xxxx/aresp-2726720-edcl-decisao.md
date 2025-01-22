@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por VANDERLEI RIGATO à decisão de fls. 565/566, que não conheceu do recurso.
+Sustenta a parte embargante:
+Trata-se de substabelecimento ao advogado Pedro Cascaes Neto, apresentado tempestivamente, porém, que não confirmou a assinatura digital certificada pelo advogado substabelecente (Dr. Rafael Medeiros A. da Costa).
+Isso ocorreu pois o substabelecimento de fl. 556 foi extraído do processo de origem - IDPJ nº 0801518-47.2023.8.12.0043/MT - que, por problemas no sistema E-SAJ do Tribunal de Justiça de Mato Groso do Sul, não possibilitou a visualização da assinatura digital do advogado substabelecente no documento. Colaciona-se (fl. 571).
+ ..
+Tomou-se conhecimento de que referido sistema não comporta assinatura digital, de maneira que, quando do protocolo de qualquer documento assinado digitalmente, o próprio sistema E-SAJ daquele Tribunal corrompe o documento e faz desaparecer a assinatura (fl. 572).
+ ..
+Considerando que a falha se originou no sistema processual de origem, o que resultou na corrupção da assinatura do documento e, consequentemente, levou Vossa Excelência a proferir decisão no sentido de não conhecer do recurso, evidencia-se que a decisão foi tomada com base em uma premissa equivocada, pois, caso não existisse tal falha no sistema E-SAJ, a decisão teria sido diversa.
+ ..
+Frisa-se que se trata de mera irregularidade a ausência de assinatura digital do advogado no substabelecimento - ainda mais por um erro do sistema de origem. Assim, requer-se a juntada do substabelecimento assinado de forma manual, a fim de demonstrar que o advogado subscrito de fato foi legitimado a representar a parte Recorrente (fl. 573).
+ ..
+Considerando as peculiaridades do caso  em especial a falha no sistema E-SAJ, que corrompeu as assinaturas digitais  e a efetividade dos atos realizados de forma diversa, mas que atingem a finalidade legal almejada, requer-se o acolhimento dos presentes Embargos de Declaração, bem como o recebimento da procuração ora anexada, com fundamento no Princípio da Instrumentalidade das Formas (fl. 575).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Pedro Cascaes Neto.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que a procuração e o substabelecimento, juntados à petição de fls. 554/557, recebidos neste Tribunal, não foram suficientes para completar a cadeia de representação outorgando poderes ao subscritor dos recursos.
+Veja que o substabelecimento de fl. 556 não foi assinado pelo Dr. Rafael Medeiros A. da Costa, substabelecente do Dr. Pedro Cascaes Neto.
+Para esclarecimentos, os autos foram enviados à Coordenadoria de Processamento de Feitos de Direito Privado (fl. 561) para verificação de possível falha no recebimento e juntada da petição eletrônica de fls. 554/557, em específico, o substabelecimento de fl. 556.
+Em cumprimento ao despacho, foi aberto processo administrativo sendo este encaminhado à unidade responsável para providências necessárias (fl. 562).
+Assim, a Secretaria de Processamento de Feitos desta Corte informou à fl. 563 que:
+1. Trata-se de determinação do r. Despacho 5843340 para que se verifique possível falha sistêmica em razão da ausência de assinatura no documento de fls. e-STJ 556.
+2. Após diligências realizadas por esta Secretaria nas folhas da peça processual em questão, esgotando os meios de detecção de assinatura eletrônica disponibilizados pelo Sistema Integrado da Atividade Judiciária (SIAJ) nos módulos Informações Processuais e Gestão de Peças Eletrônicas, não foram localizados elementos que evidenciem a existência de assinatura digital na referida peça.
+3. Outrossim, não há registros de falha ou indisponibilidade sistêmica que possa ter ocasionado perda de dados, o que nos permite afirmar que o documento de folhas e-STJ 556 foi juntado aos autos eletrônicos na mesma forma como foi remetido.
+Desse modo, cabe ressaltar que, de acordo com a jurisprudência desta Corte, é ônus da parte, que fizer uso do meio eletrônico, a responsabilidade pela transmissão correta dos documentos, cabendo-lhe fiscalizar o seu regular envio, não sendo possível a regularização posterior. Nesse sentido: AgInt nos EREsp n. 1.977.010/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 24.5.2024; AgInt nos EDcl no AREsp n. 1.867.367/SP, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 4.4.2023; AgInt nos EDcl no AREsp 1545561/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 22.10.2020; AgInt no AREsp 1365437/SP, Rel. Ministro Marco Buzzi, Quarta Turma, Dje de 01.03.2019.
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de substabelecimento devidamente assinado com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30.6.2020; AgInt no REsp 1788526/TO, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; e AgInt no REsp 1830797/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 18.3.2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
