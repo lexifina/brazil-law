@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSE HENRIQUE SILVA DE OLIVEIRA contra a decisão do Tribunal de Justiça de São Paulo que inadmitiu recurso especial apresentado na Apelação Criminal n. 1500156-22.2020. 8.26.0580.
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (fl. 1.450).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) acordão em consonância com o entendimento do Supremo Tribunal Federal; b) a contrariedade à Constituição Federal deve ser objeto de recurso extraordinário; c) recurso especial interposto sem a devida fundamentação; e d) óbice da Súmula 7/STJ (fls. 1.400/1.401).
+Todavia, a parte agravante, nas razões do agravo em recurso especial (fls. 1.415/1.422), não impugnou, de maneira específica, suficiente e pormenorizada a fundamentação atinente ao óbice previsto na Súmula n. 7/STJ, o que afasta a possibilidade de conhecimento do agravo.
+No caso, da análise das razões do agravo, observa-se que o agravante apenas rebateu: a) a dissonância com o entendimento do Supremo Tribunal Federal; b) a necessidade de recurso extraordinário; e c) a fundamentação inadequada do recurso especial.
+E, sobre o óbice da Súmula 7/STJ, a parte apenas informa que não há falar-se em reincursão no acervo fático (fl. 1.421) e que não se busca alterar qualquer premissa fática constante dos autos, mas apenas a conclusão jurídica adequada para cada uma delas (fl. 1.421), sem indicar o quadro fático reconhecido pelo Tribunal de origem, nem a roupagem jurídica que entende ser cabível à hipótese.
+A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que, para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente, a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.024.908/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023).
+No mesmo sentido: AgRg no AREsp n. 2.295.325/SP, Ministra Laurita Vaz, Sexta Turma, DJe 9/5/2023.
+Na espécie, na argumentação constante do agravo em recurso especial, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório. Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC, c/c o art. 3º do CPP).
+Nesse sentido: AgRg no AREsp n. 2.364.704/PR, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023; e AgRg no AREsp n. 2.198.230/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 25/8/2023.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.068.764/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 12/9/2022.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. RECURSO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
