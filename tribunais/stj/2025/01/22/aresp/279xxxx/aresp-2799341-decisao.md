@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a e c, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (Revisão Criminal n. 1.0000.23.255444-4/000) que indeferiu o pleito revisional ajuizado por Rahik Vieira dos Santos.
+Nas razões do recurso especial, a defesa do agravante suscitou dissídio jurisprudencial acerca da interpretação do art. 28 da Lei n. 11.343/2006 e violação do 33, § 4º, da Lei n. 11.343/2006 (fls. 227/247).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ e considerando a ausência de demonstração do dissídio nos moldes legais e regimentais (fls. 268/271).
+Contra o decisum a defesa interpôs o presente agravo (fls. 277/282).
+Instado a se manifestar como custos legis, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 303):
+PENAL. PROCESSO PENAL. NARCOTRÁFICO. REVISÃO CRIMINAL. PRETENSA DESCLASSIFICAÇÃO PARA O TIPO DO ARTIGO 28 DA LEI DE DROGAS. MATERIALIDADE E AUTORIA DELITIVA ASSENTES. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL NA VIA OPTATA POR CORTE INCOMPETENTE. SÚMULA 7/STJ. REDUTOR DE PENA POR SUPOSTO "PRIVILÉGIO" À RAZÃO MÁXIMA. INVIABILIDADE. COMPROVADA E PATENTE DEDICAÇÃO À ATIVIDADE CRIMINOSA. RÉU PRESO EM FLAGRANTE POR NOVO CRIME DE NARCOTRÁFICO LOGO APÓS POSTO EM LIBERDADE. PARECER POR DESPROVIMENTO DO AGRAVO LEGAL EM RECURSO ESPECIAL
+É o relatório.
+O agravo é inadmissível.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a Corte de origem inadmitiu o recurso com base em dois fundamentos: Súmula 7/STJ e ausência de demonstração do dissídio nos moldes legais e regimentais (fls. 268/271).
+O agravante, no entanto, somente impugnou o primeiro fundamento, quedando-se silente quanto ao segundo.
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Como fundamento subsidiário, ressalto que, ainda que fosse possível conhecer do agravo, o recurso especial não seria conhecido.
+A controvérsia posta no presente reclamo tem origem em revisão criminal, ajuizada com base no art. 621 do Código de Processo Penal (fls. 1/9).
+Verifica-se, no entanto, que as razões do especial não indicaram, de forma clara e específica, violação ou dissídio interpretativo acerca da interpretação do art. 621 do Código de Processo Penal, circunstância que firma a deficiência na fundamentação do reclamo (Súmula 284/STF).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. A previsão contida no art. 621 do Código de Processo Penal não diz respeito apenas aos requisitos de admissibilidade para o ajuizamento da revisão criminal, mas aos pressupostos indispensáveis para o acolhimento da revisão em si. Assim, em se tratando de pleito revisional ajuizado com fundamento no art. 621, I, do CPP - inadmitido ou mesmo indeferido -, a pretendida reforma do acórdão revisional pela via especial demandaria, inexoravelmente, a indicação do referido dispositivo, de modo a viabilizar a análise por esta Corte quanto ao preenchimento da hipótese ali preconizada: sentença condenatória contrária ao texto expresso da lei penal ou à evidência dos autos;
+2. No caso, as razões do especial não indicaram, de forma clara e específica, violação do art. 621, I, do Código de Processo Penal, circunstância que firma a deficiência na fundamentação do reclamo (Súmula 284/STF).
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.319.094/DF, de minha relatoria, Sexta Turma, DJe 25/5/2023 - grifo nosso).
+Ora, foi sob o enfoque do art. 621 do Código de Processo Penal, que a revisão criminal foi ajuizada e, ainda, foi sob esse prisma que o pleito foi indeferido.
+Consequentemente, eventuais ilegalidades no julgamento da ação revisional devem ser analisadas sob esse mesmo enfoque, sendo certo que, sem a indicação, clara e específica, desse dispositivo como violado, fica esta Corte impedida de verificar o preenchimento dos pressupostos para acolhimento do pleito revisional, notadamente em se tratando de recurso de fundamentação vinculada.
+No mesmo sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO DO ART. 621 DO CPP. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 1.917.920/SC, de minha relatoria, Sexta Turma, DJe 15/3/2022 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO - ART. 621 E INCISOS DO CÓDIGO DE PROCESSO PENAL. SÚM. 284/STF. FUNDAMENTO INATACADO. SÚM. 182/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITOS DE IGUAL DURAÇÃO. LEGALIDADE. RECURSO DESPROVIDO.
+1. As razões do especial não trazem nenhuma argumentação referente aos fundamentos (requisitos) da revisão criminal elencados no art. 621 do Código de Processo Penal, mostrando-se deficientemente fundamentado (Súmula 284/STF).
+2. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+3. Inviável a apreciação de matéria constitucional por esta Corte Superior, porquanto, por expressa disposição da própria Constituição Federal (art. 102, inciso III), se trata de competência reservada ao Supremo Tribunal Federal.
+4. As penas restritivas de direito devem ser impostas no prazo previsto para a pena privativa de liberdade, não havendo ilegalidade na fixação de cada prestação de serviços à comunidade pelo tempo previsto para a pena privativa de liberdade, devendo, cada qual, observar o parâmetro do art. 46, § 3º, do Código Penal.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.947.310/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/10/2021 - grifo nosso).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. REVISÃO CRIMINAL. VIOLAÇÃO DE PRECEITO CONSTITUCIONAL, DESCABIMENTO. VIOLAÇÃO DO ART. 386, VII, DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISPOSITIVO QUE NÃO OSTENTA COMANDO NORMATIVO SUFICIENTE PARA RESPALDAR A TESE RECURSAL (ILEGALIDADE NO INDEFERIMENTO DO PLEITO REVISIONAL). AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP.
+Agravo regimental improvido.
+(AgRg no AREsp n. 1.926.664/MG, de minha relatoria, Sexta Turma, DJe 22/10/2021 - grifo nosso).
+Em face do exposto, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. FUN DAMENTO SUBSIDIÁRIO. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP. IMPOSSIBILIDADE DE VERIFICAÇÃO DOS PRESSUPOSTOS PARA ACOLHIMENTO DO PLEITO REVISIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PRECEDENTES DESTA CORTE.
+Agravo não conhecido.
