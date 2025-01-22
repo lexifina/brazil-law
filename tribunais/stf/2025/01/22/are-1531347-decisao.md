@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Ministério Público do Estado do Amapá, em face do acórdão do Superior Tribunal de Justiça assim ementado:
+
+    “PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONFLITO DE COMPETÊNCIA. ART. 66 DO CPC/15. INEXISTÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DOS JUÍZOS APONTADOS COMO SUSCITADOS EM UMA MESMA DEMANDA. SENTENÇA COM DECISÃO DEFINITIVA. INCIDÊNCIA DA SÚMULA N. 59/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. I – Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015. II - Não cabe a este Tribunal Superior, em sede de conflito de competência, cuja cognição está limitada aos estreitos moldes constantes do art. 66 do estatuto processual, apreciar, originariamente, a conciliabilidade entre as determinações emanadas do juízo federal e as medidas executórias estabelecidas pelo juízo estadual. III - A caracterização de conflito de competência depende da manifestação expressa de dois ou mais juízos que se considerem competentes ou incompetentes para processar e julgar o mesmo feito, não se prestando o incidente a ser utilizado como sucedâneo recursal. IV - Encontrando-se, desde 30.07.2013, transitada em julgado a ação civil pública em trâmite na Justiça Estadual (fls. 11e), incide, na espécie, a orientação cristalizada na Súmula n. 59 desta Corte, segundo a qual “não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes”. V – O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida. VI – Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso. VII – Agravo Interno improvido.”
+
+    Na minuta, sustenta-se violação dos arts. 5º, XXXV, XXXVI, LIV e LV, 93, IX, 105, I, “d”, e 129, II e III, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279: “para simples reexame de prova não cabe recurso extraordinário” . Nesse sentido:
+
+    “DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AÇÃO REVISIONAL DE CONTRATO. CONEXÃO. COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. IMPOSSIBILIDADE. SÚMULA Nº 279/STF. ART. 97 DA LEI MAIOR. RESERVA DE PLENÁRIO. VIOLAÇÃO INOCORRENTE. AGRAVO NÃO PROVIDO. 1. Imprescindível, à caracterização da afronta à cláusula da reserva de plenário, que a decisão esteja fundamentada na incompatibilidade entre a norma legal e a Constituição Federal, o que não se verifica in casu. 2. A controvérsia, conforme já asseverado na decisão guerreada, está restrita ao âmbito infraconstitucional e à análise de fatos e provas. Compreensão diversa demandaria a reelaboração da moldura fática delineada, procedimento vedado em recurso extraordinário. Não há falar, portanto, em afronta aos preceitos constitucionais indicados nas razões recursais. Incidência da Súmula nº 279/STF. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 4. Agravo interno conhecido e não provido.” (ARE 1456220 AgR, Relator(a): FLÁVIO DINO, Primeira Turma, julgado em 30-09-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 09-10-2024 PUBLIC 10-10-2024)
+
+    “DIREITO PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL COM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONFLITO DE COMPETÊNCIA ENTRE JUSTIÇA COMUM E MILITAR. NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO MATERIAL FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. PROVIMENTO NEGADO. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. 1. Para se chegar à conclusão eventualmente contrária ao acórdão recorrido quanto à competência para o julgamento do feito, seria indispensável a prévia análise da adequada interpretação da legislação infraconstitucional aplicável à espécie, além do reexame do material fático-probatório dos autos (Súmula STF 279), expedientes sabidamente inviáveis em recurso extraordinário. Precedentes. 2. Dado o caráter manifestamente inadmissível do recurso, aplicação de multa no valor de 2 salários mínimos, nos termos do art. 1.021, § 4º, c/c art. 81, § 2º, do CPC, em caso de unanimidade da decisão. 3. Agravo regimental o qual se nega provimento.” (ARE 1503453 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 16-09-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 24-09-2024 PUBLIC 25-09-2024)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 22 de janeiro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
