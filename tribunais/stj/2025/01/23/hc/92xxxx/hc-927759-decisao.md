@@ -1,0 +1,52 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto em parte o relatório de fls. 859-860 (e-STJ):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROSANGELA DIVINA PEREIRA DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que a paciente foi condenada como incursa no art. 1º, II, da Lei n. 8.137/1990 (por 12 vezes), na forma do art. 71 do Código Penal, à pena de 3 anos e 3 meses de reclusão, em regime inicial aberto, e 13 dias- multa. A pena privativa de liberdade foi substituída por duas restritivas de direitos (prestação pecuniária e serviços comunitários).
+A impetrante sustenta, em síntese, que os autos deveriam ter sido remetidos ao juízo de origem a fim de proceder a intimação do Ministério Público para avaliar a proposta de Acordo de Não Persecução Penal (ANPP).
+Requer, liminarmente, a suspensão de todos os efeitos da condenação até o julgamento final do habeas corpus. No mérito, pugna pela concessão da ordem para "determinar a remessa dos autos ao representante do Ministério Público em primeira instância, para que avalie a aplicação do ANPP nos termos previstos no art. 28-A do CPP, haja vista o preenchimento dos requisitos legais" (fl. 10).
+O pedido liminar foi indeferido (e-STJ fls. 859-860).
+A origem prestou informações (e-STJ fls. 870-886).
+O Ministério Público manifestou-se pelo não conhecimento ou pela denegação da ordem de habeas corpus (e-STJ fls. 889-892).
+É o relatório.
+Decido.
+As informações prestadas nos autos revelam a ausência de modificação fático-jurídica desde a análise anterior deste feito. Passo, então, à apreciação definitiva da insurgência.
+O Tribunal de origem julgou a controvérsia por meio de acórdão assim ementado (e-STJ fls. 855):
+EMBARGOS INFRINGENTES EM APELAÇÃO CRIMINAL. ARTIGO 1º, INCISO II, DA LEI 8.137/1990. POSSIBILIDADE DE OFERECIMENTO DE ANPP. 1- O acordo de não persecução penal não é direito subjetivo do acusado, justificado o não oferecimento na ausência de reparação do dano e verificada a habitualidade delitiva. Além disso, descabida a discussão sobre a possibilidade do ANPP depois da finalização da persecução penal, uma vez que a sua finalidade é justamente evitar-se que o processo se inicie. 2- Recurso conhecido e desprovido.
+Do voto condutor do referido acórdão extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+Inicialmente, esclarece-se que o instituto previsto no artigo 28-A, do Código de Processo Penal, trazido pela Lei 13.964/19, é medida consensual de solução abreviada da lide penal, de caráter negocial a ser travado entre as partes, na etapa pré-processual, cuja recusa, não homologação ou descumprimento inicia a fase de oferecimento da denúncia.
+ ..
+Do compulso dos autos, verifica-se que o Ministério Público, ao oferecer a denúncia, justificou a impossibilidade da propositura do ANPP na recusa da acusada em reparar o dano, sem comprovação da impossibilidade de o fazê-lo, nos seguintes termos:
+"O Ministério Público informa sobre a impossibilidade de propositura do acordo de não persecução penal (ANPP), vez que a denunciada se recusou a reparar o dano.
+Importante gizar que de acordo com os termos do artigo 28-A, caput, inciso I, do Código de Processo Penal, uma das condições para a formalização de Acordo de Não Persecução Penal é a reparação do dano, exceto na impossibilidade de fazê-lo.
+Instada sobre eventual interesse em firmar com o Ministério Público Acordo da Não Persecução Penal - ANPP, a denunciada, via defensora constituída, sinalizou positivamente, contudo, aduziu não possuir condições de ressarcir ao erário. Ato contínuo, questionada pelo Promotor sobre posse de veículos ou imóveis em seu nome, afirmou que possui ambos, conforme gravação anexa no link:
+Ademais, embora a denunciada alegue não possuir condições financeiras para adimplir com a reparação do dano causado ao erário, não se dignou a carrear aos autos documentação comprobatória de tal impossibilidade.
+Friso que, a entabulação do Acordo de Não Persecução Penal exige, em regra, a reparação do dano, salvo impossibilidade de fazê-lo. Essa impossibilidade, contudo, não pode ser apenas alegada, mas, quantum satis, demonstrada por quem a alega. O que não ocorreu no caso em tela.
+(..) Assim, ausente uma das condições para o Acordo de Não Persecução Penal, qual seja, a reparação dano, descabe a aplicação, no caso, da referida benesse legal. Não faz, pelos mesmos motivos, jus à benesse da suspensão condicional do processo, por não satisfazer um dos requisitos previstos no artigo 89 da Lei nº 9.099/95" (mov. 34).
+A esse respeito, consignou-se no voto divergente que a recusa à reparação do dano não seria impedimento, na medida em que na sentença deixou-se de "determinar o quantitativo referente a reparação de danos, nos termos do artigo 387, inciso IV, do CPP, vez que o débito já é objeto de cobrança pelo fisco estadual" (mov. 159).
+Não obstante, deve se ter em mente que o Acordo de Não Persecução Penal não se trata de direito subjetivo do acusado, já que se encontra inserido na discricionariedade do Ministério Público, desde que atendidas todas as condições legais e seja necessário e suficiente à reprovação e prevenção do crime, o que não se verifica no caso em questão.
+Nesse sentido, destaca-se que o prejuízo estimado aos cofres públicos gira em torno de R$ 161.809,31 (cento e sessenta e um mil reais, oitocentos e nove reais e trinta e um centavos), além disso, conforme apurado na instrução processual, a processada, dolosamente, fraudou a fiscalização tributária na sistemática do ICMS, por 12 (doze) vezes, por todo o ano de 2012, o que denota a habitualidade delitiva.
+A propósito, prevê o inciso II, do § 2º, do artigo 28-A, do Código de Processo Penal, que o ANPP não se aplica quando houver elementos probatórios que indiquem conduta criminal habitual, reiterada ou profissional.
+Lado outro, não há lógica em se discutir sobre a possibilidade do acordo depois da finalização da persecução penal, uma vez que a sua finalidade é justamente evitar-se que o processo se inicie.
+ ..
+Por todo o exposto, justificado o não oferecimento do ANPP e já tendo sido prolatada sentença condenatória, não há que se falar em remessa dos autos ao juízo de origem para fins de intimação do Ministério Público para avaliar a possibilidade de propositura do acordo.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que o Ministério Público, quando do oferecimento da denúncia, informou a impossibilidade de oferecimento de proposta de acordo de não persecução penal de forma fundamentada, diante da recusa injustificada da paciente a proceder à reparação do dano.
+A corte de origem verificou, ainda, da análise do acervo probatório, a habitualidade delitiva da paciente, o que prejudica o preenchimento de requisito subjetivo da benesse processual em tela.
+Ainda, não há nos autos, inclusive, prova de que a paciente tenha se insurgido em face dessa posição do órgão acusatório oportunamente, na forma do art. 28-A, § 14, do CPP, evidenciando a preclusão da matéria.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte.
+No mesmo sentido, destacam-se os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE MAUS-TRATOS CONTRA ANIMAIS. AUSÊNCIA DOS REQUISITOS DO ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). RECUSA DO MINISTÉRIO PÚBLICO. DECISÃO FUNDAMENTADA. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "Inexiste nulidade na recusa do oferecimento de proposta de acordo de não persecução penal quando o representante do Ministério Público, de forma fundamentada, constata a ausência dos requisitos subjetivos legais necessários à elaboração do acordo, de modo que este não atenderia aos critérios de necessidade e suficiência em face do caso concreto." (HC 612.449/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/9/2020, DJe de 28/9/2020).
+2. No caso, como asseverado pelo Ministério Público Estadual, "o paciente provocou não só violação à integridade física dos animais domésticos (cachorros), que estavam sob seus cuidados, mas causou também a morte de dois deles, circunstância que imprime contornos de maior gravidade a sua responsabilização". Portanto, a gravidade dos maus tratos, no caso concreto, evidencia, de fato, uma reprovação e necessidade de prevenção tão intensas a ponto das finalidades do ANPP não poderem ser alcançadas.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 901.592/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+HABEAS CORPUS. PROCESSO PENAL. ESTELIONATO TENTADO. ACORDO DE NÃO PERSECUÇÃO PENAL. RECUSA DE OFERECIMENTO PELO PROMOTOR.
+HABITUALIDADE E REITERAÇÃO DELITIVA. REQUISITO SUBJETIVO.
+IMPOSSIBILIDADE DO PODER JUDICIÁRIO AVALIAR A PERTINÊNCIA DA MOTIVAÇÃO APRESENTADA PELO PARQUET. PRECEDENTES DO STJ. REANÁLISE FEITA E MANTIDA PELO ÓRGÃO SUPERIOR DA ACUSAÇÃO. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. WRIT CONHECIDO E ORDEM DENEGADA.
+1. O acordo de não persecução penal não constitui direito subjetivo do investigado, podendo ser proposto pelo Ministério Público conforme as peculiaridades do caso concreto e quando considerado necessário e suficiente para a reprovação e a prevenção da infração penal.
+2. Na hipótese, o parquet recusou a oferta do acordo, pois entendeu que não seria suficiente para prevenir e reparar o crime, motivo pelo qual o Poder Judiciário, que não detém atribuição para participar de negociações na seara investigatória, não pode impor ao Ministério Público a obrigação de ofertar acordo de não persecução penal.
+3. Parecer da Procuradoria de Justiça que reexaminou o caso e manteve o entendimento de recusa da proposta devido ao não preenchimento de critério subjetivo.
+3. Habeas corpus conhecido e ordem denegada.
+(HC n. 837.618/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024.)
+Pelo exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
