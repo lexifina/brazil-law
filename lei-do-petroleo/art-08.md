@@ -1,4 +1,4 @@
-Art. 8º A ANP tem como finalidade promover a regulação, a contratação e a fiscalização das atividades econômicas integrantes da indústria do petróleo, do gás natural, dos combustíveis sintéticos, dos biocombustíveis e da captura e da estocagem geológica de dióxido de carbono e lhe cabe:
+Art. 8º A ANP tem como finalidade promover a regulação, a contratação e a fiscalização das atividades econômicas integrantes da indústria do petróleo, do gás natural, dos combustíveis sintéticos, dos biocombustíveis, do hidrogênio de baixo carbono e da captura e da estocagem geológica de dióxido de carbono, no que lhe compete conforme a lei, cabendo-lhe:
 I - implementar, em sua esfera de atribuições, a política nacional de petróleo, de gás natural, de combustíveis e de biocombustíveis, contida na política energética nacional, nos termos do Capítulo I desta Lei, com ênfase na garantia do suprimento de derivados de petróleo, de gás natural e seus derivados, de combustíveis sintéticos e de biocombustíveis, em todo o território nacional, e na proteção dos interesses dos consumidores quanto a preço, a qualidade e a oferta dos produtos;
 II - promover estudos visando à delimitação de blocos, para efeito de concessão ou contratação sob o regime de partilha de produção das atividades de exploração, desenvolvimento e produção;
 III - regular a execução de serviços de geologia e geofísica aplicados à prospecção petrolífera, visando ao levantamento de dados técnicos, destinados à comercialização, em bases não-exclusivas;
@@ -16,7 +16,7 @@ XIV - articular-se com os outros órgãos reguladores do setor energético sobre
 XV - regular e autorizar as atividades relacionadas com o abastecimento nacional de combustíveis, fiscalizando-as diretamente ou mediante convênios com outros órgãos da União, Estados, Distrito Federal ou Municípios.
 XVI - regular e autorizar as atividades relacionadas à produção, à importação, à exportação, à armazenagem, à estocagem, ao transporte, à transferência, à distribuição, à revenda e à comercialização de biocombustíveis, assim como avaliação de conformidade e certificação de sua qualidade, fiscalizando-as diretamente ou mediante convênios com outros órgãos da União, Estados, Distrito Federal ou Municípios;
 XVII - exigir dos agentes regulados o envio de informações relativas às operações de produção, importação, exportação, refino, beneficiamento, tratamento, processamento, transporte, transferência, armazenagem, estocagem, distribuição, revenda, destinação e comercialização de produtos sujeitos à sua regulação;
-XVIII - especificar a qualidade dos derivados de petróleo, do gás natural e seus derivados, dos combustíveis sintéticos e dos biocombustíveis;
+XVIII - especificar a qualidade dos derivados de petróleo, do gás natural e seus derivados, dos combustíveis sintéticos, dos biocombustíveis e do hidrogênio;
 XIX - regular e fiscalizar o acesso à capacidade dos gasodutos de transporte;
 XX - (revogado);
 XXI - (revogado);
