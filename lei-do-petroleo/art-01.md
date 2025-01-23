@@ -16,7 +16,7 @@ XIV - incentivar a geração de energia elétrica a partir da biomassa e de subp
 XV - promover a competitividade do País no mercado internacional de biocombustíveis;
 XVI - atrair investimentos em infraestrutura para transporte e estocagem de biocombustíveis;
 XVII - fomentar a pesquisa e o desenvolvimento relacionados à energia renovável;
-XVIII - mitigar as emissões de gases causadores de efeito estufa e de poluentes nos setores de energia e de transportes, inclusive com o uso de biocombustíveis e da captura e da estocagem geológica de dióxido de carbono;
+XVIII - mitigar as emissões de gases causadores de efeito estufa e de poluentes nos setores de energia e de transportes, inclusive com o uso de biocombustíveis, de hidrogênio de baixa emissão de carbono e seus derivados e da captura e da estocagem geológica de dióxido de carbono;
 XIX - incentivar a produção e promover a competitividade no País e no mercado internacional, bem como atrair investimentos em infraestrutura ligada à indústria do hidrogênio de baixa emissão de carbono e seus derivados.
 XX - promover o aproveitamento econômico racional e sustentável do potencial para geração de energia elétrica no mar territorial, na plataforma continental, na zona econômica exclusiva ou em outros corpos hídricos sob domínio da União;
 XXI - incentivar a geração de energia elétrica a partir do aproveitamento de potencial energético offshore.

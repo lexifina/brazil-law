@@ -27,3 +27,4 @@ II - por meio da aplicação das alíquotas da CSLL previstas no art. 3º da Lei
 § 12. Os descontos concedidos nas hipóteses de transação na cobrança de que trata este Capítulo não serão computados na apuração da base de cálculo:
 I - do imposto sobre a renda e da CSLL; e
 II - da contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins).
+§ 13. Sempre que possível, na celebração das transações, serão considerados e perseguidos objetivos e ações de desenvolvimento sustentável, devendo-se buscar efeitos socioambientais positivos a partir das concessões recíprocas que decorrerem do negócio.
