@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por R G E NAKED EMPREENDIMENTOS IMOBILIARIOS SPE LTDA, NAKED ENGENHARIA LTDA à decisão de fl. 700, que não conheceu do recurso.
+Sustenta a parte embargante:
+3. Ocorre que o Nobre Julgador desconsiderou que foi devidamente demonstrado no ato da interposição do Recurso a suspensão dos prazos processuais no dia 22/03/2024, por meio do ato do Presidente do Tribunal de Justiça (ATO EXECUTIVO CONJUNTO 03/2024), que foi transcrito NA ÍNTEGRA quando da interposição do recurso (e-STJ Fl.587).
+4. Por efeito conclusivo, restou omissa a decisão na medida em que desconsiderou ou ato do Tribunal de Justiça do Rio de Janeiro e sobre ele nãos e manifestou.
+5. Dá mesma forma, incorreu em erro na análise da tempestividade do recurso manejado quando também não analisou a certidão de tempestividade que repousa nos autos (e-STJ Fl.620) (fls. 703/704).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 8.8.2018; AgInt nos EDcl no AREsp 1421854/RJ, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 3.6.2019.
+É certo que feriado nacional não precisa ser comprovado. Porém, o dia 22.3.2024 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC (redação anterior à Lei n. 14.939/2024).
+Ressalte-se que em observância ao princípio do tempus regit actum, o entendimento da Lei n. 14.939/2024 só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+No mais, v eja que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n. 2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
