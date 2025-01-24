@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+REVISÃO CRIMINAL. NULIDADE PROCESSUAL. RECEBIMENTO DA DENÚNCIA. NÃO CONHECIMENTO. MATÉRIA NÃO DEBATIDA DURANTE A PERSECUÇÃO CRIMINAL, TAMPOUCO EM GRAU RECURSAL ORDINÁRIO. UTILIZAÇÃO DA NULIDADE DE ALGIBEIRA. REVISÃO CRIMINAL NÃO CONHECIDA.
+Não deve ser conhecido pedido de revisão criminal para reconhecer suposta nulidade processual que não foi objeto de recurso de apelação, pois o que se pretende é a alteração de coisa julgada, que apenas se justifica quando a decisão for manifestamente contrária ao texto expresso da lei penal ou à evidência dos autos.
+A arguição tardia de nulidades, apresentada somente em sede de revisão criminal, anos após o trânsito em julgado da condenação, caracteriza a nulidade de algibeira, o que torna a tese insuscetível de enfrentamento, pois atenta contra a lealdade processual, pouco importando a modificação da representação judicial da parte.
+O paciente foi condenado à pena de 01 ano e 08 meses de reclusão, em regime inicial aberto, e ao pagamento de 17 dias-multa pela prática dos crimes previstos nos arts. 304 e 299 do Código Penal.
+A defesa alega, em síntese, ausência de fundamentação devida na decisão de recebimento da denúncia, em afronta ao art. 93, IX, da Constituição Federal, circunstância que configuraria a nulidade absoluta apta a justificar o cabimento da ação revisional.
+Ao final, requer a concessão da ordem para "determinar que o TJRO, por meio das Câmaras Criminais Reunidas, conheça da Revisão Criminal julgando, pois, o mérito da aludida ação revisional" (e-STJ fl. 06).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, considerando que o acórdão impugnado está de acordo com a jurisprudência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO CONFIRMADA EM APELAÇÃO. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. PRECLUSÃO DA MATÉRIA. FLAGRANTE APONTADO COMO ILEGAL OCORRIDO HÁ MAIS DE 12 ANOS. CONDENAÇÃO QUE TRANSITOU EM JULGADO HÁ MAIS 9 ANOS. NULIDADE NÃO APONTADA NO MOMENTO OPORTUNO. ILEGALIDADE MANIFESTA NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, somente mais de 12 anos após a suposta ocorrência da apontada nulidade e mais de 9 anos após o trânsito em julgado da condenação, foi impetrado o mandamus, o qual não pode ser conhecido, em decorrência da preclusão da matéria, que sequer foi suscitada durante o curso do processo ou em recurso de apelação, tendo sido questionada somente em sede de revisão criminal interposta 11 anos após o ato apontado como nulo. Assim, inadmissível a desconstituição de ato ocorrido há mais de 12 anos, sem que a defesa tenha manifestado sua irresignação no momento oportuno.
+2. Com efeito, em respeito à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça - STJ tem se orientado no sentido de que as nulidades ainda denominadas absolutas, bem como qualquer outra falha ocorrida no julgamento do acórdão atacado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 732.335/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/11/2022, DJe de 17/11/2022, grifos acrescidos )
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
