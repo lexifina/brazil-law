@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DAMMES LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: declaratória c/c indenização por danos morais ajuizada pela agravante, em face de HORTIFRUTI J.J. LTDA, em razão de contrato de compra e venda verbal firmado entre as partes.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Apelação Cível. Ação de declaração de inexistência de débito c/c cancelamento de protesto e indenização por danos morais. Produto alimentício impróprio para o consumo. Estragos verificados após a chegada no destino final. Culpa da vendedora não comprovada. Sentença Mantida. A inspeção/conferência da mercadoria no momento da aquisição, pela compradora responsável pelo transporte, é indispensável para se estabelecer se a perda do produto ocorreu antes ou depois da tradição (art. 441, CC). Não provado que o produto foi adquirido já deteriorado, inviável a responsabilização da vendedora pelos danos decorrentes da negociação. Apelação Cível Conhecida e Desprovida. (e-STJ, fl. 411)
+Decisão de admissibilidade do TJ/GO: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não cabimento de recurso especial por violação a normas constitucionais; ii) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) não se pretende, com o presente recurso, reexame do conjunto fático-probatório"; ii) "Diferentemente do que assevera na decisão agravada, o que se almeja com este recurso é fazer jus ao direito da Agravante de empregar todos os meios legais, bem como os moralmente legítimos, para provar a verdade dos fatos em que se funda o pedido e influir eficazmente na convicção do juiz, conforme assegura o artigo 369 e 373 do Código de Processo Civil."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) não cabimento de recurso especial por violação a normas constitucionais; ii) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 20 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
