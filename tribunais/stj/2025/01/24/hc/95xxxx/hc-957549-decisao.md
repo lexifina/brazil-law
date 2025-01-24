@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de FABRICIO DE SOUZA ALMEIDA - preso preventivamente pela prática, em tese, dos crimes de tráfico de drogas, associação para o mesmo fim e posse ilegal de arma de fogo de uso restrito -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE RORAIMA (Habeas Corpus n. 9002274-25.2024.8.23.0000), encontra-se prejudicado.
+Busca a impetração a revogação da prisão cautelar imposta pelo Juízo de Direito do Núcleo de Plantão Judicial e Audiências de Custódia (NUPAC) - competência criminal - da comarca de Boa Vista, ao argumento de excesso de prazo na formação da culpa e de falta dos requisitos fumus comissi delicti e periculum libertatis para amparar a decretação da prisão preventiva do paciente.
+Ocorre que, em consulta realizada na página eletrônica do Tribunal de Justiça local, obtive a informação de que, na data de 17/12/2024, o Juízo de Direito da Vara de Entorpecentes e Organizações Criminosas da comarca de Boa Vista/RR julgou procedente a pretensão punitiva estatal para condenar o ora paciente à pena de 6 anos, 11 meses e 20 dias de reclusão, e ao pagamento de 395 dias-multa no valor de 1/30 do salário mínimo vigente à é poca dos fatos, em regime inicial semiaberto, facultando-lhe o direito de recorrer em liberdade, fato que esgota as pretensões contidas na presente impetração, dada a superveniente alteração do cenário fático-processual.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. DIREITO DE RECORRER EM LIBERDADE CONCEDIDO. PERDA DO OBJETO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL.
+Writ prejudicado.
