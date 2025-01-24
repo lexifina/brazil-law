@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de requerimento de homologação de decisão estrangeira formulado por PRODIGY FINANCE CM2021-1 DAC em face de RAFAEL SCOVINI VENTURA CAMPOS, com o fim de homologar sentenças arbitrais proferidas no Reino Unido, pelo Instituto Legal de Árbitros, que condenaram o requerido ao pagamento dos valores decorrentes de dois contratos de empréstimos, celebrados entre as partes, para financiamento de seus estudos na The Booth School of Business, na cidade de Chicago, Estados Unidos da América.
+A requerente sustenta, em síntese, que estão preenchidos os requisitos exigidos pela legislação brasileira e pugna pela homologação da decisão estrangeira para que produza seus efeitos em território nacional.
+O requerido apresentou contestação às e-STJ fls. 253/260, asseverando que: i) o réu jamais foi citado para o processo arbitral no Reino Unido, sendo-lhe cerceada a ampla defesa e o contraditório, bem como nula a revelia decretada; ii) a autora não comprovou a validade da citação por cartas enviadas por empresas privadas, à luz da lei britânica; iii) a cláusula contratual que obrigava a arbitragem é nula à luz do CDC; iv) a matéria discutida (relação de consumo) não pode ser discutida em sede arbitral, à luz da lei brasileira e; v) há flagrante violação à dignidade da pessoa humana, pois os custos impingidos ao réu para se defender no Reino Unido tornavam impossível o exercício da ampla defesa e do contraditório.
+A requerente apresentou réplica às e-STJ fls. 277/283, sustentando que a citação da parte requerida foi válida, bem como que não houve ofensa à dignidade da pessoa humana.
+O requerido deixou de apresentar tréplica no prazo legal, conforme certidão de e-STJ fl. 319.
+O Ministério Público Federal ofertou parecer pela procedência do pedido (e-STJ fls. 331/339).
+É o relatório.
+DECIDO.
+O pedido merece deferimento.
+Trata-se de título arbitral estrangeiro, oriundo do Reino Unido, que fixou condenação para o pagamento de dívida oriunda de contratos firmados entre as partes.
+Conforme a jurisprudência do Superior Tribunal de Justiça, é passível de homologação tanto da decisão judicial definitiva estrangeira quanto da decisão não judicial estrangeira que, pela lei brasileira, teriam natureza jurisdicional.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA HOMOLOGAÇÃO DE DECISÃO ESTRANGEIRA. ACORDO TRABALHISTA. TÍTULO FORMADO PERANTE ÓRGÃO DO PODER EXECUTIVO. DECISÕES NÃO JUDICIAIS. POSSIBILIDADE DE HOMOLOGAÇÃO. ART. 963, § 1º, DO CPC/2015 E ART. 216-A DO RISTJ. REQUISITOS DE VALIDADE DO ATO. DISPOSIÇÕES DO PAÍS DE ORIGEM. ART. 9º DA LINDB. VIOLAÇÃO DE ORDEM PÚBLICA. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, a requerente (parte ora agravada) afirma ter sido demandada no Brasil pelo requerido (ora agravante) em uma reclamatória trabalhista. A agravada defende que as verbas pleiteadas já foram quitadas pelo acordo que agora visa homologar. Afirma não ter sido parte na transação, mas que o objeto desse ato envolve diretamente as verbas pleiteadas na reclamatória proposta pelo ora agravante.
+Não há nulidade nestes autos a ser reconhecida por vício de citação, pois o requerido se apresentou de forma espontânea e supriu o vício alegado
+2. O requerido afirmou que o documento juntado pela parte requerente não é sentença estrangeira, mas um acordo firmado por órgão vinculado ao Poder Executivo. Contudo, o art. 961, § 1º, do CPC/2015 contempla a homologação de decisões não judiciais que, pela lei brasileira, teriam natureza jurisdicional.
+3. Infere-se dos autos que o título apresentado à homologação foi proferida por autoridade competente na Argentina e a sua natureza, aqui no Brasil, seria de título executivo.
+4. Por força do art. 9º da LINDB, a validade do ato estrangeiro não pode ser aferida à luz das normas brasileiras, mas sim daquelas vigentes no país de origem. Precedentes.
+5. Além disso, como salientado na impugnação ao agravo interno, não se vê mácula na dispensa da chancela consular por força dos arts.
+17, 18 e 23, todos do Dec. n. 1.560/1995.
+6. Não se observa máculas na ordem pública brasileira com a homologação desse título. Acordos trabalhistas são admissíveis no território pátrio. Além disso, as obrigações assumidas entre as partes foram constituídas e cumpridas na Argentina, que, conforme indicado nos autos, permite a celebração de acordo trabalhista por ato administrativo do Poder Executivo.
+7. Agravo interno não provido.
+(AgInt na HDE n. 6.900/EX, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 23/4/2024, DJe de 26/4/2024).
+Por seu turno, a homologação de decisão estrangeira é devida quando atendidos os seguintes requisitos: i) instrução da petição inicial com o original ou cópia autenticada da decisão e de outros documentos indispensáveis, devidamente traduzidos por tradutor oficial ou juramentado no Brasil e chancelados pela autoridade consular brasileira; ii) ter sido proferida por autoridade competente; iii) citação regular das partes ou verificação legal da revelia; iv) ter transitado em julgado; e v) obediência à soberania, dignidade da pessoa humana é à ordem pública.
+Nesse sentido:
+"DIREITO INTERNACIONAL PRIVADO. PROCESSUAL CIVIL. SENTENÇA ARBITRAL ESTRANGEIRA CONTESTADA ORIUNDA DE CORTE ARBITRAL DA REPÚBLICA POPULAR DA CHINA. ARTS. 15 E 17 DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO. ARTS. 960 E SEGUINTES DO CPC/2015. ARTS. 216-C, 216-D E 216-F DO RISTJ. REQUISITOS ATENDIDOS. PEDIDO DE HOMOLOGAÇÃO DE SENTENÇA ESTRANGEIRA DEFERIDO.
+1. A homologação de decisões estrangeiras pelo Poder Judiciário possui previsão na Constituição Federal de 1988 e, desde 2004, está outorgada ao Superior Tribunal de Justiça, que a realiza com atenção aos ditames dos arts. 15 e 17 do Decreto-Lei n. 4.657/1942 (LINDB), do Código de Processo Civil de 2015 (art. 960 e seguintes) e 216-A e seguintes do RISTJ.
+2. Os requisitos legais e regimentais para o deferimento do pedido são: (i) instrução da petição inicial com o original ou cópia autenticada da decisão homologanda e de outros documentos indispensáveis, devidamente traduzidos por tradutor oficial ou juramentado no Brasil, e chancelados por autoridade consular brasileira; (ii) haver sido a sentença proferida por autoridade competente; (iii) terem as partes sido regularmente citadas ou haver-se legalmente verificado a revelia; (iv) ter a sentença transitado em julgado; e (v) inexistir ofensa à soberania, à dignidade da pessoa humana e/ou à ordem pública.
+3. Contestação que defende a ocorrência de inépcia e prescrição no feito que originou a decisão homologanda, aspectos relativos ao mérito do título que se pretende homologar e que escapam à estreita via do juízo de delibação, sufragado pelo sistema brasileiro. Precedentes do STJ.
+4. Valor atribuído à causa irrisório, devendo ser fixado em R$ 100.000,00 (cem mil reais) para corresponder às características do procedimento homologatório, que não se confunde com a eventual execução da decisão e não possui índole condenatória.
+5. Requisitos legais atendidos quanto à prova da citação do requerido no processo estrangeiro, ao trânsito em julgado e ao fato de estar a decisão devidamente autenticada por autoridade consular brasileira e com tradução oficial e/ou juramentada.
+6. Pedido de homologação de sentença estrangeira deferido."
+(HDE n. 4.189/EX, relator Ministro Og Fernandes, Corte Especial, julgado em 3/8/2022, DJe de 17/8/2022).
+No presente caso, verifica-se que foram cumpridos todos os requisitos exigidos pela legislação nacional.
+O Ministério Público Federal destacou que a sentença estrangeira reúne as condições necessárias para o deferimento da pretensão e que os documentos foram devidamente apresentados nos autos, inclusive no tocante à regularidade da citação no procedimento arbitral (e-STJ fl. 337/339):
+"(..)
+Na espécie, para fins de comprovação do requisito formal de ter havido citação regular no processo arbitral estrangeiro, a requerente juntou diversos e-mails ao requerido, além de comprovantes de envio e recebimento de serviço de courier DHL, demonstrando que o requerido foi previamente notificado para responder aos termos da arbitragem, o que satisfaz a exigência do art. 963, inciso II, do Código de Processo Civil de 2015, e do art. 216-D, inciso II, do Regimento Interno do Superior Tribunal de Justiça, conforme diretriz dos seguintes precedentes:
+(..)
+Nessas condições, presentes os requisitos, o Ministério Público Federal manifesta-se pela procedência da ação de homologação do título arbitral estrangeiro."
+Ademais, tratando-se de sentença arbitral estrangeira, a recusa de homologação somente seria possível diante de alguma das situações previstas nos arts. 38 e 39 da Lei nº 9.307/1996, o que não ocorre no caso dos autos.
+Eventuais nulidades do contrato celebrado entre as partes são matérias estranhas ao procedimento de homologação, que se restringe à verificação dos aspectos formais da sentença estrangeira.
+O requerido não demonstrou qualquer incompatibilidade entre o procedimento de citação e as normas alienígenas, ao passo que a requente apontou expressamente as regras legais estrangeiras e as normas contratuais aplicáveis ao caso (e-STJ fls. 7-9).
+Finalmente, a suposta dificuldade de defesa perante órgãos estrangeiros não caracteriza violação à dignidade da pessoa humana, até porque o requerido celebrou voluntariamente o contrato de financiamento com uma instituição irlandesa.
+Ante o exposto, julgo procedente o pedido de homologação da sentença estrangeira, condenando o requerido ao pagamento de honorários advocatícios no valor de R$ 3.000,00 (três mil reais), nos termos do art. 85, § 2º, do CPC, observado o benefício da gratuidade.
+Publique-se.
+Intimem-se.
+EMENTA
