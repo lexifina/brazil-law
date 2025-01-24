@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Carlos Henrique Silva Rodrigues contra a decisão monocrática da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente a impetração, considerando a consonância do acórdão com a jurisprudência desta Corte Superior (fls. 493/495).
+O agravante alega, em síntese, que estava em gozo do regime aberto desde 2022, tendo sido imposta mais uma medida cautelar, o monitoramento eletrônico, sem a devida fundamentação.
+Sustenta que as limitações decorrentes do uso de tornozeleira eletrônica causam embaraço ao seu exercício profissional de caminhoneiro.
+Destaca que a monitoração eletrônica só pode ser imposta por prazo determinado, não pelo longo tempo requerido pelo Ministério Público.
+Aduz não ter sido condenado por crime praticado com violência ou grave ameaça.
+Pede o provimento do agravo para que seja concedido o habeas corpus (fls. 500/513).
+É o relatório.
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, entendo assistir razão ao agravante.
+O Tribunal local manteve a imposição do monitoramento eletrônico aos seguintes termos (fl. 23):
+Conforme se verifica da decisão acima transcrita, esta foi adequadamente motivada, seja porque houve requerimento da Secretaria de Segurança Pública do Estado de São Paulo (vide fls. 264/266 dos autos do PEC), seja porque, conforme bem destacado pelo d. juízo a quo, a medida de monitoramento eletrônico não acarreta nenhum prejuízo ao apenado que deseja fielmente cumprir as condições impostas quando do deferimento do benefício.
+De fato, como salientado na decisão agravada, não há desproporcionalidade na imposição de monitoramento eletrônico ao apenado em regime aberto, nos termos do art. 116 da Lei de Execução Penal.
+Nesse sentido:
+PENAL E PROCESSO PENAL. EXECUÇÃO. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. VIA INADEQUADA. POSSIBILIDADE. VERIFICAR FLAGRANTE ILEGALIDADE. REGIME ABERTO. REQUISITOS LEGAIS. ESTABELECIMENTO DE CONDIÇÕES ESPECIAIS. POSSIBILIDADE. LEI DE EXECUÇÃO PENAL FACULTA. FUNDAMENTAÇÃO INADEQUADA. FLAGRANTE ILEGALIDADE CONSTATADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. DECISÃO AGRAVADA MANTIDA.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - Conforme disciplina a Lei de Execuções Penais, para o cumprimento da pena no regime aberto, o apenado deverá preencher os requisitos legais previstos no art. 114 e aceitar as condições gerais e obrigatórias do art. 115.
+III - Todavia, conforme disciplina a Lei de Execuções Penais, para o cumprimento da pena no regime aberto, o apenado deverá preencher os requisitos legais previstos no art. 114 e aceitar as condições gerais e obrigatórias do art. 115.
+IV - Além dessas condições gerais e obrigatórias, o Juízo poderá estipular condições especiais para a concessão do regime aberto, bem como "Art. 116. O Juiz poderá modificar as condições estabelecidas, de ofício, a requerimento do Ministério Público, da autoridade administrativa ou do condenado, desde que as circunstâncias assim o recomendem".
+V - O julgador, ao impor condições além das gerais e obrigatórias previstas em lei, deverá buscar o justo equilíbrio entre comportamento atual do apenado e as condições especiais a serem impostas, demonstrando, fundamentadamente, a necessidade, adequação e proporcionalidade da medida, em obediência ao princípio da individualização da pena, insculpido no art. 5º, XLV e XLVI, da Constituição Federal.
+VI - Na hipótese, a instância antecedente manteve o uso de tornozeleira eletrônica considerando a gravidade dos delitos e o tempo de pena a cumprir, deixando de demonstrar, fundamentadamente, a necessidade, adequação e proporcionalidade da medida com relação ao comportamento carcerário do apenado, não a individualizando diante das particularidades do caso concreto e, em consequência, não apresentando motivação validade para a manutenção da medida.
+VII - O acórdão combatido está destoante da legislação de regência e do entendimento desta Corte, vislumbrando a existência de flagrante ilegalidade, motivo pelo qual, embora não conhecendo do habeas corpus, foi concedida a ordem, de ofício, a fim de cassar o acórdão impugnado e a decisão do Juízo de Execução Penal de Sabará (MG), determinando que seja proferida nova decisão, estabelecendo condições especiais ao apenado, nos termos da fundamentação desta decisão.
+Agravo regimental desprovido.
+(AgRg no HC n. 760.406/MG, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 4/11/2022 - grifo nosso).
+No entanto, a ilegalidade no caso deriva da ausência de motivação concreta na imposição da medida.
+No caso, o Tribunal local fundamentou a medida nos seguintes termos (fl. 22):
+No caso dos autos, o representante do Ministério Público, após solicitação da Secretaria de Segurança Pública do Estado de São Paulo (SSP), requereu a imposição ao executado de uma nova condição ao regime aberto, consistente no monitoramento eletrônico. Fundamenta sua pretensão alegando que os sentenciados que cumprem pena em livramento condicional ou regime aberto, como é o caso, sofrem fiscalização mínima, consistente, basicamente, no comparecimento periódico ao cartório judicial e que o Estado-juiz não tem nenhum conhecimento acerca das atividades do sentenciado ao longo do intervalo entre os comparecimentos. Além disso, a medida seria necessária para o combate ao crime organizado e à criminalidade de massa, levando-se em conta, especialmente, o fato da região da Baixada Santista viver um momento grave na questão de segurança pública, principalmente para os policiais (civis, militares e federais) que atuam na região, expostos diariamente a confrontos armados com criminosos vinculados a organizações criminosas.
+No caso, a imposição do monitoramento eletrônico não foi acompanhada de fundamentação concreta, pois não se assentou em nenhum fundamento interno à execu ção relativo ao comportamento atual do ora agravante, mas apenas no contexto da segurança pública da baixada santista e no grau de fiscalização do regime aberto.
+Ante o exposto, dou provimento ao agravo regimental para, reconsiderando a decisão de fls. 493/495, conceder a ordem para revogar a imposição do monitoramento eletrônico.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. IMPOSIÇÃO DE MONITORAMENTO ELETRÔNICO. ART. 116 DA LEP. POSSIBILIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL VERIFICADO. DECISÃO RECONSIDERADA.
+Agravo regimental provido para, reconsiderada a decisão agravada, conceder a ordem.
