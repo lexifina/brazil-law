@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de RAFAEL BATISTA DE ASSIS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, por acórdão proferido no julgamento da Revisão Criminal n. 0052622-69.2022.8.16.0000.
+Consta dos autos que o Tribunal estadual julgou improcedente o pedido revisional manejado na origem, preservando a condenação do paciente às penas de 9 anos e 4 meses de reclusão e de pagamento de 933 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+A impetrante sustenta que a condenação imposta ao paciente seria inválida, porque não teria sido realizado o laudo toxicológico para fins de comprovação da materialidade delitiva.
+O parecer do Ministério Público Federal é pelo não conhecimento do writ.
+É o relatório.
+Após exame detalhado dos elementos constantes do processo e consulta ao sistema processual do Tribunal de origem, verifica-se que o presente habeas corpus foi impetrado simultaneamente ao recurso especial interposto pelo paciente contra acórdão que julgou a revisão criminal de que tratam os autos.
+Contudo, a jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recursos e habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da unirrecorribilidade.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. Hipótese em que houve a interposição de recurso especial na origem e, na sequência, do respectivo agravo, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.633/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024, grifo próprio.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PRECEDENTES DO STF E STJ. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. MEDIDAS CAUTELARES. CONSTRANGIMENTO ILEGAL. SUPRESSÃO DE INSTÂNCIA. PEDIDO SUBSIDIÁRIO. INOVAÇÃO RECURSAL. INADMISISBILIDADE. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não bastasse o mencionado entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame constata-se que o presente habeas corpus tramita em paralelo ao recurso especial interposto em face do acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade.
+ ..
+5. Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no HC n. 880.190/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024, grifo próprio.)
+Ademais, pelo que se observa do acórdão impugnado, o Tribunal estadual assegura que estão comprovadas a materialidade e a autoria delitivas (fls. 22-24).
+Consignou-se que a responsabilidade criminal do paciente em relação aos fatos imputados decorre das conclusões alcançadas pelas instâncias antecedentes, a partir dos elementos de convicção extraídos dos autos, da quantidade expressiva de substância entorpecente apreendida, da forma de acondicionamento da droga, bem como da prova oral produzida sob o crivo do contraditório.
+Nesse contexto, mostra-se inviável o acolhimento da pretensão absolutória, por ausência de provas idôneas para a condenação decretada, haja vista a inviabilidade de amplo revolvimento de matéria fático-probatória nesta estreita via processual.
+A esse respeito, "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL E SIMULTÂNEA IMPETRAÇÃO DE HABEAS CORPUS. NÃO CONHECIMENTO.
