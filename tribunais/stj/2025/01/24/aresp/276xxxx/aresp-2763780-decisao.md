@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIVERSO ONLINE S/A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: indenização por danos morais ajuizada por ANSELMO ALVES BOA SORTE, em face da agravante e outros, em virtude de matéria jornalística que teria maculado a imagem do agravado.
+Sentença: julgou parcialmente procedente o pedido para condenar a agravante ao pagamento de R$ 10.000,00 (dez mil reais) a título de danos morais.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+PROCESSO CIVIL. APELAÇÕES SIMULTÂNEAS AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA PARCIALMENTE PROCEDENTE. NOTÍCIA VEICULADA INFORMANDO QUE O RECORRIDO FORA DETIDO E POSTERIOR ENCAMINHAMENTO AO PRESÍDIO DE VITÓRIA DA CONQUISTA (BA) EM OPERAÇÃO DA POLÍCIA FEDERAL. NOTÍCIA INVERÍDICA. DANO MORAL CONFIGURADO. DEVER DE CAUTELA. RESPONSBILIDADE OBJETIVA. REDUÇÃO DO QUANTUM ARBITRADO À TÍTULO DE DANOS MORAIS. IMPOSSIBILIDADE. VALOR FIXADO COM BASE NOS CRITÉRIOS DE PROPORCIONALIDADE E RAZOABILIDADE. APELOS CONHECIDOS E IMPROVIDOS. SENTENÇA MANTIDA. (e-STJ, fl. 264)
+Decisão de admissibilidade do TJ/BA: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação do art. 1022 do CPC; ii) necessidade de reexame de fatos e provas (Lei 12.965/14); iii) necessidade de reexame de fatos e provas (arts. 186, 187 e 927 do CC).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) restou devidamente comprovada a violação do art. 1022 do CPC; ii) "Todas as questões trazidas a esta corte são exclusivamente de direito, não havendo pretensão, por parte do agravante, de reexame de provas ou fatos. Não se busca aqui a reformulação da verdade processual, mas unicamente a discussão sobre a conformidade do acórdão recorrido ao Código de Processo Civil."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de fatos e provas (Lei 12.965/14); ii) necessidade de reexame de fatos e provas (arts. 186, 187 e 927 do CC).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 12% os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
