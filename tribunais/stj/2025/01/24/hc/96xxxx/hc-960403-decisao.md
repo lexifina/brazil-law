@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ substitutivo de recurso próprio, impetrado em benefício de FRANCISCO WELLISON BELMINO DA SILVA - preso preventivamente pela prática, em tese, do crime de tráfico de drogas, associação para o tráfico e resistência -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Habeas Corpus n. 0634290-13.2024.8.06.0000), não comporta acolhimento.
+Com efeito, busca a impetração o relaxamento da prisão cautelar imposta ao paciente pelo Juízo de Direito da Vara Única Criminal da comarca de Aquiraz/CE (Autos n. 0203465-48.2024.8.06.0293), ao argumento de excesso de prazo para o término da instrução criminal pois, no presente caso, configura demora inadmissível, pois se trata do cerceamento da liberdade sem o devido processo legal, uma vez que a custódia cautelar se prolonga por mais de 184 (cento e oitenta e quatro) dias, sem ter sido realizada audiência de instrução e julgamento, extrapolando qualquer juízo de razoabilidade (fl. 7).
+Inicialmente, registro que esta Corte já assentou posicionamento no sentido de que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício (AgRg no HC n. 779.155/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/2/2023).
+Ocorre que, do atento exame dos autos, não verifiquei coação ilegal decorrente do elastecimento da marcha processual.
+O paciente se encontra preso preventivamente desde o dia 11/5/2024. E, diante do andamento processual, constato que inexiste desídia do Judiciário no impulsionamento da ação penal, que, inclusive, encontra-se em fase de apresentação das defesas preliminares, conforme consulta à página eletrônica do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, além de se tratar de feito complexo, com pluralidade de acusados (três réus) com defensores distintos e vários fatos delituosos a apurar (homicídio qualificado tentado, tráfico de drogas, associação para o tráfico e resistência).
+A propósito:
+ ..
+3. Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado. Precedentes.
+ ..
+(AgRg no RHC n. 186.668/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 22/10/2024).
+Nesse sentido também foi o parecer do Ministério Público Federal, dispondo que, embora se deva observar o princípio constitucional da razoável duração do processo, que impõe ao Estado o dever de zelar pela célere prestação jurisdicional, especialmente no caso de prisão cautelar, não se vislumbra, no caso em questão, manifesto constrangimento ilegal, passível de ser sanado pelo presente recurso, uma vez que não houve nenhum elemento indicativo de negligência no processamento da ação penal (fl. 71).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E RESISTÊNCIA. PRISÃO CAUTELAR. EXCESSO DE PRAZO. FEITO COMPLEXO, AUSÊNCIA DE DESÍDIA DO JUDICIÁRIO E TRAMITAÇÃO REGULAR. RAZOABILIDADE. OBSERVÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
