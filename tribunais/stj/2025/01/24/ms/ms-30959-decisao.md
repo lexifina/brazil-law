@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de Mandado de Segurança impetrado por ADRIANO CARVALHO DA ROCHA contra ato atribuído ao Comandante da Marinha.
+Diz o impetrante, advogado, que "vem sofrendo violações de suas prerrogativas funcionais ao adentrar nas OM, especialmente na Marinha, que adota condutas restritivas ao ingresso nas OM de aparelhos celulares, incluindo de advogados, que são forçados a deixarem seus celulares acautelados sob a responsabilidade dos militares, pois, somente assim, podem ingressar nas unidades e atuar em prol da defesa de seus clientes militares" (fl. 4).
+Requereu, liminarmente e no mérito, que "o Impetrado se abstenha de constranger o Impetrante/Advogado de exercer sua atividade profissional de forma livre, plena e irrestrita, dando-lhe acesso a todos os autos de procedimentos administrativos em que seus clientes estejam envolvidos, abstendo-se de constranger o Impetrante a entregar seu celular nas portarias das OM bem como de impedi-lo de realizar gravações dos atos administrativos que devem ser publicizados e transparentes, permitindo-lhe pleno acesso às dependências administrativas das unidades militares da Marinha, dentro ou fora do expediente, sendo atendido, de forma digna e cortês, longe das intempéries, do calor extremo e protegido da chuva, em local reservado a fim de preservar o sigilo da atividade profissional, pelo comandante ou diretor, imediato ou vice-diretor durante o expediente ou por qualquer servidor militar que se ache presente, fora do expediente" (fl. 21).
+É o relatório.
+Decido.
+O entendimento desta Corte Superior é no sentido de que, "para efeito de definição da legitimidade passiva ad causam no mandado de segurança, autoridade coatora é aquele que pratica o ato vergastado e que detém, por isso mesmo, capacidade para seu desfazimento" (AgRg no RMS n. 39.566/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 4.12.2013). No mesmo sentido: EDcl no RMS n. 55.062/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/11/2018, DJe de 17/12/2018.
+No caso, apesar de indicar como autoridade coatora o Comandante da Marinha, o impetrante não apresentou nenhum ato concreto por ele praticado. Juntou aos autos, tão somente, atos normativos editados pelo Diretor-Geral da Marinha e cópia de documentos em que se indeferem requerimentos formulados pelo advogado, subscritos pelo Capitão de Mar e Guerra.
+Ante o exposto, com fundamento no art. 212 do RISTJ, indefiro liminarmente este Mandado de Segurança.
+Publique-se.
+Intimem-se.
+EMENTA
