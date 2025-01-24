@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREFISA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+A agravante alega que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação de revisão de cláusulas contatuais.
+O julgado foi assim ementado (fls. 623-624):
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATO. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+RECURSO DO BANCO RÉU.
+ADMISSIBILIDADE.
+ALEGADA NULIDADE DA PROCURAÇÃO EM RAZÃO DA UTILIZAÇÃO DE ASSINADOR DIGITAL NÃO CREDENCIADO JUNTO AO ICPBRASIL. NÃO CONHECIMENTO. INOVAÇÃO RECURSAL. TESE QUE SEQUER FOI ANALISADA PELO JUÍZO A QUO.
+PRELIMINAR.
+NULIDADE DA SENTENÇA, SOB O FUNDAMENTO DA AUSÊNCIA DE FUNDAMENTAÇÃO. NULIDADE AFASTADA. DECISÃO DEVIDAMENTE FUNDAMENTADA. PREJUDICIAL AFASTADA.
+PLEITO OBJETIVANDO A EXPEDIÇÃO DE OFÍCIO AO NUMOPEDE, À OAB/SC E À DELEGACIA DE POLÍCIA LOCAL. INACOLHIMENTO. AUSÊNCIA DE INDÍCIOS DE QUE A DEMANDA É FRAUDULENTA OU PREDATÓRIA. ADEMAIS, PROVIDÊNCIA QUE PODE SER EFETIVADA PELA PRÓPRIA PARTE. DESNECESSIDADE DE INTERVENÇÃO DO PODER JUDICIÁRIO.
+ALEGADA PRESCRIÇÃO. TESE AFASTADA. INCIDÊNCIA, NO CASO CONCRETO, DO PRAZO DECENAL. CONTRATOS CELEBRADOS A PARTIR DE 2014. PRESCRIÇÃO NÃO CARACTERIZADA.
+ALEGADA INVALIDADE DA PROCURAÇÃO OUTORGADA PELA PARTE AUTORA. INSUBSISTÊNCIA. INSTRUMENTO OUTORGADO À SOCIEDADE DE ADVOGADOS, BEM COMO AOS PROCURADORES DE FORMA INDIVIDUAL. AUSÊNCIA DE VÍCIO. PRECEDENTES.
+JUROS REMUNERATÓRIOS. ÍNDICES EXPRESSOS QUE FICAM MUITO ACIMA DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN. OBSERVÂNCIA DA ORIENTAÇÃO FIRMADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP. N. 1.061.530/RS, JULGADO NO SISTEMA REPRESENTATIVO DE CONTROVÉRSIA. TAXA MÉDIA DE MERCADO ESTABELECIDA PELO BANCO CENTRAL DO BRASIL QUE SERVE COMO REFERÊNCIA, NÃO COMO MEDIDA LIMITADORA PARA FIXAÇÃO DA TAXA DE JUROS REMUNERATÓRIOS. NECESSÁRIA ANÁLISE INDIVIDUAL DE CADA CASO, OBSERVANDO AS CARACTERÍSTICAS DO CONTRATO. EXISTÊNCIA DE ONEROSIDADE EXCESSIVA. LIMITAÇÃO À TAXA MÉDIA DE MERCADO ACERTADA.
+ILEGALIDADE DA REPETIÇÃO. DESPROVIMENTO. REPETIÇÃO DO INDÉBITO PLENAMENTE VIÁVEL, PORQUANTO DECORRENTE DO RECONHECIMENTO DE ABUSIVIDADES NAS CLÁUSULAS CONTRATADAS.
+RECURSO DA PARTE AUTORA.
+INCIDÊNCIA DOS JUROS DE MORA A SER FIXADO A PARTIR DA DATA DO EVENTO DANOSO. AFASTAMENTO. CORREÇÃO MONETÁRIA QUE DEVE INCIDIR DESDE O DESCONTO INDEVIDO E JUROS MORATÓRIO DE 1% A. M. EXIGÍVEIS A CONTAR DA CITAÇÃO.
+HONORÁRIOS ADVOCATÍCIOS. PARTE AUTORA QUE PUGNA PELA SUA FIXAÇÃO POR EQUIDADE. ACOLHIMENTO EM PARTE. ILIQUIDEZ DO PROVEITO ECONÔMICO QUE AUTORIZA A FIXAÇÃO DA VERBA HONORÁRIA POR EQUIDADE, NA FORMA DO § 8º DO ART. 85 DO CPC. TODAVIA, IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 85, § 8º-A, DO CPC EM RAZÃO DA AUSÊNCIA DE COMPLEXIDADE DA CAUSA E REDUZIDO PROVEITO ECONÔMICO. PRECEDENTES.
+RECURSO DO AUTOR CONHECIDO E PARCIALMENTE PROVIDO.
+RECURSO DO BANCO CONHECIDO EM PARTE E NESTA DESPROVIDO.
+Nas razões do recurso especial, a ora agravante aponta, além de dissídio jurisprudencial, violação do art. 421 do Código Civil.
+Sustenta que os contratos são plenamente válidos, tratando-se de atos jurídicos perfeitos, por isso constituem lei entre as partes, razão pela qual é descabida sua invalidação.
+Argumenta que o Tribunal de origem reconheceu a abusividade dos juros remuneratórios mediante simples cotejo com a taxa média de mercado publicada pelo Bacen, ausente análise individualizada das peculiaridades do caso concreto, contrariamente ao decidido no REsp n. 1.061.530/RS.
+Pleiteia a atribuição de efeito suspensivo ao recurso especial para que seja evitada a prática de atos executórios, ao argumento de que a pretensão recursal é plausível e de que a imediata produção de efeitos da decisão recorrida representa risco de prejuízo de difícil reparação.
+Requer o provimento do recurso e a inversão dos ônus de sucumbência caso a demanda seja provida.
+Contrarrazões não foram apresentadas.
+É o relatório. Decido.
+O recurso merece prosperar em parte.
+I - Juros remuneratórios
+A Segunda Seção do STJ, no Recurso Especial n. 1.061.530/RS, processado segundo o rito previsto no art. 543-C do CPC de 1973, consolidou o entendimento de que as instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulados na Lei de Usura; de que aos contratos de mútuo bancário não se aplicam as disposições do art. 591 c/c o art. 406, ambos do CC de 2002; e de que a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Dessa forma, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do caso concreto".
+Considerando o entendimento firmado no julgamento do recurso especial repetitivo acima indicado, as Turmas da Segunda Seção do STJ já esclareceram também que a limitação da taxa de juros, com base apenas no fato de estar acima da taxa média de mercado, não encontra respaldo na jurisprudência desta Corte, uma vez que devem ser observados diversos fatores para a revisão da taxa de juros, tais como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+Para melhor compreensão, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS. CAPITALIZAÇÃO DOS JUROS. JUROS COMPOSTOS. MORA NÃO CONFIGURADA. ALEGAÇÃO DE DECISÃO CITRA PETITA. LITISPENDÊNCIA. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ.
+1. A eventual redução da taxa de juros, somente pelo fato de estar acima da média de mercado, sem que seja mencionada circunstância relacionada ao custo da captação dos recursos, à análise do perfil de risco de crédito do tomador e ao spread da operação, apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pelo julgador em relação à taxa média divulgada pelo Bacen - estaria em confronto com a orientação firmada na Segunda Seção desta Corte, nos autos do REsp 1.061.530/RS.
+ ..
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.007.281/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022, destaquei.)
+RECURSO ESPECIAL. CONTRATO DE MÚTUO BANCÁRIO. JUROS REMUNERATÓRIOS. REVISÃO. CARÁTER ABUSIVO. REQUISITOS. NECESSIDADE DE FUNDAMENTAÇÃO ADEQUADA.
+ ..
+4. Deve-se observar os seguintes requisitos para a revisão das taxas de juros remuneratórios: a) a caracterização de relação de consumo; b) a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada; e c) a demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade verificada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas.
+5. São insuficientes para fundamentar o caráter abusivo dos juros remuneratórios: a) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente; b) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e c) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual.
+6. Na espécie, não se extrai do acórdão impugnado qualquer consideração acerca das peculiaridades da hipótese concreta, limitando-se a cotejar as taxas de juros pactuadas com as correspondentes taxas médias de mercado divulgadas pelo BACEN e a aplicar parâmetro abstrato para aferição do caráter abusivo dos juros, impondo-se, desse modo, o retorno dos autos às instâncias ordinárias para que aplique o direito à espécie a partir dos parâmetros delineados pela jurisprudência desta Corte Superior.
+7. Recurso especial parcialmente provido. (REsp n. 2.009.614/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022, destaquei.)
+Acrescente-se que, no julgamento do REsp n. 1.061.530/RS, ficou vencida a proposta da Ministra relatora de estabelecer critérios objetivos para a aferição da abusividade dos juros remuneratórios, mediante a fixação de um teto a partir da taxa média informada pelo Banco Central à época da contratação, prevalecendo o entendimento de impossibilidade de estipulação do teto de juros aceitável com base apenas na taxa média de mercado, devendo a abusividade ser aferida no caso concreto, pois dependente da análise dos diversos fatores acima já indicados.
+Nesse sentido, o seguinte precedente: REsp n. 1.821.182/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/6/2022, DJe de 29/6/2022.
+No caso em apreço, o Tribunal a quo limitou os juros remuneratórios do contrato sub judice à taxa média de mercado divulgada pelo Bacen, porquanto concluiu que a taxa nele pactuada caracterizava abusividade, nestes termos (fls. 616-618, destaquei):
+Sustenta o Banco réu que o contrato é de alto risco, com alto índice de inadimplemento, não podendo os juros remuneratórios serem limitados à Taxa Média, ainda mais por inexistir Lei que determine referida limitação.
+Pois bem.
+ ..
+Quanto à abusividade, denota-se que foram estabelecidas taxas de juros em patamares bem acima da taxa média divulgada pelo Bacen, o que representa abusividade na interpretação assente do Superior Tribunal de Justiça (REsp n. 1.061.530/RS), bem como em relação aos parâmetros adotados por esta Câmara.
+Diante disso, superando, em muito, as taxas fixadas no contrato à média de mercado, a respectiva limitação é devida.
+ ..
+Desta feita, em razão de estar caracterizada a abusividade nos pactos em comento, deve- se incidir a taxa média de mercado do BACEN e não o dobro do referido patamar.
+Assim, o Tribunal de origem limitou-se a afirmar que a taxa de juros remuneratórios foi pactuada acima da taxa média de mercado estipulada pelo Bacen, sem apresentar outros fundamentos a respeito do tema.
+Esse entendimento não está de acordo com a jurisprudência do STJ, considerando que a Corte a quo utilizou como único parâmetro a taxa média de mercado divulgada pelo Banco Central, deixando de analisar efetivamente eventual vantagem exagerada, que justificaria a limitação determinada para o contrato de empréstimo pessoal.
+Dessa forma, é necessário o retorno dos autos ao Tribunal de origem para que, à luz dos requisitos estabelecidos pela jurisprudência do STJ, proceda a novo julgamento, considerando as particularidades do caso concreto e verificando a existência de abusividade dos juros remuneratórios.
+II - Pedido de concessão de efeito suspensivo
+Segundo o art. 1.029, § 5º, I, do CPC, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido: I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo".
+Para análise desse pleito, deve-se conjugá-lo com o que prevê o art. 300 do CPC: "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+Desse modo, o deferimento do pedido de tutela provisória de urgência ou de pedido incidental para a atribuição de efeito suspensivo a recurso especial exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos expendidos no pedido; e o periculum in mora, evidenciado pela possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+No caso, constata-se a presença dos mencionados pressupostos legais, seja em razão da plausibilidade do direito, que decorre do provimento deste agravo em recurso especial, seja em razão da aparente existência de risco de dano à ora agravante, consistente na possibilidade de execução provisória do acórdão recorrido , embora sujeito a eventual alteração de sua parte dispositiva após a realização do novo julgamento na origem.
+III - Conclusão
+Ante o exposto, defiro o pedido de atribuição de efeito suspensivo ao recurso para determinar a suspensão dos efeitos do acórdão recorrido até a data de realização de novo julgamento pelo Tribunal de origem. No mérito, conheço do agravo para dar provimento ao recurso especial, a fim de determinar a devolução dos autos à origem, para que novo julgamento seja realizado, avaliando-se eventual abusividade dos juros remuneratórios de acordo com os parâmetros estabelecidos pela jurisprudência do STJ.
+Publique-se. Intimem-se.
+EMENTA
