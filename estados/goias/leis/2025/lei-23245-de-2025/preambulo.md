@@ -1,0 +1,3 @@
+# LEI Nº 23.245, DE 24 DE JANEIRO DE 2025
+Altera as Leis nº 11.180, de 19 de abril de 1990, nº 12.181, de 03 de dezembro de 1993, nº 12.462, de 8 de novembro de 1994, nº 12.955, de 19 de novembro de 1996, nº 13.194, de 26 de dezembro de 1997, nº 13.246, de 13 de janeiro de 1998, nº 13.453, de 16 de abril de 1999, nº 13.506, de 09 de setembro de 1999, nº 13.591, de 18 de janeiro de 2000, nº 15.719, de 29 de junho de 2006, nº 20.787, de 03 de junho de 2020, nº 21.066, de 22 de julho de 2021, nº 21.555, de 6 de setembro de 2022, e nº 22.490, de 22 de dezembro de 2023, que tratam de matéria tributária.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS , nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
