@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARIA BENEDITA LINHARES LIMA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+PROCESSO CIVIL. CONSTITUCIONAL. APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. NÃO COMPROVAÇÃO DA QUALIDADE DE BENEFICIÁRIO/SUBSTITUÍDO. SINDICATO PRÓPRIO (SINDSAÚDE). NÃO REPRESENTAÇÃO POR SINDICATO ABRANGENTE (SINTSEP). TRANSPORTE IN UTILIBUS DA COISA JULGADA. INAPLICABILIDADE. NÃO PROVIMENTO.
+Quanto à controvérsia aduz ofensa e interpretação divergente ao art. 508 do CPC, no que concerne ao reconhecimento da eficácia preclusiva da coisa julgada atinente à legitimidade ad causam para propositura de execução individual decorrente de ação coletiva, trazendo os seguintes argumentos:
+Em verdade, além de não ocorrer ilegitimidade in casu, como já falado, porém, sem adentrar nesse ponto especificamente por ser uma temática que dependa de análise de provas e fatos, a matéria acolhida pelo Tribunal Estadual, embora se trate, especificamente de legitimidade ad causam, sendo matéria de ordem pública relacionada às condições da ação, este Superior Tribunal de Justiça já se posicionou no sentido de que ela também está sujeita a preclusão e é exatamente o que ocorreu na espécie, conforme se demonstrará.
+Note-se que, na origem, o processo de conhecimento 6542/2005 dependeu de liquidação coletiva por arbitramento, tendo como um dos participantes a parte Exequente. Fase essa que durou cerca de 10 anos.
+Note-se também que já houve apuração dos percentuais de perda salarial pela Contadoria Judicial e houve decisão posterior homologando e transitando em julgado.
+ ..
+Conclui-se que a matéria foi atingida pela PRECLUSÃO, na medida em que transitou em julgado a parte da decisão proferida na fase de conhecimento e liquidação que condenou e homologou os percentuais devidos, reconhecendo, assim, ainda que implicitamente, a legitimidade ativa ad causam.
+ ..
+E é o que ocorre no caso ora em análise, à medida que as partes constam dos autos desde 2009, figurando como requerentes da fase de liquidação por arbitramento, sem qualquer impedimento, com posterior decisão de homologação.
+COM ISSO, NÃO HÁ O QUE SE FALAR EM ILEGITIMIDADE A ESSA ALTURA, POR RESTAR CARACTERIZADA A PRECLUSÃO, CONFORME ENTENDIMENTO FIRMADO PELO STJ NO SENTIDO DE QUE AS MATÉRIAS DE ORDEM PÚBLICA - EMBORA POSSAM SER TRATADAS A QUALQUER TEMPO - TAMBÉM ESTÃO SUJEITAS A PRECLUSÃO.
+Por isso, uma vez existindo a coisa julgada da decisão que homologou os cálculos, sendo a Recorrente participante dessa fase de liquidação, a coisa julgada passou a vinculá-la, e o título e sua liquidez passou a ser seu patrimônio jurídico.
+É cediço que a legitimidade é matéria de ordem pública cognoscíveis a qualquer tempo e grau de jurisdição, entretanto está sujeita a preclusão do 508 e pela coisa julgada, (art. 485, VI, § 3º, do CPC/15) -(fls. 951-955).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido decidiu que:
+Evidenciado que a apelante pertence à categoria específica (Espec. em Saúde/Farmacêutico - III) com sindicato próprio, que melhor represente e atenda aos seus interesses, deixa de ser representado por quaisquer outros sindicatos, impondo-se o reconhecimento da ilegitimidade ativa da apelante, para a propositura da demanda originária, porquanto não possui representatividade em relação ao SINTSEP.
+ ..
+Nesse contexto, mostra-se inviável o aproveitamento do título executivo judicial formado na referida ação coletiva, pois os limites da coisa julgada abrangem unicamente os servidores do SINTSEP, grupo não integrado pelo apelante, afastando-se a incidência do princípio do transporte in utilibus da coisa julgada.
+ ..
+Outrossim, afasto a alegação de preclusão consumativa da alegação de ilegitimidade ativa do apelante, tendo em vista que esta constitui uma das condições da ação do cumprimento de sentença, cuja demonstração cabe ao exequente quando do ajuizamento do cumprimento.
+Sem maiores digressões jurídicas, os fundamentos ora expostos demonstram que a autora/apelante não tem legitimidade para promover a Ação de Cumprimento Individual da Sentença proferida nos autos da dita Ação coletiva nº 6.542/2005, ao mesmo tempo em que não ferem nenhum dos dispositivos constitucionais e legais ou súmula mencionados diretamente nas razões recursais (fls. 930-931).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
