@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que deu parcial provimento à apelação defensiva, absolvendo o recorrido da imputação prevista no artigo 330 do Código Penal.
+Contra esse acórdão, interpôs-se o presente recurso especial com base na alínea "a", do art. 105, inc. III, da CF, alegando, em síntese, que o acórdão recorrido negou vigência ao artigo 330, do Código Penal, pugnando-se pelo restabelecimento da condenação do recorrido pela prática do delito de desobediência.
+As contrarrazões foram apresentadas pelo recorrido (e-STJ fls. 296-298).
+O Ministério Público Federal apresentou parecer (e-STJ fls. 459-464).
+É o relatório.
+Decido.
+O recurso é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF), e apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+No que tange à alegação de contrariedade ao artigo 330, do Código Penal, extrai-se que o TJMG adotou a seguinte fundamentação:
+"Como alhures relatado, pleiteia a defesa a absolvição do acusado de crime de desobediência por atipicidade da conduta.
+Nesse ponto, razão assiste ao apelante.
+Consoante se infere dos autos, o acusado, ao receber ordem de parada da guarnição policial, evadiu-se em desabalada carreira, em duas oportunidades.
+Todavia, em sentido diverso do que consignou o magistrado a que, entendo não estar configurada a desobediência quando o agente busca preservar o status libertatis, como sói acontecer no presente caso, em que o réu se evadiu para não ser preso pela prática do crime de furto.
+ ..  Registre-se, ademais, que o próprio legislador, embora tenha tipificado a conduta daquele que favorece ou promove a fuga de presos - art. 351 do CP - bem como a do preso que se vale de violência para escapar da prisão - art. 352 do CP - não elaborou nenhum tipo penal específico para punir a conduta daquele se evade da prisão sem o uso de meios coercitivos. A propósito, também considerando a relevância do desejo natural do homem de manutenção do seu status libertatis, o próprio STJ vem reiteradamente entendendo como atípica inclusive a conduta do preso que danifica o patrimônio público para empreender fuga"
+ .. Nesse contexto; havendo Raniel desobedecido à ordem de parada dos policiais militares para preservar sua liberdade, sem o dolo específico de descumprir ordem legal, hei por bem absolvê-lo da imputação de desobediência a que foi condenado em primeiro grau de jurisdição, por atipicidade da conduta, com supedâneo no disposto no art. 386, III, do CPP." (e-STJ fls. 209-213)
+No presente feito, tendo o Tribunal a quo, a partir da análise das circunstâncias da imputação, concluído pela atipicidade da conduta do recorrido, uma vez que não houve comprovação do dolo de desobedecer a ordem legal, não se verifica qualquer violação ao dispositivo legal invocado, porquanto "a desobediência de ordem de parada dada pela autoridade de trânsito ou por seus agentes, ou mesmo por policiais ou outros agentes públicos no exercício de atividades relacionadas ao trânsito, não constitui crime de desobediência, pois há previsão de sanção administrativa específica no art. 195 do Código de Trânsito Brasileiro, o qual não estabelece a possibilidade de cumulação de sanção penal" (HC 369.082/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 1º/8/2017).
+Ademais, concluir de forma diversa à fundamentação exarada pelo juízo a quo demandaria o reexame de provas, cujo óbice encontra-se consolidado na Súmula n. 7 desta Corte.
+Ante o exposto, conheço o recurso especial e nego-lhe provimento.
+Por fim, após análise do conteúdo da documentação colacionada aos autos, não verifico, de plano, qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal que implique ameaça de violência ou coação à liberdade de locomoção do recorrido, nos termos do art. 647-A do Código de Processo Penal, incluído pela Lei 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Publique-se. Intimem-se.
+EMENTA
