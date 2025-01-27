@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo em Execução: indeferimento do pedido de extinção da punibilidade, franco do pagamento da pena de multa penal. Recurso: Defesa. Extinção, franco de pagamento: possibilidade, apenas se comprovada a hipossuficiência financeira (nova redação do Tema/STJ 931). Defensoria Pública nomeada curadora: incapacidade financeira que não se presume.
+Ilegitimidade ativa do Ministério Público: inocorrência. Titularidade subsidiária e concorrente da Fazenda Pública, para a cobrança da pena de multa, após o decurso de 90 dias da intimação do Ministério Público de inadimplemento da pena de multa.
+Prequestionamento: desnecessidade de análise dos dispositivos legais, bastando o exame das teses jurídicas pertinentes ao deslinde do caso.
+Recurso não provido. (e-STJ fl. 126)
+A defesa aponta a violação do art. 927, I, do Código de Processo Civil, alegando que o TJSP não decidiu conforme concluiu o STF ao julgar a ADI 3150. Ressalta que após o prazo de 90 dias o Ministério Público não mais possui legitimidade para promover a execução.
+Requer seja extinto o processo sem resolução de mérito, por ilegitimidade ativa do exequente Ministério Público.
+O recurso foi admitido na origem (e-STJ fls. 165/166).
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso (e-STJ fls. 175/176)
+É o relatório. Decido.
+Preenchidos os pressupostos de admissibilidade, passo ao exame do recurso.
+O cerne da controvérsia consiste em definir se após o prazo de 90 dias da ciência para execução da pena de multa, o Ministério Público perde sua legitimidade, a qual passaria a ser exercida exclusivamente pela Fazenda Pública. Sobre o tema, o TJSP assim se pronunciou:
+De outro turno, também não vinga a alegada ilegitimidade ativa do Ministério Público, vez que decorrido o prazo de 90 dias para a propositura da execução da pena de multa.
+Com efeito, no julgamento da ADI 3.150, a Alta Corte, ao interpretar a anterior redação do artigo 51 do Código Penal, firmou o entendimento de que:
+ ..
+Destarte, o Ministério Público detém a legitimidade prioritária para a ação executiva da pena de multa, a qual, não exercida, após o decurso de 90 dias de sua intimação do inadimplemento pelo Executado, poderá ser, de modo subsidiário e concorrente, cobrada pela Fazenda Pública. (e-STJ fls. 130/132)
+Em relação ao tema, o Supremo Tribunal Federal, ao julgar a ADI n. 3.150/DF, em 13/12/2018, declarou que, à luz do preceito estabelecido pelo art. 5º, XLVI, da Constituição Federal, a multa, ao lado da privação de liberdade e de outras restrições - perda de bens, prestação social alternativa e suspensão ou interdição de direitos -, é espécie de pena aplicável em retribuição e em prevenção à prática de crimes, não perdendo, assim, sua natureza de sanção penal (ADI 3150, Ministro Roberto Barroso, Tribunal Pleno, DJe 5/8/2019).
+Extrai-se do referido julgado que o Ministério Público possui legitimação prioritária para a cobrança da pena de multa, tendo sido fixadas as seguintes teses: (i) O Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, observado o procedimento descrito pelos artigos 164 e seguintes da Lei de Execução Penal; (ii) Caso o titular da ação penal, devidamente intimado, não proponha a execução da multa no prazo de 90 dias, o Juiz da execução criminal dará ciência do feito ao órgão competente da Fazenda Pública (Federal ou Estadual, conforme o caso) para a respectiva cobrança na própria Vara de Execução Fiscal, com a observância do rito da Lei n. 6.830/1980.
+Como se vê, o prazo de 90 dias apenas delimita o período de legitimidade prioritária do Ministério Público, findo o qual a Fazenda Pública, subsidiariamente, poderá efetuar a cobrança, sem que isso afete a legitimidade do órgão ministerial para a cobrança da multa. Nesse sentido, confiram-se: AgRg no REsp n. 1.993.920/RS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 22/11/2022, DJe de 2/12/2022; e AgRg no AREsp n. 2.096.601/RS, Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 24/8/2022.
+Registra-se, ainda, que o Supremo Tribunal Federal reconheceu a existência de repercussão geral do Tema 1.219, em que se discute se a Procuradoria da Fazenda Pública manteria legitimidade subsidiária para a execução de pena de multa imposta criminalmente, e não executada pelo Ministério Público no prazo de 90 dias, considerando-se o entendimento firmado pelo Supremo Tribunal Federal na ADI 3.150 e a superveniência da Lei n. 13.964/2019 (Pacote Anticrime).
+Tal discussão apenas reforça o entendimento de que a inércia do Ministério Público na cobrança da pena de multa não legitima exclusivamente a Fazenda Pública, mas apenas afasta a legitimação prioritária do órgão ministerial.
+Assim sendo, a pretensão recursal encontra óbice na Súmula n. 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, conheço do recurso especial, para negar-lhe provimento.
+Intimem-se.
+EMENTA
