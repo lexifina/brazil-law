@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE SÃO SEBASTIÃO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - MUNICÍPIO DE SÃO SEBASTIÃO - IPTU DOS EXERCÍCIOS DE 2003 A 2008 - PRESCRIÇÃO DOS CRÉDITOS DOS EXERCÍCIOS DE 2003 E 2004 DECRETADA - MUNICIPALIDADE INTIMADA PARA PROMOVER O PROSSEGUIMENTO DO FEITO EM RELAÇÃO AOS CRÉDITOS REMANESCENTES EM AGOSTO DE 2013 - CIÊNCIA INEQUÍVOCA DO NÃO PAGAMENTO NOS AUTOS - TERMO INICIAL DA CONTAGEM DO PRAZO PRESCRICIONAL ENTENDIMENTO CONSOLIDADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP Nº 1.340.553/RS, JULGADO NA SISTEMÁTICA DE RECURSOS REPETITIVOS - AUTOS PARALISADOS ATÉ A MANIFESTAÇÃO DA EXECUTADA EM NOVEMBRO DE 2020 - TRANSCURSO DO LUSTRO LEGAL SEM IMPULSIONAMENTO VÁLIDO DO PROCESSO POR PARTE DA FAZENDA PÚBLICA POR MAIS DE SETE ANOS - OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 230 do CPC e 25 da Lei n. 6.830/1980, no que concerne à não ocorrência da prescrição intercorrente, visto que não houve intimação pessoal da Fazenda Pública. Argumenta:
+Nobre Desembargador, o venerando acórdão proferido pelo Egrégio Tribunal de Justiça do Estado de São Paulo deixou de observar o disposto no artigo 230 do CPC e artigo 25 da Lei nº 6.830180  Lei de Execuções Fiscais.
+Como se vê, a sentença que decretou a prescrição intercorrente é flagrantemente nula, uma vez que desrespeita a prerrogativa de intimação pessoal da Fazenda Pública. Lembre-se, o juízo restou omisso quanto a manifestação do erário, desta não houve qualquer decisão, logo, a decretação de prescrição intercorrente é afronta ao ordenamento, agora não basta o erário se manifestar, requerer, basta que o juízo fique inerte e então profira sentença que decreta a prescrição intercorrente!
+ ..
+Disposta a jurisprudência, em sede se recursos repetitivos, cabe observar o descumprimento da orientação a ser seguida, no caso, a municipalidade não foi intimada, tão pouco houve decisão da manifestação requerida em juízo, logo, indevida a sentença que decretou a prescrição intercorrente.
+ ..
+Dos atos praticados pelo erário nos autos, nenhuma intimação foi realizada, assim, a decretação de prescrição intercorrente contra o erário é ilegal, na medida que sem a intimação sequer se teve início a contagem do referido instituto! (fls. 183-188).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Feitas estas considerações, observa-se que, considerando que o agravo de instrumento apresentado pela executada não foi processado com atribuição de efeito suspensivo, a municipalidade exequente foi intimada em agosto de 2013 para requerer o que entendesse de direito visando o prosseguimento do feito.
+No entanto, a determinação não foi atendida, tendo o processo permanecido sem qualquer andamento até a manifestação da executada nos autos em novembro de 2020, sendo patente a ocorrência de prescrição intercorrente pela desídia da exequente por mais de sete anos (fl. 154, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das pre missas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
