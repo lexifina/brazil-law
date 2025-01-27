@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de LAERCIO HENRIQUE MAIA, no qual se aponta como autoridade coatora a TURMA RECURSAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O paciente foi condenado à pena de 1 (um) ano, 4 (quatro) meses e 1 (um) dia de detenção em regime inicial semiaberto pela prática do crime previsto no art. 331 do Código Penal (desacato). A Apelação interposta dessa decisão foi considerada intempestiva pela Turma Recursal sob o fundamento de que não foram observados os prazos definidos no art. 82, § 1º, da Lei 9.099/1995, norma que possui prevalência sobre as regras do Código de Processo Penal. O Colégio Recursal também rejeitou os Embargos de Declaração e reiterou o entendimento anterior.
+Alega o impetrante erro na contagem do prazo recursal e sustenta ser equivocado o marco inicial estabelecido no acórdão, pois a data correta de publicação da sentença é 4.7.2024, e não 1º.7.2024. Afirma também ter sido cumprida a determinação judicial e argumenta que o prazo adicional concedido pelo Juízo de primeiro grau para apresentar as razões da Apelação, até 22.7.2024, foi respeitado e deve ser reconhecido como válido com base no princípio da confiança legítima.
+Assevera que a intimação pessoal do paciente, ocorrida em 29.7.2024, deveria ensejar a reabertura do prazo recursal, assegurados o contraditório e a ampla defesa, e que esta última sofreu prejuízo porque o entendimento de intempestividade resultou na supressão de instância e impediu o julgamento do mérito da Apelação, em ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório
+Destaca a boa-fé processual do paciente e ressalta que ele agiu de forma íntegra e cumpriu todas as determinações judiciais, sendo inaceitável penalizá-lo por interpretações conflitantes acerca dos prazos.
+Aduz ainda: (a) não há provas suficientes em relação ao dolo específico do paciente; (b) não foi apresentada fundamentação idônea em relação a cada circunstância judicial considerada desfavorável; (c) é desproporcional o patamar de aumento de pena fixado em relação a cada uma das vetoriais negativas; (d) deve ser reconhecida a incidência da atenuante prevista no art. 65, III, b, do Código Penal, com a respectiva compensação com a agravante da reincidência; (e) não está configurada a continuidade delitiva por se tratar de crime único; e (f) inexiste justificativa idônea para a imposição de regime inicial semiaberto.
+Liminarmente, requer a suspensão dos efeitos da decisão na qual foi declarada a intempestividade do recurso e, no mérito, pleiteia o reconhecimento da tempestividade da Apelação para que o paciente seja absolvido. Subsidiariamente, pugna pelo redimensionamento da pena, pela fixação do regime inicial aberto e pela substituição da pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+Decido.
+Percebe-se, preliminarmente, a incompetência do Superior Tribunal de Justiça para análise do presente writ, pois a autoridade coatora não integra o rol previsto no art. 105, I, c, da Constituição Federal.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. CONTRAVENÇÃO PENAL. ATO PRATICADO POR JUIZ INTEGRANTE DO COLÉGIO RECURSAL. INCOMPETÊNCIA DO STJ. ART. 105, I, C, DA CF. OMISSÃO INEXISTENTE.
+1. Não há omissão a ser sanada. Nos termos da jurisprudência desta Corte, o julgamento proferido por Turma Recursal de Juizado Especial Criminal não se encontra abrangido pelo termo "tribunal" previsto no art. 105, I, "c", da Constituição Federal. Dessarte, não há se falar em competência do Superior Tribunal de Justiça para conhecer do presente writ (AgRg no HC n. 421.161/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/11/2017).
+2. Embargos de declaração rejeitados.
+(EDcl no HC n. 504.331/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 3.6.2019.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210, do RISTJ, indefiro liminarmente este Habeas Corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
