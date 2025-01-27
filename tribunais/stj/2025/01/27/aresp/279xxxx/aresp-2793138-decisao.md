@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARIA EUGENIA DA GAMA ALVES BOAVENTURA DIAS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DE IMAGEM. AÇÃO DE OBRIGAÇÃO DE FAZER. Pedido da autora para não utilização de sua imagem e voz em filme. Sentença de improcedência. Insurgência da autora. Não acolhimento. Verifica-se autorização da recorrente para utilização de sua imagem/voz. Apelante que não se desincumbiu do ônus de provar vício de consentimento. Sentença de improcedência mantida.
+Recurso não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação do art. 20 do Código Civil, no que concerne à ao reconhecimento do uso indevido para fins político-partidários do uso da imagem da recorrente, ante a manifestação revogando tempestivamente a autorização anterior, trazendo a seguinte argumentação:
+Nos termos da fundamentação do v. acórdão recorrido, o E. Tribunal a quo considerou lícita e legítima a utilização da imagem e da voz da Recorrente, pelo fato de ela haver "autorizado o recorrido a utilizar sua imagem e voz no filme "São Paulo Brasil"" (fls. 250).
+No entanto, não foi levado em consideração o fato de a Recorrente haver revogado a autorização para uso de sua imagem e voz (fls. 33/36), não tendo sido abordada a questão da validade e da eficácia imediata dessa revogação, como expressão de um direito potestativo, sendo esse o fundamento da presente ação (ao contrário do que constou no v. acórdão recorrido, a ação não está fundada em suposto vício do consentimento, mas justamente na eficácia da revogação).
+Com efeito, diante da revogação da autorização, o art. 20, caput , do Código Civil deveria ser aplicado para proibir a utilização da imagem e da voz da Recorrente, pois, à época da efetiva utilização de sua imagem e voz, a Recorrente já havia revogado a autorização anterior (fls. 33/36).
+Em que pese o entendimento esposado no v. acórdão recorrido, precárias foram as informações prestadas pelo Recorrido para a obtenção do consentimento da Recorrente: em nenhum momento ela foi informada do caráter político-partidário da produção audiovisual, muito menos de que o filme contemplaria a biografia do Deputado Federal Kim Kataguiri e do Deputado Estadual Arthur do Val, cassado após a autorização de fls. 22 em razão de famigeradas manifestações misóginas.
+Esse é um dado relevante, que deve ser considerado: tanto as manifestações misóginas do deputado, quanto sua cassação são fatos posteriores à autorização de fls. 22. (fls. 262-263).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No presente caso, restou evidenciada a utilização pelo requerido da imagem da autora no referido documentário.
+Com efeito, o art. 5º da Constituição Federal, com relação ao direito de imagem, garantiu sua intangibilidade, proteção e a responsabilidade pelos danos sofridos.
+No inciso V, ao assegurar a indenização por dano, ainda que exclusivamente, à imagem; no inciso X, preservando a inviolabilidade da imagem das pessoas e garantindo a indenização por dano material e moral, decorrente de sua violação, e no inciso XXVIII, letra "a", ao proteger a pessoa no tocante à reprodução da imagem e da voz humanas.
+Por sua vez, dispõe o artigo 20 do Código Civil sobre a proteção da imagem e o direito à indenização:
+"Art. 20. Salvo se autorizadas, ou se necessárias à administração da justiça ou à manutenção da ordem pública, a divulgação de escritos, a transmissão da palavra, ou a publicação, a exposição ou a utilização da imagem de uma pessoa poderão ser proibidas, a seu requerimento e sem prejuízo da indenização que couber, se lhe atingirem a honra, a boa fama ou a respeitabilidade, ou se se destinarem a fins comerciais".
+Destarte, a utilização indevida da imagem com fins econômicos gera dever de indenizar, conforme disposto na Súmula 403 do Superior Tribunal de Justiça:
+"Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais".
+Contudo, em análise dos autos de origem, verifica-se ter a autora autorizado o recorrido a utilizar sua imagem e voz no filme "São Paulo Brasil". E, embora a agravante alegue que a autorização estivesse restrita a aspectos literários e culturais da Semana de Arte Moderna e não para fins político-partidários, não comprovou o alegado, principalmente em relação ao alegado vício de consentimento (art. 373, I, do CPC).
+ ..
+Destarte, é incontroverso a autorização da apelante, não havendo que se cogitar, no caso específico, a ocorrência de má-fé, erro, dolo, coação ou qualquer outro vício a abalar a higidez da aquiescência. (fls. 250-252).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
