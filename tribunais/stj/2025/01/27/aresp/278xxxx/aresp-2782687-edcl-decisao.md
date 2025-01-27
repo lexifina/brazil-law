@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ASSOCIACAO DE TITULARES DOS LOTES DO RESIDENCIAL EVIDENCE à decisão de fls. 808/809 , que não conheceu do recurso.
+Sustenta a parte embargante:
+Entretanto, tal alegação não procede, vez que se encontra em contradição com as razões de Recurso Especial apresentadas, haja vista que a Embargante especificou a violação ao Tema nº 882 do Superior Tribunal de Justiça e Tema nº 492 do Supremo Tribunal Federal.
+Ademais, restou amplamente demonstrado que o Recurso Especial teve como base a interpretação divergente atribuída pelo Superior Tribunal de Justiça a caso idêntico ao dos autos (artigo 105, inciso III, alínea "c" da Constituição Federal), de modo que não há como se falar em "insuficiência de fundamentação" (fls. 812/813).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide a Súmula n. 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do Recurso Especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Além disso, em relação à alegação de violação aos Temas 882 do STJ e 492 do STF, não é cabível o recurso especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal. Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.565.020/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 14.8.2020; AgInt no REsp n. 1.832.794/RO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27.11.2019; AgInt no AREsp n. 1.425.911/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15.10.2019; AgInt no REsp n. 1.864.804/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7.6.2021.
+Com efeito, o fato de a controvérsia de mérito porventura discutida nestes autos ter sido afetada ao Tema de Recurso Repetitivo e ao de Repercussão Geral não impede a análise de recurso que sequer preenche os requisitos de admissibilidade recursal.
+Neste sentido: AgInt nos EDcl no AREsp 1808426/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 25.11.2021.; AgInt no AREsp 1521318/DF, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20.03.2020; AgInt no AREsp n. 1.388.688/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 19.8.2021 e AgRg no AREsp n. 568.759/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 27.10.2015.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
