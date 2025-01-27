@@ -1,0 +1,59 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Eliezer Molchansky, em face do acórdão prolatado pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+
+    “CONSTITUCIONAL. ADMINISTRATIVO. APELAÇÃO. AÇÃO DE COBRANÇA. APOSENTADORIA VOLUNTÁRIA. PAGAMENTO DE VALORES RETROATIVOS. ACUMULAÇÃO DE PROVENTOS COM VENCIMENTOS ORIUNDOS DO MESMO CARGO PÚBLICO. IMPOSSIBILIDADE. ISENÇÃO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. PSS. HONORÁRIOS ADVOCATÍCIOS. 1. Apelações interpostas pelo INSS e pela parte autora, servidor público federal, contra sentença, integrada pelos embargos de declaração, que julgou parcialmente procedente o pedido para condenar o INSS ao pagamento das prestações vencidas da aposentadoria, relativo ao período de 18.02.2004 a 31.05.2005. 2. A Constituição da República, no §10 do art. 37, veda a percepção acumulada de proventos de aposentadoria decorrentes dos artigos 40 (regime próprio dos servidores titulares de cargo efetivo), 42 (regime dos membros das Polícias Militares e do Corpo de Bombeiros Militares) e 142 (regime dos membros das Forças Armadas) com a remuneração de cargo, emprego ou função pública, excetuadas as hipóteses legais de acumulação. 3. O autor exerceu regularmente a função de médico-perito do INSS, no período de 18/02/04 a 31/05/05, tendo recebido regularmente a remuneração do referido cargo, motivo pelo qual não pode receber os proventos de aposentadoria relativo ao mesmo período e mesmo cargo ocupado, consoante expressa vedação prevista no art. 37, §10 da CF. 4. Tendo sido reconhecido na ação mandamental que o servidor completou os requisitos para a concessão da aposentadoria voluntária desde a data do requerimento administrativo (30.10.2003), é de ser reconhecido que o servidor tem direito à isenção da contribuição previdenciária, nos termos do no art. 3º, parágrafo 1º, da EC 20/98 e art. 4º, da Lei nº 9.783/99, e consequentemente, à devolução dos valores recolhidos indevidamente ao Plano de Seguridade Social, retroativos à data que do requerimento administrativo do benefício de aposentadoria até a data em que permaneceu em atividade, de 30.10.2003 a 31.05.2005. 5. O benefício da isenção da contribuição previdenciária encontra previsão no § 1º, do art. 3º da Emenda Constitucional 20/1998, cuja vigência se deu a partir da publicação da EC 20, ocorrida em 16.12.1998. O benefício do abono de permanência, instituído pela EC 41/2003, substituiu a antiga isenção da contribuição previdenciária criada pela EC 20/98 para aqueles que, apesar de terem implementado os requisitos necessários para a aposentadoria, optarem por permanecer em atividade, encontrando previsão no § 19, do art. 40 da Constituição Federal, cuja vigência se deu a partir da publicação da EC 41, ocorrida em 31.12.2003. 6. Sendo ambas as partes vencedoras e vencidas, cada parte deve ser responsabilizada pelo pagamento verbas honorárias na parte que sucumbiu, nos termos do artigo 86, caput, do CPC. 7. Apelação do autor desprovida. Apelação do INSS provida.”
+
+    Na minuta, alega-se violação aos arts. 5º, XXXVI, e 37, XI e §10, ambos da Constituição da República.
+
+    Sustenta que houve ofensa à coisa julgada, considerando-se que “o mandado de segurança determinou que fossem pagos os vencimentos decorrentes do jubilamento, mesmo o recorrente tendo permanecido em suas funções recebendo a justa remuneração, por ser situação causada exclusivamente pela Administração Pública”, em decisão que transitou em julgado.
+
+    Argumenta que, “ao buscar executar o seu crédito, o peticionante se deparou com o acórdão recorrido, que resolveu alterar aquilo já estava determinado por coisa julgada”, o que violou o art. 5º, XXXVI, da Carta Magna.
+
+    Arrazoa que havia preenchido os requisitos para a aposentação, o que foi “injustamente negado, forçando sua continuação no labor”, do que decorre que não seria possível “penalizar o indivíduo por erro cometido pela Administração Pública” de modo a negar-lhe o direito ao recebimento dos proventos da aposentadoria desde o requerimento concomitantemente com os vencimentos do cargo.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Nos termos da jurisprudência deste Supremo Tribunal Federal, a verificação da alegada ofensa à coisa julgada (5º, XXXVI, da Carta Magna) pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que suposta violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, “a”, da Lei Fundamental. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. APOSENTADORIA. ARTIGO 8º DA LEI ESTADUAL Nº 4.051/86. TÍTULO JUDICIAL. PENSÃO POR MORTE. MORTE DA INSTITUIDORA. COISA JULGADA RECONHECIDA PELO TRIBUNAL DE ORIGEM. LIMITES OBJETIVOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. 1.É pacífica a jurisprudência do STF de que não se presta o recurso extraordinário para a verificação dos limites objetivos da coisa julgada, haja vista tratar-se de discussão de índole infraconstitucional. 2. É inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional. 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Não houve majoração da verba honorária, tendo em vista a ausência de sua fixação pela origem.” (ARE 1484965 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 13-05-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 15-05-2024 PUBLIC 16-05-2024)
+
+    “AGRAVOS REGIMENTAIS EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRECLUSÃO CONSUMATIVA DO SEGUNDO AGRAVO. NOTÁRIOS E REGISTRADORES. APOSENTADORIA. COISA JULGADA RECONHECIDA PELO TRIBUNAL DE ORIGEM. LIMITES OBJETIVOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. 1. Interpostos 2 (dois) agravos regimentais contra a mesma decisão, incide, quanto ao último, a preclusão consumativa. 2. É pacífica a jurisprudência do STF de que não se presta o recurso extraordinário para a verificação dos limites objetivos da coisa julgada, haja vista tratar-se de discussão de índole infraconstitucional. 3. Primeiro agravo regimental não provido e segundo agravo regimental do qual não se conhece. 4. Não houve majoração da verba honorária, tendo em vista a ausência de sua fixação pela origem.” (ARE 1423690 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 15-08-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 30-08-2023 PUBLIC 31-08-2023)
+
+    Quanto à alegada violação ao art. 37, XI e §10, da CF/88, assim se manifestou o Tribunal a quo:
+
+    “Com efeito, a Constituição da República, no §10 do art. 37, veda a percepção acumulada de proventos de aposentadoria decorrentes dos artigos 40 (regime próprio dos servidores titulares de cargo efetivo), 42 (regime dos membros das Polícias Militares e do Corpo de Bombeiros Militares) e 142 (regime dos membros das Forças Armadas) com a remuneração de cargo, emprego ou função pública, excetuadas as hipóteses legais de acumulação:
+
+    [...]
+
+    No caso, o autor exerceu regularmente a função de médico-perito do INSS, no período de 18/02/04 a 31/05/05, tendo recebido regularmente a remuneração do referido cargo, motivo pelo qual não pode receber os proventos de aposentadoria relativo ao mesmo período e mesmo cargo ocupado, consoante expressa vedação prevista no art. 37, §10 da CF.
+
+    Por outro lado, tendo sido reconhecido na ação mandamental que o servidor completou os requisitos para a concessão da aposentadoria voluntária desde a data do requerimento administrativo (30.10.2003), é de ser reconhecido que o servidor tem direito à isenção da contribuição previdenciária, nos termos do no art. 3º, parágrafo 1º, da EC 20/98 e art. 4º, da Lei nº 9.783/99.”
+
+    Extrai-se do trecho acima que a Corte de origem entendeu que o ora agravante exerceu regularmente a função de médico-perito do INSS, no período de 18/2/2004 a 31/5/2005, tendo recebido regularmente a remuneração do referido cargo, motivo pelo qual não poderia receber os proventos de aposentadoria relativos ao mesmo período e cargo ocupado, nos termos do art. 37, XI e §10 da CF/88, tendo, ainda, reconhecido o direito do agravante à isenção da contribuição previdenciária durante o aludido período.
+
+    Tal entendimento encontra amparo a jurisprudência desta Corte, que se firmou no sentido de que somente é possível a acumulação de proventos e vencimentos nos casos de cargos, funções e empregos acumuláveis na atividade. Veja-se:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORA PÚBLICA MUNICIPAL. APOSENTADORIA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL – RGPS. LEGISLAÇÃO DO ENTE FEDERATIVO QUE ESTABELECE A APOSENTADORIA COMO CAUSA DE VACÂNCIA. MANUTENÇÃO OU REINTEGRAÇÃO AO CARGO SEM SUBMISSÃO A NOVO CONCURSO PÚBLICO. IMPOSSIBILIDADE. ACUMULAÇÃO DE PROVENTOS E VENCIMENTOS. POSSIBILIDADE APENAS NO CASO DE CARGOS, FUNÇÕES OU EMPREGOS ACUMULÁVEIS NA ATIVIDADE. RECURSO EXTRAORDINÁRIO 1.302.501. TEMA 1.150 DA REPERCUSSÃO GERAL. AGRAVO INTERNO DESPROVIDO.” (RE 1497534 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 30-09-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 03-10-2024 PUBLIC 04-10-2024)
+
+    Outrossim, para dissentir do entendimento firmado pelo Tribunal de origem, revela-se necessária a análise da legislação infraconstitucional pertinente e o reexame do conjunto fático-probatório dos autos, procedimento inviável em recurso extraordinário (Súmula nº 279/STF). Nesse sentido:
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. APOSENTADORIA. ACUMULAÇÃO DE PROVENTOS E VENCIMENTOS. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279/STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão que manteve sentença de procedência. 2. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessária a análise da legislação infraconstitucional pertinente e o reexame do conjunto fático-probatório dos autos, procedimento inviável em recurso extraordinário (Súmula nº 279/STF). Precedente. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento.” (ARE 1466420 AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, julgado em 06-02-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 14-02-2024 PUBLIC 15-02-2024)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. 2. Servidor público. 3. Pretensão de recebimento dos proventos desde o requerimento administrativo. Acumulação de proventos e vencimentos. 4. Necessidade de interpretação da legislação infraconstitucional pertinente e revolvimento do acervo fático-probatório dos autos. Incidência da Súmula 279/STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental não provido.” (ARE 1431348 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 04-09-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 11-09-2023 PUBLIC 12-09-2023)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 27 de janeiro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
