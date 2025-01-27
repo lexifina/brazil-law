@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ROSA MARIA RODRIGUES AMATUZO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+TUTELA URGÊNCIA. REQUISITOS. INDEFERIMENTO. 1- A OBTENÇÃO DA TUTELA DE URGÊNCIA SUBORDINA-SE À PRESENÇA DE ALGUNS REQUISITOS EXPRESSAMENTE PREVISTOS EM LEI: PROBABILIDADE DO DIREITO E O PERIGO DE DANO OU O RISCO AO RESULTADO ÚTIL DO PROCESSO (ART. 300 DO CPC/2015). 2- SE OS ELEMENTOS TRAZIDOS AOS AUTOS NÃO INDICAM, AINDA QUE EM ANÁLISE PRIMÁRIA, A PRESENÇA DESSES REQUISITOS, O INDEFERIMENTO DA TUTELA É O QUE SE IMPÕE (fl. 25).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 300 do CPC, no que concerne à configuração dos requisitos para o deferimento da tutela antecipada para a suspensão de contratos de empréstimo e a cessação de descontos em seu benefício previdenciário, trazendo a seguinte argumentação:
+Com todo respeito à tese defendida no v. acórdão, há provas mais do que robustas quanto à ocorrência de vício do consentimento, mormente ao se considerar que a prejudicada foi uma idosa de quase 80 anos.
+ ..
+Além de o vazamento de dados sensíveis da autora se consubstanciarem em evidente negligência omissiva da instituição financeira, o fato é que foram feitas diversas movimentações bancárias atípicas, no mesmo dia, e em quantias absolutamente desproporcionais ao perfil financeiro da autora - o que se traduz na probabilidade do direito.
+ ..
+Igualmente, tendo em vista que a recorrente recebe mensalmente valor inferior a três salários-mínimos, o empréstimo fraudulento praticamente a inviabiliza de viver e de pagar seus gastos mínimos de subsistência.
+É dizer, a postulante tem suportado a privação de aproximadamente 30% de sua renda em decorrência de empréstimos que não reconhece, o que inegavelmente caracteriza considerável sacrifício financeiro (perigo na demora).
+Assim, o perigo de dano e a fumaça do bom direito são absolutamente inquestionáveis e não poderiam ser ignorados.
+ ..
+À vista do exposto, a decisão colegiada, ao indevidamente confirmar a decisão interlocutória, nega vigência diretamente ao art. 300 do CPC, diante da manifesta verossimilhança das alegações autorais e do perigo na demora, consistente na realização de empréstimos fraudulentos, em valores dissonantes do perfil de crédito da autora e que foram possíveis devido ao vazamento de dados sensíveis (fls. 40/42).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide, por analogia, a Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de Recurso Especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo.
+Nesse sentido: "É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF). O juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da referida Súmula 735/STF"". (AgInt no AREsp 1.598.838/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 21.8.2020.)
+Confira-se ainda o seguinte precedente: AgInt no AREsp 1.571.882/BA, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º.7.2020; AgInt no REsp 1.830.644/RO, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.6.2020; AREsp 1.610.726/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.6.2020; AgInt no AREsp 1.621.446/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27.4.2020; AgInt no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe d e 13.4.2020.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+A obtenção da tutela de urgência subordina-se à presença de alguns requisitos expressamente previstos em lei: probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo (art. 300 do CPC/2015).
+O exame dos autos principais revela que a discussão advém de aparente defeito na prestação do serviço oferecido pela instituição bancária.
+A decisão agravada se fundamentou na ausência de urgência.
+As razões recursais, por sua vez, discorrem que a urgência advém do prejuízo à subsistência da agravante diante dos descontos indevidos que comprometem seus rendimentos, e que há indícios suficientes de golpe praticado mediante o uso de dos seus dados bancários.
+A agravante, pessoa idosa, alega vício de vontade, pois terceiro se passou por preposto da instituição financeira e a fez celebrar contratos de empréstimo em erro, pois acreditava estar realizando operações para segurança de sua conta.
+Contudo, não há, por ora, elementos que indiquem a natureza da relação desse terceiro com a instituição financeira, uma vez que os contratos foram, de fato, realizados.
+Logo, a questão demanda maior dilação probatória (fls. 26/27).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
