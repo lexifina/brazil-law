@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO SISTEMA S.A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/04/2024.
+Concluso ao gabinete em: 04/09/2024.
+Ação: de inventário dos bens deixados por José Simas e Anna Homesina de Salles, na qual figurava entre os herdeiros a senhora Jacy Simas de Azevedo.
+Decisão interlocutória: "retificou o formal de partilha, excluindo os herdeiros de Jacy Simas de Azevedo, falecida no curso do inventário de seus antecessores" (e-STJ fl. 229).
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte ora agravante, nos termos da seguinte ementa (e-STJ fl. 228):
+"AGRAVO DE INSTRUMENTO. INVENTÁRIO. IMPOSSIBILIDADE DE PROCESSAMENTO DO INVENTÁRIO DE HERDEIRO FALECIDO NO CURSO DO INVENTÁRIO DE SEUS GENITORES. AUSÊNCIA DE RECOLHIMENTO DOS IMPOSTOS PERTINENTES. AUSÊNCIA DE PREJUÍZO AO DIREITO DOS CREDORES AGRAVANTES. Decisão afrontada que determinou a correção do formal de partilha outrora expedido para exclusão dos nomes dos herdeiros de Jacy Simas de Azevedo. Impossibilidade de reserva do quinhão hereditário que cabe aos herdeiros José Marcos Simas e Luis Geraldo Simas de Azevedo até o limite do crédito detido pelo Agravante, considerando que não houve processamento do inventário de Jacy Simas de Azevedo por ausência de recolhimento dos impostos pertinentes. Direito do agravante credor que permanece íntegro, porém impossível ser processado nos autos do presente inventário sob pena de violar direito dos demais herdeiros. Decisão que se mantém. Recurso conhecido e improvido nos termos do voto do Desembargador Relator."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, III, IV, e VI, e 1.022, I, e II, do CPC; e 1.784 e 1.851 do CC, sustentando que: (i) a Corte de origem teria sido omissa, obscura e incorrido em negativa de prestação jurisdicional em relação a pontos essenciais ao deslinde do processo; (ii) seria equivocado o entendimento de que a sentença transitada em julgado haveria homologado apenas a partilha dos bens de José Simas e Anna Homesina de Salles, e que o inventário da Sra. Jacy Simas de Azevedo não teria se processado em conjunto; (iii) os herdeiros da Sra. Jacy Simas de Azevedo recolheram os impostos pertinentes para que o inventário de sua genitora fosse processado em conjunto com o de seus avós; (iv) o decidido pelo Tribunal originário contraria decisões de outros processos (acostadas aos autos pela parte ora agravante); (v) no momento da abertura da sucessão, ocorre a transmissão imediata e automática da posse e domínio dos bens e dos direitos aos herdeiros, independentemente de inventário ou partilha; (vi) dois dos herdeiros de Jacy Simas de Azevedo são seus devedores e tentam ocultar seu patrimônio, perpetuando o inadimplemento; (vii) deve ser deferida a reserva do quinhão hereditário da Sra. Jacy Simas de Azevedo, que cabe aos herdeiros José Marcos Simas e Luis Geraldo Simas de Azevedo, até o limite da dívida.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Antonio Carlos Alpino Bigonha, opina pelo não provimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das razões entendeu que, "em que pese o direito do agravante permanecer íntegro, este não poderá ser exercido nos autos de inventário do Espólio de José Simas e Anna Homesina de Salles" (e-STJ fl. 233), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Não cabimento de recurso especial contra decisão que concede ou indefere tutela provisória - Súmula 735/STF.
+Ademais, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido que, quando se trata de recurso especial interposto contra medida que conce de ou indefere tutela provisória, seu objeto deve focar nas condições legais de sua concessão.
+Nesse sentido: AgInt no Aresp 1.248.498/SP, 3ª Turma, DJe de 29/06/2018; e AgInt no Aresp 980.165/BA, 4ª Turma, DJe 09/02/2018.
+Considerando a precariedade da decisão que indeferiu a tutela provisória, a qual pode ser alterada a qualquer tempo, desaconselha-se o conhecimento e julgamento de recurso especial que verse sobre o tema, exceto quando tratar dos requisitos legais de concessão da tutela antecipada e não exigir o reexame de matéria fática e probatória, o que não se coaduna com a hipótese dos autos.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que indefere a tutela provisória, a questão de fundo do direito sobre o qual versa a controvérsia.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. TUTELA PROVISÓRIA INDEFERIDA. SÚMULA 735/STF.
+1. Ação de inventário.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
