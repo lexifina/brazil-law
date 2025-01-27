@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Município de Tupã, em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+    “APELAÇÃO. Mandado de Segurança. Município de Tupã. Servidor público. Exonerado em 11-01-2023, em razão de aposentadoria, pelo Regime Geral de Previdência Social, concedida em 18-04-2011. Lei Complementar Municipal 140/2008 estabelece a aposentadoria como motivo de vacância de cargo público. Ainda que a norma vigesse ao tempo em que a aposentadoria foi concedida, absolutamente descabida a exoneração mais de onze anos depois, com base em novo entendimento da administração, lastreado em ulterior orientação jurisprudencial de Supremo Tribunal Federal, por haver o Município decaído do direito de exonerar. Aplicação do prazo de cinco anos da Lei Federal 9784/1999, inexistindo outro estabelecido em âmbito local. EC 103/2009, artigo 6º. Aposentadoria anterior. Ressalva que impõe a subsistência do vínculo, pois não faz distinção entre cargo, emprego ou função pública, com ou sem previsão de vacância em caso de aposentadoria. Restabelecimento do vínculo, com pagamento dos vencimentos e demais vantagens desde o ajuizamento da ação mandamental. Recurso provido para conceder a ordem.”
+
+    Em sede de juízo de retratação, o Tribunal de Origem manteve o acordão, cuja ementa transcrevo:
+
+“RECURSO EXTRAORDINÁRIO. Juízo de retratação. Código de Processo Civil, artigo 1040, II. Mandado de Segurança. Servidora pública municipal exonerada em virtude de aposentadoria pelo Regime Geral da Previdência Social. Segurança concedida para restabelecimento do vínculo. Adequação a Supremo Tribunal Federal, Tema 1119. Sem contraste com tal orientação. Exoneração que ocorreu mais de onze anos depois da aposentadoria do servidor. Município que decaiu do direito de exonerar. Lei Federal 9784/1999, artigo 54. Julgamento mantido.”
+
+    Na minuta, sustenta-se violação de dispositivos da Constituição da República, assim como dos Temas nº 606 e 1.150 do Supremo Tribunal Federal.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem que levaram ao reconhecimento da decadência demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REVISÃO DO ATO DE APOSENTADORIA. DECADÊNCIA ADMINISTRATIVA. INCIDÊNCIA DO ART. 54 DA LEI N. 9.784/1999. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 928029 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 16-02-2016, PROCESSO ELETRÔNICO DJe-038  DIVULG 29-02-2016  PUBLIC 01-03-2016)
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PENSÃO POR MORTE DE SERVIDOR PÚBLICO FEDERAL INATIVO. REVISÃO REALIZADA POR INICIATIVA DA PRÓPRIA ADMINISTRAÇÃO. RECONHECIMENTO DA OCORRÊNCIA DE DECADÊNCIA PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO NO ARTIGO 54 DA LEI 9.784/1999. NECESSIDADE DE ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA. PRECEDENTES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO MANIFESTAMENTE IMPROCEDENTE. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.” (RE 1431330 AgR, Relator(a): LUIZ FUX, Primeira Turma, DJe 16-06-2023)
+
+    Ainda que superado tal óbice, melhor sorte não teria o recurso, uma vez que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, que no julgamento do paradigma do Tema 606 da repercussão geral, assentou que “a natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão. A concessão de aposentadoria aos empregados públicos inviabiliza a permanência no emprego, nos termos do art. 37, § 14, da CRFB, salvo para as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de entrada em vigor da Emenda Constitucional nº 103/19, nos termos do que dispõe seu art. 6º”. Esta é a ementa do julgado:
+
+    “Recurso extraordinário. Direito Constitucional. Processual. Administrativo. Tema nº 606 da sistemática da Repercussão Geral. Competência da Justiça Federal. Reintegração de empregados públicos. Empresa de Correios e Telégrafos. (ECT). Dispensa em razão de aposentadoria voluntária. Extinção do vínculo. EC nº 103, de 2019. Cumulação. Proventos e vencimentos. Recurso ordinário não provido. 1. Trata-se, in casu, de empregado público da Empresa de Correios e Telégrafos (ECT) que impetrou mandado de segurança em face de ato mediante o qual o Secretário Executivo do Conselho de Coordenação de Empresas Estatais e do Presidente da ECT determinou o desligamento dos empregados aposentados que se mantinham na ativa, nos termos da MP nº 1523/1996. 2. Compete à Justiça Federal processar e julgar ação cujo objeto seja a reintegração de empregados públicos dispensados em virtude de aposentadoria espontânea, bem como a cumulatividade de proventos com vencimentos, o que difere, em essência, da discussão acerca da relação de trabalho entre os empregados e a empresa pública, afastando-se a competência da Justiça do Trabalho. 3. Segundo o disposto no art. 37, § 14, da CF (incluído pela EC nº 103, de 2019), a aposentadoria faz cessar o vínculo ao cargo, emprego ou função pública cujo tempo de contribuição houver embasado a passagem do servidor/empregado público para a inatividade, inclusive quando feita sob o Regime Geral de Previdência Social. 4. A mencionada EC nº 103/19, contudo, em seu art. 6º, excluiu da incidência da regra insculpida no § 14 do art. 37 da Constituição Federal as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de sua entrada em vigor, sendo essa a hipótese versada nos autos. 5. Foi fixada a seguinte tese de repercussão geral: ‘A natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão. A concessão de aposentadoria aos empregados públicos inviabiliza a permanência no emprego, nos termos do art. 37, § 14, da CRFB, salvo para as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de entrada em vigor da Emenda Constitucional nº 103/19, nos termos do que dispõe seu art. 6º.’ 6. Recursos extraordinários não providos.” (RE 655283, Rel. Min. Marco Aurélio, Relator p/ acórdão: Min. Dias Toffoli, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 02.12.2021)
+
+    Na hipótese dos autos, como já assentado pelas instâncias anteriores, a aposentadoria do recorrido foi requerida em 18/04/2011, antes, portanto, da entrada em vigor da Emenda Constitucional nº 103/2019 (13/11/2019), razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 27 de janeiro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
