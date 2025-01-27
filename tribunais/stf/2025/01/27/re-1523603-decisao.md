@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Município de São José do Rio Preto, em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+    “Apelação. Ação declaratória de inexistência de relação jurídico-tributária com pedido cumulado de repetição de indébito. Contribuição para custeio de serviço de iluminação pública. Tributo destinado a custear atividade de interesse geral. Natureza jurídica que não se compatibiliza com a de contribuição. Alegação de inconstitucionalidade. Procedência. Honorários advocatícios. Redução. Inadmissibilidade. Verba fixada com moderação. Inteligência do artigo 20, § 4°, do Código de Processo Civil. Possibilidade de incidência de correção monetária e de juros de mora sobre a mencionada quantia, desde a decisão que a fixou em relação àquela primeira e a partir do trânsito em julgado da decisão que a arbitrou quanto à segunda. Sentença mantida. Recurso denegado.”
+
+    Na minuta, sustenta-se violação do art. 149-A da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso comporta provimento.
+
+    No julgamento do RE 573.675, Rel. Min. Ricardo Lewandowski, DJe de 22/5/2009, Tema nº 44, reconheceu-se a constitucionalidade da contribuição para o custeio do serviço de iluminação pública, inclusive sob ótica da isonomia tributária, da capacidade contributiva, da razoabilidade e da proporcionalidade. Eis a ementa do paradigma:
+
+     “CONSTITUCIONAL. TRIBUTÁRIO. RE INTERPOSTO CONTRA DECISÃO PROFERIDA EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE ESTADUAL. CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA - COSIP. ART. 149-A DA CONSTITUIÇÃO FEDERAL. LEI COMPLEMENTAR 7/2002, DO MUNICÍPIO DE SÃO JOSÉ, SANTA CATARINA. COBRANÇA REALIZADA NA FATURA DE ENERGIA ELÉTRICA. UNIVERSO DE CONTRIBUINTES QUE NÃO COINCIDE COM O DE BENEFICIÁRIOS DO SERVIÇO. BASE DE CÁLCULO QUE LEVA EM CONSIDERAÇÃO O CUSTO DA ILUMINAÇÃO PÚBLICA E O CONSUMO DE ENERGIA. PROGRESSIVIDADE DA ALÍQUOTA QUE EXPRESSA O RATEIO DAS DESPESAS INCORRIDAS PELO MUNICÍPIO. OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA CAPACIDADE CONTRIBUTIVA. INOCORRÊNCIA. EXAÇÃO QUE RESPEITA OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO EXTRAORDINÁRIO IMPROVIDO. I - Lei que restringe os contribuintes da COSIP aos consumidores de energia elétrica do município não ofende o princípio da isonomia, ante a impossibilidade de se identificar e tributar todos os beneficiários do serviço de iluminação pública. II - A progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os consumidores de energia elétrica, não afronta o princípio da capacidade contributiva. III - Tributo de caráter sui generis, que não se confunde com um imposto, porque sua receita se destina a finalidade específica, nem com uma taxa, por não exigir a contraprestação individualizada de um serviço ao contribuinte.IV - Exação que, ademais, se amolda aos princípios da razoabilidade e da proporcionalidade. V - Recurso extraordinário conhecido e improvido.”
+
+    Da análise dos autos, verifica-se que o acórdão impugnado não está alinhado à orientação desta Suprema Corte, no sentido da constitucionalidade da Contribuição para o Custeio de Iluminação Pública – COSIP, e que a progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os consumidores de energia elétrica, não afronta o princípio da capacidade contributiva, além de tratar-se de tributo de caráter sui generis, porque sua receita se destina a finalidade específica, que se amolda aos princípios da razoabilidade e da proporcionalidade. Nesse sentido:
+
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO E PROCESSO CIVIL. CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA. ARTIGO 149-A DA CF. JULGAMENTO DE MÉRITO DO TEMA COM REPERCUSSÃO GERAL RECONHECIDA PELA CONSTITUCIONALIDADE DA CONTRIBUIÇÃO. MANUTENÇÃO DO ACÓRDÃO CONTRÁRIO AO JULGADO DO STF ARTIGO 543-B, § 4º, DO CPC - REFORMA LIMINAR DO ACÓRDÃO RECORRIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A repercussão geral, quando reconhecida, e julgado o mérito do recurso extraordinário, enseja à instância de origem exercer o juízo de retratação, de modo a aplicar a tese firmada pelo STF no julgamento do paradigma que fundamentou a devolução do processo, consoante o disposto no artigo 543-B, § 3º, do CPC. 2. O Tribunal de origem decidiu manter o entendimento contrário à tese firmada pelo STF, cabendo a esta Corte Suprema a cassação ou reforma liminar do acórdão contrário à orientação da Corte. 3. O STF, no precedente firmado no julgamento do RE 573.675, decidiu que a contribuição para o custeio do serviço de iluminação pública, consoante o disposto no artigo 149-A da CF/88, é constitucional. 4. Agravo regimental a que se nega provimento” (RE 642.938-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe de 21/6/2012)
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA. CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal, no julgamento do RE 573.675-RG, Rel. Min. Ricardo Lewandowski, reconheceu a repercussão geral do tema em exame e assentou que a contribuição para custeio do serviço de iluminação pública constitui, dentro do gênero tributo, um novo tipo de contribuição que não se confunde com taxa ou imposto. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (RE 1214272 AgR, Relator Min. Roberto Barroso, Primeira Turma, DJe-291)
+
+    Tratando da instituição da COSIP pelo Município de São José do Rio Preto, citem-se as seguintes decisões monocráticas: RE 1.523.661, Rel. Min. Nunes Marques, DJe 19/12/2024; RE 1.000.654, Rel. Min. Luiz Fux, DJe 28/06/2023; RE 1.286.104, Rel. Min. Dias Toffoli, DJe 29/09/2020 e RE 917902, Rel. Min. Gilmar Mendes, DJe 29/04/2020.
+
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, conheço do agravo e dou provimento ao recurso extraordinário para julgar improcedentes os pedidos formulados na inicial. Invertidos os ônus da sucumbência.
+
+    Publique-se.
+
+    Brasília, 27 de janeiro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
