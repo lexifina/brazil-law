@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. MULTA DE TRÂNSITO. EXCESSO DE PESO. NORMA MAIS BENÉFICA. APLICAÇÃO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 231, V, do CTB; e 22, II, da Lei n. 13.103/2015, no que concerne à impossibilidade de retroação de lei mais benéfica para fins de alteração de multa por excesso de peso em caminhão, uma vez que, na esfera administrativa, aplica-se o princípio tempus regit actum e o princípio da legalidade estrita, devendo, portanto, a Administração fazer apenas o que a lei autoriza, no caso conforme a previsão da Lei n. 13.103/2015. E traz a seguinte argumentação:
+A controvérsia se relaciona à exigência de multa imposta por infração administrativa pelo tráfego com excesso de peso.
+E, o artigo 5º, inciso XL, da Constituição Federal, refere-se à retroatividade da lei penal benéfica, a favor do réu, e tem sua aplicação adstrita à esfera penal.
+No caso dos autos, a discussão é referente à multa administrativa, por infração de normas do transporte rodoviário, o que implica a observância das normas e princípios administrativos.
+Dispõe o art. 231, V do CTB (Lei 9503/97), que está sujeito à pena de multa àquele que transitar com o veículo com excesso de peso, admitido percentual de tolerância quando aferido por equipamento, na forma a ser estabelecida pelo CONTRAN.
+Já o art. Art. 22, II da Lei n. 13.103/15 estabelece que ficam convertidas em sanção de advertência as penalidades por violação do Inciso V do art. 231, V do CTB, aplicadas até 2 (dois) anos antes da entrada em vigor da referida Lei.
+No âmbito do direito administrativo, vige o princípio da legalidade estrita, segundo o qual a Administração pode fazer apenas o que a lei autoriza. Ou seja, para a admissão da retroatividade da lei mais benéfica na esfera administrativa, é primordial que haja determinação expressa em lei.
+Assim, a norma a ser observada nos processos administrativos é aquela vigente à época dos fatos, ou seja, a acima descrita que restou violada pelo v. acórdão, exceto previsão expressa em contrário.
+ ..
+Dessa forma, há entendimento da jurisprudência quanto à impossibilidade de aplicação do princípio da retroatividade das leis previsto no art. 5º, XL, da Constituição Federal, às infrações de natureza administrativa, porquanto limita-se aos ilícitos penais.
+Registre-se que a penalidade aplicada conforme o ato normativo vigente à época da infração constitui ato jurídico perfeito, não tendo, inclusive, eventual e posterior discussão na esfera judicial o condão de afastar a perfeição daquele ato, consubstanciada na esfera administrativa, com o encerramento de seu ciclo de formação.
+No caso, deve ser preservado o ato já aplicado, sendo inaplicável a disciplina jurídica referente à retroatividade de lei mais benéfica às multas de natureza administrativa.
+Com efeito, em matéria de multa administrativa se aplica a lei/norma vigente na época da ocorrência de seu fato gerador, sendo certo que isto não quer dizer, todavia, que uma lei punitiva administrativa não possa determinar sua aplicação retroativa (a fatos anteriores à sua vigência).
+Assim, a determinação da retroatividade benéfica deve constar expressamente da norma, que lhe guarde pertinência temática, não cabendo ao aplicador do direito fazê-lo sem que tenha previsão legal específica para tanto (fls. 232-233).
+É o relatório.
+Decido.
+Quanto à controvérsia, é incabível o Recurso Especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "Possuindo o julgado fundamento exclusivamente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurp ação de competência". (AgRg no AREsp 1.532.282/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19.6.2020.)
+Confiram-se ainda os seguintes julgados: AgRg no REsp 1.302.307/TO, Rel. Ministra Eliana Calmon, Primeira Seção, DJe de 13.5.2013; REsp 1.110.552/CE, Rel. Ministro Cesar Asfor Rocha, Primeira Seção, DJe de 15.2.2012; AgInt no REsp 1.830.547/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 3.8.2020; AgInt no AREsp 1.488.516/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º.7.2020; AgInt no AgInt no AREsp 1.484.304/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp 1.519.322/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 30.10.2019; AgInt no AREsp 1.358.090/SE, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 3.6.2019.
+Ademais, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
