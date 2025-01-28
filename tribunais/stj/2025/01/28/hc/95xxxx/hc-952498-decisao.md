@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de TIAGO ALVES PEREIRA contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA no julgamento do Habeas Corpus Criminal n. 0816703-42.2024.8.15.0000.
+Extrai-se dos autos que o paciente foi preso temporariamente em 28/12/2022, prisão posteriormente convertida em preventiva, pela suposta prática do crime tipificado no art. 121, § 2º, incisos II e IV, do Código Penal, e no art. 15 da Lei n. 10.826/2003.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que, na pessoa do Desembargador relator, não conheceu do writ, monocraticamente, nos termos da decisão que restou assim ementada (fl. 11):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PREVENTIVA MANTIDA NA PRONÚNCIA. PACIENTE PRESO DURANTE TODA A INSTRUÇÃO PROCESSUAL. DESNECESSIDADE DE NOVA FUNDAMENTAÇÃO ANALÍTICA. NÃO CONHECIMENTO.
+  Na linha da jurisprudência do STJ, "para manutenção da cautela na decisão de pronúncia, é suficiente indicar que permanecem inalterados os motivos que levaram à sua determinação, em um primeiro momento" (AgRg no RHC n. 194.627/TO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+O Tribunal de origem negou provimento ao agravo interno interposto pela defesa, em acórdão assim ementado (fl. 81):
+AGRAVO INTERNO. NÃO CONHECIDOHABEAS CORPUS MONOCRATICAMENTE. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA DECRETADA ANTERIORMENTE E MANTIDA DECISÃO DE PRONÚNCIA. PACIENTE CUSTODIADO DURANTE TODA A INSTRUÇÃO. DESNECESSIDADE DE NOVA FUNDAMENTAÇÃO ANALÍTICA DA TUTELA CAUTELAR. DESPROVIMENTO.
+  De acordo com a jurisprudência consolidada do Superior Tribunal de Justiça, "para manutenção da cautela na decisão de pronúncia, é suficiente indicar que permanecem inalterados os motivos que levaram à sua determinação, em um primeiro momento" (AgRg no RHC n. 194.627/TO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+  Dessa forma, não se conhece do mandamus, quando a impetração sequer apresenta viabilidade - em tese - para ser admitida.
+No presente writ, a defesa sustenta a ilegalidade da manutenção da prisão preventiva na sentença de pronúncia, pois o Magistrado não teria fundamentado adequadamente a necessidade da medida extrema, limitando-se apenas a afirmar que estavam presentes os requisitos autorizadores, violando, assim, o disposto no art. 93, inciso IX, da Constituição Federal, e no art. 413, § 3º, do Código de Processo Penal - CPP, que impõe ao juiz o dever de se manifestar sobre a manutenção ou revogação da prisão preventiva na decisão de pronúncia, o que não teria ocorrido.
+Aduz, ainda, que o Magistrado não considerou a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP, e que a ausência de fundamentação específica quanto à garantia da ordem pública, à instrução criminal ou à aplicação da lei penal torna a decisão genérica e falha.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+A liminar foi indeferida pelo Ministro Joel Ilan Paciornik (fls. 217/219).
+Prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Paulo Eduardo Bueno, pela denegação da ordem (fls. 241/246).
+Em 2/12/2024, o Ministro Joel Ilan Paciornik consultou a prevenção deste relator, tendo em vista este feito vincular-se ao HC n. 854.174/PB, também de minha relatoria. Em 4/12/2024, aceitei a prevenção.
+É o relatório.
+Para a decretação de custódia cautelar, a lei processual penal exige a reunião dos seguintes requisitos: fumus commissi delicti e o periculum in libertatis (art. 312 do CPP).
+Na sentença de pronúncia, o Magistrado de piso manteve a custódia cautelar, por entender que permanecem presentes os seus requisitos (fl. 66). E, a o decretar a prisão preventiva do paciente, lá no início do processo, disse o Magistrado o seguinte (fls. 31/32 - grifo nosso):
+ ..
+A conduta, a gravidade concreta do delito e as circunstâncias demonstram que é necessária a retirada dele(s) do convívio social para garantir a ordem pública e a aplicação da lei penal.
+A fuga é elemento suficiente para manter a decretação da prisão preventiva.
+ ..
+Gizo que foram apreendidas várias armas de fogo e munições com o réu 0800829-51.2022.8.15.0561 (id. 67851765 - Pág. 17,67851765 - Pág. 31; 67851765 - Pág. 36), uma delas subtraída durante um roubo à agência bancária do Santander (id. 67851765 - Pág. 33). O "modus operandi" exacerbou os elementos do tipo.
+A vítima foi morta em um dos locais mais movimentados e famosos da cidade de Coremas/PB (bar do peixe) na manhã do dia das eleições, quando a cidade estava extremamente movimentada.
+ ..
+Portanto, além da garantia da aplicação da lei penal (a fuga por si só é suficiente para a decretação da preventiva), a ordem pública foi turbada.
+ ..
+Assim, no caso, contravindo os argumentos dispostos neste writ, o Tribunal paraibano, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau - no sentido de preservar a ordem pública -, considerou adequada a manutenção de prisão cautelar do paciente, na sentença de pronúncia, em decorrência da gravidade concreta do delito, que foi descrito na denúncia dessa forma (fls. 18/19 - grifo nosso):
+ ..
+Consta do incluso caderno policial que, no dia 02 de outubro de 2022 (no dia das eleições de 2022), por volta das 08h30min, no Bar do Peixe, localizado na Rua Estudante Quimara Ferreira, s/n, Bairro Cabo Branco, na cidade de Coremas/PB, o denunciado, dolosamente, motivado pela futilidade, e mediante recurso que dificultou a defesa da vítima (surpresa), matou Everaldo Honório da Silva (segurança do Prefeito de Coremas), por meio de disparo(s) de arma de fogo (perfurocontundente), bem como efetuou um disparo de arma de fogo em lugar habitado e adjacências.
+No momento dos fatos, Estevam Francisco de Santana Neto (conhecido por Netinho) estava conversando com algumas pessoas sentado sobre o capô de seu veículo, o qual se encontrava estacionado na contramão e sob árvores das proximidades do Bar do Peixe, quando ouviu os estampidos de disparos de arma de fogo.
+Conforme relato de Estevam, após os disparos de arma de fogo, o acusado chegou apontando uma arma de fogo (revólver calibre 38) em sua direção e ordenou que adentrasse em seu veículo e que conduzisse o automóvel pela parede do açude, o que foi feito.
+Durante o trajeto, o denunciado ordenava que Estevam acelerasse o automóvel enquanto apontava a arma de fogo em sua direção. Nesse contexto, segundo relato de Estevam, o denunciado efetuou um disparo de arma de fogo em lugar habitado e adjacências.
+ ..
+Com razão o nobre parecerista quando destacou, em seu parecer, que o exame dos excertos acima transcritos, contidos na sentença de pronúncia e no decreto de prisão preventiva, evidencia que o disposto no art. 387, § 1º, do CPP foi devidamente observado, pois foram indicados fundamentos concretos para a manutenção da prisão cautelar anteriormente imposta ao agente.  ..  Assim sendo, demonstrado o periculum libertatis do agente, ce- diço dever-se preservar incólume sua prisão preventiva e, não havendo que se falar em carência de fundamentação, impõe-se a manutenção do acórdão por seus pró- prios fundamentos, de vez que preenchidos os requisitos dos artigos 312 e 313 do CPP, o que impede, ademais, aplicação de medida cautelar alternativa ao cárcere, consoante determina o art. 282, § 6º, do Código de Processo Penal (STJ, 5ªT, RHC 52.793/RS, rel. Min. Félix Fischer, DJe 27/11/2014) - (fls. 245/246).
+Por conseguinte, a custódia está corretamente motivada no modus operandi e na gravidade concreta do crime (AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022).
+Inclusive, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Ante o exposto, à vista do parecer e dos precedentes, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO CAUTELAR MANTIDA NA SENTENÇA DE PRONÚNCIA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. PRESERVAÇÃO DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. PARECER ACOLHIDO.
+Habeas corpus denegado.
