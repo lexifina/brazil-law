@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por AROLDO TUCUMANTEL contra acórdão do Tribunal Regional da 4ª Região, que negou provimento a agravo regimental.
+Contra esse acórdão, interpôs-se o presente recurso especial com base na alínea "a", do art. 105, inc. III, da CF, alegando, em síntese, que o acórdão recorrido violou os artigos 619 e 620, §2º, ambos do Código de Processo Penal, porquanto aduz que o "acórdão partiu de premissa equivocada no que diz respeito a circunstância de não ter sido interrompido o prazo para interposição de outros recursos pela oposição de Embargos de Declaração pela Defesa do ora recorrente, o que importa em flagrante ofensa ao disposto no art. 619, do Código de Processo Penal". Nesse sentido, requer seja "provido o presente recurso para efeito de considerar a interrupção do prazo recursal e assim admitir o processamento dos Embargos Infringentes e de Nulidade opostos no mov. 31/TRF, sob pena de contrariedade ao artigo 619 do CPP e artigo 5º, inciso XXXV da CF".
+As contrarrazões foram apresentadas pelo recorrido (e-STJ fls. 478-485).
+O recurso foi admitido pelo Tribunal de origem (e-STJ fls. 488-489).
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso especial (e-STJ fls. 513-517).
+É o relatório.
+Decido.
+O recurso é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF), e apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+No que tange à alegação de contrariedade aos artigos 619 e 620, § 2º do CPP, por se tratar de matérias de direito, conheço do recurso e passo à análise.
+Com efeito, constou do acórdão (e-STJ fls. 398-400) que:
+"Não verifico razões para modificar a referida decisão.
+Com efeito, o direito de recorrer possui pressupostos de admissibilidade objetivos (cabimento, adequação e tempestividade) e subjetivos (legitimidade e interesse recursal). (..)
+Assim sendo, considerando-se que no caso concreto os embargos de declaração interpostos pela parte em face do julgamento da apelação tiveram nítido caráter protelatório, porquanto objetivaram rediscutir a conclusão tomada no julgado sem que houvesse incidência das hipóteses previstas no art. 619 do CPP, como apontado na decisão do evento 24, o recurso interposto não preencheu o requisito da adequação, motivo pelo qual foi indeferido liminarmente, nos termos do art. 620, § 2º, do CPP. Saliento que esta Corte tem reiteradamente decidido que não são cognoscíveis os embargos de declaração interpostos pelas partes quando ausentes as hipóteses elencadas no mencionado art. 619 do CPP, quais sejam, ambiguidade, obscuridade, contradição ou omissão, sendo este o fundamento que levou à rejeição liminar dos embargos interpostos pelo recorrente, como já dito, de modo que, em consequência, o prazo para a interposição dos demais recursos não restou interrompido."
+Pelo que se extrai, na hipótese, da análise dos autos, os embargos de declaração opostos contra o acórdão pelo ora agravante não foram conhecidos, pois considerados manifestadamente incabíveis e, conforme consignado, protelatórios.
+Na sequência, opostos embargos infringentes pelo recorrente, estes não foram reconhecidos por serem intempestivos, pois compreendeu o Tribunal a quo que a oposição de embargos de declaração fora das hipóteses de cabimento (ambiguidade, obscuridade, contradição ou omissão) não interrompe ou suspende o prazo para o recurso próprio.
+Expostos referidos fundamentos, extrai-se que não há violação aos dispositivos legais indicados a ser reconhecida, porquanto o entendimento adotado pelo TRF-4 encontra-se em total consonância com a compreensão desta Corte no sentido de que os embargos de declaração manifestamente inadmissíveis não interrompem o prazo para a interposição de outros recursos.
+A propósito, colaciona-se os seguintes julgados:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGUNDOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. MANIFESTAMENTE INADMISSÍVEIS. NÃO INTERRUPÇÃO DO PRAZO. APELO NOBRE INTEMPESTIVO.
+1. É intempestivo o recurso especial interposto após o prazo legal.
+2. Os embargos de declaração manifestamente inadmissíveis não interrompem o prazo para a interposição de outros recursos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 760.576/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/09/2017, DJe 29/09/2017)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE CONTRADIÇÃO NO ACÓRDÃO EMBARGADO. REGIMENTAL ANTERIOR INTEMPESTIVO. NÃO INTERRUPÇÃO DO PRAZO. EMBARGOS NÃO CONHECIDOS.
+1. O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619 do Código de Processo Penal, sendo que a inexistência dos vícios ali consagrados importa no desacolhimento da pretensão aclaratória.
+2. "Conforme reiterada jurisprudência desta Corte, os recursos manifestamente incabíveis ou intempestivos não são capazes de interromper ou suspender os demais prazos recursais". (EDcl no AgRg no AgRg no REsp 1512376/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 19/05/2016) 3. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp 1026988/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/06/2017, DJe 26/06/2017)
+(..) Os embargos de declaração somente não interrompem o prazo para outros recursos quando intempestivos, manifestamente incabíveis ou nos casos em que oferecidos, com pedido de aplicação de efeitos infringentes, sem a indicação, na peça de interposição, de vício próprio de embargabilidade (omissão, contradição, obscuridade ou erro material). Por conseguinte, deve o recurso especial ser provido, com a consequente determinação de retorno dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul para que julgue o mérito do agravo de instrumento como entender de direito, afastada a tese de intempestividade do recurso.
+7. Embargos de divergência a que se dá provimento.
+(EAREsp n. 175.648/RS, relator Ministro Og Fernandes, Corte Especial, julgado em 24/10/2016, DJe de 4/11/2016.)
+Logo, de fato, tendo sido o s embargos de declaração opostos liminarmente indeferidos pelo Tribunal, não há de se falar em interrupção do prazo para a interposição dos embargos infringentes- razão pela qual é irretocável a conclusão pela intempestividade destes.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento, mantendo-se o acórdão nos termos da fundamentação.
+Por fim, após análise do conteúdo da documentação colacionada aos autos, não verifico, de plano, qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal que implique ameaça de violência ou coação à liberdade de locomoção do recorrente, nos termos do art. 647-A do Código de Processo Penal, incluído pela Lei 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Publique-se. Intimem-se.
+EMENTA
