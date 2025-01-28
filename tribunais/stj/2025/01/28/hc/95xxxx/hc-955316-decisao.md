@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Gelvani Haskel, apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina (HC n. 5062889-22.2024.8.24.0000/SC).
+Narram os autos que o paciente teve a prisão preventiva decretada em razão da suposta prática dos crimes previstos nos arts. 211 e 347, ambos do Código Penal, e 26, § 2º da Lei n. 14.344/2022.
+Neste mandamus, o impetrante alega, em síntese, ausência de fundamentos concretos para a prisão do réu, destacando que o Magistrado de piso vincula a conduta praticada pelo ora paciente a do seu irmão, corréu na mesma ação penal e verdadeiro autor dos homicídios.
+Aduz que a participação do Paciente é posterior a todos estes acontecimentos inexistindo prova pré-constituída de que tenha instigado a prática dos delitos (fl. 6).
+Requer, inclusive em liminar, a revogação da prisão preventiva, aplicando-se medidas cautelares diversas da prisão.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República ELIANE DE ALBUQUERQUE OLIVEIRA RECENA, pela não admissão do habeas corpus, descabida a concessão de um habeas corpus ex officio (fl. 148).
+Às fls. 151/152, o paciente juntou petição informando que houve o falecimento do corréu, seu irmão, único responsável pelos três homicídios praticados. Na oportunidade, foi reconhecida a extinção da punibilidade em relação a Gilson Haskel e alterado o rito processual para o procedimento comum relativamente ao ora paciente.
+Em informações atualizadas, o Magistrado de piso noticiou que foi indeferido novo pedido de revogação da prisão preventiva e os autos estão na fase de apresentação das alegações finais (fls. 164/166).
+É o relatório.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Contudo, a ordem não deve ser concedida.
+Ao decretar a prisão preventiva, disse o Juízo de piso o seguinte (fls. 100/104 - grifo nosso):
+ ..
+A materialidade dos crimes está representada pelos registros fotográficos que mostram os corpos carbonizados em uma ribanceira às margens da estrada, pelos relatos das testemunhas que confirmam a localização de três corpos dentro do veículo incendiado e pelas declarações dos investigados: Gilson confessa ter matado sua ex-companheira e seus dois filhos, enquanto Gelvani admite ter auxiliado o irmão a transportar os corpos para serem carbonizados.
+Os indícios de autoria recaem sobre os investigados, especialmente porque, ao prestarem suas declarações perante o delegado de polícia, admitiram a prática criminosa, como se verá a seguir.
+ ..
+Com relação à Gelvani, contribuiu ativamente para destruir provas do crime cometido por seu irmão, sendo sua segregação indispensável para assegurar a instrução processual penal e a garantia da apuração dos fatos.
+ ..
+Gelvani demonstrou que ajudou ativamente seu irmão a destruir e ocultar provas que poderiam esclarecer o crime, o que evidencia o risco que sua liberdade representa para a investigação.
+Portanto, a prisão cautelar dos réus é necessária para garantir a aplicação da lei penal.
+ ..
+O Tribunal de Justiça, concordando com os fundamentos apresentados pelo Magistrado, destacou que, pelas particularidades do caso sob comento, de rigor a manutenção da prisão preventiva, pois a denúncia ainda narra que o Paciente teria, em tese, auxiliado a limpar a residência onde ocorreu os homicídios, retirando os corpos do local e a espingarda utilizada, transportando essa última para a sua própria residência e guardando-a sem autorização e em desacordo com determinação legal ou regulamentar. Por fim, após tomar conhecimento dos crimes de homicídio praticados contra as crianças, ainda teria deixado de comunicar às autoridades (fl. 113 - grifo nosso).
+Ora, é certo que algumas condutas causam maior repercussão, o que sugere a necessidade da segregação cautelar em prol da garantia da ordem pública. Como se vê, a custódia preventiva está idoneamente motivada, especialmente para a garantia da ordem pública, vulnerada pela gravidade concreta do crime, evidenciada pelo modus operandi.
+A propósito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+E ainda: AgRg no RHC n. 147.821/PB, Ministra Laurita Vaz, Sexta Turma, DJe 16/5/2022; e AgRg no HC n. 651.013/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/5/2021.
+Com razão a Subprocuradora-Geral da República quando disse que a segregação provisória foi decretada e mantida, in casu, com base em elementos constantes dos autos que demonstram, inequivocamente, a necessidade e adequação da medida constritiva para se assegurar a aplicação da lei penal e o bom andamento das investigações, bem como para garantia da ordem pública, em especial em razão da gravidade concreta das condutas imputadas ao ora paciente, evidenciadas pelo modus operandi, uma vez que ele ".. tentou ocultar o crime colocando as vítimas em um veículo Fiat/Mobi Trekking, placas RYM8A76, ateando fogo e jogando-o em uma ribanceira na comarca vizinha de Ibirama, localidade de Caminho do Meio. Após o crime, Gi. fugiu da cidade.  ..  não se pode ignorar que o Paciente foi denunciado justamente porque empenhou esforços para ocultar provas acerca de delitos extremamente hediondos cometidos por seu irmão. " (fls. 107 e-STJ) - (fl. 145 - grifo nosso).
+Ante o exposto, à vista do parecer e dos precedentes, denego a ordem do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. OCULTAÇÃO DE CADÁVER, FRAUDE PROCESSUAL E OUTRO CRIME. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. PRECEDENTES. PARECER ACOLHIDO.
+Habeas corpus denegado.
