@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VILMA DOS SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+"APELAÇÃO - AÇÃO DECLARATÓRIA C.C. INDENIZATÓRIA - PRELIMINAR - CERCEAMENTO DE DEFESA  I  SENTENÇA DE IMPROCEDÊNCIA  APELO DA AUTORA  II - ESTANDO OS AUTOS DEVIDAMENTE INSTRUÍDOS, CABÍVEL O JULGAMENTO DA LIDE NO ESTADO EM QUE SE ENCONTRAVA, SENDO DESNECESSÁRIA A REALIZAÇÃO DE OUTRAS PROVAS  AUSÊNCIA DE CERCEAMENTO DE DEFESA  INTELIGÊNCIA DO ART. 355, I, DO NCPC - PRECEDENTES DO C. STJ - PRELIMINAR SUSCITADA PELA AUTORA AFASTADA".
+"CONTRATO DE EMPRÉSTIMO CONSIGNADO - DESCONTOS DE PARCELAS DO BENEFÍCIO PREVIDENCIÁRIO - DANOS MATERIAIS E MORAIS  I  CARACTERIZADA RELAÇÃO DE CONSUMO  INVERSÃO DO ÔNUS DA PROVA  BANCO RÉU QUE LOGROU DEMONSTRAR A LEGALIDADE DOS DESCONTOS MENSAIS NO BENEFÍCIO PREVIDENCIÁRIO DA AUTORA  CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO COMPROVADA POR MEIO DE CONTRATO ASSINADO DIGITALMENTE: MEDIANTE BIOMETRIA FACIAL - OPERAÇÃO CELEBRADA APÓS O FORNECIMENTO DE CÓPIA DE DOCUMENTO PESSOAL DA AUTORA, ASSINATURA DIGITAL E "SELFIE"  EXISTENTE A RELAÇÃO JURÍDICA ENTRE AS PARTES  LEGÍTIMOS OS DESCONTOS LEVADOS A EFEITO PELO BANCO RÉU: NÃO HÁ QUE SE FALAR EM DECLARAÇÃO DE INEXIGIBILIDADE DO CONTRATO DE EMPRÉSTIMO CONSIGNADO, NEM MESMO EM INDENIZAÇÃO POR DANOS MATERIAIS OU MORAIS  AÇÃO IMPROCEDENTE  SENTENÇA MANTIDA  II- HONORÁRIOS ADVOCATÍCIOS MAJORADOS PARA 12% SOBRE O VALOR DA CAUSA, NOS TERMOS DO ART. 85, §11. DO NCPC, OBSERVADA A GRATUIDADE PROCESSUAL  APELO IMPROVIDO" (fl. 487).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 370 do CPC, no que concerne à configuração de cerceamento de defesa em razão da não oportunização de produção de prova pericial, trazendo a seguinte argumentação:
+Aliás, a produção unilateral dos documentos encartados pela recorrida oriundo de sistema por ela controlado, é inapto para revelar com a necessária certeza a efetiva manifestação volitiva e contratação da recorrente, notadamente porque tal instrumento pode ser facilmente manipulável, isto é, não prestam, por si só, como prova inequívoca da suposta contratação.
+E, como acima demonstrado, os documentos trazidos aos autos possuem incongruências gritantes nos registros e imagens, tais como a Geolocalização, Sistema Operacional (OS), modelo do aparelho, Internet Protocol (IP), ID da Sessão do Usuário e ID do Device (Identidade do aparelho) usados para contratar os consignados fraudulentos.
+ ..
+Nesta esteira, a perícia técnica com a nomeação de perito judicial para produção da prova almejada, é imprescindível para cognição exauriente a fim formar convicção adequada resolução da lide, em respeito aos Princípios Constitucionais do Contraditório e da Ampla Defesa.
+ ..
+Ante o exposto, REQUER que Vossas Excelências se dignem julgar de total procedência o presente recurso especial, em face da afronta ao dispositivo legal elencado (artigo 370, caput, da Lei 13.105/2015, dando provimento ao presente recurso, conforme acima fundamentado, uma vez que houve cerceamento de prova e ofensa a lei federal, eis que a prova técnica pericial documentoscópica e/ou computacional expressamente requerida pela recorrente, para comprovação da ocorrência de fraude bancária nas operações de crédito impugnadas, é imprescindível para o deslinde da controvérsia, razão pela qual deve ser declarado o cerceamento de defesa, determinando a devolução dos autos à origem, para sua devida instrução, com a produção das provas requeridas, com o que estarão Vossas Excelências, Eméritos Julgadores, perpetuando a verdadeira justiça (fls. 502/504).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Inicialmente, insta consignar que a preliminar de cerceamento de defesa não comporta acolhida.
+A prova presente nos autos era suficiente ao julgamento do feito, inexistindo justificativa para maior dilação probatória, sendo prescindível e desnecessária a realização de perícia em aparelhos eletrônicos.
+Dispõe o art. 355, inciso I, do NCPC:
+
+Tratando-se de ação declaratória e indenizatória e estando os autos devidamente instruídos com documentos capazes de formar o convencimento do magistrado acerca da matéria discutida, perfeitamente possível o julgamento antecipado da lide.
+Outrossim, pela dicção do art. 370 do NCPC,
+ ..
+Afastada a preliminar, passa-se à análise do mérito do recurso (fls. 489/490).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
