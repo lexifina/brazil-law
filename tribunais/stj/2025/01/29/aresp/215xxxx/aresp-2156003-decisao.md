@@ -1,0 +1,25 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do HC n. 559.318/SP (fl. 411).
+Trata-se de agravo interposto por Ronaldo Henrique da Silva Rodrigues contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 1526775-12.2019.8.26.0228 (fls. 318/325).
+Nas razões do recurso especial, a defesa do agravante sustentou que o acórdão recorrido incorreu em contrariedade ao art. 33, § 4º, da Lei n. 11.343/2006, requerendo a aplicação do redutor na fração máxima (fls. 335/350).
+A Corte de origem inadmitiu o recurso com suporte nas Súmulas 7 e 182/STJ (fls. 369/370).
+Contra a decisão a defesa interpôs o presente agravo (fls. 378/391).
+O Ministério Público Federal manifesta-se pelo conhecimento do agravo para prover o recurso especial (fls. 413/417).
+É o relatório.
+O agravo deve ser conhecido, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+Quanto ao ponto, colhe-se do acórdão combatido o seguinte destaque (fl. 324):
+ ..
+E respeitado o posicionamento da i. Procuradoria de Justiça, embora o recorrente Ronaldo seja primário, não há falar em incidência do redutor. Com efeito, a quantidade e natureza das drogas encontradas com os réus anotando-se que na posse direta de Ronaldo foram encontradas 112 porções de cocaína, droga de altíssima nocividade, com peso total líquido de 20,6g -, são elementos que, em cotejo com as demais circunstâncias da espécie, não recomendam a aplicação do instituto, direcionado a traficantes ocasionais, pouco incutidos na atividade ilícita, o que não se viu nos autos.
+ ..
+Observa-se, do trecho acima, que a Corte de origem utilizou a quantidade/natureza dos entorpecentes (20,6 g de cocaína) para afastar a causa especial de redução de pena.
+No entanto, tal entendimento não encontra respaldo na jurisprudência desta Corte, a qual considera que a quantidade de entorpecentes, ainda que de alta nocividade, por si só, não justifica o afastamento do redutor.
+Assim, a vedação à minorante prevista na Lei n. 11.343/2006 diverge da jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido, a Terceira Seção desta Corte Superior de Justiça decidiu, por meio do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), que  a  utilização supletiva desses elementos  natureza e da quantidade da droga apreendida  para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa (AgRg no HC n. 747.644/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/9/2022 - grifo nosso).
+Com efeito, a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para que se comprove sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo (AgRg no AREsp n. 984.996/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/5/2018).
+Desse modo, é forçoso reconhecer a possibilidade de aplicar a causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo, diante dos elementos acima consignados, especialmente a quantidade de drogas e a primariedade do acusado.
+Fixadas essas premissas e obedecidas as demais diretrizes estabelecidas pelas instâncias de origem, aplico a redução de 2/3, em razão da minorante reconhecida (art. 33, § 4º, da Lei n. 11.343/2006), de modo a atingir o patamar definitivo de 1 ano e 8 meses de reclusão, além de 166 dias-multa, em regime inicial aberto, ficando substituída a pena privativa de liberdade por duas restritivas de direitos, a serem estabelecidas pelo Juízo da execução, nos termos dos arts. 33, § 2º, c, e 44 do Código Penal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de estabelecer a incidência da causa de redução de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, e, consequentemente, redimensionar a pena do crime de tráfico de drogas para 1 ano e 8 meses de reclusão, e 166 dias-multa, modificar o regime inicial para o aberto e substituir a pena privativa de liberdade por duas restritivas de direitos, a critério do Juízo da execução.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PRIMARIEDADE E BONS ANTECEDENTES. QUANTIDADE E NATUREZA DOS ENTORPECENTES APREENDIDOS. QUANTIDADE NÃO EXCESSIVA. FUNDAMENTAÇÃO INIDÔNEA. CAUSA DE DIMINUIÇÃO DE PENA APLICADA NO PATAMAR MÁXIMO. PENA REDIMENSIONADA. REGIME ABERTO. POSSIBILIDADE. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. SUBSTITUIÇÃO DO CÁRCERE POR RESTRITIVAS DE DIREITOS. POSSIBILIDADE, A CARGO DO JUÍZO DA EXECUÇÃO.
+Agravo conhecido para, nos termos do dispositivo, dar provimento ao recurso especial.
