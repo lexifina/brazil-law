@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOSE HILARIO DE SANTANA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo de instrumento: interposto pelo recorrente contra decisão, proferida nos autos de cumprimento de sentença, que determinou a remessa dos autos à contadoria judicial para apuração do valor devido.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo recorrente, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ENVIO DOS AUTOS A CONTADORIA A FIM DE SANAR AS DÚVIDAS QUANTO AOS CÁLCULOS APRESENTADOS NOS AUTOS. POSSIBILIDADE. ANÁLISE DA INTEMPESTIVIDADE DA IMPUGNAÇÃO. SUPRESSÃO DE INSTÂNCIA. IRRESIGNAÇÃO. DESPROVIMENTO AO RECURSO.
+- No caso concreto, a fim de sanar dúvidas quanto aos critérios de cálculos utilizados pelos litigantes, tem-se que o envio dos autos à contadoria é medida se impõe neste momento processual.
+- Por fim, quanto a alegação de que a impugnação apresentada pela parte Recorrida é extemporânea, vislumbra da decisão de ID n. 9285793 - Pág. 3 que não houve análise deste ponto pelo juízo singular, inexistindo a possibilidade de apreciação da sua extemporaneidade, sob pena de supressão de instância. (e-STJ, fl. 183)
+Decisão de admissibilidade do TJ/PB: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação dos arts. 489 e 1022 do CPC; ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (remessa dos autos à contadoria); iii) incidência da Súmula 83/STJ (supressão de instância).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "A nulidade existe sim, e está bem delineada no recurso. Está caracterizada pelo fato de se encaminhar os autos em vistas à análise de alegações de excesso, sem antes examinar se as circunstâncias da causa permitem ou não essa análise meritória"; ii) "A premissa em que se funda o recurso não tem nenhuma relação com aquilo que consta da respeitável decisão, motivo pelo qual não há falar em aplicação da Súmula 83/STJ na hipótese, simplesmente porque as premissas não são as mesmas, mas totalmente incompatíveis."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) ausência de violação dos arts. 489 e 1022 do CPC; ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (remessa dos autos à contadoria); iii) incidência da Súmula 83/STJ (supressão de instância).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
