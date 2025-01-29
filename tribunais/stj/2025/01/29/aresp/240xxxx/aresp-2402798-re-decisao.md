@@ -1,0 +1,44 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental, mantendo a decisão de não conhecimento do agravo em recurso especial, por incidência do óbice da Súmula n. 182/STJ.
+O julgado recorrido recebeu a seguinte ementa (fl. 793):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL, NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. Na decisão recorrida, não se conheceu do agravo pela incidência da Súmula 182/STJ, porquanto não atacados os fundamentos erigidos pela Corte local para inadmitir o recurso especial: Súmulas 7/STJ e 284/STF.
+2. Nas razões do agravo em recurso especial, a parte deixou de combater, de forma adequada, aplicação da Súmula 7/STJ. Limitou-se a apresentar fundamentos genéricos quanto a não incidência do referido óbice.
+3. "Para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa." (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+4. Esta Corte pacificou orientação de que a ausência de efetivo ataque a um dos fundamentos da decisão que inadmitiu o recurso especial, na origem, impede o conhecimento do agravo, nos termos da Súmula 182/STJ.
+5. Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 834-837).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XLVI, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que a ausência de apreciação das teses suscitadas no recurso especial, por decisões lacônicas, caracterizaria negativa de prestação jurisdicional por parte desta Corte Superior.
+Requer, assim, a admissão e o provimento do recurso.
+Ademais, apresentou nova petição, fls. 842-847, em que se sustenta o cabimento do acordo de não persecução penal - ANPP no caso.
+As contrarrazões foram apresentadas (fls. 878-891).
+É o relatório.
+2. O pedido de remessa dos autos ao Ministério Público para que se manifeste sobre a possibilidade de oferecimento do ANPP, nos termos da decisão do Supremo Tribunal Federal nos autos do HC 185.913, já foi apreciado e indeferido pela Ministra Relatora Daniela Teixeira, às fls. 862-863.
+Desse modo, estando preclusa a questão, nada há a apreciar neste ponto.
+3. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não conheceu do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 796-798):
+O conhecimento do agravo foi obstado pela incidência da Súmula 182/STJ, porquanto não enfrentados os fundamentos erigidos pela Corte local para inadmitir o recurso especial: Súmulas 7/STJ e 284/STF.
+Nas razões do agravo em recurso especial, a parte deixou de atacar, de forma adequada, aplicação da Súmula 7/STJ. Limitou-se a afirmar, genericamente, que, ao contrário do exarado na decisão agravada, a matéria discutida no recurso especial é exclusivamente de direito, dispensando exame do material fático-probatório.
+Em atenção ao princípio da dialeticidade recursal, o referido combate deve ser realizado de forma efetiva, concreta e pormenorizada. Não são suficientes alegações genéricas ou relativas ao mérito da discussão (AgRg no AREsp 2.094.944/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, D Je de 26/8/2022).
+Esta Corte pacificou orientação de que a ausência de efetivo ataque a um dos fundamentos da decisão que inadmitiu o recurso especial, na origem, impede o conhecimento do agravo, nos termos da Súmula 182/STJ.
+(..)
+Para afastar a incidência da Súmula 7 desta Corte exige-se a demonstração clara e objetiva da controvérsia e de violação de lei federal, independentemente do reexame do conjunto fático-probatório dos autos.
+Vale dizer, "para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa." (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+4. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+5. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
