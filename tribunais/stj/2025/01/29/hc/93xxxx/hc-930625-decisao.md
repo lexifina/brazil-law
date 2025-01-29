@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ELIZANDRO SANDRINI MARCONCIN, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o paciente foi condenado à pena de 3 anos de reclusão, em regime aberto, pena substituída por 2 restritivas de direito, pela prática do delito capitulado no art. 15, caput, c/c o art. 20, inciso I, ambos da Lei n. 10.826/2003.
+Em suas razões, sustenta o impetrante que há constrangimento ilegal oriunda da aplicação infundada da causa de aumento da pena prevista no art. 20, inciso I, da Lei n. 10.826/2003, pois, como o delito não foi cometido no exercício da função, não havendo nexo de casualidade, deve ser afastada a referida causa de aumento de pena.
+Requer, assim, liminarmente e no mérito, que seja afastada a causa de aumento de pena prevista no artigo 20, inciso I, da Lei n. 10.826/2003.
+Liminar indeferida pelo Relator. (e-STJ fls. 51/52)
+Informações prestadas. (e-STJ fls.58/60 e 63/77)
+Parecer do MPF pelo não conhecimento do writ. (e-STJ fls. 79/80)
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Além disso, ocorrido o trânsito em julgado da decisão condenatória nas instâncias de origem, não se admite a impetração de habeas corpus nesta Corte superior, tendo em vista que a competência do Superior Tribunal de Justiça prevista no artigo 105, I, e, da Constituição Federal, alcança, apenas, o processamento e julgamento de revisões criminais de seus próprios julgados.
+No entanto, cabe conceder a ordem de ofício em caso de flagrante ilegalidade do ato impugnado, o que não verifico no caso em exame.
+O paciente foi condenado, por sentença já transitada em julgado, pela prática do delito capitulado no art. 15, caput, c/c o art. 20, inciso I, ambos da Lei n. 10.826/2003.
+Pugna a defesa pelo afastamento da causa de aumento do art. 20 da Lei n. 10.826/03, sob o argumento de que não houve vínculo entre a função exercida e a prática do delito.
+Sobre o tema, o Tribunal local assim se manifestou (e-STJ fl. 43):
+Em que pese as alegações do apelante, corretamente aplicada a causa de aumento prevista no artigo 20 da Lei nº 10.826/2003, em razão da condição do acusado de agente penitenciário, nos termos dos artigos 6º, inciso VII e artigo 20, ambos da Lei nº 10.826/2003. Isto porque incontroverso nos autos que o acusado é agente penitenciário da ativa e, deste modo, a causa de aumento incide ainda que a conduta não tenha sido praticada no exercício da função.
+Relembro que esta Corte possui entendimento consolidado no sentido de que "por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos" (AgRg no HC n. 873.376/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024 e AgRg no HC n. 880.725/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024).
+A partir do trecho transcrito, verifico que o Tribunal local utilizou fundamentação concreta e idônea para reconhecer a causa de aumento , ausente ilegalidade flagrante.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se.
+Intimem-se.
+ EMENTA
