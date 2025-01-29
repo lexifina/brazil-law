@@ -1,0 +1,39 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 268-269):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JÚRI. PRONÚNCIA. ELEMENTOS COLHIDOS NO INQUÉRITO E PROVA JUDICIALIZADA BASEADA EM DEPOIMENTO INDIRETO. DESPRONÚNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Constituição Federal determinou ao Tribunal do Júri a competência para julgar os crimes dolosos contra a vida e os delitos a eles conexos, conferindo-lhe a soberania de seus vereditos.
+2. Entretanto, a fim de reduzir o erro judiciário (art. 5º, LXXV, CF), seja para absolver, seja para condenar, exige-se uma prévia instrução, sob o crivo do contraditório e com a garantia da ampla defesa, perante o juiz togado, com a finalidade de submeter a julgamento no Tribunal do Júri somente os casos em que se verifiquem a comprovação da materialidade e a existência de indícios suficientes de autoria, nos termos do art. 413, § 1º, do CPP, que encerra a primeira etapa do procedimento previsto no Código de Processo Penal.
+3. Logo, embora a análise aprofundada das provas seja feita somente pelo Tribunal Popular, não se pode admitir a pronúncia do réu, dada a sua carga decisória, sem qualquer lastro probatório judicializado, fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial, mormente quando isolados nos autos e até em oposição parcial ao que se produziu sob o contraditório judicial.
+4. Na hipótese, observa-se que os elementos dos autos não são suficientes para a pronúncia do réu, haja vista que os únicos indícios que apontam o agravado como autor do homicídio consistem relatos prestados no inquérito e em depoimento judicial indireto, não corroborado em juízo pelas fontes originárias da informação.
+5. É necessário ponderar a fragilidade da investigação policial apoiada apenas em depoimentos testemunhais, facilmente suscetíveis a mudanças de rumo causadas, eventualmente, por receio de represálias, mormente em casos envolvendo disputa de poder ou atos de vingança entre grupos rivais. As investigações precisam investir em outros meios probatórios que, independentemente de testemunhos ou de confissões, possam dar maior robustez à versão acusatória.
+6. Agravo regimental não provido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXVIII, d, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que esta Corte Superior de Justiça "valorou equivocadamente a prova dos autos, já que a situação fática incontroversa demonstra a existência de indícios suficientes de autoria." (fl. 320)
+Argumenta, em síntese, que o acórdão recorrido, ao rever a decisão de pronúncia feita pelo Tribunal local, "afrontou a competência do Tribunal do Júri para julgamento dos crimes dolosos contra a vida." (fl. 320)
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 337-348.
+É o relatório.
+2. O STF, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou a seguinte tese (Tema n. 154 do STF):
+Qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, "c").
+O acórdão foi assim ementado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. PRELIMINAR DE NÃO CONHECIMENTO DO RE. QUESTÃO SUPERADA. HABEAS CORPUS. CONCESSÃO DA ORDEM PELO SUPERIOR TRIBUNAL DE JUSTIÇA PARA TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA. ALEGAÇÃO DE TOLHIMENTO DE PRERROGATIVA EXCLUSIVA DO MINISTÉRIO PÚBLICO PARA PROVAR A ACUSAÇÃO, MEDIANTE AJUIZAMENTO DE AÇÃO PENAL. ABSOLVIÇÃO SUMÁRIA PROCEDIDA POR TRIBUNAL SUPERIOR, EM DETRIMENTO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. OFENSA AOS ARTS. 5º, XXXVIII, E 129, I, AMBOS DA CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+I - Havendo a Corte, por meio de seu Plenário Virtual, reconhecido a repercussão geral do tema constitucional debatido nos autos, deve prosseguir no julgamento de mérito da causa.
+II - Para se chegar à conclusão contrária à do acórdão recorrido seria necessário reexaminar o conjunto fático-probatório dos autos. Incidência da Súmula 279 do STF.
+III - Decisão judicial de rejeição de denúncia, impronúncia de réu, de absolvição sumária ou de trancamento de ação penal por falta de justa causa, não viola a cláusula constitucional de monopólio do poder de iniciativa do Ministério Público em matéria de persecução penal e tampouco transgride o postulado do juiz natural nos procedimentos penais inerentes ao Tribunal do Júri.
+III - Recurso extraordinário não provido.
+(RE n. 593.443, relator para o acórdão Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 6/6/2013, DJe de 22/5/2014.)
+No caso, ao examinar a controvérsia, este Superior Tribunal assim se manifestou (fls. 282-283):
+No caso vertente, as instâncias ordinárias entenderam haver indícios de autoria a partir dos depoimentos acostados aos autos.
+A leitura do acórdão revela que o policial Civil Urandes descreveu o que ouvira do policial Alecsandro, que, por sua vez, relatou o que escutara do carcereiro Enivaldo, que não foi ouvido em juízo.
+O policial Alexandre registrou que, "ao indagar dos presos quem havia praticado lesões na vítima, se apresentaram os acusados Washington e Geysler, afirmando que realmente desferiram pancadas na vítima" (fl. 78).
+Conforme aduzi na decisão monocrática, verifico que, não obstante o policial Alexandre haja, em juízo, declarado que os réus lhe confessaram haverem desferido pancadas na vítima, os acusados, perante a autoridade judiciária, negaram a participação no delito.
+Como se vê, as duas primeiras testemunhas relataram apenas o que ouviram dizer acerca dos fatos.
+E, quanto às palavras ditas pelo policial Alexandre, não obstante os argumentos do insurgente, segundo tem decidido este Superior Tribunal, esse depoimento indireto não pode ser considerado hábil a confirmar os elementos inquisitoriais, máxime porque não corroborado pela fonte originária da declaração, os réus, que, perante o Juízo, negaram sua participação no evento criminoso e chegaram a imputar a autoria a outros encarcerados.
+Mais uma vez, assinalo que é ônus da acusação reunir lastro probatório suficiente para conferir plausibilidade jurídica à narrativa da denúncia, o que, como fundamentadamente exposto, não se alcançou no presente caso, haja vista que a pronúncia se deu com base apenas em elemento informativo do inquérito não corroborado em juízo e em testemunho indireto.
+Assim, mantenho a compreensão de que os acusados devem ser despronunciados.  grifo no original .
+Tem-se, portanto, caso de manutenção de decisão de impronúncia pelo Superior Tribunal de Justiça .
+Essa situação configura hipótese abarcada pelo mencionado Tema n. 154 do STF, de modo que a solução aplicada no acórdão impugnado não ofende o monopólio da ação penal pública (art. 129 da CF), tampouco os postulados do juiz natural (art. 5º, LIII, da CF) e da soberania do veredito do júri (art. 5º, XXXVIII, c, da CF), o que obsta o processamento do recurso extraordinário.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL PROVIDO PARA IMPRONUNCIAR O RÉU. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. TEMA N. 154 DO STF. NEGATIVA DE SEGUIMENTO.
