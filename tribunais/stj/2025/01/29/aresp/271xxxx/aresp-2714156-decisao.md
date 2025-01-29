@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FRANCISCO MONTE GOMES - ESPÓLIO e MARIA TORRES GOMES, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/06/2024.
+Concluso ao gabinete em: 13/09/2024.
+Ação: de inventário dos bens deixados por Francisco Monte Gomes, cujo espólio figura como parte ora agravante.
+Decisão interlocutória: indeferiu o pedido de expedição de alvará para aquisição de veículo (e-STJ fl. 1.320).
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte ora agravante, nos termos da seguinte ementa (e-STJ fls . 1.318/1.319):
+"AGRAVO DE INSTRUMENTO . INVENTÁRIO . AUSÊNCIA DOS REQUISITOS NECESSÁRIOS AO VINDICADO PROVIMENTO JURISDICIONAL. NÃO COMPROVAÇÃO DA NECESSIDADE DE PREMENTE DE, ANTES MESMO DE SE AGUARDAR O TRANSCURSO DO INVENTÁRIO, SACAR VALORES DEPOSITADOS E PERTENCENTES AO ESPÓLIO PARA COMPRA DE VEÍCULO PARA USO POR UM DOS HERDEIROS OU MEEIRO . EMBARGOS DE DECLARAÇÃO PREJUDICADOS. DECISÃO MANTIDA. 1. Em casos específicos, a venda de bens pertencentes ao espólio pode ser autorizada, a exemplo de pagamento de dívidas da herança, custas, imposto de transmissão ou mesmo atender necessidade urgente dos herdeiros. 2. Malgrado tenha sido autorizada a venda dos veículos, com a determinação de posterior depósito judicial do valor apurado, não comprov aram os agravantes, em juízo perfunctório, a plausibilidade do direito invocado, por não terem demonstrado qualquer necessidade premente de, antes mesmo de se aguardar o transcurso do inventário, sacar valores depositados e pertencentes ao espólio, para compra de veículo para uso por um dos herdeiros ou meeiro, não havendo, pois, neste momento, alterações a serem feitas na decisão combatida. AGRAVO DE INSTRUMENTO DESPROVIDO."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega, além da existência de dissídio jurisprudencial, violação dos arts. 489 e 1.022, II, do CPC; e 1.629 e 1.835 do CC, sustentando que: (i) a Corte de origem teria sido omissa em relação a pontos essenciais ao deslinde do processo ; (ii) teria sido deferida a venda de dois veículos com os objetivos de "evitar a perda de valor dos veículos e a oneração de custos adicionais de manutenção, ante a contínua depreciação a que estavam submetidos, máxime por se tratar de bens de velha fabricação" (e-STJ fl. 1.568) e de "futura aplicação dos recursos auferidos com a alienação dos veículos na compra de novo carro para a Recorrente viúva meeira" (e-STJ fl. 1.568), mas, posteriormente, não foi deferida a compra de novo automóvel para a viúva agravante; (iii) um dos veículos vendidos era de uso exclusivo da viúva meeira, ora agravante; (iv) "tratando-se de patrimônio próprio e autônomo do cônjuge supérstite, a liberação dos bens pertinentes à meação do cônjuge supérstite em nada se vincula com o acervo hereditário" (e-STJ fl. 1.580); (v) o Tribunal originário teria confundindo meação com herança, assim o indeferimento do pedido de expedição de alvará em prol da agravante, na qualidade de viúva meeira, se afigura equivocado.
+Parecer do MPF: da lavra da I. Subprocuradora-Geral Maria Soares Camelo Cordioli, deixou de se manifestar sobre o mérito do presente recurso, requerendo o regular prosseguimento do processo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das razões pelas quais entendeu que não foram preenchidos os requisitos para deferimento do pleito de expedição de alvará para aquisição de veículo, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Não cabimento de recurso especial contra decisão que concede ou indefere tutela provisória - Súmula 735/STF.
+Ademais, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido que, quando se trata de recurso especial interposto contra medida que conce de ou indefere tutela provisória, seu objeto deve focar nas condições legais de sua concessão.
+Nesse sentido: AgInt no Aresp 1.248.498/SP, 3ª Turma, DJe de 29/06/2018; e AgInt no Aresp 980.165/BA, 4ª Turma, DJe 09/02/2018.
+Considerando a precariedade da decisão que indeferiu a tutela provisória requerida, a qual pode ser alterada a qualquer tempo, desaconselha-se o conhecimento e julgamento de recurso especial que verse sobre o tema, exceto quando tratar dos requisitos legais de concessão da tutela antecipada e não exigir o reexame de matéria fática e probatória, o que não se coaduna com a hipótese dos autos.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que indefere a tutela provisória, a questão de fundo do direito sobre o qual versa a controvérsia.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. TUTELA PROVISÓRIA INDEFERIDA. SÚMULA 735/STF.
+1. Ação de inventário.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
