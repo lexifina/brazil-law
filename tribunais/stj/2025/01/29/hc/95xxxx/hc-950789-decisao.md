@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RAFAEL DE ANDRADE PAIVA - condenado como incurso no art. 155, § 4º, II (por três vezes), do Código Penal, à pena de 4 anos e 4 meses de reclusão, em regime inicial semiaberto, mais 22 dias-multa -, apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que, por acórdão proferido na data de 18/3/2024, julgou improcedente a Revisão Criminal n. 0745841-05.2023.8.07.0000.
+Aqui, defende-se o equívoco da condenação (fl. 20). Alega-se que o paciente foi denunciado e condenado por ter furtado valores do Banco do Brasil SA, e não de qualquer cliente da instituição bancária (fl. 21); e o acórdão do Tribunal a quo é taxativo que restou exaustivamente comprovado que o réu, utilizando-se das facilidades decorrentes do cargo de gerente de tesouraria em estabelecimento bancário, efetuou saques de valores de propriedades de terceiros (fl. 21); exsurgindo, daí, que não existe correspondência entre a denúncia, que é taxativa que os valores teriam sido subtraídos do banco do brasil e o v. acórdão, que as quantias pertenciam a terceiros (fl. 21).
+Argumenta-se que não ficou evidenciado qual o prejuízo sofrido pela "vítima" Banco do Brasil, uma vez que o valor jamais pertenceu a instituição e sim a clientes que tiveram seu dinheiro restituído pelo paciente, seguindo todas as normas exigidas pelo Banco do Brasil, inclusive, com a autorização de superiores do banco no resgate dos valores (fl. 12). Aduz-se que tanto é verdadeira a assertiva que nenhum cliente em qualquer momento, reclamou de qualquer valor que lhe teriam sido subtraídos, via de consequência, o Banco do Brasil, apontado como vítima, não ressarciu qualquer valor a qualquer cliente (fl. 12).
+Requer-se, assim (fl. 21):
+A absolvição do paciente em relação ao crime de furto descrito na denúncia, porque na exordial acusatória, o paciente fora acusado de cometer o delito contra o "BANCO DO BRASIL". No entanto, em segunda instância, o TJDFT afirma que a vítima não é o "BANCO DO BRASIL", mas sim "TERCEIROS" (clientes do banco), e que não houve prejuízo algum a estes mesmos terceiros. Ou seja, o fato narrado não constitui crime, e a absolvição com base no artigo 386, III, do Código de Processo Penal é medida que se impõe.
+Os autos foram a mim distribuídos por prevenção.
+Vieram informações.
+Ouvido, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem, conforme o parecer assim resumido (fl. 115):
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. UTILIZAÇÃO INADEQUADA DO HC. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. FURTO MEDIANTE FRAUDE. PLEITO DE ABSOLVIÇÃO. CONDENAÇÃO FUNDAMENTADA NAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVOLVIMENTO DE MATÉRIA PROBATÓRIA EM HABEAS CORPUS. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+De início, vale observar que a tese arguida não guarda correspondência com nenhuma das hipóteses previstas, criteriosamente, no art. 621 do Código de Processo Penal, consubstanciando mera rediscussão de matéria decidida nos autos.
+Em casos como esse, a jurisprudência deste Superior Tribunal tem orientado pelo absoluto descabimento do pleito revisional:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO E RECEPTAÇÃO. REVISÃO CRIMINAL INDEFERIDA. PEDIDOS DE ABSOLVIÇÃO, DESCLASSIFICAÇÃO E DOSIMETRIA DA PENA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas.  ..  Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/2/2016).
+2. O Tribunal a quo considerou, para a manutenção da condenação, o conjunto fático probatório dos autos, não só no tocante ao reconhecimento da culpa do recorrente, como também no que diz respeito à dosimetria da pena. Assim, inviável sua desconstituição pela via do recurso especial, ante a incidência da Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.807.887/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/10/2021 - grifo nosso).
+Ademais, não há nenhuma contradição em se afirmar que os valores eram sim de propriedade de terceiros, mas, por estarem sob a responsabilidade do Banco do Brasil, resultaram em prejuízo à instituição bancária. A propósito (fl. 31 - grifo nosso):
+ ..
+A alegação de não existir vítimas no caso é desprovida de qualquer fundamento.
+Embora os valores sejam de propriedade de terceiros, estavam sob responsabilidade da Instituição Financeira, a qual possui o dever legal de prestar contas diante de qualquer ação fraudulenta nas contas de seus correntistas, mormente praticada por funcionário de seu quadro, que se utilizou da condição de tesoureiro para se apropriar indevidamente de valores de clientes.
+Ademais, a prova testemunhal é farta no sentido de que a apropriação dos valores foi indevida, a despeito da autorização formal de superior.
+Noutro giro, o ressarcimento a posteriori da quantia furtada não influi na configuração do tipo penal, pois decorre da condenação criminal, a título de reparação mínima, nos moldes do art. 387, IV, do CPP.
+ ..
+Por fim, o afastamento da conclusão de que a condenação está respaldada por farta prova testemunhal e documental só poderia ocorrer mediante ampla incursão no acervo fático-probatório, providência que não se compatibiliza com o rito do habeas corpus.
+Nesse contexto, não v erifico a presença de constrangimento ilegal capaz de justificar a reforma do acórdão impugnado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPETRAÇÃO DIRIGIDA CONTRA O ACÓRDÃO QUE JULGOU A REVISÃO CRIMINAL. AUSÊNCIA DAS HIPÓTESES DO ART. 621 DO CPP. ABSOLVIÇÃO. INVIABILIDADE. CONDENAÇÃO AMPARADA NAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+Ordem denegada.
