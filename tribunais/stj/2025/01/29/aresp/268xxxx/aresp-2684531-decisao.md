@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANDRÉ MANSOUR ASMAR - ESPÓLIO, representado por VANIA XERFAN ASMAR - INVENTARIANTE, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/05/2024.
+Concluso ao gabinete em: 09/10/2024.
+Ação: de inventário dos bens deixados por Arnaldo Couri Xerfan, cujo espólio figura como parte ora agravada, sendo representado por STEFANIE ZENETOU XERFAN - INVENTARIANTE.
+Decisão interlocutória: "indeferiu a reserva de bens no inventário dos bens deixados por Arnaldo Couri Xerfan para pagamento do Espólio agravante, diante da não concordância dos herdeiros e inventariante" (e-STJ fl. 354).
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte ora agravante, nos termos da seguinte ementa (e-STJ fl. 354):
+"INVENTÁRIO - Habilitação de crédito Reserva de bens do espólio Título executivo judicial ainda não formado Decisão que constitui a obrigação do espólio inventariado, proferida em ação de dissolução parcial de sociedade c. c. apuração de haveres que não transitou em julgado - Recurso de apelação ainda pendente de julgamento - Acórdão anulado pelo C. STJ Decisão pendente sobre passivos que impactam negativamente os haveres e incidência de juros de mora, que pode impactar negativamente no valor do crédito a ser constituído - Possibilidade, em tese, deste ser inferior ao valor já depositado nos autos principais - Manutenção da decisão que indeferiu a reserva de bens que se justifica - Recurso desprovido."
+Recurso especial: alega, além da existência de dissídio jurisprudencial, violação dos arts. 489, §1º, IV, 642, 643 e 644 do CPC, sustentando que: (i) a Corte de origem teria partido de premissa equivocada e não enfrentado argumentos capazes de alterar a conclusão trazida no acórdão; (ii) não seria necessário o trânsito em julgado da ação para que haja a habilitação do crédito e a reserva de bens pretendida; (iii) "o título executivo judicial já é certo in casu, sendo o trânsito em julgado, mera condição de sua exigibilidade e não de constituição do título exequendo" (e-STJ fl. 370); (iv) "mesmo quando ilíquido, o pedido de reserva de bens no inventário seria possível" (e-STJ fl. 373); (v) "embora a discussão na fase de conhecimento ainda não tenha se findado, a nenhum dos recursos pendentes foi atribuído efeito suspensivo, sendo certo, ainda, que o an debeatur já foi consolidado" (e-STJ fl. 373).
+Parecer do MPF: da lavra do I. Subprocurador-Geral Mauricio Vieira Bracks, opina pelo não conhecimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/SP, no sentido de que "este Tribunal deverá ainda se debruçar em relação aos "passivos que impactam negativamente os haveres (artigos 406 e 407 do CC/02); e (ii) os juros de mora somente podem ser computados após o decurso de 90 dias do trânsito em julgado da liquidação na apuração de haveres, e que não há se falar em mora antes disso", poderá haver grande impacto no valor do crédito a ser constituído, podendo até mesmo, em tese, ser inferior ao valor já depositado os autos principais" (e-STJ fl. 356), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de constituição do crédito que a parte agravante requerer habilitação no inventário, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Não cabimento de recurso especial contra decisão que indefere tutela provisória - Súmula 735/STF.
+Ademais, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido que, quando se trata de recurso especial interposto contra medida que concede ou indefere tutela provisória, seu objeto deve focar nas condições legais de sua concessão.
+Nesse sentido: AgInt no Aresp 1.248.498/SP, 3ª Turma, DJe de 29/06/2018; e AgInt no Aresp 980.165/BA, 4ª Turma, DJe 09/02/2018.
+Considerando a precariedade da decisão que indeferiu a tutela provisória, a qual pode ser alterada a qualquer tempo, desaconselha-se o conhecimento e julgamento de recurso especial que verse sobre o tema, exceto quando tratar dos requisitos legais de concessão da tutela antecipada e não exigir o reexame de matéria fática e probatória, o que não se coaduna com a hipótese dos autos.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que indefere a tutela provisória, a questão de fundo do direito sobre o qual versa a controvérsia.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Prejudicado o pedido de tutela antecipada de urgência.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. TUTELA PROVISÓRIA INDEFERIDA. SÚMULA 735/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de inventário.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ausência de constituição do crédito que a parte agravante requerer habilitação no inventário, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
