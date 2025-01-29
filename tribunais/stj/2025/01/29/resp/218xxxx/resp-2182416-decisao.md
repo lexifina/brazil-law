@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+PENAL. CONTRABANDO. ART. 334 - A, § 1º, INCISO IV, DO CÓDIGO PENAL. APELAÇÃO CRIMINAL. AUSÊNCIA DE PROVAS JUDICIALIZADAS. PROCEDIMENTO ADMINISTRATIVO REALIZADO POR FUNCIONÁRIO PÚBLICO. PROVAS IRREPETÍVEIS. ABSOLVIÇÃO. AFASTADA.
+1. As provas produzidas na seara administrativa são decorrentes de atos praticados por servidores públicos no exercício de suas funções, razão pela qual gozam de presunção relativa de legitimidade e de veracidade. Deve-se destacar, ainda, que tais provas são irrepetíveis, foram judicializadas nestes autos e estão elencadas no rol de exceções previsto no artigo 155 do Código de Processo Penal.
+2. O laudo merceológico não é essencial para aferir a origem e o valor das mercadorias apreendidas, bem como o montante de tributos iludidos, havendo outros elementos de prova, mormente os documentos elaborados pelos agentes fazendários, hábeis à identificação e à avaliação de produtos irregularmente importados.
+3. Os agentes fiscais possuem aptidão técnica para identificar as mercadorias apreendidas, verificar se são efetivamente de origem estrangeira e classificá-las, apontando seu valor, inclusive fazendo uso de meios diversos empregados na atividade aduaneira de importação regular, como tabelas de nomenclatura padronizadas, avaliações anteriores já efetuadas pela autoridade aduaneira e outras pesquisas, para tanto.
+4. Inexistindo elementos capazes de infirmar os documentos públicos lavrados pelos agentes responsáveis pela abordagem, os quais constituem prova judicializada e comprovam a materialidade e a autoria delitiva imputada ao réu na denúncia. Submetida a prova ao contraditório em Juízo e não tendo a defesa desconstituído a presunção relativa de legitimidade e veracidade garantida por lei, é plenamente viável a utilização dos documentos lavrados em sede administrativa como prova judiciária a embasar a condenação.
+5. Apelação conhecida e desprovida.
+A parte recorrente foi condenada pela prática do crime de contrabando (art. 334 do Código Penal). Requer o conhecimento e o provimento de seu recurso, para que seja reformado o acórdão recorrido.
+A insurgência foi admitida na origem e encaminhada a esta Corte.
+O Ministério Público Federal emitiu parecer pelo não conhecimento do recurso. (e-STJ fls. 246/249).
+É o relatório.
+Decido.
+Presentes os pressupostos intrínsecos e extrínsecos de admissibilidade, conheço do recurso especial.
+Quanto ao mérito, o recurso deve ser desprovido.
+A missão constitucional do STJ é ser uma Corte de precedentes, que visa uniformizar o direito infraconstitucional federal brasileiro.
+Desse modo, estando a decisão atacada de acordo com as orientações deste Tribunal Superior a respeito da interpretação do ordenamento jurídico penal, as razões de recurso são insuficientes para alterar as conclusões alcançadas nas instâncias inferiores, as quais, aliás, possuem a competência ordinária para a análise aprofundada e acurada do conteúdo dos autos.
+O recorrente sustenta que o arcabouço probatório constante dos autos não é suficiente para fundamentar o decreto condenatório, pontuando-se que as Quinta e Sexta Turmas desta Corte têm compreendido que, para a alegação de suposta ausência de provas à condenação do réu, haveria a necessidade de revisitar o conjunto fático-probatório dos autos, algo que escapa à competência do STJ.
+Logo, entendo que o acórdão atacado, no tocante às teses recursais, está respaldado na jurisprudência dominante desta Corte Superior, de modo que não há como superar a incidência da Súmula nº 568 do STJ no presente caso ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema").
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. APLICABILIDADE DA SÚMULA N. 568/STJ. JURISPRUDÊNCIA DOMINANTE DA CORTE. NÃO CABIMENTO DA AÇÃO REVISIONAL. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. No que se refere à alegada violação ao art. 155, caput, do Código de Processo Penal - CPP, o agravante não impugnou efetivamente os fundamentos utilizados pela decisão monocrática. Incidência da Súmula n. 182/STJ.
+2. In casu, não há falar-se em inaplicabilidade da Súmula n. 568 desta Corte, uma vez que a decisão monocrática foi proferida com base justamente na jurisprudência dominante do Superior Tribunal de Justiça acerca dos temas.
+(..) 4. Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no AREsp n. 2.355.394/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. RECONHECIMENTO. PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. SENTENÇA CONDENATÓRIA AMPARADA EM OUTROS ELEMENTOS PROBATÓRIOS.
+1. "Não há falar em violação do princípio da colegialidade ou não aplicação do disposto na Súmula n. 568 desta Corte, uma vez que a decisão monocrática foi proferida com base na jurisprudência dominante do Superior Tribunal de Justiça acerca dos temas em análise, com fundamento no art. 932, V, "a", do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e no art. 34, XVIII, "c", parte final, do Regimento Interno do Superior Tribunal de Justiça. Além disso, o princípio da colegialidade estará sempre preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados no âmbito dos tribunais superiores" (AgRg no REsp n. 1.645.901/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/3/2017, DJe de 4/4/2017).
+2. Conforme entendimento desta Corte Superior, "ainda que o reconhecimento do réu haja sido feito em desacordo com o modelo legal e, assim, não possa ser sopesado, nem mesmo de forma suplementar, para fundamentar a condenação do réu, certo é que se houver outras provas, independentes e suficientes o bastante, produzidas sob o crivo do contraditório e da ampla defesa, para lastrear o decreto condenatório, não haverá nulidade a ser declarada" (AgRg nos EDcl no HC n. 656.845/PR, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/11/2022).
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AgRg no AREsp n. 2.487.974/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Ante o exposto, conheço do recurso especial e nego-lhe provimento, com base no art. 34, inc. XVIII, alínea "b", do Regimento Interno deste Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+ EMENTA
