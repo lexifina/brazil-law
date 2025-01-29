@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que não admitiu o recurso especial interposto pelo agravante.
+Contra o acórdão de origem, interpôs-se recurso especial com base nas alíneas a e c do art. 105, inc. III, da CF alegando, em síntese: negativa de vigência ao art. 118, § 2º, da Lei de Execução Penal, por entender dispensável a oitiva do condenado para reconhecimento da falta grave e para a consequente regressão de regime.
+O recurso especial não foi admitido pelo Tribunal a quo.
+Foi interposto, então, o presente agravo em recurso especial.
+O Ministério Público Federal apresentou parecer pelo improvimento do agravo.
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Por fim, a tese não exige o reexame de provas, pois parte de fatos incontroversos nos autos.
+Sendo assim, conheço do recurso especial. E, no mérito, entendo que a pretensão recursal não merece provimento.
+Confira-se trecho relevante do acórdão:
+"(..) O condenado, cumprindo pena de 13 (treze) anos, 08 (oito) meses e 15 (quinze) dias de reclusão, regime semiaberto, praticou fato novo, em 30/12/21, previsto como crime doloso, sobrevindo a decisão agravada, o reconhecimento da falta grave, a regressão ao sistema fechado, sem a audiência de justificação ou o Procedimento Administrativo Disciplinar  PAD. O Meritíssimo Juiz da Vara da Execução Penal justificou a desnecessidade de designação da audiência de justificação, o contexto de pandemia viral, a volumosa pauta de audiências, respondente por outra comarca, a manifestação escrita do defensor, nos autos da Ação Penal nº 5693998- 74.2021.8.09.0049, delito do art. 33, caput, da Lei nº 11.343/06, pendente de recurso. O Supremo Tribunal Federal, em Repercussão Geral (Tema 941), mitigou o entendimento da Súmula 533, do Superior Tribunal de Justiça, ponderando que a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação, na presença do defensor e do representante ministerial, afasta a necessidade do PAD, para apurar falta grave, a omissão na providência confronta o art. 5º, incisos LIV e LV, da Constituição Federal, nulificando a decisão punitiva. (..)"
+A controvérsia cinge-se à necessidade ou não de oitiva do apenado no âmbito da execução penal para o reconhecimento de falta grave decorrente da prática de novo crime.
+No caso concreto, o apenado, que cumpria pena em regime semiaberto, praticou novo crime (tráfico de drogas - art. 33 da Lei 11.343/06), o que foi reconhecido como falta grave pelo Juízo da execução, determinando-se a regressão ao regime fechado. Contudo, tal decisão foi tomada sem a prévia oitiva do condenado.
+O Tribunal de origem deu provimento ao agravo em execução da defesa para anular a decisão que reconheceu a falta grave, por entender imprescindível a prévia oitiva do apenado, mesmo quando o fato caracterizador da falta grave corresponda a crime apurado em ação penal própria.
+Com efeito, o entendimento do Tribunal a quo está em perfeita harmonia com a jurisprudência consolidada do Superior Tribunal de Justiça, que exige a oitiva do apenado no âmbito da execução penal para o reconhecimento da falta grave consistente em novo crime, mesmo quando tenha sido assegurada a ampla defesa e o contraditório por ocasião da instrução criminal nos autos da ação penal que apurou o novo delito.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE CRIME NO CURSO DA EXECUÇÃO. ART. 52, CAPUT, DA LEI DE EXECUÇÃO PENAL. FATO APURADO EM AÇÃO PENAL. IMPRESCINDÍVEL OITIVA DA DEFESA TÉCNICA NO ÂMBITO DA EXECUÇÃO PENAL SOBRE A FALTA GRAVE. TEMA N. 758/STF DO
+REGIME DA REPERCUSSÃO GERAL (RE n. 776.823/RS). AGRAVO REGIMENTAL DESPROVIDO.
+1. Ainda que se trate de habeas corpus substitutivo de recurso especial, é possível a concessão da ordem quando presente situação de manifesta ilegalidade, como verificado no caso em apreço.
+2. Segundo o disposto no art. 52, caput, da Lei de Execução Penal, constitui falta grave a prática de fato previsto como crime doloso.
+3. Espécie em que - não obstante, por ocasião da instrução processual nos autos da ação penal para apuração do novo crime, tenha ocorrido a observância do devido processo legal, do contraditório e da ampla defesa, que se findou na condenação do Agravado - o reconhecimento da falta grave ocorreu sem a indispensável oitiva da Defesa do Apenado no âmbito da execução penal. Entendimento do Supremo Tribunal Federal firmado, em 04/12/2020, ao julgar o RE n. 776.823/RS sob o regime da repercussão geral (Tema n. 758/STF).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 715.047/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Tal posicionamento, inclusive, encontra respaldo no julgamento do RE 776.823 pelo Supremo Tribunal Federal, sob o regime de repercussão geral (Tema 758/STF), no qual se firmou a seguinte tese: "O reconhecimento de falta grave consistente na prática de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal no juízo do conhecimento, desde que a apuração do ilícito disciplinar ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave."
+Ante o exposto, com fundamento no art. 253, parágrafo único, inc. II, b e c, do RISTJ, conheço do agravo para conhecer e negar provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
