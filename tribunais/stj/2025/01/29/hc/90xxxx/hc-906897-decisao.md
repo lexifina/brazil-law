@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em benefício de SAULO HEBERT RIBEIRO DE MAGALHAES - denunciado e preso preventivamente pela prática, em tese, do crime previsto no art. 311, §2º do Código Penal -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS (Habeas Corpus n. 1.0000.24.182973-8/000).
+Busca a impetração o reconhecimento da nulidade da busca pessoal e a consequente anulação da prova dela decorrente, com a inexorável absolvição do paciente; e a substituição da prisão preventiva por medidas cautelares diversas e menos gravosas, nos termos dos artigos 282, §6º, e 319 do Código de Processo Penal (fl. 13).
+Ocorre que em consulta realizada na página eletrônica do Tribunal de Justiça de Minas Gerais, obtive a informação de que, em 8/7/2024, a Magistrada singular proferiu sentença condenatória, mas concedeu ao paciente o direito de recorrer em liberdade, sendo expedido o competente alvará de soltura.
+No mais, verifico que o Tribunal de origem não se manifestou expressamente no acórdão impugnado sobre a alegação de ilicitude da abordagem policial, de modo que a análise da questão diretamente por esse Tribunal ensejaria supressão de instância. Anoto, ainda, que a defesa não o pôs embargos de declaração para sanar eventual omissão no referido decisum.
+Ora, admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir (AgRg no HC n. 818.673/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023).
+Por fim, destaco que a defesa interpôs apelação na Corte estadual, recurso de cognição ampla e exauriente, no qual a questão ventilada poderá ser melhor debatida, inclusive mediante o reexame do conjunto fático-probatório, providência incabível na via estreita do habeas corpus.
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. ALEGAÇÃO DE ILICITUDE NA BUSCA PESSOAL. QUESTÃO NÃO ENFRENTADA PELO TRIBUNAL ESTADUAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPERVENIÊNCIA DE REVOGAÇÃO PELO JUÍZO DE PRIMEIRO GRAU. PERDA DO OBJETO.
+Writ parcialmente conhecido e, nessa extensão, prejudicado.
