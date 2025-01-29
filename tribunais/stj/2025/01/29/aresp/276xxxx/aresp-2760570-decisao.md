@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, da Constituição Federal.
+Parecer do Ministério Público Federal reconhecendo a apontada violação do art. 1.022 do CPC.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: ausência de afronta ao art. 1.022 do CPC, Súmula 7 do STJ, Súmula 280 do STF e divergência não comprovada.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente os seguintes fundamentos: ausência de afronta ao art. 1.022 do CPC, Súmula 7 do STJ e divergência não comprovada.
+Em relação ao primeiro fundamento, verifica-se que a argumentação utilizada no agravo em recurso especial para demonstrar a apontada negativa de prestação jurisdicional, referente à possibilidade do lançamento por arbitramento, não guarda relação com o vício de integração suscitado nos embargos de declaração opostos na origem e no recurso especial, relativo à ocorrência de obscuridade no acórdão recorrido por manter a sentença concessiva da segurança e, ao mesmo tempo, afastar a possibilidade do lançamento por arbitramento ressalvado pelo magistrado de primeiro grau, o que caracterizaria indevida reforma em prejuízo da Fazenda Pública no julgamento da remessa necessária. A clara dissociação entre as razões do agravo e aquelas apresentadas nos embargos de declaração e no recurso especial revela a deficiência do recurso nesse particular, nos termos da Súmula 284 do STF.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+A parte agravante, todavia, não procedeu dessa forma, visto que deixou de expor as premissas de fato e de direito adotados no acórdão recorrido, limitando-se reeditar a sua tese recursal.
+O agravo também se mostra deficiente na impugnação ao fundamento de que não houve demonstração da divergência jurisprudencial aventada.
+Isso porque a agravante deixou de apontar os trechos do recurso especial em que teria realizado o cotejo analítico entre os acórdãos comparados, com demonstração das premissas fáticas e jurídicas que os identificassem.
+Restringiu-se a afirmar que "expressamente ficou registrada a demonstração analítica da divergência jurisprudencial no tópico 3.3 do Recurso Especial inadmitdo"; apresentando, a toda evidência, fundamentação por mera remissão.
+Ora, não cabe ao julgador ir em busca do fundamento que sustente a pretensão da parte, devendo o recurso trazer a devida fundamentação em seu próprio bojo.
+Nada impede que a parte faça referências a outras peças recursais, não podendo, contudo, limitar-se a isso.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp 2.098.383/BA, Relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
