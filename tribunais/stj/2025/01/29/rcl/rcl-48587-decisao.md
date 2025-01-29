@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Reclamação com pedido de liminar interposta por Junio Sidney Rosa de Assis - Rota Policial Notícias contra acórdão proferido pela 1ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado do Ceará que deu parcial provimento ao Recurso Inominado da parte apenas para reduzir o valor dos danos morais para R$ 8.000,00 (oito mil reais).
+Na origem, cuida-se de Ação Ordinária movida por Edinei Francisco Nogueira contra o reclamante, na qual pede sua condenação ao pagamento de indenização por danos morais, em razão do uso indevido da sua imagem nas redes sociais. A sentença julgou parcialmente procedente a demanda e condenou o reclamante por danos morais, no valor de R$ 15.000,00 (quinze mil reais), o que foi reduzido pela Turma Recursal para R$ 8.000,00 (oito mil reais).
+Afirma que houve descumprimento da jurisprudência desta Corte Superior, já que deveria ser reconhecida sua ilegitimidade para o caso dos autos, conforme decidido no REsp n. 1493974/PE.
+Em âmbito liminar, requer "a concessão de efeito suspensivo ao acórdão reclamado até o julgamento desta reclamação, considerando os prejuízos irreparáveis decorrentes de sua execução" (fl. 4).
+É o relatório.
+Decido.
+A irresignação não prospera.
+Esta Corte Superior entende que "a Resolução STJ/GP n. 3/2016 dispõe que a competência para processar e julgar as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual ou do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça cabe às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça. Revogada a Resolução n. 12/2009 do STJ para os processos distribuídos a partir de 08 de abril de 2016" (AgInt na Rcl n. 37.137/MT, relator Ministro Luis Felipe Salomão, Segunda Seção, DJe de 6/3/2019). Nesse mesmo sentido: AgInt na Rcl n. 47.974/RJ, relator Ministro Teodoro Silva Santos, Primeira Seção, DJe de 6/12/2024 e AgInt na Rcl n. 46.917/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 23/8/2024.
+Ademais, o STJ entende que, nos termos do art. 105, I, f, da Constituição Federal e do art. 187 do Regimento Interno do Superior Tribunal de Justiça, cabe Reclamação da parte interessada ou do Ministério Público para garantir a autoridade das suas decisões na análise do caso concreto. No caso em questão, o precedente indicado como violado (REsp n. 1493974/PE), não foi proferido ao analisar o caso concreto do reclamante, de modo que não é cabível a Reclamação no caso em espécie, uma vez que não se admite sua utilização como sucedâneo recursal. A propósito: AgInt na Rcl n. 42.673/RS, relator Ministro Francisco Falcão, Primeira Seção, DJe de 1º/7/2022 e AgRg na Rcl n. 43.289/RJ, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, DJe de 24/8/2022.
+Ante o exposto, indefiro liminarmente a Reclamação.
+Publique-se.
+Intimem-se.
+EMENTA
