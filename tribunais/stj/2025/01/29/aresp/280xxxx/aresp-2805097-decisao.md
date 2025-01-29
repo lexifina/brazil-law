@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de Agravo apresentado por AIRCRAFT SUPORTE E MANUTENCAO LTDA. e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE MONITORIA - NEGATIVA DA DÍVIDA - ÔNUS DA PROVA - AUTOR - DESINCUMBÊNCIA - SENTENÇA MANTIDA.
+Quanto à controvérsia, a parte alega violação e divergência de interpretação jurisprudencial em relação ao art. 700 do CPC, no que concerne à necessária extinção do feito, sem resolução do mérito, por carência de ação, porquanto ausente documento comprobatório da dívida, trazendo a seguinte argumentação:
+O entendimento consolidado do STJ é de que a ausência de documento escrito que comprove a dívida impõe a extinção do feito, sem resolução do mérito, ante a carência de ação.
+ ..
+Inicialmente, destaque-se que a empresa recorrida sustenta sua pretensão em documento que não é hábil à comprovar o pagamento da obrigação que sustenta haver pago.
+A pretensão da seguradora se operou, de acordo com as razões invocadas pela mesma, em decorrência do instituto da sub-rogação legal, com fulcro no art. 786 do Código Civil.
+Ocorre que a extinção da obrigação, através do pagamento, deve obedecer à forma estatuída em lei. Para isso, a mesma lei que confere o direto invocado pela recorrida, também lhe impõe a obrigação de fazer prova do pagamento.
+ ..
+Ocorre que no caso em tela, a empresa apenas juntou uma tela de seu sistema interno, com informações relativas ao pagamento, o que é absolutamente imprestável para fins de quitação da obrigação.
+Se foi a seguradora quem pagou o valor, por que não apresentou o comprovante de transferência bancária  Por que não apresentou o extrato bancário comprovando o débito do valor em benefício do segurado  Por que não requereu que fosse oficiado quem recebeu o numerário para confirmar o pagamento  Por que não solicitou que fossem oficiadas as instituições bancárias envolvidas
+Nada há nos autos que comprove que o pagamento invocado pela recorrida foi realmente feito e feito à quem deveria ser feito.
+ ..
+Diante de tal cenário, a ausência de comprovação da pretensão constitui óbice intransponível para cobrança do valor, ou seja, sem a prova real do pagamento feito, não pode a recorrente ser condenada a pagar aquilo que não foi cobrada, bem como não foi comprovado o pagamento.
+É básico em qualquer tipo de "solicitação de reembolso" que haja comprovação das despesas, sobretudo um valor relevante como o que é cobrado nesses autos (fls. 494-497).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Ocorre que, como bem apontado pelo douto Magistrado a quo, o conjunto probatório anexado aos autos demonstra que a autora pagou sim o mencionado valor, apresentando provas outras além do print de tela de computador.
+Apresentou a autora uma procuração outorgada pela Tango Eco Mike Serviços de Consultoria e Gestão Empresarial Ltda., com firma reconhecida em Cartório, em favor de Adala e Adala Negócios Imobiliários Ltda., com o fim especifico de recebimento da dita quantia (doc. nº 9, folhas 3).
+Apresentou, ainda, uma troca de e-mails entre ela e a empresa Tango Eco Mike Serviços de Consultoria e Gestão Empresarial Ltda., em que esta informa a ocorrência do sinistro (doc. nº 7, pg. 1).
+Há nos autos, também, uma notificação enviada pela autora à empresa Tango Eco Mike Serviços de Consultoria e Gestão Empresarial Ltda., informando a abertura do processo administrativo para o pagamento da indenização securitária e solicitando documentos para concluir o pagamento, dentre eles, justamente, uma procuração com fins específicos para o recebimento da quantia em nome de Adala e Adala Negócios Imobiliários Ltda. (doc. nº 7, pg. 4 e 5).
+Portanto, o conjunto probatório dos autos deixa claro o pagamento pela seguradora autora em favor da empresa Tango Eco Mike Serviços de Consultoria e Gestão Empresarial Ltda. da quantia em discussão, bem como o direito de regresso da seguradora em relação aos réus (fls. 487-488).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ademais, não foi comprovada a divergência jurisprudencial, porquanto não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2.6.2020; AgInt no REsp 1.817.727/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18.5.2020; AgInt no AREsp 1.504.740/SP, ;Rel. Ministro Raul Araújo, Quarta Turma, DJe de 8.10.2019; AgInt no AREsp 1.339.575/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2.4.2019; AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.12.2018.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.5.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19.12.2019; AgInt no AgInt no REsp 1.731.585/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 26.9.2018; e AgInt no AREsp 1.149.255/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 13.4.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
