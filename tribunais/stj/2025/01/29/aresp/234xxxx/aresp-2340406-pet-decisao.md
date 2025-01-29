@@ -1,0 +1,39 @@
+DECISÃO
+1. Cuida-se de Petição n. 01061826/2024 (fl. 2, expediente avulso), por meio da qual alega o peticionário que a certidão de trânsito em julgado acostada à fl. 1.988 foi expedida prematuramente em 27/11/2024 porquanto, publicado o acórdão dia 22/11/2024, sexta-feira, o prazo recursal teria início somente no primeiro dia útil posterior, ou seja 25/11/2024, estando tempestivo o agravo em recurso extraordinário interposto em 29/11/2024.
+Postula, ao final, o cancelamento da referida certidão.
+Em petição de n. 01061830/2024, apresentou, ainda, agravo em recurso especial contra acórdão que negou provimento ao agravo regimental.
+A parte agravante requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Decido.
+2. No presente caso, verifica-se que o acórdão recorrido foi publicado em 22/11/2024, sexta-feira, consoante certificado à fl. 1.986, motivo pelo qual a contagem do prazo quinzenal iniciou-se em 23/11/2024, sábado, e encerrou-se em 27/11/2024, quarta-feira, uma vez que se trata de prazo processual penal.
+Ressalte-se queem controvérsias versando sobre matéria penal ou processual penal, nos tribunais superiores, o prazo recursal não obedece às regras do CPC/2015 referentes à contagem dos prazos em dias úteis (art. 219, Lei n. 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei n. 13.105/2015).
+Isso porque, no ponto, não foi revogada, expressamente, como ocorreu com outros de seus artigos, a norma especial da Lei n. 8.038/1990, que dispõe sobre normas procedimentais para os processos que especifica perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal e que em seu art. 39 prevê:
+Art. 39 - Da decisão do Presidente do Tribunal, de Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de cinco dias.
+Tal previsão legal é secundada pelo disposto no caput do art. 258 do Regimento Interno do Superior Tribunal de Justiça, cujo teor é o seguinte:
+Art. 258. A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator,
+poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do Código de Processo Penal.
+Nessa linha, o STF pacificou o entendimento de que a contagem dos prazos na esfera criminal é disciplinada por norma específica, qual seja, o art. 798 do Código de Processo Penal, o que afasta a incidência do art. 219 do Código de Processo Civil.
+Assentou que " n o Código de Processo Penal, quanto à regulação do modo de contagem dos prazos processuais penais,  .. , nessa específica matéria, há cláusula normativa expressa que estabelece que "Todos os prazos  ..  serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" (CPP, art. 798, "caput" - grifei), ressalvadas, unicamente, as hipóteses em que o prazo terminar em domingo ou em dia feriado, caso em que se considerará prorrogado até o dia útil imediato (CPP, art. 798, § 3º), ou em que houver impedimento do juiz, força maior ou obstáculo judicial oposto pela parte contrária (CPP, art. 798, § 4º)" (ARE 1.230.151, Rel. Min. Celso de Mello).
+A propósito, dentre outros, os seguintes julgados:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTEMPESTIVO.
+1. O acórdão recorrido foi publicado em 1º.02.2019 e a petição do recurso foi protocolada no Tribunal de origem somente em 21.02.2019, ou seja, após o término do prazo recursal de 15 (quinze) dias, nos termos do art. 994, VII, c/c os arts. 1.003, § 5º, e 1.029 do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. O Supremo Tribunal Federal entende ser inaplicável em matéria processual penal a disposição do art. 219 (dias úteis para contagem do prazo) do novo Código de Processo Civil. Precedentes.
+3. Ademais, " n o Código de Processo Penal, quanto à regulação do modo de contagem dos prazos processuais penais,  .. , nessa específica matéria, há cláusula normativa expressa que estabelece que "Todos os prazos  ..  serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" (CPP, art. 798, "caput" - grifei), ressalvadas, unicamente, as hipóteses em que o prazo terminar em domingo ou em dia feriado, caso em que se considerará prorrogado até o dia útil imediato (CPP, art. 798, § 3º), ou em que houver impedimento do juiz, força maior ou obstáculo judicial oposto pela parte contrária (CPP, art. 798, § 4º)" (ARE 1.230.151, Rel. Min. Celso de Mello).
+4. Agravo interno a que se nega provimento.
+(ARE n. 1.261.170-AgR, relator Ministro Roberto Barroso, Primeira Turma, julgado em 27/4/2020, DJe de 14/5/2020.)
+AGRAVO REGIMENTAL. RECURSOS EXTRAORDINÁRIOS COM AGRAVO. IMPUGNAÇÃO, DIRIGIDA AO SUPREMO TRIBUNAL FEDERAL, CONTRA DECISÃO DA ORIGEM QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE. PRECEDENTES. INTEMPESTIVIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO PERANTE O STJ. CONTAGEM DE PRAZO. ART. 798 DO CÓDIGO DE PROCESSO PENAL.
+1. Não há previsão legal de recurso para o SUPREMO TRIBUNAL FEDERAL contra a parte da decisão do Juízo de origem que aplicou a sistemática da repercussão geral (Pleno, AG. REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 994.469, Relatora: Min. CÁRMEN LÚCIA (Presidente), DJe de 14/3/2017).
+2. O Supremo Tribunal Federal firmou entendimento no sentido de que a contagem do prazo processual penal é disciplinado por norma específica que dispõe sobre a matéria, no caso o artigo 798 do Código de Processo Penal, o que afasta a incidência do artigo 219 do Código de Processo Civil.
+3. A intempestividade do recurso extraordinário impede seu conhecimento.
+4. Agravo Regimental a que se nega provimento.
+(ARE n. 1.235.373-AgR, relator Ministro Alexandre de Moraes, Primeira Turma, julgado em 25/10/2019, DJe de 21/11/2019.)
+Também, de acordo com o entendimento do Superior Tribunal de Justiça, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/2/2017, DJe de 22/2/2017).
+Assim, correta a certificação do trânsito em julgado.
+3. Quanto ao agravo em recurso extraordinário apresentado pela parte após a certificação do trânsito em julgado, não merece ser conhecido uma vez que intempestivo e incabível, na hipótese.
+Com efeito, nos termos dos arts. 1.030, § 1º, e 1.042 do Código de Processo Civil, o agravo em recurso extraordinário somente é cabível contra a decisão singular que não admite o recurso extraordinário.
+Por conseguinte, o agravo em recurso extraordinário, ora em apreço, não é cabível contra acórdão proferido por órgão colegiado.
+Assim, caracterizada a inadequação da via recursal eleita, configura-se o exaurimento da prestação jurisdicional e a ocorrência do trânsito em julgado da conclusão que confirmou a negativa de seguimento ao recurso extraordinário.
+4. Ante o exposto, indefiro a petição e não conheço do agravo em recurso extraordinário.
+Advirto que a apresentação de recurso manifestamente inadmissível ou improcedente poderá ensejar a aplicação da multa por litigância de má-fé.
+Publique-se. Intimem-se.
+EMENTA
