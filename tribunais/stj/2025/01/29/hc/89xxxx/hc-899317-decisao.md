@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Washington Maurilio Siqueira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, nos autos da Apelação Criminal n. 1502335-88.2021.8.26.0548.
+Consta do processo que o paciente foi condenado, em primeiro grau de jurisdição, à pena privativa de liberdade de 8 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 21 dias-multa, pela prática do delito previsto no art. 157, § 2º, II, e § 2º-A, I, do Código Penal (fls. 25/30).
+A defesa interpôs recurso de apelação, tendo o Tribunal de origem dado parcial provimento ao apelo para reduzir a pena do paciente a 6 anos e 8 meses de reclusão, e pagamento de 16 dias-multa, mantida, no mais, a sentença (fls. 31/51).
+Interposto recurso especial, esse foi inadmitido pela Corte local (fls. 52/54).
+Contra essa decisão foi interposto agravo em recurso especial, do qual esta Corte não conheceu.
+Neste writ, a defesa aponta, em síntese, ofensa aos arts. 144, § 8º da Constituição Federal e art. 226 do Código de Processo Penal, alegando que os Guardas Municipais que realizaram a prisão usurparam a função da polícia civil, inexistindo provas suficientes para a comprovação da autoria delitiva. Alega, também, que foi fixado regime mais gravoso do que o admitido pela quantidade de pena.
+Requer a absolvição do paciente por ausência de provas válidas e suficientes para a condenação. Subsidiariamente, pugna pela fixação do regime semiaberto para início do cumprimento da pena (fls. 3/22).
+O pedido liminar foi indeferido (fls. 57/58).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 64/71).
+É o relatório.
+Conforme se verifica dos autos do AREsp n. 2.396.543, foi certificado o trânsito em julgado em 26/2/2024 (fl. 727 daqueles autos), tendo o presente writ sido impetrado posteriormente, em 19/3/2024, sendo, pois, substitutivo de pedido revisional e, portanto, incabível.
+Com efeito, nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre a questão, cito os seguintes precedentes: AgRg no HC n.853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/2/2024; e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 5/10/2023.
+Somado a isso, no que tange ao pedido de absolvição por ilicitude da prova em razão da ilegalidade da abordagem por guarda municipal, verifico que se trata de reiteração do pedido formulado no HC n. 777.212/SP, impugnando, inclusive, o mesmo acórdão ora impugnado.
+O referido writ foi denegado em 23/5/2023 (fls. 142/145 daqueles autos), com trânsito em julgado em 13/6/2023, o que impossibilita nova análise do pedido neste madamus.
+Nesse sentido, os seguintes precedentes: AgRg no HC n. 847.891/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 18/4/2024; e AgRg no HC n. 765.0 97/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 6/3/2024.
+Quanto à alegação de ofensa ao art. 226 do Código de Processo Penal, verifico que não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito: AgRg no HC n. 866.974/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/12/2023; e AgRg no HC n. 862.828/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/3/2024.
+De toda forma, quanto ao reconhecimento da autoria delitiva, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, pois, conforme afirmado no acórdão atacado, embora a vítima não tenha reconhecido os réus em Juízo, fato é que foram eles presos minutos após a prática delitiva, com as mesmas vestimentas informadas pelo ofendido e, ainda, dispensaram um medidor de aliança, que foi recuperado (fls. 44/45).
+Por fim, quanto ao pleito de abrandamento do regime inicial, assim fundamentou o acórdão atacado ao manter a fixação do regime fechado para início de cumprimento da pena (fls. 50/51):
+No mais, considerando o quantum da pena imposta e o disposto no artigo 387, §2º, do Código de Processo Penal, observa-se que os acusados estão presos cautelarmente, desde o flagrante, que ocorreu em 20 de julho de 2021, conforme Guias de Recolhimento Provisória de fls. 316/317 e 319/320. Ainda que decotado esse tempo da pena imposta, o saldo que lhes resta a cumprir autorizaria, em tese, à luz do § 2.º do artigo 33 do Código Penal, exclusivamente, a fixação de regime mais brando. Todavia, considerando as circunstâncias do roubo, praticado em concurso de pessoas e mediante emprego de arma de fogo, além da reincidência do acusado Pedro, por delito de roubo, a manutenção do regime fechado mostra-se imprescindível à adequada repressão ao comportamento criminoso e, notadamente, para a concretização da prevenção geral e especial.
+Verifica-se que o regime inicial foi mantido o fechado para o paciente pelo fato de o delito ter sido praticado em concurso de pessoas e com emprego de arma de fogo, o que, por si só, não autoriza o agravamento, conforme jurisprudência desta Corte, in verbis:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. IMPETRAÇÃO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. PRESENÇA DE ILEGALIDADES PATENTES. POSSIBILIDADE DE CORREÇÃO DE OFÍCIO. APLICAÇÃO CUMULATIVA DAS CAUSAS DE AUMENTO. AUSÊNCIA
+DE FUNDAMENTAÇÃO CONCRETA. MODO CARCERÁRIO FECHADO DESCABIDO. AGRAVO DESPROVIDO.
+ ..
+2. Nos termos da orientação desta Casa, presentes duas causas de aumento, é possível a aplicação das majorantes de forma cumulada na terceira etapa do cálculo da reprimenda, pois o art. 68, parágrafo único, do Código Penal não obriga que o julgador aplique apenas uma causa de aumento quando estiver diante de concurso de majorantes, desde que a cumulação seja concretamente fundamentada. Todavia, no presente caso, "as causas de aumento foram aplicadas cumulativamente pela mera circunstância de o delito ter sido cometido em concurso de agentes e com emprego de armas de fogo, o que é ilegítimo,  .. " (HC n. 596.233/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022).
+3. Considerando-se o novo quantum de pena fixado, inferior a 8 anos de reclusão; a inexistência de circunstâncias judiciais desfavoráveis; a primariedade do réu, e a ausência de fundamentos concretos para justificar o regime fechado, é correto o abrandamento do modo carcerário inicial para o semiaberto.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 858.244/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/4/2024).
+Portanto, diante da fundamentação genérica lançada, imperiosa a fixação do
+regime semiaberto para início de cumprimento da reprimenda.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, concedo a ordem para fixar o regime semiaberto para o início do cumprimento da reprimenda imposta ao paciente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO. ILEGALIDADE NA ABORDAGEM FEITA POR GUARDA MUNICIPAL. REITERAÇÃO DO PEDIDO FORMULADO NO HC N. 777.212/SP. INADMISSIBILIDADE. AFRONTA AO ART. 226 DO CÓDIGO DE PROCESSO PENAL. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. REGIME INICIAL. FUNDAMENTAÇÃO GENÉRICA. ABRANDAMENTO DEVIDO.
+Writ parcialmente conhecido e, nessa extensão, ordem concedida nos termos do dispositivo.
