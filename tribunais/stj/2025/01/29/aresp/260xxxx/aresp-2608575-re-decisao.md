@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que manteve a decisão que conheceu do agravo para não conhecer do recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 1.270):
+DIREITO PROCESSUAL PENAL. FRAUDE A LICITAÇÃO. PECULATO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE NA SÚMULA 7/STJ. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravante interpõe agravo regimental contra decisão que não conheceu de recurso especial, alegando negativa de prestação jurisdicional e pleiteando reconsideração ou provimento do recurso pelo colegiado.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se houve negativa de prestação jurisdicional e se é possível o reexame de provas para alterar a decisão recorrida.
+III. Razões de decidir
+3. O agravo regimental é conhecido por ser tempestivo e indicar os fundamentos da decisão recorrida.
+4. Não há negativa de prestação jurisdicional, pois a corte de origem analisou os argumentos apresentados de forma fundamentada.
+5. A revisão da decisão demandaria reexame de provas, o que é vedado pela Súmula nº 7 do STJ.
+6. A dosimetria da pena só pode ser revista em casos de flagrante ilegalidade, o que não se verifica no presente caso.
+IV. Dispositivo
+7. Agravo regimental não provido.
+Os recorrentes alegam a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XLVI e LVII, e 93, IX, da Constituição Federal.
+Nesse sentido, argumentam que a sentença condenatória seria nula, pois estaria lastreada em elementos informativos não confirmados na instrução.
+Afirmam que a conduta que lhes foi imputada seria atípica, ante a ausência de comprovação do seu dolo.
+Consideram que, inexistindo prova suficiente para a condenação, como no caso, deveria ser aplicado o princípio do in dubio pro reo.
+Argumentam que não haveria fundamentação idônea para a majoração das penas que lhes foram impostas.
+Requerem, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não conheceu do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 1.274-1.277):
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, de minha relatoria, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 1239-1241):
+"O agravo em recurso especial é tempestivo e preenche os demais requisitos de admissibilidade.
+Quanto à negativa de prestação jurisdicional, certo é que "Não há falar, na hipótese, em negativa de prestação jurisdicional ou de nulidade do acórdão proferido pelo Colegiado a quo, por violação ao artigo 619 do Código de Processo Penal, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo em vista que os votos condutores do acórdão recorrido e do acórdão proferido em sede de embargos de declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida" (AgRg no AREsp n. 1.789.837/SP, Quinta Turma, RELATOR Ministro MESSOD AZULAY NETO, DJe 03/07/2023) Efetivamente, compulsados os autos, colhe-se que a corte de origem analisou e rebateu, um a um, os argumentos levantados, sendo certo que a ausência de menção a um outro argumento invocado não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Há de se atentar, portanto, para o fato de que "O reconhecimento de violação do art. 619 do Código de Processo Penal pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo Tribunal a quo, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento." (AgRg no AREsp 2610994 / RN, RELATOR Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DATA DO JULGAMENTO 18/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 25/06/2024) Adiante, quanto ao pleito de reconhecimento de negativa de autoria ou de ausência de elemento subjetivo, observa-se que esbarra no óbice da Súmula nº 7 do STJ, pois exige o revolvimento fático-probatório, para o qual não se presta o recurso especial.
+Não cabe, à luz da competência recursal especial desta corte, proceder a uma extensa valorização das provas para aferir o papel dos recorrentes no pregão ou a sua participação na empresa beneficiada e enquadrá-los na moldura típica imputada.
+Vale dizer, "para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa." (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Por fim, é cediça a jurisprudência deste Superior Tribunal de Justiça no sentido de que "(..) A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+(..)" (HC 595958 / SP, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/08/2020, DATA DA PUBLICAÇÃO/FONTE DJe 24/08/2020) Ou seja, a revisão da dosimetria em sede de especial "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC n. 304.083/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+No presente feito, observa-se que a exacerbação da pena dos recorrentes se deu de maneira motivada e inexistem elementos que permitam afirmar flagrante ilegalidade.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial."
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático- probatório dos autos, o que impede a atuação excepcional desta Corte.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
