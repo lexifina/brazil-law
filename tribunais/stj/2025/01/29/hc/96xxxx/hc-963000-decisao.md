@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ, impetrado em benefício de FELIPE REIS RANGEL e ADILSON CESAR DA FONSECA MONTEIRO - presos preventivamente e denunciados pela prática, em tese, do crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Habeas Corpus n. 2286180-64.2024.8.26.0000), não comporta acolhimento.
+Com efeito, busca a impetração o relaxamento da prisão cautelar imposta aos pacientes pelo Juízo de Direito da 5ª Vara Criminal da comarca de Guarulhos/SP (Autos n. 1500819-67.2024.8.26.0535), ao argumento de excesso de prazo para o término da instrução criminal pois o excesso de prazo não restou configurado apenas pela demora no julgamento da causa, pelo Magistrado, e efetiva prestação jurisdicional, mas também pela demora, injustificada, na remessa dos aparelhos celulares apreendidos, pela Delegacia de Polícia, assim como pela previsão demasiadamente demorada dada para a realização da perícia, isto é, 6 a 8 meses. Logo, trata-se de uma somatória de fatores do caso concreto! (fl. 8).
+Aduz que houve prolongação da instrução processual em razão de pedido exclusivo do órgão acusador e que não há que se olvidar que os Pacientes e corréus estão encarcerados desde o dia 16/3/2024, isto é, a mais de 8 (oito) meses (fls . 9 e 13).
+Do atento exame dos autos não verifiquei coação ilegal decorrente do elastecimento da marcha processual.
+O paciente se encontra preso preventivamente desde o dia (16/3/2024 - fl. 92), inexiste desídia do Judiciário no impulsionamento da ação penal, que, inclusive, encontra-se em fase de produção de provas, tendo sido encaminhados os aparelhos celulares apreendidos ao DIPOL em 18/9/2024 para a realização da perícia requerida pelo Ministério Público, conforme informações prestadas pelo Juízo de primeiro grau, além de se tratar de feito complexo, com pluralidade de acusados e como bem destacado pelo Tribunal de origem, de atos de ampla significação e importância, inclusive com apreensão de objetos que podem, eventualmente, comportar informações sensíveis e valiosas para o esclarecimento da investigação. Nesse sentido, realmente cabe proceder com diligência e cuidado, no interesse de todas as partes e da própria atividade da justiça criminal (fl. 20).
+Não se visualiza, portanto, no presente caso, descuido do Juízo, que inclusive segue cobrando resposta da perícia pedida, assim como revisando a necessidade de manutenção da custódia dos acusados, sendo a última decisão sobre o tema datada de 17/12/2024, conforme consta do site do Tribunal local.
+A propósito:
+ ..
+3. Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado. Precedentes.
+ ..
+(AgRg no RHC n. 186.668/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 22/10/2024).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (46.608,4 G DE COCAÍNA). PRISÃO CAUTELAR. EXCESSO DE PRAZO. FEITO COMPLEXO, VÁRIOS CORRÉUS, AUSÊNCIA DE DESÍDIA DO JUDICIÁRIO E TRAMITAÇÃO REGULAR. RAZOABILIDADE. OBSERVÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
