@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LAUDISIO SOCIEDADE DE ADVOGADOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+COBRANÇA - ATIVOS FINANCEIROS - FUNDO GARANTIDOR DE CRÉDITO QUE LIMITA PAGAMENTO DO VALOR DO SEGURO AOS INVESTIDORES - PEDIDO VOLTADO À MAJORAÇÃO DO LIMITE DE GARANTIA ORIUNDA DOS ESTATUTOS CONSTANTES DA RESOLUÇÃO BACEN (CMN) Nº 4.222/13, EDITADA EM DATA POSTERIOR AO DECRETO DE INTERVENÇÃO DA INSTITUIÇÃO FINANCEIRA BANCO BVA - DIREITO À COBERTURA QUE SURGE NO MOMENTO DA INTERVENÇÃO - INCIDÊNCIA DO QUE DEFINIDO NO JULGAMENTO DO IRDR 2059683-75.2016.8.26.0000 - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 85, §§ 2º e 6º- A, do CPC, no que concerne à ilegalidade da fixação dos honorários advocatícios com base na equidade em razão de a demanda ser de vultuoso valor, devendo ser arbitrado com base no valor da condenação, proveito econômico ou valor da causa, trazendo a seguinte argumentação:
+17. Conforme visto, o v. Acórdão Recorrido fixou os honorários por equidade, majorando-se a sucumbência de R$ 2.500,00 para R$ 2.700,00.
+18. No entanto, o vultuoso valor da causa do presente feito, qual seja, R$ 180.000,00 (cento e oitenta mil reais), não poderia, de maneira alguma, ser considerado "pequeno valor" em termos de arbitramento de honorários. Ao contrário, sendo este um valor considerável, deve, obrigatoriamente, serem atendidos os percentuais previstos no § 2º do artigo 85 do CPC:
+ ..
+19. É nítido que houve violação ao dispositivo reproduzido acima, que estabelece a ordem que deve ser respeitada quando da fixação dos honorários: valor da condenação, proveito econômico ou valor da causa.
+20. A fixação por equidade é uma exceção da regra, podendo ser aplicada apenas quando irrisório o proveito econômico ou quando o valor da causa for muito baixo, nos termos do §8º do mesmo dispositivo. E isso justamente para fixar um valor maior de sucumbência, a fim de remunerar o trabalho do advogado condizentemente.
+21. Houve, ainda, violação ao §6º-A do artigo 85, que proíbe expressamente a fixação dos honorários por equidade quando o valor da causa for líquido ou liquidável, exceto na hipótese prevista no §2º:
+ ..
+24. Importante destacar que, no que pese a r. Sentença ter arbitrado honorários com base no artigo 20, § 4º do CPC/73, ainda assim, não poder-se-ia dizer que a tese fixada por este C. STJ não se aplica ao caso, isto porque, a r. Sentença foi proferida quando o atual CPC já estava em vigor, sendo, portanto, plenamente aplicável a tese.
+25. Aliás, a apreciação equitativa dos honorários advocatícios não poderia sequer ser aplicada à época da vigência do CPC/73, vez que a antiga redação apresentava a aplicação dessa modalidade de arbitramento apenas "nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação..". Não sendo nenhuma dessas a hipótese do presente caso, os honorários deveriam, então, terem sido arbitrados com base no § 3º do artigo 20 do CPC/73 3 , correspondente ao atual § 2º do artigo 85 do atual CPC.
+26. Noutros termos, seja pelo CPC 1973, seja pelo CPC 2015, os honorários não poderiam ter sido fixados por equidade no presente caso.
+27. É nítida, portanto, a violação ao artigo 85, § 2º, e § 6-A, do CPC pelo v. Acórdão Recorrido, que arbitrou os honorários advocatícios por apreciação equitativa em hipótese que não comporta a aplicação da modalidade e, por conseguinte (fls. 545/546).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
