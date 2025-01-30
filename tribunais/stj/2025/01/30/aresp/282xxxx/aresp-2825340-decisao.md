@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo interposto por GARRA DISTRIBUIDOR DE BEBIDAS E ALIMENTOS LTDA, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de GARRA DISTRIBUIDOR DE BEBIDAS E ALIMENTOS LTDA, verifica-se que há divergência entre o número constante no código de barras da guia de preparo e seu respectivo comprovante de pagamento.
+Este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Ademais, percebeu-se, no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, haver irregularidade no recolhimento do preparo. A parte, embora devidamente intimada para sanar referido vício, não regularizou, tendo em vista que a petição de fls. 31/33 veio desacompanhada do comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento juntado aos autos (fl. 33) não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Nesse sentido, este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.5.2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Ainda, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Agravo, Dr. PEDRO MEDEIROS DE ALMEIDA e do Recurso Especial, Dr. MARCO ANTONIO RODRIGUEZ DE ASSIS FILHO.
+Outrossim, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, uma vez que os poderes consignados no instrumento de mandato de fl. 57 foram outorgados ao subscritor do Agravo em data posterior à sua interposição.
+A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19.2.2020, e AgRg no AREsp n. 1.825.314/RS, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 6.8.2021).
+Destaca-se que ainda que a outorga de poderes fosse posterior à interposição dos recursos, o óbice relativo ao Recurso Especial não estaria regularizado, uma vez que a procuração de fl. 57 não foi suficiente para completar a cadeia de representação outorgando poderes ao respectivo subscritor, Dr. MARCO ANTONIO RODRIGUEZ DE ASSIS FILHO.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto nas Súmulas n. 115 e187 do STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+ EMENTA
