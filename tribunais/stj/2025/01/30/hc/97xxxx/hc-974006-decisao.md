@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de ERLON RIBEIRO GUIMARAES, no qual se ataca o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que denegou a ordem no HC n. 0050322-05.2024.8.17.9000.
+Extrai-se dos autos que o paciente foi preso preventivamente e denunciado pela suposta prática dos crimes previstos no art. 121, § 2º, incisos I, III e IV, art. 288 do CP e art. 201 da Lei n. 14.597/2023, em concurso de pessoas e material de delitos (art. 29 e 69 do CP).
+Daí o presente writ, no qual se alega falta de provas de autoria delitiva; nulidade no reconhecimento pessoal como único meio de prova, pois não houve registro do paciente nas imagens e porquanto a testemunha não foi colocada ao lado de pessoas que compartilhassem da mesma semelhança que o réu.
+Sustenta ausência de fundamentação idônea para o decreto da custódia cautelar, alicerçada em ilações e na gravidade abstrata dos delitos; bem como que o fato de o paciente responder a outra ação penal sem o trânsito em julgado não demonstra habitualidade delitiva. Ressalta as condições pessoais favoráveis.
+Requer, em liminar e no mérito, a revogação da prisão preventiva.
+A liminar foi indeferida (fls. 868/869).
+As informações foram prestadas (fls. 873/874 e 875/891).
+O Minis tério Público Fe deral se manifestou pela denegação da ordem (fls. 908/912).
+É o relatório.
+Inicialmente, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria.
+Quanto às alegações de que há nulidade no procedimento de reconhecimento fotográfico, pois a testemunha não foi colocada ao lado de pessoas semelhantes ao paciente, nem corroborado por demais elementos de prova, observo que o acórdão impugnado não se manifestou a respeito. Assim, a análise das alegações importaria indevida supressão de instância, de modo que o mandamus não pode ser conhecido quanto ao ponto.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+O Juízo de primeiro grau decretou a prisão preventiva com base na seguinte fundamentação (fls. 183/184 - grifo nosso):
+ ..
+ERLON RIBEIRO GUIMARÃES, responde outra ação penal (0000489-77.2024.8.17.4001 - em trâmite na 6ª Vara Criminal da Capital).
+Considerando as informações acima expostas, é possível constatar que alguns dos acusados são contumazes em prática criminosa, o que autoriza o decreto preventivo, em face do risco de reiteração delitiva.
+ ..
+Assim, segundo os elementos indiciários colhidos durante a investigação policial, verifica-se que, supostamente, os acusados, em comunhão de desígnios, teriam, em tese, assassinado a vítima mediante golpes de instrumento contundente.
+Considero que o f ato descrito na representação policial e revisitado no parecer ministerial é, com efeito, de extrema gravidade, ressalvando-se, bem assim, os sinais que revelam a periculosidade dos agentes, e, que os motivos que ensejaram a prática delituosa, os quais estariam relacionados à violência que permeia às ruas em dias de jogos de futebol, ocorridos nesta capital.
+Além disso, há nos autos elementos indiciários dando conta de que a ação teria se dado de forma organizada e preordenada pelos membros e integrantes da TJL (Torcida Jovem Leão), uma vez que, supostamente foram mobilizados torcedores de diversos bairros, com o fito de realizar o ataque aos torcedores do Santa Cruz. Ataque este, que resultou na morte de uma pessoa acometida de espectro autista, conforme o que foi relatado nos autos.
+ ..
+O Tribunal local, por sua vez, ratificou a decretação da custódia, consignando que (fl. 882 - grifo nosso):
+ ..
+Na hipótese dos autos, além de inexistir desídia estatal quanto ao andamento processual, é certo o perigo da liberdade oferecida pelo acusado, hábil a justificar o seu encarceramento provisório, estando demonstrado não só pela periculosidade do agente, mas também pela contumácia delitiva, eis que ele possui outro registro criminal em que se evidencia que o acusado possui habitualidade em agir com o mesmo modus operandi utilizado na presente ação penal, qual seja, unir-se a outros agentes com o escopo de praticar delitos, de modo a revelar a periculosidade do acusado, a personalidade voltada à prática de crimes, bem como o perigo gerado por seu estado de liberdade, de modo a evitar a reiteração delitiva.
+ ..
+Realmente, verifica-se que a custódia cautelar está fundamentada em elementos concretos das circunstâncias dos crimes, reveladores da especial gravidade da conduta do paciente, que, juntamente com outros indivíduos, participantes da Torcida Jovem Leão - TJL (Torcedores do Sport Clube do Recife), em contexto de rivalidade ent re torcidas organizadas, promoveu tumulto e proferiu chutes, socos, pauladas, golpes com instrumento contundente contra a vítima da torcida oposta Santa Cruz, que veio a óbito, o que demonstra a sua pe riculosidade e o risco ao meio social.
+Ademais, há o risco de reiteração delitiva, uma vez que responde a outra ação penal, portanto, necessária a cons trição para a garantia da ordem pública.
+Nesse sentido, a jurisprudência desta Corte Superior já se manifestou em caso semelhante: no caso, a custódia foi decretada e mantida pelo fato de os crimes imputados ao agravante terem ocorrido em contexto de disputa entre facções criminosas, tendo ele atuado como um dos líderes da organização denominada "GDE", ordenando a execução dos homicídios em retaliação a outro homicídio ocorrido três dias antes e em razão de terem alguns membros da "GDE" deixado a facção e passado a integrar a organização rival (AgRg no RHC n. 199.765/CE, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 5/9/2024 - grifo nosso).
+No mesmo sentido é o AgRg no HC n. 569.070/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/4/2020, DJe 4/5/2020.
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentad a; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Pelo expost o, com ba se na jurisprudência, denego a ordem (art. 34, XX, do RISTJ).
+Publiq ue-se.
+EMENTA
+HABEAS CORPUS. HOMIC ÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. PROMOVER TUMULTO EM EVENTO ESPORTIVO. AUSÊNCIA DE PROVAS DE AUTORIA. CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE EXAME NA VIA ELEITA. PRISÃO PREVENTIVA. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. SUPRESSÃO DE INSTÂNCIA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE SOCIAL DO AGENTE. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. MOTIVAÇÃO IDÔNEA. INEVIDÊNCIA DE ILEGALIDADE.
+Ordem denegada.
