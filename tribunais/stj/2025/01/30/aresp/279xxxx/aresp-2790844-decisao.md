@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MARCOS ROBERTO DA SILVA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fls. 303-313):
+"APELAÇÃO CRIMINAL - PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO - Artigo 14 da Lei nº 10.826/03 - Preliminares de nulidade arguidas afastadas - Autoria e materialidade do delito comprovados - Confissão do réu - Depoimento de policial firme e sem desmentido - Conjunto probatório suficiente para manter a condenação nos termos da r. sentença - Réu reincidente - Penas e regime prisional fixados com critério - Recurso desprovido.
+Em suas razões recursais, a parte recorrente aponta violação ao art. 157, caput e §1º, do Código de Processo Penal. Aduz para tanto, em síntese, que a abordagem pessoal foi ilegal, pois ausente fundada suspeita que justificasse sua realização pela polícia, sendo ilícitas as provas dela derivadas.
+Com contrarrazões (e-STJ, fls. 329-334), o recurso especial foi inadmitido na origem (e-STJ, fls. 337-338), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do agravo em recurso especial (e-STJ, fls. 370-372).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+A respeito da licitude da prova colhida mediante busca veicular o Tribunal de origem assim asseverou (e-STJ, fls. 305-309) :
+"De fato, a tese alegada pela Defesa buscando a nulidade do feito não pode prosperar, tendo em vista a atuação dos policiais, que, aliás, se deu nos limites legais, ficando bem demonstrada a fundada suspeita que justificou a abordagem e busca pessoal.
+ ..
+Não há que se falar em arbitrariedade na atuação dos policiais, os quais, no exercício de suas funções, realizaram a abordagem.
+A busca pessoal foi realizada em razão de fundada suspeita, de forma regular e válida, respeitados os direitos do averiguado.
+Na hipótese dos autos, vislumbro que restou perfeitamente atendido o disposto no art. 244 do CPP, não havendo qualquer nulidade a ser reconhecida, pois o acusado, foi abordado pelos agentes estatais durante uma fiscalização de trânsito e, no decorrer da abordagem, em razão de atitude suspeita do acusado, o policial percebeu que ele trazia a arma de fogo consigo.
+Logo, entendo que, no presente caso, ficou sobejamente demonstrada a justa causa da busca pessoal realizada e, sobretudo, a licitude da conduta dos policiais militares.
+ ..
+E, bem observado pela PGJ. (fls. 297/298):
+"(..) No caso em tela, a policial militar aduziu sob o crivo do contraditório que realizava fiscalização de trânsito juntamente com seu parceiro, quando solicitaram a parada do veículo ocupado pelo acusado e outro indivíduo, e conduzido pela testemunha Débora. Durante a abordagem, seu parceiro Wesley percebeu que um dos ocupantes (identificado como Kairo) mexia na cintura, motivo pelo qual determinou que ele desembarcasse do automóvel. Indagado sobre a posse de algum objeto ilícito, o indivíduo entregou a arma de fogo, afirmando que pertencia ao acusado. Na posse de Marcos, foram apreendidas munições. O réu disse que comprou a arma para sua defesa, porque era comerciante. Por seu turno, os demais passageiros informaram que retiraram a arma da posse de Marcos porque ele pretendia atentar contra a própria vida."
+Consta dos arts. 240, § 2º, e 244, do Código de Processo Penal que a busca pessoal ou veicular poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+Na presente hipótese, a abordagem se deu de maneira objetivamente fundamentada, em atuação ostensiva da polícia em fiscalização de trânsito de rotina. Na ocasião, visualizaram um dos passageiros movimentar objeto na altura da cintura, razão pela qual solicitaram que ele saísse do veículo e, questionado sobre a posse de algum objeto ilícito, ele entregou a arma de fogo e disse que era de propriedade do acusado. Presente, portanto, a justa causa, aferida de modo objetivo diante das circunstâncias do caso concreto. Ademais, não há qualquer indício de que houve qualquer perfilamento ou seleção subjetiva na atuação policial.
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. LEGALIDADE. ABORDAGEM POLICIAL EM FISCALIZAÇÃO DE TRÂNSITO. OFENSA AO PRINCÍPIO DA NÃO AUTOINCRIMINAÇÃO. NÃO OCORRÊNCIA. CONDENAÇÃO AMPARADA EM PROVAS INDEPENDENTES. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO DESPROVIDO.
+1. Nos termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar.
+2. É válido considerar que a atuação da Polícia Rodoviária Federal no caso em questão se justifica, uma vez que ocorreu em fiscalização de rotina de trânsito, entre Foz do Iguaçu/PR e Campinas/SP, local notório pela prática delitiva, aliada à apreensão de bagagem suspeita, razão pela qual não há ilegalidade na busca realizada.
+3. Segundo entendimento desta Corte, "eventual irregularidade na informação acerca do direito de permanecer em silêncio é causa de nulidade relativa, cujo reconhecimento depende da comprovação do prejuízo" (HC 614.339/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe 11/2/2021).
+4. No caso, além da confissão informal ter sido feita após a consumação do delito de tráfico de drogas, o édito condenatório está apoiado no testemunho judicial dos pacientes - que confessaram o transporte da droga mediante pagamento - e dos policiais que realizaram o flagrante. Portanto, ainda que hipoteticamente os réus não tenham sido advertidos do direito ao silêncio, tal irregularidade não tem o condão de tornar nula a condenação, posto que há prova lícita e independente para a formação do juízo de culpabilidade.
+5. Embora os pacientes sejam primários e a pena tenha sido estabelecida em patamar inferior a 8 anos de reclusão, a existência de circunstâncias judiciais desfavoráveis autoriza a fixação do regime inicial fechado, conforme dispõe o art. 33, §2º e 3º, III, "a", do CP.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 876.392/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Não há que se falar, portanto, em prova ilícita.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
