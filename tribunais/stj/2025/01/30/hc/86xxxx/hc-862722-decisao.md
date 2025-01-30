@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de Jackson Marcio de Oliveira - condenado a 5 anos e 10 meses de reclusão (fl. 150), em regime inicial fechado, pelo crime de tráfico de drogas -, em que se aponta como autoridade coatora a Quarta Câmara Criminal do TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que deu provimento à apelação ministerial para condenar o paciente pelo crime do art. 33, caput, da Lei n. 11.343/2006 (Apelação Criminal e Embargos de Declaração n. 0000977-56.2010.8.26.0126), não comporta acolhimento.
+Busca a impetração o restabelecimento de sentença proferida pelo Juízo da 1ª Vara da comarca de São Sebastião/SP, com a desclassificação do delito de tráfico de drogas para a posse ilegal de drogas destinadas a consumo de uso pessoal.
+Pugna, assim, pela concessão da ordem para decretar a rescisã o do acórdão objeto deste writ, em virtude de manifesta prova contrária nos autos, especialmente, para que seja mantida a sentença desclassificatória de uso pelos seus próprios e jurídicos fundamentos (fl. 11).
+De início, verifico que a impetração não prospera, visto que a insurgência apresentada pela defesa neste writ tem nítidas feições de revisão criminal, já houve o trânsito em julgado da condenação imposta ao paciente em 1º/12/2015 (fl. 17), o que denota flagrante impropriedade do meio processual ora utilizado.
+Afora isso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus e a consequente superação do óbice constatado.
+Isso porque a jurisprudência deste Tribunal Superior é firme ao asseverar que o habeas corpus não é a via adequada para apreciação de pedidos de absolvição ou desclassificação de condutas, tendo em vista a necessidade de reexame aprofundado dos fatos e provas, o que é vedado nesta via processual (AgRg no HC n. 833.356/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 23/10/2024). E, ainda: AgRg no HC n. 908.700/MA, Ministro Og Fernandes, Sexta Turma, DJe 25/10/2024.
+Verifico, ainda, que sobreveio o reconhecimento da prática do tráfico de drogas pelo Tribunal local com base na prova oral colhida, somada à apreensão de 20 porções de cocaína, na forma de pedras de crack, embaladas individualmente e acondicionadas em um pote plástico de cor preta, pesando aproximadamente 7 g, além da quantia de R$ 500,00 (quinhentos reais), o que demonstra a atividade mercantil desempenhada pelo paciente (fl. 30).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. CONDENAÇÃO TRANSITADA EM JULGADO. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI DE DROGAS. REEXAME DO CONJUNTO FÁTICO. IMPOSSIBILIDADE NA VIA ELEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
