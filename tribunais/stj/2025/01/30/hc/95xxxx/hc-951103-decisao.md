@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KATIA PEREIRA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o pedido de remição de pena formulado em favor da paciente, em decorrência da aprovação parcial no Exame Nacional para Certificação de Competências de Jovens e Adultos - Encceja 2022, foi indeferido pelo Juiz de primeiro grau.
+A defesa interpôs perante o Tribunal de origem agravo em execução, ao qual foi negado provimento.
+A impetrante alega que a paciente obteve a aprovação no Encceja 2023 em quatro áreas de conhecimento do ensino médio, o que permitiria a remição da pena em número de dias proporcionais ao êxito obtido no exame.
+Requer que seja cassado o acórdão estadual, concedendo-se à paciente a remição de pena em razão da aprovação parcial no aludido exame.
+Prestadas as informações solicitadas, o Ministério Público Federal opinou pela concessão da ordem para assegurar-se à paciente a remição de 104 dias de pena em virtude da aprovação parcial no Encceja 2022 - Ensino Fundamental.
+É o relatório.
+De início, observo que, em que pese à inicial fazer menção ao ano de 2023 e ao nível de ensino médio, o documento acostado à fl. 52, bem como a decisão de fls. 68-70, demonstra a aprovação parcial da paciente no ensino fundamental do Encceja 2022.
+A Corte estadual manteve o indeferimento do pedido de remição de pena pela participação no Encceja porque a paciente não foi aprovada em todas as áreas de conhecimento do exame.
+Confira-se a fundamentação (fls. 31-34):
+O Juízo apontado como coator, aos 04 de março de 2024, indeferiu o pedido, por r. decisão suficientemente fundamentada:
+ ..
+Todavia, no caso em análise, o documento de fls. 1460 apenas informa que o(a) executado(a) realizou a prova do ENCCEJA, sem, contudo, ter sido aprovado(a), na medida em que não obteve a pontuação mínima exigida em todas as áreas de conhecimento.
+Como sabido, a pontuação mínima para aprovação no ENCCEJA é de 100 pontos em cada uma das áreas de conhecimento do exame e de 05 pontos na redação, sendo que o(a) sentenciado(a) não obteve a pontuação necessária em "Ciências Naturais".
+Ressalta-se que a Resolução nº 391, de 10/05/2021, do E. Conselho Nacional de Justiça não faz menção à aprovação parcial no ENEM ou ENCCEJA, restando inviável, assim, a concessão da remição pretendida pela Defesa. Nesse sentido:
+ ..
+Ante o exposto, INDEFIRO o pedido de remição formulado por KATIA PEREIRA DA SILVA pela realização do ENCCEJA 2022. (..)" (grifos no original).
+ ..
+Desta forma, meu voto é no sentido de que seja NEGADO PROVIMENTO ao Agravo Regimental interposto nos autos do "Habeas Corpus" impetrado em favor de Kátia Pereira da Silva.
+Contudo, a decisão do Tribunal de origem contraria a jurisprudência desta Corte Superior, cuja orientação, no caso de aprovação parcial no exame de ensino fundamental do Encceja, é pela remição na proporção de 26 dias de pena para cada área de conhecimento que o apenado tenha obtido êxito.
+No caso concreto, conforme se depreende do constante no documento de fl. 20, a paciente foi aprovada em quatro áreas de conhecimento no exame de ensino fundamental do Encceja, o que autoriza a remição de 104 dias de pena.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO EM TRÊS ÁREAS DE CONHECIMENTO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIA DE JOVENS E ADULTOS (ENCCEJA/NÍVEL FUNDAMENTAL). ART. 126 DA LEP. RECOMENDAÇÃO N. 44/2013 DO CNJ. BASE DE CÁLCULO. ART. 24, I, DA LEI 9.394/1996. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. O art. 126 da Lei de Execução Penal determina que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, também por estudo, parte do tempo de execução da pena.
+2. Esta Corte Superior de Justiça tem admitido a possibilidade de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP.
+3. A Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão do ensino fundamental - Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - ou médio - Exame Nacional do Ensino Médio (ENEM), incentivando os apenados aos estudos, bem como à sua readaptação ao convívio social.
+4. Dessa forma, tomando-se como base de cálculo 50% da carga horária definida legalmente para o ensino fundamental, ou seja, 1.600 horas, deve-se dividir esse total por 12 (1 dia de pena a cada 12 horas de estudo), que resultam em 133 dias remidos, em caso de aprovação em todas as áreas de conhecimento do exame. Serão devidos, portanto, 26 dias de remição para cada uma das cinco áreas de conhecimento. Logo, como a paciente obteve aprovação parcial, ou seja, em três áreas de conhecimento, a remição deve corresponder a 78 dias remidos.
+5. Agravo regimental parcialmente provido para reconhecer a remição de 78 dias de pena da paciente, relativos à sua aprovação em 3 áreas de conhecimento no ENCCEJA (Ensino Fundamental).
+(AgRg no HC n. 773.888/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR ESTUDOS. ART. 126 DA LEI DE EXECUÇÃO PENAL - LEP. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. BASE DE CÁLCULO. ARTS. 24, I, E 35 DA LEI 9.394/1996. APROVAÇÃO PARCIAL NO ENSINO MÉDIO. EMBARGOS ACOLHIDOS.
+1. A Terceira Seção desta Corte Superior, no julgamento do HC 602.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 6/4/2021, unificou o entendimento no sentido de que a remição pelo estudo decorrente da aprovação no Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA, nos termos da Recomendação n. 44/2013, do Conselho Nacional de Justiça - CNJ, deve se dar, em nível médio, na proporção de 20 dias de desconto da pena para a aprovação em cada uma das 5 áreas, e de 26 dias, na hipótese do exame de nível fundamental, somando-se, ainda, 1/3 (um terço), se houver conclusão certificada do curso, nos termos do § 5º, do art. 126, da Lei de Execuções Penais - LEP.
+2. A hipóteses dos autos trata de aprovação parcial em 4 áreas de conhecimento do ensino médio.
+3. Embargos de declaração acolhidos, para conceder a ordem, de ofício, e determinar que sejam considerados apenas 80 dias de remição na pena do embargado.
+(EDcl no AgRg no HC n. 593.168/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/6/2021, DJe de 22/6/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. REMIÇÃO DA PENA POR APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA) - ENSINO FUNDAMENTAL. BASE DE CÁLCULO. RECOMENDAÇÃO CNJ 44/2013. LEI 9.394/1996. ORIENTAÇÃO JURISPRUDENCIAL DA TERCEIRA SEÇÃO. AGRAVO REGIMENTAL PROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que, para fins de remição pela aprovação no ENCCEJA, devem ser consideradas 1.600 horas para os anos finais do ensino fundamental e 1.200 horas para o ensino médio, o que corresponde a 50% da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e da Recomendação 44/2013 do Conselho Nacional de Justiça (HC 602.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 10/03/2021, DJe 06/04/2021).
+2. No caso, o paciente foi aprovado em duas das cinco áreas de conhecimento do ENCCEJA/Ensino Fundamental, razão pela qual tem direito à remição de 52 dias de pena.
+3. Agravo regimental provido para, concedendo a ordem, deferir ao paciente a remição de 52 dias de pena pela aprovação em 2 áreas do Exame Nacional para Certificação de Competências de Jovens Adultos - ENCCEJA/Ensino Fundamental.
+(AgRg no HC n. 622.319/SC, relator Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 1º/6/2021, DJe de 7/6/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR ESTUDO. ENCCEJA. ENSINO FUNDAMENTAL. ARTS. 126 DA LEP, 4º, II, DA RESOLUÇÃO CNE N. 3/2010 E 1º, IV, RECOMENDAÇÃO CNJ N. 44/2013. BASE DE CÁLCULO DE 50% EQUIVALENTE A 1.600 HORAS. CARGA HORÁRIA (ART. 126, § 1º, I, DA LEP). APROVAÇÃO EM 2 ÁREAS DE CONHECIMENTO. REMIÇÃO DE 52 DIAS. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+1. Em conformidade com a interpretação dada pelas Turmas de Direito Penal do STJ aos arts. 126 da Lei de Execução Penal, 4º, II, da Resolução CNE n. 3/2010 e 1º, IV, da Recomendação CNJ n. 44/2013, o quantitativo de 1.600 horas e o de 1.200 horas referem-se, respectivamente, ao percentual de 50% da carga horária definida legalmente para o ensino fundamental e para o ensino médio do Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA).
+2. Fixada a base de cálculo de 50% do ENCCEJA referente ao ensino fundamental como equivalente a 1.600 horas e dividida essa carga horária por 12 (art. 126, § 1º, I, da LEP), resulta no total de 133 dias pela aprovação integral, o que compreende 26 dias de remição, desconsiderando-se a fração, para cada uma das áreas de conhecimento.
+3. Com a aprovação do reeducando em 2 áreas de conhecimento do ensino fundamental do ENCCEJA, impõe-se a remição de 52 dias da pena.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com a jurisprudência do Superior Tribunal de Justiça sobre as questões suscitadas.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 602.360/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021.)
+Ante o exposto, acolho o parecer ministerial e concedo o habeas corpus para determinar que o Juízo da execução penal reconheça o direito da paciente a 104 dias de remição de pena, devido à aprovação parcial no Exame Nacional para Certificação de Competências de Jovens e Adultos - Encceja.
+Comunique-se. Publique-se. Intimem-se.
+EMENTA
