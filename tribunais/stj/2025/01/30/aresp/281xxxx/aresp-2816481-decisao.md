@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE RIO DE JANEIRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Embargos declaratórios de ambas as partes. Inexistência de contradição no Acórdão. Omissão sanada. Declaratórios da parte autora desprovidos e providos aqueles opostos pelo Réu.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 944 e 950 do CC, no que concerne à necessidade de se reconhecer que o termo final do pensionamento deve ser a data em que o beneficiário atingir a idade correspondente à expectativa média de vida do brasileiro, segundo as estatísticas do IBGE, ou vier a óbito, o que ocorrer primeiro, seguindo a jurisprudência. Aduz a seguinte argumentação:
+O acórdão recorrido, ao condenar o Município ao pagamento de pensionamento vitalício violou os dispositivos acima transcritos, uma vez que sedimentou-se ser razoável, no arbitramento dessa verba, dada a eventual ausência de comprovação do desempenho de atividade remunerada pelo menor ou da real extensão de sua efetiva contribuição com o custeio das despesas familiares, que a pensão mensal devida seja desde os 14 anos de idade da vítima (data em que o direito laboral admite o contrato de trabalho), perdurando tal obrigação até a data em que a vítima atingiria idade correspondente à expectativa média de vida do brasileiro, prevista na data do óbito, segundo a tabela do IBGE, ou até o falecimento da beneficiária, se tal fato ocorrer primeiro.
+A propósito, merecem colação os seguintes precedentes, que bem refletem o entendimento ora externado e do qual, pelo que se colhe dos autos, divergiu frontalmente o aresto ora hostilizado:
+ ..
+Portanto, evidente a violação dos dispositivos legais acima apontados, razão pela qual deve ser provido o presente recurso especial, a fim de que a E. Corte pacifique a interpretação da legislação federal no que diz respeito ao termo final do pensionamento, que deve ser fixado no caso concreto como sendo a data em que o beneficiário completar a idade correspondente à sua expectativa média de vida, segundo as estatísticas do IBGE ou sobrevier o óbito, se tal fato vier primeiro, como bem já decidiu o STJ em mais de uma oportunidade.
+(fls. 1627-1629).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
