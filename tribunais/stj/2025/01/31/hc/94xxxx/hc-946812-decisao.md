@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JOSE ARNALDO DA SILVA GOMES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do Habeas Corpus Criminal n. 1.0000.24.331744-3/000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 25/6/2024, posteriormente convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que ficou assim ementado (fl. 25):
+"HABEAS CORPUS - TRÁFICO ILÍCITO DE DROGAS - NULIDADE - CERCEAMENTO DE DEFESA -VIA IMPRÓPRIA - REVOGAÇÃO DA PRISÃO PREVENTIVA - NÃO CABIMENTO - PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP - GARANTIA DA ORDEM PÚBLICA - GRAVIDADE CONCRETA DA CONDUTA - APREENSÃO DE GRANDE QUANTIDADE DE ENTORPECENTES - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA. - A estreita via do writ não se mostra como meio adequado para se alegar eventuais nulidades processuais ocorridas nos autos de cognição. - Demonstrada a existência de indícios de autoria e materialidade delitiva e estando evidenciada a gravidade concreta da conduta perpetrada, por meio de elementos do caso, como a quantidade de drogas apreendidas, é imperiosa a manutenção da prisão processual para a garantia da ordem pública e consequente acautelamento do meio social, nos termos do art. 312 do CPP. - As condições pessoais do paciente ainda que favoráveis, por si só, não lhe garantem o direito à liberdade provisória ou mesmo a incidência de medidas diversas da segregação, devendo ser analisada caso a caso a necessidade de manutenção da prisão cautelar."
+No presente writ, a defesa sustenta a ausência dos requisitos da prisão preventiva dispostos no art. 312 do Código de Processo Penal - CPP, ao alegar que a quantidade de drogas apreendida não é, por si só, elemento suficiente para embasar o decreto preventivo.
+Aduz cerceamento de defesa, pois a audiência de custódia foi antecipada e realizada sem a presença do advogado constituído, tendo sido o paciente acompanhado pela Defensoria Pública, que apresentou pedido genérico de liberdade provisória, desconsiderando-se o caso concreto e os documentos apresentados pela defesa constituída.
+Salienta as condições pessoais do paciente e o fato de o crime ter sido cometido sem violência ou grave ameaça, afirma não ter sido demonstrado o periculum libertatis, defende que o paciente agiu na condição de mula e a suficiência, no caso, das medidas cautelares diversas do art. 319 do CPP.
+Pondera que a prisão é desproporcional, pois em eventual condenação poderá ser fixado regime menos gravoso.
+Requer a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+A liminar foi indeferida (e-STJ fls. 212/214).
+A Corte Estadual e o Juízo de primeiro grau prestaram informações (e-STJ fls. 220 e 232/233).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ fls. 238/239).
+É o relatório.
+Decido.
+Em consulta ao site jus.br nos autos da ação penal n. 0002894-44.2024.8.13.0074, originada do inquérito policial n. 5003828-14.2024.8.13.0074, o apontado como origem do ato coator da manutenção da prisão cautelar em desfavor do paciente, foi proferida sentença condenando o paciente à pena de 6 anos e 3 meses de reclusão, em regime inicial fechado, e pagamento de 625 dias-multa, pela prática do delito previsto no art. 33 da Lei n. 11.343/2006, sendo negado o recurso em liberdade, mantendo-se a prisão preventiva.
+Assim, a notícia da superveniência de sentença condenatória durante a tramitação do presente writ implica na perda do objeto da irresignação.
+A despeito de posicionamento anterior desta Quinta Turma do Superior Tribunal de Justiça, a Corte tem evoluído no tema e firmou a orientação para entender que o advento de sentença condenatória resulta na prejudicialidade do writ que pretende a revogação da segregação por constituir novo título que justifica a manutenção da custódia processual do paciente, cujos fundamentos devem ser impugnados por via própria, caso assim entenda a defesa. Confiram-se os recentes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. INSURGÊNCIA CONTRA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ATO COATOR QUE DESAFIA IMPUGNAÇÃO PRÓPRIA. AGRAVO NÃO PROVIDO.
+1. A superveniência de um novo título judicial, decisão exarada pelo Juízo de primeiro grau, em consonância com o que determina o § 1º do art. 387 do Código de Processo Penal, com a redação que lhe foi dada pela Lei n. 12.736/2012, prejudica a impetração voltada à impugnação do decreto prisional original.
+2. No caso, o surgimento de novo título judicial a amparar prisão preventiva do agravante - a saber: a sentença condenatória - prejudica a análise do objeto da presente impetração, que se insurgia contra a ordem de custódia cautelar original.
+3. Agravo regimental não provido."
+(AgRg no AgRg no HC n. 890.403/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS E DA PRISÃO EM FLAGRANTE POR SUPOSTA INVASÃO DE DOMICÍLIO. PESQUISA NO SITE DA CORTE DE ORIGEM. SUPERVINIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PREJUDICIALIDADE. APELAÇÃO PENDENTE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+No caso, em consulta à página eletrônica do Tribunal de Justiça do Estado do Mato Grosso do Sul, verificou-se que já foi proferida sentença condenatória na presente ação penal, circunstância que revela a perda do objeto do mandamus em apreço. Precedentes.
+Agravo regimental não conhecido."
+(AgRg no HC n. 798.863/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS JULGADO PREJUDICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPERVENIENTE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PRECEDENTES.
+1. Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, vedada a supressão de instância.
+2. Agravo regimental improvido."
+(AgRg no RHC n. 158.359/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+Ante o exposto, com fundamento art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
