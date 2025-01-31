@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MICHAEL ALEXANDER CAMARGO LTDA. contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná em agravo de instrumento nos autos de embargos à execução.
+O julgado foi assim ementado (fl. 390):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. INDEFERIMENTO DO PEDIDO DE CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO DE QUE NÃO POSSUI CONDIÇÕES DE ARCAR COM AS CUSTAS E DESPESAS PROCESSUAIS. CIRCUNSTÂNCIAS NÃO DEMONSTRADAS NOS AUTOS. MANUTENÇÃO DA DECISÃO AGRAVADA.
+- Para a concessão do benefício da justiça gratuita à pessoa jurídica, há necessidade de comprovação da difícil situação econômica, nos termos da Súmula 481 do STJ, o que não foi atendido nos autos. Agravo de Instrumento desprovido.
+Nas razões do recurso especial, o ora agravante, além de dissídio jurisprudencial, aponta violação do art. 98 do CPC, ante o indeferimento, pelo magistrado a quo, da assistência judiciária gratuita.
+Requer o provimento do recurso.
+É o relatório. Decido.
+O recurso não merece prosperar.
+É certo que a concessão do benefício da justiça gratuita a pessoa jurídica não dispensa a prévia comprovação de hipossuficiência, nos termos da orientação do STJ consolidada com a edição da Súmula n. 481, que assim dispõe:
+Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais.
+No presente caso, com amparo na análise dos documentos apresentados pelo recorrente, o Tribunal a quo, instância soberana na análise das provas, concluiu pelo indeferimento do benefício da gratuidade de justiça, em face da inexistência de elementos capazes de atestar a hipossuficiência financeira alegada.
+Observe-se (fl. 392):
+Assim sendo, cumpre ao juiz avaliar a pertinência das alegações da parte e a documentação acostada, podendo indeferir o pedido de isenção se constatar elementos de prova em contrário.
+No presente caso, se observa que os agravantes acostaram ao mov. 1.10, 14.2/14.5, as declarações do simples nacional e IRPF, em que pese os registros demonstrem situação modesta, consta dos documentos juntados aos presentes autos que as despesas mensais são de uma empresa de porte médio para a atividade. Além de ter havido expressa determinação para que fossem trazidos os extratos bancários das contas em que movimenta as finanças da atividade empresarial desempenhada, contudo, observa-se que trouxe apenas extrato junto ao banco exequente, sem mencionar as contas junto ao Banco Siccob e Mercado pago, conforme consta dos pagamentos dos boletos apresentados pelo recorrente.
+Vale ressaltar que os requisitos para a concessão do benefício da gratuidade judiciária se prendem à demonstração da dificuldade financeira, consubstanciada na impossibilidade de arcar com as despesas do processo sem prejuízo da manutenção da atividade empresarial, o que não foi possível verificar na hipótese em comento.
+Nesse contexto, para concluir de forma contrária ao decidido na instância de origem e aferir se o ora agravante não possui condições de arcar com as custas processuais, conforme alega no recurso especial, implicaria o reexame de elementos fático-probatórios dos autos, o que esbarra no óbice da Súmula n. 7 do STJ.
+A propósito, os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUSTIÇA GRATUITA. INDEFERIMENTO. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. HONORÁRIOS RECURSAIS. ARTIGO 85, § 11, DO CPC/2015. OBSERVÂNCIA DOS LIMITES LEGAIS. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência de provas que demonstrem a incapacidade financeira de custear despesas processuais. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a. decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b. recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c. condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso.
+4. O entendimento firmado pela Corte Especial deste Tribunal Superior é de que a fixação equitativa de honorários recursais observará o disposto no art. 85, §§ 2º e 3º, do CPC/2015.
+5. Decisão monocrática que observa os parâmetros legais e jurisprudenciais. Incidência da Súmula n. 83 do STJ.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.974.574/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022, destaquei.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. NECESSIDADE DE DEMONSTRAÇÃO DA IMPOSSIBILIDADE DE ARCAR COM OS CUSTOS PROCESSUAIS. SÚMULA 481/STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+1. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+3. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, rejeitou o pedido, apresentado na Apelação, de concessão do benefício da gratuidade de justiça. Tal entendimento, firmado pelo Tribunal a quo, no sentido de que a parte recorrente não se caracterizaria como juridicamente pobre, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir, no caso, o reexame da matéria fático-probatória dos autos. Nesse sentido: AgInt no REsp 1.858.814/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/09/2020; AgInt no REsp 1.880.769/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/12/2020; AgInt nos EDcl no AREsp 1.649.945/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/12/2020.
+4. Agravo interno improvido. (AgInt no REsp n. 1.349.031/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022.)
+No que se refere à alínea c, a incidência do óbice sumular quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.675.745/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023; AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; e AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
