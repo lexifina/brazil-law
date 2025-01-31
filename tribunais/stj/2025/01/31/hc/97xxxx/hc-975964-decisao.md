@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de FELIPE DO NASCIMENTO FERREIRA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1502561-37.2018.8.26.0536).
+Consta dos autos a desclassificação pelo Conselho de Sentença dos crimes previstos no art. 121, § 2º, inciso III, por duas vezes, na forma do art. 70, ambos do Código Penal, substituída pela incursão da infração disposta no art. 302, § 3º, do CTB, por duas vezes, na forma do art. 70 do Código Penal, o que levou à condenação do paciente a 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado.
+O acórdão de fls. 17-23 deu provimento ao recurso ministerial para anular o julgamento do Tribunal do Júri, a fim de submeter o paciente a novo julgamento. Em consulta ao Tribunal de Justiça do Estado de São Paulo, consta, em 22/8/2024, o trânsito em julgado ao réu e a devolução dos autos à Vara de origem. Veja-se:
+17/10/2024 Pedido de Inclusão em Pauta
+Vistos. Depreende-se dos autos que o E. Tribunal do Júri desclassificou a conduta do réu, consoante sentença de fls. 772/780. As partes recorreram. O E. TJSP negou provimento ao recurso defensivo, mas deu provimento ao recurso ministerial para ANULAR o julgamento do Tribunal do Júri de FELIPE DO NASCIMENTO FERREIRA, a fim de submetê-lo a novo julgamento, consoante v. Acórdão de fls. 865/871. Trânsito em julgado à fl. 877 e 884. Cumpra-se o v. Acórdão. O réu deverá ser submetido a novo julgamento perante o E. Tribunal do Júri. Assim, designo o dia 18 de fevereiro de 2025, às 10:00 horas. Intimem-se e/ou requisitem-se as testemunhas comuns, de acusação e de defesa arroladas para o plenário (fls. 336 e 386). Intime-se e/ou requisite-se o réu. Junte-se a F.A. atualizada em nome do réu. Providencie-se cópias das peças principais para os jurados. Int. Ciência às partes. São Vicente, 16 de outubro de 2024.
+Não constam impugnações a essa última decisão.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, tendo em vista a soberania dos vereditos naquilo em que, pautando-se pela discussão técnica entre o dolo eventual e a culpa consciente, optou-se pela desclassificação para crime culposo.
+Requer a concessão do writ "para suspender em sede de liminar o julgamento designado para o dia 18 de fevereiro de 2025, às 10:00 horas, e no mérito que seja restabelecida a decisão dos jurados respeitando-se a soberania dos veredictos - desclassificando o dolo eventual para culposo, determinando as comunicações necessárias, tendo-se em mente que semelhante medida reflete a aplicação do Direito, bem como a distribuição das almejadas equidade e justiça".
+É o relatório.
+Decido.
+Indica-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo; porém, o impetrante demonstra sua inconformidade com o ato do Juízo de primeiro grau. Não há, ademais, notícia de que o Tribunal de origem tenha apreciado o pedido objeto deste mandamus, razão pela qual fica inviável a sua análise diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+Com efeito, nos termos do art. 105, I, c, da Constituição Federal, compete ao Superior Tribunal de Justiça proces sar e julgar Habeas Corpus somente quando o coator for Tribunal sujeito à sua jurisdição, o que não se verifica no caso em apreço. O pedido também não encontra arrimo em nenhuma das hipóteses de competência originária desta Corte.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210, ambos do RISTJ, indefiro liminarmente este Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+EMENTA
