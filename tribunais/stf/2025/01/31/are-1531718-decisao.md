@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Schlumberger Serviços de Petróleo Ltda e Outro(a/s), em face do acórdão do Tribunal Regional da 2ª Região assim ementado:
+
+    “AGRAVO INTERNO. MADADO DE SEGURANÇA IRPJ E CSLL INCIDENTES SOBRE A TAXA SELIC NAS REPETIÇÕES DE INDÉBITO E DEPÓSITOS JUDICIAIS. TEMAS 962 DO STF E 504 DO STJ. EXTENSÃO AOS ÍNDICES ADOTADOS PELOS ESTADOS E MUNICÍPIOS. 1 – Trata-se de agravo interno interposto por SCHLUMBERGER SERVIÇOS DE PETRÓLEO LTDA e OUTROS e pela União, visando à reforma da decisão monocrática proferida por esta relatoria (evento 22), que negou provimento ao apelo fazendário, dando parcial provimento à apelação dos impetrantes, para estender a aplicação do Tema nº 962 do STF (reconhecendo a não incidência do IRPJ e da CSLL sobre a taxa Selic paga nas repetições de indébito), aos demais índices de atualização adotados por Estados e Municípios, sem, contudo, estendê-la aos depósitos judiciais. 2 – Na decisão agravada, destacou-se que a controvérsia principal encontrava-se pacificada através do julgamento do RE nº 1.063.187/SC, submetido à sistemática da repercussão geral, onde foi fixada tese no sentido de que "é inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário" (Tema nº 962 do STF), precedente vinculante que transitou em julgado em 10/06/2022. 3 – No que se refere à aplicação da tese aos levantamentos de depósitos, restou consignado haver entendimento vinculante do STJ, no julgamento do Tema Repetitivo nº 504 (RESP nº 1.138.695-SC), reconhecendo devida a incidência do IRPJ e a CSLL sobre a SELIC paga no levantamento do depósito judicial, por possuir natureza remuneratória (lucro cessante). Esse entendimento foi recentemente reiterado no julgamento do RESP nº 1.138.695/SC, julgado em 08/05/2023. 4 – O único ponto acolhido pela decisão agravada, que não fora objeto de exame por quaisquer dos precedentes vinculantes citados, foi a questão relativa à extensão da tese firmada no Tema nº 962 do STF aos demais índices de atualizações adotados pelos Estados e Municípios. 5 – Com efeito, com relação à pretensão recursal dos impetrantes, tratando-se de matéria pacificada no STJ (Tema nº 504), sequer é cabível a arguição de inconstitucionalidade da norma de imposição tributária ao Plenário desta Corte, que não deteria competência para deixar de aplicar o precedente vinculante firmado em Tribunal Superior, por força do que dispõem os arts. 927, III e 1.039, ambos do CPC. 6 – No entanto, assiste razão à União quando afirma que o mandado de segurança não pode ser usado como um “cheque em branco”, reconhecendo-se de forma genérica e abstrata a ilegalidade/inconstitucionalidade da incidência tributária sobre índice que sequer foi indicado na ação, devendo o feito ser extinto, sem resolução de mérito, quanto ao ponto, por impossibilidade de constatação da abusividade ou ilegalidade do ato atacado na hipótese. 7 – Agravo interno dos impetrantes a que se nega provimento. Agravo interno da União provido.”
+
+    Na minuta, sustenta-se violação dos arts. 145, §1º, 149, 150, II, 153, III e 195, I, "b" e "c" da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta seguimento.
+
+    Da análise dos autos, verifica-se que o Tribunal de origem extinguiu o feito com relação à pretensão da extensão da tese firmada no Tema nº 962 do STF aos demais índices de atualizações adotados pelos Estados e Municípios pelos seguintes fundamentos: “No entanto, assiste razão à União quando afirma que o mandado de segurança não pode ser usado como um “cheque em branco”, reconhecendo-se de forma genérica e abstrata a ilegalidade/inconstitucionalidade da incidência tributária sobre índice que sequer foi indicado na ação, devendo o feito ser extinto, sem resolução de mérito, quanto ao ponto, por impossibilidade de constatação da abusividade ou ilegalidade do ato atacado na hipótese.”
+
+    Contudo, a parte recorrente não impugnou, nas razões do apelo extremo, o fundamento, supracitado, limitando-se a reiterar as razões de mérito apresentadas, requerendo “[...] aplicação da tese fixada no Tema 962 desse e. STF aos demais índices de atualização adotados pelos Estados e Municípios nas restituições de indébito, dada a natureza de dano emergente, os quais, assim como a SELIC, também não devem integrar a base de incidência do IRPJ e da CSLL“. Aplicável, na hipótese, os entendimentos jurisprudenciais vertidos nas Súmulas nº 283 e nº 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.” e “é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. Nesse sentido:
+
+    “Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Ação rescisória. Ausência das hipóteses previstas no art. 966 do CPC. Ausência de impugnação específica no recurso extraordinário. Incidência da Súmula nº 284/STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo. 2. A parte recorrente, em seu recurso extraordinário, não se desincumbiu do ônus da impugnação específica, limitando-se a afirmar, genericamente, que houve ofensa a dispositivo constitucional. Incidência da Súmula nº 284/STF. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento.” (ARE 1440752 AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe-s/n 19-12-2023)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO: SÚMULAS NS. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 1358410 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe-067 05-04-2022)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. JUROS MORATÓRIOS EM PRECATÓRIO COMPLEMENTAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (RE 601550 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe-104 17-05-2019)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 31 de janeiro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
