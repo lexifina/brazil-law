@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SÃO LUCAS SAÚDE S.A. contra decisão que inadmitiu recurso especial por não ter sido demonstrada a alegada violação dos arts. 525, § 6º, 805 e 854, 3º, II, do CPC e também pela incidência da Súmula n. 7 do STJ e, quanto ao dissídio jurisprudencial, inadmitiu por ausência de cotejo analítico.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em agravo de instrumento na ação de obrigação de fazer em fase de cumprimento provisório de decisão.
+O julgado f oi assim ementado (fl. 51):
+Agravo de instrumento. Obrigação de fazer. Fornecimento do medicamento Stivarga (Regorafenibe) 40 MG. Autor portador de "Adenocarcinoma de cólon". Descumprimento da tutela concedida. Determinada a constrição de ativos financeiros a fim de assegurar o cumprimento da tutela de urgência deferida nos autos principais. Decisão que rejeitou a impugnação apresentada. Inconformismo da executada. Não acolhimento. Medida que visa dar efetividade à tutela, visando resguardar a vida do ora agravado, e que foi aplicada com base no poder geral de cautela do juiz (art. 139, IV do CPC). Reversibilidade da medida. Periculum in mora inverso. Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial, a parte ora agravante, além de dissídio jurisprudencial, aponta violação dos seguintes artigos:
+a) 854, § 3º, II, do Código de Processo Civil, porquanto o bloqueio não deve extrapolar o que se considera razoável e que o acórdão recorrido não garantiu a aplicação do dispositivo legal que garante aos executados a comprovação de que a indisponibilidade de ativos é excessiva.
+Afirma ter cumprido a determinação imposta na decisão liminar de maneira tempestiva e inequívoca e que caberia a parte autora ter comprovado o termo inicial de descumprimento da obrigação.
+Aduz que atuou de acordo com a literatura médica aplicável ao caso do paciente e que é exacerbado e indevido o boqueio judicial;
+b) Arts. 525, § 6º, do CPC, pois o bloqueio de ativos desconsidera o risco de dano à operadora do plano, que não poderá ser reparada pela autora;
+c) Arts. 884 e 886 do CC, visto que a manutenção do bloqueio ocasionará o enriquecimento sem causa da parte adversa e que em momento algum descumpriu a liminar;
+d) Art. 805 do CPC, pois, caso não seja reconhecida a inaplicabilidade do bloqueio, em atenção aos princípios da razoabilidade e proporcionalidade, deverá ser promovida a execução pelo meio menos gravoso para o executado, tal como a viabilização de caução idônea e suficiente da importância econômica do tratamento.
+Requer o provimento do recurso para que seja reconhecida a violação dos artigos citados.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que em cumprimento provisório de decisão rejeitou a impugnação imposta indeferindo o pedido de desbloqueio de valores em razão do descumprimento da obrigação imposta - fornecimento do medicamento Stivarga (Regorafenibe) prescrito ao autor portador de adenocarcinoma de cólon.
+De início, foi afastada pela decisão (fls. 43-45) a atribuição de efeito suspensivo à impugnação por não estar o juízo garantido por penhora, caução ou depósito, nos termos do art. 525, § 6º, do CPC.
+Consta também da decisão que o bloqueio em questão não se trata de execução de astreintes, mas de medida para assegurar o cumprimento da tutela de urgência concedida após várias oportunidades de cumprimento espontâneo concedidas ao plano de saúde.
+Foi afastada a alegação de ocorrência de dano material de difícil reparação pelo autor por não se sobrepor ao dano irreparável da morte em razão do não fornecimento da medicação prescrita. Foi destacado inclusive que o bloqueio não afetaria a continuidade das atividades do plano, pois recaiu em conta de banco de investimento. Por fim, o bloqueio foi convertido em penhora e determinada a transferência dos valores para a conta judicial vinculada aos autos.
+A Corte estadual (fls. 50-56) manteve a decisão por ter sido demonstrado o reiterado descumprimento das ordens judiciais e a inércia do plano de saúde. Destacou que a constrição de ativos financeiros foi necessária para viabilizar a efetividade da tutela e resguardar a vida do autor, sendo aplicada com base no poder geral de cautela do Juiz previsto no art. 139 do CPC.
+Destacou também que, ao contrário do alegado pelo plano, a decisão poderia sim ser revertida no futuro em relação a questão patrimonial. E que, no caso, o periculum in mora seria inverso por prevalecer o direito à vida do autor em detrimento a falta de cobertura contratual. Confira-se trecho do acórdão (fls. 52-53):
+No caso, restou demonstrado o reiterado descumprimento das ordens judiciais, e, por conseguinte a inércia da ré, ora recorrente. A medida objurgada visa dar efetividade à tutela, visando resguardar a vida do ora agravado e foi aplicada com base no poder geral de cautela do juiz.
+Prevê o art. 139 do Código de Processo Civil:
+ ..
+Ademais, ao contrário do alegado, há possibilidade de reversão da decisão no futuro, na vertente patrimonial.
+ ..
+O periculum in mora é inverso, devendo-se conferir prevalência ao direito à vida do autor, em detrimento de alegada falta de cobertura contratual.
+De início, verifica-se que as alegadas violações aos arts. 805 e 854, § 3º, II, do CPC e 884 e 886 do CC, não foram objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+A propósito: AgInt nos EDcl no AREsp n. 2.256.940/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/12/2024, DJe de 9/12/2024.
+Ademais, rever a conclusão da Corte estadual quanto à constrição de ativos financeiros por ter ocorrido reiterado descumprimento da obrigação imposta, por inércia da operadora do plano, como forma de efetividade da tutela e aplicada com base no poder de cautela do juiz é incabível em recurso especial, tendo em vista a necessidade de incursão no acervo fático-probatório, o que atrai a aplicação da Súmula n. 7 do STJ.
+A propósito: AgInt no AREsp n. 2.446.830/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.
+E também a tese apresentada pela recorrente referente a ser ônus do autor a comprovação do termo inicial de descumprimento da obrigação não encontra suporte no dispositivo legal indicado como supostamente violado pelo acórdão impugnado, o que caracteriza deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF, deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido: AgInt no AREsp n. 2.345.570/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/11/2024, DJe de 11/11/2024 e REsp n. 2.017.194/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/10/2022, DJe de 27/10/2022.
+Quanto à alegação de dano à operadora do plano, que não poderá ser reparado pela autora, verifica-se que o Tribunal de origem, analisando as circunstâncias peculiares dos autos, concluiu que se tratou de medida assecuratória ao cumprimento da tutela concedida, após diversas oportunidades, além de identificar que o periculum in mora seria inverso, prevalecendo o direito à vida do autor.
+Assim, para rever o entendimento adotado, seria necessário o revolvimento fático-probatório dos autos, o que não é possível na via eleita ante o óbice da Súmula n. 7 do STJ.
+Sobre isso: AgInt no AREsp n. 1.781.110/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2021, DJe de 5/5/2021.
+Por fim , no tocante ao apontado dissídio, ressalte-se que a incidência dos óbices sumulares processuais quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+A esse respeito : AgInt no REsp n. 1.900.682/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/3/2021, DJe de 6/4/2021; AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; e AgInt no REsp n. 1.647.724/RN, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 7/6/2018, DJe de 15/6/2018.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
