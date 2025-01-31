@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. contra decisão que inadmitiu recurso especial em razão de ser descabida a interpretação de preceitos e dispositivos constitucionais e da incidência da Súmula n. 284 do STF.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Rondônia (Apelação n. 0250569-20.2009.8.22.0001) nos autos do cumprimento provisório de sentença referente a honorários advocatícios fixados em ação civil pública sobre expurgos inflacionários, assim ementado (fl. 1.642):
+Consumidor, Civil e Processo. Expurgos Inflacionários. Decisão homologatória do STF. Efeitos erga omnes e cogência imediata. Resolução da questão.
+Os acordos entabulados pela FEBRABAN e por Entidades Representativas do Consumidor, homologados pela Suprema Corte  nos autos da ADPF 165, do RE 591797 e do RE 626307 - possuem eficácia erga omnes e cogência imediata nas ações coletivas e individuais que versem sobre os planos econômicos do Governo da década de 80  expurgos inflacionários  pondo resolução ao mérito da matéria e consequentemente extinguindo as ações, não mais comportando qualquer debate sobre o direito decidido pelo STF, inclusive a verba honorária advocatícia.
+Os embargos de declaração da parte ora agravada foram rejeitados e os aclaratórios da parte ora agravante foram acolhidos para sanar a omissão apontada, sem alteração no resultado do julgamento (fls. 1.716-1.811).
+Nas razões do recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 1022, II, do CPC, em razão de o acórdão recorrido ter sido omisso sobre questões relevantes levantadas nos embargos de declaração, como a suspensão proferida nos autos do RE n. 632.212/SP, a questão da caução, a limitação da sentença coletiva aos associados do IBDCI, e o excesso de execução levantado pelo agravado;
+b) 82, IV, do CDC, uma vez que a sentença coletiva deveria se limitar aos associados do Instituto Brasileiro de Defesa do Cidadão (IBDCI), conforme entendimento do STF no RE n. 573.232/SC.
+Sustenta que, para o ajuizamento de ações civis públicas por associação em benefício de seus associados, é indispensável autorização específica destes, conferida individualmente ou em assembleia específica para esse fim, não bastando a permissão estatutária genérica.
+Defende que, como não houve a juntada do rol dos associados do IBDCI, poderia se concluir que os exequentes, clientes do banco, não seriam beneficiários da ação civil pública e, por consequência, a parte ora recorrida não faria jus aos "honorários advocatícios exigidos ante a falta de comprovação de filiação ao IBDCI" (fl. 1.739).
+Requer seja determinado o retorno dos autos para novo julgamento dos embargos de declaração ou seja reconhecida a ofensa ao art. 82, IV, do CDC.
+As contrarrazões foram apresentadas às fls. 1.798-1.811.
+É o relatório. Decido.
+I - Contextualização
+Na origem, a ação civil pública n. 0178109-45.2003.8.22.0001 foi proposta pelo Instituto Brasileiro de Defesa do Cidadão (IBDCI) contra o Banco Bradesco S.A., visando a condenação do banco ao pagamento de diferenças de expurgos inflacionários. A sentença condenou o banco ao pagamento de honorários advocatícios de 20% sobre o valor da causa.
+Os poupadores propuseram os cumprimentos de sentença de seus créditos, decorrentes dos expurgos inflacionários, contra o Banco Bradesco, aos quais houve o devido pagamento de valores, sendo prolatada sentença de extinção do feito com trânsito em julgado.
+Após, os patronos do IBDCI iniciaram o cumprimento de sentença, objetivando o recebimento dos honorários de advogados referente a execuções individuais fixados em sede da ação civil pública.
+O Juízo de primeiro grau julgou extinta a execução, pela satisfação da obrigação, mantendo o direito dos patronos aos honorários advocatícios no percentual de 20% sobre o valor da condenação.
+O Banco Bradesco interpôs recurso de apelação, que foi parcialmente provido para reduzir os honorários advocatícios a 10%, nos termos do acordo homologado pelo STF nos autos da ADPF n. 165, RE n. 591.797/SP e RE n. 626.307/SP.
+Sobreveio recurso especial, em que os recorrentes defendem a limitação da sentença coletiva aos associados do IBDCI e a nulidade do acórdão dos embargos de declaração.
+Anote-se que, o recurso especial da parte ora agravada foi inadmitido na origem e não houve interposição de agravo em recurso especial.
+Passo, pois, à análise das proposições deduzidas.
+II - Da violação do art. 1022, II, do CPC
+Afasta-se a alegada negativa de prestação jurisdicional, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+As questões relacionadas à suspensão proferida nos autos do RE n. 632.212/SP, à questão da caução, à limitação da sentença coletiva aos associados do IBDCI e ao excesso de execução levantado pelo agravado, foram suficientemente analisadas, além de terem sido rejeitadas as teses fundamentadamente (fls. 1.721-1.722).
+Anote-se que o Tribunal de origem afirmou, de forma expressa, que a suspensão foi revogada pelo STF e não mais subsistiria; as matérias relacionadas ao levantamento de valores e à caução estavam preclusas; e, em relação à limitação da sentença coletiva, a sentença genérica proferida em ação civil pública teria eficácia erga omnes, não havendo limitação territorial ou aos associados das entidades de classe.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+III - Da violação do art. 82, IV, do CDC
+A Segunda Seção do STJ, ao apreciar o Tema Repetitivo n. 948, firmou entendimento de que, "Em Ação Civil Pública proposta por associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à associação promovente" (REsp n. 1.362.022/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 28/4/2021, DJe de 24/5/2021).
+No caso, em relação aos limites subjetivos da sentença coletiva, a Corte a quo entendeu que a sentença genérica proferida em ação civil pública teria eficácia erga omnes e, portanto, não se restringiria aos associados do IBDCI, nos seguintes termos (fl. 1.722):
+Com relação à limitação da sentença coletiva aos associados do IBDCI, consigno que o STJ firmou, em sede de recursos repetitivos, que a sentença genérica proferida em ação civil pública tem eficácia erga omnes, não havendo limitação territorial ou aos associados das entidades de classe (RECURSO ESPECIAL Nº 1.391.198/RS; REsp 1243887/PR; REsp 1247150/PR; AgInt no REsp 1698833/PR), omissão que dou por sanada.
+Como visto acima, o entendimento do Tribunal de origem - ao dar interpretação ao título exequendo, no sentido de dispensar o IBDCI de comprovar que os poupadores atingidos pelos efeitos da sentença civil eram seus associados - está de acordo com a jurisprudência do STJ, atraindo a aplicação da Súmula n. 83 do STJ.
+A propósito: AgInt no REsp n. 2.010.976/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; e AgInt no REsp n. 1.992.370/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
