@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WILLIAM DA SILVA PEREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ES TADO DE MATO GROSSO DO SUL no julgamento da Apelação Criminal n. 0006406-32.2021.8.12.0021.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 ano e 3 meses de reclusão, no regime inicial fechado, além do pagamento de 10 dias-multa, pela prática do crime de estelionato contra idoso.
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, nos termos do acórdão que restou assim ementado (fl. 46):
+"APELAÇÃO CRIMINAL - ESTELIONATO CONTRA IDOSO (ART. 171, CAPUT E §4º, DO CP) - MATERIALIDADE E AUTORIA COMPROVADAS - DOLO EVIDENCIADO - REGIME FECHADO MANTIDO - CONVERSÃO DA PENA - INCABÍVEL - RECURSO DESPROVIDO. I - Não há falar em extinção da punibilidade, se não transcorrido lapso temporal suficiente para o reconhecimento da prescrição entre o recebimento da denúncia e a data da sentença condenatória. II - Mantém-se a condenação pelo crime de estelionato quando o conjunto probatório é firme no sentido de que o apelante obteve para si vantagem ilícita, em prejuízo da vítima, ardilosamente induzindo-a e mantendo- a em erro, mediante condutas sagazes e aproveitando-se da sua pouca instrução e idade avançada. III - Quanto ao regime inicial, a circunstância judicial desfavorável e a reincidência são suficientes para, apesar da pena total ser inferior a 4 anos de reclusão, fixar-se o regime inicial fechado, nos termos do art. 33, § 3º, do CP, não sendo aplicável a Súmula 269 do STJ. IV - É incabível a substituição da pena por restritiva de direitos por haver reincidência e circunstâncias judiciais negativadas, consoante previsto nos incisos II e III, do art. 44, do Código Penal. V - Recurso desprovido, com o parecer."
+No presente writ, a defesa sustenta ilegalidade na valoração negativa dos maus antecedentes, bem como na fixação de regime mais gravoso, com fundamento em condenações cuja extinção da punibilidade ocorreu há mais de 5 anos da prática do novo fato. Aduz a ocorrência de bis in idem pela utilização da mesma condenação para o reconhecimento dos maus antecedentes e da reincidência, violando a Súmula n. 241 do STJ.
+Requer, em liminar e no mérito, a concessão da ordem para que seja redimensionada a pena e fixado regime menos gravoso.
+Por meio da manifestação de fls. 117/119, o Ministério Público ofereceu parecer pela denegação da ordem de habeas corpus.
+É o relatório.
+Voto.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração nem sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ, assim como destacado na decisão que indeferiu a liminar.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada ao presente caso.
+A irresignação não merece prosperar.
+Da atenta leitura do acórdão impugnado verifica-se que o Tribunal de origem não se manifestou expressamente sobre a alegada ilegalidade na valoração negativa dos maus antecedentes, bem como na fixação de regime mais gravoso, com fundamento em condenações cuja extinção da punibilidade ocorreu há mais de 5 anos da prática do novo fato ou ainda sobre a ocorrência de bis in idem pela utilização da mesma condenação para o reconhecimento dos maus antecedentes e da reincidência.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido (grifos nossos):
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. MANDAMUS ORIGINÁRIO CONHECIDO PELO TRIBUNAL DE ORIGEM, COM DENEGAÇÃO DA ORDEM. COMPARTILHAMENTO ILEGAL DE PROVAS. MÉRITO DA TESE NÃO ANALISADO PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. NULIDADE. PRECLUSÃO. ABUSO DE DIREITO E BOA-FÉ OBJETIVA. RECURSO DESPROVIDO.
+1. A tese indicada pela defesa, relativa à pretensa nulidade processual decorrente de suposta ilegalidade no compartilhamento de provas que lastrearam a condenação dos ora agravantes não foi analisada pelo Tribunal de origem, o que inviabiliza o pronunciamento desta Corte Superior acerca do tema, sob pena de incorrer em indevida supressão de instância.
+2. O fato de o Tribunal de origem ter enunciado, no dispositivo do acórdão, o conhecimento do habeas corpus originário com denegação da ordem, por si só, não conduz à conclusão automática de que o mérito da tese aventada no presente recurso fora enfrentado no acórdão impugnado.
+3. A necessidade de prévia análise das matérias invocadas perante esta Corte Superior, como pressuposto lógico-jurídico de admissibilidade recursal ou de conhecimento da própria ação mandamental, ao revés de formalismo exacerbado, consiste em mecanismo processual de tutela de garantias constitucionais inerentes ao juiz natural, ao devido processo legal e à própria segurança jurídica.
+4. À luz do princípio da boa-fé objetiva, revela-se inadequada a arguição de nulidade em momento processual posterior ao conhecimento do suposto ato irregular, pois não deve o processo ser utilizado como verdadeiro instrumento difusor de estratégias, seja em prol da defesa ou da acusação. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 189.552/SP, de minha relatoria, julgado em 13/5/2024, DJe de 15/5/2024.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. TEMAS NÃO EXAMINADOS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. ADEMAIS, INEXISTÊNCIA DE DELIBERAÇÃO COLEGIADA DA CORTE A QUO. AUSÊNCIA DE PRÉVIO EXAURIMENTO DA JURISDIÇÃO DE SEGUNDO GRAU. RECURSO DESPROVIDO.
+1. Constatado que as teses não foram enfrentadas pelo Tribunal de origem, o Superior Tribunal de Justiça está impedido de analisar os temas, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+2. Ademais, a defesa se insurge contra decisão monocrática proferida pelo Desembargador relator na origem contra a qual não foi interposto agravo regimental, circunstância essa que inviabiliza o processamento do recurso em habeas corpus, já que não se está diante de decisão colegiada.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 194.675/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do STJ, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
