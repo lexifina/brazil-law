@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão de minha relatoria na qual não conheci do habeas corpus substitutivo (e-STJ fls. 39-42).
+Segundo o embargante, a decisão padeceria de omissão, tendo em vista que não teria analisado , adequadamente, a matéria referente ao crime continuado.
+O Ministério Público apresentou contrarrazões manifestando-se pela rejeição dos embargos (e-STJ fls. 56-59).
+É o relatório.
+Decido.
+Os Embargos de Declaração são tempestivos.
+No entanto, não ficou demonstrado nenhum vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões para não conhecer do habeas corpus (e-STJ fls. 40-42):
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal. Veja-se:
+O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, D Je de 8/4/2024).
+De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, D Je de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o " habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux).
+(..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, D Je de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Ressalte-se que em crimes com violência ou grave ameaça, a figura do crime continuado, disposta no art. 71 do CP, é aplicada somente em situações excepcionais, conforme se extrai do parágrafo único do mencionado dispositivo, que diz: "Nos crimes dolosos, contra vítimas diferentes, cometidos com violência ou grave ameaça à pessoa, poderá o juiz, considerando a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias, aumentar a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, até o triplo".
+No caso, não é possível aplicar a figura do crime continuado por duas razões:
+Em primeiro lugar, o parágrafo único impõe aumento de pena diverso do aumento do caput do art. 71, afirmando que a pena mais alta deve ser aumentada até o triplo, seguindo a regra da quantidade de crimes praticados, desde que esse aumento não seja maior do que o da somatória das penas.
+No caso, considerando que foram 5 crimes de homicídio (um consumado e quatro tentados), se aplicaria o aumento máximo do triplo da maior pena.
+Como a maior pena foi de 6 anos, o triplo seria de 18 anos, ou seja, pena maior do que a obtida pelo concurso material, o que não é permitido pelo próprio parágrafo único do art. 71.
+Em segundo lugar, ainda que se aplicasse aumento inferior ao triplo, as circunstâncias do caso não permitiriam a aplicação da figura do crime continuado, enquanto uma figura que abranda a pena, pois se tratou de fato extremamente grave, no qual o paciente, em uma briga de bar, já munido previamente de uma faca, desferiu diversas facadas indistintamente em várias pessoas do local.
+Importante ressaltar que não cabe aqui tratar se o paciente atuou com designíos autônomos ou não, pois esse critério é utilizado para, em situações nas quais há uma só ação e dois ou mais resultados, se afastar o concurso formal (art. 70 do CP).
+No caso, é evidente que existiram duas ou mais ações que geraram dois ou mais resultado, de modo que os designíos autônomos do paciente são, na realidade, óbvios e nada interferem na aplicação da figura do crime continuado, como argumentou a defesa.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade."
+Os presentes embargos, portanto, refletem mera irresignação da parte com o resultado do julgamento, o que revela o seu descabimento.
+Nesse sentido, importa destacar que "a pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração" (EDcl no AgRg no AREsp n. 2.389.199/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
