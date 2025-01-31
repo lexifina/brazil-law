@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANEAMENTO DE GOIÁS S/A contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+A questão debatida nos autos, qual seja, "definir se os limites percentuais previstos no art. 27, § 1º, do DL 3.365/41 devem ser observados no arbitramento de honorários sucumbenciais em caso de desistência de ação de desapropriação por utilidade pública ou de constituição de servidão administrativa", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.298), dos Recursos Especiais 2.129.162/MG e 2.131.059/MG, de minha relatoria.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim d e que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
