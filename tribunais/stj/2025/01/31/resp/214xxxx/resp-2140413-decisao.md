@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por Rogerio Gomes Ferreira, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento do Agravo de Execução Penal n. 0022015-07.2023.8.26.0050, assim ementado (fl. 155):
+AGRAVO EM EXECUÇÃO PENAL. Indeferimento de pedido de extinção da punibilidade, independentemente do pagamento de multa. Inconformismo defensivo. Não comprovada a impossibilidade do pagamento Tema 931 atualizado. Bloqueio de valores em conta bancária do sentenciado que deve ser mantido até a satisfação do crédito, nos termos dos artigos 164, 168 e 170 da Lei de Execução Penal. Não cabimento do artigo 833, do CPC, na hipótese. Precedentes. Decisão mantida. Recurso não provido.
+Nas razões, o recorrente aponta violação do art. 927, III, do Código de Processo Civil, aduzindo, em suma, que a Corte de origem decidiu em descompasso com a tese fixada no julgamento do Tema n. 931/STJ.
+Assevera que o tema 931 tem o seguinte conteúdo: "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade". Portanto, diante da posição pacificada pelo STJ, e do que determina o artigo 927, III, do CPC - "Os juízes e os tribunais observarão:  ..  III - os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos" - cabia ao TJSP reconhecer a extinção da punibilidade independentemente do pagamento da multa, o que não foi observado. Argumenta que a penhora determinada pelo artigo 164, da LEP, incidiu em bem impenhorável. Com isso, ela deve ser cancelada (fls. 177/180).
+Ao final da peça recursal, requer que o recurso seja conhecido e provido para julgar extinta a punibilidade do recorrente (fl. 183).
+Oferecidas contrarrazões (fls. 187/190), o recurso especial foi admitido na origem (fls. 193/194).
+O Ministério Público Federal opina pelo desprovimento da insurgência, em parecer assim ementado (fl. 203):
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE E MULTA. INADIMPLÊNCIA DA MULTA. EXTINÇÃO DA PUNIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PARECER PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+O rec orrente pretende seja declarada a extinção da sua punibilidade com base na tese fixada no julgamento do Tema n. 931/STJ.
+Sucede que a aplicação da referida tese depende do cumprimento integral da pena privativa de liberdade imposta ao apenado (grifo nosso):
+O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária.
+E, no caso, em consulta aos autos da Execução n. 0013142-16.2021.8.26.0041, obtive a informação de que o apenado ainda cumpre pena privativa de liberdade.
+Tal o contexto, ao menos por ora, o caso não comporta a aplicação do Tema n. 931/STJ, sendo adequado aguardar o término do cumprimento da pena privativa de liberdade, ocasião em que o Magistrado deverá avaliar a condição financeira do apenado e deliberar acerca da extinção da pena, mediante observância dos parâmetros fixados no tema em referência.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. MULTA. PLEITO DE EXTINÇÃO COM BASE NA HI POSSUFICIÊNCIA DO APENADO. TESE DE QUE O ACÓRDÃO ATACADO INOBSERVOU A TESE FIXADA NO TEMA N. 931/STJ. MANIFESTA IMPROCEDÊNCIA. APENADO QUE AINDA CUMPRE PENA PRIVATIVA DE LIBERDADE.
+Recurso especial improvido.
