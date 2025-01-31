@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUAN BARBOSA MACHADO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do Habeas Corpus Criminal n. 1.0000.24.386633-2/000.
+Extrai-se dos autos que o paciente foi preso preventivamente em 16/8/2024 pela suposta prática dos crimes tipificados nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 8):
+" ..  "HABEAS CORPUS" - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM - NEGATIVA DE AUTORIA E VIOLAÇÃO DE DOMICÍLIO - IMPROPRIEDADE DA VIA - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - FIXAÇÃO DE MEDIDAS CAUTELARES DIVERSAS - INADEQUAÇÃO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. - A análise das teses de negativa de autoria e de violação de domicílio confundem-se com o mérito da ação penal, pois sua aferição demanda exame aprofundado e valorativo de matéria fático-probatória, alheio à estreita via do "habeas corpus". - A manutenção da custódia cautelar do paciente é medida que se impõe, vez que presentes os pressupostos e requisitos da medida extrema, dispostos nos art. 312 e art. 313, ambos do Código de Processo Penal, e, além disso, a decisão que converteu a prisão temporária em preventiva encontra-se propriamente motivada pela autoridade apontada como coatora, nos termos do que prevê o art. 93, inciso IX, da Constituição da República de 1988 c/c art. 315 do CPP. - As condições pessoais favoráveis, isoladamente, não têm o condão de afastar a necessidade da prisão preventiva, sobretudo quando presentes outros elementos que demonstrem o eventual "periculum libertatis" do paciente, sobretudo por ser ele reincidente e já haver sido pronunciado pelo crime de homicídio qualificado. - A fixação de medidas cautelares diversas da prisão, insertas no art. 319 do CPP, é insuficiente para a efetiva garantia da ordem pública, diante da necessidade da constrição cautelar. "
+No presente writ, a defesa sustenta a ausência de provas quanto à autoria delitiva, destacando que as drogas teriam sido localizadas em residência que não seria de propriedade do acusado, tendo o morador daquele imóvel assumido a propriedade dos entorpecentes.
+Ressalta as condições pessoais favoráveis do acusado e a possibilidade de aplicação das medidas cautelares alternativas à hipótese dos autos.
+Defende que não foi apresentada fundamentação idônea para a manutenção da segregação cautelar do paciente, a qual estaria baseada na gravidade abstrata do delito, reputando ausentes os requisitos autorizadores da prisão preventiva, elencados no art. 312 do Código de Processo Penal - CPP.
+Argumenta, ainda, violação do princípio da homogeneidade, já que a prisão representa medida mais gravosa se comparada ao regime de cumprimento da pena em eventual condenação do paciente.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+O pedido liminar foi indeferido (fls. 34/36), as informações foram prestadas (fls. 42/987 e 900/1.007), e o Ministério Público Federal - MPF opinou pelo não conhecimento do writ (fls. 1.009/1.013).
+É o relatório.
+Decido.
+Em consulta à página eletrônica do Tribunal de origem, constata-se que, em 14/11/2024, nos autos da Ação Penal n. 0003001-45.2024.8.13.0153, foi proferida sentença absolvendo o paciente das imputações, com fulcro no art. 386, VII, do Código de Processo Penal - CPP.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intime-se.
+ EMENTA
