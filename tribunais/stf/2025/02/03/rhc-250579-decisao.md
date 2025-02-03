@@ -1,0 +1,107 @@
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIMES DE ORGANIZAÇÃO CRIMINOSA E DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGOS 2º DA LEI Nº 12.850/2013 E 33 DA LEI Nº 11.343/2006. PLEITO ABSOLUTÓRIO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. PLEITO DE DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA.  IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Decisão: Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do Superior Tribunal de Justiça nos autos do HC nº  892.787, in verbis:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E TRÁFICO DE DROGAS. TRÂNSITO EM JULGADO DA CONDENAÇÃO EM 2021. IMPETRAÇÃO SUBSTITUTIVA DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. ABSOLVIÇÃO. PROVA. PRISÃO DOMICILIAR. PROGRESSÃO DE REGIME. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO VIA HABEAS CORPUS DE OFÍCIO.
+
+    1. O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+
+    2. Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que "[n]ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+
+    3. No caso, verifico que o acórdão transitou em julgado em 2021 (e-STJ fl. 373), de forma que entendo que não se deve conhecer do writ que pretende sua desconstituição, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da controvérsia.
+
+    4. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, concluíram que a agravante praticou os delitos descritos nos arts. 2º, § 4º, I, da Lei n. 12.850/2013, e 33, caput, c/c o art. 40, VI e VII, da Lei n. 11.343/2006. Entenderam, ainda, não ser a hipótese de participação de menor importância, tendo em vista a nítida divisão de tarefas. Tinha ela papel ativo dentro da organização criminosa, recebendo funções delegadas, além de agir em variados ramos da sociedade com interferência nas esferas do serviço público, além do tráfico em si.
+
+    5. Entender de forma diversa para absolvê-la ou reconhecer a participação de menor importância implica em exame aprofundado do material fáticoprobatório, o que é inviável na via eleita.
+
+    6. Quanto à pretensão em ver deferida a prisão domiciliar ou a progressão de regime, consta do acórdão recorrido que "PALOMA se encontra em prisão domiciliar por concessão do STJ (HC nº 419.236/SP - fls. 5298), porquanto inexistem elementos concretos à apreciação do subjetivo, igualmente necessário à deliberação sobre modalidade prisional menos rigorosa - LEP, art. 112 -, não se podendo suprimir a instância, ofender o duplo grau de jurisdição e o princípio do juiz natural" (e-STJ fl. 370).
+
+    7. Agravo regimental desprovido.”
+
+    Colhe-se dos autos que a paciente foi condenada à pena de 17 (dezessete) anos, 1 (um) mês e 10 (dez) dias de reclusão, em regime inicial fechado, bem como ao pagamento de 1.182 (mil cento e oitenta e dois) dias-multa, pela prática dos crimes previstos nos artigos 2º, §§ 3º e 4º, I, da Lei nº 12.850/2013 e 33, caput, c/c art. 40, VI e VII (por sete vezes), da Lei nº 11.343/2006.
+
+    Em sede de apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo para redimensionar a pena da paciente para 12 (doze) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, além de 792 (setecentos e noventa e dois) dias-multa, mantidos os demais termos da sentença.
+
+    Irresignada, impetrou habeas corpus perante o Superior Tribunal de Justiça, o qual foi julgado nos termos da ementa acima transcrita.
+
+    Sobreveio o presente recurso ordinário, no qual a defesa aponta constrangimento ilegal consubstanciado na condenação da paciente.
+
+    Argumenta que a “recorrente ganhou o direito da Prisão Domiciliar, por força do ‘Habeas Corpus’ do Egrégio STJ nº 419.236/SP, de 06/08/2019 e a Lei de Organização Criminosa (12.850/2013), não possui natureza hedionda, [...], ou seja, o artigo 42 do Código Penal, não veda a manutenção da Prisão Domiciliar”. Arrazoa, ainda, que “sequer foi surpreendida com quaisquer tipos de drogas e, tão pouco, de que era colaboradora com o tráfico de drogas, por causa dos familiares ou parentes, aquela foi estereotipada”. Alega, também, ter direito à “aplicação da detração penal, artigo 387, § 2º, do CPP”. Pugna, por fim, pela “absolvição da Recorrente, por total insuficiência probatória, com espeque no artigo 386, inciso VII, do Código de Processo Penal e na remotíssima hipótese do não acolhimento do que foi vindicado, pela Prisão Domiciliar, artigo 318, inciso V, do mesmo Codex”.
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “Ex positis, por tudo o que foi delineado, pela decisão de forma motivada, a teor do artigo 93, inciso IX, da CRFB/1988, "Concessa Maxima Venia", a regra é a liberdade e a exceção, o cárcere e nessa alheta, pelo Princípio da Ampla Defesa, artigo 5º, inciso LV, do mesmo diploma acima.
+
+    a) Se assim for o entendimento, Intimação do (a) Ilustre Procurador (a) da República, para opinar no feito e em caso excepcional, com fundamento no Decreto-Lei 552/1969, "caput";
+
+    b) Protesta a defesa, que o Recurso Ordinário Constitucional seja Conhecido e Provido, pela Absolvição de Paloma Kételen Félix Nogueira, com espeque no artigo 386, inciso VII, do Código de Processo Penal, em homenagem ao Princípio da Presunção de Inocência, artigo 5°, inciso LVII, da CRFB/1988 e na remotíssima hipótese do não acolhimento do que foi vindicado, pela Manutenção da Prisão Domiciliar, a teor do artigo 318, inciso V, do mesmo “Codex” acima, “Habeas Corpus” nº 143.641/SP desse Colendo STF, determinando a expedição do Competente Contramandado de Prisão e se ao tempo do julgamento do presente, aquela for conduzida presa, pela expedição do Competente Alvará de Soltura Clausulado, mesmo se for a teor do artigo 654, § 2°, do (CPP), com o compromisso de assinar termo no processo e de se apresentar em Juízo, sempre que intimada;
+
+    c) Da expedição da Guia de Recolhimento Definitiva (VEC), para as benesses legais, inclusive, da Detração Penal, artigo 387, § 2º, do CPP e pelo regime menos rigoroso;
+
+    d) Da aplicação da benesse do artigo 65, inciso I, do Código Penal, pois, Recorrente à época do suposto delito era menor de 21 anos;
+
+    e) Subsidiariamente pela aplicação da Lei Federal 12.403, de 04/05/2011, naquilo que couber;
+
+    f) Em caso de serem solicitadas informações á Egrégia 1ª Vara Criminal do Foro da Comarca de Tatuí Interior do Estado de São Paulo, pelo envio dos documentos via Malote Digital, de acordo com a RES 100/CNJ, de 24/11/2009;
+
+    g) Caso da Concessão da Ordem, para que seja observada pela Instância Ordinária, a Resolução Nº 108, § 3º do Egrégio CNJ, datada de 06/04/2010.”
+
+    A Procuradoria-Geral da República, em parecer, se manifestou pelo desprovimento do recurso nos termos da seguinte ementa:
+
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E TRÁFICO DE ENTORPECENTES. CONDENAÇÃO LEGITIMAMENTE IMPOSTA EM SEDE ORDINÁRIA. EXISTÊNCIA DE PROVA CONSISTENTE COM RELAÇÃO ÀS GRAVÍSSIMAS PRÁTICAS DELITIVAS. TRÂNSITO EM JULGADO DA CONDENAÇÃO EM 2021. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. PRECEDENTES. PLEITO DE ABSOLVIÇÃO. INVIABILIDADE. DEMAIS ARGUIÇÕES QUE, IGUALMENTE, ENSEJAM INCURSÃO FÁTICOPROBATÓRIA DESCABIDA NA VIA ELEITA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE NA ESPÉCIE. PARECER PELO DESPROVIMENTO DO RECURSO.”
+
+    É o relatório, DECIDO.
+
+    Ab initio, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “[...] não vislumbro constrangimento ilegal a ensejar a concessão de habeas corpus de ofício.
+
+    Veja o que disse o Tribunal ao confirmar a condenação da recorrente (e-STJ fls. 362/364): [...]
+
+    Como se pode observar pelos trechos acima transcritos, as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, concluíram que a agravante praticou os delitos descritos nos arts. 2º, § 4º, I, da Lei n. 12.850/2013, e 33, caput, c/c o art. 40, VI e VII, da Lei n. 11.343/2006.
+
+    Entenderam, ainda, não ser a hipótese de participação de menor importância, tendo em vista a nítida divisão de tarefas. A acusada tinha papel ativo dentro da organização criminosa, recebendo funções delegadas, além de agir em variados ramos da sociedade com interferência nas esferas do serviço público, além do tráfico em si.
+
+    Concluir de forma diversa para absolvê-la ou reconhecer a participação de menor importância implica em exame aprofundado do material fático-probatório, o que é inviável na via eleita. Nesse sentido: [...]
+
+    Por fim, quanto à pretensão em ver deferida a prisão domiciliar ou a progressão de regime, consta do acórdão recorrido que ‘Paloma se encontra em prisão domiciliar por concessão do STJ (HC nº 419.236/SP - fls. 5298), porquanto inexistem elementos concretos à apreciação do subjetivo, igualmente necessário à deliberação sobre modalidade prisional menos rigorosa - LEP, art. 112 -, não se podendo suprimir a instância, ofender o duplo grau de jurisdição e o princípio do juiz natural’ (e-STJ fl. 370). [...]”
+
+    Na espécie, o Superior Tribunal de Justiça assentou que “as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, concluíram que a agravante praticou os delitos descritos nos arts. 2º, § 4º, I, da Lei n. 12.850/2013, e 33, caput, c/c o art. 40, VI e VII, da Lei n. 11.343/2006. Entenderam, ainda, não ser a hipótese de participação de menor importância, tendo em vista a nítida divisão de tarefas. A acusada tinha papel ativo dentro da organização criminosa, recebendo funções delegadas, além de agir em variados ramos da sociedade com interferência nas esferas do serviço público, além do tráfico em si”, sendo certo que “concluir de forma diversa para absolvê-la ou reconhecer a participação de menor importância implica em exame aprofundado do material fático-probatório”.
+
+    Com efeito, registro que o Supremo Tribunal Federal perfilha o entendimento no sentido de o habeas corpus não se consubstanciar na via adequada ao exame da alegação de insuficiência probatória. Nesse sentido:
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. TENTATIVAS DE HOMICÍDIO QUALIFICADO. PRONÚNCIA. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. VIA INADEQUADA. 1. Nos termos do artigo 413 do Código de Processo Penal, a decisão de pronúncia configura um juízo de admissibilidade da acusação, aplicável nas situações em que o julgador se mostra convencido (a) da materialidade do delito e (b) da existência de indícios – e não certeza – de autoria ou de participação. 2. Os indícios declinados pela instância ordinária, ao menos nesta sede processual, revelam-se idôneos para submissão do paciente ao Conselho de Sentença. 3. Para acolher a alegação de insuficiência probatória, tal como já afirmou o STJ, seria necessário proceder à análise de fatos e provas, providência incompatível com a via do Habeas Corpus. 4. Agravo Regimental a que se nega provimento. (HC 206.244-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 22/10/2021)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. INVIABILIDADE. EXCEPCIONALIDADE NÃO DEMONSTRADA. ALEGADA INÉPCIA DA DENÚNCIA. IDONEIDADE DA PEÇA ACUSATÓRIA. SUPOSTA AUSÊNCIA DE JUSTA CAUSA. NECESSIDADE DE REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. RECURSO ORDINÁRIO DESPROVIDO. 1. O habeas corpus é via adequada ao trancamento da ação penal apenas em casos excepcionais, de evidente atipicidade da conduta, extinção da punibilidade ou ausência de justa causa. 2. A denúncia observou todas as exigências formais do art. 77 do Código de Processo Penal Militar. 3. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento das teses defensivas – ausência de justa causa, por insuficiência probatória e inépcia da denúncia –, do conjunto fático-probatório produzido nas instâncias ordinárias. 4. Ausente, nos autos, demonstração de alguma excepcionalidade, não se justifica o trancamento da ação penal. 5. Agravo interno desprovido. (RHC 203.155-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 17/12/2021)
+
+    De outro lado, no tocante à manutenção da prisão domiciliar e ao regime de cumprimento da pena, verifico que a fundamentação da decisão do Tribunal a quo reside na insuscetibilidade de sua atuação porquanto “consta do acórdão recorrido que ‘Paloma se encontra em prisão domiciliar por concessão do STJ (HC nº 419.236/SP - fls. 5298), porquanto inexistem elementos concretos à apreciação do subjetivo, igualmente necessário à deliberação sobre modalidade prisional menos rigorosa - LEP, art. 112 -, não se podendo suprimir a instância, ofender o duplo grau de jurisdição e o princípio do juiz natural’”. Quanto aos pleitos de detração e de “aplicação da benesse do artigo 65, inciso I, do Código Penal”, verifico a inexistência de manifestação do Tribunal a quo acerca da matéria.
+
+    Nesse contexto, o conhecimento destes pontos da impetração sem que a instância precedente tenha examinado a matéria consubstancia, de igual forma, indevida supressão de instância e, por conseguinte, violação das regras constitucionais definidoras da competência dos Tribunais Superiores, valendo conferir os seguintes precedentes desta Corte:
+
+    Direito processual penal. Agravo regimental em habeas corpus. Crimes de tortura, roubo majorado e corrupção de menores. Pedido de prisão domiciliar. Inadequação da via eleita. Supressão de instâncias. Jurisprudência do Supremo Tribunal Federal. 1. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux). 2. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça (STJ), não compete ao STF examinar a questão de direito implicada na impetração. Precedentes. 3. As alegações da defesa não foram sequer analisadas pelas instâncias de origem (Tribunal de Justiça do Estado de São Paulo e STJ). Fato que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias. 4. A Segunda Turma do STF, no julgamento do HC 143.641, Rel. Min. Ricardo Lewandowski, decidiu pela “substituição da prisão preventiva pela domiciliar – sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP – de todas as mulheres presas, gestantes, puérperas ou mães de crianças e deficientes, nos termos do art. 2º do ECA e da Convenção sobre Direitos das Pessoas com Deficiências (Decreto Legislativo 186/2008 e Lei 13.146/2015), relacionadas neste processo pelo DEPEN e outras autoridades estaduais, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício” (grifos acrescentados). Na sequência, determinou a “extensão da ordem de ofício a todas as demais mulheres presas, gestantes, puérperas ou mães de crianças e de pessoas com deficiência, bem assim às adolescentes sujeitas a medidas socioeducativas em idêntica situação no território nacional, observadas as restrições acima” (grifos acrescentados). 5. Trata-se de paciente presa preventivamente pela suposta prática dos crimes de tortura, roubo majorado e corrupção de menores. De modo que, tendo os crimes sido praticados com violência, não é possível estender à acionante os efeitos da decisão proferida pela Segunda Turma do STF. Precedente: o HC 156.026-AgR, Rel. Min. Edson Fachin. 6. Agravo regimental a que se nega provimento. (HC 216.782-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 31/8/2022)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. ART. 317, § 1º, DO RISTF. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO STJ. INVIABILIDADE DE O WRIT FIGURAR COMO SUBSTITUTIVO DE AGRAVO REGIMENTAL. SUCEDÂNEO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO. 1. É inadmissível o agravo regimental que não impugna de modo especificado todos os fundamentos da decisão agravada. Manutenção da decisão recorrida. Precedentes. 2. O Supremo Tribunal Federal tem posição firme pela impossibilidade de admissão de writ impetrado contra decisão proferida por membro de Tribunal Superior, uma vez que, a teor do art. 102, I, “i”, da Constituição da República, sob o prisma da autoridade coatora, a competência originária desta Suprema Corte somente se perfectibiliza na hipótese em que Tribunal Superior, por meio de órgão colegiado, atue nessa condição. 3. O habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 4. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 5. Agravo regimental desprovido. (HC 210.524-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 20/7/2022)
+
+    Outrossim, eventual exame da pretensão defensiva demandaria uma indevida incursão na moldura fática delineada nos autos. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Destarte, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CRFB/88, ART. 102, I, D E I. HIPÓTESE QUE NÃO SE AMOLDA AO ROL TAXATIVO DE COMPETÊNCIA DESTA SUPREMA CORTE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. INÉPCIA DA DENÚNCIA. NÃO CARACTERIZADA. CUSTÓDIA PREVENTIVA DEVIDAMENTE FUNDAMENTADA. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. ALEGADO EXCESSO DE PRAZO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. (HC 130.439, Primeira Turma, Rel. Min. Luiz Fux, DJe de 12/5/2016)
+
+    Ainda, não cabe a rediscussão da matéria perante esta Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/8/2022)
+
+    Ex positis, NEGO SEGUIMENTO ao recurso ordinário em habeas corpus, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 3 de fevereiro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
