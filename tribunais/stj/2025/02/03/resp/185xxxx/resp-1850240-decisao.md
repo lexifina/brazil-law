@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por JULIO CESAR MOREIRA WEST, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, proferido com a seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. CAESB. PAGAMENTO PARCIAL DE DÉBITO. RESTABELECIMENTO DO SERVIÇO DE FORNECIMENTO DE ÁGUA E ESGOTO. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO STJ E RESOLUÇÃO N. 14 DA ADASA. NÃO APLICABILIDADE AO CASO CONCRETO. SENTENÇA MANTIDA.
+1. O restabelecimento do serviço de fornecimento de água e esgoto, nos moldes vindicados pelo autor, ora apelante, encontra óbice na legislação de regência, (artigo 45 do Decreto n. 26.590/2007; artigo 6, § 3º, inciso II, da Lei n. 8.987/95; e artigo 40, incisos IV e V, da Lei n. 11.445/07), tendo em vista que amparado no pagamento apenas parcial de débito que é atual, e não pretérito.
+2. No caso em apreço, o autor, ora apelante, possuía um débito de trinta meses, e pretende o restabelecimento do fornecimento de água, em razão do adimplemento de apenas cinco prestações (julho a novembro de 2017). Tem-se, pois, que o adimplemento apenas parcial de débito relativo à contraprestação pelo fornecimento de água e esgoto não autoriza o restabelecimento do serviço.
+3. Apelação Cível conhecida e não provida.
+Opostos embargos de declaração, foram eles rejeitados.
+Alega o recorrente ofensa aos arts. 22 do Código de Defesa do Consumidor (CDC), e 6º, § 3º, II, da Lei 8.987/1995, sustentando ser ilegítima a suspensão do serviço de fornecimento de água com o pagamento parcial do débito acumulado de parcelas e adimplemento com as dívidas mais recentes.
+Contrarrazões às fls. 142/145.
+É o relatório.
+Acerca do tema, assim se manifestou a Corte de origem no voto condutor do acórdão recorrido (fls. 109/110):
+Com efeito, busca o o ora apelante o restabelecimento do serviço de fornecimento de água e esgoto, sob o fundamento de que, das trinta faturas em aberto, realizou o parcelamento de cinco delas (julho a novembro de 2017), motivo pelo qual, passou a não mais persistir o direito da CAESB em interromper o serviço.
+ ..
+Note-se que a tese apresentada pelo autor, ora apelante, não se coaduna com o entendimento firmado no aresto acima transcrito. Isso porque a vedação busca proteger aquele consumidor que vinha ordinariamente adimplindo, de forma correta, o pagamento das faturas pela prestação do serviço de fornecimento de água e esgoto e que, em dado momento, via-se surpreendido com a cobrança de débito relativo ao não pagamento de conta pretérita, vencida há mais de cento e vinte dias.
+No entanto, a situação que se apresenta destoa completamente de tal finalidade da norma de regência, bem como do entendimento firmado pelo STJ.
+No presente caso, o autor, ora apelante, possuía um débito de trinta meses (ID 3583798), e pretende o restabelecimento do fornecimento de água, em razão do adimplemento de apenas cinco prestações (julho a novembro de 2017).
+O débito cobrado do ora apelante perfaz um total de R$ 24.000,00 (vinte e quatro mil reais). O adimplemento de parte desse débito não transformou a dívida atual em dívida pretérita, pois, apenas reduziu o valor do débito, mostrando-se, pois, insuficiente para autorizar a restabelecimento do fornecimento de água.
+Esse entendimento é consonante com o posicionamento da jurisprudência deste Superior Tribunal de Justiça, segundo o qual é admitida a suspensão do fornecimento do serviço público em face de inadimplemento atual do consumidor, mediante aviso prévio. A propósito, colho precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. ART. 543-C DO CPC (ATUAL 1.036 DO CPC/2015) E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. DESAFETAÇÃO DO PRESENTE CASO. SERVIÇOS PÚBLICOS. FORNECIMENTO DE ENERGIA ELÉTRICA. SUSPENSÃO. DÉBITOS PRETÉRITOS.
+1. Considerando que o Recurso Especial 1.412.433/RS, já julgado pela Primeira Seção, tem fundamentos suficientes para figurar como representativo da presente controvérsia, este recurso deixa de se submeter ao rito do art. 543-C do CPC (atual 1.036 do CPC/2015) e da Resolução STJ 8/2008.
+2. Conforme fixado no REsp 1.412.433/RS (Rel. Ministro Herman Benjamin, Primeira Seção, DJe 28.9.2018) sob o rito dos arts. 1.036 e seguintes do CPC/2015: "Na hipótese de débito estrito de recuperação de consumo efetivo por fraude no aparelho medidor atribuída ao consumidor, desde que apurado em observância aos princípios do contraditório e da ampla defesa, é possível o corte administrativo do fornecimento do serviço de energia elétrica, mediante prévio aviso ao consumidor, pelo inadimplemento do consumo recuperado correspondente ao período de 90 (noventa) dias anterior à constatação da fraude, contanto que executado o corte em até 90 (noventa) dias após o vencimento do débito, sem prejuízo do direito de a concessionária utilizar os meios judiciais ordinários de cobrança da dívida, inclusive antecedente aos mencionados 90 (noventa) dias de retroação".
+2. Pacífico o entendimento de que é lícito o corte administrativo do serviço de energia elétrica por mora do consumidor quando a) se tratar de débito decorrente de cobrança regular de consumo, concernente ao último mês mensurado, e b) houver aviso prévio da suspensão.
+3. Na hipótese dos autos, a Corte Estadual declarou a legalidade do corte de energia pelo fato de, além dos débitos pretéritos, a conta regular de consumo também não ter sido paga, o que resulta na legalidade da suspensão do serviço.
+4. Recurso Especial não provido.
+(REsp n. 1.381.222/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/3/2019, DJe de 1/8/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENERGIA ELÉTRICA. DÉBITO ATUAL. CORTE. POSSIBILIDADE. NECESSIDADE DE COMUNICAÇÃO PRÉVIA. OCORRÊNCIA. SÚMULA 7/STJ.
+1. É possível a suspensão do fornecimento do serviço de energia elétrica em razão do inadimplemento atual do consumidor, desde que a medida seja antecedida por aviso prévio.
+2. No caso, porém, o aresto impugnado nega a existência de comunicação anterior. Impossível afirmar o contrário sem o reexame dos fatos e provas constantes do autos. Incidência da Súmula 7/STJ.
+3. Recurso especial não conhecido.
+(REsp n. 1.342.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/9/2017, DJe de 27/9/2017.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENERGIA ELÉTRICA. FORNECIMENTO. INTERRUPÇÃO POR RAZÕES DE ORDEM TÉCNICA. COMUNICAÇÃO POR ESTAÇÕES DE RÁDIO. AVISO PRÉVIO. EXIGÊNCIA LEGAL. ATENDIMENTO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O Superior Tribunal de Justiça considera legítima a interrupção do fornecimento de energia elétrica por razões de ordem técnica, de segurança das instalações, ou ainda, em virtude do inadimplemento do usuário, quando houver o devido aviso prévio pela concessionária sobre o possível corte no fornecimento do serviço.
+3. Caso em que a divulgação da suspensão do serviço por meio de três estações de rádio, dias antes da interrupção, satisfaz a exigência de "aviso prévio" encartado no art. 6º, § 3º, da Lei 8.987/1995 e, por conseguinte, desnatura a indenização por dano extrapatrimonial reconhecida no aresto recorrido.
+4. Recurso especial provido.
+(REsp n. 1.270.339/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2016, DJe de 17/2/2017.)
+Ante o exposto, nego provimento ao recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
