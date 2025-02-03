@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TERRAÇO PAULISTA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. contra decisão que inadmitiu o recurso especial em razão da ausência de demonstração da alegada vulneração e da incidência da Súmula n. 7 do STJ.
+No agravo em recurso especial, a parte agravante alega que o recurso especial está devidamente fundamentado e cumpre todos os requisitos processuais, incluindo a divergência jurisprudencial.
+Aduz que "cumpre a este Egrégio Superior Tribunal de Justiça se manifestar acerca da competência para examinar a admissibilidade do Recurso de Agravo de Instrumento contra despacho denegatório, pois, entende que, ainda que lhe falte algum dos requisitos, é vedado ao Tribunal "a quo" obstar-lhe o seguimento, sob pena de usurpação da competência atribuída a esta Corte Superior" (fl. 129).
+No mais, reitera as mesmíssimas razões expostas no recurso especial.
+É o relatório. Decido.
+Inicialmente, esclareça-se que, em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+Nesse sentido, é o enunciado da Súmula n. 123 do STJ: "A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos pressupostos gerais e constitucionais".
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na não demonstração da alegada vulneração e na incidência da Súmula n. 7 do STJ.
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente o fundamento da decisão agravada de incidência da Súmula n. 7 do STJ, limitando-se a reiterar as razões de mérito do recurso especial.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, considerando que a parte agravante, no agravo em recurso especial, deixou de impugnar todos os fundamentos da decisão agravada e que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
