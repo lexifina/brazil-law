@@ -1,0 +1,25 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 285):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO E ADMINISTRATIVO. PENSÃO POR MORTE. BENEFÍCIO CONCEDIDO ANTES DA VIGÊNCIA DA LEI 9.784/1999. REVISÃO (ART. 103-A DA LEI 8.213/1991). DECADÊNCIA. NÃO OCORRÊNCIA. MATÉRIA JULGADA PELO PROCEDIMENTO DOS RECURSOS REPETITIVOS.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do R Esp 1.114.938/AL, de relatoria do Ministro Napoleão Nunes Maia Filho, submetido ao rito do art. 543-C do Código de Processo Civil, firmou o entendimento de que, no tocante aos benefícios cuja concessão antecedeu à vigência da Lei 9.784/1999, o prazo de que dispõe a Previdência Social para proceder à sua revisão, de dez anos, conforme previsto no art. 103-A da Lei 8.213/1991, tem como termo inicial a data de 1º.2.1999.
+2. No caso dos autos, embora o benefício da ora recorrida tenha sido concedido em 6.10.1975 (fl. 177, e-STJ), o prazo decadencial somente teve início em 1º.2.1999. Tendo o procedimento de revisão administrativa sido iniciado em 26.11.2008 (fl. 177, e-STJ), evidente que não se consumou a decadência para revisão do ato administrativo.
+3. Agravo Regimental não provido.
+Os embargos de divergência interpostos na sequência foram liminarmente indeferidos (fls. 333-336), decisão posteriormente confirmada pela Primeira Seção (fls. 350-351). Opostos embargos de declaração, foram rejeitados (fl. 375).
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XVI, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que o recurso especial interposto pelo INSS foi provido para afastar a decadência reconhecida pelo Tribunal de Justiça Estadual.
+Argumenta que a "jurisprudência dominante nesta Corte Suprema reconhece a decadência do direito do INSS de rever seus atos de forma diversa daquela reconhecida pelo STJ" (fl. 387), de acordo com o postulado do direito adquirido e do ato jurídico perfeito.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas à fl. 401.
+Às fls. 404-405 foi proferida decisão pela Ministra Laurita Vaz, então Vice-Presidente do Superior Tribunal de Justiça, determinando o sobrestamento do feito até o julgamento definitivo do Tema n. 632 do STF.
+É o relatório.
+2. O Supremo Tribunal Federal, no julgamento do RE n. 699.535-RG, concluiu pela ausência de repercussão geral da discussão relativa à possibilidade de o Instituto Nacional do Seguro Social proceder, a qualquer tempo, à revisão do critério de reajuste da aposentadoria de ex-combatente e da correspondente pensão por morte com fundamento em errônea aplicação da Lei nº 5.698, de 31 de agosto de 1971.
+Na ocasião, a Suprema Corte fixou a seguinte tese vinculante:
+Tema n. 632: Aplicam-se os efeitos da ausência de repercussão geral a controvérsias relativas à possibilidade de o Instituto Nacional do Seguro Social proceder, a qualquer tempo, à revisão do critério de reajuste da aposentadoria de ex-combatente e da correspondente pensão por morte com fundamento em errônea aplicação da Lei nº 5.698, de 31 de agosto de 1971.
+Confira-se, por oportuno, a ementa do acórdão paradigma:
+Recurso extraordinário. Repercussão geral. Tema nº 632. Direito constitucional e administrativo. Possibilidade de o Instituto Nacional do Seguro Social proceder, a qualquer tempo, à revisão do critério de reajuste da aposentadoria de ex-combatente e da correspondente pensão por morte com fundamento em errônea aplicação da Lei nº 5.698, de 31 de agosto de 1971. Natureza infraconstitucional da controvérsia. Afronta indireta ou reflexa à Constituição Federal. Fatos e provas. Incidência da Súmula nº 279/STF. Ausência de repercussão geral. Recurso extraordinário ao qual se nega seguimento. Revisão do reconhecimento da repercussão geral, com a fixação da seguinte tese: Aplicam-se os efeitos da ausência de repercussão geral a controvérsias relativas à possibilidade de o Instituto Nacional do Seguro Social proceder, a qualquer tempo, à revisão do critério de reajuste da aposentadoria de ex-combatente e da correspondente pensão por morte com fundamento em errônea aplicação da Lei nº 5.698, de 31 de agosto de 1971.
+(RE n. 699.535-RG, Relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 20/9/2024, DJe de 14/11/2024.)
+Portanto, tratando-se de recurso extraordinário que discute questão destituída de repercussão geral, conforme definido pelo Supremo Tribunal Federal, a negativa de seguimento é medida que se impõe.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EX-COMBATENTE. REVISÃO DO CRITÉRIO DE REAJSUTE DE APOSENTADORIA E CORRESPONDENTE PENSÃO POR MORTE. MATÉRIA INFRACONSTITUCIONAL. TEMA N. 536 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
