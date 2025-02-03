@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PAULO ROGERIO LIMA - MICROEMPRESA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de imissão na pose, ajuizada pelo agravado, em face do agravante, na qual pleiteia ser imitido na posse do imóvel descrito na inicial, sob o fundamento de ter adquirido o bem por meio de contrato de compra e venda celebrado com o então vendedor e falecido Sr. Rui Manoel da Silva Lima, e que o imóvel seria entregue livre de pessoas e coisas, em 60 (sessenta) dias, mediante termo de acordo celebrado antes da escritura de compra e venda. Afirma que, mesmo após a aquisição, nunca foi imitido na posse do imóvel, pois não houve desocupação, tendo em vista que o Sr. Rui a outorgou à empresa agravante, representada por seu filho Paulo Rogério de Lima.
+Acórdão: deu provimento à apelação interposta pela parte agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE IMISSÃO NA POSSE COM PEDIDO DE INDENIZAÇÃO. PROPRIEDADE FORMAL DO IMÓVEL. COMPROVAÇÃO. AUTOR PROPRIETÁRIO REGISTRAL DO BEM OBJETO DA DEMANDA. POSSE INJUSTA DO CONTESTANTE. DEMONSTRAÇÃO. AUSÊNCIA DE JUSTO TÍTULO. DECRETAÇÃO DE INVALIDADE DE REGISTRO, PELA OCORRÊNCIA DE SIMULAÇÃO. NECESSIDADE DO AJUIZAMENTO DE AÇÃO PRÓPRIA. ART. 1.245, § 2º, CC. PRECEDENTES. LUCROS CESSANTES CONSUBSTANCIADOS NO VALOR DE UM ALUGUEL POR MÊS DESDE O RECEBIMENTO DA NOTIFICAÇÃO PARA DESOCUPAÇÃO DO IMÓVEL. IMPOSIÇÃO. PRECEDENTE. SENTENÇA DE IMPROCEDÊNCIA. REFORMA. RECURSO PROVIDO.
+1. É de rigor a procedência do pedido de imissão na posse de imóvel quando evidente a posse injusta da parte ré e há prova de titularidade do domínio da parte autora, com descrição e individualização do bem.
+2. Enquanto não se promover, por meio de ação própria, a decretação de invalidade do registro de título translativo de propriedade, e o respectivo cancelamento, o adquirente continua a ser havido como dono do imóvel.
+3. Caso haja prova de privação indevida da posse de imóvel, a parte autora, na qualidade de proprietária registral da coisa, faz jus ao recebimento de lucros cessantes, desde quando constituiu em mora a parte ré, que não trouxe aos autos título para justificar a manutenção da coisa alheia para si. (e-STJ Fl. 402)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão do seguinte fundamento: intempestividade do recurso interposto.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera os termos do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: intempestividade do recurso interposto.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente para 15% sobre o valor atualizado da causa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
