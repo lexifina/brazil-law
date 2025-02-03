@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais contra a decisão proferida pelo Tribunal de Justiça contra o acórdão prolatado na Cautelar Inominada Crime n. 1.0000.22.295149- 3/000, assim ementado (fl. 59):
+AÇÃO CAUTELAR INOMINADA - ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM EXECUÇÃO PENAL - IMPOSSIBILIDADE - EXCEPCIONALIDADE NÃO EVIDENCIADA. Não vislumbrando questão extraordinária que demonstre notória excepcionalidade, apta a afastar o disposto junto ao art. 197 da Lei de Execução Penal, não há falar em concessão de efeito suspensivo ao recurso de Agravo em Execução Penal.
+Nas razões do especial, o órgão ministerial apontou contrariedade aos arts. 67, 68, 112, § 2º, 117, todos da Lei de Execuções Penais (Lei n. 7.210/84); art. 33, § 2º, do Código Penal; e art. 489, § 1º, inciso VI, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, aduzindo, em suma, que é admissível a utilização de medida cautelar inominada para atribuir efeito suspensivo a recurso interposto pelo Ministério Público contra decisão proferida pelo Juízo da execução; assevera tratar-se de reeducando condenado pelo crime previsto no art. 121, § 2º, do Código Penal, restando-lhe aproximadamente 8 anos, 9 meses e 11 dias de pena a cumprir, o que demonstra que sua liberação é extremamente prematura; pretende, ao final, a reforma do acórdão. Requereu, ao final, o provimento do presente recurso, para que seja permitido ao Ministério Público usar da cautelar inominada para pedir em juízo a concessão de efeito suspensivo ao recurso de agravo em execução, tendo como consequência o afastamento da concessão da prisão domiciliar (fls. 142/157).
+Foram presentadas contrarrazões (fl. 225/236). A Corte admitiu o recurso (fls. 240/241).
+O Ministério Público Federal opina pelo conhecimento do agravo com o provimento do recurso especial, nos seguintes termos (fl. 251):
+RESP. CRIME DE HOMICÍDIO QUALIFICADO. EXECUÇÃO PENAL. REGIME DOMICILIAR. DESCABIMENTO. - A pretensão do recorrente MP merece acolhida. - Parecer pelo provimento do recurso especial.
+É o relatório.
+O recurso está prejudicado.
+Consta dos autos que a ação cautelar inominada intentada pelo recorrente objetivava a atribuição de efeito suspensivo ativo ao recurso de Agravo em Execução Penal interposto nos autos da Execução n. 0247970- 44.2017.8.13.0433 contra a decisão que concedeu ao recorrido prisão domiciliar excepcional.
+Sucede que, em contato com Vara de de Execuções Penais da comarca de Montes Claros/MG, obtive a informação de que o Agravo de Execução Penal n. 1.0433.17.024797-0/001 foi julgado e desprovido, de forma que o Tribunal a quo manteve a decisão concessiva da prisão domiciliar, tendo os autos retornado a origem com certidão de trânsito em julgado.
+Assim, considerando que o presente recurso especial foi interposto contra o acórdão exarado no julgamento da ação cautelar inominada e que a referida ação visava tão somente à concessão de efeito suspensivo ao recurso de agravo em execução, não há dúvida de que o julgamento de mérito do último fulminou a pretensão veiculada no presente reclamo.
+Ante o exposto, julgo prejudicado o recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO CAUTELAR INOMINADA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM EXECUÇÃO PENAL. JULGAMENTO DE MÉRITO DO RECURSO COM BAIXA DOS AUTOS. PREJUDICIALIDADE.
+Recurso especial julgado prejudicado.
