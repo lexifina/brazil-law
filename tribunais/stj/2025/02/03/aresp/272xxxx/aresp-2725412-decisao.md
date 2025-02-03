@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (fl. 87):
+AGRAVO DE INSTRUMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Não se vislumbra plausibilidade jurídica nas alegações da parte agravante, eis que a Contadoria do Foro é órgão de auxílio do Juízo, detentora de fé-pública, equidistante dos interesses das partes e sem qualquer relação na causa, presumindo-se a veracidade de seus cálculos elaborados. Desse modo, havendo divergência nos cálculos de liquidação, devem prevalecer aqueles elaborados pela Contadoria Judicial.
+II - Agravo de instrumento desprovido. Agravo interno prejudicado.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 98-105, o recorrente sustenta que "a decisão recorrida, ao determinar que o montante percebido de GDARA no período de março de 2008 e abril de 2012, no valor correspondente a 100 (cem) pontos, seja contabilizado para efeito de pagamento das parcelas posteriores a tal período (média dos últimos 60 meses), violou manifestamente a Lei (art. 22, § 1º, incisos I e II, da Lei 11.090/05), pois leva em conta período no qual os substituídos não se encontravam mais em atividade para efeito de cálculo da GDARA nas parcelas de aposentadoria e pensão recebidas a partir de maio de 2012" (fl. 102). "Portanto, considerando que a maioria dos servidores beneficiados pelo v. Acórdão já havia se aposentado antes mesmo da criação da GDARA e outros receberam tal gratificação em período durante a atividade, o pagamento da GDARA, a partir de maio de 2012, inferior a 60 (sessenta) meses deve seguir o valor correspondente a cinquenta por cento (50%) do valor máximo do respectivo nível" (fl. 104).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 120-121):
+O recurso não merece admissão.
+Na medida em que a Turma resolveu o apelo à vista da prova contida nos autos, o prosseguimento da discussão em sede de Especial encontra óbice na Súmula 7 do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial."), haja vista que, para alterar o entendimento do acórdão recorrido, seria preciso revolver todo o substrato fático-probatório dos autos.
+(..)
+Vale dizer, "O STJ não pode ser considerado uma terceira instância recursal, porquanto sua missão constitucional é a uniformização da jurisprudência infraconstitucional, por meio da interpretação e correta aplicação dos textos legais, e não pela aferição da justiça da avaliação dos fatos realizada pela Corte local. Dessa forma, a violação de dispositivos legais deve ser aferível sem a necessidade de reexame fático-probatório" (HC n. 826.977/SP, relator Ministro Ribeiro Dantas, relator para acórdão Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/12/2023, DJe de 19/12/2023).
+Nesse cenário, não há como admitir o recurso, eis que as razões da parte recorrente não se afiguram plausíveis de molde a permitir a formulação de juízo positivo de admissibilidade, lembrando-se que a incidência da Súmula 7 do STJ prejudica a análise até de dissídio jurisprudencial pretendido (AgInt no AREsp n. 2.374.180/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/4/2024, DJe de 24/4/2024. - AgInt no REsp n. 2.082.599/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023).
+Em seu agravo, às fls. 123-130, o agravante aduz, em síntese, que a análise da matéria não exige o reexame fático-probatório, já que "a questão em debate no recurso especial é absolutamente de direito" (fl. 126).
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
