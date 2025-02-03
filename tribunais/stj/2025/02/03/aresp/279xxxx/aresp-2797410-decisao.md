@@ -1,0 +1,26 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a" da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado:
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ROUBO MAJORADO. RECURSO DA ACUSAÇÃO DOSIMETRIA. 1º FASE. CIRCUNSTÂNCIA JUDICIAL. CONDUTA SOCIAL. AUSÊNCIA DE FUNDAMENTOS PARA VAROLAÇÃO NEGATIVA. 2ª FASE. AGRAVANTE DA DISSIMULAÇÃO. POSSIBILIDADE DE RECONHECIMENTO MESMO QUE NÃO DESCRITA NA DENÚNCIA. RECURSO PARCIALMENTE PROVIDO. RECURSO DA DEFESA. DOSIMETRIA. 1ª FASE. FRAÇÃO IDEAL. ACRÉSCIMO DE 1/8 (UM OITAVO) POR CIRCUNSTÂNCIA JUDICIAL NEGATIVA. PRECEDENTES DO STJ. RECURSO PROVIDO.
+1. Na primeira etapa do cálculo da pena, no tocante à conduta social, de acordo com a doutrina, afere-se a modular, basicamente, da análise de três fatores que fazem parte da vida do cidadão comum: família, trabalho e religião. No caso dos autos não há fundamentos para que a circunstância seja lançada para desfavorecer o réu, como pretende a acusação.
+2. Não há qualquer impedimento no reconhecimento da agravante descrita no artigo 61, inciso II, alínea "c" do Código Penal, ainda que não contida na denúncia, nos termos do artigo 385, do Código de Processo Penal.
+3. A lei penal não adotou nenhum critério para a retribuição penal na primeira fase da dosimetria. Nesse momento, via de regra, a exasperação deverá ser proporcional ao número de circunstâncias judiciais desfavoráveis e para isso o julgador poderá adotar critério matemático ou frações fixas.
+4. A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido de admitir a aplicação do critério ideal 1/8 (um oitavo) por vetorial negativamente valorada (calculada sobre o intervalo da condenação previsto no preceito secundário do tipo penal incriminador), o que revela a inidoneidade do quantum de pena aplicada no presente caso, tornando imperioso o redimensionamento da pena.
+5. Apelo da defesa conhecido e provido. Apelo da acusação conhecido e parcialmente provido. (e-STJ fls. 369/370)
+A defesa aponta a violação do art. 61, II, "c" do Código Penal, alegando, em síntese, que a improcedência da agravante da dissimulação, argumentando que a referida condição não foi relevante para o sucesso da empreitada criminosa, pois tendo pedido informações ou não, se aproximado com qualquer outro pretexto, o roubo aconteceria de igual forma. (e-STJ fl. 388)
+Contrarrazões às e-STJ fls. 394/404.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 462/465.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 14 anos, 3 meses e 3 dias de reclusão, pelo cometimento do crime do art. 157, § 2.º, inc. II e § 2.º-A, I do Código Penal.
+Quanto à violação do art. 61, II, "c", do CP, o Tribunal de origem assim se pronunciou:
+Lado outro, indubitável, no caso em análise, a ocorrência da dissimulação durante a prática do crime em face de Ricardo Lopes Mendes. Declarou a vítima:
+Ricardo Lopes Mendes- Vítima: Que no dia 12/06/2023, por volta das 12:40h, o declarante estava chegando em sua residência, localizada no setor Araguaína Sul II, em sua motocicleta HONDA BIZ 125, BRANCA E AZUL, PLACA RSESF15, quando dois indivíduos chegaram em uma MOTOCICLETA BROS, COR VERMELHA; Que o individuo que estava na garupa desceu da motocicleta e perguntou se o declarante sabia onde morava a pessoa de Kebson; Que o declarante informou que não sabia; Que o indivíduo então sacou a arma de fogo (pistola preta) e apontou para a declarante, e disse "fica quieto senão vai tomar pipoco"; (..)
+Modificar o entendimento do Tribunal de origem no intuito de afastar a agravante da dissimulação, demandaria inevitavelmente o reexame dos elementos fático-probatórios, medida vedada em recurso especial, de acordo com a Súmula n. 7 do STJ.
+CONSTITUCIONAL. PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ROUBO SIMPLES. AFASTAMENTO DA AGRAVANTE DA DISSIMULAÇÃO (CP, ART. 61, INC. II, "C"). REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA INADEQUADA. DOSIMETRIA DA PENA. MAUS ANTECEDENTES. "PERÍODO DEPURADOR". HABEAS CORPUS NÃO CONHECIDO.
+ ..
+02. O habeas corpus não comporta dilação probatória. Salvo se evidente a "ilegalidade ou abuso de poder" (CR, art. 5º, inc. LXVIII), não pode ser conhecido se a análise da pretensão formulada - afastamento da agravante da dissimulação (CP, art. 61, inc. II, "c") - depender exclusivamente da revaloração do conjunto fático-probatório, pois "os Tribunais Superiores resolvem questões de direito e não questões de fato e prova" (STF, RHC 113.314/SP, Rel. Ministra Rosa Weber; HC 221.081/SP, Rel. Ministro Gurgel de Faria, Quinta Turma, julgado em 14/10/2014; HC 284.904/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 14/10/2014).
+ ..
+04. Habeas corpus não conhecido. (HC n. 309.329/SP, relator Ministro Newton Trisotto - (Desembargador Convocado do TJ/SC -, Quinta Turma, DJe de 19/5/2015.)
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
