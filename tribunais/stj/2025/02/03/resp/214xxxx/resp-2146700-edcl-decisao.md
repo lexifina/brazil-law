@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PAULO ANTONIO FARIAS LUCENA contra a decisão de minha relatoria de fls. 311/313.
+A parte embargante alega que a decisão embargada é omissa com estes argumentos:
+(1) "A fundamentação do STF no julgamento do recurso extraordinário 1.385.105/GO, tem como base o Tema 350, de repercussão geral (RE nº 631.240/MG), na qual restou fixada a tese de que é necessária a existência de prévio requerimento administrativo para que haja interesse de agir do segurado em relação aos casos de direito previdenciário, especificamente em relação a concessão inicial de benefício previdenciário. Imprescindível, assim, colacionar o entendimento recente do Supremo Tribunal Federal no julgamento do recurso extraordinário 1.385.105/GO, o qual teve como base para a fundamentação o distinguishing com o Tema 350, de repercussão geral" (fl. 319);
+(2) "Apesar de expressamente combatido nas contrarrazões ao Recurso Especial, mais precisamente na (e-STJ Fl.297) houve omissão pela Corte Superior ao não se debruçar quanto a não prequestionamento da matéria civil da União antes de lançar Recurso Especial com a finalidade específica e expressa de prequestionamento para interposição do Recurso Especial, para suprir as exigências dos Súmulas 282 e 356 STF" (fl. 321); e
+(3) para fins de interposição de recurso extraordinário, há a necessidade de prequestionamento dos princípios constitucionais da inafastabilidade da jurisdição, do devido processo legal, do contraditório e da ampla defesa previstos no art. 5º, XXXV, LIV e L, da Constituição Federal.
+Requer que o recurso seja acolhido com efeitos infringentes.
+A parte adversa apresentou impugnação (fls. 451/454).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+A respeito da questão apontada no recurso ora examinado, a decisão embargada seguiu o entendimento jurisprudencial do Superior Tribunal de Justiça segundo o qual a falta de pedido administrativo de restituição do indébito tributário configura a inexistência de pretensão resistida, implicando ausência de interesse processual.
+Registro que houve prequestionamento implícito porque a questão controvertida foi debatida pelo Tribunal de origem, que exerceu juízo de valor sobre o dispositivo legal indicado, qual seja, o art. 485, VI e 3º, do CPC, interpretando-se sua incidência ou não ao caso concreto, e a tese recursal a ele vinculada encontra-se devidamente fundamentada, inclusive com precedentes jurisprudenciais favoráveis.
+Acerca da alegação de omissão no julgado porque não se teria enfrentado o argumento de violação do art. 5º, XXXV, LIV e L, da Constituição Federal, para o Superior Tribunal de Justiça não é devida a manifestação, na via do recurso especial, ainda que para fins de prequestionamento, a respeito de alegada violação a dispositivos da Constituição Federal conforme os comandos exarados dos arts. 102, III, e 105, III, da Constituição Federal.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
