@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA PARA FORNECIMENTO DE MEDICAMENTO. RÉUS SOLIDÁRIOS. RATEIO PROPORCIONAL DA VERBA HONORÁRIA. INTELIGÊNCIA DO ART. 87, § 2º, DO CPC. RAZÕES RECURSAIS QUE NÃO IMPUGNAM FUNDAMENTO SUFICIENTE DO ACÓRDÃO ATACADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Trata-se de Agravo em Recurso Especial interposto pela Defensoria Pública do Estado de Mato Grosso do Sul, contra a decisão que, na origem, inadmitiu o Especial pelo óbice da Súmula 7/STJ, por reputar que a pretensão de rever o percentual fixado para a sucumbência de dois réus solidários, assim como os limites objetivos e subjetivos da coisa julgada, esbarrariam na impossibilidade de rever fatos e provas, na via do recurso especial.
+O acórdão impugnado tem a seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL DA PARTE AUTORA - AÇÃO COMINATÓRIA - RETORNO DA VICE-PRESIDÊNCIA PARA JUÍZO DE RETRATAÇÃO - CONDENAÇÃO DO ESTADO AO PAGAMENTO DE HONORÁRIOS EM FAVOR DA DEFENSORIA PÚBLICA - POSSIBILIDADE - APLICAÇÃO DO TEMA N.º 1.002, DO STF - JUÍZO DE RETRATAÇÃO EXERCIDO - RECURSO DA DEFENSORIA PROVIDO. Consoante Tema n.º 1.002, do STF: "É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra".
+ Condenação do Estado de Mato Grosso do Sul ao pagamento de 50% dos honorários advocatícios arbitrados na sentença.
+Os Embargos de Declaração opostos foram rejeitados.
+Em suas razões, sustenta a recorrente que o Tribunal de origem reconheceu a solidariedade do Estado de MS ao pagamento dos honorários advocatícios fixados na sentença, (nessa, apenas o Município de Camapuã/MS havia sido condenado em honorários), e, por conseguinte, determinou a distribuição da referida verba, à razão de 50%, entre os litisconsortes passivos, sem que tivesse havido qualquer recurso por parte do Município, extrapolando, portanto, os limites do pedido, e maculando o princípio da devolutividade (princípio do tantum devolutum quantum appellatum).
+Defende que novo valor, de forma complementar, seja fixado para o Estado de MS, de forma que fique incólume o valor já fixado para os honorários do Município.
+Houve contrarrazões.
+É o relatório. Decido.
+O recurso não comporta conhecimento.
+Colho dos autos que a recorrente não impugna a aplicabilidade do art. 87, § 2º, do CPC, que foi expressamente declinado no voto condutor dos EDCL, que integraram o acórdão impugnado, para afastar a alegação de julgamento ultra petita, ou a ofensa ao princípio da devolutividade, e que é fundamento suficiente ao quanto decidido, o que atrai, por analogia, o óbice da Súmula 283/STF. Confiram-se estes excertos:
+No caso, o acórdão deu provimento ao recurso da parte autora, patrocinada pela Defensoria, para condenar o Estado de Mato Grosso do Sul ao pagamento de 50% dos honorários advocatícios arbitrados na sentença, observando o Tema n.º 1.002, do STF.
+A Defensoria sustentou que o rateio dos honorários entre os réus foi determinado sem que houvesse pedido nesse sentido, violando o princípio da devolutividade do recurso de apelação.
+Contudo, o fato de ter havido a divisão dos honorários entre os entes públicos (Município e Estado) não extrapola os limites da lide, na medida em que houve o atendimento do pedido feito na apelação da parte autora (condenação do Estado ao pagamento dos honorários), aplicando-se a regra de distribuição da sucumbência prevista no CPC:
+"Art. 87. Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários.
+§ 1º A sentença deverá distribuir entre os litisconsortes, de forma expressa, a responsabilidade proporcional pelo pagamento das verbas previstas no caput".
+A aplicação do texto legal independe de requerimento das partes e, ainda que nada fosse falado a respeito do rateio dos honorários, a divisão seria aplicada por força do § 2.º, do artigo 87 do CPC, segundo o qual:
+"Se a distribuição de que trata o § 1º não for feita, os vencidos responderão solidariamente pelas despesas e pelos honorários".
+Noutras palavras, o Tribunal a quo, ausente na sentença o rateio que se impunha na condenação dos dois réus solidários, aplicou a previsão do § 2º, do art. 87, do CPC/2015, ao mesmo tempo em que deu provimento ao pedido da recorrente de condenar em honorários, também, o Estado de MS. Não há mácula ao CPC que deva ser reparada.
+Anote-se que também vem da jurisprudência deste STJ que a verba honorária é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. PLURALIDADE DE VENCIDOS E DE VENCEDORES. RATEIO DA VERBA SUCUMBENCIAL. ART. 87 DO CPC.
+1. Nos termos do art. 87 do CPC: a) havendo mais de um integrante no polo ativo, o valor fixado a título de honorários será distribuído proporcionalmente entre os vencidos no termos em que determinado na sentença ou, no silêncio desta, de forma solidária; b) o valor dos honorários será rateado pelos integrantes do litisconsórcio vencedor. Em outras palavras, a regra do rateio na distribuição dos ônus sucumbenciais se aplica tanto à pluralidade de autores quanto à de réus, tendo em vista que tal verba é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos. Precedentes  AREsp n. 1.711.300, Ministra Maria Isabel Gallotti, DJe de 09/10/2020 .
+2. Embargos de declaração parcialmente acolhidos sem efeitos
+infringentes.
+( EDcl nos EDcl na DESIS no AgInt na Rcl nº 37.445/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 18/5/2021, DJe de 25/5/2021)
+Por fim, no mesmo sentido do AREs p em análise, para caso da mesma Defensoria Pública de MS, representando outra parte, contra o mesmo Estado do MS, sobre a mesma matéria, AREsp n. 2.763.157, Ministro Gurgel de Faria, DJE de 23/12/2024.
+Do exposto, conheço do Agravo, para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
