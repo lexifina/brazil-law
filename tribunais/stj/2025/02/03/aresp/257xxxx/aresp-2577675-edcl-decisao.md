@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por C. CASAGRANDE & CIA LTDA contra a decisão de minha relatoria de fls. 679/683.
+A parte embargante alega que há erro material na decisão embargada, com estes argumentos:
+(1) "Conforme se verifica em trecho extraído da decisão ora embargada (abaixo), restou afirmado, por engano, que o presente feito estaria discutindo a exclusão de valores de ISS da base de cálculo do PIS e da Cofins, o que, como bem se sabe, não é o caso" (fl. 687); e
+(2) "o presente feito trata da exclusão de benefícios fiscais de ICMS da base de cálculo do IRPJ e da CSLL, sem a necessidade de cumprimento dos requisitos previstos no artigo 30 da Lei nº 12.973/2014 " (fl. 688).
+Requer que o recurso seja acolhido.
+A parte adversa não apresentou impugnação (fl. 698).
+É o relatório.
+O art. 1.022 do Código de Processo Civil estabelece que os embargos de declaração são oponíveis a toda decisão quando for necessário esclarecer obscuridade, eliminar contradição ou suprir omissão sobre questão essencial ao deslinde da controvérsia, provocada pela parte ou a respeito da qual deveria haver pronunciamento de ofício, e, por fim, para corrigir eventual erro material.
+A parte embargante tem razão, há vício na decisão embargada, pois constou do relatório da decisão ora embargada a transcrição da ementa do acórdão proferido em apelação, fazendo referência à exclusão do Imposto Sobre Serviços de Qualquer Natureza (ISSQN) da base de cálculo das contribuições para o Programa de Integração Social (PIS) e Contribuição para o Financiamento da Seguridade Social (COFINS), tema diverso daquele objeto da presente demanda.
+Contudo, esclareço que os fundamentos do acórdão de origem e aqueles adotados pela decisão ora embargada enfrentaram a controvérsia objeto da lide, qual seja, a exclusão dos créditos presumidos de Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) da base de cálculo do Imposto de Renda Pessoa Jurídica (IRPJ) e Contribuição Social sobre o Lucro Líquido (CSLL) sem o atendimento das condições estabelecidas no art. 30 da Lei 12.973/2014, com as alterações da Lei Complementar 160/2017.
+Logo, após os devidos esclarecimentos, mantenho a fundamentação da decisão embargada, visto que não houve impugnação da Fazenda Nacional quanto à parte da decisão agravada que manteve o acórdão de origem no ponto em que reconheceu que "a vigência da LC 160/2017 não limita a aplicação do preceito estabelecido pelo Superior Tribunal de Justiça no REsp 1517492 de que os créditos presumidos de ICMS não devem ser computados na base de cálculo do IRPJ ou da CSLL" (fl. 298).
+Ante o exposto, acolho os embargos de declaração apenas para corrigir o relatório da decisão de fls. 679/683, fazendo constar que o tema decidido pelo Tribunal de origem refere-se à exclusão dos créditos presumidos de ICMS da base de cálculo do IRPJ e da CSLL após a entrada em vigor da Lei Complementar 160/2017.
+Publique-se. Intimem-se.
+EMENTA
