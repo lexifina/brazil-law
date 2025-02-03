@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 376):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIA. PRAZO. INTIMAÇÃO PESSOAL DA GERÊNCIA EXECUTIVA DO INSS. DESNECESSIDADE.
+1. É desnecessária é a intimação da gerência executiva do INSS para implantar benefício previdenciário deferido judicialmente, bastando a intimação do procurador federal que representa a autarquia em juízo. Precedentes do STJ e desta Corte.
+Os embargos de declaração opostos foram rejeitados (fl. 399).
+Em suas razões recursais, a parte recorrente aponta ofensa ao art. 1.022, II, do Código de Processo Civil (CPC), pois "não foi apreciada pela Corte Regional a tese levantada pela autarquia previdenciária acerca da impossibilidade de cobrança de multa diária por descumprimento de obrigação de fazer, quando ausente intimação pessoal do Gerente Executivo do INSS para cumprimento" (fl. 413).
+Alega também a violação aos arts. 815 e 927, IV, do Código de Processo Civil, porque seria incabível a cobrança da multa por descumprimento da obrigação de fazer quando ausente a intimação pessoal do devedor para cumprimento:
+"É necessária a intimação pessoal do devedor para cobrança da multa, na medida em que, de acordo com o art. 815 do CPC, na execução de obrigação de fazer, o executado será citado para satisfazê-la no prazo que o juiz lhe designar, não sendo suficiente, portanto, a intimação do representante judicial, que não possui poderes para cumprir a obrigação" (fl. 413).
+Requer que "seja o recurso conhecido e provido, a fim de que seja afastada a cobrança da multa diária pelo descumprimento da obrigação de fazer" (fl. 415).
+A parte adversa apresentou contrarrazões (fls. 421/424).
+O recurso foi admitido na origem (fl. 427).
+É o relatório.
+Esta Corte perfilha o entendimento de que a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, nos moldes do enunciado 410 de sua Súmula, não sendo suficiente, pois, a intimação realizada na pessoa do patrono da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. MULTA. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. SÚMULA 410/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer" (Súmula 410/STJ). Dessa forma, a intimação do patrono da parte não supre tal necessidade.
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.024.361/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AÇÃO ORDINÁRIA. APOSENTADORIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 410/STJ. DECISÃO RECORRIDA ESTA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de ação ordinária ajuizada contra o Instituto Nacional do Seguro Social - INSS, objetivando concessão do benefício de aposentadoria por invalidez ou, sucessivamente, de auxílio-doença, com pedido de tutela antecipada. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi parcialmente reformada para alterar a data de implantação do benefício.
+II - Verifica-se que o acórdão recorrido está em dissonância com o entendimento do Superior Tribunal de Justiça, o qual é firme no sentido de que é indispensável a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, nos termos da Súmula n. 410/STJ, cujo teor permanece hígido mesmo após a entrada em vigor do CPC/2015. Nesse contexto, a intimação do patrono da parte não supre essa necessidade.
+III - Esta Corte Superior de Justiça possui entendimento sumulado reconhecendo que "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer" (enunciado da Súmula n. 410 do STJ), ao passo que o e-mail enviado ao executado não substitui a intimação pessoal a ser realizada pelo judiciário" (AgInt no AREsp 1.470.751/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 30.9.2019.)
+IV - Ainda nesse diapasão: AgInt no REsp n. 1.965.390/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/6/2022; AgInt no AREsp n. 1.849.410/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022; e AgRg no Ag n. 988.734/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/6/2010, DJe de 18/6/2010.
+V - Agravo interno improvido.
+(AgInt no REsp n. 2.018.055/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER, COM COMINAÇÃO DE ASTREINTES. NECESSIDADE DE INTIMAÇÃO PESSOAL DO EXECUTADO. SÚMULA 410 DO STJ.
+1. "É necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil" (EREsp 1.360.577/MG, Rel. Ministro Humberto Martins, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 7.3.2019).
+2. "Esta Corte Superior de Justiça possui entendimento sumulado reconhecendo que "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer" (enunciado da Súmula 410 do STJ), ao passo que o e-mail enviado à executado não substitui a intimação pessoal a ser realizada pelo judiciário" (AgInt no AREsp 1.470.751/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 30.9.2019)
+3. Agravo Interno não provido.
+(AgInt no REsp n. 1.965.390/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. COBRANÇA DE ASTREINTES. INTIMAÇÃO DO DEVEDOR. INDISPENSABILIDADE. SÚMULA N. 410/STJ. INTIMAÇÃO PARA CUMPRIMENTO DA DECISÃO EXEQUENDA. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - É indispensável a prévia intimação do devedor para a cobrança de astreintes, seja a obrigação de fazer anterior ou posterior à edição da Lei n. 11.232/2005, permanecendo válido o enunciado da Súmula n. 410/STJ. Precedente da Corte Especial.
+III - In casu, rever o entendimento do tribunal de origem, o qual consignou que a parte executada foi devidamente intimada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.824.830/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/12/2019, DJe de 18/12/2019.)
+No caso em exame, ao decidir que, para a incidência da multa diária, bastava a intimação do procurador autárquico, o Tribunal de origem o fez em descompasso com o entendimento firmado no âmbito desta Corte, impondo-se, assim, a reforma da decisão proferida.
+No mesmo sentido, em processos análogos ao presente, monocraticamente: (1) AREsp 2.564.356/RS, relator Ministro Afrânio Vilela, DJe de 5/8/2024; (2) AREsp 2.579.649/RS, relator Ministro Teodoro Silva Santos, DJe de 2/7/2024; (3) REsp 2.120.293/PE, relator Ministro Benedito Gonçalves, DJe de 25/6/2024; (4) AREsp 2.080.034/RS, relator Ministro Benedito Gonçalves, DJe de 2/5/2024; (5) REsp 2.064.372/PR, relator Ministro Mauro Campbell Marques, DJe de 19/5/2023; (6) REsp 2.053.055/SC, relatora Ministra Assusete Magalhães, DJe de 27/3/2023; (7) REsp 2.018.981/PR, relator Ministro Sérgio Kukina, DJe de 3/2/2023, entre outros.
+Ante o exposto, dou p rovimento ao recurso especial, de modo a afastar a cobrança da multa diária pelo descumprimento da obrigação de fazer, ante a ausência de prévia intimação pessoal da autarquia previdenciária.
+Prejudicado o exame da alegada ofensa ao art. 1.022, II, do Código de Processo Civil (CPC).
+Publique-se. Intimem-se.
+ EMENTA
