@@ -1,0 +1,23 @@
+DECISÃO
+O presente writ, impetrado em benefício de JACKSON ABREU VIEIRA - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Processo n. 5009431-66.2019.8.21.0027), comporta parcial acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 3ª Vara Criminal da comarca de Santa Maria/RS (Ação Penal n. 5009431-66.2019.8.21.0027), ao argumento de que o julgador toma para si uma situação em que a fração de diminuição da pena somente não foi maior por dois motivos: o alto poder viciante da droga encontrada (crack), e o fato de o acusado responder a outro processo criminal. Ocorre que, ambas as justificativas não encontram respaldo legal, doutrinário e sequer jurisprudencial (fl. 5).
+Requer, ao final, o conhecimento do presente mandamus para fins de aumentar o quantum de fração da redução da pena do acusado em relação ao art. 33 da Lei de Drogas (Tráfico Privilegiado), em sua aplicação máxima (2/3 da pena total) - (fl. 8).
+De fato, em que pese o writ substitutivo de revisão criminal tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência do ilegal constrangimento.
+O Magistrado singular, corroborado pelo Tribunal de origem, considerando a natureza da droga apreendida (art. 42 da Lei n. 11.343/2006) e o fato de responder a outra ação penal em andamento por fato análogo, o que é vedado (Súmula 444/STJ), modulou a redução na terceira fase da dosimetria em relação ao tráfico privilegiado, fixando o patamar de 1/6 para a minorante.
+No entanto, no caso concreto, a quantidade do entorpecente confiscado (49 g de crack), conquanto não seja inexpressiva e justifique a exasperação, permite maior de redução do que aquela fixada pelas instâncias ordinárias, conforme precedentes desta Corte .
+A propósito:
+ ..
+3. A Terceira Seção desta Corte Superior aperfeiçoou o entendimento anteriormente exarado no julgamento do REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), passando a adotar o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria. (AgRg no HC n. 924.373/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/9/2024, DJe 12/9/2024).
+4. Hipótese na qual considerei a natureza e a variedade das drogas apreendidas (30,1 g de maconha, 12,4 g de cocaína, 4,1 g de crack e 12 comprimidos de ecstasy), exclusivamente, na terceira etapa da dosimetria da pena, para fazer incidir a minorante em 1/2, o que não se mostra desproporcional.
+ ..
+(AgRg no HC n. 810.587/SC, da minha relatoria, Sexta Turma, DJe 6/11/2024 - grifo nosso).
+Redimensionando-se a reprimenda imposta, temos:
+Fixada a pena-base no mínimo legal, fica a reprimenda provisoriamente fixada em 5 anos de reclusão e 500 dias-multa. Na segunda etapa, ausentes agravantes e atenuantes. Na terceira etapa, altero o patamar de redução para 1/2 em relação ao tráfico privilegiado (art. 33, § 4º, Lei n. 11.343/2006), resultando a pena em 2 anos e 6 meses de redução, e 250 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+O regime inicial de cumprimento de pena será o fixado pelas instâncias ordinárias (semiaberto), em razão do concurso material de crimes.
+Em face do exposto, concedo parcialmente a ordem impetrada, apenas para aumentar o quantum de redução em relação ao tráfico privilegiado (de 1/6 para 1/2), resultando a reprimenda definitiva do tráfico de drogas em 2 anos e 6 meses de reclusão, e 250 dias-multa, mantidas as demais determinações da sentença (Ação Penal n. 5009431-66.2019.8.21.0027, 3ª Vara Criminal da comarca de Santa Maria/RS).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. QUANTUM DE REDUÇÃO PARA O TRÁFICO PRIVILEGIADO (1/6). NATUREZA E QUANTIDADE DE DROGA APREENDIDA (49 G DE CRACK). CASO CONCRETO QUE PERMITE REDUÇÃO MAIOR. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem parcialmente concedida.
