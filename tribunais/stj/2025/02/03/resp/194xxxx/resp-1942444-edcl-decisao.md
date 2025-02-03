@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE contra a decisão de minha relatoria de fls. 294/300.
+A parte recorrente alega o seguinte:
+"A decisão ora embargada conheceu em parte do recurso especial interposto pela UFRN contra acórdão do TRF/5ª Região que reconheceu a decadência do direito de a Administração realizar a supressão das horas-extras na remuneração da autora e, nessa extensão, negou-lhe provimento.
+Omitiu-se, contudo, quanto ao fato de que a Presidência do c. Supremo Tribunal Federal recebeu como representativo de controvérsia o Recurso Extraordinário nº 1.419.890, delimitando a seguinte tese controvertida (Tema Repetitivo nº 1276): "Possibilidade de, em decorrência da autotutela administrativa, efetivar-se a supressão de vantagem pessoal, de trato sucessivo, incorporada por erro da Administração aos proventos de servidora pública há mais de cinco anos."
+ ..
+Com esses fundamentos e diante da natureza e abrangência da questão a ser resolvida nestes autos, faz-se mister adotar o procedimento dos artigos 1.036, § 1º, c/c 1.037, II, do Código de Processo Civil de 2015, e suspender todos os processos, individuais ou coletivos, em trâmite no território nacional que tratem dessa mesma matéria, dentre os quais o presente feito, a fim de preservar a segurança jurídica, a estabilização da jurisprudência, a isonomia e a economia processual.
+Portanto, requer-se a suspensão do presente processo até o julgamento definitivo do Tema nº 1276 pelo Supremo Tribunal Federal" (fls. 305/306).
+Requer que o recurso seja acolhido com efeitos infringentes.
+A parte adversa apresentou impugnação (fls. 317/319).
+É o relatório.
+A parte ora embargante aponta omissão em relação à determinação de sobrestamento dos processos que guardem relação com o Tema 1.276/STF.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Não há na decisão embargada vícios de omissão, contradição, obscuridade ou erro material; o recurso integrativo não se presta para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+O cerne da controvérsia é verificar se a administração pode suprimir "vantagem pessoal garantida por sentença transitada em julgado" (fl. 177).
+Cito abaixo trechos do acórdão recorrido (fls. 176/177):
+"A determinação de suspensão do pagamento pela UFRN é lastreada no Acórdão nº 1892/2019-TCU - 1ª Câmara do Tribunal de Contas da União e ratificado pelo Ministério do Planejamento, Orçamento e Gestão, que determinou que os valores recebidos a título de horas extras deixassem de ser pagos em razão da sua evidente ilegalidade.
+A parte autora vem recebendo a referida rubrica, amparada por decisão transitada em julgado, nos autos do Mandado de Segurança Coletivo nº 0012053-62.1997.4.05.8400, que transitou em julgado no dia 27 de abril de 2005, quando o Supremo Tribunal Federal negou seguimento ao Recurso Extraordinário da UFRN, confirmando a sentença proferida na primeira instância, não podendo ser suprimida sob pena de violação à coisa julgada.
+Ademais o STJ vem julgando no sentido de que a incorporação das horas-extras com alteração na forma de cálculo consiste em ato comissivo único e de efeitos permanentes, incidindo na hipótese o prazo decadencial de 5 (cinco) anos, conforme dispõe o art. 54, da Lei 9.784/1999, ainda que a discussão seja sobre os critérios de cálculos e atualização de horas-extras incorporadas por força de decisão judicial transitada em julgado.
+Ainda, este Egrégio Tribunal já decidiu, em recente julgamento envolvendo a supressão de vantagem pessoal garantida por sentença transitada em julgado que "Não cabe ao Tribunal de Contas da União, depois de tantos anos, e após já consolidada a situação, excluir a verba dos contracheques da parte autora, por ocasião da homologação de sua aposentadoria. Pensar dessa forma seria abrir a possibilidade de a Corte de Contas rever qualquer situação consolidada em face do tempo, contra decisão judicial baseada em lei expressa e sem declaração de inconstitucionalidade, violando a segurança jurídica, ora representada pelo instituto da decadência. Assim, não há como admitir a determinação de exclusão da verba incorporada depois de tanto tempo sem ferir o princípio da segurança jurídica, postulado do Estado de Direito, e sem ofender o direito adquirido do servidor e a coisa julgada". (TRF 5, Processo: 08133879720174058400, Desembargador Federal Rogério Fialho Moreira, 3ª Turma, Julgamento: 31/08/2018)".
+Todavia, o Tema 1.276/STF diz respeito à "possibilidade de, em decorrência da autotutela administrativa, efetivar-se a supressão de vantagem pessoal, de trato sucessivo, incorporada por erro da Administração aos proventos de servidora pública há mais de cinco anos".
+Assim, não há que se falar em omissão em relação ao Tema 1.276/STF.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
