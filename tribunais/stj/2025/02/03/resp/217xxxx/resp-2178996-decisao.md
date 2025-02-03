@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 07/06/2024.
+Concluso ao gabinete em: 02/12/2024.
+Ação: de obrigação de fazer, ajuizada por A C C P, em face da recorrente, na qual requer o custeio de órtese craniana para deformidade tipo Plagiocefalia/ Braquicefalia/ CID Q67.3, a menor portador de Síndrome de Down.
+Sentença: julgou procedente o pedido para que a recorrente autorize/forneça e custeie o tratamento com órtese craniana e consultas de fisioterapia para ajuste da órtese ao autor, mediante assistência de profissionais de sua rede credenciada, ou regime de integral reembolso (caso não haja habilitados em seu quadro de atendimento).
+Acórdão: negaram provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. Plano de saúde. Tratamento médico. Órtese craniana para plagiocefalia/braquicefalia de criança diagnosticada com Síndrome de Down. Insurgência contra sentença de procedência. Descabimento. Ausência do rol da ANS que não obsta a cobertura do tratamento, dada sua reconhecida eficácia científica. Órtese que é substituta de tratamento neurocirúrgico mais gravoso. Cobertura devida. Precedentes do C. STJ e desta C. Câmara. Súmula vinculante n. 10. Inaplicabilidade ao caso. Recurso desprovido.
+Recurso especial: alega violação dos arts. 10, VII e § 4º, da Lei 9.656/98, e 421 e 422 do CC, bem como dissídio jurisprudencial. Sustenta a impossibilidade de custear órtese não ligada à ato cirúrgico bem como fora do rol da ANS.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Sady d"Assumpção Torres Filho, opina pelo não provimento do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+Esta Corte Superior de Justiça firmou entendimento no sentido de que embora legítima, como regra, a exclusão de cobertura de órtese não ligada a ato cirúrgico, conforme a previsão da lei, no caso de plagiocefalia posicional, a não utilização da órtese causaria a necessidade posterior de tratamento cirúrgico, mais custoso ao plano de saúde e danoso ao paciente, ao qual estaria obrigado o plano de saúde a custear.
+Desse modo, é abusiva a recusa de tratamento com órtese que preventiva de futura necessária cirurgia.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ÓRTESE CRANIANA SUBSTITUTIVA DE CIRURGIA. OBRIGATORIEDADE DE CUSTEIO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte Superior, "a cobertura da órtese craniana indicada para o tratamento de braquicefalia e plagiocefalia posicional não encontra obstáculo nos artigos 10, VII, da Lei n. 9.656/98 e 20, §1º, VII da Resolução Normativa 428/2017 da ANS (atual 17, VII, da RN 465/2021), visto que, apesar de não estar ligada ao ato cirúrgico propriamente dito, sua utilização destina-se a evitar a realização de cirurgia futura para correção da deformidade, evitando consequências funcionais negativas em recém-nascidos e crianças" (REsp n. 1.893.445/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/4/2023, DJe de 4/5/2023).
+2. Agravo interno desprovido.
+(AgInt no REsp 2.096.830/RJ, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ÓRTESE CRANIANA SUBSTITUTIVA DE NEUROCIRURGIA FUTURA. OBRIGATORIEDADE DE CUSTEIO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte tem entendimento de que "a lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia" (REsp 1.731.762/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 28/5/2018).
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a cobertura da órtese craniana indicada para o tratamento de braquicefalia e plagiocefalia posicional não encontra obstáculo nos artigos 10, VII, da Lei n. 9.656/98 e 20, §1º, VII da Resolução Normativa 428/2017 da ANS (atual 17, VII, da RN 465/2021, visto que, apesar de não estar ligada ao ato cirúrgico propriamente dito, sua utilização destina-se a evitar a realização de cirurgia futura para correção da deformidade, evitando consequências funcionais negativas em recém-nascidos e crianças" (REsp 1.893.445/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/4/2023, DJe de 4/5/2023).
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.925.510/DF, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023)
+Ainda nesse sentido: AgInt no REsp 1.988.642/DF, 3ª Turma, DJe de 17/11/2022; REsp 2.045.763/SP, 3ª Turma, DJe de 03/02/2023; REsp 2.058.009/SP, 3ª Turma, DJe de 31/03/2023; AgInt no REsp n. 1.925.510/DF, 4ª Turma, DJe de 1/12/2023; AgInt no REsp n. 2.107.612/SP, 4ª Turma, DJe de 2/5/2024; AgInt no REsp n. 2.111.676/SP, 3ª Turma, DJe de 5/6/2024.
+Tem-se, assim, que o acórdão recorrido, ao entender pela manutenção da sentença que determinou o custeio do tratamento, com aquisição de órtese craniana (e-STJ, fls. 423/436), encontra-se em consonância com a jurisprudência desta Corte Superior de Justiça. Aplica-se, portanto, a Súmula 568/STJ no particular.
+- Da existência de fundamento não impugnado
+Quanto à alegação de que se trata de procedimento que não consta do rol de procedimentos obrigatórios da ANS, a recorrente não impugnou o seguinte fundamento utilizado pelo TJ/SP (e-STJ fl. 429):
+Ainda que se reconheça que o rol da ANS é taxativo, a redação dada ao art. 1º da Lei nº 9.656/1998 pela Lei nº 14.454/2022 reconheceu que:
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que: I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais." (NR)
+Há evidências científicas e notas técnicas emitidas em casos análogos a justificarem e confirmarem a concessão da tutela pretendida (vide Notas Técnicas n. 47.269 e 50.716 NatJus/CNJ).
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fls. 435) para 17% (dezessete por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ÓRTESE CRANIANA PARA TRATAMENTO DE PLAGIOCEFALIA E BRAQUICEFALIA ASSIMÉTRICAS POSICIONIAIS. RECUSA DE COBERTURA INDEVIDA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de obrigação de fazer, fundada na indevida negativa de cobertura de órtese craniana para tratamento de plagiocefalia e braquicefalia.
+2. É abusiva a recusa de tratamento com órtese que substitui futura cirurgia. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
