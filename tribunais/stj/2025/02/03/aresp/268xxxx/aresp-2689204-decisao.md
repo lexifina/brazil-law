@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MAISA VIEIRA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: declaratória de inexistência de débito c/c compensação por danos morais ajuizada pela agravante em face de SOCIEDADE DE EDUCACAO SUPERIOR E CULTURA BRASIL S.A.
+Acórdão: deu provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa (e-STJ, fls. 520):
+CIVIL - PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - COBRANÇA INDEVIDA - ABALO MORAL - CASO CONCRETO - CONFIGURAÇÃO 1 Em se tratando de relação de consumo ocorre a inversão do ônus da prova em favor do usuário do serviço ou adquirente do produto. Logo, havendo alegação de cobrança indevida de valores, cabe à instituição prestadora dos serviços comprovar a regularidade de sua conduta. A cobrança indevida pela instituição de ensino de mensalidades adimplidas pelo consumidor junto ao sistema de financiamento estudantil, durante meses e que ensejaram não só impactos na efetivação da rematrícula, mas também o envio de comunicados ameaçando a abertura de cadastro restritivo de crédito, revela descaso na gestão das cobranças, ultrapassando o limite da normalidade e dando azo ao pleito de indenização por danos morais. 2 O descumprimento do contrato em regra, por si só, não tem o condão de gerar direito à indenização por dano moral. No entanto, o sentimento de desamparo e humilhação do consumidor, consequentes do descaso e desrespeito do fornecedor, traduz-se em componente que ultrapassa o mero incômodo ou aborrecimento do cotidiano, autorizando a reparação pelo abalo anímico. 3 Na fixação do valor dos danos morais deve o julgador, na falta de critérios objetivos, estabelecer o quantum indenizatório com prudência, de modo que sejam atendidas as peculiaridades e a repercussão econômica da reparação, devendo esta guardar proporcionalidade com o grau de culpa e o gravame sofrido.
+Decisão de admissibilidade do TJ/SC: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional;
+ii) incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante defende a não incidência da Súmula 7/STJ, bem como que realizou o devido cotejo analítico e demonstrou a similitude fática na divergência jurisprudencal apontada. Requer, assim, o conhecimento e provimento do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional;
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
