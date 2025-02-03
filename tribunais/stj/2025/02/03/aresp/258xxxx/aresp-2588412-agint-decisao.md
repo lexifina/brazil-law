@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto pela CAIXA SEGURADORA S/A da decisão da Presidência do Superior Tribunal de Justiça de fls. 2.769/2.771.
+O recurso especial foi interposto, com fundamento no art. 105,  inciso III, alíneas a e c,  da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 2.302):
+PROCESSUAL CIVIL - SEGURO HABITACIONAL - IMÓVEIS POPULARES - INDENIZAÇÃO POR VÍCIOS CONSTRUTIVOS - SENTENÇA DE PARCIAL PROCEDÊNCIA EM 1º GRAU - INCONFORMISMO DE AMBAS AS PARTES - RECURSO DA SEGURADORA RÉ - 1. ILEGITIMIDADE PASSIVA AD CAUSAM - DANOS IMOBILIÁRIOS - RESPONSABILIDADE DO CONSTRUTOR - MATÉRIA DE MÉRITO - AFASTAMENTO - 2. ILEGITIMIDADE ATIVA AD CAUSAM - COMPROVAÇÃO DE MUTUÁRIO AUSENTE - CONTRATO DE COMPRA E VENDA - SUB-ROGAÇÃO DE DIREITOS - PRELIMINAR REPELIDA - 3. CARÊNCIA DE AÇÃO - QUITAÇÃO DO CONTRATO DE FINANCIAMENTO - IRRELEVÂNCIA - DANOS QUE SURGIRAM NA VIGÊNCIA DA APÓLICE E DO CONTRATO DE FINANCIAMENTO - PRELIMINAR AFASTADA - 4. AUSÊNCIA DE COBERTURA SECURITÁRIA PARA VÍCIOS DE CONSTRUÇÃO - CLÁUSULA ABUSIVA - INDENIZAÇÃO DEVIDA POR VÍCIOS CONSTRUTIVOS QUE NÃO SEJAM ORIUNDOS DE ATOS PRATICADOS PELO PRÓPRIO SEGURADO OU POR USO E DESGASTE NATURAL - PRECEDENTES DA CORTE SUPERIOR - COBERTURA DEVIDA - OBRIGAÇÃO SECURITÁRIA PATENTEADA - 5. MULTA DECENDIAL - APLICABILIDADE - PREVISÃO CONTRATUAL - 6. HONORÁRIOS ADVOCATÍCIOS - RECURSO DOS AUTORES - PLEITO DE MAJORAÇÃO - INACOLHIMENTO - VERBA ADEQUADA E SUFICIENTE PARA REMUNERAR O TRABALHO DO PATRONO VENCEDOR - RECURSOS CONHECIDOS E DESPROVIDOS. 1. Afasta-se preliminar de ilegitimidade passiva ad causam de seguradora quando a tese suscitada, de responsabilidade civil do construtor, é matéria de mérito. 2. É parte legítima ativa ad causam aquele que adquire, de boa-fé, imóvel segurado através de contrato de compra e venda, tendo interesse e legitimidade para pleitear indenização securitária, em consequência da sub-rogação de direitos e obrigações. 3. Comprovados que os danos ocorridos nos imóveis surgiram quando o contrato securitário tinha como agente securitário a requerida, permanece a obrigação desta em arcar com os danos apontados na perícia técnica. 4. Os vícios construtivos devem ser cobertos pelo seguro habitacional, ainda que não haja risco de desmoronamento parcial/total, só se eximindo a seguradora de indeniza-los quando os riscos resultarem de atos praticados pelo próprio segurado ou pelo uso e desgaste natural e esperado do imóvel. 5. Constatada a mora da seguradora, incide multa cominatória contratualmente estabelecida. 6. Se a verba honorária está adequada ao que exige o zelo profissional demonstrado no trabalho do advogado, o tempo por ele despendido para o serviço e o valor da causa, inacolhe-se o pedido de majoração.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação aos arts. 17, 18, 485, IV e VI, e 1.022 do Código de Processo Civil (CPC), assim como aos arts. 206, § 1º, II, 445, 458, 757, 760, 771 e 784 do Código Civil, aos arts. 2º e 6º do Código de Defesa do Consumidor (CDC) e ao art. 1º da Lei 12.409/2011.
+Sustenta, em síntese, que:
+a) a competência para o processo de julgamento do feito é da Justiça Federal;
+b) não deve ser condenada a pagar multa decendial em favor da parte adversa;
+c) o contrato de seguro está extinto, e, portanto, a parte recorrida carece de interesse de agir;
+d) a pretensão deduzida encontra-se fulminada pela prescrição;
+e) os vícios construtivos não se encontram cobertos na apólice do seguro contratado.
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 2.638/2.663).
+O recurso não foi admitido, razão por que foi interposto agravo em recurso especial.
+Às fls. 2.769/2.771, a Presidência não conheceu do agravo em recurso especial.
+Contra essa decisão foi interposto o agravo interno ora examinado, no qual a parte agravante afirma que sobre o conhecimento do seu recurso não incide o óbice da Súmula 182 do Superior Tribunal de Justiça (STJ).
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 2.794/2.808).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Uma das questões debatidas nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça (STJ) para ser decidida sob o rito de recursos repetitivos (Tema 1.301), e foi assim delimitada:
+"Possibilidade, ou não, de se excluir da cobertura securitária os danos decorrentes de vícios construtivos em imóveis financiados no âmbito do Sistema Financeiro de Habitação e vinculados ao FCVS" (REsp 2.178.751/PR e REsp 2.179.119/PR, relator Ministro Sérgio Kukina).
+Ademais, outra das questões foi afetada à Corte Especial do STJ (Tema 1.039), assim delimitada:
+"Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" (REsp 1.799.288/PR e REsp 1.803.225/PR, relatora Ministra Maria Isabel Gallotti).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação dos acórdãos dos recursos representativos das controvérsias, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
