@@ -1,0 +1,53 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.EMBARGOS DE DECLARAÇÃO CRIMINAL 0700222-06.2024.8.07.0004EMBARGANTE(S)LUCAS COSTA LOPESEMBARGADO(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSRelatoraJuiza MARGARETH CRISTINA BECKER
+ Acórdão Nº1963882
+
+EMENTA
+
+Ementa: JUIZADO ESPECIAL CRIMINAL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. OMISSÃO INEXISTENTE. VEDAÇÃO DE INOVAÇÃO DE TESE. PREQUESTIONAMENTO. EMBARGOS CONHECIDOS E REJEITADOS.
+
+I. CASO EM EXAME
+
+1. Embargos de declaração opostos pelo réu, no pressuposto de que o acórdão nº 1937284 foi omisso, no tocante à possibilidade de fixação do regime aberto para o acusado. A procuradoria de justiça oficiou pelo desprovimento dos embargos.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em analisar a omissão apontada.
+
+III. RAZÕES DE DECIDIR
+
+3. A omissão é a ausência de abordagem sobre questão debatida nos autos e necessária para a formação do silogismo. Ou seja, a omissão no julgamento é caracterizada quando ausente a análise de determinada pretensão ou a falta de fundamento jurídico apto para fundamentar a decisão final.
+
+4. No caso, a tese alegada pelo embargante sequer foi indicada no recurso interposto, evidenciando que não se trata de omissão, mas de pretensão de inovar, indevidamente, em sede de embargos. No mesmo sentido: (Acórdão 1618295, 07253096920218070003, Relator: RITA DE CÁSSIA DE CERQUEIRA LIMA ROCHA, Primeira Turma Recursal, data de julgamento: 16/9/2022, publicado no PJe: 2/10/2022. Pág.: Sem Página Cadastrada).
+
+5. No tocante ao prequestionamento, deve ser aplicado o ENUNCIADO 125, do FONAJE, que dispõe: "Nos juizados especiais, não são cabíveis embargos declaratórios contra acórdão ou súmula na hipótese do art. 46 da Lei nº 9.099/1995, com finalidade exclusiva de prequestionamento, para fins de interposição de recurso extraordinário."
+
+6. Por conseguinte, a pretensão do embargante não encontra respaldo no art. 83, da Lei n.º 9.099/95.
+
+IV.DISPOSITIVO
+
+7. Embargos conhecidos e rejeitados.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARGARETH CRISTINA BECKER - Relatora, EDI MARIA COUTINHO BIZZI - 1º Vogal e DANIEL FELIPE MACHADO - 2º Vogal, sob a Presidência do Senhor Juiz MARCO ANTONIO DO AMARAL, em proferir a seguinte decisão: EMBARGOS CONHECIDOS. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Fevereiro de 2025
+
+Juíza MARGARETH CRISTINA BECKERRelatora
+
+RELATÓRIO
+
+Dispensado o relatório. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza MARGARETH CRISTINA BECKER - RelatoraDispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza EDI MARIA COUTINHO BIZZI - 1º Vogal Com o relatorO Senhor Juiz DANIEL FELIPE MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+EMBARGOS CONHECIDOS. REJEITADOS. UNÂNIME.
