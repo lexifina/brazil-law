@@ -1,0 +1,54 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO DO BRASIL SA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/04/2023.
+Concluso ao gabinete em: 06/12/2024.
+Ação: de cancelamento de hipoteca c/c indenização por danos morais.
+Sentença: julgou parcialmente procedente o pedido, para (e-STJ fl. 432):
+CONDENAR as requeridas à liberação definitiva da hipoteca sobre os imóveis indicados na inicial, no prazo de 5 dias, sob pena de adjudicação compulsória, fixando multa diária de R$1.000,00 por descumprimento , limitada a R$30.000,00.
+Condeno as requeridas, ao pagamento das custas processuais (na proporção de 40% para cada) e dos honorários que fixo, nos termos do artigo 85, §§ 2o e 8o, do Código de Processo Civil, em R$50.000,00 (cinquenta mil reais) (cinquenta mil reais), observada a natureza da lide, o grau de zelo do profissional, o local da prestação do serviço e o tempo despendido na demanda.
+Condeno a requerente ao pagamento das custas processuais (na proporção de 20%) e dos honorários advocatícios da parte adversa que fixo, nos termos do artigo 85, §2º, do Código de Processo Civil, em 10% sobre o valor do pleito de indenização por danos morais, correspondente ao proveito econômico obtido pelas requeridas .
+Acórdão: do TJ/PR negou provimento aos recurso de apelação interpostos por FLOYD EMPREENDIMENTOS IMOBILIARIOS S/A EM RECUPERAÇÃO JUDICIAL, BANCO DO BRASIL SA, ELIANE LISSONI, ora agravantes, nos termos da seguinte ementa (e-STJ fls. 922/940):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE CANCELAR HIPOTECA, CUMULADA COM INDENIZAÇÃO POR DANO MORAL JULGADA PARCIALMENTE PROCEDENTE EM PRIMEIRO GRAU DE JURISDIÇÃO.
+1. ILEGITIMIDADE PASSIVA DO BANCO DO BRASIL AFASTADA. NECESSIDADE DA PRESENÇA DA INSTITUIÇÃO FINANCEIRA PARA O CANCELAMENTO DA HIPOTECA NOS TERMOS DO ARTIGO 251 DA LEI Nº 6.015/73. LITISCONSÓRCIO PASSIVO NECESSÁRIO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+2. PAGAMENTO INTEGRAL DO CONTRATO DE PROMESSA DE COMPRA E VENDA DO IMÓVEL OBJETO DA LIDE. FATO INCONTROVERSO NO PROCESSO. APLICAÇÃO CORRETA DO ENTENDIMENTO SUMULADO Nº 308 DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA RESOLVER A LIDE. INEFICÁCIA DA HIPOTECA FIRMADA ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO QUE RESULTA NA REJEIÇÃO DAS ALEGAÇÕES DO BANCO APELANTE ATINENTES AO DEVER DE PAGAMENTO OU REPASSE DE VALORES AO CREDOR HIPOTECÁRIO. SOB OUTRO VÉRTICE, ART. 55 DA LEI Nº 13.097/15 QUE NÃO AFASTA A APLICAÇÃO DA SÚMULA 308 DO STJ, QUE PROTEGE O ADQUIRENTE DE BOA-FÉ.
+3. DANO MORAL. INEXISTÊNCIA. MERO DISSABOR. PRECEDENTES DO TRIBUNAL.
+4. MANUTENÇÃO DA DISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA FIXADOS NA SENTENÇA, ASSIM COMO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS.
+5. FIXAÇÃO DOS HONORÁRIOS RECURSAIS EM RAZÃO DO DESPROVIMENTO DOS RECURSOS.
+RECURSO DE APELAÇÃO (1) DO BANCO DO BRASIL DESPROVIDO.
+RECURSO DE APELAÇÃO (2) DA FLOYD EMPREENDIMENTOS IMOBILIÁRIOS DESPROVIDO.
+RECURSO DE APELAÇÃO (3) DE ELIANE LISSONI DESPROVIDO.
+Embargos de Declaração: interpostos pela agravante ELIANE LISSONI foram rejeitados (e-STJ fls. 1.076/1.081).
+Recurso especial: alega violação dos arts. 85, 87, 117, 489 e 1.022 do Código de Processo Civil; 1.419 e 1.488 do Código Civil e 55 da Lei 13.097/2015, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, defende a inaplicabilidade da Súmula 308/STJ ao caso concreto, tendo em vista que "a não incidência dos efeitos da garantia se dá apenas em face do adquirente de boa fé e em relação àquela unidade específica, o que não pode ser presumido em razão da hipoteca previamente registrada e a consequente publicidade da contratação precedente entre a Construtora e o Banco" e que o ônus real registrado não pode ser objeto de declaração de ineficácia, ao menos para os negócios avençados após sua vigência, devendo os eventuais credores do alienante ficar sub-rogados no preço do imóvel e cobrar dos adquirentes tão somente o valor do bem imóvel, mas não a totalidade do crédito originário registrado na matrícula.
+Após a interposição do recurso especial por ELIANE LISSONI, o 1º Vice- Presidente do Tribunal de origem, nos termos do artigo 1.040, inciso II, do CPC, determinou o retorno dos autos à Câmara para o exercício do juízo de retratação, em conformidade com os REsp 1.850.512/SP, nº 1.877.883/SP, nº 1.906.623/SP e nº 1.906.618/SP (Tema 1.076/STJ).
+No juízo de retratação, eis o que decidido pelo órgão colegiado (e-STJ fls. 980/981):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE CANCELAR HIPOTECA, CUMULADA COM INDENIZAÇÃO POR DANO MORAL JULGADA PARCIALMENTE PROCEDENTE EM PRIMEIRO GRAU DE JURISDIÇÃO.
+1. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DEVOLUÇÃO À CÂMARA PARA O EXERCÍCIO DO JUÍZO DE RETRATAÇÃO NOS TERMOS DO ART. 1.040, INCISO II, DO CÓDIGO DE PROCESSO CIVIL, DIANTE DO JULGAMENTO DOS RESP Nº 1.850.512/SP, RESP Nº 1.877.883/SP, RESP Nº 1.906.623/SP e RESP Nº 1.906.618/SP, VINCULADO AO RITO DOS RECURSOS REPETITIVOS, QUE FIXOU A TESE DE QUE: "I) A FIXAÇÃO DOS HONORÁRIOS POR APRECIAÇÃO EQUITATIVA NÃO É PERMITIDA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU O PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. É OBRIGATÓRIA NESSES CASOS A OBSERVÂNCIA DOS PERCENTUAIS PREVISTOS NOS §§ 2º OU 3º DO ARTIGO 85 DO CPC - A DEPENDER DA PRESENÇA DA FAZENDA PÚBLICA NA LIDE -, OS QUAIS SERÃO SUBSEQUENTEMENTE CALCULADOS SOBRE O VALOR: (A) DA CONDENAÇÃO; OU (B) DO PROVEITO ECONÔMICO OBTIDO; OU (C) DO VALOR ATUALIZADO DA CAUSA. II) APENAS SE ADMITE ARBITRAMENTO DE HONORÁRIOS POR EQUIDADE QUANDO, HAVENDO OU NÃO CONDENAÇÃO: (A) O PROVEITO ECONÔMICO OBTIDO PELO VENCEDOR FOR INESTIMÁVEL OU IRRISÓRIO; OU (B) O VALOR DA CAUSA FOR MUITO BAIXO". (TEMA 1076/STJ).
+2. AUSÊNCIA DE HIPÓTESE DE EQUIDADE (CPC, ART. 85, § 8º). FIXAÇÃO NA FORMA DO ARTIGO 85, § 2º, DO CPC. JUSTO ATENDIMENTO AOS LIMITES DOS PERCENTUAIS DE 10% E 20%. BASE DE CÁLCULO. VALOR DA CAUSA. JUÍZO DE RETRATAÇÃO EXERCIDO PARA FIXAR OS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM PERCENTUAL SOBRE O VALOR DA CAUSA ATUALIZADO.
+3. POR CONSEQUÊNCIA, ALTERAÇÃO DA BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS.
+DECISÃO REFORMADA EM SEDE DE JUÍZO DE RETRATAÇÃO.
+RELATADO O PROCESSO, DECIDE-SE.
+Inicialmente, não há como analisar a alegação de violação dos arts. 1.419, 1.488 do Código Civil e 55 da Lei 13.097/2015, tendo em vista a ocorrência de preclusão quanto a tais questões, por não ter o recorrente interposto recurso especial contra o acórdão de fls. 922/940 (e-STJ).
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da incidência do art. 85, § 2º, do CPC ao caso dos autos, tendo em vista a tese firmada pelo STJ em sede de recurso repetitivo.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Com efeito, do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+De fato, a conclusão adotada no acórdão recorrido está de acordo com o entendimento firmado pelo Superior Tribunal de Justiça sob a égide dos recursos repetitivos - Tema 1.076/STJ, cuja tese é a seguinte:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE HIPOTECA C/C INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO A DESTEMPO. MATÉRIA PRECLUSA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. HONORÁRIOS POR EQUIDADE. TEMA 1.076/STJ.
+1. Ação de cancelamento de hipoteca c/c indenização por danos morais.
+2. Não há como analisar a alegação de violação dos arts. 1.419, 1.488 do Código Civil e 55 da Lei 13.097/2015, tendo em vista a ocorrência de preclusão quanto a tais questões, por não ter o recorrente interposto recurso especial contra o primeiro acórdão proferido pelo Tribunal de origem.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. Segundo a Corte Especial deste Superior Tribunal de Justiça, admite-se o arbitramento de honorários por equidade somente quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo (Tema 1.076 do STJ).
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
