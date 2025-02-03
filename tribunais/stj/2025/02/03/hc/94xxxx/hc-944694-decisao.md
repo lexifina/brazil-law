@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de Rodrigo Alves Santos Folha - denunciado em razão da suposta prática do crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Habeas Corpus n. 2237083-95.2024.8.26.0000), encontra-se prejudicado.
+Busca a impetrante, em síntese, o trancamento da ação penal, ao argumento de ilicitude das provas obtidas em razão da violação do domicílio do paciente, sem a observância das formalidades legais.
+Ocorre que, conforme consta às fls. 21/30, nos autos da Ação Penal n. 1506086-68.2024.8.26.0228, foi proferida sentença condenatória contra o paciente, aplicando-lhe a pena de 2 anos e 6 meses de reclusão, além do pagamento de 250 dias-multa, a ser cumprida em regime aberto, o que torna prejudicada a pretensão de trancamento da ação penal deduzida neste writ, a teor do que dispõe a Súmula 648/STJ.
+Ademais, como se vê na sentença, o Juízo de origem entendeu como lícita a atuação dos policiais envolvidos na ocorrência, na medida em que ingressaram na residência do paciente - no estrito cumprimento do dever legal, previsto no art. 301 do Código de Processo Penal -, diante da situação de flagrante delito evidenciada pela natureza permanente do crime de tráfico de drogas, na modalidade de guardar e manter em depósito, sendo esta uma das excepcionalidades autorizadas pelo art. 5º, XI, da Constituição da República.
+Sem olvidar, ainda, que, com a superveniência do novo título judicial, os elementos de convicção utilizados pelo Juízo de primeiro grau adotados na sentença condenatória, antes de serem apreciados por esta Corte Superior, devem ser levados à apreciação do Tribunal de origem (AgRg no HC n. 896.988/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 5/9/2024).
+Assim, diante da perda do objeto, a teor do disposto no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. CRIME DE TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE DA BUSCA DOMICILIAR. TRANCAMENTO DA AÇÃO PENAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. INCIDÊNCIA DA SÚMULA 648/STJ. NOVOS FUNDAMENTOS QUE DEVEM SER SUBMETIDOS AO TRIBUNAL A QUO. PERDA DO OBJETO.
+Writ prejudicado.
