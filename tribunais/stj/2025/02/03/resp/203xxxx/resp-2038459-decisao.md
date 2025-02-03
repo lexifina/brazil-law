@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 332/333):
+PREVIDENCIÁRIO. PROCESSO CIVIL. HIDROCARBONETOS: NOCIVIDADE. EXPOSIÇÃO A AGENTES QUÍMICOS. RUÍDO. LIMITES DE TOLERÂNCIA. EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL. REAFIRMAÇÃO DA DER. APOSENTADORIA ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO.
+1. A ausência de expressa referência em decreto regulamentar a hidrocarbonetos não equivale a que tenha desconsiderado, como agentes nocivos, diversos compostos químicos que podem ser assim qualificados.
+2. Para os agentes nocivos químicos previstos no Anexo 13 da Norma Regulamentadora - NR 15, entre os quais os hidrocarbonetos e outros compostos tóxicos de carbono, é desnecessária a avaliação quantitativa.
+3. O limite de tolerância para o agente físico ruído é de 90 (noventa) decibéis, no período entre 6 de março de 1997 e 18 de novembro de 2003 (Tema nº 694 do Superior Tribunal de Justiça).
+4. A declaração prestada pelo empregador a respeito da eficácia de equipamento de proteção individual não é suficiente para afastar o reconhecimento da especialidade em razão da sujeição ao ruído.
+5. A reafirmação da data de entrada do requerimento administrativo (DER), antes inclusive admitida pela administração previdenciária (IN 77/2015), tem lugar também no processo judicial, uma vez verificado o preenchimento dos requisitos para a concessão do benefício, como fato superveniente, após o ajuizamento da ação ou da própria decisão recorrida, de ofício ou mediante petição da parte.
+6. Para ter direito à aposentadoria especial, a parte autora deve preencher os requisitos previstos no art. 57 da Lei nº 8.213, quais sejam: a carência prevista no art. 142 da referida lei e o tempo de trabalho sujeito a condições prejudiciais à sua saúde ou à sua integridade física durante 15, 20 ou 25 anos, a depender da atividade desempenhada.
+7. É possível a conversão do tempo especial em comum, sendo irrelevante, nesse particular, a vigência da MP nº 1.663, convertida na Lei nº 9.711.
+Os embargos de declaração opostos foram parcialmente acolhidos, nestes termos (fl. 375):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TEMA 995 DO SUPERIOR TRIBUNAL DE JUSTIÇA. REAFIRMAÇÃO DA DER. HONORÁRIOS ADVOCATÍCIOS.
+1. O ponto relativo à condenação em honorários advocatícios, na hipótese de reafirmação da data de entrada do requerimento (DER), não integra a questão de direito submetida a julgamento no Tema 995 do Superior Tribunal de Justiça, portanto, não possui o efeito vinculante da norma jurídica geral do precedente.
+2. Caracterizando-se a sucumbência recíproca, em razão da parcial procedência dos pedidos da autora, a ausência de oposição ao pedido de reafirmação da DER não afasta a condenação do INSS ao pagamento de honorários advocatícios.
+A parte recorrente alega violação dos arts. 85, caput, 927, III, e 1.022 do Código de Processo Civil (CPC) e 389 do Código Civil.
+Argumenta (a) que houve negativa de prestação jurisdicional e (b) que, "em que pese adotar a tese firmada pelo E. STJ para reconhecer a possibilidade de reafirmação da DER, não seguiu os parâmetros da Corte Superior no que se refere à condenação em honorários advocatícios, uma vez que condenou o INSS ao pagamento de honorários advocatícios sobre as parcelas vencidas, ainda que não tenha havido insurgência quanto à reafirmação da DER" (fl. 392).
+Requer o provimento de seu recurso para afastar a condenação ao pagamento de honorários advocatícios.
+A parte adversa não apresentou contrarrazões (fl. 399).
+O recurso foi admitido na origem (fls. 402/405).
+É o relatório.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+No julgamento dos Recursos Especiais 1.727.063/SP, 1.727.064/SP e 1.727.069/SP, sob o rito de recursos repetitivos (Tema 995), o Superior Tribunal de Justiça (STJ) consolidou a orientação de que é possível o reconhecimento do benefício por fato superveniente ao requerimento.
+Confira-se, a propósito, a ementa de um dos precedentes qualificados:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO.
+1. O comando do artigo 493 do CPC/2015 autoriza a compreensão de que a autoridade judicial deve resolver a lide conforme o estado em que ela se encontra. Consiste em um dever do julgador considerar o fato superveniente que interfira na relação jurídica e que contenha um liame com a causa de pedir.
+2. O fato superveniente a ser considerado pelo julgador deve guardar pertinência com a causa de pedir e pedido constantes na petição inicial, não servindo de fundamento para alterar os limites da demanda fixados após a estabilização da relação jurídico-processual.
+3. A reafirmação da DER (data de entrada do requerimento administrativo), objeto do presente recurso, é um fenômeno típico do direito previdenciário e também do direito processual civil previdenciário. Ocorre quando se reconhece o benefício por fato superveniente ao requerimento, fixando-se a data de início do benefício para o momento do adimplemento dos requisitos legais do benefício previdenciário.
+4. Tese representativa da controvérsia fixada nos seguintes termos: É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+5. No tocante aos honorários de advogado sucumbenciais, descabe sua fixação, quando o INSS reconhecer a procedência do pedido à luz do fato novo.
+6. Recurso especial conhecido e provido, para anular o acórdão proferido em embargos de declaração, determinando ao Tribunal a quo um novo julgamento do recurso, admitindo-se a reafirmação da DER. Julgamento submetido ao rito dos recursos especiais repetitivos.
+(REsp n. 1.727.063/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 23/10/2019, DJe de 2/12/2019.)
+Ao acolher os embargos de declaração apresentados após firmar a tese do Tema 995, sem conferir-lhes efeitos modificativos, este Tribunal esclareceu a questão, nos seguintes termos:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Embargos de declaração opostos pelo INSS, em que aponta obscuridade e contradição quanto ao termo inicial do benefício reconhecido após reafirmada a data de entrada do requerimento.
+2. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+3. Conforme delimitado no acórdão embargado, quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos.
+4. O prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 641.240/MG. Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação, nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento.
+5. Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+6. Quanto à obscuridade apontada, referente ao momento processual oportuno para se reafirmar a DER, afirma-se que o julgamento do recurso de apelação pode ser convertido em diligência para o fim de produção da prova.
+7. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no REsp n. 1.727.063/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 19/5/2020, DJe de 21/5/2020.)
+Quanto aos honorários advocatícios, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fl. 380 - destaques no original):
+Honorários advocatícios
+No julgamento dos recursos afetados para a definição do Tema n. 995 do Superior Tribunal de Justiça, a questão submetida a julgamento foi:
+Possibilidade de se considerar o tempo de contribuição posterior ao ajuizamento da ação, reafirmando-se a data de entrada do requerimento-DER- para o momento de implementação dos requisitos necessários à concessão de benefício previdenciário: (i) aplicação do artigo 493 do CPC/2015 (artigo 462 do CPC/1973); (ii) delimitação do momento processual oportuno para se requerer a reafirmação da DER, bem assim para apresentar provas ou requerer a sua produção.
+A respeito destes dois itens da questão, firmou o STJ a seguinte tese:
+É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+Não cabe qualquer esclarecimento a respeito do arbitramento de honorários de advogado quando houver a pretensão de adequação de sua distribuição como ônus da sucumbência ao que foi decidido em tribunal superior.
+Na oportunidade, inclusive, no voto da Ministra Assusete Magalhães, está apontada esta particularidade que acabou implicitamente acolhida pelo Ministro Relator, na tese acima transcrita, sem maior expansão do que lhe permitiriam as questões submetidas ao julgamento.
+A condenação ao pagamento de honorários de advogado mantém estrita relação à aplicação das normas previstas no Código de Processo Civil.
+No presente caso, a sucumbência foi considerada recíproca e o INSS foi vencido quanto ao pedido de especialidade dos períodos de 15/12/1983 a 31/03/1988, de 01/06/1988 a 05/03/1997 e de 19/11/2003 a 28/04/2009.
+Logo, a sucumbência da autarquia não decorreu unicamente da reafirmação da DER.
+Tendo a Corte de origem verificado que a sucumbência do INSS não havia se limitado ao tema da reafirmação da data de entrada do requerimento (DER), infirmar tal conclusão para rever a distribuição do ônus sucumbencial demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ACORDO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INEXEQUIBILIDADE DO TÍTULO. PROSSEGUIMENTO DA DEMANDA. IMPOSSIBILIDADE. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. INVIABILIDADE. SÚMULAS NºS 5 E 7/STJ. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA. REVISÃO DO GRAU. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. MAJORAÇÃO. REQUISITOS E LIMITES. ATENDIMENTO. ART. 85, §§ 2º, 3º E 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+ ..
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, em recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda implica análise do conteúdo fático-probatório dos autos, que atrai a incidência da Súmula nº 7/STJ.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.823.021/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/11/2021, DJe de 6/12/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. DOCUMENTOS FISCAIS OBRIGATÓRIOS. AUSÊNCIA. ARBITRAMENTO. GRAU DE SUCUMBÊNCIA. REVOLVIMENTO DE PROVAS. IMPOSSIBILIDADE. FUNDAMENTO IMPUGNAÇÃO. AUSÊNCIA.
+ ..
+5. É assente, no Superior Tribunal de Justiça, o entendimento de que não cabe a esta Corte Superior de Justiça rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, por implicar o revolvimento do contexto fático-probatório, inviável na instância especial à luz da Súmula 7 do STJ.
+ ..
+(AgInt no AREsp n. 1.640.235/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2021, DJe de 29/6/2021.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, a ele nego provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
