@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recur so especial interposto por Nilza Teixeira, fundado no art. 105, III, a, da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento do Agravo de Execução Penal n. 0025402-30.2023.8.26.0050.
+Nas razões, a recorrente aponta violação dos arts. 59, caput, e 50, § 2º, ambos do Código Penal; arts. 1º e 185, ambos da Lei de Execução Penal; e art. 5, item 6, da Convenção Americana sobre Direitos Humanos, sob a tese de que deve ser julgada extinta a punibilidade da pena de multa, diante do que o STJ pacificou ao realizar nova alteração do tema 931 (fls. 160/169).
+Assevera que a pobreza está, então, caracterizada. A situação é exatamente a retratada na fundamentação do acórdão supracitado. Com isso, é claro que ele não tem capacidade econômica para pagar a multa imposta sem afetar seu sustento e o de seus familiares. É hipossuficiente. E teria sua punibilidade extinta exatamente nos termos da tese do tema 931 - "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária" - exceto pelo cumprimento em curso da PPL o que, diante de todo o alegado, não basta para o indeferimento do requerido (fls. 167/168).
+Ao final da peça recursal, requer que o recurso seja conhecido e provido para julgar extinta a pena de multa (fl. 169).
+Oferecidas contrarrazões (fls. 174/185), o recurso especial foi admitido na origem (fls. 202/203).
+O Ministério Público Federal opina pelo desprovimento da insurgência, nos termos do parecer assim ementado (fl. 212):
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. PENAL. AUSÊNCIA DE COMPROVAÇÃO DE IMPOSSIBILIDADE ABSOLUTA DE PAGAMENTO DA PENA DE MULTA. EXTINÇÃO DA PENA. IMPOSSIBILIDADE. PRECEDENTES. PARECER PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+O recorrente pretende seja declarada a extinção da sua punibilidade.
+Sobre o tema, a Corte de origem assim dispôs (fls. 151/152 - grifo nosso):
+ ..
+O pedido de extinção da pena de multa por alegada hipossuficiência não pode ser acolhido, porque conforme a revisão do Tema 931, fixado pelo Superior Tribunal de Justiça, no julgamento dos R Esp"s nº 2.090.454/SP e 2.024.901/SP, ocorrido em 01/3/2024, "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária", e no caso em exame a Agravante ainda resgata a pena imposta na condenação por crime de tráfico de drogas cuja multa ora se executa, com término previsto para o dia 14/5/2030. Correta a decisão, portanto, ao determinar a suspensão da execução, nos termos do artigo 40, da Lei nº 6.830/80, à falta de bens penhoráveis. A questão da hipossuficiência poderá ser revisitada ao término da pena privativa de liberdade.
+Ante o exposto, o meu voto nega provimento ao recurso, deixando assentado que não houve violação ao Tema 931, firmado pelo Superior Tribunal de Justiça, ou ao artigo 927, inciso III, do Código de Processo Civil.
+ ..
+O acórdão não comporta reparos.
+Não se desconhece a tese jurídica firmada em sede de recurso repetitivo, em que o inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária (REsp n. 2.024.901/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 1º/3/2024 - grifo nosso).
+Sucede que, remanescendo o cumprimento de pena privativa de liberdade, não há falar em extinção de punibilidade.
+Tal o contexto, ao menos por ora, o caso não comporta a aplicação do Tema n. 931/STJ, sendo adequado aguardar o término do cumprimento da pena privativa de liberdade, ocasião em que o Magistrado deverá avaliar a condição financeira do apenado e deliberar acerca da extinção da pena, mediante observância dos parâmetros fixados no tema em referência.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. MULTA PENAL. PLEITO DE EXTINÇÃO DA PUNIBILIDADE COM BASE NA HIPOSSUFICIÊNCIA DO APENADO. MANIFESTA IMPROCEDÊNCIA. APENADO QUE AINDA CUMPRE PENA PRIVATIVA DE LIBERDADE.
+Recurso especial improvido.
