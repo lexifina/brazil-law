@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno interposto por PERSEU LOPES LUGON da decisão de minha relatoria de fls. 234/238 em que não conheci da reclamação.
+A parte agravante alega ter havido usurpação da competência do Superior Tribunal de Justiça (STJ) pela Justiça local ao impedir o processamento do Pedido de Uniformização de Interpretação de Lei Federal (PUIL) fundado no art. 18, § 3º, da Lei 12.153/2009.
+Aduz que o objetivo do PUIL circunscrevia-se à verificação de harmonia entre a decisão proferida pela Justiça estadual e o entendimento consagrado na Súmula 385 do Superior Tribunal de Justiça (STJ).
+Requer a reconsideração da decisão ou a apresentação do processo ao órgão colegiado competente.
+A parte agravada não apresentou impugnação (fl. 255).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do feito.
+O Código de Processo Civil, em seu art. 988, estabelece que é cabível a reclamação no Superior Tribunal de Justiça a fim de que seja preservada a sua competência e para garantir a autoridade de suas decisões.
+Trata-se, na origem, de ação anulatória de lançamento tributário. Consoante argumenta a parte reclamante, houve o afastamento da indenização por danos morais em desconformidade com o comando da Súmula 385/STJ, o qual estabelece o afastamento dessa indenização quando existir prévia inscrição negativa do devedor nos cadastros de restrição, o que não seria o caso dos autos.
+Por consequência, ajuizou reclamação, com pedido de tutela provisória de urgência contra decisão da Turma Recursal de Muriaé que deixou de conhecê-la.
+Em suas razões, a parte reclamante alega que "aquele Pedido de Uniformização de Interpretação de Lei então suscitado não se dirigia à apreciação, ao menos no mérito, do eg. Turma Recursal Fazendária ou de sua Turma de Uniformização, senão que precisamente a esse Superior Tribunal de Justiça" (fl. 5).
+Aduz que a apreciação do PUIL caberia, tão somente, ao Superior Tribunal de Justiça (STJ), inclusive quanto ao preenchimento dos seus pressupostos legais.
+Postula, nesta feita, a cassação da decisão que não conheceu do Pedido de Uniformização de Interpretação de Lei (PUIL), o encaminhamento à Corte Superior, bem como "a suspensão de eventual execução do acórdão proferido nos autos da ação de origem" (fl. 8).
+Com razão a parte reclamante.
+De fato, compete ao Superior Tribunal de Justiça a verificação de admissibilidade do pedido de uniformização de interpretação de lei federal a ele endereçado e fundado no art. 18, § 3º, da Lei 12.153/2009, sob pena de usurpação de sua competência. Nesse mesmo sentido, cito os seguintes julgados:
+PROCESSO CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. APONTADA DIVERGÊNCIA ENTRE ACÓRDÃOS DE TURMAS RECURSAIS DE ESTADOS DISTINTOS. PROCESSAMENTO PRÉVIO PELA TURMA RECURSAL. AUTOS NÃO REMETIDOS AO STJ. USURPAÇÃO DE COMPETÊNCIA DO STJ. AGRAVO INTERNO PROVIDO.
+1. "A Lei 12.153/2009 não prevê juízo prévio de admissibilidade pela Turma Recursal, cabendo a esta apenas processar o pedido, intimando a parte recorrida para responder ao reclamo, e, depois disso, remeter os autos a este Tribunal. Precedentes: Rcl 34.801/RJ, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 25.10.2018; Rcl 33.715/SP, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 15.5.2018; Rcl 28.980/RO, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 31.3.2016; AgRg na Rcl 15.049/DF, Rel. Min. Sérgio Kukina, Primeira Seção, DJe 15.8.2018; Rcl 24.258/SP, Rel. Min. Og Fernandes, Primeira Seção, DJe 14.2.2017" (Rcl n. 37.092/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/3/2019, DJe de 16/4/2019).
+2. Hipótese em que a Turma de Uniformização - Juizados Especiais - do Estado de São Paulo, embora tenha anotado ser da competência do STJ o julgamento da demanda, deixou de remeter os autos, levando em consideração que "a incompatibilidade entre os sistemas utilizados por essa Turma e pelo STJ impede a remessa eletrônica dos recursos". E, por essa razão, determinou a intimação do advogado para que providenciasse o protocolo do PUIL diretamente no STJ.
+3. A imposição do referido óbice ao processamento do pedido de uniformização de interpretação de lei federal evidencia a usurpação da competência do STJ a ensejar a procedência da reclamação. Precedente: Rcl n. 41.060/CE, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 12/5/2021, DJe de 31/5/2021.
+4. Agravo interno provido, para julgar procedente o pedido reclamatório e, por conseguinte, determinar à autoridade reclamada que processe o pedido de uniformização de interpretação de lei federal, com abertura de prazo para manifestação da parte contrária, e, após, remeta os autos para este Superior Tribunal de Justiça.
+(AgInt na Rcl n. 42.852/SP, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 27/11/2024, DJe de 4/12/2024.)
+CONSTITUCIONAL. RECLAMAÇÃO. STJ. PRESERVAÇÃO DE COMPETÊNCIA. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ACÓRDÃOS DE TURMAS RECURSAIS DE ESTADOS DISTINTOS. PROCESSAMENTO PRÉVIO PELA TURMA RECURSAL. ERRO NO ENDEREÇAMENTO DO INCIDENTE. AUSÊNCIA.
+1. A Lei n. 12.153/2009, que trata dos Juizados Especiais da Fazenda Pública, disciplina um sistema próprio de uniformização jurisprudencial, mediante o denominado pedido de uniformização de interpretação de lei, o qual poderá ser processado e julgado tanto pelo Poder Judiciário local quanto pelo Superior Tribunal de Justiça, a depender da divergência apontada.
+2. Conforme o entendimento desta Corte superior, cabe à Turma Recursal, no incidente de competência do STJ, processar o pedido, intimar a parte recorrida para respondê-lo e, após, remeter os autos a este Tribunal.
+3. Hipótese em que o reclamante apresentou o pedido de uniformização de interpretação de lei na Turma Recursal, o qual não foi conhecido ao fundamento de que deveria ter sido protocolado diretamente no STJ, adotando-se, portanto, conclusão contrária à jurisprudência consolidada.
+4. A imposição do referido óbice ao conhecimento do pedido de uniformização de interpretação de lei evidencia a usurpação da competência do STJ a ensejar a procedência da reclamação.
+5. Pedido procedente.
+(Rcl n. 41.060/CE, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 12/5/2021, DJe de 31/5/2021.)
+Ante o exposto, reconsidero a decisão de fls. 234/238 para julgar procedente a presente reclamação e determinar ao órgão reclamado que processe o pedido de uniformização de interpretação de lei com posterior encaminhamento a esta Corte Superior para análise.
+Prejudicado o pedido urgente.
+Publique-se. Intimem-se.
+EMENTA
