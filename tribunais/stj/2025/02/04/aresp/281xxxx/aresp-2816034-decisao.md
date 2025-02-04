@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE BOA VISTA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, assim resumido:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL - DECISÃO MONOCRÁTICA PROFERIDA EM OBSERVÂNCIA AO ART. 932, VIII DO CPC E ART. 90, V DO RITJRR - EXISTÊNCIA DE JULGADOS REITERADOS DO SUPERIOR TRIBUNAL DE JUSTIÇA PROFERIDOS EM SITUAÇÕES ANÁLOGAS - ALEGAÇÃO DE PRESCRIÇÃO EM EXCEÇÃO DE PRÉEXECUTIVIDADE - POSSIBILIDADE - RECURSO DESPROVIDO - DECISÃO MANTIDA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 40, caput, e seus parágrafos, da LEF, no que concerne ao reconhecimento de que não ocorreu a prescrição intercorrente, uma vez que a citação válida realizada por edital da parte executada, bem como a efetiva penhora de valores via SISBAJUD, foram os marcos interruptivos do prazo prescricional, porém as interrupções não foram consideradas pelo acórdão impugnado, trazendo a seguinte argumentação:
+Verifica-se que nos ep"s 111 e 114 foi determinada a suspensão da execução fiscal por 1 (um) ano, que início em 01/02/2019 e encerrou-se em 01/02/2020 (ep. 119).
+Em seguida, encerrado o prazo de 1 (um) ano de suspensão (em 01/02/2020), de forma automática, iniciou-se o prazo de 5 anos da prescrição intercorrente, cujo término somente ocorreria em 01/02/2025.
+Entretanto, o acórdão recorrido, conforme dito acima, não considerou na contagem do prazo prescricional um dos marcos interruptivos ocorridos no trâmite da execução fiscal, que foi a citação do executado JOZIEL , realizada em 28/07/2021 (ep. 187 da execução ) , conforme se verifica na cópia do edital em anexo.
+De forma inequívoca, entre o término do prazo de 1 (um) ano de suspensão(01/02/2020) e a data da sentença que extinguiu o feito(18/04/2023) operou-se nova causa interruptiva da prescrição intercorrente em 28/07/2021 (citação por edital), ou seja, dentro do lustro prescricional, que somente findaria em 01/02/2025.
+Além disso, é importante destacar que houve efetiva penhora de valores via SISBAJUD em 01/10/2021, conforme consta no ep. 204 dos autos da execução fiscal, o que demonstra a ocorrência de outro marco interruptivo anterior à sentença extintiva do feito.
+Revela-se evidente, portanto, que não decorreu o lustro prescricional entre os marcos interruptivos ocorridos na execução fiscal em comento, merecendo reforma o acórdão impugnado.
+ ..
+Como se percebe, a Corte a quo deixou de considerar um marco interruptivo da prescrição intercorrente que resultaria no recomeço do cômputo do quinquênio prescricional, que decorreria de 28/07/2021 à 28/07/2026.
+Desse modo, diante da demonstração de ocorrência de marcos interruptivos no curso do feito executivo (citação e penhora de valores) não considerados no acórdão impugnado, é forçoso concluir que no caso em apreço a pretensão executória não havia sido atingida pela prescrição intercorrente no dia 18/04/2023, data da sentença de extinção proferida no ep. 261 dos autos da execução (fls. 1.014-1.015).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
