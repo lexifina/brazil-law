@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por RAFAEL ALEXANDRE LOPES DA SILVA contra decisão proferida pela Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial.
+Alega que houve impugnação específica de todos os fundamentos da decisão agravada, buscando, assim, a reconsideração da decisão agravada ou o provimento do recurso pelo órgão colegiado.
+Manifestação do Ministério Público Federal pelo não provimento do agravo regimental.
+Tem razão o agravante, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao apelo defensivo, mantendo a condenação, pela prática do delito do art. 16, § 1º, IV, da Lei n. 10.826/2003, à pena de 3 anos, 11 meses e 7 dias de reclusão, no regime inicial fechado, e 12 dias-multa.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do art. 59 do CP, ao reconhecer, como maus antecedentes, a condenação anterior pelo delito do art. 28 da Lei n. 11.343/2006. Busca, ainda, o provimento do recurso para readequar a fração utilizada no aumento da pena-base para o patamar de 1/8 e fixar o regime inicial semiaberto.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso merece acolhida.
+O Tribunal de origem, ao manter a dosimetria da pena, reconheceu o desvalor dos maus antecedentes na pena-base devido à prática anterior do crime previsto no artigo 28 da Lei n. 11.343/2006 (e-STJ fl. 230).
+Ocorre que tal posicionamento encontra-se contrário à jurisprudência desta Corte Superior de Justiça no sentido de ser desproporcional o reconhecimento da agravante da reincidência e dos maus antecedentes em razão de condenação anterior pelo delito de uso de substância entorpecente.
+Abaixo, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRÁTICA ANTERIOR DO CRIME PREVISTO NO ART. 28 DA LEI N. 11.343/06. AFASTAMENTO DA REINCIDÊNCIA E DOS MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O posicionamento atual desta Corte é pela não configuração da reincidência, nem dos maus antecedentes, em decorrência da prática do crime previsto no art. 28 da Lei n. 11.343/06 em cotejo com contravenções penais, em razão do princípio da proporcionalidade.
+Precedentes.
+2. Agravo regimental desprovido. (AgRg no HC n. 702.116/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 10/12/2021.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (27,64 G DE MACONHA). PRETENSÃO DE AFASTAMENTO DA REINCIDÊNCIA. QUESTÃO DEVIDAMENTE PREJUDICADA. DECISÃO PROFERIDA NO HC N. 516.737/MG, TRANSITADO EM JULGADO EM 13/8/2019. MANUTENÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. MANIFESTA ILEGALIDADE. VERIFICAÇÃO. OCORRÊNCIA. REINCIDÊNCIA E AFASTAMENTO DO PRIVILÉGIO COM SUPORTE EM CONDENAÇÃO ANTERIOR POR USO DE DROGAS (ART. 28 DA LEI N. 11.343/2006). INADEQUAÇÃO. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO, QUE SE IMPÕE. RESTABELECIMENTO DA DOSIMETRIA DA PENA CONSTANTE DA SENTENÇA CONDENATÓRIA E AFASTAMENTO DO CARÁTER HEDIONDO DA CONDUTA PERPETRADA PELO AGRAVANTE. TRÁFICO PRIVILEGIADO. HEDIONDEZ. ENTENDIMENTO ALTERADO PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO HC N. 118.533/MS.
+ ..
+5. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que é desproporcional o reconhecimento da reincidência em virtude de anterior condenação pelo delito previsto no art. 28 da Lei 11.343/2006. Precedentes da Quinta e Sexta Turmas.  .. , é adequado o afastamento dos maus antecedentes e da reincidência apoiados em duas condenações por uso de drogas e, em consequência, preenchidos os demais requisitos previstos no § 4º do art. 33 da Lei n. 11.343/2006, é cabível o reconhecimento do privilégio no crime de tráfico de drogas, que foi aplicado em sua fração máxima, com base na inexpressiva quantidade das drogas apreendidas (AgRg no HC n. 382.880/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/12/2019).
+ ..
+8. Agravo regimental improvido. Concedido habeas corpus de ofício, para afastar a reincidência reconhecida pela Corte a quo e, via de consequência, restabelecer a dosimetria da pena constante da sentença de fls. 233/236, bem como reconhecer o caráter não hediondo da conduta perpetrada pelo agravante. (AgRg no REsp 1848017/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020)
+Necessário, portanto, o ajuste da dosimetria para afastar o incremento da pena-base pela apontada condenação prévia do acusado pelo porte de drogas para uso pessoal, devendo ser fixada no mínimo legal: 3 anos de reclusão e 10 dias-multa.
+Por conseguinte, fixada a pena-base no mínimo legal, resta superada a tese quanto à fração de incremento da sanção por vetoriais negativas.
+Na segunda fase, mantém-se o aumento da pena em 1/8, tendo em vista a compensação parcial da multirreincidência com a atenuante da confissão, perfazendo a pena final em 3 anos, 4 meses e 15 dias de reclusão e 11 dias-multa, à míngua de outras causas modificativas da pena.
+No que tange ao regime inicial de cumprimento de pena, de acordo com a Súmula 269/STJ, é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior à inicial de quatro anos, se favoráveis as circunstâncias judiciais.
+No caso em análise, apesar de o acusado ser multirreincidente, as circunstâncias judiciais previstas no art. 59 do Código Penal são todas favoráveis, tendo sido a pena-base fixada no mínimo legal.
+Dessa forma, o réu faz jus ao regime semiaberto de cumprimento de pena, nos termos do art. 33, § 2º, alínea "b", e § 3º, do Código Penal.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", do RISTJ e Súmula n. 568/STJ, reconsidero a decisão proferida às e-STJ fls. 303/303 para conhecer do agravo e dar provimento ao recurso especial, fixando a pena final do recorrente em 3 anos, 4 meses e 15 dias de reclusão, no regime inicial semiaberto, e 11 dias-multa .
+Intimem-se.
+EMENTA
