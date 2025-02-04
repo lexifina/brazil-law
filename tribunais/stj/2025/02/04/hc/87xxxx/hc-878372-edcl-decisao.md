@@ -1,0 +1,13 @@
+DECISÃO
+ROLIN GONZALO PARADA GUTIERREZ opõe embargos de declaração à decisão de fls. 3.101-3.103, em que não conheci do habeas corpus e, por conseguinte, mantive inalterada a condenação a ele imposta pela prática do crime previsto no art. 2º da Lei n. 12.850/2013.
+A defesa alega que a decisão embargada foi omissa e contraditória, ocasião em que argumenta (fl. 3.108):
+(1) contradição relativa à afirmação de que o paciente teria se insurgido "contra acórdão proferido no julgamento da apelação criminal, pelo Tribunal Regional Federal da 3ª Região, que deu provimento ao recurso do Ministério Público, para condenar o réu pela prática do crime previsto no art. 2º da Lei n. 12.850/2013" todavia, sem "conhecer do presente writ por não ser competência originária desta Corte Superior o julgamento de habeas corpus impetrado contra seus próprios atos" (e-STJ fl. 3102/3103).
+(2) omissão quanto às teses suscitadas pela defesa do paciente no sentido da possibilidade de conhecimento do Habeas Corpus como substituto da revisão criminal, eis que a matéria nele versada (1) necessidade de pluralidade de agentes para caracterização do crime previsto na Lei 12.850/2013; e (2) dosimetria da pena, sobejam flagrante ilegalidade, não tendo sido as referidas teses analisadas nos autos do AREsp 2.027.559/SP, em cujo bojo a egrégia SEXTA TURMA do STJ apenas asseverou o livre convencimento dos magistrados do TRF/3 como condição a viabilizar a condenação do paciente na ação penal objeto desta insurgência, sem incursão no âmago da matéria aqui tratada.
+Requer, assim, o acolhimento dos embargos, com a atribuição de efeitos infringentes ao julgado, para que, em síntese, seja o réu absolvido.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese dos autos, verifico que a decisão embargada não foi omissa, tampouco contraditória, porquanto explicitou, de maneira clara e concretamente fundamentada, os motivos pelos quais o habeas corpus não poderia ser conhecido.
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
