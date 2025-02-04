@@ -1,0 +1,46 @@
+DECISÃO
+Trata -se de habeas corpus impetrado em benefício de HELDER DE FREITAS SAMPAIO, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO no julgamento da Apelação Criminal n. 0004187-71.2012.4.02.5001.
+Extrai-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, no regime inicial semiaberto, além do pagamento de 163 dias-multa, pela prática do crime tipificado no art. 296, § 1º, inciso III, por 29 vezes, na forma do art. 71, todos do Código Penal - CP (falsificação de selo ou sinal público).
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, nos termos do acórdão de fls. 21-41.
+No presente writ, a defesa sustenta que a conduta do paciente se enquadra na condição de partícipe, de menor relevância, justificando a aplicação da causa de diminuição do art. 29, § 1º, do Código Penal.
+Alega desproporcionalidade na majoração da pena em 2/3 pela continuidade delitiva, afirmando que a participação do paciente se resumiria a duas condutas típicas, ensejando a aplicação da fração de 1/6.
+Aduz ilegalidade na valoração negativa da culpabilidade, pois "o fato de se saber que as anilhas falsas a serem comercializadas se prestariam a iludir fiscalizações estatais futuras de passeriformes, é algo que nitidamente constitui a motivação do crime" (fl. 14) .
+Defende, ainda, que não há que se falar em nível de sofisticação tal que justificasse o agravamento da pena-base pela valoração negativa das circunstâncias do crime.
+Requer, assim, a concessão da ordem para que seja redimensionada a pena.
+A liminar foi indeferida por decisão de fls. 4.769/4.770.
+O Ministério Público Federal pugnou pela denegação da ordem, em parecer de fls. 4.776/4.779.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal apta a justificar a concessão da ordem de ofício.
+O voto condutor do julgado atacado assentou:
+"Nesse passo, a materialidade do crime previsto no art. 296, § 1º, inc. II, do CP, foi obtida, especialmente pela interceptação e abertura de encomendas postais utilizadas para remessa das anilhas falsas, pelo resultado das buscas domiciliares e pelos laudos periciais produzidos nos autos, que dão conta do comércio de anilhas falsificadas com a inserção da sigla IBAMA e do respectivo código identificador, tudo relacionado e detalhado pelo MM Juízo a quo, a cujo teor me reporto, por despiciendo reproduzi-los.
+ ..
+O réu pugna pelo reconhecimento da participação de menor importância. E consequentemente da causa de diminuição da pena prevista no § 1ºdo art. 29 do Código Penal. Todavia, seu pedido não merece acolhimento.
+Conforme se observa dos autos e pela própria confissão em sede policial, Helder participava ativamente de todo o esquema, contribuindo para a fabricação e distribuição de anilhas. Ademais, em duas das encomendas interceptadas pela Polícia Federal (SX 826994121 BR e SX 752761390 BR) e entregues na Drogaria Juliana, onde trabalhava, havia respectivamente, 13 e 16 anilhas encomendadas por Helder, demonstrando que também era intermediador de anilhas e tinha clientes, fato confirmado no interrogatório de Helio e Antonio Penha em sede policial (fls. 615/620 e 702/705).
+Desse modo, não há como acolher o pedido de menor participação.
+ ..
+Todos os réus pugnam pela redução da pena-base fixada em relação ao crime previsto no art. 296, § 1º, III, do CP, ao argumento de que a conduta dos apelantes não teria transbordado a culpabilidade do tipo penal ou mesmo que as circunstâncias do crime exijam maior reprimenda ou, ao menos, a redução do quantum aplicado. Todavia, tal pedido não merece acolhimento.
+Como é cediço, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime.
+E de fato, verifico que os critérios previsto para fixação da pena forma devidamente observados pelo MM Juízo sentenciante, ao valorar de forma negativa justificadamente a culpabilidade altamente reprovável do réu, considerando que sabia ele que as anilhas falsificadas seriam utilizadas para ocultar a procedência ilícita de pássaros silvestres capturados na natureza sem autorização do órgão ambiental  ..  e as circunstâncias do crime, em razão de as anilhas serem quase idênticas às originárias, o que aumentaria a probabilidade de serem consideradas autênticas pelos órgãos de fiscalização ambiental, de forma que aplicou o quantum de forma razoável considerando a variação entre as penas mínima e máxima cominadas ao tipo penal e de acordo com a gravidade dos crimes.
+ ..
+Correto o reconhecimento do crime continuado, tendo o MM Juiz a quo reconhecido a prática do crime pelos réus em razão do seu envolvimento com o número de anilhas falsificadas, encontradas nas diligências de busca e ou interceptadas pela Polícia Federal. Por sua vez, a fração de 2/3 aplicada está de acordo com o critério efetivo da determinação do aumento de pena." (fls. 26/34)
+Assim, desconstituir a conclusão do acórdão atacado para se reconhecer que ocorreu participação de menor importância e somente duas participações nos crimes demanda o exame aprofundado de provas, procedimento incompatível com ação constitucional de rito célere e de cognição sumária da via eleita.
+A propósito, confira-se o seguinte julgado:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. FURTO QUALIFICADO. DOSIMETRIA DA PENA. MAUS ANTECEDENTES E REINCIDÊNCIA. CONDENAÇÕES DIVERSAS. AUSÊNCIA DE BIS IN IDEM. ARREPENDIMENTO POSTERIOR NÃO CONFIGURADO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA NÃO COMPROVADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM NÃO CONHECIDA. I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão condenatória que fixou a pena do paciente por furto qualificado, levando em conta a existência de maus antecedentes e reincidência, bem como a rejeição dos pedidos de reconhecimento de arrependimento posterior e participação de menor importância. A defesa alega bis in idem na dosimetria da pena, ausência de fundamentação para a negativa de benefícios, e pede a substituição da pena privativa de liberdade por restritivas de direitos. II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) se a valoração dos maus antecedentes e da reincidência na dosimetria configura bis in idem;
+(ii) se há elementos para reconhecimento do arrependimento posterior e da participação de menor importância; e (iii) se a substituição da pena privativa de liberdade por restritivas de direitos é cabível, diante das circunstâncias do caso. III. RAZÕES DE DECIDIR
+3. O Superior Tribunal de Justiça reafirma que o habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sendo cabível apenas em casos de flagrante ilegalidade, o que não se verifica no presente caso.
+4. A utilização de condenações anteriores para agravar a pena-base e aplicar a agravante de reincidência não configura bis in idem, desde que as condenações utilizadas na primeira fase da dosimetria sejam distintas das aplicadas na segunda fase, como corretamente ocorrido no caso dos autos.
+5. Não se reconhece o arrependimento posterior quando a devolução dos bens furtados ocorre sem a voluntariedade do agente, como no presente caso, em que a devolução foi feita por terceiros, sem participação direta do réu.
+6. Para reconhecer a participação de menor importância, seria necessário reexaminar as provas dos autos, o que é inviável na via estreita do habeas corpus. O Tribunal de origem concluiu que a conduta do paciente foi essencial para a execução do crime, o que justifica a negativa desse benefício.
+7. A substituição da pena privativa de liberdade por restritivas de direitos não é cabível quando o réu ostenta circunstâncias judiciais desfavoráveis, como maus antecedentes e reincidência, conforme prevê o art. 44, III, do Código Penal.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 815.952/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 4/12/2024.)
+Todavia, quanto ao aumento da pena-base, verifica-se a ocorrência de flagrante ilegalidade, pois o fato das anilhas serem usadas para ocultar a procedência de animais capturados na natureza e de serem quase idênticas às originais constituem elementos inerentes ao próprio tipo penal, pois elas não seriam falsificadas se não fosse para usá-las de forma ilícita e da maneira mais próxima da verdadeira.
+Desta forma, a pena-base deve ser reduzida ao mínimo legal. Com a manutenção do aumento de 2/3 pela continuidade delitiva resta a pena fixada em 3 anos e 4 meses de reclusão.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus, todavia, concedo a ordem, de ofício, para reduzir a pena para 3 anos e 4 meses de reclusão, no regime aberto.
+Publique-se.
+Intimem-se.
+ EMENTA
