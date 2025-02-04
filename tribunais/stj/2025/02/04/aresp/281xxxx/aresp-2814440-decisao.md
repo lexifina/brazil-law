@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado por RUBEM SÉRGIO MAIA CAMPOS e OUTROS contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, "a", "b" e "c", da Constituição Federal.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP, decidiu pela necessidade de a parte agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial deu-se com base na suficiência da fundamentação do acórdão recorrido, na incidência do óbice descrito na Súmula 280 do STF e na competência do Supremo Tribunal Federal para o exame da tese fundada na letra "b" do permissivo constitucional.
+As partes agravantes, por outro lado, afirmam a ocorrência de omissão no acórdão recorrido, que não teria analisado a argumentação a respeito da ilegalidade do art. 20 do Código Tributário Municipal de Natal.
+Apontam a dissonância do julgado com o posicionamento do STJ e de outros tribunais, " ..  dado que considerou válida a lei local que previu a revisão do lançamento do crédito tributário fora das hipóteses do art. 149 do CTN, de modo a atestar uma revisão que não se baseou em fatos contemporâneos à época da constituição do crédito tributário - pelo contrário, eram inexistentes" (e-STJ fl. 337).
+Questionam a aplicação da Súmula 280 do STF, dizendo que " ..  não se trata de afronta à legislação municipal, mas de afronta à Lei Federal por legislação infraconstitucional municipal" (e-STJ fl. 338).
+Dizem, por fim, que "o v. Acórdão recorrido julgou válida uma lei local contestada em face de lei federal, incorrendo em clara violação dos arts. 144 e 149 do Código Tributário Nacional, o que autoriza a interposição do Recurso Especial com fundamento no art. 105, inciso III, alínea "b", da Constituição Federal" (e-STJ fl. 340).
+O quadro apresentado demonstra a inexistência de adequado combate aos fundamentos da decisão agravada.
+Estabeleceu o Tribunal de origem que (e-STJ fl. 327):
+ ..  a análise quanto à alínea "b" do art. 105, III, da CF, qual seja, julgar válida lei local contestada em face de lei federal, atualmente não é viável em sede de recurso especial, haja vista que esse exame, desde a Emenda Constitucional n.º 45, de 2004, passou a ser da competência do Supremo Tribunal Federal (STF), na forma do art. 102, III, "d", da CF.
+Sobre o ponto, os agravantes limitam-se a afirmar que o exame da insurgência está amparado na alínea "b" do inciso III do art. 105 da Constituição Federal, muito embora reconheçam que esse dispositivo fala em "ato de governo local". Nada argumentam sobre a previsão do art. 102, III, "d", da CF, com a redação dada pela EC n. 45/2024 , que, como registrou a instância ordinária, trata da "lei local contestada em face de lei federal".
+Observe-se que é apontada a ilegalidade do art. 20 do Código Tributário Municipal de Natal diante dos arts. 144 e 149 do Código Tributário Nacional, norma federal, situação que, na verdade, só confirma o argumento de competência do STF para o exame da controvérsia.
+Ademais, não se demonstra a desnecessidade da interpretação da regra local para a resolução da lide. Diz-se apenas, de modo inespecífico, que o acórdão recorrido a considerou válida fora das hipóteses do art. 149 do CTN, sem qualquer evidência de que a solução do caso prescinde da análise do texto da Lei Municipal n. 3.882/1989.
+Também é insuficiente a assertiva de omissão no julgado, já que a própria decisão agravada, mediante transcrição, demonstra a realização de juízo de valor em torno art. 20 do CTMN (e-STJ fl. 325). Além disso, as partes agravantes não expõem os argumentos que deixaram de ser analisados, tampouco a sua indicação no momento processual próprio.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
