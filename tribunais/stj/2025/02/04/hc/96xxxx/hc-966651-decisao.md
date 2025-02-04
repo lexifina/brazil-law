@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de MARIA IZOLETE DOS SANTOS MESSA - condenada como incursa nos crimes de tráfico de drogas e porte ilegal de arma de fogo de uso restrito (Ação Penal n. 5000056-69.2023.8.21.0037) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, não comporta acolhimento.
+Com efeito, busca a impetração a anulação da ação penal na qual a paciente restou condenada como incursa no crime de tráfico de drogas, ao argumento de nulidade da busca pessoal realizada sem fundada suspeita.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, do atento exame dos autos, observa-se que a busca pessoal que culminou com a deflagração da ação penal contra a paciente se encontra consubstanciada em prévia denúncia anônima especificada10, que corresponde à informações detalhada das características da acusada, inclusive a sua vestimenta e o apelido dela (fl. 440), constando do acórdão que os policiais encontraram, em poder da ré, 6 tijolos de maconha, pesando 3,334 kg, e 11 munições intactas de 9mm, de acordo com o auto de apreensão (fl. 440 - grifo nosso).
+Conforme entendimento desta Casa, mostra-se legal a ação policial, tanto na busca pessoal como no ingresso domiciliar, quando decorrente de denúncia anônima específica, que corresponde à descrição detalhada das características constantes das informações apócrifas.
+Com efeito, havia fundadas razões para a atuação, em virtude das circunstâncias que antecederam a entrada dos policiais no local, pois, no controle judicial a posteriori, o Tribunal a quo registrou que a "denúncia anônima" possuía dados específicos, como o nome do  paciente  e o endereço da residência (AgRg nos EDcl no HC n. 847.351/MG, Ministra Laurita Vaz, Sexta Turma, DJe 20/10/2023).
+No mesmo sentido, o AgRg no RHC n. 193.038/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe 1º/3/2024; e o AgRg no HC n. 857.981/AM, de mina relatoria, DJe 18/4/2024.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA PESSOAL. DENÚNCIA ESPECÍFICA E APREENSÃO DE 3,334 KG DE MACONHA E MUNIÇÃO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
