@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS BRUNO VIANA contra acórdão do Tribunal Regional Federal da 3ª Região (HC n. 5020269-13.2024.4.03.0000), assim ementado (e-fls. 26/27):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. "OPERAÇÃO CADEIA ALIMENTAR". DIREITO AO ACESSO PELA DEFESA DO PACIENTE, RÉU DELATADO, AO CONTEÚDO INTEGRAL DOS AUTOS DO ACORDO DE COLABORAÇÃO PREMIADA. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA E DE CONSTRANGIMENTO ILEGAL. FALTA DE INTERESSE PROCESSUAL QUANTO AO ACESSO INTEGRAL - PARTES QUE NÃO FORAM DISPONIBIIZADAS À DEFESA NÃO DIZEM RESPEITO AOS FATOS QUE FORAM IMPUTADOS AO PACIENTE. OS DOCUMENTOS QUE ATESTAM A PRESENÇA DOS INDÍCIOS DE AUTORIA E DA PROVA DA MATERIALIDADE SE ENCONTRAM ACOSTADOS AOS AUTOS DA AÇÃO PENAL. INEXISTÊNCIA DE PREJUÍZO AO EXERCÍCIO DA AMPLA DEFESA E DO CONTRADITÓRIO. ORDEM DENEGADA.
+- O paciente foi denunciado, juntamente com outros 5 (cinco) corréus, pela suposta prática do delito descrito no artigo 90 da Lei nº 8.666/1993, no bojo da Operação "CADEIA ALIMENTAR", por, em tese, na qualidade de representante da empresa ALIMENTAR DISTRIBUIDORA DE CARNES E FRIOS EIRELI, ter fraudado o caráter competitivo do Pregão Presencial nº 63/2016 realizado pelo município de Guariba/SP.
+- Alegação de cerceamento de defesa diante da negativa de acesso à defesa do paciente aos autos de nº 0003189-61.2018.403.6102, nos quais constam os acordos de colaboração premiada celebrados pelos corréus JOSÉ GERALDO ZANA e JORGE LUIZ RODRIGUES, provas estas que seriam a "viga mestra da denúncia".
+- A despeito da alegação de cerceamento de defesa, o paciente reconhece que foram disponibilizados à sua defesa as declarações feitas, em sede de delação premiada, pelos corréus relativas ao crime, em tese, por ele praticado, conforme disposto na inicial da impetração.
+- Não restou demonstrado o interesse processual do paciente no acesso às partes que lhe foram cerceadas uma vez que não diriam respeito aos fatos que lhe foram imputados na ação penal subjacente.
+- Não se vislumbra a ocorrência do alegado cerceamento de defesa considerando que a documentação pertinente aos indícios de autoria e materialidade no qual se fundamentaram a denúncia encontram-se acostados aos autos, inexistindo qualquer prejuízo ao exercício da ampla defesa e contraditório. Precedentes jurisprudenciais.
+- Nessa fase de cognição sumária, somente provocará absolvição causas manifestas ou evidentes de causas excludentes de tipicidade, antijuridicidade, culpabilidade ou punibilidade (vide os termos utilizados pelo legislador no art. 397 do CPP).
+- Inexistência de ilegalidade flagrante consistente no cerceamento ao direito da ampla defesa e do contraditório à defesa do ora paciente constituída nos autos subjacentes.
+- Ordem denegada.
+No presente writ, substitutivo do recurso ordinário, as impetrantes sustentam a ocorrência de cerceamento de defesa, tendo em vista a negativa de acesso integral ao autos n. 0003189-61.2018.4.03.6102 (acordos de delação premiadas celebrados por corréus), provas que alicerçaram a denúncia.
+Requerem, ao final, a concessão da ordem para determinar a habilitação da defesa nos autos n. 0003189-61.2018.4.03.6102.
+Com vista dos autos, opinou o Ministério Público Federal "pelo não conhecimento do writ, caso contrário, pela denegação da ordem." (e-STJ fls. 174/179)
+É o relatório. Decido.
+Verifico que, contra o acórdão proferido pelo Tribunal de Justiça no Habeas Corpus n. 5020269-13.2024.4.03.0000, a defesa manejou, simultaneamente, o presente habeas corpus e o RHC n. 202.934/SC.
+Muito embora o presente Habeas Corpus tenha aportado a esta Corte em data anterior, é patente que tanto o presente writ quanto o RHC 202.934/SP trazem exatamente o mesmo pedido e a mesma causa de pedir, amparados em argumentação idêntica. Ambos se voltam contra a mesma decisão de 1º grau e contra o mesmo acórdão do Tribunal de origem.
+É bem verdade que a lógica recomendaria fosse julgado o processo que aportou primeiro a esta Corte, reputando-se, como repetição do primeiro pedido, aquele processo que foi protocolado depois.
+No entanto, também é fato que a jurisprudência tanto desta Corte quanto do Supremo Tribunal Federal tem almejado restringir a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via recursal própria.
+Com isso em mente, e sabido que o recurso cabível contra acórdão proferido em sede de habeas corpus é o recurso ordinário em habeas corpus, deve este último ser prestigiado em detrimento do manejo de habeas corpus, para impugnar julgado de segunda instância que decidiu habeas corpus.
+Assim sendo e diante da nítida duplicidade de pedidos veiculada no presente habeas corpus e no RHC 202.934/SP, tenho que deve prosseguir para exame de mérito apenas no recurso ordinário.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Intimem-se.
+EMENTA
