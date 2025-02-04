@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JOSE ROBERTO FAVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA. ARTIGO 1.021 E §§ DO CPC. AÇÃO RESCISÓRIA. AUSÊNCIA DE IMUTABILIDADE DO JULGADO RESCINDENDO. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. - Agravo interno disposto no artigo 1.021 e §§ do Código de Processo Civil conhecido, por estarem presentes os requisitos de admissibilidade. - Configurada a ausência de imutabilidade da decisão rescindenda, pela pendência de juízo de admissibilidade do Recurso Especial ofertado pela parte autora em face do julgado originário. Não ocorrência do trânsito em jugado do . decisum - Sem condição indispensável ao ajuizamento da rescisória, impõe-se a extinção do feito sem resolução de mérito. - A decisão agravada está suficientemente fundamentada, abordou todas as questões suscitadas e orientou-se pelo entendimento jurisprudencial dominante. - Agravo interno desprovido.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente aduz ofensa e divergência jurisprudencial aos arts. 4º do Decreto 20.910/1932, 202, I, do Código Civil e 975 do CPC, no que concerne à ocorrência do trânsito em julgado de decisão combatida por ação rescisória, uma vez que, embora o acordão mencione equívoco na juntada da certidão, com fundamento na pendência de julgamento de recurso, o recorrido teve ciência dela, mas não a impugnou, incorrendo em preclusão. Argumenta:
+No entanto, em que pesem os argumentos do Recorrente, foi proferido acórdão manteve a decisão que julgou extinta a ação rescisória, sem resolução do mérito, sob o fundamento de que resta ausente condição indispensável ao seu ajuizamento, qual seja: o trânsito em julgado do decisum objeto da pretensão rescisória.
+Ocorre que, respeitando o entendimento do Exmo. Relator quando alega que a certidão de trânsito da ação de conhecimento foi equivocada, tal entendimento não pode prevalecer.
+No caso concreto, como apontado na exordial, o trânsito em julgado da última decisão correu em 22/06/2020, conforme certidão no Id. 257566561 - Pág. 50, e nos termos do artigo 975 do CPC:
+ ..
+Além do mais, importa ressaltar que em momento algum o Recorrido suscitou a alegada nulidade no trânsito em julgado.
+ ..
+Ora Excelências, o Recorrido teve ciência do trânsito em julgado, bem como apresentou cálculos, E NÃO SE MANIFESTOU nos autos principais argüindo nulidades, e agora alega que o Recorrente é carecedor de ação, o que não pode prosperar!
+ ..
+Diante disso, resta demonstrada a violação ao dispositivo legal invocado, quais sejam: artigo 975 do CPC, pelo v. acórdão ora recorrido, consoante a fundamentação supra (fls. 979-983).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Nesse contexto, a certidão de trânsito em julgado foi aposta equivocadamente, porquanto, estando o recurso da parte autora pendente de julgamento, não se cogita de decisão transitada em julgado.
+Assim, verificada a falta de pressuposto de constituição e de desenvolvimento válido do processo, no caso por ausência de condição indispensável ao ajuizamento da ação, impõe-se o decreto de extinção sem resolução de mérito, nos termos do artigo 485, IV, do CPC (fl. 970).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pelo acórdão recorrido, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 15.3.2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 1º.7.2020; REsp 1.431.610/GO, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 26.2.2019; e AgRg no AREsp 755.581/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29.2.2016.
+Ademais, pela alínea "c", verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios d a alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.5.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19.12.2019; AgInt no AgInt no REsp 1.731.585/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 26.9.2018; e AgInt no AREsp 1.149.255/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 13.4.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
