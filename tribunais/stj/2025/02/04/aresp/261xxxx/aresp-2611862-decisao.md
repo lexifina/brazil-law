@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto pela MEXTRA ENGENHARIA EXTRATIVA DE METAIS LTDA., em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+RECURSO DE AGRAVO DE INSTRUMENTO EM AÇÃO DE PROCEDIMENTO COMUM. INVERSÃO DO ÔNUS DA PROVA. Incumbe ao autor comprovar o fato constitutivo do seu direito e ao réu o fato impeditivo, modificativo ou extintivo do direito do autor. No caso concreto, a distribuição do ônus probatório obedeceu aos argumentos sustentados nos autos e ao disposto no artigo 373, do Código de Processo Civil. Inexistência de situação de impossibilidade ou excessiva dificuldade para a desincumbência do encargo. Ademais, inexistente maior facilidade de obtenção de prova pelo réu. Afastada hipótese do disposto no §1º do artigo 373 do Código de Processo Civil. Decisão mantida. Recurso desprovido.
+No apelo raro, a empresa recorrente, apontando violação do art. 373, § 1º, e II, do CPC, sustentou, em resumo, a necessidade de inversão do ônus da prova na espécie, ao argumento de que cabe à Fazenda Pública que lavrou o auto de infração por creditamento indevido de ICMS, objeto da ação anulatória, comprovar que a operação tributada refere-se à entrada de sucata sujeita ao regime de substituição tributária e não à declarada pela contribuinte, de liga de alumínio pelo regime normal de tributação, não podendo ser admitido lançamento por presunção.
+Afirma que, "de forma diversa do que foi consignado no acórdão recorrido, parece certo concluir que a recorrente não possui condições de produzir nem sequer uma única prova, pois sua análise foi feita simplesmente e somente com base na descrição da documentação fiscal que acompanhou as mercadorias recebidas pelos remetentes do Estado do Rio de Janeiro, que descreveram a mercadoria como liga de alumínio, com a indicação no NCM/SH 7601".
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender incidente a Súmula 7 do STJ; fundamento com o qual não concorda a agravante.
+Oferecida contraminuta.
+Passo a decidir.
+Na origem, cuidam os autos de agravo de instrumento interposto pela empresa autora da ação anulatória, ora agravante, contra a decisão do magistrado de primeiro grau que indeferiu o pedido de inversão do ônus da prova.
+O TJSP negou provimento ao recurso, com a seguinte motivação:
+O recurso não comporta provimento. Compulsando os autos, constata-se que a particular propôs ação de procedimento comum cujo objetivo é que seja anulado o auto de infração nº 4.055.658-0 lavrado por suposto crédito indevido de ICMS, em desrespeito ao contido nas regras do Protocolo 44/0213 que atribui ao estabelecimento industrializador destinatário, na condição de sujeito passivo por substituição, a responsabilidade pelo pagamento do ICMS devido em relações às operações antecedentes.
+Na exordial e na réplica, o particular solicitou a inversão do ônus da prova para que a Fazenda apresente comprovação de que houve a aquisição de sucata de alumínio ou invés de liga de alumínio e o MM. Juiz a quo indeferiu o pedido feito pelo agravante.
+Neste passo, de acordo com o constante nos autos, não há qualquer irregularidade na distribuição do ônus probatório.
+O particular é o autor da ação e, conforme disposto no inciso I, do artigo 373, do Código de Processo Civil lhe incumbe o ônus da prova quanto ao fato constitutivo de seu direito.
+ ..
+Deste modo, cabe ao autor, ora agravante, comprovar que efetuou a aquisição de "liga de alumínio" e não de "sucata" para fins de eventual anulação ou não do auto de infração lavrado pela Fazenda. De fato, não se trata de prova impossível ou de excessiva dificuldade e inexiste maior facilidade de obtenção da prova pelo réu.
+Assim, não se vislumbra necessidade de inversão do ônus da prova, nos termos do disposto no §1º do artigo 373 do Código de Processo Civil, sendo do particular o ônus de acostar aos autos documentos capazes de provar o seu direito e ilidir a presunção de legalidade e veracidade dos atos administrativos.
+Por tais razões, a r. decisão não comporta reparo, devendo ser integralmente mantida, por seus jurídicos fundamentos.
+Pois bem.
+O recurso especial não merece ser mesmo admitido.
+Do que se observa, a Corte bandeirante externou a compreensão de que, no presente caso, não há peculiaridade que evidencie a impossibilidade ou a dificuldade na produção da prova, de modo que cabe à contribuinte o ônus de comprovar que a operação autuada foi diversa daquele apurada pelo fisco, mormente diante da presunção de legalidade e veracidade de que goza o ato administrativo atacado.
+O juízo sobre a distribuição do ônus da prova é casuístico, porquanto deve levar em consideração as particularidades fáticas de cada feito.
+Tem-se, assim, que a revisão do entendimento externado pelo Colegiado local de que o contexto dos autos não justifica a inversão do ônus probatório requerida pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, consoante a Súmula 7 do STJ.
+Nesse mesmo sentido:
+PROCESSO CIVIL E CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRATOS DO SFH. CELEBRAÇÃO ANTERIOR AO CDC. CONTRATOS DE MÚTUO HABITACIONAL REGIDOS PELO FCVS. NÃO APLICAÇÃO. TEORIA DAS CARGAS DINÂMICAS. INVERSÃO DO ÔNUS DA PROVA. REEXAME. ÓBICE DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+3. A conclusão do Tribunal de origem, que atribuiu à parte autora o ônus da prova, está alinhada com o entendimento desta Corte firmado no sentido de impossibilidade da inversão do ônus da prova, devido à inaplicabilidade do Código de Defesa do Consumidor (CDC) ao presente caso. Ademais, a aplicação da teoria das cargas dinâmicas exige análise do caso concreto quanto à capacidade de produção de provas, e o reexame dessa questão esbarra na Súmula 7 do Superior Tribunal de Justiça (STJ).
+ ..  (AgInt no AREsp 572.002/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.).
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS EM DECORRÊNCIA DE AFUNDAMENTO DE SOLO EM ATIVIDADE DE MINERAÇÃO. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. CONSUMIDORES POR EQUIPARAÇÃO. INVERSÃO DO ÔNUS DA PROVA EM DECISÃO LIMINAR. POSSIBILIDADE. HIPOSSUFICIÊNCIA E VEROSSIMILHANÇA DAS ALEGAÇÕES RECONHECIDAS PELO TRIBUNAL. ÓBICE DA SÚMULA 7/STJ.
+ ..
+4. Eventual alteração da conclusão do acórdão recorrido quanto à necessidade de inversão do ônus da prova, bem como quanto à não configuração de prova diabólica, demandaria, necessariamente, a análise de fatos e provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+ ..  (AgInt no AREsp 2.338.191/AL, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024.).
+Acresço, por oportuno, que a alegação de que o lançamento impugnado se deu por presunção não foi efetivamente examinada no acórdão recorrido, carecendo o recurso especial, sobre esse aspecto, do requisito do prequestionamento, nos termos da Súmulas 282 do STF.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
