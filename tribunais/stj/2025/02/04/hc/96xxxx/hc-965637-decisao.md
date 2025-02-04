@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de APARECIDO JOSE DE SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 2282858-36.2024.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 26/10/2023 pela suposta prática do crime tipificado no art. 33, caput, c/c art. 40, V, ambos da Lei n. 11.343/06. Em audiência de custódia, teve a liberdade provisória concedida.
+Em 13/9/2024, o paciente foi condenado às penas de 14 anos de reclusão, no regime inicial fechado e 1.400 dias-multa, decretada a prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. Pedido de revogação da prisão preventiva. Não cabimento. Presentes os requisitos autorizadores dos arts. 312 e 313 do CPP. Decreto da prisão preventiva em sentença, a pedido da acusação. Paciente reincidente específico, condenado a pena de 14 anos de reclusão em regime fechado. Apreensão de 80 tijolos de maconha, com 63.894,65 gramas de peso líquido, 6 porções de cocaína, com 90,86 gramas de peso liquido. Descabimento, por inadequação, de medidas cautelares diversas da prisão. Constrangimento ilegal não verificado. Ordem denegada." (fl.15).
+No presente writ, a defesa afirma que não estão presentes os requisitos para a decretação da prisão preventiva, sob o argumento de que durante o período em que o paciente esteve em liberdade provisória, não apresentou riscos à ordem pública, à instrução processual ou à garantia da aplicação da lei penal, razões que justificariam o direito de recorrer em liberdade.
+Afirma que meras conjecturas sobre a personalidade do paciente, que conta com mais de 60 anos de idade, não são fundamentos idôneos para justificar a prisão preventiva.
+Requer, em liminar e no mérito, a concessão da ordem para que seja expedido contramandado de prisão. Subsidiariamente, que sejam aplicadas medidas cautelares alternativas.
+Medida liminar indeferida conforme decisão de fls. 61/63.
+Informações prestadas às fls. 69/99 e 100/103.
+Parecer ministerial de fls. 107/110 pelo não conhecimento da impetração.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+São estes os pertinentes excertos da sentença de primeiro grau e do aresto combatido, litteris:
+" ..
+Quanto ao Réu APARECIDO JOSÉ DE SOUZA verifico a presença de 03 (três) agravantes de reincidências (art. 61, inciso I, do Código Penal) - referente aos autos nº 0006416-37.2015.8.26.0073 (Tráfico); 1502789-43.2018.8.26.0073; 0002890-93.2011.8.26.0302 (Tráfico). Diante da multireincidência, duas delas específicas em Tráfico de Drogas, agravo a pena em 1/3 (TJSP; Apelação Criminal 1501720-06.2022.8.26.0438; Relator (a): Marcelo Gordo; Órgão Julgador: 13ª Câmara de Direito Criminal; Foro de Penápolis - 2ª Vara; Data do Julgamento: 05/04/2023; Data de Registro: 05/04/2023), resultando em 12 (doze) anos de reclusão e 1.200 (mil e duzentos) dias-multa.
+ ..
+III DISPOSITIVO:
+Assentes tais premissas, firme no art. 387 do Código de Processo Penal, JULGO PROCEDENTE a pretensão punitiva estatal, para condenar os Réus abaixo qualificados, como incurso no artigo 33, caput, c/c artigo 40, inciso V, ambos da Lei nº 11.343/2006, em regime inicial fechado, sem possibilidade de substituição ou suspensão, à pena de: VITOR HUGO DE ALMEIDA: 09 (nove) anos e 04 (quatro) meses de reclusão, além de 933 (novecentos e trinta e três) dias-multa, no mínimo legal; JOÃO PAULO SILVA SANTOS: 10 (dez) anos, 02 (dois) meses e 15 (quinze) dias de reclusão, além de 1.021 (mil e vinte e um) dias-multa, no mínimo legal; TALITA FERNANDA PEREIRA DE OLIVEIRA: 09 (nove) anos e 04 (quatro) meses de reclusão, além de 933 (novecentos e trinta e três) dias-multa, no mínimo legal; APARECIDO JOSÉ DE SOUZA: 14 (quatorze) anos de reclusão e 1.400 (mil e quatrocentos) dias-multa, no mínimo legal; CHARLES DOS SANTOS GOMES: 09 (nove) anos e 04 (quatro) meses de reclusão, além de 933 (novecentos e trinta e três) dias-multa, no mínimo legal.
+PRISÃO PREVENTIVA
+Considerando que a Ré TALITA FERNANDA PEREIRA DE OLIVEIRA permaneceu solta, não sobrevindo razões que justifiquem a sua prisão, concedo-lhe o direito de recorrer em liberdade.
+Por outra via, depreendo que o Réu APARECIDO JOSÉ DE SOUZA ostenta maus antecedentes, além de multireincidência, duas delas específicas em Tráfico de Drogas, sendo novamente condenado pelo mesmo crime.
+Desta feita, é evidente a reiteração delitiva do Réu, sendo absolutamente ineficaz medida cautelar diversa, razão pela qual decreto a sua prisão preventiva, na forma do artigo 313, incisos I e II, e artigo 312, ambos do Código de Processo Penal." (fls. 54/56)
+" ..
+A ordem deve ser denegada, eis que não se verifica presente o constrangimento ilegal sustentado na inicial.
+A prisão sem condenação é medida excepcional, devendo ser imposta, ou mantida, apenas quando houver prova da existência do crime, indício suficiente de autoria e, ainda, forem atendidas as exigências dos artigos 312 e 313, ambos do Código de Processo Penal.
+Na hipótese dos autos, forçoso reconhecer que estão presentes os requisitos a justificar a decretação da prisão preventiva, pois, conquanto se trate de crime cometido sem violência ou grave ameaça contra a pessoa, trata-se de suspeito reincidente específico, o que denota haver risco à incolumidade pública mantê-lo, nesse momento, em liberdade, dada a sua recalcitrância no cometimento de crimes dessa espécie, colocando em risco, inclusive, eventual aplicação da lei penal, notadamente em face da gravidade concreta do crime em análise e da dimensão da pena imposta em primeira instância (14 anos de reclusão em regime inicial fechado).
+Em outras palavras, não é desproporcional, à primeira vista, a prisão preventiva, em especial para preservar a efetiva averiguação do fato criminoso em todas as suas dimensões, sem prejuízo de que, mantido o estado de inocência, e com a elucidação da situação, a questão seja reapreciada.
+ ..
+Assim, há elementos para afastar, ao menos em tese, a alegação de violação de domicílio.
+Dessa forma, ausente constrangimento ilegal, de rigor a denegação da ordem, sem prejuízo de que, dado novo quadro, a questão seja reapreciada pelo Tribunal.
+Ante o exposto, pelo meu voto, denego a ordem." (fls. 17/19)
+Na hipótese dos autos, a prisão antecipada foi adequadamente decretada, quando da condenação em primeiro grau, escorada na necessidade da prisão para garantia da ordem pública, seja pelas circunstâncias que revelam a gravidade concreta da conduta e a periculosidade do agente, assim como pelo fundado receio de reiteração delitiva, haja vista nova condenação pelo mesmo crime posterior ao fato em apuração.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+A propósito, vejam-se os seguintes precedentes:
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA. ROUBO. ART. 312 DO CPP. OFENSA À ORDEM PÚBLICA. NOVO DELITO COMETIDO NO CURSO DA INSTRUÇÃO. RISCO DE REITERAÇÃO DELITIVA. RECURSO NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Consoante a jurisprudência do Superior Tribunal de Justiça, " p risão preventiva decretada após o proferimento da sentença não se mostra válida quando não for apresento fato novo que justifique a necessidade desta cautelar penal, em situação na qual o paciente respondeu o processo em liberdade" (RHC n. 85.330/MS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 20/3/2018, sublinhei).
+3. Na hipótese, não há ilegalidade no restabelecimento da prisão preventiva, porquanto o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a ameaça à ordem pública, dado o risco de reiteração delitiva, tendo em vista a existência de fatos supervenientes ao relaxamento da prisão preventiva do recorrente, visto que, após a concessão da liberdade provisória, o réu foi denunciado pelo suposto cometimento de novos delitos - quais sejam, roubo circunstanciado e registros de crimes praticados no âmbito doméstico.
+4. Dadas as apontadas circunstâncias do fato e as condições pessoais do ou acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+5. Recurso não provido.
+(RHC n. 121.989/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/6/2020, DJe de 4/8/2020.)
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO CAUTELAR DEPOIS DA SENTENÇA. DECISÃO ADEQUADAMENTE FUNDAMENTADA. RÉU MULTIREINCIDENTE. COMETIMENTO DE NOVOS CRIMES. ORDEM PÚBLICA. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+1. Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia cautelar exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+2. Hipótese em que não há patente ilegalidade a ser reconhecida, pois, na espécie, a custódia cautelar decretada na sentença condenatória apontou dados concretos para o resguardo da ordem pública, em razão do fato de o réu ser plurirreincidente específico e ter praticado novos delitos no curso do processo penal.
+3. Ordem denegada.
+(HC n. 349.663/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 5/4/2016, DJe de 15/4/2016.)
+Assim, na hipótese dos autos, apresentada fundamentação concreta e atual que demonstre a presença dos requisitos previstos no art. 312 do CPP, não há falar em constrangimento ilegal a ser sanado.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
