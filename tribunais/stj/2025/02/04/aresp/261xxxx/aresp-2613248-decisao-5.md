@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo de JOÃO MARCOS CAMPEÃO e GUSTAVO PALA SPURI contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alíneas "a" "c", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0707.17.014642-7/001.
+Consta dos autos que o agravante JOÃO MARCOS CAMPEÃO foi condenado pela prática dos delitos tipificados nos arts. 33, caput, c/c art. 40, V, e 35, caput, c/c art. 40, V, todos da Lei n. 11.343/2006 (tráfico de drogas majorado e associação para o tráfico majorada), às penas de 9 anos e 4 meses de reclusão, em regime inicial fechado, e 1.399 dias-multa, à razão mínima. Já o agravante GUSTAVO PALA SPURI foi condenado pela prática do delito previsto no art. 35, caput, da Lei n. 11.343/2006 (associação para o tráfico), às penas de 3 anos e 3 meses de reclusão, em regime inicial semiaberto, e 715 dias-multa, à razão mínima (fls. 4.653/4.654).
+Recurso de apelação interposto pela defesa foi desprovido. Já o apelo ministerial foi parcialmente provido para exasperar a reprimenda de JOÃO MARCOS para 15 anos e 2 meses de reclusão e 1.980 dias-multa; e o de GUSTAVO para 5 anos e 10 meses de reclusão, mais 1.050 dias-multa, fixado o regime inicial fechado (fl. 6.387).
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 6.584).
+Em sede de recurso especial (fls. 6.738/6.751), a defesa apontou ofensa aos princípios da correlação entre denúncia e sentença, da proporcionalidade na individualização da pena e da ofensa ao princípio do ne bis in idem. Argumentou que o Tribunal de origem negativou a vetorial das circunstâncias do delito, de ofício, com fundamento em fato não contido na denúncia. Aduziu, ainda, que a pena foi exasperada com base em fato inerente aos tipos penais de tráfico de drogas e de associação para o tráfico. Alegou que houve violação à proporcionalidade, já que houve o mesmo agravamento de pena de quem seria apenas subordinado e de quem seria líder da associação. Apontou violação ao at. 59 do Código Penal - CP.
+Afirmou que as frações de aumento foram inidôneas e desproporcionais.
+Ainda, apontou contradição no aumento da pena-base do recorrente GUSTAVO, porquanto houve exasperação em razão de suposta posição de líder, a despeito de ser reconhecido como subordinado a outro corréu.
+Requereu a reforma da dosimetria das penas dos recorrentes.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 6.7621/6.765).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ; b) óbice da Súmula n. 83 do STJ; e c) ausência de demonstração do dissídio jurisprudencial (fls. 6.795/6.822).
+Em agravo em recurso especial, a defesa não impugnou todos os referidos óbices (fls. 6.955/6.967).
+Contraminuta do Ministério Público (fls. 6.981/6.984).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do agravo em recurso especial (fls. 7.008/7.014).
+É o relatório.
+Decido.
+O agravo não pode ser conhecido.
+Na espécie, a defesa deixou de impugnar de forma concreta e específica o seguinte fundamento da decisão de inadmissibilidade do recurso especial: ausência de demonstração do dissídio jurisprudencial
+Conforme é cediço, faz-se necessária a impugnação específica, concreta e pormenorizada de todos os fundamentos da decisão agravada, não sendo suficiente a refutação parcial ou genérica dos óbices aplicados.
+Na decisão agravada, o TJ consignou que " c abe anotar, ainda, quanto ao pretendido dissídio jurisprudencial, que a parte recorrente não demonstrou as circunstâncias que identificam ou assemelham o acórdão recorrido e o aresto paradigma, não cumprindo as exigências regimentais e legais para a demonstração da divergência  .. " (fl. 6.822).
+Contudo, a parte, nas razões do agravo em recurso especial, limitou-se a fazer considerações acerca das Súmulas n. 7 e 83 do STJ, silenciando-se completamente acerca do fundamento em questão.
+Caberia à parte explicitar que, efetivamente, o dissenso jurisprudencial tinha sido demonstrado nos moldes indicados pela origem.
+Portanto, constata-se que a manifestação recursal não enfrenta integral e especificamente as razões de decidir da decisão de inadmissibilidade do recurso especial proferida na origem, de maneira que o recurso apresentado é incapaz de demonstrar o desacerto da decisão contra a qual se insurge, mantendo-a incólume.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do apelo nobre não é formada por capítulos autônomos, mas por um único dispositivo, de forma a exigir que o agravante impugne todos os fundamentos da decisão de origem que não admitiu o recurso especial. Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi eiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+Em suma, a decisão que inadmite o recurso especial na origem deve ser impugnada em sua integralidade, o que não foi feito.
+Dessarte, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Igualmente, o art. 932, III, do Código de Processo Civil - CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO OBSTADO NA ORIGEM COM FUNDAMENTO EM TESE REPETITIVA. AGRAVO DO ART. 1.042 DO CPC INCABÍVEL. NOS DEMAIS CAPÍTULOS, FALTA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravo do art. 1.042 do CPC é incabível para impugnar o capítulo da decisão do Tribunal de origem que nega seguimento a recurso especial com fundamento em tese repetitivo. Para tal capítulo, é cabível somente a interposição do agravo interno na própria Corte local, consoante o art. 1.030, § 2º, do CPC.
+2. Nos termos da Súmula 182/STJ, não pode ser conhecido o agravo em recurso especial, por não ter impugnado de maneira específica todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.223.298/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. Na modalidade do recurso previsto no art. 1.042 do CPC, "é inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes". Precedente da Corte Especial do STJ.
+2. A decisão que não admitiu o recurso especial assentou o óbice da Súmula 7 do STJ. No respectivo agravo, contudo, a parte limitou-se a arguir, genericamente, desnecessidade de reexame de matéria fático-probatória para exame da pretensão meritória.
+3. Esta Corte Superior pacificou entendimento de que a ausência de efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+4. Agravo desprovido.
+(AgRg no AREsp n. 2.202.802/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. APELO RARO. INADMISSÃO. ÓBICES DAS SÚMULAS N. 07 DO STJ, 283 E 284 DO STF. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É necessário a impugnação específica, concreta e pormenorizada dos fundamentos da decisão contra a qual se insurge o recorrente, sob pena de vê-los mantidos, conforme previsão do art. 932, inciso III, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal, em consonância com a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. É vedado à parte sanar os vícios de impugnação à decisão agravada de origem em sede de agravo regimental, em razão do instituto da preclusão.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 1998402/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/3/2022, DJe 21/3/2022).
+Desse modo, o presente agravo em recurso especial não ultrapassa o juízo de admissibilidade.
+Ante o exposto, com base nos arts. 932, III, do Código de Processo Civil - CPC e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
