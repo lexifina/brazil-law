@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de VINÍCIUS LEONARDO DE DEUS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido na Revisão Criminal n. 2176384-75.2023.8.26.0000.
+Consta dos autos que o paciente foi condenado à pena de 14 anos, 11 meses e 20 dias de reclusão, no regime fechado, e 2 meses e 21 dias de detenção, no regime semiaberto, pela prática dos crimes previstos nos arts. 33 da Lei n. 11.343/2006, 16 da Lei n. 10.826/2003, 180, 304 e 329 do Código Penal (tráfico de drogas e porte de munição de arma de fogo de uso restrito, receptação, uso de documento falso e resistência).
+A revisão foi indeferida por aresto assim ementado:
+"REVISÃO CRIMINAL TRÁFICO ILÍCITO DE DROGAS, POSSE ILEGAL DE MUNIÇÕES DE USO RESTRITO, RECEPTAÇÃO, USO DE DOCUMENTO FALSO E RESISTÊNCIA - NULIDADE DO FEITO POR SUPOSTAS AGRESSÕES, TORTURA POR PARTE DOS POLICIAIS DESCABIMENTO RECORRENTE QUE RESISTIU ATIVAMENTE À PRISÃO, NECESSIDADE DO USO DE FORÇA.
+O fato de que não há nos autos nenhuma prova de que os militares tinham qualquer motivo para imputar falsamente aos denunciados a prática de delito de tamanha gravidade, conforme quer fazer crer a Defesa. Importante salientar que os militares não estavam à procura do peticionário, uma vez que se encontravam em patrulhamento de rotina quando avistaram o veículo onde ele estava, não sendo crível, pois, que eles estivessem andando com expressiva quantidade de drogas para "forjarem" um flagrante contra qualquer um que encontrassem. Assim, não há o que se falar em flagrante forjado pela Polícia Militar. Os documentos juntados dito como "prova nova" atesta a ocorrência de os policiais responderem na justiça militar pelo crime de tortura e concussão, mas, em contrapartida, pela prova produzida, nos autos as lesões foram em razão de o peticionário ter reagido, e o policial Leonardo interveio, usando-se força.
+ABSOLVIÇÃO EM RELAÇÃO AO DELITO DE RESISTÊNCIA - IMPOSSIBILIDADE AUTORIA E MATERIALIDADE DELITIVA EVENDENCIADAS. DEPOIMENTOS DOS POLICIAIS FIRMES E COERENTES.
+Recorrente que, mediante o emprego de violência, resistiu a ordem de prisão emanada por agentes públicos competentes.
+ABSOLVIÇÃO DO DELITO DE USO DE DOCUMENTO FALSO ALEGADO DESCONHECIMENTO DA CONTRAFAÇÃO PRESENTE NA CRLV DO VEÍCULO INVIABILIDADE.
+Circunstâncias fáticas que demonstram que o réu possuía condições de averiguar a ilicitude da documentação Consumação ocorrida com a apresentação do documento falsificado.
+RECONHECIMENTO DO CONCURSO FORMAL NO CRIME DE TRÁFICO DE DROGAS E PORTE ILEGAL DE MUNIÇÃO DE USO RESTRITO.
+Impossível falar em concurso formal de crimes quando existem desígnios autônomos no que tange à pratica dos crimes de tráfico de drogas e porte de munição de uso restrito. Destaca-se que não foi evidenciado, nos autos, que houve unicidade de ação e desígnios na prática dos crimes de Tráfico de Drogas e de Porte Ilegal de Arma de Fogo, de forma que a autonomia dos delitos apurados faz com que seja reconhecido o concurso material de crimes.
+MAUS ANTECEDENTES.
+Reincidência com base em condenações distintas. Bis in idem não violado. Inteligência da Sumula n. 241 do STJ. Mantido os maus antecedentes. Comprovado que o réu possui duas condenações definitivas por fatos anteriores, é possível a utilização de uma delas para justificar a análise desfavorável da circunstância judicial relativa aos antecedentes e da outra para agravar a pena pela reincidência.
+PLEITO DE AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA ALEGAÇÃO DE BIS IN IDEM.
+Não há que se falar em dupla punição pelo mesmo fato, já que trata-se de tipos penais distintos praticados pelo apelante, punidos em concurso material de crimes. Assim, reconhecendo a configuração da reincidência, correto o reconhecimento da respectiva agravante no computo de cada uma das penas, bem operada.
+Revisão conhecida e indeferida." (fls. 87/88).
+Na presente impetração, a defesa busca a absolvição dos crimes de resistência e de uso de documento falso, bem como o reconhecimento de concurso formal entre os delitos de tráfico de drogas e de porte de munição de uso restrito, por ser uma única conduta.
+Afirma, ainda, a impossibilidade do uso concomitante dos maus antecedentes e da reincidência, bem como desta última agravante em todos os crimes pelos quais o paciente foi condenado.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"PENAL e PROCESSUAL PENAL. Habeas corpus substitutivo de REsp. Inadmissão. Tráfico de drogas, posse ilegal de munições de uso restrito, receptação, uso de documento falso e resistência. Pleito de absolvição dos delitos de uso de documento falso e resistência. Impossibilidade. Provas suficientes para a condenação. Reexame de provas inviável na via do writ. Pleito de reconhecimento do concurso formal entre o delito de tráfico de drogas e porte de munições. Descabimento. Crimes autônomos. Reexame do conjunto fático probatório, incabível no habeas corpus. Negativação dos maus antecedentes e da reincidência, com base em condenações distintas. Não configuração de bis in idem. Agravante da reincidência desvalorada na dosimetria de delitos distintos, praticados em concurso material. Cabimento. Ausência de constrangimento ilegal. Não admissão do writ, descabida a concessão de um habeas corpus ex officio." (fl. 135).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+De início, registra-se que desconstituir a conclusão do acórdão atacado acerca da comprovação dos crimes de resistência e de uso de documento falso demandaria o exame aprofundado de provas, procedimento incompatível com ação constitucional de rito célere e de cognição sumária da via eleita.
+Nesse mesmo sentido, confira-se o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSOLVIÇÃO DOS CRIMES DE RECEPTAÇÃO E USO DE DOCUMENTO FALSO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. NÃO CABIMENTO. REQUISITOS NÃO CUMPRIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No tocante ao pleito de absolvição do réu em relação aos crimes de receptação e de uso de documento falso, a Corte estadual, após detida análise do acervo fático-probatório acostado aos autos, entendeu que havia provas suficientes da materialidade e da autoria do paciente para sustentar sua condenação nas infrações penais ora imputadas. Rever tal entendimento enseja o revolvimento do material fático-probatório amealhado ao processo, o que é vedado nesta instância superior.
+2. Quanto à minorante do art. 33, § 4º, da Lei de Drogas, salientou o Tribunal de origem que "os acusados transportavam grande quantidade de drogas de elevado valor comercial, sobretudo o "skank", as quais estavam escondidas nas portas e "laterais" do veículo, bem como dentro de tambores de óleo com "fundo falso" para disfarçar o cheiro da droga.
+Além disso, denota-se que houve o envolvimento de terceira pessoa no delito, tal como o "dono da garagem" em Cuiabá/MT que os "contratou" para levar o veículo da cidade Ponta Porã/MS até Campo Grande/MS, o que evidencia que se dedicavam à atividades criminosas" (fl. 622).
+3. Uma vez que foi concretamente fundamentada a impossibilidade de incidência do referido redutor, não há nenhum fato novo e relevante que seja capaz de alterar o posicionamento adotado pela decisão ora agravada.
+4. Agravo regimental não provido.
+(AgRg no HC n. 698.191/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+Noutro giro, consta do voto condutor do julgado atacado:
+"No que pese o peticionário haja sustentado que deveria incidir, no caso concreto, o art. 70, do Código Penal, o qual dispõe acerca do concurso formal de crimes, destaco que não foi evidenciado, nos autos, que houve unicidade de ação e desígnios na prática dos crimes de Tráfico de Drogas e de Porte Ilegal de Munição de uso restrito, de forma que a autonomia dos delitos, ora, apurados, faz com que seja reconhecido o concurso material de crimes." (fls. 111/112).
+Assim, desconstituir a conclusão do acórdão atacado acerca da impossibilidade de reconhecer o concurso formal exige exame aprofundado de provas, o que é vedado na estreita via do mandamus.
+De outra parte, verifica-se que o paciente foi condenado definitivamente duas vezes, o que justifica o reconhecimento concomitante dos maus antecedentes e da reincidência, sem que isso implique em bis in idem. Veja-se:
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. CONDENAÇÕES PRETÉRITAS. CIRCUNSTÂNCIA JUDICIAL MAUS ANTECEDENTES. REINCIDÊNCIA. POSSIBILIDADE. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame 1. Habeas corpus impetrado em favor de paciente condenado por tráfico de drogas e posse ilegal de arma de fogo, visando à revisão da dosimetria da pena e à exclusão de valoração negativa da culpabilidade.
+2. O Tribunal de Justiça do Estado de São Paulo readequou a pena para onze anos, três meses e doze dias de reclusão, mais setecentos e trinta e dois dias-multa.
+II. Questão em discussão 3. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substituto de recurso próprio para revisão da dosimetria da pena.
+4. Verificar se há ilegalidade flagrante na fixação da pena que justifique a concessão da ordem de ofício.
+III. Razões de decidir 5. O habeas corpus não é admitido como substituto de recurso próprio, salvo em casos de flagrante ilegalidade.
+6. A dosimetria da pena foi realizada com base em elementos concretos, como a quantidade de droga e reincidência, não havendo ilegalidade flagrante.
+7. A jurisprudência permite a utilização de condenações pretéritas para valorar maus antecedentes e reincidência sem configurar bis in idem.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 886.584/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 17/12/2024.)
+Por fim, registra-se que o reconhecimento da circunstância agravante da reincidência implica na sua aplicação para agravar a pena de todos os crimes pelos quais o paciente foi condenado.
+Dessa forma, inexiste flagrante constrangimento ilegal a autorizar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
