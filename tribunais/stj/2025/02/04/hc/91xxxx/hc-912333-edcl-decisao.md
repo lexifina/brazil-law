@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VALDECIR LOTERIO contra a decisão que concedeu parcialmente o habeas corpus a fim de reduzir as penas do embargante para 1 ano, 6 meses e 20 dias de reclusão e pagamento de 21 dias-multa, mantido o regime semiaberto.
+A parte embargante afirma a ocorrência de omissão no julgado, tendo em vista o não reconhecimento da confissão espontânea alegada em seu favor, nos termos do art. 65, III, d, do Código Penal.
+Requer o acolhimento dos aclaratórios para sanar o defeito apontado, com a correspondente repercussão jurídica.
+Requer, ainda, que os presentes embargos de declaração sejam enfrentados à luz dos arts. 93, IX, da Constituição Federal, c/c os arts. 141, 489, § 1º, em consonância com art. 1.022, I e III, c/c o art. 1.025, todos do Código de Processo Civil, que exigem que todas as decisões judiciais sejam fundamentadas, situação incompatível com a omissão e erro material trazidas a lume.
+É o relatório.
+O art. 619 do Código de Processo Penal disciplina que " a os acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+Em análise da decisão embargada, observa-se que a alegação referente à incidência da confissão espontânea, de fato, não foi examinada. Passo à análise da matéria.
+Da análise dos autos, constata-se que o Tribunal de origem não examinou a incidência da atenuante da confissão espontânea, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+A propósito, destaca-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. NÃO CONFIGURADA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTER ROMPER OU REDUZIR ATIVIDADE DE GRUPO CRIMINOSO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, nos termos do art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública.
+2. No caso, a periculosidade da paciente foi revelada em minuciosa investigação levada a efeito no âmbito da Operação ARAITAK, uma vez que integraria associação criminosa estruturalmente ordenada e com emprego de arma de fogo, ligada ao à facção KATIARA, voltada para a prática de tráfico de drogas e de armas em vários Municípios do Estado da Bahia, desempenhando a função de Olheira/Apoio Operacional, subordinada diretamente a gerente de pista, ficando responsável por informar sobre a movimentação de viaturas policiais e repassar informações sobre membros da facção rival, além de fornecer sua conta bancária para depósitos referentes à venda de drogas.
+2. O alegado excesso de prazo para a formação da culpa não foi sequer apreciado pelo Tribunal estadual, o que impede o exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+3. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 905.056/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/8/2024, DJe de 23/8/2024, grifei.)
+Portanto, a correção do vício não altera a conclusão anteriormente firmada pela decisão de fls. 113-116.
+Ante o exposto, nos termos do art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, acolho os embargos de declaração para sanar a omissão apontada, sem efeitos modificativos.
+Publique-se. Intimem-se.
+ EMENTA
