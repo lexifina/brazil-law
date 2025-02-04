@@ -1,0 +1,73 @@
+DECISÃO
+Cuida-se de agravo de ROGERIO DA SILVA BORGES contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 5610000-37.2023.8.09.0051.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 500 dias-multa (fls. 548/549).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 759). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. PRELIMINARES. NULIDADES. USURPAÇÃO DE COMPETÊNCIA DA POLÍCIA CIVIL. NÃO EVIDENCIADA. ILICITUDE DA BUSCA PESSOAL E DOMICILIAR. INOCORRÊNCIA. FUNDADAS SUSPEITAS DEMONSTRADAS. MÉRITO. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. AUTORIA E MATERIALIDADE COMPROVADA. INVIABILIDADE.
+1. As diligências efetuadas pela Polícia Militar, no exercício da atribuição constitucional de preservar a ordem pública, não caracterizam usurpação de função investigativa, inconfundível com a judiciária, adstrita às corporações federal e civil.
+2. Como é de conhecimento, para a realização de busca pessoal, nos termos do art. 244 do Código de Processo Penal, exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou, ainda, quando a medida for determinada no curso de busca domiciliar.
+3. Improcede a tese de ilicitude da busca pessoal, existindo elementos prévios a justificar a justa causa para sua realização, consistente em denúncia de que no local estava havendo comércio de drogas, assim como o fato de o réu estar exatamente no local reportado, ensejando situação flagrancial.
+4. Na espécie, a entrada dos policiais no imóvel foi precedida de apreensão de entorpecentes na posse do réu  120,629 gr de maconha , o que materializa fundada suspeita de que, no interior do imóvel, haveria mais drogas em depósito, as quais foram apreendidas  duas porções de material vegetal dessecado, com massa bruta de 14, 417 g (quatorze gramas e quatrocentos e dezessete miligramas) e quatro porções de material vegetal dessecado, com massa bruta de 2,895 kg (dois quilogramas e oitocentos e noventa e cinco gramas), identificado como maconha
+5. Não merece censura a sentença condenatória, quando comprovadas a materialidade e a autoria do crime previsto no artigo 33, caput, da Lei 11.343/06, não havendo, portanto, espaço ao pleito absolutório. RECURSO CONHECIDO E DESPROVIDO." (fls. 745/746)
+Em sede de recurso especial (fls.766/798), a defesa apontou violação ao art. 59 e art. 33, ambos do CP. Sustenta que não há provas de autoria, pois o depoimento dos policiais não se coaduna com o vídeo de câmara de segurança que filmou toda abordagem. Destaca que o agravante é usuário de drogas e detinha uma só porção de maconha. Aduz que denúncia anônima não justifica busca pessoal. Acresce que a atuação de policial militar disfarçado tornou impossível a consumação delitiva. Acrescenta que houve invasão domiciliar ilegal e que a entrada na loja também foi realizada sem fundadas razões.
+Requer a absolvição ou a aplicação do art. 33, § 4º, da Lei n. 11.343/06, com reflexos no regime inicial.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS (fls. 975/988).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 1005/1006).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 1018/1029).
+Contraminuta do Ministério Público (fls. 1034/1036).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do agravo ou, caso conhecido, pelo não conhecimento do recurso especial (fls. 1049/1054).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O recurso especial não merece conhecimento para a tese de violação ao art. 59 e art. 33, ambos do Código Penal, por falta de correlação com os fundamentos da peça recursal, atraindo o óbice da Súmula n. 284 do Supremo Tribunal Federal - STF:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A corroborar, precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. AFASTAMENTO DAS AGRAVANTES. FALTA DE PREQUESTIONAMENTO E INCIDÊNCIA DA SÚMULA N. 284 DO STF. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBLIDADE. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. BIS IN IDEM COM AS QUALIFICADORAS. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Incide a Súmula n. 284 do STF quando, como no caso, a alegação de violação a dispositivo legal está dissociada das razões recursais.
+ ..
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.267.570/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+PENAL. PROCESSO PENAL. MILITAR. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 326 DO CÓDIGO PENAL MILITAR - CPM. VIOLAÇÃO DE SIGILO FUNCIONAL. AGRAVANTE ABSOLVIDO DESDE A ORIGEM POR FALTA DE PROVAS. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE DESCABIDA. NULIDADE DE ABORDAGEM POLICIAL. QUESTÃO JÁ DECIDIDA. VIOLAÇÃO A DISPOSITIVOS DA LEI N. 12.965/2014. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. VIOLAÇÃO AO ART. 542 DO CÓDIGO DE PROCESSO PENAL MILITAR - CPPM. AUSENTE OMISSÃO RELEVANTE NO TRIBUNAL DE ORIGEM. VIOLAÇÃO AOS ARTS. 383 E 384 DO CÓDIGO DE PROCESSO PENAL - CPPP. JULGAMENTO EXTRAPETITA NÃO CONSTATADO. VIOLAÇÃO AO ART. 155 DO CPP. ABSOLVIÇÃO POR FALTA DE PROVAS EMBASADA TAMBÉM EM DEPOIMENTOS COLHIDOS JUDICIALMENTE. ALTERAÇÃO DE MOTIVO DE ABSOLVIÇÃO DESCABIDA. VIOLAÇÃO AO ART. 167 DO CPP. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Sendo os dispositivos declinados descorrelacionados com os fundamentos relativos ao manuseio de aparelho celular de particular por policiais sem autorização judicial, verifica-se a deficiência do recurso, a atrair o óbice da Súmula n. 284 do STF.
+ ..
+8. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.933.096/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Ademais, os fundamentos da peça recursal não trazem r eferência ao contido no acórdão recorrido, atraindo também o óbice da Súmula n. 284 do STF.
+A corroborar, precedentes:
+RECURSO ESPECIAL. PROCESSUAL PENAL. DOSIMETRIA. FURTOS QUALIFICADOS EM CONTINUIDADE DELITIVA. DOIS DELITOS CONSUMADOS E UM TENTADO. MAUS ANTECEDENTES. CONDENAÇÃO NÃO ATINGIDA PELO PERÍODO DEPURADOR. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA DELIMITAÇÃO DA CONTROVÉRSIA. SÚMULA N. 284 DO STF. PENA DE RECLUSÃO NÃO SUPERIOR A 4 (QUATRO) ANOS. REINCIDÊNCIA E MAUS ANTECEDENTES. REGIME INICIAL SEMIABERTO. ILEGALIDADE. AUSÊNCIA. POSSIBILIDADE DE FIXAÇÃO DO REGIME FECHADO. MANUTENÇÃO DO REGIME INTERMEDIÁRIO, PELA VEDAÇÃO À REFORMATIO IN PEJUS. DELITO. TENTADO. AUSÊNCIA DE REDUÇÃO DA PENA PELA TENTATIVA. ILEGALIDADE. OBRIGATORIEDADE DA INDIVIDUALIZAÇÃO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+1. A condenação pretérita utilizada para negativar os antecedentes não foi atingida pelo período depurador, conforme expressamente mencionado no acórdão recorrido, em trecho, inclusive, transcrito pela Defesa, nas razões do recurso especial. A extinção da pena se deu em 17/11/2016 e os fatos de que cuidam a presente ação penal foram praticados em junho de 2020.
+2. Nesse contexto, as razões do apelo nobre, ao sustentarem que não poderia ter havido a negativação dos antecedentes, em razão de condenação criminal atingida pelo período depurador, estão dissociadas dos fundamentos usados no acórdão recorrido, o que caracteriza a adequada falta de delimitação da controvérsia e atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+7. Recurso especial parcialmente conhecido e, nessa extensão, provido em parte, tão-somente para determinar que o Juízo de primeiro grau efetue, fundamentadamente, como entender de direito, a redução da pena, pela tentativa, em relação ao furto qualificado tentado praticado em 07 de junho de 2020.
+(REsp n. 2.035.404/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/9/2023, DJe de 14/9/2023.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 155, CAPUT, DO CÓDIGO PE NAL - CP (FURTO). PRINCÍPIO DA INSIGNIFICÂNCIA. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO DESPROVIDO.
+1. A defesa, nas razões do recurso especial, não enfrentou diretamente aspecto apresentado pelo Tribunal de Justiça para rechaçar a aplicação do princípio da insignificância, situação que atrai o óbice da Súmula n. 284 do STF.
+1.1. No caso, a defesa limitou-se a asseverar cabimento do princípio da insignificância para reincidentes, sem qualquer impugnação ao acórdão do Tribunal de origem no tocante ao caso concreto, reincidência específica em delitos patrimoniais, condenações pela prática dos crimes de furto qualificado, estelionato e adulteração de sinal identificador de veículo automotor.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.130.959/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023.)
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. ART. 317, § 1º, DO CÓDIGO PENAL. DENÚNCIA. ATIPICIDADE. TRANCAMENTO DA AÇÃO PENAL NA ORIGEM. PRESSUPOSTOS DE ADMISSIBILIDADE NÃO PREENCHIDOS. SÚMULA N. 284 DO STF E SÚMULA N. 7 DESTA CORTE.
+1. O recurso especial não infirmou de forma adequada o fundamento contido no acórdão recorrido que concluiu pela atipicidade da conduta, atraindo a aplicação da Súmula n. 284 do STF. O recurso especial reclama fundamentação vinculada, nos termos do art. 105, III, da Constituição Federal e do art. 1029 do Código de Processo Civil, sendo indispensável que a parte recorrente demon stre, quando o recurso for interposto com fundamento na alínea a do permissivo constitucional, porque houve a violação a dispositivo legal. E, no caso, não foram apresentadas razões suficientes acerca da alegada violação ao art. 317 do Código Penal.
+2. Ademais, a análise do recurso esbarra também no óbice imposto pela Súmula n. 7 desta Corte, por reclamar o reexame do material fático-probatório.
+3. Recurso especial não conhecido.
+(REsp n. 1.883.187/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/12/2022, DJe de 14/12/2022.)
+Para além disso, o pedido de absolvição contido na peça recursal não indica o correspondente dispositivo legal violado, atraindo o óbice da Súmula n. 284 do STF:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A corroborar, precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. ROUBO. PERDÃO JUDICIAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO NO ORDENAMENTO JURÍDICO. MAUS ANTECEDENTES. DISPOSITIVO VIOLADO NÃO INDICADO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatar as situações descritas no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, hipótese ocorrida nos autos.
+2. A defesa alega ofensa ao art. 107, IX, do Código Penal, sob o argumento de que o recorrente faz jus ao perdão judicial, porquanto ficou paraplégico em decorrência do ferimento ocasionado pela arma de fogo disparada por um Guarda Municipal no momento em que praticava o delito de roubo.
+3. A aplicação do perdão judicial pelo magistrado, como causa de extinção da punibilidade do condenado, resulta da existência de circunstâncias expressamente determinadas em lei, nos termos do inciso IX do art. 107 do CP, não podendo referido instituto ser estendido, ainda que in bonam partem, às hipóteses não consagradas no texto legislativo.
+4. No caso, além de não haver previsão legal para aplicação da causa extintiva da punibilidade para os condenados pelo crime de roubo, o reconhecimento do pleito de perdão judicial dependeria do reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+5. A defesa não indicou, com relação à alegada ausência de fundamentação idônea para valorar negativamente os antecedentes do réu, o dispositivo legal supostamente violado, o que atrai a incidência da Súmula n. 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.140.215/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/6/2023, DJe de 30/6/2023.)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INVASÃO DE DOMICÍLIO, LESÃO CORPORAL NO ÂMBITO DOMÉSTICO, AMEAÇA E INCÊNDIO EM CASA HABITADA. PLEITO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA DO ART. 150, CAPUT, DO CÓDIGO PENAL - CP. IMPOSSIBILIDADE. REEXAME DE PROVAS. INCIDÊNCIA DO VERBETE N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. QUALIFICADORA DO CRIME DE INCÊNDIO. CASA HABITADA OU, NO MÍNIMO, DESTINADA À HABITAÇÃO. INCIDÊNCIA. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO E DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. REGIME INICIAL DE PENA. NÃO INDIC ADOS NO RECURSO ESPECIAL OS DISPOSITIVOS LEGAIS VIOLADOS. ÓBICE DO ENUNCIADO N. 284 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A ausência de indicação do dispositivo de lei federal eventualmente violado implica em deficiência de fundamentação do recurso especial. Assim, incide, por analogia, a Súmula n. 284 do STF, segundo a qual, "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.093.101/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Finalmente, o pedido de incidência do art. 33, § 4º, da Lei n. 11.343/06 com reflexo no regime não está acompanhado de razões recursais correlatas, atraindo também o óbice da Súmula n. 284 do STF.
+Ante o exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
