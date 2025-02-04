@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FILADELPHIA EMPRÉSTIMOS CONSIGNADOS LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. PROCESSO CIVIL. INADIMPLEMENTO DE CONTRATO DE MÚTUO. PRESCRIÇÃO QUINQUENAL. INEXISTÊNCIA DE BENS PENHORÁVEIS. PENHORA NO ROSTO DOS AUTOS. PRAZO PRESCRICIONAL INTERROMPIDO. PRESCRIÇÃO INTERCORRENTE AFASTADA.
+1. Não se aplica o novo regime da prescrição intercorrente promovido pela Lei 12.195/2021 de forma retroativa.
+2. A penhora no rosto dos autos interrompe o prazo prescricional, que só poderá ser retomado quando constatada, definitivamente, a impossibilidade de obtenção do crédito no outro feito. Precedentes. Tema Repetitivo 568 do STJ.
+3. Deu-se provimento ao apelo do exequente para cassar a r. sentença.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 921, § 4º-A, do CPC, no que concerne à incidência de prescrição intercorrente, tendo em vista que o termo inicial para a contagem se deu em 14 de fevereiro de 2017, quando houve o cancelamento da ordem de penhora, trazendo a seguinte argumentação:
+O acórdão considerou como termo inicial da prescrição intercorrente o dia 20.10.2023, sob o pretexto de que é a data em que transitou em julgado a sentença proferida em processo sem qualquer relação com o presente.
+Porém, conforme constou do mesmo voto, em 14 de fevereiro de 2017, a constrição do imóvel outrora determinada foi cancelada. Assim, aplicando-se o art. 921, § 4º-A, do CPC, o termo inicial da prescrição seria esta data, quando houve o cancelamento da constrição.
+Acrescente-se que, diferente do alegado pelo relator, não se aplica, à espécie, o TEMA REPETITIVO 568 do STJ, vez que, naquela ocasião, constou expressamente que a EFETIVA CONSTRIÇÃO patrimonial interrompe a prescrição, NÃO BASTANDO a mera determinação de penhora.
+No caso dos autos, nunca houve efetiva constrição patrimonial, tanto que, até a presente data, o recorrido nada recebeu, e não penhorou o imóvel outrora constrito.
+Daí que, com o cancelamento da ordem de penhora em 14 de fevereiro de 2017 (conforme consta do voto), teve início o prazo quinquenal de prescrição, já implementado há mais de um ano, de forma que o TJDFT deu errônea interpretação ao art. 921, § 4 o -A, do CPC (fls. 913).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+De início, registro que, em observância à teoria do isolamento dos atos processuais e tempus regit actum, não se aplica o novo regime da prescrição intercorrente promovido pela Lei 12.195/2021 de forma retroativa, tal como fez a d. sentenciante.
+Nesse sentido:
+"(..) 1. As alterações introduzidas pela Lei nº 14.195/21, notadamente aquela que fixa novo marco inicial para contagem da prescrição intercorrente, não podem ser aplicadas de forma retroativa(..) 3. Apelação provida. " (Acórdão 1779151, 00343347120128070001, Relator: ARNOLDO CAM AN HO, 4 a Turma Cível, data de julgamento: 8/11/2023, publicado no PJe: 16/11/2023. Pag.: Sem Página Cadastrada.)
+Desse modo, no caso, deve-se adotar o regramento anterior às inovações da Lei 14.195/2021. Dizia o CPC/2015: (fls. 891).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de19.12.2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp 1.157.074/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 5.8.2020; AgInt no REsp 1.389.204/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 3.8.2020; AgInt no REsp 1.842.047/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 26.6.2020; e AgRg nos EAREsp 447.251/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 20.5.2016.
+Ademais, o Tribunal a quo se manifestou no seguinte sentido:
+Na hipótese, o cumprimento de sentença foi requerido em 31/10/2014 (ID 60159093).
+Conforme decisão (ID 60159139), o processo foi arquivado pela primeira vez em 27/1/2016 (ID 60159140) e, diante da não localização de bens passíveis de penhora, foi novamente arquivado em 17/5/2018 (ID 60159144 e ID 60159145).
+Ocorre que, neste ínterim, antes do implemento do prazo quinquenal da prescrição intercorrente, sobreveio penhora no rosto dos autos 2012.01.1.030801-9 (ID 60159124), para tentativa de satisfação do débito executado, a qual foi efetivada em 14/9/2015 (ID 60159126).
+A medida demonstra que o exequente não permaneceu inerte e que havia possibilidade de pagamento do crédito, diante da existência de bens do devedor passíveis de constrição.
+Acrescento que, nos termos do art. 921, § 4º-A, do CPC e da tese firmada pelo Superior Tribunal de Justiça no julgamento do Tema Repetitivo 568, a penhora no rosto dos autos interrompe o prazo prescricional e obsta a suspensão do processo, o qual só pode ser retomado quando cessar a condição suspensiva (CC, 199, I).
+Nos autos 2012.01.1.030801-9, foi determinado o cancelamento a averbação da penhora do imóvel, em 14/2/2017 (ID 80777801), em virtude da necessidade do pagamento de créditos trabalhistas. Após ter sido suspenso, também em razão da não localização de outros bens penhoráveis, o sentenciante extinguiu o processo em virtude da prescrição intercorrente, em 25/9/2023 (ID 173067779), com trânsito em julgado em 20/10/2023 (ID 17603059).
+ ..
+Neste norte, o termo inicial para início do prazo da prescrição intercorrente seria 20/10/2023, a data do trânsito em julgado da sentença do processo 2012.01.1.030801-9, quando encerrada definitivamente a possibilidade de obtenção do crédito do autor/exequente pela penhora no rosto dos autos. Portanto, o presente feito foi extinto antes de finalizado o prazo prescricional, previsto para 20/10/2028.
+Por fim, destaco que, em 12/3/2024, conforme petição ID 60159150, o autor/exequente postulou nova penhora no rosto dos seguintes autos:
+"1) Processo nº. 5008368-14.2023.8.13.0148, em trâmite perante a 2 a vara cível de Lagoa Santa - MG, cujo valor disponível é de R$186.174,31.
+2) processo nº. 5005640-34.2022.8.13.0148, em trâmite perante a I a vara cível da comarca de lagoa Santa - MG, cujo valor total perfaz R$501.627,18, devidamente atualizado." Assim, constata-se que não houve inércia ou desídia e que há indícios da existência de bens passíveis de satisfazer o crédito do autor/exequente. (fls. 893-896).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
