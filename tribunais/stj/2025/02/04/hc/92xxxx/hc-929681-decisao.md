@@ -1,0 +1,22 @@
+DECISÃO
+Relatou a Ministra Maria Thereza de Assis Moura, à época Presidente do Superior Tribunal de Justiça, ao indeferir o pedido de liminar (fls. 1.573/1.574):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROBERTO ANTÔNIO DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta dos autos que o paciente foi condenado, em primeira instância, às penas de 16 anos e 2 meses de reclusão, em regime fechado, e 48 dias-multa, no mínimo legal, pela prática dos delitos tipificados no art. 157, § 2º, incs. I e II, c/c o art. 70, ambos, do Código Penal e no art. 288 do Código Penal, na forma do art. 69 do mesmo diploma legal (fls. 274-296).
+Na sequência, a Primeira Câmara Criminal do TJPE deu parcial provimento à apelação do paciente para reduzir sua pena para 15 anos e 2 meses de reclusão, mantida a r. sentença nos demais pontos (Apelação Criminal n. 0000099-22.2011.8.17.1590, fls. 128-158).
+Contra o r. acórdão foram interpostos embargos infringentes objetivando a prevalência do voto do Revisor que entendera pela aplicação do princípio da consunção quanto à subtração de armas da empresa de vigilância, o que implicaria na exclusão do concurso formal entre os delitos roubo.
+Os embargos infringentes, contudo, foram julgados improcedentes pela Seção Criminal do TJPE, em acórdão assim ementado (fls. 52-53):
+PENAL E PROCESSUAL PENAL. EMBARGOS INFRINGENTES E DE NULIDADE EM APELAÇÃO CRIMINAL. ROUBOS CIRCUNSTANCIADOS. PRELIMINAR. EXTINÇÃO DA PUNIBILIDADE PELA MORTE DO AGENTE. MÉRITO PEDIDO DE APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO, COM AFASTAMENTO DO CONCURSO FORMAL DE CRIMES. REJEIÇÃO. ROUBO PRATICADO MEDIANTE AÇÃO ÚNICA CONTRA VÍTIMAS DIFERENTES NO MESMO CONTEXTO FÁTICO. INCIDÊNCIA DA REGRA PREVISTA NO ARTIGO 70 DO CP. MANUTENÇÃO DO ACÓRDÃO EMBARGADO. À UNANIMIDADE DE VOTOS, FORAM REJEITADOS OS EMBARGOS INFRINGENTES.
+1. Em sede preliminar, deve ser declarada extinta a punibilidade do réu João Batista da Silva em razão de seu falecimento, com arrimo no artigo 107, inciso I, do CP.
+2 No mérito, não merece reforma o acórdão embargado. Conforme jurisprudência do Superior Tribunal de Justiça, o roubo praticado mediante única ação contra vítimas diferentes em um mesmo contexto fático configura o concurso formal de crimes (artigo 70 do CP), não se podendo falar na ocorrência de crime único em tais hipóteses porque violados patrimônios distintos, como no caso dos autos. Por mais que a subtração das armas dos vigilantes integre o contexto fático do assalto ao banco, permitindo afirmar inequivocamente tratar-se de ação única, também inequivocamente pode-se afirmar que patrimônio diverso da instituição financeira foi lesado na ação dos embargantes, o da empresa de vigilância e segurança de valores.
+3. Rejeição dos embargos.
+Alega a impetrante que a subtração das armas portadas pelos vigilantes é crime-meio, devendo ser absorvida pelo roubo contra o estabelecimento bancário.
+Assevera que "não ficou demonstrado exclusivo "animus" dos agentes em praticar roubo de armas pertencentes aos vigilantes como crime autônomo, descolado, portanto, do único desígnio dirigido de perpetrar subtração dos valores pertencentes ao Banco Itaú" e que a subtração das armas "se deu em etapa meramente executória do intento criminoso, o qual se dirigia somente à subtração de patrimônio do Banco Itaú" (fl. 7).
+Requer, liminarmente, a suspensão dos efeitos da condenação e a revogação da prisão preventiva do paciente até o julgamento definitivo do presente writ. No mérito, pugna pela absolvição do paciente com fundamento no art. 386, inc. III, do CPP.
+É o relatório.
+Consoante relatado, pretende a impetrante seja reconhecido que o roubo de armas cometido contra a empresa de segurança seja considerado crime-meio do roubo cometido contra o estabelecimento bancário, aplicando-se o princípio da consunção.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, para acolher a pretensão da impetrante, nos moldes como colocada na impetração, seria necessário reexame de provas, inviável na via eleita.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBOS MAJORADOS, EM CONCURSO FORMAL. PRETENSÃO DE INCIDÊNCIA DO PRINCÍPIO DA CONSUNÇÃO ENTRE OS DELITOS. INADMISSIBILIDADE. PRETENSÃO QUE DEMANDA REEXAME DE PROVAS. INVIABILIDADE NA VIA ESTREITA. INEXISTÊNCIA DE COAÇÃO ILEGAL MANIFESTA.
+Writ não conhecido.
