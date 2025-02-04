@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARISA LOJAS S.A., com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 568):
+TRIBUTÁRIO. APELAÇÃO. MANDADO DE SEGURANÇA. COMPENSAÇÃO CRUZADA. IMPOSSIBILIDADE QUANDO O CRÉDITO FOI APURADO ANTES DO E-SOCIAL. VEDAÇÃO LEGAL (ALÍNEA B, DO INCISO I, § 1º DO ARTIGO 26-A, DA LEI 13.670/2018). DESPROVIMENTO.
+1 - A compensação só poderá ser realizada nas condições e sob as garantias que a lei determinar. Além disso, é firme a jurisprudência no sentido de que o contribuinte deve se sujeitar aos limites da compensação segundo a lei vigente no momento do encontro de contas.
+2 - Em 30.05.2018 foi promulgada a Lei 13.670 que adicionou o art. 26-A à Lei 11.457/2007 que instituiu a compensação unificada ou cruzada entre débitos e créditos previdenciários e fazendários, apurados por meio da utilização do eSocial.
+3 - Para a Receita Federal, a chamada compensação cruzada - pagamento de contribuições previdenciárias com créditos de outros tributos - é incabível se o crédito foi apurado antes do eSocial, sistema que permite ao Fisco acompanhar em tempo real os recolhimentos ao INSS.
+4 - A Lei instituidora da compensação cruzada, veda tal possibilidade de compensação, consoante o previsto na alínea "b" do inciso I do § 1º do art. 26-A da Lei nº 11.457/2008, incluído pela Lei nº 13.670/2018.
+5 - Apelação desprovida.
+Os embargos de declaração opostos foram rejeitados (fls. 622/633).
+A parte recorrente alega violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil (CPC) porque, a despeito de provocado por meio de embargos de declaração, não supriu a omissão referente a questões essenciais à solução da controvérsia, notadamente quanto à possibilidade de compensação da parcela do crédito relativa à taxa Selic na compensação de débitos previdenciários.
+Acrescenta que o acórdão de origem infringiu o art. 927, III, do CPC, "que determina a observação pelos magistrados dos acórdãos proferidos em julgamentos de recursos repetitivos, uma vez que o v. acórdão recorrido deixou de seguir o entendimento desta Corte Superior no tocante às condições para o aproveitamento do crédito tributário" (fl. 651).
+No mérito, sustenta violação do art. 26-A, § 1º, I, da Lei 11.457/2007, dos arts. 97, I, 156, 170 e 170-A do Código Tributário Nacional (CTN) e do art. 74, § 12, II, d, da Lei 9.430/1996 ao argumento de que, a partir da alteração promovida pelo art. 8º da Lei 13.670/2018, que acrescentou o art. 26-A à Lei 11.457/2007, é cabível a compensação entre créditos previdenciários apurados pelo contribuinte com quaisquer tributos ou contribuições sociais administrativas pela Receita Federal do Brasil (RFB), sem limitação temporal alguma para autorização da compensação cruzada.
+Em pedido subsidiário, alega que, ao menos para a parcela correspondente aos juros incidentes sobre os indébitos reconhecidos em favor do contribuinte, tendo havido o reconhecimento definitivo e a liquidação desse valor apenas após a implantação do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas - eSocial, essa parcela poderá ser utilizada para a compensação de débitos de qualquer natureza.
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 715/735).
+O recurso foi admitido na origem (fls. 760/764).
+É o relatório.
+Nos termos do que dispõe o art. 1.022 do Código de Processo Civil (CPC), cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto ou questão sobre a qual o juiz devia se pronunciar de ofício ou a requerimento, bem como para corrigir erro material.
+Relativamente à compensação de débitos previdenciários, o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO decidiu nestes termos (fls. 564/565):
+Em 30.05.2018 foi promulgada a Lei 13.670 que adicionou o art. 26-A à Lei 11.457/2007 que instituiu a compensação unificada ou cruzada entre débitos e créditos previdenciários e fazendários, apurados por meio da utilização do eSocial.
+Para a Receita Federal, a chamada compensação cruzada  pagamento de contribuições previdenciárias com créditos de outros tributos  é incabível se o crédito foi apurado antes do eSocial, sistema que permite ao Fisco acompanhar em tempo real os recolhimentos ao INSS.
+Com efeito, a Lei instituidora da compensação cruzada, veda tal possibilidade de compensação, consoante o previsto na alínea "b" do inciso I do § 1º do art. 26-A da Lei nº 11.457/2008, incluído pela Lei nº 13.670/2018, "in verbis":
+"Art. 26-A. O disposto no art. 74 da Lei nº 9.430, de 27 de dezembro de 1996:
+I - aplica-se à compensação das contribuições a que se referem os arts. 2º e 3º desta Lei efetuada pelo sujeito passivo que utilizar o Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial), para apuração das referidas contribuições, observado o disposto no § 1º deste artigo;
+(..)
+§ 1º Não poderão ser objeto da compensação de que trata o inciso I do caput deste artigo:
+I - o débito das contribuições a que se referem os arts. 2º e 3º desta Lei:
+(..)
+b) relativo a período de apuração posterior à utilização do eSocial com crédito dos demais tributos administrados pela Secretaria da Receita Federal do Brasil concernente a período de apuração anterior à utilização do eSocial para apuração das referidas contribuições;"
+Nesse sentido, colaciono abaixo SOLUÇÃO DE CONSULTA COSIT Nº 50, DE 25 DE MARÇO DE 2021, publicada no DOU de 11/05/2021, seção 1, página 23:
+"COMPENSAÇÃO TRIBUTÁRIA. DÉBITO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS DE PERÍODO DE APURAÇÃO POSTERIOR À UTILIZAÇÃO DO eSOCIAL. DECISÃO JUDICIAL TRANSITADA EM JULGADO QUE RECONHECE CRÉDITO REFERENTE A PERÍODO DE APURAÇÃO ANTERIOR À UTILIZAÇÃO DO eSOCIAL. IMPOSSIBILIDADE.
+Incabível a compensação de débito de contribuições previdenciárias de período de apuração posterior à utilização do eSocial com crédito dos demais tributos administrados pela Secretaria Especial da Receita Federal do Brasil reconhecido em decisão judicial transitada em julgado, relativo a período de apuração anterior à utilização do eSocial, sendo irrelevantes a data do trânsito em julgado e a data da habilitação administrativa do crédito."
+A parte ora recorrente opôs embargos de declaração e alegou o seguinte (fls. 590/591):
+2.5. Omissão quanto ao pedido subsidiário formulado: caracterização da SELIC como receita nova para incidência de tributos federais
+Não obstante, o v. acórdão deveria necessariamente se manifestar acerca do pedido subsidiário formulado, que visava assegurar, ao menos, o direito à compensação dos juros incidentes sobre pagamentos indevidos de quaisquer tributos federais.
+Ao incorrer nessa omissão, o v. acórdão é condescendente com o ilegal critério de "dois pesos e duas medidas" utilizado pela União para hipóteses idênticas.
+Ora, se os juros incidentes sobre o indébito tributário são receita nova para a incidência do PIS/COFINS, nos termos do art. 3º do Ato Declaratório Interpretativo SRF nº 25/03, igualmente, assim devem ser considerados em favor do contribuinte.
+É que, sendo os juros incidentes sobre o indébito receita nova, originada com o trânsito em julgado da ação que os reconheceu, o período de apuração dessa parcela do indébito só pode ser o trânsito em julgado.
+Logo, ao menos para a parcela correspondente à SELIC, é fora de dúvidas que seu reconhecimento definitivo se deu após a implantação do eSocial.
+Portanto, de rigor a emissão de juízo de valor quanto a pedido subsidiário expressamente formulado pela Embargante.
+Ao examinar o recurso integrativo, o Tribunal de origem proferiu decisão com esta fundamentação (fl. 632):
+De se observar, nesse passo, que o colegiado tratou expressamente de todos os temas oportunamente colocados pelas partes.
+Conforme a pacífica jurisprudência do E. STJ, não há afronta ao art. 1.022 do CPC/2015, quando as questões discutidas nos autos são analisadas, ainda que implicitamente, ou mesmo quando afastadas de modo fundamentado pelo colegiado, não sendo obrigado a apreciar e rebater, individualmente, cada um dos argumentos apresentados pelas partes, uma vez que não está obrigada a proceder dessa forma. Nesse sentido: AgInt no R Esp n. 1.642.494/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 4/9/2018, D Je 10/9/2018; R Esp n. 1.729.793/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 3/5/2018, D Je 19/11/2018.
+Assim, à luz da melhor exegese do art. 1.021, §3º, e do art. 489, ambos do Código de Processo Civil de 2015, o julgador não está compelido, no curso do processo intelectual de formação de sua convicção para a solução do litígio, a guiar-se pela linha de raciocínio e questionamentos predefinidos na argumentação das razões recursais.
+Nessa ordem de ideias, uma vez apreciados motivada e concretamente os fundamentos de fato e de direito que envolvem o litígio, tomando em consideração todas as alegações relevantes para a sua composição, não há cogitar em desrespeito à sistemática processual civil, assim como à norma do art. 93, IX, da CF.
+É pacífico que o juiz ou tribunal deve decidir a questão controvertida indicando os fundamentos jurídicos de seu convencimento, manifestando-se sobre todos os argumentos capazes de, em tese, infirmar a conclusão adotada, não estando, porém, obrigado a responder "questionários" ou analisar alegações incapazes de conferir à parte os efeitos pretendidos.
+Vê-se que no acórdão recorrido o vício indicado nos embargos de declaração não foi sanado porque não houve manifestação sobre o pedido subsidiário referente ao reconhecimento do direito à compensação dos juros incidentes sobre os pagamentos indevidos com débitos de quaisquer tributos federais.
+Para o Superior Tribunal de Justiça, presente algum vício - omissão, contradição ou obscuridade - e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos.
+A propósito:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA. SERVIDOR PÚBLICO. AÇÃO ORDINÁRIA. PAGAMENTO DE DIFERENÇAS. SUPOSTA OFENSA AOS ARTS. 489, § 1º, INCISOS III E IV, E 1.022, INCISOS I E II, DO CPC. OCORRÊNCIA. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+ ..
+6. Reconhecida a violação aos arts. 489 e 1.022 do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, ficando prejudicada a análise dos demais tópicos do recurso especial.
+7. Embargos de declaração acolhidos, com efeitos infringentes, para dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+(EDcl no AgInt nos EDcl no AREsp n. 1.812.744/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 4/12/2024, DJe de 9/12/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. CONFIGURAÇÃO. RETORNO DOS AUTOS À ORIGEM PARA REAPRECIAÇÃO DOS EMBARGOS DE DECLARAÇÃO. NECESSIDADE. RECURSO ACOLHIDO COM EFEITOS MODIFICATIVOS PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Conforme entendimento do Superior Tribunal de Justiça, presente vício de omissão, contradição ou obscuridade, e apontada a violação do art. 1.022 do Código de Processo Civil (CPC) no recurso especial, deve ser anulado o acórdão proferido em embargos de declaração, retornando-se os autos à origem para nova apreciação do recurso.
+2. Embargos de declaração acolhidos, com efeitos modificativos, para dar provimento ao recurso especial.
+(EDcl no AgInt no AREsp n. 2.452.079/AM, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.)
+Ante o exposto, dou provimento ao recurso especial para, reconhecendo o vício da omissão, anular o acórdão pelo qual os embargos de declaração opostos na origem foram julgados; determino o retorno dos autos à origem para novo exame do recurso integrativo.
+Publique-se. Intimem-se.
+EMENTA
