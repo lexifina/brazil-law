@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE MATO GROSSO DO SUL contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, que não admitiu o recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 36):
+AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - ASSISTÊNCIA JUDICIÁRIA GRATUITA - REVOGAÇÃO INDEVIDA - AUSÊNCIA DE COMPROVAÇÃO DA SUPERVENIENTE ALTERAÇÃO DA SITUAÇÃO ECONÔMICA DA PARTE AUTORA - RENDIMENTO QUE NÃO SE MOSTRA ELEVADA - RECURSO CONHECIDO E PROVIDO. A Gratuidade de Justiça deferida à parte pode ser posteriormente revogada, todavia, para tanto, é imprescindível que o interessado comprove concretamente a desnecessidade do benefício. Devido o restabelecimento do benefício revogado indevidamente. Recurso provido.
+Os embargos de declaração opostos pela parte ora recorrente foram rejeitados (e-STJ fls. 56/59).
+A parte agravante, em seu apelo especial, indicou ofensa ao art. 98, caput, do CPC/2015, sustentando que a parte autora não faz jus ao benefício da justiça gratuita, em face da sua capacidade de pagamento, uma vez que possui condições de arcar com as custas judiciais e honorários sucumbências, sem haver prejuízo em seu sustento.
+Requer o sobrestamento do feito até o julgamento do Tema 1.178 do STJ.
+Contrarrazões à e-STJ fl. 77.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+A pretensão não merece prosperar.
+No caso, o Tribunal de origem decidiu a questão sob os seguintes fundamentos (e-STJ fl. 39):
+No caso, em consulta ao documentos colacionados aos autos (fls. 798/804 dos auto de origem), verifica-se que as agravantes percebem em média os seguintes rendimentos líquidos: R$ 6.345,25, R$ 12.009,59, R$ 6.981,18, R$ 13.539,72 e R$ 6.775,62 e conquanto a remuneração auferida não seja o único elemento a ser considerado para análise da concessão ou manutenção do benefício, verifica-se que a remuneração apontada não é apta a desqualificar a situação de miserabilidade anteriormente existente, mormente quando não apresentados quaisquer elementos de prova aptos a desconstituir a presunção daí advinda.
+Ademais, não se trata de rendimentos elevados, cuja quantia percebida pelos profissionais da educação é destinada ao seu sustento próprio e de suas famílias para manutenção de uma vida digna.
+Por outro lado, é óbvio e adequado o incremento no valor da remuneração das agravantes, sendo inviável a estagnação de sua remuneração, pois assim não acompanharia o valor da inflação.
+Se esquece o requerido da existência da correção monetária onde o poder de compra atual se equivale, ou deveria se equivaler, ao poder de compra de quando a demanda foi ajuizada. Ou seja, o aumento gradativo da remuneração é normal, o que, por consequência, o aumento dos gastos para manutenção de uma vida digna também ocorre, de modo que a manutenção da benesse é medida que se impõe.
+Desse modo, inexistindo comprovação de que a situação que ensejou a concessão do benefício da justiça gratuita à agravante foi alterada, a decisão que revogou a assistência judiciária gratuita deve ser reformada, de modo que a suspensão da exigibilidade das despesas decorrentes do processo deve ser mantida.
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas instâncias ordinárias no sentido da presença ou ausência dos requisitos para concessão do benefício da gratuidade da justiça demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, nos termos da Súmula 7 do STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA DEFERIDA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. ACIDENTE EM VIA FÉRREA. RESPONSABILIDADE CIVIL. DEVER DE INDENIZAR RECONHECIDO PELO TRIBUNAL A QUO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO. SÚMULA 54/STJ.
+ ..
+2. O Tribunal de origem deferiu o pedido de concessão do benefício em questão com base na análise da condição econômica da parte. Desconstituir a conclusão alcançada pelas instâncias ordinárias a respeito dos requisitos para o seu deferimento, tal como colocada a questão nas razões recursais, demanda novo exame do acervo fático-probatório constante nos autos, providência vedada em Recurso Especial, ante o óbice da Súmula 7/STJ.
+3. As alegações quanto à suposta ausência dos elementos ensejadores de responsabilidade civil e à existência de culpa exclusiva da vítima, vão de encontro às convicções do Tribunal a quo, que decidiu a controvérsia com suporte no conjunto probatório constante dos autos.
+4. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+5. O acórdão recorrido não destoa da jurisprudência do STJ, que possui o entendimento de que, "em se tratando de responsabilidade civil extracontratual, como na espécie, os juros moratórios incidem desde a data do evento danoso, a teor da Súmula 54/STJ" (AgInt no AREsp 1.525.615/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 12.3.2020).
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.149.234/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/10/2022, DJe de 4/11/2022.) (Grifos acrescidos).
+Ademais, é assente na jurisprudência do STJ que a simples declaração de hipossuficiência da pessoa natural, ainda que dotada de presunção iuris tantum, é suficiente ao deferimento do pedido de gratuidade da justiça quando não ilidida por outros elementos dos autos, bem como que é rechaçada a adoção única de critérios abstratos, como faixa de renda mensal isoladamente considerada, uma vez que eles não representam fundadas razões para denegação da justiça gratuita.
+A propósito:
+PROCESSUAL CIVIL. JUSTIÇA GRATUITA. FAIXA DE RENDA MENSAL. CRITÉRIO ABSTRATO. INADMISSIBILIDADE.
+1. É assente na jurisprudência do STJ que a simples declaração de hipossuficiência da pessoa natural, ainda que dotada de presunção iuris tantum, é suficiente ao deferimento do pedido de gratuidade de justiça quando não ilidida por outros elementos dos autos.
+2. Esta Corte Superior rechaça a adoção única de critérios abstratos, como faixa de renda mensal isoladamente considerada, uma vez que eles não representam fundadas razões para denegação da justiça gratuita.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.836.136/PR, rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe de 12/4/2022).
+Incide na espécie, assim, a Súmula 83 do STJ.
+Registro, por fim, que não se aplica, in casu, o Tema 1.178 desta Corte, tendo em vista a controvérsia repetitiva se prendeu à análise somente da possibilidade da adoção de critérios objetivos para aferição da hipossuficiência, não sendo a hipótese em questão, em que o Tribunal de origem utilizou critérios subjetivos para manter a concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte sucumbente, em 10% sobre o va lor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
