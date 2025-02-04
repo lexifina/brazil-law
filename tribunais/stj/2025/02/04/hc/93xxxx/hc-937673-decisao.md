@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCOS BARROS FAUSTINO DE SOUZA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+A impetrante sustenta que o paciente foi condenado às penas de 1 ano e 10 meses de reclusão no regime fechado e de pagamento de 35 dias-multa, em razão de violação dos arts. 155, § 4º, II, c/c o art. 14, II, do Código Penal.
+Aduz a existência de constrangimento ilegal ante a ausência de provas robustas de autoria e de materialidade, além de incidência indevida da qualificadora da escalada por ser ausente exame pericial nos autos.
+Requer, liminarmente e no mérito, a absolvição do paciente ou, de forma subsidiária, a desclassificação da conduta para o crime de furto simples.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem.
+É o relatório.
+Da leitura do acórdão, observa-se que o Tribunal local indicou expressamente os elementos que fundamentam a conclusão sobre a presença de materialidade e autoria, assim como sobre a existência da qualificadora da escalada, conforme o acórdão (fls. 23-30, grifei):
+Em análise aos elementos de prova constante no caderno processual, sobretudo considerando a confissão do acusado em juízo e as declarações da vítima, corroboradas pelos relatos dos agentes policiais, toma-se nítida a prática do delito descrito na denúncia, sendo certo que o acusado tentou subtrair para si 20 carteiras de cigarro e certa quantia em dinheiro, sem sucesso, por circunstâncias alheias a sua vontade, pois foi impedido pela vítima Pedro Ângelo Bemardelli.
+É importante destacar que os depoimentos dos policiais, por se tratarem de agentes públicos, têm presunção de legitimidade.
+ ..
+Enfatizo, também, que não se produziu qualquer prova da suspeição ou impedimento dos agentes públicos, apesar de tida a oportunidade para tanto, nos termos do artigo 156, caput, do Código de Processo Penal. Destarte, não havendo motivos plausíveis para desabonar o depoimento do policial, os quais é dotado de fé pública, seria um absoluto contrassenso desmerecer seu relato.
+Por certo, as circunstâncias fáticas do delito, aliadas aos depoimentos uníssonos e seguros das testemunhas, não deixa margem de dúvidas a respeito da autoria do apelante no descrito na denúncia, razão pela qual o pleito condenatório buscado comporta acolhimento.
+Quanto à qualifi cadora da escalada, esta deve ser aplicada ao caso dos autos. A despeito da inexistência de laudo técnico, há no processo outros elementos de prova seguros a atestar a qualificadora em estudo, tais como os relatos da vítima e do próprio acusado, o qual confirmou ter escalado a árvore junto ao imóvel para adentrar no estabelecimento.
+De igual modo, é pacífico na jurisprudência desta Corte Superior o entendimento de que o uso da escalada como qualificadora para o crime de furto pode ser comprovado nos autos por meios diversos da prova pericial, especialmente por meio de testemunhos ou confissão.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. ESCALADA. AUSÊNCIA DE PERÍCIA. COMPROVAÇÃO DA QUALIFICADORA POR OUTROS MEIOS. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Na hipótese, o Tribunal de origem manteve a condenação pelo delito na modalidade qualificada por entender, a partir do acervo probatório dos autos, pela existência de provas robustas quanto aos meios empregados nos crimes praticados pelo réu, a saber: depoimentos da vítima e dos policiais militares, confissão do acusado, além de filmagens do local objeto do arrombamento e da escalada. Dessa forma, não há ilegalidade na manutenção das qualificadoras previstas no art. 155, § 4.º, incisos I e II, do Código Penal. 2. A respeito da temática, os julgados mais recentes desta Corte - de ambas as Turmas que compõem a Terceira Seção, frise-se - são no sentido de que, embora a prova técnica seja necessária, excepcionalmente, se cabalmente demonstrado o rompimento de obstáculo por outros elementos probatórios, o exame pericial pode ser suprido, mantendo-se assim a qualificadora, como no caso em tela. 3. Agravo regimental não provido.
+(AgRg no HC n. 846.749/SC, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+Logo, não há ilegalidade flagrante hábil a justificar a concessão da ordem de habeas corpus, seja em relação à autoria e materialidade comprovadas nos autos, seja em relação à qualificadora da escalada.
+Assim, incabível o acolhimento dos pleitos de absolvição ou desclassificação formulados pela defesa.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
