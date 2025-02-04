@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE em julgamento da Revisão Criminal n. 0809609-10.2021.8.20.0000.
+Consta dos autos que o recorrido foi condenado ao cumprimento da pena privativa de liberdade de 15 (quinze) anos de reclusão, em regime inicialmente fechado, pela prática do crime de homicídio qualificado pelo motivo fútil e por emprego de recurso que impossibilitou a defesa da vítima (art. 121, § 2º, II e IV, do Código Penal) (fl. 64).
+Revisão Criminal ajuizada pela defesa foi julgada procedente para redimensionar a pena do crime de homicídio qualificado para 14 (quatorze) anos de reclusão, a ser inicialmente cumprida em regime fechado, a teor da norma contida no art. 111 da LEP c/c art. 33, § 2º, alínea "a", e § 3º, do Código Penal (fl. 73).
+Em sede de recurso especial (fls. 85/94), a defesa apontou violação ao art. 621, I, do CPP, porque o TJ contrariou o entendimento de que a revisão criminal tem cabimento restrito, modificando a reprimenda aplicada na decisão transitada em julgado em razão de estar em confronto com orientação jurisprudencial.
+Requer a reforma do acórdão recorrido para não conhecer da revisão criminal.
+Sem contrarrazões (fls. 96).
+Admitido o recurso no TJ (fls. 97/100), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial (fls. 109/114).
+É o relatório.
+Decido.
+Sobre a controvérsia, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE julgou procedente a revisão criminal da defesa para reduzir a pena do réu nos seguintes termos do voto do relator:
+"Inicialmente, destaco que a ação de Revisão Criminal, prevista nos artigos 621 e seguintes do Código de Processo Penal, admite a reanálise da decisão condenatória nas seguintes hipóteses:
+(..)
+Imperioso consignar, portanto, tratar-se de hipóteses taxativamente elencadas pelo legislador, tornando a Revisão Criminal uma ação de fundamentação vinculada, não se prestando à rediscussão de questões já examinadas por mera irresignação quanto ao provimento jurisdicional obtido.
+No particular, a parte sustenta merecer revisão a sentença proferida pelo Juiz de Direito Presidente do Tribunal do Júri da Comarca de Assu, pois as circunstância judicial da culpabilidade teria sido valorada negativamente com o emprego de fundamentação inidônea, razão pela qual pleiteia o redimensionamento da pena-base aplicada na condenação.
+Apesar da dosimetria da pena compor um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, sua análise pela presente via é possível em casos excepcionais de manifesta ilegalidade, cujo reconhecimento ocorra sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios.
+Apesar da dosimetria da pena compor um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, sua análise pela presente via é possível em casos excepcionais de manifesta ilegalidade, cujo reconhecimento ocorra sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios.
+Da leitura do que fora destacado acima, observa-se que a fundamentação utilizada para valorar negativamente a circunstância judicial referente à culpabilidade inidônea.
+Isso porque, a potencial consciência sobre a ilicitude da conduta é um dos pressupostos da culpabilidade elementar do conceito analítico de crime, não pertencendo ao rol das circunstâncias judiciais especificadas no art. 59 do Código Penal, porquanto a culpabilidade nele referenciada diz respeito à reprovabilidade social.
+(..)
+Assim, a valoração negativa do vetor da culpabilidade não pode ter como base em dados referências vagas e dados não explicitados. Ao revés, a análise deve se fundamentar concretos extraídos da conduta imputada ao acusado, os quais devem desbordar dos , pois a acepção de culpabilidade empregada no art. 59 do elementos próprios do tipo penal CP diz respeito ao maior ou menor grau de reprovabilidade da conduta do agente.
+Por essa razão, merece acolhimento a pretensão revisional, eis que a circunstância judicial da culpabilidade foi analisada sem a devida observância às peculiaridades do caso concreto, denotando clara ofensa aos arts. 59 e 68, ambos do Código Penal, bem assim ao princípio da individualização da pena." (fls . 65/68)
+Com efeito, prevalece nesta Corte Superior o entendimento de que, salvo os casos de manifesta ilegalidade, é inadmissível o emprego da revisão criminal para modificar a reprimenda cominada, haja vista que, além do art. 59 do Código Penal não estabelecer regramento objetivo para fixação da pena, a dosimetria deve observar certa discricionariedade do órgão julgador.
+Não obstante a existência do entendimento jurisprudencial acima externado, no caso dos autos, o Tribunal de Justiça considerou a existência de manifesta ilegalidade na dosimetria da pena do réu a julgar procedente o pleito revisional. Sendo assim, não é possível a alteração do julgado, sob pena de revolvimento fático-probatório, vedado conforme Súmula n. 7 do STJ.
+Ante o exposto, não conheço do recurso e special, com fundamento no art. 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
