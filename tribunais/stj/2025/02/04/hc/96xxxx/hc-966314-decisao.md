@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em benefício de SEVERINO PEREIRA GUSMÃO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO proferido no julgamento do Agravo de Execução Penal n. 0012854-07.2024.8.17.9000.
+Extrai-se dos autos que a defesa interpôs agravo contra a decisão do Juízo da Execução que assentou a impossibilidade de "utilizar para fins de cálculos de término da pena nem a remição por trabalho e estudo a que o apenado tem direito nem tampouco a contagem em dobro do período em que ficou recolhido no Complexo do Curado (Seq. 98.1), porquanto, como se sabe, configura uma remição sui generis determinada pela Corte Interamericana de Direitos Humanos como forma de compensação pelo cumprimento de pena em condições degradantes" (fl. 556).
+Referido agravo foi desprovido por aresto assim ementado:
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. PLEITO DE EXTINÇÃO DA PUNIBILIDADE PELO IMPLEMENTO DO TEMPO MÁXIMO PREVISTO NO ART. 75 DO CÓDIGO PENAL. CÔMPUTO EM DOBRO DO PERÍODO DE PRISÃO NO COMPLEXO DO CURADO. NATUREZA JURÍDICA DE REMIÇÃO SUI GENERIS. TEMPO REMIDO INCIDENTE SOBRE A TOTALIDADE DAS PENAS, E NÃO SOBRE O LIMITE DISPOSTO NO ART. 75 DO CÓDIGO PENAL. SÚMULA Nº 715 DO STF. AGRAVO EM EXECUÇÃO DESPROVIDO. DECISÃO UNÂNIME.
+1. A Seção Criminal deste TJPE, em sede de Incidente de Resolução de Demandas Repetitivas (Processo nº 008770-65.2021.8.17.9000) firmou a tese de que a contagem em dobro do tempo de prisão cumprido no Complexo Penitenciário do Curado possui a natureza jurídica de remição sui generis ou, mais precisamente, de "remição por superlotação".
+2. O enquadramento do cômputo em dobro como espécie de remição sui generis não contraria as determinações da CIDH, pois, além de o instituto estar previsto no direito interno brasileiro, o art. 128 da Lei de Execuções Penais ainda prevê que "o tempo remido será computado como pena cumprida, para todos os efeitos".
+3. A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça se firmou no sentido de que o instituto da remição deve incidir sobre o total das penas somadas, e não sobre o montante limite previsto no art. 75 do Código Penal, que era de 30 (trinta) anos antes da vigência do Pacote Anticrime, e que atualmente é de 40 (quarenta) anos. Súmula nº 715 do STF.
+4. Assim, uma vez que o cômputo em dobro do tempo de pena cumprido em condição degradante no Complexo do Curado possui natureza de remição, tem-se que ele não pode ser utilizado na contagem do limite máximo de pena previsto no art. 75 do CP, mas apenas para abater o total da pena aplicada, de forma que não ocorreu, in casu, a extinção da punibilidade do apenado pelo cumprimento integral da pena.
+5. Agravo em execução desprovido. Decisão unânime." (fls. 632/633).
+No presente writ, a impetrante sustenta que a compensação penal pelo cumprimento de pena no Complexo Curado não se enquadra como remição para os fins da Lei de Execução Penal.
+Pugna, assim, pela extinção da punibilidade do paciente pelo integral cumprimento da pena.
+O Ministério Público Federal emitiu parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. EXECUÇÃO PENAL. CÔMPUTO EM DOBRO DO PERÍODO DE PENA CUMPRIDO NO COMPLEXO CURADO. IMPOSSIBILIDADE. PRECEDENTES DOS TRIBUNAIS SUPERIORES. AUSÊNCIA DE MANIFESTA ILEGALIDADE A PERMITIR A CONCESSÃO DA ORDEM DE OFÍCIO.
+- Parecer pelo não conhecimento do Habeas Corpus." (fl. 655).
+É o relatório.
+Decido.
+Diante da hipótes e de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Consta da judiciosa peça opinativa:
+"Na hipótese, não se verifica nenhuma manifesta ilegalidade ou teratologia a justificar a atuação, de ofício, dessa Corte superior, uma vez que a decisão impugnada está em conformidade com a jurisprudência dessa Corte Superior no sentido de que "condenado o paciente ao cumprimento de pena corporal superior a 30 anos, a remição a ele deferida deve recair sobre o total da reprimenda imposta e não sobre a pena unificada com a aplicação do limite de 30 anos disposto no art. 75 do Código Penal" (HC n. 426.786/SP, Rel. Min. JOEL ILAN PACIORNIK, 5ª T.).
+A propósito, nos termos da Súmula 715/STF, "a pena unificada para atender ao limite de trinta anos de cumprimento, determinado pelo art. 75 do Código Penal, não é considerada para a concessão de outros benefícios, como o livramento condicional ou regime mais favorável de execução".
+Sou, portanto, pelo não conhecimento do Habeas Corpus." (fl. 657).
+Como visto das bem lançadas razões do parecer ministerial, as quais adoto como fundamentos para decidir, mostra-se correto o entendimento de que a remição deferida ao paciente recaia sobre a pena unificada e não sobre o limite de 30 ou 40 anos de cumprimento máximo da pena .
+A propósito, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. COMPUTO EM DOBRO DO PERÍODO DE PRISÃO NO COMPLEXO CURADO. REMIÇÃO SUI GENERIS. BENEFÍCIO DA EXECUÇÃO. INCIDÊNCIA SOBRE O PENA TOTAL IMPOSTA AO APENADO. INAPLICABILIDADE DA LIMITAÇÃO DO ART. 75 DO CÓDIGO PENAL. PRECEDENTES DO STJ. SÚMULA 715/STF. AGRAVO DESPORVIDO.
+1. Incide o enunciado sumular n. 715 da Suprema Corte no cálculo do cômputo em dobro do período de pena cumprido no Complexo Curado por se tratar de um benefício da execução penal, cuja natureza jurídica é de uma remição sui generis.
+2. É pacífico o entendimento do Superior Tribunal de Justiça no sentido de que "A unificação das penas, prevista no art. 75 do Código Penal, diz respeito ao tempo de duração da pena privativa de liberdade, que não pode exceder ao limite de 30 (trinta) anos.
+Quanto aos benefícios (livramento condicional, progressão, remição, etc.), todavia, o cálculo deverá ser executado sobre o total da condenação. Nesse sentido a jurisprudência consolidada desta Corte e do eg. Supremo Tribunal Federal, onde a matéria, inclusive, encontra-se sumulada com o seguinte teor: "A pena unificada para atender ao limite de 30 (trinta) anos de cumprimento, determinado pelo art. 75 do Código Penal, não é considerada para a concessão de outros benefícios, como o livramento condicional ou regime mais favorável da execução." (Súmula n. 715/STF)". (HC n. 333.735/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 23/2/2016, DJe de 4/3/2016).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 903.986/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
