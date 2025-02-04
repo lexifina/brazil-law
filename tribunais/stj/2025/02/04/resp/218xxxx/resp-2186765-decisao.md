@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA NACIONAL com fundamento na alínea "a" do permissivo constitucional contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fls. 377/378):
+Tributário e Administrativo. Mandado de segurança. Reexame dos embargos de declaração interpostos pela União. Art. 1.040, inc. II, do Código de Processo Civil. Legalidade da exclusão do ICMS-DIFAL na base de cálculo do PIS e da COFINS. Provimento dos embargos declaratórios da Fazenda Nacional, sem efeitos infringentes.
+1. Autos que retornam do Superior Tribunal de Justiça, via de decisório da min. Gurgel de Faria, no RESP nº 2142595/CE, de 29 de maio de 2024, para novo julgamento dos embargos declaratórios opostos pela Fazenda Nacional, o qual postula o acolhimento do pedido referente à ilegalidade da exclusão do valor relativo ao ICMS-DIFAL sobre a base de cálculo do PIS e da COFINS.
+2. Dessa forma, como Órgão Julgador originário no presente caso, passo ao exame da matéria em tela, nos termos do art. 1.040, inc. II, do Código de Processo Civil.
+3. No caso em análise, a Fazenda Nacional busca o rejulgamento dos embargos declaratórios, haja vista que o PIS e o COFINS não incidem sobre o valor relativo ao ICMS-Difal, motivo pelo qual este não pode ser excluído da base de cálculo daquelas contribuições.
+4. A União, em suas razões recursais, aduz que não há como transferir o que foi decidido no Tema nº 69, do Supremo Tribunal Federal, visto que a inclusão de ICMS na base de cálculo do PIS e da COFINS é indevida, pois não é considerado no cálculo do PIS e da COFINS na nota fiscal, sendo ilegítima a restituição no âmbito administrativo.
+5. O ICMS-DIFAL é o imposto com incidência nas atividades mercantis entre os estados quando ocorre a diferença de alíquota entre o vendedor e comprador, com o fito de buscar o equilíbrio com o preço de mercadorias adquiridas dentro do Estado.
+6. Nessa senda, deve ser registrado quanto ao ICMS-DIFAL que o valor exposto na nota fiscal pela impetrante não compõe o faturamento da empresa, tendo em vista o mesmo entendimento do Terma nº 69 pelo Supremo Tribunal Federal, quando os referidos valores apenas ingressam na contabilidade da pessoa jurídica, até o momento de serem recolhidos aos estados.
+7. Com efeito, a incidência do ICMS nas operações mercantis internas e o ICMS cobrado nas operações entre os estados devem seguir o mesmo tratamento tributário, visto que tal montante apenas transita na contabilidade da empresa.
+8. Ademais, a ilegalidade da inclusão do ICMS-DIFAL na base de cálculo do PIS e da COFINS é embasa na natureza tributária dessas contribuições, quando devem sofrer a incidência apenas sobre o faturamento do impetrante, afastando todos os tributos indiretos que não integram o patrimônio da empresa.
+9. Dessa forma, não há mácula no acórdão embargado quando reconheceu que ao ICMS-DIFAL deve ser dado o mesmo tratamento do ICMS nas operações internas, determinando a exclusão da base de cálculo do PIS e da COFINS, em razão de que o mesmo não gera créditos à empresa.
+10. Provimento aos embargos declaratórios da Fazenda Nacional, mas sem efeitos infringentes, mantendo a exclusão do ICMS-DIFAL na base de cálculo do PIS e da COFINS.
+A recorrente aponta ofensa aos arts.: 2º da Lei Complementar nº 70/1991; 1º da Lei n. 10.637/2002; 1º da Lei n. 10.833/2002; 2º da Lei n. 9.715/1998; 2º e 3º da Lei n. 9.718/1998; e 12, § 5º, do Decreto-Lei n. 1.598, de 1977, com a redação dada pela Lei 12.973, de 2014.
+Sustenta, em resumo, que "A tese do contribuinte não merece acolhimento, pois O ICMS-Difal não pode ser excluído da base de cálculo do PIS/COFINS simplesmente porque aquele nunca esteve contido nesta. A base de cálculo do PIS/COFINS não é afetada nas operações interestaduais sujeitas ao diferencial de alíquotas de ICMS" (e-STJ fl. 401).
+Acrescenta que "O Tema 69, portanto, não possui nenhum ponto de contato com o ICMS-Difal nas operações interestaduais a consumidor final, seja ou não contribuinte do imposto, devendo ser observada a legislação de regência das contribuições sociais que definem a receita bruta " (e-STJ fl. 401).
+Impugnação apresentada às e-STJ fls. 408/411.
+Passo a decidir.
+Cuidam os autos, na origem, de mandado de segurança em que se busca o reconhecimento do direito líquido e certo ao recolhimento da contribuição ao PIS e da COFINS sem incluir em sua base de cálculo o ICMS, o ICMS-ST e o ICMS-DIFAL.
+A sentença concedeu a ordem (e-STJ fls. 149/154).
+O Tribunal de origem deu parcial provimento à apelação do ente público apenas para "para manter a exigibilidade do ICMS-ST e reconhecer a ilegitimidade ativa da recorrida" (e-STJ fl. 209), mantendo a sentença nos demais tópicos.
+Opostos embargos de declaração, esses foram rejeitados.
+A Fazenda Nacional, então, interpôs recurso especial, os quais foram a mim distribuídos, oportunidade em que deu provimento ao apelo fazendário, reconhecendo a violação do art. 1.022, II, do CPC, tendo em vista a ausência de manifestação da Corte regional acerca dos dispositivos de lei federal que tratam da questão da inclusão do ICMS-DIFAL na base de cálculo do PIS e da COFINS.
+Devolvidos os autos ao TRF de origem, o Colegiado regional reexaminou os embargos de declaração e proferiu acórdão nos seguintes termos (e-STJ fls. 371/372):
+No caso em análise, a Fazenda Nacional busca o rejulgamento dos embargos declaratórios, haja vista que o PIS e o COFINS não incidem sobre o valor relativo ao ICMS-Difal, motivo pelo qual este não pode ser excluído da base de cálculo daquelas contribuições.
+A União, em suas razões recursais, aduz que não há como transferir o que foi decidido no Tema nº 69, do Supremo Tribunal Federal, visto que a inclusão de ICMS na base de cálculo do PIS e da COFINS é indevida, pois não é considerado no cálculo do PIS e da COFINS na nota fiscal, sendo ilegítima a restituição no âmbito administrativo.
+O ICMS-DIFAL é o imposto com incidência nas atividades mercantis entre os estados quando ocorre a diferença de alíquota entre o vendedor e comprador, com o fito de buscar o equilíbrio com o preço de mercadorias adquiridas dentro do Estado.
+Nessa senda, deve ser registrado quanto ao ICMS-DIFAL que o valor exposto na nota fiscal pela impetrante não compõe o faturamento da empresa, tendo em vista o mesmo entendimento do Terma nº 69 pelo Supremo Tribunal Federal, quando os referidos valores apenas ingressam na contabilidade da pessoa jurídica, até o momento de serem recolhidos aos estados.
+Nesse sentido, transcrevo o seguinte precedente desta Tribunal referente à matéria em debate:
+(..)
+Com efeito, a incidência do ICMS nas operações mercantis internas e o ICMS cobrado nas operações entre os estados devem seguir o mesmo tratamento tributário, visto que tal montante apenas transita na contabilidade da empresa.
+Ademais, a ilegalidade da inclusão do ICMS-DIFAL na base de cálculo do PIS e da COFINS é embasa na natureza tributária dessas contribuições, quando devem sofrer a incidência apenas sobre o faturamento do impetrante, afastando todos os tributos indiretos que não integram o patrimônio da empresa.
+Dessa forma, não há mácula no acórdão embargado quando reconheceu que ao ICMS-DIFAL deve ser dado o mesmo tratamento do ICMS nas operações internas, determinando a exclusão da base de cálculo do PIS e da COFINS, em razão de que o mesmo não gera créditos à empresa.
+Por este entender, dou provimento aos embargos declaratórios da Fazenda Nacional, mas sem efeitos infringentes, mantendo a exclusão do ICMS-DIFAL na base de cálculo do PIS e da COFINS.
+Pois bem.
+De início, ressalto que o único tópico agitado no recurso especial fazendário refere-se à inclusão do ICMS-DIFAL na base de cálculo do PIS e da COFINS.
+Dito isso, tenho que a conclusão perfilhada no acórdão recorrido está de acordo com a orientação jurisprudencial desta Primeira Turma, que, no julgamento do RESP 2.128.785/RS, adotou o entendimento de que o ICMS-DIFAL não compõe a base de cálculo da contribuição ao PIS e da COFINS.
+É o que se extrai da ementa do referido julgado:
+TRIBUTÁRIO. PROCESSO CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 927 DO CPC/2015. NÃO OCORRÊNCIA. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS (ICMS). DIFERENCIAL DE ALÍQUOTAS (DIFAL). INCLUSÃO NAS BASES DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. IMPOSSIBILIDADE. DIREITO À COMPENSAÇÃO. RECURSO ESPECIAL PROVIDO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade ou deficiência de fundamentação.
+II - O ICMS-DIFAL é mera sistemática de cálculo de um único imposto - o ICMS-, com idênticos aspectos material, espacial, temporal e pessoal, diferenciando-se, tão somente, quanto ao aspecto quantitativo, mais precisamente, quanto ao incremento de alíquota a ser considerado para o cálculo do valor devido pelo contribuinte e do ulterior direcionamento do respectivo produto da arrecadação.
+Assim, aplica-se a ele as mesmas teses fixadas nos Temas n. 69/STF e 1.125/STJ.
+III - O diferencial de alíquotas do ICMS (DIFAL) não integra as bases de cálculo da contribuição para o PIS e da COFINS.
+IV - Tratando-se de mandado de segurança impetrado com vista a declarar o direito à compensação tributária, é suficiente a comprovação de que o impetrante ocupa a posição de credor tributário, porquanto os comprovantes de recolhimento indevido do tribuno serão exigidos posteriormente, na esfera administrativa, quando o procedimento de compensação for submetido à verificação pelo Fisco. Precedente.
+V - Recurso Especial provido.
+(REsp n. 2.128.785/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+Incide, assim, a Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos com base na alínea "c" quanto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
