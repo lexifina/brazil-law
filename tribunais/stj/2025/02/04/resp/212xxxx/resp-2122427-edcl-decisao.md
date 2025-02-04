@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração apresentados pelas LOJAS AMERICANAS S.A. contra decisão que dei provimento ao seu recurso especial para reconhecer o "direito de pleitear perante a Administração a compensação dos créditos indevidamente recolhidos anteriormente à impetração ainda não atingidos pela prescrição quinquenal" ( fl. 1.004).
+É o relatório.
+Ocorre, todavia, que o recurso especial da LOJAS AMERICANAS S.A. ficou prejudicado com a superveniente afetação da matéria discutida no recurso especial da parte ora embargada, ESTADO DO PARANÁ, à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1273), e foi assim delimitada:
+"Definir o marco inicial do prazo decadencial para impetração do mandado de segurança, com o objetivo de impugnar obrigação tributária que se renova periodicamente" (REsp 2103305/MG e REsp 2109221/MG, relator Ministro Paulo Sérgio Domingues).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, torno sem efeito as decisões de fls. 1.000/1.004 e 1.005/1.009; julgo prejudicados os embargos de declaração às fls. 1.017/1.019 e o agravo interno às fls. 1.033/1.042; e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
