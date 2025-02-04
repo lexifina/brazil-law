@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de ANDERSON RAFAEL DA SILVA NASCIMENTO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA proferido no julgamento da Apelação n. 5017640-85.2024.8.24.0020/SC.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 1 ano e 2 meses de reclusão, no regime inicial fechado, mais 11 dias-multa, pela prática do delito de furto tentado (art. 155, §1º, c/c o art. 14, II, ambos do Código Penal).
+Em apelação da defesa, a pena foi reduzida para 1 ano e 13 dias de reclusão, no regime inicial fechado, mais 9 dias-multa, em acórdão assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. FURTO TENTADO COMETIDO DURANTE O REPOUSO NOTURNO (ART. 155, §1º C/C ART. 14, II, AMBOS DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+MÉRITO. REQUERIDO O RECONHECIMENTO DA ATIPICIDADE DA CONDUTA COM INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. BENS SUBTRAÍDOS AVALIADOS EM MONTANTE SUPERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. ADEMAIS, RECORRENTE REINCIDENTE EM CRIME DOLOSO. PRECEDENTES DO STJ E DESTA CORTE. SENTENÇA MANTIDA.
+REQUERIDA APLICAÇÃO DA FRAÇÃO DE 2/3 QUANTO À CAUSA DE DIMINUIÇÃO DA TENTATIVA. NÃO ACOLHIMENTO. APELANTE ABORDADO QUANDO JÁ DEIXAVA O ESTABELECIMENTO COMERCIAL NA POSSE DA RES FURTIVA. ITER CRIMINIS PERCORRIDO QUASE EM SUA INTEGRALIDADE QUE JUSTIFICA O PATAMAR DE 1/3 (UM TERÇO).
+PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL DO FECHADO PARA O SEMIABERTO. IMPOSSIBILIDADE. APELANTE REINCIDENTE E COM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. NÃO INCIDÊNCIA DO ENUNCIADO N. 269 DA SÚMULA DO STJ. REGIME MAIS GRAVOSO QUE SE IMPÕE.
+DE OFÍCIO, ADEQUADO O CÁLCULO DA DOSIMETRIA, NA ETAPA DERRADEIRA.
+RECURSO CONHECIDO NÃO PROVIDO." (fl. 284)
+No presente writ, a impetrante busca, inicialmente, a aplicação do princípio da insignificância. Sustenta que "o TJSC manteve a condenação do PACIENTE ao cárcere (regime fechado) por uma conduta sem qualquer relevância jurídico-penal: a subtração de uma garrafa de bebida alcoólica no valor total de R$ 150,00, equivalente a 10,6% do salário mínimo, que logo foi restituída à vítima. É desse fato absolutamente irrelevante que incrivelmente está a se tratar no presente processo criminal. E pouco mais precisaria ser dito para se chegar à conclusão evidente de que com ele não deve se ocupar a justiça penal" (fl. 6).
+Também alega que, caso não reconhecida a atipicidade material da conduta, é cabível, excepcionalmente, a fixação do regime inicial aberto, considerando as peculiaridades do caso concreto.
+Prestadas as informações solicitadas (fls. 299/312 e 313/349), o Ministério Público Federal emitiu parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS. PENAL E PROCESSO PENAL. FURTO. PLEITO DE ABSOLVIÇÃO. INVIABILIDADE. DECISÃO TRANSITADA EM JULGADO. PRECLUSÃO. SUBSTITUIÇÃO DE REVISÃO CRIMINAL. SUBVERSÃO AO SISTEMA RECURSAL BRASILEIRO. DESVIRTUAMENTO DAS FUNÇÕES CONSTITUCIONAIS DESTA CORTE SUPERIOR. IMPOSSIBILIDADE. PRECEDENTES. PARECER PELO NÃO CONHECIMENTO DO WRIT E PELA DENEGAÇÃO DA ORDEM. - Parecer pelo não conhecimento do writ e, se conhecido, pela denegação da ordem de habeas corpus." (fl. 355)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, entendo razoável verificar a eventual existência de flagrante constrangimento ilegal que autorize a concessão da ordem, de ofício, o que, todavia, não é a hipótese dos autos.
+De início, constato que a questão referente à incidência do princípio da insignificância foi apreciada no julgamento do HC n. 949797, conforme se extrai do seguinte trecho:
+" ..  Com efeito, constata-se que o paciente possui reiteração delitiva em delitos contra o patrimônio, além do valor da coisa subtraída superar os 10% do salário mínimo, a impedir a aplicação do princípio da insignificância.
+A propósito, confiram-se os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO. REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, pois o valor da res ultrapassa 10% do salário mínimo vigente à época dos fatos e consta dos autos a contumácia delitiva da agravante, inclusive em crimes patrimoniais, circunstâncias que demonstram a prática de crimes de forma habitual e reiterada, reveladora de personalidade voltada para o crime, ficando afastado o requisito do reduzido grau de reprovabilidade da conduta para aplicação do princípio da insignificância ora pretendido.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 704.617/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/3/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. POSSIBILIDADE, EM TESE, DE INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE, NO CASO CONCRETO. VALOR DA RES FURTIVA SUPERIOR A 10% DO SALÁRIO MÍNIMO.HABITUALIDADE CRIMINOSA RECONHECIDA.AGRAVO NÃO PROVIDO.
+1. O valor das coisas subtraídas foi de R$ 468,00, relativo ao preço de "01 (uma) caixa contendo carnes bovinas, avaliadas em R$ 300,00 (trezentos reais) e 01 (uma) caixa térmica contendo bebidas, avaliadas em R$ 168,00 (cento e sessenta e oito reais)" (e-STJ, fl. 177), e equivale a 46,89% do salário-mínimo vigente à época do fato (R$ 998,00), que remonta a 17/8/2019 (e-STJ, fl. 7). O valor, portanto, é superior ao critério informado pela jurisprudência.
+2. Outrossim, o entendimento perfilhado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, no sentido de que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese, por se tratar de recorrente reincidente em crime patrimonial (e-STJ, fl. 177).
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.240.993/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/3/2023.)
+Assim, constata-se a inexistência de flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Por tais razões, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus." (HC n. 949.797, de minha relatoria, DJEN de DJe 16/10/2024.)
+No que diz respeito ao regime prisional, entendo que se mostra necessária a manutenção do regime fechado, considerando a reincidência do paciente e a existência de antecedentes, demonstrando contumácia delituosa, em observância ao disposto no art. 33 do Código Penal.
+Ante o exposto, não conheço do habeas corpus, com fundamento no art. 34, XX, do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
