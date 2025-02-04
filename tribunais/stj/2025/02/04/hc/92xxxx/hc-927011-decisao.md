@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LEANDRO AUGUSTO BRIGITE contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 2117144-24.2024.8.26.0000 .
+Extrai-se dos autos que o paciente foi preso em flagrante em 20/7/2023, posteriormente convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 16):
+"HABEAS CORPUS TRÁFICO DE DROGAS: Alegado excesso de prazo na realização da perícia no IMESC, designada para novembro de 2024 - Andamento processual regular - Diligência requerida pela Defesa, ao final da instrução Inviabilidade de se reconhecer a ilegalidade pleiteada, sob pena de ofensa ao princípio da boa-fé objetiva e da vedação do comportamento contraditório. Autoridade impetrada que buscou, dentro das possibilidades, que o ato fosse realizado o quanto antes. Ausência de inércia ou desídia do Juízo de origem. Por outro lado, não se pode considerar razoável a designação de perícia de réu que se encontra preso, com prazo aproximado de um ano e um mês entre a data do ofício encaminhado ao IMESC e a data designada para realização do exame.
+ORDEM DENEGADA, com recomendação ao Juízo de primeiro grau para que determine ao IMESC, pela derradeira vez, a realização da perícia médica no paciente, no impreterível prazo de 30 (trinta) dias, sob pena de responsabilização criminal dos responsáveis, no caso de descumprimento, constando advertência expressa na comunicação."
+No presente writ, a defesa sustenta excesso de prazo para a formação da culpa, tendo em vista que a segregação do paciente perdura por mais de 1 ano, sem previsão para a prolação da sentença.
+Aponta a suficiência das medidas cautelares alternativas ao cárcere.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva.
+A liminar foi indeferida às fls. 126/127. Informações prestadas às fls. 133/136 e 137/162. O Ministério Público Federal opinou pela denegação da ordem às fls. 166/174.
+É o relatório.
+Decido.
+De acordo com as informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, em 14/1/2025, na Ação Penal n. 1501064-97.2023.8.26.0637, o paciente foi condenado às penas de 3 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 389 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido vedado o recurso em liberdade.
+Assim, é certo que a superveniência de sentença penal condenatória torna superada a alegação de excesso de prazo para formação da culpa, ficando, portanto, prejudicada a análise da tese apresentada. Nesse sentido, é o Enunciado n. 52 da Súmula do Superior Tribunal de Justiça, in verbis:
+"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Anote-se, ainda, o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. OPERAÇÃO "IMPUNITAS". ORGANIZAÇÃO CRIMINOSA. CRIMES CONTRA O SISTEMA FINANCEIRO. LAVAGEM DE DINHEIRO. REVOGAÇÃO DE MEDIDA CAUTELAR. RETENÇÃO DE PASSAPORTE. DEMONSTRADO RISCO À APLICAÇÃO DA LEI PENAL. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL PELA VIA DO WRIT. EXCESSO DE PRAZO. SENTENÇA PROFERIDA. INCIDÊNCIA DA SÚMULA 52/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Extraiu-se dos autos que a Corte de origem concluiu, fundamentadamente, pela manutenção da medida cautelar de retenção de passaporte em referência à garantia de aplicação da lei penal, consignando que há "a possibilidade de evasão do réu, ora paciente, sobretudo por existir nos autos informação do próprio BANCO DO NORDESTE de que o paciente possui negócios na China "tendo se constatado por meio de suas redes sociais a facilidade com que ele vai àquele país e a outros países também", conforme salientado pelo próprio MPF" (fl. 199).
+2. Uma vez demonstrado o risco à aplicação da lei penal pelas instâncias ordinárias, a desconstituição do entendimento firmado no acórdão recorrido demandaria revolvimento do material fático-probatório colhido na ação penal na origem, o que é incompatível com a estreiteza procedimental do habeas corpus. Precedentes.
+3. O excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional. Precedentes.
+4. Consta das informações prestadas pela autoridade coatora (fls. 322-327) que houve a prolação da sentença em 23/06/23, condenando o paciente à pena de 70 anos e 4 meses de reclusão, em regime inicial fechado, bem como ao pagamento de 332 dias-multa, pela prática dos crimes de organização criminosa, crimes contra o sistema financeiro e lavagem de dinheiro, incidindo, portanto, a Súmula n. 52 do STJ, in verbis: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+5. Agravo regimental desprovido.
+(AgRg no HC n. 825.698/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
