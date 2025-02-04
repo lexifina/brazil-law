@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE BAURU contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 238):
+AÇÃO RESCISÓRIA DE ACÓRDÃO CONTRIBUIÇÃO SINDICAL EXIGIBILIDADE ALEGAÇÃO DE VIOLAÇÃO DE NORMA JURÍDICA ART. 605 DA CLT INOCORRÊNCIA PRETENSA REAPRECIAÇÃO DA CAUSA INADMISSIBILIDADE A ação rescisória não é por definição, instância recursal e, como tal, não pode servir de instrumento de mera reapreciação da causa Improcedência da demanda e consequente extinção do feito, nos termos do art. 487, inc. I, do CPC.
+Os embargos de declaração foram rejeitados (e-STJ fls. 258/261).
+No recurso especial (e-STJ fls. 554/569), o recorrente aponta violação do art. 966, V, do CPC/2015 e do art. 605 da CLT.
+As contrarrazões foram oferecidas.
+O recurso especial não foi admitido (art. 1.030, V, do CPC/2015) em razão da incidência da Súmula 7 do STJ (e-STJ fls. 625/630).
+A parte recorrente opôs embargos de declaração (e-STJ fls. 314/317) e, posteriormente, agravo em recurso especial ( e-STJ fls. 324/349).
+A contraminuta não foi apresentada.
+Passo a decidir.
+A jurisprudência desta Corte Superior pacificou-se no sentido de que o agravo então previsto no art. 544 do CPC/73 e atualmente no art. 1.042 do CPC/2015 é o único recurso cabível contra a decisão que não admite recurso especial na origem, de modo que a oposição de embargos de declaração, no caso, por caracterizar erro grosseiro, não interrompe o prazo para a interposição do recurso cabível.
+No tema, destaco:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO QUE INADIMITIU O RECURSO ESPECIAL. ERRO GROSSEIRO. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DO RECURSO PRÓPRIO. INTEMPESTIVIDADE DO AGRAVO. APLICAÇÃO RETROATIVA DA LEI 14.230/2021. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. A oposição de embargos de declaração contra decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem configura erro grosseiro e, portanto, não interrompe o prazo para a interposição de agravo em recurso especial.
+2. Exceção à regra se dá apenas nos casos em que a decisão de inadmissibilidade for proferida de maneira tão genérica que impossibilite ao recorrente identificar os motivos pelos quais teve seu recurso inadmitido, impedindo-o de interpor o agravo.
+3. A decisão de inadmissibilidade do recurso especial proferida pela Corte de origem indicou que o recurso ensejava a aplicação da Súmula 7 do Superior Tribunal de Justiça (STJ) e da Súmula 284 do Supremo Tribunal Federal (STF). Portanto, não foi proferida de forma genérica.
+4. Na hipótese dos autos, em que foi verificada a intempestividade do recurso interposto, não há que se falar em aplicação do quanto decidido pelo Supremo Tribunal Federal (STF) no Tema 1.199, uma vez que não foi superado o requisito extrínseco da tempestividade 5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.434.255/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/12/2024, DJEN de 13/12/2024.)
+PROCESSO CIVIL. RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. EMBARGOS DE DECLARAÇÃO. RECURSO MANIFESTAMENTE INCABÍVEL. AUSÊNCIA DO EFEITO INTERRUPTIVO DE PRAZO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.
+I - Trata-se, agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial com fundamento na intempestividade.
+II - Os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida na instância ordinária, não interrompem o prazo para a interposição do agravo previsto no art. 1.042 do CPC, único recurso cabível, salvo quando a decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso negado, de modo a inviabilizar a interposição do agravo. Precedentes.
+III - A questão controvertida nestes autos não se amolda ao objeto da alteração legislativa promovida no Código de Processo Civil pela Lei n. 14.939/2024, que diz respeito à possibilidade de correção do vício formal decorrente da ausência de comprovação do feriado local no ato de interposição do recurso.
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 2.577.955/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREPARO. AUSÊNCIA. PAGAMENTO EM DOBRO. GUIA DE RECOLHIMENTO DAS CUSTAS. CÓDIGO DE BARRAS. IRREGULARIDADE. DESERÇÃO. AGRAVO. INTEMPESTIVIDADE. RECONHECIMENTO.
+1. Consolidado nesta Corte o entendimento de que a "ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. De igual modo, a ausência do número do código de barras na guia de pagamento apresentada após a oportunidade de recolhimento em dobro do preparo, na forma art. 1.007, § 4º, do CPC/2015, também leva à deserção do recurso. Precedentes.
+3. No caso, constatada a ausência de preparo recursal, a parte recorrente, intimada para efetuar o recolhimento em dobro, limitou-se a apresentar comprovante de pagamento sem o código de barras, o que torna inafastável a incidência da Súmula 187 desta Corte.
+4. "Os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida na instância ordinária, não interrompem o prazo para a interposição do agravo previsto no art.1.042 do CPC, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado" (AgInt nos EAREsp n. 1.636.360/MS, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 13/4/2021, DJe de 20/4/2021).
+5. Hipótese em que o agravo manejado contra decisão de inadmissão do recurso especial devidamente fundamentada somente foi interposto após a publicação do julgado que rejeitou os embargos de declaração, os quais, nesse contexto, não têm o condão de interromper o prazo recursal.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.490.867/GO, de minha relatoria, Primeira Turma, julgado em 17/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DECISÃO DE INADMISSIBILIDADE. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SUSPENSÃO OU INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO NOS PRÓPRIOS AUTOS. INOCORRÊNCIA. PRECEDENTES. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL CONFIGURADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o agravo em recurso especial é único recurso cabível contra a decisão de inadmissibilidade do recurso na origem, razão pela qual os embargos de declaração opostos em face de referida decisão não suspendem ou interrompem o prazo recursal para a interposição do respectivo agravo nos próprios autos, salvo se a decisão for manifestamente genérica ou deficitária que sequer possibilite a compreensão dos argumentos utilizados para inadmitir o recurso especial, o que não ocorreu na espécie. Precedentes.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.240.641/RO, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 14/08/2018).
+PROCESSUAL CIVIL. ADMINISTRATIVA. IMPROBIDADE ADMINISTRATIVA. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DE ADMISSIBILIDADE. ERRO GROSSEIRO. NÃO INTERRUPÇÃO DO PRAZO.
+1. "Os embargos de declaração interpostos contra decisão de inadmissibilidade do recurso especial não interrompem o prazo para a interposição do agravo" (AgRg no AREsp 688.347/RR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 28/3/2016).
+2. De acordo com a jurisprudência firmada no âmbito desta Corte Superior e do Supremo Tribunal Federal, o agravo previsto no art. 544 do CPC/73 é o único recurso cabível contra a decisão que não admite recurso especial na origem. Dessa forma, a oposição de embargos de declaração caracteriza erro grosseiro, daí por que não há falar em interrupção do prazo para a interposição do recurso cabível. Precedente: AI 768107 AgR-ED, Relator Min. RICARDO LEWANDOWSKI (Presidente), TRIBUNAL PLENO, DJe 31/10/2014.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.062.519/SP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 08/08/2018).
+Na presente hipótese, a decisão que não admitiu o especial foi publicada em 08/09/2022 (e-STJ fl. 313), tendo sido o agravo interposto em 28/04/2023 (e-STJ fl. 324), após o transcurso do prazo de 15 (dias) úteis, previsto no art. 1.003, § 5º, do CPC/2015.
+Assim, é patente a intempestividade do agravo, tendo em vista que os embargos de declaração opostos, por serem manifestamente incabíveis, não têm o condão de interromper o prazo para a interposição de recurso posterior.
+ Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  I,  do  RISTJ,  NÃO  CONHEÇO  do  agravo  em  recurso  especial.
+Publique-se. Intimem-se.
+EMENTA
