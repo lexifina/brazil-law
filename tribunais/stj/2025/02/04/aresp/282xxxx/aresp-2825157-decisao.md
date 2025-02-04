@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE ALTA FLORESTA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA PELO JUÍZO A QUO - AUSÊNCIA DE PREVISÃO FUNDAMENTAÇÃO LEGAL DO TRIBUTO - NULIDADE DA CDA CONFIGURADA - VÍCIO INSANÁVEL - SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO. 1. O TERMO DE DÍVIDA ATIVA INDICARÁ, OBRIGATORIAMENTE, A ORIGEM E NATUREZA DO CRÉDITO, MENCIONANDO ESPECIFICAMENTE A DISPOSIÇÃO DA LEI NA QUAL SEJA FUNDADO. 2. AUSENTE OS REQUISITOS DO TÍTULO, OU MENCIONADOS DE FORMA GENÉRICA, DEVERÁ SER DECLARADA A NULIDADE DA CDA, POR CONFIGURAR VÍCIO INSANÁVEL. 3. RECURSO CONHECIDO E PROVIDO, DECISÃO REFORMADA.
+Quanto à controvérsia, a parte recorrente aduz ofensa aos arts. 202, caput e III, e 203 do CTN, no que concerne ao reconhecimento de que a nulidade referente à ausência de indicação do permissivo legal da taxa de alvará não se trata de vício insanável, de modo que pode ser corrigida mediante a substituição da CDA até a decisão de primeira instância, trazendo a seguinte argumentação:
+No caso em questão, o Tribunal local violou o disposto no art. 202 e art. 203 ambos do CTN!
+Isso porque, afirmou que a Certidão de Dívida Ativa não traria a indicação expressa da origem e natureza do tributo objeto da exação, bem como que não teria indicado o dispositivo legal a que se refere o tributo (fl. 172).
+Ora, Exas., a CDA executada indica, expressamente, se tratar de "ALVARÁ TAXA DE LOCALIZAÇÃO E FUNCIONAMENTO DO EXERCÍCIO 2018 E 2019" (id. 190545161) (fl. 173).
+Tal indicação possibilita à parte executada, facilmente, o exercício do contraditório e da ampla defesa. Além disso, embora não tenha constado da CDA a indicação do dispositivo legal da taxa de alvará, bastaria uma mera consulta no CTM para observar todos os critérios inerentes a tal tributo.
+Assim, a aplicação do art. 202 caput e inciso III do CTN está equivocada, uma vez que, ainda que de fato não exista indicação do permissivo legal do tributo em questão, não se trata de um erro insanável!!
+Como se verifica do ARTIGO 203, os vícios indicados no artigo 202 são passíveis de correção - logo, ERRO SANÁVEL - mediante substituição da CDA:  .. .
+Logo, ao entender que faltaria algum elemento na CDA, deveria o magistrado ter oportunizado ao ente público a substituição da CDA, desde que o vício fosse sanável, como é o caso dos autos - mera indicação do dispositivo legal do tributo!
+Conforme se verifica, a decisão recorrida viola tanto o artigo 203 do CTN, quanto a Súmula 392 deste E. Tribunal, pois obstou a substituição da CDA, mesmo se tratando de ERRO SANÁVEL (já que não se trata de modificar o sujeito passivo do título) e DENTRO DO PRAZO LEGAL (já que antes da prolação da sentença dos embargos)! (fl. 174).
+Portanto, seja na origem ou no acórdão recorrido, houve violação direta ao art.
+203 do CTN, vez que deveria ter sido oportunizado à municipalidade a correção de eventual vício detectado (fls. 174-175).
+Ou seja, era plenamente possível e esperado que o Juízo a quo e/ou o TJMT possibilitasse/admitisse a substituição da CDA, o que não ocorreu, pelo que o Tribunal local violou o disposto no art. 202 caput, II e art. 203 do CTN, pois considerou insanável um vício sanável! (fl. 175).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+In casu, ressalta-se, embora intimado a se manifestar sobre as alegações da excipiente, o ente municipal se limitou a afirmar que "basta uma mera consulta no CTM para observar todos os critérios inerentes a tal tributo" (ID. 128545433).
+Portanto, conclui-se que não foi concedida, ao contribuinte, a possibilidade de acesso à norma instituidora do tributo, mesmo depois de intimada a Fazenda Pública, no âmbito do processo judicial, configurando-se clara violação ao princípio do contraditório e ao disposto no art. 202, do CTN (fls. 139-140).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de19.12.2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp 1.157.074/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 5.8.2020; AgInt no REsp 1.389.204/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 3.8.2020; AgInt no REsp 1.842.047/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 26.6.2020; e AgRg nos EAREsp 447.251/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 20.5.2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
