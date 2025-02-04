@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ MAURÍCIO MACHADO E ASSOCIADOS - ADVOGADOS E CONSULTORES JURÍDICOS que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. REAPRECIAÇÃO. DETERMINAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CAUSALIDADE. CÉDULA DA DÍVIDA ATIVA. CANCELAMENTO. APÓS A DEFESA. CONDENAÇÃO DO ENTE ESTATAL. POSSIBILIDADE. DIREITO PROCESSUAL INTERTEMPORAL. DATA DE PUBLICAÇÃO DA SENTENÇA. VIGÊNCIA. CPC/1973. APLICABILIDADE. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE.
+1. A determinação do STJ para reapreciação do tema implica novo julgamento.
+2. Conforme entendimento do STJ, ao julgar o REsp nº 1.111.002/SP, sob o rito dos recursos repetitivos, em execução fiscal extinta pelo cancelamento do débito pelo exequente, é necessário perquirir quem deu causa à demanda para a fixação da sucumbência.
+3. O cancelamento das certidões de dívida ativa (CDA), além do requerimento do Distrito Federal para extinção do feito, após a citação, apresentação de defesa pela devedora e depósito judicial dos valores exigidos, evidencia que o ente estatal deu causa à propositura da execução fiscal, o que permite a sua condenação ao pagamento dos honorários advocatícios. Precedentes.
+4. Na fixação dos honorários advocatícios sucumbenciais, o Juiz deve observar a norma processual vigente à época da prolação da sentença. Precedentes do STJ e deste Tribunal.
+5. Diante da prolação da sentença sob a vigência do Código de Processo Civil de 1973, é cabível a fixação de honorários advocatícios por apreciação equitativa, observado o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, além do trabalho realizado pelo advogado (CPC/1973, art. 20, § 4º).
+6. Recurso conhecido e parcialmente provido.
+No apelo nobre, o recorrente aponta violação do art. 20, §§ 3º e 4º, do CPC/1973.
+Afirma que o montante de R$ 5.000,00 (cinco mil reais) é irrisório fixado para a verba advocatícia e o trabalho desenvolvido pelos patronos durante a tramitação do feito, se considerado o valor da causa de R$ 32.201.853,23 (trinta e dois milhões duzentos e um mil oitocentos e cinquenta e três reais e vinte e três centavos).
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender incidente o óbice da Súmula 7 do STJ, fundamentação com a qual não concorda o agravante.
+Oferecida contraminuta.
+Passo a decidir.
+Atendidos os pressupostos próprios, conheço do agravo para, desde logo, examinar o recurso especial.
+Na origem, cuidam os autos de execução fiscal proposta pelo recorrido, que, após o ajuizamento da exceção de pré-executividade, cancelou as respectivas certidões de dívida ativa e requereu a extinção da ação.
+O Tribunal de origem, cumprindo determinação desta Corte Superior estabelecida no julgamento de anterior recurso especial, rejulgou a apelação para fixar condenação em honorários advocatícios sucumbenciais, o que fez nos seguintes termos (e-STJ fls. 909/911):
+15. No caso, o cancelamento dos títulos ocorreu por iniciativa do próprio Distrito Federal, após a citação e apresentação de defesa pela parte executada, que já tinha, antes da existência desta ação, depositado em juízo os valores cobrados. A situação evidencia que o ente estatal deu causa à demanda, o que permite a sua condenação ao pagamento de honorários advocatícios.
+ ..
+18. A sentença impugnada foi proferida em 26/5/2015 e, portanto, os honorários advocatícios devem ser fixados com base no Código de Processo Civil de 1973, vigente à época.
+19. O art. 20, § 4º do CPC/1973 estipula que, nas causas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados por apreciação equitativa do Juiz, observados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, além do trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+20. Como não houve condenação, a Fazenda Pública foi vencida e a demanda não possui complexidade, não necessitando de dilação probatória, tampouco esforço além do habitual por parte dos advogados, fixo os honorários por apreciação equitativa, no valor de R$ 5.000,00 (CPC/1973, art. 20, § 4º), a ser pago pelo exequente (Distrito Federal).
+ ..
+22. Esse entendimento está em conformidade com a jurisprudência do STF, que fixou honorários por apreciação equitativa em situações em que não havia correspondência entre o trabalho desenvolvido e o valor da causa. Confira-se:
+ ..
+Pois bem.
+O recurso especial não merece ser conhecido.
+Em face do óbice da Súmula 7 do STJ, na instância especial, não é viável a revisão do juízo de equidade que foi realizado pelo magistrado para fixar o valor da verba honorária, in casu, nos termos do art. 20, § 4º, do CPC/1973, porquanto esse mister, além de exigir o reexame do histórico processual, notadamente para mensurar o trabalho realizado pelo advogado, não guarda relação direta com a legalidade da decisão atacada, mas sim com a percepção do julgador, que é de cunho estritamente subjetivo.
+Excepcionalmente, esta Corte admite o apelo especial para reapreciar honorários advocatícios quando arbitrados de forma irrisória ou exorbitante, pois, nesses casos, a violação da aludida norma processual exsurge de maneira flagrante, a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência. Acerca do tema, assim já decidiu a Corte Especial, vide: AgRg nos EDcl no Ag n. 1.409.571/RS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 6/5/2013.
+Frise-se que "o simples cotejo entre os valores discutidos nos autos e a verba honorária não é suficiente à conclusão pela irrisoriedade ou exorbitância, mormente, porque, "no juízo de equidade, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, § 3º, alíneas "a", "b" e "c", do CPC, podendo adotar como base de cálculo o valor da causa, o valor da condenação ou arbitrar valor fixo" (REsp 934.074/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 18/09/2008)" (AgInt no REsp n. 1.343.165/PR, de minha relatoria, Primeira Turma, DJe de 15/5/2019).
+No caso dos autos, o acórdão recorrido estabeleceu que o próprio ente público requereu a extinção do feito, tendo cancelado as CDAs, e a demanda possui baixa complexidade, não tendo exigido esforço dos advogados além do habitual. Além disso, registrou a falta de correspondência entre o valor da causa e o trabalho desenvolvido pelos causídicos.
+Esse quadro fático não permite a afirmação do contrário do registrado pela instância ordinária, de modo que não se não pode averiguar a irrisoriedade da condenação apta a justificar a revisão do juízo de equidade realizado na origem. Tem-se, portanto, o caso de óbice ao apelo nobre em face da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
