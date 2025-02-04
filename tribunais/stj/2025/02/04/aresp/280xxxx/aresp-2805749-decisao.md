@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DENTAL GOLD ASSISTÊNCIA ODONTOLÓGICA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO - REJEIÇÃO - HONORÁRIOS ADVOCATÍCIOS - DESCABIMENTO - SÚM. 519 DO STJ - PRECEDENTES - DESPROVIMENTO. - CONSOANTE A SÚMULA 519/STJ, APLICÁVEL ÀS EXECUÇÕES CONTRA A FAZENDA PÚBLICA, "NA HIPÓTESE DE REJEIÇÃO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA, NÃO SÃO CABÍVEIS HONORÁRIOS ADVOCATÍCIOS". IV - NÃO APRESENTAÇÃO DE ARGUMENTOS SUFICIENTES PARA DESCONSTITUIR A DECISÃO RECORRIDA. - MESMO APÓS A EDIÇÃO DO CPC/2015, O SUPERIOR TRIBUNAL DE JUSTIÇA, MANTEVE O SEU ENTENDIMENTO DE QUE NÃO SÃO CABÍVEIS HONORÁRIOS ADVOCATÍCIOS QUANDO REJEITADA A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 85, § 7º, do CPC, no que concerne à necessidade de fixação de honorários advocatícios de sucumbência na fase de cumprimento de sentença, tendo em vista as duas impugnações à execução apresentadas pelo executado, as quais foram rejeitadas, trazendo a seguinte argumentação:
+O c. STJ, interpretando tal dispositivo, já pacificou que, a contrario sensu, "oferecida resistência à execução da sentença, são devidos os honorários advocatícios, em atenção ao princípio da causalidade" (AgInt no AREsp n. 1.725.878/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/10/2022, DJe de 5/10/2022).
+ ..
+Embora tal entendimento tenha sido invocado pela recorrente nas razões do agravo de instrumento, o TJPB não se manifestou sobre os precedentes indicados. Em vez disso, para rejeitar o agravo da exequente, valeu-se de outros julgados do STJ, os quais, porém, tratam de questão distinta daquela discutida nestes autos.
+Com efeito, o presente recurso tem o objetivo de fixar os honorários da fase de cumprimento de sentença, os quais, neste caso, jamais foram fixados. Por outro lado, os julgados referenciados no acórdão recorrido tratam da impossibilidade de condenação em honorários pela rejeição da impugnação ao cumprimento de sentença. Ou seja, nos casos citados pelo acórdão recorrido, não se discutia se eram cabíveis honorários na fase de execução, mas sim se eram cabíveis honorários adicionais em virtude da rejeição da defesa do executado.
+A propósito, o voto condutor do AgInt no AR Esp n. 1.697.937/RS, mencionado pelo acórdão recorrido, reconhece expressamente que, naquele caso, já haviam sido fixados honorários da fase de execução, e o exequente pleiteava novos honorários, em virtude da improcedência da impugnação do executado:  ..
+Nesse sentido, as decisões mais recentes do Superior Tribunal de Justiça deixam claro que a hipótese do art. 85, § 7º, do CPC/2015 não se confunde com aquela tratada no enunciado n.º 519 da súmula do STJ:  ..
+Logo, resta claro que, no caso dos autos, é obrigatória a fixação de honorários de sucumbência em desfavor do Poder Público. A decisão recorrida, ao recusar-se a fixar honorários, violou a regra do art. 85, § 7º, do CPC, conforme a interpretação dada pelo c. STJ.
+ ..
+Assim, considerando que, na primeira impugnação, o Município de João Pessoa sustentou haver excesso de execução de R$ 193.731,49 (R$ 2.131.046,39 - R$ 1.937.314,90), enquanto, na segunda, alegou excesso de R$ 180.538,47 (R$ 823.866,66 - R$ 643.328,18), deve-se utilizar, como base de cálculo dos honorários da execução, o valor total de R$ 374.269,96 (R$ 193.731,49  R$ 180.538,47).
+Desse modo, considerando o duplo trabalho realizado pelo advogado, que teve de refutar duas impugnações distintas, lastreadas em diferentes matérias de defesa, os honorários da fase de execução devem ser fixados nos percentuais máximos permitidos pelo § 3º do art. 85 do CPC (fls. 117-121, grifo meu).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Ocorre que, mesmo após a edição do CPC/2015, o Superior Tribunal de Justiça, manteve o seu entendimento de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença.
+ ..
+Na hipótese em comento, houve a rejeição da impugnação ao cumprimento de sentença apresentada pela Fazenda Pública, assim, não são cabíveis honorários advocatícios.
+ ..
+Revela-se, dessarte, acertado o afastamento da verba sucumbencial, porquanto não são cabíveis honorários advocatícios pelo fato da rejeição à impugnação, ressalvando-se à parte exequente pleitear a fixação dos honorários do cumprimento de sentença, objeto de impugnação pela Fazenda Pública, a qual restou rejeitada, nos precisos termos do § 7º do art. 85 do CPC/2015 (fl. 37, grifo meu).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que a tese recursal está fundada em premissa fática totalmente dissociada daquela fixada no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que: "É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF". (AgInt nos EDcl no AREsp n. 1.700.429/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 29.4.2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.690.156/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.10.2017; AgInt nos EDcl no AREsp n. 1.700.429/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 29.4.2021; AgInt no AREsp n. 1.815.228/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 17.8.2021; AgInt no AREsp n. 931.169/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 19.4.2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
