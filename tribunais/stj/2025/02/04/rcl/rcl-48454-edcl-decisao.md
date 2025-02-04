@@ -1,0 +1,15 @@
+DECISÃO
+LEANDRO TEIXEIRA DE ANDRADE opõe embargos de declaração à decisão de fls. 556-557, de minha relatoria, em que julguei improcedente, in limine, esta reclamação e, por conseguinte, afastei a tese da defesa de descumprimento, pelo TRF da 3ª Região, do que decidido nos autos do HC n. 699.585/SP.
+A defesa alega que a decisão embargada foi contraditória, porque, no julgamento do HC n. 954.594, interposto em favor do ora Reclamante LEANDRO TEIXEIRA DE ANDRADE, também contra a decisão do TRF-3, que não cumpriu o determinado no HC n. 699.585/SP" (fl. 562), constou expressamente que a via adequada para garantir a autoridade de decisão proferida por este Tribunal seria a reclamação.
+Considera, portanto, que "o indeferimento liminar da presente RCL apresentou fundamentos contrários ao que havia sido decidido por Vossa Excelência nos autos do HC 954.594" (fl. 562).
+Requer, assim, "sejam acolhidos os presentes Embargos Declaratórios, sanando-se a contradição demonstrada, para que a presente RCL trâmite ordinariamente, garantindo-se que a questão jurídica discutida na presente, seja apreciada naquela que foi apontada como via adequada para tal por Vossa Excelência, nos autos do HC 954.594" (fl. 562).
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso,
+ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No caso, verifico que a decisão embargada não foi contraditória, porquanto delineou, de maneira clara e concretamente fundamentada, os motivos pelos quais a reclamação deveria ser julgada improcedente já de plano.
+De fato, a via adequada para garantir a autoridade de decisão proferida por este Tribunal é a reclamação, prevista no art. 105, I, "f", da Constituição Federal, no art. 988, II, do CPC e no art. 187 do RIST.
+A questão é que, neste caso, o que determinado por ocasião do julgamento do HC n. 699.585/SP foi devidamente cumprido pelo Tribunal Regional Federal da 3ª Região, uma vez que a Corte regional reapreciou o pedido de conversão do julgamento da apelação em diligência, motivando, adequadamente, a sua decisão, ocasião em que concluiu pela impertinência da diligência ou da produção de prova formulada pela defesa. Tal fato foi reconhecido pelo próprio reclamante, que juntou, em sua inicial, o acórdão proferido em razão do novo julgamento da apelação, situação que denota justamente o cumprimento da decisão proferida por este Superior Tribunal.
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
