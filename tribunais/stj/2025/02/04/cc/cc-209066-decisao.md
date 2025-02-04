@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência no qual figura como suscitante o JUÍZO DE DIREITO DA 1ª VARA JUDICIAL DE ITAPEVA - SP e, como suscitado, o JUÍZO FEDERAL DA 1ª VARA DE SOROCABA - SJ/SP.
+O núcleo da controvérsia consiste em definir o Juízo competente para fiscalizar o cumprimento do Acordo de Não Persecução Penal celebrado entre JOSÉ FRANCISCO DANIEL e o Ministério Público Federal, o qual foi homologado na Ação Penal n. 0000126-77.2019.4.03.6139, perante o Juízo da 1ª Vara Federal de Itapeva-SP.
+O MPF manifestou-se "no sentido de que seja declarada a competência do Juízo suscitado, qual seja, o Juízo Federal da 1ª Vara de Sorocaba - SJ/SP, para prosseguir na execução do acordo de não persecução penal" (fl. 80).
+É o relatório.
+Decido.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, I, "d", da Constituição Federal.
+Consta dos autos que o Juízo da 1ª Vara Federal de Itapeva-SP homologou ANPP na Ação Penal n. 0000126-77.2019.4.03.6139, fixando condições a serem cumpridas por José Francisco Daniel. No que diz respeito à execução do ANPP, o referido juízo, "com fundamento no Provimento CJF3R n. 88, de 02 de fevereiro de 2024, o qual excluiu a competência criminal da referida Vara, remeteu os autos à Vara Federal de Sorocaba, a qual teve a jurisdição ampliada a fim de abarcar os processos criminais do Juízo Federal de Itapeva. Ocorre que a Vara Federal de Sorocaba declinou da competência para" o Juízo da 1ª Vara Judicial de Itapeva-SP, local de domicílio do executado (fl. 55). Recebidos os autos, o juízo estadual suscitou o presente conflito negativo de competência, conforme se extrai do seguinte trecho:
+"Embora a execução dos acordos de não persecução penal seja mesmo de competência do juízo da execução penal nos termos da Lei n. 13.964/2019 (art. 28-A, § 6º, do Código de Processo Penal), conforme suscitado na decisão de fl. 34, no caso dos autos, em que referido acordo tramitou perante à Justiça Federal de Itapeva, deve ela ser processada pela Vara Federal de Sorocaba, nos termos do Provimento supracitado.
+Não pode a esfera federal, sob a alegação de que o executado reside neste município, alterar a competência de suas execuções penais para a esfera estadual.
+Anote-se que a remessa de execução federal à Justiça Estadual somente é cabível quando o apenado estiver preso em estabelecimento prisional estadual, em conformidade com a Súmula 192 do STJ" (fls. 56/57)
+A jurisprudência desta Corte possui o entendimento de que, "em se tratando de cumprimento das condições impostas em acordo de não persecução penal, a competência para a sua execução é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do Apenado" (CC n. 192.158/MT, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/11/2022, DJe de 18/11/2022).
+No mesmo sentido, confira-se também acórdão proferido no julgamento do CC n. 191.598/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 26/10/2022, DJe de 4/11/2022.
+Ante o exposto, declaro competente o JUÍZO FEDERAL DA 1ª VARA DE SOROCABA - SJ/SP., o suscitado, para a execução do ANPP, cabendo ao Juízo do domicílio do acusado somente a fiscalização das condições impostas, sem deslocamento da competência, mediante cumprimento de carta precatória.
+Publique-se.
+Intimem-se.
+EMENTA
