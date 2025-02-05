@@ -1,0 +1,13 @@
+DECISÃO
+Vistos.
+Fls. 850/867e: Trata-se de pedido da VISION ME ASSISTÊNCIA MÉDICA LTDA, ora Requerente, informando que tem " ..  interesse (..) em ingressar com transação extraordinária para quitação de todos os débitos discutidos nesta demanda" e requer a " ..  homologação da renúncia à pretensão formulada neste litígio, conforme disposto pelo artigo 487, III, alínea "c", CPC, condicionada ao posterior aceite da referida transação extraordinária pela Procuradoria Federal junto à Agência Nacional de Saúde Suplementar".
+Determinei a intimação da Agência Recorrida, para que, no prazo de 10 (dez) dias, manifestasse sobre o pedido e possibilidade de acordo (fl. 868e).
+A Agência Nacional de Saúde Suplementar - ANS informou que a Recorrente " ..  aderiu aos termos da transação extraordinária de que trata o art. 22 da Lei nº 14.973/2024, a Portaria Normativa AGU nº 150/2024, a Portaria Normativa PGF nº 67/2024 e o Edital nº 1/2024/PGF/AGU. Por esta razão, peticionou nos autos para renunciar aos direitos sobre as quais se funda a ação e autorizar a imediata a conversão em renda dos valores depositados em juízo a favor da autarquia" (fl. 872e).
+A Recorrida destacou que " ..  concorda com a renúncia manifestada pela parte autora, ressaltando-se que: serão devidos honorários de sucumbência em favor da AGU, conforme estabelecido na sentença ou acórdão; e eventuais custas processuais ficarão a cargo da parte autora" (fl. 872e).
+É o relatório. Decido.
+A Recorrida apontou que a Recorrente aderiu aos termos da transação extraordinária de que trata o art. 22 da Lei n. 14.973/2024, a Portaria Normativa AGU n. 150/2024, a Portaria Normativa PGF n. 67/2024 e o Edital n. 1/2024/PGF/AGU.
+Tratando-se de direito disponível e possuindo o procurador da parte autora poderes específicos para tanto, HOMOLOGO A RENÚNCIA do direito sobre o qual se funda a ação, JULGANDO EXTINTO O PROCESSO, COM RESOLUÇÃO DO MÉRITO, nos termos do disposto no art. 487, III, c, do Código de Processo Civil de 2015.
+Os desdobramentos dessa homologação não podem ser examinados nesta Corte Superior , porquanto não prequestionados, além de configurar vedada supressão de instância e, sobretudo, diante da possibilidade de se exigir a interpretação da legislação que instituiu o benefício fiscal ao qual a Requerente informa ter aderido.
+Assim, não havendo a interposição de recurso contra a presente decisão, encaminhem-se os autos à origem, para análise dos desdobramentos dessa homologação, inclusive quanto à eventuais questionamentos acerca da condenação em honorários advocatícios sucumbenciais e pagamentos de custas, bem como o destino a ser dado ao feito executivo, e posterior arquivamento do feito.
+Publique-se. Intime-se.
+EMENTA
