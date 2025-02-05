@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FELIPE DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no Agravo em Execução Penal n. 1.0313.19.002460-1/002.
+Consta dos autos que o juízo da execução penal regrediu cautelarmente o paciente para o regime semiaberto, após não ter sido localizado para comparecer à audiência de justificação (fl. 29-30).
+No julgamento do agravo em execução penal interposto pela defesa, o Tribunal manteve a decisão (fl. 53-62) e rejeitou os embargos de declaração (fl. 113-116).
+No presente habeas corpus, o impetrante alega a nulidade da decisão por ausência de intimação do paciente por edital, ausência de esgotamento dos meios para localização do paciente, ausência de realização da audiência de justificação e omissão do acórdão. Pede a concessão da ordem para suspensão do cumprimento do mandado de prisão e para determinar que a autoridade coatora adote as diligências cabíveis a fim de esgotar os meios de intimação do paciente (fl. 3-17).
+O pedido liminar foi indeferido (fl. 120-121).
+A autoridade coatora prestou informações (fl. 128-151).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do habeas corpus (fl. 153-154).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão de nulidade da decisão que regrediu cautelarmente o paciente, por ausência de intimação prévia do apenado para justificação ou esgotamento dos meios para sua localização.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Entretanto, diante da possibilidade de concessão da ordem de ofício, em caso de coação ilegal, em observância § 2º do artigo 654 do Código de Processo Penal, passo à análise das alegações defensivas
+No caso dos autos, consta que houve tentativa de intimação pessoal do apenado para audiência de justificação, mas não foi localizado para receber a intimação. Diante disso, o juízo da execução penal determinou a regressão cautelar do apenado para o regime semiaberto e determinou a expedição de mandado de prisão.
+Verifica-se, assim, que as decisões impugnadas estão em consonância com a jurisprudência do Superior Tribunal de Justiça, que admite a regressão cautelar de regime independentemente de intimação ou da oitiva do apenado, quando este não for localizado para receber a intimação:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ABANDONO DO REGIME ABERTO. REGRESSÃO CAUTELAR. CONDENADO EM LOCAL INCERTO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Se o agravante não compareceu em juízo para o cumprimento das condições impostas ao regime aberto domiciliar, é cabível a regressão cautelar, sem exigência de intimação pessoal (o sentenciado está em local incerto) ou oitiva prévia, necessária apenas para a homologação de falta grave e a regressão definitiva de regime.
+2. Agravo regimental não provido.
+(AgRg no HC n. 863.692/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. CONDENAÇÃO EM REGIME ABERTO, COM IMPOSIÇÃO DE PENAS RESTRITIVAS DE DIREITOS. INTIMAÇÃO POR 3 VEZES. NÃO COMPARECIMENTO EM JUÍZO PARA CUMPRIMENTO DAS PENAS. FALTA GRAVE. REGRESSÃO CAUTELAR AO REGIME FECHADO. NÃO INTIMAÇÃO POR EDITAL. POSSIBILIDADE EM CASO DE SUSTAÇÃO CAUTELAR EXECUTÓRIA. RECURSO IMPROVIDO.
+1- Nos termos da Lei Processual Penal, art. 367: O processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo. É que, a partir da citação, a obrigação de manter o endereço atualizado é do réu, não tendo o Juízo a obrigação de buscar o executado indefinidamente, o que justifica sua intimação por edital.
+2 -  ..  In casu, a impossibilidade de localização do paciente, no endereço por ele indicado na audiência admonitória, bem como o seu não-comparecimento em juízo para o cumprimento das condições do regime aberto, autoriza a sustação cautelar do regime de cumprimento de pena, independente de sua intimação por edital. (HC n. 52.052/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 12/6/2006, DJ de 28/8/2006, p. 299.)
+3- Portanto, não há que falar em inobservância da forma processual correta de intimação.
+4- Segundo se extrai da Lei de Execuções Penais, art. 50, V: Comete falta grave o condenado à pena privativa de liberdade que descumprir, no regime aberto, as condições impostas.
+5- No caso, como a apenada descumpriu, por 3 vezes, a obrigação de se apresentar à audiência admonitória para o cumprimento das penas restritivas de direito, às quais fora condenada, cometeu, em tese, falta grave, sendo permitida, portanto, a regressão de regime, conforme exegese do art. 118, I, da LEP.
+6- Evidenciando-se a prática de falta grave, consistente no descumprimento das condições imposta ao regime aberto, na modalidade prisão albergue domiciliar, é cabível a regressão cautelar do regime prisional pelo Juiz das execuções, sem a exigência da oitiva prévia do sentenciado, necessária apenas para a regressão definitiva ao regime mais severo.  ..  (AgRg no HC 438.243/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/08/2019, DJe 13/08/2019) 7- Agravo regimental não provido.
+(AgRg no HC n. 803.612/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+Assim, não identifico a existência de flagrante ilegalidade que justifique a concessão da ordem, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
