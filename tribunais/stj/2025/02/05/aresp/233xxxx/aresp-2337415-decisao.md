@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por EDSON JOSÉ MARCUSSO contra a decisão de fls. 145-147 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 71, e-STJ):
+AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - Contratos administrativos - Fraude e dano ao erário - A indisponibilidade de bens é medida de cunho conservativo, destinada a assegurar a eficácia de eventual provimento condenatório nas hipóteses de enriquecimento ilícito ou prejuízo ao erário - Subsistência do decreto de indisponibilidade dos bens, com a necessária observância do artigo 16, parágrafo 5º da Lei 14.230/2021 - Decisão mantida - Recurso desprovido, com observação.
+Os embargos de declaração opostos foram desacolhidos (fls. 104-109, e-STJ).
+Nas razões do recurso especial (fls. 115-132, e-STJ), além de dissídio jurisprudencial, o recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 1.022, incisos I e II, do Código de Processo Civil de 2015 e 16, § 8º, da Lei 14.230/2021.
+Sustentou, em suma:
+(i) negativa de prestação jurisdicional ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausensia de fundamentação na decisão recorrida;
+(ii) ser indevido o deferimento da indisponibilidade cautelar dos seus bens.
+Em juízo de admissibilidade (fls. 145-147, e-STJ), a corte de origem negou o processamento do recurso especial, pelos seguintes fundamentos: a) não configurada a alegada violação do art. 1.022 do CPC/2015, porquanto as questões trazidas pelo recorrente foram analisadas, de forma fundamentada; b) aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido; e c) a divergência jurisprudencial não foi demonstrada nos termos exigidos pelo art. 1.029 do CPC/2015.
+Irresignado (fls. 150-156, e-STJ), aduz o agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 170-175 (e-STJ).
+Em parecer de fls. 234-236 (e-STJ), o Ministério Público Federal manifestou-se pelo desprovimento do reclamo.
+Brevemente relatado, decido.
+A questão de direito tratada no recurso especial, relativa à possibilidade ou não de aplicação da nova lei de improbidade administrativa (Lei n. 14.230/2021) a processos em curso, iniciados na vigência da Lei n. 8.429/1992, para regular o procedimento da tutela provisória de indisponibilidade de bens, inclusive a previsão de se incluir, nessa medida, o valor de eventual multa civil foi afetada por este Superior Tribunal de Justiça em 22/05/2024 - Tema n. 1.257, nos termos da seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038 DO CPC/2015, C/C ART. 256-I DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/9/2016. IMPROBIDADE ADMINISTRATIVA. TUTELA PROVISÓRIA DE INDISPONIBILIDADE DE BENS. APLICAÇÃO DAS DISPOSIÇÕES DA LEI 14.230/2021 AOS PROCESSOS EM CURSO.
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Definir a possibilidade ou não de aplicação da nova lei de improbidade administrativa (Lei 14.230/2021) a processos em curso, iniciados na vigência da Lei 8.429/1992, para regular o procedimento da tutela provisória de indisponibilidade de bens, inclusive a previsão de se incluir, nessa medida, o valor de eventual multa civil". II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/9/2016)
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do Novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, bem como à expressa determinação de suspensão dos recursos em trâmite nesta Corte, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso representativo da controvérsia.
+Veja o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a imediata devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. APLICABILIDADE DA LEI N. 14.230/21. TEMA N. 1.257 DO REGIME DOS RECURSOS REPETITIVOS DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
