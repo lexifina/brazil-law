@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por GISLENE SANTOS OLIVEIRA DE ABREU contra acórdão prolatado, por unanimidade, pela 1ª Câmara de Direito Público e Coletivo do Tribunal de Justiça do Estado do Mato Grosso no julgamento de Embargos de Declaração, assim ementado (fls. 1.043/1.044e):
+DIREITO ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. IMPROBIDADE ADMINISTRATIVA. OBSCURIDADE SANADA. ART. 23, II, DA LEI N. 8.429/1992. EXISTÊNCIA DE VÍNCULO EFETIVO. EMBARGOS ACOLHIDOS EM PARTE.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 23, I, da Lei n. 8.429/1992, alegando-se, em síntese, que só seria possível " ..  ser utilizada a regra do prazo prescricional de servidor efetivo para ato perpetrado em cargo comissionado na hipótese de cumulação dessas funções" (fl. 1.071e), situação diversa do caso em exame.
+Com contrarrazões (fls. 1.093/1.100e), o recurso foi admitido (fls. 1.102/1.105e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 1.125/1.131e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Nas razões recursais, a parte recorrente sustenta a inaplicabilidade do art. 23, II, da Lei n. 8.429/1992 (redação originária), sendo tal alegação inidônea a infirmar o fundamento adotado pela Corte de origem para afastar a prescrição da pretensão, qual seja, que " ..  o mero fato de a servidora estar cedida para outro órgão não afasta o seu vínculo efetivo" (fl. 1.047e), porquanto ausente comando suficiente no dispositivo apontado (art. 23, I, da Lei n. 8.429/1992) para alterar a mencionada conclusão, razão pela qual o recurso não merece prosperar nesse ponto.
+Com efeito, incide, por analogia, a orientação contida na Súmula n. 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ARROLAMENTO DE BENS. BENEFÍCIO DE ORDEM. INEXISTÊNCIA. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA.
+1. Não há violação do art. 1022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. A responsabilidade solidária em matéria tributária autoriza a autoridade administrativa a imputar a obrigação de pagar o tributo, integralmente, a qualquer um dos sujeitos passivos envolvidos na ocorrência do fato gerador, não havendo benefício de ordem.
+3. Entendimento que alcança também a hipótese de arrolamento administrativo. Precedentes.
+4. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.297.303/SP, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25.11.2024, DJe de 29.11.2024 - destaque meu).
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AÇÃO COLETIVA. ILEGALIDADE DE RESOLUÇÃO. FIXAÇÃO DE CONTRIBUIÇÃO. ART. 1.042 DO CÓDIGO DE PROCESSO CIVIL DE 2015. JUIZO DE ADEQUAÇÃO. EMBARGOS DECLARATÓRIOS COM FINALIDADE DESVIRTUADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 284 DO STF E SÚMULA 7 DO STJ.
+ ..
+VII - Em relação ao mérito, esclareça-se que competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame. Da mesma forma, fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivos infraconstitucionais como violados, deixa de demonstrar como tais dispositivos foram ofendidos. Nesse diapasão, verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF. Acerca do assunto, destaco os seguintes precedentes: AgInt no REsp 1813658/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 13/10/2020, DJe 22/10/2020 - grifei; AgInt no AREsp 1332175/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/04/2019, DJe 06/05/2019 - grifei)
+ ..
+X - Agravo interno improvido.
+(AgInt no REsp n. 1.586.656/RS, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 27.11.2024, DJe de 02.12.2024 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
