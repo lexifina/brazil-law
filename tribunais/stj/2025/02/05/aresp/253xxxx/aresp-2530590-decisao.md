@@ -1,0 +1,73 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por BRUNA BERNARDES MEDEIROS SALIONE, com fundamento na ausência de violação dos arts. 489 e 1.022 do CPC, na incidência  da Súmula  7 do STJ e, por analogia, da Súmula 280 do STF.
+  Ainda, em relação à alínea c, decidiu pela inviabilidade do cabimento do recurso, em razão da insuficiente demonstração da divergência do precedente com a fundamentação do julgado do próprio Tribunal.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou os arts. 489, §1º, V, 1.022, e 1.025 do CPC; e art. 23 da Lei 9.249/95.
+Assevera, ainda, que que a análise da controvérsia não exige análise de documentos, mas sim, matéria eminentemente de direito, assim como aduz que em nada depende da legislação local, uma vez que o cerne da questão tem por base a violação à legislação federal.
+No mais, defende estar evidenciado o dissenso jurisprudencial, de modo a admitir o regular conhecimento do apelo especial, com fulcro na alínea "c" do permissivo constitucional.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+1 - Da alegada violação aos arts. 489 e 1.022 do CPC
+De início, quanto à apontada violação aos arts. 489, §1º, e 1.022, do CPC, a agravante sustenta pela existência de omissão no acórdão recorrido que, embora tenha sido provocado, não se pronunciou acerca dos elementos que teriam sido considerados para se chegar ao entendimento de se utilizar como base de cálculo do ITCMD o valor do imóveis integralizados.
+Contudo, d a análise dos autos, vislumbra-se que o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando, expressamente, sobre as razões pelas quais se fez imperiosa a utilização do valor real de mercado dos imóveis, empregados na integralizaçao do capital social, como base de cálculo para a cobrança do ITCMD. Vejamos (fls. 360-370):
+ ..  Sobre o ITCMD e os direitos a ele relacionados o Código Tributário Nacional determina em seu artigo 38 que "A base de cálculo do imposto é o valor venal dos bens ou direitos transmitidos", o que é reiterado pelo art. 9º, §1º, da Lei Estadual nº 10.705/2000:
+Artigo 9º - A base de cálculo do imposto é o valor venal do bem ou direito transmitido, expresso em moeda nacional ou em UFES Ps (Unidades Fiscais do Estado de São Paulo).
+§1º - Para os fins de que trata esta lei, considera-se valor venal o valor de mercado do bem ou direito na data da abertura da sucessão ou da realização do ato ou contrato de doação.
+E complementa o art. 14 da referida lei:
+Artigo 14 - No caso de bem móvel ou direito não abrangido pelo disposto nos artigos 9º, 10 e 13, a base de cálculo é o valor corrente de mercado do bem, título, crédito ou direito, na data da transmissão ou do ato translativo. § 1º - À falta do valor de que trata este artigo, admitir-se-á o que for declarado pelo interessado, ressalvada a revisão do lançamento pela autoridade competente, nos termos do artigo 11.
+§ 2º - O valor das ações representativas do capital de sociedades é determinado segundo a sua cotação média alcançada na Bolsa de Valores, na data da transmissão, ou na imediatamente anterior, quando não houver pregão ou quando a mesma não tiver sido negociada naquele dia, regredindo-se, se for o caso, até o máximo de 180 (cento e oitenta) dias.
+§ 3º - Nos casos em que a ação, quota, participação ou qualquer título representativo do capital social não for objeto de negociação ou não tiver sido negociado nos últimos 180 (cento e oitenta) dias, admitir-se-á o respectivo valor patrimonial.
+Verifica-se no presente caso que a empresa OVM Medeiros Agropecuária Ltda. foi inicialmente constituída como uma empresa familiar, que tinha por objeto a administração de bens próprios, tendo como sócios o pai e as três filhas.
+ ..  Posteriormente, com a doação das cotas do sócio ODILO VIEIRA DE MEDEIROS para as três filhas, o objeto social foi alterado novamente, passando a vigorar da seguinte forma: "Criação, recriação, invernagem e engorda de gado, exploração da atividade da agricultura em geral, podendo praticar todos e quaisquer outros negócios e operações conexas aos seus objetivos, venda de produtos oriundos da exploração da agricultura e da agropecuária, podendo ainda firmar parcerias com empresas para desenvolvimento das atividades da pecuária e da agricultura".
+A empresa, no entanto, não opera no mercado, ou seja, NÃO EXERCE atividade econômica; sua finalidade EXCLUSIVA É apenas a gestão do patrimônio da família.
+Considerando que o capital social da empresa inicialmente era composto por R$6.000,00 e, posteriormente, foi aumentado para R$150.000,00, sendo que desse aumento R$3.824,98 foi feito em moeda corrente e R$140.175,02 em dois imóveis, tem-se que a maior parte do capital social da empresa é COMPOSTO PELOS DOIS IMÓVEIS RURAIS.
+O AIIMs levou em consideração os valores dos imóveis das Declarações de ITR dos imóveis rurais, preenchidas pelo próprio contribuinte, que demonstram grande diferença entre o valor real e o valor venal.
+Assim, com a doação das cotas do sócio ODILO para as filhas, estas receberam, na prática, os imóveis que integralizam o capital social da empresa e não apenas cotas.
+Não parece razoável, portanto que, com a doação, o imposto deixe de ser recolhido.
+Note-se que a integralização da empresa foi a forma que os celebrantes encontraram para TRAVESTIR (vocábulo emprestado da obra de Marco Aurélio Greco) a doação de imóvel SEM RECOLHER O IMPOSTO DEVIDO.
+Observe-se que, por meio desse subterfúgio, o doador e as donatárias conseguiram ALTERAR O VALOR VENAL DO BEM, sobre o qual o imposto é calculado.
+Em resumo, tendo em vista que os imóveis foram empregados para integralização do capital social da empresa, constituindo a maior parte dele, e as cotas foram, posteriormente, doadas pelo sócio pai para as sócias filhas, o valor atribuído às cotas deve refletir o valor real de mercado dos imóveis.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação arts. 489, §1º, V, e 1.022, do CPC.
+Quanto ao mérito, o recurso especial não merece conhecimento. Explico.
+2 - Da incidência da Súmula 7/STJ e da Súmula 280/STF
+No que tange à alegada violação ao art. 23 da Lei 9.249/95, vislumbra-se que para se chegar à conclusão em relação à base de cálculo do ITCMD, fez-se imperiosa a análise, por parte do Tribunal de origem, da documentação acostada nos autos, levando em consideração os fatos e circunstâncias relacionados à matéria.
+É certo que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Portanto, observa-se que a alteração da conclusão do Tribunal a quo, cuja premissa foi firmada com base em prova pré-constituída, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+A propósito :
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTIRIA A OMISSÃO. SÚMULA 284/STF. FATO GERADOR DO ITCMD. LEI ESTADUAL CATARINENSE 13.136/04. APRECIAÇÃO DE DIREITO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. CONTRATO DE DOAÇÃO DE COTAS SOCIAIS, AS QUAIS NÃO FORAM INTEGRALIZADAS. AUSÊNCIA DE TRANSFERÊNCIA DE PROPRIEDADE. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A recorrente apontou de forma absolutamente genérica a violação do art. 535 do CPC, não especificando em que consistiria a mencionada violação e quais pontos seriam omissos. Incidência do Enunciado 284 da Súmula do Supremo Tribunal Federal.
+2. O tema foi dirimido com fundamento em legislação local, de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no Recurso Especial, a teor da Súmula 280 do STF, aplicável ao caso por analogia.
+3. A Corte de origem, com base em fatos e provas, afirmou, expressamente, que o capital social não foi integralizado, de forma que não houve transferência da propriedade dos bens à sociedade, e, por consequência, a doação não chegou a ser concretizada, uma vez que não houve acréscimo patrimonial em favor da parte donatária.
+Entendimento diverso, conforme pretendido, implicaria incursão no campo fático-probatório, o que é vedado nesta Corte, por incidência das Súmulas 5 e 7 do STJ.
+4. Agravo Regimental do ESTADO DE SANTA CATARINA a que se nega provimento.
+(AgRg no AREsp n. 675.154/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 2/6/2015, DJe de 18/6/2015 - grifo nosso)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTIRIA A OMISSÃO. SÚMULA 284/STF. FATO GERADOR DO ITCMD. LEI ESTADUAL CATARINENSE 13.136/04. APRECIAÇÃO DE DIREITO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. CONTRATO DE DOAÇÃO DE COTAS SOCIAIS, AS QUAIS NÃO FORAM INTEGRALIZADAS. AUSÊNCIA DE TRANSFERÊNCIA DE PROPRIEDADE. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..  3. A Corte de origem, com base em fatos e provas, afirmou, expressamente, que o capital social não foi integralizado, de forma que não houve transferência da propriedade dos bens à sociedade, e, por consequência, a doação não chegou a ser concretizada, uma vez que não houve acréscimo patrimonial em favor da parte donatária.
+Entendimento diverso, conforme pretendido, implicaria incursão no campo fático-probatório, o que é vedado nesta Corte, por incidência das Súmulas 5 e 7 do STJ.
+4. Agravo Regimental do ESTADO DE SANTA CATARINA a que se nega provimento.
+(AgRg no AREsp n. 675.154/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 2/6/2015, DJe de 18/6/2015. - grifo nosso)
+Em vista disso: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Do mesmo modo, denota-se que a apreciação da pretensão da recorrente, ainda que sustentada com base em suposta violação à lei federal, demandaria, necessariamente, a interpretação dos requisitos estabelecidos na Lei Estadual nº 10.705/2000 analisada pelo acórdão recorrido, o que é inviável na estreita via do recurso especial, nos termos da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ITCMD. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DOAÇÃO DE QUOTAS SOCIAIS. BASE DE CÁLCULO. DECISÃO FUNDADA EM LEGISLAÇÃO LOCAL (LEI ESTADUAL 8.821/1989). RECURSO ESPECIAL. INADMISSIBILIDADE. SÚMULA 280/STF. AGRAVO DESPROVIDO.
+1. O Tribunal de origem dirimiu a discussão acerca do valor da base de cálculo do tributo com base na interpretação de legislação local (Lei Estadual 8.821/1989). A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplicável à espécie, por analogia, a Súmula 280/STF.
+2. É firme a jurisprudência desta Corte de que é vedado o exame de eventual ofensa ao art. 97 do CTN na via do recurso especial, sob pena de usurpação da competência da Suprema Corte, tendo em vista que o dispositivo reproduz o princípio constitucional da legalidade tributária, matéria de natureza eminentemente constitucional.
+3. Agravo interno do contribuinte desprovido.
+(AgInt no AREsp n. 2.013.965/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023. - grifo nosso)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITCMD. BASE DE CÁLCULO. VALOR VENAL DO IMÓVEL. INTERPRETAÇÃO DE NORMA LOCAL. SÚMULA 280/STF. FUNDAMENTO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA.
+1. O Tribunal de origem concedeu a Segurança em favor do contribuinte, afastando a majoração da base de cálculo do ITCMD, ao fundamento de que o Decreto Estadual 55.002/2009 modificou o conceito de valor venal estabelecido na Lei Estadual 10.705/2000.
+2. A tese de violação do art. 97 do CTN (princípio da legalidade tributária) não pode ser enfrentada nesta via recursal, tendo em vista que depende da obrigatória exegese de normas legais e infralegais do ente federativo estadual (Súmula 280/STF).
+3. Por outro lado, haveria necessidade de superar o fundamento constitucional utilizado no acórdão recorrido, isto é, de que norma infralegal (decreto regulamentar de execução da lei) não pode inovar no ordenamento jurídico, estabelecendo o valor de mercado para fins de lançamento do ITCMD. In casu, o Recurso Especial não constitui meio adequado para enfrentamento de matéria constitucional.
+4. Recurso Especial não conhecido.
+(REsp n. 1.728.308/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/4/2018, DJe de 25/5/2018. - grifo nosso)
+3 - Da divergência jurisprudencial
+Por fim, resta claro que a análise do dissídio jurisprudencial se encontra prejudicada, tendo em vista que o óbice aplicado ao recurso especial pela alínea "a" prejudica o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Não é outro o entendimento desta Turma de direito público: AgInt nos EDcl no AREsp 2.152.218/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/11/2023, DJe de 10/11/2023; AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023; e AgInt no AREsp 2.079.504/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
