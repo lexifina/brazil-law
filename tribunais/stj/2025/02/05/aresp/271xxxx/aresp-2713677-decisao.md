@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado por Jose Carlos Ferreira dos Santos, contra decisão da 1ª Vice-Presidência do Tribunal de Justiça do Estado de São Paulo, que inadmitiu seu recurso especial ante os seguintes fundamentos: (fl. 293):
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição da República, por indicada violação ao artigo 29 inciso II da Lei nº 8.213/91; bem como divergência jurisprudencial. O recurso não merece trânsito pela alínea "a".
+Com efeito, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça.
+Quanto à letra "c" do permissivo constitucional, deixou o recorrente de atender suficientemente ao requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ.
+(..)
+A parte agravante, em síntese, sustenta que," Em verdade, como restou explicitado no Recurso Especial obstado, a análise do caso dos autos haveria de observar a fundamentação exordial de forma ampla  não genérica, como o fez  consoante o aresto apontado nas razões do Recurso Especial que é decisão em similitude ao pleito vestibular" (fls. 320/321) .
+No mais, repisa as razões de m érito do apelo especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, a parte agravante deixou de rebater, de modo específico, o seguinte fundamento, "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça".
+Assim, o recorrente deixou de demonstrar a particularidade do caso dos autos suficiente para afastar o mencionado óbice, nos termos em que apontado pela instância de origem, o que caracteriza falta de impugnação específica ao aludido alicerce da decisão de inadmissibilidade do apelo raro proferida pelo Tribunal a quo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto ao não cabimento de REsp para reexame fático-probatório e Súmula 83/STJ. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Afinal, inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Ademais, o comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional (AgRg no AREsp 1.958.052/SC, Rel. Min. Laurita Vaz, Sexta Turma, DJe de 11/10/2021).
+7. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+8 . Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.880.201/RJ, Rel. Ministro Manoel Erhardt, Desembargador Convocado do TRF5, Primeira Turma, DJe de 24/11/2021.)
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
