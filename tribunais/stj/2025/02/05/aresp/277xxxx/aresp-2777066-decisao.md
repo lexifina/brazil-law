@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo de instrumento em face da decisão proferida pelo Exmo. Juiz Federal da 12ª Vara da Seção Judiciária do Estado de Goiás, que rejeitou a exceção de pré-executividade. No Tribunal a quo, negou-se provimento ao recurso.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO EM FACE DE DECISÃO EM AGRAVO DE INSTRUMENTO - ARGUMENTOS, JÁ APRECIADOS E REPELIDOS, INSUFICIENTES À REFORMA DA DECISÃO AGRAVADA - §3º DO ART.1.021 DO CPC/2015: ATENDIDO - NÃO PROVIMENTO.
+1- Trata-se de Agravo Interno contra decisão monocrática/unipessoal da Relatoria (art. 932-CPC/2015 ou art. 557-CPC/1973) que, apreciando o agravo de Instrumento, manteve a decisão que não reconheceu a prescrição.
+2 - Com efeito, não possui razão a agravante. No caso dos autos, a executada aderiu o parcelamento em 01/2004 no qual foi excluída em 04/2005. Ajuizada em 30/03/2010 (dentro do quinquênio)., o feito então ficou paralisado sem motivo e sem qualquer diligencia a cargo do credor até o despacho citatório em 22/06/2010 por culpa exclusiva do mecanismo judiciário, não do credor. Aplicável, portanto a SÚMULA 106/STJ.
+3 - SÚMULA 106/STJ: "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o colhimento da arguição de prescrição ou decadência". Inocorrente, no caso, a prescrição, a teor do que dispõe o art. 174 do CTN.
+4 - Agravo interno não provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Tratando-se de tributo sujeito a lançamento por homologação, a contagem do prazo prescricional tem início com a entrega da DCTF ou o vencimento da exação, o que for posterior:
+ ..
+Com efeito, não possui razão a agravante. No caso dos autos, a executada aderiu o parcelamento em 01/2004 no qual foi excluída em 04/2005 . Ajuizada em 30/03/2010 (dentro do quinquênio)., o feito então ficou paralisado sem motivo e sem qualquer diligencia a cargo do credor até o despacho citatório em 22/06/2010 por culpa exclusiva do mecanismo judiciário, não do credor. Aplicável, portanto, a SÚMULA 106/STJ: "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o colhimento da arguição de prescrição ou decadência".. Inocorrente, no caso, a prescrição, a teor do que dispõe o art. 174 do CTN.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
