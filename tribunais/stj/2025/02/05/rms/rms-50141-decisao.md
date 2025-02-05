@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, recurso em mandado de segurança interposto por LUIZ CARLOS TERTULINO DE FREITAS e OUTROS, contra acórdão assim ementado (fl. 273):
+CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDORES ESTADUAIS PROVENIENTES DO QUADRO DE PESSOAL DO EXTINTO BANDERN. PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO INSTITUÍDO PELA LEI ESTADUAL N. 9.341/2010, QUE NÃO TERIA SIDO IMPLEMENTADO INTEGRALMENTE PELA ADMINISTRAÇÃO. PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM. EXCLUSÃO DO PROCURADOR DO ESTADO DO PÓLO PASSIVO DA DEMANDA. ACOLHIMENTO. MÉRITO: DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO. CIRCUNSTÂNCIAS FÁTICAS PREVISTAS NA NORMA DE REGÊNCIA NÃO DEMONSTRADAS. SERVIDORES QUE NÃO EXERCEM SUAS FUNÇÕES, ATUALMENTE, JUNTO À SECRETARIA DE ESTADO DA TRIBUTAÇÃO. CONHECIMENTO E DENEGAÇÃO DA ORDEM.
+Os recorrentes pretendem o reconhecimento do direito à implantação integral dos reajustes remuneratórios determinados pela Lei Estadual n. 9.341/2010.
+Para tanto, aduzem estar "enquadrados perfeitamente no conteúdo do artigo supracitado, uma vez que pertencem a mesma Carreira do Sistema Financeiro BANDERN, na qual se está pleiteando a recomposição salarial, cuja natureza, grau de responsabilidade e de complexidade de cargos são pertinentes a todos os mencionados servidores; atendeu aos mesmos requisitos para investidura no BANDERN, além do que, as peculiaridades dos Cargos são idênticas para todos os servidores em questão" (fl. 342).
+O Ministério Público Federal opina pelo desprovimento do recurso.
+É o relatório.
+Passo a decidir.
+Na origem, cuida-se de mandado de segurança impetrado contra ato omissivo atribuído ao Secretario Estadual da Administração e dos Recursos Humanos, objetivando a implantação integral dos reajustes remuneratórios determinados pela Lei Estadual n. 9.341/2010.
+O Tribunal a quo decidiu a questão controvertida nos seguintes termos (fl. 277):
+Previu a lei, como visto, novo padrão remuneratório para os servidores públicos oriundos do BANDERN e da FUNDAC que estivessem desempenhando suas funções na Secretaria Estadual da Tributação, que deveria ser implementado parceladamente até outubro de 2010.
+Assim, para fazer jus ao novo vencimento básico é mister que o servidor público demonstre, portanto, que são provenientes do BANDERN ou da FUNDAÇ e que se encontram realizando as suas atividades junto à Secretaria Estadual da Tributação.
+Em que pesem os impetrantes ser oriundos do BANDERN, não demonstraram que exercem, atualmente, as suas funções junto à Secretaria Estadual da Tributação.
+As informações prestadas pela Secretaria Estadual da Administração e dos Recursos Humanos (fls. 229-231) e as fichas financeiras dos impetrantes (fls. 103-213) dão conta, na verdade, de que eles se encontram desempenhando as suas atividades em outros órgãos do Estado, e não na Secretaria Estadual da Tributação, conforme exigido pela lei.
+Pelo que se pode observar dos aludidos documentos, o impetrante Luiz Carlos se encontra lotado na Secretaria Estadual da Educação e da Cultura; a impetrante Núbia Célia foi redistribuída para Secretaria Estadual da Administração e dos Recursos Humanos; o impetrante Francisco do Nascimento está lotado no Departamento Estadual de Estradas e Rodagens; e o impetrante Silvino Teixeira está lotado na Secretaria Estadual da Justiça e da Cidadania.
+A Corte de origem denegou a segurança anotando que os servidores não preencheram os requisitos previstos na Lei 9.341/2010 para perceberem o reajuste pretendido , em especial, o de estar desempenhando suas atividades junto à Secretaria de Estado da Tributação (SET) (art. 1º).
+Os recorrentes, por sua vez, defendem fazer jus ao reajuste por pertencerem à mesma Carreira do Sistema Financeiro BANDERN, ocupando cargos de idênticas peculiaridades.
+Como se vê, não há direito líquido e certo a ser reconhecido no caso em análise, devendo ser mantida a denegação da segurança.
+Nos termos da jurisprudência do STJ, "a pretensão de aumento da remuneração, com respaldo no princípio da isonomia, atrai a incidência da Súmula 339 do Supremo Tribunal Federal, segundo a qual não cabe ao Judiciário, que não tem função legislativa, aumentar vencimentos de Servidores Públicos sob fundamento da isonomia" (AgRg no RMS 42.763/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 30/3/2017)" (RMS n. 60.360/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/2/2021, DJe de 2/3/2021).
+Iss o posto, nego provimento ao recurso em mandado de segurança.
+Custas pelas partes, observada eventual concessão de gratuidade judiciária na origem. Sem condenação em honorários advocatícios  art. 25 da Lei 12.016/2009; e Súmula 105/STJ.
+Intimem-se.
+ EMENTA
