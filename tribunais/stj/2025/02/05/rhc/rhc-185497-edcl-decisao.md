@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão de fls. 527-528, por meio da qual julguei o presente recurso em habeas corpus prejudicado.
+Alega o embargante, em síntese, contradição já que a sentença penal ratificou os fundamentos da decisão que decretou a prisão preventiva.
+É o relatório. DECIDO.
+Com razão o embargante, e , em juízo de retratação, passo a análise do recurso ordinário em habeas corpus.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação da decisão que decretou a segregação cautelar e da ausência dos requisitos ensejadores da prisão preventiva.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 366-367.
+Informação prestada às fls.373-374 e 375-520. O Ministério Público Federal se manifestou, à fl. 524, pelo provimento do recurso em parecer não ementado.
+Primeiramente, conforme informações obtidas no sítio do Tribunal de origem, (www.tjmg.jus.br), em 23/10/2023, processo nº 0012409-45.2023.8.13.525, foi julgada procedente a denúncia para condenar o acusado RENAN ALVES RIBEIRO DO VALLE pela suposta prática do crime previsto no artigo 33, "caput", c/c artigo 40, inciso III, ambos da Lei nº 11.343/06, submetendo-o à pena privativa de liberdade de 7 (sete) anos de reclusão em regime inicial fechado. A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao recorrente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade de droga apreendida: 182,01g (cento e oitenta e dois gramas e um centigramas) de cocaína;559,81g (quinhentos e cinquenta e nove gramas e oitenta eumcentigramas) de Maconha e 3,05 g (trêsgramas e cinco centigramas) de Haxixe, circunstâncias aptas a ensejarem a manutenção da segregação cautelar.
+A propósito:
+"A jurisprudência desta Corte sustenta a manutenção da prisão preventiva em casos de grande quantidade de drogas e risco à ordem pública"(RHC n. 192.177/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 25/11/2024.)
+"A exorbitante quantidade de droga apreendida em poder do agente evidencia a gravidade concreta da conduta e se revela como motivo idôneo e apto a embasar o decreto prisional"(AgRg no RHC n. 200.130/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: AgRg no HC n. 954.171/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJe de 3/12/2024; (AgRg no HC n. 940.908/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024; AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Do exposto, acolho os Embargos, e, em juízo de retratação, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
