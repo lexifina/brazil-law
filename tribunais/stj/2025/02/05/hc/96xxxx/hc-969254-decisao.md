@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Jean dos Santos Galindo - preso preventivamente pela suposta prática de tráfico de entorpecentes e posse ilegal de arma de fogo, isto é, com ele foram localizados porções de maconha e um revólver calibre 32 e munição, arma com numeração identificada em laudo pericial  e não suprimida como inicialmente reportado  - (fl. 103) -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada (Habeas Corpus n. 2328858-94.2024.8.26.0000).
+Postula, então, a concessão liminar da ordem para que seja determinada prisão domiciliar nos autos da Ação Penal n. 1500663-32.2024.8.26.0583 (tráfico de estupefacientes e porte ilegal de arma de fogo), sob as alegações, em suma, de que é pai de 2 duas filhas menores e de que conta com predicados favoráveis, além de ter sofrido acidente de moto grave, razão pela qual está sendo levado constantemente pela unidade ao médico, fisioterapia (fls. 3/14).
+O pedido liminar foi indeferido (fls. 107/108).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem (fls. 113/116).
+É o relatório.
+No que tange ao pleito de prisão domiciliar sob a justificativa de que o acusado é pai de duas filhas menores de idade, é entendimento desta Corte Superior que, no caso do homem com filho de até 12 anos incompletos, a prisão domiciliar não possui caráter absoluto ou automático, podendo o Magistrado conceder ou não o benefício, após a análise, no caso concreto, da sua adequação.
+Conforme já explicitado, ao indeferir o pedido de revogação da custódia formulado pela defesa, consignou que, apesar de demonstrada pela d. Defesa a filiação das menores (fls. 217 e 218), não há nos autos qualquer comprovação de que o acusado seja indispensável aos cuidados delas, e, no que concerne ao acidente sofrido em data recente, em que pese a gravidade do episódio, da mesma forma, não se vislumbra que a circunstância arguida se subsume ao requisito previsto no artigo 318, inciso II, do Código de Processo Penal ("agente extremamente debilitado por motivo de doença grave"). Nesse aspecto, caso o denunciado entenda, dada a sua condição de saúde, não estar recebendo tratamento adequado na unidade prisional em que encontra-se recolhido, deverá a sua d. Defesa pleitear administrativamente a devida adequação perante a Secretaria da Administração Penitenciária deste Estado (fls. 89/90 - grifo nosso).
+No caso dos autos, a prisão preventiva foi decretada com base em fatos concretos aptos a justificar a medida mais gravosa, para resguardar a ordem pública, não tendo, ainda, ficado demonstrado que o paciente seria o único responsável pelos cuidados das crianças, não havendo falar, portanto, em prisão domiciliar.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE SOCIAL. RISCO DE REITERAÇÃO. PRISÃO DOMICILIAR. NÃO COMPROVAÇÃO DOS REQUISITOS LEGAIS. PEDIDO DE EXTENSÃO E BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. Quanto ao pedido do benefício da prisão domiciliar, em que pese a defesa ressaltar que o paciente é genitor e provedor de 4 crianças menores de 12 anos, não ficou demostrado que ele seja o único responsável pelos cuidados dos filhos de até 12 anos de idade incompletos, razão pela qual não satisfaz os requisitos para a concessão de prisão domiciliar conforme estabelece o artigo 318, VI, do Código de Processo Penal.
+ ..
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 933.815/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/9/2024)
+Por oportuno, destaca-se, ainda, que, em consulta à página eletrônica do Tribunal de Justiça de São Paulo, obtive a informação que, em 26/12/2024, foi proferida sentença, condenando o paciente em 5 anos de reclusão e 1 ano de detenção, e ao pagamento de 510 dias-multa, fixado o regime fechado para o início do cumprimento da pena, como incurso nos crimes do art. 33, caput, da Lei n. 11.343/2006, e art. 12 da Lei n. 10.826/2003, tendo sido negado o direito de recorrer em liberdade (Autos n. 1500663-32.2024.8.26.0583).
+Ante o e xposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DROGAS. PRISÃO PREVENTIVA. PLEITO DE PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇAS MENORES DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA.
+Ordem denegada.
