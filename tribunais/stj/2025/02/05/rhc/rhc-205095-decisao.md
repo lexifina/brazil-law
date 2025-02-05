@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por ALESSANDRO ROBERTO FERREIRA, para impugnar acórdão lavrado pelo Tribunal Regional Federal da 4ª Região, que denegou a ordem vindicada nos autos do habeas corpus nº 5023004-89.2024.4.04.0000.
+Consta dos autos que o paciente foi condenado em primeiro grau ante a prática dos crimes previstos nos arts. 2º, § 4º, IV e V, da Lei n.º 12.850/2013 e no art. 15 da Lei nº 7.802/89, em concurso material, à pena privativa de liberdade de 10 (dez) anos e 3 (três) meses de reclusão, a ser cumprida em regime inicial fechado (Processo nº 5003420 05.2022.4.04.7017/PR).
+No presente recurso, requer a defesa seja reconhecida a desproporcionalidade do ato decisório que determinou o reforço da fiança em R$ 20.000,00 (vinte mil reais), em substituição à prisão preventiva anteriormente decretada em desfavor do recorrente.
+Parecer do Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. DECIDO.
+O recurso deve ser conhecido, porquanto presentes os requisitos de admissibilidade recursal.
+No mérito, contudo, tenho que inexiste fundamento jurídico hábil a amparar a pretensão recursal.
+Desde logo, devem-se invocar as bem lançadas ponderações exaradas no escorreito parecer ministerial (fls. 126/127):
+"Com efeito, a fiança, medida cautelar diversa da prisão, pode ser renovada em caso de descumprimento ou pode ser determinado a prisão preventiva do paciente, de acordo com o artigo 282, § 4º e 312, § 1º, ambos do CPP. 7. No presente caso, houve o reforço da fiança, ao invés da imposição da prisão cautelar, em razão do descumprimento constante e sucessivo do monitoramento eletrônico. Tal medida foi uma interpretação mais branda, que visou evitar a segregação cautelar do recorrente, não havendo que se falar em constrangimento ilegal. 8. Por fim, o valor da fiança não se apresenta desproporcional, pois, conforme se extrai das decisões de origem, o recorrente violou o monitoramento eletrônico por diversas vezes, demonstrando negligência recalcitrante no cumprimento da condição imposta".
+Em verdade, não há constrangimento ilegal no caso em apreciação, uma vez que, descumprida a medida cautelar imposta, o Tribunal de origem, entendendo pelo caráter de ultima ratio da prisão cautelar, houve por bem reformar a decisão de primeiro grau e, em caráter intermediário, determinar o reforço da fiança outrora concedida, com o escopo de compelir o recorrente a cumprir as ordens judiciais que lhe foram impostas, sob pena de imediato decreto de custódia preventiva.
+No que toca ao valor fixado, não se afigura a desproporcionalidade invocada, haja vista que o recorrente teria descumprido, reiteradamente, o monitoramento eletrônico fixado e que o patamar estabelecido encontra guarida no art. 325, inciso II, do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
