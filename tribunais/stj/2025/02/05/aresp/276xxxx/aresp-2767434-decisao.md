@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MUNICÍPIO DO RECIFE contra decisão que inadmitiu recurso especial com fundamento na aplicação das Súmulas 284 do STF e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Súmula 284 do STF
+No que tange à alegada violação ao art. 1.022 do CPC/15, o recurso não merece conhecimento.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial, porquanto não permite a exata compreensão da controvérsia, incidindo, pois, à espécie, o óbice da Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. SÚMULA N. 284/STF. VIOLAÇÃO DO ART. 489, I E IV, DO CPC. SÚMULA N. 211/STJ. INCONSTITUCIONALIDADE DO ADICIONAL SOBRE O VALOR DAS TAXAS DE LICENÇA E FUNCIONAMENTO. COMPETÊNCIA DO STF E SÚMULA N. 280/STF. AGRAVO INTERNO NÃO PROVIDO.1. O acolhimento da preliminar de violação do art. 1.022 do CPC exige que o recorrente aponte com clareza o vício do qual padece o aresto combatido, bem como que demonstre a relevância dele à conclusão do julgado, de forma que, se analisado a contento, poderia levar à alteração do resultado do julgamento. A argumentação genérica no sentido de que houve ofensa ao art. 1.022 do CPC, consoante ocorreu in casu, atrai a incidência da Súmula n. 284/STF. .. 6. Agravo interno não provido (AgInt no AREsp n. 2.263.749/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023).
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. ANÁLISE PER SALTUM DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULA 284/STF. INCIDÊNCIA. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO.1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF. .. 5. Agravo interno não provido.(AgInt nos EDcl no AgInt no REsp n. 1.704.745/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023).
+Súmula 7 do STJ
+Quanto ao mais, observo que a pretensão da parte recorrente relativa à violação ao art. 535, III, § 5º, do CPC encontra óbice na Súmula 7 do STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente que:
+Pois bem, o art. 502 do diploma processual vigente define que coisa julgada material é a eficácia que torna imutável e indiscutível a sentença de mérito, não mais sujeita a recursos.
+Assim, sem delongas, no que se refere a inexigibilidade do título de IPTU sobre o imóvel do HOPE tenho que tal pretensão não merece prosperar, porque está albergada pela coisa julgada material. É que, conforme afirmado pelo contador judicial, id-86855563, o Título Executivo Judicial de 1º grau, confirmado no Tribunal, declarou ser direito da parte autora pagar o IPTU incidente sobre o(s) imóvel(is) aqui identificado(s) apenas na alíquota de 1% no período de março de 1999 a março de 2004.
+Para rever essa conclusão seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. SERVIDOR PÚBLICO CIVIL. LEGITIMIDADE ATIVA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ. SÚMULA N. 284 DO STF.
+ ..
+III - A pretensão recursal passa pela análise do título executivo formado na ação coletiva. Contudo, o Superior Tribunal de Justiça possui entendimento consolidado no sentido de que a análise de ofensa ou não à coisa julgada importa em reexame do conjunto fático-probatório, o que encontra óbice na Súmula n. 7 deste Tribunal. Nesse sentido: AgInt no AREsp n. 1.640.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/9/2021, DJe 17/9/2021; AgInt no AREsp n. 1.767.027/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/5/2021, DJe 1º/7/2021; AgInt no REsp n. 1.943.906/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/11/2021, DJe de 17/12/2021; AgInt no REsp n. 1.881.540/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 4/10/2021, DJe de 18/10/2021.)
+ ..
+VI - Agravo interno improvido (AgInt no REsp n. 2.140.491/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RETRIBUIÇÃO ADICIONAL VARIÁVEL - RAV. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. AÇÃO COLETIVA. COISA JULGADA. REVISÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+7. Consoante a jurisprudência deste Tribunal, descabe ao STJ analisar, em sede de recurso especial, a alegação de ofensa às disposições do CPC que disciplinam o instituto da coisa julgada, diante da indiscutível necessidade de reexame do contexto fático-probatório dos autos.
+8. Agravo interno desprovido (AgInt no AREsp n. 2.191.563/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024).
+PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL. INTERPRETAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do STJ, no sentido de que "não viola a coisa julgada a interpretação do título judicial conferida pelo magistrado, para definir seu alcance e extensão, observados os limites da lide" (AgInt no AREsp 1696395/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Órgão Julgador T3 - TERCEIRA TURMA, DJe 18/12/2020.
+2. Hipótese em que o acolhimento da pretensão recursal, a fim de reconhecer a eventual ofensa à coisa julgada na interpretação do título judicial pelas instâncias de origem, demandaria a incursão no conjunto fático-probatório, providência que esbarra no óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido (AgInt no AREsp n. 1.640.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/9/2021, DJe de 17/9/2021).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para não conhecer do recurso especial .
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
