@@ -1,0 +1,38 @@
+DECISÃO
+Em análise, recurso especial interposto por LUCIANA CALANDRA MOREIRA LAUB GONÇALVES e MAURÍCIO CALANDRA MOREIRA LAUB contra acórdão assim ementado:
+AÇÃO RESCISÓRIA. DIREITO PROCESSUAL CIVIL, CIVIL E AMBIENTAL. AÇÃO DE USUCAPIÃO. PROCEDÊNCIA. PROMOÇÃO MINISTERIAL. ÁREA DE PRESERVAÇÃO PERMANENTE. REGISTRO IMOBILIÁRIO. AVERBAÇÃO. COMANDO. SENTENÇA. DEMANDA. OBJETO. LIMITAÇÃO. AÇÃO RESCISÓRIA IMPROCEDENTE. GRATUIDADE DA JUSTIÇA. REVOGAÇÃO.
+1. Ação rescisória proposta com suporte no inciso V do artigo 966 do Código de Processo Civil, o qual alberga a hipótese de manifesta violação a norma jurídica.
+2. A sentença rescindenda, lançada em ação de usucapião, além de reconhecer a propriedade de parcela da área aos usucapientes, a partir de promoção do Ministério Público Federal - MPF e prova elaborada, determinou a averbação no registro imobiliário que o imóvel representa área de preservação permanente - APP.
+3. Na ação desconstitutiva os autores desenvolvem sua linha de argumentação afirmando que a anotação da qualidade de APP foge do objeto da demanda de usucapião, tendo assim a sentença incorrido em decisão para além do pedido, em violação ao princípio da congruência e ao previsto no artigo 492 do CPC.
+4. Firmada posição nesta Seção no sentido de que a sentença, ao acolher a promoção do MPF na ação de origem para a anotação no registro imobiliário do bem objeto da usucapião da informação de que se trata de área de preservação permanente, o que fez com suporte em prova técnica submetida a contraditório regular, não importou em violação manifesta ao enunciado do artigo 492 do CPC.
+5. A anotação combatida não atua na qualidade de provimento judicial para além do pedido, mas antes na condição de medida consequente, de flagrante interesse público.
+6. Consoante bem assinalado na contestação da União, o direito de propriedade buscado na ação de origem não pode ser dissociado de sua função socioambiental, a qual autoriza o comando judicial impugnado.
+7. Em outras palavras, não desborda do objeto da ação de usucapião, mediante a qual é garantida a aquisição originária da propriedade, a consideração incidental, por meio de regular contraditório, da função social da propriedade em exame, com a consequente anotação registral. Se tal função é uma condicionante inerente ao direito de propriedade, não há como refutar a sua cognição na sede da usucapião. 8. A sentença evidencia o objetivo do magistrado, notadamente consoante o ordenamento em vigor, que revela além de tudo medida de resguardo do direito de terceiros, bem assim de economia processual, a evitar o eventual manejo futuro de demanda buscando unicamente a anotação registral comandada.
+9. Mesmo que houvesse falar em descabimento da determinação em exame no bojo da ação de usucapião, não se divisa, à vista dos termos da sentença, gravidade significativa para autorizar a desconstituição da coisa julgada pela via rescisória, resguardada assim a segurança jurídica, ponderando ainda que da sentença sequer foi manejado o recurso de apelação. A ação rescisória desserve ao objetivo de sucedâneo recursal.
+10. Diante da impugnação pela União ao deferimento da gratuidade da justiça aos autores, que remete à documentação acostada pelos próprios à exordial, a qual por sua vez dá conta de expressiva quantia de numerário disponível, ainda que em aplicações financeiras, sem considerar ainda os demais bens de significativo valor de sua propriedade, foi revogada a gratuidade da justiça.
+11. Ação rescisória julgada improcedente.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação aos arts. 492, 966, V, do CPC, assim como ao art. 1.228 do Código Civil.
+É o relatório.
+Decido.
+De início, convém registrar a ausência de prequestionamento das teses recursais, porquanto, apesar da indicação de violação aos arts. 492, 966, V, do CPC e art. 1.228 do Código Civil, a parte recorrente não demonstra de forma clara, de que modo se consubstanciam as alegadas ofensas.
+Diante da fundamentação deficiente do recurso especial, incide o óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+No mais, ao dirimir a controvérsia, o Tribunal de origem afastou a alegação de julgamento extra petita, consignando o seguinte:
+Os autores narram que na ação de usucapião em que lançada a sentença rescindenda, além de reconhecer a propriedade de parcela da área aos usucapientes, o Juízo, a partir de promoção do Ministério Público Federal - MPF e prova elaborada, determinou a averbação no registro imobiliário que o imóvel representa área de preservação permanente - APP.
+Afirmam que a aludida anotação da qualidade de APP refoge ao objeto da demanda de usucapião.
+Entendo que a sentença, ao acolher a promoção do MPF na ação de origem para a anotação no registro imobiliário do bem objeto da usucapião da informação de que se trata de área de preservação permanente, o que fez com suporte em prova técnica submetida a contraditório regular, não importa em violação manifesta ao enunciado do artigo 492 do CPC.
+A anotação combatida não atua na qualidade de provimento judicial para além do pedido, mas antes na condição de medida consequente, de flagrante interesse público.
+ ..
+A título de concessão argumentativa, mesmo que houvesse falar em descabimento da determinação em exame no bojo da ação de usucapião, deixo de divisar, à vista dos termos da sentença acima transcritos, gravidade significativa para autorizar a desconstituição da coisa julgada pela via rescisória, resguardada assim a segurança jurídica, ponderando ainda que da sentença sequer foi manejado o recurso de apelação. Rememoro que a ação rescisória desserve ao objetivo de sucedâneo recursal (fls. 654-656).
+Contudo, o fundamento acima em destaque não foi impugnado, razão pela qual incide o óbice da Súmula 283/STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Além do mais, conforme se vê, decidir de forma contrária, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA DE CONSUMO. VENDA DE IMÓVEIS. LOTEAMENTO. PROPAGANDA ENGANOSA. NEGATIVA DE ENTREGA DA PLENA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. PRINCÍPIO DA CONGRUÊNCIA/ADSTRIÇÃO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AUSÊNCIA DE ELEMENTOS HÁBEIS PARA INFIRMAÇÃO DOS FUNDAMENTOS DA DECISÃO IMPUGNADA.
+ ..
+2. Não se admite a revisão do entendimento do tribunal de origem acerca da não ocorrência de julgamento extra petita quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+3. Não há falar em julgamento extra ou ultra petita quando o tribunal a quo decide nos limites do pedido.
+4. Mantém-se a decisão cujos fundamentos não são infirmados pela parte recorrente.
+5. Agravo interno desprovido (AgInt no AREsp n. 2.099.219/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/8/2024, DJe de 28/8/2024).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
