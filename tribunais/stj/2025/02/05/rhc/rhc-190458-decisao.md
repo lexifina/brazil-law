@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar interposto por LUCIMAR ARAUJO PEREIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que foi decretada a prisão preventiva do recorrente, em decorrência da suposta prática do delito de tráfico ilícito de entorpecentes.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, por meio do qual buscava a substituição da prisão preventiva pela prisão domiciliar em razão do estado de saúde do recorrente. O Tribunal de origem denegou a ordem em acórdão de fls. 593-600, ao fundamento de que estão sendo tomadas todas as medidas e providências necessárias para que o recorrente receba o tratamento médico adequado ao seu quadro clínico.
+Neste recurso, a Defesa aponta a ocorrência de constrangimento ilegal na decisão que indeferiu a o pedido de substituição da prisão preventiva por domiciliar em razão do paciente ser portador de grave problema cardíaco, denominado angina instável, que demanda tratamento com medicamentos e exames, necessitando frequentemente de internação hospitalar.
+Requer, ao final, a substituição da prisão preventiva por domiciliar.
+A liminar foi indeferida às fls. 872-873.
+Informações prestadas às fls. 878-945 e 954-967. O Ministério Público Federal, às fls. 947-949, manifestou-se pelo "improvimento" do recurso.
+É o relatório. DECIDO.
+No que tange às enfermidades do recorrente, o tribunal de origem manifestou no sentido de que o recorrente não demonstrou o constrangimento ilegal, porque, conforme se extrai do relatório apresentado pela Técnica de Enfermagem do presídio, estão sendo tomadas todas as medidas e providências necessárias para que receba o tratamento médico adequado ao seu quadro clínico, na medida em que o recorrente realizou a cirurgia necessária, obteve alta hospitalar e se consultou com um cardiologista no dia 02/10/2023 e que conforme Relatório Médico juntado aos autos, as medicações do recorrente são administradas via oral, motivo pelo qual elas podem ser realizadas em qualquer ambiente (e-STJ fl. 597), e porque a autoridade apontada como coatora está ciente da enfermidade do recorrente e ponderou, inclusive, na decisão ora impugnada, a possibilidade de o recorrente ser encaminhado ao médico para realizar os procedimentos não passíveis de serem efetuados no estabelecimento prisional (e-STJ fl. 598).
+Com efeito, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, o que não ocorreu nos autos.
+Ir contrário a esse entendimento demandaria revolvimento fático- probatório inviável na via estreita do habeas corpus.
+Nesse sentido:
+"A verificação acerca do estado de saúde do agravante, para fins de concessão de prisão domiciliar, nos termos do art. 318, II, do CPP, demandaria detido e profundo revolvimento fático-probatório, o que é inviável na via do habeas corpus"(AgRg no HC n. 891.325/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pelo provimento do presente recurso.
+Ante o exposto, com fulcro no art. 34, inciso XVIII, alínea b do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
