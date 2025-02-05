@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, recurso especial interposto por JOAO CARLOS MARTINS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. CONCESSÃO. REEXAME NECESSÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ENQUADRAMENTO DE ATIVIDADE ESPECIAL. RUÍDO ACIMA DOS LIMITES DE TOLERÂNCIA. METODOLOGIA DA FUNDACENTRO. IRRELEVÂNCIA. AGENTES QUÍMICOS HIDROCARBONETOS. PPP. LAUDO. REQUISITOS PREENCHIDOS ENTRE A DER E O AJUIZAMENTO. SUCUMBÊNCIA RECÍPROCA.
+- Não se cogita de remessa oficial, por ter sido proferida a sentença na vigência do atual Código de Processo Civil, cujo artigo 496, § 3º, I, afasta a exigência do duplo grau de jurisdição quando a condenação ou o proveito econômico for inferior a 1.000 (mil) salários mínimos.
+- Cerceamento não configurado. Cabe à parte autora, nos termos do artigo 373, I, do CPC, os ônus de comprovar a veracidade dos fatos constitutivos do direito invocado, por meio de prova suficiente e segura.
+- O tempo de trabalho sob condições especiais poderá ser convertido em comum, observada a legislação aplicada à época na qual o trabalho foi prestado. Além disso, os trabalhadores assim enquadrados poderão fazer a conversão dos anos trabalhados a "qualquer tempo", independentemente do preenchimento dos requisitos necessários à concessão da aposentadoria.
+- O enquadramento efetuado em razão da categoria profissional é possível somente até 28/4/1995 (Lei n. 9.032/1995).
+- A exposição superior a 80 decibéis era considerada atividade insalubre até a edição do Decreto n. 2.172/97, que majorou o nível para 90 decibéis. Com a edição do Decreto n. 4.882, de 18/11/2003, o limite mínimo de ruído para reconhecimento da atividade especial foi reduzido para 85 decibéis, sem possibilidade de retroação ao regulamento de 1997 (REsp n. 1.398.260, sob o regime do artigo 543-C do CPC/73).
+- A informação de "EPI Eficaz (S/N)" não se refere à real eficácia do EPI para fins de descaracterizar a nocividade do agente. - Em relação aos períodos requeridos, constam Carteira de Trabalho e Previdência Social (CTPS), PPP e laudo técnico (LTCAT), que indicam exposição habitual a níveis de ruído superiores aos limites de tolerância para a época de prestação do serviço, além de agentes químicos, o que autoriza o devido enquadramento nos códigos 1.2.10, 1.2.11 e 1.1.6 do anexo ao Decreto n. 53.831/1964.
+- Insta salientar que eventual utilização de metodologia diversa de aferição do ruído não desnatura a especialidade do período, uma vez constatada exposição superior ao limite considerado salubre e comprovado por meio de PPP ou laudo técnico, consoante jurisprudência desta Corte.
+- Os riscos ocupacionais gerados pela exposição a agentes químicos, em especial os hidrocarbonetos, não requerem análise quantitativa, senão qualitativa. Precedentes.
+- Presente o quesito temporal, uma vez que a soma de todos os períodos de trabalho confere à parte autora mais de 35 anos no ajuizamento; em razão do cômputo do tempo de serviço entre a DER e o ajuizamento da ação, o termo inicial do benefício deve ser fixado na citação.
+- Em virtude da sucumbência recíproca e da vedação à compensação (art. 85, § 14, da Lei n. 13.105/2015), ficam os litigantes condenados a pagar honorários advocatícios, arbitrados em 5% (cinco por cento) sobre as prestações vencidas até a sentença, consoante Súmula n. 111 do Superior Tribunal de Justiça e critérios do artigo 85 do CPC.
+- Possíveis valores não cumulativos recebidos na esfera administrativa deverão ser compensados por ocasião da liquidação do julgado.
+- Reexame oficial não conhecido
+- Matéria preliminar rejeitada.
+Opostos embargos de declaração pelos INSS, estes foram rejeitados pelo aresto de fls. 379-383.
+Nas razões recursais, o recorrente sustenta, em síntese, violação aos arts. 493, 926 e 927, do CPC, bem como a inobservância do Tema 995/STJ, uma vez que o termo inicial do benefício deveria ser fixado na data em que implementados os requisitos necessários para a concessão da aposentadoria especial.
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+A controvérsia recursal diz respeito à reafirmação da DER.
+O Tribunal de origem concluiu pela não aplicação do Tema 995/STJ, pois, no presente caso, a DER foi reafirmada antes da propositura do feito.
+Veja-se (fls. 291):
+Em suma, prospera o pleito de reconhecimento do caráter especial das atividades suprarreferidas, cujos lapsos devem ser somados aos demais períodos incontroversos.
+No caso vertente, o requisito da carência restou cumprido em conformidade com o artigo 142 da Lei n. 8.213/1991.
+Ademais, patente o quesito temporal, uma vez que a soma de todos os períodos de trabalho até 24/1/2018, confere à parte autora mais de 35 anos de profissão, tempo suficiente à concessão da aposentadoria por tempo de contribuição integral deferida.
+Contudo, em razão do cômputo do tempo de serviço entre a DER e o , o termo inicial do benefício deve ser fixado na (cf. TNU,ajuizamento da ação citação Pedido de Uniformização de Interpretação de Lei n. 0002863-91.2015.4.01.3506, Rel. Juiz Federal Sérgio de Abreu Brito, publicado em 31/10/2018).
+Ademais, importante frisar que não são contemplados pela hipótese de reafirmação da DER (Tema n. 995 do STJ) os casos nos quais o preenchimento dos requisitos ocorre até a data do ajuizamento da ação (vide STJ; 1ª Seção; EDcl nos EDcl do Resp n. 1.727.063/SP, Rel. Min. Mauro Campbell Marques; DJ 26/8/2020; DJe 4/9/2020).
+Por sua vez, no recurso especial, constata-se a ausência de impugnação do referido fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE. 1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015. 2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia). 3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei. 4. Agravo interno não provido (AgInt no AR Esp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, D Je de 20/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
