@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO RIO GRANDE DO NORTE contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO que não admitiu o recurso especial.
+O MPRN interpôs recurso em sentido estrito de decisão do juízo de 1º grau que relaxou prisão em flagrante e indeferiu o pleito de decretação da prisão preventiva de GETÚLIO TARGINO HENRIQUE (fls. 7-11).
+O Tribunal negou provimento ao recurso por ausência de contemporaneidade (fls. 75-78).
+O Ministério Público opôs embargos de declaração sustentando a omissão e obscuridade do acordão ao não apreciar o pleito de reconhecimento da legalidade do flagrante e da licitude da prova (fls. 84-89). Os embargos foram rejeitados ao argumento de inexistir omissão a ser sanada (fls. 99-104).
+O MP então interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, sustentando a violação ao art. 619 do Código de Processo Penal (fls. 113-125).
+O recurso foi inadmitido na origem com fundamento na Súmula n. 83, STJ (fls. 128-131).
+Nas razões do agravo em recurso especial, o agravante sustenta a inaplicabilidade do óbice (fls. 134-145).
+O Ministério Público Federal, por sua vez, opinou pelo provimento do recurso (fls. 168-170).
+É o relatório. DECIDO.
+A controvérsia trazida no recurso especial consiste na licitude das provas obtidas mediante acesso a aparelho celular, obtido na cena do crime, e a consequente (i)legalidade da prisão em flagrante.
+O acórdão de origem, no julgamento de RESE em que o Ministério Público Estadual pleiteava o reconhecimento da legalidade da prisão e a decretação da preventiva, consignou (fl. 77):
+"No caso, inobstante a alegada controvérsia acerca da ilegalidade da prova obtida e os fortes argumentos do órgão ministerial, neste momento processual, não vejo razão para modificar a decisão que relaxou a prisão em flagrante do recorrente.
+Primeiro, por conta da ausência de contemporaneidade, haja vista que desde a data dos fatos, em 28/09/2021, já transcorreu mais de 1 (um) ano e 5 (cinco) meses e não há nos autos qualquer notícia de que o recorrido tenha retomado a prática de ilícitos penais.
+Segundo, considerando que o feito se encontra em sua fase inicial de instrução, sem que tenha sido sequer ofertada a denúncia, em surgindo indícios fortes e veementes de que o recorrido esteja, de fato, cometendo novos crimes, não há impedimento para que novo pedido de prisão preventiva - ou mesmo de aplicação de medida cautelar diversa da prisão - seja formulado e apreciado pelo Juízo de primeiro grau. Nesta mesma linha de raciocínio, entendo não haver indícios de obstrução ou embaraço na instrução do feito aptos a ensejar a medida extrema.
+Assim, por mais que se reconheça a reprovabilidade da conduta imputada ao recorrido, os elementos que constam nos autos não possibilitam a conclusão de que o mesmo, em liberdade, possa causar perigo à ordem pública."
+A acusação então apresentou embargos de declaração solicitando ao Tribunal que esclarecesse a omissão quanto à análise da ilicitude da prova, afirmada pelo magistrado de origem como fundamento para o relaxamento da prisão em flagrante.
+O Tribunal de Justiça, porém, limitou-se a afirmar a inexistência de omissão no acórdão embargado.
+Verifica-se que o agravante trouxe argumentos específicos acerca da licitude da prova obtida através do aparelho celular do suspeito, cuja prisão foi objeto da decisão. A verificação da contemporaneidade ou da presença dos requisitos da prisão preventiva depende diretamente da existência de indícios do crime. Ademais, a análise da (i)licitude da prova é de suma importância para o próprio prosseguimento da investigação criminal.
+Logo, a questão suscitada interfere diretamente no resultado do julgamento e, uma vez que não houve o enfrentamento da matéria pelo Tribunal de origem, entendo que a decisão recorrida incorreu em omissão relevante, nos termos do art. 619 do Código de Processo Penal.
+Ainda que o Magistrado não seja obrigado a rebater todas as questões apresentadas pela parte de forma pormenorizada, resta caracterizada a negativa de prestação jurisdicional quando deixa de se manifestar acerca de matéria essencial (AgRg no AREsp n. 1.965.518/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+Nesse sentido, conforme entendimento reiterado da Corte, persistindo a omissão, ainda que opostos embargos de declaração, resta violado o disposto no art. 619 do Código de Processo Penal, sendo necessário o retorno dos autos ao Tribunal de origem para que se manifeste sobre a matéria (AgRg no REsp n. 1.669.311/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/5/2018. AgRg no AREsp n. 2.084.883/MS, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/8/2022).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "c", do RISTJ, conheço do agravo e dou provimento ao recurso especial para determinar o retorno dos autos à origem para que seja sanada a omissão apontada nos embargos declaratórios.
+Publique-se. Intime-se.
+EMENTA
