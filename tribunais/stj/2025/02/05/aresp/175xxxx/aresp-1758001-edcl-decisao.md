@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, embargos de declaração opostos por ANDRE LUIZ BORGES NETO contra a decisão vista às fls. 311-314, por meio da qual foram acolhidos os embargos de declaração com efeito modificativo, para corrigir erro material.
+O embargante sustenta, em síntese, que a decisão embargada apreciou apenas o primeiro vício apontado nos embargos anteriores, e deixou de apreciar a omissão que se refere aos honorários recursais de 2% fixados pelo tribunal de origem. Pede o acolhimento dos embargos.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Compulsando os autos recursais, verifico que o embargante interpôs recurso especial pretendendo a reforma do acórdão por meio do qual o Tribunal de origem manteve a sentença de procedência da ação monitória e proveu o apelo "para majorar a verba honorária sucumbencial para 8% (oito por cento) sobre o valor da condenação, nos termos do artigo 85, §§ 3º, II, 4º, 5º e 6º do CPC."
+No recurso especial o embargante postulou:
+PELO EXPOSTO, pede-se admissão deste recurso, enviando-se os autos ao STJ, onde merecerá integral provimento, acolhendo-se o pedido de reforma do acórdão, para os honorários advocatícios sucumbenciais (tanto pela atuação em 1º grau, como em 2ºgrau) serem fixados de acordo com os percentuais do art. 85, §§ 3º, 4º, 5º e 6º do CPC (ou seja, entre 10% e 20% até duzentos salários  R$199.600,00  e entre 8% e 10% de duzentos até dois mil salários  R$199.600,01 a R$1.999.000 ), com fixação/majoração de honorários advocatícios recursais pela atuação neste STJ (art. 85, §1º e §11, CPC).
+Por meio da decisão de fls. 268-273 o recurso foi provido, nestes termos:
+Ante o exposto, em juízo de reconsideração, conheço do agravo e dou provimento ao recurso especial para fixar os honorários sucumbenciais no percentual mínimo do inciso correspondente do art. 85, § 3º, do CPC e, no que exceder, do inciso subsequente, e assim sucessivamente, conforme disposto no §5º do mesmo artigo, com base no valor da causa.
+Foram opostos embargos de declaração, no qual o recorrente apontou vício formal na fixação da base de cálculo dos honorários e sobre a sujeição dos honorários fixados pelo Tribunal ao escalonamento. Esses embargos foram acolhidos para modificar a base de cálculo da verba, passando a incidir sobre o valor da condenação.
+Agora, o recorrente insiste na existência de omissão sobre a sujeição dos honorários fixados pelo Tribunal ao escalonamento.
+Com efeito, verifico que o dispositivo daquela decisão deixa claro que houve o provimento integral do recurso especial, de modo que tanto os honorários que remuneram o trabalho do advogado na primeira instância, como aquele que se refere ao trabalho adicional em grau recursal estão sujeitos ao escalonamento de que trata o §5º do art. 85 do CPC.
+Dessa forma, é necessário que o cálculo leve em conta a majoração promovida em sede de apelação, correspondente a 2%, tomando por base o mínimo previsto na norma mencionada. Isso quer dizer que, ao mínimo previsto no inciso correspondente do art. 85, § 3º, do CPC, deve ser acrescido o percentual de 2%, referente aos honorários fixados em razão do provimento da apelação, estando esse montante sujeito aos percentuais do art. 85, §§ 3º, 4º, 5º e 6º do CPC.
+Assim, não há vício formal no decisum.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
