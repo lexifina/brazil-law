@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por LUIZ CARLOS DOS SANTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 279-280):
+EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA. IMPROCEDÊNCIA. APELO DO EMBARGANTE. PRELIMINAR DE OMISSÃO NA APRECIAÇÃO DOS PEDIDOS DE NULIDADE POR FALTA DE RECOLHIMENTO DA CONTRIBUIÇÃO DE MANDATO E POR FALTA DE DEMONSTRATIVO COM EVOLUÇÃO DA DÍVIDA. AFASTAMENTO. Possibilidade de apreciação da matéria nesta instância, sem anulação ou retorno dos autos. Inteligência do art. 1.013, §3º, III, do CPC. INÉRCIA NO RECOLHIMENTO DE CONTRIBUIÇÃO RELATIVA A INSTRUMENTO DE MANDATO. Não condução à extinção do feito. Reconhecimento pelo Supremo Tribunal Federal da inconstitucionalidade do artigo de lei estadual que impõe essa obrigação. ADI 5736. AUSÊNCIA DE DEMONSTRATIVO DE DÉBITO. Credora que abriu a composição da dívida e forneceu os dados necessários para que o contraditório fosse exercido. Observância do art. 798, I, "b", do CPC. MÉRITO. PRESCRIÇÃO. Configuração. Prazo trienal previsto no art. 71 cc. art. 77 da LUG. Contagem a partir de dezembro de 2012, com o protesto cambial. Execução promovida em julho de 2013. Citação operada apenas em agosto de 2020. Interrupção do prazo prescricional que se opera com a citação válida. Ato consumado mais de sete anos depois. Demora imputável ao serviço judiciário somente até outubro de 2015. Inércia da credora em retomar o andamento depois de decorrido o prazo de seis meses de suspensão, conforme pleiteou. Desarquivamento dos autos em setembro de 2018, após quase três anos paralisados. Contexto a evidenciar que a prescrição não se interrompeu, seja por inocorrência da citação, seja porque cessadas as providências para sua tentativa. Prazo expirado. Inteligência do art. 219 do CPC/1973 e do art. 240 do CPC/2015. Não incidência da tese definida pelo Superior Tribunal de Justiça no julgamento do IAC n. 1, uma vez que, na situação lá delineada, a citação havia se consumado, produzindo o efeito interruptivo, ao contrário do que se verifica no caso vertente. Sentença reformada. Recurso, no mérito, provido.
+Rejeitados os embargos de declaração opostos pelo recorrente, bem como aqueles opostos pelo recorrido (fls. 305-310 e 317-320, respectivamente).
+Nas razões do recurso especial adesivo (fls. 336-346), a recorrente aduz violação do art. 85, § 2º, do CPC, ante a incorreta fixação da base de cálculo da verba honorária.
+Sem contrarrazões (fl. 347), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 350-351), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 386-391).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A pretensão não comporta conhecimento, visto que a fixação da verba honorária não era sequer cabível, a teor de reiterada jurisprudência de que, em razão do princípio da causalidade, inviável a fixação de honorários em desfavor do exequente quando declarada a prescrição intercorrente, deixando de afastar a verba fixada na origem sob pena de incorrer em reformatio in pejus.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. EXTINÇÃO. PRESCRIÇÃO INTERCORRENTE. SUCUMBÊNCIA. MODIFICAÇÃO. IMPOSSIBILIDADE. NON REFORMATIO IN PEJUS. BASE DE CÁLCULO INALTERADA. DECISÃO MANTIDA.
+1. A Segunda Seção desta Corte consolidou o entendimento de que o implemento da prescrição intercorrente não afasta o princípio da causalidade em desfavor da parte executada nem atrai a sucumbência para a parte exequente.
+2. No caso, a condenação da exequente ao pagamento de honorários não pode ser afastada em virtude do princípio non reformatio in pejus.
+Contudo, não há falar em modificação de sua base de cálculo.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.106.012/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. RECONHECIMENTO. APRESENTAÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONDENAÇÃO DO CREDOR EM HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. INCIDÊNCIA DO PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA CONSOLIDADA DESTA CORTE. SÚMULA N. 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A extinção da execução pelo reconhecimento da prescrição intercorrente (ou da prescrição da pretensão executiva) não enseja a fixação de verba honorária em favor do executado.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.671.323/PR, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 30/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTECORRENTE. VERBA HONORÁRIA DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. MAJORAÇÃO DO MONTANTE. DESCABIMENTO.
+1. Na execução fiscal, pela regra da causalidade, não é cabível a condenação da Fazenda exequente em verba honorária de sucumbência, na hipótese em que há o reconhecimento da ocorrência da prescrição intercorrente, sem resistência.
+2. "No contexto em que a exequente nem deveria ter sido condenada ao pagamento de verba honorária, inviável se mostra a majoração do quantum arbitrado, porquanto representaria flagrante ofensa ao princípio da razoabilidade, atualmente também previsto no art. 8º do CPC" (REsp 1.768.530/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 02/06/2020, DJe 29/06/2020).
+3. No caso dos autos, porque nem sequer deveriam ter sido fixados os honorários de sucumbência, não há como se alterar o acórdão recorrido, no que se refere aos critérios a serem observados.
+4. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no REsp n. 1.849.431/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 17/3/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem em desfavor da recorrente.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS. DESCABIMENTO ALTERAÇÃO DOS CRITÉRIOS. INVIABILIDADE. MANUTENÇÃO DA VERBA FIXADA NA ORIGEM. NON REFORMATIO IN PEJUS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
