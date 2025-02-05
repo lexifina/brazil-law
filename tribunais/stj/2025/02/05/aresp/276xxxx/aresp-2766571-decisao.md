@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por MUNICÍPIO DE RONDONÓPOLIS contra acórdão do Tribunal de Justiça do Estado de Rondônia. A parte recorrente interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, contudo o recurso especial foi inadmitido por ter sido considerado intempestivo (fls. 270-275), tendo a parte interposto o presente agravo.
+É o relatório.
+Passo a decidir.
+Sustenta a parte agravante, em síntese, ser possível a comprovação da suspensão processual após o momento da interposição, no âmbito do agravo em recurso especial, bem como tratar-se, no caso, de suspensão do prazo processual em decorrência de atos do Tribunal local (fl. 250).
+O agravo em recurso especial não prospera.
+O termo inicial para a interposição do recurso especial foi no dia 26.3.2024, findando em 8.5.2024. Entretanto, o recurso somente foi interposto no dia 9.5.2024, quando já exaurido o lapso temporal de quinze dias.
+Portanto, a parte recorrente não comprovou, no momento adequado, a ocorrência dos feriados locais do dias 28 de março e do dia 8 de abril de 2024.
+De acordo com a jurisprudência do STJ, a comprovação de suspensão processual por ato local deve ocorrer no momento de interposição do recurso especial.
+Ademais, a Lei 14.939/2024, que modificou o artigo 1.003, § 6º do CPC, introduzindo a possibilidade de correção do erro ou sua desconsideração se a informação já estiver no processo eletrônico, só se aplica aos recursos interpostos após o início da sua vigência, não interferindo na hipótese sub judice.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. FERIADO LOCAL. ARTIGO 1.003, § 6º, DO CPC. REGRAMENTO PROCESSUAL EXPRESSO. LEI NOVA. IRRETROATIVIDADE. ARTIGO 14 DO CPC.
+1. É intempestivo o agravo em recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do CPC.
+2. Os recursos interpostos perante a instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual.
+3. Eventual documento idôneo, apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense, deve ser colacionado aos autos no momento de sua interposição para fins de aferição da tempestividade do recurso, a teor do que dispõe o artigo 1.003, § 6º, do CPC. Precedente da Corte Especial.
+4. O dia do Servidor Público (28 de outubro), o dia 1º de novembro, a segunda-feira de carnaval, a quarta-feira de Cinzas, os dias que precedem a sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem.
+5. A Lei nº 14.939/2024 modificou o texto do artigo 1.003, § 6º do CPC, introduzindo a possibilidade de correção do erro ou sua desconsideração se a informação já estiver no processo eletrônico.
+Contudo, essa nova norma só se aplica a recursos apresentados após sua entrada em vigor, não afetando o caso em análise.
+6. Nos termos do artigo 14 do CPC, a norma processual não terá efeito retroativo e será aplicada imediatamente aos processos em andamento, resguardando os atos processuais realizados e as situações jurídicas consolidadas durante a vigência da norma anterior.
+7. Agravo interno não provido. (AgInt no AREsp n. 2.641.418/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. RECURSO INTERPOSTO FORA DO PRAZO PREVISTO NO CPC.
+1. O recurso especial é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5o, 1.029 e 219, caput, todos do Código de Processo Civil.
+2. A Corte Especial do STJ firmou entendimento segundo o qual "a falta de comprovação prévia da tempestividade do recurso, em razão de todo e qualquer feriado, ou recesso forense local, configura vício insanável, de modo que não pode ser feita posteriormente no agravo interno, à exceção do feriado da segunda-feira de carnaval, no caso de recursos interpostos até 18.11.2019"(AgInt no AREsp n. 1.481.810/SP - relator Ministro Luis Felipe Salomão, relatora para acórdão Ministra Nancy Andrighi, julgado em 19/5/2021, DJe de20/8/2021).
+3. A teor do art. 1.003, § 6º, do CPC/15, a simples remissão a link de página do site do Tribunal a quo, em nota de rodapé do recurso considerado intempestivo, não é suficiente para comprovar o feriado local ou suspensão do prazo recursal na origem, devendo a parte juntar aos autos a cópia do calendário judicial ou da Portaria indicando a ausência de expediente.
+Agravo interno improvido. (AgInt no AREsp n. 2.706.242/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+Dessa forma, o recurso especial da parte é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 994, VI, 1.003, § 5º, 1.029 e 219, caput, do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, cuja redação original vigia à época da interposição, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilitava a regularização posterior.
+Isso posto, com fundamento no art. 932, IV, do CPC, bem como na Súmula n 568/STJ e nos arts. 34, XVIII, b, e 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento, mantendo a decisão que inadmitiu o recurso especial.
+Majoro os honorários advocatícios anteriormente fixados em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+ EMENTA
