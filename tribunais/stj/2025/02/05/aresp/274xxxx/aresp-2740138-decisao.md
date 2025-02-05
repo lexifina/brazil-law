@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por BRIAN JAY YODER contra decisão que não admitiu o recurso especial com fundamento na incidência das Súmulas 283/STF e 284/STF.
+O acórdão recorrido foi assim ementado:
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA AMBIENTAL - SUPRESSÃO DE VEGETAÇÃO NATIVA SEM LICENÇA OU AUTORIZAÇÃO DO ÓRGÃO AMBIENTAL - CONDENAÇÃO EM OBRIGAÇAO DE FAZER E NÃO FAZER -- RECOMPOSIÇAO DA AREA DEGRADADA - DANOS MATERIAIS - DEVIDOS - DANO MORAL COLETIVO - NÃO EVIDENCIADO .- RECURSO PROVIDO EM PARTE.
+Nas demandas ambientais, por força dos princípios do poluidor-pagador e da reparação in integrum, admite-se a condenação do infrator, simultânea e agregadamente, em obrigação de fazer, não fazer e indenizar por se tratar de obrigação cumulativa ou conjuntiva, por isso, é perfeitamente possível a condenação na obrigação de recuperar in natura a área degradada, com a indenização pecuniária.
+A caracterização do dano moral coletivo, em razão de dano ao meio ambiente, requer a demonstração de que o fato transgressor, ultrapasse a esfera individual do agente, e ultrapasse os limites da tolerabilidade a ponto de produzir verdadeiros sofrimentos, intranquilidade social e alterações relevantes na comunidade local.
+Os embargos de declaração foram rejeitados nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO - APELO PROVIDO EM PARTE - PRELIMINAR DE NULIDADE DE INTIMAÇÃO DO ADVOGADO DATIVO - INTIMAÇÃO POR DIÁRIO OFICIAL DA JUSTIÇA - FINALIDADE DA INTIMAÇÃO CUMPRIDA - PRINCÍPIO PAS DE NULLITÉ SANS GRIEF - PREJUÍZO NÃO DEMONSTRADO - NULIDADE DE ALGIBEIRA - PRELIMINAR REJEITADA - PRAZO DE 05 DIAS PARA OPOSIÇÃO DO RECURSO - ART. 1.023 DO CPC - PROTOCOLO FORA DO PRAZO - INTEMPESTIVO - RECURSO NÃO CONHECIDO.
+1 - "A declaração de nulidade dos atos judiciais, em consonância com o princípio pas de nullité sans grief, demanda a efetiva demonstração do prejuízo sofrido "pela parte, situação afastada pelo Tribunal a quo. (STJ. REsp 1.740.298/MG. Rel. Ministro Herman Benjamin, Segunda Turma. Julgado em 21/06/2018, D Je 22/11/2018).
+2 - A invocação tardia da prerrogativa de intimação pessoal do advogado dativo, nitidamente utilizada como estratégia para induzir a reabertura de prazo perdido, configura "nulidade de algibeira", manobra processual que é reiteradamente rechaçada pela jurisprudência do STJ, por ofender o princípio da boa-fé processual.
+3 - Não reconhecido a nulidade da intimação, a oposição de Embargos de Declaração fora do prazo de 05 dias previsto no art. 1.023 do CPC, acarreta o não conhecimento do recurso.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 5º, § 5º, da Lei 1.060/1950, assim como ao art. 272, § 5º, do CPC.
+É o relatório.
+Decido.
+Quando do julgamento dos embargos de declaração, o Tribunal de origem consignou o seguinte:
+Da análise dos autos, verifica-se que, em 06/12/2017, o advogado Renato Negrão Barbosa Júnior (OAB/MT n. 22228-A) foi nomeado pelo juízo de primeiro grau como defensor dativa do requerido, ora embargante, a partir da fase recursal (id. 2275916).
+O aludido advogado aceitou o múnus (id. 2275929 - fl. 2) e, na mesma oportunidade, foi intimado a apresentar contrarrazões ao Recurso de Apelação interposto pelo Ministério Público Estadual; o que fora levado a cabo no id. 2275941.
+Remetidos os autos a esta egrégia Corte de Justiça, a Apelação interposta pelo foi provida em Ministério Público Estadual parte, por unanimidade, sendo o defensor dativa do apelado, Renato Negrão Barbosa Júnior (OAB/MT n. 22228-A), intimado do Acórdão por publicação no n. 10.934/2021, disponibilizada em DJe/MT 09/03/2021.
+Transitado em julgado o v. Acórdão em 22/04/2021 (id. 199699719) e retornado o feito para a Vara Única de Nova Ubiratã, o Parquet peticionou inaugurando a fase de liquidação de sentença, quando então, intimado, o defensor dativa Renato Negrão Barbosa Júnior (OAB/MT n. 22228-A) apresentou manifestação acerca da realização de perícia técnica na propriedade de Brian Jay Yoder (vide id. 199699729).
+Ato contínuo, Brian Jay Yoder noticiou a constituição de advogados, os quais, a seu turno, pugnam pelo reconhecimento da nulidade da publicação do Acórdão de id. 199699711, a qual fora disponibilizado no DJe/MT n. 10.934/2021, de 09/03/2021, com a consequente restituição do prazo recursal à época, eis que, à época, não houve a intimação pessoal do defensor dativo.
+ ..
+Na hipótese, para fins de publicação, é certo que houve a devida intimação do apelado Brian Jay Yoder, ora embargante, do teor do acórdão, na pessoa do defensor dativa Renato Negrão Barbosa Júnior (OAB/MT n. 22228-A), indicado e também apto para receber intimações.
+Não bastasse isso, o colendo Superior Tribunal de Justiça consagrou o princípio pas de nullité sans grief, isto é, só há cabe à decretação da nulidade se restar comprovado efetivo prejuízo sofrido pela parte.
+Logo, se houve a correta intimação do defensor dativa, que poderia apresentar o devido recurso de forma tempestivamente, restou cumprida a finalidade da intimação, bem como respeitado o princípio da publicidade, inexistindo qualquer prejuízo demonstrado e, por conseguinte, qualquer nulidade a ser sanada.
+ ..
+À toda evidência, a invocação tardia da prerrogativa de intimação pessoal, nitidamente utilizada como estratégia para induzir a reabertura do prazo perdido, configura a manobra processual conhecida como nulidade de algibeira, que é veementemente censurada pela jurisprudência da Corte Superior,  ..  (fls. 643-646).
+Contudo, a parte recorrente não impugnou o fundamento em destaque do acórdão recorrido - quanto à invocação tardia de intimação pessoal-, o que atrai o óbice da Súmula 283/STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Além do mais, decidir de forma contrária para reconhecer o alegado prejuízo, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PROCESSO CIVIL. AGRAVO POR INSTRUMENTO. INTIMAÇÃO PESSOAL DO REPRESENTANTE DA UNIÃO. NULIDADE. AUSÊNCIA DE PREJUÍZO. ACÓRDÃO DA INSTÂNCIA ORDINÁRIA QUE DIRIME CONTROVÉRSIA COM FUNDAMENTO SUFICIENTE NÃO ATACADO PELO ESPECIAL. APLICAÇÃO DA SÚMULA N. 283 DO STF, POR ANALOGIA. VERIFICAÇÃO DA EXISTÊNCIA DE PREJUÍZO. SÚMULA N. 7 DO STJ.
+1. Aplica-se o entendimento consolidado na Súmula n. 283 do Supremo Tribunal Federal, por analogia, quando o acórdão da instância ordinária dirimiu a controvérsia com fundamento suficiente não atacado pelo especial.
+2. A verificação da existência de prejuízo em razão da prática de ato processual sem a participação da interveniente, mas apenas da parte passiva, implicaria o revolvimento do conjunto fático-probatório, vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+3. Recurso especial não conhecido (REsp n. 714.352/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/3/2010, DJe de 26/3/2010).
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. CITAÇÃO. AUSÊNCIA DE PREJUÍZO. CUMPRIMENTO DA FINALIDADE DO ATO. INSTRUMENTALIDADE DAS FORMAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Segundo a jurisprudência do STJ, só se declara a nulidade de atos processuais caso verificada a ocorrência de efetivo prejuízo a uma das partes, o que não se observa no presente caso, como expressamente consignado no acórdão recorrido.
+2. O Tribunal de origem concluiu que os Agravantes foram regularmente notificados, bem como apresentaram suas manifestações preliminares, oportunidade em que tiveram conhecimento de todo o teor da petição inicial, de forma que a modificação do referido entendimento demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, nos termos da Súmula n. 7 do STJ.
+3. Agravo interno desprovido (AgInt no AREsp n. 2.359.575/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/8/2024, DJe de 26/8/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+Intimem-se.
+EMENTA
