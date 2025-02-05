@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DEREK CARVALHO ROCHA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2317315-94.2024.8.26.0000).
+Consta que o paciente foi preso em flagrante, e após preventivamente, em razão da suposta prática dos crimes tipificados nos arts. 33, caput, da Lei n. 11.343/2006, 309 da Lei n. 9.503/1997 (CTB) e 129, § 12, do Código Penal, pelos quais foi denunciado.
+Neste writ, alega-se a ilicitude das provas ao argumento de que a diligência policial não foi precedida de fundadas suspeitas.
+Sustenta-se, no mais, a inexistência dos requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal, e que o decreto prisional não apresenta motivação idônea.
+Afirma-se que o paciente possui condições pessoais favoráveis e que é possível a fixação de medidas cautelares alternativas.
+Requer-se, em liminar e no mérito, o trancamento da ação penal, bem como a expedição de alvará de soltura em favor do acusado.
+O pedido liminar foi indeferido (fls. 175-177).
+As informações foram prestadas (fls. 183-223).
+O Ministério Público Federal opinou pela prejudicialidade do mandamus (fls. 227-231).
+É o relatório.
+DECIDO.
+De acordo com as informações prestadas às fls. 183-223, no dia 02/12/2024, foi proferida sentença nos autos da ação penal originária, na qual o ora paciente foi condenado pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, 309 da Lei n. 9.503/1997 e 129, § 12, do Código Penal, às penas de 05 (cinco) anos de reclusão e 10 (dez) meses de detenção, em regime inicial semiaberto, além do pagamento de 500 (quinhentos) dias-multa. Na ocasião, o Juízo sentenciante negou ao apenado o direito de recorrer em liberdade.
+Com a análise exauriente da tese de nulidade no édito condenatório, o novo título deverá ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva quanto à nulidade da prova.
+Mutatis mutandis:
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  LATROCÍNIO.  CORRUPÇÃO  DE  MENOR.  ALEGAÇÃO  DE  NULIDADES  NO  CURSO  DA  INSTRUÇÃO  CRIMINAL.  SUPERVENIÊNCIA  DE  SENTENÇA  CONDENATÓRIA.  NOVO  TÍTULO.  INTERPOSIÇÃO  DE  APELAÇÃO  DEFENSIVA.  INSTRUMENTO  ADEQUADO  PARA  O  REEXAME  DAS  QUESTÕES.  PRETENSÃO  QUE  NÃO  SE  REFERE  À  TUTELA  IMEDIATA  DA  LIBERDADE  AMBULATORIAL  DO  ACUSADO.  SUBVERSÃO  DO  SISTEMA  RECURSAL.  AGRAVO  DESPROVIDO.
+1.  Consoante  se  verifica  dos  autos,  o  processo  já  se  findou,  com  a  prolação  de  sentença  condenatória  em  desfavor  do  réu,  tendo  a  defesa  interposto  a  Apelação  n.  0008691-47.2023.8.26.0050,  perante  o  Tribunal  de  origem,  ainda  pendente  de  apreciação  por  aquele  sodalício,  o  que  prejudica  a  análise  do  presente  writ.
+2.  Com  a  condenação  do  agravante,  as  nulidades  suscitadas  passam  a  ter  suporte  decisório  na  sentença,  que  deverá  ser  examinada  não  na  via  estreita  mandamental,  mas  no  bojo  da  apelação  já  manejada  pela  defesa  perante  o  tribunal  de  origem,  instrumento  processual  adequado  para  o  reexame  da  questão,  sob  pena  de  se  incidir  em  indevida  supressão  de  instância.
+3.  A  Terceira  Seção  do  Superior  Tribunal  de  Justiça  firmou  entendimento  de  que  "a  interposição  do  recurso  cabível  contra  o  ato  impugnado  e  a  contemporânea  impetração  de  habeas  corpus  para  igual  pretensão  somente  permitirá  o  exame  do  writ  se  for  este  destinado  à  tutela  direta  da  liberdade  de  locomoção  ou  se  traduzir  pedido  diverso  em  relação  ao  que  é  objeto  do  recurso  próprio  e  que  reflita  mediatamente  na  liberdade  do  paciente.  Nas  demais  hipóteses,  o  habeas  corpus  não  deve  ser  admitido  e  o  exame  das  questões  idênticas  deve  ser  reservado  ao  recurso  previsto  para  a  hipótese,  ainda  que  a  matéria  discutida  resvale,  por  via  transversa,  na  liberdade  individual  ..  é  indevida  a  subversão  do  sistema  recursal  e  a  avaliação,  enquanto  não  exaurida  a  prestação  jurisdicional  pela  instância  de  origem,  de  tese  defensiva  na  via  estreita  do  habeas  corpus"  (HC  n.  482.549/SP,  relator  Ministro  Rogerio  Schietti  Cruz,  Terceira  Seção,  julgado  em  11/3/2020,  DJe  3/4/2020).
+4.  Agravo  regimental  desprovido  (AgRg  no  HC  n.  846.290/SP,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  16/10/2023,  DJe  de  19/10/2023;  grifamos).
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  ALEGAÇÃO  DE  VÍCIOS  E  NULIDADES  NO  CURSO  DO  PROCESSO.  ATUAÇÃO  DE  GUARDA  MUNICIPAL.  SUPERVENIÊNCIA  DE  SENTENÇA  CONDENATORIA.  PREJUDICIALIDADE.  AGRAVO  REGIMENTAL  A  QUE  SE  NEGA  PROVIMENTO.
+1.  "Com  a  superveniência  da  prolação  de  sentença  condenatória  fica  prejudicada  a  análise  da  nulidade  arguida,  porquanto  a  via  eleita  é  substancialmente  mais  estreita"  (AgRg  no  RHC  71.840/PE,  relator  Ministro  Sebastião  Reis  Júnior,  Sexta  Turma,  julgado  em  5/6/2018,  DJe  12/6/2018).
+2.  Agravo  regimental  desprovido  (AgRg  no  HC  n.  829.293/SP,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  25/09/2023,  DJe  de  28/09/2023).
+Ademais, a prisão cautelar atualmente decorre de novo título judicial, decisão exarada pelo Juízo de primeiro grau, em consonância com o que determina o § 1º do art. 387 do Código de Processo Penal, com a redação que lhe foi dada pela Lei n. 12.736/2012 (O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta), motivo pelo qual fica prejudicada a análise do anterior decreto prisional impugnado neste recurso .
+A propósito, o Supremo Tribunal Federal, por maioria de votos, assentou o entendimento de que
+a sentença condenatória superveniente, ainda que não lance mão de fundamentos induvidosamente autônomos e diversos da ordem prisional originária, prejudica a impetração voltada à impugnação do decreto segregatório inicialmente atacado, a ensejar o não conhecimento da impetração. Tal cenário, contudo, não impede o exame da excepcional concessão da ordem de ofício, o que exige configuração de ilegalidade flagrante ou manifesta teratologia (STF, HC 143.333, Relator Edson Fachin, Tribunal Pleno, julgado em 12/04/2018, DJe de 21/03/2019; grifamos).
+No mesmo sentido:
+A superveniência de sentença condenatória que mantém a custódia cautelar, prejudica o exame do mérito do presente writ, em razão da substituição do título judicial impugnado perante esta Corte. Precedentes: HC 216.414-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 22/8/2022; HC 210.532-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 8/3/2022; HC 197.582-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 10/5/2021 (STF, HC 221.130 AgR, Relator Luiz Fux, Primeira Turma, julgado em 10/11/2022, DJe de 18/11/2022; grifamos).
+E, no âmbito de Superior Tribunal de Justiça, destacam-se os seguintes julgados:
+(..)
+1. O superveniente julgamento da ação penal, com prolação de sentença que observa o art. 387, § 1º, do CPP, prejudica a insurgência contra decisões anteriores, que decretaram e mantiveram a prisão preventiva do réu durante a instrução criminal.
+2. As razões de pedir do writ estão dissociadas do quanto decidido no acórdão apontado como coator, prolatado anteriormente à condenação, pois o Tribunal de Justiça não foi instado a deliberar sobre eventual alteração de situação fática a justificar o apelo em liberdade. Assim, nos termos do art. 105 da CF, não pode esta Corte, em indevida supressão de instância, deliberar sobre a matéria não decidida em segundo grau.
+(..)
+4. Agravo regimental não provido.
+(AgRg no HC n. 846.404/MG, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/11/2023, DJe de 01/12/2023; grifamos).
+(..)
+1. A superveniência de novo título, no caso, a sentença de pronúncia, torna prejudicado o recurso em habeas corpus que busca a revogação da prisão preventiva por ausência dos requisitos autorizadores da medida. Jurisprudência do STJ.
+(..)
+3. Agravo regimental improvido.
+(AgRg nos EDcl no RHC n. 176.184/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023; grifamos).
+Ante o exposto, em consonância ao parecer ministerial, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
