@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, recurso especial interposto por PEDRO GARCIA LOPES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA DE RESPONSABILIDADE POR ATO DE IMPROBIDADE ADMINISTRATIVA - MÉDICO EQUIPARADO A AGENTE PÚBLICO QUE SOLICITOU DE PACIENTES ATENDIDOS PELO SISTEMA ÚNICO DE SAÚDE (SUS) O PAGAMENTO DE HONORÁRIOS MÉDICOS COMO CONDIÇÃO PARA A REALIZAÇÃO DE PROCEDIMENTOS CIRÚRGICOS - PRESCRIÇÃO NÃO CONFIGURADA - ART 23 INC III DA LEI N 842992 - REMIÇÃO À LEI QUE REGULAMENTA O PROCESSO E AS SANÇÕES ADMINISTRATIVAS POR FALTAS DISCIPLINARES PRATICADA POR OCUPANTES DE CARGO EFETIVO OU EMPREGO PÚBLICO - ESTATUTO FUNCIONAL QUE PREVÊ QUE QUANDO A INFRAÇÃO ADMINISTRATIVA FOR PREVISTA EM LEI TAMBÉM COMO CRIME O SEU PRAZO PRESCRICIONAL SERÁ CORRESPONDENTE À PRESCRIÇÃO DA PUNIBILIDADE DESTE - CONDUTA EQUIPARADA AO DELITO DE CONCUSSÃO TIPIFICADO NO ARTIGO 316 DO CÓDIGO PENAL - PRAZO PRESCRICIONAL DE 12 ANOS (ART 109 INC III DO CÓDIGO PENAL) - INAPLICABLIDADE DO ARTIGO 115 DO CÓDIGO PENAL À LEI DE IMPROBIDADE ADMINSTRATIVA - SENTENÇA REFORMADA - APELO PROVIDO
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, em síntese, a prescrição da ação pela incidência do prazo reduzido de prescrição (art. 115 do CP).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Tem razão o recorrente.
+Conforme os autos, o réu completou 70 anos de idade em 2013, antes, portanto, de qualquer condenação. Assim, incidem os prazos prescricionais da lei penal reduzidos à metade, nos termos do art. 115 do CP. No caso, a ciência dos fatos ocorreu em 30/5/2012 e a ação foi distribuída em 3/9/2018, por fatos puníveis também pelo crime previsto no art. 316 do CP, com pena máxima de 8 anos e prescrição em 12 anos, ou 6 anos, com a redução. A pretensão está, portanto, prescrita.
+A propósito:
+ ..  2. Invocando o artigo 115 do CP, o impetrante sustenta que o prazo "cai pela metade, ou seja, 04 (quatro anos), o que se esgotou em 29 de março de 2018". Informa que, "Como prova da idade do impetrante, hoje com 73 (setenta e três anos) anos, está sua identidade  .. " (fl. 12, e-STJ).
+3. Ocorre que "Esta Corte Superior posicionou-se de forma clara, adequada e suficiente ao concluir que a redução do prazo prescricional, prevista no artigo 115 do Código Penal, só deve ser aplicada quando o réu atingir 70 anos até primeira decisão condenatória, seja ela sentença ou acórdão (EREsp 749.912/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Terceira Seção, julgado em 10/02/2010, DJe 05/05/2010)" (EDcl no AgRg no AREsp 586.722/DF, Relator Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 27.9.2017). No mesmo sentido: AgInt no AREsp 962.026/PB, Relator Min. Sebastião Reis Júnior, Sexta Turma, DJe 21.11.2016; AgRg no RHC 116.082/RJ, Relator Ministro Leopoldo de Arruda Raposo Desembargador convocado  , Quinta Turma, DJe 16.10.2019.  ..  (MS n. 27.608/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 23/6/2021, DJe de 3/8/2021).
+ ..  11. De acordo com o art. 109, II, do CP, o prazo prescricional é de 16 (dezesseis) anos, como acima descrito. No entanto, como o impetrante conta com mais de 70 anos de idade (fl. 64), desde 27/11/2017, aplica-se o art. 115 do CP, reduzindo-o à metade, de modo que a prescrição do PAD seria de oito anos.  ..  (MS n. 25.401/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/5/2020, DJe de 28/8/2020).
+Isso posto, dou provimento ao recurso especial, para restabelecer a sentença.
+Não sendo caso de má-fé, descabe a incidência de honorários de sucumbência em ação civil pública, inclusive a título recursal.
+Intimem-se.
+EMENTA
