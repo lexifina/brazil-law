@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interno interposto por AGRICOLA MESOPOTAMIA LTDA (AGRICOLA) contra decisão da Presidência do STJ, que conheceu do agravo para não conhecer do recurso especial, em virtude da incidência da Súmula n. 284 do STF.
+Nas razões do presente inconformismo, defendeu ter apontado comparativo de divergência jurisprudencial, bem como ter apontado o dispositivo de lei federal tido por violado (e-STJ, fls. 759/767).
+Não foi apresentada contraminuta.
+É o relatório.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 754/755 e passo a novo exame do recurso especial interposto às e-STJ, fls. 603/609.
+Em suas razões, interposto com base no art. 105, III, alíneas a e c, da CF, AGRICOLA apontou dissídio jurisprudencial e violação dos arts. 82, § 2º, e 85, ambos do CPC, ao sustentar que o sucumbente é responsável pela instauração do processo, logo, deve ser condenado ao pagamento das despesas e honorários advocatícios.
+Da acurada análise do acórdão recorrido, é possível verificar que o Tribunal estadual consignou que, nos termos do art. 921, § 5º, do CPC, não é mais possível se falar em condenação sucumbencial nas hipóteses de reconhecimento de prescrição intercorrente. Confira-se:
+A Agropecuária Condor Ltda, como uma das executadas no feito, se insurge contra a sentença que extinguiu a execução e deixou de fixar honorários em favor de seu patrono.
+Argumenta, em suas razões recursais, que se aplicando o princípio da causalidade, deverá ser reconhecido seu direito aos ônus sucumbenciais já que a parte contrária deu causa à ação.
+Observa-se da sentença que não houve a condenação dos ônus de sucumbência em desfavor de quaisquer das partes:
+"Sem custas remanescentes, nos termos do art. 921, §5º, do CPC. Em função do princípio da causalidade, deixo de arbitrar honorários em favor do advogado da parte executada, pois caso contrário estar-se- ia premiando a desídia do inadimplente, situação esta que não tem lugar no contexto do almejado processo justo e cooperativo. Nesse sentido é o RECURSO ESPECIAL Nº 2.025.303 - DF (2022/0283433-0)".
+A celeuma trata da distribuição dos ônus de sucumbência.
+A esse respeito cabe observar que o Código de Processo Civil, em alteração trazida pela Lei n. 14.195/2021, definiu, em seu art. art. 921, § 5º, do CPC/15 que:
+§ 5º O juiz, depois de ouvidas as partes, no prazo de 15 (quinze) dias, poderá, de ofício, reconhecer a prescrição no curso do processo e extingui-lo, sem ônus para as partes. (Redação dada pela Lei nº 14.195, de 2021)
+A respeito da interpretação do referido dispositivo, notadamente no que se refere ao direito intertemporal, o e. STJ tem decidido especificamente com relação aos ônus sucumbenciais:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. NÃO LOCALIZAÇÃO DE BENS PENHORÁVEIS. PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO AO PAGAMENTO DE CUSTAS PROCESSUAIS E DE HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. SUPERVENIÊNCIA DA LEI Nº 14.195/2021.
+1. Execução de título extrajudicial ajuizada em 21/08/2012, da qual foi extraído o presente recurso especial interposto em 05/01/2023 e concluso ao gabinete em 04/04/2023.
+2. O propósito recursal consiste em definir se, após a alteração do art. 921, § 5º, do CPC/15, promovida pela Lei nº 14.195/2021, o reconhecimento da prescrição intercorrente e a consequente extinção do processo obstam a condenação do executado ao pagamento de custas processuais e de honorários sucumbenciais.
+3. A jurisprudência desta Corte pacificou-se no sentido da aplicação do princípio da causalidade na hipótese de extinção do processo em razão do reconhecimento da prescrição intercorrente (art. 85, § 10, do CPC/15). Todavia, após a alteração promovida pela Lei nº 14.195/2021, publicada em 26/8/2021, que alterou o § 5º do art. 921 do CPC/15, não serão imputados quaisquer ônus às partes quando reconhecida a referida prescrição. 4. A legislação que versa sobre honorários advocatícios possui natureza híbrida (material-processual), de modo que o marco temporal para a aplicação das novas regras sucumbenciais deve ser a data de prolação da sentença (ou ato jurisdicional equivalente, quando diante de processo de competência originária de Tribunal). Assim, nas hipóteses em que prolatada sentença de extinção do processo, após 26/08/2021, em razão do reconhecimento da prescrição intercorrente (art. 924, IV, do CPC/15), não é cabível a condenação ao pagamento de custas e honorários de sucumbência (art. 921, § 5º, do CPC/2015).
+5. Hipótese em que a sentença extinguiu o processo em 28/04/2022, ante o reconhecimento da prescrição intercorrente, e, quando do julgamento da apelação do exequente/recorrido, o recorrente/executado foi condenado ao pagamento de honorários sucumbenciais, o que é descabido. 6. Recurso especial conhecido e provido. (REsp n. 2.060.319/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/5/2023, DJe de 11/5/2023.)
+Extrai-se do entendimento acima que, embora o e. STJ tenha firmado o posicionamento que nos casos de reconhecimento de prescrição intercorrente se aplicaria o princípio da causalidade normalmente condenando-se o devedor nos ônus processuais, após a alteração legal havida no art. 921, §5º do CPC, não é mais possível se falar em condenação sucumbencial nessas hipóteses.
+Ainda, estipula o marco temporal: sentenças que reconheçam a prescrição intercorrente proferidas após 26 de agosto de 2021 não deverão fixar ônus de sucumbência.
+Na espécie, a sentença foi proferida em 2023, razão pela qual não há que se falar em fixação de ônus sucumbencial em favor de nenhuma das partes.
+Por isso, não assiste razão à recorrente Agropecuária Condor Ltda., razão pela qual seu recurso deve ser desprovido (e-STJ, fls. 596/598 - destaques no original).
+Assim, da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula n. 283 do STF, por analogia.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA MERO DESPACHO. AUSÊNCIA DE CONTEÚDO DECISÓRIO. REVISÃO. SÚMULA 7/STJ. INEXISTÊNCIA DE COISA JULGADA. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Conforme o disposto no art. 1.001 do Código de Processo Civil de 2015, dos despachos não cabe recurso. No presente caso, é nítida a ausência de conteúdo decisório no referido despacho, tratando-se, tão somente, de ato judicial destinado a dar andamento ao processo, na forma estabelecida pelo art. 203, § 3º, do CPC/2015.
+1.1. Não há como desconstituir o entendimento delineado no acórdão impugnado quanto à ausência de cunho decisório e de prejuízo, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.646.320/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 21/02/2022, DJe 23/02/2022)
+O recurso, portanto, não pode ser conhecido.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. EXTINÇÃO SEM ÔNUS PARA AS PARTES. PREVISÃO LEGAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
