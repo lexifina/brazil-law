@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GENTIL DE CAMARGO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da revisão criminal n. 2116510-28.2024.8.26.0000.
+Consta dos autos que o paciente foi condenado, em primeira instância, às penas de 8 anos e 10 meses de reclusão e 593 dias-multa, no valor mínimo legal, no tocante à posse da arma e de 525g de maconha e 720g de lidocaína, por infração ao artigo 33, caput, da Lei nº 11.343/2006 (fls. 449-459).
+A defesa e o Ministério Público interpuseram apelações perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo e proveu o recurso acusatório para redimensionar a pena do paciente para 9 anos, 9 meses e 20 dias de reclusão, além do pagamento de 700 dias- multa, conforme acórdão de fls. 579-607.
+Os embargos de declaração opostos pela defesa, às fls. 640-644, foram rejeitados.
+Com o trânsito em julgado da condenação, a defesa ajuizou revisão criminal perante a Corte de origem, a qual, por decisão monocrática de e. Desembargador, indeferiu liminarmente o pleito revisional (fls. 802-810).
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na negativa de reconhecimento da violação de domicílio e nulidade das provas obtidas decorrente da busca pessoal realizada por guardas municipais, alegando ausência de competência, desvio de função, negligência às funções à eles designadas e ilicitude das provas, além da recusa de aplicação da causa especial de diminuição do § 4º do artigo 33 da Lei de Drogas.
+Requer, assim, a concessão da ordem para que seja reconhecida a nulidade suscitada, com a consequente absolvição, ou de forma subsidiária, que seja readequada a pena do paciente.
+O pedido liminar foi indeferido às fls. 831-832.
+Informações prestadas às fls. 839-841.
+O Ministério Público Federal, às fls. 904-910, manifestou-se pelo não conhecimento do writ ou pela denegação da ordem.
+É o relatório. DECIDO.
+Cinge-se a controvérsia em torno de possível ilegalidade na negativa de reconhecimento da nulidade decorrente da violação de domicílio e da busca pessoal realizada por guardas municipais, além da recusa de aplicação da causa especial de diminuição do § 4º do artigo 33 da Lei de Drogas.
+No caso, inviável o conhecimento do presente habeas corpus, uma vez que se insurge contra decisão monocrática, proferida por Desembargador do Tribunal de origem.
+Todavia, observa-se que não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Com efeito, segundo disposição do art. 105, "c", da Constituição Federal, este Superior Tribunal de Justiça é competente para conhecer do habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição. Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, I, "c", da Constituição Federal, para julgar habeas corpus impetrado contra decisão monocrática, proferida por Desembargador Relator, que indeferiu liminarmente o pleito revisional na origem.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste habeas corpus. A propósito: AgInt no HC n. 409.060/RN, Quinta Turma, Rel. Min. Jorge Mussi, DJe 28/02/2018; HC n. 385.063/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 14/11/2017; HC n. 349.782/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 12/12/2017.
+Ademais, asseverando-se que o ato coator impugnado no presente writ foi a decisão monocrática proferida no bojo da revisão criminal n. 2116510-28.2024.8.26.0000, eventual insurgência em relação a outros acórdãos ou decisões deverá ser impugnada por meio do recurso cabível, ou mesmo ser objeto de novo mandamus, pois para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração ainda que para fins de economia processual ou de celeridade (v.g. HC n. 389.631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017).
+Diante de tais considerações, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
