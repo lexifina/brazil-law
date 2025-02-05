@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de ALEX MACHADO PORTUGAL DA SILVA em que se aponta como autoridade coatora o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento da Apelação Criminal n. 0013746-84.2016.8.19.0028.
+Consta dos autos que o paciente foi condenado à pena de oito anos, dez meses e quinze dias de reclusão, em regime inicial fechado, e 1287 dias- multa, no mínimo legal, como incurso nos artigos 33, caput, e 35, caput, ambos da Lei n. 11.343/06, na forma do artigo 69, do Código Penal.
+O impetrante sustenta a ocorrência de constrangimento ilegal, porquanto não há provas suficientes de que o paciente praticou o delito de associação para o tráfico de drogas. Afirma que não houve a demonstração concreta dos requisitos da estabilidade e da permanência.
+Argumenta que o v. acórdão ora atacado não apresentou qualquer fundamentação idônea que pudesse obstar a aplicação do privilégio previsto no artigo 33, § 4º, da Lei n. 11.343/2006, sendo o paciente primário.
+Requer, liminarmente e no mérito, a concessão da ordem para que o paciente seja absolvido da imputação pelo delito do art. 35 da Lei n. 11.343/06, deferindo-se a aplicação do benefício previsto no §4º, do art. 33, do mesmo diploma legal, em seu patamar máximo, a fixação de regime aberto, bem como a substituição da pena privativa de liberdade por restritiva de direitos.
+Liminar indeferida e requisitadas informações (e-STJ fls. 62/63).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou, no mérito, pela denegação da ordem (e-STJ fls. 74/78).
+É  o  relatório.
+DECIDO.
+Conforme informações prestadas pelo Tribunal origem, constato  que  o  presente  habeas  corpus  foi  impetrado  contra  acórdão  transitado  em  julgado em 24/08/2018 (e-STJ fl. 130).
+Após o trânsito em julgado da condenação,  a Defesa impetrou o presente habeas corpus, o que, diante  dessa  situação,  não  deve  ser  conhecido , pois  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+De  fato,  nos  termos  do  art.  105,  inciso  I,  alínea  "e",  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados.
+Quanto ao ponto:
+PENAL.  AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS  E  ASSOCIAÇÃO  PARA  O  MESMO  FIM.  NÃO  CONHECIMENTO  DO  WRIT  SUBSTITUTIVO  DE  REVISÃO  CRIMINAL.  SUPRESSÃO  DE  INSTÂNCIA.  IMPOSSIBILIDADE  DE  ANÁLISE  DA  MATÉRIA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  Superior  Tribunal  de  Justiça,  em  diversas  ocasiões,  já  assentou  a  impossibilidade  de  impetração  de  habeas  corpus  em  substituição  à  revisão  criminal,  quando  já  transitada  em  julgado  a  condenação  do  réu,  compreendendo  " n ão  deve  ser  conhecido  o  writ  que  se  volta  contra  acórdão  condenatório  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte"  (HC  n.  730.555/SC,  relator  Ministro  Olindo  Menezes,  Desembargador  Convocado  do  TRF  1ª  Região,  Sexta  Turma,  julgado  em  9/8/2022,  DJe  de  15/8/2022).  Na  hipótese  dos  autos,  a  condenação  do  agravante  transitou  em  julgado  de  há  muito,  com  baixa  definitiva  ao  Juízo  de  origem,  tendo  o  acórdão  sido  proferido  em  março  de  2013.
+ ..
+4.  Agravo  regimental  desprovido.  (AgRg  no  HC  n.  846.952/RJ,  relator  Ministro  ANTONIO  SALDANHA  PALHEIRO,  Sexta  Turma,  julgado  em  27/11/2023,  DJe  de  30/11/2023).
+No tocante ao pedido de absolvição do crime de associação para o tráfico de drogas, é cediço que a ação constitucional do habeas corpus, de cognição sumária e cognição célere, não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas reconhecidas pelas instâncias ordinárias, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+Nessa esteira:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE.
+1. O Tribunal de origem, soberano na análise das provas, com apoio nas provas dos autos, em especial os depoimentos testemunhais, colhidas sob o crivo do contraditório, concluiu pela consistência do conjunto probatório para amparar a condenação.
+2. No caso, consignaram as instâncias ordinárias que as circunstâncias da prisão, a natureza do entorpecente apreendido e a sua forma de acondicionamento (205g de maconha distribuídos em 77 unidades e 81g de cocaína em pó distribuídos em 103 unidades) reforçaram a constatação de que o material apreendido era destinado à mercancia.
+3. Desconstituir a conclusão a que chegaram as instâncias de origem, para acolher a tese de absolvição, demandaria o revolvimento do acervo fático-probatório, providência vedada na via do writ.
+4. Agravo regimental improvido (AgRg no HC n. 856.717/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 10/6/2024, DJe de 20/6/2024).
+Ademais, mantida a condenação da paciente pelo crime de associação para o tráfico, afasta-se a possibilidade de reconhecimento do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA DEMONSTRADAS. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. MINORANTE. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. No caso, o animus associativo e a estabilidade do vínculo estão amplamente demonstrados, sobretudo pela divisão de tarefas e logística para transporte e distribuição do entorpecente.
+3. Para entender de forma diversa e afastar a compreensão das instâncias de origem de que o recorrente se associou, com estabilidade e permanência, com o fim de praticar o crime de tráfico de drogas, seria necessário o reexame de fatos e provas produzidos nos autos, providência vedada no recurso especial, consoante a Súmula n. 7 do STJ.
+4. O Juízo sentenciante, atado à discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Tratando-se de crime previsto na Lei de Drogas, deve considerar, ainda, de forma preponderante, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+5. Nos autos em exame, considerando a quantidade da substância apreendida, que constitui elemento preponderante a ser considerado na dosimetria da reprimenda, mostra-se suficiente o aumento na pena-base realizado na origem.
+6. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.219.774/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/6/2024, DJe de 13/6/2024.)
+Ante o  exposto,  não conheço do habeas corpus.
+Publique-se  e  intimem-se.
+ EMENTA
