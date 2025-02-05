@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto por ESTADO DO CEARÁ contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fl. 239):
+CONSTITUCIONAL E PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. MILITAR. ATO DE REFORMA FIRMADO NA VIGÊNCIA DA REDAÇÃO PRIMITIVA DA CONSTITUIÇÃO FEDERAL DE 1988. RECEBIMENTO DO BENEFÍCIO EM SUA INTEGRALIDADE. INTELIGÊNCIA DAS SÚMULAS Nº 22 E 23 DO TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ. AUTOAPLICABILIDADE DO § 4º DO ART. 40 DA CF/1988, COM O TEXTO ORIGINÁRIO. PRECEDENTES DESTE TRIBUNAL.
+I - O direito vindicado no mandado de segurança refere-se a prestações de trato sucessivo, sendo aplicável a prescrição parcial quinquenal prevista na Súmula nº 85 do STJ; o mesmo ocorre com a decadência, motivando a incidência da Súmula nº 25 do TJ/CE.
+II - De acordo com o texto primitivo da Constituição Federal de 1988 os proventos de aposentadoria, por ocasião de sua concessão, serão calculados, in casu, com base nos valores recebidos pelo servidor no cargo efetivo em que se der a aposentadoria e corresponderão à totalidade da remuneração.
+III - Por isso, o pagamento de pensões e aposentadorias deve incluir as vantagens permanentemente recebidas pelo servidor, a fim de garantir a real equivalência entre trabalho e descanso, atendendo, desta forma, à intenção constitucional.
+IV - A disposição do § 4º do art. 40 da Carta Política, com o texto originário possui aplicabilidade imediata, segundo a diretiva do STF e do Tribunal de Justiça do Ceará.
+V - Os proventos e o pensionamento devem guardar paridade com a que perceberia o ex-servidor, se na ativa, ou vivo, estivesse, não se admitindo a retirada de vantagens dos proventos e das pensões.
+VI - A jurisprudência selecionada confere direito ao militar que é transferido para a reserva remunerada de receber a gratificação de risco de vida, a indenização pela função policial militar e as diárias operacionais.
+VII - Efeitos patrimoniais anteriores à impetração do writ of mandamus devem ser buscados na via administrativa ou judicial própria, aplicando-se o teor das Súmulas nº 269 e 271 do Excelso Pretório.
+Segurança concedida em parte.
+Nas razões recursais, o recorrente sustenta, em síntese, violação ao art. 487, II, do CPC; ao art. 1º, do Decreto 20.910/1932; ao art. 23, da Lei 12.016/2009 e ao art. 18, da Lei 1.533/1951.
+Narra que, na origem, foi impetrado mandado segurança pelo ora recorrido que, na qualidade de Policial Militar na Reserva Remunerada, busca obter atualização de proventos para alcançar o valor que perceberia em atividade. Concedida a segurança, informa que interpôs recurso de apelação, o qual restou provido pelo Tribunal Estadual, que concluiu pela incompetência absoluta do juízo de primeiro grau e pela nulidade da sentença proferida pelo juízo da 7ª Vara da Fazenda Pública. Relata que os autos foram então redistribuídos ao Órgão Especial do Tribunal, que concedeu parcialmente a segurança, sob o fundamento de que os pedidos encerram pretensão de trato sucessivo, atraindo a incidência da Súmula 85 do STJ.
+Sendo assim, aduz que o Tribunal de origem violou "o disposto no Decreto Legislativo nº 20.910/32 acerca da prescrição, além da decadência do mandado de segurança, com base no art. 23 da Lei n.º 12.016/09 e no art. 18 da Lei 1.533/51, legislação em vigor à época da impetração" (fl. 261). Nesse sentido, argumenta (fls. 263-266):
+E é inegável que o ato de transferência ocorreu em 16 de setembro de 1983, consoante documentação já acostada aos autos, enquanto a impetração do mandado de segurança apenas se deu em 07/12/1998. Ultrapassados mais de 5 (cinco) anos entre o ato coator e a impetração, resta evidente a decadência do mandamus.
+ ..
+Desta forma, é inquestionável que o Tribunal de Justiça do Estado do Ceará, ao permitir o regular prosseguimento da ação, afastando a questão da decadência, negou vigência à norma do artigo 23 da Lei nº 12.016/2009, sendo tal decisão passível de correção por parte desta Corte Superior.
+ ..
+Em consequência, constata-se, de plano, que a pretensão da impetrante encontra-se irremediavelmente prescrita, eis que esta só poderia ter sido veiculada dentro do prazo de cinco anos, contados da suposta lesão, ex vi do estatuído no art. 1. o do Decreto Legislativo n. o 20.910/32, que estabelece a prescrição quinquenal de qualquer direito ou ação contra a Fazenda Pública, seja qual for a sua natureza, a partir do ato ou fato de que se originaram.
+Dessarte, requer o provimento do recurso especial, para reformar o acórdão recorrido; reconhecendo a afronta à prescrição e à decadência, com base no art. 1º, do Decreto 20.910/1932 e no art. 23, da Lei 12.016/2009, respectivamente; e extinguir o processo, com resolução do mérito, conforme art. 487, II, do CPC.
+Sem contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+A irresignação recursal não merece ser acolhida.
+No caso, a violação ao art. 487, II, do CPC; ao art. 1º, do Decreto 20.910/1932; ao art. 23, da Lei 12.016/2009 e ao art. 18, da Lei 1.533/1951 não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356/STF, por analogia.
+Conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Isso posto, não conheço do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+ EMENTA
