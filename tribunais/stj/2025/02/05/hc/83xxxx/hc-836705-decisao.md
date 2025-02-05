@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUAN PHELIPE FERREIRA BUENO DE OLIVEIRA, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, em virtude do julgamento que denegou a ordem no habeas corpus n. 0036489-15.2023.8.16.0000.
+Consta dos autos que o paciente foi preso em flagrante, em 04/05/2023, pela suposta prática da conduta descrita no artigo 33, da Lei n. 11.343/2006. Em 08/05/2023, foi revogada a prisão preventiva e expedido o alvará de soltura.
+A impetrante sustenta que haveria ilicitude na atuação policial realizada, pois o fato de o paciente correr para o lado oposto ao avistar a viatura não teria o condão de autorizar tal abordagem.
+Afirma que a busca domiciliar estaria eivada de vício de consentimento ante as condições em que foram autorizadas pelo paciente.
+Nesse contexto, assevera a nulidade das provas obtidas, com o consequente trancamento da ação penal.
+Requer, liminarmente, a suspensão da ação penal até o julgamento definitivo do habeas corpus. No mérito, pugna pela concessão da ordem para que seja declarada a ilicitude da abordagem policial e a ilicitude do ingresso na residência do paciente, com o consequente trancamento da ação penal.
+A liminar foi indeferida (fls. 137-139).
+Informações prestadas pela autoridade coatora (fls. 147-193).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 198-203).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que houve a presença de justa causa tanto para a abordagem, revista pessoal, quanto para ingresso na residência do paciente. Destaca-se (fls. 112-118):
+" ..  Mesmo assim, neste momento, evidencia-se, em princípio, a presença de justa causa tanto para a abordagem, revista pessoal quanto para ingresso na residência do paciente, sem mandado de busca e apreensão, pois ele foi preso em flagrante trazendo consigo seis pinos eppendorf de cocaína e seis pedras de crack no bolso esquerdo traseiro de sua calça, após correr em sentido oposto à guarnição policial ao avistá-la. Além disso, o ingresso na residência do imputado se deu porque, no momento da abordagem, ele teria dito que guardava o restante das drogas em sua residência.
+ ..
+Demais disso, quanto à alegação de violação de domicílio, além de ser questão controversa e que será oportunamente analisada em cognição exauriente pelo Juízo de origem, portanto, incabível de exame nesta estreita via de habeas corpus, não tem o condão, neste momento, de ensejar a concessão da ordem, pois o delito em tela é permanente, protraindo-se o estado de flagrância, sendo desnecessário tanto o mandado de busca e apreensão quanto a autorização para que a autoridade policial possa adentrar à residência.  .. "
+Com efeito, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+Nesse sentido:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E DOMICILIAR. APREENSÃO SEM MANDADO JUDICIAL. CRIME PERMANENTE. JUSTA CAUSA FUNDADA EM SITUAÇÃO FLAGRANCIAL. DESCLASSIFICAÇÃO. ART. 28 DA LEI DE DROGAS. AUTORIA E MATERIALIDADE COMPROVADAS. IMPOSSIBILIDADE DE EXAME DE PROVAS EM HABEAS CORPUS. ORDEM DENEGADA. I. CASO EM EXAME
+1. Habeas corpus impetrado contra acórdão que validou busca e apreensão realizada sem mandado judicial em situação de flagrante delito, no contexto de tráfico de drogas. A defesa alegou nulidade das provas obtidas sem ordem judicial, enquanto o Tribunal de origem considerou a operação legal, diante da flagrância e do crime permanente. Além disso, concluiu pela existência de materialidade e autoria delitivas, mantendo a condenação da ré. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se o ingresso em domicílio sem mandado judicial, em situação de flagrante delito de tráfico de drogas, é válido; e (ii) verificar a possibilidade de desclassificação da conduta. III. RAZÕES DE DECIDIR
+3. O STF entende que a inviolabilidade de domicílio pode ser mitigada em situações de flagrante delito, conforme previsto no art. 5º, XI, da Constituição Federal, desde que haja justa causa e fundadas razões que indiquem a ocorrência de crime no interior da residência.
+4. O crime de tráfico de drogas é de natureza permanente, o que justifica a relativização da necessidade de mandado judicial para a busca e apreensão, conforme precedentes do STF e do STJ.
+5. A existência de fundada suspeita, corroborada pela denúncia anônima e monitoramento do local pelos policiais, que presenciaram a acusada realizando a entrega de entorpecentes, constitui justa causa para a intervenção policial sem prévia ordem judicial.
+6. A autorização para ingresso no domicílio, dada pela genitora da acusada, reforça a legitimidade da operação, embora, no contexto de flagrante delito, tal consentimento não seja indispensável. No local, foram localizadas porções da droga e uma balança de precisão, petrecho comum à traficância.
+7. As provas colhidas durante a abordagem e na residência da acusada foram obtidas de forma lícita, considerando-se a regularidade do procedimento adotado pelos policiais, sem evidência de ilegalidade ou abuso de poder.
+8. No caso, o acórdão condenatório fundamentou-se em elementos de prova suficientes para a condenação como as circunstâncias da prisão e os depoimentos dos policiais militares. A análise desses elementos probatórios demanda dilação probatória, o que é inviável na via estreita do habeas corpus.
+IV. ORDEM DE HABEAS CORPUS DENEGADA."
+(HC n. 809.177/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
