@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S/A ELETRONORTE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, assim resumido:
+PROCESSO CIVIL. DIREITO CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. RECURSO INTERPOSTO CONTRA DECISÃO QUE CONHECEU E DEU PROVIMENTO Á APELAÇÃO PARA CASSAR A SENTENÇA QUE IDEFERIU A PETIÇÃO DA AÇÃO ORDINÁRIA INDENIZA TÓRIA. AUSÊNCIA DE ARGUMENTOS APTOS PARA DESCONSTITUIR A DECISÃO AGRAVADA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 321 do CPC, no que concerne à necessidade de se extinguir o processo sem resolução do mérito, pois o autor quedou-se inerte em emendar a inicial, demonstrando a falta de condições para o prosseguimento da ação, o desinteresse no seu andamento, acarretando a preclusão da pretensão. Aduz a seguinte argumentação:
+Como vimos ao longo da explanação já traçada nessas razões, as questões jurídicas que merecem a apreciação por essa Corte Superior são basilares não somente à resolução da lide, mas à atuação predatório dos advogados da parte recorrida ante à imensidão de processos idênticos e desprovidos de requisitos primordiais que foram protocolados na Vara de origem.
+O Objeto deste Recurso Especial é o Acórdão que acolheu o recurso dos Recorridos desconstituindo a sentença proferida pelo juízo da Comarca de Baião que faz parte de um grupo de centenas de ações protocoladas em série e de forma predatória na referida Comarca.
+ ..
+Excelências, a talvez mais importante questão que circunde o mérito deste processo, a de que NENHUM DOS MOTIVOS EXPOSTOS NA DECISÃO FOI DETERMINANTE PARA A EXTINÇÃO DOS PROCESSOS.
+Em verdade, e de forma incompreensivelmente olvidada pela corte estadual, o processo foi extinto em virtude da preclusão ante determinação de emenda à inicial.
+Ora, uma vez verificada a ausência dos elementos fundamentais da ação, apenas expediu o juízo de piso determinação para que os autores procedessem a emenda à inicial, nos termos do art. 321 do CPC, ocorre que, como exaustivamente narrado desde a segunda instância, a emenda não foi apresentada, de forma que preclusa a pretensão dos autores.
+Ressalta-se que, tal raciocínio não advém apenas da concatenação de fatos pelo ora recorrente, mas é a mais pura aplicação do determinado pelo Código Civil, como podemos observar:
+ ..
+Esta situação, meramente processual, diga-se, restou clara e indiscutível. O acórdão que desconstituiu a sentença fundada unilateralmente na subsunção exata do §1º, do Art. 321 da Lei 13105/2015, deve ser, portanto, reformada por esta Corte Infraconstitucional uma vez que contraria a aplicação inequívoca de norma federal!!
+ ..
+É ainda importante evidenciar que o evento que gerou esta, assim como outras milhares de ações em mais de 6 comarcas no estado está claramente sendo usado como fundamento para advocacia predatória, esta que, em total descaso com os casos individuais, protocola ações sem realmente se ater aos necessários requisitos fáticos e documentais.
+Portanto, é inegável que a sentença originária representou correta conduta do magistrado, evidencie-se que, até mesmo no pedido de comprovante de residência efetuado, (que, novamente, não foi o motivo da extinção do processo). Ocorre que tão visível é a advocacia predatória no caso em questão, que a solicitação de demais documentos era o mínimo a se fazer para garantir a legitimidade e o interesse da parte, e esta, quando solicitada, não cumpriu com a determinação judicial, pelo que, novamente, merece reforma a decisão ora recorrida, mantendo, portanto, o decisum de primeiro grau em sua totalidade.
+Reitera-se, em que pese a inicial tenha sido protocolada em total desatenção aos artigos 319 a 321 do CPC, e tenha o magistrado devidamente acionado a parte autora para emendar a inicial, quedou-se inerte à determinação, de forma que, além de não demonstrar as condições necessárias para o prosseguimento da ação, demonstrou apenas o desinteresse em seu andamento, mas um motivo para o encerramento do feito efetuado pelo juízo de piso, assim como indício de demanda predatória
+(fls. 485-488).
+É o relatório.
+Decido.
+Quanto à controvérsia, relativamente ao não cumprimento da determinação judicial de emendar a inicial implicando preclusão, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
