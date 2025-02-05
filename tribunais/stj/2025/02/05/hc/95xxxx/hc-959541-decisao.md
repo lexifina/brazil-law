@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RONEY DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem em acórdão de fls. 12-19.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar, defendendo que o paciente ostenta condições pessoais favoráveis.
+Aduz, ainda, a nulidade da busca domiciliar.
+Requer, ao final, a revogação da prisão preventiva e, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+Liminar indeferida às fls. 111-112.
+Informações prestadas às fls. 118-125 e 126-139.
+O Ministério Público Federal em parecer, às fls. 143-148, manifestou-se pela concessão parcial da ordem.
+É o relatório. DECIDO.
+No tocante a alegada nulidade decorrente da invasão de domicílio, da leitura do acórdão recorrido verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Nesse sentido: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+Quanto a alegada ausência de fundamentação para a manutenção da segregação cautelar, verifico que melhor sorte não socorre à defesa.
+In casu, a análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que, foram apreendidos com o paciente "um pedaço de maconha, pesando 360 gramas, e mais dois tabletes da mesma droga, com peso de 1 kg, bem como 1 (uma) faca grande para fracionar entorpecente, contendo resquícios, plástico filme para embalar droga, balança de precisão e anotações referentes à venda das drogas, além da quantia de R$ 200,00 (duzentos reais)" - fl. 51, circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+Sobre o tema:
+"A prisão preventiva foi mantida com base em elementos concretos, evidenciando a necessidade de garantia da ordem pública. A paciente foi flagrada, junto a outros envolvidos, com significativa quantidade de drogas e petrechos para o fracionamento e venda de entorpecentes em sua residência" (AgRg no HC n. 949.334/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 17/12/2024).
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Destacou, ainda, a Corte de origem que "na esteira das informações reunidas, havia indícios de uma intensa atividade de tráfico de drogas sendo realizada em determinada residência, organizada em um esquema de "delivery" com a utilização de motoboys, que supostamente faziam a entrega das porções de maconha comercializadas pelo acusado" - fl. 16.
+A propósito, trago o seguinte precedente desta Corte Superior de Justiça:
+"Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+In casu, não há falar em ausência de fundamentação da prisão preventiva, que está apoiada na gravidade concreta da conduta, tendo em vista que o paciente estaria transitando pela região do Bandeirantes, na cidade de Londrina, vendendo entorpecentes via delivery, sendo flagrado na posse de uma variedade de drogas - 6 porções de ecstasy, 5 porções de haxixe, 11 porções de maconha e, por fim, 2 gramas de cocaína" (AgRg no HC n. 890.760/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 8/3/2024).
+No mesmo sentido: HC n. 859.499/GO, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 12/11/2024 e AgRg no RHC n. 197.292/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/8/2024.
+De mais a mais, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
