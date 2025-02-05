@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se habeas corpus, com pedido liminar, impetrado em favor de LEANDRO VICENTE DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento da Apelação Criminal nº 0004964-23.2022.8.19.0014.
+O paciente foi condenado à pena de 06 (seis) anos e 09 (nove) meses de reclusão, em regime inicial fechado, e ao pagamento de 680 (seiscentos e oitenta) dias-multa, no valor unitário mínimo, por infração ao artigo 33, caput, da Lei n. 11.343/2006, sendo a condenação integralmente mantida no julgamento da apelação.
+A impetrante alega a nulidade das provas oriundas da busca pessoal realizada sem fundadas suspeitas, sendo ilícitas as provas dela derivadas, bem como a existência de indevida quebra da cadeia de custódia.
+Requer, inclusive liminarmente, o reconhecimento da nulidade da busca pessoal, das provas carreadas aos autos e do processo, com repercussão na absolvição do paciente.
+A liminar foi indeferida (fls. 106-107).
+O Ministério Público Federal emitiu parecer opinando pelo parcial conhecimento do writ e, nessa extensão, pela denegação da ordem (fls. 133-138).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da nulidade das provas oriundas da busca pessoal realizada sem fundadas suspeitas e diante da alegada quebra da cadeia de custódia.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, de acordo com o que foi apurado nas instâncias de origem, a interceptação/abordagem do paciente ocorreu em razão de notícia anônima de que ele estaria praticando o crime de tráfico de drogas na escadaria da Rua São João Batista, bairro Tavares, local controlado pela facção criminosa conhecida como "Terceiro Comando Puro", e que, após os brigadianos o avistarem no referido local com uma sacola nas mãos, o paciente se desfez da mesma, a qual continha 68g (sessenta e oito gramas) de maconha acondicionados em 84 (oitenta e quatro) trouxinhas, além de 4,2g (quatro gramas e dois decigramas) de cocaína acondicionados em 15 (quinze) recipientes plásticos denominado eppendorf, bem como a quantia de R$ 200,00 (duzentos reais) em espécie, motivo pelo qual lhe foi dada voz de prisão.
+Como se vê, a busca pessoal se deu com base em elementos concretos, de modo que é possível concluir que ficou comprovada a causa apta a autorizar a revista pessoal no paciente. Logo, inviável o reconhecimento de constrangimento ilegal.
+Nesse sentido, cito precedente:
+" ..
+3. A busca pessoal foi legalmente justificada, conforme relatado no acórdão, pois os policiais militares avistaram o paciente em uma área conhecida pelo tráfico de drogas e observaram sua tentativa de fuga ao notar a aproximação policial, além de ter lançado uma sacola ao solo contendo entorpecentes. Essas circunstâncias configuram fundada suspeita, autorizando a abordagem nos termos do art. 244 do CPP, conforme a jurisprudência consolidada do STJ.
+ .. "
+(HC n. 882.250/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+" ..
+5. No caso, a fundada suspeita ficou evidenciada, visto que a busca pessoal foi antecedida por uma operação de vigilância no local, pois a ré e sua residência foram alvo de denúncia anônima da prática de tráfico de drogas, com indicação da sua alcunha e do exato endereço, sendo que, no local, os policiais militares avistaram a acusada portando uma sacola, em via pública, na frente da residência apontada na denúncia, em situação típica de mercancia, oportunidade na qual procederam à abordagem. Assim, houve a colheita prévia dos mencionados elementos, que evidenciaram fundadas suspeitas da prática delitiva, inexistindo qualquer violação na abordagem realizada pela polícia, pois a medida foi exercida nos limites da atuação policial ostensiva e preventiva.
+ .. "
+(HC n. 859.225/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.)
+Por fim, a respeito da alegada quebra da cadeia de custódia, a instância ordinária concluiu que não há comprovação da ausência do lacre na embalagem contendo os entorpecentes entregues para análise e que não consta do laudo de entorpecentes o mínimo vestígio da irregularidade apontada. Por outro lado, verifico a partir da análise do acórdão impugnado que não há indícios de que houve manipulação indevida das provas, já que as drogas apreendidas correspondem às mesmas encontradas com o paciente em quantidade absolutamente igual, tendo sido realizados os testes oficiais para a identificação, na forma como concluiu a perícia.
+Deste modo, rever a conclusão da origem demandaria incursão na seara fático-probatória, procedimento que não é compatível com a via estreia do writ. Nesse sentido, cito precedentes:
+" ..
+VII - A jurisprudência desta Corte Superior é firme no sentido de que a cadeia de custódia consiste no caminho idôneo a ser percorrido pela prova até sua análise pelo expert, de modo que a ocorrência de qualquer interferência indevida durante sua tramitação probatória pode resultar em sua imprestabilidade para o processo de referência.
+VIII - No caso concreto, não restou comprovada qualquer circunstância capaz de sugerir a adulteração da prova, ou mesmo interferência indevida em seu caminho, capaz de invalidá-la. Com efeito, rever o entendimento firmado no acórdão encontra impedimento na impossibilidade de amplo exame da matéria fático-probatória, procedimento, a toda evidência, incompatível com a via do habeas corpus e do seu recurso ordinário.
+ ..
+(AgRg no HC n. 771.217/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)"
+" ..
+2. Os julgadores da origem entenderam não haver qualquer indício de fraude ou de manipulação do material entorpecente submetido a exame toxicológico. A modificação desse juízo sobre fatos, para se concluir que houve quebra da cadeia de custódia da prova, demandaria reexame probatório inviável no habeas corpus.
+- De fato, "se as instâncias ordinárias compreenderam que não foi constatado qualquer comprometimento da cadeia de custódia ou ilegalidade da prova, o seu reconhecimento, neste momento processual, demandaria amplo revolvimento do conjunto fático-probatório, o que, como é sabido, não é possível na via eleita". (AgRg nos EDcl no HC n. 826.476/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+ ..
+(AgRg no HC n. 861.040/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024.)"
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
