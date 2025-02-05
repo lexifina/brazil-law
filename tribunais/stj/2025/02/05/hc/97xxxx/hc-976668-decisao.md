@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  liminar,  impetrado  em  favor  de  VOLMIR  FERREIRA  RODRIGUES,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  DE  SANTA  CATARINA,  na  Apelação  Criminal  n.  5001966-60.2023.8.24.0066.
+Consta  dos  autos  que  o  paciente  foi  condenado  pela  prática  do  crime  previsto  no  art.  129,  §  13º,  c/c  art.  121,  §  2º-A,  I,  ambos  do  Código  Penal  à  pena  de  1  (um)  ano,  9  (nove)  meses  e  10  (dez)  dias  de  reclusão,  no  regime  inicial  semiaberto.
+O  Tribunal  negou  provimento  à  apelação  defensiva.
+Neste  writ,  a  parte  impetrante  sustenta  pelo  reconhecimento  da  atenuante  da  confissão  espontânea  prevista  no  art.  65,  III,  "d",  do  Código  Penal,  pois  o  réu  admitiu  ter  agredido  a  vítima.
+Alega  que  a  confissão  deve  ser  compensada  com  a  agravante  da  reincidência.
+Requer  o  reconhecimento  da  atenuante  da  confissão  espontânea  com  o  redimensionamento  da  pena  imposta.
+O  Ministério  Público  Federal  opinou  pelo  não  conhecimento  do  writ  e,  caso  conhecido,  pela  denegação  da  ordem  (fls.  413-146).
+É  o  relatório.  DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  embora  a  parte  impetrante  não  tenha  adotado  a  via  processual  adequada,  cumpre  analisar  as  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  eventual  ilegalidade  manifesta  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+A  respeito  do  não  reconhecimento  da  atenuante  da  confissão  espontânea,  o  Tribunal  a  quo  consignou  que  (fls.  333-334,  grifamos):
+Em  relação  a  dosimetria,  a  defesa  pretende  o  reconhecimento  da  atenuante  da  confissão  espontânea,  na  segunda  fase  dosimétrica,  pois  "nota-se  do  seu  termo  de  interrogatório  que,  embora  de  forma  qualificada,  o  apelante  confessou  que  estavam  todos  bêbados,  começaram  a  discutir  e,  quando  viu,  "aconteceu  isso  daí";  ainda,  disse  que  "estavam  todos  bêbados  .. ,  diz  que  eu  disse  pro  piá  sair,  dai  ele  saiu  e  dali  a  pouco  voltou  de  volta  e  daí  diz  que  nisso,  eu  não  me  lembro  mais  o  que  aconteceu,  daí  depois  eu  dei  um  soco  nela"  (evento  52,  41min  16segundos  a  41min  46segundos)".
+Sem  razão,  contudo.
+Isso  porque,  consoante  se  observa  do  interrogatório  judicial  do  recorrente  e,  especialmente,  do  trecho  apontado  pela  defesa,  o  recorrente  afirmou  que  não  se  recorda  de  ter  desferido  um  soco  contra  a  vítima,  mas  apenas  que  teriam  lhe  dito  que  ele  o  fez.
+Nesse  quadro,  não  se  reputa  que  merece  ser  reconhecida  a  circunstância  atenuante  da  confissão  espontânea,  prevista  no  art.  65,  III,  "d",  do  Código  Penal,  porquanto  o  apelante  afirmou,  em  Juízo,  que  não  se  recorda  dos  fatos.
+  Assim,  não  há  falar  em  concessão  da  ordem  ex  officio,  já  que  não  há,  in  casu,  manifesta  ilegalidade  a  ser  corrigida,  uma  vez  que  o  Tribunal  de  origem,  de  forma  fundamentada,  discorreu  o  motivo  pelo  qual  entendeu  que  não  houve  confissão  espontânea  por  parte  do  acusado.
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
