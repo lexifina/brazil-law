@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de LUIZ FERNANDO TERRA, impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n. 1501632-25.2020.8.26.0571.
+Consta nos autos que o paciente foi condenado pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, à pena de 08 (oito) anos de reclusão, em regime inicial fechado, além do pagamento de 1.200 (mil e duzentos) dias-multa, em razão da apreensão de 654,69g de maconha e 3,70g de cocaína.
+A Defesa interpôs recurso de apelação, tendo o Tribunal de origem negado provimento ao recurso.
+Neste writ, o impetrante alega, em suma, a nulidade das provas obtidas mediante invasão de domicílio, sem a presença de mandado judicial ou de fundadas razões.
+Requer, liminarmente e no mérito, a absolvição do paciente, com a extensão dos efeitos da decisão aos corréus.
+Liminar indeferida (fls. 152/153).
+Informações prestadas (fls. 156/160, 161/166 e 171/222).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 225/227).
+É o relatório.
+DECIDO.
+O Superior Tribunal de Justiça, considerando a necessidade de racionalização do emprego do remédio heroico que reiteradamente é impetrado de maneira desvirtuada, alheia aos preceitos constitucionais e legais, entende ser incabível a impetração de habeas corpus substitutivo de recurso próprio, sob pena subversão do sistema recursal e indevida supressão de instância.
+Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. APREENSÃO DE DROGAS E MATERIAL CARACTERÍSTICO DO TRÁFICO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+ .. . (AgRg no HC n. 946.588/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024, grifamos).
+Na hipótese, contra o acórdão da apelação criminal preferido pelo Tribunal de Justiça do Estado de São Paulo, a Defesa também interpôs recurso especial, não admitido na origem. Na sequência, interpôs agravo em recurso especial (AREsp n. 2.402.231/SP), não conhecido por esta Corte Superior, com certificação de trânsito em julgado em 23/10/2023.
+Assim, diante da incidência do postulado da unirrecorribilidade, é inadmissível a dupla inquinação do decisum por instrumentos processuais diversos.
+De fato,
+o ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1º/4/2022) (AgRg no HC n. 720.421/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 03/11/2022).
+Nesse sentido :
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PLEITO ABSOLUTÓRIO. ALEGADA NULIDADE DO RECONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO, INCABÍVEL NA VIA ELEITA. PEDIDO NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes das Cortes de Vértice.
+2. As matérias suscitadas na presente impetração já haviam sido veiculadas pela Defesa, nesta Corte, por meio de agravo em recurso especial, o que conduz à inadmissibilidade do mandamus. Embora o mérito das alegações defensivas não tenha sido analisado na via recursal, "o writ não serve para contornar vícios processuais contrários aos requisitos de admissibilidade do recurso" (AgRg no HC n. 633.447/GO, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 22/08/2023, DJe de 28/08/2023).
+ ..
+6 . Agravo regimental desprovido.
+(AgRg no HC n. 789.726/PR, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 21/3/2024, grifamos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA DOSIMETRIA. CONTINUIDADE DELITIVA. MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO DESPROVIDO.
+1. A orientação jurisprudencial deste Tribunal Superior é no sentido de não ser cabível a impetração de habeas corpus concomitantemente com a interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade, considerando-se a acepção de única impugnação a cada prestação jurisdicional. 2. Agravo regimental desprovido. (AgRg no HC n. 921.673/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; grifamos).
+Assim,  e mbora o art. 654, § 2.º, do Código de Processo Penal, preveja a possibilidade da concessão de habeas corpus de ofício, " t al providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/3/2022, DJe 22/3/2022; sem grifos no original). No mesmo sentido: EDcl no AgRg no AREsp n. 1.923.779/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/3/2022, DJe 28/3/2022 e AgRg no HC n. 680.717/AP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2022, DJe 25/03/2022, v.g. 4. Agravo regimental desprovido (AgRg no HC n. 826.186/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO MANTIDA EM APELAÇÃO. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE VIOLAÇÃO. MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO DA IMPETRAÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em violação ao princípio da colegialidade na decisão proferida nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça - RISTJ que dispõe que cabe ao relator, em decisão monocrática, "não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida", lembrando, ainda, a possibilidade de apreciação pelo órgão colegiado por meio da interposição do agravo regimental.
+2. Não se mostra adequada a possibilidade de análise da matéria para eventual concessão da ordem de ofício, haja vista a interposição concomitante de recurso especial perante o Tribunal de origem. Com efeito, nos termos da jurisprudência consolidada nesta Corte Superior, inviável o conhecimento de habeas corpus impetrado concomitantemente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 809.553/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
