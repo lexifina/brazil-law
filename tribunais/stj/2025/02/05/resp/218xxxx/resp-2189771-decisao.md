@@ -1,0 +1,70 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO, contra acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 216e):
+ADMINISTRATIVO E PROCESSUAL CIVIL. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO.
+1. Agravo de instrumento, interposto pela UNIÃO, contra decisão proferida pelo Juízo Federal da 1ª Vara Federal/CE que, em fase de cumprimento de sentença fundado em ação coletiva, não acolheu a impugnação da UNIÃO, determinando o prosseguimento do feito com a homologação dos cálculos elaborados pela Contadoria do Foro.
+2. Nas suas razões de agravo, defende, resumidamente, que a parte agravada não comprovou ser filiada da associação no momento da propositura da ação coletiva, sendo indispensável que o servidor faça parte do rol de substituídos apresentado pelo sindicato no processo de conhecimento para que seja legitimado no processo de execução.
+3. No caso concreto, conforme verificado na decisão agravada, os exequentes apresentaram declarações da União dos Ferroviários do Brasil, informando que eram associados àquela entidade desde abril de 2006. Ademais, o próprio Supremo Tribunal Federal já consolidou a tese, no julgamento do RE 883.642-RG, de que o ente sindical possui legitimidade para pleitear em Juízo ou fora dele direitos subjetivos individuais e coletivos dos integrantes da categoria por ele representada, mesmo daqueles que não sejam filiados, inclusive em fase de liquidação ou de cumprimento de sentença.
+4. Agravo de instrumento desprovido.
+Opostos Embargos de Declaração, foram rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 2º-A da Lei n. 9.494/1997, alegando-se, em síntese, que "não há, todavia, legitimidade para o cumprimento do título, conforme definido pela Suprema Corte em sede de repercussão geral no RE nº 612043, tema nº 499" (fl. 452e).
+Sem contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Observo, de plano, que a insurgência, no que toca à alegada violação ao art. 2º-A da Lei n. 9.494/1997, carece de prequestionamento, uma vez que o dispositivo não foi analisado pelo Tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no Tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca da tese recursal e dos dispositivos legais apontados como violados.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. EXPEDIÇÃO DE RPV/PRECATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. Não enfrentada no julgado impugnado tese referente ao artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.144.926/DF, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23.09.2024, DJe de 27.09.2024 - destaque meu).
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. IRPJ. CSLL. APURAÇÃO DE 8% E 12% SOBRE A RECEITA BRUTA. SOCIEDADE MÉDICA. SERVIÇOS HOSPITALARES. SERVIÇOS PRESTADOS EM AMBIENTE DE TERCEIROS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. TEMA N. 217/STJ. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+ ..
+IV - De início, com relação à alegada violação dos arts. 942 e 1.000 do CPC, entendo que a matéria não foi suficientemente debatida no Tribunal de origem, não sendo observado o requisito de prequestionamento na interposição do recurso especial, deficiência recursal que atrai a aplicação das Súmulas n. 211 do STJ e ns. 282 e 356 do STF.
+ ..
+X - Agravo interno improvido.
+(AgInt no REsp n. 2.072.662/SC, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 30.09.2024, DJe de 02.10.2024 - destaque meu).
+O atual Estatuto Processual admite o denominado prequestionamento ficto, é dizer, aquele que se consuma " ..  com a mera oposição de aclaratórios, sem que o Tribunal a quo tenha efetivamente emitido juízo de valor sobre as teses debatidas" (AgRg no REsp 1.514.611/PR, Rel. Min. Sérgio Kukina, 1ª T., DJe 21.06.2016), nos seguintes termos:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+No entanto, na linha da orientação adotada por este Superior Tribunal, somente poder-se-ia considerar prequestionada a matéria especificamente alegada - de forma clara, objetiva e fundamentada - e reconhecida a violação ao art. 1.022 do CPC/15, como o demonstram os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. DEMORA NO RESTABELECIMENTO DO SERVIÇO. RESPONSABILIDADE CIVIL. DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 1.025 DO CPC/2015. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 14/12/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação de Indenização, ajuizada pela parte agravante contra AES SUL Distribuidora Gaúcha de Energia S/A, em decorrência da interrupção do serviço de energia elétrica pelo período de 9 (nove) dias, após a ocorrência de um temporal no Município de São Sepé/RS. O acórdão do Tribunal de origem reformou a sentença que julgara improcedente a ação, condenando a ré ao pagamento de indenização por danos morais, no valor de R$ 5.000,00 (cinco mil reais).
+III. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre os arts. 2º da Lei 9.427/96 e 29, I, da Lei 8.987/95, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. Na forma da jurisprudência, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+ ..
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.017.912/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 16/08/2017 - destaquei).
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS. HERDEIROS SÓCIOS EM CONDOMÍNIO. CABIMENTO. PRESCRIÇÃO DO DIREITO. NÃO OCORRÊNCIA.
+ ..
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+ ..
+06. Recurso especial não provido.
+(REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017 - destaquei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 284/STF. CONCESSÃO DE PROVIMENTO DE URGÊNCIA. RECURSO ESPECIAL. DESCABIMENTO. SÚMULA 735/STF ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não se pode conhecer a apontada violação ao art. 1.022, do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+ ..
+V - Agravo Interno improvido.
+(AgInt no REsp 1.664.063/RS, de minha relatoria, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017 - destaquei).
+No mais, o tribunal local consignou que a presente alegação da Recorrente caracterizou indevida inovação recursal na origem, pois "a matéria referente ao Tema 499 do STF não foi suscitada pela União Federal nas razões do agravo de instrumento" (fl. 356e).
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, uma vez que a falta de impugnação a fundamento suficiente à manutenção do acórdão recorrido atrai a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Não se conhece de recurso especial que não rebate fundamento autônomo e suficiente à manutenção do acórdão proferido, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.946.896/SP, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 26.08.2024, DJe de 02.09.2024 - destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO. RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283 DO STF. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O parquet estadual se atém à questão da competência, sem refutar os dois argumentos que têm o condão de, por si sós, manter o teor decidido, porque afastam a materialidade (conforme assevera a Corte Estadual, a conduta imputada ao réu não apresenta indício de favorecimento da empresa) e o elemento anímico (nos termos decididos pelo Tribunal de origem, o autor da Ação não descreve conduta que potencialmente indicaria a presença de dolo dos acusados). Sendo assim, inafastável o Enunciado 283 da Súmula do STF (AgInt no REsp n. 2.005.884/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022).
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.094.865/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 22.08.2024 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
