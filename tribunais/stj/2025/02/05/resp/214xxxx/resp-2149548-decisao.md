@@ -1,0 +1,45 @@
+DECISÃO
+Em análise, recurso especial interposto por GEORGEA MAYUMI MAEDA e GEORDANA SAIORY MAEDA contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado:
+Agravo de instrumento. Cumprimento individual da sentença coletiva exarada no Proc. 32.159/97 (Sindireta - benefício alimentação). Obrigação limitada ao período especificado no título executivo. Fidelidade à coisa julgada. (fl. 55)
+Os embargos de declaração foram rejeitados.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição (fls. 126-140).
+Nas razões recursais, a parte recorrente sustenta, em síntese, violação aos arts. 489 e 1.022, II do CPC, por ausência da prestação jurisdicional, e arts. 502, 503 e 508, também do CPC, por ofensa à coisa julgada, além do art. 884 do Código Civil, por enriquecimento ilícito.
+Assim, pugna pelo provimento do recurso "para anular o acórdão proferido no julgamento dos embargos declaratórios, determinando-se retorno dos autos à origem para que sejam os embargos novamente julgados, com expressa manifestação acerca das alegações do(a) recorrente" (fl. 140). Sucessivamente, pede o provimento do agravo de instrumento.
+Contrarrazões apresentadas (fls. 146-164).
+É o relatório.
+Passo a decidir.
+O Sindicato dos Servidores Públicos Civis da Administração Direta, Autarquias, Fundações e Tribunal de Contas do Distrito Federal - SINDIRETA/DF ajuizou ação coletiva em que reconhecido o direito dos servidores ao benefício alimentação, instituído pela Lei distrital 786/1994 até a impetração do mandado de segurança 7.253/1997. A parte ora recorrente propôs cumprimento individual da sentença coletiva formada, e teve reconhecida a limitação da condenação no período de janeiro/1996 até 28/4/1997, data da impetração do mandado de segurança 7.253/97.
+Quanto ao ponto, assim constou do acórdão recorrido:
+O título judicial, transitado em julgado em 11/03/2020 fixou limitação do período devido nos seguintes termos - ac. 730.893:
+"Portanto, é devido o benefício alimentação desde a data em que foi suprimido até a impetração do mandado de segurança nº 7.253/97, como, aliás, delimitou a sentença no capítulo sobre o interesse processual: (..)"
+A distribuição do referido mandamus deu-se em 28/04/1997.
+Desse modo, o período fixado abarca tão somente as parcelas do benefício alimentação compreendidas entre janeiro de 1996 a abril de 1997, consoante consignado acima.
+É vedado na execução discutir a questão, sob pena de ofensa a coisa julgada.
+ ..
+Assim, escorreita a limitação da condenação à 27/04/97, tendo em vista que o título executivo estabeleceu que o pagamento do benefício seria devido desde a data da supressão até a impetração do MS 7.253/97 (ac. 730.893).. (fl. 57-59)
+Do acórdão recorrido, foram opostos embargos de declaração, rejeitados (fls. 111-122)
+Logo, quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. A fundamentação adotada no acórdão, como visto, é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, do CPC.
+No entanto, para alcançar conclusão diversa da adotada, que delimitou o pagamento a partir da impetração do MS 7.253/97, haveria a possibilidade de se permitir recebimento do benefício alimentação em duplicidade.
+Assim, incide na espécie o óbice da Súmula 7 deste STJ, porque a alteração da conclusão do Tribunal ensejaria o necessário reexame da matéria fático-probatória dos autos. Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ademais, a análise do termo inicial para o restabelecimento do pagamento do benefício alimentação demanda análise de lei local, a Lei Distrital 2.944/2002, o que atrai a Súmula 280 do STF, por analogia.
+Em casos análogos, vem decidindo a jurisprudência deste STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INTERPRETAÇÃO DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. "Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF" (AgInt no AREsp n. 2.359.404/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+2. "O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+3. Infirmar o entendimento alcançado pelo Tribunal a quo - que reconheceu a possibilidade de compensação do débito executado com os reajustes posteriores, sem que haja violação da coisa julgada - demandaria, necessariamente, reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial (Súmula 7 do STJ).
+4. Verifica-se que o Tribunal de origem, para decidir a controvérsia, interpretou a legislação local (Leis Distritais 38/1989 e 117/1990 e Decretos 12.728/1990 e 12.947/1990), o que torna inviável o recurso especial, em razão da incidência, por analogia, da Súmula 280 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.131.600/DF, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SUSPENSÃO DO FEITO. INVIABILIDADE. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. SUPOSTA OFENSA AO ART. 1.022, INCISO II, DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 284 DO STF. CONTRARIEDADE AOS ARTS. 43, 186, 884 E 927, TODOS DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. ALEGAÇÃO DE OFENSA À COISA JULGADA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "É firme o entendimento no âmbito desta Corte, no sentido de que a afetação de controvérsia pelo Tribunal de origem, ao rito do IRDR, não implica o sobrestamento dos processos em curso no STJ, mas apenas aqueles em trâmite nos Tribunais de origem (STJ, AgInt no REsp 2.019.640/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2022)" (AgInt no REsp n. 2.074.937/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+2. Não obstante o recurso especial alegue violação do art. 1.022 do Código de Processo Civil, não especifica adequadamente quais os pontos do acórdão recorrido em relação aos quais haveria omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto. Portanto, o conhecimento desse capítulo recursal é obstado pela falta de delimitação da controvérsia, atraindo a aplicação da Súmula n. 284 do STF.
+3. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a suposta ofensa aos arts. 43, 186, 884 e 927, todos do Código Civil, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+4. Tendo em vista a fundamentação do acórdão atacado quanto à ilegitimidade ativa da parte recorrente, verifica-se que os argumentos expostos no apelo nobre somente poderiam ser acolhidos mediante o necessário reexame de matéria fática, não cabendo a esta Corte Superior, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, nos termos da Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.098.330/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Isso posto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Deixo de arbitrar honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
