@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DO TOCANTINS, com fundamento no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Tocantins assim ementado (e-STJ, fl. 1.104):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PACIENTE COM QUADRO DE ACIDENTE VASCULAR CEREBRAL. ATENDIMENTO NO HOSPITAL REGIONAL DE ARAGUAÍNA. QUEDA DA MACA. PIORA DO QUADRO. TRAUMATISMO CRÂNIO-ENCEFÁLICO. ÓBITO. RESPONSABILIDADE OBJETIVA DO ESTADO CARACTERIZADA. DANOS MORAIS EVIDENCIADOS.
+1. Tratando-se de responsabilidade civil de natureza objetiva, prescindindo da apuração de prova da culpa do Estado, restou amplamente demonstrado que a queda da do paciente da maca contribuiu para o óbito do mesmo.
+2. Os elementos contidos nos autos não deixam dúvidas quanto à falha inequívoca dos prepostos do apelante. Conquanto o paciente Antônio já estivesse acometido por Acidente Vascular Cerebral, a queda da maca que lhe causou traumatismo craniano foi decisiva para o evento morte. Cabe ao Estado a incumbência de prestar serviço público de forma adequada, habilidosa e com destreza.
+3. O valor estabelecido na sentença, R$ 75.000,00 (setenta e cinco mil reais), revela-se condizente com a conjuntura do caso concreto, atendidos os critérios da proporcionalidade e da razoabilidade, sem resultar em enriquecimento sem causa da parte autora, não havendo falar, portanto, em redução.
+4. Em casos de responsabilidade extracontratual, o termo inicial para a incidência da correção monetária é a data da prolação da decisão em que foi arbitrado o valor da indenização ( Súmula 362/ STJ) e os juros moratórios fluem a parte do evento danoso de acordo com a Súmula 54 do STJ.
+5. Recurso não provido.
+Nas razões do recurso especial (e-STJ, fls. 1.122-1.131), o insurgente alega violação ao art. 944 do Código Civil.
+Sustenta, em síntese, que o valor fixado a título de indenização por danos morais é desproporcional, de modo que é cabível a sua redução, inclusive para evitar o enriquecimento sem causa da parte recorrida.
+Sem contrarr azões.
+O Tribunal estadual admitiu o recurso especial (e-STJ, fls. 1.147-1.149), ascendendo os autos a esta Corte.
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal de origem assim dispôs acerca do valor da indenização fixada a título de danos morais (e-STJ, fls. 1.096-1.198):
+Conforme se extrai dos autos, Antônio Feitosa de Alencar foi atendido no Hospital Regional de Araguaína com quadro de Acidente Vascular Cerebral, contudo, no transporte para atendimento médico, caiu da maca, resultando em traumatismo craniano. A parte autora requereu indenização por danos morais no valor de R$ 75.000,00 (setenta e cinco mil reais). Pedido acolhido por sentença.
+O Estado do Tocantins, nas razões recursais, alegou em síntese, ausência do dever de indenizar e apontou exagero no valor fixado a título de danos morais.
+(..)
+Os elementos contidos nos autos não deixam dúvidas quanto à falha inequívoca dos prepostos do apelante. Conquanto o paciente Antônio já estivesse acometido por Acidente Vascular Cerebral, a queda da maca que lhe causou traumatismo craniano foi decisiva para o evento morte. Cabe ao Estado a incumbência de prestar serviço público de forma adequada, habilidosa e com destreza.
+O Laudo Pericial (Evento 44 - autos originários) informa que o paciente recebeu atendimento pelo SAMU e quando estava sendo posicionado na maca do hospital "foi vítima de queda da maca, evoluindo com vômito e epistaxe à esquerda e, mais tarde, rebaixamento do nível de consciência, bradicardia, afasia. Foi entubado e sedado. Descobriu-se hematoma intracerebral ao nível do putâmen (base da parte frontal do cérebro). No dia 22/05, foi submetido a cirurgia para drenagem do hematoma, porém o paciente evoluiu com coma, do qual não conseguiu se recuperar. O óbito ocorreu às 12h30 de 07/07/2020". Os documentos acostados no Evento 1 confirmam a evolução para o óbito.
+Restou demonstrado que a queda da maca foi suficiente para produzir o resultado (óbito), uma vez que "o acidente vascular encefálico sequer foi identificado na tomografia computadorizada de crânio realizada em 19/05/2020".
+(..)
+O Laudo traz, ainda, no item 9, a conclusão de que foram as complicações relacionadas ao trauma contundente sofrido na região frontal do encéfalo que causou hematoma cerebral. Deve ser reconhecido, assim, que o dano não foi causado em virtude do estado de saúde preexistente, , confirmando a negligência dos agentes do Estado.
+Por conseguinte, uma vez evidenciados os requisitos ensejadores da responsabilização do requerido, a manutenção da sentença de procedência é medida que se impõe.
+Noutro giro, no que tange ao quantum indenizatório, examinando detidamente as circunstâncias do ocorrido, considero que o valor estabelecido na sentença - R$ 75.000,00 (setenta e cinco mil reais) revela-se condizente com a conjuntura do caso concreto, atendidos os critérios da proporcionalidade e da razoabilidade, sem resultar em enriquecimento sem causa da parte autora, não havendo falar, portanto, em redução.
+A jurisprudência desta Corte Superior é firme no sentido de que o valor estabelecido pelas instâncias ordinárias a título de dano moral somente deve ser revisto nas hipóteses em que a condenação se revelar irrisória ou excessiva, em desacordo com os princípios da razoabilidade e da proporcionalidade.
+Na hipótese em exame, verifica-se que a quantia indenizatória fixada em R$ 75.000,00 (setenta e cinco mil reais) a título de danos morais não se afigura excessiva, tendo sido observados os princípios da proporcionalidade e da razoabilidade, sobretudo considerando as circunstâncias fáticas específicas do caso concreto consignadas no aresto recorrido - a morte do genitor da parte autora em decorrência da falha na prestação dos serviços de saúde do ente estatal -, motivo pelo qual sua revisão é obstada pela Súmula n. 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE DO ESTADO POR MORTE DE CRIANÇA DECORRENTE DE FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO. VALOR INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A Corte estadual reconheceu o nexo causal entre a falha na prestação do serviço médico e o óbito da criança, e entendeu que o valor arbitrado na sentença, de R$ 100.000,00, pelos danos morais, mostrava-se compatível com a reprovabilidade da conduta ilícita.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Sendo assim, incide na hipótese a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.056.880/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. ERRO MÉDICO. DANO MORAL. VALOR ARBITRADO. EXORBITÂNCIA. SÚMULA N. 7/STJ. ALEGAÇÕES GENÉRICAS. IMPUGNAÇÃO SUBSTANCIAL. INEXISTÊNCIA. DIALETICIDADE RECURSAL. CARÊNCIA. SÚMULA N. 182/STJ.
+1. A decisão agravada aplicou a Súmula n. 7/STJ reportando-se especificamente a trechos do acórdão que, apoiado em laudos e provas, afirmam a ocorrência de erro médico e arbitram os danos morais por morte em cerca de 200 salários mínimos.
+2. O agravante pretende que esta Corte afaste a responsabilidade do Estado por entender ausente qualquer falha no atendimento médico.
+Alterar a conclusão da origem sobre fatos é hipótese de incidência da Súmula n. 7/STJ.
+3. O arbitramento de danos morais por morte em cerca de 200 salários mínimos, abaixo de balizas jurisprudenciais desta Corte, não evidencia, de plano, exorbitância do valor. Hipótese da Súmula n. 7/STJ.
+4. As balizas não configuram tarifação pretoriana do valor indenizatório, podendo ser afastadas (além e aquém) com base em aspectos concretos da causa. A parte não indica qualquer aspecto ensejador desse distanciamento, não se verificando elementos para o excepcional afastamento do óbice sumular aludido.
+5. Argumentos não substanciais, inaptos até mesmo em tese para alterar a decisão contrariada, configuram impugnação inespecífica e carência de dialeticidade, incidindo a insurgência na Súmula 182/STJ.
+6. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.905.023/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2022, DJe de 5/9/2022.)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE DO ESTADO. MORTE DE MENOR DE IDADE. ATO ILÍCITO DO ESTADO. DANO MORAL. REVISÃO. HIPÓTESE QUE NÃO CONFIGURA IRRISORIEDADE OU EXORBITÂNCIA DO PATAMAR ADOTADO. SÚMULA 7/STJ. AGRAVO INTERNO DOS PARTICULARES DESPROVIDO.
+1. Conforme entendimento desta Corte Superior de Justiça, a indenização por danos morais demanda, em regra, o exame das circunstâncias fático-probatórias dos autos para a sua fixação, medida vedada em razão do enunciado da Súmula 7/STJ. Excetuam-se à tendência de não conhecimento do pleito as situações que revelem a exorbitância ou a irrisoriedade do valor definido.
+2. Hipótese em que a fixação da indenização no julgado agravado considerou o patamar comumente adotado nesta Corte para a reparação por danos morais de evento morte, não se revelando o estabelecimento da verba em 400 salários mínimos exorbitante ou irrisória a justificar a alteração da sua base nesta seara do Recurso Espe cial.
+3. Agravo Interno dos particulares desprovido.
+(AgInt no AREsp n. 1.481.414/RJ, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf-5ª Região), Primeira Turma, julgado em 17/5/2021, DJe de 20/5/2021.)
+Ante o exposto, não conheço d o recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. MORTE DECORRENTE DE FALHA NA PRESTAÇÃO DE SERVIÇOS DE SAÚDE. REDUÇÃO DA QUANTIA INDENIZATÓRIA. INVIABILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
