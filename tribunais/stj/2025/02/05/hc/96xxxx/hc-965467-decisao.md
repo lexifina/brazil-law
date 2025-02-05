@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS MORAES CUENCA em que se aponta como autoridade coatora o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal n. 0003171-40.2020.8.16.0196).
+Consta dos autos que o paciente foi condenado à pena de 07 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão, e 729 (setecentos e vinte e nove) dias multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Posteriormente, o Tribunal a quo deu parcial provimento ao apelo do corréu, com extensão da decisão ao paciente, para, reconhecida a causa de diminuição prevista no § 4º, do art. 33, da Lei 11.343/06, reduzir sua pena definitiva para 06 (seis) anos, 27 (vinte e sete) dias de reclusão, além de 607 (seiscentos e sete) dias-multa.
+A condenação do paciente transitou em julgado em 21 de agosto de 2021 (fl. 20).
+O impetrante sustenta a ocorrência de constrangimento ilegal, porquanto a pena-base foi fixada indevidamente acima do mínimo legal com base exclusivamente na quantidade de droga apreendida.
+Assevera também que foi aplicada a fração mínima da minorante prevista no § 4º do art. 33 da Lei nº 11.343/2006 sem qualquer justificativa concreta.
+Afirma ser o paciente primário e ter bons antecedentes.
+Requer, liminarmente, a imediata expedição de alvará de soltura. No mérito, postula a concessão da ordem para que a pena do paciente seja redimensionada nos termos delineados na impetração.
+O pedido liminar foi indeferido às fls. 66-67.
+Informações prestadas às fls. 70-89.
+O Ministério Público Federal, às fls. 93-94, opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+Constato que o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem já transitado em julgado - 21/08/2021. Nesse contexto, não deve ser conhecido este writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte (art. 105, inciso I, alínea e, da Constituição da República).
+Com efeito,
+ p or força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. No caso, como não existe no STJ julgamento de mérito passível de revisão em relação à condenação definitiva sofrida pelo paciente, deve-se reconhecer a incompetência deste Tribunal para o processamento do presente pedido (AgRg no HC n. 903.573/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024; grifamos).
+Além disso, a tese trazida pela Defesa, relativa ao indevido incremento da pena-base pela quantidade de droga, não foi apreciada no acórdão impugnado, sequer sendo levantada no recurso de apelação. Assim, este Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+Ademais, não se verifica no julgado impugnado ilegalidade flagrante que justifique a concessão de habeas corpus de ofício nos termos do § 2º do artigo 654 do Código de Processo Penal, isso porque, nos termos da orientação firmada nesta Corte Superior de Justiça, o fato de o acusado ostentar a condição de "mula" do tráfico justifica a aplicação do redutor previsto no art. 33, § 4.º, da Lei n. 11.343/2006 na fração mínima (1/6 - um sexto), dada a maior gravidade da conduta decorrente do exercício dessa função de transporte, que se revela como uma etapa fundamental para que a traficância alcance vasta escala de distribuição.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. APLICABILIDADE DA SÚMULA N. 182 DO STJ. APLICAÇÃO DA MINORANTE. "MULA". FRAÇÃO MÍNIMA. AGRAVO REGIMENTAL NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+3. Pelas circunstâncias do caso concreto, em especial por haver sido o réu preso enquanto transportava drogas no interior de veículo, em flagrante oriundo de fiscalização de rotina em posto da polícia rodoviária federal, sem prévia investigação, sua conduta se assemelha à da cognominada "mula", ausentes provas que integre a organização criminosa em si.
+4. A redução mínima é a mais adequada ao caso, pois "ainda que não integre, em caráter estável e permanente, a organização criminosa, o transportador tem perfeita consciência de estar a serviço de um grupo dessa natureza (AgRg no AREsp n. 1.611.320/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T, DJe 3/6/2020), consoante registrou a sentença condenatória e o acórdão ora impugnado.
+5. Agravo regimental não provido. Habeas corpus concedido de ofício para aplicar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 1/6, e, consequentemente, reduzir a pena imposta ao réu para 5 anos, 4 meses e 25 dias de reclusão e pagamento de 540 dias-multa." (AgRg no AREsp n. 2.337.147/SC, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 20/6/2023, DJe 27/6/2023; grifamos)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO DE PENA. INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÍNIMA. CONDIÇÃO DE MULA. FUNDAMENTO CONCRETO. PRECEDENTES. AFASTAMENTO DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte Regional considerou os indícios de envolvimento do Agravado em atividades ilícitas insuficientes para denegar, de forma absoluta, o referido privilégio, contudo, considerou-os bastantes para o fim de justificar a modulação na fração mínima.
+2. O Superior Tribunal de Justiça firmou o entendimento de que "a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade. Contudo, embora o desempenho dessa função não seja suficiente para denotar que o agravante faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez se reveste de maior gravidade" (AgRg no AREsp 1.534.326/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/9/2019, DJe 24/9/2019; sem grifos no original).
+ ..
+7. Agravo regimental a que se nega provimento. (AgRg no AREsp 1.825.104/MG, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 14/12/2021, DJe 17/12/2021; grifamos)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
