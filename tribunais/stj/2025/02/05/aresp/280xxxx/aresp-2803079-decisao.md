@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por WALLAS PEREIRA SANTOS, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consoante se extrai dos autos, o juízo de primeiro grau indeferiu o pedido de extinção da pena de multa, em razão da alegada hipossuficiência do condenado, o que foi mantido pelo Tribunal de origem (fls. 192-202).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação do 927, inciso III, do Código de Processo Civil, pois o eg. Tribunal de origem teria decidido de forma divergente daquela estabelecida no Tema 931 do STJ, julgado sob a sistemática dos recursos repetitivos.
+Apresentadas as contrarrazões (fls. 226-234), sobreveio juízo negativo de admissibilidade fundado: i) na deficiência de fundamentação nos moldes do artigo 1.029 do Código de Processo Civil; e ii) na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório (fls. 237-239).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 244-247).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 276-277).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da ausência de fundamentação, nos termos do artigo 1.029 do Código de Processo Civil, bem como em virtude da aplicação da Súmula 7/STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+A decisão de admissibilidade do recurso especial encontra-se fundamentada no fato de que o insurgente não impugnou todos os argumentos do aresto a quo. Nesse ponto, verifico que a parte informa apenas que a peça está devidamente fundamentada e que foram preenchidos os requisitos legais.
+Não obstante, deveria a parte ter esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, comprovando, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo .
+Outrossim, com relação ao óbice da Súmula 7/STJ, em síntese, a parte limitou-se a afirmar que "não há necessidade de valoração de provas para a análise do presente recurso especial, sendo possível a verificação do dispositivo legal violado pela mera leitura do acórdão, tendo como fundamento as premissas estabelecidas nas peças e na decisão impugnada." (fl. 246).
+Contudo, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
