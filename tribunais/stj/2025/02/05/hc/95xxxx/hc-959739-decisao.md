@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  liminar,  impetrado  em  favor  de  LUIS ANTONIO ALVES DE SOUZA,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA,  na  Revisão  Criminal  n.  8055782-98.2024.8.05.0000, assim ementada (fls. 10/11):
+REVISÃO CRIMINAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. CONTRARIEDADE A TEXTO DE LEI. REFORMA DA DOSIMETRIA. EXCLUSÃO DAS CIRCUNSTÂNCIAS JUDICIAIS RELATIVAS À CONDUTA DO RÉU E À MOTIVAÇÃO DO CRIME. NEGATIVAÇÃO DOS VETORES FUNDAMENTADA CONCRETAMENTE. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. PROCEDÊNCIA. ACUSADO QUE CONFESSOU NA FASE EXTRAJUDICIAL E JUDICIAL. COMPENSAÇÃO COM A AGRAVANTE APLICADA. REVISÃO CRIMINAL CONHECIDA E PARCIALMENTE PROCEDENTE.
+A reavaliação da dosimetria em sede de revisão criminal, é prática permitida, mas excepcional, justificável quando existem circunstâncias que determinem ou autorizem a diminuição da pena.
+A confissão utilizada como elemento de convicção para embasar a condenação deve ser reconhecida como atenuante e, por integrar o conceito de personalidade do agente, pode ser compensada com a agravante da reincidência.
+Consta  dos  autos  que  o  paciente  foi  condenado  às penas de 02 (dois) anos e 06 (seis) meses de reclusão e 15 (quinze) dias-multa, sendo fixado o regime inicial aberto, como incurso no art. 297, caput, do Código Penal.
+O  Tribunal  de  origem  deu parcial provimento à revisão criminal apresentada pela Defesa, a fim de reduzir as sanções para 02 (dois) anos e 02 (dois) meses de reclusão e 12 (doze) dias-multa.
+Neste  writ,  a  impetrante  postula  a  concessão  da  ordem  de  habeas  corpus  a  fim  de  que  seja afastada a valoração negativa dos vetores da conduta social e dos motivos do crime.
+Informações  prestadas  às  fls.  66/67  e  79/81.
+O  Ministério  Público  Federal  opinou  pela denegação da ordem  (fls.  83/85).
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  visto  que,  de  acordo  com  o  entendimento  consolidado  do  Superior  Tribunal  de  Justiça,
+a  dosimetria  da  pena  insere-se  dentro  de  um  Juízo  de  discricionariedade  do  julgador,  atrelado  às  particularidades  fáticas  do  caso  concreto  e  subjetivas  do  agente,  somente  passível  de  revisão  por  esta  Corte  no  caso  de  inobservância  dos  parâmetros  legais  ou  de  flagrante  desproporcionalidade  (AgRg  no  HC  n.  710.060/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  14/12/2021,  DJe  de  17/12/2021).
+No caso, o Tribunal de origem manteve a valoração negativa das circunstâncias judiciais concernentes à conduta social e aos motivos do crime, com base nas razões a seguir transcritas (fls. 14/15):
+A despeito da fundamentação sucinta apresentada pela Magistrada, a valoração negativa atribuída ao vetor da conduta do Réu merece ser mantida, uma vez que a sua predisposição para práticas delituosas pode ser extraída do fato dele ter sido flagrado na prática de um novo crime, quando estava foragido da justiça pela prática de outro crime pelo qual havia sido condenado, de modo a autorizar o recrudescimento da pena-base por essa vetorial.
+No tocante à vetorial relativa aos motivos do crime, ela deve ser mantida, visto que o acusado providenciou a falsificação do seu documento de identidade a fim de manter a sua condição de foragido, manifestando o intuito de frustrar a aplicação da lei penal, o que constitui fundamento válido para exasperação da pena-base.
+Assim, mantidas as circunstâncias judiciais negativadas, não há alterações quanto à pena-base fixada pela Juíza Sentenciante.
+Na situação destes autos, entendo que a exasperação da pena-base em razão da negativação da conduta social está, de fato, fundamentada, tendo em vista que acusado, enquanto foragido da Justiça, praticou novo crime, o que revela a sua má conduta social
+No ponto,  a  jurisprudência  desta  Corte  Superior  firmou-se  no  sentido  de  que
+ a  prática de novo delito durante o cumprimento de pena por outra condenação constitui fundamento idôneo para a valoração negativa da conduta social, porquanto revela nítida insubordinação à lei penal e não se confunde com o desvalor dos antecedentes (AgRg no REsp n. 2.133.007/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/11/2024, DJe de 6/11/2024).
+Ilustrativamente:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO. CONDUTA SOCIAL. IDONEIDADE. NOVO CRIME DURANTE PENA PRÉVIA. APOSIÇÃO DE ARMA DE FOGO CONTRA CORPO DA VÍTIMA. INCIDÊNCIA CUMULATIVA DAS MAJORANTES DO ROUBO. AUSÊNCIA DE NOVOS ARGUMENTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de manifestação da instância antecedente sobre tese defensiva que não foi objeto da apelação inviabiliza o seu conhecimento em recurso especial, até porque não foram opostos embargos de declaração na origem para demandar manifestação expressa sobre o tema.
+2. A prática de novo crime durante cumprimento de reprimenda prévia justifica a exasperação da pena-base por meio da valoração negativa da conduta social.
+3. A aposição direta de arma de fogo contra o corpo da vítima (rente ao rosto) expõe a maior perigo o bem jurídico tutelado, de maneira a autorizar a incidência cumulativa das frações de aumento relativas às majorantes do roubo.
+4. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada em tais pontos.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.616.563/TO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024).
+Outrossim, demonstrada a superior reprovação da circunstância judicial dos motivos do crime com elementos concretos que extrapolam o tipo penal, dentro da discricionariedade do julgador, não vislumbro flagrante ilegalidade.
+Por fim, para se concluir de maneira diversa, a fim de acolher a pretensão defensiva de que - não havia indícios de que foi usado ou que seria para uso para se manter foragido (fl. 7)-, seria necessário proceder ao revolvimento das provas produzidas nos autos, o que não se mostra cabível na estreita via do habeas corpus.
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
