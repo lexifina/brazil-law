@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por Miguel Vaccaro Junior contra o acórdão do Tribunal de Justiça de São Paulo que negou provimento ao Agravo Regimental no HC n. 2148133-47.2023.8.26.0000. Eis a ementa (fl. 418):
+Agravo Regimental contra decisão monocrática que não conheceu do Habeas Corpus - Impetração contra decisão que recebeu denúncia - Pretensão de desclassificação da conduta do art. 304, para o art. 301, parágrafo 1º., ambos do Código Penal" - Momento inadequado para análise de uma possível desclassificação - Matéria não afronta o direito de ir e vir.
+Agravo não provido.
+Consta dos autos que o recorrente foi denunciado por ter utilizado documento falso, tipificado nos arts. 298 e 304 do Código Penal, consistente em um receituário médico falsificado. A defesa sustenta, em síntese, que a conduta do recorrente deveria ser desclassificada para o crime previsto no art. 301, § 1º, do Código Penal, em razão do princípio da especialidade, e, por consequência, reconhecida a prescrição da pretensão punitiva estatal.
+O Tribunal de origem não conheceu da impetração, sob o fundamento de que a pretensão de analisar possível desclassificação da conduta não é possível por meio do writ, que é destinado para quem estiver sofrendo ou na iminência de sofrer violência ou coação ilegal na sua liberdade ir e vir (fls. 230/231). Interposto agravo regimental, que foi desprovido (fls. 417/421).
+No presente recurso, a defesa reitera os argumentos expendidos na impetração original, alegando constrangimento ilegal decorrente da subsunção equivocada do fato à norma penal.
+Requer, em liminar, a suspensão da ação penal e, no mérito, a concessão deste recurso ordinário em habeas corpus, com a consequente desclassificação da conduta para o art. 301, § 1º, na forma do art. 304, ambos do CP (fl. 266).
+Em 23/10/2023, indeferi o pedido liminar (fls. 441/443).
+O Ministério Público Federal, às fls. 449/453, opinou pelo não provimento do recurso.
+É o relatório.
+O habeas corpus constitui remédio constitucional voltado à proteção do direito de locomoção, sendo cabível em situações nas quais se verifica evidente o constrangimento ilegal imposto ao paciente. No entanto, a jurisprudência desta Corte é firme no sentido da inadequação da via eleita para a análise de questões que demandem dilação probatória, salvo quando demonstrada, de plano, a ilegalidade flagrante.
+No caso concreto, a defesa sustenta que o tipo penal aplicável à conduta do recorrente deveria ser o art. 301, § 1º, do Código Penal, sob o argumento de que o documento falsificado se tratava de receituário médico, o que atrairia a incidência da norma especial em detrimento da norma geral (art. 298 do CP).
+Entretanto, conforme bem ponderado pelo Tribunal de origem, a definição do tipo penal adequado à conduta imputada ao recorrente demanda exame aprofundado do acervo probatório, a fim de verificar se, de fato, o documento utilizado pelo recorrente se enquadra na hipótese de falsidade de atestado ou certidão. Tal análise extrapola os estreitos limites do habeas corpus, ou do recurso em habeas corpus, que não admite dilação probatória.
+Ademais, a tipificação jurídica do fato é matéria afeta à instrução criminal, sendo passível de modificação até a prolação da sentença, nos termos do art. 383 do Código de Processo Penal. Logo, eventual desclassificação poderá ser apreciada pelo juízo competente no momento adequado, não se evidenciando, por ora, manifesta ilegalidade na capitulação dada ao delito pelo Ministério Público estadual.
+Por fim, consoante consignado na decisão de fls. 441/444, eventual emendatio libelli decorrente da instrução probatória não prejudica a posterior aplicação das medidas despenalizadoras da Lei n. 9.099/1995. Nesse sentido, confira-se o teor da Súmula 337/STJ: é cabível a suspensão condicional do processo na desclassificação do crime e na procedência parcial da pretensão punitiva (AgRg no RMS n. 65.281/PA, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/5/2021).
+Não há, pois, flagrante ilegalidade a ser reparada nesta via.
+Diante do exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. USO DE DOCUMENTO FALSO (ARTS. 298 E 304 DO CP). PRETENSÃO DE DESCLASSIFICAÇÃO PARA O ART. 301, § 1º, DO CP. VIA INADEQUADA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. TIPIFICAÇÃO JURÍDICA SUJEITA A MODIFICAÇÃO DURANTE A INSTRUÇÃO PROCESSUAL. EVENTUAL EMENDATIO LIBELLI NÃO PREJUDICA APLICAÇÃO DE MEDIDAS DESPENALIZADORAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
