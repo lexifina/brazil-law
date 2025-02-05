@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de JOEL MARQUES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO no Agravo em Execução n. 5012838-51.2024.8.08.0000.
+Consta dos autos que o paciente cumpre pena em regime semiaberto, com autorização para trabalho externo e, em 09 de novembro de 2023, foi flagrado na posse de aparelho celular na rodoviária de Guarapari/ES, quando retornava do trabalho para a unidade prisional.
+Foi instaurado o PAD nº 444/2023 e o Juízo das Execuções Penais homologou a falta grave, mas deixou de determinar a regressão de regime, apenas estabelecendo a interrupção do prazo para benefícios e a perda parcial dos dias remidos.
+O Ministério Público interpôs Agravo em Execução, tendo a 2ª Câmara Criminal do TJES dado provimento ao recurso para determinar a regressão do regime prisional do paciente.
+Neste writ, o impetrante aponta que o uso de aparelho celular durante trabalho externo não configura falta. Sustenta que a regressão do regime não preserva o processo ressocializador.
+Requer, liminarmente e no mérito, a concessão da ordem para: A) Liminarmente, a suspensão dos efeitos do acórdão que determinou a regressão de regime, mantendo o paciente no regime semiaberto até julgamento final deste writ; B) No mérito, a concessão da ordem para afastar o reconhecimento da falta grave, com base na atual jurisprudência desta Corte, anulando todos seus efeitos. B) Subsidiariamente, a concessão da ordem para afastar apenas a regressão de regime, mantendo as demais sanções aplicadas pela VEP (interrupção do prazo e perda parcial dos dias remidos) (e-STJ fl. 14).
+Liminar indeferida e requisitada informações (e-STJ fls. 85/86).
+Manifestação do Ministério Público Federal pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (e-STJ fls. 104/108).
+É o relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020, e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidad e  a  justificar  a  concessão  do  habeas  corpus,  de  ofício,  nos  termos  dos  arts.  647-A  e  654,  §  2º,  do  Código  de  Processo  Penal.
+O Tribunal a quo, deu provimento ao recurso ministerial, em acórdão assim ementado (e-STJ fl. 59 - grifamos):
+EMENTA: AGRAVO EM EXECUÇÃO PENAL - USO DEAPARELHO CELULAR EM TRABALHO EXTERNO - FALTAGRAVE APURADA E DECLARADA COM JURIDICIDADE - REGRESSÃO DO REGIME DE CUMPRIMENTO DE PENAQUE SE IMPÕE - RECURSO CONHECIDO E PROVIDO.
+1. Dos autos se extraem as seguintes conclusões:
+A. O uso de aparelho celular no caso concreto constitui realmente falta grave;
+B. Não se discute o reconhecimento da falta grave no caso concreto;
+C. A falta grave durante a execução de pena privativa de liberdade gera um juízo de reprovabilidade intenso, exigindo, deste modo, uma resposta proporcional do Estado, e a regressão se revela apta para tal finalidade;
+D. Evidenciada a falta grave, a regressão do regime de pena se revela efetivamente obrigatório, em virtude de lei (art.118, I da LEP);
+E. Consoante a jurisprudência do Superior Tribunal de Justiça, "o cometimento de falta grave no cumprimento da execução penal tem como consequência a regressão de regime, não havendo ilegalidade na sua fixação para forma mais gravosa do que a fixada no édito condenatório, sem importar em afronta ao instituto da coisa julgada. (HC n.305.685/RS, Rel. Ministro Jorge Mussi, 5ª T., DJe 3/5/2016 -AgRg no REsp 1778649 / PA, Ministro RIBEIRO DANTAS, julgado em 18/02/2020, DJe 28/02/2020).
+De início, saliento que a matéria do acórdão impugnado, tendo como agravante o Ministério Público Estadual, restringe-se a regressão de regime diante do reconhecimento da falta grave.
+Nesse sentido, a tese de que a posse de aparelho celular durante o trabalho externo não configura falta grave, não foi objeto de análise pelo Tribunal de origem, assim, impossível a análise inaugural do tema perante esta Corte Superior, sob pena de inadmissível supressão de instância.
+Por sua vez, A jurisprudência do Superior Tribunal de Justiça vem adotando a orientação de que o art. 118, inciso I, da Lei de Execução Penal, estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 do normativo em referência (AgRg no REsp 1575529/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2016, DJe 17/06/2016) (AgRg no REsp n. 1.672.666/MS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/3/2018).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. FALTA GRAVE. DESCUMPRIMENTO DAS CONDIÇÕES DO REGIME ABERTO. REGRESSÃO DE REGIME. POSSIBILIDADE. AGRAVO QUE SE LIMITOU A DISCORRER SOBRE A POSSIBILIDADE DE UTILIZAÇÃO DO HC COMO SUBSTITUTIVO RECURSAL. INADMISSIBILIDADE. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Esta Corte entende que, de acordo com art. 50, V, da Lei de Execuções Penais, o descumprimento das condições fixadas em regime aberto, mesmo se em gozo de uma prisão domiciliar ou em exercício legítimo do trabalho externo, constitui infração disciplinar de natureza grave. Precedentes.
+III - Este Superior Tribunal de Justiça já firmou o entendimento de que, quando for praticada a falta grave pelo sentenciado, é cabível a regressão cautelar do regime prisional, inclusive sem a oitiva prévia do condenado, que somente é exigida na regressão definitiva ao regime mais severo. Precedentes.
+IV - O cometimento de falta grave pelo apenado, por si só, quando praticado no curso da execução da pena, autoriza a regressão de regime prisional em relação ao que anteriormente se encontrava, inclusive, para qualquer dos regimes, sem que configure qualquer desproporcionalidade, em consonância com o art. 118, caput e inciso I, da Lei de Execução Penal. Precedentes.
+V - A desconstituição da premissa de que a conduta do agravante constitui falta grave demandaria aprofundada dilação probatória, totalmente incompatível com a via eleita. Precedentes.
+VI - No mais, o presente agravo limitou-se a discorrer sobre a possibilidade da utilização do habeas corpus como sucedâneo recursal, caso em que tem aplicabilidade o disposto no enunciado da Súmula n. 182, STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 802.006/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024 - grifamos)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
