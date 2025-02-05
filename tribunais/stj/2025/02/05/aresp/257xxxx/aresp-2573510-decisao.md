@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSÉ EDSON BASTOS ESTEVAM TEIXEIRA e FERNANDA NUNES DE SOUZA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 350):
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - INTERESSE DE AGIR - BINÔMIO NECESSIDADE/ADEQUAÇÃO - AUSÊNCIA - SÓCIOS-QUOTISTAS - INTIMAÇÃO PESSOAL PARA ADIMPLEMENTO DA DÍVIDA - NÃO CONSTATAÇÃO - INTIMAÇÃO DA PESSOA JURÍDICA NA PESSOA DE SEUS REPRESENTANTES LEGAIS - CABIMENTO - PERIGO DE CONSTRIÇÃO DE BENS DE TERCEIROS - AUSÊNCIA. O interesse de agir se consubstancia na verificação do binômio necessidade/adequação, de modo que o provimento jurisdicional deve se afigurar necessário à solução da crise de direito material submetida a juízo e o acesso às vias judiciais deve ser útil para a prestação jurisdicional que se pleiteia. Carecem de interesse de agir para o ajuizamento de embargos de terceiros os sócios por meio dos quais a pessoa jurídica foi intimada para adimplemento da dívida. Não havendo qualquer menção à constrição de bens dos sócios na decisão que determinou a intimação da pessoa jurídica na pessoa de seus representantes legais, revela-se impossível que a sentença dos embargos de terceiro se preste a desconstituir a obrigação inexistente de responsabilização dos sócios pelo pagamento do débito. A simples intimação da pessoa jurídica na pessoa de seus representantes legais não se confunde com a intimação pessoal dos sócios para adimplemento da dívida, situação que demanda a instauração do procedimento de desconsideração da personalidade jurídica.
+Embargos de declaração rejeitados (fl. 385):
+EMBARGOS DE DECLARAÇÃO. HIPÓTESE DE OMISSÃO NÃO IDENTIFICADA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS. Os embargos de declaração constituem recurso de âmbito discursivo restrito à expurgação de erro material, omissão, obscuridade ou contradição na decisão, conforme artigos 1.022 e 1.023 do CPC/15. No que tange à omissão justificadora do acolhimento dos embargos, não se trata daquela decorrente da inobservância de prova, regra ou jurisprudência tendentes à concretização do interesse do embargante, mas sim daquela que decorre da sonegação de parte ou do todo da prestação jurisdicional vindicada ao julgador competente. Não constatados erro, obscuridade, omissão e/ou contradição sanáveis, revestindo-se a pretensão de um propósito de rediscussão de tema ou temas já enfrentados pela decisão, a rejeição dos embargos de declaração constitui medida impositiva.
+No recurso especial, a parte recorrente alega violação dos arts.3º, 17, 239, 485 e 674, do Código de Processo Civil.
+Sustenta que:
+O legislador, ao admitir expressamente o comparecimento espontâneo do réu/executado no artigo 239, §1º, reconhece que esta mera condição em que tal pessoa se encontra já lhe confere o interesse processual necessário à tutela de seus direitos, por considerar o risco de lesão à direitos ou patrimônio que um pedido em seu desfavor lhe causa.
+Se alguém é réu ou executado, e pode comparecer espontaneamente nos autos, na forma do artigo 239, §1º do CPC, não é por outra razão senão ostentar o interesse de agir previsto no artigo 17 do CPC. (fl. 408)
+Aduz que (fl. 409):
+Ao julgar a questão acima, em sede embargos de declaração rejeitou a alegação de que a PRETENSÃO RESISTIDA ENCERRA O INTERESSE DE AGIR, sustentada, nas razões, à luz do RE nº 631.240/MG e de outras jurisprudências pátrias
+Foram oferecidas contrarrazões ao recurso especial (fls. 425-432).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 437-438), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 467-475).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+DO INTERESSE DE AGIR
+Quanto à alegada existência do interesse de agir, assim decidiu o Tribunal de origem:
+O interesse de agir se consubstancia na verificação do binômio necessidade/adequação, de modo que o provimento jurisdicional deve se afigurar necessário à solução da crise de direito material submetida a juízo e o acesso às vias judiciais deve ser útil para a prestação jurisdicional que se pleiteia. Carecem de interesse de agir para o ajuizamento de embargos de terceiros os sócios por meio dos quais a pessoa jurídica foi intimada para adimplemento da dívida. Não havendo qualquer menção à constrição de bens dos sócios na decisão que determinou a intimação da pessoa jurídica na pessoa de seus representantes legais, revela-se impossível que a sentença dos embargos de terceiro se preste a desconstituir a obrigação inexistente de responsabilização dos sócios pelo pagamento do débito. A simples intimação da pessoa jurídica na pessoa de seus representantes legais não se confunde com a intimação pessoal dos sócios para adimplemento da dívida, situação que demanda a instauração do procedimento de desconsideração da personalidade jurídica. (fl. 350)
+Assim rever o entendimento quanto à existência/inexistência de interesse de agir, demandaria revisão de matéria fático-probatória, vedada em sede de recurso especial.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EXIBIÇÃO DE DOCUMENTOS. FALÊNCIA. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial, mantendo decisão que inadmitiu o recurso especial por ausência de violação ao artigo 489, §1º, do CPC e incidência da Súmula n. 7/STJ.
+2. Ação cautelar de exibição de documentos proposta pela massa falida de locadora de veículos contra a empresa ré, com sentença de procedência determinando a exibição dos documentos.
+3. A ré alegou ausência de interesse processual e necessidade de aditamento da petição inicial, argumentando que os documentos poderiam ser obtidos administrativamente. II. QUESTÃO EM DISCUSSÃO
+4. A questão consiste em saber se há necessidade de aditamento da petição inicial e se há interesse processual na ação de exibição de documentos, considerando a possibilidade de obtê-los por outros meios.
+5. A questão também envolve a análise da incidência da Súmula n. 7 do STJ quanto à revisão de matéria fático-probatória. III. RAZÕES DE DECIDIR
+6. O acórdão recorrido pronunciou-se de forma clara e suficiente sobre as questões suscitadas, não havendo violação dos artigos 489, § 1º, e 1.022 do CPC.
+7. A Corte de origem entendeu que o pedido de exibição de documentos foi apresentado como incidente nos autos principais da falência, não havendo necessidade de aditamento da petição inicial.
+8. A resistência da ré ao pedido justifica a via judicial, não sendo necessário o pedido administrativo prévio.
+9. A revisão das conclusões demandaria reexame de provas, o que é vedado pela Súmula n. 7 do STJ. IV. DISPOSITIVO E TESE
+10. Agravo desprovido.
+Tese de julgamento: "1. Não há necessidade de aditamento da petição inicial em pedido de exibição de documentos apresentado como incidente em processo de falência. 2. A resistência ao pedido de exibição de documentos justifica a via judicial. 3. A revisão de matéria fático-probatória é vedada em sede de recurso especial, conforme Súmula n. 7 do STJ."
+Dispositivos relevantes citados: CPC/2015, arts. 303, § 1º; 489, § 1º; 1.022.
+(AgInt no AREsp n. 2.494.083/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/11/2024, DJe de 29/11/2024.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. ALEGAÇÃO DE INÉPCIA DA INICIAL E DE FALTA DE INTERESSE DE AGIR. NÃO CONFIGURADAS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ. LEGITIMIDADE DOS SÓCIOS DE EXIGIREM CONTAS DOS ADMINISTRADORES DA SOCIEDADE.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. "O sócio-administrador tem obrigação de prestar contas aos demais sócios do período em que administrou a sociedade empresária" (AgInt no AREsp n. 1.551.175/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31.8.2020, DJe de 3.9.2020).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.544.107/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALIENAÇÃO JUDICIAL. COISA COMUM. ALUGUERES. LEGITIMIDADE ATIVA. CONFIGURAÇÃO. BINÔMIO NECESSIDADE-UTILIDADE. AFASTAMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INDIVISIBILIDADE DA COISA. COMPOSSE. INEXISTÊNCIA VERIFICADA. IMÓVEIS INDIVISÍVEIS. DIREITOS ECONÔMICOS. ALIENAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça é permitida a alienação dos direitos econômicos sobre imóveis indivisíveis, assegurando a cada parte o recebimento do que lhe é devido, inclusive o pagamento de aluguéis por quem possui a posse exclusiva do imóvel, superando o impedimento da falta de regularização para a adoção dessas medidas.
+2. O recurso especial é inviável quando o acórdão recorrido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça.
+3. Na hipótese, rever a conclusão do tribunal local acerca das peculiaridades fáticas que evidenciam o interesse de agir e a legitimidade ativa para o processo, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.565.089/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE JUSTIFICADO. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE INTERESSE DE AGIR. EXISTÊNCIA DE AÇÃO REVISIONAL DE ALUGUEL COM TRÂNSIGO EM JULGADO. SÚMULAS 7 E 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento da segunda instância, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. O acordão concluiu que não havia interesse de agir para esta ação de cobrança de aluguéis, tendo em vista já existir decisão deferindo demanda envolvendo revisional de aluguéis com trânsito em julgado. O pleito em questão poderia ser resolvido naquele processo, haja vista que o § 2º do art. 69 da Lei n. 8.245/1991 não restringiria o cumprimento de sentença apenas às diferenças apuradas na ação revisional. Súmula 7/STJ.
+3. Consoante o entendimento desta Corte Superior, é lícito ao locador executar as diferenças de aluguéis nos próprios autos da ação revisional transitada em julgado. Verbete sumular n. 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.013.140/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15%, sobre o valor atualizado da da causa , observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DE TERCEIROS. AUSÊNCIA DE INTRESSE DE AGIR. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
