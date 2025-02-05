@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MARGARETE GONCALVES MEIRA, com fundamento na incidência  da Súmula  7/STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois pretende a revaloração das provas, e não seu reexame.
+Sustenta, em suma, a vulneração dos arts. 57, caput e §3º, da Lei 8.213/1991 e 369, do CPC, alegando, em resumo, que a prova pericial constatou que a atividade exercida pela recorrente é insalubre.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+De início, verifica-se que a irresignação da recorrente acerca da demonstração de que a atividade é insalubre dando ensejo à concessão da aposentadoria especial, v ai de encontro às convicções do Tribunal de origem, que, com lastro no conjunto probatório constante dos autos, decidiu que a atividade exercida por babá de creche não importa em exposição a agente nocivo.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula 7/STJ.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. PEDIDO DE COMPLEMENTAÇÃO DE PROVA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. APOSENTADORIA ESPECIAL. ACÓRDÃO RECORRIDO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA INEXISTÊNCIA DE REQUISITOS PARA A SUA CONCESSÃO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 05/04/2017, que, por sua vez, julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Tendo o Tribunal de origem firmado a premissa de que "o documento apresentado é hábil à comprovação das condições de trabalho desenvolvidas pelo demandante e, o fato das conclusões ali expostas estarem em desacordo com o interesse da parte, não demanda a necessidade de produção de outras provas, sendo os documentos constantes do processo, hábeis a sua conclusão", não há falar, no caso, em cerceamento de defesa, por não Frealização da perícia, pois o Juiz é livre para apreciar as provas produzidas, bem como para decidir quanto à necessidade de produção ou não das que forem requeridas pelas partes, sendo-lhe ícito indeferir, motivadamente, as diligências que reputar inúteis ou protelatórias. Na linha dos precedentes desta Corte a respeito da matéria, "considerando o princípio do livre convencimento motivado, cabe ao magistrado valorar a necessidade de complementação do material probatório" (STJ, R Esp 1.653.654/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/04/2017).
+III. Tendo em conta a fundamentação adotada, o acórdão recorrido - que, à luz das provas dos autos, concluiu pela inexistência dos requisitos para a concessão da aposentadoria especial - somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+IV. Agravo interno improvido (AgInt no R Esp n. 1.528.296/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 19/9/2017, DJe de 28/9/2017).
+Ademais, não é possível conhecer da alega divergência jurisprudencial, pois a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA RÉ.
+1. Violação aos artigos 489 e 1.022 do CPC não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão ou obscuridade. Precedentes.
+2. Rever a conclusão do Tribunal de origem no sentido de que ficaram configurados os danos morais, em razão da espera excessiva e recorrente nas filas de banco, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ. 2.1. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+3. A incidência do referido enunciado sumular prejudica a análise do dissídio jurisprudencial alegado. Precedentes.
+4. Agravo interno desprovido (AgInt no AR Esp n. 2.061.945/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, D Je de 3/10/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a , do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
