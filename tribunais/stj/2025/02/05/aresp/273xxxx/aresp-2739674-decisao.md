@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ESTADO DA PARAÍBA, com fundamento na incidência  da Súmula  7 do STJ e, por analogia, da Súmula 282 do STF.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou os arts. 373, I, e §1º, do CPC.
+Assevera, ainda, que matéria em, discussão foi devidamente prequestionada, bem como aduz que não se busca valoração ou revaloração da prova, mas a distribuição de seu ônus em conformidade com o art. 373, I, CPC.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+De início, extrai-se dos autos que o Ente estadual agravante busca, em síntese, a reforma do acórdão recorrido, sob o fundamento de que a dinamização excepcional do ônus da prova somente pode ser determinada pelo juiz em decisão fundamentada, levando em consideração os motivos pelos quais a produção de provas poderia ser realizada com mais facilidade pela Administração Pública.
+Para tanto, sustenta que estando o acesso à documentação em questão assegurada pelo art. 41 da LEF, e não tendo a parte demonstrado que o acesso a documentação lhe fora negado, não haveria razões para a inversão do ônus da prova.
+Nesse cenário, vislumbra-se que para o Tribunal de origem chegar à conclusão acerca da inversão do ônus da prova, fez-se imperiosa a análise dos documentos que instruem os autos de origem e que comprovam a inatividade da empresa agravante durante o período de verificação de sua atividade preponderante (fls. 46-52).
+ ..  Extrai-se dos autos que a Autora, ora Agravada, apesar de estar inclusa tanto no auto de infração quanto na CDA que instrui o feito executivo, não foi notificada durante o trâmite do Processo Administrativo, onde tão somente a pessoa jurídica foi devidamente cientificada da existência do Tributário (PAT) referido procedimento tributário.
+A Promovente peticionou no feito principal, requerendo que o Estado da Paraíba apresentasse nos autos cópia do PAT referente à CDA n. 010003620170357, o qual foi deferido pelo Magistrado a quo.
+ ..  Desta feita, segundo o Princípio da distribuição dinâmica da prova, é possível que o julgador, diante do caso concreto, ante a impossibilidade ou a excessiva dificuldade de cumprir o encargo imposto às partes, atribua o ônus da prova àquele que possua melhores condições de produzi-la.
+ ..  No caso em exame, à primeira vista, alio-me a corrente no sentido de que, exonerando-se a parte autora de seu ônus "probandi" de comprovar a ausência de notificação para responder ao PAT, compete ao Estado da Paraíba desconstituir o direito aduzido na peça de ingresso, mediante a juntada de cópia do PAT referente à CDA n. 010003620170357.
+É certo que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim sendo, observa-se que a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência das Súmula 7 do STJ.
+Em situações análogas, este Tribunal Superior já decidiu:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. INVERSÃO DO ÔNUS DA PROVA. MATÉRIA FÁTICA. SÚMULA 7 DO STJ. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULAS 283 E 284 DO STJ.
+1. Na origem, trata-se de saber se a recorrida, Companhia de Trens Metropolitanos de São Paulo - METRÔ, possui direito à imunidade tributária recíproca.
+ ..  3. No que concerne à alegada afronta ao art. 1.022 do CPC, a insurgência não merece prosperar, porque o acórdão recorrido examinou a controvérsia referente à inversão do ônus da prova, fundamentando suficientemente sua convicção, não havendo falar em negativa de prestação jurisdicional porque inocorrente qualquer dos vícios previstos no referido dispositivo legal. Os Embargos de Declaração não se destinam ao reexame de satisfatória prestação jurisdicional.
+4. O STJ tem entendimento consolidado de que a distribuição do ônus probatório pelas instâncias ordinárias é matéria estritamente fático-probatória, a atrair a incidência da Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 1.867.210/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/9/2021, DJe de 13/10/2021. - grifo nosso).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC. OMISSÃO NÃO CONFIGURADA. CONTRIBUIÇÃO AO SESI. CELEBRAÇÃO DE CONVÊNIO PARA ARRECADAÇÃO DIRETA E PRESTAÇÃO DE SE RVIÇOS ASSISTENCIAIS. AÇÃO DE COBRANÇA. POSSIBILIDADE. PRESCRIÇÃO RECONHECIDA. ART. 174 DO CTN. POSSIBILIDADE. IMPUGNAÇÃO DO VALOR DA DÍVIDA. COMPROVAÇÃO. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..  6. A alteração das conclusões adotadas pela Corte de origem, quanto à comprovação do valor da dívida cobrada e à inversão do ônus da prova, implica, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, por esbarrar no óbice da Súmula 7/STJ.
+ ..  Recurso especial conhecido em parte e improvido (REsp n. 1.272.229/SC, relator Ministro Humberto Martins, Segunda Turma, julgado em 5/4/2016, DJe de 13/4/2016. - grifo nosso).
+Em vista disso: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágraf o único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
