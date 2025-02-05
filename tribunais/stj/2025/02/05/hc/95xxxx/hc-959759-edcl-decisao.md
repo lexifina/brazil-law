@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, embargos de declaração opostos por JOAQUIM PEDRO DE MORAIS FILHO contra a decisão de fls. 9-10, por meio da qual o habeas corpus impetrando pelo ora recorrente foi indeferido liminarmente.
+O embargante sustenta, em síntese, que a decisão apresenta flagrante omissão ao não abordar a relevância constitucional do direito à proteção de dados pessoais, ignorando que o projeto Drex, ao utilizar APIs estrangeiras para gestão de dados financeiros, colide diretamente com os princípios da soberania nacional (art. 1º, I, CF), da inviolabilidade da intimidade e da vida privada (art. 5º, X, CF), e da necessidade de tratamento de dados conforme a legislação brasileira (art. 5º, XII, CF).
+Argumenta desrespeito às garantias fundamentais previstas na Constituição Federal e que a decisão proferida demonstra um claro descompasso com os princípios constitucionais que regem a República Federativa do Brasil. Reitera os argumentos da exordial e pede o acolhimento dos embargos de declaração.
+Resposta aos embargos às fls. 48-51.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes deduzido na minuta e na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios devem ser limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou a inadequação da via do habeas corpus, considerando que o ato impugnado consiste no projeto de moeda digital do Banco Central do Brasil denominada Drex, que se encontra em fase de testes, e que não foi indicada ilegalidade e/ou abuso de poder perpetrado pela autoridade apontada como coatora. A decisão ainda registrou que a pretensão não se direciona à garantia do direito de ir e vir do paciente. Logo, indeferiu liminarmente o habeas corpus.
+Dessa forma, afasto a alegação de omissão sobre as teses meritórias, uma vez que sequer foi demonstrado o cabimento do writ.
+Além disso, é assente a jurisprudência deste Superior Tribunal de Justiça no sentido de que a contradição remediável por embargos de declaração, é aquela interna ao julgado embargado, como ocorre na situação de desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador. Isso quer dizer que o recurso integrativo não se presta a corrigir contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+Nesse sentido: REsp n. 1.400.336/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/5/2023, DJe de 27/6/2023.
+Assim, não há vício formal no decisum.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
