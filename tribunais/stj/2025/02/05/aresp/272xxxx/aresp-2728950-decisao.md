@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por Paulo Gustavo Dias Allao, em face de decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região que inadmitiu o recurso especial com base no seguinte fundamento (fl.870):
+Trata-se de recurso especial interposto por (evento 131) contra o acórdão que negou provimento a seu agravo interno (evento 96), integrado em sede de embargos de declaração (evento 121), que manteve a decisão que havia negado seguimento a recurso especial (evento 71).
+É o relatório. Decido.
+O recurso não deve ser admitido.
+Com efeito, não cabe novo recurso especial ou extraordinário, nem agravo previsto no artigo 1.042, do Código de Processo Civil, contra acórdão proferido em sede de agravo interno que mantém a decisão de negativa de seguimento de anterior recurso especial ou extraordinário, por considerar que o entendimento do acórdão de origem está de acordo com tese firmada em sede de repercussão geral ou de recurso repetitivo.
+Ou seja, em tais hipóteses, não existe qualquer recurso apto a levar a controvérsia, já enfrentada pelas instâncias ordinárias com aplicação da tese firmada, à apreciação dos Tribunais Superiores.
+Neste agravo, a parte agravante, em suas razões, afirma que, "demonstrado que o recurso do Exequente/Agravante veicula uma questão jurídica que não demanda o reexame do conjunto fático-probatório dos autos para sua análise, forçoso concluir pelo equívoco da decisão agravada, que merece, portanto, ser reformada a fim de que seja dado seguimento o recurso especial" (fl. 881).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, deixou o ora agravante de refutar, especificamente, o fundamento da decisão que inadmitiu o recurso especial, qual seja, "não cabe novo recurso especial ou extraordinário nem agravo previsto no artigo 1.042, do Código de Processo Civil, contra acórdão proferido em sede de agravo interno que mantém a decisão de negativa de seguimento de anterior recurso especial ou extraordinário, por considerar que o entendimento do acórdão de origem está de acordo com tese firmada em sede de repercussão geral ou de recurso repetitivo".
+Em outras palavras, não declinou os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto.
+Logo, considerando que a parte agravante não rebateu, de modo específico, o fundamento adotado pela decisão recorrida para negar trânsito ao apelo especial, limitando-se a repisar as razões de mérito do apelo especial, incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se, ainda, que ao contrário do que alega a parte agravante, a decisão agravada sequer mencionou a incidência da Súmula 7/STJ à espécie, o que leva a concluir que as razões estão dissociadas do decisum que não admitiu o recurso especial.
+Por fim, registre-se que essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o AREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro João Otávio de Noronha, Rel. P/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018), na qual se reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
