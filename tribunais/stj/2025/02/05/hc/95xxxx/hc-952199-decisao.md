@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  liminar,  impetrado  em  favor  de  JOSE HOZENILDO CABRAL SANTOS ,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA,  na  Revisão  Criminal  n.  0808280-93.2024.8.15.0000, assim ementada (fls. 13/14):
+REVISÃO CRIMINAL. CRIMES DO 121, §2º, IV E V, E ART. 121, §2º, IV, C/C OS ARTS. 14 E 69, TODOS DO CÓDIGO PENAL. CONDENAÇÃO TRANSITADA EM JULGADA. REQUERIMENTO FULCRADO NO ART. 621, I, DO CPP. DOSIMETRIA. PENA-BASE. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA. INOCORRÊNCIA. UTILIZAÇÃO DE ELEMENTOS CONCRETOS PARA JUSTIFICAR A EXASPERAÇÃO DA REPRIMENDA. OBSERVÂNCIA AOS DITAMES DOS ARTIGO 59 E 68 DO CÓDIGO PENAL. MANUTENÇÃO DA SENTENÇA. PEDIDO REVISIONAL IMPROCEDENTE.
+- A revisão criminal, proposta com fulcro no art. 621, I, do CPP, é admitida excepcionalmente para reexaminar a dosimetria da pena quando constatada manifesta injustiça, contrariedade ao texto legal ou à evidência dos autos ou erro técnico.
+- A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+- No caso em reexame, não existe ilegalidade no tocante à fixação das penas-bases, haja vista o emprego de fundamentação idônea para a valoração das circunstâncias judiciais do art. 59 do Código Penal.
+- Revisão criminal julgada improcedente.
+Consta  dos  autos  que  o  paciente  foi  condenado  às penas de 36 (trinta e seis) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, como incurso no art. 121, § 2º, IV e V, e art. 121, § 2º, IV, c/c os arts. 14 e 69, todos do Código Penal.
+O  Tribunal  de  origem  negou provimento à apelação defensiva, que transitou em julgado na data de 05/10/2022.
+Neste  writ,  o  impetrante  sustenta a ocorrência de constrangimento ilegal, ao argumento de que a pena-base foi fixada de forma exasperada, sem a devida motivação idônea, na aferição desfavorável dos vetores da culpabilidade, conduta social, personalidade, circunstâncias, e comportamento da vítima (fl. 4).
+Requer a concessão da ordem para que a pena do paciente seja redimensionada nos termos delineados na impetração.
+Informações  prestadas  às  fls.  62/68 e 72/95.
+O  Ministério  Público  Federal  opinou  pelo não conhecimento do writ e, no mérito, pela denegação da ordem  (fls.  101/104).
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+No tocante à primeira fase da dosimetria, a Corte de origem, em sede de revisão criminal, consignou (fls. 22/26):
+No caso dos autos, percebe-se que a Câmara Criminal, ao se debruçar sobre o capítulo referente à pena, destacou que o julgador de primeiro grau, de maneira fundamentada, examinou as circunstâncias judiciais do art. 59 do Código Penal, promovendo a exasperação das reprimendas de forma proporcional.
+Quanto à culpabilidade, que é a moduladora referente a maior reprovabilidade da conduta, tenho que esta foi examinada a contento, tendo pontuado a acentuada frieza do agente e também a sua insensibilidade quando das práticas delitivas e que aquele deveria ter adotado uma atitude absolutamente diversa, o que, em meu sentir, se mostra suficiente para se extrair elementos concretos aptos a justificar a exasperação da sanção a ser cominada.
+Noutra banda, em relação à conduta social, constata-se que o julgador também se valeu de fatos concretos para valorar negativamente o citado vetor, enfatizando que as testemunhas ouvidas na instrução destacaram que o réu era conhecido como uma pessoa violenta.
+No tocante à personalidade do agente, em linhas gerais, pode ser definida como o retrato psíquico do réu, sendo prescindível a presença de laudo técnico, devendo, porém, sua análise ser motivada em elementos concretos extraídos dos autos, o que ocorreu no caso em disceptação.
+De fato, no caso em deslinde, a partir do exame dos argumentos lançados na sentença, observa-se o emprego de fundamentação concreta para fins de valoração negativa da vetorial, destacando, a partir de elementos extraído dos autos, o caráter manipulador, ausência de consciência moral e ética e a insensibilidade do réu.
+Outrossim, não há que se falar em fundamentação inidônea em relação às circunstâncias do crime, uma vez que tanto para o homicídio consumado como para o homicídio tentado foram utilizados argumentos concretos, tendo enfatizado que as vítimas estavam desarmadas e, em relação ao delito cometido contra Luís Henrique dos Santos Souza, sublinhou a existência de todo um planejamento para o cometimento do crime.
+Cabe advertir que a jurisprudência do STJ admite que, nas hipóteses de duas circunstâncias qualificadoras do crime, é possível a utilização de uma delas para caracterizar a figura qualificada e a da outra para elevar a pena-base. Veja-se:
+ ..
+Saliente-se, ainda, que a premeditação/planejamento é reconhecido como elemento legítimo para justificar o incremento da pena basilar, confira-se:
+ ..
+Por fim, no que concerne ao comportamento da vítima, tenho que tal vetorial não foi utilizada para fins de incremento das sanções impostas ao requerente, pelo que não há que se falar em decote da citada circunstância judicial.
+De acordo com o entendimento consolidado do Superior Tribunal de Justiça:
+A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Nesse rumo,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  isso porque,  observa-se  que  foi  apresentada  fundamentação  idônea  e  suficiente  para  negativar  a s  referidas  circunstância s  judiciais,  não  havendo  que  se  falar  em  constrangimento  ilegal  apto  a  justificar  a  revisão  da  dosimetria.
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
