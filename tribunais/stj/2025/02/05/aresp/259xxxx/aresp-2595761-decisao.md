@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial da decisão que inadmitiu recurso especial interposto por LUÍS CARLOS DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 378):
+DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DEEMENTA SEGURANÇA. DENEGAÇÃO DA SEGURANÇA. APELAÇÃO CÍVEL. PROCESSO SELETIVO SIMPLIFICADO PARA PROFESSOR DE MATEMÁTICA - ENSINO FUNDAMENTAL ANOS FINAIS E EDUCAÇÃO DE JOVENS E ADULTOS. ALEGAÇÃO DE DESCLASSIFICAÇÃO POR EXIGÊNCIA DE DOCUMENTAÇÃO NÃO PREVISTA NO EDITAL. CANDIDATO QUE NÃO APRESENTOU A CERTIDÃO NEGATIVA DE ANTECEDENTES CRIMINAIS NO ÂMBITO DA JUSTIÇA ESTADUAL. VIOLAÇÃO AO ITEM 11.5 DO EDITAL. APLICAÇÃO DOS PRINCÍPIOS DA ISONOMIA E DA VINCULAÇÃO AO EDITAL. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+Os embargos declaratórios opostos ao referido acórdão foram rejeitados.
+Nas razões do recurso especial inadmitido, o recorrente aponta violação dos arts. 1º, 2º e 3º da Lei 8.159/1991 e 1º e 7º da Lei 13.726/2018, aos seguintes fundamentos: a) "o entendimento da Corte Regional está equivocado, pois acatou um documento que deixa clara a inobservância das formalidades legais e regulamentares aplicáveis para a identificação de documentos públicos" (fl. 432); b) "o documento contido no ID nº 15557577 (fls. 321), apresentado junto com apelação, ainda que obviamente não seja aquele apresentado à época da convocação, atesta que a parte recorrente não possui qualquer antecedente criminal" (fl. 435) e c) "é cabível o pagamento das vantagens relativas à função no período subsequente ao ajuizamento da ação" (fl. 439).
+É o relatório.
+Passo a decidir.
+O Tribunal de origem manteve a denegação da ordem pelas seguintes razões (fls. 380-381):
+Há previsão clara e específica acerca de prazo para a entrega dos documentos e que, na hipótese de o candidato não proceder à entrega tempestiva dos documentos elencados no item 11.5 do edital, seria desclassificado do certame.
+Na leitura do referido item, não há exigência de apresentação do livro de ponto, conforme requereu o ente municipal no momento da admissão, no entanto exige a apresentação de Certidão de Antecedentes Criminais Estadual.
+(..).
+A eventual admissão intempestiva da Certidão Negativa de Antecedentes Criminais Estadual, realizada posteriormente ao prazo previsto no edital para entrega, importaria em violação ao princípio da isonomia, tendo em vista que seria concedido tratamento diferenciado ao impetrante em relação aos demais participantes do certame, sendo certo que a Certidão acostada ao apelo (id. 15557577) está datada de 08/06/2022, e não de meados de Julho/2021, época da apresentação dos documentos à comissão do concurso.
+(..)
+A desclassificação do apelante se deu em razão da não apresentação de documento exigido, expressamente indicado no edital do certame, sendo certo que o ato da Administração observou os princípios da isonomia e da vinculação ao edital.
+(..)
+No que diz respeito ao pedido de pagamento das vantagens inerentes à função a contar do , é certo que também não merece acolhimento, eis que os efeitos financeiros mandamus pressupõem o efetivo exercício da função.
+O acórdão recorrido expressamente pontuou o não atendimento do item 11.5 do Edital, referente à apresentação de Certidão Negativa de Antecedentes Criminais Estadual por parte do recorrente, razão pela qual não merece reparos quanto ao ponto.
+O entendimento do STJ é o de que, as regras editalícias, consideradas em conjunto como verdadeira lei interna do certame, vinculam tanto a Administração como os candidatos participantes. Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA PROVIMENTO DE VAGAS E FORMAÇÃO DE CADASTRO DE RESERVA DO QUADRO DE PESSOAL DA SECRETARIA DE ESTADO DA ADMINISTRAÇÃO, PENITENCIÁRIA E JUSTIÇA, DO ESTADO DE GOIÁS. AGENTE DE SEGURANÇA PRISIONAL. AVALIAÇÃO DE VIDA PREGRESSA. AUSÊNCIA DE APRESENTAÇÃO TEMPESTIVA DE DOCUMENTOS EXIGIDOS NO EDITAL DO CERTAME. DESCUMPRIMENTO DE REGRA EDITALÍCIA. PRINCÍPIO DA VINCULAÇÃO AO EDITAL. EXCLUSÃO DO CERTAME. AUSÊNCIA DE JUSTIFICATIVA PLAUSÍVEL. EXTRAVIO DE DOCUMENTO OCORRIDO HÁ MAIS DE OITO MESES. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PRECEDENTES DO STJ. SEGURANÇA DENEGADA. AGRAVO INTERNO IMPROVIDO.
+(..).
+IV. A jurisprudência dominante nesta Corte Superior é pacífica no sentido de que as regras editalícias, consideradas em conjunto como verdadeira lei interna do certame, vinculam tanto a Administração como os candidatos participantes. De modo que, o concurso público deverá respeitar o princípio da vinculação ao edital e as obrigações dos editais devem ter cumprimento compulsório, em homenagem ao art. 37, caput, da Constituição Federal. (..).
+(..)
+IX. Agravo interno improvido. (AgInt no RMS n. 65.837/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO DEFICIENTE VISUAL. PROVA DE TAL CONDIÇÃO. NECESSIDADE DE LAUDO MÉDICO AUTENTICADO. ÔNUS DO CANDIDATO. PREVISÃO EXPRESSA NO EDITAL. DESCUMPRIMENTO DA EXIGÊNCIA EDITALÍCIA.
+(..).
+3. O Tribunal estadual denegou a segurança sob o seguinte fundamento: "da análise dos autos, observo que o impetrante, de fato, não atendeu ao edital do concurso, especificamente ao item 7.2.1, que traz a necessidade de juntar a fotocópia autenticada do laudo médico".
+4. Assim, o acórdão recorrido não merece reparos, porquanto encontrando-se em sintonia com a jurisprudência dessa Corte superior no sentido de que "o edital normativo representa a lei interna do concurso público, o qual vincula não apenas os candidatos, mas também, a Administração, e estabelece regras destinadas à observância do princípio da igualdade, devendo ambas as partes observarem suas disposições" (AgInt no RMS n. 69.732/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 7/6/2023.).
+5. Agravo interno não provido. (AgInt no RMS n. 65.752/PI, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/10/2023, DJe de 11/10/2023).
+Por fim, resta prejudicada a análise da questão relativa ao pagamento de vantagens pecuniárias retroativamente à impetração do mandamus, na medida em que sequer houve concessão da ordem.
+Isso posto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento. Deixo de fixar honorários recursais, por tratar-se, na origem, de mandado de segurança.
+Intimem-se.
+EMENTA
