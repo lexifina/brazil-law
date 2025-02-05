@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO à execução em mandado de segurança no qual foi concedida a ordem para assegurar o pagamento dos valores retroativos em razão do reconhecimento da condição de anistiado político do exequente.
+A executada apontou a inexigibilidade do título executivo, ante a possibilidade de invalidação da portaria anistiadora.
+Na petição de fl. 1035-1039, a executada informou a anulação da anistia concedida ao exequente, por meio da Portaria nº 1.070, de 16 de agosto de 2024. Pediu, então, a extinção da execução.
+Às fls. 1044-1076, o exequente afirmou que impetrou o Mandado de Segurança 30.516/DF, que tem por objeto a declaração da nulidade da Portaria nº 1.070/2024.
+É o relatório.
+A decisão que se pretende executar consignou, expressamente, que "apenas a efetiva anulação da portaria é que tornaria a ordem mandamental inexigível (inexigível não é inexistente, ressalva-se), questão a ser apreciada em momento posterior, quando da execução da obrigação de fazer, até porque a jurisprudência do STJ consagra entendimento de que os embargos à execução contra a Fazenda Pública podem suscitar causa impeditiva, modificativa ou extintiva da obrigação que ocorra posteriormente à manifestação jurisdicional, como, a toda evidência, será a ocorrência da cogitada anulação." (fl. 563 do MS 15.427/DF).
+Ao contrário do que sustenta a exequente, a invalidação de ato administrativo produz, em regra, efeitos ex tunc, não se confundido com a mera revogação. Improcedente, portanto, a alegação de que ainda tem direito aos valores devidos até a publicação da Portaria nº 1.070, de 16 de agosto de 2024.
+Outrossim, em consulta aos autos do MS 30.516/DF, verifico que o Sr. Ministro Benedito Gonçalves indeferiu a liminar pleiteada pelo exequente, porquanto "a inicial está baseada em argumentação genérica de violação à dignidade da pessoa humana" (fl. 56). Em seguida, o Ministério Público Federal opinou pela denegação da segurança, uma vez que "alegações genéricas de nulidade do ato que o impetrante pretende anular não são suficientes para demonstrar a ocorrência de violação ao direito líquido e certo" (fl. 68).
+Logo, não tendo havido demonstração, por parte da exequente, de que o mais recente ato anulatório tenha sido suspenso ou invalidado por decisão judicial, deve ser acolhida a impugnação do ente público.
+Pelo exposto, julgo procedente a impugnação à execução e extingo o feito.
+Sem condenação em honorários sucumbenciais, conforme decidido pela Primeira Seção do STJ no Tema 1.232/STJ, oportunidade em que foi fixada a seguinte tese jurídica: "Nos termos do art. 25 da Lei n. 12.016/2009, não se revela cabível a fixação de honorários de sucumbência em cumprimento de sentença proferida em mandado de segurança individual, ainda que dela resultem efeitos patrimoniais a serem saldados dentro dos mesmos autos."
+Publique-se. Intimem-se.
+EMENTA
