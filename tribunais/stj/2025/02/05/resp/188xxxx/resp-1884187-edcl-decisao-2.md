@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Mineradora Barreiro Rico Ltda. e Edvaldo José Pascon contra decisão que deu provimento ao recurso especial da União a fim de determinar que a indenização corresponda à integral reparação do dano, sem descontos a título de custos operacionais decorrentes do beneficiamento da argila irregularmente extraída.
+A decisão está assim ementada (e-STJ, fls. 924-928):
+ADMINISTRATIVO. EXTRAÇÃO IRREGULAR DE MINÉRIO. PRETENSÃO DA UNIÃO DE RESSARCIMENTO. VALOR DA INDENIZAÇÃO EQUIVALENTE À REPARAÇÃO INTEGRAL DO DANO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+Nas razões recursais (e-STJ, fls. 943-951), os embargantes alegam a existência de nulidade processual devido à falta de intimação para apresentar contrarrazões ao recurso especial da União.
+Apontam obscuridade na decisão que, ao dar provimento ao recurso especial da União, deixou de especificar qual a condenação imposta aos e mbargantes.
+Não foi apresentadas impugnação.
+Brevemente relatado, decido.
+De início, registre-se que, nos termos do art. 1.030, caput, do CPC, e em observância ao princípio do contraditório, recebido recurso especial no Tribunal, o recorrido será intimado para apresentar contrarrazões.
+Com efeito, apesar da referida exigência legal, a orientação jurisprudencial desta Corte Superior é no sentido de que, em observância aos princípios da instrumentalidade e o da inexistência de nulidade sem prejuízo, antes de qualquer pronunciamento deve-se analisar se a alegada nulidade causou efetivo prejuízo às partes (AgRg no AREsp n. 198.356/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 3/12/2015, DJe de 10/12/2015).
+Exige-se, assim, a demonstração de prejuízo concreto para a parte que suscita o vício, pois, conforme o entendimento do Superior Tribunal de Justiça, não se decreta nulidade processual por mera presunção (AgInt no REsp n. 1.620.701/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/6/2022, DJe de 27/6/2022; AREsp n. 1.503.814/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/6/2021, DJe de 25/6/2021).
+Na hipótese, verifica-se que os embargantes, em suas razões, defendem a existência de prejuízo, sem contudo demonstrar, de forma efetiva, como isso teria ocorrido.
+Sendo assim, não há que se falar em nulidade processual.
+Ademais, de acordo com o entendimento desta Corte, a suscitação tardia de nulidade, somente após a ciência de resultado de mérito desfavorável, conforme verificado no caso em análise, configura a chamada "nulidade de algibeira", manobra processual que não se coaduna com a boa-fé processual e que é rechaçada pelo Superior Tribunal de Justiça (AgInt no AREsp n. 2.187.530/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023; AgInt no AREsp n. 1.734.523/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/8/2021, DJe de 16/9/2021).
+Quanto ao vício de julgamento, na espécie, constata-se que a decisão embargada, de forma clara e fundamentada, consignou que a indenização deve proporcionar integral reparação do dano (100% do faturamento da empresa decorrente da atividade ilegal ou o valor de mercado do minério extraído irregularmente), inclusive citando precedentes desta Corte Superior, não havendo que se falar em obscuridade.
+Evidente, portanto, a impossibilidade de acolhimento desta via, integrativa por excelência, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração de Mineradora Barreiro Rico Ltda. e Edvaldo José Pascon.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. 1. AUSÊNCIA DE INTIMAÇÃO PARA CONTRARRAZÕES. NULIDADE NÃO CONFIGURADA. INEXISTÊNCIA DE PREJUÍZO. PRECEDENTES. 2. OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. 3. EMBARGOS REJEITADOS.
