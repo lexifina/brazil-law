@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por WAGNER DIAS PINTO contra a decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 0703845-87.2020.8.07.0014, assim ementado:
+PENAL E PROCESSO PENAL. APELAÇÕES CRIMINAIS. ESTELIONATO. ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA AFASTADA. PALAVRA DA VÍTIMA. ESPECIAL CREDIBILIDADE. DOSIMETRIA. PRIMEIRA FASE. FRAÇÃO DE 1/8 SOBRE O INTERVALO ENTRE AS PENAS MÍNIMA E MÁXIMA COMINADAS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. 1. Nos crimes patrimoniais, a palavra da vítima assume especial relevo, mormente quando corroborada por outros elementos de conv icção. 2. Na primeira fase de dosimetria da pena aplica-se a exasperação na fração de 1/8 para cada circunstância judicial considerada negativamente, a incidir sobre o intervalo entre as penas mínima e máxima cominadas. Jurisprudência do STJ e desta Corte. 3. Não se mostra adequada a substituição da pena privativa de liberdade por restritivas de direitos ao acusado que ostenta maus antecedentes, nos termos do artigo 44, inciso III, do Código Penal. 4. Recursos não providos.
+Nas razões do recurso especial, a parte alega violação do art. 59 do CP . Aduz, em síntese, que as instâncias ordinárias não declinaram fundamentação idônea para eleger fração superior a 1/6 (um sexto) para o aumento da pena-base.
+O recurso especial foi inadmitido na origem (fls. 472-473 ), ao que se seguiu a interposição de agravo.
+Parecer do Ministério Público Federal pelo provimento do agravo para não conhecer do recurso especial (fls. 519-522 ).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No que interessa à solução da controvérsia, tem-se que o Colegiado de origem declinou as seguintes razões (fls. 434-436; grifamos):
+DA DOSIMETRIA
+Subsidiariamente, a defesa de WAGNER DIAS PINTO requer o redimensionamento da pena-base imposta ao acusado, sob a alegação de que, na primeira fase da dosimetria, a alteração da reprimenda deve ocorrer no patamar de 1/6 sobre a reprimenda mínima prevista em abstrato para o delito, para cada circunstância judicial negativamente considerada. Quanto à fração de aumento para cada circunstância judicial desfavorável, embora não exista uma previsão legal de qual percentual deve ser aplicado em cada uma das etapas da dosimetria, a jurisprudência do STJ e deste Tribunal entendem que na primeira fase a pena deve ser aumentada na razão de 1/8 para cada circunstância judicial desfavorável, calculada sobre a diferença entre as penas máxima e mínima previstas em abstrato, tendo em vista a existência de 8 circunstanciais judiciais. Veja:
+ .. .
+Assim, sendo a pena prevista para o delito em apreço de 1 a 5 anos de reclusão, conforme estabelecido no art. 155, §1º, do Código Penal, a fração de 1/8 sobre a diferença entre as penas máxima e mínima previstas em abstrato corresponde a 6 meses de aumento. Compulsando os autos, verifico que o Juízo de origem adotou o mencionado método de dosimetria da pena, vez que valorou negativamente apenas os maus antecedentes dos acusados e fixou a pena-base em 1 (um) ano e 6 (seis) meses de reclusão. Portanto, mantenho a pena-base inicialmente fixada. Com relação à substituição da pena privativa de liberdade por restritiva de direitos, esta Corte de Justiça possui entendimento de que não se mostra adequada a substituição da pena privativa de liberdade por restritivas de direitos ao réu que ostenta de maus antecedentes, nos termos do artigo 44, inciso Ill, do Código Penal. Nesse sentido, entendimento desta Turma:
+ .. .
+Na oportunidade, cabe observar que a reprimenda final imputada aos acusados foi corretamente dosada e atendeu ao critério trifásico do artigo 59 do Código Penal, não havendo qualquer reparo a ser feito. Ante o exposto, NEGO PROVIMENTO aos recursos, mantendo íntegra a sentença apelada.
+De acordo com a jurisprudência desta Corte Superior de Justiça, a aplicação do critério de 1/8 sobre o intervalo entre os limites mínimo e máximo do tipo penal para cada circunstância judicial negativa está dentro da discricionariedade motivada do julgador e não se mostra desproporcional (AgRg no AREsp n. 2.733.728/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/12/2024, DJe de 17/12/2024).
+No mesmo sentido:
+ .. .
+6. Não se constatou flagrante ilegalidade ou teratologia na decisão do Tribunal de Justiça, que seguiu a jurisprudência consolidada desta Corte Superior, inclusive no que se refere ao critério utilizado para majoração da pena, 1/8 sobre o intervalo entre as penas mínima e máxima cominadas ao delito.
+IV. Dispositivo
+7. Recurso não provido.
+(AREsp n. 2.466.661/AL, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJe de 27/12/2024).
+No caso em apreço, como bem declinado pelo Tribunal de origem, o Juízo sentenciante exasperou a pena-base para cada vetor em fração correspondente a 1/8 (um oitavo) sobre o intervalo da pena mínima e máxima do delito, em consonância, portanto, com o entendimento consolidado pelo Superior Tribunal de Justiça. Assim, não há ilegalidade a ser sanada.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
