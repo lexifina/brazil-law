@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra decisão que não admitiu o recurso especial com fundamento na ausência de violação ao art. 1.022 do CPC .
+O acórdão recorrido foi assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. CONTRATAÇÃO DIRETA. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO CÍVEL. DA PRELIMINAR DE RECOLHIMENTO DA PARCELA REFERENTE AO FUNDO DE REAPARELHAMENTO DO MINISTÉRIO PÚBLICO (FRMP), SUSCITADA EM CONTRARRAZÕES. REJEIÇÃO. MÉRITO. PRETENDIDA REFORMA DA SENTENÇA. CONDENAÇÃO BASEADA NA COMPROVAÇÃO DE CONDUTA QUE SE ENQUADRA EM ATO CAUSA PREJUÍZO AO ERÁRIO. ALTERAÇÕES À LEI Nº 8.429/92 PROMOVIDAS COM O ADVENTO DA LEI Nº 14.230/2021. APLICABILIDADE IMEDIATA. TESE FIXADA NO PRECEDENTE QUALIFICADO ARE 843989 (TEMA 1.199). DOLO NÃO CONFIGURADO. CONJUNTO PROBATÓRIO INSUFICIENTE PARA A DEMONSTRAÇÃO DA PERDA PATRIMONIAL. NECESSIDADE DE REFORMA DA SENTENÇA. RECURSOS CONHECIDOS E PROVIDOS.
+1. Inexiste previsão legal de obrigatoriedade de recolhimento do FRMP na fase recursal,
+2. Segundo tese fixada pelo STF, em precedente qualificado ARE 843989 (TEMA 1.199), o novo texto da Lei de Improbidade Administrativa (LIA - Lei 8.429/1992), com as alterações inseridas pela Lei 14.230/2021, aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior.
+3. À luz do novo disciplinamento, constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão dolosa, que enseje, efetiva e comprovadamente, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1º desta Lei, e notadamente frustrar a licitude de processo licitatório ou de processo seletivo para celebração de parcerias com entidades sem fins lucrativos, ou dispensá-los indevidamente, acarretando perda patrimonial efetiva.
+4. No que se refere à efetiva comprovação de perda patrimonial do ente público, o conjunto probatório dos presentes autos é insuficiente, máxime porque houve a efetiva prestação do serviço pela empresa contratada.
+5. Portanto, a partir da constatação de que não há prova da efetiva perda patrimonial do erário, não se pode concluir pela prática de conduta ímproba pelo apelante.
+6. Conhecimento e provimento do apelo, para julgar totalmente improcedente a pretensão inicial.
+Os embargos de declaração foram rejeitados, tendo em vista a ausência de vícios a serem sanados.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 1.022, II, do CPC, sustentando que "do cotejo entre o que fora ventilado em sede de Embargos de Declaração e o que foi decidido, observa-se claramente que o colegiado incorreu em omissão, visto que não se manifestou sobre o reenquadramento da conduta no art. 11, inciso V, da Lei 8.429/92" (fl. 1.628).
+É o relatório.
+Decido.
+Ao dirimir a controvérsia, o Tribunal de origem consignou o seguinte:
+21. Como visto, as novas disposições legais implicam na limitação da propositura de ações de improbidade, bem como conduz à imediata extinção de ações em curso na hipótese de atipicidade da conduta ou reforma da sentença baseada na culpa ou no dolo genérico, visto que o novo disciplinamento admite a sanção apenas se configurada a prática de conduta dolosa e, no caso específico dos autos, é imprescindível a análise acerca da perda patrimonial efetiva para fins de configuração ou não da conduta ímproba imputada ao apelante, uma vez que não se reputa suficiente a conduta de frustrar a licitude de processo licitatório.
+22. No que se refere à efetiva comprovação da perda patrimonial do ente público, o conjunto probatório é insuficiente, uma vez que o serviço foi efetivamente prestado pela empresa contratada.
+23. Portanto, a partir da constatação de que não há prova da efetiva perda patrimonial do erário, não se pode concluir pela prática de conduta ímproba pelo apelante.
+24. Assim, merece reforma a sentença para afastar a condenação e a aplicação da sanção (fl. 1.558).
+Assim, não se reconhece a violação ao art. 1.022, II, do CPC, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada. Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (STJ, AgInt no REsp 2.072.333/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+Intimem-se.
+EMENTA
