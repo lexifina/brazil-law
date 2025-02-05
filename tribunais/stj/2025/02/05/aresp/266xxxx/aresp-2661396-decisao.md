@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por ELISEU FERREIRA DOS SANTOS JUNIOR contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu o recurso especial.
+O agravante foi condenado como incurso no art. 157, caput, e § 2º, inciso II, do Código Penal, à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa, em regime inicial semiaberto (fls. 187-193).
+O Tribunal de origem, por maioria, negou provimento ao apelo defensivo (fls. 247-274).
+Os Embargos Infringentes tiveram provimento negado (fls. 351-365).
+A Defesa interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao 226, inciso II, do Código de Processo Penal (fls. 382-395).
+O recurso foi inadmitido na origem com fundamento no óbice das Súmulas n. 7 e 83, STJ (fls. 414-419).
+Nas razões do agravo em recurso especial, o agravante sustenta a existência de precedentes do STJ e a desnecessidade de revolvimento fático (fls. 421-431).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 459-464).
+É o relatório. DECIDO.
+O recurso especial questiona a legalidade do reconhecimento realizado em inquérito, sem as formalidades do art. 226 do Código de Processo Penal, a ensejar a nulidade do feito.
+No HC n. 598.886/SC, a Sexta Turma do Superior Tribunal de Justiça deu nova interpretação ao art. 226 do Código de Processo Penal, antes entendido como mera recomendação legislativa. A partir do citado julgamento, posteriormente acompanhado pela Quinta Turma no HC n. 652.284/SC, esta Corte passou a reconhecer o procedimento legal do reconhecimento de pessoas como formalidade essencial à validade do ato.
+O presente caso, porém, trata de situação fática diversa do julgado paradigma.
+Na espécie, o Tribunal de origem, com esteio nos fatos e provas constituídos nos autos, concluiu pela legitimidade do reconhecimento realizado pela vítima e corroborado em juízo.
+Confira-se, a propósito, trecho do acórdão (fls. 252-258):
+"A autoria do delito de roubo, previsto no art. artigo 157, caput, §2º, inciso II do Código Penal, também restou comprovada pelo Auto de Reconhecimento de Pessoa na esfera policial (fl. 14 do Id. 140952358) e em juízo (Id. 140952520) e pelo depoimento da testemunha 1. C. S. (Id. 140952521).
+ ..
+E, no caso dos autos, a condenação não foi baseada exclusivamente em reconhecimento fotográfico realizado na fase de inquérito. Também sustentam a condenação o reconhecimento em juízo, realizado de acordo com o procedimento ao art. 226 do CPP (Id. 140952520), e o testemunho de I. C. S. (Id. 140952521).
+Quanto à alegação de que o reconhecimento em juízo conteria contradição, pois "Ao apresentar a descrição do roubador, a vítima disse que o agente teria entre 30 e 35 anos e o réu tem apenas 21 anos e apresenta aparência compatível com a sua idade", cumpre pontuar a descrição consiste em mera impressão da testemunha, a qual, todavia, não a impediu de identificar corretamente o réu como sendo a pessoa representada então por aquela identificada como o "número 2".
+Ademais, em seu depoimento em juízo, testemunha I. C. S. afirmou que anotou a placa da moto vermelha e, posteriormente, quando apreendida, a identificou como sendo do réu. E o réu confirma que a motocicleta é de sua propriedade.
+ ..
+A testemunha policial militar ofereceu depoimento coeso e narrou que o réu, no momento da abordagem, afirmou que não emprestava a moto, que ninguém a conduzia (Id. 140952504).
+ ..
+Com relação à tese de impossibilidade de manutenção da condenação com base em provas que residem exclusivamente nas declarações da testemunha I. C. S. - inclusive as concernentes ao reconhecimento de pessoa e objeto -, é preciso se atentar para o fato de que não se trata uma declaração isolada. A testemunha I. C. S. reconheceu o réu na esfera policial (fl. 14 do Id. 140952358) e em juízo (Id. 140952520). Em seu depoimento (Id. 140952521), afirmou categoricamente que viu bem o rosto e reconheceu, assim como reconheceu a voz, sem que houvesse dúvidas. Além disso, a placa da moto que a testemunha anotou coincide com a que a polícia militar recebeu/identificou informalmente e o réu reconhece que a moto pertencia a ele. Assim, todo o conjunto probatório aponta para a autoria de ELISEU."
+Observo que o acórdão fixou a autoria delitiva com base nas provas dos autos.
+Além do reconhecimento fotográfico e pessoal pela vítima, foi realizado o reconhecimento em juízo, observando ao procedimento do art. 226 do CPP. A condenação foi amparada também na identificação da motocicleta utilizada pelo agente delitivo, cuja placa, anotada pela vítima, corresponde ao veículo do réu, além da prova testemunhal obtida em juízo.
+Neste sentido, verifica-se o distinguishing do presente caso em relação ao precedente paradigmático trazido pela Defesa, não estando a condenação amparada exclusivamente no reconhecimento fotográfico.
+Assim, o acórdão está em consonância com o entendimento desta Corte:
+ ..  2. Nos termos da jurisprudência desta Corte, " o  reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (AgRg no AREsp n. 2.465.174/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+3. Na hipótese dos autos, há de se fazer um distinguishing, uma vez que a autoria delitiva restou demonstrada não apenas pelo reconhecimento pessoal realizado extrajudicialmente, mas também por outras provas, sem relação de causa e efeito com aquele ato, já que o réu foi preso em flagrante minutos após o roubo perpetrado em face da vítima, no interior do mesmo veículo utilizado na empreitada criminosa, na companhia de outros três comparsas, após empreender fuga da abordagem policial, exatamente como relatado pelo ofendido judicialmente. Também consta do aresto vergastado que a vítima tornou a reconhecer em juízo o agravante.
+4. A inversão da conclusão do Tribunal de origem, que, após detida análise dos fatos e das provas, entendeu por configurada a autoria e materialidade delitivas, demandaria inevitável incursão no arcabouço probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.404.490/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/6/2024, DJe de 14/6/2024.)
+1. Em julgados recentes, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa."
+2. In casu, o Tribunal Regional assentou que as provas dos autos permitem se chegar à conclusão de que o recorrente é um dos autores do crime de roubo, apontando, para tanto, não apenas o reconhecimento realizado pela vítima na fase inquisitiva e ratificado na fase judicial, mas a prévia descrição pela vítima das características físicas do recorrente e da dinâmica dos fatos, deixando induvidosa a autoria delitiva, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, o HC n. 598.886/SC, da relatoria do e. Ministro ROGÉRIO SCHIETTI CRUZ.
+3. A reversão das premissas fáticas das instâncias ordinárias a fim de desconstituir a autoria delitiva, depende de reexame de fatos e provas, o que atrai o óbice da Súmula 7 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.104.223/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+Registro que o Tribunal de origem fixou a autoria delitiva com base nas provas dos autos, incluída o reconhecimento pessoal. Alterar o entendimento do Tribunal, acerca da existência de elementos de prova de autoria suficientes, importaria em vedado reexame fático-probatório, nos termos da Súmula n. 07, STJ.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
