@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 230-236), assim ementado:
+APELAÇÃO ICMS - Adesão ao Programa Especial de Parcelamento - Questionamento acerca da taxa de juros - Possibilidade - Lei nº 13.918/09 - Interpretação conforme a Constituição pelo Órgão Especial do TJSP - Taxa de juros que não pode ser superior a utilizada na cobrança dos tributos federais - Acréscimos financeiros que seguem a mesma sorte - Arguição de Inconstitucionalidade 0016136-82.2017.8.26.0000.
+HONORÁRIOS ADVOCATÍCIOS - Fixação em percentual sobre o valor atualizado da causa - Pretensão de fixação com base no art. 86, ou distribuição proporcional Incidência dos §§3º a 5º do art. 85, CPC - Sentença reformada nessa parte - Recurso de apelação provido, em parte.
+A parte recorrente opôs embargos de declaração contra a decisão recorrida, tendo sido estes negados (fls. 247-253).
+Em seguida, interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado o art. 927, II, do CPC; arts. 111 e 181 do CTN; art. 14 da LC n. 101/2000 e art. 1º da LC n. 24/1975.
+O recurso especial foi inadmitido pela aplicação da Súmula n. 7/STJ e 280/STF (fls. 340-341), tendo a parte interposto o presente agravo.
+É o relatório.
+Passo a decidir.
+Com relação às supostas violações ao art. 927, II, do CPC; arts. 111 e 181 do CTN; art. 14 da LC n. 101/2000 e art. 1º da LC n. 24/1975, o acórdão recorrido não decidiu acerca dos referidos dispositivos legais, indicados como violados, tampouco abordou as teses recursais referidas pela parte, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível.
+Falta, no caso, prequestionamento, condição de acesso às instâncias excepcionais, de modo a incidir, nesta situação, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ainda que assim não fosse, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Destaco o seguinte trecho do acórdão recorrido (fls. 233-235)
+A taxa de juros estabelecida pela Lei 13.918/09, de 0,13% ao dia, correspondendo a 3,9% ao mês, se mostra desarrazoada, não pode ultra- passar os frutos civis do capital pelo tempo de retardamento.
+O Órgão Especial deste Tribunal de Justiça decidiu conferir interpretação conforme a CF dos arts. 85 e 96 da Lei 6.374/89, com a redação dada pela Lei 13.918/09, de modo que a taxa de juros aplicável ao montante do tributo não exceda àquela incidente na cobrança dos tributos federais.
+Posteriormente, na Arguição de Inconstitucionalidade nº 0016136-82.2017.8.26.0000, o C. Órgão Especial reconheceu a inconstitucionalidade da expressão "sempre superior ao praticado no mercado", constante no § 3º, bem como da expressão "sempre superiores aos praticados no mercado", consignada no § 7º, ambos do art.100 da Lei Estadual nº 6.374/1989, com a re- dação conferida pela Lei nº13.918/2009, in verbis:  ..
+Portanto, entendeu-se que os acréscimos financeiros não podem ser superiores àqueles incidentes em parcelamento de tributos federais, de modo que a pretensão da FESP não vinga. Nesse sentido, outros precedentes deste Tribunal de Justiça: ..
+Acordo de parcelamento entre contribuinte e fisco confere certeza ao débito confessado, não legitima acréscimos financeiros ilegais.
+Considerando que há recurso extraordinário interposto nos autos, não deve ser adotada a providência prevista no art. 1.032 do CPC/2015, pois "A regra contida no art. 1.032 do Código de Processo Civil (CPC) diz respeito à hipótese em que a parte recorrente, por equívoco, maneja recurso especial visando atacar fundamento constitucional existente no acórdão recorrido, o que não é o caso dos autos" (AgInt no REsp 1.969.778/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/6/2023, DJe de 23/6/2023).
+Isso posto, com fundamento no art. 932, III, do CPC e art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial, pois inadmissível.
+Majoro os honorários advocatícios anteriormente fixados em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
