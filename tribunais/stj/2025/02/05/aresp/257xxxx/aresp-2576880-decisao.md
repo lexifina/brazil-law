@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por SEVERIANO VITA MATOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS que inadmitiu recurso especial apresentado contra acórdão proferido nos Embargos de Declaração no Agravo em Execução Penal n. 0608805-38.2019.8.04.0001, assim ementado:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. ALEGAÇÃO DE OMISSÃO. ENFRENTAMENTO DO PONTO. EMBARGOS CONHECIDOS E ACOLHIDOS.
+- Os embargos de declaração possuem fundamentação vinculada, isto é, restrita às situações previamente catalogadas pela lei. Desse modo, não se prestam como sucedâneo de pedido de reconsideração ou de reexame de matéria fática, salvo se do acolhimento dos aclaratórios implicar alteração do julgado em decorrência do afastamento dos vícios apontados (obscuridade e contradição) ou da supressão de omissão ou da correção de erro material.
+- Em respeito ao princípio do contraditório e da ampla defesa, bem como do duplo grau de jurisdição, reconhecida a omissão apontada pelo Embargante. Apreciação do ponto de controvérsia.
+- Omissão suprida, aplicando-se à presente decisão apenas efeitos integrativos, sem modificação dos demais termos do acórdão embargado.
+- EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS.
+Nas razões do recurso especial, a parte alega violação dos arts. 57 e 127, ambos da Lei n. 7.210/1984.
+Aduz, em síntese, que as instâncias ordinárias não declinaram fundamentação idônea para impor a perda de 1/3 (um terço) dos dias remidos em razão da prática de falta grave.
+O recurso especial foi inadmitido na origem (fls. 206-208), ao que se seguiu a interposição de agravo.
+Parecer do Ministério Público Federal pelo não provimento do agravo (fls. 295-296 ).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No que interessa à solução da controvérsia, tem-se que o Colegiado de origem declinou as seguintes razões (fls. 161-162; grifamos):
+Pois bem. A partir dos dispositivos acima transcritos, é certo que os embargos de declaração possuem fundamentação vinculada, isto é, restrita às situações previamente catalogadas pela lei. Desse modo, não se prestam como sucedâneo de pedido de reconsideração ou de reexame de matéria fática, salvo se do acolhimento dos aclaratórios implicar alteração do julgado em decorrência do afastamento dos vícios apontados (obscuridade e contradição) ou da supressão de omissão ou da correção de erro material, o que é o caso dos autos. E, em respeito ao princípio do contraditório e da ampla defesa, bem como do duplo grau de jurisdição, reconheço a omissão apontada pelo Embargante e passo a apreciar o ponto de controvérsia: Sem maiores delongas, tenho que ambas as teses apontadas - nulidade da decisão da perda dos dias remidos (por ausência de fundamentação) e aplicação da pena no patamar mínimo de 01 (um) dia - não merecem prosperar, na medida em que a decisão agravada teceu tratamento individualizado, em especial, em relação ao comportamento do Agravante de modo a justificar a perda dos dias remidos e, de igual modo, o patamar de 1/3 (um terço) estabelecido pelo juízo a quo. Nesse sentido, é a referida decisão:
+(..) observo que o sentenciado foi devidamente denunciado pelo Ministério Público perante o 2º Tribunal do Júri da Comarca de Manaus/AM pela prática de diversos crimes no bojo da rebelião ocorrida no COMPAJ-FECHADO no fatídico dia 01 de janeiro de 2017. Vale observar que os fatos narrados são gravíssimos e que a denúncia já foi recebida pelo Juízo de conhecimento, de modo que o reconhecimento da falta grave é medida impositiva.
+Assim, é certo que a decisão revela-se devidamente fundamentada, não merecendo reparos.
+De acordo com a jurisprudência desta Corte Superior de Justiça,
+A prática de falta grave pelo reeducando impõe a decretação da perda de até 1/3 (um terço) dos dias remidos, devendo a expressão "poderá" contida no art. 127 da Lei n.º 7.210/84, com a redação que lhe foi conferida pela Lei n.º 12.433/11, ser interpretada como verdadeiro poder-dever do Magistrado, ficando no juízo de discricionariedade do Julgador apenas a fração da perda, que terá como limite máximo 1/3 (um terço) dos dias remidos (AgRg no REsp n. 1.424.583/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/6/2014, DJe 18/6/2014).
+(AgRg no REsp n. 1.431.121/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2018, DJe de 5/4/2018).
+Assim, o Juízo tem discricionariedade para eleger, de modo fundamentado, o quantum de dias remidos que serão perdidos em razão da prática da falta grave, observado o limite de 1/3 (um terço). No caso concreto, não há ilegalidade, porquanto as instâncias pretéritas justificaram adequadamente a imposição da fração máxima, isso porque ressaltaram que o agente foi denunciado pela prática de gravíssimas infrações cometidas por ocasião de rebelião ocorrida em estabelecimento prisional.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
