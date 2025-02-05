@@ -1,0 +1,8 @@
+DECISÃO
+Em análise, pedido de uniformização de interpretação de lei (PUIL, fls. 328-341) proposto nos autos da ação ordinária em que a requerente visa ao recebimento de salário (vencimento básico e suas progres sões na carreira) em conformidade com o piso nacional, conforme previsão na Lei Federal 11.738/2008 e no art. 53-A da Lei Complementar Municipal 19/2008.
+Determinei a devolução dos autos à Turma Recursal, para que observado o procedimento previsto no art. 1.040 do CPC, tendo em vista a afetação do Tema 1218 do STF para deliberar sobre a "Adoção do piso nacional estipulado pela Lei n. 11.738/2008 como base para o vencimento inicial da carreira do magistério da Educação Básica estadual, com reflexos nos demais níveis, faixas e classes da carreira escalonada" (fls. 386-388).
+Em exercício negativo de retratação, a relatoria do feito na Turma recursal entendeu, monocraticamente, ser "o caso de manter o acórdão em questão em juízo negativo de retratação, já que a decisão encontra-se adequada à tese fixada pelo STF acerca da matéria" (fl. 395), remetendo os autos de volta a este STJ.
+O Tema 1.218, contudo, ainda não foi julgado pelo STF, motivo pelo qual reitero o decidido às fls. 386-388, para que os autos permaneçam no Tribunal de origem até o julgamento do tema pelo STF, quando, enfim, deverá ser observado o procedimento previsto nos arts. 1.040 do CPC e 19, § 6º, da Lei 12.153/2009.
+Isso posto, determino a devolução dos autos à Turma Recursal de origem, com a devida baixa nesta Corte, para que seja observado o procedimento previsto nos arts. 1.040 do CPC e 19, § 6º, da Lei 12.153/2009.
+Intimem-se.
+EMENTA
