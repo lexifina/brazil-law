@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, Recurso Ordinário em Mandado de Segurança impetrado por CARLOS EDUARDO FERREIRA DOS SANTOS, em que requer a reforma do acórdão proferido pelo TJMT, assim ementado (fl. 146):
+MANDADO DE SEGURANÇA - POLICIAL MILITAR - RESERVA REMUNERADA - PROCESSO ADMINISTRATIVO - CONSELHO DE SENTENÇA - DEMISSÃO - CASSAÇÃO DA APOSENTADORIA - CONSECTÁRIO LÓGICO - RUPTURA DO VÍNCULO COM A ADMINISTRAÇÃO PÚBLICA - LEGALIDADE - POSSIBILIDADE - SISTEMA CONTRIBUTIVO - AUSÊNCIA DE DIREITO ADQUIRIDO - SEGURANÇA DENEGADA. AGRAVO INTERNO PREJUDICADO.
+1. A cassação da aposentadoria configura consectário lógico decorrente da pena administrativa imposta. Isso porque, ao excluir o Impetrante das fileiras, faz-se a ruptura do seu vínculo com a Administração Pública, ainda que na reserva remunerada, posto que deixa de atender aos requisitos do cargo.
+2. " ..  É legítima a cassação da aposentadoria de policial militar da reserva remunerada quando excluída da corporação, em face da prática de ato incompatível com a sua função. (N.U 0029077-23.2015.8.11.0042, DES. MÁRCIO VIDAL).
+3. " ..  o sistema contributivo em nada veda a aplicação da penalidade, pois o servidor, antes aposentado, agora revertido e demitido, poderá buscar a aposentadoria no Regime Geral, obviamente sem os benefícios que tinha jus como servidor público, por conta da penalidade aplicada. Nesse sentido, dentre muitos: REsp n. 1.771.637/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 4/12/2018, DJe 4/2/2019; RMS n. 50.717/SP, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/5/2018, DJe 13/6/2018; AgInt no REsp n. 1.628.455/ES, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/3/2018, DJe 12/3/2018" (STJ, Segunda Turma, AgInt no RMS 54740/SP, relator Ministro Francisco Falcão, publicado no Diário da Justiça Eletrônico em 24 de setembro de 2019).
+4. Segurança denegada. Agravo Interno prejudicado.
+O recorrente aduz, em síntese, que "o ato de tornar sem efeito a reforma e, consequentemente, cassar a aposentadoria, vai de encontro aos preceitos fundamentais esculpidos na Carta Magna brasileira, eis que a aposentadoria do Recorrente se trata de um direito adquirido pelo cumprimento de tempo de serviço deste e pela contribuição desembolsada durante a profissão exercida" (fl. 180).
+Contrarrazões apresentadas às fls. 198-204.
+O Ministério Público Federal ofereceu parecer pelo desprovimento do recurso.
+É o relatório.
+Passo a decidir.
+O Tribunal de origem denegou a segurança nos seguintes termos (fls. 153-154):
+Em que pese a alegada ilegalidade do ato acoimado coator, denota-se que todo o procedimento que resultou na sua exclusão das fileiras da Corporação resultou de processo administrativo (Conselho de Disciplina) em que houve a observação dos princípios do contraditório, legalidade e ampla defesa, não sendo demonstrado vício hábil a maculá-lo.
+Quanto à cassação da aposentadoria do Impetrante, depreende- se que esta configura consectário lógico decorrente da pena administrativa que foi imposta. Isso porque, ao excluí-lo das fileiras, os Impetrados tornaram sem efeito o Ato de Aposentadoria do requerente, rompendo o seu vínculo com a Administração Pública, ainda que na reserva remunerada, posto que deixa de atender os requisitos do cargo.
+Assim, vale dizer, a cassação da aposentadoria é a forma de reversão do servidor ao quadro funcional para, ato contínuo, aplicar-se-lhe a demissão, já que o Impetrante deixou de atender a um dos critérios necessários, ao lado do tempo de serviço e da idade mínima, para permanecer na condição de servidor público, nos termos do art. 40, § 1º da Constituição da República.
+(..)
+Além do mais, antes mesmo de formular seu pedido de reforma, o impetrante já respondia pelo Conselho de Disciplina que resultou na sua demissão (instaurada através da Portaria n.º 26/CD/CORREGPM, de 18 de maio de 2016), sendo que os fatos que lhes foram imputados ocorreram quando ainda se encontrava na ativa.
+Como se vê, a Corte a quo decidiu pela inexistência de ilegalidade no ato de cassação de aposentadoria do militar, salientando que esta resultou de processo administrativo regularmente conduzido, o qual teve início antes do pedido de reforma pelo recorrente.
+Esse entendimento não destoa da jurisprudência do STJ, conforme demonstram os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PAD. POLICIAL MILITAR AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CASSAÇÃO DE APOSENTORIA. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. DECISÃO DO CONSELHO DE JUSTIFICAÇÃO. FATOS OCORRIDOS ANTES DA RESERVA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de ser constitucional a pena de cassação de aposentadoria, não obstante o caráter contributivo de que se reveste o benefício previdenciário.
+III - Em mesmo sentido, a jurisprudência do STJ fixou orientação segundo a qual é possível a aplicação da penalidade de exclusão das fileiras ao policial militar reformado, em decorrência de crimes praticados quando ainda no serviço ativo.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido. (AgInt no RMS n. 68.235/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/8/2024, DJe de 14/8/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO N. 3/STJ. REEXAME DO AGRAVO INTERNO. ART. 1.040, II, DO CPC/2015. TEMA 358/STF DE REPERCUSSÃO GERAL. MATÉRIA NÃO DEVOLVIDA. PRECLUSÃO. MILITAR. CASSAÇÃO DE APOSENTADORIA POR INVALIDEZ. POSSIBILIDADE. CONDENAÇÃO PENAL POR CRIME COMETIDO EM ATIVIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A orientação jurisprudencial tanto do Supremo Tribunal Federal quanto deste Superior Tribunal de Justiça admitem a aplicação da sanção disciplinar "cassação de aposentadoria" em face de militares que, embora aposentados, tenham cometido faltas graves ainda em atividade.
+5. No caso em concreto, o próprio servidor militar ressalta que foi submetido a apuração de faltas graves (por exigências indevidas a administradores de casas de jogos de azar para deixar de adotar providências legais) ainda em atividade. Por fim, o acórdão a quo declara que a prática desses atos resultou na condenação do ora recorrente a uma pena de 06 anos e 08 meses de reclusão pelo delito de corrupção passiva.
+6. Agravo interno não provido (AgInt no RMS n. 59.522/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/10/2021, DJe de 5/11/2021).
+Isso posto, nego provimento ao recurso.
+Custas pela parte recorrente/impetrante, observada eventual concessão de gratuidade judiciária na origem. Sem honorários advocatícios (art. 25 da Lei 12.016/09).
+Publique-se.
+Intimem-se.
+EMENTA
