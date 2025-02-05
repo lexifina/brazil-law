@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por MANOEL CLODOALDO FRANCISCO contra decisão que inadmitiu o recurso especial, interposto com fundamento na alínea a do permissivo constitucional, em face de acórdão assim ementado (fl. 330):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DA PARTE DEMANDANTE. SENTENÇA CITRA PETITA. SUPOSTA AUSÊNCIA DE ANÁLISE DA TESE RELATIVA AOS JUROS MORATÓRIOS SUPERIORES AO LIMITE DE 1% (UM POR CENTO) AO MÊS. INOCORRÊNCIA. ENCARGO EXTIRPADO DA RELAÇÃO CONTRATUAL. COMISSÃO DE PERMANÊNCIA QUE PASSOU A FIGURAR COMO ÚNICO ENCARGO DA ANORMALIDADE. CLARIVIDENTE AUSÊNCIA DO INTERESSE PROCESSUAL. RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, foram rejeitados, em acórdão que conta com a seguinte ementa (fl. 368):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SUSCITADA OMISSÃO E OBSCURIDADE. INOCORRÊNCIA. DECISÃO COLEGIADA QUE DEU O EXATO NORTE DE SUA ORIENTAÇÃO, NO SENTIDO DE QUE INEXISTE INTERESSE PROCESSUAL NA REVISÃO DOS JUROS MORATÓRIOS. ENCARGOS DA ANORMALIDADE LIMITADOS À COBRANÇA DA COMISSÃO DE PERMANÊNCIA, CUJO VALOR NÃO PODE ULTRAPASSAR A SOMA DOS ENCARGOS REMUNERATÓRIOS E MORATÓRIOS PREVISTOS NO CONTRATO. SÚMULA 472 DA CORTE DA CIDADANIA. CLARIVIDENTE TENTATIVA DE REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE PELA VIA ESCOLHIDA. PREQUESTIONAMENTO DE ARTIGOS DE LEI. ACÓRDÃO QUE ABORDOU DE FORMA SUFICIENTE A MATÉRIA DISCUTIDA. EMBARGOS PROTELATÓRIOS. POSSIBILIDADE DE FIXAÇÃO DE MULTA. EX VI DO ART. 1.026, §2º DO CPC. RECURSO CONHECIDO E DESPROVIDO.
+No recurso especial interposto, a defesa alega a violação dos arts. 141 e 492 do CPC, afirmando, em suma, que o acórdão recorrido não teria analisado a questão referente ao limite da taxa de juros moratórios a ser aplicada no caso concreto, sendo uma decisão manifestamente citra petita, tecendo ainda diversas considerações quanto ao mérito da demanda, em que busca o reconhecimento de nulidade da comissão de permanência.
+Requer, ao final, o provimento do recurso "determinando-se a apreciação do único ponto não analisado e o afastamento da multa estabelecida em sede de embargos de declaração em apelação cível" (fl. 399).
+Apresentadas as contrarrazões, o recurso especial foi inadmitido ante a inexistência de prequestionamento quanto à tese recursal, com incidência das Súmulas 282 e 356, ambas do STF
+Foi apresentada contraminuta ao agravo em recurso especial (fls. 450-456).
+É o relatório.
+DECIDO.
+O agravo não pode ser conhecido.
+Com efeito, apesar das alegações defensivas, a parte recorrente não logrou êxito em demonstrar que a tese recursal foi efetivamente prequestionada.
+A decisão que não admitiu o recurso especial foi assim fundamentada (fls. 432-424):
+A admissão do apelo nobre pela alínea "a" do permissivo constitucional, em relação à suposta ofensa aos arts. 141 e 492 do Código de Processo Civil, é vedada pelas Súmulas 282 e 356 do STF, por analogia.
+A parte recorrente sustenta, em síntese, que a decisão recorrida violou os dispositivos mencionados porque, "como fartamente demonstrado na apelação cível, a taxa de juros de mora cobrada pelo recorrido está acima da contratada, de 1% ao mês  ..  Em observação ao Aditivo de Rerratificação às Cláusulas Gerais do Contrato de Abertura de Crédito Rotativo - CDC Automático, em sua Cláusula Décima Primeira, é possível constatar a cobrança de " ..  juros moratórios à taxa efetiva de 1% a. a.  .. " Já em análise ao item "INADIMPLEMENTO" dos "Demonstrativos de Conta Vinculada", observa-se que a instituição financeira aplicou "JUROS DE MORA à taxa de 1,000% ao mês" para todas as operações" (evento 43, RECESPEC1, p. 10/14).
+No entanto, o acórdão recorrido não se pronunciou sobre os dispositivos mencionados nem sobre a questão correlata, uma vez que não conheceu do recurso de apelação. Para exemplificar, transcrevo trecho da decisão (evento 11, RELVOTO1):
+Em análise ao julgado, verifica-se que o juízo singular não se imiscuiu na tese de que os juros moratórios não podem suplantar o patamar de 1% (um por cento) ao mês; no entanto, não adentrou ao tema por limitar os encargos moratórios à cobrança da comissão de permanência.
+Veja-se:
+Comissão de permanência:
+É lícita a exigência de comissão de permanência nos períodos de anormalidade contratual, desde que tenha sido pactuada, e não pode incidir cumulativamente com a multa contratual, os juros moratórios e os juros remuneratórios.
+Incide, também aqui, matéria sumulada.
+Confira-se a Súmula n. 472 do STJ: "A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual".
+Em análise ao contrato (evento 1, CONTR4, Cláusula Décima Primeira), houve pactuação da cobrança de comissão de permanência cumulada com juros moratórios, de modo que o pedido merece acolhimento neste ponto.
+ ..
+Portanto, deverá incidir tão somente a comissão de permanência no período de mora, afastando os demais encargos de mora pactuados. (Grifei) Ora! É clarividente a ausência do interesse processual da parte demandante em revisar o encargo moratório já extirpado da relação contratual e, por corolário lógico, não há se falar em sentença citra petita.
+ ..
+Ante o exposto, voto no sentido de NÃO CONHECER do recurso.
+Apesar da oposição de embargos de declaração (evento 18, EMBDECL1), a Câmara não se manifestou sobre as questões suscitadas, mantendo a decisão principal inalterada (evento 31, RELVOTO1).
+Faz-se ausente, portanto, o necessário prequestionamento viabilizador do recurso especial.
+Como cediço, "para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno do dispositivo legal tido como violado, indicadas no recurso analisado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (..)" (STJ, AgRg no AgRg no AgRg no REsp n. 2.083.182/SP, rel. Min. Messod Azulay Neto, Quinta Turma, j. em 7-11-2023).
+Aliás, "adentrar na análise sobre a referida matéria, sem que se tenha explicitado no v. aresto vergastado a tese jurídica de que ora se controverte, após o devido debate em contraditório, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Nesse sentido, o Enunciado Sumular n. 282 do STF" (STJ, AgRg no AgRg no AR Esp n. 1965559/SC, rel. Min. Jesuíno Rissato, Des. convocado do TJDFT, Quinta Turma, j. em 7-12-2021).
+Diante do exposto, com fulcro no art. 1.030, V, do CPC, NÃO ADMITO o recurso especial do evento 43, RECESPEC1.
+Por sua vez, ao tecer considerações quanto ao fundamento da decisão agravada, a defesa se limitou a afirmar , de forma genérica, que "a matéria do recurso vem sendo, desde a apelação, a ausência de análise do requerimento do Agravante, por compreensão equivocada dos julgadores acerca do ponto. Em palavras outras, trata-se de decisão citra petita. O que vem sendo discutido é a interpretação equivocada do requerimento realizado pelo Agravante, razão para, de fato, não ter havido a análise do quanto é ventilado, mas de situação que não foi sequer debatida pelo Agravante na peça de defesa" (fl. 440), além de repisar os argumentos do recurso especial não admitido.
+Ocorre que o entendimento deste Tribunal é no sentido de que, para a efetiva impugnação do óbice referente à ausência de prequestionamento deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, o que não aconteceu.
+Ademais, deveria o agravante ter indicado para fins de obtenção de eventual reconhecimento de negativa de prestação jurisdicional o art. 1.022 do CPC, ônus do qual também não se desincumbiu, inviabilizando a possibilidade de análise do recurso especial.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 182. INCIDÊNCIA. DESISTÊNCIA PARCIAL. IMPOSSIBILIDADE.
+1. Ação de execução de título extrajudicial.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: i) ausência de demonstração de ofensa ao art. 1.022 do CPC.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. O ordenamento jurídico admite que a parte inconformada recorra, parcialmente, de uma decisão, e, ainda, que o órgão julgador conheça, em parte, do recurso interposto. Não há, entretanto, qualquer previsão que autorize a desistência parcial, tácita ou expressa, do recurso especial após sua interposição.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.602.019/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REDISTRIBUIÇÃO PRIMEIRA SEÇÃO. CC 148.188/DF. HIPÓTESE DIVERSA DA TRATADA PELA CORTE ESPECIAL. MANUTENÇÃO DA COMPETÊNCIA DA SEGUNDA SEÇÃO. NÃO IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. REQUISITOS LEGAIS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. MATÉRIA DE ORDEM PÚBLICA. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Os requisitos legais de admissibilidade do recurso devem ser examinados previamente à análise do mérito, não sendo possível superar seu não preenchimento, ainda que no apelo se debata matéria de ordem pública.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.426.342/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
