@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE ORIZÂNIA contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 356):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CÁLCULOS ELABORADOS PELO EXEQUENTE. IMPUGNAÇÃO. EXCESSO DE EXECUÇÃO INEXISTENTE. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. O art. 525, § 1º, V, do CPC de 2015, permite ao executado alegar excesso de execução. No entanto, é preciso que haja indicação do valor que entende correto, com demonstrativo discriminado e atualizado do seu cálculo.
+2. Ausente a demonstração, nos termos da legislação de regência, do suposto excesso, de rigor, a rejeição da impugnação ao cumprimento de sentença.
+3. O exercício regular de direito processual não configura litigância de má-fé.
+4. Agravo de instrumento conhecido e não provido, mantida a decisão que rejeitou a impugnação ao cumprimento de sentença
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 100-116), o insurgente apontou violação aos arts. 525, § 1º, V, do CPC/2015; e 368 do Código Civil.
+Sustentou, em síntese: a) incorreção dos cálculos apresentados pela contadoria, implicando indevido excesso de execução; e b) que é devida a compensação de valores no momento da liquidação de sentença, tendo em vista que o Município efetuou pagamentos que englobam a quantia exequenda.
+Sem contrarrazões.
+A Corte de origem não admitiu o recurso especial, o que levou o insurgente à interposição de agravo.
+Contraminuta às fls. 388-389 (e-STJ).
+Brevemente relatado, decido.
+No caso em estudo, ao julgar o agravo de instrumento interposto pelo recorrente, a Corte de origem rejeitou liminarmente a insurgência do executado em relação ao suposto excesso de execução, de acordo com as seguintes justificativas (e-STJ, fls. 357-359):
+Em relação ao direito e quanto ao primeiro tema, o art. 525, § 1º, V, § 4º e § 5º, do CPC de 2015, estabelece que na impugnação ao cumprimento de sentença, o executado poderá alegar o excesso de execução, desde que declare o valor que entende correto e junte demonstrativo discriminado e atualizado de seu cálculo, sob pena de ser rejeitada liminarmente a impugnação, caso o excesso de execução seja seu único fundamento.
+(..)
+O agravante afirmou que há excesso de execução, especialmente por ter realizado pagamentos em favor da recorrida. Para sustentar o alegado, ele juntou os cálculos vistos no arquivo eletrônico nº 5, f. 1. Tal demonstrativo deixou de observar o comando legal por revelar-se simples e não discriminado. Além disso, o recorrente sequer apontou, nas razões deste recurso e de forma objetiva, qual é o valor a compensar ou que considera incontroverso (arquivo eletrônico nº 1).
+Observa-se, após consulta ao processo eletrônico, que o título executivo foi encaminhado à contadoria judicial para que novos cálculos sejam feitos, a fim de auxiliar na liquidação de sentença. Essa circunstância evidencia que cálculos mais apurados serão apresentados e eventual excesso poderá ser identificado.
+Ora, diante de todas as circunstâncias, não há espaço para reconhecer, neste momento processual, o excesso alegado, motivo pelo qual a irresignação é impertinente.
+No que se refere ao suposto excesso de execução, atentando-se aos argumentos trazidos pela parte insurgente e aos fundamentos adotados pela Corte estadual (no sentido da rejeição liminar da impugnação ao cumprimento de sentença ante a ausência de demonstrativo discriminado dos cálculos e de indicação do valor que a parte entende correto, bem como a respeito do encaminhamento dos autos à contadoria judicial para realização de novos cálculos e eventual apuração do excesso de execução), verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial. Por conseguinte, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Quanto ao mais, da leitura do trecho acima, a despeito das alegações recursais do insurgente, constat a-se que inexistiu debate no acórdão recorrido do ponto de vista da infringência ao art. 368 do Código Civil, sob o enfoque do cabimento da compensação de valores no âmbito da liquidação de sentença, notadamente por ter o colegiado estadual concluído pela rejeição liminar da impugnação ao cumprimento de sentença.
+Efetivamente, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por vulnerado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu na espécie.
+Desse modo, ausente o debate no acórdão recorrido acerca da questão ventilada, tampouco a oposição de embargos de declaração a fim de suscitar a discussão na origem, é inviável a apreciação da matéria ante a falta do indispensável prequestionamento, incidindo as Súmulas 282 e 356 do Supremo Tribunal Federal no ponto.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. EXCESSO DE EXECUÇÃO. REJEIÇÃO LIMINAR. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
