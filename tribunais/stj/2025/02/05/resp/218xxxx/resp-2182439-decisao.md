@@ -1,0 +1,84 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por WMB SUPERMERCADOS DO BRASIL LTDA. contra acórdão prolatado, por unanimidade, pela 3ª Câmara Cível do Tribunal de Justiça do Estado do Paraná no julgamento de Agravo de Instrumento, assim ementado (fls. 111/112e):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL EM FASE DE CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. ALEGAÇÃO DE QUE A VERBA HONORÁRIA JÁ FOI QUITADA QUANDO DO PARCELAMENTO ADMINISTRATIVO DA DÍVIDA TRIBUTÁRIA. IMPROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS PAGOS QUE SE REFEREM AOS DEVIDOS NA AÇÃO DE EXECUÇÃO FISCAL. ART. 1º, §3º, DA LEI ESTADUAL Nº 20.946/2021. NORMA QUE PREVÊ HONORÁRIOS ADVOCATÍCIOS INCIDENTES SOBRE CRÉDITOS TRIBUTÁRIOS AJUIZADOS. PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA. ALTERAÇÃO DA BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. BASE DE CÁLCULO JÁ DETERMINADA NA SENTENÇA QUE JULGOU OS EMBARGOS À EXECUÇÃO. BASE DE CÁLCULO QUE NÃO FOI OBJETO DE INSURGÊNCIA EM RECURSO DE APELAÇÃO. MODIFICAÇÃO DA BASE DE CÁLCULO QUE IMPLICARIA EM VIOLAÇÃO À COISA JULGADA MATERIAL. ARTS. 502 E 505 DO CÓDIGO DE PROCESSO CIVIL.
+1. Se o Estado do Paraná pretendesse que no valor dos honorários indicados no §3º do art. 1º da Lei 20.946/2020 também estivessem englobados os honorários advocatícios referentes a eventuais embargos à execução fiscal - nem todos os devedores opõem à execução fiscal embargos -, tê-lo-ia feito de forma expressa, até porque os embargos à execução fiscal constituem ação autônoma.
+2. Ora, tendo a nobre magistrada sentenciante fixado, em moeda corrente, o valor dos honorários advocatícios, inviável, em sede de cumprimento de sentença, modificá-lo, sob pena de ofensa à coisa julgada material, postulado de matriz constitucional (art. 5º, inc. XXXVI, da Constituição Federal) que foi expressamente agasalhado pelo Código de Processo Civil.
+RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 288/291e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Art. 85, § 4º, III, do Código de Processo Civil - configura bis in idem a condenação em honorários advocatícios quando, no cálculo administrativo do débito, já for incluída verba ou encargo de igual natureza.
+(ii) Art. 85, § 2º, do Código de Processo Civil - subsidiariamente, pede que a base de cálculo dos honorários seja o valor do proveito econômico (crédito tributário cobrado).
+Com contrarrazões (fls. 195/199e), o recurso foi inadmitido (fls. 200/201e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 242e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+No que se refere à alegação de bis in idem, observo que a tese não encontra amparo no dispositivo apontado (art. 85 e § 4º, III, do CPC).
+Com efeito, incide na espécie, por analogia, o óbice contido na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+(..)
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO. DIREÇÃO CONTRA SENTENÇA. EXISTÊNCIA DE ACÓRDÃO POSTERIOR QUE A SUBSTITUIU. PEDIDO. IMPOSSIBILIDADE JURÍDICA. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. ARTS. 485, V, E 512 DO CPC. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+(..)
+2. Há deficiência argumentativa quando o preceito legal apontado como violado (arts. 485, V, e 512 do CPC) não é suficiente para amparar a tese defendida no recurso especial. Precedentes.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.369.630/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/10/2013, DJe 20/11/2013).
+Além disso, o tribunal de origem, ao manifestar-se acerca do pagamento dos honorários advocatícios na ação de execução fiscal, assim consignou (fls. 115/118e):
+O agravo de instrumento, como será demonstrado, não pode ser provido.
+E isso porque, ao contrário do que sustenta a recorrente, o valor que pagou a título de honorários advocatícios refere-se apenas e tão somente aos honorários devidos no processo da ação de execução fiscal. Vale dizer, não se refere aos honorários fixados nos embargos à execução, que são objeto do presente pedido de cumprimento de sentença.
+Tal conclusão decorre da norma contida no art. 1º, §3º, da Lei Estadual nº 20.946/2021, que dispõe "sobre o programa de parcelamento incentivado de créditos tributários relativos ICM e ao ICMS, e de créditos não tributários inscritos em dívida ativa pela Secretaria de Estado da Fazenda", a qual tem o seguinte teor:  ..
+A norma transcrita refere-se, expressamente, aos honorários advocatícios, ou seja, aos honorários devidos na ação de execução fiscal, pois é esta a ação que permite ao ente público credor buscar a satisfação dos seus créditos tributários.
+Vale dizer, quando a norma se refere aos honorários incidentes sobre "créditos tributários ajuizados", não há dúvida de que está a se referir aos honorários fixados nas ações de execução fiscal já ajuizadas.
+Se o Estado do Paraná pretendesse que no valor dos honorários indicados no §3º do art. 1º da Lei 20.946/2020 também estivessem englobados os honorários advocatícios referentes a eventuais embargos à execução fiscal - nem todos os devedores opõem à execução fiscal embargos -, tê-lo-ia feito de forma expressa, até porque os embargos à execução fiscal constituem ação autônoma.
+Este Tribunal de Justiça, em hipóteses como a que se apresenta, reiteradamente tem adotado o mesmo entendimento aqui externado. Nesse sentido podem ser transcritas as seguintes ementas de julgamento:  ..
+Vê-se, assim, que a alegação no sentido de que o valor dos honorários advocatícios em execução já foi quitado não se mostra procedente. (Destaques meus)
+Desse excerto, depreende-se ter sido a lide julgada à luz de interpretação de legislação local - qual seja, a Lei Estadual n. 20.946/2021 -, sendo imprescindível a sua análise para o deslinde da controvérsia, providência vedada em sede de recurso especial, consoante a Súmula n. 280 do Supremo Tribunal Federal, segundo a qual "por ofensa ao direito local não cabe recurso extraordinário", aplicável, por analogia, nesta Corte, como espelham os julgados assim ementados:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FAZENDA PÚBLICA ESTADUAL. ANTECIPAÇÃO DE DESPESA. OFICIAL DE JUSTIÇA. DESLOCAMENTO. CITAÇÃO. CABIMENTO. VÍCIO DE INTEGRAÇÃO. NÃO OCORRÊNCIA. RESOLUÇÃO DO CNJ. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. DIREITO LOCAL.
+ ..
+4. O exame da alegação de que os oficiais de justiça do TJ/PB já receberiam gratificação para o cumprimento das diligências inerentes à sua atividade, porquanto fundada em lei local, esbarra no óbice da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário"), aplicada, por analogia, ao recurso especial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.248.714/PB, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17.06.2024, DJe de 26.06.2024 - destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 280 DA SÚMULA DO STJ. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+III - No caso, verifica-se que a análise da principal tese do recorrente - validade da Lei Estadual n. 6.560/2014 em face das Lei Complementar Federal n. 101/2000 e Lei Federal n. 9.504/97 - não pode ser enfrentada por esta Corte Superior, pois é matéria de competência do Supremo Tribunal Federal, nos termos do art. 102, III, "d", da Constituição Federal. Neste sentido: AgRg no REsp 1456225/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/9/2015, DJe 28/9/2015.
+IV - Além disso, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, quais sejam, as Lei Estaduais 6.560/2014, 6.790, 6.856 e 8.856/2016 e o Decreto 15.863/2014, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse mesmo sentido: AgInt no AREsp n. 2.136.760/MT, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 6/3/2023, DJe de 13/3/2023; AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.
+ ..
+VI - Agravo interno improvido.
+(AgInt no REsp n. 2.125.198/PI, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 21.08.2024 - destaque meu).
+Sobre a base de cálculos dos honorários, o colegiado estadual assim consignou (fls. 118/120):
+Da mesma forma, o segundo pleito recursal - alteração da base de cálculo dos honorários advocatícios - também não pode ser acolhido.
+Chega-se a essa conclusão porque o montante dos honorários advocatícios devidos na ação de embargos à execução fiscal já foi fixado, em valor certo, na sentença que julgou os embargos. A ilustre magistrada de primeiro grau de jurisdição, para chegar ao valor dos honorários, utilizou como base de cálculo o valor da causa. Consta do dispositivo da sentença que julgou os embargos à execução fiscal:  ..
+E contra o valor dos honorários advocatícios fixado nos embargos à execução fiscal, a ora recorrente não se insurgiu no recurso de apelação que interpôs nos autos da ação de embargos à execução fiscal. Em seu recurso, a empresa recorrente insurgiu-se contra a improcedência dos seus pedidos, sem nada mencionar quanto aos honorários advocatícios - petição recursal encontra-se no mov. 46.1 dos autos do pedido de cumprimento de sentença.
+Ora, tendo a nobre magistrada sentenciante fixado, em moeda corrente, o valor dos honorários advocatícios, inviável, em sede de cumprimento de sentença, modif icá-lo, sob pena de ofensa à coisa julgada material, postulado de matriz constitucional (art. 5º, inc. XXXVI, da Constituição Federal) que foi expressamente agasalhado pelo Código de Processo Civil. Aqui, faz-se oportuna a transcrição dos arts. 502 e 505 do Código de Processo Civil:  ..
+Importante registrar, ainda, que este Tribunal de Justiça, como consequência do desprovimento do recurso de apelação, majorou o valor dos honorários advocatícios (art. 85, §11, do CPC), considerando o valor fixado na sentença, ou seja, o valor fixado com base no valor da causa. Para que não pairem dúvidas, transcreve-se a passagem do acórdão em que o colegiado majorou o valor dos honorários com base no art. 85, §11, do Código de Processo Civil:  ..
+Dúvida não há, portanto, de que os argumentos para a modificação do valor dos honorários advocatícios não têm procedência. (Destaques meus)
+Nas razões do presente recurso, alega-se ofensa ao art. 85, §2º e §4º, III, do CPC.
+Percebe-se a ausência de comando suficiente nos dispositivos apontados para alterar a mencionada conclusão sobre a coisa julgada, razão pela qual o recurso não merece prosperar nesse ponto.
+Com efeito, incide, por analogia, a orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ILEGALIDADE NO DÉBITO TRIBUTÁRIO. NÃO OCORRÊNCIA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+4. O dispositivo apontado como violado (art. 142 do Código Tributário Nacional) não contém comando capaz de infirmar os fundamentos do acórdão recorrido e é incapaz de amparar as teses recursais. Aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.996.201/GO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PEDIDO DE OBSERVÂNCIA DA ORDEM CRONOLÓGICA DE PAGAMENTOS PELOS SERVIÇOS PRESTADOS À ADMINISTRAÇÃO PÚBLICA. VIOLAÇÃO AOS DISPOSITIVOS INDICADOS. TESE RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. COMANDOS NORMATIVOS QUE NÃO INFIRMAM AS RAZÕES DE DECIDIR DO ACÓRDÃO. SÚMULA 284 DO STF. RECONHECIMENTO DO DIREITO LÍQUIDO E CERTO. REVISÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Estando as razões do recurso dissociadas e cujos dispositivos contêm comando normativo incapaz de infirmar o que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.524.167/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Quanto à alegação de divergência jurisprudencial, o recurso especial também não prospera.
+É firme o posicionamento desta Corte segundo o qual os óbices os quais impedem a apreciação do recurso pela alínea a prejudicam a análise do recurso especial pela alínea c do permissivo constitucional como o demonstra o julgado assim ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE SERVIÇO PÚBLICO. AÇÃO CIVIL PÚBLICA. PRAZO PRESCRICIONAL. 5 ANOS. TERMO INICIAL: ENCERRAMENTO DO CONTRATO.RECURSO REGIDO PELA SISTEMÁTICA DO CPC/1973. HIPÓTESE EM QUE A QUESTÃO DA PRESCRIÇÃO NÃO FOI ANALISADA, MESMO APÓS A OPOSIÇÃO DE ACLARATÓRIOS. INEXISTÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE DISCUSSÃO E DECISÃO. AUSÊNCIA DE ALEGAÇÃO NO RECURSO ESPECIAL DE NULIDADE POR VIOLAÇÃO DO ART. 535 DO CPC/1973. INAFASTABILIDADE DA INCIDÊNCIA DA SÚMULA 211/STJ QUANTO AO TEMA. HIPÓTESE QUE PREJUDICA A ANÁLISE DA DIVERGÊNCIA SUSCITADA NO RECURSO ESPECIAL. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A caracterização do prequestionamento demanda a necessidade de discussão e decisão a respeito do tema jurídico, o que não ocorreu no caso dos autos. Impossibilidade de admissão do chamado prequestionamento ficto, caracterizado apenas pela mera oposição de Aclaratórios.
+Precedentes do STJ: AgInt no REsp. 1.248.586/SC, Rel. Min. SÉRGIO KUKINA, DJe 10.9.2018 e AgRg no REsp. 1.366.052/SP, Rel. Min. HUMBERTO MARTINS, DJe 19.2.2015, dentre outros.
+2. A aplicação de óbice de conhecimento quanto à ofensa legal, no tocante ao mesmo tema, prejudica a análise dada a divergência, conforme entendimento massificado deste STJ.
+3. Agravo Interno da Empresa a que se nega provimento.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
