@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por Cecília Ferreira Reis, com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado em 21/2/2024 contra ato atribuído ao Secretário de Gestão e Planejamento do Estado de Goiás e ao Gerente de Gestão e Desenvolvimento de Pessoas, consubstanciado na negativa de efetivação das promoções e progressões concedidas pela Portaria n. 1158/2022, desde a data do implemento dos requisitos.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS denegou a segurança pleiteada, ficando consignado que "ainda que a Impetrante tenha cumprido os requisitos insculpidos nos §§ 1º e 2º do artigo 8º da Lei estadual nº 17.098/2010, por não estarem os ocupantes do cargo de Assistente de Gestão Administrativo contemplados nas carreiras excepcionadas pela norma constitucional transitória, não se verifica, in casu, ofensa ao seu alegado direito líquido" (fl. 270).
+O referido acórdão foi assim ementado, in verbis:
+EMENTA: MANDADO DE SEGURANÇA. PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA. REJEIÇÃO. SUSPENSÃO DA EVOLUÇÃO FUNCIONAL DE SERVIDORES ESTADUAIS POR FORÇA DE EMENDAS CONSTITUCIONAIS ESTADUAIS E REGIME DE RECUPERAÇÃO FISCAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Deve ser rejeitada a arguição de inadequação da via eleita, por suposta utilização do remédio constitucional como substitutivo de ação de cobrança, uma vez que eventuais efeitos patrimoniais, se reconhecidos, seriam mera consequência da anulação de ato administrativo apontado como supostamente lesivo ao direito líquido e certo da impetrante.
+2. Em razão das suspensões de evoluções funcionais de servidores públicos estaduais, no período compreendido entre 2018 e 2022, ainda que a Impetrante tenha cumprido os requisitos insculpidos nos §§ 1º e 2º do artigo 8º da Lei estadual nº 17.098/2010, por não estarem os ocupantes do cargo de Assistente de Gestão Administrativo contemplados nas carreiras excepcionadas pela norma constitucional transitória, não se verifica, in casu, ofensa ao seu alegado direito líquido.
+3. Não há que se falar na retroação dos efeitos financeiros das progressões e da promoção concedidas à Impetrante a partir do mês 07/2022, tendo em vista que o Plano de Recuperação Fiscal do Estado de Goiás, como noticiado na contestação, ressalvou a concessão de evolução funcional de categorias que estavam represadas, permitindo impactos financeiros a partir de 08/2022.
+SEGURANÇA DENEGADA.
+Não foram opostos embargos de declaração.
+Nas razões de recurso ordinário, o Recorrente reprisa os argumentos expedidos na inicial do mandamus, defendendo, em síntese: a) a aplicação do Tema n.1.075/STJ; b) ausência de violação ao Regime de Recuperação Fiscal; e c) que haveria precedente favorável em caso idêntico em trâmite no STF.
+Apresentadas contrarrazões.
+O Ministério Público opina pelo não conhecimento do recurso ordinário.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não merece conhecimento a presente irresignação, porquanto a parte recorrente deixou de atacar fundamento da decisão recorrida, mais especificamente, que "ainda que a Impetrante tenha cumprido os requisitos insculpidos nos §§ 1º e 2º do artigo 8º da Lei estadual nº 17.098/2010, por não estarem os ocupantes do cargo de Assistente de Gestão Administrativo contemplados nas carreiras excepcionadas pela norma constitucional transitória, não se verifica, in casu, ofensa ao seu alegado direito líquido" (fl. 270), o qual se mostra suficiente para manutenção integral da denegação da segurança, limitando-se a afirmar que o Tribunal a quo deveria ter analisado os outros fundamentos do pedido.
+Por essa razão, o recurso padece de irregularidade formal e ofende o princípio da dialeticidade, fato que impede o exame de seu mérito, conforme entendimento dessa Corte Superior.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. INTERESSE DE INCAPAZES. PARTICIPAÇÃO OBRIGATÓRIA DO MPF. CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA. VÍCIO PROCESSUAL SANADO. PRINCÍPIO DA DIALETICIDADE. SÚMULAS 283 E 284/STF. RECURSO PRÓPRIO. INADEQUAÇÃO DO MANDADO DE SEGURANÇA. SÚMULA 267/STF. NEGATIVA DE PROVIMENTO AO AGRAVO INTERNO.
+1. A participação do Ministério Público Federal é obrigatória em casos que envolvem direitos de incapazes, conforme previsão legal. A conversão do julgamento em diligência para a manifestação do MPF foi corretamente decidida pela Turma julgadora, a fim de sanar o vício processual decorrente da ausência dessa intervenção.
+2. A ausência de impugnação direta ao fundamento do acórdão recorrido que exigia a manifestação do MPF em casos de interesse de incapazes configura violação ao princípio da dialeticidade, tornando as razões recursais inadmissíveis, conforme as Súmulas 283 e 284/STF.
+3. O Mandado de Segurança não pode ser utilizado como substituto do recurso próprio contra a decisão impugnada, conforme estabelecido na Súmula 267/STF. A utilização dessa ação como recurso alternativo é inadmissível.
+4. Diante dessas considerações, o Agravo Interno que reproduz os mesmos argumentos da petição do Recurso Ordinário em Mandado de Segurança, sem impugnar especificamente os fundamentos da decisão agravada, não merece provimento, sendo aplicáveis as Súmulas 283/STF e 182/STJ.
+5. Agravo Interno não provido.
+(AgInt no RMS n. 70.399/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO À MOTIVAÇÃO ADOTADA NA ORIGEM. DESATENDIMENTO DO ÔNUS DA DIALETICIDADE. PROCESSO ADMINISTRATIVO DISCIPLINAR. SANÇÃO ADMINISTRATIVA. INDEPENDÊNCIA ENTRE INSTÂNCIAS PENAL E ADMINISTRATIVA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão de origem declarou a ausência de fato novo a ensejar o pedido de revisão administrativa. A absolvição na seara penal não pode justificar a revisão, porque é anterior à condenação. Ademais, salientou a não influência da absolvição penal no âmbito do processo administrativo disciplinar porque a negativa de autoria ou a inexistência de fato não foram declaradas.
+2. O fundamento do acórdão a quo pela não ocorrência de fato novo a ensejar o pedido de revisão de sanção administrativa aplicada em PAD não foi impugnado. Dessa forma, a pretensão recursal, nesse ponto, não pode ser conhecida nos termos da Súm. n. 283/STF.
+3. A sentença absolutória em juízo criminal não justifica, em todas as hipóteses, a absolvição do servidor público em processo administrativo disciplinar, tendo em vista o residual administrativo. O juízo criminal, de fato, vincula o exame administrativo quando há negativa do fato ou negativa de autoria.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no RMS n. 70.958/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RIST J, não conheço do recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
