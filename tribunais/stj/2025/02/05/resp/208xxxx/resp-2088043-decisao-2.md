@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado por Sueli Navarro Jorge (fls. 1.045/1.063) com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 987):
+APELAÇÃO INTERPOSTA PELA CORRÉ SUELI NAVARRO JORGE  AÇÃO CIVIL PÚBLICA -IMPROBIDADE ADMINISTRATIVA  Ausência total de preparo  Recolhimento extemporâneo - Inaplicabilidade do art. 511, §20, do CPC - Inadmissibilidade recursal  Recurso não conhecido.
+APELAÇÃO INTERPOSTA PELA CORRÉ IBANEZ ADVOGADOS ASSOCIADOS  AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - Irregularidade em contratação de escritório de advocacia particular - Reconhecimento de ato ímprobo  Município dotado de corpo jurídico próprio - Não comprovação de que os serviços contratados eram singulares e especialíssimos  Situação excepcional não caracterizada  Flagrante desobediência aos preceitos constitucionais  Precedentes C. STJ e C. TJSP - Sentença que julgou procedente a pretensão ministerial  Manutenção da sentença por seus próprios fundamentos  Inteligência do art. 252, do RITJ  Recurso improvido.
+Opostos embargos de declaração, foram eles rejeitados (fls. 1.036/1.041), por ausência dos vícios previstos no art. 535 do CPC/73.
+A parte recorrente aponta violação aos arts. 23 e 519 do CPC/73, promovida pelo Tribunal recorrido, ao assentar a deserção de seu recurso, a despeito do recolhimento pertinente ter sido realizado, a posteriori, assim como em razão do pagamento das custas pelo outro recorrente. Lado outro, sustenta existir divergência jurisprudencial, indicando como paradigmas arestos do próprio Tribunal de Justiça do Estado de São Paulo.
+O parecer do Ministério Público Federal, de lavra da eminente Subprocuradora-Geral da República Denise Vinci Tulio, vem pelo não conhecimento do recurso, por ausência de prequestionamento e de demonstração de efetivo dissídio jurisprudencial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O acórdão vergastado no presente recurso especial também foi objeto de impugnação nest e Tribunal por parte do corréu Ibanez Advogados Associados, cuja pretensão recursal foi acolhida nesta data, para assentar a improcedência do pedido veiculado na exordial da subjacente ação, em razão do reconhecimento da natureza culposa da conduta.
+Nesse quadro, em razão do efeito expansivo do citado recurso, tem-se a perda do objeto do presente apelo nobre. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. REPERCUSSÃO GERAL. TEMA 1.199-STF. ALTERAÇÃO DO ART. 11 DA LIA. PROCESSOS EM CURSO. APLICAÇÃO. CORRÉU. EFEITO EXPANSIVO.
+ ..
+4. A Suprema Corte, em momento posterior, ampliou a aplicação da referida tese ao caso de ato de improbidade administrativa fundado no revogado art. 11, I e II, da Lei n. 8.429/1992, desde que não haja condenação com trânsito em julgado 5. No caso, o Tribunal de origem reconheceu a prática do ato ímprobo com arrimo no dispositivo legal hoje revogado, circunstância que enseja a improcedência da ação de improbidade administrativa em relação à TERRACOM CONSTRUÇÕES LTDA., aplicando o efeito expansivo da improcedência ao litisconsorte passivo LAIRTON GOMES GOULART.
+6. Agravo interno provido, com aplicação de efeito expansivo ao litisconsorte passivo .
+(AgInt no AREsp n. 2.380.545/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/2/2024, DJe de 7/3/2024.)
+ANTE O EXPOSTO, com fundamento no art. 34, XI, do RISTJ, declaro prejudicado o recurso.
+EMENTA
