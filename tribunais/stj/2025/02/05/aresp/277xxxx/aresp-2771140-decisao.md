@@ -1,0 +1,20 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança contra ato atribuído ao Chefe dos Agentes de Tributos da SEFAZ/MT. Na sentença, julgou-se extinto o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 40.000,00 (quarenta mil reais) .
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO - RECURSO DE APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA PREVENTIVO - NULIDADE DA DECISÃO - NECESSIDADE DE SUBMISSÃO AO COLEGIADO - AFASTADA - ENTENDIMENTO CONSOLIDADO NA JURISPRUDÊNCIA - MÉRITO -AUSÊNCIA DE DEMONSTRAÇÃO DE AMEAÇA REAL - INDEFERIMENTO DE PLANO - DECISÃO MANTIDA - AGRAVO DESPROVIDO. 1. NÀO HÁ FALAR EM USURPAÇÃO DE COMPETÊNCIA DOS ÓRGÃOS COLEGIADOS, JÁ QUE É POSSÍVEL O JULGAMENTO MONOCRÁTICO COM FUNDAMENTO 11A JURISPRUDÊNCIA DOMINANTE DESTA CORTE, POR FORÇA DA EXEGESE DO ART. 932, V. A, DO CPC 2015. 2. O MANDADO DE SEGURANÇA PREVENTIVO NÀO SE PRESTA A TUTELAR AS LESÕES ABSTRATAS DECORRENTES DE ATO NORMATIVOS. 3. AGRAVO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A irresignação, não se sustenta, pois eventual nulidade da decisão por suposta contrariedade ao art. 932 do CPC/2015 fica superada com amonocrática reapreciação do pelo órgão colegiado mediante agravo interno.
+ ..
+Ainda, temos a Súmula 568 do STJ, que autoriza o julgamento monocrático cujo entendimento já se encontra consolidado neste Tribunal ou no STJ, como expressamente demonstrado na decisão agravada.
+Quanto ao mérito do recurso, ressalto que deixei claro na decisão unipessoal que o Agravante não comprovou a existência de ameaça real, plausível, concreta e objetiva, configurada em atos da Administração preparatórios ou, no mínimo, por fundados indícios de que ação abusiva e ilegal da autoridade esteja prestes a se consumar.
+Com efeito, o mandado de segurança preventivo não se presta a tutelar as lesões abstratas decorrentes de ato normativos.
+Por derradeiro, acrescento que o C. Supremo Tribunal Federal, ao julgar a ADC 49, reconheceu a inconstitucionalidade da cobrança de ICMS na transferência de mercadorias entre estabelecimentos da mesma pessoa jurídica, no entanto, modulou seus efeitos, para que tenha eficácia apenas a partir do exercício financeiro de 2024, in verbis:
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente a alegação de violação ao artigo 1º da Lei n. 12.016/2009, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
