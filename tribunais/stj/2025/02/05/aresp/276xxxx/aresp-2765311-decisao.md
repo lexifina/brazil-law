@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo interposto por EMÍLIA DE FÁTIMA LAROCCA contra decisão que não admitiu recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. USO INDEVIDO DE CARTÃO CORPORATIVO. DECISÃO AGRAVADA QUE RECEBEU A PETIÇÃO INICIAL E DECRETOU A INDISPONIBILIDADE DE BENS.
+IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA DO NOVO REGRAMENTO ATINENTE À PRESCRIÇÃO, INCLUÍDO NA LEI Nº 8.429 /1992 PELA LEI Nº 14.230/2021. SUPREMO TRIBUNAL FEDERAL QUE JÁ FIXOU ENTENDIMENTO DE NATUREZA VINCULANTE NO ÂMBITO DO TEMA DE REPERCUSSÃO GERAL Nº 1.199. TESE DE OCORRÊNCIA DE PRESCRIÇÃO QUE DEVE SER ANALISADA À LUZ DA REDAÇÃO LEGAL VIGENTE À ÉPOCA DO AJUIZAMENTO DA PETIÇÃO INICIAL. PRAZO PREVISTO EM LEI ESPECÍFICA PARA FALTAS DISCIPLINARES PUNÍVEIS COM DEMISSÃO. ANTIGA REDAÇÃO DO ART. 23, INCISO II, DA LEI Nº 8.429/92. APLICAÇÃO DO PRAZO QUINQUENAL PREVISTO NO ART. 301, INCISO II, ALÍNEA "A", DA LEI ESTADUAL Nº 6.174/1970. INTERRUPÇÃO PELA DECISÃO FINAL DO PROCESSO ADMINISTRATIVO DISCIPLINAR. INOCORRÊNCIA DE PRESCRIÇÃO.
+OBSERVÂNCIA DE JULGAMENTO ANTERIOR DE RECURSO INTERPOSTO POR CORRÉ DA RECORRENTE, QUANDO SE DECIDIU PELA INEXISTÊNCIA DE PERICULUM IN MORA APTO A JUSTIFICAR A MANUTENÇÃO DA MEDIDA DE INDISPONIBILIDADE DE BENS. DECISÃO QUE BENEFICIA A AGRAVANTE NA FORMA DO ART. 1.005 DO CÓDIGO DE PROCESSO CIVIL.
+AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO (fls. 198-199).
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 238-244.
+A agravante sustenta, em seu recurso especial, ofensa ao art. 23, II, da Lei 8.429/1992, por entender que "a legislação federal estabelece que se aplica os prazos da legislação específica e não as demais regras", de modo que "Deixar que se apliquem regras estaduais de interrupção de prazo para ajuizamento de ação definida em legislação federal, viola a Constituição da República e a hierarquia normativa, sobretudo em razão da disparidade que pode haver entre normas estaduais" (fl. 264).
+O recurso especial não foi admitido pelo Tribunal de origem (fls. 349-351), tendo a agravante interposto o agravo de fls. 459-465.
+É o relatório. Decido.
+A pretensão não merece acolhida.
+Com efeito, o Tribunal de origem assim decidiu a causa:
+A Lei específica, é a Lei Estadual nº 6.174/1970, que estabelece o regime in casu, jurídico dos Servidores Públicos do Poder Executivo do Estado do Paraná. Neste diploma Legislativo, o art. 301, Inciso II, alínea "a", prevê que prescreverá em 5 (cinco) anos a falta sujeita à pena de demissão.
+Se a lei específica estabelece o prazo prescricional, certamente deverão ser consideradas eventuais hipóteses de interrupção e suspensão do prazo prescricional previstas na mesma Legislação específica.
+Ainda que os fatos tenham ocorrido em 2007, a decisão final proferida em Processo Administrativo é uma das hipóteses de interrupção do prazo prescricional, nos termos do art. 301, § 1º, alínea "d", da Lei Estadual nº 6.174/1970:
+ ..
+Por sua vez, tem-se que a Decisão definitiva da Comissão do PAD - no sentido de demissão da Agravante - se deu em 29/12/2010 (mov. 1.102) através do Decreto nº 9.161/2010. Houve, portanto, interrupção do prazo prescricional, reiniciando a contagem a partir de tal data, nos termos do art. 202, Parágrafo Único, do Código Civil (fls. 207-208).
+Assim, infir mar as conclusões do acórdão recorrido demandaria o exame da Lei Estadual 6.174/1970, o que é vedado em recurso especial, nos termos da Súmula 280/STF.
+Ademais, ainda que esse óbice pudesse ser superado, "a interrupção da prescrição na via administrativa tem indissociável relação com a interrupção na esfera judicial. Sendo assim, a interrupção da prescrição que enseja o adiamento do período no qual deve ser exercida a pretensão punitiva na esfera disciplinar repercute na esfera judicial, permitindo também a postergação do prazo para a propositura da ação de improbidade" (FILHO, José dos Santos C. Improbidade Administrativa - Prescrição e outros prazos extintivos - 3ª Edição 2019. 3. ed. Rio de Janeiro: Atlas, 2019. E-book. p.166. ISBN 9788597021950. Disponível em: https://stj.minhabiblioteca.com.br/reader/books/9788597021950/. Acesso em: 16 dez. 2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
