@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ROBSON MENDES NEVES, contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. DESPACHO. IMPULSO OFICIAL. ATO NÃO RECORRÍVEL. RECURSO NÃO ADMITIDO. ART. 932, III, DO CPC. AGRAVO INTERNO. IMPROVIDO.
+1. No caso concreto, a inadmissibilidade do agravo de instrumento se demonstrou evidente, uma vez que se volta contra ato judicial sem cunho decisório, isto é, com natureza de despacho, já que o magistrado singular limitou-se a determinar a intimação da parte para o pagamento de custas processuais, cuja condenação restou fixada na sentença terminativa.
+2. Colhe-se da jurisprudência que "Limitando-se o pronunciamento judicial contra o qual se insurge a parte agravante à mera intimação para pagamento das custas finais e demais despesas processuais, sem qualquer conteúdo decisório, reputa-se irrecorrível o ato judicial. (TJMG - Agravo Interno Cv 1.0000.21.142938-6/002, Relator(a): Des.(a) Fernando Lins , 20ª CÂMARA CÍVEL, julgamento em 10/11/2021, publicação da súmula em 11/11/2021).
+3. Agravo interno conhecido, mas não provido.
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, a parte ora agravante alegou a violação dos arts. 10, 290, 489, II, § 1º, I a IV, 502, 503, 505, 507, 508, 1.015 e 1022, I e II, do CPC/2015.
+A irresignação não foi admitida, por ausência de vício de fundamentação, e por aplicação das Súmulas 83 do STJ e 282 e 356 do STF.
+Em suas razões de agravo, a parte recorrente sustenta o preenchimento dos requisitos de admissibilidade do recurso especial. Reitera a existência de vícios de fundamentação. Diz que o entendimento do STJ é contrário ao esposado no acórdão. Alega que houve prequestionamento ficto.
+Contraminuta apresentada (fls. 215-224).
+É o relatório.
+Passo a decidir.
+As razões recursais estão dissociadas dos fundamentos utilizados pelo aresto recorrido, uma vez que a aplicação da Súmula 83 do STJ foi realizada tanto em relação ao suposto vício de fundamentação quanto em relação à matéria de fundo, mas refutada somente quanto a esta última, e sem que se rebatesse o argumento de que a decisão que condenou o autor ao pagamento de custas processuais (fl. 56) já estaria preclusa.
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Ademais, ainda no que diz respeito à Súmula 83/STJ, em casos análogos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+Nesse sentido:
+ADMINISTRATIVO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. SERVIDOR PÚBLICO. CUMULAÇÃO DE CARGOS. DECISÃO DE INADMISSIBILIDADE.
+FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA. 1. O Tribunal de origem inadmitiu o Recurso Especial, ante a incidência da Súmula 7/STJ e 83/STJ.
+2. Nas razões do Agravo, a parte agravante deixou de impugnar a decisão recorrida no que se refere à incidência da Súmula 83/STJ. O STJ entende que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro Marco Aurélio Belizze, Terceira Turma, julgado em 18/10/2016, DJe 28/10/2016).
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo em Recurso Especial que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Incumbia à agravante demonstrar, no Agravo, que a orientação jurisprudencial não foi pacificada no mesmo sentido do acórdão recorrido, ou então comprovar que o precedente indicado, por constituir situação diversa, não teria aplicação ao caso dos autos.
+5. "É inviavel o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Inteligência da Súmula 182 do STJ.
+6. Agravo Interno não provido (AgInt no AREsp n. 1.119.082/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2017, DJe de 19/12/2017).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, n o qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
