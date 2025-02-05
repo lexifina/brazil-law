@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, recurso ordinário em mandado de s egurança impetrado por RENATO DOS SANTOS ALVES contra o ESTADO DA BAHIA, em que requer a reforma do acórdão proferido pelo TJBA, assim ementado (e-STJ fls. 152-153):
+MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. POLICIAL MILITAR INATIVO. IMPETRANTE OCUPANTE DA GRADUAÇÃO DE SUBTENENTE NA ATIVA . RECLASSIFICAÇÃO PARA TENENTE E PERCEPÇÃO DE PROVENTOS NO POSTO DE CAPITÃO. IMPOSSIBILIDADE. EXTINÇÃO DA PATENTE DE SUBTENENTE. NÃO OCORRÊNCIA. PROMOÇÃO AO OFICIALATO POSSÍVEL APENAS NA ATIVA. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS LEGAIS. INEXISTÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. ADERÊNCIA AO ENTENDIMENTO FIRMADO POR ESTE ÓRGÃO JULGADOR, EM RESPEITO AO PRINCÍPIO DA COLEGIALIDADE. SEGURANÇA DENEGADA.
+1. A alteração promovida pela Lei n. 7.145/97 na escala hierárquica dos postos e graduações da Polícia Militar, não implicou na imediata extinção do cargo de Subtenente, ocupado pelo impetrante quando da transferência para a reserva remunerada, como se extrai da interpretação da norma do artigo 3º da aludida norma.
+2. Não tendo se submetido às regras legais para alcançar posto do Oficialato ainda em atividade, a pretensão do impetrante de percepção de proventos da graduação de 1º Tenente configuraria dupla promoção e burla ao sistema de promoções previsto na legislação, revelando-se inegavelmente despida de juridicidade. SEGURANÇADENEGADA.
+O impetrante, ora recorrente, alega o seguinte (fls. 178-179):
+Conforme já exposto nos fatos, as modificações trazidas pela Lei 7.145/97, em seus arts. 3º e 4º, com a consequente extinção de algumas graduações, possibilitou que os policiais que estavam em atividade e que ocupavam os cargos extintos fossem automaticamente promovidos para a patente imediatamente superior.
+Portanto, fora conferido aos policiais militares da ativa a reclassificação a graduação imediatamente superior à que estes se encontravam. Embora não haja menção na referida lei, tal benefício deveria ter sido aplicado os policiais inativos, conforme preceituado pelo art. 40, §8º da Constituição Federal, que estipula que as vantagens e as reclassificações operadas nas carreiras dos militares da ativa devem ser estendidas aos militares inativos. O artigo acima mencionado teve sua redação conferida pela Emenda Constitucional nº 41/2003 que previu em seu art. 7º que os proventos de aposentadoria e pensão serão revistos na mesma proporção e na mesma data, que se modificar a remuneração dos servidores em atividade, devendo ser estendido, inclusive quaisquer benefícios ou vantagens aos inativos.
+Não foram apresentadas contrarrazões.
+O Ministério Público Federal ofereceu parecer pelo desprovimento do recurso.
+É o relatório.
+Passo a decidir.
+O recorrente pleiteia seu enquadramento no posto de 1º Tenente, com o consequente recebimento de proventos equivalentes ao de Capitão PM, alegando que a graduação que ocupava quando se inativou foi extinta e assegurada a reclassificação quando ainda estava em atividade.
+O Tribunal de origem denegou a ordem nos seguintes termos (fls. 157-159):
+Conforme afirmado na exordial, o móvel da pretensão mandamental reside no argumento de que a extinção da graduação de Subtenente PM, veiculada pela Lei Estadual n. 7.145/97, implicaria na reclassificação ainda na atividade dos integrantes desta patente para graduação imediatamente superior (1º Tenente) que, por consequência, deveriam perceber seus proventos no posto de Capitão PM.
+A documentação acostada aos autos demonstra que o impetrante passou para a reserva remunerada em 24/10/2018, posteriormente à edição da Lei n.º 7.145/97, que reorganizou a carreira da Polícia Militar do Estado da Bahia, nos seguintes termos:
+(..)
+O exame desta norma revela que, diversamente do alegado pelo autor mandamental, a reestruturação da carreira policial militar não implicou na imediata extinção do cargo de Subtenente.
+Ao revés, é possível concluir que apenas em relação às patentes que não foram contempladas no artigo 1º da Lei nº 7.145/97 efetivou-se a extinção, questão espancada pelo próprio artigo 3º, que previu expressamente a reclassificação ex lege, senão vejamos:
+(..)
+Nesse contexto a inexistência de extinção automática da hierarquia impede o reconhecimento do direito à reclassificação imediata para a classe superior, uma vez que, como visto, o impetrante foi transferido à reserva remunerada como Subtenente, graduação ainda existente à época.
+A pretensão mandamental de elevação do impetrante à graduação de 1º Tenente carece de suporte normativo, não havendo que se falar em ilegalidade do ato que o manteve como Subtenente.
+Conforme se extrai do acórdão recorrido, a Lei Estadual 7.145/97, que reorganizou a escala hierárquica da Polícia Militar do Estado da Bahia, manteve o posto de Subtenente - art. 1º, III, e estabeleceu sua extinção à medida que vagassem - art. 4º.
+A Lei nº 7.990/2001, por sua vez, em sua redação original excluiu o posto de Subtenente da escala hierárquica da Polícia Militar - art. 9º, III, e previu que até a vacância da graduação na forma prevista na Lei nº 7.145/1997, ela seria considerada integrante da escala hierárquica - art. 220.
+Ocorre que a Lei Estadual 11.456/2009, vigente na data em que o impetrante foi transferido para a reserva remunerada (24/10/2018), alterou o art. 9º da Lei 7.990/2001, reincluindo o posto de Subtenente na escala hierárquica da Polícia Militar.
+Assim, não prospera a pretensão do ora recorrente de ser promovido ao grau imediatamente superior com base na extinção da patente de Subtenente pela Lei Estadual 7.145/97, pois esta perdurou somente até o advento da Lei 11.356/2009, o que ocorreu em data muito anterior à passagem para a reserva.
+Diante da ausência de qualquer ilegalidade, não merece reparos o acórdão recorrido que denegou a segurança.
+Nesse sentido:
+RECURSO EM MANDADO DE SEGURANÇA. MILITAR. PROMOÇÃO DE 2º PARA 1º SARGENTO. NECESSIDADE DA CONCLUSÃO DO CURSO DE APERFEIÇOAMENTO. AUSÊNCIA DE LEGISLAÇÃO QUE AMPARE O DIREITO PLEITEADO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+I - Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+II - Na origem, trata-se de mandado de segurança impetrado em 17/12/2020 contra ato omissivo atribuído ao Comandante-Geral da Polícia Militar do Estado da Paraíba, objetivando a sua promoção à graduação de 1º Sargento PM, por preencher os requisitos legais.
+III - Analisando a legislação quanto às promoções dos militares estaduais, mormente o Decreto Estadual nº 23.287/02 e a Lei Estadual nº 11.284/18, apontadas pelo Recorrente como autorizadoras do direito vindicado, não é possível vislumbrar o direito tido como líquido e certo pelo Impetrante.
+IV - Isso porque as aludidas normas não se encontram em divergência com a legislação federal que trata da promoção para a graduação de 1º Sargento PM, mormente quanto à necessidade de aprovação em Curso de Aperfeiçoamento, mas trata de regras para promoção a patentes distintas, como a de 3º Sargento e de Tenente.
+V - Em suma, não há na legislação local ou mesmo na legislação federal, norma que indique que a promoção de militar ocupante da graduação de 2º Sargento à graduação de 1º Sargento dependa somente do cumprimento de requisito afeto à tempo de serviço, de modo que não há como vislumbrar o direito líquido e certo inicialmente pleiteado pelo Recorrente.
+VI - Recurso ordinário desprovido (RMS n. 68.324/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/3/2023, DJe de 10/3/2023).
+Isso posto, nego provimento ao recurso.
+Custas pela parte recorrente/impetrante. Sem honorários advocatícios (art. 25 da Lei 12.016/09).
+Publique-se. Intimem -se.
+EMENTA
