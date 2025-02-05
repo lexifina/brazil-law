@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior, que, aplicando a Súmula 182/STJ, não conheceu do agravo em recurso especial, por entender que não houve impugnação específica aos fundamentos utilizados no juízo de admissibilidade.
+Em suas razões, a agravante sustenta que efetivamente enfrentou todos os fundamentos da decisão que não admitiu seu recurso especial.
+Impugnação às fls. 881/902 e-STJ.
+Em vista do alegado, presente a dialeticidade do recurso, reconsidero a decisão agravada e passo a novo exame dos autos.
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"EMBARGOS À EXECUÇÃO - Sentença de rejeição - Conquanto o contrato de prestação de serviços advocatícios se constitua em título executivo extrajudicial, a teor do que dispõe o CPC, art. 784, XII, e artigo 24 da Lei nº 8.906/1994 (EAOAB), a rescisão contratual antecipada retira a exequibilidade do título pela perda de sua liquidez, exigindo processo de conhecimento-condenatório - Precedentes da Corte - Preliminar de inépcia (nulidade) acolhida - Demais questões e matérias não conhecidas - Embargos acolhidos, na parte conhecida -Processo de execução extinto (CPC, art. 803, I) - Decaimento invertido - Sentença substituída - Recurso provido, na parte conhecida"
+Opostos embargos de declaração, foram rejeitados.
+A parte agravante, em seu recurso especial, aponta violação aos arts. 10, 489, 492 e 1.022 do Código de Processo Civil, sustentando, em síntese, negativa de prestação jurisdicional e que o Tribunal local, além de ter proferido decisão de natureza diversa da pedida, se pronunciou com base em fundamento a respeito do qual não deu às partes oportunidade de se manifestar.
+C  ontrarrazões às fls. 790/806 e-STJ.
+Juízo de admissibilidade proferido às fls. 807/809 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No que tange à alegada violação ao art. 1.022, inciso II, do Código de Processo Civil, sob o fundamento de que houve omissão do acórdão recorrido, vejo que não prospera o recurso, pois não vejo deficiência de fundamentação alguma no acórdão recorrido quanto às matérias postas pelas partes agravantes.
+O acórdão abordou as questões apresentadas pelas partes de forma suficiente a formar e demonstrar seu convencimento, de modo que não houve violação alguma ao dispositivo do art. 1.022, II, do CPC.
+Ademais, mesmo que no entendimento das partes agravantes o acórdão não tenha rebatido cada um dos argumentos de forma individualizada, não há violação ao art. 1022 do CPC/15 e, assim, deficiência de fundamentação, se o que se prolatou foi o suficiente para se decidir de modo integral a controvérsia.
+Prosseguindo, quanto à violação ao art. 10 do CPC, consubstanciada na violação ao princípio da não surpresa, a parte agravante alega que o Tribunal de origem, ao declarar a inépcia da inicial, invocou fundamento inovador, nunca antes formulado pelas partes, qual seja:
+"Conquanto contrato de prestação de serviços advocatícios seja título executivo extrajudicial, a teor do que dispõe o artigo 24 da Lei nº 8.906/1994, a rescisão contratual antecipada retira a exequibilidade do título pela perda de sua liquidez, exigindo processo de conhecimento-condenatório em que se discutirá o cabimento ou não de contraprestação"
+A parte agravada, entretanto, em suas razões de apelação expressamente expõe fundamentação no sentido de que para que "a cobrança de honorários ocorra pela via executiva impõe-se expressa disposição contratual no tocante ao valor a ser pago pela prestação dos serviços além do escopo do trabalho a ser realizado, sem prejuízo da comprovação do adimplemento da contraprestação".
+Desse modo, verifica-se a ausência de afronta ao princípio da não surpresa, uma vez que a indigitada violação não ocorre quando o pronunciamento jurisdicional adota fundamentos jurídicos narrados pelas partes, como o caso dos autos.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. MATÉRIA CONSTITUCIONAL. INCABÍVEL. VIOLAÇÃO DOS ART. 489 DO CPC. NÃO OCORRÊNCIA. OFENSA AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. NULIDADE. CERCEAMENTO DE DEFESA. NÃO VERIFICAÇÃO. DECISÃO SUPRESA. ARTS. 9 E 10 DO CPC. INEXISTÊNCIA. SÚMULA N. 83 DO STJ. COMODATO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. APLICAÇÃO DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É incabível a pretensão de que esta Corte de Justiça delibere sobre a suposta violação de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. Inexiste ofensa ao art. 489 do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+3. A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, da leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial. Aplicação da Súmula n. 284 do STF.
+4. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+5. Não há afronta ao contraditório e ao princípio da não surpresa quando os fatos da causa foram submetidos ao contraditório e as partes tiveram a oportunidade de se manifestar sobre o fundamento da decisão em momento anterior.
+6. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+7. Agravo interno desprovido" (AgInt no AREsp n. 2.509.270/SP, relator Ministro João Otávio de Noronha, QUARTA TURMA, DJe de 19/6/2024.)
+Por fim, ressalta-se, por oportuno, que a alteração da conclusão firmada no acórdão recorrido quanto a ausência de liquidez e certeza do contrato de prestação de serviços advocatícios esbarra no óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
