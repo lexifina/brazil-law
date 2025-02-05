@@ -1,0 +1,49 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por RECOGNITION COMPANHIA BRASILEIRA DE AUTOMACAO BANCARIA, com fundamento na ausência de violação aos arts. 489 e 1.022 do CPC e na incidência da Súmula 7/STJ.
+  Ainda, em relação à alínea c, decidiu pela inviabilidade do cabimento do recurso, em razão da insuficiente demonstração da divergência do precedente com a fundamentação do julgado do próprio Tribunal.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou os arts. 85, §§2º e 8º, 113, III, 119, 124, 338, e 489, §1º, IV, e 1.022, parágrafo único, II, do CPC.
+Assevera, ainda, que não busca o reexame de fatos e provas, mas sim a identificação da efetiva violação da legislação federal e do dissídio jurisprudencial apontado.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+1 - Da alegada violação aos arts. 489 e 1.022 do CPC
+Nesse cenário, quanto à apontada violação ao art. 489, §1º, IV, e 1.022, parágrafo único, II, do CPC, verifica-se que a agravante alega a existência de vício de omissão no acórdão recorrido, sob o argumento de não ter se pronunciado adequadamente sobre os dispositivos legais apontados como violados, ainda que em sede de embargos de declaração.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstrou, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+Quanto ao mérito, o apelo especial também não merece conhecimento. Explico.
+2 - Da incidência da Súmula 7/STJ
+Ademais, quanto à suposta violação aos 113, III, 119, 124, do CPC, vislumbro que o Tribunal de origem, ao concluir pela exclusão do Município de Barueri do polo passivo da execução fiscal, analisou a controvérsia com base na documentação acostada nos autos, levando em consideração os fatos e circunstâncias relacionados à matéria. Vejamos (fls. 1432-1434):
+ ..  Ora, à evidência, a exclusão da Municipalidade de Barueri do polo passivo da execução fiscal ocorreu diante do reconhecimento da inexistência de vínculo jurídico-tributário entre a autora- agravante e a esta Municipalidade.
+A propósito, a própria Municipalidade de São Paulo reconhece que "não foi formulado pedido em face da Municipalidade de Barueri, de forma que eventual erro da autora na formulação dos pedidos formulados na exordial, não lhe dá razão nem justifica a interposição do presente recurso" (fls. 1428/1429).
+Nesse passo, de fato, não há interesse da agravante na manutenção da Municipalidade de Barueri no polo passivo da ação anulatória.
+Bem por isso, consignou, acertadamente, a decisão recorrida que "não há fundamento para que o Município de Barueri figure no polo passivo da ação", visto que pedido da ação anulatória se restringe à anulação de autos de infração lavrados pelo Município de São Paulo, não havendo pedido em relação ao Município de Barueri.
+É certo, todavia, que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Portanto, observa-se que a alteração da conclusão do Tribunal a quo, acerca o que ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. DISCUSSÃO SOBRE ILEGALIDADE DE ATO NORMATIVO QUE TRATA DA DISTRIBUIÇÃO DA COTA PARTE DE ICMS AO MUNICÍPIO AUTOR. ACÓRDÃO LOCAL QUE AFIRMA QUE O RECONHECIMENDO DO DIREITO AO MUNICÍPIO OCORRERÁ EM DETRIMENTO DE INTERESSES DOS DEMAIS MUNICÍPIOS. LITISCONSÓRCIO PASSIVO NECESSÁRIO. PRECEDENTES. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS. SÚMULA N. 211 DO STJ. INAPLICABILIDADE DO ART. 1.025 DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+ ..  3. Por outro lado, alterar o entendimento do Tribunal de origem que reconheceu o atingimento da esfera patrimonial dos demais municípios do Estado do Pará em razão da pretensão de recálculo dos repasses de ICMS demandaria reexame de matéria fático-probatória, o que encontra óbice no teor da Súmula n. 7 desta Corte.
+ ..  5. Agravo interno não provido.
+(AgInt no REsp n. 1.975.840/PA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/3/2024, DJe de 7/3/2024. - grifo nosso)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. REPASSE CONSTITUCIONAL AOS MUNICÍPIOS. ART. 158 DA CF. DISCUSSÃO QUANTO AO ÍNDICE DE PARTICIPAÇÃO. LITISCONSÓRCIO PASSIVO NECESSÁRIO.
+1. Hipótese em que os municípios recorrentes pretendem recalcular as suas cotas de ICMS. Discute-se se há litisconsórcio necessário em relação aos demais municípios do Estado, em razão do art. 47 do Código de Processo Civil.
+2. Há duas situações que não se confundem: a) município que pretende receber a sua cota, sem que seja afetada a esfera patrimonial dos demais municípios; b) município que pretende recalcular a sua cota, atingindo a esfera patrimonial dos demais entes municipais.
+3. Se houver o reconhecimento, pelo Tribunal de Origem, de que a pretensão do município afetará os interesses econômicos dos demais entes do estado, a hipótese é de litisconsórcio necessário. Citação obrigatória de todos os municípios envolvidos.
+4. No caso, foi reconhecido o atingimento da esfera patrimonial dos demais municípios do Estado de Goiás, haja vista a pretensão de recálculo dos repasses de ICMS. Mudar o entendimento do Tribunal encontra óbice na súmula 7 desta Corte.
+Agravo Regimental Improvido.
+(AgRg no REsp n. 1.487.860/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/3/2015, DJe de 24/3/2015. - grifo nosso)
+Do mesmo modo, quanto à alegada violação ao art. 85, §§2º e 8º, do CPC, vislumbra-se que para se chegar à conclusão acerca da manutenção da condenação em honorários advocatícios, o Tribunal de origem se pautou nos ditames do princípio da causalidade, o que ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Em situações análogas esta Corte Superior já decidiu:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA IMPOSSIBILIDADE DE AFERIR EQUÍVOCO NA APLICAÇÃO DOS §§ 2º E 3º DO ART. 85 DO CPC/2015. REVISÃO. REEXAME DE PROVA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Consoante pacífica orientação jurisprudencial deste Tribunal Superior, o valor do débito executado não pode ser adotado como base de cálculo dos honorários advocatícios no caso de exclusão de corresponsável do polo passivo da execução fiscal, além de não representar proveito econômico em favor do excluído. Precedentes.
+3. No caso dos autos, após reconhecer a ilegitimidade passiva ad causam de corresponsável indicado pela parte exequente, o Tribunal Regional Federal arbitrou honorários advocatícios de sucumbência com apoio nos §§ 2º e 3º do art. 85 do CPC/2015, afirmando, porém, não haver elementos para aferir o proveito econômico da causa; e o delineamento fático descrito no acórdão recorrido não permite eventual conclusão por erro na aplicação dos §§ 2º e 3º do art. 85 do CPC/2015, razão pela qual eventual alteração dependeria do reexame de prova. Observância da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.929.229/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/4/2024, DJe de 7/5/2024. - grifo nosso)
+Em vista disso: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+3 - Da divergência jurisprudencial
+Por fim, resta claro que a análise do dissídio jurisprudencial se encontra prejudicada, tendo em vista que o óbice aplicado ao recurso especial pela alínea "a" prejudica o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Não é outro o entendimento desta Turma de direito público: AgInt nos EDcl no AREsp 2.152.218/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/11/2023, DJe de 10/11/2023; AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023; e AgInt no AREsp 2.079.504/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
