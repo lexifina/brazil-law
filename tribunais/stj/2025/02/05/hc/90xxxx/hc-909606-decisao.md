@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Denis da Silva, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, em virtude do julgamento da apelação criminal n. 5019601-95.2023.8.24.0020.
+Consta nos autos que o paciente foi inicialmente condenado pela prática do delito previsto no art. 157, caput, c/c art. 61, I, c/c art. 65, III, "d", c/c art. 15, II, e art. 147, caput, c/c art. 61, I, todos do Código Penal.
+A defesa interpôs recurso de apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao apelo para compensar a reincidência com a atenuante da confissão espontânea, mantendo-se inalterada a sentença condenatória nos demais termos.
+Na presente impetração, busca-se a concessão da ordem para reconhecer a atenuante inominada prevista no art. 66 do Código Penal, em face da alegada vulnerabilidade processual do paciente.
+As informações foram prestadas pela autoridade coautora.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da alegada necessidade do reconhecimento da atenuante inominada prevista no art. 66 do Código Penal.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A Terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+É o entendimento:
+ ..  A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+Não obstante, tendo em vista a possibilidade de concessão da ordem ofício, em observância ao disposto no art. 654, § 2º, do Código de Processo Penal, o constrangimento apontado será analisado.
+No caso em apreço, o impetrante busca a aplicação da circunstância atenuante prevista no art. 66 do Código Penal, sob argumento de que o paciente foi alvo de agressões por populares.
+Entretanto, o Tribunal local bem analisou o requerimento formulado, afastando os argumentos sustentados pela defesa.
+É o que se depreende:
+ ..
+Prosseguindo, postula a defesa postula a aplicação da atenuante inominada (art. 66 do Código Penal), argumentando que o fato do réu ter sido alvo de agressões por populares, suportando pena corporal sumária e degradante antes mesmo da instauração do processo é causa para redução da pena.
+Todavia, neste ponto razão não assiste à defesa. O art. 66, do Código Penal dispõe: "A pena poderá ser ainda atenuada em razão de circunstância relevante, anterior ou posterior ao crime, embora não prevista expressamente em lei".
+O Superior Tribunal de Justiça pontua que "somente pode ser reconhecida a existência da atenuante inominada quando houver uma circunstância, não prevista expressamente em lei, que permita ao Juiz verificar a ocorrência de um fato indicativo de uma menor culpabilidade do agente" (AgRg no AREsp n. 1.809.203/SP, relator Ministro Felix Fischer, Quinta Turma, j. em 9/3/2021). Em suma, embora seja deveras repugnante e reprovável a prática do linchamento, é certo que não consubstancia menor culpabilidade do autor para justificar a incidência da atenuante. Aliás, tal tese já foi submetida ao Superior Tribunal de Justiça em outras oportunidades e em nenhuma delas o pleito defensivo foi acolhido, nem mesmo de ofício, a saber: AgRg no HC n. 694.019/SP, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. em 27/3/2023; AgRg no HC n. 633.562/SC, rel. Min. Joel Ilan Paciornik, Quinta Turma, j. em 21/9/2021; AgRg no AREsp n. 1.809.203/SP, rel. Min Felix Fischer, Quinta Turma, j. em 9/3/2021 e HC 801.801, Sexta Turma, rela Mina Laurita Vaz, j. 01/10/2023).
+É o entendimento desta Corte que "somente pode ser reconhecida a existência da atenuante inominada quando houver uma circunstância, não prevista expressamente em lei, que permita ao Juiz verificar a ocorrência de um fato indicativo de uma menor culpabilidade do agente" (AgRg no AREsp 1809203/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/3/2021, DJe 22/3/2021).
+Portanto, não se identifica qualquer ilegalidade a ser enfrentada, uma vez que foi suficientemente fundamentado, pelo Tribunal de origem, o não reconhecimento da referida circunstância, que, a partir de minuciosa análise do acervo probatório dos autos, verificou não haver indicativo de uma menor culpabilidade do paciente a justificar a incidência da atenuante inominada.
+De todo modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem nos termos do art. 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
