@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, recurso especial interposto pelo ESTADO DE GOIAS contra o acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. SAÚDE. HONORÁRIOS. DEFENSORIA PÚBLICA. CABIMENTO. TEMA 1076 DO SUPERIOR TRIBUNAL FEDERAL. ARBITRAMENTO POR EQUIDADE. POSSIBILIDADE. OBSERVÂNCIA À TABELA DE VALORES RECOMENDADOS PELA ORDEM DOS ADVOGADOS DO BRASIL. ART. 85, §8º-A DO CPC. 1. Nas ações em que se discute questão relativa ao direito constitucional à vida e/ou à saúde, como no caso em apreço, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, pois, independentemente do montante dispendido com a prestação pleiteada, o proveito econômico obtido pelo litigante é inestimável. 2. De acordo com o art. 85, §8º-A, do Código de Processo Civil , para a fixação equitativa dos honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º do mesmo artigo, aplicando-se o que for maior. EMBARGOS DE DECLARAÇÃO CONHECIDOS E, EM PARTE, ACOLHIDOS, COM EFEITO MODIFICATIVO.
+A parter recorrente sustenta, em suma, violaça o ao artigo 85, § 8º, do Código de Processo Civil, ante a necessidade de arbitramento de honorários de sucumbência por equidade, por se tratar de matéria de saúde, onde a parte autora busca a preservação da própria vida, mediante o fornecimento de tratamento de saúde, sendo, portanto, inestimável o proveito econômico.
+Contrarrazões (fls. 299-291).
+Os autos foram distribuídos por sorteio.
+É o relatório.
+Passo a decidir.
+Inicialmente, da analise dos autos, verifico que o Tribunal de origem fixou os honorários sucumbenciais por apreciação equitativa, consignando que "a Tabela de Honorários da OAB/GO (ação de obrigação de fazer em matéria de saúde, item 27.1.3, que corresponde à importância de R$9.000,00 - in https://www.oabgo.org.br/oab/tabela-de-honorarios, consulta em 07/07/2024)", portanto, deve ser aplicado o limite mínimo de 10% sobre o valor da causa (R$ 100.000,00), conforme disposto no art. 85, §§8º e 8-A do Código de Processo Civil:
+§ 8º Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º.
+§ 8º-A. Na hipótese do § 8º deste artigo, para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior.
+Assim, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
