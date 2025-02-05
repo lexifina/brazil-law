@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HELIO RIBEIRO DOS SANTOS, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Recurso em Sentido Estrito n. 1504073-35.2023.8.26.0001).
+Consta dos autos que o paciente foi denunciado pela prática da conduta prevista nos artigos 121, § 2º, incisos I, III, e VI, c. c os §§ 2º-A, inciso I, e 7º, inciso III, bem como com o artigo 14, inciso II; e 121, § 2º, inciso VI, c. c o § 2º-A, inciso I, e com o artigo 14, inciso II, todos do Código Penal, na forma do artigo 69 do referido diploma legal.
+O Juiz de 1º grau desclassificou a conduta do paciente para delitos de competência do Juízo singular.
+O Ministério Público recorreu e o Tribunal de origem deu parcial provimento ao recurso em sentido estrito para pronunciar o paciente pela prática do crime tipificado no artigo 121, § 2º, inciso VI, combinado com os § 2º-A, inc. I, e § 7º, inciso III, e com o artigo 14, inciso II, do Código Penal em relação a uma das vítimas. Eis a ementa (fl. 14):
+Ementa: recurso em sentido estrito. Homicídios qualificados (motivo torpe, meio cruel e razões da condição do sexo feminino), tentados. Decisão desclassificatória para delitos não dolosos contra a vida. Recurso da Acusação provido, em parte, para pronunciar o recorrido pela prática do delito doloso contra a vítima E. Elementos que indicam a existência de materialidade do fato e indícios suficientes de autoria, nos termos do artigo 413, do CPP. Fase de pronúncia em que vigora o princípio do "in dubio pro societate". Qualificadora (razões da condição do sexo feminino) que não se revela manifestamente improcedente. Quanto às demais qualificadoras (motivo torpe e meio cruel), o Ministério Público nada requereu nas razões do recurso e, por ocasião das alegações finais, postulou seu afastamento. No que tange ao crime conexo, deve ser aplicado o artigo 78, "caput", inciso I, do CPP, pois presentes prova da materialidade e indícios de autoria, também na parcela, com Manifestação do Ministério Público a respeito da classificação jurídica. Recurso em liberdade, sendo incabível, por ora, a decretação da prisão preventiva.
+A impetrante aduz que as supostas vítimas apresentaram declarações no sentido de que não tem interesse na continuidade do processo, tendo havido renúncia pelo advogado assistente de acusação.
+Destaca que o paciente tinha todas as condições de prosseguir na execução do delito, porém desistiu da ação por livre vontade.
+Sustenta a ausência de dolo em relação à segunda vítima e a desistência quanto à primeira.
+Requer, liminarmente, a suspensão da sessão plenária do júri até o julgamento do mérito deste habeas corpus. E no mérito, pleiteia o restabelecimento da sentença de 1º grau que desclassificou a conduta.
+O pedido de liminar foi indeferido às fls. 83-85.
+As informações foram prestadas às fls. 90-113, fls. 114-123 e fls. 125-134.
+O Ministério Público Federal manifestou-se pela denegação da ordem, em parecer de fls. 138-141, com a seguinte ementa:
+PENAL. PROCESSO PENAL. TENTATIVA DE HOMICÍDIO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. INEXISTÊNCIA DE TERATOLOGIA, FLAGRANTE ILEGALIDADE OU FALTA DE RAZOABILIDADE APTA A ENSEJAR A CONCESSÃO DA ORDEM DE OFÍCIO. DECISÃO DE PRONÚNCIA. IN DUBIO PRO SOCIETATE. NECESSIDADE DE REEXAME APROFUNDADO DO ACERVO FÁTICO-PROBATÓRIO. INVIÁVEL EM SEDE DE HABEAS CORPUS.
+PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS. CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
