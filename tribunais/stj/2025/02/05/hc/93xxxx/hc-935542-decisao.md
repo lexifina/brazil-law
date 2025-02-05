@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de JOABE DE JESUS PEREIRA, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, em virtude do julgamento que denegou a ordem do habeas corpus n. 5005924-68.2024.8.08.0000.
+Consta dos autos que o paciente está sendo investigado pela prática dos crimes previstos nos arts. 33 e 35, da Lei n. 11.343/2006, e 121, do Código Penal.
+O impetrante alega ausência de fundamentação idônea para a quebra do sigilo telefônico do paciente.
+Requer a concessão da ordem para declarar nula a decisão que inaugurou a interceptação telefônica e as sucessivas prorrogações (fls. 03-17).
+Informações prestadas pela autoridade coatora (fls. 538-555).
+Parecer do Ministério Público Federal opinando pelo não conhecimento da impetração (fls. 560-561).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão de alegada nulidade por suposta falta de fundamentação idônea da decisão que deferiu o pedido de quebra de sigilo telefônico do paciente.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Além disso, não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+A decisão que deferiu a interceptação telefônica foi bem fundamentada e baseada em diligências de campo e levantamentos preliminares realizadas pela Polícia Militar. Destaco trecho do acórdão do Tribunal de origem (fls. 552):
+" ..  Desta forma, ao contrário do alegado pelo impetrante, o deferimento da interceptação telefônica, além de fazer menção à existência de fortes indícios da autoria, ou participação dos investigados nas infrações penais apuradas, se deu por fundamento relevante, tendo sido mencionado que os números das linhas telefônicas solicitadas são aquelas que certamente produzirão subsídios para alcançar grande parcela do tráfico de entorpecentes na região. A despeito do alegado, além da interceptação telefônica verifica-se dos autos que também houve diligências de campo e levantamentos preliminares realizados pela polícia militar, o que demonstra que as investigações também estavam sendo efetivadas por outros meios. Dessa forma, considerando o abordado nos autos, bem como a complexidade do caso em questão, não há que se falar em fundamentação inidônea e sem amparo normativo da decisão que deferiu o pedido de quebra de sigilo telefônico do paciente  .. ".
+Ante o exposto, não conheço do habeas corpus, nos termos do artigo 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
