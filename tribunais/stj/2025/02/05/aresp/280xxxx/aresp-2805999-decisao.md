@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FAZENDA DO ESTADO DE SÃO PAULO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO JULGADOS IMPROCEDENTES - DETERMINAÇÃO DE MANUTENÇÃO/READEQUAÇÃO DO JULGADO PELA EG. PRESIDÊNCIA, DE ACORDO COM OS TEMAS NS. 810/STF E 905/STJ  AGRAVADOS QUE CONCORDARAM COM OS CÁLCULOS TRAZIDOS PELA AGRAVANTE, PARA O FIM DE SE EVITAR NOVA DISCUSSÃO - PRETENSÃO DE CONDENAÇÃO DOS AGRAVADOS EM HONORÁRIOS ADVOCATICIOS - INADMISSIBILIDADE  EMBARGOS À EXECUÇÃO QUE FORAM JULGADOS IMPROCEDENTES - AUSÊNCIA DE SUCUMBÊNCIA DOS AGRAVADOS  RETRATAÇÃO MÍNIMA REALIZADA POSTERIORMENTE - RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente aduz violação ao art. 85 do CPC, no que concerne à necessidade de fixação de honorários de advogado contra credor na hipótese em que houve o acolhimento da impugnação ao cumprimento de sentença ofertada pela Fazenda Pública, trazendo a seguinte argumentação:
+Como se relatou acima, após concordância da exequente com os cálculos oferecidos pela Fazenda, o juiz acolheu o pedido da impugnante, FESP, e reconheceu o excesso de execução.
+Apesar disso, o acórdão proferido no âmbito do Agravo de Instrumento interposto pela exequente afastou a fixação de honorários em favor da FESP.
+Plenamente preenchido, portanto, o princípio da causalidade, pois se a parte exequente cobra valor superior ao devido, a FESP é obrigada a impugnar a execução para garantir que o feito prossiga pelo valor correto, com o fito proteger os cofres públicos.
+Nesse sentido, em sendo acolhida a impugnação fazendária, devidos são os honorários advocatícios pela parte contrária (fl. 32).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Todavia, a fim de evitar nova discussão e ante o tempo decorrido (já que a ação foi ajuizada em 2.000), os agravados concordaram com os cálculos originários trazidos pela agravante em sede de embargos à execução, os quais consideraram a aplicação da Lei n. 11.960/09 em sua integralidade.
+Assim, fica claro que a agravante não faz jus à pretendida verba honorária, uma vez que os embargados apenas sucumbiram minimamente do pedido em razão do enorme tempo decorrido entre a primeira decisão favorável e aquela final, em função dos inúmeros recursos interpostos pela parte adversa, que permitiu a alteração jurisprudencial em relação à matéria posta em julgamento.
+Dentro desse contexto, não se mostra ético imputar à parte um ônus a que não deu causa.
+A concordância com os cálculos iniciais, neste caso, não implica necessariamente em sucumbência, mormente porque é faculdade dos credores renunciar ao seu direito.
+Como se sabe, no processo civil prevalece o princípio da causalidade, que impõe à parte que der causa a uma demanda, compelindo uma pessoa a exercer resistência ao seu pedido, a suportar os ônus advindos desta formação processual, dentre os quais, os honorários advocatícios, ainda que concorde com os pontos alegados na defesa (fl. 22).
+No presente caso, conforme já observado, os agravados não deram causa ao ajuizamento dos embargos à execução, visto que a ação principal foi ajuizada antes da promulgação da Lei n.11.960/09, conforme observado no v. acórdão (fls. 122/125 e 163/166, dos autos de origem), o qual foi posteriormente readequado (fls.266/269) em razão do julgamento do Tema n. 810/STF.
+Desse modo, estando a questão (aplicação da Lei n.11.960/09) ainda não definida à época do ajuizamento dos embargos à execução e, tendo os agravados renunciado a eventual direito disponível para o fim de se evitar nova discussão, não há que se lhe imputar eventual sucumbência, neste caso (fls. 23-24).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
