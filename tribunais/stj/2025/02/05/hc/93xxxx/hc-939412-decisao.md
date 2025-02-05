@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANTONIO NIVAS ALVES LOPES, em decorrência de suposto constrangimento ilegal praticado pelo Tribunal de Justiça do Estado de São Paulo, nos autos do Habeas Corpus n.º 2202484- 33.2024.8.26.0000, consistente na decisão que denegou a ordem.
+O paciente foi sentenciado do como incurso no art. 180, caput, e art. 311, § 2º, inc. III, na forma do art. 70 do Código Penal, art. 157, § 2º, incisos. II e V, e § 2º-A, inciso I, e art. 158, §1º e §3º, cc arts. 29 e 69 do Código Penal, à pena de 21 anos, 9 meses e 18 dias de reclusão, no regime fechado, e 64 dias-multa, sendo negado o direito de recorrer em liberdade.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente, denegando a ordem.
+Alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a manutenção da segregação cautelar. Requer a revogação da prisão.
+A liminar foi indeferida (fls.62/63).
+As informações foram prestadas (fls.69/71,72/92 ).
+O Ministério Público Federal ofereceu parecer pelo não conhecimento e, caso conhecido, pela denegação (fls. 100/104).
+É o relatório. DECIDO.
+O Superior Tribunal de Justiça, alinhando-se à jurisprudência mais recente do Supremo Tribunal Federal, passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC n. 792.645/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, D Je de 13/2/2023).
+A prisão preventiva do paciente foi decretada, e posteriormente mantida na sentença condenatória, negando direito de recorrer em liberdade. O juiz de primeiro grau apresentou fundamentação idônea para amparar o decreto de prisão:
+No caso em apreço, a prova da materialidade e os indícios suficientes autoria dos crimes de roubo, receptação e adulteração de sinal identificador de veículo encontram-se evidenciados pelos elementos de convicção constantes das cópias do Inquérito Policial. Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis. Ora, a imputação que pesa contra os acusados é gravíssima, crime de roubo, receptação e adulteração de sinal identificador de veículo com pena máxima superior a 04 (quatro anos), o que denota extrema periculosidade e ousadia por parte da agente, de modo que é necessária a custódia para garantia da ordem pública. (..) Ademais, os acusados Emerson e Antônio são reincidentes, conforme certidões de pgs. 282/285 e 283/288, a demonstrar que possuem a criminalidade como atividade habitual, não procurando se emendar.
+O decreto de prisão foi mantido pelo Tribunal de origem, tendo sido denegada a ordem em habeas corpus. O Relator do acórdão ressaltou (fl.86) que a simples leitura da decisão impugnada denota que foi proferida mediante análise detalhada do caso, "trazendo elementos de convicção que motivaram a custódia e, assim, devidamente fundamentada, em total consonância com o art. 93, IX, da Constituição Federal".
+Não se trata de hipótese de flagrante ilegalidade no que diz respeito ao decreto de prisão preventiva. Não há razão, portanto, de concessão de ordem de ofício, na forma do parágrafo único, do artigo 647-A do CPP.
+Ressalto, ainda, que o mandado de prisão do paciente, de acordo com o BNMP/CNJ, continua pendente de cumprimento.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. intimem-se.
+EMENTA
