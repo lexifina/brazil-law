@@ -1,0 +1,43 @@
+DECISÃO
+Em análise, recurso especial interposto por GERALDO ANTONIO VINHOLI contra acórdão assim ementado:
+Improbidade administrativa - Fracionamento de compras de itens semelhantes a serem utilizados no Carnaval de 2014 - Sentença que reconheceu não ter havido conduta ilegal do ex-prefeito, tampouco intenção de violar os princípios da administração pública - Configuração de ato de improbidade administrativa - Possibilidade:
+- A dispensa não justificada do processo licitatório configura ato de improbidade administrativa previsto no artigo 10, VIII da Lei nº 8429/92. O dolo exigido para a configuração do ato de improbidade é genérico, isto é, basta a intenção esclarecida do agente. Recurso provido.
+Nas suas razões recursais, com fundamento no art. 105, III, a e c, da Constituição Federal, a parte recorrente alega violação aos arts. 10, caput, VIII, 12, II, 17, §§ 6º, 7º, da Lei 8.429/1992, assim como aos arts. 15, IV, 24, II, da Lei 8.666/1993; arts. º, 8º, 10, 11, 319, VI, 320, 330, §1º, III, 369, 373, I, 485, I e VI, 489, §1º, 1.022, I, II, do CPC; art. 22, caput, § 1º, da Lei de Introdução às Normas do Direito Brasileiro.
+O Ministério Público Federal, opinou pelo sobrestamento do feito em razão do Tema 1.199/STF (fls. 813-815).
+Determinada a devolução dos autos em razão do Tema 1.096/STJ.
+Tendo em vista o cancelamento do Tema 1.096/STJ, não houve juízo de retratação.
+Retornaram os autos para julgamento.
+É o relatório.
+Decido.
+Na origem, o Ministério Público do Estado de São Paulo ajuizou ação civil pública, postulando a condenação do recorrente, ex-Prefeito do Município de Catanduva, pela prática de ato de improbidade administrativa consubstanciada na dispensa injustificada do processo licitatório.
+A sentença julgou improcedentes os pedidos e julgou extinto o feito com resolução de mérito, nos termos do art. 487, I, do CPC (fl. 464).
+Interposta apelação pelo Parquet estadual, o Tribunal de origem deu provimento ao recurso nos seguintes termos:
+Pelos documentos acostados aos autos, percebe-se que o réu houve por bem dispensar a licitação, tendo em vista os baixos valores das inúmeras compras realizadas. Por isso, o Ministério Público entendeu que teria havido fraude no processo licitatório: o fracionamento das compras teria se dado apenas para que fosse dispensada a licitação pelos baixos valores das compras.
+ ..
+No caso, portanto, o réu deixou de realizar a devida licitação sem qualquer justificativa e, ainda pior, fracionou as compras na esperança de justificar a ausência de certame público no baixo preço das aquisições.
+sta prática de fracionar compras de grande vulto em inúmeras outras de pequeno valor para infringir a regra da licitação, configura ato de improbidade previsto no artigo 10, VIII da Lei nº 8429/1992.
+Assim, não há como deixar de notar que houve sim a prática de ato de improbidade perpetrado pelo réu com prejuízo ao erário.
+Nesse sentido, é o entendimento do Superior Tribunal de Justiça para quem a dispensa indevida de licitação ou, ainda, a fraude no processo licitatório impede que a Administração contrate a melhor proposta, causando dano in re ipsa aos cofres públicos, ou seja, independentemente do serviço ter sido prestado adequadamente.
+ ..
+Não se alegue, ainda, que não havia dolo do réu em realizar tais condutas, apenas porque não se teria demonstrado o conluio entre ele e os fornecedores. Ora, o dolo não se perfaz somente se houver a demonstração do conluio, mas sim se estiverem presentes elementos que apontem para uma conduta esclarecida e intencional do agente.
+No caso, o ex-prefeito tinha plena ciência de que era devida a realização das licitações e, ainda assim, escolheu não fazê-las, de modo que sua conduta dolosa restou plenamente provada.
+Por fim, registre-se que a inexistência de prova no sentido de que os preços dos produtos ou serviços não foram superfaturados não afasta a configuração do ato de improbidade, pois, como já referido anteriormente, a exigência de realização da licitação é prevista em lei e sua não observância gera presunção de que houve dano ao erário.
+Logo, a prova de não ter havido superfaturamento, caso fosse essencial, haveria de ser produzida pelo réu e não pelo Ministério Público.
+Desse modo, reformo a sentença, a fim de condenar o ex-prefeito à seguinte sanção prevista no artigo 12, II, da Lei de Improbidade Administrativa: multa civil de duas vezes o valor da somatória das notas de empenho juntadas aos autos, além da proibição de contratar com o Poder Público ou receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo de cinco anos (fls. 564-569 ).
+Ocorre que, após a publicação da Lei 14.230/2021, o STF concluiu o julgamento do Tema 1199 da repercussão geral, tendo fixado as seguintes teses:
+1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa -, é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente;
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei.
+Quanto ao elemento subjetivo, vale destacar que a Primeira Seção deste Tribunal já decidiu que:
+Com a edição da Lei n. 14.230/2021, que conferiu tratamento mais rigoroso, ao estabelecer não mais o dolo genérico, mas o dolo específico como requisito para a caracterização do ato de improbidade administrativa, ex vi do seu art. 1º, §§ 2º e 3º, em que é necessário aferir a especial intenção desonesta do agente de violar o bem jurídico tutelado (REsp 1.913.638/MA, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 11/5/2022, DJe de 24/5/2022).
+Ademais, há que ressaltar que o caput do art. 10 prevê, além da ação ou omissão dolosa, a efetiva perda patrimonial para a tipificação da conduta ímproba, não restando configurada a conduta típica com base em dano presumido.
+A propósito:
+EMENTA RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AOS PRINCÍPIOS REITORES DA ADMINISTRAÇÃO. MÁCULA À IMPESSOALIDADE E À MORALIDADE MEDIANTE A FRUSTAÇÃO DE PROCEDIMENTO LICITATÓRIO. RECONHECIMENTO DA PRESENÇA DE DOLO ESPECÍFICO NA ORIGEM. ATRAÇÃO DA SÚMULA 7/STJ. CONDENAÇÃO COM BASE NO CAPUT DO ART. 11 DA LIA. PRINCÍPIO DA CONTINUIDADE TÍPICO-NORMATIVA. TIPIFICAÇÃO DA CONDUTA NO ATUAL INCISO V DO ART. 11 DA LIA. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO. 1.
+ ..
+DANO AO ERÁRIO. PRESUNÇÃO DO PREJUÍZO PELO ACÓRDÃO RECORRIDO. ALTERAÇÃO DO ART. 10, "CAPUT" E INCISO VIII, DA LIA. NECESSIDADE DE COMPROVAÇÃO DA PERDA PATRIMONIAL EFETIVA. INTERPRETAÇÃO DAS TESES FIXADAS NO TEMA 1.199. RETROAÇÃO DAS ALTERAÇÕES LEGAIS EM RELAÇÃO, TAMBÉM, AO ELEMENTO OBJETIVO-NORMATIVO: DANO.
+4. A atual redação do art. 10 da LIA, com as alterações advindas da Lei 14.230/2021, passou a exigir a comprovação da perda patrimonial efetiva para a configuração da improbidade administrativa. O Supremo Tribunal Federal, quando do exame do Tema 1.199, pacificou a orientação de que " a nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente". O silogismo aplicável ao elemento subjetivo da conduta em tudo se aplica ao elemento objetivo-normativo considerando-se a máxima "Ubi eadem ratio, ibi idem jus".
+5. Recurso especial em parte conhecido e parcialmente provido para determinar o retorno dos autos para a realização da nova dosimetria das penas (REsp n. 2.061.719/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial para, reformando o acórdão recorrido, declarar extinta a ação civil pública, por atipicidade da conduta.
+Intimem-se.
+EMENTA
