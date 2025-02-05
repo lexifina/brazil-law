@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra decisão que não admitiu o recurso especial com fundamento na ausência de ofensa ao art. 1.022 do CPC e na incidência da Súmula 7/STJ.
+O acórdão recorrido foi assim ementado:
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE RESSARCIMENTO AO ERÁRIO. SENTENÇA QUE CONDENOU A PARTE RÉ EM RESTITUIR OS SALÁRIOS PERCEBIDOS. DEMANDADO QUE EXERCIA CARGO JUNTO À VICE-GOVERNADORIA E COMO ENGENHEIRO ELÉTRICO NA INICIATIVA PRIVADA. POSSÍVEL INCOMPATIBILIDADE DE CARGA HORÁRIA. DOCUMENTOS QUE ATESTAM PARA O DESEMPENHO REGULAR DO EXERCÍCIO DA FUNÇÃO PÚBLICA. DECLARAÇÃO DO SUPERIOR ADMINISTRATIVO QUE INFORMA PARA A ISENÇÃO DE EXPEDIENTE. NÃO DEMONSTRAÇÃO DE PREJUÍZO AO ERÁRIO. PRECEDENTES JURISPRUDENCIAIS EM SITUAÇÕES ANÁLOGAS. REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTE O PLEITO AUTORAL. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados, tendo em vista a ausência de vícios a serem sanados.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 1.022, II, do CPC, sustentando que "do cotejo entre o que fora ventilado em sede de Embargos de Declaração e o que foi decidido, observa-se claramente que o colegiado incorreu em omissão, visto que não se manifestou sobre os elementos fáticos suscitados pelo Parquet que demonstram a percepção de vencimentos de cargo público sem a correspondente prestação de serviços por parte do recorrido, ocasionando dano ao erário. Sequer foram abordados, ainda que en passant, os pontos agitados, que são claramente capazes de infirmar a conclusão aduzida pela Corte Potiguar" (fl. 620).
+É o relatório.
+Decido.
+Ao dirimir a controvérsia, o Tribunal de origem consignou o seguinte:
+Verifica-se que o apelante foi condenado ao ressarcimento de valores auferidos enquanto cumulava o vínculo público junto à Vice-Governadoria e o emprego como engenheiro elétrico junto à empresa Base Engenharia Ltda., durante o período de 15 de maio de 2004 a 30 de dezembro de 2006, sob o fundamento de não cumprimento da carga horária, uma vez que em função do seu trabalho na iniciativa privada se ausentava corriqueiramente a fim de realizar viagens à trabalho.
+ ..
+Importa reconhecer que o apelante sustentou em sua contestação que desempenhava suas atividades junto à mencionada empresa nos horários em que não coincidia com o serviço público, considerando ainda o cargo público era exercido sem ponto eletrônico a acusar entrada e saída do expediente.
+Em seu favor, conta nos autos, declaração assinada pelo então Chefe da USFAG a atestar que o recorrente percebia seus vencimentos em função do cargo junto à Vice-Governadoria, a partir de maio de 2003 à outubro de 2006, com total isenção de expediente (ID 16654179 - Pág. 5).
+Nota-se ainda que não há qualquer prova de que o apelante não vinha cumprindo com suas obrigações perante o serviço público, ao contrário, resta evidenciado que o mesmo desempenhava suas atividades com regularidade, como demonstram os depoimentos acostados.
+O caso dos autos, portanto, guarda particularidades que merecem destaque, uma vez que, apesar dos indícios de incompatibilidade de carga horária, percebe-se que as atribuições que lhe cabiam foram desempenhadas, de modo que não consta qualquer prova de prejuízo, considerando que constam documentos expressos de que não houve a exigência quanto ao cumprimento do expediente.
+ ..
+Apesar do posicionamento jurisprudencial pátrio exigir compatibilidade de horários de cargos públicos e não prejuízo ao Erário a fim de afastar a ordem de ressarcimento, no caso em comento, mesmo se considerando eventual incompatibilidade de horário, o mesmo não afasta a percepção de que o trabalho vinha sendo realizado com regularidade, sem prejuízo ao Erário, de modo que o apelante aparentemente vinha conciliando as duas atividades.
+ ..
+Dessa forma, concluo que não não cabe a condenação do apelante no caso em tela - tendo em vista as provas colacionadas nos autos -, o que o faz distinguir do entendimento jurisprudencial consolidado (fls. 590-592).
+Desta forma, não se reconhece a violação ao art. 1.022 do CPC, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada. Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (STJ, AgInt no REsp 2.072.333/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
