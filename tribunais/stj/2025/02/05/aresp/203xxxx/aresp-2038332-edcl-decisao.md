@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS MARTINS CESCHIM, HAROLDO JOSE CESCHIN, NELLI MARTINS CESCHIM, VALÉRIA DARIN DIAS CESCHIM (CARLOS e outros), contra decisão monocrática de minha lavra, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DE CARLOS E OUTROS. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CONTRATO DE MÚTUO. AJUIZAMENTO DE AÇÃO REVISIONAL. PROLAÇÃO DE ACÓRDÃO, NOS EMBARGOS À EXECUÇÃO, MENCIONANDO A NECESSIDADE DE SE EXTINGUIR O FEITO EXECUTIVO. ERRO DE PREMISSA FÁTICA. AÇÃO REVISIONAL QUE NÃO HAVIA ESVAZIADO A FORÇA EXECUTIVA DO TÍTULO. CORREÇÃO DE ERRO MATERIAL PASSÍVEL DE CORREÇÃO A QUALQUER TEMPO. OFENSA À COISA JULGADA NÃO CONFIGURADA. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO. RECURSO ESPECIAL DE CARLOS E OUTROS NÃO PROVIDO (e-STJ, fl. 724)
+Nas razões do presente inconformismo, defendeu omissão quanto (1) às preliminares de não conhecimento alegadas nas contrarrazões ao agravo interno relativas à não observância do princípio da dialeticidade e à incidência das Súmulas nºs 7 e 83 do STJ; e (2) à efetiva caracterização de ofensa à coisa julgada.
+Foi apresentada impugnação (e-STJ, fls. 776/780).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+(1) Preliminares de não conhecimento
+Não há falar em omissão com relação à eventuais preliminares de não conhecimento do recurso, porque o enfrentamento do mérito implica rejeição implícita às preliminares apresentadas.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. O CONHECIMENTO DO RECURSO PRESSUPÕE O RECONHECIMENTO IMPLÍCITO DA TEMPESTIVIDADE RECURSAL. INTEMPESTIVIDADE ARGUIDA EM CONTRARRAZÕES. NECESSIDADE DE MANIFESTAÇÃO EXPRESSA. OMISSÃO. EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. O exame do mérito do recurso especial pelo relator pressupõe a existência dos requisitos extrínsecos da admissibilidade recursal, não cabendo falar em omissão. Nos termos da jurisprudência desta Corte, "quando o relator inicia a análise do mérito do recurso especial, implicitamente deve-se considerar ultrapassadas as preliminares de ordem formal" (AgRg no Ag 1.276.352/RS, Ministra Laurita Vaz, Quinta Turma, DJe de 18/10/2010).
+(EDcl no AgInt no AREsp n. 1.330.255/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/12/2019, DJe de 19/12/2019.)
+Seja como for, os fundamentos da decisão embargada deixam suficientemente claro que a pretensão recursal não esbarrava nas Súmulas nºs 7 e 83 do STJ, sendo igualmente incabível falar em ofensa ao princípio da dialeticidade recursal.
+(2) Coisa Julgada
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, CARLOS e outro alegaram violação do art. 1.022, do CPC, porque ao contrário do que consignado pela decisão agravada, o acórdão estadual não procedeu a uma mera correção de erro material na sentença transitada em julgado. Nesses termos, segundo alegado, referido acórdão incorreu em ofensa à coisa julgada.
+Referidas alegações não exprimem todavia, nenhuma omissão, contradição ou obscuridade passível de correção via embargos de declaração, mas verdadeira pretensão de rejulgamento da causa, o que não se pode admitir.
+EMBARGOS DE DECLARAÇÃO NOS AGRAVOS INTERNOS NOS AGRAVOS EM RECURSOS ESPECIAIS . ART. 1.022 DO CPC/2015. FALTA DE INTERESSE RECURSAL. EMBARGOS NÃO CONHECIDOS.1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.(EDcl no AgInt no AREsp n. 2.652.494/SP, relator Ministro Marco Aurélio Bellizze, TERCEIRA TURMA, julgado em 11/11/2024, DJe de 13/11/2024)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CONTRATO DE MÚTUO. AJUIZAMENTO DE AÇÃO REVISIONAL. PROLAÇÃO DE ACÓRDÃO, NOS EMBARGOS À EXECUÇÃO, MENCIONANDO A NECESSIDADE DE SE EXTINGUIR O FEITO EXECUTIVO. ERRO DE PREMISSA FÁTICA. AÇÃO REVISIONAL QUE NÃO HAVIA ESVAZIADO A FORÇA EXECUTIVA DO TÍTULO. CORREÇÃO DE ERRO MATERIAL PASSÍVEL DE C ORREÇÃO A QUALQUER TEMPO. OFENSA À COISA JULGADA NÃO CONFIGURADA. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO RECORRIDA. PRELIMINARES DE NÃO CONHECIMENTO DO AGRAVO INTERNO IMPLICITAMENTE AFASTADAS. OMISSÃO NÃO VERIFICADA. ALEGAÇÃO DE OMISSÃO QUANTO ÀS CIRCUNSTÂNCIAS QUE EVIDENCIARIAM A EXISTÊNCIA DE COISA JULGADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. DESCABIMETO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
