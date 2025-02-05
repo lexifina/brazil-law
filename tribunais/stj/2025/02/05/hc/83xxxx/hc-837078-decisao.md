@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de PAULO CESAR CARDOSO, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em virtude do julgamento da apelação criminal n. 0005214-55.2018.8.26.0320, que manteve a sentença condenatória na íntegra.
+Consta dos autos que o paciente foi condenado pela prática do crime tipificado no artigo 33, caput, da Lei n. 11.343/2006, à pena de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, além de pagamento de 500 (quinhentos) dias-multa.
+A impetrante pugna pela absolvição do paciente ao fundamento de que a prisão em flagrante foi realizada de forma ilegal pelos guardas municipais, o que gerou a ilegalidade de todas as provas produzidas.
+Defende que a guarda municipal atuou fora das atribuições estabelecidas no art. 144, § 8º, da Constituição Federal e que não havia situação de flagrância a justificar a atuação praticada.
+Afirma que abordagem se deu em razão do comportamento do paciente, o que não seria motivação suficiente para a busca pessoal por se tratar de critério subjetivo.
+Diante disso, requer, liminarmente, a concessão da ordem para revogar a prisão ilegal. No mérito, pleiteia a absolvição do paciente, nos termos do art. 386, incisos II ou VII do Código de Processo Penal, declarando-se nulas todas as provas produzidas.
+A liminar foi indeferida (fls. 80-81).
+Informações prestadas pela autoridade coatora (fls. 89-105).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus, ou, caso conhecido, pela denegação da ordem (fls. 110-114).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que restou caracterizada a situação de flagrância a autorizar a atuação dos guardas municipais, já que eles flagraram o paciente realizando a venda de maconha a determinado usuário, e, em seguida, avistaram ele engolir o restante da droga no momento em que os viu (fls. 69-74).
+De todo modo, ainda que assim não fosse, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+Nesse sentido:
+"DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. NULIDADE. GUARDAS MUNICIPAIS. SITUAÇÃO DE FLAGRÂNCIA. ILEGALIDADE NÃO VERIFICADA. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI 11.343/2006. ATOS INFRACIONAIS RECENTES ANÁLOGOS AO TRÁFICO DE ENTORPECENTES. DEMONSTRADA A DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. REQUISITOS NÃO PREENCHIDOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame 1. Habeas corpus impetrado em favor de condenado por tráfico de drogas, questionando a legalidade da prisão em flagrante realizada por guardas municipais e a não aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06.
+II. Questão em discussão 2. A questão em discussão consiste em saber se a prisão em flagrante realizada por guardas municipais é legal e se as provas obtidas são válidas, bem como se há flagrante ilegalidade na não aplicação da causa de diminuição de pena.
+III. Razões de decidir 3. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+5. A atuação dos guardas municipais em situação de flagrante delito é permitida, conforme art. 301 do CPP, não havendo ilegalidade na prisão.
+6. A guarda municipal respeitou os limites da prisão em flagrante delito, tendo avistado indivíduo em atitude suspeita em conhecido ponto de tráfico de drogas, entregando um objeto para um indivíduo que estava no interior de um veículo. Ao notar a presença da viatura, tentou empreender fuga e arremessou um saco plástico com as porções de drogas. A partir dessa situação, envidado esforços para abordá-lo, não havendo flagrante ilegalidade quanto ao ponto.
+7. O afastamento da causa de diminuição prevista no artigo 33, §4º, da Lei nº 11.343/06 baseou-se na existência de indícios que denotam dedicação à atividade criminosa (contando com apenas 18 anos recém completados quando da data dos fatos, registra histórico de atos infracionais análogos ao tráfico de drogas, destacando o juiz de primeira instância que essa mesma desenvoltura provém dos tempos da recente infância, com reiteração infracional significativa, afinal registrados dois envolvimentos bem recentes, ambos do último trimestre do ano passado, o primeiro findo com remissão que estava sendo cumprida e o segundo em sede de apuração sob contraditório), elementos que são capazes de afastar a aplicação da benesse, conforme entendimento deste STJ.
+8. Alterar o quadro formado no Tribunal de origem demandaria dilação probatória, inviável em sede de habeas corpus.
+IV. HABEAS CORPUS NÃO CONHECIDO."
+(HC n. 845.050/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 11/11/2024.)
+Ante o exposto, não conheço do habeas corpus, nos termos do artigo 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
