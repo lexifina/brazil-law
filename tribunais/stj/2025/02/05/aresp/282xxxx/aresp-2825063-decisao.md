@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, agravo de decisão que deixou de admitir recurso especial interposto por CONDE SUPERMERCADO LTDA - EMPRESA DE PEQUENO PORTE em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+AGRAVO INTERNO. APELAÇÃO. ART. 1.021, § 3º DO NCPC. REITERAÇÃO. RECURSO DESPROVIDO.
+- A vedação insculpida no art. 1.021, §3º do CPC/15 contrapõe-se ao dever processual estabelecido no §1º do mesmo dispositivo.
+- Se a parte agravante apenas reitera os argumentos ofertados na peça anterior, sem atacar com objetividade e clareza os pontos trazidos na decisão que ora se objurga, com fundamentos novos e capazes de infirmar a conclusão ali manifestada, decerto não há que se falar em dever do julgador de trazer novéis razões para rebater alegações genéricas ou repetidas, que já foram amplamente discutidas.
+- Agravo interno desprovido. (fl. 370)
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta ofensa aos arts. 1º e 3º, II, das Lei 10.637/02 e 10.833/03; e 927, III, do CPC.
+Contrarrazões às fls. 707/723.
+O Recurso Especial foi inadmitido pelo Tribunal de origem (fls. 753/756), daí a interposição do presente agravo (fls. 760/779).
+Sem impugnação.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que não merece ser conhecido.
+O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, manteve a conclusão da Relatoria no sentido de que:
+O E. Superior Tribunal de Justiça, nos autos do REsp nº 1.221.170/PR, definiu que, para fins de creditamento de PIS e COFINS, o conceito de insumo deve ser aferido, no caso concreto, à luz dos critérios de essencialidade ou relevância, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo contribuinte. Eis a ementa do julgado:
+ ..
+Ainda no referido julgado, a Exma. Ministra REGINA HELENA COSTA, em seu r. voto-vista, teceu importantes considerações acerca dos critérios da essencialidade e da relevância indicados como balizadores da definição de insumo, como se observa do trecho a seguir transcrito:
+ ..
+Considerando-se as premissas fixadas pelo precedente daquela E. Corte Superior, não se antevê que os bens e serviços elencados - despesas com serviços de informática em software e hardware, apresentem-se como elementos essenciais e/ou relevantes para a atividade comercial da agravante, de forma a ser caracterizada como insumo, para fins de apropriação de créditos não cumulativos do PIS e da COFINS.
+A jurisprudência vem se consolidando que os gastos enumerados não são insumos, são despesas incorridas pela pessoa jurídica, integrando os custos do negócio empreendido, logo, constituem a receita ou faturamento, base de cálculo das contribuições PIS e COFINS.
+Nesse sentido se encontram os seguintes precedentes desta E. Corte:
+ ..
+Diante dessas premissas, não há como reconhecer que os valores relativos às despesas com com assessoria e serviços de informática, infraestrutura de e sua manutenção e gastos com hardware software, sejam essenciais ou relevantes para o desenvolvimento da atividade mercantil desempenhada pela impetrante, pelo que não se mostra plausível a tese suscitada no recurso. (fls. 269/275 - Grifo nosso)
+O espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim, ilidir o afirmado pelas instâncias ordinárias, acatando toda a linha argumentativa dos recorrentes demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Com efeito, não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal de origem a concluir pela inexistência de essencialidade das despesas em comento, sob pena de usurpar a competência das instâncias ordinárias, a quem compete o amplo juízo de cognição da lide.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. OFENSA AOS ARTIGOS 489 E 1.022, INCISO II, AMBOS, DO CPC/2015. NÃO CARACTERIZAÇÃO. CREDITAMENTO PIS E COFINS. INSUMOS. CONCEITO. ESSENCIALIDADE OU RELEVÂNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
+1. Deveras, preliminarmente, inexiste a alegada violação aos artigos 489, § 1º, inciso IV, 1.022, inciso II, do Código de Processo Civil de 2015, visto que o Colegiado de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão somente porque contrário aos interesses da parte. Ademais, consoante entendimento do STJ, o magistrado não está obrigado a responder a todas as alegações das partes nem a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Dessarte, o inconformismo relativo às supostas omissões demonstra mera pretensão de rejulgamento da causa, tão somente porque a solução jurídica adotada na origem foi contrária ao interesse da parte insurgente. Não se pode confundir julgamento desfavorável com negativa ou ausência de prestação jurisdicional.
+2. A Primeira Seção deste Superior Tribunal, em julgamento de recurso repetitivo, firmou a tese segundo a qual o conceito de insumo deve ser balizado pelos critérios de relevância ou essencialidade, ou seja, considerando-se a importância de determinado item, ou sua imprescindibilidade, para o exercício de atividade econômica desempenhada pelo contribuinte, cabendo à instância de origem apreciar, em cotejo com o objeto social da empresa, a possibilidade de dedução dos créditos da contribuição para o PIS e da COFINS.
+3. No caso, rever o posicionamento do tribunal de origem, com o objetivo de acolher a pretensão recursal, no sentido de se considerar determinadas despesas operacionais essenciais à atividade empresarial, demanda o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+4. Agravo conhecido para se conhecer em parte do recurso especial e nessa extensão, nego-lhe provimento. (AREsp n. 2.381.221/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2023, DJe de 11/9/2023 - Grifo nosso).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CRÉDITO DE PIS E COFINS. DESPESAS NÃO QUALIFICADAS COMO INSUMO. SÚMULA 83/STJ. ESSENCIALIDADE E RELEVÂNCIA NÃO VERIFICADOS. REEXAME VEDADO. SÚMULA 7/STJ. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A Primeira Seção deste Tribunal Superior firmou o entendimento, por ocasião de julgamento de recurso repetitivo - Tema 779, de que o creditamento do PIS e da COFINS subordina-se ao conceito de insumo, o qual deve ser aferido à luz dos critérios da essencialidade ou da relevância de determinado bem ou serviço para o desenvolvimento da atividade econômica desempenhada pelo contribuinte.
+2. Na espécie, o Tribunal de origem aplicou a orientação firmada pelo STJ, de modo que incide no caso o óbice da Súmula 83 do STJ.
+3. Além disso, dissentir das conclusões então adotadas, a fim de atestar a essencialidade e a relevância da despesa para fins de creditamento do PIS e da COFINS, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Agravo interno da empresa a que se nega provimento. (AgInt no AREsp n. 1.921.159/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023 - Grifo nosso).
+Diante do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
