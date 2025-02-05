@@ -1,0 +1,7 @@
+DECISÃO
+Por meio da decisão de fls. 1.012/1.015, o presente recurso especial foi julgado prejudicado, tendo sido determinada a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou a manutenção do acórdão local frente ao que vier a ser decidido pela Excelsa Corte no referido Tema 1.255.
+Na sequencia, a Presidência do Tribunal de origem remeteu os autos novamente a esta Corte, sob o entendimento de que "em que pese a determinação da Corte Superior, neste feito, a tese, a ser dirimida pelo paradigma, sobre o alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil, não foi objeto de debate pelo órgão julgador, o que atrai o óbice dos enunciados 282 e 356, ambos da Súmula do STF. Nesse contexto, considerando as limitações de competência desta Presidência para apreciar referida questão, submeto à apreciação da Corte Superior a pretensão deduzida pela parte para eventual exame da matéria." (fl. 1.026).
+Não obstante a compreensão adotada pela Corte de origem, verifica-se que a matéria objeto do Tema 1.255, além de ter sido suscitada perante o Tribunal de origem (fls. 764/781), foi deduzida nas razões do presente recurso especial (fls. 819/862).
+Assim, determino nova remessa dos autos à origem para que seja observado o contido na decisão de fls. 1.012/1.015, restando prejudicada a análise do recurso.
+Publique-se.
+EMENTA
