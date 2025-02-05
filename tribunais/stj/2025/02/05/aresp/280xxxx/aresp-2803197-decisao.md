@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 324):
+SEGURO OBRIGATÓRIO - DPVAT - PROVA DO ACIDENTE - COMPLEMENTAÇÃO DA INDENIZAÇÃO - INVALIDEZ PARCIAL PERMANENTE - LAUDO PERICIAL - INADIMPLÊNCIA QUANTO AO PAGAMENTO DO PRÊMIO DO SEGURO - IRRELEVÂNCIA. A falta de pagamento do prêmio do seguro obrigatório de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres (DPVAT) não é motivo para a recusa do pagamento da indenização. A indenização do seguro DPVAT, em se tratando de debilidade parcial permanente, deve ser calculada proporcionalmente às lesões, nos termos da tabela prevista na Lei 6.194/74, com as alterações da Lei 11.945/09. Nos termos da Súmula 257 do STJ, a inadimplência do prêmio do seguro DPVAT pelo proprietário do veículo não constitui motivo para a recusa do pagamento da indenização, ainda que o proprietário seja a própria vítima do sinistro.
+Rejeitados os embargos de declaração opostos (fls. 349-354).
+No recurso especial, a recorrente alega violação dos arts. 3º, inciso II, e 5º da Lei n. 6.194/1974.
+Sustenta, em síntese, que "o Egrégio TJMG incorre em equívoco na aplicação da tabela de invalidez, deixando de observar o correto limite do capital segurado, expressamente previsto em lei, para os casos de LESÃO NA COLUNA. Dessa forma, o correto é aplicar o percentual da redução proporcional (75%) sobre o percentual a Perda completa da mobilidade da coluna (25%), encontra-se o percentual indenizável que aplicado sobre o Limite Máximo de Indenização de ATÉ R$ 13.500,00, chega-se ao valor indenizável de R$ 2.531,25 E NÃO R$ 6.615,00" (fl. 365).
+Foram oferecidas contrarrazões ao recurso especial (fls. 400-403).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 413-415), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 432).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial não merece conhecimento.
+Nos termos da Súmula n. 474/STJ, a "indenização do seguro DPVAT, em caso de invalidez parcial permanente do beneficiário, será paga de forma proporcional ao grau da invalidez".
+A recorrente alega que, ao contrário do que foi apontado pela sentença e pelo Tribunal de origem, o laudo pericial informa que a vítima sofreu lesão de 75% dos seguimentos da coluna cervical C3 e C4 e, por isso, o correto é aplicar o percentual da redução proporcional (75%) sobre o percentual para perda completa da mobilidade da coluna (25%), totalizando R$ 2.531,25 e não R$ 6.615,00.
+O TJMG, ao analisar a controvérsia, concluiu que "o apelante possui invalidez parcial incompleta com sequela na coluna cervical, com limitação funcional de 70%" (fl. 327). Posteriormente, afirma que houve perda parcial incompleta de um dos membros inferiores (fl. 328).
+Já o juízo de primeiro grau expressamente consignou que, com "base no laudo pericial médico (Ids. 9554779326 e 9711479852), a lesão sofrida pela parte autora produziu limitação funcional severa dos membros superiores e inferiores, nos termos do art. 3º, § 1º, inciso II, da Lei 6.194/74., nos termos do art. 3º, § 1º, inciso II, da Lei 6.194/74" (fl. 272).
+Como se vê, há uma incongruência quanto à lesão sofrida pelo autor, afirmando a sentença ter produzido uma limitação funcional severa dos membros superiores e inferiores, já o acórdão fala em le são sofrida na coluna e em perda parcial incompleta de um dos membros inferiores.
+Desse modo, considerando que o valor da indenização DPVAT a ser paga depende do grau de invalidez especificado na tabela anexa a Lei n. 6.194/1974, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória, em especial do laudo pericial, procedimento vedado a esta corte, em razão do óbice da Súmula n 7/STJ.
+A propósito, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. PERCENTUAL DA INDENIZAÇÃO EQUIVALENTE AO DANO PERCEBIDO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Nos termos da Súmula 474/STJ, "A indenização do seguro DPVAT, em caso de invalidez parcial permanente do beneficiário, será paga de forma proporcional ao grau da invalidez".
+2. O eg. Tribunal de origem concluiu que o ora agravante sofreu "dano corporal parcial incompleto de grau leve" no tórax, devendo receber indenização securitária parcial e proporcional ao referido dano. A pretensão de alterar tal entendimento, para entender que o dano torácico seria total e ensejaria indenização integral, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconiza a Súmula 7/STJ.
+3. A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/4/2019, DJe de 22/5/2019.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SEGURO. INEXISTÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. OMISSÃO NÃO VERIFICADA. DPVAT. INDENIZAÇÃO PROPORCIONAL. GRAU DE INVALIDEZ. DECISÃO CONFORME A JURISPRUDÊNCIA DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. "A indenização do seguro DPVAT, em caso de invalidez parcial permanente do beneficiário, será paga de forma proporcional ao grau da invalidez" (Súmula n. 474/STJ).
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+5. No caso, o Tribunal de origem, analisando os fatos e as provas dos autos, entendeu improcedente o pedido de complementação da verba securitária, haja vista seu pagamento de acordo com o grau de invalidez permanente do agravado. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial, ante o óbice da mencionada súmula.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 643.262/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/4/2017, DJe de 19/4/2017.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SEGURO DPVAT. INDENIZAÇÃO PROPORCIONAL AO GRAU DE INVALIDEZ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
