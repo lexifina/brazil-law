@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por ASSOCIACAO BENEFICENTE BOM SAMARITANO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 615):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - PESQUISA DE BENS POR MEIO DOS SISTEMAS CONVENIADOS - ASSOCIAÇÃO CIVIL DE DIREITO PRIVADO - IMPENHORABILIDADE DE RECURSOS PÚBLICOS. Conquanto a Associação Civil De Direito Privado receba recursos públicos, certo é que, de igual modo, aufere contribuições de entes privados, que não estão abarcados pela impenhorabilidade, prevista no Art. 833, inc. IX, do CPC. Nessa linha, se mostra possível o bloqueio dos bens do devedor, com objetivo de assegurar que estes não se percam, sendo certo que é ônus do executado provar que eventual valor bloqueado é proveniente de recurso público.
+Rejeitados os embargos de declaração opostos (fls. 647-651).
+No recurso especial, a parte recorrente alega ofensa aos arts. 489, § 1º, III e IV, e 1.022, parágrafo único, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Sustenta, em síntese, que o acórdão foi omisso quanto ao documento intitulado Portaria 100% SUS que se trata de implementação de remuneração destinada "às unidades hospitalares que se caracterizem como pessoas jurídicas de direito privado sem fins lucrativos e que destinem 100% (cem por cento) de seus serviços de saúde, ambulatoriais e hospitalares, exclusivamente ao Sistema Único de Saúde (SUS)".
+Há pedido de efeito suspensivo do recurso especial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 674-681).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 685-689), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 711-716).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem ao rejeitar os embargos de declaração deixou claro que (fls. 649-650):
+Da análise dos autos, verifico a inexistência de qualquer vício no acórdão recorrido que possa satisfazer a pretensão do embargante, uma vez que as matérias expostas no recurso de apelação foram apreciadas e julgadas em sua inteireza, com a ocorrência de manifestação sobre todos os pontos colocados em exame. Vejamos o que foi decidido:
+Com efeito. Embora a legislação processual permita a constrição judicial em depósitos ou aplicações financeiras, contudo, deve ser observada a regra contida no dispositivo retro mencionado, o qual arrola os bens protegidos pela regra da impenhorabilidade. No caso, como bem pontuado pela exequente, a agravante é uma associação civil de direito privado, autorizada a firmar convênios com entidades públicas e privadas, e assim, possui fontes de renda de origem pública e privada. A propósito, colaciono dispositivo de seu estatuto:  ..  Por essa perspectiva, constata-se que conquanto o executado receba recurso públicos, certo é que, de igual modo, aufere contribuições de entes privados, que não estão abarcados pela impenhorabilidade. Nessa linha, se mostra possível o bloqueio os bens do devedor, com objetivo de assegurar que estes não se percam, sendo certo que é ônus do executado provar que eventual valor bloqueado é proveniente de dinheiro público.  ..
+Com efeito. Diferentemente do que pretende fazer crer a embargante, foram consideradas e analisadas todas as questões controvertidas devolvidas, inclusive foi dirimido, com indubitável clareza, o meandro pertinente ao fato de a embargante ser associação civil de direito privado, autorizada a firmar convênios com entidades públicas e privadas, e assim, possui fontes de renda de origem pública e privada.
+Constata-se, vale salientar, que conquanto a embargante receba recurso públicos, certo é que, de igual modo, aufere contribuições de entes privados, que não estão abarcados pela impenhorabilidade. Com relação a portaria nº 3.157, de 28 de dezembro de 2016, registre-se que o fato de a embargante dedicar a totalidade de seus serviços ao Sistema Único de Saúde (SUS), por si só, não autoriza concluir que há vedação a recursos privados. De modo que, conforme consignado no acórdão embargado, se mostra possível o bloqueio dos bens do devedor, com objetivo de assegurar que estes não se percam, sendo certo que é ônus do executado provar que eventual valor bloqueado é proveniente de dinheiro público.
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022, Grifo meu.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Julgo prejudicado o pedido de efeito suspensivo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
