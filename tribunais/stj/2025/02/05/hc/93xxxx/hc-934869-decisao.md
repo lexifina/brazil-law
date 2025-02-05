@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor do paciente JEFERSON MARQUES DA SILVA, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso preventivamente, na data de 24 de dezembro de 2023, ante a suposta prática dos crimes previstos nos artigos 311 e 330 do Código Penal, tendo a prisão em flagrante sido convertida em custódia cautelar.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada (Processo nº 2205281-79.2024.8.26.0000).
+Na presente impetração, busca-se a concessão da ordem, para que seja relaxada a prisão preventiva do paciente sob o argumento de excesso de prazo. Requer, ainda, a revogação da custódia cautelar, ante a alegada ausência dos requisitos legais autorizadores.
+Parecer do Ministério Público Federal pela concessão parcial da ordem de habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Isso porque, "quanto à alegação de excesso de prazo na formação da culpa, o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais" (AgRg no HC 932390 / MT, QUINTA TURMA, de minha relatoria, DJe 14/10/2024).
+A propósito, esta Corte firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos (AgRg no HC n. 898.465/SC, QUINTA TURMA, de minha relatoria, DJe de 16/8/2024).
+Fixadas estas premissas, a ação penal em curso na origem transcorre regularmente, em escorreita observância ao princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF/88), inexistindo desídia do Poder Judiciário na condução do processo.
+Quanto à tese defensiva de ausência dos requisitos autorizadores da custódia cautelar, verifico que, no dia da prisão em flagrante delito do paciente, os policiais responsáveis pela captura constataram que havia mandado de prisão expedido em desfavor do paciente em razão da suposta prática do crime de tráfico de drogas e, por relevante, o paciente está sendo procurado para citação em diversos processos suspensos, nos termos do art. 366 do CPP, existindo risco concreto de reiteração delitiva e, ao mais, quanto à fiel aplicação da lei penal.
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
