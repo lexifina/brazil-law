@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDSON OLIVEIRA DE PAULA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada pelo descumprimento de medidas protetivas anteriormente aplicadas.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal em razão da ausência de fundamentação concreta e idônea para a segregação cautelar, ponderando que o descumprimento verificado foi um fato isolado.
+Alega que não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Por fim, assevera que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a soltura do paciente.
+É o relatório. DECIDO.
+No caso em tela, tenho que a decisão que decretou a prisão preventiva do ora paciente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade concreta do agente e pelo fundado receio de reiteração delitiva pois descumpriu medida cautelar anteriormente imposta:
+"Outrossim, como bem observou o Órgão Ministerial, o acusado foi advertido que o descumprimento de quaisquer das medidas fixadas poderia ensejar a decretação da prisão preventiva, tendo ele manifestado, no momento de sua soltura, residir no endereço: Córrego dos Teixeira, Zona Rural, Inhapim/MG e telefone (33) 99997-8620, conforme documento de ID nº 10250613731. Assim, o réu descumpriu a medida cautelar de "recolhimento domiciliar noturno, ficando autorizado a se ausentar de sua residência para suas atividades, entre as 06:00 e 19:00 horas, de segunda-feira a sábado, devendo manter-se em sua residência nos demais , períodos" uma vez que o SAC24 registrou que o indiciado estava em local diverso das áreas permitidas nas medidas cautelares numa manhã de domingo. Tal circunstância, ao ver deste Juízo Criminal, caracteriza descumprimento injustificado da condição da liberdade provisória e autoriza a decretação da prisão preventiva" (fl. 12).
+Conforme a orientação jurisprudencial do STJ, o descumprimento de medidas protetivas de urgência é considerado fundamento idôneo para a decretação da custódia cautelar (AgRg no HC n. 730.123/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 8/4/2022); (AgRg no HC n. 804.604/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 15/6/2023); (AgRg no HC n. 761.275/MG, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 24/4/2023);(AgRg no HC n. 770.169/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma , DJe de 31/3/2023.)
+Por fim, nã o há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se
+EMENTA
