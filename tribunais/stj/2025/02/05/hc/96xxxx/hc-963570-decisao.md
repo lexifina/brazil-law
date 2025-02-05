@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de RODRIGO JOSE SANTOS DOS SANTOS e RONALDO MORAIS DA SILVA JÚNIOR, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO nos Embargos Infringentes e de Nulidade n. 0035394-18.2015.4.01.3900, assim ementado (fls. 60/61):
+PENAL E PROCESSUAL PENAL. EMBARGOS INFRINGENTES. ROUBO NA MODALIDADE TENTADA. FIXAÇÃO DA PENA-BASE NO PATAMAR MÁXIMO. POSSIBILIDADE. CIRCUNSTÂNCIAS DO CASO CONCRETO. PROVIMENTO NEGADO.
+1. Embargos infringentes opostos pela Defensoria Pública da União, em face do acórdão proferido pela Décima Turma deste Tribunal, que, nos autos de apelação criminal, por maioria, negou provimento às apelações dos réus, ora embargantes, e manteve, em consequência, a pena a eles imposta pela prática do crime tipificado no art. 157, § 2º, I e II, do Código Penal, na modalidade tentada, a qual fora fixada para ambos em 10 (dez) anos de reclusão e 60 (sessenta) dias- multa.
+2. A embargante pretende que prevaleça o voto prolatado pelo Desembargador Marcus Vinicius Reis Bastos, que, por divergir no tocante à dosimetria, dava parcial provimento às apelações, para fixar as penas dos réus em 07 (sete) anos de reclusão e 60 (sessenta) dias-multa.
+3. Nos termos da jurisprudência pacificada no Superior Tribunal de Justiça, é possível que seja fixada a pena-base no máximo legal, mesmo que haja apenas uma circunstância judicial desfavorável, desde que o magistrado adota fundamentação apta a justificar tal medida (AgRg no HC n. 500.135/PE, Quinta Turma, rel. Ministro Felix Fischer, D Je de 25/6/2019, e AgRg no HC n. 762.414/SP, rel. Ministro Messod Azulay Neto, Quinta Turma, D Je de 14/3/2023).
+4. As circunstâncias do caso concreto evidenciam maior gravidade se comparadas a de crimes de mesma espécie, pois os réus participaram da tentativa de roubo em concurso de, no mínimo, três pessoas; com emprego de arma de fogo e prática de atos de extrema violência  tendo alvejado não apenas o segurança da agência dos Correios, mas também uma adolescente que se encontrava no local, a qual foi atingida na face. Além disso, houve danos patrimoniais na agência.
+5. O segurança recebeu tiros na mão, no ombro e na costela e foi operado; a adolescente recebeu um tiro no rosto, que entrou pelo nariz e atingiu seu maxilar  ambos correram risco de morte.
+6. A fundamentação adotada na origem, mantida no voto vencedor, mostra-se suficiente, adequada e idônea.
+7. Embargos infringentes a que se nega provimento.
+Consta dos autos que os pacientes foram condenados como incursos no art. 157, § 2º, I e II, do Código Penal, na modalidade tentada, tendo sido fixado para ambos a pena de 10 (dez) anos de reclusão em regime inicial fechado.
+Neste writ, a Defesa alega constrangimento ilegal diante da dupla valoração das circunstâncias do crime.
+Argumenta desproporcionalidade na fixação da pena-base e ausência de fundamentação na exasperação na terceira fase.
+Sustenta que há um voto vencido divergente que deveria prevalecer no caso por ser proporcional e estar em harmonia com a jurisprudência do STJ.
+Requer, liminarmente e no mérito, a concessão da ordem para redimensionar a pena imposta nos termos alegados.
+Liminar indeferida (fls. 67-68).
+Informações  prestadas  às  fls.  70-77, 85-163 e 164-171.
+O  Ministério  Público  Federal  opinou  pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem  (fls.  173-182).
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  visto  que,  de  acordo  com  o  entendimento  consolidado  do  Superior  Tribunal  de  Justiça,
+a  dosimetria  da  pena  insere-se  dentro  de  um  Juízo  de  discricionariedade  do  julgador,  atrelado  às  particularidades  fáticas  do  caso  concreto  e  subjetivas  do  agente,  somente  passível  de  revisão  por  esta  Corte  no  caso  de  inobservância  dos  parâmetros  legais  ou  de  flagrante  desproporcionalidade  (AgRg  no  HC  n.  710.060/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  14/12/2021,  DJe  de  17/12/2021).
+Insta  asseverar que
+ n ão há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias, como no caso (AgRg no HC n. 820.316/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/06/2023, DJe de 23/06/2023).
+No caso, o Tribunal de origem manteve a valoração negativa das circunstâncias do crime, com base nas razões a seguir transcritas (fl. 56):
+As circunstâncias foram valoradas negativamente em razão de os réus, residentes em Belém-PA, terem se deslocado quase 50 km da capital para realizar o assalto em cidade do interior, levando em consideração a menor vigilância local; a menor movimentação nas cidades interioranas, além de, no horário de 15 horas, terem colocado em risco a vida de clientes e de 05 (cinco) funcionários.
+Já em relação às circunstâncias utilizadas para aumentar a pena na terceira fase, o juiz sentenciante, confirmado pelo Tribunal, fundamentou-se em elementos como o concurso de três agentes e o uso de várias armas de fogo, o que não configura dupla valoração (bis in idem).
+Na situação destes autos, entendo que a exasperação da pena está, de fato, fundamentada, não havendo desproporcionalidade.
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
