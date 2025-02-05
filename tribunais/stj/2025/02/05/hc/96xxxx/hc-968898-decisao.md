@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FATIMA ELIZABETH SANTACRUZ GAONA contra acórdão do Tribunal Regional Federal da 4ª Região proferido no HC n. 5040933-38.2024.4.04.0000/PR.
+Consta nos autos que a paciente, de nacionalidade paraguaia, foi presa em flagrante delito no dia 02/09/2024, convertida a custódia em preventiva, porque, na companhia de outro agente, tripulava um veículo no qual estavam ocultos, sob um fundo falso, 68 kg de maconha (fl. 23).
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, alega a impetrante, em síntese, que a paciente faz jus à prisão domiciliar, nos termos do art. 318-A do Código de Processo Penal, por possuir um filho de 3 (três) anos de idade.
+Aduz que a paciente é primária, sem antecedentes e que os familiares alugaram um local para sua residência no Brasil para cumprir prisão domiciliar e poder cuidar de sua filha de 03 (três) anos pelo tempo que estiver a disposição da justiça (fl. 5).
+Sustenta que não se encontram presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Requer, em liminar e no mérito, a substituição da prisão preventiva por prisão domiciliar, com a expedição do respectivo alvará de soltura.
+O pedido liminar foi indeferido (fls. 44-45).
+As informações foram prestadas (fls. 48-53).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 57-59).
+Petição defensiva à fl. 63, informando que a paciente esclareceu que a criança ficava aos cuidados da avó, somente nos momentos que a mesma estava trabalhando, que é a única responsável pelos cuidados e sustento da menor.
+É o relatório.
+DECIDO.
+A irresignação não prospera.
+No caso, o Tribunal de origem assim manteve a segregação cautelar da ora paciente (fls. 23-30; grifamos):
+In casu, da análise da r. decisão hostilizada em cotejo com as circunstâncias fáticas e os elementos cognitivos produzidos até o momento, verifico a conjugação dos requisitos legais ao decreto/manutenção da prisão preventiva (CPP, art. 312) para o resguardo da ordem pública, por conveniência da instrução penal e para assegurar a aplicação da lei penal.
+A paciente foi presa em flagrante em 02/09/2024, pela prática, em tese, do crime previsto no art. 33, caput e § 1º, da Lei 11.343/2006, ocasião em que, na companhia de outro agente, tripulava um veículo no qual estavam ocultos, sob um fundo falso, 68 kg de maconha. A prisão em flagrante foi convertida em prisão preventiva em 02/09/2024, diante da necessidade de garantir a ordem pública e assegurar a aplicação da lei penal.
+A defesa interpôs o presente Habeas Corpus, cujo pedido de liminar foi assim indeferido (evento 2, DESPADEC1):
+"(..)
+A decisão atacada está assim fundamentada (processo 5022381-68.2024.4.04.7002/PR, evento 6, DESPADEC1):
+(..)
+Consigno que é consolidado o entendimento no sentido de que a mera existência de condições subjetivas favoráveis não impõe, por si só, a concessão de liberdade provisória, ou mesmo a substituição da prisão preventiva pela domiciliar, sobretudo quando presentes os requisitos autorizadores da medida gravosa.
+Com efeito, para a mantença da prisão provisória, bastam indícios razoáveis de autoria, o que, com a devida vênia, se verifica no caso em mesa.
+Ademais, a mera alegação da indiciada FATIMA ELIZABETH SANTACRUZ GAONA de que seria imprescindível ao cuidado de sua filha não é suficiente para a concessão da medida judicial pleiteada, conforme jurisprudência consolidada:
+(..)
+Outrossim, conforme a própria declaração da custodiada no processo 5017536-90.2024.4.04.7002/PR, evento 1, P_FLAGRANTE1, páginas 23 e 24, a conduzida declarou residir sozinha, que é sustentada por seus pais, ademais, declarou como contato de responsável pelo cuidado de sua filha o nome de sua mãe.
+Assim, não merece prosperar o argumento da defesa de que seria a única responsável pelos cuidados de sua filha - menor que estaria vivendo de forma precária de casa em casa.
+Como bem sustentou o Ministério Público Federal (evento 4, PARECER 1):
+(..)
+A filha menor da custodiada não depende exclusivamente dela para os cuidados, pois fica e estão sob os cuidados, pelo menos, de seus avós, de forma que a maternidade não foi impeditivo para a custodiada se lançar na empreitada ilícita de tráfico transnacional de drogas, fazendo viagem do Paraguaia para o território brasileiro.
+Aliás, consta do "Boletim de Vida Pregressa" (evento 1.1, pág. 23/24) da custodiada que sua filha está sob os cuidados dos avós, os quais são responsáveis pelo sustento da família.
+Além disso não consta nos autos nenhum elemento probatório no sentido de que a menor estaria "vivendo de forma precária de casa em casa entre parentes".
+Mais ainda, a quantidade e a natureza da droga apreendida, aliadas à rota empreendida pela flagrada são forte indicativos de atividade criminosa organizada, tendo a ora requerente se associado a organização criminosa de tráfico transnacional de drogas. Esse conjunto recomenda, veementemente, a manutenção da prisão preventiva para assegurar a ordem pública e a aplicação da lei penal, dada a inexistência de qualquer aderência da flagrada ao território brasileiro.
+Além disso, embora a defesa da custodiada tenha apontado um endereço em Foz do Iguaçu/PR para eventualidade de ser concedida a prisão domiciliar, consta no "Termo de Audiência" (evento 28.1) que FÁTIMA reside no "bairro AREA 4, PARAGUAI".
+No ponto, destaca-se que a defesa não apresentou provas relativas ao vínculo da custodiada com o local pretensamente apontado como sendo de seu domicílio no Brasil. A partir de consulta ao google maps foi possível verificar que no endereço "Av. Gustavo Dobrandino da Silva, nº 128 - Jardim Itamaraty" funciona uma pousada/pensão. Neste ponto, a própria natureza do local não induz qualquer relação de fixação entre o morador e aquele domicílio. (..)
+Anoto, por fim, que, ao meu sentir, a indispensabilidade da segregação cautelar é justificada, ainda, pela insuficiência da utilização de medidas cautelares alternativas para a consecução dos objetivos acautelatórios (ordem pública e aplicação da lei penal) traçados pela decisão (processo 5017536-90.2024.4.04.7002/PR, evento 28, TERMOAUD1) cuja revogação ora se postula.
+Logo, permanecendo presentes os fundamentos que levaram à decretação da prisão cautelar, indefiro o pedido de substituição da prisão preventiva por domiciliar.
+Intimem-se."
+(..)
+Nesse passo, examinando o pronunciamento do Juízo primevo e as circunstâncias fáticas, vejo que o decreto prisional está realmente alicerçado nos requisitos do artigo 312 do Código de Processo Penal, especialmente para assegurar a aplicação da lei penal e garantia da ordem pública, porquanto "(..) a quantidade e a natureza da droga apreendida, aliadas à rota empreendida pela flagrada são forte indicativos de atividade criminosa organizada, tendo a ora requerente se associado a organização criminosa de tráfico transnacional de drogas. Esse conjunto recomenda, veementemente, a manutenção da prisão preventiva para assegurar a ordem pública e a aplicação da lei penal, dada a inexistência de qualquer aderência da flagrada ao território brasileiro. Além disso, embora a defesa da custodiada tenha apontado um endereço em Foz do Iguaçu/PR para eventualidade de ser concedida a prisão domiciliar, consta no"Termo de Audiência" (evento 28.1) que Fátima reside no "bairro AREA 4, PARAGUAI" (.. .) ."
+(..)
+Cabe destacar a inexistência de qualquer elemento cognitivo que comprove a alegação de que a filha menor dependa exclusivamente da paciente; e, esse fato, impede a substituição da prisão preventiva pela prisão domiciliar enquanto fundamentada na hipossuficiência de filho menor. Nesse sentido, bastante exemplificativos são os arestos que seguem -
+(..)
+No caso, consta do "Boletim de Vida Pregressa" (evento 1.1, pág. 23/24) da custodiada que sua filha está sob os cuidados dos avós, os quais são responsáveis pelo sustento da família. Ademais, não consta nos autos nenhum elemento probatório no sentido de que a menor estaria "vivendo de forma precária de casa em casa entre parentes".
+Considerando estarem presentes os pressupostos para a decretação da prisão preventiva, não há falar em conversão desta para outra medida cautelar elencada no art. 319 do CPP, uma vez que tais não seriam suficientes para resguardar a ordem pública e obstar o agir delituoso da paciente.
+Por oportuno, cabe referir que, na esteira da iterativa jurisprudência dos TribunaisSuperiores, impende anotar que a alegada existência de condições pessoais favoráveis, por si só, não autorizam a revogação da custódia quando presentes os requisitos do art. 312 do CPP.
+(..)
+O ato combatido encontra suporte de validade nas circunstâncias do caso concreto e aos seus fundamentos eu faço remissão, tomado-os por integrados neste voto.
+(..)
+No caso dos autos, é força reconhecer que a maternidade de criança menor não foi motivação suficiente para impedir a prática delitiva pela paciente; outrossim, não resta evidenciada a sua imprescindibilidade aos cuidados da mesma. Conforme mencionado na decisão que indeferiu a liminar, consta do "Boletim de Vida Pregressa" (evento 1.1, pág. 23/24) da custodiada que sua filha está sob os cuidados dos avós, os quais são responsáveis pelo sustento da família.
+Encontram-se demonstrados, pois, o fumus comissi delicti e o periculum libertatis. Assim, presentes os pressupostos legais para o decreto prisional, não há falar na sua substituição por medidas cautelares diversas (CPP, art. 319).
+Destarte, ausente flagrante ilegalidade/arbitrariedade ou teratologia a inquinar o ato combatido, anoto que o rechaço da impetração é medida que se impõe.
+Do excerto transcrito, verifico que a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, ressaltando-se a especial gravidade dos fatos, evidenciada pela apreensão de expressiva quantidade de droga (68kg de maconha), em tese, atribuída à paciente e aos corréus, em suposto contexto de tráfico transnacional de entorpecentes.
+Tais circunstâncias demonstram a periculosidade da agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+RECURSO EM HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. DESOBEDIÊNCIA E DIREÇÃO PERIGOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. INSUFICIÊNCIA DE CAUTELARES MENOS GRAVOSAS. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva.
+2. O Juiz apontou a presença dos vetores contidos no art. 312 do CPP e indicou motivação idônea para decretar a medida extrema, ao salientar, além da apreensão de abundância de droga (111,5 kg de maconha), o modus operandi da conduta, pois o réu, com domicílio no Paraguai, teria se deslocado até a fronteira para adquirir o entorpecente, transportou-o em veículo por ele conduzido e tinha passagens aéreas já compradas com destino a estados do nordeste. Tal contexto, segundo o Magistrado, não se amolda à condição de "mula" e sinaliza a articulação do acusado com outras pessoas.
+3. Dada a apontada motivação judicial, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+4. Recurso em habeas corpus não provido.
+(RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024; grifamos).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO TRANSNACIONAL DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que a manutenção da prisão preventiva do Agravante foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da expressiva quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 192.558/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024; grifamos).
+Ademais, foi destacada a imprescindibilidade da medida cautelar extrema diante do risco à aplicação da lei penal, pois a custodiada é estrangeira e não há qualquer aderência da flagrada ao território brasileiro (fl. 26). Mutatis mutandis:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. CONDIÇÃO DE ESTRANGEIRO DO ACUSADO. RISCO DE FUGA. NECESSIDADE DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. GRAVOSA NATUREZA E QUANTIDADE DA DROGA. GARANTIA DA ORDEM PÚBLICA. DECRETO PRISIONAL DEVIDAMENTE MOTIVADO. NÃO CABIMENTO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+(..)
+2. "Há necessidade de assegurar a aplicação da lei penal, tendo em vista que o acusado é estrangeiro, sem residência fixa no Brasil ou "quaisquer laços no país, tendo aqui ingressado apenas para cometer crime grave, o que representa concreto risco de fuga, a fim de evitar o cumprimento da pena ou voltar a delinquir" (AgRg no AREsp n. 1.697.713/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/10/2020, DJe de 29/10/2020).
+(..)
+5. Agravo regimental improvido.
+(AgRg no RHC n. 167.731/CE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023; grifamos).
+Quanto ao pleito de prisão domiciliar, o art. 318-A ao Código de Processo Penal determina que (a) prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que (i) não tenha cometido crime com violência ou grave ameaça a pessoa; ou (ii) não tenha cometido o crime contra seu filho ou dependente.
+Em acréscimo, destaca-se que o Supremo Tribunal Federal, no julgamento do HC n. 143.641/SP, relator Ministro Ricardo Lewandowski, concedeu habeas corpus coletivo a fim de garantir a prisão domiciliar às mulheres presas, gestantes, puérperas e mães de crianças menores de 12 (doze) anos de idade ou portadoras de necessidades especiais, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos Juízes que denegarem o benefício.
+Na espécie, observo que as instâncias ordinárias consignaram a existência de situação excepcionalíssima apta a impedir a substituição da prisão preventiva pela domiciliar, destacando-se o risco à aplicação da lei penal, como já pontuado anteriormente, além do fato da criança se encontrar sob os cuidados dos avós, os quais são responsáveis pelo sustento da família (fl. 30), tendo a paciente declarado residir sozinha.
+Nessa conjuntura, não estão preenchidos os requisitos necessários para a concessão do benefício, nos termos dos seguintes precedentes desta Corte Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO TRANSNACIONAL DE ENTORPECENTES. ART. 318-A DO CÓDIGO DE PROCESSO PENAL. PRISÃO DOMICILIAR. DESCABIMENTO. SITUAÇÃO EXCEPCIONALÍSSIMA EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. Na hipótese, não há ilegalidade no indeferimento da prisão domiciliar, tendo em vista que as instâncias ordinárias registraram que as filhas da Custodiada já viviam sob os cuidados da avó, há quase um ano, em outra cidade, tendo sido apontado também o risco concreto à aplicação da lei penal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 834.324/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ORGANIZAÇÃO CRIMINOSA E TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MATERNIDADE DE CRIANÇA MENOR DE 12 ANOS. PRETENSÃO DE PRISÃO DOMICILIAR. CASO FÁTICO. ENQUADRAMENTO NAS SITUAÇÕES EXCEPCIONALÍSSIMAS QUE AFASTA O DIREITO À PRISÃO DOMICILIAR. AGENTE QUE NÃO EXERCE A MATERNIDADE DE FATO E QUE NÃO RESIDE COM OS FILHOS. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. PERICULOSIDADE DA AGRAVANTE. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Supremo Tribunal Federal, no julgamento do habeas corpus coletivo n. 143.641/SP, sob relatoria do em. Ministro Ricardo Lewandowiski, entendeu ser possível a substituição da segregação cautelar pela prisão domiciliar, sem prejuízo da aplicação concomitante das medidas cautelares previstas no artigo 319 do CPP, para mulheres presas, gestantes, puérperas ou mães de crianças sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas.
+II - Embora a mãe seja imprescindível aos cuidados dos filhos, a leitura do excerto transcrito permite concluir que o presente caso se enquadra em situação excepcionalíssima que impede a concessão da prisão domiciliar, porquanto a agravante não estava exercendo a maternidade de fato e sequer residia com seus filhos por ocasião da prisão em flagrante, destacando-se, ademais, que é integrante de organização criminosa e assídua no comércio de entorpecentes. Precedentes.
+III - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 727.607/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 19/4/2022, DJe de 5/5/2022l grifamos).
+Esclareço, por fim, que rever a conclusão das instâncias ordinárias nos termos pretendidos pela Defesa implicaria o revolvimento aprofundado dos fatos e das provas constantes nos autos, providência sabidamente vedada na via eleita.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
