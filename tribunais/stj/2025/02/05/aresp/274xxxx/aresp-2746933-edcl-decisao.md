@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SILVIO ROBERTO VAIANO JUNIOR, em face da decisão monocrática (e-STJ, fls. 612/615), assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+Nas razões destes embargos, a parte embargante alega que o decisum embargado contém obscuridade e omissão, pois "Conforme comprovado no Recurso Especial, a fundamentação do pedido do Embargante, teve o escopo de buscar a reforma o v. Acórdão do "Agravo de Instrumento" do Tribunal que, confirmou a r. decisão monocrática que, "ilegalmente" impôs ao Embargante o ônus do pagamento da comissão do Leiloeiro, mas, fundamentado no § 4º, art. 7º da RESOLUÇÃO 236 CNJ que, "não pode criar tal exceção" não prevista em Lei" (e-STJ, fl. 622).
+Diz, ademais, que "realizou juízo de admissibilidade de forma equivocada pois, conforme vosso Relatório, deixa cristalino quais são os fundamentos das Razões do REsp e, observa-se que, "não há fundamentação do REsp em afronta a Magna Carta" (e-STJ, fl. 623).
+Requer o acolhimento dos embargos, com atribuição de efeitos infringentes, "para afastar a fundamentação do art. 932, inc.III, da r. decisão embargada e provimento do AREsp, para o escorreito juízo de admissibilidade e, o julgamento da matéria do REsp como Tema de Repetitivos" (e-STJ, fl. 625).
+Impugnação apresentada pela parte embargada (e-STJ, fls. 629/633).
+É o relatório.
+Decido.
+A irresignação do embargante não merece acolhida.
+São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE DE ATACAR QUESTÕES JÁ RESOLVIDAS NA DECISÃO INTEGRATIVA. SOCIEDADE ANÔNIMA. VENDA DE AÇÕES COM DIREITO A VOTO. INGRESSO DE NOVO ACIONISTA NO BLOCO DE CONTROLE. REALIZAÇÃO DE ACORDO ENTRE OS ACIONISTAS DESSE GRUPO PARA A GESTÃO DA COMPANHIA. ALIENAÇÃO DO CONTROLE ACIONÁRIO. AUSÊNCIA DE OMISSÃO. MODULAÇÃO DOS EFEITOS. INEXISTÊNCIA DE JURISPRUDÊNCIA DOMINANTE SOBRE O TEMA OBJETO DA DEMANDA. CORREÇÃO MONETÁRIA. ÍNDICE. IPCA. JUROS DE MORA. SELIC. HONORÁRIO SUCUMBENCIAL. SENTENÇA PROFERIDA SOB A ÉGIDE DO CPC/73. INVERSÃO DO ÔNUS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+1. Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do CPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão.
+2. Os segundos embargos de declaração devem alegar erro, omissão, obscuridade ou contradição do acórdão prolatado nos primeiros embargos, não cabendo atacar questões já resolvidas na decisão integrativa precedente, tampouco ressuscitar temas da decisão primitivamente embargada.
+3. A omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum argumento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+ ..
+9. Embargos de declaração parcialmente acolhidos.
+(EDcl nos EDcl no REsp n. 1.837.538/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/12/2024, DJe de 6/12/2024.)
+Não há, na hipótese, qualquer vício a ser sanado.
+Como relatado, o embargante requer o saneamento de vício supostamente contido, ao argumento de que na decisão embargada "Conforme comprovado no Recurso Especial, a fundamentação do pedido do Embargante, teve o escopo de buscar a reforma o v. Acórdão do "Agravo de Instrumento" do Tribunal que, confirmou a r. decisão monocrática que, "ilegalmente" impôs ao Embargante o ônus do pagamento da comissão do Leiloeiro, mas, fundamentado no § 4º, art. 7º da RESOLUÇÃO 236 CNJ que, "não pode criar tal exceção" não prevista em Lei" (e-STJ, fl. 622).
+Por oportuno, destaco, no que interessa ao caso, os seguintes trechos da decisão monocrática embargada (e-STJ, fls. 612/615, grifos no original):
+Trata-se de agravo interposto por SILVIO ROBERTO VAIANO JUNIOR contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 492):
+Agravo de instrumento - Execução de honorários sucumbenciais - Decisão determinando a dedução da comissão do leiloeiro do produto da arrematação, com a expedição de mandado de levantamento eletrônico ao arrematante para posterior liberação do saldo remanescente ao executado - Valor da arrematação superior ao crédito do exequente - Possibilidade da dedução determinada na origem - Inteligência do art. 882, § 1.º, do Código de Processo Civil, combinado com o art. 7.º, § 4.º, da Resolução n. 236/16 do Conselho Nacional de Justiça - Precedentes jurisprudenciais - Decisão mantida - Litigância temerária não caracterizada - Recurso não provido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 531- 534).
+Nas razões recursais a parte recorrente alega violação aos arts. 884, parágrafo único e 1.022, II, do CPC e 24 do Decreto n. 21.981/1932, sustentando negativa de prestação jurisdicional e que a comissão do leiloeiro não deve recair sobre o próprio executado.
+Contrarrazões às fls. 559-565 (e-STJ).
+Em juízo de admissibilidade, o recurso foi inadmitido em razão do não cabimento de recurso especial por ofensa a dispositivo constitucional; ausência de negativa de prestação jurisdicional; e não demonstração de vulneração dos dispositivos arrolados (e-STJ, fls. 567-569).
+Brevemente relatado, decido.
+O presente recurso não merece conhecimento, em virtude da não impugnação aos fundamentos da decisão agravada.
+O recurso especial foi inadmitido em razão de não cabimento por ofensa a dispositivo constitucional; ausência de negativa de prestação jurisdicional; e não demonstração de vulneração dos dispositivos arrolados.
+Ora, na espécie, o agravante não demonstrou a inadequação de todos os óbices, especificamente no que concerne ao não cabimento de recurso especial por ofensa a dispositivo constitucional. Limitou-se a alegar a ocorrência de negativa de prestação jurisdicional e a repisar as razões da peça inicial.
+O princípio da dialeticidade, que rege as normas sobre os recursos, exige que as razões recursais sejam elaboradas em consonância com os fundamentos da decisão recorrida. O recurso que repete as questões de mérito do processo sem dialogar com a decisão recorrida é inadmissível.
+Esta Corte tem entendimento pacífico de que a parte agravante deve impugnar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Acrescente-se, ainda, que alegações genéricas não são suficientes para impugnar a decisão de inadmissibilidade.
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, consoante dispõe o art. 932, inciso III, do CPC/2015 (art. 544 do CPC/1973), veja-se:
+Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Sobre o tema, confiram-se os seguintes julgados desta Corte Superior:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO DA DECISÃO AGRAVADA. SÚMULA 7/STJ. ALEGAÇÕES GENÉRICAS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA 1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Inadmitido o recurso especial com base na Súmula 7/STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1775476/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021).
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC. 5. Embargos de divergência não providos.
+(EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018).
+Ante o exposto, não conheço do agravo em recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+Nota-se, portanto, que pretende o embargante, na verdade, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios.
+Verifica-se, portanto, que a decisão embargada não padece de qualquer omissão ou contradição, porquanto examinou fundamentadamente o apelo nobre trazido à sua análise, não podendo ser considerado nulo ou omisso tão somente porque contrário aos interesses do embargante.
+Nesse sentido, colaciono precedentes dessa Corte Superior de Justiça:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. RECURSO ESPECIAL. INADMISSÃO. TESE REPETITIVA. AGRAVO EM RECURSO ESPECIAL INCABÍVEL. VIA INADEQUADA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos da orientação desta Corte, se o recurso especial teve seu seguimento negado na origem exclusivamente com base no artigo 1.030, inciso I, alínea "b" ou no artigo 1.040, inciso I, do Código de Processo Civil, o único recurso cabível seria o agravo interno de que trata o § 2º do dispositivo legal em comento. A interposição do agravo previsto no artigo 1.042 do Código de Processo Civil nesses casos caracteriza-se como erro grosseiro.
+3. Embargos de declaração rejeitados. (EDcl no AgInt na Rcl n. 40.770/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 3/12/2024, DJe de 6/12/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE DISTRIBUIÇÃO DE HONORÁRIOS. PRESCRIÇÃO. SÚMULA N. 168/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+ ..
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados. (EDcl no AgInt nos EAREsp n. 1.850.024/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 19/11/2024, DJe de 25/11/2024.)
+Ademais, cumpre salientar, por oportuno, que: "Segundo entendimento pacífico desta Corte, o julgador não está obrigado a responder a todas as questões suscitadas pelas par tes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (AgInt no AREsp n. 2.580.727/PB, relator Ministro Humberto Martins, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.).
+Rejeito, portanto, os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA . EMBARGOS DE DECLARAÇÃO REJEITADOS.
