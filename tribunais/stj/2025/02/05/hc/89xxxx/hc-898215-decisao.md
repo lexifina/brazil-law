@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUIZ HENRIQUE DE PAULA RODRIGUES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO no julgamento da Apelação Criminal n. 0009082-82.2022.8.08.0035.
+Consta dos autos que o paciente foi condenado pela prática dos delitos previstos nos arts. 33, caput, c/c art. 40, inciso VI, ambos da Lei nº 11.343/2006, às penas de 04 (quatro) anos, 03 (três) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, e a 583 (quinhentos e oitenta e três) dias-multa, à razão de 1/30 (um trinta avos) do salário-mínimo vigente à época dos fatos.
+O Tribunal local negou provimento ao recurso de Apelação interposto pela Defesa.
+Neste habeas corpus, a Defensoria Pública sustenta que "as provas produzidas e tomadas como base para a condenação do paciente são frágeis e despidas de concretude, consistindo a condenação, nos moldes como foi exarada, constrangimento ilegal". Ressalta, no ponto, que "os únicos elementos que fundamentam o decreto condenatório em desfavor do paciente pela autoria delitiva no crime de tráfico de drogas são os testemunhos prestados pelos guardas municipais durante a fase inquisitorial repetidos em juízo".
+Aduz, ainda, que "Fácil concluir que a instância ordinária não se valeu do melhor direito na condenação do paciente, exigindo-se, com isso, não uma reavaliação da prova, mas uma revalorização da prova real izada equivocamente pelo juízo estadual. Vale ressaltar que o sistema acusatório exige de forma inequívoca a configuração empírica do fato típico, fato que na distribuição estática do ônus da prova, o Ministério Público não se desincumbiu de seu dever de provar a mercancia da substância ilícita."
+No mérito, requer a concessão da ordem para o efeito de reformar o acórdão e absolver o paciente.
+Foram solicitadas informações (fl. 35).
+O Ministério Público Federal emitiu parecer opinando pelo não conhecimento do habeas corpus (fls. 54-59).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da suposta ausência de provas suficientes aptas à condenação do paciente.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Os pontos controvertidos, que são a "ilicitude das provas, suporte em depoimento policial, princípios do contraditório, estado de inocência e ampla defesa e atipicidade da conduta", já foram enfrentadas pelo Tribunal competente de forma bem fundamentada (fls. 13-23). A sua reanálise por este Superior Tribunal de Justiça demandaria uma incursão mais aprofundada em fatos e provas, o que não é da competência constitucional desta Corte.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
