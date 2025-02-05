@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOEBSON MIRANDA DO NASCIMENTO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE.
+O paciente foi denunciado e se encontra cautelarmente custodiado por suposta infração aos artigos 2º, caput e §2º, da Lei nº 12.850/2013, 33 da Lei n.º 11.343/2006 e 17 da Lei n.º 10.826/2003, na forma do art. 69 do Código Penal.
+O impetrante aduz, em síntese, que o paciente foi preso preventivamente em 28 de maio de 2024, em cumprimento do mandado de prisão preventiva, expedido nos autos de medida cautelar.
+Aduz que a prisão perdeu o sentido, porquanto todas as diligências já foram cumpridas. Alega constrangimento ilegal decorrente da desproporcionalidade da prisão cautelar., sendo certo que o paciente não oferece risco à instrução criminal, podendo ser aplicada medidas cautelares alternativas. Além disso, o decreto de prisão careceria de fundamentação idônea e que, diante da fragilidade das provas, estão ausentes, no caso concreto, os pressupostos estabelecidos na lei processual penal à custódia cautelar. Invoca as condições pessoais favoráveis do paciente, que tem dois filhos menores impúberes, reputando a prisão cautelar medida desarrazoada e de maior gravidade em relação à própria condenação.
+A liminar foi indeferida (fls.222/224).
+As informações foram prestadas (fls.232/249).
+O Ministério Público Federal opinou pela denegação da ordem (fls.263/267).
+RELATADO.DECIDO.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+O paciente foi denunciado pelos crimes tipificados nos artigos 2º, e §2º, da Lei nº 12.850/2013, art.33 da Lei 11.343/2006 e 17 da Lei n.º 10.826/2003, na forma do art. 69 do Código Penal.
+O colegiado da unidade judiciária de delitos de organização criminosas (UJUDOCRIM) de Natal/RN prestou as seguintes informações acerca do paciente(fl.256):
+JOEBSON MIRANDA DO NASCIMENTO, de acordo com o relatório policial, é identificado, por mais de uma vez, nos diálogos obtidos através das extrações, oferecendo arma de fogo para a Organização. Nesse contexto, o investigado, supostamente, teria tratado diretamente com WENDELL PEREIRA, que supostamente teria realizado o pagamento e entregado o armamento para WENDELL LUCAS.
+O relator do habeas corpus no Tribunal de origem, ao analisar as alegações do paciente, reiteradas no presente, ressaltou o seguinte (fl.246):
+demonstrada a gravidade concreta das condutas, em tese, praticadas pelo paciente, envolvendo delitos de alta gravidade, tais quais o comércio clandestino de armas de fogo, atividade diretamente ligada ao aumento da criminalidade e da violência, sobretudo no contexto de investigação de organização criminosa e tráfico de drogas (demonstrando a sua convivência com o mundo do crime), tenho por devidamente justificado o encarceramento provisório do acusado na origem, vez que presentes não apenas os seus pressupostos (art. 312 do CPP - materialidade, indícios de autoria, garantia da ordem pública para interromper as práticas delitivas), mas também os seus requisitos (art. 313 do CPP - crime com pena máxima superior a 4 anos).
+Como apontou o Ministério Público Federal, em parecer, o Supremo Tribunal Federal já decidiu que "a necessidade de se interromper ou diminuir a atuação de integrantes de associação criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC-95.024/SP, Rel. Min. Cármen Lúcia, D Je de 20/02/2009).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
