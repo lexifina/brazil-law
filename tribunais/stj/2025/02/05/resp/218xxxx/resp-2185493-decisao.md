@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial manejado por INSTITUTO ESTADUAL DE FLORESTAS - IEF com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 769):
+APELAÇÃO CÍVEL. DIREITO AMBIENTAL. AÇÃO DECLARATÓRIA DE NULIDADE. BOLETIM DE OCORRÊNCIA. INTERFERÊNCIA E SUPRESSÃO DE ÁRVORES EM ÁREA DE PRESERVAÇÃO PERMANENTE. TOPO DE MORRO. INFRAÇÃO NÃO CONFIGURADA. NULIDADE DO BO.
+1. Consoante o exposto no art. 10, inciso V da Lei n.º 14.309/2002, considera-se área de preservação permanente intitulada "topo de morros monte ou montanha" aquela área delimitada a partir da curva de nível correspondente a dois terços da altura da elevação em relação à base.
+2. O estudo técnico judicial não deixou dúvidas a respeito da regularidade da conduta dos autores, em relação à supressão das árvores, que foi realizada mediante autorização, em local abaixo da curva de nível que delimita a área de preservação permanente "topo do morro".
+3. Não tendo restado configurada infração ambiental, a sentença proferida deve ser mantida.
+Opostos embargos declaratórios, foram rejeitados (fls. 825/828).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação ao art. 1.022 do CPC. Sustenta que (I) "através de embargos de declaração, o Instituto Estadual de Florestas - IEF demonstrou que o acórdão proferido pelo Tribunal local não cuidou, em momento algum, da aplicação da lei vigente ao tempo da infração ambiental, e da caracterização de área de proteção ambiental - APP de acordo com essa norma, à luz do princípio tempus regit actum e da vedação ao retrocesso ambiental" (fl. 844) e (II) "o Tribunal local não se pronunciou quanto à necessária aplicação do artigo 3º, incisos II e IV, artigo 4º, inciso VII e artigo 14, §1º, todos da Lei n.º 6.938/81, quanto à obrigação do poluidor, independentemente da existência de culpa, de indenizar ou reparar os danos causados ao meio ambiente afetados por sua atividade (no caso concreto, criação de condomínio de lotes)"; (fl. 844); e (III) "o acórdão em nada tratou quanto à necessidade de redução dos honorários de sucumbência, à vista do valor atribuído à causa e dos percentuais previstos no artigo 85, §3º, inciso I, do Código de Processo Civil." (fl. 844).
+Foram ofertadas contrarrazões às fls. 853/864.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte insurgente, nas razões dos embargos de declaração e do recurso especial, alega que "O acórdão, entretanto, em nada tratou quanto à necessidade de redução dos honorários de sucumbência, à vista do valor atribuído à causa e dos percentuais previstos no artigo 85, §3º, inciso I, do Código de Processo Civil." (fl. 792).
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
