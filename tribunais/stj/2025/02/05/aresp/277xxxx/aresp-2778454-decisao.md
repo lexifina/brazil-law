@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por RHAY CARMO DE SOUZA, contra a decisão que não admitiu recurso especial fundamentado na alínea "a" do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (fls. 373-374).
+O agravante foi condenado às penas de 11 (onze) anos de reclusão e 1310 (mil trezentos e dez) dias- multa, no regime inicial fechado, pela prática dos crimes dos arts. 33 e 35 da Lei 11.343/06 e do art. 14 da Lei n. 10.826/06 (e-STJ fls. 225-232).
+O Tribunal de origem negou provimento ao apelo da Defesa (e-STJ fls. 373-399).
+Os embargos de declaração opostos pela parte foram rejeitados (e-STJ fls. 221-224).
+Nas razões do recurso especial o agravante alega a violação aos arts. 35 da Lei 11.343/2006, 155 e 386, VII do Código de Processo Penal, ao argumento, em síntese, de ausência de provas quanto ao intento do recorrente de se associar de forma estável e duradoura para a prática do crime de tráfico de drogas.
+Requer o provimento do recurso para que seja decretada a absolvição do quanto ao crime de associação para o tráfico, na forma do art. 386, VII do Código de Processo Pena (e-STJ fls. 403-412).
+Contrarrazões apresentadas às e-STJ fls. 415-423.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 433-437), fundamento contra o qual se insurge a parte agravante (e-STJ fls. 439-446).
+Parecer do Ministério Público Federal pelo não provimento do agravo em recurso especial (e-STJ fls. 476-480).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever a fundamentação utilizada pelo Tribunal estadual acerca da alegação de atipicidade da conduta (e-STJ fls. 381-382, grifamos ):
+Dando sequência à análise da sentença, passo a examinar as provas relacionadas ao crime de associação para o tráfico - art. 35, da Lei nº 11.343/2006.
+Neste particular, rememoro que configura-se o delito em referência quando o agente une-se a terceiro(s), de forma estável, para o cometimento de qualquer das condutas típicas punidas no artigo 33, caput e §1º do artigo 34, da Lei nº 11.343/2006.
+No mesmo sentido, o entendimento pacificado na jurisprudência do Superior Tribunal de Justiça, a exemplo do que se extrai do julgamento proferido no Habeas Corpus nº 808.612/SP, de relatoria do E. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023, no sentido de que (..) "A condenação pela prática do crime de associação para o tráfico de drogas exige demonstração de dolo de se associar com estabilidade e permanência com a finalidade de cometer os crimes previstos nos arts. 33 ou 34 da Lei de Drogas."
+Na espécie, estão evidentes a estabilidade e a permanência da vinculação existente entre os membros da facção criminosa.
+Veja-se, a propósito, que ficou clara a divisão de tarefas existente no grupo: a liderança cabia a Mateus da Glória Mendes (MT), que distribuía as drogas e armas para seus subordinados. O recorrente RHAY CARMO DE SOUZA figurava como "soldado" do tráfico, na medida que fora recrutado por um conhecido para ir trabalhar para Mateus MT em Guarapari, fazendo a segurança dos pontos de venda, razão pela qual as armas estavam sob sua guarda. A JORGE DA GLÓRIA MENDES, irmão de Mateus, competia recolher o dinheiro movimentado pela atividade ilícita.
+Assim, mantenho a condenação de ambos pela prática do crime de associação para o tráfico.
+Tendo a Corte de origem, soberana na apreciação das provas, concluído pela autoria e materialidade do crime de associação para o tráfico (art. 35, da Lei n. 11.343/2006), a pretensão da Defesa de alterar tal entendimento exigiria revolvimento fático-probatório, o que encontra óbice na Súmula 7 do STJ.
+Em casos análogos:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. EXACERBAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO VÁLIDA. PROPORCIONALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado - notadamente o conteúdo extraído do celular dos réus -, demonstra que o recorrente era o responsável pela carga de maconha transportada pelo corréu Fidelcino. Ademais, o conteúdo extraído dos celulares apreendidos mostra que o transporte era feito de forma organizada, com divisão de tarefas com outros indivíduos, havendo, inclusive, menção a pagamentos feitos a motorista e batedor. Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do recorrente seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.576.927/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/05/2024, DJe de 20/05/2024, grifamos).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. FLAGRANTE PREPARADO. NÃO OCORRÊNCIA. REVISÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ASSOCIAÇÃO PARA O TRÁFICO. INDICAÇÃO DE PROVA CONCRETA ESTABILIDADE E PERMANÊNCIA NA ORIGEM. ABSOLVIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PERDIMENTO DE BENS. FUNDAMENTO CONSTITUCIONAL. SÚMULA 126/STJ. EFEITOS DA CONDENAÇÃO. POSSIBILIDADE. REVERSÃO DA PREMISSAS FÁTICAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo.
+2. Tendo o Tribunal a quo concluído pela não ocorrência de flagrante preparado, por falta de provas, para que se alcance, nesta instância, entendimento diverso, seria necessária a incursão do conjunto fático-probatório, o que é vedado nos termos do óbice contido na Súmula 7/STJ.
+3. Firmou-se neste Superior Tribunal de Justiça entendimento no sentido de que é indispensável, para a configuração do crime de associação para o tráfico, a evidência do vínculo estável e permanente do acusado com outros agentes.
+4. Tendo as instâncias de origem concluído pela comprovação da estabilidade e permanência relacionado ao delito de associação para o tráfico, com base nas provas produzidas nos autos, em que se constatou que o acusado, evadido da unidade prisional, foi preso dentro de laboratório de refino de drogas, com a apreensão de materiais para preparação de entorpecentes, constando, a mais disso, informações sobre vendas de drogas e fotografias, e ainda apreensão de armas de fogo, munições e explosivos, com a divisão de tarefas com os demais agentes envolvidos na facção criminosa do Comando Vermelho, para se chegar à conclusão diversa, seria necessário o reexame de todo o conjunto fático-probatório, inadmissível pela via do recurso especial, a teor da da Súmula 7/STJ.
+5. A existência de questão constitucional autônoma a autorizar a interposição de recurso extraordinário, providência à qual não se ateve o recorrente, atrai a incidência da Súmula 126/STJ.
+6. Concluindo a Corte local acerca da existência de dúvida da propriedade dos automóveis, bem como foram utilizados para a prática dos crimes de tráfico e associação para o tráfico, admissível o perdimento de bens como efeito da condenação, consoante art. 63 da Lei 11.343/06, sendo certo que a desconstituição das premissas fáticas do acórdão impugnado demandaria o reexame probatório, inadmissível a teor da Súmula 7/STJ.
+7. Agravo regimental provido. Agravo conhecido para não conhecer do recurso especial.
+(AgRg no AREsp n. 1.940.848/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/2/2022, DJe de 2/3/2022, grifamos).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+ EMENTA
