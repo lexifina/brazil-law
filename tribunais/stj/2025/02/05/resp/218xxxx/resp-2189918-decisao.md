@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Araguaína com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 55):
+1. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PAGAMENTO EM MOMENTO POSTERIOR AO AJUIZAMENTO DA AÇÃO. ANTERIOR A CITAÇÃO. CONDENAÇÃO DO EXECUTADO EM HONORÁRIOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1.1. O pagamento do débito ocorreu antes da citação, pela via administrativa, logo não é possível a condenação do executado ao pagamento de custas e honorários, porquanto não foi instaurada a relação processual.
+1.2. Na satisfação do débito, administrativamente, a Fazenda Pública não cobrou a verba honorária, mesmo já tendo sido ajuizada a ação, nem mesmo fez ressalva alguma a esse título, de modo que a aceitação do pagamento integral implica em renúncia aos eventuais honorários.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 91/100.
+Nas razões do recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação aos arts. 85, § 1º, § 2º, § 10, e 90 do CPC. Sustenta, em síntese, que é devida a verba honorária ao município mesmo havendo pagamento do débito fiscal antes da citação válida do executado.
+Contrarrazões às fls. 138/146, postulando o não conhecimento do apelo raro pela ausência de prequestionamento e ausência do cotejo analítico do dissídio jurisprudencial e, no mérito, o seu desprovimento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, não assiste razão ao recorrido relativamente às preliminares de não-conhecimento do recurso especial, o qual cumpre os requisitos legais e constitucionais exigidos para a sua admissão. Sobre os óbices alegados, cumpre apenas dizer que a questão controvertida está prequestionada e o dissídio jurisprudencial foi devidamente demonstrado.
+A irresignação merece acolhimento.
+De acordo com a jurisprudência deste Superior Tribunal de Justiça, são devidos honorários advocatícios pela parte executada à Fazenda Pública na hipótese de a execução fiscal ser extinta em decorrência do pagamento extrajudicial do crédito, ainda que efetuado antes da citação da parte executada.
+A propósito, destacam-se os seguintes precedentes:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CRÉDITO TRIBUTÁRIO. PAGAMENTO ADMINISTRATIVO ANTES DA CITAÇ ÃO. HONORÁRIOS DE SUCUMBÊNCIA. CABIMENTO. PRINCÍPIO DA CAUSALIDADE.
+1. A orientação jurisprudencial desta Corte superior é a de que "o pagamento extrajudicial do débito fiscal equivale ao reconhecimento da dívida executada e do pedido da execução, e, em homenagem ao princípio da causalidade, leva o executado a arcar com o adimplemento integral dos honorários advocatícios, por ter dado causa ao ajuizamento da ação, consoante previsto nos arts. 85, §§1º, 2º e 10, c/c o art. 90 do CPC/2015" e de que "o simples ajuizamento da execução implicou despesas para a Fazenda exequente, que provocou o Judiciário para cobrança de valores a ela devidos, após a lavratura do auto de infração por conta do inadimplemento do contribuinte", não podendo a exequente "ser prejudicada pelo exercício de um direito legítimo, qual seja, a propositura da execução fiscal para cobrança de débito fiscal líquido e certo, sendo impositiva a aplicação do ônus de sucumbência ao executado que confessou, reconheceu e pagou o débito" (REsp 1.931.060/PE, rel. Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 14/09/2021, DJe de 23/09/2021).
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.068.074/GO, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 20/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. QUITAÇÃO ADMINISTRATIVA POSTERIOR AO AJUIZAMENTO DA AÇÃO EXECUTIVA. HONORÁRIOS DE ADVOGADO. CABIMENTO.
+1. A a extinção da execução fiscal ocorreu em razão da quitação do débito na via administrativa, após a propositura da ação. Nessa hipótese, o entendimento desta Corte Superior é no sentido de ser cabível a condenação ao pagamento de honorários de advogado com base no princípio da causalidade, ainda que não efetivada a citação.
+Nesse sentido: REsp n. 1.994.500/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/3/2023, DJe de 10/3/2023; REsp n. 1.931.060/PE, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 14/9/2021, DJe de 23/9/2021; REsp n. 1.854.592/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2020, DJe de 31/8/2020; REsp n. 1.820.658/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/8/2019, DJe de 19/8/2019.
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.028.318/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. PAGAMENTO EXTRAJUDICIAL POSTERIOR AO AJUIZAMENTO DA AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. DESNECESSIDADE DE REVOLVIMENTO DAS PROVAS DOS AUTOS. INAPLICABILIDADE DA SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça possui entendimento de ser devida a condenação ao pagamento de honorários advocatícios quando a quitação extrajudicial do débito excutido ocorrer após o ajuizamento da ação executiva, mesmo antes de efetivada a citação, em homenagem ao princípio da causalidade, não devendo incidir a exceção prevista no art. 26 da LEF.
+2. Ao contrário do que alega a agravante, as questões referentes às datas do ajuizamento da ação, do pagamento do crédito tributário e da citação da parte executada encontram-se discriminadas na própria ementa do aresto recorrido, não demandando qualquer investigação dos elementos dos autos, razão pela qual incabível o óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.067.906/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe 13/12/2017).
+Assim, por estar em dissonância com o entendimento deste Tribunal Superior, o acórdão recorrido merece reparos.
+ANTE O EXPOSTO, dou provimento ao recurso especial em ordem a restabelecer a decisão do magistrado a quo, que entendeu ser devida a condenação do executado ao pagamento de honorários advocatícios em favor do ente municipal.
+Publique-se.
+EMENTA
